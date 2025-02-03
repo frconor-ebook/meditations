@@ -3,8 +3,9 @@ document.addEventListener('DOMContentLoaded', function() {
   var searchResults = document.getElementById('search-results');
   var meditations = [];
 
-  // Fetch the meditations data (using an absolute path relative to the site root)
-  fetch('/meditations/_data/meditations.json')
+  // Fetch the meditations data using baseurl
+  var baseurl = document.body.dataset.baseurl; // Get baseurl from data attribute
+  fetch(baseurl + '/_data/meditations.json')
     .then(response => response.json())
     .then(data => {
       meditations = data;
@@ -13,14 +14,13 @@ document.addEventListener('DOMContentLoaded', function() {
       console.error('Error fetching meditations data:', error);
     });
 
-
   searchBox.addEventListener('input', function() {
     var searchTerm = searchBox.value.toLowerCase();
 
     // Filter meditations based on search term
     var filteredMeditations = meditations.filter(function(meditation) {
       return meditation.title.toLowerCase().includes(searchTerm) ||
-            meditation.content.toLowerCase().includes(searchTerm);
+             meditation.content.toLowerCase().includes(searchTerm);
     });
 
     displayResults(filteredMeditations);
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
         var listItem = document.createElement('li');
         var link = document.createElement('a');
         // Use the baseurl for links
-        link.href = '/meditations/homilies/' + meditation.slug + '/';
+        link.href = baseurl + '/homilies/' + meditation.slug + '/';
         link.textContent = meditation.title;
         listItem.appendChild(link);
         resultsList.appendChild(listItem);
