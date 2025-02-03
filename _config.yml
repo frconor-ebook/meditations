@@ -28,9 +28,14 @@ exclude:
   - ".gitignore"
   - "docs/README.md"
 
-# Don't generate a sitemap for _data
+# ADD THIS SECTION
 defaults:
   - scope:
       path: ""
+      type: "pages"
     values:
-      sitemap: false
+      layout: "page"
+  - scope:
+      path: "_data" # Apply these settings to files in _data
+    values:
+      sitemap: false  # Exclude data files from sitemap (optional but recommended)
