@@ -1,0 +1,23 @@
+title: Fr. Conor Donnelly Meditations
+description: A collection of meditations by Fr. Conor Donnelly
+baseurl: "/meditations"  # The subpath of your site (important for GitHub Pages)
+url: "https://frconor-ebook.github.io" # Your site's URL
+permalink: /homilies/:title/
+markdown: kramdown
+
+# Build settings
+source: .
+destination: ./docs
+plugins:
+  - jekyll-feed
+
+include: ["_data"]
+
+# Exclude from processing
+exclude:
+  - create_project.sh
+  - transcript_proofread_markdown_small
+  - transcript_proofread_markdown
+  - vendor
+  - _posts/2025-02-03-welcome-to-jekyll.markdown
+  - about.markdown
