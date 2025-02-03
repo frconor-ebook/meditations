@@ -3,8 +3,14 @@ document.addEventListener('DOMContentLoaded', function() {
   var searchResults = document.getElementById('search-results');
   var meditations = [];
 
-  // Fetch the meditations data using baseurl
-  var baseurl = document.body.dataset.baseurl; // Get baseurl from data attribute
+  // Fetch the meditations data using baseurl, correctly handling the leading slash
+  var baseurl = document.body.dataset.baseurl;
+  // Ensure baseurl exists and doesn't end with a slash
+  if (baseurl && baseurl.endsWith('/')) {
+    baseurl = baseurl.slice(0, -1);
+  }
+
+  // Construct the fetch URL without adding an extra slash
   fetch(baseurl + '/_data/meditations.json')
     .then(response => response.json())
     .then(data => {
