@@ -11,13 +11,26 @@ destination: ./docs
 plugins:
   - jekyll-feed
 
-include: ["_data"]
-
-# Exclude from processing
+# Include an exclude
+include:
+  - "_data/"
 exclude:
-  - create_project.sh
-  - transcript_proofread_markdown_small
-  - transcript_proofread_markdown
-  - vendor
-  - _posts/2025-02-03-welcome-to-jekyll.markdown
-  - about.markdown
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "vendor"
+  - "create_project.sh"
+  - "transcript_proofread_markdown_small/"
+  - "transcript_proofread_markdown/"
+  - "_posts/2025-02-03-welcome-to-jekyll.markdown"
+  - "about.markdown"
+  - "README.md"
+  - "process_markdown.py"
+  - ".gitignore"
+  - "docs/README.md"
+
+# Don't generate a sitemap for _data
+defaults:
+  - scope:
+      path: ""
+    values:
+      sitemap: false
