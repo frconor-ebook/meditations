@@ -14,7 +14,6 @@ plugins:
 # Include an exclude
 include:
   - "_data/"
-  - "docs/_data/" # Add this line to explicitly include _data inside docs
 
 exclude:
   - "Gemfile"
