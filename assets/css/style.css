@@ -1,86 +1,72 @@
 body {
     font-family: Arial, sans-serif;
-    line-height: 1.7; /* Increase line height slightly */
+    line-height: 1.6;
     margin: 0;
     padding: 0;
     background: #f4f4f4;
     color: #333;
-    font-size: 17px; /* Slightly larger font size */
-}
+  }
 
-header {
+  header {
     background: #70a1ff;
     color: #fff;
     padding: 1rem 0;
-    text-align: center; /* Center header content */
-}
+    text-align: center;
+  }
 
-nav ul {
+  nav ul {
     padding: 0;
     list-style: none;
-    margin: 0; /* Remove default margin */
-}
+  }
 
-nav ul li {
+  nav ul li {
     display: inline;
-}
+    margin-right: 20px;
+  }
 
-nav a {
+  nav a {
     color: #fff;
     text-decoration: none;
-    padding: 0.5rem 1rem; /* Add padding around link */
-}
+  }
 
-main {
+  main {
     padding: 20px;
-}
+  }
 
-article {
+  article {
     background: #fff;
     padding: 20px;
     margin-bottom: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
+  }
 
-h1, h2 {
+  h1, h2 {
     color: #333;
-}
+  }
 
-h1 {
-    margin-top: 2rem; /* Add margin above main heading */
-    margin-bottom: 1rem; /* Add margin below main heading */
-}
+  a {
+    color: #70a1ff;
+  }
 
-a {
-    color: #2952cc; /* Darker blue for links */
-}
-
-footer {
+  footer {
     text-align: center;
-    padding: 10px; /* Reduced padding */
+    padding: 20px;
     background: #333;
     color: #fff;
     position: fixed;
     bottom: 0;
     width: 100%;
-}
+  }
 
-#search-box {
+  #search-box {
     padding: 8px;
     margin: 10px 0;
     border: 1px solid #ddd;
     border-radius: 4px;
     width: 300px;
-    background: #70a1ff; /* Match header background */
-    color: #fff;
-}
+  }
 
-/* Placeholder color for search box */
-#search-box::placeholder {
-  color: #fff;
-}
-
-#search-results {
+  #search-results {
     margin-top: 10px;
-}
+  }
