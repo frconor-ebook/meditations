@@ -18,7 +18,14 @@ This repository contains the source code for a website that displays a collectio
 
 ## Building and Running the Site Locally
 
-1. **Build the Site:**
+1. **Go to Related Directory:**
+
+    ```bash
+    cd /Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations
+    ```
+
+
+2. **Build the Site:**
 
     ```bash
     bundle exec jekyll build
@@ -26,7 +33,7 @@ This repository contains the source code for a website that displays a collectio
 
     This command will generate the static website files in the `docs` directory.
 
-2. **Start the Development Server:**
+3. **Start the Development Server:**
 
     ```bash
     bundle exec jekyll serve
