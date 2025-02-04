@@ -16,23 +16,23 @@ pardon for my sins and grace to make this time of prayer fruitful. My
 Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
 intercede for me.*
 
-"When Yahweh called, 'Samuel, Samuel!' he answered, 'Here I am,' and
-running to Eli, saying he said, 'Here I am, as you called me.' Eli said,
-'I did not call. Go back and lie down.'"
+"When Yahweh called, 'Samuel! Samuel!' he answered, 'Here I am,' and,
+running to Eli, he said, 'Here I am, as you called me.' Eli said, 'I did
+not call. Go back and lie down.'"
 
 God was calling Samuel, but Samuel did not realize that it was God who
 was calling.
 
-"And again, Yahweh called, 'Samuel, Samuel!' He got up and went to Eli
+"And again, Yahweh called, 'Samuel! Samuel!' He got up and went to Eli
 and said, 'Here I am, as you called me.' He replied, 'I did not call, my
 son; go back and lie down.'
 
 "And he said to Samuel, 'Go and lie down, and if someone calls, say:
-Speak, Yahweh, your servant is listening.' So Samuel went and lay down
-in his place" (1 Sam 3:4-6,9).
+Speak, Yahweh, for your servant is listening.' So Samuel went and lay
+down in his place" (1 Sam. 3:4-6,9).
 
 This is the right reaction to have when we detect that God may be
-speaking deep in our soul and in our heart. "Speak, Lord, your servant
+speaking deep in our soul and in our heart: "Speak, Lord, your servant
 is listening."
 
 What's interesting is that God was speaking, but \[Samuel\] did not know
@@ -151,7 +151,7 @@ instructive. "Jesus turned." He turned around from what He was doing. He
 stopped where He was going. He turned towards these individuals.
 
 Maybe these days in your life, Our Lord is turning and looking at you.
-"And He said to them, 'What do you seek?'" (John 1:38).
+"And he said to them, 'What do you seek?'" (John 1:38).
 
 Because truly they were seeking. Maybe, like Samuel, they really didn\'t
 know what they were seeking. But they knew they were seeking something.
@@ -160,8 +160,7 @@ God often gives us these inclinations in our desires. We\'re seeking,
 we\'re searching. And so, a good question to ask ourselves is, 'Where am
 I? What are the signs of the times in my life?'
 
-Our Lord makes a lot of noise about "the signs of the times" (Matt.
-16:3, 24:3-31; Luke 21:5-28).
+Our Lord makes a lot of noise about "the signs of the times."
 
 "'Stormy weather today,' you say, 'for the sky is red and overcast,'"
 we\'re told in St. Matthew. "'You know how to read the face of the sky,
@@ -191,8 +190,8 @@ He\'s turning and looking upon each one of us: "Whom do you seek?" (John
 
 Pope St. John Paul liked to say that there are three questions that
 every human person must keep asking in the course of their life: 'Where
-have I come from?' 'Where am I going?' 'What is my life all about?' (cf.
-John Paul II, Encyclical, *Fides et Ratio*, September 14, 1988).
+have I come from?' 'Where am I going?' 'What is my life all about?'
+(*cf*. John Paul II, Encyclical, *Fides et Ratio*, September 14, 1988).
 
 He said that on the answers to those questions, very often, will depend
 the happiness that we will achieve in this world.
@@ -216,7 +215,7 @@ The highest possible ideals that are available on the planet are the
 ideals of Christ. God is placing them precisely within our grasp.
 
 That\'s why the apostles, when they heard the words of Our Lord, they
-answered. "They got up immediately and they followed him" (cf. Matt.
+answered. "They got up immediately and they followed him" (*cf*. Matt.
 4:22). There was a certain sense of urgency.
 
 When Our Lord said, "What do you seek?" they answered, "Rabbi" (which
@@ -255,7 +254,7 @@ With our vocation, God gives us the opportunity to make a deep furrow,
 to do an awful lot of good, to leave a great legacy to people who come
 after us.
 
-In this Year of St. Joseph (January 1, 2020 to December 8, 2021), it\'s
+In this Year of St. Joseph (December 8, 2020 to December 8, 2021), it\'s
 interesting to look at the vocation of Joseph.
 
 When he discovered that Our Lady was with child, he was minded to put
@@ -294,7 +293,7 @@ All the time, Joseph was discerning---discerning the will of God. It
 came to him in all sorts of strange ways.
 
 Sometimes there was an angel who woke him up in the middle of the night
-(Matt. 1:20-25, 2: 13-14, 19-20). But also, there were human ways that
+(Matt. 1:20-25, 2:13-14, 19-20). But also, there were human ways that
 God used to speak to Joseph.
 
 It was the decree of Caesar Augustus (Luke 2:1). Sometimes God makes use
@@ -306,7 +305,7 @@ us to where we are.
 
 At the same time, God didn\'t send Joseph and Mary an email outlining
 all of His plans; He spoke to them through the decree of Caesar
-Augustus, and he left the rest to their initiative.
+Augustus, and He left the rest to their initiative.
 
 He wanted Joseph and Mary to think, to work out in their prayer, 'What
 is the will of God? Do we stay in Nazareth; do we go to Bethlehem?'
@@ -322,7 +321,7 @@ and their love, and their acceptance of the will of God.
 
 John Paul II liked to say that "the vocation of Our Lady and its
 fulfillment was a whole pilgrimage of faith, a journeying forward in
-faith" (cf. John Paul II, Encyclical, *Redemptoris Mater*, March 25,
+faith" (*cf*. John Paul II, Encyclical, *Redemptoris Mater*, March 25,
 1987).
 
 That's what the journey to Bethlehem was. They put their whole heart and
@@ -358,7 +357,7 @@ having to start from scratch, begin all over again.
 But then again, later in life, listening to the voice of the angel which
 tells him to return, he makes another decision along the way, because he
 hears there's a ruler there, Archelaus, and he goes back to Nazareth
-(cf. Matt. 2:22).
+(*cf*. Matt. 2:22).
 
 All the time, he's using his mind to his heart. He's following a very
 divine plan.
@@ -383,7 +382,7 @@ flowing, divine treasure. It comes, it's with us, and then it's gone,
 never to return. It's passing.
 
 St. Josemaría in *The Way* likes to say, "Youth gives all it\'s got"
-(cf. Josemaría Escrivá, *The Way*, Point 30).
+(*cf*. Josemaría Escrivá, *The Way*, Point 30).
 
 In relation to our vocation, God has given us a certain amount of time
 with which to live out our vocation; a certain amount of time in which
@@ -497,24 +496,24 @@ Way*, Point 1).
 
 "Get rid of that 'small-town' outlook. Enlarge your heart till it
 becomes universal, 'catholic.' Don\'t flutter about like a hen, when you
-can soar to the heights of an eagle" (*Ibid*., Point 7).
+can soar to the heights of an eagle" (*ibid*., Point 7).
 
 "Why don\'t you give yourself to God," he says, "once and for all...
 really..., now? If you see your way clearly, follow it. Why don\'t you
-shake off the cowardice that holds you back?" (*Ibid*., Points 902-903).
+shake off the cowardice that holds you back?" (*ibid*., Points 902-903).
 
 "You say that you can\'t do more? Could it be that...you can\'t do
-less?" (*Ibid*., Point 23).
+less?" (*ibid*., Point 23).
 
 "You are too calculating. Don\'t tell me you are young. Youth gives all
-it can: it gives itself without reserve" (*Ibid*., Point 30).
+it can: it gives itself without reserve" (*ibid*., Point 30).
 
 "'Proclaim the Good News...I shall be with you...' It is Jesus who has
-said this...and he has said it to you" (*Ibid*., Point 904).
+said this...and he has said it to you" (*ibid*., Point 904).
 
 "Humbly ask God to increase your faith. And then, with new lights, you
 will fully appreciate the difference between the paths of this world and
-your way as an apostle" ((*Ibid*., Point 580).
+your way as an apostle" (*ibid*., Point 580).
 
 We can always look to the example of Our Lady and of St. Joseph to see
 how God wants us to respond at this particular moment---how He\'s hoping

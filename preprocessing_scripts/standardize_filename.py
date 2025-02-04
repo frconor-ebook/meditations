@@ -68,10 +68,8 @@ def standardize_filenames(source_dir, output_dir):
 
 if __name__ == "__main__":
     # Define source and output directories
-    source_directory = "transcript_proofread_markdown"  # Directory containing the original Markdown files
-    output_directory = (
-        "transcript_proofread_std_markdown"  # Directory for standardized filenames
-    )
+    source_directory = "/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/transcript_proofread_markdown/"  # Directory containing the original Markdown files
+    output_directory = "/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/transcript_proofread_std_markdown/"  # Directory for standardized filenames
 
     # Check if the source directory exists
     if not os.path.isdir(source_directory):

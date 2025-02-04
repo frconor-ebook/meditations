@@ -6,10 +6,10 @@
 # - Saves the converted files in a specified destination directory
 
 # Set the source directory containing proofread transcripts in MS Word format
-source_dir="/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web_base/transcript_proofread_MSWord"
+source_dir="/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/transcript_proofread_MSWord"
 
 # Set the destination directory for the converted Markdown files
-dest_dir="/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web_base/transcript_proofread_markdown"
+dest_dir="/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/transcript_proofread_markdown"
 
 # Ensure the destination directory exists, creating it if necessary
 mkdir -p "$dest_dir"

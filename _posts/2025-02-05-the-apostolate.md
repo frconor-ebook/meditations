@@ -137,7 +137,7 @@ nets.
 "Come to me, all you who labor and are heavy burdened, and I will give
 you rest" (Matt. 11:28).
 
-"Master, where do you live? Come and see" (John 1:38-39).
+"Master, where do you live?" "Come and see" (John 1:38-39).
 
 "Come, follow me" (Mark 1:17a).
 
@@ -158,8 +158,8 @@ He wants us to have the same mentality as a fisherman. A fisherman is
 all the time thinking about the fish. How am I going to catch them?
 Nobody fishes in their living room. A fisherman goes to where the fish
 are. The fisherman is thinking about what type of fish is good at this
-time of year, or what sort of places should go to catch this type of
-fish.
+time of year, or to what sort of places should I go to catch this type
+of fish.
 
 And he\'s thinking of the bait. The fisherman is not just thinking of
 being with the fish, of being near the fish, or being close to the fish.
@@ -205,7 +205,7 @@ fisherman mentality so that we see souls. We look for them, we beckon to
 them to come, and we have something to give them.
 
 Peter and Andrew could have been a bit surprised by this phrase, "fisher
-of men." They could have said to Our Lord, \"You don\'t fish men, you
+of men." They could have said to Our Lord, "You don\'t fish men, you
 fish fish. What\'s all this about "fisher of men?" Our Lord uses unusual
 phrases that possibly make people think a little bit. What\'s this all
 about?
@@ -258,8 +258,8 @@ questions that are there in their life.
 
 John Paul II says that there are three key questions that every human
 person has to keep asking themselves. Where have I come from? Where am I
-going? What is my life all about? (cf. John Paul II, Encyclical, *Fides
-et Ratio*, September 14, 1988).
+going? What is my life all about? (*cf*. John Paul II, Encyclical,
+*Fides et Ratio*, September 14, 1988).
 
 He says that the answers to those questions, to a large extent, may
 depend on the happiness that people reach in this life.
@@ -307,8 +307,8 @@ his brother John" (Mark 1:19). Our Lord wasn\'t satisfied with that
 day\'s fishing.
 
 It didn\'t end there. He didn\'t say, 'Oh great, I\'ve got two great
-apostles, and I see now the future that\'s there for them. While I\'m
-very happy, I can sit down and fold my arms.' No.
+apostles, and I see now the future that\'s there for them. Well, I\'m
+really very happy, I can sit down and fold my arms.' No.
 
 "Going on a little farther\..." Our Lord goes the extra mile. He looks
 again. Maybe there\'s further fruit here for me. My work is not yet
@@ -392,7 +392,7 @@ greater things can happen.
 
 "Today the Work has the aroma of a ripe field (Gen. 27:27), and, seeing
 the fruitfulness of the apostolate, we don\'t need faith to realize that
-God has blessed our work abundantly" (*Ibid*.).
+God has blessed our work abundantly" (*ibid*.).
 
 Sometimes as we go from day to day, we might see only the problems, the
 difficulties, how bad society is, how bad the laws are that are being
@@ -413,26 +413,26 @@ future in the same way, changing society and souls and hearts at a very
 deep level.
 
 "Years ago, in my prayer," said St. Josemaría, "giving thanks to God, I
-serenaded the Work with a song from my homeland: *Capulllico, capullico,
-/ ya te estás volviendo rosa---*\'Little bud, little bud, / you are
+serenaded the Work with a song from my homeland:*Capulllico, capullico,
+/ ya te estás volviendo rosa---*'Little bud, little bud, / you are
 already becoming a rose. / Now the time is drawing near / to whisper
 something in your ear.' My children, today you have in your hands some
 really beautiful, splendid roses, though they may have thorns"
-(*Ibid*.).
+(*ibid*.).
 
 We have beautiful roses, wonderful instruments. The stage has been set.
 The Lord invites us to cast our nets.
 
 "Now is the moment," he says, "not to fall asleep, but to be vibrant, so
 as to gather up---and hand over to Jesus and to his Holy Church---the
-harvest that has been won with so much effort" (*Ibid*.).
+harvest that has been won with so much effort" (*ibid*.).
 
 We sow the seeds, but then the harvest comes. And every year in the
 field there\'s a harvest. Our Lord doesn\'t deny us the harvest. It
 comes. It\'s there. We have to have our minds on the harvest.
 
 Every farmer spends the whole year thinking about the harvest. It\'s the
-most important time of the year. The time is right to gather un things
+most important time of the year. The time is right to gather in things
 when they need to be gathered in, to watch out for the weather and all
 these things, because it\'s all about the harvest.
 
@@ -486,10 +486,11 @@ We can be full of joy and hope as we look to the apostolic year with
 fruits that God has placed before us, that He knows He wants us to
 gather at the right time.
 
-We can ask Our Lady, Queen of Apostles, in this year of St. Joseph, that
-she might help us to have that same mentality of St. Joseph that she had
-in living the virtues and growing in holiness, so that we too can bring
-that great apostolic fruit that God is expecting from us.
+We can ask Our Lady, Queen of Apostles, in this year of St. Joseph
+\[December 8, 2020 to December 8, 2021\], that she might help us to have
+that same mentality of St. Joseph that she had in living the virtues and
+growing in holiness, so that we too can bring that great apostolic fruit
+that God is expecting from us.
 
 *I thank you, my God, for the good resolutions, affections, and
 inspirations that you have communicated to me during this meditation. I

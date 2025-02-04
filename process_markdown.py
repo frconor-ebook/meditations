@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import shutil
 from datetime import datetime
 
 
@@ -45,6 +46,7 @@ def convert_markdown_to_posts(source_dir, posts_dir, data_dir):
 
             # Generate post filename with current date
             post_filename = f"{datetime.now().strftime('%Y-%m-%d')}-{slug}.md"
+            print(post_filename)
             post_filepath = os.path.join(posts_dir, post_filename)
 
             # Create YAML front matter
@@ -101,11 +103,19 @@ title: "{title}"
 
 # --- Main execution ---
 if __name__ == "__main__":
-    source_directory = (
-        "../transcript_proofread_std_markdown"  # Change to your source directory
+    source_directory = "/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/transcript_proofread_std_markdown"  # Change to your source directory
+    posts_directory = (
+        "/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations/_posts"
     )
-    posts_directory = "_posts"
-    data_directory = "data"  # Output directory for meditations.json
+    data_directory = "/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations/data"  # Output directory for meditations.json
+
+    # Remove the existing _posts directory if it exists
+    if os.path.exists(posts_directory):
+        shutil.rmtree(posts_directory)
+        print(f"Removed existing directory: {posts_directory}")
+
+    # Create the _posts directory (it will be created empty)
+    os.makedirs(posts_directory, exist_ok=True)
 
     print(f"Source Directory: {source_directory}")
     print(f"Posts Directory: {posts_directory}")
