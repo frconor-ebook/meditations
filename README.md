@@ -99,7 +99,7 @@ This document outlines the workflow for processing, building, and deploying the 
 
 ## URL Shortening Scripts
 
-This project utilizes two Python scripts for URL shortening: `shorten_urls.py` and `process_and_shorten.py`.
+This process usestwo Python scripts for URL shortening: `shorten_urls.py` and `process_and_shorten.py`.
 
 *   **`shorten_urls.py`**: This script provides the core functionality for creating custom shortened URLs. It leverages the TinyURL API for shortening and the Groq API for generating concise, human-readable aliases based on the content of the URL.
 *   **`process_and_shorten.py`**: This script orchestrates the URL shortening process. It reads a list of long URLs from a JSON file (`long_urls.json`), calls the `create_custom_short_url` function from `shorten_urls.py` to shorten each URL, and saves the results (long URL and its corresponding shortened URL) to a CSV file (`shortened_urls.csv`). It also handles skipping URLs that have already been processed to avoid duplicates.
