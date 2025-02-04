@@ -1,106 +1,109 @@
-# Fr. Conor Donnelly Meditations
+# Meditations eBook Preprocessing and Deployment Workflow
 
-This repository contains the source code for a website that displays a collection of meditations by Fr. Conor Donnelly. The website is built using Jekyll and hosted on GitHub Pages.
+This document outlines the workflow for processing, building, and deploying the Meditations eBook. This process is typically performed monthly to incorporate edits from Meg Francisco.
 
-## Processing Markdown Files
+## Main Workflow Steps
 
-1. **Place Markdown Files:** Put your proofread markdown files (e.g., from `../transcript_proofread_markdown`) into the `transcript_proofread_markdown_small` directory. Each markdown file should contain the content of a single meditation.
+**1. Download and Prepare Input Files**
 
-2. **Run the Script:**
+1. Download the latest proofread Word DocX files from the designated Dropbox location.
+2. Place these downloaded files into the following directory:
+    `/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/`
 
+**2. Convert DocX to Markdown**
+
+1. Navigate to the preprocessing scripts directory:
     ```bash
-    python process_markdown.py
+    cd /Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations/preprocessing_scripts/
     ```
+2. Execute the conversion script. This process may take approximately 30 minutes, as it reprocesses all DocX files to ensure all edits are captured.
+    ```bash
+    ./convert_all_to_md.sh
+    ```
+    This script generates Markdown files in:
+    `/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/transcript_proofread_markdown/`
 
-    *   This script will:
-        *   Convert each markdown file in `transcript_proofread_markdown_small` into a Jekyll post in the `_posts` directory.
-        *   Generate a `meditations.json` file in the `_data` directory, which contains metadata for the search functionality.
+**3. Standardize Filenames**
 
-## Building and Running the Site Locally
+1. Ensure you are still in the preprocessing scripts directory:
+    ```bash
+    cd /Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations/preprocessing_scripts/
+    ```
+2. Run the filename standardization script:
+    ```bash
+    python standardize_filename.py
+    ```
+    This script creates standardized Markdown files in:
+    `/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/transcript_proofread_std_markdown/`
 
-1. **Go to Related Directory:**
+**4. Process Markdown Files**
 
+1. Navigate to the main `meditations` directory:
     ```bash
     cd /Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations
     ```
-
-
-2. **Build the Site:**
-
-    ```bash
-    bundle exec jekyll build
-    ```
-
-    This command will generate the static website files in the `docs` directory.
-
-3. **Start the Development Server:**
-
-    ```bash
-    bundle exec jekyll serve
-    ```
-
-    This will start a local development server. You can view your website by opening `http://127.0.0.1:4000/meditations/` in your browser.
-
-## Deploying to GitHub Pages
-
-1. **Commit and Push Changes:**
-
-    ```bash
-    git add .
-    git commit -m "Add meditations and build site"
-    git push origin main
-    ```
-
-2. **Configure GitHub Pages:**
-
-    *   Go to your repository on GitHub and navigate to **Settings > Pages**.
-    *   Under **Source**, choose the `main` branch and the `/docs` folder.
-    *   Click **Save**.
-
-3. **Wait for Deployment:**
-
-    *   GitHub Pages will take a few minutes to build and deploy your site. You can monitor the progress in the **Actions** tab of your repository.
-
-4. **View Your Website:**
-
-    *   Once deployed, your website will be accessible at `https://frconor-ebook.github.io/meditations/`.
-
-## Updating the Website
-
-1. **Add or Modify Meditations:** Place new or updated markdown files in `transcript_proofread_markdown_small`.
-2. **Run `process_markdown.py`:**
+2. Execute the Markdown processing script:
     ```bash
     python process_markdown.py
     ```
-3. **Rebuild the Site:**
+
+**5. Build the Jekyll Site**
+
+1. Make sure you are in the `meditations` directory:
+    ```bash
+    cd /Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations
+    ```
+2. Build the static site using Jekyll:
     ```bash
     bundle exec jekyll build
     ```
-4. **Commit and Push:**
+
+**6. Test the Site Locally**
+
+1. Serve the site locally for testing:
     ```bash
+    bundle exec jekyll serve
+    ```
+2. Open your web browser and navigate to:
+    `http://127.0.0.1:4000/meditations/`
+3. Verify that the site is functioning correctly and that all modifications have been applied.
+4. Once testing is complete, stop the local server by pressing `Ctrl+C` in the terminal.
+
+**7. Deploy to GitHub Pages**
+
+1. Commit your changes to the Git repository:
+    ```bash
+    cd /Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations
     git add .
-    git commit -m "Update meditations"
+    git commit -m "Update with latest edits" # Use a descriptive commit message
     git push origin main
     ```
+2. The updated site will be automatically deployed to GitHub Pages and accessible at:
+    `https://frconor-ebook.github.io/meditations/`
 
-GitHub Pages will automatically rebuild and redeploy your site.
+### Notes
 
-## Troubleshooting
+*   This workflow assumes the directory structure mentioned in the original text. Adjust the paths accordingly if your directory structure is different.
+*   The `convert_all_to_md.sh` script is designed to be thorough and thus processes all DocX files each time. This ensures that all edits are consistently applied.
+*   Ensure to regularly update the dependencies using Bundler:
+    ```bash
+    bundle update
+    ```
 
-*   **Search Not Working:**
-    *   Make sure `meditations.json` is being generated correctly in `_data`.
-    *   Verify that the `fetch` URL in `search.js` is correct (`/meditations/_data/meditations.json`).
-    *   Use your browser's developer tools (Network tab) to check if `meditations.json` is being fetched successfully.
-*   **Permissions Errors:**
-    *   If you encounter permission errors, make sure your user account has write access to the `docs` directory and its contents. You might need to adjust ownership or permissions using `chown` or `chmod`.
-*   **Jekyll Build Errors:**
-    *   Carefully examine the error messages from Jekyll. They often provide clues about the problem (e.g., incorrect YAML front matter, missing files, etc.).
-    *   Check your `_config.yml` for any errors.
+### Troubleshooting
 
-## Notes
+*   If you encounter issues with Jekyll, try running `bundle add webrick` and then `bundle install` again.
+*   If you face any problem during any of the steps, please check the error message and make sure that you have followed the instruction correctly.
+*   If the problem persists, you can check the issue in this GitHub repository page or email the maintainer.
 
-*   This `README.md` assumes you are using the recommended setup where `meditations.json` is generated in the root `_data` directory and then copied to `docs/_data` by Jekyll.
-*   The `create_project.sh` script is not essential for the core functionality but can be used to initially set up the project structure.
-*   Remember to replace placeholder values (like your GitHub username) with your actual information.
 
-This detailed `README.md` should provide a clear and comprehensive guide for setting up, building, deploying, and maintaining your Fr. Conor Donnelly Meditations website. Let me know if you have any more questions.
+## URL Shortening Scripts
+
+This project utilizes two Python scripts for URL shortening: `shorten_urls.py` and `process_and_shorten.py`.
+
+*   **`shorten_urls.py`**: This script provides the core functionality for creating custom shortened URLs. It leverages the TinyURL API for shortening and the Groq API for generating concise, human-readable aliases based on the content of the URL.
+*   **`process_and_shorten.py`**: This script orchestrates the URL shortening process. It reads a list of long URLs from a JSON file (`long_urls.json`), calls the `create_custom_short_url` function from `shorten_urls.py` to shorten each URL, and saves the results (long URL and its corresponding shortened URL) to a CSV file (`shortened_urls.csv`). It also handles skipping URLs that have already been processed to avoid duplicates.
+
+**Interrelation:** `process_and_shorten.py` imports and uses the `create_custom_short_url` function defined in `shorten_urls.py` to perform the actual URL shortening.
+
+**Usage:** For our main processing, we only need to use `process_and_shorten.py`.
