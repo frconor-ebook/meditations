@@ -104,7 +104,7 @@ if __name__ == "__main__":
         "../transcript_proofread_markdown_small"  # Change to your source directory
     )
     posts_directory = "_posts"
-    data_directory = "_data"  # Output directory for meditations.json
+    data_directory = "data"  # Output directory for meditations.json
 
     print(f"Source Directory: {source_directory}")
     print(f"Posts Directory: {posts_directory}")

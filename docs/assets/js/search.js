@@ -10,9 +10,9 @@ document.addEventListener('DOMContentLoaded', function() {
   if (baseurl.endsWith('/')) {
     baseurl = baseurl.slice(0, -1);
   }
+// Construct the fetch URL without adding an extra slash
+fetchUrl = baseurl + '/data/meditations.json'; // Update this line
 
-  // Construct the fetch URL
-  var fetchUrl = baseurl + '/_data/meditations.json';
   console.log("Fetching data from:", fetchUrl);
 
   fetch(fetchUrl)
