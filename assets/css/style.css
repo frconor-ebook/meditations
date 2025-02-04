@@ -11,8 +11,12 @@ body {
     background: #09403A;
     color: #fff;
     padding: 1rem 0;
-    text-align: center;
+    text-align: center; /* Remove this to allow left and right alignment */
+    display: flex; /* Use flexbox for layout */
+    justify-content: space-between; /* Position items on opposite ends */
+    align-items: center; /* Vertically center items */
   }
+
 
   h1 {
     margin: 0;
@@ -28,10 +32,32 @@ body {
     margin-right: 20px;
   }
 
-  nav a {
-    color: #fff;
-    text-decoration: none;
-  }
+
+  nav {
+    width: 95%; /* Adjust width as needed */
+    margin: 0 auto; /* Center the navigation horizontally */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.logo {
+  /* Add styles for the logo container */
+  margin-left: 10px; /* Adjust margin as needed */
+}
+
+.logo img {
+  height: 60px; /* Adjust height as needed */
+  width: auto; /* Maintain aspect ratio */
+  vertical-align: middle; /* Ensure vertical alignment with text */
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 10px; /* Adjust margin as needed */
+}
 
   main {
     padding: 20px;
