@@ -1,0 +1,444 @@
+---
+layout: homily
+title: "Mother of the Church"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+"With one heart," we are told in the Acts of the Apostles, "all these
+joined constantly in prayer, together with some women, including Mary,
+the mother of Jesus, and with his brothers" (Acts 1:14).
+
+We see that after the Easter period, Our Lady gathers the Apostles
+together. She was a symbol of unity. She strengthened their faith. She
+kept them together. She kept them going. She acted in a very concrete
+way like their Mother.
+
+Our Lord had spoken from the Cross, saying, "Mother, behold your child."
+Behold your children. And he had said to St. John, "Behold your mother"
+(John 19:26-27).
+
+In 2018, Pope Francis decided to institute this feast day of Our Lady,
+Mother of the Church, and he wanted it celebrated strategically, on the
+day after Pentecost.
+
+We have Pentecost Sunday, the coming of the Holy Spirit, the founding of
+the Church. The following day we celebrate Our Lady as the Mother of the
+Church.
+
+That fact can lead us to look at the beauty of the Church and the beauty
+of Our Mother, how Our Lady has looked after the Church in the past
+twenty centuries, and how she would be looking after the Church for all
+time because her Son said, "Behold your child," behold your children.
+
+When we think of Our Lady as the Mother of the universal Church, we
+could also think of her as the Mother of the domestic Church. Our Lady
+is present in every home when we bring her there and allow her to enter,
+where she\'s venerated, respected, prayed to, called upon as a Mother by
+her children.
+
+Pope St. Paul VI officially gave Our Lady the title 'Mother of the
+Church' at the end of the Second Vatican Council. It\'s a title that
+goes back to the fourth century. St. Ambrose of Milan used it very
+specifically. It was also used by Pope Benedict XIV in 1748 and by Leo
+XIII in 1885. It\'s a title that\'s also found in the *Catechism of the
+Catholic Church*.
+
+Pope Leo said she is invoked as Mother of the Church and the Teacher and
+Queen of the Apostles because in those moments after Easter, when Our
+Lady was keeping the Apostles together, she was also teaching them.
+
+Pope Paul VI said, "For the glory of the Virgin and our consolation, we
+proclaim Mary the Most Holy Mother of the Church, that is, the Mother of
+the whole people of God, both the faithful and the pastors."
+
+In an encyclical that he wrote in 1987 called *Redemptoris
+Mater--*Mother of the Redeemer, which was issued just fifteen years
+before the millennium, as though commemorating Our Lady\'s birth, Pope
+John Paul II made reference to some of those statements of Paul VI,
+where he referred to her as "Mother of the entire Christian people, both
+faithful and pastors."
+
+He said that this truth was restated by Paul VI in an ever more forceful
+way. John Paul, explaining that title, talks about the Blessed Virgin
+Mary\'s maternity of Christ\'s faithful, and how this derives from her
+maternity of Christ.
+
+He said she\'s "present in the Church as the Mother of Christ, and at
+the same time, as that Mother whom Christ, in the mystery of the
+Redemption, gave to humanity in the person of the Apostle John. Thus,"
+he says, "in her new motherhood in the Spirit, Mary embraces each and
+every one in the Church, and embraces each and every one through the
+Church."
+
+It\'s a rather beautiful idea, that Our Lady is the Mother of each one
+of the supernatural families in the Church, all the different
+organizations of the faithful, religious orders, of priests, of
+brothers, people living out their commitment, their vocation in all
+sorts of ways, serving humanity.
+
+Our Lady is there embracing each one of them, as though behind them,
+encouraging them, leading them forward, helping them to solve their
+problems.
+
+We\'re told also in the Apocalypse, "A great sign appeared in heaven: a
+woman robed with the sun, standing on the moon, and on her head a crown
+of twelve stars" (Rev. 12:1). She "crushes the head of the serpent"
+(Gen. 3:15).
+
+There is no danger or difficulty that may appear in the course of time
+that Our Lady cannot solve. All the graces come through her. She can
+crush the head of the devil as he rears his ugly head in all sorts of
+moments.
+
+That means we can always turn to Our Mother and know that we can
+experience her maternal tenderness.
+
+It must have been in a special way that Pope John Paul in 1981, after
+his assassination attempt, turned to her in a special way. He ordered
+the installation of a mosaic of Mary, Mother of the Church, on a
+building overlooking St. Peter\'s Square, partially as a tribute to her
+intercession in saving his life.
+
+The whole story of how that image came about is on the Internet---a very
+beautiful story. It started with a young student at Easter time telling
+the Holy Father that St. Peter\'s Square was unfinished.
+
+As the Pope moved along the crowds shaking their hands, this statement
+registered in his mind, and he went back to that young student and said,
+"What do you mean it\'s unfinished?"
+
+And he said, "There\'s no image of Our Lady in the whole of St. Peter\'s
+Square."
+
+Pope John Paul, the Marian Pope, told him he was right. The Pope took
+that very much to heart. Within a year, that image of Our Lady, Mother
+of the Church, was installed, overlooking the whole of St. Peter\'s
+Square, and venerated under the title *Mater Ecclesiae*, Mother of the
+Church.
+
+We\'re told that Our Lady is present in every aspect of the Church. "She
+embraces," says John Paul, "each and everyone in the Church"---each and
+every supernatural family. "In a certain sense," he says, "Mary, Mother
+of the Church, is also the Church\'s model."
+
+"The Church must draw," said St. Paul VI, "from the Virgin Mother of
+God, the most authentic form of perfect imitation of Christ."
+
+Mary has been invoked under many titles: Mother of God, Mother of the
+Faithful, Our Mother, all the titles of the Litany. John Paul inserted
+that invocation, Mother of the Church, into the Litany.
+
+It re-emphasizes the deep conviction that Our Lady is not just the
+Mother of the person of Christ, but also of each one of us.
+
+"The Church is virgin and mother, she is immaculate and carries the
+burdens of history. She suffers and she is assumed into heaven.
+Slowly,\" says Cardinal Ratzinger, "she learns that Mary is her mirror,
+that she is a person in Mary. Mary, on the other hand, is not an
+isolated individual who rests in herself. She is carrying the mystery of
+the Church" (Joseph Ratzinger, *Address, Festgabe zum 75*).
+
+We know that Our Lady then is looking out for the Church in each moment
+of her history, helping her to get through the various ups and downs,
+the challenges, the contradictions, the calumnies, the scandals that may
+occur, the things that bring home to us that the Church is just made up
+of human beings who have a wounded human nature.
+
+We needn\'t worry about all these things because we know Our Mother is
+there to solve the problems, to smooth everything out.
+
+In the *Catechism* (Points 963 to 970) we\'re told, "The Virgin
+Mary...is acknowledged and honored as being truly the Mother of God and
+of the Redeemer. \...She is 'clearly the Mother of the members of
+Christ'\...since she has by her charity joined in bringing about the
+birth of believers in the Church, who are members of its head." She is
+"Mother of Christ and Mother of the Church" (*Catechism of the Catholic
+Church*, Point 963, quoting *Lumen Gentium*, Point 53 and Paul VI,
+*Address to the Second Vatican Council*, Nov. 21, 1964).
+
+The *Catechism* continues: "After the Ascension, Mary 'aided the
+beginnings of the Church by her prayers.' In her association with the
+apostles and several women, 'we also see Mary by her prayers imploring
+the gift of the Spirit, who had already overshadowed her in the
+Annunciation.'
+
+"Finally the Immaculate Virgin, preserved free from all stain of sin,
+when the course of her earthly life was finished, was taken up body and
+soul into heavenly glory, and exalted by the Lord as Queen over all
+things, so that she might be the more fully conformed to her Son, the
+Lord of lords and conqueror of sin and death."
+
+Our Lady is there, Mother of the Church in heaven, looking out for the
+Church in each moment. She\'s "the exemplary realization of the Church,"
+the *Catechism* says.
+
+"Her role in relation to the Church and to all humanity," it says, "goes
+still further. 'In a wholly singular way she cooperated by her
+obedience, faith, hope, and burning charity in the Savior\'s work of
+restoring supernatural life to souls. For this reason she\'s a Mother to
+us in the order of grace.'"
+
+The Church exists for the sacraments, the Blessed Eucharist. All the
+graces that flow through the sacraments flow through the hands of Mary.
+
+There is no activity of the Church where Our Lady is not present and
+involved, helping us to see the supernatural nature of the Church, and
+not to allow Our Mother the Church to be dragged down to just a purely
+human level.
+
+The Church is not just a socio-political pressure group. The Church is
+the Body of Christ.
+
+"This motherhood of Mary," we\'re told in the *Catechism*, "in the order
+of grace continues uninterruptedly from the consent which she loyally
+gave at the Annunciation and which she sustained without wavering
+beneath the cross, until the eternal fulfillment of all the elect. Taken
+up to heaven she did not lay aside this saving office, but by her
+manifold intercession, continues to bring us the gifts of eternal
+salvation. ... Therefore, the Blessed Virgin is invoked in the Church
+under the titles of Advocate, Helper, Benefactress, and Mediatrix."
+
+Also in the *Catechism*, we\'re told that "Mary\'s function as Mother of
+men in no way obscures or diminishes this unique mediation of Christ,
+but rather shows its power." All the mediatory activity that Our Lady
+has or does participates in the mediation of Christ. She always leads us
+to her Son.
+
+"But the Blessed Virgin\'s salutary influence on men\...flows forth from
+the superabundance of the merits of Christ. It rests on his mediation,
+depends entirely on it, and draws all its power from it. No creature
+could ever be counted along with the Incarnate Word and Redeemer."
+
+St. Josemaría in the *Furrow* says: "What an extraordinary lesson each
+one of the teachings of the New Testament contains! The Master, before
+ascending to the right hand of the Father, told the disciples: 'Go and
+preach to all nations' (Mark 16:15), and they remained full of peace.
+But they still had doubts: they did not know what to do, and they
+gathered around Mary, Queen of Apostles, so as to become zealous
+preachers of the Truth which will save the world" (Josemaría Escrivá,
+*Furrow*, Point 232).
+
+We can be filled with confidence that we have the Queen of Apostles
+around us, who will also teach us in the various situations where we
+are, to become zealous preachers of the Word, to give good witness after
+the heart of Christ and after the heart of Mary.
+
+One of the great things which the saints teach us, St. Josemaría
+included, is to have a great love for the Church. When we love Our Lady,
+when we love her Church---the Church is also our Mother---we don\'t let
+anyone speak badly about the Church.
+
+We are the Church. If ever we see or hear somebody speaking bad about
+the Church on the television, on the radio, in a newspaper, it\'s very
+good we react. We stand up to defend Our Mother the Church. We feel bad
+that Our Mother might be treated badly.
+
+At the same time, we know that the Church is holy---holy, because she\'s
+the Bride of Christ, because Our Lady is her Mother, and that is in
+spite of the sins of her members.
+
+Sinful humanity does not scandalize us. It should lead us to want to be
+more holy, more faithful, to love Our Mother in a deeper way.
+
+There are probably few ways that we can make Our Lady happy than by
+being good children of the Church---making an effort to know her
+doctrine, to spread it with the gift of tongues, in season and after
+season, to help people around us, to see the Church in action, lifting
+up the whole of society, and to foster in each one of us a great
+responsibility for the Church, and also a great initiative: What can I
+contribute? What can I do to build up the mystical Body of Christ on
+earth?
+
+Each supernatural family is a part of the Church. St. Josemaría says in
+*The Way*, If ever we can\'t say anything good about somebody, or about
+some member of some supernatural family in the Church, then we should
+just keep silent, and pray more, and make acts of contrition to God and
+atonement for the fact that I am not better.
+
+Any criticisms or calumnies against any supernatural family in the
+Church is an attack on the mystical Body of Christ and it\'s an attack
+on Our Lady, the Mother of the Church, no matter where they\'re coming
+from.
+
+Because we love Our Mother the Church and the Mother of the Church, our
+only desire is to serve the Church. 'I have come to serve the Church.
+Lord, teach me how to serve the Church better.'
+
+Because Our Lady is the Mother of the Church, she\'s also the Mother of
+all priests, the other Christs. We have to try and foster a great
+respect for those other Christs.
+
+The Curé d'Ars once said that when someone wants to destroy the Church,
+they start by attacking the priesthood, because in that way there may be
+no sacraments and no worship (John Vianney, *The Little Catechism of the
+Curé d'Ars*). The devil is very clever.
+
+Our love for the Church and our love for the Pope---no matter who he may
+be, as St. Josemaría said many decades ago---is a vital component of our
+Christian spirit; part of the heritage that we have received.
+
+If we ever hear somebody criticizing the Pope, we can say, who are you
+to criticize the Pope?
+
+There have been people in history who thought the Pope was wrong. I
+heard a professor of law saying once, many years ago---around the time
+when there was a lot of dissent on *Humanae Vitae*, the teaching of the
+Church on the regulation of birth---this wise professor of law said,
+"It\'s better to be with the Pope and to be wrong, rather than to be
+without the Pope and to be right."
+
+In principle, the Pope is never wrong. He's guided by the Holy Spirit.
+But we might think the Pope is wrong. If we adopt that attitude that
+I\'m right and the Pope is wrong, that\'s a dangerous stance to take
+because that can lead us off on a tangent.
+
+Probably the Pope has a 99.9 percent possibility of being right on all
+matters of faith and morals. If we adopt a position that the Pope is
+wrong and I\'m right, I don\'t share that 99.9 percent chance of being
+right on all other issues.
+
+In the history of the Church, there have been people who found
+themselves outside of the Church, precisely by adopting that attitude.
+
+Our Lady must be very happy when we are united to the Pope, when we pay
+attention to what he\'s saying or what he\'s doing, when we make it our
+business to read the things that he publishes, so that I can come to
+love the Church more.
+
+In *The Way,* St. Josemaría says, "What joy to be able to say with all
+the fervor of my soul: I love my Mother the Holy Church!" (J. Escrivá,
+*The Way*, Point 518).
+
+"Thank you, my God, for the love of the Pope you have put in my heart"
+(J. Escrivá, *The Way*, Point 573).
+
+Try and teach your children to have a great love for the Pope, great
+veneration for the Church, great spirit of gratitude for what we receive
+from the Church.
+
+In the *Furrow*, he says, "Every day you must grow in loyalty towards
+the Church, the Pope, and the Holy See\...with a love that should always
+be more theological" (J. Escrivá, *Furrow*, Point 353).
+
+In the times that we\'re living in, there\'s great reason and scope to
+defend the Church and her teaching, and defend the Pope in all sorts of
+moments, particularly her teaching on marriage and the family, on the
+sacredness of human life, and so many of the other buzz issues that are
+so topical today.
+
+At the Second Vatican Council, we learned about the role of the laity in
+the Church. We are the Church. The role of the laity is to order
+temporal realities, which means laws, cultures: the evangelization of
+culture, the evangelization of the family.
+
+Pope John Paul liked to say, "The future of humanity passes through the
+family" (cf. John Paul II, *Homily*, November 30, 1986).
+
+Mother of the Domestic Church, help us to see what we can do to promote
+the family and society.
+
+St. Augustine wrote, I embrace a Church full of corn and straw, with the
+Word and the discipline of the Lord, I amend those I can, and tolerate
+those I cannot amend. I do not wish to be straw, but not for this will I
+abandon the threshing floor, for otherwise I would be nothing.
+
+Our love for the Church can be eminently supernatural. In the old days
+people liked to make a pilgrimage to Rome. It was called *videre
+Petrum*, which means "to see Peter."
+
+That\'s a good desire to foster in our family. St. Josemaría had a
+beautiful little aspiration, whereby he used to say in Latin, *Omnes cum
+Petro ad Jesum per Mariam*--"All with Peter, to Jesus through Mary" (J.
+Escrivá, *The Way*, Point 833; *Christ Is Passing By*, Point 139).
+
+With Peter---Peter is the way. Peter is the focal point. God has given
+us one focal point of unity to teach us where we need to go, what we
+need to do, what we need to be close to, and how can we make sure that
+we\'re on the right track.
+
+Our Lady must be very happy when she sees us taking care of that right
+track, listening to things the Pope says in a special way.
+
+One particular moment could be at Christmas and Easter when the Pope is
+on television and gives his blessing to the Church and to the world.
+It's not a bad moment to let our children see that this is something
+important in our family.
+
+In the First Eucharistic Prayer, we\'re told, "In union with the whole
+Church we honor Mary, the ever-virgin Mother of Jesus Christ Our Lord
+and God."
+
+We could try to get more personal with Our Lady. We could try to think
+of vocations for the universal Church. Each of us has a role to promote
+vocations in our family, outside of our family, in our local school, in
+our local parish, because the future of the Church depends on those
+vocations. To a large extent, it depends on the formation of those
+vocations.
+
+That\'s why we can pray to Our Lady, Mother of the Church, that she
+would continue to raise up numerous vocations for the universal
+Church---people to take part in the teaching professions and the
+healthcare professions, or missionaries to go all over the world, to
+places where perhaps no man has gone, and bring the light of the Gospel
+to people who\'ve heard very little.
+
+There are many mission fields that are hungry for such people. The
+future generations can be grateful to us for the role we\'ve played in
+bringing forward the Church. Probably, to a certain extent, it\'s with
+all these concerns in mind that Pope Francis instituted this particular
+feast day.
+
+We\'ve probably seen the Holy Father just before going on any of his
+major journeys, international trips. He goes to St. Mary Major in Rome,
+the Shrine of Our Lady, Patroness of Rome, the safety of the Roman
+people.
+
+He goes there like a little child carrying a little bunch of flowers.
+It\'s a beautiful little childlike detail. He carries the flowers
+himself, as though saying, I reserve this privilege to me. I make this
+personal trip to entrust this journey and the fruits of this journey to
+my Mother, and I make this trip for the good of the universal Church, to
+Myanmar, to Iraq, to Chad, to the Central African Republic, to so many
+places.
+
+I notice how the Holy Father has not been back to Argentina in the last
+eight years. There is sacrifice there. He\'s come to serve the Church,
+to be a good son of Mary.
+
+Every day, we should try and pray for the Holy Father, maybe a decade of
+the Rosary, or have your family to hear you talking about the Pope and
+asking Our Lady for the future of the Church and the great role that the
+Church has to play in society.
+
+Our Church has a very prominent role. The Holy Spirit, who is the soul
+of the Church, is active in each part of the Church, bringing that light
+of Christ to all the corners of the earth.
+
+We can ask Our Lady, Mother of the Church, that she might extend her
+gentle hand with more graces at this particular point in the Church\'s
+history, and build up the Church so that we can look forward to the
+great flourishing of the Church in the 21st century.
+
+Mother of the Church, pray for us.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*OLV*

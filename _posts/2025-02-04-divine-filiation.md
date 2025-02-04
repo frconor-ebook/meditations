@@ -1,0 +1,542 @@
+---
+layout: homily
+title: "Divine Filiation"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+A number of years ago, I was giving a retreat in the south of Spain,
+just after being ordained, to a group of men.
+
+There was an 80-year-old man who came to chat on the very first morning
+of the retreat, which was a bit unusual. Normally, people wait a bit or
+towards the end of the retreat.
+
+He came to chat, and he told me that he did not want to come on this
+retreat. But the center where he was going for recollections for a
+number of years, the director there, invited him to come on this
+retreat.
+
+He said, "Initially, I said no." And he said, "I had three very good
+reasons for saying no. One is that I train a certain type of horses and
+there are some buyers coming from France to buy some of my horses this
+weekend and I wanted to be there.
+
+"Secondly, there are some people coming to put drains on my house. I\'ve
+been waiting two years for them to put drains on my house. I wanted to
+be there when they came.
+
+"And thirdly, this is the week of the local fiesta, and I haven\'t
+missed the fiesta ever since I was seven years of age. All my friends
+will be there. It\'s a time when we catch up. It\'s the social event of
+the year. It was just unthinkable for me to come on a retreat on these
+particular days, so I said no.
+
+"Two weeks later, he asked me again, and again, I said no. And he asked
+me a third time, and again, I said no. But after a while, I found that
+each time I said no, I became more and more uncomfortable. The only way
+I could get any peace was by saying yes.
+
+"So I came to the retreat last night, and I\'ve only been here a few
+hours, and already I\'m very glad I came, because, you see, I\'ve been
+attending these recollections of Opus Dei for the last number of years,
+and I keep hearing about a thing called *divine filiation*, *spiritual
+childhood*, *life of childhood*, *I\'m a child of God*."
+
+He said, "Here I am, 80 years of age, and they\'re telling me to become
+like a child. I could never understand what that means. Am I supposed to
+put on short pants or what?"
+
+"But," he said, "now I\'ve come to realize what that means. I have to
+abandon myself into the arms of my Father God. I\'ve got to let Him make
+the decisions; let Him make the calls. I\'m not here just to do my will,
+I\'m here to do His will."
+
+It was as though that man had discovered "the pearl of great price"
+(Matt. 13:45-46). Over those few days of retreat, it was as though he
+rejuvenated by about twenty years. He became the life and soul of the
+party.
+
+We\'re told by St. John, "You must see what great love the Father has
+lavished on us by letting us be called God\'s children, which is what we
+are. The reason why the world does not acknowledge us is that it did not
+acknowledge him" (1 John 3:1).
+
+One of the central ideas of the teaching of St. Josemaría that God gave
+him a special grace to see and to understand and to preach was that we
+are children of God.
+
+"The Spirit himself joins with our spirits," says St. Paul, "to bear
+witness that we are children of God. What you received was not the
+spirit of slavery to bring you back into fear; you received the spirit
+of adoption, enabling us to cry out, '*Abba*, Father'" (Rom. 8:14-15).
+
+In another place, he says, "All who are guided by the spirit of God are
+sons of God" (Rom. 8:14).
+
+We just celebrated the great feast of Pentecost, the Holy Spirit coming
+into our soul. We are "temples of the Holy Spirit" (1 Cor. 6:19).
+
+One of the fruits of that grace in our soul is that we come to realize a
+little more that I am a child of God. God is not far away from me; He\'s
+beside me all the time. He\'s speaking to me in my soul in grace.
+
+External manifestations are not always the best evidence of closeness.
+Our closest friends are sometimes far from us, which doesn\'t prevent
+them from loving us dearly.
+
+The Father is not necessarily close to his children throughout their
+lives, but he remains no less concerned about them.
+
+We might feel that Our Father God is far away or wonder where He is in
+certain moments of our lives, when life strikes. And yet we know in
+faith that Our Father God is beside us all the time.
+
+When we feel that He\'s far away, that\'s when He\'s closer to us than
+ever.
+
+We can ask Our Lord, through the grace of the Holy Spirit, to be more
+aware of our divine affiliation. It's something that we have to try and
+put into practice in a regular way every day.
+
+When we wake up in the morning, when we go to work, when we hit a bit of
+a snag, when there\'s a challenge, a roadblock, a difficulty in our
+life, in our profession, in our health, in our finances, it can be
+enormously consoling to know that I'm carried in the palm of the hand of
+a God who loves me.
+
+My Father God is beside me. If He has brought me to this, He will bring
+me through it. He\'s speaking to me through this circumstance.
+
+Sometimes in our life, God may sweep the feet from under us and leave us
+hanging there. But if He does that, it\'s because He wants us to look
+up, to learn what it means to be a child of God, to learn what real hope
+is, real trust is, real abandonment is.
+
+Sometimes, these are the greatest lessons of our life. We might think we
+know what hope and trust and abandonment are, or optimism, but it\'s
+only when we hit one of those situations that we really learn what it\'s
+all about.
+
+I remember years ago, when I was living in Singapore, I passed by this
+lady who had converted to Catholicism. She\'d been a Protestant for many
+years and then she discovered the Catholic faith.
+
+Shortly after that, her husband converted. He was an orthopedic surgeon
+and he was a professor of orthopedic surgery. He liked his teaching very
+much.
+
+But then at 51 years of age, he got cancer of the thyroid and the
+larynx. Two cancers. For most people, one cancer is enough. But he got
+caught with a double whammy.
+
+She asked me to go and see her husband in hospital. He was a recent
+convert and I expected that when I went to see him, he would ask me
+questions like, "Father, why this?" "Why now?" "Why me?"
+
+I was preparing myself for those questions. But when I went into the
+hospital room, before I could say anything, he said to me, "Father, I
+see this event as a wake-up call for my children. I have three
+daughters; they\'re 21, 20, and 19. They\'re all in college. They\'re
+having a good time. They don\'t know what life is all about."
+
+I was very impressed with the supernatural approach of that recent
+convert. Trust in God. Abandonment. Real faith. Real hope. Real
+optimism. Seeing the positive side of the realities that God had brought
+him to.
+
+If we are a child of God, we will realize that Our Father God is
+speaking to us in all sorts of moments.
+
+A lady told me once---she was a very busy professional lady, she had
+helped to set up an airline in a certain city of Asia---\"I was sitting
+in the garden one day, and I began to look at some of the roses in the
+garden. As I looked at the roses, I was thinking that man has been able
+to put men in the moon, but no man can make a rose like that."
+
+She said, "That was the moment of my conversion." She resigned from her
+position, and she became a sort of a Mother Teresa in her city, taking
+care of AIDS patients. She spent the rest of her life doing that.
+
+God speaks to us in all situations. Sometimes He speaks to us very
+clearly, very deeply. Sometimes He invites us to a radical conversion.
+
+Sometimes He just reminds us to say our *Morning Offering* or our
+*Angelus*, or to spend a bit more time with a certain child, or to bring
+flowers to our wife---whispers in our ear small things.
+
+It helps us to behave like a child of God, and to realize that 'I owe
+everything to Him.'
+
+After the Feast of Pentecost, we\'re now going towards the Feast of the
+Blessed Trinity. These are very good days to raise our heart and mind in
+thanksgiving to the Blessed Trinity, because everything we are and we
+have, we owe to God.
+
+St. Paul said, "What have you that you have not received?" (1 Cor. 4:7).
+Everything is a gift.
+
+It\'s a great way to live, giving thanks, realizing that we are the
+recipient of so many things. We\'re just small children; we can do
+nothing on our own.
+
+If professionally, or financially, or health-wise, things have worked
+out for us, it\'s because it\'s the will of Our Father God.
+
+And if they haven\'t worked out for us, we find ourselves at the bottom
+of a current; in the biggest mess we\'ve ever been in in our life;
+everything gray around us; nothing looking good, that\'s also because
+that\'s the will of Our Father God.
+
+He\'s brought us into that situation, perhaps to teach us what life is
+all about and to help us to learn about our pathway to heaven.
+
+"Unless you become like little children, you cannot enter the kingdom of
+heaven" (Matt. 18:3).
+
+There was a mother once who had a six-year-old little boy, and she
+noticed that her son had a bit of an ear for music, so she wanted to
+expose him to good music.
+
+In the town, there was going to be a recital by a concert pianist. She
+brought the kid along to the local hall where this was taking place.
+
+Then she noticed that there was a friend of hers about three rows away,
+so she told her son to stay where he was, and she was going to go and
+greet her friend.
+
+When the mother was gone, he thought, 'Now\'s my chance to explore this
+place.' He left his seat and he began to walk around the place, and he
+found a door that says, "No admittance."
+
+He said, 'Ah, this is what I want: adventure.' He pushed through the
+door.
+
+A few minutes later, the lights were dimmed to signal that it was the
+start of the concert, and the mother went back to her place to find that
+her son wasn\'t there. She began to panic a little bit.
+
+But just then the curtains rose, and lo and behold, there was her
+six-year-old at a grand piano on the stage, playing "Twinkle, Twinkle
+Little Star."
+
+This was the moment that the great maestro chose to make his entrance,
+and he was a bit surprised to find a little kid playing this tune at his
+great piano.
+
+But he whispered in the ear of the kid: 'Keep playing, don\'t stop.' He
+put one arm at one end of the keyboard, and the other arm at the end of
+the keyboard, and began to accompany the kid in the duet playing,
+"Twinkle, Twinkle Little Star."
+
+The audience were amazed. They thought, 'Wow, this is real genius! What
+an original way to start a concert!'
+
+We're a little bit like that kid, plodding away at the piano keys. God
+comes and puts one arm around us on one side and the other on the other,
+and converts what we\'re doing into the work of genius. It\'s all His
+work, *Deo omnis gloria--*all the glory to God (cf. Eph. 3:21, 1 Cor.
+1:31).
+
+We think with our little efforts, our little thoughts, our little
+initiatives, that we achieve great things. But it\'s only because Our
+Father God is there, helping us to achieve all these things.
+
+One of the expressions of being a child of God is to try and turn to
+that Father of ours many times each day, and thank Him, or give Him
+glory.
+
+That realization that we managed to find this parking space, or get this
+deal done, or make somebody smile---it\'s because Our Father God is
+helping all those things to happen. We are nothing on our own.
+
+In moments of fear or trepidation or concern or anxiety or worry, we can
+turn to Our Father God and leave things in His hands. In many ways,
+that\'s what our *Morning Offering* is all about: "O Jesus, through the
+most pure heart of Mary, I offer you all my thoughts, words, actions,
+sufferings, feelings on this day\...."
+
+We offer Him everything. It can be a pretty good prayer to pray
+frequently as we move through the day. We realize that He\'s there
+waiting for us around every corner.
+
+There was a four-year-old kid once who spilled some Coca-Cola on the
+kitchen floor. He wanted to mop it up himself because he was already
+older now---he\'s four. He went to get the mop. The mop was outside the
+kitchen.
+
+But halfway to the door, he realized that it got dark outside, and he
+was afraid of the dark.
+
+His mother was there and she realized why he suddenly stopped in his
+tracks---because he was afraid of the dark. She said to him, "It\'s
+okay, don\'t worry, Jesus is also there in the dark."
+
+He went to the door, he poked his head out and he shouted out, "Hey
+Jesus, if you\'re out there, could you please pass me the mop?" The
+little kid learned how to find God in the darkness.
+
+In the darkness of our lives, Our Father God is always there waiting for
+us, perhaps waiting to give us new lights about certain truths or
+doctrines or about our own life; helping us to see things with a deeper
+perspective, with a new faith, a new hope, a new humility, a new
+charity; helping us to see that we\'re called along the pathway of love,
+to bring love to our life each day, to our children, sometimes just with
+our mere presence.
+
+Irrespective of what may be happening in the office, or in our finances,
+or with our boss, we need to remind ourselves, 'I am a child of God.'
+
+You may have seen many years ago a movie called Dead Man Walking. It was
+about a nun who was counseling a man on death row.
+
+She was helping him to prepare for his execution---trying to help him to
+find faith, and trust, and optimism, and comfort, and consolation, so
+many other things.
+
+At one moment, she said to him, "Did you ever know that you were a son
+of God?"
+
+He said, "You know, I\'ve been called a son of many things in my life,
+but I have never been called a son of God."
+
+All of us have to make that realization at some stage in our life. It is
+something real.
+
+My Father God is a Father who loves me, who follows me step by step, who
+protects me, who understands me. He waits for a response of love from
+each one of us.
+
+From Him we learn how to be a good father, to spend time with our
+children, to talk to them, to listen to them on a regular basis, to
+create the atmosphere of a home, to try and live like a great human
+being, so they can grow up knowing what that means, so that they also
+want to be like a great human being, a great father.
+
+Try and train your daughter to be a great mother, and your son to be a
+great father, so that they can learn a little bit more about their
+Father God, and also trust in Him, and have optimism in Him, in spite of
+their miseries and their mistakes. We all make a lot of mistakes. Many
+children make lots of mistakes.
+
+A little kid came home from school one day and told his mother that he
+had a big pain in his tummy. The mother said, "That\'s because there\'s
+nothing in it. You put something in it, and you\'ll feel much better."
+
+A few days later the parish priest came to call. In the course of the
+conversation, he happened to say that he had a terrible headache. The
+five-year-old kid piped up and said, "That\'s because there\'s nothing
+in it. You put something in it, and you\'ll feel much better."
+
+Children make mistakes, and they fail. But they begin again.
+
+The fact that we can consider the paternal presence of Our Heavenly
+Father, who accompanies us everywhere---that can give us an unshakable
+confidence. The fact that God is my Father means that I have every
+reason to be cheerful, optimistic, transmitting joy to other people,
+patient, kind.
+
+It can be the basis of our charity; change the atmosphere where we may
+be in other people\'s lives. It means that at every moment we can
+confide in Our Heavenly Father.
+
+It means we never feel alone or afraid, because my Father God is with
+me, and nothing harmful therefore can happen to me. I\'m on a pathway to
+heaven.
+
+We don\'t need to fear anything, especially death, because that\'s the
+way I go to meet my Heavenly Father.
+
+There's no need for us to fear a stroke, or a heart attack, or cancer.
+These things aren\'t evils. These are the things of the pathway to the
+eternal wedding feast, for us to be with Our Heavenly Father forever.
+
+It\'s a great truth for us to teach our children; to let them be aware
+of the fleeting nature of this life. It doesn\'t matter what happens.
+"All things turn out for the good" (Rom. 8:28) because of our eternal
+destiny.
+
+Therefore, we never feel afraid about anything, because Our Father God
+is with us.
+
+"If you, evil as you are," said Our Lord, "know how to give good gifts
+to your children, how much more will your heavenly Father give good
+things to those who ask Him?" (Matt: 7:11).
+
+"How much more\...?" It\'s a beautiful phrase.
+
+Even if our world might seem to be collapsing, or the world of people
+around us might seem to be collapsing, we know that Our Father God is at
+work in this moment, instilling virtue, leading us forward in holiness,
+teaching us how to carry the cross, teaching us about authentic virtue,
+perhaps reminding us that we\'re called to that goal of holiness.
+
+The eternal wedding feast---that\'s what it\'s all about, because God is
+my Father. In the cross, when it appears, I don\'t see punishment, but
+rather a mission---a mission entrusted by the Lord Himself.
+
+In Gethsemane, "Our Lord withdrew from the apostles, a stone's throw,
+and kneeling down, he began to pray. He said, 'Father, if it is
+possible, let this chalice pass from me'" (Luke 22:41-42).
+
+Our Lord was confronted with the greatest amount of human suffering that
+any human person ever had to endure. Christ was no masochist. He didn\'t
+say, Roll on, suffering; I love suffering.
+
+He recoiled away from it in horror and disgust: "Take this chalice away
+from me." But then He said, "Yet not my will, rather yours be done"
+(Matt. 26:39) as though welcoming the will of God, which is the greatest
+reality in our life.
+
+St. Josemaría in *The Way* says, "Abandonment to the will of God is the
+secret of happiness on earth" (Josemaría Escrivá, *The Way*, Point 766).
+
+If you were to set up a stall on Highlands and Lassie Avenue and
+advertise the secret of happiness on earth, you might have a long queue.
+Yet we know the secret: it\'s abandonment to the will of God, the will
+of Our Heavenly Father.
+
+That prayer of Our Lord in Gethsemane starts with the word *Father*:
+"Father, if it is possible, let this chalice pass."
+
+The most important word in the phrase comes first. There is no
+contradiction between the fact that you are my loving Father and you\'re
+about to visit me with the greatest amount of human suffering any person
+ever experienced.
+
+We don\'t need to fear anything, because 'I\'m in the hands of my loving
+Father.'
+
+All through our life we\'ve tried to maintain that childlike heart.
+There\'s a Chinese philosopher called Mencius, a disciple of Confucius,
+who said, "A great person is one who never loses the heart he had as a
+child."
+
+Love of family, love of country, love of truth, love of life.
+
+Lord, help me to maintain that heart of a child, to be childlike in my
+piety.
+
+When I go to receive Holy Communion every day, savoring those Communions
+with a new fervor, asking the Holy Spirit to lead me up onto a new level
+in my divine filiation, in my abandonment, my trust, my optimism; that I
+pray like a child, I ask like a child, I\'m optimistic and cheerful like
+a child.
+
+Children often don't worry about things. They don\'t just believe in
+their parents; they hope in them---hope in them to solve all their
+problems. They know how to forget their problems each night and go to
+sleep, and sleep well, and wake up well the following day. Worries
+don\'t last.
+
+We also have to know that we are a child of God in Christ, and that
+means we have to try and act like a child, react like a child, put into
+practice that faith, that hope, that optimism, that transparency.
+
+Sincerity when we go to Confession: we\'re going to pour out all the bad
+things we\'ve done about Father God and the sacrament. Get rid of all
+the dross that may be there, the things that weigh us down.
+
+Help other people to discover this great sacrament when we savor the
+mercy of Our Father God, who always forgives us, helps us to begin
+again.
+
+Our Father God\'s patience with us leads us to be patient with others;
+to be uncomplicated, serene. If ever we have some anxiety or some
+apprehension, we leave it in the hands of Our Father God.
+
+We\'ve been created to be children---childlike, not complex. "Thank God
+for everything, because everything is good" (J. Escrivá, *TheWay*, Point
+268).
+
+We live this childlike spirit in prayer, in our struggle, in spiritual
+direction, in obedience, in our defeats, in our miseries, in our
+apostolate, in our studies, in our problems with our blood family.
+
+We say with great confidence: "All things turn out for the good" (Rom
+8:28). Try to see good in everything.
+
+St. Josemaría in *The Way of the Cross* says, "May our stumbles and
+defeats separate us from him no more. Just as a feeble child throws
+itself contritely into the strong arms of its father, you and I will
+hold tightly to the yoke of Jesus.
+
+"Only a contrition and humility like this can transform our human
+weakness into the fortitude of God" (J. Escrivá, T*he Way of the Cross*,
+Seventh Station).
+
+He also says, "You are discouraged, why? Is it your sins and miseries?
+Is it your defeats, at times coming one after the other? A really big
+fall, which you didn\'t expect? Be simple, open your heart. Look: as yet
+nothing has been lost." You can still go forward, and with more love,
+with more affection, with more strength.
+
+"Take refuge in your divine sonship: God is your most loving Father. In
+this lies your security, a haven where you can drop anchor no matter
+what is happening on the surface of the sea of life. You will find joy,
+strength, optimism, victory!" (*Ibid*.).
+
+There are times in our life when we need to cry. All men cry. The sign
+of our humanity. Little children cry.
+
+A priest in Asia told me once how there was a great chess competition
+once between Sparsky, I think it was, and a computer. And the computer
+won. He beat the great chess champion in the world. Then the chess
+champion broke down and cried.
+
+The priest said, "In that he proclaimed his greatness, his humanity. The
+computer doesn\'t know how to cry."
+
+Sometimes we all need to seek out somebody that we can cry with. We
+shouldn\'t cry alone.
+
+Our Father God has given us spiritual direction, Confession---the
+ability to go to somebody and to cry there with them; to get rid of
+those tears so as to begin again; to realize that things are not as bad
+as all that, and to infuse a new hope, a new trust in Our Father God,
+who permits things to make us depend totally on Him.
+
+This coming week, we can perhaps grow in those acts of thanksgiving and
+help other people around us to be more grateful to God for the good
+things that He\'s given to us.
+
+When we lose sight of our divine filiation, that we are children of God,
+everything can begin to go wrong, because we can think that we\'re
+strong and we\'re made to be successful; or that we can do all sorts of
+things with the power of our hands.
+
+That\'s when we begin to fail. God can use even our faults and failures.
+Like an oyster, a piece of grit can produce "a pearl of great price"
+(Matt. 13:46). We can ask Our Lord, that He might teach us to put that
+divine filiation into practice more frequently.
+
+We're told in *The Forge*, "Draw strength from your divine filiation.
+God is a Father---your Father!---full of warmth and infinite love.
+---Call him 'Father' frequently and tell him, when you\'re alone, that
+you love him, that you love him very much!, and that you feel proud and
+strong because you are his son" (J. Escrivá, *The Forge*, Point 331).
+
+We can ask Our Lady, Daughter of God the Father, Mother of God the Son,
+Spouse of God the Holy Spirit, that she might help us to grow more each
+day in our awareness of our divine filiation.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*MVF*

@@ -1,0 +1,447 @@
+---
+layout: homily
+title: "Prayer of Petition"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+"Ask, and it will be given to you; search, and you will find; knock, and
+the door will be opened to you. Everyone who asks receives; everyone who
+seeks finds; everyone who knocks will have the door opened.
+
+"Is there any among you who would hand his son a stone when asked for
+bread? Or would hand him a snake when asked for a fish? If you then,
+evil as you are, know how to give your children what is good, how much
+more will your Father in heaven give good things to those who ask him!
+
+"So always treat others as you would like them to treat you; that is the
+Law and the prophets" (Matt. 7:7-12).
+
+Two ways of coming to know God are petition and thanksgiving. These are
+two ways of praying which please God, especially when we do so with
+rectitude of intention.
+
+We spend a good part of our lives asking for things from people who have
+more than we have, or who have greater knowledge than ourselves. We ask
+because we are in need.
+
+Often the act of asking is the only contact we have with some people. If
+we never asked for anything, we would end up in a sort of vacuum, in a
+kind of false, impoverished self-sufficiency.
+
+The most important part of our life and of our being involves our asking
+and our giving. When we ask for things, we acknowledge that we are in
+need. When we give, we become aware of the limitless riches God has
+placed in our hearts.
+
+The same thing happens in our relationship with God. A large part of our
+relationship with Him is shaped by our petition, the rest depending on
+our gratitude towards Him.
+
+When we ask Him for things, we are admitting and confessing our radical
+insufficiency. Asking makes us humble; what\'s more, we give Our God the
+opportunity of showing us that He is Our Father. In this way we come to
+know of the love that God has for us.
+
+St. Teresa of Ávila said that when we ask God for great things, it
+pleases Him greatly because it shows our confidence in Him.
+
+We are told in this passage of the Gospel, "If someone asks for bread,
+will you give him a stone? \... How much more will your Father who is in
+heaven give good things to those who ask him?" (cf. Matt. 7:9, 11). The
+emphasis there is on the word "more."
+
+"Our God cannot be outdone in generosity" (Josemaría Escrivá, *The
+Forge*, Point 623).
+
+There\'s a story of a mother who went to a retreat once. She was looking
+for some idea because she saw that certain things weren\'t as good as
+they could be in her family life.
+
+Her children were complaining about the food; they were taking things
+for granted. She was looking for some idea that she could improve the
+quality of life, and there was a meditation on detachment and poverty.
+
+She realized, "That\'s what my children need. They need a good dose of
+poverty. I\'m going to go home and give them a good dose of poverty."
+That was her main resolution from the retreat.
+
+She planned specific ways in which to put this into practice. She
+decided she would focus on making the bread last. So, Tuesday\'s bread
+was to last until Wednesday, and to get a little bit out of it on
+Thursday, and she would try and squeeze something out of it also on
+Friday.
+
+She implemented this and there was consternation in the home. The
+children decided that was the last time that Mother should go to one of
+those retreats. But they thought they wouldn\'t say anything yet,
+because maybe by next week she would have calmed down on her
+resolutions.
+
+But the following week came and again Tuesday\'s bread lasted until
+Wednesday, till Thursday, and they squeezed a bit out of it on Friday.
+
+Mother was a bit more determined in her resolutions than they bargained
+for. But they decided they\'d give her one more week.
+
+But again, the third week, the same thing began to happen. Tuesday\'s
+bread lasted until Wednesday, but at breakfast on Thursday morning the
+10-year-old decided he\'d had enough, and he was going to say something.
+He piped up at breakfast and said:
+
+"Mum, this business of poverty is all very well but I think you\'re
+forgetting something else that Our Lord said in the Gospel\...which is,
+'When your child asks you for a piece of bread, will you give him a
+stone?'" Lessons were learned.
+
+We should not be motivated in our prayer of petition by selfishness, or
+pride, or avarice, or envy when we make our request. If, for example,
+we\'re asking for help in an examination, if what we want is a material
+favor, or the cure of an illness, we should examine in the presence of
+God the true motives behind our petition.
+
+From the depths of our soul we will ask Him if what we are requesting
+will help us to love Him more and to carry out His will better.
+
+If so, we may then realize how unimportant is the thing we are about to
+ask for, the desired boon that has seemed to us as a matter of life or
+death, and we will consider that what we have so set our heart on is
+possibly not so important at all.
+
+We will know how to bring our will into line with God\'s will, and then
+we can be sure that our petition lies in the right direction.
+
+We can of course ask God to cure us quickly of an illness. At the same
+time, we must ask that if this does not come about because He has
+different plans---plans which are mysterious and hidden from us, but
+which are those of a Father---He should give us the grace we need to
+bear that particular suffering patiently, mindful of those words, "How
+much more will your heavenly Father give good things to those who ask
+him?" (Matt. 7:11).
+
+We can ask for the wisdom to draw out from that illness fruits which
+would be for the good of our soul and for that of the whole Church.
+
+In those sorts of difficult situations, we can become powerhouses of
+prayer, sending arterial blood to the Holy Father, to those that need
+it.
+
+The first condition for any petition to be effective is that we conform
+our will to God\'s will. God sometimes wills or allows things and events
+to happen that we do not want and do not understand, but which in the
+end will be of great benefit to us and to others.
+
+Each time we make that act of identification of our will with God\'s, we
+will have taken an important step forward in the virtue of humility.
+
+There are countless good things that God wants us to ask Him for, so
+that He can give them to us, material and spiritual goods, all of them
+ordered to our salvation and that of our neighbor.
+
+The Curé of Ars has said, "Won\'t you agree with me, that if we do not
+receive what we ask God for, it is because we do not pray with faith,
+with a sufficiently pure heart with enough trust, or because we do not
+persevere in prayer as we should?
+
+"God has never denied and never will deny anything to those who ask for
+his graces in the right way" (Jean Vianney, *Sermon on Prayer*).
+
+We should always endeavor to pray with the confidence of children. Then
+we will seek to identify our will with that of Our Father God.
+
+Our Lord said in the Garden of Gethsemane, "Not my will, but yours be
+done" (Luke 22:42). That\'s what we should add to each petition: 'If
+this is your will, Lord, then, it\'s my will. If it\'s not your will,
+then, it\'s not my will either.'
+
+So, humility and perseverance in our petitions, because we don\'t want
+to affirm and insist on going ahead with our own projects in life;
+rather do we want to carry out God\'s will above all.
+
+The Gospels present many cases of this, cases of childlike, humble, and
+persevering prayer.
+
+St. Matthew tells us about a woman\'s petition which can be an example
+for all of us. Our Lord came to the district of Tyre and Sidon, the land
+of the Gentiles.
+
+He was looking for a place for His apostles to rest, because He
+couldn\'t find such a place in the desert region of Bethsaida. He wanted
+to spend a few days alone with them.
+
+As they\'re on their journey, a woman comes up to them with an urgent
+petition. In spite of her perseverance in her request, Our Lord keeps
+silent. "But he did not answer her a word," says the Evangelist.
+
+The disciples ask Him to attend to her request so that she will go away.
+She\'s creating a nuisance with her insistence.
+
+But Jesus is thinking differently. After a while He breaks His silence;
+filled with tenderness at seeing her humility, He gives ear to her plea.
+He explains God\'s plan of salvation to her: "I was sent," He says,
+"only to the lost sheep of the house of Israel" (Matt. 15:21-24).
+
+It has been God\'s plan for all eternity. With His life and death on the
+Cross, He will redeem all men, but the spreading of the Good News is to
+start in Israel. Each of the apostles down the ages are to carry it to
+the ends of the earth (Acts 1:8), to all men.
+
+But this Canaanite woman, who almost certainly had little understanding
+of the divine plan, is not discouraged by His reply.
+
+"She came and knelt before him, saying, 'Lord, help me.'" She knows what
+she wants and she knows she can obtain it from Our Lord.
+
+Our Lord explains again to her with a parable what He has just said:
+"'It\'s not fair to take the children\'s bread and throw it to the
+dogs.'"
+
+The children were the people of Israel, and she did not belong to them.
+The hour of the Gentiles had not yet come.
+
+But the woman does not give up in her determination. Her faith increases
+and overflows. She brings herself into the parable with great humility,
+like one more character in it: "'Yes, Lord,' she says, 'yet even the
+dogs eat the crumbs that fall from the master\'s table.'"
+
+Such great faith, such humility, such constancy---all cause Our Lord to
+exclaim, "O woman, great is your faith!" And in a tone in which is mixed
+solemnity and condescension, He adds, "Be it done for you as you
+desire."
+
+The Evangelist is careful to note that "her daughter was healed
+instantly." For this exceptional miracle, exceptional faith, humility,
+and constancy were necessary (Matt. 15:25-28).
+
+Jesus always hears us, even when it seems that He keeps silent. Perhaps
+it\'s then that He listens to us most attentively.
+
+Possibly He\'s urging us on---with this apparent silence---to make sure
+we have the right dispositions for the miracle to take place; so that we
+ask Him with trust, with faith, and without becoming discouraged.
+
+When we feel we must have something, our prayer may often be the same as
+this good woman's: "Lord, help me." It\'s a great little prayer for so
+many needs, particularly those that have to do with the soul, which are
+so urgent for us.
+
+But it\'s not enough just to ask. We have to persevere, like that woman,
+without giving up, so that our constancy may reach out much further than
+our merits.
+
+"The prayer of the righteous man," says St. James, "has great power in
+its effects" (James 5:16).
+
+And in the Old Testament, it says, "The prayer of the humble pierces the
+clouds" (Sir. 35:17).
+
+A little girl was saying her night prayers, kneeling beside her bed with
+her mum. And she was saying, "God bless mummy and daddy and my brother
+and my sister and my grandmother..." and going through all the family.
+
+When she finally finished her litany, she said, shouting, "And for
+Christmas, I want a bicycle."
+
+The mother said to her, "You don\'t have to shout. God is not deaf!"
+
+She replied, "No, but Grandma is!"
+
+Little children know how to make themselves heard. Our Father God has
+foreseen all the graces and help that we need, but He\'s also foreseen
+our prayer. He wants us to ask.
+
+"Ask, and it shall be given to you. Knock, and it shall be opened to
+you" (Matt. 7:7).
+
+We can recall all our personal needs and those of the people who live
+close to us. God does not abandon us.
+
+We know that He always listens to us. If on some occasion He has not
+granted us what we have trustingly asked for, it is because it would not
+have been good for us.
+
+St. Augustine says, "Look well on him who does not give you, when you
+ask for it, what would not be in your best interests" (St. Augustine,
+*Sermon 126*).
+
+A little girl once asked Santa Claus for Christmas. Her father was an
+atheist. She asked for a hundred dolls, but she got one. And her atheist
+father said to her, "Well, your God didn\'t listen to your prayer, did
+he?"
+
+She said, "Yes, He did. He said, No. God is my Father, He always
+listens, just like you always listen. But sometimes He says No, just
+like you. But that doesn\'t mean He doesn\'t exist."
+
+God always listens. He is the one who does know what is good for us. The
+prayer we offered with such insistence would perhaps have benefited us
+in some other way, at some time when we needed it more. Our Father God
+will have used it well.
+
+St. Teresa of Ávila said, "He always gives us more than we ask him for"
+(Teresa of Ávila, *The Way of Perfection*).
+
+So that our petition is heard more promptly, we can ask other people
+close to God for their prayers.
+
+That\'s what the centurion from Capernaum did. He sent some elders of
+the Jews to beg Our Lord to come and cure his servant.
+
+These friends performed their task well. They went up to Jesus and asked
+Him with great earnestness and fervor to go down with them. "He is
+worthy," they said, "for you to do this thing for him." Our Lord
+listened to their pleas (Luke 7:1-10).
+
+When we do ask for prayers, it would be useful for us to remember, as we
+are told in *The Way*, "Next to the prayer of priests and dedicated
+virgins, the prayer most pleasing to God is the prayer of children and
+that of the sick" (J. Escrivá, *The Way*, Point 98).
+
+We will ask our guardian angel as well to intercede for us and present
+our petition before God, because, Origen of Alexandria in his *Treatise
+on Prayer* says, "The special angel of each person---even of the most
+insignificant within the Church---as he always contemplates the face of
+God who is in heaven and sees the divinity of our Creator, unites his
+prayer to ours and cooperates as much as he can to obtain what we
+request."
+
+We can ask Our Lord for the grace to grow in our prayer of petition, to
+have a list of items that we want to ask God for in a regular way. From
+time to time, we\'ll change that list, possibly placing first and
+foremost, the needs of others or the needs of the Church, the needs of
+the Prelature, the needs of people around us, before our own personal
+needs.
+
+"And he said to them, 'Which of you who has a friend will go to him at
+midnight and say to him, "Friend, lend me three loaves; for a friend of
+mine has arrived on a journey and I have nothing to set before him"; and
+he will answer from within, "Do not bother me. The door is now shut and
+my children are with me in bed. I cannot get up and give you anything"?
+
+"I tell you though, he will not get up and give him anything because he
+is his friend, yet because of his importunity he will rise and give him
+whatever he needs" (Luke 11:5-13).
+
+"What can we expect from God, especially when we recognize that He
+doesn\'t owe us anything and that we don\'t deserve His grace and
+favor?" (Don Schwager, *The Parables of Jesus*: *The Bothersome
+Neighbor*).
+
+Our Lord uses this illustration of this late-night traveler to teach His
+listeners an important lesson about how God treats us in contrast to the
+kind of treatment we might expect from good neighbors.
+
+The rule of hospitality in biblical times required the cooperation of
+the entire community in entertaining an unexpected or late-night guest.
+Whether the guest was hungry or not, a meal would be served. In a small
+village, it would be easy to know who had baked bread that day. Bread
+was essential for a meal because it served as a utensil for dipping and
+eating from the common dishes.
+
+Asking for bread from one\'s neighbor was both a common occurrence and
+an expected favor. To refuse to give bread would bring shame because it
+was a sign of inhospitality.
+
+If a neighbor can be imposed upon and coerced into giving bread in the
+middle of the night, how much more hospitable is God who, no matter what
+the circumstance, is generous and gracious to give us what we need?
+
+At the end of this passage, Our Lord repeats that startling claim: "How
+much more will the heavenly Father give?"
+
+The Lord is ever ready to give us not only what we need, but more than
+we can expect. He gives freely of His Holy Spirit, that we may share in
+His life and joy. We need to try to approach Our Heavenly Father with
+confidence in His mercy and kindness.
+
+St. Josemaría says, "The only thing we can do is persevere. Ask, ask,
+ask. Can\'t you see what I do? I try to put this into practice.
+
+"When I want something, I get all my children to pray and I tell them to
+offer their Communions, their Rosary, so many mortifications and
+aspirations, thousands of them.
+
+"And if we persevere with a personal perseverance, God Our Lord will
+give us all the means we need to be more effective and to spread his
+kingdom in the world (cf. J. Escrivá, *The Forge*, Point 372).
+
+Prayer of petition grew in intensity, because one of those conditions of
+prayer is perseverance which in Spain, we\'re told, was called
+stubbornness. Things work out after praying for many years.
+
+"Long before the foundation of the Work, when I had those inklings,"
+said St. Josemaría, "that God wanted something of me, though I did not
+know what it was, I prayed some aspirations with great insistence:
+*Domine, ut videam*! *Domine, ut sit*! "Lord that I may see. May
+whatever it is that you want, that I do not know, come into existence"
+(Antonio Aranda, "*A vocation accepted and lived in fidelity to God's
+will*" in Romana magazine, January-June 2000).
+
+In the *Catechism of the Catholic Church*, we\'re told, "When Jesus
+openly entrusts to his disciples the mystery of prayer to the Father, he
+reveals to them what their prayer and ours must be, once he has returned
+to the Father in his glorified humanity.
+
+"What is new is to 'ask in his name' (John 14:13). Faith in the Son
+introduces the disciples into the knowledge of the Father., because
+Jesus is 'the way, and the truth, and the life' (John 14:6).
+
+"Faith bears its fruit in love: it means keeping the word and the
+commandments of Jesus, it means abiding with him in the Father, who, in
+him, so loves us that he abides in us. In this new covenant the
+certitude that our petitions will be heard is founded on the prayer of
+Jesus" (*Catechism*, Point 2614).
+
+"Pray constantly," says St. Paul, "always and for everything, giving
+thanks in the name of Our Lord Jesus Christ to God the Father" (1 Thess.
+5:17-18; Eph. 5:20).
+
+He adds, "Pray at all times in the Spirit, with all prayer and
+supplication. To that end keep alert with all perseverance, making
+supplication for all the saints (Eph. 6:18).
+
+For "we have not been commanded to work, to keep watch, and to fast
+constantly, but it has been laid down that we are to pray without
+ceasing" (Evagrius Ponticus, *Practicus 49*).
+
+"This tireless fervor can only come from love. Against our dullness and
+laziness, the battle of prayer is that of humble, trusting, and
+persevering love" (*Catechism*, Point 2742).
+
+It\'s interesting to see how the Catechism talks about the battle for
+prayer. It\'s a struggle, it\'s an effort to do many things.
+
+"This love opens our hearts," it says, "to three enlightening and
+life-giving facts of faith about prayer" (*Ibid*.).
+
+We can turn to Our Lady, very sure that she helps our prayer. She will
+take our petitions and place them before her Son. Through the mediation
+of Mary, the Mother of God and Our Mother, we know that our prayers will
+be heard.
+
+We can turn to her now and at all times, saying, "Remember, O most
+gracious Virgin Mary,"---St. Bernard composed this prayer---"that never
+was it known that anyone who fled your protection, implored your help,
+or searched your intercession was left unaided. Inspired with this
+confidence, we fly to you" (Bernard of Clairvaux, *The Memorare*).
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+GD

@@ -86,6 +86,7 @@ title: "{title}"
         f"Directory created (or already exists): {os.path.dirname(meditations_json_path)}"
     )
 
+    meditations.sort(key=lambda x: x["title"])  # Add this line
     try:
         with open(meditations_json_path, "w") as f:
             json.dump(meditations, f, indent=2)
@@ -101,7 +102,7 @@ title: "{title}"
 # --- Main execution ---
 if __name__ == "__main__":
     source_directory = (
-        "../transcript_proofread_markdown_small"  # Change to your source directory
+        "../transcript_proofread_std_markdown"  # Change to your source directory
     )
     posts_directory = "_posts"
     data_directory = "data"  # Output directory for meditations.json

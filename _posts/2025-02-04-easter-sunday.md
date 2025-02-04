@@ -1,0 +1,535 @@
+---
+layout: homily
+title: "Easter Sunday"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+**Now on the first day of the week, Mary Magdalene came early to the
+tomb while it was still dark, and she saw the stone taken away from the
+tomb.**
+
+The whole story of the Resurrection in St. John opens with Mary
+Magdalene. This is the greatest event in human history. One might have
+thought that St. John himself could have been the protagonist of the
+story, or Our Lady, or St. Peter.
+
+But Mary Magdalene steals the show. She is the great sinner who learned
+how to love. She represents each one of us, the whole of sinful
+humanity.
+
+And she steals the show, she wins the Oscar, because she came early to
+the tomb while it was still dark. You get the impression that everybody
+else was asleep in bed. But not Mary Magdalene.
+
+If you\'re worried or concerned or anxious about something, it\'s
+difficult to sleep. And so Mary Magdalene found it difficult to sleep
+that morning. Her heart was not in it, because her heart was with
+Christ.
+
+And so we see that there\'s a hole in our heart. John Paul II liked to
+say that we all suffer from a hole in the heart. And that hole can only
+be filled by God.
+
+And so on this Easter morning, Mary has a great sense of loss. She
+senses the hole in her heart because Christ is no longer there. And she
+feels the need to go and be physically close to Christ.
+
+And so she conquers all the difficulties and obstacles. She conquers her
+laziness or her selfishness or her love of comfort. And she gets out of
+bed and she came early to the tomb.
+
+Possibly she also had to conquer human respects. There might have been
+other women who hear her moving early through the town, and who peer out
+from behind their curtains wondering where is this one off to at this
+hour of the morning.
+
+But Mary doesn\'t mind, because all her thoughts, all her focus is on
+Jesus. She\'s also not worried about the other obstacles, the stone
+that\'s going to be there covering the tomb.
+
+And when she gets there, she finds that the stone has in fact been taken
+away from the tomb. This upsets her because she thinks that somebody has
+stolen the body of Christ. She ran therefore and came to Simon Peter.
+
+You get the impression that Mary pulled up her skirt and she tore off to
+find Simon Peter. She doesn\'t dilly dally, doesn\'t take it easy. She
+doesn\'t just go with haste but she runs. And she comes to the other
+disciple whom Jesus loved. John always refers to himself in the third
+person.
+
+And she said to him, **"They have taken the Lord from the tomb and we do
+not know where they have laid him."**
+
+Mary is concerned enough with her sense of loss for the body of Christ,
+that she goes to spread this word immediately and try and find a
+solution. And she goes to the people that might best be concerned, Peter
+and John.
+
+**Peter therefore went out and the other disciple and they went to the
+tomb. The two were running together and the other disciple ran on the
+floor faster than Peter and came first to the tomb.**
+
+John was younger, he was quicker, lighter of foot.
+
+**And stooping down he saw the linen clothes lying there.**
+
+Yet he did not enter. He waited for Peter. John has this little detail
+of deference to Peter. Peter is the chosen one, the rock, the prince of
+the apostles. The one whom we always have to follow, to be close to and
+to obey.
+
+**Simon Peter therefore came following and he went into the tomb and saw
+the linen cloths lying there and the handkerchief which had been about
+his head, not lying with the linen cloths but folded in a place by
+itself.**
+
+St Josemaria liked to give importance to this little detail. Our Lord
+didn\'t just rise from the dead and throw off all the linen cloths that
+were around Him and leave the place any old way. But He folded one of
+the linens that had been around His head, He folded it in a place like
+itself.
+
+Next time you\'re drying your hands in a washroom and you\'re about to
+put the towel back on the rail, well remember that Christ folded the
+towel very carefully. It\'s a divine example of the care we have to take
+of little things.
+
+Folding a towel, folding our clothes, folding bed clothes or linens,
+folding things, putting order in things. That\'s how Jesus left the
+tomb. And it\'s an example that\'s there for the whole of eternity.
+
+**Then the other disciple also went in who had come first to the tomb
+and he saw and believed.**
+
+This is the first witness of faith after the resurrection. **He saw and
+believed.**
+
+We get the impression that up to now they hadn\'t really believed. But
+now there\'s a conversion of faith.
+
+**For as yet they did not understand the Scripture that He must rise
+from the dead.** And so this continuing theme throughout the whole of
+Holy Week, that Our Lord is performing great and important deeds, but
+really the apostles are on another planet. They don\'t know what\'s
+happening. They don\'t grasp the significance of the events. They don\'t
+understand what it is Our Lord is saying to them.
+
+And so here we have it confirmed for us, **As yet they did not
+understand the Scripture that He must rise from the dead.**
+
+**The disciples therefore went away again to their home.** It\'s a funny
+statement.
+
+There\'s this great event that has taken place, the greatest event in
+human history. Christ has conquered death. He\'s conquered the devil.
+He\'s conquered suffering and everything.
+
+**The disciples went away again to their home.** We\'re almost told that
+they went back to bed.
+
+It\'s curious that they weren\'t a little bit more curious or surprised
+or they don\'t hang around there wondering what else is going to happen.
+
+But Mary doesn\'t go home. Mary stays there in contrast to the apostles.
+Fidelity and love. That hole in her heart has not yet been fully filled.
+In fact, it\'s still empty.
+
+And so we\'re told that **Mary was standing outside weeping at the
+tomb.**
+
+So while the apostles go home, Mary turns to weeping. The apostles
+don\'t weep.
+
+And so **as she wept, she stooped down and looked into the tomb. And saw
+two angels in white sitting, one at the head and one at the feet, where
+the body of Jesus had been lain.**
+
+**And they said to her,"Woman, why are you weeping?" And inconsulate
+Mary says to them, "Because they have taken away my Lord, and I do not
+know where they have laid him."**
+
+And Mary now helps us to have that look into her heart, why she came
+early to the tomb. Why she doesn\'t go home or go back to bed. Because
+she\'s still looking for Christ. Her sense of loss is great.
+
+We can learn from this great sinner who learned how to love. To have
+that great sense of loss, if ever we have lost Christ in our life,
+through sin or through negligence or through whatever, Lord, give us
+that sense of loss so that we might always yearn to get back into the
+state of grace. To have the blessed Trinity living in our soul, Father,
+Son and Holy Spirit.
+
+**We will come and make our abode in Him.**
+
+That\'s what Mary is looking for. And so from her actions and her words,
+we can ask God that we might also have this yearning for the sacrament
+of Confession and of Holy Communion. To be in the state of grace and to
+have Christ living in our soul.
+
+**When she had said this, she turned around and beheld Jesus standing
+there and she did not know that it was Jesus.**
+
+Interesting how Our Lord does not appear to her immediately. He\'s going
+to disclose Himself to her gradually, quietly, gently.
+
+How often in our life Our Lord is there right beside us. And He speaks
+to us. Or maybe He doesn\'t speak to us. He\'s there in people, in
+places, in events. He is there, but we don\'t recognize Him.
+
+He wants to pass unnoticed, but He\'s never far away. He wants us to
+grow forward in faith or in hope or to discover His presence.
+
+**Jesus said to her; "Woman, why are you weeping? Whom do you seek?"**
+
+And so little by little, Our Lord is going to tease her out a little
+bit. He\'s going to let her discover His presence in a very slow way.
+
+**She, thinking that he was the gardener, said to him,"Sir, if you\'ve
+removed him, tell me where you have laid him and I will take him
+away."**
+
+Now, these are other dramatic words from Mary Magdalene. We know more or
+less that Our Lord was six feet tall. He must have weighed at least 75
+kilos. And this slim young lady is going to say, "**Tell me where you
+have laid him and I will take him away."**
+
+Mary feels all powerful. Love has made her all powerful. She feels a
+great strength. Whatever it is, whatever it takes, I will do it.
+
+And Our Lord has masqueraded as the gardener.
+
+I heard a rather beautiful story recently. Somebody told me that when
+they were at school, secondary school many years ago, 20, 30 years ago,
+there was a very beautiful little garden in a part of this boarding
+school that was very well cared for by a very good gardener. He was a
+very poor man, very humble, a very humble dwelling.
+
+But the student said that he used to notice this gardener on his knees
+pulling the weeds out of the flower beds in this garden and the
+vegetable patch. And he used to observe how he worked. He worked with
+great love for his work, great devotion to his work. He was poetry in
+action.
+
+The way he worked impressed me a lot. It attracted my attention.
+
+And when he was finished working, he\'d go over to a small little shrine
+of Our Lady that was in one corner of the garden. And he would kneel
+there in front of Our Lady as if offering her the work that he had just
+done or thanking her for the health and talents and abilities that had
+enabled him to be able to do that work.
+
+Many decades later, I still remember that gardener. He left an impact on
+my heart and on my soul. It\'s interesting listening to this little
+story. The power of the gardener.
+
+The power of the gardener in a school. Sometimes we think that all our
+learning takes place in the classroom from very learned teachers.
+
+But that may not be the case. And so this man remembered the great
+lessons that this gardener had taught him and had a desire in his life
+that he might always work with that same devotion with which that
+gardener worked.
+
+And so Our Lord was mistaken for the gardener. He masqueraded, played a
+sort of a practical joke on Mary Magdalene, as He might often do on each
+one of us.
+
+Jesus said to her, "**Mary**." So now He addresses Mary Magdalene by her
+name.
+
+Our Lord calls each one of us by our name. The good shepherd knows the
+sheep by name.
+
+God has given us a name, a name in baptism, a name that will last
+forever. Catechism says our name is a reflection of our dignity.
+
+And so we see this intimacy with Mary Magdalene and how she is addressed
+with that same dignity that all great sinners are also addressed by
+Jesus. He has come to call all of them.
+
+**Turning, she said to him, "*Rabboni"****---***that is to say,
+"Master."**
+
+In other moments of the Gospel, when Our Lord is approached by people,
+often He is the one that turns.
+
+He turns to the woman who touched His cloak with the issue of blood.
+Nobody else felt or noticed her, but He turned to this sinner, stopped
+what He was doing, disengaged Himself from the crowd and turned to the
+sinner.
+
+But now, it is the sinner that turns to Him. And so we are invited also
+to turn to Christ, who has the answer to all our problems and questions
+and ills.
+
+**Jesus said to her, "Do not touch me, for I have not yet ascended to my
+Father."**
+
+Our Lord makes a reference to the fact that that now His risen body is
+His glorious body. It\'s not the same as before. People are not just
+meant to reach out and touch him in any old way. This is His risen and
+glorious body. Things are different.
+
+There is a church in Singapore that is called the Church of the Risen
+Christ. I thought that was a rather beautiful title.
+
+We are followers of the Risen Christ. We don\'t just believe in Christ
+or in any Christ, we believe in the Risen Christ. A Christ who has
+conquered death, conquered sin, conquered the devil. A Christ who brings
+us joy, hope, optimism. Because we are part and believe in the Risen
+Christ, we have a great reason to live. And to look to the future with
+confidence.
+
+**"But go to my brethren and say to them, I ascend to my Father and to
+your Father, to my God and to your God."**
+
+And so Our Lord gives Mary Magdalene a mission. He calls her to be an
+apostle. The great sinner now becomes the great apostle.
+
+Well, Pope Benedict liked to say that Mary becomes the apostle of the
+apostles.
+
+**"Go to my brethren and say to them, I ascend to my Father and to your
+Father."**
+
+She becomes the missionary of the resurrection. The first person that
+has this good news. She is the first one to whom Our Lord has revealed
+Himself. And that makes Mary Magdalene a very important person in the
+whole of humanity.
+
+Singled out in a special way, chosen from all eternity. And so each one
+of us, we have our special role. We\'ve been chosen from all eternity.
+We may be great sinners, but God wants us to be great apostles.
+
+Mary Magdalene came and announced to the disciples, "**I have seen the
+Lord and these things he said to me."**
+
+And so she fulfills the command. She\'s no longer weeping. She\'s now at
+peace. Her soul and heart is no longer yearning because that hole has
+been filled. She has found Christ.
+
+And a whole new dimension to her life has begun. She\'s begun now to
+bring Christ to others. And so she finds her peace, her fulfillment, her
+joy. Her destiny.
+
+**"I have seen the Lord and these things he has said to me."**
+
+And so the story of the resurrection is a story of hope, of joy, of
+fulfillment.
+
+Easter is the greatest day and moment of our whole life. And we are
+called to live that Easter in a regular way.
+
+A Dutch missionary priest in Singapore told me once how the greatest
+priestly moment of his life, he said, "was when I was called to see a
+Dutch lady in hospital with cancer. Her death wasn\'t imminent, but
+she\'d been away from the sacraments for decades."
+
+And he said, "I was asked to go and see her. And so I went to see her.
+And we talked for a while. And then the moment came when I had to ask
+her the \$64,000 question, which was, "Would you like me to hear your
+Confession?"
+
+And she gave the \$64,000 answer, which was, "Oh, I have nothing to
+confess."
+
+So then he chatted it up a little more, cajoled her a little bit.
+
+And finally, she said, "OK, if it will make you happy, I will go to
+Confession."
+
+And so she went to Confession.
+
+And then this priest said that after her Confession, she put her head
+back in the pillow and said, "Now it is really Easter." The priest said,
+"I was very moved by that."
+
+He was this woman who had been away from the sacraments for decades. But
+yet she still remembered all the things she had learnt at her First
+Communion.
+
+She knew what Good Friday was. She knew what the Redemption was.
+
+She knew what divine grace was. She knew what the Resurrection was.
+
+She knew that it meant that the gates of heaven were opened. Sin had
+been conquered.
+
+The devil had been conquered. There\'s a whole new horizon with
+everything to look forward to, the eternal wedding feast.
+
+He said somehow the whole of Catholic doctrine seemed to be summed up in
+that phrase. "Now it is really Easter."
+
+But we can truly say now it is really Easter. And every time that we go
+to Confession, we can also say those same words and have those same
+sentiments when we come out of the confessional box.
+
+Now it is really Easter. I have everything to look forward to. I\'m on
+my pathway to heaven. I look forward to the eternal wedding feast. I can
+live a life of joy, of hope, of optimism because of the resurrection,
+because of the risen Lord.
+
+In the early 1970s, one Friday evening in Dublin, three bombs exploded.
+Something like 30 people were killed. And a parish priest of an inner
+city parish told me how an elderly lady came to see him at 9 o\'clock
+that night saying that her son was missing and she was very worried.
+
+So this priest said, "We went to the three local hospitals. One by one
+we searched them to see if there might be any trace of her son. But the
+hospitals were still in a state of chaos with so many injured and dead,
+a lot of blood around the place.
+
+And so as we went from one hospital to the other, there wasn\'t any sign
+of her son. And now after finishing the third hospital, a certain amount
+of time had passed. So we decided to go back and try again. And now a
+certain amount of order had been restored in the emergency rooms.
+
+The names of the people admitted had been written down. But in the first
+hospital there was no sign of her son. And then we went to the second
+hospital and lo and behold, there was no sign of her son. We went to the
+third hospital and lo and behold, her son was there.
+
+His name was on the admission list. And so we went to look for him and
+we found him and he was alive."
+
+And this priest described the joy of that mother at finding her son
+alive.
+
+If the human joy of a mother at finding her son alive could be so great,
+what must the joy of Our Lady have been on Easter Sunday morning when
+the news reaches her that Christ has risen. And so during the next 40
+days, the Church invites us to share in the joy of Our Lady and to say
+or to sing the *Regina Caeli*: Queen of Heaven, Rejoice, Alleluia.
+
+Rejoice and be glad, O Virgin Mary, for the Lord has truly risen.
+Alleluia.
+
+Easter is a time of joy because the Lord has truly risen. Alleluia.
+
+Joy is one of the most infallible signs of God\'s presence. For us
+believers in the risen Christ, it should be a permanent state because as
+children of God, we\'re in a permanent state.
+
+Enjoying our lives is the fruit and the mark of charity. We know that
+God loves us. He has sought us out. He has redeemed us. To be with
+Christ is a source of joy. And joy comes from imitating Christ.
+
+It may be that with the passage of time, the things that give us great
+joy when we were younger, human joys, sports, other things, possibly
+give way to greater spiritual joys as we get older. Joys that do not
+fade.
+
+If we try to love the cross more each day, we will be a more joyful
+person. Joy comes from abandonment into the hands of Our Father God.
+
+**Lord, into your hands I commend my spirit.** And we are close to the
+source of all joy.
+
+And true virtue is pleasantly joyful. The word joy and that God is joy
+appears 300 times in Scripture.And the frequency of a word in Scripture
+is an indication of its importance.
+
+Because we live in a finite, material, human world, we might lose our
+joy from time to time. But we can recover it very quickly.
+
+Acts of thanksgiving can help us to restore our joy. Because we realize
+that everything has come from the hands of God.
+
+And joy in our life is a necessary and unavoidable consequence of love.
+Our joy can be a good indication of how we are living our Christian
+vocation, of our self-surrender.
+
+And often the greatest joys in life are purchased at the cost of some
+sacrifice. Our mothers have sacrificed themselves for us.
+
+Confucius, a Chinese philosopher, says, "When you drink water, you
+should remember the source."
+
+When you experience some joy, try and recall or realize where that joy
+came from.
+
+A pleasant state of mind can tend to bring abnormal situations back to
+normal. And so a joyful person at work, in the home, with our friends,
+can lift up the whole spiritual temperature.
+
+The joy that Christ has won for us at Easter is meant to be constant,
+heroic. Nothing should be able to undermine it.
+
+We live a smiling asceticism. Our Lady experienced rejection all
+throughout her life, in Bethlehem, in Egypt, and particularly at the
+foot of the cross. But she\'s always calm. There\'s not a word of
+complaint.
+
+Looking at ourselves, we might have very few reasons for cheerfulness
+and joy. But looking at Christ, risen from the dead, we have every
+reason, because He has conquered death, conquered the devil, conquered
+sin, and conquered temptation.
+
+And so our joy is not a function of circumstances. There could be a very
+joyful occasion, and we could be rather sad. There could be a sad
+occasion, and interiorly we might be joyful.
+
+We build joy on our faith, faith in the love that God has for us. I am a
+child of God.
+
+We can have a new joy at beginning again in this after-Easter period, as
+we realize that created things are powerless to satisfy our hunger for
+happiness. And so we may have to be like the prodigal child who comes
+back frequently every day to begin again in joy.
+
+**Father, I am not worthy to be called your child. Treat me as one of
+your hired servants.**
+
+Chesterton has liked to say that one of the things that is least talked
+about on the cross is the joy of Christ on the cross. That it is
+accomplished. I fulfilled the mission. I fought the good fight. I
+finished the race.
+
+As we look forward to our life, or look back on the things we have
+achieved, we have great reason to be joyful as well.
+
+Joy is one of nature\'s greatest medicines. It\'s a gift of the Holy
+Spirit.
+
+And all through this Easter period, you can think of the joy of Our
+Lady. Joy is always something healthy. Joy means others.
+
+My soul magnifies the Lord. My spirit rejoices in God my Savior.
+
+We get a joy from serving God. The joy of our self-surrender. The joy of
+the fulfillment of our ordinary duties.
+
+Chesterton liked to say that joy and cheerfulness are a highly civilized
+product. Pope Benedict said, "Never forget, dear young people, that our
+happiness depends, in the end, on the encounter and friendship with
+Jesus."
+
+Mother Teresa of Calcutta liked to say, "Never be so down as to forget
+the joy of the risen Christ."
+
+And so as we say the Regina Caeli these days, we could try to be
+reminded of the great joy of Our Lady that has come with the
+resurrection.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*GD*

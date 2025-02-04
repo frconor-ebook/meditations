@@ -1,0 +1,630 @@
+---
+layout: homily
+title: "Passionately Loving the World"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+"And God saw all things and he saw that they were good" (Gen. 1:31). Our
+faith gives us a very positive outlook on creation and the world.
+
+This meditation is about passionately loving the world.
+
+I often think that that phrase and the translation of it will contain an
+interesting message. If you were to say that "we love the world
+passionately", we would have the same emphasis.
+
+If you were to take the adverb and place it first, it gives a new
+emphasis.
+
+If you heard someone say that they wanted "to love Manchester United
+passionately," well, OK, I think that might be something impressive. But
+then if they say "passionately loving Manchester United," it gives great
+emphasis.
+
+Or "loving *chapati* passionately" and you put the adverb for
+"passionately loving *chapati*." It might almost sound a bit over the
+top.
+
+But yet very definitely and consciously, our Father used that phrase,
+and it got translated into English in the same way: passionately loving
+the world.
+
+Love it with passion. It\'s a very strong statement. At the time that it
+was made, it was even stronger, and loving the world was considered to
+be something alien to the religious mentality. So just that phrase alone
+contains a great message.
+
+"God saw all things and he saw that they were good" (Gen. 1:31). If God
+saw all things and He saw that they were good, then it\'s very logical
+that we should love those things.
+
+I love the place where they are and love every aspect that God has
+created around them. "I do not ask," said Our Lord in St. John, "that
+you would take them out of the world, but that you keep them from the
+evil one" (John 17:15).
+
+So, all the time the goodness of the world is emphasized. That\'s our
+place, that\'s what we\'ve been created for. That\'s the place to
+be---the lay mentality. Secularity. We see the good things in the world.
+
+I was rather impressed with the final parting shot of one of the people
+in the documentary last night, where he sort of says, Get out there and
+look at nature, it\'s beautiful.
+
+Powerful statement in that. It\'s the message that we have for everybody
+who comes in contact with our apostolate.
+
+Pope St. John Paul used to talk a lot about the culture of life and the
+culture of death.
+
+Pope Benedict brought that onto a more philosophical plane, where he
+talked about the cult of beauty. We\'re all involved in the cult of
+beauty; promoting the beautiful because the world can be beautiful.
+
+There are many beautiful things in the world. Part of our role is to
+open the eyes of humanity to that beauty, so that they discover it.
+
+Pope Benedict liked to say that the world is presenting many ugly things
+to young people: contraception, abortion, euthanasia.
+
+We\'re here to present the beautiful, to open people\'s eyes to that
+greater truth and reality that God saw all things, "and he saw that they
+were good."
+
+This gives us a very positive outlook on everything that we\'re doing.
+
+Jack Valero had a get-together with people in Sudek online a few days
+ago. What was interesting was to listen to this PR personality talking
+with great optimism about the whole world of media and public relations.
+
+Behind the words and the means he was using to communicate this message
+was that very positive idea that we have something beautiful, something
+good, something positive to communicate to people.
+
+We love the world. We love things of sport or fashion or finance or
+whatever it may be, because the world is our place. We have no fear of
+the world. We don\'t run away from it.
+
+In fact, we face the difficulties with fortitude, optimism, with a
+sporting spirit, with supernatural outlook.
+
+It's a bit like St. Joseph faced Bethlehem, with all of its
+difficulties, contradictions, and trials.
+
+When he found there was no room at the inn (Luke 2:7), he didn\'t throw
+his hat on the ground and say, 'This is too much' or 'I\'m going home.'
+He didn\'t give in, in the battle.
+
+He looked for a solution. If this is the way things are, then there must
+be some other divine plan here.
+
+St. Josemaría in "In Joseph\'s Workshop" says, "Joseph showed initiative
+and responsibility in all that he was asked to do. ... He was in no way
+shy or frightened of life. He faced up to difficult situations, dealt
+with difficult problems" (Josemaría Escrivá, *Christ Is Passing By*,
+Point 39).
+
+This is the model of how we have to be in the middle of the world:
+initiative and responsibility. Two beautiful words on the lips of a
+member of Opus Dei.
+
+We find a lot of that initiative and the ideas for that initiative in
+our prayer, coming from the tabernacle.
+
+Our Lord gives us ideas. He gives us an optical angle, helps us to work
+things out so that we come up with the true solutions that are a fruit
+of this love for the world, and love for the difficulties, and love for
+the future, and building the future---that same optimism that our Father
+had on so many occasions.
+
+We have a healthy love for the good things of the world because we see
+God in them.
+
+"There is something divine, hidden in the most ordinary human
+situations, and it is up to each one of us to discover it" (J. Escrivá,
+*Conversations*, 'Passionately Loving the World,' Point 114).
+
+Managerial situation, financial situation, sporting situation---there is
+something here. There is something for us. There is something God wants
+us to chew on and work on and come up with a solution.
+
+We love the world because it has come from God\'s hands, and it will
+lead us to Him. That means that we are preoccupied, also, with the
+problems of the world: social situations that we want to change; things
+that aren\'t right that is to bother us, our social consciousness.
+
+It's part of our Christian vocation. We have the great means, the social
+doctrine of the Church, to try and change those situations, to infect
+people with those ideas that are mind-blowing and mind-boggling and can
+change realities; to lift the whole of the world.
+
+When Don Javier came to Hong Kong in...I think it was early 1997, just
+before the handover, he went into China. At that stage, there were a lot
+of things that were a little bit on the low side from the point of view
+of development. Many things have happened since then.
+
+But when he came back to Hong Kong, bursting with activity and business
+and all the rest of it, he said in a get-together, "I was a bit
+observant of this reality." Then he said, "Never forget that
+Christianity has come to lift everything up."
+
+It was a very simple statement, but yet, a very powerful statement.
+"Christianity has come to lift everything up."
+
+And so, we have come to lift everything up. That\'s why we\'re here,
+that\'s what it\'s all about. That\'s what our apostolates are about.
+
+Every center of the Work, every detail of formation. We\'re here to lift
+people up, lift up humanity.
+
+The "Christian materialism" of our centers is a manifestation of our lay
+mentality. We have good items of decor of any Christian family. We look
+after them well; we make them last, because they carry a message.
+
+I often think that the floral arrangement on the hall table of Tigoni
+Study Center is the most formative thing in the whole place.
+
+We think people come to retreats and they listen to meditations and
+talks, and we think they get all sorts of wonderful ideas.
+
+But often, it\'s the material things, the taste, the beauty, the care,
+that has its deepest impact---the care of the things of the world,
+because they carry this profound message.
+
+I was talking to a man in Manila once on a retreat, and he had been
+coming to retreats for many years, and he said, "You know, I always
+learn something from the retreats that I come to."
+
+I was expecting him to make some comment about some talk or some
+meditation, and he said, "The last time I was here, I ran my finger on
+the top of the door of my room, and there wasn\'t a speck of dust. I
+went home to my house, and I did the same thing, and then I showed my
+wife my finger. She\'s not happy that I come to these retreats, because
+I come back with similar observations every time."
+
+All of the things he learned were all about the material things of the
+place.
+
+Our centers are for formation. Everything\'s meant to give formation. It
+fosters a Christian outlook on material things.
+
+That\'s why we have to take care of those material things. It\'s not
+just an added icing on the cake. It\'s not just a nice detail to make
+things look well.
+
+There\'s some great positive divine message there. We\'re promoting the
+cult of the beautiful, the tasteful, the dignified, as a manifestation
+of the beauty of Christ.
+
+And we\'re totally taken up with that beauty; hence, the reason behind
+that phrase, "passionately loving the world."
+
+Because we passionately love God. We passionately love Christ.
+
+We don\'t love material things for the sake of material things. Or money
+for the sake of money. Or new gadgets, whatever it may be. It would be a
+manifestation of a frivolous mentality.
+
+But we love them for the deeper realities that are behind them. That
+opens great horizons for us.
+
+Lord, help me to love the world a little more, and to love it in such a
+way that I look for solutions. I look for ways to make it better. I
+plant the seeds. I transmit ideas.
+
+I burn with apostolic desire to make myself more effective in
+transmitting these ideas.
+
+Don Álvaro in the January 1993 letter says, "We find in any upright
+activity the raw material for our sanctity and the field of our
+apostolate."
+
+"In any upright activity." No matter what situation, or how bad it might
+be, or how disordered, or a whole pile of other things, because we have
+a great contribution to make, a serious contribution. Seminal ideas that
+can change those realities.
+
+"An apparent wasteland," he says, "which is rendered fertile by
+heaven\'s graces when we cultivate it with the means God has marked out
+for us."
+
+We have certain means---means through which we show that we passionately
+love the world. We want it to improve and to be better and to be a more
+dignified place.
+
+We point out to people the errors or the problems or the dangers. We
+also open their eyes to other beautiful realities that perhaps they
+haven\'t seen.
+
+*"Domine ut videam!* Lord, that I may see!" (Mark 10:51).
+
+We know that with our formation, and with grace, and with the passage of
+time, our eyes are also opened to new beautiful realities---new aspects
+of ideas that maybe we\'ve heard many times before, but the Holy Spirit
+gives us new lights; or new ways to see how God is acting in the world
+or how He\'s acted through history; or the beauty of our Church; or a
+certain holy pride when we consider all the wonderful things the Church
+has achieved down through the centuries.
+
+History has so much to teach us. People have so much to teach us.
+
+"First," he says, "our personal friendship with confidence are the key
+to true effectiveness in our apostolate, which enables us to enkindle
+other hearts with the love of God burning in our own."
+
+We also kindle in other hearts a love for the world---a positive love
+for the world, an enthusiasm for the world that helps people to see that
+they also have a role to play.
+
+We\'re all involved in this cult of beauty, in changing things and
+lifting everything up, because that\'s what Christianity has come to do.
+
+Then the specific means of formation of St. Gabriel\'s and St.
+Raphael\'s work, the focal point in which our efforts should converge.
+
+Everything leads to that: the love of the world, the ideas that we
+transmit---ultimately, a means for promoting the work of St. Gabriel and
+of St. Raphael.
+
+Every day, every hour, we\'re caught up with that. That\'s the means
+that we have to transmit this great message. The focal point.
+
+How can I bring this forward? How can I be more effective? How can I
+transmit this love for the world that we have and everything in it, so
+that we make it a better place to be in and to live?
+
+"We know full well the crucial importance of our task within the
+Church\'s mission."
+
+"The crucial importance." Where would the world be without the Church?
+Where would the world be without that moral direction that comes from
+the See of Peter? The values, the truth, the beauty, the love, the care;
+the message of the dignity of every human person; the central ideas
+about the greatness of man.
+
+It was interesting to hear Pope St. John Paul talking about man in
+Italian. He used the word *uomo.*
+
+But whenever he said *uomo*, he would say it with a certain profundity
+and depth. The greatness of man is because of the dignity of the human
+person. The dignity of women. The dignity of the family.
+
+The basis of so many things that we have to transmit to the world.
+
+That\'s why our task within the Church\'s mission is so crucial: to
+bring to all the areas of society, every last person, every last
+*shamba*, this great message.
+
+"And with this conviction," he says, "each of us undertakes the
+initiatives that seem to him most appropriate, mentioning them in
+spiritual direction."
+
+"With this conviction"---the conviction about the greatness and beauty
+of the world, that it has come from God\'s hands, that this is where He
+wants us to be.
+
+"I do not pray that you would take them out of the world" (John 17:15).
+But that you place them bang smack in the middle of the world, in the
+middle of those problems, and challenges, and difficulties, and lead
+them to function with the means that I\'ve given them, "with the
+initiatives that seem most appropriate, mentioning them in spiritual
+direction."
+
+We can ask Our Lord, when we go to the chat or spiritual direction, if
+we talk about those initiatives.
+
+Or if, from time to time, God gives us a certain idea, a seminal idea
+that perhaps can have a big impact, and in the coming years or decades,
+we want to work on that particular idea.
+
+If God has invested so much formation in us---intellectual, spiritual,
+doctrinal, apostolic, cultural---often, the best wine has to come at the
+end.
+
+I was at a deanery meeting once in Singapore and there was a fairly
+elderly Dutch priest there. Quite vocal. Missionary priest.
+
+At one stage in the discussion, he says, "There is so much emphasis on
+youth in our Church. I\'ll have you know I\'m 64. I\'m not dead yet, and
+the best wine comes at the end."
+
+He was sort of saying that if God has invested so much in us, maybe our
+greatest contributions have yet to come.
+
+You think of the latter years of our Father\'s life---Cavabianca,
+Torreciudad---the impact of those places over time.
+
+So, there may be seminal ideas that Our Lord has not yet communicated to
+us that has to have a great impact on where we are, in our surroundings.
+
+As our Father used to say, "Freedom, my daughters and sons, freedom,
+which is the key to the lay mentality all of us have in Opus Dei."
+
+"What interests me," said our Father in 1973 in one of the *campanadas*,
+"my dear children, is the supernatural life in your soul; your interior
+life and its direct apostolic manifestations.
+
+"Other successes, other achievements, and human achievements seem well
+to me if they bring you to God. But the Work is something different, and
+this is your task---the task of each one."
+
+If, in some extraordinary case, that personal task was to be converted
+into an obstacle; if it was to put in danger the salvation of your soul;
+if there was to come a storm in your soul, and you were to begin to
+concern yourself more for the cargo than for the boat, then, that would
+be the moment to be heroic and to throw the cargo overboard.
+
+But if there is a life of piety, if you take care of your senses, if you
+cultivate humility continuously, it\'s difficult for that situation,
+such an extreme situation, to present itself.
+
+But it\'s very good to conserve, very well engraved in your heart, that
+hierarchy of values.
+
+"What\'s not possible ever in our vocation is not to work apostolically.
+All my children, young and those who have attained many years, can and
+should bring forward the works of apostolates of the Work.
+
+"If we weren\'t to feel that responsibility, if we were to be weakening
+little by little, then we would be converting ourselves inevitably into
+useless instruments. In that case, we could lose our vocation very
+easily."
+
+In these *campanadas*, our Father speaks very clearly. He calls a spade
+a spade.
+
+We have this wonderful task. This great panorama is in front of us.
+
+In the latest letter of the Father, in the opening paragraphs, he
+invites us to look to the anniversary of October 2nd, 1928, the 100th
+anniversary.
+
+He says, "this great apostolic panorama that\'s opening before us."
+
+In some ways, you could say the Church is in our hands. The world is in
+our hands. A lot has been achieved up to now. But it\'s nothing in
+comparison to what\'s there in the future.
+
+You see his words, chosen very carefully, "open these incredible
+horizons before us." So much depends that we get things right; that we
+function in the way that God wants us to; that we take care of our
+souls.
+
+"We all have to occupy ourselves with serious professional work," he
+says. And also, in a very concrete apostolic work, and constant.
+
+Besides carrying out that apostolic work with a desire for souls, we do
+this in such a way that it sanctifies us and helps us to sanctify
+others.
+
+It would be a sad reality if we were to deceive ourselves, calling
+something apostolic when it is just a personal caprice. Or any
+occupation, with the excuse that it\'s something important or something
+of value or something of a high level.
+
+"Souls," he says. "This is the measure, the criteria to know if that
+activity is truly Opus Dei, the Work of God."
+
+Behind this love of the world, there is this love of souls. Desire for
+souls. Desire to do new things and have new ideas and new initiatives.
+
+It\'s very dynamic, and if we foster that dynamism, great things will
+happen.
+
+"Therefore, my daughters and sons," he says in this same January 1993
+letter. "We need drive and initiative. God counts on our personal
+freedom and responsibility and our lay mentality. The world is there, we
+passionately love it, but it has been entrusted to us, entrusted to us
+to do something with it."
+
+We\'re going to read in the Gospel today about the five talents. Each of
+us has five talents.
+
+God wants us to work at achieving five new talents. Maybe we\'ve
+achieved three or four. Maybe there\'s one more that we\'ve got to work
+on; new things that God wants to entrust to us.
+
+He wants us to be salt dispersed through the food in seasons, not to
+remain a solid lump. He wants us everywhere---each one, in his or her
+own place---so as to impart a Christian flavor to the environment in
+which we move.
+
+He wants me to be a better salt, to disperse a little more, to see with
+your help how I can savor things a little better.
+
+Work to improve in this area or that area. Be a better person. Take this
+goal of my holiness and apostolate with a new seriousness in us, in a
+new way.
+
+And in particular, to take this new letter of the Father which is like a
+clarion call, another *campanada*, to bring to our minds and our hearts
+and our prayers. Read things again and again.
+
+What does the Father say to us, so that these next ten years---they\'re
+special years in our lives. (Not so much ten years, they\'re now eight
+years. Passing already!)
+
+We give it our best shot. What can I contribute? What can I do?
+
+"Be convinced," he says, "of the importance of exercising your freedom,
+which brings with it a corresponding personal responsibility to get
+involved in national and international bodies which can be a platform
+for promoting Christian values regarding the family, education, the
+defense of human life, and many other issues which have to be approached
+in accordance with the Church\'s teaching."
+
+In another letter, Don Álvaro reminds us of the Spanish phrase: *A río
+revuelto, ganancia de pescadores.* When the river is in flood, the
+fishermen have a boom day because all the fish come to the top.
+
+I saw a picture last night of a consequence of a typhoon in the
+Philippines, where the waters are raging, and people are trying to save
+things from their houses. They're almost thigh-deep in raging waters.
+
+In some ways, the atmosphere of society is a bit like that. But we have
+the answers.
+
+The call is to get involved. Because we love the world, we try to be
+involved.
+
+We could ask ourselves, What national and international organizations am
+I involved in---learning how to function in those bodies, bringing that
+salt with me with my ideas, with things that I can contribute.
+
+Just listened to the discussion in that get-together with Jack Valero.
+Many people were contributing in Sudek.
+
+It was a pretty high-level discussion. People were saying very
+intelligent things. You could see the educational, and cultural, and
+everything else, formation that was there.
+
+We are very well prepared to have this great impact, to try and see what
+we have and use it well.
+
+I entertain a dream that Nairobi would become a global hub for good
+ideas. In some ways, that\'s what the university is all about, and the
+people that have come through it.
+
+There aren\'t too many global hubs for good ideas at the moment. You
+have to think with great panoramas how to be that salt in all sorts of
+places, so that the morning newspaper, Sydney Morning Herald, will
+interest us a little bit. Or the Hong Kong Morning Post, or the Santiago
+de Chile Herald, or whatever it may be.
+
+We have an input there because of our ideas that we can spread around
+the place; powerful ideas with which the Church has given us to change
+the world.
+
+If your work has anything to do with media, press, television, etc.,
+just imagine the apostolic impact it would have, if, as it performs its
+informative and cultural role, it also bears the stamp of the unity of
+life.
+
+The sky is the limit. Our Lord wants us to love the world so much that
+we go all out to do all sorts of wonderful things.
+
+Our Father says in *The Forge*, "You are an ordinary citizen. It is
+precisely because of that secularity of yours, which is the same as, and
+neither more nor less than, that of your colleagues, that you have to be
+sufficiently brave---which may sometimes mean being very brave---to make
+your faith felt. They should see your good works and the motive that
+drives you to do them" (J. Escrivá, *The Forge*, Point 723).
+
+We can have a great superiority complex because we have the answers,
+because we have the truth, and we try to live it in every way. The lay
+mentality leads us to love our family and our family life.
+
+In the coming weeks, we know it is a more important time. Any Christian
+layman loves to be with his family. The best times at home are with the
+family. They love to come home with a healthy sign.
+
+Family life finds its divine meaning in Christ. We are here to change
+family life all over the world.
+
+Loving the world means doing our work with professional
+competence---doing the best job possible, irrespective of how we are
+feeling.
+
+James Stenson says that professionalism is doing the best job
+irrespective of how we are feeling.
+
+Our love of work is influenced by our love of God. We use our time well.
+We try to be punctual, ordered, with economic responsibility. We have a
+lot of things to bring forward. God is using us in special ways.
+
+In *Christifideles laici,* we are told that "each member of the lay
+faithful should always be fully aware of being a 'member of the Church'
+yet entrusted with a unique task which cannot be done by another and
+which is to be fulfilled for the good of all" (John Paul II, Apostolic
+Exhortation, *Christifideles laici,* December 30, 1988).
+
+A parliamentarian in Singapore told me once how he was retired and he
+would meet for lunch a few times a week with other retired
+parliamentarians in Parliament House.
+
+None of them were Catholics, many weren\'t Christians---Buddhists,
+Hindus, many people with no religion. Six or eight of them would sit
+around a lunch table discussing how badly the country was being run ever
+since they retired.
+
+Then he said, After one of these lunches people were getting up to go,
+and suddenly one of them asked me, "What\'s this thing that you
+Catholics pray, where you pray one and you pray ten and you pray one,
+what\'s that all about?" He said, "Oh, that\'s the Rosary."
+
+"And what\'s the one and what\'s the ten and what\'s the one?"
+
+"That\'s the Our Father, there\'s the Hail Mary and the Glory Be."
+
+"And what\'s the Hail Mary all about?"
+
+He began to give an impromptu talk on the Rosary to all of these very
+educated people, super-cultural, super-experienced, who had never heard
+anything about the Rosary before.
+
+And he said, "I noticed that as one or two people had got up to leave
+the table, when I started to talk they sort of hung back a little bit,
+one ear cocked to listen to what I had to say."
+
+It was a rather interesting description of the apostolate of the layman
+in the middle of the world. No nun or priest would probably ever be in
+Parliament House with that sort of opportunity.
+
+Our love of the world leads us to seize those opportunities, that unique
+task which cannot be done by another, which is to be fulfilled for the
+good of all.
+
+"The apostolate exercised by the individual," he says, "which flows
+abundantly from a truly Christian life, is the origin and condition of
+the whole lay apostolate. Regardless of all circumstances, all
+laypersons, including those who have no opportunity or possibility for
+collaboration and associations, are called to this type of apostolate
+and obliged to engage in it."
+
+Pretty strong terms: "Regardless of all circumstances."
+
+It\'s rather interesting to hear Cardinal Pell say he got a note from
+the Association of Career Criminals there in prison, telling him that
+they were all convinced of his innocence, and how it was difficult for
+them to believe how all of them could see this, but all the judges
+couldn\'t.
+
+In those circumstances the criminals, career criminals, were doing
+certain good, planting a seed, having an impact, and here we are talking
+about them.
+
+"Such an apostolate is useful at all times and places, but in certain
+circumstances, it\'s the only one available and feasible."
+
+We can thank Our Lord that He has given us this love for the world which
+is passionate.
+
+As we accompany the Holy Family in these coming weeks, we see also their
+love for the difficulties, the problems, the challenges. They don\'t run
+back to Nazareth; run away from them. They face them.
+
+They\'re going forward all the time. Mary, may you help us to have that
+same optimism, that same confidence, that same supernatural outlook that
+you had on your way to Bethlehem.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*CPG*
