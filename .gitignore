@@ -5,3 +5,4 @@ _site
 vendor
 repomix-output.txt
 preprocessing_scripts/.env
+preprocessing_scripts/*/*.pyc
