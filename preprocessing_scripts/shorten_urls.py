@@ -140,12 +140,6 @@ def create_custom_short_url(
     return short_url
 
 
-# --- Main Function for Processing Multiple URLs ---
-from typing import List, Tuple
-
-# ... (other functions: shorten_url_tinyurl_api, shorten_with_groq, create_custom_short_url)
-
-
 def process_urls(
     long_urls: List[str], tinyurl_api_token: str, groq_api_key: str
 ) -> List[Tuple[str, str]]:
