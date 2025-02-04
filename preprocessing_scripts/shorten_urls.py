@@ -74,7 +74,7 @@ def shorten_with_groq(text: str, api_key: str, max_length: int = 15) -> str:
                     "role": "user",
                     "content": (
                         f"Shorten the following text to a maximum of {max_length} characters. "
-                        f"Provide a lowercase, contracted abbreviation of the following text, removing all special characters. The result should be a readable summary:\n\n{text}"
+                        f"Provide a lowercase, contracted abbreviation of the following text, removing all special characters:\n\n{text}"
                     ),
                 },
             ],
@@ -164,7 +164,7 @@ if __name__ == "__main__":
     tinyurl_api_token = os.getenv("TINYURL_API_TOKEN")
 
     long_urls = [
-        "https://frconor-ebook.github.io/meditations/homilies/aim-high/",
+        "https://frconor-ebook.github.io/meditations/homilies/the-gift-of-wisdom/",
     ]
 
     process_urls(long_urls, tinyurl_api_token, groq_api_key)
