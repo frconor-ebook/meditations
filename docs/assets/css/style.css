@@ -1,103 +1,90 @@
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background: #f4f4f4;
-    color: #333;
-  }
-
-  header {
-    background: #09403A;
-    color: #fff;
-    padding: 1rem 0;
-    text-align: center; /* Remove this to allow left and right alignment */
-    display: flex; /* Use flexbox for layout */
-    justify-content: space-between; /* Position items on opposite ends */
-    align-items: center; /* Vertically center items */
-  }
-
-
-  h1 {
-    margin: 0;
-  }
-
-  nav ul {
-    padding: 0;
-    list-style: none;
-  }
-
-  nav ul li {
-    display: inline;
-    margin-right: 20px;
-  }
-
-
-  nav {
-    width: 95%; /* Adjust width as needed */
-    margin: 0 auto; /* Center the navigation horizontally */
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+  color: #333;
 }
 
+header {
+  background: #09403A;
+  color: #fff;
+  padding: 5px 0; /* Reduced padding, adjust as needed */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%; /* Ensure header spans full width */
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%; /* Nav takes full width of header */
+  padding: 0 20px; /* Add some padding on the sides */
+  box-sizing: border-box; /* Include padding in width calculation */
+}
 
 .logo {
-  /* Add styles for the logo container */
-  margin-left: 10px; /* Adjust margin as needed */
+  margin-left: 0px; /* Reset margin */
 }
 
 .logo img {
-  height: 60px; /* Adjust height as needed */
-  width: auto; /* Maintain aspect ratio */
-  vertical-align: middle; /* Ensure vertical alignment with text */
+  height: 50px; /* Adjust height as needed */
+  width: auto;
+  vertical-align: middle;
 }
 
 nav a {
   color: #fff;
   text-decoration: none;
-  margin-right: 10px; /* Adjust margin as needed */
+  margin-right: 0px; /* Reset margin */
+  font-size: 1.2rem; /* Optionally, increase font size */
+  font-weight: bold;
 }
 
-  main {
-    padding: 20px;
-  }
+/* Rest of your CSS */
 
-  article {
-    background: #fff;
-    padding: 20px;
-    margin-bottom: 10px;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  }
+main {
+  padding: 20px;
+}
 
-  h1, h2 {
-    color: #333;
-  }
+article {
+  background: #fff;
+  padding: 20px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
 
-  a {
-    color: #4682B4;
-  }
+h1, h2 {
+  color: #333;
+}
 
-  footer {
-    text-align: center;
-    padding: 0.5px; /* Reduced padding from 20px to 10px */
-    background: #333;
-    color: #fff;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    line-height: 0.1; /* Adjust as needed */
-  }
+a {
+  color: #4682B4;
+}
 
-  #search-box {
-    padding: 8px;
-    margin: 10px 0;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    width: 300px;
-  }
+footer {
+  text-align: center;
+  padding: 0.5px;
+  background: #333;
+  color: #fff;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  line-height: 0.1;
+}
 
-  #search-results {
-    margin-top: 10px;
-  }
+#search-box {
+  padding: 8px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 300px;
+}
+
+#search-results {
+  margin-top: 10px;
+}
