@@ -2,6 +2,6 @@
 layout: home
 ---
 
-<h1>Fr. Conor Donnelly Meditations</h1>
+<h1>Fr. Conor Donnelly's Meditations</h1>
 
 {% include search.html %}
