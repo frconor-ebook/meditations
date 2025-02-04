@@ -10,9 +10,9 @@ document.addEventListener('DOMContentLoaded', function() {
   if (baseurl.endsWith('/')) {
     baseurl = baseurl.slice(0, -1);
   }
-// Construct the fetch URL without adding an extra slash
-fetchUrl = baseurl + '/data/meditations.json'; // Update this line
 
+  // Construct the fetch URL
+  var fetchUrl = baseurl + '/data/meditations.json';
   console.log("Fetching data from:", fetchUrl);
 
   fetch(fetchUrl)
@@ -39,6 +39,12 @@ fetchUrl = baseurl + '/data/meditations.json'; // Update this line
   searchBox.addEventListener('input', function() {
     var searchTerm = searchBox.value.toLowerCase();
 
+    // Clear results if search box is empty
+    if (searchTerm === '') {
+      searchResults.innerHTML = '';
+      return; // Exit early
+    }
+
     // Filter meditations based on search term
     var filteredMeditations = meditations.filter(function(meditation) {
       return meditation.title.toLowerCase().includes(searchTerm) ||
@@ -49,7 +55,7 @@ fetchUrl = baseurl + '/data/meditations.json'; // Update this line
   });
 
   function displayResults(results) {
-    searchResults.innerHTML = '';
+    searchResults.innerHTML = ''; // Clear previous results
 
     if (results.length === 0) {
       var noResultsItem = document.createElement('p');
