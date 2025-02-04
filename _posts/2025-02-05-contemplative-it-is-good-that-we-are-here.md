@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Contemplative:"
+title: "Contemplative: It Is Good That We Are Here"
 ---
 
 By Fr. Conor Donnelly
