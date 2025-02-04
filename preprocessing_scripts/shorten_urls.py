@@ -1,7 +1,7 @@
 import json
 import os
 import re
-from typing import List
+from typing import List, Tuple
 
 import requests
 from dotenv import load_dotenv
@@ -141,20 +141,38 @@ def create_custom_short_url(
 
 
 # --- Main Function for Processing Multiple URLs ---
-def process_urls(long_urls: List[str], tinyurl_api_token: str, groq_api_key: str):
+from typing import List, Tuple
+
+# ... (other functions: shorten_url_tinyurl_api, shorten_with_groq, create_custom_short_url)
+
+
+def process_urls(
+    long_urls: List[str], tinyurl_api_token: str, groq_api_key: str
+) -> List[Tuple[str, str]]:
     """Processes a list of URLs, creating custom shortened versions for each.
 
     Args:
         long_urls: A list of long URLs to shorten.
         tinyurl_api_token: Your TinyURL API token.
         groq_api_key: Your Groq API key.
+
+    Returns:
+        A list of tuples, where each tuple contains the original long URL and its corresponding shortened URL.
+        If a URL fails to be shortened, its corresponding entry in the list will be (long_url, None).
     """
+    results: List[Tuple[str, str]] = []
     for url in long_urls:
         short_url = create_custom_short_url(url, tinyurl_api_token, groq_api_key)
         if short_url:
             print(f"Shortened URL for {url}: {short_url}")
+            results.append(
+                (url, short_url)
+            )  # Add (long_url, short_url) tuple to results
         else:
             print(f"Failed to shorten {url}")
+            results.append((url, None))  # Add (long_url, None) to indicate failure
+
+    return results
 
 
 # --- Example Usage ---
@@ -164,7 +182,14 @@ if __name__ == "__main__":
     tinyurl_api_token = os.getenv("TINYURL_API_TOKEN")
 
     long_urls = [
-        "https://frconor-ebook.github.io/meditations/homilies/the-gift-of-wisdom/",
+        "https://frconor-ebook.github.io/meditations/homilies/the-apostolate/",
     ]
 
-    process_urls(long_urls, tinyurl_api_token, groq_api_key)
+    shortened_urls = process_urls(long_urls, tinyurl_api_token, groq_api_key)
+
+    # Print the results nicely:
+    for long_url, short_url in shortened_urls:
+        if short_url:
+            print(f"{long_url} -> {short_url}")
+        else:
+            print(f"{long_url} -> Shortening Failed")
