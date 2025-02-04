@@ -8,7 +8,7 @@ body {
   }
 
   header {
-    background: #70a1ff;
+    background: #09403A;
     color: #fff;
     padding: 1rem 0;
     text-align: center;
@@ -50,7 +50,7 @@ body {
   }
 
   a {
-    color: #70a1ff;
+    color: #4682B4;
   }
 
   footer {
@@ -61,6 +61,7 @@ body {
     position: fixed;
     bottom: 0;
     width: 100%;
+    line-height: 0.1; /* Adjust as needed */
   }
 
   #search-box {
