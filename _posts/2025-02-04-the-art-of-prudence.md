@@ -1,0 +1,544 @@
+---
+layout: homily
+title: "The Art of Prudence"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+The Lord replied, "Who then is the wise and prudent steward whom the
+master will place over his household to give them at the proper time
+their allowance of food? Blessed is that servant if his master\'s
+arrival finds him doing exactly that. I tell you truly, he will put him
+in charge of everything that he owns" (Matt. 24:45-47).
+
+Our Lord talks about the wise and prudent steward. There are quite a few
+occasions in the Gospel where Our Lord highlights the importance of the
+virtue of prudence.
+
+In another place, we're told, "It is like a man about to go abroad who
+summoned his servants and entrusted his property to them. To one, he
+gave five talents, to another two, and to a third, one. ... The man who
+had received the five talents promptly went and traded with them and
+made five more" (Matt. 25:14-16).
+
+We're told about people who used their talents well. They had foresight,
+they planned things.
+
+This meditation is about the virtue of prudence. It is one of the four
+cardinal virtues and always mentioned first: prudence, justice,
+fortitude, and temperance. It\'s a very important virtue.
+
+In St. Luke, we're told, "The master praised the dishonest steward for
+his prudence" (Luke 16:8a). You would think he might condemn him for his
+dishonesty, but he commended him for his prudence. He was going to be
+discontinued in his employment, and he got all of the debtors of his
+master to make their debts to the master much less, so that he would be
+well received (*cf*. Luke 16:1-7). This was prudence.
+
+"For the children of this world are more astute in dealing with their
+own kind than are the children of \[the\] light" (Luke 16:8b). Prudence
+is aligned with being astute, being clever.
+
+"I glorify you, Father, Lord of heaven and earth, for having hidden
+these things from the wise and prudent and revealed them to little ones"
+(Matt. 11:25).
+
+And then in other places, Our Lord says, "The Son of Man is coming at an
+hour you do not expect" (Matt. 24:44)---more or less inviting us to be
+careful, to be watchful, to be prudent, think of the future, be
+prepared. "Be wise as serpents and prudent as doves" (Matt. 10:16).
+
+"Prudence is the virtue that disposes practical reason," we're told, "to
+discern our true good in every circumstance and to choose the right
+means to achieve it" (*Catechism of the Catholic Church*, Point 1806).
+
+It makes our mind think about what's our true good, not just what is an
+apparent good---what seems to be good in this situation. What is the
+true good, what is the thing I really need, what is the thing that will
+really be good for my body, for my soul, for my life, for my future, for
+my happiness?
+
+Prudence leads us to discern what that particular thing is in this
+particular situation. This virtue is always making us look forward, to
+see, where do I want to go? Where does God want me to go?
+
+St. John Paul in nearly all of his encyclicals says there are three
+questions that every person must keep asking themselves all throughout
+their life: Where have I come from? Where am I going? What is my life
+all about? (*cf*. John Paul II, Encyclical, *Fides et Ratio*, Point 1,
+September 14, 1988).
+
+What do I want from my life? What does God want from my life, what\'s
+the goal, what\'s the purpose? And in our vocation, what\'s the purpose?
+
+We are focused on that purpose all the time, so that we're going in that
+direction: prudence, sanctity, apostolate. That\'s why we hear so much
+about those two ideas. We come back and we look at them again and again
+in our retreat, in our annual course, in our Circle, in our chat.
+
+The Book of Proverbs says, "The prudent person looks where they are
+going" (Prov. 14:15).
+
+When we were learning to walk, we were very small; small children tend
+to look around the place. They often don\'t look where they are going.
+They bump into a lamppost, or they walk out onto the road at the wrong
+moment. Very often a parent will tell the small child: 'Watch where
+you're going!' It\'s a phrase we hear quite often.
+
+This virtue is "right reason in action," says St. Thomas (Thomas
+Aquinas, *Summa Theologiae*, II-II, Question 47). Right reason applied
+to practice, in doing, ordering our actions towards their end, their
+purpose, what I\'m supposed to do, what\'s the idea of being in this
+particular situation?
+
+One time in the Dominicans, many years ago, during the time of St.
+Thomas Aquinas, they had to elect a new superior general and there were
+three candidates. One was very holy, one was very learned, and one was
+very prudent.
+
+St. Thomas Aquinas was asked his opinion of which of the three
+candidates should be elected as the superior general. He said, "If this
+person is very holy, let him make us holy. If this person is very
+learned, let him make us learned. But if this person is very prudent,
+let him govern us"---because in the job of governing, one of the most
+important virtues is prudence, to keep in mind the goal, the end, and
+how to get there.
+
+What are the right things to do at this particular moment? Life is a
+decision-making process. We\'re always making decisions.
+
+Will I get out of bed? Will I not get out of bed? Will I eat this last
+piece of chocolate? Will I not eat this last piece of chocolate? Will I
+be on time for this next activity? Will I not be on time?
+
+We are, all the time, making decisions, and those decisions have to be
+guided by the virtue of prudence so that we\'re all helped to reach that
+end, that goal.
+
+If we find that a certain person is in charge of some activity, or has a
+job of government in the Work, you can be sure that one of the main
+reasons they\'re there is because of the virtue of prudence.
+
+See, somebody might have a wonderful idea one day, thinking out of the
+box, and say, 'Instead of approaching the oratory along the corridor
+there and the bridge over the walkway, let\'s set up a tightrope from
+the main catering building to the chapel, to the oratory. And at six in
+the morning, let\'s all walk across the tightrope to have some more fun
+in getting to the oratory.'
+
+The prudent person will say, 'I think that\'s not a very good idea.
+Let\'s just stick to the normal way of getting to the oratory using our
+own two feet in the normal manner.'
+
+Or on the next excursion: 'Let\'s have some special fun. Let\'s go
+bungee jumping.' And if discouraged we might say, 'But I love bungee
+jumping; in fact it helps me to live presence of God. When I launch
+myself out into the air, I say a *Memorare* for the intentions of the
+Regional Vicar.'
+
+We might be told, 'The Regional Vicar would much prefer if you
+discontinued your bungee jumping and found some other moment to pray a
+*Memorare* for his intentions.'
+
+We all need to be guided by prudence, or to have somebody there to make
+prudent decisions, because if we all go bungee jumping, there won\'t be
+too much left of this corporate apostolic work. Or possibly, anyway.
+
+This is the virtue that has as its object to teach us what we should do
+in each particular case. What\'s the right way to solve this particular
+problem?
+
+Our Father says, "The Book of Proverbs tells us, 'The wise heart will be
+reckoned prudent' (Prov. 16:21). We would have a mistaken idea of
+prudence," he says, "if we thought it faint-hearted or lacking in
+daring. Prudence expresses itself as a habit which inclines us to act
+well, by shedding light on the end, and by helping us to seek the most
+suitable means of achieving it" (St. Josemaría Escrivá, *Friends of
+God*, Point 85).
+
+You\'ve probably heard that in some of the countries where there were
+people who went to start the Work, when there were so many things to do,
+often they didn\'t sleep too much. It seems somebody wrote a letter from
+Colombia saying, 'We\'re now sleeping five hours in the night, or four
+hours in the night, doing all sorts of very heroic things in order to
+bring forward Opus Dei in that country.' There was so much to do.
+
+But when our Father got to hear about it, he laid down the criteria that
+everybody should sleep seven to seven and a half hours at night. It
+might be very good to stay up all night doing all sorts of things, but
+in the long term, it damages our health and affects the *emendationem
+vitae*.
+
+We might, sometimes, preparing for an exam or something, stay up late at
+night for some other reason, but that\'s not the normal thing, because
+it\'s prudent to get the proper rest.
+
+It's prudent to get out on a weekly walk or a monthly excursion, an
+annual course once a year, or all these other things; to look after the
+normal means, not to think, 'I don\'t need this thing,' or 'I can
+manage,' or 'I\'m okay.' Or someday when we\'re told, 'Maybe you should
+have a check-up with the doctor,' to say, 'Never mind, I don\'t like
+doctors.'
+
+There may be certain things that are very prudent that we don\'t like
+doing, but yet that\'s the prudent thing to do. This virtue shouldn\'t
+be confused with timidity, or fear, or with duplicity.
+
+Some spiritual writers have called it "the charioteer of virtues, a
+virtue that guides all the other virtues by setting the rules and the
+measure" (*cf*. *Catechism*, Point 1806) and the right things to do.
+
+"So, then," said our Father in *Friends of God*, "we have to be prudent.
+Why is this? In order to be just, in order to live charity, and to give
+good service to God and to \[all\] our fellow men. Not without good
+reason has prudence been called the mother of virtues and the guide of
+every good habit" (J. Escrivá, *Friends of God*, Point 164).
+
+It\'s prudent to try and get our norms done early in the day. It\'s
+prudent to plan our activities and have goals. All the management
+textbooks talk about quarterly goals, yearly goals, weekly goals, daily
+goals, and hourly goals.
+
+On our To Do list, it's very prudent to write things down, because we
+can so easily forget---and even when we write them down, we can still
+forget. All these things are little measures of this virtue.
+
+There are also many unforeseen things in human action. Things turn up,
+things happen, unexpected things, plans change. The priorities, if we go
+through the morning or we go through the day, may change a little bit.
+We have to be flexible.
+
+And maybe a new decision is needed. What is now the most important thing
+in this particular moment?
+
+The virtue helps us to look at the means, to apply the general
+principles to circumstances that are changing or developing. It guides
+the judgment of our conscience.
+
+"Wisdom of the heart," we\'re told in *Friends of God*, "guides and
+governs many other virtues" in all sorts of ways.
+
+Prudence means that we try and have some other means like a phone handy
+for all sorts of situations.
+
+"Through prudence, a man learns to be daring without being rash. He will
+not make excuses (based on hidden motives...) to avoid \[the\] effort in
+living wholeheartedly according to God\'s plans. The temperance of the
+prudent person is not insensitive; his justice is not harsh nor is his
+patience servile" (J. Escrivá, *Friends of God*, Point 87).
+
+This great virtue helps us to do things properly. Finishing tasks well.
+It's prudent to do a good job, prudent to double check, not to trust our
+judgment. It helps us to be calm, careful in planning, ready for the
+unforeseen circumstances so we don\'t lose our cool or get overwhelmed
+by circumstances.
+
+If there\'s no prudence, our work might be full of goodwill but there
+might be no fruit. We might have great intentions, but we might have
+done a very bad job because we didn\'t double-check, or we thought this
+was the right thing. We didn\'t consult on some particular thing.
+
+Prudence helps us to control against impulses. We can all be full of
+impulse. We have an impulse to do this or to do that, or we think this
+is a great idea at this particular moment when perhaps it\'s not such a
+great idea.
+
+There can be no common sense when there\'s no prudence. Common sense can
+be a wonderful thing. It's great to talk to people with common sense.
+
+We have to grow in our common sense. Very often in many professional
+situations, an awful lot of common sense is needed just to do the simple
+thing or the normal thing or the ordinary thing, to think: What are the
+consequences of my actions?
+
+It\'s a very useful thing to be able to think of the consequences or the
+outcome. If I do this, what\'s going to happen tomorrow or the next day?
+
+It helps us to make right decisions, good judgments. We gain in wisdom
+by applying the spirit of the Work to the situation in which we\'re in.
+Maybe it\'s good if we get this norm done earlier, or we bring forward
+our spiritual reading, or some other thing.
+
+Humility can be important in prudence because if we think that we have
+all the answers, we can make big mistakes. That\'s imprudent.
+
+That\'s why it\'s very prudent to ask questions; to ask many questions.
+Sometimes the most prudent thing may not be the immediate thing that
+comes to mind or what it seems to us. That means we have to not trust
+ourselves too much, because we know we can make mistakes. I know I can
+forget things.
+
+We see that the style of government in the Work at every level reflects
+this. Collegiality. Six eyes are better than two. It implies to all
+areas, not just government: to our apostolate, to our work, to our
+*examination of conscience*, to buying clothes.
+
+We\'re encouraged in so many places to be accompanied to get the benefit
+of somebody else\'s judgment and experiences.
+
+All the virtues grow together. We need this virtue just like we need all
+the other virtues because we have to guide other souls.
+
+Certain people need it more. When we pray for the people in government,
+we\'re very often praying for them to have that virtue: the Pope, the
+Father, the Bishop, the Director, the Regional Vicar.
+
+It\'s another reason why we have good reason to be docile to what we\'re
+told. We listen carefully to what we\'re asked and the advice we\'re
+given. It\'s very prudent because it\'s coming from the person with the
+greatest faith.
+
+The Holy Spirit is speaking to us. This is the way to go. This is the
+thing to do, not the other thing that might seem so apparently fruitful
+or easy or fast or attractive.
+
+We\'re often told how important *study* is in our vocation. It\'s a norm
+of 'always.' It\'s very prudent to study, to learn the habit of
+studying. That\'s the way we learn more things, and to grow in that
+habit, in that virtue over time, so we come to love reading things and
+acquiring new knowledge.
+
+We develop that desire to attend certain courses or classes to improve
+our competence and our abilities. It\'s very prudent. It makes us more
+effective. But to study things so that we know the criteria a little
+better---the criteria, which means the things to do so that this thing
+works out for the best, so that ultimately, you become a person of sound
+judgment and maturity.
+
+You may find that in your family, people little by little come to
+consult you on things, because we pick up a lot of prudence as we go
+along in the Work with all the formation we receive. Sort of
+unconsciously, other people can come to see this: this person thinks a
+bit deeper, sees things from a different perspective.
+
+We often have an interesting opinion on certain things. We may find
+people consulting us. We should try and grow in that capacity, to become
+more effective in those things.
+
+Sometimes accidents happen. There\'s a loving providence of God that
+plays its part in all of the unforeseen circumstances that crop up and
+we should try and accept God\'s will in this situation. *Omnia in bonum*
+(Rom. 8:28; J. Escrivá, *Furrow*, Point 127, *Friends of God*, Point
+119): prudence to see that somehow God has permitted this particular
+thing.
+
+Sometimes we can cause things to happen that are not necessarily the
+will of God through our imprudence, our carelessness. We should try and
+ask forgiveness to avoid those things.
+
+Try and observe the criteria, the way we\'re told to do things. Those
+criteria may change over time. We may be told one thing and we might be
+saying, 'That\'s not what I heard in the Center of Studies. Twenty years
+ago, I heard we do things this way.'
+
+'Well, now in this center, twenty years later, we do things that way
+because it\'s a different circumstance. We found this is more effective'
+or whatever.
+
+Things change over time. We find we have experience in the Work over
+years. Things that work out well, things that don\'t work out so well.
+
+We\'re reminded occasionally about basic matters of prudence: to have
+cars in good condition, to drive in a sensible way, to avoid driving at
+night, all these sorts of things. Prudence can never be lacking.
+
+The development of that virtue in sanctity and apostolate can take time.
+It doesn\'t come with the breeze. It's something we learn over the
+period.
+
+We\'re taught how not to go quickly; sometimes to go slowly. Sometimes
+God\'s pace is a slow pace. To learn things one by one, bit by bit. If
+we have a lot of things to do, just to break them down a little bit.
+
+I think there\'s a passage in the book of Dora \[*Dora del Hoyo: A
+Lighted Lamp*\] where she says there was a time when they would have, I
+don\'t know, a hundred or a hundred and fifty cassocks to clean there in
+Villa Tevere. Each of them had to be looked at, I suppose, and brushed
+and cleaned in different ways.
+
+Well, how to tackle that big job? It\'s going to take time and effort.
+Of course, if we break it down little by little, then the big things get
+done.
+
+Don Álvaro was asked once a question in a get-together, something along
+those lines. In January 1993, an Italian university student said that
+sometimes he felt confused because of a lack of preparation.
+
+Don Alvaro cited an Italian proverb: Only when the donkey starts walking
+does its pack settle comfortably into place. Only when it\'s put one
+foot in front of the other does the load that it has on its pack sort of
+settle.
+
+He added that we learn to walk by first putting one foot forward, and
+then the other, and so on. Sometimes we fall, but then we get up and
+start going forward again. That\'s how children learn to walk.
+
+When we have a big job, we just put one foot in front of the other. Make
+a start. Then things begin to settle into place.
+
+God will help us if we use the means that He\'s given us. God is a
+prudent ally. The Holy Spirit points out to us what seems to be the best
+course of action.
+
+To listen carefully can be part of prudence, to get the message. If we
+see something written down, a note from Advisory or something, we don\'t
+perhaps get the full meaning in just one quick reading. Or something
+comes from the Father. Often these things we have to read and reread,
+two or three times.
+
+We read the writings of our Father, and maybe after many years, we\'re
+still delving into the great spiritual depth and truth that there is
+there.
+
+It\'s very prudent to read what other people have written on certain
+topics--- lots of experience. If we think, I don\'t need to read what
+other people have written, that can be proud or immature---I know all
+things.
+
+Often when Don Álvaro was asked something, he would say, "Let me think
+about it." Just in words.
+
+Don Javier liked to quote how when Pope Benedict was in Pamplona as
+Cardinal Ratzinger, somebody asked him a question about something, and
+he answered, "I\'ve never really thought about it. I\'d have to think
+about it."
+
+Don Javier was very impressed with that. He was one of the most
+intelligent persons in the world, saying, "I have to think about it."
+
+Other people might say, "My opinion on this is that," and might
+immediately offer some rather superficial opinion. Some things we have
+to think about; spend time.
+
+Often when our Father had to make a decision on something, he asked
+people to study the matter. A lot of government in the Work is done that
+way: two or three people studying a particular topic and then presenting
+their results. And then the Father makes the decision, because that
+decision, maybe, is going to affect 92,000 people, maybe half a million
+people.
+
+When people asked our Father for something, the difficulty that they
+had, he would say, "Have you prayed about it? Bring it to your prayer."
+
+No decisions before you pray. "Be wise as serpents and prudent as doves"
+(Matt. 10:16). Urgent things must wait. Some things take time. Rome
+wasn\'t built in a day.
+
+It\'s good to delay things sometimes. We\'re taught often to consult
+things---and not just big things, but small things. 'Extraordinary
+expenses' doesn\'t mean the amount. It could be paper clips. Do I really
+need these things?
+
+Sometimes it\'s great prudence to keep silent. For the latter part of
+his life, our Father was largely silent. He could have created a big
+shindig. He could have kept up a stink about many different issues.
+
+He says, "Our way is to be silent and pray" (J. Escrivá, *The Way of the
+Cross*, First Station, Point 3). Sometimes our greatest role in the
+center is to be silent and pray; to lead in holiness, become a model of
+holiness.
+
+We heard yesterday that Don Luis de Moya had passed away. While people
+are saying many things about him--- an enormous influence all over the
+world, great influence of holiness---if you get a chance to read his
+book sometime (*Sobre la Marcha*), you see that this is real leading to
+holiness. God uses people to light lanterns in our life.
+
+It\'s prudent to be quiet and just contemplate that example---great
+lessons to be learned from the example of other people. Our Father liked
+to say: *callar, trabajar, sonreír, rezar*---to be silent, to work, to
+pray, to smile.
+
+We ask Our Lord for the grace to be able to make good decisions, to do
+things with calm.
+
+In *The Way*, our Father says, "Don\'t judge without having heard both
+sides. Even people who think themselves virtuous may easily forget this
+elementary rule of prudence" (J. Escrivá, *The Way*, Point 454). Hear
+both sides of a story.
+
+It\'s not enough to want to be good, we need to choose the right means
+to achieve it. A lot of the time our formation is all about that:
+teaching us to choose the right means to achieve the goal we want.
+
+Often there are aspects in our life, in our vocations, we have to be
+very prudent about: taking care of our vocation; not going to certain
+places, not reading certain books; taking care of our confession,
+aspects of our formation.
+
+Knowing things that are dangerous for me, situations I can\'t handle,
+occasions of sin. Not self-medicating, getting advice about different
+things. Doing pastimes or sports that are appropriate for me. Squash at
+56 is not prudent. Or rock climbing at 75, or other things that might
+cross our minds.
+
+Prudent about our finances, spending when necessary. Not spending when
+it\'s not necessary. Avoiding frivolities. Avoiding creating needs for
+ourselves. Prudence in our work, trying to specialize, become an expert,
+know our job.
+
+Father Cormack was saying a few years ago, on reading the book of Dora,
+he commented that she was a real professional. She knew her stuff. Our
+Father would consult her on things.
+
+Notice the prudence of our Father: You\'re buying this machine or that
+machine? He had to hear what was her opinion on the ground. What\'s the
+experience of this particular thing?
+
+It\'s prudent to keep people happy around us, be easy to work with, to
+be courteous, take care of communication, fulfill our duty.
+
+It would be imprudent if we have such apostolic zeal that we feel we
+have to be in Holy Family, meeting people every day from 10 in the
+morning until 3 in the afternoon.
+
+That might be okay on certain occasions, but that\'s not the normal
+thing. We need to be doing our work. We need to be where we\'re supposed
+to be.
+
+Prudent in family life means being present, having our heart at home,
+taking care of family life in all sorts of ways.
+
+In *Christ is Passing By*, we\'re told, "The Gospels give us a picture
+of Joseph as a remarkably sound man who was in no way frightened or shy
+of life. On the contrary, he faced up to problems, dealt with difficult
+situations, and showed responsibility and initiative in whatever he was
+asked to do" (J. Escrivá, *Christ is Passing By*, Point 40).
+
+St. Joseph needed to have great prudence, also Our Lady, to make those
+right decisions. Do we go to Bethlehem? Do we not go to Bethlehem? Do we
+go to Egypt? Do we not go to Egypt? Do we go back to Nazareth? Do we not
+go back to Nazareth?
+
+We can ask Our Lady that she might help us to grow in this virtue.
+We\'re told in the *Catechism* that Our Lady is the model of all the
+virtues (*cf*. *Catechism*, Point 829; Vatican II, *Lumen gentium*,
+Point 65, November 21, 1964).
+
+In the Litany we call her *Virgo prudentissima*. Notice the Latin
+superlative. She\'s not Our Lady with a little bit of
+prudence.*Prudentissima* means most prudent. Virgin most prudent.
+
+Mary, may you help us to grow in that virtue so that like you, we also
+might come to be most prudent.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*UI*

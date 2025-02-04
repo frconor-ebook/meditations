@@ -1,0 +1,404 @@
+---
+layout: homily
+title: "Marriage in Heaven"
+---
+
+By Fr. Conor Donnelly
+
+*(Proofread)*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+"Then some Sadducees, who deny that there is a resurrection, came to
+him, and they put this question to him. 'Master, Moses prescribed for us
+that if a man\'s brother dies leaving a wife but no child, the man must
+marry the widow to raise children for his brother. Now there were seven
+brothers. The first married a wife and then died, leaving no children.
+The second married the widow and he too died, leaving no children. With
+the third it was the same, and none of the seven left any children.
+
+'Last of all, the woman herself died. Now at the resurrection, when they
+rise again, whose wife will she be since she had been married to all
+seven?'" (Mark 12:18-23).
+
+Some Sadducees came up to Jesus and tried to catch Him with this trick
+question. According to the law of Moses, if any man died without leaving
+children, his brother had to marry the widow to leave descendants to his
+brother, and he had to give the name of the dead man to the first of his
+sons (Deut. 24:5 *et seq.*).
+
+The Sadducees want to make any belief in the resurrection of the dead
+appear ridiculous. They therefore invent a clever hypothesis. If a woman
+marries seven times, having been left a widow by seven brothers in
+succession, whose wife will she be in heaven?
+
+Our Lord answers them in a way that shows the superficiality of their
+thinking. "Jesus said to them*, '*Surely the reason why you are wrong is
+that you understand neither the Scriptures nor the power of God. But
+when they rise from the dead, men and women do not marry. No, they are
+like angels in heaven.
+
+'Now about the dead rising again, have you never read in the Book of
+Moses, in the passage about the bush, how God spoke to him and said, "I
+am the God of Abraham, the God of Isaac, and the God of Jacob"? He is
+God not of the dead but of the living. You are very much mistaken'"
+(Mark 12:24-27).
+
+By His reply, Our Lord reaffirms the truth of the resurrection of the
+dead. He takes a number of passages from the Old Testament, and He
+expounds on the properties of risen bodies. He refutes all the
+objections brought forward by the Sadducees.
+
+He reproaches them for their ignorance of the Scriptures and for not
+acknowledging the power of God, for this truth had already been firmly
+asserted in what was revealed.
+
+Isaiah had prophesied: "Your dead shall live, their bodies shall rise. O
+dwellers in the dust, awake and sing for joy! For your dew is a dew of
+light, and on the land of the shades you will let it fall" (Isa. 26:19).
+
+The mother of the Maccabees encouraged her sons at the moment of their
+martyrdom, reminding them of the words of Scripture: "The Creator of the
+world," it says, "...will in his mercy give life and breath back to you
+again, since you now forget yourselves for the sake of his laws" (2
+Macc. 7:23).
+
+And for Job, this same truth was to be the consolation of his unhappy
+days. We\'re told in the Book of Job: **"**For I know that my Redeemer
+lives, and at last, he will stand upon the earth\...then from my flesh I
+shall see God" (Job 19:25-26).
+
+We have to try and foster the virtue of hope in our souls, and in
+particular, *t*he hope of seeing God. St. Josemaría, in one of his
+writings, says, "Those in love try to see each other. People in love
+have eyes only for their love. That\'s logical, isn\'t it?
+
+"The human heart feels this need. I would be lying if I denied my
+eagerness to contemplate the face of Jesus Christ. 'I will seek your
+countenance, O Lord' (Ps. 27:8)" (Josemaría Escrivá, quoted in
+*Newsletter No. 1*).
+
+In an ancient encyclical, it says, **"**This desire will be satisfied if
+we remain faithful, because God\'s concern for his human creatures has
+ensured the resurrection of the flesh, a truth which constitutes one of
+the fundamental articles of the Creed" (*cf*. Benedict XII, Encyclical,
+*Benedictus Deus*, January 29, 1336).
+
+"But if there is no resurrection of the dead, then Christ has not been
+raised. If Christ has not been raised, then our preaching is in vain,
+and your faith is in vain,' says St. Paul (1 Cor. 15:13-14).
+
+In 1979, the Congregation for the Doctrine of the Faith said in a
+document, "The Church believes in the resurrection of the dead...and
+understands that the resurrection refers to the whole man" (Sacred CDF,
+*Letter on Certain Questions Concerning Eschatology*, May 17, 1979).
+
+In the Council of Toledo in the 7th century, the Magisterium has
+repeated on numerous occasions that it is a question of the resurrection
+of the same body as we had during our passage on earth, in this flesh
+"in which we live, subsist, and move."
+
+It's interesting how the Church notes that we will get back our own
+bodies when we rise from the dead. We won\'t get back somebody else\'s.
+
+Because of this, one document says, "The two formulae 'resurrection of
+the dead' and 'resurrection of the flesh' are complementary expressions
+from one and the same tradition of the early Church" and both modes of
+expression can continue to be used (Sacred CDF, *Declaration*, December
+14, 1983).
+
+The liturgy repeats this consoling truth on many occasions. We\'re told
+in one of the *Eucharistic Prayers,* "In him (in Christ), the hope of
+our resurrection has dawned, and though we are saddened by the certainty
+of dying, it consoles us with the promise of eternal life to come"
+*(*Roman Missal*, Preface of the Dead I).*
+
+In the *Preface for the Dead* it says, "For those who are faithful to
+you, Lord, life is transformed, not taken away, and, when our dwelling
+here on earth decays, there is waiting for us our eternal home in
+heaven."
+
+God awaits us forever in His glory. Those who count solely on this world
+can only look forward to a great sadness. For it is when we know that it
+will be ourselves, soul and body, who, with the help of grace, will live
+eternally with Jesus Christ, with the angels, with the saints, giving
+praise to the most Holy Trinity---that brings great joy.
+
+When we are grieved by the death of a loved one, or we are with mourners
+who have lost a member of their family, we can try to manifest, to them
+as to ourselves, those truths that fill us with hope and consolation:
+life does not end here below on earth; we are going forward to meet God
+in eternal life.
+
+I was involved once in a family that was losing a 19-year-old girl, the
+youngest of the family, through leukemia. She was in the ICU.
+
+The doctors had said it was time to turn off the machines; the end had
+come. The parents, or one of them, couldn\'t bring themselves to give
+that decision to turn off the machine.
+
+A family conference was called, and I was brought in to mediate. There
+was a moment when I said to the parents: "What else does this world have
+to offer your daughter? ICUs and drips and respirators and heart
+monitors. This world has nothing else to offer your daughter. But what
+is waiting for her? Eternal happiness."
+
+I was very grateful to the Holy Spirit for that inspiration at that
+particular moment. It made me see how consoling the eternal truths of
+our faith can be in certain difficult moments.
+
+After death, each soul awaits the resurrection of its own body, with
+which, for all eternity, it will be in heaven, close to God, or in hell,
+far away from Him.
+
+Theologians say that we will get back our own body in its most perfect
+state. Whatever state our body may have been when we were 33 or 25 or 72
+or whatever it is, we\'ll get back all our hair, we\'ll get back our
+skin in good shape. We\'ll all look very well in heaven. Another thing
+to look forward to.
+
+And theologians say that in heaven our bodies will have different
+characteristics, but they will continue to be bodies and they will
+occupy a particular place, in just the same way as the glorious Body of
+Christ and that of Our Lady do.
+
+We do not know where this place is, or what it looks like. Earth as we
+know it will be transfigured.
+
+God\'s reward will come upon the glorious body, making it immortal, for
+mortality is a sign of sin, and creation was submitted to mortality as a
+result of the guilt of sin (Rom. 8:20). Everything that threatens or is
+inimical to life will disappear.
+
+St. John affirms in the Apocalypse: "Those who rise unto glory shall
+hunger no more, neither shall they thirst anymore; the sun shall not
+strike them, nor any scorching heat" (Rev. 7:16).
+
+The sufferings listed in the Apocalypse were the ones that caused great
+affliction to the people of Israel as they crossed through the desert.
+We\'re told the scorching rays of the sun fell on them like darts, they
+rapidly became exhausted, and the dry desert wind consumed their
+strength (*cf*. Sir. 43:4).
+
+Those very tribulations are a symbol of the sufferings that the new
+People of God, the Church, will have to undergo for as long as her
+pilgrimage towards her final home shall last.
+
+Faith and hope in the glorification of our body will cause \[us\] to
+give it the value and respect due to it. *Gaudium et spes* of the Second
+Vatican Council says, "Man is obliged to regard his body as good, and to
+hold it in honor, since God has created it and will raise it on the last
+day."
+
+The cult that we see that\'s often given to the body in modern culture
+is far removed from this just valuation.
+
+We have a duty to look after our body, to use the opportune means of
+avoiding illness, suffering, hunger, but without forgetting that it has
+to rise again on the last day**.**
+
+Pope St. John Paul has given us the beautiful teaching of the *Theology
+of the Body* that helps us to see God in the human body and explains
+that the human body has been created to love.
+
+What matters is that it should rise in order to go to heaven, not to
+hell. Over and above our health, there\'s the loving acceptance of
+God\'s will concerning our lives. We shouldn\'t have a disproportionate
+concern for our physical well-being.
+
+This means that when we\'re told by the doctor we have to do something,
+we should try and do it. Or if we have to take these tablets, then, 'let
+me take these tablets,' even if it\'s for the rest of our lives. It\'s
+not such a big thing; it doesn\'t matter.
+
+We are focused on higher things because we know this world is passing.
+We need to know how to put any pains and discomforts that we may suffer
+to supernatural use. At the same time, we serenely use the ordinary
+means of avoiding them.
+
+I read somewhere once of an elderly lady saying that she was in some
+pain. She said, "I\'m in some pain, but I don\'t have to be one."
+
+That's a good attitude to have: to be able to take in our stride little
+pains or discomforts that God may send us without making a big fuss out
+of them.
+
+If we manage to do this, then we'll not lose our peace and our joy as we
+would if we were to put our hearts into merely relative and transitory
+things. Things only reach their final fullness in the glory of heaven.
+
+One writer says, "We should not forget for a moment what it is we are
+traveling towards. We should not forget the true value of the things
+that cause us so much concern. Our goal is heaven. To be with Christ,
+soul and body, is what God created us for" (Francis Fernandez, *In
+Conversation with God*, Volume 3).
+
+This is why, here on earth, "Our last word? It can only be a smile, a
+merry song" (L. Ramoneda Molins, *Untattered Winds*). On the other side
+Our Lord is waiting for us, with His hands held out in a welcoming
+gesture.
+
+Although there\'s a great difference between the earthly body and the
+transfigured body, there is still a close relationship between them.
+It\'s a dogma of our faith that the risen body is identical in species
+and number to the earthly body.
+
+Theologians say that in heaven we will get back all we need for the
+proper functioning of our body. We won\'t get back every bit of blood we
+may have left on rugby pitches, soccer pitches, and volleyball pitches,
+or the little cuts and bruises. But we\'ll get back what\'s necessary
+for the integrity of the body.
+
+Taking as its basis the nature of the soul and several passages of Holy
+Scripture, Christian doctrine shows the fittingness of the resurrection
+of one\'s own body and of its new union with the soul.
+
+This is so, because the soul is only a part of man, and while it\'s
+separated from the body, it can\'t enjoy a happiness as complete and as
+fulfilled as that which will be possessed by the whole person.
+
+And also, as the soul was created to be united to a body, an ultimate
+separation would violate the way of being proper to it.
+
+But a far more important reason is that it is more in conformity with
+divine wisdom, justice, and mercy that souls should be united once more
+with their bodies so that both together, the whole person---who is not
+only soul, or only body---may share in the prize or the punishment
+merited during his passage through this life on earth.
+
+It is of faith that the soul immediately after death receives its reward
+or punishment while waiting for the moment of the resurrection of the
+body.
+
+In the light of the Church\'s teaching, we can observe in greater depth
+that the body is not a mere instrument of the soul, although it is from
+the soul that it receives its capacity to act and through this to
+contribute to the existence and development of the person.
+
+Through his body, the person finds themselves in contact with earthly
+reality, which they have to dominate, work upon, and sanctify, because
+God has willed it (Gen. 1:28).
+
+Through his body, man can communicate with others and work with them to
+build up and develop the social community.
+
+We shouldn\'t forget either that through the body, man receives the
+grace of the sacraments. St. Paul says, **"**Do you not know that your
+bodies are members of Christ?" (1 Cor. 6:15).
+
+Though we are men and women of flesh and blood, grace exercises its
+influence on the body as well, divinizing it in a certain way in
+anticipation of the glorious resurrection.
+
+It will greatly help us to live with the dignity and bearing of a
+follower of Christ if we consider frequently that this body of ours, now
+a temple of the Holy Spirit so long as we are in the state of grace, is
+destined by God to be glorified.
+
+Sacred Scripture teaches us that death was not part of God\'s original
+plan for mankind. It is a consequence of the sin of our first parents
+(*cf*. Rom. 5:12). Through His resurrection, Christ demonstrated His
+power over death.
+
+"God our Father," we are told, "by raising Christ your Son, you
+conquered the power of death and opened for us the way to eternal life."
+This is part of the liturgy of the Church (Roman Missal, Easter,
+*Opening Prayer*).
+
+With His resurrection Christ has robbed death of its sting. He has made
+His death an act of redemption. It is through Him and with Him and in
+Him that our bodies will rise again on the last day.
+
+They will be united with our souls, which, if we have been faithful,
+will have been giving glory to God since the time of our death if there
+was no need for purification.
+
+To resurrect means to lift something that has fallen, to bring again to
+life that which was dead, to restore to life that which has succumbed to
+dust.
+
+The Church has always taught that the resurrection of Christ is the
+foundation of our faith. She has also consistently believed in the
+resurrection of our physical bodies, in which we live, subsist, and
+move. The soul will then be reunited with its proper body.
+
+The Magisterium has stated quite precisely that men and women will be
+resurrected in their own physical bodies (*Catechism of the Catholic
+Church*, Points 990, 997,999).
+
+When we think about these teachings, this can help us to grasp the great
+dignity of each person, a dignity which is distinct and superior to that
+of any other being in Creation. The goats and the cows and the lions and
+the tigers---they will not rise again.
+
+Man not only has free will, but "he is the divine masterpiece that is in
+the soul of Jerusalem, made in the image and likeness of his Creator,
+gifted with an immortal soul by divine gift" (Cyril of Jerusalem,
+*Catechesis*).
+
+Man is superior to all other creatures because he can be a temple of the
+Holy Spirit as long as he is in the state of grace. St. Paul insisted on
+this with the early Christians: "Do you not know that your body is a
+temple of the Holy Spirit within you, which you have from God?" (1 Cor
+6:19), he says.
+
+Our bodies are not some kind of prison for our souls. *"*We look
+forward, as St. Paul says, to the redemption of our bodies; they are not
+encumbrances which we drag about with us; they are the first-fruits of
+eternity, entrusted to our keeping" (Ronald Knox, *The Hidden Stream*).
+
+The soul and body belong to one another in a natural relationship. God
+made the one for the other.
+
+St. Cyril of Jerusalem exhorts us: **"**Respect your body since it is
+your good fortune to be a temple of the Holy Spirit. Do not stain your
+body\...and if by chance you have stained it, purify it right away
+through penance. Clean it while you still have time" (Cyril of
+Jerusalem, *Catechesis*).
+
+The exalted dignity of man was present from the moment of Creation. It
+acquired full expression with the Incarnation of the Word (Tertullian,
+*On the Resurrection*).
+
+Each and every person has been "included in the mystery of the
+Redemption," said St. John Paul, "and with each one Christ has united
+himself forever through this mystery.
+
+"Every person comes into the world through being conceived in their
+mother\'s womb and being born of their mother, and precisely on account
+of the mystery of the Redemption is entrusted to the solicitude of the
+Church.
+
+"Her solicitude is about the whole man and is focused on him in an
+altogether special manner. The object of her care is man in his unique,
+unrepeatable human reality, which keeps intact the image and likeness of
+God himself" (John Paul II, Encyclical, *Redemptor hominis*, Point 13,
+March 4, 1979).
+
+St. Thomas teaches that our divine filiation, commenced in the soul
+through grace, will be consummated by the glorification of the
+body\...just as our soul has been redeemed from sin, so too our body
+will be redeemed from the corruption of death (Thomas Aquinas*,
+Commentary on the Epistle to the Romans*).
+
+We can turn to Our Lady and ask her that we might get great joy and
+consolation from these beautiful truths, and help to spread that joy and
+consolation to many other people around us, so that they also can look
+forward with peace and joy to the eternal wedding feast.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*JOSH*

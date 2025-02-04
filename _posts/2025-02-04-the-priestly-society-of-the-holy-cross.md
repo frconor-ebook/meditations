@@ -1,0 +1,472 @@
+---
+layout: homily
+title: "The Priestly Society of the Holy Cross"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+"Like living stones, let yourself be built into a spiritual house, to be
+a holy priesthood, to offer spiritual sacrifices acceptable to God
+through Jesus Christ" (1 Pet. 2:5), as we are told in the letter of
+Saint Peter. Today is the anniversary of the founding of the Priestly
+Society of the Holy Cross.
+
+St. Josemaría was a diocesan priest. He had great love for all diocesan
+priests and all priests, but he particularly wanted to do something, and
+saw that God wanted him to do something, to help diocesan priests,
+particularly in their spiritual life.
+
+On the one hand, he saw that he was called to found Opus Dei, but he was
+all the time searching for a way whereby that spirit of Opus Dei and the
+formation that was there could be extended to diocesan priests. Little
+by little, God let him see that that was possible.
+
+On the 14th of February 1943, the Priestly Society of the Holy Cross was
+born. The Priestly Society is an association of priests inseparably
+united to Opus Dei.
+
+All the formation that lay people receive in Opus Dei---to sanctify
+their work, to be holy in the middle of the world---priests also can
+receive. It provides ongoing formation for priests to help them in their
+spiritual life and professional life through all the various means that
+Opus Dei uses: regular confessions, spiritual direction, circles,
+retreats, seminars.
+
+It tries to foster a great priestly fraternity among the clergy, all the
+time in very close union with the bishop. There was a juridical problem
+because diocesan priests could not become members of Opus Dei because
+their superior is their bishop. The association of priests was formed
+whereby the Prelate of Opus Dei is concurrently the president of the
+Priestly Society of the Holy Cross.
+
+That way the juridical bond of the diocesan priest with their bishop to
+whom they are answerable, and his care for them, is maintained. They
+benefit from the spirit of Opus Dei while maintaining themselves
+juridically incardinated in their diocese.
+
+St. Josemaría liked to say that today is a day of prayer for priests. He
+indicated a number of special days in the year for that.
+
+The anniversary of the first three priests of Opus Dei is on June 25th
+and the Feast of the Curé of Ars, the patron saint of all parish
+priests, is on August 4th. It\'s a day of prayer for priests, priests of
+the universal Church, and also very particularly, priests of the
+Prelature.
+
+St. Josemaría brought something like a thousand priests to the altar.
+Blessed Álvaro brought about 700. He\'s taught us to have a great love
+for the institution of the priesthood, to have great love and respect
+for priests.
+
+While priests are ordained to the ministerial priesthood, he liked to
+remind all lay people that they also have participation in what is
+called the common priesthood of the faithful, or the universal
+priesthood of the faithful, that we receive with our Baptism.
+
+Even though we might not be ordained to the ministerial priesthood, we
+are all called to live out our priesthood in union with Christ on the
+cross. And ultimately that\'s what priestly soul means: having the same
+sentiments as Christ on the cross.
+
+Lay people are not ordained to administer the sacraments, which is the
+main function of the ordained ministry, priestly ministry. The lay
+people are called to order the temporal realities.
+
+While they have a priestly soul, they\'re called to have a fully lay
+mentality. The priestly society gives this ongoing formation to priests
+to help them to sanctify their priestly work, to be holy in and through
+their ministry, to be priests 100 percent, good shepherds to the others,
+and to benefit in this way from all of the things which the spirit of
+Opus Dei gives us in terms of formation.
+
+The first three priests of Opus Dei---their process of beatification is
+ongoing. This thing of holiness in and through the ministry is not just
+a nebulous idea, but something very concrete.
+
+We\'re told also in St. Peter, "You are a chosen race, a royal
+priesthood, a holy nation, God\'s own people, in order that you may
+proclaim the mighty acts of him who called you out of darkness into his
+marvelous light" (1 Pet. 2:9).
+
+Any way that we can help our parish priests or other diocesan priests to
+grow in their vocation; it is something we should try and foster.
+
+If you have the means to help your local priest get to an annual retreat
+or to a seminar or some other means of formation, it\'s a very good
+thing to try and achieve.
+
+St. Josemaría liked to say that every priest can bring a thousand souls
+to heaven. So, one way of fostering evangelization is that prayer and
+care for priests, helping them to care for their vocation, being close
+to them in the parish, helping them to understand also the spirit of
+Opus Dei through your example, through your words, through your
+apostolates, in all the things that we do.
+
+What is a priest? A priest is somebody who offers sacrifices. In the
+priesthood of the Old Testament, the priest offered the sacrifices of
+animals, the blood of goats and cows and heifers.
+
+In the New Testament, the priest also offers sacrifices. He offers the
+blood of Christ. The main duty of the priest is to celebrate the Mass.
+And when we\'re called to have the priestly soul, a priestly soul is
+something we receive at Baptism when that character is imprinted on our
+soul---the seal of Baptism that gives us a participation in the
+priesthood of Christ.
+
+Christ was most a priest when He offered Himself in sacrifice to His
+heavenly Father. He practiced all the priestly virtues of humility, of
+sacrifice, of service, of obedience, of generosity. In our daily life,
+we have ample opportunities on a regular basis to practice these
+virtues.
+
+We\'re told in St. John, "In truth, I tell you, unless the grain of
+wheat falls into the ground and dies, it remains only a single grain;
+but if it dies, it yields a rich harvest" (John 12:24).
+
+St. Paul says, "I urge you then, brethren, remembering the mercies of
+God, to offer your bodies as a living sacrifice, dedicated and
+acceptable to God. That is the kind of worship for you as sensible
+people" (Rom. 12:1).
+
+We\'re invited to make of our lives a holocaust, to live out our
+priesthood in the ordinary events of every day. It\'s not just those who
+are ordained to the ministerial priesthood that live their priesthood.
+But the Second Vatican Council talked about the 'universal priesthood of
+the faithful.' In that sense, we\'re all priests.
+
+We\'re called to live out our common or universal priesthood in our
+work, in our apostolate, in the fulfillment of our family duties, in our
+marriage, in saying no to ourselves, in uniting ourselves to the cross
+of Christ and being there with Jesus.
+
+The exercise of our priesthood means above all to serve. We are all
+called to serve. That\'s the purpose of our formation and of all
+education.
+
+There was a professor once who asked some students in secondary school,
+why were they in this school with the Catholic ethos? They said, We\'re
+here to do well in our final exam so that we can get a good result, so
+we can get into a good university, so we can get a good degree, so we
+can get a good job, so we can get a good salary. He said that wasn\'t a
+very good answer.
+
+He went to some university students in a university with a Catholic
+ethos and asked them the same question. They said, We\'re here in this
+university to study and to get a good degree so we can get a good job,
+so we can get a good salary.
+
+This professor said, This represents the failure of Catholic education,
+because the purpose of all Catholic education is to serve, "because
+Christ came not to be served, but to serve" (cf. Mark 10:45).
+
+We\'re called to exercise our priestly soul through service. A priest
+who is ordained to the ministerial priesthood is ordained to serve.
+That\'s the purpose of his ministry. All priesthood leads to that.
+
+Mother Teresa tells a story of how one time a journalist came to her and
+asked her, What was her opinion of women priests? She said, I often
+think that the person who was most cut out to be a priest was Our Lady,
+because she was the most dignified person that was ever created. She was
+conceived without original sin. She was full of grace. She had some very
+special privileges because of her divine maternity. There was nobody who
+was created so suitable for the priesthood as Our Lady. But yet her
+vocation was to be "the handmaid of the Lord" (Luke 1:38).
+
+The following day in the newspaper, Mother Teresa said there was a
+headline that said, Mother Teresa says that women make better priests
+than men. She had to get someone to call the newspaper and say, That
+wasn\'t exactly what I said.
+
+Somebody else said once that a woman who wants to be a priest is as
+misguided as a man who wants to be pregnant. We need to get very clear
+ideas. If we hear women talking about the fact of how they would like to
+be priests, it means they have not understood the concept of the common
+or universal priesthood of the faithful.
+
+It was very clearly expounded in the Second Vatican Council that we are
+already priests. We have a priestly soul. We\'re called to serve.
+
+We\'re told in the Letter to the Hebrews, "Every high priest is taken
+from among human beings and is appointed to act on their behalf in
+relationships with God, to offer gifts and sacrifices for sins" (Heb.
+5:1).
+
+One time in Rome in the early 1950s, there was a consistory about to
+take place where they appointed cardinals. One young fellow said to St.
+Josemaría in a get-together: Father, maybe you will be made a cardinal.
+
+St. Josemaría changed the topic very quickly, but afterwards called him
+to his room. This young person was a medical doctor. St. Josemaría
+pulled up his cassock and pulled up his shirt and pulled up his
+undershirt and showed him a big red rash that he had across his chest.
+
+The doctor immediately recognized the rash as the rash of shingles,
+herpes zoster, a very painful infection of the nerve roots, where people
+usually have a fever. They\'re often in the hospital. Yet St. Josemaria
+was walking around and talking that get-together and working as if
+nothing was the matter.
+
+He pointed to the red of the rash and said, "My son, this is the only
+red that God has in mind for me, not the red of a cardinal\'s hat."
+
+Many decades later, that medical student, Don Julián Herranz, was made a
+cardinal. I\'m sure he remembered those words of St. Josemaría's.
+
+With our priestly soul, we take the blows, we offer up the sacrifices.
+We\'re willing to be with Christ on the cross. We find so many solutions
+to our problems there.
+
+One time there was a get-together on Easter Sunday night. John Paul II
+invited the UNIV students to an inner patio there in the Vatican called
+the San Damaso.
+
+At the end of the sort of get together they had, a musical get together,
+he said, I am very happy to see all of you here from different
+countries. Youthful, so happy and so united among yourselves from
+different places, different cultures, and different backgrounds, but yet
+there\'s a great unity among you.
+
+The master of ceremonies who had the microphone, a young student, was
+very quick, and added to that: United to you, Holy Father.
+
+And as quick as a wink, the Holy Father, without missing a beat,
+immediately said, *uniti in Cristo*, united to Christ. It was a
+beautiful, spontaneous expression of the priestly soul, everything in
+our life united to Christ.
+
+Fulton Sheen tells a story about how he went to see Pope Paul VI in
+1968, just after the issuing of the encyclical of *Humanae Vitae*, which
+is all about the regulation of birth and conjugal love. Beautiful
+document. A major document of the 20th century. It was also known as the
+document that banned contraception.
+
+The Holy Father was getting an awful lot of flack in the international
+press. Fulton Sheen said to him, Holy Father, you\'re well named Paul,
+because Paul they stoned, and now they\'re stoning you.
+
+The Holy Father said, Yes, it\'s 10 in the evening before I get to open
+my personal mail, and with each letter, there comes a thorn. When I lie
+down on my bed at night, I lie down on a crown of thorns.
+
+But he said, I can\'t tell you the joy, the happiness, the peace I get
+out of knowing that I\'m making up in my body of what is lacking in the
+sufferings of Christ.
+
+With that, he was quoting St. Paul to the Colossians, who says, "It
+makes me happy to be suffering for you now. And in my own body, to make
+up all the hardships that still have to be undergone by Christ for the
+sake of his body, the Church" (Col. 1:24).
+
+There is nothing lacking in the sufferings of Christ. But what is
+lacking is our participation in those sufferings.
+
+Really, what the Holy Father was expressing was that sentiment of
+priestly soul that\'s there within him, finding joy and peace and
+happiness.
+
+There may be some time in our life when we come across somebody with a
+broken heart. This week, around the 14th of February, the whole world is
+looking at hearts and selling hearts and buying hearts. They\'re all
+beautiful hearts. The hearts that are drawn on Valentine\'s Day cards,
+one line links up with the other. Very complete hearts.
+
+But Pope St. John Paul said that our hearts are not like that. He said,
+God has taken a piece of our heart and He\'s kept it for Himself in
+heaven. We only get it back when we go there.
+
+"Our hearts are restless, Lord, until they rest in you" (St. Augustine,
+*Confessions,* Book 1:1-2).
+
+Pope St. John Paul said we all suffer from a hole in the heart, and that
+hole can only be filled by God.
+
+Even though these days we see so many beautiful, complete hearts, we
+also know from the human experience that hearts can be broken. Our
+Lady\'s heart was pierced by a sword, a spiritual sword.
+
+Christ\'s heart was pierced by a lance and there flowed out blood and
+water, the fountain of the sacramental life of the Church. We know that
+all these things can happen.
+
+Our hearts may be broken some time, or we might meet people with broken
+hearts. Fulton Sheen said that if ever God allows hearts to be broken,
+it\'s because He wants to enter into them a little more.
+
+Our Lady and Our Lord whose hearts are pierced, they\'re a bit like the
+patron saints of broken hearts. They can mend all broken hearts.
+
+If ever you meet someone with a broken heart, lead them to Jesus, to
+Mary. They find their peace and their serenity there. They learn how to
+begin again.
+
+The heart is very important in our faith. God reads the heart. "Rend
+your heart and not your garments. Come back to me with all your heart"
+(Joel 2:12-13).
+
+Our priestly soul also leads us to have a great desire to spread truth,
+to give doctrine, to spread doctrine in every way we can, which are good
+ideas, the ideas of Christ and the ideas with which He wants us to shape
+the world.
+
+That priestly soul leads us to spend ourselves for souls, to give
+ourselves to the apostolate with our whole heart and mind, seeing it\'s
+the greatest occupation and ideal we could have that fills our day and
+every hour with meaning and with purpose.
+
+Christ came to save souls. The Church is all about souls. That apostolic
+zeal adds a great dynamism to our life.
+
+Therefore, that leads us to never say 'enough' or 'up to here and no
+further.' Those words don\'t exist.
+
+We\'ve come to give ourselves. Christ emptied Himself. He didn\'t just
+shed one drop of His blood, but He let His blood flow copiously on the
+cross.
+
+We\'re called to offer everything. We hold nothing back.
+
+If we look at Christ on the cross, we can get a great encouragement, an
+example there, a beckoning to fall in love with Him, to follow Him, and
+to never leave Him.
+
+Our priestly soul finds perfect expression in the Mass and in the
+prayers of the Mass and the liturgy that can be so meaningful. In the
+Preface of the First Sunday in Ordinary Time, it says:
+
+*Father, all-powerful and every living God. We do well always and
+everywhere to give you thanks, through Jesus Christ, our Lord. Through
+his cross and resurrection, he freed us from sin and death and has
+called us to the glory that he has made us, the glory that has made us a
+chosen race, a royal priesthood, a holy nation, a people set apart.*
+
+*Everywhere we proclaim your mighty works, for you have called us out of
+darkness into your own wonderful light.*
+
+We\'re told in the *Furrow*: "You say that you\'re now beginning to
+understand what a 'priestly soul' means. Don\'t be annoyed with me if I
+tell you that the facts show that you only realize it in theory.
+---Every day the same thing happens to you: at night time, during the
+examination, it\'s all desire and resolutions; during the morning and
+afternoon at work, it\'s all objections and excuses. Are you in this way
+living a 'holy priesthood, to offer spiritual sacrifices, acceptable to
+God through Jesus Christ' (1 Pet. 2:5)?" (Josemaría Escrivá, *Furrow*,
+Point 499).
+
+We have a priestly soul, but lay people, lay people, lay people, lay
+people, lay people also called to live out their priestly soul with a
+very lay mentality. That\'s the way that God wants us to live out our
+priestly soul in all situations.
+
+To be a layperson is a real vocation. It has certain characteristics.
+Lay people are not called to imitate priests in the way they talk, the
+way they walk, and what they talk about. Lay people are called to be
+fully lay people.
+
+If everybody is talking about football, then we talk about football, or
+whatever is the thing that people in the middle of the world talk about.
+We\'re not meant to be 'churchy,' but rather, fully lay and fully up to
+date with the ordinary things that lay people do.
+
+That priestly soul has a lot of applications. It can mean our total
+availability for whatever is necessary for the apostolate. It can be
+very useful in moments when we come to see our miseries, our
+limitations, and the ups and downs of each day---to carry on there where
+God has placed us, in this marriage, in this family, in this job---in
+persevering in spite of my failures, beginning again.
+
+We can thank God for the priestly occasions when we don\'t have what we
+need or what we\'d like to have. It\'s a moment to offer our minds and
+heart and soul to God and say, "Here I am because you\'ve called me" (1
+Sam. 3:5-10).
+
+With our priestly soul, we overcome the obstacles with the spirit of the
+beginnings, because we know that God is with us and united to our lay
+mentality. It doesn\'t allow us to remain passive in the face of
+difficulties.
+
+If on some occasion we have a little bit of extra work---in cleaning or
+in the kitchen or in cooking at Christmas time, or we find everybody
+wants a barbecue, or somebody is sick in the house---these are
+opportunities to offer these things to God with our priestly soul.
+
+Or someday we\'re not feeling well, or we have to overcome our whims and
+our caprices, or we feel a bit rebellious---these are times to offer
+things to God, persevering in the apostolate entrusted to us, and the
+jobs that are given to us.
+
+The more we think this and live it, the more truly lay mentality we\'ll
+also have. We can ask Our Lord for the grace to live out this priestly
+soul a little better.
+
+All the time we find Our Lady standing beside the cross. Mary lived her
+priestly soul at that moment more than any other.
+
+*Stabat Mater dolorosa, iuxta Crucem lacrimósa, dum pendébat Fílius*.
+The Stabat Mater that we read on the Feast of Our Lady of Sorrows, the
+sequence of that Mass, is very eloquent.
+
+Our Lady is the Lady of Fair Weeping. Her tears are beautiful. She has
+the sorrows of the one who is all beauty, fully free from the deformity
+of sin.
+
+One writer says the sinless Spirit-filled heart of Mary is beautifully
+centered on the will of the Father.
+
+Our Lady lived out her priestly soul by fully accepting the will of God
+in that moment of the cross. She gives, she offers, she doesn\'t merely
+let go. She doesn\'t just tolerate. She doesn\'t assist passively or
+patiently at the sacrifice of her Son. She\'s totally involved. That\'s
+why the Church calls her a co-redeemer.
+
+St. Albert said, "Our Lady joined herself to the Father of Mercies in
+His greatest work of mercy when she shared in the Passion of her Son and
+'thus became the helper of our redemption and the Mother of our
+spiritual generation.'"
+
+With that poem, the Stabat Mater from the sequence of Pentecost Sunday,
+we could say: *Fac, ut árdeat cor meum in amándo Christum Deum*. Make my
+heart to burn in loving Christ Our Lord.
+
+When Cardinal Ratzinger visited Cavabianca in 1987, he said the
+Prelature of the Holy Cross in Opus Dei invites its members to stand by
+Mary there, that Our Lord may see us and each of us become a beloved
+disciple, hearing the words, "Behold your mother" (John 19:27).
+
+Our Lady beside the cross was silent. We can learn silence from Our
+Lady. Our silence can be a measure of our holocaust, of our unity to the
+cross of Christ.
+
+We can end our prayer by speaking to Our Lady, the Mother of all
+Priests, thanking her for the priesthood of our Father, a priesthood
+that she helped so much and so continuously all throughout his life.
+
+Help us, Mother, to value the great institution of the priesthood, to
+love priests like our Father did, to pray for them, to support them, to
+see what we can do for the diocesan priesthood as God wants us to do,
+moving heaven and earth to support that priesthood in every way we can,
+because we know the great evangelizing influence it can have in every
+country and in the whole world.
+
+Mary, Co-Redemptrix, Mediatrix of all graces, Mother of priests, pray
+for us now and always.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*EW*

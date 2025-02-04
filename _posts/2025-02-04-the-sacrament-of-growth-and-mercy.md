@@ -1,0 +1,563 @@
+---
+layout: homily
+title: "The Sacrament of Growth and Mercy"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+"And behold, a woman that was in the city, a sinner, when she knew that
+he sat at meal in the Pharisee\'s house, brought an alabaster flask of
+ointment, and standing behind him at his feet, she began to wash his
+feet with tears and wiped them with the hair of her head and kissed his
+feet and anointed them with oil" (Luke 7:36-38).
+
+It\'s a rather beautiful scene. We have this woman who is anonymous, but
+we\'re told that she was a sinner, clearly known by her sins, publicly
+known. When she heard that Jesus was there, she performs this very
+special act of affection and of love.
+
+She loves because she\'s aware of the sins that she has committed. She
+wants to be sorry. Contrition is an act of love. It\'s a desire to be
+better.
+
+She comes to try and atone to Our Lord for those sins, and to show her
+love for Him in a special way.
+
+Our Lord instituted the Sacrament of Confession, whereby we could have
+our sins forgiven. We could try and have a great sense of treasure about
+this sacrament. Our Lord need not have instituted the Sacrament of
+Confession, or He need not have made it the way that He did.
+
+He made it in the form of a judgment: "Whose sins you shall forgive,
+they are forgiven. Whose sins you shall retain, they are retained" (John
+20:23). The priest has to make a judgment about the contrition of the
+sinner---that they\'re truly sorry.
+
+Usually, the very act of coming and kneeling before a priest in the
+confessional is already a sign of contrition. But still, we have to
+confess our sins; we have to tell them openly.
+
+We believe that in those moments when the priest is hearing our
+Confession, Christ is acting in him and through him, because we believe
+in all the sacraments, he acts in the person of Christ. Christ is making
+use of his being.
+
+It isn\'t the priest who can forgive sins; it\'s Christ who forgives the
+sins.
+
+Fulton Sheen liked to say, "When the priest raises his hand to give the
+absolution, the blood of Christ is dripping from his hands (Fulton
+Sheen, *Through the Year*).
+
+"Without the shedding of blood," we\'re told in Scripture, "there is no
+remission of sins" (Heb. 9:22).
+
+Christ on the Cross won all the graces necessary to wash away all the
+sins of the whole of mankind for all time. When we go to the
+confessional box, when we receive the sacrament, we receive the benefit
+of that flow of graces, of that shedding of blood.
+
+There is nothing that is so completely destroyed as sin that has been
+forgiven. Christ forgives our sins and that\'s the end of it.
+
+It\'s good that we have a great sense of treasure and of gratitude and
+of mystery about what is taking place in the sacrament.
+
+Many years ago in another country, a lady who came to Confession. She
+had her two-year-old son with her, or a bit younger even, and she
+brought him into the confessional box.
+
+She told me, "When he heard the voice, he was looking around to see
+where the voice was coming from." He couldn\'t quite decipher what was
+happening. He had never seen his mother talking to the wall before.
+
+She asked me if she could bring him around the other side so that he
+could see that there was a priest there.
+
+A few minutes later, the door opened and this child with the siddha in
+his mouth appeared, poker-faced, and began to stare at me, and then
+stared at the curtain, and then stared back at me, and then stared at
+the curtain, and then stared back at me, and then stared at the curtain.
+This went on about six times.
+
+The child was totally expressionless, but you could see that inside his
+mind he was thinking, 'What on earth is going on here?'
+
+The mother told me that when they got home---she told me the following
+week---that he looked behind all the curtains in the house to see if
+there were any humans there.
+
+Little children have the sense of mystery. They grasp that there\'s
+something unusual taking place here, 'something I haven\'t quite
+fathomed before.'
+
+Another mother who brought a little girl into the confessional went to
+Confession, and the little girl said to her, "Who are you talking to,
+Mummy? Are you gone stark raving mad, talking to the wall?"
+
+Children grasp that there\'s something unusual. We\'re told that we have
+to "become like little children" (Matt. 18:3).
+
+Little children who have that sense of mystery---they realize there\'s
+something strange or unusual or great. We have every reason to think in
+that way, to realize something wonderful is happening.
+
+When you hear the Confessions of converts, it can be very instructive,
+informative. One man in another country told me, he said, "Father, you
+know, when I walk out of this confessional, I know I\'m a free man. When
+I was a Protestant, we used to talk about confessing our sins directly
+to God."
+
+And he said, "That sounds very good. But the trouble with that is that
+you never know if you\'ve been forgiven or not. But when I hear those
+words, 'I absolve you from your sins, in the name of the Father, and of
+the Son, and of the Holy Spirit' I know I\'m a free man."
+
+There\'s a lot of wisdom in that.
+
+Another man, a convert also, said to me, "Father, would you ever mind,
+please, saying the words of absolution very slowly. Because I look
+forward to this moment my whole week, to hear those words, 'I absolve
+you from your sins.'
+
+Wow. It makes you think a little bit. Something very wonderful is taking
+place. It\'s very good if we have a great love for the Sacrament of
+Confession, realize the treasure that is there, and want to avail of
+that treasure in a regular way.
+
+One great resolution from this meditation could be to try and get to
+Confession more frequently, to have a specific day or a specific hour;
+to make use of this great channel of graces to build up our soul, so
+that at the end of our life, we can look back and say, 'Lord, I\'ve
+received that sacrament in a regular way for so many weeks, so many
+years, so many decades.'
+
+We come to realize the great benefits of being close to the sacraments.
+Every time that we receive the sacraments, in each sacrament we get an
+influx of the supernatural virtues of faith, of hope, of charity. These
+are wonderful treasures.
+
+St. John Paul had an Encyclical early in his pontificate, *Dives in
+Misericordia*--"Rich in Mercy."
+
+Christ wants us to be rich in the spiritual things. We\'re called to be
+spiritual millionaires, and it\'s in the sacraments, and through the
+sacraments, that we become those spiritual millionaires.
+
+Lord, I want to be a spiritual millionaire. I might be a material
+pauper, but I want to be a spiritual millionaire.
+
+You\'ve given me the possibility of such, and that\'s much more
+important than being a material or dollar millionaire, because "all
+those things of this world pass away" (1 John 2:17), but the spiritual
+treasures last forever.
+
+Now, Lord, let\'s place that possibility within reach. If ever we lose
+the treasure of the *state of grace*, it\'s very good that we try to get
+back into the state of grace as soon as possible, because we have that
+sense of treasure.
+
+Also, we know from experience that the Sacrament of Confession is "the
+sacrament of joy" (Pope Francis, *Meeting with Young People*, September
+14, 2021). It brings joy and peace to our soul. Everything bad or ugly
+in our soul has been washed away.
+
+If ever we think, I have no sins, then we could widen the search, like a
+lost file in the computer. Something we can\'t find---we put a bigger
+search engine going.
+
+And even if we find we, maybe, don\'t have any major sins to confess, we
+could find a series of small things perhaps where we could have
+practiced virtue a little better: the extra mile that we didn\'t walk,
+the talent that we didn\'t develop, a lack of zeal in certain areas, a
+lack of love, a lack of commitment.
+
+If we examine our conscience well, we\'ll discover the lack of virtue in
+our life.
+
+Fulton Sheen says, "Self-disgust is the beginning of conversion" (Fulton
+Sheen, *The Cries of Jesus from the Cross*).
+
+God gives us the grace "to see ourselves as we really are" (Rom. 12:3),
+to see ourselves as we are in His eyes. That can lead to a lot of
+self-disgust: all the bad things that come out of the human heart.
+
+As we get older, we may recognize those things a little easier, a little
+clearer, things we haven\'t quite seen before. God gives us the grace to
+see with a little more clarity what we\'re like on the inside.
+
+And that can lead us to grow in Confession. This woman who was "a sinner
+in the city"---somehow, she had an awareness of the greatness of her
+sins and the gravity of sin (Luke 7:36-39).
+
+Jesus, give me the grace to have a sense of the gravity of sin.
+
+Sin is the greatest evil in the world, the only real evil. All the other
+things this world we may consider as evils are not real evils.
+
+They can be pathways to heaven: unemployment, lack of material things,
+illness, cancer, misfortune. All these things can be crosses that we can
+use for our holiness.
+
+The only thing that can keep us out of heaven is sin.
+
+Therefore, Lord, give me a hatred for sin, a hatred of offending you,
+because you are pure love, divine love. Your Son, Our Lord Jesus Christ,
+is divine love Incarnate.
+
+We\'re called to lead lives of love. Contrition is a sorrow for
+love---sorrow, because we\'re aware of who it is we have hurt, we have
+offended.
+
+In the *Confiteor* of the Mass, the "I Confess" in each Mass, we say,
+"for what we have done and for what we have failed to do."
+
+Our sins may be greater, but our omissions may be greater---\"things we
+have failed to do," things we could have done and didn\'t do because of
+our laziness, or our lack of thoughtfulness, our slowness.
+
+Possibly things that God was hoping for from us, but we let Him down, we
+dropped the ball.
+
+If we prepare our Confession well, it won\'t be a routine; it will be a
+ritual done for love.
+
+Even if we come back to Our Lord with the same things, it doesn\'t
+matter. You see, if this table wobbles on one leg, if one leg is shorter
+than the other, if it has some defect, it will always wobble on that
+leg. It would be very unusual if the table wobbled on a different leg
+every different week.
+
+We all have certain weaknesses---consequences of original sin. We all
+tend to wobble on the same leg. We have the same defects, the same
+things we see.
+
+But the fact that we\'re not improving, or we don\'t see ourselves
+improving, doesn\'t mean that the sacrament is ineffective.
+
+It just means that we need to go back with a deeper contrition, because
+ultimately, our contrition is a desire to be better, a desire to
+improve.
+
+Every time we go into that confessional box, we\'re saying to Our Lord,
+'Lord, help me to be better. I realize on my own I can\'t do anything.
+Help me to improve. I need your help. I need all the graces that I can
+get.'
+
+Confession takes away all the obstacles to graces and to virtues that
+may be there---the obstacles to the graces that God wants to pour into
+our soul, and to make us those spiritual millionaires.
+
+Sometimes our pride blinds us from seeing our sins, from seeing
+ourselves as we really are.
+
+St. Josemaría in the *Furrow* says, "We have to instill in our souls a
+true horror for sin. Lord---say it with a contrite heart---may I never
+offend you again" (Josemaría Escrivá, *Furrow*, Point 134).
+
+One of the conditions for a valid Confession is that we have what\'s
+called *purpose of amendment*: the desire never to sin again.
+
+That\'s really what the priest has to judge about. "This person is
+really sorry."
+
+If somebody comes to Confession and says, "Bless me, Father, for I have
+sinned, I murdered fifty people last week, and if I get half the chance,
+I\'ll murder another fifty this week."
+
+That person can\'t receive absolution because they\'re not sorry. But if
+they say, "I murdered fifty people last week and I\'m so sorry, and I
+hope I will never ever murder anybody ever again in my whole life" then
+that person can receive the absolution.
+
+He might murder another fifty this week, but in this particular moment,
+he is sorry---he has a purpose of amendment. That's all that Our Lord
+demands from that valid Confession.
+
+We have to try and work at our contrition. Our contrition is effective.
+I want to be better. I want to improve in this virtue.
+
+"But don\'t be frightened," he continues, "when you become aware of the
+burden of your poor body and of human passions: it would be silly and
+childlessly naive to find out now that 'this' exists. Your wretchedness
+is not an obstacle but a spur for you to become more united to God and
+to seek him constantly, because he purifies us (*Ibid*.).
+
+Our Lord lifts us up onto a new level. If he sees our effort to get to
+Confession frequently, He gives us more graces.
+
+Sometimes to get to Confession may be very easy. In this center, it's
+very easy, it\'s sort of laid down for us.
+
+But some day we might be working or living far away from a church, or
+from a priest who hears Confessions, or we might be working in a country
+where there are very few Catholics. We could be anywhere.
+
+But still, it would be great to have that love of the sacrament that
+leads us to seek out that forgiveness in a regular way.
+
+Some people in this world travel three hours every week by public means
+to receive the Sacrament of Confession. They have a great sense of
+treasure, and that effort alone is a great penance.
+
+Sometimes the greatest penance we can do is the effort to get to
+Confession, because we might have to cross the city, we might have to
+make a journey, we might have to spend money.
+
+But there\'s no greater way of showing Our Lord that we\'re really sorry
+for our sins and we want to be better. A great pathway to holiness.
+
+In the past forty years I\'ve had mothers and fathers of families tell
+me, "Father, you know, when I get to Confession regularly every week, I
+notice there\'s a difference in my family. I can see the effects."
+
+It's a very beautiful thing to hear from a mother or father of a family
+that has seen the social effects 'of me being in the state of grace.'
+
+I\'ve been told sometimes, "I see that when I have this grace and I get
+to Confession, somehow there\'s more peace in my home."
+
+It's a very beautiful thing. When we\'re in the state of grace, the
+Blessed Trinity is in our soul: the Father, the Son, and the Holy
+Spirit.
+
+It\'s logical that the fruits of the Holy Spirit would be there around
+us, in our workplace, in the people we deal with. That effort, or that
+heroism at times, to get to regular Confession can be enormously
+fruitful. They come in contact with Christ in the Confession.
+
+John Paul II said, "Acknowledging the weakness of the past is an act of
+honesty and courage" (John Paul II, Apostolic Letter, [*Tertio Millennio
+Adveniente*](https://www.vatican.va/content/john-paul-ii/en/apost_letters/1994/documents/hf_jp-ii_apl_10111994_tertio-millennio-adveniente.html),
+Point 33, November 10, 1994).
+
+When we are preparing for Confession, we could ask Our Lady to help us
+to make a good Confession, to help us to examine our conscience, to see
+the things this week that we may not have done well, our lack of virtue.
+
+Of course, if there\'s something big in the week, that should stand out
+in our mind. We should have a certain sensitivity of soul. That\'s the
+first thing that comes to mind, and the first thing we should say and
+get off our chest.
+
+Sometimes it may be difficult to say things in Confession. But if we
+realize it is Christ who is there listening to me, we\'re supernaturally
+oriented, then it becomes easier.
+
+Or if there\'s something in the past that we\'ve never confessed, or
+there\'s something grave that\'s bothering us, on our conscience, it's
+very good to get it out. That gives us great peace.
+
+Somebody said once, "The softest pillow to sleep on at night is a
+tranquil conscience." We\'ve confessed all our sins, if we\'ve got all
+the garbage out, then we can be happy and peaceful.
+
+That\'s how Christ wants us to live. He wants us to be happy in this
+world.
+
+There was a lady once who, in the early 1960s, wanted to go to
+Confession to Padre Pio. She was in the States, and she flew to Rome.
+
+She landed in Rome at 8 o\'clock in the morning on a Sunday. She got to
+her hotel and she was rather tired, so she decided she\'d take a rest;
+she\'d take a bit of a nap.
+
+There were no evening Masses in those days, but she decided she\'d catch
+a late morning Mass. This is Rome, there are many Masses.
+
+She laid down and took a nap, but she slept the sleep of the just and
+she woke up at 3 o\'clock in the afternoon, and she missed Mass. She
+didn\'t mean to miss Mass. She knew she hadn\'t committed a mortal sin.
+
+The following day, she went to Confession to Padre Pio, and confessed
+all her sins. When she finished, he said to her, "Is that everything?"
+
+And she said yes. And he said, "Are you sure?" She said yes.
+
+He said, "What about yesterday, when you landed in Rome at 8 in the
+morning, you lay down and took a nap, you slept the sleep of the just,
+you woke up at 3 in the afternoon, and you missed Mass?"
+
+He could read souls. He said, "I know you didn\'t commit a mortal sin,
+but your negligence hurt Our Lord."
+
+The saints didn\'t function just in the realm of "venial or mortal."
+They functioned in the realm of negligence. Little things.
+
+Sorrow for sin is not sorrow because we broke a law. It\'s sorrow
+because we\'ve hurt someone that we loved, and therefore the negligence
+is so important.
+
+We hurt Our Lord when we\'re a bit lazy, when we\'re a bit disordered,
+when we\'re not punctual, when we don\'t tell the truth, when we indulge
+ourselves a bit more than we should do, or we don\'t finish our work
+well.
+
+These are all negligences. When we examine our conscience, it\'s good to
+look at these things. Refine our Confession a little bit, so that we
+make full use of those moments.
+
+If we have the misfortune of ever falling into a serious sin, remember
+St. Peter. He denied Our Lord three times, "and then the cock crowed"
+(Luke 22:34, 60-62).
+
+It\'s like a wake-up call. He realizes what he has done. He remembers
+Our Lord\'s prediction. We\'re told, "He went out and he wept bitterly"
+(Luke 22:62).
+
+He committed a grave sin, and he realizes it, and he weeps tears of
+sorrow. We\'re told, "The Lord turned and looked upon Peter" (Luke
+22:61).
+
+It\'s a very beautiful moment. Our Lord seeks him out with His most
+loving glance. Christ doesn\'t banish him forever for having committed
+such a terrible thing. He\'s the good shepherd who seeks out the lost
+soul.
+
+"The Lord turned and looked upon Peter." The Lord is turning and looking
+upon each one of us, seeking us out with His most loving glance, lifting
+us up again.
+
+From that moment of conversion, Peter went forward to become a great
+saint and a great apostle. This is the story of our life: beginning
+again.
+
+"Judas went out and he fell into despair, and he hung himself" (Matt.
+27:5). He was the opposite. He didn\'t find that contrition. He didn\'t
+come back. He didn\'t begin again.
+
+The Sacrament of Confession is the great sacrament of beginning again.
+
+We have a great treasure to share with many people. It\'s a really
+wonderful thing to try and do the apostolate of Confession. Share with
+people our experience.
+
+Try and bring souls to the confessional box, so that they can discover
+this great treasure that\'s available for everybody, so that they can
+have a new peace in their life.
+
+When we begin to explain the Sacrament of Confession to people, it helps
+us to realize its greatness ourselves.
+
+There was a girl in Tokyo one time who heard a meditation like this, and
+realized, "I have to try and do the apostolate of Confession."
+
+She was studying in a university, and she was in the library one day,
+and there were maybe a couple of hundred people in the library.
+
+She was thinking, "Here in Japan, it\'s maybe 0.1 percent Catholic, so
+perhaps there\'s one person in this whole room of a couple of hundred
+people who\'s a Catholic."
+
+But she felt she still had to do the apostolate of Confession. 'How do I
+do it?'
+
+She decided to "launch out into the deep" (Luke 5:4). She said to the
+girl sitting in front of her, "Hey, would you like to go to Confession?"
+The girl said, "What\'s that?"
+
+She said, "You see, it\'s a thing whereby you go into this little dark
+room, and you kneel down there, and you tell the person on the other
+side of the grill, the priest that\'s there, all the bad things. You get
+out all the garbage, all the rubbish that\'s there inside you. And then
+you feel wonderful. You feel free. You feel liberated."
+
+The girl said, "Oh, I think I\'d like to try that." She began to attend
+catechism classes, and six months later was baptized and went to
+Confession.
+
+People are waiting to hear about the wonderful things that God has given
+to us.
+
+"It seems," we\'re told in the *Furrow*, "as if you obstinately refuse
+to learn from the second part of the parable of the prodigal son (Luke
+15:15-24), and you still feel attached to the wretched happiness of the
+pigswill. With your pride wounded by your weakness, you\'ve not made up
+your mind to ask for pardon, and you have not realized that if you
+humble yourself, the joyful welcome of your Father God awaits you, with
+a feast to mark your return and your new beginning" (J. Escrivá,
+*Furrow*, Point 65).
+
+"Your forgetfulness," he says, "and your faults are still there, and
+they hurt you. At the same time, you go on your way bursting with
+happiness. Precisely because they cause you the pain of love, your
+failings no longer rob you of your peace" (J. Escrivá, *Furrow*, Point
+861).
+
+We can look forward to this great sacrament, the sacrament of
+liberation. We\'re liberated from all the evils of this world. We\'re
+helped to begin again.
+
+Our Lord fell down three times on the way to Calvary, but He got up
+again. The first time, the second time, the third time.
+
+We go to the confessional to experience divine mercy. "Mercy is poured
+into our hearts." Mercy, which is another word for love (Rom. 5:5).
+
+It\'s a beautiful reality. We have this proof of God\'s merciful love,
+of His all-embracing tenderness towards us. He welcomes us back each
+time like He welcomes the prodigal son (Luke 15:22-24).
+
+He\'s the good shepherd. He always understands. We need never be afraid
+of saying anything, of any particular sin. Of course, the priest has
+heard it all before.
+
+When a priest hears all the bad things coming from a soul, he knows this
+soul is on the right track. This soul is timed to be holy, because the
+priest himself is human. He\'s experienced all these things.
+
+"'What I owe to God as a Christian!' we\'re told in *The Way*. 'My
+failure to respond to God\'s grace, in the face of that debt, has made
+me weep with sorrow; with Love sorrow. It is good that you acknowledge
+your debts; but don\'t forget how they are paid: with tears... and with
+deeds (J. Escrivá, *The Way*, Point 242).
+
+"God gives his grace to the humble" (James 4:6; Prov. 3:34). The very
+fact that we go there and kneel down, confess our sins to the minister
+of divine grace, is an act of humility.
+
+God gives us the grace to be better, to improve, to grow, so that
+ultimately, at the end of our life, we\'re closer to that goal of
+holiness.
+
+It\'s a very concrete sacrament that helps us along that pathway. When
+you think about it, it\'s a very simple, short thing. It takes two or
+three minutes. It doesn\'t take a big amount of time.
+
+Christ has made it very easy for us. If we had to pay an awful lot of
+money every time we went to Confession, that would make it a bit more
+difficult.
+
+Or if Our Lord says, 'Now, to confess your sins, I want you to go on
+national TV at nine o\'clock at night and say, Bless me, Kenya, for I
+have sinned, and confess our sins to the whole country,' that would be a
+little more difficult.
+
+But He made it in such a way that it\'s very private, very personal,
+very quiet, very silent, very anonymous. We don\'t have to say who we
+are. It couldn\'t have been constructed in a better way.
+
+We could ask Our Lady for the grace to make better use of this great
+sacrament and to help everybody around us to sense this great treasure
+that God has given to us in this particular sacrament.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*MVF*

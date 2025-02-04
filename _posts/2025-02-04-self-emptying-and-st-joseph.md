@@ -1,0 +1,488 @@
+---
+layout: homily
+title: "Self-emptying and St. Joseph"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+"...something to be grasped, but emptied himself, taking the form of a
+slave, becoming as human beings are; and being in every way like a human
+being, he was humbler yet, even to accepting death, death on a cross"
+(Phil. 2:6-8).
+
+In our prayer this morning, we could focus on the words, "He emptied
+Himself." It\'s a rather expressive term.
+
+Emptiness is something very clear. The bottle is empty, which means
+there\'s nothing left. It's not half-full, or a quarter full, or
+there\'s a little bit left in it; it\'s empty. The cash box is empty;
+very clear and graphic. There's nothing in it. The tube is empty.
+
+We\'re told Christ did not just pour out a little bit of Himself, but
+"He emptied Himself."
+
+We\'re called to follow His example, to empty ourselves of ourselves, to
+empty ourselves of that greatest obstacle to our holiness which is our
+self-love, the love of me, selfishness, egoism, and ultimately pride.
+"He must increase, I must decrease" (John 3:30).
+
+There\'s no limit to that self-emptying. Our Lord invites us to examine
+our conscience, to look interiorly, deeply, to see, 'Is there something
+there deep inside that I need to empty myself of, that I have not poured
+out or gotten rid of?'
+
+"Learn from me, for I am meek and humble of heart" (Matt. 11:29).
+
+There may be many things that we have tried to empty ourselves of over
+the course of time. The fact that we\'re here is a sign that we do
+practice the virtue of humility. We\'re trying to conquer our pride.
+
+But yet there may be vast areas that are still there that we have not
+yet discovered. *Domine, ut videam!* (Luke 18:41)---what I\'m not so
+aware of.
+
+Possibly Our Lord wants to open my eyes to that reality little by
+little, and do something about it, because He wants me to be better. He
+wants me to improve. He wants me ultimately to be a saint.
+
+"For everyone who raises himself up will be humbled, but the one who
+humbles himself will be raised up" (Matt. 23:12).
+
+There may be certain little tell-tale signs that there is something
+there deep down that Our Lord wants us to do something about. One of
+those things could be rigidity---if we\'re rigid about certain ideas, or
+opinions, or ways of doing things, my reactions, or my likes and
+dislikes.
+
+There can be subtle little symptoms that I haven\'t really given myself
+completely, or that I need to give myself a little more, because God
+wants to use my self-giving to bring enormous apostolic fruits all over
+the world.
+
+That\'s why the apostolic fruitfulness of all the things we do, all the
+corporate apostolic activities, ultimately depend on our sanctity. God
+doesn\'t invite us to climb Mount Everest or Mount Kenya or Mount
+Kilimanjaro, but He does invite us to delve deep down into the inner
+recesses of our soul, to make it more Christ-like, so as to bring fruits
+that we never even dreamt of.
+
+I went to visit a 95-year-old priest in a hospice in Tegio recently.
+I\'d heard about him. He\'s an Irish priest who came here in 1952. He
+was the first priest to go to, I think it\'s called Otunu, Moko, some
+area like that. Amazing story.
+
+He helped to start the first mission in Turkana, to negotiate with the
+British District Commissioner. A lot of problems. He was full of stories
+at 95 years of age. It would be interesting to record and tape him soon.
+
+On my way out, I happened to meet the Sister in charge. I think this
+place is the first hospice in Kenya. Beautiful surroundings, beautiful
+settings. It was a small little place, but full of potential, and
+spotlessly clean and impressive.
+
+The young nun in charge met me on the way out and we were talking. "Oh,
+you\'re a priest of Opus Dei. And how is Father Alphonse?"
+
+Out of the blue, here in the middle of nowhere, this lady asked me about
+Father Alphonse. I said, "He\'s not too well at the moment, but how do
+you know Father Alphonse?"
+
+"I used to attend the recollections in Eldoret. Two of my best friends
+are in Opus Dei."
+
+Amazing! She is a Daughter of Charity. She runs the place. Then you find
+that she used to attend the activities in Eldoret.
+
+I\'m sure from all the decades that activities have been taking place in
+Eldoret, nobody imagined that this lady now running the first hospice in
+Kenya could have been in contact in that particular way at that
+particular time.
+
+We never know the fruits of all the things that we\'re running and what
+that brings over time.
+
+But our Father does bring us back to our own personal struggle to be
+better, the basis for that apostolic fruitfulness. All the time, God
+invites us to conquer ourselves.
+
+You probably heard the story of how our Father one time was obviously
+making some decision with Don Álvaro, as they probably had to do many
+times. Our Father suggested one thing and Don Álvaro suggested a
+different thing.
+
+Our Father wanted to do what he thought was the right thing. But Don
+Álvaro was very much against it.
+
+We\'re told that our Father went to the oratory, and he spoke to Our
+Lord in the tabernacle saying, "Lord, Álvaro is right. Álvaro is right."
+
+That little anecdote talks about how he saw very clearly that Álvaro\'s
+solution was much better than his, but he wanted his solution. He was
+praying for the grace to see and to put his will behind what Don Álvaro
+was suggesting.
+
+'Álvaro is right. Álvaro is right. I am wrong.' Great interior battle.
+'Alvaro has the better solution.' It was like an expression of our
+Father\'s desire to conquer that self that was there within him.
+
+We have to try and follow his example. Don Álvaro talked about standing
+on our own self-love, stamping it out. We know it\'s always there.
+
+I was very impressed in another country, an 85-year-old lady told me how
+she realized she\'d been thinking about herself, and worried about
+herself, and anxious about herself, and, 'I have to stop all this
+nonsense,' she said, 'to forget about myself.'
+
+It was rather impressive to hear the bellicose words that she was using
+against herself.
+
+It\'s a never-ending battle. But on that battle lies hopefully the
+victory of our humility. St. Paul says, "We have to put on the new
+person" (Eph. 4:24). Put off the old person---that old self that\'s
+there all the time.
+
+We have to see it, bring it out into the daylight. Discover the enemy,
+see the enemy. Unless you know who the enemy is and what the enemy is,
+you can\'t fight against it.
+
+"You call me 'Master' and 'Lord,' and you say well, for so I am. If then
+I, being your Lord and Master who washed your feet, you also are to wash
+one another\'s feet. For I have given you an example, that as I have
+done to you, so you do also" (John 13:13-15).
+
+Our Lord gives us an example in many areas, in many ways: examples of
+emptying Himself, forgetting about Himself, of serving, of conquering
+Himself.
+
+There possibly are opportunities that Our Lord brings our way for us to
+respond with generosity to the divine graces that He places in our way
+to grow, to be better.
+
+When we\'re not appreciated, when maybe we meet with rejection, our
+ideas, our opinions, our ways of doing things, or when we\'re
+corrected---it's a litmus test of how attached we are to self. When
+we\'re corrected, we\'re shown a better way of doing things.
+
+Lord, help me to accept with humility, with docility, whatever it is you
+tell me. Even if I don\'t like it, even if I think it\'s wrong, help me
+to watch that self-reaction that may be there, thinking this is too
+much.
+
+When we get thoughts like that, that\'s our pride speaking. 'Now this
+person is wrong' or 'I can\'t be spoken to in this way'---excessive
+sensitivity can be a sign of that deep love of self.
+
+'A person spoke like this, they used those words, they used that tone.'
+Well, look at the message of what\'s behind that, without any judgments
+or criticisms. Otherwise, we might be in a situation where nobody can
+say anything to us.
+
+We\'re so full of self-love and sensitivity that nobody can say
+anything---the very opposite of what our Father wanted, what Our Lord
+wants, to be "like clay in the hands of the potter" (Jer. 18:6).
+
+If that person says something to us in that way or in that tone, what\'s
+my reaction? Do I have a sort of a grudge? 'I don\'t want to talk to
+that person anymore.' 'I don\'t want to listen to them.' 'I don\'t want
+to live with them.' 'I don\'t want to work with them.'
+
+We can maneuver ourselves into an impossible situation, and ultimately
+that\'s the devil working through our self-love, his greatest
+instrument.
+
+Lord, help me to see it, to recognize it, to conquer it, to fight it, to
+declare war on it.
+
+If I feel on some occasion that I\'ve received some sort of a blow, Our
+Lord invites us to take the blows, like our Father took the blows.
+
+There\'s a great phrase in Scripture that can be very helpful if ever we
+feel we\'ve received a bit of a blow, and that is: "We receive fewer
+blows than we deserve" (cf. Luke 12:48). Sometimes our pride and our
+self-love receive a huge blow.
+
+Somebody fell down the stairs once, and somebody asked them, "Oh, did
+you hurt yourself?" They said, "Only my pride."
+
+It was a very interesting little reaction: "Only my pride. My legs and
+my arms are in a good state, but my pride is in pieces."
+
+Sometimes the thing we hurt most is our pride. 'Oh, that\'s very
+painful, very sore. It takes me a couple of weeks to recover.'
+
+When we hurt our pride, oh, it\'s very difficult. But then it\'s good to
+remember, 'I received fewer blows than I deserve.' All the times I got
+away with murder. All my sins, all my negligences, all my lack of
+effort.
+
+Lord, help me to open my eyes, to see. Help me not to say to you, "Yes,
+I want to serve you" but with a declaration of independence---to do
+things the way I want, to be spoken to the way I want to be spoken to,
+be told the things that I want to be told. Don\'t tell me things in this
+way or that way or the other way, because I don\'t want to hear them. I
+put up a wall around myself.
+
+"God resists the proud, but He gives His grace to the humble" (James
+4:6). When we go to the chat and sometimes, we are told deeper things
+that cost us, that invite us to a deeper change, we have to try and be
+open to those realities, even at the eleventh hour, because so many
+great things may depend on that.
+
+Some soul somewhere, coming in contact with some apostolic activity,
+will see something clearer along the pathway of their vocation.
+
+Make the world a better place because of that little battle that I have
+waged with my own self-love. "Whoever loses his life will save it"
+(Matt. 16:25).
+
+"In all truth, I tell you, unless the grain of wheat falls into the
+ground and dies, it remains a single grain; but if it dies, it yields a
+rich harvest" (John 12:24).
+
+We have come to die, to die to ourselves, to be like little children who
+know how to bounce around the place, bounce out of bed every new day,
+hit the day with a bang.
+
+"Indeed all who are led by the Spirit of God are children of God" (Rom.
+8:14). With this virtue we de-complicate ourselves. We keep things
+simple, clear, very wonderful.
+
+A telltale sign that there is some deep self-love there is if we are
+easy to annoy if we have a fast temper, which is fast pride, lack of
+rectitude of intention.
+
+St. Benedict says, "If humility is truth, then a significant part of its
+practice must involve bringing out into the daylight of another\'s
+judgment whatever is hidden and therefore subject to delusion" (St.
+Benedict, *A Guide to Living in the Truth*).
+
+Hence our Father speaks about the importance of sincerity, bringing out
+"into the daylight of another\'s judgment," not the darkness of our own,
+the hidden darkness.
+
+Aspects of our self-love can be hidden in the deep recesses of our soul
+"and therefore subject to delusion."
+
+If we don\'t bring these things out, if we don\'t listen, we can end up
+on the wrong track. We can be barking up the wrong tree. We can have a
+completely distorted vision of reality---what I should be doing
+differently is to humble myself and listen.
+
+What are the things that are being suggested to me? Maybe they are being
+suggested in a very calm, peaceful, sweet, gentle manner.
+
+But if we are humble, we have to catch the breeze, catch the Holy
+Spirit, and it doesn\'t matter what\'s being suggested to us. The
+important thing is that it\'s being suggested, that particular thing.
+
+So okay, I\'m available. I do this, I do that. Even if I don\'t feel
+like it, I\'ll accept that advice. I do this thing, because that\'s
+what\'s being said to me. I\'ll allow myself to be demanded in this
+particular area.
+
+We\'ve come to give an unconditional self-surrender. Unconditional.
+Emptying ourselves. "Though He was by nature God, He did not consider
+being equal to God a thing to be clung to" (Phil. 2:6).
+
+There may be moments in our life when this action and this reaction
+becomes more important, because there may be something deeper there,
+some bit of surgery that needs to be done in our soul.
+
+We come with a spirit of docility to let ourselves be molded. We could
+ask in the chat, 'Look, is there something you think I should work on?
+Or something you think I should take a bit more seriously? Or something
+I\'m not seeing? Or something that\'s being suggested to me that I
+haven\'t quite grasped in its importance?'
+
+We let people tell us things clearly, *sicut lutum in manibus figuli*,
+"like clay in the hands of the potter."
+
+In a letter in 1975, Don Álvaro said, "Let us seek only the glory of
+God. *Deo omnis Gloria*. Let us live according to the constant lesson of
+the life of our Father: 'Mine is to hide and disappear.'"
+
+We hide and disappear in all sorts of ways. Sometimes, an excessive
+rigidity can be a sign that in that area we're not hiding away and
+disappearing.
+
+It can be sort of an acid test. 'I refuse to change.' 'I refuse to
+mellow in my opinions and the decisions I have made about what I will
+do, what I will not do.'
+
+"Let each one fulfill the work of God," he says. "Spend themselves in
+service to the others, knowing themselves to be last. My sisters and
+brothers, I am writing this to you with all the love that our Father has
+taught me to have for you. Let us be very humble. Let us not forget that
+our Father has always forewarned us that the great enemy is hidden in
+pride, in self-love.
+
+"I think that it is time to ask Our Lord, through the intercession of
+our Father, to give us this grace: a holy hunger to disappear, to be the
+last, to obey with more finesse than ever."
+
+Yesterday was the first Sunday of St. Joseph. In this Year of St. Joseph
+(January 1, 2020 to December 8, 2021), we have a chance to take a deeper
+look at St. Joseph. We have special graces to do so.
+
+It is difficult to find any trace of self-love in the life of Joseph, a
+beautiful, lovable character. Our Father had such great devotion to him.
+
+We could ask him in a special way in these weeks and months to lead us
+to a deeper grasp of that self-love so we can do something about it, can
+follow more in his example. His plans were always changing.
+
+Our Lord was always making demands on him. Go here, go there. Don\'t ask
+for this, don\'t ask for that, don\'t complain. Just follow the path,
+the signals that I give you. Always be available. Conquer your own
+plans.
+
+All the things that Joseph was asked to do---none of them were in his
+plans. He didn\'t plan to go to Bethlehem or to fly off to Egypt or to
+go here or to go there. They had no place to stay. All these things were
+all outside of his plans.
+
+Yet he was there and so, *Ure igne, Sancti Spiritus*--Enkindle in us the
+fire of your love. We can see those aspects of our pride and want to do
+something about them.
+
+There was an architect in England once who constructed the first
+lighthouse in a place called Eddystone, close to Plymouth in the south
+of England in the year 1700. On the lighthouse, he had etched the words:
+Winstanley, the best architect in England.
+
+Soon afterwards, a storm toppled the lighthouse into the sea. Years of
+building were washed away.
+
+Some years later another architect constructed another lighthouse on
+that very same site. He engraved on the stones the words of the Psalm:
+"Unless the Lord builds the house, those who build it labor in vain"
+(Ps. 127:1). And that lighthouse is still standing today. We have to
+allow the Lord to build the house.
+
+Our Father says in *The Forge,* "What really makes a person---or a whole
+sector of society---unhappy, is the anxiety-ridden, selfish search for
+well-being, that desire to get rid of whatever is upsetting" (Josemaría
+Escrivá, *The Forge*, Point 767).
+
+God may permit things in our life that are upsetting: irritations,
+people, places, circumstances, events. We might have the immediate
+reaction to want to get rid of that thing, but our Father has taught us
+that\'s the pathway to my holiness.
+
+That particular person, that particular irritation, that particular
+difficulty---I have to face that thing; I have to learn how to handle
+it. I have to conquer my own self-love in wanting to get rid of that
+thing, to get that obstacle out of my path.
+
+"That acquaintance of yours," he says, "very intelligent, well-off
+person, used to say: 'You have to do what the law says, but within
+limits, doing what is strictly necessary without going too far.' And he
+would add, 'You shouldn\'t sin, of course, but there\'s no need to give
+up everything.' How sad it is to see people who are mean," said our
+Father, "calculating, incapable of making any sacrifice, of giving
+themselves wholeheartedly to a noble ideal" (J. Escrivá, *Furrow*, Point
+12).
+
+We may discover these sorts of sentiments deep inside our heart and
+soul. We\'ve given ourselves, yes. Possibly there are years and decades
+to prove that.
+
+But God is asking us for more: unconditional dedication, a total
+self-emptying, a rising to the challenges.
+
+St. Paul says, "Charity endures all things" (1 Cor. 13:7). Sometimes
+that\'s what Our Lord brings us to: a situation where He wants us "to
+endure all things" because that\'s what charity is, that\'s what love
+is.
+
+God is love (1 John 4:8, 16) and Christ is love, and our vocation is all
+about love. We\'re called to grow, to be the aristocrats of love, so
+that the love of God can flow through us and be seen by other people and
+be attracted. Other people can be attracted by it.
+
+He says in the *Furrow*, "If your selfishness leads you away from the
+ordinary desire for the holy and healthy well-being of mankind, if you
+count the cost or if you\'re not moved by the wretched material or moral
+condition of your neighbor, you force me to reproach you strongly, so
+that you can do something about it.
+
+"If you do not feel a holy fraternity with your fellow men, and you live
+in the margin of the great Christian family, you\'re just a poor
+foundling" (J. Escrivá, *Furrow*, Point 16).
+
+Often our Father\'s words are very challenging. They challenge us at a
+late stage of our life, at a mature stage of our life, so that we don\'t
+remain halfway along the road. We go the whole hog; we commit ourselves
+completely.
+
+God wants everything, that total self-emptying.
+
+"You feel lonely, everything annoys you, and you complain. ---That is
+because you\'re isolated from your sisters by your selfishness, and
+because you do not come closer to God" (J. Escrivá, *Furrow*, Point
+709).
+
+You could say, 'Wow, I\'ve given up this and I\'ve given up that, and
+I\'ve done this and I\'ve done that, I\'m doing okay.' Our Father
+encourages us to do more, to be better. If you want to be more, be
+better.
+
+"You fulfill a demanding plan of life: you rise early, you pray, you
+frequent the sacraments, you work or study a lot, you\'re sober and
+mortified\...but you\'re aware that something is missing!
+
+"Consider this in your conversation with God: since holiness, or the
+struggle to achieve it, is the fullness of charity, you must look again
+at your love of God and your love of others for his sake.
+
+"Then you may discover, hidden in your soul, great defects that you have
+not even been fighting against: you may not be a good daughter, a good
+sister, a good companion, a good friend, or a good colleague. And if you
+love 'your holiness' in a disordered manner, you are envious.
+
+"You 'sacrifice' yourself in many small personal details, and so you are
+attached to yourself, to your own person. Deep down you do not live for
+God or for others, but only for yourself" (J. Escrivá, *Furrow*, Point
+739).
+
+Very demanding and challenging words, but words written for those of us
+who have been around for a while, who have put up with the heat of the
+day. Our Father holds that goal of complete self-emptying before us.
+
+"It is impossible to love God with perfection, and at the same time to
+let yourself be ruled by selfishness---or by apathy---when you\'re
+dealing with your neighbor" (*Ibid*., Point 745).
+
+"Your charity must be adapted and tailored to the needs of others\...not
+to yours" (*Ibid*., Point 749).
+
+We could ask Our Lord that we might rise to the challenge of St. Joseph
+with Our Lady, to use these weeks as we prepare for March 19, renewing
+our fidelity and our dedication, that this year, that might be
+characterized by a deeper self-giving, that deeper Yes to whatever it is
+that Our Lord is asking of us.
+
+St. Joseph, may you obtain from Our Lady the grace for us to accomplish
+this task with the quality that Our Lord and our Father are asking from
+each one of us.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*RK*

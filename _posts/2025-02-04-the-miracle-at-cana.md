@@ -1,0 +1,535 @@
+---
+layout: homily
+title: "The Miracle at Cana"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+"On the third day there was a wedding at Cana in Galilee. The Mother of
+Jesus was there, and Jesus and his disciples had also been invited"
+(John 2:1-2).
+
+In another translation it says, "The Mother of Jesus was invited, and
+Jesus and his disciples were also there." It sort of puts it the
+opposite way.
+
+One commentator suggested that Jesus and His disciples had all
+gatecrashed the party, that Our Lady was the one who was really invited.
+
+And we\'re told they ran out of wine since the wine provided for the
+feast had all been used. "The mother of Jesus said to him, 'They have no
+wine.' Jesus said, "Woman, what do you want from me? My hour has not yet
+come'" (John 2:3-4).
+
+This wedding took place in Cana, just a short distance from Nazareth,
+where Our Lady lived. There might have been people who were friends or
+relatives, doing different things, involved in different ways. Our Lady
+could have been very close to them and she could have been helping with
+the preparation of this modest celebration.
+
+It was customary for the women who knew the family to help in the
+preparation of all that was needed for the feast. Possibly she was there
+helping out in this way.
+
+The feast began and, either through lack of foresight or because there
+was an unexpectedly large number of guests, possibly all those
+disciples, the wine ran out. Our Lady, who was helping, realizes that
+the wine is running out.
+
+We see a lot about friendship in this detail of Our Lady. She\'s not
+just there with her sleeves rolled up, saying, 'It\'s my day out, I\'m
+here to have a good time,' concerned with her own enjoyment.
+
+She has a certain antenna, she has a certain eye for how the feast is
+going. She\'s walking in the shoes of the main organizers, she\'s
+watching their back.
+
+This is real friendship. Being concerned about the deeper realities,
+having that sensitivity for the people around us, that they are not hurt
+or offended or let down in any way.
+
+We see the depth of Our Lady\'s friendship and the refinement of her
+friendship---something we could all try to imitate in our own personal
+friends.
+
+She knows that Our Lord has just begun His public life, preaching and
+fulfilling His ministry. She knows this better than anyone else.
+
+And then we\'re told she goes to Him. She\'s going to ask Our Lord to do
+something that she will never ask Him to do again for the rest of her
+life. She asks Him to work a miracle.
+
+Again we see the depth of Our Lady\'s friendship, how far she\'s willing
+to go for her friends. She could have looked for other solutions. She
+could have gone down the road and bought some wine, or she could have
+sent somebody else out, maybe the servants, to do it, but all that would
+have drawn attention to the problem.
+
+But she doesn\'t want to upset the apple cart or embarrass her friends
+in any way. There\'s nothing that she\'s not willing to do. She\'s
+willing to move mountains, she\'s willing to ask for miracles. She\'s
+willing to ask for the great refinement and loyalty of Our Lady.
+
+She goes to Our Lord with great faith and says four simple words, "They
+have no wine." It should be recorded well in history that the one thing
+that the Mother of God asked for at Cana and Galilee was alcohol.
+
+Anyone who tries to tell us that alcohol is wrong, or alcohol is
+bad---we can tell them that the Mother of God asked for alcohol. You
+see, everything that God has created is good.
+
+If men use those things for wrong purposes, then that\'s what makes it
+bad. But we use the good things that God has created to give Him glory,
+to thank Him.
+
+God has created many good things. And if God has created these many good
+things, it\'s because He wants us to use them and to enjoy them, and to
+give Him thanks and glory for those things.
+
+In the offering of these simple words, Our Lady teaches us how to pray.
+She doesn\'t ask Him for anything. She just points to a need.
+
+She points to the need, to the place where the miracle needs to happen.
+Our Lady teaches us that when we go before Our God needing things, we
+just need to point out to Our Lord that this is needed, that is needed,
+and leave the rest to Him.
+
+Her statement is full of confidence, full of peace and serenity. Our
+Lady doesn\'t put her hands on her hips and say, 'Look now, I\'m your
+mother and I\'ve never asked you for anything before in your life, so
+don\'t you dare refuse me, or there\'s going to be trouble around here.'
+
+Our Lady doesn\'t talk like that to her Son. She talks with great
+refinement and great respect, as though she\'s very aware that in some
+ways she\'s out of line.
+
+She asks Him to work a miracle. And she knows that this is way over and
+above and beyond what He's come for. She risks a 'no.' She risks being
+denied.
+
+That's what seems to happen. Our Lord said to her, "Woman, what have you
+to do with me? My hour has not yet come."
+
+The Hebrew word "hour" is very much a loaded word. Our Lord is going to
+use it very much in His Passion. Whenever Our Lord uses the word, it
+refers to the hour of the Redemption.
+
+Later on, after the Last Supper, He\'s going to say, "Now has the hour
+come for the Son of Man to be glorified" (John 12:23). He\'s going to
+say to His Heavenly Father, "Lord, save me from this hour" (*cf*. John
+12:27).
+
+Those are the very deep meanings, very redemptive meanings. But here at
+the very beginning of His public life, Our Lord uses this term.
+
+He doesn\'t address Our Lady as Mom or Mommy or Mother, but "Woman,"
+rather distant. Our Lady comes to Him as His Mother, and He seems to
+remind her that she\'s not just His Mother; she\'s also His creation. He
+created her.
+
+And she\'s asking Him to do something that is out of the natural order,
+way above and beyond what might be expected from her role as a mother,
+to work this very supernatural reality.
+
+It looks as though Our Lord is going to refuse Our Lady what she asked
+for, what she tells Him about. But Our Lady knows the heart of her Son
+very well, and she behaves as though He acceded to her petition
+immediately, as though He said to her, 'OK, fine, it\'s a deal. You just
+go to the servants and tell them these particular words, and I\'ll be
+along shortly, and I\'ll work the miracle.' That\'s, of course, not what
+He said to her.
+
+But Our Lady functions as though that\'s what He said. She goes to the
+servants and says, "Do whatever he tells you" (John 2:5).
+
+In our own personal prayer as we begin this new year, we could try to
+hear those same words of Our Lady telling us whatever it is the Holy
+Spirit is saying to you in your heart and your soul as you look to this
+new year, in your Christian vocation, in your apostolate, in your
+mission, in your professional work, in your family life. Just do
+"whatever he tells you."
+
+Put one foot in front of the other. Be very obedient, very docile. Let
+God work miracles in you and through you, because God wants to work many
+miracles in this world, among our friends---bringing them back to the
+faith, to the sacraments, helping them to discover what this world and
+this life is all about.
+
+But we have to let ourselves be used as instruments to listen to Our
+Father God and see what it is that Our Lord is saying to us at this
+moment in time.
+
+And just like Our Lady was very attentive to the needs of the wedding
+feast, then we know that she\'s all the more attentive to all of our
+needs, more attentive than any of the mothers on this earth have ever
+been or ever could be.
+
+Our Mother is watching out for us in all things. At the Cross, Our Lord
+is also going to use that word, "Woman, behold your child. ... Son,
+behold your mother" (*cf*. John 19:26-27). "Woman..."
+
+He\'s also telling her to do whatever He tells her. Our Lady is always
+looking at us. The miracle takes place because Our Lady interceded. It
+happens only because of Her statement, Her petition. If Our Lady hadn\'t
+said anything, possibly the miracle might never have taken place.
+
+"Why do the prayers of Our Lady have such effectiveness before God? The
+prayers of the saints are prayers of servants, whereas those of Our Lady
+are the prayers of a Mother. It\'s from there that they receive their
+effectiveness and their authoritative character.
+
+"Because the love of Our Lord for His Mother is limitless, she cannot
+ask for anything" or even just \[indicate\] that she needs something
+"without that being heard" (Alphonsus Liguori, *Abbreviated Sermons*).
+
+She goes before Him, and she goes before Him without having been asked.
+The distressed couple don\'t come to her and say, 'Can you go to your
+son and see if he can do something? Get us out of this fix?' It\'s all
+the initiative of Our Lady.
+
+Mary, help us to have that same discretion, that same attentiveness,
+that refinement, not to wait to be asked to do things, but to be
+proactive in our workplace, in our family, in our marriage, in our
+professional work.
+
+St. Alphonsus Liguori says, "Above all, Mary\'s heart, which never fails
+to have pity on the unfortunate, impelled her to take upon herself the
+task of intercessor and to beg her Son for the miracle, even though
+nobody had asked her to. ... If Our Lady acted in this way without being
+asked, how would it have been if they had asked?" (*ibid*.).
+
+What would we not receive if we persist in turning to her again and
+again?
+
+Mother, may I discover you again in a new way in this new year, with a
+greater childlike spirit, so that from the moment I get up in the
+morning to the moment I go to bed at night, I turn to you and ask you
+for all the little things that I need or things that are needed around
+me, or those that my friends or my siblings or acquaintances need.
+
+John Paul II says, "'Virgin most powerful.' This is the name Christian
+piety has given to Our Mother Mary, because her Son is God and cannot
+refuse her anything" (*cf*. John Paul II, Homily, October 21, 1979).
+
+It\'s a rather beautiful title that we address Our Lady in the Litany of
+Our Lady: "Virgin most powerful." There\'s nothing that she can\'t do.
+There\'s no mountain that she can\'t move. There\'s nothing that she
+can\'t obtain from her Son.
+
+She\'s always aware of our spiritual and material needs. She desires
+even more than we do that we wouldn\'t cease imploring her intervention
+before God on our behalf. "Never was it known that anyone who fled your
+protection, implored your help, or sought your intercession was left
+unheeded" (Prayer, *The Memorare*).
+
+Sometimes we are so needy and yet so slow to ask. It may be that we show
+little trust, little patience, when what we ask for seems long in
+coming.
+
+Mother, I should turn to you more frequently. Help me to find you more
+often in my ordinary day.
+
+Look at your image occasionally, to take out my Rosary beads, to
+remember the Angelus, to remember you at the moment I wake up in the
+morning and the moment I go to bed at night. Help me to put more trust
+in my petitions, knowing that you\'ll always obtain for us all that we
+need most.
+
+The Lord says, "If you, evil as you are, know how to give good gifts to
+your children, how much more will your heavenly Father give good things
+to those who ask him?" (Matt. 7:11).
+
+It\'s a beautiful word: "more." Just think back over the last few weeks,
+all that good parents have done to try and give their children the best,
+or Father Christmas or Santa Claus. If parents do things like that, how
+much more will Our Mother in Heaven be willing to gain good things for
+us?
+
+She obtained from her Son wine that was not absolutely necessary. If the
+wine had run out, it wouldn\'t have been the end of the world. But yet,
+in that small thing, she\'s willing to find a solution for all those
+urgent needs that we may have.
+
+St. Josemaría says in *The Forge*, "I want, Lord, to abandon the care of
+all my affairs into your generous hands. Our Mother---your Mother---will
+have let you hear those words, now as in Cana: 'They have none.' I
+believe in you, I hope in you, I love you, Jesus. I want nothing for
+myself; it\'s for them" (Josemaría Escrivá, *The Forge*, Point 807).
+
+Our Lady doesn\'t ask for wine for herself. She doesn\'t say, 'I have no
+wine. My glass is empty. This is why I came here.' She says, "They have
+no wine."
+
+Our Lord will listen to our petitions all the more when we ask things
+for other people. We solve all our own problems by thinking about other
+people.
+
+Our Lord turned the water into wine (John 2:6-10). This very normal,
+ordinary, naturally occurring substance, He turned it into a treasure.
+
+Our work too can be turned into something of great value: when we finish
+our work well, when we pay attention to it, when we fulfill little
+details, when we double-check that it\'s well done.
+
+Our Lord can take this human reality that we try to produce every day
+and lift it up to make it something of great importance. In Cana in
+Galilee, there is shown to Our Lord just one concrete aspect of human
+need---apparently a tiny one, and of little importance. "They have no
+wine." But it has great symbolic value. It\'s coming to the aid of human
+needs.
+
+It means that when we bring those needs in the radius of Christ\'s
+messianic mission and selfific power, great things can happen.
+
+John Paul II says, "Mary places herself between her son and mankind in
+the reality of their wants, needs and sufferings. In her position as
+mother, she puts herself 'in the middle,' that is to say she acts as a
+mediatrix, not as an outsider. ... She knows that in this way, she can
+point out to her Son the needs of mankind, and in fact, she 'has the
+right' to do so" (John Paul II, Encyclical, *Redemptoris Mater*, Point
+21, March 25, 1987).
+
+There is a story told that Our Lord told St. Peter to keep the gates of
+heaven very tightly closed, to be very selective in the people that he
+allowed into heaven, make sure that they have their passport or their
+visa or whatever. And He went away and He came back after some time and
+He found that heaven was full of people.
+
+He went to St. Peter and said, 'I thought I told you to be very
+selective in who you allowed in, to keep the gates tightly closed.' St.
+Peter said, 'Yes Lord, that\'s what I did. Every time I closed the
+gates, your mother keeps opening the windows.' Our Lady is there
+interceding for people.
+
+Our Lady said to the servants, "Do whatever he tells you" (John 2:5).
+And they obeyed readily and efficiently. They filled "six stone jars
+standing there for the Jewish rites of purification," as Our Lord had
+told them to (John 2:6-7).
+
+They obeyed readily and efficiently. They didn\'t know that a great
+miracle was going to take place. They didn\'t know the greatness of the
+task that they were involved in. They were just human instruments, just
+doing what they were told.
+
+Sometimes in life and in society we are just like those simple, humble
+instruments. But it\'s very important that we do what we are told.
+
+We try to listen to what the Church tells us, or what we are told in
+Confession, in spiritual direction, or what the Holy Spirit says to us
+in our spiritual reading or in our prayer, so that we make sure we do
+whatever we are told.
+
+Sometimes it\'s very simple. Sometimes it can be very important. St.
+John points out that "they filled them to the brim." They don\'t just
+half-fill them or do them any old way.
+
+It\'s a message that when we fulfill our professional tasks, we also
+have to try and "fulfill them to the brim," to go the extra mile, to
+take care of our service orientation, because all professional work is a
+service, taking care of our clients, our customers, our students, and
+double-checking that the problems are solved.
+
+That teacher that I mentioned in the last meditation, who, after his
+death in the last few weeks, all sorts of beautiful things have been
+written about him---you can certainly say that in his professional work
+as a teacher with each student, he "filled them to the brim," fulfilled
+his professional tasks in a very loving and attentive way, a very
+professional way.
+
+"The Lord says to them, 'Now draw some out and take it to the steward of
+the feast'" (John 2:8). And the wine is better than any other wine that
+the men have ever drunk, so much so that the \[steward\] says, "You have
+kept the best wine until now" (John 2:10).
+
+Normally people give the best wine in the beginning, and when everybody
+has drunk a lot, they bring out the second-rate stuff, but "you have
+kept the best wine until now."
+
+Our lives, perhaps like the water, were flat. They were without the
+ferment of purpose until Our Lord came into our life. And we see this
+great transforming effect in our life, in our work, in our sorrows, and
+in our joys. Even death is different beside Christ. He changes
+everything, turns the water into wine.
+
+Our Lord does want us to carry out our duties right up to the top, to
+the brim, finishing things off well so that He can work a miracle. He
+may be depending on that human effort, on that concern, on that care for
+detail, on the things we do, on fulfilling our duties, to work the
+miracles.
+
+And those miracles may be miracles in souls, in minds, in hearts. They
+may be miracles that will transform the whole of society.
+
+If everybody in the whole of society, in schools, hospitals, homes,
+universities, factories, were to do everything with human perfection and
+a Christian spirit, then we might find a completely different world. Our
+Lord will turn our efforts and our work, which otherwise might remain
+supernaturally sterile, into the most exquisite of wines.
+
+And if we start this new year, we can have a great faith and trust in
+God, and optimism. He\'s going to do all of this with our human
+cooperation, and then the world can be a wedding feast, a more worthy
+dwelling place for mankind in which the presence of Jesus and Mary will
+imprint a special delight.
+
+We\'re all called to the eternal wedding feast. John Paul II liked to
+say that marriage in this world is a preparation for marriage in the
+next. If something goes wrong in this world, in our marriage, it can be
+a preparation for marriage in the next, the Cross. Some of that eternal
+wedding feast---God wants us to savor a little bit of it here.
+
+Our Lord says, "Fill the jars with water" (John 2:7). We shouldn\'t let
+routine, our impatience, our laziness, cause us to only half-fulfill our
+daily duties. St. Josemaría used to teach that "every little act that we
+do can be done with love" (J. Escrivá, *The Way*, Point 813). Opening a
+door, closing a window. "A little act, done for love, is worth so much!"
+(J. Escrivá, *The Way*, Point 814).
+
+Our Lord also could have performed a miracle with empty jars. He didn\'t
+need the jars to be filled, or He didn\'t need them to be filled to the
+brim.
+
+But He wanted men to cooperate. He wanted the cooperation of those
+servants. In the same way He wants our cooperation to work all the
+miracles that He wants to work in the world, He wanted them to cooperate
+with their effort, with all the means that they have.
+
+Lord, teach me to use all the human things that you\'ve given me in my
+work, in my home, the transmission of virtues to other people. Help me
+to use all the means so that you can work the great miracles that you
+want to work in me and through me, even when it might seem that the
+means are very paltry, very few, very insufficient.
+
+While all this is happening, Our Lady just says to the servants, "Do
+whatever he tells you" (John 2:5). And then, you get the impression she
+goes back to her place with peace and serenity.
+
+She\'s not turning her head every five minutes to see if Jesus has gone
+to the servants, or to see if the jars are full, or to see if something
+is happening as a fruit of all of her actions and efforts.
+
+She\'s not frustrated, anxious, nervous. She\'s peaceful, serene,
+abandoned, carrying on with the duty of the feast as though nothing was
+wrong, as though nobody knows what\'s taking place under the table.
+
+We could also think in this parable of the generosity of Our Lord. He
+also always gives us more than we ask Him for.
+
+If you look back over the last twelve months, all the graces that God
+has given to you in your life, spiritual graces, help in your
+professional work, things that are worked out, our health, our ability
+to see, to hear, to solve problems, new things we have learned in the
+course of the last twelve months, and in particular, He grants us these
+things when we ask for them through Our Lady. She takes it upon herself
+to unravel our prayers.
+
+There was a parish priest once who saw a little four-year-old girl
+coming in to pray in the church beside her kindergarten school.
+
+Every day at a certain break time, she stood in front of the image of
+Our Lady and her lips were moving. He noticed this little four-year-old
+and her lips moving, and he got very curious.
+
+After a while he went to her and said, "What prayers do you say to Our
+Lady?" He was a bit surprised that this little girl would know any
+prayers.
+
+And she said, "Oh, I don\'t know any prayers. So I just come here and I
+recite the alphabet. And I tell Our Lady, 'You arrange the letters in
+the way that you want.'" And that was her prayer.
+
+She let Our Lady unravel her prayers. We can let Our Lady unravel our
+petitions if they\'re somewhat tangled up. Very often, that\'s what
+mothers do; they undo the knots or they undo the tangles. They solve the
+problems.
+
+Our Lady grants us, through her Son, much more than we ask for, just as
+He did at the wedding feast at Cana. It was a super-abundance.
+
+We can have great confidence that Our Lord is going to allow us to
+participate also in that super abundance. We might not see it at this
+particular moment in time. But when time passes, we look back over a
+year, over ten years, we begin to realize all the things that God has
+done in our life, the miracles He\'s worked, how I happen to be in this
+particular place at this particular point in time, a whole series of
+coincidences that worked out. This is just the grace of God working in
+our life.
+
+An ordinary wine would have been enough, even an inferior one to the one
+that had already been served, and possibly a much smaller quantity would
+have been sufficient. But Our Lord really outdoes Himself in generosity.
+
+St. John is particularly interested in emphasizing that it was a matter
+of "six stone jars...each holding twenty or thirty gallons" (John 2:6).
+It\'s an awful lot of wine.
+
+He wants to show how abundant the gift was, just as when He tells us
+about the miracle of the loaves and the fishes. There were twelve
+baskets filled with the fragments that were left over. It was a
+superabundance (John 6:12-13). It was the best wine.
+
+Our Lord wants to live in our lives and gives us more and better than we
+deserve, because also, He wants to demand more from us. "Those to whom
+much has been given, much will be demanded" (Luke 12:48).
+
+We begin to appreciate the gifts that God has given to us. We can come
+to realize, 'Maybe I\'m one of those people to whom God "has given five
+talents" (Matt. 25:14-30).
+
+So I better take care. I better make sure that I render "five talents
+more" and set about it as one of the goals of my life, to learn new
+things, to be a better instrument, to be more holy, to be more in the
+state of grace, so that Our Lord can use me as a better instrument.
+
+The Book of Isaiah says, "You shall be a crown of beauty in the hand of
+the Lord, and a royal diadem in the hand of your God. You shall no more
+be termed 'Forsaken,' and your land shall be no more termed 'Desolate.'
+But you shall be called, 'My delight is in her' and your land,
+'Married'; for the Lord delights in you and your land shall be married.
+
+"For as a young man marries a virgin, so shall your sons marry you, and
+as the bridegroom rejoices over the bride, so shall your God rejoice
+over you" (Isa. 62:3-5).
+
+It\'s the joy, the intimacy, that God wants to have with each one of us.
+We can be sure in our spiritual life in this coming year when Our Lord
+has many little miracles that He wants to work, our progress in virtue,
+our deeper desires for personal holiness, our apostolic vision as we
+look around us and see the fishing that God wants us to do. And all that
+has to start with a new intimacy with Him.
+
+Those first disciples that were with Our Lord on this occasion, and St.
+John was one of them---they were amazed. Amazed enough for John to
+include all the details of this miracle in his Gospel: the first miracle
+that Our Lord was to work.
+
+This miracle helped them to take a step forward in their newly-found
+faith. Our Lord confirms them in their faith as He does with each one of
+us who follow Him.
+
+Those words of Our Lady, the last words that she said in the whole of
+the Gospel: "Do whatever he tells you"---there could be no better words,
+no more profitable advice. that Our Lady could give to each one of us.
+
+Mary, may you help us also, always to be doing whatever He tells us.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*MVF*
