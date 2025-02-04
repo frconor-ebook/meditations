@@ -13,7 +13,7 @@ plugins:
 
 # Include an exclude
 include:
-  - "_data/"
+  - "data/"
 
 exclude:
   - "Gemfile"
@@ -37,6 +37,6 @@ defaults:
     values:
       layout: "page"
   - scope:
-      path: "_data" # Apply these settings to files in _data
+      path: "data" # Apply these settings to files in _data
     values:
       sitemap: false  # Exclude data files from sitemap (optional but recommended)
