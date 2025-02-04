@@ -1,0 +1,545 @@
+---
+layout: homily
+title: "Fraternity in the Work"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+We\'re told in St. John, "I give you a new commandment: Love one
+another. You must love one another just as I have loved you" (John
+13:34).
+
+This is a meditation about fraternity.
+
+Our Father used to say that the spirit of charity, of love, of family
+life is something that has to permeate into every last corner of the
+home of every supernumerary and associate. It\'s the spirit of the house
+of Nazareth that we have to live in all our centers.
+
+At a time of economic difficulty in Rome in the early 1950s, somebody
+said to our Father in a get-together, "Father, maybe I could go to
+Alaska, and in Alaska, I might find a pot of gold."
+
+Our Father replied, "A pot of gold is something we find in each one of
+our centers." It\'s the spirit of charity that is lived.
+
+This is the proof of love, that He laid down His life for us. We too
+also "lay down our life for our brothers," says St. John (1 John 3:16).
+
+"Love consists in this. It is not that we loved God, but God loved us
+and sent His Son to expiate our sins" (1 John 4:10).
+
+Don Álvaro told us in a get-together once how he was working with our
+Father, and our Father noticed that Don Álvaro\'s glasses were dirty.
+And so, our Father said, "Give me those glasses." Our Father took his
+glasses and he cleaned them.
+
+This happened another time. Don Álvaro said, "I noticed that our Father
+liked to clean my glasses. So on purpose, I didn\'t clean my glasses so
+that our Father would clean them for me."
+
+He said this went on for some time until one day, our Father said, "You
+know it\'s lucky for you that I clean your glasses, because if it
+wasn\'t for me, nobody else would do it. But I\'m not going to do it
+anymore." So that was the end of the glass-cleaning saga.
+
+Fraternity and charity mean we\'re willing to do anything for anybody.
+We have a spirit of service. We think with our hearts.
+
+One time, I think it was Don Salvador Canals who was sick in hospital
+with cancer. Our Father was going to see him, and he knew that this son
+of his liked dried fruits.
+
+He asked some people there in Villa Tevere to go and buy some dried
+fruits. They went and bought the smallest little box of dried fruits
+that you could imagine.
+
+When our Father saw it, he said, "I can\'t go and visit this son of mine
+with such a tiny little box of dried fruits."
+
+So, he said, "I know what I will do. I will ask my daughters to go and
+buy a box of dried fruits." So, they went out and they bought this huge
+box of dried fruits. It was nicely done up and it had a nice bow.
+
+Our Father was very happy. "This is what I need to bring to my son." He
+went along then to visit Don Salvador with this box of dried fruits.
+
+Salvador opened them and he began to eat them and to taste them, and our
+Father commented later on the joy that he had in his heart, seeing this
+son of his, tucking into and enjoying those dried fruits.
+
+He said, "What a fool I would have been to have brought that tiny little
+box instead of the much better big one."
+
+Our Father knew how to make people happy. He thought twice. He had that
+sensitivity. He was aware of the little details that were important in
+living that fraternity.
+
+One time, our Father met somebody coming along a corridor in Villa
+Tevere, and our Father always noticed things very quickly---when
+something was wrong, or somebody wasn\'t well.
+
+The guy was a bit pale. He was a big burly fellow from Bilbao someplace.
+
+Our Father said, "My son, what\'s the matter?" He explained, "You see,
+Father, I\'m on the first sitting for breakfast early in the morning. We
+have this Italian breakfast, which is very light, but I\'m on the second
+sitting for lunch, which is at two. By one o\'clock, I get these pains
+in my stomach."
+
+When our Father heard that it was just hunger pains, he was less
+worried. He told him to "offer it up, offer it up."
+
+Then the following day, our Father appeared in the office where this
+fellow worked in Villa Tevere with a big box of sweets and said, "My
+son, you know that in Opus Dei we don\'t give each other presents. But
+I\'m the founder and the president general and I can do whatever I like.
+So, you put this box of sweets in your bottom right-hand drawer, and
+every day when it comes to one o\'clock, you take a few of these and
+that will tide you over until two, to lunchtime."
+
+So that was our Father---always attentive to the details, the small
+things, helping people to have a good time.
+
+In the first June 26 Mass that I attended in Dublin in 1975, in a
+residence of the Work, not a very big auditorium, maybe 30 people were
+there.
+
+We had put a notice in the newspaper. This was a public Mass. We felt we
+had arrived.
+
+But I remember in the homily, the priest said how they had had a very
+good time when they were in Rome with our Father.
+
+He said, "Our Father helped all of us to have a jolly good time." I
+remember thinking, That sounds a bit incongruous. It\'s not very
+supernatural.
+
+I still remember this sixty years later. I don\'t remember anything else
+about the homily, but I do remember that remark, because I thought it
+was out of place.
+
+But then as I grew to know more about the spirit of the Work, I realized
+that really, that was a great compliment. "Our Father helped all of us
+to have a jolly good time."
+
+Part of our role in the Work is to help our brothers to be happy, to
+make their life of struggle for sanctity easier.
+
+Our Father used to say none of us have a vocation to make the lives of
+the others difficult, and we make that life easier in many ways:
+
+First of all, by praying for our brothers every day, every week, in the
+Mass, in various places, in all sorts of things that we may be doing.
+
+We try to be attentive to those things. We see what they need.
+
+We have a special day on guard because we remember each one of them in a
+special way. This is an important duty of fraternity.
+
+We help them also in concrete ways when we\'re with them, when we see
+them, when we know about, maybe, little difficulties that they have.
+
+St. Paul says, "Let each one carry the burdens of the other" (Gal. 6:2).
+
+We often solve all our problems by thinking about the others---living
+their life, walking in their shoes. All those sorts of things come to be
+very important.
+
+The way that we make our brothers happy can vary enormously. I remember
+on an annual course at the start of a class once, at nine o\'clock in
+the morning, the Regional Vicar, who had been in the army, came into the
+room and did a cartwheel across the floor.
+
+He was 50 plus. We were a bit surprised---the Regional Vicar doing a
+cartwheel across the floor.
+
+When he bounced onto his feet again, he said, "I thought you all needed
+a bit of cheering up this morning."
+
+It\'s not every day that the Regional Vicar does a cartwheel across the
+floor in front of us. But it was an interesting gesture of doing
+whatever is necessary to make our brothers happy, and to make their life
+of holiness in the Work and in the world easier.
+
+St. Paul says to the Colossians, "As the chosen of God then, the holy
+people whom he loves, you are to be clothed in heartfelt compassion, in
+generosity and humility, gentleness and patience. Bear with one another.
+Forgive each other if one of you has a complaint against another. The
+Lord has forgiven you. Now you must do the same" (Col. 3:12-13).
+
+I remember talking to a supernumerary in another country who was
+preparing to go for a seminar. He told me, "You know, I really look
+forward to my seminar, because I love to be in the company of my
+brothers."
+
+I thought it was a rather beautiful statement, a very good spirit and
+disposition to have.
+
+'I love to be with people who belong to the same family, who think the
+same way I do, whom I know love me and look after me in all sorts of
+ways, humanly and spiritually.' It was a very beautiful thing to say.
+
+Hopefully, we have the same spirit, whereby we look forward to the means
+of formation when we are going to be together with others.
+
+We have a special duty to be the good shepherd of our brothers. "I am
+the good shepherd. The good shepherd lays down his life for his sheep"
+(John 10:11).
+
+That means we pray for them, we think about them, we help them.
+
+Fraternity could be defined as the permanent disposition in the material
+and in the spiritual, of looking for what is good for our brothers.
+
+Permanent disposition. It doesn\'t depend on the weather, or our
+hormones, or how we slept last night, or how our own business is going,
+or a whole pile of other things, our age. "Permanent disposition in the
+material and in the spiritual."
+
+There is nothing too small or too big that we shouldn\'t be ready to do
+for our brothers, because that\'s what being family means.
+
+Ultimately, we want the best for them. The best is heaven, salvation,
+fidelity.
+
+That\'s one of the reasons then why we try to help them with fraternal
+correction. Fraternal correction is the greatest act of supernatural
+affection that any of our brothers can practice with us.
+
+It\'s a sign we\'re not alone. It\'s a sign that we form part of the
+family. It\'s a sign that we\'re loved, that our brothers love us and
+they want the best for us---the best, which is sanctity, which is
+heaven.
+
+And so, whenever we have to give or receive a fraternal correction, it
+can be very good to go through those ideas a little bit---the greatest
+act of supernatural affection that this brother can practice with me, or
+I can practice with him; a sign that I\'m not alone; I\'m part of the
+family. People love me, they care for me.
+
+The spirit of fraternity doesn\'t come with the breeze. It\'s something
+we have to fight for. It\'s a great wealth, humanly and supernaturally.
+The pot of gold.
+
+Each of us has to think: What can I contribute? What can I give? How can
+I help my brothers in this particular group?
+
+Bringing them to my prayer. Helping them with my example. Watching out
+for them in all sorts of ways.
+
+There may be things that you may see in the life of your brother that
+nobody else will see. If you go to Mass one day in your parish church
+and you find your supernumerary brother turns up in his jogging attire,
+maybe the only person that will see that is you. Maybe he\'s using that
+occasion to jog to Mass and jog home again, but perhaps that\'s not the
+best attire to attend Mass.
+
+Or you may come to know something in his professional life, in business,
+where you could help him with, that maybe, nobody else has seen or
+heard.
+
+God has placed us in the life of our brothers to see things, to help
+them with things, always passing this through the grace of state of the
+director.
+
+Fraternity means being thoughtful. Considering the feelings of others.
+Being present. Being positive.
+
+Our Father talked about putting our hearts on the ground so that other
+people can walk easier. Having a spirit of service. Thinking: What can I
+contribute? That phrase, that question, helps us to be more effective in
+our fraternity.
+
+There may be all sorts of ways that we can help our brothers with our
+prayer, materially, in their apostolate, helping them to know the spirit
+of the Work, to live it the way our Father gave it to us.
+
+I remember a supernumerary at a seminar once. After a number of years,
+he was learning how to give a Circle, because he had been giving
+Circles, but not exactly the way that our Father meant them to be given.
+
+He would give a Circle to his friend over lunch, and they would say the
+first opening prayer before the soup. Then they would have the soup, and
+then they would have the Gospel commentary.
+
+After that, they would have the main course, and then they would have
+the talk. Later on, after coffee, they would have the examination of
+conscience. And so, the Circle was punctuated with lunch.
+
+He learned that was not the way that the Circle was meant to be given.
+
+Sometimes, it takes time for us to learn exactly the way our Father has
+given us things, and to grow then in our vocation and in the spirit that
+God has given to us, and to help it yield abundant fruit.
+
+Each of our brothers is worth all the blood of Christ. If ever we find
+somebody a bit more difficult to get on with---and it\'s logical, in any
+group of people there will be some that we find easy and some that we
+don\'t find so easy---but if we find people difficult to live on a
+natural plane, then we move on to the supernatural:
+
+Christ died for this person. This person is worth all the blood of
+Christ. I need to pray a little bit more for that person.
+
+I heard a story once of how somebody remarked with our Father, that he
+seemed to be paying particular attention to one particular person in the
+center, in the get-together there in Rome.
+
+The person remarked on this, maybe in the chat or something, and he was
+told to note that our Father finds that person a little bit more
+difficult.
+
+Our Father went out of his way to practice charity with that person.
+Authentic affection.
+
+We know that in the Work we don\'t have particular friendships. We try
+to be friends with everybody.
+
+One time I was looking after the door of the garage in Villa Tevere. Don
+Álvaro used to go in and out every couple of days.
+
+The idea was that you would open the garage door when he was already in
+the car with the *custodes* so that they don\'t waste any time. They
+open the garage door, and then they leave, and then you close it again.
+There was good use of time there, and also, ideas of security.
+
+But one time they came down to the garage, Don Álvaro and the
+*custodes*, and they didn\'t get into the car. They were standing around
+talking, obviously waiting for somebody else.
+
+I was over at the door of the garage, waiting for them to get into the
+car. Don Álvaro noticed that I was there, and I was alone.
+
+And so, he left the *custodes*, Don Joaquín and Javier, and came over to
+talk to me. It was only a matter of a couple of minutes; it was no big
+deal.
+
+But it was enormously eloquent. He left the *custodes*, and I presume
+they weren\'t talking about Manchester United.
+
+He came over and asked me, How are things? Did I have news? Etc. etc.
+
+He saw somebody who might have been alone, or wasn\'t alone but who
+might have been alone, or might have felt alone. And so, he immediately
+left what he was doing and came over to fill that gap.
+
+We could try and bring that spirit with us wherever we are. Our Father
+had a horror that anybody in our family might feel alone.
+
+It\'s very good that we learn how to relax with other people. We see
+their positive strengths and their talents. We appreciate them.
+
+We pass our affection for them through the heart of Christ. We try to
+love all our brothers equally. We give ourselves for them, and we help
+them to feel the family.
+
+Everybody at a certain stage in their life needs to feel the family. In
+moments of difficulty, of trial, of pain, of sorrow, we have to be there
+for our brothers---to know those words and gestures which only those who
+love know are important.
+
+Our Father wanted us in particular to take very good care of the sick.
+Sometimes when we go to visit the sick, we don\'t have to say anything.
+Sometimes you can kill people with conversation.
+
+But often, what people appreciate most is just our silent presence; or
+helping them to do a norm, accompanying them for the prayer, or reading
+for them, or saying the Rosary with them. That sends a message that this
+is what\'s important.
+
+St. John says, "My dear friends, let us love one another, since love is
+from God, and everyone who loves is a child of God and knows God" (1
+John 4:7).
+
+See, "God is love" (1 John 4:8). The Church is love. Christianity is
+love. The spirit of Opus Dei is love. We are called to practice that
+love, to put it into practice in a concrete way every day, every hour.
+
+Our Lord said, "I have given you an example, so that you may copy what I
+have done to you" (cf. John 13:15). This was when He had washed the feet
+(John 13:12).
+
+Often the most valuable gift we can give to others is our good
+example---our example of taking the economic burden of Opus Dei on our
+shoulders; living our vocation in that respect; feeling totally
+responsible for the conference centers and for all the apostolic work
+all over the world; helping the Father to carry that burden.
+
+We can show our love in concrete ways in doing that, thinking with the
+mind of our Father and realizing: This is the will of God for me. This
+is where I find my joy, my peace, my fulfillment.
+
+We can also thank God very much for our brothers, the people we meet in
+our Circle every week. If we were there on our own, it might be a little
+more difficult. We are surrounded by other people.
+
+Sometimes fraternity means we have to go the extra mile in small things,
+serving them in little ways; helping our brothers out in small things;
+giving them a little bit of encouragement or help, because sometimes,
+professional work or other difficulties can be discouraging.
+
+Everybody needs that affection of encouragement. There is nobody in Opus
+Dei that doesn\'t need affection.
+
+Sometimes when we are together with them, it can mean that we talk at
+the get-together. We try and bring apostolic anecdotes. We help people
+to see that I am thinking of the apostolate. I am working on my
+apostolate.
+
+That\'s why we come together. That\'s why we have centers.
+
+Sometimes fraternity can mean listening in the get-together. It's a real
+compliment to listen to others, to digest; not to talk at the same time;
+and all the time, to help people to understand and to know that our
+family has standards.
+
+We try and maintain those standards, so that we pass on to those who
+come after us the spirit that God has given to us. If we don\'t madly
+love our brothers, then it may be that we are madly in love with
+ourselves.
+
+The Good Shepherd takes care and thinks of the sheep day and night. We
+have to think of our brothers 24/7, counting the sheep, helping our
+centers to have the human tone.
+
+Human tone doesn\'t come from the furniture, or cups and saucers, but
+from charity. Often, manners are charity.
+
+We have to love with real thoughts, care, concern---if possible, not
+waiting to be asked for something, but knowing in advance what people
+need.
+
+Or, if they have some little problem or difficulty, or something they
+need help with---being there for people in the right moments.
+
+I remember in a talk, many years ago, hearing a director of a commission
+say, "Those of you who learn to serve your brothers will be happy and
+persevering in Opus Dei." Those of you who learn to serve your brothers
+will be happy and persevering in Opus Dei.
+
+Holiness is measured by love. Sanctity is love.
+
+Our Father talked about the first proselytism. First proselytism means
+that we first and foremost take care of our brothers.
+
+If we were to be super-enthused about doing apostolate with the whole
+world, but we neglect the brothers that God has placed beside us, that
+would be a disorder.
+
+So good example is a great contribution. Fidelity to our norms. We show
+others in that way what\'s really important.
+
+We can ask Our Lord for the grace to be a better brother to those around
+us; discover new ways of living that better fraternity, perhaps through
+humility, or generosity, or patience, or cheerfulness, or a spirit of
+service.
+
+Each of our brothers is a treasure that we have to look after. So, our
+brothers come first.
+
+Sometimes our Father liked to say that we have to love other people with
+their defects. The people God has placed around us are not just one big
+defect. Sometimes the devil can blind us.
+
+We have to have a heart to see the talents, the noble ideals, that other
+people nurture in their hearts.
+
+We live with some of the greatest people on the planet who have given
+themselves completely---wonderful people with wonderful ideals who are
+striving to be saints, even though they may be sinners.
+
+That\'s a little bit of what was behind that comment of that
+supernumerary who said, "I love to be in the company of my brothers."
+
+It\'s like saying, I love to be in the company of these great people.
+It\'s so different. It\'s so wonderful. It\'s so encouraging, their
+positive dispositions, the great things they\'re trying to achieve in
+society, in the world.
+
+We can thank God for the brothers that he\'s given to us. Love them in
+the way that God wants us to love them.
+
+Family life is not just a fact of living under the same roof or sharing
+that same roof occasionally, but rather a bond that makes us feel one.
+
+Love must be effective. It has to be demonstrative. It has to be shown
+with deeds of service. You can\'t say, "You know, I love everybody, but
+just, I don\'t show it. I\'m not that type of person."
+
+But then it\'s not charity. It has to be shown in concrete deeds. We
+give good example with our perseverance.
+
+Service itself is not love. Service without love is worth nothing.
+
+St. Paul says, "Though I should give away to the poor all that I
+possess, and even give up my body to be burned, if I am without love, it
+will do me no good whatever" (1 Cor. 13:3).
+
+We try to love others, not because of what they do, but because of what
+they are. It doesn\'t depend on their job, or their intelligence, or
+their jokes, or their sport, or their genius---just what they are.
+
+It\'s not a virtue to practice by rules or conventions, but by the ear,
+like a musician, picking up the little notes here and there.
+
+Fraternity is not among the *norms of always*, but it should be present
+in everything.
+
+We can ask the Holy Spirit that our interactions should be as they
+should be, what is proper.
+
+Our Lady went to Jesus and said, "They have no wine" (John 2:1-11). She
+was attentive. She pointed out to Jesus where the miracle was needed.
+Sometimes that\'s our role in fraternity.
+
+Our Father liked to say, "as a deck of cards sometimes support each
+other." We\'re a bit like those cards: we\'re nothing, but that
+togetherness can give great strength.
+
+Our Lord showed great patience with the people around Him.
+
+Patience with the Pharisees.
+
+Patience with the people of His village who didn\'t recognize Him.
+
+Patience with His accusers.
+
+Patience with the soldier who slapped His face.
+
+Patience with the murderers.
+
+Our Lord was always showing patience, one of the concrete ways that we
+practice fraternity.
+
+Sometimes we practice a fraternity with our silence. Our Father said,
+"Put a seal on my lips, that I may not lament my sorrows all around me."
+
+Christ was silent on the Cross to a large extent. He was forgiving. He
+was reaching out to others, forgetting about Himself in all sorts of
+ways.
+
+We can ask Our Lady, that she might help us to be that better brother to
+our brothers that she wants us to be, showing that blessed fraternity
+that our Father has passed on to us in all sorts of concrete ways.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*RK*

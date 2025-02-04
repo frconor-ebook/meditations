@@ -1,0 +1,402 @@
+---
+layout: homily
+title: "The Decree of Caesar Augustus and The Journey to Bethlehem"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+**In those days a decree went out from Caesar Augustus that all the
+world should be enrolled. This was the first enrolment when Quirinus was
+Governor of Syria, and all went to be enrolled, each to his own city**
+(Lk 2:1-3)**.**
+
+This decree of Caesar Augustus changed the whole course of human
+history. We could imagine how perhaps Joseph was downtown one day and he
+heard a town crier announcing the decree, or perhaps there was a notice
+stuck up in a tree---whatever the method of communication was in those
+days.
+
+Joseph sees the news and begins to wonder, Well, what does this mean for
+us? Mary is almost nine months pregnant. And now with this decree,
+we\'re asked to each go to his own city.
+
+We can imagine that Joseph begins to consider deeply the consequences of
+this announcement. What is it going to mean for Our Lady, for the child
+to be born, for him?
+
+And ultimately, what is the will of God? Joseph begins to turn over this
+piece of news in his mind.
+
+Like any father of a family, he has to make a big decision. Possibly,
+it\'s going to have many effects and consequences.
+
+All of the time that Joseph gives great consideration to this new
+development, his conversation is prayer. He\'s asking God for light.
+
+It also shows us how, often, the will of God takes time to manifest
+itself. The decisions that God wants us to come to---we don\'t arrive at
+them immediately. In the case of Joseph and Mary, it must have taken
+some time, some prayer, and a lot of consideration.
+
+Maybe Joseph decides, I won\'t tell Our Lady about this until I get it
+all worked out. We see and we could imagine the same protective
+disposition that Joseph has for Our Lady.
+
+Before, we were told he was mindful to put her away privately, not to
+expose her to reproach. So, we could imagine---good, just man that he
+was---that now he has the same approach.
+
+I want to protect Mary from any disturbance, nervousness, discomfort,
+concern, or anxiety. He takes it upon himself to try and find out what
+the will of God is.
+
+Eventually, he gets home and maybe he finds that Our Lady has already
+heard. *Vox populi* has functioned. The rumors have spread around the
+town and Our Lady has heard the news. They sit down to discuss the
+decree of Caesar Augustus.
+
+St. Josemaría in his book, *The Holy Rosary*, invites us to listen to
+their conversation. We hear the traditions of the House of David. All
+the time, the discussions of Mary and Joseph---the questions, the soul
+searching---it\'s all prayer as they ask God for light. They try to
+discern what it is that God is saying to them, speaking through this
+decree of Caesar Augustus.
+
+It also shows us how God\'s plans often work out through civil
+authorities. God works through all His human instruments. But at the
+same time, we know that there is something providential, something
+divine, hidden behind even what may seem the gravest of civil decrees.
+
+**And Joseph also went up from Galilee, from the city of Nazareth to
+Judea, to the city of David, which is called Bethlehem, because he was
+of the house and lineage of David, to be enrolled with Mary, his
+betrothed, who was with child** (Luke 2:4-5)**.**
+
+The whole of Advent is really centered on this sentence of Scripture.
+Joseph went up from Galilee, from Nazareth to Judea. They make their
+decision. They see that it is the will of God for them to travel, in
+spite of the difficulties, in spite of the dangers. Mary could give
+birth on the way. Anything could happen. But they leave themselves
+completely in the hands of God.
+
+This journey to Bethlehem, which we try to relive every Advent, has many
+lessons to teach us. Mary and Joseph place themselves out on that
+journey with great humility, with great acceptance of the will of God.
+
+They\'re like models for every young family, or not so young, that have
+to set out on a journey to which God is calling them. They leave behind
+everything that they have, their plans, their preparations. The nest
+must have been well and truly ready. They leave behind all the relatives
+who could have been support to Our Lady in a difficult moment. All that
+is placed in this great risk of this great journey. It\'s all hanging in
+the balance.
+
+But they go forward with faith, with confidence. We\'re told in
+Scripture, **Unless you become like little children, you cannot enter
+the kingdom of heaven** (Matt 18:3)**.**
+
+The Holy Family gives us this great model of our divine filiation, of
+trust, of abandonment, of looking to the future, of finding God\'s will
+and accepting it, of hoping for the things to come, with optimism and
+enthusiasm, with great detachment from the things of the past.
+
+As they go towards Bethlehem, they\'re looking forward. We can\'t
+imagine them looking back nostalgically over their shoulder and saying,
+What a pity. Everything was looking so good. Everything was prepared,
+and now this great change of plan.
+
+When God works in mysterious ways, we don\'t understand the plans of
+God. His ways are not our ways. *How unsearchable His judgments, how
+inscrutable His ways* (Rom 11:33*).* All these messages come to us from
+this journey.
+
+Artists have liked to depict the Holy Family setting off in a donkey
+into the night. The darkness is there like a symbol of uncertainty. They
+don\'t know what the night is going to bring. The whole journey is like
+a night of darkness.
+
+But yet they\'re journeying forward with their great virtues of faith
+and of hope, and of trust, and of abandonment. While they were there,
+the time came for her to be delivered.
+
+**And she gave birth to her firstborn son and wrapped him in swaddling
+clothes and laid him in a manger because there was no room for them in
+the inn** (Lk 2:7)**.**
+
+It\'s our joy and privilege every Advent to follow them along this
+journey and to learn all the lessons that are there for us to learn.
+
+We see the Holy Family with a great trust in God. And what is trust?
+It\'s an assured reliance on the character, ability, strength, or truth
+of someone or something, one in which confidence is placed.
+
+For a Christian, to trust in God is to place the entirety of one\'s
+existence in His hands. And that\'s why this journey has so much meaning
+for us. They place their entire existence in His hands.
+
+Humanly speaking, it doesn\'t make any sense. It\'s full of dangers,
+it\'s full of risks, it\'s full of uncertainty.
+
+But they contemplate the love of God made man, the Christ Child.
+They\'re aware of who they have and their possessions. They go forward.
+For those who are more serious in their faith and are pursuing a
+contemplative life, God often demands complete trust from the soul.
+
+God often tests them continuously through difficult crucibles. Souls on
+the path of a contemplative never stand still. God is always driving
+them on to greater perfection, greater self-giving, and detachment.
+
+And that\'s what we see when we look in on the journey to Bethlehem. It
+looks very sweet and nice and lovely. But it wasn\'t an easy journey. It
+was full of discomfort. Our Lady on the back of a donkey cannot have
+been too comfortable.
+
+Then St. Joseph was leading the donkey---maybe his feet got tired, maybe
+his legs got tired. But we don\'t find him asking Our Lady to get off
+the donkey for a while and 'let me sit down.' We see them totally
+united.
+
+Somehow, they\'re very silent. Silence can be a great expression of our
+holocaust, of how we accept the will of God. An exterior silence, but
+also an interior silence. God demands this heroic trust on the part of
+both of them.
+
+What are signs of the heroic trust that God may ask of us in our lives?
+
+Well, our patience might be tried for many years. There might be
+continual contradictions.
+
+Our goals and our dreams might often be frustrated.
+
+The innocent may be treated as guilty.
+
+We might have to endure outrageous behavior from evil people. There
+might be opposition from good people.
+
+God may allow the devil to tempt the soul.
+
+We find that on this journey to Bethlehem, quite a few of these things
+were present.
+
+There were continual contradictions. The dreams they had of a nice,
+quiet, peaceful delivery of the Christ Child in their home in Nazareth
+were all shattered. God had other plans. They endured pretty rough
+treatment from the people of Bethlehem.
+
+And possibly before they set out from Nazareth, they took all of these
+things into account. We have no relatives in Bethlehem. Where will we
+stay? Possibly the people of Bethlehem already had a very bad reputation
+for being inhospitable.
+
+We\'re not told these things in Scripture, but it\'s a possibility. They
+had to take all these negative signs into account.
+
+But yet when they saw what the will of God was, they went forward
+generously. There could be a temptation to say, Everything is lost;
+there\'s only failure ahead; we\'re doomed.
+
+But yet often the moments of difficulty are signs of divine
+predilection, that God has chosen this soul in a very special way to
+bear the cross with Him. It's not a moment to despair, but rather, to
+rejoice.
+
+We see the joy of the Holy Family as they go forward along this journey.
+
+Often the devil tries to prevent us from doing certain things, because
+he may see that that thing is extraordinarily powerful. He doesn\'t want
+us to say a rosary. He doesn\'t want us to spend time in prayer. He
+doesn\'t want us to say some little aspiration. He doesn\'t want us to
+accept the cross, because that little act of faith or hope or humility
+is extraordinarily powerful.
+
+Of course, the examples of virtue that we see these days from the Holy
+Family are going to light up the home and the hearts of every family for
+all eternity. It\'s going to be the model for all of us to imitate
+during this journey through Advent.
+
+God wants us to have a supernatural understanding of trust. Later on,
+Our Lord is going to say: You will be hated by all because of my name,
+but not a hair on your head will be destroyed. By your perseverance, you
+will secure your lives. By putting one foot in front of the other, by
+sticking to your task, by focusing on your apostolate, by not giving up,
+not giving in.
+
+There\'s great optimism and enthusiasm in this disposition of Our Lady
+and St. Joseph in facing the difficulties.
+
+Previously when we saw that Our Lady went to visit her cousin Elizabeth,
+we\'re told she went into the hill country. She faced the uphill climbs,
+the mountains, the difficulties. Our Lady is good at these things. St.
+Joseph, also. We can learn from their fortitude and their perseverance.
+They keep on at it.
+
+There may be occasions when Our Lord gives us trying times, when
+trusting in God may seem insane or fruitless, but yet that\'s what God
+wants from us: absolute trust. Total self-giving. Abandonment to divine
+providence.
+
+In the forging of the finest blade, it undergoes a process whereby it\'s
+hammered upon and scorched in fire. It\'s the same with the soul. God
+asks those He loves for extraordinary acts of trust.
+
+There are multiple ends to this forging of trust. There are the virtues
+that Joseph and Mary are putting into practice now, and they\'re going
+to need later when they flee to Egypt, when they remain there, when
+they\'re back in Nazareth, and ultimately when Our Lady is led to the
+foot of the cross.
+
+God wants the soul to rely completely on Him, not on himself. It\'s not
+that relying on oneself is wrong or even sinful.
+
+It\'s just that surrendering to God, completely trusting in Him, reaps
+an extraordinary reward that will be revealed in heaven. God ultimately
+wants a complete abandonment of His will.
+
+We\'re told in *The Forge,* Point 3, "My Father who art in heaven, look
+upon me with compassionate love, and make me respond to your love. Melt
+and enkindle my hardened heart. Burn and purify my unmortified flesh.
+Fill my mind with supernatural light. Make my tongue proclaim the love
+and glory of Christ."
+
+St. Josemaría also says, "Let me not deny you anything you ask of me."
+
+Notice how manly Joseph doesn\'t deny God anything. He\'s ready for
+anything. He\'s up for everything. He\'s like a Messi or a Ronaldo in
+the spiritual life. Total generosity.
+
+"Let me not deny you anything you ask of me. Let me know how to pray.
+Let me know how to suffer. Let me not worry about anything except your
+glory." St. Josemaría, *The Forge*, Point 122).
+
+He says, "We have to learn how to give ourselves, to burn before God
+like the light placed on a lampstand to give light to those who walk in
+darkness, like the sanctuary lamps that burn by the altar, giving off
+light till their last drop is consumed (*The Forge*, Point 44)*.*
+
+St. Joseph gives off an awful lot of light on this journey. Blessed
+Álvaro del Portillo says St. Joseph subordinates everything else to
+carry out his task of watching over Jesus and Mary: his reputation, his
+family ties, the position and prestige acquired through his work, the
+peace and quiet of a well-deserved rest, the stability of his income.
+
+He places all this in the great enterprise of the Incarnation. He holds
+nothing back. Total generosity.
+
+In *The Forge*, Point 751, we\'re told, "Faced with the marvels of God,
+and with our human failures, we have to make this admission: 'You are
+everything to me. Use me as you wish!' Then for you, for us, there will
+be no more loneliness."
+
+Joseph allows himself to be used as God wanted. I could pay a lot of
+attention to Joseph these days.
+
+Forgetting about ourselves. My Christmas doesn\'t mean anything. I\'m
+here to imitate Joseph and forget all about myself, to make an
+unconditional self-giving, to occupy myself day by day, hour by hour,
+with my spouse, with my children, with my extended family. Forgetting
+all about my pleasures, material and spiritual.
+
+Asking myself every day, How can I help to make everybody else\'s
+Christmas around me a little more cheerful, a little brighter, a little
+happier? To put a little bit of initiative, time, and energy into
+creating family life and family fun; or to transmitting messages to my
+children that have great spiritual relevance.
+
+Or helping them in some way to see the beauty of these days, the beauty
+that is contained in the virtue of Joseph and the virtue of Mary. By
+imitating those virtues myself.
+
+St. Teresa of Avila says: "Let nothing trouble you, let nothing frighten
+you. Everything passes. God never changes. Patience obtains all. Whoever
+has God wants for nothing. God alone is enough."
+
+At this disposition, Joseph goes forward with great patience in the
+plans of God. It\'s as though he hears Our Lord saying, **Take my yoke
+upon you. ... For my yoke is easy and my burden is light** (Matt
+11:29-30)**.** He accepts the will of God.
+
+Trust is very often expressed through patience; giving the plans of God
+time to work themselves out.
+
+When Joseph gets to Bethlehem, they find all the doors are shut. The
+crucible takes on a new pattern. They\'re tired, they\'re weary,
+they\'ve come a long journey.
+
+They put a lot of trust and abandonment in God. Now it seems that
+everything might have been in vain. *Experiencing spiritual difficulty
+can be a sign of an advanced soul.* Yet on earth, it is often seen as
+the opposite. Things never went easy for Christ and the people close to
+Him.
+
+We could try to understand that when things get difficult, it\'s the
+very moment when a person can advance in the greatest way. When the
+world seems to tell us that everything is lost, very often that\'s the
+moment when all is one. It\'s the best moment to trust in God.
+
+Trusting in God along with faith is one of the highest acts of the will.
+We can ask Our Lord for the grace to see the world through His eyes.
+
+*It can often take a lifetime for God\'s will to unfold,* for the
+providence in certain events to be seen. The best way to practice trust
+in God is often through adversity. That\'s when we grow the most.
+
+This calls for patience. We see that patience and trust of Our Lady in
+spite of the difficult things.
+
+St. Thomas More was able to write to his daughter from prison when he
+was facing the death sentence. He said, "Keep then your spirits high, my
+daughter, and don\'t worry about me, no matter what happens in this
+world. Nothing can happen to me that God doesn\'t want. And all that he
+wants, no matter how bad it may appear to us, is really for the best."
+
+When there was no room at the inn, it looked like all was lost. But yet
+this is the moment when Joseph comes into his own.
+
+In that homily *In Joseph\'s Workshop*, St. Josemaría says, "St. Joseph
+faced up to difficult situations, dealt with difficult problems. He was
+in no way shy or frightened of life. He showed initiative and
+responsibility in everything he was asked to do."
+
+Joseph was a problem solver. When there was no room at the inn, he
+looked for a solution. The will of God must be that there\'s something
+else hidden here, a hidden divine treasure. And he begins to look for
+that treasure, and he finds the stable. And with his work and with his
+virtue, he converts that place into a focal point of family warmth for
+the whole of eternity.
+
+We see that the whole journey, all the acts of virtue, of faith, of
+abandonment, of trust, were all part of God\'s plan. Providence was
+working itself out through every step of the journey.
+
+In our prayer these days, we could ask Our Lady for the grace to go a
+little deeper into the hearts and minds of Joseph and Mary as they go
+along their journey, so that we can also walk along that pathway, all
+the time, like they were, focused on the Christ Child.
+
+It was all worthwhile, in spite of the difficulties. It was a journey of
+joy because they had everything that mattered.
+
+Mary, as we go through these days and hours of Advent, help us to have
+that same spirit of recollection that you and Joseph had on your journey
+to Bethlehem.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*\
+\
+*EW*

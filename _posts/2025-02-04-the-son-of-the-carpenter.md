@@ -1,0 +1,362 @@
+---
+layout: homily
+title: "The Son of the Carpenter"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+"Leaving that district, he went to his hometown, and his disciples
+accompanied him. With the coming of the Sabbath, he began teaching in
+the synagogue, and most of them were astonished when they heard him.
+They said, 'Where did this man get all this? What is this wisdom that
+has been granted him? And these miracles that are worked through him?
+This is the carpenter, surely, the son of Mary, the brother of James and
+Joseph and Jude and Simon?'" (Mark 6:1-3).
+
+After some time, Our Lord returned to His own hometown of Nazareth with
+His disciples. Our Lady would have greeted Him with great joy. Possibly
+it was the first time that His followers had seen the place where He had
+spent His early years.
+
+In Our Lady\'s house, they would have been given the opportunity of
+recovering their strength. You could imagine Our Lady being particularly
+attentive to them and serving them as nobody else had ever done.
+
+In Nazareth everybody knows Our Lord. They know Him by His occupation
+and by the family He belongs to; He\'s the same as anyone else; He\'s
+the carpenter, Mary\'s son. As happens to so many people, Our Lord
+followed the occupation of the man who was His father here on earth.
+That\'s why they call Him "the carpenter\'s son" (Matt 13:55).
+
+He had taken up Joseph\'s trade. Possibly Joseph has already died some
+years previously. His family, watching as it did over the greatest of
+treasures, the Word of God made man, was simply one more family in the
+neighborhood, but one that was loved and appreciated by everybody.
+
+In the Second Vatican Council, in *Gaudium et spes,* it says, "The Word
+made Flesh willed to share in human fellowship. He was present at the
+wedding feast at Cana. He visited the home of Zacchaeus. He sat down to
+dine with publicans and sinners. In revealing the Father's love and
+man\'s sublime calling, He made use of the most ordinary events and
+details of everyday social life, and illustrated his words with
+expressions and imagery drawn from everyday living.
+
+"He sanctified those human ties; above all, the family ties which are
+the normal basis of social structures everywhere. He willingly observed
+the laws of his country and chose to lead the life of an ordinary
+craftsman of his time and place."
+
+Our Lord must have remained at His Mother\'s house for several days. He
+must have visited other relatives and acquaintances.
+
+"And on the Sabbath, He began to teach in the synagogue." The people of
+Nazareth were amazed. A man who made furniture and farm implements, who
+had often repaired such items for them when they broke down, was
+speaking to them with astounding authority and far greater wisdom than
+they had ever heard.
+
+They could only recognize in Him what was human. They could see no more
+than they had observed for thirty years---the most complete normality.
+It was hard for them to discover the Messiah behind such normality as
+this.
+
+Our Lady\'s occupation similarly was that of any other housewife of her
+place and her day. She spoke in the particular manner proper to a
+Galilean woman, and dressed in the same way as the women of that region
+did.
+
+Joseph\'s workshop, which Our Lord had inherited, would be exactly like
+others to be found in those days in Palestine. Possibly it would have
+been the only one in Nazareth. It would have smelt cleanly of sawn and
+planed wood.
+
+Joseph would certainly have charged the usual rates for his work. Maybe
+he made it easier for people who may have had financial worries. But
+being "a just man" (Matt. 1:19), he charged what was fair.
+
+The tasks carried out in that little workshop were those proper to that
+trade. They did a little of everything. Their work might involve
+constructing a beam, making a simple cupboard, mending a crooked table,
+planing down a door which would not close.
+
+They would hardly have made wooden crosses there, as depicted in some
+pious paintings. Who would have placed such an order as that? They
+didn\'t import timber from heaven but had it supplied from the
+neighboring forests.
+
+The inhabitants of Nazareth "took offense at Him" (Mark 6:3). But Our
+Lady would not have done so. She looked on Him with immense love and
+admiration. She understood Him well.
+
+Meditation on this passage of the Gospel, which indirectly reflects Our
+Lord\'s early life in Nazareth, helps us to examine whether our ordinary
+life, filled as a rule with ordinary work and normality, is a way of
+sanctity, as was the life of the Holy Family.
+
+It will be such a way, if we try to live it with human perfection and
+honesty, as well as with faith and a supernatural outlook. These were
+virtues that Joseph would have put into practice in a regular way.
+
+We mustn\'t forget that by remaining where we are and doing our work
+here on earth, we\'re gaining heaven for ourselves, and at the same time
+helping the Church and the whole of mankind.
+
+Our Lord shows that He\'s familiar with the world of work---something He
+would have picked up day in, day out, from the humble, humdrum work of
+Joseph in his workshop. In His preaching He frequently used images,
+parables, and comparisons taken from the occupations, trades, and
+professions engaged in and lived by Himself and His fellow countrymen*.*
+
+José Luis Illanis, in his book *On The Theology of Work,* says "Those
+who hear him understand the language he uses very well. Jesus did His
+work in Nazareth with human perfection, which means finishing it off
+thoroughly, and carrying it out with professional competence. That\'s
+why, when He returns to His hometown, He\'s identified by His trade as
+the carpenter. Today He teaches us the superlative value of ordinary
+life, of work, and of the tasks we have to carry out each day."
+
+If our dispositions are really sincere, God will always grant us the
+supernatural light to imitate Our Lord\'s example, and to learn from
+Joseph, from those ordinary simple things that he did every day.
+
+We will seek not only to accomplish our work well but through it,
+willingly and lovingly, to practice an abundant self-denial and
+sacrifice---part and parcel of giving good service.
+
+Our personal examination of conscience before God and our conversation
+with Him will often turn to those tasks that occupy so much of our time.
+We have to have the courage to consider this matter deeply.
+
+We have to do our work conscientiously, making our time fruitful without
+giving way to laziness. We must sustain our desire to improve our
+professional preparedness each day, to look after the details of our
+daily tasks, to embrace with love the cross and the weariness that each
+day\'s toil brings with it.
+
+Work, any honest work done conscientiously, makes us sharers in Creation
+and co-redeemers with Christ. St. John Paul II, in his encyclical,
+*Laborem exercens,* the Exercise of Work, says, "This truth by which man
+through work participates in the work of God Himself, his Creator, has
+been particularly brought to the fore by Jesus Christ, by that very
+Jesus, before whom many of His first hearers in Nazareth were astonished
+and said, 'Where did this man get all this? How did He come by such
+wisdom?'"
+
+Paul VI says, "The years Jesus spent in Nazareth are an open book where
+we learn to sanctify each day\'s occupation. Even enforced absence from
+work, as through illness, for example\...is a situation willed or
+permitted by God so that we may practice the supernatural and human
+virtues."
+
+St, Paul says to the Colossians, "Whatever you do, in word or deed, do
+everything in the name of the Lord Jesus, giving thanks to God the
+Father through him" (Col. 3:17). We can ask St Joseph to teach us to
+work competently and to co-redeem through our work.
+
+The Book of Proverbs says, "Show me a man who does a good job and I will
+show you a person who is worthy of the company of kings" (Prov 22:29).
+
+One of the goals of our life, of ordinary lay people in the middle of
+the world, should be to be somebody who does a good job and is known for
+doing that good job. Joseph must have been such a person.
+
+The astonishment of Our Lord\'s neighbors in Nazareth---"Is not the
+carpenter\'s son?" (Mark 6:3)---is a revealing detail that throws a
+great deal of light on His life, and also on that of St. Joseph. It
+reveals to us that the greater part of the Redeemer\'s life was taken up
+by work, like the lives of all people.
+
+Our work is not a punishment; it\'s a means that God has given us to
+grow ourselves and also to help the world to develop. The task that Our
+Lord carried out day after day was an instrument of redemption, like all
+of Christ\'s actions.
+
+A lady asked me once, Father, when I turn on my computer, can that be
+redemptive? And the answer is yes. Every little action that we do as
+part of our work that\'s offered to God, that\'s united to the sacrifice
+of the Mass of each day, becomes redemptive; takes on a new value.
+
+Even though it was simple human work, specifically that proper to a
+carpenter in a small town, who would have to do many similar jobs, it
+could be, and was, converted into actions which were of redemptive value
+because they were performed by the Second Person of the Blessed Trinity
+made man.
+
+Through our Baptism, we are called to be another Christ. St. Josemaría
+liked to say that we have to make of each day a Mass, and our work to
+offer ourselves completely.
+
+I heard a man saying once how he was at a board meeting from nine in the
+morning till five in the evening. He was put on the spot many times
+during those hours. It was a very intense day of work. When he came out
+after that day and that meeting, he felt totally exhausted. It felt like
+he\'d never felt so exhausted in the whole of his life.
+
+He remembered those words of St. Josemaría that we have to try and make
+each day of work a Mass. He said he felt like this day had been like a
+Mass.
+
+Everything we do can come to acquire great value. It can turn all honest
+human work into a work of co-redemption. Even though in man\'s
+estimation it might be lowly and unimportant, our work, if it is united
+to Christ, acquires a value beyond compare.
+
+Fulton Sheen used to say that one time in the 1960s he was on his way to
+the Second Vatican Council, and he was standing at a bus stop early one
+morning in Rome. There was a street cleaner who was sweeping the
+streets, and he began to engage him in conversation:
+
+What time did you get up this morning?
+
+Four. What time will you finish your work tonight?
+
+Nine. How many hours will you work today?
+
+Fifteen. What is your philosophy of life?
+
+The street cleaner said, Father, if I push this brush with more love of
+God than the love of God with which you\'re going to the Second Vatican
+Council, then God loves me more. Fulton Sheen said that man was right.
+The value of our work comes not from the type of work that we do, but
+from the love with which we do it.
+
+The very tiredness that any kind of work brings with it, and which is a
+consequence of original sin, takes on a new meaning. What seemed a
+punishment is redeemed by Christ, turned into a mortification which is
+very pleasing to God, which serves to purify us of our own sins, and to
+share in the co-redemption of the whole of mankind with Our Lord.
+
+Joseph would have taken holy pride in his work, doing a good job, and
+finishing things well. Our Lord wants us also to take a similar holy
+pride in whatever it is that we\'re doing.
+
+You\'ll find here the root of the deep difference between human work
+done by a pagan and that done by a Christian, which, as well as being
+properly finished off like any other, is offered in union with Christ.
+
+Union with God, which we seek in our daily work, offering it at the
+start, offering it again when we get distracted, and offering it at the
+end---that\'s how we sanctify our work. It\'ll help us to strengthen our
+resolution to do everything only for the glory of God and the good of
+souls.
+
+*Deo omnis gloria*, all the glory to God. It doesn\'t depend on whether
+things work out well or don\'t work out well. We offer Our Lord that
+effort, that desire.
+
+The prestige which we\'re properly able to enjoy from doing a good job
+will attract the best workers to our side and we\'ll have abundant help
+from heaven to start many other people along the way of an intense
+Christian life, so that their work also comes to mean more to them.
+
+If we act in this way, the sanctification of our work and our effort to
+carry out apostolate in our daily work will run parallel in our lives.
+
+Another key aspect of the sanctification of our work is the
+sanctification of other people around us. We see souls. God has placed
+me here in this particular profession, in this particular office or
+place of work, so that I can be an apostle, a missionary.
+
+This is the role of the ordinary, baptized layperson in the middle of
+the world carrying out their Christian vocation. If we look at our work
+in that way, and if we find that our work is truly a source of souls to
+bring closer to God, and that we\'re carrying out an effective
+apostolate, that\'s a very clear sign that we\'re really working with
+rectitude of intention. We\'re working in the right way with the right
+dispositions.
+
+St. Joseph would have taught Jesus everything that he knew. He would
+have done this gradually, as that Child whom God Himself had entrusted
+to him grew up. One day he might have explained to Him how a plane was
+used; another day a saw; then the different kinds of chisels. Our Lord
+"grew in wisdom and age and grace before God and men" (Luke 2:52).
+
+Theology tells us that Christ had two types of knowledge. He had
+supernatural knowledge, whereby He knew everything, but He also had
+human knowledge. And in His human knowledge, He was able to grow, little
+by little.
+
+In some ways, every human person has two types of knowledge. Maybe you
+have a knowledge of the sea that you\'ve never seen, or a child, before
+he goes to the sea or the mountains. But then when he goes there, he
+sees the sea or the mountains differently, with a different type of
+knowledge. In some ways, you could say that in the human mind, two
+different types of knowledge exist side by side.
+
+It\'s not so difficult for us to imagine how Christ could have had two
+different types of knowledge also in His intellect: one, whereby He knew
+all things; and the other, whereby little by little He learned things
+according to His human intellect.
+
+Our Lord would soon have learned to distinguish the different sorts of
+timber, and which types of wood should be used for each different job.
+He would have enjoyed His work, enjoyed learning new things, and had a
+desire to grow in that knowledge.
+
+Our Lord would naturally have followed all the instructions of St.
+Joseph as to how to look after his equipment, to sweep up the wood
+shavings on the floor and the sawdust at the end of the day, and leave
+to his tools tidily and in order, in their proper place. From Joseph, He
+would have learned how to work with order.
+
+In our workplace, we also have to try and impose order. Maybe as the day
+goes on, workplaces by nature tend to get a bit disordered. But we have
+to go back and reorganize our desk, our drawers, maybe our kitchen, or
+wherever it is that we work, so that there\'s order there. It's part of
+and parcel of working with the virtue.
+
+In these days and weeks of St. Joseph, when we can turn to him and ask
+him to teach us how to work and to love our occupation and our
+profession, whatever it may be. We can ask him to have greater desires
+to do a good job, to learn more things about our work, to grow to have a
+greater competence.
+
+We\'re not all called to be geniuses, but we are all called to be
+competent, to know our job, to give good service, to double-check our
+work so that the client is happy, so that something hasn\'t escaped our
+notice.
+
+We should be happy to get feedback. Organizations are services that look
+for feedback. That\'s a very good sign. It\'s a sign they want to
+improve; they want to be better. They know that the little things that
+other people may notice or pick up can help them improve their service.
+
+All professional work is a service, and Joseph would have been very good
+at that type of service. He\'s an outstanding teacher of how to work
+well because he taught his trade to the Son of God. And so, if we
+entrust our working days and hours to St. Joseph, we learn a lot from
+him.
+
+If we love our daily work, being there on time, finishing on time,
+taking care of details, being interested in people around us, seeing how
+we can bring them closer to God, then we\'ll do our work well, with
+professional competence. And then it will become part of the whole task
+of redemption as we offer it to God.
+
+As St. Joseph worked in that way, Our Lady must have looked on with
+pride as she saw Jesus learning to work well from him who was her
+husband and foster father of her Child, whom she loved so much.
+
+Mary, may you help us to keep our eyes on St. Joseph and to learn all
+the wonderful things from him that he has to teach us.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*JOSH*

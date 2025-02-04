@@ -1,0 +1,536 @@
+---
+layout: homily
+title: "Raise the World"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+"In the beginning, God created the heavens and the earth. The earth was
+without form, and void; and darkness was upon the face of the deep, and
+the Spirit of God was moving over the face of the waters" (Gen. 1:1-2).
+
+In the First Reading today, we read the story of Genesis. The first part
+of Chapter One tells us the whole story of creation, which is a very
+beautiful story, very rich, and tells us many things. If a person were
+to only know the first line of Genesis and nothing else in the Bible,
+they would already know a lot.
+
+"In the beginning, God created the heavens and the earth." Now we know
+where the heavens and the earth have come from. We know the origin of
+all creation.
+
+God made all these things out of nothing. He created them---that\'s what
+Creation means---to bring into life from absolutely nothing.
+
+We know that the world had a beginning. There was a beginning. There is
+a God. And we have an idea of what He did.
+
+We know, and we\'re told later, that God created the world out of love,
+because "God is love" (1 John 4:8,16). He created the world out of love
+to give Him glory.
+
+In that, we have the purpose of our existence. The whole of creation was
+created to give God glory.
+
+The vocation of the layperson in the middle of the world is to order all
+the temporal realities, all of them, so as to give more glory to God,
+from the biggest things in the world that you could think of, down to
+the smallest detail.
+
+The more order there is in the world, in our lives, in everything, the
+more glory is given to God. We have to try and rectify our intention,
+put our intention right. Bring order to the world, which tends towards
+disorder.
+
+From this phrase, we also know that the world did not evolve. We hear a
+lot about evolution in modern culture because people who don\'t believe
+in God have no other explanation for the origin of the world. But the
+doctrine of the Church tells us that the world cannot have evolved.
+
+There are four ideas it\'s good to have clear. If anybody ever says they
+believe in evolution, you can ask them if they believe in the evolution
+of the world, the evolution of man\'s body, the evolution of man\'s
+soul, or the evolution of women. Just with that alone, you can set them
+thinking, because probably they\'ve never thought about all those
+aspects.
+
+But when you think about it, can the world have evolved? It\'s not very
+rational to think that the world evolved from nothing. There was nothing
+and then there was the world.
+
+Where did that first particle come from? What was the force that made
+that evolution happen? To believe in the evolution of the world is not
+rational.
+
+Also, it contradicts what we\'re told in the first line of Genesis, that
+"in the beginning, God created the heavens and the earth."
+
+The Church allows us to believe, if we want, in the evolution of man\'s
+body. That\'s usually what people believe in when they talk about
+evolution. We see the pictures of the monkeys, etc., etc.
+
+But at the same time, it\'s good for us to realize that has never been
+proven. It\'s a theory. Whenever we talk about evolution, it\'s good to
+think of---to put that word before it---the "theory of evolution." It\'s
+a hypothesis. Often people talk about it as though it was dogma.
+
+The Church allows us to believe in the evolution of the body, as long as
+we believe that at a certain stage in that evolution, God infused a soul
+into that body. That particular being that was evolving became the man
+at that particular moment. There was a definite beginning to that.
+
+In relation to the evolution of man\'s soul, we\'re not able to believe
+in the evolution of the soul because the soul is something spiritual.
+How can something spiritual come from something material?
+
+We could look at this particular table for the next 10,000 years and no
+idea would come out of this table. Spiritual things do not come from
+material things.
+
+To believe in the evolution of the soul, again, is not rational. We must
+believe that God created the soul.
+
+As regards the evolution of women, it\'s very difficult also to believe
+that man was evolving, evolving, evolving, and then there was a left
+turn and then there was women.
+
+We\'re bound to believe in the creation of woman from the side of man,
+as we\'re told in the Book of Genesis (Gen. 2:21-23). This line, these
+words, tell us many things, give us a great basis for our life.
+
+Is the glory of God the motive of all my actions? Because that makes us
+fit in with the purpose of creation.
+
+Notice that the question does not say: Is the glory of God the motive of
+"most of" my actions? Or "some of" my actions. But "of all of my
+actions."
+
+We are created to give God glory in everything we do, in every moment of
+our life. Every increment of time is an opportunity to give God glory.
+*Deo omnis gloria.*
+
+We try to put our intention right, or we try to have a habitual
+intention, to do things for the glory of God.
+
+That\'s one of the reasons why the Morning Offering can be such an
+important norm. We get our day going on the right thought. The first
+thought we have when we wake up in the morning, even before getting out
+of bed---we try and direct that thought to God. It\'s a great way to
+start every day of our life.
+
+If you add up all those Morning Offerings and all those first thoughts,
+in the course of our life, that comes to be an awful lot of thoughts and
+an awful lot of Morning Offerings.
+
+With this, we place a certain order. God created the world out of love,
+but He also created order. He meant it to be a certain order there.
+
+"The earth was without form, and void; and darkness was upon the face of
+the deep" (Genesis 1:2). Darkness is associated with a lack of order,
+without form, and void, and emptiness. Nothingness.
+
+God came then to place an order, and that order in itself gave Him
+glory.
+
+We try to place an order in creation. We cut the grass, we take up weeds
+out of the flower beds, we sweep the floors, we clean windows, we lay
+tables, we try to have clean clothes, we comb our hair, we wash it. An
+awful lot of the things we do every day are tied up in order---to place
+a little more order in the whole of creation, or at least in that part
+of creation that surrounds us.
+
+We can\'t be worried or concerned about the whole of creation and the
+whole world, but we can be concerned about that piece of creation that
+God has entrusted to our care: my room, my cabinet, my bed, my shoes;
+all the little things that we have or use; or this particular
+drawer---because from time to time things tend to get a bit
+disordered---our papers or things we use.
+
+Occasionally we try and stop what we\'re doing, and go back and put a
+bit more order in this particular drawer, or this room, or this attic,
+or whatever else it may be, because we see there\'s a good in order.
+
+God is there. We order our thoughts towards Him. We order our time
+through our knowledge of our plan of life. We order our day in our Mass.
+
+Even if we were to do nothing else in our whole day, and there may come
+a moment in our life when we won\'t be able to do anything else, that
+alone is already something wonderful. We\'re helping the whole world to
+give more glory to God.
+
+Because God created the heavens and the earth and everything in them,
+then all those things speak to us. They speak a divine message.
+
+Occasionally, Our Lord has told us in Scripture, "Look at the birds of
+the air" (Matt. 6:26). Look at the birds of the air. Look at creation.
+
+In our schedule of our existence, in the Work, we have certain moments
+when we get greater opportunities to do that. In our retreat perhaps, we
+look at the grass or look at the trees or look at the sky.
+
+Possibly in our normal working day, we don\'t get too much opportunity
+to do that, but in certain moments that becomes important. We look again
+at the order around us. We discover God in creation.
+
+Or we have periods of rest. "God rested on the seventh day" (Gen. 2:2).
+St. Josemaría has spoken to us a lot about the importance of rest.
+
+Rest is not just doing nothing; it\'s doing something different, it\'s a
+change. But it\'s also looking around us, at things in a different way,
+to find God in those things.
+
+"There is something divine, hidden in the most ordinary human realities"
+(cf. Josemaría Escrivá, *Conversations*, Point 114).
+
+In discovering that something divine, we discover something
+beautiful---the singing of the birds, which can be beautiful. We see the
+beauty in creation, which is a reflection of the beauty of God.
+
+All this helps us to lift up our souls, and to want to order every
+aspect of our being and our life a little bit more to God.
+
+A lady told me once, a busy professional career person in another
+country, how one day, she was sitting in the garden, and she began to
+look at a rose. She\'d seen a rose a million times in her life, but from
+this moment she was contemplating that rose more deeply.
+
+She said, "The thought came to me that Man has been able to put men on
+the moon. But no man has made a rose like that." When she spoke, you
+could see that God was speaking to her through the rose.
+
+God speaks to each one of us through creation. She told me that looking
+at the rose, she decided to make a major change in her life. She was a
+busy professional career person, but she decided to stop all of that,
+and she became a sort of Mother Teresa in the city where she lived. She
+began to take care of all sorts of AIDS victims, helped them to die
+spiritually and materially well.
+
+It was a very beautiful existence, and discovered in some way "the pearl
+of great price" (Matt. 13:45-46); something worth chasing after in this
+world. Other people. God in other people. She found great happiness and
+fulfillment in all of that.
+
+Sometimes, God has great spiritual messages for us in and through the
+things He has created. That order speaks to us---speaks to us about
+love, speaks to us about beauty.
+
+Pope Benedict liked to say that we have to promote the cult of beauty.
+Beauty leads people to God (Benedict XVI, *Message*, August 30, 2002;
+Pontifical Council for Culture, *Via Pulchritudinis*, 2006; *Address*,
+November 31, 2009; *General Audience*, August 31, 2011).
+
+He said people find beauty irresistible. God is beautiful.
+
+Part of our role in our work, in our existence, is to bring out the
+beauty that there is in creation and the beauty that there is in the
+world. Open people\'s eyes to beauty. Reflect beauty in all sorts of
+ways.
+
+It\'s a wonderful apostolate. It\'s a Christian feminism very much tied
+up with the beauty of creation.
+
+Often when we place order in things, whether it\'s laying a table, or
+mopping a floor, or dusting a cabinet, we\'re bringing out the beauty
+that is there in this particular thing. We\'re helping other people to
+find God in this material thing.
+
+It\'s a great apostolate: the apostate of apostolates. Order leads to
+beauty. Beauty opens people\'s eyes and people\'s minds.
+
+"And God said, 'Let there be light,' and there was light" (Gen. 1:3). We
+may not think of light too frequently. We could take light for granted
+every day of our life.
+
+Yet those periods of rest, of less troubled interchange, as John Paul II
+liked to call it in a wonderful document he produced on "The Day of the
+Lord"---all about rest. The sacredness of rest, he talks about (John
+Paul II, *Dies Domini*, May 31, 1998).
+
+In those moments, we come to think a little deeper about the daily
+realities that we encounter. Like light. When did we ever stop to think
+about the light? And yet where would we be without light? Natural light
+and also artificial light.
+
+The first thing that God said was, "Let there be light." All that was
+needed for light to happen, or for all the other things that happened,
+was for God to let this happen. His word was enough to make things
+happen.
+
+There was light in the world---a light in the world but also a light in
+our mind, in our intelligence, in our intellect. Part of our formation
+helps us to develop that light.
+
+When we read things, spiritual things but also cultural things, we get a
+greater light, a greater insight; a greater insight into great spiritual
+truths that are there as a basis for our existence in the world.
+
+We learn to see the world in a different optical angle: the angle of
+truth, of beauty, of love. We love the world in the way that God loves
+it.
+
+And because we love it, we want to order it to Him. This is the vocation
+of the layperson, to raise up the whole of the world, to order all the
+temporal realities. It\'s a wonderful vocation.
+
+That's the vocation to which we have been called in our work, in our
+apostolate, in the formation that we give, in all sorts of ways---to
+help people to see things from a different perspective, a supernatural
+perspective---with that, the perspective of truth that brings peace and
+joy.
+
+And so, we\'re "sowers of peace and joy" (J. Escrivá, *Furrow*, Point
+59; *Christ Is Passing By*, Point 168) in and through the light and the
+truth that we spread.
+
+"And God saw that the light was good" (Gen. 1:4). Flowing through the
+whole story, the beautiful poetic story of creation as written in
+Genesis, is this message that God saw things were good. The world is
+good.
+
+We have a deep inherent faith in the truth and goodness of the world and
+in the goodness of every human person.
+
+No matter how evil they might seem, or how evil the world might seem, we
+know there\'s a basic goodness there. It just needs to be ordered in the
+right way.
+
+For that, partly we have the sacraments, which bring a great spiritual
+order, bring out the goodness in the person, tries to drown out the
+evil.
+
+Pope Francis has recently mentioned, talked about, the spiritual
+emptiness of the world. What are we going to do about the spiritual
+emptiness of the world? We can try and fill it with a great spiritual
+fullness instead of worrying or lamenting or being sorrowful about all
+the bad things that are in the world.
+
+Let\'s see what we can do about filling that spiritual emptiness with
+truth, with goodness, with beauty, with love, with order, with
+formation, with good ideas.
+
+"And God separated the light from the darkness. God called the light
+Day, and the darkness he called Night. And there was evening and there
+was morning, one day" (Gen. 1:4-5).
+
+Little by little, an order begins to come. On this thing that was
+without form, and void, and darkness was upon the face of the deep, now
+there is light.
+
+There\'s a whole new type of existence. There\'s a whole new ball game
+that opens up horizons for people.
+
+When we try to give formation to young people, the apple of our eye,
+every soul, we\'re opening vast horizons for them of truth, of goodness,
+of love; of wanting to do great things in the world; of having great
+ideals. The world is worth those great ideals.
+
+"And God said, 'Let there be a firmament in the midst of the waters, and
+let it separate the waters from the waters.' And God made the firmament
+and separated the waters which were under the firmament from the waters
+which were above the firmament. And it was so. And God called the
+firmament Heaven. And there was evening and there was morning, the
+second day" (Gen. 1:6-8).
+
+Things begin to happen. There\'s a great optimism contained in these
+words because the world is good and God is working in the world.
+
+We may look around at other people\'s worlds and we see that they have
+made a god out of other things---power, success, money, or material
+things. But we know that\'s not the truth. That\'s not the reality.
+
+They\'re going after a false god, or false gods, where we have the real
+God. We have the rational explanation, the Revelation, so many other
+things.
+
+We come back to Our Father God present in the tabernacle.
+
+Lord, help me to reflect the goodness of truth and beauty that you are,
+so that other people may be moved to leave those other false gods that
+they follow, all the things that shackle the heart, to come in with us
+in search of love.
+
+The only real ideals that are worth happening are worth having. We pray.
+We talk to God about our friends about the ideas they have, about the
+things they\'re yearning for.
+
+We try to infect them with all the good things God has given to us, so
+they might come to know the truth and beauty of creation, live with that
+great optimism that brings them joy.
+
+At the moment we live in a world faced with young people who are very
+much in need of these ideas.
+
+An elderly priest in Asia once told me that young people today are faced
+with a great pessimism. I was rather surprised by those words. I've
+never really thought about it that way before.
+
+Pessimism, particularly in the area of sexual morality. 'Don\'t struggle
+against your passions, don\'t fight, you can\'t win, you\'re beaten
+before you start.'
+
+The world transmits a message of that type. Most organizations in the
+world transmit the same message. Governments everywhere. Confused by
+those ideas, pessimistic ideas.
+
+But we\'ve come to inject the youth of tomorrow with great optimism,
+with wonderful things to do, with great things to think about. We look
+to infinity because we have been created for infinity, for immortality,
+for eternity.
+
+That\'s why we have to raise the world and raise ourselves to those
+great goals.
+
+"We are capable of God." St. Thomas Aquinas called this in Latin, *capax
+Dei* (Thomas Aquinas, *Summa Theologiae*, II. I. Question 113). We\'ve
+been created for eternity to be lifted up to heaven, to enjoy God
+forever in heaven.
+
+We have to try and open the eyes of the world to these realities, to the
+beauty that they contain.
+
+God is infinitely worth looking at. It is infinitely worth knowing and
+understanding the things that He has done.
+
+"And God said, 'Let the waters under the heavens be gathered together
+unto one place, and let the dry land appear.' And it was so. And God
+called the dry land Earth, and the waters that were gathered together,
+He called Seas. And God saw that it was good" (Gen. 1:9-10).
+
+If ever we get the temptation to think that the world is bad, or that
+'I\'m being treated badly,' or this thing that has happened is bad, we
+have to try and remember *Omnia in bonum*--"All things turn out for the
+good for those who love God" (Rom. 8:28).
+
+Behind this contradiction, or this difficulty, or this pain, or this
+piece of bad news, there is something good always. That\'s why we can
+always smile, we can always be cheerful and happy, infect other people
+with that cheerfulness.
+
+"And God said, 'Let the earth put forth vegetation, plants yielding
+seed, and fruit trees bearing fruit in which is their seed, each
+according to its kind, upon the earth.' And it was so. The earth brought
+forth vegetation, plants yielding seed according to their own kinds, and
+trees bearing fruit in which is their seed, each according to its kind.
+And God saw that it was good. And there was evening and there was
+morning, the third day" (Gen. 1:11-13).
+
+We can fill our lives with acts of thanksgiving. Thanksgiving to God for
+the beauty of creation. Thanksgiving to God for the fact that we were
+created.
+
+Sometimes we might hear people saying, 'I wish I was never born.' We
+have every reason to thank God that He has wanted to make use of us in
+this whole process of creation so that we would participate in creation,
+and through the work that He has given us to do, with our talents, with
+our abilities, so that we see a great role and vocation in all of this.
+
+"And God said, 'Let there be lights in the firmament of the heavens to
+separate the day from the night, and let them be for signs and seasons,
+and for days and years" (Gen. 1:14).
+
+One time I remember in Rome looking out a window. I was sick at the time
+and there was an elderly priest, Don José Louis Pastor, who was sort of
+the doctor looking after me.
+
+We were looking out this window. It was September. It was a dark evening
+in September. The leaves were falling off the trees. It looked rather
+dreary. Autumn is not the most beautiful season of the year in Europe.
+
+Suddenly, he said, *Cada estación tiene sus bellezas*. I think it\'s a
+saying in Spanish. *Cada estación tiene sus bellezas*. Every season of
+the year has its beauty.
+
+I was rather struck by that, because the beauty of creation was not
+particularly evident on that particular autumn evening. And maybe, it
+was beginning to drizzle as well. But what a beautiful statement. So
+optimistic.
+
+Every season has its beauties. That\'s a very useful phrase. Every
+country has its beauties. Every town, every village. Every place we are,
+every day of the week.
+
+Even if it might seem to be the opposite, that this is a dreary place,
+or this is a forgotten place, or this is a dirty place---every season
+has its beauties.
+
+Every day has its joys. It\'s a rather beautiful way to be looking at
+things and seeing things. Very optimistic, very positive.
+
+We\'re not in a world where everything is dreary, and everything is a
+failure, and bad, and gloomy, and cloudy. No, no, there\'s a sun that
+shines in our life, and there\'s a moon that shines at night. We see
+things from that different perspective.
+
+"And let there be lights in the firmament of the heavens to give light
+upon the earth, and it was so. And God made the two great lights: the
+greater light to rule the day, and the lesser light to rule the night"
+(Gen. 1:15-16a).
+
+Light rules. There\'s an order there, and that order helps other people
+to do other things, to move around the place, to use their talents.
+
+"He made the stars also. And God set them in the firmament of the
+heavens to give light upon the earth, to rule over the day and over the
+night, and to separate the light from the darkness. And God saw that it
+was good. And there was evening and there was morning, the fourth day"
+(Genesis 1:16b-19).
+
+Over the whole of creation, God is going to place His Mother, the Queen
+and Lady of all creation. Our Lady is there, dominating everything,
+watching out like a good mother, taking care of everything, not missing
+anything.
+
+When we look to the beauty of creation, we also find Our Lady, whom God
+made so beautiful, so that in her also we might see the whole beauty of
+creation.
+
+Mary, may you help me to look more frequently at the beautiful things
+around us that you've created, to see the hand of God behind them, so
+that thought and that idea might lead me to give Him more glory, to
+thank Him with my act of thanksgiving, to praise Him, to remind myself
+that it is for that that I have been created, to lift up my heart and
+soul in prayer in all the hours of the day. Hence, the first and last
+thought each day for God.
+
+There is a big plaque in the gardens of Cavabianca with a big cock
+there, a multicolored cock. There is a phrase in Latin underneath that
+says, *Ego sum primus qui laudat Deum*. "I am the first to praise God
+(each day)."
+
+I remember when I saw that I was rather impressed. I had never thought
+about it before, that God created one animal in the whole of creation to
+be the first animal to raise his voice in praise of God every day: the
+cock.
+
+A regal idea that comes from St. Josemaría. I've never really thought
+about it before.
+
+But then I went to live in Manila. In the Philippines, one of the very
+popular sports is cockfighting. Downtown Manila is full of cocks. When
+you wake up in the morning, you hear a million cocks crowing. Suddenly,
+that idea comes back to you with greater clarity.
+
+We can ask Our Lady that we also might raise our thoughts and prayers in
+mind and heart to God each morning as we participate in the great story
+of Genesis, by giving glory to God like the whole of creation.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*MML*
