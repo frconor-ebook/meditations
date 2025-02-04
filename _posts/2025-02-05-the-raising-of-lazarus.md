@@ -1,18 +1,19 @@
 ---
 layout: homily
-title: "The-Raising-of-Lazarus"
+title: "The Raising of Lazarus"
 ---
 
 By Fr. Conor Donnelly *(proofread)*
 
-In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
 
-My Lord and my God, I firmly believe that you are here, that you see me,
-that you hear me. I adore you with profound reverence.
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence.*
 
-I ask your pardon for my sins and grace to make this time of prayer
+*I ask your pardon for my sins and grace to make this time of prayer
 fruitful. My Immaculate Mother, St. Joseph, my Father and Lord, my
-Guardian Angel, intercede for me.
+Guardian Angel, intercede for me.*
 
 **There was a man named Lazarus of Bethany, the village of Mary and her
 sister Martha, and he was ill. It was the same Mary, the sister of the
@@ -464,9 +465,11 @@ And so, we could say to Our Lady Mother of Divine Grace. Help us to use
 well these special days of spiritual treasures so that we might grow in
 our desires to be closer to your son on the cross.
 
-I thank you my God for the good resolutions, affections and inspirations
-that you have communicated to me during this meditation. I ask your help
-to put them into practice.
+*I thank you my God for the good resolutions, affections and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice.*
 
-My Immaculate Mother, St Joseph my Father and Lord. My Guardian Angel
-intercede for me. Amen.
+*My Immaculate Mother, St Joseph my Father and Lord. My Guardian Angel
+intercede for me. Amen.*\
+\
+GD
