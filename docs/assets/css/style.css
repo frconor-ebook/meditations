@@ -36,15 +36,15 @@ nav {
   vertical-align: middle;
 }
 
+
 nav a {
   color: #fff;
   text-decoration: none;
   margin-right: 0px; /* Reset margin */
-  font-size: 1.2rem; /* Optionally, increase font size */
-  font-weight: bold;
+  font-size: 1.2rem; /*  increase font size */
+  font-weight: normal; /* Remove bold, set to normal weight */
 }
 
-/* Rest of your CSS */
 
 main {
   padding: 20px;
