@@ -6,3 +6,5 @@ vendor
 repomix-output.txt
 preprocessing_scripts/.env
 preprocessing_scripts/*/*.pyc
+.DS_Store
+vendor/
