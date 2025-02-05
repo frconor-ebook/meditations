@@ -1,6 +1,8 @@
-# Meditations eBook Preprocessing and Deployment Workflow
+# Online Meditations Website Preprocessing and Deployment Workflow
 
 This document outlines the workflow for processing, building, and deploying the Meditations eBook. This process is typically performed monthly to incorporate edits from Meg Francisco.
+
+This repository is hosted remotely here: `https://github.com/frconor-ebook/meditations`
 
 ## Main Workflow Steps
 
