@@ -15,11 +15,11 @@ This section provides a streamlined alternative to the *Detailed Workflow* (belo
 
 **Step 1: Prepare Input Files**
 
--   **Download Source Files:** Download the latest `transcript_proofread_MSWord` directory (containing proofread Word DOCX files) from the designated Dropbox location.
--   **Prepare Target Directory:**
+-   Download the latest `transcript_proofread_MSWord` directory (containing proofread Word DOCX files) from the designated Dropbox location.
+-   Prepare Target Directory:
     *   Navigate to the target directory: `/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/`.
     *   **Important:** If a `transcript_proofread_MSWord` directory already exists in the target location, *delete it* before proceeding.  This ensures you are using the latest files.
--  **Place Input files:** Place downloaded `transcript_proofread_MSWord`directory into `/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/`
+-  Place Input files: Place downloaded `transcript_proofread_MSWord`directory into `/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/`
 
 
 **Step 2: Preprocess the Files**
