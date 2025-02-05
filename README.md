@@ -8,7 +8,7 @@ This repository is hosted remotely here: `https://github.com/frconor-ebook/medit
 
 ## Quick Workflow Steps
 
-These steps provide a faster way to execute the main workflow, combining steps 2, 3, and 4 into a single script.
+These steps provide a faster way to execute the *Detailed Workflow* section below, combining steps 2, 3, and 4 into a single script.
 
 **Step 1: Download and Prepare Input Files**
 
@@ -132,7 +132,7 @@ The updated site will be automatically deployed to GitHub Pages and accessible a
     `https://frconor-ebook.github.io/meditations/`
 
 
-Note that Step 2 to 5 can be executed with
+Note that Step 2 to 4 can be executed with:
 
 ```
 cd /Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations/
