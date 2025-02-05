@@ -11,13 +11,16 @@ This repository is hosted remotely here: `https://github.com/frconor-ebook/medit
 
 ## Quick Workflow Steps
 
-These steps provide a faster way to execute the *Detailed Workflow* section below, combining steps 2, 3, and 4 into a single script.
+This section provides a streamlined alternative to the *Detailed Workflow* (below), consolidating steps 2, 3, and 4.
 
-**Step 1: Download and Prepare Input Files**
+**Step 1: Prepare Input Files**
 
-1. Download the latest proofread Word DocX files from the designated Dropbox location.
-2. Place these downloaded files into the following directory:
-    `/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/`
+-   **Download Source Files:** Download the latest `transcript_proofread_MSWord` directory (containing proofread Word DOCX files) from the designated Dropbox location.
+-   **Prepare Target Directory:**
+    *   Navigate to the target directory: `/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/`.
+    *   **Important:** If a `transcript_proofread_MSWord` directory already exists in the target location, *delete it* before proceeding.  This ensures you are using the latest files.
+-  **Place Input files:** Place downloaded `transcript_proofread_MSWord`directory into `/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/`
+
 
 **Step 2: Preprocess the Files**
 
