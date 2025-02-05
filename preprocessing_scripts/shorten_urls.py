@@ -78,7 +78,7 @@ def shorten_with_groq(text: str, api_key: str, max_length: int = 15) -> str:
                     ),
                 },
             ],
-            model="llama-3.3-70b-versatile",
+            model="llama-3.1-8b-instant",
             temperature=1,  # Lower temperature for more focused output
             max_tokens=50,
             top_p=1,
