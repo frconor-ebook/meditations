@@ -1,4 +1,6 @@
 # Deployment Workflow for the Online Meditations
+[![Jekyll](https://img.shields.io/badge/built%20with-Jekyll-red.svg)](https://jekyllrb.com/)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown)](https://www.markdownguide.org/)
 
 This document outlines the workflow for processing, building, and deploying the Meditations online. This process is typically performed monthly to incorporate edits from Meg Francisco.
 
