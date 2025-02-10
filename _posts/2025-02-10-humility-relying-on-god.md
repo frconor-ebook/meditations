@@ -1,20 +1,21 @@
 ---
 layout: homily
-title: "Humility-Relying-on-God"
+title: "Humility: Relying on God"
 ---
 
 By Fr. Conor Donnelly
 
 *(Proofread)*
 
-In the name of the Father, and of the Son, and of the Holy Spirit, Amen.
+*In the name of the Father, and of the Son, and of the Holy Spirit,
+Amen.*
 
-My Lord and my God, I firmly believe that you are here, that you see me,
-that you hear me. I adore you with profound reverence. I ask your pardon
-for my sins, and grace to make this time of prayer fruitful.
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins, and grace to make this time of prayer fruitful.*
 
-My Immaculate Mother, St. Joseph, my Father and Lord, my Guardian Angel
-intercede for me.
+*My Immaculate Mother, St. Joseph, my Father and Lord, my Guardian Angel
+intercede for me.*
 
 **The whole world spoke the same language, with the same vocabulary.**
 
@@ -385,15 +386,15 @@ could ask Our Lady that we might look at her, look at her humility in a
 deeper way, in a constant way, so that we also can learn how to rely
 more on God in the ordinary things of each day.
 
-I thank you, my God, for the good resolutions, affections and
+*I thank you, my God, for the good resolutions, affections and
 inspirations that you have communicated to me during this meditation. I
-ask your help to put them into practice.
+ask your help to put them into practice.*
 
-My Immaculate Mother, St. Joseph, my Father and Lord, my Guardian Angel,
-intercede for me.
+*My Immaculate Mother, St. Joseph, my Father and Lord, my Guardian
+Angel, intercede for me.*
 
-In the name of the Father and of the Son and of the Holy Spirit.
+*In the name of the Father and of the Son and of the Holy Spirit.*
 
-Amen.
+*Amen.*
 
 *GD*

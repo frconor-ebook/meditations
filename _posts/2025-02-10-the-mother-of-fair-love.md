@@ -19,9 +19,9 @@ intercede for me.*
 In the Book of Ecclesiasticus we are told: "I am the mother of fair
 love, and of fear, and of knowledge, and of holy hope. In me is all
 grace of the way and of the truth, in me is all hope of life and of
-virtue" (Ecclus. (Sir.) 24:24-25).
+virtue" (Ecclus. 24:24-25).
 
-St. Josemaría liked very much this title of Our Lady, the Mother of Fair
+St. Josemaría liked this title of Our Lady very much: the Mother of Fair
 Love.
 
 The Feast of Our Lady, the Mother of Fair Love, is celebrated on the
@@ -31,9 +31,9 @@ chose to found the Women of the Prelature of Opus Dei.
 Initially, St. Josemaría thought there would never be women in Opus Dei
 on the 2nd of October 1928, when he saw what God wanted of him.
 
-But then he said, like an unexpected child, two years later, within the
-Mass, he saw very clearly that God wanted something very different. He
-wanted the Women of the Prelature.
+But then he said, "like an unexpected child," two years later, within
+the Mass, he saw very clearly that God wanted something very different.
+He wanted the women of the Prelature.
 
 One of the aspects of the life of St. Josemaría that I think has not
 been spoken enough about, perhaps, is what St. Josemaría did for women
@@ -48,7 +48,7 @@ and our hope, thanking God and Our Lady for all the good things that
 they have given to us.
 
 The 14th of February is also the anniversary of the founding of the
-Priests of the Prelature of Opus Dei, in 1943. We have many reasons to
+Priests of the Prelature of Opus Dei in 1943. We have many reasons to
 make many acts of thanksgiving.
 
 This coming weekend, you could also say, is like the weekend of the
@@ -64,8 +64,8 @@ Lord, until they rest in you."
 He used to say that we all suffer from a hole in the heart, and that
 hole can only be filled by God.
 
-Another spiritual writer likes to say that our religion is a religion of
-the heart.
+Another spiritual writer likes to say that our religion is "a religion
+of the heart" (John Wesley, *Works*).
 
 Scripture speaks a lot about the heart:
 
@@ -85,12 +85,12 @@ the importance of the heart is emphasized.
 
 The Beatitudes are like directives for the right dispositions of the
 heart: "Blessed are the gentle. Blessed are the merciful. Blessed are
-those who hunger and thirst for righteousness."
+those who hunger and thirst for righteousness" (*cf*. Matt. 5:3-12).
 
 Almsgiving is measured not by the amount, but by the heart. "This
-woman\...has put in all that she had to live on" (Matt. 12:44).
+woman\...has put in all that she had to live on" (Mark 12:44).
 
-God reads the heart.
+"God reads the heart" (1 Sam. 16:7).
 
 As we come to this Feast of the Mother of Fair Love, we could ask Our
 Lady that we might unite our heart to hers, and that she might fashion
@@ -100,31 +100,32 @@ Son.
 Our Lord\'s heart was willing to be on the Cross. It\'s through His
 heart that He gave us the meaning of love. God was willing to be on the
 Cross. He was willing to allow His heart to be pierced by a lance: "One
-of the soldiers pierced His side with a spear, and immediately there
+of the soldiers pierced his side with a \[spear\], and immediately there
 came out blood and water" (John 19:34).
 
-Pope Pius XII liked to call this a fountain of life, the fountain of the
-sacramental life of the Church.
+Pope Pius XII liked to call this a "fountain of life, the fountain of
+the sacramental life of the Church" (*cf*. Pope Pius XII, Encyclical,
+*Haurietis aquas*, Points 1,4, May 15, 1956).
 
-Something flows from the heart of Christ into our heart and gives rise
+Something flows from the Heart of Christ into our heart and gives rise
 to new life. That\'s what our interior life, our spiritual life, is all
 about.
 
 In the Preface of the Sacred Heart we say, "Joyfully will I draw water
 in joy from the wells of salvation" (Isa. 12:3). We come to the Blessed
-Sacrament, or to the Cross, precisely to draw water in joy from the
-wells of salvation.
+Sacrament or to the Cross precisely to draw water in joy from the wells
+of salvation.
 
 When St. Josemaría was founding the Women of the Prelature, it was to
 that Heart that he went many times for strength, for courage, for faith,
 for meaning, for purpose.
 
-We can look to those hearts---the heart of Christ and the heart of
+We can look to those hearts---the Heart of Christ and the heart of
 Mary---and see how the heart is like a symbol of the inner mystery of
 man. John Paul II says through the heart we reach that inner mystery.
 
-Sometimes we talk about the heart as being the center of the life of a
-person.
+Sometimes we talk about the heart as being "the center of the life of a
+person" (Henri J. M. Nouwen, *Life of the Beloved*).
 
 In ancient Rome they taught that the kidneys were the center of the
 emotions of the human person, so two lovebirds on February the 14th in
@@ -153,7 +154,7 @@ With great reason we turn to Our Lady, the Mother of Fair Love, to teach
 us how to love.
 
 What is the great mystery that we find in the heart of Mary and in the
-heart of Christ? That willingness to be on the cross, and the
+Heart of Christ? That willingness to be on the cross, and the
 willingness to have their heart pierced by a lance, a physical lance, or
 by a spiritual sword.
 
@@ -165,7 +166,7 @@ learn what love means with her help. "I am the mother of fair love, and
 of fear, and of knowledge, and of holy hope. In me is all grace of the
 way and of the truth, in me is all hope of life and of virtue."
 
-In the prayer of the Hail, Holy Queen, we talk about Our Lady as "our
+In the prayer of the *Hail, Holy Queen*, we talk about Our Lady as "our
 sweetness and our hope." Like all good mothers, she\'s there for us in
 all the moments of our life.
 
@@ -179,12 +180,13 @@ be a more loving person.
 
 "Blessed are the merciful, for they shall obtain mercy" (Matt. 5:7).
 
-"May you be merciful, as your heavenly Father is merciful" (cf. Luke
+"May you be merciful, as your heavenly Father is merciful" (*cf*. Luke
 6:36).
 
 Our Lady is the Queen of Mercy. Pope John Paul liked to say that "mercy
-is another word for love"---a love that goes beyond justice, that goes
-the extra mile.
+is another word for love" (John Paul II, *cf*. Encyclical, *Dives in
+misericordia*, Point 7, November 30, 1980) ---a love that goes beyond
+justice, that goes the extra mile.
 
 Love involves mercy: knowing how to forgive---to forgive
 everybody---hurts or wounds or little things that people may have said
@@ -196,10 +198,10 @@ Christ-like, more Marian. Our Mother of Fair Love will teach us how to
 put that love into practice in concrete ways.
 
 In our faith and religion, we don\'t need to do Bible quizzes and we
-don\'t need to go to the Holy Land. We just need to enter into the heart
+don\'t need to go to the Holy Land. We just need to enter into the Heart
 of Christ.
 
-We don\'t know the heart of Christ enough, nor the heart of Mary---that
+We don\'t know the Heart of Christ enough, nor the heart of Mary---that
 reality that\'s there inside, which is love.
 
 I was rather impressed this week. I was talking to two fellows aged
@@ -222,7 +224,7 @@ kick the football, our toes hurt."
 I said, "OK, bring me the other football boots. Let\'s see what size
 they were.\"
 
-"We gave them away to a poor boy."
+"Oh, we gave them away to a poor boy."
 
 I was rather taken aback. These two kids, most people would think were
 already poor boys, but every poor person knows somebody poorer than
@@ -243,9 +245,9 @@ that, you will have more joy in your life than all the joys that Man
 City can bring you, even if they\'re at the top of the league." I hope
 that that got the message across in their language.
 
-"Blessed are the merciful." When we try to imitate the heart of Mary,
-the heart of Christ, we end up doing things that are really beautiful.
-We teach that sacrificial love to other people.
+"Blessed are the merciful" (Matt. 5:7). When we try to imitate the heart
+of Mary, the Heart of Christ, we end up doing things that are really
+beautiful. We teach that sacrificial love to other people.
 
 Our Mother of Fair Love shows us how to have a willingness to be on the
 cross. That\'s like a summary of the whole of our faith: the willingness
@@ -278,8 +280,8 @@ They run hospitals. They\'re a little bit in the world, but they\'re not
 withdrawn from it.
 
 They\'re separated from it, yes. They\'re not completely in it, but
-they\'re more in it than the monks were or the friars were. Now they\'re
-a little bit more visible.
+they\'re more in it than the monks were, or the friars were. Now
+they\'re a little bit more visible.
 
 But then St. Josemaría said on the 2nd of October 1928 and the 14th of
 February 1930, God played His trump card. He takes one further step out
@@ -299,7 +301,7 @@ into our marriage, into our responsibilities that we have to try and
 fulfill every day.
 
 To help us to find that holiness and to fulfill it and make it a
-reality, we have the sacraments, the Sacraments that flow from the heart
+reality, we have the sacraments, the sacraments that flow from the Heart
 of Christ, so that we can be born from grace, so that we can have a new
 life in the Spirit, so that we can begin again all the time.
 
@@ -333,28 +335,31 @@ we can place her in everything. We can learn all sorts of things at her
 feet. Her name goes straight to our heart, teaches us new things, how to
 begin again.
 
-She\'s the Lady of the Sweet Name, as St. Josemaría liked to call her.
-Our sweetness and our hope.
+She\'s "the Lady of the Sweet Name," as St. Josemaría liked to call her
+(Josemaría Escrivá, *Christ Is Passing By*, Point 142; Holy Rosary,
+*First Joyful Mystery*). Our sweetness and our hope.
 
 The Mother of Fair Love has something to say to us in all the situations
-of our life. The Catechism of the Catholic Church says that she\'s the
-model of all the virtues.
+of our life. The *Catechism of the Catholic Church* says that she\'s the
+model of all the virtues (*cf*. *Catechism*, Point 829; Vatican II,
+*Lumen gentium*, Point 65, November 21, 1964).
 
 When we need to put more industriousness into something, or more
 charity, or more faith, or more hope, or more punctuality, or more
 order, or more silence, or whatever, we can turn to Our Lady, and she
 will teach us how to do all of these things.
 
-St. John Paul says the history of fair love begins in her, with this
-woman who radiates divine goodness and the beauty of a life given to Our
-Lord.
+St. John Paul says the history of fair love begins in her (*cf*. John
+Paul II, *Letter to Families*, *Gratissimam sane*, Point 20, February 2,
+1994), with this woman who radiates divine goodness and the beauty of a
+life given to Our Lord.
 
 We learn to love God and to love souls in and through Our Lady. Our love
 becomes enriched and embellished by hers. She shows a great sensitivity
 and refinement in all the things she does.
 
 She goes to her Son at Cana and says, \"They have no wine" (John 2:3).
-Our Lady doesn\'t play the heavy with her Son. She doesn\'t say, 'Look,
+Our Lady doesn\'t come the heavy with her Son. She doesn\'t say, 'Look,
 I am your mother. I\'ve never asked you for anything in your life, so
 you better listen to me this time. You better do what I tell you,
 otherwise there\'s going to be trouble.'
@@ -386,7 +391,7 @@ We know that the Mother of Fair Love wants to bring this message to
 every last heart on the planet, so that that heart can find itself
 fulfilled. They can find the goal of their heart in the things of God.
 
-We also know that human hearts need the heart of Christ and the heart of
+We also know that human hearts need the Heart of Christ and the heart of
 Mary. They're looking for it. This world occasionally can be a bit
 impersonal: voice messages and email, press this button and press that
 button, and credit cards. We need to bring back a culture of the heart a
@@ -432,22 +437,21 @@ relationship.
 
 "When you pray, enter into your room, close the door, and pray to your
 Father in secret. And your Father who sees in secret will reward you"
-(Matthew 6:6).
+(Matt. 6:6).
 
-Our prayer is also measured by the heart. That\'s what\'s important. We
-have to put our heart into things.
+Our prayer is also measured by the heart. That's also important. We have
+to put our heart into things.
 
-When we see that the heart of Christ is offended, insulted, forgotten,
-neglected, that leads us to want to say "sorry," to atone to the heart
+When we see that the Heart of Christ is offended, insulted, forgotten,
+neglected, that leads us to want to say "sorry," to atone to the Heart
 of Christ and to the Mother of Fair Love for all the times when we have
 not been responsive or corresponded, not been sensitive to that love, so
 that we cultivate a culture of the heart a little more.
 
 There was a famous singer in the early 1960s that your mother might
 remember, or your grandmother, called Elvis Presley. He had a song that
-was called "I Don\'t Have a Wooden Heart." "Treat me nice, treat me
-kind, treat me like you really should, because I don\'t have a wooden
-heart."
+was called "Wooden Heart." "Treat me nice, treat me kind, treat me like
+you really should, because I don\'t have a wooden heart."
 
 Maybe Our Lord is telling us too that you don\'t have a wooden heart; I
 want you to cultivate that heart.
@@ -471,7 +475,7 @@ of September, there\'s a phrase that says, \"Make my heart burn in
 loving Christ the Lord."
 
 To the Holy Spirit, we say, \"Fill the hearts of your faithful and
-kindle in us the fire of your love.\"
+kindle in us the fire of your love" (*Prayer of the Holy Spirit*).
 
 To the Mother of Fair Love, we can say the same thing: Give me that fire
 of love that you had, and if my heart gets a little bit cold, warm it up
@@ -487,7 +491,7 @@ warm. You could catch fish in it, you could swim in it.
 
 Somebody said that strange lake---hundreds of miles from the oceans, a
 real oasis of warmth, of life amid the desolation of the Arctic
-winter---that\'s a bit like the heart of Christ. He\'s trustworthy in
+winter---that\'s a bit like the Heart of Christ. He\'s trustworthy in
 the heart of Mary. He\'s the fulfillment of the Father\'s promises.
 
 No matter how much this fallen world may cause us to suffer, no matter
@@ -496,11 +500,11 @@ don\'t get and we feel neglected or whatever, the love of Christ never
 weakens.
 
 His goodness never freezes over. We can always find solace in that warm
-lake that is the heart of Christ. He\'s like the warm lake in the midst
+lake that is the Heart of Christ. He\'s like the warm lake in the midst
 of the Arctic ice. He keeps His promises. He\'s always there for us,
 welcomes us, sustains us.
 
-We know that the Mother of Fair Love will lead us to that heart of
+We know that the Mother of Fair Love will lead us to that Heart of
 Christ, so that we can experience all these good things.
 
 We can ask the Mother of Fair Love, as we approach this feast day, that
