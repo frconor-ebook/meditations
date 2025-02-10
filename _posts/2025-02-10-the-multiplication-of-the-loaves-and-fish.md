@@ -17,12 +17,12 @@ Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
 intercede for me.*
 
 We're told in the Gospel of today how "Jesus went across the Sea of
-Galilee. A large crowd followed him because they saw the signs he was
-performing on the sick. Jesus went up on the mountain and there sat down
-with his disciples. The Jewish feast of the Passover was near. When
-Jesus raised his eyes and saw that a large crowd was coming to him, he
-said to Philip, 'Where can we buy enough food for them to eat?'" (John
-6:1-5).
+Galilee. And a large crowd followed him because they saw the signs he
+was performing on the sick. Jesus went up on the mountain, and there he
+sat down with his disciples. The Jewish feast of the Passover was near.
+When Jesus raised his eyes and saw that a large crowd was coming to him,
+he said to Philip, 'Where can we buy enough food for them to eat?'"
+(John 6:1-5).
 
 The story is the story of the multiplication of the loaves and the fish.
 It takes place on the shores of the Sea of Galilee. Our Lord is speaking
@@ -33,7 +33,7 @@ What we just read is in John Chapter 6. Each of the evangelists tells
 the story; it's an indication of its importance.
 
 In St. Luke, it has the apostles saying to Our Lord, "Send the crowd
-away, to go into the villages and the country roundabout to lodge and
+away, to go into the villages and the country round about to lodge and
 get provisions" (Luke 9:12).
 
 The disciples themselves were also tired. They were in a remote place.
@@ -57,15 +57,15 @@ buy food for all these people."
 
 Our Lord seems to have the impression that He is very clear about what
 He intends to do. In St. Luke, He says, "Make the people sit down in
-companies of fifty" (Luke 9:14).
+companies of fifty" (Luke 9:13-14).
 
 In St. John, it says, "He said this to test Philip, because he himself
 knew what he was going to do. Philip answered him, 'Two hundred days'
 wages worth of food would not be enough for each of them to have a
 little'" (John 6:6-7).
 
-In another account he says, "two hundred denarii" (Mark 6:37), which is
-almost a year\'s wages.
+In another account he says, "two hundred denarii, which is almost a
+year\'s wages" (Mark 6:37).
 
 The apostles realize what they don\'t have; what they need. Our Lord is
 letting them see the picture very clearly.
@@ -167,8 +167,8 @@ This everlasting covenant, anticipated in the Old Testament by Isaiah
 perfectly realized and offered.
 
 "The miracles of the multiplication of the loaves"---we're told in the
-Catechism---"when the Lord says the blessing, breaks and distributes the
-loaves through his disciples to feed the multitude, prefigure the
+*Catechism*---"when the Lord says the blessing, breaks and distributes
+the loaves through his disciples to feed the multitude, prefigure the
 super-abundance of this unique bread of the Eucharist" (*Catechism of
 the Catholic Church*, Point 1335). The message of super-abundance.
 
@@ -211,7 +211,7 @@ bring to Jesus what they have. The miracle was not worked from nothing,
 but from a simple sharing of what this little boy had brought to Him.
 
 Our Lord teaches us that He wants to work many miracles---not from
-nothing, but rather, with the small things that we bring to him. Our
+nothing, but rather, with the small things that we bring to Him. Our
 Lord doesn\'t ask us for what we do not have.
 
 But at the same time, He wants us to do what is there on our part. He
@@ -295,7 +295,7 @@ every day. Feed my soul with this Word of God.
 
 Men can utter words of high value, but often the words of men are
 insufficient, ambiguous, disappointing, biased, while "the Word of God
-is full of truth," we\'re told in Scripture (cf. John 17:17). "It\'s
+is full of truth," we\'re told in Scripture (*cf*. John 17:17). "It\'s
 upright," we\'re told in the Psalms. The Psalms also say it\'s "stable
 and remains forever" (Ps. 119:160, 89).
 
@@ -311,7 +311,7 @@ sacraments. We need that grace. We have to hunger for it, invoke it, ask
 for it with sincere humility and tireless constancy, well aware that
 it\'s the most precious thing we can possess.
 
-We will come and make our abode with him (John 14:23, 15:4-10). We
+We will come and make our abode with Him (John 14:23, 15:4-10). We
 become spiritual millionaires when we are in the state of grace.
 
 The path that\'s laid out for us along the path of our Christian
@@ -324,7 +324,7 @@ our vocation is.
 
 We have that nutrient that keeps us going. We\'re told in *The Way* how
 the person said, "So many Communions. I don\'t see the fruit of all the
-Communions" (Josemaría Escrivá, *The Way,* Point 534).
+Communions" (*cf*. Josemaría Escrivá, *The Way,* Point 534).
 
 But you see, often the fruit of all those Communions is working silently
 within us. We don\'t remember the food we had yesterday, but if we
@@ -387,7 +387,7 @@ proclaim the Lord\'s death until he comes" (1 Cor. 11:26).
 hearts, our hope of our definitive meeting with Him?
 
 "When we eat this bread and drink this cup, we proclaim your death, Lord
-Jesus, until you come in glory" (Mystery of Faith, *Roman Missal*).
+Jesus, until you come in glory" (Roman Missal, *Mystery of Faith*).
 
 We remind ourselves of the great things to come, that promise of eternal
 life: "I will raise you up on the last day" (John 6:40).
@@ -431,14 +431,14 @@ Our Lord wanted the mystery of our salvation, "the mystery of his saving
 presence in the world\...to be linked with the sacrament of the
 Eucharist. He wanted to make himself the bread which is broken so that
 everyone can be nourished by his very life through participation in the
-sacrament of his Body and Blood."
+sacrament of his Body and Blood" (*ibid*.).
 
 All the people "who listened to Him were astonished at his discourse in
-Capernaum. We also find this language hard to understand" (cf. John
+Capernaum. We also find this language hard to understand" (*cf.* John
 6:60).
 
-But therefore, we make acts of faith. "Lord, I believe; help my unbelief
-(Mark 9:24). "Increase my faith" (cf. Luke 17:5).
+But therefore, we make acts of faith. "Lord, I believe; help my
+unbelief" (Mark 9:24). "Increase my faith" (*cf*. Luke 17:5).
 
 Our Lord asked the apostles, "Will you also go away?" And they say those
 very useful words, "Lord, to whom will we go? You have the words of

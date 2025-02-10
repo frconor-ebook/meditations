@@ -52,7 +52,7 @@ mystery of love. Perseverance and fidelity in marriage are very much
 based on love and keeping that love alive---taking care of that love.
 
 We have the grace from the sacrament to help that to happen. St. Paul
-says; "My grace is sufficient for you" (2 Cor. 12:9).
+says, "My grace is sufficient for you" (2 Cor. 12:9).
 
 He also says; "Let us never slacken in doing good, for if we do not give
 up, we shall have a harvest in due time" (Gal. 6:9).
@@ -69,10 +69,10 @@ to time with little gestures of love and affection.
 
 There is a song by Julio Iglesias in Spain many years ago. It\'s the
 lament of a man whose loved one has left him. The title of the song is
-*Me Olvidé de Vivir los Detalles Pequeños-*I Forgot to Take Care of the
+*Me Olvidé de Vivir los Detalles Pequeños--*I Forgot to Take Care of the
 Small Details. Often those small details can cost us a little bit.
 
-The Lord said; "If anyone wants to be a follower of mine, let him
+The Lord said, "If anyone wants to be a follower of mine, let him
 renounce himself and take up his cross every day and follow me" (Matt.
 16:24).
 
@@ -90,8 +90,8 @@ in this particular place; with these particular difficulties of finance,
 of health, of employment.
 
 St. Paul says, "We\'ve been chosen out before the foundation of the
-world" (cf. Eph. 1:4). Every aspect of our life has been chosen by God.
-Nothing is an accident.
+world" (*cf*. Eph. 1:4). Every aspect of our life has been chosen by
+God. Nothing is an accident.
 
 God wants us to work then at making our marriage a success, and in
 making our family life a success, so that the domestic Church can really
@@ -121,13 +121,14 @@ It\'s not something that\'s superficial. We\'re not a fly-by-night when
 it comes to this particular reality. We\'ve given our word, and love
 seeks to be definitive.
 
-God will always give us the power to go on. Even if we feel we don\'t
+God will always give us the power to go on, even if we feel we don\'t
 have any more energy, or willpower, or desire.
 
 To love is to do things God\'s way. He said, "I am the way, the truth,
 and the life" (John 14:6).
 
-In Christ, we find the meaning and the purpose of our life, and very
+In Christ, we find the meaning and the purpose of our life (*cf*. Pope
+John Paul II, *Homily*, World Youth Day, August 14, 1993), and very
 particularly, in Christ on the Cross, we find the meaning and the
 purpose of our life.
 
@@ -149,7 +150,7 @@ But there\'s an invisible part. God lives in an eternal now and we know
 that He has a gold medal prepared for us. It does not corrode. There is
 merit in struggle, and God wants us to get that merit.
 
-Love is a decision. I will love you into heaven.
+Love is a decision: 'I will love you into heaven.'
 
 We know that in the battles and the challenges and the journeys of every
 day, the winds may blow. But if the house is founded on rock---not just
@@ -189,7 +190,7 @@ We work at that marriage preparation through high school, possibly
 through third-level education. A lot of it involves the formation in
 virtue.
 
-But humans are fickle minded. All the apostles said "yes" to Christ, but
+But humans are fickle-minded. All the apostles said "yes" to Christ, but
 one changed his mind.
 
 The passing things of this world can never be the source of our
@@ -262,8 +263,8 @@ beginning.
 
 It would be crazy to worry about whether or not I\'m going to persevere
 in my marriage. We just have to try and live today, try and persevere
-today, to trust, to hope, to identify ourselves with Christ and to renew
-our generosity all the time.
+today, to trust, to hope, to identify ourselves with Christ, and to
+renew our generosity all the time.
 
 Generosity is a very beautiful virtue. Authentic love leads us to be
 generous.
@@ -305,8 +306,8 @@ effectiveness is through prayer or being faithful to our spiritual life,
 and giving that example of virtue, of fidelity, of perseverance.
 
 An attitude to foster can be loyalty even on a human level: to be loyal
-to people, to be true to our word. "Let your 'yes' be 'yes' and your
-'no' be 'no' (Matt. 5:37).
+to people, to be true to our word. "Let your 'Yes' be 'Yes' and your
+'No' be 'No'" (Matt. 5:37).
 
 Fidelity is not staying out of other beds; it\'s loving the bed that
 we\'re in, with all of its characteristics. For fidelity, we need an
@@ -429,8 +430,8 @@ Argentina many years ago for a weekend to explore some new resorts so
 they could write about it and promote it.
 
 Shortly after takeoff, somebody took the microphone and began talking
-about how 'we\'re going to have the weekend of our lives; we\'re going
-to have a great time.' The picture he was painting was not particularly
+about how "we\'re going to have the weekend of our lives; we\'re going
+to have a great time." The picture he was painting was not particularly
 savory.
 
 But then there was another man who tried to take care of his family

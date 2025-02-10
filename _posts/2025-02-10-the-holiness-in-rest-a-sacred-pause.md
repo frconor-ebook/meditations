@@ -3,8 +3,6 @@ layout: homily
 title: "The Holiness in Rest: A Sacred Pause"
 ---
 
-The Holiness in Rest: A Sacred Pause
-
 By Fr. Conor Donnelly
 
 (*Proofread*)
@@ -30,16 +28,16 @@ doing things. It\'s a moment when they tell Him about the success of all
 the things they\'ve been doing. They\'re a little bit on the crest of a
 wave.
 
-Our Lord could have told them: Out you go again and make full use of
+Our Lord could have told them: 'Out you go again and make full use of
 this opportunity. Let\'s make good use of our time. Let\'s really push
-to the limit.
+to the limit.'
 
 But Our Lord doesn\'t tell them that. He said to them, "Come away by
-yourselves to a lonely place and rest a while."
+yourselves to a lonely place and rest a while" (Mark 6:31).
 
 Our Lord was very convinced of the importance of rest, of what St. John
-Paul II has called "the sacredness of rest" (John Paul II, cf. Apostolic
-Letter, *Dies Domini*, May 31, 1998).
+Paul II has called "the sacredness of rest" (John Paul II, *cf*.
+Apostolic Letter, *Dies Domini*, May 31, 1998).
 
 Jesus is playing for the long term. He\'s not just interested in
 momentary or temporary success. He wants them to rest well so that they
@@ -73,12 +71,12 @@ tired from not doing anything very constructive.
 Tiredness is not necessarily a bad thing. Also, when we\'re tired we
 don\'t have to go around the place telling everybody how tired we are.
 
-But when they come back and tell Our Lord everything they\'ve done and
-taught, Our Lord realizes immediately that they\'re tired and that they
+But when they come back and tell Our Lord "everything they\'ve done and
+taught," Our Lord realizes immediately that they\'re tired and that they
 need rest.
 
 He shows concern for them. "They went away in the boat to a lonely place
-by themselves."
+by themselves" (Mark 6:32).
 
 Each of us has to try and be aware of the need of the people around us
 for rest, be able to discern when somebody is tired, and create that
@@ -94,15 +92,15 @@ as that can be sleep, if possible, but there comes a moment in our life
 when we realize that sleep is a gift. But still, we need to rest.
 
 On other occasions, it\'s Our Lord Himself who needs to rest. He\'s
-wearied out from His journey, and so He sits down beside the well (cf.
+wearied out from His journey, and so He sits down beside the well (*cf*.
 John 4:6).
 
 One commentator has mentioned how interesting it is that St. John gives
 us a picture of the Messiah worn out from His labors. He sits down
 beside the well because He cannot take another step.
 
-If Our Lord in His sacred humanity, "like us in all things but sin"
-(Heb. 4:15), felt the need for a justified rest, so also we have to
+If Our Lord in His Sacred Humanity, "like us in all things but sin"
+(Heb. 4:15), felt the need for a justified rest, so also, we have to
 rest.
 
 There might come a moment in our life when we\'re told by a doctor, by a
@@ -350,7 +348,7 @@ As a consequence, for God\'s sake and the sake of other people, we must
 observe the norms of prudence in caring for our health and that of the
 people who in any way depend upon us.
 
-The Second Vatican Council in *Gaudium et Spes* says among these norms
+The Second Vatican Council in *Gaudium et spes* says among these norms
 is the one "that leisure be properly employed to refresh the spirit and
 strengthen the health of mind and body."
 
@@ -415,7 +413,7 @@ When we come back from resting a little bit, usually we look happier,
 more cheerful, more sprightly. We bring a joy into the lives of other
 people around us. That\'s charity.
 
-St. Jerome says in an amusing manner: "Experience shows me that when a
+St. Jerome says in an amusing manner, "Experience shows me that when a
 donkey is tired it sits down at every corner."
 
 St. Josemaría in *The Way* says: "To rest is not to do nothing: it is to
@@ -437,9 +435,9 @@ St. John Paul II pointed out that "rest means leaving one\'s everyday
 occupation, detaching oneself from the normal toil of the day, the week,
 and the year" (John Paul II, *Angelus*, July 20, 1980).
 
-We mustn\'t wander around aimlessly. Our time off mustn\'t just be empty
-time. It\'s very good to have a plan, to plan family fun, to plan family
-rest, or to plan holiday time.
+It's important that we don't wander around aimlessly. Our time off
+mustn\'t just be empty time. It\'s very good to have a plan, to plan
+family fun, to plan family rest, or to plan holiday time.
 
 "Sometimes," said St. John Paul II, "it would be good to go and enjoy
 nature---the mountains, the sea, the forest."
@@ -447,11 +445,11 @@ nature---the mountains, the sea, the forest."
 And of course, it should always be desirable for one\'s leisure time "to
 be filled with something different, a new content that nevertheless
 still leads to an encounter with God. We should open up the inward eyes
-of the soul to His presence in the world and incline our inward ear to
-His Word of truth" (*Ibid*.).
+of the soul to his presence in the world and incline our inward ear to
+his Word of truth" (*ibid*.).
 
-We are very well aware that many nowadays will dedicate their leisure to
-pastimes and activities which don\'t facilitate, and even on certain
+We can be very well aware that many nowadays will dedicate their leisure
+to pastimes and activities which don\'t facilitate, and even on certain
 occasions obstruct, that encounter with Christ.
 
 Far from letting ourselves be influenced by what may be considered

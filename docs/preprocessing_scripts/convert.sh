@@ -25,10 +25,12 @@ temp_file=$(mktemp)
 
 # Use LibreOffice to convert DOCX to a plain text file, suppressing output
 # LibreOffice will save the converted file in the same directory as the input
-/Applications/LibreOffice.app/Contents/MacOS/soffice --convert-to "txt:Text (encoded):UTF8" "$input_docx" --headless > /dev/null 2>&1
+/Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to "txt:Text (encoded):UTF8" "$input_docx" > /dev/null 2>&1
+
 
 # Identify the converted text file (LibreOffice names it after the original file)
 temp_file_name=$(basename "$input_docx" .docx).txt
+# echo $temp_file_name
 
 # Move the converted text file to the temporary file location for processing
 mv "$temp_file_name" "$temp_file"
@@ -55,7 +57,7 @@ if [ -z "$body" ]; then
 fi
 
 # Clean up the temporary file
-rm -f "$temp_file"
+# rm -f "$temp_file"
 
 # Output the extracted title and converted body in Markdown format
 # - The title is prefixed with '#' to format it as a Markdown header

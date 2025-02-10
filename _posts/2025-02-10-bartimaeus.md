@@ -7,11 +7,11 @@ By Fr. Conor Donnelly
 
 *(proofread)*
 
-My Lord and my God, I firmly believe that you are here, that you see me,
-that you hear me. I adore you with profound reverence. I ask your pardon
-for my sins, and grace to make this time of prayer fruitful. My
-Immaculate Mother, St. Joseph, my Father, and Lord, my Guardian Angel,
-intercede for me.
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins, and grace to make this time of prayer fruitful. My
+Immaculate Mother, St. Joseph, my Father, and lord, my guardian angel,
+intercede for me.*
 
 They reached Jericho, and as he left Jericho with his disciples and a
 great crowd, Bartimaeus, that is the son of Timaeus, a blind beggar, was
@@ -429,9 +429,10 @@ and Our Lady who is the morning star, the source of our light who leads
 us to the light, Mary, may you help us to see with greater clarity all
 the things He wants us to see.
 
-I thank you my God for the good resolutions, affections, and
+*I thank you my God for the good resolutions, affections, and
 inspirations that you have communicated to me during this meditation. I
 ask your help to put them into practice. My Immaculate Mother, St.
-Joseph, my Father, and Lord, my Guardian Angel, intercede for me. Amen.\
+Joseph, my father, and lord, my guardian angel, intercede for me.
+Amen.*\
 \
 *Olv*

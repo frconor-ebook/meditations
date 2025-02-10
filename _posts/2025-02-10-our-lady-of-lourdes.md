@@ -23,13 +23,13 @@ Today is the feast of Our Lady of Lourdes.
 
 John Paul II, talking about the popularity of Lourdes in the last
 century, would like to say that possibly, it\'s also because "the Mother
-of Jesus is there." Today, the World Day of the Sick, is a day to ask
-Our Lady of Lourdes for special things.
+of Jesus is there" (John 2:1). Today, the World Day of the Sick, is a
+day to ask Our Lady of Lourdes for special things.
 
 It\'s a day that marks the first apparition of Our Lady there in 1858 to
 a young girl, 14-year-old Bernadette Soubirous.
 
-There were a total of eighteen apparitions in all, quite a large number.
+There were a total of eighteen apparitions in all; quite a large number.
 The message of Lourdes was, as always, a message of personal conversion,
 of prayer, of charity.
 
@@ -37,8 +37,8 @@ It was approved as a feast day by Pope Leo XIII, and Pope Pius X
 extended this feast day to the Universal Church. Bernadette herself was
 beatified and canonized by Pope Pius XI in 1925.
 
-A couple of years previously, in 1854, the Church had defined the dogma,
-infallibly, the dogma of the Immaculate Conception. Then just four years
+A couple of years previously, in 1854, the Church had defined as
+infallible the dogma of the Immaculate Conception. Then just four years
 later, in this very obscure little village which Lourdes is, hidden
 there in the Pyrenees, a place you\'d pass by at the moment, you\'d
 blink, you\'d miss it, Our Lady chose to appear to this shepherd girl.
@@ -58,14 +58,14 @@ been proclaimed four years earlier.
 Little by little, in spite of many contradictions, and a lot of
 misunderstanding, which always accompanies the supernatural---Bernadette
 had to suffer a lot in her family: misunderstandings, accusations of
-fraud, all sorts of things, and punishments---eventually, she was
-believed, and a sculptor tried to make an image of the Lady that had
-appeared.
+fraud, all sorts of things, punishments---eventually, she was believed,
+and a sculptor tried to make an image of the Lady that had appeared.
 
 It was a very beautiful statue. When it was finished, Bernadette was
 asked what she thought of the statue: "Did the Lady look anything like
 this?" Despite the statue being a very beautiful statue, Bernadette
-said, "Oh, no, no, the Lady was much more beautiful." The sculptor had
+said, "Oh, no, no, the Lady was much more beautiful" (Bernadette
+Soubirous, *A Short Life of Bernadette of Lourdes*). The sculptor had
 done his best, but he didn\'t quite make it.
 
 There was a curious statistic that I heard a number of years ago.
@@ -77,7 +77,7 @@ hear about on the French Riviera, very stylish supper places.
 But curiously, at the very top of the list of tourist destinations in
 France is Lourdes. None of these other very chic places attract anything
 like the numbers that Lourdes has attracted over the years. There\'s
-something special there. The Mother of Jesus was there (cf. John 2:1).
+something special there. The Mother of Jesus was there.
 
 She appeared with her message of charity, of looking out for the sick.
 Today is the World Day of the Sick.
@@ -86,9 +86,10 @@ She was there to encourage the sick, to help them. And over time, she
 has performed many miracles; some of them spiritual, many physical. The
 cures and the miracles are almost numberless.
 
-I met an Australian missionary in Japan. (I was in Japan, I met him in
-Singapore many years ago.) He wrote a book about Lourdes. It\'s a rather
-interesting book. It was called *Healing Fire from Frozen Earth.*
+I met an Australian missionary \[Paul Glynn\] in Japan. (I was in Japan,
+I met him in Singapore many years ago.) He wrote a book about Lourdes.
+It\'s a rather interesting book. It was called *Healing Fire from Frozen
+Earth.*
 
 It was like a modern history of Lourdes, written in a very secular way,
 for a very secular readership of the 21st century, but with very cogent
@@ -146,9 +147,9 @@ decided to go and visit all the places that they had been to in France
 on their honeymoon.
 
 He began to travel all over France, as they did on their honeymoon. At
-one stage, he found himself in a small village, outside the local
-church, and he remembered that on their honeymoon, they had gone into
-the church.
+one stage, he found himself in a small village outside the local church,
+and he remembered that on their honeymoon, they had gone into the
+church.
 
 It wasn\'t politically correct for him to be seen going to churches. He
 also hated going to churches; he had no time for that sort of thing. But
@@ -174,7 +175,7 @@ eventually, he was ordained a priest.
 
 Fulton Sheen says, "I did my retreat given by that Dominican priest in
 1925. It\'s not often in the course of your life where you attend a
-retreat where the preacher frequently says, 'as my wife, Elizabeth used
+retreat where the preacher frequently says, 'as my wife Elizabeth used
 to say.'"
 
 Our Lady is capable of the most monumental conversions. On feast days
@@ -199,12 +200,13 @@ her.
 
 In the intimacy of our personal prayer, we can ask her for things. Or
 see how we turn to Our Mother frequently during the day with our
-Angelus, with our Rosary, maybe in our Morning Offering, with our
-Memorares, or other little aspirations that we may say, asking for help
-in this thing or that thing, or lights to understand things a little
-better, or the fortitude we need to get this thing done, or that problem
-solved, or placing before her all of our children and grandchildren, so
-that we are truly a powerful force in their lives, a force of prayer.
+*Angelus*, with our Rosary, maybe in our *Morning Offering*, with our
+*Memorare*s, or other little aspirations that we may say, asking for
+help in this thing or that thing, or lights to understand things a
+little better, or the fortitude we need to get this thing done, or that
+problem solved, or placing before her all of our children and
+grandchildren, so that we are truly a powerful force in their lives, a
+force of prayer.
 
 I remember I had a relation whose parents were not---well, one was
 Catholic, one wasn\'t---they weren\'t practicing. This little girl
@@ -222,37 +224,37 @@ eternity, and our fidelity in prayer, our turning to Our Lady:
 
 "Remember, O most Gracious Virgin Mary, that never was it known, that
 anyone who fled to your protection, implored your help, or sought your
-intercession was left unaided."
+intercession was left unaided" (Prayer, *The Memorare*).
 
 We know she\'s looking out for us all the time. She had a very clear
 message when she appeared in the grotto. She wanted to remind humanity
 of the need for conversion and penance. In nearly all of her
 apparitions, she said the same thing.
 
-As in nearly all of her other apparitions, she\'s also prayed the rosary
-with Bernadette, as though emphasizing the power of the rosary.
+As in nearly all of her other apparitions, she\'s also prayed the Rosary
+with Bernadette, as though emphasizing the power of the Rosary.
 
 She also spoke of how we can be co-redeemers with Christ, redeeming with
-Him, uniting our sufferings with Him on the cross---any pain, physical
+Him, uniting our sufferings with Him on the Cross---any pain, physical
 or moral, difficulties in our life, challenges, contradictions,
 mysteries---and also voluntary mortifications that we might do some day
 out of generosity, offering those things to Our Lady in atonement for
 all the sins of men.
 
 With Our Lady beside us, we can come to see how things that might appear
-to be a great tragedy can bring about great good, and consider it
-through the eyes of faith.
+to be a great tragedy can in fact bring about great good, and consider
+it through the eyes of faith.
 
 I was at a special Mass about a week or so ago in Msongari in Loreto in
 Nairobi. It was the 100th anniversary of the Loreto Sisters in Kenya,
 and of course it was a very special moment. It's possibly one of the
 longest-serving religious orders in Kenya.
 
-Archbishop Kivuva said the Mass and he was saying many beautiful things
-about the contribution the Sisters had made to the Church in Kenya; what
-the Church in Kenya would not have been if it hadn\'t been for Loreto
-Sisters, and how he\'d asked several kids, "Do you go to Loreto School?"
-They\'d say, "No, but my mother did."
+Archbishop Kivuva \[Martin Kuviva Musonde\] said the Mass and he was
+saying many beautiful things about the contribution the Sisters had made
+to the Church in Kenya; what the Church in Kenya would not have been if
+it hadn\'t been for Loreto Sisters, and how he\'d asked several kids,
+"Do you go to Loreto School?" They\'d say, "No, but my mother did."
 
 He said, half the country said the same thing, in a couple of little
 clips that are very apt.
@@ -317,11 +319,11 @@ to Our Lady, telling her that we know that she will never give us more
 than we can handle.
 
 St. Augustine says, "Do everything possible and ask for what is
-impossible" (cf. St. Augustine, *Treatise on Nature and Grace,* 43,5).
+impossible" (*cf*. St. Augustine, *Treatise on Nature and Grace,* 43,5).
 
 St. Josemaría used to say, "We\'re not just here to do the possible,
-anybody can do the possible; we\'re here to do the impossible" (cf. J.
-Escrivá, *The Forge*, Point 216).
+anybody can do the possible; we\'re here to do the impossible" (*cf*.
+Josemaría Escrivá, *The Forge*, Point 216).
 
 When you look at the history of that particular religious order, you see
 that in many ways they\'ve achieved the impossible.
@@ -335,8 +337,8 @@ hung in there.
 Some of them were saying that when they got the initial girls that came
 to the first school, they managed to convince some of the chiefs to try
 and educate their daughters. Education was unheard of. The first group
-of ten or twelve came to the school, and within 24 hours, they all ran
-away. They had to be coaxed back to the school.
+of ten or twelve came to the school, and within twenty-four hours, they
+all ran away. They had to be coaxed back to the school.
 
 Then it was a boarding school. It was far away from where they lived, so
 they had to live in conditions, and they had sacks that were filled with
@@ -350,7 +352,7 @@ standard.
 This nun told me that when they sent the papers of the girls to be
 corrected in England, the nuns kept a carbon copy of the answers of the
 girls, in case the ship went down. Wow. Nothing was to stand in the way
-of the education of these girls. Wow.
+of the education of these girls.
 
 You hear an anecdote or two like that, and you realize, my goodness,
 these were some women, with incredible ideas. That\'s why Archbishop
@@ -381,8 +383,9 @@ the help of Our Lady, not being held back by anything, by any human
 force. We learn from this how we have to try and have that same faith.
 
 John Paul II talked about how the vocation, or anybody\'s vocation, but
-particularly the vocation of Our Lady, was a pilgrimage of faith. A
-pilgrimage is a journeying forward, step by step.
+particularly the vocation of Our Lady, was "a pilgrimage of faith" (John
+Paul II, *General Audience*, March 21, 2001; Vatican II, *Lumen
+gentium*, Point 58). A pilgrimage is a journeying forward, step by step.
 
 The whole of your marriage vocation is a pilgrimage of faith. The whole
 of your Christian vocation, your apostolic vocation---there\'s always
@@ -403,7 +406,7 @@ devotion to Our Lady of Lourdes, in time of difficulty.
 
 John Paul II liked to ask the question, "Why is it precisely the sick
 who go on pilgrimage to Lourdes?" He says, "\...because the Mother of
-Jesus is there" (John Paul II, *Homily*, 11 February 1980).
+Jesus is there" (John Paul II, *Homily*, February 11, 1980).
 
 Some powerful, attractive force. She draws them there with great power
 because they know that she\'s there somehow.
@@ -427,11 +430,11 @@ by the intercession of His Mother, is revealed at Lourdes, particularly
 in the spiritual sphere. It is in the hearts of the sick that Mary makes
 the voice of her Son heard: a voice that dissolves miraculously the
 stiffening of bitterness and rebellion, and restores eyes to the soul to
-see in a new light the world, others, and one\'s destiny."
+see in a new light the world, others, and one\'s destiny" (*ibid*.).
 
 To people who may be suffering a lot, or long term, or God may have
 afflicted them with special things, this story that their suffering can
-be worthwhile, can be reunited to the cross of Christ, and have enormous
+be worthwhile, can be reunited to the Cross of Christ, and have enormous
 meritorious value---this changes everything.
 
 It makes them thank God for the crosses that He sends them. It helps
@@ -442,8 +445,8 @@ in heaven.
 Our Lady leads us to her Son, who has a special love for the sick.
 Christ went around the place doing good and healing all.
 
-He loved to heal people. While He didn't heal the whole world, He did
-heal an awful lot of people.
+He loved to heal people. He didn't heal the whole world, but He did heal
+an awful lot of people.
 
 We see how Christ reaches out to them. We can also see in the people we
 know, elderly or sick, that Christ is there in this person. "Whenever
@@ -458,9 +461,10 @@ did it to me."
 Tell Our Lord, We\'re doing it for you. It\'s not just for human thanks
 or human glory.
 
-John Paul liked to say that Christ was sensitive to every human
-suffering, whether of the body or of the soul. There are many people in
-the world who are suffering.
+John Paul liked to say, "Christ was sensitive to every human suffering,
+whether of the body or of the soul" (John Paul II, Apostolic Letter,
+*Salvifici* *Doloris*, Point 16, February 11, 1984). There are many
+people in the world who are suffering.
 
 We are on the weekend of the hearts, the 14th of February, all around
 the place, and Valentine\'s. Everybody\'s talking about hearts, and we
@@ -482,14 +486,14 @@ hearts.
 "Our hearts are restless, Lord, until they rest in you" (St. Augustine,
 *Confessions*).
 
-Christ allowed His heart to be fit by a lance on the cross, allowed His
+Christ allowed His heart to be fit by a lance on the Cross, allowed His
 heart to be broken, so that He could be like the patron saint of all
 broken hearts.
 
-Our Lady allowed her heart to be pierced by a spiritual sword, so that
-she could be there also.
+Our Lady allowed her heart to be pierced by a spiritual sword (*cf*.
+Luke 2:35), so that she could be there also.
 
-Fulton Sheen says "Only Christ and Our Lady can mend broken hearts, but
+Fulton Sheen says, "Only Christ and Our Lady can mend broken hearts, but
 you\'ve got to give them all the pieces."
 
 There was an English Lord who was in Nairobi about ten years ago. He
@@ -537,7 +541,7 @@ Suffering*).
 
 It is the great secret of Christianity that we have to communicate to
 other people: there is an opportunity to co-redeem with Jesus, to be
-beside Mary on the cross, to atone to their hearts for all the ways in
+beside Mary on the Cross, to atone to their hearts for all the ways in
 which their hearts suffer.
 
 Many times, when Our Lady appeared, she talked about that heart of
