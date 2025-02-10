@@ -18,9 +18,9 @@ intercede for me.*
 
 "Like living stones, let yourself be built into a spiritual house, to be
 a holy priesthood, to offer spiritual sacrifices acceptable to God
-through Jesus Christ" (1 Pet. 2:5), as we are told in the letter of
-Saint Peter. Today is the anniversary of the founding of the Priestly
-Society of the Holy Cross.
+through Jesus Christ" (1 Pet. 2:5), we are told in the letter of Saint
+Peter. Today is the anniversary of the founding of the Priestly Society
+of the Holy Cross.
 
 St. Josemaría was a diocesan priest. He had great love for all diocesan
 priests and all priests, but he particularly wanted to do something, and
@@ -70,14 +70,14 @@ for the institution of the priesthood, to have great love and respect
 for priests.
 
 While priests are ordained to the ministerial priesthood, he liked to
-remind all lay people that they also have participation in what is
+remind all lay people that they also have a participation in what is
 called the common priesthood of the faithful, or the universal
 priesthood of the faithful, that we receive with our Baptism.
 
 Even though we might not be ordained to the ministerial priesthood, we
 are all called to live out our priesthood in union with Christ on the
-cross. And ultimately that\'s what priestly soul means: having the same
-sentiments as Christ on the cross.
+Cross. And ultimately that\'s what priestly soul means: having the same
+sentiments as Christ on the Cross.
 
 Lay people are not ordained to administer the sacraments, which is the
 main function of the ordained ministry, priestly ministry. The lay
@@ -155,38 +155,38 @@ called to serve. That\'s the purpose of our formation and of all
 education.
 
 There was a professor once who asked some students in secondary school,
-why were they in this school with the Catholic ethos? They said, We\'re
+Why were they in this school with the Catholic ethos? They said, 'We\'re
 here to do well in our final exam so that we can get a good result, so
 we can get into a good university, so we can get a good degree, so we
-can get a good job, so we can get a good salary. He said that wasn\'t a
+can get a good job, so we can get a good salary.' He said that wasn\'t a
 very good answer.
 
 He went to some university students in a university with a Catholic
-ethos and asked them the same question. They said, We\'re here in this
+ethos and asked them the same question. They said, 'We\'re here in this
 university to study and to get a good degree so we can get a good job,
-so we can get a good salary.
+so we can get a good salary.'
 
 This professor said, This represents the failure of Catholic education,
 because the purpose of all Catholic education is to serve, "because
-Christ came not to be served, but to serve" (cf. Mark 10:45).
+Christ came not to be served, but to serve" (*cf*. Mark 10:45).
 
 We\'re called to exercise our priestly soul through service. A priest
 who is ordained to the ministerial priesthood is ordained to serve.
 That\'s the purpose of his ministry. All priesthood leads to that.
 
 Mother Teresa tells a story of how one time a journalist came to her and
-asked her, What was her opinion of women priests? She said, I often
+asked her, What was her opinion of women priests? She said, "I often
 think that the person who was most cut out to be a priest was Our Lady,
 because she was the most dignified person that was ever created. She was
 conceived without original sin. She was full of grace. She had some very
 special privileges because of her divine maternity. There was nobody who
 was created so suitable for the priesthood as Our Lady. But yet her
-vocation was to be "the handmaid of the Lord" (Luke 1:38).
+vocation was to be 'the handmaid of the Lord'" (Luke 1:38).
 
 The following day in the newspaper, Mother Teresa said there was a
-headline that said, Mother Teresa says that women make better priests
-than men. She had to get someone to call the newspaper and say, That
-wasn\'t exactly what I said.
+headline that said, 'Mother Teresa says that women make better priests
+than men.' She had to get someone to call the newspaper and say, "That
+wasn\'t exactly what I said."
 
 Somebody else said once that a woman who wants to be a priest is as
 misguided as a man who wants to be pregnant. We need to get very clear
@@ -204,7 +204,8 @@ relationships with God, to offer gifts and sacrifices for sins" (Heb.
 
 One time in Rome in the early 1950s, there was a consistory about to
 take place where they appointed cardinals. One young fellow said to St.
-Josemaría in a get-together: Father, maybe you will be made a cardinal.
+Josemaría in a get-together: 'Father, maybe you will be made a
+cardinal.'
 
 St. Josemaría changed the topic very quickly, but afterwards called him
 to his room. This young person was a medical doctor. St. Josemaría
@@ -213,7 +214,7 @@ undershirt and showed him a big red rash that he had across his chest.
 
 The doctor immediately recognized the rash as the rash of shingles,
 herpes zoster, a very painful infection of the nerve roots, where people
-usually have a fever. They\'re often in the hospital. Yet St. Josemaria
+usually have a fever. They\'re often in the hospital. Yet St. Josemaría
 was walking around and talking that get-together and working as if
 nothing was the matter.
 
@@ -231,14 +232,14 @@ One time there was a get-together on Easter Sunday night. John Paul II
 invited the UNIV students to an inner patio there in the Vatican called
 the San Damaso.
 
-At the end of the sort of get together they had, a musical get together,
-he said, I am very happy to see all of you here from different
+At the end of the sort of get-together they had, a musical get-together,
+he said, "I am very happy to see all of you here from different
 countries. Youthful, so happy and so united among yourselves from
 different places, different cultures, and different backgrounds, but yet
-there\'s a great unity among you.
+there\'s a great unity among you."
 
 The master of ceremonies who had the microphone, a young student, was
-very quick, and added to that: United to you, Holy Father.
+very quick, and added to that: "United to you, Holy Father."
 
 And as quick as a wink, the Holy Father, without missing a beat,
 immediately said, *uniti in Cristo*, united to Christ. It was a
@@ -252,16 +253,16 @@ document. A major document of the 20th century. It was also known as the
 document that banned contraception.
 
 The Holy Father was getting an awful lot of flack in the international
-press. Fulton Sheen said to him, Holy Father, you\'re well named Paul,
-because Paul they stoned, and now they\'re stoning you.
+press. Fulton Sheen said to him, "Holy Father, you\'re well named Paul,
+because Paul they stoned, and now they\'re stoning you."
 
-The Holy Father said, Yes, it\'s 10 in the evening before I get to open
+The Holy Father said, "Yes, it\'s 10 in the evening before I get to open
 my personal mail, and with each letter, there comes a thorn. When I lie
-down on my bed at night, I lie down on a crown of thorns.
+down on my bed at night, I lie down on a crown of thorns."
 
-But he said, I can\'t tell you the joy, the happiness, the peace I get
-out of knowing that I\'m making up in my body of what is lacking in the
-sufferings of Christ.
+"But," he said, "I can\'t tell you the joy, the happiness, the peace I
+get out of knowing that I\'m making up in my body of what is lacking in
+the sufferings of Christ."
 
 With that, he was quoting St. Paul to the Colossians, who says, "It
 makes me happy to be suffering for you now. And in my own body, to make
@@ -282,7 +283,7 @@ beautiful hearts. The hearts that are drawn on Valentine\'s Day cards,
 one line links up with the other. Very complete hearts.
 
 But Pope St. John Paul said that our hearts are not like that. He said,
-God has taken a piece of our heart and He\'s kept it for Himself in
+God has taken a piece of our heart, and He\'s kept it for Himself in
 heaven. We only get it back when we go there.
 
 "Our hearts are restless, Lord, until they rest in you" (St. Augustine,
@@ -293,15 +294,17 @@ hole can only be filled by God.
 
 Even though these days we see so many beautiful, complete hearts, we
 also know from the human experience that hearts can be broken. Our
-Lady\'s heart was pierced by a sword, a spiritual sword.
+Lady\'s heart was pierced by a sword, a spiritual sword (*cf*. Luke
+2:35).
 
 Christ\'s heart was pierced by a lance and there flowed out blood and
-water, the fountain of the sacramental life of the Church. We know that
-all these things can happen.
+water (John 19:34), the fountain of the sacramental life of the Church.
+We know that all these things can happen.
 
 Our hearts may be broken some time, or we might meet people with broken
 hearts. Fulton Sheen said that if ever God allows hearts to be broken,
-it\'s because He wants to enter into them a little more.
+it\'s because He wants to enter into them a little more (*cf*. Fulton J.
+Sheen, *Through* the *Year with Fulton J.* Sheen).
 
 Our Lady and Our Lord whose hearts are pierced, they\'re a bit like the
 patron saints of broken hearts. They can mend all broken hearts.
@@ -342,31 +345,30 @@ to never leave Him.
 
 Our priestly soul finds perfect expression in the Mass and in the
 prayers of the Mass and the liturgy that can be so meaningful. In the
-Preface of the First Sunday in Ordinary Time, it says:
+*Preface* of the First Sunday in Ordinary Time, it says:
 
-*Father, all-powerful and every living God. We do well always and
+"Father, all-powerful and every living God. We do well always and
 everywhere to give you thanks, through Jesus Christ, our Lord. Through
 his cross and resurrection, he freed us from sin and death and has
 called us to the glory that he has made us, the glory that has made us a
-chosen race, a royal priesthood, a holy nation, a people set apart.*
+chosen race, a royal priesthood, a holy nation, a people set apart.
 
-*Everywhere we proclaim your mighty works, for you have called us out of
-darkness into your own wonderful light.*
+"Everywhere we proclaim your mighty works, for you have called us out of
+darkness into your own wonderful light."
 
 We\'re told in the *Furrow*: "You say that you\'re now beginning to
 understand what a 'priestly soul' means. Don\'t be annoyed with me if I
 tell you that the facts show that you only realize it in theory.
----Every day the same thing happens to you: at night time, during the
+---Every day the same thing happens to you: at nighttime, during the
 examination, it\'s all desire and resolutions; during the morning and
 afternoon at work, it\'s all objections and excuses. Are you in this way
 living a 'holy priesthood, to offer spiritual sacrifices, acceptable to
 God through Jesus Christ' (1 Pet. 2:5)?" (Josemaría Escrivá, *Furrow*,
 Point 499).
 
-We have a priestly soul, but lay people, lay people, lay people, lay
-people, lay people also called to live out their priestly soul with a
-very lay mentality. That\'s the way that God wants us to live out our
-priestly soul in all situations.
+We have a priestly soul, but lay people are also called to live out
+their priestly soul with a very lay mentality. That\'s the way that God
+wants us to live out our priestly soul in all situations.
 
 To be a layperson is a real vocation. It has certain characteristics.
 Lay people are not called to imitate priests in the way they talk, the
@@ -409,7 +411,7 @@ The more we think this and live it, the more truly lay mentality we\'ll
 also have. We can ask Our Lord for the grace to live out this priestly
 soul a little better.
 
-All the time we find Our Lady standing beside the cross. Mary lived her
+All the time we find Our Lady standing beside the Cross. Mary lived her
 priestly soul at that moment more than any other.
 
 *Stabat Mater dolorosa, iuxta Crucem lacrimósa, dum pendébat Fílius*.
@@ -427,10 +429,10 @@ Our Lady lived out her priestly soul by fully accepting the will of God
 in that moment of the cross. She gives, she offers, she doesn\'t merely
 let go. She doesn\'t just tolerate. She doesn\'t assist passively or
 patiently at the sacrifice of her Son. She\'s totally involved. That\'s
-why the Church calls her a co-redeemer.
+why the Church called her a co-redeemer.
 
 St. Albert said, "Our Lady joined herself to the Father of Mercies in
-His greatest work of mercy when she shared in the Passion of her Son and
+his greatest work of mercy when she shared in the Passion of her Son and
 'thus became the helper of our redemption and the Mother of our
 spiritual generation.'"
 
