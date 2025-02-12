@@ -7,10 +7,13 @@ By Fr. Conor Donnelly
 
 *(proofread)*
 
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
 *My Lord and my God, I firmly believe that you are here, that you see
 me, that you hear me. I adore you with profound reverence. I ask your
 pardon for my sins, and grace to make this time of prayer fruitful. My
-Immaculate Mother, St. Joseph, my Father, and lord, my guardian angel,
+Immaculate Mother, St. Joseph, my father, and lord, my guardian angel,
 intercede for me.*
 
 They reached Jericho, and as he left Jericho with his disciples and a
@@ -23,7 +26,7 @@ from, and to know about.
 A blind beggar, not particularly noticeable, not particularly important,
 but suddenly he comes to occupy center stage. He was sitting at the side
 of the road. And when he heard that it was Jesus of Nazareth, he began
-to shout and cry out, "Son of David, Jesus have pity on me! "
+to shout and cry out, "Son of David, Jesus have pity on me!"
 
 Bartimaeus lived in complete darkness, but somehow, he sensed the light.
 He had a tremendous desire for the light, for clarity, for a cure. A
@@ -432,7 +435,11 @@ the things He wants us to see.
 *I thank you my God for the good resolutions, affections, and
 inspirations that you have communicated to me during this meditation. I
 ask your help to put them into practice. My Immaculate Mother, St.
-Joseph, my father, and lord, my guardian angel, intercede for me.
-Amen.*\
+Joseph, my father, and lord, my guardian angel, intercede for me.*\
+\
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*Amen.*\
 \
 *Olv*
