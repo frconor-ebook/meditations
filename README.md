@@ -163,15 +163,17 @@ cd /Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations/
 
 ## URL Shortening Scripts
 
-This process uses two Python scripts for URL shortening: `shorten_urls.py` and `process_and_shorten.py`.
+This process uses three Python scripts for URL shortening: `create_long_urls.py`, `shorten_urls.py`, and `process_and_shorten.py`.
 
-*   **`shorten_urls.py`**: This script provides the core functionality for creating custom shortened URLs. It leverages the TinyURL API for shortening and the Groq API for generating concise, human-readable aliases based on the content of the URL.
-*   **`process_and_shorten.py`**: This script orchestrates the URL shortening process. It reads a list of long URLs from a JSON file (`long_urls.json`), calls the `create_custom_short_url` function from `shorten_urls.py` to shorten each URL, and saves the results (long URL and its corresponding shortened URL) to a CSV file (`shortened_urls.csv`). It also handles skipping URLs that have already been processed to avoid duplicates.
+* **`create_long_urls.py`**: This script processes a JSON file containing meditation entries, extracts the slugs, and generates a new JSON file (`long_urls.json`) containing the corresponding long URLs.
+* **`shorten_urls.py`**: This script provides the core functionality for creating custom shortened URLs. It leverages the TinyURL API for shortening and the Groq API for generating concise, human-readable aliases based on the content of the URL.
+* **`process_and_shorten.py`**: This script orchestrates the entire URL shortening process. It first calls the `create_long_urls` function (from `create_long_urls.py`) to generate `long_urls.json` from a meditations input JSON file. Then, it reads the list of long URLs from `long_urls.json`, calls the `create_custom_short_url` function from `shorten_urls.py` to shorten each URL, and finally saves the results (each long URL and its corresponding shortened URL) to a CSV file (`shortened_urls.csv`). It also skips URLs that have already been processed to avoid duplicates.
 
-**Interrelation:** `process_and_shorten.py` imports and uses the `create_custom_short_url` function defined in `shorten_urls.py` to perform the actual URL shortening.
+**Interrelation:**
+- `process_and_shorten.py` imports and uses the `create_long_urls` function defined in `create_long_urls.py` to generate the list of long URLs.
+- It also imports and uses the `create_custom_short_url` function defined in `shorten_urls.py` to perform the actual URL shortening.
 
-**Usage:** For our main processing, we only need to use `process_and_shorten.py`.
-
-**New Meditations:** Whenever a new meditation is released, ensure that its URL is added to `long_urls.json` so it can be processed accordingly.
+**Usage:**
+For the complete processing, simply run `process_and_shorten.py`. This script will generate `long_urls.json` and then process and shorten the URLs accordingly.
 
 

@@ -3,9 +3,9 @@ import json
 import os
 from typing import List, Tuple
 
+# Import the function from create_long_urls.py
+from create_long_urls import create_long_urls
 from dotenv import load_dotenv
-
-# Assuming shorten_urls.py is in the same directory or a directory in your Python path
 from shorten_urls import create_custom_short_url
 
 
@@ -76,11 +76,17 @@ if __name__ == "__main__":
     groq_api_key = os.getenv("GROQ_API_KEY")
     tinyurl_api_token = os.getenv("TINYURL_API_TOKEN")
 
-    input_json_file = (
-        "/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations/etc/long_urls.json"
-    )
+    # Define directories and file paths
+    # Path to the meditations input JSON used by create_long_urls.py
+    meditations_input_file = "/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations/data/meditations.json"
+    # Directory where long_urls.json and the CSV will be stored
     output_directory = "/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations/etc"
 
+    # Step 1: Create the long URLs file from meditations.json
+    create_long_urls(meditations_input_file, output_directory)
+
+    # Step 2: Process the generated long URLs to create the CSV of shortened URLs
+    long_urls_file = os.path.join(output_directory, "long_urls.json")
     process_long_urls_to_csv(
-        input_json_file, output_directory, tinyurl_api_token, groq_api_key
+        long_urls_file, output_directory, tinyurl_api_token, groq_api_key
     )
