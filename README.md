@@ -171,3 +171,7 @@ This process uses two Python scripts for URL shortening: `shorten_urls.py` and `
 **Interrelation:** `process_and_shorten.py` imports and uses the `create_custom_short_url` function defined in `shorten_urls.py` to perform the actual URL shortening.
 
 **Usage:** For our main processing, we only need to use `process_and_shorten.py`.
+
+**New Meditations:** Whenever a new meditation is released, ensure that its URL is added to `long_urls.json` so it can be processed accordingly.
+
+
