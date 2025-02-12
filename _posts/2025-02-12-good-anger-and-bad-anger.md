@@ -1,7 +1,9 @@
 ---
 layout: homily
-title: "Good Anger, Bad Anger"
+title: "Good Anger and Bad Anger"
 ---
+
+By Fr. Conor Donnelly
 
 (*Proofread*)
 
@@ -58,9 +60,9 @@ We could ask Our Lord for that grace to have that good type of anger, to
 react when things are wrong---not to be careless or lacking in love, or
 not to go the extra mile, not to be lacking in fortitude.
 
-We are born children of anger. There\'s a great anger that dominates the
-world. It can live in the hearts of men. It can cause a lot of trouble,
-a lot of chaos.
+"We are born children of anger" (Eph. 2:3). There's a great anger that
+dominates the world. It can live in the hearts of men. It can cause a
+lot of trouble, a lot of chaos.
 
 That bad anger can be everywhere. It\'s a condition where the tongue
 works faster than the mind. That bad anger can cause people to hurt each
@@ -90,13 +92,13 @@ changed or to be converted, even by the gentle words of his father. "His
 father came out and began to urge him to come in."
 
 He finds he doesn\'t love his brother; he doesn\'t love his father. The
-one he loves is himself. He\'s difficult to say things to, difficult to
-penetrate.
+only one he loves is himself. He\'s difficult to say things to,
+difficult to penetrate.
 
 The Book of Proverbs says, "The fool blurts out every angry feeling, but
-the wise subdues and restrains them" (Prov 12:16). It says, "A fool
+the wise subdues and restrains them" (Prov. 12:16). It says, "A fool
 gives full vent to his anger, but a wise person keeps themselves under
-control" (Prov 29:11).
+control" (Prov. 29:11).
 
 That anger can be like a galloping blind horse. Dangerous---it can go
 all over the place. This older son is full of self-righteousness: 'I am
@@ -115,9 +117,9 @@ his father---people whom he should love.
 He should be very happy at the return of his younger brother. But he\'s
 not able to be happy. His heart is not there in his human relationships.
 His heart is in his own personal things. In this situation, it all comes
-out.
+out. There may be situations in our life that sort of reveal an awful
+lot.
 
-There may be situations in our life that sort of reveal an awful lot.
 For many months and years, perhaps he was working away quietly there in
 his father\'s house, and everybody thought, 'What a good person he is.
 What a good son he is. Look at that other rascal who\'s off, wasting all
@@ -146,8 +148,8 @@ years, the reality is that he hasn\'t really been loving his father. He
 hasn\'t really been loving his brother. He hasn\'t been growing in
 charity. He\'s been loving himself.
 
-Then this particular event happens and that reality becomes public. "Yet
-you never offered me so much as a kid for me to celebrate with my
+Then this particular event happens, and that reality becomes public.
+"Yet you never offered me so much as a kid for me to celebrate with my
 friends" (Luke 15:29b). He\'s a complainer. Deep down he\'s been
 complaining.
 
@@ -172,7 +174,7 @@ he\'s so wrapped up in himself. The joy of his brother, and the joy of
 his family, and the joy of his father leaves a bitter taste. He\'s alien
 to the central ideas of the father. He\'s not united to the vine.
 
-He's very much in need of reconciliation; a deep confession of his
+He's very much in need of reconciliation; a deep Confession of his
 miseries. He doesn\'t even see. He\'s fulfilling his duty, but there\'s
 no love.
 
@@ -201,14 +203,14 @@ I was wondering, 'What\'s that?'
 'Everything is not fair.' 'My sister can stay up to watch the movie and
 I have to go to bed early. It\'s not fair.' 'My sister has a free day
 tomorrow and I\'ve got to go to school. It\'s not fair.' 'My sister has
-less homework and I have more homework. It\'s not fair.' 'Everything is
+less homework and I have more homework. It\'s not fair.' 'Everything was
 not fair.'
 
 We could spend our whole life in the age of justice and never grow out
 of it. We need a more mature approach to life. Thank God for the talents
-and abilities that he\'s given to us.
+and abilities that He\'s given to us.
 
-If I have a greater capacity to get things done or to fulfil this job,
+If I have a greater capacity to get things done or to fulfill this job,
 the talent in this area will be wonderful. It will help me to push as
 far as I can in that area and to realize that I have bigger faults in
 other areas, and that other people have great talents in other areas.
@@ -219,7 +221,7 @@ and jealousy. 'All my efforts are not recognized.' He hasn\'t learned to
 forget about himself.
 
 All through the writings of St. Josemaría, there\'s a phrase that keeps
-cropping up, which is, "Forget yourself" (Josemaría Escrivá, *Furrow*,
+cropping up, which is, "Forget yourself" (Josemaría Escrivá,*Furrow*,
 Points 640, 793; 947; *The Forge*, Point 97).
 
 Learn how to focus on others. We solve all our own problems by thinking
@@ -233,8 +235,8 @@ his pride. His heart is cold.
 
 Lord, help me not to have a cold heart. Warm up my heart. Don\'t even
 let it be lukewarm. I want to be on fire with love of you and love of
-others, to have a burning zeal. 'Come Holy Spirit, and kindle in our
-hearts the fire of your love.'
+others, to have burning zeal. "Come Holy Spirit, and kindle in our
+hearts the fire of your love."
 
 When we look at the ugliness of this particular fellow, Lord, help us to
 run a mile from being this type of person, because the potential is
@@ -287,8 +289,8 @@ good father, so happy that his brother has come back, which was the most
 important thing.
 
 Because he\'s all wrapped up in himself, he misses the most important
-thing. Takes it all for granted. He forgets others, and he forgets that
-others need forgiveness. They need tenderness. They need mercy.
+thing. He takes it all for granted. He forgets others, and he forgets
+that others need forgiveness. They need tenderness. They need mercy.
 
 This son had come back after a very rough patch in his life, where he
 was in need of being handled with kid gloves, been through a lot,
@@ -349,9 +351,9 @@ found, the meaning of life, the change that has come about---it leaves a
 bitter taste in his heart.
 
 The father comes out and speaks gently to him, man to man, calls him to
-conversion. "My son, all that I have is yours." He calls him his son,
-imploring from him that fraternal understanding, that respect for the
-person, that joyful apostolate of example.
+conversion. "My son, all that I have is yours" (Luke 15:31). He calls
+him his son, imploring from him that fraternal understanding, that
+respect for the person, that joyful apostolate of example.
 
 Forget yourself. Reach out to others. Conquer your anger. Don\'t let the
 devil dominate this moment that can be a tremendous moment in our
@@ -361,7 +363,7 @@ But the son is so wrapped up in himself that he has no time for these
 great moments. He wants all the glory 'to me.' He doesn\'t accept the
 will of God. He\'s insensitive to correction. He seems to say to his
 father, 'Don\'t come with your stories to me. I have no time for you,
-this brother of mine. No time for you either, with your nice sweet
+this brother of mine. No time for you either, with your nice, sweet
 words.' Tremendous insensitivity.
 
 Lord, help us to be very sensitive to correction. May I be a person
@@ -429,9 +431,9 @@ Lord, prevent me from being in such a good atmosphere, such a good
 family---such tenderness around me, such charity---and yet I don\'t get
 the message. What a tragedy!
 
-This parable helps us to look into the depths of the heart of man, into
-the depths of the hearts of God\'s children. See what we\'re all like on
-the inside.
+This parable helps us to look into the depths of the heart of man,
+depths of the hearts of God\'s children. See what we\'re all like on the
+inside.
 
 This older son becomes the example to avoid. The younger son is the one
 to imitate. The older son is detestable, but yet God still loves him. He

@@ -32,7 +32,8 @@ Our Father said, "Always be giving thanks to God constantly for
 everything: for what seems good and for what seems bad, for what is
 sweet and for what is bitter, for the white and for the black, for small
 things and for big things, for what seems meager and for what seems
-bountiful, for what is temporal and for what reaches unto eternity."
+bountiful, for what is temporal and for what reaches unto eternity (J.
+Escrivá, *Notes*, December 25, 1972).
 
 We all have great reasons to give thanks to God for the women of the
 Prelature and also for the Priestly Society of the Holy Cross, whose
@@ -65,10 +66,10 @@ He began, as he did in 1928 with men, to work apostolically,
 particularly from the confessional box, with the women and young girls
 who came to seek his advice.
 
-With what great thanksgiving and gratitude to Our Lord, He liked to
-remember the help that a sister of ours gave him who was taken up with
-great pain from a great illness. She offered this treasure of her
-sufferings for this divine enterprise.
+With great thanksgiving and gratitude to Our Lord, He liked to remember
+the help that a sister of ours gave him who was taken up with great pain
+from a great illness. She offered this treasure of her sufferings for
+this divine enterprise.
 
 When we go back and hear the words of Don Álvaro speaking about the
 beginnings, we can make a great act of faith, and also of thanksgiving,
@@ -101,8 +102,8 @@ more, He always reaches out with a hand to us.
 omnipotent and eternal, speaks to us constantly in the silence of our
 prayer. And we know His voice, also in moments of dryness, because if we
 are ready and open, as our Father was, to put into practice what Our
-Lord asks of us, even though we have to go against the grain, He leaves
-in us, or gives us, that unequivocal sign of interior peace."
+Lord asks of us, even though we have to go against the grain, He gives
+us that unequivocal sign of interior peace."
 
 We can thank God also for that peace that we have in our vocation, in
 our life, in the means of formation, in our own personal apostolate, in
@@ -112,7 +113,7 @@ work that God wants us to do, so that we take our vocation very
 seriously, we are willing to carry the cross, because we know God will
 fill us with His interior peace.
 
-"He also speaks to us," said Don Alvaro, "through other people in
+"He also speaks to us," said Don Álvaro, "through other people in
 spiritual direction. It was Our Lord who spoke to each one of us at the
 beginning of our vocation, when somebody opened up for us this joyful
 horizon so that we would give ourselves to the Work. Later on, we count
@@ -146,7 +147,7 @@ of their time.
 In *Conversations* he says, "The development, maturity, emancipation of
 women should not mean a pretension to equality, to uniformity with men,
 a servile imitation of a man\'s way of doing things. That would not get
-us anywhere. Women would turn out as losers, not because they\'re better
+us anywhere. Women would turn out losers, not because they\'re better
 than men or worse, but because they\'re different."
 
 He liked to outline these particular characteristics of women and the
@@ -156,13 +157,16 @@ They\'re called to bring to the family, to society, and to the Church,
 characteristics which are their own and which they alone can give: their
 gentle warmth and untiring generosity, their love for detail, their
 quick-wittedness and intuition, their simple and deep piety, their
-constancy" (Josemaría Escrivá, *Conversations*, Point 87).
+constancy" (J. Escrivá, *Conversations*, Point 87).
 
 Pope St. John Paul liked to say that every man coming into the world is
-entrusted to the care of a woman. He liked to say that while both
-parents play a role, it\'s the woman in particular that teaches the man
-what it means to be human. Ultimately, she teaches him what it means to
-love, and then this is his greatest maturity.
+entrusted to the care of a woman (John Paul II, Apostolic Letter,
+*Mulieris dignitatem*, Point 30, August 15, 1988).
+
+He liked to say that while both parents play a role, it\'s the woman in
+particular that teaches the man what it means to be human. Ultimately,
+she teaches him what it means to love, and then this is his greatest
+maturity.
 
 One American educationalist says that every baby coming into the world
 comes into the world like a self-satisfying, hedonistic gorilla. The
@@ -192,7 +196,7 @@ to her family will always be a woman\'s greatest dignity. In the care
 she takes of her husband and children\...in her work of creating a warm
 and formative atmosphere around her, a woman fulfills the most
 indispensable part of her mission. It follows that she can achieve her
-personal perfection here."
+personal perfection here" (*ibid*.).
 
 While encouraging women to take their place in the world, to go as far
 as they can, to use all their talents, to play a great role in society,
@@ -221,7 +225,8 @@ to be experts in various fields.
 
 "The essential equality with men and women," he says, "demands an
 understanding of the complementary roles which they play in the
-Church\'s growth and in the progress of society."
+Church\'s growth and in the progress of society" (*Conversations*, Point
+14).
 
 In marriage a man does not complete a woman or the woman does not
 complete a man. They are already complete in themselves. They complement
@@ -229,7 +234,7 @@ each other.
 
 "Not in vain," he says, "did God make them man and woman. This diversity
 should be considered not in a 'patriarchal' sense but in its full, rich
-depth of tones and consequences (*Conversations*, Point 14).
+depth of tones and consequences" (*ibid*.).
 
 Diversity is something good. It's willed by God, something we have to
 foster. God created the male and female. The male should be more male
@@ -241,7 +246,7 @@ mission in the People of God and in the world as no more than showing
 that they can do equally well the tasks which were formerly reserved to
 men. I think that both men and women should rightly consider themselves
 as the protagonists in the history of salvation, but each complementing
-the work of the other."
+the work of the other" (*ibid*.).
 
 I was on a plane a few years ago and there was a young couple with their
 young baby. I couldn\'t help noticing how the mother was looking after
@@ -255,8 +260,8 @@ inadequate.
 
 It was almost amusing to see. In spite of his best efforts, he really
 couldn\'t hack it. In that little moment or two, you could see the
-difference in the quality of the talents of each person. We all have a
-different role to play.
+difference in the quality of the talents of each individual person. We
+all have a different role to play.
 
 When we look at the seeds that St. Josemaría has sown in the world by
 the will of God with the women of the Prelature, we could think, on this
@@ -290,7 +295,7 @@ Prelature, Don Álvaro talked about the spirit of the beginnings.
 He said, "This 60th anniversary is an excellent occasion that Our Lord
 gives us to remind ourselves that we always have to go forward with the
 stimulating spirit full of the novelty of the beginnings, that spirit
-with which our Founder started the work of the 2nd of October 1928, to
+with which our Founder started the Work on the 2nd of October 1928, to
 carry out the task that God was entrusting to him, that made him the
 happiest person in the world because of the confidence that Our Father
 in heaven gave him."
@@ -299,13 +304,16 @@ Each one of us is called to "launch out into the deep," to see the new
 horizons of apostolate that God is placing before us, new people that we
 get to meet, new possibilities.
 
-The pandemic, the social media, there are all sorts of new means for
+The pandemic, social media, there are all sorts of new means for
 transmitting the message of the gospel. There are new people who are
 hungry to hear these things. We have to look to the future.
 
 Recently, Pope Francis has talked about how there is a great spiritual
-emptiness in the world. Our Father would like to say this is our world.
-This moment of history---it is the world that God has entrusted to us.
+emptiness in the world (Pope Francis, Apostolic Exhortation, *Querida
+Amazonia*, Point 108, February 2, 2020; *Angelus*, June 19, 2016).
+
+Our Father would like to say this is our world. This moment of
+history---it is the world that God has entrusted to us.
 
 He wants us to fill that spiritual emptiness with all the good things
 that we have to give, with the apostolate of apostolates, with the care
@@ -343,14 +351,14 @@ placed in front of me, this Circle, that class, this recollection, this
 retreat, this town or village that I have to try and bring the Work to,
 with a number of journeys.
 
-Lord, help me to have the same hope, confidence, fortitude, and
-perseverance as our Father had in fulfilling these things.
+Lord, help me to have the same hope, confidence, fortitude, perseverance
+as our Father had in fulfilling these things.
 
 Don Álvaro continues, "Without failing before any of the difficulties
 that humanly speaking were enormous, difficulties that presented
 themselves to him along his pathway, he didn\'t vacillate in any way. He
 thought of that aspiration: 'The waters will pass through the mountains'
-(Ps 104:10). Our Lord comforted him with that aspiration on the 12th of
+(Ps. 104:10). Our Lord comforted him with that aspiration on the 12th of
 December 1931 when the obstacles to the development of the Work were
 truly immense.
 
@@ -380,7 +388,7 @@ that they were redoing a number of the centers, doing a lot of
 rebuilding and extending and all sorts of developments, and that they
 had huge financial problems.
 
-Don Alvaro said, "Wonderful. I wish you many financial problems, because
+Don Álvaro said, "Wonderful. I wish you many financial problems, because
 then you will pray more."
 
 The problems lead us to pray, lead us to be supernatural. These were
@@ -388,8 +396,8 @@ great lessons that our Father and Don Álvaro learned in the course of
 time that they wanted to transmit to us.
 
 He continues, "This must be our attitude in our personal apostolate, and
-in the task that the Work confides to us. Sure of the power of God, with
-the spirit of initiative and the mentality of pioneers, we have to
+in the tasks that the Work confides to us. Sure of the power of God,
+with the spirit of initiative and the mentality of pioneers, we have to
 launch ourselves to open up new channels through which the spirit of
 Opus Dei can circulate, carrying to the most diverse environments that
 supernatural savor capable of vivifying all honorable human
@@ -420,9 +428,9 @@ forward?
 
 "The organization of the Work," he says, "does not hem us in in any way.
 Rather, through its very nature, it stimulates us. It fosters a great
-liberty of movement not only in professional and political areas, but
-that of each one of us, in the enormously wide fields of personal
-apostolic initiative."
+liberty of movement in professional and political areas, but that of
+each one of us, in the enormously wide fields of personal apostolic
+initiative."
 
 That word initiative is a very attractive word on the lips of a member
 of Opus Dei. He says, "We cannot forget that a woman of Opus Dei, a man
