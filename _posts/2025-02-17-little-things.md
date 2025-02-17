@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "The Little Things"
+title: "Little Things"
 ---
 
 By Fr. Conor Donnelly
@@ -18,9 +18,9 @@ intercede for me.*
 
 On many occasions in Our Lord\'s life, He talked about little things.
 "When they had eaten enough, he said to the disciples, 'Pick up the
-pieces left over, so that nothing is wasted.' So they picked them up and
-filled twelve baskets with scraps left over from the meal of five barley
-loaves" (John 6:12-13).
+pieces left over, so that nothing is wasted.' So, they picked them up
+and filled twelve baskets with scraps left over from the meal of five
+barley loaves" (John 6:12-13).
 
 From this great miracle where Our Lord fed five thousand people, He
 invited them to do this little environmental detail, eco-friendly, to
@@ -101,11 +101,11 @@ things, that\'s where the perfection is, that\'s where the success is.
 That\'s where our spirit is.
 
 An architect said once that "architecture begins by placing one brick on
-top of another" (cf. Ludwig Mies van der Rohe).
+top of another" ([cf]{.mark}. Ludwig Mies van der Rohe).
 
 Very often in our apostolate, St. Josemaría has taught us to begin in
 that sort of way, by placing one brick in front of another, by making
-one small step. Sometimes small things can be big things (cf. J.
+one small step. Sometimes small things can be big things (*cf*. J.
 Escrivá*, The Way*, Point 821).
 
 When Usain Bolt beat the record for the 100 meters by one-tenth of a
@@ -198,7 +198,7 @@ we ask, the way we put ourselves last, the way we try to look and see
 how some material thing could be improved a little bit.
 
 About twenty or thirty years ago, there was a piece of news in a
-newspaper called the *International Herald Tribune*, based in New York,
+newspaper called the International Herald Tribune, based in New York,
 which used to go all over the world. I think it\'s not functioning
 anymore.
 
@@ -270,9 +270,9 @@ paintings and all the paintings that down through history people had not
 wanted.
 
 This family fell on hard times, and they had to sell everything in the
-house to keep going. So, they sold everything in the house. Then they
-came to look at these old, useless, ugly paintings that were on the back
-stairs.
+house in order to keep going. So, they sold everything in the house.
+Then they came to look at these old, useless, ugly paintings that were
+on the back stairs.
 
 Some expert that came along to examine these paintings took a second
 look at one little painting, a very small little painting, and he
@@ -323,7 +323,7 @@ good job.
 This is where His grace will help us to a maximum degree. There is a
 phrase in the Book of Proverbs that says, "Show me a person who does a
 good job, and I will show you a person that is worthy of the company of
-kings" (Prov 22:29).
+kings" (Prov. 22:29).
 
 We have to be people who do a good job. We are known by the details that
 we place in things.
@@ -410,9 +410,9 @@ up little aspects of our spirit, even though they may be very small.
 
 When I started to go to a center of Opus Dei, it was a residence for
 ladies where my sister was living. I was about seven or eight at the
-time. We used to attend the midnight mass there, which was marvelous
+time. We used to attend the midnight Mass there, which was marvelous
 because we could stay up at night. In those days there were three
-masses.
+Masses.
 
 Then afterwards, there was the most important part: there was a snack.
 At this snack there were peanuts and there was orange juice. These
@@ -478,12 +478,12 @@ investigated this little thing. It was the least important thing of
 anything that was happening that day.
 
 Then when he saw it was just a newspaper, then OK, he went down to the
-car. It was interesting how that little thing caught his eye.
+car. It was interesting how that little thing caught his eye from living
+so many years with St. Josemaría. He noticed certain things.
 
-I had been living so many years with St. Josemaría. He noticed certain
-things. When he came into the house, into the center, on that first
-evening he also pointed out one or two things that those of us who were
-living there hadn\'t really noticed.
+When he came into the house, into the center, on that first evening he
+also pointed out one or two things that those of us who were living
+there hadn\'t really noticed.
 
 But immediately he spotted little things. It\'s the spirit of St.
 Josemaría if we have an eye for detail.
@@ -579,7 +579,7 @@ heart" (Luke 2:19). Silently she pondered these words, these events.
 These were little things, it was a little reaction, but yet it was full
 of significance.
 
-Mary, as we enter this table in Bethlehem, helps us to pay attention to
+Mary, as we enter this table in Bethlehem, help us to pay attention to
 all the little things that are taking place these days, so that we can
 make them part of our own lives.
 
