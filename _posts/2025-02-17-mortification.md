@@ -101,9 +101,9 @@ He said, "No, thanks, I\'m off it for Lent." Okay, that was a very nice
 thing to say, but I couldn\'t help thinking that at 82, he was still
 living a practice of Lent. I was very edified.
 
-The spirit of mortification and small things was very much alive. We
-live this spirit not just for now, not when we\'re young, but always. So
-that sort of mortification is in everything we do.
+The spirit of mortification in small things was very much alive. We live
+this spirit not just for now, not when we\'re young, but always, so that
+sort of mortification is in everything we do.
 
 Sometimes the world gets a bit scandalized by sacrifice or by
 mortification, but it\'s a funny thing, because all the greatest
@@ -113,9 +113,9 @@ If you look at Eliud Kipchoge, who broke the record for the marathon
 recently, probably, we only see him in the last hundred meters of the
 race, breaking the record in all the glory that\'s there.
 
-We don\'t see him running over the hills of Eldorette at five o\'clock
-in the morning when it\'s raining, or keeping on running and going
-uphill when he doesn\'t feel like it.
+We don\'t see him running over the hills of Eldoret at five o\'clock in
+the morning when it\'s raining, or keeping on running and going uphill
+when he doesn\'t feel like it.
 
 All the great athletes live lives like that---Messi and Usain Bolt. I
 saw a documentary of Usain Bolt recently, who I think holds the world
@@ -146,16 +146,16 @@ that don\'t work out the way we wanted them to, something unpleasant.
 All these things are possibilities for mortification. Forget about
 ourselves and offer them to Our Lord on the Cross.
 
-Lord, in this particular thing, I offer this thing to you now; in this
+Lord, in this particular thing, I offer this thing to you now, in this
 moment. I say no to myself.
 
 Sometimes God might send us a headache, or a sore toe, or we might not
 have slept so well last night, or all sorts of things. These are
-occasions to forget about ourselves and just offer them to Him and in
+occasions to forget about ourselves and just offer them to Him, and in
 that we can find our peace and our joy.
 
 There\'s a phrase in the Gospel that can be very helpful. It says, "We
-receive less blows than we deserve" (cf. Luke 12:48).
+receive less blows than we deserve" (*cf*. Luke 12:48).
 
 "We receive less blows than we deserve." If on some occasion we feel Our
 Lord is sending us too many things, too many difficulties or hardships
@@ -198,7 +198,7 @@ of the Way of the Cross with generosity, with humility.
 
 St. Josemaría also says, "We must die through mortification and penance,
 so that Christ can live in us through Love. And then follow in the
-footsteps of Christ, with a zeal to co-redeem all mankind" (*Ibid*.).
+footsteps of Christ, with a zeal to co-redeem all mankind" (*ibid*.).
 
 We mortify ourselves to be more apostolic, to think more of others, to
 go out of our way, to deny ourselves little pleasures here and there
@@ -207,7 +207,7 @@ that we offer to Our Lord for this soul and for that soul.
 This is the excitement of our life. We live for souls, everything for
 souls. Everything becomes a motive of joy. "We must give our life for
 others," he says. "That is the only way to live the life of Jesus Christ
-and to become one and the same thing with him" (*Ibid*.).
+and to become one and the same thing with him" (*ibid*.).
 
 In *The Way,* we're told: "We must give ourselves in everything, we must
 deny ourselves in everything: the sacrifice must be a holocaust" (J.
@@ -543,7 +543,7 @@ just wait for things to come.
 "Be clever," said St. Josemaría in *The Forge*, "spiritually clever.
 Don\'t wait for the Lord to send you setbacks; go out to meet them with
 a spirit of voluntary atonement. Then you\'ll receive them not so much
-with resignation (an old-sounding word) as with love---aword which is
+with resignation (an old-sounding word) as with love---a word which is
 forever young" (J. Escrivá, *The Forge*, Point 225).
 
 We see a great dynamism in Our Lady's life. She went into the hill

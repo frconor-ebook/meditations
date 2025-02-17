@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Oct. 12 Our Lady of Pilar"
+title: "Our Lady of Pilar"
 ---
 
 By Fr. Conor Donnelly
