@@ -529,7 +529,7 @@ words of charity. Kind words that bring joy to the lives of others.
 
 Help me to accept with love, as wanted by God for my growth, all the
 sufferings, physical and moral, contradictions, misunderstandings,
-miscommunications, sicknesses, limitations, this headache, that sort
+miscommunications, sicknesses, limitations, this headache, that sore
 throat, all the little things that God may send me.
 
 We have a desire to co-redeem, then all these things will be freely
