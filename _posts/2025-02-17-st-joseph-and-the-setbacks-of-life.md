@@ -27,7 +27,8 @@ for our life of holiness.
 
 It\'s an occasion for us to look a little more at the Holy Patriarch,
 this model that the Holy Father has placed in front of us in a special
-way this year. We find we have many things to learn from him.
+way this year \[Year of St. Joseph, December 8, 2020 to December 8,
+2021\]. We find we have many things to learn from him.
 
 One of those things is how St. Joseph handled the setbacks in his life.
 There were many setbacks, contradictions, difficulties, unexpected
@@ -41,8 +42,8 @@ what they were expecting (Luke 2:1-5).
 The whole mystery of the Incarnation plays out in this sort of ambiance.
 
 And we find that St. Joseph is a rock, a pillar on whom Our Lady can
-rely in a special way. Also the Christ child, as He grows, can rely on
-him in a particular way.
+rely in a special way, and also the Christ Child, as He grows, can rely
+on him in a particular way.
 
 All the time, angels were appearing to him and telling him these strange
 plans that God had for him and for the Holy Family. "Take the child and
@@ -61,11 +62,12 @@ He gives us many lessons about how to grow in holiness in our life, in
 humility, in peace and serenity, in accepting the will of God, in facing
 the challenges.
 
-In a homily called In Joseph\'s Workshop, in *Christ Is Passing By*, St.
-Josemaría likes to say that St. Joseph was "in no way frightened or shy
-of life\...he faced up to difficult situations, dealt with difficult
+In a homily called "In Joseph\'s Workshop" in *Christ Is Passing By*,
+St. Josemaría likes to say that St. Joseph was "in no way frightened or
+shy of life\...he faced up to difficult situations, dealt with difficult
 problems, and showed initiative and responsibility in all that he was
-asked to do" (J. Escrivá, cf. *Christ Is Passing By*, Point 40).
+asked to do" (*cf*. Josemaría Escrivá, *Christ Is Passing By*, Point
+40).
 
 Imagine if that could be said about us at the end of our life. We faced
 up to problems, we dealt with difficult situations. It\'s a great habit
@@ -76,7 +78,7 @@ He arose and took the child and his mother by night, and retired into
 Egypt, and he was there until the death of Herod" (Matt. 2:13-15).
 
 We find he\'s particularly strong in this virtue of fortitude. Fortitude
-is a cardinal virtue whereby we face dangers, or put up with evils or
+is a cardinal virtue whereby we face dangers or we put up with evils or
 difficult situations. It goes by different terms in modern language:
 toughness, manliness, courage, guts. St. Joseph was full of all of these
 things.
@@ -103,7 +105,7 @@ You could say that he had this ability to endure or overcome pain,
 saying no to himself, no to his comfort.
 
 He was able to endure inconvenience, disappointment, setbacks, tedium,
-all for the sake of a higher good: the birth of the Christ child or his
+all for the sake of a higher good: the birth of the Christ Child or His
 education on this planet.
 
 He fulfilled his duties to God and others, starting with the family that
@@ -228,8 +230,8 @@ All these basic things.
 When we look at his life, we see many wonderful examples. We\'re told in
 *The Way,* "Many who would let themselves be nailed to a Cross before
 the astonished gaze of thousands of spectators won\'t bear the pinpricks
-of each day with a Christian spirit. But think which is more heroic"
-(Josemaría Escrivá, *The Way*, Point 204).
+of each day with a Christian spirit. But think which is more heroic" (J.
+Escrivá, *The Way*, Point 204).
 
 These weeks we're coming towards Holy Week and we\'re going to see the
 toughness of Christ---the toughness of Christ with His Cross, which was
@@ -312,7 +314,7 @@ infuriated you so much.'
 
 The boss said, 'You\'re the only one who told me the truth.'
 
-Deep down he knew this guy was on the level. He had the courage, the
+Deep down, he knew this guy was on the level. He had the courage, the
 guts, to say this thing to his face, that he was messing up his family
 and his marriage and himself, irrespective of the consequences.
 
@@ -330,7 +332,7 @@ Sometimes people have been away from the sacraments for decades, and
 suddenly get touched by grace and Holy Week or Good Friday and realize,
 'I have to do something about my soul.'
 
-Maybe God has called you to be that person in your life, to do what\'s
+Maybe God has called you to be that person in their life, to do what\'s
 called the apostolate of Confession. Of course, sometimes that takes a
 lot of courage and fortitude to bring it up with people.
 
@@ -343,8 +345,8 @@ He knew that in Tokyo it\'s about 1 percent Catholic. So in that library
 of that third-level college, there was a chance that there might have
 been one Catholic, and he didn\'t know who that was.
 
-He thought, 'I still have to launch out into the deep with daring, and
-do the apostolate of Confession.' He said to the guy sitting in front of
+He thought, 'I still have to launch out into the deep with daring and do
+the apostolate of Confession.' He said to the guy sitting in front of
 him, 'Hey, how would you like to go to Confession?' And the guy said,
 'What\'s that?'
 
@@ -368,7 +370,7 @@ clients happy with the work that we\'ve done, double-checking.
 
 There\'s a phrase in the Book of Proverbs that says, "Show me a man who
 does a good job and I will show you a man who is worthy of the presence
-of kings" (cf. Prov. 22:29).
+of kings" (*cf*. Prov. 22:29).
 
 We all have to be people who try and do a good job, fulfilling our duty
 and, at times, doing the most important thing first.
@@ -397,8 +399,8 @@ Possibly Christ learned all these ideals from Joseph. You see, as God,
 Christ knew everything already. But in His human nature, He had to learn
 everything.
 
-He was "like us in all things but sin" (cf. Heb. 4:15). There were these
-two types of knowledge present in Him.
+He was "like us in all things but sin" (Heb. 4:15). There were these two
+types of knowledge present in Him.
 
 Theodore Roosevelt says, "The credit belongs to the man who is actually
 in the arena, whose face is marred by dust and sweat and blood; who
@@ -407,7 +409,8 @@ knows great enthusiasms, the great devotions; who spends himself in a
 worthy cause; who best knows\...the triumph of high achievement, and
 who, at the worst, if he fails, at least fails while daring greatly, so
 that his place shall never be with those cold and timid souls who know
-neither victory nor defeat."
+neither victory nor defeat" (Theodore Roosevelt, *Citizenship in a
+Republic*).
 
 Joseph invites us to have the highest ideals, the ideals of Christ,
 ideals of service. All the time we find a great spirit of service in
@@ -500,15 +503,15 @@ divine joy that arises from every pain live for Christ, in Christ, and
 with Christ.
 
 The Psalms say, "Delight in the Lord and he will give you the requests
-of your heart\...trust in him and things will work out right" (cf. Ps.
+of your heart\...trust in him and things will work out right" (*cf*. Ps.
 37:4-5).
 
-St. Paul says, "Patient in tribulation, joyful in hope" (cf. Rom.
+St. Paul says, "Patient in tribulation, joyful in hope" (*cf*. Rom.
 12:12).
 
 St. Joseph embodies all these words. In spite of the setbacks, we seem
 to see great joy in Joseph\'s life: the joy of being with Our Lady, the
-joy of being with the Christ child. A joy that did not come from human
+joy of being with the Christ Child. A joy that did not come from human
 things.
 
 The word 'joy' is written 300 times in Scripture. God is joy.
@@ -524,8 +527,8 @@ G.K. Chesterton says that one of the aspects of the cross that has not
 been written enough about is the joy of Christ on the Cross. "It is
 accomplished" (John 19:30).
 
-The joy of Our Lady, in spite of the sword that pierced her heart; the
-joy that the pain is over---things have been fulfilled.
+The joy of Our Lady, in spite of the sword that pierced her heart (*cf*.
+Luke 2:35); the joy that the pain is over---things have been fulfilled.
 
 Our Lady experienced all sorts of rejection. In Bethlehem, on the Cross.
 But yet like Joseph, she is completely calm.
@@ -549,8 +552,7 @@ learned all these things from the Holy Patriarch.
 
 "Ask your Mother Mary," we\'re told in *The Forge*, "ask St. Joseph and
 your guardian angel, to speak to the Lord and tell him the things you
-can\'t manage to put into words" (Josemaría Escrivá, *The Forge*, Point
-272).
+can\'t manage to put into words" (J. Escrivá, *The Forge*, Point 272).
 
 Not even to Joseph does Mary communicate the mystery that God has
 wrought in her. This lesson teaches us not to become accustomed to
@@ -558,7 +560,7 @@ speaking lightly, but to channel our joys and our sorrows correctly
 without seeking praise or sympathy: all the glory to God.
 
 We could ask Our Lady that she might give us special help these days and
-graces as we approach the Feast of Saint Joseph, that we might learn a
+graces as we approach the Feast of St. Joseph, that we might learn a
 little more from his virtue and also from her virtue.
 
 *I thank you, my God, for the good resolutions, affections, and
