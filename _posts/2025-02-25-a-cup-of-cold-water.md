@@ -62,7 +62,7 @@ In men\'s eyes that anonymous offering had very little value. The two
 coins were worth just a small amount. "That coin," St. Mark says, "was
 worth a quarter" (Mark 12:42). It\'s like a tenth of a denarius, which
 was the basic monetary unit; a denarius was a day\'s wages for a farm
-worker. A quarter would scarcely buy anything.
+worker. And so, a quarter would scarcely buy anything.
 
 If anyone was keeping a record of the offerings made that day in the
 temple, he probably would have thought it was not worth recording that
@@ -88,7 +88,7 @@ are not the same.
 
 We are generally impressed by the big gesture, by unusual things of the
 kind that attract everyone\'s attention. But God is moved by little
-details filled with love---a cup of cold water---which are within the
+details filled with love---\"a cup of cold water"---which are within the
 radius of action of everyone, even small children.
 
 Of course, He\'s also moved by happenings that we consider to be very
@@ -112,18 +112,17 @@ value. Only those things that we make pleasing to God have any true and
 eternal value.
 
 We could consider in our prayer the vast number of opportunities that
-present themselves to us.
-
-We\'re told by St. Francis de Sales, "Great opportunities to serve God
-seldom arise, but little ones are frequent; \[and our Lord himself has
-told us that\] 'he who is faithful over a few things will be placed over
-many' (Luke 16:10). Do all things in the name of God, and you will do
-all things well, provided you know how to fulfill your duties properly.
+present themselves to us. We're told by St. Francis de Sales, "Great
+opportunities to serve God seldom arise, but little ones are frequent;
+\[and our Lord himself has told us that\] 'he who is faithful over a few
+things will be placed over many' (Luke 16:10). Do all things in the name
+of God, and you will do all things well, provided you know how to
+fulfill your duties properly.
 
 "Then, whether you eat or drink, whether you sleep, or take recreation,
 or turn the spit of an oven, you will profit greatly in God\'s sight by
 doing all these things, because God wishes you to do them" (St. Francis
-de Sales, *Introduction to the Devout Life,* XXXV).
+de Sales, *Introduction to the Devout Life*).
 
 Often, it\'s the small things that make a job perfect, worthy of being
 offered to God: the double-checking of an email or a WhatsApp message
@@ -133,11 +132,11 @@ laid, or some little professional job that we have done.
 
 Perfection is in the details. It\'s not enough that what we\'re doing is
 good, whether it\'s work or prayer or football or hockey or volleyball.
-It has also to be well finished.
+It also has to be well finished.
 
 "For there to be virtue," St. Thomas Aquinas teaches, "it is necessary
 to attend to two things: to what is being done, and also to the way it
-is being done" (cf. Thomas Aquinas, *Quodlibet*, IV).
+is being done" (*cf*. Thomas Aquinas, *Quodlibet*, IV).
 
 As far as the way it is being done is concerned, the final touches with
 the chisel or brush can turn that work into a masterpiece, and Our Lord
@@ -161,7 +160,7 @@ value of the small things.
 
 Our aim should be to imitate Our Lord during His years in Nazareth,
 those long years of work, of family life, of friendly relationships with
-his countrymen.
+His countrymen.
 
 Doing little things with love for God\'s sake demands attention,
 sacrifice, and generosity. A single isolated little detail may not in
@@ -170,7 +169,7 @@ but he who is faithful in small things is great" (St. Augustine, *On
 Christian Doctrine*).
 
 We\'re told in *The Way*, "Love is what gives little things their value"
-(cf. J. Escrivá, *The Way,* Point 814).
+(*cf*. J. Escrivá, *The Way,* Point 814).
 
 If this love were lacking, our endeavor to look after little things
 would be pointless; it would become a mania or merely Pharisaical. We
@@ -187,7 +186,7 @@ St. John Paul said in one of his homilies: "Our humble
 surrender---insignificant in itself like the oil of the widow of
 Sarepta, or the poor widow\'s mite---becomes acceptable in God\'s eyes
 through its union with the offering of Jesus" (John Paul II, *Homily*,
-Point 1, November 7, 1982).
+November 7, 1982).
 
 At other times, details in our work, in our study, in our relationships
 with other people are the crowning of something good which would remain
@@ -311,8 +310,7 @@ to the smallest and least important details of daily life.
 St. Josemaría in the *Furrow* says, "Your duty to be a brother to all
 souls will lead you to practice the 'apostolate of little things'
 without others noticing it. You will want to serve them so that for
-them, their way becomes pleasant and agreeable" (J. Escrivá, *Furrow*,
-Point 737).
+them, their way becomes agreeable" (J. Escrivá, *Furrow*, Point 737).
 
 At times it will mean taking a real interest in what other people are
 saying; at other times it will mean putting aside our own personal
@@ -349,8 +347,9 @@ us. And we should try and do the same where each one of the virtues is
 concerned.
 
 If we give attention to little things, we will live each day to the
-full, and will know how to fill each moment with a sense of preparation
-for eternity. To do this, we could frequently ask Our Lady for help.
+full, and will know how to fill each moment with the sense of
+preparation for eternity. To do this, we could frequently ask Our Lady
+for help.
 
 Our Lady, Mother of God, pray for us, now, and in every ordinary little
 situation of our life.
