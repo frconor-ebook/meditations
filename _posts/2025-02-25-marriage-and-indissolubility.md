@@ -18,7 +18,7 @@ intercede for me..*
 
 "Some Pharisees approached Jesus, and to put him to the test, they said,
 'Is it against the Law for a man to divorce his wife on any pretext
-whatsoever?' He answered, 'Have you not read that the Creator from the
+whatever?' He answered, 'Have you not read that the Creator from the
 beginning made them male and female and that he said: This is why a man
 leaves his father and mother and becomes attached to his wife, and the
 two become one flesh? They are no longer two, therefore, but one flesh.
@@ -40,27 +40,25 @@ heart of the matter, which is the fact of indissolubility.
 allowed you to divorce your wives, but it was not like this from the
 beginning. Now I say this to you: anyone who divorces his wife---I am
 not speaking of an illicit marriage---and marries another, is guilty of
-adultery.'
-
-"The disciples said to him, 'If that is how things are between husband
-and wife, it is better not to marry.' But he replied, 'It is not
+adultery.' The disciples said to him, 'If that is how things are between
+husband and wife, it is better not to marry.' But he replied, 'It is not
 everyone who can accept what I have said, but only those to whom it is
 granted'" (Matt. 19:8-11).
 
 As the Supreme Author of all legislation, Christ restores matrimony to
 its original essence and dignity, to the way intended by God.
 
-"Have you not read that He who made them from the beginning made them
+"Have you not read that he who made them from the beginning made them
 male and female?" and said, "For this reason a man shall leave his
 father and mother and be joined to his wife, and the two shall become
-one."
+one" (Matt. 19:4-5).
 
 Our Lord proclaimed the unity and indissolubility of matrimony for all
 time, over and above any human consideration.
 
 There are many reasons which support the indissolubility of the marriage
 bond: the nature of conjugal love, the good of the children, the good of
-society. ...
+society...
 
 But the fundamental reason for the indissolubility of marriage is that
 it is the Will of the Creator. This is how He wanted marriage to
@@ -73,9 +71,8 @@ easier to break them in any place other than the one where they have
 been joined together" (St. Francis de Sales, *Introduction to the Devout
 Life*). So it is with matrimony.
 
-*Lumen gentium* of the Second Vatican Council said that a husband and
-wife need to see marriage in terms of a vocation, which is a gift from
-God.
+*Lumen gentium* of the Second Vatican Council said that husband and wife
+need to see marriage in terms of a vocation, which is a gift from God.
 
 St. Josemaría in *Christ Is Passing By* (Point 23) says that when
 marriage is viewed in this way, everything about family life and
@@ -89,7 +86,7 @@ confident in the knowledge that God will provide. This is the pathway of
 sanctity for the married person.
 
 There was a lawyer in Sydney who told a story of how she was approached
-by an elderly couple. He was 86 years old and she, 83.
+by an elderly couple. He was 86 years old and she was 83.
 
 She said, "What can I do for you?"
 
@@ -135,6 +132,7 @@ When we give others sound doctrine, that of the natural law enlightened
 by faith, we\'re doing a great good to the whole of society.
 
 It\'s good to examine our conscience in our prayer, and ask ourselves:
+
 What am I doing to defend the family, especially its weakest members,
 who can suffer most harm from these attacks?
 
@@ -145,7 +143,8 @@ concern for everyone, and especially the most needy?
 
 Our Lord\'s doctrine concerning the indissolubility and dignity of
 marriage was shocking to those present. Even His disciples commented,
-"If such is the case of a man with his wife, it\'s better not to marry."
+"If such is the case of a man with his wife, it\'s better not to marry"
+(Matt. 19:10).
 
 Then Our Lord went on to affirm the value of celibacy and virginity for
 the love of the kingdom of Heaven.
@@ -190,7 +189,7 @@ one responding to the personal call that he or she has received from Our
 Lord.
 
 The Second Vatican Council's *Lumen gentium* says, "This is a precious
-gift of divine grace given by the Father to certain souls (cf. Matt.
+gift of divine grace given by the Father to certain souls (*cf*. Matt.
 19:11; 1 Cor. 7:7), whereby they may devote themselves to God alone the
 more easily, due to an undivided heart."
 
@@ -206,7 +205,7 @@ Both presuppose a specific vocation from Our Lord.
 Virginity and celibacy do not contradict the dignity of matrimony. Quite
 the opposite; they reaffirm it.
 
-In his Apostolic Exhortation on the Family**,** *Familiaris Consortio*,
+In his Apostolic Exhortation on the Family**,** *Familiaris consortio*,
 St. John Paul II said, "Marriage and virginity or celibacy are two ways
 of expressing and living the one mystery of the covenant of God with His
 people."
@@ -220,8 +219,7 @@ Heaven loses its meaning," said \[St. John Paul II\].
 
 St. John Chrysostom has written, "Whoever denigrates marriage also
 diminishes the glory of virginity. Whoever praises it makes virginity
-more admirable and resplendent" (St. John Chrysostom, *Treatise on
-Virginity*).
+more admirable and resplendent" (St. John Chrysostom, *Virginity*).
 
 The witness of love manifested in virginity or apostolic celibacy is a
 source of joy to the children of God. This witness becomes a new way to
@@ -249,7 +247,7 @@ Apostolic Exhortation, *Familiaris consortio*, Point 16, November 22,
 
 St. Ambrose, talking about virginity, said, "God so loved this virtue
 that He did not want to come to earth without it, being born of the
-Virgin Mother."
+Virgin Mother" (St. Ambrose, *Treatise on Virginity*).
 
 We can ask Our Lady that there will always be people in the world who
 answer this call of the Lord, people who know how to give God an
@@ -294,7 +292,7 @@ the mountains and become monks? What you are saying makes me cry. You
 think that modesty and chastity are just for monks? No. Christ laid down
 common laws for all of us."
 
-St. John Chrysostom says, "And so, when He said, 'everyone who looks at
+St. John Chrysostom says, "And so, when He said: 'everyone who looks at
 a woman lustfully' (Matt. 5:28), He was not speaking to a monk, but to
 the man in the street. I do not forbid you to marry, nor do I forbid you
 to enjoy life," he said.
@@ -303,7 +301,7 @@ to enjoy life," he said.
 with countless sins. I do not lay it down as a law that you go into the
 mountains and out into the deserts. I want you to be good, modest, and
 chaste, even though you\'re in the middle of the world" (St. John
-Chrysostom, Homilies on St. Matthew's Gospel, 7,8).
+Chrysostom, *Homilies on St. Matthew's Gospel*).
 
 We can see from the things St. John Chrysostom had to say that the
 atmosphere of the time was pretty colorful.
@@ -337,7 +335,7 @@ well and reflect the dignity of the human person, which is a very key
 and deep part of our whole faith.
 
 You could also include, in this way of living, the refusal to listen to,
-or to engage in, conversations that are beneath the dignity of a
+or to engage, in conversations that are beneath the dignity of a
 Christian and of any decent person. There\'s a certain line below which
 certain jokes are not acceptable.
 
@@ -393,10 +391,10 @@ God\'s presence on earth" (J. Escrivá, *Christ Is Passing By*, Point
 
 Pope John Paul I was speaking one time to a group of newlyweds on the
 greatness of matrimony. He told them, "Last century in France there was
-a great professor, Frédéric Ozanam. He taught at the Sorbonne, and was
-immensely eloquent and very capable \[of many things\]. His friend
-Lacordaire said: 'He is so gifted, he is so good, he will become a
-priest, he will become a great bishop, this fellow.'
+a great professor, Frédéric Ozanam. He taught at the Sorbonne \[in
+Paris\], and was immensely eloquent and very capable \[of many things\].
+His friend Lacordaire said: 'He is so gifted, he is so good, he will
+become a priest, he will become a great bishop, this fellow.'
 
 "But no! He met a nice girl and they got married. Lacordaire was
 disappointed and said: 'Poor Ozanam! He too has fallen into the trap!'
@@ -418,19 +416,19 @@ and celibacy. These vocations are real treasures which the parents can
 present to the Lord in heaven.
 
 God took great care to prepare the family which would receive His Son:
-Joseph, of the house and lineage of David (Luke 2:4), would serve as the
-earthly father on equal terms with Mary, the virginal Mother.
+Joseph, of the house and lineage of David (Luke 2:4). He would serve as
+the earthly father on equal terms with Mary, the virginal Mother.
 
 Our Lord wanted to show in His own family a shining model of formation,
 protection, and love.
 
 The family is the primary, vital cell of society (Vatican II,
-*Apostolican actuositatem*) and, in a certain manner, of the Church
-itself (cf. John Paul II, Apostolic Exhortation, *Familiaris consortio*,
-November 22, 1981).
+*Apostolican actuositatem*, Point 11, November 18, 1965). and, in a
+certain manner, of the Church itself (*cf*. John Paul II, Apostolic
+Exhortation, *Familiaris consortio*, November 22, 1981, Point 3).
 
 The family has a sacred status which deserves the veneration and
-attention of all of its members, of civil society, and of the entire
+attention of all its members, of civil society, and of the entire
 Church.
 
 St. Thomas Aquinas compares the mission of parents to that of priests.
@@ -440,8 +438,7 @@ provides corporal and spiritual support.
 
 He says, "Through the sacrament of matrimony, the man and the woman come
 together to give birth to children and educate them in the worship of
-God" (Thomas Aquinas, *Summa contra gentiles*, Book IV, Chapter 58
-\[6\]).
+God" (Thomas Aquinas, *Summa contra gentiles*, Book IV, Chapter 58).
 
 By means of the generous collaboration of the parents, God Himself "will
 increase and enrich his family from day to day," says the Second Vatican

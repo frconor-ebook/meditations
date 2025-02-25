@@ -43,7 +43,7 @@ Salt gives flavor to food. It makes it pleasant. It preserves it from
 going bad. In Scripture, it\'s also a symbol of divine wisdom.
 
 In the Old Testament, it was prescribed that everything offered to God
-should be seasoned with salt (cf. Lev. 2:13), signifying that the one
+should be seasoned with salt (*cf*. Lev. 2:13), signifying that the one
 who was offering willed that his sacrifice be pleasing to God.
 
 The creation of light was God\'s first operation when He called the
@@ -51,15 +51,16 @@ universe into being. Light is a symbol of the Lord Himself, of heaven
 and of life. Darkness, on the other hand, symbolizes disorder, death,
 hell, and evil.
 
-Christ\'s disciples, His followers throughout the centuries, are the
-salt of the earth. They give a deeper meaning to all human values. They
+Christ\'s disciples, His followers throughout the centuries, are "the
+salt of the earth." They give a deeper meaning to all human values. They
 avoid corruption. They bring wisdom to men by their words. They\'re also
-the light of the world, the light which shows men the way in the midst
+"the light of the world," the light which shows men the way in the midst
 of darkness.
 
 Pope Francis has recently spoken about the spiritual emptiness of the
-world. The world is in darkness, very much in need of our being the
-light of the world.
+world (Pope Francis, Apostolic Exhortation, *Querida Amazonia*, Point
+108, February 2, 2020; *Angelus*, June 19, 2016). The world is in
+darkness, very much in need of our being the light of the world.
 
 St. Paul says when we live in accordance with our faith, with our
 irreproachable and upright conduct, then, he says, we shine "like bright
@@ -97,8 +98,7 @@ He also said that many modern evils stem from "the defection of the
 baptized and of believers, fallen away or seduced in great numbers from
 the profound truths of their faith and the doctrinal and moral vigor of
 their traditional Christian view of life, a view which had guaranteed a
-right balance to individuals and to communities alike" (John Paul II,
-*Address*, November 9, 1982).
+right balance to individuals and to communities alike" (*ibid*.).
 
 Pope St. John Paul was giving this address in which he talked about the
 need to re-evangelize Europe and the world once again, as a result of
@@ -125,7 +125,7 @@ five-minute walk.
 
 She said, "The sun has come up every day of my life. It\'s not as though
 we get out of bed in the morning and look with binoculars out the window
-to see if the sun will come up today.
+to see if the sun will come up today."
 
 She said, "The sun comes up whether it\'s hot or cold, or raining or
 sleeting or snowing or misty, or all sorts of other environments. The
@@ -144,12 +144,12 @@ virtues in our ordinary everyday living. The world must have light and
 good example has to lead the way.
 
 In view of this tide of materialism and sensuality that threatens to
-overwhelm man, Our Lord, says St. Josemaría in *The Forge* (Point 23),
-"wants another wave to issue forth from our souls---a wave that is clean
-and powerful, as the Lord\'s right hand---to overcome with its purity
-all the rottenness of materialism and undo the corruption that has
-flooded the world. It is for this, and more, that the children of God
-have come."
+overwhelm man, Our Lord, says St. Josemaría Escrivá in *The Forge*
+(Point 23), "wants another wave to issue forth from our souls---a wave
+that is clean and powerful, as the Lord\'s right hand---to overcome with
+its purity all the rottenness of materialism and undo the corruption
+that has flooded the world. It is for this, and more, that the children
+of God have come."
 
 We\'re here to bring Christ to so many people whose lives are mingled
 with our own, so that God may not be a stranger to society.
@@ -158,13 +158,13 @@ We will really transform the world---beginning with that little corner
 of it in which we live and work and where our dreams are awakened---if
 we start to teach with the testimony of our own lives; if we are
 exemplary, competent, and honest at our work; if, in family life, we
-dedicate to our children and our parents as much time as they need; if
-people see us as cheerful, even in times of difficulty and suffering; if
-we\'re outgoing and warm toward others."
+dedicate to our children and to our parents as much time as they need;
+if people see us as cheerful, even in times of difficulty and suffering;
+if we\'re outgoing and warm toward others."
 
 St. John Chrysostom in one of his homilies says, "They will have greater
 faith in our deeds than in any other form of speech" (St. John
-Chrysostom, *Homilies*).
+Chrysostom, *Homilies on St. Matthew's Gospel*).
 
 Other people will feel drawn to the life that our actions point out to
 them. Our example prepares the soil in which our words will later come
@@ -179,9 +179,9 @@ vocation to which you have been called" (Eph. 4:1).
 
 We should be known as men and women who are loyal, straightforward,
 truthful, cheerful, hardworking, and optimistic. We have to behave the
-way people do who carry out our duties properly and know how to comport
-ourselves at every moment as children of God, without letting themselves
-be swept along by the current of whatever is in vogue.
+way people do who carry out our duties properly and who know how to
+comport ourselves at every moment as children of God, without letting
+themselves be swept along by the current of whatever is in vogue.
 
 Which is stronger, the reed that stands up against the wind or the reed
 that is bent by the wind?
@@ -216,23 +216,23 @@ need to be better, where I need to improve.
 One way, a great way, of improving in all these things is to give more
 importance to our formation: to our spiritual reading; to attending
 monthly recollections, yearly retreats; and also to our cultural
-formation, so that we expose ourselves to all the wonderful bodies of
-thought and culture that Christian thinkers have left down through the
-ages.
+formation, so that we expose ourselves to the wonderful body of thought
+and culture that Christian thinkers have left down through the ages.
 
 It may be that at certain times in our life we don\'t have too much time
 for cultural reading. But later in life we probably do, and it\'s not
 something we should take lightly.
 
 Somebody said once that "one of the strongest things in the world...is
-an idea whose time has come" (cf. Victor Hugo, *The Future of Man*).
+an idea whose time has come" (*cf*. Victor Hugo, *The Future of Man*).
 From that cultural reading of Christian authors, we can get great ideas
 whose time may have come.
 
 Other people around us have to hear Christ when we speak, or also when
 we remain silent. There were key moments in Christ\'s life when He was
 silent. To be able to do this, we need to follow the Master very
-closely, the Lord of the harvest, and be identified with Him.
+closely, "the Lord of the harvest" (Matt. 8:38), and be identified with
+Him.
 
 In particular, we have to try and give a lot of good example of charity
 and of temperance, because salt that loses its savor is useless.
@@ -240,9 +240,9 @@ and of temperance, because salt that loses its savor is useless.
 The world needs a lot of temperance, control---control of the appetites,
 control of the passions.
 
-There is a series of works of mercy that give the Christians the
-possibility of showing the charity they bear in their heart: the
-corporal works of mercy, the spiritual works of mercy.
+There is a series of works of mercy that give Christians the possibility
+of showing the charity they bear in their heart: the corporal works of
+mercy, the spiritual works of mercy.
 
 All of these show a way in which to love others as God loves us. We have
 to try and share our bread and our shelter with others. We have to try
@@ -333,7 +333,7 @@ love," "the school of the soul."
 
 Sometimes a few words here and there can shed enormous light, telling
 people we can\'t compromise with evil, with the evil that may be
-promoted in the media, in movies, or all over the place.
+promoted in the media, or in movies, or all over the place.
 
 We have to stand up and be counted. We\'ve got to go against the grain.
 There may be situations at meetings, at conferences, in groups of
@@ -363,8 +363,8 @@ Let\'s not do anything this weekend that they might not be proud of."
 With those few words, he changed the whole tone of the weekend.
 
 Sometimes God has placed us in situations, at meetings, in gatherings of
-people, at conferences, to shed that sort of salt and light with a few
-simple words, change the direction in which life may be going, or
+people, at conferences, to shed that sort of *salt* and *light*with a
+few simple words, change the direction in which life may be going, or
 research may be going, or policies may be going, so that we promote the
 family, we promote life, we promote Christianity, we promote truth and
 goodness and beauty and love.
@@ -380,14 +380,14 @@ Christ.
 
 We don\'t know who\'s watching our back. We don\'t know how the Holy
 Spirit will move somebody to notice some little deed of virtue, or some
-kind gesture that we may perform with somebody else, might light a flame
+kind gesture that we may perform with somebody else might light a flame
 in their heart.
 
 Mary, with the confidence that you inspire in us, may we ask you from
-the depths of our hearts, with the words of St. Bernard: "Lord Our God,
-who made so many of the saints a lamp which gives both light and heat to
-all men, grant us to walk with this brightness, a brightness of spirit,
-as children of light."
+the depths of our hearts, with the words of \[the Opening Prayer for the
+Mass of\] St. Bernard: "Lord Our God, who made so many of the saints a
+lamp which gives both light and heat to all men, grant us to walk with
+this brightness of spirit, as children of light."
 
 *I thank you, my God, for the good resolutions, affections, and
 inspirations that you have communicated to me during this meditation. I
