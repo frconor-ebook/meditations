@@ -64,22 +64,26 @@ fact that we are children of God. And Pope Francis is saying now we have
 to be anchored in hope, a very beautiful phrase and use of words.
 
 "Hope, together with faith and charity, makes up the triptych of the
-'theological virtues' that express the heart of the Christian life (cf.
-1 Cor. 13:13; 1 Thess. 1:3). Faith, hope and love, these three remain.
-But the greatest of these is love" (1 Cor. 13:13).
+'theological virtues' that express the heart of the Christian life
+(*cf*. 1 Cor. 13:13; 1 Thess. 1:3).
 
-St. Paul says, "We should be persevering in the hope that we have from
-our Lord Jesus Christ" (Heb. 10:23).
+"Faith, hope and love, these three remain. But the greatest of these is
+love" (1 Cor. 13:13).
+
+St. Paul talks a lot about this virtue, about charity, about faith,
+about hope. We're told God our Father is active in the faith, unsparing
+in love. St. Paul says, "We should be persevering in the hope that we
+have from Our Lord Jesus Christ" (Heb. 10:23).
 
 "In their inseparable unity," Pope Francis says, "hope is the virtue
 that, so to speak, gives inward direction and purpose to the life of
 believers. That\'s why St. Paul encourages us to 'rejoice in hope, be
 patient in suffering, persevere in prayer'" (Rom. 12:12).
 
-He says, "Surely we need to 'abound in hope' (cf. Rom. 15:13), so that
+He says, "Surely we need to 'abound in hope' (*cf*. Rom. 15:13), so that
 we may bear credible and attractive witness to the faith and love that
 dwell in our hearts; that our faith may be joyful and our charity
-enthusiastic; that each of us may be able to offer a smile, a small
+enthusiastic; and that each of us may be able to offer a smile, a small
 gesture of friendship, a kind look, a ready ear, a good deed, in the
 knowledge that, in the Spirit of Jesus, these can become, for those who
 receive them, rich seeds of hope."
@@ -90,8 +94,8 @@ people---with our words, with our example, with our lifestyle, with the
 whole witness of our life well lived.
 
 "May the God of hope fill you with all joy and peace in your faith, so
-that in the power of the Holy Spirit, you may be rich in hope" (cf. Rom.
-15:13).
+that in the power of the Holy Spirit, you may be rich in hope" (*cf*.
+Rom. 15:13).
 
 The Gospel invites us to be spiritual millionaires---to be rich in
 certain ways.
@@ -107,17 +111,17 @@ seeds of hope.
 
 "Yet what is the basis of our hope?" Pope Francis asks, and he says, "To
 understand this, let us stop and reflect on 'the reasons for our hope'"
-(cf. 1 Pet. 3:15). Questions which St. Peter asks in his First Letter,
+(*cf*. 1 Pet. 3:15). Questions which St. Peter asks in his First Letter,
 chapter 3.
 
 "Simply proclaim the Lord Jesus Christ holy in your hearts, and always
 have your answer ready for people who ask you the reason for the hope
-that you have" (cf. 1 Pet. 3:15).
+that you have" (*cf*. 1 Pet. 3:15).
 
 It\'s a logical question that people should be able to ask us the reason
 for our hope.
 
-In the next part of the document *Spes non confundit*--"Hope Does Not
+In the next part of the document *Spes non confundit* or "Hope Does Not
 Disappoint," he says, "I believe in life everlasting" (Apostles' Creed).
 This is the reason for our hope.
 
@@ -129,8 +133,8 @@ our happiness'" (*Catechism of the Catholic Church*, Point 1817).
 "The Second Vatican Council says...that 'when people are deprived of
 this divine support, and lack hope in eternal life, their dignity is
 deeply impaired, as may be seen so often today. The problems then of
-life and death, of guilt and suffering, they remain unsolved. People are
-frequently thrown into despair'" (cf. Vatican II, *Gaudium et spes*,
+life and death, of guilt and suffering, remain unsolved. People are
+frequently thrown into despair'" (*cf*. Vatican II, *Gaudium et spes*,
 Point 21).
 
 "We, however," he says, "by virtue of the hope in which we were saved,
@@ -140,7 +144,7 @@ a dark abyss, but rather directed to an encounter with the Lord of
 glory."
 
 To remind everyone we meet, somehow, of the eternal happiness to which
-we are called, the eternal wedding feast, the commentators of the
+we are called, the eternal wedding feast. The commentators of the
 *Theology of the Body* of John Paul II like to say that Pope John Paul
 is saying that God wants to marry us.
 
@@ -181,7 +185,7 @@ change of minimal things. It\'s a passageway to greater things.
 
 "The Jubilee, however," says Pope Francis, "offers us the opportunity to
 appreciate anew, and with immense gratitude, the gift of the new life
-that we have received in Baptism, a life capable of transforming
+that we have received in Baptism, a life capable of \[transfiguring\]
 death\'s drama."
 
 It's very important for us to understand death. Very interesting and
@@ -198,7 +202,7 @@ be able to share with people we meet, people we know, particularly in
 difficult moments when they\'ve lost a loved one, when everything seems
 to be lost---totally the contrary!
 
-"What, then, will become of us after death?" asks Pope Francis, "With
+"What, then, will become of us after death?" asks Pope Francis. "With
 Jesus, beyond this threshold we will find eternal life, consisting in
 full communion with God as we forever contemplate and share in his
 infinite love."
@@ -209,7 +213,7 @@ into Oxford; and not only that, but she got into law in Oxford. That was
 in December. In February, she developed leukemia. She died in July.
 
 Both her parents were doctors. There came a moment when she was in the
-intensive care. She was on a heart monitor, intubated, drips, tubes
+intensive care. She was on a heart monitor, intubated, on a drip, tubes
 everywhere, and the moment came for the doctors to tell the parents that
 the moment had come to turn off the respirator.
 
@@ -233,7 +237,7 @@ to which we are called. Death can be a moment of joy for us.
 
 "With Jesus, beyond this threshold," he said, "we will find eternal
 life, consisting in full communion with God as we forever contemplate
-and share his infinite love. All that we now experience in hope, we
+and share in his infinite love. All that we now experience in hope, we
 shall then see in reality."
 
 I\'ve seen many people die very holy deaths. While working in an
@@ -258,7 +262,7 @@ once experienced, keeps us longing for more, in a desperate quest that
 leaves our hearts unsated and increasingly empty."
 
 Sometimes when you look at the great soccer matches that are taking
-place in the Euros that are going on at the moment, or the World Cup
+place, and the Euros that are going on at the moment, or the World Cup
 that comes around occasionally, if you look behind the goal at all the
 fans there waiting for that goal to happen, and the roar that comes when
 the goal takes place---it\'s a wonderful roar. It\'s a wonderful moment
@@ -283,9 +287,10 @@ We hope to love. We hope to engage and share that love with God because
 will live forever in the love that does not disappoint, the love from
 which nothing can ever separate me."
 
-Those fans behind those gold, they may never see a goal in a match. They
-may lose the match. Maybe it's the end of their aspirations until, they
-hope, to the next round. But we can never be separated from that love.
+Those fans behind those \[gold\], they may never see a goal in a match.
+They may lose the match. Maybe it's the end of their aspirations until,
+they hope, to the next round. But we can never be separated from that
+love.
 
 Pope Francis says, "We should indeed prepare ourselves consciously and
 soberly for the moment when our lives will be judged."
@@ -309,37 +314,36 @@ groundless fear"---that\'s what our hope is.
 If we look to the lives of saints, particularly recent saints that may
 speak to us a little more, we see this in their lives.
 
-"The judgment of God, who is love," St. John says in his Letter (cf. 1
-John 4:8, 16), will surely be based on love, and in particular on all
+"The judgment of God, who is love," St. John says in his Letter (*cf*. 1
+John 4:8,16), will surely be based on love, and in particular on all
 that we have done or failed to do with regard to those in need, in whose
-midst Christ, the Judge himself, is present" (cf. Matt. 25:31-46).
+midst Christ, the Judge himself, is present" (*cf*. Matt. 25:31-46).
 
 Every "I confess" in the Mass that we start with, we talked about those
 things we have done and the things we have failed to do. "Whenever you
 did it to one of these, the least of my brethren, you did it to me"
 (Matt. 25:40). Christ is present there.
 
-In Chapter 25 of St. Matthew we\'re told, "When the Son of Man comes in
+In Chapter 25 of St. Matthew we\'re told, "When the Son of man comes in
 his glory, escorted by all the angels, then he will take his seat on his
 throne of glory. All the nations will be assembled before him, and he
 will separate one from another, as a shepherd separates sheep from
-goats.
+goats, and he will place the sheep on his right hand, and the goats on
+the left.
 
-"And he will place the sheep on His right hand, and the goats on the
-left. Then the king will say to those in his right hand, 'Come, you who
-my Father has blessed, take as your heritage the kingdom prepared for
-you since the foundation of the world.
-
-"For when I was hungry, you gave me food, I was thirsty and you gave me
-drink, I was a stranger and you made me welcome" (Matt. 25:31-35).
+"Then the king will say to those in his right hand, 'Come, you who my
+Father has blessed, take as your heritage the kingdom prepared for you
+since the foundation of the world. For when I was hungry, you gave me
+food, I was thirsty and you gave me drink, I was a stranger and you made
+me welcome'" (Matt. 25:31-35).
 
 Pope Francis then goes on to talk about the Jubilee indulgence, which,
 "thanks to the power of prayer," he says, "is intended in a particular
 way for those who have gone before us, so that they may obtain full
-mercy.
+mercy...the indulgence is a way of discovering the unlimited nature of
+God\'s mercy.
 
-"The indulgence is a way of discovering the unlimited nature of God\'s
-mercy. Not by chance," he says, "for the ancients, the terms 'mercy' and
+"Not by chance," he says, "for the ancients, the terms 'mercy' and
 'indulgence' were interchangeable, as expressions of the fullness of
 God\'s forgiveness, which knows no bounds."
 
@@ -349,13 +353,11 @@ sacrament of Penance? "It assures us that God wipes away our sins.
 "We experience those powerful and comforting words of the Psalm: 'It is
 he who forgives all your guilt, who heals every one of your ills, who
 redeems your life from the grave, who crowns you with love and
-compassion.
-
-"'The Lord is compassion and love, slow to anger and rich in mercy. ...
-He does not treat us according to our sins, nor repay us according to
-our faults. For as the heavens are high above the earth, so strong is
-his love for those who fear him. As far as the east is from the west, so
-far does He remove our sins'" (Ps.103:3-4,8,10-12).
+compassion. The Lord is compassion and love, slow to anger and rich in
+mercy. ... He does not treat us according to our sins, nor repay us
+according to our faults. For as the heavens are high above the earth, so
+strong is his love for those who fear him. As far as the east is from
+the west, so far does he remove our sins'" (Ps.103:3-4,8,10-12).
 
 "The sacrament of Reconciliation," he says, "is not only a magnificent
 spiritual gift, but also a decisive, essential, and fundamental step on
@@ -367,11 +369,11 @@ those short few minutes that are extended to us as a great magnificent
 spiritual gift on a weekly basis.
 
 "There," he says, "we allow the Lord to erase our sins, to heal our
-hearts, to raise us up, to embrace us and to reveal to us his tender and
-compassionate countenance.
+hearts, to raise us up, to embrace us, and to reveal to us his tender
+and compassionate countenance.
 
 "There is no better way," he says, "to know God than to let him
-reconcile us to himself," as St. Paul says to the Corinthians (cf. 2
+reconcile us to himself," as St. Paul says to the Corinthians (*cf*. 2
 Cor. 5:20), "and to savor his forgiveness.
 
 "Let us not neglect Confession, but rediscover the beauty of the
@@ -379,21 +381,21 @@ sacrament of healing and joy, the beauty of God\'s forgiveness of our
 sins!"
 
 St. Paul says, "We are the ambassadors for Christ. It is as though God
-were urging you through us. In the name of Christ we appeal to you to be
-reconciled to God" (2 Cor. 5:20).
+were urging you through us. In the name of Christ, we appeal to you to
+be reconciled to God" (2 Cor. 5:20).
 
 "Still, as we know from personal experience, every sin 'leaves its
 mark,'" says Pope Francis. "Sin has consequences, not only outwardly in
 the effects of the wrong we do, but also inwardly, inasmuch as, 'every
 sin, even venial, entails an unhealthy attachment to creatures, which
 must be purified either here on earth, or after death, in the state
-called Purgatory' (*Catechism*, Point 1472)."
+called Purgatory'" (*Catechism*, Point 1472).
 
 And we could be reminded to offer difficult moments of our life, of our
 day, of our week, in atonement for the sins we have committed, or for
 the sins of men.
 
-"Forgiveness does not change the past;" he says, "it cannot change what
+"Forgiveness does not change the past," he says, "it cannot change what
 happened in the past, yet it can allow us to change the future and to
 live different lives, free of anger, animosity, and
 vindictiveness"---not just looking for those passing pleasures that may
@@ -407,29 +409,26 @@ The words of the Holy Father communicate great hope that can be there in
 our life.
 
 "In our journey towards the Jubilee," he says, "let us return to
-Scripture and realize that it speaks to us in these words: 'May we who
-have taken refuge in him be strongly encouraged to seize the hope set
-before us. We have this hope, a sure and steadfast anchor of the
-soul"---anchor of the soul, beautiful words reappearing there, that word
-'anchor'---"a hope that enters the inner shrine behind the curtain,
-where Jesus, a forerunner on our behalf, has entered" (Heb. 6:18-20).
+Scripture and realize that it speaks to us in these words."
+
+St. Paul to the Hebrews says, "May we who have taken refuge in him be
+strongly encouraged to seize the hope set before us. We have this hope,
+a sure and steadfast anchor of the soul"---anchor of the soul, beautiful
+words reappearing there, that word 'anchor'---"a hope that enters the
+inner shrine behind the curtain, where Jesus, a forerunner on our
+behalf, has entered" (Heb. 6:18-20).
 
 We have to stimulate that anchor. Every time we receive the
 sacraments---Holy Communion, Confession---we receive supernatural
 sacramental grace that transmits with it the virtue of the grace of
 hope, coming from the Holy Spirit.
 
-"Those words," he says, "are a forceful encouragement for us never to
-lose the hope we have been given, to hold fast to that hope and to find
-in God our refuge and our strength."
+"\[Those\] words," he says, "are a forceful encouragement for us never
+to lose the hope we have been given, to hold fast to that hope, and to
+find in God our refuge and our strength."
 
-We have this hope, a sure and steadfast anchor of the soul"---anchor of
-the soul, beautiful words reappearing there, that word 'anchor'---"a
-hope that enters the inner shrine behind the curtain, where Jesus, a
-forerunner on our behalf, has entered" (Heb. 6:18-20).
-
-"God did this so that, by two unalterable factors in which God could not
-be lying, we who have fled to him might have a vigorous encouragement to
+"...so that \[by two\] unalterable factors in which God could not be
+lying, we who have fled to him might have a vigorous encouragement to
 grasp the hope held out to us" (Heb. 6:18).
 
 This is the anchor of our soul. St. Paul says to the Hebrews, "The
@@ -439,11 +438,10 @@ priest forever of the order of Melchizedek" (Heb. 6:19-20).
 
 "The image of the anchor is eloquent; it helps us to recognize the
 stability and security that is ours amid the troubled waters of this
-life, provided we entrust ourselves to the Lord Jesus.
-
-"The storms that buffet us will never prevail, for we are firmly
-anchored in the hope born of grace, which enables us to live in Christ
-and to overcome sin, fear, and death."
+life, provided we entrust ourselves to the Lord Jesus. The storms that
+buffet us will never prevail, for we are firmly anchored in the hope
+born of grace, which enables us to live in Christ and to overcome sin,
+fear, and death."
 
 It's very appropriate for us to drop anchor in our divine affiliation,
 to contemplate it frequently.
@@ -468,13 +466,13 @@ word, 'dignity.' In the documents of the Church, it is repeated, again
 and again.
 
 "May the witness of believers be for our world a leaven of authentic
-hope, a harbinger of "new heavens and a new earth" (cf. 2 Pet. 3:13),
+hope, a harbinger of "new heavens and a new earth" (*cf*. 2 Pet. 3:13),
 where men and women will dwell in justice and harmony, in joyful
 expectation of the fulfilment of the Lord\'s promises."
 
 "What are we waiting for," says St. Peter, "relying on his promises, is
 the new heavens and the new earth, where uprightness will be at home"
-(cf. 2 Pet. 3:13).
+(*cf*. 2 Pet. 3:13).
 
 "Let us even now be drawn to this hope. Through our witness, may hope
 spread to all those who anxiously seek it."
@@ -485,8 +483,8 @@ are looking and seeking reasons for the hope that is in our life.
 "Through our witness," says Pope Francis, "may hope spread to all those
 who anxiously seek it. May the way we live our lives say to them in so
 many words: 'Hope in the Lord! Hold firm, take heart, and hope in the
-Lord!' say the Psalms. (Ps. 27:14). May the power of hope fill our days,
-as we await with confidence the coming of the Lord Jesus Christ to whom
+Lord!' say the Psalms (Ps. 27:14). May the power of hope fill our days,
+as we await with confidence the coming of the Lord Jesus Christ, to whom
 be praise and glory, now and forever."
 
 Pope Francis says, "It is not by chance that popular piety continues to

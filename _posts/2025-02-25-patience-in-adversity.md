@@ -16,7 +16,7 @@ pardon for my sins and grace to make this time of prayer fruitful. My
 Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
 intercede for me.*
 
-"But before all this happens, you will be seized and persecuted. You
+"But before all this happens, you will be seized and persecuted; you
 will be handed over to the synagogues and to imprisonment, and brought
 before kings and governors for the sake of my name. That will be your
 opportunity to bear witness.
@@ -42,10 +42,10 @@ matter what should happen: "By your endurance you will gain your lives
 and your souls" (Luke 21:19).
 
 In the years that followed, the apostles meditated on Our Lord\'s
-warning. He told them. "A servant is not greater than his master. If
+warning. He told them: "A servant is not greater than his master. If
 they persecuted me, they will persecute you" (John 15:20).
 
-Even the worst tribulation has a role to play in God\'s providence. One
+Even the worst tribulation has a role to play in God\'s providence. God
 permits contradictions because they can be the cause of greater goods.
 The early Roman persecutions strengthened the primitive Church and
 deepened her supernatural spirit.
@@ -78,7 +78,8 @@ triumphant.
 
 St. Augustine says that "patience is the virtue that allows us to bear
 adversity with a serene spirit. ... We should prize this serenity of
-soul, because it allows us to obtain greater goods."
+soul, because it allows us to obtain greater goods" (St. Augustine, *On
+Patience, 2*).
 
 The Christian should learn how to endure physical and moral hardship
 without complaining.
@@ -107,7 +108,7 @@ Patience is a powerful virtue. The struggle to live this virtue can
 relate to very mundane things: a character defect that keeps resurfacing
 in ourselves or in others. Undertakings that don\'t go as we had
 planned. Unexpected changes in schedule. Bad manners of a colleague at
-work or on the road, People who mean well but don\'t understand. Traffic
+work or on the road. People who mean well but don\'t understand. Traffic
 jams. Delays in public transportation. Too many phone calls.
 Forgetfulness. Queues.
 
@@ -128,14 +129,16 @@ something coming from the hand of God. Therefore, it is good.
 
 St. Thomas Aquinas says, "We therefore seek to identify our will with
 the Will of God. The virtue of patience enables us to endure persecution
-of every kind. Patience should be the foundation of our hope and joy."
+of every kind. Patience should be the foundation of our hope and joy"
+(*cf*. St. Thomas, *Commentary on the Epistle to the Hebrews 10:35*).
 
 There are many ways in which a Christian can practice this virtue. The
-first battleground can be in the area of our own behavior.
+first battleground can be in the area of our own behavior. It is so easy
+to become disheartened by our defects.
 
-It is so easy to become disheartened by our defects. Patience with
-ourselves. Good wine improves with time. Sometimes we have to give
-ourselves time to grow in this virtue or get better at something else.
+Patience with ourselves. Good wine improves with time. Sometimes we have
+to give ourselves time to grow in this virtue or get better at something
+else.
 
 We need to exercise patience in our interior struggle based on our
 unshakable confidence in the love that God has for us.
@@ -144,10 +147,11 @@ We know He is beside us in our ups and in our downs, in our failures and
 in our successes, like little children. If we are trying to overcome a
 character defect, it won\'t happen overnight.
 
-St. Francis de Sales says, "Our victory will ultimately be won by the
-cultivation of humility, of a trusting confidence in God, of greater
-docility." St. Francis liked to remind people that we need to have
-patience with everyone, but first and foremost with ourselves.
+Our victory will ultimately be won by the cultivation of humility, of a
+trusting confidence in God, of greater docility. St. Francis de Sales
+liked to remind people that we need to have patience with everyone, but
+first and foremost with ourselves (*cf*. St. Francis de Sales,
+*Letters*).
 
 Whenever we have contact with other people, we will encounter
 opportunities to exercise this virtue. This is certainly the case when
@@ -173,8 +177,8 @@ We need to be patient with other souls---patience when we don't see the
 fruits from the seeds that we may have sown in our children, in our
 friends, in our environment.
 
-Fr. de Torre in the Philippines used to say that patience is a great
-social force. Often, we need to give the good seed time to grow.
+Fr. Joseph de Torre in the Philippines used to say that patience is a
+great social force. Often, we need to give the good seed time to grow.
 Sometimes that is a lot of time.
 
 Our Lord wants us to sow His seed with a great peace of mind. We are
@@ -193,7 +197,7 @@ We should not give in to discouragement. Things do not change overnight.
 the growth. He will make a tiny shoot grow into a fine ear of wheat.
 
 Our Lord gives us many examples of how to practice this virtue. He was
-very well aware that the crowds did not grasp the full meaning of his
+very well aware that the crowds did not grasp the full meaning of His
 teaching, "seeing they do not see and hearing they do not hear, nor do
 they understand" (Matt. 13:13). "Too slow a wit, too dull of heart"
 (Luke 24:25).
@@ -205,7 +209,7 @@ fruit.
 
 This is a great example for every father and mother of a family who may
 think that all their effort and example is falling on deaf ears. The
-silent apostles are a good example in the home. It is never lost.
+silent apostolate of good example in the home is never lost.
 
 We see from the Gospel how the twelve apostles had their great
 limitations. Our Lord tells them on the eve of His Passion, "I have yet
@@ -213,8 +217,8 @@ many things to say to you. But you cannot bear them now" (John 16:12).
 
 Our Lord was very understanding towards His disciples. He makes
 allowances for their limitations. He goes the extra mile with them. He
-had patience with the defects and the less than perfect ways. He did not
-give up on them.
+had patience with their defects and their less than perfect ways. He did
+not give up on them.
 
 In the years to come, those same men would be the pillars of the Church.
 In our home, in our family, we are hopefully building pillars of the
@@ -227,11 +231,11 @@ times for their children who only get the message on the 501st. That
 takes an awful lot of patience and constancy.
 
 A patient person accepts the workings of God\'s providence and operates
-within that general framework. They see that maybe this thing was not
-meant to work out now; maybe this was not the fruit that God was
+within that general framework. They see that maybe, this thing was not
+meant to work out now; maybe, this was not the fruit that God was
 expecting.
 
-One time in the early development of Opus Dei, St. Josemaria with two or
+One time in the early development of Opus Dei, St. Josemaría with two or
 three other people made a journey overnight to a Spanish city called
 Villadolid to get in contact with some young people there.
 
@@ -242,9 +246,9 @@ after all their efforts.
 St. Josemaría said, 'Look, we used all the human means. We came here.
 We've prayed. We've sown the seed. We haven't lost out.'
 
-They went back to Madrid happy and peaceful in spite of that there
-seemed to be no fruits. Today there is a bustling apostolic activity in
-that city.
+They went back to Madrid happy and peaceful in spite of the fact that
+there seemed to be no fruits. Today there is a bustling apostolic
+activity in that city.
 
 We are building for the future. Patience is closely allied with the
 virtue of humility, to accept our own defects and also, the defects of
@@ -259,17 +263,17 @@ in which locked away is a very good wine." Many souls are like that.
 
 "The farmer must accommodate himself to the seasons and the soil. Hasn't
 the Master likened the Kingdom of God to a householder who went out to
-hire workers for his vineyard? (cf. Matt. 20:1-7)" (J. L. R. Sanchez de
-Alva, *The Gospel of St John*).
+hire workers for his vineyard? (Matt. 20:1-7)" (J. L. R. Sanchez de
+Alva, *The Gospel of St. John*).
 
 If truth were told, we would have to see that Our Lord has been
 incredibly patient with each one of us. We have to be sure to exercise
 that same virtue towards others in the apostolate.
 
 St. Paul tells us, "Love bears all things, believes all things, hopes
-all things, endures all things" (1 Cor 13:7). If we live this virtue, we
-will be faithful. We will become holy and help others to be holy---all
-the people that may become entrusted to our care.
+all things, endures all things" (1 Cor. 13:7). If we live this virtue,
+we will be faithful. We will become holy and help others to be
+holy---all the people that may become entrusted to our care.
 
 This virtue has a great power enclosed within it. If we are impatient
 with our own interior life, to return to Our Lord is often necessary.
@@ -294,15 +298,16 @@ moment whenever necessary" (Josemaría Escrivá, *Friends of God*, Point
 219).
 
 St. Thomas Aquinas says, "The heart of constancy lies in love: only with
-love can one be patient."
+love can one be patient" (*cf*. St. Thomas, *Summa Theologiae*, Part
+II-II, Question 136).
 
 "The kingdom of heaven may be compared to a king who decided to settle
 his accounts with his servants. When the reckoning came, they brought
-him a man who owed 10,000 talents. He had no means of paying, so his
-master gave orders that he should be sold together with his wife and
-children and all his possessions to meet the debt. At this, the servant
-threw himself at the master\'s feet with the words, 'Be patient with me,
-and I will pay the whole sum'" (Matt. 18:23-26).
+him a man who owed ten thousand talents. He had no means of paying, so
+his master gave orders that he should be sold, together with his wife
+and children and all his possessions, to meet the debt. At this, the
+servant threw himself at the master\'s feet with the words, 'Be patient
+with me, and I will pay the whole sum'" (Matt. 18:23-26).
 
 On our way towards Our Lord, many may be the defeats that we suffer;
 many of these will be of no consequence, but some will. But the
@@ -322,8 +327,8 @@ None of our friends should ever be able to speak to Our Lord in the
 words of the paralytic. We're told in the *Furrow:* "'I do not have
 anyone to help me' (John 5:7). This---unfortunately!---could be said by
 many who are spiritually sick and paralytic, who could be useful---and
-should be useful. Lord, may I never remain indifferent to souls"
-(Josemaría Escrivá, *Furrow*, Point 212).
+should be useful. Lord, may I never remain indifferent to souls" (J.
+Escrivá, *Furrow*, Point 212).
 
 Christ has converted everything that was previously death and turned
 shortcomings and errors into virtue. He is the fountain of those waters
@@ -344,17 +349,17 @@ In the Book of Ezekiel, we are told: "This water flows east down to the
 Arabah and to the sea; and flowing into the sea, it makes its waters
 wholesome. Wherever the river flows, all living creatures teeming in it
 will live. Fish will be very plentiful. Wherever the water goes, it
-brings health, and life teems wherever the river flows (Ezek. 47:8-9).
+brings health, and life teems wherever the river flows" (Ezek. 47:8-9).
 
 Christ converts everything into life. We can ask Our Lord for that grace
-to be patient in all the situations He places before us., patience with
+to be patient in all the situations He places before us, patience with
 every aspect of our being.
 
 "The Lord said to him, 'Go your way, for this man is to me a vessel of
-election, to carry my name before the Gentiles and kings and children of
-Israel, for I will show him how great things he must suffer for my
-name\'s sake'" (Acts 9:15-16). Ananias, faced with Paul, had to be
-patient with the plans of God for how he was being used in a certain
+election, to carry my name before the Gentiles, and kings, and the
+children of Israel, for I will show him how great things he must suffer
+for my name\'s sake'" (Acts 9:15-16). Ananias, faced with Paul, had to
+be patient with the plans of God for how he was being used in a certain
 way.
 
 This virtue is the virtue that helps us to accept, for love of God,
@@ -365,12 +370,12 @@ with disagreeable things on a regular basis.
 
 Our Lord was patient with the Pharisees. He was patient with the people
 of His village who did not recognize Him. He was patient with His
-accusers. He was patient with the man who slapped Him in the face. We
-should never think that God\'s delays are God\'s denials.
+accusers. He was patient with the man who slapped Him in the face.
 
-Sometimes He says yes, sometimes He says no, and sometimes He says,
-Wait. Maybe He has a better solution, or He has greater things planned
-for us up the way.
+We should never think that God\'s delays are God\'s denials. Sometimes
+He says yes, sometimes He says no, and sometimes He says, wait. Maybe He
+has a better solution, or He has greater things planned for us up the
+way.
 
 We can be patient with close and distant relatives, with the
 idiosyncrasies of the people that we live with who have ailments and

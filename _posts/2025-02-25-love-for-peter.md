@@ -70,7 +70,7 @@ earth" (Vida D. Scudder, ed., *Saint Catherine of Siena As Seen In Her
 Letters*).
 
 Our Father liked to emphasize to us that the Pope is "the Vicar of
-Christ on earth" (Josemaría Escrivá, *The Forge*, Point 135; cf.
+Christ on earth" (Josemaría Escrivá, *The Forge*, Point 135; *cf*.
 *Catechism*, Point 882).
 
 That alone is enough for us to have great unity with the Holy Father, to
@@ -121,9 +121,10 @@ himself continually asks him to do---and perhaps use those moments to
 highlight to people all the great things that the Holy Father has done.
 
 A few weeks ago, the Holy Father talked a lot about the spiritual
-emptiness of the world. Very profound words. The Holy Father says an
-awful lot of very good and beautiful things. He\'s talked a million
-times about holiness.
+emptiness of the world (Pope Francis, Apostolic Exhortation, *Querida
+Amazonia*, Point 108, February 2, 2020; *Angelus*, June 19, 2016). Very
+profound words. The Holy Father says an awful lot of very good and
+beautiful things. He\'s talked a million times about holiness.
 
 But the media doesn\'t pay any attention or record those words, because
 it\'s not part of the agenda of the media. They latch on to a few simple
@@ -244,8 +245,8 @@ a very supernatural plane, and use all sorts of occasions that come our
 way to clarify things, to make known different aspects of the teaching
 of the Holy Father.
 
-In one of his Apostolic Exhortations, *Evangelii gaudium--The Joy of the
-Gospel*, he talks about the Church\'s mission
+In one of his \[Apostolic Exhortations\], *Evangelii gaudium--The Joy of
+the Gospel*, he talks about the Church\'s mission.
 
 He said on the Church\'s missionary transformation, he speaks of his
 dream of "a missionary impulse capable of transforming everything, so
@@ -330,8 +331,8 @@ bit of an eye-opener. It helps you to realize who the Vicar of Christ on
 earth is.
 
 St. Ambrose says the Communion bread "is not a prize for the perfect but
-a powerful medicine and nourishment for the weak" (cf. St. Ambrose, *De
-Sacramentis*, as quoted in the Apostolic Exhortation *The Joy of the
+a powerful medicine and nourishment for the weak" (*cf*. St. Ambrose,
+*De Sacramentis*, as quoted in the Apostolic Exhortation *The Joy of the
 Gospel* by Pope Francis, November 24, 2013).
 
 "Communion," he says, "is not a private prayer or a beautiful spiritual
@@ -350,9 +351,9 @@ outcast, those who suffer and are alone. ... Whatever we do for them,
 Jesus regards as done to Himself."
 
 He points to the Beatitudes as showing what gives deep happiness. "What
-Catholics should strive to live up to every day, is being poor in spirit
+Catholics should strive to live up to every day is being poor in spirit
 and meek and humble of heart, merciful and peacemakers, hungering and
-thirsting for righteousness" (cf. Pope Francis, *General Audience*,
+thirsting for righteousness" (*cf*. Pope Francis, *General Audience*,
 August 6, 2014).
 
 Francis chose for his motto, "By having mercy and by selecting" which
@@ -393,7 +394,7 @@ somewhat embarrassed, and at the same time joyful for the unity given to
 us by the Holy Spirit, infinite Love. My only desire in life is to be a
 good Father. ... I am also moved by the fact that, in a letter dated 1st
 February, the Pope wrote to encourage me and place me under the care of
-Our Lady" (*Ibid*.).
+Our Lady" (*ibid*.).
 
 We have to be very clear that Pope Francis is a gift of God to the
 Church---very personal, leading with his actions, with a very universal
