@@ -3,7 +3,6 @@ layout: homily
 title: "Good Friday Passion"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(proofread)*

@@ -3,7 +3,6 @@ layout: homily
 title: "Little Duties"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

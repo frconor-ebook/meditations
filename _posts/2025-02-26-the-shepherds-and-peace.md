@@ -3,7 +3,6 @@ layout: homily
 title: "The Shepherds and Peace"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

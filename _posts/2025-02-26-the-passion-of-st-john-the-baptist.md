@@ -3,7 +3,6 @@ layout: homily
 title: "The Passion of St. John the Baptist"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

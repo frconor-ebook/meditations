@@ -3,7 +3,6 @@ layout: homily
 title: "Be You Perfect"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

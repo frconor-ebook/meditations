@@ -3,7 +3,6 @@ layout: homily
 title: "St. John the Baptist"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

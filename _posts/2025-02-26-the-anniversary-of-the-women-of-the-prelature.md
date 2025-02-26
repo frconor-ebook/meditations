@@ -3,7 +3,6 @@ layout: homily
 title: "The Anniversary of the Women of the Prelature"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

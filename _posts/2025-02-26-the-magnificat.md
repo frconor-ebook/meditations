@@ -3,7 +3,6 @@ layout: homily
 title: "The Magnificat"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

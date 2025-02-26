@@ -3,7 +3,6 @@ layout: homily
 title: "St. Joseph and the Setbacks of Life"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

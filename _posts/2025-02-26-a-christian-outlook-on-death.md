@@ -3,7 +3,6 @@ layout: homily
 title: "A Christian Outlook on Death"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

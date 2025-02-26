@@ -3,7 +3,6 @@ layout: homily
 title: "The Multiplication of the Loaves and Fish"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*

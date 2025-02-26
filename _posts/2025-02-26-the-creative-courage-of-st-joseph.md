@@ -3,7 +3,6 @@ layout: homily
 title: "The Creative Courage of St. Joseph"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "The Holy Name of Mary"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread)*

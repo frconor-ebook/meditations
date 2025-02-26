@@ -3,7 +3,6 @@ layout: homily
 title: "Zeal for Holiness Through Marriage"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

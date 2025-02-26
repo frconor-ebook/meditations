@@ -3,7 +3,6 @@ layout: homily
 title: "Our Lady of Guadalupe"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

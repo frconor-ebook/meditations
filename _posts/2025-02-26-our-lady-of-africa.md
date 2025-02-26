@@ -3,7 +3,6 @@ layout: homily
 title: "Our Lady of Africa"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)
@@ -190,3 +189,279 @@ the mobilization of resources."
 As ordinary lay people in the middle of the world, charged in this
 period of history with this great apostolic enterprise, the Pope is
 saying to each one of us that we need to be people of "fervent prayer"
+---daily prayer---"serious reflection"---monthly recollection, yearly
+retreat---"suitable planning, and the mobilization of resources."
+
+What can I do? How can I influence my environment? How can I build up a
+Christian culture in society?
+
+Pope Paul VI says, "It\'s often said nowadays that the present century
+thirsts for authenticity. Especially in regard to young people, it is
+said that they have a horror of the artificial or the false and that
+they are searching above all for truth and honesty."
+
+They have to try and see, in our lives, authentic Christian virtue. He
+says, "The witness of life has become more than ever an essential
+condition for real effectiveness" (Pope Paul VI, Apostolic Exhortation,
+*Evangelii Nuntiandi* (*Evangelization in the Modern World*), December
+8, 1975.
+
+Pope Paul VI in the same document said that while teaching is important
+and teachers are important, what\'s even more important in modern
+culture are witnesses, people who witness to their teaching, who live
+what they say, who are followers of Christ 24/7.
+
+"We are very much responsible for the progress of the Gospel that we
+proclaim," says Pope John Paul II. "Today more than ever, the Church is
+aware that her social doctrine will gain credibility more immediately
+from witness of actions than as a result of its internal logic and
+consistency."
+
+We have to try and give witness to an exemplary life in the family, in
+the workplace, in our club, in our sports arena, in all the places where
+human persons come together.
+
+The Holy Father talks about "a dynamic laity, with deeply believing
+parents, educators conscious of their responsibility, and political
+leaders animated by a profound sense of morality."
+
+Pope John Paul the Great liked to say that he paid a total of ten
+pastoral visits to Africa and Madagascar during his Pontificate, going
+to thirty-six countries.
+
+He reminds us that "the Apostle of the Gentiles, St. Paul, tells us that
+God 'desires all men to be saved and to come to the knowledge of the
+truth (1 Tim. 2:4)."
+
+He says, "The first missionaries who reached the heart of Africa must
+have felt an astonishment very similar to that experienced by the
+Christians of the apostolic age at the outpouring of the Holy Spirit."
+
+They could see that God was at work. "God\'s salvific plan for Africa is
+at the origin of the growth of the Church on the whole of the African
+continent."
+
+It\'s a very appropriate day on this Feast of Our Lady of Africa that we
+turn to her and entrust to her all our apostolic endeavors, asking her
+to continue to build up the African Church.
+
+John Paul liked to say that the 20th century had seen the miracle of
+Africa, a complete explosion of Christianity all over the continent.
+
+He said, "The Church in Africa is a missionary Church and a mission
+Church. ... 'Go therefore and make disciples of all nations'" (Matt.
+28:19).
+
+He liked to recall "the marvels wrought by God in the course of
+Africa\'s evangelization."
+
+He said, "It\'s a history that goes back to the period of the Church\'s
+very birth. The spread of the Gospel happened in different phases. The
+first centuries of Christianity saw the evangelization of Egypt and
+North Africa. A second phase, involving the parts of the Continent south
+of the Sahara, took place in the fifteenth and sixteenth centuries" to a
+large extent with Portuguese missionaries.
+
+"A third phase, marked by an extraordinary missionary effort, began in
+the nineteenth century" after Pope Leo gave a big push to the missionary
+Church.
+
+Missionaries came, men and women, setting up schools, and hospitals,
+changing culture.
+
+"We think of the Christian Churches of Africa," said Paul VI, "whose
+origins go back to the times of the Apostles and are traditionally
+associated with the name and teaching of Mark the Evangelist. We think
+of their countless saints, martyrs, confessors, and virgins, and recall
+the fact that from the second to the fourth centuries, Christian life in
+the North of Africa was most vigorous and had a leading place in
+theological study and literary production."
+
+We think back to those eras and we can see how the torch has now passed
+to us to bring about a whole new flourishing in the east and the west,
+in the north and the south.
+
+He continues, "The names of the great doctors and writers come to mind,
+men like Origen, St. Athanasius, St. Cyril, leaders of the Alexandrian
+school, and at the other end of the North African coastline, Tertullian,
+St. Cyprian, and above all, St. Augustine, one of the most brilliant
+lights of the Christian world.
+
+"There are the great saints of the desert, Paul, Anthony, Pachomius, the
+first founders of monastic life, which later spread through their
+example in both East and West. And among many others, we could also
+mention St. Frumentius, known by the name of Abba Salama, who was
+consecrated Bishop by St. Athanasius and became the first Apostle of
+Ethiopia.
+
+"During those first centuries of the Church in Africa, certain women
+also brought special witness to Christ: Saints Perpetua and Felicity,
+St. Monica and St. Thecla.
+
+"These noble examples, as also the saintly African Popes, Victor I,
+Melchiades, and Gelasius I, belong to the common heritage of the Church,
+and the Christian writers of Africa remain today a basic source for
+deepening our knowledge of the history of salvation in the light of the
+Word of God."
+
+When we look back and see how much has been accomplished, we can entrust
+the future to Our Lady of Africa, asking her for special miracles.
+
+On the 7th of June 1992, Pope John Paul was in Angola, celebrating the
+500th anniversary of the evangelization of Angola.
+
+He said, "The Acts of the Apostles indicate by name the inhabitants of
+the places who participated directly in the birth of the Church and the
+work of the breath of the Holy Spirit. They all said: 'We hear them
+telling in our own tongues the mighty works of God' (Acts 2:11). Five
+hundred years ago the people of Angola were added to this chorus of
+languages. At that moment, in your African homeland, the Pentecost of
+Jerusalem was renewed.
+
+"Your ancestors heard the message of the good news which is the language
+of the Spirit. Their hearts accepted this message for the first time,
+and they bowed their heads to the waters of the baptismal font in which,
+by the power of the Holy Spirit, a person dies with Christ and is born
+again to new life in his Resurrection.
+
+"It was certainly the same Spirit that moved those men of faith, the
+first missionaries, who in 1491 sailed into the mouth of the Zaire
+River, at Pinda, beginning a genuine missionary saga.
+
+"It was the Holy Spirit who sustained the life of those first Angolan
+Christians who returned from Europe testifying to the Christian faith.
+
+"The third phase of Africa's systemic evangelization began in the
+nineteenth century...organized by the great apostles and promoters of
+the African mission. It was a period of rapid growth."
+
+That history demonstrates how Africa "responded with great generosity to
+Christ\'s call. In recent decades many African countries have celebrated
+the first centenary of the beginning of their evangelization."
+
+This year, we celebrate 100 years of the arrival of the Loreto Sisters
+in Kenya, who were to bring about such an enormous transformation in
+education in this country, particularly in the education of women. They
+started the first school for African girls in the whole of East Africa
+in 1936, a glorious moment with enormous consequences.
+
+Pope John Paul says, "The glory and splendor of the present period of
+Africa\'s evangelization are illustrated in a truly admirable way by the
+saints whom modern Africa has given to the Church. Paul VI specifically
+talked about the Uganda martyrs. He said: 'They add a new page to that
+list of victorious men and women that we call the martyrology, in which
+we find the most magnificent as well as the most tragic stories."
+
+It's good that we come to know the stories of the African martyrs or
+other African saints, St. Bakhita, and the ones that are ongoing, that
+are coming up.
+
+He said, "The page that they add is worthy to take its place alongside
+those wonderful stories of ancient Africa. ... For from the Africa that
+was sprinkled with the blood of these martyrs, the first of this new age
+(and, God willing, the last, so sublime, so precious was their
+sacrifice), there is emerging a free and redeemed Africa."
+
+"Faced with the tremendous growth of the Church in Africa over the last
+hundred years and the fruits of holiness it has borne, there is only one
+possible explanation: all this is a gift of God. No human effort alone
+could have performed this work in the course of such a relatively short
+period of time."
+
+We can look back and thank Our Lady for everything that has been
+achieved, and also entrust the future to her. Ask her that we might "not
+squander this period of the world\'s history, and of the Church\'s
+history, that God has entrusted to each one of us" (cf. Josemaría
+Escrivá, *Friends of God*, Point 39).
+
+We show that debt of gratitude by taking care of our families, the
+domestic Church, making them seedbeds of vocations for the missionary
+Church that Africa has now become. It was to send missionaries all over
+the world, to China, to Japan, so many places that need them.
+
+We have to think with a great universal spirit. Catholic means
+universal. Our Lady will place in our hearts that great spirit if we ask
+her for it.
+
+The Holy Father says that there is a great culture and tradition in the
+role of the family in Africa. We have to help that, look after it,
+defend it, rejoice in that great grace.
+
+"Respecting the life which is conceived and born, rejecting ideas that
+are hostile to life which are imposed on them by means of economic
+systems that serve the selfishness of the rich. Africans show their
+respect for human life until its natural end, and keep elderly parents
+and relatives within the family."
+
+But the Holy Father says, "The 'winds of change' are blowing strongly in
+many parts of Africa."
+
+The Church has to play a leading role in everything that "touches upon
+integral human development." There is a need for "a more profound
+evangelization."
+
+For that to happen, we first of all must deepen our faith and take very
+good care of our formation. "We cannot give what we do not have."
+
+We have to try and work to know the teaching of the Church a little
+better, and the practice of virtue.
+
+The Church has often said that "the future of the world and of the
+Church passes through the family." We have to "oversee the quality of
+the formation that is offered."
+
+The means of social communication also need to be evangelized. The task
+belongs to ordinary Christians in the middle of the world, so that we
+"bring to bear upon the social fabric an influence aimed at changing not
+only ways of thinking, but also the very structures of society, so that
+they will better reflect God's plan for the human family.
+
+This demands "the thorough formation of the lay faithful, a formation
+that will help them to lead a fully integrated life. The virtues of
+faith, of hope, of charity have to influence the actions of the true
+follower of Christ in every activity, situation, and responsibility."
+
+We look forward to "a continuing Pentecost" asking the Holy Spirit to
+come, "where Mary, as at the first Pentecost, will have her place."
+
+Our Lady of Africa, help us to dream and to use all the means that you
+have given to us.
+
+"Unless a grain of wheat falls to the ground and dies, it remains alone.
+But if it dies, it brings forth much fruit" (John 12:24).
+
+The pathway of holiness in the middle of the world, the pathway that has
+been shown to us by Our Mother, is the way to go.
+
+"Every culture," says John Paul, "needs to be transformed by Gospel
+values in the light of the Paschal Mystery."
+
+With the apostles, during this Paschal time, we're beginning again,
+helping to build up the dignity of the human person in all possible
+ways.
+
+Pope Paul VI likes to say, "The new name for peace is development" (Paul
+VI, Encyclical, *Populorum Progressio, On the Development of Peoples*,
+March 26, 1967).
+
+As Christians in the middle of the world, we have to try and foster that
+development, and ask Our Lady, that she might help us to see the
+openings, the opportunities, the potential, to think out of the box, to
+use all the means to bring about this new evangelization which is
+urgent.
+
+Pope John Paul says, "The urgency of missionary activity derives from
+the radical newness of life brought by Christ and his followers."
+
+Our Lady of Africa, who is the Star, the bright Star of the new
+Evangelization, will help us in all these endeavors.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*JSD*

@@ -3,7 +3,6 @@ layout: homily
 title: "Bartimaeus"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(proofread)*

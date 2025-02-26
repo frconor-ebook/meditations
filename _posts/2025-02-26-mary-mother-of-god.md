@@ -3,7 +3,6 @@ layout: homily
 title: "Mary, Mother of God"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

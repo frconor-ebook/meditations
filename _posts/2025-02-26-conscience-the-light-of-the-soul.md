@@ -3,7 +3,6 @@ layout: homily
 title: "Conscience, The Light of the Soul"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

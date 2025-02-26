@@ -3,7 +3,6 @@ layout: homily
 title: "The Parable of the Rich Young Man"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread)*

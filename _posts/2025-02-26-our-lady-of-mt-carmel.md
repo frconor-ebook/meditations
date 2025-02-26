@@ -3,7 +3,6 @@ layout: homily
 title: "Our Lady of Mt. Carmel"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "The Dignity of Work"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

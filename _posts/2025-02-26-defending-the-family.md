@@ -3,7 +3,6 @@ layout: homily
 title: "Defending the Family"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

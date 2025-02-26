@@ -3,7 +3,6 @@ layout: homily
 title: "Gratitude for Pope Benedict XVI"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "The Grass of the Field"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

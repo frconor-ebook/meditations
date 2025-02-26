@@ -3,7 +3,6 @@ layout: homily
 title: "Passionately Loving the World"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

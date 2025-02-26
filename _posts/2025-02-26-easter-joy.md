@@ -3,7 +3,6 @@ layout: homily
 title: "Easter Joy"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "Souls of Prayer"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

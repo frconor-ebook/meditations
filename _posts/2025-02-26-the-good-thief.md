@@ -3,7 +3,6 @@ layout: homily
 title: "The Good Thief"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "Professional Prestige"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

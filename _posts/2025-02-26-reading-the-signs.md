@@ -3,7 +3,6 @@ layout: homily
 title: "Reading the Signs"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

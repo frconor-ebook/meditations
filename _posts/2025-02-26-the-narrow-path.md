@@ -3,7 +3,6 @@ layout: homily
 title: "The Narrow Path"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

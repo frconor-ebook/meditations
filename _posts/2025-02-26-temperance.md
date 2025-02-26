@@ -3,7 +3,6 @@ layout: homily
 title: "Temperance"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "The Grain of Wheat"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*

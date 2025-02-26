@@ -3,7 +3,6 @@ layout: homily
 title: "St. John Henry Newman on The Laity"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "The Apostolate of the Home"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

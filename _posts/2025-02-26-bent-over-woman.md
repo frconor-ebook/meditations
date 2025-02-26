@@ -3,7 +3,6 @@ layout: homily
 title: "Bent Over Woman"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

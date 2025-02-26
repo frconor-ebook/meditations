@@ -3,7 +3,6 @@ layout: homily
 title: "The Harvest is Plentiful"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

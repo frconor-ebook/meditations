@@ -3,7 +3,6 @@ layout: homily
 title: "Sts. Martha, Mary, and Lazarus"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

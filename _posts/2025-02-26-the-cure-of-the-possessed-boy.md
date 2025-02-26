@@ -3,7 +3,6 @@ layout: homily
 title: "The Cure of the Possessed Boy"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

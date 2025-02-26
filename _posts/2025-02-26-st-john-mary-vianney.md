@@ -3,7 +3,6 @@ layout: homily
 title: "St. John Mary Vianney"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*

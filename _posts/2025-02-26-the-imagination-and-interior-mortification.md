@@ -3,7 +3,6 @@ layout: homily
 title: "The Imagination and Interior Mortification"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

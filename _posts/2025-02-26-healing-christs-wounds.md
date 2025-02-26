@@ -3,7 +3,6 @@ layout: homily
 title: "Healing Christ's Wounds"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

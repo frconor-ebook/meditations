@@ -3,7 +3,6 @@ layout: homily
 title: "Fire On Earth"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

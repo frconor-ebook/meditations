@@ -3,7 +3,6 @@ layout: homily
 title: "Seed and Grace"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

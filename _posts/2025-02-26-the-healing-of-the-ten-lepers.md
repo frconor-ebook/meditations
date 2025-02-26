@@ -3,7 +3,6 @@ layout: homily
 title: "The Healing of the Ten Lepers"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

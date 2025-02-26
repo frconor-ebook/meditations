@@ -3,7 +3,6 @@ layout: homily
 title: "The Syrophoenician Woman"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

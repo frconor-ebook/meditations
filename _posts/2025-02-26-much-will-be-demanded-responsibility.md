@@ -3,7 +3,6 @@ layout: homily
 title: "Much Will Be Demanded: Responsibility"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "The Beatitudes"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

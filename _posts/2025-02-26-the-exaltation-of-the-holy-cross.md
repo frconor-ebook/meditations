@@ -3,7 +3,6 @@ layout: homily
 title: "The Exaltation of the Holy Cross"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

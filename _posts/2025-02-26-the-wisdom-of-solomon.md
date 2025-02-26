@@ -3,7 +3,6 @@ layout: homily
 title: "The Wisdom of Solomon"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

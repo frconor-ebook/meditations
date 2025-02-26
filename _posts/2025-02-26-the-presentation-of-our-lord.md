@@ -3,7 +3,6 @@ layout: homily
 title: "The Presentation of Our Lord"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

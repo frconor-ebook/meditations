@@ -3,7 +3,6 @@ layout: homily
 title: "God Has Captured Me With His Love"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*

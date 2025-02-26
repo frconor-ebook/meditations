@@ -3,7 +3,6 @@ layout: homily
 title: "The Visitation of Our Lady"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

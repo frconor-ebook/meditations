@@ -3,7 +3,6 @@ layout: homily
 title: "St. Catherine of Siena"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

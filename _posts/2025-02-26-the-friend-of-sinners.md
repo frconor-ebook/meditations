@@ -3,7 +3,6 @@ layout: homily
 title: "The Friend of Sinners"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

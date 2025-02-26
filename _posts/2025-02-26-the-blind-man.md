@@ -3,7 +3,6 @@ layout: homily
 title: "The Blind Man"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

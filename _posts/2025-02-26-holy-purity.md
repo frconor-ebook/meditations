@@ -3,7 +3,6 @@ layout: homily
 title: "Holy Purity"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "Octave of Prayer for the Unity of Christians"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

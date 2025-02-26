@@ -3,7 +3,6 @@ layout: homily
 title: "Ash Wednesday"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

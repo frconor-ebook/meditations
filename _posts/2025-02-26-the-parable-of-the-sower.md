@@ -3,7 +3,6 @@ layout: homily
 title: "The Parable of the Sower"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

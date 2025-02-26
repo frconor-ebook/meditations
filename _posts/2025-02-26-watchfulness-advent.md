@@ -3,7 +3,6 @@ layout: homily
 title: "Watchfulness (Advent)"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

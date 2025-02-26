@@ -3,7 +3,6 @@ layout: homily
 title: "Obedience"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

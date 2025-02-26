@@ -3,7 +3,6 @@ layout: homily
 title: "Unity of Life"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

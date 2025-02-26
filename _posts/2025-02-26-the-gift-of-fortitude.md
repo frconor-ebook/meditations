@@ -3,7 +3,6 @@ layout: homily
 title: "The Gift of Fortitude"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

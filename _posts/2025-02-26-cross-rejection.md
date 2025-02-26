@@ -3,7 +3,6 @@ layout: homily
 title: "Cross Rejection"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

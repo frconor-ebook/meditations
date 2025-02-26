@@ -3,7 +3,6 @@ layout: homily
 title: "The Resurrection"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "Comforter of the Afflicted"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

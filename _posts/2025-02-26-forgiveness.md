@@ -3,7 +3,6 @@ layout: homily
 title: "Forgiveness"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

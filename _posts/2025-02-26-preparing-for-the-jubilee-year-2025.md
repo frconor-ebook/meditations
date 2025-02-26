@@ -3,7 +3,6 @@ layout: homily
 title: "Preparing for the Jubilee Year 2025"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "The Light Streaming from Bethlehem"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

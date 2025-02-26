@@ -3,7 +3,6 @@ layout: homily
 title: "Mother of the Church"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

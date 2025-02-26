@@ -3,7 +3,6 @@ layout: homily
 title: "Abandonment"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*

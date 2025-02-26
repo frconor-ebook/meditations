@@ -3,7 +3,6 @@ layout: homily
 title: "St. Francis of Assisi"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*

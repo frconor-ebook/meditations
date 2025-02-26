@@ -3,7 +3,6 @@ layout: homily
 title: "The Father in the Work"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

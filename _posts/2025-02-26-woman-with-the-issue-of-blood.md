@@ -3,7 +3,6 @@ layout: homily
 title: "Woman with the Issue of Blood"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

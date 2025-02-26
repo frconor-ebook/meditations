@@ -3,7 +3,6 @@ layout: homily
 title: "The Last Day of the Year (Dec. 31)"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

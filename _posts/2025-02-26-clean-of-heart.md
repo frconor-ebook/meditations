@@ -3,7 +3,6 @@ layout: homily
 title: "Clean of Heart"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

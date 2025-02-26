@@ -3,7 +3,6 @@ layout: homily
 title: "The Crucifixion"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

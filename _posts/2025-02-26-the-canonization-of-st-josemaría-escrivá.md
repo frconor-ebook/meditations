@@ -3,7 +3,6 @@ layout: homily
 title: "The Canonization of St. Josemaría Escrivá"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

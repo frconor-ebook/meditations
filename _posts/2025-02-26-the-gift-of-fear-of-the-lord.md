@@ -3,7 +3,6 @@ layout: homily
 title: "The Gift of Fear of the Lord"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

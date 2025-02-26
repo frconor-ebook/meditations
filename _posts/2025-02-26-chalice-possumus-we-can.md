@@ -1,8 +1,7 @@
 ---
 layout: homily
-title: "Chalice, *Possumus*, We Can"
+title: "Chalice, Possumus, We Can"
 ---
-
 
 By Fr. Conor Donnelly
 

@@ -3,7 +3,6 @@ layout: homily
 title: "The Ascension"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "St. Joseph in the Incarnation (Pope Francis)"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

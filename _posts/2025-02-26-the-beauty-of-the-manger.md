@@ -3,7 +3,6 @@ layout: homily
 title: "The Beauty of the Manger"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

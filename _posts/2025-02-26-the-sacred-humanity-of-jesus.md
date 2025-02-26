@@ -3,7 +3,6 @@ layout: homily
 title: "The Sacred Humanity of Jesus"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

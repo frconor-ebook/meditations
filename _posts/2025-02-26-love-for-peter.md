@@ -3,7 +3,6 @@ layout: homily
 title: "Love for Peter"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

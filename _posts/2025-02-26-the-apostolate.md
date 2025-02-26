@@ -3,7 +3,6 @@ layout: homily
 title: "The Apostolate"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

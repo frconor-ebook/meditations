@@ -3,7 +3,6 @@ layout: homily
 title: "You Are Nothing"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

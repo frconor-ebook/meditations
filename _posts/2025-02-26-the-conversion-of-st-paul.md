@@ -3,7 +3,6 @@ layout: homily
 title: "The Conversion of St. Paul"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

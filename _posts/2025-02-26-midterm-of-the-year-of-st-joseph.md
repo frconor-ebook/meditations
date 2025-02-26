@@ -3,7 +3,6 @@ layout: homily
 title: "Midterm of the Year of St. Joseph"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "Magnanimity"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "Making Good Decisions or The Virtue of Prudence"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

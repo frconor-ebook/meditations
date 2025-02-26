@@ -3,7 +3,6 @@ layout: homily
 title: "Life of Childhood"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)
@@ -31,9 +30,10 @@ little ones."
 All through our life, Our Lord is calling us to be like little ones,
 little ones more and more all the time.
 
-Part of our vocation is to become small. St Josemaría liked to say, "The
-foundation of our whole spiritual life is our divine filiation, that we
-are children of God" (Josemaría Escrivá, *Letter*, Jan. 25, 1961).
+Part of our vocation is to become small. St. Josemaría liked to say,
+"The foundation of our whole spiritual life is our divine filiation,
+that we are children of God" (Josemaría Escrivá, *Letter*, Jan. 25,
+1961).
 
 We are told in Scripture, "All who are guided by the Spirit of God are
 children of God; for what you received was not the spirit of slavery to
@@ -123,8 +123,8 @@ us.
 One of the greatest gifts that God could give to any person in the 21st
 century is a vocation to Opus Dei.
 
-That\'s why after our Communion every day and our Thanksgiving after
-Mass, it is very good to thank God for our vocation. Every day of our
+That\'s why after our Communion every day in our *Thanksgiving after
+Mass*, it is very good to thank God for our vocation. Every day of our
 life, it is the greatest possible gift that God could give to us. It is
 a great gift from Our loving Father.
 
@@ -260,10 +260,10 @@ every moment we can confide in Our Father God.
 We never feel alone. It\'s a wonderful thing. There is so much
 loneliness in this world.
 
-But we never feel alone because we know we are surrounded by Our Father
-God whether in the tabernacle, the department store, or wherever we may
-go, and also surrounded by all of our Christian brothers and sisters who
-are there to help us.
+But we need never feel alone because we know we are surrounded by Our
+Father God whether in the tabernacle, in the department, or wherever we
+may go, and also surrounded by all of our Christian brothers and sisters
+who are there to help us.
 
 Our divine filiation opens wonderful horizons for us, helps us to know
 the deeper things of life. "You have hidden these things from the wise
@@ -418,7 +418,7 @@ forward, and with more love, with more affection, with more strength.
 "Take refuge in your divine sonship: God is your most loving Father. In
 this lies your security, a haven where you can drop anchor no matter
 what is happening on the surface of the sea of life. And you will find
-joy, strength, optimism: victory!" (*Ibid*.)
+joy, strength, optimism: victory!" (*ibid*.)
 
 These are rather beautiful words. "Drop anchor" in your divine
 filiation. Take refuge there.

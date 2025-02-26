@@ -3,7 +3,6 @@ layout: homily
 title: "Obedience in Bethlehem"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

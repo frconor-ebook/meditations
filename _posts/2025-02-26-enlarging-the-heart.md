@@ -3,7 +3,6 @@ layout: homily
 title: "Enlarging the Heart"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

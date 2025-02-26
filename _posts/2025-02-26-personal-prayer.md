@@ -3,7 +3,6 @@ layout: homily
 title: "Personal Prayer"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "Plan of Life"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

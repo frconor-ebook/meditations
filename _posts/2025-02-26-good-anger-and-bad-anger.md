@@ -3,7 +3,6 @@ layout: homily
 title: "Good Anger and Bad Anger"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

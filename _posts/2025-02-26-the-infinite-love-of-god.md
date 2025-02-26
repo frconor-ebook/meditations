@@ -3,7 +3,6 @@ layout: homily
 title: "The Infinite Love of God"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

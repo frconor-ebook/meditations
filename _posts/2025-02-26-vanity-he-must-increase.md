@@ -3,7 +3,6 @@ layout: homily
 title: "Vanity (He Must Increase)"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

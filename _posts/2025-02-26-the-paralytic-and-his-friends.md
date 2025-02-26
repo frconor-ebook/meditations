@@ -3,7 +3,6 @@ layout: homily
 title: "The Paralytic and His Friends"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*

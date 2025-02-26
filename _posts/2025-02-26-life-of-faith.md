@@ -3,7 +3,6 @@ layout: homily
 title: "Life of Faith"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

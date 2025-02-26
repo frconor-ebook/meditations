@@ -3,7 +3,6 @@ layout: homily
 title: "Easter Faith"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

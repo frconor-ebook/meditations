@@ -3,7 +3,6 @@ layout: homily
 title: "Thanksgiving"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

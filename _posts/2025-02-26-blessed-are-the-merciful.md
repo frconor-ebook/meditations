@@ -3,7 +3,6 @@ layout: homily
 title: "Blessed Are the Merciful"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "At St. Joseph's Side"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

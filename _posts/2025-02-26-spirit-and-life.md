@@ -3,7 +3,6 @@ layout: homily
 title: "Spirit and Life"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "Parable of the Laborers in the Vineyard"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)
