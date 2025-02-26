@@ -1,0 +1,446 @@
+---
+layout: homily
+title: "Bartimaeus"
+---
+
+
+By Fr. Conor Donnelly
+
+*(proofread)*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins, and grace to make this time of prayer fruitful. My
+Immaculate Mother, St. Joseph, my father, and lord, my guardian angel,
+intercede for me.*
+
+They reached Jericho, and as he left Jericho with his disciples and a
+great crowd, Bartimaeus, that is the son of Timaeus, a blind beggar, was
+sitting at the side of the road. Our Lord is on his way to Jerusalem and
+enters Bartimaeus, a famous person that we have heard about down through
+the centuries, a particular person God wants us to look at, to learn
+from, and to know about.
+
+A blind beggar, not particularly noticeable, not particularly important,
+but suddenly he comes to occupy center stage. He was sitting at the side
+of the road. And when he heard that it was Jesus of Nazareth, he began
+to shout and cry out, "Son of David, Jesus have pity on me!"
+
+Bartimaeus lived in complete darkness, but somehow, he sensed the light.
+He had a tremendous desire for the light, for clarity, for a cure. A
+desire for the light as we have also a desire for the light, for truth,
+for beauty, for the fulfillment of the mission, for all the things that
+our heart yearns for.
+
+But in Bartimaeus, it was there in a deeper interior sort of physical
+way. And he somehow sensed that this was his moment. Christ is passing
+by. He senses the importance of the moment.
+
+St. Paul says we have been chosen out before the foundation of the
+world. If we have been chosen out before the foundation of the world,
+then there are certain moments in our life that have also been chosen,
+particular moments of opportunity, of joy, of insight, of clarity and
+God gives each one of us those sort of moments, maybe on a retreat,
+maybe on a recollection, maybe in a certain point in our studies or
+things we are learning or reading a book, moments when suddenly things
+come clear, or clearer, or they go deeper.
+
+And so Bartimaeus has this sense of the moment, a life-changing
+experience is about to happen. Well, we all have certain life-changing
+experiences. Yesterday I was in rural Nyamira, again visiting that
+farmer that I told you about a month or so ago, and there are some
+ladies in Singapore who make dresses for children, and I happened to
+bring along one of these small dresses. There was a three-year-old
+little girl there and her mother put it on and she looked beautiful and
+we took a photo and she looked a bit like the cat who stole the cream,
+so happy in her new dress, beautiful little photo and it fitted
+perfectly.
+
+Well, sometimes God gives us these little experiences that are rich,
+beautiful, and special. Bartimaeus somehow sensed this moment. He began
+to shout and to cry out: "Son of David, Jesus have pity on me." He
+realizes the importance of this moment; he couldn\'t have missed this
+moment.
+
+Very important that we are attentive to those sorts of moments when they
+come along, so we\'re not distracted or thinking of something else, but
+we catch what\'s flying. He had been longing and longing for this
+opportunity, and now our Lord has come within range of his voice.
+
+We know that Jesus always listens to us. He\'s always available, He\'s
+close to us, and He\'s beside us. But there may be moments when He
+listens to us in a special way, and now Bartimaeus is particularly aware
+that I have the ear of the Master. He can hear me, and so nothing in the
+world is going to silence him, because this is the great moment that
+he\'s longing for.
+
+And then you have a contrast. We're told many of them scolded him and
+told him to keep quiet. He was breaking through the atmosphere. He was
+disturbing the environment. He wasn\'t eco-friendly. He was disturbing
+all the people around there, who were very focused on our Lord and
+enjoying themselves, and he was just a blind beggar. He was nobody. He
+was Mr. Unimportance. So, what are you doing making all this noise? You
+be quiet, you know your place. But we\'re told he shouted out all the
+louder.
+
+Each one of us is Bartimaeus. He faces the challenges of his
+environment. He faces the negativity of the people around him, the
+discouraging remarks, the stone faces, and the lack of interest. He has
+to break through all of that. Each one of us in our spiritual life, in
+our apostolate, in the fulfillment of our mission, well we have to face
+the same type of indifference. Indifference can be difficult to handle,
+and one of the challenges that God places around us is often an
+environment of indifference, but our Lord has sent us to set the world
+on fire.
+
+What Bartimaeus is saying and doing is going to be recorded for all
+eternity. He\'s going to be remembered, they're going to be forgotten.
+He has to sort of earn that place in history. So he doesn\'t listen to
+them, doesn\'t pay any attention to them. He shouts it out all the
+louder because he knew this was important.
+
+When we realize that we have the truth, we have the answers. We have the
+solutions to many problems in the world. We understand the realities of
+eternity. We know the pathway to heaven. We know the very relative value
+of many things on this earth. We know the problems of a materialistic
+culture, the dangers when the dignity of the human person, the dignity
+of the family, of women when every person is not proclaimed, we know the
+dangers, the evil of all these things.
+
+Well, like Bartimaeus we have to shout all the louder and find ways and
+means. Make that message heard, make ourselves heard because we\'re not
+just shouting for ourselves, we\'re shouting for truth, for beauty,
+ultimately for God and so he shouted out all the louder: "Son of David,
+have pity on me."
+
+We can be reminded that our Lord is always within range of our voice.
+Our voice can always reach him, our prayer. He\'s passing by, close to
+us and we shouldn\'t be afraid to call to him. The example of
+Bartimaeus, well, a great example for us, not to miss the chance, not to
+miss the opportunity.
+
+Every time we go to some means of formation, or a recollection, or
+retreat, or circle, well, we have an opportunity. For each time we turn
+to our Lord in prayer, or in our spiritual reading, each of the norms of
+our spiritual life is an opportunity, not to miss the chance, the chance
+for something greater, some treasure, some gem that our Lord wants to
+communicate to us, possibly in a get-together, or in a conversation with
+somebody.
+
+And Jesus stopped. Suddenly the narrative changes. They were on their
+way to Jerusalem, but Jesus stopped. The words of Bartimaeus are
+beginning to have their effect. Our Lord changes his plans. Suddenly the
+people around our Lord, who have told Bartimaeus to be quiet, well, now
+they\'re the ones that have to be quiet. Our Lord has heard the voice of
+someone that he wants to talk to, engage in, develop, and give attention
+to.
+
+So, they called the blind man over. Courage, they said, get up, he\'s
+calling you. So now they encourage him. St. Paul says everybody needs
+encouragement, keep encouraging one another. St. Augustine says that we
+should call out to Jesus with our prayers and with our good works.
+
+Sometimes our good works, our actions, well, they reach the heart of
+Christ. We show him with our deeds that we\'re serious about what we\'re
+asking for. Those include the works of charity, our professional work
+done well, our contrite confession of our sins, and our purity of soul.
+
+So, our Lord is listening, and in this whole process, Bartimaeus is
+obtaining his heart\'s desire. Like that little girl with her new dress,
+he obtained something wonderful, something beautiful, something rich.
+Jesus stopped and said: "call him here." So, they called the blind man.
+"Courage," they said, "get up, he\'s calling you." So, throwing off his
+cloak, he jumped up and went to Jesus. Very dynamic. He throws off his
+cloak like he throws off his old life. He sheds the baggage that he has
+been carrying, because now there\'s a new beginning that\'s going to
+totally change everything, he's going to be able to see.
+
+We can thank our Lord with greater frequency for the great gifts he\'s
+given to us, that we may take for granted too much. The gift of sight,
+the gift of hearing, our limbs, wonderful things that he hasn\'t given
+to anybody.
+
+And Bartimaeus senses that something great is coming. Our Lord has heard
+the cries of Bartimaeus from the start. He didn\'t stop immediately, He
+wanted him to keep asking, He wanted him to shout all aloud, and He
+wanted the people around him to go through what they went through,
+seeing how unimportant Bartimaeus was, but now Bartimaeus takes center
+stage. It\'s a great demonstration of the mercy of Christ, how his heart
+reaches out to everybody, how everybody is important, every person in
+the world.
+
+We proclaim the dignity of the human person and the dignity of the sick
+and really the social teaching of the church has been proclaiming this
+in the world for 20 centuries. The whole healthcare outreach to all
+sorts of people with all sorts of sicknesses and diseases has its origin
+in the mercy of Christ that reaches out to everybody. Every disease and
+sickness and infirmity is there to be treated or to be cured, but our
+Lord wanted to use this blind beggar to give us a graphic example of
+perseverance in prayer.
+
+Bartimaeus perseveres, doesn't give up, he's not put off by the
+discouragement of the people around him. He gets even greater strength
+and insistence from that, because he knows what he wants and because he
+knows that this is the Christ. This is worth everything, it's worth
+staking everything for this, to follow Jesus, to fall in love with him,
+to be close to him.
+
+Bartimaeus has a great sense of treasure. He says: "May you give me a
+great sense of treasure in my Christian vocation, great sense of
+treasure in the truths that you\'ve given to me in my formation, in my
+education, in the spirit of the Work, in the spirit of Christianity, in
+the treasure of the things that the Holy Father is saying, help me to
+savor every little piece of this treasure, to know it better and more
+all the time, so that like Bartimaeus I throw off my old life and I
+begin again, continually with new beginnings, great things."
+
+And so now he finds himself in a dialogue with our Lord. How important
+is our dialogue with Christ? It\'s a marvelous dialogue, a dialogue that
+each one of us has to have with Christ that has to set our hearts on
+fire because we are also Bartimaeus, we are blind, and there are things
+we don\'t see.
+
+Our pride blinds us to our defects and to maybe many other things. So
+Christ now, who is God, begins to speak to him and says to him: "What do
+you want me to do for you?" Our Lord knows what he wants him to do, what
+he yearns for, what he\'s been waiting for, but he wants to hear it from
+him, his personal prayer, his personal petition.
+
+St Josemaria says the blind man answers: "Lord that I may see." St
+Josemaria loved those words. In Latin, *Domine ut videam*. They can have
+a great resonance in our life, because there are so many things that we
+don\'t see, that we need to see, interior truths of our soul, aspects of
+doctrine that the church and God teach us through scripture, through the
+catechism, that maybe we haven\'t yet seen. We haven\'t grasped their
+totality, their profundity, their beauty, their depth, and the power of
+those ideas to change the world a little more.
+
+We haven\'t seen the greatness and the importance of the treasure that
+God has placed in our hands: Divine Grace, the Sacraments, knowledge of
+where we\'ve come from, where we\'re going, what this world is all
+about, what God is doing in the world at the moment.
+
+There may be things that are communicated to us in spiritual direction,
+that also we don\'t see, we haven\'t seen before, things that possibly
+have been insisted on over a period of time, but well, too dull a wit,
+too slow a heart. We\'re like the apostles. We\'re like Bartimaeus,
+totally blind. We need to have the scales fall from our eyes, and so
+over time, divine grace will work these miracles, we see things clearer,
+and we go deeper.
+
+Saint Josemaria says the blind man answers: "Lord, that I may see." "How
+utterly logical," he says. And how about yourself, can you really see,
+haven't you experienced too at times, what happened to the blind man of
+Jericho?
+
+I can never forget how when meditating on this passage many years back,
+and realizing that Jesus was expecting something of me, though I myself
+did not know what it was, I made up my own aspirations: "Lord, what is
+it you want, what are you asking of me?"
+
+Those words of Bartimaeus can have a particular interest in our life,
+because we need to say those same aspirations frequently, Lord, that I
+may see. And just like those words came to be very important in the
+vocation of Saint Josemaria, they can be very important in the vocation
+of each one of us.
+
+There\'s an Irish farmer who said he got a lot of mileage out of the
+aspirations that he learned from Saint Josemaria, particularly this one.
+And he found very interesting practical applications of these
+aspirations because every day he has to go out to check on his cows. And
+the cows in the field, sometimes they can rub against a barbed wire
+fence, and that can open a wound, and the flies can come, and that wound
+can get infected, and you can get septicemia, and you could lose a cow
+very quickly.
+
+He wants to watch the cows very carefully. And sometimes he says, those
+little focal points of infection can be difficult to see, so when I\'m
+looking over the hide of a cow, I find it very helpful to say, "Lord,
+that I may see," "Lord, that I may see."
+
+Well, sometimes we\'re looking for a paper clip that we have dropped, or
+I can\'t find my glasses, or where did I leave my keys? Or where is that
+little note that I wrote down? Lord, that I may see. It has an
+application in many situations, in everyday life, in our work, in our
+interaction with other people, and it has this deeper application.
+
+What are you asking of me, what is it that you want, what do you want to
+tell me in this meditation, in these days of my life, in this month of
+October He continues, I had a feeling that he wanted me to take on
+something new.
+
+And the cry, Lord, that I may see, Master, that I may see, moved me to
+beseech Christ again and again. Lord, whatever it is that you wish, let
+it be done. It is now to you that Christ is speaking. Maybe in our
+apostolate we have to see, to see souls, to see opportunities, to seize
+those opportunities like Bartimaeus seized the opportunity. To see that
+we have to get over the difficulties of our environment, or the people,
+or the things holding us back, or the indifference, or the
+discouragement of others because there are souls there that are waiting
+for us.
+
+And when we ask our Lord that we may see, we\'ll open our eyes to the
+possibilities, to this soul, to that soul, to see the people are hungry
+for the things we have to give them. He asks you, "What is it that you
+want of me?"
+
+"That I may see, Lord, that I may see." Then Jesus answers: "Away, home
+with you, your faith has brought you recovery." And all at once he
+recovered his sight and followed Jesus on his way.
+
+Following Jesus on his way, you\'ve understood, he said, what our Lord
+was asking from you, and you have decided to accompany him on his way.
+And so this dialogue, this Bartimaeus has with our Lord, leads to a
+profound joy, a messianic joy.
+
+He found the meaning and the purpose of his life. It\'s all been
+worthwhile, that waiting, that darkness, that nothingness. Now,
+everything has changed. St. Paul says: "your sadness will be turned into
+joy." We know, with faith, that any little sadness we may have in our
+life, can all be turned into joy. The difficulties of his life had a
+great apostolic purpose. Now he becomes an example for the world, for
+each one of us and he enjoys that messianic joy for eternity.
+
+You are trying to walk in his footsteps, continues St. Josemaria, to
+clothe yourself in Christ\'s clothing, to be Christ himself. While your
+faith, your faith in the light our Lord is giving you, must be both
+operative and full of sacrifice.
+
+Bartimaeus had great faith in Christ, and he had the sacrifice, the
+spirit of sacrifice, to forget about his self-esteem and what people
+think of him. "I\'m just a blind beggar on the side of the road," he
+shouts out with a great superiority complex.
+
+He had the spirit of sacrifice to cast off the very cloak that was his
+only possession. Detachment from the past, things that he had, because
+now he lives in a newness of life, he leaves behind those things that
+have no more relevance.
+
+"Don\'t fool yourself," says St. Josemaria, "don\'t think you are going
+to find new ways." The faith he demands of us, as I have said, we must
+keep in step with him, working generously and at the same time uprooting
+and getting rid of everything that gets in the way.
+
+He threw off his cloak, his past life, old habits, and old ways of
+thinking because now this messianic joy was worth having, the future is
+fantastic. So Bartimaeus comes to partake in the salvation that will
+have its fulness in the passion, death, and resurrection of Christ, it's
+going to change everything.
+
+Our Lord at the same time was attracted by the total blindness and great
+poverty of Bartimaeus. He exalts him, focuses on him, and lifts him up.
+Our Lord is going to more than compensate him for his hardships.
+
+If you, evil as you are, know how to give good gifts to your children,
+how much more will your heavenly Father give good things to those who
+ask him? So it\'s very optimistic, very positive, exciting.
+
+After his cure, the life of Bartimaeus is totally changed. He followed
+him along the road. Our Lord wants to use us as instruments to help many
+people in their blindness, in their materialistic outlook, in their
+attachment to the things of this world. He wants their lives to be
+utterly changed.
+
+And we are the instruments, the vehicles for that to happen. And so
+every apostolic opportunity is important. Every formative activity is
+important. Bartimaeus became a disciple of the Master.
+
+And so our own personal sufferings, our own personal blindness, our
+nothingness, can serve as a means for our encounter with our Lord. We
+can come to follow him with a deeper humility, a greater purity. We can
+draw closer to him and hear those words that our Lord permits us to hear
+courage, get up, he\'s calling you. No matter what our miseries may be,
+our wretchedness, we may see with greater clarity the passage of time.
+
+Bartimaeus was very aware of how dark his world was. He told in The
+Forge, in those days, the Gospel tells us, the Lord was passing by and
+they, the sick, called out to him and sought him. Many people around us
+were not just physically sick but spiritually sick, we live in a world
+that is spiritually sick.
+
+Pope Francis, as mentioned recently, remarked about the spiritual
+emptiness of the world, totally empty. We\'ve come to fill that
+emptiness. It\'s a great challenge, a great panorama, a great horizon.
+Now too, he says, "Christ is passing by in your Christian life. If you
+help Him, many will come to know Him, will call to Him, will ask Him for
+help, their eyes will be opened to the marvelous light of grace."
+
+Every day we have our eyes opened to the marvelous light of grace, the
+truth of the sacraments, Christ who comes to us in Holy Communion or in
+the sacrament of confession or in our prayer, it's a marvelous light.
+
+Lord, that I may see the light, help me to bask in the sunshine of your
+light. "Lord, help me to see," he says, "what it is you want of me." "My
+lady, help me to see what my Lord wants me to do today, help me to
+answer his call with generosity."
+
+Every day our Lord is knocking on the door of our hearts, asking us for
+something, a little more patience, a little more kindness, a little more
+industriousness, a little more punctuality or order, or a whole series
+of other virtues, but he wants something from us today.
+
+He passes by and we know that he will give us light and joy. In the
+whole of Scripture, we see the mercy of Christ manifested in various
+ways. He goes about the world doing good, even for those who did not ask
+for his help. Just as He stopped for Bartimaeus, He stopped for
+everybody, He has time for everybody, and He\'s open to everybody.
+
+And Christ is the revelation of the fullness of divine mercy to the
+neediest. No form of misery can separate men from Christ. He gave sight
+to the blind, He cured leprosy, He healed the lame and paralytics, He
+fed hungry multitudes, He expelled demons, and He approached people who
+had the greatest suffering in soul or body.
+
+And so Christ wants to approach all those who may be suffering from some
+sickness of soul and lift them up, and we are the ones who have to go to
+our Lord. Our eyes too have been blind. We may have been like those
+people laying paralyzed on their mats, incapable of reaching the
+grandeur of God.
+
+And Christ has reached out to us. And this is why our Lord and Savior,
+healer of souls, has descended from on high. Divine beauty incarnate.
+And so Lord, help us to have complete faith in you. You are the one who
+saved us. You are the divine doctor who has been sent with the express
+purpose of curing us and curing all the more serious or hopeless
+illnesses in our life. We have to be strong in faith to realize that we
+can do everything.
+
+And there might be times in our life when we experience more hardship
+than usual. There might be moments of greater temptation, greater
+blindness. We might grow weary in the struggle. We might have periods of
+interior darkness and trial, and those are the moments when we have to
+turn to our Lord, who is always passing by close to us. St. Josemaria
+says we must have a humble and sincere faith, like the sick and the
+suffering people of the Gospels.
+
+Then we will cry out to the Master, "Lord, put not your trust in me, but
+I, I put my trust in you.' Then as we sense in our hearts the love, the
+compassion, the tenderness of Christ's gaze upon us, for he never
+abandons us.
+
+We will come to understand the meaning of the words of St. Paul: My
+strength is made perfect in your weakness. God has permitted all this
+misery, all this wretchedness, all this blindness, so that one day we
+can come to the light and have that light and go forward in the light,
+so that we can go with him along our way.
+
+We become faithful witnesses to the divine power that shines forth in us
+and helping that light and that power to shine on many of our souls also
+and Our Lady who is the morning star, the source of our light who leads
+us to the light, Mary, may you help us to see with greater clarity all
+the things He wants us to see.
+
+*I thank you my God for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, St.
+Joseph, my father, and lord, my guardian angel, intercede for me.*\
+\
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*Amen.*\
+\
+*Olv*

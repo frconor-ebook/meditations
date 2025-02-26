@@ -1,0 +1,508 @@
+---
+layout: homily
+title: "St. Patrick, March 17th"
+---
+
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+"Now it happened that he was standing one day by the lake of
+Gennesareth, with the crowd pressing round him listening to the Word of
+God, when he caught sight of two boats at the water\'s edge. The
+fishermen had gone out of them and were washing their nets. He got into
+one of the boats, which was Simon\'s, and asked him to put out a little
+from the shore. Then he sat down and taught the crowd from the boat.
+When he had finished speaking, he said to Simon, 'Put out into deep
+water and pay out your nets for a catch'" (Luke 5:1-4).
+
+St. Patrick based his apostolate on prayer and mortification.
+
+The whole story of his life is a divine adventure from start to finish.
+He was born into a Christian family in Brittany towards the close of the
+fourth century, and while still a teenager he was carried off by Irish
+pirates in one of those periodic raids which became progressively more
+pronounced as the once great civilization slowly sank into decay.
+
+In Ireland he was sold off to a petty chieftain who put him to work
+amongst his pigs. According to tradition, the place of his captivity was
+in modern-day Antrim in the north of Ireland.
+
+Patrick always regarded this calamity as divine punishment for his sins.
+As he himself describes it, he was then about 16 years of age.
+
+He said, "I knew not the true God; and I went into captivity to Ireland
+with many thousands of persons, according to our just deserts, because
+we departed away from God, and kept not his commandments, and were not
+obedient to our priests, who used to admonish us for our salvation."
+
+But in his misfortune, he remembered the lessons of his youth, and he
+turned to God.
+
+He said, "Now, after I came to Ireland, tending flocks was my daily
+occupation; and constantly I used to pray in the daytime. Love of God
+and fear of Him increased more and more, and faith grew, and the spirit
+was moved, so that in one day I would say many prayers, and at night
+nearly as many.
+
+"Sometimes I used to stay even in the woods and on the mountain to this
+end. And before daybreak I used to be moved to prayer, in snow, in
+frost, in rain, in ruin. And I felt no hurt, nor were there any
+sluggishness in me---because the spirit was then fervent within me."
+
+After six years in these conditions, Patrick decided to escape, first to
+France with the help of some friendly traders, and eventually back to
+his own kindred, where he was received with great rejoicing.
+
+At that particular time, he had no intention of ever returning to the
+place of his captivity, but God had other plans.
+
+He continues, "And there verily I saw in the night visions a man whose
+name was Victoricus, coming as it were from Ireland with countless
+letters.
+
+"And he gave me one of them, and I read the beginning of the letter
+which was entitled 'The Voice of the Irish'; and while I was reading
+aloud the beginning of the letter, I thought that at that very moment I
+heard the voice of those who lived beside the wood of Foclut, which is
+nigh unto the Western Sea.
+
+"And thus they cried, as with one voice: 'We beseech you, O holy youth,
+to come and walk once more among us.' And I was exceedingly broken in
+heart and would read no further. So I awoke. Thanks be to God that after
+many years, the Lord granted to them according to their cry" (St.
+Patrick, *Confessions*).
+
+After this, Patrick spent some years in France, where he prepared for
+his mission by studying under St. Germanus of Auxerre, who had been
+empowered by Pope Celestine I to prepare the mission to Ireland.
+
+However, to Patrick\'s bitter disappointment, when the time came, he was
+not chosen for the expedition. Instead, the task was given to a man
+named Palladius.
+
+But Palladius died shortly after arriving in Ireland, and so his
+companions returned to Auxerre. In the circumstances, Patrick was chosen
+to go in his place and was consecrated Bishop by St. Germanus of
+Auxerre.
+
+When Patrick landed in Ireland in the year 432, charged with the mission
+of evangelizing that pagan and warlike people, he brought with him a
+serene faith that stood to him in all the trials that lay ahead, allied
+to a shrewdly practical mind and a knowledge of the country, its
+language, and its customs.
+
+In his work, Patrick followed a fairly stereotyped pattern. Whenever he
+entered a district, he would first present himself to the local
+chieftain and preach the Gospel to him, and, following the custom of the
+time, make him an offering of presents.
+
+Although some of the chiefs did embrace the faith, the ancient annals
+make no secret of the fact that by and large, those worldly-wise men
+were content to retain the less demanding customs of their ancestors.
+
+But Patrick always asked for two further favors, which were invariably
+granted: a title to a plot of land where he could build a church; and
+the chief\'s permission to preach to the people.
+
+Patrick next directed his efforts to the sons and daughters of the
+chiefs; and here, by contrast, he was spectacularly successful.
+
+"Then, in Ireland," he says, "they who never had the knowledge of God,
+but until now only worshipped idols and abominations---now there has
+lately been prepared a people of the Lord, and they are called children
+of God. The sons and daughters of Irish chieftains are soon to become
+monks and nuns of Christ."
+
+It says in his *Confessions*, "Especially, there was one blessed lady of
+Irish birth, of noble rank, most beautiful, grown up, whom I baptized;
+and after a few days she came to us for a certain cause. She disclosed
+to us that she had been warned by an angel of God, and that he counseled
+her to become a virgin of Christ, and live closer to God.
+
+"Thanks be to God, six days after, most admirably and eagerly she seized
+on that which all virgins of God do in like manner; not with the consent
+of their fathers; but they endure persecutions and lying reproaches from
+their kindred; and nevertheless their number increases more and more.
+And as for those of our race who are born there, we know not the number
+of them, besides widows and continent persons."
+
+This success laid the basis for what was a subsequent massive conversion
+of ordinary people. This is clear from Patrick\'s own reference to
+having personally baptized many thousands.
+
+"Therefore it was exceedingly necessary," he said, "that we should
+spread our nets, so that a great multitude and a throng should be taken
+for God, and that everywhere there should be ordained clergy to baptize
+and exhort a poor and needy people.
+
+However, it wasn\'t all plain sailing from then on. Time and again
+Patrick\'s life was in danger from various quarters, principally from
+his great enemies the Druids; that he managed to survive them all was
+due to his own shrewdness, and, on more than one occasion, to the
+special intervention of divine Providence.
+
+The greatest trial, or what he regarded as his greatest trial, was the
+opposition to his mission which he originated within the circle of his
+fellow Christians in Britain and in France, who circulated many
+scurrilous stories about him that he felt called to defend himself in
+writing.
+
+Thanks to this, he was fortunate enough to have his *Confessions*, which
+are the main details about his life. It\'s interesting to see the
+contradictions that St. Patrick had to endure, and the extent of them,
+and where they came from.
+
+It\'s sort of a lesson to us not to be surprised or worried about
+scandals, opposition, contradictions, from whatever source. We have to
+be very focused on the supernatural nature of our mission, to think with
+great supernatural outlook, great apostolic zeal.
+
+We\'re here to fulfill the will of God, not to be too concerned about
+human respects, the things of this world, but to be more concerned about
+divine respects.
+
+The Church that Patrick founded was from the first endowed with a number
+of very well-defined characteristics.
+
+The Gospel message took root in the native Celtic culture. In the Irish
+language, the greeting, hello is *Dia is Muire agat*, which means "God
+and Mary be with you."
+
+The reply *is Dia is Muire is* *Pádraig*, "May God, Mary, and St.
+Patrick be with you." His message took on life in the words and culture
+of the people. He transformed it from within without replacing what was
+there.
+
+With the perspective of centuries behind us, it\'s difficult to conceive
+of a people in their culture as anything but profoundly Christian.
+
+It's always this way with the faith. In every country, we come to bring
+the faith, to evangelize culture, to change some things, but not many,
+but to lift it up onto a supernatural plane.
+
+For this very purpose, then, catechesis seeks to know local cultures and
+their essential components; it will learn their most significant
+expressions; it will respect their particular values and riches.
+
+There\'s an Irish nun who\'s very famous in Uganda, not known in
+Ireland, Mother Kevin, who came in 1903. She set up about fifteen
+different convents with a school beside it and a small clinic or small
+hospital on the other side.
+
+Over the past hundred years, those schools and clinics have grown to be
+the most important schools and hospitals in the whole country. What this
+lady achieved was just enormous.
+
+She started one of the major hospitals in Kampala the capital, Nsambya
+Hospital. The bus stop just outside the hospital is called Kevin. Bring
+me to Kevin.
+
+The name Kevin has come part of local culture. It has come to mean a
+charitable work, a kindness, a present. There were Ugandan soldiers
+fighting with Britain in the Second World War in Burma. They were cut
+off at one point. They had to receive supplies by airdrop, and they used
+to refer to the airdrops as Kevinas. There\'s a Kevin coming in today.
+You see how people\'s names and words, with a very Christian sense, come
+to be part of local life.
+
+Pope St. John Paul II, in a document called *Catechesi Tridente*, ("The
+Handing On of Catechesis"), says, "Two things must, however, be kept in
+mind. On the one hand, the Gospel message cannot be purely and simply
+isolated from the culture in which it was first inserted (the Biblical
+world, or, more accurately, the cultural milieu in which Jesus of
+Nazareth lived), nor, without serious loss, from the cultures in which
+it has already been expressed down the centuries...On the other hand,
+the power of the Gospel everywhere transforms and regenerates."
+
+When you look at the history of Ireland over the past almost twenty or
+seventeen centuries, you see the enormous influence that Christian
+culture has made on a country, schools, hospitals, orphanages, old
+people\'s homes, every sort of social work that stemmed from this
+catechesis that took place very early on.
+
+"When that power," says John Paul, "enters into a culture, it is no
+surprise that it rectifies many of its elements. There would be no
+catechesis if it were the Gospel that had to change when it came into
+contact with cultures. To forget this would simply amount to what St.
+Paul very forcefully calls 'emptying the Cross of Christ of its power'"
+(1 Cor. 1:17).
+
+The second characteristic of the new Church that Patrick founded was its
+profoundly apostolic nature.
+
+St. Josemaría liked to say that Ireland was about the only evangelizing
+country in the world, almost totally Catholic, and had sent so many
+missionaries all over the world.
+
+It\'s rather interesting to travel in different places and find schools
+and hospitals that have been founded by Irish missionaries---incredible
+men and women who did incredible things in past histories.
+
+We have to look forward to the 21st century and see how we can repeat
+some of those great feats of those who have gone before us, bringing
+Christian culture to many other places, and first and foremost, ensuring
+the Christian nature of our own culture, through Christian families,
+taking care of the domestic Church, through sound doctrine, through
+formation in virtue, through all these factors that go to build up a
+civilization of love and a culture of life.
+
+The first to feel the benefits of that apostolic impulse was the pagan
+Picts of Scotland, and later still the barbarian tribes that were
+settling in the Roman provinces of northern Europe: in France and
+Germany, and as far afield as Lombardy.
+
+A few centuries after Patrick, in the sixth and seventh centuries, many
+Irish missionary monks were to go to Europe and found monasteries in
+Bobbio in Italy, in what\'s called St. Gall today in Switzerland or
+Germany, St. Gallen.
+
+These were to be focal points of learning and of culture, academic
+excellence, education, of development. Local people who were often
+warring tribes would come to these monasteries to learn new ideas in
+agriculture, to build up the local countryside, to make it more
+economically viable.
+
+From these monasteries many of them became schools and eventually,
+universities. These saints planted many wonderful seeds, all fruits of
+the sowing of Patrick.
+
+In our daily apostolate, in our family, in the culture where we have
+been placed, you can dream of all the wonderful things that God wants to
+work with our correspondence, how He wants us to transmit that Christian
+culture down through the ages.
+
+How many vocations for the universal Church have to come from the fruits
+of our labors, which possibly we will see from heaven. It is from this
+period that the homeland of the missionaries acquired the fame for
+holiness and learning that caused it to be known throughout Christendom
+as 'the island of saints and scholars."
+
+It was a very glorious period in Irish history. There hasn\'t really
+been another one since.
+
+Although this Golden Age was brought to an abrupt end in the ninth
+century when Ireland was to fall victim to foreign invaders, this time
+the Vikings, Patrick\'s legacy continued unabated and has survived the
+vicissitudes of history.
+
+Later on, in the 19th century, when there was a great famine in
+Ireland---1850s, 1860s---at the time there was a population of six
+million. One million died in the famine. Two million emigrated to South
+America and North America.
+
+That was the beginning of the great Irish influence in those places---of
+course, all those people brought the faith with them, and that produced
+clergy and schools and hospitals and so many other places. Patrick\'s
+legacy was to live on in all sorts of ways.
+
+The third characteristic of the faith enkindled by Patrick was the link
+with the See of Peter, ever since Pope Celestine\'s initial mandate.
+Patrick could describe the Church of the Irish as the Church of the
+Romans.
+
+Pope St. John Paul II, when he visited Ireland in 1979, referred to
+this. He said in the century following St. Patrick\'s death, St.
+Columban could address Pope Boniface IV in these words:
+
+"We Irish...are disciples of Saints Peter and Paul...; we hold unbroken
+that Catholic faith which we first received from you" (Quoted by John
+Paul II, *Address*, Sept. 30, 1979).
+
+In a statement reiterated by John Paul II in 1979, he said, "Ireland,
+*semper fidelis*, always faithful!" ( John Paul II, *Farewell Address*,
+Oct. 1, 1979).
+
+Today we can thank Our Lord for the gift of faith that St. Patrick
+handed on, and resolve to follow his example in our own generation.
+
+In season and out of season, in the face of the challenges or the
+difficulties or the problems, or maybe the scandals, we\'ve endured so
+many things in the past. The grace of God will be there with us in the
+future.
+
+The well-known prayer of St. Patrick is a good prayer to pray today.
+
+Christ beside me, Christ before me\
+Christ behind me, Christ within me\
+Christ under me, Christ over me\
+Christ to the right of me\
+Christ to the left of me\
+Christ in lying down, Christ in sitting, Christ in rising up\
+Christ in the heart of every person who may think of me\
+Christ in the mouth of every person who may speak of me\
+Christ in every eye that may look on me\
+Christ in every ear that may hear me.
+
+We could think of St. Paul\'s words to the Corinthians: "Mark this: he
+who sows sparingly will also reap sparingly. But he who sows bountifully
+will also reap bountifully. Let each one give according as he has
+determined in his heart, not grudgingly, but as if by compulsion, for
+God loves a cheerful giver" (2 Cor. 9:6-7).
+
+In his Apostolic Exhortation *Evangelii Gaudium* (The Joy of the
+Gospel), Pope Francis says, "Because we do not always see the seeds
+growing, we need an interior certainty, a conviction that God is able to
+act in every situation, even amid apparent setbacks: 'We have this
+treasure in earthenware vessels,' says St. Paul (2 Cor. 4:7). This
+certainty is often called 'a sense of mystery.' It involves knowing with
+certitude that all those who entrust themselves to God in love will bear
+good fruit (cf. John 15:5).
+
+"This fruitfulness is often invisible, elusive, unquantifiable. We can
+know quite well that our lives will be fruitful without claiming to know
+how, or where, or when. We may be sure that none of our acts of love
+will be lost, nor any of our acts of sincere concern for others."
+
+We could think of every little gesture in our family that we make to
+reach out to poor, elderly, or people who need help in difficult
+situations. Our children are watching; they\'re seeing all of this.
+They\'re learning how to put this into practice.
+
+I was driving along a street yesterday and a motorcyclist had fallen off
+his bike. We pulled over and the person I was carrying in the car, whom
+I didn\'t know very well, immediately jumped out and ran to the aid of
+this person, whom we didn\'t know.
+
+It was rather beautiful to see the speed with which this person went to
+the aid of that other person. I was thinking, The parents of that fellow
+must have done a good job.
+
+Nothing is lost. "No generous effort is meaningless; no painful
+endurance is wasted. All of these encircle our world," says Pope
+Francis, "like a vital force. Sometimes it seems that our work is
+fruitless, but mission is not like a business transaction or investment,
+or even a humanitarian activity. It\'s not a show where we count how
+many people come as a result of our publicity; it is something much
+deeper, which escapes all measurement."
+
+Hence, the value of virtue by a mother, by a father, in the family.
+Little things that children see and pick up.
+
+I was reading a story yesterday in a book called *The Catholic Martyrs
+of the Twentieth Century* about a parish in Rwanda run by Polish
+priests.
+
+There were two kids that were caught by some soldiers. One of the
+soldiers threatened to kill the other if the other one didn\'t admit to
+committing some misdeed. The other fellow immediately said, 'No, kill
+me. Kill me rather than the other guy.'
+
+Eventually the soldier let them go. They went home and they were
+chatting to their Polish parish priest some time later, telling him the
+story, and telling him how 'I asked them to kill me first.' And the
+Polish priest said, 'But why did you do that? What made you do that, to
+offer yourself to be killed?'
+
+The kid said, 'In one of your homilies you told us about some Polish
+priest that offered himself to be killed in place of other people.'
+
+The Polish parish priest was amazed. It was the story of Maximilian
+Kolbe. This little kid had heard this story, and so the fruit of the
+life of holiness and sanctity and martyrdom of Maximilian Kolbe had
+borne fruit in the heart of deepest Africa.
+
+A seed had been sown by that story in the mind and heart of this young
+person. We never know how the Holy Spirit is carrying those seeds from
+our words, from our example.
+
+"It may well be also," said Pope Francis, "that the Lord uses our
+sacrifices to shower blessings in another part of the world which we
+will never visit."
+
+But nothing is ever lost. The fruits come. "The Holy Spirit," he says,
+"works as he wills, when he wills and where he wills; we entrust
+ourselves without pretending to see striking results. We know only that
+our commitment is necessary."
+
+He says, "Let us learn to rest in the tenderness of the arms of the
+Father amid our creative and generous commitment. Let us keep marching
+forward; let us give him everything, allowing him to make our efforts
+bear fruit in his good time" (Pope Francis, Apostolic Exhortation,
+*Evangelii Gaudium*, Nov. 24, 2013).
+
+As we see Pope Francis at 84 years of age going around the world, sowing
+seeds with his example, he could be moved to the place where we are to
+try and walk in his footsteps.
+
+The same river that Peter spent the entire night without catching any
+fish is the same river where they caught thousands of fish in the
+morning.
+
+The issue is when Jesus came in the morning and said, "Do you have any
+fish?" and they said no, He didn\'t advise them to change the river.
+Instead, He advised them to cast the nets deeper (cf. Luke 5:4-11).
+
+When our life may seem to be going in the opposite direction, the issue
+is not about changing our place of work or changing our Church, changing
+your husband, changing your wife, changing your family, or giving up.
+
+It\'s about casting your faith deeper in God; casting your fellowship
+with Jesus deep in believing that God will provide. He will heal. He
+will restore. He will uplift. He will deliver. He will revive and bring
+blessings and favor along your way. May the Lord give us the grace to go
+deeper.
+
+At the start of this new millennium, Pope St. John Paul said some
+wonderful words in a document called "At the Beginning of the New
+Millennium."
+
+In the conclusion of that document---it's entitled *Duc in Altum!*
+(Launch Out into the Deep)---he says, "Let us go forward in hope! A new
+millennium is opening before the Church, like a vast ocean upon which we
+will venture, relying on the help of Christ."
+
+The Second Vatican Council has told us that we are all called to be
+missionaries, every lay person, man, woman and child, by our baptismal
+vocation. We're called to set out on this missionary venture.
+
+"We need discerning eyes to see this and, above all, a generous heart,"
+he says, "to become instruments of his work. Christ, whom we have
+contemplated and loved, bids us to set out once again on this journey:
+'Go, therefore, and make disciples of all nations, baptizing them in the
+name of the Father, and of the Son, and of the Holy Spirit'" (Matt.
+28:19).
+
+St. John Paul says, "The missionary mandate now accompanies us into the
+Third Millennium and urges us to share the enthusiasm of the very first
+Christians. We can count on the power of the same Spirit who was poured
+out at Pentecost and who impels us still today to start out anew,
+sustained by the hope 'which does not disappoint' (Rom. 5:5).
+
+"At the beginning of this new century, our steps must quicken as we
+travel the highways of the world. ... Every Sunday, the Risen Christ
+asks us to meet him, as it were, in the Upper Room where, on around the
+evening of 'the first day of the week (John 20:19), he appeared to his
+disciples in order to 'breathe' on them his life-giving Spirit and
+launch them on the great adventure of proclaiming the Gospel.
+
+"On this journey, we\'re accompanied by Our Lady. ... She\'s the 'Star
+of the New Evangelization.' Now I point to Mary once again as the
+radiant dawn and sure guide for our steps. Once more, echoing the words
+of Jesus himself and giving voice to the filial affection of the whole
+Church, I say to her: 'Woman, behold your children' (cf. John 19:26)."
+
+We know that the Star of the New Evangelization will be looking out for
+us along this pathway of new evangelization, as we try to learn from all
+those evangelizers that have gone before us and as we contemplate the
+immense and incredible fruit that has come from all of their labors.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*MVF*
