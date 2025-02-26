@@ -1,0 +1,584 @@
+---
+layout: homily
+title: "Charity and the Tongue"
+---
+
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+"Only a few of you, my brothers," we are told in St. James, "should be
+teachers, bearing in mind that we shall receive a stricter judgment. For
+we all trip up in many ways. Someone who does not trip up in speech has
+reached perfection and is able to keep the whole body on a tight rein"
+(James 3:1-2).
+
+St. James focuses particularly on the gift of speech.
+
+It says that someone who has managed to control their speech in some way
+or to train their speech has reached a type of perfection. It\'s
+interesting how he ties up those two things.
+
+"Once we put a bit in the horse\'s mouth," he says, "to make it do what
+we want, we have the whole animal under our control" (James 3:3).
+
+Little by little, St. James is talking about the power of the tongue and
+about the importance of controlling the tongue. Just like you have a bit
+in the horse\'s mouth, you control the whole animal.
+
+The importance of mortification of the tongue, watching what we say,
+controlling what we say.
+
+"Or think of ships:" he says, "no matter how big they are, even if a
+gale is driving them, they are directed by a tiny rudder wherever the
+whim of the helmsman decides" (James 3:4).
+
+That tiny rudder determines the direction of the whole ship. In similar
+ways, he is describing how the tiny rudder of our tongue can direct our
+life and our whole focus in different ways.
+
+"So the tongue is only a tiny part of the body, but its boasts are
+great. Think how a small flame can set fire to a huge forest" (James
+3:5).
+
+He is describing also the dangers of the tongue, the damage it can do,
+the big things it can give rise to. It is just "a tiny part of the body,
+but its boasts are great."
+
+"The tongue is a flame too," he says. "Among all the parts of the body,
+the tongue is a whole wicked world: it infects the whole body; catching
+fire itself from hell, it sets fire to the whole wheel of creation"
+(James 3:6).
+
+Now he begins to talk about hell in relation to the tongue.
+
+We can really put down people with our tongue. We can kill lives; we can
+kill initiative. We can discredit people, their good name, their
+reputation.
+
+We can hurt people very deeply with hurts that last forever. The words
+that we say might end very quickly, but the hurt may be there for
+eternity.
+
+"Wild animals and birds, reptiles and fish of every kind can all be
+tamed, and have been tamed, by humans; but nobody can tame the
+tongue---it is a pest that will not keep still, full of deadly poison"
+(James 3:7-8).
+
+St. James doesn\'t spare his words about the dangers of the tongue. We
+can draw our attention to that aspect of charity.
+
+God is love (1 John 4:8, 16). He wants us to be full of love---love in
+our hearts, love in our minds---so that our words are words of love.
+Words that lift people up.
+
+What a wonderful thing if every time words that come out of our mouth
+are words that inspire, that encourage, that affirm; and anyone who
+comes close to us knows that they are going to receive some sort of
+words of affirmation, positive thinking, positive influence that lifts
+them up.
+
+The opposite is also true. Our words could be words all the time that
+hurt people, that damage, that bring people down.
+
+A few kind words don\'t cost anything.
+
+Venerable Fulton Sheen talks about how one time he was having breakfast
+in a Paris hotel. The waitress came to take his order and he ordered an
+American breakfast: bacon and egg, tea and toast, some juice, some
+coffee, "and a few kind words," he said to her.
+
+She went away and she brought the American breakfast occasionally, bacon
+and egg, tea and toast, some juice, et cetera, coffee.
+
+He said, \"What about my few kind words?" She said, "The egg is cold."
+
+A few kind words don\'t cost anything. And yet with those few kind
+words, you can lift people up, you can give a tone to the whole of their
+day.
+
+You can help them. You can reflect God who is love that we carry inside
+us.
+
+He says, "We use it to bless the Lord and Father, but we also use it to
+curse people who are made in God\'s image" (James 3:9).
+
+We say words in the Mass: "Glory to God in the highest" (*Gloria*, Luke
+2:14). We use our words to give praise and adoration to God, but we can
+also use it to bring people down. Same words come out of the same mouth.
+
+"My children, this must be wrong---does any water supply give a flow of
+fresh water and salt water out of the same pipe? Can a fig tree yield
+olives...or a vine yield figs? No more can sea water yield fresh water"
+(James 3:10-12).
+
+The tongue can be used in different ways.
+
+There was a king who threw a banquet for some of the population of his
+kingdom and told the main cook, "Look, people coming today are not that
+important, so just make a meal that\'s sort of ordinary, nothing too
+special."
+
+They were all in this big banquet hall and the moment came for the main
+meal to be served. The people brought in the main meal, and it was
+tongue, the main meat of the main meal.
+
+Then a few weeks later he was having another banquet, and this time it
+was for the most important people in the kingdom. He told the main cook,
+"Prepare something special."
+
+All the people were gathered in the banquet hall and the moment came to
+serve the main dish, and it was tongue.
+
+The king went to the main cook afterwards and said, "What\'s this all
+about? I ask you to prepare something not too special and you prepare
+tongue. And then I ask you to prepare something special and you prepare
+tongue."
+
+The main cook said, "Ah, but you see, Your Majesty, the tongue can be
+used in different ways. The tongue can be used to lift people up or the
+tongue can be used to bring people down. It's got many different
+aspects."
+
+"Anyone who is wise and understanding among you," says St. James,
+"should from a good life give evidence of deeds done in the gentleness
+of wisdom. But if at heart you have the bitterness of jealousy or
+selfish ambition, do not be boastful or hide the truth with lies" (James
+3:13-14).
+
+"Out of the abundance of the heart the mouth speaks\" (Luke 6:45).
+
+From our words or words people say, you know something about them. You
+know what\'s going on in their heart, in their mind, in their soul.
+
+Our Lord has told us that we have to get all the bad things out of our
+heart. Great reason for regular Confession.
+
+Get out all the garbage, all the bitterness, all the jealousy, all the
+envy, all the egoism, so that God can fill our hearts full of His love
+with the sweet fragrance that comes therefrom.
+
+"Wherever there are jealousy and ambition, there are also disharmony and
+wickedness of every kind; whereas the wisdom that comes down from above
+is essentially something pure; it is also peaceable, kindly and
+considerate; it is full of mercy and shows itself by doing good; nor is
+there any trace of partiality or hypocrisy in it. The peace sown by
+peacemakers brings a harvest of justice" (James 3:16-18).
+
+A lot of the peace that God wants us to sow can be sown with our tongue.
+Words of peace, words that calm people down.
+
+Father Albert liked to say how the United Nations brings peacekeepers,
+but we\'re not peacekeepers; we\'re peacemakers. "Blessed are the
+peacemakers" (Matt. 5:9).
+
+Lord, help words of peace to come out of me every day---words that
+people realize there\'s something deeper behind those words.
+
+The Book of Proverbs says, "The tongue of the wise makes knowledge
+welcome, the mouth of a fool spews folly\" (Prov. 15:2).
+
+"A guard on the mouth makes life secure, whoever talks too much is lost"
+(Prov. 13:3).
+
+In the formation that we give to family makers and home makers who build
+up the domestic Church and future vocations, we also have to try and
+teach them that words in the domestic Church are also words that
+encourage, that affirm, that build up, that see the good things. so that
+in the domestic Church, we\'re not just speaking complaints or blame or
+acid, but positive things.
+
+St. Paul says, "So from now on, there must be no more lies. Speak the
+truth to one another, since we are all parts of one another" (Eph.
+4:25).
+
+We have to try to declare war on lies, against the Eighth Commandment,
+part of our hatred for venial sin that includes a hatred of lies.
+
+We ask Our Lord as we approach Holy Week: Lord, help me to make a
+resolution in my life: No more lies, never any untrue word pass through
+my lips. Seal my lips rather than allowing me to speak any untruth.
+
+In all circumstances, even if the roof was going to fall down on top of
+me, my love of truth, my desire to live by the truth, leads me on all
+occasions to speak the truth. Otherwise, there is some duplicity there
+inside me, some lack of unity of life, something that\'s not right.
+
+"Remember this..." says St. James, "Everyone should be quick to listen
+but slow to speak and slow to human anger" (James 1:19).
+
+We could examine our conscience and see, 'Am I slow to speak? Or am I
+quick?'
+
+Don Javier liked to tell that story of Cardinal Ratzinger visiting
+Pamplona, that somebody asked his opinion on something, and he said, \"I
+have to think about it a little bit. I\'ve never really thought about
+it."
+
+He was one of the most intelligent men in the Church, who had read so
+many things, so much wisdom, so much knowledge. But he\'s slow to speak
+his opinion.
+
+'I need to learn more about it. I need to read about it.' He\'d kick for
+touch. Very prudent.
+
+Don Javier said if that was anybody else, we might immediately offer our
+opinion: "Well, actually I think this or I think that" or make ourselves
+very important with our ideas.
+
+But how prudent and just it is to say, 'I need to think about it a bit
+more' before we express an opinion.
+
+"No foul word," say St. Paul, "should ever cross your lips; let your
+words be for the improvement of others, as occasion offers, and do good
+to your listeners" (Eph. 4:29).
+
+There was a story told many years ago of a messenger boy who went to the
+house of the bishop of a place called Galway in the west of Ireland, to
+deliver the meat.
+
+When he knocked on the door, the bishop happened to be the one that
+answered the door.
+
+The messenger boy said, "Here\'s the meat," and turned around to walk
+off.
+
+The bishop said, "Just a moment, young man. That\'s no way to deliver
+the meat. I will show you how to deliver the meat. So I will be the
+messenger boy, and you be the bishop."
+
+They closed the door, the bishop knocked on the door, the kid opens the
+door, and the bishop said, "Good morning, my lord bishop. Here is the
+meat for today\'s meals."
+
+And the kid said, "Oh, thank you, young man. Here\'s 50 shillings for
+your trouble." The kid was very quick off the mark.
+
+All our words should be words that encourage for the improvement of
+others.
+
+When Our Lord was talking to the Pharisees, He didn\'t mince His words.
+He spoke strong words to them. "You brood of vipers" (Matt. 12:34).
+
+"You whitewashed walls!" (Acts 23:3)---because their words were full of
+duplicity. They were empty.
+
+They were one thing on the inside, and they were something else on the
+outside. Total lack of transparency, and honesty, and integrity.
+
+"How can your speech be good," He says, "when you are evil? For words
+flow out of what fills the heart" (Matt. 12:34).
+
+At times, Our Lord talks very strongly. But He didn\'t call any of them
+what He called Peter: "Get behind me, Satan!" (Matt. 16:23) when Peter
+tried to dissuade Him from the Cross, the very thing that He had come to
+achieve.
+
+Satan. He could have called the Pharisees "Satan", but He didn\'t. He
+reserved that compliment for Peter.
+
+St. Paul says, \"Always talk pleasantly and with a flavor of wit but be
+sensitive to the kind of answer each one requires" (Col. 4:6).
+
+Who am I speaking to? How can they understand? How can they get the
+message? What\'s the best way of transmitting this particular idea?
+
+We might use different words for different people. Or if a person is
+very young, we won\'t use big words that they don\'t understand.
+
+That use of this gift of speech demands that we be clever. The gift of
+speech is something that God has given to us: a talent, an ability---not
+a talent and ability He\'s given to everybody, so we shouldn\'t use it
+in a bad way.
+
+We should always try to speak well of others; see their talents, their
+abilities. Affirm them by telling them that they\'re good at this or
+good at that, or 'that was very well done.'
+
+People get enough flack. They need to be encouraged with nice words.
+
+By making reference to the behavior of local children, Our Lord responds
+to those who are twisting the meaning of His teaching: "They are like
+children sitting in the marketplace and calling to one another, 'We
+piped to you, and you did not dance; we wailed, and you did not weep'"
+(Luke 7:32).
+
+He then goes on to talk about how St. John the Baptist was treated.
+
+"He has come eating no bread and drinking no wine, but you say, 'He has
+a demon.' The Son of man has come eating and drinking, and you say,
+'Behold, a glutton and a drunkard, a friend of tax collectors and
+sinners'" (Luke 7:33-34).
+
+All the time, evil people are twisting the words of Our Lord, which were
+words of life.
+
+"Your words, Lord, are spirit, and they are life" (cf. John 6:63). The
+words of Christ are very important. We stand for the Gospel.
+
+In these coming week of Holy Week, we are going to go through the
+richness of the Passion, the richness of the words of Christ on the way
+to Calvary that leave their mark.
+
+John, with his words, prepared the way for the Lord through his life of
+penance. Christ, perfect God and perfect man, is the realization of the
+Promise.
+
+John Chrysostom says, "Through both roads, one reaches the kingdom of
+heaven" (St. John Chrysostom, *Homilies on St. Matthew's Gospel*).
+
+Our words also have the capacity to be like arrows.
+
+When we want to send a message to somebody, we could fire a little arrow
+that is sort of silver-tipped or has a nuclear warhead, seeks out its
+victim, goes down the other end of the table and explodes on contact,
+reaches the heart of this person and reaches the target.
+
+We are very easily prone to vengeance, getting our pound of flesh,
+saying something that will hurt or that will leave a message.
+
+Lord, don\'t let my words be like that. Let my words be open to God.
+
+"As he was drawing near, at the descent of the Mount of Olives, the
+whole multitude of the disciples began to rejoice and to praise God with
+a loud voice for all the mighty works that they had seen, saying,
+'Blessed is the King who comes in the name of the Lord! Peace in heaven
+and glory in the highest!'"
+
+When some of the Pharisees asked Jesus to silence His disciples for the
+apparent blasphemy they were saying, Our Lord said, 'If these were
+silent, the very stones would cry out'" (Luke 19:37-40).
+
+Our Lord encourages certain words. The gift of speech comes from the
+hand of God. We have to use it to sing His praises, to speak well of
+others and His creation.
+
+Lord, help me never to use it to do harm.
+
+St. Josemaría says, "Acquire the habit of speaking about everyone and
+about everything they do in a friendly manner, especially when you are
+speaking of those who labor in God\'s service" (Josemaría Escrivá,
+*Furrow*, Point 902).
+
+One of the things St. Josemaría mentions very clearly is if you can\'t
+say anything good about somebody, then don\'t say anything (cf. J.
+Escrivá, *The Way*, Point 443). Keep your big mouth shut.
+
+That also includes any supernatural family in the Church. We don\'t
+speak badly of other people. We recognize the good things that they are
+doing.
+
+"Whenever that is not possible," he said, "*keep quiet*. Sharp or
+irritated comment as well may border on gossip or slander" (*Ibid*.).
+
+A man told me once in another country how he was a retired journalist
+and he used to give seminars to government employees on communication,
+because sometimes people might not have such good English, or their
+cultural background might lead them to be rather strong with their
+language.
+
+In government departments, emails could be flying around the place that
+were very incendiary.
+
+His role was to give seminars on communication to government employees
+to get them to tone down their language, or to speak nicely in writing,
+or to put better English.
+
+It wasn\'t given great importance, he said, in government departments.
+People weren\'t all too enthusiastic about this.
+
+At the end of the financial year, when managers wanted to exhaust their
+budgets, they would send more people along to the seminars to exhaust
+the budget that they have so that they would still get the same budget
+the next year.
+
+Towards the end of the financial year, numbers would increase. People
+would come to his seminars who really didn\'t want to be there. Normally
+he might have five or six or ten people, and now he might have fifteen
+or twenty.
+
+He told the story of one lady who came along who was quite a social
+problem. She was very easy with her words. She was disturbing everybody.
+
+She obviously didn\'t want to be there. She was telling people: "You\'re
+like that because you\'re stupid," or words like that and disturbing
+everybody.
+
+He was getting very irate. He could see that there was going to come a
+moment here when 'I\'m going to have to ask this lady to go back to her
+office and leave me in peace.'
+
+He said, "I began to invoke the Holy Spirit. I said, 'Lord, when that
+moment comes, help me to say the words that I need to say because, after
+all, this is a seminar on communication.
+
+"'Help me to communicate well, to say the words to this lady, 'Look,
+Madam, could you kindly go back to your office. You walk away in peace.
+You leave me in peace. We create a win-win situation.'"
+
+He was invoking the Holy Spirit that he might say it nicely, and that
+this would all be smooth, and it would still go well.
+
+He was talking on for a few moments, and he happened to mention the head
+of a certain government department, not by name, and described this
+person, this department.
+
+Suddenly this lady pipes up with the name and said, "Mr. So-and-so."
+
+He said, "Yes, Mr. So-and-so. He\'s a very good professional person.
+He\'s an excellent man of virtue. He\'s a real leader in this
+government. He\'s a great asset to this country."
+
+The lady says, \"My husband," with great pride.
+
+Then he says, 'Oh my goodness. This terrible woman is the wife of that
+good friend.'
+
+He began to realize: 'Oh, wow, what I could have said.' He said, 'Thank
+you, Holy Spirit. Thank you, Holy Spirit.'
+
+"You know, I might have told her to go back to her office and leave me
+in peace and we have a win-win situation. And she would have gone home
+to her husband at night and said, 'We had a terrible seminar with that
+terrible man.' And I would have lost a good friend."
+
+He said to me, \"You know, sometimes we don\'t realize the great good
+that comes from keeping our big mouth shut."
+
+He said, \"A little bit after that, it was coming to the end of the
+financial year and that man sent me far more people than he would
+normally send me.
+
+"I get paid by the number of people that come. That was a big financial
+bonus for me. Coming into Christmas and Chinese New Year, I had a big
+financial boom that I didn\'t have in other years."
+
+He said, \"Also, you know, sometimes we don\'t realize the great
+lucrative value of keeping our big mouth shut." That was a very
+interesting lesson.
+
+We can ask Our Lord to help us to be careful with our words. The gift of
+speech is something very special.
+
+Our Lord had a lot of friendly conversation with the apostles, with the
+disciples. His words were used to console people.
+
+"Take up your pallet and walk" (John 5:8). He said those words of
+healing to many others.
+
+"Were not ten made clean?" (Luke 17:17).
+
+"Go and call your husband" (John 4:16), He said to the woman at the
+well.
+
+His words were used to strengthen and console other people. He enjoyed
+the company of people. He made conversation the vehicle of His
+apostolate. He asked people questions, drew them out.
+
+"Who do people say that I am?" (Mark 8:27). He asked leading questions.
+
+He spoke with the apostles as He walked along the road. He strolled
+under the arches of Solomon\'s temple.
+
+He spoke in people\'s houses: "Martha, Martha, you are anxious and
+troubled about many things" (Luke 10:41).
+
+He never refused to speak to anyone. We have no evidence of Our Lord
+refusing, except with Pilate on one occasion, but later on He also spoke
+a little bit.
+
+Our Lord opens His arms to everyone. He has words of comfort for all who
+seek Him with a sincere heart. We can ask Our Lord to imitate Him in
+this way.
+
+We might need to overcome a certain tendency to say things without due
+consideration. It is an opportunity to do battle with our egoism, the
+battle that yields immediate benefits to other people.
+
+Our speech should be at the service of the good---to console those who
+suffer; to teach those who are ignorant; to correct in a courteous
+manner those who are in the wrong; to strengthen those who are weak.
+
+Scripture reminds us that \"the tongue of the wise is health" (Prov.
+12:18).
+
+We use our words to show the right path to those who may have strayed
+from the truth. We direct our conversation to the good of others. We
+don\'t speak badly of anyone.
+
+We savor this gift, this precious talent that God has bestowed on each
+one of us, "a most beautiful gift for the expression of deep thoughts of
+love and friendship towards God and towards His creatures" (J. Escrivá,
+*Friends of God*, Point 298).
+
+We don\'t use the gift in a frivolous or inconsiderate way. We remember
+the words of St. James: "the tongue is a fire." It can "set fire to a
+forest," it can be "the very world of iniquity" (James 3:5-6).
+
+You could consider the damage it can do and that can come from useless
+arguments or sarcasm or calumny or a sharp word here and there. Many
+friendships have been ruined by tongues out of control.
+
+Jesus took care of what He said to other people. "I tell you, on the day
+of judgment," He says, "men will render an account for every careless
+word they utter" (Matt. 12:36).
+
+Idle words spring from an impoverished spirit. Unwillingness to control
+our speech can be a symptom of spiritual lukewarmness.
+
+"The good man out of his good treasure brings forth good things. The
+evil man out of his evil treasure brings forth evil" (Matt. 12:35).
+
+Our Lord will judge us on how we have used His gifts.
+
+We are told in *The Way*, "After seeing how many people waste their
+lives (without a break: gossip, gossip, gossip---and with all the
+consequences), I can better appreciate how necessary and lovable silence
+is. And I can well understand, Lord, why you will make us account for
+every idle word" (J. Escrivá, *The Way*, Point 447).
+
+The road from sarcasm to calumny is all too short. It\'s difficult to
+control one\'s tongue if one is not trying to live in the presence of
+God.
+
+The Christian ought never to be found saying anything bad about anybody.
+On the contrary, the Christian should act like Christ, who "went about
+doing good" (Acts 10:38).
+
+Notice how St. Josemaría mentions silence, how lovable silence is. As we
+move towards Holy Week, one phrase of the Passion can speak very loudly
+to us: *Jesus autem tacebat*--"Christ kept silent" (Mark 14:61).
+
+Of all the examples that Our Lord gives us on His way to Calvary, one of
+those examples specifically is the example of silence. We need to be
+more silent, to seek out silence, to control the tongue.
+
+When we speak, to speak with more wisdom, and maybe, to thank God for
+the periods of silence that are inculcated in our *plan of life*: the
+night-time period, the afternoon period, the periods of prayer.
+
+Our Lord often withdrew into silence in the course of His public life.
+
+As we follow Him along that pathway to Calvary and that of Our Lady, who
+is silent beside the Cross, we could ask them for that gift, to grow in
+the control of our tongue.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*JM*

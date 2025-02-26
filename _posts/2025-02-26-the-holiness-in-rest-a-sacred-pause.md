@@ -1,0 +1,524 @@
+---
+layout: homily
+title: "The Holiness in Rest: A Sacred Pause"
+---
+
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+"The apostles rejoined Jesus and told him all that they had done and
+taught. And he said to them, 'Come away to some lonely place all by
+yourselves and rest for a while.' For there were so many coming and
+going that there was no time for them even to eat. So they went off in
+the boat to a lonely place where they could be by themselves" (Mark
+6:30-32).
+
+The Apostles come back to Our Lord. They have been out preaching and
+doing things. It\'s a moment when they tell Him about the success of all
+the things they\'ve been doing. They\'re a little bit on the crest of a
+wave.
+
+Our Lord could have told them: 'Out you go again and make full use of
+this opportunity. Let\'s make good use of our time. Let\'s really push
+to the limit.'
+
+But Our Lord doesn\'t tell them that. He said to them, "Come away by
+yourselves to a lonely place and rest a while" (Mark 6:31).
+
+Our Lord was very convinced of the importance of rest, of what St. John
+Paul II has called "the sacredness of rest" (John Paul II, *cf*.
+Apostolic Letter, *Dies Domini*, May 31, 1998).
+
+Jesus is playing for the long term. He\'s not just interested in
+momentary or temporary success. He wants them to rest well so that they
+can regather their strength and their forces.
+
+Also, they can rest in Him with a new spirit of contemplation, which is
+the basis of their strength and of their future.
+
+These words, taken from the Gospel, also show Our Lord\'s concern for
+His friends---His concern for their rest.
+
+Rest is something important. It\'s not just a luxury. It\'s an
+obligation. Sometimes in our life, we need to rest. We need to rest, to
+recuperate.
+
+We rest in order to be able to work more and to work better, to work
+more effectively, or to gather our thoughts or think things through, or
+to cast a contemplative gaze over the things we have done and discern
+what has been done well, what not so well, what could be done better the
+next time.
+
+After their intense apostolic mission, the apostles feel a natural
+tiredness and lack of strength.
+
+It\'s a normal human thing to get tired. It\'s a very good thing that
+we\'re tired after our day\'s work.
+
+Let it be that it\'s really after a day\'s work that we\'re tired---not
+tired from not doing anything very constructive.
+
+Tiredness is not necessarily a bad thing. Also, when we\'re tired we
+don\'t have to go around the place telling everybody how tired we are.
+
+But when they come back and tell Our Lord "everything they\'ve done and
+taught," Our Lord realizes immediately that they\'re tired and that they
+need rest.
+
+He shows concern for them. "They went away in the boat to a lonely place
+by themselves" (Mark 6:32).
+
+Each of us has to try and be aware of the need of the people around us
+for rest, be able to discern when somebody is tired, and create that
+opportunity or the environment or the things that will help that person
+to rest. It\'s a very normal thing in the family. Everybody needs rest.
+
+Our Lord has made us in such a way that we need seven or seven and a
+half to eight hours of sleep every night. Maybe children might need a
+little more.
+
+We come to realize that we need seven and a half hours of rest---as much
+as that can be sleep, if possible, but there comes a moment in our life
+when we realize that sleep is a gift. But still, we need to rest.
+
+On other occasions, it\'s Our Lord Himself who needs to rest. He\'s
+wearied out from His journey, and so He sits down beside the well (*cf*.
+John 4:6).
+
+One commentator has mentioned how interesting it is that St. John gives
+us a picture of the Messiah worn out from His labors. He sits down
+beside the well because He cannot take another step.
+
+If Our Lord in His Sacred Humanity, "like us in all things but sin"
+(Heb. 4:15), felt the need for a justified rest, so also, we have to
+rest.
+
+There might come a moment in our life when we\'re told by a doctor, by a
+sibling, or by a parent, or by somebody who has charge of us around us
+that we need to take a break, we need to rest.
+
+We may not be told that very often in our life but if we\'re ever told
+that, we should pay a lot of attention and be very obedient, realizing
+that the people around us very often know us much better than we know
+ourselves. They can sense when we need to take a break.
+
+Our Lord has experienced something that\'s very consonant with human
+nature: fatigue. He had experienced it at His work during the thirty
+years of His hidden life, just as we do each day at our own work.
+
+It\'s very logical that after a day\'s work, we would need to rest, or
+at the end of the week. Often at the end of Our Lord\'s day, He was
+exhausted.
+
+The evangelists also tell us that during a storm on the lake, Our Lord
+fell asleep in the stern of the boat (Matt. 8:24; Mark 4:38; Luke 8:23).
+He must have been worn out.
+
+We get the impression that He did not suffer from insomnia. He was able
+to fall asleep in a very unusual place at a very unusual time, with a
+raging storm all around Him. He\'d spent the whole day preaching and He
+just needed to lie down and be quiet for a while.
+
+He was so tired that He didn\'t wake up in spite of the waves. The
+apostles have to come and say*,* "Master, does it not concern you that
+we are perishing?" (Mark 4:38).
+
+Our Lord wasn\'t pretending to be asleep in order to put His disciples
+to the test; He was really physically worn out.
+
+There may be times of real bodily weariness. At these times, Our Lord is
+also redeeming mankind. His weakness and His tiredness can help us to
+bear our own weakness and our own tiredness, to co-redeem with Him.
+
+Periods of tiredness can be a time of spiritual bonanza, when we may
+have to go a bit slower, or we may have to rest a bit more, or go to a
+different place, or take part in some pastime, or even do something that
+we find a bit difficult to do because we love to be doing our work.
+
+Sometimes we just have to get away from things and offer up that
+tiredness that might be physical, but it might also be mental or
+emotional or nervous or some other type of tiredness that might not be
+particularly apparent. We might need to rely on the advice of other
+people.
+
+It\'s very consoling to see Our Lord exhausted and to imagine how, in
+times when we\'re feeling low or tired or worn out, Our Lord must be
+very close to us in those moments.
+
+As we carry out our duties, as we generously go about our professional
+work, or as we unstintingly use up so much of our energy in apostolic
+initiatives and undertakings of service to others, it is natural that
+fatigue appears as an almost inseparable companion.
+
+Far from complaining about this inescapable reality, a reality that is
+common to all of us, we have to learn to rest close to God and to
+exercise ourselves constantly in that way of thinking.
+
+"Oh, Jesus! I rest in you" (Josemaría Escrivá, *The Way*, Point 732). We
+could often say those words inwardly as we seek support in Him.
+
+Ultimately, we rest in Christ. We rest with the Blessed Sacrament. We
+rest in our prayer. We rest by living in the presence of God. We rest by
+living well our Christian vocation.
+
+We don\'t take vacations from our vocation. We try to fulfill all the
+spiritual norms of our plan of life, so that we truly rest in the arms
+of the Master.
+
+This is the authentic rest that God wants for us, abandoned into the
+arms of Our Father God, finding a great peace in the knowledge that
+Christ is looking after everything. We are carried in the palm of the
+hand of a God who loves us.
+
+These may be moments of greater trust, greater hope, greater peace, and
+abandonment. No one knows our tiredness better than Our Lord does,
+because He Himself was constantly in situations similar to our own.
+
+We don\'t need to make a great deal of noise about what we\'re going
+through, or let everybody know what we feel like.
+
+These can be moments when we just try and have to pass unnoticed---to do
+what we\'re told and savor all the great spiritual opportunities that
+this situation gives us.
+
+We have to try and learn to recover our strength close to Him. Our Lord
+says, "Come to me, all you who labor and are heavy burdened, and I will
+give you rest" (Matt. 11:28).
+
+Rest is a gift of God, just like sleep. He gives us moments of solitude
+or peace. Maybe He gives us a good book that distracts us or a good
+movie or good music or some of those things that have been created for
+us to rest ourselves for a while.
+
+God gives us those things so that in Him we can find our joy. We can
+find that it will help us if we live charity in a purposefully pleasant
+way towards those around us, even if at times we might find it a little
+bit more difficult to do so.
+
+We might be on a short fuse; we might be a little bit irritable. It\'s a
+time for greater patience with those around us, a deeper smile, a kind
+word, offering up the little crosses that may come.
+
+We also have to remember that the use of leisure is an activity that
+we\'re called to sanctify. We find God in the ordinary things of every
+day.
+
+Sometimes those ordinary things just involve being together with other
+people that make us relax, or looking at the sea, or listening to some
+music, or reading a good book---but all the time in the presence of God
+or in the presence of the angels.
+
+The first line of the Mass of the Angels says: "In the presence of the
+angels, I will sing your praises, my God" (Ps. 138:1). That includes
+moments of tiredness.
+
+Those periods of distraction shouldn\'t be isolated inertial gaps in our
+lives, or seen as the chance to allow ourselves to indulge in some
+purely selfish compensation.
+
+When Our Lord sat down by the well, He was also attentive to the
+apostolic moment. He saw an opportunity when the woman comes to the
+well. He didn\'t say, 'I\'m a bit too tired to talk to this lady' or
+'Why did she come at this particular moment?'
+
+The apostolic vocation that was part of Christ\'s vocation was a
+constant in His life. It was expressed in all moments.
+
+Likewise, love does not take holidays. In our moments of tiredness, we
+can also look for apostolic opportunities.
+
+We should realize also that our tiredness is never useless. Our Lord
+makes use of the periods when He\'s recuperating His energies in order
+to influence souls.
+
+"Come apart by yourselves to a lonely place and rest for a while."
+
+'Listen to me talking to you.' Days and hours of retreat or of other
+forms of activities can be special moments when we\'re recuperating our
+energies in order to influence other souls.
+
+Our Lord seized upon the opportunity to move that Samaritan woman to a
+radical change in her life (John 4:7-29).
+
+So the times of tiredness, which can be demanding, can be a cross that
+we offer to Our Lord for apostolic purposes. Maybe, in more intense
+periods of tiredness, we could offer each hour of the day---put a name
+or an intention on every hour, write it down---so that it's a very
+intense period of offering up those sacrifices and that prayer.
+
+We make sure that our moments of weariness are not useless but fired
+with great apostolic zeal.
+
+It may be that "only after our death will we know how many sinners we
+have helped to save by offering up our tiredness. Only then we will
+understand that periods of forced inactivity and our sufferings can be
+of more use to our neighbor than what might seem to be our most
+effective deeds of service" (George Chevrot, *The Well of Life*).
+
+Our Lord makes use of our sacrifice. We should never fail to offer up
+those times when exhaustion or illness might make us feel useless.
+
+'Here I am, I can\'t do anything. I\'m confined to this bed or to this
+chair. I can\'t move or don\'t have the energy to move.' Well, never
+mind.
+
+It can be a powerhouse of apostolic fervor. Those circumstances should
+not stop us from helping other people.
+
+Tiredness also teaches us to be humble; to accept our limitations. Our
+pride and our vanity might not be very happy in leading us to realize
+that we have limitations.
+
+These periods can teach us to be more humble, to live charity better,
+and to realize at those times that we can\'t do everything. We are not
+the great person that we think we are.
+
+Our Lord allows us to go through those periods sometimes, to let us see
+the need we have for other people, and how much we depend on other
+people, and how all the people that God has placed around us are souls
+that we need very much.
+
+Allowing ourselves to be helped can be a wonderful way of practicing
+humility. "Here I am, Lord, because you have called me" (1 Sam.
+3:5,6,8). You\'ve placed me in this situation.
+
+At the same time, since we all become more or less tired, we\'re able to
+understand the words of St. Paul a little better when he says, "Bear one
+another\'s burdens" (Gal. 6:2).
+
+It\'s a time to forget about ourselves and think more about other
+people, of their crosses, of their difficulties.
+
+We can understand that any help that we give to those that we see as
+overworked is always a great sign of charity.
+
+Weariness can help us to live a greater detachment from the many things
+that we would like to do, but which we just don\'t manage to reach
+because of the limitations to our strength.
+
+This is the time to turn to Our Lord and say, 'Lord, you have to take
+over. You have to finish this. You\'ve got to put the icing on the cake.
+On my own, I can\'t manage it. I\'m useless. I\'m just a useless
+servant.'
+
+It can also help us to grow in the virtue of fortitude and in the
+corresponding virtue of resilience---to hang in there, finish things
+well when we don\'t feel like it, when we feel like giving up, to
+realize that we don\'t always find ourselves at the peak of our strength
+or the very best of health when we have to work, or study, or when we
+have to see a difficult undertaking through to the end.
+
+In all those tasks, we find highs and lows, energy and lack of energy;
+that\'s all par for the course. It\'s a given. But we have to try and go
+forward in the easy moments and the difficult moments, and we can learn
+a lot about human work in those moments.
+
+A big part of the virtues we need to put into practice every day
+involves going on working when we\'re tired, not being surprised or
+scandalized by the fact that we get tired. Often we don\'t feel as
+physically well as we would like to in order to get on with those tasks.
+
+That might be on a daily basis. There might be a lot of tasks we have to
+do that we just don\'t feel like doing. But yet, justice may demand that
+we get those jobs done.
+
+If we carry out those tasks with that spirit of unity to the cross, Our
+Lord will bless us in a special way.
+
+The Christian considers life to be an immensely beneficial gift which
+doesn\'t belong to any one of us, but which we have to look after and be
+responsible for.
+
+Every day we have to try and earn our invitation to the eternal wedding
+feast. We have to live the years that God wants us to live and go on to
+complete the task that He has entrusted us with---in principle, a long
+stretch of life.
+
+As a consequence, for God\'s sake and the sake of other people, we must
+observe the norms of prudence in caring for our health and that of the
+people who in any way depend upon us.
+
+The Second Vatican Council in *Gaudium et spes* says among these norms
+is the one "that leisure be properly employed to refresh the spirit and
+strengthen the health of mind and body."
+
+We have a duty to try and keep ourselves as healthy as possible,
+subjecting ourselves to a schedule, dedicating sufficient hours to
+sleep.
+
+We can\'t expect Our Lord to work miracles of energy with us when we
+haven\'t used the human means. Occasionally, we have to stop what we\'re
+doing and go for a walk or an excursion, change our environment a little
+bit, so that we put order into our activity.
+
+If we were to function in any other way, so long as we\'re not prevented
+by some pressing obligation, that might reveal a certain thoughtlessness
+or laziness.
+
+That could be very harmful. It could lead us to harm our interior life
+or slip into an activistic state, be more liable to lose our serenity.
+
+Anyone who is even moderately ordered in the organization of their day
+will habitually find a few periods of prudently relaxing in the midst of
+the most demanding and self-sacrificing of activities.
+
+We have a duty to rest, resting in order to serve God and to serve other
+people.
+
+Sometimes you have to learn to rest. It\'s not something we are born
+knowing. There are ways of resting.
+
+If we can avoid becoming totally exhausted, then we shouldn\'t fail to
+do so. If through some lack of planning or order, we were to come into
+an excessively tired state, that wouldn\'t be a good thing.
+
+God wants us to look after our health, and to know how to recover our
+strength. It\'s part of the Fifth Commandment. We need to rest in order
+to be fit, to restore lost energy, so that all our work can be all the
+more effective. We need it also to serve God and other people better.
+
+In *Friends of God*, we're told, "Remember that God loves his creatures
+to distraction. How can a donkey work if it\'s not fed or given enough
+rest, or if its spirit is broken by too many beatings? Well, your body
+is like a little donkey, and it was a donkey that was God\'s chosen
+throne in Jerusalem, and this little donkey carries you along the divine
+pathways of this earth of ours.
+
+"But it has to be controlled so that it doesn\'t stray from God\'s
+paths. And it has to be encouraged so that it can trot along with all
+the briskness and cheerfulness that you would expect from a poor beast
+of burden" (J. Escrivá, *Friends of God*, Point 137).
+
+When Blessed Álvaro del Portillo was leaving Rome every summer for a few
+months for a change of environment, he used to tell people: "I\'m going
+to rest the donkey. I\'m going to rest the body so that the body can
+keep going a little bit longer."
+
+When we\'re tired, it can be all the more difficult to do things well,
+or to do them the way that God wants us to do them. At such times we
+might be more liable to faults against charity, or faults at least of
+omission.
+
+When we come back from resting a little bit, usually we look happier,
+more cheerful, more sprightly. We bring a joy into the lives of other
+people around us. That\'s charity.
+
+St. Jerome says in an amusing manner, "Experience shows me that when a
+donkey is tired it sits down at every corner."
+
+St. Josemaría in *The Way* says: "To rest is not to do nothing: it is to
+relax in activities which demand less effort" (J. Escrivá, *The Way*,
+Point 357).
+
+Often our leisure time can provide an opportunity for interior
+enrichment, to learn something new, or to read something new. It can
+present an occasion for doing more apostolate, for fostering a
+friendship. We shouldn\'t confuse rest with laziness.
+
+Our Mother the Church has always taken an interest in the physical
+well-being of her children.
+
+We\'re told in the Gospel how occasionally Our Lord stayed and rested in
+the house of Martha and Mary (Luke 10:38-42).
+
+St. John Paul II pointed out that "rest means leaving one\'s everyday
+occupation, detaching oneself from the normal toil of the day, the week,
+and the year" (John Paul II, *Angelus*, July 20, 1980).
+
+It's important that we don't wander around aimlessly. Our time off
+mustn\'t just be empty time. It\'s very good to have a plan, to plan
+family fun, to plan family rest, or to plan holiday time.
+
+"Sometimes," said St. John Paul II, "it would be good to go and enjoy
+nature---the mountains, the sea, the forest."
+
+And of course, it should always be desirable for one\'s leisure time "to
+be filled with something different, a new content that nevertheless
+still leads to an encounter with God. We should open up the inward eyes
+of the soul to his presence in the world and incline our inward ear to
+his Word of truth" (*ibid*.).
+
+We can be very well aware that many nowadays will dedicate their leisure
+to pastimes and activities which don\'t facilitate, and even on certain
+occasions obstruct, that encounter with Christ.
+
+Far from letting ourselves be influenced by what may be considered
+fashionable, we should be attentive to this consideration: the same norm
+should guide our leisure as guides our work.
+
+In those moments we should be able to show our love for God and for our
+neighbor, doing good things.
+
+It\'s never right to do things that are wrong, no matter how tired we
+are, or how sick we are, or what situation we may be in.
+
+That may mean we choose a suitable place to go on vacation, or we choose
+well how to plan a journey, or how to profitably arrange a weekend
+activity away from work.
+
+We should avoid thinking of nobody but ourselves, seeking union with
+Christ. We rest well by forgetting about ourselves, thinking a little
+more, and concerning ourselves a little more with other people.
+
+Any time is good for thinking about other people, for looking after
+them, for helping them, for taking an interest in their hobbies.
+
+Any time is a good time for showing our love. Love doesn\'t allow any
+blank gaps.
+
+Jesus rested out of obedience to the law of Moses. He rested as a result
+of the demands made on Him by family and friends, or because of
+weariness, like anybody else.
+
+He never rested because He was tired of serving others. He never
+isolated Himself, never made Himself unavailable to people, as if to
+say, 'Now it\'s my turn.'
+
+We should never act from selfish motives, not even when we stop to get
+our breath back. At those moments too, we should make sure that we\'re
+close to God. Our leisure time is not a pagan time, to be distinct and
+separated from our interior life.
+
+In the Gospel, Our Lord leaves us with a very special sign of His love:
+we should be concerned about the weariness and the health of those who
+live close to us.
+
+We see how, when He sat down exhausted beside the well of Sychar, Our
+Lord gave us a powerful example. He didn\'t let slip the opportunity of
+doing apostolate, of converting the Samaritan woman.
+
+He did all this even though "Jews have no dealings with Samaritans"
+(John 4:9). When there is love, not even exhaustion can be an excuse for
+not doing apostolate.
+
+We also have the example of Our Lady, who went and spent three months
+with her cousin Elizabeth (Luke 1:56)---a great gesture of friendship.
+She spent time there. She was open to that change.
+
+Mary, may you help us to make very good use of our rest times, to plan
+it well---that of the family, that of our friends, our neighbors---to
+make it very apostolic.
+
+Through that time, we can recover our strength and bring joy to many
+other people around us.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*\
+\
+*VA*

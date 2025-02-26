@@ -1,0 +1,395 @@
+---
+layout: homily
+title: "Waiting for Jesus"
+---
+
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+We are told in St. Luke, \"Through the tender mercy of our God, when the
+day shall dawn upon us from on high to give light to those who sit in
+darkness and in the shadow of death, to guide our feet into the way of
+peace" (Luke 1:78-79).
+
+Jesus is the Dawn who gives light to our existence. If we want
+everything we do to have any meaning, it must be done with reference to
+Him.
+
+In a very special and extraordinary way, Our Lady\'s life centers around
+Jesus---and especially so on this, the eve of her Son\'s birth. We can
+hardly begin to have any idea of what the spirit of recollection within
+her soul was like.
+
+She was always recollected, pondering these things carefully in her
+heart. And that\'s how we have to learn to be.
+
+We can be aware of the fact that our thoughts can be so dissipated and
+how we can be distracted by things of little importance.
+
+Only one thing is really important in our lives: Jesus, and everything
+that refers to Him.
+
+Again and again, we\'re told in Scripture how aware Our Lady was of
+that: "His mother kept all these things in her heart" (Luke 2:19,51).
+The evangelists refer to Our Lady\'s attitude towards these events as
+they occurred.
+
+She ponders and meditates. She understands that interior spirit of
+recollection which enables her to evaluate and to keep in her heart all
+the happenings of her life, whether they be great or small.
+
+Deep within her, enriched by the fullness of grace, reigns that
+preternatural harmony for which man was created. There\'s no better
+place to preserve and to ponder on that exceptional divine action in the
+world to which Our Lady bears witness.
+
+After original sin, the soul lost its dominion over the senses, and its
+natural orientation towards the things of God. It was not so in Our
+Lady; but it is in us.
+
+In her, who had been preserved from original sin, everything was
+harmony, as at the beginning of creation. She was also adorned by the
+presence, altogether singular and extraordinary, of the Blessed Trinity
+in her soul.
+
+Mary is always at prayer because she does everything with reference to
+her Son. When she talks to Jesus she prays because prayer is to talk to
+God. She prays each time she looks at Him. That\'s prayer too---to look
+with faith at Jesus in the Blessed Sacrament, truly present in the
+tabernacle.
+
+She prays when she asks Him for something or whenever she smiles at Him,
+which she does so often, or when she thinks about Him. Her life was
+determined by Jesus, and her thoughts were set permanently on Him.
+
+Her interior spirit of recollection was constant. Her prayer blended
+with her very life, with her work and with her attention towards others.
+Her interior silence was richness, fullness, and contemplation.
+
+Today we can ask her to give us this interior spirit of recollection,
+which is necessary if we are to see and to talk to God, who is also very
+close to our lives.
+
+The *Entrance Antiphon* of the evening Mass of December 24 says, "Today
+you will know. that the Lord will come and save us, and tomorrow you
+will see his glory" (*cf*. Ex. 16: 6-7).
+
+On the eve of her Son\'s birth, Our Lady encourages us never to neglect
+prayer, which is conversation with Our Lord. Without prayer, we are
+lost; with it we are strong and are able to carry out our tasks.
+
+St. John Paul II said, "Among other reasons, we must pray too because we
+are fragile and culpable. We need to admit humbly and truly that we are
+poor creatures, with confused ideas\...We are fragile and weak, and in
+constant need of interior strength and consolation. Prayer gives us
+strength for great ideals, for keeping up our faith, our charity, our
+purity, our generosity; prayer gives us strength to rise up from
+indifference and guilt, if we have had the misfortune to give in to
+temptation and weakness.
+
+"Prayer gives light by which to see and to judge from God's perspective
+and from eternity. That is why you must not give up praying! Don't let a
+day go by without praying a little! Prayer is a duty, but it is also a
+joy because it is a dialogue with God through Jesus Christ!" (John Paul
+II, *Audience with Young People*, Mar. 14, 1979).
+
+We have to learn to come closer to Our Lord through mental
+prayer---those moments which we dedicate to talking to Him quietly about
+our concerns, thanking Him, asking for His help, or simply being with
+Him. Through vocal prayer, too, perhaps prayers sometimes that we
+learned as children.
+
+Never in our lives will we meet anyone who listens with as much interest
+or as much attention as Jesus. Nobody has ever taken our words as
+seriously as He has. He looks at us. He pays attention to us. He listens
+to us with the greatest interest when we pray.
+
+Prayer always enriches us---even in that silent dialogue before the
+tabernacle in which we do not use any words. It\'s enough to watch and
+to feel ourselves watched.
+
+This is very different from the verbosity of many people, who say
+nothing because they have nothing to communicate. We are told in
+Scripture, "From the abundance of the heart, the mouth speaks" (Matt.
+12:34).
+
+If our heart is empty, what can our lips say? If we are sick with envy
+or sensuality, what content will the dialogue have? Nevertheless, we
+always come away from our prayer with more light, greater joy, more
+strength.
+
+Being able to pray is one of the greatest gifts a man has. To talk to
+and to be listened to by his Creator! To talk to Him and call Him
+Friend!
+
+In our prayer we have to talk very simply to Our Lord. St. Teresa of
+Ávila says, **"**To think and to understand what we are saying, and to
+whom we are saying it. Who are we who dare to speak to such a great
+Lord, to think these and other similar things about how little we have
+served him and how much we are obliged to serve---this is mental prayer"
+(St. Teresa of Avila, *The Way of* *Perfection*).
+
+Some people may think that prayer is something extraordinarily
+difficult, or that it\'s just for special people. But in the Gospels we
+see people of very different backgrounds approaching Our Lord with
+confidence: Nicodemus. Bartimaeus, the children whom Our Lord
+particularly likes to be with---a mother, a father who has a sick child,
+a thief, the Wise Men, Anna and Simeon, his friends of Bethany. All of
+them, and now we, speak to God.
+
+What matters in prayer i*s* perseverance and good dispositions; among
+them faith and humility. We can\'t come to our prayer like the Pharisee
+in that parable meant for some who "trusted in themselves\...and
+despised others."
+
+As we are told in St. Luke, "The Pharisee stood and prayed with himself,
+'God, I thank you that I am not like the other men, extortioners\...I
+fast twice a week\...'" (Luke 18:9-14).
+
+We can see straight away that the Pharisee entered the temple without
+any love. He is the center of his thoughts and the object of his own
+estimation. Consequently, instead of praising God, he praises himself.
+There\'s no love in his prayer, no charity, no humility. He doesn\'t
+need God.
+
+On the other hand, with our mind fixed on the person we\'re talking to,
+we can learn a lot from the prayer of the tax collector, who is humble,
+attentive, and confident. We try not to make it a monologue in which we
+just think about ourselves, recalling situations without referring them
+to God, failing to control our imagination.
+
+Because he lacked humility, the Pharisee left the temple without having
+prayed. Even in that, his hidden pride manifested itself.
+
+Our Lord asks us for simplicity, to acknowledge our faults, and to talk
+about what is of interest to us and to Him.
+
+We're told in *The* *Way*, "You write: 'To pray is to talk with God, but
+about what?' About him, about yourself: joys, sorrows, successes, and
+failures, noble ambitions, daily worries, weaknesses! And acts of
+thanksgiving and petitions, and love and reparation. In a word, to get
+to know him and to get to know yourself: to get acquainted" (Josemaría
+Escrivá, *The Way*, Point 901).
+
+In Point 92 of *The Way*, St. Josemaría says, "And in my meditation, a
+fire shall flame out. That is why you go to pray: to become a bonfire, a
+living flame, giving heat and light. So, when you\'re not able to go on,
+when you feel that your fire is dying out, if you cannot throw on it
+sweet-smelling logs, throw on the branches and twigs of short vocal
+prayers and aspirations, to keep the bonfire burning. And you will not
+have wasted your time."
+
+Particularly at the beginning, and again at certain times, it can be
+helpful to use a book in our prayer, as a cripple uses crutches, so as
+to make progress in prayer. Many saints did just that.
+
+St. Teresa of Ávila says, \"If it was not just after receiving Holy
+Communion, I never dared to start the prayer without a book; my soul
+feared being at prayer without a book, as though I were going to fight a
+great crowd of people. With this remedy, which was like a companion or a
+shield which could receive the blows of so many thoughts, I felt
+consoled" (St. Teresa, *Life*).
+
+We should habitually conclude our prayer with definite resolutions to
+improve. We can ask Our Lord sincerely: What do you want of me in this
+particular thing that I\'ve been considering? How can I improve now in
+this virtue? What resolution should I make to carry out your Will in the
+next few months?
+
+Nobody in this world has known how to talk to Jesus as Our Lady did, and
+next to Our Lady, St. Joseph, who must have spent long hours gazing at
+Him, talking to Him, simply being in His company, and venerating Him.
+
+St. Teresa of Ávila says, "If anyone cannot find a teacher to teach him
+how to pray, let him take this glorious saint as his teacher, the master
+of the interior life, and he will not stray from the path" *(ibid).*
+
+One person who was very much present there in Bethlehem, in the
+background, but helping this whole enterprise of the Incarnation take
+place, is St. Joseph. He\'s changing the atmosphere, changing the
+environment. He\'s creating the atmosphere of a home that has to be the
+model for all Christian homes for all eternity. His role is very
+important.
+
+On this night of nights, it\'s a good opportunity for fathers to
+consider their vocation and mission. A father has to develop first and
+foremost in the family environment. This is our first apostolate:
+praying about our home; asking St. Joseph for help; creating that
+atmosphere; having a generous cooperation with the plans of God,
+sacrificing our likes and dislikes.
+
+Joseph doesn\'t make any noise, but yet he\'s enormously effective. When
+we contemplate him and his role in these hours, we see that he\'s very
+silent, but full of a spirit of service.
+
+His whole journey for Nazareth has been a service, thinking about Our
+Lady: How can I make her more comfortable? He finds his joy and his
+fulfillment in that service, irrespective of what it may be costing him
+himself.
+
+He\'s full of faithfulness. He has full acceptance of the Will of God,
+in all the different ways that that Will comes to him. And that Will of
+God demands from him a lot of flexibility, a lot of initiative, a lot of
+capacity to solve problems, to put up with difficulties and
+contradictions, fortitude.
+
+But he\'s very focused. He forgets himself. He\'s a pillar. He\'s
+humble. He\'s the just man, fully trusting the plans of God. He gives us
+a great example of the manliness, of availability.
+
+He reminds us to have a great sense of responsibility and to have
+initiative and patience in solving the problems and bringing up our
+children, and thinking ahead, and in seeing each one of our children and
+our spouse as the treasures that Our Lord has placed in our hands, and
+our primary mission is focused there.
+
+St. Joseph teaches us how to live like a great human being. He seems to
+say to us that in the way that you foster the family atmosphere of
+Christmas on this night and in the coming days, that\'s what your
+children are going to take with them when it comes to forming their
+homes.
+
+God is going to judge us on the effort we\'ve put into this, in building
+the families of the future. This is a great night to have a lot of
+supernatural outlook, to focus on the supernatural work entailed in
+forming a home and the fountain of sanctification that lies hidden in
+your conjugal duties.
+
+St. Josemaría in *The Forge,* Point 692, says, "And I also tell them:
+you Christian mothers and fathers are a great spiritual motor, sending
+the strength of God to your own ones, strength for that struggle,
+strength to win, strength to be saints. Don\'t let them down."
+
+These are good hours to pray for each family member, to pray for their
+heart and their soul. Thank God for all the spiritual and human lessons
+you\'ve been able to give them over the past twelve months so that they
+breathe in this family atmosphere that you want their lives to be guided
+by and molded by, so that their families can be the great family that
+you dream that it one day will be.
+
+The family is the setting in which to transmit the faith and to grow
+humanly. The wonderful words that Pope St. John Paul II has used to
+describe the family could well be in our thoughts tonight: "It\'s the
+school of virtue\...the school of deeper humanity" (John Paul II,
+*Familiaris consortio*, Nov. 22, 1981, Points 36,37,42,43; *Gaudium et
+spes*, Point 52).
+
+We could try to think about all the extra little work or jobs to be done
+in the family and the home these days---that children might be very much
+part of that. Having things to do. Children love to serve. And to have
+our whole family life very focused on the crib---perhaps saying two or
+three Hail Marys every night before the crib, building up the piety of
+your children around that representation that leads us into the stable
+in Bethlehem.
+
+John Paul II called the family the "sanctuary of life" (John Paul II,
+Encyclicals, *Evangelium vitae*, March 25, 1995 and *Centesimus annus*,
+May 1, 1991), the school of love, the school of the soul. We\'re here to
+build "a civilization of love" (John Paul II, *Letter to Families*,
+February 2, 1994; *Apostolic Letter*, *Salvifici doloris*, Point 30,
+February 11, 1984; *Catechesis*, June 8, 1994). All these words are very
+relevant on this night of nights,
+
+We can thank St. Joseph for the beauty of the family and for our family
+vocation, and see how important that is in the whole plans of God for
+the evangelization of the world.
+
+We can think of the heroic Christian witness that God wants us to give
+within the family, facing any problems we might have with great faith
+and trust and confidence in God, which is how St. Joseph faced those
+problems on this Christmas night.
+
+St. Joseph teaches us that little things are important, the fulfillment
+of our ordinary little duties, the little details of being in the home
+as much as possible during these days and hours.
+
+The importance of being present for family gatherings, and being present
+also in gatherings of the more extended family, so that we are there for
+the others, so that we\'re easy to live with, because we take care of
+all of these things.
+
+St. Joseph puts his heart on the ground so that Our Lady can walk
+easier. His virtues are like the grain of wheat fallen into the ground
+which have produced an abundant harvest (John 12:24)---like the mustard
+seed (Matt. 13:13-21)---over the many centuries since.
+
+He seems to say to us that we have to be a family man 24/7, to be
+thinking family-wide: grandparents, household, people who work within
+the domain of the family---that we have room for every family person
+during this time. And particularly thinking, is there any member of my
+extended family who might be a little bit alone these days?
+
+St. Josemaría in *The Forge*, Point 689, says, "You should be full of
+wonder at the goodness of Our Father God. Are you not filled with joy to
+know that your home, your family, your country, which you love so much,
+are the raw material which you must sanctify?"
+
+In Point 691 he says, "Each child that God grants you is a wonderful
+blessing from Him. Don\'t be afraid of children!"
+
+We could be aware in these hours that Our God, in His deepest mystery,
+is not a solitary being. But he\'s a family: Father, Son, and Holy
+Spirit. And God\'s inner life then is paternity, filiation, and the
+essence of the family, which is love.
+
+Charity is always manifested by order. Order in our affections. Trust is
+the refinement of charity. No way of acting proper to any family.
+
+We see how Joseph was very flexible. able to handle the changes in plans
+and the difficulties. Nothing is achieved by rigidity.
+
+He teaches us that love is wanting life\'s best for others, even though
+that may not include us.
+
+We can ask him to help us to be compassionate with the compassion of
+Christ and His Mother. May we show to others the pity and the
+understanding and the mercy that has been shown to us.
+
+St. Josemaría liked to point out that "in Bethlehem, nobody holds
+anything back" *(Letter*, February 14, 1974). It\'s all a story of total
+self-giving. A phrase that John Paul II liked very much.
+
+These are special days for fathers to lead through virtue, to give an
+awful lot of example to our family members of what it means to be a
+leader in the most important aspects of life.
+
+Somebody said once, the greatest failure of a man is to fail as a
+father, and the greatest thing a man can do for his family is to love
+his wife very much.
+
+As we look in on this great event of the Incarnation that is taking
+place, we can turn to St. Joseph, the master of the interior life.
+Nobody in the world knew how to talk to Jesus as Our Lady did, and next
+to His Mother, St. Joseph, who must have spent long hours gazing at Him,
+talking to Him, simply being in His company, and venerating Him.
+
+\[St. Bernadette Soubirous\] says, "If anyone cannot find a teacher to
+teach him how to pray, let him take this glorious saint as his teacher
+and he will not stray from the path." As we finish our prayer, we
+contemplate Joseph very close to Mary. He\'s full of consideration and
+attention towards her. Jesus is about to be born. Joseph has prepared
+that stable as well as he could.
+
+We can ask him to help us prepare our souls so that we\'re not
+dissipated and distracted when we have Jesus so close to us.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*JOSH*

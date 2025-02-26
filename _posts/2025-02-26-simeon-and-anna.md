@@ -1,0 +1,396 @@
+---
+layout: homily
+title: "Simeon and Anna"
+---
+
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+\"When the day came for them to be purified, in keeping with the Law of
+Moses, they took Him up to Jerusalem to present Him to the Lord,
+observing what is written in the Law of the Lord: *Every firstborn male
+must be consecrated to the Lord*, and also to offer in sacrifice,
+according with what is prescribed in the Law of the Lord, *a pair of
+turtle doves or two young pigeons"* (Lk 2:22-24).
+
+Forty days have passed since the birth of Jesus, and the Holy Family
+begins their journey to fulfill what is laid down in the Law of Moses:
+"Every male that opens the womb will be called holy to the Lord" (Nb
+18:15). The distance from Bethlehem to Jerusalem is not much, but many
+hours are needed to get there. Once they\'ve reached the Jewish capital,
+Mary and Joseph go to the Temple.
+
+Before entering, they would have fulfilled with piety the rites of
+purification. They would also have bought in one of the nearby stalls
+the prescribed offering: "a pair of turtle doves or two young pigeons"
+(Lv 14:22). They would have entered the largest esplanade through one of
+the underground tunnels used by all the pilgrims. You can imagine their
+excitement as they went towards the hall for women.
+
+We are told that in Jerusalem there was a man named Simeon. He was an
+upright and devout man. He looked forward to the restoration of Israel,
+and the Holy Spirit rested on him. We are given an impressive
+description of this man, the holy man. The Holy Spirit rested on him.
+
+It had been revealed to him, we are told, by the Holy Spirit, that he
+would not see death until he had set eyes on Christ the Lord. Prompted
+by the Spirit, he came to the temple. And when his parents brought in
+the Child Jesus to do for Him what the Lord required, he took Him in his
+arms (cf. Lk 2:25-28).
+
+In this short passage, the Holy Spirit is mentioned three times. He\'s
+very active in the life of Simeon. We are told that Simeon was prompted
+by the Holy Spirit. These days we could listen in a special way to the
+promptings of the Holy Spirit.
+
+As we finish one year and begin another: What is God saying to me at
+this stage of my life, after this year that has passed, or this moment
+in my marriage, in my family, with my children, in my work, in my
+sanctity? What is He saying to me about the most important things, about
+my apostolic mission in the middle of the world? What is the Holy Spirit
+saying to me about the year that is in front of me?
+
+Simeon was prompted by the Spirit and so he is sensitive to the
+whisperings of the Holy Spirit in his heart and in his mind. He is
+listening very carefully. He is led by God, and so we can imagine that
+the face of Simeon is radiant with joy.
+
+Our Lady and St. Joseph were approached by this holy man. Simeon would
+have greeted Our Lady and St. Joseph affectionately and possibly showed
+the excitement with which he had awaited this moment.
+
+He knows something great is about to happen because "it has been
+revealed to him by the Holy Spirit that he would not see death until he
+had set eyes on Christ the Lord" (Lk 2:26-27).
+
+He is aware his time is coming to a close. He is elderly. But he also
+knows, because the Holy Spirit has revealed it to him, that he was not
+to die without seeing the Redeemer. And so, when he sees the Holy Family
+enter, God lets him identify this Baby, the Holy One of God.
+
+With the logical care that the tender age of Jesus requires, Simeon took
+Him in his arms and lifted up his prayer to God. What did Simeon say to
+God? Did he say, "Now, Lord, I hold the World Cup in my hands. I have
+reached the zenith of my existence. This is the greatest joy that I
+could possibly have"? All these great human excitements, even winning
+the greatest sporting competition on the whole planet, is nothing to
+what Simeon is experiencing.
+
+We\'re told he took Him in his arms and blessed God. And he said, "Now
+Master, you can let your servant go in peace as you promised. For my
+eyes have seen the salvation which you have made ready in the sight of
+the nations, a light of revelation for the Gentiles and glory for your
+people, Israel" (Lk 2:29-32).
+
+These words are very special. They are words that every priest says each
+night in the breviary, 'Now you can let your servant go in peace,' as
+part of Compline. It\'s the greatest moment of his life. He holds the
+Christ Child.
+
+We could think for a moment what happens in the moment of Holy Communion
+when that Christ Child comes into our souls sacramentally, with the
+periods of thanksgiving after Mass each day. How special those moments
+are!
+
+What a special experience it is to have the Christ Child within us!
+We\'re called to experience something similar to that of Simeon, which
+perhaps is not expressed in human emotions but in supernatural and
+spiritual joy.
+
+And we are told, "As the Child\'s father and mother were wondering at
+the things that were being said about Him, Simeon blessed them and said
+to His mother, 'Look, He is destined for the fall and for the rise of
+many in Israel, destined to be a sign that is opposed---and a sword will
+pierce your soul too, so that the secret thoughts of many may be laid
+bare'" (Lk 2:33-35).
+
+Joseph and Our Lady are surprised. They were not expecting Simeon. He
+was not in the program. He was not on the agenda. And suddenly, he is
+saying these very lofty words. They begin to detect further messages
+that are being given to them about their own vocation.
+
+The story is unraveling itself little by little. God has used other
+people to confirm Joseph and Mary in their calling: the shepherds, the
+Magi, and now Simeon. We are told the Child\'s father and mother were
+wondering at the things that were being said about Him.
+
+In other places, we are told that Mary pondered all these things
+carefully in her heart (cf. Lk 2:19). Little by little they\'re learning
+more as they walk along the pilgrimage of faith, which is their
+vocation.
+
+With every twist and turn of the pathway of our vocation, we can also
+expect that the Holy Spirit is going to use certain people, certain
+places, at times unexpectedly, maybe unexpected people, to give us very
+deep and important messages.
+
+Simeon addresses Our Lady in a special way: "He is destined for the fall
+and the rise of many in Israel, destined to be a sign that is opposed, a
+sign of contradiction."
+
+The Catholic Church in the world is a sign of contradiction. We should
+not be surprised when the Gentiles rage, that people utter all sorts of
+vain things (cf. Ps 2:1). It has happened throughout history.
+
+The Catholic Church has been called to be that sign of contradiction, to
+proclaim the truth---the truth about marriage, the truth about the
+family, the truth about human love, the truth about human sexuality.
+
+One writer says what we suffer so much from in the world today is not so
+much an excess of sex but a lack of true human sexuality, which is
+beautiful, which is sacred. Part of our apostolate with our words and
+with our example is to spread that word.
+
+When we find the Church is a sign of contradiction, when there are
+persecutions and the teaching of the Church isn't understood, and maybe
+there are scandals or things might seem to be everything different than
+what they should be, none of this is particularly new.
+
+What we have to do is focus on the purpose of our Christian vocation,
+stay close to the Holy Family and the sacraments, go deeper in our
+knowledge of the faith. And all the difficulties pass, the problems get
+solved.
+
+Then he said to Our Lady, "Your own soul a sword will pierce" (Luke
+2:35). This is the first time that anyone is speaking in this way. Up
+till now, all the revelations to Joseph and Mary have been about joy at
+the birth of Christ: the Annunciation, the revelations to Joseph, the
+inspired words of St. Elizabeth, the shepherds, the Magi---they had all
+proclaimed the joy of the birth of the Savior of the world.
+
+But Simeon prophesied that Mary was to carry in her life the destiny of
+her people. She was to occupy the front line in the work of salvation.
+She is to accompany her Son, placing herself at the center of the
+contradiction in which the hearts of men would show themselves for or
+against Jesus.
+
+This is the first time that anyone has talked to Our Lady about the
+cross: "your soul a sword will pierce.\" You\'re going to have a broken
+heart. Maybe in the course of our lives, we might suffer from a broken
+heart, the loss of a loved one, or some major contradiction or
+difficulty. We might know someone close to us who has a broken heart.
+The world is full of broken hearts.
+
+But we have the solution to broken hearts. We go to the protection of
+Our Lady and of Jesus who both have broken hearts. They allow their
+hearts to be broken on the cross so that they would have the solution
+for all time for all broken hearts, so that we find our solace in the
+heart of Mary, in the Heart of Christ, the wounded Heart of Christ, the
+wounded heart of Mary.
+
+Fulton Sheen says that only Our Lord and Our Lady know how to mend
+broken hearts, but you\'ve got to give them all the pieces. He said if
+God ever allows our hearts to be broken, it is because He wants to enter
+into them a little more. There is always some great divine purpose, some
+great apostolic plan. God is at work here.
+
+That is what Simeon is talking to Our Lady about: the whole future
+program of her life. "A sword will pierce your soul too so that the
+secret thoughts of many may be laid bare."
+
+Our Lady realizes that the prophecy of Simeon is no lie, and it sort of
+completes what God has made known to her beforehand. Her reaction on
+this occasion is the same as what the pages of the Gospel indicate on
+other occasions: "Mary kept all these things carefully in her heart"
+(cf. Lk 2:19).
+
+Our Lady meditates on the events that are taking place around her. She
+seeks the will of God in them. She deepens in the thoughts that Yahweh
+places in her soul. She does not react passively to what is around her.
+
+This is the pathway that Pope St. John Paul pointed out, to be loyal to
+Our Lord. She is living out her promise, "Behold the handmaid of the
+Lord, be it done unto me according to your word" (Lk 1:38).
+
+Our Lady teaches us that in the moments of contradiction, of the cross,
+of the broken hearts, that can be our response also---unity to the will
+of God. Pope St. John Paul said that Mary was faithful above all when
+with love she sought the deepest meaning of the plans of God about her
+and about the world.
+
+There would be no fidelity if there was not this ardent, generous, and
+patient seeking; if there was not found a certain question in the heart
+of man, a question for which, only God is the answer. This seeking of
+the will of God brings Our Lady to accept whatever she discovers: "be it
+done unto me."
+
+Our Lady was going to find out that there are going to be many
+opportunities in the course of her life to say those very same words.
+These were crucial moments of fidelity, in which probably she didn\'t
+realize that she was not able to understand the depth of the plans of
+God, nor how they would take place. But observing these moments, her
+desire to fulfill the will of God becomes greater.
+
+We\'re also told when they find Our Lord in the temple, He said, "Did
+you not know I must be about my Father\'s business?" We\'re told they
+did not understand the things that He said to them (Lk 2:49-50). Our
+Lady accepts the mystery, giving it a place in her heart.
+
+Our Christian vocation is a bit of a mystery. Our life is a bit of a
+mystery---day by day, week by week, month by month. Each one of our
+children, our friends is a bit of a mystery. But yet God is working out
+His plans in them and through them.
+
+Pope John Paul continues: Not with the resignation of someone who
+surrenders in the face of something not understandable, of something
+unusual, but rather with the availability of someone who opens to be
+imbued by something, or rather by someone, greater than one\'s own
+heart.
+
+We\'re going to be told that later "Jesus grew in wisdom, and age, and
+grace before God and men" (cf. Lk 2:52), under the attentive gaze of Our
+Lady. And as the years of the public life of Our Lord came closer, she
+was going to notice how the prophecy of Simeon begins to be carried out:
+"He is destined for the rise and for the fall of many in Israel" (Lk
+2:34).
+
+These are years of fidelity to Our Lady\'s vocation. Living in
+accordance with what she believed, continues Pope St. John Paul, in
+adjusting her own life to that on which she was focused. In accepting
+misunderstandings and persecutions, rather than allow any rupture
+between her and her children, rather than allow any rupture between how
+she lived and what she believed.
+
+There are years of showing in thousands of ways her love and loyalty to
+Jesus, years of coherence, the most intimate nucleus of fidelity. But
+all fidelity, he says, has to pass through the most demanding trial,
+that of duration, that is to say of constancy. He says it\'s easy to
+have coherence between one\'s beliefs and actions for one or a few days.
+
+But to be coherent throughout one\'s life is difficult and important. It
+is easier to be coherent in moments of exaltation, and difficult to be
+so in times of tribulation. Only a coherence which lasts a lifetime can
+be fidelity.
+
+Often, parents, by their struggle in virtue, and by their fidelity over
+decades, leave the greatest spiritual legacy that they can to their
+children---fidelity to a Christian vocation. This is how Our Lady was,
+always loyal, and even more in times of tribulation.
+
+In the hour of the cross, she\'s there, accompanied by a few women and
+St. John. The earth is covered in darkness. Jesus, nailed to the cross
+with immense physical and moral pain, directs to heaven a prayer that
+expresses personal suffering and also radical confidence in the Father,
+"My God, My God, why have you forsaken me?" (Mt. 27:46). Psalm 22 begins
+in this way, but ends with a note of confidence, "all the families of
+the nations will bow down before Him" (Ps 22:27).
+
+When Our Lady, standing at the foot of the cross, heard that prayer of
+her Son, what would have been her thoughts? For years she had meditated
+on what God wanted from her. Now, seeing her Son on the Cross, forsaken
+by almost everyone, she might have remembered the words of Simeon, "Your
+own soul a sword will pierce" (Lk 2:35). She would suffer, in a special
+way, the injustice that was taking place.
+
+However, in the obscurity of the Cross, her faith was placed before her
+eyes, the reality of the mystery. She was helping the salvation of all
+men, of each man, to take place. She is the mother of all human persons.
+
+The words of Jesus, full of confidence, would let her understand with
+new lights that her own suffering linked her more intimately to
+redemption. In this moment, she could be speaking to all mothers, to all
+fathers, showing them an example of the priestly soul that they are
+called to have.
+
+A priest is someone who offers sacrifices. Priestly virtues are the
+virtues Christ lived on the cross, humility, obedience, sacrifice,
+generosity. Our Lady unites her priestly soul to that of her Son. From
+high on the Cross, in the very moment of His death, the gaze of Jesus
+crosses with that of His Mother.
+
+He finds, at her side, a union of intention and sacrifice. Pope John
+Paul says, the fiat of Mary, the "be it done unto me" (Lk 2:38) in the
+Annunciation, finds its fullness in the silent *Fiat* that she utters at
+the foot of the Cross. To be faithful is not to abandon in the darkness
+what one has proclaimed in public.
+
+With her daily correspondence all throughout her life, Our Lady has
+prepared herself for this moment. She knew that with her unconditional
+self-giving on the day of the Annunciation, she also embraced these
+events in a certain way in which she was now participating with full
+interior freedom.
+
+Pope Benedict says, our sorrow forms a whole with that of her Son (cf.
+Homily of His Holiness Benedict XVI on 15 September 2008). It is a
+sorrow full of faith and love. Our Lady on Calvary participates in the
+salvific strength of the sorrow of Christ, uniting her *Fiat*, her yes,
+to that of her Son.
+
+Our Lady stays faithful. "She offers her Son a balm of tenderness, of
+union, of fidelity, a yes to the divine will" (St. Josemaría, *Way of
+The Cross,* Fourth Station). Under the protection of that fidelity, Our
+Lord says, according to St. John and with him, the Church for all time,
+"behold your Mother" (Jn 19:27).
+
+Mary does all of this in an ordinary way. She passes unnoticed, with
+great naturalness, as one more in the crowd. She is not calling any
+attention to herself or to her importance. Our Lady responds with faith
+to the most varied situations. And that response is possible because she
+was moved at receiving the messages of God and she meditated on them.
+Her whole life forms a unity.
+
+This is what Our Lord Himself lets us understand when, in the face of
+the praise of that enthusiastic woman, He clarified the real motive for
+which the Woman should be praised. "Blessed are they rather who hear the
+word of God and keep it" (Lk 11:28).
+
+One of the greatest lessons we can learn from Our Lady is that fidelity
+is not improvised. It is cultivated day by day. We do not spontaneously
+learn to be faithful.
+
+When Our Lady heard the words of Simeon, she didn\'t suddenly drop
+everything and run. 'Oh no, I don\'t want that.' She goes forward to
+embrace everything that God has in mind for her.
+
+We\'re told in *The Way*, "Don\'t fall into a vicious circle. You are
+thinking: when this is settled one way or another, I\'ll be very
+generous with my God. Can\'t you see that Jesus is waiting for you to be
+generous without reserve, so that He can settle things far better than
+you imagine? A firm resolution, as logical consequence: in each moment
+of each day, I will try to generously carry out the will of God." (St.
+Josemaría, *The Way,* Point 776)
+
+In the Bible we are told a decree went out from the Emperor Augustus,
+enjoining that all the inhabitants of Israel should be registered. Mary
+and Joseph made their way to Bethlehem (cf. Luke 2:1-5).
+
+"Has it ever occurred to you that the Lord made use of the prompt
+acceptance of q law to fulfill His prophecy? Love and respect the ways
+of behaving by which you may live in amity with other people. I have no
+doubt, either, that your loyal submission to duty can be the means for
+others to discover Christian integrity, which is the fruit of divine
+love, and to find God" (St. Josemaría, *Furrow*, Point 322).
+
+"There was also a prophetess, Anna, the daughter of Phanuel, of the
+tribe of Asher. She was well on in years, her days of girlhood over. She
+had been married for seven years before becoming a widow. She was now
+eighty-four years old and never left the temple, serving God night and
+day with fasting and prayer. She came up just at that moment and began
+to praise God and she spoke of the Child to all who look forward to the
+deliverance of Jerusalem.
+
+"And when they had done everything that the law of the Lord required,
+they went back to Galilee, to their town of Nazareth. And the child grew
+to maturity, He was filled with wisdom. And God\'s favor was with Him"
+(Luke 2:36-40).
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*BWM*

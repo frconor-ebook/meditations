@@ -1,0 +1,472 @@
+---
+layout: homily
+title: "Death and the Good Use of Time (2^nd^ Ed.)"
+---
+
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+There was an elderly lady once in Singapore who used to go with her
+husband every day to the happy hour for a few drinks. Whenever she did,
+she would put on her makeup and her earrings and make herself look well.
+Then her husband passed away and she ended her days in a home for the
+aged run by some nuns. She had no religion.
+
+During these days when she was there, she liked to remember the good old
+times when she went with her husband to the happy hour. When the time
+came for the happy hour, she would pretend that she was going to the
+happy hour. She would put on her earrings, do herself up a little bit,
+relive those good moments.
+
+Little by little, the nuns were evangelizing her and preparing her for
+Baptism. She learned all the basic prayers. But she couldn\'t quite
+master the second part of the Hail Mary, because she kept saying, Holy
+Mary, Mother of God, pray for us sinners, now and at the happy hour of
+our death. Amen.
+
+In some ways, she put her finger on the nerve. The hour of our death,
+for Christians, is a happy hour. It\'s the opening and the pathway to
+eternal life. It\'s the purpose for which we have lived. It\'s not the
+end, but the beginning. Life is changed, not taken away.
+
+In this retreat, we look at the reality of our death. Often, we give a
+lot of importance to other people\'s deaths, but not to our own. Death
+is the separation of the soul from the body. But the soul goes on
+living.
+
+Death can be something very positive, very beautiful. I\'ve seen many
+people die very beautiful, happy, holy deaths---something that we should
+all desire because we\'re going forward to the eternal wedding feast.
+
+Pope St. John Paul II liked to talk a lot about how we\'re all called to
+the eternal wedding feast. Marriage in this world, he said, is just a
+preparation for marriage in the next.
+
+St. Josemaría Escrivá said something similar. Marriage is a pathway to
+holiness, to sanctity (cf. *Conversations*, Point 91). If there\'s
+something that isn\'t quite right in our marriage, or things don\'t go
+as we thought, or things work out completely the opposite of what we had
+planned---never mind. This is all just part of the journey. It\'s a
+preparation for marriage in the next, the eternal wedding feast.
+
+Very often in Scripture, Christ is referred to as the bridegroom (Matt.
+25:1,10, Mark 2:18-20, John 3:29, Isa. 61:10, etc.). The bridegroom
+comes to seek his bride (cf. Matt. 25:6).
+
+We don\'t know too much about our death. It\'s a bit of a mystery. But
+Our Lord has told us that He may come "like a thief in the night" (1
+Thess. 5: 2).
+
+On many occasions, He\'s told us that therefore we have to be prepared,
+to have our lamps burning brightly (Luke 12:35), to be like the prudent
+virgins who took enough oil in their lamps (Matt. 25:2-3). Every so
+often when we have an occasion for formation, or to grow in our
+spiritual life, on a daily basis, or on a weekly or yearly basis, we
+have an opportunity to take oil in our lamps.
+
+This retreat is one of those opportunities. The five foolish virgins did
+not think of the future; did not plan ahead. They gave themselves to the
+enjoyment of the moment. They didn\'t care about what was up ahead.
+
+But then the moment came. "Behold, the bridegroom is coming." They found
+that they had not enough oil in their lamps, and so "they said to the
+prudent ones, 'Give us some of your oil, our lamps are going out.' But
+they replied, 'There may not be enough for us and for you. You had
+better go to those who sell it and buy some for yourselves.'"
+
+They went off to buy oil. It wasn\'t that they did nothing. They went to
+buy oil. But the problem was that their decision came too late. They\'d
+gone off to buy it when the bridegroom arrived. Those who were ready
+went in with him to the wedding hall, and the door was closed. It\'s
+very final. The period of earning was finished (Matt. 25:1-10).
+
+It\'s a great invitation to us to use our time well. Time is a
+gift---every day, every hour, every minute. God will ask us to account
+for it.
+
+"The other virgins arrived later. 'Lord, Lord,' they said, 'open for us.
+But he replied, 'In truth, I tell you, I do not know you.' Stay awake
+because you do not know either the day or the hour" (Matt. 25:11-13).
+
+It\'s very good to plan your death in every detail. It's good thing to
+talk to your children about death, to realize that we only have each
+other on loan, but we will be together forever in eternity.
+
+We have a lot to look forward to. "What we are, what we have, is God\'s
+gift to us. What we become is our gift to God."
+
+"To some, he gave five talents, to some, three, to some, one" (Matt.
+25:15). Everybody has their talents. None of us can say, 'I don\'t have
+any talents.' We all have talents that Our Lord wants us to work at, to
+gain more, and to build ourselves up to be the great people that He
+wants us to be.
+
+Whether we live or die, we are the Lord\'s. We are carried in the palm
+of the hand of the God who loves us. Our Heavenly Father is looking
+after us. We offer trust, abandonment, faith. We can live with great
+peace and joy. We don\'t have to worry about our deaths because
+everything in our life has been chosen. We\'ve been chosen out before
+the foundation of the world, to be holy.
+
+If God has chosen everything in our life, He has also chosen the moment
+and the manner of our death. It\'s a good thing to think about in this
+retreat, to prepare for that reality.
+
+If God has chosen the moment of our death, then it\'s a moment of grace.
+It\'s something we can look forward to. We can make an act of acceptance
+of death: "whenever it may please you, as it may please you, wheresoever
+it may please you."
+
+It can be a great peace, because it\'s chosen by God, because it\'s
+something very good. Our Lord is going to say, "Come, you blessed of my
+Father, take possession of the kingdom prepared for you from the
+foundation of the world" (Matt. 25:34).
+
+A peaceful and holy death is a great grace. St. Joseph is the patron of
+a holy death.
+
+Often, God\'s ways are not our ways. He also may call some of our loved
+ones before He calls us, but that is also a pathway to holiness.
+
+What He wants though is that we "take all in our lamps"---through every
+confession, every spiritual direction, every recollection or seminar or
+retreat.
+
+In *Friends of God*, we\'re told, "Time is short for loving, for giving,
+for making atonement. We mustn\'t squander this period of the world\'s
+history, which God has entrusted to each one of us" (Josemaría Escrivá,
+*Friends of God*, Point 39). These are very haunting words.
+
+This period of the world\'s history has been entrusted to each one of us
+to influence, to shape for the better, possibly to form our children, to
+do the great things that we perhaps dreamt of doing but were not able to
+do.
+
+If that moment has been chosen by God before the foundation of the
+world, then it can be a very good thing to consecrate our death to God:
+'Lord, I give you here and now that moment of my death. I realize that
+it will be the best way to die.'
+
+It doesn\'t really matter how we die---whether we drown, or we\'re
+poisoned, or we die in a car accident, or cancer, or a heart attack. It
+will be the one that God chose for us.
+
+The important thing to remember is that most people die as they have
+lived. The reality of last-minute deathbed conversions is very rare.
+
+You think of all the people that you know that have died in the past
+twelve months. Probably all of them died as they had lived. There were
+very few last-minute conversions.
+
+The important thing is to live well, to take this day, this week, this
+month, this year seriously; to live this day as if it was the last one
+that God gave to me on this planet, to see it as a grace, and to use our
+time to grow in holiness and to do apostolate. It\'s to "build up for
+ourselves treasures in heaven" (Matt. 6:20).
+
+One night when I was working as a doctor in a big general hospital, a
+400-bed hospital, it was a private nursing home beside the hospital---we
+normally did not get called over there; it was the domain of the
+consultants---but I was on duty that night, and they needed a doctor.
+
+I got called over. I was brought into a room where there was a man in
+his 50s who was dying of cancer. His family were around his bed, and
+when I came in, he asked them to leave.
+
+Then he took a hold of my wrist, and his hand was already cold and
+clammy. Death had already begun to creep into his body. He was going to
+die that night. He looked at me with a look of terror in his face and
+said, 'Doctor, don\'t let me die.'
+
+I learned a lot from the experience. This man was well to do. He was in
+the best hospital in the country. But it was as though he had come to
+the hour of his death and he realized that all his treasures were in
+this world. He had no treasures in the next.
+
+That phrase of Scripture came to mind, "Do not build up for yourselves
+treasures on earth, where dust and moth consume, and thieves break in
+and steal, but store up for yourselves treasures in heaven" (Matt. 6:
+19-21).
+
+Every day is an opportunity for us to store up for ourselves treasures
+in heaven, to practice the corporal works of mercy, to get rid of
+material things. Getting rid of material things after we die has no
+merit. We don\'t own anything; everything belongs to God.
+
+One writer says, We cannot appreciate life until we realize that it can
+be taken away from us. With this retreat, we could try to make radical
+resolutions to use our time well.
+
+Some people say time is money, time is business. St. Josemaria used to
+say, "Time is a treasure. ... We can\'t cast this treasure uselessly
+overboard."
+
+It\'s a treasure, it\'s a gift of God, it\'s a talent---a talent for us
+to do something with. The Book of Ecclesiastes says, "God has appointed
+time for every matter, for every work---a time to plant, a time to reap
+what has been planted; a time to be born and a time to die" (Eccles.
+3:1-2).
+
+When I was living in Singapore, there was a convent of nuns up the road,
+and when there was an extra priest in town, I would go and say Mass for
+them. Some were very elderly; they didn\'t have a priest regularly. Just
+to get into the car was very difficult. There was a 93-year-old and an
+89-year-old, and a few others.
+
+Everybody expected the 93-year-old to die first, but the 89-year-old
+died first. I went to the wake and there I met the 93-year-old.
+
+I asked her, 'But how are you now?' With a glint in her eye she said,
+'Well, I\'m next' as though 'I missed the train this time, but I won\'t
+miss it next time.'
+
+Then she said, 'I\'m waiting in joyful hope.' This lady had been in
+Burma during the Second World War looking after orphans. She had done
+the most amazing things in her life. You could write a book about the
+adventures she'd had---a wonderful life, lived to the full.
+
+Now she is looking forward to heaven, looking forward to her death,
+"waiting in joyful hope.\" It\'s a phrase from the Mass that comes just
+after the Our Father.
+
+What a nice thing if we met someone on the supermarket or in the street
+one day and they asked us how we are and we were to say, 'I\'m waiting
+in joyful hope.' It\'s a great way to live.
+
+The time that God has given to us is for glory. It\'s for grace. It\'s
+for eternity. It\'s an opportunity.
+
+What do we mean by the 'sanctification of time'? We try to use it well
+for the glory of God. It\'s an instrument in our hands for doing
+something with. The important thing is what we do with it.
+
+It\'s like a pen or a pencil. Somebody says, 'I have a pen, I have a
+pen, I have a pen, I have a pencil, I have a pencil, I have a pencil.'
+The question is, what are you going to do with that pen? Will you sign a
+contract? Will you sign a check? Will you give it your autograph?
+
+Similarly with our time, it\'s not that we have time. We don\'t go
+around telling everyone, 'I have time, I have time, I have time.' The
+key thing is, what are you going to do with that time? It\'s an
+instrument in our hands for doing something with.
+
+It\'s a given in order to work, to serve, to develop ourselves. to give
+glory to God. That\'s why it\'s very important to plan our time. If you
+look at any of the management textbooks, they talk a lot about planning
+time.
+
+Having a to-do list. Writing things down. Annotating our priorities.
+Numbering them one, two, three. What order do I have to do things? It
+makes us more efficient, more effective. We make better use of our time.
+
+There was a teenager once who was encouraged to make a schedule for the
+weekend. But his reply was, 'I have schedules all week and timetables
+all week in school. I want my freedom. I want to do what I want.'
+
+Finally, he agreed that a timetable helped him to use his freedom to the
+maximum. He could do many more enjoyable things in one weekend, and even
+practice skills and visit places he never dreamt of.
+
+Planning our time---each day, each period of each day, each hour---is
+the key to using our time well, so that we don\'t just go looking for
+time for its own sake.
+
+That time has been given to us---to me, very personally. The same time
+or opportunities have not been given to other people. It has to be used
+for the purpose for which it was given. God will ask us to account.
+
+Also, it\'s been given. It\'s not ours. We don\'t own it. We can\'t add
+a single second or hour. We can\'t shorten it or lengthen it. It\'s one
+of God\'s gifts that He\'s given, and we have very little playroom.
+
+God gives His time, and at the end He asks for it back. All of our time
+is limited. We get a package of years. Some people get twenty, some
+people eighty, sixty, forty. Some babies just get a few moments of
+light. But every person gets their time.
+
+When Our Lord speaks about time in the New Testament, it\'s interesting
+that He talks about small increments of time. He doesn\'t talk about
+millennium goals or Vision 2030.
+
+He says, "This day you will be with me in paradise" (Luke 23:43). This
+day has its importance.
+
+"Woman, my hour has not yet come" (John 2:4). Our Lord talks a lot about
+His hour.
+
+He can do a lot of things in an hour. "Now has the hour come for the Son
+of Man to be glorified" (John 12:23). Our Lord doesn\'t talk in terms of
+months or years.
+
+We can try to live our life hour by hour. The sanctification of time is
+made up of the sanctification of moments. An act of thanksgiving is an
+act of a moment. A smile is an act of a moment. An act of faith is an
+act of a moment.
+
+You could also see that in Scripture, there\'s a great sense of urgency
+with time. "Mary went with haste into the hill country" (Luke 1:39).
+"The shepherds went with haste" (Luke 2:16) to Bethlehem.
+
+When people see the will of God, they don\'t dilly-dally. They go
+quickly to fulfill that will.
+
+We could ask Our Lord also that we might have that same sense of urgency
+to do the thing I\'m supposed to be doing now, declaring war on
+procrastination; fulfilling our duty of this moment. Where am I supposed
+to be? What am I supposed to be doing?
+
+We\'re told, "When Jesus passed on from there, he saw a man called
+Matthew sitting at work in the tax collector\'s place" (Matt. 9:9).
+Matthew was where he was supposed to be. He was doing what he was
+supposed to be doing.
+
+He wasn\'t reading the newspaper. He wasn\'t down the road talking to a
+friend. He wasn\'t doing a crossword or answering his email. He was
+fulfilling his duty.
+
+Is it any wonder then that Christ noticed him? He saw Matthew. There
+might have been many other people around that He didn\'t see. But He
+noticed Matthew. This is the sort of person I need to build my Church.
+
+Time is a sacred thing. We should try and use it for that purpose for
+which God has given it to us.
+
+If we compare time and money, they\'re analogous instruments, yet
+they\'re both instruments, different in what they\'re used for and in
+their source.
+
+Time is from God. We can\'t directly multiply it. We have no direct
+control in the total amount of time. But we do have a certain control
+over money. We can multiply money.
+
+There are people who can offer to multiply our money for us, but nobody
+can offer to do that for time.
+
+No one can say, 'You only have two days to prepare for this deadline,
+this exam or this report.' Or, 'Your state of your health means you have
+six months to live, but I can give you six years.'
+
+With time you can make money, but with money you cannot make time.
+
+Time is more basic. It\'s greater. It\'s divine. We need time for
+everything, but we don\'t need money for everything.
+
+Our Lord has said to us, "Trade until I come" (Luke 19:13). I\'m giving
+you this period of time. You go and let\'s see what you can do with it.
+
+He set apart a time for each thing. It\'s a definite amount. We can\'t
+make an hour run faster or slower. We can only use it. It comes, and
+then it goes, never to return.
+
+It\'s a flowing, divine treasure. God is the real owner of time. It\'s
+holy because it belongs to God, and therefore should be treated as
+something sacred.
+
+That\'s one of the reasons for the virtue of punctuality. It\'s the
+virtue whereby we respect the time of others. Everything in our life
+should be on time, trying to be present a few minutes before the time
+appointed. That way, we\'re punctual.
+
+If ever we get delayed and we don\'t make it for our appointments, it's
+pretty good manners to send a message or a text to say, 'Look, I\'m
+sorry I\'ll be two minutes late' or 'I\'m too late in traffic.' Even if
+it\'s only two minutes, it sends the message that I value your time.
+
+Your time is part of your dignity. I respect your time because I respect
+you.
+
+Of course, this is a very good thing to teach in the family: on time for
+meals, on time to get up in the morning, on time to go to bed at night.
+With the schedule of the family, we teach children a certain sense of
+time.
+
+Now is the time to do your homework. Now is not the time to watch TV, or
+to be on your phone, or to be playing football, or whatever. When the
+time for rest comes and recreation, now is the time to have a good time.
+Family fun is very important. Plan it well.
+
+Our Lord wants us to trade with time. You receive five talents, let\'s
+see if you can bring five more talents, using it with order, trying to
+improve what we do at a given time.
+
+"A job done well," said one of the saints, "is a job that\'s done in the
+shortest possible time." It\'s a very good thing to work against the
+clock. Try and see if each time we do a job, we can get it done in less
+time.
+
+There was a servant who "hid his master\'s talent" (Matt. 25:18). He
+lost the opportunity of multiplying that talent. Probably we have few
+opportunities to kill time.
+
+Our problems are probably the opposite. When we have little time, little
+pieces of time, we might think we cannot use it for anything. But in the
+five minutes here and the five minutes there---we could read an article,
+we could say a decade of the Rosary.
+
+We plan our time well and have things to do that we want to get through.
+We\'ll use more and better those few little pieces of time that crop up
+from time to time.
+
+There can be a temptation to bury that time. But if you put all those
+little pieces of time together, it can come to be something very useful.
+"Well done, good and faithful servant. Because you have been faithful in
+little things, I will entrust you with many" (Matt. 25:23).
+
+Time is free, but it\'s also priceless. "He has made everything suitable
+for its time," we're told. "Moreover, He has put a sense of past and
+future into their minds. Yet they cannot find out what God has done from
+the very beginning to the end" (Eccles. 3:11).
+
+In the Catechism, we\'re told, "To God all moments are present in their
+immediacy. When, therefore, he establishes his eternal plan of
+predestination, he includes in it each person\'s free response to grace"
+(CCC, Point 600).
+
+Our Lord gives us time to respond to His grace. Every minute that passes
+is grace that has flowed.
+
+We can try to respond to that grace by doing in each moment what we\'re
+supposed to be doing, so that we\'re not idle in the marketplace,
+saying, "No man has hired us" (Matt. 20:6-7). The reality is that
+there\'s plenty of work to be done.
+
+"When I reflect on this," we\'re told in *Friends of God*, "how well I
+understand St. Paul\'s exclamation when he writes to the Corinthians,
+'time is short\' (1 Cor. 7:29). How short indeed is the time of our
+passing through this world.
+
+"For the true Christian, these words ring deep down in his heart as a
+reproach to his lack of generosity, and as a constant invitation to be
+loyal. Brief indeed is our time for loving, for giving, for making
+atonement.
+
+"It would be very wrong, therefore, for us to waste it, or to cast this
+treasure irresponsibly overboard. We mustn\'t squander this period of
+the world\'s history which God has entrusted to each one of us"
+(Josemaría Escrivá, *Friends of God*, Point 39).
+
+I can ask Our Lady, that she who "went with haste" into the hill country
+might give us the grace to make very good use of our time, in all the
+little things of each day, and in that way, to prepare for the holy and
+the happy death that God has prepared for us.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*KI*

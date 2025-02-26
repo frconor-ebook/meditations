@@ -1,0 +1,480 @@
+---
+layout: homily
+title: "Forming Saints in the Domestic Church (The Cross)"
+---
+
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+\"And when they came to the place called the Skull, they crucified him
+there, and the robbers, one on his right hand and the other on his left.
+And Jesus said, \'Father, forgive them, for they do not know what they
+are doing.\' And when dividing his garments, they cast lots\" (Luke
+23:33-34).
+
+These are the hours of the Crucifixion. As we were saying in the last
+meditation, the Church is in mourning for the death of Christ.
+
+Holy Saturday is a silent day. The church is silent, the church is
+empty, not just because of the pandemic, but that\'s the way it\'s
+liturgically organized.
+
+We live out these hours and moments in the company of Our Lady, trying
+to digest the lessons of Holy Week, and in particular, the lessons of
+the Cross, and to see what messages this has for the theme of this
+recollection, which is about forming saints in the domestic Church.
+
+One of the central messages that Our Lord tells us this week is about
+the importance of the Cross and the centrality of the Cross.
+
+John Paul II liked to say that we find the meaning and the purpose of
+our life in Christ (cf. John Paul II, *Homily*, August 14, 1993).
+
+You can say even more: that we find the meaning and the purpose of our
+life in Christ on the Cross, because that\'s where Christ is at His
+greatest.
+
+He is the eternal High Priest. He offers Himself to His Heavenly Father
+as a sacrifice, practicing the priestly virtues of humility, of
+obedience, of generosity, of sacrifice---virtues which, as Christian
+parents or families or family members, we are called to put into
+practice every day, to accept the little pinpricks that God may send us
+on a daily basis.
+
+The changes of plans, the ups and downs, the setbacks, are also the more
+major crosses that God may want to visit us with in the course of our
+life.
+
+A Standard Four little girl told me once, "Father, I hate carrots, and
+my mommy is always giving me carrots."
+
+I had to say to her, \"You see, that has something to do with what Our
+Lord said in the Gospel. He said, 'Unless you take up your carrots and
+follow me, you cannot be my disciple'" (cf. Matt. 16:24).
+
+We all have our carrots: something, somehow, that God sends along that
+we didn\'t particularly want or we weren\'t expecting.
+
+But you can be sure the hand of God is there.
+
+He hopes, like His prayer in Gethsemane, that we will say, "Father, if
+you are willing, let these carrots pass from me; yet not my will, rather
+yours be done" (cf. Luke 22:42).
+
+It\'s a very powerful prayer that Our Lord says in the ecstasy of His
+prayer in the garden.
+
+The key word is the first word: "Father." There is no contradiction
+between the fact that His Father God is about to visit Him with the
+greatest amount of human suffering that anybody ever experienced, and
+the fact that He is a loving, heavenly Father.
+
+"If you, evil as you are, know how to give good gifts to your children,
+how much more will your heavenly Father give good things to those who
+ask him?" (Matt. 7:11).
+
+Possibly the key word in that phrase is the word "more." The Church
+teaches us that God blesses us with the cross. The cross is not a
+punishment. It\'s not damnation.
+
+It is the means to our holiness.
+
+The *Catechism of the Catholic Church* says: "The way of perfection
+passes by way of the Cross. There is no holiness without renunciation
+and spiritual battle" (*Catechism*, Point 2015).
+
+Holiness is in the Cross. It is in accepting the crosses and in thanking
+God for the crosses that He sends us.
+
+I was impressed one time with a lady who had many major crosses in her
+life. She told me, \"You know, Father, I thank God for the crosses that
+He sends me, because I realize it could be much worse."
+
+That\'s a very healthy thing. Acts of thanksgiving can be a very useful
+mechanism to help us to see the other side of the story.
+
+If you have a pain in your shoulder someday, and you thank God for the
+pain in your shoulder or thank Him for the other thirty-five joints that
+seem to be working quite well this morning, that can change your whole
+day.
+
+Acts of thanksgiving help us to see the good things, the blessings, and
+to see the crosses as blessings, because we realize it could be worse.
+
+If the cross comes along in your marriage, or in your family, or in your
+health, or in your finances, or in your work, that\'s a good thing.
+Because when you have found the cross, then you have found Christ.
+
+Christ is on the Cross.
+
+If something comes along in your life that you weren\'t expecting---you
+thought, 'This might never happen to me in my marriage, in my family,'
+something totally unexpected and possibly something that\'s not going to
+go away, 'this is my lot for eternity'---you can be sure that is your
+pathway to holiness.
+
+This is the particular pathway that God has planned for you. It is in
+accepting that cross, and looking for the grace in the sacraments to
+learn how to handle it day by day, that you will find your fulfilment.
+
+Also, in trying to carry the cross in your life or in your family, you
+will give that marvelous example that God has planned for all eternity
+that you would give your children: to be a Christian mother or father,
+so that they grow up knowing what that means.
+
+They have a living example---a personification of Christ in their
+midst---who knows how to be cheerful and peaceful and joyful and
+optimistic and full of faith and full of hope.
+
+The child will learn how to live those virtues in concrete
+circumstances, which they will surely find in their life: failing an
+exam, missing a shot, enduring some illness, having some accident; or
+some cross that may come up along later in their family, or in their
+marriage, or in their apostolate in reaching out to other people.
+
+I am a great believer in the fact that when God sends us a cross, He
+sends us a great apostolic potential.
+
+You may find a few months or years down the road, God brings you in
+contact with somebody who\'s carrying a similar cross. Because you\'ve
+been there, you know how to help them. You become their Simon of Cyrene
+because Christ has formed you in that way.
+
+A couple of years ago, a lady told me she had a miscarriage. She told me
+that the other mothers in the class where one of her children were, were
+very kind, very helpful, very attentive.
+
+They really helped her very much through those three or four months of
+natural grieving that she had.
+
+But she said, \"There was one mother there who lost a seven-year-old
+child a few years previously, and that mother used to come and sit with
+me. It wasn\'t the things she said; it was just her silent presence. She
+knew what to say, but also what not to say. Sometimes she just sat there
+with me.\"
+
+And she said, \"All the other mothers were so kind and so good, but the
+contribution of that mother meant more than all the others."
+
+That lady had been there. She knew what was needed. She knew the word or
+the gesture that only those who have learned about love from the cross
+know is important.
+
+The cross is very formative. We teach our children to carry the cross at
+times by saying "No\" to them.
+
+There\'s an American educationalist called Stenson who has a number of
+books around the place, who likes to say, "*No* is also a loving word"
+(James B. Stenson, *Father, the Family Protector*).
+
+Children need to hear words of loving denial from time to time. When
+they\'re told they cannot have this, or they cannot do that, or they
+cannot have a mobile phone even when everybody else has one, or a whole
+series of other things, they learn in time how to accept that *No*.
+
+And they learn how to say *No* to themselves, which is a very important
+message because Christ has told us: \"Unless you deny yourself, take up
+your cross, and follow me, you cannot be my disciple" (Matt. 16:24).
+
+Our Lord invites us to teach those words of loving denial so people can
+learn self-denial. Ultimately, our holiness is all tied up in conquering
+our self-love.
+
+The greatest problem in our spiritual life is that we love ourselves too
+much. That\'s called our pride, manifested in egoism and selfishness.
+
+Ask God for the grace, and the Holy Spirit, for the grace to let you see
+the manifestations of your selfishness, of your pride, so that we become
+more aware of our self-love, because that\'s what we have to conquer.
+
+Until we bring the enemy out from the shadows, we don\'t know who it is
+that we\'re fighting. It is against that enemy that our greatest battles
+have to be waged---to say *No* to ourselves, to control our anger, to
+practice charity, to suspend our judgments, to cut our tongue, or all
+the other little occasions that may lead us into sin.
+
+One of the great subliminal messages of Holy Week is the gravity of sin.
+
+Sin is so great that God had to die on a Cross and give every last drop
+of His blood, because He loved us so much.
+
+Lord, help me to grow in my hatred for sin, and not just for mortal sin
+but also for venial sin.
+
+Sometimes little children ask the question, "Father, is that a sin?" Or
+they ask, \"Is that a mortal sin?" which is sort of the wrong question;
+as though if it was venial, it would be okay. But all sin hurts Our God.
+
+A lady told me once, "Father, what have we done to Our God?\"
+
+We shouldn\'t just be fighting in the realm of mortal sin or venial sin.
+
+Normally, we may find the cross in the little things of each day. A man
+told me once how the one thing that he disliked was going shopping with
+his wife to the supermarket on a Saturday afternoon and pushing the
+trolley up and down the lanes as she picked off different things and
+sometimes changed her mind.
+
+He would get more and more exasperated. So his battle in his spiritual
+life was to keep his big mouth shut. He used to come back every week and
+say, "I managed not to say anything this week."
+
+He came back the next time and said, \"I kept silent this week."
+
+The third week, he came back and said, \"I think she\'s beginning to
+notice, because this week she turned around and said, \'What\'s the
+matter? Are you sick?'"
+
+He had to say, \"Can\'t you see I\'m about to explode?"
+
+Sometimes in those ordinary situations of family life, there can be
+great challenges to practice virtue, to be more Christ-like, to be more
+patient. "Charity is patient. Charity is kind" (1 Cor. 13:4).
+
+By practicing those ordinary virtues in the ordinary situations of life,
+we teach our children around us to practice those virtues. They see what
+that means, what self-denial means.
+
+When we live a spirit of service, when we go out of our way to help some
+other family or some person that\'s going through a rough time, or that
+needs our help, they see that we sacrifice our time, our energy, that we
+live family priorities, that we eat together each evening or whenever we
+can, especially in the holidays or weekends.
+
+Living and giving time and energy and attention to your children can
+take a lot of effort.
+
+There was a kid in a school once in Manila where I was for many years. I
+asked him---he was about seven or eight---\"Do you say your night
+prayers?"
+
+With great confidence he said, \"Yes, always.\" I was a bit surprised to
+hear somebody say "always."
+
+I was a bit curious: "How come, 'always?'"
+
+He said, \"Oh, myself and my brother, we have our dinner and then we get
+ready for bed. But we don\'t go to bed or to sleep until my daddy
+arrives home. When he parks the car, the first thing he does is he comes
+up the stairs, and he says our night prayers with us."
+
+That father was a busy executive. He came home tired from work every
+evening. But before even having dinner, he made sure he saw his
+children, every day, every night, even just for a few moments. And he
+prayed the night prayers with them.
+
+This kid was able to say "always." He has that example for his whole
+life---the example of the virtue of his father: tired, weary, but living
+those family priorities, transmitting that message to his children that
+'you are the most important thing in my life.'
+
+That\'s a message we transmit in all sorts of ways, in all sorts of
+moments.
+
+When they see our struggle, then children learn to have that backbone,
+that fortitude to go against the grain, to conquer their own
+selfishness, and their own egoism, and their own passions, and their own
+appetites and desires, so that they practice a certain self-mastery.
+
+In the documents of the Church, you may often find those words:
+self-mastery, self-control.
+
+It\'s not a word we hear too frequently in modern parlance, but it's
+very important for children to learn that sort of message: to be in
+control of myself, my base tendencies, so that when it comes to study, I
+can apply my mind.
+
+Even if my mind feels like it\'s in Hawaii, I bring it back and bring
+back my imagination to focus on the piece of paper that\'s in front of
+me---those words, that lesson, that I have to try and kick into my
+brain.
+
+From our meditation on the Passion and the virtues of Christ that He
+practices there, we learn many wonderful things---to accept the will of
+God in all the ways that it comes to us.
+
+At a meeting of priests in Singapore, where I used to live many years
+ago, an elderly Belgian missionary priest stood up and said, "I learned
+the meaning of vocation from a young married couple many years ago.\"
+
+He said, "My first assignment as a missionary was in the United States.
+I got to know this young couple. They were 25 years of age. They were
+expecting their first baby, and the baby turned out to be a Down\'s
+baby.
+
+"The doctor said to the mother, whose name was Nancy, \'Are you ready to
+accept this child? I can\'t tell you it\'s going to be easy. But I can
+tell you that for every ounce of love that you put into this baby,
+you\'re going to get a pound of love in return.'
+
+"Nancy said, \'Yes, we\'re ready to accept whatever comes.'"
+
+This priest said, "I was very moved by that: 'we\'re ready to accept
+whatever comes.'\"
+
+He said, "I realized that\'s the meaning of vocation: to be ready to
+accept whatever comes.\"
+
+All sorts of things may come in your marriage, in your family, but it's
+always a blessing. God has other plans.
+
+On that occasion, God used that young married couple to form the life of
+that priest and all the other priests to whom he shared this story. Now
+on a different continent, I'm sharing that story with you, all because
+of Nancy and her husband.
+
+That priest said, "A couple of years later, I was asked to go and work
+in Rome and handle the architectural and the legal and the financial and
+the planning aspects of our organization all over the world.
+
+"One day, somebody came to me and said, \'What are you doing here,
+working behind a desk in Rome? You are supposed to be a missionary
+priest. Why aren\'t you off in Alaska or Brazil someplace?'"
+
+He said, "I got my answer from Nancy. I didn\'t ask for this job. I
+don\'t particularly like it. I\'d much prefer to be somewhere else. Any
+other time but now. Any other place but here. Any other job but this.
+But," he said, "I try to be ready to accept whatever comes. This is what
+came along."
+
+He said, \"If somebody came to our organization and said, \'I\'m willing
+to join your organization if I can work behind a desk in Rome and do all
+the jobs that I like,' they would be told, \'I\'m sorry, you don\'t have
+a vocation to our organization. The deal is that you have to be ready to
+accept whatever comes.'"
+
+Someday, as a parent, as a father of a family, you may have to sweep a
+floor or wash the dishes or change a nappy or wash the car. With that,
+you show your children what it takes to build a home.
+
+Everybody must be ready to do anything. That way we form ourselves to do
+all sorts of different jobs. We make ourselves useful and effective.
+
+Sometimes that means carrying the cross, doing things we don\'t feel
+like doing, conquering our likes and dislikes, not allowing words to be
+part of our vocabulary like: "I feel like, I don\'t feel like; I want, I
+don\'t want."
+
+I fulfill my duty.
+
+I heard recently that the governor of the Central Bank of Kenya
+organized a talk for the children of all the employees in that bank.
+
+Some of the parents were very happy to hear that the governor was going
+to address their children. They all went along there thinking they were
+going to hear some very lofty words about the economy or about finance
+or investment or something.
+
+He gave them some sort of a formative talk. The central moral or gist of
+it was: the most important thing that you can do at the moment in your
+life is to make your bed every morning.
+
+They were not very impressed, but their mothers were: 'I\'ve been trying
+to tell them that for the last 10 years.'
+
+Sometimes just to fulfill the ordinary duties in the home, irrespective
+of how we feel, can form us to be great people.
+
+Somebody defined "professionalism" once as doing the best job we can do,
+irrespective of how we\'re feeling; providing a good service.
+
+Peter Drucker has a book called *The Effective Executive* where he
+searches out and asks the question: "What makes people effective?\"
+
+He says people are effective because they don\'t just do good things;
+they do the right things.
+
+And they do the right things because they ask themselves the right
+question, which is: "What can I contribute?\" He said everybody in every
+organization has to ask themselves: \"What can I contribute?"
+
+In every family, at every meal, in every home, every day of the
+holidays, we have to try and teach people in our family to ask
+themselves that question.
+
+I may need to pass somebody the salt. I may need to fill their glass
+with water. I may need to call my grandmother. I may need to finish off
+this little job in the garden.
+
+What can I contribute? Sometimes those little things that we find that
+we can contribute, that nobody else can contribute, makes us effective.
+
+Mother of a family, father of a family: try and work at being more
+effective in the formation of the saints that God has entrusted to your
+care; the formation of their souls.
+
+Christmas, and the message of Christmas, in many ways, is easy to
+transmit. There are many material things that transmit the message.
+Easter, to a certain extent, has some material things; perhaps not so
+easy as Christmas.
+
+Generally, Pentecost has nothing. We should try and lift up Pentecost on
+our screen---one of the greatest feasts of the whole of the liturgical
+year: the Holy Spirit coming to build up the Universal Church and the
+domestic Church.
+
+If you can come out with a Pentecostal *chapati* or *ugali,* maybe you
+could enrich the family finances.
+
+John Paul II says we go to the great spiritual messages through physical
+signs, material signs, and symbols: crucifixes, crosses, rosary beads,
+incense, ashes.
+
+Our Church is full of physical signs and symbols: the Way of the Cross.
+These things get the message across to young children.
+
+Try to foster those physical signs and symbols in your home: images of
+Our Lady, perhaps in each room, a crucifix somewhere, a place where the
+family gathers to pray. Make use of the symbols the Church gives us:
+palm branches or other things, holy water.
+
+These transmit a message to the children; learn to form their soul also
+as they go through life.
+
+These days, the Church gives us the very special symbol of the Cross.
+Teach your children to make the Sign of the Cross well.
+
+For First Communion class in that school in Manila many years ago, I
+used to encourage the children to make their First Confession face to
+face, to see how they made the Sign of the Cross.
+
+You would be amazed at all the variations that children can come up with
+when it comes to making the Sign of the Cross. And yet, that Cross is so
+central in our life.
+
+These days remind us that we are called to be very Christo-centric. Each
+Easter that comes brings new graces for us to penetrate a little more
+deeply into the mystery of the Cross and into those wounds of Christ.
+
+Fulton Sheen says there\'s an "eternal freshness in the wounds of
+Christ" (Fulton Sheen, YouTube, Classic Catholic Audiobooks, *Meditation
+Podcast*).
+
+The Holy Spirit is there. There is peace, there is consolation, there is
+joy. "My yoke is sweet, my burden is light" (Matt. 11:30). The Cross is
+sweet.
+
+As we accompany Our Lady on this day, in her sorrow, but also in her
+hope, we can say: \"Hail, Holy Queen, Mother of Mercy, hail, our life,
+our sweetness, and our hope."
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*JM*

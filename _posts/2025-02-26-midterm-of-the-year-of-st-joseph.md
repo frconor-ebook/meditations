@@ -1,0 +1,487 @@
+---
+layout: homily
+title: "Midterm of the Year of St. Joseph"
+---
+
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+"After they had departed, behold, an angel of the Lord appeared in sleep
+to Joseph, saying, 'Arise and take the child and his mother and fly into
+Egypt. Be there until I shall tell you, for it will come to pass that
+Herod will seek the child to destroy him'" (Matt. 2:13).
+
+We are halfway through the year of St. Joseph. It\'s a good opportunity
+for us to stop and look again at this Holy Patriarch---a very special
+person that God has placed before our eyes.
+
+In a special way, God has wanted to place him before our eyes in this
+particular year. This may be the only year in our whole life where we
+will have a year dedicated to St. Joseph.
+
+Halfway through this year, it\'s a good moment to look again at our
+devotion to St, Joseph, at how we\'re bringing him into things during
+this year, turning to him with greater frequency, and coming to
+appreciate this great personality that God has placed before us; that He
+chose from all eternity to be at the head of His family, and to create
+the family atmosphere of the family of Nazareth, and which all families
+for all time have to try and model themselves.
+
+Joseph had a great role, a great mission. He had something to say to
+each one of us in each area of our life. He was a very solid character,
+totally dependable, always ready to change.
+
+Do this, do that, go here, go there. "Arise and take the child and his
+mother and fly into Egypt." Do what I tell you at a moment\'s notice.
+And humble Joseph was always ready to obey, to listen.
+
+He listened carefully to what he was asked, what he was told. In our
+work of learning, of training, of studying, it\'s logical we have to
+learn new things. It\'s logical, therefore, that we have to be told
+things.
+
+Sometimes you might have to be corrected, sometimes you might have to be
+encouraged, sometimes you might have something pointed out to us.
+That\'s what it\'s all about.
+
+But we should try and have the disposition of Joseph: to listen, to
+learn, to watch out for our pride that may rebel in all sorts of ways,
+and to learn from Joseph how to be humble, to gratefully accept the
+things that are said to us, and to realize, 'I thought I was wrong, I
+thought I did a good job, and now I find out that I have to do things
+differently, I have to begin again.'
+
+Or maybe, 'I have to repeat some job that I did before because it\'s not
+done well enough.' But it\'s always a process of learning.
+
+Arise and go here, and "be there until I tell you." Wait there, in that
+place, in that position.
+
+God may have told us during these years to be there in that class, with
+that group of people, with those teachers, learning the things that I
+want you to learn, so that later on you can be good and effective, and a
+solid worker.
+
+We get the picture that Joseph was a solid worker. \"Is not this the
+carpenter, the Son of Mary, the brother of James and Joseph and Jude and
+Simon?" (Mark 6:3).
+
+Joseph had a certain prestige. He was known as the carpenter. He was
+known through his work. It\'s a very good goal for our life, to be known
+through our work, known for doing a good job, because we\'re dependable.
+We\'re a good worker. We get things done. Imagine that Joseph was all of
+these things.
+
+Curiously, we don\'t have any words from Joseph. None of his words are
+recorded in the Gospel. Joseph was silent. It\'s a rather hidden,
+interesting aspect of his life and also of many others. Our Lady was
+also quite silent. There were moments when Jesus kept silent. He talked
+a lot, but moments when He was silent.
+
+We can also learn from the silence of Joseph---to be quiet in the
+background, passing unnoticed, doing a good job, but not making noise,
+not attracting attention to ourselves, knowing how to do and disappear.
+
+It\'s part of the virtue of humility. That\'s a virtue that all of us
+have to try and learn because we tend to be full of pride. We think
+we\'ve done a great job. We think we know everything. We think we have
+great experience when very often the opposite is the reality.
+
+We need to learn how to be more humble, to learn how to listen, to learn
+how not to attract attention to ourselves, that we may become more
+dependable, we give a better service. Joseph gave great service.
+
+All professional work is a service. We\'re involved in a profession of
+caring, which is a profession of service.
+
+From the Holy Patriarch, we can learn the details of how to perform that
+service well. I remember in the final year of our studies, one of the
+professors said, "When you finish, when you graduate, apprentice
+yourself to somebody who is good."
+
+It\'s a rather interesting piece of advice. You\'ve studied all these
+things, you\'ve passed all these exams, now you can begin to learn what
+it\'s all about. Apprentice yourself to somebody who is good. Learn the
+art of your profession.
+
+When we pass an exam, or we get through a certain year, or we graduate
+from college, we don\'t know everything. We might know the theory, or we
+might know a few things. But now we have to attach ourselves to the
+experts.
+
+Learn from them. Watch out for the details of how to put into practice
+the things we have learned, so that we become a good worker, not just in
+theory, but in practice. We learn how to do things. For that also, we
+need to be obedient.
+
+Joseph was very obedient. "He arose and took the child and his mother by
+night and retired into Egypt." He did exactly what he was told.
+
+A very good characteristic of a good worker in the 21st century is that
+they do what they\'re told. We might like to work on this particular job
+or this particular area. Or we might enjoy this type of work. But we
+might be told by our boss or our supervisor, 'Look, this is what I want
+you to do at this particular moment, at this hour, or today.'
+
+That might be the opposite of what we feel like or what we thought. Yet
+we have to listen to what our boss is telling us. In general, in our
+work, if our boss is happy with us, or our supervisor, then God is
+happy. It means we\'re doing a good job. The person for whom we\'re
+doing the service is happy with that service.
+
+Therefore, we have to apply that service in the position and in the way
+that\'s asked of us. We could ask St. Joseph to help us to work better,
+to acquire a certain prestige, to take care of details.
+
+I was talking to a priest this week who was at a fairly important lunch
+last week in the nunciature. The secretary of the nunciature was
+leaving. He\'s been appointed nuncio in Ukraine---the first Lithuanian
+nuncio. He\'s been secretary here for several years.
+
+There were about twenty-five people at this important sort of farewell
+lunch in the nunciature: a number of bishops, a couple of other people.
+This person told me that the catering was all taken care of by
+Kibondeni, as always.
+
+This person said everybody had a name in front of their place, and
+everybody had their personalized menu. These were the two details that
+this person wanted to relate.
+
+He didn\'t talk about the conversation with all the bishops and a whole
+pile of other things that might have been going on, but the name in
+front of my place, and the menu, a personalized menu. It was
+interesting. It was just those two details; meant an awful lot.
+
+The person was almost saying, You can\'t get that in the Serena
+Hotel---that sort of personalized attention, that sort of detail.
+
+Behind that, you could see the preparation that had gone into this and
+the thought. You can also see why Kibondeni is always called to the
+catering at the nunciature, even for the Pope.
+
+But there was a lot of message behind that---the professionalism, the
+details, the attention, the care. We transmit these messages very often
+through small things.
+
+Ultimately, behind that message, or behind those little details is the
+much greater message of the dignity of every human person. Because every
+person is important, we have that personalized name, that personalized
+menu.
+
+We can\'t do that every day of the year, but on special occasions, it
+means an awful lot to people. It speaks to them. There\'s a message
+here. No matter what work it is I\'m handling, or what big projects,
+just this little thing means an awful lot. That\'s the message we\'re
+trying to convey to people.
+
+Ultimately, it\'s a message of love, of charity. You are important. I
+care about you.
+
+There was a nurse tutor on the ward where I used to work. I used to
+train young nurses and she had a little saying which she used to tell
+the nurses, which was, "Everybody is somebody\'s somebody." Every
+patient in this hospital is important because they\'re important to
+somebody.
+
+To you, they might just be another patient---and they might be a
+difficult patient, or a cranky patient, or a patient who\'s complaining,
+or whatever. But that person is somebody\'s somebody.
+
+You're there to look after them in the place of this other person, no
+matter who they are or where they come from. Very nice Christian
+approach. Care. Love.
+
+We learn these things from Joseph---from being ready to do this or do
+that, or change his plans.
+
+Sometimes in the middle of jobs that we might be doing, there might be
+some little emergency. Something might have gone wrong. We might be
+serving at the table to all these important people, and suddenly we\'re
+needed in the kitchen, or there\'s a fire in the kitchen, or the house
+is on fire.
+
+We have to drop what we\'re doing and go and do something else; solve
+that other problem---always ready to do what we\'re asked, because
+that\'s the part of working well. It\'s part of working on a team.
+
+When that person came to tell me that little detail, he didn\'t just
+say, 'You know, this particular person put my name in front of my place,
+on my little personalized menu.' He was sort of saying, everybody had
+that.
+
+Behind that story, you could see there was teamwork there. People were
+working together to produce this end: to give this service to so many
+people would go away with that message to different parts of the
+country. And probably they would bring that message and that memory with
+them of that little occasion when they were treated well.
+
+I heard somebody say once that people may forget what you say to them,
+or what you\'ve done for them, but they never forget how you made them
+feel. Everybody remembers how other people made them feel.
+
+In the profession of caring, of loving, of serving, we\'re here to make
+people feel good, feel well. We live in a culture of feeling. There is
+the feel-good radio station, where that word crops up almost every
+sentence. But we\'re also in the business of making people feel well,
+feel important, feel cared for.
+
+Joseph did that for the Holy Family. Our Lady felt taken care of,
+guarded, planned for, looked after in every possible way.
+
+She was helped to fulfill her role as the Mother of God, by having this
+stalwart person in the background, foreseeing the difficulties, being
+proactive, solving the problems. These are great lessons that we can
+learn from St. Joseph.
+
+Very often he was called to start from scratch. You might have come out
+of college and you\'re used to handling this wonderful machine or this
+nice oven, and you might be asked to go to work in a place where maybe
+there\'s no oven. Sometimes you might have to cook on a fire because
+there\'s a power failure.
+
+We might say, 'This wasn\'t the way I was taught. This wasn\'t on the
+paper or the exam.' Yet if God has placed us in that situation, He wants
+us to start from scratch like Joseph did. We\'re in good company.
+
+'I make this work. I don\'t complain about what\'s lacking, but I roll
+up my sleeves and carry on with the job and make this thing happen.'
+We\'re open to all sorts of contradictions.
+
+Joseph had to face many contradictions in the course of his life. "There
+was no room at the inn" (Luke 2:7). There could have been a whole series
+of human frustrations, human reactions, tiredness, or disappointment, or
+tensions, or stresses. Why is this like this?
+
+But we get the impression that Joseph faced all of these things with
+great calm. Calm comes with a lot of maturity.
+
+We\'re ready to accept any situation, any difficulties. We\'re ready for
+the things that go wrong. We don\'t lose our cool, because every day of
+the week, things go wrong. Yet that\'s where God has placed us. He wants
+us to be in that situation to solve that problem.
+
+In the Preface of St. Joseph we\'re told, "He is that just man, that
+wise and loyal servant"---the words of the liturgy are very rich. They
+help us to savor what we\'re dealing with.
+
+The great grace of this year is where we have this lovable character in
+front of us all the time: "a just man." That word is probably the
+greatest compliment that the Old Testament could give to anybody. "Just
+man" in the Old Testament was somebody close to God. Honest, loyal,
+virtuous. There couldn\'t be anything better than a just man.
+
+That\'s what Joseph was. Wise and loyal servant. Wise. Looking at the
+bigger picture.
+
+Some time in our little department, the little jobs we have in front of
+us, we can be very focused there, which is very good---pushing this
+button, mopping this floor, fulfilling this duty, answering this door.
+
+But at the same time, we\'re also called to be wise, to have the bigger
+picture. 'I\'m part of a whole machinery, I\'m part of a team. And other
+people are playing on this team. There\'s a captain of the team as well,
+that\'s making everything go forward.'
+
+While we fulfill our little job, we also have to be thinking of the
+bigger picture. It\'s easy to miss the bigger picture. In our little
+position, we could complain about this or complain about that. 'Why is
+this not this? Why is this not like that?'
+
+But if we look at the bigger picture, we\'ll see that really, maybe
+these little things that I\'m observing or seeing or complaining about
+are very small. I have to try and enlarge my vision.
+
+Joseph could have been a whiner. 'Why did we go to Bethlehem? Why do we
+have to leave our house? Everything is ready. Why do we have to go to
+Egypt?'
+
+He could have been a real pain in the neck for Our Lady. She could have
+complained to God, 'Oh Lord, why did you give me this guy? Of all the
+people, you had to choose this whiner. I have to listen to his
+complaints all day long. Give me a break.'
+
+We don\'t find Our Lady talking like that. She loved Joseph. She saw his
+virtue. He\'s so good, so loyal, so wise---taking care of all the
+details, looking after the background things, making this whole
+enterprise of the Incarnation happen---taking care of the donkey, that
+wise and loyal servant whom you placed at the head of your family.
+
+Loyal, because he didn\'t run away. When things went wrong, he didn\'t
+boot and say, 'I\'m out of here. One more door closing in my face in
+Bethlehem, and I\'m going back to where we came from. Going back to the
+comfort of my own home.'
+
+Joseph was loyal all the way---stuck with Our Lady, stuck with this
+plan, stuck with this fulfillment of the will of God, come hell or high
+water. Fortitude, courage, daring, perseverance. Loyalty is a beautiful
+virtue.
+
+"He is that\...wise and loyal servant, whom you placed at the head of
+your family. With a husband\'s love, he cherished Mary, the Virgin
+Mother of God. With fatherly care he watched over Jesus Christ, your
+Son, conceived by the power of the Holy Spirit" (Preface of St. Joseph,
+Holy Mass).
+
+He "cherished Mary"---another beautiful word for love. He saw the great
+treasure that God had given him in Our Lady. He saw her virtue, her
+holiness, her supernatural outlook.
+
+He begins to understand why he was left high and dry when she went off
+to Israel for three long months and had the discretion not to tell him
+anything, makes him suffer.
+
+But then through that, he comes to see the great virtue of Our
+Lady---her trust in God, her abandonment, her response to her vocation.
+
+She\'s the model of all the virtues, and he sees those virtues shining
+out at every moment. He thanks God for the great privilege of being
+close to Mary.
+
+The Church speaks about the dignity of Joseph. After Our Lady, he\'s
+thought to be the highest saint in heaven.
+
+We have this great year full of graces for us to get closer to this
+great person, bring him into our work, our prayer, our getting up in the
+morning, our every job that we have to do, our apostolate, our study, so
+that from him we can learn how to function like he did, so that we can
+be close to Our Lady and close to the child Jesus.
+
+He can teach us all sorts of little things. St. Josemaría liked to say,
+"I like to call him the master of the interior life" (J. Escrivá,
+*Christ Is Passing By*, Point 39).
+
+Beautiful, beautiful title: Master. We\'re trying to grow in our
+interior life, to listen to God a little better, to follow His
+instructions, to detect the Holy Spirit speaking to us, to people, to
+places.
+
+St. Joseph is a great personality to be close to. He can help us to get
+this lesson, to learn what this virtue is all about, to get the bigger
+picture.
+
+He can lead us to appreciate the spiritual things that we have presented
+to us---the Mass, the treasure of the Mass each day. He can help us to
+learn how to be more charitable with other people, not to lose our
+temper, or to be oversensitive. Oversensitivity can be a sign of pride,
+touchiness.
+
+Joseph, help me to be more gentle like you were, to see what can I
+contribute in this situation and that situation. How can I help this
+person that I\'m working with and the work they\'re doing? How can I be
+more patient with them, how can I be more kind, or more silent maybe?
+
+Not with a silence that 'I\'m not going to talk to them; I\'m going to
+impose silence on them as a punishment for the things that they\'ve said
+to me'---that\'s not the sort of silence that Joseph had.
+
+It\'s a peaceful, joyful silence that helps to get the work done, to get
+the job finished, and helps people to be happy; to try and make the
+people that study or work around us, happen to be happy, because we\'re
+a team player, because we\'re easy to work with, because we forget
+ourselves.
+
+We\'re willing to do whatever needs to be done. When Joseph discovered
+that Our Lady was with child, he was willing to put her away privately,
+not to expose her to reproach (cf. Matt. 1:18-19).
+
+He forgets about himself and thinks of Our Lady, her good, even though
+that might bring condemnation on himself, even though he doesn\'t
+understand the situation.
+
+There may be times when we have to do things, problems need to be
+solved, and we don\'t understand the situation. We don\'t know who\'s
+responsible.
+
+We were told once in a class that if somebody is looking for a doctor in
+an emergency, you go; even if it\'s the middle of the night, you go. You
+might say, 'But that\'s not my patient' or 'This is not in my area' or
+'This is not my responsibility.'
+
+But if somebody needs something, you go. Very important. All professions
+are a service.
+
+If somebody needs something, and it\'s not really our time, or we\'re
+not on duty, or we can come up with a whole pile of reasons for not
+getting involved. But if somebody needs something, in principle we go,
+because that\'s our being, that\'s our life, that\'s our work, that\'s
+our vocation, to serve, to solve that problem.
+
+We can find out later who was responsible, or who didn\'t do their job,
+or all the other questions that we might want to find answers to. But
+first and foremost, we go, we solve that problem.
+
+Joseph had that sort of availability, part of charity, willing to put
+her away privately, not worried about his name, and not demanding
+explanations 'before I commit myself in this way.'
+
+Halfway through this year we could begin again and ask the Holy Spirit
+to help us discover the greatness of his character, and use the graces
+of this year so that for the rest of our life we stay very close to St.
+Joseph.
+
+We ask him to help us to make time for our spiritual life and to give
+priority to the spiritual.
+
+Pope Francis has talked about the spiritual emptiness of the world.
+Joseph can help us to fill that emptiness.
+
+Pope Francis has given us this great opportunity, this great grace, and
+now he finds himself in a hospital. He\'s improving, but he\'s still
+there. In our prayer these days, we could remember to pray for his
+recovery. Thank God for this Pope that He\'s given to us, who gives us
+such great gifts.
+
+Help us, St. Joseph, to build our family. He builds the family against
+all odds. Help us to be an instrument of unity in our family. We\'re
+thinking about our brothers and sisters and parents. Pray for them. See
+how we can help them, call them from time to time, and keep them
+informed. We build that family unity. We build family warmth.
+
+We\'re called to build up the family as an institution in society, to
+see, What can I contribute? What can I do for those things?
+
+In all of this, Joseph was ready to accept the cross. He didn\'t run
+away from the cross. By the way that he did all of these things, he
+prepared Christ for the cross. He was the instrument that God had chosen
+to teach the child Jesus many things.
+
+On some occasions, we may have children entrusted to our care---a soul.
+We have an opportunity to transmit wonderful things to them: values,
+ideas, thoughts, essons. Help them along the pathway of their journey to
+God.
+
+Help them to know St. Joseph, so the Holy Patriarch may guide them
+during their life and be a source of peace and serenity for them as they
+fulfill their mission.
+
+Our Lady and Our Lord must be very happy in this year of St.
+Joseph---very happy when we bring the husband of Our Lady and the foster
+father of Jesus out of the background of our interior life and place him
+in the forefront, because they must feel a great debt of gratitude to
+him; very happy when he is praised, looked at, and learned from, because
+they learned so many things from him and are so grateful to him.
+
+We can ask Our Lady that she might help us to use well the next six
+months of this special year. We can be very close to that person whom
+she loved and appreciated so much on earth.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*JOSH*

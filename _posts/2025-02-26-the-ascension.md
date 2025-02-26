@@ -1,0 +1,488 @@
+---
+layout: homily
+title: "The Ascension"
+---
+
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+"As he said this he was lifted up while they looked on, and a cloud took
+him out of their sight. They were still staring into the sky as he went,
+when suddenly two men in white were standing beside them, and they said,
+'Why are you Galileans standing here looking into the sky? This Jesus
+who has been taken up from you into heaven will come back in the same
+way as you have seen him go to heaven'" (Acts 1:9-11).
+
+Today is the Solemnity of the Ascension of Our Lord. It\'s a feast of
+divine glory. Christ\'s divinity is celebrated. He returns to the glory
+of the Father by His own power.
+
+As He had resurrected from the dead by His own power, now He ascends
+into heaven by His own power. He has spent forty days recovering the
+apostles, strengthening their faith, confirming them in their doctrine,
+and giving them their mission. And now the whole mission of Christ on
+earth has come to an end. The Gospels end with the Ascension.
+
+The Ascension into heaven is the sixth Article of the Creed that we say
+every Sunday. With His Ascension, as with many other things, Christ
+proves that He is infinitely beyond any witchcraft or evil spirits or
+astral powers or crystals or horoscopes or psychic influences or new age
+gurus---not only in this life, but for all time.
+
+"In Him we live and move and have our being" (Acts 17:28), says St.
+Paul. The Church is His living body on earth. "Nobody can have God as
+their Father if they do not have the Church as their mother" (cf. St.
+Cyprian, *The Unity of the Church*).
+
+For forty days, Our Lord had continued to appear to His disciples. He
+had arranged to meet them in various places. And now, even that has come
+to an end. Pope Benedict said the Ascension is "the last act of our
+liberation from sin" (Benedict XVI, *Address*, May 20, 2012).
+
+St. Paul writes, "He ascended on high and took prisoners captive" (Eph.
+4:8). Leo the Great explains that with this mystery, "not only is there
+proclaimed the immortality of the soul, but also that of the flesh."
+
+As Christ arose from the dead and ascended into heaven, so we will also
+do the same; we will be put together body and soul in heaven.
+
+One of the last articles of the Creed speaks about the resurrection of
+the body. St. Leo continues, "Today, in fact, we are not only confirmed
+as possessors of paradise, but we have with Christ penetrated the
+heights of heaven" (Leo the Great, *Homily I on the Ascension*).
+
+Pope Benedict said, "This is why when the disciples saw the Master
+lifted up from the earth and carried on high, they were not seized by
+discouragement, but rather, they experienced a great joy and felt driven
+to proclaim Christ\'s victory over death (cf. Mark 16:20).
+
+"And the Risen Lord worked with them, giving to each one of them a
+particular charism, so that the whole Christian community," said Pope
+Benedict, "might reflect the harmonious richness of heaven" (Benedict
+XVI, *Regina Coeli*, May 20, 2012).
+
+St. Paul says, "He gave gifts to men. ... He gave some as apostles,
+others as prophets, others as evangelists, others as pastors and
+teachers\...for the building up of the body of Christ, to the extent of
+the full stature of Christ" (Eph. 4:8, 11-13).
+
+And so, the Ascension tells us that "our humanity is raised to the
+heights of God." Our whole humanity is lifted up.
+
+One of the key words of the whole of the social teaching of the Church
+is the dignity of every human person. No animal will be lifted up into
+heaven, no matter how great that animal may be. We are on a completely
+different plane.
+
+"Every time we pray, the earth somehow joins heaven," Pope Benedict
+says, "and, like the smoke of burning incense, lifts high its sweet
+odor, so that when we raise up to the Lord our fervent and confident
+prayer in Christ, it passes through the heavens and reaches the throne
+of God, and it is heard and answered by God" (*Ibid*.).
+
+St. John of the Cross in the *Ascent of Mount Carmel* says that "to see
+the desires of our heart realized, there is no better way than to direct
+the energy of our prayer to the thing that most pleases God. For then,
+not only will He give us that which we ask of Him, which is salvation,
+but also that which He sees to be fitting and good for us, although we
+pray not for it."
+
+Today is a special day, which signifies many things. Christ ascended,
+not only as God but as man. The whole person ascended. The head of the
+Mystical Body has gone before us into glory, and someday we can go there
+too. That makes today a day of hope.
+
+"Where he has gone," we\'re told in the Preface of today\'s Mass, "we
+hope to follow, and the hope of the apostles conquers their sadness."
+
+Our Lord said, "I will not leave you orphans" (John 14:18).
+
+There\'s also a line in the words of the Mass that talks about how we
+are "waiting in joyful hope" (Prayer after the *Our Father*). It\'s a
+great way to live. It\'s a beautiful phrase. Every day of our life,
+we\'re waiting in joyful hope.
+
+With this Ascension, Christ opens the gates of heaven, and so all the
+good people who\'ve been waiting in the bosom of Abraham---now they can
+enter into their eternal glory.
+
+Before He goes, He confirms the apostles in their mission. He invites
+them to continue His work. He promises them divine power: "All power in
+heaven and on earth has been given to me. ... I will be with you always,
+even until the end of the world" (Matt. 28:18-20).
+
+We\'ve been called to that mission, a mission that also finds its
+fulfillment in unity to the Church, because that\'s where the divine
+power is: union to the Holy Father, to what he is saying, to what he is
+doing, Our Mother the Church.
+
+Throughout His public life, Our Lord had also called the apostles to a
+certain responsibility: "Trade until I come" (Luke 19:13).
+
+We\'re told in the First Reading of today that the angels wake the
+apostles from their awestruck state: "Men of Galilee, why do you stand
+looking up into heaven?" (Acts 1:11).
+
+It\'s as though the angels come along and clap their hands and say,
+'Okay, let\'s get down to business; there\'s a job to be done. What are
+you doing looking up at the stars and looking up to heaven? Let's get
+back to work, let's get the ball rolling.' They\'re sort of saying,
+'Keep your mind on the harvest.'
+
+Just as the angels said those words to the apostles, we could imagine
+the angels saying the same thing to us on a daily basis: What are you
+thinking about? Where is your mind? Are you focused on the great
+apostolic enterprise that God has left in the world, and the mission
+that He\'s given each one of us to continue, that has an expression to
+be found in the ordinary things this particular day---a mission that
+demands your prayer, your mortification, but also your action.
+
+St. Josemaría says, "Today\'s feast reminds us that our concern for
+souls is a response to a command of love given to us by Our Lord. As he
+goes up into heaven," we\'re told in *Christ Is Passing By*, "Jesus
+sends us out as his witnesses throughout the whole world. Our
+responsibility is great, because to be Christ\'s witness implies, first
+of all, that we should try to behave according to his doctrine, that we
+should struggle to make our actions remind others of Jesus and his most
+lovable personality.
+
+"We have to act in such a way that others will be able to say, when they
+meet us: this man is a Christian, because he does not hate, because he
+is willing to understand, because he is not a fanatic, because he is
+willing to make sacrifices, because he shows that he is a man of peace,
+because he knows how to love" (Josemaría Escrivá, *Christ Is Passing
+By,* Point 122).
+
+There are many messages contained in today\'s feast day. When Our Lord
+went up into heaven, there were only eleven apostles, because Judas had
+betrayed Our Lord and Matthias had not yet been chosen.
+
+Just eleven men went to Galilee, following the message that Our Lord had
+given them on Easter Sunday through Mary Magdalene. They were told to
+meet Our Lord on the mountain in Galilee (Matt. 28:7).
+
+What were they thinking about when they climbed that mountain? Were they
+thinking about Moses, who climbed Mount Sinai to receive God\'s covenant
+of the Ten Commandments?
+
+Perhaps they were thinking of Elijah who climbed the same mountain, only
+called Horeb. Elijah was told he would experience the presence of God
+and expected the same display of power and awe that Moses experienced.
+Only for Elijah, God\'s power was in the still, quiet voice of the
+Spirit.
+
+Possibly the apostles were thinking about a mountain that they climbed
+just a few years before, the Mountain of the Beatitudes, and the sermon
+that Our Lord gave there, the Sermon on the Mount.
+
+Maybe they were thinking about the Transfiguration, the mystical
+appearance of Our Lord, and Moses and Elijah, also on the mountain.
+Certainly, they knew that there would be a special experience of God
+that was waiting for them there on the mountain of Galilee.
+
+When they got to the top, they found Jesus there. They saw Him. They
+worshipped Him. They realized that He was the Son of God, and yet some
+of them were still full of doubt.
+
+How could it be possible that this man with whom they walked and ate and
+talked over the last three years, whose violent death they had fled, how
+could it be that He could have risen from the dead and be waiting for
+them here on the mountain? Was it a dream? Was it an apparition?
+
+Some of the apostles still doubted. Our Lord answered their doubts
+immediately: "All power in heaven and on earth has been given to me. Now
+go from here and make disciples of all nations, baptizing them in the
+name of the Father, and of the Son, and of the Holy Spirit" (Matt.
+28:18-19).
+
+Our Lord proclaims the Blessed Trinity and empowers the disciples to
+bestow the life of the Trinity on the baptized---the greatest way to
+live. "Teach them to carry out everything I have commanded you, and know
+that I am with you until the end of time."
+
+The learners are now sent, and how could these eleven transform the
+world?
+
+We might look at the world today and think in the same way. Where do I
+begin? How can things change? It\'s too big a task!
+
+But the apostles knew that they could only transform the world through
+the power that they had received. They could transform the world through
+the presence of the Lord.
+
+"Know that I am with you, always" (Matt. 28:20). We know that Christ is
+always with us in every apostolic endeavor.
+
+It\'s not just that the disciples felt alone when Our Lord left them and
+ascended to the Father. The feelings of being deserted, alone in life,
+are very human and very real. Our Lord knows what it\'s like to be
+alone.
+
+Our Lord---one of us, the one who died, deserted by all---felt the loss
+of the Father\'s presence and cried out, "My God, my God, why have you
+forsaken me?" (Matt. 27:46).
+
+He experienced the human feeling of loneliness. So it\'s not just the
+apostles who felt alone on the mountain of the Ascension.
+
+Our Lord\'s answer to loneliness is His Resurrection and Ascension. No
+one who ever calls upon Him will ever be truly alone because He\'s with
+us always.
+
+These are very reassuring words that Our Lord gives us. Christ is always
+with us. The word given to Our Lord in the Gospel, Emmanuel (Matt.
+1:23), precisely means "God with us." He never deserts us.
+
+He didn\'t ascend into heaven in order to leave us. He entered, rather,
+into the dimension of the spiritual, so that we could experience His
+presence in our souls and bring His presence to the world.
+
+The solemnity of the Ascension is not just a nice way to wrap up Easter.
+It\'s a celebration of our possession of the presence of God.
+
+Pope Benedict liked to say, "The meaning of Christ\'s Ascension
+expresses our belief that in Christ, the humanity that we all share has
+entered into the inner life of God in a new and hitherto unheard-of way.
+It means that man has found an everlasting place in God" (Joseph
+Ratzinger / Benedict XVI, *Dogma and Preaching: Applying Christian
+Doctrine to Daily Life).*
+
+He says it would be a mistake to interpret the Ascension as "the
+temporary absence of Christ from the world. Rather, we go to heaven to
+the extent that we go to Christ and enter into Him. Heaven is a person.
+Jesus Himself is what we call 'heaven.'"
+
+Very beautiful words from Pope Benedict. It helps us to see a little
+more about what this feast day is all about.
+
+The Ascension also leads us to look forward to the great coming of the
+Holy Spirit. We have ten days in which to prepare, to ask the Holy
+Spirit for each one of His gifts, and to be close to the Spouse of the
+Holy Spirit; to think about how we are going to use these particular ten
+days to be a little closer to Him who is going to change us on the
+inside.
+
+The Preface of Pentecost Sunday, the *Veni Creator Spiritus*, is a very
+beautiful hymn. You will find it in many prayer books and hymn books---a
+very beautiful prayer to say frequently to the Holy Spirit.
+
+If you think about it, the Holy Spirit is the real Sanctifier. If the
+goal of our life is sanctity, then it makes an awful lot of sense that
+we pray a lot to the Holy Spirit. We have some contact with Him on a
+daily basis.
+
+We have a chance to put in a sprint in these coming days as we prepare
+for Pentecost, and to ask Our Lord for the grace to benefit from these
+great feast days.
+
+We are told in the *Furrow*, "Look: we have to love God not only with
+our heart, but with His, and with the hearts of all humanity throughout
+time. Otherwise, we should fall short of corresponding to his love" (J.
+Escrivá, *Furrow*, Point 809).
+
+Of course, St. Paul has many things to say to us by way of
+encouragement. He says, "I, a prisoner for the Lord, urge you therefore
+to lead a life worthy of the vocation to which you are called" (Eph.
+4:1). Unity of life: putting our faith into practice in concrete ways
+every day.
+
+"With all humility and gentleness," he says, "and with patience, support
+each other in love. Take every care to preserve the unity of the Spirit
+by the peace that binds you together. There is one body and one
+Spirit---just as one hope is the goal of your calling by God, there is
+one Lord, one faith, one baptism, one God and Father of all, over all,
+through all, and within all" (Eph. 4:2-6).
+
+The Ascension of Our Lord into heaven strengthens and nourishes our
+desires for heaven. We should always try and foster that hope of heaven.
+
+St. Leo the Great, in a sermon to commemorate today\'s Solemnity, said:
+"Today we are not only made possessors of Paradise, but with Christ we
+have ascended, mystically but also really, to the highest Heavens and
+have won through Christ a grace more wonderful than the one we had lost"
+(Leo the Great, *Homily I on the Ascension*).
+
+The Ascension strengthens and nourishes that hope. It invites us always
+to lift up our heart, as the Preface of the Mass says, and to seek the
+things that are above.
+
+Our hope is very great because Christ has gone before us to prepare, as
+He told us, "a dwelling place" for us (cf. John 14:2).
+
+Our Lord is in heaven with His glorified body, and also with the signs
+of His redemptive sacrifice, with the marks of His Passion, marks which
+Thomas could see and touch (John 20:24-31), marks which bring about our
+salvation.
+
+The Sacred Humanity of Christ has its natural place in heaven, and He
+who gave His life for us awaits us there.
+
+St. Josemaría in *Christ Is Passing By*, Point 126, has said: "Christ
+awaits us. We are 'citizens of heaven' (Phil. 3:20), and at the same
+time fully-fledged citizens of this earth, in the midst of difficulties,
+injustices, and lack of understanding, but also in the midst of the joy
+and serenity that comes from knowing that we are children of God\...
+
+"If, in spite of everything, Jesus\' ascension into heaven leaves a
+certain taste of sadness in our souls, let us go to his Mother, as the
+apostles did. 'They returned to Jerusalem\...and they prayed with one
+mind\...together with Mary, the Mother of Jesus'" (Acts 1:14).
+
+The hope of heaven can fill our day with joy. We\'re told in *The Way*:
+"Foster in your heart the glorious hope of heaven" (J. Escrivá, *The
+Way*, Point 668).
+
+We can imitate the apostles, who, in the words of St. Leo, benefited so
+greatly from the Ascension that all beforehand that had caused them fear
+now caused them joy.
+
+He says, "From that moment on, their souls were fixed in contemplation
+on the divinity seated at the right hand of the Father; the very vision
+of his body was no obstacle to their believing, with their minds
+illumined by faith that Christ had not separated himself from his Father
+when he descended, and had not separated himself from his disciples when
+he ascended" (Leo the Great, *Sermon 74*).
+
+We\'re also invited to look on this feast day at the apostolic mission
+of the ordinary Christian in the middle of the world, a mission that
+comes with our Baptism.
+
+"And while they were gazing into heaven as he went, behold, two men
+stood by them in white robes and said, 'Men of Galilee, why do you stand
+looking up to heaven? This Jesus, who was taken from you into heaven,
+will come in the same way as you saw him go into heaven' (Acts 1:10-11).
+
+"Like the apostles, we can remain somewhat saddened by his departure.
+... He has gone to heaven, but at the same time, he has given himself to
+us as our nourishment in the sacred host. ...
+
+"We would like to go back and look at him closely again, as he sits down
+at the edge of the well, tired out from his journey (cf. John 4:6); or
+as he weeps for Lazarus (cf. John 11:35); or as he prays for a long time
+(cf. Luke 6:12); or when he felt pity for the crowd (cf. Matt. 15:32,
+Mark 8:2).
+
+"It has always seemed logical to me that the most holy humanity of
+Christ should ascend to the glory of the Father. The ascension has
+always made me very happy. But I think that the sadness that is
+particular to the day of the ascension is also a proof of the love we
+feel for Jesus Christ, Our Lord.
+
+"He is God made man, perfect man, with flesh like ours, with blood like
+ours in his veins. Yet he leaves us and goes up to heaven. How can we
+help but miss his presence?" (J. Escrivá, *Christ Is Passing By*, Point
+117).
+
+The angels came and they told the apostles that it was now time for them
+to begin the task before them. There was not a minute to be wasted.
+
+The urgency of the message of the angels is something that we could
+communicate to our own personal apostolic task every day. "Why do you
+keep looking up to heaven?" It\'s like an urgent call to action.
+
+With the Ascension, Our Lord\'s earthly mission comes to a close, and
+ours, as His disciples, begins. We may need to make a new beginning in
+that launching out into the deep (cf. Luke 5:4).
+
+We could hear the words of Our Lord which He said to the apostles, "I do
+not pray that you should take them out of the world, but that you would
+keep them from evil" (John 17:15).
+
+These words remind us of our place in society. We\'re not meant to be
+taken out of our job or of our family, of the particular place where God
+has placed us.
+
+Our Lord wants each of us to remain in our place, sanctifying the world
+from within, improving it and placing it at the feet of God.
+
+Only in this way will the world be a place where human dignity is valued
+and respected, a place where men live in peace, in true peace, the peace
+which is so closely linked to God.
+
+In *Christ Is Passing By*, we\'re told, "Today\'s feast reminds us that
+our concerns for souls is a response to a command of love given to us by
+Our Lord. As he goes up to heaven, Jesus sends us out as his witnesses
+throughout the whole world. Our responsibility is great, because to be
+Christ\'s witnesses implies, first of all, that we should try to behave
+according to his doctrine, that we should struggle to make our actions
+remind others of Jesus and his most lovable personality" (J. Escrivá,
+*Christ Is Passing By*, Point 122).
+
+There was a story of three men who were running to catch a train. They
+were a bit late. The first man was out in front, and outside the train
+station, there was a man who was selling oranges. He had his oranges
+piled in a sort of a pyramid.
+
+The first person who was rushing to catch the train, without realizing
+it---his foot touched the bottom left-hand orange in the corner of this
+pyramid. The oranges began to tumble all over the place, but he hardly
+noticed because he was running. He kept running on.
+
+The second person who came a little bit after him had sort of noticed it
+a little bit, but he was very focused on catching the train, so he
+thought there was nothing he can do.
+
+But the third person who was a little bit farther behind saw all this
+happening and also saw that the person who was selling the oranges was
+blind, and now the oranges were all over the place. This blind person
+was trying to regather the oranges.
+
+He felt he had to stop and help this blind person to gather the oranges.
+He stopped and spent a few moments trying to help this man to get back
+his oranges.
+
+The blind man realized there was somebody helping him, but he didn\'t
+know who it was. Suddenly the blind man said, 'Are you Jesus? Are you
+Jesus?'
+
+The man who was helping him felt a bit embarrassed: 'Am I Jesus? I\'ve
+never been mistaken for Jesus before. It takes this blind man to think
+that I might be Jesus.'
+
+That led him to think very deeply about his life, about his Christian
+vocation, and that others are meant 'to see Christ in me' in all sorts
+of moments.
+
+Those we live and work with, and come in contact with, should find us
+loyal, sincere, joyful, hardworking. We need to live as people who
+fulfill their duties honestly and live as children of God in the middle
+of the ups and downs of each day.
+
+We need to take care of the ordinary details of courtesy---how we greet
+other people, our cordiality, our spirit of service---which for many are
+merely conventional and external things, but in us have to be the fruit
+of charity and an expression of a real interest in other people.
+
+Our Lord departs, but He remains close to each one of us. In a special
+way, we find Him in the tabernacle, possibly in one not far from where
+we live, or right in front of us. We can have recourse to Him there.
+
+If at times we can\'t go physically, we can always go with our heart,
+and ask Him to help us in all our apostolic efforts. We can tell Him
+that He can count on us to make His teaching known everywhere.
+
+The apostles returned to Jerusalem in the company of Mary. With her they
+awaited the coming of the Holy Spirit. We too can prepare for the coming
+of the great feast of Pentecost, very close to Our Lady, and also with
+St. Joseph.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*OLV*

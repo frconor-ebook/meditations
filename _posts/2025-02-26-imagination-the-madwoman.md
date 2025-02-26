@@ -1,0 +1,472 @@
+---
+layout: homily
+title: "Imagination: The Madwoman"
+---
+
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+"At once he made the disciples get into the boat and go on ahead to the
+other side while he sent the crowds away. After sending the crowds away
+he went up into the hills by himself to pray. When evening came, he was
+there alone, while the boat, by now some furlongs from land, was hard
+pressed by rough waves, for there was a headwind.
+
+"In the fourth watch of the night, he came towards them, walking on the
+sea, and when the disciples saw him walking on the sea, they were
+terrified. 'It is a ghost!' they said, and they cried out in fear. But
+at once Jesus called out to them, saying, 'Courage! It is I! Do not be
+afraid'" (Matt. 14:22-27).
+
+Many of the saints have liked to say that the imagination is like a
+madwoman, the \"madwoman of the house."
+
+St. Teresa of Ávila, in particular, used this phrase. She said in spite
+of that, how often we choose this madwoman of the house, more or less
+consciously, as our advisor in the most delicate problems of our soul.
+
+The apostles cried out, "It is a ghost!" But it wasn't a ghost; it was
+just Jesus.
+
+A writer says (see below) that "this madwoman confuses us with her
+fussing and distracts us with her chatter; she communicates to us her
+various fears and makes us apprehensive; she whispers her baseless
+suspicions in our ears, tyrannizes over us with her ambition, and
+infects us with her envy; this madwoman makes us walk away from reality,
+leading us into a dream-world, full of elation or pessimism" (Salvatore
+Canals, *Jesus as Friend).*
+
+It becomes very important in our spiritual life that we learn how to
+control our imagination, because she could be playing on us all day
+long---making us apprehensive and anxious; full of fears when we don\'t
+need to be; whispering those baseless suspicions in our ears. She can
+take away our interior peace. She can make us walk away from reality.
+
+As followers of Christ, it\'s very important that we walk in the real
+world.
+
+Sometimes people ask about the importance of their dreams. The best
+thing we can do with our dreams is to forget about them. If we have some
+unpleasant dream, we can say a Hail Mary, offer it to Our Lady, carry
+on.
+
+We don\'t live in the world of dreams; we live in the real world, which
+is much more interesting---the world created by God.
+
+Subtly, she can feed us with the poison of sensuality and self-love. The
+imagination can be "the great enemy of our interior life; she is the
+eternal ally of the world, the flesh, and the devil."
+
+It\'s very good if we can recognize things that are just fruit of our
+imagination, and not from the real world. They don't reflect reality, so
+that we can see that the devil, maybe, is tempting us through these
+imaginary problems.
+
+The imagination is the one who disturbs our prayer life, makes us fear
+mortification.
+
+She can introduce into our soul the temptation of the flesh and of
+pride; she can give us a false idea of God---an idea that is not in
+keeping with Our God, who is a loving Father, who tells us that "even
+the hairs of our head are counted"; that we are "worth much more than
+many sparrows" (Luke 12:7); who is beside us always (Ps. 16:8),
+irrespective of how we might be feeling.
+
+Our imagination can deprive us of our supernatural love, which helps us
+to see the world as God sees it---which is how it is in reality.
+
+She can lull us to sleep with frivolities or drown us in the lethargy of
+lukewarmness.
+
+She can put out the flame of charity and kindle the flames of distrust
+and discord. She can be a great instrument of disunity.
+
+She is as wild as a horse without a bridle; as giddy as a butterfly; if
+we fail to control and guide her, we will never be a supernatural and
+interior soul.
+
+God wants us to be full of peace ---a peace that only He can give, a
+peace which the things of this world cannot give (John 14:27)---so that
+we also know how to react peacefully, serenely, to all the different
+events and occurrences that might take place.
+
+And so, we need to put a brake on our own imagination. If we don't,
+we\'ll never have that realism which a life of holiness requires.
+
+The saints were people who lived in the real world. They were immensely
+human; they didn\'t live in a dream world.
+
+Calm, realism, serenity, objectivity: these are all virtues which are
+born where the tyranny of the imagination is buried; virtues which grow
+and bear fruit in the ascetical effort of dominating and controlling our
+imagination.
+
+Notice how Our Lord came to the apostles not in the first, second, or
+the third, but in the fourth watch of the night. They must have been a
+little bit tired.
+
+They didn\'t recognize Him when He came. It was as though Our Lord was
+very good at playing practical jokes on them.
+
+He comes to them, walking on the water, and He scares the living
+daylights out of them. \"It is a ghost!\" they cried out in fear (Matt.
+14:25-26).
+
+Sometimes we might have similar reactions. We think this is because of a
+ghost, or because of the devil, or because of this, or because of that.
+
+Maybe it's just Christ coming to seek us out in different ways, saying,
+"Come to me, all you who labor and are heavy burdened, and I will give
+you rest" (Matt. 11:28).
+
+When Our Lord allows them to have these reactions with their
+imagination, immediately He calms them down: "Courage, it is I. Do not
+be afraid" (Matt. 14:27).
+
+Christ comes to calm our fears, to restore our peace, so that we don't
+let ourselves be dominated by the tyranny of the imagination, which can
+be so tyrannical, twists our minds, misrepresents situations, distorts
+our view of other people.
+
+Our imagination can make us see things that are not really there. We may
+not live according to reality.
+
+Our imagination can make us think that this person said this, or said
+that, or said it in that tone because they want this, or they want that,
+or what they mean is something else. We can tie ourselves up in knots.
+
+It\'s interesting how Pope Francis often talks about Our Lady the Untier
+of Knots, to whom they have a lot of devotion in Argentina. Our Lady can
+help us to untie the knots created by our imagination.
+
+The Gospel gives us a very eloquent proof of that tyranny of the
+imagination.
+
+They're out on the lake of Gennesaret. It's a dark, stormy night. The
+Apostles have to row hard against a violent wind. Their little boat,
+battling on the waves, contains twelve men who strive to resist the
+impetuous wind.
+
+Meanwhile, Jesus has gone away to be alone on the top of a nearby
+mountain, to pray.
+
+But at the fourth watch of the night, He approaches them, walking on the
+water. When they see Him, they become worried and they cry out, \"It is
+a ghost!\"
+
+The adorable figure of the Master, who comes so as to be with them, and
+help them, and calm the storm, silencing the waves with His word, takes
+on in their imagination the appearance of a ghost, which fills them with
+fear and disquiet.
+
+That whole Gospel episode can be repeated in our own life. How often our
+soul, victim of our imagination, can become frightened and uneasy!
+
+There can be imaginary crosses that torment us, exhaust us. These can be
+tricks that our imagination plays on us.
+
+Maybe ninety percent of our sufferings, or those sufferings which we
+call crosses---they may be imaginary. So little do we know of the Cross
+of Christ, or at least they can be blown up or twisted by the cruel
+tyranny of our imagination.
+
+That\'s why they can weigh so heavy on us, drain us of our energy---all
+those human and invented crosses.
+
+If what made us suffer so much, if what drained us, were truly the cross
+the Lord sends us, the Cross of Christ, once we recognized it as such
+and, with faith and love, accepted it, it no longer ought to be a
+weight.
+
+It ought no longer to oppress us, because the Cross, the true Cross of
+Christ, the Holy Cross, is not a source of sadness or depression or
+fear, but one of peace and joy.
+
+Our joy and our happiness have their roots in the Holy Cross (cf.
+Josemaría Escrivá, *The Forge*, Point 28).
+
+But if it is a human or imaginary cross that we are carrying on our
+shoulders, or one which is the result of our interior rebellion against
+the true Cross, then we can truly become sad and worried.
+
+But that weight and that preoccupation can disappear from our life and
+cease to drain us. All we have to do is to open the eyes of faith;
+decide to cut the wings of our imagination.
+
+We might sometimes imagine that God has abandoned us: 'Why do I have so
+many problems in my life?' 'Why are things going wrong?' 'Why are these
+things happening to me all the time?'
+
+Maybe, those things that are happening to you all the time are just the
+ordinary realities of professional life, or they're just the ups and
+downs of every day. We haven't yet recognized them as such. These daily
+realities are what God wants us to sanctify through acceptance of the
+cross in the ordinary things of each day.
+
+Those human crosses that may seem so heavy, that may seem to flatten us,
+may have no real existence in our supernatural life and might only exist
+in our imagination.
+
+We should try to offer these things to Our Lord.
+
+Lord, I leave things at the foot of your Cross or leave things at your
+tabernacle--- these thoughts, these worries, these concerns, so that I
+don't focus my whole life or revolve around the moment.
+
+It could be that I could be carrying on my shoulders a weight that is as
+atrocious as it is ridiculous---a weight I imagine to be a mountain and
+in fact, is only a grain of sand.
+
+Here is where spiritual direction can be very helpful---to have someone
+we can go to and open our soul, talk about our concerns, our worries.
+
+Very often those things that may agitate us, concern us, take away our
+peace---when we get them out, we get a new peace. We see those things in
+their proper light.
+
+That other person with the grace of the Holy Spirit helps us to see that
+this thing is perhaps not important. Or this is not reality.
+
+Or this is just a fruit of your imagination; that\'s not what the person
+meant at all, or that\'s not what those words mean.
+
+Or that person that said those things with that face, it\'s because
+they\'re carrying this other cross. It\'s not because they hate you, or
+they want to send you a message, or whatever else.
+
+Or this failure that you\'ve experienced in your life, where life has
+struck---this is not some great catastrophe. This is just the realities
+of ordinary life. It happens to everybody.
+
+We learn to carry those particular crosses and move on.
+
+There are ghosts that can be created in our mind, bogeymen that our
+imagination decks out in vivid colors, giving them huge, terrifying
+hands and swift, agile legs.
+
+We can imagine that people are out to get us, but maybe that's not the
+reality at all.
+
+Hence, the help of an objective voice or opinion that can help to keep
+us on the straight and narrow, to lead normal lives, to maintain our
+balance, so that we don't allow those imaginary thoughts, or desires, or
+temptations to chase us and fill our souls with sorrow and agitation.
+
+Often, a little assertion of our life of faith can help them disappear.
+"My Lord and my God!" (John 20:28).
+
+Turning to Our Mother---Mary, help me! Refuge of sinners, Comforter of
+the afflicted, Mother most admirable, Mother most amiable.
+
+Our Mother is always there to calm us down. That\'s what mothers are
+for: to untie the knots we ourselves may have tied up in all sorts of
+ways.
+
+All these troublesome thoughts and dreams can be got rid of very easily.
+Sometimes we can allow other things to scare us, things that may come
+from far away: 'What if?' 'What if this were to happen?' or 'What if
+that were to happen?' Fears about future dangers.
+
+Our Lord, in His public life, spoke a lot to us about "today," about
+this moment.
+
+Blessed Álvaro used to say that the sanctification of our lifetime is
+made up of the sanctification of each moment. Hence, the norms of
+*always* can be very relevant: acts of faith, acts of hope, acts of
+thanksgiving, acts of abandonment.
+
+We can be afraid of dangers which in the present moment don\'t exist,
+and we don't know if they will ever come about. But our imagination can
+make us see those things as present. That can make them appear even more
+terrible.
+
+A simple supernatural reasoning process can get rid of them. Since those
+dangers which we imagine are not actual dangers, and the fear that we
+have has not been verified, then clearly we don\'t have the grace of God
+necessary to overcome them or accept them.
+
+So we have to get rid of them. We\'ll cross that bridge when we come to
+it; we live for today.
+
+"Woman, my hour has not yet come" (John 2:4). "Now has the hour come for
+the Son of Man to be glorified" (John 12:23). "This day you will be with
+me in paradise" (Luke 23:43).
+
+If our fears are verified, if things do turn out as we expected them,
+then we\'ll have divine grace. With that grace and our response to it,
+we'll win out and have peace.
+
+We have the grace to carry real crosses, but we don't have the grace to
+carry imaginary ones. It\'s quite natural that at present, we don\'t
+have the grace of God to overcome those obstacles and to accept the
+crosses which only exist in our imagination.
+
+We could ask St. Joseph, in particular, to help us to base our spiritual
+life on a serene, objective realism.
+
+In the homily on St. Joseph, St. Josemaría says that St. Joseph was "in
+no way shy or frightened of life. ... He faced up to problems, dealt
+with difficult situations, and showed initiative and responsibility in
+all that he was asked to do" (J. Escrivá, *Christ Is Passing By*, Point
+40).
+
+St. Joseph lived in the real world. He solved real problems; faced up to
+real situations. He didn\'t get into all sorts of a tizzy, imagining all
+sorts of things that won\'t come to happen.
+
+In the field of charity, we may particularly be a victim of our
+imagination, imagining that this person said this or meant that, or
+looked at us in that funny way.
+
+This can lead us to have all sorts of suspicions that have no basis in
+reality---a suspicion whose only roots are in our minds.
+
+There could be an enormity of things that we imagine that our neighbor
+has thought or said or done, which the person has never thought, nor
+said, nor done.
+
+That sort of thing can disturb and undermine our relationships with
+other people, and also in our family.
+
+Those little differences which necessarily exist in all human
+relationships, even in those of the saints (we\'re not angels), can be
+blown up and twisted by our imagination, and put us into moods that make
+us suffer a lot.
+
+Nothing, little things, games our imagination plays on us; yet they open
+abysses which cause divisions among people. They destroy affections and
+friendships and undermine unity.
+
+In reality, they\'re just little issues, water under the bridge.
+
+Imagination can be a great ally of sensuality and self-love. We can
+write many novels about ourselves---fantastic dreams in which we are the
+hero, the person who comes out on top; dreams which indulge our
+ambition, the desire to be on top and to be admired, and to grow in
+vanity.
+
+All these things will ultimately---lots of obstacles to our holiness.
+
+The solutions lie in our life of piety: our prayer; our presence of God;
+our abandonment into the hands of Our Father God; strong supernatural
+joy.
+
+All these are walls of our interior life; they can all be threatened by
+the madwoman of the house.
+
+"We need to be very supernatural, very objective. The voice of Jesus
+puts an end to the fears of the apostles on the lake of Gennesaret:
+'Take heart, it is I; do not be afraid!" (Matt. 14:27).
+
+St. Josemaría says in the *Furrow*, "If your imagination bubbles over
+with thoughts about yourself and creates fanciful situations and
+circumstances which would not normally find a place in your way, then
+these will foolishly distract you. They will dampen your ardor and
+separate you from the presence of God. This is vanity.
+
+"If your imagination revolves around others," he continues, "you will
+easily fall into the defect of passing judgment. This is not your
+responsibility. You will interpret their behavior not at all objectively
+but in a mean way. This is rash judgement.
+
+"If your imagination concerns itself with your own talents and ways of
+speaking, or with the general admiration that you inspire in others,
+then you will be in danger of losing your rectitude of intention, and of
+providing fodder for your pride.
+
+"Generally, letting your imagination loose is a waste of time, and, if
+it is not controlled, it opens the door to a whole string of voluntary
+temptations. Do not leave off the practice of interior mortification for
+even a single day!\" (J. Escrivá, *Furrow*, Point 135).
+
+This point highlights the importance of interior mortification. Often,
+we think of mortification only in terms of exterior mortification.
+
+Sometimes, we have to mortify our thoughts, our yearnings, our desires,
+our imaginations---all those things that go on, on the inside.
+
+"I could behave better," he says in another point, "show more decision,
+and spread around more enthusiasm\...Why don\'t I?
+
+"Because---forgive my frankness---you are a fool. The devil knows full
+well that one of the worst-guarded doors of the soul is that of human
+foolishness: vanity.
+
+"That is where he attacks with all his might: pseudo-sentimental
+memories, the hysterical form of a black-sheep complex, the unfounded
+impression of a lack of freedom. \...
+
+"What are you waiting for in order to follow the Master\'s injunction?
+'Watch and pray, for you know not the day nor the hour'" (J. Escrivá,
+*Furrow*, Point 164).
+
+We're also told in the *Furrow* (Point 248): "There are souls who seem
+bent on inventing sufferings, on torturing themselves with their
+imagination. Afterwards, when objective sorrows and contradictions come
+their way, they do not know how to be like the Most Holy Virgin at the
+foot of the Cross with her eyes fixed on her Son."
+
+We focus on the Sacred Heart of Jesus, place our mind and our heart in
+the wounds. That will help us to be more focused on the real world.
+
+In *The Way*, we\'re told, "Get rid of those useless thoughts which, at
+best, are but a waste of time" (Point 13).
+
+"Don\'t be so touchy. The least thing offends you. It\'s necessary to
+weigh one\'s words well before speaking to you even on the most trivial
+manner. Don\'t be annoyed if I tell you that you are...unbearable.
+Unless you change, you will never be of any use" (Point 43).
+
+We could ask Our Lady, that we might grow in control of our imagination,
+this madwoman, so that we can work at the business of making it more
+effective for us.
+
+We\'re told: "Tongues have been wagging and you have suffered rebuffs
+that hurt you all the more because you were not expecting them. Your
+supernatural reaction should be to pardon---even to ask pardon,---and to
+take advantage of the experience to detach yourself from creatures" (J.
+Escrivá, *The Way*, Point 689).
+
+"Don\'t let yourself be distracted," we\'re told in *The Forge* (Point
+1023), "don\'t give free rein to your imagination. Live the life within
+you and you will be closer to God."
+
+"Don\'t be ashamed of doing little childlike things, I advised you. As
+long as they are not done out of routine, they will not be foolish.
+
+"Here is an example. Imagine that a soul who is following the way of
+spiritual childhood is moved each night, during the hours of sleep, to
+adorn a wooden statue of the Blessed Virgin. Our intelligence would
+reject such an action as quite useless. But humble souls touched by
+grace understand very well that a child would indeed act like this out
+of love.
+
+"And then the strong will, which all those who are little children
+spiritually have, insists and moves the intelligence to give way. ...
+And if that childlike soul were to continue each day dressing up that
+statue of Our Lady, there would be repeated each day a little act of
+childlike love, which would be fruitful in the eyes of God" (J. Escrivá,
+*The Forge*, Point 347).
+
+Mary, may you help us to be more aware of our imagination so that we can
+attack it at an early stage, to be led to a deeper, more serene,
+spiritual life, pondering all the things just as you did.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*EW*
