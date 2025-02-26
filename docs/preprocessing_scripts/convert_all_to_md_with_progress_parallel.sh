@@ -14,6 +14,7 @@ echo "Found $total files to process."
 # Find files using -print0 for safety and use GNU parallel for processing.
 find "$source_dir" -iregex '.*\.\(doc\|docx\)' -print0 |
   parallel -0 -j $(nproc) --bar --eta \
+    # './convert_fast.sh "{}" > "'"$dest_dir"'/$(basename "{}" | sed "s/\.doc[x]*$/.md/")"'
     './convert.sh "{}" > "'"$dest_dir"'/$(basename "{}" | sed "s/\.doc[x]*$/.md/")"'
 
 echo "Conversion complete."
