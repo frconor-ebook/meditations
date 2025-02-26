@@ -34,6 +34,7 @@ cd /Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations/
 **Step 3: Build the Jekyll Site**
 
 ```bash
+bundle exec jekyll clean
 bundle exec jekyll build
 ```
 
