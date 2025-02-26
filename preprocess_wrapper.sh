@@ -22,8 +22,8 @@ echo "Converting DocX to Markdown..."
 cd "$BASE_DIR/meditations/preprocessing_scripts/" || error_message "Could not change to preprocessing_scripts directory."
 # Execute the conversion script.
 # If it returns a non-zero exit code (indicating an error), call error_message.
-# ./convert_all_to_md_with_progress_parallel.sh || error_message "DocX to Markdown conversion failed."
-./convert_all_to_md_with_progress.sh || error_message "DocX to Markdown conversion failed."
+./convert_all_to_md_with_progress_parallel.sh || error_message "DocX to Markdown conversion failed."
+# ./convert_all_to_md_with_progress.sh || error_message "DocX to Markdown conversion failed."
 
 # Standardize Filenames.
 echo "Standardizing filenames..."

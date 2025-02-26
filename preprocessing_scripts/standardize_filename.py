@@ -9,16 +9,23 @@ def standardize_filenames(source_dir, output_dir):
     Standardizes filenames in the given directory and copies them to a new directory.
 
     Steps:
-    1. Converts filenames to lowercase.
-    2. Replaces spaces and special characters with hyphens and removes non-ASCII characters.
-    3. Keeps only lowercase letters, numbers, hyphens, and dots.
-    4. Removes duplicate hyphens.
-    5. Truncates filenames that exceed 250 characters (excluding the ".md" extension).
-    6. Copies the standardized files to the output directory.
+    1. Removes the output directory if it exists.
+    2. Converts filenames to lowercase.
+    3. Replaces spaces and special characters with hyphens and removes non-ASCII characters.
+    4. Keeps only lowercase letters, numbers, hyphens, and dots.
+    5. Removes duplicate hyphens.
+    6. Truncates filenames that exceed 250 characters (excluding the ".md" extension).
+    7. Copies the standardized files to the output directory.
     """
 
-    # Ensure the output directory exists
-    os.makedirs(output_dir, exist_ok=True)
+    # Remove the output directory if it exists
+    if os.path.exists(output_dir):
+        print(f"Removing existing output directory: '{output_dir}'")
+        shutil.rmtree(output_dir)
+
+    # Create a fresh output directory
+    print(f"Creating new output directory: '{output_dir}'")
+    os.makedirs(output_dir)
 
     # Iterate through all files in the source directory
     for filename in os.listdir(source_dir):
@@ -60,7 +67,7 @@ def standardize_filenames(source_dir, output_dir):
 
             # Copy the file with the new standardized name
             shutil.copy2(filepath, new_filepath)
-            print(f"Copied and renamed '{filename}' to '{new_filepath}'")
+            print(f"Copied and renamed '{filename}' to '{new_filename}'")
 
         else:
             print(f"Skipping non-.md file: '{filename}'")
