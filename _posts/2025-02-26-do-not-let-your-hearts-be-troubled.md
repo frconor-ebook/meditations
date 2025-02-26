@@ -3,7 +3,6 @@ layout: homily
 title: "Do Not Let Your Hearts Be Troubled"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

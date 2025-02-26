@@ -1,8 +1,7 @@
 ---
 layout: homily
-title: "St. Josemaría Escrivá (Feast, June 26^th^)"
+title: "St. Josemaría Escrivá (Feast, June 26th)"
 ---
-
 
 By Fr. Conor Donnelly
 

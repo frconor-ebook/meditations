@@ -3,7 +3,6 @@ layout: homily
 title: "The Only Real Evil"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

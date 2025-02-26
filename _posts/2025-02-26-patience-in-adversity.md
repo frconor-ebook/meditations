@@ -3,7 +3,6 @@ layout: homily
 title: "Patience in Adversity"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

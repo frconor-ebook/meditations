@@ -3,7 +3,6 @@ layout: homily
 title: "Judgments (Charity)"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

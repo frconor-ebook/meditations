@@ -3,7 +3,6 @@ layout: homily
 title: "The Annunciation"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)
@@ -380,3 +379,76 @@ help through our Mother, who is his Mother.
 "You should say to Our Lady, right now, speaking without the sound of
 words, from the accompanied solitude of your heart: 'O, my Mother,
 sometimes this poor heart of mine rebels. \... But if you help me\...'
+---She will indeed help you to keep it clean and to follow the way God
+has called you to pursue. The Virgin Mary will always make it easier for
+you to fulfill the will of God" (Josemaría Escrivá, *The Forge,* Point
+315).
+
+He says in the *Furrow* (Point 481)*,* "The scene of the Annunciation is
+a very lovely one. How often we have meditated on this! Mary is
+recollected in prayer. She is using all her senses and her faculties to
+speak to God. It is in prayer that she comes to know the divine will.
+And with prayer she makes it the life of her life. Do not forget the
+example of the Virgin Mary."
+
+If we are trying to discern our own vocation, like Our Lady, we need to
+withdraw to prayer. That\'s where we will come to know the divine will.
+She gives us great example.
+
+We\'re told in *The Forge* (Point 527), "We have to love the Blessed
+Virgin Mary more. We will never love her enough! ---Love her a lot! It
+shouldn\'t be enough for you to put pictures of her, and greet them, and
+say aspirations. You should learn to offer her, in your strenuous life,
+some small sacrifice each day, to show her your love, to show her the
+kind of love that we want the whole human race to proclaim her."
+
+"I have come to see," he says, "that every Hail Mary, every greeting to
+Our Lady, is a new beat of a heart in love" (J. Escrivá, *The Forge*,
+Point 615).
+
+Today is a day to pray our Rosary with great piety and devotion, to
+thank Our Lady for all the joy that comes to our life in her and through
+her; to thank her for being our Mother, perhaps for showing us the
+pathway of our life and asking her that she might continue to show us
+that pathway from now to eternity.
+
+She can also be a model of femininity for us. What did Mary\'s freedom
+stand for? Fulton Sheen likes to say it stood for life, for marriage,
+for the family. She was poor, she was pregnant, she was unmarried. But
+yet it stood for all those things. This is Christian femininity.
+
+Alice von Hildebrand said, "Women have the key to the future because
+they are the guardians of purity."
+
+She said, "This is already clearly indicated by the structure of their
+bodies, which chastely hides their intimate organs. Because their organs
+are 'veiled,' indicating their mystery and sacredness, women have the
+immense privilege of sharing the sex of the blessed one: Mary, the most
+holy of all creatures."
+
+She says radical feminism "began in Protestant countries for the plain
+reason that they had turned their backs on Christ\'s Mother, as if the
+Savior of the world would feel deprived of the honor given to His
+Blessed Mother.
+
+"Mary---so gloriously referred to in the Apocalypse---is the model of
+women. It is by turning to her, praying to her, and contemplating her
+virtues that women will find their way back to the beauty and dignity of
+their mission (Zenit News, Interview with Alice von Hildebrand on *The
+Privilege of Being a Woman*, Nov. 26, 2003).
+
+With the Church we can say today, "Hail Mary, full of grace, the Lord is
+with you."
+
+Help me to keep looking at you and to love and savor beautiful feast
+days of yours like today, together with all your other feast days.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*GD*

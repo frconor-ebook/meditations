@@ -3,7 +3,6 @@ layout: homily
 title: "Come, Lord Jesus"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

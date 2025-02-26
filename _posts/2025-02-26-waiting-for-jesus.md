@@ -3,7 +3,6 @@ layout: homily
 title: "Waiting for Jesus"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

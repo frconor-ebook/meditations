@@ -3,7 +3,6 @@ layout: homily
 title: "Doctrinal Formation"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

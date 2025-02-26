@@ -3,7 +3,6 @@ layout: homily
 title: "The Speck In My Brother's Eye"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

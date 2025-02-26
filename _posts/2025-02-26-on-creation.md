@@ -3,7 +3,6 @@ layout: homily
 title: "On Creation"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

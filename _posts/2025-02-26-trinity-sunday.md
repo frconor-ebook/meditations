@@ -3,7 +3,6 @@ layout: homily
 title: "Trinity Sunday"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

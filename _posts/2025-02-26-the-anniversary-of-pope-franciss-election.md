@@ -3,7 +3,6 @@ layout: homily
 title: "The Anniversary of Pope Francis's Election"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

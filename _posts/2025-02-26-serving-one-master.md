@@ -3,7 +3,6 @@ layout: homily
 title: "Serving One Master"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

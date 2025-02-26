@@ -3,7 +3,6 @@ layout: homily
 title: "Mother of God and Our Mother"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*proofread*)

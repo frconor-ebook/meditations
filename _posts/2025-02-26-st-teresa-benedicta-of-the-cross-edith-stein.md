@@ -3,7 +3,6 @@ layout: homily
 title: "St. Teresa Benedicta of the Cross (Edith Stein)"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*

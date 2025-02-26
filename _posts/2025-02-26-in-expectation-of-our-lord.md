@@ -3,7 +3,6 @@ layout: homily
 title: "In Expectation of Our Lord"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "The Mother of Fair Love"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

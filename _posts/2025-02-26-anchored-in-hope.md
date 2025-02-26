@@ -3,7 +3,6 @@ layout: homily
 title: "Anchored in Hope"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "Heaven and Vigilance"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

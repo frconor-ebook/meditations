@@ -3,7 +3,6 @@ layout: homily
 title: "Christ the King"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

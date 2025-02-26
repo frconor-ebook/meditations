@@ -3,7 +3,6 @@ layout: homily
 title: "Divine Filiation"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)
@@ -524,3 +523,20 @@ divine filiation into practice more frequently.
 
 We're told in *The Forge*, "Draw strength from your divine filiation.
 God is a Father---your Father!---full of warmth and infinite love.
+---Call him 'Father' frequently and tell him, when you\'re alone, that
+you love him, that you love him very much!, and that you feel proud and
+strong because you are his son" (J. Escrivá, *The Forge*, Point 331).
+
+We can ask Our Lady, Daughter of God the Father, Mother of God the Son,
+Spouse of God the Holy Spirit, that she might help us to grow more each
+day in our awareness of our divine filiation.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*MVF*

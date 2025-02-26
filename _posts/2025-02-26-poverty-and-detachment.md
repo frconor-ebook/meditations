@@ -3,7 +3,6 @@ layout: homily
 title: "Poverty and Detachment"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

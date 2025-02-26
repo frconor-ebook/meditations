@@ -3,7 +3,6 @@ layout: homily
 title: "Examination of Conscience"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

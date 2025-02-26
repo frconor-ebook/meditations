@@ -3,7 +3,6 @@ layout: homily
 title: "Spirit of Service"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

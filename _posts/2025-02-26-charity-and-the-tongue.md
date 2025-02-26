@@ -3,7 +3,6 @@ layout: homily
 title: "Charity and the Tongue"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

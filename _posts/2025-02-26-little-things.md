@@ -3,7 +3,6 @@ layout: homily
 title: "Little Things"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)
@@ -565,3 +564,31 @@ short phrases. Often he was the master of short phrases---
 ```
 -   the sanctuary of life (John Paul II, Encyclicals, *Evangelium
     vitae*, March 25, 1995 and *Centesimus annus*, May 1, 1991)
+
+---fantastic phrases with great meanings, phrases that will build up a
+whole new century, a whole new civilization.
+
+It\'s also from our internal studies and the culture that we pick up,
+not just in classes but in get-togethers and other moments, hopefully,
+we also pick up little slogans, little phrases, that contain a wealth of
+doctrine that can open the eyes and the ears and the minds of so many
+people who come in contact with us.
+
+We\'re told that Our Lady "treasured all these things carefully in her
+heart" (Luke 2:19). Silently she pondered these words, these events.
+These were little things, it was a little reaction, but yet it was full
+of significance.
+
+Mary, as we enter this table in Bethlehem, help us to pay attention to
+all the little things that are taking place these days, so that we can
+make them part of our own lives.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*JSD*

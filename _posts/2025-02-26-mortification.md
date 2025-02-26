@@ -3,7 +3,6 @@ layout: homily
 title: "Mortification"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

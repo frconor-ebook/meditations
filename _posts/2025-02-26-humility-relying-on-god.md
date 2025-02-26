@@ -3,7 +3,6 @@ layout: homily
 title: "Humility: Relying on God"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*

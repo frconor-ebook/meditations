@@ -3,7 +3,6 @@ layout: homily
 title: "Simeon and Anna"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

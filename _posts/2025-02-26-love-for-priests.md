@@ -3,7 +3,6 @@ layout: homily
 title: "Love For Priests"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

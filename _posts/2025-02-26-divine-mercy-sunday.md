@@ -3,7 +3,6 @@ layout: homily
 title: "Divine Mercy Sunday"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

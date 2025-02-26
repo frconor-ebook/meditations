@@ -3,7 +3,6 @@ layout: homily
 title: "The Grandfather"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

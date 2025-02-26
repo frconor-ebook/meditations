@@ -3,7 +3,6 @@ layout: homily
 title: "Temptation"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

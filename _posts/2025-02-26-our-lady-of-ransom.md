@@ -3,7 +3,6 @@ layout: homily
 title: "Our Lady of Ransom"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)
@@ -464,3 +463,26 @@ created, or to be a Christian, or to be a child of God, or to have the
 family that you have" (J. Escrivá, *The Forge*, Point 145).
 
 In the *Furrow*, St. Josemaría says, "Holy Mary, Seat of Wisdom.
+---Invoke Our Mother often in that way, so that she may fill her
+children, in their study, work, or social relations, with the Truth that
+Christ has brought to us" (J. Escrivá, *Furrow*, Point 607).
+
+"There is no heart more human than that of a person overflowing with
+supernatural sense. Think of Holy Mary, who is full of grace, Daughter
+of God the Father, Mother of God the Son, Spouse of God the Holy Spirit.
+Her Heart has room for all humanity and makes no distinction or
+discrimination. ---Every person is her son or daughter" (*Ibid*., Point
+801).
+
+We can ask Our Lady on this feast day to look mercifully upon us and
+help us to look mercifully upon everybody that God has placed around us.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*JSD*

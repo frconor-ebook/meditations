@@ -3,7 +3,6 @@ layout: homily
 title: "Salt That Has Lost Its Savor"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "Preparing for Retreat"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

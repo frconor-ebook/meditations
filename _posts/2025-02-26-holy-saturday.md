@@ -3,7 +3,6 @@ layout: homily
 title: "Holy Saturday"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

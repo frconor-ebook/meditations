@@ -3,7 +3,6 @@ layout: homily
 title: "Dedication of the Basilica of St. Mary Major"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

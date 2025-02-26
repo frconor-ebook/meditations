@@ -3,7 +3,6 @@ layout: homily
 title: "St. Thomas More"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

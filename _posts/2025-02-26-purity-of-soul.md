@@ -3,7 +3,6 @@ layout: homily
 title: "Purity of Soul"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

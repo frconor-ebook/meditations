@@ -3,7 +3,6 @@ layout: homily
 title: "St. Francis Xavier"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

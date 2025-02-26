@@ -3,7 +3,6 @@ layout: homily
 title: "Love for Our Vocation"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

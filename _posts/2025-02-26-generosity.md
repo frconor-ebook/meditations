@@ -3,7 +3,6 @@ layout: homily
 title: "Generosity"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)
@@ -329,3 +328,209 @@ and know how to smile.
 We\'re told in *The Forge*, "Lord, may your children be like red-hot
 coals, but without flames to be seen from afar. Let them be burning
 embers that will set alight each heart they come into contact with.
+---You will make that first spark turn into a burning fire because your
+Angels are very skilled at blowing on embers in hearts\...I know, I have
+seen it. And a heart cleared of dead ashes cannot but be yours" (J.
+Escrivá, *The Forge*, Point 9).
+
+We have to look again at all the gifts that God has given to us.
+There\'s a phrase in Scripture that says, *si* *scires donum Dei*--"if
+you knew the gift of God..." (John 4:10).
+
+With divine grace, we perhaps come to see with greater clarity, with the
+course of time, the magnitude of the gifts that God has given to us, the
+graces that He hasn\'t given to so many other people, and therefore, the
+divine calls that God has given to us to respond to those graces.
+
+He\'s waiting for, and He wants, our generous effort. He\'s asked us to
+"put out a little from the shore" (Luke 5:3), and then later on, He asks
+us for everything: an abandonment without limits.
+
+To live with God means to run risks. Our Lord is not happy sharing.
+
+And love has some clear expressions. It\'s founded on sacrifice,
+manifested in external works. Charity has to be demonstrative, has to be
+seen, concrete deeds.
+
+That\'s where Our Lord wants our generous correspondence: in concrete
+things.
+
+We\'re told to go closer to Him, to be ready for a new conversion, a new
+rectification, to listen more closely to His inspirations, those holy
+desires which He brings out in our souls, and to put them into practice.
+
+Every few months and every few years, the Holy Spirit whispers in our
+soul, in our heart, through the channels that are given to us, maybe
+outlining new horizons, new great targets, new wonderful ideals.
+
+Ultimately that ideal is the ideal to follow Christ, to imitate Him, to
+identify ourselves with Him. "I do not live, but Christ lives in me"
+(Gal. 2:20).
+
+Heroic sanctity is the demand of the calling we\'ve received. "Leaving
+all things, they followed him (Luke 5:11). *Relictis omnibus*.
+
+It\'s worth everything.
+
+It\'s worth everything, and to demand that same everything from people
+around us, asking great things so that all the plans of God can be
+fulfilled, giving Our Lord everything, not just in the budget, but in
+cash; in concrete ways, in every moment, each of the moments of our
+life.
+
+It\'s not compatible with criticizing, or complaining, or carping, or
+loving ourselves in all sorts of ways.
+
+Sometimes, the thing that God may ask from us is our comfort, our
+complacency, aspects of our egoism, and our selfishness.
+
+To win a war, we\'re told, it\'s sufficient normally to win the last
+battle. But in the interior life, we must be trying to win all of them.
+
+Woe to him who is not trying to win all, because it might happen that
+one of those last battles might be the last, and so the soul might lose
+the war.
+
+What\'s the most important thing of all? Persevere up to the end. Save
+yourself.
+
+St. Paul says, "Let each one carry the burdens of the other" (Gal.
+6:2)---generous in looking out for other people, in that grace of
+charity that Our Lord has given to us, with a new beginning in that
+area, finding new ways to reach out to others.
+
+Be daring. You have the help of Our Lady, Queen of Apostles, Our Mother,
+who, without stopping to act as a mother, knows how to place her
+children in front of their responsibilities.
+
+Mary does the great favor of bringing to the Cross those who go close to
+her and contemplate her life. She puts before them the example of the
+Son of God.
+
+Our Lady takes us by the hand and places us in front of our
+responsibilities. Greater responsibility has to lead us to that more
+generous correspondence to grace; to maintain, but also to strengthen
+that generosity, not just to maintain it and diminish it.
+
+Every so often, the Church places in front of us for our contemplation
+new examples of the generosity of Christ. The generosity of the Child in
+the manger. The generosity of the Cross.
+
+Christ gives us the best. And so, we have to try and give others the
+best that we have, following also that example that Our Lord gave us:
+the generosity of His precious blood, shed in abundance, not just one
+drop.
+
+There was a superabundance. His generosity in the tabernacle, on the
+Cross. In Bethlehem, nobody holds anything back.
+
+One of the keys to that generous correspondence is not to hold anything
+back, to go forward in all the virtues. We can always be improving.
+
+Generous in moments of humiliation.
+
+Generous to have a great faith in difficult moments.
+
+Generous where, maybe in areas we told God to wait: I don\'t want to
+grow in that particular area at this particular moment.
+
+Generous with our self-surrender in all sorts of ways.
+
+"To give, and not to count the cost.\
+To fight, and not to heed the wounds.\
+To toil, and not to seek rest.\
+To labor, and not to seek any reward" (St. Ignatius of Loyola,
+*Prayer*).
+
+Hopefully, by giving that example of generosity in all the things that
+God has asked of us, we spread that example further. It\'s one of the
+ways we create a greater peace around us.
+
+When there\'s generosity and self-giving in the family, there\'s peace,
+serenity, joy.
+
+Happiness in this world is found to a large extent in giving and in
+self-giving. Part of that is forgetting all about ourselves.
+
+Christ left nothing for Himself. He loves to see a reflection of His
+generosity in souls around Him. He\'s promised all sorts of rewards to
+the generous. "I promise you a hundredfold" (*cf*. Mark 10:29-30).
+
+We find that Mary of Bethany produced a genuine nard of great value.
+Judas, who knew the price of everything but the value of nothing, asked,
+"Why was this not sold for three hundred *denarii*?" (John 12:3-8).
+
+Commentators say that was the equivalent of a year\'s wages. It was a
+lot of money.
+
+We can ask Our Lord for the grace not to get attached to small things:
+clothes, time, energy. To accept humbly and generously our limitations.
+To struggle generously to overcome our defects. To be generous in our
+work.
+
+To be generous in our order: have specific targets. Things to be done at
+a certain time and a certain day. Do the least pleasant tasks first. Get
+them out of the way.
+
+Be ready to help with an upright intention. Anyone who may need our
+help. Be available. Be ready to do favors for people who ask us to do
+favors.
+
+Be generous to accept people as they are, without attaching too much
+importance to their defects.
+
+Be generous in giving a positive tone to our conversations. People love
+to be with people who talk positively about things all the time.
+Avoiding negative criticism.
+
+Be generous in making it easier for people around us to come closer to
+us, not being deterred by the humbler chores.
+
+Be generous in giving other people the benefit of the doubt.
+
+In all this, while being closer to Christ.
+
+We are told in *The Forge*: "We should offer the Lord the sacrifice of
+Abel. A sacrifice of young unblemished flesh, the best of the flock; of
+healthy and holy flesh; a sacrifice of hearts that have one love
+alone---you, my God. A sacrifice of minds, which have been shaped
+through deep study and will surrender to your Wisdom; of childlike souls
+who will think only of pleasing you. ---Lord, receive even now this
+sweet and fragrant sacrifice" (J. Escrivá, *The Forge*, Point 43).
+
+"We have to learn how to give ourselves," we're told in *The Forge*
+(Point 44) "to burn before God like the light that is placed on the
+lampstand to give light to those who walk in darkness; like the
+sanctuary lamps that burn by the altar, giving off the light to the last
+drop is consumed."
+
+The Lord, the teacher of love, is a jealous lover who asks for all we
+possess, for all our love. He expects us to offer Him whatever we have
+and to follow the path He has marked out for each one of us.
+
+Our Lady, at the Annunciation, gave Our Lord a blank check. "Be it done
+unto me according to your word" (Luke 1:38). Whatever it is you want to
+demand of me. The sky\'s the limit.
+
+To go to visit Elizabeth. To go to Bethlehem with nothing. To go to
+Egypt. To come back to Nazareth. And ultimately, to be at the foot of
+the Cross.
+
+"Our Lady is the model of all the virtues," we\'re told in the
+*Catechism*. In particular, the model of the virtue of generosity. She
+never stops giving; fulfilling, right to the very end, that desire of
+generosity that she said at the Annunciation.
+
+Mary, as we look forward to your Queenship, your reward for your
+generosity, may you encourage us to have that same correspondence to
+grace that you had in the course of your life.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*EW*

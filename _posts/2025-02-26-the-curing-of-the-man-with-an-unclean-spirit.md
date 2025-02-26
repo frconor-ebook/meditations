@@ -3,7 +3,6 @@ layout: homily
 title: "The Curing of the Man with an Unclean Spirit"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)
@@ -300,3 +299,135 @@ road to Emmaus.
 
 In the *Furrow*, St. Josemaría says, "'Stay with us, it is towards
 evening. ...' The prayer of Cleophas and his companion was effective.
+---How sad it would be if you and I were not able to 'detain' Jesus who
+is passing by! What a shame not to ask him to stay!" (J. Escrivá,
+*Furrow*, Point 671).
+
+In a document of the Second Vatican Council called *Dei verbum*, it
+says, "It is common knowledge that among all the Scriptures, even those
+of the New Testament, the Gospels have a special preeminence, and
+rightly so, for they are the principal witness for the life and teaching
+of the incarnate Word, our Savior."
+
+We find beautiful things there. \[St. Augustine\] once remarked, "In the
+pages of Aristotle and Socrates, Plato and Cicero, I have read many
+wonderful things. But nowhere have I read: 'Come to me, all you who
+labor and are heavy burdened.'"
+
+The fact is that Our Lord\'s words have a height and depth that other
+words lack, whether they be of philosophers, politicians, or poets.
+
+Our Lord\'s words are "words of life," as they are defined in the New
+Testament (John 6:68). They contain, they express, they communicate
+eternal life, the fullness of life.
+
+And the Gospel often exerts its fascination even on those who are
+strangers to the Christian world. I heard of a fellow in Hong Kong who
+grew up in, I think, a Catholic school. About 5 percent of the
+population are Catholic. Many people go to Catholic schools. Generally,
+they are, all over Asia, the best schools and hospitals, the Catholic
+schools and hospitals.
+
+Many people there don\'t convert while they\'re young, but often they
+convert much later in life. This fellow went to study in Canada and then
+he decided to read the New Testament, just to get to know something
+about Christianity, for cultural reasons more than anything else.
+
+But as he read the Gospels, he began to be fascinated by this man,
+Jesus, and fascinated by the answers of Our Lord to the questions that
+He was asked. He began to see, 'Wow, this guy Jesus was very clever!
+Those are very clever answers!'
+
+As he read through the Gospel, when he saw a question, he would cover
+the page to see, 'How would I answer that question?'
+
+Then he would think of an answer, and then he would take away his hand
+and see the answer of Jesus, and say, 'Oh, the answer of Jesus is so
+brilliant!' He was really attracted by this.
+
+One time he came across the question Our Lord was asked: "To whom should
+we give tribute? To God or Caesar?" And he covered the page, and he
+thought long and hard about an answer.
+
+He came up with a big, long answer. But then he took his hand away and
+he found just sixteen words: "Render unto Caesar the things that are
+Caesar\'s, and to God the things that are God\'s" (Mark 12:17).
+
+Soon after, he converted to Catholicism and eventually he was ordained a
+priest. He\'s now a Chinese priest living in Hong Kong.
+
+The words of Jesus are powerful, and the Gospels are the main witnesses
+of His life.
+
+\[*Dei verbum* continues\], "The Sacred Synod also earnestly and
+especially urges all the Christian faithful...to learn by frequent
+reading of the divine Scriptures, the 'excellent knowledge of Jesus
+Christ' (Phil 3:8). St. Jerome says, 'For ignorance of the Scriptures is
+ignorance of Christ'" (St. Jerome, *Commentary on Isaiah*).
+
+"And let them remember that prayer should accompany the reading of
+Sacred Scripture, so that God and man may talk together, as St. Ambrose
+says, 'we speak to him when we pray; we hear him when we read the divine
+sayings'" (St. Ambrose, *On the Duties of Ministers*, as quoted in *Dei
+verbum*, Point 25).
+
+"Without the Scriptures, the events of the mission of Jesus and of his
+Church in this world would remain incomprehensible. St. Jerome was
+rightly able to proclaim that 'ignorance of the Scriptures is ignorance
+of Christ.' ... The risen Lord opens up for us the treasury of his word
+and enables us to proclaim the unfathomable riches before the world"
+(Pope Francis, Apostolic Letter, *Aperuit illis*, September 30, 2019).
+
+St. Ephraim says, "Who is able to understand, Lord, all the richness of
+even one of your words? There is more that eludes us than what we can
+understand. We are like the thirsty drinking from a fountain.
+
+"Your word has as many aspects as the perspectives of those who study
+it. The Lord has colored his word with diverse beauties, so that those
+who study it can contemplate what he stirs in them. He has hidden in his
+word all treasures, so that each of us may find a richness in what he or
+she contemplates" (St. Ephraim, *Commentary on the Diatessaron*).
+
+I heard a British Lord at a conference once saying that only
+Christianity is capable of changing the hearts of men. Governments
+can\'t do so. NGOs can\'t do so. It\'s the power of Christianity that\'s
+written the Gospels to change hearts.
+
+In Our Lady, we have the Virgin of Listening. Mary is an icon of
+fruitful listening to the Word. She teaches us to welcome it, to care
+for it, to meditate on it without ceasing.
+
+Mary, for her part, we\'re told, "treasured all these things, meditating
+on them in her heart" (*cf*. Luke 2:19).
+
+St. John Paul says she\'s the perfect image of the Church (John Paul II,
+*General Audience*, September 6, 1995).
+
+Mary allows herself to be formed by the word of God: "Let it be done
+unto me according to your word" (Luke 1:38).
+
+In listening, she makes a gift of love. The Virgin of the Annunciation
+goes to Elizabeth to help her in her need. Mary presents herself in the
+Visitation as the mother of love. "How is it that the mother of my Lord
+should come to me?" Her voice is the bearer of messianic joy: "When the
+voice of your greeting came to my ears, the child in my womb leapt for
+joy."
+
+Her blessedness is to have heard and believed the word of the Eternal:
+"Blessed is she who believed that the Lord would fulfill his words to
+her" (Luke 1:43-45).
+
+St. John Paul says, "I ask Mary, Creature of the Word, who intercedes
+for us in the glory of God, to help us to live as she did in listening
+to the Word, to welcome the Word of life and bring him to others, in
+transparency and the concerns of our everyday life."
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*MVF*

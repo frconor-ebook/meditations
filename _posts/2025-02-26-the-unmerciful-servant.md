@@ -3,7 +3,6 @@ layout: homily
 title: "The Unmerciful Servant"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*
@@ -376,3 +375,102 @@ life becomes more joyful and more serene, and trifles don\'t upset us.
 
 We're told in the *Furrow,* *"It is* true that life, which by its nature
 is already rather narrow and uncertain, sometimes becomes difficult.
+---But that will help you to become more supernatural and to see the
+hand of God \[in everything\]. Then you will be more human and
+understanding with those around you" (J. Escrivá, *Furrow*, Point 762).
+
+There is probably nothing that attracts people more to the apostolate
+than that they see that loving heart that is there inside us: our words,
+our gestures, the atmosphere we carry with us.
+
+We have to try and see the good in other people. It is a very healthy
+thing. Whenever we get that temptation to criticize or to judge, or the
+devil stirs up some negative feeling inside us, to immediately think of
+all the good that person has done in their life, how they are struggling
+for holiness, with their talents, their abilities, their fidelity.
+
+"We have to understand everyone," says St. Josemaría. "We must live
+peaceably with everyone; we must forgive everyone. We shall not call
+injustice, justice; we shall not say that an offense against God is not
+an offense against God, or that evil is good.
+
+"When confronted by evil, we shall not reply with another evil, but
+rather with sound doctrine and good actions: drowning evil in an
+abundance of good (Rom. 12:21; J. Escrivá, *Christ Is* *Passing By*,
+Point 182).
+
+Great phrase: "drowning evil." How can I drown evil?
+
+Lord, help me to summon up that abundance of good with which you want me
+to flood this world, flood my environment, my workplace, my family life,
+my dealings with others.
+
+We will not commit the error of that mean servant, who himself having
+been forgiven so much, was not capable of pardoning even a little.
+Forgiven so much by his master, and then he went out and throttled the
+person who owed him something (Matt. 18:23-30).
+
+How many family arguments would resolve themselves in the recognition of
+responsibilities and duties if we were to concede that this ugly detail,
+that untimely event, has been due to the tiredness of the person
+concerned after a long and difficult day?
+
+We're told in the *Furrow*, "While you continue to interpret in bad
+faith the intentions of your neighbor, you have no right to demand that
+people should be understanding with you" (J. Escrivá, *Furrow*, Point
+635).
+
+We can ask Our Lord to purify our memory; help us to wipe the slate
+clean.
+
+In Cana of Galilee (John 2:1-12), Our Lady doesn\'t deplore or criticize
+the lack of wine. 'How can they have organized this thing so badly? How
+can they not be foreseen?'
+
+She doesn\'t let loose with a whole series of criticisms of her friends.
+She helps to find a solution to the need.
+
+We ask Our Lady how to forgive, and she\'ll teach us.
+
+She\'ll teach us how to struggle to cultivate in our own lives those
+very virtues that sometimes might seem to be lacking in others. And then
+we\'ll be in a position to help them a little more.
+
+Understanding and forgiving are the most radical manifestations of love.
+We find on the Cross Our Lord\'s final words among those radical
+manifestations: words of love, understanding, and forgiving.
+
+In spite of the incredible tortures and insults that He was given, He\'s
+our example of patience. He carried the Cross, a symbol of injustice and
+death.
+
+He invites us to carry our cross patiently, in a world that\'s often
+unfair, indifferent, violent, and rude. With our formation, possibly we
+might be all the more sensitive to all of those things.
+
+But Our Lord invites us to pray for those who put us down, so that we
+would be called children of God.
+
+Our Lady is "the Mother of Mercy because her Son, Jesus Christ,
+was...the revelation of God\'s mercy" (John Paul II,
+Encyclical,*Veritatis splendor*, August 6, 1993).
+
+Mary magnifies God\'s mercy. "My soul magnifies the Lord, and my spirit
+rejoices in God my Savior" (Luke 1:46).
+
+She is "the one who has the deepest knowledge of...God\'s mercy. She
+knows its price, she knows how great it is" (John Paul II, *Dives in
+misericordia*, November 30, 1980).
+
+Mary, may you help me to magnify also that spirit of forgiving in my
+soul.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*KI*

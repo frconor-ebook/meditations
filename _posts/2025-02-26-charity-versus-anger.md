@@ -3,7 +3,6 @@ layout: homily
 title: "Charity versus Anger"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

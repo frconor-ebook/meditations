@@ -3,7 +3,6 @@ layout: homily
 title: "Rich Before God"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

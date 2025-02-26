@@ -3,7 +3,6 @@ layout: homily
 title: "The Son of the Carpenter"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

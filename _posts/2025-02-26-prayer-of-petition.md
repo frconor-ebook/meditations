@@ -3,7 +3,6 @@ layout: homily
 title: "Prayer of Petition"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

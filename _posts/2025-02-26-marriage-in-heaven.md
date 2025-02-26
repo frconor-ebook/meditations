@@ -3,7 +3,6 @@ layout: homily
 title: "Marriage in Heaven"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*

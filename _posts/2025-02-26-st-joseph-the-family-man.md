@@ -1,8 +1,7 @@
 ---
 layout: homily
-title: "St. Joseph, the Family Man"
+title: "St. Joseph, The Family Man"
 ---
-
 
 By Fr. Conor Donnelly
 
@@ -40,7 +39,7 @@ know your father and I were seeking you anxiously?" (Luke 2:48).
 
 Notice how Our Lady says, "Your father and I." The dignity of Our Lady,
 her role, her mission is way above that of St. Joseph, but yet in this
-instance, she places St, Joseph first, rather interestingly---respect
+instance, she places St. Joseph first, rather interestingly---respect
 for Joseph as father of the family. "Your father and I have been seeking
 you sorrowfully."
 
@@ -53,7 +52,7 @@ not know that I must be about my Father\'s business?"
 We're told, "They did not understand the words that he spoke to them"
 (Luke 2:50).
 
-It is not surprising that they did not understand. They have been
+It is not surprising that they did not understand. They had been
 sorrowfully looking for Him for three days and then He comes out with
 this rather unusual statement: "Did you not know that I must be about my
 Father\'s business?"
@@ -85,7 +84,7 @@ of his words are recorded for posterity.
 daily in wisdom, in age, in grace before God and men" (Luke 2:51-52).
 
 St. Josemaría liked to give a lot of importance to the fact that Our
-Lord spent thirty years of hidden life, family life,, in Nazareth. Jesus
+Lord spent thirty years of hidden life, family life, in Nazareth. Jesus
 communicates a great sense of importance to the family.
 
 He had three years of public life but He had thirty years of family
@@ -104,7 +103,7 @@ If you are involved in forming children, you may find you have to repeat
 things hundreds of times before the child understands. That can be quite
 exasperating, but it can be very sanctifying.
 
-Our Lord was "like us in all things but sin" (cf. Heb 4:15). Like any
+Our Lord was "like us in all things but sin" (*cf*. Heb 4:15). Like any
 child, He knew everything already with His divine nature, but He had to
 learn things with His human nature: to learn how to speak, to learn how
 to make tables, to learn how to be a carpenter. Joseph was there to
@@ -124,10 +123,10 @@ Joseph has a great formative role. In the formative role that God places
 in our life where we form other people in virtue, we can ask him to help
 us in this.
 
-"Joseph taught Our Lord to walk, taking Him by the hand; he was for
+"Joseph taught Our Lord to walk, taking him by the hand; he was for
 Jesus like a father who raises an infant to his cheeks, bending down to
-Him and feeding Him. He was a tender and loving father" (Pope Francis,
-Apostolic Letter, *Patris Corde*, Dec. 8, 2020).
+him and feeding him. ... He was a tender and loving father" (Pope
+Francis, Apostolic Letter, *Patris Corde*, Point 2, Dec. 8, 2020).
 
 A great family man. A sensitivity for the family. St. Joseph wants each
 one of us to have that same type of sensitivity for those
@@ -135,8 +134,9 @@ things---family values. Family values are family priorities. Families
 come first.
 
 We are in the business of forming families. The Second Vatican Council
-liked to talk about the family as the domestic Church *(Lumen gentium*,
-Point 11)*.* That\'s a great phrase, the domestic Church.
+liked to talk about the family as the domestic Church *(*Vatican II,
+*Lumen gentium*, Point 11)*.* That\'s a great phrase: the domestic
+Church.
 
 St. Joseph is the patron of the universal Church (Pope Pius IX,
 *Quemadmodum Deus*, 1870). If he is the patron of the Church, in a very
@@ -160,7 +160,7 @@ St. Joseph was a great family man, building that family, taking care of
 that family, leading it forward to be the family that God had destined
 it to be for all eternity---the Holy Family.
 
-All the time. Our Lord was formed in the virtues that He was going to
+All the time, Our Lord was formed in the virtues that He was going to
 exhibit on His way to Calvary.
 
 Christ was a very tough man. He hung for three long hours on the Cross.
@@ -171,7 +171,7 @@ We could think of that toughness, that fortitude, as being something
 that He must have learned from Joseph.
 
 After the birth of Christ, in the second dream, the angel tells Joseph,
-"Get up, take the child and His Mother and flee into Egypt, and remain
+"Get up, take the child and his mother and flee into Egypt, and remain
 there until I tell you" (Matt. 2:13).
 
 God treats Joseph pretty roughly. If ever we were to feel that God has
@@ -185,14 +185,14 @@ you come to me at some other moment?'
 But Joseph has the patience to accept the will of God in all the ways
 that it comes to him.
 
-The angel asked him to react quickly:"Get up, take the child and His
-Mother, and flee into Egypt." Don\'t wait until tomorrow. Don\'t sleep
+The angel asked him to react quickly: "Get up, take the child and his
+mother, and flee into Egypt." Don\'t wait until tomorrow. Don\'t sleep
 on it. Don\'t wait until you feel good, you feel right, and you feel
 prepared. Just go. There\'s an army of maybe a thousand soldiers or a
 hundred soldiers that are coming looking for you.
 
-It\'s not a very comfortable way to fly to another country. But Joseph
-did not hesitate to obey.
+It\'s not a very comfortable way to fly to another country. But "Joseph
+did not hesitate to obey" (Pope Francis, *ibid*., Point 3).
 
 Another example of Joseph\'s humility is expressed in his obedience:
 obedience to the will of God, to what God asks of him.
@@ -245,12 +245,12 @@ to do. But just the fact that we\'re asked to do it, that\'s reason
 enough to try and do it. We might have to question it a little bit, but
 then we go and do it.
 
-God revealed His plans, His saving plans to Joseph, and God did so by
-using dreams. Normally we don\'t have to pay too much attention to our
-dreams. We live in the real world.
+God revealed His saving plans to Joseph, and God did so by using dreams.
+Normally we don\'t have to pay too much attention to our dreams; we live
+in the real world.
 
-But he was very clear there was an angel that appeared to him. That was
-the way God made His will known.
+But here, it was very clear there was an angel that appeared to him.
+That was the way God made His will known.
 
 Joseph gets the message. His response is immediate. We\'re told he woke
 from sleep and he did as the angel of the Lord commanded him (Matt.
@@ -261,7 +261,7 @@ difficulties. It\'s part of the protection of Our Lady that God has
 planned.
 
 Then he\'s told to go to Egypt and remain there until the death of
-Herod. "Until I tell you, remain there."
+Herod. "Until I tell you, remain there" (Matt. 2:13).
 
 An awful lot of our life involves "remaining there" in this job, in this
 place, in this family; with this sickness, or this difficulty, or this
@@ -280,7 +280,7 @@ give birth than in this stable.' Or, 'All I have is a donkey. All my
 friends now have a motorbike.'
 
 He could have come up with all these comparisons with his friends,
-people of his age, or people who were my classmates.
+people of his age, or people who were his classmates.
 
 But he wasn\'t thinking along those sorts of lines. If we look at our
 situation from a purely human perspective, we don\'t get the full
@@ -292,8 +292,8 @@ will of God for me? What are the blessings that He\'s given to me?
 If we were to spend our whole day thanking God for the blessings that He
 gives us, we wouldn\'t have enough time in the day to do so.
 
-We see people maybe who don\'t have limbs, don\'t have an arm or a leg,
-can\'t walk, and yet God has given us our four limbs and maybe our
+We see people, maybe, who don\'t have limbs, don\'t have an arm or a
+leg, can\'t walk, and yet God has given us our four limbs and maybe, our
 health, and our energy, and our job, and our this and our that, and
 clothes on our back.
 
@@ -314,12 +314,12 @@ placed me, content with knowing how to be where we are.
 also said the same thing to us that He said to St. Joseph: Remain there,
 be there, learn how to be happy.
 
-There\'s a phrase or a point in *The Way* (Point 631) where St.
-Josemaría says, "Be content with what enables you to lead a simple and
-sober life." Those are rather interesting words. "Be content." How many
-people do you know in your life who are content?
+There\'s a point in *The Way* (Point 631) where St. Josemaría Escrivá
+says, "Be content with what enables you to lead a simple and sober
+life." Those are rather interesting words. "Be content." How many people
+do you know in your life who are content?
 
-Most of the people we know, they want this or they want that or they
+Most of the people we know, they want this, or they want that, or they
 want to be somewhere else, or they want to change here or there. We can
 all find something to be discontented about.
 
@@ -336,17 +336,16 @@ with a new job.
 Joseph had no job when he went to Egypt; no security, no house, no
 salary, no friends, no support, no nothing.
 
-If we find ourselves starting new in some place, we can ask St. Joseph.
-He\'s been there before. He\'ll open the doors for us---or at least
-he\'ll give us peace and serenity.
+If we find ourselves starting off new in some place, we can ask St.
+Joseph. He\'s been there before. He\'ll open the doors for us---or at
+least he\'ll give us peace and serenity.
 
 He faced this situation with resignation, with enthusiasm. "He got up,
 took the child and His Mother by night, went to Egypt, and remained
-there until the death of Herod."
-
-He waited with patient trust for the angel to come and tell them it was
-safe to return home. We don\'t know how long that was because that\'s
-not been revealed. It could have been months, it could have been years.
+there until the death of Herod" (Matt. 2:14). He waited with patient
+trust for the angel to come and tell them it was safe to return home. We
+don\'t know how long that was because that\'s not been revealed. It
+could have been months, it could have been years.
 
 But they knew how to wait. Patience. Patience with the plans of God in
 our life.
@@ -359,19 +358,19 @@ When the angel appeared, again he promptly obeyed. "He got up and he
 took the child and His mother and went to the land of Israel" (Matt.
 2:21).
 
-During the return journey, we\'re told,"When Joseph heard that Archelaus
-was ruling over Judea in the place of his father Herod, he was afraid to
-go there" (Matt. 2:22).
+During the return journey, we\'re told, "When Joseph heard that
+Archelaus was ruling over Judea in the place of his father Herod, he was
+afraid to go there" (Matt. 2:22).
 
 The angel told him to get up and go to the land of Israel, but he
 didn\'t give him directions, to say, 'Look, follow your Google Maps and
-wait till I tell you where to turn left and where to turn right.
+wait till I tell you where to turn left and where to turn right.'
 
 No, he just gave him a general sort of push in a certain direction, but
 left an awful lot up to his initiative.
 
 Joseph had to keep his ear to the ground. "When he heard that Archelaus
-was ruling over Judea in the place of his father Herod\..." he knew that
+was ruling over Judea in place of his father Herod\..." he knew that
 wasn\'t a good sign, that wasn\'t a good thing.
 
 God left a lot up to his freedom, to his correspondence. He wanted him
@@ -405,14 +404,14 @@ lives. We see the fruits of what\'s happening around us. We see the
 fruits of our apostolate.
 
 There was a moment when Our Lady and St. Joseph brought the child Jesus
-to the temple to present Him in the temple, and up to now they\'ve heard
+to the temple to present Him in the temple, and up to now they\'d heard
 stories of joy. The shepherds brought a story of joy, the Magi brought a
 story of joy (Luke 2:13-18, Matt. 2:10-11).
 
 But now they meet Simeon, and Simeon talks to Our Lady and mentions to
 her about how there\'s going to be "a sword that\'s going to pierce her
-soul"---which in modern language means your heart is going to be broken.
-(Luke 2: 25-35).
+\[soul\]"---which in modern language means your heart is going to be
+broken. (Luke 2:25-35).
 
 It\'s the first message they hear of the Cross.
 
@@ -421,7 +420,8 @@ child Jesus. We are preparing ourselves for Easter, for Holy Week, for
 Lent. It\'s very appropriate that we\'re a bit focused on the Cross.
 
 John Paul II used to say that in Christ we find the meaning and the
-purpose of our life.
+purpose of our life (*cf*. Pope John Paul II, *Homily*, World Youth Day,
+August 14, 1993).
 
 Very specifically, we could say we find the meaning and the purpose of
 our life in Christ on the Cross. These are weeks to focus on the Cross
@@ -455,11 +455,12 @@ Christ was going to say, "My food is to do the will of him who sent me"
 
 There was an Irish lady once who gave an awful lot of money to Catholic
 charities in her life. The story was that she died and she went to
-heaven and she found her name was not on the Book of Life. She told the
-gatekeeper in heaven, 'Look, I gave an awful lot of money to Catholic
-charities in my life and now my name is not on the Book of Life. I think
-there\'s been some mistake here. Can you tell St. Patrick to come out
-here? I\'d like to have a word with him.'
+heaven and she found her name was not on the Book of Life.
+
+She told the gatekeeper in heaven, 'Look, I gave an awful lot of money
+to Catholic charities in my life and now my name is not on the Book of
+Life. I think there\'s been some mistake here. Can you tell St. Patrick
+to come out here? I\'d like to have a word with him.'
 
 St. Patrick comes out and she has a word with St. Patrick and says,
 'Look, I gave an awful lot of money to Catholic charities in my life and
@@ -487,8 +488,9 @@ may cost, so that even at the most difficult moments of our life, like
 Christ in Gethsemane we can learn how to do the Father\'s will:
 "obedient unto death, even death on a cross" (Phil. 2:8).
 
-St. Joseph was called by God to serve the person and the mission of
-Jesus.
+"St. Joseph was called by God to serve the person and the mission of
+Jesus" (John Paul II, Apostolic Exhortation, *Redemptoris Custos*, Point
+8, August 15, 1989, quoted by Pope Francis in *Patris Corde,* Point 3).
 
 If you have young children entrusted to your care, or a home or a
 family, you\'re also entrusted with the care of those people, of their
@@ -526,9 +528,9 @@ We conquer our own self-love. You see, the greatest obstacle in our
 spiritual life is that I love myself too much---egoism, selfishness.
 
 We might do things for other people, but often, if the truth were told,
-it\'s done 20, 30 percent for other people, maybe 70 percent because
-there\'s something in it for me. The goal of our spiritual life is to
-stand on that self-love.
+it\'s done twenty, thirty percent for other people, maybe seventy
+percent, because 'there\'s something in it for me.' The goal of our
+spiritual life is to stand on that self-love.
 
 A lady used to come to spiritual direction in another country. I told
 her that every time you come for spiritual direction, try and get one
@@ -546,17 +548,17 @@ I had never remembered saying any such thing. Sometimes people pick up
 things in spiritual direction and you wonder where they came from. But
 it\'s the Holy Spirit working.
 
-She said, 'The following day after Mass, I was having breakfast with
+She said, "The following day after Mass, I was having breakfast with
 some friends of mine and we were joined by some other friends who
 weren\'t Catholic. One of them was a Buddhist, and then everybody got up
 to go, because they had to go home or go to work, and I was left with
 this Buddhist friend of mine. We were chit-chatting for a while and
-suddenly in the conversation she said, You know, the ego must go.'
+suddenly in the conversation she said, 'You know, the ego must go.'"
 
-And she said, 'You know, I always knew the Holy Spirit works through
+And she said, "You know, I always knew the Holy Spirit works through
 spiritual direction, but when I got exactly the same message from this
 Buddhist lady within 24 hours, I really felt the Holy Spirit was working
-overtime.'
+overtime."
 
 One of the goals of our spiritual life is that we conquer the ego, that
 self-love that\'s there inside us. That\'s what\'s called pride. Ask St.
@@ -569,8 +571,8 @@ silent, not attracting attention to himself, serving---and serving, not
 with resignation, but with hope and courage, leaving a great message for
 the whole of humanity through the virtues that he practiced.
 
-At the end of this recollection, you can tell Our Lady that we want to
-be a little bit more focused on her spouse during these hours and days.
+At the end of this recollection, we can tell Our Lady that we want to be
+a little bit more focused on her spouse during these hours and days.
 
 Our Lady and Our Lord must be very happy when they see us giving time
 and attention to St. Joseph, whom they love so much. They must be very

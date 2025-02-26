@@ -3,7 +3,6 @@ layout: homily
 title: "Listening"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

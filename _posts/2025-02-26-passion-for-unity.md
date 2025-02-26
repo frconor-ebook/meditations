@@ -3,7 +3,6 @@ layout: homily
 title: "Passion for Unity"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

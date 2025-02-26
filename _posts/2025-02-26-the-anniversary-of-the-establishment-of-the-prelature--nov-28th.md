@@ -1,0 +1,440 @@
+---
+layout: homily
+title: "The Anniversary of the Establishment of the Prelature – Nov. 28th"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+*"Blessed be God the Father of Our Lord Jesus Christ,"* says St. Paul to
+the Ephesians, *"who has blessed us with all spiritual blessings of
+heaven in Christ."*
+
+Today is a day of thanksgiving in the Prelature, because it\'s the
+anniversary of the establishment of Opus Dei as a Personal Prelature by
+Pope St. John Paul II. This marked the culmination of a very long and
+tortuous juridical pathway that God wanted for our supernatural family,
+that pathway which was intimately tied up with the life of our Father.
+
+There are many things to be learned from this juridical pathway, partly
+responsible for the holiness of our Father. There is a big book called
+*The Canonical Path of Opus Dei*, which is a really good book to try and
+read at some stage in the course of your life. It reveals many things.
+
+Of course, the whole of that juridical pathway is now public knowledge
+for our edification, and also for our appreciation of what our Father
+did over all those years. The one thing he lived for was that juridical
+solution, because he knew as a lawyer that unless that juridical
+solution was carved in stone in the law of the Church, anything could
+happen over time.
+
+He made that a very central intention of his life; what was called at
+the time the "special intention." He died eventually without having seen
+that fulfilled, because it was the will of God that Don Álvaro would
+finish off that juridical pathway in a very special way.
+
+And so, today is a day of thanksgiving. As little children with a new
+maturity, we try to come to realize what that juridical pathway means,
+what the Prelature means in the history of the Church and in the history
+of the world.
+
+We\'re not just a few people, as our Father liked to say, who have
+decided to do something good. We are fulfilling an imperative command of
+Christ, a very special task that God has wanted for us.
+
+In the early days of the Work, our Father liked to point out how, to be
+holy, people went away from society. There were the early hermits; they
+became monks in the fifth century or so, and earlier. Then in the 11th
+or 12th century, there were the mendicant friars that went a bit more
+out into the world: they taught, they ran parishes, they did different
+things.
+
+In the 16th century, the Church took another step out into the world
+with the religious orders. After the Council of Trent, there was a great
+flourishing of religious orders all over the world, which are going to
+be the backbone of the Church for the next three or four centuries. Many
+of us grew up educated by those religious orders.
+
+But then our Father said it\'s as though on the 2nd of October 1928, God
+played His trump card. The Church steps out one step further out into
+the world, and it\'s not just monks or friars or priests or nuns that
+are called to be holy. Every person is called to be holy.
+
+This gets expressed in the Second Vatican Council, and also in all the
+statutes and spirit of the Prelature of Opus Dei. As we look to the
+coming centuries, where we are now in the vanguard of this battle---the
+evangelization of society, of culture, a new evangelization---on which
+so many great things depend.
+
+When the Father, in his latest letter, is preparing us for the 100th
+anniversary of the founding of the Work, 1928 to 2028, only eight years
+away, he\'s inviting us to dream. A dream like our Father did in the
+early years of the Work. A dream about overcoming all the obstacles like
+our Father did.
+
+*Inter medium montium pertransibunt aquae.* The waters will pass through
+the mountains. All difficulties will be overcome.
+
+But God wants us to live and to work with faith, with hope, with trust,
+with abandonment, living out our divine filiation. And God will work all
+the miracles. Even if the task of the evangelization of society may seem
+impossible, those are the same sentiments that our Father had in the
+early 1930s.
+
+He said to our first sisters, when there was one center in Madrid, as he
+painted the marvelous picture of the expansion of the Work, he said to
+them, "You can have two reactions. One is to say it\'s impossible, it's
+impossible; and the other, to launch out into the deep with faith and
+trust in God." He said, "I hope your reaction will be the second."
+
+Now the Work has spread all over the world. We are the inheritors of
+this great legacy.
+
+Today\'s feast day is a special day in the course of the year that
+invites us to stir up those memories in order to make resolutions for
+the future: resolutions to grow, to conquer our pride and selfishness;
+resolutions of a greater self-giving like our Father had; resolutions of
+not wanting to be the center of attention; to give ourselves to others a
+little more; to fulfill the norms better, with more love of God; to have
+a proselytistic fidelity---so that while we look back over the last
+ninety or so years and see all that has been accomplished, we also
+realize that this is nothing compared to what God wants us to do in the
+future.
+
+Don Álvaro talked a lot about the new flourishing of the Church in the
+world, and John Paul II talked in similar terms.
+
+The Second Vatican Council has placed the building blocks for that new
+flourishing and the Prelature of Opus Dei is one of those building
+blocks. That spirit has been entrusted to us.
+
+With great reason, Don Javier used to say 'the Work is now in our
+hands.' So many difficulties had to be overcome before the definitive
+juridical solution became a reality.
+
+We shouldn\'t be surprised if we find that all these things take time
+also. Little by little we have to go through all of these things:
+difficulties that have to be overcome, problems that have to be solved,
+all sorts of things that have to happen.
+
+Our role is to put one foot in front of the other. To persevere in the
+struggle. To think of the aspiration that our Father gave us of *vale la
+pena,* it\'s worth the effort. Begin again with a new fortitude.
+
+The difficulties that our Father encountered along that juridical
+pathway were a journey to holiness. They were divine calls.
+
+All the challenges that we might experience in the same way in relation
+to the development and expansion of the Work, horizontally or vertically
+in society, were also a divine call to that goal of our vocation. The
+difficulties make us grow in humility and in divine filiation.
+
+We are aware of the acts of the devil to stop that going through. There
+were many moments when the devil acted in very definite ways. Our Father
+was very conscious of that throughout our juridical history. He made us
+very aware of it. The devil did not want Opus Dei to go forward.
+
+Our Father also talked about the reality of providential injustices that
+he had to experience. It\'s a useful little adjective. We might
+experience injustice in some way or another in our work, in our
+marriage, in our family. Our Father helps us to put that adjective
+"providential" before it.
+
+After his ordination, shortly before he left Zaragoza, there was a
+providential injustice that led him to Madrid. It was in Madrid that God
+wanted Opus Dei to be born. God used that injustice to change the path
+in the course of his life, because He had greater plans.
+
+From 1951 onwards, our Father had greater recourse to Our Lady with the
+aspiration *Cor Mariae dulcissimum, iter para tutum*, Most Sweet Heart
+of Mary, make the way safe!
+
+All the time that aspiration referred to the juridical solution, so that
+in the course of his life, he might be able to fulfill the mission that
+God had given to him and see it completed, which he was now able to do
+in heaven.
+
+Don Álvaro said, after the establishment of the Prelature, that what God
+has done 'is worthy of us to be prostrate before God for the rest of our
+lives.' He resolved to lead a lifetime of thanksgiving.
+
+When Don Álvaro came to Manila in 1987, I was talking to him at one
+stage and telling him little anecdotes. Each time I told him something,
+he would say, "*Gracias a Dios, gracias a Dios*, thanks be to God."
+
+You could really sense that this business of leading a lifetime of
+thanksgiving was not just a nebulous idea. It was something he was
+putting into practice in a very concrete way. He invited us to sing a
+sort of a permanent *Te Deum*, praising God and thanking Him for this
+wonderful thing.
+
+It\'s now our grace to, little by little, come and try to understand
+those words---the meaning and the significance of the establishment of
+the Prelature---and to make new resolutions of fidelity, so that in the
+Work, as our Father taught us, we always live in the times of our
+Father.
+
+We\'ve heard the anecdote of how one time somebody mentioned to Don
+Álvaro: "That\'s how things were done in the times of our Father." Don
+Álvaro immediately said, "Please don\'t use that phrase, 'in the times
+of our Father,' as though it\'s something past that we can forget
+about."
+
+He said, "We will always be living in the times of our Father." Those
+times have to always be relevant to us; have something to say to us.
+
+Every step of that juridical pathway has formative points for
+us---things to learn---so that we understand the length and the breadth
+of the Prelature. We understand a little better the figure of our
+Father: who he was, what he did, the role of Don Álvaro.
+
+Even though decades have already passed since that establishment, we\'re
+still learning. One of the goals, Don Javier liked to say, for these
+decades, the early part of the 21st century, is a deeper understanding
+of the juridical configuration of the Prelature in the Church by people
+of the Church.
+
+Happily, nowadays people are getting more used to and more accustomed to
+say the words Personal Prelature, but that wasn\'t the case thirty or
+forty years ago.
+
+We have to continue on that pathway, and also be able to explain the
+Prelature. We don\'t have to go into in-depth canonical explanations,
+but we do have to have a couple of simple phrases when people ask us,
+What is a Personal Prelature?
+
+In gratitude to our Father for what he has given to us, we owe it to him
+that we have a few clear phrases up our sleeve. 'It\'s a relatively new
+jurisdiction in the Church of universal scope with its head in Rome. It
+gives formation to people, specifically helping them to sanctify their
+work into apostolate.'
+
+Even if we say one sentence like that, that\'s usually enough for most
+people. They don\'t need something too profound, but we do need to have
+those words ready at every moment.
+
+But at the same time, we continue to read, to study, to know a little
+bit more about this juridical configuration so that we see its beauty,
+its depth, so that we come to understand all the steps that our Father
+had to take, along with Don Álvaro, to make this new configuration
+crystal clear in the history of the Church.
+
+Our Father did not just found Opus Dei---he gave rise to a whole new
+juridical entity. Just like the entity of religious orders in the 16th
+century flourished in hundreds and hundreds of religious orders all over
+the world that became the backbone, and so in the coming centuries,
+there might be hundreds of Personal Prelatures.
+
+It's a whole new reality for the Church, and hence, it's very important
+for us to understand a little bit about this history, about what it
+means, about all the instruments that God used to bring it about.
+
+Our Father liked to say, and Don Álvaro, that God has done everything.
+We owe it to Him. We\'ve just been useless instruments. And so, a new
+humility.
+
+This feast day can lead us to be a little bit more united to the Father,
+to take his recent letter and go through it, syllable by syllable. All
+the letters that come to us from the Father have a profound importance
+for our spiritual life and our formation, and we need to go back and
+read them again and again.
+
+Also the early letters of our Father, of Don Álvaro, of Don
+Javier---they all have something to say to us. Retreat by retreat,
+annual course by annual course, we can\'t read these letters too much.
+
+Or if you live close to a center, try and make it your regular spiritual
+reading, so that we spend ourselves to be good children that our Father
+wanted us to be, with what he says, "a minimum of juridical mentality,"
+so that little children before a great gift, they stand in awe and
+amazement of the wonderful things that God has given to them, and know
+how to raise their heart and soul in thanksgiving, to make resolutions
+to give everything.
+
+Our Mass these days can be a Mass of special thanksgiving as we ask God
+for the grace to grow in all of these areas. Our Father says in *The
+Forge*: "My Lord, you always come to meet our real needs."
+
+An awful lot of the points of *The Forge* and the *Furrow* were
+inscribed in the soul of our Father through that juridical pathway---his
+experiences. \"Give thanks," he says, "often to Jesus for through Him,
+with Him, and in Him you are able to call yourself a child of God."
+Throughout this pathway our Father felt himself led by the hand to the
+different stages.
+
+One time in Rome, Don Álvaro told us near the end of that juridical
+pathway that he was with Pope John Paul II, who had mentally approved
+the canonical structure which was the exact structure, letter for
+letter, that our Father had left written. Our Father left three
+juridical solutions. If the first one wasn\'t approved, then we promote
+the second one. If not the second one, then we promote the third.
+
+But the one that Pope John Paul II approved was the first one, and all
+the difficulties and contradictions around that time led John Paul II,
+the vicar of Christ on earth, now canonized, to study personally, word
+for word, everything that our Father had left written. It wasn\'t some
+third secretary down the corridor.
+
+Don Álvaro liked to point out that all the contradictions had led to
+that great grace. When Pope John Paul finished reading everything that
+our Father had left written, he banged the table, he said, with his big
+fist and said, "This has to go through."
+
+Then at a later moment, Pope John Paul said to Don Álvaro when they were
+talking one time: "When do you want me to sign the papers?"
+
+See the confidence with which the Holy Father dealt with Don Álvaro. And
+Don Álvaro told us, "I told him, 'Holy Father, whenever you want.'"
+
+Then he explained to us: 'I told him that, because we want the juridical
+solution to come whenever God wants, not when we want.' It was another
+very supernatural lesson that Don Álvaro taught us, in wanting the will
+of God in everything.
+
+You see, Don Álvaro could have said to the Holy Father, "Well, Holy
+Father, you know I have 75,000 children all over the world who are
+offering their Mass every day for the last number of years and decades,
+and offering their lives, and their mortifications, and their prayer and
+work, and so many other things for this intention. Our Father died
+without it being fulfilled. So if you wouldn\'t mind here\'s a pen.
+Could you go and sign those papers right now......"
+
+But Don Álvaro didn\'t say that. He said, "Holy Father, we want it
+whenever you want."
+
+We can learn from all these great lessons that our Father and Don Álvaro
+teach us, to love the will of God at all moments, in all the ways that
+it comes to us. The juridical pathway speaks to us of heroic sanctity in
+all sorts of ways.
+
+In *The Forge,* our Father also says, "Thank you, Lord, because---as
+well as allowing us to be tempted---you also give us the strength and
+beauty of your grace so that we can win through! Thank you, Lord, for
+the temptations you allow us to have so that we may be humble!"
+
+Just after the granting of the special intention. Don Álvaro wrote a
+long letter, the November 1982 letter, which is a very good letter to go
+and read some time. He talks all about thanksgiving for this great
+event.
+
+At one point in that letter, in number 56, he says: "My children, we\'ve
+been looking at the many reasons we have to be grateful and to persevere
+in continuous thanksgiving. As we did so, we will have seen all this
+ceaseless divine activity in our Father\'s soul and in the Work is
+expressed and summed up in a work of sanctification."
+
+"Ceaseless divine activity." God is present in His work with each one of
+us, bringing about Opus Dei, bringing it forward in every nook and
+corner and cranny of society. God has arranged all these things to teach
+us to be His intimate friends and to sanctify us. All these things.
+
+Lord, give me the grace to correspond more to my vocation, to have that
+supernatural outlook that our Father had, to love my vocation and love
+the Work, and protect it, and serve it in all the ways that you want me
+to serve it.
+
+"Meditate on the fact," he says, "that the work of sanctification is a
+tribute to the Holy Spirit. It is He who has really been our guide. It
+was the divine spirit who showered upon our Founder and the Work this
+abundance of operative graces which are now in our hands."
+
+He's saying that deep in the soul of our Father, the Holy Spirit was
+super-active. During all of those years, all of those trials, all of
+those difficulties---all the time the Holy Spirit was leading our Father
+forward, as He leads each one of us forward, as He wants to be active in
+the souls of each one of us, and through that divine grace that we
+receive through the sacraments.
+
+"This is why," he continues, "I see clearly that our gratitude to God
+for what we have received must be expressed in the determination to get
+to know the Holy Spirit better, to converse with Him and love Him. We
+must all set out even more urgently upon truly spiritual pathways, upon
+ways of intense interior life that enable us to discover within our
+souls the indwelling and powerful action of the Holy Spirit."
+
+A good prayer in our prayer today, a good petition to ask of Our Lord,
+would be those truly spiritual pathways. Holy Spirit, lead me along
+those deeper spiritual pathways where I find my joy and my peace and my
+serenity, the purpose of my life, so that from that overflow, I can
+effect more apostolate in the environment around me.
+
+"From there," he says, "we must stride out at a pace of confident love,
+of friendship, and with total receptiveness to God\'s action." In these
+words, it\'s as though Don Álvaro is describing the whole life of our
+Father in and through and along that juridical pathway which in some
+ways was never ending, although today we celebrate the end.
+
+When this establishment was announced in 1982, Don Álvaro decreed three
+days of thanksgiving in the whole of our supernatural family. Three days
+of thanksgiving to God for this great intention for which our Father had
+prayed so much.
+
+During that time Don Álvaro liked to say that somebody lent him a
+calculator one day and he began to calculate all the different things
+that were being offered for this intention: all the Masses by people of
+the Work all over the world; the mortifications; many deaths; many
+sicknesses; many cancers. He began to calculate all this on the
+calculator. And sometimes the figure would hardly even fit on the
+screen.
+
+He remarked, "If God is demanding so much prayer for this intention to
+be granted, it must be for an enormous good for the universal Church."
+
+We can get great holy pride and joy in that, of how we are part of
+something that is serving the Church in such a clear way, doing great
+things over time.
+
+"This readiness," he continues, "to respond to divine plans is a
+specific characteristic of souls who converse with the Holy Spirit. The
+great stranger must be for us the great friend. With Him we will make
+the paths of the earth divine."
+
+Just like the Holy Spirit was active in the soul of our Father, so
+He\'ll be active in the soul of each one of us in spite of our miseries
+and weaknesses and contradictions and failures. He\'s bringing about His
+great work on earth in us and through us. We can have great trust and
+confidence in that.
+
+"To accomplish this," he says, "I advise you to go frequently to Our
+Lady and St. Joseph---great friends of the Trinity who knew best how to
+second the inspirations of the sanctifying spirit and to most perfectly
+follow the way God wanted you to."
+
+We're about to accompany the Holy Family very closely along their
+journey to Bethlehem, a very good time for us to turn more frequently to
+them so that they might lead us to the Trinity. And also, that we learn
+from them how to listen a little better to the inspirations of the Holy
+Spirit deep in our soul; that we know He\'s there always.
+
+After the granting of the special intention, Don Álvaro said that famous
+aspiration of our Father---*Cor Mariae dulcissimum, iter para tutum!*
+Prepare a safe way!---now we can change that slightly and say, *Cor
+Mariae dulcissimum, iter para et serva tutum!* Most sweet heart of Mary,
+keep the way safe!
+
+It has a great application in our life, to keep the pathway of our
+vocations, of our apostolate, of our marriage, of our family, of our
+work, of all the plans that God has for our life. And so, with reason,
+united to the Father, as we look to the 2nd of October 1928 with the
+help of this letter, we can say with great fervor to Our Lady today,
+*Cor Mariae dulcissimum, iter para et serva tutum!*
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*GD*

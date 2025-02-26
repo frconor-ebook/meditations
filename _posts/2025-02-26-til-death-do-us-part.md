@@ -1,8 +1,7 @@
 ---
 layout: homily
-title: "'Til Death Do Us Part"
+title: "‘Til Death Do Us Part"
 ---
-
 
 By Fr. Conor Donnelly
 

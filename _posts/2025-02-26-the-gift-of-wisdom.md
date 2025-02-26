@@ -3,7 +3,6 @@ layout: homily
 title: "The Gift of Wisdom"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

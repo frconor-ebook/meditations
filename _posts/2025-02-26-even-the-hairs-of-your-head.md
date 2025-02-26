@@ -3,7 +3,6 @@ layout: homily
 title: "Even The Hairs of Your Head"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*

@@ -3,7 +3,6 @@ layout: homily
 title: "Faithfulness"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

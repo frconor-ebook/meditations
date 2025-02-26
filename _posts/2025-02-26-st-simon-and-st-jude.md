@@ -3,7 +3,6 @@ layout: homily
 title: "St. Simon and St. Jude"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

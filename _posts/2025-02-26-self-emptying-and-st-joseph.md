@@ -3,7 +3,6 @@ layout: homily
 title: "Self-emptying and St. Joseph"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

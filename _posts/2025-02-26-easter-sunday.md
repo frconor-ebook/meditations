@@ -3,7 +3,6 @@ layout: homily
 title: "Easter Sunday"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

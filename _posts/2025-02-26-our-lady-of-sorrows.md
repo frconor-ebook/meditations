@@ -3,7 +3,6 @@ layout: homily
 title: "Our Lady of Sorrows"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

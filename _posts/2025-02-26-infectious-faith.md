@@ -3,7 +3,6 @@ layout: homily
 title: "Infectious Faith"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

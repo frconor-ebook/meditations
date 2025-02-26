@@ -3,7 +3,6 @@ layout: homily
 title: "The Holiness in Rest: A Sacred Pause"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

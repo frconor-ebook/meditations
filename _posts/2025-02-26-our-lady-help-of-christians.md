@@ -3,7 +3,6 @@ layout: homily
 title: "Our Lady Help of Christians"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

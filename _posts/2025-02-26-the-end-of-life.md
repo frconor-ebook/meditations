@@ -3,7 +3,6 @@ layout: homily
 title: "The End of Life"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

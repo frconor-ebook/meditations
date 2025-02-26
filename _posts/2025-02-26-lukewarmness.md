@@ -3,7 +3,6 @@ layout: homily
 title: "Lukewarmness"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

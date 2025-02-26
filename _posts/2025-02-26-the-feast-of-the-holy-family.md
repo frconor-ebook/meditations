@@ -3,7 +3,6 @@ layout: homily
 title: "The Feast of the Holy Family"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "A Merciful Messiah"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

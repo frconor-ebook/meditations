@@ -3,7 +3,6 @@ layout: homily
 title: "Our Lady the Queen"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

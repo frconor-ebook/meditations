@@ -3,7 +3,6 @@ layout: homily
 title: "Sincerity, Love for Truth"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*

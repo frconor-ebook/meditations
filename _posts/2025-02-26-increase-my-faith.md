@@ -3,7 +3,6 @@ layout: homily
 title: "Increase My Faith"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

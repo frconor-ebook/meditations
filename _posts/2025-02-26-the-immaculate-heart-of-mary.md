@@ -3,7 +3,6 @@ layout: homily
 title: "The Immaculate Heart of Mary"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "The Paralytic at Capharnaum (Confession)"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "Render Unto Caesar"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

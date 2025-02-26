@@ -3,7 +3,6 @@ layout: homily
 title: "Christmas"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

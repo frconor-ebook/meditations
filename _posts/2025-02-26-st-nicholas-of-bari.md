@@ -3,7 +3,6 @@ layout: homily
 title: "St. Nicholas of Bari"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

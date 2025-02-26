@@ -3,7 +3,6 @@ layout: homily
 title: "Discerning One's Vocation"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

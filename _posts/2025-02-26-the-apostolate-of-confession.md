@@ -3,7 +3,6 @@ layout: homily
 title: "The Apostolate of Confession"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

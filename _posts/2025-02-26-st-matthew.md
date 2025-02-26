@@ -3,7 +3,6 @@ layout: homily
 title: "St. Matthew"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

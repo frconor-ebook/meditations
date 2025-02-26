@@ -3,7 +3,6 @@ layout: homily
 title: "Crises: Be Not Afraid"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

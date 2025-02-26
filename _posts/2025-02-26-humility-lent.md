@@ -3,7 +3,6 @@ layout: homily
 title: "Humility (Lent)"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

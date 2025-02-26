@@ -3,7 +3,6 @@ layout: homily
 title: "St. Patrick, March 17th"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "Hearts on Fire"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

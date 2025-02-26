@@ -3,7 +3,6 @@ layout: homily
 title: "Pray for the Dead"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

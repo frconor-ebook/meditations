@@ -3,7 +3,6 @@ layout: homily
 title: "Forming Saints in the Domestic Church (The Cross)"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

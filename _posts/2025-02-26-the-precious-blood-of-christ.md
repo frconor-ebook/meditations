@@ -3,7 +3,6 @@ layout: homily
 title: "The Precious Blood of Christ"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*

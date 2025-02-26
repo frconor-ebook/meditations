@@ -3,7 +3,6 @@ layout: homily
 title: "Our Mother in May"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

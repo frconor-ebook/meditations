@@ -3,7 +3,6 @@ layout: homily
 title: "Correspondence to Grace"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)
@@ -594,3 +593,17 @@ whole heart and soul into fulfilling that will of God. "She went with
 haste into the hill country."
 
 Our Lady communicates great sense of urgency to everything we must do
+---generosity and correspondence to grace, because God has given me five
+talents.
+
+Mary, may you help me respond to grace in the same way you did.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*RK*

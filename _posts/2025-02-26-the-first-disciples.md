@@ -3,7 +3,6 @@ layout: homily
 title: "The First Disciples"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "Our Lady of the Angels"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*
@@ -418,3 +417,24 @@ Forge*, Point 376).
 
 "It is indeed just that the Father, the Son, and the Holy Spirit should
 crown the Blessed Virgin as Queen and Lady of all creative things.
+---You have to make use of her power! With the daring of a child join in
+this celebration in Heaven. ---For myself, since I have no precious
+stones or virtues to offer, I crown the Mother of God and my Mother with
+my feelings, once they have been purified" (J. Escrivá, *The Forge*,
+Point 285).
+
+She is expecting something from you too.
+
+Mary, Queen of the Angels, may you help us to have greater devotion to
+you and to the angels and to ask you for special favors on this day,
+just as St. Josemaría must have done on so many occasions.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*GD*

@@ -3,7 +3,6 @@ layout: homily
 title: "The Prodigal Son"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)
@@ -20,7 +19,7 @@ intercede for me.*
 We are told in the Gospel of St. Luke that "a certain man had two sons,
 and the younger of them said to his father, 'Father, give me the share
 of the property that falls to me.' And he divided his means between
-them" (Luke 15:11-32).
+them" (Luke 15:11-24).
 
 The story, like many stories in the Gospel, is anonymous. These two sons
 are going to represent not necessarily two specific people, but they
@@ -38,9 +37,9 @@ He thinks that freedom is to do whatever he wants. Of course, he\'s
 going to find that that understanding of freedom leads to a bad end.
 Freedom is not freedom to do what we want or what we feel like.
 
-Freedom, authentic freedom, is to do what is right, to do what is good,
-to choose things that will ultimately lead us to our eternal destiny,
-which is the eternal wedding feast.
+Authentic freedom is to do what is right, to do what is good, to choose
+things that will ultimately lead us to our eternal destiny, which is the
+eternal wedding feast.
 
 He thought freedom was to be out from under the yoke of obedience, to
 get away from his father\'s house, to hang free. He didn\'t appreciate
@@ -97,7 +96,7 @@ took his journey into a far country." The son couldn\'t wait to get
 away.
 
 "Not many days later he gathered up all his wealth\..." He didn\'t leave
-anything. There\'s no foresight, there\'s no plan B, there\'s no
+anything. There\'s no foresight, there\'s no Plan B, there\'s no
 security net in case things don\'t work out so that he can come back to
 it.
 
@@ -109,13 +108,13 @@ a great parent, a great father.
 There\'s an educationist in the States called James Stenson who says
 that parents have to try and live like great human beings so their
 children see what it means to be a great human being, so that they can
-grow up to be a great person, a great father, a mother, to build a great
-family.
+grow up to be a great person, a great father, a great mother, to build a
+great family.
 
 You get the impression that the father in this family was trying to be
 that great human being.
 
-The son took his journey into a far country. He got away as far as
+The son took his journey "into a far country." He got away as far as
 possible from the strictness and the rules and regulations and the
 lifestyle of the home, and he let it all hang free.
 
@@ -124,14 +123,14 @@ a descriptive word. Again, there\'s no foresight; there\'s great
 immaturity. In some ways there\'s great waste.
 
 But notice how the father lets him make all these mistakes. Very
-important. He doesn\'t warn him, he doesn\'t send a detective to keep an
+important. He doesn\'t warn him. He doesn\'t send a detective to keep an
 eye on him. He wants his freedom? Now he has his freedom.
 
 The moment has come when the father has given him as much formation as
 he can and now he has to learn for himself and stand on his own two feet
 and be an adult. Of course, the son fails all these tests. "He
-squandered his fortune." It was a lot of money and he squanders it in
-loose living.
+squandered his fortune." It was a lot of money and he squanders it "in
+loose living."
 
 There may come a moment when every child has to be given his head to
 waste a bit of time, a bit of energy, a bit of money, in all sorts of
@@ -157,12 +156,11 @@ winds blow. Times of plenty become times of less.
 
 We always have to be thinking of the future, planning for the future,
 and ultimately planning for the eternal wedding feast. What is this life
-all about?
+all about? Where have I come from? Where am I going? What is my life all
+about? What is this life all about?
 
-Where have I come from? Where am I going? What is my life all about?
-What is this life all about?
-
-We find the answers to those questions in Christ, in Scripture.
+We find the answers to those questions in Christ (John Paul II,
+*Homily*, World Youth Day, August14, 1993), in Scripture.
 
 This young fellow is still looking for those answers, still yearning for
 the deep questions that every human and every young person yearns for.
@@ -176,10 +174,10 @@ You get an inkling here that this kid had never suffered want in his
 life. If ever your children want for things, it\'s not necessarily a bad
 thing.
 
-There may be very good things in your times, in your family, if
-sometimes you don\'t have what you\'d like to have. You don\'t have
-everything that other people have. You can\'t afford the things that
-other people can afford.
+There may be very good in your time, in your family, if sometimes you
+don\'t have what you\'d like to have. You don\'t have everything that
+other people have. You can\'t afford the things that other people can
+afford.
 
 That may be a great grace. It can help your children to appreciate the
 good things, to realize we can\'t have everything in this world---but I
@@ -237,13 +235,13 @@ what they were eating. It\'s really the epitome of a destitution.
 
 Our Lord may be giving us an insight into what mortal sin is. When we
 fall from the state of grace---the privileged calling of being children
-of God, a daughter of God, a son of God---when we fall into mortal sin,
+of God: a daughter of God, a son of God---when we fall into mortal sin,
 it\'s like we fall into the state of this young fellow who gets down to
 the level of longing to eat what the pigs were eating.
 
-But no one offered to give them to him. He couldn\'t even have that. He
-was stuck in his hunger. No one even offered to give him what the pigs
-were eating. It\'s the lowest of the low.
+"But no one offered to give them to him." He couldn\'t even have that.
+He was stuck in his hunger. No one even offered to give him what the
+pigs were eating. It\'s the lowest of the low.
 
 When I was 15, I was sent by loving parents to an uncle in Yorkshire in
 England who had a pig farm. I was sent to feed the pigs.
@@ -258,7 +256,7 @@ trolley.
 
 When they were all ready, you opened the inner door of the piggery. I
 learned very quickly that before opening that inner door, it was very
-important to take a big long deep breath and hold it, then get that
+important to take a big, long deep breath and hold it, then get that
 trolley and go as fast as you could down that center aisle pouring out
 the pig feed into the different troughs.
 
@@ -268,18 +266,18 @@ already to the lungs of 200 pigs. But at least you could breathe a
 little bit there.
 
 I didn\'t last too long in that occupation. But I never longed to eat
-what the pigs were eating. So this guy really fell really low.
+what the pigs were eating. So, this guy really fell really low.
 
 Then we\'re told, "But when he came to himself\..." This is like a
 biblical expression for doing an examination of conscience.
 
 He examined his life. He examined where he was. He examined his hunger.
 He examined point by point each of the realities of the life that he was
-now leading. 'Where am I? This is where I\'m at.' "He comes to himself."
+now leading. 'Where am I? This is where I\'m at.'
 
-A penny drops. The cock crows. He said, "How many hired men in my
-father\'s house have bread in abundance, while I am perishing here with
-hunger."
+"He comes to himself." A penny drops. The cock crows. He said, "How many
+hired men in my father\'s house have bread in abundance, while I am
+perishing here with hunger!"
 
 Now the transformation begins to come. It\'s a story that\'s all about
 conversion. This is the beginning of conversion.
@@ -298,7 +296,7 @@ Sometimes you have to let other people make mistakes.
 When I was about six, I was brought for my first train ride. My father
 told me not to go near the edge of the platform.
 
-But I went near the edge of the platform and I fell off the platform
+But I went near the edge of the platform, and I fell off the platform
 onto the railway track. There was a big tunnel at the end of the
 platform from which a train could appear at any particular moment.
 
@@ -359,12 +357,11 @@ Excuses, escapism.
 "I have sinned." When we go to the sacrament of Confession, we say the
 same thing. "Bless me, father, for I have sinned."
 
-"I\'ve sinned against heaven and before you."
-
-He hasn\'t just sinned, but he\'s also realized the gravity of his sin.
+"I have sinned against heaven and before you." He hasn\'t just sinned,
+but he\'s also realized the gravity of his sin.
 
 Lord, may you give us the grace to realize the gravity of our sin. When
-Holy Week comes, all the more. When we see the extent of Christ\'s
+Holy Week comes, all the more, when we see the extent of Christ\'s
 sufferings on the Way of the Cross, it helps us to understand a little
 more of the gravity of sin.
 
@@ -491,7 +488,7 @@ deserve.
 It's a beautiful image of Our heavenly Father for the efforts of
 humility that we make.
 
-"And put it on him." Don\'t just bring it, but put it on him.
+"And put it on him." Don\'t just bring it but put it on him.
 
 "And give him a ring for his finger." Symbol of dignity. Symbol of
 commitment.
@@ -506,7 +503,7 @@ He may have lost all the money. He may have done terrible things. But
 the most important thing has happened: he has come back into the fold.
 It\'s a spiritual renewal. A spiritual regeneration.
 
-After every confession--for us it can be like Easter. A new joy, a new
+After every Confession, for us, it can be like Easter. A new joy, a new
 hope. A new beginning. A reinstatement in the state of grace.
 
 We have the dignity of the children of God. There\'s nothing as
@@ -516,13 +513,12 @@ last are the spiritual.
 
 Somehow this son has learned this great lesson. "And they began to make
 merry." Maybe think in your family of trying to celebrate spiritual
-realities. Feast days. Make Easter and Christmas and Easter and
-Pentecost big days. Follow the liturgy. Make merry in your family.
+realities. Feast days. Make Christmas and Easter and Pentecost big days.
+Follow the liturgy. Make merry in your family.
 
-The family should be a place of joy. The family should be a place of
-fun. Not all the time. But on certain occasions we should throw the
-house out the window. Help people to see that our family is a place
-where we have a good time.
+The family should be a place of fun. Not all the time, but on certain
+occasions we should throw the house out the window. Help people to see
+that our family is a place where we have a good time.
 
 We enjoy ourselves. Christ enjoyed himself in Bethany. He enjoyed
 himself in that domestic Church with his best friends. They had a good

@@ -3,7 +3,6 @@ layout: homily
 title: "From Tabor to Calvary"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

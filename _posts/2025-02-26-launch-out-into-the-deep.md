@@ -3,7 +3,6 @@ layout: homily
 title: "Launch Out Into The Deep"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)
