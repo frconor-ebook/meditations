@@ -3,7 +3,6 @@ layout: homily
 title: "Christian Identity"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

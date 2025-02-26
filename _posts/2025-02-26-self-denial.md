@@ -3,7 +3,6 @@ layout: homily
 title: "Self-denial"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(proofread)*

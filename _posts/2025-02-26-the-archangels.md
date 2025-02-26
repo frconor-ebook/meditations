@@ -3,7 +3,6 @@ layout: homily
 title: "The Archangels"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "The Temple Tax"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

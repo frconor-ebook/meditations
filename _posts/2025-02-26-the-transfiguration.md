@@ -3,7 +3,6 @@ layout: homily
 title: "The Transfiguration"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*

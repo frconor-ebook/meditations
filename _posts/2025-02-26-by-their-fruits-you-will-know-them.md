@@ -3,7 +3,6 @@ layout: homily
 title: "By Their Fruits, You Will Know Them"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

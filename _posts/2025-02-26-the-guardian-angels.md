@@ -3,7 +3,6 @@ layout: homily
 title: "The Guardian Angels"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "The Miraculous Catch of Fish"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

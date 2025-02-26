@@ -3,7 +3,6 @@ layout: homily
 title: "The Good Shepherd"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "Against All Hope"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

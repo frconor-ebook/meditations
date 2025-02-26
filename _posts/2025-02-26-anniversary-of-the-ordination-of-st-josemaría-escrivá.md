@@ -3,7 +3,6 @@ layout: homily
 title: "Anniversary of the Ordination of St. Josemaría Escrivá"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

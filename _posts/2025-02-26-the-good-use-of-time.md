@@ -3,7 +3,6 @@ layout: homily
 title: "The Good Use of Time"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*

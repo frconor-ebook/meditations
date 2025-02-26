@@ -3,7 +3,6 @@ layout: homily
 title: "Marriage and Indissolubility"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

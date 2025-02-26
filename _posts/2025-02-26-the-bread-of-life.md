@@ -3,7 +3,6 @@ layout: homily
 title: "The Bread of Life"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

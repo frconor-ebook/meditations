@@ -3,7 +3,6 @@ layout: homily
 title: "The Art of Prudence"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

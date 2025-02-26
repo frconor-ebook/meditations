@@ -3,7 +3,6 @@ layout: homily
 title: "The Parable of the Treasure and the Pearl"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

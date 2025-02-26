@@ -3,7 +3,6 @@ layout: homily
 title: "Maturity and Participation in the Divine Nature"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

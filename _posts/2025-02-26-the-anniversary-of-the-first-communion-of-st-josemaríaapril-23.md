@@ -1,8 +1,7 @@
 ---
 layout: homily
-title: "The Anniversary of the First Communion of St. Josemaría--April 23"
+title: "The Anniversary of the First Communion of St. Josemaría–April 23"
 ---
-
 
 By Fr. Conor Donnelly
 

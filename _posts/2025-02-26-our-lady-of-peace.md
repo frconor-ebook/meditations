@@ -3,7 +3,6 @@ layout: homily
 title: "Our Lady of Peace"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

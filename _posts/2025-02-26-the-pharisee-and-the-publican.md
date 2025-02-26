@@ -3,7 +3,6 @@ layout: homily
 title: "The Pharisee and the Publican"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

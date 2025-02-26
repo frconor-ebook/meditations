@@ -3,7 +3,6 @@ layout: homily
 title: "Fraternal Correction"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

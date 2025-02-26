@@ -3,7 +3,6 @@ layout: homily
 title: "The Storm on the Lake"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

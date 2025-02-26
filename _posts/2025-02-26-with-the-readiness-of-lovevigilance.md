@@ -1,8 +1,7 @@
 ---
 layout: homily
-title: "With the Readiness of Love---Vigilance"
+title: "With the Readiness of Love—Vigilance"
 ---
-
 
 By Fr. Conor Donnelly
 

@@ -3,7 +3,6 @@ layout: homily
 title: "Children, A Gift of God"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

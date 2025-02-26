@@ -3,7 +3,6 @@ layout: homily
 title: "Seeing Christ in Illness"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

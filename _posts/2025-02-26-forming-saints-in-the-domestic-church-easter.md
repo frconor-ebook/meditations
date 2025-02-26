@@ -3,7 +3,6 @@ layout: homily
 title: "Forming Saints in the Domestic Church (Easter)"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

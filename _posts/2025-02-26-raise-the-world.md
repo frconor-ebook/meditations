@@ -3,7 +3,6 @@ layout: homily
 title: "Raise the World"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

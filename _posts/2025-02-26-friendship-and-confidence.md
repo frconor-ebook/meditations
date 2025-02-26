@@ -3,7 +3,6 @@ layout: homily
 title: "Friendship and Confidence"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

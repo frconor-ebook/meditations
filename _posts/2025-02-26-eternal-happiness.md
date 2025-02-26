@@ -3,7 +3,6 @@ layout: homily
 title: "Eternal Happiness"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

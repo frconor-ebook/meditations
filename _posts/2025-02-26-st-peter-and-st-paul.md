@@ -3,7 +3,6 @@ layout: homily
 title: "St. Peter and St. Paul"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

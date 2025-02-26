@@ -1,8 +1,7 @@
 ---
 layout: homily
-title: "St. Philip and St. James---May 3"
+title: "St. Philip and St. James—May 3"
 ---
-
 
 By Fr. Conor Donnelly
 

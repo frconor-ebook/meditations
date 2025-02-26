@@ -3,7 +3,6 @@ layout: homily
 title: "The Will of God"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

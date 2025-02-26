@@ -3,7 +3,6 @@ layout: homily
 title: "The Woman Caught in Adultery"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

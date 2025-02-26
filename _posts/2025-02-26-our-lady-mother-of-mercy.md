@@ -3,7 +3,6 @@ layout: homily
 title: "Our Lady, Mother of Mercy"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "Heart in the Family"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "The Miracle at Cana"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

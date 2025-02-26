@@ -3,7 +3,6 @@ layout: homily
 title: "Preparing to Receive Jesus"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

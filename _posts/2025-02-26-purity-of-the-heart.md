@@ -3,7 +3,6 @@ layout: homily
 title: "Purity of the Heart"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

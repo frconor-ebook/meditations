@@ -3,7 +3,6 @@ layout: homily
 title: "Pro-Active Love"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

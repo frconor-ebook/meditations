@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "depends on us. If we respond, many people will remain in darkness no"
+title: "The Parable of the Mustard Seed"
 ---
 
 The Parable of the Mustard Seed
@@ -459,3 +459,92 @@ because we\'ve dedicated ourselves to a certain area of human learning.
 "We are children of God," we\'re told in *The Forge, "*bearers of the
 only flame that can light up the paths of the earth for souls, of the
 only brightness which can never be darkened, dimmed, or overshadowed.
+---The Lord uses us as torches, to make that light shine out. Much
+depends on us. If we respond, many people will remain in darkness no
+longer, but will walk instead along paths that lead to eternal life" (J.
+Escrivá, *The Forge*, Point 1).
+
+We never know the impact of seed ideas on people and nations. If we try
+and get familiar with those key seed ideas---'what is freedom,' for
+example, 'what is human love?'---then we can plant a seed idea in our
+family with our example.
+
+A nun here in Kenya told me a few years ago about how her father, who
+was a policeman from Hansborough in Dublin, was on duty in the docks
+sometime in the early 1940s during the Second World War.
+
+A ship docked there that had a number of refugees from Eastern Europe.
+Many Jews. One family who didn\'t know English got off the boat thinking
+it was Liverpool. The boat was destined to go to Liverpool.
+
+Then the boat left, and they found themselves at the side of the street
+in the rain. He inquired what the problem was, managed to get some
+understanding out of them, and brought them home to his family, to his
+house.
+
+They lived in the front room of his house for a couple of days till he
+could get them organized. He had five children.
+
+Some Jewish community came along to help them out after a few days. One
+of the children in that family was a girl who eventually became a Sister
+of Mercy nun and came as a missionary to Kenya and has set up many, many
+schools in difficult areas of Nairobi.
+
+She talks about that example of her father, an ordinary policeman on
+duty in Dublin in the mid-1940s, who just lived out his Christian
+vocation but planted an incredible seed in the soul of his daughter.
+
+When Pope Francis came here on a visit a few years ago, she was the one
+chosen to speak to him, representing all the downtrodden of the country.
+Behind it, she talks about that example of her father.
+
+The impact of seed ideas and mustard seed examples on the life of our
+family and of our children can be immense. The seed ideas and the power
+of those ideas, of that body of teaching which is the social doctrine of
+the Church, can also be immense.
+
+It has been described as the greatest treasure of the Catholic Church
+and one of the most unknown treasures. Not taught, not learned, not
+known by so many Catholics. It has at its center the dignity of every
+human person.
+
+We can know how one idea can change an environment. G.K. Chesterton says
+that "fallacies do not cease to be fallacies, just because they become
+fashionable" (G. K. Chesterton, *Napolean Of Notting Hill*). The world
+is full of fallacies.
+
+The famous Roman educator Quintilian said clarity of expression lights
+up the beauty of the world.
+
+Seed ideas can be expressed with seed words and seed phrases. To explain
+man\'s most elevated thoughts was the great gift of Western
+philosophy\'s founding fathers, Socrates and Plato.
+
+We see the importance of words and phrases and the importance of
+building up our vocabulary in this century of communication.
+
+We\'re told that Our Lady "kept in mind all these things carefully in
+her heart" (Luke 2:19,51).
+
+The angel Gabriel, the words of Jesus, and the events that happened in
+the course of her life and vocation were like seeds that God planted in
+her mind, in her heart, in her soul, which continually brought forth
+immense fruit in the course of her life, a fruit that she continues to
+shower upon us in her example, both in heaven and in the description of
+her life here on earth.
+
+Mary, may you help us to gather all those seeds that God has planted in
+our heart, in our mind, in our soul, and help us to yield that abundant
+fruit that you are hoping for from us, so that truly all the birds of
+the air can come and nest in the branches that those seeds have given
+rise to.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*PKN*

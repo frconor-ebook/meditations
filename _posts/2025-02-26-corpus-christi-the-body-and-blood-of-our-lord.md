@@ -3,7 +3,6 @@ layout: homily
 title: "Corpus Christi (The Body and Blood of Our Lord)"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

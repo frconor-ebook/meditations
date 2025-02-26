@@ -3,7 +3,6 @@ layout: homily
 title: "Christ the Light"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*

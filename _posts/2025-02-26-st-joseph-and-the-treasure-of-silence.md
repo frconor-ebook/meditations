@@ -3,7 +3,6 @@ layout: homily
 title: "St. Joseph and The Treasure of Silence"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

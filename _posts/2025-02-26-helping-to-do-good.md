@@ -3,7 +3,6 @@ layout: homily
 title: "Helping To Do Good"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

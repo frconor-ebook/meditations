@@ -1,8 +1,7 @@
 ---
 layout: homily
-title: "Self-Love---The Enemy"
+title: "Self-Love—The Enemy"
 ---
-
 
 By Fr. Conor Donnelly
 

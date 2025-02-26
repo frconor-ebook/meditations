@@ -3,7 +3,6 @@ layout: homily
 title: "Sick and You Visited Me"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

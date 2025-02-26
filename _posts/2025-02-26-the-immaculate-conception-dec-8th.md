@@ -3,7 +3,6 @@ layout: homily
 title: "The Immaculate Conception (Dec. 8th)"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

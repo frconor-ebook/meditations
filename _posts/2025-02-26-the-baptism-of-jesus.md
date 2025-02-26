@@ -3,7 +3,6 @@ layout: homily
 title: "The Baptism of Jesus"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

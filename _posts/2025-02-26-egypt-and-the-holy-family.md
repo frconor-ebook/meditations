@@ -3,7 +3,6 @@ layout: homily
 title: "Egypt and the Holy Family"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

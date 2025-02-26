@@ -3,7 +3,6 @@ layout: homily
 title: "Blessed Guadalupe Ortiz de Landázuri"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

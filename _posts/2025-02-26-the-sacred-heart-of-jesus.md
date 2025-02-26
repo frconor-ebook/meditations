@@ -3,7 +3,6 @@ layout: homily
 title: "The Sacred Heart of Jesus"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

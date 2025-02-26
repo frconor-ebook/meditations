@@ -3,7 +3,6 @@ layout: homily
 title: "Mental Prayer"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

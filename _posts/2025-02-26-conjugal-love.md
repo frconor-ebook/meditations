@@ -3,7 +3,6 @@ layout: homily
 title: "Conjugal Love"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*

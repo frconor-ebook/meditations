@@ -3,7 +3,6 @@ layout: homily
 title: "Pentecost Sunday"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

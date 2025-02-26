@@ -3,7 +3,6 @@ layout: homily
 title: "Cheerfulness"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

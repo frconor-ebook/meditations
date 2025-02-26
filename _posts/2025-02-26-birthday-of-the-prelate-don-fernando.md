@@ -3,7 +3,6 @@ layout: homily
 title: "Birthday of the Prelate (Don Fernando)"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

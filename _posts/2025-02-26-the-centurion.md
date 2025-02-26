@@ -3,7 +3,6 @@ layout: homily
 title: "The Centurion"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

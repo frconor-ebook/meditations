@@ -3,7 +3,6 @@ layout: homily
 title: "St. John Paul II"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

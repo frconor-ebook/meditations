@@ -1,8 +1,7 @@
 ---
 layout: homily
-title: "Sin of Pride---The Elder Son"
+title: "Sin of Pride—The Elder Son"
 ---
-
 
 By Fr. Conor Donnelly
 

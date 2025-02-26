@@ -1,8 +1,7 @@
 ---
 layout: homily
-title: "The Anniversary of the Election of Don Fernando Ocáriz as the"
+title: "The Anniversary of the Election of Don Fernando Ocáriz as the Prelate of Opus Dei"
 ---
-
 
 By Fr. Conor Donnelly
 

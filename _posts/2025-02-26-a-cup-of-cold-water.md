@@ -3,7 +3,6 @@ layout: homily
 title: "A Cup of Cold Water"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

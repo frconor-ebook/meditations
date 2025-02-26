@@ -3,7 +3,6 @@ layout: homily
 title: "Peter and Prayer"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

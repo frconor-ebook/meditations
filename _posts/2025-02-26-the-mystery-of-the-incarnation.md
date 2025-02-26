@@ -3,7 +3,6 @@ layout: homily
 title: "The Mystery of the Incarnation"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

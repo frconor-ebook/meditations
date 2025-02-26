@@ -3,7 +3,6 @@ layout: homily
 title: "The Annunciation (Advent)"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

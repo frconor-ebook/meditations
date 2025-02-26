@@ -3,7 +3,6 @@ layout: homily
 title: "Love for Chastity"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

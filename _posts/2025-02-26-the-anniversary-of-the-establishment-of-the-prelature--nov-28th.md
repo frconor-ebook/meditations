@@ -1,8 +1,7 @@
 ---
 layout: homily
-title: "The Anniversary of the Establishment of the Prelature -- Nov."
+title: "The Anniversary of the Establishment of the Prelature – Nov. 28th"
 ---
-
 
 By Fr. Conor Donnelly
 

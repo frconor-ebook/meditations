@@ -3,7 +3,6 @@ layout: homily
 title: "Keeping My Word"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

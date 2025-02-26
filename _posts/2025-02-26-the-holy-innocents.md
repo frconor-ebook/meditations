@@ -3,7 +3,6 @@ layout: homily
 title: "The Holy Innocents"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

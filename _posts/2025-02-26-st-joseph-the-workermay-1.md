@@ -1,8 +1,7 @@
 ---
 layout: homily
-title: "St. Joseph the Worker---May 1"
+title: "St. Joseph the Worker—May 1"
 ---
-
 
 By Fr. Conor Donnelly
 

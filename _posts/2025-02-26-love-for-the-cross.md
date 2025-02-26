@@ -3,7 +3,6 @@ layout: homily
 title: "Love for the Cross"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*

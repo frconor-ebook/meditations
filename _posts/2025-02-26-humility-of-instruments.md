@@ -3,7 +3,6 @@ layout: homily
 title: "Humility of Instruments"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

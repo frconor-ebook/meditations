@@ -3,7 +3,6 @@ layout: homily
 title: "Fishers of Men"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "Fidelity in Marriage"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

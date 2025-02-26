@@ -3,7 +3,6 @@ layout: homily
 title: "Naaman the Syrian (Docility)"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

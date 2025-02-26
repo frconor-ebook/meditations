@@ -3,7 +3,6 @@ layout: homily
 title: "Hell, Purgatory, Heaven"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

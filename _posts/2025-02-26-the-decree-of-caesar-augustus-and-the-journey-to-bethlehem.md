@@ -3,7 +3,6 @@ layout: homily
 title: "The Decree of Caesar Augustus and The Journey to Bethlehem"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -3,7 +3,6 @@ layout: homily
 title: "Spiritual Childhood"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

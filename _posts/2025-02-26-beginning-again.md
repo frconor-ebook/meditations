@@ -3,7 +3,6 @@ layout: homily
 title: "Beginning Again"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

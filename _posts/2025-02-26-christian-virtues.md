@@ -3,7 +3,6 @@ layout: homily
 title: "Christian Virtues"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

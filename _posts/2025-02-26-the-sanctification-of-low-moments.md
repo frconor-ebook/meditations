@@ -3,7 +3,6 @@ layout: homily
 title: "The Sanctification of Low Moments"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

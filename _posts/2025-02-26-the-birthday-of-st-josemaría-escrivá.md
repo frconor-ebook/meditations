@@ -3,7 +3,6 @@ layout: homily
 title: "The Birthday of St. Josemaría Escrivá"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

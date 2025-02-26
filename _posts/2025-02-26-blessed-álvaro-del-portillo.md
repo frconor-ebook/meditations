@@ -3,7 +3,6 @@ layout: homily
 title: "Blessed Álvaro del Portillo"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

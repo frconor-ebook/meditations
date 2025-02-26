@@ -3,7 +3,6 @@ layout: homily
 title: "The Communion of Saints"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

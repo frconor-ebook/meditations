@@ -3,7 +3,6 @@ layout: homily
 title: "Salt and Light"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

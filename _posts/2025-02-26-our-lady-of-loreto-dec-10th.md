@@ -1,8 +1,7 @@
 ---
 layout: homily
-title: "Our Lady of Loreto (Dec. 10^th^)"
+title: "Our Lady of Loreto (Dec. 10th)"
 ---
-
 
 By Fr. Conor Donnelly
 

@@ -3,7 +3,6 @@ layout: homily
 title: "Prince of Peace"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

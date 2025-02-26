@@ -3,7 +3,6 @@ layout: homily
 title: "Thirsting for Justice"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

@@ -1,8 +1,7 @@
 ---
 layout: homily
-title: "Walking on the Water----Faith"
+title: "Walking on the Water––Faith"
 ---
-
 
 *By Fr. Conor Donnelly*
 

@@ -3,7 +3,6 @@ layout: homily
 title: "The Healing of the Man with the Withered Hand"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

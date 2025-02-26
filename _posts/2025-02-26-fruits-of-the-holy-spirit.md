@@ -3,7 +3,6 @@ layout: homily
 title: "Fruits of the Holy Spirit"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

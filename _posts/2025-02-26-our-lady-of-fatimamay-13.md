@@ -1,8 +1,7 @@
 ---
 layout: homily
-title: "Our Lady of Fatima--May 13"
+title: "Our Lady of Fatima–May 13"
 ---
-
 
 By Fr. Conor Donnelly
 

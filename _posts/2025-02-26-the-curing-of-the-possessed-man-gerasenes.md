@@ -3,7 +3,6 @@ layout: homily
 title: "The Curing of the Possessed Man (Gerasenes)"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

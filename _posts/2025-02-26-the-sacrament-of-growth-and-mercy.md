@@ -3,7 +3,6 @@ layout: homily
 title: "The Sacrament of Growth and Mercy"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

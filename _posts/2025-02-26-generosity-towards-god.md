@@ -3,7 +3,6 @@ layout: homily
 title: "Generosity Towards God"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*

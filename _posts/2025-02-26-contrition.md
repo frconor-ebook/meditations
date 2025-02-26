@@ -3,7 +3,6 @@ layout: homily
 title: "Contrition"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

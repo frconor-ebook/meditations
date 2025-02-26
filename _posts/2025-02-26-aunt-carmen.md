@@ -3,7 +3,6 @@ layout: homily
 title: "Aunt Carmen"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

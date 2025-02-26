@@ -3,7 +3,6 @@ layout: homily
 title: "The Faith of Abraham"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

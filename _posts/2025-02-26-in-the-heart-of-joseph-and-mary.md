@@ -3,7 +3,6 @@ layout: homily
 title: "In the Heart of Joseph and Mary"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

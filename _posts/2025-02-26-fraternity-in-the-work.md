@@ -3,7 +3,6 @@ layout: homily
 title: "Fraternity in the Work"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

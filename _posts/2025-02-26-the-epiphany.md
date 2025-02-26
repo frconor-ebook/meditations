@@ -3,7 +3,6 @@ layout: homily
 title: "The Epiphany"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

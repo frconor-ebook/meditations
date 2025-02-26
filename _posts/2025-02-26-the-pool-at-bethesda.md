@@ -1,8 +1,7 @@
 ---
 layout: homily
-title: "|"
+title: "The Pool at Bethesda"
 ---
-
 
 (*Proofread*)
 

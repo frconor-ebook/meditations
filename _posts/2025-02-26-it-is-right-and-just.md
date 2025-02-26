@@ -3,7 +3,6 @@ layout: homily
 title: "It Is Right and Just"
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

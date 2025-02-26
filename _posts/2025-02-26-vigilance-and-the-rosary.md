@@ -3,7 +3,6 @@ layout: homily
 title: "Vigilance and the Rosary"
 ---
 
-
 By Fr. Conor Donnelly
 
 *(Proofread)*
