@@ -12,45 +12,26 @@ if [ ! -f "$input_docx" ]; then
     exit 1
 fi
 
-# Extract the entire document as Markdown
+# Extract metadata (including title) and body using Pandoc
+metadata=$(pandoc -s --metadata-file=/dev/null --to=markdown "$input_docx" -M title 2>/dev/null)
 body=$(pandoc -s --to=markdown "$input_docx" 2>/dev/null)
 
-# --- Title Extraction Logic ---
-
-# 1. Try to extract title assuming it's formatted as "# Title" (rare, but possible)
-title=$(echo "$body" | sed -n 's/^# //p' | head -n 1)
-
-# 2. If title is empty, try to get title from YAML (more common)
+# Check if Pandoc extracted the title successfully (using sed)
+title=$(echo "$metadata" | sed -n 's/^title: //p')
 if [ -z "$title" ]; then
-    title=$(echo "$body" | sed -n 's/^title: //p' | head -n 1)
-fi
-
-# 3. If title is *still* empty, extract the first non-blank line AFTER the YAML frontmatter
-if [ -z "$title" ]; then
-  title=$(echo "$body" | sed -n '/^---/,/^---/{/^---/n;p;q;}' )
-fi
-
-# Remove leading/trailing whitespace from the title (important for all cases)
-title=$(echo "$title" | xargs)
-
-if [ -z "$title" ]; then # check if title extraction failed.
-    echo "Error: Failed to extract title using Pandoc."
+    echo "Error: Failed to extract title using Pandoc.  Check document properties."
     exit 1
 fi
 
-# 4. Remove YAML frontmatter (if any).
-body=$(echo "$body" | sed '/^---/,/^---/d')
-
-# 5. Remove the extracted title line from the body (to avoid duplication).
-if [[ "$body" == *"# $title"* ]]; then  # Check if it was extracted as heading (# Title).
-    body=$(echo "$body" | sed "1,/# $title/d")
-elif [ -n "$title" ]; then   # Otherwise, check if title is not empty
-    body=$(echo "$body" | sed "0,/$title/{/$title/d;}")
+# Check if Pandoc converted body successfully.
+if [ -z "$body" ]; then
+    echo "Error: Failed to convert body from '$input_docx' using Pandoc."
+    exit 1
 fi
 
-# --- End Title Extraction Logic ---
-
-# Output the formatted title and body
-echo "# $title"
-echo
-echo "$body"
+# Output the extracted title and converted body
+{
+    echo "# $title"
+    echo
+    echo "$body"
+} | sed '/^convert .* as a Writer document/d'
