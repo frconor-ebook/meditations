@@ -1,0 +1,293 @@
+---
+layout: homily
+title: "Canonization of St Josemaria Escriva"
+---
+
+
+By Fr. Conor Donnelly
+
+*(proofread)*
+
+My Lord and my God, I firmly believe that you are here, that you see me,
+and that you hear me. I adore you with profound reverence and ask for
+your pardon for my sins. I request grace to make this time of prayer
+fruitful. I ask for the intercession of my Immaculate Mother, St.
+Joseph, my Father and Lord, and my guardian angel.
+
+St. Paul says that all who are guided by the Spirit of God are children
+of God. The spirit we received was not one of slavery to bring us back
+into fear, but the spirit of adoption, which allows us to cry out
+\"Abba, Father.\" The Spirit himself joins with our spirit to bear
+witness that we are children of God.
+
+If we are children of God, then we are heirs, heirs of God and joint
+heirs with Christ, provided that we share in his suffering so we can
+share in his glory. October 6th, the feast of the canonization of St.
+Josemaria, is a special day in the history of Opus Dei and the church.
+This is because a special founder was raised to the altars. Everyone who
+attended the canonization has a special memory of the occasion,
+something that touched them in a special way.
+
+For some people, it was the moment when St. Josemaria was proclaimed a
+saint or some other special moment. Personally, the thing that impressed
+me most was when I arrived at St. Peter\'s Square the afternoon before
+the canonization and walked up the approach road, the *Via
+Conciliazione*, and saw a tapestry of St. Josemaria hanging from the
+central balcony of St. Peter\'s. For his beatification, it was on the
+left-hand side, but now it was in the center. It was very impressive to
+see St. Josemaria\'s picture being lifted up on the facade of St.
+Peter\'s, as though he was being lifted up on the face of the church. I
+thought about how just a few decades ago, he lived just a few kilometers
+away and now he was being lifted up. With him being lifted up was his
+message, the universal call to holiness, which is that every person on
+the planet is called to be holy in the ordinary situation in which
+they\'re placed. This message has great relevance for all of humanity,
+including every person in China.
+
+Some saints in church history have had messages that were specific to
+certain groups of people, such as the physically or mentally
+handicapped, the poor, or those related to education or healthcare. But
+St. Josemaria\'s message was universal, touching every person on the
+planet. The significance of his canonization was therefore very special.
+
+Today is a day of thanksgiving for St. Josemaria\'s life and gift, and
+everything he has meant to the church and our lives. It is a great gift
+from God, a grace that not everyone receives, and one that we will be
+held accountable for.
+
+St. Josemaria was a faithful instrument that God used to do great things
+in the world. His life was great because he responded completely and
+faithfully to his calling. We can ask God for the same fidelity in all
+aspects of our lives, including attention to detail, holiness through
+work, holiness in our family, carrying the cross faithfully, and
+responding to our Christian vocation. We can also ask St. Josemaria for
+the grace to be more fruitful apostles in all situations.
+
+Sometimes we don\'t realize the gift of God, but over time and with
+grace, we come to understand what he has placed in our hands. We can
+thank God for knowing St. Josemaria and his life, and for the spiritual
+treasures he has left us in his written works such as *The Way*, *The
+Forge*, and *The Furrow*. This is a call to responsibility and we can
+ask God for grace to be more like St. Josemaria.
+
+The saints point us towards Christ, and we must try to be consequential
+in the things we see. We must keep asking God for grace and have a
+permanent youthfulness of soul because we are madly in love with our
+Christian vocation. St. Josemaria encouraged people to keep trying and
+asking God for miracles until the last moment of our lives, for our own
+personal conversion and the conversion of those around us.
+
+On the occasion of his canonization, a story was shared about a woman
+from Madrid who wanted her husband to attend the ceremony. Although he
+was a Catholic, he was not practicing.
+
+He hadn\'t been inside a church for years, so his wife asked St.
+Josemaria, who was not yet a saint, to grant her the favor of having her
+husband accompany her to St. Peter\'s for the ceremony, which meant so
+much to her. Eventually, her husband agreed to come to Rome and attend
+some of the ceremonies.
+
+However, after about half an hour of the ceremony, he turned to his wife
+and said, \"Look, I\'ve done everything you asked. I\'ve come to Rome,
+to St. Peter\'s, and to the ceremony. I\'ve had enough. I\'m going back
+to the hotel to have a beer.\" So, he left his wife there and went back
+halfway through the ceremony for a beer.
+
+The well-to-do architect from Madrid had no time for religion and as he
+sat outside his hotel sipping his beer, he noticed a group of poor
+Peruvian farmers who had come on an enormous journey to attend the
+ceremony. He became curious as to why these poor people would make such
+a sacrifice and effort to come.
+
+As he engaged one of them in conversation, he found out that they owed a
+lot to St. Josemaria and felt they had to come to witness his
+canonization. They did a novena to him, asking for a double harvest, and
+he gave them one. With the extra money they earned, they took out a loan
+to attend the ceremony.
+
+The architect, who had been reluctantly brought to the ceremony, felt
+ashamed as he realized the sacrifice these people had made. He wrote a
+check for \$30,000 and handed it to one of the women, who exclaimed it
+was a miracle of St. Josemaria. The architect realized that the lady\'s
+prayer for a major favor for her husband had been answered.
+
+The canonization of St. Josemaria means an enormous joy and
+responsibility. The church is raising the founder of Opus Dei to the
+altars, which impressed upon us the spirit of Opus Dei as a way of
+sanctity and urges us to follow it faithfully.
+
+We have a pathway to heaven that we must try to follow and spread to
+others. We must correspond to the goals of the new evangelization and
+the civilization of love. Pope St. John Paul placed these goals before
+us, and we must try to achieve them.
+
+That\'s what Don Alvaro said: our St. Josemaria attained sanctity
+because he fulfilled the will of God. This means that he was a good
+servant of the Lord and has become the father of this supernatural
+family with which we are in contact.
+
+The Lord entrusted the spirit of the Work to him, so that he could make
+it the center of his life and pass it on to his children and future
+generations, just as a father gives life to his descendants. St.
+Josemaria accepted this paternity with complete conviction that his
+purpose on earth was to fulfill it. We too can have the same conviction
+in our life, family, mission, and what God has called us to do, living
+out our spirit in a concrete way.
+
+Blessed Alvaro also said that it is important to be convinced of the
+importance of exercising personal freedom, which comes with a
+corresponding responsibility to get involved in national and
+international organizations. These organizations can be platforms for
+promoting Christian values in areas such as family, education, defense
+of human life, and other issues that should be approached in accordance
+with the teachings of the church. If your work involves the media,
+imagine the impact it could have if it performed its informative and
+cultural roles while also bearing the stamp of your unity of life.
+
+St. Josemaria has opened up apostolic horizons and great challenges for
+us to face in the environment in which we live, even if it means
+sometimes clashing with our surroundings, but we can still make a
+difference and change the culture. The Lord wants his children, those of
+us who have received the gift of faith, to proclaim the original
+optimistic view of creation and a love for the world, which is at the
+heart of the Christian message.
+
+So there should always be enthusiasm in your professional work and
+efforts to build up the earthly city, which God has entrusted to each of
+us. As Blessed Alvaro says in The Forge, \"You are an ordinary
+citizen.\" It is precisely because of this secularity that you must be
+brave, sometimes very brave, to make your faith felt. People should see
+your good works and the motivations behind them. St. Josemaria had to be
+very brave to help the spirit he founded in Madrid in 1928 reach the
+ends of the earth.
+
+On the occasion of St. Josemaria\'s beatification, his brother was
+present. He was asked if there was anything in the ceremony that
+impressed him more than anything else, whether it was the moment his
+brother was proclaimed blessed or when the Pope said certain words.
+
+And he said, \"Well, all that was very nice, but if you really want to
+know what impressed me the most, I was introduced to an assistant
+numerary of Opus Dei from Fiji. And I thought, if the spirit that my
+brother founded in Madrid could reach the South Pacific and this woman
+had dedicated her entire life to God through Opus Dei, well, that spirit
+can only have come from God.
+
+You can\'t explain it in human terms. And so, there are many things
+about the life and spirit of St. Josemaria that can\'t be explained in
+human terms. His enormous effectiveness all over the world, and the
+devotion to him being so fruitful, are examples. I once heard of a
+couple in Taiwan who raised their children well. They had a 10-year-old
+and an 8-year-old. The 10-year-old often hogged the computer and
+wouldn\'t let his younger sister use it, despite being told by his
+parents many times that he was a genius and should let her use it.
+
+So, the parents decided to punish him by telling him he wouldn\'t be
+able to go on the class outing the following Wednesday, which was the
+most exciting event of the whole school year and everyone was going.
+When he heard this, he kicked up a big fuss. The parents were happy with
+their punishment, as they had read all the right books about parenting
+and attended all the right classes.
+
+The following Monday (which was actually a Saturday), the teacher asked
+everyone in class to raise their hand, including those going on the
+outing, and everyone raised their hand except for the boy. The teacher
+asked why he wasn\'t going on the outing, and he said it was because his
+parents wouldn\'t let him. The teacher later called the parents to find
+out what was wrong, and found out the full story.
+
+That night, the boy decided to have one last chance and plead with his
+parents to let him go on the class outing, but they were firm in their
+decision.
+
+And so he went into his bedroom and locked the door. He stayed in his
+bedroom with the door locked for a while. But then his mother began to
+get a bit nervous. He was in his room, silent. Twenty minutes passed,
+and then twenty-five minutes. At thirty minutes, she found she couldn\'t
+take it anymore.
+
+She had read books or heard stories about children committing suicide in
+their bedrooms. So she went to the door, knocked hard on it, and said,
+\"Open the door, what are you doing?\" Eventually, he opened the door,
+and she asked him, \"What are you doing in here with the door locked?\"
+He replied, \"I was praying the prayer card to Saint Josemaria
+Escriva.\"
+
+Now the mother was a bit aghast. He was praying the prayer card. \"Oh my
+goodness. Now, this changes the situation.\" And she decided that she
+had to have a powwow with her husband and discuss this thing again. Ever
+since he was very small, they had tried to bring him up to be a soul of
+prayer, to have recourse to prayer in difficult moments, to have faith
+in God, to grow in his soul, and to be a spiritual person.
+
+And now, in this crisis, here he was praying. As they talked about it,
+they realized, \"Well, you know, if he doesn\'t get what he wants, maybe
+he loses faith in prayer, his faith in God, and a whole pile of other
+things. And that\'s much more important than a school outing.\" So after
+discussing and studying it for a while, the parents realized that they
+had to relent and allow him to go on the school outing.
+
+And so he got the favor he was looking for. All over the world, in all
+sorts of places, St. Josemaria has shown his amazing effectiveness and
+activity, very active in various ways. In The Furrow, he says, \"It\'s
+difficult to make one\'s mark through quiet work and the proper
+fulfillment of our duties as citizens. So that later one can demand
+one\'s rights and place them in the service of the church and of
+society.\"
+
+\"It\'s difficult,\" he says, \"but it\'s very effective.\" And so the
+pathway of holiness that St. Josemaria has outlined for each one of us
+is a pathway of quiet work and the proper fulfillment of our duties as
+ordinary citizens. Everything is very ordinary. It\'s a help to fulfill
+our ordinary duties as ordinary Christians.
+
+In *The Forge*, he says, \"The moment you have anyone, whomever they may
+be, at your side, find a way without doing anything strange to pass on
+to him or her the joy you experience in being a child of God and living
+as such.\"
+
+And so, we have to try and see how we can be more effective than St.
+Josemaria was. Your task as a Christian citizen, he says, is to help
+ensure Christ\'s love and freedom preside over all aspects of modern
+life, culture, the economy, work and rest, family life, and social
+relations.
+
+That also means we have to be very much in touch with the world, reading
+the newspaper, and keeping abreast of current affairs, including sports.
+We\'re not just like other people on the street; we are the other people
+in the street. It means acting with this quality in social,
+professional, and political life, living out our Christian vocation to
+the fullest.
+
+And at the same time, we must realize that we are not really doing
+anything special. We\'re just living the life that God has given us to
+live.
+
+So, as we\'re told in St. Luke, when you have done all you\'ve been told
+to do, say, \"We are unprofitable servants. We have done no more than
+our duty.\"
+
+On this special day, we can ask St. Josemaria to give us the grace to
+have a greater devotion to him and to ask him for more and more things
+every day. Also, we can extend the favor of prayer to the people we come
+in contact with, all sorts of people, by giving them a prayer card to
+St. Josemaria.
+
+In that way, we put them in contact with one of the most powerful saints
+in heaven and open enormous horizons for them.
+
+And Our Lady, who is the Queen of the Saints, will help all our efforts
+in the apostolate to be ever more fruitful.
+
+I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, St.
+Joseph, my Father, and Lord, my Guardian Angel, intercede for me.
+
+I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, St.
+Joseph, my Father, and Lord, my Guardian Angel, intercede for me.\
+\
+Proofreader: Edward Wijaya (Japan)\
+Email: ewijaya@gmail.com

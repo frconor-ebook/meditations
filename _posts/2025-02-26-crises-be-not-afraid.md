@@ -1,0 +1,429 @@
+---
+layout: homily
+title: "Crises: Be Not Afraid"
+---
+
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+On one occasion, Our Lord said to the disciples, "Take courage, it is I.
+Do not be afraid" (Matt. 14:27). And to Peter, after rescuing him, He
+said, "Man of little faith, why did you doubt?" (*cf*. Matt. 14:31).
+
+When the angel appeared to Our Lady, he said, \"Do not be afraid, Mary"
+(Luke 1:30). And in the Letter of St. Peter, we\'re told, \"Cast your
+anxieties on him, for he cares about you" (1 Pet. 5:7).
+
+Fr. Tommy Lane eloquently discusses in his homily how we can learn much
+from the disciples' experiences on the Sea of Galilee: "It has been said
+that we have one crisis every year and a major crisis every decade.
+Hopefully, during every crisis, or what appears to be a crisis, we grow
+and mature so that we\'re better able to cope with the next crisis
+(*cf*. Fr. Tommy Lane, *Homily*, "Growing through Trials like Peter").
+
+The disciples of Our Lord suffered a crisis when they thought they saw a
+ghost walking towards them on the lake (Matt. 14:22-33). They didn\'t
+cope very well with their crisis; they were terrified and cried out in
+fear. Peter also endured a crisis when he began to walk on the water and
+felt the force of the wind and took fright.
+
+It's in these moments of crisis that Our Lord says, "Take courage, it is
+I. Do not be afraid" (Matt. 14:27) and "Man of little faith, why did you
+doubt?" (*cf*. Matt. 14:31).
+
+In the first lines of the first chapter of Genesis, it says, "The spirit
+of God was moving over the face of the waters" (Gen. 1:2). The spirit of
+God continues to move over the face of the waters. Often what we see as
+crisis are just ways of God\'s transmitting to us deep spiritual
+messages.
+
+Many years ago, after the World Trade Center collapse, there was a
+psychiatrist who was interviewed on the Larry King Live show in the
+United States. This psychiatrist had counseled parents who had lost
+children, children who'd lost parents, brothers, sisters, or sisters,
+brothers. And he was asked by the compère, after speaking to all of
+these people, "Do you have any message for America tonight?" He said,
+"Yes, my message is for parents, and the message is: take your children
+to church."
+
+He didn\'t say which church, but what he was saying was that when the
+dust settles, the key factor that helps people to move on in their life
+when they undergo a certain crisis is belief in the eternal life, belief
+in God, belief in the immortality of the soul, belief in the passing
+nature of this world.
+
+Because when you\'re going from the 142nd floor to the second floor in a
+couple of seconds, it doesn\'t matter where you got your MBA, or how
+much money you have in the bank, or where you live, or what car you
+drive. The only thing that matters is the state of your soul.
+
+Often God uses specific crisis to form our soul, to grow in our
+spiritual life, grow in faith and hope, and to realize that God is
+beside us.
+
+"Take courage, it is I. Do not be afraid." Jesus helping the disciples
+on the Sea of Galilee was not just an event that happened once and in
+the past. That event is also included in St. Matthew in his Gospel to
+teach us that Our Lord is with us in the Church---and with us as
+individuals in a very personal way, in every crisis and trial that we
+may endure.
+
+Just because we endure a crisis---health, financial, familial,
+professional, whatever it may be---it doesn\'t mean that we\'ve been
+abandoned by God. God is with us especially when our faith is tested.
+
+Those words of Our Lord are words that He addresses to all men and women
+in every trial and crisis that may happen in their life. When we endure
+that testing, the important thing is to learn from it and to grow and
+mature from it.
+
+Imagine the disciples battling against a headwind during the fourth
+watch of the night, and then seeing Jesus walking towards them on the
+water. We would not expect them to take fright or cry out in fear.
+Hopefully, they would have learned before that Our Lord was coming to
+rescue them during the storm.
+
+Our life is a journey to God, a journey for growth and maturation.
+There\'s often more growth and maturation in the valleys than on the
+mountaintops. And so, if Our Lord sends us a crisis, He wants us to
+sanctify that crisis.
+
+Recently here in Uganda, we made a visit to a place called Nkokonjeru,
+which means the place of the white hen. Mother Kevin Kearney is buried
+there. She was an Irish missionary who came here in 1903 and set up
+fifteen or so convents, put a school and a clinic beside each one of
+them. Each one of those clinics and schools grew to be very important
+institutions in this country. The process of beatification is ongoing.
+
+We visited her grave, a very beautiful place, well worth visiting some
+time if you get the opportunity. But we also came across a statue of St.
+Michael. Under the statue, Mother Kevin had inscribed how on one
+occasion when she was starting her community, she had a number of
+novices, then the compound was attacked by chiefs and other tribesmen
+who were accusing Mother Kevin of taking away their future wives and
+their future children. They wanted their women back.
+
+She sent the novices into the forest to hide, and she prayed ardently to
+St. Michael the Archangel to protect her from this onslaught that was
+coming. Eventually, those angry chiefs, with their demands, turned away
+in peace and went back to where they came from.
+
+She had this statue of St. Michael built with this testimony---how St.
+Michael the Archangel had been a great solace and help in that moment of
+trial, a moment of crisis when the religious order she was trying to
+found was in grave danger.
+
+We can learn a lot from these experiences. These sorts of crisis and
+trials are opportunities to grow closer to God. Some of the questions we
+need to ask ourselves in those moments are: 'What is it that you\'re
+trying to say to me, good Lord, during this crisis and this trial? What
+are you trying to teach me? What is it that you want me to learn?'
+
+Somebody said that when a crisis comes our way, we should milk it for
+meaning. Those crises in our lives are opportunities to succeed
+spiritually and really grow closer to Our Lord.
+
+One of the things learned during a crisis is that we cannot do by our
+own strength what we can do with the grace of God. That\'s a little bit
+what that psychiatrist was saying on the Larry King Live show: "take
+your children to church." Help them to learn these great messages, these
+great lessons which will stand to them later in life.
+
+It\'s interesting how in the Gospel, we see Peter failing the tests
+again and again. From what we see of him when he fails these tests that
+Our Lord places before him, you would never imagine that he would be
+represented by statues in Rome in front of St. Peter\'s \[Basilica\] in
+St. Peter\'s Square. But during all his trials, and with the outpouring
+of the Holy Spirit at Pentecost, Peter grew.
+
+In the *Acts of the Apostles*, we see that Peter had matured and grown
+enormously. Then when we read the *Acts of the Apostles*, we can
+understand why Peter is represented by statues in Rome.
+
+In the *Acts*, we see Peter relying on the Lord and the Lord working
+powerfully through him. In the Gospels, Peter speaks first and thinks
+afterwards. But in the *Acts*, Peter relies on the Lord and allows the
+Lord to speak through him.
+
+In the courtyard of the high priest, Peter denied the Lord three times
+(Matt. 26:69-75). But in the *Acts of the Apostles*, Peter is sent to
+prison twice for preaching in the name of Jesus (Acts 4:3, 5:18).
+
+In the Gospel, Peter did not want Jesus to go to Jerusalem to endure His
+Passion (Matt. 16:22). But in the *Acts*, Peter and the other apostles
+were glad to have the honor of suffering for the sake of the name of
+Jesus (Acts 5:41).
+
+In *Acts* 5:15, we see that the sick even hoped that Peter\'s shadow
+would fall on them. And so, Peter has become monumental. If Peter did
+not endure all the trials we see him experiencing, he would never have
+grown to become the great person he became.
+
+Mothers and fathers who may experience crises in their family---the loss
+of a loved one, some major challenge, or disunity, or maybe it seems the
+ground under you is cracking---these are all divine invitations to grow
+to be a great person of faith, of hope, to learn what those virtues are,
+and God may want you to give that example to your children so that they
+can grow to be a person of great faith and of hope and hopefully spread
+that message around them.
+
+We can ask Our Lord that we might trust Him in a special way during our
+crisis. We know that He gives us special grace in those moments to do
+what we cannot do by our own strength. That's why He says, "Take
+courage, it is I. Do not be afraid." "O you of little faith, why did you
+doubt?\"
+
+A man came to me once in another country. He had missed his promotion;
+his career path had taken a left turn. He was very down. I suggested to
+him to go and read the chapter on pessimism in *The Forge*, which is the
+chapter of the writings of St. Josemaría that I\'ve recommended most in
+the last forty-plus years as a priest.
+
+He went away and came back the following week and said he had read that
+chapter. "But there was one line," he said, "that kept me going all
+week. It\'s when Our Lord says, 'Take courage, it is I. Do not be
+afraid'" (Matt. 14:27).
+
+Pope Francis says that in our life\'s worst moments, we should never
+forget that Jesus is beside us. "He\'s beside us to lift us up" and to
+begin again. "He\'s there to help us, to protect us, so we shouldn\'t
+lose the certainty.
+
+Pope Francis said that the act of self-examination prevents us from
+becoming "accustomed to the darkness and no longer knowing how to
+distinguish between good and evil." Each of us, he said, should reflect
+on this within ourselves and talk to Our Lord about it today (Pope
+Francis, *General Audience*, January 3, 2024).
+
+He said, "The spiritual life of the Christian is not peaceful, linear,
+and without challenges; on the contrary, Christian life demands a
+constant battle" (*ibid*.)
+
+You could say, in some ways we should expect the crisis or the trials.
+We may not like them, we may not love them. Yet we know that this is God
+speaking to us.
+
+"The saints were not men and women who were spared temptation, but
+rather people who are well aware of the fact that in life, the
+seductions of evil appear repeatedly, to be unmasked and rejected"
+(*ibid*.).
+
+Our Lord is always our safeguard against the difficulties and
+temptations that we may have to undergo. We win every battle with Him at
+our side. As long as we stay close to our weekly sacramental Confession
+and our daily Holy Communion, we have all the means in our *plan of
+life* also.
+
+The whole history of the Incarnation opens with those words, "Do not be
+afraid, Mary" (Luke 1:30). And the angel of the Lord said also to
+Joseph, "Do not be afraid, Joseph, son of David..." (Matt. 1:20). And
+again to the shepherds, the angel repeats, "Do not be afraid" (Luke
+2:10).
+
+This beginning of God\'s coming into the world marks a style proper to
+Our Lord\'s presence among men.
+
+Later on, in St. Matthew, when there arose that great storm on the sea
+and the boat was being swamped by the waves, they wake Our Lord: "Does
+it not concern you that we are perishing?" (Matt. 8:24, Mark 4:38). It
+was the evening of a day in which Our Lord had talked about the parables
+of the kingdom of heaven.
+
+We\'re told that Our Lord was tired out after hours of preaching, and He
+was asleep in the boat. It\'s a great image for us to remember. Very
+often Our Lord is asleep in the boat. Our Lord did not suffer from
+insomnia.
+
+There was a great storm brewing. The storm must have been tremendous
+because the apostles were accustomed to the sea. But they saw themselves
+in danger. And so, they cried out, 'Lord, save us, we\'re perishing"
+(Matt. 8:25). 'We\'re in the midst of this great crisis and you\'re fast
+asleep here in the boat.'
+
+At the beginning, the apostles might have understood why Our Lord was
+asleep. He must have been very tired, not to have been awakened by the
+storm. They must have done everything in their power to avert the
+danger, furling the sails, rowing hard, bailing out the water.
+
+But gradually the storm began to get the better of them. They were in
+imminent danger of sinking. The crisis was not a momentary affair. It
+lasted quite a few hours.
+
+Then, overcome with fear, they turned to Our Lord as their one and only
+recourse. That\'s exactly what Our Lord wanted---to let them see that
+there was no human way of coming out of this crisis. He wanted them to
+turn to Him.
+
+They went and woke Him, saying, "Save us, Lord, we are perishing." And
+He said, "Why are you afraid, O men of little faith?" (*cf*. Matt.
+8:25-26).
+
+It's true our faith may be small, and we doubt that the storms will
+pass. Very often we might allow ourselves to be discouraged by
+circumstances, sickness, or work, or reverses of fortune, or opposition
+to us in our surroundings, or all sorts of difficulties that we might
+have to undergo.
+
+Fear is a phenomenon which covers almost every aspect of life. It\'s
+often the result of ignorance or of selfishness stemming from an
+excessive concern for oneself or anxiety over things that will never
+happen.
+
+I saw an interesting movie recently. It\'s called "Cabrini." It\'s the
+story of St. Mother Cabrini, starting off her social work in New York a
+century or so ago, facing all sorts of trials and difficulties. It's
+very formative, very educational, very good movie for families to see,
+and other people who are trying to follow a Christian life, to see the
+trials that the saints had to endure. It\'s how they went forward with
+faith.
+
+Fear often stems from the awareness that the security of our life is
+based on very weak foundations. We can forget the essential truth that
+Christ is our constant security. That doesn\'t mean that we\'re
+insensitive to events, but that we should have more confidence in using
+the human means at our disposal.
+
+We must never forget that to be close to Jesus, even when He appears to
+be asleep, is to be safe. When we are confused and going through
+unpleasant times, Jesus does not forget us. St. Teresa of Ávila said,
+"He never fails his friends" (Teresa of Ávila, *Life*).
+
+The awareness that we are children of God can be very powerful, can lead
+us to have great confidence in Him. He will never come too late to
+rescue us. Even when all seems lost, our Father God will always be there
+at the right time, although it may be in secret and in mysterious ways.
+
+Complete confidence in God, while at the same time using all the human
+means available, gives the Christian great fortitude and a special
+feeling of peace when he\'s up against the most painful events and
+circumstances.
+
+St. Josemaría says in *The Way*, Point 730, "If you don\'t abandon him,
+he will not abandon you." And we tell Him in our prayer that we do not
+want to leave Him. Together with Him, every battle is a victory, though
+at first sight it might seem a defeat.
+
+In *Friends of God*, Point 92, he says, "At the very moment when
+everything seems to be collapsing before our eyes, we realize that quite
+the opposite is true, 'because you, Lord, are my strength' (Psalm 42).
+If God is dwelling in our soul, everything else, no matter how important
+it may seem, is accidental and transitory, whereas we, in God, stand
+permanent and firm."
+
+This is the medicine to purge from our lives all fears, tensions, and
+anxieties. St. Paul comforted the first Christians in Rome, who faced a
+panorama of great human difficulties, with the words, "If God is for us,
+who can be against us? He who did not spare his own Son but gave himself
+up for all, will he not also give us all things with him? ... Who shall
+separate us from the love of Christ? Shall tribulation, or distress, or
+persecution, or famine, or nakedness, or peril, or sword?\... No, in all
+these things we are more than conquerors through him who loved us" (Rom.
+8:31-32, 35,37).
+
+He continues in his Letter to the Romans, "For I am sure that neither
+death nor life, nor angels, nor principalities, nor things present, nor
+things to come, nor powers, nor height, nor depth, nor anything else in
+all creation, will be able to separate us from the love of God in Christ
+Jesus Our Lord" (Rom. 8:38-39).
+
+By vocation a Christian is a person dedicated to God, and one who has
+accepted all that may happen to him as being permitted by Him.
+
+On another occasion, Our Lord taught the people around Him about the
+love and care that God has for every creature. His listeners were simple
+and honest people who gave praise to the majesty of God, but who lacked
+that special confidence of children in God the Father.
+
+It may have been that just as He was talking to them, a flock of
+sparrows came around, pecking about for what they could pick up. But who
+bothers about them? Maybe the housewives of the village might sometimes
+buy some of those sparrows for a few pennies to flavor their ordinary
+meals. Those sparrows were within reach of the most modest purse. They
+were of little value.
+
+Our Lord would indicate to them with a gesture while saying to His
+audience, "Not one of these sparrows is forgotten before God." God knows
+everything. "Not one of these falls to the ground without your Father
+knowing it." And Our Lord goes on to give us confidence. "Fear not, you
+are worth more than a host of sparrows" (Matt. 10: 29-31).
+
+We are not creatures of the moment, but His children forever. How could
+He not take an interest in our plans? We need not fear because Our God
+has given us life and He has given it to us forever.
+
+In St. Luke, He says, \"To you, my friends, I tell you, do not fear"
+(Luke 8:50). St. Thomas Aquinas says, "Every man, no matter who he is,
+is God\'s friend and should have great confidence in being freed by him
+from any type of affliction. ... And as God helps his servants in a
+special way, he who serves God should live in great peace" (Thomas
+Aquinas, *Exp Simb Apost. 5*).
+
+There is only one condition: to be friends of God and to live as His
+children. We know that "all things work together unto good for those who
+love God" (Rom. 8:28).
+
+St. Josemaría says, "Take rest in your divine filiation. God is a father
+of tenderness, of infinite love" (Josemaría Escrivá, *Friends of God*,
+Point 150).
+
+St. Peter in his Letter says, \"Cast your anxieties on him, for he cares
+about you" (1 Pet. 5:7). Our divine filiation shouldn\'t be considered
+as something just up in the clouds. It doesn\'t mean that God simply
+treats us as a father and expects us to treat Him as sons. No, through
+the indwelling, sanctifying power of God, the Christian is a real child
+of God.
+
+This is such a profound reality that it affects man\'s very being, to
+such an extent that St. Thomas declares that through it, "man is made
+into a new being" (Thomas Aquinas, *Summa Theologiae* 1, 2, Question
+110).
+
+The *Catechism* talks about the new creation that we get with grace in
+our soul (*Catechism of* *the Catholic Church*, Point 1999). That
+awareness of being children of God is the foundation for the freedom,
+security, and happiness of the children of God.
+
+In it man finds the protection that he needs and finds that fatherly
+warmth and certainty in the future which enables him to abandon himself
+without worrying about the unknown things that tomorrow may bring. It
+gives him the conviction that behind all the hazards of life, there
+always lies a very good reason. As we\'re told in St. Paul to the
+Romans, "We know that in everything God works for the good" (Rom. 8:28).
+
+Even our mistakes and our wanderings from the right path, always end up
+well. St. Augustine says, "for God arranges absolutely everything to his
+own advantage" (St. Augustine, *De corresp et gracia*).
+
+We can turn to Our Lady---to her, whom we contemplate close to her Son.
+She will always be our teacher. Our Lady will always teach us how to
+function as children of God even in the most difficult circumstances.
+
+Mary, may you help us in all the trials and crisis of our life. May we
+come to a deeper realization that you are truly Our Mother, that we can
+turn to you. "Never was it known that anyone who fled to your
+protection, implored your help, or sought your intercession, was left
+unaided" (Prayer, *The Memorare*).
+
+May we experience those words in a very concrete way with your maternal
+help in all the difficulties of our life.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*MVF*

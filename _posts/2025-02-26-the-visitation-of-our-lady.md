@@ -1,0 +1,431 @@
+---
+layout: homily
+title: "The Visitation of Our Lady"
+---
+
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+"Mary set out at that time and went as quickly as she could into the
+hill country to a town in Judah. She went into Zachariah\'s house and
+greeted Elizabeth.
+
+"Now it happened that as soon as Elizabeth heard Mary\'s greeting, the
+child leapt in her womb and Elizabeth was filled with the Holy Spirit.
+
+"She gave a loud cry and said, 'Of all women, you are the most blessed,
+and blessed is the fruit of your womb. Why should I be honored with a
+visit from the Mother of my Lord?'" (Luke 1:39-43).
+
+Today we celebrate the beautiful feast of the Visitation of Our Lady, an
+event that we remember every day, or frequently, when we say the Joyful
+Mysteries of the Rosary.
+
+It\'s the response of Our Lady to her vocation. She captures the message
+of the angel.
+
+The angel doesn\'t tell her to go and visit Elizabeth, but she does give
+her a hint. She tells how Elizabeth "is now in her sixth month" (Luke
+1:36), and many things are happening with Elizabeth.
+
+Our Lady takes the baton and runs with it. She gets that little hint
+from God about Elizabeth and about her own vocation. And so, with great
+initiative, she sets off to visit Elizabeth.
+
+It\'s a four-day journey away. It involves an uphill journey. It\'s a
+complication because she has to leave her parents. She\'s still young to
+go on a relatively dangerous journey.
+
+And she has to leave Joseph. And they\'re already engaged to be married.
+She cannot tell Joseph why she\'s going because this is something
+between her and God. She leaves all those things in the hands of God.
+
+The Queen of Creation goes quickly. She rises, doesn\'t stand on
+ceremony.
+
+The Latin translation of this event said, *Exurgens Maria, surgere.*
+It\'s the same verb that\'s used for the Resurrection. It\'s quite
+strong. She rises up out of her ordinary situation and goes off to visit
+Elizabeth.
+
+With this reaction of Our Lady, we\'re reminded that we are here to
+serve---to serve other people, and to use opportunities to serve.
+
+One of the first things that Our Lady shows us when she hears about her
+vocation is the quality of her friendship. She thinks, How can I help
+Elizabeth? What can I do for her?
+
+She doesn\'t just think about it in a nebulous, theoretical sort of way,
+but she puts it into practice.
+
+Our Lady is a woman of action. She goes with haste. There\'s a sense of
+urgency in her doing, as though she\'s telling us for all time that we
+also have to have a sense of urgency in our friendship, in our reaching
+out to others, and our apostolate.
+
+She doesn\'t dilly-dally. It all happens in those days. She doesn\'t
+think about it for weeks or months. She struggles to overcome the
+obstacles. There are hills to be climbed, but she\'s not held back by
+any of the difficulties.
+
+It's a marvelous picture of Our Lady that we receive in this particular
+event of her life.
+
+Pope John Paul liked to say that every vocation is like a pilgrimage of
+faith. And particularly, he calls the vocation of Our Lady a pilgrimage
+of faith faith (John Paul II, *General Audience*, March 21, 2001;
+Vatican II, *Lumen gentium*, Point 58).
+
+She seizes the opportunity. She goes on this journey. A pilgrimage is a
+journeying forward toward a destination.
+
+She goes forward with great faith and with great daring. There\'s
+initiative. There\'s dynamism. There\'s drive. There\'s intelligence.
+There\'s little regard for difficulties. There\'s a great supernatural
+vision. She\'s ready to overcome the obstacles.
+
+St. Josemaría liked very much a phrase of the Old Testament, which is a
+phrase of faith: "The waters will pass through the mountains"--*inter
+medium montium pertransibunt aquae* (Josemaría Escrivá, *The Way*, Point
+12; *The Forge*, Point 283; Ps. 104:10).
+
+When rivers reach a mountain, they can\'t go over the mountain.
+Sometimes they can\'t go around the mountain. So the waters go through
+the mountains.
+
+Or if you have a flood sometime and you\'re trying to stop the flood
+with sandbags, somehow or other, some of the waters get through the
+sandbags.
+
+"The waters pass through the mountains." They pass. They permeate all
+difficulties.
+
+She gets over the problems of leaving her parents and leaving St.
+Joseph. She puts her vocation first: what God has asked of her.
+
+Even though He hasn\'t asked explicitly, she gives priority to the
+things of God in her life. There\'s a great divine logic there, not a
+human logic. There\'s great fortitude. She faces the dangers. She puts
+her heart into it---lock, stock, and barrel.
+
+There\'s also a great sense of abandonment. She leaves the problems in
+the hands of God. St. Paul to the Romans says, "Be joyful in hope,
+persevere in hardship, keep praying regularly" (Rom. 12:12).
+
+Our Lady goes forward with great hope. She doesn\'t know what\'s going
+to await her in Ein Karem. But she goes forward anyway.
+
+We see Our Lady journeying forward with a great peace. There\'s a joy
+and peace in her vocation. She\'s ready to do anything.
+
+When she arrives at the house of Elizabeth, all sorts of miracles begin
+to happen. "Look, the moment your greeting reached my ears, the child in
+my womb leapt for joy" (Luke 1:44).
+
+Our Lady\'s response of faith to her vocation is rewarded by what she
+finds in the house of Elizabeth. The Holy Spirit speaks to her: "Blessed
+is she who believed that the promise made her by the Lord would be
+fulfilled" (Luke 1:45).
+
+Mary is greeted by the compliment of her faith by Elizabeth. Elizabeth
+is the first to praise the faith of Mary: "Blessed is she who believed."
+And Elizabeth uses similar words that the angel has used: "Blessed are
+you among women."
+
+Our Lady\'s loyalty is rewarded: this thinking of others, this focusing
+on service, caring for people.
+
+St. Josemaría in *Christ Is Passing By* says, "If we have this filial
+contact with Mary, we won\'t be able to think just about ourselves and
+our problems. Selfish personal problems will find no place in our mind"
+(J. Escrivá, *Christ Is Passing By,* Point 145).
+
+In all of this reaction of Our Lady, we see a great generosity. She
+gives herself completely.
+
+When she goes there, she doesn\'t just stay a few minutes or a few hours
+or even a few days. We're told, "Mary stayed with her some three months
+and then went home" (Luke 1:56).
+
+It was a serious contribution. She stayed long enough to talk long and
+hard with Elizabeth and to be of serious support to her during this
+difficult time.
+
+Her support of Elizabeth was not accompanied by fanfare or trumpets.
+It\'s a corporal and spiritual work of mercy.
+
+At the same time, she didn\'t stay there forever. We\'re not told that
+she was there for the birth of John the Baptist. She knew when to leave.
+She doesn\'t stay longer.
+
+She also now has other priorities she has to think about. There are
+other things she has to do. She also must be about her Father\'s
+business.
+
+The Prelate of Opus Dei in 2008 says, "Mary remained in the home of her
+cousin for three months, helping out in all her needs. How much Our
+Lady\'s presence can accomplish! Commenting on this scene, St. Ambrose
+writes, 'If just her entrance into that house was so effective that,
+upon Mary\'s greeting the child leapt with joy in his mother\'s womb and
+his mother was filled with the Holy Spirit, how great must have been the
+effects of Mary\'s presence over such a long time!'" (Javier Echevarría,
+*Letter*, May 2008).
+
+"Now it happened that as soon as Elizabeth heard Mary\'s greeting, the
+child leapt in her womb and Elizabeth was filled with the Holy Spirit.
+She gave a loud cry and said, 'Of all women you are the most blessed,
+and blessed is the fruit of your womb. Why should I be honored with a
+visit from the Mother of my Lord?'" (Luke 1:41-43).
+
+The humility of Elizabeth. She praises somebody much younger than her.
+
+We are told, "We can apply the words of this Father and Doctor of the
+Church, St. Ambrose, to our response to Our Lord. If we strive to stay
+very close to Our Lady during the month of May and always, how many
+graces will be poured upon our souls! Among others, the great joy of
+knowing that we are friends and children of God" (Javier Echevarría,
+*ibid*.).
+
+Our Lady gives a total submission to her vocation---lock, stock and
+barrel. She holds nothing back.
+
+In the *Furrow* we're told, "'Blessed are you for your believing,' says
+Elizabeth to Our Mother. ---Union with God, supernatural virtue, always
+bring with it the attractive practice of human virtues: Mary brought joy
+to her cousin\'s home because she 'brought' Christ" (J. Escrivá,
+*Furrow*, Point 566).
+
+We also have to bring that similar joy to the people around us, to bring
+a great joy because we bring Christ. It was the greatest gift that Mary
+could bring.
+
+Our Lady is a great example of Christian feminism, of what her freedom
+stood for. She was free to go to Elizabeth or she was free to stay at
+home. She was free to correspond to the plans of God or she was free to
+say no. She was unmarried, she was pregnant, she was poor.
+
+What did her freedom stand for? First and foremost: for life, for
+marriage, for the family, for true love. She is met by that humility of
+Elizabeth: "How do I deserve to be honored with a visit from the Mother
+of my Lord?"
+
+Elizabeth is moved by the Holy Spirit to call Mary "the Mother of my
+Lord" even though Mary was much younger.
+
+Our Lady corresponds to her vocation, and along the way, the Holy Spirit
+speaks to her. When we correspond to our vocation, the Holy Spirit also
+speaks to us.
+
+He fills us with joy, just as the child leapt for joy in her womb. The
+presence of Mary in our life fills us with joy. John the Baptist speaks
+by leaping. He makes himself heard. He recognizes the voice of Our Lady.
+
+The whole role of John was to prepare the way of the Lord. He\'s the
+precursor of the Messiah, and already in the womb, he\'s already that
+precursor. He has not seen the light (*cf*. John 1:7-8), but he points
+the way to the Son, "the Sun of Justice" (Mal. 4:2) who has come into
+the world.
+
+Then Our Lady\'s response pours forth in the Magnificat, one of the most
+beautiful prayers in the whole of the New Testament.
+
+"My soul magnifies the Lord; and my spirit rejoices in God my Savior;
+because he has looked upon the lowliness of his handmaid. Henceforth all
+generations will call me blessed, for the Almighty has done great things
+for me. Holy is his name, and his faithful love extends age after age to
+those who fear him" (Luke 1:46-50).
+
+This prayer is reminiscent of parts of the Old Testament. It has a
+singular beauty. Mary glorifies God for making her the Mother of her
+Savior, which is why all future generations will call her blessed. God
+always has a preference for the humble.
+
+"He has used the power of his arm; he has routed the arrogant of heart.
+He has pulled down princes from their thrones and raised high the lowly.
+He has filled the starving with good things, sent the rich away empty"
+(Luke 1:51-53).
+
+He looks upon the lowliness of His handmaid. He has always taken care of
+the Chosen People in accordance with His promise, and now He gives them
+the greatest honor by becoming a Jew.
+
+"He has come to the help of Israel his servant, mindful of his faithful
+love, according to the promise he made to our ancestors, of his mercy to
+Abraham and to his descendants forever" (Luke 1:54-55).
+
+Mary\'s soul overflows in the Magnificat. It\'s full of peace. It\'s
+full of joy. It\'s full of gratitude. Wonderful words.
+
+We could try to bring that wonderful prayer of Our Lady to our own
+personal prayer. Say those beautiful words with a certain frequency:
+"His mercy is from generation to generation on those who fear him" (Luke
+1:50).
+
+Mary knew the mercy of God very well.
+
+"Mary, then," says John Paul II, "is the one who has the deepest
+knowledge of the mystery of God\'s mercy. She knows its price; she knows
+how great it is. In this sense," he says, "we call her the Mother of
+mercy: Our Lady of mercy, or Mother of divine mercy; in each one of
+these titles there is a deep theological meaning, because they express
+the special preparation of her soul, of her whole personality, so that
+she was able to perceive, through the complex events, first of Israel,
+then of every individual, of the whole of God\'s mercy and of his plans
+for salvation, that mercy of which 'from generation to generation' (Luke
+1:50) people become sharers according to the eternal design of the most
+Holy Trinity" (John Paul II, Encyclical*, Dives in* *Misericordia*,
+November 13, 1980).
+
+We are also told that Our Lady will lift up the lowly. She will put down
+the proud (*cf*. Luke 1:52).
+
+We're told *in Friends of God*, "When pride takes hold of a soul, it\'s
+of no surprise to find it bringing along with it a whole string of other
+vices: greed, self-indulgence, envy, injustice. The proud person is
+always vainly striving to dethrone God, who is merciful to all his
+creatures, so as to make room for himself and his ever-cruel ways."
+
+We're told that the Lord "has pulled down princes from their thrones and
+raised high the lowly. He has filled the starving with good things and
+sent the rich away empty" (Luke 1:52-53).
+
+"We should beg," said St. Josemaría, \[beg\] "God not to let us fall
+into this temptation. Pride is the worst sin of all, and the most
+ridiculous. If, with its multiple delusions, it manages to get a hold,
+the unfortunate victim begins to build up a facade, to fill himself with
+emptiness, and becomes conceited like the toad in the fable, which, in
+order to show off, puffed itself up until it burst.
+
+"Pride is unpleasant, even from a human point of view. The person who
+rates himself better than everyone and everything is constantly studying
+himself and looking down on other people, who in turn react by
+ridiculing his foolish vanity" (J. Escrivá, *Friends of God*, Point
+100).
+
+When we see the humility of Our Lady, we could ask her with greater
+insistence that she might make us humbler, so that we might follow the
+beautiful example she gives us in giving ourselves to others, in
+forgetting ourselves, in serving in all the ways that we can.
+
+"To give oneself sincerely," we are told in *The Forge,* "to others is
+so effective that God rewards it with a humility filled with
+cheerfulness" (J. Escrivá, *The Forge*, Point 591).
+
+Giving ourselves is a virtue of great souls. They find their reward in
+the act of giving. The generous person knows how to give without
+demanding; to give to others not because of what we are going to get.
+
+It\'s not, 'I give to you because you are going to give back to me.'
+It\'s giving unconditionally. Giving enlarges the heart.
+
+We could ask Our Lord that with the passage of time, we might maintain
+and strengthen our generosity. We need to maintain it, not diminish it,
+so that like Our Lady, we can give ourselves again and again, in all the
+different moments of our pilgrimage of faith, with whatever it is that
+God may be asking of us.
+
+When there is generosity and self-giving in a family, there is peace,
+there is serenity, there is joy. It\'s a great thing to ask God for.
+
+When we look to Our Lady, the model of all the virtues, we find that
+she\'s a great teacher.
+
+Happiness in this world is found through giving and self-giving. Christ
+left nothing for Himself, and He learns that humanly in the home in
+Nazareth, from Our Lady, from St. Joseph.
+
+God loves generosity. One of the things we find from looking at the life
+of St. Joseph in this Year of St. Joseph \[January 1, 2020 to December
+8, 2021\] is that constant self-giving---beginning and beginning again
+in new circumstances, in new situations, with a deeper humility to give
+more all the time.
+
+Glory to self is vainglory. On the ruins of our self-love, God wants to
+build the castle of our sanctification.
+
+We can ask Our Mother to help us to see the aspects of pride that may be
+lurking deep in the crevices of our souls; that pride that\'s always
+there.
+
+The best way to save our souls is self-forgetfulness. At the back of my
+mind, is there an opinion that somehow, I am superior? I need to remind
+myself that I am nothing.
+
+Maybe I know that I\'m a trash can, but what happens when I\'m treated
+like a trash can? I must remind myself that I\'m nothing.
+
+We receive less blows than we deserve. I\'m nothing, but what happens
+when people treat me as nothing?
+
+"Humility frees us to love and to serve others selflessly, for their
+sake rather than our own. True humility is not feeling bad about
+yourself, or having a low opinion of yourself, or thinking of yourself
+as inferior to others. True humility frees us from preoccupation with
+self, whereas low self-opinion can tend to focus our attention on
+ourselves" (Don Schwager, *Commentary, Luke 14:7-11*).
+
+We have to try and grow in this virtue and look again and again at the
+example that Our Lady gives us: to see that pride is like the poison of
+the snake (Ps. 58:4) and that humility is the foundation of all the
+human supernatural virtues (St. Augustine) because God resists the proud
+and gives His grace to the humble (Prov. 3:34, 1 Pet. 5:5). The proud
+person tends to be self-sufficient.
+
+We can ask for a deeper humility in family life; the humility to place
+the needs of others above our own. To pass unnoticed.
+
+When the blows come or the humiliations come, to see these as a grace, a
+gift that God has given to me to stand on my own ego, on my own love of
+self, and therefore to grow in humility.
+
+That allows us to be more docile, more available to talk about other
+people, not about ourselves. That allows us to give credit to God for
+all the good that there may be in our life.
+
+It means we don\'t make ourselves indispensable. We see all the talents
+that God has given to us as an opportunity to serve others, which we can
+always do better.
+
+It\'s humility to accept the cross when it comes, even if it\'s unjust.
+Accept the things that are said to us in a spiritual direction---to obey
+and to want to obey always.
+
+St. Benedict says, "If humility is truth, then a significant part of its
+practice must involve bringing out into the daylight of another\'s
+judgment whatever is hidden and, therefore, subject to delusion"
+(Michael Casey*, Truthful Living: Saint Benedict\'s Teaching on
+Humility*).
+
+So, we have to get out those hidden things that may be there that need
+to come out into that "daylight of another\'s judgment," if we are to
+grow in holiness.
+
+When we look at the whole scene of Ein Karem, we see there\'s great joy
+there. "The child leapt for joy" and Elizabeth was full of joy, Mary was
+full of joy. It\'s a very beautiful scene. There are many beautiful
+consequences.
+
+We can ask Our Lady, on this last day of May, that she might teach us
+always how to bring joy wherever we go, joy and peace, just like she did
+on this occasion of her visit to St. Elizabeth.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*MVF*

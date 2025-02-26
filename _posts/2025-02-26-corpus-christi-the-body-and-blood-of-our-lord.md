@@ -1,0 +1,463 @@
+---
+layout: homily
+title: "Corpus Christi (The Body and Blood of Our Lord)"
+---
+
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+"Stay with us, Lord, for it is almost evening" (Luke 24:29).
+
+This was the invitation of the two disciples on their way to Emmaus on
+the evening of Easter Sunday, addressed to the person who was
+accompanying them along their journey. They were weighed down with
+sadness, but they could never have imagined that this stranger who was
+with them was none other than their Master, risen from the dead.
+
+Yet they felt their hearts burning within them (Luke 24:32) as He spoke
+to them and explained to them the Scriptures. The light of the Word
+unlocked the hardness of their hearts and "opened their eyes" (Luke
+24:31).
+
+Amid the shadows of the passing day and the darkness that clouded their
+spirit, this stranger brought a ray of light which rekindled their hope
+and led their hearts to yearn for the fullness of light. And so, they
+said, "Stay with us." And He agreed.
+
+Soon afterwards, the face of Jesus would disappear, but the Master would
+"stay" with them, hidden in the "breaking of the bread" which had opened
+their eyes to recognize Him.
+
+That stranger continues to walk at our side. He continues to lead us to
+understand the Scriptures. He leads us little by little to a deeper
+understanding of the mysteries of God.
+
+When we meet Him fully, we will pass from the light of the Word to the
+light streaming from the "bread of life", the supreme fulfillment of His
+promise to "be with us always. until the end of the age" (cf. Matt.
+28:20).
+
+On this feast of the Body and Blood of Our Lord, the Church allows us to
+focus on the great mystery of the real presence of Our Lord, really,
+truly, and substantially present in the Sacred Host, Body and Blood,
+whole and entire, completely present in a sacramental way.
+
+We have an Octave to reflect on this great truth, that the bread of life
+is truly with us.
+
+There was a student of Engineering in Manila many years ago who was a
+Catholic but didn\'t know his Catholic faith very well. He found he was
+looking for something, but he didn\'t know what it was he was looking
+for.
+
+So he became a Mormon and spent two years as a Mormon. But then whatever
+it was he was looking for, he found it wasn\'t in the Mormon faith.
+
+So then he became a Baptist and spent another two years as a Baptist,
+but didn\'t really find what he was looking for.
+
+Then one day he was reading John Chapter Six, and he read the words, "I
+am the bread of life. He who comes to me will never hunger, he who
+drinks of me will never thirst" (John 6: 35).
+
+He began to realize, 'That\'s what I\'m looking for---something to
+satisfy my hunger and my thirst.'
+
+He began to rediscover the bread of life, the Blessed Eucharist, in his
+own Catholic faith. This began to draw him back to Catholicism like a
+magnet.
+
+He reconverted back to Catholicism. Some time later, he decided he
+wanted to become a priest, but when Cardinal Sin had heard that he\'d
+been a Mormon and a Baptist, he wasn\'t very comfortable about allowing
+him into the seminary.
+
+He had to go to a different university to study philosophy and theology.
+When it was clear that he was bona fide, he was ordained and accepted
+into the archdiocese.
+
+His first assignment was in the chaplaincy of the university where he
+had studied Engineering. Every day in the Mass, when it came to the
+moment to hold up the Sacred Host, to say "This is the Lamb of God. This
+is He who takes away the sins of the world," he would add, "This is the
+bread of life. This is why I left the Mormon faith and this is why I
+left the Baptist faith."
+
+But there were many Mormons and Baptists in that university, and they
+didn\'t like him saying these things. So they complained and he had to
+be moved to a different parish where he is to this day.
+
+Through the "breaking of bread"---as the Eucharist was called in the
+earliest times---Christ makes Himself present within time; makes the
+mystery of His death and resurrection present.
+
+The breaking of the bread "has always been at the center of the
+Church\'s life" (John Paul II, Apostolic Letter, *Mane nobiscum Domine*,
+October 7, 2004).
+
+The Church exists for the Eucharist. God transmits His love for us
+through the Eucharist, the bread of life.
+
+John Paul II liked to say, "The Church draws her life from the
+Eucharist" (John Paul II, Encyclical, *Ecclesia de Eucharistia*, April
+17, 2003). That\'s why we have this special feast.
+
+The institution of the Blessed Eucharist took place on Holy Thursday.
+But the greatness of that event is overshadowed a little by Good Friday,
+Easter Sunday.
+
+So the Church wanted to institute a special feast day, a little bit away
+from those events of Easter, to highlight the real presence.
+
+There was a nun in Liège in Belgium several centuries ago, who began to
+get locutions from God about this type of devotion (St. Juliana of
+Liège). She talked to her bishop. He instituted this feast for that
+diocese. Later that bishop was elected Pope and he transmitted it to the
+universal Church.
+
+We see Our Lord as "the living bread that comes down from heaven" (John
+6:51). We receive Him in person as that living bread, "and with him we
+receive the promise of eternal life and a foretaste of the eternal
+banquet of the heavenly Jerusalem" (John Paul II, Apostolic Letter,
+*Mane nobiscum Domine*, October 7, 2004).
+
+"He who eats my body and drinks my blood will have life in him, and I
+will raise him up on the last day" (John 6:54).
+
+We\'re all called to that eternal wedding feast, the eternal wedding
+banquet. "Christ stands not just at the center of the history of the
+Church, but also at the center of the history of humanity" (*Ibid*.).
+
+St. Paul says. "In him, all things are drawn together" (Eph. 1:10; Col.
+1;15-20).
+
+St. Paul VI liked to say that Christ is "the goal of human history, the
+focal point of the desires of history and of civilization, the center of
+mankind, the joy of all hearts, and the fulfillment of all aspirations"
+(Vatican II, Pastoral Constitution on the Church in the Modern World,
+*Gaudium et spes*, December 7,1965).
+
+We have to try and see all earthly realities in the light of Christ. In
+the Incarnate Word, the mystery of God and the mystery of man are
+revealed, said the Second Vatican Council (*Ibid*.).
+
+"In Christ, humanity finds redemption and fulfillment" (John Paul II,
+Apostolic Letter, *Mane nobiscum Domine*, October 7, 2004).
+
+"In the Sacrament of the Eucharist, Our Savior, who took flesh in
+Mary\'s womb twenty centuries ago, continues to offer himself to
+humanity as the source of divine life" (John Paul II, Apostolic Letter,
+*Tertio Millennio Adveniente*, November 10, 1994).
+
+Think for a moment what a great event it is when we receive our First
+Holy Communion. There\'s a culture in the Church that helps us to
+celebrate that in a special way.
+
+Our parents dressed us in white and we dress our children in white, in
+schools or in parishes. We make a big fuss out of it. There\'s a great
+message there in those material things. John Paul liked to say we go to
+the great spiritual mysteries through physical signs and symbols.
+
+Children may not fully understand what\'s taking place, but the material
+things speak to them---that this is something very important. If you
+have a child making their First Communion, make a big fuss out of that
+day. Prepare the child very well.
+
+The spiritual formation that the child receives around that time may be
+the formation he will remember when he's dying. It\'s a special moment
+in the role of parents and the preparation of the soul of that child for
+eternity.
+
+The Eucharist, says Pope John Paul, is "a mystery of light" (John Paul
+II, Encyclical, *Ecclesia de Eucharistia*, April 17, 2003).
+
+Christ describes himself as "the light of the world" (John 8:12). It\'s
+a quality that appears very clearly in certain moments, like the
+Transfiguration and the Resurrection, in which His divine glory shines
+out brightly.
+
+Yet in the Eucharist, the glory of Christ remains veiled. It\'s hidden.
+Christ is hidden in the Sacred Species.
+
+It\'s preeminently a mystery of faith. The priest says those words after
+saying the words of Consecration: "The Mystery of Faith."
+
+"Through the mystery of his complete hiddenness, Christ becomes a
+mystery of light. And thanks to that light, believers are led into the
+depths of the divine life."
+
+There is a light streaming from the Eucharist and a light streaming from
+the tabernacle that lights up the whole of our life.
+
+"The Eucharist is light above all because at every Mass the liturgy of
+the Word precedes the liturgy of the Eucharist in the unity of the two
+'tables', the table of the Word and the table of the Bread" (John Paul
+II, Apostolic Letter, *Mane nobiscum Domine*, October 7, 2004).
+
+Our Lord tells us, "My flesh is food indeed and my blood is drink
+indeed" (John 6:55).
+
+St. Thomas Aquinas tells us that "the effects of the Eucharistic food in
+our soul are the same as the effects of material food in our body"
+(Thomas Aquinas, *Summa Theologiae*, Question 79). It strengthens,
+maintains us in our health, gives us energy and nourishment.
+
+We have to strive for that food. We need it. That food builds up our
+souls, helps us to grow.
+
+When Our Lord talked about the mystery of His flesh and blood and that
+He was going to give it to people to eat, that was quite troubling to
+many of His listeners. "Many of them no longer walked with him" (John
+6:60-66). The scandal of the Eucharist.
+
+Our Lord turned to St. Peter and said, "Are you going to go away also?"
+
+He replied with those very impressive words, "Lord, to whom will we go?
+You have the words of eternal life" (John 6:67-69).
+
+When we may be faced with the mysteries of life, things we don\'t
+understand, feeling at a loss, we could see, feel, that same need that
+Peter felt to go to Our Lord in the tabernacle, the sacrament of love,
+to find our consolation and our joy, and to realize that we\'re never
+alone because "I will be with you always, even until the close of the
+age" (Matt. 28:20).
+
+Our Lord explains the Scriptures on that journey to Emmaus. Beginning
+with Moses and all the prophets, He shows how all the Scriptures point
+to the mystery of His person (Luke 24:27).
+
+His words make the hearts of His disciples "burn within them" (Luke
+24:32), drawing them out of their darkness and sorrow and despair. His
+words awaken in them a desire for Him to remain with them: "Stay with
+us, Lord" (Luke 24:29).
+
+When the Scriptures are read in the church, it is Christ Himself who
+speaks to us. We have a holy hunger to hear those words, to listen to
+them, to reflect on them.
+
+We have a holy hunger to receive the Blessed Eucharist.
+
+The two disciples on the road to Emmaus were prepared by the Lord\'s
+words. Then later, they duly recognized Him at the table through the
+simple gesture of the "breaking of bread" (Luke 24:30-31).
+
+The understanding of the Scriptures preceded that. And so, we listen to
+the Readings in the Mass before we come to savor the Eucharistic bread.
+
+"When minds are enlightened and hearts are enkindled, signs begin to
+'speak.'" All the signs that are present in the liturgy that the Church
+gives us to speak to us---the candles, the music, the flowers, the altar
+linen, the beauty of the sacred vessels, the architecture of the
+church---all these things are important. We go to the great spiritual
+messages through physical signs and symbols (cf. *Catechism of the
+Catholic Church*, Point 1146).
+
+"The Eucharist unfolds in a dynamic context of signs containing a rich
+and luminous message. Through these signs the mystery in some way opens
+up before the eyes of the believer."
+
+The beauty of a monstrance, the beauty of a chalice, the beauty of a
+ciborium, the beauty of beautiful hymns.
+
+"It is important that no dimension of the sacrament must be neglected"
+(John Paul II, Apostolic Letter, *Mane nobiscum Domine*, October 7,
+2004).
+
+Anything you can do to enrich the liturgy in your parish church, in your
+outstation upcountry, try and do so. Through the richness of the
+liturgy, the signs speak to every soul who comes into that chapel or
+that church.
+
+We may be constantly tempted to bring the Eucharist down to our own
+dimensions. "In reality, it\'s we who must open ourselves up to the
+dimensions of the Mystery" (*Ibid*.).
+
+It\'s a very good thing to prepare ourselves for Mass, to prepare
+ourselves for Holy Communion with a remote preparation, and possibly
+with a proximate preparation. Or if we can\'t get to Communion
+physically, I like to think of making Spiritual Communions.
+
+John Paul says, "The Eucharist is too great a gift to tolerate ambiguity
+and depreciation" (John Paul II, Encyclical, *Ecclesia de Eucharistia*,
+April 17, 2003).
+
+One of the most evident dimensions of the Eucharist is that it\'s a
+meal. The Eucharist was born on the evening of Holy Thursday, in the
+setting of the Passover meal. Being a meal is part of its very
+structure.
+
+"'Take and eat'... Then he took a cup and...gave it to them, saying,
+'Drink from it, all of you'" (Matt. 26:26-27). In this way, it expresses
+the fellowship which God wants to establish with us and that we must
+build with one another. It\'s the sacrament of unity.
+
+At the same time, it shouldn\'t be forgotten that "the Eucharistic meal
+has a profoundly and primarily sacrificial meaning. ... Christ makes
+present to us...the sacrifice that He offered once and for all on
+Golgotha. Present in the Eucharist as the Risen Lord, He bears the marks
+of his passion, of which every Mass is a 'memorial'" (John Paul II,
+Apostolic Letter, *Mane nobiscum Domine*, October 7, 2004).
+
+We say after the Consecration, "We announce your death, Lord, we
+proclaim your resurrection..." This is the mystery of faith.
+
+"While the Eucharist makes present what has occurred in the past, it
+also makes us look to the future when Christ will come again at the end
+of history. This 'eschatological' aspect," that looking forward aspect
+of the Eucharist, "fills our Christian journey with hope" (*Ibid.*).
+
+"I am with you always, even until the end of the age" (Matt. 28:20).
+
+We have tried to have great faith in the mystery of the real presence,
+that Our Lord Jesus Christ is really, truly, and substantially present
+in each part of the Sacred Species, in each little crumb that may fall
+away or each little drop of the Blood of Christ. That\'s why we have to
+take very good care with all of these things.
+
+We believe that Jesus is there. That real presence "is called 'real,'
+not in an exclusive way, as if to suggest that other forms of Christ\'s
+presence are not real, but real *par excellence*, because Christ becomes
+substantially present, whole and entire" (cf. Paul VI, Encyclical,
+*Mysterium fidei*, September 3, 1965), in the reality of His body and
+blood.
+
+A priest once had to try and decide if an intellectually disabled child
+was able to receive Holy Communion. One of the criteria that was given
+is that the child should be able to distinguish between an unconsecrated
+bread and a consecrated host. The priest brought the child into the
+sacristy, pointed to the crucifix, said, "Who is that on the crucifix?"
+
+The child says, "That\'s Jesus Christ."
+
+Then he brought the child out to the tabernacle and said, "Who lives in
+there?" The child said, "Jesus Christ."
+
+The priest said, "What\'s the difference?"
+
+The child said, "That Jesus on the crucifix in the sacristy---it looks
+like Jesus Christ, but it\'s not really Jesus Christ; whereas in the
+tabernacle, it doesn\'t look like Jesus Christ, but it is Jesus Christ."
+
+That child passed with flying colors. A rather difficult theological
+explanation that a theologian might have difficulty explaining, and the
+child explains it in very simple terms.
+
+"Our faith demands that when we approach the Blessed Eucharist, we need
+to be fully aware that we are approaching Christ himself" (John Paul II,
+Apostolic Letter, *Mane nobiscum Domine*, October 7, 2004).
+
+We genuflect in front of the Blessed Sacrament. We prepare our souls in
+the Sacrament of Confession. We make sure our soul is clean and tidy and
+ready and pure to receive the Lord of Lords and King of Kings.
+
+"The Eucharist is a mystery of presence. It\'s the perfect fulfillment
+of Our Lord\'s promise to remain with us always, until the end of the
+world" (*Ibid.*).
+
+Lord, help us to appreciate the mystery. Help us to make sure that it\'s
+well celebrated, that every aspect of the mystery is looked after, so
+that the Mass can truly be set at the center of our spiritual life,
+celebrated in a dignified manner everywhere that it is celebrated, in
+accordance with all the established norms, with the participation of the
+assembly, with the carrying out of all the tasks that are meant to be
+there.
+
+"The best way to enter into the mystery of salvation made present in the
+sacred 'signs' remains that of following faithfully the unfolding of the
+liturgical year" (*Ibid.*).
+
+If we go to Mass regularly, then we\'ll see a beautiful pattern in the
+liturgical year. We\'ll savor great feast days like this one. We realize
+that these feast days speak to us.
+
+In that awareness of the liturgical year and living it out, we
+"cultivate a lively awareness of the real presence of Christ, both in
+the celebration of the Mass and in the worship of the Blessed Eucharist
+outside the Mass" (*Ibid.*).
+
+Hence, the importance of visiting the Blessed Sacrament at some stage in
+the day, realizing that Our Lord is there, and transmitting that message
+to children, so that we bring a visit to the Blessed Sacrament as part
+and parcel of our family life, whether we\'re going here or going there.
+Sometimes we make a special effort to go and visit Our Lord.
+
+We transmit our faith in the real presence with our gestures, our
+genuflections, our posture, our bearing, and our tone of voice when
+we\'re in the church, and by going out of our way to spend a little bit
+of time with Our Lord Jesus Christ who is there, and to possibly give
+Him a few moments of silent company.
+
+Thank Him for being there. In all the apparitions that Our Lady has made
+down through history, she\'s nearly always mentioned the great joy that
+her Son gets from little visits that people make to Him in the Blessed
+Sacrament.
+
+That presence of Our Lord in the tabernacle has to be like a magnetic
+pole for us, attracting souls to Him who are ready to wait patiently to
+hear His voice and then, in a sense, to sense the beating of His heart.
+We're told in the Psalms, "O taste and see that the Lord is good" (Ps.
+34:8).
+
+He\'s our great friend who never goes away, who can console our hearts
+when we feel lonely or abandoned. We come to realize that\'s not the
+reality.
+
+If adoration is fostered in our parish with the exposition of Our Lord
+in the Blessed Sacrament, we have a great means to participate in that
+adoration, to give a good example, to foster our Eucharistic faith.
+
+We could try to take time, especially this week, the Octave of Corpus
+Christi, to kneel before Our Lord present in the Eucharist, to bring our
+families there, in order to make reparation by our faith and love for
+all the acts of carelessness or neglect, and even the insults, that Our
+Lord may have to endure in many parts of the world.
+
+May He be wanting to come to our tabernacle, to our soul.
+
+St. Josemaría used to say we have to make our tabernacles like Bethany
+(cf. Josemaría Escrivá, *Christ Is* *Passing By*, Point 154), places
+where Our Lord longs to be, and also our souls.
+
+Through adoration, we can deepen our own personal, and also communal,
+contemplation, drawing upon aids to prayer inspired by the Word of God,
+prayers that we find in the Missal, and other helps we have for periods
+of adoration, some of them composed by many of the great saints in
+history.
+
+"Our faith in this God of ours who took flesh in order to become our
+companion along the way needs to be proclaimed everywhere, in our
+streets and homes, as an expression of our grateful love and as an
+inexhaustible source of blessings" (John Paul II, Apostolic Letter,
+*Mane nobiscum Domine*, October 7, 2004).
+
+You'll find that in the tradition of the Church, the Octave of Corpus
+Christi has been an occasion for processions through streets, through
+towns. The Holy Father does this in Rome, as his predecessors did before
+him.
+
+We could turn to Our Lady, whom Pope John Paul called the "Woman of the
+Eucharist" (John Paul II, Encyclical, *Ecclesia de Eucharistia*, April
+17, 2003), and ask her that on this feast day and in the coming days, we
+might learn to treat the Body of Christ with that same joy and reverence
+and gratitude with which she treated the body of her Son.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*GD*

@@ -1,0 +1,534 @@
+---
+layout: homily
+title: "Anniversary of the Ordination of St. Josemaría Escrivá"
+---
+
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+We\'re told in the Book of Isaiah, "But you shall be called priests of
+the Lord. You shall be named ministers of our God. You shall enjoy the
+wealth of nations, and in their riches, you shall glory" (Isa. 61:6).
+
+Today is the anniversary of the priestly ordination of St. Josemaría
+Escrivá. It\'s a day that he wanted us to use to pray for priests all
+over the world, and in particular, priests of the Prelature.
+
+It\'s also a day in which we could remember each of the priests, or some
+of them, who have influenced our life in some way: the priest who
+baptized you, the priest who gave you your first Holy Communion, the
+priests who have heard your Confessions down through the years, the
+priest who said Mass in your local parish when you were small and in
+primary school and in secondary school, possibly the priest who married
+you, and also you could pray for the priest who will bury you.
+
+God has chosen various priests to influence our lives at various
+moments, to be there for our spiritual nourishment, to administer the
+sacraments to us, perhaps to give us some formation at some particular
+point through the giving of a retreat or a recollection. All these
+people have been instruments of God.
+
+St. Josemaría liked to encourage people on a day like today to pray for
+priests. One way of praying for priests would be to remember them every
+time you go to Confession, and perhaps to repeat the penance the priest
+gives you for the sanctity of the priest who heard your Confession.
+
+St. Josemaría liked to emphasize how we all have a priestly soul. It\'s
+something we acquire at Baptism. That indelible mark that we get in our
+Baptism gives us a participation in the priesthood of Christ.
+
+The Second Vatican Council talks a lot about the common or universal
+priesthood of the faithful (Second Vatican Council, *Lumen gentium*,
+Point 10). There is the ministerial priesthood that is received at Holy
+Orders, but there\'s also the universal or common priesthood of the
+faithful, which is proper to all baptized persons.
+
+In that sense, we are all priests called to lead a priestly life and to
+have a priestly soul, which means we\'re called to have the same
+sentiments as Christ on the Cross, and to practice the virtues that He
+practiced on the Cross: humility, the spirit of sacrifice, the spirit of
+service, obedience, apostolic zeal.
+
+Our Lord showed all of these virtues in a very special way on the Cross.
+He lived his priesthood. This was the eternal priesthood of the Son of
+God made man, Jesus Christ, the eternal High Priest. There is a Votive
+Mass specifically in His honor.
+
+Every baptized person is called to participate in that priesthood in and
+through the ordinary circumstances of their life.
+
+Mother Teresa once was asked what were her views on women priests. She
+said, "I often think that the person who was most cut out to be a priest
+was Our Lady, because she was the Mother of God. She was immaculately
+conceived. She was preserved free from any stain of sin in her life. She
+was assumed into heaven.
+
+"There was no more perfect creature that was ever created. And so, more
+than anybody else, she who clothed the body of Christ and caressed him
+and washed him and looked after him and nourished him, there was no
+person in the whole of human history who was more cut out to be a priest
+than Our Lady" (The Herald Calcutta, *Interview*, August 16, 1990).
+
+The journalist who asked her the question printed an article in the
+newspaper the following day that said: Mother Teresa says that women
+make better priests than men. She said, "I had to get someone to call
+the newspaper and say that wasn\'t exactly what I said."
+
+Mother Teresa really was saying that Our Lady, in some ways, was also a
+priest in her priestly soul. She stood beside the Cross. She had the
+same sentiments as her Son. She lived out her vocation at the foot of
+the Cross as a Mother, with a great spirit of service, of sacrifice, of
+generosity, of obedience, of humility, allowing the spiritual sword, to
+pierce her heart (cf. Luke 2:35). It was a great priestly moment.
+
+Our Lady teaches us how to live out our priesthood in all the ordinary
+circumstances of our life, in our work, in our family life, in our
+marriage, in the crosses that God may permit in our life, which He also
+gives us the grace to carry.
+
+These are priestly moments, great moments to go forward in holiness and
+to raise up the people of God in the way that we do. These are moments
+to go forward in holiness and to realize at this moment, God wants me to
+live out my priestly soul.
+
+St. Peter says, "Like living stones, let yourself be built into a
+spiritual house, to be a holy priesthood, to offer spiritual sacrifices
+acceptable to God through Jesus Christ" (1 Pet. 2:5).
+
+Living stones. Stones don\'t really live; they\'re inert. They\'re pure
+matter. They don\'t breathe or move. But often stones, by being in a
+wall of a house, of a cathedral, can help the whole structure to stand,
+to exist.
+
+That\'s what St. Peter speaks about when he says we are "like living
+stones." We\'re called to be like stones in a structure---the structure
+of the family, our own particular domestic Church; but also a stone in
+the structure in the universal family, in the family as an institution
+in society, building up the family, building up the institution of
+marriage---using the particular blows that God may send us as an
+instrument to be a better stone in this structure, so that I can take
+more weight.
+
+God can rely on me a little bit more---a living stone, whereby I learn
+to thank God for the crosses that He sends me.
+
+A lady told me once in another country how she had lost her only
+daughter in a car accident. A week or two later, she told me, "I\'ve
+been thanking God for the crosses that He sends me."
+
+And this was a widow, who had a lot of crosses in her life. She was
+widowed early, and now, at the age of 21, she lost her only daughter.
+
+Here she was thanking God for the crosses "that He sends me, because I
+realize," she said, "it could have been worse. Something else might have
+happened that could have been worse. I know my daughter is now in
+heaven."
+
+There at the high moment of her Calvary, God had given this good mother
+the grace to see this cross with a supernatural perspective, to live out
+her priestly soul, so as to be able to thank God and unite her heart and
+soul and mind to the sufferings of Christ on the Cross.
+
+If we live like that, there will be no cross that will lower us. We\'ll
+rise to the moment.
+
+St. Josemaría has a point in *The Way* where he says, "If we are
+generous in voluntary atonement, God will give us the grace to love the
+trials that he sends us" (Josemaría Escrivá, *The Way*, Point 221).
+
+The life of the saints was full of trials. The life of St. Josemaría was
+full of trials. But he learned how to love those trials. God was
+reaching out to him in a special way.
+
+In that way, we let ourselves be built into a spiritual house, to be a
+holy priesthood, to offer spiritual sacrifices acceptable to God through
+Jesus Christ.
+
+St. Josemaría, interestingly, used to say that he owed his vocation to
+his father. His father was a simple businessman whose business did not
+go very well. He had to close his business at one stage. The business
+failed. He ended up with a lot of debt.
+
+But he went to great efforts to pay off all his creditors, even though
+many of his immediate family thought he was a bit crazy doing that. He
+was the epitome of justice and of honesty and of loyalty.
+
+St. Josemaría admired these qualities that he saw very clearly in his
+father. He was willing to accept the hard road, "the narrow gate" (Matt.
+7:13-14). He had to move to a different city to work under somebody else
+there for the rest of his life, which did not last too long. So he saw
+great virtue in his father\'s life, which nourished his own calling to
+the priesthood.
+
+His father could be like a model for all fathers and grandfathers to
+live out the priestly virtues in all our circumstances, because God may
+be using those virtues to sow seeds of holiness in the lives of our
+children. That man was not present at the ordination of St. Josemaría.
+He died the year before.
+
+When he went through the seminary, St. Josemaría had a lot of
+contradictions, misunderstandings, but his priestly spirit was evident
+everywhere.
+
+You could say that like all the saints, God must have been waiting for
+that priesthood from the whole of eternity, because St. Paul says, "We
+have been chosen out before the foundation of the world" (Eph. 1:4).
+
+If we have been chosen out before the foundation of the world, God has
+chosen our priestly vocation, wherever it is that He wants us to live it
+out---in the ministerial priesthood, or as a housewife, or as a working
+man, or in whatever role God may place us. It\'s there that He wants us
+to live out our priesthood.
+
+God must have been waiting in a special way for the priesthood of St.
+Josemaría because He was going to use it to bring about a whole new
+structure in the Church, the structure of Personal Prelatures, which was
+going to open a pathway of holiness in the middle of the world for
+hundreds of thousands, and maybe millions, of people in the course of
+time.
+
+In St. Josemaría\'s own life, he brought 1,000 priests to the altar.
+Blessed Álvaro, his successor, brought 700.
+
+That\'s another reason to pray for priests today, and particularly for
+priests of the Prelature, for all the future priests that have to come,
+for the needs of the formative activities of the Prelature of Opus Dei.
+
+St. Peter says, "But you are a chosen race, a royal priesthood, a holy
+nation, God\'s own people, in order that you might proclaim the mighty
+acts of him who called you out of darkness into his marvelous light" (1
+Pet. 2:9).
+
+As we\'ve been chosen to live out our priesthood in our family, in our
+environment where God wants us to do great apostolate, one of the
+characteristics of our priesthood is zeal for souls.
+
+Even on the Cross, in His dying moments, Christ reached out to the Good
+Thief, and the thief said those beautiful words, "Remember me\..." Words
+of hope.
+
+He was to hear from Our Lord, "This day you will be with me in paradise"
+(Luke 23:42-43).
+
+Our Lord didn\'t say, 'Well, look, let me check your file. Let me see
+how much it was you stole. Let me see how worthy you are to come into my
+kingdom.'
+
+But because the man had spoken words of hope, he had recognized Christ
+on the Cross, had found faith in Christ in those dying moments, he was
+rewarded this day with Paradise. And so, there is no moment that Christ
+does not rise to the moment to win souls.
+
+A number of years ago, the Prelate of Opus Dei said, "All Christians
+have a priestly soul, infused in us by Baptism and Confirmation. God
+wants it to be active in everyone, just as the human soul informs with
+its power at every moment the body\'s various members.
+
+"Let us always keep alive this priestly spirit, which has to be like the
+beating of our heart, a spiritual impulse that leads to union with
+Christ crucified and risen, with the desire to make ourselves entirely
+his instruments for the salvation of souls" (Javier Echevarría, *Letter
+from the Prelate*, February 2009).
+
+It could be that Our Lord wants to make use of words we say to our
+friends or to our colleagues in certain moments, words of encouragement,
+words of kindness; perhaps in this time of Lent, as we come close to
+Holy Week, words of encouragement to take better care of their souls, or
+to get to Confession before Easter.
+
+There are special graces going in these weeks all over the world to help
+people to come closer to Christ on the Cross, or to have a greater
+appreciation of what it means that Christ died on the Cross for our
+sins.
+
+We\'re told in *The Forge* to "live and work for God, with a spirit of
+love and service, with a priestly soul, even though you may not be a
+priest" (J. Escrivá, *The Forge*, Point 369).
+
+All the women who may be clamoring about being women priests, if they
+really knew their doctrine, they\'d realize that they already have a
+priestly soul. With their Baptism, they\'re already priests.
+
+"Then all your actions will take on a genuine supernatural meaning which
+will keep your whole life united to the source of all graces" (*Ibid*.).
+Imagine, all our actions, all our words---a genuine supernatural
+meaning.
+
+In another moment in *The Way*, St. Josemaría talks about "the word you
+whisper into the ear of your wavering friend" (J. Escrivá, *The Way*,
+Point 973).
+
+That word, or those words, that God has chosen to place on our lips when
+we reach out to people can have an impact much greater than we ever
+dreamt of, because the grace of God is there.
+
+The Prelate of Opus Dei continues, saying, "What impact does the Holy
+Sacrifice of the altar have on your day, your work, your fraternity,
+your apostolate?"
+
+These are very good days for going a little deeper into our Holy Mass,
+of savoring the words of the liturgy, and savoring the beauty and the
+treasure of the liturgy of Lent, and of savoring a little more the
+meaning of the Sacrifice of the Mass, the summit and the source of our
+whole spiritual life (Second Vatican Council, *Lumen* *gentium*, Point
+11; *Catechism of the Catholic Church*, Point 1324). We unite ourselves
+to the priesthood of Christ.
+
+The Catechism says that the Mass makes Calvary present to us (*Catechism
+of the Catholic Church*, Point 1330).
+
+The Prelate of Opus Dei said, "Does your love for Our Lord\'s Passion
+grow each day? Do you foster in your soul the need for penance?"
+
+Penance shouldn\'t be a word we are afraid of. It should be an easy word
+that sits easy on our lips, because we know how to bring penance as the
+ordinary things of every day, atoning to God through the little blows or
+the little sacrifices that He may demand of us, which is what Lent is
+all about.
+
+At the same time, Our Lord wants us to use this period, this specific
+Lent, or this specific feast day.
+
+The number of Lents we have in our lives is limited, occasions for us to
+grow a little deeper each time, to grow in our devotion to the Blessed
+Sacrament as we prepare for Holy Thursday, and to try and see at this
+moment, 'How can I make the events of Holy Week a little more present in
+my home?'
+
+It\'s a time to grow in our zeal for souls, a time to be that little
+more united to the Holy Father and his intentions, with all the things
+and problems and challenges he has to pray for.
+
+It\'s a time to grow in our spirit of atonement, to say sorry to God for
+our sins, as we hopefully grow in a greater awareness of the gravity of
+sin.
+
+"We adore you, O Christ, and we bless you, because, by your holy Cross
+you have redeemed the world" (Prayer, *The Way of the Cross*).
+
+Lord, help us to grow to understand the virtues that you show to us on
+the way to the Cross.
+
+In the Way of the Cross, we see how Our Lord falls down three times.
+Maybe someday those Stations will get renamed---"He got up the first
+time" and "He got up the second time" and "He got up the third
+time"---giving us an example of how we have to get up again, begin
+again, with that spirit of sacrifice, that spirit of service that Christ
+wants us to have, so that in the course of our lifetime, we grow to have
+a greater generosity with our time, with our energy, with the things we
+have.
+
+I\'m often reminded of a Christmas party we organized a couple of years
+ago for some kids in a slum area here in Nairobi. There was one kid who
+helped us to organize that party together with his friends. He was in
+the last year of high school, and he was an orphan.
+
+He was in a boarding school, but in holiday time he was looked after by
+an aunt of his who lived in a slum area. She sold vegetables at the side
+of the road.
+
+When he told his aunt that he was involved in organizing a Christmas
+party for some kids in a slum area, this aunt produced three big bags of
+sweets, which were not cheap.
+
+I can\'t remember much about the party itself, but I do remember that
+detail, a very generous detail of that woman who had so little and was
+doing so much in her life, as she went out of her way to produce those
+three big bags of sweets. It was so eloquent.
+
+Generosity is a very beautiful virtue. It leaves its mark.
+
+When we contemplate the generosity of Christ on the Cross, who shed all
+of His blood for the redemption of our sins, try and think of some great
+act of generosity that you could perform in these weeks, and help your
+children to perform, with whatever material things they have. Teach them
+the virtue and the value of this virtue of generosity.
+
+Christ was also obedient on the Cross: "obedient unto death, even unto
+death on the Cross" (Phil. 2:8). It\'s a priestly virtue.
+
+Obedience means submitting our will to the will of another. St.
+Josemaría was very obedient, and sometimes he found that virtue very
+difficult to practice.
+
+Everybody has to be obedient. Everybody has somebody to whom they have
+to submit their will at certain moments.
+
+It might be a parent, it might be a teacher, it might be a spouse, it
+might be a policeman, it might be the laws of the country, it might be a
+priest. It might be a nurse or a doctor. It could be anybody. But we all
+have to submit our will.
+
+Growing in that virtue with the passage of time demands a certain
+humility, another priestly virtue. "Though he was by nature God, he did
+not consider being equal to God a thing to be clung to, but emptied
+himself, taking the nature of a slave and being made like unto men and
+appearing in the form of man. He humbled himself" (Phil. 2:6-8).
+
+If we live our priestly virtues well, we\'ll also grow in a spirit of
+unity: unity to the Holy Father, unity to the Church, unity to the Good
+Shepherd that God may have given us in our life to guide us along our
+spiritual pathway.
+
+We\'re told in Scripture, "Every kingdom divided against itself cannot
+stand. No city or house divided against itself will stand" (Matt.
+12:25).
+
+We have to be careful with this business of unity, because John Paul II
+in a document called *Redemptionis sacramentum--*The Sacrament of the
+Redeemer, said each of us has a principle of disunity within us.
+
+He said, "Against the seeds of discord which daily experience shows to
+be so deeply ingrained in human nature as a result of sin, there stands
+the creative power of the unity of Christ\'s body."
+
+And so, we need to make acts of the virtue of unity. God wants us to be
+the instrument of unity in the family, in the parish, in the Church, in
+society, in the club, in our profession.
+
+We\'re told in the Acts of the Apostles, "Now the whole group of those
+who believed were of one heart and soul, and no one claimed private
+ownership of any possessions, but everything he owned was held in
+common" (Acts 4:32).
+
+St. Josemaría liked to stress the virtue of unity, an aspect of our
+priestly soul, so that we might have, he said, "a dominant passion" (J.
+Escrivá, *Letter*, August 8, 1956).
+
+It has to become a dominant passion in all of us. Unity to the Holy
+Father, unity to the Church and her doctrine---we have a great
+responsibility for maintaining that unity, fostering unity among our
+friends, our social environment, in our neighborhood; unity to the mind
+and heart of Christ on the Cross.
+
+What are the enemies of that unity? Pride and vanity,
+selfishness---these are the things that set us apart from others.
+
+In the First Preface in the Preface of Sundays of Ordinary Time, we\'re
+told:
+
+"Father all-powerful and ever-living God,\
+we do well always and everywhere to give you thanks\
+through Jesus Christ our Lord, always and everywhere.\
+Through his cross and resurrection,\
+he freed us from sin and death\
+and called us to the glory that has made us a chosen race,\
+a royal priesthood,\
+a holy nation, a people set apart.\
+Everywhere we proclaim your mighty works,\
+for you have called us out of darkness into your own wonderful light."
+
+God wanted to use St. Josemaría to be an instrument to found the
+Priestly Society of the Holy Cross, which is an association of priests
+inseparably united to the Prelature of Opus Dei.
+
+It is a means whereby diocesan priests can benefit from all of the
+formative activities in the spirit of Opus Dei.
+
+Priests of Opus Dei organize activities for priests that are exactly the
+same as those that are organized for laypeople, because priests also
+have to seek holiness in their work, in their professional work. They
+have to sanctify it.
+
+They also need the sacraments, they need ongoing formation, they need
+retreats and recollections, they need spiritual direction. Priests of
+Opus Dei provide all these means.
+
+This Priestly Society of the Holy Cross is an association of priests
+that has spread all over the world, helping diocesan priests and
+seminarians to grow in their priestly souls and to fulfill their
+vocation. This is one of the great fruits of the priesthood of St.
+Josemaría.
+
+He liked to say, "A priest---whomever he may be---is always another
+Christ" (J. Escrivá, *The Way*, Point 66).
+
+From that, the Church has always requested that priests be treated with
+a lot of respect, with a supernatural spirit, so that they would receive
+all the help and encouragement, material and spiritual, that people can
+give them.
+
+He said in *The Way*, "To love God and not venerate his priests is not
+possible" (J. Escriva, *The Way*, Point 74). And so, he liked to
+emphasize, especially on certain days of the year, the importance of
+praying for priests, so that they can be better.
+
+He said in *The Forge*, "The Church needs priests, and always will. Ask
+the Blessed Trinity for them each day. through Holy Mary. And pray that
+they may be cheerful, hard-working, effective; that they may be
+well-trained; and that they may sacrifice themselves joyfully for their
+brothers, without feeling that they are victims" (J. Escrivá, *The
+Forge*, Point 910).
+
+If you can, try to see in your town, in your village, in your
+neighborhood, in your parish, how you could help your diocesan priest or
+seminarian to get to some ongoing means of formation---a retreat, a
+seminar.
+
+There are many priests in many countries who can\'t afford to go to a
+seminar or a retreat. They need the help of their parishioners, and they
+may find it difficult to ask. Of course, if twenty parishioners get
+together and each gives something, then certainly that can make it
+possible for their parish priest to go to a retreat or a seminar. He can
+benefit from that formation.
+
+Very often it\'s the parishioners themselves who come to realize the
+benefit of that formation that their parish priest has received. So
+it\'s a very good investment. So, see how you can help priests or
+seminarians that you know to grow in their formation, to go deeper in
+their priesthood.
+
+It says in *The Forge*, "I\'ve been thinking of all the priests
+throughout the world. Help me to pray for the fruitfulness of their
+apostolates. 'My brother in the priesthood, please speak always about
+God and, when you really do belong to him, your conversations will never
+be monotonous'" (*Ibid*., Point 965). He encouraged priests to always
+speak about spiritual things.
+
+At another point in *The Forge*, he says, "How great is the value of
+piety in the Holy Liturgy! I was not at all surprised when someone said
+to me a few days ago, talking about a model priest who had died
+recently: 'What a saint he was!' 'Did you know him well?' I asked. 'No,'
+she said, 'but I once saw him saying Mass'" (*Ibid*., Point 645).
+
+Try and also see how you can help your priests, in places where you are,
+to get better liturgical instruments and items for the
+altar---vestments, chalices, candlesticks---so that the beauty and
+richness of the liturgy can be manifested in material things.
+
+Pope John Paul II liked to say, "We go to spiritual mysteries through
+physical signs and symbols" (John Paul II, *The Theology of the Body:
+Human Love in the Divine Plan*; *Catechism of the Catholic Church*,
+Point 1146).
+
+By helping the priest of the parish, wherever we are, the church, the
+chapel, to have good and beautiful material things, we help souls to go
+to Christ. We go to the spiritual through the material.
+
+We could ask Our Lady today, Mother of all priests, for the graces for
+all priests that are being prepared for the priesthood, for all priests
+throughout the world, the priests of the Prelature of Opus Dei.
+
+I can also thank her for the priesthood of St. Josemaría, which has
+yielded such abundant fruits over time.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*EW*

@@ -1,0 +1,445 @@
+---
+layout: homily
+title: "St. Matthias"
+---
+
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+We\'re told in the Acts of the Apostles: "Having nominated two
+candidates, Joseph, known as Barsabbas, whose surname was Justus, and
+Matthias, they prayed, 'Lord, you can read everyone\'s heart. Show us,
+therefore, which of these two you\'ve chosen to take over this ministry
+and apostolate, which Judas abandoned to go to his proper place.' They
+then drew lots for them, and as the lot fell to Matthias, he was listed
+as one of the twelve apostles" (Acts 1:23-26).
+
+Today is the feast of St. Matthias.
+
+After the Ascension, while the Apostles were awaiting the coming of the
+Holy Spirit, they chose Matthias in Judas\'s place to make up the number
+of the Twelve, because they were meant to represent the twelve tribes of
+Israel.
+
+Matthias had been a disciple of our Lord and a witness to His
+Resurrection. According to tradition, he evangelized Ethiopia, where
+eventually he suffered martyrdom. Through the help of Saint Helena, his
+relics were later brought to Trier in Germany, where he is venerated as
+the Patron of the city.
+
+We\'re reminded by his vocation that God is the one who chooses. "You
+did not choose me, but I chose you and appointed you, that you should go
+and bear fruit and that your fruit should abide" (John 15:16).
+
+After the betrayal of Judas, his place was left vacant among the
+Apostles. The election of his successor fulfilled something that the
+Holy Spirit had prophesied, and that Our Lord had expressly instituted:
+He wanted that there would be twelve Apostles (cf. Matt. 19:28). because
+the new People of God are to be founded upon twelve supports, just as
+the old People of God had been based on the twelve tribes of Israel (cf.
+Eph. 2:20).
+
+Peter, exercising his primacy in the assembly of the one hundred twenty
+disciples, sets out the conditions laid down by the Master---conditions
+that had to be met by whichever disciple was chosen to complete the
+Apostolic College: he had to have known Jesus personally, and he would
+have to bear witness to Him.
+
+Peter explains all this in his discourse to the assembly. "One of the
+men who have accompanied us during all the time that the Lord Jesus went
+in and out among us," he says, "beginning from the baptism of John until
+the day when he was taken up from us---one of these men must become with
+us a witness to his resurrection" (Acts 1:21-22).
+
+Peter, as it were, lays down very clearly the conditions for the
+election. He emphasizes that the man selected has to have been an
+eyewitness of the preaching and the events of Our Lord\'s public life,
+and especially of His Resurrection.
+
+Thirty years later, we find him saying the same thing in his last
+written testimony to all Christians. In the second Letter of Peter, he
+says, "For we did not follow cleverly devised myths when we made known
+to you the power and the coming of our Lord Jesus Christ, but were
+eyewitnesses of his majesty" (2 Pet. 1:16).
+
+Peter does not make the choice himself---he leaves that to God. We read
+in the Book of Proverbs, "The lot is cast into the lap, but the decision
+is wholly from the Lord" (Prov. 16:33).
+
+The apostles put forward two people, Joseph called Barsabbas, and
+Matthias which means 'God\'s gift.' They cast lots for them. The lot
+fell upon Matthias, and so he was enrolled with the other eleven
+apostles. An ancient historian tells us that Matthias had belonged to a
+group of seventy-two who had been sent by Jesus to preach to the cities
+of Israel (cf. Eusebius, *The Ecclesiastical History*).
+
+Before the election, Peter and the other apostles prayed to God because
+the choice is not to be theirs; vocation is always a divine choice.
+
+"They prayed, 'Lord, you know the hearts of all men, show us which one
+of these you have chosen'" (Acts 1:24).
+
+The Eleven and the other disciples don\'t dare to take upon themselves,
+by expressing any personal preference or inclination, the responsibility
+of choosing Judas's successor.
+
+You find down to the present day, the Church also functions in the same
+way: prays to the Holy Spirit; sees the chosen person as the voice of
+the Holy Spirit which bishops, with popes, and with all other functions
+that are needed in the Church.
+
+When, later on, St. Paul feels compelled to declare the origin of his
+mission, he says that he himself has been appointed "not by men nor
+through man, but through Jesus Christ and God the Father" (Gal. 1:1).
+
+They all have this very clear awareness of their divine calling. It\'s
+God who chooses and sends forth, now just as much as then.
+
+The Church tells us that each one of us has a divine calling to holiness
+and apostolate---every lay person, every baptized person in the history
+of the world and of the Church.
+
+We receive it first in Baptism and it\'s subsequently underlined by
+God\'s successive interventions in our lives: our professional vocation,
+our vocation to marriage and the family, our celibate vocation.
+
+At certain moments in our life, Our Lord lets that calling to follow Him
+become particularly intense and clear.
+
+In *The Forge*, we\'re told, "I didn\'t think God would get hold of me
+the way he did, either. But... God doesn\'t ask our permission to
+'complicate' our lives. He just gets in: and that\'s that!" (Josemaría
+Escrivá, *The Forge*, Point 902). It\'s then up to each one of us to
+respond.
+
+In our prayer today, we could ask ourselves: Am I ready to respond to
+what God is asking of me; to the voice of the Holy Spirit as He speaks
+to me, day by day?
+
+Do I try to do the will of God in all my undertakings? Am I prepared to
+respond my whole life long to whatever it is that Our Lord asks of me?
+
+"The lot," we\'re told, "fell on Matthias." We\'re reminded that our
+calling is always an unmerited gift.
+
+At the same time, God always gives us the grace to respond to the
+calling that He gives us. We\'re never denied the graces that we need.
+
+Our Lord destines us to become ever more identified with His Son and to
+participate in His divine life. He gives a mission to each one of us and
+He wants us to enjoy the happiness of heaven with Him forever.
+
+He\'s called us on this earth to be close to Christ and to extend His
+kingdom, each one of us in the specific place where God has placed us.
+
+Apart from this universal call to holiness, Jesus calls many individuals
+in a special way: some, to give witness by separating themselves from
+the world; others, to serve Him in a specific way through the
+priesthood.
+
+But in the case of the immense majority, Our Lord calls them to remain
+in the world and to vivify it from within, either in marriage, which is
+"a way of holiness" (J. Escrivá, *Conversations*, Point 92), or in
+celibacy, which is the complete offering of one\'s heart for the love of
+God and souls.
+
+The vocation is not born of good desires or great aspirations. The
+apostles and Matthias did not choose Our Lord as Master after the
+fashion of the Jews who used to look for some rabbi to be their teacher.
+
+It was Christ who sought them out---some directly, others, like
+Matthias, indirectly through this particular election which the Church
+leaves in God\'s hands.
+
+Our Lord reminds the Apostles in the Last Supper, "You did not choose
+me, but I chose you and appointed you that you should go out and bear
+fruit, and that your fruit should remain" (John 15:16).
+
+We read this Gospel in today\'s Mass. We\'re reminded that one of the
+goals of our life is fruit that will remain, fruit that may not be
+expressed in numbers, but fruit that can be expressed in the life of
+Christ in us; of how we approximate that goal, which is holiness.
+
+Why were these particular men chosen to receive this particular
+privilege? We don\'t know the answer to that question. It\'s simply that
+Our Lord freely called them and not others.
+
+"He called to himself," we're told in St. Mark, "those whom he desired"
+(Mark 3:13). So we know that Our Lord might have chosen people much
+better than us, much more talented, much more appropriate.
+
+St. Josemaría says, "God chooses the worst instruments He can find to
+prove that the work is truly his" (cf. J. Escrivá, *The Way*, Point
+475).
+
+To be chosen is our entire good fortune. We find the purpose of our life
+in that calling.
+
+From the moment that Our Lord singles out a particular soul and invites
+it to follow Him, following on that there are many other callings, which
+may perhaps seem small, but which can mark out that person\'s journey
+through their life.
+
+"All through our life, ordinarily little by little, but constantly and
+in a compelling way, God tenders us many 'determinations' of his initial
+calling, more specifications of that calling, all of which imply a
+person-to-person relationship with Our Lord" (Pedro Rodriguez,
+*Vocation, Work, and Contemplation*).
+
+We could ask Our Lord for the grace to see our calling very clearly, and
+our apostolic calling, and, in this month of May, to see how we can make
+this month a particularly apostolic month.
+
+Lord, help us to make that decision to follow you.
+
+When we say yes the first time, Our Lord doesn\'t let us know all the
+small print of what He has planned out for us, possibly because at that
+particular moment, we\'re not in a position to say yes to all those
+subsequent callings.
+
+God gives the soul special insights and graces in those impulses by
+means of which the Holy Spirit seems to draw it upwards, making us
+aspire to be better, to serve all mankind, particularly those that we
+meet in a daily way. God\'s grace is never lacking.
+
+Tradition has it that St. Matthias died a martyr\'s death, just like the
+other Apostles. His life consisted essentially in measuring up to the
+splendid and at times arduous task which the Holy Spirit made him
+responsible for on that particular day.
+
+In our case too, it is in fidelity to our vocation that we find true
+happiness and the meaning of our life. All of it will be revealed to us
+by God in His own good time.
+
+Happiness and the meaning of life for every person consists in following
+God's call. Jesus chooses His own; He calls them. This calling is their
+greatest honor and gives them the right to a very special union with the
+Master, to special graces which are heard in the intimacy of prayer.
+
+"The vocation of everyone is based, up to a certain point, on his or her
+own being; it can be said that vocation and person become one and the
+same thing. This means that in God\'s creative initiative, there is
+present a particular act of love directed towards those who are called,
+not only to salvation," says Pope John Paul, "but to the ministry of
+salvation.
+
+"Therefore, from eternity, from the time we began to exist in the plans
+of the Creator and He willed us to come into being, He also willed us to
+be called, predisposing in us all the gifts and conditions for a
+personal and conscious response to the call of Christ or the Church. God
+who loves us, who is love, is also 'the one who calls us' (cf. Rom.
+9:11)" (John Paul II, *Address to Seminarians*, July 5, 1980).
+
+St. Paul nearly always starts his letters reflecting these ideas. In the
+first Letter to the Romans and the Corinthians, he says, "Paul, a
+servant of Jesus Christ, called to be an apostle, set apart for the
+gospel of God" (Rom. 1:1; 1 Cor.1:1).
+
+He says in Galatians that he is called and chosen "not by men nor
+through man, but through Jesus Christ and God the Father" (Gal.1:1).
+
+God calls us as He called Moses (Ex. 3:4, 19:20, 24:16), as He called
+Samuel (1 Sam. 3:4), as He called Isaiah (Isa. 6:1ff). It\'s a vocation
+that\'s not based on any merit of the individual. Isaiah says, "The Lord
+called me from the womb" (Isa. 49:1)
+
+St. Paul puts it even more categorically: "He saved us and called us
+with a holy calling, not in virtue of our works, but in virtue of his
+own purpose," he says in the second Letter to Timothy (2 Tim. 1:9).
+
+Jesus calls His disciples to share His chalice, that is, His life and
+His mission. He now extends that same invitation to us.: we have to try
+and be careful not to drown His voice in the noise of things, which, if
+they are not in Him and for Him, must be of no interest at all.
+
+When we hear Christ\'s voice inviting us to follow Him completely,
+nothing is of any importance compared to the business of following Him.
+
+Christ, for His part, all our life long, reveals to us little by little
+the great richness of the call we first heard on the day He passed close
+to us.
+
+After the election of Matthias, he once more fades into the background.
+Along with the other Apostles, he experienced the burning joy of
+Pentecost. He traveled far and wide, he preached, he cured the sick, but
+his name does not appear again in Sacred Scripture.
+
+Like the other Apostles, he left behind him an indelible trail of faith
+which has endured to our own time. He was a burning light that God could
+contemplate joyfully from heaven.
+
+We could think of our own personal apostolate at this particular time.
+St. Josemaría liked to say we have to go after each soul to win it for
+Christ. He said, "Treat them all with affection. Drown them all in love
+for Christ."
+
+"I look at your Cross, my Jesus," he says, "and I rejoice in your grace,
+because your Calvary has won for us the reward of the Holy Spirit. And
+you give yourself to me, each day, lovingly, madly, in the sacred host.
+And you have made me a child of God and have given me your Mother to be
+mine. I can\'t be satisfied with just giving thanks. My thoughts take
+flight: Lord, Lord, there are so many souls who are so far from you!
+
+"Foster those yearnings," he says, "for apostolate in your life, that
+many may get to know him...and love him..., and come to feel loved by
+him!" (J. Escrivá, *The Forge*, Point 27).
+
+If we use this month of May well, maybe putting an intention of souls on
+each Hail Mary in the Rosaries that we say, or pestering Our Lady for
+different apostolic intentions or desires that we have, she will surely
+bring us on to a new apostolic level with a new zeal, so that we look
+for those souls that God has placed around us.
+
+"I\'ve come to spread fire on this earth," Our Lord said, "and what
+would I, that it be enkindled" (Luke 12:49).
+
+"You wrote:" he says in *The Forge*, "My King, I hear you proclaiming in
+a loud voice that still resounds: 'I have come to cast fire upon the
+earth, and would that it were already kindled!' Then you added:
+'Lord..., I answer, with all my heart, all my senses and faculties:
+'Here I am because you have called me.' May this answer of yours be a
+daily reality" (J. Escrivá, *The Forge*, Point 52).
+
+St. Thomas Aquinas says, "Zeal, whatever way we take it, arises from the
+intensity of love" (Thomas Aquinas*, Summa Theologiae*, Question 28).
+
+The first point to increase our apostolic zeal is to grow in our love of
+God. We\'re told in the *Furrow* that "Where there is zeal for souls,
+good...soil can always be found" (J. Escrivá, *Furrow*, Point 195).
+
+Those are very encouraging words, because we might think that in this
+particular area of society, there\'s nothing to be done; or with that
+particular friend, or this particular environment.
+
+Lord, help me to have the qualities of zeal that you\'d like me to
+have---an enduring spiritual ardor.
+
+There was a man once in an office who tried to reach out to a lot of his
+colleagues, some successfully, some unsuccessfully. But there was one
+particular person in the office who never paid any attention to him. He
+didn\'t have time for him and thought what he was promoting was rubbish.
+
+But then one time this man got into a crisis in his marriage, and he
+decided he needed some advice. So he went to this other colleague of
+his, looking for advice.
+
+This friend who had tried to reach out to him on many occasions was a
+bit surprised that he would come to him. He said, "But you know, I\'ve
+sort of tried to invite you to things and reach out to you in many ways.
+Why do you come to me? You\'ve always given me the impression that I
+have nothing to offer you."
+
+This colleague said, "Well, you\'re the only one around here who talks
+about serious things. So you\'re the only one I can talk to about the
+fact that my wife wants to divorce me."
+
+The first colleague said, "OK, give me time to think about it. I'll
+bring it to my prayer this evening and I\'ll see what I can come up
+with."
+
+This is always a good thing to say to people because they see we take
+them seriously, that we pray. We\'re going to pray about them.
+
+That evening in his prayer, talking to Our Lord, he looked for lights
+and asked for something that he might be able to say to his friend to
+help him in his predicament.
+
+But the only thing he could say was on occasion, when St. Josemaría said
+that husbands occasionally should bring a present of flowers to their
+wife. He didn\'t think that was much. It was a bit late for flowers.
+This guy said that his wife was about to divorce him, but that was all
+that he saw in his prayer.
+
+The following day, when he met up with his friend and colleague, he
+suggested to him, "Why don\'t you bring flowers to your wife?"
+
+The colleague thought and almost said to him, "Look, I really wasted my
+time talking to you, if that\'s all the bright suggestion you can come
+up with. It\'s a bit late for flowers. She\'s about to divorce me."
+
+So that was the end of their conversation. But later in the day, as he
+was thinking about it, he thought, "Maybe it doesn\'t do any harm to
+bring her flowers. The only thing she could do would be to hit me with
+them. That\'s the worst thing that could happen."
+
+He decided to buy her flowers and he arrived home with a bunch of
+flowers. When the wife opened the door, he handed her the flowers.
+
+She burst into tears and said, "This is the first time in twenty years
+that you have brought me flowers." So that was the whole new beginning
+of their marriage.
+
+We need to pay a lot of attention to the ideas that Our Lord
+communicates to us in our prayer. Those are the very things He wants us
+to pass on to others.
+
+We\'re told in the *Furrow*, "When I speak to you about 'apostolate of
+friendship', I mean a personal friendship, self-sacrificing and sincere:
+face to face, heart to heart. In the apostolate of friendship and trust,
+the first step has to be understanding service---and holy intransigence
+in doctrine (J. Escriva, *Furrow*, Points 191-192).
+
+We\'re to try and use all the means that Our Lord has given us as
+ordinary Christians in the middle of the world to do apostolate in the
+way that God has called us to do it.
+
+St. Paul says to the Corinthians, "Mark this: he who sows sparingly will
+also reap sparingly, and he who sows bountifully will also reap
+bountifully. Let each one give according as he has determined in his
+heart, not grudgingly, as if by compulsion, for God loves a cheerful
+giver" (2 Cor. 9:6-7).
+
+If through spiritual direction, Our Lord points out to us a certain
+soul, or a certain initiative, or a pathway to take, then we should pay
+a lot of attention to that light of the Holy Spirit, because maybe
+that\'s where God wants us to really fish.
+
+It\'s an indication from the Holy Spirit that this is where the fish
+are. "Cast the net to the other side of the boat" (John 21:6).
+
+We could ask Our Lady in this month of May that she might help us to be
+ever more attentive to those inspirations of the Holy Spirit.
+
+We\'re told in today\'s Gospel, "I have loved you just as the Father has
+loved me. Remain in my love. If you keep my commandments, you will
+remain in my love, and I will keep my Father\'s commandments and remain
+in his love. I have told you this so that my own joy may be in you and
+your joy may be complete" (John 15:9-11).
+
+When we\'re sowing the seeds of the apostolate, we\'re spreading
+joy---\"sowers of peace and joy" (J. Escrivá, *Christ Is Passing By*,
+Point 168).
+
+There\'s no limit to the amount of joy that God wants us to bring into
+the lives of other people when we listen to the inspirations of the Holy
+Spirit.
+
+We\'re told in *The Forge*, "Sweet Mother..., lead us to that madness
+that will make others fall madly in love with our Christ. Sweet Lady
+Mary, may love not be in us a flash in the pan, or a will-o'-the-wisp,
+such as decomposing corpses sometimes produce. May it be a devouring
+fire that sets alight and burns everything it touches" (J. Escrivá, *The
+Forge*, Point 57).
+
+Queen of Apostles, pray for us.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*GD*

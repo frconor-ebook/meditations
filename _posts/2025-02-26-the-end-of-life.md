@@ -1,0 +1,550 @@
+---
+layout: homily
+title: "The End of Life"
+---
+
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+I was on duty one night in a big hospital in Dublin many years ago. I
+got called over to the private nursing home beside the hospital, which
+was normally the domain of the consultants.
+
+Normally we didn\'t go there, but they needed a doctor, and I got called
+over. I was led into a room where there was a man who was going to die
+that night.
+
+He was dying of cancer. Maybe he was in his early 50s; he wasn\'t very
+elderly. His family was around his bed. When I came into the room, he
+asked them to leave.
+
+Then he took hold of my wrist, and his hand was already cold and clammy.
+Death had already begun to creep into his body.
+
+He looked at me with a look of terror in his eyes. He said, \"Doctor,
+don\'t let me die.\"
+
+It was one of the most awful things I\'ve been confronted with---to see
+a man at the hour of his death in such terror.
+
+This man was well-to-do. He was in the best hospital in the country. He
+had had a good life. But here he was at the hour of his death, realizing
+that all his treasures were in this world.
+
+I suddenly realized the wisdom of the words of Our Lord in the Gospel
+where He says, \"Do not store up for yourselves treasures on earth,
+where dust and moth consume, and thieves break in and steal. But store
+up for yourselves treasures in heaven" (cf. Matt. 6:19-20).
+
+This man seemed to have no treasures in heaven. It was a big lesson, a
+lesson that everything in this world is passing; it\'s fleeting. And the
+moment of truth is the moment of our death.
+
+Death is a consequence of sin. St. Paul says, \"By the sin of one man,
+death entered the world\" (cf. Rom. 5:12).
+
+One of the most important things in our life is that we are ready and
+prepared for the moment of our death. We don\'t prepare at the last
+minute.
+
+Last-minute deathbed conversions are extremely rare. Most people die as
+they have lived. If you think of all the people you know who may have
+died in the last few weeks, or days, or months, or years, practically
+all of them died as they lived.
+
+The important thing is to try and live well---to live each day as if it
+was going to be our last, because someday God will call us.
+
+He has warned us that He will come like a thief in the night (Matt.
+24:43). It\'s a warning to be prepared.
+
+There are many warnings that Our Lord gives in the course of His
+preaching that really are summed up in those words. "Be prepared" (Matt.
+24:44). "Have your lamp burning brightly" (Luke 12:35). "Make sure your
+soul is ready" (cf. Matt. 26:41). "Use all the talents that he\'s given
+to you" (Matt. 25:21,23).
+
+Use the time now that you have to make sure of your reward, because
+eternity is going to be a long time. God has given us a period of time.
+Some people get 20, 30, 40, 60, 80 years. Some babies just get a few
+hours.
+
+But everybody gets their time, and everybody gets their talents with
+which to "go and trade until I come" (Luke 19:13). Our Lord in the
+Parable of the Talents invites us to be very wise.
+
+Take oil in our lamps (Matt. 25:4), be prudent to foresee things. Five
+were prudent and five were imprudent (Matt. 25:2).
+
+There was a priest ordained with me from another non-English speaking
+country whose English was not perfect and used to sometimes talk about
+'the stupid virgins.'
+
+Scripture is a little more refined. It calls them imprudent. But really,
+they were stupid.
+
+We have the chance of being either with the five prudent or with the
+five imprudent.
+
+There seem to be an awful lot of imprudent people walking around this
+world who have not thought of their future, or planned for it, or used
+the means, or have given themselves solely to living the enjoyment of
+the moment.
+
+The imprudent virgins didn\'t take oil in their lamps because maybe,
+they were too busy doing other things. They were partying. They were
+drinking. They were having a good time. They were enjoying the pleasures
+of life.
+
+But they couldn\'t see past the end of their nose, whereas the wise ones
+took oil in their lamps.
+
+Then the bridegroom was "a long time in coming" (Matt. 25:5). That
+phrase, a long time in coming, could be an image for the course of our
+lives---the decades that maybe God wants us to live on this planet. But
+of course, we\'re only passing through.
+
+With the passage of years and decades, it\'s easy for us to become
+drowsy and sleep. That\'s why we need to get to a yearly retreat. We
+need to hear a monthly recollection.
+
+We need to do some daily practices in our spiritual life, like spiritual
+reading and the Rosary, so that we work at our formation.
+
+We remind ourselves. We train ourselves, like an athlete training for
+the marathon, that there is something up ahead. There is something that
+we have to try and earn and win.
+
+God wants us to run the race in a certain way. St. Paul says, "I fought
+the good fight, I finished the race" (2 Tim. 4:7). I look forward to the
+prize.
+
+How are you going to be at the hour of your death? Are you going to look
+back and say, 'I\'m sorry I didn\'t do this' or 'I\'m sorry I didn\'t do
+that.' 'I\'m sorry I didn\'t spend more time studying in the library.'
+
+Or, as one 85-year-old man told me once, "I\'m sorry I didn\'t do more
+for young people." It\'s a rather interesting regret to have. I don\'t
+think he could have done more for young people, but he still had that
+regret. "I didn\'t do more for young people."
+
+What a great ideal to have in our life, to try and make this world a
+better place for young people.
+
+We have opportunities to learn the lessons of life. It may be that some
+people never learn the lessons of life. "Wisdom sometimes comes with
+age, and sometimes age comes alone" (Oscar Wilde, *A Book of
+Quotations*).
+
+In another country one time, I knew a man who was a Harvard graduate who
+never missed a monthly recollection. He was always there on time---and
+all the practices in his spiritual life: regular Confession, taking care
+of his formation---he was very attentive to all these things.
+
+One day I asked him, 'Just out of curiosity, what has given you the
+grace to be so careful in your spiritual life? You\'ve got a Harvard
+degree. You could get any job in the world. You have an open door to
+many places that many other people don\'t have. Yet I see you taking
+very good care of your spiritual life.'
+
+He said, 'Father, when I was nine years of age, my father was dying of
+cancer.' There were four or five brothers. 'My mother had us standing
+around his bed as he was dying, holding hands and praying. I saw my
+father die.'
+
+He said, 'I learned the lessons of life young.'
+
+I thought, 'That must have been a painful experience, but what a great
+lesson to learn the lessons of life young, to learn about what is really
+important.'
+
+Some people go through life, and they never really learn what is really
+important.
+
+I remember talking to a man in another country once who had worked in a
+well-known multinational corporation for many decades, and then retired
+at 55 and said, 'This organization was a godless organization.'
+
+I don\'t know why he thought it should be a God-filled organization. He
+said, 'I spent my whole professional life climbing to the top of the
+ladder. And then I got to the top of the ladder and I found there was no
+more ladder.' Hello, hello. Surprise, surprise.
+
+That man went into quite a deep depression for a couple of years, but
+then he discovered a spiritual life. He discovered his soul.
+
+He spent the rest of his life taking care of his soul, and that opened
+up new horizons for him. It helped him understand what life was all
+about, and approached his death in a very good way.
+
+Another man at 50 once in a retreat told me, 'I\'m the managing director
+of my organization; I\'ve come to own the company. I\'m on this board
+and that other board. I\'ve earned all the money in life that I could
+possibly want to earn. I\'m bored at 50; I have nothing else to do.'
+
+That man managed to have a bit of a conversion to discover the spiritual
+realities, and to spend the rest of his life less on the material and
+professional things, and a bit more on the spiritual.
+
+How are you going to be at the moment of your death when God decides to
+call you? Or if He visits you with some long illness that you never
+expected?
+
+Or you might be bedridden. Or you thought, 'This would never happen to
+me.' Or you\'ve seen it happen to other people and you thought, 'That
+will never come my way.'
+
+Often, "life strikes." I heard somebody use that phrase once who had
+nothing remarkable in their spiritual life, but they used that phrase:
+"Life strikes."
+
+Sometimes life strikes, and we learn that all the things we\'ve taken
+for granted were, in fact, wonderful gifts. We may not have used them
+well.
+
+The moment of our death will be a moment of grace, a moment that God has
+planned for all eternity.
+
+He said, "I\'ve chosen you out before the foundation of the world" (cf.
+Eph. 1:4). If God has chosen us out before the foundation of the world,
+then He\'s also chosen the manner and the moment of our death. It\'s in
+His hands.
+
+It\'s a very good reason occasionally to consecrate our death to God:
+'Lord, I give you that moment, but help me to use this moment now to
+prepare for that moment, to walk while we have the light.'
+
+Our Lord says, "Walk while you have the light, lest darkness overtakes
+you" (John 12:35). Another of those warnings.
+
+"Use your time well" (Eph. 5:16) to grow as a Christian: to be holy, to
+practice the virtues, to be an excellent father or an excellent mother,
+because those opportunities won\'t always be with you, and on this, you
+will be judged.
+
+"He who walks in the darkness does not know where he goes. While you
+have the light, believe in the light, that you may become children of
+light" (John 12:35-36).
+
+Our Lord wants us to spread our light in many ways all over the place.
+
+What is death? Death is the separation of the soul from the body"
+(*Catechism of the Catholic Church*, Point 1016).
+
+It\'s not the end. It\'s not a punishment. It\'s not a catastrophe.
+
+A Christian approach to death can be something very cheerful, happy. We
+can look forward to our death. It\'s a stepping stone to eternal
+happiness, as long as we have prepared for that eternal happiness.
+
+With the teaching of Christ, we don\'t need to fear our death. Fear
+should be something far away from us.
+
+We can abandon ourselves in the arms of Our Father God, like little
+children abandon themselves in the arms of their parents.
+
+I\'ve seen many, many people die beautiful, holy, peaceful deaths after
+very fulfilled lives, full of joy and happiness. It\'s a very beautiful
+thing.
+
+God must be very happy with that type of death. We can try to use this
+opportunity well.
+
+Sometimes we hear of sudden deaths. Every time you hear of a sudden
+death, it\'s like a little reminder to you. That could be you the next
+time. There but for the grace of God go I.
+
+Or sometimes we hear of what the world might call a major disaster---an
+air crash, an earthquake, the collapse of a building, the World Trade
+Center in 2002 or 2001, whenever it was, twenty years ago.
+
+We see these things as great tragedies. But often there are great
+spiritual lessons behind these realities. We see the fleeting nature of
+this life.
+
+There was a psychiatrist who was interviewed in the Larry King Live show
+in the States, a few months after the collapse of the World Trade
+Center.
+
+He was asked if he had any message for America tonight, and he said,
+'Yes, my message is for parents, and the message is: Take your children
+to church.' He didn\'t say which church, but he just said, 'Take your
+children to church.'
+
+This man, who had counseled many people after the World Trade Center
+collapsed, who had counseled parents who had lost children; children who
+had lost parents; brothers, sisters; sisters, brothers; all the
+different permutations, combinations.
+
+His message, after talking to all of these people, was for parents to
+take their children to church---in other words, teach them about the
+afterlife, about the life in the soul, about spiritual realities, teach
+them about death.
+
+Because the key factor that helps people to move on in their life when
+something like this happens is belief in the afterlife. Belief in the
+soul. Belief in the spiritual nature of man. Belief in a loving Father
+God who calls us to Him in all sorts of moments.
+
+Because when you\'re going from the 122nd floor to the second floor in a
+couple of seconds, it doesn\'t matter where you got your college degree,
+or what car you drive, or how big is your salary, or how much your
+friends think of you, or how many goals you can score.
+
+None of that matters anymore. The only thing that matters is the state
+of your soul.
+
+The contemplation of death can help us to make radical resolutions about
+our lives: to live well, to prepare for our death, maybe to talk to
+other people about death, like our children, so that when death comes,
+we're not surprised, and they\'re not surprised.
+
+They\'re able to handle it a bit better, because they understand what
+death is, because you\'ve talked to them about it.
+
+We know that after death there will be a judgment. There\'s a particular
+judgment that happens immediately after our death, where God has a quick
+look at our life, and sees whether we go to hell, to heaven, to
+purgatory (*Catechism*, Points 1021-1037).
+
+Then at the end of time, there\'s the general judgment---a beautiful
+thing---when every single detail of our life will be taken into account,
+and the fruits that have come from all the good things that we\'ve done
+(*Catechism*, Points 1038-1041).
+
+If you've spent time trying to lead a good life, growing in your
+formation, trying to instill values in your children that maybe get
+passed on to your grandchildren---the whole train is set in motion in
+your family because of the values and principles that you\'ve tried to
+live by. And that produces an enormous fruit possibly decades after your
+death.
+
+At the general judgment that will accrue very much to you, to your
+benefit. It's like money in the bank, because the judgments that come,
+particularly the general judgment, is like when we have to pay our
+income tax.
+
+God has invested some talents in our life. And now we have to show Him
+what interest we made with those talents, how we got more talents, how
+we used the talents that He gave us to help other people.
+
+That\'s why we examine our conscience to make sure we don\'t go astray.
+We keep ourselves on the right track and the right road. Follow the
+right signpost, so that at the time of the judgment, we can be well
+prepared.
+
+I know a man in another country who was involved in fundraising for a
+center for young people, for their formation. He used to use this
+doctrine very effectively to make money.
+
+He would tell his friends, "Look, what you pay for a brick in this
+particular center, and that center gets built, and it forms maybe future
+fathers or families and helps to build a more Christian society. And
+that goes on for decades and decades. And possibly that center is there,
+churning out these good fruits long after you have passed away.
+
+"That brick that is there because of you---that\'s like money in the
+bank for you. It\'s earning interest. At the general judgment, you may
+be the participant in all sorts of wonderful things that God has worked
+in and through that particular place, with all the formation that it has
+imparted to so many people who have passed through."
+
+The doctrine of the judgment can be very useful. When we examine our
+conscience, we prepare ourselves for judgment.
+
+We ask ourselves each day the questions that God will ask us on the last
+day, so that when that last day comes, it\'s as though we\'re prepared.
+
+When Our Lord has revealed things to us in Scripture, it\'s like it\'s
+the greatest examination leak that has ever been made in the whole of
+human history.
+
+We know what\'s coming up on the paper. We know what we\'re going to be
+asked. We know what God is going to expect from us, and we have this
+period now to prepare, to get ready.
+
+Our Lord wants us to take that seriously. So, we need to make a reality
+scan.
+
+There are all sorts of scans that you can have nowadays that look into
+every nook and cranny in every cell of your body. We need a reality scan
+that takes a good look at our soul---maybe, the deeper recesses of our
+soul.
+
+Socrates says, "The unexamined life is not worth living."
+
+If we don\'t examine ourselves and put things right, we'll be very sorry
+when the moment comes on the last day and God asks us certain questions.
+
+That\'s why death is the moment of truth: the truth about our life; the
+truth about how we have lived.
+
+The time of earning has ended with death. We can no longer earn anymore
+from the good things that we have done. That\'s why we have to try and
+use our time well.
+
+St. Josemaría says that "time is a treasure" (Josemaría Escrivá,
+*Friends of God*, Point 52). It\'s not just a good little thing that God
+has given to us. It\'s something very special.
+
+Time is for eternity. It\'s for God. It\'s for grace. It\'s an
+instrument that He\'s placed in our hands to do something with it.
+
+St. Josemaría says, \"Youth gives it all it's got. Use your youth, the
+time that God has given to you, your energy, your abilities."
+
+"Don't wait to be old," he says, "to be holy" (cf. J. Escrivá, *The
+Forge*, Point 113).
+
+Holiness doesn\'t come with age. And that amount of time specifically
+being given to you, to you very particularly, so that you might use it
+well, is an instrument that we don\'t go looking far for its own sake.
+
+We don't say, 'I have time, I have time, I have time.'
+
+It's like a pen. You don\'t say, 'I have a pen. I have a pen. I have a
+pen.'
+
+What are you going to do with the pen? Will you sign a check? Will you
+sign a contract? Will you give your autograph?
+
+It's what you do with the pen that's what\'s important. And in the same
+way, what we do with our time is what\'s important. God has given it to
+us to do something with it.
+
+Time comes, and then time goes. God has appointed time for every matter:
+"a time to be born, and a time to die; a time to plant, and a time to
+reap what has been planted" (Eccles. 3:1-2)
+
+A time to build up our family. A time to sacrifice ourselves for that
+family. A time to be cheerful. A time to be at home with our children,
+forming them to be great human persons. A time to build up the domestic
+Church.
+
+There may be a time when all that may disappear. What a pity if we were
+to regret later on: 'I didn\'t spend more time with my family.' Or, 'I
+didn\'t put more effort into this area of my life or that area.' 'I was
+concerned with silly things or superficial things or persons.'
+
+Time is a flowing, divine treasure. It comes and then it goes, never to
+return again.
+
+In Scripture, often we see a certain sense of urgency. "Mary went with
+haste into the hill country" (Luke 1:39). "The shepherds went with haste
+to Bethlehem" (cf. Luke 2:16).
+
+People are in a hurry. They do things quickly. It\'s not just that it
+can be done at any time.
+
+We have to try and walk while we have the light (John 12:35) with that
+sense of urgency. Time is holy because it belongs to God (Lev. 23:3). It
+doesn\'t belong to us.
+
+We have very little control over time. Nobody can stretch it for us.
+'You have an exam tomorrow, but don\'t worry, I\'ll make the next 24
+hours into three days so you can study a bit more.'
+
+Nobody can do that for us. Somebody can multiply money for us, all
+right. You can put it into a bank and it can earn interest. But nobody
+can do that with time.
+
+Time is more sacred. It belongs to God. We can\'t play around with time.
+
+Therefore, to waste our time on silly things, or superficial things,
+must be something sinful that hurts God very much, when He\'s given us
+this great talent of time.
+
+Therefore, it\'s good to plan your time; to have a to-do list; to know
+what your priorities are; to talk to somebody about how you use your
+time frequently, so that you come to be someone who makes better use of
+this great gift of time that God has given us, so that when it passes,
+we don\'t regret that 'I didn\'t use it better' but rather, 'I had
+planned something to do, I got it done'---hopefully, in the shortest
+possible time, to be able to do other things.
+
+The virtue of punctuality, in this regard, comes to be very important.
+It\'s a way whereby we respect other people\'s time.
+
+If you\'re going to be late for an appointment, it\'s very good to send
+a message. In the era of social media, all sorts of messages are easy to
+send.
+
+Even if we\'re two minutes late, say, 'I\'m sorry, I got delayed, I got
+stuck in traffic. I will be five minutes late, or two minutes
+late'---whatever it is.
+
+That statement, in itself, transmits the message that 'I respect your
+time. I respect your dignity because you can use your time well, this
+time that I\'ve given to you, that possibly I might otherwise have
+caused you to waste.'
+
+It\'s a great detail of charity, of justice---a very good sign about
+somebody who knows the value of time and has the courtesy to inform
+other people when they\'re going to be late.
+
+It also means that we make a decision in our life never to be late---to
+be super punctual, which means arriving not just on time, but being at
+the place five minutes before anything is due to happen, being there
+peacefully, waiting for things to start.
+
+People, instead of being upset with us because we\'re late---we\'re
+always there early, not just sometimes, but always, because we know the
+value of time. We know the value of other people\'s time.
+
+In the first phrase of *The Way*, St. Josemaría says, "Don\'t let your
+life be barren. Blaze a trail."
+
+It\'s like a trumpet call to action, to use your time well.
+
+God wants us to sanctify our time, to get great benefit from it.
+
+That reality of death, no matter when it may come, can lead us to make
+those serious decisions to use our time well.
+
+Spend time on what\'s important. Improve ourselves.
+
+I was talking to a young person recently who had a problem with school
+fees, as many people do. He wanted to be able to finish school, he said,
+'to do something with my life.'
+
+It\'s great to hear people talking like that: 'I want to do something
+with my life.'
+
+I want to use my life well. I don\'t want to die a waster, because I
+have wasted my time. I don\'t want to die with regrets about the gift of
+life that God has given to me.
+
+I want to use it well. I want to go places. I want to make my talents
+yield their abundant fruit.
+
+Death is not something negative, and judgment. It can be something
+enormously positive that spurs us on to action, to make those radical
+resolutions to use our time well, and to help many other people around
+us to use their time well also.
+
+Our Lady, who went with haste into the hill country, will give us that
+sensitivity for this gift of God, so that we might always use it well.
+
+In that way, she will help us, with her spouse, to be very well prepared
+for that death, whenever it may come.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*PKN*

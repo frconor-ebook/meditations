@@ -1,0 +1,605 @@
+---
+layout: homily
+title: "The Communion of Saints"
+---
+
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see
+me, that you hear me. I adore you with profound reverence. I ask your
+pardon for my sins and grace to make this time of prayer fruitful. My
+Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
+intercede for me.*
+
+We are told in St. Paul, "As with the human body which is a unity
+although it has many parts---all the parts of the body, though many,
+still making up one single body---so it is with Christ" (1 Cor. 12:12).
+
+St. Paul draws this analogy between the Church and the human body.
+
+The human body is made up of many different parts. We have a liver, we
+have a kidney, we have lungs, we have brains, we have hands, we have
+feet. Yet somehow it all functions as a unity.
+
+He is saying then that the same thing happens with the Roman Catholic
+Church, where many individuals, many institutions, many supernatural
+families, all over the world in all sorts of places, doing different
+things, but yet united into one single body, the Mystical Body of
+Christ---a rather beautiful idea.
+
+On the one hand, St. Paul is emphasizing the diversity in the Church,
+but at the same time, emphasizing unity.
+
+We find the same thing in the Prelature of Opus Dei and all supernatural
+families in the Church. There\'s a unity of spirit, a unity of juridical
+nature perhaps, there\'s a moral unity, but there\'s also a great
+diversity.
+
+But because of that unity, every single little thing, positive thing
+that\'s done, contributes to the whole.
+
+Every time our little toe is healthy, it contributes to the whole. If
+our little toe sometimes had some infection, we\'d know all about it.
+
+Our little toe sends a message to the brain to tell the rest of the body
+that 'my toe is sore, watch where you\'re walking; I need some
+treatment' or 'I need special care or attention.'
+
+The greatest thing that all the physical parts of the body can do is to
+contribute health to the whole. We try and keep our body well. We try
+and keep it in good shape so that it contributes to health.
+
+That's why every cell of the human body has its role to play. You could
+say that in the same way, every cell of the Mystical Body has its role
+to play.
+
+The individual holiness and virtue, human and supernatural, of every
+last person in the Church, contributes to the good of the whole. All of
+us have our roles to play. We bring our grain of sand. Now that grain of
+sand is a great contribution.
+
+St. Josemaría liked to point out how we have to be good channels of
+grace to everybody else in the Mystical Body of Christ, and also in this
+particular supernatural family.
+
+This meditation is about the communion of saints.
+
+An interesting idea to think about in the month of November when we
+think about how all the different parts of the Church are united in the
+whole: the church triumphant in heaven, the church suffering in
+purgatory, the church still on her journey here on earth.
+
+We believe that the three churches can help each other. Souls in heaven
+can pray for us; souls in purgatory can pray for us. We can pray for
+them and help them to go to heaven.
+
+We\'re all united in this communion of saints, where nothing is
+unimportant and where everybody has their role to play.
+
+I used to work for a vascular surgeon and one of his main operations was
+doing what was called a carotid endarterectomy. An endarterectomy is
+where you open up arteries and you clean out all of the gunk that may be
+inside the arteries.
+
+We know from research that too much cholesterol, cigarette smoking,
+butter, and *nyama choma* (roast meat), all these things, eventually
+reach our arteries.
+
+That\'s why people get heart attacks or strokes or pains in their legs,
+or all these other things, because the arteries get narrowed and the
+blood doesn\'t flow through.
+
+This vascular surgeon and others make a living out of cleaning out the
+arteries. That\'s called endarterectomies.
+
+This man focused particularly on the carotid endarterectomy, which was
+in the neck. It was a delicate operation because you\'re operating on an
+artery that\'s carrying the blood to the brain. It\'s a very tricky
+thing, so a lot of precautions have to be taken.
+
+People come to complain about, some have headaches, dizziness, or loss
+of sight because enough blood isn\'t getting through, because the
+arteries are blocked.
+
+If anybody feels a bit unusual after this meditation, it doesn\'t
+necessarily mean that you need your carotid artery removed or cleaned
+out.
+
+Anyway, you block off this particular artery. The patient is normally
+put on an incline because now all the blood that\'s going to the brain
+has to go through the other side.
+
+You want even to get the benefit of gravity and you increase the
+pressure a little bit, because if the patient wakes up after the
+operation and they haven\'t received enough blood flow during the
+operation to their brain, they won\'t be very grateful.
+
+You burrow deep down into the neck because the carotid artery is rather
+deep. You expose the artery and then you clamp the artery, having taken
+all the precautions beforehand.
+
+Then you very delicately open the artery, taking care that you don\'t
+puncture the other side of the artery, because if you do, when the blood
+flows through again, you\'ll get the watering effect, like a hose that
+has holes in it. And again, the patient won\'t be very grateful.
+
+You open the artery and then you clean it out, a bit like you clean out
+a drain or you clean out any pipe. Surgery is a bit like that. It has a
+lot of other similar analogies.
+
+You clean out this artery and you remove all this gunk that is laid down
+there. Then you sew up the artery very carefully, and then very gently,
+you let the clamp loose and you let the blood flow through to make sure
+there are no leaks, because again, if there are leaks, the patient
+won\'t be very grateful.
+
+One time, I remember, we had to bring a patient back to the theater
+because something did leak and had to be sewn up a little more.
+
+But what\'s amazing is the following day, after the artery is cleaned,
+the patient sits up in bed feeling fantastic, because for maybe months
+and years they haven\'t had that wonderful arterial flow to the brain.
+
+Now they feel like they have a new lease on life, and all the symptoms
+disappear. It\'s a bit like cleaning out your drain and suddenly you get
+a flow of water that you haven\'t had in months. It feels wonderful just
+to be able to fill your glass, or jug, or something.
+
+The same phenomenon occurs. You see the benefit of arterial
+blood---life-giving arterial blood---which is a wonderful thing.
+
+Those words of St. Josemaría, who said, "We have to send arterial blood
+to all the other members of the Church, to all the other members of the
+Prelature, to send it to the Holy Father, to the Bishop" (cf. Andrés
+Vázquez de Prada, *The Founder of Opus Dei*, Vol. III).
+
+This is the great role of every Catholic in every parish. This is the
+greatest contribution we make in the universal Church to the Mystical
+Body, with the fulfillment of our norms, with our effort to be
+mortified, to practice our customs.
+
+The main contribution every person in the Church makes to the whole is a
+spiritual contribution. That\'s what God is asking of each one of us.
+
+You could say that one of the main purposes of the Prelature of Opus Dei
+is to help each individual Catholic of all ages, backgrounds, cultures
+to fulfill that role, to be very much a dynamic Catholic, sending that
+arterial blood and also, making the effort to remove any of the
+obstructions that may be there in the passage of that arterial blood:
+our laziness, our sensuality, our envy, our jealousy, all the bad things
+that come out of the human heart, our dishonesty.
+
+With regular Confession, we try to remove all these things, and we try
+to remove them regularly, so that little by little they don\'t build up,
+because all those things can re-accumulate.
+
+We keep the channels open; we keep them free. We make our whole soul
+into a better channel to distribute the grace of God.
+
+This means that all throughout our life that role never ends, and the
+older we get, the more effective we can get in sending that arterial
+blood.
+
+I was rather impressed one time when the Prelate of Opus Dei---at the
+time, Don Javier Echevarría---talked about John Paul II in the latter
+years of his life, who had his Parkinson\'s, who was very limited in his
+movements.
+
+He was a very different man from what he was twenty or thirty years
+before, when he was traveling the world, speaking to millions. The
+Prelate of Opus Dei remarked, "He\'s now more effective than he was
+twenty years ago."
+
+Of course, from a human, physical perspective, one might not have
+thought that. One might have said he\'s very limited, he doesn\'t travel
+so much, but he said, "He\'s more effective now because he\'s more
+holy."
+
+That\'s the sort of holiness and effectiveness that God is hoping for
+and expecting from each of us. The best wine comes at the end (John
+2:10).
+
+I was at a deanery meeting in Singapore one time and we were talking a
+lot about youth. There was a 64-year-old Dutch missionary priest at the
+meeting. He spoke up very clearly at one point.
+
+He said, "You know, all this emphasis on youth in our Church---I\'ll
+have you know I\'m 64 years of age, I\'m not dead yet, and I\'ll have
+you know that the best wine comes at the end."
+
+It was a very powerful sort of statement. The best wine comes at the
+end.
+
+Some of the greatest things that God wants from us are there at the end
+of our life, at that acumen of holiness, at that love of Christ, that
+desire to serve the Church.
+
+We look at the great example Pope Francis is giving us at the moment. In
+October 2021, he announced that in the coming year (2022), he wanted to
+go to the Congo and Hungary (January and April 2023).
+
+Who at 85 or 86 thinks about those sorts of things? He\'s blazing a
+trail, reminding us that we have great things to contribute.
+
+St. Paul says, "We were baptized into one body in a single Spirit, Jews
+as well as Greeks, slaves as well as free men, and we were all given the
+same Spirit to drink" (1 Cor. 12:13).
+
+We have a single Spirit. The Holy Spirit has come to fill us with the
+spirit of Christ. We\'ve been given that same spirit as well as the
+spirit of Opus Dei, which has something very relevant to say to us at
+all moments.
+
+I was in the garden of Strathmore School last week, surrounded by ten
+Standard 1 kids who began to fire all sorts of questions at me.
+
+'Who are you?' 'Are you Fr. Francis?' 'Are you Kenyan-born?' 'Why is
+your hair white?' 'How old are you?'
+
+I said, 'I\'m 68,' and one of them said, 'Oh, my grandmother\'s 51.' I
+said, 'Thank you very much.'
+
+There are all sorts of subtle ways of getting messages across to people.
+We may be told all sorts of things, but we know that we still have a
+mission to fulfill.
+
+He says, "The body consists not of one member, but of many. If the foot
+were to say, 'I\'m not a hand and so I do not belong to the body,' it
+does not belong to the body any less for that."
+
+St. Paul goes into a lot of detail here. The foot might say, 'You know,
+I don\'t want to belong to this body,' or 'I don\'t want to be in this
+place.' The ear might say, 'Look, I\'m tired of being on the left side
+of the head. I want to be in the middle of the head where the nose is.'
+
+If we started to move all the parts of the body around as they wanted to
+be, we\'d end up in an awful mess.
+
+"But God has placed each one of the parts of the body in that particular
+place where he wants them to be" (cf. 1 Cor. 12:14-18).
+
+Likewise, He\'s placed us in this marriage, in this family, with these
+children, with these defects, in this parish, in this diocese, in this
+particular town, in this particular challenge. This is where He wants us
+to be holy.
+
+He doesn\'t want us to be saying to other parts of the body, 'You\'re
+not needed here' (cf. 1 Cor. 12:21) or 'You\'re not as good as me.' He
+doesn\'t want comparisons.
+
+He wants a great humility, just focusing on our mission, because other
+people have a different mission. Maybe, they have different crosses that
+we don\'t see.
+
+"But if the ear were to say, 'I am not an eye, and so I do not belong to
+the body,' that would not stop its belonging to the body. If the whole
+body were just an eye, how would there be any hearing? If the whole body
+were hearing, how would there be any smelling?" (1 Cor. 12:16-17).
+
+He says that each part of the body has its role to play. One thing we
+can be very grateful for and proud of is that our Church does so many
+things.
+
+You may have heard me say many times before that I was at a pro-life
+meeting in Manila once.
+
+This lady doctor from Liverpool said, "We can be very proud of our
+Church because our Church is the number one healthcare worker in the
+world, and also, our Church is the only Church in the world that has
+stood firm on the sanctity of human life in the last fifty years."
+
+We may discover different supernatural families in the Church doing
+different things---some taking care of the physically handicapped, or
+the mentally handicapped, or the elderly, or the newborn babies, or
+orphanages.
+
+It\'s an amazing panorama of social work that the Church is involved in,
+all because of Christ, all making their contribution.
+
+As children of the Church---the Church is our Mother---we should always
+try and have something good to say about all these supernatural
+families, which have done so much in the past, and will do so much in
+the future.
+
+You think of all the great teaching orders, and what they\'ve done in
+the world, in each country, in the last two hundred years. All the
+health care workers. It\'s quite amazing, really, standards, enormous
+contributions.
+
+We can be very proud of our Church. 'I\'m proud to be part of such a
+wonderful institution.' Also, I have to see what I can contribute and
+what I can bring. How can I help this great Body to be more effective?
+
+"As it is," he says, "God has put all separate parts into the body as he
+chose. If they were all the same part, how could it be a body? As it is,
+the parts are many but the body is one" (1 Cor. 12:18-20).
+
+We\'re not here to criticize or wonder about other supernatural families
+of the Church, or what contribution this person makes or this
+institution makes.
+
+"If you can\'t praise, say nothing" (J. Escrivá, *The Way*, Point 443).
+Keep our mouths shut. St. says that in one of the points of *The Way*.
+Very good common sense. Can\'t praise, say nothing.
+
+Maybe you don\'t know what sacrifices people made to make this school
+function, or this hospital function, or to bring catechesis to a certain
+part of the world. We don\'t know all these things; we'll find them all
+out in heaven.
+
+But they were all chosen by God to fulfill this role. People who were
+encouraged and nourished by the communion of saints, the prayers and
+sacrifices people made to help them to go forward.
+
+Because of that unity, when we hear that a certain part of the Church is
+suffering in some way through persecution, that has to lead us to pray a
+little bit for them.
+
+There was a piece of news in the paper yesterday (November 11, 2011),
+how I think 32 members of the Salesian community---Don Bosco Fathers in
+Addis Ababa---were arrested in Ethiopia, because they are Tigrayans.
+They were taken away someplace that nobody knows where they are.
+
+When we hear these sorts of things happening, we can pray for those
+brothers of ours. A very good thing to read in history sometimes is what
+the missionary orders have done in places like China; what people have
+suffered to bring things forward. Very moving.
+
+I go to see a 95-year-old Kiltegan priest in Thigio every so often. He
+was the first missionary to go to Pokot in 1952. He has some amazing
+stories.
+
+He said, 'When I went there, there was no education, no medication, and
+no Revelation.'
+
+He spent the next forty-nine years solving those problems. Wonderful
+stories.
+
+What some of these people have done in history is incredible. Of course,
+all of that now to a large extent is passed to lay people. It is the era
+of the laity in the Church.
+
+There will be a lot to learn from our older brothers about "launching
+out into the deep" (Luke 5:4), taking on big challenges.
+
+Seeing the evangelization of society and of culture is a big project for
+us. We know that each of us, with our own personal strengths and
+weaknesses---we can\'t do very much. But with the grace of God, we can
+do everything; the communion of saints.
+
+Because the grace of God can work all sorts of miracles.
+
+"If they were all the same part, how could it be a body? As it is, the
+parts are many, but the body is one. The eye cannot say to the hand, 'I
+have no need of you.' Nor can the head say to the feet, 'I have no need
+of you'" (1 Cor. 12:19-21).
+
+If we get an infection in our finger, and that finger sends a message to
+the brain, 'Tell all the other parts of the body that one part is sick,'
+it all functions together.
+
+The rest of the body sends nutrients and lays down a scab reaction, a
+defensive mechanism to send cells that will heal that particular
+infection.
+
+All the strength goes there and directs the forces of the body to that
+infected part.
+
+One of the jobs of the Holy Father, or the Prelate of the Church, or the
+head of any organization of the Church, is to channel a lot of prayer to
+the parts of the Body that may be suffering or that need it a little
+more.
+
+"What is more," it says, "it is precisely the parts of the body that
+seem the weakest which are the indispensable ones. It is the part of the
+body that we consider least dignified that we surround with the greatest
+dignity; and our less presentable parts are given greater
+presentability, which our presentable parts do not need. God has
+composed the body," says St. Paul, "so that greater dignity is given to
+the parts which were without it, so that there may not be disagreements
+inside the body but each part may be equally concerned for all the
+others" (1 Cor. 12:22-25).
+
+We can thank God for this great spirit of unity the Catholic Church
+gives us. Catholic means universal.
+
+We don\'t just live in our little cave, unconcerned about everybody
+else.
+
+We're concerned for everybody in the universal Church, our Christian
+spirit, which we\'ve been given, to be concerned for everybody, to have
+a love for all souls, to want to bring light and truth and beauty to
+every single soul that we come to know about, because everyone is
+important.
+
+Now God has placed us where we are, to create those outer-going ripples
+in concentric circles radiating outwards, so that we make a bigger
+splash all the time.
+
+"If one part is hurt," says St. Paul, "all the parts share its pain. If
+one part is honored, all the parts share its joy" (1 Cor. 12:26).
+
+If we hear that a part of the Church is somehow suffering in some way,
+or there\'s been some contradiction, we feel for that part of the
+Church.
+
+We love the Church because the Church is our Mother. I love the Church
+because the Church is my Mother, and I don\'t let anyone speak badly of
+the Church. I stand up to defend my mother in all situations because I
+love my Mother and I know that she\'s good. I look for ways and means to
+honor her name in all sorts of ways.
+
+"Now Christ\'s body is yourselves, each of you, with a part to play in
+the whole. And those whom God has appointed in the Church are, first
+apostles, secondly prophets, thirdly teachers; after them miraculous
+powers, then gifts of healing, helpful acts, guidance, various kinds of
+tongues.
+
+"Are all of them apostles? Or all prophets? Or all teachers? Or all
+miracle workers? Do all have the gifts of healing? Do all speak in
+tongues and all interpret them?" (1 Cor. 12:27-30).
+
+Obviously not. God has appointed people to fulfill certain roles and
+wants each one of them to strive to be holy in that particular role. We
+all cannot be archbishops, popes, priests, or nuns.
+
+God wants us in our place where He\'s placed us, in this family, in this
+marriage, in this community. But He wants us vibrant there, like a
+witness, giving off the fragrance of Christ, giving good example.
+
+"Set your mind," he says, "on the higher gifts. And now I want to put
+before you the best way of all" (cf. 1 Cor. 12:31).
+
+We look at this great reality of the communion of saints in the Church
+and in the Work, and at the same time, we come to see our own personal
+miseries.
+
+St. Paul says, "Wherefore, so that I should not get above myself, I was
+given a thorn in the flesh, a messenger from Satan to batter me and
+prevent me from getting above myself" (2 Cor. 12:7).
+
+As we get older, we may be subject to all sorts of different
+temptations. The devil may throw at us all sorts of thoughts, because if
+he can knock us off our perch, he\'s won a great battle.
+
+But we know that no matter what terrible thoughts may go through our
+mind---we might think of robbing a bank or we might think of doing
+things we\'ve never done before in our life; we wonder, where did that
+thought come from?---we know that we have the communion of saints, the
+strength of people around us.
+
+"My grace is sufficient for you."
+
+"About this," he says, "I have three times pleaded with the Lord that it
+might leave me; but he answered, 'My grace is enough for you: for power
+is at full stretch in weakness.' It is, then, about my weaknesses that I
+am happiest of all to boast, so that the power of Christ may rest upon
+me" (2 Cor. 12:8-9).
+
+I know that the power of Christ is passing through us. God is using our
+words, our actions, our example. That arterial blood flows through our
+soul.
+
+Every time we go to Confession on a weekly basis, we take away a little
+bit of bad stuff that could hinder the flow of that grace.
+
+Just like you look at a pipe and you take away some little rusty pieces
+or a little bit of bad things that get laid down there. The stuff that
+gets laid down in our arteries is called atheroma. It\'s a rather
+biscuity type of material that can block the blood.
+
+Our weekly Confession helps us keep the channels open, clean, and
+effective. We are always at our most effective in the Mystical Body.
+
+God takes into account our weaknesses, our failures. We can offer those
+miseries, those humiliations, those cracks.
+
+He makes use of them and leads us to be more holy, so that we can go
+forward to being more effective.
+
+"The power of charity!" says St. Josemaría in *The Way*. "If you live
+that blessed fraternal spirit, your mutual weakness will also be a
+support to keep you upright in the fulfillment of duty; just as in a
+house of cards, one card supports another" (Josemaría Escrivá, *The
+Way*, Point 462).
+
+I don\'t know if you\'ve seen the story this week of a thing that
+happened in a school run by people connected with the Work in Madrid.
+
+A mother was collecting her children from school, and she had the kids
+in the car.
+
+Then she went to engage the gear and instead of going into reverse, she
+went forward. And she went forward, and she hit three six-year-old kids,
+killing one of them and very badly injuring two others.
+
+Of course, this was a terrible contradiction. The mother of the kid that
+was killed was the secretary of the school.
+
+She comes out to the car park rushing and she finds her child dead there
+in the car park. She embraces her in her dying moments, but then sees
+the other mother totally distraught as to what has happened, and goes
+and embraces her.
+
+She forgives her, tells her not to worry. It\'s been all over the
+Spanish media.
+
+The Prelate of Opus Dei has sent a message to that school, to those
+mothers. Some really beautiful things have happened.
+
+The wonderful power of charity, of forgiveness, of helping others in a
+difficult moment.
+
+Of course, it\'s a school for girls and the government has been saying
+that all schools should be co-ed. The commentators were saying these are
+the beautiful things that happen in single-ed schools. People learn
+perhaps how to be more human, more understanding, more forgiving, even
+in very difficult circumstances.
+
+We\'re told in *The Forge*, "Think how pleasing to Our Lord is the
+incense burnt in his honor. Think also how little the things of this
+earth are worth; even as they begin they are already ending.
+
+"In Heaven, instead, a great Love awaits you, with no betrayals and no
+deceptions. The fullness of love, the fullness of beauty and greatness
+and knowledge... And it will never cloy: it will satiate, yet you will
+still want more" (J. Escrivá, *The Forge*, Point 995).
+
+"Live a special communion of saints," he says, "and, in the moments of
+interior struggle, just as in the hours of professional work, each of
+you will feel the joy and the strength of not being alone" (J. Escrivá,
+*The Way*, Point 545).
+
+St. Josemaría wanted everybody connected with the Prelature to feel very
+much supported, encouraged, never to feel alone---supported and
+encouraged, particularly by the communion of saints. 'Knowing that
+people are praying for me, I\'m not alone.'
+
+There was a story of a guy in the Falklands War---you probably heard
+many years ago---an Argentinian pilot who had to bail out of his plane.
+
+He found himself bobbing around in the South Atlantic in a life jacket.
+No sign of land anywhere.
+
+As he was bobbing around in the water, he remembered that all over the
+world, every member of Opus Dei is praying for the person of the Work
+who needs it most.
+
+As he was bobbing around in the South Atlantic, with no sign of land,
+the thought came to him, 'I must be the person of Opus Dei who needs it
+most.' No sign of land here in the middle of the Atlantic.
+
+And he felt rather supported by those words. He asked St. Josemaría to
+help him out of this situation, very supported by the prayers of all.
+
+But then he remembered that St. Josemaría never gave anything for
+nothing. He wanted people to use all the human means that they could.
+
+With a lot of common practical sense, he thought, 'I better use the
+means that I can. I had better start swimming.'
+
+He didn\'t know in what direction to swim in, but he decided just to
+start swimming. Eventually, he found land and he lived to tell the tale,
+buoyed up by the fact that 'everybody around the world was praying for
+me.'
+
+We can ask Our Lady, that we might be very aware of the strength of the
+communion of saints, so that we might feel buoyed up by all that support
+that can be given to us; and also, all the arterial blood, spiritually
+speaking, that Our Lord wants us to send to so many other souls.
+
+*I thank you, my God, for the good resolutions, affections, and
+inspirations that you have communicated to me during this meditation. I
+ask your help to put them into practice. My Immaculate Mother, Saint
+Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit.
+Amen.*
+
+*PKN*
