@@ -7,461 +7,202 @@ By Fr. Conor Donnelly
 
 (*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*My Lord and my God, I firmly believe that you are here, that you see
-me, that you hear me. I adore you with profound reverence. I ask your
-pardon for my sins and grace to make this time of prayer fruitful. My
-Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
-intercede for me.*
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-There was a French farmer once who was a bit of an atheist, although his
-family were Catholic. On Christmas night, his wife and children were
-going out to Christmas Mass, but he stayed at home beside the fire,
-warming himself. While he was there, there was a little knock at the
-window. It was a little bird.
+There was a French farmer once who was a bit of an atheist, although his family were Catholic. On Christmas night, his wife and children were going out to Christmas Mass, but he stayed at home beside the fire, warming himself. While he was there, there was a little knock at the window. It was a little bird.
 
-The bird was attracted by the light and warmth of the fire. It was
-snowing outside and it was seeking shelter and comfort. The farmer felt
-a bit sorry for the little bird, and so he got up from his fireplace and
-he put on his big overcoat and his big boots and he went out into the
-yard. He opened the barn door and put on a light to see if the little
-bird would fly into the barn.
+The bird was attracted by the light and warmth of the fire. It was snowing outside and it was seeking shelter and comfort. The farmer felt a bit sorry for the little bird, and so he got up from his fireplace and he put on his big overcoat and his big boots and he went out into the yard. He opened the barn door and put on a light to see if the little bird would fly into the barn.
 
-But there seemed to be no way that the little bird would fly into the
-barn. Then he began trying to shoo the bird into the barn, began to
-gesticulate and shout and try to shoo it into the barn, but even less
-would the little bird fly into the barn. Then he realized that probably
-to this little bird, "I\'m like a big bad monster. Maybe I\'m
-frightening the life out of this poor little bird."
+But there seemed to be no way that the little bird would fly into the barn. Then he began trying to shoo the bird into the barn, began to gesticulate and shout and try to shoo it into the barn, but even less would the little bird fly into the barn. Then he realized that probably to this little bird, "I\'m like a big bad monster. Maybe I\'m frightening the life out of this poor little bird."
 
-So he began to think, "How could I get the bird to fly into the barn to
-find shelter and warmth and security?"
+So he began to think, "How could I get the bird to fly into the barn to find shelter and warmth and security?"
 
-He came to the conclusion that really the only way or the best way would
-be if I could become a bird. "If I could become a bird, well, maybe I
-could fly in front of this little bird and he might just follow me and I
-might be able to lead us into the barn to find shelter and warmth and
-security."
+He came to the conclusion that really the only way or the best way would be if I could become a bird. "If I could become a bird, well, maybe I could fly in front of this little bird and he might just follow me and I might be able to lead us into the barn to find shelter and warmth and security."
 
-And as he was thinking of these things, the local church bell rang. It
-was 12 midnight on Christmas Night and he suddenly realized what he had
-been thinking.
+And as he was thinking of these things, the local church bell rang. It was 12 midnight on Christmas Night and he suddenly realized what he had been thinking.
 
 "If I could become a bird!"
 
-It struck him that this is what the Incarnation meant. Christ became
-man. He became one of us. He who is the way and the truth and the
-life---to go before us---to lead us to eternal happiness, to the eternal
-wedding feast, to safety, shelter, comfort, security.
+It struck him that this is what the Incarnation meant. Christ became man. He became one of us. He who is the way and the truth and the life---to go before us---to lead us to eternal happiness, to the eternal wedding feast, to safety, shelter, comfort, security.
 
-This was the first time in his life that these ideas had ever struck
-him. He fell to his knees in the snow. He prayed for the first time in
-his life.
+This was the first time in his life that these ideas had ever struck him. He fell to his knees in the snow. He prayed for the first time in his life.
 
-He was also thinking that for man to become a bird would be a great
-limitation.
+He was also thinking that for man to become a bird would be a great limitation.
 
-Imagine if you had to sit on a telephone wire and go "tweet, tweet."
-Maybe you had a talent to sing like Pavarotti and now you have to be
-like a crow. Or maybe you like to eat some fine foods. But now you\'ve
-got to live on worms and on seeds. It\'s a huge limitation for man to
-become a bird.
+Imagine if you had to sit on a telephone wire and go "tweet, tweet." Maybe you had a talent to sing like Pavarotti and now you have to be like a crow. Or maybe you like to eat some fine foods. But now you\'ve got to live on worms and on seeds. It\'s a huge limitation for man to become a bird.
 
-But he also realized that for God to become man was an even greater
-limitation. For the infinite God to be limited in the body of a finite
-man and that of a finite baby.
+But he also realized that for God to become man was an even greater limitation. For the infinite God to be limited in the body of a finite man and that of a finite baby.
 
-"But when the fullness of time was come, God sent his Son made of a
-woman, made under the Law, that he might redeem those who were under the
-Law that we might receive the adoption of children" (Gal. 4:4).
+"But when the fullness of time was come, God sent his Son made of a woman, made under the Law, that he might redeem those who were under the Law that we might receive the adoption of children" (Gal. 4:4).
 
-Down through the Old Testament, God spoke to the prophets. He spoke and
-He revealed Himself; the truth of who He was, of His mission, of His
-plans. But then the high point of human history comes, when God, instead
-of speaking to man and revealing Himself to man, God becomes man. This
-is the great mystery of the Incarnation.
+Down through the Old Testament, God spoke to the prophets. He spoke and He revealed Himself; the truth of who He was, of His mission, of His plans. But then the high point of human history comes, when God, instead of speaking to man and revealing Himself to man, God becomes man. This is the great mystery of the Incarnation.
 
 "God so loved the world that he gave his only begotten Son" (John 3:16).
 
-Revelation becomes personified in the person of Christ. That\'s why
-Christ is so important for us---why the Church invites us to lead a very
-Christocentric life and that\'s what Christmas and Bethlehem is all
-about.
+Revelation becomes personified in the person of Christ. That\'s why Christ is so important for us---why the Church invites us to lead a very Christocentric life and that\'s what Christmas and Bethlehem is all about.
 
-We enter into the stable in Bethlehem in our prayer. We watch the scene.
-We approach the Christ Child like little children, and we learn all the
-great lessons that are there for us to learn.
+We enter into the stable in Bethlehem in our prayer. We watch the scene. We approach the Christ Child like little children, and we learn all the great lessons that are there for us to learn.
 
-"In the sixth month, the angel Gabriel was sent by God to a town in
-Galilee called Nazareth, to a virgin betrothed to a man named Joseph of
-the house of David. And the virgin\'s name was Mary. He went in and said
-to her, 'Hail full of grace. The Lord is with you.'
+"In the sixth month, the angel Gabriel was sent by God to a town in Galilee called Nazareth, to a virgin betrothed to a man named Joseph of the house of David. And the virgin\'s name was Mary. He went in and said to her, 'Hail full of grace. The Lord is with you.'
 
-"She was deeply disturbed by these words and asked herself what this
-greeting could mean. But the angel said to her, 'Mary, do not be afraid.
-You have found favor with God. You are to conceive in your womb and bear
-a son. And you must name him Jesus. He will be great and will be called
-the Son of the Most High. The Lord God will give him the throne of his
-ancestor David. He will rule over the house of Jacob forever, and his
-reign will have no end.'
+"She was deeply disturbed by these words and asked herself what this greeting could mean. But the angel said to her, 'Mary, do not be afraid. You have found favor with God. You are to conceive in your womb and bear a son. And you must name him Jesus. He will be great and will be called the Son of the Most High. The Lord God will give him the throne of his ancestor David. He will rule over the house of Jacob forever, and his reign will have no end.'
 
-"Mary said to the angel, 'How can this come about, since I do not know
-man?'
+"Mary said to the angel, 'How can this come about, since I do not know man?'
 
-"The angel answered, 'The Holy Spirit will come upon you. And the power
-of the Most High will overshadow you. The child will be holy and will be
-called the Son of God. And I tell you this too, your cousin Elizabeth,
-also in her old age, has conceived a son. And she whom people called
-barren is now in her sixth month. For nothing is impossible with God'"
-(Luke 1:26-37).
+"The angel answered, 'The Holy Spirit will come upon you. And the power of the Most High will overshadow you. The child will be holy and will be called the Son of God. And I tell you this too, your cousin Elizabeth, also in her old age, has conceived a son. And she whom people called barren is now in her sixth month. For nothing is impossible with God'" (Luke 1:26-37).
 
 Powerful words of the angel: "Nothing is impossible with God."
 
-When we enter into the stable in Bethlehem these days, we enter to
-contemplate this great mystery and to wonder. The First Preface of
-Christmas says, "In the wonder of the Incarnation, your eternal Word has
-brought to the eyes of faith a new and radiant vision of your glory. In
-him we see our God made visible. We\'re caught up in love of the God we
-cannot see."
+When we enter into the stable in Bethlehem these days, we enter to contemplate this great mystery and to wonder. The First Preface of Christmas says, "In the wonder of the Incarnation, your eternal Word has brought to the eyes of faith a new and radiant vision of your glory. In him we see our God made visible. We\'re caught up in love of the God we cannot see."
 
-That\'s why we have to try and lead every small child in our family to
-Bethlehem this Christmas. Maybe they don\'t touch the mystery, or they
-don\'t get much of the deeper meaning.
+That\'s why we have to try and lead every small child in our family to Bethlehem this Christmas. Maybe they don\'t touch the mystery, or they don\'t get much of the deeper meaning.
 
-But they do get lights. They do see little things and maybe
-progressively in the coming years they understand more and more as they
-come closer to this great mystery of the Incarnation.
+But they do get lights. They do see little things and maybe progressively in the coming years they understand more and more as they come closer to this great mystery of the Incarnation.
 
-In the Incarnation God took on our humanity. Through the Incarnation we
-have a God we can touch. We go to the invisible through the visible. We
-go to the great spiritual mysteries through physical signs and symbols.
+In the Incarnation God took on our humanity. Through the Incarnation we have a God we can touch. We go to the invisible through the visible. We go to the great spiritual mysteries through physical signs and symbols.
 
-All the signs and symbols of Christmas contain a deeper spiritual
-meaning for us. They point us in the right direction. God comes to us in
-the things we know best. A human body and that of a baby. He didn\'t
-come as Superman or a king or as a robot. Or as some funny creature that
-we\'ve never seen before.
+All the signs and symbols of Christmas contain a deeper spiritual meaning for us. They point us in the right direction. God comes to us in the things we know best. A human body and that of a baby. He didn\'t come as Superman or a king or as a robot. Or as some funny creature that we\'ve never seen before.
 
-The human body becomes important if the Word became flesh. Everything to
-do with flesh is raised up onto a new plane. The dignity of our
-humanity. The dignity of every human person on board, elderly, poor,
-unwashed, neglected, aged, abandoned. We encounter God in the Word made
-flesh. \[The Second Vatican Council\] says, "The only way to encounter
-the truth of our humanity is to encounter the Word made flesh" (*cf*.
-Vatican II, *Gaudium et spes*, Point 22, December 7, 1965).
+The human body becomes important if the Word became flesh. Everything to do with flesh is raised up onto a new plane. The dignity of our humanity. The dignity of every human person on board, elderly, poor, unwashed, neglected, aged, abandoned. We encounter God in the Word made flesh. \[The Second Vatican Council\] says, "The only way to encounter the truth of our humanity is to encounter the Word made flesh" (*cf*. Vatican II, *Gaudium et spes*, Point 22, December 7, 1965).
 
-Imagine we find the truth of our humanity! All the great questions that
-human beings and philosophers and wise men have ever asked down through
-the ages. We find all the answers in the Word made flesh. Every year the
-church invites us to draw closer to the stable in Bethlehem.
+Imagine we find the truth of our humanity! All the great questions that human beings and philosophers and wise men have ever asked down through the ages. We find all the answers in the Word made flesh. Every year the church invites us to draw closer to the stable in Bethlehem.
 
-The Word took on flesh not just for a time but for eternity. Christ has
-become man for always. Like us in all things but sin. St. John Paul
-\[indicated\] in Christ we see the human face of God and the divine face
-of man.
+The Word took on flesh not just for a time but for eternity. Christ has become man for always. Like us in all things but sin. St. John Paul \[indicated\] in Christ we see the human face of God and the divine face of man.
 
-God becomes human and reminds us that we are way above the animals; that
-every human person is precious. We get these great profound messages in
-a lowly stable. The Christ Child is Divine Beauty Incarnate. The body
-becomes a sign of the eternal mystery hidden in God. And what is that
-mystery that\'s hidden in God? It\'s love. "God is love" (1 John
-4:8,16).
+God becomes human and reminds us that we are way above the animals; that every human person is precious. We get these great profound messages in a lowly stable. The Christ Child is Divine Beauty Incarnate. The body becomes a sign of the eternal mystery hidden in God. And what is that mystery that\'s hidden in God? It\'s love. "God is love" (1 John 4:8,16).
 
 "God so loved the world that he gave his only begotten Son" (John 3:16).
 
-Christ is love. Bethlehem is a story of love. Christmas is all about
-love. "Every time a child is conceived," St. John Paul said \[as
-indicated in his teachings\], "the mystery of God is proclaimed anew."
+Christ is love. Bethlehem is a story of love. Christmas is all about love. "Every time a child is conceived," St. John Paul said \[as indicated in his teachings\], "the mystery of God is proclaimed anew."
 
-Mother Teresa liked to say that every baby is the presence of God in the
-world. That\'s one of the reasons why everyone in the world is attracted
-to a baby. Nobody is afraid of a baby.
+Mother Teresa liked to say that every baby is the presence of God in the world. That\'s one of the reasons why everyone in the world is attracted to a baby. Nobody is afraid of a baby.
 
 There is a light for all coming from the Christ Child.
 
-There was a kindergarten teacher who was preparing some five-year-olds
-for their First Communion in another country. One day she spoke of the
-Incarnation, how this started at the Annunciation. We celebrate it on
-March 25 and nine months later, the Christ Child is born.
+There was a kindergarten teacher who was preparing some five-year-olds for their First Communion in another country. One day she spoke of the Incarnation, how this started at the Annunciation. We celebrate it on March 25 and nine months later, the Christ Child is born.
 
-She described how Jesus came to the womb of Our Lady and He grew and
-grew and grew until Christmas Day when He was born. The following week,
-she asked one little girl in the class, "What was going to happen on our
-First Communion Day?" And she said, "Well, I\'m going to receive Jesus
-beside me."
+She described how Jesus came to the womb of Our Lady and He grew and grew and grew until Christmas Day when He was born. The following week, she asked one little girl in the class, "What was going to happen on our First Communion Day?" And she said, "Well, I\'m going to receive Jesus beside me."
 
 "Beside you?" asked the teacher. "Why would you receive Him beside you?"
 
 She said, "Because I don\'t want Him to grow and grow and grow!"
 
-The teacher explained that the physical growth of Jesus only happened
-with Our Lady.
+The teacher explained that the physical growth of Jesus only happened with Our Lady.
 
-He comes to us spiritually and sacramentally. Bethlehem can teach us to
-have a love for the sacred humanity of Christ. To love Him in His
-humanity. He was perfect God and perfect man. He\'s come to bring peace
-to men of goodwill. He\'s come to bring the good tidings of great joy
-(Luke 2:10). He is those good tidings. The person of Christ is the good
-news.
+He comes to us spiritually and sacramentally. Bethlehem can teach us to have a love for the sacred humanity of Christ. To love Him in His humanity. He was perfect God and perfect man. He\'s come to bring peace to men of goodwill. He\'s come to bring the good tidings of great joy (Luke 2:10). He is those good tidings. The person of Christ is the good news.
 
-That\'s why St. Paul says, "We have to put on the Lord Jesus Christ"
-(Rom. 13:14).
+That\'s why St. Paul says, "We have to put on the Lord Jesus Christ" (Rom. 13:14).
 
-We have to restore all things in Christ. We are children of God, all of
-us, one race, brothers in Christ.
+We have to restore all things in Christ. We are children of God, all of us, one race, brothers in Christ.
 
-Lord Jesus, come into my heart and come to the hearts of all. "Create a
-clean heart in me" (Ps. 51:10). "Take out this heart of stone and give
-me a heart of flesh" (Ezek. 36:26). Fashion my heart after your divine
-heart.
+Lord Jesus, come into my heart and come to the hearts of all. "Create a clean heart in me" (Ps. 51:10). "Take out this heart of stone and give me a heart of flesh" (Ezek. 36:26). Fashion my heart after your divine heart.
 
-Christ wants to be born again in our heart---to renew us, to cleanse all
-those ugly things that come out of the heart of men; particularly
-through the sacrament of Confession, which is the sacrament of
-regeneration.
+Christ wants to be born again in our heart---to renew us, to cleanse all those ugly things that come out of the heart of men; particularly through the sacrament of Confession, which is the sacrament of regeneration.
 
-He says, "Learn from me for I am meek and humble in heart" (Matt.
-11:29).
+He says, "Learn from me for I am meek and humble in heart" (Matt. 11:29).
 
-We can imagine Our Lord saying all these things to us from the crib in
-Bethlehem. We can ask Him for a tender heart like His.
+We can imagine Our Lord saying all these things to us from the crib in Bethlehem. We can ask Him for a tender heart like His.
 
-In this world sorrow and love are inseparable. We have the help of the
-Cross. Jesus is in the tabernacle as He was in Bethlehem and in our
-hearts. He came to free us from sin and spent thirty years of His hidden
-life, making a great job of it, making sure we might learn all the
-lessons that are there in that hidden life.
+In this world sorrow and love are inseparable. We have the help of the Cross. Jesus is in the tabernacle as He was in Bethlehem and in our hearts. He came to free us from sin and spent thirty years of His hidden life, making a great job of it, making sure we might learn all the lessons that are there in that hidden life.
 
-He came to obey. We\'re told, "He did all things well" (Mark 7:37).
-There were no badly finished jobs. It\'s very nice if we can be known by
-the quality of our work.
+He came to obey. We\'re told, "He did all things well" (Mark 7:37). There were no badly finished jobs. It\'s very nice if we can be known by the quality of our work.
 
-Our Lady allowed the Incarnation to happen because she listened very
-carefully to the angel and she gave her consent (*cf*. Luke 1:38).
+Our Lady allowed the Incarnation to happen because she listened very carefully to the angel and she gave her consent (*cf*. Luke 1:38).
 
-The Church likes to call Our Lady the Virgin of Listening. How important
-it is for us to listen---to listen to what God has to say to us this
-Christmas in His words, in His action, in the crib, in the people around
-us.
+The Church likes to call Our Lady the Virgin of Listening. How important it is for us to listen---to listen to what God has to say to us this Christmas in His words, in His action, in the crib, in the people around us.
 
-Mary is an icon of fruitful listening to the Word. She teaches us to
-welcome it, to care for it, to meditate on it without ceasing. Mary, for
-her part, treasured all these things, meditating on them in her heart
-(*cf*. Luke 2:19,51).
+Mary is an icon of fruitful listening to the Word. She teaches us to welcome it, to care for it, to meditate on it without ceasing. Mary, for her part, treasured all these things, meditating on them in her heart (*cf*. Luke 2:19,51).
 
-We can imagine that on the journey to Bethlehem and in Bethlehem itself.
-The spirit of recollection in Our Lady must have been something
-profound, because she and Joseph realized that this great mystery of the
-Incarnation is taking place in and through them in that very moment.
+We can imagine that on the journey to Bethlehem and in Bethlehem itself. The spirit of recollection in Our Lady must have been something profound, because she and Joseph realized that this great mystery of the Incarnation is taking place in and through them in that very moment.
 
-Mary allows herself to be formed by the Word of God. "Let it be done to
-me according to your word" (Luke 1:38). Mary listens to the Word and
-puts it into practice, and in listening she makes a gift of love.
+Mary allows herself to be formed by the Word of God. "Let it be done to me according to your word" (Luke 1:38). Mary listens to the Word and puts it into practice, and in listening she makes a gift of love.
 
-She listens carefully to the little hints that the angel gives her about
-Elizabeth. She\'s not given a formal command to go and visit Elizabeth.
-But because she\'s the woman of listening. She catches the gentle
-suggestion. "Your cousin Elizabeth is now in her sixth month, for
-nothing is impossible with God" (Luke 1:36).
+She listens carefully to the little hints that the angel gives her about Elizabeth. She\'s not given a formal command to go and visit Elizabeth. But because she\'s the woman of listening. She catches the gentle suggestion. "Your cousin Elizabeth is now in her sixth month, for nothing is impossible with God" (Luke 1:36).
 
-Mary presents herself in the Visitation as the Mother of love. Elizabeth
-says, "How is it that the Mother of my Lord should come to me?" (Luke
-1:43). Elizabeth is one of the first witnesses of the miracle of the
-Incarnation.
+Mary presents herself in the Visitation as the Mother of love. Elizabeth says, "How is it that the Mother of my Lord should come to me?" (Luke 1:43). Elizabeth is one of the first witnesses of the miracle of the Incarnation.
 
-Mary\'s voice is a bearer of Messianic joy. The joy of the Christ Child
-speaks through her. "When the voice of your greeting came to my ears,
-the child in my womb leapt for joy" (Luke 1:44).
+Mary\'s voice is a bearer of Messianic joy. The joy of the Christ Child speaks through her. "When the voice of your greeting came to my ears, the child in my womb leapt for joy" (Luke 1:44).
 
-But her blessedness is to have heard and believed the Word eternal.
-Elizabeth says, "Blessed is she who has believed." Elizabeth is the
-first to compliment the faith of Mary that has made the Incarnation
-happen. "Blessed is she who believes that the Lord would fulfill her
-words to her" (Luke 1:45).
+But her blessedness is to have heard and believed the Word eternal. Elizabeth says, "Blessed is she who has believed." Elizabeth is the first to compliment the faith of Mary that has made the Incarnation happen. "Blessed is she who believes that the Lord would fulfill her words to her" (Luke 1:45).
 
-We can ask Our Lady to help us to live as she did and listen to the
-Word; to welcome the Word of life and to bring that Word to others; to
-listen to the Word as it speaks to us through our daily Gospel reading
-or through our spiritual reading or through the words we hear in the
-Mass or in the liturgy. Or maybe words that God speaks to us through the
-Word of life or to us through other people. We realize the Holy Spirit
-is speaking through this person.
+We can ask Our Lady to help us to live as she did and listen to the Word; to welcome the Word of life and to bring that Word to others; to listen to the Word as it speaks to us through our daily Gospel reading or through our spiritual reading or through the words we hear in the Mass or in the liturgy. Or maybe words that God speaks to us through the Word of life or to us through other people. We realize the Holy Spirit is speaking through this person.
 
-"And here is a sign for you: you will find a baby wrapped in swaddling
-clothes and lying in a manger" (Luke 2:12). The angel tells the shepherd
-about the sign.
+"And here is a sign for you: you will find a baby wrapped in swaddling clothes and lying in a manger" (Luke 2:12). The angel tells the shepherd about the sign.
 
-Sometimes God speaks to us through signs. He uses signs to communicate
-His purposes, His presence, His righteousness, His favor to His people
-and His assurance that He is speaking to them and that He will keep His
-promises.
+Sometimes God speaks to us through signs. He uses signs to communicate His purposes, His presence, His righteousness, His favor to His people and His assurance that He is speaking to them and that He will keep His promises.
 
-Pope St. John Paul says we go to the great spiritual mysteries through
-physical signs and symbols (John Paul II, *Man and Woman He Created
-Them; Audience*, February 20, 1980; *Catechism of the Catholic Church*,
-Point 1146).
+Pope St. John Paul says we go to the great spiritual mysteries through physical signs and symbols (John Paul II, *Man and Woman He Created Them; Audience*, February 20, 1980; *Catechism of the Catholic Church*, Point 1146).
 
-Our Church and our faith is full of those physical signs and symbols.
-These days: the crib, Christmas cards, paintings, images, the tree, the
-lights, the candles. In other times of the liturgical year: the ashes,
-holy water, the Way of the Cross, Rosary beads. Our God never stops
-speaking to us through signs.
+Our Church and our faith is full of those physical signs and symbols. These days: the crib, Christmas cards, paintings, images, the tree, the lights, the candles. In other times of the liturgical year: the ashes, holy water, the Way of the Cross, Rosary beads. Our God never stops speaking to us through signs.
 
-But the greatest sign that God has given to us is His only begotten Son,
-Jesus Christ, who took on flesh for our sake and for our salvation.
+But the greatest sign that God has given to us is His only begotten Son, Jesus Christ, who took on flesh for our sake and for our salvation.
 
-Our preparation for Christmas through Advent and our celebration for
-Christmas and the following days is all about looking at the sign,
-wondering about the sign, getting new optical angles on this sign that
-we can penetrate more deeply into this great mystery.
+Our preparation for Christmas through Advent and our celebration for Christmas and the following days is all about looking at the sign, wondering about the sign, getting new optical angles on this sign that we can penetrate more deeply into this great mystery.
 
-"We see the fulfillment of the prophecy of Isaiah and the unfolding of
-God\'s plan of redemption in all the events leading up to the
-Incarnation, the birth of the Messiah. The new era of salvation begins
-with the conception of Jesus in the womb of Mary. This child to be born
-is conceived by the action of the Holy Spirit upon Mary, who finds favor
-with God (Luke 1:28)." It\'s all a beautiful story.
+"We see the fulfillment of the prophecy of Isaiah and the unfolding of God\'s plan of redemption in all the events leading up to the Incarnation, the birth of the Messiah. The new era of salvation begins with the conception of Jesus in the womb of Mary. This child to be born is conceived by the action of the Holy Spirit upon Mary, who finds favor with God (Luke 1:28)." It\'s all a beautiful story.
 
-"As Eve was the mother of all humanity doomed to sin, now Mary becomes
-the mother of the new Adam who will father a new humanity by his grace
-(Rom. 5:12-21)" (Don Schwager, *Daily Scripture, March 25*).
+"As Eve was the mother of all humanity doomed to sin, now Mary becomes the mother of the new Adam who will father a new humanity by his grace (Rom. 5:12-21)" (Don Schwager, *Daily Scripture, March 25*).
 
 Notice the sacred character of maternity that Bethlehem transmits to us.
 
-All the great painters of the Renaissance, 16th century, painted
-beautiful scenes of Bethlehem. In Christianity, maternity is something
-sacred because the Mother of God brought about through her the
-Incarnation, and this has a message for all mothers.
+All the great painters of the Renaissance, 16th century, painted beautiful scenes of Bethlehem. In Christianity, maternity is something sacred because the Mother of God brought about through her the Incarnation, and this has a message for all mothers.
 
-We all have to see in this era of history what we can do for mothers. We
-hear an awful lot about women, women, women, but we hear nothing about
-mothers.
+We all have to see in this era of history what we can do for mothers. We hear an awful lot about women, women, women, but we hear nothing about mothers.
 
-We look in on the great Mother, the Mother of our humanity according to
-grace who lifts us up onto this new supernatural level, who gives birth
-to this Child who is to be the fulfillment of all God\'s promises. Many
-great things happen in Bethlehem.
+We look in on the great Mother, the Mother of our humanity according to grace who lifts us up onto this new supernatural level, who gives birth to this Child who is to be the fulfillment of all God\'s promises. Many great things happen in Bethlehem.
 
-In the Magnificat, \[the angel\] says, "He will be 'great' and will be
-called the "Son of the Most High" and 'King,' and his name shall be
-called Jesus, which means 'the Lord saves'" (Luke 1:32-33).
+In the Magnificat, \[the angel\] says, "He will be 'great' and will be called the "Son of the Most High" and 'King,' and his name shall be called Jesus, which means 'the Lord saves'" (Luke 1:32-33).
 
-It\'s the angel that says that. He will save His people from their sins
-(Matt. 1:21). He will be called "great." He will be a king.
+It\'s the angel that says that. He will save His people from their sins (Matt. 1:21). He will be called "great." He will be a king.
 
-"There\'s a promise of an everlasting kingdom to the house of David
-(Isa. 9:6-7) and this baby in Mary\'s womb is the fulfillment of this
-promise---fulfilled in the King."
+"There\'s a promise of an everlasting kingdom to the house of David (Isa. 9:6-7) and this baby in Mary\'s womb is the fulfillment of this promise---fulfilled in the King."
 
-Mary responds very quickly to the Word of God delivered by the angel.
-"She knows she\'s hearing something beyond human capability. It will
-surely take a miracle which surpasses all that God has done previously.
+Mary responds very quickly to the Word of God delivered by the angel. "She knows she\'s hearing something beyond human capability. It will surely take a miracle which surpasses all that God has done previously.
 
-"Her question, 'How shall this be since I have no husband?' (Luke 1:34)
-is not prompted by doubt or skepticism but by wonderment. She\'s a true
-hearer of the Word and she immediately responds with faith and trust.
-Mary\'s prompt 'yes' to the divine message is a model of faith for all
-believers" (*ibid*.).
+"Her question, 'How shall this be since I have no husband?' (Luke 1:34) is not prompted by doubt or skepticism but by wonderment. She\'s a true hearer of the Word and she immediately responds with faith and trust. Mary\'s prompt 'yes' to the divine message is a model of faith for all believers" (*ibid*.).
 
-And she continues with that prompt 'yes' to all that God is asking of
-her along the pilgrimage of her divine vocation---as she leaves
-Nazareth, as she goes on the journey on the donkey, as they arrive in
-Bethlehem, as they go through all the contradictions, as they find the
-very unlikely place where her divine maternity is to shine for all
-eternity. "She was willing and eager to do God\'s will even if it seemed
-difficult or costly" (*ibid*.).
+And she continues with that prompt 'yes' to all that God is asking of her along the pilgrimage of her divine vocation---as she leaves Nazareth, as she goes on the journey on the donkey, as they arrive in Bethlehem, as they go through all the contradictions, as they find the very unlikely place where her divine maternity is to shine for all eternity. "She was willing and eager to do God\'s will even if it seemed difficult or costly" (*ibid*.).
 
-In the moment, when the great mysteries of our life begin to take place,
-you can also look to Mary. To learn from her virtue, her correspondence.
-In the Nicene Creed, we say, "For us men and for our salvation, he came
-down from heaven, by the power of the Holy Spirit, he became Incarnate
-of the Virgin Mary and was made man."
+In the moment, when the great mysteries of our life begin to take place, you can also look to Mary. To learn from her virtue, her correspondence. In the Nicene Creed, we say, "For us men and for our salvation, he came down from heaven, by the power of the Holy Spirit, he became Incarnate of the Virgin Mary and was made man."
 
-"God gives us grace and he expects us to respond with the same
-willingness, obedience and heartfelt trust as Mary did. When God asks
-something of us, He also gives us the help, the strength, and the means
-to respond. We can either yield to His grace or we can resist and go our
-own way" (*ibid*.).
+"God gives us grace and he expects us to respond with the same willingness, obedience and heartfelt trust as Mary did. When God asks something of us, He also gives us the help, the strength, and the means to respond. We can either yield to His grace or we can resist and go our own way" (*ibid*.).
 
-Lord, help me to live a grace-filled life as Mary did by believing in
-your promises and by giving you my unqualified 'yes' to your will and
-your plan for my life.
+Lord, help me to live a grace-filled life as Mary did by believing in your promises and by giving you my unqualified 'yes' to your will and your plan for my life.
 
-God has called us to be conformed to His image, to learn from Him
-because He\'s "meek and humble of heart" (Matt. 11:29), to look and see
-all the particular things that He did in His life, how He went out of
-His way to show us different virtues; how He practiced His poverty and
-His humility and His generosity, and also His patience and His kindness
-and His charity with all sorts of people.
+God has called us to be conformed to His image, to learn from Him because He\'s "meek and humble of heart" (Matt. 11:29), to look and see all the particular things that He did in His life, how He went out of His way to show us different virtues; how He practiced His poverty and His humility and His generosity, and also His patience and His kindness and His charity with all sorts of people.
 
-God has called us "to be conformed to the image of his Son" (Rom. 8:29).
-These words from St. Paul contain an unfathomable mystery because our
-conformity to Christ is not a superficial likeness. Christ is our model.
-We need to imitate Him, become like Him.
+God has called us "to be conformed to the image of his Son" (Rom. 8:29). These words from St. Paul contain an unfathomable mystery because our conformity to Christ is not a superficial likeness. Christ is our model. We need to imitate Him, become like Him.
 
-But following Christ, we\'re told in *Veritatis Splendor*, "is not an
-outward imitation, since it touches man at the very depths of his being.
-Our likeness to Christ is the result and the demand of a deeper reality:
-the presence of His very life within us, our vital union with Christ
-through grace."
+But following Christ, we\'re told in *Veritatis Splendor*, "is not an outward imitation, since it touches man at the very depths of his being. Our likeness to Christ is the result and the demand of a deeper reality: the presence of His very life within us, our vital union with Christ through grace."
 
-And that union is a supernatural mystery which completely surpasses the
-possible grasping by our intellect. Christ "emptied himself" (Phil.
-2:7). He became low.
+And that union is a supernatural mystery which completely surpasses the possible grasping by our intellect. Christ "emptied himself" (Phil. 2:7). He became low.
 
-The humility of Bethlehem and the poverty and detachment of Bethlehem
-speak very loudly about the importance of these virtues. Our Lord chose
-to reveal this mystery to us in all sorts of ways, progressively,
-sometimes through eloquent metaphors, such as the union of the vine and
-the branches, sometimes in other ways.
+The humility of Bethlehem and the poverty and detachment of Bethlehem speak very loudly about the importance of these virtues. Our Lord chose to reveal this mystery to us in all sorts of ways, progressively, sometimes through eloquent metaphors, such as the union of the vine and the branches, sometimes in other ways.
 
-"Whoever remains in me, with me in him, bears fruit in plenty; for cut
-off from me you can do nothing. Anyone who does not remain in me is like
-a branch that has been thrown away and withers" (John 15:5-6).
+"Whoever remains in me, with me in him, bears fruit in plenty; for cut off from me you can do nothing. Anyone who does not remain in me is like a branch that has been thrown away and withers" (John 15:5-6).
 
-These words have a special relevance for us about being united to the
-Christ Child in Bethlehem.
+These words have a special relevance for us about being united to the Christ Child in Bethlehem.
 
-At other times, Our Lord talks with very straightforward words: "I am in
-my Father, and you in me and I in you" (John 14:20). "He who eats my
-flesh and drinks my blood lives in me and I live in him" (John 6:56).
+At other times, Our Lord talks with very straightforward words: "I am in my Father, and you in me and I in you" (John 14:20). "He who eats my flesh and drinks my blood lives in me and I live in him" (John 6:56).
 
-Christian life does not consist in following some more or less
-attractive ideals. It means a personal, intimate life with Jesus. Mother
-Teresa used to say, "We have to have a tender love for Jesus."
+Christian life does not consist in following some more or less attractive ideals. It means a personal, intimate life with Jesus. Mother Teresa used to say, "We have to have a tender love for Jesus."
 
-Bethlehem is one of those places where we can foster that tender love
-and to tell Our Lord that we want to unite ourselves to Him and live His
-own very life, so that we can say with St. Paul, "For me, to live is
-Christ" (Phil. 1:21). "It is no longer I who live, but Christ who lives
-in me" (Gal. 2:20).
+Bethlehem is one of those places where we can foster that tender love and to tell Our Lord that we want to unite ourselves to Him and live His own very life, so that we can say with St. Paul, "For me, to live is Christ" (Phil. 1:21). "It is no longer I who live, but Christ who lives in me" (Gal. 2:20).
 
-The fullness of our divine filiation is none other than the
-identification with Christ, the Son of God made man, following Him in
-all things.
+The fullness of our divine filiation is none other than the identification with Christ, the Son of God made man, following Him in all things.
 
-All of this wealth of doctrine is a hidden treasure that transforms the
-life of the one who discovers it. This table in Bethlehem is like "the
-pearl of great price" (Matt. 13:45-47). All sorts of wonderful things
-are to be discovered there---great treasures for the whole of our life.
+All of this wealth of doctrine is a hidden treasure that transforms the life of the one who discovers it. This table in Bethlehem is like "the pearl of great price" (Matt. 13:45-47). All sorts of wonderful things are to be discovered there---great treasures for the whole of our life.
 
-If we stay close to Mary, she\'ll help us to learn all those lessons.
-She\'ll explain things to us.
+If we stay close to Mary, she\'ll help us to learn all those lessons. She\'ll explain things to us.
 
-Mary did not just receive the Light of God, but she received God Himself
-and that is why she shines so much. She gave birth to the Light.
+Mary did not just receive the Light of God, but she received God Himself and that is why she shines so much. She gave birth to the Light.
 
-Mary, help us to turn to you as the dawn so that you can light up our
-life and lead the way to your Son, Jesus.
+Mary, help us to turn to you as the dawn so that you can light up our life and lead the way to your Son, Jesus.
 
-*I thank you, my God, for the good resolutions, affections, and
-inspirations that you have communicated to me during this meditation. I
-ask your help to put them into practice. My Immaculate Mother, Saint
-Joseph, my father and lord, my guardian angel, intercede for me.*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *GD*

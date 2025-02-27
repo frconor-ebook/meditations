@@ -7,467 +7,212 @@ By Fr. Conor Donnelly
 
 (*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*My Lord and my God, I firmly believe that you are here, that you see
-me, that you hear me. I adore you with profound reverence. I ask your
-pardon for my sins and grace to make this time of prayer fruitful. My
-Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
-intercede for me.*
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"Pilate then had Jesus taken away and scourged. After this, the soldiers
-twisted some thorns into a crown, put it on his head, and dressed him in
-a purple robe. They kept coming to him and saying, 'Hail, King of the
-Jews!' and slapping him in the face" (John 19:1-3).
+"Pilate then had Jesus taken away and scourged. After this, the soldiers twisted some thorns into a crown, put it on his head, and dressed him in a purple robe. They kept coming to him and saying, 'Hail, King of the Jews!' and slapping him in the face" (John 19:1-3).
 
-Our Lord submits to all of these insults as a prelude to taking up His
-Cross. He\'s not spared anything. The crowds are going to shout,
-"Crucify him, crucify him!" (John 19:6).
+Our Lord submits to all of these insults as a prelude to taking up His Cross. He\'s not spared anything. The crowds are going to shout, "Crucify him, crucify him!" (John 19:6).
 
-On this Good Friday, it\'s a time for us to remember when we have added
-to their shouts with our sins---a time to try and see a little clearer
-the gravity of sin---not just mortal sin, but also venial sin or any
-sin. We hurt Our God. We\'re negligent. We have to try and foster a
-sorrow for sin.
+On this Good Friday, it\'s a time for us to remember when we have added to their shouts with our sins---a time to try and see a little clearer the gravity of sin---not just mortal sin, but also venial sin or any sin. We hurt Our God. We\'re negligent. We have to try and foster a sorrow for sin.
 
-"Pilate came outside again and said to them, 'Look, I\'m going to bring
-him out to you to let you see that I find no case against him'" (John
-19:4).
+"Pilate came outside again and said to them, 'Look, I\'m going to bring him out to you to let you see that I find no case against him'" (John 19:4).
 
-The first declaration of innocence. The story of the Passion is the
-story of the crucifixion of innocence. Our Lord is going to be led to
-the slaughter, but yet He is innocent.
+The first declaration of innocence. The story of the Passion is the story of the crucifixion of innocence. Our Lord is going to be led to the slaughter, but yet He is innocent.
 
-It\'s so unjust. When we see injustice in this world, or injustice
-against the Church, or criticisms, or complaints, or all sorts of other
-things, it\'s a reminder. It\'s a good sign.
+It\'s so unjust. When we see injustice in this world, or injustice against the Church, or criticisms, or complaints, or all sorts of other things, it\'s a reminder. It\'s a good sign.
 
-If we see some institution in the Church that is suffering, somebody
-said once, 'It\'s at the tree with fruits that you throw stones at to
-get the fruits.'
+If we see some institution in the Church that is suffering, somebody said once, 'It\'s at the tree with fruits that you throw stones at to get the fruits.'
 
-"Jesus then came out wearing the crown of thorns and the purple robe.
-Pilate said, 'Here is the man!'" (John 19:5).
+"Jesus then came out wearing the crown of thorns and the purple robe. Pilate said, 'Here is the man!'" (John 19:5).
 
-The ceremonies of Good Friday try to relive this event. There\'s no Mass
-on Good Friday. It\'s just the Commemoration of the Passion of Christ. A
-key part of the ceremony is the reading of the Passion, and then the
-Veneration of the Cross.
+The ceremonies of Good Friday try to relive this event. There\'s no Mass on Good Friday. It\'s just the Commemoration of the Passion of Christ. A key part of the ceremony is the reading of the Passion, and then the Veneration of the Cross.
 
-We\'re reminded of these gestures in the ceremony of some of these
-events. "Here is the man!"
+We\'re reminded of these gestures in the ceremony of some of these events. "Here is the man!"
 
-When they saw him, the chief priests and the guards shouted, 'Crucify
-him, crucify him!'" (John 19:6a). Terrible shouts, terrible words. And
-yet we also are one of the crowds. We\'re as guilty as anybody else.
+When they saw him, the chief priests and the guards shouted, 'Crucify him, crucify him!'" (John 19:6a). Terrible shouts, terrible words. And yet we also are one of the crowds. We\'re as guilty as anybody else.
 
-It\'s a time and an hour for humility. "Lord, have mercy on me a sinner"
-(Luke 18:13). "A humble and contrite heart, O Lord, you will not spurn"
-(Ps. 51:17). "Take out this heart of stone and give me a heart of flesh"
-(Ezek. 36:26).
+It\'s a time and an hour for humility. "Lord, have mercy on me a sinner" (Luke 18:13). "A humble and contrite heart, O Lord, you will not spurn" (Ps. 51:17). "Take out this heart of stone and give me a heart of flesh" (Ezek. 36:26).
 
-All through Lent, these words of the Psalms have been placed on our
-lips.
+All through Lent, these words of the Psalms have been placed on our lips.
 
-"Pilate said, 'Take him yourselves and crucify him. I find no case
-against him'" (John 19:6b). Second declaration of innocence.
+"Pilate said, 'Take him yourselves and crucify him. I find no case against him'" (John 19:6b). Second declaration of innocence.
 
-"The Jews replied, 'We have a law, and according to that law, he ought
-to be put to death because he has claimed to be the Son of God'" (John
-19:7).
+"The Jews replied, 'We have a law, and according to that law, he ought to be put to death because he has claimed to be the Son of God'" (John 19:7).
 
-The chief priests have recourse to the law. They want to impose the law
-in the strictest way possible. They want to get rid of Him.
+The chief priests have recourse to the law. They want to impose the law in the strictest way possible. They want to get rid of Him.
 
-"When Pilate heard them say this, his fears increased. Re-entering the
-Praetorium, he said to Jesus, 'Where do you come from?' But Jesus made
-no answer" (John 19: 8-9).
+"When Pilate heard them say this, his fears increased. Re-entering the Praetorium, he said to Jesus, 'Where do you come from?' But Jesus made no answer" (John 19: 8-9).
 
-In Latin, these words are *Iesum autem tacebat*. Jesus kept silent (John
-19:9; Matt. 26:63). On the pathway to Calvary, Our Lord gives us a great
-example of silence.
+In Latin, these words are *Iesum autem tacebat*. Jesus kept silent (John 19:9; Matt. 26:63). On the pathway to Calvary, Our Lord gives us a great example of silence.
 
-There may be times in our lives when we need to have more silence. Our
-silence can be an indication of our acceptance of God\'s will, of
-reacting supernaturally with faith, with peace, with serenity, of
-uniting ourselves to the Cross of Christ.
+There may be times in our lives when we need to have more silence. Our silence can be an indication of our acceptance of God\'s will, of reacting supernaturally with faith, with peace, with serenity, of uniting ourselves to the Cross of Christ.
 
-Cardinal Sarah says, "The suffering of silence can also be God\'s
-hallmark on a soul" (Robert Cardinal Sarah, *The Power of Silence*,
-quoting Don Augustin Guillerand).
+Cardinal Sarah says, "The suffering of silence can also be God\'s hallmark on a soul" (Robert Cardinal Sarah, *The Power of Silence*, quoting Don Augustin Guillerand).
 
-We don\'t need to justify ourselves or to out-argue other people. Often
-we just need to keep silent and keep our mouths shut.
+We don\'t need to justify ourselves or to out-argue other people. Often we just need to keep silent and keep our mouths shut.
 
-"In Gethsemane," he says, "when the end is near and the apostles are
-sleeping, incapable of understanding in depth the drama that is playing
-out, he remains one last night in silence, in prayer. In his final
-moments, nocturnal silence is Christ\'s companion." Christ is a great
-friend of silence during His Passion.
+"In Gethsemane," he says, "when the end is near and the apostles are sleeping, incapable of understanding in depth the drama that is playing out, he remains one last night in silence, in prayer. In his final moments, nocturnal silence is Christ\'s companion." Christ is a great friend of silence during His Passion.
 
-Lord, help me to be more silent, to withdraw in silence to prayer, to
-pray---more silent to listen more carefully to other people. Silence to
-pass unnoticed.
+Lord, help me to be more silent, to withdraw in silence to prayer, to pray---more silent to listen more carefully to other people. Silence to pass unnoticed.
 
-"The faithful," says Cardinal Sarah, "must get used to praying at night,
-like Jesus. God carries out his works in the night. In the night, all
-movement is transformed and grows by God\'s strength." Christ is silent,
-possibly because it\'s in prayer.
+"The faithful," says Cardinal Sarah, "must get used to praying at night, like Jesus. God carries out his works in the night. In the night, all movement is transformed and grows by God\'s strength." Christ is silent, possibly because it\'s in prayer.
 
-"For mankind," says Cardinal Sarah, "Christ\'s silent recollection is a
-great lesson. From the crib to the Cross, silence is constantly present,
-because the problem of silence is a problem of love. Love is not
-expressed in words. It takes on flesh and becomes one and the same being
-with the one who loves in truth. Its strength is such that it leads us
-to give ourselves even unto death, unto the humble, silent, and pure
-gift of our life.
+"For mankind," says Cardinal Sarah, "Christ\'s silent recollection is a great lesson. From the crib to the Cross, silence is constantly present, because the problem of silence is a problem of love. Love is not expressed in words. It takes on flesh and becomes one and the same being with the one who loves in truth. Its strength is such that it leads us to give ourselves even unto death, unto the humble, silent, and pure gift of our life.
 
-"If we want to prolong Christ\'s work on this earth, it\'s necessary to
-love silence, solitude, and prayer. Is the death of Jesus, therefore, a
-great silence?"
+"If we want to prolong Christ\'s work on this earth, it\'s necessary to love silence, solitude, and prayer. Is the death of Jesus, therefore, a great silence?"
 
-Christ practices that silence in the face of questions from Pilate.
-"Pilate then said to him, 'Are you refusing to speak to me? Truly you
-know I have the power to release you and I have the power to crucify
-you'" (John 19:10).
+Christ practices that silence in the face of questions from Pilate. "Pilate then said to him, 'Are you refusing to speak to me? Truly you know I have the power to release you and I have the power to crucify you'" (John 19:10).
 
-Pilate talks about his power, but Our Lord breaks His silence at this
-moment to clarify a few ideas.
+Pilate talks about his power, but Our Lord breaks His silence at this moment to clarify a few ideas.
 
-"Jesus replied, 'You would have no power over me at all if it had not
-been given you from above. And that is why the man who handed me over to
-you has the greater guilt'"(John 19:11).
+"Jesus replied, 'You would have no power over me at all if it had not been given you from above. And that is why the man who handed me over to you has the greater guilt'"(John 19:11).
 
-Our Lord doesn\'t allow this opportunity to pass without clarifying
-certain things. It\'s an opportunity to give the doctrine of who has the
-authentic power.
+Our Lord doesn\'t allow this opportunity to pass without clarifying certain things. It\'s an opportunity to give the doctrine of who has the authentic power.
 
-We\'re told, "From that moment Pilate was anxious to set him free. But
-the Jews shouted, 'If you set him free, you are no friend of Caesar\'s.
-Anyone who makes himself king is defying Caesar'" (John 19:12).
+We\'re told, "From that moment Pilate was anxious to set him free. But the Jews shouted, 'If you set him free, you are no friend of Caesar\'s. Anyone who makes himself king is defying Caesar'" (John 19:12).
 
-Pilate listens to the shouters. The Jews at this stage very cleverly
-play the Caesar card. They see that they\'re not really getting anywhere
-with their arguments, and so they become a little bit more clever.
+Pilate listens to the shouters. The Jews at this stage very cleverly play the Caesar card. They see that they\'re not really getting anywhere with their arguments, and so they become a little bit more clever.
 
-They know that Pilate has a station that is the farthest point of the
-Roman Empire and he wants an assignment much closer to Rome, and that
-depends on Caesar. He has to be in Caesar\'s good books.
+They know that Pilate has a station that is the farthest point of the Roman Empire and he wants an assignment much closer to Rome, and that depends on Caesar. He has to be in Caesar\'s good books.
 
-They play the Caesar card: "If you set him free, you are no friend of
-Caesar\'s." They\'re very clever. "Anyone who makes himself king is
-defying Caesar."
+They play the Caesar card: "If you set him free, you are no friend of Caesar\'s." They\'re very clever. "Anyone who makes himself king is defying Caesar."
 
-"Hearing these words, Pilate had Jesus brought out and seated him on the
-chair of judgment at a place called the Pavement (in Hebrew,
-*Gabbatha*). It was the Preparation Day, about the sixth hour. 'Here is
-your king,' said Pilate to the Jews. But they shouted, 'Away with him!
-Away with him! Crucify him!' 'Shall I crucify your king?' The chief
-priests answered, 'We have no king except Caesar'" (John 19:13-15).
+"Hearing these words, Pilate had Jesus brought out and seated him on the chair of judgment at a place called the Pavement (in Hebrew, *Gabbatha*). It was the Preparation Day, about the sixth hour. 'Here is your king,' said Pilate to the Jews. But they shouted, 'Away with him! Away with him! Crucify him!' 'Shall I crucify your king?' The chief priests answered, 'We have no king except Caesar'" (John 19:13-15).
 
-This is the epitome of hypocrisy. They hated Caesar. They hated the
-colonial rulers. They wanted the Romans out of their land and their
-territory. They wanted freedom. But here now they are proclaiming Caesar
-as their king when it\'s convenient, in order to get Christ.
+This is the epitome of hypocrisy. They hated Caesar. They hated the colonial rulers. They wanted the Romans out of their land and their territory. They wanted freedom. But here now they are proclaiming Caesar as their king when it\'s convenient, in order to get Christ.
 
-"At that, Pilate handed him over to them to be crucified. They then took
-charge of Jesus, and carrying his own cross, he went out to The Place of
-the Skull; in Hebrew, *Golgotha.* There they crucified him with two
-others, one on either side, Jesus being in the middle" (John 19:16-18).
+"At that, Pilate handed him over to them to be crucified. They then took charge of Jesus, and carrying his own cross, he went out to The Place of the Skull; in Hebrew, *Golgotha.* There they crucified him with two others, one on either side, Jesus being in the middle" (John 19:16-18).
 
-Our Lord was not crucified between two candles, but between two thieves.
-It was for real.
+Our Lord was not crucified between two candles, but between two thieves. It was for real.
 
-"Pilate wrote a notice and had it fixed on the cross: Jesus the
-Nazarene, king of the Jews" (John 19:19).
+"Pilate wrote a notice and had it fixed on the cross: Jesus the Nazarene, king of the Jews" (John 19:19).
 
-"And when they came to the place called The Skull, they crucified him
-there, and the robbers, one on the right side and the other on the left.
-Jesus said, 'Father, forgive them, for they do not know what they are
-doing'" (Luke 23:32-34).
+"And when they came to the place called The Skull, they crucified him there, and the robbers, one on the right side and the other on the left. Jesus said, 'Father, forgive them, for they do not know what they are doing'" (Luke 23:32-34).
 
-From the Cross, Our Lord speaks words of forgiveness, as though in His
-final moments, He continues to give us these lessons of charity.
+From the Cross, Our Lord speaks words of forgiveness, as though in His final moments, He continues to give us these lessons of charity.
 
-"Now, in dividing his garments, they cast lots. The people stood looking
-on, and the rulers with them kept sneering at him, saying, 'He saved
-others, and let him save himself\...'" (Luke 23:34-35). Even on the
-cross, Our Lord was not spared these insults.
+"Now, in dividing his garments, they cast lots. The people stood looking on, and the rulers with them kept sneering at him, saying, 'He saved others, and let him save himself\...'" (Luke 23:34-35). Even on the cross, Our Lord was not spared these insults.
 
-"\...if he is himself the Chosen One of God. And the soldiers mocked
-him, coming to him and offering him common wine, and saying, 'If you are
-the king of the Jews, save yourself!" (Luke 23:34-37).
+"\...if he is himself the Chosen One of God. And the soldiers mocked him, coming to him and offering him common wine, and saying, 'If you are the king of the Jews, save yourself!" (Luke 23:34-37).
 
-Our Lord patiently has to put up with all of these insults. St. Paul is
-going to later tell us that "charity endures all things" (1 Cor. 13:7).
-There may be moments in our lives when we have to endure things:
-insults, injustices, blows.
+Our Lord patiently has to put up with all of these insults. St. Paul is going to later tell us that "charity endures all things" (1 Cor. 13:7). There may be moments in our lives when we have to endure things: insults, injustices, blows.
 
-But we can get our consolation from knowing that Christ has already been
-there. There is nothing that we can suffer in this world that Christ has
-not already suffered.
+But we can get our consolation from knowing that Christ has already been there. There is nothing that we can suffer in this world that Christ has not already suffered.
 
-"Now one of those robbers who were hanged was abusing him, saying, 'If
-you were the Christ, save yourself and us'" (Luke 23:39).
+"Now one of those robbers who were hanged was abusing him, saying, 'If you were the Christ, save yourself and us'" (Luke 23:39).
 
-There are two thieves, the bad thief and the good thief. The bad thief
-taunts Our Lord, 'Come down off the cross.' These are the words of the
-devil. Hatred for the cross is one of the signs of the devil. 'Come down
-off that silly cross, perform something spectacular, be like Superman,
-and then we will believe the irony of it.'
+There are two thieves, the bad thief and the good thief. The bad thief taunts Our Lord, 'Come down off the cross.' These are the words of the devil. Hatred for the cross is one of the signs of the devil. 'Come down off that silly cross, perform something spectacular, be like Superman, and then we will believe the irony of it.'
 
-'Save yourself and us.' The enemies of the Church continue to say
-similar things. They tell the Church: 'Come down off that silly cross of
-your belief in the sacredness of every human life, in that every
-marriage act must be open to the transmission of human life. Come down
-off that silly cross where you believe that euthanasia is wrong, or
-contraception is wrong, or abortion is wrong. Come down off all those
-crosses and then we will believe.'
+'Save yourself and us.' The enemies of the Church continue to say similar things. They tell the Church: 'Come down off that silly cross of your belief in the sacredness of every human life, in that every marriage act must be open to the transmission of human life. Come down off that silly cross where you believe that euthanasia is wrong, or contraception is wrong, or abortion is wrong. Come down off all those crosses and then we will believe.'
 
-But Our Lord didn\'t come down off the Cross. In the crosses that Our
-Lord may permit in our life, He wants us to stay there, like He told
-Joseph in Egypt, "Remain there until I tell you" (cf. Matt. 2:13).
+But Our Lord didn\'t come down off the Cross. In the crosses that Our Lord may permit in our life, He wants us to stay there, like He told Joseph in Egypt, "Remain there until I tell you" (cf. Matt. 2:13).
 
 That cross is the pathway of our sanctification.
 
-There may be some little crosses that come along in the course of our
-life‚ little pinpricks of every day, but there might also be something
-bigger, something we never expected---in your marriage, in your family,
-in your health, in your finances---something you thought would never
-happen to you.
+There may be some little crosses that come along in the course of our life‚ little pinpricks of every day, but there might also be something bigger, something we never expected---in your marriage, in your family, in your health, in your finances---something you thought would never happen to you.
 
-Maybe it\'s a major contradiction, and possibly it\'s not going to go
-away; it\'s with you for life. You can be sure that that is the cross
-that God has wanted for you. That\'s the pathway of your sanctification.
-Christ speaks to us from the Cross.
+Maybe it\'s a major contradiction, and possibly it\'s not going to go away; it\'s with you for life. You can be sure that that is the cross that God has wanted for you. That\'s the pathway of your sanctification. Christ speaks to us from the Cross.
 
-Fulton Sheen tells a story of how the Archbishop of Paris told a story
-one time when five guys came into the cathedral in Paris, into Notre
-Dame, and they made a bet with each other to see who would make a mock
-confession. One guy took on the bet and he went into the confessional
-and made a mock confession.
+Fulton Sheen tells a story of how the Archbishop of Paris told a story one time when five guys came into the cathedral in Paris, into Notre Dame, and they made a bet with each other to see who would make a mock confession. One guy took on the bet and he went into the confessional and made a mock confession.
 
-He came out and he looked for his money---five francs. But one of the
-other guys said, If you made a mock confession, you would have got a
-penance. You go up to the front of the church there and say your
-penance.
+He came out and he looked for his money---five francs. But one of the other guys said, If you made a mock confession, you would have got a penance. You go up to the front of the church there and say your penance.
 
-So the guy marched up to the front of the church, stood in front of the
-altar, in front of the crucifix, took out his fist, and shook it at the
-crucifix, and said, "You died for me. Well, for you, I don\'t give a..."
-Then he found he couldn\'t finish it.
+So the guy marched up to the front of the church, stood in front of the altar, in front of the crucifix, took out his fist, and shook it at the crucifix, and said, "You died for me. Well, for you, I don\'t give a..." Then he found he couldn\'t finish it.
 
-God used that moment to let him see what it meant that Christ died for
-him on the cross for his sins. God used that moment to bring about a
-great conversion in his soul, in his heart, in his mind.
+God used that moment to let him see what it meant that Christ died for him on the cross for his sins. God used that moment to bring about a great conversion in his soul, in his heart, in his mind.
 
-The Archbishop of Paris ended his homily, saying, "I was that young man.
-I was the guy who came into the cathedral. I was the one who made the
-mock confession. I marched up to the front of the church. I shook my
-fist to the crucifix. God used that moment, not just to enter my soul
-and let me understand a little bit more about the Redemption, but He let
-me see that He wanted a little bit more from me in my life."
+The Archbishop of Paris ended his homily, saying, "I was that young man. I was the guy who came into the cathedral. I was the one who made the mock confession. I marched up to the front of the church. I shook my fist to the crucifix. God used that moment, not just to enter my soul and let me understand a little bit more about the Redemption, but He let me see that He wanted a little bit more from me in my life."
 
-We find conversion, in and from the Cross. We look at the crucifix and
-try to enter into the scenes. St. Josemaría says, "Enter into the wounds
-of Christ Crucified" (Josemaría Escrivá, *The Way*, Point 288). The Holy
-Spirit is there. There\'s an eternal freshness.
+We find conversion, in and from the Cross. We look at the crucifix and try to enter into the scenes. St. Josemaría says, "Enter into the wounds of Christ Crucified" (Josemaría Escrivá, *The Way*, Point 288). The Holy Spirit is there. There\'s an eternal freshness.
 
-John Paul liked to say we find the meaning and the purpose of our life
-in Christ. We don\'t find it anywhere else. You could say that in
-particular, we find the meaning and the purpose of our life in Christ on
-the Cross.
+John Paul liked to say we find the meaning and the purpose of our life in Christ. We don\'t find it anywhere else. You could say that in particular, we find the meaning and the purpose of our life in Christ on the Cross.
 
-Joy and happiness in this world have their roots in the form of a cross.
-When we try to run away from the cross in our life, we don\'t find
-happiness.
+Joy and happiness in this world have their roots in the form of a cross. When we try to run away from the cross in our life, we don\'t find happiness.
 
-I was giving a retreat one time in the Philippines, and I asked a man
-who had a lot of health problems how he was doing. He told me, "Father,
-I\'ve come to realize that happiness does not consist in doing things
-that are easy."
+I was giving a retreat one time in the Philippines, and I asked a man who had a lot of health problems how he was doing. He told me, "Father, I\'ve come to realize that happiness does not consist in doing things that are easy."
 
-I nearly fell off the chair. Such wisdom. We tend to look for happiness
-in the easy things, and very often, our greatest happiness is in the
-cross: in the cross in the family, in our marriage, in our work, in our
-health, in our finances. The Holy Spirit is there on the cross. We find
-the meaning and the purpose of our life.
+I nearly fell off the chair. Such wisdom. We tend to look for happiness in the easy things, and very often, our greatest happiness is in the cross: in the cross in the family, in our marriage, in our work, in our health, in our finances. The Holy Spirit is there on the cross. We find the meaning and the purpose of our life.
 
-That\'s why the Church tells us that we can learn how to love the cross.
-Lord, teach me how to love the cross and to thank you for the crosses.
+That\'s why the Church tells us that we can learn how to love the cross. Lord, teach me how to love the cross and to thank you for the crosses.
 
-A lady told me once, "I thank Our Lord for the crosses because I
-realized it could be much worse." And she was carrying a big cross.
+A lady told me once, "I thank Our Lord for the crosses because I realized it could be much worse." And she was carrying a big cross.
 
-But she realized: "My joy and my happiness comes from the cross, and
-I\'m thanking God for the crosses that He sends me."
+But she realized: "My joy and my happiness comes from the cross, and I\'m thanking God for the crosses that He sends me."
 
-We could say to Our Lord, Help me to be more demanding on myself and
-less demanding on others. Help me to bear with joy, for the love of
-Christ, any discomforts, scarcity of means, all the consequences of my
-situation that you call me to live, the extra demands.
+We could say to Our Lord, Help me to be more demanding on myself and less demanding on others. Help me to bear with joy, for the love of Christ, any discomforts, scarcity of means, all the consequences of my situation that you call me to live, the extra demands.
 
-Help me to see my situation as a divine call to greater virtue. Help me
-to accept with love, as wanted by God for my growth, all the sufferings,
-physical or moral; contradictions, misunderstandings; miscommunications,
-sicknesses, limitations, reversals of fortune.
+Help me to see my situation as a divine call to greater virtue. Help me to accept with love, as wanted by God for my growth, all the sufferings, physical or moral; contradictions, misunderstandings; miscommunications, sicknesses, limitations, reversals of fortune.
 
-Help me to find my joy in co-redeeming with Christ on the Cross. St.
-Paul says, "I rejoice now in the sufferings I bear for your sake, and
-what is lacking in the sufferings of Christ, I fill up in my body for
-the sake of the Church" (Col. 1:24).
+Help me to find my joy in co-redeeming with Christ on the Cross. St. Paul says, "I rejoice now in the sufferings I bear for your sake, and what is lacking in the sufferings of Christ, I fill up in my body for the sake of the Church" (Col. 1:24).
 
-There is nothing lacking in the sufferings of Christ. But what is often
-lacking is our participation in those sufferings.
+There is nothing lacking in the sufferings of Christ. But what is often lacking is our participation in those sufferings.
 
-Fulton Sheen tells a story of how he visited Pope Paul VI in 1968, just
-after the issuing of the Encyclical *Humanae Vitae*, a beautiful
-document about conjugal love that should be read by every married
-person. It is otherwise known as the document that condemned
-contraception.
+Fulton Sheen tells a story of how he visited Pope Paul VI in 1968, just after the issuing of the Encyclical *Humanae Vitae*, a beautiful document about conjugal love that should be read by every married person. It is otherwise known as the document that condemned contraception.
 
-Venerable Fulton Sheen said to St. Paul VI, "Holy Father, you are well
-named, because 'Paul they stoned' (Acts 14:19), and now they\'re stoning
-you." The Holy Father was getting a lot of flack in the international
-press.
+Venerable Fulton Sheen said to St. Paul VI, "Holy Father, you are well named, because 'Paul they stoned' (Acts 14:19), and now they\'re stoning you." The Holy Father was getting a lot of flack in the international press.
 
-The Pope said, "Yes, it\'s 10 in the evening before I get to open my
-mail. With each letter, there comes a thorn. When I lie down on my bed
-at night, I lie down on a crown of thorns. But," he said, "I can\'t tell
-you the joy and the happiness I feel of how I\'m making up in my body
-for what is lacking in the sufferings of Christ." With that, he was
-quoting St. Paul.
+The Pope said, "Yes, it\'s 10 in the evening before I get to open my mail. With each letter, there comes a thorn. When I lie down on my bed at night, I lie down on a crown of thorns. But," he said, "I can\'t tell you the joy and the happiness I feel of how I\'m making up in my body for what is lacking in the sufferings of Christ." With that, he was quoting St. Paul.
 
-We find our joy in participating in the Cross. The Cross reveals the
-infinite love of God. There\'s great wisdom on the Cross. There\'s a
-light that shines from the Cross. There is rest in the Cross. And
-therefore, there is joy in the Cross.
+We find our joy in participating in the Cross. The Cross reveals the infinite love of God. There\'s great wisdom on the Cross. There\'s a light that shines from the Cross. There is rest in the Cross. And therefore, there is joy in the Cross.
 
-"But the other thief in answer rebuked him and said, 'Do you not even
-fear God seeing that you\'re under the same sentence? And we indeed
-justly, for we are receiving what our deeds deserved; but this man has
-done nothing wrong" (Luke 23:39-41).
+"But the other thief in answer rebuked him and said, 'Do you not even fear God seeing that you\'re under the same sentence? And we indeed justly, for we are receiving what our deeds deserved; but this man has done nothing wrong" (Luke 23:39-41).
 
-The good thief on the cross recognizes the innocence of Christ. This is
-reminiscent of a letter that Cardinal Pell got while he was in prison
-from all of his other prisoners, professional criminals, who wrote to
-him to say, "It\'s our considered opinion that you are innocent."
+The good thief on the cross recognizes the innocence of Christ. This is reminiscent of a letter that Cardinal Pell got while he was in prison from all of his other prisoners, professional criminals, who wrote to him to say, "It\'s our considered opinion that you are innocent."
 
-"What is mystifying," he said, "is that all these professional criminals
-could see his innocence, but yet the judges could not."
+"What is mystifying," he said, "is that all these professional criminals could see his innocence, but yet the judges could not."
 
-This good thief recognizes the innocence of Christ. "And he said to
-Jesus, 'Lord, remember me when you come into your kingdom'" (Luke
-23:42).
+This good thief recognizes the innocence of Christ. "And he said to Jesus, 'Lord, remember me when you come into your kingdom'" (Luke 23:42).
 
-These are very beautiful words---words of hope. The good thief dying on
-the cross expresses words of hope in his dying moments. He looks across
-at Christ and he sees a completely different reality to what the bad
-thief sees. Your kingdom? He sees a King.
+These are very beautiful words---words of hope. The good thief dying on the cross expresses words of hope in his dying moments. He looks across at Christ and he sees a completely different reality to what the bad thief sees. Your kingdom? He sees a King.
 
-The crown of thorns has become a royal crown. The nails in His hands
-have become the scepter with which He reigns. The cross of wood has
-become a royal throne. He talks to Jesus as his King. "Remember me"---a
-beautiful aspiration.
+The crown of thorns has become a royal crown. The nails in His hands have become the scepter with which He reigns. The cross of wood has become a royal throne. He talks to Jesus as his King. "Remember me"---a beautiful aspiration.
 
-"Jesus said to him, "Amen, I say to you, this day you will be with me in
-paradise" (Luke 23:43). Very beautiful.
+"Jesus said to him, "Amen, I say to you, this day you will be with me in paradise" (Luke 23:43). Very beautiful.
 
-On the Cross, Christ reaches out to the last soul that is going to speak
-to Him. His whole life is an apostolate. He came to save souls and up to
-His dying moment, He was saving souls.
+On the Cross, Christ reaches out to the last soul that is going to speak to Him. His whole life is an apostolate. He came to save souls and up to His dying moment, He was saving souls.
 
-Notice how He says to him "this day." Our Lord doesn\'t say, 'Look, when
-I get to heaven, I\'ll take a little look at your file and I see how
-much it is that you\'ve stolen. We\'ll have a little look and we'll come
-to some agreement. Maybe over time, we\'ll do something.'
+Notice how He says to him "this day." Our Lord doesn\'t say, 'Look, when I get to heaven, I\'ll take a little look at your file and I see how much it is that you\'ve stolen. We\'ll have a little look and we'll come to some agreement. Maybe over time, we\'ll do something.'
 
-No---"this day." Christ speaks in short increments of time. He doesn\'t
-talk about Vision 2030 or Millennium goals. This hour, this day,
-immediate. "You will be with me in paradise."
+No---"this day." Christ speaks in short increments of time. He doesn\'t talk about Vision 2030 or Millennium goals. This hour, this day, immediate. "You will be with me in paradise."
 
 He pours out His mercy on the Cross to this repentant sinner.
 
-We could try to look like the good thief at the cross. It\'s a very good
-thing to look at the crucifix, to contemplate the cross, maybe to teach
-children to kiss the cross, to thank God for the crosses, so that they
-see something good there.
+We could try to look like the good thief at the cross. It\'s a very good thing to look at the crucifix, to contemplate the cross, maybe to teach children to kiss the cross, to thank God for the crosses, so that they see something good there.
 
-We know that God is at work in our life. We contemplate the cross to
-find all the riches there. St. Augustine liked to say, "The cross is a
-seat of learning."
+We know that God is at work in our life. We contemplate the cross to find all the riches there. St. Augustine liked to say, "The cross is a seat of learning."
 
-It\'s like a book. Our lives are written with Christ on the Cross. As we
-contemplate the cross, we could ask Our Lord for the strength to carry
-it. Christ is a book of Wisdom, and the center of this Wisdom is the
-Cross. Supreme love revealed.
+It\'s like a book. Our lives are written with Christ on the Cross. As we contemplate the cross, we could ask Our Lord for the strength to carry it. Christ is a book of Wisdom, and the center of this Wisdom is the Cross. Supreme love revealed.
 
-Christ could have saved us in other ways. He could have clicked His
-fingers. St. Thomas Aquinas says He could have just shed one drop of His
-blood, but He wanted to shed all of His blood copiously, so that we
-would know how much God loves every soul. We find the meaning, the
-answer to all the contradictions of life.
+Christ could have saved us in other ways. He could have clicked His fingers. St. Thomas Aquinas says He could have just shed one drop of His blood, but He wanted to shed all of His blood copiously, so that we would know how much God loves every soul. We find the meaning, the answer to all the contradictions of life.
 
-"How inscrutable are his judgments and how unsearchable his ways" (Rom.
-11:33).
+"How inscrutable are his judgments and how unsearchable his ways" (Rom. 11:33).
 
-It\'s in and through the Cross that we become Christ-like. We put off
-the old person. There\'s a wisdom of the Cross that is contrary to the
-wisdom of the flesh.
+It\'s in and through the Cross that we become Christ-like. We put off the old person. There\'s a wisdom of the Cross that is contrary to the wisdom of the flesh.
 
-In *The Way to the Cross*, St. Josemaría says, "Love sacrifice; it is a
-fountain of interior life. Love the Cross, which is an altar of
-sacrifice. Love pain, until you drink, as Christ did, the very dregs of
-the chalice" (J. Escrivá, *The Way of the Cross*, Twelfth Station--Jesus
-dies on the Cross).
+In *The Way to the Cross*, St. Josemaría says, "Love sacrifice; it is a fountain of interior life. Love the Cross, which is an altar of sacrifice. Love pain, until you drink, as Christ did, the very dregs of the chalice" (J. Escrivá, *The Way of the Cross*, Twelfth Station--Jesus dies on the Cross).
 
-St. Paul says, "Do not model your behavior in the contemporary world,
-but let the renewing of your mind transform you, that you may discern
-for yourselves what is the will of God, what is good, acceptable, and
-mature" (Rom. 12:2).
+St. Paul says, "Do not model your behavior in the contemporary world, but let the renewing of your mind transform you, that you may discern for yourselves what is the will of God, what is good, acceptable, and mature" (Rom. 12:2).
 
-As we follow Christ to the Cross and learn all the lessons that are
-there for us to learn, we could ask Him that we might always follow Him
-along that pathway to Calvary and be very faithful.
+As we follow Christ to the Cross and learn all the lessons that are there for us to learn, we could ask Him that we might always follow Him along that pathway to Calvary and be very faithful.
 
-"It was now about the sixth hour and there was darkness over the whole
-land until the ninth hour. The sun was darkened and the curtain of the
-temple was torn in the middle. Then Jesus cried out with a loud voice
-and said, 'Father, into your hands I commend my spirit!' Now having said
-this, he expired. When the centurion saw what had happened, he glorified
-God saying, 'Truly this was a just man'" (Luke 23:44-47).
+"It was now about the sixth hour and there was darkness over the whole land until the ninth hour. The sun was darkened and the curtain of the temple was torn in the middle. Then Jesus cried out with a loud voice and said, 'Father, into your hands I commend my spirit!' Now having said this, he expired. When the centurion saw what had happened, he glorified God saying, 'Truly this was a just man'" (Luke 23:44-47).
 
-Even after His death, the Roman soldiers gave witness to the innocence
-of Christ.
+Even after His death, the Roman soldiers gave witness to the innocence of Christ.
 
-"All the crowd that collected for the sight, when they beheld what
-things had happened, began to return beating their breasts. And all his
-acquaintances and the women who had followed him from Galilee were
-standing at a distance looking on" (Luke 23:48).
+"All the crowd that collected for the sight, when they beheld what things had happened, began to return beating their breasts. And all his acquaintances and the women who had followed him from Galilee were standing at a distance looking on" (Luke 23:48).
 
-Pope Benedict liked to say that we could take as a motto for these days,
-and for the whole of Lent, that phrase that one of the Evangelists
-mentions, "They have looked upon him whom they have pierced" (John
-19:37).
+Pope Benedict liked to say that we could take as a motto for these days, and for the whole of Lent, that phrase that one of the Evangelists mentions, "They have looked upon him whom they have pierced" (John 19:37).
 
-They contemplate the open side of Christ, the open wound from which the
-sacramental life of the Church flows. We could ask Our Lady that we
-might be there like one of those onlookers, contemplating that open side
-of Christ who has shed His blood and given everything.
+They contemplate the open side of Christ, the open wound from which the sacramental life of the Church flows. We could ask Our Lady that we might be there like one of those onlookers, contemplating that open side of Christ who has shed His blood and given everything.
 
-On the Sacred Heart of Jesus, the Preface of that Feast Day says, "We
-draw close to the Sacred Heart of Christ to draw water in joy from the
-wells of salvation" (Isa. 12:3).
+On the Sacred Heart of Jesus, the Preface of that Feast Day says, "We draw close to the Sacred Heart of Christ to draw water in joy from the wells of salvation" (Isa. 12:3).
 
 Mary, help us to draw those waters in joy from the wells of salvation.
 
-*I thank you, my God, for the good resolutions, affections, and
-inspirations that you have communicated to me during this meditation. I
-ask your help to put them into practice. My Immaculate Mother, Saint
-Joseph, my father and lord, my guardian angel, intercede for me.*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *JSD*

@@ -9,492 +9,257 @@ By Fr. Conor Donnelly
 
 In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
 
-My Lord and my God, I firmly believe that You are here, that You see me,
-that You hear me. I adore You with profound reverence. I ask Your pardon
-for my sins and grace to make this time of prayer fruitful. My
-Immaculate Mother, St. Joseph, my father and lord, my Guardian Angel,
-intercede for me.
+My Lord and my God, I firmly believe that You are here, that You see me, that You hear me. I adore You with profound reverence. I ask Your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, St. Joseph, my father and lord, my Guardian Angel, intercede for me.
 
-Then He took bread and when He had given thanks, He broke it and gave it
-to them saying, "This is My Body given for you. Do this in remembrance
-of Me." He did the same with the cup after supper and said, "This Cup is
-the New Covenant in my Blood poured out for you."
+Then He took bread and when He had given thanks, He broke it and gave it to them saying, "This is My Body given for you. Do this in remembrance of Me." He did the same with the cup after supper and said, "This Cup is the New Covenant in my Blood poured out for you."
 
-When we realize that the Holy Mass has infinite worth, we are not
-surprised at the eagerness of the saints to take care to attend it every
-day.
+When we realize that the Holy Mass has infinite worth, we are not surprised at the eagerness of the saints to take care to attend it every day.
 
-One day, St. Padre Pio said, "If men were to understand the value of the
-Holy Mass, for every Mass such crowds would come to Church that police
-would be needed to keep order."
+One day, St. Padre Pio said, "If men were to understand the value of the Holy Mass, for every Mass such crowds would come to Church that police would be needed to keep order."
 
-We might include ourselves among the great number of Christians who have
-not understood the value of the Mass. And for that reason, we perhaps
-might lack the zeal and the fervor that encouraged the saints and
-inspired them to attend Mass each day.
+We might include ourselves among the great number of Christians who have not understood the value of the Mass. And for that reason, we perhaps might lack the zeal and the fervor that encouraged the saints and inspired them to attend Mass each day.
 
-St. Augustine has left us this praise of his mother, St. Monica: "She
-did not let a day pass without being present at the Divine Sacrifice
-before Your Altar, O Lord."
+St. Augustine has left us this praise of his mother, St. Monica: "She did not let a day pass without being present at the Divine Sacrifice before Your Altar, O Lord."
 
 So many people have given us a very clear example.
 
-St. Margaret of Scotland, a mother of eight, went to Mass every day and
-brought her children with her. With motherly care, she taught them to
-treasure a little Missal which she adorned with precious stones.
+St. Margaret of Scotland, a mother of eight, went to Mass every day and brought her children with her. With motherly care, she taught them to treasure a little Missal which she adorned with precious stones.
 
-We have to try and manage our affairs so that we don't lack time for
-Mass.
+We have to try and manage our affairs so that we don't lack time for Mass.
 
-If we were to say that we were too busy with other things, Our Lord
-might remind us of those words to Martha: "Martha, Martha, you are
-anxious and troubled about many things; but only one thing is
-necessary."
+If we were to say that we were too busy with other things, Our Lord might remind us of those words to Martha: "Martha, Martha, you are anxious and troubled about many things; but only one thing is necessary."
 
-When we really want to, we can find time to attend Mass without failing
-in our other duties.
+When we really want to, we can find time to attend Mass without failing in our other duties.
 
-People who say they don't have time, one saint used to say, "That's bad
-management! Bad economy of time!"
+People who say they don't have time, one saint used to say, "That's bad management! Bad economy of time!"
 
-One lady at a get-together with Blessed Alvaro in Dublin, many years,
-ago said that she had many children: eight children. She had to do the
-washing, the ironing, the cleaning, the marketing, this, that, and the
-other. And she said: "How can I find time to fulfill some norms of my
-plan of life each day?"
+One lady at a get-together with Blessed Alvaro in Dublin, many years, ago said that she had many children: eight children. She had to do the washing, the ironing, the cleaning, the marketing, this, that, and the other. And she said: "How can I find time to fulfill some norms of my plan of life each day?"
 
-And Blessed Alvaro said: "Well, the litany of things that you have to do
-is very impressive. It's true, you have a lot of things on your plate.
-But you've left something out of your list. You've left God out of your
-list. You put God in your list, and you put Him first, and you'll find
-you'll have time for everything else."
+And Blessed Alvaro said: "Well, the litany of things that you have to do is very impressive. It's true, you have a lot of things on your plate. But you've left something out of your list. You've left God out of your list. You put God in your list, and you put Him first, and you'll find you'll have time for everything else."
 
-Very often that's the secret: when we put our spiritual life first, we
-put our Mass first.
+Very often that's the secret: when we put our spiritual life first, we put our Mass first.
 
-The Mass, the Second Vatican Council has said, is the summit and the
-source of our whole spiritual life.
+The Mass, the Second Vatican Council has said, is the summit and the source of our whole spiritual life.
 
-When we put that first, that places a lot of order in our day. Many find
-that God multiplies their time for other things.
+When we put that first, that places a lot of order in our day. Many find that God multiplies their time for other things.
 
-If we remind ourselves frequently of the infinite value of the Mass --
-the good that it does our soul, our marriage, our family, and our
-friends -- then we will be very desirous to be present there.
+If we remind ourselves frequently of the infinite value of the Mass -- the good that it does our soul, our marriage, our family, and our friends -- then we will be very desirous to be present there.
 
-We'll try to find in every way the necessary time. We'll go out of our
-way, even if it means traveling quite a distance.
+We'll try to find in every way the necessary time. We'll go out of our way, even if it means traveling quite a distance.
 
-The Curé of Ars used to say the Mass is the devotion of the Saints. Many
-saints, when they were not able to celebrate Mass, suffered greatly.
+The Curé of Ars used to say the Mass is the devotion of the Saints. Many saints, when they were not able to celebrate Mass, suffered greatly.
 
-One of the greatest pains of the life of Saint Josemaria was when he was
-sick and unable to celebrate Mass.
+One of the greatest pains of the life of Saint Josemaria was when he was sick and unable to celebrate Mass.
 
-One saint said, "When you hear that I cannot celebrate Mass anymore,
-count me as dead."
+One saint said, "When you hear that I cannot celebrate Mass anymore, count me as dead."
 
-Obstacles and difficulties did not count for the saints when it was a
-question of not losing so excellent a good.
+Obstacles and difficulties did not count for the saints when it was a question of not losing so excellent a good.
 
-One day, St. Alphonsus de Liguori suffered bad pains in his stomach and
-the religious who accompanied him urged him to stop and take a sedative.
+One day, St. Alphonsus de Liguori suffered bad pains in his stomach and the religious who accompanied him urged him to stop and take a sedative.
 
-But he had not yet celebrated Mass. His prompt response was: "My dear
-brother, I would walk ten miles in this condition in order not to miss
-saying Holy Mass."
+But he had not yet celebrated Mass. His prompt response was: "My dear brother, I would walk ten miles in this condition in order not to miss saying Holy Mass."
 
-His sufferings also did not move him to break the Eucharistic fast,
-which at that time was obligatory from Midnight. He waited until the
-pain subsided a little, and then continued his walk to Church and Mass.
+His sufferings also did not move him to break the Eucharistic fast, which at that time was obligatory from Midnight. He waited until the pain subsided a little, and then continued his walk to Church and Mass.
 
 St. Lawrence of Brindisi said, "The Mass is my Heaven on earth."
 
-A lady stood up at a get-together with the Prelate of Opus Dei many
-years ago, Don Javier Echevarría. She said she was Lutheran: this was in
-a South American country. And she said her daughter began to attend a
-center of Opus Dei to go to study there. And then she began to attend
-some classes of formation.
+A lady stood up at a get-together with the Prelate of Opus Dei many years ago, Don Javier Echevarría. She said she was Lutheran: this was in a South American country. And she said her daughter began to attend a center of Opus Dei to go to study there. And then she began to attend some classes of formation.
 
-When she came home, she would share with her mother what she had learned
-through these classes of formation.
+When she came home, she would share with her mother what she had learned through these classes of formation.
 
-And she said, "I used to get very worried because I could see my
-daughter losing her Lutheran faith. And we had some stand-up rows. And
-then, horror of horrors, my daughter began to attend Mass -- and we had
-more rows. Then my daughter challenged me to attend the Mass with her."
+And she said, "I used to get very worried because I could see my daughter losing her Lutheran faith. And we had some stand-up rows. And then, horror of horrors, my daughter began to attend Mass -- and we had more rows. Then my daughter challenged me to attend the Mass with her."
 
-The lady ended her little speech, saying: "And now, Father, the Mass is
-the joy of my life."
+The lady ended her little speech, saying: "And now, Father, the Mass is the joy of my life."
 
-This good lady had come to discover that the Mass was a Sacrifice. That
-she could go there and place all her burdens, concerns, worries, and
-pains on the paten -- and unite them to the Sacrifice of Christ, as He
-offered them to His Heavenly Father.
+This good lady had come to discover that the Mass was a Sacrifice. That she could go there and place all her burdens, concerns, worries, and pains on the paten -- and unite them to the Sacrifice of Christ, as He offered them to His Heavenly Father.
 
-And in that way, she unburdened herself of so many concerns. She was
-able to say, "The Mass is now the joy of my life."
+And in that way, she unburdened herself of so many concerns. She was able to say, "The Mass is now the joy of my life."
 
-A very beautiful thing for us to be able to say when the cares and
-worries of this world get us down. Our role is to bring those things and
-place them with the Sacrifice of Christ on the Cross.
+A very beautiful thing for us to be able to say when the cares and worries of this world get us down. Our role is to bring those things and place them with the Sacrifice of Christ on the Cross.
 
-That can even bring meaning and joy to every moment of our life: the
-ups, as well as the downs.
+That can even bring meaning and joy to every moment of our life: the ups, as well as the downs.
 
-We will never succeed in sufficiently pondering that Mystery beyond
-description.
+We will never succeed in sufficiently pondering that Mystery beyond description.
 
-Pope John Paul II, said on the 50th anniversary of his Priesthood: "I've
-never really gotten used to the fact of acting in the person of Christ.
-The words 'This is my Body, this is my Blood' form the center of the
-life of every Priest."
+Pope John Paul II, said on the 50th anniversary of his Priesthood: "I've never really gotten used to the fact of acting in the person of Christ. The words 'This is my Body, this is my Blood' form the center of the life of every Priest."
 
-Fulton Sheen says if we, Priests, were to realize the depth of those
-words, and what they mean, we might die.
+Fulton Sheen says if we, Priests, were to realize the depth of those words, and what they mean, we might die.
 
 We never fully appreciate all these things.
 
-St. Bonaventure says Holy Mass "is an achievement of God wherein He
-places before our view all the love He has borne us. It is, in a certain
-way, a combination of all the benefits bestowed upon us."
+St. Bonaventure says Holy Mass "is an achievement of God wherein He places before our view all the love He has borne us. It is, in a certain way, a combination of all the benefits bestowed upon us."
 
-We get a glimpse of how every Mass each day is a gold mine. Every Mass
-is different because it's a different day: it brings graces to sanctify
-this particular day.
+We get a glimpse of how every Mass each day is a gold mine. Every Mass is different because it's a different day: it brings graces to sanctify this particular day.
 
-Our Lord wants to take us by the hand and lead us forward -- little by
-little -- in savoring the Mass over a period of time.
+Our Lord wants to take us by the hand and lead us forward -- little by little -- in savoring the Mass over a period of time.
 
-St. John Bosco says: "Take great care to go to Holy Mass, even on
-weekdays; and for such a cause be willing to put up with some
-inconvenience. Thereby you will obtain every kind of blessing from the
-Lord."
+St. John Bosco says: "Take great care to go to Holy Mass, even on weekdays; and for such a cause be willing to put up with some inconvenience. Thereby you will obtain every kind of blessing from the Lord."
 
-I heard of a lady once who was at a conference. She was going to lunch
-with some friends. She was in a city far away from where she lived. As
-they went to lunch she said, "I'll catch up with you later. I'm going to
-Mass at this Church at Noontime."
+I heard of a lady once who was at a conference. She was going to lunch with some friends. She was in a city far away from where she lived. As they went to lunch she said, "I'll catch up with you later. I'm going to Mass at this Church at Noontime."
 
-One of the friends said, "I'll join you." And so that other friend went
-with her: that friend had not been to Mass for a couple of years.
+One of the friends said, "I'll join you." And so that other friend went with her: that friend had not been to Mass for a couple of years.
 
-When the Priest came out on the Altar, she recognized the Priest. He was
-a good friend of a brother of hers, her classmate. And so after Mass,
-she went to greet him, to say she hasn't seen him for a long time. And
-that was the beginning of her going back to Mass.
+When the Priest came out on the Altar, she recognized the Priest. He was a good friend of a brother of hers, her classmate. And so after Mass, she went to greet him, to say she hasn't seen him for a long time. And that was the beginning of her going back to Mass.
 
-God sometimes uses our example to make us instruments to reach out to
-other souls.
+God sometimes uses our example to make us instruments to reach out to other souls.
 
-The infinite greatness of the Mass should help us to understand the need
-to be attentive and devoutly take part in each Mass, irrespective of our
-distractions.
+The infinite greatness of the Mass should help us to understand the need to be attentive and devoutly take part in each Mass, irrespective of our distractions.
 
 We might find that our mind is in Hawaii.
 
-Father Leo Trese in his book 'Vessel of Clay' recommends having certain
-wakeup calls during the Mass. So that even if our mind is in Hawaii, we
-swing back to remind ourselves of what we are participating in.
+Father Leo Trese in his book 'Vessel of Clay' recommends having certain wakeup calls during the Mass. So that even if our mind is in Hawaii, we swing back to remind ourselves of what we are participating in.
 
-Perhaps at the "Lord, have mercy. Christ, have mercy. Lord, have mercy."
-Or at the "Holy, holy, holy." We shouldn't be surprised that we get so
-distracted, because Our Lord has said: "Unless you become like little
-children, you cannot enter the Kingdom of Heaven."
+Perhaps at the "Lord, have mercy. Christ, have mercy. Lord, have mercy." Or at the "Holy, holy, holy." We shouldn't be surprised that we get so distracted, because Our Lord has said: "Unless you become like little children, you cannot enter the Kingdom of Heaven."
 
 Little children can't concentrate for a moment.
 
-We know the ends of the Mass: adoration, thanksgiving, petition, and
-atonement. These sentiments should have an undisputed predominance in
-the Mass.
+We know the ends of the Mass: adoration, thanksgiving, petition, and atonement. These sentiments should have an undisputed predominance in the Mass.
 
-If we follow the words of the Preface of Eucharistic Prayers and the
-other prayers of the Mass, then those words would help us to focus on
-what's taking place on the Altar.
+If we follow the words of the Preface of Eucharistic Prayers and the other prayers of the Mass, then those words would help us to focus on what's taking place on the Altar.
 
-Pope Pius XII said, "The state of mind that the Divine Redeemer had when
-He sacrificed Himself, the same humble spirit of submission -- that is,
-of adoration, love, praise, and thanksgiving -- to the great Majesty of
-God, so that we reproduce in ourselves the condition of victimhood, the
-self-denial that follows the Gospel's teaching, by which of our own
-accord we make a willing sacrifice of penance, sorrow, and expiation for
-our sins."
+Pope Pius XII said, "The state of mind that the Divine Redeemer had when He sacrificed Himself, the same humble spirit of submission -- that is, of adoration, love, praise, and thanksgiving -- to the great Majesty of God, so that we reproduce in ourselves the condition of victimhood, the self-denial that follows the Gospel's teaching, by which of our own accord we make a willing sacrifice of penance, sorrow, and expiation for our sins."
 
 This was quoted in the Second Vatican Council.
 
 The Councill talks about active participation in the Mass.
 
-It doesn't necessarily mean that we do the Readings, only one person can
-do that, but every single person in the Church is called to actively
-participate in the Mass -- including every child.
+It doesn't necessarily mean that we do the Readings, only one person can do that, but every single person in the Church is called to actively participate in the Mass -- including every child.
 
-We do that by following the words of the Priest and uniting ourselves to
-what's taking place on the Altar.
+We do that by following the words of the Priest and uniting ourselves to what's taking place on the Altar.
 
-Pope Pius XII says such participation succeeds in "reproducing in us the
-pain-shared features of Jesus", bestowing upon us "a companionship with
-Christ in His sufferings" and "conformable to His Death" says St. Paul.
+Pope Pius XII says such participation succeeds in "reproducing in us the pain-shared features of Jesus", bestowing upon us "a companionship with Christ in His sufferings" and "conformable to His Death" says St. Paul.
 
 The Mass can go very deep, with great meaning.
 
-St. Gregory the Great said: "The Sacrifice of the Altar will be truly
-accepted as a Victim offered on our behalf to God" when we unite
-ourselves to the Victim.
+St. Gregory the Great said: "The Sacrifice of the Altar will be truly accepted as a Victim offered on our behalf to God" when we unite ourselves to the Victim.
 
-As a reflection of this doctrine, in the early Christian communities,
-sometimes people wore penitential garbs and, chanting the litany of the
-saints, went in procession to the Altar for the celebration of Mass,
-with the Pope presiding.
+As a reflection of this doctrine, in the early Christian communities, sometimes people wore penitential garbs and, chanting the litany of the saints, went in procession to the Altar for the celebration of Mass, with the Pope presiding.
 
-St. Thomas the Apostle expressed interesting words when he said, "Let us
-also go, that we may die with Him."
+St. Thomas the Apostle expressed interesting words when he said, "Let us also go, that we may die with Him."
 
 That's why we desire to unite ourselves to the Sacrifice.
 
-St. Margaret Mary Alacoque attended Mass, and she would gaze at the
-Altar. She said she never failed to glance at the Crucifix and the
-lighted candles.
+St. Margaret Mary Alacoque attended Mass, and she would gaze at the Altar. She said she never failed to glance at the Crucifix and the lighted candles.
 
-She said this was to impress on her mind two things: that the Crucifix
-should remind her of what Jesus had done for her, and that the lighted
-candles to recall what she must do for Jesus -- that is, to sacrifice
-herself and be consumed for Him and souls.
+She said this was to impress on her mind two things: that the Crucifix should remind her of what Jesus had done for her, and that the lighted candles to recall what she must do for Jesus -- that is, to sacrifice herself and be consumed for Him and souls.
 
-One of the things that are meant to be always on the Altar when the
-Priest celebrates Mass is the Crucifix so that the Priest can look at
-the Crucifix and remind himself that this is the renewal of the
-sacrifice at Calvary.
+One of the things that are meant to be always on the Altar when the Priest celebrates Mass is the Crucifix so that the Priest can look at the Crucifix and remind himself that this is the renewal of the sacrifice at Calvary.
 
-The Catechism says that the Mass makes Calvary present to us. Or, if you
-like, when we are at Mass we are transported back to the foot of the
-Cross.
+The Catechism says that the Mass makes Calvary present to us. Or, if you like, when we are at Mass we are transported back to the foot of the Cross.
 
-The king of France, Louis IX, would assist at Mass every day on his
-knees on the bare floor. One time, one of his assistants offered him a
-kneeler but the king told him: "At Mass God offers Himself as a
-sacrifice, and when God sacrifices Himself, kings should kneel on the
-floor."
+The king of France, Louis IX, would assist at Mass every day on his knees on the bare floor. One time, one of his assistants offered him a kneeler but the king told him: "At Mass God offers Himself as a sacrifice, and when God sacrifices Himself, kings should kneel on the floor."
 
-St. John Bosco encouraged people to divide the Mass into three parts.
-First, the Passion of Jesus, from the offertory to the Elevation.
+St. John Bosco encouraged people to divide the Mass into three parts. First, the Passion of Jesus, from the offertory to the Elevation.
 
-Second, to contemplate our sins, the cause of the Passion and Death,
-until the Communion. And thirdly, the resolution to live a pure and
-fervent life, from Communion to the end of Mass.
+Second, to contemplate our sins, the cause of the Passion and Death, until the Communion. And thirdly, the resolution to live a pure and fervent life, from Communion to the end of Mass.
 
-To do this most simply and fruitfully, it's enough just to follow
-attentively what the Priest is saying and doing at the Altar. This can
-be the easiest way to overcome distractions.
+To do this most simply and fruitfully, it's enough just to follow attentively what the Priest is saying and doing at the Altar. This can be the easiest way to overcome distractions.
 
-St. Josemaria recommended every year to read a book about the Mass -- so
-that, in the course of our life, we form ourselves much more about what
-he said was the center and the root of our whole spiritual life.
+St. Josemaria recommended every year to read a book about the Mass -- so that, in the course of our life, we form ourselves much more about what he said was the center and the root of our whole spiritual life.
 
 Pope Pius XII also encouraged people to say the prayers of the Mass.
 
-One day in the Sacristy, before going out to say Mass, already advanced
-in his Priesthood, St. Josemaria asked his future successor, Monsignor
-Javier Echevarría, who used to serve his Mass every day. He said, "Will
-you ask Our Lord that I might learn how to say Mass better each day."
+One day in the Sacristy, before going out to say Mass, already advanced in his Priesthood, St. Josemaria asked his future successor, Monsignor Javier Echevarría, who used to serve his Mass every day. He said, "Will you ask Our Lord that I might learn how to say Mass better each day."
 
-It shouldn't be possible for us to remain indifferent before the
-crucifixion and death of Our Lord. We have to try not to be like the
-Apostles who slept at Gethsemane. Or like the soldiers who, at the foot
-of the Cross, played dice, heedless of the death agony of Jesus.
+It shouldn't be possible for us to remain indifferent before the crucifixion and death of Our Lord. We have to try not to be like the Apostles who slept at Gethsemane. Or like the soldiers who, at the foot of the Cross, played dice, heedless of the death agony of Jesus.
 
-St. John Bosco was also saddened at the sight of many Christians who,
-when in Church, were "voluntarily distracted, showing neither modesty,
-nor attention, nor respect, gazing here and there." He said they don't
-assist at the Holy Mass like Our Lady and St. John, but rather are like
-those who are putting Jesus again on the Cross.
+St. John Bosco was also saddened at the sight of many Christians who, when in Church, were "voluntarily distracted, showing neither modesty, nor attention, nor respect, gazing here and there." He said they don't assist at the Holy Mass like Our Lady and St. John, but rather are like those who are putting Jesus again on the Cross.
 
-We could be mindful of the presence of Our Lady and St. Joseph at each
-Mass -- and see how to be united to them, to the Angels, we can be on
-the right road.
+We could be mindful of the presence of Our Lady and St. Joseph at each Mass -- and see how to be united to them, to the Angels, we can be on the right road.
 
-Our Lady and St. John, St. Mary Magdalen, and the other pious women were
-there at the foot of the Cross.
+Our Lady and St. John, St. Mary Magdalen, and the other pious women were there at the foot of the Cross.
 
-Pope John Paul II liked to say, "To go to Mass means to go to Calvary to
-meet Him, Our Redeemer. A meeting of love and sorrow\..."
+Pope John Paul II liked to say, "To go to Mass means to go to Calvary to meet Him, Our Redeemer. A meeting of love and sorrow\..."
 
-Another saint said, "One cannot separate the most Holy Eucharist from
-the Passion of Jesus."
+Another saint said, "One cannot separate the most Holy Eucharist from the Passion of Jesus."
 
-Somebody once asked St. Padre Pio: "How should we take part in the Holy
-Mass?" He said, "As Our Lady, St. John, and the pious women did on
-Calvary: with love and compassion.\"
+Somebody once asked St. Padre Pio: "How should we take part in the Holy Mass?" He said, "As Our Lady, St. John, and the pious women did on Calvary: with love and compassion.\"
 
-He wrote in a Missal of one of his spiritual children: "In assisting at
-Holy Mass, concentrate intently on the tremendous Mystery which is
-taking place before your eyes, which is the Redemption and
-reconciliation of your soul with God."
+He wrote in a Missal of one of his spiritual children: "In assisting at Holy Mass, concentrate intently on the tremendous Mystery which is taking place before your eyes, which is the Redemption and reconciliation of your soul with God."
 
-If you look at the great Cathedrals around the world: how well they have
-been built, how they have lasted, and every little detail of the
-architecture -- not just of the Altar but of the whole structure. That
-can give us a bit of an insight into how previous generations regarded
-the importance of the Mass.
+If you look at the great Cathedrals around the world: how well they have been built, how they have lasted, and every little detail of the architecture -- not just of the Altar but of the whole structure. That can give us a bit of an insight into how previous generations regarded the importance of the Mass.
 
-Padre Pio was asked, "... why do you weep so much during Mass?" He said,
-"What are those few tears compared to what takes place at the Altar?
-There should be torrents of tears!"
+Padre Pio was asked, "... why do you weep so much during Mass?" He said, "What are those few tears compared to what takes place at the Altar? There should be torrents of tears!"
 
 Many of the saints wept during their Masses, St. Josemaria included.
 
-Another time they asked St. Padre Pio: "Father, how much you must suffer
-by standing on the bleeding wounds of your feet for the entire time of
-Mass!" He said, "During Mass, I am not standing, I am hanging."
+Another time they asked St. Padre Pio: "Father, how much you must suffer by standing on the bleeding wounds of your feet for the entire time of Mass!" He said, "During Mass, I am not standing, I am hanging."
 
-These words vividly and strongly express what it is to be crucified with
-Christ. These words can help us to distinguish a true and full
-participation in the Mass from an academic, vain, or sometimes showy
-participation.
+These words vividly and strongly express what it is to be crucified with Christ. These words can help us to distinguish a true and full participation in the Mass from an academic, vain, or sometimes showy participation.
 
-True participation at the Mass makes us unite ourselves as victims, in
-the company of the Divine Victim.
+True participation at the Mass makes us unite ourselves as victims, in the company of the Divine Victim.
 
-St. Bernadette Soubirous in Lourdes once said to a new Priest, "Remember
-that the Priest at the Altar is always Jesus Christ on the Cross."
+St. Bernadette Soubirous in Lourdes once said to a new Priest, "Remember that the Priest at the Altar is always Jesus Christ on the Cross."
 
-All the Priestly vestments have reference to the Passion and Death of
-Jesus.
+All the Priestly vestments have reference to the Passion and Death of Jesus.
 
-The alb calls to mind the white tunic which Herod made Jesus wear to
-make a fool out of Him. The cincture recalls the scourging of Jesus. The
-stole reminds us of the rough cords which bound Him. The chasuble,
-bearing the figure of a Cross, symbolizes the Cross borne on the
-shoulders of Jesus.
+The alb calls to mind the white tunic which Herod made Jesus wear to make a fool out of Him. The cincture recalls the scourging of Jesus. The stole reminds us of the rough cords which bound Him. The chasuble, bearing the figure of a Cross, symbolizes the Cross borne on the shoulders of Jesus.
 
-St. Josemaria says in The Forge: "While you are at Mass, think that you
-are sharing in a divine Sacrifice. For that is how it is: on the altar,
-Christ is offering Himself again for you."
+St. Josemaria says in The Forge: "While you are at Mass, think that you are sharing in a divine Sacrifice. For that is how it is: on the altar, Christ is offering Himself again for you."
 
-In 541 of The Forge, he says: "In the Holy Sacrifice of the Altar, the
-Priest takes up the Body of our God, and the Chalice containing his
-Blood, and raises them above all the things of the earth, saying: ...
-through My Love, with My Love, in My Love!
+In 541 of The Forge, he says: "In the Holy Sacrifice of the Altar, the Priest takes up the Body of our God, and the Chalice containing his Blood, and raises them above all the things of the earth, saying: ... through My Love, with My Love, in My Love!
 
-Unite yourself to the action of the Priest. Or rather, make that act of
-the Priest a part of your life."
+Unite yourself to the action of the Priest. Or rather, make that act of the Priest a part of your life."
 
-In another point, 542, he says the Gospel tells us that Jesus hid when
-they wanted to make Him king after He had worked the miracle:
+In another point, 542, he says the Gospel tells us that Jesus hid when they wanted to make Him king after He had worked the miracle:
 
-"Lord, you make us share in the miracle of the Eucharist. We beg you not
-to hide away. Live with us. May we see you; may we touch you, may we
-feel you. May we want to be beside you all the time and have you as the
-King of our lives and of our work."
+"Lord, you make us share in the miracle of the Eucharist. We beg you not to hide away. Live with us. May we see you; may we touch you, may we feel you. May we want to be beside you all the time and have you as the King of our lives and of our work."
 
 Only in Heaven will we understand what a divine marvel the Holy Mass is.
 
-No matter how much effort we apply, no matter how holy and inspired we
-are, we can only stammer if we tried to explain this Divine Work, which
-surpasses angels and men.
+No matter how much effort we apply, no matter how holy and inspired we are, we can only stammer if we tried to explain this Divine Work, which surpasses angels and men.
 
-One seminarian in Rome told a story of how Cardinal Ratzinger was going
-to ordain his secretary in St. Peter's to become a Bishop.
+One seminarian in Rome told a story of how Cardinal Ratzinger was going to ordain his secretary in St. Peter's to become a Bishop.
 
-When he arrived half an hour before the Ceremony, he vested. And stood
-in silence in the Sacristy, absorbed in prayer before going out to
-celebrate the Mass of that ordination.
+When he arrived half an hour before the Ceremony, he vested. And stood in silence in the Sacristy, absorbed in prayer before going out to celebrate the Mass of that ordination.
 
-The seminarian remarked: "That's the way I would like to prepare for
-Mass after my ordination."
+The seminarian remarked: "That's the way I would like to prepare for Mass after my ordination."
 
 Somebody asked Padre Pio: "Please explain the Holy Mass to us."
 
-He said: "My children, how can I explain it to you? The Mass is
-infinite, like Jesus. Ask an Angel what a Mass is, and he will reply to
-you in truth, 'I understand that Mass is offered and why it is offered,
-but its value and its worth are beyond my comprehension'. One Angel, a
-thousand angels, all of Heaven knows this and thinks like this."
+He said: "My children, how can I explain it to you? The Mass is infinite, like Jesus. Ask an Angel what a Mass is, and he will reply to you in truth, 'I understand that Mass is offered and why it is offered, but its value and its worth are beyond my comprehension'. One Angel, a thousand angels, all of Heaven knows this and thinks like this."
 
-St. Alphonsus said: "God Himself cannot bring about an action holier and
-greater than the celebration of a Holy Mass."
+St. Alphonsus said: "God Himself cannot bring about an action holier and greater than the celebration of a Holy Mass."
 
-Why? Because the Mass can be said to be a synthesis summing up the
-Incarnation and Redemption. It contains the Birth, Passion, and Death of
-Jesus -- mysteries that God accomplished for our sake.
+Why? Because the Mass can be said to be a synthesis summing up the Incarnation and Redemption. It contains the Birth, Passion, and Death of Jesus -- mysteries that God accomplished for our sake.
 
-The Second Vatican Council teaches that "at the Last Supper, the night
-in which He was betrayed, Jesus initiated the Eucharistic Sacrifice of
-His Body and Blood, in order to continue the Sacrifice of the Cross
-throughout the centuries until His return."
+The Second Vatican Council teaches that "at the Last Supper, the night in which He was betrayed, Jesus initiated the Eucharistic Sacrifice of His Body and Blood, in order to continue the Sacrifice of the Cross throughout the centuries until His return."
 
-Pope Pius XII said: "The Altar on Golgotha is not different from the
-Altar of our Churches. Even this is a mountain on which stands a Cross
-and the One crucified, where the reconciliation between God and man
-takes place."
+Pope Pius XII said: "The Altar on Golgotha is not different from the Altar of our Churches. Even this is a mountain on which stands a Cross and the One crucified, where the reconciliation between God and man takes place."
 
-St. Francis of Assisi said: "Man should tremble, the world should quake,
-all Heaven should be deeply moved when the Son of God appears on the
-Altar in the hands of the Priest. Indeed, since it renews the Sacrifice
-of Jesus' Passion and Death, ... and is great enough to restrain divine
-justice."
+St. Francis of Assisi said: "Man should tremble, the world should quake, all Heaven should be deeply moved when the Son of God appears on the Altar in the hands of the Priest. Indeed, since it renews the Sacrifice of Jesus' Passion and Death, ... and is great enough to restrain divine justice."
 
-St. Albert the Great said: "All the wrath and indignation of God yield
-before this Offering."
+St. Albert the Great said: "All the wrath and indignation of God yield before this Offering."
 
-St. Padre Pio said: "It would be easier for the world to survive without
-the sun than to do so without the Holy Mass."
+St. Padre Pio said: "It would be easier for the world to survive without the sun than to do so without the Holy Mass."
 
-St. Teresa of Avila said: "Without the Holy Mass what would become of
-us? All here below would perish, because that alone can hold back God's
-arm."
+St. Teresa of Avila said: "Without the Holy Mass what would become of us? All here below would perish, because that alone can hold back God's arm."
 
-Without it, the Church would not last and the world would become
-hopelessly lost.
+Without it, the Church would not last and the world would become hopelessly lost.
 
-Is it any wonder then that, down through history, Priests and laity have
-given heroic witness to be present at the Mass? Especially in times of
-persecution in so many countries.
+Is it any wonder then that, down through history, Priests and laity have given heroic witness to be present at the Mass? Especially in times of persecution in so many countries.
 
-In countries of Europe, before, in England and Ireland -- but nowadays
-in Communist countries. The history of Communist Eastern Europe is
-beginning to come out, and all sorts of heroic details are there.
+In countries of Europe, before, in England and Ireland -- but nowadays in Communist countries. The history of Communist Eastern Europe is beginning to come out, and all sorts of heroic details are there.
 
-One saint said: "I believe that if there were no Mass, the world would
-by now have sunken into the abyss under the weight of its wickedness."
+One saint said: "I believe that if there were no Mass, the world would by now have sunken into the abyss under the weight of its wickedness."
 
-The effects of the Mass are wonderful: the effects it produces in the
-souls of those who participate.
+The effects of the Mass are wonderful: the effects it produces in the souls of those who participate.
 
-It obtains sorrow and pardons for sins. It lessens the temporal
-punishment due to sins. It weakens the influence of the devil and the
-untamed impulses of our flesh. It strengthens the bonds of our union in
-the Body of Christ. It protects us from all sorts of dangers. It can
-shorten the punishment of Purgatory. It obtains for us a higher degree
-of glory.
+It obtains sorrow and pardons for sins. It lessens the temporal punishment due to sins. It weakens the influence of the devil and the untamed impulses of our flesh. It strengthens the bonds of our union in the Body of Christ. It protects us from all sorts of dangers. It can shorten the punishment of Purgatory. It obtains for us a higher degree of glory.
 
-"No human tongue," said one saint, "can enumerate the favors that trace
-back to the Sacrifice of the Mass. The sinner is reconciled with God.
-The just man becomes more upright. Sins are wiped away; vices uprooted;
-virtue and merit increases; the devil's schemes are frustrated."
+"No human tongue," said one saint, "can enumerate the favors that trace back to the Sacrifice of the Mass. The sinner is reconciled with God. The just man becomes more upright. Sins are wiped away; vices uprooted; virtue and merit increases; the devil's schemes are frustrated."
 
-One saint, exhorting the crowds around him, said: "You deluded people,
-what are you doing? Why do you not hasten to the Church to hear Mass?
-Why do you not imitate the angels, who, when a Holy Mass is celebrated,
-come down in myriads from Paradise and take their stations about our
-Altars in adoration to intercede for us?"
+One saint, exhorting the crowds around him, said: "You deluded people, what are you doing? Why do you not hasten to the Church to hear Mass? Why do you not imitate the angels, who, when a Holy Mass is celebrated, come down in myriads from Paradise and take their stations about our Altars in adoration to intercede for us?"
 
 St. Josemaria liked to talk about making our whole day a Mass.
 
-A man told me once he had come out from a board meeting that had lasted
-all day, from 9:00 to 5:00. He was put on the spot all the time. He felt
-totally exhausted. Hardly walking.
+A man told me once he had come out from a board meeting that had lasted all day, from 9:00 to 5:00. He was put on the spot all the time. He felt totally exhausted. Hardly walking.
 
-He was mindful of the idea that we have to try to make each day a Mass.
-As he made for home that day, he felt that "Well, I think, today might
-have been a Mass."
+He was mindful of the idea that we have to try to make each day a Mass. As he made for home that day, he felt that "Well, I think, today might have been a Mass."
 
-We can ask Our Lady, always present at the Altar at Mass, that she might
-lead us to a deeper appreciation of the Holy Sacrifice of the Altar.
+We can ask Our Lady, always present at the Altar at Mass, that she might lead us to a deeper appreciation of the Holy Sacrifice of the Altar.
 
-I thank you, my God, for the good resolutions, affections, and
-inspirations that You have communicated to me during this meditation. I
-ask Your help to put them into practice. My Immaculate Mother, St.
-Joseph, my father, and lord, my Guardian Angel, intercede for me.
+I thank you, my God, for the good resolutions, affections, and inspirations that You have communicated to me during this meditation. I ask Your help to put them into practice. My Immaculate Mother, St. Joseph, my father, and lord, my Guardian Angel, intercede for me.
 
 In the name of the Father, and of the Son, and the Holy Spirit. Amen.
 

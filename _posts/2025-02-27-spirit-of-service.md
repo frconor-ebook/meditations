@@ -7,469 +7,224 @@ By Fr. Conor Donnelly
 
 (*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*My Lord and my God, I firmly believe that you are here, that you see
-me, that you hear me. I adore you with profound reverence. I ask your
-pardon for my sins and grace to make this time of prayer fruitful. My
-Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
-intercede for me.*
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"Which of you, with a servant ploughing or minding sheep, would say to
-him when he returned from the fields, 'Come and have your meal at once'?
-Would he not be more likely to say, 'Get my supper ready; fasten your
-belt and wait on me while I eat and drink. You yourself can eat and
-drink afterwards'? Must he be grateful to the servant for doing what he
-was told? So with you, when you have done all you have been told to do,
-say, 'We are useless servants; we have done no more than our duty'"
-(Luke 17:7-10).
+"Which of you, with a servant ploughing or minding sheep, would say to him when he returned from the fields, 'Come and have your meal at once'? Would he not be more likely to say, 'Get my supper ready; fasten your belt and wait on me while I eat and drink. You yourself can eat and drink afterwards'? Must he be grateful to the servant for doing what he was told? So with you, when you have done all you have been told to do, say, 'We are useless servants; we have done no more than our duty'" (Luke 17:7-10).
 
-Our Lord, in this situation, takes a situation from ordinary life to
-teach us a divine truth. He asks the question: Will any of you, who has
-this servant ploughing or keeping sheep, do as the Gospel describes?
+Our Lord, in this situation, takes a situation from ordinary life to teach us a divine truth. He asks the question: Will any of you, who has this servant ploughing or keeping sheep, do as the Gospel describes?
 
-Given the social conditions of that age, the servant would hardly expect
-praise for carrying out orders. Our Lord applies this reality to the
-supernatural life: "You also, when you have done all that is commanded,
-say, 'We are unworthy servants; we have only done what was our duty.'"
+Given the social conditions of that age, the servant would hardly expect praise for carrying out orders. Our Lord applies this reality to the supernatural life: "You also, when you have done all that is commanded, say, 'We are unworthy servants; we have only done what was our duty.'"
 
-It would be a mistake to think that Our Lord approves of the arbitrary
-manner of the master in this illustration.
+It would be a mistake to think that Our Lord approves of the arbitrary manner of the master in this illustration.
 
-Yet Our Lord has no hesitation in using a fairly commonplace
-circumstance to communicate the more effectively with His audience about
-the relationship between the creature and the Creator. From the very
-beginning to the very end of our days, everything has come to us as a
-gift of Our Father God.
+Yet Our Lord has no hesitation in using a fairly commonplace circumstance to communicate the more effectively with His audience about the relationship between the creature and the Creator. From the very beginning to the very end of our days, everything has come to us as a gift of Our Father God.
 
-St. Ambrose says: "You cannot think yourself greater than you are simply
-because you are a child of God. You ought to recognize the effect of
-grace, yes, but you cannot forget the lowliness of your nature. Nor
-would I have you become vain simply because you fulfill your duty.
-Remember that in like manner, the sun and the moon and the angels do
-exactly what they are supposed to do" (St. Ambrose, *Commentary on St.
-Luke's Gospel*).
+St. Ambrose says: "You cannot think yourself greater than you are simply because you are a child of God. You ought to recognize the effect of grace, yes, but you cannot forget the lowliness of your nature. Nor would I have you become vain simply because you fulfill your duty. Remember that in like manner, the sun and the moon and the angels do exactly what they are supposed to do" (St. Ambrose, *Commentary on St. Luke's Gospel*).
 
-We can try to see our service to God in the same light. We shouldn\'t
-forget that it\'s because of God\'s generosity that we have been
-elevated to the dignity of children of God.
+We can try to see our service to God in the same light. We shouldn\'t forget that it\'s because of God\'s generosity that we have been elevated to the dignity of children of God.
 
-We have not earned such a status or such a title---in no way. It would
-be more appropriate for us to consider ourselves "unprofitable
-servants," "useless servants." We are absolutely incapable of doing
-God\'s Will without the assistance of His grace.
+We have not earned such a status or such a title---in no way. It would be more appropriate for us to consider ourselves "unprofitable servants," "useless servants." We are absolutely incapable of doing God\'s Will without the assistance of His grace.
 
-Divine grace is what enables us to work for Christ. Our natural powers
-are wholly inadequate to the challenges of the supernatural struggle. We
-are told in *The Way*: We are merely "the brush in the hand of the
-artist" (Josemaría Escrivá, *The Way*, Point 612).
+Divine grace is what enables us to work for Christ. Our natural powers are wholly inadequate to the challenges of the supernatural struggle. We are told in *The Way*: We are merely "the brush in the hand of the artist" (Josemaría Escrivá, *The Way*, Point 612).
 
-St. Josemaría liked to use that analogy. He said when an artist paints a
-wonderful painting, he uses a paintbrush to paint the painting. And he
-said after he\'s finished, he throws the paintbrush away.
+St. Josemaría liked to use that analogy. He said when an artist paints a wonderful painting, he uses a paintbrush to paint the painting. And he said after he\'s finished, he throws the paintbrush away.
 
-And he said, "In relation to Opus Dei, I\'m just the paintbrush, the
-instrument that God has used to paint this wonderful reality. And I hope
-you won\'t throw me away."
+And he said, "In relation to Opus Dei, I\'m just the paintbrush, the instrument that God has used to paint this wonderful reality. And I hope you won\'t throw me away."
 
-God\'s masterpieces are always the product of the divine Artist. No
-praise is given to the artist\'s tools---and with good reason. It\'s our
-good fortune to know that we are contributing in some small way to
-God\'s salvific plans.
+God\'s masterpieces are always the product of the divine Artist. No praise is given to the artist\'s tools---and with good reason. It\'s our good fortune to know that we are contributing in some small way to God\'s salvific plans.
 
-It would be a bit ridiculous if we were to pretend to claim credit for
-what God has done. Throughout our lives and throughout each day, we have
-to try and give all the glory to God.
+It would be a bit ridiculous if we were to pretend to claim credit for what God has done. Throughout our lives and throughout each day, we have to try and give all the glory to God.
 
-If we\'re humble, we will "walk in the truth" (2 John 1:4). We\'ll keep
-in mind our condition of being "unprofitable servants." As a
-consequence, we\'ll ask God to give us more grace.
+If we\'re humble, we will "walk in the truth" (2 John 1:4). We\'ll keep in mind our condition of being "unprofitable servants." As a consequence, we\'ll ask God to give us more grace.
 
-That\'s why we approach the sacraments frequently. The Church and all
-saints have always recommended that. For humble people who know they are
-nothing, they know they need more grace.
+That\'s why we approach the sacraments frequently. The Church and all saints have always recommended that. For humble people who know they are nothing, they know they need more grace.
 
-Another practical effect of this teaching is that whenever we\'re
-praised, we will quietly give Jesus all the glory.
+Another practical effect of this teaching is that whenever we\'re praised, we will quietly give Jesus all the glory.
 
-Whatever good we do or receive has to be attributed, first and foremost,
-to God. Pope Leo XIII said the Lord is able "to use a stick to bring
-forth water from a rock (*cf*. Ex. 17:6). He has the power to make a
-little bit of mud to bring sight to the blind (John 9:6-7)" (Leo XIII,
-*Guidebook for Humility*).
+Whatever good we do or receive has to be attributed, first and foremost, to God. Pope Leo XIII said the Lord is able "to use a stick to bring forth water from a rock (*cf*. Ex. 17:6). He has the power to make a little bit of mud to bring sight to the blind (John 9:6-7)" (Leo XIII, *Guidebook for Humility*).
 
-Do we serve as the Lord\'s mud, as His rod to bring forth water in the
-middle of the desert? Christ is the true author of all these marvels.
-What would the mud or the stick accomplish by itself?
+Do we serve as the Lord\'s mud, as His rod to bring forth water in the middle of the desert? Christ is the true author of all these marvels. What would the mud or the stick accomplish by itself?
 
 That\'s one of the reasons why we can lead a lifetime of thanksgiving.
 
-Thank you, Lord, for the talents, the abilities, the health, the
-weaknesses, the failures that you give me that allow me to serve in the
-way that I serve.
+Thank you, Lord, for the talents, the abilities, the health, the weaknesses, the failures that you give me that allow me to serve in the way that I serve.
 
-Thank you for the place that you\'ve placed me in this family, in this
-marriage, in this job, with these duties, with these responsibilities,
-with these challenges or difficulties, or worries or anxieties, with
-these health limitations.
+Thank you for the place that you\'ve placed me in this family, in this marriage, in this job, with these duties, with these responsibilities, with these challenges or difficulties, or worries or anxieties, with these health limitations.
 
-This is where and how you want me to give you glory. That\'s why
-wherever we are, whatever we\'re doing, we can be peaceful and happy,
-because this is where Our Lord wants me to serve.
+This is where and how you want me to give you glory. That\'s why wherever we are, whatever we\'re doing, we can be peaceful and happy, because this is where Our Lord wants me to serve.
 
-That\'s a very good question then to ask ourselves: What can I
-contribute? How can I serve in this home, on this day, at this meal, at
-this get-together, at this meeting, in this conversation with my friend,
-in this family situation? How can I serve to uplift the people around
-me?
+That\'s a very good question then to ask ourselves: What can I contribute? How can I serve in this home, on this day, at this meal, at this get-together, at this meeting, in this conversation with my friend, in this family situation? How can I serve to uplift the people around me?
 
-In the parable of the vine and the branches (John 15:1-8), Our Lord
-emphasizes the paramount importance of divine grace---of how He will
-never withhold His assistance. "Christ, sent by the Father, is the
-source of the Church\'s whole apostolate" (Vatican II, *Apostolicam
-actuositatem*, Point 4).
+In the parable of the vine and the branches (John 15:1-8), Our Lord emphasizes the paramount importance of divine grace---of how He will never withhold His assistance. "Christ, sent by the Father, is the source of the Church\'s whole apostolate" (Vatican II, *Apostolicam actuositatem*, Point 4).
 
-That\'s why we have to be very united to Our Lord in the Blessed
-Sacrament, and on the Cross, and in Bethlehem.
+That\'s why we have to be very united to Our Lord in the Blessed Sacrament, and on the Cross, and in Bethlehem.
 
-The Second Vatican Council continues, "The fruitfulness of the
-apostolate of lay people depends on their living union with
-Christ"---united to the vine---"in keeping with the Lord's words, 'He
-who abides in me, and I in him, he it is that bears much fruit, for
-apart from me you can do nothing' (John 15:5)" (*ibid*).
+The Second Vatican Council continues, "The fruitfulness of the apostolate of lay people depends on their living union with Christ"---united to the vine---"in keeping with the Lord's words, 'He who abides in me, and I in him, he it is that bears much fruit, for apart from me you can do nothing' (John 15:5)" (*ibid*).
 
-St. Thérèse of Lisieux was named one of the patronesses of the missions,
-and yet she never left her convent. But from her unity to the vine, she
-was pushing the apostolic and missionary goals of the Church all over
-the world.
+St. Thérèse of Lisieux was named one of the patronesses of the missions, and yet she never left her convent. But from her unity to the vine, she was pushing the apostolic and missionary goals of the Church all over the world.
 
-It\'s a message to us that wherever we are, whatever we\'re doing, we
-can be enormously useful and effective. We may be "useless servants,"
-but God makes us useful.
+It\'s a message to us that wherever we are, whatever we\'re doing, we can be enormously useful and effective. We may be "useless servants," but God makes us useful.
 
-St. Paul says, "God is at work in you, both to will and to work for his
-good pleasure" (Phil. 2:13). God\'s grace is indispensable if we are "to
-will and to work" meritorious deeds.
+St. Paul says, "God is at work in you, both to will and to work for his good pleasure" (Phil. 2:13). God\'s grace is indispensable if we are "to will and to work" meritorious deeds.
 
-It\'s also good for us to remember that grace builds on nature. it
-doesn\'t replace our nature. The supernatural builds on the natural;
-hence the importance of cultivating the natural virtues: order,
-punctuality, professional competence, cleanliness, hygiene,
-industriousness, fortitude.
+It\'s also good for us to remember that grace builds on nature. it doesn\'t replace our nature. The supernatural builds on the natural; hence the importance of cultivating the natural virtues: order, punctuality, professional competence, cleanliness, hygiene, industriousness, fortitude.
 
-The more we work at those natural virtues, the more we become a better
-instrument that God can use in a more effective way, and the more we can
-build on that foundation with the supernatural grace that we receive.
+The more we work at those natural virtues, the more we become a better instrument that God can use in a more effective way, and the more we can build on that foundation with the supernatural grace that we receive.
 
-St. Augustine has likened our need for divine assistance to our need for
-light by which to see (St. Augustine, *On Nature and Grace*). It is the
-eye that sees. The light allows the eye to fulfill its nature.
+St. Augustine has likened our need for divine assistance to our need for light by which to see (St. Augustine, *On Nature and Grace*). It is the eye that sees. The light allows the eye to fulfill its nature.
 
-Similarly, divine grace allows us "to will and to work" but it never
-overrides our freedom. God respects our freedom.
+Similarly, divine grace allows us "to will and to work" but it never overrides our freedom. God respects our freedom.
 
-Therefore, we can ask Our Lord to increase our desire to serve or to be
-a more useful instrument.
+Therefore, we can ask Our Lord to increase our desire to serve or to be a more useful instrument.
 
-Help me to want to serve a little more, a little better. Improve the
-quality of my service, so that we put our freedom, our free will behind
-that great goal that God places in front of us.
+Help me to want to serve a little more, a little better. Improve the quality of my service, so that we put our freedom, our free will behind that great goal that God places in front of us.
 
-The awesome reality of our dependence on God should inspire us to a
-constant prayer of thanksgiving.
+The awesome reality of our dependence on God should inspire us to a constant prayer of thanksgiving.
 
-Blessed Álvaro del Portillo used to say he wanted to lead a lifetime of
-thanksgiving because we have so many things to be grateful for and Our
-Lord is always ready to send us the necessary graces.
+Blessed Álvaro del Portillo used to say he wanted to lead a lifetime of thanksgiving because we have so many things to be grateful for and Our Lord is always ready to send us the necessary graces.
 
-Through the liturgy, the Church continually asks us to pray for that
-divine help.
+Through the liturgy, the Church continually asks us to pray for that divine help.
 
-St. Francis de Sales said: "A tender mother leads her little child
-along, helps him, and holds him up as long as she sees the need for it,
-and lets him take a few steps by himself in places that are very level
-and not too difficult.
+St. Francis de Sales said: "A tender mother leads her little child along, helps him, and holds him up as long as she sees the need for it, and lets him take a few steps by himself in places that are very level and not too difficult.
 
-"Now she takes him by the hand and holds him steady; now she takes him
-up in her arms and carries him. It\'s in this way too that Our Lord
-himself takes constant care to lead his children forward, that is, those
-who possess charity" (Francis de Sales, *Treatise on the Love of God)*.
+"Now she takes him by the hand and holds him steady; now she takes him up in her arms and carries him. It\'s in this way too that Our Lord himself takes constant care to lead his children forward, that is, those who possess charity" (Francis de Sales, *Treatise on the Love of God)*.
 
-That divine solicitude should never be a motive on our part for
-passivity. On the contrary, we should find God\'s grace a steadfast
-source of strength in our ascetical struggle and apostolate.
+That divine solicitude should never be a motive on our part for passivity. On the contrary, we should find God\'s grace a steadfast source of strength in our ascetical struggle and apostolate.
 
-We have to pray as if everything depended on God. But we have to work as
-if everything depended on us, so that we see that 'I\'ve got to use all
-the human means.' This is the royal road to sanctity.
+We have to pray as if everything depended on God. But we have to work as if everything depended on us, so that we see that 'I\'ve got to use all the human means.' This is the royal road to sanctity.
 
-We are co-workers with God. St. Paul makes use of an image from the farm
-to teach about our participation in apostolic work. He said, "I planted,
-Apollos watered, but God gave the growth. Neither he who plants nor he
-who waters is anything, but only God, who gives the growth\...for we are
-God\'s fellow workers" (1 Cor. 3:6-9).
+We are co-workers with God. St. Paul makes use of an image from the farm to teach about our participation in apostolic work. He said, "I planted, Apollos watered, but God gave the growth. Neither he who plants nor he who waters is anything, but only God, who gives the growth\...for we are God\'s fellow workers" (1 Cor. 3:6-9).
 
-It\'s a wonderful thing to know that we are collaborators with God in
-His work of redemption; that in some mysterious way, Our Lord has need
-for us. He doesn\'t really need us, but He has wanted to need us, wanted
-to use us.
+It\'s a wonderful thing to know that we are collaborators with God in His work of redemption; that in some mysterious way, Our Lord has need for us. He doesn\'t really need us, but He has wanted to need us, wanted to use us.
 
-You have to always remember that it is God who plants the seed of faith
-and helps it to grow and bear fruit.
+You have to always remember that it is God who plants the seed of faith and helps it to grow and bear fruit.
 
-In an encyclical about the priesthood, Pope St. Pius X said, "It may be
-that weeping as they go by, the priests scatter the seed; it may be that
-with anxious care they nourish it; but to make it sprout and bring forth
-the cherished fruit, this is the work of God alone and His powerful
-assistance.
+In an encyclical about the priesthood, Pope St. Pius X said, "It may be that weeping as they go by, the priests scatter the seed; it may be that with anxious care they nourish it; but to make it sprout and bring forth the cherished fruit, this is the work of God alone and His powerful assistance.
 
-"This, also, is to be well considered, that men are nothing more than
-mere instruments which God uses for the saving of souls, and that these
-instruments must therefore be fit to be handled by God" (Pius X,
-Encyclical, *Haerent Animo*, Part II, August 4, 1908).
+"This, also, is to be well considered, that men are nothing more than mere instruments which God uses for the saving of souls, and that these instruments must therefore be fit to be handled by God" (Pius X, Encyclical, *Haerent Animo*, Part II, August 4, 1908).
 
-Man is capable of doing great things when he allows himself "to be
-handled by God."
+Man is capable of doing great things when he allows himself "to be handled by God."
 
-There was a story of a farmer who had a bucket that had a bit of a hole
-in it. He would go down to the local well every day to bring water to
-the house.
+There was a story of a farmer who had a bucket that had a bit of a hole in it. He would go down to the local well every day to bring water to the house.
 
-He had one bucket that had a hole in it, and on the other hand, he had
-another bucket that was perfect.
+He had one bucket that had a hole in it, and on the other hand, he had another bucket that was perfect.
 
-The bucket that was perfect always arrived back to the house full of
-water that he could use for cooking, et cetera in the house.
+The bucket that was perfect always arrived back to the house full of water that he could use for cooking, et cetera in the house.
 
-But the other bucket that had a hole in it would be leaking all the way
-back. It only came back to the house with half the water that it should
-have had.
+But the other bucket that had a hole in it would be leaking all the way back. It only came back to the house with half the water that it should have had.
 
-The bucket that had this big defect one day apologized and said, 'I\'m
-sorry, I wish I was better. I seem to be wasting your efforts. This
-weakness of mine, this fault that I have, seems to make me not such a
-useful instrument.'
+The bucket that had this big defect one day apologized and said, 'I\'m sorry, I wish I was better. I seem to be wasting your efforts. This weakness of mine, this fault that I have, seems to make me not such a useful instrument.'
 
-But the farmer said, 'You see, I\'m aware of your failings. I\'m aware
-of the hole. I planted seeds along the pathway all the way back from the
-well. Every time that we come back from the well, with the hole in your
-bucket, you\'ve been watering those seeds. Now they\'ve grown to
-beautiful flowers that I can pluck and use to decorate the table.'
+But the farmer said, 'You see, I\'m aware of your failings. I\'m aware of the hole. I planted seeds along the pathway all the way back from the well. Every time that we come back from the well, with the hole in your bucket, you\'ve been watering those seeds. Now they\'ve grown to beautiful flowers that I can pluck and use to decorate the table.'
 
-In every way, God uses our faults and our defects in order to produce
-the fruit that He wants. Everything is taken into account.
+In every way, God uses our faults and our defects in order to produce the fruit that He wants. Everything is taken into account.
 
-We become better instruments when we protect our union with Christ
-through prayer.
+We become better instruments when we protect our union with Christ through prayer.
 
-When the artist is painting with his brush, he wants it to transmit the
-colors and the tones that he desires.
+When the artist is painting with his brush, he wants it to transmit the colors and the tones that he desires.
 
-The brush has to subordinate its own qualities and characteristics to
-the plan and intention of the painter---now this particular color, now
-this particular stroke, now this particular effect.
+The brush has to subordinate its own qualities and characteristics to the plan and intention of the painter---now this particular color, now this particular stroke, now this particular effect.
 
-It is the painter who composes the painting. He creates the effects of
-lights and shadows. He employs the vividness and subdued tone. He
-imparts the harmony, meaning, and profundity
+It is the painter who composes the painting. He creates the effects of lights and shadows. He employs the vividness and subdued tone. He imparts the harmony, meaning, and profundity
 
-You could also think of how the brush has to be very firmly united to
-the hand of the artist. It is like an extension of his arm.
+You could also think of how the brush has to be very firmly united to the hand of the artist. It is like an extension of his arm.
 
-There is a great unity and connection there. If there isn\'t such a
-union, then the intention of the artist could be jeopardized.
+There is a great unity and connection there. If there isn\'t such a union, then the intention of the artist could be jeopardized.
 
-We could tell Our Lord that we want to be, in His hands, a good
-instrument, a docile instrument. Yet we may know that on many occasions
-that\'s not the case.
+We could tell Our Lord that we want to be, in His hands, a good instrument, a docile instrument. Yet we may know that on many occasions that\'s not the case.
 
-Let us tell Jesus in the intimacy of our prayer as in *The* *Forge,*
-where St. Josemaría says, "I think of my wretchedness, which seems to be
-on the increase in spite of the graces you give me. It must be due to my
-failure to correspond. I know that I am completely unprepared for the
-enterprise you are asking of me. And when I read in the newspapers of so
-many highly qualified and respected people, with formidable talents and
-no lack of financial resources, speaking, writing, and organizing in
-defense of your kingdom\...
+Let us tell Jesus in the intimacy of our prayer as in *The* *Forge,* where St. Josemaría says, "I think of my wretchedness, which seems to be on the increase in spite of the graces you give me. It must be due to my failure to correspond. I know that I am completely unprepared for the enterprise you are asking of me. And when I read in the newspapers of so many highly qualified and respected people, with formidable talents and no lack of financial resources, speaking, writing, and organizing in defense of your kingdom\...
 
-"I look at myself, and see that I'm a nobody: ignorant, poor: so little,
-in a word. In a way, this should fill me with shame if I did not know
-that you want me to be so.
+"I look at myself, and see that I'm a nobody: ignorant, poor: so little, in a word. In a way, this should fill me with shame if I did not know that you want me to be so.
 
-"But Lord Jesus, you know how gladly I have put my ambition at your
-feet\...to have faith and love, to be loving, believing, suffering. In
-these things, I do want to be rich and learned: but no more rich and
-learned than you, in your limitless Mercy, have wanted me to be. I
-desire to put all my prestige and honor into fulfilling your most just
-and lovable Will" (J. Escrivá, *The Forge*, Point 822).
+"But Lord Jesus, you know how gladly I have put my ambition at your feet\...to have faith and love, to be loving, believing, suffering. In these things, I do want to be rich and learned: but no more rich and learned than you, in your limitless Mercy, have wanted me to be. I desire to put all my prestige and honor into fulfilling your most just and lovable Will" (J. Escrivá, *The Forge*, Point 822).
 
 All through His life, Our Lord emphasized the importance of service.
 
 "I am among you like one who serves" (Luke 22:27).
 
-"As I have done to you," He said after washing the feet, "so do you to
-others" (John 13:15).
+"As I have done to you," He said after washing the feet, "so do you to others" (John 13:15).
 
 "I have not come to be served but to serve" (Matt. 20:28).
 
 "The greatest must be the servant of all" (Matt. 23:11).
 
-Little children love to serve. Any chance you can get to teach or help
-some little child to serve, to help them to feel useful, teach them
-skills---that\'s a very good thing to do.
+Little children love to serve. Any chance you can get to teach or help some little child to serve, to help them to feel useful, teach them skills---that\'s a very good thing to do.
 
 We\'ve been called to be "like little children" (Matt. 18:25).
 
-"Make your mind," says St. Paul, "the mind of Christ Jesus, who being in
-the form of God, did not count equality with God as something to be
-grasped, but emptied himself by taking the form of a slave, becoming as
-human beings are, in every way like a human being. He humbled himself,
-even to accepting death, death on a cross" (Phil. 2:5-8).
+"Make your mind," says St. Paul, "the mind of Christ Jesus, who being in the form of God, did not count equality with God as something to be grasped, but emptied himself by taking the form of a slave, becoming as human beings are, in every way like a human being. He humbled himself, even to accepting death, death on a cross" (Phil. 2:5-8).
 
 To live in Christ to die to ourselves (*cf*. Phil. 1:21).
 
-One day St. Josemaría was passing through the Catering department, going
-somewhere, and he noticed that some of the assistant numeraries who were
-there were having their lunch.
+One day St. Josemaría was passing through the Catering department, going somewhere, and he noticed that some of the assistant numeraries who were there were having their lunch.
 
-He took a plate and he went to the particular assistant numerary who was
-to serve at his table, and he brought her the plate and said, "Today my
-daughter I serve you." He went forward, seized the opportunity to serve
-in that concrete situation.
+He took a plate and he went to the particular assistant numerary who was to serve at his table, and he brought her the plate and said, "Today my daughter I serve you." He went forward, seized the opportunity to serve in that concrete situation.
 
-Christ showed the depth of His love through service. "Love means deeds,
-not sweet words" (J. Escrivá, *The Way*, Point 933).
+Christ showed the depth of His love through service. "Love means deeds, not sweet words" (J. Escrivá, *The Way*, Point 933).
 
-We have to try and think: What have I done for the Church? How have I
-served the Church?
+We have to try and think: What have I done for the Church? How have I served the Church?
 
-If I think carefully, what has the Church, all the things the Church has
-done for me, for my soul, over decades---education, formation---how can
-I use the time left in my life to serve the Church better?
+If I think carefully, what has the Church, all the things the Church has done for me, for my soul, over decades---education, formation---how can I use the time left in my life to serve the Church better?
 
-We make of our life a constant service to others with the service of our
-prayer, with our service of being on the Cross, with our concern of a
-good shepherd, by showing affection for people we live with through
-service, always having time for other people, sometimes stopping what
-we\'re doing to listen, to be present.
+We make of our life a constant service to others with the service of our prayer, with our service of being on the Cross, with our concern of a good shepherd, by showing affection for people we live with through service, always having time for other people, sometimes stopping what we\'re doing to listen, to be present.
 
-The witness of presence can be an important service---the service of a
-smile, a kind word, or a kind gesture, or an encouraging word, or the
-word or gesture that only people who love know are important.
+The witness of presence can be an important service---the service of a smile, a kind word, or a kind gesture, or an encouraging word, or the word or gesture that only people who love know are important.
 
-The recipient realizes that this is an authentic detail of authentic
-love. We\'re to serve better, more frequently, and we need to have a
-habitual disposition to forget ourselves.
+The recipient realizes that this is an authentic detail of authentic love. We\'re to serve better, more frequently, and we need to have a habitual disposition to forget ourselves.
 
-Joseph and Mary in Nazareth, on the way to Bethlehem, in Bethlehem, in
-Egypt---they\'re a continual example of forgetfulness of self.
+Joseph and Mary in Nazareth, on the way to Bethlehem, in Bethlehem, in Egypt---they\'re a continual example of forgetfulness of self.
 
-We\'re told in *The Forge*, "When a person really lives charity,
-there\'s no time left for self-seeking. There\'s no room left for pride.
-We will not find occasion for anything but service!" (J. Escrivá, *The
-Forge*, Point 683).
+We\'re told in *The Forge*, "When a person really lives charity, there\'s no time left for self-seeking. There\'s no room left for pride. We will not find occasion for anything but service!" (J. Escrivá, *The Forge*, Point 683).
 
-He says, "There is no greater self-mastery than to make oneself a
-servant, the willing servant of all souls!" (J. Escrivá, *The Forge*,
-Point 1045).
+He says, "There is no greater self-mastery than to make oneself a servant, the willing servant of all souls!" (J. Escrivá, *The Forge*, Point 1045).
 
-In *The* *Way* *of* *the* *Cross*, we\'re told: "In the whole context of
-the Passion, this help did not add up to very much. But for Jesus, a
-smile, a word, a gesture, a little bit of love is enough for him to pour
-out his grace bountifully on the soul of his friend.
+In *The* *Way* *of* *the* *Cross*, we\'re told: "In the whole context of the Passion, this help did not add up to very much. But for Jesus, a smile, a word, a gesture, a little bit of love is enough for him to pour out his grace bountifully on the soul of his friend.
 
-"Years later, Simon\'s sons, Christians by then, will be known and held
-in high esteem among their brothers in the faith. And it all started
-with this unexpected meeting with the Cross.
+"Years later, Simon\'s sons, Christians by then, will be known and held in high esteem among their brothers in the faith. And it all started with this unexpected meeting with the Cross.
 
-"At times the Cross appears without our looking for it; it is Christ who
-is seeking us out. And if, by chance, before this unexpected Cross,
-which, perhaps, is therefore more difficult to understand, your heart
-were to show repugnance\...don\'t give it consolations.
+"At times the Cross appears without our looking for it; it is Christ who is seeking us out. And if, by chance, before this unexpected Cross, which, perhaps, is therefore more difficult to understand, your heart were to show repugnance\...don\'t give it consolations.
 
-"And, filled with a noble compassion, when it asks for them, say to it
-slowly, as one speaking in confidence, 'Heart: heart on the Cross! Heart
-on the Cross!'" (J. Escrivá, *The Way of the Cross*, Fifth Station).
+"And, filled with a noble compassion, when it asks for them, say to it slowly, as one speaking in confidence, 'Heart: heart on the Cross! Heart on the Cross!'" (J. Escrivá, *The Way of the Cross*, Fifth Station).
 
-From looking at the Holy Family, we learn how to faithfully fulfill our
-duties.
+From looking at the Holy Family, we learn how to faithfully fulfill our duties.
 
-Often the little jobs of every day---making our bed, leaving rooms in a
-way that we would like to find them, living room, bathroom, dining room,
-kitchen, thinking of other people, taking care of the garbage in the
-house, laying the table, doing the washing up---little duties of every
-day: that\'s where our battle for holiness can be.
+Often the little jobs of every day---making our bed, leaving rooms in a way that we would like to find them, living room, bathroom, dining room, kitchen, thinking of other people, taking care of the garbage in the house, laying the table, doing the washing up---little duties of every day: that\'s where our battle for holiness can be.
 
-That\'s one of the ways that we stamp our pride, on the ruins of our
-self-love. God wants to build the castle of our sanctification.
+That\'s one of the ways that we stamp our pride, on the ruins of our self-love. God wants to build the castle of our sanctification.
 
-We could think and examine our conscience and wonder if at the back of
-our mind: Is there an opinion that somehow, I am superior or better? And
-in reality, I know that I\'m nothing. I\'m a trash can, a garbage can.
+We could think and examine our conscience and wonder if at the back of our mind: Is there an opinion that somehow, I am superior or better? And in reality, I know that I\'m nothing. I\'m a trash can, a garbage can.
 
-But what happens if we\'re treated like a garbage can? Then there are
-moments when to serve means we serve silently, accept the blows or the
-injustice or the difficulties. We see that maybe God is using this cross
-to shape my soul in better ways, to make me into a better instrument,
-just like the knife or the blade has to be heated up and put in the fire
-and forged to be sharper, to be more effective.
+But what happens if we\'re treated like a garbage can? Then there are moments when to serve means we serve silently, accept the blows or the injustice or the difficulties. We see that maybe God is using this cross to shape my soul in better ways, to make me into a better instrument, just like the knife or the blade has to be heated up and put in the fire and forged to be sharper, to be more effective.
 
-I know that I\'m nothing, but Lord, what happens when others treat me as
-nothing? Help me not to complain or to feel injured, but to remind
-myself that I\'m "a useless servant." This is the way you were treated.
+I know that I\'m nothing, but Lord, what happens when others treat me as nothing? Help me not to complain or to feel injured, but to remind myself that I\'m "a useless servant." This is the way you were treated.
 
-Scripture says, "Serve the Lord with gladness" (Ps. 100:2). We serve
-with joy, happy to be of service.
+Scripture says, "Serve the Lord with gladness" (Ps. 100:2). We serve with joy, happy to be of service.
 
-Sometimes to change what we\'re doing, to do a different job, to go
-here, go there, solve some other problem---that\'s also to serve.
+Sometimes to change what we\'re doing, to do a different job, to go here, go there, solve some other problem---that\'s also to serve.
 
-St. John of the Cross says, "To be prepared to lose and to see all
-others win belongs to valiant souls. ... One of the qualities of such
-souls is that they will give rather than receive, even until they come
-to give themselves" (John of the Cross, *Points of Love*, Point 58).
+St. John of the Cross says, "To be prepared to lose and to see all others win belongs to valiant souls. ... One of the qualities of such souls is that they will give rather than receive, even until they come to give themselves" (John of the Cross, *Points of Love*, Point 58).
 
-We should try and serve other people around us as we would like to be
-served. Sometimes service alone is not enough. No husband or wife just
-wants service. They want love, affection.
+We should try and serve other people around us as we would like to be served. Sometimes service alone is not enough. No husband or wife just wants service. They want love, affection.
 
-We try to serve with refinement. Sometimes you have to be careful not to
-serve too much so that somebody might say, 'Would you ever sit down and
-just be still for a while?'
+We try to serve with refinement. Sometimes you have to be careful not to serve too much so that somebody might say, 'Would you ever sit down and just be still for a while?'
 
-In our service, we try to pass unnoticed, because that\'s the way God
-wants us to serve. We can often give great example by our service.
-Sometimes it\'s the greatest service we give in our home---a good
-example to our children, to our friends.
+In our service, we try to pass unnoticed, because that\'s the way God wants us to serve. We can often give great example by our service. Sometimes it\'s the greatest service we give in our home---a good example to our children, to our friends.
 
-Christ washed the feet. At the level of feet, we\'re all equal. Christ
-begins the institution of the Eucharist by washing feet (John 13:1-17).
+Christ washed the feet. At the level of feet, we\'re all equal. Christ begins the institution of the Eucharist by washing feet (John 13:1-17).
 
-First, every day and foremost, we have to take care of our spiritual
-life. The norms of our plan of life---they\'re not an end, but the
-means. They allow the Word of God to inspire us in a regular way.
-Through those means, we constantly place ourselves at the service of
-God, saying:
+First, every day and foremost, we have to take care of our spiritual life. The norms of our plan of life---they\'re not an end, but the means. They allow the Word of God to inspire us in a regular way. Through those means, we constantly place ourselves at the service of God, saying:
 
-Here I am, Lord. I\'m your useless servant, but here I am again. I want
-to serve not just for personal interest, but for love of you.
+Here I am, Lord. I\'m your useless servant, but here I am again. I want to serve not just for personal interest, but for love of you.
 
-We can turn to Our Lady. Our Mother Mary was the most faithful
-collaborator with the Holy Spirit in the work of redemption. Her whole
-lifetime was a lifetime of service.
+We can turn to Our Lady. Our Mother Mary was the most faithful collaborator with the Holy Spirit in the work of redemption. Her whole lifetime was a lifetime of service.
 
-She will teach us how to be good instruments in the hands of Our Lord.
-Our guardian angel will second that intention by reminding us in a
-constant way that we are only "unprofitable, useless servants" doing
-what we have been asked.
+She will teach us how to be good instruments in the hands of Our Lord. Our guardian angel will second that intention by reminding us in a constant way that we are only "unprofitable, useless servants" doing what we have been asked.
 
-*I thank you, my God, for the good resolutions, affections, and
-inspirations that you have communicated to me during this meditation. I
-ask your help to put them into practice. My Immaculate Mother, Saint
-Joseph, my father and lord, my guardian angel, intercede for me.*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *JOSH*

@@ -7,504 +7,264 @@ By Fr. Conor Donnelly
 
 (*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*My Lord and my God, I firmly believe that you are here, that you see
-me, that you hear me. I adore you with profound reverence. I ask your
-pardon for my sins and grace to make this time of prayer fruitful. My
-Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
-intercede for me.*
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"He was by nature God. He did not consider being equal to God a thing to
-be clung to, but emptied himself, taking the nature of a slave, and
-being made like unto men, and appearing in the form of man, he humbled
-himself, becoming obedient unto death, even unto death on a cross"
-(Phil. 2:6-8).
+"He was by nature God. He did not consider being equal to God a thing to be clung to, but emptied himself, taking the nature of a slave, and being made like unto men, and appearing in the form of man, he humbled himself, becoming obedient unto death, even unto death on a cross" (Phil. 2:6-8).
 
-All through His life, Our Lord gives us a great example of humility,
-whereby He became small, He emptied Himself of Himself, and that, even
-though He was God.
+All through His life, Our Lord gives us a great example of humility, whereby He became small, He emptied Himself of Himself, and that, even though He was God.
 
-While humility is not the most important of the virtues (charity is),
-humility is the basis of charity. It\'s a very important virtue.
+While humility is not the most important of the virtues (charity is), humility is the basis of charity. It\'s a very important virtue.
 
-God wants us to imitate Him in a special way in growing to be more
-humble. It\'s the virtue whereby we recognize our smallness.
+God wants us to imitate Him in a special way in growing to be more humble. It\'s the virtue whereby we recognize our smallness.
 
-It\'s the opposite of our pride, whereby we can think we are great, or
-that we have special abilities, or that we\'re superior or better to
-other people, or that we can do all things.
+It\'s the opposite of our pride, whereby we can think we are great, or that we have special abilities, or that we\'re superior or better to other people, or that we can do all things.
 
-It\'s the pride of the temptation of Eve. The devil to Eve said: "your
-eyes will be opened, and you will be like God, knowing good and evil"
-(Gen. 3:5).
+It\'s the pride of the temptation of Eve. The devil to Eve said: "your eyes will be opened, and you will be like God, knowing good and evil" (Gen. 3:5).
 
-It\'s a temptation to puff ourselves up, to be much greater than we are,
-whereas "humility is truth" (Teresa of Ávila, *The Interior Castle*).
+It\'s a temptation to puff ourselves up, to be much greater than we are, whereas "humility is truth" (Teresa of Ávila, *The Interior Castle*).
 
-Our Lord invites us to walk in the truth and to give all the glory to
-God, not the glory to self. Pride is love of self, love of me.
+Our Lord invites us to walk in the truth and to give all the glory to God, not the glory to self. Pride is love of self, love of me.
 
-In our spiritual life, one of the most important battles is the battle
-to conquer the self.
+In our spiritual life, one of the most important battles is the battle to conquer the self.
 
-One of our greatest obstacles and problems and difficulties is that we
-love ourselves too much. That's what pride is.
+One of our greatest obstacles and problems and difficulties is that we love ourselves too much. That's what pride is.
 
-Every opportunity that comes to grow in this virtue of humility is
-important because then we have our feet on the ground. We\'re dealing
-with reality. We\'re walking with the truth.
+Every opportunity that comes to grow in this virtue of humility is important because then we have our feet on the ground. We\'re dealing with reality. We\'re walking with the truth.
 
-Pride can get expressed in all sorts of ways: it's for vanity, spending
-a bit more time than necessary in front of the mirror; or thinking and
-imagination about ourselves; or dreaming up fantasy situations whereby
-we are the hero; or we are going to solve all the problems of the world,
-or thinking that we\'re much greater than we are.
+Pride can get expressed in all sorts of ways: it's for vanity, spending a bit more time than necessary in front of the mirror; or thinking and imagination about ourselves; or dreaming up fantasy situations whereby we are the hero; or we are going to solve all the problems of the world, or thinking that we\'re much greater than we are.
 
-We can be proud when we compare ourselves to others. Or we become
-envious or jealous. Or we make judgments of other people. It\'s all a
-way of lording it over them.
+We can be proud when we compare ourselves to others. Or we become envious or jealous. Or we make judgments of other people. It\'s all a way of lording it over them.
 
-That's why Our Lord gives so much importance then to the virtue of
-humility. It\'s superior to nearly all the other moral virtues, because
-we know the truth about ourselves.
+That's why Our Lord gives so much importance then to the virtue of humility. It\'s superior to nearly all the other moral virtues, because we know the truth about ourselves.
 
-It\'s a fundamental virtue in the ascetical life and fosters many other
-virtues: the virtue of sincerity, whereby we speak the truth.
+It\'s a fundamental virtue in the ascetical life and fosters many other virtues: the virtue of sincerity, whereby we speak the truth.
 
-When we know the truth about ourselves, then it\'s easier to speak the
-truth about ourselves in spiritual direction, in Confession---a very
-important part of knowledge of self so that we can be guided and get the
-right advice.
+When we know the truth about ourselves, then it\'s easier to speak the truth about ourselves in spiritual direction, in Confession---a very important part of knowledge of self so that we can be guided and get the right advice.
 
-Humility leads to docility. Docility comes from the Latin word *docio*,
-to teach. If we're docile, we are able to be taught.
+Humility leads to docility. Docility comes from the Latin word *docio*, to teach. If we're docile, we are able to be taught.
 
-Throughout our life, we need to learn new things. We never finish with
-learning.
+Throughout our life, we need to learn new things. We never finish with learning.
 
-The wise person, we\'re told in the *Furrow*, always realizes there are
-more things to learn. The proud person thinks they know it all already.
+The wise person, we\'re told in the *Furrow*, always realizes there are more things to learn. The proud person thinks they know it all already.
 
-Humility leads us to obedience, which is to submit our will to the will
-of another, because we know the other person either knows more or has
-the grace of state from their position to be able to tell us to do
-something, or perhaps is transmitting the will of God to us.
+Humility leads us to obedience, which is to submit our will to the will of another, because we know the other person either knows more or has the grace of state from their position to be able to tell us to do something, or perhaps is transmitting the will of God to us.
 
-Humility leads us to be cheerful, because we\'re peaceful, we know
-ourselves, we rely a little more on the grace of God, we leave things in
-His hands. We try not to be anxious or worried about things because we
-know that Our Father God is looking after everything.
+Humility leads us to be cheerful, because we\'re peaceful, we know ourselves, we rely a little more on the grace of God, we leave things in His hands. We try not to be anxious or worried about things because we know that Our Father God is looking after everything.
 
-Humility leads us to have a spirit of service, find our joy in serving,
-and to realize that service is a privilege. Christ came "not to be
-served, but to serve" (Matt. 20:28).
+Humility leads us to have a spirit of service, find our joy in serving, and to realize that service is a privilege. Christ came "not to be served, but to serve" (Matt. 20:28).
 
-The goal of all of our education and all of our formation is to serve,
-and in the course of our life, to serve a little better, with our
-knowledge, with our professional work, with our expertise, through our
-study; so that we\'re improving the quality of service all the time, and
-thereby being more effective.
+The goal of all of our education and all of our formation is to serve, and in the course of our life, to serve a little better, with our knowledge, with our professional work, with our expertise, through our study; so that we\'re improving the quality of service all the time, and thereby being more effective.
 
-Service leads us to make a great contribution in the course of our life.
-It may be that at the end of our life, God may have planned that we will
-make our greatest contribution, because over time we\'ve built up an
-acumen of knowledge, of ideas, of experience whereby we can do something
-really great with the talents that God has given to us.
+Service leads us to make a great contribution in the course of our life. It may be that at the end of our life, God may have planned that we will make our greatest contribution, because over time we\'ve built up an acumen of knowledge, of ideas, of experience whereby we can do something really great with the talents that God has given to us.
 
-Humility, in some ways, is a product of the virtue of temperance, which
-helps us to temper the sense of our own worth so that we have a much
-more realistic idea of who we are, and what our capabilities are.
+Humility, in some ways, is a product of the virtue of temperance, which helps us to temper the sense of our own worth so that we have a much more realistic idea of who we are, and what our capabilities are.
 
-If we see that all that we do is nothing compared to what God does, it
-leads us to give Him thanks, to give Him glory, and to give Him all the
-glory.
+If we see that all that we do is nothing compared to what God does, it leads us to give Him thanks, to give Him glory, and to give Him all the glory.
 
-We'll try and make the glory of God the motive of all our actions. If
-we\'re sweeping the floor, or studying a book, or laying a table, or
-cutting grass in a field, or performing cardiothoracic surgery, we\'ll
-try and do it for the glory of God, because we\'ll realize 'if I have
-any talents and abilities that enable me to do this job, it\'s because
-God gave them to me; not because of my own great power or abilities.'
+We'll try and make the glory of God the motive of all our actions. If we\'re sweeping the floor, or studying a book, or laying a table, or cutting grass in a field, or performing cardiothoracic surgery, we\'ll try and do it for the glory of God, because we\'ll realize 'if I have any talents and abilities that enable me to do this job, it\'s because God gave them to me; not because of my own great power or abilities.'
 
-One of the very first virtues that Our Lord manifested in Bethlehem was
-becoming small. He didn\'t just become a man, He became small. He became
-a baby because nobody\'s frightened of a baby.
+One of the very first virtues that Our Lord manifested in Bethlehem was becoming small. He didn\'t just become a man, He became small. He became a baby because nobody\'s frightened of a baby.
 
-His mother wrapped Him in swaddling clothes and laid Him in a manger.
-Even though He was the King of kings and Lord of lords, He hid Himself
-away in a small stable in Bethlehem.
+His mother wrapped Him in swaddling clothes and laid Him in a manger. Even though He was the King of kings and Lord of lords, He hid Himself away in a small stable in Bethlehem.
 
-Later on, He was going to say, "Learn from me, for I am meek and humble
-of heart" (Matt. 11:29).
+Later on, He was going to say, "Learn from me, for I am meek and humble of heart" (Matt. 11:29).
 
-One of the specific virtues that Our Lord singles out, or He would like
-us to imitate Him in a special way, is in His humility.
+One of the specific virtues that Our Lord singles out, or He would like us to imitate Him in a special way, is in His humility.
 
-We can try to look for situations where we can practice that virtue a
-little more, occasionally perhaps putting the blame on ourselves, not
-blaming other people---realizing that if the world is not a better
-place, it\'s because I am not a better person.
+We can try to look for situations where we can practice that virtue a little more, occasionally perhaps putting the blame on ourselves, not blaming other people---realizing that if the world is not a better place, it\'s because I am not a better person.
 
-G.K. Chesterton was once asked what he thought was the main problem with
-the Catholic Church, and his answer was "Me." That was humility.
+G.K. Chesterton was once asked what he thought was the main problem with the Catholic Church, and his answer was "Me." That was humility.
 
-'If things are not better, it\'s my fault.' Therefore, I have to try and
-be better: a better person, a better man, a better woman, a better
-student, a better parent, a better child, a better citizen, a better
-Christian, a better apostle.
+'If things are not better, it\'s my fault.' Therefore, I have to try and be better: a better person, a better man, a better woman, a better student, a better parent, a better child, a better citizen, a better Christian, a better apostle.
 
-There were many occasions in Our Lord\'s life where He continued through
-with that example of humility.
+There were many occasions in Our Lord\'s life where He continued through with that example of humility.
 
-He said, "I\'ve come to bring good news to the poor" (Luke 4:18). He was
-there at the service of the poor. "I\'ve come to call sinners" (Luke
-5:31). He washed the feet of the apostles (John 13-1-17). He didn\'t
-just talk about humility; He walks the talk.
+He said, "I\'ve come to bring good news to the poor" (Luke 4:18). He was there at the service of the poor. "I\'ve come to call sinners" (Luke 5:31). He washed the feet of the apostles (John 13-1-17). He didn\'t just talk about humility; He walks the talk.
 
-Also, He surrounded Himself with humility: the humility of Our Lady, the
-humility of St. Joseph, the humility of the shepherds (Luke 2:8-20) and
-the magi (Matt. 2:1-12), the humility of Nazareth, the humility on the
-Cross (John 19:17-30), and ultimately. the humility in the tabernacle.
+Also, He surrounded Himself with humility: the humility of Our Lady, the humility of St. Joseph, the humility of the shepherds (Luke 2:8-20) and the magi (Matt. 2:1-12), the humility of Nazareth, the humility on the Cross (John 19:17-30), and ultimately. the humility in the tabernacle.
 
-Our Lord hides away in the tabernacle, always there for us, never going
-away, never gives up on us. He\'s there 24-7, all throughout our life.
+Our Lord hides away in the tabernacle, always there for us, never going away, never gives up on us. He\'s there 24-7, all throughout our life.
 
-With this example of humility, we could try and watch out for little
-areas where we may be lacking in that virtue.
+With this example of humility, we could try and watch out for little areas where we may be lacking in that virtue.
 
-We might need to subject our reason to God\'s authority. We might need
-to subject our reason in various ways. Avoid giving it too much
-importance. Reason is important, but not too important.
+We might need to subject our reason to God\'s authority. We might need to subject our reason in various ways. Avoid giving it too much importance. Reason is important, but not too important.
 
-An intellectual humility, as we grow to know more things, comes to take
-greater prominence. We have to be aware of having a swelled head because
-of our achievements.
+An intellectual humility, as we grow to know more things, comes to take greater prominence. We have to be aware of having a swelled head because of our achievements.
 
-We give thanks to God if He\'s allowed us to do something where we
-haven\'t provoked laughter around us because, possibly on many other
-occasions, we have provoked laughter.
+We give thanks to God if He\'s allowed us to do something where we haven\'t provoked laughter around us because, possibly on many other occasions, we have provoked laughter.
 
-Humility is to realize that divine mysteries cannot be grasped by human
-minds, and our faith is a faith of mysteries. The fact that something
-cannot be understood by our mind doesn\'t mean that it\'s not true.
+Humility is to realize that divine mysteries cannot be grasped by human minds, and our faith is a faith of mysteries. The fact that something cannot be understood by our mind doesn\'t mean that it\'s not true.
 
-Humility can lead us to trust in God in spite of our weaknesses. It
-leads us to empty ourselves of our self-love and to realize that we can
-do a great service wherever we are placed.
+Humility can lead us to trust in God in spite of our weaknesses. It leads us to empty ourselves of our self-love and to realize that we can do a great service wherever we are placed.
 
-Wherever God has placed us in the world, that\'s where He wants us to
-be: in this job, in this family, in this particular situation.
+Wherever God has placed us in the world, that\'s where He wants us to be: in this job, in this family, in this particular situation.
 
-When the curtain goes down at the end of the play, it doesn\'t matter
-who played the part of the king or the queen, and who played the part of
-the servant. What\'s important is how they played their part. Sometimes
-it\'s the supporting actress or actor who wins the Oscar.
+When the curtain goes down at the end of the play, it doesn\'t matter who played the part of the king or the queen, and who played the part of the servant. What\'s important is how they played their part. Sometimes it\'s the supporting actress or actor who wins the Oscar.
 
-Where we have been placed with our limitations, that\'s where Our Lord
-wants us to shine. That\'s where His grace is molded and shaped to help
-us to produce maximum effect
+Where we have been placed with our limitations, that\'s where Our Lord wants us to shine. That\'s where His grace is molded and shaped to help us to produce maximum effect
 
 There was a prayer on the wall of a hospital in New York that said:
 
-"I asked God for strength, that I might achieve; I was made weak so that
-I might learn humbly to obey.\
-I asked for health, that I might do great things; I was given infirmity
-that I might do greater things.\
-I asked for riches, that I might be happy; I was given poverty so that I
-might be wise.\
-I asked for power, that I might have the praise of men; I was given
-weakness that I might feel the need of God.\
-I asked for all things that I might enjoy life; I was given life that I
-might enjoy all things.\
+"I asked God for strength, that I might achieve; I was made weak so that I might learn humbly to obey.\
+I asked for health, that I might do great things; I was given infirmity that I might do greater things.\
+I asked for riches, that I might be happy; I was given poverty so that I might be wise.\
+I asked for power, that I might have the praise of men; I was given weakness that I might feel the need of God.\
+I asked for all things that I might enjoy life; I was given life that I might enjoy all things.\
 I got nothing I asked for, but everything I hoped for.\
 Almost despite myself, my unspoken prayers were answered.\
 I am, among all men, most richly blessed"\
 (*Prayer of an Unknown Confederate Soldier*).
 
-At times we might pity our situation or wish that we were somewhere else
-or somebody else, or have faraway dreams of faraway places, but yes, the
-daily realities are the humble realities God wants us to accept.
+At times we might pity our situation or wish that we were somewhere else or somebody else, or have faraway dreams of faraway places, but yes, the daily realities are the humble realities God wants us to accept.
 
-We need to humbly accept His will. 'If this is your will, Lord, then
-it\'s my will also" (cf. Josemaría Escrivá, *The Way*, Point 762).
+We need to humbly accept His will. 'If this is your will, Lord, then it\'s my will also" (cf. Josemaría Escrivá, *The Way*, Point 762).
 
-'Help me to find happiness and contentment in the ordinary things of
-every day where you have placed me.'
+'Help me to find happiness and contentment in the ordinary things of every day where you have placed me.'
 
 We could try and watch out for signs of humility and encourage them.
 
-One of those could be forgetting about ourselves and our own problems.
-We solve all our problems by thinking about others, spending ourselves
-for others, generously giving ourselves.
+One of those could be forgetting about ourselves and our own problems. We solve all our problems by thinking about others, spending ourselves for others, generously giving ourselves.
 
-We\'re humble when we don\'t complain when something is lacking, or when
-things don\'t turn out the way we want.
+We\'re humble when we don\'t complain when something is lacking, or when things don\'t turn out the way we want.
 
-We\'re complaining with that selfishness very often, and sometimes our
-complaints may not be external, but they might be internal.We might be
-complaining to ourselves, 'Why?' or 'It\'s not fair.'
+We\'re complaining with that selfishness very often, and sometimes our complaints may not be external, but they might be internal.We might be complaining to ourselves, 'Why?' or 'It\'s not fair.'
 
-I met a father once in Malaysia. I knew he had a 10-year-old son, and I
-asked him how his son was. He told me that "he\'s passing through the
-age of justice."
+I met a father once in Malaysia. I knew he had a 10-year-old son, and I asked him how his son was. He told me that "he\'s passing through the age of justice."
 
-I was wondering, what\'s that? He told me, "Everything is not fair. 'My
-sister is able to stay up and watch this TV program and I\'ve got to go
-to bed early; it\'s not fair. My sister got less homework than I did and
-I\'ve got to do my homework; it\'s not fair.' Everything is 'not fair.'"
+I was wondering, what\'s that? He told me, "Everything is not fair. 'My sister is able to stay up and watch this TV program and I\'ve got to go to bed early; it\'s not fair. My sister got less homework than I did and I\'ve got to do my homework; it\'s not fair.' Everything is 'not fair.'"
 
-Some people never get out of the age of justice. We go through our whole
-life complaining that life is not fair.
+Some people never get out of the age of justice. We go through our whole life complaining that life is not fair.
 
-God wants us to get used to it, or accept it without complaining. Learn
-how to be content with what we have.
+God wants us to get used to it, or accept it without complaining. Learn how to be content with what we have.
 
-We\'re humble when we think of others, when we have a spirit of service,
-and also when we have a spirit of sacrifice, which means that maybe
-there's something we\'d like to do but we can\'t do it, because somebody
-else wants our help.
+We\'re humble when we think of others, when we have a spirit of service, and also when we have a spirit of sacrifice, which means that maybe there's something we\'d like to do but we can\'t do it, because somebody else wants our help.
 
-Or there\'s a soccer game we\'d like to play or to watch, but some other
-job needs to be done. Or there\'s something we\'d like to eat, but it's
-not available, or somebody else has to have it, and we can\'t have it.
-We have to say 'no' to ourselves; self-denial is a very healthy
-practice.
+Or there\'s a soccer game we\'d like to play or to watch, but some other job needs to be done. Or there\'s something we\'d like to eat, but it's not available, or somebody else has to have it, and we can\'t have it. We have to say 'no' to ourselves; self-denial is a very healthy practice.
 
-To allow ourselves to lose and to let everybody else win is a virtue of
-great souls, says St. Gregory the Great.
+To allow ourselves to lose and to let everybody else win is a virtue of great souls, says St. Gregory the Great.
 
-Humility means also we accept failure. We lose a game cheerfully. We
-realize that winning is not the most important thing. The important
-thing is that people enjoy it.
+Humility means also we accept failure. We lose a game cheerfully. We realize that winning is not the most important thing. The important thing is that people enjoy it.
 
-Watching a movie and enjoying is not the most important thing, but the
-most important thing is that other people enjoy the movie.
+Watching a movie and enjoying is not the most important thing, but the most important thing is that other people enjoy the movie.
 
-Our concern for others is manifested in everything we do, and that may
-take a real spirit of sacrifice. At times it could be heroic sacrifice.
+Our concern for others is manifested in everything we do, and that may take a real spirit of sacrifice. At times it could be heroic sacrifice.
 
-If we were to think of all the times that our parents have sacrificed
-themselves for us, then we\'ll learn that virtue a little more.
+If we were to think of all the times that our parents have sacrificed themselves for us, then we\'ll learn that virtue a little more.
 
-We\'re humble when we\'re open to God\'s plans in general, accepting His
-will in the small things of each day; the little setbacks, the failing
-an exam, the losing a game, the missing a shot, the common head cold, an
-upset stomach, unpleasant feelings.
+We\'re humble when we\'re open to God\'s plans in general, accepting His will in the small things of each day; the little setbacks, the failing an exam, the losing a game, the missing a shot, the common head cold, an upset stomach, unpleasant feelings.
 
-These are the daily realities of each day that God wants us to accept,
-and cheerfully, with a smile, without complaining.
+These are the daily realities of each day that God wants us to accept, and cheerfully, with a smile, without complaining.
 
-We\'re humble when we give attention and care to little things. "Great
-souls pay much attention to little things" (J. Escrivá, *The Way*, Point
-818).
+We\'re humble when we give attention and care to little things. "Great souls pay much attention to little things" (J. Escrivá, *The Way*, Point 818).
 
-"There is something...divine hidden in the most ordinary human reality"
-(J. Escrivá, *Conversations*, Point 114).
+"There is something...divine hidden in the most ordinary human reality" (J. Escrivá, *Conversations*, Point 114).
 
-The humble pay attention to the small. There\'s nothing too small that
-doesn\'t need our attention.
+The humble pay attention to the small. There\'s nothing too small that doesn\'t need our attention.
 
-We\'re humble when we\'re willing to listen and learn from others. At
-times, listening to others can be difficult. It can be boring, it can be
-taxing, it can take a lot of time.
+We\'re humble when we\'re willing to listen and learn from others. At times, listening to others can be difficult. It can be boring, it can be taxing, it can take a lot of time.
 
-That shows a lot of humility and generosity with things that we may not
-feel like giving, but yet, which are very valuable: our time, our ears.
+That shows a lot of humility and generosity with things that we may not feel like giving, but yet, which are very valuable: our time, our ears.
 
-If we\'re humble, we\'ll realize, 'I have something to learn from
-everybody.'
+If we\'re humble, we\'ll realize, 'I have something to learn from everybody.'
 
-Whenever St. Josemaría went on a journey, one of the first things he
-said in a new country talking to many people was that "I came here to
-learn."
+Whenever St. Josemaría went on a journey, one of the first things he said in a new country talking to many people was that "I came here to learn."
 
-He was at the end of his life. He was an extremely brilliant man. He\'d
-done many things in his life. He could have said, "I\'ve come here to
-teach you all that I know" but in his humility, he said, "I\'ve come
-here to learn."
+He was at the end of his life. He was an extremely brilliant man. He\'d done many things in his life. He could have said, "I\'ve come here to teach you all that I know" but in his humility, he said, "I\'ve come here to learn."
 
-Often the smallest child may have things to teach us; can be an
-instrument of the Holy Spirit.
+Often the smallest child may have things to teach us; can be an instrument of the Holy Spirit.
 
-We\'re humble when we react well when corrected, when we realize, 'I was
-wrong' and we can say that. And also, when we can say, 'I\'m sorry.'
+We\'re humble when we react well when corrected, when we realize, 'I was wrong' and we can say that. And also, when we can say, 'I\'m sorry.'
 
-One of the basic phrases or words of human interaction is, "I\'m sorry,
-please, thank you.' 'I was wrong and I\'m sorry." We often have to
-repeat those words frequently.
+One of the basic phrases or words of human interaction is, "I\'m sorry, please, thank you.' 'I was wrong and I\'m sorry." We often have to repeat those words frequently.
 
-We\'re humble when we pass unnoticed, when we don\'t attract attention
-to ourselves.
+We\'re humble when we pass unnoticed, when we don\'t attract attention to ourselves.
 
-'Hey, everybody, I hope you\'re watching. I\'ve done this great deed.
-I\'ve put this basketball into the hoop. I\'ve scored this great goal.
-Let\'s have action replay.'
+'Hey, everybody, I hope you\'re watching. I\'ve done this great deed. I\'ve put this basketball into the hoop. I\'ve scored this great goal. Let\'s have action replay.'
 
-We may not be able to have action replay of the goals we scored, but in
-our mind, we can be replaying and replaying and replaying.
+We may not be able to have action replay of the goals we scored, but in our mind, we can be replaying and replaying and replaying.
 
-Humility is passing unnoticed, not attracting attention, doing and
-disappearing, not wanting everybody to see how much we are disappearing
-or how much we\'re serving.
+Humility is passing unnoticed, not attracting attention, doing and disappearing, not wanting everybody to see how much we are disappearing or how much we\'re serving.
 
-Humility can be expressed in patience, knowing how to wait---to wait for
-other people, to give them our time and our energy, or to wait for
-things to happen, or to wait for things to improve.
+Humility can be expressed in patience, knowing how to wait---to wait for other people, to give them our time and our energy, or to wait for things to happen, or to wait for things to improve.
 
-Time is a great social force. By being patient with other people, we
-give them respect and dignity.
+Time is a great social force. By being patient with other people, we give them respect and dignity.
 
-Most of all, we say 'no' to our own self-love that wants things now: 'I
-demand that you give me this thing now.'
+Most of all, we say 'no' to our own self-love that wants things now: 'I demand that you give me this thing now.'
 
-That\'s what a baby does: 'I want my milk and I want it now, and you
-jolly well get up out of bed and give me my milk, even if it\'s three in
-the morning.' Self-satisfied, hedonistic gorilla---that\'s what every
-little baby is.
+That\'s what a baby does: 'I want my milk and I want it now, and you jolly well get up out of bed and give me my milk, even if it\'s three in the morning.' Self-satisfied, hedonistic gorilla---that\'s what every little baby is.
 
-But that baby has to grow to learn how to forget about himself and think
-about the needs of others.
+But that baby has to grow to learn how to forget about himself and think about the needs of others.
 
-We\'re humble when we\'re willing to perform menial tasks. There should
-be no task in the home that any person is not willing to perform.
+We\'re humble when we\'re willing to perform menial tasks. There should be no task in the home that any person is not willing to perform.
 
-Changing the diaper on the baby should be done occasionally by fathers
-or by brothers; or washing the car, sweeping the floor, or doing the
-dishes. And the girls, the same thing.
+Changing the diaper on the baby should be done occasionally by fathers or by brothers; or washing the car, sweeping the floor, or doing the dishes. And the girls, the same thing.
 
-There\'s nothing that is beneath us, because we\'re learning how to
-build a domestic Church. We\'re learning how to perform all these tasks,
-because later on, we\'ll need to be experts in those tasks and to teach
-them to other people.
+There\'s nothing that is beneath us, because we\'re learning how to build a domestic Church. We\'re learning how to perform all these tasks, because later on, we\'ll need to be experts in those tasks and to teach them to other people.
 
-We\'re humble when we use our fame or our learning, our eloquence, or
-our power for the service of God and for other men. That\'s why God has
-given us our education, our knowledge, our ability.
+We\'re humble when we use our fame or our learning, our eloquence, or our power for the service of God and for other men. That\'s why God has given us our education, our knowledge, our ability.
 
-Our fame, our eloquence, our learning, our power is not for our own
-glory, for our vanity, for our own pride. It\'s not meant to feed our
-pride.
+Our fame, our eloquence, our learning, our power is not for our own glory, for our vanity, for our own pride. It\'s not meant to feed our pride.
 
-Our Lady said, "My soul magnifies the Lord, my spirit rejoices in God my
-Savior, because he has looked upon the humility of hishandmaid.
-Henceforth, all nations will call me blessed" (Luke 1:46-48).
+Our Lady said, "My soul magnifies the Lord, my spirit rejoices in God my Savior, because he has looked upon the humility of hishandmaid. Henceforth, all nations will call me blessed" (Luke 1:46-48).
 
-We\'re humble when we try to improve ourselves in order to serve others
-better. That\'s one of the reasons why we have to study. It\'s a
-habitual obligation for us, the obligation of *always*.
+We\'re humble when we try to improve ourselves in order to serve others better. That\'s one of the reasons why we have to study. It\'s a habitual obligation for us, the obligation of *always*.
 
-Even when we finish our professional life, we can still be learning new
-things in order, perhaps, to discover other areas of service where we
-can give to other people until our dying day.
+Even when we finish our professional life, we can still be learning new things in order, perhaps, to discover other areas of service where we can give to other people until our dying day.
 
-We\'re humbled when we can see good in others without envy or jealousy.
-Envy is sadness at the good of another.
+We\'re humbled when we can see good in others without envy or jealousy. Envy is sadness at the good of another.
 
-When we see good in another, a talent, an ability, we have to praise God
-and thank Him for giving that other person that particular ability that
-perhaps He didn\'t give to us.
+When we see good in another, a talent, an ability, we have to praise God and thank Him for giving that other person that particular ability that perhaps He didn\'t give to us.
 
-We could also watch out for signs of pride and try to correct them.
-Gloominess, staying in moods of anger, not willing to let things pass or
-get over the little upsets. An unwillingness to do menial tasks: 'leave
-it to others who are beneath me; it\'s their job.'
+We could also watch out for signs of pride and try to correct them. Gloominess, staying in moods of anger, not willing to let things pass or get over the little upsets. An unwillingness to do menial tasks: 'leave it to others who are beneath me; it\'s their job.'
 
 Sometimes it\'s our job. We have to give an example.
 
-Pride is always with us; it\'s the root of all sin. It\'s very good that
-we learn how to step on our own pride and teach children how to do that.
+Pride is always with us; it\'s the root of all sin. It\'s very good that we learn how to step on our own pride and teach children how to do that.
 
-If you shout at your children when they do something wrong, then your
-children learn that it\'s okay to shout or it\'s okay to lose your
-temper.
+If you shout at your children when they do something wrong, then your children learn that it\'s okay to shout or it\'s okay to lose your temper.
 
-But if you lose your temper and you come along to your child and you
-apologize afterward for losing your temper, then the child learns, 'I
-have to learn how to apologize. I have to learn to be humble.'
+But if you lose your temper and you come along to your child and you apologize afterward for losing your temper, then the child learns, 'I have to learn how to apologize. I have to learn to be humble.'
 
 The example that we give in our home is a very powerful example.
 
-Lessons of humility that are learned in the home are valuable lessons.
-The humble submission of husband to wife or wife to husband is one of
-the building blocks of a healthy family environment.
+Lessons of humility that are learned in the home are valuable lessons. The humble submission of husband to wife or wife to husband is one of the building blocks of a healthy family environment.
 
-It shows children how to live together with others. Sometimes we have to
-bend; we have to be flexible. Blessed are the flexible for they shall
-not be bent out of shape.
+It shows children how to live together with others. Sometimes we have to bend; we have to be flexible. Blessed are the flexible for they shall not be bent out of shape.
 
-We can be grateful to God for humiliating situations. Somebody said once
-that 'God has a great sense of humor. He\'s always playing practical
-jokes on us, hiding our keys, hiding our glasses, making us slip on a
-banana skin---all these funny, humiliating situations, or embarrassing
-situations He may lead us to.
+We can be grateful to God for humiliating situations. Somebody said once that 'God has a great sense of humor. He\'s always playing practical jokes on us, hiding our keys, hiding our glasses, making us slip on a banana skin---all these funny, humiliating situations, or embarrassing situations He may lead us to.
 
-Sometimes we have to laugh at those situations. Somebody said once that
-'people who know how to laugh---it\'s a sign they\'re close to God,
-because God has a great sense of humor. He\'s always playing those
-practical jokes on us.'
+Sometimes we have to laugh at those situations. Somebody said once that 'people who know how to laugh---it\'s a sign they\'re close to God, because God has a great sense of humor. He\'s always playing those practical jokes on us.'
 
-It\'s very good to laugh. One time we had a big family dinner with many
-cousins. There was a two-year-old little girl who was sitting opposite
-her Mom. Her mother had told her 500 times not to dribble her food.
+It\'s very good to laugh. One time we had a big family dinner with many cousins. There was a two-year-old little girl who was sitting opposite her Mom. Her mother had told her 500 times not to dribble her food.
 
-But then the mother was drinking her soup and some of the soup missed
-her mouth, and it began to dribble down her chin. The little girl piped
-up at the top of her voice, "Mommy you\'re dribbling."
+But then the mother was drinking her soup and some of the soup missed her mouth, and it began to dribble down her chin. The little girl piped up at the top of her voice, "Mommy you\'re dribbling."
 
-Of course, all heads turned to look at Mommy dribbling. It was a very
-embarrassing moment for Mommy. The mother looked at her little
-two-year-old daughter and said, "You don\'t miss anything, do you?"
+Of course, all heads turned to look at Mommy dribbling. It was a very embarrassing moment for Mommy. The mother looked at her little two-year-old daughter and said, "You don\'t miss anything, do you?"
 
-Sometimes, in the family, our children can be humiliating. All these
-little humiliating circumstances can happen when we make a big mistake,
-and everybody sees it.
+Sometimes, in the family, our children can be humiliating. All these little humiliating circumstances can happen when we make a big mistake, and everybody sees it.
 
-We'd like to use those moments to impress and let everybody see what a
-great goal we can score, or how talented we are in this way or that way.
-Suddenly, we make a mess of the whole thing. Those are humiliating
-situations.
+We'd like to use those moments to impress and let everybody see what a great goal we can score, or how talented we are in this way or that way. Suddenly, we make a mess of the whole thing. Those are humiliating situations.
 
-There was a World Cup final in the late 1990s. It was an Italian team
-and there was a penalty shootout.
+There was a World Cup final in the late 1990s. It was an Italian team and there was a penalty shootout.
 
-The major goal scorer of the whole of the World Cup was taking the final
-penalty and he missed. He put the ball over the bar. I don\'t remember
-too many things from World Cup finals, but I do remember that twenty
-years ago.
+The major goal scorer of the whole of the World Cup was taking the final penalty and he missed. He put the ball over the bar. I don\'t remember too many things from World Cup finals, but I do remember that twenty years ago.
 
-People remember our failures, our humiliating moments. Probably, that
-great footballer who put in so many goals will remember that also for
-the rest of his life, as will everybody else.
+People remember our failures, our humiliating moments. Probably, that great footballer who put in so many goals will remember that also for the rest of his life, as will everybody else.
 
-The following Monday on the news, there was a picture of him,
-blindfolded, backward kicking the ball with his heel and he managed to
-put it into the net, showing what a terrible mistake he had made a few
-days previously; missing the whole World Cup.
+The following Monday on the news, there was a picture of him, blindfolded, backward kicking the ball with his heel and he managed to put it into the net, showing what a terrible mistake he had made a few days previously; missing the whole World Cup.
 
-Sometimes, our mistakes and errors are broadcast globally---great
-humiliating moments, but also, great moments to turn to God and thank
-Him for all the times when we haven\'t made such a fool of ourselves,
-and to thank Him for those occasions, because maybe He\'s using those
-moments to help us to put our feet on the ground and to realize we\'re
-not the great person we thought we were.
+Sometimes, our mistakes and errors are broadcast globally---great humiliating moments, but also, great moments to turn to God and thank Him for all the times when we haven\'t made such a fool of ourselves, and to thank Him for those occasions, because maybe He\'s using those moments to help us to put our feet on the ground and to realize we\'re not the great person we thought we were.
 
 It\'s possible to be as pure as an angel, but as proud as a devil.
 
-Lord, help us grasp all the opportunities that come to grow in this
-virtue.
+Lord, help us grasp all the opportunities that come to grow in this virtue.
 
-If we stay close to Our Lady, who is the Virgin most humble, she\'ll
-teach us how to use the opportunities of every day in order to grow in
-this virtue.
+If we stay close to Our Lady, who is the Virgin most humble, she\'ll teach us how to use the opportunities of every day in order to grow in this virtue.
 
-*I thank you, my God, for the good resolutions, affections, and
-inspirations that you have communicated to me during this meditation. I
-ask your help to put them into practice. My Immaculate Mother, Saint
-Joseph, my father and lord, my guardian angel, intercede for me.*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *BWM*

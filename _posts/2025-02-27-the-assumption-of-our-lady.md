@@ -7,473 +7,233 @@ By Fr. Conor Donnelly
 
 (*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
-
-*My Lord and my God, I firmly believe that you are here, that you see
-me, that you hear me. I adore you with profound reverence. I ask your
-pardon for my sins and grace to make this time of prayer fruitful. My
-Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
-intercede for me.*
-
-"Now a great sign appeared in heaven: a woman, robed with the sun,
-standing on the moon, and on her head a crown of twelve stars" (Rev.
-12:1).
-
-Today is the Solemnity of the Assumption of Our Lady. As a consequence
-of her Divine Motherhood, Our Lady had special privileges.
-
-One was that she was immaculately conceived, preserved free from all
-stain of sin. And another was that it was not fitting, said St. Thomas
-Aquinas, that her body would undergo any form of corruption because she
-had been preserved immaculate from sin.
-
-It\'s thought that she was assumed into heaven. This was almost
-universally believed for more than a thousand years, although the Bible
-contains no mention of the Assumption of Our Lady into heaven.
-
-The first Church writer to speak about it was St. Gregory of Tours in
-594. On May 1st, 1946, Pope Pius XII asked all the bishops in the world
-for their opinion about the Assumption of Our Lady into heaven, and
-whether or not it should be defined as a dogma of faith.
-
-\[All\] the bishops replied in the affirmative. On the 1st of November
-1950, the Feast of All Saints, Pope Pius XII declared as a revealed
-dogma, a dogma revealed by God, that "Mary, the Immaculate
-\[perpetually\] Virgin Mother of God, after the completion of her
-earthly life, was assumed body and soul into heaven" (Pius XII,
-Apostolic Constitution, *Munificentissimus Deus Defining the Dogma of
-the Assumption*, November 1, 1950).
-
-We don\'t have any knowledge of the day or the year or the manner of Our
-Lady\'s death. Some dates which have been assigned to her death vary
-between three and fifteen years after Our Lord\'s Ascension. During this
-time, she would have been cared for by St. John and have attended his
-Masses.
-
-Both Jerusalem and Ephesus have been mentioned as places where she may
-have died. But we don\'t really know.
-
-It\'s thought that she died in the presence of the apostles. There\'s a
-lot of devotion that\'s given to what\'s called the "dormition" of Our
-Lady, Our Lady on her deathbed.
-
-There\'s also a belief that after her burial, her tomb, when opened, was
-found empty. Therefore, it was concluded that her body had been "taken
-up or assumed into heaven" (cf. *Catechism of the Catholic Church*,
-Point 966).
-
-When the Church defines the Assumption of Our Lady into heaven, it
-doesn\'t define the manner of her death or when it took place.All those
-details we will find out in heaven.
-
-St. Gregory of Tours said the rationale for this tradition lies in the
-fact that she was preserved free from original sin.
-
-He said it\'s inconceivable that Our Lady\'s sinless body, likened to
-the Ark of the Covenant which was made of incorruptible wood, should
-decay in the grave.
-
-There\'s a text from the Psalms that says: "Arise...you and the ark of
-your strength" (Ps. 132:8). It was understood to mean that it was God\'s
-will that as Christ had ascended into heaven, so too Our Lady would be
-received into heaven.
-
-Our Lord ascended into heaven by His own power. But we say that Our Lady
-was assumed because in her case it\'s passive. It is not the generation
-of her own power that leads her into heaven.
-
-She is assumed by God. This is how we explain this truth as being
-rational.
-
-Our Lord had no need of assistance because He was the second Person of
-the Blessed Trinity. But Our Lady didn\'t have this power.
-
-From the late 16th century onwards, there were many paintings in
-Christian art that depicted Our Lady as assumed into heaven. Our Lady
-appears as a woman adorned with the sun, standing on the moon, with
-twelve stars on her head for a crown.
-
-There was a lot of devotion to Our Lady under this title, and the theme
-of the heavenly Coronation of Our Lady as Queen of Heaven, well often
-represented also in Christian art, which more or less presumed that she
-must have been assumed into heaven also.
-
-"Today, in union with the whole Church, we celebrate the triumph of the
-Mother, Daughter, and Spouse of God. ... We can be happy that Our Lady,
-after accompanying Jesus from Bethlehem to the Cross, is now next to her
-Son, body and soul, glorious forever" (cf. Josemaría Escrivá, *Christ Is
-Passing By*, Point 176).
-
-The Entrance Antiphon of today\'s Mass says: "All honor to you, Mary!
-Today you were raised above the choirs of angels to lastingglory with
-Christ."
-
-The Ark of the Covenant was the sign of the presence of God in the midst
-of His People. Inside the Ark, His Word was kept, inscribed on "the two
-tablets of the Law" (Deut. 9:15).
-
-Today we look at Our Lady as the *Ark of the New Covenant*. We invoke
-her under that title in the *Litany of Loreto*, because in her womb, the
-Son of God, the Word made flesh, dwelt for nine months.
-
-With her Assumption into heaven she found her final abode in the heart
-of the Blessed Trinity.
-
-St. Amadeus said, "Mary was brought up to heaven amidst acclamations of
-joy and praise. She went directly into God\'s presence, and there took
-her throne in glory above all the angels and saints" (St. Amadeus of
-Lausanne, *Homilies in Praise of Blesssed Mary*).
-
-The Ark of the Old Testament was built with precious materials and
-adorned with gold in its interior. In the case of Our Lady, God bestowed
-on her untold gifts.
-
-Pope St. Paul VI uttered that Our Lady\'s "external beauty was a
-reflection of the plenitude of grace within" (Paul VI, *Address*, May
-17, 1975). Thus, she was the new dwelling place of God in the world.
-
-It\'s appropriate that at a certain frequency, we turn our eyes to Mary.
-We look at her images, the most beautiful woman in the world, she who
-was so full of grace, the Lady in our life.
-
-Each time that we make a childlike glance at Our Mother to seek her
-help, her intercession, it\'s the best way we have of beseeching God,
-because she intercedes for us. She redirects our petitions if they\'re
-not altogether perfectly well-intentioned.
-
-The Second Vatican Council said, "Taken up to heaven, she does not lay
-aside \[this\] salvific duty...but by her constant intercession she
-continues to bring us the gifts of eternal salvation" (Vatican II,
-*Lumen gentium*, Point 62).
-
-In the *Furrow,* we're told, "Our Mother went up to Heaven, body and
-soul. Tell her often that we, her children, refuse to be separated from
-her. ... She will hear you!" (J. Escrivá, *Furrow*, Point 898).
-
-We can say to Our Lady: Mother of ours, you who are so close to God the
-Father, God the Son, and God the Holy Spirit, don\'t let us go from your
-hand. Don\'t let me go, or anyone else, my Mother.
-
-Our Lady is this great security. When we come to know our own weakness,
-we know that she will listen to us, no matter what circumstances we\'re
-in.
-
-Many years ago in another country, a lady used to come to see me, and
-she used to go to visit homeless people who were living under bridges.
-She would bring them food and other things that they needed.
-
-She told me, on one of these occasions, she discovered a man there that
-she had known twenty or thirty years previously. She recognized him. She
-talked to him, and he remembered her. They had worked together or
-something.
-
-But that man had made a couple of big mistakes in his life. He had left
-his family, he went off to another country, and he ended up in misery.
-He came back to his original country and became homeless; began living
-under the bridge.
-
-This man had been a member of the Legion of Mary at one stage in his
-life. So, this lady began to tell me about him and asked if she could
-bring him to see me.
-
-This was in a confessional box in a downtown church. One Friday morning,
-this lady brought this man to see me in the confessional box, and he
-went to Confession.
-
-That man told me, "You know, Father, I\'ve realized that after all these
-years, Our Lady has not forgotten me. Because I was in the Legion of
-Mary, she\'s been looking out for me all this time.
-
-"I made a mess of my life. I left my family. I ended up in total misery.
-I think I don\'t have too much longer to live"---I think he had cancer
-or something---\"but Our Lady has brought me back. I\'m very happy to
-make this confession."
-
-It was very beautiful to hear what he was saying, and how he had the
-experience of being a child of Mary, that Our Lady had never forgotten
-him. She sought him out in the difficult moments of his life.
-
-"The Feast of the Assumption of Our Lady is a day of joy. God has won.
-Love has triumphed. Love has shown that it is stronger than death, that
-God possesses the true strength, and that His strength is goodness and
-love.
-
-"Mary was taken up body and soul into heaven" so that one day she can
-help us to get there also. "There\'s even room in God for the body.
-Heaven is no longer a very remote sphere unknown to us.
-
-"We have a Mother in heaven. And the Mother of God and the Mother of the
-Son of God is Our Mother because He Himself has said so. Jesus made Our
-Lady Our Mother. He said, 'Behold your Mother!' (John 19:27).
-
-So we have a Mother in heaven. Heaven is open and heaven has a heart"
-(Benedict XVI, *Homily*, August 15, 2005). A heart is there, waiting for
-us.
-
-There\'s a story told of Our Lord telling St. Peter once at the gates of
-heaven to keep the gates of heaven tightly closed, not to let many
-people in, and to be very selective.
-
-Then Our Lord went away, and He came back some time later, and He found
-that heaven was packed. It was full of people.
-
-He went to St. Peter and said, "Look, I thought I told you to keep the
-gates of heaven tightly closed and to be very selective about whom you
-let in."
-
-St. Peter said, "Yes, Lord, but every time that I close the gates, your
-Mother keeps opening the windows." If we keep an eye on Our Lady,
-she\'ll help us in our hour of need.
-
-Our Lady says that beautiful prayer in the poem, the *Magnificat*. It
-came "from her lips and from her heart."
-
-In many ways, it mirrors "her entire soul, her entire personality. That
-poem is like a portrait of Our Lady, a true icon in which we can see her
-exactly as she is" (cf. Benedict XVI, *Ibid*.).
-
-"My soul magnifies the Lord; my spirit rejoices in God my Savior" (Luke
-1:46-55).
-
-In many ways, "the *Magnifica*t is quite original. At the same time, it
-is a 'fabric' woven throughout with 'threads' of the Old Testament, of
-words of God.
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-"We see that Our Lady was 'at home' with God\'s word, she lived on
-God\'s word, she was penetrated by God\'s word. To the extent that she
-spoke with God\'s words, she thought with God\'s words, her thoughts
-were God\'s thoughts; her words were God\'s words.
-
-"She was penetrated by divine light. This is why she\'s so resplendent,
-so good, so radiant with love and goodness" (cf. Benedict XVI, *Ibid*.).
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-We can always turn to Our Lady and find an open heart there ready to
-receive us.
-
-"Mary lived on the Word of God and she was imbued with the Word of God.
-The fact that she was immersed in the Word of God and was \[totally\]
-familiar with the Word also endowed her later with the inner
-enlightenment to wisdom.
-
-"Whoever thinks with God thinks well. Whoever speaks to God speaks well.
-They have valid criteria to judge all things in the world. They become
-prudent, wise, and at the same time, good; they also become strong and
-courageous with the strength of God, who resists evil and fosters good
-in the world" (*Ibid*.).
-
-If there\'s some habit or vice or weakness we have in our life, an area
-where the devil seeks us out and catches us out sometimes, we could ask
-Our Lady today "to crush the head of the serpent" (Gen. 3:15).
-
-"Our Lady speaks with us, she speaks to us, she invites us to know the
-Word of God, to love that Word, to live with it, and to think with it.
-
-"We can do that in many different ways: by reading Sacred Scripture, by
-participating in the Liturgy. ... She opens this book of the Word of God
-for us and makes it present in our lives.
-
-"Our Lady is taken up body and soul into the glory of Heaven, and with
-God and in God she is the Queen of Heaven and earth." ... At the same
-time, "she is very close to each one of us." She is one of us.
-
-She lived on earth. "While she was on earth, she could only be close to
-a few people. Being in God who is close to us, and actually,
-'within'...us, Mary shares in this closeness of God" (*Ibid*.).
-
-We\'re never alone. Even though we might feel alone, we know that
-that\'s not the reality. If we remind ourselves that Our Lady is beside
-us, we can find great comfort. She can hear our prayer.
-
-"She helps us with her motherly kindness. Our Lord has precisely told us
-that she is a mother we can turn to at every moment. ... We can entrust
-our whole lives to her."
-
-We can thank Our Lord on this feast day "for the gift of His mother and
-ask her to help us to find the right path every day" (*Ibid*.).
-
-And because Our Lady is in heaven, she communicates the hope of heaven
-to each one of us.
-
-We know that there are no lasting relics of her here on earth. Some
-churches and places enthusiastically claim that they have relics of this
-saint and of that saint, but no such claim can ever be made regarding
-Our Lady.
-
-Msgr. Ronald Knox has said that if anyone was still hoping to find the
-remnants of Our Lady here on earth, we could tell them that the Holy
-Father declared an end to all such investigations a long time ago.
-
-"We know where her body is: it is in heaven" (Ronald Knox, *Feasts of
-the Liturgical Year*).
-
-Pius XII said, "With the course of her earthly life brought to
-completion, the Immaculate Mother of God, the ever Virgin Mary, was
-taken body and soul into celestial glory" (Pius XII, Apostolic
-Constitution, *Munificentissimus Deus Defining the Dogma of the
-Assumption*, Point 44, November 1, 1950).
-
-It has been defined for all time. God did not want any form of
-corruption to enter the body of His mother. He had preserved her free
-from original sin. He preserved her virginity, even in the act of His
-birth. There was no corruption in the body of Mary.
-
-"It was fitting that in her death also, her Father and Son would not
-allow her body to undergo corruption" (cf. St. John Damascene, *Second
-Homily on the Dormition*).
-
-She was taken body and soul into heaven. This feast day is a feast of
-joy. It encourages each one of us along the pathway still remaining for
-us before we reach heaven.
-
-We can also be reminded of the importance of making that definite desire
-and resolution: I want to get to heaven. I\'m on my pathway to heaven.
-
-And to remind other people about it. St. Josemaría says: "Foster in your
-heart the glorious hope of heaven" (J. Escrivá, *The Way,* Point 668).
-
-We have an awful lot to look forward to. "Eye has not seen, nor ear
-heard, nor has it entered into the heart of man, the things that God has
-prepared for those who love him" (1 Cor. 2:9).
-
-It\'s worthwhile getting to heaven. Our Lady gives us the courage and
-the energy to reach the sanctity we are called to by our vocation.
-
-It is necessary that we struggle to be good children of God, as Blessed
-Álvaro said, "to make an effort to keep our souls clean through frequent
-sacramental Confession and the reception of the Eucharist.
-
-"In this way, we will reach heaven, not in the same way as the Most Holy
-Virgin did, since due to sin our bodies will experience corruption.
-
-"But if we die by God\'s grace, our soul will go to heaven, perhaps by
-way of purgatory first, so that we might put on the wedding garment
-indispensable for entering the heavenly banquet where we will see God
-'as He is' (1 John 3:2).
-
-"Later on, at the final resurrection of the dead, our bodies will also
-rise and be united with our glorified souls, and we will then receive
-the eternal reward" (Álvaro del Portillo, *Homily*, August 15, 1989).
+"Now a great sign appeared in heaven: a woman, robed with the sun, standing on the moon, and on her head a crown of twelve stars" (Rev. 12:1).
+
+Today is the Solemnity of the Assumption of Our Lady. As a consequence of her Divine Motherhood, Our Lady had special privileges.
+
+One was that she was immaculately conceived, preserved free from all stain of sin. And another was that it was not fitting, said St. Thomas Aquinas, that her body would undergo any form of corruption because she had been preserved immaculate from sin.
+
+It\'s thought that she was assumed into heaven. This was almost universally believed for more than a thousand years, although the Bible contains no mention of the Assumption of Our Lady into heaven.
+
+The first Church writer to speak about it was St. Gregory of Tours in 594. On May 1st, 1946, Pope Pius XII asked all the bishops in the world for their opinion about the Assumption of Our Lady into heaven, and whether or not it should be defined as a dogma of faith.
+
+\[All\] the bishops replied in the affirmative. On the 1st of November 1950, the Feast of All Saints, Pope Pius XII declared as a revealed dogma, a dogma revealed by God, that "Mary, the Immaculate \[perpetually\] Virgin Mother of God, after the completion of her earthly life, was assumed body and soul into heaven" (Pius XII, Apostolic Constitution, *Munificentissimus Deus Defining the Dogma of the Assumption*, November 1, 1950).
+
+We don\'t have any knowledge of the day or the year or the manner of Our Lady\'s death. Some dates which have been assigned to her death vary between three and fifteen years after Our Lord\'s Ascension. During this time, she would have been cared for by St. John and have attended his Masses.
+
+Both Jerusalem and Ephesus have been mentioned as places where she may have died. But we don\'t really know.
+
+It\'s thought that she died in the presence of the apostles. There\'s a lot of devotion that\'s given to what\'s called the "dormition" of Our Lady, Our Lady on her deathbed.
+
+There\'s also a belief that after her burial, her tomb, when opened, was found empty. Therefore, it was concluded that her body had been "taken up or assumed into heaven" (cf. *Catechism of the Catholic Church*, Point 966).
+
+When the Church defines the Assumption of Our Lady into heaven, it doesn\'t define the manner of her death or when it took place.All those details we will find out in heaven.
+
+St. Gregory of Tours said the rationale for this tradition lies in the fact that she was preserved free from original sin.
+
+He said it\'s inconceivable that Our Lady\'s sinless body, likened to the Ark of the Covenant which was made of incorruptible wood, should decay in the grave.
+
+There\'s a text from the Psalms that says: "Arise...you and the ark of your strength" (Ps. 132:8). It was understood to mean that it was God\'s will that as Christ had ascended into heaven, so too Our Lady would be received into heaven.
+
+Our Lord ascended into heaven by His own power. But we say that Our Lady was assumed because in her case it\'s passive. It is not the generation of her own power that leads her into heaven.
+
+She is assumed by God. This is how we explain this truth as being rational.
+
+Our Lord had no need of assistance because He was the second Person of the Blessed Trinity. But Our Lady didn\'t have this power.
+
+From the late 16th century onwards, there were many paintings in Christian art that depicted Our Lady as assumed into heaven. Our Lady appears as a woman adorned with the sun, standing on the moon, with twelve stars on her head for a crown.
+
+There was a lot of devotion to Our Lady under this title, and the theme of the heavenly Coronation of Our Lady as Queen of Heaven, well often represented also in Christian art, which more or less presumed that she must have been assumed into heaven also.
+
+"Today, in union with the whole Church, we celebrate the triumph of the Mother, Daughter, and Spouse of God. ... We can be happy that Our Lady, after accompanying Jesus from Bethlehem to the Cross, is now next to her Son, body and soul, glorious forever" (cf. Josemaría Escrivá, *Christ Is Passing By*, Point 176).
+
+The Entrance Antiphon of today\'s Mass says: "All honor to you, Mary! Today you were raised above the choirs of angels to lastingglory with Christ."
+
+The Ark of the Covenant was the sign of the presence of God in the midst of His People. Inside the Ark, His Word was kept, inscribed on "the two tablets of the Law" (Deut. 9:15).
+
+Today we look at Our Lady as the *Ark of the New Covenant*. We invoke her under that title in the *Litany of Loreto*, because in her womb, the Son of God, the Word made flesh, dwelt for nine months.
+
+With her Assumption into heaven she found her final abode in the heart of the Blessed Trinity.
+
+St. Amadeus said, "Mary was brought up to heaven amidst acclamations of joy and praise. She went directly into God\'s presence, and there took her throne in glory above all the angels and saints" (St. Amadeus of Lausanne, *Homilies in Praise of Blesssed Mary*).
+
+The Ark of the Old Testament was built with precious materials and adorned with gold in its interior. In the case of Our Lady, God bestowed on her untold gifts.
+
+Pope St. Paul VI uttered that Our Lady\'s "external beauty was a reflection of the plenitude of grace within" (Paul VI, *Address*, May 17, 1975). Thus, she was the new dwelling place of God in the world.
+
+It\'s appropriate that at a certain frequency, we turn our eyes to Mary. We look at her images, the most beautiful woman in the world, she who was so full of grace, the Lady in our life.
+
+Each time that we make a childlike glance at Our Mother to seek her help, her intercession, it\'s the best way we have of beseeching God, because she intercedes for us. She redirects our petitions if they\'re not altogether perfectly well-intentioned.
+
+The Second Vatican Council said, "Taken up to heaven, she does not lay aside \[this\] salvific duty...but by her constant intercession she continues to bring us the gifts of eternal salvation" (Vatican II, *Lumen gentium*, Point 62).
+
+In the *Furrow,* we're told, "Our Mother went up to Heaven, body and soul. Tell her often that we, her children, refuse to be separated from her. ... She will hear you!" (J. Escrivá, *Furrow*, Point 898).
+
+We can say to Our Lady: Mother of ours, you who are so close to God the Father, God the Son, and God the Holy Spirit, don\'t let us go from your hand. Don\'t let me go, or anyone else, my Mother.
+
+Our Lady is this great security. When we come to know our own weakness, we know that she will listen to us, no matter what circumstances we\'re in.
+
+Many years ago in another country, a lady used to come to see me, and she used to go to visit homeless people who were living under bridges. She would bring them food and other things that they needed.
+
+She told me, on one of these occasions, she discovered a man there that she had known twenty or thirty years previously. She recognized him. She talked to him, and he remembered her. They had worked together or something.
+
+But that man had made a couple of big mistakes in his life. He had left his family, he went off to another country, and he ended up in misery. He came back to his original country and became homeless; began living under the bridge.
+
+This man had been a member of the Legion of Mary at one stage in his life. So, this lady began to tell me about him and asked if she could bring him to see me.
+
+This was in a confessional box in a downtown church. One Friday morning, this lady brought this man to see me in the confessional box, and he went to Confession.
+
+That man told me, "You know, Father, I\'ve realized that after all these years, Our Lady has not forgotten me. Because I was in the Legion of Mary, she\'s been looking out for me all this time.
+
+"I made a mess of my life. I left my family. I ended up in total misery. I think I don\'t have too much longer to live"---I think he had cancer or something---\"but Our Lady has brought me back. I\'m very happy to make this confession."
+
+It was very beautiful to hear what he was saying, and how he had the experience of being a child of Mary, that Our Lady had never forgotten him. She sought him out in the difficult moments of his life.
+
+"The Feast of the Assumption of Our Lady is a day of joy. God has won. Love has triumphed. Love has shown that it is stronger than death, that God possesses the true strength, and that His strength is goodness and love.
+
+"Mary was taken up body and soul into heaven" so that one day she can help us to get there also. "There\'s even room in God for the body. Heaven is no longer a very remote sphere unknown to us.
+
+"We have a Mother in heaven. And the Mother of God and the Mother of the Son of God is Our Mother because He Himself has said so. Jesus made Our Lady Our Mother. He said, 'Behold your Mother!' (John 19:27).
+
+So we have a Mother in heaven. Heaven is open and heaven has a heart" (Benedict XVI, *Homily*, August 15, 2005). A heart is there, waiting for us.
+
+There\'s a story told of Our Lord telling St. Peter once at the gates of heaven to keep the gates of heaven tightly closed, not to let many people in, and to be very selective.
+
+Then Our Lord went away, and He came back some time later, and He found that heaven was packed. It was full of people.
+
+He went to St. Peter and said, "Look, I thought I told you to keep the gates of heaven tightly closed and to be very selective about whom you let in."
+
+St. Peter said, "Yes, Lord, but every time that I close the gates, your Mother keeps opening the windows." If we keep an eye on Our Lady, she\'ll help us in our hour of need.
+
+Our Lady says that beautiful prayer in the poem, the *Magnificat*. It came "from her lips and from her heart."
+
+In many ways, it mirrors "her entire soul, her entire personality. That poem is like a portrait of Our Lady, a true icon in which we can see her exactly as she is" (cf. Benedict XVI, *Ibid*.).
+
+"My soul magnifies the Lord; my spirit rejoices in God my Savior" (Luke 1:46-55).
+
+In many ways, "the *Magnifica*t is quite original. At the same time, it is a 'fabric' woven throughout with 'threads' of the Old Testament, of words of God.
+
+"We see that Our Lady was 'at home' with God\'s word, she lived on God\'s word, she was penetrated by God\'s word. To the extent that she spoke with God\'s words, she thought with God\'s words, her thoughts were God\'s thoughts; her words were God\'s words.
+
+"She was penetrated by divine light. This is why she\'s so resplendent, so good, so radiant with love and goodness" (cf. Benedict XVI, *Ibid*.).
+
+We can always turn to Our Lady and find an open heart there ready to receive us.
+
+"Mary lived on the Word of God and she was imbued with the Word of God. The fact that she was immersed in the Word of God and was \[totally\] familiar with the Word also endowed her later with the inner enlightenment to wisdom.
+
+"Whoever thinks with God thinks well. Whoever speaks to God speaks well. They have valid criteria to judge all things in the world. They become prudent, wise, and at the same time, good; they also become strong and courageous with the strength of God, who resists evil and fosters good in the world" (*Ibid*.).
+
+If there\'s some habit or vice or weakness we have in our life, an area where the devil seeks us out and catches us out sometimes, we could ask Our Lady today "to crush the head of the serpent" (Gen. 3:15).
+
+"Our Lady speaks with us, she speaks to us, she invites us to know the Word of God, to love that Word, to live with it, and to think with it.
+
+"We can do that in many different ways: by reading Sacred Scripture, by participating in the Liturgy. ... She opens this book of the Word of God for us and makes it present in our lives.
+
+"Our Lady is taken up body and soul into the glory of Heaven, and with God and in God she is the Queen of Heaven and earth." ... At the same time, "she is very close to each one of us." She is one of us.
+
+She lived on earth. "While she was on earth, she could only be close to a few people. Being in God who is close to us, and actually, 'within'...us, Mary shares in this closeness of God" (*Ibid*.).
+
+We\'re never alone. Even though we might feel alone, we know that that\'s not the reality. If we remind ourselves that Our Lady is beside us, we can find great comfort. She can hear our prayer.
+
+"She helps us with her motherly kindness. Our Lord has precisely told us that she is a mother we can turn to at every moment. ... We can entrust our whole lives to her."
+
+We can thank Our Lord on this feast day "for the gift of His mother and ask her to help us to find the right path every day" (*Ibid*.).
+
+And because Our Lady is in heaven, she communicates the hope of heaven to each one of us.
+
+We know that there are no lasting relics of her here on earth. Some churches and places enthusiastically claim that they have relics of this saint and of that saint, but no such claim can ever be made regarding Our Lady.
+
+Msgr. Ronald Knox has said that if anyone was still hoping to find the remnants of Our Lady here on earth, we could tell them that the Holy Father declared an end to all such investigations a long time ago.
+
+"We know where her body is: it is in heaven" (Ronald Knox, *Feasts of the Liturgical Year*).
+
+Pius XII said, "With the course of her earthly life brought to completion, the Immaculate Mother of God, the ever Virgin Mary, was taken body and soul into celestial glory" (Pius XII, Apostolic Constitution, *Munificentissimus Deus Defining the Dogma of the Assumption*, Point 44, November 1, 1950).
+
+It has been defined for all time. God did not want any form of corruption to enter the body of His mother. He had preserved her free from original sin. He preserved her virginity, even in the act of His birth. There was no corruption in the body of Mary.
+
+"It was fitting that in her death also, her Father and Son would not allow her body to undergo corruption" (cf. St. John Damascene, *Second Homily on the Dormition*).
+
+She was taken body and soul into heaven. This feast day is a feast of joy. It encourages each one of us along the pathway still remaining for us before we reach heaven.
+
+We can also be reminded of the importance of making that definite desire and resolution: I want to get to heaven. I\'m on my pathway to heaven.
+
+And to remind other people about it. St. Josemaría says: "Foster in your heart the glorious hope of heaven" (J. Escrivá, *The Way,* Point 668).
+
+We have an awful lot to look forward to. "Eye has not seen, nor ear heard, nor has it entered into the heart of man, the things that God has prepared for those who love him" (1 Cor. 2:9).
+
+It\'s worthwhile getting to heaven. Our Lady gives us the courage and the energy to reach the sanctity we are called to by our vocation.
+
+It is necessary that we struggle to be good children of God, as Blessed Álvaro said, "to make an effort to keep our souls clean through frequent sacramental Confession and the reception of the Eucharist.
+
+"In this way, we will reach heaven, not in the same way as the Most Holy Virgin did, since due to sin our bodies will experience corruption.
+
+"But if we die by God\'s grace, our soul will go to heaven, perhaps by way of purgatory first, so that we might put on the wedding garment indispensable for entering the heavenly banquet where we will see God 'as He is' (1 John 3:2).
+
+"Later on, at the final resurrection of the dead, our bodies will also rise and be united with our glorified souls, and we will then receive the eternal reward" (Álvaro del Portillo, *Homily*, August 15, 1989).
 
 We will then join Jesus and His Most Holy Mother in endless joy.
 
-Possibly we don\'t think enough about what that means: eternal
-happiness. When someone dies or is about to die, we don\'t have to be
-sad. It\'s not the end; it\'s the beginning.
+Possibly we don\'t think enough about what that means: eternal happiness. When someone dies or is about to die, we don\'t have to be sad. It\'s not the end; it\'s the beginning.
 
-We may miss the person for a while---that\'s a natural human grief
-reaction---but our Christian faith can give us the great assurance that
-hopefully, this person is enjoying that eternal beatitude to which they
-were called.
+We may miss the person for a while---that\'s a natural human grief reaction---but our Christian faith can give us the great assurance that hopefully, this person is enjoying that eternal beatitude to which they were called.
 
-The other message of this feast day is that being faithful is
-worthwhile.
+The other message of this feast day is that being faithful is worthwhile.
 
-St. Josemaría says in *The Way* (cf. Point 182): "What does it matter if
-we suffer for ten, twenty, thirty, forty years...if afterwards there is
-heaven forever and forever and forever?"
+St. Josemaría says in *The Way* (cf. Point 182): "What does it matter if we suffer for ten, twenty, thirty, forty years...if afterwards there is heaven forever and forever and forever?"
 
-He liked to say also, "How little a life is to give to God!" (J.
-Escrivá, *The Way*, Point 420).
+He liked to say also, "How little a life is to give to God!" (J. Escrivá, *The Way*, Point 420).
 
-Every time that we say "yes" to Our Lord in our struggle, it\'s
-worthwhile.
+Every time that we say "yes" to Our Lord in our struggle, it\'s worthwhile.
 
-Mary, help me to say yes more frequently, to think of the reward, the
-prize that\'s waiting for me.
+Mary, help me to say yes more frequently, to think of the reward, the prize that\'s waiting for me.
 
-It\'s worthwhile that I reject firmly anything that can separate me from
-you and my journey to heaven, so that I may respond positively to
-everything that God may be asking of me.
+It\'s worthwhile that I reject firmly anything that can separate me from you and my journey to heaven, so that I may respond positively to everything that God may be asking of me.
 
-We\'re told in the Preface of the Mass for the Deceased: "Let us then be
-filled with hope and confidence" (Heb. 4:16).
+We\'re told in the Preface of the Mass for the Deceased: "Let us then be filled with hope and confidence" (Heb. 4:16).
 
-"In spite of our shortcomings, we can be saints if we struggle one day
-after another, if we purify our souls in the Sacrament of Penance," said
-Blessed Álvaro, "and if we frequently receive 'the living bread that has
-come down from heaven' (John 6:41), the Body and Blood, Soul and
-Divinity of Our Lord Jesus Christ, truly present in the Eucharist.
+"In spite of our shortcomings, we can be saints if we struggle one day after another, if we purify our souls in the Sacrament of Penance," said Blessed Álvaro, "and if we frequently receive 'the living bread that has come down from heaven' (John 6:41), the Body and Blood, Soul and Divinity of Our Lord Jesus Christ, truly present in the Eucharist.
 
-"And when the moment to render an account of our soul to God comes, we
-shall not fear death. Dying will be like moving to a new home for us. It
-will come when God wants.
+"And when the moment to render an account of our soul to God comes, we shall not fear death. Dying will be like moving to a new home for us. It will come when God wants.
 
-"It will be a liberation, the beginning of Life with a capital L. 'Life
-is changed, but it does not end for us' (Preface I of the Mass for the
-Deceased), because we will begin to live in a new way, closely united to
-Our Lady, to eternally adore the Most Blessed Trinity, Father, Son and
-Holy Spirit. This is the prize awaiting us" (Álvaro del Portillo,
-*Homily*, August 15, 1989).
+"It will be a liberation, the beginning of Life with a capital L. 'Life is changed, but it does not end for us' (Preface I of the Mass for the Deceased), because we will begin to live in a new way, closely united to Our Lady, to eternally adore the Most Blessed Trinity, Father, Son and Holy Spirit. This is the prize awaiting us" (Álvaro del Portillo, *Homily*, August 15, 1989).
 
-In the meantime, Our Lady helps us from heaven each day in our troubles
-and difficulties.
+In the meantime, Our Lady helps us from heaven each day in our troubles and difficulties.
 
-Mary, may I not forget to seek your help, particularly on great days
-like today. It\'s one of the greatest feast days of Our Lady and the
-whole of the liturgical year.
+Mary, may I not forget to seek your help, particularly on great days like today. It\'s one of the greatest feast days of Our Lady and the whole of the liturgical year.
 
-Chesterton liked to say, "The angels fly because they take themselves
-lightly" (G.K. Chesterton, *Orthodoxy*).
+Chesterton liked to say, "The angels fly because they take themselves lightly" (G.K. Chesterton, *Orthodoxy*).
 
-We could say that Mary also flew because she took herself lightly. We
-could ask her that we too might take ourselves lightly, and not give
-ourselves too much importance.
+We could say that Mary also flew because she took herself lightly. We could ask her that we too might take ourselves lightly, and not give ourselves too much importance.
 
-Our Lady is weightless, free from the heaviness of the self, so that she
-can be wholly taken up in Christ\'s lips for you.
+Our Lady is weightless, free from the heaviness of the self, so that she can be wholly taken up in Christ\'s lips for you.
 
-"The Mother of God has fallen asleep," says St. Josemaría in the *Holy
-Rosary*, the Fourth Glorious Mystery. "But Jesus wants to have His
-Mother, body and soul, in Heaven. And the heavenly Court, arrayed in all
-its splendor, greets Our Lady.
+"The Mother of God has fallen asleep," says St. Josemaría in the *Holy Rosary*, the Fourth Glorious Mystery. "But Jesus wants to have His Mother, body and soul, in Heaven. And the heavenly Court, arrayed in all its splendor, greets Our Lady.
 
-"You and I---children after all---take the train of Mary\'s magnificent
-blue cloak, and so we can watch the marvelous scene. The Most Blessed
-Trinity receives and showers honors on the Daughter, Mother, and Spouse
-of God. ... And so great is Our Lady\'s majesty that the angels exclaim:
-'Who is she?'"
+"You and I---children after all---take the train of Mary\'s magnificent blue cloak, and so we can watch the marvelous scene. The Most Blessed Trinity receives and showers honors on the Daughter, Mother, and Spouse of God. ... And so great is Our Lady\'s majesty that the angels exclaim: 'Who is she?'"
 
-Every time that we come to the Fourth Glorious Mystery, we could try to
-contemplate that glorious reality.
+Every time that we come to the Fourth Glorious Mystery, we could try to contemplate that glorious reality.
 
-Our Lady\'s privileges are related to her Motherhood and, as such, with
-our redemption too. Taken into heaven, Mary is an image and forerunner
-of the Church, still on the way toward eternal life.
+Our Lady\'s privileges are related to her Motherhood and, as such, with our redemption too. Taken into heaven, Mary is an image and forerunner of the Church, still on the way toward eternal life.
 
-In the Second Vatican Council, *Lumen gentium*, it says that from heaven
-"she shines forth until the day of the Lord shall come, as a sure sign
-of hope and solace for the people of God during their sojourn on earth."
+In the Second Vatican Council, *Lumen gentium*, it says that from heaven "she shines forth until the day of the Lord shall come, as a sure sign of hope and solace for the people of God during their sojourn on earth."
 
-John Paul II in *Redemptoris Mater* says: "By the mystery of the
-Assumption into heaven, there were definitively accomplished in Mary all
-the effects of the one mediation of Christ, the Redeemer of the world
-and Risen Lord....
+John Paul II in *Redemptoris Mater* says: "By the mystery of the Assumption into heaven, there were definitively accomplished in Mary all the effects of the one mediation of Christ, the Redeemer of the world and Risen Lord....
 
-"In the mystery of the Assumption is expressed the faith of the Church,
-according to which Mary is 'united by a close and indissoluble bond' to
-Christ" (John Paul II, Encyclical, *Redemptoris Mater*, Point 41, March
-25, 1987).
+"In the mystery of the Assumption is expressed the faith of the Church, according to which Mary is 'united by a close and indissoluble bond' to Christ" (John Paul II, Encyclical, *Redemptoris Mater*, Point 41, March 25, 1987).
 
-Mary, may you continue to be our Great Advocate before God Most High.
-Help us to look to you, Mary, frequently.
+Mary, may you continue to be our Great Advocate before God Most High. Help us to look to you, Mary, frequently.
 
-We need to examine the quality of our daily dealings with her. In *The
-Forge*, we're told, "If you feel proud to be a child of Our Lady, ask
-yourself: How often do I express my devotion to Our Lady during the day,
-from morning until night?" (J. Escrivá, *The Forge*, Point 433).
+We need to examine the quality of our daily dealings with her. In *The Forge*, we're told, "If you feel proud to be a child of Our Lady, ask yourself: How often do I express my devotion to Our Lady during the day, from morning until night?" (J. Escrivá, *The Forge*, Point 433).
 
-In the Communion Antiphon of today\'s Mass, it says: "Blessed is the
-womb of the Virgin Mary. She carried the Son of the eternal Father"
-(Luke 11:27).
+In the Communion Antiphon of today\'s Mass, it says: "Blessed is the womb of the Virgin Mary. She carried the Son of the eternal Father" (Luke 11:27).
 
-Mary assumed into heaven, may you help us to rejoice as all the angels
-did.
+Mary assumed into heaven, may you help us to rejoice as all the angels did.
 
-*I thank you, my God, for the good resolutions, affections, and
-inspirations that you have communicated to me during this meditation. I
-ask your help to put them into practice. My Immaculate Mother, St.
-Joseph, my father, and lord, my guardian angel, intercede for me.*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, St. Joseph, my father, and lord, my guardian angel, intercede for me.*
 
 *In the name of the Father, and of the Son, and the Holy Spirit. Amen.*
 
