@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Complete parallel conversion wrapper for convert_fast.sh
-# Ensures ALL files are processed with robust progress tracking
+# Parallel conversion wrapper for convert_fast.sh
+# Processes multiple files simultaneously for faster conversion
 
 # Set the source and destination directories
 source_dir="/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/transcript_proofread_MSWord"
@@ -14,6 +14,7 @@ CONVERT_SCRIPT="./convert_fast.sh"
 mkdir -p "$dest_dir"
 
 # Determine number of CPU cores for optimal parallelism
+# Use 75% of available cores to avoid overwhelming the system
 if command -v nproc &>/dev/null; then
     NUM_CORES=$(nproc)
 elif [ -f /proc/cpuinfo ]; then
@@ -27,126 +28,94 @@ MAX_JOBS=$(( NUM_CORES * 3 / 4 ))
 
 echo "Using $MAX_JOBS parallel processes"
 
-# Create a list of all files to process
-file_list=$(mktemp)
-find "$source_dir" -name "*.doc*" > "$file_list"
-total=$(wc -l < "$file_list")
-echo "Found $total files to process"
+# Create a permanent directory for logs in the current directory
+log_dir="./conversion_logs_$(date +%Y%m%d_%H%M%S)"
+mkdir -p "$log_dir"
+success_log="$log_dir/success.log"
+error_log="$log_dir/error.log"
+progress_log="$log_dir/progress.log"
+touch "$success_log" "$error_log" "$progress_log"
 
-# Create tracking files
-processed_marker=$(mktemp)
-success_list=$(mktemp)
-failed_list=$(mktemp)
+echo "Logs will be stored in: $log_dir"
 
-# Process a single file
-process_file() {
-    local input_file="$1"
-    local base_name=$(basename "$input_file" | sed 's/\.doc[x]*$/.md/')
-    local output_file="$dest_dir/$base_name"
+# Initialize the progress log
+echo "0" > "$progress_log"
 
-    # Perform the conversion
-    if "$CONVERT_SCRIPT" "$input_file" > "$output_file" 2>/dev/null; then
-        # Report success
-        echo "$input_file" >> "$success_list"
+# Function to convert a single file
+convert_file() {
+    local doc_file="$1"
+    local markdown_file="$dest_dir/$(basename "$doc_file" | sed 's/\.doc[x]*$/.md/')"
+
+    # Convert the file
+    if "$CONVERT_SCRIPT" "$doc_file" > "$markdown_file" 2>/dev/null; then
+        # Use atomic file operations for thread safety
+        echo "✓ $(basename "$doc_file")" >> "${success_log}.tmp.$$"
+        mv "${success_log}.tmp.$$" "${success_log}.$$"
+        cat "${success_log}.$$" >> "$success_log"
+        rm "${success_log}.$$"
     else
-        # Report failure
-        echo "$input_file" >> "$failed_list"
+        echo "✗ $(basename "$doc_file")" >> "${error_log}.tmp.$$"
+        mv "${error_log}.tmp.$$" "${error_log}.$$"
+        cat "${error_log}.$$" >> "$error_log"
+        rm "${error_log}.$$"
     fi
 
-    # Mark as processed (for progress tracking)
-    echo "x" >> "$processed_marker"
+    # Increment progress counter atomically
+    lock_file="${progress_log}.lock"
+    while ! mkdir "$lock_file" 2>/dev/null; do
+        sleep 0.1
+    done
+    current=$(cat "$progress_log")
+    echo $((current + 1)) > "$progress_log"
+    rmdir "$lock_file"
 }
 
-# Export function and variables for subshell use
-export -f process_file
-export CONVERT_SCRIPT
-export dest_dir
-export success_list
-export failed_list
-export processed_marker
+# Count total .doc/.docx files in the source directory
+mapfile -t all_files < <(find "$source_dir" -name "*.doc*")
+total=${#all_files[@]}
+echo "Found $total files to process"
 
-# Use GNU Parallel if available (much more reliable than xargs)
-if command -v parallel &>/dev/null; then
-    echo "Using GNU Parallel for processing"
-    cat "$file_list" | parallel -j $MAX_JOBS process_file
-else
-    # Alternative approach - process files in batches
-    echo "Using batch processing"
-
-    # Split the file list into smaller chunks
-    split -l 10 "$file_list" "$file_list.chunk."
-    chunks=$(ls "$file_list.chunk."*)
-
-    for chunk in $chunks; do
-        # Process up to MAX_JOBS files in parallel from this chunk
-        cat "$chunk" | while read -r file; do
-            # Wait if we already have MAX_JOBS running
-            while [ "$(jobs -r | wc -l)" -ge "$MAX_JOBS" ]; do
-                sleep 0.5
-            done
-
-            # Process this file in the background
-            process_file "$file" &
-
-            # Show progress
-            processed=$(wc -l < "$processed_marker" 2>/dev/null || echo 0)
-            percent=$((processed * 100 / total))
-            printf "\rProgress: [%-50s] %d%% (%d/%d)" \
-                "$(printf '#%.0s' $(seq 1 $(( percent / 2 ))))" \
-                "$percent" "$processed" "$total"
-        done
-
-        # Wait for this batch to complete before starting the next
-        wait
+# Process files in parallel
+for doc_file in "${all_files[@]}"; do
+    # Wait if we've reached the maximum number of background jobs
+    while [ $(jobs -p | wc -l) -ge $MAX_JOBS ]; do
+        sleep 0.1
     done
 
-    # Clean up chunk files
-    rm -f "$file_list.chunk."*
-fi
+    # Start the conversion in the background
+    convert_file "$doc_file" &
 
-# Wait for all background processes to complete
+    # Show live progress based on completed files
+    completed=$(cat "$progress_log")
+    percent=$(( completed * 100 / total ))
+    printf "\rProgress: [%-50s] %d%% (%d/%d)" \
+        "$(printf '#%.0s' $(seq 1 $(( percent / 2 ))))" \
+        "$percent" "$completed" "$total"
+done
+
+# Wait for all background jobs to complete
 wait
 
 # Final statistics
-success_count=$(wc -l < "$success_list" 2>/dev/null || echo 0)
-failed_count=$(wc -l < "$failed_list" 2>/dev/null || echo 0)
-processed_count=$((success_count + failed_count))
+completed=$(wc -l < "$success_log")
+errors=$(wc -l < "$error_log")
 
 echo
 echo "Conversion complete!"
-echo "Successfully converted: $success_count files"
-echo "Failed conversions: $failed_count files"
-echo "Total processed: $processed_count of $total files"
+echo "Successfully converted: $completed files"
+echo "Failed conversions: $errors files"
 
-# Verify all files were processed
-if [ "$processed_count" -ne "$total" ]; then
-    echo "WARNING: Not all files were processed!"
-    echo "Missing: $((total - processed_count)) files"
-
-    # Find which files were missed
-    echo "Identifying missed files..."
-    tmp_all=$(mktemp)
-    tmp_processed=$(mktemp)
-
-    # Create lists for comparison
-    cat "$file_list" > "$tmp_all"
-    cat "$success_list" "$failed_list" > "$tmp_processed"
-
-    # Find files in all list but not in processed list
-    echo "Missed files:"
-    grep -v -f "$tmp_processed" "$tmp_all" || echo "Could not determine missed files"
-
-    # Clean up
-    rm -f "$tmp_all" "$tmp_processed"
+# List any files that weren't processed
+if [ $((completed + errors)) -lt $total ]; then
+    echo "Warning: $(($total - completed - errors)) files were not processed:"
+    for doc_file in "${all_files[@]}"; do
+        filename=$(basename "$doc_file")
+        if ! grep -q "$filename" "$success_log" && ! grep -q "$filename" "$error_log"; then
+            echo "  - $filename"
+        fi
+    done
 fi
 
-# List failed files if any
-if [ "$failed_count" -gt 0 ]; then
-    echo "Failed files:"
-    cat "$failed_list"
-fi
-
-# Clean up
-rm -f "$file_list" "$processed_marker" "$success_list" "$failed_list"
+echo "Detailed logs available in: $log_dir"
 
 exit 0
