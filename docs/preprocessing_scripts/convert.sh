@@ -1,4 +1,5 @@
 #!/bin/bash
+# We don't use this code anymore. It's too slow. We use convert_fast.sh instead.
 
 # Script to extract the title and body from a DOCX file
 # - Uses LibreOffice to extract the first line as the title
@@ -25,6 +26,7 @@ temp_file=$(mktemp)
 
 # Use LibreOffice to convert DOCX to a plain text file, suppressing output
 # LibreOffice will save the converted file in the same directory as the input
+# This is the slowest part of the script. It's better to use convert_fast.sh
 /Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to "txt:Text (encoded):UTF8" "$input_docx" > /dev/null 2>&1
 
 
