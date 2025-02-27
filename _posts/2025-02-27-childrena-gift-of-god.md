@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Children, A Gift of God"
+title: "Children—A Gift of God"
 ---
 
 By Fr. Conor Donnelly
@@ -141,7 +141,7 @@ intellectual conversation, and doesn\'t give the impression that the
 last time that an idea went through her head was before she got married.
 
 This lady painted a picture reminiscent of St. Paul who says, "We have
-to be all things to all men" (cf. 1 Cor. 9:22).
+to be all things to all men" (*cf*. 1 Cor. 9:22).
 
 Just as a mother has to try and be different things to her growing
 children at different stages of their development, so also, a father has
@@ -162,12 +162,12 @@ God wants us to become good at this business of parenting---good at
 taking care of these gifts, the different ways that they express
 themselves.
 
-There was a man in Ireland many years ago---he was very successful
+There was a man in Ireland many years ago---he was very successful,
 actually---one of the most prominent actuaries in the country. Very
 prestigious profession there.
 
 He began to attend recollections of Opus Dei. Little by little he sort
-of went on to change. He said afterward, "You know, I always thought
+of underwent a change. He said afterward, "You know, I always thought
 that the most important thing in my life was my work."
 
 He had eight children, and through the formation that he received, he
@@ -181,7 +181,7 @@ which he looked at his work.
 He installed a filing cabinet in his home. He opened a file on each one
 of his children. He had weekly board meetings with his wife, planning
 sessions, quarterly goals, monthly goals, weekly goals for each of the
-children. He had five to ten-minute reporting sessions with each one of
+children. He had five- to ten-minute reporting sessions with each one of
 the children.
 
 He organized his family along the same lines as he organized his office.
@@ -200,18 +200,20 @@ Families*, February 2, 1994); the "culture of life" and "the womb is the
 sanctuary of life" (John Paul II, Encyclical, *Evangelium Vitae*, March
 25, 1995).
 
-The family is the school of love, the school of virtue, the school of
-piety, the school of the soul. He said, "The future of humanity passes
-through the family" (John Paul II, Apostolic Exhortation, *Familiaris
-consortio*, Point 86, November 22, 1981).
+The family is the school of love, the school of virtue (John Paul II,
+*Address*, October 28, 1979), the school of piety, the school of the
+soul. He said, "The future of humanity passes through the family" (John
+Paul II, Apostolic Exhortation, *Familiaris consortio*, Point 86,
+November 22, 1981).
 
 We can get a lot of mileage out of thinking that Christ spent thirty
 years---not thirty days, but thirty years---living out a humble presence
 in the family.
 
 "He went down with them, and came to Nazareth, and was subject to them.
-And his mother kept all these sayings carefully in her heart. And Jesus
-advanced in wisdom and age and grace before God and men" (Luke 2:51-52).
+And his mother kept all these things \[carefully\] in her heart. And
+Jesus advanced in wisdom and age and grace before God and men" (Luke
+2:51-52).
 
 We have to try and create a family atmosphere in our home. Create the
 home. The tables and the chairs and the furniture and the material
@@ -340,8 +342,8 @@ At breakfast that day, I sat in his place at the dining room table. I
 felt like a king. But then he kept his promise: never again.
 
 Sometimes there are little things we can do that don\'t cost any money,
-but yet which conveys an important message about what is important in
-our life.
+but yet which convey an important message about what is important in our
+life.
 
 Children are a gift of God, and that gift in particular is the gift of
 their soul.
@@ -350,10 +352,11 @@ We spend an awful lot of time thinking about the bodies of your
 children---clothes, food, all the material necessities, education. But
 the spiritual realities are much greater.
 
-One of the greatest truths of our faith is the immortality of the soul.
-We don\'t think enough about the soul. If you think for a moment, when
-was the last time in a newspaper article, a magazine, or a movie that I
-heard anybody mentioning the soul?
+One of the greatest truths of our faith is the immortality of the soul
+(*Catechism* *of the Catholic Church*, Point 366). We don\'t think
+enough about the soul. If you think for a moment, when was the last time
+in a newspaper article, a magazine, or a movie that I heard anybody
+mentioning the soul?
 
 All the great religions of the world believe in the spiritual nature of
 man---Hinduism, Buddhism, Islam, Judaism, Christianity. Only modern
@@ -436,8 +439,8 @@ without being told.
 
 James Stenson, that same parenting expert, says that parents have to
 repeat things 500 times for their children, and they only get them on
-the five hundred and first. A lot of your sanctity may be tied up in
-that repetition of 500 times.
+the 501st. A lot of your sanctity may be tied up in that repetition of
+500 times.
 
 Johann Wolfgang von Goethe, a famous German philosopher, said, "Treat
 people as if they were what they ought to be and you help them to become
@@ -472,14 +475,15 @@ goal is not just to make them technically skilled.
 But the enemy of parents is not boredom. We\'re not just here to keep
 them busy and active.
 
-The goal, rather, is to raise children to become competent, responsible,
-generous, considerate men and women who are committed to living by
-principles all their lives, no matter what the cost. The goal is to
-raise adults, not children.
+The goal, rather, is to raise children "to become competent,
+responsible, generous, considerate men and women who are committed to
+living by principles" all their lives, no matter what the cost. The goal
+is "to raise adults, not children" (James Stenson, *Father, the Family
+Protector*).
 
 When we look at the home in Nazareth, that place where Christ wanted to
 spend so much time, where He grew and became strong, full of wisdom, and
-the grace of God was upon him, we can derive a lot of inspiration on how
+the grace of God was upon Him, we can derive a lot of inspiration on how
 to take care and form and grow with the gifts that God has given to us.
 
 We can ask Our Lady, Mother of the family and of the domestic Church, to

@@ -1,4 +1,6 @@
 #!/bin/bash
+# Script to quickly extract the title and body from a DOCX file using only Pandoc
+# Outputs the formatted document to STDOUT
 
 if [ "$#" -ne 1 ]; then
     echo "Usage: $0 <input_docx_file>"
@@ -12,26 +14,33 @@ if [ ! -f "$input_docx" ]; then
     exit 1
 fi
 
-# Extract metadata (including title) and body using Pandoc
-metadata=$(pandoc -s --metadata-file=/dev/null --to=markdown "$input_docx" -M title 2>/dev/null)
-body=$(pandoc -s --to=markdown "$input_docx" 2>/dev/null)
+# First, extract metadata to get the title
+metadata=$(pandoc --standalone --template=default "$input_docx" --to=plain 2>/dev/null)
+title=$(echo "$metadata" | head -n 1 | sed 's/[^[:print:]]//g' | sed 's/^[ \t]*//;s/[ \t]*$//')
 
-# Check if Pandoc extracted the title successfully (using sed)
-title=$(echo "$metadata" | sed -n 's/^title: //p')
+# If title extraction failed or title is empty, try a different approach
 if [ -z "$title" ]; then
-    echo "Error: Failed to extract title using Pandoc.  Check document properties."
-    exit 1
+    # Try to extract from the raw body text (first line)
+    title=$(pandoc "$input_docx" --to=plain 2>/dev/null | head -n 1 | sed 's/[^[:print:]]//g' | sed 's/^[ \t]*//;s/[ \t]*$//')
+
+    if [ -z "$title" ]; then
+        echo "Error: Failed to extract title from '$input_docx'."
+        exit 1
+    fi
 fi
 
-# Check if Pandoc converted body successfully.
+# Convert body to markdown without YAML front matter
+body=$(pandoc "$input_docx" --to=markdown --wrap=none 2>/dev/null)
+
+# Verify that the Pandoc conversion was successful
 if [ -z "$body" ]; then
     echo "Error: Failed to convert body from '$input_docx' using Pandoc."
     exit 1
 fi
 
-# Output the extracted title and converted body
+# Output the extracted title and converted body in Markdown format
 {
     echo "# $title"
     echo
     echo "$body"
-} | sed '/^convert .* as a Writer document/d'
+} | sed '/^---$/,/^---$/d' | sed '/^convert .* as a Writer document/d'
