@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "The Unmerciful Servan"
+title: "The Unmerciful Servant"
 ---
 
 By Fr. Conor Donnelly

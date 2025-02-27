@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Preparing for Retrea"
+title: "Preparing for Retreat"
 ---
 
 By Fr. Conor Donnelly

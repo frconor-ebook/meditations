@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "The Passion of St. John the Baptis"
+title: "The Passion of St. John the Baptist"
 ---
 
 By Fr. Conor Donnelly

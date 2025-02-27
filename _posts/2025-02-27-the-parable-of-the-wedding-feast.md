@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "The Parable of The Wedding Feas"
+title: "The Parable of The Wedding Feast"
 ---
 
 By Fr. Conor Donnelly

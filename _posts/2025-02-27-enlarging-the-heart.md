@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Enlarging the Hear"
+title: "Enlarging the Heart"
 ---
 
 By Fr. Conor Donnelly

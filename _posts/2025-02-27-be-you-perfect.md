@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Be You Perfec"
+title: "Be You Perfect"
 ---
 
 By Fr. Conor Donnelly

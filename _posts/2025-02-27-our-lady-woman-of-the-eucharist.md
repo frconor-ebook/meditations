@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Our Lady, Woman of the Eucharis"
+title: "Our Lady, Woman of the Eucharist"
 ---
 
 By Fr. Conor Donnelly

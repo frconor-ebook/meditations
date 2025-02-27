@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "St. John the Baptis"
+title: "St. John the Baptist"
 ---
 
 By Fr. Conor Donnelly

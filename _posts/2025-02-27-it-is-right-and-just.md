@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "It Is Right and Jus"
+title: "It Is Right and Just"
 ---
 
 By Fr. Conor Donnelly

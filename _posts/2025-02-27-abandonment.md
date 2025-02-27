@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Abandonmen"
+title: "Abandonment"
 ---
 
 By Fr. Conor Donnelly

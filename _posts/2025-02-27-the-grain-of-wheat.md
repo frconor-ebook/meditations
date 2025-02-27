@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "The Grain of Whea"
+title: "The Grain of Wheat"
 ---
 
 By Fr. Conor Donnelly

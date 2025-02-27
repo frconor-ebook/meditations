@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Christ the Ligh"
+title: "Christ the Light"
 ---
 
 By Fr. Conor Donnelly

@@ -16,12 +16,32 @@ fi
 
 # First, extract metadata to get the title
 metadata=$(pandoc --standalone --template=default "$input_docx" --to=plain 2>/dev/null)
-title=$(echo "$metadata" | head -n 1 | sed 's/[^[:print:]]//g' | sed 's/^[ \t]*//;s/[ \t]*$//')
+
+# Extract title carefully without using regex for removal
+raw_title=$(echo "$metadata" | head -n 1)
+# Remove carriage returns without sed
+raw_title=$(echo -n "$raw_title" | tr -d '\r')
+# Trim whitespace from beginning and end
+title=$(echo -n "$raw_title" | awk '{$1=$1};1')
+
+# Special handling for titles ending with "t" - check if the filename contains the full title
+if [[ "$title" == *[^t] ]]; then
+    # Not ending with 't', so we're probably fine
+    :
+else
+    # Might be ending with 't', check filename
+    base_name=$(basename "$input_docx" .docx | sed 's/\.[A-Za-z]*pr$//')
+    if [[ "$base_name" == *t && "$title" == "${base_name:0:-1}" ]]; then
+        # If filename ends with 't' and matches our title except for the 't', use filename
+        title="$base_name"
+    fi
+fi
 
 # If title extraction failed or title is empty, try a different approach
 if [ -z "$title" ]; then
     # Try to extract from the raw body text (first line)
-    title=$(pandoc "$input_docx" --to=plain 2>/dev/null | head -n 1 | sed 's/[^[:print:]]//g' | sed 's/^[ \t]*//;s/[ \t]*$//')
+    raw_title=$(pandoc "$input_docx" --to=plain 2>/dev/null | head -n 1)
+    title=$(echo -n "$raw_title" | tr -d '\r' | awk '{$1=$1};1')
 
     if [ -z "$title" ]; then
         echo "Error: Failed to extract title from '$input_docx'."

@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "The Precious Blood of Chris"
+title: "The Precious Blood of Christ"
 ---
 
 By Fr. Conor Donnelly

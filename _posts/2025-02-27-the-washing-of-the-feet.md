@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "The Washing of the Fee"
+title: "The Washing of the Feet"
 ---
 
 By Fr. Conor Donnelly

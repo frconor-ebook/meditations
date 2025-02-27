@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Clean of Hear"
+title: "Clean of Heart"
 ---
 
 By Fr. Conor Donnelly

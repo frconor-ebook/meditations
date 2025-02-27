@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "The Curing of the Man with an Unclean Spiri"
+title: "The Curing of the Man with an Unclean Spirit"
 ---
 
 By Fr. Conor Donnelly

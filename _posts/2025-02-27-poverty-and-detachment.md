@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Poverty and Detachmen"
+title: "Poverty and Detachment"
 ---
 
 By Fr. Conor Donnelly

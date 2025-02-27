@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Begin Again, Fight the Figh"
+title: "Begin Again, Fight the Fight"
 ---
 
 Begin Again, Fight the Fight

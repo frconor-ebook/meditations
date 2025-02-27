@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Purity of the Hear"
+title: "Purity of the Heart"
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Salt and Ligh"
+title: "Salt and Light"
 ---
 
 By Fr. Conor Donnelly

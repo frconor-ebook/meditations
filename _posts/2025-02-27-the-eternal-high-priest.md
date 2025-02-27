@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "The Eternal High Pries"
+title: "The Eternal High Priest"
 ---
 
 By Fr. Conor Donnelly

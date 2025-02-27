@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "The Magnifica"
+title: "The Magnificat"
 ---
 
 By Fr. Conor Donnelly

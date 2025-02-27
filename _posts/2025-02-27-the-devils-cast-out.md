@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "The Devils Cast Ou"
+title: "The Devils Cast Out"
 ---
 
 By Fr. Conor Donnelly

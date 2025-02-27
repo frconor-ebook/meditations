@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Knowing, Loving, and Living the Eucharis"
+title: "Knowing, Loving, and Living the Eucharist"
 ---
 
 By Fr. Conor Donnelly
