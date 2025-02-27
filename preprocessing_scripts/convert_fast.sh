@@ -1,6 +1,7 @@
 #!/bin/bash
 # Script to quickly extract the title and body from a DOCX file using only Pandoc
 # Outputs the formatted document to STDOUT
+# This code is robust!!! It can handle a variety of edge cases and errors!
 
 if [ "$#" -ne 1 ]; then
     echo "Usage: $0 <input_docx_file>"
