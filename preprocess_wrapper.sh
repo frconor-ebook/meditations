@@ -23,6 +23,7 @@ cd "$BASE_DIR/meditations/preprocessing_scripts/" || error_message "Could not ch
 # Execute the conversion script.
 # If it returns a non-zero exit code (indicating an error), call error_message.
 # ./convert_all_to_md_with_progress.sh || error_message "DocX to Markdown conversion failed."
+echo "Be patient, this will take a tad while..."
 ./convert_all_to_md_with_progress_parallel.sh || error_message "DocX to Markdown conversion failed."
 
 # Standardize Filenames.
