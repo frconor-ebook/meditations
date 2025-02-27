@@ -1,0 +1,180 @@
+---
+layout: homily
+title: "Contemplative: It Is Good That We Are Here"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"Lord, it is good that we are here," said St. Peter on the occasion of the Transfiguration (Matt. 17:4).
+
+Many important events in Our Lord\'s life take place at the top of hills or mountain summits, like the choice of the Apostles (Luke 6:13), the Beatitudes (Matt. 5:1-12), the Crucifixion (Matt. 27:33; Mark 15:22; Luke 23:33; John 19:17), the Ascension (Matt. 28:16; Luke 24:51), and the Transfiguration (Matt. 17:1; Mark 9:2; Luke 9:28).
+
+"Silence is not inaction, but a means to a higher form of activity of our imagination and intellect. St. Thomas Aquinas said, 'It imports not a cessation from act, but a cessation from distracting disorder and from disturbing images in the imagination.'
+
+"To be silent is to be recollected. The effect of this recollection is that the soul, having withdrawn its powers from without inwards, can fix them on God" (Edward Leen, *Progress Through Mental Prayer*).
+
+Hence, "it is good for us to be here."
+
+"The mind that is fixed on God esteems all earthly and transient objects as valueless in comparison and despising them as refuse is not tempted to waste time in contemplating them" (cf. Phil 3:8; *Ibid*.).
+
+We\'re told Our Lady "treasured all these things and pondered them in her heart" (Luke 2:19).
+
+In St. Luke, we\'re told, "They were all astounded and praised God, and were filled with awe, saying, 'We\'ve seen strange things today'" (Luke 5:26).
+
+"This state is at once the effect of and the condition needed for prayer. Silence is a necessary and indispensable means to prayer" (Edward Leen, *Progress Through Mental Prayer*).
+
+Mary sat at the Lord\'s feet and listened to His Word (cf. Luke 10:39).
+
+"Prayer is nothing more than attention to God, with a view to being instructed by Him, and to obtain His grace. ... We cultivate silence in order to be able to speak with and to hear God easily" (*Ibid*.).
+
+"Nothing will make us discover God better than his silence inscribed in the center of our being. If we do not cultivate that silence, how can we find God?
+
+"Man likes to travel, to create, to make great discoveries. But he remains outside of himself, far from God, who is silently in his soul" (Robert Cardinal Sarah, *The Power of Silence*, Point 3).
+
+It\'s very important to try and "cultivate silence in order to be truly with God."
+
+"He withdrew from them about a stone\'s throw, and kneeling down, he began to pray" (Luke 22:41).
+
+"St. Paul, drawing on the book of Deuteronomy (Deut. 30: 12-14, 16), explains that we will not encounter God by crossing the seas, because he is in our heart (cf. Rom. 10:6-9)" (R. Sarah, *Ibid*.).
+
+"Christ lived for thirty years in silence. Then, during his public life, he withdrew to the desert to listen to and to speak with his Father. The world vitally needs those who go off into the desert. Because God speaks in silence" (R. Sarah, Point 41).
+
+"The whole life of Jesus is wrapped in silence and mystery. If man wants to imitate Christ, it\'s enough for him to observe his silences.
+
+"The silence of the crib, the silence of Nazareth, the silence of the Cross, and the silence of the sealed tomb are one. The silences of Jesus are silences of poverty, humility, self-sacrifice, and abasement; it is the bottomless abyss of his self-emptying (Phil. 2:7)" (R. Sarah, Point 196).
+
+His intimacy with the Father is particularly evident in such places.
+
+"Unless silence dwells in man, and unless solitude is a state in which he allows himself to be shaped, the creature is deprived of God. There is no place on earth where God is more present than in the human heart. This heart truly is God\'s abode, the temple of silence" (R. Sarah, Point 4).
+
+"It\'s necessary to leave our interior turmoil in order to find God. Despite the agitations, the busyness, the easy pleasures, God remains silently present. He is in us like a thought, a word, and a presence whose secret sources are buried in God Himself, inaccessible to human inspection.
+
+"Solitude is the best state in which to hear God\'s silence. For someone who wants to find silence, solitude is the mountain that he must climb.
+
+"If a person isolates himself by going away to a monastery, he comes first to seek silence. And yet, the goal of his search is within him. God\'s silent presence already dwells in his heart.
+
+"The silence that we pursue confusedly is found in our own hearts and reveals God to us. But often the worldly powers that seek to shape modern man systematically do away with silence" (R. Sarah, Point 6).
+
+"The word is not just a sound; it is a person and a presence. God is the eternal Word, the *Logos*. St. John of the Cross says, 'The Father spoke one Word, which was His Son, and this Word He always speaks in eternal silence, and in silence, must It be heard by the soul'" (R. Sarah, Point 7).
+
+In the Book of Isaiah, we\'re told, "In quietness and trust shall be your strength" (Isa. 30:15).
+
+Looking at Christ and with Christ, contemplation has many paths we can travel on and begin again in close union with Christ. That\'s why Our Lord became a man and shared His life with us.
+
+Dealing with Jesus face to face, adoring Him since He is God, with immense trust, is the beginning of a wonderful personal dialogue that entails looking at Christ and looking with Christ.
+
+If ever we find we are exhausted by our work or feel unable to pray, we can be reminded that we\'re always in the presence of Our Father. If you can\'t speak to Him, look at Him every now and then, like a little child does, and He will smile at you.
+
+St. Josemaría says, "People in love yearn to see each other. Lovers only have eyes for their beloved. Isn\'t it only natural? That\'s the way the human heart is. I would be lying if I said I wasn\'t deeply affected by the thought of contemplating Christ\'s face. 'Lord, I will seek your face'" (Ps. 27:8; J. Escrivá, as quoted by Javier Echevarría in *Pastoral Letter*, October 6, 2004).
+
+A look that is an eager desire for God and consolation amidst the hardships of this life.
+
+St. Josemaría says, "Get to know the Sacred Humanity of Jesus\...and He will place in your soul an insatiable hunger, an 'uncontrollable' yearning to contemplate his Face. In this longing, which is not possible to satisfy on earth, you will often find your consolation" (J. Escrivá, *The Way of the Cross*, Sixth Station).
+
+Pope Benedict liked to place before us for contemplation a phrase in St. John: "They shall look on him whom they have pierced" (John 19:37, Benedict XVI, *Angelus*, February 2, 2007).
+
+If we persevere in looking at Him, love for the Cross will take root deeply in our souls. We contemplate His self-giving to the end. Contemplating those wounds is a shortcut to knowing the Heart of Christ and His immense love for men.
+
+To be contemplative, we have to hear Christ speaking to us through the events of each day. We have to notice Him beside us in everything we do.
+
+"Silence is not an absence. On the contrary, it is the manifestation of a presence, the most intense of all presences.
+
+"Pope Benedict XVI and St. John Paul II often conferred a positive dimension on silence. Even though it\'s associated with solitude and the desert, silence is by no means self-absorption or muteness, just as true speech is not garrulousness, but, rather, a condition for being present to God, to neighbor, and to oneself.
+
+"What is the correct understanding of exterior silence? St. Teresa of Calcutta said, 'God is the friend of silence. See how nature---trees, flowers, grass---grows in silence; see the stars, the moon, and the sun, how they move in silence'" (R. Sarah, Points 12-13).
+
+"In every era, this experience of interior life and an intimate, loving relationship with God has remained indispensable for those who seek true happiness" (R. Sarah, Point 17).
+
+"Wonder, admiration, and silence function in tandem" (R. Sarah, Point 24).
+
+"There is nothing littler, meeker, or more silent than Christ present in the Host. This little piece of bread embodies the humility and perfect silence of God, his tenderness, and his love for us.
+
+"If we want to grow and to be filled with the love of God, it\'s necessary to plant our life firmly on three great realities: the Cross, the Host, and the Virgin. These are three mysteries that God gave to the world to structure, make fruitful, and sanctify our interior life and to lead us to Jesus. These three mysteries are meant to be contemplated in silence" (R. Sarah, Point 57).
+
+Interior peace comes from the presence of God, and it grows as we become more contemplative.
+
+"God achieves everything, acts in all circumstances, and brings about all our interior transformations. But he does it when we wait for him in recollection and silence.
+
+"In silence, not in the turmoil and noise, God enters into the innermost depths of our being. 'This divine law,' says one writer, 'surprises us. It goes so much against our experience of the natural laws of the world. Here below, any profound transformation, any great external change produces a certain agitation and noise. The great river reaches the ocean only by the sounding onward rush of its water' (Marie-Eugène de l'Enfant Jésus, *I Want to See God*).
+
+"If we observe the great works, the most powerful acts, the most extraordinary and striking interior transformations that God carries out in man, we are forced to admit that he works in silence.
+
+"Baptism brings about a marvelous creation in the soul of the infant or the adult who receives the sacrament in the name of the Father, and of the Son, and of the Holy Spirit. The newly baptized person is immersed in the name of the Trinity; he or she is inserted into the Triune God. A new life is given to him, enabling him to perform the godly acts of the children of God.
+
+"We heard the words of the priest, 'I baptize you\...'; we saw the water flow in the infant\'s forehead. Yet we perceived nothing of this immersion into the inner life of the Trinity, grace, and creation which requires nothing less than the personal, almighty action of God.
+
+"God has uttered his Word in the soul in silence. In that same silent darkness, the subsequent developments of grace generally come" (R. Sarah, Point 8).
+
+God is ineffable. He surpasses all human explanations; can't be explained in words. Our human concepts always fall short. With metaphors and our limited human words, we can try to know God through analogy.
+
+Many Christians have fled from the world and sought silence as a way to draw close to this incomprehensible God of ours, to enter into a contemplative silence that offers them the greatest possible union with God.
+
+Others have sought and continue to seek such recollection in the midst of the world, like the early Christians---a way of living amid daily affairs that does not impede the presence of God and that leads one to be contemplative.
+
+The *Catechism of the Catholic Church* says, "Prayer in the events of each day and each moment is one of the secrets of the kingdom revealed to 'little children,' to the servants of Christ, to the poor of the Beatitudes. ... It is...important to bring the help of prayer into humble, everyday situations..." (*Catechism*, Point 2660).
+
+St. Josemaría advised bringing our life to our prayer and bringing our prayer to our life, so that recollection throughout the day is fed by recollection in the times of prayer.
+
+We realize that in our prayer we never manage to know Him clearly, but what we do intuit of Him amazes us and fills our hearts.
+
+We realize that we understand only a tiny part of what God is, but even so, we are overwhelmed by His greatness, and above all, by His goodness.
+
+It\'s incredible that the Creator should concern Himself with His creatures and do so with so much love. One writer says the Lord surprises us, showing us that He loves us even with our weaknesses. He\'s a God of surprises.
+
+"What can we do then," he asks, "to strengthen this recollection and wonder at God\'s greatness?"
+
+Probably our theological formation, made a topic of our prayer, can help us considerably since it unites our intellect and heart in knowing God.
+
+But we also need to set aside each day some moments dedicated to special recollections that overflow into the rest of the day, conserving it in the depths of our hearts.
+
+Here is where the sense of divine filiation can play its role. In the effort to know God through Jesus Christ, His eternal filiation leads us to contemplative prayer, where we can take delight in the paternity of the Father.
+
+We are drawn to the Father of mercies and the God of all comfort.
+
+St. Paul to the Corinthians says, "Blessed be the God and Father of Our Lord Jesus Christ, the merciful Father and the God who gives every possible encouragement" (2 Cor. 1: 3).
+
+This intuition inebriates the soul. It\'s not a matter of saying anything or asking for anything, but simply of looking---a looking filled with wonder that we want to last forever.
+
+The soul contemplates with the head and the heart and enters into the ineffable heart of the Father.
+
+St. Gregory says, "We feel the need to contemplate the beauty of the Father without ceasing and adorn our souls accordingly, and we marvel as we contemplate the very person of the Father and direct to Him our last thought at night and the first in the morning" (*Catechism*, Point 2784; St. Gregory of Nyssa, *De Orationate Dominica* 2).
+
+Sensing the touch of Our Ineffable God is a gift of the Holy Spirit that we attain when God wants in accord with the measure of our faith and love and our spirit of recollection and prayer.
+
+This is a goal to which we should aspire, even though we see it as still quite distant.
+
+In the end, our progress in prayer has no limits, since God is infinite. We\'re held back only by our defects and our weak longing for God.
+
+Around 1971, St. Josemaría said that he was trying to go deeper into the mystery of the Most Blessed Trinity. He repeatedly went over theology manuals on this mystery.
+
+At times, God gave Him a bit of light and he was very happy. Other times he was left in darkness, and he was equally happy because, as he said, if God could fit into his head, He would be a very tiny God.
+
+We pray about our day, and we live off our prayer. In *Christ Is Passing By*, Point 174, St. Josemaría says, "The theme of my prayer is the theme of my life."
+
+"In listening to you, we understand that although silence may be the absence of speech, it is above all the attitude of someone who listens. To listen is to welcome the other into one\'s heart. 'Give me, Lord,' says Solomon, 'a heart that listens' (1 Kings 3:5-15). He does not ask for riches or the life of his enemies or power, but a silent heart so as to listen to God" (Nicolas Diat, *Introduction* to R. Sarah, Point 26).
+
+"Through silence, we return to our heavenly origin, where there is nothing but calm, peace, repose, silent contemplation, and adoration of the radiant face of God.
+
+"All the great saints were familiar with this incomparable experience. When their prayers led them to the threshold of the Eternal One\'s silence, they sensed how close and immense God became.
+
+"They remained wordlessly in the presence of the Father. The more they ascended towards God, the more silent they became" (R. Sarah, Points 70-71).
+
+For Our Lady, looking at God without needing rest or feeling tired was a constant reality in her daily life, which we only attain gradually and laboriously in quite a different measure.
+
+Our Heavenly Father constantly cared for Mary and drew her to Himself. Her eyes and heart sought only to look at her God.
+
+Mary\'s enchanting look at God the Father was a look filled with wonder for all His goodness towards her, the handmaid of the Lord.
+
+"My soul magnifies the Lord, and my spirit rejoices in God my Savior" (Luke 1:46-47).
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*KI*

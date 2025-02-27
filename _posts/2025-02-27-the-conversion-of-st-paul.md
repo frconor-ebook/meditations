@@ -7,329 +7,128 @@ By Fr. Conor Donnelly
 
 (*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*My Lord and my God, I firmly believe that you are here, that you see
-me, that you hear me. I adore you with profound reverence. I ask your
-pardon for my sins and grace to make this time of prayer fruitful. My
-Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
-intercede for me.*
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"Meanwhile, Saul was still breathing threats to slaughter the Lord\'s
-disciples. He went to the high priest and asked for letters addressed to
-the synagogues in Damascus that would authorize him to arrest and take
-to Jerusalem any followers of the Way, men or women, that he might find.
-It happened that while he was travelling to Damascus and approaching the
-city, suddenly a light from heaven shone all around him. He fell to the
-ground and then he heard a voice saying, 'Saul, Saul, why are you
-persecuting me?'" (Acts 9:1-4).
+"Meanwhile, Saul was still breathing threats to slaughter the Lord\'s disciples. He went to the high priest and asked for letters addressed to the synagogues in Damascus that would authorize him to arrest and take to Jerusalem any followers of the Way, men or women, that he might find. It happened that while he was travelling to Damascus and approaching the city, suddenly a light from heaven shone all around him. He fell to the ground and then he heard a voice saying, 'Saul, Saul, why are you persecuting me?'" (Acts 9:1-4).
 
-The grace of God changed Saint Paul from a persecutor of Christians to a
-messenger of the Gospel. This teaches us that our faith has its basis in
-grace and in the free correspondence of each person.
+The grace of God changed Saint Paul from a persecutor of Christians to a messenger of the Gospel. This teaches us that our faith has its basis in grace and in the free correspondence of each person.
 
-St. Paul says to Timothy, "I know whom I have believed. I am sure that
-he, the just judge, will guard my pledge until the day of judgment" (2
-Tim. 1:12).
+St. Paul says to Timothy, "I know whom I have believed. I am sure that he, the just judge, will guard my pledge until the day of judgment" (2 Tim. 1:12).
 
-As a zealous defender of the Mosaic Law, Saul looked upon the Christians
-as a mortal threat to Judaism. He dedicated his every waking hour to the
-extermination of the early Church.
+As a zealous defender of the Mosaic Law, Saul looked upon the Christians as a mortal threat to Judaism. He dedicated his every waking hour to the extermination of the early Church.
 
-Saul first appears in the *Acts of the Apostles* as one of the witnesses
-to the execution of Saint Stephen, the first Christian martyr (*cf*.
-Acts 7:60). St. Augustine has observed that the final prayer of the
-martyr bore fruit in the life of one of his persecutors (*cf*. St.
-Augustine, *Sermon 315*).
+Saul first appears in the *Acts of the Apostles* as one of the witnesses to the execution of Saint Stephen, the first Christian martyr (*cf*. Acts 7:60). St. Augustine has observed that the final prayer of the martyr bore fruit in the life of one of his persecutors (*cf*. St. Augustine, *Sermon 315*).
 
-Some time after that event, Saul set out with "letters to the synagogues
-of Damascus so that if he found any belonging to the Way, men or women,
-he might bring them bound to Jerusalem" (Acts 9:2).
+Some time after that event, Saul set out with "letters to the synagogues of Damascus so that if he found any belonging to the Way, men or women, he might bring them bound to Jerusalem" (Acts 9:2).
 
-Thanks to the workings of the Holy Spirit and the lively apostolate of
-the early Christians, the Church had expanded quite rapidly despite the
-most adverse of conditions. The *Acts* says, "Now those who were
-scattered went about preaching the word" (Acts 8:4).
+Thanks to the workings of the Holy Spirit and the lively apostolate of the early Christians, the Church had expanded quite rapidly despite the most adverse of conditions. The *Acts* says, "Now those who were scattered went about preaching the word" (Acts 8:4).
 
-Saul was travelling along the road to Damascus, "breathing threats and
-murder against the disciples of the Lord." But God had other plans for
-this man of action. It was around midday as he was approaching the city
-when "suddenly a light from heaven flashed about him. And he fell to the
-ground and heard a voice saying, 'Saul, Saul, why do you persecute me?'"
-(Acts 9:1, 3-4).
+Saul was travelling along the road to Damascus, "breathing threats and murder against the disciples of the Lord." But God had other plans for this man of action. It was around midday as he was approaching the city when "suddenly a light from heaven flashed about him. And he fell to the ground and heard a voice saying, 'Saul, Saul, why do you persecute me?'" (Acts 9:1, 3-4).
 
-Sometimes people think that Saul fell from his horse, but there\'s no
-mention in Scripture about a horse. Caravaggio painted a painting of the
-conversion of Saint Paul and had him falling off a horse, and that may
-be where that idea came from.
+Sometimes people think that Saul fell from his horse, but there\'s no mention in Scripture about a horse. Caravaggio painted a painting of the conversion of Saint Paul and had him falling off a horse, and that may be where that idea came from.
 
-But we\'re just told that "he fell to the ground" when he heard those
-words. "And he said, 'Who are you, Lord?' And He said, 'I am Jesus, whom
-you are persecuting'" (Acts 9:5).
+But we\'re just told that "he fell to the ground" when he heard those words. "And he said, 'Who are you, Lord?' And He said, 'I am Jesus, whom you are persecuting'" (Acts 9:5).
 
-Saul could have said, 'I\'m not persecuting you. I\'m just persecuting
-some of your followers or some of these people called Christians.'
+Saul could have said, 'I\'m not persecuting you. I\'m just persecuting some of your followers or some of these people called Christians.'
 
-But Our Lord emphasizes the point that "whenever you did it to one of
-these least ones, you did it to me" (Matt. 25:40). You are persecuting
-me when you persecute them.
+But Our Lord emphasizes the point that "whenever you did it to one of these least ones, you did it to me" (Matt. 25:40). You are persecuting me when you persecute them.
 
-It\'s an idea worth thinking about, so that if ever we have something
-less savory to say about some supernatural family of the Church, that we
-be careful about our words. We can be persecuting Jesus when we
-persecute any of His followers.
+It\'s an idea worth thinking about, so that if ever we have something less savory to say about some supernatural family of the Church, that we be careful about our words. We can be persecuting Jesus when we persecute any of His followers.
 
-At this very moment, Saul poses the most important question of his whole
-life to Our Lord. "What shall I do, Lord?" (Acts 22:10). Saul was now
-another man. He had become Paul. In the act of conversion, he understood
-everything at once.
+At this very moment, Saul poses the most important question of his whole life to Our Lord. "What shall I do, Lord?" (Acts 22:10). Saul was now another man. He had become Paul. In the act of conversion, he understood everything at once.
 
-Like Saul, Our Lord wants us to be open to new conversions, new graces.
-Conversion is an ongoing process. We are never fully converted. Even at
-the Last Supper, the apostles were arguing with each other about "which
-of them was going to be the greatest in the kingdom of heaven" (Luke
-22:24). They were never fully converted either.
+Like Saul, Our Lord wants us to be open to new conversions, new graces. Conversion is an ongoing process. We are never fully converted. Even at the Last Supper, the apostles were arguing with each other about "which of them was going to be the greatest in the kingdom of heaven" (Luke 22:24). They were never fully converted either.
 
-His new faith led him to an attitude of complete self-giving in the
-hands of God. What do you want me to do, my Lord? What do you expect of
-me? It could be in this month of May that Our Lord wants us to ask those
-same questions.
+His new faith led him to an attitude of complete self-giving in the hands of God. What do you want me to do, my Lord? What do you expect of me? It could be in this month of May that Our Lord wants us to ask those same questions.
 
-There have been many occasions in our life when Our Lord has wanted to
-attract our attention, to get into our lives. Maybe He permitted
-something to happen, for us to think in a different way, in a deeper
-way.
+There have been many occasions in our life when Our Lord has wanted to attract our attention, to get into our lives. Maybe He permitted something to happen, for us to think in a different way, in a deeper way.
 
-St. Josemaría in *The Forge* says He wants to reveal His wonderful plans
-for us. "'Blessed be God!' you said after having finished your
-sacramental Confession. And you thought: it is as if I had just been
-born again. You then continued calmly, 'Lord, what would you have me
-do?' And you yourself came up with the reply: 'By the help of your
-grace, I will let nothing and no one come between me and the fulfilment
-of your most Holy Will: I will serve you unconditionally'" (J. Escrivá,
-*The Forge*, Point 238).
+St. Josemaría in *The Forge* says He wants to reveal His wonderful plans for us. "'Blessed be God!' you said after having finished your sacramental Confession. And you thought: it is as if I had just been born again. You then continued calmly, 'Lord, what would you have me do?' And you yourself came up with the reply: 'By the help of your grace, I will let nothing and no one come between me and the fulfilment of your most Holy Will: I will serve you unconditionally'" (J. Escrivá, *The Forge*, Point 238).
 
-The life of St. Paul is a beacon of hope, a model of correspondence to
-God\'s grace. He said, "I live by faith in the Son of God, who loved me
-and sacrificed himself for me" (Gal. 2:20).
+The life of St. Paul is a beacon of hope, a model of correspondence to God\'s grace. He said, "I live by faith in the Son of God, who loved me and sacrificed himself for me" (Gal. 2:20).
 
-Probably we never forget those times when Our Lord stepped into our life
-without prior warning. St. Paul certainly never forgot that memorable
-encounter with the risen Lord. He often said it was "on the road to
-Damascus." He uses that phrase to mark when his new life began.
+Probably we never forget those times when Our Lord stepped into our life without prior warning. St. Paul certainly never forgot that memorable encounter with the risen Lord. He often said it was "on the road to Damascus." He uses that phrase to mark when his new life began.
 
-On other occasions, he states that this was the turning point of his
-entire life. "Last of all," he said to the Corinthians, "as to one
-untimely born, he appeared also to me" (1 Cor. 15:8).
+On other occasions, he states that this was the turning point of his entire life. "Last of all," he said to the Corinthians, "as to one untimely born, he appeared also to me" (1 Cor. 15:8).
 
-The life of St. Paul is a beacon of hope, "because," says St. Bernard,
-"who can say that they cannot overcome their faults when one of the most
-zealous persecutors of the believers could be transformed into the
-Apostle to the Gentiles?"
+The life of St. Paul is a beacon of hope, "because," says St. Bernard, "who can say that they cannot overcome their faults when one of the most zealous persecutors of the believers could be transformed into the Apostle to the Gentiles?"
 
-God\'s grace can still work miracles in human hearts in our own day. But
-the power of God depends upon our correspondence to grace. God\'s grace
-is sufficient. What is necessary is our free, wholehearted ascent to
-grace.
+God\'s grace can still work miracles in human hearts in our own day. But the power of God depends upon our correspondence to grace. God\'s grace is sufficient. What is necessary is our free, wholehearted ascent to grace.
 
-St. Augustine says with regard to St. Paul\'s saying "not because of me,
-but because of the grace of God in me" (1 Cor. 15:10): "This is to say,
-not because of me alone, but because of God working with me. And for
-this reason, not because of the grace of God alone nor myself alone, but
-the grace of God in him."
+St. Augustine says with regard to St. Paul\'s saying "not because of me, but because of the grace of God in me" (1 Cor. 15:10): "This is to say, not because of me alone, but because of God working with me. And for this reason, not because of the grace of God alone nor myself alone, but the grace of God in him."
 
-If we live our lives counting upon the help of God\'s grace, we will
-find ourselves able to overcome any defect or disappointment. Our Lord
-is constantly calling us to begin again, to convert our hearts, to walk
-in peace and joy along the divine ways of the earth.
+If we live our lives counting upon the help of God\'s grace, we will find ourselves able to overcome any defect or disappointment. Our Lord is constantly calling us to begin again, to convert our hearts, to walk in peace and joy along the divine ways of the earth.
 
-Like St. Paul, we have to respond to Our Lord\'s invitation. "What shall
-I do, Lord? In what areas do you want me to struggle harder? In what
-ways do you want me to change my behavior?"
+Like St. Paul, we have to respond to Our Lord\'s invitation. "What shall I do, Lord? In what areas do you want me to struggle harder? In what ways do you want me to change my behavior?"
 
-Since Jesus is always seeking us out, St. Teresa advises us, "It\'s
-paramount that we draw forth energy to be useful as well as being very
-grateful for that gift. These are the conditions which Our Lord has set
-down. If we don\'t manage his treasures well, he will give them to
-another and we will end up paupers. The Lord will give his jewels to
-someone who will make them shine more radiantly" (Teresa of Ávila,
-*Life*).
+Since Jesus is always seeking us out, St. Teresa advises us, "It\'s paramount that we draw forth energy to be useful as well as being very grateful for that gift. These are the conditions which Our Lord has set down. If we don\'t manage his treasures well, he will give them to another and we will end up paupers. The Lord will give his jewels to someone who will make them shine more radiantly" (Teresa of Ávila, *Life*).
 
-We can ask this question in the depths of our heart many times during
-the course of the day. "What shall I do, Lord? What is it that you want
-me to do? What is your will for me in this particular moment?" Our Lord
-will show us where our love has fallen short, or perhaps has not
-deepened as God had wanted it.
+We can ask this question in the depths of our heart many times during the course of the day. "What shall I do, Lord? What is it that you want me to do? What is your will for me in this particular moment?" Our Lord will show us where our love has fallen short, or perhaps has not deepened as God had wanted it.
 
-In another moment, St. Paul says, "I know whom I have believed" (2 Tim.
-1:12). These few words explain the rest of his adult life. He had met
-Christ. Everything else faded into the shadows compared with that
-luminous reality.
+In another moment, St. Paul says, "I know whom I have believed" (2 Tim. 1:12). These few words explain the rest of his adult life. He had met Christ. Everything else faded into the shadows compared with that luminous reality.
 
-Nothing had any value unless it was in Christ and for Christ. "The one
-thing which he now feared was to offend God. From now on, that was all
-that mattered."
+Nothing had any value unless it was in Christ and for Christ. "The one thing which he now feared was to offend God. From now on, that was all that mattered."
 
-St. John Chrysostom says, "The only thing he lived for was to be
-faithful to the Lord and make him known to all people" (St. John
-Chrysostom, Homily 2 about the glories of Saint Paul). That\'s the
-attitude we have to try and aspire to.
+St. John Chrysostom says, "The only thing he lived for was to be faithful to the Lord and make him known to all people" (St. John Chrysostom, Homily 2 about the glories of Saint Paul). That\'s the attitude we have to try and aspire to.
 
-From the time of his encounter with Our Lord, Paul gave over his entire
-being to God with all his heart. He took the same enthusiasm and drive
-which he used to persecute the Christians with, and he put it to the
-service of the Church. He received the apostolic mission which Christ
-gave to His disciples, and made it his own.
+From the time of his encounter with Our Lord, Paul gave over his entire being to God with all his heart. He took the same enthusiasm and drive which he used to persecute the Christians with, and he put it to the service of the Church. He received the apostolic mission which Christ gave to His disciples, and made it his own.
 
-"Go out to the whole world; proclaim the good news to all creation"
-(Mark 16:15). John Paul II said, "Paul accepted this task and made of
-it, from that moment. the very purpose of his life. His conversion lies
-precisely in this, that he allowed the Christ he encountered on the road
-to Damascus to enter into his life and to orient it toward one single
-goal: the preaching of the Gospel. 'I owe a debt to the Greeks as well
-as to the barbarians, to the learned as well as to the ignorant\....
-I\'m not ashamed of the Gospel because it is the power of God unto
-salvation for whoever believes' (Rom. 1:14-16)" (John Paul II, *Homily*,
-January 25, 1987).
+"Go out to the whole world; proclaim the good news to all creation" (Mark 16:15). John Paul II said, "Paul accepted this task and made of it, from that moment. the very purpose of his life. His conversion lies precisely in this, that he allowed the Christ he encountered on the road to Damascus to enter into his life and to orient it toward one single goal: the preaching of the Gospel. 'I owe a debt to the Greeks as well as to the barbarians, to the learned as well as to the ignorant\.... I\'m not ashamed of the Gospel because it is the power of God unto salvation for whoever believes' (Rom. 1:14-16)" (John Paul II, *Homily*, January 25, 1987).
 
-"I know whom I have believed." For the sake of Christ, Paul would take
-on himself all sorts of risks and dangers without number. He would
-endure long hours of work, exhaustion, apparent failures,
-betrayals---whatever was necessary to win souls for God.
+"I know whom I have believed." For the sake of Christ, Paul would take on himself all sorts of risks and dangers without number. He would endure long hours of work, exhaustion, apparent failures, betrayals---whatever was necessary to win souls for God.
 
-He said, "Five times I have received at the hands of the Jews the forty
-lashes less one. Three times I have been beaten with rods; once I was
-stoned. Three times I have been shipwrecked; a night and a day I have
-been adrift at sea; on frequent journeys, in danger from rivers, danger
-from robbers, danger from my own people, danger from Gentiles, danger in
-the city, danger in the wilderness, danger at sea, danger from false
-brethren; in toil and hardship, through many a sleepless night, in
-hunger and thirst, often without food, in cold and exposure.
+He said, "Five times I have received at the hands of the Jews the forty lashes less one. Three times I have been beaten with rods; once I was stoned. Three times I have been shipwrecked; a night and a day I have been adrift at sea; on frequent journeys, in danger from rivers, danger from robbers, danger from my own people, danger from Gentiles, danger in the city, danger in the wilderness, danger at sea, danger from false brethren; in toil and hardship, through many a sleepless night, in hunger and thirst, often without food, in cold and exposure.
 
-"And, apart from other things, there is the daily pressure upon me of my
-anxiety for all the churches. Who is weak, and I am not weak? Who is
-made to fall, and I am not indignant?" (2 Cor. 11:24-29).
+"And, apart from other things, there is the daily pressure upon me of my anxiety for all the churches. Who is weak, and I am not weak? Who is made to fall, and I am not indignant?" (2 Cor. 11:24-29).
 
-Paul centered his life on the Lord. He found joy not in the absence of
-difficulties, but in the presence of Christ.
+Paul centered his life on the Lord. He found joy not in the absence of difficulties, but in the presence of Christ.
 
-And after he had spent only a few days with the disciples in Damascus,
-even though he had suffered a great deal for Christ, at the end of his
-days he was able to write, "For as we share in Christ\'s sufferings, so
-through Christ we share abundantly in comfort too" (2 Cor. 1:5).
+And after he had spent only a few days with the disciples in Damascus, even though he had suffered a great deal for Christ, at the end of his days he was able to write, "For as we share in Christ\'s sufferings, so through Christ we share abundantly in comfort too" (2 Cor. 1:5).
 
-There was a disciple in Damascus called Ananias, and he had a vision in
-which the Lord said to him, 'Ananias." When he replied, "Here I am,
-Lord,' the Lord said, "Get up and go to Straight Street and ask of the
-house of Judas for someone called Saul, who comes from Tarsus. At this
-moment he is praying and has seen a man called Ananias coming in and
-laying hands on him to give him back his sight" (Acts 9:10-12).
+There was a disciple in Damascus called Ananias, and he had a vision in which the Lord said to him, 'Ananias." When he replied, "Here I am, Lord,' the Lord said, "Get up and go to Straight Street and ask of the house of Judas for someone called Saul, who comes from Tarsus. At this moment he is praying and has seen a man called Ananias coming in and laying hands on him to give him back his sight" (Acts 9:10-12).
 
-After his conversion, we\'re told that for three days he was without his
-sight and took neither food nor drink. But now Our Lord begins to
-involve somebody else in this whole story of Paul.
+After his conversion, we\'re told that for three days he was without his sight and took neither food nor drink. But now Our Lord begins to involve somebody else in this whole story of Paul.
 
-But Ananias was not terribly convinced. He\'d heard all sorts of
-terrible things about Paul, so prudently he asked for some
-clarification. "Ananias said, 'Lord, I\'ve heard from many people about
-this man and all the harm he has been doing to your holy people in
-Jerusalem. He has come here with a warrant from the chief priests to
-arrest everybody who invokes your name.'
+But Ananias was not terribly convinced. He\'d heard all sorts of terrible things about Paul, so prudently he asked for some clarification. "Ananias said, 'Lord, I\'ve heard from many people about this man and all the harm he has been doing to your holy people in Jerusalem. He has come here with a warrant from the chief priests to arrest everybody who invokes your name.'
 
-"The Lord replied, 'Go, for this man is my chosen instrument to bring my
-name before Gentiles and kings and before the people of Israel. I myself
-will show him how much he must suffer for my name'" (Acts 9:13-16).
+"The Lord replied, 'Go, for this man is my chosen instrument to bring my name before Gentiles and kings and before the people of Israel. I myself will show him how much he must suffer for my name'" (Acts 9:13-16).
 
-Ananias asks the question for clarification, but Our Lord gives a very
-firm reply: "Go." In our apostolic endeavors and mission, sometimes we
-may reasonably ask for clarification, to have things pointed out to us,
-but we might also get that firm reply, "Go." Very dynamic words.
+Ananias asks the question for clarification, but Our Lord gives a very firm reply: "Go." In our apostolic endeavors and mission, sometimes we may reasonably ask for clarification, to have things pointed out to us, but we might also get that firm reply, "Go." Very dynamic words.
 
-Our Lord wants our humble obedience to the tasks that He places in front
-of us, even if at times they might seem impossible: "My grace is
-sufficient for you" (2 Cor. 12:9).
+Our Lord wants our humble obedience to the tasks that He places in front of us, even if at times they might seem impossible: "My grace is sufficient for you" (2 Cor. 12:9).
 
-And then we\'re told that Ananias went. It didn\'t seem like a very
-enticing proposition, but he went with faith, with obedience, with
-daring, with the desire to serve souls.
+And then we\'re told that Ananias went. It didn\'t seem like a very enticing proposition, but he went with faith, with obedience, with daring, with the desire to serve souls.
 
-"He entered the house," we\'re told, "and laid his hands on Saul and
-said, 'Brother Saul, I have been sent by the Lord Jesus who appeared to
-you on your way here, so that you may recover your sight and be filled
-with the Holy Spirit."
+"He entered the house," we\'re told, "and laid his hands on Saul and said, 'Brother Saul, I have been sent by the Lord Jesus who appeared to you on your way here, so that you may recover your sight and be filled with the Holy Spirit."
 
-We\'re told it was "as though scales fell away from his eyes, and
-immediately he was able to see again. He got up and was baptized, and
-after taking some food he regained his strength. And after he had spent
-only a few days with the disciples in Damascus, he began preaching in
-the synagogues: 'Jesus is the Son of God'" (*cf*. Acts 9:17-20).
+We\'re told it was "as though scales fell away from his eyes, and immediately he was able to see again. He got up and was baptized, and after taking some food he regained his strength. And after he had spent only a few days with the disciples in Damascus, he began preaching in the synagogues: 'Jesus is the Son of God'" (*cf*. Acts 9:17-20).
 
-In this month of May, in which we go to Our Lady with more faith and
-affection, asking her to make our work of apostolate and winning new
-apostles fully efficacious, we could ask her that we also might have the
-spirit of the beginnings, ready to "launch out into the deep" (Luke
-5:4), reminding ourselves that that\'s what we\'re here for.
+In this month of May, in which we go to Our Lady with more faith and affection, asking her to make our work of apostolate and winning new apostles fully efficacious, we could ask her that we also might have the spirit of the beginnings, ready to "launch out into the deep" (Luke 5:4), reminding ourselves that that\'s what we\'re here for.
 
-Our Lord wants us to refuse to look at the difficulties, to break the
-barriers that may hold us back.
+Our Lord wants us to refuse to look at the difficulties, to break the barriers that may hold us back.
 
-St. Josemaría on one occasion said, "Refuse to look at the difficulties,
-be optimistic; and, having applied your usual supernatural means, cast
-your nets. It is for this that you are, like Peter and like the Twelve,
-fishers of men. Do the sowing then, I assure you in the name of the Lord
-of the harvest, that there will be a good crop. But make a generous
-sowing." That\'s right, the whole world.
+St. Josemaría on one occasion said, "Refuse to look at the difficulties, be optimistic; and, having applied your usual supernatural means, cast your nets. It is for this that you are, like Peter and like the Twelve, fishers of men. Do the sowing then, I assure you in the name of the Lord of the harvest, that there will be a good crop. But make a generous sowing." That\'s right, the whole world.
 
-The words of the angels to the shepherds on that night near
-Bethlehem---they brought "the good tidings of great joy." It reminds us
-that those good tidings have "to be to all the people" (Luke 2:10).
+The words of the angels to the shepherds on that night near Bethlehem---they brought "the good tidings of great joy." It reminds us that those good tidings have "to be to all the people" (Luke 2:10).
 
-Blessed Álvaro del Portillo says, "It\'s a great moment that we increase
-our own sense of responsibility, the apostolate. Be very attentive to
-the suggestions of the Holy Spirit. Ask for enlightenment, like Ananias.
-Foster your spontaneity in searching for new friends and bringing them
-to Jesus Christ, to the Church.
+Blessed Álvaro del Portillo says, "It\'s a great moment that we increase our own sense of responsibility, the apostolate. Be very attentive to the suggestions of the Holy Spirit. Ask for enlightenment, like Ananias. Foster your spontaneity in searching for new friends and bringing them to Jesus Christ, to the Church.
 
-"The Church and civil society need our initiative, that of each one of
-us, in order to open up new fields of apostolate. The situation we\'re
-going through, which is very good for our sanctification, calls for an
-evangelizing action, which is both capillary and incisive. Let it be
-noticed that we want Christ to reign in all human activities."
+"The Church and civil society need our initiative, that of each one of us, in order to open up new fields of apostolate. The situation we\'re going through, which is very good for our sanctification, calls for an evangelizing action, which is both capillary and incisive. Let it be noticed that we want Christ to reign in all human activities."
 
-He says, "For such a huge task, it\'s urgent that there would be men and
-women clearly conscious of the apostolic meaning of the Christian
-vocation, so that they put that awareness into practice every day.
+He says, "For such a huge task, it\'s urgent that there would be men and women clearly conscious of the apostolic meaning of the Christian vocation, so that they put that awareness into practice every day.
 
-"Helping people around us to share our concern are the earthly and
-eternal happiness of all, so that we open up for them horizons of
-apostolate and set them concrete goals. The optimism of someone who has
-a profound faith, the tenacity of someone who has an unshakable hope,
-and the daring of someone who loves greatly are supernatural gifts which
-are cultivated in prayer."
+"Helping people around us to share our concern are the earthly and eternal happiness of all, so that we open up for them horizons of apostolate and set them concrete goals. The optimism of someone who has a profound faith, the tenacity of someone who has an unshakable hope, and the daring of someone who loves greatly are supernatural gifts which are cultivated in prayer."
 
-He says, "Celebrate or attend with more reverence and piety the Holy
-Sacrifice of the Mass, center and root of our interior life and of our
-apostolic life. And in this month of May, and always, cry out to Our
-Lady with a gigantic faith, inserting intentions for the winning of new
-apostles when going through the *Hail Marys* of the Holy Rosary."
+He says, "Celebrate or attend with more reverence and piety the Holy Sacrifice of the Mass, center and root of our interior life and of our apostolic life. And in this month of May, and always, cry out to Our Lady with a gigantic faith, inserting intentions for the winning of new apostles when going through the *Hail Marys* of the Holy Rosary."
 
-In order to walk at all times with a pioneering spirit, we have to try
-and be very sincere and courageous in our daily examination, to ask
-ourselves: What have I done today to win new apostles? What
-conversations have I had? Have I offered up little mortifications,
-fulfilling my duties, conquering myself in little things, asking Our
-Lady to show us the way forward?
+In order to walk at all times with a pioneering spirit, we have to try and be very sincere and courageous in our daily examination, to ask ourselves: What have I done today to win new apostles? What conversations have I had? Have I offered up little mortifications, fulfilling my duties, conquering myself in little things, asking Our Lady to show us the way forward?
 
-Our Mother, who is the Queen of Apostles, will surely give us that
-Pauline zeal for souls that we urgently desire.
+Our Mother, who is the Queen of Apostles, will surely give us that Pauline zeal for souls that we urgently desire.
 
-*I thank you, my God, for the good resolutions, affections, and
-inspirations that you have communicated to me during this meditation. I
-ask your help to put them into practice. My Immaculate Mother, Saint
-Joseph, my father and lord, my guardian angel, intercede for me.*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *MVF*

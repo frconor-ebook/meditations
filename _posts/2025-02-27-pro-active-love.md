@@ -7,558 +7,306 @@ By Fr. Conor Donnelly
 
 (*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*My Lord and my God, I firmly believe that you are here, that you see
-me, that you hear me. I adore you with profound reverence. I ask your
-pardon for my sins and grace to make this time of prayer fruitful. My
-Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
-intercede for me.*
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"But I say to you: Love your enemies, do good to those who hate you,
-bless those who curse you, pray for those who abuse you" (Luke 6:27-28).
+"But I say to you: Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you" (Luke 6:27-28).
 
-In some ways, this is like the central point of the whole teaching of
-Our Lord. He came to teach us about love.
+In some ways, this is like the central point of the whole teaching of Our Lord. He came to teach us about love.
 
-Christ is love. The Church is love. Christianity is love. The spirit of
-the Work is love. We will be judged on love. Sanctity is love.
+Christ is love. The Church is love. Christianity is love. The spirit of the Work is love. We will be judged on love. Sanctity is love.
 
-The great Christian revolution is that we should not just love those who
-love us, but love those who don\'t love us.
+The great Christian revolution is that we should not just love those who love us, but love those who don\'t love us.
 
-We might have very few enemies. It might be difficult to say: Who is my
-enemy? Maybe we don\'t have any enemies.
+We might have very few enemies. It might be difficult to say: Who is my enemy? Maybe we don\'t have any enemies.
 
-But there might be people we find a bit more difficult to get on with.
-In any group of people, there are clashes of chemistry, of personality,
-of all sorts of things.
+But there might be people we find a bit more difficult to get on with. In any group of people, there are clashes of chemistry, of personality, of all sorts of things.
 
-That\'s where the challenge of love comes in. We have to love others
-where we have to decrease our love of self.
+That\'s where the challenge of love comes in. We have to love others where we have to decrease our love of self.
 
-In the Old Testament, there was the law of the jungle: "an eye for an
-eye and a tooth for a tooth" (Ex. 21:24; Lev. 24:19-20; Deut. 19:21).
-You loved those precisely who loved you, and you forgot about everybody
-else.
+In the Old Testament, there was the law of the jungle: "an eye for an eye and a tooth for a tooth" (Ex. 21:24; Lev. 24:19-20; Deut. 19:21). You loved those precisely who loved you, and you forgot about everybody else.
 
-But Christ comes to bring about this great Christian revolution whereby
-we should "love our enemies and do good to those who hate us."
+But Christ comes to bring about this great Christian revolution whereby we should "love our enemies and do good to those who hate us."
 
-When it comes to charity, Christ places the bar very high, because "God
-is love" (1 John 4:8,16).
+When it comes to charity, Christ places the bar very high, because "God is love" (1 John 4:8,16).
 
-There are no absolutes in relation to the theological virtues. You
-can\'t have too much charity, or too much faith, or too much hope.
+There are no absolutes in relation to the theological virtues. You can\'t have too much charity, or too much faith, or too much hope.
 
-Our Christian vocation is a call to always grow in this virtue, and
-putting it into practice. To a large extent, the whole of our vocation
-is putting into practice the virtue of love, day by day, hour by hour,
-challenge by challenge.
+Our Christian vocation is a call to always grow in this virtue, and putting it into practice. To a large extent, the whole of our vocation is putting into practice the virtue of love, day by day, hour by hour, challenge by challenge.
 
-"If you love those who love you, what credit is that to you?" (Luke
-6:32). It\'s easy to love those who love us, to greet those who greet
-us, to be nice to the people who were nice to us.
+"If you love those who love you, what credit is that to you?" (Luke 6:32). It\'s easy to love those who love us, to greet those who greet us, to be nice to the people who were nice to us.
 
-But Our Lord invites us to go the extra mile, to go out of ourselves, to
-break out of our shell, to go further, to forget about our feelings.
+But Our Lord invites us to go the extra mile, to go out of ourselves, to break out of our shell, to go further, to forget about our feelings.
 
-One of the buzzwords in modern culture is the word "feeling." "You
-can\'t beat that feeling." Taste the feeling, feel the feeling, hear the
-feeling.
+One of the buzzwords in modern culture is the word "feeling." "You can\'t beat that feeling." Taste the feeling, feel the feeling, hear the feeling.
 
-Everything is feeling. So, from Hollywood and other places, we get the
-message that love is feeling.
+Everything is feeling. So, from Hollywood and other places, we get the message that love is feeling.
 
-In the movies, when the violins play, that\'s when you know they\'re in
-love. But they may not have such good feelings the following morning.
+In the movies, when the violins play, that\'s when you know they\'re in love. But they may not have such good feelings the following morning.
 
-Christ on the Cross doesn\'t tell us that love is feeling. Jesus must
-have felt awful on the Cross, with three big nails going through Him.
+Christ on the Cross doesn\'t tell us that love is feeling. Jesus must have felt awful on the Cross, with three big nails going through Him.
 
-Yet He said, "Greater love than this no man has, that he lay down his
-life for his friends" (John 15:13).
+Yet He said, "Greater love than this no man has, that he lay down his life for his friends" (John 15:13).
 
 Christ tells us that love is sacrifice.
 
-If you want to know who loves me in this world, you\'ll ask yourself the
-question, "Who has sacrificed themselves for me?" Probably our mothers
-are the ones who have sacrificed themselves most, and maybe many others
-also.
+If you want to know who loves me in this world, you\'ll ask yourself the question, "Who has sacrificed themselves for me?" Probably our mothers are the ones who have sacrificed themselves most, and maybe many others also.
 
-And if you want to know who do I love in this world, ask yourself, "For
-whom am I willing to sacrifice myself?"
+And if you want to know who do I love in this world, ask yourself, "For whom am I willing to sacrifice myself?"
 
-If somebody asked you to give a kidney to somebody who lives in the room
-beside you, you might be willing to do so. Or a cousin, a neighbor, a
-schoolmate, or a classmate.
+If somebody asked you to give a kidney to somebody who lives in the room beside you, you might be willing to do so. Or a cousin, a neighbor, a schoolmate, or a classmate.
 
 We might be willing to do all sorts of things for many people.
 
-But if we were told, Look, there's the most corrupt person in society,
-are you willing to give them a kidney?
+But if we were told, Look, there's the most corrupt person in society, are you willing to give them a kidney?
 
 You might say, I\'ll think about it.
 
-How about a prisoner serving a life sentence for murder in a
-maximum-security prison?
+How about a prisoner serving a life sentence for murder in a maximum-security prison?
 
-You might say, No, I think I'll pass on that one. Perhaps that guy is
-not really worth my kidney. Maybe he can get somebody else\'s kidney. I
-don\'t think he can get my one.
+You might say, No, I think I'll pass on that one. Perhaps that guy is not really worth my kidney. Maybe he can get somebody else\'s kidney. I don\'t think he can get my one.
 
-But you see, Christ died for that person also. Christ died for all. He
-gave Himself for all, and in doing so, He gave us a model for our
-charity.
+But you see, Christ died for that person also. Christ died for all. He gave Himself for all, and in doing so, He gave us a model for our charity.
 
-We have to love everybody, which means we have to sacrifice ourselves
-for everybody. Go out of your way for everybody. Everybody needs
-affection. Everybody has a human heart.
+We have to love everybody, which means we have to sacrifice ourselves for everybody. Go out of your way for everybody. Everybody needs affection. Everybody has a human heart.
 
-It might seem at times that other people don\'t have a human heart
-because of what they do or what they say, but often those are just
-superficial things. Or maybe they didn\'t sleep too well last night, or
-a whole pile of other things.
+It might seem at times that other people don\'t have a human heart because of what they do or what they say, but often those are just superficial things. Or maybe they didn\'t sleep too well last night, or a whole pile of other things.
 
-Charity means we give people the benefit of the doubt. The golden rule
-is that we "do unto others as we would like done to ourselves" (Matt.
-7:12).
+Charity means we give people the benefit of the doubt. The golden rule is that we "do unto others as we would like done to ourselves" (Matt. 7:12).
 
-Somebody told me a number of years ago that they were giving a talk in a
-major plant of a major multinational corporation to a big group of
-workers. The talk was on charity.
+Somebody told me a number of years ago that they were giving a talk in a major plant of a major multinational corporation to a big group of workers. The talk was on charity.
 
-There happened to be somebody from the head office in Switzerland who
-was touring the plant. He sat in on this talk for a few minutes and
-heard a few things about charity. He came to the speaker afterwards and
-said, 'Look, keep talking about charity. We all need to hear more about
-charity.'
+There happened to be somebody from the head office in Switzerland who was touring the plant. He sat in on this talk for a few minutes and heard a few things about charity. He came to the speaker afterwards and said, 'Look, keep talking about charity. We all need to hear more about charity.'
 
-Maybe he was talking about humanity in general, but he was also talking
-about the factory floor. Charity is also very important because we need
-to create the right environment in which people can work.
+Maybe he was talking about humanity in general, but he was also talking about the factory floor. Charity is also very important because we need to create the right environment in which people can work.
 
-We need an environment of affection, of encouragement, of support. We
-need to know those nice little words or gestures we can do for other
-people that make their lives happy, make their hour happy, make this
-morning happy, because everybody is carrying a cross.
+We need an environment of affection, of encouragement, of support. We need to know those nice little words or gestures we can do for other people that make their lives happy, make their hour happy, make this morning happy, because everybody is carrying a cross.
 
-Everybody has some little difficulty in their life. We show our charity
-by helping them to carry that cross, making their life easier.
+Everybody has some little difficulty in their life. We show our charity by helping them to carry that cross, making their life easier.
 
-St. Josemaría used to say nobody has a vocation to make life more
-difficult for other people. Our vocation is to make life easier, more
-pleasant, more cheerful.
+St. Josemaría used to say nobody has a vocation to make life more difficult for other people. Our vocation is to make life easier, more pleasant, more cheerful.
 
-We don\'t know the crosses that other people may be carrying, or how
-they\'re feeling today, or a whole pile of other things.
+We don\'t know the crosses that other people may be carrying, or how they\'re feeling today, or a whole pile of other things.
 
-But our calling is to make their journey a bit easier with our words,
-with our gestures, with our kindness.
+But our calling is to make their journey a bit easier with our words, with our gestures, with our kindness.
 
-St. Paul says those two very powerful words, "Charity is patient,
-charity is kind" (1 Cor. 13:4).
+St. Paul says those two very powerful words, "Charity is patient, charity is kind" (1 Cor. 13:4).
 
-If you think, In the last two weeks, on what occasion did I have a few
-kind words to say to somebody? A few kind words don\'t cost us anything.
-But everybody needs a few kind words.
+If you think, In the last two weeks, on what occasion did I have a few kind words to say to somebody? A few kind words don\'t cost us anything. But everybody needs a few kind words.
 
-We have to try and have those few kind words on our lips from time to
-time, to say nice things, to encourage people in their work, to give
-them compliments.
+We have to try and have those few kind words on our lips from time to time, to say nice things, to encourage people in their work, to give them compliments.
 
-"And if you do good to those who do good to you, what credit is that to
-you? For even sinners do the same" (Luke 6:33). People who don\'t
-believe in God sometimes love other people who love them.
+"And if you do good to those who do good to you, what credit is that to you? For even sinners do the same" (Luke 6:33). People who don\'t believe in God sometimes love other people who love them.
 
-We\'re called to be a little bit better, because "the charity of Christ
-is poured into our hearts by the Holy Spirit, who is given to us" (Rom.
-5:5).
+We\'re called to be a little bit better, because "the charity of Christ is poured into our hearts by the Holy Spirit, who is given to us" (Rom. 5:5).
 
-We draw our love from the Blessed Eucharist. We draw love from the
-sacraments, where grace is poured into our hearts. The Blessed Trinity
-comes to live in our souls in grace. This is the source and the force of
-our charity.
+We draw our love from the Blessed Eucharist. We draw love from the sacraments, where grace is poured into our hearts. The Blessed Trinity comes to live in our souls in grace. This is the source and the force of our charity.
 
-That\'s why we come back to the sacraments in a regular way. God draws
-us like a magnet.
+That\'s why we come back to the sacraments in a regular way. God draws us like a magnet.
 
-He wants to fill us full of His love, so that our love can be shown not
-just in nice dreams or nice ideas or in theory, but in very concrete
-ways, living out this calling of love in a regular way, in a daily way.
+He wants to fill us full of His love, so that our love can be shown not just in nice dreams or nice ideas or in theory, but in very concrete ways, living out this calling of love in a regular way, in a daily way.
 
-"If you lend to those from whom you hope to receive, what credit is that
-to you? Even sinners lend to sinners to receive as much again. But love
-your enemies" (Luke 6:34-35).
+"If you lend to those from whom you hope to receive, what credit is that to you? Even sinners lend to sinners to receive as much again. But love your enemies" (Luke 6:34-35).
 
-Our Lord comes to emphasize this point. Very often in His teaching, He
-says, "You have heard to those of old, but I say to you..." (Matt. 5:21,
-27, 33, 38)
+Our Lord comes to emphasize this point. Very often in His teaching, He says, "You have heard to those of old, but I say to you..." (Matt. 5:21, 27, 33, 38)
 
-Our Lord makes it very clear. Now the game plan has changed: "But I say
-to you..." 'I now change the old law or the old teaching.'
+Our Lord makes it very clear. Now the game plan has changed: "But I say to you..." 'I now change the old law or the old teaching.'
 
-Fundamentally the law of Christ is a law of love. That\'s what the
-Church has come to teach the world. What she shows through all her
-apostolates in education, in health care---it\'s all a message of love.
+Fundamentally the law of Christ is a law of love. That\'s what the Church has come to teach the world. What she shows through all her apostolates in education, in health care---it\'s all a message of love.
 
-"Love your enemies, and do good, and lend, expecting nothing in return"
-(Luke 6:35). We don\'t do nice things to other people so that they will
-do nice things to us.
+"Love your enemies, and do good, and lend, expecting nothing in return" (Luke 6:35). We don\'t do nice things to other people so that they will do nice things to us.
 
-Little children standing around, sometimes you might hear them saying,
-'Will you be my friend? I\'ll be your friend if you\'ll be my friend.'
-But then the next week they\'re tired and they want to make another
-friend.
+Little children standing around, sometimes you might hear them saying, 'Will you be my friend? I\'ll be your friend if you\'ll be my friend.' But then the next week they\'re tired and they want to make another friend.
 
-We don\'t love other people just because they love us. We expect nothing
-in return. "To give and not to count the costs," said St. Ignatius.
+We don\'t love other people just because they love us. We expect nothing in return. "To give and not to count the costs," said St. Ignatius.
 
-We don\'t keep a scorecard of what I\'ve given to other people. Let our
-guardian angel remember those things if he wants, but we give and expect
-nothing in return. We don\'t have a calculating mentality: 'I have done
-so much.' We give and expect nothing in return.
+We don\'t keep a scorecard of what I\'ve given to other people. Let our guardian angel remember those things if he wants, but we give and expect nothing in return. We don\'t have a calculating mentality: 'I have done so much.' We give and expect nothing in return.
 
-The joy of the giver is in the joy of giving. The greatest joys in life
-come from that.
+The joy of the giver is in the joy of giving. The greatest joys in life come from that.
 
-Whenever John Paul II talks about love, he talks about giving. Love
-means giving; laying down our life for our friends.
+Whenever John Paul II talks about love, he talks about giving. Love means giving; laying down our life for our friends.
 
-"God so loved the world that he gave his only begotten Son" (John 3:16).
-Love is measured by what we give.
+"God so loved the world that he gave his only begotten Son" (John 3:16). Love is measured by what we give.
 
-"...and your reward will be great and you will be children of the Most
-High" (Luke 6:35). This is what has value in God\'s eyes: our charity.
+"...and your reward will be great and you will be children of the Most High" (Luke 6:35). This is what has value in God\'s eyes: our charity.
 
-If we\'re to grow in that virtue, we have to try and decrease our
-self-love all the time, conquering that old person that\'s there inside
-us, that\'s full of egoism, selfishness, out for blood.
+If we\'re to grow in that virtue, we have to try and decrease our self-love all the time, conquering that old person that\'s there inside us, that\'s full of egoism, selfishness, out for blood.
 
-St. Josemaría likes to say, "To complicate your life for Jesus
-Christ---that\'s the vocation of a Christian."
+St. Josemaría likes to say, "To complicate your life for Jesus Christ---that\'s the vocation of a Christian."
 
-Complicate our life---suffer a little bit ourselves so that others can
-be happy. What do they need? What do they want? How can I satisfy their
-slightest desires in small things and in big things?
+Complicate our life---suffer a little bit ourselves so that others can be happy. What do they need? What do they want? How can I satisfy their slightest desires in small things and in big things?
 
-"You will be children of the Most High, for he is kind to the ungrateful
-and the selfish" (Luke 6:35).
+"You will be children of the Most High, for he is kind to the ungrateful and the selfish" (Luke 6:35).
 
-So we don\'t wait to be thanked, and we don\'t look for thanks. We do
-and disappear. Serve Great charity is shown through this. Serve other
-people.
+So we don\'t wait to be thanked, and we don\'t look for thanks. We do and disappear. Serve Great charity is shown through this. Serve other people.
 
-"Christ came not to be served, but to serve" (Mark 10:45). He showed His
-love and the extent of His love through the service that He gave.
+"Christ came not to be served, but to serve" (Mark 10:45). He showed His love and the extent of His love through the service that He gave.
 
-"Rising up, he girded himself with a towel...and a basin, and he washed
-the feet of the apostles" (John 13:4-5).
+"Rising up, he girded himself with a towel...and a basin, and he washed the feet of the apostles" (John 13:4-5).
 
-Of all the things that Our Lord could have done during the Last Supper,
-this was possibly the most incongruous. Can you imagine, in the middle
-of dinner, after the first course, saying, 'OK, now everybody stop
-eating, I\'m going to wash your feet.' It\'s crazy. You wouldn\'t think
-about such things.
+Of all the things that Our Lord could have done during the Last Supper, this was possibly the most incongruous. Can you imagine, in the middle of dinner, after the first course, saying, 'OK, now everybody stop eating, I\'m going to wash your feet.' It\'s crazy. You wouldn\'t think about such things.
 
-Yet that\'s what Jesus did to emphasize the importance and the value of
-serving other people with love---a great goal to have in our life.
+Yet that\'s what Jesus did to emphasize the importance and the value of serving other people with love---a great goal to have in our life.
 
-At the end of this, He said, "What I have done to you, do you also to
-others" (John 13:15).
+At the end of this, He said, "What I have done to you, do you also to others" (John 13:15).
 
-Whenever I do the Holy Thursday ceremonies, I always think how
-incongruous it is: all over the world, in churches and basilicas, the
-bishop, the priest, and the pope stop to wash the feet.
+Whenever I do the Holy Thursday ceremonies, I always think how incongruous it is: all over the world, in churches and basilicas, the bishop, the priest, and the pope stop to wash the feet.
 
-One time I was giving a retreat in Malaysia in a hotel someplace for
-Easter. I used to do it for a number of years. We used to have the
-washing of the feet, precisely.
+One time I was giving a retreat in Malaysia in a hotel someplace for Easter. I used to do it for a number of years. We used to have the washing of the feet, precisely.
 
-I asked for volunteers---there were about twelve or fifteen people in
-the retreat---if anybody wanted to volunteer to have their feet washed.
+I asked for volunteers---there were about twelve or fifteen people in the retreat---if anybody wanted to volunteer to have their feet washed.
 
-Everybody volunteered. There were so many people I had to say, 'Look, in
-that case, this year we\'ll just do the left foot; next year we\'ll do
-the right foot.'
+Everybody volunteered. There were so many people I had to say, 'Look, in that case, this year we\'ll just do the left foot; next year we\'ll do the right foot.'
 
-It was very revealing. So many people wanted to have their feet washed.
-Of course, it\'s a very moving ceremony. You see the beauty of the whole
-thing.
+It was very revealing. So many people wanted to have their feet washed. Of course, it\'s a very moving ceremony. You see the beauty of the whole thing.
 
-In some ways, it might seem the most unliturgical thing you could do, in
-the middle of a liturgical ceremony, to wash your feet. But yet it has
-its place.
+In some ways, it might seem the most unliturgical thing you could do, in the middle of a liturgical ceremony, to wash your feet. But yet it has its place.
 
-Christ chose a very graphic example, as though telling us we should be
-ready to do everything, because this is the summit of love. There are no
-holds barred. There are no rules and regulations when it comes to
-charity.
+Christ chose a very graphic example, as though telling us we should be ready to do everything, because this is the summit of love. There are no holds barred. There are no rules and regulations when it comes to charity.
 
-He says, "Your reward will be great" (Luke 6:35). This is what moves the
-heart of Christ: authentic love.
+He says, "Your reward will be great" (Luke 6:35). This is what moves the heart of Christ: authentic love.
 
-We have to ask Our Lord for the grace 'to teach me how to love.' Teach
-me how to love a little more, a little better, to improve in this
-quality, to see how I can put this into practice in concrete ways.
+We have to ask Our Lord for the grace 'to teach me how to love.' Teach me how to love a little more, a little better, to improve in this quality, to see how I can put this into practice in concrete ways.
 
-We know the story of how St. Josemaría was giving Communion to some
-Carmelite nuns. As he was distributing Communion, he said to Our Lord in
-the Blessed Sacrament, "Lord, I love you more than this one. I love you
-more than this one."
+We know the story of how St. Josemaría was giving Communion to some Carmelite nuns. As he was distributing Communion, he said to Our Lord in the Blessed Sacrament, "Lord, I love you more than this one. I love you more than this one."
 
-He heard a voice deep inside him that said, "Love is deeds, not sweet
-words" (Josemaría Escriva, *Apuntes íntimos*, February 16, 1932, and
-*The Way*, Point 933).
+He heard a voice deep inside him that said, "Love is deeds, not sweet words" (Josemaría Escriva, *Apuntes íntimos*, February 16, 1932, and *The Way*, Point 933).
 
-Our Lord doesn\'t want our theoretical charity. The charity of our
-dreams. I love people in theory. Or, I love people that are far away. I
-love all the Eskimos in Alaska.
+Our Lord doesn\'t want our theoretical charity. The charity of our dreams. I love people in theory. Or, I love people that are far away. I love all the Eskimos in Alaska.
 
 It\'s the person beside me I can\'t stand.
 
-Our Lord doesn\'t say: love your friends. We choose our friends. It\'s
-easy to love our friends.
+Our Lord doesn\'t say: love your friends. We choose our friends. It\'s easy to love our friends.
 
-Our Lord says: "love your neighbor" (Mark 12:31). He chooses "our
-neighbor." That\'s where the challenge is. We have to love the people
-that are there beside us, and love them with deeds.
+Our Lord says: "love your neighbor" (Mark 12:31). He chooses "our neighbor." That\'s where the challenge is. We have to love the people that are there beside us, and love them with deeds.
 
-"Love is not sweet words." It\'s not feelings, it\'s not dreams, it\'s
-concrete reality.
+"Love is not sweet words." It\'s not feelings, it\'s not dreams, it\'s concrete reality.
 
-We have to look and see: How do I love other people, especially those
-that maybe I find a bit more difficult to love?
+We have to look and see: How do I love other people, especially those that maybe I find a bit more difficult to love?
 
-That\'s where the challenge comes, to stand on my love of self, my
-impatience, my lack of kindness, my selfishness, not going the extra
-mile.
+That\'s where the challenge comes, to stand on my love of self, my impatience, my lack of kindness, my selfishness, not going the extra mile.
 
-It\'s this person that God has placed beside me that He wants me to
-love, as if he was Christ Himself.
+It\'s this person that God has placed beside me that He wants me to love, as if he was Christ Himself.
 
-If we find people difficult to love on a natural plane, we just lift it
-up onto the supernatural. We see Christ in people.
+If we find people difficult to love on a natural plane, we just lift it up onto the supernatural. We see Christ in people.
 
-This person is worth all the blood of Christ. Even if this person was
-the only person in the whole world, Christ would still have died for
-them. This person has great value in God\'s eyes. The blood of Christ is
-flowing through their veins.
+This person is worth all the blood of Christ. Even if this person was the only person in the whole world, Christ would still have died for them. This person has great value in God\'s eyes. The blood of Christ is flowing through their veins.
 
-Those supernatural considerations can lead us to love people a little
-more, be more generous in our love, to go out of our way with little
-details, with small things that make people happy.
+Those supernatural considerations can lead us to love people a little more, be more generous in our love, to go out of our way with little details, with small things that make people happy.
 
-That\'s what people have to know us for---the way we show our love (cf.
-John 13:35).
+That\'s what people have to know us for---the way we show our love (cf. John 13:35).
 
-An Australian missionary in Japan told me once how there were some nuns
-from Australia there running a school in Tokyo.
+An Australian missionary in Japan told me once how there were some nuns from Australia there running a school in Tokyo.
 
-During the Second World War, Japan was at war with Australia, so the
-Australian nuns were interned, just like people who were here.
+During the Second World War, Japan was at war with Australia, so the Australian nuns were interned, just like people who were here.
 
-For five years they were locked up, and then they were allowed out at
-the end of the war. This person said they went back to running their
-kindergarten and primary schools.
+For five years they were locked up, and then they were allowed out at the end of the war. This person said they went back to running their kindergarten and primary schools.
 
-The Japanese couldn\'t quite understand that. 'We take these people, and
-we intern them for five years, and then we let them out, and they just
-go back to doing what they were doing before.'
+The Japanese couldn\'t quite understand that. 'We take these people, and we intern them for five years, and then we let them out, and they just go back to doing what they were doing before.'
 
-Then, it seems, many of the cows in the fields had been lost during the
-war. So these nuns sent to Australia for one or two cows, and the cows
-came, and so these families had milk for their children.
+Then, it seems, many of the cows in the fields had been lost during the war. So these nuns sent to Australia for one or two cows, and the cows came, and so these families had milk for their children.
 
-The Japanese couldn\'t understand it even more. 'Not only did they go
-back to doing what they were doing, but they even got us milk for our
-children.'
+The Japanese couldn\'t understand it even more. 'Not only did they go back to doing what they were doing, but they even got us milk for our children.'
 
-"Love is shown in deeds." It impresses and it\'s impressive, not at a
-theoretical level, not nebulous in the clouds, but concrete realities.
+"Love is shown in deeds." It impresses and it\'s impressive, not at a theoretical level, not nebulous in the clouds, but concrete realities.
 
-There\'s a book by the management guru of management called Peter
-Drucker, which asks what makes people effective.
+There\'s a book by the management guru of management called Peter Drucker, which asks what makes people effective.
 
-He says what makes people effective is that they ask the right question.
-They don\'t just do good things; they do the right things, because they
-ask the right question.
+He says what makes people effective is that they ask the right question. They don\'t just do good things; they do the right things, because they ask the right question.
 
 And the right question is: What can I contribute?
 
-It\'s a very good question to ask. What can I contribute in this
-department, in this morning, in this particular moment, in this task
-we\'re doing at the moment? In laying this table, in mopping this floor,
-in organizing this laundry---what can I contribute?
+It\'s a very good question to ask. What can I contribute in this department, in this morning, in this particular moment, in this task we\'re doing at the moment? In laying this table, in mopping this floor, in organizing this laundry---what can I contribute?
 
-Often I can contribute my attention, my focus, my concentration. Often,
-I can think out of the box and then come up with some nice idea that can
-solve this problem.
+Often I can contribute my attention, my focus, my concentration. Often, I can think out of the box and then come up with some nice idea that can solve this problem.
 
-I can think with responsibility, with the managerial mentality, with the
-mind of the person in charge.
+I can think with responsibility, with the managerial mentality, with the mind of the person in charge.
 
-What can I contribute to this get-together? Maybe there\'s this anecdote
-or this story I heard or this nice thing that happened.
+What can I contribute to this get-together? Maybe there\'s this anecdote or this story I heard or this nice thing that happened.
 
-What can I contribute to this sick person that I\'m called to accompany?
-Maybe I could tell them stories, or maybe I could read to them. Or maybe
-I could just keep quiet and let them sleep, so they don\'t die from
-overexposure to conversation.
+What can I contribute to this sick person that I\'m called to accompany? Maybe I could tell them stories, or maybe I could read to them. Or maybe I could just keep quiet and let them sleep, so they don\'t die from overexposure to conversation.
 
-Sometimes our greatest contribution is silence, just listening to other
-people or accompanying them. Giving them the charity of our presence.
-Being there for people.
+Sometimes our greatest contribution is silence, just listening to other people or accompanying them. Giving them the charity of our presence. Being there for people.
 
-"Be merciful, even as your Father is merciful (Luke 6:36). Part of
-loving people is that gesture of mercy.
+"Be merciful, even as your Father is merciful (Luke 6:36). Part of loving people is that gesture of mercy.
 
-John Paul says mercy is another word for love (John Paul II, Encyclical,
-*Dives in Misericordia*, November 13, 1980).
+John Paul says mercy is another word for love (John Paul II, Encyclical, *Dives in Misericordia*, November 13, 1980).
 
-Mercy means forgiving, which can mean making allowances for people.
-Everybody is different. They have different likes and dislikes. Maybe
-they don\'t sleep well at night. Maybe they don\'t like this type of
-thing or this sort of thing. Maybe they have a problem with their
-arthritis and their heart attacks or with their headaches, or with all
-sorts of things.
+Mercy means forgiving, which can mean making allowances for people. Everybody is different. They have different likes and dislikes. Maybe they don\'t sleep well at night. Maybe they don\'t like this type of thing or this sort of thing. Maybe they have a problem with their arthritis and their heart attacks or with their headaches, or with all sorts of things.
 
 Everyone needs to be made allowance for.
 
-We help them with fraternal correction perhaps, with prayer. "Judge not
-and you will not be judged" (Luke 6:37).
+We help them with fraternal correction perhaps, with prayer. "Judge not and you will not be judged" (Luke 6:37).
 
-We may find that the devil is very active. The last thing he wants us to
-do is to be kind and merciful to people, so he leads us to make
-judgments, to make comparisons, to put people in pigeonholes.
+We may find that the devil is very active. The last thing he wants us to do is to be kind and merciful to people, so he leads us to make judgments, to make comparisons, to put people in pigeonholes.
 
-But Christ invites us to go out of our way to think and do different
-things.
+But Christ invites us to go out of our way to think and do different things.
 
-A priest went to visit a family once and there was a little girl there
-who had many dolls. He asked the little girl, Which of the dolls do you
-like most?
+A priest went to visit a family once and there was a little girl there who had many dolls. He asked the little girl, Which of the dolls do you like most?
 
-The little girl picked up the ugliest, awful-looking, shaggy doll that
-was there. The priest was a bit surprised and asked her, Why do you like
-that doll?
+The little girl picked up the ugliest, awful-looking, shaggy doll that was there. The priest was a bit surprised and asked her, Why do you like that doll?
 
-Well, because all the people who come here and ask me that
-question---they all love all the other dolls. But this doll is unloved.
+Well, because all the people who come here and ask me that question---they all love all the other dolls. But this doll is unloved.
 
 The priest learned to reach out to the unloved.
 
-St. Josemaría had a horror that somebody might feel alone in the Work.
-We have to reach out to the unloved. Christ has a great sensitivity for
-the unloved: the blind, the lame, the hungry. We have to carry on that
-tradition.
+St. Josemaría had a horror that somebody might feel alone in the Work. We have to reach out to the unloved. Christ has a great sensitivity for the unloved: the blind, the lame, the hungry. We have to carry on that tradition.
 
-Have a certain eye for people who might be a little alone. Maybe
-they\'re not unloved, but they might be alone a little bit, or they
-might be feeling alone. It might not be their reality. Anybody in a
-difficult situation.
+Have a certain eye for people who might be a little alone. Maybe they\'re not unloved, but they might be alone a little bit, or they might be feeling alone. It might not be their reality. Anybody in a difficult situation.
 
-"Judge not and you will not be judged. Condemn not and you will not be
-condemned. Forgive and you will be forgiven. For the measure you give
-will be the measure you get back" (Luke 6:37-38).
+"Judge not and you will not be judged. Condemn not and you will not be condemned. Forgive and you will be forgiven. For the measure you give will be the measure you get back" (Luke 6:37-38).
 
-Very interesting words. "The measure you give will be the measure you
-get back." So Our Lord invites us to be extremely generous when it comes
-to love, to outdo ourselves.
+Very interesting words. "The measure you give will be the measure you get back." So Our Lord invites us to be extremely generous when it comes to love, to outdo ourselves.
 
-He\'s promised us a great reward, more or less telling us this is what
-our life is all about. Give, and there\'s no limit to your giving, so
-that what you get back can be equally enormous.
+He\'s promised us a great reward, more or less telling us this is what our life is all about. Give, and there\'s no limit to your giving, so that what you get back can be equally enormous.
 
-"Love is patient, love is kind. Love is never jealous. Love is not
-boastful or conceited," says St. Paul (1 Cor. 13:4).
+"Love is patient, love is kind. Love is never jealous. Love is not boastful or conceited," says St. Paul (1 Cor. 13:4).
 
-The first Letter to the Corinthians, Chapter 13, of St. Paul is often
-called the Magna Carta of Love---the greatest words of love that have
-ever been written. In the past twenty centuries, no greater and more
-beautiful words have ever been written about this topic. It\'s very
-useful to go back and read them again and again, and to hear them.
+The first Letter to the Corinthians, Chapter 13, of St. Paul is often called the Magna Carta of Love---the greatest words of love that have ever been written. In the past twenty centuries, no greater and more beautiful words have ever been written about this topic. It\'s very useful to go back and read them again and again, and to hear them.
 
-"Love is never rude, never seeks its advantage, doesn\'t take offense or
-store up grievances" (1 Cor. 13: 5-6).
+"Love is never rude, never seeks its advantage, doesn\'t take offense or store up grievances" (1 Cor. 13: 5-6).
 
-We don\'t keep a tally of the words other people have said to us, of how
-they\'ve hurt us, because we know we have also hurt other people.
+We don\'t keep a tally of the words other people have said to us, of how they\'ve hurt us, because we know we have also hurt other people.
 
-Sometimes we can think the devil can lead us to think that I am the most
-lovable person in the whole world. Really, that was the basis of the
-message of both presidential candidates.
+Sometimes we can think the devil can lead us to think that I am the most lovable person in the whole world. Really, that was the basis of the message of both presidential candidates.
 
-We all tend to portray that message: everybody should love me; I am the
-most lovable person.
+We all tend to portray that message: everybody should love me; I am the most lovable person.
 
-But it\'s very good to remember that we\'ve all been unlovable. If you
-go home and ask your Mum: 'Mum, have I ever been unlovable?' They\'ll
-say, 'Sit down for three hours and I\'ll tell you about it.'
+But it\'s very good to remember that we\'ve all been unlovable. If you go home and ask your Mum: 'Mum, have I ever been unlovable?' They\'ll say, 'Sit down for three hours and I\'ll tell you about it.'
 
-We\'ve all been the most unlovable people you could imagine in the whole
-world, and because we know we have been unlovable, we try to make up in
-the future for the things of the past, to make up for our being so
-unlovable; for the fact that we\'ve hurt perhaps so many people,
-consciously or unconsciously.
+We\'ve all been the most unlovable people you could imagine in the whole world, and because we know we have been unlovable, we try to make up in the future for the things of the past, to make up for our being so unlovable; for the fact that we\'ve hurt perhaps so many people, consciously or unconsciously.
 
-We\'ve trodden on their toes. We\'ve said things that perhaps they will
-remember for the rest of their lives. We never even realized it. Or
-maybe we did. We have a lot to make up for.
+We\'ve trodden on their toes. We\'ve said things that perhaps they will remember for the rest of their lives. We never even realized it. Or maybe we did. We have a lot to make up for.
 
-St. Paul says, "The charity of Christ urges us on--*Caritas Christi
-urget nos"* (2 Cor. 5:14).
+St. Paul says, "The charity of Christ urges us on--*Caritas Christi urget nos"* (2 Cor. 5:14).
 
-The measure that Christ has given to us. The example. The beauty. The
-world that is so much in need of love urges us to be in a hurry to show
-love through our work, through our smile, through our mortification,
-through our sacrifice.
+The measure that Christ has given to us. The example. The beauty. The world that is so much in need of love urges us to be in a hurry to show love through our work, through our smile, through our mortification, through our sacrifice.
 
-Lord, teach me how to put this virtue into practice in concrete ways: to
-show love of others and show love of you. Show them that I care.
+Lord, teach me how to put this virtue into practice in concrete ways: to show love of others and show love of you. Show them that I care.
 
-We\'re told, "Charity endures all things" (1 Cor. 13:7). There may be
-certain things that we find difficult to endure, but charity endures all
-things. It takes the blows. Christ on the Cross took all the blows.
+We\'re told, "Charity endures all things" (1 Cor. 13:7). There may be certain things that we find difficult to endure, but charity endures all things. It takes the blows. Christ on the Cross took all the blows.
 
-He\'s left us that marvelous phrase in Scripture that says, "We receive
-fewer blows than we deserve" (cf. Luke 12:48).
+He\'s left us that marvelous phrase in Scripture that says, "We receive fewer blows than we deserve" (cf. Luke 12:48).
 
-That can be very helpful if ever we feel that we have been wronged, or
-we feel someone has cheated us in some way, or somebody has said
-something that isn\'t fair.
+That can be very helpful if ever we feel that we have been wronged, or we feel someone has cheated us in some way, or somebody has said something that isn\'t fair.
 
-We can recover our balance by remembering that "we receive fewer blows
-than we deserve." There may be other times when God lets us get away
-with murder. Or we weren\'t caught.
+We can recover our balance by remembering that "we receive fewer blows than we deserve." There may be other times when God lets us get away with murder. Or we weren\'t caught.
 
-We offer this blow, this difficulty, uniting it to the wounds of Christ
-on the Cross. We find the solace in so many things. The meaning and the
-purpose of our life. Our consolation and our joy.
+We offer this blow, this difficulty, uniting it to the wounds of Christ on the Cross. We find the solace in so many things. The meaning and the purpose of our life. Our consolation and our joy.
 
-"Enter into the wounds of Christ Crucified" (J. Escrivá, *The Way*,
-Point 288). The Holy Spirit is there, the spirit of love. We find our
-peace and our joy.
+"Enter into the wounds of Christ Crucified" (J. Escrivá, *The Way*, Point 288). The Holy Spirit is there, the spirit of love. We find our peace and our joy.
 
-If we stay close to Our Lady, we find that the whole of her life was a
-life of self-giving---forgetting about herself, her plans.
+If we stay close to Our Lady, we find that the whole of her life was a life of self-giving---forgetting about herself, her plans.
 
-When she was, whatever age she was, she had no plans of getting pregnant
-or going off to some God-forsaken place called Bethlehem; then, going to
-Egypt and staying there. All of her plans were shot completely.
+When she was, whatever age she was, she had no plans of getting pregnant or going off to some God-forsaken place called Bethlehem; then, going to Egypt and staying there. All of her plans were shot completely.
 
 But she forgot all about herself. She lived for her Son.
 
-Mary, may you help us imitate your example so that we can truly put this
-virtue of charity into practice.
+Mary, may you help us imitate your example so that we can truly put this virtue of charity into practice.
 
-*I thank you, my God, for the good resolutions, affections, and
-inspirations that you have communicated to me during this meditation. I
-ask your help to put them into practice. My Immaculate Mother, Saint
-Joseph, my father and lord, my guardian angel, intercede for me.*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *JSD*

@@ -25,7 +25,8 @@ find "$source_dir" -name "*.doc*" -print0 | tr '\0' '\n' | pv -l -s "$total" | w
   markdown_file="$dest_dir/$(basename "$doc_file" | sed 's/\.doc[x]*$/.md/')"
 
   # Convert the file (assuming convert.sh handles the conversion)
-  ./convert.sh "$doc_file" > "$markdown_file"
+  ./convert_fast.sh "$doc_file" > "$markdown_file"
+  # ./convert.sh "$doc_file" > "$markdown_file"
 
   # Check if the conversion was successful and provide feedback
   if [ $? -eq 0 ]; then

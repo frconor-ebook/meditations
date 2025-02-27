@@ -9,452 +9,210 @@ By Fr. Conor Donnelly
 
 (*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*My Lord and my God, I firmly believe that you are here, that you see
-me, that you hear me. I adore you with profound reverence. I ask your
-pardon for my sins and grace to make this time of prayer fruitful. My
-Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
-intercede for me.*
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"He put another parable before them. 'The kingdom of heaven is like a
-mustard seed which a man took and sowed in his field. It is the smallest
-of all the seeds, but when it has grown it is the biggest of shrubs and
-becomes a tree, so that the birds of the air can come and shelter in its
-branches'" (Matt. 13:31-32).
+"He put another parable before them. 'The kingdom of heaven is like a mustard seed which a man took and sowed in his field. It is the smallest of all the seeds, but when it has grown it is the biggest of shrubs and becomes a tree, so that the birds of the air can come and shelter in its branches'" (Matt. 13:31-32).
 
 Today we celebrate the feast of St. Joachim and St. Anne.
 
-God planted a seed in their marriage, in their home, and their family
-life, and from that seed was to come Our Lady and everything that Our
-Lady represents in our life, in the Church, and in the world---a small
-seed that has grown to become something wonderful, where the birds of
-the air can come and shelter in its branches.
-
-An ancient tradition attributes the names of Joachim and Anne to the
-parents of Our Lady.
-
-Devotion to them is like a prolongation of the piety with which the
-faithful of the Church have always approached the intercession of their
-daughter, Our Mother Mary.
-
-Pope Leo XIII in the 1800s created this joint feast, which had been
-celebrated individually up until that time.
-
-The Entrance Antiphon of today\'s Mass said, "Praised be Joachim and
-Anne for the child they bore. The Lord gave him who was a blessing for
-all the nations."
-
-When we celebrate their feast day, we\'re celebrating their domestic
-Church, their home---that school of virtue, school of love, school of
-piety. It was to form Our Lady to become the model of all the virtues.
-
-John Paul II says that a very ancient tradition has preserved for us the
-names of Mary\'s parents, who were, "in their time and historical
-circumstances, a precious foundational stone in the fulfillment of the
-salvation of mankind (John Paul II, *Address*, July 26, 1983).
-
-When we look and consider and meditate on the power of Joachim and Anne
-and their home, we see the power of a Christian home.
-
-Possibly God has called each one of us to play a major role in forming a
-Christian home, in building a great civilization, in building up the
-souls that He has entrusted to us to take their place in the world and
-in the Church, and to yield an abundant fruit.
-
-Through Joachim and Anne, the blessing that God promised Abraham and his
-descendants has reached us, since we received the Savior through their
-cooperation.
-
-St. John Damascene affirms that we know the blessed couple by their
-fruits (cf. Matt. 7:16): the Virgin Mary is the resplendent fruit they
-gave to humanity.
-
-If you\'re already married and God is sending you children, today is a
-good day to pray for the souls of their children, for the hopefully
-resplendent fruit that will come with their life, with their marriage
-vocation, and their professional vocation, or whatever role God has for
-them in the history of humanity.
-
-St. Anne conceived Our Lady, most pure and immaculate, in her womb. St.
-John Damascene says, "O most beautiful, most lovable child! O daughter
-of Adam and Mother of God! Blessed be the womb that bore you! Blessed be
-the arms that held you, the lips that had the privilege of kissing you"
-(John of Damascus, Sermon, *Office of Readings, Ann and Joachim*).
-
-Joachim and Anne had the immense privilege of caring for the Mother of
-God in their home. We could ask them that we might place all the time,
-all the energy, all the planning necessary to see the formation of our
-children as a primary task that God has given to us.
-
-Our Lord must have poured out many graces on them throughout that time.
-St. Teresa of Ávila liked to entrust many of the monasteries she founded
-to the protection of St. Joachim and St. Anne.
-
-One writer says, "The mercy of God is so great that he will never fail
-to favor the homes of his glorious grandmother" (Marcelle Auclair,
-*Saint Teresa of Avila*).
-
-Our Lord descended directly from the maternal side of the faithful
-parents whose feast we celebrate today.
-
-We can entrust the mother and father of Our Lady with all our needs and
-concerns, particularly those that have to do with the sanctity of our
-homes.
-
-In the Opening Prayer we say, "Lord, God of our fathers, you gave St.
-Joachim and St. Anne the privilege of being the parents of Mary, the
-Mother of your Incarnate Son. May their prayers help us to attain the
-salvation you have promised to your people."
-
-We can ask them to help us to be vigilant on behalf of those that God
-has placed in our care. Help us to create a human and supernatural tone
-for our surroundings, in which it will be easier to find you, Our God,
-our last end and our treasure.
-
-John Paul II liked to say that St. Joachim and St. Anne can be "a
-constant source of inspiration in everyday family and social life. We
-can pass on to one another, from one generation to the next, the entire
-spiritual legacy of Christian life in a Christian home, including
-prayer" (John Paul II, *Address*, 21 June 1983).
-
-Mary received the treasure of the traditions of the house of David,
-which had been passed on for generations, from her parents at home.
-
-When we look at Our Lady, we see reflected that spiritual treasure.
-There\'s an incredible wealth in Our Lady of all these wonderful things.
-
-We can also bear in mind that when we go to the trouble of taking care
-of family traditions, of passing on family spirit, of being at home for
-family occasions---the best time in our life should be at home and with
-our family.
-
-We inculcate values in our children that may get passed on to
-grandchildren and great-grandchildren.
-
-By living our marriage vocation well, we can set in train a whole system
-of family values that can be our crown in heaven, and it can be passed
-on for all eternity.
-
-In that home, Our Lady learns the prophecies referring to the coming of
-the Messiah---the place of His birth.
-
-When Our Lady came to set up her own home, she must have remembered the
-home of her parents and brought with her all those gold nuggets of
-family values, of affection, of charity, of what\'s important and
-what\'s not important, to that moment when Jesus was born, and to each
-of those places where they learned to call home.
-
-She learned how to call home where her bed was. She wasn\'t
-nostalgically or pathologically attached to the past.
-
-In Christian tradition, we learn that the home we found is more
-important than the home we come from. Everything is focused on the
-future.
-
-Our Lord learned from His mother popular ways of speaking, and sayings
-full of wisdom which He later employed in His preaching.
-
-"Blessed are they who hear the word of God and keep it" (Luke 11:28). He
-learned about the value of small seeds that will grow into wonderful
-trees and produce wonderful fruits over time.
-
-Our Lord would have piously heard from His mother\'s lips the first
-prayers that the Hebrews taught their children as soon as they could
-speak.
-
-We\'re reminded that the spiritual formation of our children, to a large
-extent, takes place before they\'re seven years of age.
-
-Those basic prayers that they have to hear at the breakfast table, the
-Morning Offering, or other prayers that they might not hear in a Mass,
-like the *Memorare*, the Angelus, or the Prayer to the Guardian Angel,
-have to be an important part of their early Christian formation.
-
-Our Lady must have been a very good teacher, with great tenderness. She
-must have reflected the richness of her own soul that was so full of
-grace.
-
-We\'re reminded that one of the greatest things we can do for our family
-is to live in a state of grace---to let the Holy Spirit speak through
-His presence in our soul, with our words, with our actions, but also
-with the Christ-like ambiance that we bear with us, the sweet fragrance
-of Christ.
-
-Probably we have also received the great gift of faith, and all sorts of
-good customs and values, which have been handed down to us in our own
-families as a treasure. But foremost among all those is the great
-treasure of our faith.
-
-We have the gracious duty of maintaining that patrimony and passing it
-on to others.
-
-When we live at a time when there are great attacks on the family, we
-need to practice a lot of fortitude to conserve the inheritance that we
-have received.
-
-"The future of humanity," John Paul II said, "passes through the family"
-(John Paul II, Apostolic Exhortation, *Familiaris Consortio*).
-
-We have to see how we can influence culture, customs, and public
-opinion, so as to communicate this truth to so many other people.
-
-We\'re called to enrich culture through our faith and through our
-struggle to practice all the human virtues.
-
-We make God present in our homes by means of everyday Christian customs:
-the blessings at mealtimes, night prayers with the youngest children,
-maybe reading some passage from the Gospel with the older ones, saying a
-brief prayer for the deceased, visiting cemeteries at certain moments
-throughout the year, especially on November 2, so that children learn
-the messages of death and how to pray for the people who went before
-them; praying for the Pope; attending mass together on Sundays,
-especially when the children are young; reciting the Rosary; invoking
-the guardian angels when we\'re going on a little journey or early
-moments of the day.
-
-It\'s not necessary to have many family acts of piety; just a few. But
-it would be unnatural for a family of believers not to have some: to
-have a crib at Christmas time and to say a Hail Mary or two in front of
-it.
-
-Parents who pray with their children often have an easier time finding a
-way into their hearts. That example of prayer can be very eloquent.
-
-Parents who listen to their children pray can learn much about prayer,
-because, we\'ve been told, "Unless you become like little children, you
-cannot enter the kingdom of heaven" (Matt. 18:3).
-
-Young people never forget the help their parents gave them---in teaching
-them how to pray, and they turn to Our Lady for all their needs.
-
-We can be very grateful for the prayers that our parents may have taught
-us as children, and for the practical ways that they\'ve taught us to
-turn to the Blessed Sacrament or to Our Lady.
-
-Often this is the greatest inheritance we could receive and the greatest
-legacy we can give others.
-
-We could ask Our Lady to help us to be instruments of unity among the
-various members of our family, particularly through our cheerful deeds
-of service and the small daily sacrifices that we may make to help
-others.
-
-We could pray for the member of the family who may need it most; to give
-the weakest, or the member of the family who is weakening, greater
-attention; and to be especially affectionate to whichever one may be
-sick or troubled.
-
-In 2021, the Holy Father pronounced that the fourth Sunday of July
-should be a Day for Grandparents and for the Elderly. He wants us to pay
-special attention to our grandparents on this day.
-
-The feast day is the Sunday that is nearest to the feast of St. Joachim
-and St. Anne. If our grandparents are deceased, if it\'s possible, it\'s
-going to be a good day to visit their graves.
-
-If they\'re alive, we want to go and visit them or call them; make
-certain gestures of contact and unity.
-
-The Holy Father has wanted us to use the phrase from St. Matthew as a
-motto for our day, or theme: "I am with you always" (Matt. 18:20)---the
-promise that Our Lord made to His disciples before He entered into
-heaven.
-
-He\'s reminded us with a document from the Pontifical Academy for Life
-that "being elderly is a gift of God and an enormous resource, an
-achievement to be safeguarded with care. ... The richness of our years
-is a treasure to be valued and protected. ... The elderly can be the
-most fragile part of society" (Pontifical Academy for Life, *Old Age:
-Our Future*, February 2, 2021).
-
-For the elderly, there can be a demand for humility. Old age can bring
-irrelevance. We have to try and be ready to be irrelevant, 'to be'
-rather than 'to do.'
-
-Maybe we spent the whole of our life doing and now it\'s just time to
-be. God makes us irrelevant to make us relevant.
-
-God makes others see God in the elderly. It\'s the witness of presence
-as opposed to action.
-
-Many years ago in Singapore, there was an excursion that all the priests
-of the diocese made together. We got into a boat, and we went out for a
-bit of a joy ride for a few hours in the sea.
-
-But there was an elderly Jesuit priest there in his 80s who came along.
-I don\'t know if he was very comfortable physically. He wasn\'t able to
-move around the boat because it was moving around quite a bit. But he
-was there.
-
-On the way home, I was giving a lift to another priest, and I happened
-to mention how nice it was that that elderly priest took the truck over
-to come along. It was very nice that he was there. This other priest who
-was with me said, "Yes," he said, "it's the witness of presence."
-
-Sometimes our presence alone---presence of elderly people at a function,
-at a family do, at a party---can mean an awful lot. It\'s not what they
-say, it\'s just the fact that they\'re there. The witness of presence.
-
-"In our society," that document says, "the idea of old age as an unhappy
-age often prevails. It's often only understood as the age of care, need,
-and expense for medical care."
-
-The World Health Organization says that "in the year 2050, there will be
-two billion elderly people. One in five will be elderly."
-
-The document suggests that "nursing homes should be redeveloped into a
-socio-health 'continuum', offering some of their services directly in
-the homes of the elderly: hospitalization at home; taking care of the
-single person with low or high-intensity assistance responses based on
-personal needs, where integrated social and health care and home care
-services are the pivot of a new and modern paradigm."
-
-We could use this day of the elderly to think of how we could make the
-lives of the elderly around us a little easier: to be aware that they
-can have trouble going upstairs, or carrying things, or difficulty in
-public transport. They may need assistance to get on and off.
-
-The document says, "At the same time a wider network of solidarity must
-be reinvented, not necessarily and exclusively based on blood ties, but
-on affiliations, friendships, common feeling, mutual generosity in
-responding to the needs of all."
-
-It could be good to have a think-in with your family and see what other
-elderly people in my neighborhood or on my street, might need a helping
-hand someday.
-
-They might need help to get a newspaper, or some shopping done for them.
-Or just getting out of their house or getting to church. There may be
-very simple basic things.
-
-Or they might need someone to pull up the weeds in their garden or to
-cut the grass. You can teach your children to have a great social
-conscience just from their own family home, and to grow with that
-awareness of the affection that may be needed and much appreciated.
-
-I brought a secondary school student to a place called Muranga a number
-of years ago to see his grandmother. We were going there for another
-purpose; we just brought this fellow along. His grandmother hadn\'t seen
-him for two years.
-
-She later told us she was out at the gate of the house looking down the
-road three times during that morning to see if he was coming.
-
-When we finally arrived, she danced a jig at 80 plus years of age around
-this fellow. I\'d never seen an elderly person so happy in my life.
-
-Sometimes the little things that grandchildren do for their grandparents
-can make them the happiest people in the world, because often they
-realize that their happiness does not come from material things. It
-comes from the love that their offspring can give them.
-
-If we have been given the grace to have a large family, that can be the
-greatest joy of the life of an elderly person.
-
-Pope Francis has repeatedly urged young people to stay close to their
-grandparents. "The aging person is not approaching the end," he says,
-"but the mystery of eternity. To understand this, he needs to get close
-to God and to live in a relationship with him."
-
-He encourages us to "take care of the spirituality of the elderly, of
-their need for intimacy with Christ and sharing of faith, which is a
-task of charity in the Church" (*Ibid*.).
-
-In the era of mobile phones, it may be easy for grandchildren to just
-call their grandparents, even just to say hi, or just to let them hear
-the sound of their voice even if they can\'t speak words yet. Just that
-little thing can bring such joy.
-
-The pope also highlights that "it\'s only thanks to the elderly that
-young people can rediscover their roots, and it is only thanks to the
-young that the elderly can rediscover their ability to dream\...The
-precious witness that the elderly bear with their frailty is a
-'magisterium,' a real teaching."
-
-They teach young people so many things about life. They have so many
-lessons that are imparted in small ways. Often they have learned so many
-lessons.
-
-He says, "Old age must be understood in this spiritual framework. It\'s
-the ideal age for abandonment by God. As the body weakens, psychic
-vitality, memory, and mind grow dim, the human person\'s dependence on
-God becomes increasingly evident."
+God planted a seed in their marriage, in their home, and their family life, and from that seed was to come Our Lady and everything that Our Lady represents in our life, in the Church, and in the world---a small seed that has grown to become something wonderful, where the birds of the air can come and shelter in its branches.
+
+An ancient tradition attributes the names of Joachim and Anne to the parents of Our Lady.
+
+Devotion to them is like a prolongation of the piety with which the faithful of the Church have always approached the intercession of their daughter, Our Mother Mary.
+
+Pope Leo XIII in the 1800s created this joint feast, which had been celebrated individually up until that time.
+
+The Entrance Antiphon of today\'s Mass said, "Praised be Joachim and Anne for the child they bore. The Lord gave him who was a blessing for all the nations."
+
+When we celebrate their feast day, we\'re celebrating their domestic Church, their home---that school of virtue, school of love, school of piety. It was to form Our Lady to become the model of all the virtues.
+
+John Paul II says that a very ancient tradition has preserved for us the names of Mary\'s parents, who were, "in their time and historical circumstances, a precious foundational stone in the fulfillment of the salvation of mankind (John Paul II, *Address*, July 26, 1983).
+
+When we look and consider and meditate on the power of Joachim and Anne and their home, we see the power of a Christian home.
+
+Possibly God has called each one of us to play a major role in forming a Christian home, in building a great civilization, in building up the souls that He has entrusted to us to take their place in the world and in the Church, and to yield an abundant fruit.
+
+Through Joachim and Anne, the blessing that God promised Abraham and his descendants has reached us, since we received the Savior through their cooperation.
+
+St. John Damascene affirms that we know the blessed couple by their fruits (cf. Matt. 7:16): the Virgin Mary is the resplendent fruit they gave to humanity.
+
+If you\'re already married and God is sending you children, today is a good day to pray for the souls of their children, for the hopefully resplendent fruit that will come with their life, with their marriage vocation, and their professional vocation, or whatever role God has for them in the history of humanity.
+
+St. Anne conceived Our Lady, most pure and immaculate, in her womb. St. John Damascene says, "O most beautiful, most lovable child! O daughter of Adam and Mother of God! Blessed be the womb that bore you! Blessed be the arms that held you, the lips that had the privilege of kissing you" (John of Damascus, Sermon, *Office of Readings, Ann and Joachim*).
+
+Joachim and Anne had the immense privilege of caring for the Mother of God in their home. We could ask them that we might place all the time, all the energy, all the planning necessary to see the formation of our children as a primary task that God has given to us.
+
+Our Lord must have poured out many graces on them throughout that time. St. Teresa of Ávila liked to entrust many of the monasteries she founded to the protection of St. Joachim and St. Anne.
+
+One writer says, "The mercy of God is so great that he will never fail to favor the homes of his glorious grandmother" (Marcelle Auclair, *Saint Teresa of Avila*).
+
+Our Lord descended directly from the maternal side of the faithful parents whose feast we celebrate today.
+
+We can entrust the mother and father of Our Lady with all our needs and concerns, particularly those that have to do with the sanctity of our homes.
+
+In the Opening Prayer we say, "Lord, God of our fathers, you gave St. Joachim and St. Anne the privilege of being the parents of Mary, the Mother of your Incarnate Son. May their prayers help us to attain the salvation you have promised to your people."
+
+We can ask them to help us to be vigilant on behalf of those that God has placed in our care. Help us to create a human and supernatural tone for our surroundings, in which it will be easier to find you, Our God, our last end and our treasure.
+
+John Paul II liked to say that St. Joachim and St. Anne can be "a constant source of inspiration in everyday family and social life. We can pass on to one another, from one generation to the next, the entire spiritual legacy of Christian life in a Christian home, including prayer" (John Paul II, *Address*, 21 June 1983).
+
+Mary received the treasure of the traditions of the house of David, which had been passed on for generations, from her parents at home.
+
+When we look at Our Lady, we see reflected that spiritual treasure. There\'s an incredible wealth in Our Lady of all these wonderful things.
+
+We can also bear in mind that when we go to the trouble of taking care of family traditions, of passing on family spirit, of being at home for family occasions---the best time in our life should be at home and with our family.
+
+We inculcate values in our children that may get passed on to grandchildren and great-grandchildren.
+
+By living our marriage vocation well, we can set in train a whole system of family values that can be our crown in heaven, and it can be passed on for all eternity.
+
+In that home, Our Lady learns the prophecies referring to the coming of the Messiah---the place of His birth.
+
+When Our Lady came to set up her own home, she must have remembered the home of her parents and brought with her all those gold nuggets of family values, of affection, of charity, of what\'s important and what\'s not important, to that moment when Jesus was born, and to each of those places where they learned to call home.
+
+She learned how to call home where her bed was. She wasn\'t nostalgically or pathologically attached to the past.
+
+In Christian tradition, we learn that the home we found is more important than the home we come from. Everything is focused on the future.
+
+Our Lord learned from His mother popular ways of speaking, and sayings full of wisdom which He later employed in His preaching.
+
+"Blessed are they who hear the word of God and keep it" (Luke 11:28). He learned about the value of small seeds that will grow into wonderful trees and produce wonderful fruits over time.
+
+Our Lord would have piously heard from His mother\'s lips the first prayers that the Hebrews taught their children as soon as they could speak.
+
+We\'re reminded that the spiritual formation of our children, to a large extent, takes place before they\'re seven years of age.
+
+Those basic prayers that they have to hear at the breakfast table, the Morning Offering, or other prayers that they might not hear in a Mass, like the *Memorare*, the Angelus, or the Prayer to the Guardian Angel, have to be an important part of their early Christian formation.
+
+Our Lady must have been a very good teacher, with great tenderness. She must have reflected the richness of her own soul that was so full of grace.
+
+We\'re reminded that one of the greatest things we can do for our family is to live in a state of grace---to let the Holy Spirit speak through His presence in our soul, with our words, with our actions, but also with the Christ-like ambiance that we bear with us, the sweet fragrance of Christ.
+
+Probably we have also received the great gift of faith, and all sorts of good customs and values, which have been handed down to us in our own families as a treasure. But foremost among all those is the great treasure of our faith.
+
+We have the gracious duty of maintaining that patrimony and passing it on to others.
+
+When we live at a time when there are great attacks on the family, we need to practice a lot of fortitude to conserve the inheritance that we have received.
+
+"The future of humanity," John Paul II said, "passes through the family" (John Paul II, Apostolic Exhortation, *Familiaris Consortio*).
+
+We have to see how we can influence culture, customs, and public opinion, so as to communicate this truth to so many other people.
+
+We\'re called to enrich culture through our faith and through our struggle to practice all the human virtues.
+
+We make God present in our homes by means of everyday Christian customs: the blessings at mealtimes, night prayers with the youngest children, maybe reading some passage from the Gospel with the older ones, saying a brief prayer for the deceased, visiting cemeteries at certain moments throughout the year, especially on November 2, so that children learn the messages of death and how to pray for the people who went before them; praying for the Pope; attending mass together on Sundays, especially when the children are young; reciting the Rosary; invoking the guardian angels when we\'re going on a little journey or early moments of the day.
+
+It\'s not necessary to have many family acts of piety; just a few. But it would be unnatural for a family of believers not to have some: to have a crib at Christmas time and to say a Hail Mary or two in front of it.
+
+Parents who pray with their children often have an easier time finding a way into their hearts. That example of prayer can be very eloquent.
+
+Parents who listen to their children pray can learn much about prayer, because, we\'ve been told, "Unless you become like little children, you cannot enter the kingdom of heaven" (Matt. 18:3).
+
+Young people never forget the help their parents gave them---in teaching them how to pray, and they turn to Our Lady for all their needs.
+
+We can be very grateful for the prayers that our parents may have taught us as children, and for the practical ways that they\'ve taught us to turn to the Blessed Sacrament or to Our Lady.
+
+Often this is the greatest inheritance we could receive and the greatest legacy we can give others.
+
+We could ask Our Lady to help us to be instruments of unity among the various members of our family, particularly through our cheerful deeds of service and the small daily sacrifices that we may make to help others.
+
+We could pray for the member of the family who may need it most; to give the weakest, or the member of the family who is weakening, greater attention; and to be especially affectionate to whichever one may be sick or troubled.
+
+In 2021, the Holy Father pronounced that the fourth Sunday of July should be a Day for Grandparents and for the Elderly. He wants us to pay special attention to our grandparents on this day.
+
+The feast day is the Sunday that is nearest to the feast of St. Joachim and St. Anne. If our grandparents are deceased, if it\'s possible, it\'s going to be a good day to visit their graves.
+
+If they\'re alive, we want to go and visit them or call them; make certain gestures of contact and unity.
+
+The Holy Father has wanted us to use the phrase from St. Matthew as a motto for our day, or theme: "I am with you always" (Matt. 18:20)---the promise that Our Lord made to His disciples before He entered into heaven.
+
+He\'s reminded us with a document from the Pontifical Academy for Life that "being elderly is a gift of God and an enormous resource, an achievement to be safeguarded with care. ... The richness of our years is a treasure to be valued and protected. ... The elderly can be the most fragile part of society" (Pontifical Academy for Life, *Old Age: Our Future*, February 2, 2021).
+
+For the elderly, there can be a demand for humility. Old age can bring irrelevance. We have to try and be ready to be irrelevant, 'to be' rather than 'to do.'
+
+Maybe we spent the whole of our life doing and now it\'s just time to be. God makes us irrelevant to make us relevant.
+
+God makes others see God in the elderly. It\'s the witness of presence as opposed to action.
+
+Many years ago in Singapore, there was an excursion that all the priests of the diocese made together. We got into a boat, and we went out for a bit of a joy ride for a few hours in the sea.
+
+But there was an elderly Jesuit priest there in his 80s who came along. I don\'t know if he was very comfortable physically. He wasn\'t able to move around the boat because it was moving around quite a bit. But he was there.
+
+On the way home, I was giving a lift to another priest, and I happened to mention how nice it was that that elderly priest took the truck over to come along. It was very nice that he was there. This other priest who was with me said, "Yes," he said, "it's the witness of presence."
+
+Sometimes our presence alone---presence of elderly people at a function, at a family do, at a party---can mean an awful lot. It\'s not what they say, it\'s just the fact that they\'re there. The witness of presence.
+
+"In our society," that document says, "the idea of old age as an unhappy age often prevails. It's often only understood as the age of care, need, and expense for medical care."
+
+The World Health Organization says that "in the year 2050, there will be two billion elderly people. One in five will be elderly."
+
+The document suggests that "nursing homes should be redeveloped into a socio-health 'continuum', offering some of their services directly in the homes of the elderly: hospitalization at home; taking care of the single person with low or high-intensity assistance responses based on personal needs, where integrated social and health care and home care services are the pivot of a new and modern paradigm."
+
+We could use this day of the elderly to think of how we could make the lives of the elderly around us a little easier: to be aware that they can have trouble going upstairs, or carrying things, or difficulty in public transport. They may need assistance to get on and off.
+
+The document says, "At the same time a wider network of solidarity must be reinvented, not necessarily and exclusively based on blood ties, but on affiliations, friendships, common feeling, mutual generosity in responding to the needs of all."
+
+It could be good to have a think-in with your family and see what other elderly people in my neighborhood or on my street, might need a helping hand someday.
+
+They might need help to get a newspaper, or some shopping done for them. Or just getting out of their house or getting to church. There may be very simple basic things.
+
+Or they might need someone to pull up the weeds in their garden or to cut the grass. You can teach your children to have a great social conscience just from their own family home, and to grow with that awareness of the affection that may be needed and much appreciated.
+
+I brought a secondary school student to a place called Muranga a number of years ago to see his grandmother. We were going there for another purpose; we just brought this fellow along. His grandmother hadn\'t seen him for two years.
+
+She later told us she was out at the gate of the house looking down the road three times during that morning to see if he was coming.
+
+When we finally arrived, she danced a jig at 80 plus years of age around this fellow. I\'d never seen an elderly person so happy in my life.
+
+Sometimes the little things that grandchildren do for their grandparents can make them the happiest people in the world, because often they realize that their happiness does not come from material things. It comes from the love that their offspring can give them.
+
+If we have been given the grace to have a large family, that can be the greatest joy of the life of an elderly person.
+
+Pope Francis has repeatedly urged young people to stay close to their grandparents. "The aging person is not approaching the end," he says, "but the mystery of eternity. To understand this, he needs to get close to God and to live in a relationship with him."
+
+He encourages us to "take care of the spirituality of the elderly, of their need for intimacy with Christ and sharing of faith, which is a task of charity in the Church" (*Ibid*.).
+
+In the era of mobile phones, it may be easy for grandchildren to just call their grandparents, even just to say hi, or just to let them hear the sound of their voice even if they can\'t speak words yet. Just that little thing can bring such joy.
+
+The pope also highlights that "it\'s only thanks to the elderly that young people can rediscover their roots, and it is only thanks to the young that the elderly can rediscover their ability to dream\...The precious witness that the elderly bear with their frailty is a 'magisterium,' a real teaching."
+
+They teach young people so many things about life. They have so many lessons that are imparted in small ways. Often they have learned so many lessons.
+
+He says, "Old age must be understood in this spiritual framework. It\'s the ideal age for abandonment by God. As the body weakens, psychic vitality, memory, and mind grow dim, the human person\'s dependence on God becomes increasingly evident."
 
 There are great spiritual messages and lessons there.
 
-The Pope makes an appeal that "the whole of civil society, the Church
-and the different religious traditions, the world of culture, school,
-volunteering, entertainment, the manufacturing classes, and classical
-and modern social communications, must feel the responsibility of
-suggesting and supporting new and targeted measures that make it
-possible for the elderly to remain in the homes they know, and in any
-case in familiar environments that look more like a home than a
-hospital."
+The Pope makes an appeal that "the whole of civil society, the Church and the different religious traditions, the world of culture, school, volunteering, entertainment, the manufacturing classes, and classical and modern social communications, must feel the responsibility of suggesting and supporting new and targeted measures that make it possible for the elderly to remain in the homes they know, and in any case in familiar environments that look more like a home than a hospital."
 
-I remember learning years ago in medical school how sometimes you can
-adjust homes to be more user-friendly for the elderly, and particularly
-for people with arthritis.
+I remember learning years ago in medical school how sometimes you can adjust homes to be more user-friendly for the elderly, and particularly for people with arthritis.
 
-For example, electrical sockets are often very low down on the wall.
-There can be mechanisms used to make them come to waist height so
-elderly people don\'t have to bend down---and other similar little
-things that can make life easier for them.
+For example, electrical sockets are often very low down on the wall. There can be mechanisms used to make them come to waist height so elderly people don\'t have to bend down---and other similar little things that can make life easier for them.
 
-We can ask Our Lord that we might become a little more aware of the
-elderly around us.
+We can ask Our Lord that we might become a little more aware of the elderly around us.
 
-The Holy Father says, "May every grandfather, every grandmother, every
-older person, especially those among us who are most alone, receive the
-visit of an angel. At times those angels will have the face of our
-grandchildren, at others the face of family members, lifelong friends,
-or those we\'ve come to know during these trying times, when we\'ve
-learned how important hugs and visits are for each of us" (Pope Francis,
-*Message for the First World Day for Grandparents and the Elderly*, July
-25, 2021).
+The Holy Father says, "May every grandfather, every grandmother, every older person, especially those among us who are most alone, receive the visit of an angel. At times those angels will have the face of our grandchildren, at others the face of family members, lifelong friends, or those we\'ve come to know during these trying times, when we\'ve learned how important hugs and visits are for each of us" (Pope Francis, *Message for the First World Day for Grandparents and the Elderly*, July 25, 2021).
 
-The Lord however also sends us messengers through His words, which are
-always at hand. We can try to read a page of the Gospel every day, to
-pray with the Psalms, or to read the Prophets. We will be comforted by
-the Lord\'s faithfulness.
+The Lord however also sends us messengers through His words, which are always at hand. We can try to read a page of the Gospel every day, to pray with the Psalms, or to read the Prophets. We will be comforted by the Lord\'s faithfulness.
 
-The Scriptures will also help us to understand what the Lord is asking
-of our lives today---that new beginning that each day brings, that
-witness, that spiritual message that we\'re transmitting.
+The Scriptures will also help us to understand what the Lord is asking of our lives today---that new beginning that each day brings, that witness, that spiritual message that we\'re transmitting.
 
-God may be using our fidelity in marriage in our elderly years to
-transmit reams of doctrinal messages.
+God may be using our fidelity in marriage in our elderly years to transmit reams of doctrinal messages.
 
-At every hour of the day, we\'re told in Scripture, and in every season
-of life, Our Lord continues "to send laborers into his vineyard" (Matt.
-9:38).
+At every hour of the day, we\'re told in Scripture, and in every season of life, Our Lord continues "to send laborers into his vineyard" (Matt. 9:38).
 
-The words we say, the way we live, our lifestyle, is full of apostolic
-meaning.
+The words we say, the way we live, our lifestyle, is full of apostolic meaning.
 
-He says, "I was called to become the Bishop of Rome when I had reached,
-so to speak, retirement age, and thought I would not be doing anything
-new. Since the Lord is always---always---close to us" often asking for
-something more.
+He says, "I was called to become the Bishop of Rome when I had reached, so to speak, retirement age, and thought I would not be doing anything new. Since the Lord is always---always---close to us" often asking for something more.
 
-"He never, ever goes into retirement. He\'s close to us with new
-possibilities, new ideas, new consolations, but always close" (Pope
-Francis, *Ibid*.).
+"He never, ever goes into retirement. He\'s close to us with new possibilities, new ideas, new consolations, but always close" (Pope Francis, *Ibid*.).
 
-As we try to live out this special day of the elderly and of
-grandparents, so intimately tied with the Feast of St. Joachim and St.
-Anne, we could ask Our Lady to be close to us in all these endeavors, to
-help us to bring great joy to those elderly people around us, and to use
-this feast day in the very special way that the Holy Father wants us to
-use it.
+As we try to live out this special day of the elderly and of grandparents, so intimately tied with the Feast of St. Joachim and St. Anne, we could ask Our Lady to be close to us in all these endeavors, to help us to bring great joy to those elderly people around us, and to use this feast day in the very special way that the Holy Father wants us to use it.
 
-*I thank you, my God, for the good resolutions, affections, and
-inspirations that you have communicated to me during this meditation. I
-ask your help to put them into practice. My Immaculate Mother, Saint
-Joseph, my father and lord, my guardian angel, intercede for me.*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *PKN*

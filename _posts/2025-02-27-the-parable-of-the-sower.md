@@ -7,459 +7,222 @@ By Fr. Conor Donnelly
 
 (*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*My Lord and my God, I firmly believe that you are here, that you see
-me, that you hear me. I adore you with profound reverence. I ask your
-pardon for my sins and grace to make this time of prayer fruitful. My
-Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
-intercede for me.*
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-There was a story of a farmer who used to grow very good maize, and the
-maize that he grew was the best in the whole area. Every year at the
-local fair he won the prize, the first prize, for his very good maize.
+There was a story of a farmer who used to grow very good maize, and the maize that he grew was the best in the whole area. Every year at the local fair he won the prize, the first prize, for his very good maize.
 
-After he\'d won first prize, he would often give seeds of this very good
-maize to all of the local farmers around him.
+After he\'d won first prize, he would often give seeds of this very good maize to all of the local farmers around him.
 
-People used to wonder, 'Why did he give away such prize seeds to the
-people around him?' That would better the quality of their maize. It
-might lessen his chances to win the best prize.
+People used to wonder, 'Why did he give away such prize seeds to the people around him?' That would better the quality of their maize. It might lessen his chances to win the best prize.
 
-His answer was, "When the wind blows, their seeds will blow onto my
-land, and that will affect what grows on my land. It might affect the
-quality of the maize that I grow. By giving all these people around me
-very good maize, I ensure that the quality of my maize does not go
-down."
+His answer was, "When the wind blows, their seeds will blow onto my land, and that will affect what grows on my land. It might affect the quality of the maize that I grow. By giving all these people around me very good maize, I ensure that the quality of my maize does not go down."
 
-He was really outlining what each one of us has to try and do: to sow
-very good seeds in the lives of the people around us---seeds of charity,
-of patience, of kindness, of attentiveness, of thoughtfulness, that make
-the lives of the people around us better, and that also in some way
-makes us better.
+He was really outlining what each one of us has to try and do: to sow very good seeds in the lives of the people around us---seeds of charity, of patience, of kindness, of attentiveness, of thoughtfulness, that make the lives of the people around us better, and that also in some way makes us better.
 
-The Gospel tells us a parable about how Our Lord said, "Listen! A sower
-went out to sow" (Mark 4:3).
+The Gospel tells us a parable about how Our Lord said, "Listen! A sower went out to sow" (Mark 4:3).
 
-Our Lord got a lot of these agricultural stories, possibly from
-listening to Joseph, who might have pointed out to Him, as they walked
-through the fields, what the different farmers were doing.
+Our Lord got a lot of these agricultural stories, possibly from listening to Joseph, who might have pointed out to Him, as they walked through the fields, what the different farmers were doing.
 
-In this Year of St. Joseph (December 8, 2020 to December 8, 2021),
-halfway through the year, can be a good moment for us to remind
-ourselves that we are in the Year of St. Joseph---to go back and begin
-again in our devotion to the Holy Patriarch, and to think of all the
-wonderful things that he must have taught the child Jesus as He grew,
-things which later on were going to come out in the parables and the
-lessons that Our Lord taught His disciples.
+In this Year of St. Joseph (December 8, 2020 to December 8, 2021), halfway through the year, can be a good moment for us to remind ourselves that we are in the Year of St. Joseph---to go back and begin again in our devotion to the Holy Patriarch, and to think of all the wonderful things that he must have taught the child Jesus as He grew, things which later on were going to come out in the parables and the lessons that Our Lord taught His disciples.
 
-"A sower went out to sow. And as he sowed, some seeds fell on the edge
-of the path, and the birds came and ate them up. Others fell on patches
-of rock where they found little soil. They sprang up at once because
-there was no depth of earth. But as soon as the sun came up, they were
-scorched. And having no roots, they withered away. Others fell among
-thorns, and the thorns grew up and choked them. Others fell on rich soil
-and produced their crop, some a hundredfold, some sixty, some thirty.
-Anyone who has ears should listen" (Mark 4:3-9).
+"A sower went out to sow. And as he sowed, some seeds fell on the edge of the path, and the birds came and ate them up. Others fell on patches of rock where they found little soil. They sprang up at once because there was no depth of earth. But as soon as the sun came up, they were scorched. And having no roots, they withered away. Others fell among thorns, and the thorns grew up and choked them. Others fell on rich soil and produced their crop, some a hundredfold, some sixty, some thirty. Anyone who has ears should listen" (Mark 4:3-9).
 
-St. Josemaría, in the book of homilies, *Christ Is Passing By,* has
-liked to say that the Divine Sower "presses the grain in his wounded
-hands, soaks it in his blood, cleans it, purifies it, and throws it into
-the furrow," which is the world (Josemaría Escrivá, *Christ Is Passing
-By*, Point 157).
+St. Josemaría, in the book of homilies, *Christ Is Passing By,* has liked to say that the Divine Sower "presses the grain in his wounded hands, soaks it in his blood, cleans it, purifies it, and throws it into the furrow," which is the world (Josemaría Escrivá, *Christ Is Passing By*, Point 157).
 
-This parable, in a certain sense, is autobiographical. It reflects the
-very experience of Our Lord in His preaching.
+This parable, in a certain sense, is autobiographical. It reflects the very experience of Our Lord in His preaching.
 
-He identifies Himself as the sower who scatters the good seed of the
-Word of God and takes note of the different effects that it obtains, in
-accordance with the way the different people hear His preaching.
+He identifies Himself as the sower who scatters the good seed of the Word of God and takes note of the different effects that it obtains, in accordance with the way the different people hear His preaching.
 
 Some listen superficially but don\'t take it in.
 
-Others accept it at the time but are unable to keep going and to keep
-focused on it, and eventually lose it all.
+Others accept it at the time but are unable to keep going and to keep focused on it, and eventually lose it all.
 
-There are those who are taken up by worldly concerns and enticements,
-and those who listen receptively, like the good soil. That\'s where the
-Word bears an abundance of fruit.
+There are those who are taken up by worldly concerns and enticements, and those who listen receptively, like the good soil. That\'s where the Word bears an abundance of fruit.
 
-So, listening implies more than just merely hearing the words the
-preacher speaks.
+So, listening implies more than just merely hearing the words the preacher speaks.
 
-Our Lord invites each one of us to listen, but also to let those seeds
-go deep, to take His words and His ideas in and let them shape our mind,
-our soul, and our heart.
+Our Lord invites each one of us to listen, but also to let those seeds go deep, to take His words and His ideas in and let them shape our mind, our soul, and our heart.
 
-We\'re given the example in the Gospel of Judas, who heard all the seeds
-of the Word of God that the other apostles heard, but nothing
-penetrated. It was like water off a duck\'s back.
+We\'re given the example in the Gospel of Judas, who heard all the seeds of the Word of God that the other apostles heard, but nothing penetrated. It was like water off a duck\'s back.
 
-There\'s a lot to be learned from Judas, about how to take that seed of
-the Word of God, which comes to us through our formation, through our
-Gospel reading every day, our spiritual reading, maybe through things
-the Holy Spirit says to us through people, through places, in the
-sacrament of Confession, in our retreat, in a recollection.
+There\'s a lot to be learned from Judas, about how to take that seed of the Word of God, which comes to us through our formation, through our Gospel reading every day, our spiritual reading, maybe through things the Holy Spirit says to us through people, through places, in the sacrament of Confession, in our retreat, in a recollection.
 
-The Divine Sower is all the time sowing divine seeds in our soul,
-sometimes through the good example that we see in the life of virtue of
-the people around us.
+The Divine Sower is all the time sowing divine seeds in our soul, sometimes through the good example that we see in the life of virtue of the people around us.
 
-We\'re required to engage with what is said, and also with what is not
-said.
+We\'re required to engage with what is said, and also with what is not said.
 
-When we come back and read and reread this parable, like all the other
-parables that Our Lord has given to us---we reread the words of the
-Gospel over and over again---each time we can find new light, because
-all through our life the Holy Spirit is giving us new lights.
+When we come back and read and reread this parable, like all the other parables that Our Lord has given to us---we reread the words of the Gospel over and over again---each time we can find new light, because all through our life the Holy Spirit is giving us new lights.
 
 There\'s always something deeper to learn, some new insight.
 
-When Our Lord presented this parable to the apostles, He didn\'t just
-limit Himself to telling them the parable. He explained it.
+When Our Lord presented this parable to the apostles, He didn\'t just limit Himself to telling them the parable. He explained it.
 
-The seeds that fell on the path represent those who hear the word of the
-Kingdom of God but don\'t understand it. The path may be dry, arid,
-impenetrable.
+The seeds that fell on the path represent those who hear the word of the Kingdom of God but don\'t understand it. The path may be dry, arid, impenetrable.
 
-We\'re reminded that we have to make our soul, our mind, our heart
-pliable like moist soil that opens up to receive the good seed, not dry
-and arid and impossible to place the seed in the ground.
+We\'re reminded that we have to make our soul, our mind, our heart pliable like moist soil that opens up to receive the good seed, not dry and arid and impossible to place the seed in the ground.
 
-The evil one comes and takes away what has been sown in their hearts
-when it\'s arid, dry, impenetrable, full of pride and vanity. The devil
-uses this tactic and prevents the seed, therefore, from germinating in
-people\'s hearts.
+The evil one comes and takes away what has been sown in their hearts when it\'s arid, dry, impenetrable, full of pride and vanity. The devil uses this tactic and prevents the seed, therefore, from germinating in people\'s hearts.
 
-The second is the seed fallen on rocky ground. This kind represents the
-people who hear the Word of God and welcome it immediately with joy, but
-they have no roots in them. They\'re inconstant.
+The second is the seed fallen on rocky ground. This kind represents the people who hear the Word of God and welcome it immediately with joy, but they have no roots in them. They\'re inconstant.
 
-The seed doesn\'t grow deep and doesn\'t have a lasting value. They
-don\'t work on resolutions. They don\'t look to the future or think of
-the future. They're not firmly rooted in the words that God has given to
-us.
+The seed doesn\'t grow deep and doesn\'t have a lasting value. They don\'t work on resolutions. They don\'t look to the future or think of the future. They're not firmly rooted in the words that God has given to us.
 
 So, when tribulation or persecution comes, they fall away immediately.
 
-We have seen and we know from history and our own experience, the
-inconstancy of people deprived of the roots, which would otherwise
-enable the Word to grow. They\'re superficial; there\'s no depth. They
-haven\'t taken things seriously enough.
+We have seen and we know from history and our own experience, the inconstancy of people deprived of the roots, which would otherwise enable the Word to grow. They\'re superficial; there\'s no depth. They haven\'t taken things seriously enough.
 
-The third case is the seed fallen among the thorns. Our Lord explains
-that He\'s thinking of those who hear the Word, but because of the
-worries of this world, or their attachment to riches, or their focus on
-the material things of this life, they haven\'t stored up for themselves
-treasures in heaven, and neither are they working towards that.
+The third case is the seed fallen among the thorns. Our Lord explains that He\'s thinking of those who hear the Word, but because of the worries of this world, or their attachment to riches, or their focus on the material things of this life, they haven\'t stored up for themselves treasures in heaven, and neither are they working towards that.
 
-They\'re limited in the present. This stifles the Word so that it
-doesn\'t bear fruit.
+They\'re limited in the present. This stifles the Word so that it doesn\'t bear fruit.
 
-And then there\'s the seed that falls on fertile ground: those who hear
-the Word of God. They understand it. They pray about it. They dwell on
-it, they chew on it, they contemplate it.
+And then there\'s the seed that falls on fertile ground: those who hear the Word of God. They understand it. They pray about it. They dwell on it, they chew on it, they contemplate it.
 
-"Mary kept all these things carefully in her heart" (Luke 2:19).
-They\'re truly listening for the Holy Spirit speaking to them. They\'re
-watching out for that something divine that\'s hidden in every human
-thing.
+"Mary kept all these things carefully in her heart" (Luke 2:19). They\'re truly listening for the Holy Spirit speaking to them. They\'re watching out for that something divine that\'s hidden in every human thing.
 
-Every aspect of this parable has a great relevance for all ears in the
-whole of time. The Divine Sower extravagantly sows the seeds. He offers
-His grace to everyone, even though He knows that it won\'t always yield
-fruit.
+Every aspect of this parable has a great relevance for all ears in the whole of time. The Divine Sower extravagantly sows the seeds. He offers His grace to everyone, even though He knows that it won\'t always yield fruit.
 
-Each one of us, as apostles with the apostolic aspect of our Christian
-vocation---we\'re called to imitate the Divine Sower, to be generous in
-our sowing with this person and that person, and this child and that
-child, and this colleague and that colleague.
+Each one of us, as apostles with the apostolic aspect of our Christian vocation---we\'re called to imitate the Divine Sower, to be generous in our sowing with this person and that person, and this child and that child, and this colleague and that colleague.
 
-Our Lord invites us to work the soil, the soil of our own hearts,
-bringing our heart to Him in prayer and Confession, so that He can work
-the healing, to cut away the thorns or to take away the stones.
+Our Lord invites us to work the soil, the soil of our own hearts, bringing our heart to Him in prayer and Confession, so that He can work the healing, to cut away the thorns or to take away the stones.
 
-Sometimes you might see people about to plant something, but if the
-ground is full of stones or rocky, you\'ve got to clear away the stones
-first.
+Sometimes you might see people about to plant something, but if the ground is full of stones or rocky, you\'ve got to clear away the stones first.
 
-We turn over the soil with our acts of humility, our spirit of docility,
-and being eager to learn. In the way that we go to the norms of our plan
-of life on a daily basis and allow the Divine Sower, through our
-spiritual reading or through our prayer or a retreat, to sow all the
-wonderful seeds, like the treasure hidden in the field or the pearl of
-great price (Matt. 13:44-46).
+We turn over the soil with our acts of humility, our spirit of docility, and being eager to learn. In the way that we go to the norms of our plan of life on a daily basis and allow the Divine Sower, through our spiritual reading or through our prayer or a retreat, to sow all the wonderful seeds, like the treasure hidden in the field or the pearl of great price (Matt. 13:44-46).
 
-With this parable, Our Lord invites us to look inwards, to give God
-thanks also for our good ground and to work on the ground that\'s not
-yet good.
+With this parable, Our Lord invites us to look inwards, to give God thanks also for our good ground and to work on the ground that\'s not yet good.
 
-We can ask ourselves: Is my heart open to welcome with faith the seeds
-of the Word of God? Or the things that God may say to me from one moment
-to the next, like He said to Abraham, "Take your son, your only son,
-your beloved Isaac, and go to the land that I will tell you" (Gen.
-22:2).
+We can ask ourselves: Is my heart open to welcome with faith the seeds of the Word of God? Or the things that God may say to me from one moment to the next, like He said to Abraham, "Take your son, your only son, your beloved Isaac, and go to the land that I will tell you" (Gen. 22:2).
 
-If we examine our conscience, we may see the rocks of laziness, the
-stones of disorder, the weeds of sensuality or avarice or pride or
-vanity.
+If we examine our conscience, we may see the rocks of laziness, the stones of disorder, the weeds of sensuality or avarice or pride or vanity.
 
-We can learn to call these brambles by their names. We identify what
-this is and what that is---all those things that cause us to be
-unfruitful ground.
+We can learn to call these brambles by their names. We identify what this is and what that is---all those things that cause us to be unfruitful ground.
 
-And maybe to ask: How can I be more fruitful? I want to live out my
-Christian mission, my apostolic mission that God has given to me. I
-don\'t know whether I\'m called to render 30-fold or 60-fold or
-100-fold. It\'s not my business, nor really anyone else\'s, but God\'s.
+And maybe to ask: How can I be more fruitful? I want to live out my Christian mission, my apostolic mission that God has given to me. I don\'t know whether I\'m called to render 30-fold or 60-fold or 100-fold. It\'s not my business, nor really anyone else\'s, but God\'s.
 
-Isaiah also tells us that the Word of God will always accomplish its
-purpose, provided we do not deliberately try to shut it out (*cf*. Isa.
-55:11).
+Isaiah also tells us that the Word of God will always accomplish its purpose, provided we do not deliberately try to shut it out (*cf*. Isa. 55:11).
 
-Lord, help me to correspond to all the graces that you give me, all the
-seeds that you\'ve sown in my life through my Christian formation,
-through my family formation, through the spiritual, apostolic,
-doctrinal, and spiritual formation that I\'ve received all throughout my
-life.
+Lord, help me to correspond to all the graces that you give me, all the seeds that you\'ve sown in my life through my Christian formation, through my family formation, through the spiritual, apostolic, doctrinal, and spiritual formation that I\'ve received all throughout my life.
 
-Jesus is the sower. In this image, He doesn\'t impose Himself, but He
-proposes. He throws out the seed, attracting us not by conquering us,
-but by giving Himself to us.
+Jesus is the sower. In this image, He doesn\'t impose Himself, but He proposes. He throws out the seed, attracting us not by conquering us, but by giving Himself to us.
 
 You could also say that Christ is the sower, but He\'s also the seed.
 
-As well as that, He\'s the fruit of the harvest, the Christ-likeness
-that we manage to produce in ourselves, that hopefully other people can
-see and be attracted to.
+As well as that, He\'s the fruit of the harvest, the Christ-likeness that we manage to produce in ourselves, that hopefully other people can see and be attracted to.
 
-And this seed that He plants, how can it bear fruit? If we welcome Him:
-'Lord, I am not worthy that you should enter under my roof, but only say
-the word and my soul will be healed' (Communion Rite, *Prayer*; Matt.
-8:8).
+And this seed that He plants, how can it bear fruit? If we welcome Him: 'Lord, I am not worthy that you should enter under my roof, but only say the word and my soul will be healed' (Communion Rite, *Prayer*; Matt. 8:8).
 
-The parable concerns all of us. It speaks also of the soil, as well as
-the sower. Christ performs an X-ray of our heart, a sort of "spiritual
-X-ray, which is the ground upon which the seed of the Word will fall"
-(Pope Francis, *Angelus*, July 16, 2017).
+The parable concerns all of us. It speaks also of the soil, as well as the sower. Christ performs an X-ray of our heart, a sort of "spiritual X-ray, which is the ground upon which the seed of the Word will fall" (Pope Francis, *Angelus*, July 16, 2017).
 
-And our heart, like soil, can be good and receptive. That\'s when the
-Word will bring so much fruit.
+And our heart, like soil, can be good and receptive. That\'s when the Word will bring so much fruit.
 
-But it can also be hard and impermeable. We can become hardened in our
-pride, or hardened in sin, or rigid in certain habits. With humility and
-that grace that God gives us, He wants us to turn over that soil for a
-new sowing, a new beginning.
+But it can also be hard and impermeable. We can become hardened in our pride, or hardened in sin, or rigid in certain habits. With humility and that grace that God gives us, He wants us to turn over that soil for a new sowing, a new beginning.
 
-"The fact that Our Lord\'s seeds fall on various kinds of soil is a
-surprise element in the parable. It\'s an insight into the generosity of
-God" (Fr. Satish Joseph, Reflection, July 12, 2020).
+"The fact that Our Lord\'s seeds fall on various kinds of soil is a surprise element in the parable. It\'s an insight into the generosity of God" (Fr. Satish Joseph, Reflection, July 12, 2020).
 
-We're told in St. Matthew, "He makes the rain fall on the good and the
-bad alike, makes the sun shine on the just and on the unjust" (*cf.*
-Matt. 5:45).
+We're told in St. Matthew, "He makes the rain fall on the good and the bad alike, makes the sun shine on the just and on the unjust" (*cf.* Matt. 5:45).
 
-Again, it\'s a reference to the generosity of God. He gives Himself
-completely.
+Again, it\'s a reference to the generosity of God. He gives Himself completely.
 
-"In a world that makes distinctions between races and people, between
-rich and poor, between immigrants and citizens, between religions and
-creed, between nations and ideologies., the parable of the sower and the
-seed tells us that God makes no distinctions.
+"In a world that makes distinctions between races and people, between rich and poor, between immigrants and citizens, between religions and creed, between nations and ideologies., the parable of the sower and the seed tells us that God makes no distinctions.
 
-"The seed of God\'s Word falls on all kinds of soil. Salvation is not
-only offered to the privileged but to the whole world.
+"The seed of God\'s Word falls on all kinds of soil. Salvation is not only offered to the privileged but to the whole world.
 
-"God is good and God\'s generosity is limitless" (*ibid*.). because God
-is love (1 John 4:7, 16), and He pours out that love generously.
+"God is good and God\'s generosity is limitless" (*ibid*.). because God is love (1 John 4:7, 16), and He pours out that love generously.
 
-Any turmoil or tension from a racial, ethnic, or nationalistic
-perspective in the world is a refusal to treat each person as generously
-as God treats us. It\'s one of the messages of the pontificate of Pope
-Francis.
+Any turmoil or tension from a racial, ethnic, or nationalistic perspective in the world is a refusal to treat each person as generously as God treats us. It\'s one of the messages of the pontificate of Pope Francis.
 
-Another surprise element in the parable is that the fertile soil,
-Israel, failed to bear fruit. On the other hand, the Gentiles were
-receiving the Gospel and bearing fruit a thirty, a sixty, and a
-hundredfold.
+Another surprise element in the parable is that the fertile soil, Israel, failed to bear fruit. On the other hand, the Gentiles were receiving the Gospel and bearing fruit a thirty, a sixty, and a hundredfold.
 
-Ultimately, what will save us is not the fact that we are fertile
-soil---that we are baptized, Catholic, and Sunday Mass-going
-Catholics---but rather, the fact that our faith bears fruit.
+Ultimately, what will save us is not the fact that we are fertile soil---that we are baptized, Catholic, and Sunday Mass-going Catholics---but rather, the fact that our faith bears fruit.
 
-Our Lord has warned us that "the tax collectors and the harlots will
-enter the kingdom of heaven before you" (Matt. 21:31).
+Our Lord has warned us that "the tax collectors and the harlots will enter the kingdom of heaven before you" (Matt. 21:31).
 
-St. Matthew lays out the fruit that Jesus expects from His followers in
-the Beatitudes: "Blessed are the poor in spirit, blessed are those who
-mourn, who are meek, who hunger and thirst for righteousness, who are
-merciful, who are clean of heart, who are peacemakers" (*cf.* Matt
-5:3-9).
+St. Matthew lays out the fruit that Jesus expects from His followers in the Beatitudes: "Blessed are the poor in spirit, blessed are those who mourn, who are meek, who hunger and thirst for righteousness, who are merciful, who are clean of heart, who are peacemakers" (*cf.* Matt 5:3-9).
 
-These are the fruits that the Word of God has to bear in our lives, in
-our family, in our marriage, in our club, in our office.
+These are the fruits that the Word of God has to bear in our lives, in our family, in our marriage, in our club, in our office.
 
-The parable can lead us to examine our life, examine our conscience, and
-see: Is our life bearing the fruit for which God has sent His Word?
-(*cf.* Isa. 55:11).
+The parable can lead us to examine our life, examine our conscience, and see: Is our life bearing the fruit for which God has sent His Word? (*cf.* Isa. 55:11).
 
-There are various ways that one can receive the Word of God and His
-grace, and many ways to yield fruit.
+There are various ways that one can receive the Word of God and His grace, and many ways to yield fruit.
 
-"The superficial heart welcomes the Lord, wants to pray, love, and
-testify, but does not persevere, tends to wear off, never really 'takes
-off'" (Pope Francis, *Angelus*, July 16, 2017).
+"The superficial heart welcomes the Lord, wants to pray, love, and testify, but does not persevere, tends to wear off, never really 'takes off'" (Pope Francis, *Angelus*, July 16, 2017).
 
-Lord, help me to take off in my spiritual life, never to leave you, to
-go back to the sacraments, the source of life, the bread of life, again
-and again.
+Lord, help me to take off in my spiritual life, never to leave you, to go back to the sacraments, the source of life, the bread of life, again and again.
 
-Sometimes there\'s a thick heart where those rocks of laziness prevail
-over the good land, where love is inconsistent. We need fortitude,
-fidelity, perseverance.
+Sometimes there\'s a thick heart where those rocks of laziness prevail over the good land, where love is inconsistent. We need fortitude, fidelity, perseverance.
 
-The thorns represent the seductions of the world: avarice, sensuality,
-complications through addictions of all sorts.
+The thorns represent the seductions of the world: avarice, sensuality, complications through addictions of all sorts.
 
-We have to cut back the brambles in our hearts, those that make idols
-out of worldly wealth or power, or only living for ourselves. Self-love
-can destroy a soul.
+We have to cut back the brambles in our hearts, those that make idols out of worldly wealth or power, or only living for ourselves. Self-love can destroy a soul.
 
-We have to tear those things away; "otherwise, the Word \[cannot\] not
-bear fruit" (*ibid*.).
+We have to tear those things away; "otherwise, the Word \[cannot\] not bear fruit" (*ibid*.).
 
-In Our Lord\'s time, the typical farmer was poor. He didn't have seeds
-to waste. He'd be very careful not to let the seeds fall on thorny,
-rocky, or infertile soil.
+In Our Lord\'s time, the typical farmer was poor. He didn't have seeds to waste. He'd be very careful not to let the seeds fall on thorny, rocky, or infertile soil.
 
-He could only afford his seeds to fall on ground that would yield the
-optimal fruit. Therefore, he would be very careful. This parable is a
-call to respond to grace.
+He could only afford his seeds to fall on ground that would yield the optimal fruit. Therefore, he would be very careful. This parable is a call to respond to grace.
 
-The Church gives us all the means we need for our sanctification: the
-sacraments, all the spiritual pathways that God has laid out in the
-Church, and more recently, the spirit of the Prelature of Opus Dei,
-helping us to sanctify the ordinary realities of our temporal life.
+The Church gives us all the means we need for our sanctification: the sacraments, all the spiritual pathways that God has laid out in the Church, and more recently, the spirit of the Prelature of Opus Dei, helping us to sanctify the ordinary realities of our temporal life.
 
-Our Lord has the right to expect the necessary correspondence on our
-part to maintain this purity of spirit, to savor the gift, to thank God
-for the great gift of our formation that He\'s given to us, and to use
-it well, to see it\'s a great seed that God has placed on our lips, on
-our heart, on our mind.
+Our Lord has the right to expect the necessary correspondence on our part to maintain this purity of spirit, to savor the gift, to thank God for the great gift of our formation that He\'s given to us, and to use it well, to see it\'s a great seed that God has placed on our lips, on our heart, on our mind.
 
-We\'re told in St. Luke that having brought their ships to land and
-leaving all things, "they followed him" (Luke 5:11). The apostles
-correspond.
+We\'re told in St. Luke that having brought their ships to land and leaving all things, "they followed him" (Luke 5:11). The apostles correspond.
 
-They don't know yet what's in the future, but they give themselves
-completely. They're open to receiving the seeds that Jesus wants to sow
-in their souls. "Come after me, and I will make you into fishers of men"
-(Matt. 4:19).
+They don't know yet what's in the future, but they give themselves completely. They're open to receiving the seeds that Jesus wants to sow in their souls. "Come after me, and I will make you into fishers of men" (Matt. 4:19).
 
-"Amen, amen, I say to you. When you were younger, you girded yourself
-and you walked where you wanted. But when you\'re older, you will
-stretch out your hand and another will guide you and lead you where you
-might not want to go" (*cf.* John 21:18).
+"Amen, amen, I say to you. When you were younger, you girded yourself and you walked where you wanted. But when you\'re older, you will stretch out your hand and another will guide you and lead you where you might not want to go" (*cf.* John 21:18).
 
-Our Lady gave herself in the same way: "Behold the handmaid of the Lord.
-Be it done unto me according to your word" (Luke 1:38).
+Our Lady gave herself in the same way: "Behold the handmaid of the Lord. Be it done unto me according to your word" (Luke 1:38).
 
-In St. Matthew, we\'re also told, "The kingdom of heaven is like
-treasure hidden in a field" (Matt. 13:44). We have a treasure, the
-treasure that God has placed in our heart, in our soul.
+In St. Matthew, we\'re also told, "The kingdom of heaven is like treasure hidden in a field" (Matt. 13:44). We have a treasure, the treasure that God has placed in our heart, in our soul.
 
-A man found that treasure and covered it up, and then in his joy he goes
-and sells all that he has and buys that field. It was worth everything.
+A man found that treasure and covered it up, and then in his joy he goes and sells all that he has and buys that field. It was worth everything.
 
-The seeds of our formation and grace that God has sowed in our souls
-\[are\] like a treasure.
+The seeds of our formation and grace that God has sowed in our souls \[are\] like a treasure.
 
-It\'s a word that appears frequently in Scripture: "Store up for
-yourselves treasures in heaven...for where your treasure is, there your
-heart is also" (Matt. 6:20-21).
+It\'s a word that appears frequently in Scripture: "Store up for yourselves treasures in heaven...for where your treasure is, there your heart is also" (Matt. 6:20-21).
 
-"Again, the kingdom of heaven is like a merchant in search of fine
-pearls. When he found one pearl of great value, he went and sold all
-that he had and bought it" (Matt 13:45-46). They sold everything they
-had.
+"Again, the kingdom of heaven is like a merchant in search of fine pearls. When he found one pearl of great value, he went and sold all that he had and bought it" (Matt 13:45-46). They sold everything they had.
 
-Our Lord places the astonishing challenge before the rich young man:
-"Go, sell all that you have and give to the poor. Then come and follow
-me, and you will have treasure in heaven" (*cf.* Matt. 19:21).
+Our Lord places the astonishing challenge before the rich young man: "Go, sell all that you have and give to the poor. Then come and follow me, and you will have treasure in heaven" (*cf.* Matt. 19:21).
 
-Lord, don\'t let me forget how fortunate I am, how privileged, how
-lucky, how blessed to have been led to discover this treasure---the
-treasure of faith and the treasure of my Christian vocation, which is
-also an apostolic vocation.
+Lord, don\'t let me forget how fortunate I am, how privileged, how lucky, how blessed to have been led to discover this treasure---the treasure of faith and the treasure of my Christian vocation, which is also an apostolic vocation.
 
-Remind me of this often so that I can learn to let go of everything
-else, just as your disciples did when you called them: "They left
-everything and followed him" (Luke 5:11).
+Remind me of this often so that I can learn to let go of everything else, just as your disciples did when you called them: "They left everything and followed him" (Luke 5:11).
 
-Help me to love you with all my heart. We should be ready to go
-anywhere, but especially to heaven. We\'re in the good hands of God.
+Help me to love you with all my heart. We should be ready to go anywhere, but especially to heaven. We\'re in the good hands of God.
 
-St. Jean-Marie Vianney prayed, \"My God, you have given me all; behold
-the little I give you. Give me the strength to give more" (Henri Gheon,
-*The Secret of the Curé d'Ars*).
+St. Jean-Marie Vianney prayed, \"My God, you have given me all; behold the little I give you. Give me the strength to give more" (Henri Gheon, *The Secret of the Curé d'Ars*).
 
-These sentiments are sentiments of souls who deal a lot with the Holy
-Spirit. They\'re available. They\'re good soil.
+These sentiments are sentiments of souls who deal a lot with the Holy Spirit. They\'re available. They\'re good soil.
 
-We\'re told in *The Forge*, "My Father...who art in heaven, look upon me
-with compassionate love, and make me respond to your love. Melt and
-enkindle my hardened heart, burn and purify my unmortified flesh, fill
-my mind with supernatural light, make my tongue proclaim the love and
-glory of Christ" (J. Escrivá, *The Forge*, Point 3).
+We\'re told in *The Forge*, "My Father...who art in heaven, look upon me with compassionate love, and make me respond to your love. Melt and enkindle my hardened heart, burn and purify my unmortified flesh, fill my mind with supernatural light, make my tongue proclaim the love and glory of Christ" (J. Escrivá, *The Forge*, Point 3).
 
-He also says, "We have to learn how to give ourselves, to burn before
-God like the light placed on a lampstand to give light to those who walk
-in darkness; like the sanctuary lamps that burn by the altar, giving off
-light till their last drop is consumed" (*ibid*., Point 44).
+He also says, "We have to learn how to give ourselves, to burn before God like the light placed on a lampstand to give light to those who walk in darkness; like the sanctuary lamps that burn by the altar, giving off light till their last drop is consumed" (*ibid*., Point 44).
 
-Our Lord wants us to be instruments---instruments who have been
-surprised by the Gospel, surprised by the encounter with Christ.
+Our Lord wants us to be instruments---instruments who have been surprised by the Gospel, surprised by the encounter with Christ.
 
-There\'s nothing more beautiful than to know Him and to speak to others
-about our friendship with Him.
+There\'s nothing more beautiful than to know Him and to speak to others about our friendship with Him.
 
-Pope Benedict says, "The task of the shepherd, the task of the fisher of
-men, can often seem wearisome. But it is beautiful and wonderful,
-because it is truly a service to joy, to God\'s joy which longs to break
-into the world" (Benedict XVI, *Homily for the Beginning of the Petrine
-Ministry*, April 24, 2005).
+Pope Benedict says, "The task of the shepherd, the task of the fisher of men, can often seem wearisome. But it is beautiful and wonderful, because it is truly a service to joy, to God\'s joy which longs to break into the world" (Benedict XVI, *Homily for the Beginning of the Petrine Ministry*, April 24, 2005).
 
-We have the joy of sowing. Everything can be an opportunity to sow,
-whether it\'s a trip or a meeting or an illness. Every Christian knows
-that they must do all they can.
+We have the joy of sowing. Everything can be an opportunity to sow, whether it\'s a trip or a meeting or an illness. Every Christian knows that they must do all they can.
 
-But the final fruit belongs to God. He\'s the one who will give the
-growth. But He wants us to "cast the net to the other side of the boat"
-(John 21:6).
+But the final fruit belongs to God. He\'s the one who will give the growth. But He wants us to "cast the net to the other side of the boat" (John 21:6).
 
-Our Lady was "unsurpassed in welcoming the Word of God and putting it
-into practice" (Pope Francis, *Angelus*, July 16, 2017).
+Our Lady was "unsurpassed in welcoming the Word of God and putting it into practice" (Pope Francis, *Angelus*, July 16, 2017).
 
-Mary, may you help us to purify our heart and preserve the presence of
-the Lord in our heart. You were like the guardian of the Word. You kept
-all these words carefully in your heart (Luke 2:19).
+Mary, may you help us to purify our heart and preserve the presence of the Lord in our heart. You were like the guardian of the Word. You kept all these words carefully in your heart (Luke 2:19).
 
-You gave us a great example of the one who welcomed the Word into your
-existence. You can guide us to be "fertile soil."
+You gave us a great example of the one who welcomed the Word into your existence. You can guide us to be "fertile soil."
 
-Help us to wonder, when we\'re confronted with the Divine Sower, who
-never holds back in confiding and faithfully awaiting the openness of
-our fragile liberty.
+Help us to wonder, when we\'re confronted with the Divine Sower, who never holds back in confiding and faithfully awaiting the openness of our fragile liberty.
 
 Mary, may you help us now and always to be that good soil that you were.
 
-*I thank you, my God, for the good resolutions, affections, and
-inspirations that you have communicated to me during this meditation. I
-ask your help to put them into practice. My Immaculate Mother, Saint
-Joseph, my father and lord, my guardian angel, intercede for me.*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *EW*

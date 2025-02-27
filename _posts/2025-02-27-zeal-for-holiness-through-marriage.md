@@ -7,156 +7,75 @@ By Fr. Conor Donnelly
 
 (*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*My Lord and my God, I firmly believe that you are here, that you see
-me, that you hear me. I adore you with profound reverence. I ask your
-pardon for my sins and grace to make this time of prayer fruitful. My
-Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
-intercede for me.*
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-There was a meeting of priests in Singapore one time, and we were
-talking about vocation. One religious missionary priest from Belgium
-stood up and said he learned the meaning of vocation from a young
-married couple in the United States, when he was on his first
-assignment. They were 25 years of age, they were expecting their first
-baby, and the baby turned out to be a Down\'s baby.
+There was a meeting of priests in Singapore one time, and we were talking about vocation. One religious missionary priest from Belgium stood up and said he learned the meaning of vocation from a young married couple in the United States, when he was on his first assignment. They were 25 years of age, they were expecting their first baby, and the baby turned out to be a Down\'s baby.
 
-The obstetrician said to the mother, whose name was Nancy, "Are you
-ready to accept this baby? I can\'t tell you it\'s going to be easy, but
-I can tell you that for every ounce of love that you put into this baby,
-you\'re going to get a pound of love in return."
+The obstetrician said to the mother, whose name was Nancy, "Are you ready to accept this baby? I can\'t tell you it\'s going to be easy, but I can tell you that for every ounce of love that you put into this baby, you\'re going to get a pound of love in return."
 
 Nancy said, "Yes, we\'re ready to accept whatever comes."
 
-This elderly priest who was 28 years of age at the time said, "I was
-very struck by that, because nobody gets married and says, 'I want to
-have a handicapped child.' I realized that is the meaning of vocation:
-to be ready to accept whatever comes.
+This elderly priest who was 28 years of age at the time said, "I was very struck by that, because nobody gets married and says, 'I want to have a handicapped child.' I realized that is the meaning of vocation: to be ready to accept whatever comes.
 
 This meditation is about zeal for holiness in marriage.
 
-He said, "I began to ask myself, 'Am I ready to accept whatever comes?
-Here I am, a 28-year-old priest, my first missionary assignment setting
-out in life. A couple of years later, I was asked to go and work in
-Rome, work behind a desk, and handle all of the financial, legal, and
-architectural aspects of our organization all over the world.
+He said, "I began to ask myself, 'Am I ready to accept whatever comes? Here I am, a 28-year-old priest, my first missionary assignment setting out in life. A couple of years later, I was asked to go and work in Rome, work behind a desk, and handle all of the financial, legal, and architectural aspects of our organization all over the world.
 
-"One day, somebody came to me and said, 'What are you doing here,
-working behind a desk in Rome? You\'re supposed to be a missionary
-priest. Why are you not off in Brazil or Alaska someplace?'"
+"One day, somebody came to me and said, 'What are you doing here, working behind a desk in Rome? You\'re supposed to be a missionary priest. Why are you not off in Brazil or Alaska someplace?'"
 
-He said, "I got my answer from Nancy. I didn\'t ask for this job. I
-don\'t particularly like it. I\'d much prefer to be somewhere else. But
-I try to accept whatever comes."
+He said, "I got my answer from Nancy. I didn\'t ask for this job. I don\'t particularly like it. I\'d much prefer to be somewhere else. But I try to accept whatever comes."
 
-If somebody came to our organization and said, "I\'m willing to join
-your missionary organization as long as I can work behind a desk in Rome
-and do all the jobs that I want and I like" they would be told, "I\'m
-sorry, you don\'t have a vocation to our organization. Part of the deal
-is that you have to be ready to accept whatever comes."
+If somebody came to our organization and said, "I\'m willing to join your missionary organization as long as I can work behind a desk in Rome and do all the jobs that I want and I like" they would be told, "I\'m sorry, you don\'t have a vocation to our organization. Part of the deal is that you have to be ready to accept whatever comes."
 
-As we look to the topic of zeal for holiness in marriage, we could ask
-ourselves, Why did I get married? What is the purpose of marriage?
-What\'s it all about? What is the marriage contract?
+As we look to the topic of zeal for holiness in marriage, we could ask ourselves, Why did I get married? What is the purpose of marriage? What\'s it all about? What is the marriage contract?
 
-Our baptismal vocation tells us that the goal of our Christian vocation
-is holiness and apostolate.
+Our baptismal vocation tells us that the goal of our Christian vocation is holiness and apostolate.
 
-If we\'re married, it\'s because we have a vocation to be married.
-That\'s the pathway to holiness that God wants for us. Pope St. John
-Paul II likes to say that we\'re all called to the eternal wedding
-feast.
+If we\'re married, it\'s because we have a vocation to be married. That\'s the pathway to holiness that God wants for us. Pope St. John Paul II likes to say that we\'re all called to the eternal wedding feast.
 
-Marriage now is a preparation for marriage later. God wants to marry us.
-People who live celibate lives skip the historical reality here on earth
-in order to give witness to the fact that real marriage comes later.
+Marriage now is a preparation for marriage later. God wants to marry us. People who live celibate lives skip the historical reality here on earth in order to give witness to the fact that real marriage comes later.
 
 So everything in our marriage is a preparation for marriage in the next.
 
-There is a saying in different but similar words from St. Josemaría, who
-spent his whole life saying that marriage is a pathway to holiness, and
-holiness ultimately is love, charity. That\'s what we\'re called to.
-That\'s the definition of holiness (Josemaría Escrivá, *Conversations*,
-Point 91).
+There is a saying in different but similar words from St. Josemaría, who spent his whole life saying that marriage is a pathway to holiness, and holiness ultimately is love, charity. That\'s what we\'re called to. That\'s the definition of holiness (Josemaría Escrivá, *Conversations*, Point 91).
 
 Every moment of every day, every opportunity, is a calling to holiness.
 
-In our prayer today, we could ask Our Lord that we might have a zeal for
-that holiness. We might want the goal of our marriage ultimately to get
-to heaven and to bring the people around us to heaven.
+In our prayer today, we could ask Our Lord that we might have a zeal for that holiness. We might want the goal of our marriage ultimately to get to heaven and to bring the people around us to heaven.
 
-Our Lord says, "You did not choose me. No, I chose you and I
-commissioned you to go out and bear fruit---fruit that will last" (John
-15:16).
+Our Lord says, "You did not choose me. No, I chose you and I commissioned you to go out and bear fruit---fruit that will last" (John 15:16).
 
-We have been chosen "before the foundation of the world" (Eph. 1:4).
-Every aspect of our life has been chosen: your wife, your home, your
-health, your work, your financial difficulties, your children. It\'s all
-part of a great divine plan in which God wants us to participate.
+We have been chosen "before the foundation of the world" (Eph. 1:4). Every aspect of our life has been chosen: your wife, your home, your health, your work, your financial difficulties, your children. It\'s all part of a great divine plan in which God wants us to participate.
 
-Pope St. John Paul liked to say that "the Blessed Trinity is a communion
-of persons" (quoting the *Catechism of the Catholic Church*, Point
-2205). He liked to say that "the family is a communion of persons" (John
-Paul II, Apostolic Exhortation, *Familiaris Consortio*, Nov. 22, 1981).
+Pope St. John Paul liked to say that "the Blessed Trinity is a communion of persons" (quoting the *Catechism of the Catholic Church*, Point 2205). He liked to say that "the family is a communion of persons" (John Paul II, Apostolic Exhortation, *Familiaris Consortio*, Nov. 22, 1981).
 
-So he lifted up the family onto this Trinitarian level. Our goal is
-somehow to imitate the Trinity.
+So he lifted up the family onto this Trinitarian level. Our goal is somehow to imitate the Trinity.
 
-He said marriage is a life-giving communion of persons (Pope John Paul
-II, *General Audience*, Nov. 14, 1979). The Blessed Trinity is a
-life-giving communion of persons. The love of the Father for the Son
-gives rise to the Holy Spirit.
+He said marriage is a life-giving communion of persons (Pope John Paul II, *General Audience*, Nov. 14, 1979). The Blessed Trinity is a life-giving communion of persons. The love of the Father for the Son gives rise to the Holy Spirit.
 
-The Catechism of the Catholic Church says that children are the supreme
-gift of marriage (*CCC*, Point 1652). It\'s an enormously positive
-statement. And because God chose us, He gives us the grace for that
-choice.
+The Catechism of the Catholic Church says that children are the supreme gift of marriage (*CCC*, Point 1652). It\'s an enormously positive statement. And because God chose us, He gives us the grace for that choice.
 
-Like the apostles, we have not been chosen because of what we are, but
-because of what we have to become. Peter was not chosen because of what
-he was, but because of what he had to become, in spite of his miseries
-and his failures.
+Like the apostles, we have not been chosen because of what we are, but because of what we have to become. Peter was not chosen because of what he was, but because of what he had to become, in spite of his miseries and his failures.
 
-He did the same thing as Judas. He betrayed Our Lord. "Woman, I do not
-know him" (Luke 22:57). Then we\'re told in Scripture, "The Lord turned
-and looked upon Peter" (Luke 22:61).
+He did the same thing as Judas. He betrayed Our Lord. "Woman, I do not know him" (Luke 22:57). Then we\'re told in Scripture, "The Lord turned and looked upon Peter" (Luke 22:61).
 
-It\'s a very poignant moment. He seeks him out with His loving glance in
-his lowest moment. "And Peter goes out and weeps bitterly" (Luke 22:62).
-It\'s from this moment that he goes forward to become a great saint and
-a great apostle.
+It\'s a very poignant moment. He seeks him out with His loving glance in his lowest moment. "And Peter goes out and weeps bitterly" (Luke 22:62). It\'s from this moment that he goes forward to become a great saint and a great apostle.
 
-That\'s God\'s will for each one of us: to be a great saint and a great
-apostle in our marriage, with everything that comes with it, ready to
-accept whatever comes.
+That\'s God\'s will for each one of us: to be a great saint and a great apostle in our marriage, with everything that comes with it, ready to accept whatever comes.
 
-We can thank God very much for this vocation that He\'s given to us, the
-purpose of our existence. We can try and find meaning in that
-calling---our growth in holiness, which is a growth in virtue.
+We can thank God very much for this vocation that He\'s given to us, the purpose of our existence. We can try and find meaning in that calling---our growth in holiness, which is a growth in virtue.
 
-Pope St. Paul VI said on one occasion that "the cultivation of Christian
-perfection must still be regarded as the richest source of the Church\'s
-spiritual strength" (Pope Paul VI, Encyclical, *Ecclesiam Suam*, August
-6, 1964).
+Pope St. Paul VI said on one occasion that "the cultivation of Christian perfection must still be regarded as the richest source of the Church\'s spiritual strength" (Pope Paul VI, Encyclical, *Ecclesiam Suam*, August 6, 1964).
 
-Rather interesting words: "the richest source of the Church\'s spiritual
-strength" is the domestic Church.
+Rather interesting words: "the richest source of the Church\'s spiritual strength" is the domestic Church.
 
-We are called to live like great human persons, a man of virtue, that
-sees every day as an opportunity to grow in charity, in patience, in
-kindness, in order, in industriousness, in punctuality, in forgetfulness
-of self.
+We are called to live like great human persons, a man of virtue, that sees every day as an opportunity to grow in charity, in patience, in kindness, in order, in industriousness, in punctuality, in forgetfulness of self.
 
-It\'s in all these virtues and the cultivation of them that we find the
-purpose and the meaning of our life. Now that may entail many occasions
-of beginning again.
+It\'s in all these virtues and the cultivation of them that we find the purpose and the meaning of our life. Now that may entail many occasions of beginning again.
 
-There was a lawyer in Sydney once who used to come to retreats every
-year and attend Circles and recollections. One time an elderly couple
-came to see him. He was 86 and she was 83. He said to them, "What can I
-do for you?"
+There was a lawyer in Sydney once who used to come to retreats every year and attend Circles and recollections. One time an elderly couple came to see him. He was 86 and she was 83. He said to them, "What can I do for you?"
 
 They said, "We want to get a divorce."
 
@@ -168,337 +87,176 @@ They said, "We want to get a divorce."
 
 "Forty years."
 
-So the lawyer quickly tried to remember all the points about the talk or
-the meditation on charity from his last retreat. He tried to give them
-an impromptu talk on the meaning of charity.
+So the lawyer quickly tried to remember all the points about the talk or the meditation on charity from his last retreat. He tried to give them an impromptu talk on the meaning of charity.
 
-Charity is patient. Charity is kind. It\'s letting the water flow under
-the bridge. It\'s knowing how to forgive. It\'s not making a mountain
-out of molehills. It\'s moving on. It\'s loving other people with their
-defects.
+Charity is patient. Charity is kind. It\'s letting the water flow under the bridge. It\'s knowing how to forgive. It\'s not making a mountain out of molehills. It\'s moving on. It\'s loving other people with their defects.
 
-He went through as many points as he could remember about the virtue of
-charity and asked them to go away and think about it for a while.
+He went through as many points as he could remember about the virtue of charity and asked them to go away and think about it for a while.
 
-They weren\'t very convinced, but the husband said, "Okay, we\'ll give
-it a go." So they went away.
+They weren\'t very convinced, but the husband said, "Okay, we\'ll give it a go." So they went away.
 
-Three years later, the wife came back and said, "I came back because I
-want to thank you. My husband just passed away, but we\'ve just had
-three of the most wonderful years of our whole life."
+Three years later, the wife came back and said, "I came back because I want to thank you. My husband just passed away, but we\'ve just had three of the most wonderful years of our whole life."
 
 The moral of the story is that we\'re always beginning again in love.
 
-Love is a mystery. God is love (1 John 4:8). As the Preface of the
-Sacred Heart said to us last Friday, we go to the Sacred Heart of Christ
-to "draw water in joy from the wells of salvation" (Isa. 12:3).
+Love is a mystery. God is love (1 John 4:8). As the Preface of the Sacred Heart said to us last Friday, we go to the Sacred Heart of Christ to "draw water in joy from the wells of salvation" (Isa. 12:3).
 
-In the wounded heart of Christ, we learn the meaning of love:
-forgetfulness of self, sacrifice, and a willingness to be on the cross,
-to start over.
+In the wounded heart of Christ, we learn the meaning of love: forgetfulness of self, sacrifice, and a willingness to be on the cross, to start over.
 
 The devil can present sanctity to us as something unattainable.
 
 Sanctity is continuously doing what God wants, not what we want.
 
-There was a story of a Mexican man who, for 25 years, every Saturday
-afternoon, used to bring his wife to the bullfights.
+There was a story of a Mexican man who, for 25 years, every Saturday afternoon, used to bring his wife to the bullfights.
 
-One Saturday afternoon, the wife said, "Let\'s not go to the bullfights.
-I\'m fed up going to the bullfights." After thinking about it, the
-husband said, "Okay, let\'s not go to the bullfights. I never really
-wanted to go to the bullfights anyway."
+One Saturday afternoon, the wife said, "Let\'s not go to the bullfights. I\'m fed up going to the bullfights." After thinking about it, the husband said, "Okay, let\'s not go to the bullfights. I never really wanted to go to the bullfights anyway."
 
 There was a man who learned how to keep his first love in first place.
 
-We all know how the other loves of our life---Manchester United, golf,
-tennis, the local bar---all these things can move themselves up,
-maneuver themselves up sometimes, into first place.
+We all know how the other loves of our life---Manchester United, golf, tennis, the local bar---all these things can move themselves up, maneuver themselves up sometimes, into first place.
 
-Part of holiness is keeping our first love in first place---knowing the
-importance of that. It\'s said that the greatest thing that a man can do
-for his family is to love his wife very much. The greatest thing a woman
-can do for her family is to love her husband very much.
+Part of holiness is keeping our first love in first place---knowing the importance of that. It\'s said that the greatest thing that a man can do for his family is to love his wife very much. The greatest thing a woman can do for her family is to love her husband very much.
 
-That means we have to take care of love because if we\'re not careful,
-the devil can rob us of it.
+That means we have to take care of love because if we\'re not careful, the devil can rob us of it.
 
-Love is expressed in details. St. Josemaria liked to say that married
-couples, after many years of marriage, have to keep their love young and
-fresh, like it was before they got married.
+Love is expressed in details. St. Josemaria liked to say that married couples, after many years of marriage, have to keep their love young and fresh, like it was before they got married.
 
-So we have to know how to sweep our spouse off their feet from time to
-time with little details, with surprises, with small things. People need
-affection. They need to be told that they\'re loved, that they\'re
-beautiful, that they\'re appreciated.
+So we have to know how to sweep our spouse off their feet from time to time with little details, with surprises, with small things. People need affection. They need to be told that they\'re loved, that they\'re beautiful, that they\'re appreciated.
 
-St. Thomas Aquinas was asked, In the quest for holiness, what\'s the
-most important thing? He answered, to desire it, to want it with all our
-heart and soul.
+St. Thomas Aquinas was asked, In the quest for holiness, what\'s the most important thing? He answered, to desire it, to want it with all our heart and soul.
 
-We could ask Our Lord in our prayer today, Do I want that goal of my
-marriage vocation more than anything else in the world? Do I take care
-of it? Where am I now in that zeal for holiness? Am I looking after
-things? Am I taking care of things? What\'s the theme of their marriage
-vocation at the moment?
+We could ask Our Lord in our prayer today, Do I want that goal of my marriage vocation more than anything else in the world? Do I take care of it? Where am I now in that zeal for holiness? Am I looking after things? Am I taking care of things? What\'s the theme of their marriage vocation at the moment?
 
-If you were to sing a song, what would that song be? There was a song in
-the 1960s that said, "Where have all the flowers gone\...long time
-passing?"
+If you were to sing a song, what would that song be? There was a song in the 1960s that said, "Where have all the flowers gone\...long time passing?"
 
-Or in the 1990s, "Once upon a time, I was falling in love, and now I\'m
-only falling apart. There\'s been a total eclipse of the heart. Once
-upon a time, there was light in my life."
+Or in the 1990s, "Once upon a time, I was falling in love, and now I\'m only falling apart. There\'s been a total eclipse of the heart. Once upon a time, there was light in my life."
 
-Wherever we may be, we have to try and go back and begin again, relying
-sometimes a little more on the grace that God gives us.
+Wherever we may be, we have to try and go back and begin again, relying sometimes a little more on the grace that God gives us.
 
-There are two prayers to the Holy Spirit that you\'ll find in the
-Christian devotions. One is for the sequence of Pentecost Sunday. It\'s
-*Veni Sancti Spiritus*. And *Veni Creator Spiritus.*
+There are two prayers to the Holy Spirit that you\'ll find in the Christian devotions. One is for the sequence of Pentecost Sunday. It\'s *Veni Sancti Spiritus*. And *Veni Creator Spiritus.*
 
-The Holy Spirit is the great sanctifier. It gives us fire, the fire of
-love. So it makes a lot of sense to invoke the Holy Spirit frequently or
-to pray those prayers, perhaps in your Thanksgiving after Mass, or other
-moments of the day.
+The Holy Spirit is the great sanctifier. It gives us fire, the fire of love. So it makes a lot of sense to invoke the Holy Spirit frequently or to pray those prayers, perhaps in your Thanksgiving after Mass, or other moments of the day.
 
-Just as we polish up our shoes every day or two, we need to do the same
-with our vocation to holiness, to understand what is necessary to make
-our vocation grow: sacraments, formation. We need regular input: yearly
-retreat, monthly recollection. Maybe a weekly confession.
+Just as we polish up our shoes every day or two, we need to do the same with our vocation to holiness, to understand what is necessary to make our vocation grow: sacraments, formation. We need regular input: yearly retreat, monthly recollection. Maybe a weekly confession.
 
-These are the systems that the saints have placed in a position to help
-us to attain that goal of holiness. At the same time, we have to be
-careful not to go to the wrong environment that can send us in the wrong
-direction: discos, bars, etc.
+These are the systems that the saints have placed in a position to help us to attain that goal of holiness. At the same time, we have to be careful not to go to the wrong environment that can send us in the wrong direction: discos, bars, etc.
 
-The holier we become, the more transparent the face of Christ becomes in
-us.
+The holier we become, the more transparent the face of Christ becomes in us.
 
 Holiness doesn\'t mean that we don\'t have miseries and mistakes.
 
-A lady told me once how she was at Mass in another country and there was
-a French missionary priest who was preaching the homily.
+A lady told me once how she was at Mass in another country and there was a French missionary priest who was preaching the homily.
 
-He talked about how when he was a kid in a small town in France, there
-was a monastery of strict observance on the outskirts of the town and he
-would go there as a 10-year-old kid to help the monks in their work.
+He talked about how when he was a kid in a small town in France, there was a monastery of strict observance on the outskirts of the town and he would go there as a 10-year-old kid to help the monks in their work.
 
-They had a vocation of silence, so they didn\'t talk unless you talked
-to them, and out of charity they would answer. Sometimes he would help
-the monks in their work and they would have a bit of a chit-chat.
+They had a vocation of silence, so they didn\'t talk unless you talked to them, and out of charity they would answer. Sometimes he would help the monks in their work and they would have a bit of a chit-chat.
 
-But he noticed over in the corner of the field near the garden there was
-a very holy, elderly monk who was working away very silently on his own.
-This man had a great aura of holiness about him.
+But he noticed over in the corner of the field near the garden there was a very holy, elderly monk who was working away very silently on his own. This man had a great aura of holiness about him.
 
-One day, he went over to this elderly monk and said to him, "When I grow
-up I want to be like you."
+One day, he went over to this elderly monk and said to him, "When I grow up I want to be like you."
 
-This holy, saintly, elderly man said, "No, don\'t be like me because I
-have hatred in my heart."
+This holy, saintly, elderly man said, "No, don\'t be like me because I have hatred in my heart."
 
-This elderly missionary priest said, "As a 10-year-old I was shocked to
-hear that this saintly, elderly man could have had hatred in his heart."
+This elderly missionary priest said, "As a 10-year-old I was shocked to hear that this saintly, elderly man could have had hatred in his heart."
 
-Then he explained this because he said, "Yes, you see there\'s a monk
-who sits beside me in the refectory and he makes a lot of noise when
-he\'s eating. For the last thirty years, he\'s been driving me up the
-wall."
+Then he explained this because he said, "Yes, you see there\'s a monk who sits beside me in the refectory and he makes a lot of noise when he\'s eating. For the last thirty years, he\'s been driving me up the wall."
 
-The lady who told me this story said, "You know, when I heard the priest
-say that, I couldn\'t look at my husband because for the last thirty
-years, I\'ve been telling him, 'Mind your manners.'"
+The lady who told me this story said, "You know, when I heard the priest say that, I couldn\'t look at my husband because for the last thirty years, I\'ve been telling him, 'Mind your manners.'"
 
-We all have our miseries---things where we can improve on. Sometimes we
-have to listen to what other people are saying to us because maybe they
-see us as we really are, the realities.
+We all have our miseries---things where we can improve on. Sometimes we have to listen to what other people are saying to us because maybe they see us as we really are, the realities.
 
-We have to try and engrave in our hearts that we\'re called to is
-holiness.
+We have to try and engrave in our hearts that we\'re called to is holiness.
 
-God wants me in particular to be a saint. He has created me and elevated
-me to the order of grace. He has redeemed me, given me many graces, and
-given me all the formation that I have because He loves me a lot.
+God wants me in particular to be a saint. He has created me and elevated me to the order of grace. He has redeemed me, given me many graces, and given me all the formation that I have because He loves me a lot.
 
-Whether our life grows with depth in this way also depends on us. God
-doesn\'t go against our freedom. He created us out of love. He wants us
-to correspond with love.
+Whether our life grows with depth in this way also depends on us. God doesn\'t go against our freedom. He created us out of love. He wants us to correspond with love.
 
-Everyone wants to change the world. But few want to do it by changing
-themselves.
+Everyone wants to change the world. But few want to do it by changing themselves.
 
-The message of personal sanctification is not so much that we convert
-China, but that we convert ourselves. We can\'t convert China if we
-don\'t change ourselves. We want big things but we can forget about
-ourselves.
+The message of personal sanctification is not so much that we convert China, but that we convert ourselves. We can\'t convert China if we don\'t change ourselves. We want big things but we can forget about ourselves.
 
-Very often, conversion comes about in and through the cross. Try to
-learn how to thank God for the crosses that He sends you. Our holiness
-is there.
+Very often, conversion comes about in and through the cross. Try to learn how to thank God for the crosses that He sends you. Our holiness is there.
 
-A zeal for holiness can often be a zeal for the cross, for the will of
-God in my life---accepting that will. The cross may come to us in all
-sorts of small ways on a daily basis, but from time to time in the
-course of our life there may be larger crosses, greater things, possibly
-crosses that we never expected.
+A zeal for holiness can often be a zeal for the cross, for the will of God in my life---accepting that will. The cross may come to us in all sorts of small ways on a daily basis, but from time to time in the course of our life there may be larger crosses, greater things, possibly crosses that we never expected.
 
-That\'s where the wisdom of the words of that missionary priest may find
-their true value: to be willing to accept whatever comes.
+That\'s where the wisdom of the words of that missionary priest may find their true value: to be willing to accept whatever comes.
 
-If something comes along that you never expected, never thought would
-happen to you, a great contradiction, possibly it\'s not going to
-change. This is your lot for the rest of your life.
+If something comes along that you never expected, never thought would happen to you, a great contradiction, possibly it\'s not going to change. This is your lot for the rest of your life.
 
-You can be sure that is the will of God for you. That\'s the pathway of
-your sanctification. That\'s why we have to learn to love it.
+You can be sure that is the will of God for you. That\'s the pathway of your sanctification. That\'s why we have to learn to love it.
 
-A lady told me once who had lost a 20-year-old daughter that she had
-learned how to thank God for the crosses that He sends her "because,"
-she said, "I realized it could be worse."
+A lady told me once who had lost a 20-year-old daughter that she had learned how to thank God for the crosses that He sends her "because," she said, "I realized it could be worse."
 
-Ask Our Lord for a passion for sanctity. Try to renew that eagerness for
-sanctity with a human supernatural enthusiasm.
+Ask Our Lord for a passion for sanctity. Try to renew that eagerness for sanctity with a human supernatural enthusiasm.
 
-Lord, may I never lose my eagerness for holiness. May my whole life,
-like the whole of Creation, give you glory.
+Lord, may I never lose my eagerness for holiness. May my whole life, like the whole of Creation, give you glory.
 
-Our vocation to holiness is a constant in our life. It\'s not a state of
-mind. It\'s not a feeling. It doesn\'t depend on our state of
-employment, on our finances, on our health. It has to do with our being.
+Our vocation to holiness is a constant in our life. It\'s not a state of mind. It\'s not a feeling. It doesn\'t depend on our state of employment, on our finances, on our health. It has to do with our being.
 
-No matter where I am or what situation I\'m in, it\'s here. God wants me
-to be holy in and through this situation.
+No matter where I am or what situation I\'m in, it\'s here. God wants me to be holy in and through this situation.
 
-"You saw it quite clearly:" said St. Josemaría in *The Forge*, "while so
-many people do not know God, he has looked to you. He wants you to form
-a part of the foundations. a firm stone upon which the life of the
-Church can rest. Meditate upon this reality and you will draw many
-practical consequences for your ordinary behavior: the foundations, made
-of blocks of stone, hidden and possibly rather dull, have to be solid,
-not fragile. They have to serve as support for the building. If not,
-they\'re useless" (Josemaría Escrivá, *The Forge*, Point 472).
+"You saw it quite clearly:" said St. Josemaría in *The Forge*, "while so many people do not know God, he has looked to you. He wants you to form a part of the foundations. a firm stone upon which the life of the Church can rest. Meditate upon this reality and you will draw many practical consequences for your ordinary behavior: the foundations, made of blocks of stone, hidden and possibly rather dull, have to be solid, not fragile. They have to serve as support for the building. If not, they\'re useless" (Josemaría Escrivá, *The Forge*, Point 472).
 
-Your zeal for holiness may depend on the zeal for the holiness of each
-one of your children in their married life. Every hour is an opportunity
-to give them an example, to lead by example.
+Your zeal for holiness may depend on the zeal for the holiness of each one of your children in their married life. Every hour is an opportunity to give them an example, to lead by example.
 
-Our vocation to holiness is a gift. It can\'t be earned. You have to be
-chosen with a divine calling.
+Our vocation to holiness is a gift. It can\'t be earned. You have to be chosen with a divine calling.
 
-I was giving a retreat many years ago and there was an elderly teacher
-who I knew had a lot of health problems in his life. Sp I asked him,
-"How are things now?"
+I was giving a retreat many years ago and there was an elderly teacher who I knew had a lot of health problems in his life. Sp I asked him, "How are things now?"
 
-He said to me, "Well, Father, I\'ve come to realize that happiness does
-not consist in doing things that are easy."
+He said to me, "Well, Father, I\'ve come to realize that happiness does not consist in doing things that are easy."
 
-I nearly fell off the chair. Such wisdom. We learn an awful lot from
-other people.
+I nearly fell off the chair. Such wisdom. We learn an awful lot from other people.
 
-Sometimes we look for happiness in the easy things. Very often our
-happiness is in the problems, in the challenges, in the changes of
-plans, in the difficulties, in solving those things that crop up daily.
+Sometimes we look for happiness in the easy things. Very often our happiness is in the problems, in the challenges, in the changes of plans, in the difficulties, in solving those things that crop up daily.
 
-We find our happiness on the cross. St. Josemaría liked to say that joy
-and happiness in this world have their roots in the form of a cross (J.
-Escrivá, *Christ Is Passing By*, Point 43) and God is the one who makes
-us holy.
+We find our happiness on the cross. St. Josemaría liked to say that joy and happiness in this world have their roots in the form of a cross (J. Escrivá, *Christ Is Passing By*, Point 43) and God is the one who makes us holy.
 
-"Committed!" says St. Josemaría in *The Forge*. "How I love that word!
-We children of God freely put ourselves under an obligation to live a
-life of dedication to God, striving that he may have complete and
-absolute sovereignty over our lives" (J. Escrivá, *The Forge*, Point
-855).
+"Committed!" says St. Josemaría in *The Forge*. "How I love that word! We children of God freely put ourselves under an obligation to live a life of dedication to God, striving that he may have complete and absolute sovereignty over our lives" (J. Escrivá, *The Forge*, Point 855).
 
-There are certain areas that we always need to look out for in our
-marriage. One of them is communication. Communication sometimes can be a
-very difficult thing---to communicate charity, affection, love; to
-listen carefully to what other people are saying to us, especially our
-spouse.
+There are certain areas that we always need to look out for in our marriage. One of them is communication. Communication sometimes can be a very difficult thing---to communicate charity, affection, love; to listen carefully to what other people are saying to us, especially our spouse.
 
-There may be things that are difficult to say with words. To
-communicate, we need to be able to read other people\'s body language
-and to know the words and gestures that only those who love know are
-important. When to be silent. When to listen. To be there at special
-times.
+There may be things that are difficult to say with words. To communicate, we need to be able to read other people\'s body language and to know the words and gestures that only those who love know are important. When to be silent. When to listen. To be there at special times.
 
-A man asked his wife one time, "Why do you let our son talk to you like
-that?"
+A man asked his wife one time, "Why do you let our son talk to you like that?"
 
 The wife said, "Because that\'s the way that you talk to me."
 
-There may be great things we have to learn: great truths, personal
-truths from knowing how to listen; good communication.
+There may be great things we have to learn: great truths, personal truths from knowing how to listen; good communication.
 
-If the devil can place a barrier between us and our spouse, through
-communication, it\'s not a great battle.
+If the devil can place a barrier between us and our spouse, through communication, it\'s not a great battle.
 
-A couple told me many years ago how every month they take a time
-out---half an hour, an hour---and they sit down.
+A couple told me many years ago how every month they take a time out---half an hour, an hour---and they sit down.
 
-They write down all the things that have annoyed them in the previous
-few weeks, all the thoughts that have passed through their mind, the
-feelings---feelings of injustice, feelings of neglect, feelings of lack
-of kindness or attention to detail.
+They write down all the things that have annoyed them in the previous few weeks, all the thoughts that have passed through their mind, the feelings---feelings of injustice, feelings of neglect, feelings of lack of kindness or attention to detail.
 
-They write all those things down and then they swap papers. So they
-communicate in writing the things that they might otherwise have found
-difficult to communicate in words.
+They write all those things down and then they swap papers. So they communicate in writing the things that they might otherwise have found difficult to communicate in words.
 
-You need to work on communication in your marriage. When the devil
-can\'t attack frontally, he attacks obliquely through misunderstandings,
-miscommunications, neglect of details.
+You need to work on communication in your marriage. When the devil can\'t attack frontally, he attacks obliquely through misunderstandings, miscommunications, neglect of details.
 
-You have to learn how to be a good communicator, and in particular, to
-communicate charity. "Charity is patient. Charity is kind" (1 Cor.
-13:4). You have to try and work at being easy to live with.
+You have to learn how to be a good communicator, and in particular, to communicate charity. "Charity is patient. Charity is kind" (1 Cor. 13:4). You have to try and work at being easy to live with.
 
-We can all be difficult to live with. Sometimes we can think we are the
-most lovable creature on this planet. If ever you have a thought like
-that, ask your mother or your father, "Mum, was I ever unlovable?"
+We can all be difficult to live with. Sometimes we can think we are the most lovable creature on this planet. If ever you have a thought like that, ask your mother or your father, "Mum, was I ever unlovable?"
 
 And they\'ll say, "Sit down for an hour and we\'ll tell you about it."
 
-We have all been the most unlovable creatures that you could possibly
-imagine. But God has called us to try and work at being lovable
-creatures, and that we have to try and show love to other people.
+We have all been the most unlovable creatures that you could possibly imagine. But God has called us to try and work at being lovable creatures, and that we have to try and show love to other people.
 
-The mother is the queen of the home. We always have to try and treat our
-spouse as that queen, so that other people see that. They see it in our
-words, they see it in our actions.
+The mother is the queen of the home. We always have to try and treat our spouse as that queen, so that other people see that. They see it in our words, they see it in our actions.
 
-Family values mean family priorities. Family comes first. Our marriage
-comes first. There may be times when we have to be home: special dates,
-birthdays, anniversaries, Sundays, Christmas.
+Family values mean family priorities. Family comes first. Our marriage comes first. There may be times when we have to be home: special dates, birthdays, anniversaries, Sundays, Christmas.
 
-The best moments of our life should be at home and with our family. This
-is the apostolate of the family. This is where we find our holiness.
+The best moments of our life should be at home and with our family. This is the apostolate of the family. This is where we find our holiness.
 
-A spirit of service is a very important thing in the home. No job should
-be beneath the husband to do: the washing up, to lay the table, sweep
-the driveway, to wash the car, to wash our clothes sometimes.
+A spirit of service is a very important thing in the home. No job should be beneath the husband to do: the washing up, to lay the table, sweep the driveway, to wash the car, to wash our clothes sometimes.
 
-In this way, we prepare our children to be good husbands and good wives.
-Prepare them for their marriage by giving that example.
+In this way, we prepare our children to be good husbands and good wives. Prepare them for their marriage by giving that example.
 
-We can ask St. Joseph, spouse of Our Lady, that we might imitate his
-example in a daily way, through our silence, through our service,
-through our faithfulness; through our acceptance of the will of God like
-he did, being in the background, forgetting ourselves, being a pillar;
-trusting the humble faith; being manly, being available, being full of
-fortitude.
+We can ask St. Joseph, spouse of Our Lady, that we might imitate his example in a daily way, through our silence, through our service, through our faithfulness; through our acceptance of the will of God like he did, being in the background, forgetting ourselves, being a pillar; trusting the humble faith; being manly, being available, being full of fortitude.
 
-We can ask Our Lady that she might cultivate that desire for greater
-holiness in our marriage so that we can truly prepare for that eternal
-feast that God has wanted for us.
+We can ask Our Lady that she might cultivate that desire for greater holiness in our marriage so that we can truly prepare for that eternal feast that God has wanted for us.
 
-*I thank you, my God, for the good resolutions, affections, and
-inspirations that you have communicated to me during this meditation. I
-ask your help to put them into practice. My Immaculate Mother, Saint
-Joseph, my father and lord, my guardian angel, intercede for me.*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *GD*
