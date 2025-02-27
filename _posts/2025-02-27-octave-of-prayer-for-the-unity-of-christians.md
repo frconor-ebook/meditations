@@ -7,483 +7,166 @@ By Fr. Conor Donnelly
 
 (*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
-
-*My Lord and my God, I firmly believe that you are here, that you see
-me, that you hear me. I adore you with profound reverence. I ask your
-pardon for my sins and grace to make this time of prayer fruitful. My
-Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
-intercede for me.*
-
-"With one heart all these join constantly in prayer, together with some
-women, including Mary the Mother of Jesus, and with his brothers" (Acts
-1:14). We are told in the Acts of the Apostles how Our Lady was together
-with the apostles praying constantly.
-
-Today we begin the Octave of Prayer for the Unity of Christians: the
-octave, eight days of prayer preceding the Feast of the Conversion of
-St. Paul very appropriately, whereby we ask for greater unity among
-Christians.
-
-Pope St. John Paul liked to say that the first millennium of
-Christianity, from the year one to the year one thousand, was a
-millennium of unity. It was one Christian Church. All the disunity, all
-the divisions, have come about in the second millennium. And he
-treasured the hope that the third millennium would be a millennium again
-of unity (John Paul II, Encyclical, *Ut unum sint*, Point 55, 57, May
-25, 1995).
-
-So, every year the Church has this octave to encourage us to pray for
-that goal. *Ut omnes unum sint*--"that all may be one" (John 17:21).
-This was the prayer of Our Lord at the Last Supper, a prayer and
-aspiration that\'s frequently on our lips, highlighting the importance
-of that unity.
-
-The best service that we can give to the Church to bring about this
-great lofty goal is to live our vocation well, to grow in our apostolic
-zeal, to be humble, to be sincere, to be obedient. We foster unity
-through our own personal conversion.
-
-That\'s a topic that\'s placed in front of us frequently in our
-formation. In many ways, we are so lucky in the Work. All these great
-goals are regularly placed before us, and the means to achieve them.
-Personal sanctity brings about many wonderful things.
-
-We foster unity through conversion towards the truth. Truth is something
-very important in our life. God is truth. God is also beauty and love.
-Truth is something very attractive, very profound, very beautiful. We
-should try and know the truth. We should try and live by the truth, be
-ready to die for the truth.
-
-One of the documents of the Second Vatican Council talked about how in
-each of the different Christian religions, and also the other religions,
-there is an element of truth. We believe we have the full truth, but we
-also believe that there are aspects of truth in all the different
-religions. There is something good in all of them. Through that focus on
-those good things in other religions, we foster certain bonds of unity
-with them (Vatican II, *Nostra aetate*, October 28, 1965).
-
-It was interesting to see at some United Nations conferences in the last
-twenty, thirty, four years, how an alliance was built between the
-Christian religions, particularly the Catholics, and the Muslims, and
-certain others, about the sanctity of human life. There are some great
-truths there in the other religions. They believe profound truths about
-life and other things, the laws of God. We can thank God for those good
-points that are there. We could try and build on those things.
-
-You could say the thrust in the world is to reach out and grow in
-friendship with people who hold these same truths. Friendship is like
-the key or the buzzword that the Father is using very frequently these
-days: to reach out in friendship to other people, to see what binds us
-together, what we share in common belief, so as to build a greater unity
-there, and as a means to re-evangelize society with profound deep
-truths.
-
-Somebody once said that all the great religions in the world believe in
-the spiritual nature of man: Hinduism, Buddhism, Islam, Judaism,
-Christianity---man has a spiritual nature, that he has a soul, that he
-has an eternal destiny.
-
-Only modern materialism says that man has no soul---man is just a thing;
-he\'s expendable---hence abortion, narcissistic suicide, euthanasia, all
-these sorts of things.
-
-All these religions believe that the dignity of the human person to a
-large extent comes from his spiritual nature. Modern materialism tends
-to say that man\'s dignity comes from what he has, what he owns, the
-material things. We know that\'s not the reality.
-
-While we work towards unity and try to foster unity and pray for it, at
-the same time Pope St. John Paul would like to emphasize how within each
-one of us we have a principle of disunity. It\'s an important thing to
-keep in mind. The wounds of original sin are there in every human
-person. Through them, often the devil works. All disunity comes from the
-devil.
-
-All unity comes from God and peace. Our Father once was visiting Lambeth
-Palace in London. He was brought into a certain room, and he was told
-that Henry VIII was buried there. Our Father ran out of the place. He
-didn\'t want to be there even for a moment. A cold shiver ran down his
-spine.
-
-He judged history with a great Christian sense and said if it hadn\'t
-been for this man, the world might be Catholic today. Then he said,
-"*Tengo que estar con Jesús*." I need to be with Jesus. Our Father felt
-a physical need to restore his peace with a greater closeness to Our
-Lord in the Blessed Sacrament.
-
-In his first message as Pope in 2005, Pope Benedict said, "With full
-awareness, therefore, at the beginning of his ministry in the Church of
-Rome which Peter bathed in his blood, Peter\'s current Successor takes
-on as his primary task the duty to work tirelessly to rebuild the full
-and visible unity of all Christ\'s followers. This is his ambition, his
-impelling duty" (Benedict XVI, *First Message*, April 20, 2005).
-
-It\'s interesting to see the conviction with which Pope Benedict spoke
-about this goal: "tirelessly to rebuild the full and visible unity of
-all Christ\'s followers."
-
-All our activities are open to everybody. It\'s a rather interesting
-little point, the universality of each of our centers. We don\'t just
-welcome some people or only Catholics. Anybody can come. Anybody can
-benefit from the formation that we offer. Interesting point---the
-catholicity, the universal outlook of everything that we do, part of our
-Catholic formation.
-
-Then Pope Benedict said, "What does the Lord ask of us as we work for
-Christian unity? To pray constantly, do justice, love, goodness, and
-walk humbly with Him" (Mic. 6:6-8). Be Christ-like examples, because
-people are looking for the truth.
-
-St. Edith Stein, a Jewess in Germany in the 1930s, a philosopher, went
-all over Europe lecturing, particularly preaching against National
-Socialism, which was Hitler. She said, "When I was younger, my only
-prayer was to search for the truth."
-
-Every human person is looking for truth. Yesterday in the Gospel, when
-John the Baptist pointed out to the disciples, "Behold the Lamb of God",
-they began to follow Jesus. And He turned to them and said, "Whom do you
-seek?" (John 1:36, 38).
-
-They were seeking. Every human person is seeking. When we hear truth, it
-reverberates deep down in our mind, soul, and heart. It means something
-to us. It speaks to us.
-
-"To pray for unity," said Pope Benedict, "is itself 'an effective means
-of obtaining the grace of unity' (Decree on Ecumenism,*Unitatis
-redintegratio*), since it is a participation in the prayer of Jesus
-himself" (Benedict XVI, *Address*, January 25, 2008).
-
-So, the Church invites us these days to be focused on that goal, united
-to the intentions of the Holy Father.
-
-In the Second Vatican Council's document *Ad gentes*, it says, "The
-Church was publicly displayed to the multitude, the Gospel began to
-spread among the nations by means of preaching, and there was presaged
-that union of all peoples in the catholicity of the faith by means of
-the Church of the New Covenant, a Church which speaks all tongues,
-understands and accepts all tongues in her love, and so supersedes the
-divisiveness of Babel."
-
-When you look back at the history of the Catholic Church, you see what
-the Church has done in every country of the world, particularly in
-education and health care, the enormous amount of good that has come
-from the Church, and also from the other Christian churches, where would
-the world be?
-
-We live in a barbaric society. Sometimes current society is a bit
-barbaric, but we have to try and re-Christianize it. We do that through
-the truth.
-
-"Thus, as noted above," the Second Vatican Council said in the document,
-*Dominus Iesus*, "the Second Vatican Council, in considering the
-customs, precepts, and teachings of the other religions, teaches that
-'although differing in many ways from her own teaching, these
-nevertheless often reflect a ray of that truth which enlightens all men'
-(*Nostra aetate*, Point 2)."
-
-This is from a document that the present Father, Don Fernando, was very
-much involved in writing. Part of his prestige in the Holy See is in and
-through this document.
-
-Benedict says we must end the scandal of disunity among Christians.
-There are something like 20,000 different Protestant sects in the world
-today, all saying different things. In Asia, it is particularly visible.
-When people come close to Christianity that they haven\'t encountered
-before, and then they see this myriad of different Christian religions,
-they ask, 'Why? What is this all about?' It is difficult for them to
-understand. It is a scandal of disunity. It is so important that we try
-to work towards this goal.
-
-Don Javier in February 2009 said that "Prayer is and always will be the
-primary weapon to attain the divine gift of Christian unity. We have
-tried to employ it, especially in recent weeks, during the Octave of
-Prayer for the Unity of Christians, which in this year dedicated to St.
-Paul takes on special relevance."
-
-This octave comes before the Feast of St. Paul because he was the
-Apostle of the Gentiles, called to bring the good news to every person.
-Hence the importance of knowing the good news and of living the good
-news.
-
-Notice how we have that little custom, norm: reading a little bit of the
-Gospel every day. Sometimes a word, sometimes a phrase, sometimes a
-chapter. But every day of our life something, some little bit of grain
-of truth, of light, of nourishment for our soul, so that hopefully we
-come to love that truth and reflect it in all sorts of ways, in the way
-we work, in the way we talk, in the way we do things, in the way we
-live. Our lifestyle is apostolic. It sends out a message---a message of
-truth and love.
-
-"In Opus Dei," Don Javier continues, "as St. Josemaría recommended, we
-also pray every day *pro unitate apostolates*" for the unity of the
-apostolate, of all the types of apostolate that we are called to be
-involved in.
-
-We\'re interested in every soul. You see, not every supernatural family
-in the Church has a direct apostolic mission of focusing on every soul.
-Some supernatural families are called to look after the physically
-handicapped, or the mentally handicapped, or the elderly, or the
-newborn, or whatever. But our whole apostolate is fostered on everybody,
-on the unity of everybody, in love and in the truth.
-
-"We ask God that those who invoke the name of Jesus, and acknowledge him
-as Lord, might soon form 'a single flock with a single shepherd' (*cf*.
-John 10:16)" (Javier Echevarría, *Letter from the Prelate*, February
-2009).
-
-The importance of unity to the Church and all the desires of the Church,
-and unity to the Holy Father and the desires of the Holy Father---notice
-how that is so deeply ingrained in our family, in our formation. Unity
-to the Church, absorbing the doctrine, following the documents, growing
-in our spiritual life, praying for the Holy Father with his mind and his
-heart, are the visible symbols of unity.
-
-"You are Peter, and on this rock I will build my Church" (Matt. 16:18).
-We try to foster that. The whole world would somehow see that. You see,
-in recent decades, that has become more visible in the world, the
-importance of the papacy. Pope St. John Paul built up the papacy like
-never before on the world stage, with his journeys, with his writings.
-And the succeeding popes have done the same.
-
-I was rather moved by one particular thing that Pope Francis did that
-was not highlighted too much. He made a trip to Myanmar a couple of
-years ago. Myanmar is about 1 percent Catholic---not the most prominent
-of Asian countries---and yet the Vicar of Christ on earth made a special
-trip at 80 plus years of age there, to highlight the plight of the
-Rohingya Muslims. The spiritual leader of the world bent over backwards
-for the most forgotten people, who were not even Catholics.
-
-That\'s very eloquent. What leader of any country goes to Myanmar? But
-the spiritual leader of the world goes there. We experienced similar
-things when the Holy Father came here to this country \[Kenya\] a few
-years ago. As soon as he stepped off the plane, it was as though the
-whole country stopped.
-
-Sometimes we don\'t realize what we have. The pope is recognized as the
-spiritual leader of the world, an ethical leader, and a leader in terms
-of human rights and everything related to the defense of the human
-person.
-
-"Now I want to remind you," said Don Javier, "that, together with
-prayer, all our apostolic work (including, therefore, the effort to
-bring about the unity of Christians) has to be accompanied by joyful and
-generous expiation, which unites us closely to Jesus Christ" (*ibid*.).
-
-Really ,what the Father is saying is, when we are in our place,
-fulfilling our duty, doing our job, sanctifying our work, living our
-spirit with all of its details, giving this fraternal correction, taking
-care of our expense account, putting this little piece of furniture back
-in its place, laying this table, pressing the button on this washing
-machine---all these concrete things that we do every day according to
-our spirit---we\'re helping to bring about this marvelous goal in and
-through our unity to the Church and our unity to Our Lord and the
-Blessed Sacrament.
-
-"Let us not forget," he says, "that Our Lord, on the Cross, redeemed us
-from our sins and opened the path to identify ourselves with him"
-(*ibid*.).
-
-In the pontificate of Pope John Paul, he organized prayer meetings at
-Assisi, where he called together all of the leaders of all the religions
-of the world. It was rather an interesting group. An interesting
-initiative of the leader of the Catholic Church to do that, and
-precisely in Assisi.
-
-The Entrance Antiphon of the Mass for the Unity of Christians says, "'I
-am the good shepherd. I know my sheep, and mine know me,' says the Lord,
-'just as the Father knows me and I know the Father. I give my life for
-my sheep'" (John 10:14-15).
-
-Christ is the Good Shepherd. We bring about our greater unity by being
-more united to the Good Shepherd, falling more in love with Him
-ourselves, following all the pathways that our Father has given us to
-fall more in love with Our Lord, taking care of our Eucharistic piety,
-working at our particular fight, being more Christ-like in all sorts of
-ways as we ask the Good Shepherd for all His graces to take care of all
-the sheep, to help us to go after every lost sheep and to treat them all
-like good sheep need to be taught, need to be looked after.
-
-In the Opening Prayer it says, "We are all consecrated to you by our
-common baptism." Baptism is so important. It washes away the stains of
-original sin. The Code of Canon Law says it\'s "the gateway to the other
-sacraments." It\'s a very nice word, the "gateway."
-
-We have a common Baptism. With that common Baptism comes common goals.
-It makes us one in the fullness of faith. It makes us witnesses of your
-truth to all men. It helps us to bring all believers together in the
-unity of faith and the fellowship of peace.
-
-Witnesses. We\'re called to be witnesses to the truth. Therefore, we
-have to try and know the truth a little better, our doctrinal formation,
-so that we can explain it. We don\'t need to argue about it, because
-truth itself convinces. Truth is beautiful. We just have to speak the
-truth and reflect the truth and know how to make it understandable for
-many different people.
-
-We\'re told in the Preface of Christian Unity, "Through Christ you bring
-us to the knowledge of your truth, that we may become united by one
-faith and one Baptism to become one Body."
-
-Throughout Scripture, there\'s a great emphasis given on unity.
-Therefore, each one of us has to see what we can do to preserve that
-unity. There is strength in unity.
-
-A Chinese father once had many children and they were always squabbling.
-He gave each one of them a chopstick and asked them to break it. They
-were able to break it very easily. But then he gave each one a bunch of
-chopsticks. They tried to break it but that was almost impossible. So,
-strength in unity.
-
-"Through Christ you have given the Holy Spirit to all peoples," we\'re
-told in the Preface. The Holy Spirit has been given to all peoples.
-People are looking for that truth. There\'s an inherent goodness in each
-person.
-
-We don\'t believe that everybody is condemned if they\'re not Catholics
-because our Church teaches about the "baptism of desire" (*Catechism of
-the Catholic Church*, Points 1257-1260). If there\'s a good Muslim and a
-good Protestant and they live their faith, or a good Hindu, and they
-believe the precepts of their religion and try to live by them, they
-think they\'re living in the truth. But we believe that person has the
-baptism of desire.
-
-If they knew the truth through faith or knew that they existed, they
-would want to have them. But they have not been given the grace of faith
-or the opportunity, through no fault of their own. They try to lead a
-good life, a virtuous life---they can go to heaven. They can be
-cooperators of Opus Dei. It's a very interesting point.
-
-Our Lord has also said, "Those to whom much has been given, much will be
-demanded" (Luke 12:48). When we look and see what other people have not
-been given, we come to appreciate a little more what we have been given:
-the grace of the sacraments, the grace of Baptism, the grace of our
-doctrinal formation, possibly being brought up in a Christian home, and
-so many other things.
-
-Our Lord has a right to demand a lot from us. We will be judged on what
-we have been given.
-
-"How wonderful are the works of the Spirit, revealed in so many gifts!"
-it says in the Preface. "Yet how marvelous is the unity the Spirit
-creates from their diversity, as he dwells in the hearts of your
-children, filling the whole Church with his presence and guiding it with
-his wisdom!"
-
-The Holy Spirit is at work in and through the Church, giving witness
-through schools, through hospitals, through the personal witness of
-individual Christians, creating a unity out of diversity from the
-missionary thrust of the Church, going to all the corners of the earth,
-bringing the light and the doctrine of Christ and His common great
-goods, filling the whole Church with His presence and guiding it with
-His wisdom.
-
-St. Joan of Arc says, "About Jesus Christ and the Church, I simply know
-that they are just one thing, and we shouldn\'t complicate the matter."
-
-Christ is present in His Church. The Catechism says that "those who have
-not yet received the Gospel are related to the People of God in various
-ways" (*Catechism*, Point 325).
-
-When we try to give doctrinal formation to people, when we spread that
-truth and that doctrine, help people\'s minds to be enlightened, it
-helps us to see the great instrument that the *Catechism* is. The
-*Catechism of the Catholic Church* is something we should try and go
-through with a certain regularity.
-
-When a certain topic comes up, maybe a moral issue or something, to go
-and look it up, like IVF or something like that, that we suddenly hear
-about in the newspaper. You'll find the *Catechism* has things to say
-about all these things. It\'s a marvelous reference.
-
-It\'s wonderful that young people can get the truths that are contained
-in the *Catechism* explained to them at a level that they can
-understand. Children grow up knowing things that might take them a whole
-lifetime to discover: the indissolubility of marriage, the sacredness of
-human life. If the culture and the world they are living in tend to give
-them completely the opposite message, but at least they know the truth.
-They\'ve heard the truth. It\'s written there in black and white for
-them. That\'s a great service.
-
-In the *Catechism of the Catholic Church*, it says, "The Church knows
-that she is joined in many ways to the baptized who are honored by the
-name of Christian, but do not profess the Catholic faith in its entirety
-or have not preserved unity or communion under the successor of Peter.
-Those 'who believe in Christ and have been properly baptized are put in
-a certain, although imperfect, communion with the Catholic Church.' With
-the Orthodox Churches, this communion is so profound 'that it lacks
-little to attain the fullness that would permit a common celebration of
-the Lord\'s Eucharist'" (*Catechism*, Point 838, quoting *Unitatis
-redintegratio,* Points 3,13-18). Some of the Orthodox Churches are
-closer than some of the other churches.
-
-"The Catholic Church recognizes in other religions that search, among
-shadows and images, for the God who is unknown yet near since he gives
-life and breath and all things and wants all men to be saved. Thus, the
-Church considers all goodness and truth found in these religions as 'a
-preparation for the Gospel and given by him who enlightens all men that
-they may at length have life'" (*Catechism*, Point 843, quoting *Lumen
-gentium*, Point 16).
-
-"True unity," said Pope John Paul, "is unity in the truth" (John Paul
-II, *Ut unum sint*, Point 29). It\'s not unity from the truth or freedom
-from the truth. It\'s fidelity to the deposit of revelation; giving the
-truth in charity.
-
-We also try to foster a great unity within the Church---united to the
-vine, unity with Christ (John 15:4), who is the foundation for unity
-among the faithful.
-
-All this means also that we speak well of other religions. We try to
-speak well of other supernatural families within the Church. Our Father
-has forbidden us from doing otherwise. If ever we might have reason to
-say or to think something negative, we keep silent. We look for things
-to say within the Church.
-
-"And outside the Church," our Father often repeats, "I love the
-religious. They\'re not my way, but I love them. I try to love all
-people, I speak well of them, compliment them when there are good things
-to say about them." We build up the Church, and we build up this unity
-among Christians also.
-
-Our Lady is the model of unity. A document from the Church says, "The
-Blessed Virgin Mary is the model of ecclesial communion in faith, in
-charity, and in union with Christ. 'Eternally present in the mystery of
-Christ' (John Paul II, Encyclical, *Redemptoris Mater*, March 25, 1987),
-she is in the midst of the apostles, at the very heart of the Church at
-her birth (Acts 1:14), and at the Church of all ages."
-
-United in prayer with Mary, the Mother of Jesus. "Indeed, the Church was
-congregated in the upper part of the Cenacle with Mary, who was the
-Mother of Jesus, and with His brethren. We cannot speak of the Church
-unless Mary, the Mother of the Lord, is present there, with the Lord\'s
-brethren" (Joseph Ratzinger, Congregation for the Doctrine of the Faith,
-*Letter to the Bishops*, May 28, 1992).
-
-By "treasuring the truth in her heart, Mary shared it forever with the
-world" (John Paul II, Encyclical, *Fides et ratio*, Point 108, September
-14, 1998).
-
-Our Father says in the *Furrow*, "Every day you must grow in loyalty
-towards the Church, the Pope, and the Holy See\...with a love that
-should always be more theological. You have a great desire truly to love
-the Church, and all the greater, when you see that those who wish to
-make her appear ugly are more active. ---This seems very natural to me
-because the Church is your Mother" (Josemaría Escrivá, *Furrow*, Points
-353-354).
-
-The Church is Our Mother, and Mary is also the Mother of the Church. We
-ask Our Lady, that she might help to make this act of prayer for
-Christian unity all the more fruitful, as we unite ourselves to the
-prayer and to the intentions of the Holy Father for that great goal.
-
-*I thank you, my God, for the good resolutions, affections, and
-inspirations that you have communicated to me during this meditation. I
-ask your help to put them into practice. My Immaculate Mother, Saint
-Joseph, my father and lord, my guardian angel, intercede for me.*
-
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"With one heart all these join constantly in prayer, together with some women, including Mary the Mother of Jesus, and with his brothers" (Acts 1:14). We are told in the Acts of the Apostles how Our Lady was together with the apostles praying constantly.
+
+Today we begin the Octave of Prayer for the Unity of Christians: the octave, eight days of prayer preceding the Feast of the Conversion of St. Paul very appropriately, whereby we ask for greater unity among Christians.
+
+Pope St. John Paul liked to say that the first millennium of Christianity, from the year one to the year one thousand, was a millennium of unity. It was one Christian Church. All the disunity, all the divisions, have come about in the second millennium. And he treasured the hope that the third millennium would be a millennium again of unity (John Paul II, Encyclical, *Ut unum sint*, Point 55, 57, May 25, 1995).
+
+So, every year the Church has this octave to encourage us to pray for that goal. *Ut omnes unum sint*--"that all may be one" (John 17:21). This was the prayer of Our Lord at the Last Supper, a prayer and aspiration that\'s frequently on our lips, highlighting the importance of that unity.
+
+The best service that we can give to the Church to bring about this great lofty goal is to live our vocation well, to grow in our apostolic zeal, to be humble, to be sincere, to be obedient. We foster unity through our own personal conversion.
+
+That\'s a topic that\'s placed in front of us frequently in our formation. In many ways, we are so lucky in the Work. All these great goals are regularly placed before us, and the means to achieve them. Personal sanctity brings about many wonderful things.
+
+We foster unity through conversion towards the truth. Truth is something very important in our life. God is truth. God is also beauty and love. Truth is something very attractive, very profound, very beautiful. We should try and know the truth. We should try and live by the truth, be ready to die for the truth.
+
+One of the documents of the Second Vatican Council talked about how in each of the different Christian religions, and also the other religions, there is an element of truth. We believe we have the full truth, but we also believe that there are aspects of truth in all the different religions. There is something good in all of them. Through that focus on those good things in other religions, we foster certain bonds of unity with them (Vatican II, *Nostra aetate*, October 28, 1965).
+
+It was interesting to see at some United Nations conferences in the last twenty, thirty, four years, how an alliance was built between the Christian religions, particularly the Catholics, and the Muslims, and certain others, about the sanctity of human life. There are some great truths there in the other religions. They believe profound truths about life and other things, the laws of God. We can thank God for those good points that are there. We could try and build on those things.
+
+You could say the thrust in the world is to reach out and grow in friendship with people who hold these same truths. Friendship is like the key or the buzzword that the Father is using very frequently these days: to reach out in friendship to other people, to see what binds us together, what we share in common belief, so as to build a greater unity there, and as a means to re-evangelize society with profound deep truths.
+
+Somebody once said that all the great religions in the world believe in the spiritual nature of man: Hinduism, Buddhism, Islam, Judaism, Christianity---man has a spiritual nature, that he has a soul, that he has an eternal destiny.
+
+Only modern materialism says that man has no soul---man is just a thing; he\'s expendable---hence abortion, narcissistic suicide, euthanasia, all these sorts of things.
+
+All these religions believe that the dignity of the human person to a large extent comes from his spiritual nature. Modern materialism tends to say that man\'s dignity comes from what he has, what he owns, the material things. We know that\'s not the reality.
+
+While we work towards unity and try to foster unity and pray for it, at the same time Pope St. John Paul would like to emphasize how within each one of us we have a principle of disunity. It\'s an important thing to keep in mind. The wounds of original sin are there in every human person. Through them, often the devil works. All disunity comes from the devil.
+
+All unity comes from God and peace. Our Father once was visiting Lambeth Palace in London. He was brought into a certain room, and he was told that Henry VIII was buried there. Our Father ran out of the place. He didn\'t want to be there even for a moment. A cold shiver ran down his spine.
+
+He judged history with a great Christian sense and said if it hadn\'t been for this man, the world might be Catholic today. Then he said, "*Tengo que estar con Jesús*." I need to be with Jesus. Our Father felt a physical need to restore his peace with a greater closeness to Our Lord in the Blessed Sacrament.
+
+In his first message as Pope in 2005, Pope Benedict said, "With full awareness, therefore, at the beginning of his ministry in the Church of Rome which Peter bathed in his blood, Peter\'s current Successor takes on as his primary task the duty to work tirelessly to rebuild the full and visible unity of all Christ\'s followers. This is his ambition, his impelling duty" (Benedict XVI, *First Message*, April 20, 2005).
+
+It\'s interesting to see the conviction with which Pope Benedict spoke about this goal: "tirelessly to rebuild the full and visible unity of all Christ\'s followers."
+
+All our activities are open to everybody. It\'s a rather interesting little point, the universality of each of our centers. We don\'t just welcome some people or only Catholics. Anybody can come. Anybody can benefit from the formation that we offer. Interesting point---the catholicity, the universal outlook of everything that we do, part of our Catholic formation.
+
+Then Pope Benedict said, "What does the Lord ask of us as we work for Christian unity? To pray constantly, do justice, love, goodness, and walk humbly with Him" (Mic. 6:6-8). Be Christ-like examples, because people are looking for the truth.
+
+St. Edith Stein, a Jewess in Germany in the 1930s, a philosopher, went all over Europe lecturing, particularly preaching against National Socialism, which was Hitler. She said, "When I was younger, my only prayer was to search for the truth."
+
+Every human person is looking for truth. Yesterday in the Gospel, when John the Baptist pointed out to the disciples, "Behold the Lamb of God", they began to follow Jesus. And He turned to them and said, "Whom do you seek?" (John 1:36, 38).
+
+They were seeking. Every human person is seeking. When we hear truth, it reverberates deep down in our mind, soul, and heart. It means something to us. It speaks to us.
+
+"To pray for unity," said Pope Benedict, "is itself 'an effective means of obtaining the grace of unity' (Decree on Ecumenism,*Unitatis redintegratio*), since it is a participation in the prayer of Jesus himself" (Benedict XVI, *Address*, January 25, 2008).
+
+So, the Church invites us these days to be focused on that goal, united to the intentions of the Holy Father.
+
+In the Second Vatican Council's document *Ad gentes*, it says, "The Church was publicly displayed to the multitude, the Gospel began to spread among the nations by means of preaching, and there was presaged that union of all peoples in the catholicity of the faith by means of the Church of the New Covenant, a Church which speaks all tongues, understands and accepts all tongues in her love, and so supersedes the divisiveness of Babel."
+
+When you look back at the history of the Catholic Church, you see what the Church has done in every country of the world, particularly in education and health care, the enormous amount of good that has come from the Church, and also from the other Christian churches, where would the world be?
+
+We live in a barbaric society. Sometimes current society is a bit barbaric, but we have to try and re-Christianize it. We do that through the truth.
+
+"Thus, as noted above," the Second Vatican Council said in the document, *Dominus Iesus*, "the Second Vatican Council, in considering the customs, precepts, and teachings of the other religions, teaches that 'although differing in many ways from her own teaching, these nevertheless often reflect a ray of that truth which enlightens all men' (*Nostra aetate*, Point 2)."
+
+This is from a document that the present Father, Don Fernando, was very much involved in writing. Part of his prestige in the Holy See is in and through this document.
+
+Benedict says we must end the scandal of disunity among Christians. There are something like 20,000 different Protestant sects in the world today, all saying different things. In Asia, it is particularly visible. When people come close to Christianity that they haven\'t encountered before, and then they see this myriad of different Christian religions, they ask, 'Why? What is this all about?' It is difficult for them to understand. It is a scandal of disunity. It is so important that we try to work towards this goal.
+
+Don Javier in February 2009 said that "Prayer is and always will be the primary weapon to attain the divine gift of Christian unity. We have tried to employ it, especially in recent weeks, during the Octave of Prayer for the Unity of Christians, which in this year dedicated to St. Paul takes on special relevance."
+
+This octave comes before the Feast of St. Paul because he was the Apostle of the Gentiles, called to bring the good news to every person. Hence the importance of knowing the good news and of living the good news.
+
+Notice how we have that little custom, norm: reading a little bit of the Gospel every day. Sometimes a word, sometimes a phrase, sometimes a chapter. But every day of our life something, some little bit of grain of truth, of light, of nourishment for our soul, so that hopefully we come to love that truth and reflect it in all sorts of ways, in the way we work, in the way we talk, in the way we do things, in the way we live. Our lifestyle is apostolic. It sends out a message---a message of truth and love.
+
+"In Opus Dei," Don Javier continues, "as St. Josemaría recommended, we also pray every day *pro unitate apostolates*" for the unity of the apostolate, of all the types of apostolate that we are called to be involved in.
+
+We\'re interested in every soul. You see, not every supernatural family in the Church has a direct apostolic mission of focusing on every soul. Some supernatural families are called to look after the physically handicapped, or the mentally handicapped, or the elderly, or the newborn, or whatever. But our whole apostolate is fostered on everybody, on the unity of everybody, in love and in the truth.
+
+"We ask God that those who invoke the name of Jesus, and acknowledge him as Lord, might soon form 'a single flock with a single shepherd' (*cf*. John 10:16)" (Javier Echevarría, *Letter from the Prelate*, February 2009).
+
+The importance of unity to the Church and all the desires of the Church, and unity to the Holy Father and the desires of the Holy Father---notice how that is so deeply ingrained in our family, in our formation. Unity to the Church, absorbing the doctrine, following the documents, growing in our spiritual life, praying for the Holy Father with his mind and his heart, are the visible symbols of unity.
+
+"You are Peter, and on this rock I will build my Church" (Matt. 16:18). We try to foster that. The whole world would somehow see that. You see, in recent decades, that has become more visible in the world, the importance of the papacy. Pope St. John Paul built up the papacy like never before on the world stage, with his journeys, with his writings. And the succeeding popes have done the same.
+
+I was rather moved by one particular thing that Pope Francis did that was not highlighted too much. He made a trip to Myanmar a couple of years ago. Myanmar is about 1 percent Catholic---not the most prominent of Asian countries---and yet the Vicar of Christ on earth made a special trip at 80 plus years of age there, to highlight the plight of the Rohingya Muslims. The spiritual leader of the world bent over backwards for the most forgotten people, who were not even Catholics.
+
+That\'s very eloquent. What leader of any country goes to Myanmar? But the spiritual leader of the world goes there. We experienced similar things when the Holy Father came here to this country \[Kenya\] a few years ago. As soon as he stepped off the plane, it was as though the whole country stopped.
+
+Sometimes we don\'t realize what we have. The pope is recognized as the spiritual leader of the world, an ethical leader, and a leader in terms of human rights and everything related to the defense of the human person.
+
+"Now I want to remind you," said Don Javier, "that, together with prayer, all our apostolic work (including, therefore, the effort to bring about the unity of Christians) has to be accompanied by joyful and generous expiation, which unites us closely to Jesus Christ" (*ibid*.).
+
+Really ,what the Father is saying is, when we are in our place, fulfilling our duty, doing our job, sanctifying our work, living our spirit with all of its details, giving this fraternal correction, taking care of our expense account, putting this little piece of furniture back in its place, laying this table, pressing the button on this washing machine---all these concrete things that we do every day according to our spirit---we\'re helping to bring about this marvelous goal in and through our unity to the Church and our unity to Our Lord and the Blessed Sacrament.
+
+"Let us not forget," he says, "that Our Lord, on the Cross, redeemed us from our sins and opened the path to identify ourselves with him" (*ibid*.).
+
+In the pontificate of Pope John Paul, he organized prayer meetings at Assisi, where he called together all of the leaders of all the religions of the world. It was rather an interesting group. An interesting initiative of the leader of the Catholic Church to do that, and precisely in Assisi.
+
+The Entrance Antiphon of the Mass for the Unity of Christians says, "'I am the good shepherd. I know my sheep, and mine know me,' says the Lord, 'just as the Father knows me and I know the Father. I give my life for my sheep'" (John 10:14-15).
+
+Christ is the Good Shepherd. We bring about our greater unity by being more united to the Good Shepherd, falling more in love with Him ourselves, following all the pathways that our Father has given us to fall more in love with Our Lord, taking care of our Eucharistic piety, working at our particular fight, being more Christ-like in all sorts of ways as we ask the Good Shepherd for all His graces to take care of all the sheep, to help us to go after every lost sheep and to treat them all like good sheep need to be taught, need to be looked after.
+
+In the Opening Prayer it says, "We are all consecrated to you by our common baptism." Baptism is so important. It washes away the stains of original sin. The Code of Canon Law says it\'s "the gateway to the other sacraments." It\'s a very nice word, the "gateway."
+
+We have a common Baptism. With that common Baptism comes common goals. It makes us one in the fullness of faith. It makes us witnesses of your truth to all men. It helps us to bring all believers together in the unity of faith and the fellowship of peace.
+
+Witnesses. We\'re called to be witnesses to the truth. Therefore, we have to try and know the truth a little better, our doctrinal formation, so that we can explain it. We don\'t need to argue about it, because truth itself convinces. Truth is beautiful. We just have to speak the truth and reflect the truth and know how to make it understandable for many different people.
+
+We\'re told in the Preface of Christian Unity, "Through Christ you bring us to the knowledge of your truth, that we may become united by one faith and one Baptism to become one Body."
+
+Throughout Scripture, there\'s a great emphasis given on unity. Therefore, each one of us has to see what we can do to preserve that unity. There is strength in unity.
+
+A Chinese father once had many children and they were always squabbling. He gave each one of them a chopstick and asked them to break it. They were able to break it very easily. But then he gave each one a bunch of chopsticks. They tried to break it but that was almost impossible. So, strength in unity.
+
+"Through Christ you have given the Holy Spirit to all peoples," we\'re told in the Preface. The Holy Spirit has been given to all peoples. People are looking for that truth. There\'s an inherent goodness in each person.
+
+We don\'t believe that everybody is condemned if they\'re not Catholics because our Church teaches about the "baptism of desire" (*Catechism of the Catholic Church*, Points 1257-1260). If there\'s a good Muslim and a good Protestant and they live their faith, or a good Hindu, and they believe the precepts of their religion and try to live by them, they think they\'re living in the truth. But we believe that person has the baptism of desire.
+
+If they knew the truth through faith or knew that they existed, they would want to have them. But they have not been given the grace of faith or the opportunity, through no fault of their own. They try to lead a good life, a virtuous life---they can go to heaven. They can be cooperators of Opus Dei. It's a very interesting point.
+
+Our Lord has also said, "Those to whom much has been given, much will be demanded" (Luke 12:48). When we look and see what other people have not been given, we come to appreciate a little more what we have been given: the grace of the sacraments, the grace of Baptism, the grace of our doctrinal formation, possibly being brought up in a Christian home, and so many other things.
+
+Our Lord has a right to demand a lot from us. We will be judged on what we have been given.
+
+"How wonderful are the works of the Spirit, revealed in so many gifts!" it says in the Preface. "Yet how marvelous is the unity the Spirit creates from their diversity, as he dwells in the hearts of your children, filling the whole Church with his presence and guiding it with his wisdom!"
+
+The Holy Spirit is at work in and through the Church, giving witness through schools, through hospitals, through the personal witness of individual Christians, creating a unity out of diversity from the missionary thrust of the Church, going to all the corners of the earth, bringing the light and the doctrine of Christ and His common great goods, filling the whole Church with His presence and guiding it with His wisdom.
+
+St. Joan of Arc says, "About Jesus Christ and the Church, I simply know that they are just one thing, and we shouldn\'t complicate the matter."
+
+Christ is present in His Church. The Catechism says that "those who have not yet received the Gospel are related to the People of God in various ways" (*Catechism*, Point 325).
+
+When we try to give doctrinal formation to people, when we spread that truth and that doctrine, help people\'s minds to be enlightened, it helps us to see the great instrument that the *Catechism* is. The *Catechism of the Catholic Church* is something we should try and go through with a certain regularity.
+
+When a certain topic comes up, maybe a moral issue or something, to go and look it up, like IVF or something like that, that we suddenly hear about in the newspaper. You'll find the *Catechism* has things to say about all these things. It\'s a marvelous reference.
+
+It\'s wonderful that young people can get the truths that are contained in the *Catechism* explained to them at a level that they can understand. Children grow up knowing things that might take them a whole lifetime to discover: the indissolubility of marriage, the sacredness of human life. If the culture and the world they are living in tend to give them completely the opposite message, but at least they know the truth. They\'ve heard the truth. It\'s written there in black and white for them. That\'s a great service.
+
+In the *Catechism of the Catholic Church*, it says, "The Church knows that she is joined in many ways to the baptized who are honored by the name of Christian, but do not profess the Catholic faith in its entirety or have not preserved unity or communion under the successor of Peter. Those 'who believe in Christ and have been properly baptized are put in a certain, although imperfect, communion with the Catholic Church.' With the Orthodox Churches, this communion is so profound 'that it lacks little to attain the fullness that would permit a common celebration of the Lord\'s Eucharist'" (*Catechism*, Point 838, quoting *Unitatis redintegratio,* Points 3,13-18). Some of the Orthodox Churches are closer than some of the other churches.
+
+"The Catholic Church recognizes in other religions that search, among shadows and images, for the God who is unknown yet near since he gives life and breath and all things and wants all men to be saved. Thus, the Church considers all goodness and truth found in these religions as 'a preparation for the Gospel and given by him who enlightens all men that they may at length have life'" (*Catechism*, Point 843, quoting *Lumen gentium*, Point 16).
+
+"True unity," said Pope John Paul, "is unity in the truth" (John Paul II, *Ut unum sint*, Point 29). It\'s not unity from the truth or freedom from the truth. It\'s fidelity to the deposit of revelation; giving the truth in charity.
+
+We also try to foster a great unity within the Church---united to the vine, unity with Christ (John 15:4), who is the foundation for unity among the faithful.
+
+All this means also that we speak well of other religions. We try to speak well of other supernatural families within the Church. Our Father has forbidden us from doing otherwise. If ever we might have reason to say or to think something negative, we keep silent. We look for things to say within the Church.
+
+"And outside the Church," our Father often repeats, "I love the religious. They\'re not my way, but I love them. I try to love all people, I speak well of them, compliment them when there are good things to say about them." We build up the Church, and we build up this unity among Christians also.
+
+Our Lady is the model of unity. A document from the Church says, "The Blessed Virgin Mary is the model of ecclesial communion in faith, in charity, and in union with Christ. 'Eternally present in the mystery of Christ' (John Paul II, Encyclical, *Redemptoris Mater*, March 25, 1987), she is in the midst of the apostles, at the very heart of the Church at her birth (Acts 1:14), and at the Church of all ages."
+
+United in prayer with Mary, the Mother of Jesus. "Indeed, the Church was congregated in the upper part of the Cenacle with Mary, who was the Mother of Jesus, and with His brethren. We cannot speak of the Church unless Mary, the Mother of the Lord, is present there, with the Lord\'s brethren" (Joseph Ratzinger, Congregation for the Doctrine of the Faith, *Letter to the Bishops*, May 28, 1992).
+
+By "treasuring the truth in her heart, Mary shared it forever with the world" (John Paul II, Encyclical, *Fides et ratio*, Point 108, September 14, 1998).
+
+Our Father says in the *Furrow*, "Every day you must grow in loyalty towards the Church, the Pope, and the Holy See\...with a love that should always be more theological. You have a great desire truly to love the Church, and all the greater, when you see that those who wish to make her appear ugly are more active. ---This seems very natural to me because the Church is your Mother" (Josemaría Escrivá, *Furrow*, Points 353-354).
+
+The Church is Our Mother, and Mary is also the Mother of the Church. We ask Our Lady, that she might help to make this act of prayer for Christian unity all the more fruitful, as we unite ourselves to the prayer and to the intentions of the Holy Father for that great goal.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *MML*

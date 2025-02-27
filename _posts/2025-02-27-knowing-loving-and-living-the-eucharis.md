@@ -1,0 +1,164 @@
+---
+layout: homily
+title: "Knowing, Loving, and Living the Eucharis"
+---
+
+By Fr. Conor Donnelly
+
+*(Proofread)*
+
+In the name of the Father, and of the Son, and the Holy Spirit. Amen.
+
+My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my Guardian Angel, intercede for me.
+
+**Looking up, Jesus saw the crowds approaching, and said to Philip, "Where can we buy some bread for these people to eat?"**
+
+**He said this only to put Philip to the test. He knew exactly what he was going to do. Philip answered, "200 denarii would not buy enough to give them a little piece each."**
+
+**One of the disciples, Andrew, Simon Peter\'s brother, said, "Here is a small boy with five barley loaves and two fish, but what is that among so many?"**
+
+Several years ago, a professor of Scripture came to Dublin from Rome and went to visit a library there, sort of a museum library, that has some of the oldest pieces of papyri in the whole world and one of the pieces that they have is the oldest piece of the Gospel of Saint John, Chapter One. They don\'t get too many visitors and this professor of Scripture was very excited about seeing these heirlooms, wonderful antiques when the caretaker saw the enthusiasm of this professor of Scripture, he opened the glass case and allowed the professor to hold this piece of papyrus in his hand.
+
+I heard that professor, waxing eloquently, about this wonderful experience of holding this very sacred and holy and ancient piece of Scripture in his hands, and of course, all of that was very real and very understandable. But when you compare holding that piece of papyrus from the first century in your hands to holding the sacred host or to having that sacred host in our mouth, inside our body, the real presence of Christ, body and blood, whole and entire, soul and divinity, there\'s no comparison.
+
+Saint Pius X said, "Devotion to the Eucharist is the noblest of devotions because it has God as its object. It is the most profitable for salvation because it gives us the author of grace. It is the sweetest because the Lord is sweetness itself."
+
+Saint Thomas Aquinas likes to say that the "Blessed Eucharist is the most perfect of all the sacraments because all the sacraments transmit grace but the Blessed Eucharist, in the Blessed Eucharist, we receive the author of grace." It is on a different level.
+
+Only God can work the transformation of the transubstantiation, whereby the substance of the bread and wine is changed into the substance of the body and blood of Our Lord Jesus Christ. He does this according to His ways, which Saint Paul says, **those who count for nothing, to reduce to nothing those who are something.**
+
+It\'s all due to him, to his divine and infinite power. And with that power He allows an almighty force of attraction to radiate from every tabernacle, reaching souls through the ministry of the priest.
+
+Each priest is like a minister of the Tabernacle. Saint Paul refers to priests in his letters to the Corinthians as the **dispensers of the mysteries of God.**
+
+And the Eucharistic Jesus, present in the sacred host, is a true Emmanuel, a true God with us. We could ask Our Lord in this octave of the feast of the body and blood of Our Lord Jesus Christ, of Corpus Christi, to help us to penetrate a little deeper into this great Eucharistic mystery.
+
+Pope Pius XII said, "The faith of the Church is this, that one and identical is the Word of God and the Son of Mary who suffered on the cross, who is present in the Eucharist and who rules in heaven."
+
+The Eucharistic Jesus is here with us, as a brother, as a friend, and as a spouse of our souls. He wishes to enter within us, to be our food for eternal life. **He who eats my body and drinks my blood, I will live in him and I will raise him on the last day.**
+
+Our Lord wants to make us part of his mystical body, in which He would redeem us and save us and then take us into the kingdom of heaven, the eternal wedding feast, to settle us in an everlasting bliss of love.
+
+With the Blessed Eucharist, God has truly given us everything. St. Augustine exclaimed, "Although God is all-powerful, He is unable to give more. Though supremely wise, He knows not how to give more. Though vastly rich, He has not more to give."
+
+St. Peter Julian Emeyard, a great saint of the Blessed Sacrament, and founder of the Blessed Sacrament Fathers, said that "You will find all the help and comfort and graces you need in the Eucharist. You\'ll find the warm words you want to hear. The knowledge and the miracles you need. Yes, even the miracles."
+
+To the Blessed Eucharist then we should go. We should turn to Jesus, who wishes to make himself ours to make us His by rendering us godlike.
+
+Jesus is the food of strong souls. I know a saint used to pray, strengthen me, purify me, and make me godlike.
+
+We could ask Our Lord that we might receive the Blessed Sacrament with a pure and ardent heart because that\'s how the saints received Our Lord. It should never be too much trouble for us to grow familiar with this unspeakable mystery, meditating on the words that the saints have left us, or that the Church teaches us. Meditation, study, and reflection on the Eucharist should have an important place in our spiritual life.
+
+St. Matthew says "The Eucharist is the heavenly leaven, which is capable of fermenting in the human nature of every person all spiritual and temporal goods."
+
+If we realize the great treasures that are hidden in the Eucharist, that are available for us, we\'ll make it a priority to receive the Blessed Sacrament as often as we can.
+
+Some saints have said it\'s so great a good itself that one cannot desire anything else greater. What could one desire when within oneself one has Jesus, living and real, the God-made man, the Word-made-flesh, and blood, for our salvation and happiness?
+
+One of the words that occurs quite frequently in the Gospel is the word treasure. Our Christian vocation should lead us to have a sense of treasure.
+
+We\'re told about the man who discovered a treasure in a field and he went off and sold all that he had and bought that field. We\'re told about the pearl of great price that was worth everything. I can ask Our Lord for the grace to discover the treasures that are in the Blessed Sacrament, the treasures of love so that all the other material treasures that this world might have to offer us might seem very small in comparison.
+
+On his deathbed, St. Peter Julian Emeyard was asked by one of his religious sons for some final words for reflection. He said, "I have nothing more to tell you. You already have the Eucharist. What more do you want?"
+
+The Church, in trying to foster our Eucharistic piety, has always encouraged us to take very good care of the Blessed Sacrament. The last encyclical of St. John Paul II was all about the care in every church that should be taken for the Real Presence of Our Lord, the sanctuary lamp, the liturgical items that are used, the flowers on the altar, how to do different things, how to take care of that Eucharistic piety, so that every child in the parish learns those lessons they enter through the eyes.
+
+St. Peter Julian says, "When a spark of the Eucharist is placed in a soul, a divine germ of life and all the virtues is cast into that heart. That germ is sufficient of itself to do much."
+
+One of the great aspects of formation is we try to give young people from the earliest of ages, in preparing for First Communion and earlier, that sense of reverence for the Blessed Eucharist. We try to foster that that soul would become aware of the immense riches stored up in the mystery of the Eucharist, the treasures, so that that childlike soul might want those treasures, employing their mind and their heart their will.
+
+Every time a child enters a chapel or a church, it learns to genuflect, an act of recognition that our God is there in the Tabernacle. And little by little the child might come to know more things about that presence of Our Lord.
+
+If we knew the gifts of our God who is love, and who gives himself to us as a gift full of love, our lives might be very different. St. Bernard said, "The Eucharist is that love which surpasses all loves in heaven and on earth."
+
+St. Thomas Aquinas said, "The Eucharist is the sacrament of love. It signifies love, it produces love." It\'s the supreme proof of the love of Jesus.
+
+One day an Arabian prince was passing through a street of Marseilles in the south of France with a French official and they saw a priest who was carrying the Blessed Sacrament to a dying man. The French official stopped, uncovered his head, and knelt. And his friend asked him the reason for that gesture. The good official said, "I adore my God whom the priest is carrying to a sick person."
+
+"How is it possible," the prince said, "for you to believe that God who is so great makes himself so little and lets himself go even to the homes of the poor? We, followers of Islam, have a much higher idea of God." The official answered, "It\'s because you have only an idea of the greatness of God, but you do not know His love."
+
+One saint says, "The Eucharist is the supreme proof of the love of Jesus." After this, there\'s nothing more but heaven itself. Our Lord wants us to learn how to discover the vast extent of the love contained in the Eucharist and to explore the riches of the Eucharist we use the heart. St Paul says to the Corinthians **if any man loves not our Lord Jesus Christ, let him be anathema.**
+
+Love for the Eucharist has to spring from our hearts and be always alive in each one of us. The heart needs to be exercised to love the true God, and to long for the author of life, as the Acts of the Apostles refer to Him.
+
+All the saints have encouraged us to say to Our Lord, really, truly, and substantially present, Jesus I love you. Increase my love. Teach me how to love. Help me to make little acts of love each day so that I remind myself, don\'t let myself forget that you are present there.
+
+The loftiest point of that exercise of love is to receive Our Lord in Holy Communion. One saint said, "I can no longer avoid thinking of how in the wonderful greatness of His love, Jesus makes himself perceptible and shows Himself to his lowliest creature in all the splendors of His heart."
+
+When St Therese of Lisieux had become quite ill, she dragged herself with great effort to church to receive Jesus. And one morning, after Holy Communion, she was in her cell exhausted and one of the sisters remarked that she shouldn\'t exert herself so much. And she said, "Oh, what are these sufferings to me?"
+
+In comparison with one daily Holy Communion, she was in her cell exhausted. And one day, after the daily Holy Communion, it was something that daily communion was not permitted much in our times. She pleaded with our Lord, "Remain with me as you do in the Tabernacle. Do not ever withdraw your presence from your little host."
+
+There\'s a church document called M*ane nobiscum Domine* - Stay With Us Lord. It\'s the words of the disciples on the road to Emmaus when Our Lord was about to depart. Words that are relevant for those moments after Mass when we have Our Lord present in our souls.
+
+St Margaret Mary liked to say "All for the Eucharist, nothing for me." She had a burning love for the Blessed Sacrament and when she wasn\'t able to receive Holy Communion, she broke out in ardent expressions of love. "I have such a desire," she said, "for Holy Communion, that if I had to walk barefoot along a path of fire to obtain it, I would do so with unspeakable joy."
+
+St Catherine of Siena said to her confessor one day, "Father, I am hungry. For the love of God, give this soul her food, her Lord in the Eucharist."
+
+She also confided, "When I\'m not able to receive my Lord. I go into the church and there I look at him. I look at him again. And this satisfies me."
+
+During her long and painful illness, St Bernadette of Lourdes expressed the happiness that she felt in times of sleeplessness because she was then able to unite herself with Jesus in the Blessed Sacrament.
+
+This was a true exercise of the heart and we can also exercise our will by bringing the divine lessons of the Eucharist into our life.
+
+We receive the Blessed Sacrament, the infinite worth that is there. It's a wonderful thing to ponder it and to seek to love our Lord at Communion time but we also have to proceed to live it, to live out our priestly soul, part of the common or universal priesthood of the faithful that the Second Vatican Council speaks about.
+
+Because the Blessed Sacrament teaches us a love that goes beyond telling. It speaks to us of total self-sacrifice. There\'s an unequaled lesson in humility and self-effacement. Immensely relevant for our lives in the middle of the world, in marriage, in the family, in the workplace, on the sports field. In social relations.
+
+The Eucharist teaches us patience and unrestricted dedication. Our Lord doesn\'t give up on us, doesn\'t get fed up, doesn\'t go away. He\'s always there for us. We have to see how Our Lord loved us and still loves us with great generosity even to the end.
+
+**Having loved his own who were in the world, he loved them to the end.** The whole story of the Last Supper in St John starts with these beautiful words of love.
+
+When we feel weak and frail, we turn to him to speak to Him, and not just to ask for His help and support because we already know when He told us, **without Him you can do nothing.** And with the Eucharist, we\'re capable of everything.
+
+But He also wants to obtain what would amaze and move us, our identification with Him. St Augustine says "It\'s not a case of us transforming Christ into ourselves, as we commonly do with food but Our Lord transforms us into Himself."
+
+And as our Lord is there all the time in the Blessed Sacrament, it\'s logical that we would have a desire to visit Him.
+
+Our Lord said, **Come to me, all you who labor and are heavy burdened, and I will give you rest.**
+
+All the saints have recommended frequent visits to the Blessed Sacrament, at least daily. It\'s something to try and achieve apart from the reception of our Lord in the Mass.
+
+In all of the times that Our Lady has appeared in the last 200 years, she\'s always mentioned how much joy her Son gets from the little visits that people make to Him in the Tabernacle.
+
+We can make it our business to try and pass by a church in the ordinary moments of the day, on our way to do some shopping, on our way to work, on our way home, or in other odd moments. And also finding reasons when we\'re going with the family by car someplace, to also pass by a church. To make that visit a part of our journey on that particular day and in the whole of our life. And that way we foster the Eucharistic piety of children.
+
+The saints were constantly eager to make visits to Our Lord in the Blessed Sacrament. Also at times to make holy hours of adoration.
+
+In some churches, they have perpetual adoration where Our Lord is exposed 24-7 in the monstrance. It\'s a very good thing if children grow to be aware of these realities. Or when we can\'t go physically, or to make spiritual communions. Our little aspirations are earnest acts of love that come from the heart.
+
+We gain an awful lot by that practice - we gain much profit.
+
+St John Chrysostom says, "How can we make our bodies a host?" He said, "Let your eyes look at nothing evil, and you\'ve offered a sacrifice. Let not your tongue speak unbecoming words, and you have an offering. Let not your hand sin, and you\'ve offered a holocaust."
+
+We could think of the edifying reserve of the saints in speaking; how they controlled their tongue well which had, in a certain sense, been consecrated by contact with the body of Jesus.
+
+We look back on church history, we can see all the good that souls who have been filled with the love imparted by the Eucharist have accomplished because Jesus communicated to them His sentiments of love for all our fellow men, especially those most in need.
+
+The power of a father of a family, of a mother of a family, who tries to live out this presence of Christ in their soul and their heart each day, as they go about their daily chores.
+
+We can think of all the great good that the supernatural families of the Church have accomplished in education and health care which can\'t just have been accomplished with degrees or with the construction of schools or with money, but rather with the Christ-like spirit that they had in their heart.
+
+St Francis de Sales encourages every soul to approach the Eucharist as much as possible because, by adoring and partaking of His beauty, His goodness, and His purity in this divine sacrament, he says "You will become all beautiful, good, and pure."
+
+Saint Josemaria says "Your communions were very cold, you paid little attention to the Lord, you were distracted by the smallest trifle. But ever since you began to realize during an intimate dialogue with God that the angels are present, your attitude has changed. You say to yourself, 'Let them not see me like this' and see how as a result of thinking, 'What will they say?" this time for a good motive, you\'ve advanced a little towards love."
+
+It can be useful to think of the presence of the angels that surround the Tabernacle, or that are present in the Mass, or of our guardian angel as he leads us to receive the Blessed Sacrament, or of how he and other angels are present around us in those moments of thanksgiving when Christ is sacramentally present in our body.
+
+In The Furrow, number 684, Saint Josemaria says, "This is my body ..." and the immolation of Jesus took place, hidden unto the appearance of the bread. He is now there with His flesh, with His blood, with His soul, and with His divinity. He is the same as on that day when Thomas placed his fingers in his glorious wounds. And yet on so many occasions, you saunter by, giving not even a hint of greeting, out of simple good manners that you would give to any person you knew when you met him. - You have much less faith than Thomas."
+
+In another place in The Furrow 685, he says, "If to gain for you your liberty, a close friend of yours had gone to prison, would you not try to visit him, to talk to him for a while, to take him some present, console him, and show him the warmth of your friendship....? And if that conversation with the prisoner were to save you from some evil and do you good, would you go without it? And if instead of a friend it was to be your father or your brother, what then?"
+
+From the contemplation of these ideas, we can learn to have a greater reverence for Our Lord and the Blessed Sacrament. And use the graces these days to grow in our Eucharistic piety, and to savour this feast of the Body and Blood of Our Lord Jesus Christ that the Church has given us.
+
+The Eucharist was instituted on Holy Thursday, but Holy Thursday is overshadowed by the other events of Holy Week. The Church wanted to institute another feast day, and an octave, whereby we could focus more specifically on that real presence of Our Lord, and come to love Him a little more, as He so deserves.
+
+John Paul II liked to talk a lot about Our Lady as the Woman of the Eucharist. He liked to think, and he refers to this in his encyclical, The Church of the Eucharist, of how Our Lady would have received Holy Communion from the hands of St John after the death of Our Lord. How fervent those Communions would have been. It would have been like a repeat of the Annunciation when Mary received the Body of Christ into her body.
+
+We could ask Our Lady to accompany us, to teach us to have more Eucharistic piety, that it can be reflected in all sorts of little details so that we learn very much from all the great things the saints have taught us.
+
+I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, St Joseph, my father and lord, my Guardian Angel, intercede for me.
+
+In the name of the Father, and of the Son, and the Holy Spirit. Amen.\
+*\
+GD*

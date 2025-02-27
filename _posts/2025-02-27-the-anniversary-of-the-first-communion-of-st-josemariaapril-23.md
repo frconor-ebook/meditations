@@ -7,524 +7,244 @@ By Fr. Conor Donnelly
 
 (*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*My Lord and my God, I firmly believe that you are here, that you see
-me, that you hear me. I adore you with profound reverence. I ask your
-pardon for my sins and grace to make this time of prayer fruitful. My
-Immaculate Mother, Saint Joseph, my father and lord, my guardian angel,
-intercede for me.*
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-We read in the Gospel, "The Jews quarreled among themselves, saying,
-'How can this man give us his flesh to eat?' Jesus said to them, 'Amen,
-Amen, I say to you, unless you eat the flesh of the Son of Man and drink
-his blood, you shall not have life in you' (John 6:52-53)**.**
+We read in the Gospel, "The Jews quarreled among themselves, saying, 'How can this man give us his flesh to eat?' Jesus said to them, 'Amen, Amen, I say to you, unless you eat the flesh of the Son of Man and drink his blood, you shall not have life in you' (John 6:52-53)**.**
 
-Our Lord speaks very clearly and very eloquently about the great mystery
-of the Blessed Eucharist, and also in relation to food, to the true food
-that comes down from heaven.
+Our Lord speaks very clearly and very eloquently about the great mystery of the Blessed Eucharist, and also in relation to food, to the true food that comes down from heaven.
 
-Today is the anniversary of the First Holy Communion of our Father, a
-special Eucharistic day, a day for us to focus a little more on this
-great mystery.
+Today is the anniversary of the First Holy Communion of our Father, a special Eucharistic day, a day for us to focus a little more on this great mystery.
 
-Our Lord tells us that unless we eat His flesh, we shall not have life
-in us. So something flows from the heart of Christ into our heart and
-gives rise to new life as interior life, that spiritual life which is
-going to be so very important for the whole of our life here on earth,
-and also for eternity.
+Our Lord tells us that unless we eat His flesh, we shall not have life in us. So something flows from the heart of Christ into our heart and gives rise to new life as interior life, that spiritual life which is going to be so very important for the whole of our life here on earth, and also for eternity.
 
-"Whoever eats my flesh and drinks my blood has eternal life, and I will
-raise him up on the last day" (John 6:54).
+"Whoever eats my flesh and drinks my blood has eternal life, and I will raise him up on the last day" (John 6:54).
 
-Our Lord gives us this promise of eternal life. Every time we receive
-Our Lord in the Blessed Eucharist, we get this promise: "For my flesh is
-true food, my blood is true drink" (John 6:55).
+Our Lord gives us this promise of eternal life. Every time we receive Our Lord in the Blessed Eucharist, we get this promise: "For my flesh is true food, my blood is true drink" (John 6:55).
 
-Our Lord emphasizes the nourishing value of that spiritual food that we
-get on a daily basis.
+Our Lord emphasizes the nourishing value of that spiritual food that we get on a daily basis.
 
-We could thank Our Lord for our Eucharistic formation, for our
-Eucharistic piety, for the fact that we have the Blessed Eucharist so
-close to us, our tabernacles, so many things that help us to focus on
-the real presence of Our Lord.
+We could thank Our Lord for our Eucharistic formation, for our Eucharistic piety, for the fact that we have the Blessed Eucharist so close to us, our tabernacles, so many things that help us to focus on the real presence of Our Lord.
 
-Ask Him that every time that we receive Him in Holy Communion, it might
-be a very special day in our life, because we receive the true food.
-"Whoever eats my flesh and drinks my blood remains in me and I in him"
-(John 6:56).
+Ask Him that every time that we receive Him in Holy Communion, it might be a very special day in our life, because we receive the true food. "Whoever eats my flesh and drinks my blood remains in me and I in him" (John 6:56).
 
-Our Lord is with us always, every day, every hour; never leaves us
-alone. He encourages us to "labor for the food, not for the food that
-perishes, but for the food that lasts until life everlasting" (John
-6:27).
+Our Lord is with us always, every day, every hour; never leaves us alone. He encourages us to "labor for the food, not for the food that perishes, but for the food that lasts until life everlasting" (John 6:27).
 
-Thank you, Lord, that I know this food. Help me to yearn, to hunger for
-it even more, to prepare well for it, to remember all the things that I
-learned as a child in Eucharistic piety.
+Thank you, Lord, that I know this food. Help me to yearn, to hunger for it even more, to prepare well for it, to remember all the things that I learned as a child in Eucharistic piety.
 
-"Just as the Living Father sent me and I have life because of the
-Father, so also the one who feeds on me will have life because of me.
-This is the bread that came down from heaven. Unlike your ancestors who
-ate and still died, whoever eats this bread will live forever" (John
-6:57-58).
+"Just as the Living Father sent me and I have life because of the Father, so also the one who feeds on me will have life because of me. This is the bread that came down from heaven. Unlike your ancestors who ate and still died, whoever eats this bread will live forever" (John 6:57-58).
 
-The anniversary of our Father\'s First Holy Communion is an important
-day for us because so many things came from that First Holy Communion:
-all the Eucharistic formation that we receive in the Work, all the faith
-that\'s there.
+The anniversary of our Father\'s First Holy Communion is an important day for us because so many things came from that First Holy Communion: all the Eucharistic formation that we receive in the Work, all the faith that\'s there.
 
-God used that First Communion in a special way to enter into the heart
-and life and soul of our Father.
+God used that First Communion in a special way to enter into the heart and life and soul of our Father.
 
-The Grandmother must have prepared him for it in a very special way. Her
-own piety must have had a lot of impact on his piety and also those of
-the Grandfather.
+The Grandmother must have prepared him for it in a very special way. Her own piety must have had a lot of impact on his piety and also those of the Grandfather.
 
-During his life, he was to teach many people so many things about the
-Blessed Eucharist: how to genuflect, how to take care of Our Lord in the
-Blessed Sacrament, in our tabernacles, in our oratories, in our
-sacristies. This has become a catechesis for the whole of the universal
-Church, which it is at the moment.
+During his life, he was to teach many people so many things about the Blessed Eucharist: how to genuflect, how to take care of Our Lord in the Blessed Sacrament, in our tabernacles, in our oratories, in our sacristies. This has become a catechesis for the whole of the universal Church, which it is at the moment.
 
-God must have had special desires for this particular First Communion.
-It was to bring forth special fruits.
+God must have had special desires for this particular First Communion. It was to bring forth special fruits.
 
-One of the elderly priests in Rome who taught us in Cavabianca used to
-mention how he often thought of the old *Escolapio* brother, the Piarist
-brother, in that school that our Father went to, who possibly had been
-teaching there for fifty years.
+One of the elderly priests in Rome who taught us in Cavabianca used to mention how he often thought of the old *Escolapio* brother, the Piarist brother, in that school that our Father went to, who possibly had been teaching there for fifty years.
 
-Every year, fifty little kids would pass through his hands and he would
-prepare them for First Communion, and he would teach them the Spiritual
-Communion that we know.
+Every year, fifty little kids would pass through his hands and he would prepare them for First Communion, and he would teach them the Spiritual Communion that we know.
 
-One day, one year, in all of those years, one of those little kids is
-going to be a future saint. He writes that Spiritual Communion on the
-blackboard and this little kid learns it, makes it his own, but then
-transmits it to the millions and millions of people who will come in
-contact with centers of Opus Dei all over the world.
+One day, one year, in all of those years, one of those little kids is going to be a future saint. He writes that Spiritual Communion on the blackboard and this little kid learns it, makes it his own, but then transmits it to the millions and millions of people who will come in contact with centers of Opus Dei all over the world.
 
-That one piece of work of that one professional person, that one class
-hidden away among millions of others. It highlights the divine value of
-the ordinary things we do, of our ordinary professional work, and how
-God can take us and use us to produce great fruits all over the planet.
+That one piece of work of that one professional person, that one class hidden away among millions of others. It highlights the divine value of the ordinary things we do, of our ordinary professional work, and how God can take us and use us to produce great fruits all over the planet.
 
-Our Father was part of that. He taught us to love Our Lord and to show
-our love for Him in the Blessed Sacrament with deeds: to take care with
-the way that we place the tabernacle veil, or if something is uneven, or
-the altar linen, or to watch out for the sanctuary lamp, or to place the
-flowers in a beautiful way.
+Our Father was part of that. He taught us to love Our Lord and to show our love for Him in the Blessed Sacrament with deeds: to take care with the way that we place the tabernacle veil, or if something is uneven, or the altar linen, or to watch out for the sanctuary lamp, or to place the flowers in a beautiful way.
 
-All these things were to reflect the love of our hearts and the care, so
-that we care and put love like people put love into little things.
+All these things were to reflect the love of our hearts and the care, so that we care and put love like people put love into little things.
 
-Each meeting of our Father\'s soul with God brought great fruit. Hence,
-we have this particular feast day to highlight this particular moment.
+Each meeting of our Father\'s soul with God brought great fruit. Hence, we have this particular feast day to highlight this particular moment.
 
-It also carries a message for all Christian parents. Take special care
-of that First Communion Day and the preparation. Often the greatest
-spiritual formation of the child can take place in the early years. The
-prayers he learns for his First Communion may be the prayers he will say
-on his deathbed.
+It also carries a message for all Christian parents. Take special care of that First Communion Day and the preparation. Often the greatest spiritual formation of the child can take place in the early years. The prayers he learns for his First Communion may be the prayers he will say on his deathbed.
 
-Our Father has had a great role to play in the Church liturgical reform:
-the care of the sacred vessels, the taste and decor of our oratories, of
-the vestments, work of the Catering.
+Our Father has had a great role to play in the Church liturgical reform: the care of the sacred vessels, the taste and decor of our oratories, of the vestments, work of the Catering.
 
-John Paul II has something like four encyclicals in relation to the
-Blessed Eucharist. *The Church of the Eucharist,* the *Sacrament of the
-Redemption* (Instruction), *Stay With Us, Lord* (Apostolic Letter), and
-the *Sacrament of Charity---*the latter one was Pope Benedict, I think.
+John Paul II has something like four encyclicals in relation to the Blessed Eucharist. *The Church of the Eucharist,* the *Sacrament of the Redemption* (Instruction), *Stay With Us, Lord* (Apostolic Letter), and the *Sacrament of Charity---*the latter one was Pope Benedict, I think.
 
-Our Father used to say, "With one tabernacle I could convert the world."
-Very powerful words: "with one tabernacle"---the value and the
-importance and the treasure of Our Lord in the Blessed Eucharist. Our
-Father transmitted that spirit to all of us.
+Our Father used to say, "With one tabernacle I could convert the world." Very powerful words: "with one tabernacle"---the value and the importance and the treasure of Our Lord in the Blessed Eucharist. Our Father transmitted that spirit to all of us.
 
-One time Don Javier was visiting Lithuania in the very early days. He
-was rather moved by the poverty of their beginnings. They had so little;
-they needed so much. He expressed this on a certain occasion.
+One time Don Javier was visiting Lithuania in the very early days. He was rather moved by the poverty of their beginnings. They had so little; they needed so much. He expressed this on a certain occasion.
 
-Somebody said to him, "But Father, I\'m sure in a country like India,
-they must be in a much more difficult situation than we are."
+Somebody said to him, "But Father, I\'m sure in a country like India, they must be in a much more difficult situation than we are."
 
 Don Javier said, "No, because they have the Blessed Eucharist."
 
-The Blessed Eucharist is the source of our treasure---the magnet of the
-whole of our centers, the most important room is in the center of the
-oratory. Our Father liked to give big pieces of news besides the
-tabernacle.
+The Blessed Eucharist is the source of our treasure---the magnet of the whole of our centers, the most important room is in the center of the oratory. Our Father liked to give big pieces of news besides the tabernacle.
 
-In nights of prayer, in adoration, in atonement, he had a great
-sensitivity for the things of Our Lord; a great refinement in relation
-to Our Lord in the Blessed Eucharist.
+In nights of prayer, in adoration, in atonement, he had a great sensitivity for the things of Our Lord; a great refinement in relation to Our Lord in the Blessed Eucharist.
 
-We can ask Our Lord for that same refinement, so that we also might have
-a great spirit of atonement.
+We can ask Our Lord for that same refinement, so that we also might have a great spirit of atonement.
 
-When we hear things or see things that perhaps are not as they might be,
-we want to say sorry to Our Lord or to make up with our fervor, with our
-piety.
+When we hear things or see things that perhaps are not as they might be, we want to say sorry to Our Lord or to make up with our fervor, with our piety.
 
-Piety is the remedies of remedies, to show Our Lord with our hearts like
-those of Mary of Bethany or Mary Magdalene or some of these other great
-women, who somehow made up to Our Lord for so much, because they truly
-loved.
+Piety is the remedies of remedies, to show Our Lord with our hearts like those of Mary of Bethany or Mary Magdalene or some of these other great women, who somehow made up to Our Lord for so much, because they truly loved.
 
-Our Father once went to Hampton Court and palaces in London. He was
-being shown around this great palace. He was brought into a room and
-told, "Henry VIII is buried here." He ran out of the place. He didn\'t
-want to be there for any period of time. A cold shiver ran down his
-spine.
+Our Father once went to Hampton Court and palaces in London. He was being shown around this great palace. He was brought into a room and told, "Henry VIII is buried here." He ran out of the place. He didn\'t want to be there for any period of time. A cold shiver ran down his spine.
 
-He judged history with a great Christian sense. He said, "If it hadn\'t
-been for this man, the world might be Catholic today."
+He judged history with a great Christian sense. He said, "If it hadn\'t been for this man, the world might be Catholic today."
 
-Then he said to the people who were with him, *Tengo que estar con
-Jesus.* "I need to be with Jesus."
+Then he said to the people who were with him, *Tengo que estar con Jesus.* "I need to be with Jesus."
 
-There may be times in our life when we also need to be with Jesus. We
-hear things or we see things that make a cold shiver run down our spine,
-and we need to draw to the source of our peace and consolation: the
-sacrament of love.
+There may be times in our life when we also need to be with Jesus. We hear things or we see things that make a cold shiver run down our spine, and we need to draw to the source of our peace and consolation: the sacrament of love.
 
-We\'re told in *The Way*, "Consider what is most beautiful and most
-noble on earth, what pleases the mind and the other faculties, and what
-delights the flesh and the senses. And the world and the other worlds
-that shine in the night: the whole universe. Well this, along with all
-the follies of the heart satisfied, is worth nothing, is nothing, and is
-less than nothing compared\...with this God of mine!---of yours!
+We\'re told in *The Way*, "Consider what is most beautiful and most noble on earth, what pleases the mind and the other faculties, and what delights the flesh and the senses. And the world and the other worlds that shine in the night: the whole universe. Well this, along with all the follies of the heart satisfied, is worth nothing, is nothing, and is less than nothing compared\...with this God of mine!---of yours!
 
-"Infinite treasure, pearl of great price, humbled, become a slave.
-reduced to the form of a servant in the stable where he chose to be
-born, in Joseph\'s workshop, in his passion and in his ignominious
-death\...and in the madness of Love which is the blessed Eucharist"
-(Josemaría Escrivá, *The Way*, Point 432).
+"Infinite treasure, pearl of great price, humbled, become a slave. reduced to the form of a servant in the stable where he chose to be born, in Joseph\'s workshop, in his passion and in his ignominious death\...and in the madness of Love which is the blessed Eucharist" (Josemaría Escrivá, *The Way*, Point 432).
 
-Our Father formed us, taught us, led us along this pathway of refined
-Eucharistic piety, so that every detail is important.
+Our Father formed us, taught us, led us along this pathway of refined Eucharistic piety, so that every detail is important.
 
-A number of decades ago, the vigil on Holy Thursday used to last until
-Good Friday. It was an all-night vigil.
+A number of decades ago, the vigil on Holy Thursday used to last until Good Friday. It was an all-night vigil.
 
-One Good Friday morning, our Father came down to the oratory where the
-Blessed Sacrament was exposed, where there had been the vigil all night.
+One Good Friday morning, our Father came down to the oratory where the Blessed Sacrament was exposed, where there had been the vigil all night.
 
-He found that the candles had burnt down and there was a mountain of wax
-on either side of the candles. He found that the flowers that had been
-placed there the previous night had now withered and they had sort of
-fallen forward.
+He found that the candles had burnt down and there was a mountain of wax on either side of the candles. He found that the flowers that had been placed there the previous night had now withered and they had sort of fallen forward.
 
-Everything looked a little bit dead. Our Father took one look, and then
-he left the oratory, and he began to shout. He shouted for the person in
-charge, for the Rector.
+Everything looked a little bit dead. Our Father took one look, and then he left the oratory, and he began to shout. He shouted for the person in charge, for the Rector.
 
-When our Father shouted, the whole house could hear him. He talked about
-how this cannot be. The Rector of the college came. "This cannot be,
-this is not the way we have to treat Our Lord. We have to be much more
-careful with all sorts of the details."
+When our Father shouted, the whole house could hear him. He talked about how this cannot be. The Rector of the college came. "This cannot be, this is not the way we have to treat Our Lord. We have to be much more careful with all sorts of the details."
 
-Our Father wanted our love and piety and faith expressed in those small
-things.
+Our Father wanted our love and piety and faith expressed in those small things.
 
-We have this spirit that we have to try and take very good care of, and
-pass on to so many other people: a spirit of faith and of love that is
-manifested in deeds, in the smallest things, in the care for the
-liturgy, because all these things are details of love.
+We have this spirit that we have to try and take very good care of, and pass on to so many other people: a spirit of faith and of love that is manifested in deeds, in the smallest things, in the care for the liturgy, because all these things are details of love.
 
-"Have you ever thought," we're told in *The Forge*, "how you would
-prepare yourself to receive Our Lord if you could go to Communion only
-once in your life? We must be thankful to God that he makes it so easy
-for us to come to him, but we should show our gratitude by preparing
-ourselves to receive him very well" (J. Escrivá, *The Forge*, Point
-828).
+"Have you ever thought," we're told in *The Forge*, "how you would prepare yourself to receive Our Lord if you could go to Communion only once in your life? We must be thankful to God that he makes it so easy for us to come to him, but we should show our gratitude by preparing ourselves to receive him very well" (J. Escrivá, *The Forge*, Point 828).
 
-Our Lord wants us to make good use of our prayer time. We know that we
-pray best in front of Our Lord in the Blessed Sacrament, although we can
-do our prayer anywhere. Sometimes we may need to.
+Our Lord wants us to make good use of our prayer time. We know that we pray best in front of Our Lord in the Blessed Sacrament, although we can do our prayer anywhere. Sometimes we may need to.
 
-But always, we should gravitate back towards that real presence of Our
-Lord, because we know that\'s the best place. He\'s waiting for us.
+But always, we should gravitate back towards that real presence of Our Lord, because we know that\'s the best place. He\'s waiting for us.
 
-We can try and be very alert and very awake, noticing all sorts of
-little things. Somebody who loves will notice the things that could be
-better; they\'re not quite right. They\'re not oblivious to these things
-because they live in the details.
+We can try and be very alert and very awake, noticing all sorts of little things. Somebody who loves will notice the things that could be better; they\'re not quite right. They\'re not oblivious to these things because they live in the details.
 
-Pope Benedict in *Sacramentum Caritatis* said, "In the sacrament of the
-altar, the Lord meets us, men and women created in God\'s image and
-likeness (cf. Gen. 1:27), and becomes our companion along the way."
+Pope Benedict in *Sacramentum Caritatis* said, "In the sacrament of the altar, the Lord meets us, men and women created in God\'s image and likeness (cf. Gen. 1:27), and becomes our companion along the way."
 
-"I will be with you always, even until the end of the age" (Matt.
-28:20).
+"I will be with you always, even until the end of the age" (Matt. 28:20).
 
-Lord, help me to be very focused on you, to greet you when I come in and
-out of the center, and to let my heart run to you in the tabernacle to
-connect with you, so that all these things are not just mechanical or
-automatic, that they mean something in my life. I make a real act of
-faith and of love when I make my genuflection.
+Lord, help me to be very focused on you, to greet you when I come in and out of the center, and to let my heart run to you in the tabernacle to connect with you, so that all these things are not just mechanical or automatic, that they mean something in my life. I make a real act of faith and of love when I make my genuflection.
 
-Pope Benedict continues, "Especially in the liturgy of the Eucharist, we
-are given a real foretaste of the eschatological fulfillment for which
-every human being and all creation are destined (cf. Rom 8:19)" (Pope
-Benedict XVI, *Sacramentum Caritatis*, February 22, 2007).
+Pope Benedict continues, "Especially in the liturgy of the Eucharist, we are given a real foretaste of the eschatological fulfillment for which every human being and all creation are destined (cf. Rom 8:19)" (Pope Benedict XVI, *Sacramentum Caritatis*, February 22, 2007).
 
 We are hungry for the bread of life. Hungry for the bread of the angels.
 
-There was an engineering student in Manila many years ago who was a
-Catholic, but didn\'t know his Catholic faith very well. He found that
-he was looking for something. He didn\'t know what it was he was looking
-for.
+There was an engineering student in Manila many years ago who was a Catholic, but didn\'t know his Catholic faith very well. He found that he was looking for something. He didn\'t know what it was he was looking for.
 
-So he became a Mormon. He spent two years being a Mormon. But then he
-found that whatever it was that he was looking for, it wasn\'t in the
-Mormon faith.
+So he became a Mormon. He spent two years being a Mormon. But then he found that whatever it was that he was looking for, it wasn\'t in the Mormon faith.
 
-So he became a Baptist. But whatever it was he was looking for, he
-didn\'t find it there either.
+So he became a Baptist. But whatever it was he was looking for, he didn\'t find it there either.
 
-But then one day, he was reading John, Chapter 6, and he came across the
-phrase that says, "I am the bread of life. Whoever comes to me shall not
-hunger. Whoever drinks of me shall never thirst" (John 6:35).
+But then one day, he was reading John, Chapter 6, and he came across the phrase that says, "I am the bread of life. Whoever comes to me shall not hunger. Whoever drinks of me shall never thirst" (John 6:35).
 
-He realized, That\'s what I\'m looking for. I\'m looking for something
-to satisfy my hunger and my thirst.
+He realized, That\'s what I\'m looking for. I\'m looking for something to satisfy my hunger and my thirst.
 
-He began to rediscover "the bread of life." He began to rediscover the
-mystery of the Blessed Eucharist in his own Catholic faith. This began
-to draw him back to Catholicism like a magnet. He reconverted back to
-Catholicism.
+He began to rediscover "the bread of life." He began to rediscover the mystery of the Blessed Eucharist in his own Catholic faith. This began to draw him back to Catholicism like a magnet. He reconverted back to Catholicism.
 
-After some time, he decided that he wanted to become a priest. He
-applied to enter the seminary, but when Cardinal Sin heard that he had
-been a Mormon and a Baptist, he wasn\'t too comfortable about allowing
-him into the seminary. So he had to go to a different seminary to study
-philosophy and theology.
+After some time, he decided that he wanted to become a priest. He applied to enter the seminary, but when Cardinal Sin heard that he had been a Mormon and a Baptist, he wasn\'t too comfortable about allowing him into the seminary. So he had to go to a different seminary to study philosophy and theology.
 
-When it was clear that he was *bonafide*, he was ordained, and he was
-accepted into the Archdiocese.
+When it was clear that he was *bonafide*, he was ordained, and he was accepted into the Archdiocese.
 
-His first assignment was in the chaplaincy of the university where he
-had studied engineering. Every day in the Mass he would hold up the
-Sacred Host.
+His first assignment was in the chaplaincy of the university where he had studied engineering. Every day in the Mass he would hold up the Sacred Host.
 
-He would say, "This is the Lamb of God, this is he who takes away the
-sins of the world." And he would add, "This is the bread of life. This
-is why I left the Mormon faith and this is why I left the Baptist
-faith."
+He would say, "This is the Lamb of God, this is he who takes away the sins of the world." And he would add, "This is the bread of life. This is why I left the Mormon faith and this is why I left the Baptist faith."
 
-But then there were many Mormons and Baptists in that university and
-they didn\'t like him saying these things, so they complained. He had to
-be moved to a different parish, where he is to this day.
+But then there were many Mormons and Baptists in that university and they didn\'t like him saying these things, so they complained. He had to be moved to a different parish, where he is to this day.
 
 Conversion through the bread of life.
 
-Pope Benedict says, "Man is created for that true and eternal happiness
-which only God\'s love can give. But our wounded freedom would go astray
-were it not already able to experience something of that future
-fulfillment."
+Pope Benedict says, "Man is created for that true and eternal happiness which only God\'s love can give. But our wounded freedom would go astray were it not already able to experience something of that future fulfillment."
 
-That pledge of eternal life helps us to look to eternity, to see and to
-judge all the world\'s events with that echo of eternity. We\'re not
-just here existing for this moment.
+That pledge of eternal life helps us to look to eternity, to see and to judge all the world\'s events with that echo of eternity. We\'re not just here existing for this moment.
 
-There\'s something great to which we are called: the eternal wedding
-feast. Pope John Paul likes to talk a lot about the eternal wedding
-feast. Everything is geared towards that.
+There\'s something great to which we are called: the eternal wedding feast. Pope John Paul likes to talk a lot about the eternal wedding feast. Everything is geared towards that.
 
-"Moreover," Pope Benedict says, "to go forward in the right direction,
-we all need to be guided toward our final goal. That goal is Christ
-himself, the Lord who conquered sin and death, and who makes himself
-present to us in a special way in the Eucharistic celebration. Even
-though we remain 'aliens and exiles' in this world (1 Pet. 2:11, through
-faith, we already share in the fullness of the risen life."
+"Moreover," Pope Benedict says, "to go forward in the right direction, we all need to be guided toward our final goal. That goal is Christ himself, the Lord who conquered sin and death, and who makes himself present to us in a special way in the Eucharistic celebration. Even though we remain 'aliens and exiles' in this world (1 Pet. 2:11, through faith, we already share in the fullness of the risen life."
 
 We are called to participate "in the fullness of the risen life."
 
-These days, Our Lord is reappearing to the apostles, helping them to
-understand all the things that He has spoken to them about: the
-Eucharistic bread that He has made at the Last Supper.
+These days, Our Lord is reappearing to the apostles, helping them to understand all the things that He has spoken to them about: the Eucharistic bread that He has made at the Last Supper.
 
-They\'re beginning to learn to celebrate Mass, and beginning to learn to
-be real apostles waiting for the Holy Spirit and His fire. Little by
-little He\'s building them up.
+They\'re beginning to learn to celebrate Mass, and beginning to learn to be real apostles waiting for the Holy Spirit and His fire. Little by little He\'s building them up.
 
-Don Javier, in one of his letters, said, "Jesus is the invisible but
-real Companion who is always at our side and who awaits us in the
-Tabernacle, where he shows us how close he is to us" (Javier Echevarría,
-*Letter from the Prelate*, April 2007).
+Don Javier, in one of his letters, said, "Jesus is the invisible but real Companion who is always at our side and who awaits us in the Tabernacle, where he shows us how close he is to us" (Javier Echevarría, *Letter from the Prelate*, April 2007).
 
-Feast days like today can remind us that our Eucharistic fervor and
-piety has to be like that of our Father's. We should work at our
-Communions: our preparation for Mass, our Thanksgiving after Mass. These
-have to be very special moments.
+Feast days like today can remind us that our Eucharistic fervor and piety has to be like that of our Father's. We should work at our Communions: our preparation for Mass, our Thanksgiving after Mass. These have to be very special moments.
 
-From time to time, we need to gravitate back towards the prayers of St.
-Thomas Aquinas or St. Bonaventure, or the other prayers that we find in
-the Missal, that the Church has recommended perennially to all
-generations as one of the best means.
+From time to time, we need to gravitate back towards the prayers of St. Thomas Aquinas or St. Bonaventure, or the other prayers that we find in the Missal, that the Church has recommended perennially to all generations as one of the best means.
 
-Even if we just start to say one of those prayers, that may give rise to
-more personal prayers or considerations that can help our Thanksgiving
-after Mass to be on fire---truly on fire with that love of the Blessed
-Sacrament.
+Even if we just start to say one of those prayers, that may give rise to more personal prayers or considerations that can help our Thanksgiving after Mass to be on fire---truly on fire with that love of the Blessed Sacrament.
 
-"How our days would change," Don Javier says, "if we truly had at every
-moment the sureness, filled with faith, hope, and love that inspired St.
-Josemaria!" (*Ibid*.)
+"How our days would change," Don Javier says, "if we truly had at every moment the sureness, filled with faith, hope, and love that inspired St. Josemaria!" (*Ibid*.)
 
-Those are special moments to ask for an increase in those three
-supernatural virtues which we know we receive every time we receive the
-sacraments.
+Those are special moments to ask for an increase in those three supernatural virtues which we know we receive every time we receive the sacraments.
 
-We have a habitual intention to receive them. But we activate that
-intention. Make it more fervent, and then we receive more of those
-graces.
+We have a habitual intention to receive them. But we activate that intention. Make it more fervent, and then we receive more of those graces.
 
-"Let us go trustingly," he says, "to his intercession, so that he will
-spur us to be truly Eucharistic people. On the 23rd of April, the
-anniversary of St. Josemaría\'s first Holy Communion, we will have an
-excellent opportunity to do so. Let us tell Jesus each day, 'Lord, I
-love you,' and strive to show it with deeds."
+"Let us go trustingly," he says, "to his intercession, so that he will spur us to be truly Eucharistic people. On the 23rd of April, the anniversary of St. Josemaría\'s first Holy Communion, we will have an excellent opportunity to do so. Let us tell Jesus each day, 'Lord, I love you,' and strive to show it with deeds."
 
-We can never get used to the fact that Our Lord is with us. We yearn to
-adore, to accompany, to ask, to atone.
+We can never get used to the fact that Our Lord is with us. We yearn to adore, to accompany, to ask, to atone.
 
-Cardinal Van Thuận says, "A lamp can give no light if it has no oil. A
-car will not run on an empty fuel tank. The soul of the apostle will
-degenerate if it is not nourished with the Blessed Sacrament."
+Cardinal Van Thuận says, "A lamp can give no light if it has no oil. A car will not run on an empty fuel tank. The soul of the apostle will degenerate if it is not nourished with the Blessed Sacrament."
 
-That Eucharistic bread that gives life, the bread of life, the bread of
-angels, gives fire to everything we say.
+That Eucharistic bread that gives life, the bread of life, the bread of angels, gives fire to everything we say.
 
-In each apostolic conversation, in each Circle, in each class, it helps
-to spread that blaze.
+In each apostolic conversation, in each Circle, in each class, it helps to spread that blaze.
 
-"Just as the sun shines brightly, yielding its light on the earth,"
-we're told, "so too does the Eucharist shine as a light for the
-spiritual life of human beings, and the source of peace among nations.\"
+"Just as the sun shines brightly, yielding its light on the earth," we're told, "so too does the Eucharist shine as a light for the spiritual life of human beings, and the source of peace among nations.\"
 
-The bread of angels brings many things with it: peace, serenity,
-assurance of faith.
+The bread of angels brings many things with it: peace, serenity, assurance of faith.
 
-"If you lack everything," Cardinal Van Thuận says, "or find yourself
-bereft of all possessions, but still have the Eucharist, you should not
-be concerned. In fact, you still have everything, because you have the
-Lord of heaven here on earth with you" (Cardinal Francis-Xavier Nguyễn
-Văn Thuận, *Road of Hope*).
+"If you lack everything," Cardinal Van Thuận says, "or find yourself bereft of all possessions, but still have the Eucharist, you should not be concerned. In fact, you still have everything, because you have the Lord of heaven here on earth with you" (Cardinal Francis-Xavier Nguyễn Văn Thuận, *Road of Hope*).
 
-Some of the testimonies of priests in particular, but also others
-imprisoned in communist prisons and other places, of the ways and means
-that they went to try and celebrate the sacrifice of the altar, to
-receive the Blessed Eucharist, are very inspiring, very heroic.
+Some of the testimonies of priests in particular, but also others imprisoned in communist prisons and other places, of the ways and means that they went to try and celebrate the sacrifice of the altar, to receive the Blessed Eucharist, are very inspiring, very heroic.
 
-Cardinal Van Thuận, in solitary confinement for something like 15 years
-in Vietnam, sent a message out through confidence that he needed the
-medicine for his stomach.
+Cardinal Van Thuận, in solitary confinement for something like 15 years in Vietnam, sent a message out through confidence that he needed the medicine for his stomach.
 
-Some sort of bread arrived, he was able to say the Mass; he got a little
-bit of wine from someplace; and the chalice was the cup of his hand.
-People were full of all sorts of ingenuity.
+Some sort of bread arrived, he was able to say the Mass; he got a little bit of wine from someplace; and the chalice was the cup of his hand. People were full of all sorts of ingenuity.
 
-In a Croatian prison, I read recently, where hundreds of priests were
-killed, they used to make wine out of raisins. People went to all sorts
-of lengths.
+In a Croatian prison, I read recently, where hundreds of priests were killed, they used to make wine out of raisins. People went to all sorts of lengths.
 
-They hungered for the bread of life, which is what kept them going. And
-now we have this legacy forever of their Eucharistic piety, their love
-of Our Lord, which is worth everything. They lacked everything else, but
-they had Eucharistic bread.
+They hungered for the bread of life, which is what kept them going. And now we have this legacy forever of their Eucharistic piety, their love of Our Lord, which is worth everything. They lacked everything else, but they had Eucharistic bread.
 
-St. Josemaría said in 1965, "Jesus Christ will overlook your weaknesses,
-because of the affection you have put into taking care of his oratories.
-The Lord is there, helpless like a little child, a prisoner of love.
-Love is repaid with love. Always treat him well for me."
+St. Josemaría said in 1965, "Jesus Christ will overlook your weaknesses, because of the affection you have put into taking care of his oratories. The Lord is there, helpless like a little child, a prisoner of love. Love is repaid with love. Always treat him well for me."
 
-Everything related to the Blessed Eucharist is important: care of our
-sacristies, things in their place. Our Father has taught us to place
-love in all these things. He said, "Holy things must be treated in a
-holy way, and all the objects of worship are holy because they are
-dedicated to the service of God."
+Everything related to the Blessed Eucharist is important: care of our sacristies, things in their place. Our Father has taught us to place love in all these things. He said, "Holy things must be treated in a holy way, and all the objects of worship are holy because they are dedicated to the service of God."
 
-I had a rather interesting experience last year. There is a certain man
-in Ireland, nothing to do with the Work, but who has dedicated his
-retirement to going around to try and recover liturgical items that may
-not be used or discarded, in parishes that may be closing or religious
-houses that may be closing.
+I had a rather interesting experience last year. There is a certain man in Ireland, nothing to do with the Work, but who has dedicated his retirement to going around to try and recover liturgical items that may not be used or discarded, in parishes that may be closing or religious houses that may be closing.
 
-He has managed to put together quite a lot of items. About a year ago he
-sent me a monstrance, a big monstrance, almost the size of the table
-here, a little smaller.
+He has managed to put together quite a lot of items. About a year ago he sent me a monstrance, a big monstrance, almost the size of the table here, a little smaller.
 
-Somebody managed to bring it and managed to get it into the country, and
-I had sort of promised it to an outstation upcountry.
+Somebody managed to bring it and managed to get it into the country, and I had sort of promised it to an outstation upcountry.
 
-But then when we saw the monstrance we realized, "This is a bit too good
-for an outstation, it really needs to be in the parish." Some priests of
-the Work saw it and they thought it should stay with us. But I had
-promised it already to that particular parish there in Bungoma.
+But then when we saw the monstrance we realized, "This is a bit too good for an outstation, it really needs to be in the parish." Some priests of the Work saw it and they thought it should stay with us. But I had promised it already to that particular parish there in Bungoma.
 
-Before sending it there, we sent it to a place there in Nairobi to be
-cleaned up a little bit. In that place in the industrial area, a very
-experienced man took it apart, and he told me that he found on the
-inside an inscription of two initials of people who worked on this.
+Before sending it there, we sent it to a place there in Nairobi to be cleaned up a little bit. In that place in the industrial area, a very experienced man took it apart, and he told me that he found on the inside an inscription of two initials of people who worked on this.
 
-They put their initials there and I think the initial was 1929. They had
-made this work of art in 1929.
+They put their initials there and I think the initial was 1929. They had made this work of art in 1929.
 
-He was so impressed, a man of a lot of artistic sense, that this thing
-had been made with such detail and so much love, put together, and then
-transported to such a faraway place, and now here it was. He was
-witnessing this, and we were putting it together and cleaning it up.
+He was so impressed, a man of a lot of artistic sense, that this thing had been made with such detail and so much love, put together, and then transported to such a faraway place, and now here it was. He was witnessing this, and we were putting it together and cleaning it up.
 
-Now it\'s been used liturgically in Bungoma---all because of that
-individual man with his Eucharistic sense that managed to get these
-things for nothing and produce this work of art, and bring it now to be
-used where it\'s being used.
+Now it\'s been used liturgically in Bungoma---all because of that individual man with his Eucharistic sense that managed to get these things for nothing and produce this work of art, and bring it now to be used where it\'s being used.
 
-Our Father has given us that sort of sensitivity to have an alertness
-for things we can get our hands on, to keep these articles of worship
-that are used, to keep them for that sacred purpose.
+Our Father has given us that sort of sensitivity to have an alertness for things we can get our hands on, to keep these articles of worship that are used, to keep them for that sacred purpose.
 
-He says, "Don\'t fall into a routine even though the years pass. Always
-keep these objects which belong especially to Our Lord, out of delicate
-respect. You must surpass yourselves in caring for and cleaning them."
+He says, "Don\'t fall into a routine even though the years pass. Always keep these objects which belong especially to Our Lord, out of delicate respect. You must surpass yourselves in caring for and cleaning them."
 
 We have a great treasure in all these things.
 
-We can try to show our Eucharistic piety, particularly in that norm of
-the visit to the Blessed Sacrament, so we avoid routine.
+We can try to show our Eucharistic piety, particularly in that norm of the visit to the Blessed Sacrament, so we avoid routine.
 
-It's a good moment to pray in our day for the Father, the people around
-him, the *custodes*, using each one of those Our Fathers or Hail Marys
-or Glory Bes, so that, as Paul VI said in his Encyclical Letter
-*Mysterium Fidei--*"The Mystery of Faith", those visits might be "a sign
-of gratitude, an expression of love, an acknowledgment of Our Lord\'s
-presence."
+It's a good moment to pray in our day for the Father, the people around him, the *custodes*, using each one of those Our Fathers or Hail Marys or Glory Bes, so that, as Paul VI said in his Encyclical Letter *Mysterium Fidei--*"The Mystery of Faith", those visits might be "a sign of gratitude, an expression of love, an acknowledgment of Our Lord\'s presence."
 
-We can thank Our Lord today for that First Communion ceremony of our
-Father, for the people who prepared him for it, the stories that
-surround it, for all the fruits that have come from it, fruits that have
-a very clear and definite expression in our own personal lives.
+We can thank Our Lord today for that First Communion ceremony of our Father, for the people who prepared him for it, the stories that surround it, for all the fruits that have come from it, fruits that have a very clear and definite expression in our own personal lives.
 
-Still, we can think of all the fruits that have to come in the future,
-years from now, in all of our oratories all over the world; and all the
-people that have to come in contact with our centers and our corporate
-apostolic works, that they also might find a great fruit in their souls
-and their hearts for this bread of angels that our Father has taught us
-to look after in a very special way.
+Still, we can think of all the fruits that have to come in the future, years from now, in all of our oratories all over the world; and all the people that have to come in contact with our centers and our corporate apostolic works, that they also might find a great fruit in their souls and their hearts for this bread of angels that our Father has taught us to look after in a very special way.
 
-Our Lady, the Woman of the Eucharist, will help us to keep this flame
-very much alive, so that we can pass it on to many other people.
+Our Lady, the Woman of the Eucharist, will help us to keep this flame very much alive, so that we can pass it on to many other people.
 
-*I thank you, my God, for the good resolutions, affections, and
-inspirations that you have communicated to me during this meditation. I
-ask your help to put them into practice. My Immaculate Mother, Saint
-Joseph, my father and lord, my guardian angel, intercede for me.*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-*In the name of the Father, and of the Son, and of the Holy Spirit.
-Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *EW*
