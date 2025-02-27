@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# macOS-compatible parallel conversion wrapper for convert_fast.sh with improved termination
+# Ultra-compatible macOS parallel conversion wrapper for convert_fast.sh
 # Processes multiple files simultaneously for faster conversion
 
 # Set the source and destination directories
@@ -24,19 +24,23 @@ echo "Using $MAX_JOBS parallel processes on macOS"
 LOG_DIR="./conversion_logs"
 mkdir -p "$LOG_DIR"
 
-# Use file-based tracking
+# Status tracking files
 success_log="$LOG_DIR/success.log"
 error_log="$LOG_DIR/error.log"
-pid_file="$LOG_DIR/pids.txt"
+job_count_file="$LOG_DIR/job_count.txt"
 
 # Clear previous logs
+echo "0" > "$job_count_file"
 > "$success_log"
 > "$error_log"
-> "$pid_file"
 
-# Get list of all files
+# Get list of all files using a macOS-compatible approach
 echo "Finding files to process..."
-mapfile -t all_files < <(find "$source_dir" -name "*.doc*")
+all_files=()
+while IFS= read -r file; do
+    all_files+=("$file")
+done < <(find "$source_dir" -name "*.doc*")
+
 total=${#all_files[@]}
 echo "Found $total files to process"
 
@@ -59,23 +63,19 @@ convert_file() {
         echo "✗ $(basename "$doc_file")" > "$status_file.error"
     fi
 
-    # Signal completion by removing the PID from the file
-    local current_pid=$$
-    grep -v "^$current_pid$" "$pid_file" > "$pid_file.tmp" 2>/dev/null
-    mv "$pid_file.tmp" "$pid_file" 2>/dev/null
-
-    exit 0
+    # Update job count atomically
+    local count=$(cat "$job_count_file")
+    echo $((count - 1)) > "$job_count_file"
 }
 
 # Track number of completed files
 completed=0
-active_jobs=0
 
 # Function to update progress display
 update_progress() {
     # Count successful and failed conversions
-    local success_count=$(find "$STATUS_DIR" -name "*.success" 2>/dev/null | wc -l | tr -d ' ')
-    local error_count=$(find "$STATUS_DIR" -name "*.error" 2>/dev/null | wc -l | tr -d ' ')
+    local success_count=$(ls "$STATUS_DIR"/*.success 2>/dev/null | wc -l | tr -d ' ')
+    local error_count=$(ls "$STATUS_DIR"/*.error 2>/dev/null | wc -l | tr -d ' ')
     local current_completed=$((success_count + error_count))
 
     # Update the display if the count has changed
@@ -88,29 +88,31 @@ update_progress() {
 
         # Update the summary logs
         if [ $success_count -gt 0 ]; then
-            find "$STATUS_DIR" -name "*.success" -exec cat {} \; > "$success_log" 2>/dev/null
+            cat "$STATUS_DIR"/*.success > "$success_log" 2>/dev/null
         fi
         if [ $error_count -gt 0 ]; then
-            find "$STATUS_DIR" -name "*.error" -exec cat {} \; > "$error_log" 2>/dev/null
+            cat "$STATUS_DIR"/*.error > "$error_log" 2>/dev/null
         fi
     fi
 }
 
-# Process files in parallel with a better tracking mechanism
+# Process files in parallel
 for i in "${!all_files[@]}"; do
-    # Limit number of parallel jobs
-    while [ $(pgrep -P $$ | wc -l) -ge $MAX_JOBS ]; do
+    # Wait if we've reached the maximum number of background jobs
+    current_jobs=$(cat "$job_count_file")
+    while [ "$current_jobs" -ge $MAX_JOBS ]; do
         update_progress
         sleep 0.1
+        current_jobs=$(cat "$job_count_file")
     done
+
+    # Increment job count
+    echo $((current_jobs + 1)) > "$job_count_file"
 
     # Start conversion in background
     (
         convert_file "${all_files[$i]}" "$i"
     ) &
-
-    # Record the background job's PID
-    echo $! >> "$pid_file"
 
     # Update progress every 5 files
     if [ $((i % 5)) -eq 0 ] || [ $i -eq $((total - 1)) ]; then
@@ -118,34 +120,31 @@ for i in "${!all_files[@]}"; do
     fi
 done
 
-# Monitor for completion with a timeout
+# Monitor for completion
 echo
 echo "Waiting for remaining jobs to complete..."
 timeout_counter=0
-max_timeout=30 # 30 seconds max wait
+max_timeout=60 # 60 seconds max wait
 
-while [ -s "$pid_file" ] && [ $timeout_counter -lt $max_timeout ]; do
+while [ "$(cat "$job_count_file")" -gt 0 ] && [ $timeout_counter -lt $max_timeout ]; do
     update_progress
     sleep 1
     timeout_counter=$((timeout_counter + 1))
 done
 
-# If we hit the timeout, force cleanup
+# Handle timeout
 if [ $timeout_counter -ge $max_timeout ]; then
-    echo "Timeout reached. Cleaning up..."
-    # Read PIDs from file and kill them
-    while read -r pid; do
-        kill -9 $pid 2>/dev/null || true
-    done < "$pid_file"
+    echo "Timeout reached. Some jobs may not have completed."
+    # Force terminate any remaining background processes
+    pkill -P $$ 2>/dev/null || true
 fi
 
-# Final update of summary logs
-find "$STATUS_DIR" -name "*.success" -exec cat {} \; > "$success_log" 2>/dev/null
-find "$STATUS_DIR" -name "*.error" -exec cat {} \; > "$error_log" 2>/dev/null
+# Final update of progress
+update_progress
 
-# Final statistics
-success_count=$(find "$STATUS_DIR" -name "*.success" 2>/dev/null | wc -l | tr -d ' ')
-error_count=$(find "$STATUS_DIR" -name "*.error" 2>/dev/null | wc -l | tr -d ' ')
+# Final statistics using ls instead of find
+success_count=$(ls "$STATUS_DIR"/*.success 2>/dev/null | wc -l | tr -d ' ' || echo 0)
+error_count=$(ls "$STATUS_DIR"/*.error 2>/dev/null | wc -l | tr -d ' ' || echo 0)
 
 echo
 echo "Conversion complete!"
@@ -165,7 +164,7 @@ fi
 
 # Clean up status directory
 rm -rf "$STATUS_DIR"
-rm -f "$pid_file" "$pid_file.tmp"
+rm -f "$job_count_file"
 
 echo "All done!"
 exit 0
