@@ -77,7 +77,7 @@ spiritual messages, so that every child gets that message into his mind
 and heart and soul---that "you are dust"---knows where we\'re coming
 from, knows where we\'re going.
 
-Often those material things, speak volumes to millions of other people.
+Often those material things speak volumes to millions of other people.
 Cardinal Dolan in New York has said how sometimes after the ceremony of
 the ashes, he stands on the steps of St. Patrick\'s Cathedral and offers
 ashes to any passersby.
@@ -171,7 +171,7 @@ a bit messed up, we go back to the sacrament of Confession and we
 cleanse our hearts.
 
 We say to Our Lord, "Create a clean heart in me" (Ps. 51:10). A new
-heart. "Take out my heart of stone and give me a heart of flesh" (cf.
+heart. "Take out my heart of stone and give me a heart of flesh" (*cf*.
 Ezek. 36:26).
 
 Frequently, in the Responsorial Psalm during these days, we\'re going to
@@ -240,7 +240,7 @@ the Cross. He stays there, so that we, when we get temptations to come
 down off the cross in our work, in our family, in our marriage, we also
 learn how to stay there.
 
-The Way of the Cross teaches us wonderful things, invites us to accept
+*The Way of the Cross* teaches us wonderful things, invites us to accept
 the blows that may come as a means to grow in virtue, in humility, in
 acceptance of the will of God; to develop our character in all sorts of
 ways; and to suspend all the bad interior things that may be there
@@ -327,8 +327,8 @@ Confession---of our own personal Confession---to get to Confession
 frequently, to be always in the state of grace, and to see how, if
 possible, we can reach out to others in the sacrament of Confession.
 
-There was a student in Tokyo once, who had heard about doing the
-apostolate of confession. In Japan, this population is about 1 percent
+There was a student in Tokyo once who had heard about doing the
+apostolate of Confession. In Japan, this population is about 1 percent
 Christian or Catholic. This student was in the library of the university
 one time and was thinking, 'If there are 100 people in this library,
 possibly one of them is Catholic.'
@@ -449,7 +449,7 @@ no happiness on earth."
 
 "It\'s of great benefit," says St. Paul, "that we all deny ourselves
 little pleasures. All things are pleasurable to me, but not all things
-are necessary or expedient" (cf. 1 Cor. 10:23).
+are necessary or expedient" (*cf*. 1 Cor. 10:23).
 
 Not all things are necessary. It\'s very good in every person\'s life
 that they deny themselves the fruit of a certain tree; certain pleasures
