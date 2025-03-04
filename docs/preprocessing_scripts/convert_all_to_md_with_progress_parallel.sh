@@ -2,6 +2,8 @@
 
 # Ultra-compatible macOS parallel conversion wrapper for convert_fast.sh
 # Processes multiple files simultaneously for faster conversion
+# This has been tested and it works! It's just that you have to be patient at the end of the process.
+# The script will wait for the remaining jobs to complete before displaying the final statistics.
 
 # Set the source and destination directories
 source_dir="/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/transcript_proofread_MSWord"

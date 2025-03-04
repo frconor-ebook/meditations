@@ -53,7 +53,7 @@ Simon\'s words opened only formally and externally the door of his heart to the 
 
 The heart is something very important in our faith. Our religion is a religion of the heart. "Come back to me with all your heart. Rend your heart and not your garments" (Joel 2:12-13). "God reads the heart" (Luke 16:15).
 
-We ask Our Lord for a conversion of heart. "Take out this heart of stone and give me a heart of flesh" (cf. Ezek. 36:26).
+We ask Our Lord for a conversion of heart. "Take out this heart of stone and give me a heart of flesh" (*cf*. Ezek. 36:26).
 
 There\'s a great comparison between the Pharisees---and we\'re all potential Pharisees---and this woman who comes to Him with authentic contrition, an authentic desire to change her life.
 
@@ -65,7 +65,7 @@ The public life of this sinful woman, the sinner of the city, changed because sh
 
 "Simon, answering, said, 'I suppose, he to whom he forgave most.' And He said to him, 'You\'ve judged rightly.' And turning to the woman..." (Luke 7:40-44).
 
-Very often in Scripture, Our Lord turns. He turns to the woman with the issue of blood, who\'s come to him with authentic faith (Luke 8:43-48). He turned away from the crowds and the multitudes (Matt. 14:23).
+Very often in Scripture, Our Lord turns. He turns to the woman with the issue of blood, who\'s come to Him with authentic faith (Luke 8:43-48). He turned away from the crowds and the multitudes (Matt. 14:23).
 
 He turns towards Peter, looked upon him with love, sought him out with His most loving glance, in his lowest moments. "Peter went out and wept bitterly" (Luke 22:61-62).
 
@@ -121,7 +121,7 @@ And because I am aware of my own nothingness, I need all the grace that I can ge
 
 Where there is weakness, there\'s an abundance of grace to lift us up onto a new level.
 
-We can ask Our Lord for that grace to grow in our contrition, so that like the prodigal son we can say, "I am not worthy to be called your son. I have sinned against heaven and before you" in all sorts of ways. I have wasted my time. I have wasted your graces. I have wasted my talents. "Treat me as one of your hired servants" (cf. Luke 15:22).
+We can ask Our Lord for that grace to grow in our contrition, so that like the prodigal son we can say, "I am not worthy to be called your son. I have sinned against heaven and before you" in all sorts of ways. I have wasted my time. I have wasted your graces. I have wasted my talents. "Treat me as one of your hired servants" (*cf*. Luke 15:22).
 
 He does not demand anything. He does not enter into a negotiation with his father. It is total humility. I am not worthy of anything. And the father is so great; he restores him to his original dignity.
 
@@ -141,13 +141,13 @@ St. Augustine says it is not a question of weeping over our wretchedness, but of
 
 Lord, strengthen my will. Give me fortitude in the will. My desire to be better leads me to use the means more, to savor those means that we\'ve been given, to love them, to thank God for them, to turn to them in all sorts of ways.
 
-When a sheep falls into a mucky pond, it gets up out of it. The pig stays there. Love of self and complacency and our own excellence are often so great, that even unconsciously, we can make ourselves the center of the universe.
+When a sheep falls into a mucky pond, it gets up out of it. The pig stays there. "Love of self and complacency and our own excellence are often so great, that even unconsciously, we can make ourselves the center of the universe" (Dan Burke, "The Spirit of Mortification," *Catholic Exchange*, April 10, 2019).
 
 That\'s what the Pharisee did. He was the judge. He knew everything. His pride blinds him.
 
 Another Pharisee fasted on the appointed days, but whose heart was so puffed up with pride that his prayer amounted to nothing more than praise of self and scorn for his neighbor, did not have a spirit of humility and contrition and therefore was not justified by God (Luke 18:10-14).
 
-"Why," says St. Teresa of Avila, "do we shrink from interior mortification---of our ego, our will, our judgment---since this is how every other kind of mortification may become more meritorious and perfect, and may be practiced with greater tranquility and ease?" (St. Teresa of Avila, *The Way of Perfection*).
+"Why," says St. Teresa of Avila, "do we shrink from interior mortification---of our ego, our will, our judgment---since this is how every other kind of mortification may become more meritorious and perfect, and may be practiced with greater tranquility and ease?" (St. Teresa of Ávila, *The Way of Perfection*).
 
 As long as our mortification does not strike at our pride, it remains at the halfway mark, and never really reaches its goal.
 
@@ -181,13 +181,13 @@ But it starts with the sinner who learned how to love. She represents the whole 
 
 We are told in *The Way of the Cross*, "So much wretchedness! So many offenses! Mine, yours, those of all mankind. \... I, like all men, came into the world stained with the guilt of our first parents. And then\...my own sins: rebellions, thought about, desired, committed\...
 
-"To purify us of this rottenness, Jesus willed to humble himself and take on the form of a slave (cf. Phil 2:7), becoming Incarnate in the spotless womb of Our Lady, his Mother, who is also your Mother and mine.
+"To purify us of this rottenness, Jesus willed to humble himself and take on the form of a slave (*cf*. Phil 2:7), becoming Incarnate in the spotless womb of Our Lady, his Mother, who is also your Mother and mine.
 
 "He spent thirty years in obscurity, working as any other man, at Joseph\'s side. He preached. He worked miracles\...and we repaid him with the Cross" (Josemaría Escrivá, *The Way of The Cross*, Fourth Station).
 
 In *The Forge*, we are told, "Although it pains us to admit it---and I ask God to increase that sorrow in us---you and I have our share in the death of Christ. For the sins of men were the hammer-blows which stitched him to the Cross with nails" (J. Escrivá, *The Forge*, Point 550). And so, Lord, help me to see.
 
-In one of his documents on memory and reconciliation, Pope St. John Paul II said, "Acknowledging the weaknesses of the past is an act of honesty and courage" (John Paul II, *Tertio millennio adveniente*, Nov. 10, 1994).
+In one of his documents on memory and reconciliation, Pope St. John Paul II said, "Acknowledging the weaknesses of the past is an act of honesty and courage" (John Paul II, Apostolic Letter, *Tertio millennio adveniente*, Nov. 10, 1994).
 
 We too have to examine our past life and see the many reasons we have for starting over. "Unless a man is born again of water and the Holy Spirit, he cannot enter the kingdom of heaven" (John 3:5).
 
@@ -195,7 +195,7 @@ Acts of sorrow, love-sorrow, and of contrition can be frequently on our lips. "A
 
 "Jesus, Son of David, have mercy on me, a sinner!" (Luke 18:38)---acknowledging our weakness, so that our heart flies there.
 
-We can show that contrition in concrete ways, with little sacrifices---all the occasions for physical or moral suffering permitted by divine providence, sufferings that may accompany some illness or some fatigue, the effort required by the performance of our duties, by a life of intense labor; the beginning again; the going back to our work, and to little problems that may be waiting for us; the privations imposed by a state of detachment.
+We can show that contrition in concrete ways, with little sacrifices---all the occasions for physical or moral suffering permitted by Divine Providence, sufferings that may accompany some illness or some fatigue, the effort required by the performance of our duties, by a life of intense labor; the beginning again; the going back to our work, and to little problems that may be waiting for us; the privations imposed by a state of detachment.
 
 All these can be excellent physical penances. Accept them wholeheartedly, because that is what God wants.
 
