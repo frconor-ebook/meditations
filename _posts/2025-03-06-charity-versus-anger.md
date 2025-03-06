@@ -109,7 +109,7 @@ There is a good anger and there\'s a bad anger. A good anger is an anger to corr
 
 If somebody is laying a table in the wrong way, or doing the laundry in the wrong way, or mopping the floor with the wrong end of the stick or something, we have to try and tell them, 'No, you use the mop with the other end.' Or, 'You point the fork on the table or the knife in the other way, in the other direction.'
 
-We have a nice sort of anger to correct them. If we see people mopping the floor with wood and we walk by and say, 'Well, it doesn\'t really matter" that\'s not a very good reaction to have, because we want people to do a good job. We want them to learn more things.
+We have a nice sort of anger to correct them. If we see people mopping the floor with wood and we walk by and say, 'Well, it doesn\'t really matter,' that\'s not a very good reaction to have, because we want people to do a good job. We want them to learn more things.
 
 There\'s a certain very slight anger to correct. This was the anger that Our Lord had in the temple. When He went in and found the money changers and the merchants there, He threw them all out of the temple (John 2:14-15).
 
@@ -215,7 +215,7 @@ Or go to the confessional box or to the director of the center and say, 'Look, I
 
 Then the devil sees that we have diffused it. We\'ve let the air out of the tires a little bit. Then he\'s lost his weapon.
 
-It\'s a great way to get out of angry situations. We might have to go to somebody someday and say, 'Look, I\'m boiling. I'm boiling mad. This person that said that thing, or this other person that did that other thing, or that *matatu* driver, or that person that was so impertinent or cheeky or unjust with me\...
+It\'s a great way to get out of angry situations. We might have to go to somebody someday and say, 'Look, I\'m boiling. I'm boiling mad. This person that said that thing, or this other person that did that other thing, or that *matatu* driver, or that person that was so impertinent or cheeky or unjust with me\...'
 
 All those things happen to us from time to time. But it\'s great that we can get those things out. Recover our peace.
 
@@ -249,7 +249,7 @@ Or, if we're about to go to bed one day and it\'s been a long day, there\'s been
 
 Okay, we go and we handle it with peace and with serenity. We learn how to endure those little contradictions without that martyr complex. We learn how to handle difficulties.
 
-There\'s a great talent in life to learn how to handle difficult situations with peace, without giving in to sadness or reacting with a growing sense of rage.
+It's a great talent in life to learn how to handle difficult situations with peace, without giving in to sadness or reacting with a growing sense of rage.
 
 'How dare that person call me at this hour of the night? Do you know what time it is?'
 

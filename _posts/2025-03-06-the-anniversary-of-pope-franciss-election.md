@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "The Anniversary of Pope Francis's Election"
+title: "The Anniversary of Pope Francis’s Election"
 ---
 
 By Fr. Conor Donnelly
@@ -11,9 +11,7 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"Jesus said to them, 'But who do you say that I am?' Simon Peter answered and said, 'You are the Christ, the Son of the living God.'
-
-"Jesus, answering, said to him, 'Blessed are you, Simon Bar-Jonah, for flesh and blood has not revealed it to you, but my Father who is in heaven. And I say to you, you are Peter, and upon this rock, I will build my church, and the gates of hell shall not prevail against it. I will give to you the keys of the kingdom of heaven. Whatever you bind on earth, it will be bound in heaven, and whatever you loose upon earth, it shall be loosed in heaven" (Matt. 16:15-19).
+"Jesus said to them, 'But who do you say that I am?' Simon Peter answered and said, 'You are the Christ, the Son of the living God.' Jesus, answering, said to him, 'Blessed are you, Simon Bar-Jonah, for flesh and blood has not revealed it to you, but my Father who is in heaven. And I say to you, you are Peter, and upon this rock, I will build my church, and the gates of hell shall not prevail against it. I will give to you the keys of the kingdom of heaven. Whatever you bind on earth, it will be bound in heaven, and whatever you loose upon earth, it shall be loosed in heaven'" (Matt. 16:15-19).
 
 Our Lord initially takes a type of opinion poll: "Who do people say that I am?" And He gets all sorts of answers: "Some say John the Baptist, others Elijah, others Jeremiah..." (Matt. 16:14).
 
@@ -111,7 +109,7 @@ We shouldn\'t entertain any criticisms of the Pope. We shouldn\'t allow other pe
 
 We pray for the Pope. We try and be united with him; try and help him in what he\'s doing; try and support him in every way and teach our children to do the same thing.
 
-Pope Francis quotes St. Ambrose in talking about the Communion bread. He says it\'s "not a prize for the perfect but a powerful medicine and nourishment for the weak" (cf. St. Ambrose, *De Sacramentis*). "Powerful medicine and nourishment for the weak."
+Pope Francis quotes St. Ambrose in talking about the Communion bread. He says it\'s "not a prize for the perfect but a powerful medicine and nourishment for the weak" (*cf*. St. Ambrose, *De Sacramentis*). "Powerful medicine and nourishment for the weak."
 
 We all need our Communion. We need the Bread of Life. He says it\'s not a private prayer, but a beautiful spiritual exercise, a means of one\'s transformation. One\'s taking on the heart of Christ.
 
@@ -123,11 +121,11 @@ As always, whenever any Pope issues a document, it\'s very good for us to go and
 
 He said, "The Lord has redeemed all of us, all of us, \...even the atheists. Everyone! \... We are created "children in the likeness of God" (Gen. 1:27) \... and we all have a duty to do good" (Pope Francis, *Homily*, May 22, 2013).
 
-Pope Francis also points to the Last Judgment scene in the Gospel of Matthew, Chapter 25, as proof of how God judges (*Angelus*, Nov. 26, 2017): what we do for the poor, the hungry, the indigent, the outcast, those who suffer and are alone---all these things we do for these people---Our Lord regards as done to Himself (cf. Matt. 25:31-46).
+Pope Francis also points to the Last Judgment scene in the Gospel of Matthew, Chapter 25, as proof of how God judges (*Angelus*, Nov. 26, 2017): what we do for the poor, the hungry, the indigent, the outcast, those who suffer and are alone---all these things we do for these people---Our Lord regards as done to Himself (*cf*. Matt. 25:31-46).
 
 He points to the Beatitudes as showing what gives deep happiness, what Catholics should strive to live up to every day, being poor in spirit and meek and humble of heart, merciful, peacemakers, hungering and thirsting for righteousness (Pope Francis, *General Audience*, Aug. 6, 2014).
 
-Pope Francis chose for his motto *Miserando atque eligendo,* which means "by having mercy and by selecting," which refers to Our Lord\'s selection for apostleship. Matthew, the tax collector, was considered unclean by Jewish law (cf. Matt. 9:11).
+Pope Francis chose for his motto *Miserando atque eligendo,* which means "by having mercy and by selecting," which refers to Our Lord\'s selection for apostleship. Matthew, the tax collector, was considered unclean by Jewish law (*cf*. Matt. 9:11).
 
 In *Evangelii gaudium*, he mentions God\'s mercy thirty-two times. He said, "God never tires of forgiving us; we are the ones who tire of seeking his mercy."
 
@@ -187,7 +185,7 @@ Don Javier said, "Let us examine in God\'s presence how our union with the Pope 
 
 "Do we offer up sacrifices and renunciations that cost us a lot? Do we ask other people to pray and to offer periods of work and small mortifications for the Roman Pontiff?
 
-"Do we spread his teachings, which are the doctrine of Christ, and defend them when they are attacked in the media or in private conversations?
+"Do we spread his teachings, which are the doctrine of Christ, and defend them when they are attacked in the media or in private conversations?"
 
 This week, the Holy Father is going to Iraq. We can accompany him along that journey. He is breaking new ground, going to countries that perhaps no Pope has ever gone before, visiting small minorities of Catholics in those countries.
 
@@ -203,7 +201,7 @@ St. Josemaría in *The Forge* says, "You must love, venerate, pray, and mortify 
 
 "You are Peter." I was present in 1978 when John Paul II was installed. There was a moment when the Cardinals went up to promise obedience to the Pope.
 
-There was something like 120 Cardinals and it took about half an hour, that part of the ceremony. The choir was singing all the time,*Tu es Patrus.*
+There was something like 120 Cardinals and it took about half an hour, that part of the ceremony. The choir was singing all the time, *Tu es Patrus.*
 
 *Et ego dico tibi, quia tu es Petrus, et super hanc petram aedificabo Ecclesiam meam, et portae inferi non praevalebunt adversus eam--*"You are Peter. And upon this rock, I will build my Church" (Matt. 16:18).
 
