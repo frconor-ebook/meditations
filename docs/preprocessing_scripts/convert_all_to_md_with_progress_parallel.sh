@@ -12,7 +12,7 @@ dest_dir="/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/transcript_proofread_m
 # Path to the conversion script
 CONVERT_SCRIPT="./convert_fast.sh"
 
-# Remove the destination directory if it exists
+# Remove the destination directory if it exists (to avoid duplicate files)
 rm -rf "$dest_dir"
 
 # Ensure the destination directory exists
