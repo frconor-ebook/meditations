@@ -4,26 +4,40 @@
 # This script automates the conversion and processing of transcripts
 # from DocX to Markdown format with standardized naming and content.
 #
-# Usage: ./preprocess_files.sh [OPTIONS]
+# Usage: ./frcmed_full_pipeline.sh  [OPTIONS]
 #
 # Options:
-#   -v, --verbose    Enable verbose output
-#   -s, --skip-step  Skip specific step (download|convert|standardize|process)
-#   -h, --help       Display this help message
-#   -l, --log        Create a log file with detailed output
+#   -v, --verbose     Enable verbose output
+#   -s, --skip-step   Skip specific step(s) (download|convert|standardize|process|build|deploy)
+#   -i, --include-step Only run specific step(s) (download|convert|standardize|process|build|deploy)
+#   -h, --help        Display this help message
+#   -l, --log         Create a log file with detailed output
 
 # Script configuration
 set -o pipefail  # Ensure pipeline errors are caught
-SCRIPT_VERSION="1.2.0"
+SCRIPT_VERSION="1.5.0"
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 BASE_DIR="$(cd "$(dirname "$0")" && pwd)/.."
 START_TIME=$(date +%s)
 LOG_FILE=""
 VERBOSE=false
+
+# Skip flags
 SKIP_DOWNLOAD=false
 SKIP_CONVERT=false
 SKIP_STANDARDIZE=false
 SKIP_PROCESS=false
+SKIP_BUILD=false
+SKIP_DEPLOY=false
+
+# Include flags
+INCLUDE_DOWNLOAD=false
+INCLUDE_CONVERT=false
+INCLUDE_STANDARDIZE=false
+INCLUDE_PROCESS=false
+INCLUDE_BUILD=false
+INCLUDE_DEPLOY=false
+INCLUDE_ANY=false  # Track if any include flags are set
 
 # Color definitions
 RED='\033[0;31m'
@@ -38,18 +52,27 @@ show_help() {
     echo
     echo "This script automates the conversion and processing of medical transcripts"
     echo "from DocX to Markdown format with standardized naming and content."
+    echo "It also builds the Jekyll site and deploys to GitHub Pages."
     echo
     echo "Usage: $(basename "$0") [OPTIONS]"
     echo
     echo "Options:"
-    echo "  -v, --verbose         Enable verbose output"
-    echo "  -s, --skip-step STEP  Skip specific step (download|convert|standardize|process)"
-    echo "  -l, --log FILE        Write output to log file"
-    echo "  -h, --help            Display this help message"
+    echo "  -v, --verbose           Enable verbose output"
+    echo "  -s, --skip-step STEPS   Skip specific step(s) (comma-separated list)"
+    echo "                          Valid steps: download,convert,standardize,process,build,deploy"
+    echo "  -i, --include-step STEPS Only run specific step(s) (comma-separated list)"
+    echo "                          Valid steps: download,convert,standardize,process,build,deploy"
+    echo "  -l, --log FILE          Write output to log file"
+    echo "  -h, --help              Display this help message"
     echo
-    echo "Example:"
-    echo "  $(basename "$0") --verbose --log preprocess.log"
+    echo "Examples:"
+    echo "  $(basename "$0") --verbose --log pipeline.log"
     echo "  $(basename "$0") --skip-step convert"
+    echo "  $(basename "$0") --skip-step build,deploy"
+    echo "  $(basename "$0") --include-step download,process"
+    echo "  $(basename "$0") --include-step build,deploy"
+    echo
+    echo "Note: --include-step and --skip-step cannot be used together"
 }
 
 # Function to display log messages with timestamp
@@ -96,6 +119,67 @@ verbose() {
     fi
 }
 
+# Function to set a skip flag based on step name
+set_skip_flag() {
+    local step=$1
+    case $step in
+        download)
+            SKIP_DOWNLOAD=true
+            ;;
+        convert)
+            SKIP_CONVERT=true
+            ;;
+        standardize)
+            SKIP_STANDARDIZE=true
+            ;;
+        process)
+            SKIP_PROCESS=true
+            ;;
+        build)
+            SKIP_BUILD=true
+            ;;
+        deploy)
+            SKIP_DEPLOY=true
+            ;;
+        *)
+            log "ERROR" "Unknown skip step: $step"
+            show_help
+            exit 1
+            ;;
+    esac
+}
+
+# Function to set an include flag based on step name
+set_include_flag() {
+    local step=$1
+    INCLUDE_ANY=true
+    case $step in
+        download)
+            INCLUDE_DOWNLOAD=true
+            ;;
+        convert)
+            INCLUDE_CONVERT=true
+            ;;
+        standardize)
+            INCLUDE_STANDARDIZE=true
+            ;;
+        process)
+            INCLUDE_PROCESS=true
+            ;;
+        build)
+            INCLUDE_BUILD=true
+            ;;
+        deploy)
+            INCLUDE_DEPLOY=true
+            ;;
+        *)
+            log "ERROR" "Unknown include step: $step"
+            show_help
+            exit 1
+            ;;
+    esac
+}
+
 # Function to check for required tools
 check_dependencies() {
     local missing_deps=false
@@ -103,7 +187,7 @@ check_dependencies() {
     log "INFO" "Checking dependencies..."
 
     # Check for required commands
-    for cmd in python3 find; do
+    for cmd in python3 find bundle git; do
         if ! command -v $cmd &> /dev/null; then
             log "ERROR" "Required command not found: $cmd"
             missing_deps=true
@@ -158,6 +242,9 @@ show_elapsed_time() {
 
 # Parse command line arguments
 parse_args() {
+    local skip_used=false
+    local include_used=false
+
     while [[ $# -gt 0 ]]; do
         case $1 in
             -h|--help)
@@ -173,25 +260,39 @@ parse_args() {
                 shift 2
                 ;;
             -s|--skip-step)
-                case $2 in
-                    download)
-                        SKIP_DOWNLOAD=true
-                        ;;
-                    convert)
-                        SKIP_CONVERT=true
-                        ;;
-                    standardize)
-                        SKIP_STANDARDIZE=true
-                        ;;
-                    process)
-                        SKIP_PROCESS=true
-                        ;;
-                    *)
-                        log "ERROR" "Unknown skip step: $2"
-                        show_help
-                        exit 1
-                        ;;
-                esac
+                skip_used=true
+                if [[ "$include_used" = true ]]; then
+                    log "ERROR" "Cannot use --skip-step and --include-step together"
+                    show_help
+                    exit 1
+                fi
+
+                # Split the comma-separated list into an array
+                IFS=',' read -ra STEPS <<< "$2"
+
+                # Process each step in the list
+                for step in "${STEPS[@]}"; do
+                    set_skip_flag "$step"
+                done
+
+                shift 2
+                ;;
+            -i|--include-step)
+                include_used=true
+                if [[ "$skip_used" = true ]]; then
+                    log "ERROR" "Cannot use --skip-step and --include-step together"
+                    show_help
+                    exit 1
+                fi
+
+                # Split the comma-separated list into an array
+                IFS=',' read -ra STEPS <<< "$2"
+
+                # Process each step in the list
+                for step in "${STEPS[@]}"; do
+                    set_include_flag "$step"
+                done
+
                 shift 2
                 ;;
             *)
@@ -211,6 +312,11 @@ parse_args() {
 
 # Function to download files from Dropbox
 download_from_dropbox() {
+    if [[ "$INCLUDE_ANY" = true && "$INCLUDE_DOWNLOAD" = false ]]; then
+        log "INFO" "Skipping Dropbox download (not included in specified steps)."
+        return 0
+    fi
+
     if [[ "$SKIP_DOWNLOAD" = true ]]; then
         log "WARNING" "Skipping Dropbox download as requested."
         return 0
@@ -229,6 +335,11 @@ download_from_dropbox() {
 
 # Function to convert DocX to Markdown
 convert_to_markdown() {
+    if [[ "$INCLUDE_ANY" = true && "$INCLUDE_CONVERT" = false ]]; then
+        log "INFO" "Skipping DocX to Markdown conversion (not included in specified steps)."
+        return 0
+    fi
+
     if [[ "$SKIP_CONVERT" = true ]]; then
         log "WARNING" "Skipping DocX to Markdown conversion as requested."
         return 0
@@ -259,6 +370,11 @@ convert_to_markdown() {
 
 # Function to standardize filenames
 standardize_filenames() {
+    if [[ "$INCLUDE_ANY" = true && "$INCLUDE_STANDARDIZE" = false ]]; then
+        log "INFO" "Skipping filename standardization (not included in specified steps)."
+        return 0
+    fi
+
     if [[ "$SKIP_STANDARDIZE" = true ]]; then
         log "WARNING" "Skipping filename standardization as requested."
         return 0
@@ -279,6 +395,11 @@ standardize_filenames() {
 
 # Function to process markdown files
 process_markdown() {
+    if [[ "$INCLUDE_ANY" = true && "$INCLUDE_PROCESS" = false ]]; then
+        log "INFO" "Skipping Markdown processing (not included in specified steps)."
+        return 0
+    fi
+
     if [[ "$SKIP_PROCESS" = true ]]; then
         log "WARNING" "Skipping Markdown processing as requested."
         return 0
@@ -300,11 +421,85 @@ process_markdown() {
     log "SUCCESS" "Markdown files have been processed."
 }
 
+# Function to build the Jekyll site
+build_jekyll_site() {
+    if [[ "$INCLUDE_ANY" = true && "$INCLUDE_BUILD" = false ]]; then
+        log "INFO" "Skipping Jekyll build (not included in specified steps)."
+        return 0
+    fi
+
+    if [[ "$SKIP_BUILD" = true ]]; then
+        log "WARNING" "Skipping Jekyll build as requested."
+        return 0
+    fi
+
+    log "INFO" "Building Jekyll site..."
+
+    # Change directory to the project root
+    cd "$BASE_DIR" || error_message "Could not change to base directory."
+
+    # Clean the Jekyll site
+    log "INFO" "Cleaning Jekyll site..."
+    bundle exec jekyll clean || error_message "Jekyll clean failed."
+
+    # Build the Jekyll site
+    log "INFO" "Building Jekyll site..."
+    bundle exec jekyll build || error_message "Jekyll build failed."
+
+    log "SUCCESS" "Jekyll site has been built."
+}
+
+# Function to deploy to GitHub Pages
+deploy_to_github() {
+    if [[ "$INCLUDE_ANY" = true && "$INCLUDE_DEPLOY" = false ]]; then
+        log "INFO" "Skipping GitHub deployment (not included in specified steps)."
+        return 0
+    fi
+
+    if [[ "$SKIP_DEPLOY" = true ]]; then
+        log "WARNING" "Skipping GitHub deployment as requested."
+        return 0
+    fi
+
+    log "INFO" "Deploying to GitHub Pages..."
+
+    # Change directory to the project root
+    cd "$BASE_DIR" || error_message "Could not change to base directory."
+
+    # Check if git is initialized
+    if [ ! -d ".git" ]; then
+        log "ERROR" "Git repository not found. Cannot deploy to GitHub Pages."
+        return 1
+    fi
+
+    # Add all files to git
+    log "INFO" "Adding files to git..."
+    git add . || error_message "Git add failed."
+
+    # Commit changes
+    local commit_message="Update with latest edits (automated commit from frcmed_full_pipeline.sh)"
+    log "INFO" "Committing changes..."
+    git commit -m "$commit_message" || {
+        # If there's nothing to commit, this is not an error
+        if [[ "$?" -eq 1 && $(git status --porcelain) == "" ]]; then
+            log "WARNING" "No changes to commit. Skipping git commit."
+        else
+            error_message "Git commit failed."
+        fi
+    }
+
+    # Push to GitHub
+    log "INFO" "Pushing to GitHub..."
+    git push origin main || error_message "Git push failed."
+
+    log "SUCCESS" "Site has been deployed to GitHub Pages."
+}
+
 # Main function to run the entire preprocessing workflow
 main() {
     trap 'error_message "Script interrupted."' INT TERM
 
-    log "INFO" "Starting FRCMED preprocessing workflow v${SCRIPT_VERSION}"
+    log "INFO" "Starting FRCMED full pipeline workflow v${SCRIPT_VERSION}"
     verbose "Base directory: $BASE_DIR"
     verbose "Script directory: $SCRIPT_DIR"
 
@@ -312,13 +507,15 @@ main() {
     check_dependencies
 
     # Run the preprocessing steps
-    download_from_dropbox   # Added as the first step
+    download_from_dropbox
     convert_to_markdown
     standardize_filenames
     process_markdown
+    build_jekyll_site
+    deploy_to_github
 
     # Display summary
-    log "SUCCESS" "All preprocessing steps completed successfully."
+    log "SUCCESS" "All pipeline steps completed successfully."
     show_elapsed_time
 
     exit 0
