@@ -45,7 +45,7 @@ Today in our prayer, let us contemplate Joseph at the side of the Blessed Virgin
 
 In his Commentary on the Holy Rosary, St. Josemaría says, "How good Joseph is! He treats me like a son. He even forgives me if I take the Child in my arms and spend hour after hour saying loving things to him!" (Josemaría Escrivá, *The Holy Rosary*, Third Joyful Mystery).
 
-St. Augustine says that Joseph "not only claims the name of a father, but he has a greater claim to it than any other" (St. Augustine, *Sermon 51,26*).
+St. Augustine says that Joseph "not only claims the name of father, but he has a greater claim to it than any other" (St. Augustine, *Sermon 51,26*).
 
 "How was he a father?" he says. "All the more effectively, the more chaste the paternity. Some thought that he was the father of Our Lord Jesus Christ in the same way as other fathers, who beget sons of the flesh and do not receive them only as the fruit of a spiritual love. This is why St. Luke says: 'he was thought to be the father of Jesus' (Luke 3:23). Why only thought to be? Because thought and human judgment refer to what is usual among men. And Our Lord was not born of Joseph\'s seed. Yet of the piety and love of Joseph a son---who was the Son of God---was born to him of the Virgin Mary" (*ibid*.).
 
@@ -55,7 +55,9 @@ His was a pure, refined, and deep love. It was full of respect, with no hint of 
 
 And they had already been betrothed, which is why the angel had said: "Do not be afraid to take Mary to be your wife" (Matt. 1:20).
 
-What kind of relationship would Joseph have had with Jesus? "Joseph loved Jesus as a father loves his son and showed his love by giving him the best he had. Joseph, caring for the child as he had been commanded, made Jesus a craftsman, transmitting his own skill to him. So the neighbors in Nazareth would call Jesus both *faber* and *fabri filiu*s: the craftsman and the son of the craftsman (Mark 6:3; Matt. 13:55). Jesus worked in Joseph\'s workshop and by Joseph\'s side. What sort of a man must Joseph have been, and how must grace have been active in him, that he was able to carry out the task of bringing up the Son of God?" (J. Escrivá, *Christ Is Passing By*, Point 55).
+What kind of relationship would Joseph have had with Jesus? "Joseph loved Jesus as a father loves his son and showed his love by giving him the best he had. Joseph, caring for the child as he had been commanded, made Jesus a craftsman, transmitting his own skill to him.
+
+"So the neighbors in Nazareth would call Jesus both *faber* and *fabri filiu*s: the craftsman and the son of the craftsman (Mark 6:3; Matt. 13:55). Jesus worked in Joseph\'s workshop and by Joseph\'s side. What sort of a man must Joseph have been, and how must grace have been active in him, that he was able to carry out the task of bringing up the Son of God!" (J. Escrivá, *Christ Is Passing By*, Point 55).
 
 At Joseph\'s side, we can learn to look a little closer at the souls that God has entrusted to us---our children---to examine our conscience and see how we are fulfilling our role in transmitting virtue, in forming children along the pathway that God has called them, so that they can respond to their Christian vocation, their professional vocation, maybe, their marriage vocation, in the way that God wants, so that we keep that goal of our marriage and of our family ever present before our mind and in our prayer.
 
@@ -83,13 +85,13 @@ As parents, we can make resolutions to serve in a deeper way, to create that fam
 
 First and foremost, we have to try and live like great human beings, so that our children see what that means. We go to Joseph so that he can teach us to live side by side with Jesus and Mary.
 
-In a homily that he gave at Midnight Mass one time in 1978, John Paul II said, "Weariness fills men\'s hearts and makes them sleep, as the shepherds slept nearby in the fields of Bethlehem. What happened in that stable, in that cavern of rock, has a dimension of profound intimacy. It is something that only happens between a mother and a child about to be born. No one else is present. Even Joseph, the carpenter of Nazareth, remains outside as a silent witness. She alone is fully aware of her maternity. And only she sees the Child\'s face when he utters his first cry. The birth of Christ is, before all else, her mystery, her great day. It is the Mother's festival" (John Paul II, *Homily*, Dec. 24, 1978).
+In a homily that he gave at Midnight Mass one time in 1978, John Paul II said, "Weariness fills men\'s hearts and makes them sleep, as the shepherds slept nearby in the fields of Bethlehem. What happened in that stable, in that cavern of rock, has a dimension of profound intimacy. It is something that only happens between the Mother and the Babe about to be born. No one else is present. Even Joseph, the carpenter of Nazareth, remains outside as a silent witness. She alone is fully aware of her Motherhood. And only she sees the Child\'s face when he utters his first cry. The birth of Christ is, before all else, her mystery, her great day. It is the Mother's festival" (John Paul II, *Homily*, Dec. 24, 1978).
 
 And only she truly grasped the meaning of this mystery of Christ\'s birth and the Redemption. Between Mary and Jesus, there exists an absolutely unique and special relationship shared by no one else---not even Joseph by himself, who, in the Pope\'s words, is only "a silent witness."
 
 Joseph, full of admiration, unspeaking and respectful, contemplates the Child and His Mother. After Mary, he was the first person to see the Son of God made man. No one could have experienced more happiness than he when he took in his arms the Messiah, who in no visible way could be distinguished from any other child.
 
-Nevertheless, the mystery which Joseph contemplated imposed on him certain limits that he would never cross.
+Nevertheless, the mystery which Joseph contemplated imposed on him certain limits which he would never cross.
 
 One writer says that with Mary, it is different "because the great event concerned, above all else, the Mother and her Son. Joseph was to participate shortly afterwards, when the profound and mysterious relationship had already been established between Jesus and His Mother. Initially, Joseph\'s participation in the mystery had come about through the knowledge given him by the angel\'s revelation of the mission he was to carry out for these two exceptional people" (Federico Suarez, *Joseph of Nazareth*).
 
@@ -101,11 +103,11 @@ That same writer says, "He heard them explain to Mary about the apparition of th
 
 This just man (Matt. 1:19) continues his role as a just man and finds his fulfillment. That term, "the just man," is one of the greatest compliments that Scripture could pay to someone. It suggests somebody holy, somebody close to God, somebody virtuous.
 
-If we stay close to Joseph during these few days between now and Christmas, he will help us to contemplate this tremendous mystery of which he was a silent witness and to gaze lovingly at Mary as she holds in her arms the Son of God-made man.
+If we stay close to Joseph during these few days between now and Christmas, he will help us to contemplate this tremendous mystery of which he was a silent witness and to gaze lovingly at Mary as she holds in her arms the Son of God made man.
 
 How important it is to try and have a crib in our home where we bring small children in a regular way to contemplate this marvelous scene, so that little by little, all those messages are absorbed.
 
-John Paul II liked to say that we go "to the great spiritual mysteries through physical signs and symbols" (John Paul II, *Theology ofthe Body: Human Love in the Divine Plan*; *Catechism of the Catholic Church*, Point 1146). The figures of the crib are important signs and symbols.
+John Paul II liked to say that we go "to the great spiritual mysteries through physical signs and symbols" (John Paul II, *Theology of the Body: Human Love in the Divine Plan*; *Catechism of the Catholic Church*, Point 1146). The figures of the crib are important signs and symbols.
 
 From the very start, St. Joseph grasped the fact that his whole reason for living was this Child, precisely because He was a Child, and as such, in need of help and protection, as Mary was too, for God Himself had commissioned him to take her into his home and to give her protection.
 
@@ -117,31 +119,33 @@ Popes down through the centuries have referred to the dignity of Joseph, of how,
 
 That\'s why the Church has always paid him great tribute and been fervent in his praise, having recourse to him in times of greatest difficulty.
 
-St. Teresa of Avila called him "the Master of the interior life." How appropriate during these hours and days that we go a little closer to that Master. Take him by the hand. Ask him to lead us through these days to see things that we haven\'t seen before. He\'s our Father and Lord. He\'ll have things to point out to us. We can ask the Holy Patriarch for many things.
+St. Teresa of Ávila \[St. Josemaría\] called him "the Master of the interior life" (J. Escrivá, *The Forge*, Point 554). How appropriate during these hours and days that we go a little closer to that Master. Take him by the hand. Ask him to lead us through these days to see things that we haven\'t seen before. He\'s "our father and lord" (*ibid*., Point 553). He\'ll have things to point out to us. We can ask the Holy Patriarch for many things.
 
-Pope Benedict on one occasion said, "In these last days of Advent, the liturgy invites us to contemplate in a special way the Virgin Mary and St. Joseph, who lived with unique intensity a time of waiting and preparation for the birth of Jesus. Today I want to direct our gaze towards the figure of St. Joseph. One who gives the most importance to the adoptive father of Jesus is the Evangelist Matthew, emphasizing that thanks to him, the child was legally introduced into the lineage of David, fulfilling the Scriptures in which the Messiah was prophesied as the 'Son of David.'"
+Pope Benedict on one occasion said, "In these last days of Advent, the liturgy invites us to contemplate in a special way the Virgin Mary and St. Joseph, who lived with unique intensity a time of waiting and preparation for the birth of Jesus.
 
-"But," he says, "the role of Joseph could not be reduced to this legal aspect. He was the model of a righteous man, a just man (Matt. 1:19) who, in perfect harmony with his spouse, welcomed the Son of God-made man and watched over his human growth." (Pope Benedict XVI, *Angelus*, Dec. 18, 2005).
+"Today I want to direct our gaze towards the figure of St. Joseph. One who gives the most importance to the adoptive father of Jesus is the Evangelist Matthew, emphasizing that thanks to him, the child was legally introduced into the lineage of David, fulfilling the Scriptures in which the Messiah was prophesied as the 'Son of David.'
 
-Hence, during these days that precede Christmas, it\'s particularly fitting to establish a kind of spiritual dialogue with St. Joseph, so that he helps us live to the fullest this mystery of faith.
+"But the role of Joseph could not be reduced to this legal aspect. He was the model of a righteous man, a 'just' man (Matt. 1:19) who, in perfect harmony with his spouse, welcomed the Son of God-made man and watched over his human growth.
+
+"Hence, during these days that precede Christmas, it\'s particularly fitting to establish a kind of spiritual dialogue with St. Joseph, so that he helps us live to the fullest this mystery of faith" (Pope Benedict XVI, *Angelus*, Dec. 18, 2005).
 
 John Paul II left a wonderful meditation dedicated to St. Joseph. It\'s called *Redemptoris Custos* ("The Custodian of the Redeemer"). It\'s on the Internet---very useful reading during these days.
 
-In that document, among the many aspects that he emphasized, he dedicates particular importance to the silence of St. Joseph. The silence is permeated with the contemplation of the mystery of God, in an attitude of total availability to the divine will. Go here. Go there. Do this. Do that.
+In that document, "among the many aspects that he emphasized, he dedicates a particular importance to the silence of St. Joseph. His silence is permeated with the contemplation of the mystery of God, in an attitude of total availability to the divine will." (*ibid*.).
 
-St. Joseph, help us to have that same spirit of availability, during these days, to do whatever is necessary to be available in the home, to give that example.
+Go here. Go there. Do this. Do that. St. Joseph, help us to have that same spirit of availability, during these days, to do whatever is necessary to be available in the home, to give that example.
 
-He says, "The silence of St. Joseph does not demonstrate an empty interior, but rather the fullness of faith that he carries in his heart and that guides each of his thoughts and actions. A silence through which Joseph, together with Mary guard the word of God, known through Scripture comparing it continually to the events of the life of Jesus; a silence interwoven with constant prayer, a prayer of blessing of the Lord, of adoration of his holy will and a boundless confidence in his providence."
+He says, "The silence of St. Joseph does not demonstrate an empty interior, but rather the fullness of faith that he carries in his heart and that guides each of his thoughts and actions. A silence through which Joseph, together with Mary, guard the word of God, known through Scripture comparing it continually to the events of the life of Jesus; a silence interwoven with constant prayer, a prayer of blessing of the Lord, of adoration of his holy will and a boundless confidence in his providence."
 
-"It\'s not exaggerated," he says, "to say that Jesus will learn---on a human level---precisely from father Joseph, this intense interior life, which is the condition of authentic righteousness, the interior righteousness, which one day he will teach to his disciples."
+"It\'s not exaggerated," he says, "to say that Jesus will learn---on a human level---precisely from father Joseph, this intense interior life, which is the condition of authentic righteousness, the 'interior righteousness,' which one day he will teach to his disciples.
 
-We could allow ourselves these days to be infected by the silence of Joseph. We live in a world that may often be a bit too noisy, not as favorable to recollection as it might be, to listening to the voice of God. As we prepare for Christmas, we can try to cultivate that interior recollection for us to receive and keep the Christ Child in our lives.
+"We could allow ourselves these days to be infected by the silence of Joseph. We live in a world that may often be a bit too noisy, not as favorable to recollection as it might be, to listening to the voice of God. As we prepare for Christmas, we can try to cultivate that interior recollection for us to receive and keep the Christ Child in our lives" (*ibid*.).
 
-We keep looking at Joseph. He has so many things to tell us---a model of all the virtues. All the time, the journey to Bethlehem is moving on. It\'s a dynamic thing; it\'s changing all the time. And this just man\...with his initiative, his responsibility, and his fortitude, is solving all the problems. He\'s foreseeing them.
+We keep looking at Joseph. He has so many things to tell us---a model of all the virtues. All the time, the journey to Bethlehem is moving on. It\'s a dynamic thing; it\'s changing all the time. And this just man\...with his initiative, his responsibility, his fortitude, is solving all the problems. He\'s foreseeing them.
 
 He\'s fulfilling his role in a great way. We have so many things to learn from this great, just man. He shows great faith. He shows great hope. Great perseverance. Great fidelity.
 
-We\'re told in *The Forge,* "There are many good reasons to honor St. Joseph, and to learn from his life. He was a man of strong faith. He earned a living for his family---Jesus and Mary---with his hard work. He guarded the purity of the Blessed Virgin, who was his Spouse.
+We\'re told in *The Forge,* "There are many good reasons to honor St. Joseph, and to learn from his life. He was a man of strong faith. He earned a living for his family---Jesus and Mary---with his own hard work. He guarded the purity of the Blessed Virgin, who was his Spouse.
 
 "And he respected---he loved!---God\'s freedom. God made his choice: not only his choice of Our Lady the Virgin as his Mother, but also his choice of St. Joseph as the husband of Mary" (J. Escrivá, *The Forge*, Point 552).
 
