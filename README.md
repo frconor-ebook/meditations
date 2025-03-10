@@ -9,35 +9,41 @@ This repository is hosted remotely here: `https://github.com/frconor-ebook/medit
 
 
 
-## Quick Workflow Steps
 
-This section provides a streamlined alternative to the *Detailed Workflow* (below), consolidating multiple processing steps into an automated pipeline.
+## Quick Workflow
 
-**Step 1: Run the Preprocessing Pipeline**
+The complete workflow has been automated into a single script that handles everything from downloading files to deploying to GitHub Pages.
 
-Run the wrapper script to automatically download files from Dropbox, convert DocX to Markdown, standardize filenames, and process Markdown files:
+**Run the Full Pipeline Script**
 
 ```bash
 cd /Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations/
-./preprocess_wrapper.sh
+./frcmed_full_pipeline.sh
 ```
 
-The script will:
-- Automatically download the latest files from the designated Dropbox shared folder
-- Extract the files, replacing any existing content in the target directory
-- Remove the downloaded zip file and any macOS-specific metadata folders
-- Convert all DocX files to Markdown format
-- Standardize filenames according to the project conventions
-- Process the Markdown files to prepare them for the website
+This script will automatically:
 
-**Step 2: Build the Jekyll Site**
+1. **Preprocessing Phase**
+   - Download the latest files from the designated Dropbox shared folder
+   - Extract the files, replacing any existing content in the target directory
+   - Remove the downloaded zip file and any macOS-specific metadata folders
+   - Convert all DocX files to Markdown format
+   - Standardize filenames according to the project conventions
+   - Process the Markdown files to prepare them for the website
 
-```bash
-bundle exec jekyll clean
-bundle exec jekyll build
-```
+2. **Build Phase**
+   - Clean the Jekyll site
+   - Build the Jekyll site
 
-**Step 3: Test the Site Locally**
+3. **Deployment Phase**
+   - Commit all changes to git
+   - Push to GitHub Pages
+
+After deployment, the site will be accessible at: `https://frconor-ebook.github.io/meditations/`
+
+## Testing Locally
+
+If you want to test the site before deploying, you can use the following command after running the pipeline with the `--skip-step deploy` option:
 
 ```bash
 bundle exec jekyll serve
@@ -47,135 +53,127 @@ Open your web browser and navigate to: `http://127.0.0.1:4000/meditations/`
 
 Verify that the site is functioning correctly and that all modifications have been applied. Once testing is complete, stop the local server by pressing `Ctrl+C` in the terminal.
 
-**Step 4: Deploy to GitHub Pages**
-
-```bash
-git add .
-git commit -m "Update with latest edits" # Use a descriptive commit message
-git push origin main
-```
-
-The updated site will be automatically deployed to GitHub Pages and accessible at: `https://frconor-ebook.github.io/meditations/`
-
 ## Additional Options
 
-The `preprocess_wrapper.sh` script supports several options:
+The `frcmed_full_pipeline.sh` script supports several options:
 
 ```
 Options:
-  -v, --verbose         Enable verbose output
-  -s, --skip-step STEP  Skip specific step (download|convert|standardize|process)
-  -l, --log FILE        Write output to log file
-  -h, --help            Display help message
+  -v, --verbose           Enable verbose output
+  -s, --skip-step STEPS   Skip specific step(s) (comma-separated list)
+                          Valid steps: download,convert,standardize,process,build,deploy
+  -i, --include-step STEPS Only run specific step(s) (comma-separated list)
+                          Valid steps: download,convert,standardize,process,build,deploy
+  -l, --log FILE          Write output to log file
+  -h, --help              Display help message
 ```
 
-For example, if you've already downloaded the files and only want to run the processing steps:
+### Common Usage Examples
 
+**Skip downloading and only process existing files:**
 ```bash
-./preprocess_wrapper.sh --skip-step download
+./frcmed_full_pipeline.sh --skip-step download
 ```
 
-## Detailed Workflow Steps
-
-**1. Download and Prepare Input Files**
-
-1. Download the latest proofread Word DocX files from the designated Dropbox location.
-2. Place these downloaded files into the following directory:
-    `/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/`
-
-**2. Convert DocX to Markdown**
-
-1. Navigate to the preprocessing scripts directory:
-    ```bash
-    cd /Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations/preprocessing_scripts/
-    ```
-2. Execute the conversion script. This process may take approximately 30 minutes, as it reprocesses all DocX files to ensure all edits are captured.
-    ```bash
-    ./convert_all_to_md.sh
-    ```
-    This script generates Markdown files in:
-    `/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/transcript_proofread_markdown/`
-
-**3. Standardize Filenames**
-
-1. Ensure you are still in the preprocessing scripts directory:
-    ```bash
-    cd /Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations/preprocessing_scripts/
-    ```
-2. Run the filename standardization script:
-    ```bash
-    python standardize_filename.py
-    ```
-    This script creates standardized Markdown files in:
-    `/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/transcript_proofread_std_markdown/`
-
-**4. Process Markdown Files**
-
-1. Navigate to the main `meditations` directory:
-    ```bash
-    cd /Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations
-    ```
-2. Execute the Markdown processing script:
-    ```bash
-    python process_markdown.py
-    ```
-
-**5. Build the Jekyll Site**
-
-1. Make sure you are in the `meditations` directory:
-    ```bash
-    cd /Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations
-    ```
-2. Build the static site using Jekyll:
-    ```bash
-    bundle exec jekyll build
-    ```
-
-**6. Test the Site Locally**
-
-1. Serve the site locally for testing:
-    ```bash
-    bundle exec jekyll serve
-    ```
-2. Open your web browser and navigate to:
-    `http://127.0.0.1:4000/meditations/`
-3. Verify that the site is functioning correctly and that all modifications have been applied.
-4. Once testing is complete, stop the local server by pressing `Ctrl+C` in the terminal.
-
-**7. Deploy to GitHub Pages**
-
-1. Commit your changes to the Git repository:
-    ```bash
-    cd /Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations
-    git add .
-    git commit -m "Update with latest edits" # Use a descriptive commit message
-    git push origin main
-    ```
-2. The updated site will be automatically deployed to GitHub Pages and accessible at:
-    `https://frconor-ebook.github.io/meditations/`
-
-
-Note that Step 2 to 4 can be executed with:
-
-```
-cd /Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations/
-./preprocess_wrapper.sh
+**Process content but skip deployment (for testing):**
+```bash
+./frcmed_full_pipeline.sh --skip-step deploy
 ```
 
-### Notes
+**Skip both build and deploy steps at once:**
+```bash
+./frcmed_full_pipeline.sh --skip-step build,deploy
+```
 
-*   This workflow assumes the directory structure mentioned in the original text. Adjust the paths accordingly if your directory structure is different.
-*   The `convert_all_to_md.sh` script is designed to be thorough and thus processes all DocX files each time. This ensures that all edits are consistently applied.
-*   Ensure to regularly update the dependencies using Bundler:
-    ```bash
-    bundle update
-    ```
+**Only run specific steps:**
+```bash
+# Only download and process files
+./frcmed_full_pipeline.sh --include-step download,process
 
-### Troubleshooting
+# Only build and deploy the site
+./frcmed_full_pipeline.sh --include-step build,deploy
 
-*   If you encounter issues with Jekyll, try running `bundle add webrick` and then `bundle install` again.
-*   If you face any problem during any of the steps, please check the error message and make sure that you have followed the instruction correctly.
-*   If the problem persists, you can check the issue in this GitHub repository page or email the maintainer.
+# Only download files
+./frcmed_full_pipeline.sh --include-step download
+```
+
+**Generate detailed logs:**
+```bash
+./frcmed_full_pipeline.sh --verbose --log pipeline.log
+```
+
+## Workflow Diagram
+
+```
+┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+│  Download   │────>│   Convert   │────>│ Standardize │────>│   Process   │
+│  from       │     │   to        │     │  Filenames  │     │  Markdown   │
+│  Dropbox    │     │  Markdown   │     │             │     │             │
+└─────────────┘     └─────────────┘     └─────────────┘     └─────────────┘
+                                                                   │
+                                                                   ▼
+┌─────────────┐     ┌─────────────┐                         ┌─────────────┐
+│   Deploy    │<────│    Build    │<────────────────────────│ Preprocessing│
+│  to GitHub  │     │   Jekyll    │                         │  Complete   │
+│    Pages    │     │    Site     │                         │             │
+└─────────────┘     └─────────────┘                         └─────────────┘
+```
+
+## Step-by-Step Execution
+
+You can run each step individually using the `--include-step` option:
+
+1. **Download files from Dropbox**
+   ```bash
+   ./frcmed_full_pipeline.sh --include-step download
+   ```
+
+2. **Convert DocX to Markdown**
+   ```bash
+   ./frcmed_full_pipeline.sh --include-step convert
+   ```
+
+3. **Standardize filenames**
+   ```bash
+   ./frcmed_full_pipeline.sh --include-step standardize
+   ```
+
+4. **Process Markdown files**
+   ```bash
+   ./frcmed_full_pipeline.sh --include-step process
+   ```
+
+5. **Build Jekyll site**
+   ```bash
+   ./frcmed_full_pipeline.sh --include-step build
+   ```
+
+6. **Deploy to GitHub Pages**
+   ```bash
+   ./frcmed_full_pipeline.sh --include-step deploy
+   ```
+
+You can also combine steps as needed:
+```bash
+# Preprocess and build, but don't deploy
+./frcmed_full_pipeline.sh --include-step download,convert,standardize,process,build
+```
+
+## Troubleshooting
+
+If you encounter issues:
+
+1. Run with `--verbose` flag to see detailed logs
+2. Check the log file if you used the `--log` option
+3. Ensure all dependencies are installed (Python 3, Jekyll, Ruby, Git)
+4. Verify you have access permissions to the Dropbox folder
+5. Ensure your Git credentials are configured correctly
+
+## Notes
+
+- The `--include-step` and `--skip-step` options cannot be used together
+- Using the `--include-step` option will only run the specified steps
+- Using the `--skip-step` option will run all steps except the specified ones
 
 
 ## URL Shortening Scripts
