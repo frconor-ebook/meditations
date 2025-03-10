@@ -11,34 +11,33 @@ This repository is hosted remotely here: `https://github.com/frconor-ebook/medit
 
 ## Quick Workflow Steps
 
-This section provides a streamlined alternative to the *Detailed Workflow* (below), consolidating steps 2, 3, and 4.
+This section provides a streamlined alternative to the *Detailed Workflow* (below), consolidating multiple processing steps into an automated pipeline.
 
-**Step 1: Prepare Input Files**
+**Step 1: Run the Preprocessing Pipeline**
 
--   Download the latest `transcript_proofread_MSWord` directory (containing proofread Word DOCX files) from the designated Dropbox location.
--   Prepare Target Directory:
-    *   Navigate to the target directory: `/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/`.
-    *   **Important:** If a `transcript_proofread_MSWord` directory already exists in the target location, *delete it* before proceeding.  This ensures you are using the latest files.
--  Place Input files: Place downloaded `transcript_proofread_MSWord`directory into `/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/`
-
-
-**Step 2: Preprocess the Files**
-
-Run the wrapper script to perform the DocX to Markdown conversion, filename standardization, and Markdown processing:
+Run the wrapper script to automatically download files from Dropbox, convert DocX to Markdown, standardize filenames, and process Markdown files:
 
 ```bash
 cd /Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations/
 ./preprocess_wrapper.sh
 ```
 
-**Step 3: Build the Jekyll Site**
+The script will:
+- Automatically download the latest files from the designated Dropbox shared folder
+- Extract the files, replacing any existing content in the target directory
+- Remove the downloaded zip file and any macOS-specific metadata folders
+- Convert all DocX files to Markdown format
+- Standardize filenames according to the project conventions
+- Process the Markdown files to prepare them for the website
+
+**Step 2: Build the Jekyll Site**
 
 ```bash
 bundle exec jekyll clean
 bundle exec jekyll build
 ```
 
-**Step 4: Test the Site Locally**
+**Step 3: Test the Site Locally**
 
 ```bash
 bundle exec jekyll serve
@@ -48,7 +47,7 @@ Open your web browser and navigate to: `http://127.0.0.1:4000/meditations/`
 
 Verify that the site is functioning correctly and that all modifications have been applied. Once testing is complete, stop the local server by pressing `Ctrl+C` in the terminal.
 
-**Step 5: Deploy to GitHub Pages**
+**Step 4: Deploy to GitHub Pages**
 
 ```bash
 git add .
@@ -58,6 +57,23 @@ git push origin main
 
 The updated site will be automatically deployed to GitHub Pages and accessible at: `https://frconor-ebook.github.io/meditations/`
 
+## Additional Options
+
+The `preprocess_wrapper.sh` script supports several options:
+
+```
+Options:
+  -v, --verbose         Enable verbose output
+  -s, --skip-step STEP  Skip specific step (download|convert|standardize|process)
+  -l, --log FILE        Write output to log file
+  -h, --help            Display help message
+```
+
+For example, if you've already downloaded the files and only want to run the processing steps:
+
+```bash
+./preprocess_wrapper.sh --skip-step download
+```
 
 ## Detailed Workflow Steps
 
