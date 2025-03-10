@@ -8,18 +8,19 @@
 #
 # Options:
 #   -v, --verbose    Enable verbose output
-#   -s, --skip-step  Skip specific step (convert|standardize|process)
+#   -s, --skip-step  Skip specific step (download|convert|standardize|process)
 #   -h, --help       Display this help message
 #   -l, --log        Create a log file with detailed output
 
 # Script configuration
 set -o pipefail  # Ensure pipeline errors are caught
-SCRIPT_VERSION="1.1.0"
+SCRIPT_VERSION="1.2.0"
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 BASE_DIR="$(cd "$(dirname "$0")" && pwd)/.."
 START_TIME=$(date +%s)
 LOG_FILE=""
 VERBOSE=false
+SKIP_DOWNLOAD=false
 SKIP_CONVERT=false
 SKIP_STANDARDIZE=false
 SKIP_PROCESS=false
@@ -42,7 +43,7 @@ show_help() {
     echo
     echo "Options:"
     echo "  -v, --verbose         Enable verbose output"
-    echo "  -s, --skip-step STEP  Skip specific step (convert|standardize|process)"
+    echo "  -s, --skip-step STEP  Skip specific step (download|convert|standardize|process)"
     echo "  -l, --log FILE        Write output to log file"
     echo "  -h, --help            Display this help message"
     echo
@@ -113,6 +114,7 @@ check_dependencies() {
 
     # Check for script dependencies
     local script_deps=(
+        "$BASE_DIR/meditations/download_from_dropbox.py"
         "$BASE_DIR/meditations/preprocessing_scripts/convert_all_to_md_with_progress_parallel.sh"
         "$BASE_DIR/meditations/preprocessing_scripts/standardize_filename.py"
         "$BASE_DIR/meditations/process_markdown.py"
@@ -172,6 +174,9 @@ parse_args() {
                 ;;
             -s|--skip-step)
                 case $2 in
+                    download)
+                        SKIP_DOWNLOAD=true
+                        ;;
                     convert)
                         SKIP_CONVERT=true
                         ;;
@@ -202,6 +207,24 @@ parse_args() {
         echo "# FRCMED Preprocessing Log - $(date)" > "$LOG_FILE"
         log "INFO" "Logging to file: $LOG_FILE"
     fi
+}
+
+# Function to download files from Dropbox
+download_from_dropbox() {
+    if [[ "$SKIP_DOWNLOAD" = true ]]; then
+        log "WARNING" "Skipping Dropbox download as requested."
+        return 0
+    fi
+
+    log "INFO" "Downloading files from Dropbox..."
+
+    # Change to the meditations directory
+    cd "$BASE_DIR/meditations" || error_message "Could not change to meditations directory."
+
+    # Execute the Python download script
+    python3 download_from_dropbox.py || error_message "Failed to download files from Dropbox."
+
+    log "SUCCESS" "Files have been downloaded from Dropbox."
 }
 
 # Function to convert DocX to Markdown
@@ -289,6 +312,7 @@ main() {
     check_dependencies
 
     # Run the preprocessing steps
+    download_from_dropbox   # Added as the first step
     convert_to_markdown
     standardize_filenames
     process_markdown
