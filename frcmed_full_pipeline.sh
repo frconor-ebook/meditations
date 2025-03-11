@@ -15,9 +15,10 @@
 
 # Script configuration
 set -o pipefail  # Ensure pipeline errors are caught
-SCRIPT_VERSION="1.5.0"
+SCRIPT_VERSION="1.5.1"
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-BASE_DIR="$(cd "$(dirname "$0")" && pwd)/.."
+BASE_DIR="$SCRIPT_DIR"  # Changed: Use script directory as base directory
+PARENT_DIR="$(cd "$(dirname "$0")" && pwd)/.."
 START_TIME=$(date +%s)
 LOG_FILE=""
 VERBOSE=false
@@ -71,6 +72,7 @@ show_help() {
     echo "  $(basename "$0") --skip-step build,deploy"
     echo "  $(basename "$0") --include-step download,process"
     echo "  $(basename "$0") --include-step build,deploy"
+    echo "  $(basename "$0") -i build  # Short form for --include-step"
     echo
     echo "Note: --include-step and --skip-step cannot be used together"
 }
@@ -198,10 +200,10 @@ check_dependencies() {
 
     # Check for script dependencies
     local script_deps=(
-        "$BASE_DIR/meditations/download_from_dropbox.py"
-        "$BASE_DIR/meditations/preprocessing_scripts/convert_all_to_md_with_progress_parallel.sh"
-        "$BASE_DIR/meditations/preprocessing_scripts/standardize_filename.py"
-        "$BASE_DIR/meditations/process_markdown.py"
+        "$BASE_DIR/download_from_dropbox.py"
+        "$BASE_DIR/preprocessing_scripts/convert_all_to_md_with_progress_parallel.sh"
+        "$BASE_DIR/preprocessing_scripts/standardize_filename.py"
+        "$BASE_DIR/process_markdown.py"
     )
 
     for script in "${script_deps[@]}"; do
@@ -295,6 +297,28 @@ parse_args() {
 
                 shift 2
                 ;;
+            # Handle short form include option without parameter
+            -i*)
+                include_used=true
+                if [[ "$skip_used" = true ]]; then
+                    log "ERROR" "Cannot use --skip-step and --include-step together"
+                    show_help
+                    exit 1
+                fi
+
+                # Extract the value directly from the argument
+                local arg="${1:2}"
+
+                # Split the comma-separated list into an array
+                IFS=',' read -ra STEPS <<< "$arg"
+
+                # Process each step in the list
+                for step in "${STEPS[@]}"; do
+                    set_include_flag "$step"
+                done
+
+                shift
+                ;;
             *)
                 log "ERROR" "Unknown option: $1"
                 show_help
@@ -325,7 +349,7 @@ download_from_dropbox() {
     log "INFO" "Downloading files from Dropbox..."
 
     # Change to the meditations directory
-    cd "$BASE_DIR/meditations" || error_message "Could not change to meditations directory."
+    cd "$BASE_DIR" || error_message "Could not change to base directory."
 
     # Execute the Python download script
     python3 download_from_dropbox.py || error_message "Failed to download files from Dropbox."
@@ -348,7 +372,7 @@ convert_to_markdown() {
     log "INFO" "Converting DocX to Markdown..."
 
     # Change directory to where the conversion script is located
-    cd "$BASE_DIR/meditations/preprocessing_scripts/" || error_message "Could not change to preprocessing_scripts directory."
+    cd "$BASE_DIR/preprocessing_scripts/" || error_message "Could not change to preprocessing_scripts directory."
 
     # Check if the script exists and is executable
     if [[ ! -f "./convert_all_to_md_with_progress_parallel.sh" ]]; then
@@ -408,7 +432,7 @@ process_markdown() {
     log "INFO" "Processing Markdown files..."
 
     # Change directory to the meditations directory
-    cd "$BASE_DIR/meditations" || error_message "Could not change to meditations directory."
+    cd "$BASE_DIR" || error_message "Could not change to base directory."
 
     # Check if the script exists
     if [[ ! -f "./process_markdown.py" ]]; then
@@ -435,7 +459,7 @@ build_jekyll_site() {
 
     log "INFO" "Building Jekyll site..."
 
-    # Change directory to the project root
+    # Change directory to the base directory where Jekyll is set up
     cd "$BASE_DIR" || error_message "Could not change to base directory."
 
     # Clean the Jekyll site
@@ -463,7 +487,7 @@ deploy_to_github() {
 
     log "INFO" "Deploying to GitHub Pages..."
 
-    # Change directory to the project root
+    # Change directory to the base directory where the git repo is
     cd "$BASE_DIR" || error_message "Could not change to base directory."
 
     # Check if git is initialized
@@ -495,6 +519,28 @@ deploy_to_github() {
     log "SUCCESS" "Site has been deployed to GitHub Pages."
 }
 
+# Function to check if Jekyll can run in current directory
+check_jekyll_environment() {
+    local has_gemfile=false
+    local has_config=false
+
+    if [[ -f "Gemfile" ]]; then
+        has_gemfile=true
+        verbose "Found Gemfile in $(pwd)"
+    fi
+
+    if [[ -f "_config.yml" ]]; then
+        has_config=true
+        verbose "Found _config.yml in $(pwd)"
+    fi
+
+    if [[ "$has_gemfile" = false || "$has_config" = false ]]; then
+        log "WARNING" "Jekyll files not found in current directory. This might cause issues with build and deploy steps."
+        verbose "Gemfile found: $has_gemfile"
+        verbose "Config found: $has_config"
+    fi
+}
+
 # Main function to run the entire preprocessing workflow
 main() {
     trap 'error_message "Script interrupted."' INT TERM
@@ -502,6 +548,9 @@ main() {
     log "INFO" "Starting FRCMED full pipeline workflow v${SCRIPT_VERSION}"
     verbose "Base directory: $BASE_DIR"
     verbose "Script directory: $SCRIPT_DIR"
+
+    # Check Jekyll environment before proceeding
+    check_jekyll_environment
 
     # Check dependencies before proceeding
     check_dependencies
