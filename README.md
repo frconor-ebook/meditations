@@ -193,3 +193,47 @@ This process uses three Python scripts for URL shortening: `create_long_urls.py`
 For the complete processing, simply run `process_and_shorten.py`. This script will generate `long_urls.json` and then process and shorten the URLs accordingly.
 
 
+## Getting a Dropbox Refresh Token
+
+To obtain a Dropbox refresh token for the automatic download process, follow these steps:
+
+1. **Generate an Authorization URL**
+   ```
+   https://www.dropbox.com/oauth2/authorize?client_id=YOUR_APP_KEY&response_type=code&token_access_type=offline
+   ```
+   Replace `YOUR_APP_KEY` with your Dropbox App Key.
+
+2. **Authorize the Application**
+   - Open the URL in a web browser
+   - Log in to Dropbox if prompted
+   - Click "Allow" to authorize the application
+
+3. **Capture the Authorization Code**
+   - After authorization, Dropbox will display an authorization code on the screen
+   - This code is temporary and will expire in a few minutes
+
+4. **Exchange for a Refresh Token**
+   Run the following curl command:
+   ```bash
+   curl -X POST https://api.dropboxapi.com/oauth2/token \
+     -d code=THE_AUTHORIZATION_CODE \
+     -d grant_type=authorization_code \
+     -d client_id=YOUR_APP_KEY \
+     -d client_secret=YOUR_APP_SECRET
+   ```
+   Replace:
+   - `THE_AUTHORIZATION_CODE` with the code from step 3
+   - `YOUR_APP_KEY` with your Dropbox App Key
+   - `YOUR_APP_SECRET` with your Dropbox App Secret
+
+5. **Extract the Refresh Token**
+   - The response will be a JSON object containing both `access_token` and `refresh_token`
+   - Copy the value of `refresh_token` from the response
+
+6. **Update Your .env File**
+   Add or update the following line in your `.env` file:
+   ```
+   DROPBOX_REFRESH_TOKEN=your_refresh_token
+   ```
+
+The refresh token is long-lived and will be used automatically by the script to obtain new access tokens when they expire. You typically only need to perform this process once unless you revoke the token or reset your app's permissions.
