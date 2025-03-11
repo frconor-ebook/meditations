@@ -3,13 +3,89 @@ import shutil
 import zipfile
 
 import dropbox
+from dotenv import load_dotenv
+from dropbox import DropboxOAuth2FlowNoRedirect
 
 
-def download_shared_folder_as_zip(access_token, shared_link, local_zip_path):
+def get_dropbox_client():
+    """
+    Get a Dropbox client with proper OAuth2 handling
+    This handles token refreshing more gracefully
+    """
+    load_dotenv()  # Load environment variables
+
+    # Try to get the access token from environment
+    access_token = os.environ.get("DROPBOX_ACCESS_TOKEN")
+    app_key = os.environ.get("DROPBOX_APP_KEY")
+    app_secret = os.environ.get("DROPBOX_APP_SECRET")
+    refresh_token = os.environ.get("DROPBOX_REFRESH_TOKEN")
+
+    # If we have a refresh token, use that to get a new access token
+    if refresh_token and app_key and app_secret:
+        try:
+            # Initialize the client with the refresh token
+            dbx = dropbox.Dropbox(
+                app_key=app_key,
+                app_secret=app_secret,
+                oauth2_refresh_token=refresh_token,
+            )
+            # Test the connection (will auto-refresh if needed)
+            dbx.users_get_current_account()
+            print("Successfully authenticated using refresh token")
+            return dbx
+        except Exception as e:
+            print(f"Error using refresh token: {e}")
+            # Fall through to try access token or manual flow
+
+    # If we have an access token, try using it directly
+    if access_token:
+        try:
+            dbx = dropbox.Dropbox(access_token)
+            # Test the connection
+            dbx.users_get_current_account()
+            print("Successfully authenticated using access token")
+            return dbx
+        except dropbox.exceptions.AuthError as e:
+            print(f"Access token invalid or expired: {e}")
+            # Fall through to manual flow
+
+    # If we got here, we need to perform the OAuth flow manually
+    if not app_key or not app_secret:
+        raise ValueError(
+            "App key and secret required for OAuth flow. Set DROPBOX_APP_KEY and DROPBOX_APP_SECRET environment variables."
+        )
+
+    # Start the OAuth flow
+    flow = DropboxOAuth2FlowNoRedirect(app_key, app_secret)
+    authorize_url = flow.start()
+
+    print("1. Go to: " + authorize_url)
+    print("2. Click 'Allow' (you might have to log in first).")
+    print("3. Copy the authorization code.")
+    auth_code = input("Enter the authorization code here: ").strip()
+
+    try:
+        # This will get both access token and refresh token
+        oauth_result = flow.finish(auth_code)
+        access_token = oauth_result.access_token
+        refresh_token = oauth_result.refresh_token
+
+        # Save the tokens to environment file for next time
+        with open(".env", "a") as f:
+            f.write(f"\nDROPBOX_ACCESS_TOKEN={access_token}")
+            f.write(f"\nDROPBOX_REFRESH_TOKEN={refresh_token}")
+
+        print("Successfully saved new tokens to .env file")
+
+        # Return a new client with the access token
+        return dropbox.Dropbox(access_token)
+
+    except Exception as e:
+        raise ValueError(f"Error completing OAuth flow: {e}")
+
+
+def download_shared_folder_as_zip(dbx, shared_link, local_zip_path):
     """Download a shared folder as a zip file"""
-    print(f"Connecting to Dropbox API...")
-    dbx = dropbox.Dropbox(access_token)
-
     try:
         # Get shared folder metadata to find its path
         print(f"Getting metadata for shared link: {shared_link}")
@@ -87,13 +163,16 @@ def unzip_and_cleanup(zip_file_path, extract_to):
         return False
 
 
-def download_and_process_dropbox_folder(access_token, shared_link, target_directory):
+def download_and_process_dropbox_folder(shared_link, target_directory):
     """Complete workflow: download as zip, unzip, and clean up"""
+    # Get authenticated client
+    dbx = get_dropbox_client()
+
     # Determine the zip file path
     zip_path = os.path.join(target_directory, "downloaded.zip")
 
     # Step 1: Download the folder as a zip
-    if download_shared_folder_as_zip(access_token, shared_link, zip_path):
+    if download_shared_folder_as_zip(dbx, shared_link, zip_path):
         # Step 2: Unzip and clean up
         unzip_and_cleanup(zip_path, target_directory)
         return True
@@ -102,13 +181,19 @@ def download_and_process_dropbox_folder(access_token, shared_link, target_direct
 
 # Main execution
 if __name__ == "__main__":
-    # First, get a direct access token from your app console
-    # Go to https://www.dropbox.com/developers/apps
-    # Select your app, then generate an access token
-    access_token = "sl.u.AFlv8oDdz4r_Fp1yF0jIiGeYEKLGirDq3UgOPiRUHEEE2LyVwMdXpHvSC-ne4o9jG3uT8l4EmJIKrrjw4XIUgXQV2XOdJ8t--8GXEJNKpFpj29Nf0V6k5oiO6to_FuOez96MzUL2rwwsPUPasQgnAAr4Cqn82QnG01HnlC5h16-4McJ7FYWWY1Jq7_CjCLYjNDjiaa0ZNl_QV5-pPbLSNpaOqt54_n0_vD8RDDTsFPQyqR_uY6CHZTUvOps1Ezyofw3kwAMXdPUR9jTciEWRkcYkewj1W_IaR4qk1fiRMYUWUYy5vZpUp12VAXasIlSRmQt0zxhJRaZ75RhnhpNwT3whOiQn-7gdWouCxA-e2S-rmBDQeeMl35HlF_1s2yhZfJBS1Stxbm_ir3H83f4U_jmcf-B38Iw47wiPQXOJcNDdBf9oqh6VYEYbbbGvsFoPuTDoKvyUtJDubWi5zY_zRKzAeKMmqf3v3Pqz0YV_g3Jj27dMuo-igCNNvKvMVz0uXz_obQrnoQGmPkohp_MI2E4LpD3h1xJJNaenuiKhKECAzn8WXJBVqEY493C8uWz4tdON_8QjTIL1-HLrZ-119GQEt6KzjSgkzig4ZxmqeZR_FsL4nU00RATfm7rZpZN2s3Vseo1WTVb5_oUIO-WrSIzalXEy2wv7PYbWyZ8ggrx1odOdc8I2Y1XF7dzpWBLOD5PZVy77QWURuvxVlITjgdPdeFJDlrKTSIxYRhK63kTvtJuU2dXgF0Z9l36f649vhmq9VoS9vJckmdBB0F_aUqxKuiLBSqJZp5yr7qb5naslM0uHbYu553n_dKMjB9gtzClv-PnEp18gHLcB5XaLiuus68jywXLnvwPzwuOxeoVvIZXrlT8PGIUn5c42ezEgZe5YVm7WKT7_0Y5jEHYIDw6ir1V6dLT50Kb6-RtAz1uH8L-9NLqSUXfnWkgKm5zRclsHRzqQK7nnp4iFzCVMB706BZuVPy6Taa-ZlD1pqGMfN9Q9Bil3DNWxXYNF4gmDMQvHS-Y9WOJnomYDip0GdXqaQ9zF2PpFqJuQHjQtL7j0saLGDMG97kUekVqbvYEvz7ZnenVVKDn9SZU3ux5n5Hi64qpWGlDobzXRQi8nGup9VZvWfKpgzsSADXPLzKhUbzsKlgnIoutXNcjXJp-zNLG63shfbDekEAZRvsjrGP1eSZdphQhIQUtSoVPvPGVs-IxfpUvMWEtWqUDcqyZwVbcxyQsbevCZVHegqJfgYUiX9lVghcK_0ioV_yjcBjk7p6XwADz384zhsmk36VKHZZu7"
+    # Load environment variables from .env file
+    load_dotenv()
 
-    shared_link = "https://www.dropbox.com/scl/fo/9os4f3413gzmj9v1t6mnr/h?rlkey=mrx4znkgvmqnmo4jd9vyetow0&st=jhb9agq2&dl=0"
+    # Get shared link from environment variables
+    shared_link = os.environ.get("DROPBOX_SHARED_LINK")
+
+    if not shared_link:
+        print("Error: DROPBOX_SHARED_LINK not found in environment variables")
+        # Fall back to hardcoded link if needed
+        shared_link = "https://www.dropbox.com/scl/fo/9os4f3413gzmj9v1t6mnr/h?rlkey=mrx4znkgvmqnmo4jd9vyetow0&st=jhb9agq2&dl=0"
+        print(f"Using default shared link: {shared_link}")
+
     target_directory = "/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web"
 
     # Run the complete workflow
-    download_and_process_dropbox_folder(access_token, shared_link, target_directory)
+    download_and_process_dropbox_folder(shared_link, target_directory)

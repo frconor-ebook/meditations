@@ -107,7 +107,7 @@ All the more reason, when he says to you, "Obey", then you will become clean. Al
 
 You have to look and see: What are the simple things that I\'m being asked to do every day? Try and do them with more love and more care, more presence of God, more perfection.
 
-When St. Josemaría was passing people who were doing a painting job, in a room someplace, he would say, "*Cada pincelada un acto de amor*." Each stroke of the brush, an act of love.
+When St. Josemaría was passing people who were doing a painting job, in a room someplace, he would say, "*Cada pincelada es un acto de amor*." Each stroke of the brush, an act of love.
 
 If we take care of the small things, the big things will take care of themselves. We take care of the minutes, the hours will take care of themselves.
 
@@ -201,7 +201,7 @@ All this is very good example, and good example attracts.
 
 Our Lord wants all of us to give good example. In fulfilling those details of our spirit, that\'s where God\'s grace will help us to a maximum degree. That\'s why He\'s called us to live this particular spirit in this particular way.
 
-Sometimes St. Josemaria would ask people when he met them in Cordoba, *Que piensas*? What are you thinking about? Where is your mind? Where is your heart?
+Sometimes St. Josemaría would ask people when he met them in Cordoba, *Que piensas*? What are you thinking about? Where is your mind? Where is your heart?
 
 Our mind might be far away. We might be dreaming of winning a Hollywood Oscar or something. God wants our minds to be on the things we have in front of us. This ordinary little duty is there for us to do.
 
@@ -281,7 +281,7 @@ I\'ve seen a gathering of three or four people in the living room, starting a pr
 
 What is God asking of me in this particular moment?
 
-He says in *The Forge*, "You must instill in all souls the heroism of doing the little things of each day perfectly, as if the salvation of the world depended on each one of those actions" (J. Escrivá, *The Forge*, 85)
+He says in *The Forge*, "You must instill in all souls the heroism of doing the little things of each day perfectly, as if the salvation of the world depended on each one of those actions" (J. Escrivá, *The Forge*, 85).
 
 "The heroism of doing the little things of each day perfectly." This is the heroism that God asks of us, the heroism that He wants us to transmit to every child in the school, to every mother, to every father, to every family.
 
