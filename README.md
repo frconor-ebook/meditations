@@ -25,6 +25,7 @@ This script will automatically:
 
 1. **Preprocessing Phase**
    - Download the latest files from the designated Dropbox shared folder
+   - **Note: You may occasionally need to authenticate by copying and pasting an authorization code when prompted. This happens when the Dropbox access token expires (typically every few days), which is a security feature of the Dropbox API.**
    - Extract the files, replacing any existing content in the target directory
    - Remove the downloaded zip file and any macOS-specific metadata folders
    - Convert all DocX files to Markdown format
