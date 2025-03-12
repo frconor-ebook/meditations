@@ -7,6 +7,56 @@ from dotenv import load_dotenv
 from dropbox import DropboxOAuth2FlowNoRedirect
 
 
+def update_env_file(access_token, refresh_token):
+    """
+    Update .env file with new tokens, replacing existing values if present
+    """
+    # Load current environment variables
+    load_dotenv()
+
+    # Read the current .env file
+    env_lines = []
+    try:
+        if os.path.exists(".env"):
+            with open(".env", "r") as f:
+                env_lines = f.readlines()
+    except Exception as e:
+        print(f"Warning: Could not read .env file: {e}")
+        env_lines = []
+
+    # Process existing lines, removing the tokens we want to update
+    new_lines = []
+    access_token_found = False
+    refresh_token_found = False
+
+    for line in env_lines:
+        line = line.strip()
+        if line.startswith("DROPBOX_ACCESS_TOKEN="):
+            if not access_token_found:
+                new_lines.append(f"DROPBOX_ACCESS_TOKEN={access_token}")
+                access_token_found = True
+            # Skip this line (prevents duplicates)
+        elif line.startswith("DROPBOX_REFRESH_TOKEN="):
+            if not refresh_token_found:
+                new_lines.append(f"DROPBOX_REFRESH_TOKEN={refresh_token}")
+                refresh_token_found = True
+            # Skip this line (prevents duplicates)
+        elif line:  # Only keep non-empty lines
+            new_lines.append(line)
+
+    # Add tokens if they weren't in the file
+    if not access_token_found:
+        new_lines.append(f"DROPBOX_ACCESS_TOKEN={access_token}")
+    if not refresh_token_found:
+        new_lines.append(f"DROPBOX_REFRESH_TOKEN={refresh_token}")
+
+    # Write the updated content back to .env
+    with open(".env", "w") as f:
+        f.write("\n".join(new_lines))
+
+    print("Updated .env file with new tokens")
+
+
 def get_dropbox_client():
     """
     Get a Dropbox client with proper OAuth2 handling
@@ -70,10 +120,19 @@ def get_dropbox_client():
         access_token = oauth_result.access_token
         refresh_token = oauth_result.refresh_token
 
-        # Save the tokens to environment file for next time
-        with open(".env", "a") as f:
-            f.write(f"\nDROPBOX_ACCESS_TOKEN={access_token}")
-            f.write(f"\nDROPBOX_REFRESH_TOKEN={refresh_token}")
+        # Check if we actually got a refresh token
+        if not refresh_token:
+            print("WARNING: No refresh token received from Dropbox.")
+            print("Make sure your app has the 'offline access' permission")
+            print("In the Dropbox App Console, check:")
+            print("  - Under 'Permissions' tab, you have the necessary scopes")
+            print(
+                "  - Under 'Settings' tab, Access token expiration is set to 'Expiring access token'"
+            )
+            print("  - OAuth 2 allows 'offline access' (refresh token)")
+
+        # Save tokens properly, replacing any existing ones
+        update_env_file(access_token, refresh_token or "")
 
         print("Successfully saved new tokens to .env file")
 
