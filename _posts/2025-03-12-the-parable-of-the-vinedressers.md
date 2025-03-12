@@ -21,7 +21,7 @@ In this parable of the vinedressers, Our Lord sums up the whole history of salva
 
 He compares Israel to a choice vineyard which God surrounds with a hedge and furnishes with a winepress. He builds a watchtower in which He places a guard to protect the vineyard from thieves and wild animals.
 
-God did not fail to provide all the means possible for caring for the vineyard of His heart---His people---as had already been prophesied.
+God did not fail to provide all the means possible for caring for the vineyard of His heart---His people---as had already been prophesied (Isa. 5:1-7).
 
 The vinedressers in the parable are the leaders of the people of Israel; the owner is God, and the vineyard is Israel, the people of God.
 
@@ -49,13 +49,13 @@ Our Lord makes Himself the keystone which is the foundation and support of the w
 
 The cornerstone affects the whole construction, our whole life---business affairs, interests, loves, time. Nothing is beyond the scope of what faith demands in the life of a Christian.
 
-We are not disciples of Christ for a number of predetermined hours (for example, when we pray, or when we take part in some religious service, or just on special days).
+We are not disciples of Christ for a number of predetermined hours (for example, when we pray, or when we take part in some religious service) or just on special days.
 
-The profound unity of life that being a Christian demands causes absolutely everything in our lives to be affected by the fact that we are followers of Christ. At the same time, this does not prevent things retaining their own nature.
+The profound *unity of life* that being a Christian demands causes absolutely everything in our lives to be affected by the fact that we are followers of Christ. At the same time, this does not prevent things retaining their own nature.
 
 Following Christ influences the very core of our personality.
 
-When someone is in love, this fact influences their whole view of things and events, however trivial they might appear. That person is influenced by it as they walk along the street, when they are at work, in their attitude towards social relationships---and not only when they are in the company of the person that they love.
+When someone is in love, this fact influences their whole view of things and events, however trivial they might appear. Each person is influenced by it as they walk along the street, when they are at work, in their attitude towards social relationships---and not only when they are in the company of the person that they love.
 
 Being a Christian is the most important characteristic of our existence, and it has to have incomparably more influence on our lives than even human love has on the most ardent of lovers.
 
@@ -69,9 +69,9 @@ It is Christ who gives meaning to the way His followers think and live.
 
 Our faith in Him gives us light by which to recognize the true reality of things and of events.
 
-It would not make sense if we were to set aside the supervening and determining fact that we are Christians whenever we have to judge a work of art or a political program, whenever we have to carry out some business deal or plan our holidays.
+And so, it would not make sense if we were to set aside the supervening and determining fact that we are Christians whenever we have to judge a work of art or a political program, whenever we have to carry out some business deal or plan our holidays.
 
-Although Christ respects the autonomy of each discipline, the laws proper to each field of action and the broad freedom allowed to him in everything that is a matter of opinion, the faithful follower of Christ does not consider any matter at all in only one of its aspects---whether that aspect be, for example, economic, say, or artistic or cinematographic.
+Although \[the faithful follower of Christ\] respects the autonomy of each discipline, the laws proper to each field of action and the broad freedom allowed to him in everything that is a matter of opinion, he does not consider any matter at all in only one of its aspects---whether that aspect be, for example, economic, say, or artistic, or cinematographic.
 
 He does not simply accept that particular undertakings or projects are good without taking a broader view of them.
 
@@ -101,11 +101,11 @@ In this way, we will never think of our faith as a limiting factor: 'I can't do 
 
 Rather it will be a light that enables us to recognize the reality of things and events, without ever forgetting that the devil will try to make an ally of human ignorance---which cannot see the complete reality contained in this literary work or in that doctrine---and of the pride and concupiscence that all of us drag along behind us.
 
-Christ is the crucible that assays the gold that there is in all human things.
+Christ is the crucible that assays the gold that there is in human things.
 
 Anything that does not stand up to the testing clarity of His teaching is a lie and deceptive, even though it may be adorned with the appearance of some attractive good or perfection.
 
-If we make use of this criterion that this *unity of life* gives us---that of being and at all times knowing ourselves to be faithful disciples of Our Lord---we will be able to gather together many of the good things that men, who have been guided by right human criteria, have done and thought, and place them at the feet of Christ.
+If we make use of the criterion that this *unity of life* gives us---that of being and at all times knowing ourselves to be faithful disciples of Our Lord---we will be able to gather together many of the good things that men, who have been guided by right human criteria, have done and thought, and place them at the feet of Christ.
 
 Without the light of faith, we would, as often as not, fail to detect and see through the rottenness by which we were at first deceived, since many such works do indeed possess some streak of goodness or of beauty.
 
@@ -113,13 +113,13 @@ If we want to have well-formed standards by which to discriminate and judge, whi
 
 This explains why very ordinary simple people, plain folk of scant learning and perhaps with few natural talents, but possessed of a deep Christian faith, can have excellent criteria which enable them to form wise assessments of the various things that happen; whereas others, perhaps more highly cultured or even with far greater intellectual capacity, sometimes show a lamentable absence of sound judgment and make serious mistakes in the most elementary matters.
 
-Unity of life, a habitually Christian way of life, enables us to judge with certainty, and to discover the true human value of things. Thus, we will sanctify all noble human realities and take them to Christ.
+*Unity of life*, a habitually Christian way of life, enables us to judge with certainty, and to discover the true human value of things. Thus, we will sanctify all noble human realities and take them to Christ.
 
 We can ask ourselves: In every situation, do I live in a way that is consistent with my faith and with my Christian vocation? When I make a decision, however large or small, do I keep in mind above all else what it is God wants of me?
 
 We can try to see in which specific points God is asking us to behave in a more decisively Christian way.
 
-A Christian, who has built his life upon the cornerstone who is Christ, has his own personality, has his own way of seeing the world and its happenings.
+A Christian who has built his life upon the cornerstone, who is Christ, has his own personality, has his own way of seeing the world and its happenings.
 
 He has his own scale of values in relation to the world. He has a scale of values very different to that of a pagan, who does not live by faith and who has a purely worldly conception of things.
 
@@ -143,11 +143,11 @@ We should not be worried about getting a bad press from this world, or too worri
 
 We are here to leave a legacy, to blaze a trail, to stand up for what is right, to live by our values.
 
-A Christian has always to remember that they are the leaven (cf. Matt. 13:33) hidden in the lump of dough that has to be fermented by them.
+A Christian has always to remember that they are the leaven (*cf*. Matt. 13:33) hidden in the lump of dough that has to be fermented by them.
 
 God is the light that shines on all created reality and reveals the truth hidden within it. He is the lighthouse whose beacon-beam directs navigators on whichever sea they steer their course.
 
-The Second Vatican Council says, "The Church\...believes that the key, the center, and the purpose of the whole of man\'s history is to be found in its Lord and Master" (cf. Vatican II, *Gaudium et spes*, Point 10, December 7, 1965).
+The Second Vatican Council says, "The Church\...believes that the key, the center, and the purpose of the whole of man\'s history is to be found in its Lord and Master" (*cf*. Vatican II, *Gaudium et spes*, Point 10, December 7, 1965).
 
 Twenty or thirty years ago, in the country in the world that had the lowest maternal mortality rate---which is the mortality rate for women in pregnancy from any cause---was Ireland.
 
