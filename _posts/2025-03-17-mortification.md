@@ -41,7 +41,7 @@ We\'ve come to the Work to die to ourselves, to forget about ourselves, to be th
 
 We could ask Our Lord in our prayer: What little mortifications should I be practicing? Or talk about it in our chat.
 
-How do we practice this spirit of small mortifications? And the important thing is not just the dying to ourselves; not just the sacrifice.
+How do we practice this spirit of small mortifications? And the important thing is not just the dying to ourselves, not just the sacrifice.
 
 It\'s the love with which we do it. It\'s all about love. It\'s saying no to our body in order to say yes to our soul. God wants us to live that spirit all throughout our life.
 
@@ -51,11 +51,11 @@ We were having lunch, and after lunch we had coffee, and I asked him if he wante
 
 He said, "No, thanks, I\'m off it for Lent." Okay, that was a very nice thing to say, but I couldn\'t help thinking that at 82, he was still living a practice of Lent. I was very edified.
 
-The spirit of mortification in small things was very much alive. We live this spirit not just for now, not when we\'re young, but always, so that sort of mortification is in everything we do.
+The spirit of mortification in small things was very much alive. We live this spirit not just for now, not when we\'re young, but always, so that that sort of mortification is in everything we do.
 
 Sometimes the world gets a bit scandalized by sacrifice or by mortification, but it\'s a funny thing, because all the greatest athletes in the world undergo an enormous amount of self-denial.
 
-If you look at Eliud Kipchoge, who broke the record for the marathon recently, probably, we only see him in the last hundred meters of the race, breaking the record in all the glory that\'s there.
+If you look at Eliud Kipchoge, who broke the record for the marathon recently, probably, we only see him in the last hundred meters of the race, breaking the record, and all the glory that\'s there.
 
 We don\'t see him running over the hills of Eldoret at five o\'clock in the morning when it\'s raining, or keeping on running and going uphill when he doesn\'t feel like it.
 

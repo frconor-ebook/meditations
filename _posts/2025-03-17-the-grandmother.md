@@ -27,7 +27,7 @@ Then a few minutes later, Don Fernando was looking for something in his bag, and
 
 The comment that Don Joaquin said was, *La Abuela nunca me falla*. The Grandmother never lets me down. Lo and behold, there the glasses had appeared. Don Javier was obviously enjoying himself telling the story at the expense of Don Joaquin.
 
-But of course, at the bottom of the story, there was this profound devotion to the Grandmother---for all the little things of each day that can go wrong, the little thing that we laugh at, the little thing we can\'t find, the thing we want to click in this particular moment, and maybe it doesn\'t.
+But of course, at the bottom of the story, there was this profound devotion to the Grandmother---for all the little things of each day that can go wrong, the little thing that we've lost, the little thing we can\'t find, the thing we want to click in this particular moment and maybe it doesn\'t.
 
 Like all grandparents, she\'s a bit in the background. Often, grandparents will give their grandchildren little things that their own parents won\'t give them. Their hearts are moved in a special way, they have a special sensitivity, they understand their grandchildren a little more, they want to reach out to them, they have a little more time for their grandchildren perhaps, than others, because they\'re not short of time, etc.
 
@@ -47,7 +47,7 @@ The Grandmother knuckled down with Aunt Carmen and brought everything forward in
 
 It\'s interesting how our Father gave the indication that we should try and have all of the machines that we could possibly have to do the work that has to be done, maybe because he already saw what not having those machines meant for his mother and for his sister.
 
-All through the writings of our Father and of Don Alvaro and of Don Javier, we see a great tone of gratitude. We\'ve been formed in the idea that we have a great debt of gratitude to what the Grandmother did. She gave our family its human tone.
+All through the writings of our Father and of Don Álvaro and of Don Javier, we see a great tone of gratitude. We\'ve been formed in the idea that we have a great debt of gratitude to what the Grandmother did. She gave our family its human tone.
 
 We have high standards in our family. She set those standards. God used the family tone of the family of the Escrivás Balaguer to shape the whole family life and the family tone of Opus Dei.
 
@@ -55,13 +55,11 @@ In our professional work of caring, we are very particularly called to continue 
 
 We are the recipients of a treasure. We can ask Our Lord that we would take care of that treasure, because it\'s something beautiful, something divinely inspired. It\'s a good realization to have that it can be lost.
 
-In the book *The Ratzinger Report* of 1986, Cardinal Ratzinger tells a story of how he was talking to an elderly monk in a monastery, who talked about the changes that had taken place in that monastery over a couple of years.
+Cardinal Ratzinger once shared an anecdote of how he was talking to an elderly monk in a monastery, who talked about the changes that had taken place in that monastery over a couple of years.
 
-He said, Before the Second Vatican Council and the changes that came about, we used to get up at three in the morning to pray the Breviary. This had been going on for centuries, ever since our monastic foundation was brought about, maybe ten centuries ago. This was a custom that was built up over centuries.
+The monk said, "Before the Second Vatican Council and the changes that came about, we used to get up at three in the morning to pray the Breviary. This had been going on for centuries, ever since our monastic foundation was brought about, maybe ten centuries ago. This was a custom that was built up over centuries.
 
-Then we were told: That\'s all past, that's old-fashioned, we don\'t need to get up in the middle of the night anymore. We stopped getting up in the middle of the night in order to pray the Breviary. Now, he said, we stay up until the middle of the night, watching Manchester United.
-
-In just one sentence, Cardinal Ratzinger described the 180-degree change that had come about in that particular organization. They had lost a treasure. They had lost something that had been built up over centuries.
+"Then we were told: That\'s all past, that's old-fashioned, we don\'t need to get up in the middle of the night anymore. We stopped getting up in the middle of the night in order to pray the Breviary. Now," he said, "we stay up until the middle of the night, watching Manchester United."
 
 There\'s sort of a lesson for us here. Every small thing that we have been taught, every little detail that God has gone to great trouble to help us to know and to see its importance down in the history of the Work, through the work of the Grandmother and Aunt Carmen, is something that we have to perpetuate, to personify, to transmit to further generations.
 
@@ -119,9 +117,9 @@ Part of that family tone is the human and supernatural affection that we try to 
 
 Our Father said, "I love all of you because I see in your veins the Blood of Christ." Even if, at times things on the human plane might be difficult or challenging, we bring things on to a supernatural plane, then things look better, or easier.
 
-At the Priestly Prayer of Our Lord at the Last Supper, He prays not only for the apostles, but He prays, "That they may be one, as the Father and him are one."
+At the Priestly Prayer of Our Lord at the Last Supper, He prays not only for the apostles, but He prays, "That they may be one, as the Father and him are one" (*cf*. John 17:21).
 
-As the Grandmother looks down from heaven, she must be very happy when she sees the care we take of things, the material things; when we live out that truth of "something divine hidden in every human thing" (cf. Josemaría Escrivá, *Conversations*, Point 114).
+As the Grandmother looks down from heaven, she must be very happy when she sees the care we take of things, the material things; when we live out that truth of "something divine hidden in every human thing" (*cf*. Josemaría Escrivá, *Conversations*, Point 114).
 
 She must be particularly happy when she sees that family tone in our spirit, in our affection, in our kindness, in our patience, in our charity. She receives the hundredfold.
 
@@ -131,7 +129,7 @@ But we could also say the same about the Grandmother. Every time we put somethin
 
 Every time the Grandmother sees us doing something like that, she also must have a wonderful glow in heaven. Pride and joy must move her heart. God must lift her higher in heaven, because we\'re living the spirit that she made every effort to inculcate in each one of us.
 
-Our Lord prayed "that they might be one." The first thing we have to do is prayer. Charity first and foremost involves prayer. It helps us to love with the heart of Christ, to realize that God is love. Love is divine. The underlying message from the life of dedication of the Grandmother is that "God is love" (1 John 4:8) and He wants us to put that love into practice in concrete ways.
+Our Lord prayed that "they might be one" (*cf*. John 17:21). The first thing we have to do is prayer. Charity first and foremost involves prayer. It helps us to love with the heart of Christ, to realize that God is love. Love is divine. The underlying message from the life of dedication of the Grandmother is that "God is love" (1 John 4:8) and He wants us to put that love into practice in concrete ways.
 
 Our Lord shows us that at the Last Supper, when speaking about charity, He washes the feet of the apostles, including that of Judas: "If I, the Master and Lord, have done these things to you, so do you, do this to others" (John 13:14).
 
@@ -141,7 +139,7 @@ When the Grandmother and Carmen were fulfilling their work, they were serving ev
 
 We can ask her to help us in knowing a little better the people that God has placed around us, in knowing how to be smart. Affection is smart. Charity finds a way. Love is very inventive, it\'s dynamic, it has initiative. Love leads us to solve problems. It opens our eyes to understand.
 
-The people that Carmen and our Grandmother were caring for must have had a special antenna. When somebody was a bit sick or needed something special, they'd think a little bit out of the box.
+The people Aunt Carmen and our Grandmother were caring for must have had a special antenna. When somebody was a bit sick or needed something special, they'd think a little bit out of the box.
 
 We hear stories of people who came to Rome many years later who perhaps were sick and they were trying to find a solution to help them to be better. Our Father suggested to some sister of ours who might have been from that particular part of the world who knew some special dish that that person might like. That sister of ours was able to make that dish, and that person became much better very fast.
 
@@ -149,7 +147,7 @@ It\'s as though our Father knew that little trick that he must have learned from
 
 Love is not blind, we\'re told. It\'s bound, and the more bound, the less blind. Our Father has told us how people respond to affection. Our Father had a horror that we might live like strangers.
 
-*Frater qui adiuvatur a fratre quasi civitas firma..* A sister who is helped by a sister, or a brother who is helped by a brother, is like a strong-walled fortress.
+*Frater qui adiuvatur a fratre quasi civitas firma.* A sister who is helped by a sister, or a brother who is helped by a brother, is like a strong-walled fortress.
 
 Our Father formed us so that that grandmotherly affection might be there in the heart of each one of us to understand, to go out of our way, to have an extreme refinement in our dealings, in our conversations, in our familiarity, in our ways of doing things, in our ways of speaking, in details of human manners.
 
