@@ -3,8 +3,6 @@ layout: homily
 title: "The Grandmother"
 ---
 
-The Grandmother
-
 By Fr. Conor Donnelly
 
 (*Proofread*)
