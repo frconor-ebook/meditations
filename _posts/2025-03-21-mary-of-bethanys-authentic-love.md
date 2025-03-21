@@ -61,7 +61,7 @@ These were the words of Judas: "Why was this ointment not sold for three hundred
 
 The important significance of the gesture of Mary that\'s going to last for the whole of eternity---this is expressed to a large extent in the Altars of Repose all over the world; where the church and parishioners, with their flowers, with their attention, with their candles, with their presence, try to take care of the body of Jesus, learning from the gesture of Mary of Bethany.
 
-But all of this passes Judas by. Then we\'re told in the next sentence: "He said this, not because he cared for the poor" (John 12:6). It\'s interesting how St. John is so clear in his condemnation of Judas. He doesn\'t mince his words. "He doesn\'t care for the poor."
+But all of this passes Judas by. Then we\'re told in the next sentence: "He said this, not because he cared for the poor..." (John 12:6). It\'s interesting how St. John is so clear in his condemnation of Judas. He doesn\'t mince his words. "He doesn\'t care for the poor."
 
 If there\'s one basic message that Christ came to teach all His followers, it\'s to care for the poor, to be concerned about the less privileged. "Whenever you did it to one of these least of my brethren, you did it to me" (Matt. 25:40).
 
