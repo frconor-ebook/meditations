@@ -35,13 +35,11 @@ This is "the fullness of time." It\'s one of the greatest moments in the whole o
 
 A kindergarten teacher was teaching her class one time, some little girls, preparing them for First Holy Communion. She explained what was going to happen on their First Communion Day, and also explained to them a feast on that particular week, which was the Feast of the Annunciation. She told them how the angel Gabriel came down to visit Our Lady, and then baby Jesus began to grow inside Our Lady. He grew and grew and grew, and nine months later, on the 25th of December, He was born.
 
-Tthe following week, the teacher asked these little girls what was going to happen on their First Communion Day. One little girl said: "I\'m going to receive Jesus beside me."
+The following week, the teacher asked these little girls what was going to happen on their First Communion Day. One little girl said: "I\'m going to receive Jesus beside me."
 
 The teacher said: "Beside you? Why not within you?"
 
-And she said: "Well, I don\'t want Him to grow and grow and grow."
-
-So the teacher had to explain that that only happened with Our Lady.
+And she said: "Well, I don\'t want Him to grow and grow and grow." So the teacher had to explain that that only happened with Our Lady.
 
 When we receive Jesus, we receive Him spiritually, sacramentally, really, truly, and substantially, but not physically. And so, "the Word became flesh" (John 1:14).
 
@@ -49,11 +47,11 @@ At that particular moment, when Our Lady said yes, initially she didn\'t underst
 
 All the saints down through history have suggested this was an expression of the purity of Our Lady---again, a model of modesty and purity and chastity for us.
 
-"The angel answered: 'The Holy Spirit will come upon you and the power of the Most High will overshadow you. For the child will be holy and will be called the Son of God. I tell you this too, your cousin Elizabeth, also in her old age, has conceived a son, and she whom people call barren is now in her sixth month. For nothing is impossible to God'" (Luke 1:35-37).
+"The angel answered: 'The Holy Spirit will come upon you and the power of the Most High will overshadow you. For the child will be holy and will be called the Son of God. And I tell you this too: your cousin Elizabeth also, in her old age, has conceived a son, and she whom people call barren is now in her sixth month, for nothing is impossible to God'" (Luke 1:35-37).
 
 Mary is the recipient of a Trinitarian revelation: "The Holy Spirit will come down upon you and the power of the Most High will overshadow you. The child will be holy and will be called the Son of God."
 
-Mary is being invited to be the Container of the Uncontainable, as Cardinal Pell has recently described her in his recent book. She\'s been given a great challenge, a great calling, but something that is a bit mysterious, the consequences of which she can\'t possibly fully grasp, like any one of us with our vocation.
+Mary is being invited to be "the Container of the Uncontainable," as Cardinal Pell has recently described her in his recent book (George Cardinal Pell, *Prison Journal, Volume 1*). She\'s been given a great challenge, a great calling, but something that is a bit mysterious, the consequences of which she can\'t possibly fully grasp, like any one of us with our vocation.
 
 Somebody told me once that following a vocation is like jumping off a cliff. When you look with a human perspective, from the cliff edge you see the waves down below crashing against the rocks.
 
@@ -61,25 +59,25 @@ Maybe there\'s a wind that blows in there from the ocean, goes upwards and can l
 
 But he said, "Our Lady is standing six meters out from the edge of the cliff. She has her arms open and she\'s saying: 'Jump, jump into my arms!'"
 
-Following a vocation is like jumping off a cliff, leaving the terra firma, the firm, solid land and clay that\'s under our feet, and launching ourselves out into the unknown. But Our Lady is there to catch us.
+Following a vocation is like jumping off a cliff, leaving the *terra firma*, the firm, solid land and clay that\'s under our feet, and launching ourselves out into the unknown. But Our Lady is there to catch us.
 
-Her vocation is a model for all vocations. It\'s a story of calling, a story of beauty, of purity, of faith, of generosity, of humility---where God wants us to react like she did and say yes, and to realize that nothing is impossible with God.
+Her vocation is a model for all vocations. It\'s a story of calling, a story of beauty, of purity, of faith, of generosity, of humility---where God wants us to react like she did and say "yes," and to realize that "nothing is impossible with God" (Luke 1:37).
 
 All the things that might seem so challenging, all the difficulties, can get blown away in a second.
 
 St. Paul tells us as Eve was the mother of all humanity (Gen. 3:20), doomed to sin (Rom. 5:12), so now Mary becomes the mother of the new Adam (1 Cor. 15:45) who will be the father of a new humanity by His grace (Rom. 5:15).
 
-"God spoke to man down through the ages through the Old Testament. He revealed himself to man and now God becomes man" (cf. Heb. 1:1-2).
+"God spoke to man down through the ages through the Old Testament. He revealed himself to man and now God becomes man" (*cf*. Heb. 1:1-2).
 
-Revelation becomes personified in the person of Christ through Mary. This child to be conceived in her womb is the fulfillment of all God\'s promises. He will be "great" and will be the "Son of the Most High: and "King" and His name shall be called "Jesus" (Luke 1:31-32), which means "the Lord saves" because "He will save his people from their sins" (Matt. 1:21).
+Revelation becomes personified in the person of Christ through Mary. This child to be conceived in her womb is the fulfillment of all God\'s promises. He will be "great" and will be the "Son of the Most High" and "King" and His name shall be called "Jesus" (Luke 1:31-32), which means "the Lord saves" because "He will save his people from their sins" (Matt. 1:21).
 
 The promise of an everlasting kingdom in the house of David is fulfilled in the King to be born in Mary\'s womb. Mary realizes she\'s hearing something beyond her capability. It will surely take a miracle that surpasses all that God has done previously.
 
-Our Lady is left wondering, "How can this be, since I know not man?" She is not doubtful or skeptical. She\'s just trying to find out a little bit more, trying to understand this great mystery that God has placed before her.
+Our Lady is left wondering, "How can this be, since I know not man?" (Luke 1:34). She is not doubtful or skeptical. She\'s just trying to find out a little bit more, trying to understand this great mystery that God has placed before her.
 
-And then we have the response of Our Lady: "Behold the handmaid of the Lord, be it done to me according to your word."
+And then we have the response of Our Lady: "Behold the handmaid of the Lord! Be it done to me according to your word" (Luke 1:38).
 
-Our Lady is a true hearer of the Word. She immediately responds with faith and trust. We\'re told later that she kept all these things carefully in her heart (Luke 2:19, 51).
+Our Lady is a true hearer of the Word. She immediately responds with faith and trust. We\'re told later that she "kept all these things carefully in her heart" (*cf*. Luke 2:19, 51).
 
 In the moment that God speaks to us in our life, we also have to keep those words carefully in our heart, to remember the moment when God lit the candle of our vocation in our heart, a new light in our life that helps us to understand the meaning and the purpose of what our whole existence is about.
 
@@ -97,7 +95,7 @@ If you look at the history of the Church down through history, you find that peo
 
 They\'ve "launched out into the deep" (Luke 5:4) to do all sorts of wonderful things, especially in education and health care, to build up a civilization of love in so many countries of the world, to bring the message of the Gospel to those places, to people who otherwise might never have heard it---and all of this, in the face of what might seem to be insurmountable difficulties.
 
-"Let us recall," he says, "the cry of St. Josemaría: 'What is needed today are people of faith.' He calls your attention to it, and my attention also. He expressly demands it from each one of us when difficulties grow to be enormous, when we lower our sights, when human considerations, often artful considerations, make us turn back and seem to force us into reasoning with purely worldly logic.
+"Let us recall," he says, "the cry of St. Josemaría: 'What is needed today are people of faith' (Josemaría Escrivá, *The Way*, Point 586). He calls your attention to it, and my attention also. He expressly demands it from each one of us when difficulties grow to be enormous, when we lower our sights, when human considerations, often artful considerations, make us turn back and seem to force us into reasoning with purely worldly logic.
 
 "Though apparently coherent, this logic is born of our love of comfort and responds to the cries of the old person who resists facing God because to live in this way would make them see clearly the need to cut the fine threads or the heavy cables that try to shackle us to the mirages of earthly existence.
 
@@ -119,13 +117,13 @@ One day the little girl piped up and says: "And will you receive Mary also?" The
 
 One time she met St. Josemaría and put that question to him. She said, "Father, what will I tell my daughter?"
 
-He thought for a moment, because he wasn\'t often asked that type of question, and he said: "In a way, yes. You can tell her that you\'re also going to receive Mary, because the blood of Christ before was the blood of Mary. You won\'t find that in any theology textbook, but it\'s a very nice, pietistic thought and one full of faith, and very true at the same time."
+He thought for a moment, because he wasn\'t often asked that type of question, and he said: "In a way, yes. You can tell her that you\'re also going to receive Mary, because the blood of Christ before was the blood of Mary."
 
-Unity between the two. Mary gave Jesus her blood.
+You won\'t find that in any theology textbook, but it\'s a very nice, pietistic thought and one full of faith, and very true at the same time. Unity between the two. Mary gave Jesus her blood.
 
-When we pray the Creed every Sunday, the Nicene Creed that dates from the year 315---it's seventeen centuries old, that prayer---we state our Confession of Faith in this great mystery:
+When we pray the Creed every Sunday, the Nicene Creed that dates from the year 325---it's seventeen centuries old, that prayer---we state our Confession of Faith in this great mystery:
 
-"For us men and for our salvation, he came down from heaven. By the power of the Holy Spirit he became incarnate of the Virgin Mary, and was made man."
+"For us men and for our salvation, he came down from heaven. By the power of the Holy Spirit, he became incarnate of the Virgin Mary, and was made man."
 
 God gives us His grace. He expects us to respond with the same willingness, obedience and heartfelt trust as Mary did.
 
@@ -133,15 +131,15 @@ When God commands, He also gives the help, the strength, and the means to respon
 
 But we\'re also free. We can yield to His grace, or we can resist and go our own way. We can ask Our Lady for that grace to correspond like she did.
 
-Pope St. John Paul, in an Apostolic Letter called *The Dignity of Women*, says: "The sending of this Son, one in substance with the Father, as a man 'born of woman', constitutes the culminating and definitive point of God\'s self-revelation to humanity. \... A woman is found to be at the center of this salvific event" (John Paul II, *Mulieris Dignitatem*, August 15, 1988).
+Pope St. John Paul, in an Apostolic Letter called *The Dignity of Women*, says: "The sending of this Son, one in substance with the Father, as a man 'born of woman,' constitutes the culminating and definitive point of God\'s self-revelation to humanity. \... A woman is found to be at the center of this salvific event" (John Paul II, Apostolic Letter, *Mulieris Dignitatem*, August 15, 1988).
 
 It\'s interesting how Pope St. John Paul points out the central role of women. In many ways, the Church is always lifting up women, talking about the key role they have in the whole message of salvation.
 
-He said: "Do we not find in the Annunciation at Nazareth the beginning of that definitive answer by which God himself attempts to calm people\'s hearts? It is not just a matter here of God\'s words revealed through the Prophets; rather, with this response 'the Word is truly made flesh' (cf. John 1:14).
+He said: "Do we not find in the Annunciation at Nazareth the beginning of that definitive answer by which God himself attempts to calm people\'s hearts? It is not just a matter here of God\'s words revealed through the Prophets; rather, with this response 'the Word is truly made flesh' (*cf*. John 1:14).
 
 "Hence, Mary attains a union with God that exceeds all the expectations of the human spirit. It even exceeds the expectations of all Israel, in particular the daughters of this Chosen People, who, on the basis of the promise, could hope that one of their number would one day become the mother of the Messiah. Who among them\...could have imagined that the promised Messiah would be 'the Son of the Most High'?
 
-"On the basis of the Old Testament\'s monotheistic faith, such a thing was difficult to imagine. Only by the power of the Holy Spirit, who 'overshadowed' her, was Mary able to accept what is 'impossible with men, but not with God'" (cf. Mark 10:27).
+"On the basis of the Old Testament\'s monotheistic faith such a thing was difficult to imagine. Only by the power of the Holy Spirit, who 'overshadowed' her, was Mary able to accept what is 'impossible with men, but not with God'" (*cf*. Mark 10:27).
 
 St. John Paul says, "The 'fullness of time' manifests the extraordinary dignity of the woman." He liked to say that Our Lady was God\'s first Opus Dei in the order of creation.
 
@@ -151,11 +149,9 @@ St. John Paul says, "The 'fullness of time' manifests the extraordinary dignity 
 
 All these truths of our faith---very clear, very true, very ancient.
 
-"In the expression 'handmaid of the Lord' one can sense Mary\'s complete awareness of being a creature of God."
+"In the expression 'handmaid of the Lord,' one can sense Mary\'s complete awareness of being a creature of God. The word 'handmaid,' near the end of the Annunciation dialogue, is inscribed throughout the whole history of the Mother and the Son. In fact, this Son, who is the true and consubstantial 'Son of the Most High,' will often say of himself, especially at the culminating moment of his mission: 'The Son of Man came not to be served, but to serve'" (Mark 10:45).
 
-He says, "The word 'handmaid', near the end of the Annunciation dialogue, is inscribed throughout the whole history of the Mother and the Son. In fact, this Son, who is the true and consubstantial 'Son of the Most High', will often say of himself, especially at the culminating moment of his mission: 'The Son of Man came not to be served, but to serve'" (Mark 10:45).
-
-This moment of the Incarnation and the Annunciation is the starting point of our divinization. We\'re not mere passive bystanders at the Incarnation, but rather, by becoming "partakers of His divine nature" (2 Pet. 1:4), we may work with Christ to rebuild the world for the glory of the Father.
+This moment of the Incarnation and the Annunciation is the starting point of our divinization. We\'re not mere passive bystanders at the Incarnation, but rather, by becoming "partakers of his divine nature" (2 Pet. 1:4), we may work with Christ to rebuild the world for the glory of the Father.
 
 Some spiritual writers have liked to say that Mary is "like the dawn." She heralds the coming of the "Sun of Justice" (Mal. 4:2). She did not just receive the light of God, but she received God Himself, and that\'s why she shines so much. She gave birth to the Light.
 
@@ -165,27 +161,25 @@ We can celebrate this day as a day of great joy and perhaps imagine the scene th
 
 "Without God\'s help,\" we\'re told in *The Forge*, "it is impossible to live a clean life. God wants us to be humble, and to ask him for his help through our Mother, who is his Mother.
 
-"You should say to Our Lady, right now, speaking without the sound of words, from the accompanied solitude of your heart: 'O, my Mother, sometimes this poor heart of mine rebels. \... But if you help me\...' ---She will indeed help you to keep it clean and to follow the way God has called you to pursue. The Virgin Mary will always make it easier for you to fulfill the will of God" (Josemaría Escrivá, *The Forge,* Point 315).
+"You should say to Our Lady, right now, speaking without the sound of words, from the accompanied solitude of your heart: 'O, my Mother, sometimes this poor heart of mine rebels. \... But if you help me\...' ---She will indeed help you to keep it clean and to follow the way God has called you to pursue. The Virgin Mary will always make it easier for you to fulfill the will of God" (J. Escrivá, *The Forge,* Point 315).
 
-He says in the *Furrow* (Point 481)*,* "The scene of the Annunciation is a very lovely one. How often we have meditated on this! Mary is recollected in prayer. She is using all her senses and her faculties to speak to God. It is in prayer that she comes to know the divine will. And with prayer she makes it the life of her life. Do not forget the example of the Virgin Mary."
+He says in the *Furrow* (Point 481)*,* "The scene of the Annunciation is a very lovely one. How often we have meditated on this! Mary is recollected in prayer. She is using all her senses and her faculties to speak to God. It is in prayer that she comes to know the divine Will. And with prayer she makes it the life of her life. Do not forget the example of the Virgin Mary."
 
-If we are trying to discern our own vocation, like Our Lady, we need to withdraw to prayer. That\'s where we will come to know the divine will. She gives us great example.
+If we are trying to discern our own vocation, like Our Lady, we need to withdraw to prayer. That\'s where we will come to know the divine Will. She gives us great example.
 
-We\'re told in *The Forge* (Point 527), "We have to love the Blessed Virgin Mary more. We will never love her enough! ---Love her a lot! It shouldn\'t be enough for you to put pictures of her, and greet them, and say aspirations. You should learn to offer her, in your strenuous life, some small sacrifice each day, to show her your love, to show her the kind of love that we want the whole human race to proclaim her."
+We\'re told in *The Forge* (Point 527), "We have to love the Blessed Virgin Mary more. We will never love her enough! ---Love her a lot! It shouldn\'t be enough for you to put pictures of her, and greet them, and say aspirations. You should learn to offer her, in your strenuous life, some small sacrifice each day, to show her your love, to show her the kind of love that we want the whole human race to proclaim for her."
 
 "I have come to see," he says, "that every Hail Mary, every greeting to Our Lady, is a new beat of a heart in love" (J. Escrivá, *The Forge*, Point 615).
 
-Today is a day to pray our Rosary with great piety and devotion, to thank Our Lady for all the joy that comes to our life in her and through her; to thank her for being our Mother, perhaps for showing us the pathway of our life and asking her that she might continue to show us that pathway from now to eternity.
+Today is a day to pray our Rosary with great piety and devotion, to thank Our Lady for all the joy that comes to our life in her and through her; to thank her for being Our Mother, perhaps for showing us the pathway of our life and asking her that she might continue to show us that pathway from now to eternity.
 
 She can also be a model of femininity for us. What did Mary\'s freedom stand for? Fulton Sheen likes to say it stood for life, for marriage, for the family. She was poor, she was pregnant, she was unmarried. But yet it stood for all those things. This is Christian femininity.
 
-Alice von Hildebrand said, "Women have the key to the future because they are the guardians of purity."
+Alice von Hildebrand said, "Women have the key \[to the future\] because they are the guardians of purity. This is already clearly indicated by the structure of their bodies, which chastely hides their intimate organs. Because their organs are 'veiled,' indicating their mystery and sacredness, women have the immense privilege of sharing the sex of the blessed one: Mary, the most holy of all creatures."
 
-She said, "This is already clearly indicated by the structure of their bodies, which chastely hides their intimate organs. Because their organs are 'veiled,' indicating their mystery and sacredness, women have the immense privilege of sharing the sex of the blessed one: Mary, the most holy of all creatures."
+She says radical feminism "began in Protestant countries for the plain reason that they had turned their backs on Christ\'s Mother, as if the Savior of the world would feel deprived of the honor given to his Blessed Mother.
 
-She says radical feminism "began in Protestant countries for the plain reason that they had turned their backs on Christ\'s Mother, as if the Savior of the world would feel deprived of the honor given to His Blessed Mother.
-
-"Mary---so gloriously referred to in the Apocalypse---is the model of women. It is by turning to her, praying to her, and contemplating her virtues that women will find their way back to the beauty and dignity of their mission (Zenit News, Interview with Alice von Hildebrand on *The Privilege of Being a Woman*, Nov. 26, 2003).
+"Mary---so gloriously referred to in the Apocalypse---is the model of women. It is by turning to her, praying to her, and contemplating her virtues that women will find their way back to the beauty and dignity of their mission" (Zenit News, Interview with Alice von Hildebrand on *The Privilege of Being a Woman*, Nov. 26, 2003).
 
 With the Church we can say today, "Hail Mary, full of grace, the Lord is with you."
 
