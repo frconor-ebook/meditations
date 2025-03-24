@@ -69,7 +69,11 @@ convert_file() {
     fi
 
     # Update job count atomically
-    local count=$(cat "$job_count_file")
+    local count=$(cat "$job_count_file" 2>/dev/null || echo "1")
+    # Ensure it's numeric
+    if [[ ! "$count" =~ ^[0-9]+$ ]]; then
+        count=1
+    fi
     echo $((count - 1)) > "$job_count_file"
 }
 
@@ -79,8 +83,8 @@ completed=0
 # Function to update progress display
 update_progress() {
     # Count successful and failed conversions
-    local success_count=$(ls "$STATUS_DIR"/*.success 2>/dev/null | wc -l | tr -d ' ')
-    local error_count=$(ls "$STATUS_DIR"/*.error 2>/dev/null | wc -l | tr -d ' ')
+    local success_count=$(ls "$STATUS_DIR"/*.success 2>/dev/null | wc -l | tr -d ' ' || echo 0)
+    local error_count=$(ls "$STATUS_DIR"/*.error 2>/dev/null | wc -l | tr -d ' ' || echo 0)
     local current_completed=$((success_count + error_count))
 
     # Update the display if the count has changed
@@ -104,11 +108,20 @@ update_progress() {
 # Process files in parallel
 for i in "${!all_files[@]}"; do
     # Wait if we've reached the maximum number of background jobs
-    current_jobs=$(cat "$job_count_file")
-    while [ "$current_jobs" -ge $MAX_JOBS ]; do
+    current_jobs=$(cat "$job_count_file" 2>/dev/null || echo "0")
+    # Ensure it's numeric
+    if [[ ! "$current_jobs" =~ ^[0-9]+$ ]]; then
+        current_jobs=0
+    fi
+
+    while [ $current_jobs -ge $MAX_JOBS ]; do
         update_progress
         sleep 0.1
-        current_jobs=$(cat "$job_count_file")
+        current_jobs=$(cat "$job_count_file" 2>/dev/null || echo "0")
+        # Ensure it's numeric
+        if [[ ! "$current_jobs" =~ ^[0-9]+$ ]]; then
+            current_jobs=0
+        fi
     done
 
     # Increment job count
@@ -131,14 +144,41 @@ echo "Waiting for remaining jobs to complete..."
 timeout_counter=0
 max_timeout=60 # 60 seconds max wait
 
-while [ "$(cat "$job_count_file")" -gt 0 ] && [ $timeout_counter -lt $max_timeout ]; do
+while [ $timeout_counter -lt $max_timeout ]; do
+    # Read the count safely with a default value if empty
+    count=$(cat "$job_count_file" 2>/dev/null || echo "0")
+    # Ensure count is numeric
+    if [[ ! "$count" =~ ^[0-9]+$ ]]; then
+        count=0
+    fi
+
+    # Count successful and failed conversions
+    success_count=$(ls "$STATUS_DIR"/*.success 2>/dev/null | wc -l | tr -d ' ' || echo 0)
+    error_count=$(ls "$STATUS_DIR"/*.error 2>/dev/null | wc -l | tr -d ' ' || echo 0)
+    current_completed=$((success_count + error_count))
+
+    # Check if all files have been processed regardless of job count
+    if [ $current_completed -ge $total ]; then
+        # All files processed, we can exit the loop
+        break
+    fi
+
+    # Check if job count shows we're done
+    if [ $count -le 0 ]; then
+        break
+    fi
+
     update_progress
     sleep 1
     timeout_counter=$((timeout_counter + 1))
 done
 
-# Handle timeout
-if [ $timeout_counter -ge $max_timeout ]; then
+# Only show timeout warning if we actually have incomplete conversions
+success_count=$(ls "$STATUS_DIR"/*.success 2>/dev/null | wc -l | tr -d ' ' || echo 0)
+error_count=$(ls "$STATUS_DIR"/*.error 2>/dev/null | wc -l | tr -d ' ' || echo 0)
+current_completed=$((success_count + error_count))
+
+if [ $timeout_counter -ge $max_timeout ] && [ $current_completed -lt $total ]; then
     echo "Timeout reached. Some jobs may not have completed."
     # Force terminate any remaining background processes
     pkill -P $$ 2>/dev/null || true
