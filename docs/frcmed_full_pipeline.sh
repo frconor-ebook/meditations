@@ -15,7 +15,7 @@
 
 # Script configuration
 set -o pipefail  # Ensure pipeline errors are caught
-SCRIPT_VERSION="1.5.1"
+SCRIPT_VERSION="1.5.2"
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 BASE_DIR="$SCRIPT_DIR"  # Changed: Use script directory as base directory
 PARENT_DIR="$(cd "$(dirname "$0")" && pwd)/.."
@@ -348,7 +348,7 @@ download_from_dropbox() {
 
     log "INFO" "Downloading files from Dropbox..."
 
-    # Change to the meditations directory
+    # Change to the base directory
     cd "$BASE_DIR" || error_message "Could not change to base directory."
 
     # Execute the Python download script
@@ -406,13 +406,17 @@ standardize_filenames() {
 
     log "INFO" "Standardizing filenames..."
 
-    # We're already in the preprocessing_scripts directory from the previous step
+    # Always change to the preprocessing_scripts directory
+    # This ensures we're in the right place regardless of whether previous steps were run
+    cd "$BASE_DIR/preprocessing_scripts/" || error_message "Could not change to preprocessing_scripts directory."
+
+    # Check if the script exists
     if [[ ! -f "./standardize_filename.py" ]]; then
         error_message "Standardization script not found: standardize_filename.py"
     fi
 
     # Execute the Python script
-    python standardize_filename.py || error_message "Filename standardization failed."
+    python3 standardize_filename.py || error_message "Filename standardization failed."
 
     log "SUCCESS" "Filenames have been standardized."
 }
@@ -431,7 +435,7 @@ process_markdown() {
 
     log "INFO" "Processing Markdown files..."
 
-    # Change directory to the meditations directory
+    # Always change to the base directory
     cd "$BASE_DIR" || error_message "Could not change to base directory."
 
     # Check if the script exists
@@ -440,7 +444,7 @@ process_markdown() {
     fi
 
     # Execute the Python script
-    python process_markdown.py || error_message "Markdown processing failed."
+    python3 process_markdown.py || error_message "Markdown processing failed."
 
     log "SUCCESS" "Markdown files have been processed."
 }
