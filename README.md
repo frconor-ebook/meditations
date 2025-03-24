@@ -21,6 +21,8 @@ cd /Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations/
 ./frcmed_full_pipeline.sh
 ```
 
+For best results, run `./frcmed_full_pipeline.sh` in your system's native terminal application (Terminal.app) rather than the integrated terminal inside Visual Studio Code, as some file path resolutions and environment settings may work more reliably in the native terminal environment.
+
 This script will automatically:
 
 1. **Preprocessing Phase**
