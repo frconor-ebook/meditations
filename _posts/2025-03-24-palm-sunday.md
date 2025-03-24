@@ -1,0 +1,206 @@
+---
+layout: homily
+title: "Palm Sunday"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"When they were near Jerusalem and had come to Bethphage on the Mount of Olives, then Jesus sent two disciples, saying to them, 'Go to the village facing you, and you will at once find a tethered donkey, and a colt with her. Untie them and bring them to me. If anyone says anything to you, you are to say, "The Master needs them," and will send them back at once." (Matt. 21:1-3).
+
+At the start of this procession into Jerusalem, Our Lord gives the apostles a command, a rather strange one: \"Go and get this donkey that\'s tethered there, and if anyone says anything to you, just tell them this." And the apostles go with faith, and they fulfill to the letter exactly what Our Lord had told them.
+
+"This was to fulfill what was spoken by the prophet: 'Say to the daughter of Zion: Look, your king is approaching, humble and riding on a donkey, and on a colt, the foal of a beast of burden' (Zech. 9:9). So, the disciples went and did as Jesus had told them. (Matt. 21:3-6).
+
+In the one sentence we find the king is mentioned, but then we see that a donkey is mentioned: "Our king comes humble and riding on a donkey." Christ had humbled Himself in Bethlehem. And now at the end of His life, as He approaches Jerusalem, He\'s also humbling Himself.
+
+We\'re told by St. Paul that He emptied Himself (Phil. 2:7) and ultimately, on the Cross, Christ is going to empty Himself. All throughout His life, we see this message of humility.
+
+"Learn from me, for I am meek and humble of heart" (Matt.11:29).
+
+Arriving on a donkey is very graphic. It\'s not what you expect from a king. You\'d expect something different. But Our Lord chooses this beast of burden in a very special way.
+
+So, the disciples went. "They brought the donkey and the colt. Then they laid their cloaks on their backs, and he took his seat on them. Great crowds of people spread their cloaks on the road\..." (Matt. 21: 7-8a).
+
+Our Lord is still attracting great crowds at the beginning of Holy Week. But in just a few days\' time, the atmosphere is going to change dramatically.
+
+"\...while others were cutting branches from the trees and spreading them in his path. The crowds who went in front of him and those who followed were all shouting: 'Hosanna to the Son of David! Blessed is he who is coming in the name of the Lord! Hosanna in the highest heavens!" (Matt. 21:8b-9).
+
+Our Lord is acclaimed as a king, even though He\'s riding on a donkey.
+
+Many years ago in Singapore, the first local archbishop was appointed and there was a big Mass in a big indoor stadium with 20,000 people. When he went up onto the stage where the altar was, there was a loud applause. He turned around to the crowd and said: "Well, that applause was not for me; that was for Jesus."
+
+Because if the donkey, on the way into Jerusalem, when he saw the acclaim of the people, things they were saying, the palm branches, the cloaks, if the donkey pricked up his ears and thought to himself: 'Recognition at last! Finally, people realize who I am'---the donkey would have been very much mistaken.
+
+We\'re all a bit like that donkey. We all have to learn the lessons of humility. Sometimes we have to take humiliations as the means that God gives us to grow in this key virtue. Virtue that is the basis of our charity.
+
+As we approach Holy Week, it\'s one of the petitions we could make of Our Lord, that we might learn from His humility, as He has truly asked us to.
+
+"When he entered Jerusalem, the whole city was in turmoil as people asked, 'Who is this?' And the crowds answered, 'This is the prophet Jesus from Nazareth in Galilee'" (Matt. 21:10-11).
+
+Externally, Our Lord gets a tumultuous welcome; but beneath the surface, there\'s a lot of things happening. There\'s an atmosphere of betrayal, of hatred, of envy, of jealousy, of bitterness, and Our Lord in His heart of hearts knows what\'s happening beneath the surface.
+
+As our Holy Week begins with this majestic entrance into Jerusalem, which connects the foretelling of Our Lord\'s triumph and proclamation of the Passion---the commemoration of the entrance of Our Lord into Jerusalem and the church---it is celebrated with a solemn procession to commemorate that song and gesture in which the crowds sang Hosanna.
+
+Often we\'re encouraged to carry the palm branches, and the priests and the ministers also carry the branches and go before the people. The branches are blessed before they\'re carried in the procession, and people are encouraged to take the palm branches home, where they serve throughout the year as a reminder of the victory of Christ, which is celebrated in the procession.
+
+In this triumphal entry, we have a king, we have a donkey, but we also have humility. We have a king who\'s as meek as a lamb---a lamb that is being led to the slaughter.
+
+At the beginning of Holy Week we look forward to what\'s coming. The Easter Triduum of the Passion and Resurrection of Christ is the peak of the liturgical year. The Solemnity of Easter has the same kind of importance in the liturgical year that Sunday has in the week, in the normal week.
+
+One thing in our families could be to think about how I can get across the message of Easter to my children. We make a lot of fuss about Christmas. There\'s a lot of material things through which the message of Christmas flows---cribs and trees and carols and lights, etc. etc.
+
+Easter doesn\'t have so many things. In some ways, it\'s more spiritual. But look for material things that you can do, or try and expose your children to the ceremonies of Holy Week, even briefly, so that Holy Week is marked in a special way or that your children get a certain sense of what Good Friday is and what Holy Thursday is, and ultimately, what Easter Sunday is.
+
+The Easter Triduum is going to begin with the Evening Mass of the Lord\'s Supper on Holy Thursday. It includes Good Friday and reaches its high point in the Easter Vigil. There are many rich liturgical details in those ceremonies. Often we go to the great spiritual messages through physical signs and symbols (cf. *Catechism of the Catholic Church*, Point 1146).
+
+On Good Friday evening we\'re going to find the tabernacle is empty. It\'s a good thing to point out to your children the emptiness of the tabernacle. It signifies the dead Christ; He\'s in the tomb. These material gestures speak to us about the deeper messages.
+
+During Holy Saturday, the Church is keeping watch before the mother of all Vigils, when we commemorate Christ\'s Resurrection and celebrate it in the sacraments.
+
+Easter Sunday then of the Lord\'s Resurrection closes the Triduum and the joyful season of Easter begins which goes on until Pentecost Sunday.
+
+Today we begin Holy Week, which is the most important week liturgically of the whole year because we celebrate the central events of our salvation. The Church calls us to live this period, or to relive it, accompanying Our Lord in the scenes that the liturgy places before our eyes.
+
+These are very good days and hours to enter into the Gospel scenes, do our prayer in these scenes. St. Josemaría used to say: I ask God for the grace that we may all be more deeply amazed as we contemplate these mysteries."
+
+Every year there are new graces for us to see new aspects, discover new lights. We see Our Lord\'s triumphal entrance into Jerusalem and it\'s easy to walk alongside Our Lord on His frequent comings and goings from Bethany to Jerusalem and Jerusalem to Bethany.
+
+We\'re called to walk closely with Him or to stop and to contemplate the hours that He spends in the temple, trying to win over the scribes and the Pharisees who in these moments are scheming only to destroy Him. The atmosphere of betrayal and hatred and cunning is all over the place.
+
+But Our Lord doesn\'t take into account the apparent failure of His invitations to conversion. He\'s going to reach out to them, even to the last moment. "This day you will be with me in paradise" (Luke 23:43).
+
+It\'s a reminder to us not to bother about the apparent failures in our apostolate, but to keep sowing seeds. Right up to our dying moment in this world we have to live as apostles.
+
+We see all this in the scenes of Golgotha. Christ hopes that souls will open themselves to grace and thus receive salvation. He teaches us to be insistent in our personal apostolat Even though at times we don\'t see results, the fruits will come.
+
+Just before the Passion, Our Lord relates a parable that reflects in a special way His zeal for souls that consumes Him. It\'s the parable of the king who gave a marriage feast for his son and has sent his servants to call those who were invited to the marriage feast. But they would not come.
+
+It\'s easy to imagine the longing in Christ\'s most loving heart as He spoke those words and we could be struck by His insistence. "I have made ready my dinner; my oxen and my fat calves have been killed. Everything is ready. Come to the marriage feast" (Matt. 22:1-4),
+
+The same thing happens today. But if we truly strive to identify ourselves with Christ, to be other Christs, then that life of Christ will be reproduced in us.
+
+We\'re told in the *Furrow*: "The scene of the parable is being repeated. Many people are invited to the wedding feast. Some are afraid, others have their own concerns, many make up stories or give silly excuses. They put up resistance. That is why they feel the way they do: fed up, all in a muddle, listless, bored, bitter. And yet how easy it is to accept the divine invitation at every moment, and live a happy life, full of joy!" (Josemaría Escrivá, *Furrow,* Point 67).
+
+Our reaction has to be not to let up, but to grow in our dedication to the apostolate, fully convinced that no effort is ever lost in spite of human resistance.
+
+These weeks we could focus a little bit on our apostolate of Confession, perhaps reminding our family members about the sacrament, encouraging neighbors or friends, or facilitating it in all sorts of ways.
+
+Last year around this time, the Pope recalled that for a fruitful celebration of Easter, the Church asked the faithful in these days to receive the Sacrament of Penance, which is like a sort of death and resurrection for each one of us.
+
+Let us be reconciled by Christ to enjoy more intensely the joy that He communicates with His Resurrection. We have great things to offer to people, to help them to be a little bit more spiritual.
+
+Often the feast days of Good Friday, of Holy Saturday---they have a certain message in themselves. There may be souls who have been away from the sacraments for years that can be touched by the grace of these days.
+
+We can ask Our Lord also to help us to place ourselves fully in the liturgical ceremonies.
+
+Pope Benedict said: "\...especially in the liturgy of the Eucharist, we are given a real foretaste of the eschatological fulfillment for which every human being and all creation are destined (cf. Rom. 8:19ff). Man is created for that true and eternal happiness which only God\'s love can give" (Pope Benedict XVI, *Apostolic Exhortation,* *Sacramentum caritatis,* Feb. 22, 2007).
+
+Holy Week and Easter have their own message for people. Often they just need a little tap on the shoulder or a little invitation to bring them to the sacraments or to focus a little more on their soul.
+
+Our wounded freedom would go astray if we weren\'t able to experience something of that future fulfillment, the eternal wedding feast. To move forward in the right direction, we all need to be guided towards our final goal, and that goal is Christ Himself, the Lord who conquered sin and death and who makes Himself present to us in a special way in the Eucharistic celebration.
+
+We approach this Holy Week with great hopes, petitions, that we might make a jump in quality in our spiritual life. We pray for the Church, for the Holy Father, for all the burdens that may lie on his shoulder.
+
+We look forward to this rich part, the second part of the week, the heart of the liturgical year where we\'ll have the Mass of the Lord\'s Supper on Holy Thursday evening. We thank Our Lord for the institution of the Eucharist and the priesthood and its perpetuation to the end of time.
+
+We can think of the Altars of Repose all over the world, where the Blessed Sacrament is reserved for the evening of Holy Thursday, and then place ourselves in the Garden of Olives, and then the trial on that sad and sorrowful night.
+
+It\'s a time to be close to Our Lord, close to the tabernacle, during those bitter hours. Holy Week has been lived down through the history of the Church.
+
+Already in the second century of the Christian era they were focusing on a night of vigil in remembrance and the expectation of Our Lord\'s resurrection. A great event of joy.
+
+Soon added were the reception of the sacraments of Christian initiation: Baptism, Confirmation and Eucharist. We could think of all the people all over the world who will be welcomed into the Church on the great sacramental night.
+
+Later on, the Easter Vigil began to develop. It was extended in time and transformed into the Triduum of the Lord\'s Passion, Death and Resurrection. St. Augustine mentioned it in a very special way.
+
+It\'s a special moment for us to stop and think, to be more prayerful, perhaps to pray the Way of the Cross with our family or with our friends. Help people to get to know a little more of these practices that we have that speak to us in the Catholic Church.
+
+As we accompany Our Lord on His triumphal entry, we can think of the greatness of the charity of Christ, with which He goes forth to offer Himself in death for our sake.
+
+He wished to be received with great festivity as a sign of the joy that\'s in His heart because the hour of redemption was at hand.
+
+It\'s said that many of the martyrs, when they were arrested and they went to prison, they went with as much joy as if they were being led to a banquet. Our Lord goes with that same promptness and joy as a manifestation of His love for each one of us.
+
+"Far off now," we\'re told in *The Way of the Cross*, "are the days when the words of the Man-God brought light and hope to men\'s hearts, those long processions of sick people whom He healed, the triumphant acclaim of Jerusalem when the Lord arrived, riding on a gentle donkey. If only men had wanted to give a different outlet to God\'s love! If only you and I had recognized the day of the Lord" (Josemaría Escrivá, *The Way of the Cross*, First Station--Jesus is Condemned to Death).
+
+This week, even if you bring little children and just point out to them the Stations of the Cross or the title under the Stations or just the pictures, and they go quickly with just a little aspiration from one Station to another, they\'re already learning about the Passion of Christ. They\'re already learning about this practice of the Way of the Cross. They\'re already learning about the humility of Christ.
+
+We\'re told in *The Forge*: "I understood you very well when you ended up saying: 'Quite honestly, I haven\'t even made the grade of being a donkey---the donkey that was the throne of Jesus when he entered Jerusalem. I\'m just a part of a disgusting heap of dirty tatters that the poorest ragpicker would ignore.'
+
+"But I told you: 'All the same, God has chosen you and wants you to be his instrument. So your wretchedness---which is a genuine fact---should turn into one more reason for you to be thankful to God for calling you" (J. Escrivá, *The Forge*, Point 607).
+
+The apostles were looking on at all of these scenes, possibly not understanding what they were seeing. But later on, the Holy Spirit is going to enlighten their minds and their hearts and their souls.
+
+When Our Lord entered Jerusalem, people cast their garments on the road before Him, as though by the mortification of their passions and self, by the practice of penance and abnegation of their flesh, and by the death of their bodily desires, they expressed their desire to serve the glory of this Lord, as did countless martyrs who tore their tunics off their bodies in confessing their faith in Him.
+
+Pope Benedict liked to draw attention to the fact that "the Lord mentioned its deepest mystery of Holy Week on Palm Sunday, when some Greeks asked to see him. In his answer to this question, He expresses the phrase: 'Truly, truly, I say to you, unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit'" (John 12:24) (Pope Benedict XVI, *Homily*, June 15, 2006).
+
+As we move through this week, these hours, living them close to Our Lord, we're reminded that we have to be like that grain of wheat just like Our Lord was: to die to ourselves, our desires, our feelings, our passions; to conquer ourselves in all sorts of ways--- self-control, self-mastery---and to be ready to be that grain of wheat that falls into the ground, because that\'s where all the fruit has to come from. It bears much fruit.
+
+On another occasion, Our Lord told the apostles that they have to "go out and bear fruit---fruit that will last" (John 15:16). It\'s not just a passing fruit, an ephemeral fruit, but a fruit that\'s going to last forever. And that type of fruit only comes in and through the cross.
+
+Pope Benedict says: "The mystery of the passion is hidden in the bread made of the grain that is ground. Flour, the ground wheat, presupposes the death and resurrection of the grain" In that bread made from wheat, many messages are contained. "In being ground and baked, it carries in itself. once again, the same mystery of the Passion. Only through death does resurrection arrive, as does the fruit and new life" (*ibid*.)
+
+"Dying you destroyed our death, rising you restored our life" (*Roman Missal*, Acclamation).
+
+"He then took the chalice, gave thanks, and passed it to them, and they all drank from it. He said: 'This is my blood, the blood of the covenant, to be poured out on behalf of many'" (Mark 14:22-24).
+
+Christ did not just shed one drop of His blood, but He shed all of His blood copiously. It was a gesture whereby He lets us know the extent of God\'s love for mankind.
+
+Even if we were the only person, the only soul, in the whole world, God would still have come down on earth to die on a cross for each one of us. "The entire history of God with humanity is re-expressed in these words."
+
+We\'re told in *The Forge*: "When we look upon Calvary, where Jesus died, the realization of our own sins should move us to be sorry, to make a deeper and more mature decision not to offend him again" (J. Escrivá, *The Forge*, Point 402).
+
+The gravity of sin, and not just mortal sin but all sin, comes across to us in Holy Week. "Christ died for our sins" (1 Cor. 15:3; 1 Pet. 3:18).
+
+We\'re reminded again and again that the greatest evil in the world is sin. It\'s the only real evil. We have to have a hatred, even for venial sins, for little lies, for little injustices, for little negligences here and there, because all those things can hurt Our Lord.
+
+As we go to Confession this week, we could look a little longer as the blood that flows and streams down the body of Christ and makes little red mud at the base of the cross.
+
+We\'re told likewise in *The Forge*: "We all have to be Christ himself. This is what St. Paul commands in the name of God: Put on the Lord Jesus Christ. Each one of us, and that includes you, has to see how he puts on that clothing of which the Apostle speaks. Each one personally has to sustain an uninterrupted dialogue with the Lord" (J. Escrivá, *The Forge*, Point 74).
+
+We can examine our conscience and see, How would Christ react in this situation? Am I trying to be Christ-like in this moment of joy, of peace, or of pain or suffering? In Christ we find the meaning and the purpose of our life. Our Lord sends us things so that we truly might put on the Lord Jesus Christ in all these moments.
+
+We\'re also told in *The Forge*: "If you are another Christ, if you behave as a child of God, you will set things alight no matter where you are. Christ enkindles all hearts, leaving none indifferent." (J. Escrivá, *The Forge*, Point 25).
+
+We\'re reminded of the words of Christ: "I have come to spread fire on this earth, and would that it be enkindled" (Luke 12:49).
+
+I\'m reminded of a firm that was set up in Manila, a firm for fire extinguishers. In the Philippines, many firms have a sort of a motto that often is taken from Scripture, or it\'s a play on those words. This particular firm took as their motto, 'We have come to extinguish fires on earth.' A rather clever interplay on those words.
+
+Christ didn\'t say He had come to extinguish fires on earth, but to enkindle them. We are part of the means to set ablaze all the ways of the earth.
+
+"Think about what the Holy Spirit says," we\'re told in *The Forge* (Point 10), and let yourselves be filled with awe and gratitude: 'He chose us before the foundation of the world, that we might be holy in his presence' (Eph. 1:4). To be holy isn\'t easy, but it isn\'t difficult either. To be holy is to be a good Christian, to resemble Christ. The more closely a person resembles Christ, the more Christian he is, the more he belongs to Christ, the holier he is."
+
+The more holy we become, the clearer the image of Christ appears in us and in our lives.
+
+We\'re told, "On this Palm Sunday, when Our Lord begins the week which is so decisive for our salvation, let us put aside the more superficial aspects of the question and go right to the core, to what is really important. Look: what we have to do is to get to heaven. If we don\'t, nothing is worthwhile. Faithfulness to Christ\'s doctrine is absolutely essential to our getting to heaven" (J. Escrivá, *Christ Is Passing By*, Point 76).
+
+Mother Teresa liked to say that "we have to have a tender love for Jesus." As we look upon Christ as He moves through these hours, it\'s easy to develop a more tender love, to say I\'m sorry, maybe to want to place our shoulders to receive the blows instead of Him, or to offer to Him all the little blows that He might permit in our life.
+
+"To be faithful,"we\'re told in *Christ is Passing By* (Point 76), "it s absolutely essential to strive doggedly against anything that blocks our way to eternal happiness."
+
+"I know," continues St. Josemaría, "that the moment we talk about fighting we recall our weakness and we foresee falls and mistakes. God takes this into account. As we walk along, it\'s inevitable that we will raise dust; we are creatures and full of defects. I would almost say that we will always need defects. They are the shadow which shows up the light of God\'s grace and our resolve to respond to God\'s kindness. And this chiaroscuro will make us human, humble, understanding, and generous."
+
+God is at work all the time in our lives, bringing fruit from the things we do, helping those seeds to get sown. Sometimes we don\'t see the seeds and sometimes we don\'t see the fruit, but it\'s there.
+
+St. Josemaría continues, "Let\'s not deceive ourselves: in our life we will find vigor and victory and depression and defeat. This has always been true of the earthly pilgrimage of Christians, even of those we venerate on the altars. Don\'t you remember Peter, Augustine, Francis? I\'ve never liked biographies of saints which naively---but also with a lack of sound doctrine---present their deeds as if they had been confirmed in grace from birth. No, the true-life stories of Christian heroes resemble our own experience; they fought and won, they fought and lost. And then, repentant, they returned to the fray.
+
+"We should not be surprised to find ourselves defeated relatively often, usually, or even always in things of little importance, which we tend to take seriously. If we love God and are humble, if we persevere relentlessly in our struggle, the defeats will never be very important. There will be abundant victories which bring joy to God\'s eyes.
+
+"There is no such thing as failure if you act with a right intention, wanting to fulfill God\'s will and counting always on his grace and your own nothingness."
+
+Mary is not to be seen in this triumphant entry. She\'s somewhere not far away, but "keeping in mind all these things in her heart" (Luke 2:19, 51)---all the words that have been spoken to her, she knows what\'s coming. She\'s going to play a crucial role in these coming times.
+
+If we stay close to her, we\'ll be able to savor the great joy of Mary on the morning of the Resurrection.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*GD*
