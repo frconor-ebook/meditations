@@ -11,9 +11,7 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-Jesus spoke the following parable to some people who prided themselves on being upright and despised everyone else. "Two men went up to the temple to pray, one a Pharisee, the other a tax collector. The Pharisee stood there and said this prayer to himself, 'I thank you, God, that I am not grasping, unjust, adulterous like everyone else, and particularly that I am not like this tax collector here. I fast twice a week; I pay tithes on all I get.'
-
-"The tax collector stood some distance away, not daring even to raise his eyes to heaven; but he beat his breast and said, 'God, be merciful to me a sinner.'
+Jesus spoke the following parable to some people who prided themselves on being upright and despised everyone else. "Two men went up to the temple to pray, one a Pharisee, the other a tax collector. The Pharisee stood there and said this prayer to himself, 'I thank you, God, that I am not grasping, unjust, adulterous like everyone else, and particularly that I am not like this tax collector here. I fast twice a week; I pay tithes on all I get.' The tax collector stood some distance away, not daring even to raise his eyes to heaven; but he beat his breast and said, 'God, be merciful to me a sinner.'
 
 "This man, I tell you, went home again justified; the other did not. For everyone who raises himself up will be humbled, but anyone who humbles himself will be raised up" (Luke 18:9-14).
 
@@ -31,11 +29,11 @@ Some days before giving this address, the Pope reminded a gathering of clergy an
 
 This is a danger that faces every Christian. Of what good is the most energetic apostolate if it\'s accomplished at the cost of one\'s friendship with Our Lord? It all becomes a huge mistake. The achievement would end up worthless. This would be a human endeavor where we sought only ourselves.
 
-The remedy for this malady is clear. John Paul II says: "We must find time, we must make time, to be with the Lord in prayer (*ibid*). "Prayer is indispensable for you, today as yesterday" (Address, Jan. 27, 1979).
+The remedy for this malady is clear. John Paul II says: "We must find time, we must make time, to be with the Lord in prayer" (*ibid.*). Prayer is "indispensable for you, today as yesterday" (John Paul II, *Address*, Jan. 27, 1979).
 
 Let us look and see whether our prayer, our friendship with Jesus, really influences our life of work, our family life, our friendships, our apostolate. We know that everything is different once we have talked it over with Jesus.
 
-It is in our prayer that "the Lord gives light to understand His truths" (St. Teresa, *Foundations,* 10,13). Without the help of this light, then all would be darkness. That divine light will permit us to penetrate the mystery of God and of existence.
+It is in our prayer that "the Lord gives light to understand his truths" (St. Teresa, *Foundations,* 10,13). Without the help of this light, then all would be darkness. That divine light will permit us to penetrate the mystery of God and of existence.
 
 The purpose of this parable of the Pharisee and the tax collector is to teach us the difference between true piety and false piety. We are told in the Book of Sirach that "the prayer of the humble pierces the clouds" (Sir. 35:21). It always reaches God and attains its end.
 
@@ -59,21 +57,21 @@ The parable teaches that our prayer should be full of humility, attentive, and t
 
 Our Lord reminds us that humility has to be the foundation of our dealings with God. He wants us to pray like needy children desirous of His mercy.
 
-St. Alphonsus Liguori says, "God wants us to go to him with confidence. Bring to him your work, your projects, your fears, and whatever interests you. Act with a trusting and open heart, for God, does not speak to those who never speak to him" (St. Alphonsus Liguori, *How to Converse Continually and Familiarly with God).*
+St. Alphonsus Liguori says, "God wants us to go to him with confidence. Bring to him your work, your projects, your fears, and whatever interests you. Act with a trusting and open heart for God does not speak to those who never speak to him" (St. Alphonsus Liguori, *How to Converse Continually and Familiarly with God).*
 
 We have to try and flee from the prayer of self-sufficiency, which may be evidenced by complacency in our apostolate and pride in our interior struggle.
 
 We also have to avoid negative attitudes, which can reflect a lack of trust in God\'s grace. Pessimism can be a manifestation of hidden pride. The time we spend in prayer should always be a time of joy, confidence, and peace.
 
-We have to try and prepare our times of prayer well. St. Teresa wrote, "Mental prayer is nothing else, in my opinion, but being on terms of friendship with God, frequently conversing in secret with Him, who, we know, loves us" (St. Teresa, *Life*, 8, 7).
+We have to try and prepare our times of prayer well. St. Teresa wrote, "Mental prayer is nothing else, in my opinion, but being on terms of friendship with God, frequently conversing in secret with him, who, we know, loves us" (St. Teresa, *Life*, 8, 7).
 
-Another writer says, "Let us draw strength from our prayer to sanctify our daily work, to convert our contradictions into blessings, to overcome all difficulties. We will be strong to the extent that our prayer is authentic" (Francis Fernandez, *In Conversation with God,* Volume 5).
+Another writer says, "Let us draw strength from our prayer to sanctify our daily work, to convert our contradictions into blessings, to overcome all difficulties. We will be strong to the extent that our prayer is authentic" (Francis Fernandez, *In Conversation with God,*Volume 5).
 
-When we begin our prayer, "we need to ready our heart, like someone who\'s tuning a guitar" (St. Peter of Alcantara, *Treatise on* *Prayer and Meditation*, 1, 3).
+When we begin our prayer, "we need to ready our heart, like someone who\'s tuning a guitar" (St. Peter of Alcantara, *Treatise onPrayer and Meditation*, 1, 3).
 
 We can offer up all our day\'s work to Our Lord, along with small mortifications, our interior recollection.
 
-When we make an act of the presence of God we\'ve begun our special time of conversation with Him. A short prayer can help to begin our dialogue. We should pray with devotion and attention: "I firmly believe that you are here, that you see me, that you hear me."
+When we make an act of the presence of God we\'ve begun our special time of conversation with Him. A short prayer can help to begin our dialogue. We should pray with devotion and attention: "I firmly believe that you are here, that you see me, that you hear me\..."
 
 God truly sees each one of us. Our recognition of this reality is itself prayer, even though we may not say a word, He understands us and we understand Him. We ask many things of Him and He asks more generosity from us, more love, more struggle.
 
@@ -87,7 +85,7 @@ St. Josemaría used to say, "The day that you get no compensations in your praye
 
 The Sacred Congregation for the Doctrine of the Faith wrote some time ago: "For the person who makes a serious effort, there will often be moments in which they seem to be wandering in the desert. In spite of all their efforts, they feel nothing of God. These trials are not spared anyone who takes their prayer life seriously.
 
-"In these moments, that prayer which that person will resolutely strive to keep to could have the impression of a certain 'artificiality', although really it is something totally different. In fact, at that moment, it\'s an expression of that person\'s fidelity to God, in whose presence he wishes to remain, even when he receives no subjective consolation in return."
+"In these moments, that prayer which that person will resolutely strive to keep to could have the impression of a certain 'artificiality', although really it is something totally different. In fact, at that moment, it\'s an expression of that person\'s fidelity to God, in whose presence he wishes to remain, even when he receives no subjective consolation in return" (Sacred Congregation for the Doctrine of the Faith, *Letter on some aspects of Christian meditation*, October 15, 1989).
 
 We might at times think that our prayer is not bearing fruit, while the reality may be that God is immensely happy with our progress. Our Lord will always give us His peace and His strength so that we may accomplish His work.
 
@@ -105,7 +103,7 @@ Some modern books about prayer often talk about the value of silence. Cardinal S
 
 He says: "Prayer is successfully being quiet, listening to God, and being able to hear the ineffable speaking of the Holy Spirit, who dwells in us and cries out silently" (Robert Cardinal Sarah, *The Power of Silence*, Point 64).
 
-"Prayer," he says, "demands that we successfully keep quiet so as to hear and listen to God. Silence requires absolute availability with respect to God\'s will. Man must be completely turned towards God and toward his brethren. Silence is a quest and a form of charity, in which God\'s eyes become our eyes and God\'s heart is grafted onto our heart. We cannot stay in the presence of the fire of divine silence without being burned" (R. Sarah, Point 116).
+"Prayer," he says, "demands that we successfully keep quiet so as to hear and listen to God. Silence requires absolute availability with respect to God\'s will. Man must be completely turned towards God and towards his brethren. Silence is a quest and a form of charity, in which God\'s eyes become our eyes and God\'s heart is grafted onto our heart. We cannot stay in the presence of the fire of divine silence without being burned" (R. Sarah, Point 116).
 
 "The spiritual life goes through alternating phases in which God successively shows and hides himself, makes himself heard, and is quiet. Prayer teaches us the subtleties of divine speech. Is God being silent or are we not hearing him because our interior ear and our intellect are not accustomed to his language? The fruit of silence is learning to discern his voice, even though it always keeps its mystery.
 
@@ -115,11 +113,11 @@ He says: "Prayer is successfully being quiet, listening to God, and being able t
 
 "There are external situations that should promote interior silence. It is necessary to provide ourselves with the means of the best possible environment for finding within us the silence that allows us to be in intimate communion with God.
 
-"Our Lord very clearly recommends this intimacy. 'When you pray, go into your room, shut the door, and pray to your Father who is in secret; and your Father who sees in secret will reward you' (Matt. 6:6). Our real room is precisely ourselves. Man is invited to enter into himself and so to remain alone with God" (R. Sarah, Point 58).
+"Our Lord very clearly recommends this intimacy. 'When you pray, go into your room, shut the door, and pray to your Father who is in secret; and your Father who sees in secret will reward you' (Matt. 6:6). Our real room is precisely ourselves. Man is invited to enter into himself and so to remain alone with God.
 
 "Our Lord never stops giving us an example: 'In these days he went out to the hills to pray; and all night he continued in prayer to God' (Luke 6:12). In this way, he teaches us the circumstances that are conducive to silent prayer. In the presence of God, in silence, we become meek and humble of heart" (R. Sarah, Point 58).
 
-"Reading should help us to pray by concentrating our attention" so that we don\'t forget "the vital connection between prayer and the Word of God. How can we imagine the Lord at our side if we do not seek him where he reveals himself? Meditation consists of imagining in silence the earthly, everyday life of Jesus. It is not necessary to recall a historical event; rather, we must seek to bring the Son of God silently into our heart" (R. Sarah, Point 64).
+"Reading should help us to pray by concentrating our attention" so that we don\'t forget "the vital connection between prayer and the Word of God. How can we 'imagine the Lord at our side' if we do not seek him where he reveals himself? Meditation consists of imagining in silence the earthly, everyday life of Jesus. It is not necessary to recall a historical event; rather, we must seek to bring the Son of God silently into our heart" (R. Sarah, Point 64).
 
 The engine for conversion is mental prayer. Often if things don\'t work out, it may be that we\'re not the souls of prayer that we need to be. "As the deer yearns for running water, so my soul thirsts for you, my God" (Ps. 42:1).
 
@@ -131,7 +129,7 @@ John Paul II says, "Prayer is commonly held to be a conversation. In a conversat
 
 Christ\'s life on earth was one continual prayer. Prayer was the life of His soul. His whole life was prayer. We have to ask Our Lord that we might grow in this mysterious but real dialogue with God.
 
-The Catechism of the Catholic Church, in one of its headings, has a title that says, "The Battle of Prayer." You have to work at it; you have to fight for it. But it\'s a great goal to fight for.
+The C*atechism of the Catholic Church*, in one of its headings, has a title that says, "The Battle of Prayer." You have to work at it; you have to fight for it. But it\'s a great goal to fight for.
 
 We know that the devil will go all out to prevent us from becoming that sort of prayer or from having those times of silence.
 
@@ -139,7 +137,7 @@ We know that the devil will go all out to prevent us from becoming that sort of 
 
 "Silence is one of the chief means that we have that enable us to enter into the spirit of prayer; silence disposes us to establish vital, ongoing relations with God. It is difficult to find a pious person who, at the same time, talks a lot. On the contrary, those who possess the spirit of prayer love silence.
 
-"Since time immemorial, silence has been considered a rampart of innocence, the shield against temptations, and the fertile source of recollection. Silence fosters prayer because it awakens good thoughts in our hearts. St. Bernard says it enables the soul to think better about God and about the realities of heaven. For this\...reason, all the saints have ardently loved silence" (R. Sarah, Conclusion).
+"Since time immemorial, silence has been considered the rampart of innocence, the shield against temptations, and the fertile source of recollection. Silence fosters prayer because it awakens good thoughts in our hearts. St. Bernard says it enables the soul to think better about God and about the realities of heaven. For this \[simple\] reason, all the saints have ardently loved silence" (R. Sarah, Conclusion).
 
 Lord, help me to look forward to those periods, and opportunities for those periods, of silence that you give me.
 
@@ -161,7 +159,7 @@ We can be grateful to God for the fact that we know how to pray and we have the 
 
 The more we\'re involved in professional and apostolic activities, the more important our prayer becomes. In *The Forge*, we\'re told, "The way to cut short all evils we suffer is to pray" (Josemaría Escrivá, *The Forge*, Point 76).
 
-We could ask Our Lord to go deeper in this parable, to see the dangers of pride in our prayer, the importance of humility, because "the prayer of the humble pierces the clouds."
+We could ask Our Lord to go deeper in this parable, to see the dangers of pride in our prayer, the importance of humility, because "the prayer of the humble pierces the clouds" (Sir. 35:21).
 
 Mary, may you teach me how to pray with a greater spirit of humility, so that my prayer may be more effective, as you want it to be.
 

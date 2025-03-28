@@ -35,7 +35,7 @@ We\'re very accustomed to living by human faith. Every day, when we listen to th
 
 If he\'s there reading this news, this must be true. It would be very unusual for it to be fake news, although that may be becoming more common.
 
-Or if we go to get on a taxi or a bus or a *matatu*, and it says that it\'s going to a certain place, we believe that it\'s going to that place. We don\'t go and ask the driver for his driving license. We don\'t know if he got on at the last stop, murdered the driver, and took over the vehicle.
+Or if we go to get on a taxi or a bus or a matatu, and it says that it\'s going to a certain place, we believe that it\'s going to that place. We don\'t go and ask the driver for his driving license. We don\'t know if he got on at the last stop, murdered the driver, and took over the vehicle.
 
 But because he\'s driving, we believe that he knows his stuff. He knows how to drive, he has a license, and the vehicle is going to where we want it to go.
 
@@ -73,7 +73,7 @@ He began to look for the solution and he found the stable in Bethlehem. That was
 
 He destined it to become a focal point of family life and warmth for all eternity. This was a fruit of the virtue of Joseph. He made that unlikely place into a place of warmth, of faith, of hope, of joy, that lightens up all of our hearts.
 
-Later, the Holy Family was told to flee into Egypt at a moment\'s notice: no job, no security, a foreign country, different language, major contradictions. They were told, "Stay there until I tell you." (Matt. 2:13). 'Remain there.'
+Later, the Holy Family was told to flee into Egypt at a moment\'s notice: no job, no security, a foreign country, different language, major contradictions. They were told, "Stay there until I tell you" (Matt. 2:13). 'Remain there.'
 
 There may be many periods of our lives when we are also told to remain in this situation, in this house, with this insecurity, without knowing what\'s going to happen tomorrow, or what God\'s plans are.
 
@@ -83,11 +83,11 @@ It may be that the situations that God leads us into are situations where He wan
 
 If ever God sweeps the feet from under us, or we come to a blank wall, it\'s because He wants us to look up; learn what real faith is, what real hope is.
 
-"'And I shall bless those who bless you and shall curse those who curse you. And all the clans on earth will bless themselves by you.' So Abram went, as Yahweh told him, and Lot went with him. Abram was seventy-five years old when he left Haran" (Gen. 12:3-4).
+"And I shall bless those who bless you and shall curse those who curse you. And all the clans on earth will bless themselves by you" (Gen. 12:3).
 
-"He went." He was obedient to the plans of God.
+"Abram went as Yahweh told him, and Lot went with him. Abram was seventy-five years old when he left Haran" (Gen. 12:4). He went. He was obedient to the plans of God.
 
-We\'re told that some time later, "God put Abraham to the test. 'Abraham, Abraham!' he said. And Abraham replied, 'Here I am'" (Gen. 22:1).
+We\'re told that sometime later, "God put Abraham to the test. 'Abraham, Abraham!' he said. And Abraham replied, 'Here I am'" (Gen. 22:1).
 
 In all these moments when God called, Abraham replies. He's available. He\'s there. He doesn\'t run off and hide. He responds with faith to all these challenges.
 
@@ -115,7 +115,7 @@ The lady said, "No, for three reasons. One, you\'re drunk. Two, I don\'t dance. 
 
 This is what happens when we don\'t see things with the eyes of faith. Our vision is blurred. We don\'t see the reality. We come up with the wrong conclusions. We get it all wrong.
 
-"And so he chopped wood for the burnt offering and started on his journey to the place which God had indicated to him. On the third day, Abraham looked up and saw the place in the distance. Then Abraham said to his servants, 'Stay here with the donkey. The boy and I are going over there. We shall worship and then come back to you.' Abraham took the wood for the burnt offering, loaded it on Isaac, and carried in his own hands the fire and the knife. And the two of them set out together (Gen. 22:3-6).
+"And so he chopped wood for the burnt offering and started on his journey to the place which God had indicated to him. On the third day, Abraham looked up and saw the place in the distance. Then Abraham said to his servants, 'Stay here with the donkey. The boy and I are going over there. We shall worship and then come back to you.' Abraham took the wood for the burnt offering, loaded it on Isaac, and carried in his own hands the fire and the knife. And the two of them set out together" (Gen. 22:3-6).
 
 It\'s a rather nice image, that word "together"---father and son, unity, fulfilling the plans of God, even when they\'re going to be difficult.
 
@@ -157,7 +157,7 @@ Now this is the beginning of some very beautiful words when God, through the Ang
 
 "And looking up, Abraham saw a ram caught by its horns in the bush. Abraham took the ram and offered it as a burnt offering in place of his son. Abraham called the place, 'Yahweh provides'; and hence, the saying today, 'On the mountain, Yahweh provides'" (Gen 22:13-14).
 
-We don\'t know what plans God may have behind the things He asks of us, what great things he may want to achieve in us and through us---possibly, miracles.
+We don\'t know what plans God may have behind the things He asks of us, what great things He may want to achieve in us and through us---possibly, miracles.
 
 I was at a meeting of some pro-life people in another country one time, and there was a nun speaking. She was talking about somebody who perhaps should have been a bit more pro-life than they were, and she said a phrase, "I believe in miracles."
 
@@ -171,11 +171,11 @@ And now the tender heart of Our Father God begins to be revealed. God is so impr
 
 Whenever Christ found faith in the people He was speaking to, He was always very moved.
 
-"When the centurion said, 'Lord, I am not worthy that you should enter under my roof'" (Matt. 8:8), we are told that Jesus marveledthat "I have not found such great faith even in Israel" (Matt. 8:10).
+"When the centurion said, 'Lord, I am not worthy that you should enter under my roof'" (Matt. 8:8), we are told that Jesus marveled that "I have not found such great faith even in Israel" (Matt. 8:10).
 
 On many occasions when people came to Him with faith, Our Lord could not but turn to them and grant them what they asked for.
 
-"Go in peace, your faith has saved you" (Luke 7:50). There seems to be nothing that warms the Heart of Christ so much as people of faith, even when the man cries out, "Lord, I believe, help my unbelief (Mark 9:23).
+"Go in peace, your faith has saved you" (Luke 7:50). There seems to be nothing that warms the Heart of Christ so much as people of faith, even when the man cries out, "Lord, I believe, help my unbelief" (Mark 9:23).
 
 "Go in peace, your son now lives" (John 4:50). He's cured.
 
@@ -187,7 +187,7 @@ Or like that father in the Gospel, we believe, but we realize we are so short on
 
 "God said, 'I will shower blessings on you, I will make your descendants as numerous as the stars of heaven and the grains of sand on the seashore. Your descendants will gain possession of the gates of their enemies'" (Gen. 22:17-18).
 
-Next time you are on a beach look at the grains of sand, of how many grains of sand are there on the sea shore. It\'s a very beautiful and eloquent description, "as numerous as the stars of heaven."
+Next time you are on a beach look at the grains of sand, of how many grains of sand are there on the seashore. It\'s a very beautiful and eloquent description, "as numerous as the stars of heaven."
 
 There are great benefits that come from leading a life of faith: "All nations on earth will bless themselves by your descendants, because you have obeyed my command" (Gen. 22:18).
 
@@ -213,7 +213,7 @@ He calls us to think with faith, to act with faith, to plan with faith, to work 
 
 In the Gospel, we\'re given the example of St. Thomas, who refused to believe what the other apostles have told him.
 
-It\'s an interesting example of stubborn disbelief: "Unless I put my hand into his side and my finger into his wounds, I will not believe" (cf. John 20:25).
+It\'s an interesting example of stubborn disbelief: "Unless I put my hand into his side and my finger into his wounds, I will not believe" (*cf*. John 20:25).
 
 But then he ends up saying, "My Lord and my God" (John 20:28). Our Lord wants us to react with faith in all the little things of every day.
 
@@ -235,9 +235,9 @@ We may not understand the ways of God, which may be very different from our own.
 
 Only in the light of faith does our life make sense, in our self-giving, in our work, in everything that our marriage vocation brings with it.
 
-In *The Forge*, St. Josemaría says, "Sometimes the immediate future is full of worries, if we stop seeing things in a supernatural way. So, faith, my child, faith...and more deeds. In that way it is certain that Our Father God will continue to solve your problems" (St. Josemaría Escrivá, *The Forge*, Point 657).
+In *The Forge*, St. Josemaría says, "Sometimes the immediate future is full of worries, if we stop seeing things in a supernatural way. So, faith, my child, faith...and more deeds. In that way it is certain that Our Father God will continue to solve your problems" (Josemaría Escrivá, *The Forge*, Point 657).
 
-"Work on to the end," he says, "to the very end! My child, 'it is the one who perseveres right to the end who will be saved' (cf. Matt. 24:13). We children of God have the means we need: you too! We will finish, we will top out our building, for we can do all things in Him who strengthens us' (cf. Phil. 4:13). With God there are no impossibles. They are overcome always" (*Ibid*., Point 656).
+"Work on to the end," he says, "to the very end! My child, 'it is the one who perseveres right to the end who will be saved' (*cf*. Matt. 24:13). We children of God have the means we need: you too! We will finish, we will top out our building, for we can do all things in Him who strengthens us' (*cf*. Phil. 4:13). With God there are no impossibles. They are overcome always" (*ibid*., Point 656).
 
 The educative role of marriage and family never ends. All the time we are giving an example of virtue to those who come after us: a peace, a serenity, a joy that comes from leaving everything in the hands of God, knowing that ultimately, He will work things out.
 
@@ -267,7 +267,7 @@ With Our Lady, we can ask Our Lord for the grace to have greater faith in the me
 
 "If God is with us, who can be against us?" (Rom. 8:31). Faith in our charity.
 
-We know that God will still work miracles. "The hand of God," said Scripture, "has not been held back, has not been weakened" (cf. Isa. 59:1).
+We know that God will still work miracles. "The hand of God," said Scripture, "has not been held back, has not been weakened" (*cf*. Isa. 59:1).
 
 We could also ask Our Lord for the grace to have a more infectious faith, so that we can infect more people. If this virus has infected so many people, Lord, help me to infect the same number of people with my contagious faith.
 
