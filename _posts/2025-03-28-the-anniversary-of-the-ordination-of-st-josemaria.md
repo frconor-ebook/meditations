@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Anniversary of the Ordination of St. Josemaría Escrivá"
+title: "The Anniversary of the Ordination of St. Josemaría"
 ---
 
 By Fr. Conor Donnelly
@@ -37,7 +37,7 @@ Mother Teresa once was asked what were her views on women priests. She said, "I 
 
 The journalist who asked her the question printed an article in the newspaper the following day that said: Mother Teresa says that women make better priests than men. She said, "I had to get someone to call the newspaper and say that wasn\'t exactly what I said."
 
-Mother Teresa really was saying that Our Lady, in some ways, was also a priest in her priestly soul. She stood beside the Cross. She had the same sentiments as her Son. She lived out her vocation at the foot of the Cross as a Mother, with a great spirit of service, of sacrifice, of generosity, of obedience, of humility, allowing the spiritual sword, to pierce her heart (cf. Luke 2:35). It was a great priestly moment.
+Mother Teresa really was saying that Our Lady, in some ways, was also a priest in her priestly soul. She stood beside the Cross. She had the same sentiments as her Son. She lived out her vocation at the foot of the Cross as a Mother, with a great spirit of service, of sacrifice, of generosity, of obedience, of humility, allowing the spiritual sword, to pierce her heart (*cf*. Luke 2:35). It was a great priestly moment.
 
 Our Lady teaches us how to live out our priesthood in all the ordinary circumstances of our life, in our work, in our family life, in our marriage, in the crosses that God may permit in our life, which He also gives us the grace to carry.
 
@@ -111,7 +111,7 @@ We\'re told in *The Forge* to "live and work for God, with a spirit of love and 
 
 All the women who may be clamoring about being women priests, if they really knew their doctrine, they\'d realize that they already have a priestly soul. With their Baptism, they\'re already priests.
 
-"Then all your actions will take on a genuine supernatural meaning which will keep your whole life united to the source of all graces" (*Ibid*.). Imagine, all our actions, all our words---a genuine supernatural meaning.
+"Then all your actions will take on a genuine supernatural meaning which will keep your whole life united to the source of all graces" (*ibid*.). Imagine, all our actions, all our words---a genuine supernatural meaning.
 
 In another moment in *The Way*, St. Josemaría talks about "the word you whisper into the ear of your wavering friend" (J. Escrivá, *The Way*, Point 973).
 
@@ -208,7 +208,7 @@ He liked to say, "A priest---whomever he may be---is always another Christ" (J. 
 
 From that, the Church has always requested that priests be treated with a lot of respect, with a supernatural spirit, so that they would receive all the help and encouragement, material and spiritual, that people can give them.
 
-He said in *The Way*, "To love God and not venerate his priests is not possible" (J. Escriva, *The Way*, Point 74). And so, he liked to emphasize, especially on certain days of the year, the importance of praying for priests, so that they can be better.
+He said in *The Way*, "To love God and not venerate his priests is not possible" (J. Escrivá, *The Way*, Point 74). And so, he liked to emphasize, especially on certain days of the year, the importance of praying for priests, so that they can be better.
 
 He said in *The Forge*, "The Church needs priests, and always will. Ask the Blessed Trinity for them each day. through Holy Mary. And pray that they may be cheerful, hard-working, effective; that they may be well-trained; and that they may sacrifice themselves joyfully for their brothers, without feeling that they are victims" (J. Escrivá, *The Forge*, Point 910).
 
@@ -218,9 +218,9 @@ There are many priests in many countries who can\'t afford to go to a seminar or
 
 Very often it\'s the parishioners themselves who come to realize the benefit of that formation that their parish priest has received. So it\'s a very good investment. So, see how you can help priests or seminarians that you know to grow in their formation, to go deeper in their priesthood.
 
-It says in *The Forge*, "I\'ve been thinking of all the priests throughout the world. Help me to pray for the fruitfulness of their apostolates. 'My brother in the priesthood, please speak always about God and, when you really do belong to him, your conversations will never be monotonous'" (*Ibid*., Point 965). He encouraged priests to always speak about spiritual things.
+It says in *The Forge*, "I\'ve been thinking of all the priests throughout the world. Help me to pray for the fruitfulness of their apostolates. 'My brother in the priesthood, please speak always about God and, when you really do belong to him, your conversations will never be monotonous'" (*ibid*., Point 965). He encouraged priests to always speak about spiritual things.
 
-At another point in *The Forge*, he says, "How great is the value of piety in the Holy Liturgy! I was not at all surprised when someone said to me a few days ago, talking about a model priest who had died recently: 'What a saint he was!' 'Did you know him well?' I asked. 'No,' she said, 'but I once saw him saying Mass'" (*Ibid*., Point 645).
+At another point in *The Forge*, he says, "How great is the value of piety in the Holy Liturgy! I was not at all surprised when someone said to me a few days ago, talking about a model priest who had died recently: 'What a saint he was!' 'Did you know him well?' I asked. 'No,' she said, 'but I once saw him saying Mass'" (*ibid*., Point 645).
 
 Try and also see how you can help your priests, in places where you are, to get better liturgical instruments and items for the altar---vestments, chalices, candlesticks---so that the beauty and richness of the liturgy can be manifested in material things.
 
