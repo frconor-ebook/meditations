@@ -105,7 +105,7 @@ In some ways, the apostles, Peter, James, and John are not that much worse than 
 
 St. John identifies this someone as Peter (John 18:10). Peter makes a big mistake---another big mistake. He resorts to violence. He neglected his prayer, and now he mistakes the means.
 
-All through this fall of Peter, the Passion of Christ is paralleled by the fall of Peter. We\'re given the message of the consequences of neglecting our prayer.
+All through this fall of Peter (the Passion of Christ is paralleled by the fall of Peter), we\'re given the message of the consequences of neglecting our prayer.
 
 Everything begins to go wrong. Christ is beckoning us to be a soul of prayer, never to lose our concern to be a more prayerful soul, to take very good care of the periods of prayer that God wants from us. The prayer is the fulcrum that God wants us to use to move the world. Prayer makes us all-powerful.
 
@@ -129,13 +129,13 @@ Our Lord casts himself into that hour. He walks right into it. He faces it in a 
 
 St. Peter is like a model of the whole of weak humanity. We\'re all like Peter when we haven\'t had the daring---or the courage or the manliness or the faith or the hope or a whole pile of other virtues---to stick with Christ.
 
-It\'s a moment to examine our conscience and see if in the last few weeks, or in the last few months, or in the last few years or in the last few decades, if I have been following Our Lord at a distance---a safe, comfortable distance---where Christ and His moral law and His ideas can\'t make too much of a demand on my comfortable life.
+It\'s a moment to examine our conscience and see if in the last few weeks, or in the last few months, or in the last few years, or in the last few decades, if I have been following Our Lord at a distance---a safe, comfortable distance---where Christ and His moral law and His ideas can\'t make too much of a demand on my comfortable life.
 
 In areas of poverty, in areas of honesty, in areas of purity and chastity, in areas of industriousness, in areas of order---in all the areas of our life where Our Lord wants to shape our being---maybe we\'ve been following at a distance. All of this, because Peter neglected his prayer.
 
 "When they had kindled a fire in the middle of the courtyard and were seated together, Peter was in their midst" (Luke 22:55).
 
-So now there\'s a fire in the courtyard. Lo and behold, Peter is around the fire. He\'s cold on the inside and so he\'s cold on the outside. He looks for a sense compensation.
+So now there\'s a fire in the courtyard. Lo and behold, Peter is around the fire. He\'s cold on the inside and so he\'s cold on the outside. He looks for sense compensation.
 
 This is the pathway of all of our great faults. We fall away from Christ because we neglect our prayer, we mistake the means, we follow Him at a distance, and then we look for sense compensation---too much music, too many movies, too much food or drink, etc., etc.
 
@@ -195,7 +195,7 @@ It\'s an invitation---the story of the Agony in the Garden and the fall of Peter
 
 Action is no excuse for prayer. We might spend time running around the place, but eventually, the areas of conversion in our life catch up with us. We need to spend time alone with Our Father God, to let Him work on our soul, to bring about that new conversion.
 
-We need the breath of divine life. John Paul II says the Holy Spirit breathes prayer into the soul of man (cf. John Paul II, *Encyclical*, *Dominum et vivificantem*, Point 65, May 18, 1986).
+We need the breath of divine life. John Paul II says the Holy Spirit breathes prayer into the soul of man (*cf*. John Paul II, *Encyclical*, *Dominum et vivificantem*, Point 65, May 18, 1986).
 
 We can be grateful to God that we know what prayer is, that we know how to pray and take very good care that Our Lord can lead us along pathways of deeper prayer.
 
