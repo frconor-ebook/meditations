@@ -27,7 +27,7 @@ The Old Testament sacrifices were offerings made to God in recognition of His so
 
 The act of total or partial destruction of the victim on the altar was a symbol and image of the authentic sacrifice which, in the fullness of time, Christ was to offer on Calvary.
 
-Jesus, being made High Priest forever, offered himself to God as a most pleasing victim of infinite value. He willed to be at one and the same time "the Priest, the Altar, and the \[Lamb of sacrifice\]" (Roman Missal, *Easter Preface* V).
+Jesus, being made High Priest forever, offered Himself to God as a most pleasing victim of infinite value. He willed to be at one and the same time "the Priest, the Altar, and the \[Lamb of sacrifice\]" (Roman Missal, *Easter Preface* V).
 
 On Calvary, Jesus the High Priest made a most acceptable offering of praise and thanksgiving to God: "it was so perfect that none greater can be thought of" (Thomas Aquinas, *Summa Theologiae*, Part III, Question 48).
 
@@ -43,11 +43,11 @@ Pope Pius XII, in his very beautiful encyclical *Mediator Dei,* has said, "Chris
 
 What Pope Pius XII explains here, really, is what\'s called the virtue of priestly soul, which means having the same sentiments as Christ on the Cross when we do our daily work, when we fulfill our family obligations, when we\'re resting or playing sport, or when some challenge or contradiction or cross or difficulty comes along. Sentiments of humility, of adoration, of thanksgiving.
 
-The Second Vatican Council has liked to say that all Christians have a priestly soul (cf. Vatican II, *Lumen gentium*, Point 31, November 21, 1964).
+The Second Vatican Council has liked to say that all Christians have a priestly soul (*cf*. Vatican II, *Lumen gentium*, Point 31, November 21, 1964).
 
 Blessed Álvaro del Portillo has said the whole Church participates in the redemptive mission of Christ the priest, "which is entrusted to all the members of the people of God, who, through the sacraments of initiation, have been made sharers in the priesthood of Christ, to offer to God a spiritual sacrifice and bear witness to Christ before man" (Álvaro del Portillo, *On Priesthood*).
 
-We share in that mission of Christ the Priest because of our Baptism. We\'re marked with a seal, a seal that gives us a participation in that priesthood (cf. *Catechism of the Catholic Church*, Points 1268, 1273).
+We share in that mission of Christ the Priest because of our Baptism. We\'re marked with a seal, a seal that gives us a participation in that priesthood (*cf*. *Catechism of the Catholic Church*, Points 1268, 1273).
 
 All the lay faithful participate in Christ\'s priesthood, although in a manner which is different from that of priests, not only in degree, but essentially.
 
@@ -57,11 +57,11 @@ The mother who clears away the breakfast table or goes upstairs to make beds, or
 
 In this way, all of them, offering their lives and their work through the Mass, make daily atonement for the sins of the world.
 
-The document of the Council about priests, *Presbyterorum ordinis,* said that priests and bishops have been expressly called by God, "not in order that they should be separated from the people or from any man, but that they should be completely consecrated to the task 'for which God chooses them' (cf. Acts 13:2).
+The document of the Council about priests, *Presbyterorum ordinis,* said that priests and bishops have been expressly called by God, "not in order that they should be separated from the people or from any man, but that they should be completely consecrated to the task 'for which God chooses them' (*cf*. Acts 13:2).
 
-"They could not be the servants of Christ unless they were witnesses to, and dispensers of, a life other than that of this earth. On the other hand, they would be powerless to serve men if they remained aloof from their life and circumstances" (Vatican II, *Presbyterorum ordinis*, Point 3).
+"They could not be the servants of Christ unless they were witnesses to, and dispensers of, a life other than that of this earth. On the other hand, they would be powerless to serve men if they remained aloof from their life and circumstances" (Vatican II, *Presbyterorum ordinis*, Point 3, December 7, 1965).
 
-The priest has been chosen from among men to be invested with a dignity that astounds even the angels, and then sent back to men to serve them in relation to God with a unique and special salvific mission.
+The priest has been chosen from among men to be invested with a dignity that astounds even the angels, and then sent back to men to serve them in relation to God with a unique and salvific mission.
 
 The priest repeatedly takes the place of Christ on earth: he has received Christ\'s power to forgive sins, he teaches men the way to heaven, and above all, he lends his hands and his voice to Christ in the most sublime moment of the Mass.
 
@@ -71,7 +71,7 @@ The priesthood is a marvelous gift which God has given to His Church. St. Josema
 
 That's one of the reasons why we have to pray for priests. St. Josemaría indicated three specific days in the course of the year when we could particularly pray for all the priests of the world: on Holy Thursday, the institution of the priesthood; on June 25, the anniversary of the ordination of the first three priests of Opus Dei; and on August 4, the Feast of the Curé of Ars, St. Jean Mary Vianney, who is the patron saint of all parish priests.
 
-"If we think about these ideas in our prayer, then we\'ll never think of the priesthood in terms of renunciation. It is a gain, an incalculable gain. Our Mother Mary, the holiest of creatures---only God is holier---brought Jesus Christ into the world just once; priests bring him on earth, to our soul and body, every day. Christ comes to be our food, to give us life, to be, even now, a pledge, a promise, of future life" (cf. Josemaría Escrivá, *In Love with the Church*, Point 39).
+"If we think about these ideas in our prayer, then we\'ll never think of the priesthood in terms of renunciation. It is a gain, an incalculable gain. Our Mother Mary, the holiest of creatures---only God is holier---brought Jesus Christ into the world just once; priests bring him on earth, to our soul and body, every day. Christ comes to be our food, to give us life, to be, even now, a pledge, a promise, of future life" (*cf*. Josemaría Escrivá, *In Love with the Church*, Point 39).
 
 It\'s a good time in our prayer to thank Our Lord for this great gift. Thank you, Lord, for the invitations to the priesthood that you constantly issue to men.
 
@@ -89,7 +89,7 @@ What the faithful require of their priests is that they would be always exemplar
 
 Our Lord, who is present among us in many ways, is particularly present in the person of the priest. Each priest is a gift of God to the world. He is Jesus who goes about doing good. He cures illnesses. He brings peace and joy to men\'s minds.
 
-The Second Vatican Council says he is the "living instrument of Christ in the world" (*Ibid*., Point 12).
+The Second Vatican Council says he is the "living instrument of Christ in the world" (*ibid*., Point 12).
 
 He offers Our Lord "his voice, his hands, his whole being" (J. Escrivá, *In Love with* *the Church*, Point 39). At Mass, he renews in the person of Christ the redemptive Sacrifice of Calvary itself. He makes Christ\'s Redemption present and effective within history.
 
@@ -103,7 +103,7 @@ That\'s one of the reasons why we also have to pray constantly for the holiness 
 
 Our Lord selected the apostles, not only as messengers, prophets, and witnesses, but also as His own representatives. Their new identity to act in the person of Christ needs to be expressed in a life which is simple and austere, a holiness which inspires a wholehearted dedication to the welfare of others.
 
-Our Lord told them to take a staff for their journey, but nothing else: "no bread, no haversack, no money in their wallets" (cf. Mark 6:8).
+Our Lord told them to take a staff for their journey, but nothing else: "no bread, no haversack, no money in their wallets" (*cf*. Mark 6:8).
 
 God takes possession of the man He calls to the priesthood and consecrates him to the service of his fellow men, and bestows upon him a new personality.
 
@@ -117,7 +117,7 @@ Once he has been chosen and consecrated to the service of God and others, he\'s 
 
 The priest is a messenger from God to the world, sent to announce to mankind its salvation, and is constituted a steward of the mysteries of God (1 Cor. 4:1).
 
-These mysteries include the Body and Blood of Christ, which he offers the faithful at Mass and at Holy Communion; the grace of God in the sacraments; and the divine Word which he utters in preaching, in catechesis, and in Confession.
+These mysteries include the Body and Blood of Christ, which he offers the faithful at Mass and at Holy Communion; the grace of God in the sacraments; and the Divine Word which he utters in preaching, in catechesis, and in Confession.
 
 To the priest has been confided the most divine of divine works, the salvation of souls. He has been made an ambassador and a mediator between God and men.
 
@@ -133,11 +133,11 @@ The tree of the Cross is full with fruits. Suffering can help us to become more 
 
 Trials and tribulations offer us a chance to make reparation for our past faults and sins. St. Augustine teaches that on such occasions, Our Lord, the Eternal High Priest, comes to us like a physician to heal the wounds left by our sins. Tribulation is the divine medicine (St. Augustine, *Commentary on the Psalms*).
 
-Suffering can move us to have recourse to the divine mercy. Our Lord said through the lips of the prophet Hosea: "Come, let us return to the Lord; for he has torn, that he may heal us" (Hos 6:1).
+Suffering can move us to have recourse to the Divine Mercy. Our Lord said through the lips of the prophet Hosea: "Come, let us return to the Lord; for he has torn, that he may heal us" (Hos. 6:1).
 
 Our Lord Himself invites us and urges us to rely on Him in times of trial: "Come to me, all you who labor and are heavy laden, and I will give you rest" (Matt. 11:28).
 
-Truly Christ, the Eternal High Priest, is "our refuge and our strength"---words taken from the Psalms (Ps 46:1). In the midst of life\'s tempests, Christ is our one safe harbor.
+Truly Christ, the Eternal High Priest, is "our refuge and our strength"---words taken from the Psalms (Ps. 46:1). In the midst of life\'s tempests, Christ is our one safe harbor.
 
 Contradictions, sickness, and pain challenge us to acquire and live many virtues such as faith, fortitude, cheerfulness, humility, docility to the divine Will.
 

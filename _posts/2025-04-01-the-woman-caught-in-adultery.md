@@ -49,11 +49,11 @@ Every day, in every corner of the world, Our Lord, through His ministers, the pr
 
 In his Apostolic Exhortation *Reconciliation and Penance*, Pope St. John Paul II said: "The sacramental formula 'I absolve you' and the imposition of the hand and the Sign of the Cross made over the penitent show that at this moment the contrite and converted sinner comes into contact with the power and mercy of God. It is the moment at which, in response to the penitent, the Trinity becomes present in order to block out sin and restore innocence. And the saving power of the passion for the death and resurrection of Jesus is also imparted to the penitent. \... God is always the one who is principally offended by sin and God alone can forgive."
 
-The words pronounced by the priest are not just a prayer of supplication to ask God to forgive our sins, or a mere certification that God has deigned to grant us His pardon, but "at that moment every sin is forgiven and blotted out by the mysterious intervention of the Savior."
+The words pronounced by the priest are not just a prayer of supplication to ask God to forgive our sins, or a mere certification that God has deigned to grant us His pardon, but "at that moment every sin is forgiven and blotted out by the mysterious intervention of the Savior" (John Paul II*,* Apostolic Exhortation, *Reconciliation and Penance*, December 2, 1984).
 
 Few words have ever produced more joy in the world than the words of absolution: "I absolve you from your sins..."
 
-St. Augustine affirms that the wonder they work is greater than the very creation of the world (cf. St. Augustine, *Commentary on St. John's Gospel*).
+St. Augustine affirms that the wonder they work is greater than the very creation of the world (*cf*. St. Augustine, *Commentary on St. John's Gospel*).
 
 We can be very grateful to hear those words when we go to the sacrament of forgiveness. How often have we thanked God for having this sacrament so close at hand? We could try in the future to show our gratitude more frequently to Our Lord for this great gift.
 
@@ -65,19 +65,19 @@ We can renew our purpose of amendment---our desire to be better, our desire to i
 
 It\'s the moment of savoring the joy of having grace restored, if we have lost it, and receiving an increase of grace and greater union with God.
 
-St. Ambrose says: "See, the father comes out to meet you. He will fall on your neck and will give you a kiss, the pledge of love and tenderness. He will make them bring you a cloak, shoes for your feet. You still fear a reprimand\...you are afraid of hearing words filled with anger, and instead, he prepares a banquet for you."
+St. Ambrose says: "See, the father comes out to meet you. He will fall on your neck and will give you a kiss, the pledge of love and tenderness. He will make them bring you a cloak, shoes for your feet (Luke 15:20-24). You still fear a reprimand\...you are afraid of hearing words filled with anger, and instead, he prepares a banquet for you" (St. Ambrose, *Commentary on St. Luke's Gospel*).
 
 Our \"Amen" to the words of the priest turns into a longing to start again even though we may have only confessed venial sins.
 
-After Confession, we can thank God for His mercy towards us and stop, even though only momentarily, to decide exactly how we\'re going to put into practice the advice or indications we\'ve received and how to make our purpose of amendment more effective.
+After Confession, we can thank God for His mercy towards us and stop, even though only momentarily, to decide exactly how we\'re going to put into practice the advice or indications we\'ve received or how to make our purpose of amendment more effective.
 
-"She told all her friends: 'Come and meet this person who told me all about myself'" (John 4:28). She ran to tell her friends so that they could. benefit from this unique opportunity that Our Lord\'s journey through her town had afforded them.
+"She told all her friends: 'Come and meet this person who told me all about myself'" (John 4:28). She ran to tell her friends so that they could benefit from this unique opportunity that Our Lord\'s journey through her town had afforded them.
 
 It would be hard to find a greater act of charity, that of announcing to those who are covered in mud and lacking strength, the source of salvation that we have discovered, when we are purified and reconciled to God.
 
 We could think in our prayer: Do we use the means to carry out an effective apostolate of Confession?
 
-Do we bring our friends to this Tribunal of divine mercy---perhaps, in particular, using special periods of the year, like Lent and Advent, to remind people about the sacrament? Or to show within our family that great apostolate of example of what the sacrament means for us?
+Do we bring our friends to this Tribunal of Divine Mercy---perhaps, in particular, using special periods of the year, like Lent and Advent, to remind people about the sacrament? Or to show within our family that great apostolate of example of what the sacrament means for us?
 
 We can ask Our Lord to increase our desire to purify ourselves by going frequently to the sacrament of Penance to receive that spiritual gold of sanctifying grace. Or we could examine our conscience and see if sometimes we might leave this meeting with God\'s mercy for later.
 
@@ -85,11 +85,13 @@ In that same Apostolic Exhortation, John Paul II says, "Satisfaction (the doing 
 
 The Council of Florence said that our sins, even after they have been forgiven, deserve a temporal punishment which has to be undergone in this life, or after death in purgatory, which is where those souls who die in a state of grace without having made satisfaction for their sins.
 
-After its reconciliation with God, there are still left in the soul the remains of sin; a weakness of the will to abide in the good. St. John Chrysostom says that there will remain also a certain facility for making wrong judgments, a certain disorder in the sensual appetite. They are the weakened scars of actual sin and the disordered tendencies left in man by original sin, which are brought to a head by our personal sins.
+After its reconciliation with God, there are still left in the soul the remains of sin; a weakness of the will to abide in the good. There will remain also a certain facility for making wrong judgments: a certain disorder in the sensual appetite.
+
+They are the weakened scars of actual sin and the disordered tendencies left in man by original sin, which are brought to a head by our personal sins.
 
 "It is not enough to remove the arrow from the body," says St. John Chrysostom. "We also have to heal the wound caused by the arrow. It is the same with the soul; after we have received forgiveness for our sins, we have to heal the wound that remains through penance."
 
-Pope St. John Paul II has said that "even after absolution there remains in the Christian a dark area due to the wound of sin, to the imperfection of love in repentance, to the weakening of the spiritual faculties. It is an area in which there still operates an infectious source of sin that must always be fought with mortification and penance. This is the meaning of the humble but sincere act of satisfaction" (Apostolic Exhortation, \"*Reconciliation* *and* *Penance*" and *General Audience*, March 7, 1984).
+Pope St. John Paul II has said that "even after absolution there remains in the Christian a dark area due to the wound of sin, to the imperfection of love in repentance, to the weakening of the spiritual faculties. It is an area in which there still operates an infectious source of sin that must always be fought with mortification and penance. This is the meaning of the humble but sincere act of satisfaction" (*Apostolic Exhortation*, \"Reconciliation and Penance" and *General Audience*, March 7, 1984).
 
 We could be mindful of how, each Lent and Advent, Pope Francis and also the popes before him have shown themselves hearing Confession at St. Peter's. Pope Francis has also allowed himself to be photographed going to Confession. That photograph could go all over the world. Not everyone would be comfortable to have themselves photographed going to Confession, and that\'s a great example of the Holy Father.
 
@@ -101,7 +103,7 @@ Usually, the penance we\'re given is easy to perform and, if we really love God,
 
 We look at this lady caught in adultery, the reaction of Our Lord, and His mercy. It can lead us to contemplate the infinite mercy of God, to thank Him for His mercies toward each one of us. which knows no bounds.
 
-We see that His mercy is greater than His justice, that God is the Father of mercy. He "sees in secret, but He also rewards in secret" (cf. Matt. 6:4,6,18). He wants to reveal the mystery of His love.
+We see that His mercy is greater than His justice, that God is the Father of mercy. He "sees in secret, but He also rewards in secret" (*cf*. Matt. 6:4,6,18). He wants to reveal the mystery of His love.
 
 In the Encyclical *Dives in misericordia* ("Rich in Mercy"), St. John Paul II says that modern man "needs mercy."
 
@@ -119,23 +121,23 @@ There are three beautiful parables of St. Luke: the shepherd who leaves the nine
 
 So now God has thrown a party through which we can receive God\'s infinite mercy. It is interesting to think of the sacrament of Confession as a regular party to which we are invited, and we can tell all our friends and bring them also.
 
-Lord, help us to go to the party to receive your mercy, that party which in Scripture is often called the eternal wedding feast (cf. Isa. 25:6; Rev. 19:7-9).
+Lord, help us to go to the party to receive your mercy, that party which in Scripture is often called the eternal wedding feast (*cf*. Isa. 25:6; Rev. 19:7-9).
 
-St. John Paul says there is "no human sin that can erase the mercy of God or prevent him from unleashing all his triumphant power, if we only call upon him. Sin itself makes even more radiant the love of the Father, who, in order to ransom a slave, sacrificed his Son. His mercy towards us is Redemption" (John Paul II, Encyclical, *Veritatis Splendor*). Without sin, there is no mercy.
+St. John Paul says there is "no human sin that can erase the mercy of God or prevent him from unleashing all his triumphant power, if we only call upon him. Sin itself makes even more radiant the love of the Father, who, in order to ransom a slave, sacrificed his Son. His mercy towards us is Redemption" (John Paul II, *Encyclical*, *Veritatis Splendor*). Without sin, there is no mercy.
 
 "It\'s proper to God," said St. Thomas Aquinas, "to exercise mercy, and he manifests his omnipotence, particularly in this way." St. Thomas shows us that God\'s mercy, rather than a sign of weakness, is the mark of His omnipotence.
 
-John Paul II says, "In Christ and through Christ, God also becomes especially visible in His mercy; that is to say, there is an emphasis on that attribute of divinity which the Old Testament, using various concepts and terms, already defined as 'mercy.' Christ confers on the whole of the Old Testament tradition about God\'s mercy a definitive meaning. Not only does He speak of it and explain it by the use of comparisons and parables, but above all He Himself makes it incarnate and personifies it. In a certain sense, He Himself is mercy. To the person who sees it in Him---and finds it in Him---God becomes 'visible' in a particular way as the Father who is rich in mercy" (Eph. 2:4).
+John Paul II says, "In Christ and through Christ, God also becomes especially visible in his mercy; that is to say, there is an emphasis on that attribute of divinity which the Old Testament, using various concepts and terms, already defined as 'mercy.' Christ confers on the whole of the Old Testament tradition about God\'s mercy a definitive meaning. Not only does he speak of it and explain it by the use of comparisons and parables, but above all he himself makes it incarnate and personifies it. In a certain sense, he himself is mercy. To the person who sees it in him---and finds it in him---God becomes 'visible' in a particular way as the Father who is rich in mercy" (Eph. 2:4).
 
-That was the title of one of Pope St. John Paul\'s next Encyclical: *Dives in Misericordia,* Rich in Mercy.
+That was the title of one of Pope St. John Paul\'s next encyclicals: *Dives in Misericordia,* Rich in Mercy.
 
 We need to contemplate the "mystery of mercy" constantly. It\'s a wellspring of joy, serenity, and peace. Our salvation depends upon it.
 
-"In the parables devoted to mercy, Our Lord reveals the nature of God as that of a Father who never gives up until he has forgiven the wrong and overcome rejection with compassion and mercy. \... Mercy is the very foundation of the Church\'s life, says St. John Paul (Bull of Indiction, *Misericordiae Vultus* of the Extraordinary Jubilee of Mercy).
+"In the parables devoted to mercy, Our Lord reveals the nature of God as that of a Father who never gives up until he has forgiven the wrong and overcome rejection with compassion and mercy. \... Mercy is the very foundation of the Church\'s life, says St. John Paul (*Bull of Indiction*, *Misericordiae Vultus* of the Extraordinary Jubilee of Mercy).
 
-"The Church has an endless desire to show mercy" (Pope Francis, Apostolic Exhortation*, Evangelii Gaudium*).
+"The Church has an endless desire to show mercy" (Pope Francis, *Apostolic Exhortation, Evangelii Gaudium*).
 
-"All of her pastoral activity should be caught up in the tenderness she makes present to believers. \... The Church is commissioned to announce the mercy of God, the beating heart of the Gospel, which in its own way must penetrate the heart and mind of every person (John Paul II, Bull of Indiction, *Misericordiae Vultus* of the Extraordinary Jubilee of Mercy).
+"All of her pastoral activity should be caught up in the tenderness she makes present to believers. \... The Church is commissioned to announce the mercy of God, the beating heart of the Gospel, which in its own way must penetrate the heart and mind of every person (John Paul II, *Bull of Indiction*, *Misericordiae Vultus* of the Extraordinary Jubilee of Mercy).
 
 In the *Furrow,* St. Josemaría says: "Invoke the Heart of Holy Mary, with the purpose and determination of uniting yourself to her sorrow, in reparation for your sins and the sins of men of all times. And pray to her---for every soul---that her sorrow may increase in us our aversion from sin, and that we may be able to love the physical or moral contradictions of each day as a means of expiation (Josemaría Escrivá, *Furrow*, Point 258).
 
