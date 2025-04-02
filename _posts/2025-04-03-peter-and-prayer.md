@@ -39,7 +39,7 @@ There\'s some great spiritual fruitfulness that is tied to this particular chali
 
 He wants this suffering to pass, but then in spite of the depth of His own willing, He gives way to the will of His Father.
 
-One thing we learn from the Agony of Christ in the garden is to come to love the will of God, even if it seems to conflict very dramatically with our own. because we know that it\'s in accepting the will of God that we will find salvation. We will find happiness.
+One thing we learn from the Agony of Christ in the garden is to come to love the will of God, even if it seems to conflict very dramatically with our own, because we know that it\'s in accepting the will of God that we will find salvation. We will find happiness.
 
 Lord, teach us to love your will, to thank you for your will. There\'s a point in *The Way* that says, "Abandonment to the will of God is the secret of happiness on earth" (Josemaría Escrivá, *The Way*, Point 766).
 
