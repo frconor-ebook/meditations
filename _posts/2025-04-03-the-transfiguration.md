@@ -203,4 +203,8 @@ One spiritual writer says: "Let us ask Our Lady to help learn to offer with sere
 
 We could ask Our Lady, Gate of Heaven, that she might help us to keep our focus there and to be ready to handle whatever it is that God may send us on a day-to-day basis, so that we can truly achieve our eternal reward and be as faithful as the apostles were.
 
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
 *JM*
