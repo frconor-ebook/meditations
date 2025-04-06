@@ -11,7 +11,7 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask pardon for my sins, and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"Then the mother of Zebedee sons came with her sons to make a request of him, and bowed low, and he said to her, 'What is it you want?' She said to him, 'Promise that these two sons of mine may sit one at your right hand, and the other at your left in your kingdom.' Jesus answered, 'You do not know what you are asking. Can you drink the cup that I am going to drink?' They replied, 'We can'" (Matt. 20:20-22).
+"Then the mother of Zebedee\'s sons came with her sons to make a request of him, and bowed low, and he said to her, 'What is it you want?' She said to him, 'Promise that these two sons of mine may sit one at your right hand, and the other at your left in your kingdom.' Jesus answered, 'You do not know what you are asking. Can you drink the cup that I am going to drink?' They replied, 'We can'" (Matt. 20:20-22).
 
 While Our Lord was on His way to Jerusalem, He spoke for the third time to His disciples about His Passion and Death, and of His glorious Resurrection.
 
@@ -35,11 +35,11 @@ They had not placed any limits on how far they were willing to follow Our Lord; 
 
 When we make a petition for something, when we pray, we ought to be disposed towards accepting above all the Will of God---even when it doesn\'t accord or run parallel with our wishes.
 
-"His Majesty knows best what is suitable for us; it\'s not for us to advise him what to give us, for he can rightly reply that we do not know what we ask." (St. Teresa of Avila, *Interior Castle*, 2, 8).
+"His Majesty knows best what is suitable for us; it\'s not for us to advise him what to give us, for he can rightly reply that we do not know what we ask" (Teresa of Avila, *Interior Castle*).
 
 He wants us to ask Him for what we need and what we want. But above all, He wants us to conform our will to His. And we know that He will always give us what is best.
 
-James and John ask for a place of honor in the new Kingdom. Jesus talks to them about redemption. He asks them if they are ready to suffer with Him. He uses the familiar Hebrew image of a chalice, which symbolizes the will of God for an individual---referred to in the Psalms. The Lord\'s is a bitter chalice, which will turn to "a chalice of blessings" (Isa. 51:17-22) for all men*.*
+James and John ask for a place of honor in the new Kingdom. Jesus talks to them about redemption. He asks them if they are ready to suffer with Him. He uses the familiar Hebrew image of a chalice, which symbolizes the will of God for an individual---referred to in the Psalms (*cf*. Ps. 16:5). The Lord\'s is a bitter chalice, which will turn to "a chalice of blessings" (Isa. 51:17-22) for all men*.*
 
 Drinking the cup of another was a sign of deep friendship and of readiness to share a common destiny. It is to this intimate relationship that Our Lord invites those who wish to follow Him.
 
@@ -53,15 +53,15 @@ Our Lord is going to use that word also later in the prayer in the garden of Get
 
 James was going to die a few years later, beheaded at the orders of Herod Agrippa. St. John underwent great suffering and persecution for love of His Lord.
 
-"Our Lord has called us too and asks us, as he asked James and John: 'Are you ready to drink the cup'---that cup which means giving yourself fully to the will of the Father---'the cup which I am going to drink?'"
+"Our Lord has called us too and asks us, as he asked James and John: 'Are you ready to drink the cup'---that cup which means giving yourself fully to the will of the Father---'which I am going to drink?'" (Josemaría Escrivá, *Christ Is Passing By,* Point 15).
 
-The reply of the sons of thunder in Latin is *Possumus!---"*Yes! We are ready!"
+The reply of the sons of thunder in Latin is *Possumus*!: "Yes! We are ready!"
 
-"Are you and I really ready to carry out in everything the will of our Father God? Have we given our Lord our whole heart, or are we attached to ourselves and our interests and comfort and self-love? Is there anything in our lives that is out of keeping with our Christianity, something which makes us unwilling to mend our ways? Today we\'re given a chance to see things straight" (St. Josemaria, *Christ Is Passing By,* Point 15).
+"Are you and I really ready to carry out, in everything, the will of our Father God? Have we given our Lord our whole heart, or are we attached to ourselves and our interests and comfort and self-love? Is there anything in our lives that is out of keeping with our Christianity, something which makes us unwilling to mend our ways? Today we\'re given a chance to see things straight" (*ibid*.).
 
 One good thing to try and foster in our life is the spirit of penance in the ordinary things of each day, offering up the little pains and aches.
 
-When that woman made her motherly request, Jesus asked His disciples, "'Can you drink of the chalice?' The Lord knew that they could imitate his Passion, but nonetheless, He asked them, that so that for us too it is made clear that no one can reign with Christ who has not previously imitated his Passion. 'For highly valued things are not obtained except at a high price" (St. John Chrysostom, *Homilies of St. Matthew,* 35).
+When that woman made her motherly request, Jesus asked His disciples, "'Can you drink of the chalice?' The Lord knew that they could imitate his Passion, but nonetheless, He asked them, that so that for us too it is made clear that no one can reign with Christ who has not previously imitated his Passion. For highly valued things are not obtained except at a high price" (John Chrysostom, *Homilies of St. Matthew*).
 
 The Christian life cannot exist without sacrifice. This is its price.
 
@@ -71,7 +71,7 @@ The word "redemption" comes from the Latin word *redemptio,* derived from the ve
 
 From now on, sorrow will always be able to associate itself with the Lord\'s chalice, to unite itself to His Passion for the redemption of all mankind. The sorrows, the pains, the tragedies of hearts, broken hearts, or other things that God may permit in our life---exterior pain, interior pain---all can be a divine call to unite ourselves to the chalice of Christ.
 
-What previously was meaningless now makes sense in Christ. Pope St. John Paul says, 'In Christ, we find the meaning and the purpose of our life.'
+What previously was meaningless now makes sense in Christ. Pope St. John Paul says, "In Christ, we find the meaning and the purpose of our life" (*cf*. John Paul II, *Homily*, World Youth Day, August 14, 1993).
 
 St. Paul says, "Therefore I endure everything for the sake of the elect, that they also may obtain the salvation which in Christ Jesus goes with eternal glory" (2 Tim. 2:1).
 
@@ -89,7 +89,7 @@ There is nothing is lacking in the sufferings of Christ. But what is lacking is 
 
 We are the first beneficiaries, but the supernatural effectiveness of our sorrow offered up, and of our voluntary mortification, reaches out to the whole Church; and even to the entire world. With those little chalices offered up, we can send arterial blood to the rest of the Mystical Body of Christ.
 
-This voluntary mortification is a means of purification and atonement. It is necessary if we are able to converse with the Lord in prayer and it\'s indispensable for apostolic activity---for "action is worth nothing without prayer, and prayer grows in value with sacrifice" (St. Josemaría, *The Way*, Point 81).
+This voluntary mortification is a means of purification and atonement. It is necessary if we are able to converse with the Lord in prayer and it\'s indispensable for apostolic activity---for "action is worth nothing without prayer, and prayer grows in value with sacrifice" (J. Escrivá, *The Way*, Point 81).
 
 We can ask Our Lord to help us to practice the spirit of penance and sacrifice in our daily lives, in the ordinary events of every day: when we receive a little piece of bad news, when something unexpected happens, when our plans don\'t work out, when we\'re feeling a little bit tired and weary, when we have so many things to do and we don\'t seem to be making any progress. These are moments to unite ourselves to the Cross of Christ.
 
@@ -99,15 +99,17 @@ Very often that penance can be the ordinary things: getting up on time, not leav
 
 If we have a to-do list, we have priorities, but that ensures that we get the most important things done, irrespective of how we might feel about those things.
 
-We hit the right things all the time. "We are practicing penance when we lovingly keep to our schedule of prayer, in spite of the fact that we might feel cold, listless, or not inclined to prayer. We keep our appointment.
+We hit the right things all the time. "We are practicing penance when we lovingly keep to our schedule of prayer, in spite of the fact that we might feel cold, or listless, or not inclined to prayer. We keep our appointment.
 
 "Penance means being very charitable at all times towards those around us, starting with the members of our own family: a kind word, a cheerful smile, an encouraging demeanor. It also means being full of tenderness and kindness towards the suffering, the sick, the infirm.
 
-"It\'s penance to give patient answers, particularly to people who might be a little bit boring or irritating. It may mean interrupting our work or changing our plans when circumstances make it necessary"---complicating our life, making time for a person who needs to talk or who needs a pair of ears, putting off what we would like to do until later, which could be a TV program or a football match---or something we\'ve been wanting to do for a long time.
+"It\'s penance to give patient answers, particularly to people who might be a little bit boring or irritating. It may mean interrupting our work or changing our plans when circumstances make it necessary"---complicating our life, making time for a person who needs to talk or who needs a pair of ears, putting off what we would like to do until later, which could be a TV program or a football match, or something we\'ve been wanting to do for a long time.
 
-"All this becomes very important when the just and rightful needs of others are involved" (cf. Josemaría Escrivá, *Friends of God,* Point 138).
+"All this becomes very important when the just and rightful needs of others are involved" (*cf*. J. Escrivá, *Friends of God,* Point 138).
 
-There was a little girl once who was talking to her dad, and then she said, "Daddy, you\'re not listening to me." He was reading the newspaper while he listened to his daughter, and he said, "Yes, I\'m hearing every word that you\'re saying."
+There was a little girl once who was talking to her dad, and then she said, "Daddy, you\'re not listening to me."
+
+He was reading the newspaper while he listened to his daughter, and he said, "Yes, I\'m hearing every word that you\'re saying."
 
 But then she said, "But you\'re not looking at me." The little girl had a point.
 
@@ -115,11 +117,11 @@ But then she said, "But you\'re not looking at me." The little girl had a point.
 
 It may take a bit of an effort to put down the newspaper and look at that child when that child is speaking to us, giving them our full attention.
 
-"Penance consists of putting up in a cheerful way the thousand and one little pinpricks of each day, diffusing situations of tension or discomfort, having the right words to say that help people pass over a difficult situation. It may be penance to keep up the job that we\'re involved in, even though we might have momentarily lost the enthusiasm with which we started it.
+"Penance consists in putting up in a cheerful way the thousand and one little pinpricks of each day," diffusing situations of tension or discomfort, having the right words to say that help people pass over a difficult situation. It may be penance to "keep up the job that we\'re involved in, even though we might have momentarily lost the enthusiasm with which we started it."
 
-It can be penance to eat whatever is placed in front of us, being grateful and happy with what we\'ve been served, without being fussy. For parents and for those whose work may involve supervision or teaching, it may be penance to correct whenever it\'s necessary---and that should be done bearing in mind the type of fault committed and also the situation of the person who needs to be helped, not letting oneself be swayed by subjective viewpoints, which can often be cowardly or sentimental."
+It can be penance to eat whatever is placed in front of us, being grateful and happy "with what we\'ve been served, without being fussy. For parents and for those whose work may involve supervision or teaching, it may be penance to correct whenever it\'s necessary. This should be done bearing in mind the type of fault committed and the situation of the person who needs to be helped, not letting oneself be swayed by subjective viewpoints, which can often be cowardly or sentimental.
 
-'A spirit of penance keeps us from becoming too attached to the vast amount of blueprints we have made for our future projects, where we have already foreseen our master strokes and brilliant successes. What joy we give to God when we are happy to lay aside our third-rate painting efforts and let him put in the features and colors of his choice' (St. Josemaría, *Friends of God,* Point 138).
+"A spirit of penance keeps us from becoming too attached to the vast amount of blueprints we have made for our future projects, where we have already foreseen our master strokes and brilliant successes. What joy we give to God when we are happy to lay aside our third-rate painting efforts and let him put in the features and colors of his choice!" (J. Escrivá, *Friends of God,* Point 138).
 
 Some mortifications are born out of service to others. The other disciples who had heard Our Lord\'s conversation with the two brothers were indignant.
 
@@ -135,33 +137,33 @@ We might serve somebody in the supermarket queue by allowing them to go in front
 
 This may mean serving the person that we don\'t get on well with, expecting nothing in return. Going out of our way. Going the extra mile. This is all part of charity---treating people well.
 
-This is the best way of giving our life for others, particularly in a hidden way that is hardly noticed, which enables us to tackle that egoism of ours that can deprive us of joy.
+This is the best way of giving our life for others, particularly in a hidden way that is hardly noticed, which enables us to tackle that egoism of ours which can deprive us of joy.
 
 Many professions involve direct service. Those of a housewife, of salespeople, of teachers, and all honest professions, even though less obvious or directly---they all involve service to a certain extent.
 
-We shouldn\'t lose our view, this view of the jobs that we do, so that we can be effectively helped to sanctify ourselves through work.
+We shouldn\'t lose this view of the jobs that we do, so that we can be effectively helped to sanctify ourselves through work.
 
 To serve others requires mortification. It means forgetting about ourselves and making sure that the other person is well cared for or is happy with what they\'re receiving. And if we try to do all of this in a continuing realization of the presence of God, all this can be very pleasing to Our Lord.
 
 On occasion, that type of spirit of service may clash with the mentality of those who only think of themselves. But because Christ came to serve, we have to make that our goal in all situations, irrespective of what may be happening around us.
 
-In this way, we are imitating Christ, and in thus serving willingly out of love. Many human and supernatural virtues are brought into play.
+In this way, we are imitating Christ, and in thus serving willingly, out of love. Many human and supernatural virtues are brought into play.
 
-'This dignity is expressed in readiness to serve, in keeping with the example of Christ who "came not to be served but to serve." If in the light of this attitude of Christ, "being a king" is truly possible only by "being a servant", then "being a servant" also demands so much spiritual maturity that it must be described as "being a king"' (Pope St. John Paul II, *Redeemer of Man/Redemptor Hominis*, no. 21).
+'This dignity is expressed in readiness to serve, in keeping with the example of Christ who 'came not to be served but to serve.' If in the light of this attitude of Christ, 'being a king' is truly possible only by 'being a servant', then 'being a servant' also demands so much spiritual maturity that it must really be described as 'being a king'" (John Paul II, *Redeemer of Man-Redemptor Hominis*, Point 21).
 
-If we look at our education and our Christian formation for a moment and think of the purpose of that education and of all of that Christian formation, we have to remember that the purpose of all that education and formation is service because Christ came not to be served but to serve.
+If we look at our education and our Christian formation for a moment and think of the purpose of that education and of all of that Christian formation, we have to remember that the purpose of all that education and formation is service, because Christ came "not to be served but to serve."
 
 And the service that we give throughout our life can always be improving and can become more effective as we learn how to serve better.
 
-'To be able to serve others worthily and effectively, we must be able to master ourselves, to be able to possess the virtues that make this mastery possible' (Pope St. John Paul II, *Redeemer of Man/Redemptor Hominis*, no. 21).
+"To be able to serve others worthily and effectively, we must be able to master ourselves, to be able to possess the virtues that make this mastery possible" (*ibid*.).
 
 He comes back to talking about temperance, which involves control: control of the self, control of our passions, control of our likes and dislikes, what we want and what we don\'t want, what we like and what we don\'t like---so that we can stand on our pride, on our egoism, on our self-love. That's what allows us to think of others.
 
 To serve others can be our greatest joy, even though we might receive nothing in return, or we might receive no remuneration for our service. To serve beside Christ and for Christ---that is our greatest joy. It is to reign with Him.
 
-Our Lady, who served her Son and St. Joseph, will help us to give ourselves without measure unstintingly. We see in her life and in the life of St. Joseph how they truly were able to share in the chalice of their Son.
+Our Lady, who served her Son and St. Joseph, will help us to give ourselves without measure, unstintingly. We see in her life and in the life of St. Joseph how they truly were able to share in the chalice of their Son.
 
-Those two simple words, "We can!", could well have been on their lips because we see it all the time in their actions.
+Those two simple words "We can!" could well have been on their lips because we see it all the time in their actions.
 
 *I thank you, my God, for the good resolutions, affections and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 

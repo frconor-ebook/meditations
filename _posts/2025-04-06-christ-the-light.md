@@ -11,7 +11,7 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-We read in today\'s Gospel, "No one who has lighted a lamp covers it with a vessel and puts it under a couch, but he puts it on the lamp stand, that they who enter may see the light. For there is nothing hidden that will not be made manifest, nor anything concealed that will not be known and come to light" (Luke 8:16-17).
+We read in today\'s Gospel, "No one who has lighted a lamp covers it with a vessel and puts it under a couch, but he puts it on the lampstand, that they who enter may see the light. For there is nothing hidden that will not be made manifest, nor anything concealed that will not be known and come to light" (Luke 8:16-17).
 
 I find the word "light" appears twice in this short passage. The Gospel of St. John is often called the Gospel of Light. It's an interesting word that appears in Scripture. It was full of significance.
 
@@ -97,7 +97,7 @@ That light is only restored with the resurrection, *Lumen Christi*, the candle o
 
 "I have come, a light in the world, so that whoever believes in me may not remain in darkness" (John 12:46).
 
-In Isaiah it says, "The people that walked in darkness have seen a great light; light has blazed forth (Isa. 9:2). On Christmas night we read these words of Isaiah. The Christ Child, divine love Incarnate, shines a light from Bethlehem.
+In Isaiah it says, "The people that walked in darkness have seen a great light; light has blazed forth (Isa. 9:2). On Christmas night we read these words of Isaiah.
 
 The Christ Child, divine love Incarnate, shines a light from Bethlehem. There is a light streaming from there, a light by which people can see that they can go to heaven.
 
@@ -149,7 +149,7 @@ That light was there on the first Christmas night, without any pretense. It offe
 
 It\'s a meek light with the power of meekness. It\'s a light that speaks to the heart. It\'s also a light that offers the cross. It doesn\'t move us to run away from the cross.
 
-In the Preface of Christmas (III), it says, "Today in him a new light has dawned upon the world"---Christ is always bringing new light---"God has become one with humanity, and we have become one again with God."
+In the Preface of Christmas (III), it says, "Today in him a new light has dawned upon the world"---Christ is always bringing new light. "God has become one with humanity, and we have become one again with God."
 
 The hymn of the carol, *Silent Night*, talks about "radiant beams from thy holy face."
 
@@ -195,7 +195,7 @@ She says, "Come and drink from the springs of living water that the Savior relea
 
 We may come to Him and bring Him gifts, and then in the new year, we should go with Him the entire way of His life on earth.
 
-"Every mystery of this life that we seek to discern in loving contemplation is for us a fount of eternal life" (*Ibid.*).
+"Every mystery of this life that we seek to discern in loving contemplation is for us a fount of eternal life" (*ibid.*).
 
 In the course of our life and vocation, we need to grow more in the light, taking care of our doctrinal formation, assimilating a little better the truths that are presented before us, the things we read.
 
