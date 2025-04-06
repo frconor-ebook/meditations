@@ -13,6 +13,8 @@ By Fr. Conor Donnelly
 
 We are told in the Gospel of today, "Behold, a true Israelite, in whom there is no guile" (John 1:47).
 
+We are told in the Gospel of today, "Behold, a true Israelite, in whom there is no guile" (John 1:47).
+
 It\'s not often that Our Lord compliments any of the apostles. On this occasion, He does so, and He shows us the great esteem He had for that clarity, that transparency, that simplicity that there was in Nathanael---Nathanael who is Bartholomew.
 
 Our Lord loved truth. God is truth. One of the things that He wants us to love in our life is the truth---first and foremost, the truth about ourselves, the truth about ideas, the truth that is reflected in various things. We could ask Our Lord for that grace to grow in our love for the truth, and that we might manifest that truth in all sorts of ways.
@@ -25,11 +27,11 @@ Our Lord has no time for human admiration. He invites us to reject human respect
 
 He invites us to have divine respect and to be concerned about what God may think of us, because God reads the heart.
 
-And when He read the heart of the Pharisees, He saw all sorts of terrible things: "You brood of vipers! You whitewashed walls!" (cf. Matt. 23:27).
+And when He read the heart of the Pharisees, He saw all sorts of terrible things: "You brood of vipers! You whitewashed walls!" (*cf*. Matt. 23:27).
 
 He had no time for them. He invites us to have the sincerity and the simplicity of little children. *Sine cera* means without wax---knowing the truth in all its reality.
 
-In other moments, He has warned us about all the evil things that are lurking there in the human heart: anger, envy, jealousy, lust, gluttony, sloth (cf. Mark 7:21-23). We know this is the reality.
+In other moments, He has warned us about all the evil things that are lurking there in the human heart: anger, envy, jealousy, lust, gluttony, sloth (*cf*. Mark 7:21-23). We know this is the reality.
 
 The virtue of sincerity means that we try and get out all those bad things. We bring them out into the light of another\'s judgment, through spiritual direction or other means. We get out all the badness that\'s there inside us so that God can fill us with His grace. Part of that is knowing how to speak, knowing how to talk about these things.
 
@@ -65,7 +67,7 @@ God wants us to be able to be upright, to be straight, to work the process of ou
 
 First and foremost, we have to be sincere with God. We are always in His presence. We need to have a two-way conversation, face-to-face, without hiding ourselves in anonymity, contemplating the life of Jesus Christ who is our only model.
 
-Sincerity with God in prayer: "The Pharisee, when he went up to the temple to pray, said, "I thank you, Lord, that I am not like the rest of men\...I fast twice a day, I give tithes of all I own, I do this, I do that" (cf. Luke 18:11-12).
+Sincerity with God in prayer: "The Pharisee, when he went up to the temple to pray, said, "I thank you, Lord, that I am not like the rest of men\...I fast twice a day, I give tithes of all I own, I do this, I do that" (*cf*. Luke 18:11-12).
 
 He was tapping himself on the back for all the good things that he did. But he didn\'t see the extent of his pride. He was full of comparisons, criticisms, lording it over others. "I thank you that I am not like this publican."
 
@@ -191,7 +193,7 @@ That helps us to be very natural, to be a Christian through and through, to only
 
 In the *Furrow,* we are told, "Anyone who hides a temptation from their spiritual director shares a secret with the devil. They become a friend of the enemy" (J. Escrivá, *Furrow*, Point 323).
 
-It\'s a rather interesting statement. It doesn\'t say: the day that you embezzle \$50,000 and don\'t tell anybody about it, is the day you\'ve made a secret with the devil.
+It\'s a rather interesting statement. It doesn\'t say: the day that you embezzle \$50,000 and don\'t tell anybody about it is the day you\'ve made a secret with the devil.
 
 "Anyone who hides a temptation\..." The thoughts. Our Lord says to us, 'What are you thinking about? What are the thoughts that pass through your mind? What sort of temptations do you have?' so that we get out those things, so that the battle is far away from the walls of the fortress, all the time very aware of the devil who is like a lion ready to pounce.
 

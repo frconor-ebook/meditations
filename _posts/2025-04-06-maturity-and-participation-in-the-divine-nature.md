@@ -19,7 +19,7 @@ This process encompasses all the dimensions of someone who, in becoming divinize
 
 The Church tells us that "Christ is true God and true man" (*Catechism of the Catholic Church*, Points 464, 480). The phrase occurs in Latin frequently, *perfectus Deus, perfectus homo*. In Him, we contemplate the fully complete human being.
 
-St. John Paul II in his Encyclical, "The Redeemer of Man"--*Redemptor Hominis* says, "Christ the Redeemer 'fully reveals man to himself.' If we may use the expression, this is the human dimension of the mystery of Redemption. In this dimension man finds again the greatness, dignity, and value that belong to his humanity."
+St. John Paul II in his Encyclical, "The Redeemer of Man"--*Redemptor Hominis* says, "Christ the Redeemer 'fully reveals man to himself.' If we may use the expression, this is the human dimension of the mystery of the Redemption. In this dimension man finds again the greatness, dignity, and value that belong to his humanity."
 
 The new life we received at Baptism is destined to be built up "until we all attain to the unity of the faith and in the knowledge of the Son of God, to mature manhood, to the measure of the stature of the fullness of Christ," as St. Paul says to the Ephesians (Eph. 4:13).
 
@@ -103,7 +103,7 @@ And so, in some of his notes, he said, "I believe that the Lord has put in my so
 
 The words of the Psalm could be appropriately applied to him, "I have more understanding than the elders, because I keep your commands" (Ps. 119:100).
 
-And all of this is compatible with the reality that maturity is usually acquired over time, through confronting the failures and successes that are part of the working of divine Providence.
+And all of this is compatible with the reality that maturity is usually acquired over time, through confronting the failures and successes that are part of the working of Divine Providence.
 
 Although sometimes it\'s clear when a person has reached a certain stage of maturity in life, the task of bettering one\'s way of being is a lifetime project.
 
@@ -115,7 +115,7 @@ Holiness requires a patient's day-to-day struggle, recognizing our mistakes and 
 
 In *Christ is Passing By,* we\'re told, "The true-to-life stories of Christian heroes resemble our own experience: they fought and won; they fought and lost. And then, repentant, they returned to the fray" (J. Escrivá, *Christ is Passing By*, Point 76).
 
-God counts on our effort, prolonged over time, to polish our way of being. Someone told the Servant of God, Dora del Hoyo, the first Assistant Numerary of Opus Dei, towards the end of her life: "Dora, nobody who saw you then would believe it if they could see you now. You\'re like a different person."
+God counts on our effort, prolonged over time, to polish our way of being. Someone told the servant of God, Dora del Hoyo, the first Assistant Numerary of Opus Dei, towards the end of her life: "Dora, nobody who saw you then would believe it if they could see you now. You\'re like a different person."
 
 She laughed, knowing very well what it meant. This is quoted in her biography (Javier Medina, *Dora del Hoyo, a Lighted Lamp*).
 
@@ -137,9 +137,9 @@ The balanced person has a prudent confidence in themselves, without relying on t
 
 When the matter requires it, they know how to ask for suitable advice so that they can then decide for themselves and take responsibility for their actions.
 
-Many weaknesses are related to immaturity and are signs of it: laxity, inability to accept a reverse without seeking the sympathy of others, fear of exertion, frequent complaints against setbacks and disappointments that are part and parcel of every human life, a search for ease and comfort above all else, and lack of effort in study and work.
+Many weaknesses are related to immaturity and are signs of it: laxity, inability to accept a reverse without seeking the sympathy of others, fear of exertion, frequent complaints against the setbacks and disappointments that are part and parcel of every human life, a search for ease and comfort above all else, and lack of effort in study and work.
 
-Maturity makes us realistic and objective. One spiritual writer says, "The dreamer is seldom one who is prepared to struggle: it is easier and more amusing for that person to seek refuge and comfort in an imaginary world of their creation, in which by wishful thinking they\'re always the leader who grasps reality and understands and controls it or makes it serve their ends. Thus, the dreamer can become a spineless, weak-willed creature" (Federico Suárez, *About Being a Priest*)---the very opposite of a person who could be a disciple of Christ.
+Maturity makes us realistic and objective. One spiritual writer says, "The dreamer is seldom one who is prepared to struggle: it is easier and more amusing for that person to seek refuge and comfort in an imaginary world of their creation, in which by wishful thinking they\'re always the leader who grasps reality and understands and controls it or makes it serve their ends. Thus, the dreamer can become a spineless, weak-willed creature" (Federico Suarez, *About Being a Priest*)---the very opposite of a person who could be a disciple of Christ.
 
 Maturity requires the tenacity to continue a work once begun, to its very end, without giving up the struggle in the face of this or that obstacle that stands in our way.
 
