@@ -39,13 +39,13 @@ There is nothing that is so completely destroyed as sin that has been forgiven. 
 
 It\'s good that we have a great sense of treasure and of gratitude and of mystery about what is taking place in the sacrament.
 
-Many years ago in another country, a lady who came to Confession. She had her two-year-old son with her, or a bit younger even, and she brought him into the confessional box.
+Many years ago in another country, a lady who came to Confession had her two-year-old son with her, or a bit younger even, and she brought him into the confessional box.
 
 She told me, "When he heard the voice, he was looking around to see where the voice was coming from." He couldn\'t quite decipher what was happening. He had never seen his mother talking to the wall before.
 
 She asked me if she could bring him around the other side so that he could see that there was a priest there.
 
-A few minutes later, the door opened and this child with the siddha in his mouth appeared, poker-faced, and began to stare at me, and then stared at the curtain, and then stared back at me, and then stared at the curtain, and then stared back at me, and then stared at the curtain. This went on about six times.
+A few minutes later, the door opened and this child with the soother in his mouth appeared, poker-faced, and began to stare at me, and then stared at the curtain, and then stared back at me, and then stared at the curtain, and then stared back at me, and then stared at the curtain. This went on about six times.
 
 The child was totally expressionless, but you could see that inside his mind he was thinking, 'What on earth is going on here?'
 
@@ -65,7 +65,7 @@ And he said, "That sounds very good. But the trouble with that is that you never
 
 There\'s a lot of wisdom in that.
 
-Another man, a convert also, said to me, "Father, would you ever mind, please, saying the words of absolution very slowly. Because I look forward to this moment my whole week, to hear those words, 'I absolve you from your sins.'
+Another man, a convert also, said to me, "Father, would you ever mind, please, saying the words of absolution very slowly. Because I look forward to this moment my whole week, to hear those words, 'I absolve you from your sins.'"
 
 Wow. It makes you think a little bit. Something very wonderful is taking place. It\'s very good if we have a great love for the Sacrament of Confession, realize the treasure that is there, and want to avail of that treasure in a regular way.
 
@@ -81,7 +81,7 @@ Lord, I want to be a spiritual millionaire. I might be a material pauper, but I 
 
 You\'ve given me the possibility of such, and that\'s much more important than being a material or dollar millionaire, because "all those things of this world pass away" (1 John 2:17), but the spiritual treasures last forever.
 
-Now, Lord, let\'s place that possibility within reach. If ever we lose the treasure of the *state of grace*, it\'s very good that we try to get back into the state of grace as soon as possible, because we have that sense of treasure.
+Our Lord has placed that possibility within reach. If ever we lose the treasure of the state of grace, it\'s very good that we try to get back into the state of grace as soon as possible, because we have that sense of treasure.
 
 Also, we know from experience that the Sacrament of Confession is "the sacrament of joy" (Pope Francis, *Meeting with Young People*, September 14, 2021). It brings joy and peace to our soul. Everything bad or ugly in our soul has been washed away.
 
@@ -113,7 +113,7 @@ We\'re called to lead lives of love. Contrition is a sorrow for love---sorrow, b
 
 In the *Confiteor* of the Mass, the "I Confess" in each Mass, we say, "for what we have done and for what we have failed to do."
 
-Our sins may be greater, but our omissions may be greater---\"things we have failed to do," things we could have done and didn\'t do because of our laziness, or our lack of thoughtfulness, our slowness.
+Our sins may be great, but our omissions may be greater---\"things we have failed to do," things we could have done and didn\'t do because of our laziness, or our lack of thoughtfulness, our slowness.
 
 Possibly things that God was hoping for from us, but we let Him down, we dropped the ball.
 
@@ -125,7 +125,7 @@ We all have certain weaknesses---consequences of original sin. We all tend to wo
 
 But the fact that we\'re not improving, or we don\'t see ourselves improving, doesn\'t mean that the sacrament is ineffective.
 
-It just means that we need to go back with a deeper contrition, because ultimately, our contrition is a desire to be better, a desire to improve.
+It just means that we need to go back with a deeper contrition, because ultimately, contrition is a desire to be better, a desire to improve.
 
 Every time we go into that confessional box, we\'re saying to Our Lord, 'Lord, help me to be better. I realize on my own I can\'t do anything. Help me to improve. I need your help. I need all the graces that I can get.'
 
@@ -135,21 +135,21 @@ Sometimes our pride blinds us from seeing our sins, from seeing ourselves as we 
 
 St. Josemaría in the *Furrow* says, "We have to instill in our souls a true horror for sin. Lord---say it with a contrite heart---may I never offend you again" (Josemaría Escrivá, *Furrow*, Point 134).
 
-One of the conditions for a valid Confession is that we have what\'s called *purpose of amendment*: the desire never to sin again.
+One of the conditions for a valid Confession is that we have what\'s called purpose of amendment: the desire never to sin again.
 
 That\'s really what the priest has to judge about. "This person is really sorry."
 
-If somebody comes to Confession and says, "Bless me, Father, for I have sinned, I murdered fifty people last week, and if I get half the chance, I\'ll murder another fifty this week."
+If somebody comes to Confession and says, "Bless me, Father, for I have sinned, I murdered fifty people last week, and if I get half the chance, I\'ll murder another fifty this week" then that person can\'t receive absolution because they\'re not sorry.
 
-That person can\'t receive absolution because they\'re not sorry. But if they say, "I murdered fifty people last week and I\'m so sorry, and I hope I will never ever murder anybody ever again in my whole life" then that person can receive the absolution.
+But if they say, "I murdered fifty people last week and I\'m so sorry, and I hope I will never ever murder anybody ever again in my whole life" then that person can receive the absolution.
 
 He might murder another fifty this week, but in this particular moment, he is sorry---he has a purpose of amendment. That's all that Our Lord demands from that valid Confession.
 
 We have to try and work at our contrition. Our contrition is effective. I want to be better. I want to improve in this virtue.
 
-"But don\'t be frightened," he continues, "when you become aware of the burden of your poor body and of human passions: it would be silly and childlessly naive to find out now that 'this' exists. Your wretchedness is not an obstacle but a spur for you to become more united to God and to seek him constantly, because he purifies us (*Ibid*.).
+"But don\'t be frightened," he continues, "when you become aware of the burden of your poor body and of human passions: it would be silly and childishly naive to find out now that 'this' exists. Your wretchedness is not an obstacle but a spur for you to become more united to God and to seek him constantly, because he purifies us" (*ibid*.).
 
-Our Lord lifts us up onto a new level. If he sees our effort to get to Confession frequently, He gives us more graces.
+Our Lord lifts us up onto a new level. If He sees our effort to get to Confession frequently, He gives us more graces.
 
 Sometimes to get to Confession may be very easy. In this center, it's very easy, it\'s sort of laid down for us.
 
@@ -263,7 +263,7 @@ It\'s a beautiful reality. We have this proof of God\'s merciful love, of His al
 
 He\'s the good shepherd. He always understands. We need never be afraid of saying anything, of any particular sin. Of course, the priest has heard it all before.
 
-When a priest hears all the bad things coming from a soul, he knows this soul is on the right track. This soul is timed to be holy, because the priest himself is human. He\'s experienced all these things.
+When a priest hears all the bad things coming from a soul, he knows this soul is on the right track. This soul is trying to be holy, because the priest himself is human. He\'s experienced all these things.
 
 "'What I owe to God as a Christian!' we\'re told in *The Way*. 'My failure to respond to God\'s grace, in the face of that debt, has made me weep with sorrow; with Love sorrow. It is good that you acknowledge your debts; but don\'t forget how they are paid: with tears... and with deeds (J. Escrivá, *The Way*, Point 242).
 
