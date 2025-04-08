@@ -35,9 +35,9 @@ In the Parable of the Good Samaritan, Our Lord describes a man attacked by robbe
 
 On Calvary, the crowds probably looked at it as guilt by association--- but for Our Lord, these two men are men with eternal souls. One had become hardened and embittered, but the other had an amazing conversion. He accepted his own guilt.
 
-He said, "We have been condemned justly. The sentence we received corresponds to our crimes. But this man has done nothing wrong."
+He said, "We have been condemned justly. The sentence we received corresponds to our crimes. But this man has done nothing wrong" (Luke 23:41).
 
-Then he made a great act of faith: "Jesus, remember me." Beautiful words for us to consider from time to time.
+Then he made a great act of faith: "Jesus, remember me\..." (Luke 23:42). Beautiful words for us to consider from time to time.
 
 The Good Thief can encourage us. No matter what we\'ve done, no matter how we may have messed things up, Jesus offers us hope---the possibility of a new beginning. The Good Thief could in some ways be called the Patron Saint of new beginnings.
 
@@ -53,7 +53,7 @@ But there was also the bad thief. "He explicitly asks Our Lord not only to save 
 
 "For the crowd, Christ\'s power is invoked to remove the burden of faith. 'Come down from the cross and then we will believe' (*cf*. Luke 23:35). But for the thief, Christ\'s power is invoked for self-preservation. Neither demand comes from humility; both come from superiority, a position of judgment and authority.
 
-"Then, remarkably, the second thief experiences a change of heart. He too had been abusing Christ. But now he chastises his former compatriot---his former fellow visionary, a friend and conspirator with whom he had bonded as they plotted their uprising, reveling in the close intimacy of partners who are convicted of the goodness of their cause and for whom death is preferable to maintenance of the status quo.
+"Then, remarkably, the second thief experiences a change of heart. He too had been abusing Christ. But now he chastises his former compatriot---his former fellow visionary, a friend and conspirator with whom he had bonded as they plotted their uprising, reveling in the close intimacy of partners who are convicted \[for\] the goodness of their cause and for whom death is preferable to maintenance of the status quo.
 
 "The Good Thief 'rebukes' his former partner, saying, 'Have you no fear of God, for you are subject to the same condemnation? And we indeed have been condemned justly, for the sentence we received corresponds to our crimes, but this man has done no wrong'" (Luke 23:40-41, Michael Bradley, *ibid*.).
 
@@ -69,9 +69,9 @@ We're told in St. John, they "broke the legs of the first, and then of the other
 
 "The Good Thief was the same way---for a time. But something changed. Perhaps he observed Christ\'s silence in the face of the mockery, the spitting, the lewd soldiers casting lots for His garments. Perhaps he was struck by that silence, just as it perturbed an uneasy Pilate and enraged Caiaphas."
 
-Jesus kept silent. *Jesus autem tacebat* (Matthew 26:63).
+Jesus kept silent. *Jesus autem tacebat* (Matt. 26:63).
 
-"Possibly he\'d been coaxed into the revolution in the first place. It only needed a good example of one witness to shake him out from his sinful stupor" (*ibid*.).
+"Possibly he\'d been coaxed into the revolution in the first place. It only needed a good example of one witness to shake him from his sinful stupor" (*ibid*.).
 
 And then, like lightning, he said, "Jesus, remember me when you come into your kingdom" (Luke 23:42). Your kingdom?
 
@@ -83,7 +83,7 @@ This beautiful statement of his is quite astounding. All the disciples of Our Lo
 
 The hopelessness of the disciples and apostles is echoed by the men on the road to Emmaus. "They crucified him, but we had hoped that he was the one who was going to redeem Israel" (Luke 24:20-21). They're crestfallen.
 
-But here on Calvary, to one side, a fellow condemned man, life ebbing out of him, looks across and sees, not another dying man, but the Messiah Himself. Somehow he understands that Jesus is not an imposter and that he will still receive the kingdom that belongs to the Messiah.
+But here on Calvary, "to one side, a fellow condemned man, life ebbing out of him, looks across and sees, not another dying man, but the Messiah Himself. Somehow he understands that Jesus is not an imposter and that he will still receive the kingdom that belongs to the Messiah" (Ralph F. Wilson, *The Thief on the Cross, Jesus Walk Bible Study*).
 
 The Good Thief on the cross believes; his prayer to Our Lord is bursting with faith. He has more faith at that hour than any other human observing this gruesome scene.
 
@@ -93,7 +93,7 @@ Our Lord speaks in short increments of time. He doesn\'t say, 'Maybe in a few mo
 
 Our Lord gives him a wonderful promise: presence with Christ in paradise, that for which we all yearn. The English word "paradise" is a translation of the Greek word *parádeisos*, which comes from an old Persian word meaning "enclosure." In the old Greek version of the Old Testament, it\'s a word that\'s used especially for the Garden of God in the creation story (Gen. 2:8-10,15).
 
-"The Judaism of Our Lord\'s day equated paradise with the new Jerusalem, and saw it as the present abode of the souls of the departed prophets and patriarchs, the elect, the righteous In the New Testament, the word 'paradise' is used three times: Luke 23:43, 2 Cor. 12:3-4, Rev. 2:7" (Ralph F. Wilson, *The Thief on the Cross, Jesus Walk Bible Study*).
+"The Judaism of Our Lord\'s day equated paradise with the new Jerusalem, and saw it as the present abode of the souls of the departed prophets and patriarchs, the elect, the righteous In the New Testament, the word 'paradise' is used three times: Luke 23:43, 2 Cor. 12:3-4, Rev. 2:7" (*ibid*.).
 
 And so, those words of Our Lord, words of encouragement to the Good Thief on the cross, have been a great encouragement to Christians down through the ages: "This day you will be with me in paradise."
 
@@ -105,15 +105,15 @@ But occasionally, Our Lord encounters great faith. The Roman centurion tells Him
 
 Teachers who teach different classes find it enormously encouraging when he teaches something and a student grasps what the teacher is trying to communicate. Success! Even if many in the class fail to understand, the prized student understands and that brings great satisfaction.
 
-The centurion is one of those prized students. The Good Thief on the cross is another. Neither of them is acceptable to the Jewish religious leaders---one a Gentile, the other a criminal. But both have great faith, and both bring great joy to the heart of Christ.
+"The centurion is one of those prized students. The Good Thief on the cross is another. Neither of them is acceptable to the Jewish religious leaders---one a Gentile, the other a criminal. But both have great faith, and both bring great joy to the heart of Christ.
 
-Our Lord on the Cross is forsaken, or seems to be forsaken, even by the Father: "My God, my God, why have you forsaken me?" (Matt. 27:46, Ps. 22:1).
+"Our Lord on the Cross is forsaken, or seems to be forsaken, even by the Father: 'My God, my God, why have you forsaken me?'" (Matt. 27:46, Ps. 22:1, *ibid*.).
 
 God is always there. God the Father is always with you. Christ is speaking in His human nature as He bears the sins of the transgressors and takes on himself the wrath and punishment of God that makes us whole, we\'re told in Isaiah (*cf*. Isa. 53:5).
 
 "But He does not die alone. The Father gives Him a believer to be with Him. A believer with mighty faith. A believer who can look past the raw wood and the nails and the blood to the heavenly kingdom that Jesus will inherit. He\'s a believer who wants 'in.'
 
-"Jesus answers him as life on earth wanes, 'Yes, you will be with me there today in paradise'" (Luke 23:43, ibid.).
+"Jesus answers him as life on earth wanes, 'Yes, you will be with me there today in paradise'" (Luke 23:43, *ibid*.).
 
 The Good Thief is not seeking redemption, but only asks that Jesus would remember him. He comes to believe that Jesus is king based on the fact that He says He has a kingdom. He doesn\'t ask for much, maybe because of his past.
 
