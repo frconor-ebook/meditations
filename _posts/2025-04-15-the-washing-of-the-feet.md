@@ -15,11 +15,11 @@ By Fr. Conor Donnelly
 
 A very important scene in the Gospel of the Last Supper opens with these rather solemn words. You get the impression that something very important is coming, and of course this is the high point. This is what Our Lord has come for. We see the word "hour" mentioned, "knowing that the hour had come."
 
-All through His life Our Lord had referred to the hour: "Woman, my hour has not yet come" (John 2:4).
+All through his life Our Lord had referred to the hour: "Woman, my hour has not yet come" (John 2:4).
 
 Now in these days and hours we find Our Lord using that word frequently: "Now has the hour come for the Son of Man to be glorified" (John 12:23). "It was about the tenth hour" (John 1:39).
 
-Jesus, knowing that His hour had come, Our Lord is very aware that this is the great moment. The climax is coming in His life. Some very important things are about to take place. Our Lord\'s work is the work of Redemption and He lives intensity in His work up to the last moments.
+Jesus, knowing that His hour had come, Our Lord is very aware that this is the great moment. The climax is coming in His life. Some very important things are about to take place. Our Lord\'s work is the work of redemption and He lives intensity in His work up to the last moments.
 
 "Having loved his own who were in the world, he loved them to the end."
 
@@ -27,7 +27,7 @@ So the story of the Last Supper opens with St. John referring to the great messa
 
 "Having loved his own who were in the world, he loved them to the end." It\'s a message to us about fidelity in our friendship. Friendship based on love. It\'s a love to the end. We never give up on any of them.
 
-And then the narrative changes. It says, "During the supper, the devil having already put it into the heart of Judas Iscariot, the son of Simon, to betray him\..."
+And then the narrative changes. It says, "During the supper, the devil having already put it into the heart of Judas Iscariot, the son of Simon, to betray him,\..."
 
 Having talked about love, now St. John turns to talk about the lack of love. Total contrast---mentions the devil very clearly. and Judas Iscariot, who is going to become the personification of the devil.
 
@@ -77,7 +77,7 @@ When we see the extent to which Our Lord goes to serve, we could try to build up
 
 We look for opportunities to serve. How can I help? What can I contribute? What can I do?---and find our glory and our dignity and our privilege in serving.
 
-If we look back and see how there was a build-up to this whole action of Our Lord, we see the importance that He gives to this gesture: "Knowing that the Father had given all things into his hands, and that he had come forth from God and was going to God, he rose from supper, laid aside his garments"(John 13:3-4), and did something very important, and that was service.
+If we look back and see how there was a build-up to this whole action of Our Lord, we see the importance that He gives to this gesture: "Knowing that the Father had given all things into his hands, and that he had come forth from God and was going to God, he rose from supper, laid aside his garments" (John 13:3-4), and did something very important, and that was service.
 
 Our greatest privilege is to serve. The Master shows us the way.
 
@@ -107,7 +107,7 @@ Mary broke the jar of ointment and "poured it over the feet of Jesus and wiped h
 
 "Now after he had washed their feet and put on his garments, when he had reclined again, he said to them, 'Do you know what I have done to you?'" (John 13:12).
 
-The Master Teacher is now about to break down for his students, little by little, so that they get the message, because, as always---"too dull of wit, too slow of heart" (cf. Luke 24:25)---there\'s a whole pile of things they don\'t get.
+The Master Teacher is now about to break down for his students, little by little, so that they get the message, because, as always---"too dull of wit, too slow of heart" (*cf*. Luke 24:25)---there\'s a whole pile of things they don\'t get.
 
 "'You call me Master and Lord, and you say well, for so I am. If I, therefore, the Lord and Master, have washed your feet, you also are to wash the feet of one another'" (John 13:13-14).
 
@@ -123,7 +123,7 @@ But this nail was there in the roof. Nobody ever knew about the nail or noticed 
 
 And so, the nail wiggled itself loose from the two planks, and it rolled down the ceiling and the roof, and it fell into a gravel path that was beside the cathedral. But then it began to rain and because of the rain and the force of the rain, the two planks became a bit loose, because the nail was no longer there.
 
-The water began to seep in through the roof and the water began to run down the walls of the cathedral. It began to run onto the mural\'s paintings, and it began to wash them away, and so they got a bit destroyed.
+The water began to seep in through the roof and the water began to run down the walls of the cathedral. It began to run onto the mural\'s paintings and it began to wash them away, and so they got a bit destroyed.
 
 Meanwhile, the nail had fallen down off the roof onto this gravel pathway. People were walking along the gravel path and the nail got more and more driven into the ground, into the mud beneath the gravel.
 
@@ -143,11 +143,11 @@ Our Lord gives us this great message of service on Holy Thursday, as though plac
 
 "'I do not speak of you all; I know whom I have chosen. But that the Scripture may be fulfilled, 'He who eats bread with me has lifted up his heel against me,' I tell you now, before it comes to pass, that when it has come to pass, you may believe that I am he. Amen, amen, I say to you, he who receives anyone I send receives me, and he who receives me, receives him who sent me" (John 13:18-20).
 
-Solemn words. Our Lord also refers to the sending. He\'s going to send the apostles (cf. Matt. 28:18-20).
+Solemn words. Our Lord also refers to the sending. He\'s going to send the apostles (*cf*. Matt. 28:18-20).
 
 A great part of our service is through the personal apostolate that we fulfill. We\'ve been sent to society and to certain people in society, to concrete places and souls. It\'s there we have to fulfill our mission. It\'s there we have to serve---transmitting doctrine, lifting up people around us, giving formation.
 
-Christ showed the depth of His love through service. Sometimes the service that we give may be in big things---our professional work; big jobs that may be entrusted to us; maybe great missions over time that might take decades to be fulfilled.
+Christ showed the depth of His love through service. Sometimes the service that we give may be in big things---our professional work---big jobs that may be entrusted to us may be great missions over time that might take decades to be fulfilled.
 
 But often the little services that we\'re called to do each day are small little things. Blessed Álvaro told us one time that he used to work every day with St. Josemaría. One time St. Josemaría noticed that the glasses of Don Álvaro were dirty. So he said, "Give me those glasses." And he cleaned his glasses.
 
@@ -159,7 +159,7 @@ Sometimes the little favors, the little things we do for people. 'Can you buy me
 
 Often we find a way into people\'s hearts by the little things we do for them. We go out of our way, we go the extra mile, we\'re thoughtful. We say yes. "Love is deeds, not sweet words" (Josemaría Escrivá, *The Way*, Point 933).
 
-And so, when people ask us to do something---'Can you do this?' 'Can you fetch that?' 'Can you solve that problem?'---in principle, our answer has to try and be yes, because we\'ve come to live a lifetime of service.
+And so when people ask us to do something---'Can you do this?' 'Can you fetch that?' 'Can you solve that problem?'---in principle, our answer has to try to be yes, because we\'ve come to live a lifetime of service.
 
 If we say no---no to this, no to that, and no to something else---it\'s as though we\'re not here to serve. 'I only do what I feel like doing' or 'I only do what I want to do' or 'I do the work that I like doing and nothing else.'
 
@@ -171,11 +171,11 @@ There may be people that are far away, and they are not immediately present to u
 
 There may be times in our life when we\'re sick or incapacitated, or one day we\'ll be elderly, and there\'ll be a whole pile of material things or physical things we just cannot do. But the incense of our prayer may rise very high.
 
-The Psalm says, "The prayer of the humble pierces the clouds" (Sir. 35:21). Great service.
+\[The Book of Sirach\] says, "The prayer of the humble pierces the clouds" (Sir. 35:21). Great service.
 
 Our Lord served on the Cross. If on some occasion Our Lord visits us with some particular cross, that\'s where He wants us to serve. From the Cross, Our Lord didn\'t feed 5,000 people, or perform any of the other wonderful miracles that He performed, but He served us by being there.
 
-If this is your will, Lord, then it\'s my will also (cf. Luke 22:42). We serve by having the concern of the Good Shepherd that watches out for the lost sheep (John 10:14-17, 1 Pet. 5:2-4), that counts the sheep from time to time.
+If this is your will, Lord, then it\'s my will also (*cf*. Luke 22:42). We serve by having the concern of the Good Shepherd that watches out for the lost sheep (John 10:14-17, 1 Pet. 5:2-4), that counts the sheep from time to time.
 
 Often our affection is expressed through service---always having time for people. Now if we see that somebody is in need of a pair of ears, they need a bit of time, a bit of heart, they need someone to listen to them, they have a problem, then we stop what we\'re doing, we change our plans, we be available.
 
@@ -183,7 +183,7 @@ We always have time for people, we\'re never too busy. We can readjust our sched
 
 When Our Lord saw the widow of Naim coming out with that funeral of her son, He was entering a town with a lot of people. He was busy, He was full of popularity, He was going to do a lot of things in that place.
 
-But when He saw the widow of Naim, He stopped, went over to her, went to the stretcher, didn\'t just say nice words. He touched the stretcher; He worked a wonderful miracle. He was available; changed His plans completely (Luke 7:11-17).
+But when He saw the widow of Naim, He stopped, went over to her, went to the stretcher, didn\'t just say nice words. He touched the stretcher, He worked a wonderful miracle. He was available; changed His plans completely (Luke 7:11-17).
 
 Sometimes the greatest service can be through a smile. It can lift up situations, or a word of encouragement. Sometimes that kind word of encouragement may make all the difference to somebody around us.
 
@@ -203,7 +203,7 @@ That service can take on different forms and different moments. In the night-tim
 
 "There is no greater self-mastery," he says, "than to make oneself a servant---the willing servant of all souls" (J. Escrivá, T*he Forge*, Point 1045).
 
-"In the whole context of the Passion," we\'re told in *The Way of the Cross*, "this help" (of Simon of Cyrene) "does not add up to very much" \[helping other people to carry their cross\].
+"In the whole context of the Passion," we\'re told in *The Way of the Cross*, "this help" \[of Simon of Cyrene\] "does not add up to very much" \[helping other people to carry their cross\].
 
 "But for Jesus, a smile, a word, a gesture, a little bit of love is enough for him to pour out his grace bountifully on the soul of his friend. Years later, Simon\'s sons, Christians by then, will be known and held in high esteem among their brothers in the faith. And it all started with this unexpected meeting with the Cross.
 
