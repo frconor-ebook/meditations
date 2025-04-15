@@ -23,7 +23,7 @@ Devotion to the Precious Blood of Christ is a rather beautiful devotion; it's ve
 
 The Blood of the God made man, the Incarnate Son of God, who came down on earth, took flesh and blood like us, was "like us in all things but sin" (Heb. 4:15), and offered His own Blood and every drop of that Blood.
 
-St. Thomas Aquinas liked to say that Christ, because He was all-powerful and because Blood was so perfect, could have redeemed mankind with just one drop of Blood (Thomas Aquinas, *Adore Te Devote*).
+St. Thomas Aquinas liked to say that Christ, because He was all-powerful and because His Blood was so perfect, could have redeemed mankind with just one drop of Blood (Thomas Aquinas, *Adore Te Devote*).
 
 But He wanted to shed His Blood copiously. His Blood flowed in streams down His Body and made little red mud at the foot of the Cross.
 
@@ -81,7 +81,7 @@ This gives rise to the fruits of the Holy Spirit in our soul. We share in the Bl
 
 July is usually the month that the Church devotes to that devotion to the Precious Blood of Christ.
 
-We also have in the Liturgy a Votive Mass for the Precious Blood of Christ---a rather beautiful devotion to know about, and to foster and to thank God for, and to make Acts of Faith in that Blood of Christ.
+We also have in the Liturgy a Votive Mass for the Precious Blood of Christ---a rather beautiful devotion to know about, and to foster, and to thank God for, and to make Acts of Faith in that Blood of Christ.
 
 St. Paul says to the Corinthians: "For the tradition I received from the Lord and also handed on to you, is that on the night he was betrayed, the Lord Jesus took some bread, and after he had given thanks, he broke it and said, 'This is my body, which is for you. Do this in remembrance of me.'
 
@@ -119,11 +119,11 @@ From the Communions we receive, we bring about a great unity between ourselves a
 
 "One of the soldiers pierced his side with a lance, and immediately there came out blood and water" (John 19:34).
 
-We're told that later on the soldiers stood there amazed, gazing at this reality that was on the Cross in front of them (cf. Matt. 27:54). We're told, "They looked on him whom they had pierced" (John 19:37; Zech. 12:10).
+We're told that later on the soldiers stood there amazed, gazing at this reality that was on the Cross in front of them (*cf*. Matt. 27:54). We're told, "They looked on him whom they had pierced" (John 19:37; Zech. 12:10).
 
 Pope Benedict a few years ago recommended that for Lent, we might take the phrase "They shall look upon him whom they have pierced" (Benedict XVI, *Message for Lent*, 2007) in order to contemplate the wounded side of Christ which became a fountain of life, "the fountain of the sacramental life of the Church."
 
-We're told in the Agony in the Garden, "In his anguish, he prayed even more earnestly, and his sweat fell to the ground like great drops of blood" (Luke 22:44).
+We're told that in the Agony in the Garden, "In his anguish, he prayed even more earnestly, and his sweat fell to the ground like great drops of blood" (Luke 22:44).
 
 Frequently in Scripture, blood is mentioned in various moments.
 
@@ -139,11 +139,11 @@ If you don\'t know the story of the Uganda martyrs, it\'s worthwhile finding out
 
 In the Divine Praises, we say, "Blessed be His Most Precious Blood."
 
-On the fiftieth anniversary of his priesthood, John Paul II said that the words, \'This is my body\...this is my blood" are at the center of the life of the priest (cf. Pope John Paul II, *Letter to Priests for Holy Thursday*, March 17, 1996). And we all have a priestly soul.
+On the fiftieth anniversary of his priesthood, John Paul II said that the words, \'This is my body\...this is my blood" are at the center of the life of the priest (*cf*. Pope John Paul II, *Letter to Priests for Holy Thursday*, March 17, 1996). And we all have a priestly soul.
 
 St. Josemaría in the *Furrow* says: "Jesus, may your Divine Blood enter my veins, to make me live the generosity of the Cross at every moment" (Josemaría Escrivá, *Furrow*, Point 780).
 
-"The generosity of the Cross." When we look at the generosity of Christ on the Cross, we can look at our generosity.
+"The generosity of the Cross." When we look at the generosity of Christ on the Cross, we can look at our own generosity.
 
 Have I stuck my neck out for Christ?
 
@@ -201,11 +201,11 @@ In the Opening Prayer of the Mass of the Body and Blood of Christ, it says: "Lor
 
 Notice how, whenever the Body is mentioned, very often the Blood is mentioned also.
 
-In the Votive Mass of the Precious Blood, in the Entrance Antiphon it says: "By your blood, O Lord, you have redeemed us from every tribe and tongue, from every nation and people: you have made us into the kingdom of God" (cf. Rev. 5:9-10).
+In the Votive Mass of the Precious Blood, in the Entrance Antiphon it says: "By your blood, O Lord, you have redeemed us from every tribe and tongue, from every nation and people: you have made us into the kingdom of God" (*cf*. Rev. 5:9-10).
 
 The Blood of Christ brings about the kingdom of God. Everything happens from the Cross.
 
-In the Opening Prayer of that same Mass says: "By the blood of your own Son, you have set all men free and saved us from death. Continue your work of love within us, that by constantly celebrating the mystery of our salvation, we may reach the eternal life it promises."
+In the Opening Prayer of that same Mass it says: "By the blood of your own Son, you have set all men free and saved us from death. Continue your work of love within us, that by constantly celebrating the mystery of our salvation, we may reach the eternal life it promises."
 
 And in the Prayer over the Gifts: "By offering these gifts in the Eucharist may we come to Jesus, the mediator of the new covenant, may we find salvation in the sprinkling of his blood, and draw closer to the kingdom where he is Lord forever and ever."
 
