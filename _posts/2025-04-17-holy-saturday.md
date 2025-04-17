@@ -13,7 +13,7 @@ By Fr. Conor Donnelly
 
 On Holy Saturday, the Church is silent. Christ has been taken down from the Cross. The Church is in mourning. There are no liturgical ceremonies today, anywhere. No Masses, no benedictions, because the Church is silent, because Christ is dead.
 
-In this way, the Church remembers and reminds us of the Crucifixion, of the Redemption. We go to the great spiritual mysteries through physical signs and symbols.
+In this way, the Church remembers and reminds us of the Crucifixion, of the Redemption. "We go to the great spiritual mysteries through physical signs and symbols" (*cf*. *Catechism of the Catholic Church*, Point 1146).
 
 This emptiness of the Church, this silence of the Church, has its message for us. It transmits to us the mourning for the death of Christ. You could say that the Church is in mourning, the Apostles are mourning, Mary is also mourning.
 
@@ -47,9 +47,7 @@ In the Act of Thanksgiving after Mass in the Roman Missal, we\'re told, "Hide me
 
 Joseph of Arimathea was a rich man, a disciple of Jesus, with influence in the Sanhedrin, who has remained hidden while Our Lord is acclaimed throughout Palestine. But now he presents himself to Pilate to take charge of the Body of Jesus.
 
-That must have taken a lot of courage because we know Pilate was a butcher. He could have turned on Joseph of Arimathea.
-
-He could have done anything.
+That must have taken a lot of courage because we know Pilate was a butcher. He could have turned on Joseph of Arimathea. He could have done anything.
 
 Luis de la Palma says that Joseph is willing to ask "for the greatest demand that has ever been made---the Body of Jesus, the Son of God, the treasure of the Church, its riches, its teaching and exemplar, its consolation, the Bread which will sustain one until life eternal. In that moment, with his petition, Joseph represents the desires of all men, of the whole Church, which needs Jesus to keep eternally alive" (Luis de la Palma, *The Passion of the Lord*).
 
@@ -61,13 +59,11 @@ Our Lady must have been very grateful for the help of these two men; for their g
 
 The small group which, with Our Lady and the women who receive no special mention in the Gospel, takes charge of burying the Body of Jesus, have little time because of the following day\'s feast. That\'s going to begin at the sunset of this particular day.
 
-The body is washed with special piety. It is embalmed. The amount of sweet-smelling herbs which Nicodemus bought is considerable, "about a hundred pounds in weight." It is wrapped in a new linen shroud supplied by Joseph (Mark 15:46), and it is laid in a sepulcher hewn out of a rock.
-
-The sepulcher belonged to Joseph, and we know it had not previously been used (cf. Matt. 27:60).
+The Body is washed with special piety. It is embalmed. The amount of sweet-smelling herbs which Nicodemus bought is considerable, "about a hundred pounds in weight." It is wrapped in a new linen shroud supplied by Joseph (Mark 15:46), and it is laid in a sepulcher hewn out of a rock. The sepulcher belonged to Joseph, and we know it had not previously been used (*cf*. Matt. 27:60).
 
 The Body of Christ is laid in the tomb. The world was in darkness. Mary was the only light still burning on earth.
 
-We're told in *The Way of the Cross*: "The Mother of Our Lord---my Mother---and the women who have followed the Master from Galilee, after taking careful note of everything, also take their leave. Night falls. Now it is all over. The work of our Redemption has been accomplished. We are now children of God, because Jesus has died for us, and his death has ransomed us. *Empti enim estis pretio magno*! (1 Cor. 6:20), you and I have been bought at a great price" (J. Escrivá, *The Way of the Cross*, Fourteenth Station--Jesus is laid in the tomb).
+We're told in *The Way of the Cross*: "The Mother of Our Lord---my Mother---and the women who have followed the Master from Galilee, after taking careful note of everything, also take their leave. Night falls. Now it is all over. The work of our Redemption has been accomplished. We are now children of God, because Jesus has died for us, and his death has ransomed us. *Empti enim estis pretio magno*! (1 Cor. 6:20), you and I have been bought at a great price" (J. Escrivá, *The Way of the Cross*, Fourteenth Station).
 
 I heard a story many years ago of a man in another country who used to buy supplies for a very big organization, and he had a foreign supplier who offered him a huge bribe, a six-figure sum that was going to go directly into his bank account.
 
@@ -79,23 +75,23 @@ While he was driving home that night, this man was thinking to himself, 'I wonde
 
 When he got home each evening, he had the custom of reading a few passages from the New Testament, sometimes a chapter, sometimes a phrase or two, sometimes a word. He opened his New Testament, and the book fell open at the First Letter of St. Peter, Chapter 1, Verse 18.
 
-And he read: "You know, you are redeemed from your vain manner of life, not with perishable things such as silver or gold, but with the precious blood of Christ, as of a lamb, without blemish and without spot."
+He read: "You know, you are redeemed from your vain manner of life, not with perishable things such as silver or gold, but with the precious blood of Christ, as of a lamb, without blemish and without spot."
 
 He thought to himself, 'Ah, this is my price. I have been redeemed at a great price. What a fool I would be to sell my soul for anything less.'
 
-*The Way of the Cross* continues. "We must bring into our own life, to make them our own, the life and death of Christ. We must die through mortification and penance, so that Christ may live in us through love. And then follow in the footsteps of Christ, with a zeal to co-redeem all mankind. We must give our life for others. That is the only way to live the life of Jesus Christ and to become one and the same thing with him."
+*The Way of the Cross* continues: "We must bring into our own life, to make them our own, the life and death of Christ. We must die through mortification and penance, so that Christ may live in us through love. And then follow in the footsteps of Christ, with a zeal to co-redeem all mankind. We must give our life for others. That is the only way to live the life of Jesus Christ and to become one and the same thing with him" (J. Escrivá, *The Way of the Cross*, Fourteenth Station).
 
 Christ on the Cross---what\'s He thinking about? What\'s He dreaming about? He\'s thinking and dreaming about souls, because that\'s why He died.
 
 These are good moments to try and foster in our soul that zeal to co-redeem all mankind, to try and fashion our hearts after the heart of Christ that yearns for souls.
 
-When we go to our prayer, those are very special moments to talk to Our Lord about souls. There must be nothing else that Our Lord yearns for us to talk to him about than souls: people that we\'re involving ourselves with, people whose spiritual welfare we\'re concerned about, asking Him for this soul, for that soul, for this conversation, for that conversation, for this friend, for that friend; how to keep all our contacts warm so that we keep very close to all of our friends.
+When we go to our prayer, those are very special moments to talk to Our Lord about souls. There must be nothing else that Our Lord yearns for us to talk to Him about than souls: people that we\'re involving ourselves with, people whose spiritual welfare we\'re concerned about, asking Him for this soul, for that soul, for this conversation, for that conversation, for this friend, for that friend; how to keep all our contacts warm so that we keep very close to all of our friends.
 
 We don\'t know where the Apostles were on that evening while the Body of Christ was buried. All we know is that they weren\'t around. Perhaps they were hovering around, disoriented, confused, aimless, distraught, filled with sadness. That\'s how people are when they lose sight of Christ.
 
-If we see them together again on Sunday, united once more (cf. Luke 24:9), it\'s because on Saturday, or perhaps on the evening on Friday, they had turned to Our Lady. With her faith, her hope, and her love, she protected the pre-born or about-to-be-born Church, still weak and startled.
+If we see them together again on Sunday, united once more (*cf*. Luke 24:9), it\'s because on Saturday, or perhaps on the evening on Friday, they had turned to Our Lady. With her faith, her hope, and her love, she protected the pre-born or about-to-be-born Church, still weak and startled.
 
-It\'s a reminder to us, as Our Lady took care of and nurtured that pre-born Church or about-to-be-born Church, what we also have to do for the pre-born. It reminds us of how Pope St. John Paul II in the *Gospel of Life* tells us, that we have "to be unconditionally pro-life\" (John Paul II, *Encyclical, Evangelium Vitae*, March 25, 1995).
+It\'s a reminder to us, as Our Lady took care of and nurtured that pre-born Church or about-to-be-born Church, what we also have to do for the pre-born. It reminds us of how Pope St. John Paul II in the *Gospel of Life* tells us, that we have "to be unconditionally pro-life\" (John Paul II, Encyclical*, Evangelium Vitae*, March 25, 1995).
 
 This was how the Church was born, under the cloak of Our Lady. From the very beginning, she has been the Comforter of the afflicted, of those under pressure. How relevant and appropriate it is that Pope Francis has approved for inclusion in the Litany of Loreto that aspiration, "Comforter of migrants" as though this moment in time, Our Lady wants to place her cloak through each one of us, around all those people who have to flee, who are under pressure or going through a difficult moment, so that we help them to look forward to the future in faith and hope.
 
@@ -111,19 +107,19 @@ We ought always to have immediate resort to that endlessly burning light in our 
 
 But she will bring us back to hope, and she will bring hope back to us.
 
-St. John Damascene says: "Our Lady is rest for those who work, consolation for those who weep, medicine for the sick, a harbor for those assailed by tempests, pardon for sinners, sweet relief for the sad, succor for those who implore."
+St. John Damascene says: "Our Lady is rest for those who work, consolation for those who weep, medicine for the sick, a harbor for those assailed by tempests, pardon for sinners, sweet relief for the sad, succor for those who implore" (John Damascene, *Homily on the Dormition of the Blessed Virgin Mary*).
 
 Beside her we are able to live the immense joy of the Resurrection.
 
 We are told in St. John, "Standing by the cross of Jesus were his mother and his mother\'s sister, Mary of Cleophas, and Mary Magdalene" (John 19:25).
 
-These women are standing; they are full of strength. They haven\'t run away. It makes us look to the women in difficult moments. Women stand beside the cross. They are not leaning up against the cross or complaining about the cross, or running away from the cross.
+These women are standing; they are full of strength. They haven\'t run away. It makes us look to the women in difficult moments. Women stand beside the cross. They are not leaning up against the cross, or complaining about the cross, or running away from the cross.
 
 It\'s a reminder to us that "joy and happiness in this world have their roots in the form of a cross" (J. Escrivá, *Christ Is Passing By*, Point 43).
 
 "When Jesus therefore saw his mother and the disciple whom he loved standing by, he said to his mother, 'Woman, behold your son'" (John 19:26).
 
-It might have been easier for Our Lord if Our Lady had not been there, not having to witness this butchery. But Our Lord has to endure everything, and so His mother has also to be present. He chooses this moment to give us and the whole of humanity to Our Lady as Our Mother.
+It might have been easier for Our Lord if Our Lady had not been there, not having to witness this butchery. But Our Lord has to endure everything, and so His Mother has also to be present. He chooses this moment to give us and the whole of humanity to Our Lady as Our Mother.
 
 "Woman, behold your child." Look at your child and never stop looking at your child.
 
@@ -131,7 +127,7 @@ We know that in all the moments of our life---in moments of failure, low moments
 
 There were many other maternal moments in Our Lord\'s life in Bethlehem, in Nazareth, in Egypt, when Our Lord could have opened His eyes and said, "Look at your Mother."
 
-But He chose us this moment, when His side has been pierced by a lance and when her heart has been pierced by a spiritual sword. as though telling us that in all the difficult moments of our life, Our Mother is there for us.
+But He chose for us this moment, when His side has been pierced by a lance and when her heart has been pierced by a spiritual sword. as though telling us that in all the difficult moments of our life, Our Mother is there for us.
 
 \"Then he said to the disciple, 'Behold your mother'" (John 19:27a).
 
@@ -141,9 +137,7 @@ On this Holy Saturday we could think about our Marian piety---how to make every 
 
 Venerable Fulton Sheen liked to say that he always, throughout the whole of his life, tried to say the Mass of Our Lady on Saturdays, as a reflection of his own personal devotion. Many saints have done similar things.
 
-"From that hour the disciple took her into his home" (John 19:27b).
-
-St. John was entrusted with the care of Our Lady. Blessed Álvaro liked to say that St. John is the one that speaks most about charity in his Gospel, and it\'s to him that the care of Our Lady was entrusted. He makes this parallel that from the extra exposure that St. John has to Our Lady, he writes more about love in his Gospel.
+"From that hour the disciple took her into his home" (John 19:27b). St. John was entrusted with the care of Our Lady. Blessed Álvaro liked to say that St. John is the one that speaks most about charity in his Gospel, and it\'s to him that the care of Our Lady was entrusted. He makes this parallel that from the extra exposure that St. John has to Our Lady, he writes more about love in his Gospel.
 
 You can also imagine, as St. John Paul has mentioned, how during that time when she was in the home of St. John, he must have celebrated Mass. Our Lady would have been present at the Masses of St. John. She would have received the Body of Christ from his hands in those Masses.
 
@@ -153,7 +147,7 @@ Now all the tough moments have passed. Mary receives her Son with a special inti
 
 "After this, knowing that all things were now accomplished, that the Scripture might be fulfilled, he said, 'I thirst'" (John 19:28).
 
-Our Lord was not just thirsting for physical, material liquid or fluid, but he was thirsting for souls. The Passion and the Redemption are all about souls. The Cross is all about souls.
+Our Lord was not just thirsting for physical, material liquid or fluid, but He was thirsting for souls. The Passion and the Redemption are all about souls. The Cross is all about souls.
 
 When we offer up the little crosses of each day, or the big crosses of our life, for souls, they become easier to bear. We find a great apostolic purpose in saying yes to the crosses that God permits in our life.
 
@@ -161,9 +155,7 @@ When we offer up the little crosses of each day, or the big crosses of our life,
 
 It\'s a reminder to us what death is all about. It\'s a separation of the body from the soul. Christ\'s Body was on the Cross. It\'s going to be taken down and laid in a tomb.
 
-But the Creed is telling us that His soul descended into hell. It was not the hell of the damned, not possibly the hell like purgatory or limbo, where souls were waiting for the opening of the gates of heaven are placed.
-
-A place close to hell where He shows His dominion over the devil that He has conquered, and a place where He gives hope to those souls that are waiting. His soul is very active as His Body is placed in the tomb.
+But the Creed is telling us that His soul descended into hell. It was not the hell of the damned, not possibly the hell like purgatory or limbo, where souls who are waiting for the opening of the gates of heaven are placed, a place close to hell where He shows His dominion over the devil that He has conquered, and a place where He gives hope to those souls that are waiting. His soul is very active as His Body is placed in the tomb.
 
 "The Jews, therefore, since it was the preparation day, in order that the bodies might not remain on the cross on the Sabbath (for the Sabbath was a solemn day), they besought Pilate that their legs might be broken and that they might be taken away." They try to find a way to hasten death.
 
@@ -175,11 +167,11 @@ All the graces that are needed to wash away our sins flow from the wounded side 
 
 \"He who saw it has borne witness---that his witness is true, and he knows that he tells the truth, that you also may believe" (John 19:35).
 
-St. John makes particular mention of the witness that is given to this particular event. "He who has seen it has borne witness." So this is something special, not to go unnoticed; an event, a wound that has great significance for all time.
+St. John makes particular mention of the witness that is given to this particular event. "He who has seen it has borne witness." So, this is something special, not to go unnoticed; an event, a wound that has great significance for all time.
 
 "For these things came to pass that the Scripture might be fulfilled: 'Not a bone of him shall be broken.' And again, another Scripture says, 'They shall look upon him whom they have pierced'" (John 19:36-37).
 
-A couple of years ago Pope Benedict suggested as a motto for the whole of Lent, to take this phrase of Scripture, "They shall look upon him whom they have pierced" (Message of Pope Benedict XVI for Lent 2007) as though inviting us to contemplate the wounds of Christ.
+A couple of years ago Pope Benedict suggested as a motto for the whole of Lent, to take this phrase of Scripture, "They shall look upon him whom they have pierced" (Message of Pope Benedict XVI for Lent 2007), as though inviting us to contemplate the wounds of Christ.
 
 This is a good day to contemplate Christ on the Cross, or the dead Christ being taken down from the Cross.
 
