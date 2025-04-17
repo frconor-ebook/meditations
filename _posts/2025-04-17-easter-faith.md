@@ -19,7 +19,7 @@ But yet, "Jesus came." Powerful words. The verb attached to the Holy Name in Scr
 
 We find that we are knocking on doors of hearts that are closed. Maybe, over time, with the grace of God, Our Lord will come in there---and also, to our own hearts that may be closed a little bit in certain areas that need to be more open.
 
-Or, if there are areas of our life where we are sort of hiding away like the apostles were, Our Lord invites us to have a deep impact on our environment, on society, and on people.
+Or, if there are areas of our life where we are sort of hiding away like the apostles were, Our Lord invites us to have a deep impact on our environment, on society, on people.
 
 We have to let Him come through those closed doors and lead us out from behind those places to the great horizons that He has planned for us. And so, "He came."
 
@@ -29,7 +29,7 @@ Our Lord stood in their midst, smack in the middle of them, inviting them to do 
 
 He said, "Peace be to you." The first words of Our Lord to the apostles after He rises from the dead are words of peace.
 
-He could have exploded. He could have called them all the things that He called the Pharisees for all their infidelity, their weakness. "You brood of vipers!" (Matt. 12:34). "You whitewashed tombs" (cf. Matt. 23:27).
+He could have exploded. He could have called them all the things that He called the Pharisees for all their infidelity, their weakness: "You brood of vipers!" (Matt. 12:34). "You whitewashed tombs" (*cf*. Matt. 23:27).
 
 But He builds them up: "Peace." He calms them down and He builds them up. He\'s winning them again, little by little.
 
@@ -39,11 +39,11 @@ May our first words with people around us also be words of peace so that they fe
 
 We win souls with that peace. "Sowers of peace and joy" (Josemaría Escrivá, *Furrow*, Point 59), because that\'s what Christ did.
 
-That\'s our role, everywhere, to see how I can bring a little bit of peace and joy to this particular situation, workplace, get-together, or gathering of people.
+That\'s our role, everywhere, to see how I can bring a little bit of peace and joy to this particular situation, or workplace, or get-together, or gathering of people.
 
 "When he had said this, he showed them his hands and his side" (John 20:20a).
 
-Immediately, Our Lord begins to speak to them about the Crucifixion. He shows them that it is truly Him that has risen. *Resurrexit sicut dixit--*He has risen as He promised.
+Immediately, Our Lord begins to speak to them about the Crucifixion. He shows them that it is truly Him that has risen. *Resurrexit sicut dixit--*He has risen as He promised (*cf*. Matt. 28:6).
 
 These wounds that He has on His hands and His side---these are His DNA.
 
@@ -51,11 +51,11 @@ These wounds that He has on His hands and His side---these are His DNA.
 
 "If you want to come after me, you must deny yourself, take up your cross and follow me" (Matt. 16:24).
 
-He shows them these wounds to prove that it is truly Him. He shows that they must have faith in those wounds. He seems to invite them to enter into those wounds---to find their strength, their consolation, their fire---because love is there in those wounds.
+He shows them these wounds to prove that it is truly Him. He shows them that they must have faith in those wounds. He seems to invite them to enter into those wounds---to find their strength, their consolation, their fire---because love is there in those wounds.
 
 He seems to invite them also to be like Him, to give themselves completely. He is now calling them again.
 
-He called them the first time in the boat, "Come, follow me." But now He is calling them again, building them up to a new supernatural level, helping them to see new aspects of their vocation: new height and new depth, new seriousness.
+He called them the first time in the boat, "Come, follow me" (Mark 1:17). But now He is calling them again, building them up to a new supernatural level, helping them to see new aspects of their vocation: new height and new depth, new seriousness.
 
 He is building them up from nothing, and He is saying to them that all that has to be built on the Cross, in unity to His person---a deeper unity---unity to His wounds.
 
@@ -65,15 +65,15 @@ In Christ, we find the meaning and the purpose of our life.
 
 "The disciples, therefore, rejoiced at the sight of the Lord" (John 20:20b).
 
-There are sort of three movements in this particular drama. There is the apparition of Our Lord; there is Him showing them the proof that He has truly risen; and there is their reaction. "They rejoiced at the sight of the Lord."
+There are three movements in this particular drama. There is the apparition of Our Lord; there is Him showing them the proof that He has truly risen; and there is their reaction. "They rejoiced at the sight of the Lord."
 
 Now that fear of the Jews that was dominating them, fear and sadness, is dispelled. "They rejoiced at the sight of the Lord."
 
 Lord, may we also find our joy in seeing you in people and places and things and events; in uniting ourselves to you in the Blessed Sacrament; in rejoicing in our possession of you in Holy Communion each day, so that that joy fires us up.
 
-"He, therefore, said to them again, 'Peace be to you.'" (John 20:21) as though the first time was not enough. Now Our Lord repeats those words of peace, emphasizes peace.
+"He, therefore, said to them again, 'Peace be to you'" (John 20:21), as though the first time was not enough. Now Our Lord repeats those words of peace, emphasizes peace.
 
-I want you to be calm, serene, and peaceful always; peaceful not just because of your chemistry, but peace because you know that I am truly risen. It is me. I am the source of your peace and of your joy. And I want you to have so much peace that you radiate it to other people. Peace is a gift of the Holy Spirit (Gal. 5:22).
+I want you to be calm, serene, and peaceful always; peaceful not just because of your chemistry, but peace because you know that I am truly risen. It is me. I am the source of your peace and of your joy. And I want you to have so much peace that you radiate it to other people. Peace is a fruit of the Holy Spirit (Gal. 5:22).
 
 There was a man in Singapore once who used to travel a lot to different countries. He was a cooperator and was very interested and curious, and wanted to know more about the Work. When he went to visit different countries, sometimes he would go to visit a center of the Work.
 
@@ -83,9 +83,7 @@ Of course, St. Josemaría used to emphasize that we are not similar; we are all 
 
 He said, 'It\'s their peace.' Now you ask any member of Opus Dei if they feel peaceful, they\'ll probably tell you, 'Well, no, I\'ve got to do this, I\'ve got to do that, I\'ve got to finish my norms, I\'m trying to do apostolate, I\'ve got a to-do list as long as a mile and I\'m trying to get through it, and I\'ve got to go here, I\'ve got to collect my children from school, I\'ve got to do all these other things.'
 
-But really, what he was saying, in spite of all of that---the struggle, the battle of each day---there\'s a gift of the Holy Spirit in the souls of people who try to live their Christian vocation well, a gift that possibly the people themselves are not so much aware of, but other people see it.
-
-*Gaudium cum pace--*joy with peace (J. Escrivá, *The Way*, Point 768).
+But really, what he was saying, in spite of all of that---the struggle, the battle of each day---there\'s a gift of the Holy Spirit in the souls of people who try to live their Christian vocation well, a gift that possibly the people themselves are not so much aware of, but other people see it: *gaudium cum pace--*joy with peace (J. Escrivá, *The Way*, Point 768).
 
 "'As the Father has sent me, I also send you'" (John 20:21). Now Our Lord speaks about the mission, the very purpose of their existence, a target that has to give meaning to the whole of their life.
 
@@ -93,9 +91,9 @@ Lord, help me to be very focused on the mission. I\'m fired up about my mission 
 
 The peace is very much tied up to the mission, and the joy that they have is tied up also.
 
-Their mission is to bring Christ to other people, with their words, with their actions, with their lives, with their lifestyles. It\'s all about the mission.
+Their mission is to bring Christ to other people with their words, with their actions, with their lives, with their lifestyles. It\'s all about the mission.
 
-They\'re going to be apostles, they\'re going to be sent, they\'re learning more now about their apostolate, about what they\'re sent to, what\'s their goal. This is to be the mission of their life.
+They\'re going to be apostles, they\'re going to be sent, they\'re learning more now about their apostolate, about what they\'re sent to, what\'s their goal. This is to be the mission for their life.
 
 Our Lord wants them committed to that mission. He talks to them very early about it: I don\'t want you here, cowering in fear behind closed doors; I want you out there, having an impact.
 
@@ -113,11 +111,11 @@ Now these days of Easter are like a period of preparation for the Holy Spirit. H
 
 \"Our Lord breathed upon them and said, 'Receive the Holy Spirit. Whose sins you shall forgive, they are forgiven; whose sins you shall retain, they are retained'" (John 20:22-23).
 
-He speaks to them about the sacrament of Confession, emphasizing that it\'s a very personal thing. "Whose sins you shall forgive." The apostles have to make a judgment.
+He speaks to them about the sacrament of Confession, emphasizing that it\'s a very personal thing: "whose sins you shall forgive." The apostles have to make a judgment.
 
 The priest has to make a judgment. It\'s instituted by way of judgment. You judge about the contrition of the penitent, whether to give them absolution or whether not to give them absolution. "Whose sins you shall forgive, they are forgiven; whose sins you shall retain, they are retained."
 
-In this very short passage, Our Lord has changed the game; changed the whole scenario; broken down the doors and the barriers---lifted them up and instilled them with peace; spoken to them about all the graces that He\'s achieved on the Cross, which they are to administer through the sacraments, and also given them the Holy Spirit.
+In this very short passage, Our Lord has changed the game; changed the whole scenario; broken down the doors and the barriers---lifted them up, instilled them with peace; spoken to them about all the graces that He\'s achieved on the Cross, which they are to administer through the sacraments, and also given them the Holy Spirit.
 
 And so, the stage is set. They haven\'t quite appreciated what has happened. It\'s all too early. But Our Lord has made it very clear: He\'s got a plan for the coming days.
 
@@ -139,7 +137,7 @@ So eight days have passed of Thomas still resisting to believe anything that his
 
 Jesus comes again. He comes specifically for Thomas---He comes specifically for all those who refuse to believe, so that they might have faith.
 
-The message of Easter is a message of beginning again in faith; of growing in an Easter faith. It is followed with hope and joy and optimism, and a new beginning in our apostolic life, a new launching out into the deep, as though we never did anything before.
+The message of Easter is a message of beginning again in faith, of growing in an Easter faith. It is followed with hope and joy and optimism, and a new beginning in our apostolic life, a new launching out into the deep, as though we never did anything before.
 
 It is like Our Lord saying to them, or inviting them to say to themselves, 'Look, let\'s wipe the slate clean.'
 
@@ -155,29 +153,29 @@ Immediately, Our Lord focuses on Thomas, and He is going to speak to Thomas with
 
 But He speaks to him pretty gently. "'Bring here your finger, and see my hands; bring here your hand, and put it into my side. Be not unbelieving, but believing'" (John 20:27).
 
-We see Our Lord\'s immense tolerance for all the weaknesses of the apostles. It is a continuing tolerance. But He draws spiritual strength from this. There are messages, there are lessons.
+We see Our Lord\'s immense tolerance for all the weaknesses of the apostles. It is a continuing tolerance. But He draws spiritual strength from this. There are messages, there are lessons for each one of us.
 
-For each one of us, He invites us to grow in faith. We find that we are a bit like Thomas in some ways, or we are weak in our faith when there are new horizons being opened up in front of us.
+He invites us to grow in faith. We find that we are a bit like Thomas in some ways, or we are weak in our faith when there are new horizons being opened up in front of us.
 
-Or we see things like the current contradictions and we wonder what is happening. We know *Omnia in bonum--*all things turn out for the good (Rom. 8:28).
+Or we see things like the current contradictions, and we wonder what is happening. We know *Omnia in bonum--*all things turn out for the good (Rom. 8:28).
 
-God is doing wonderful things in souls. These days the concerns that we might have, or the questions, like Thomas's---we ask Our Lord to use this period for a great apostolic bonanza---a great spiritual bonanza in the world, in our corporate apostolic works, in everything that we are involved in, so that the graces may flow.
+God is doing wonderful things in souls. These days the concerns that we might have, or the questions, like Thomas's---we ask Our Lord to use this period for a great apostolic bonanza, a great spiritual bonanza in the world, in our corporate apostolic works, in everything that we are involved in, so that the graces may flow.
 
 "Thomas answered and said, 'My Lord and my God!'" (John 20:28).
 
-We are not told that Thomas actually took his finger and put it into His side, and put his other finger into the hands of Our Lord. We are just told that Our Lord showed him, or invited him, and that was enough.
+We are not told that Thomas actually took his finger and put it into His side and put his other finger into the hands of Our Lord. We are just told that Our Lord showed him, or invited him, and that was enough.
 
 The scales fell from his eyes, and he covers this immense distance, a 180-degree change from such a defiant assertion of his lack of faith to a profound lack of faith expressed in those few words, "My Lord and my God."
 
 Lord, help me to make little acts of faith from time to time, to say to you those words of Thomas, possibly, particularly at the moment of the Consecration.
 
-Increase my faith. Increase my hope. Increase my love. Help me to change on the inside, to grow to be a greater apostle of faith, to launch out into the deep a little more, until it\'s monumental. Assertion now of faith, and coming from where he has come from, it\'s even greater.
+Increase my faith. Increase my hope. Increase my love. Help me to change on the inside, to grow to be a greater apostle of faith, to "launch out into the deep" (Luke 5:4) a little more, until it\'s monumental. Assertion now of faith, and coming from where he has come from, it\'s even greater.
 
 In this short passage, Our Lord invites the whole world to follow the pathway of Thomas to find that faith.
 
 "Jesus said to him, 'Because you have seen me, you have believed. Blessed are those who have not seen and yet have believed'" (John 20:29).
 
-Our Lord talks about the blessedness of all those who are to come in future generations, which includes us. "Blessed are those who have not seen and yet have believed."
+Our Lord talks about the blessedness of all those who are to come in future generations, which includes us: "Blessed are those who have not seen and yet have believed."
 
 Lord, help me to be a person of greater faith; to grow in that faith day by day, to have great confidence in the infusion of grace and faith that comes into my soul every time I receive the sacraments.
 
@@ -197,7 +195,7 @@ Lord, help me to remember that I am a bearer of the light. You have lit a light 
 
 Help me to take care of my formation, every little bit of it. Sometimes in the means of formation---in a Circle, in a class, in a chat---we can pick up a word, a phrase, which possibly can be the vehicle that God wants to use to bring immense light into families, into our soul, into minds, into hearts.
 
-We are told in *The Forge*:"Work on to the end, to the very end! My child, it is the one who perseveres right to the end who will be saved."
+We are told in *The Forge*: "Work on to the end, to the very end! My child, it is the one who perseveres right to the end who will be saved."
 
 To work on with faith in this particular thing that has been entrusted to us, "we children of God have the means we need: you too! We will finish, we will top out our building, for we can do all things in him who strengthens us. With God there are no impossibles. They are overcome always" (J. Escrivá, *The Forge*, Point 656).
 
@@ -205,7 +203,7 @@ In the work that God has given us to do---which may be hidden and silent, in the
 
 St. Josemaría says, "'I can do all things in him who strengthens me' (Phil. 4:13). With him, there is no possibility of failure, and this conviction gives rise to the holy 'superiority complex' by which we take on things with a spirit of victory, because God grants us his strength" (J. Escrivá, *The Forge*, Point 337).
 
-The narrative of Our Lord with the apostles in these situations is filling them with that superiority complex that God wants them to have. We have the answers, we have the truth, we have the light.
+The narrative of Our Lord with the apostles in these situations is filling them with that 'superiority complex' that God wants them to have. We have the answers, we have the truth, we have the light.
 
 Now He wants them to go forth and spread it around the place. He wants them to have a spirit of victory, because God is with us.
 
@@ -221,7 +219,7 @@ St. Josemaría was given this little seed back in Madrid in 1928, to spread to t
 
 "Remain in me, and I in you" (John 15:4). Christianity is the religion of remaining in God, and we remain in Him through the norms of our plan of life---our spiritual reading, our presence of God, our Rosary, our sacraments---so that we can dream, to dream with faith.
 
-When it\'s dark you can see the stars. There might be dark moments in our life where we don\'t see things clearly, but we look up and we see stars---far-away planets that God wants us to conquer; amazing realities. This is how all the saints lived.
+When it\'s dark you can see the stars. There might be dark moments in our life where we don\'t see things clearly, but we look up and we see stars---far-away planets that God wants us to conquer, amazing realities. This is how all the saints lived.
 
 We are invited not just to make acts of faith from time to time, but to live by faith, our bread and butter.
 
@@ -235,7 +233,7 @@ We could ask Our Lady that like her, we also might respond with faith to whateve
 
 Do this little thing now, go here, go there, turn left, turn right, take care of this particular thing. We have to try and see the will of God behind all of those things, so that we can respond with that faith.
 
-When we hear or see something that\'s asked of us, that very clearly has come from those who have the grace of state which has come from God, then we could ask Our Lady that we might respond like Thomas did, with a humble act of faith, "My Lord and my God."
+When we hear or see something that\'s asked of us, that very clearly has come from those who have the grace of state which has come from God, then we could ask Our Lady that we might respond like Thomas did, with a humble act of faith, "My Lord and my God!" (John 20:28).
 
 If this is what you want, then help me to fulfill it. Help me to change, help me to grow. Help me to put my whole heart and soul and mind into this thing that you may be asking of me.
 
