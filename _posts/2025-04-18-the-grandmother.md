@@ -15,7 +15,7 @@ By Fr. Conor Donnelly
 
 A few days ago, on the Friday of the fifth week of Lent, we had the feast day of the Grandmother. The Grandmother is somebody who looms very large on our screen. Probably we have a lot of devotion to her and ask her for all sorts of small things.
 
-It is important occasionally that we consider her figure a little more deeply in our prayer, and see how God wanted, as our Father has told us many times, the role of the Grandmother and of Aunt Carmen in the whole of Opus Dei, and in our lives, very particularly.
+It is important occasionally that we consider her figure a little more deeply in our prayer, and see how God wanted, as our Father \[St. Josemaría\] has told us many times, the role of the Grandmother and of Aunt Carmen in the whole of Opus Dei, and in our lives, very particularly.
 
 On one occasion, I think it was in Singapore, Don Javier was talking about how, on the plane when they were going there, Don Joaquin could not find his glasses. He came to the conclusion that he had left his glasses back at the departure lounge of the airport.
 
@@ -53,23 +53,25 @@ In our professional work of caring, we are very particularly called to continue 
 
 We are the recipients of a treasure. We can ask Our Lord that we would take care of that treasure, because it\'s something beautiful, something divinely inspired. It\'s a good realization to have that it can be lost.
 
-Cardinal Ratzinger once shared an anecdote of how he was talking to an elderly monk in a monastery, who talked about the changes that had taken place in that monastery over a couple of years.
+In the book *The Ratzinger Report* of 1986, Cardinal Ratzinger once shared an anecdote of how he was talking to an elderly monk in a monastery who talked about the changes that had taken place in that monastery over a couple of years.
 
 The monk said, "Before the Second Vatican Council and the changes that came about, we used to get up at three in the morning to pray the Breviary. This had been going on for centuries, ever since our monastic foundation was brought about, maybe ten centuries ago. This was a custom that was built up over centuries.
 
 "Then we were told: That\'s all past, that's old-fashioned, we don\'t need to get up in the middle of the night anymore. We stopped getting up in the middle of the night in order to pray the Breviary. Now," he said, "we stay up until the middle of the night, watching Manchester United."
 
+In just one sentence, Cardinal Ratzinger described the 180-degree change that had come about in that particular organization. They had lost a treasure. They had lost something that had been built up over centuries.
+
 There\'s sort of a lesson for us here. Every small thing that we have been taught, every little detail that God has gone to great trouble to help us to know and to see its importance down in the history of the Work, through the work of the Grandmother and Aunt Carmen, is something that we have to perpetuate, to personify, to transmit to further generations.
 
 We have to walk along the same pathway that the Grandmother has laid out for us---loving it, thanking her, increasing our devotion.
 
-Don Alvaro said devotion to the Grandmother and Aunt Carmen is an intimate part of the spirit of Opus Dei. It's not just something added on, an addendum of some type.
+Don Alvaro said, "Devotion to the Grandmother and Aunt Carmen is an intimate part of the spirit of Opus Dei." It's not just something added on, an addendum of some type.
 
 It\'s a very clear part of our spirit, and it\'s something that can bring us great joy---to ask the Grandmother for the solution to this little problem, or that little problem, or something we feel we can\'t handle, or something we need a bit of inspiration with; but also to learn from her how not to excuse ourselves from certain situations, or our limitations, or our weaknesses; or to say, I can\'t manage this, or I can\'t do this, or I can\'t handle this problem, or I can\'t solve this situation because I don\'t have the talents, or I don\'t have the necessary conditions.
 
 She didn\'t tolerate in herself that sort of approach. She and Aunt Carmen rolled up their sleeves and they got on with the job. Intense, hard work. They\'ve left us that spirit, that legacy.
 
-This is a very important aspect, Don Javier said, of our spirit---something very clear. She gave herself completely, knowing that God was asking something very special from her son. And so, she didn\'t hold back.
+"This is a very important aspect," Don Javier said, "of our spirit." It's something very clear. She gave herself completely, knowing that God was asking something very special from her son. And so, she didn\'t hold back.
 
 St. Paul says, "Do not conform yourself to the spirit of this world" (Rom. 12:2)---what other people are thinking, and what other people are doing. He invites us to seek the things that are above.
 
@@ -77,7 +79,7 @@ The life of the Grandmother is like an example for us to see those things. She l
 
 In some ways it was her work. She loved each one of us, without even knowing us, and put her love into the work that she was doing so that we could benefit from the fruits of her work. Hence, the great debt of gratitude.
 
-Our Father asked her for a lot. We know it came a bit of a given that our Father didn\'t stop to consider her comforts too frequently. He was demanding them, his mother and Aunt Carmen.
+Our Father asked her for a lot. We know it became a bit of a given that our Father didn\'t stop to consider her comforts too frequently. He was demanding them, his mother and Aunt Carmen.
 
 We know that story of when he was leaving to give that last retreat for priests that go to Lerida. She wasn\'t well and he told her, "Offer your sufferings for the fruits that I am about to receive." He was demanding humanly and supernaturally.
 
@@ -85,7 +87,7 @@ At the same time, the Grandmother had that great humanity that our Father had. W
 
 But at the same time, she gave; she didn\'t hold anything back. She responded to those demands.
 
-I could ask Our Lord that we also might have the grace to respond to those demands. Maybe He asks a little bit more from us, like He asked from the Grandmother through our Father---to be there in certain situations, to go out of our way, to think out of the box, to go that extra mile sometimes when we see that something is needed.
+We could ask Our Lord that we also might have the grace to respond to those demands. Maybe He asks a little bit more from us, like He asked from the Grandmother through our Father---to be there in certain situations, to go out of our way, to think out of the box, to go that extra mile sometimes when we see that something is needed.
 
 Or even if it\'s not needed, we try to offer it ourselves, to set that bar very high because that\'s what we\'ve received, so that we can spread that to others that come after us.
 
@@ -95,13 +97,13 @@ Now many years later we look back and we see the great job that was done by Aunt
 
 In our seminar before we were ordained, there was a priest who gave us a talk who was around at the time when Aunt Carmen was there, looking after the Catering. I think it was Diego de Leon.
 
-He said our Father could not permit himself the luxury of going to see his family too frequently, because there were people in the center of studies that were from different parts of Spain, and they couldn\'t go and see their family very frequently.
+He said our Father could not permit himself the luxury of going to see his family too frequently, because there were people in the Center of Studies that were from different parts of Spain, and they couldn\'t go and see their family very frequently.
 
 So even though his own family were living downstairs, he didn\'t go to see them. Sometimes Aunt Carmen would come to look for him. She wanted to talk to him about something. But he would lock the door and wouldn\'t let her in.
 
 She would have to go back to where she came from, a little bit annoyed. She had the same potential to get annoyed that our Father had.
 
-But then after a while, our Father would relent a little bit and say; \"A few months have passed now. Maybe I should go and say hi to them, say hello."
+But then after a while, our Father would relent a little bit and say, \"A few months have passed now. Maybe I should go and say hi to them, say hello."
 
 And he would go to see Aunt Carmen. But she would hear him coming and she would lock the door and not let him in. Aunt Carmen had to put up with all of these things. She fought fire with fire as the strong lady that she was. But they gave us that human and supernatural tone.
 
@@ -127,7 +129,7 @@ But we could also say the same about the Grandmother. Every time we put somethin
 
 Every time the Grandmother sees us doing something like that, she also must have a wonderful glow in heaven. Pride and joy must move her heart. God must lift her higher in heaven, because we\'re living the spirit that she made every effort to inculcate in each one of us.
 
-Our Lord prayed that "they might be one" (*cf*. John 17:21). The first thing we have to do is prayer. Charity first and foremost involves prayer. It helps us to love with the heart of Christ, to realize that God is love. Love is divine. The underlying message from the life of dedication of the Grandmother is that "God is love" (1 John 4:8) and He wants us to put that love into practice in concrete ways.
+Our Lord prayed "that they might be one" (*cf*. John 17:21). The first thing we have to do is prayer. Charity first and foremost involves prayer. It helps us to love with the heart of Christ, to realize that God is love. Love is divine. The underlying message from the life of dedication of the Grandmother is that "God is love" (1 John 4:8) and He wants us to put that love into practice in concrete ways.
 
 Our Lord shows us that at the Last Supper, when speaking about charity, He washes the feet of the apostles, including that of Judas: "If I, the Master and Lord, have done these things to you, so do you, do this to others" (John 13:14).
 
@@ -137,7 +139,7 @@ When the Grandmother and Carmen were fulfilling their work, they were serving ev
 
 We can ask her to help us in knowing a little better the people that God has placed around us, in knowing how to be smart. Affection is smart. Charity finds a way. Love is very inventive, it\'s dynamic, it has initiative. Love leads us to solve problems. It opens our eyes to understand.
 
-The people Aunt Carmen and our Grandmother were caring for must have had a special antenna. When somebody was a bit sick or needed something special, they'd think a little bit out of the box.
+The people that Aunt Carmen and our Grandmother were caring for must have had a special antenna. When somebody was a bit sick or needed something special, they'd think a little bit out of the box.
 
 We hear stories of people who came to Rome many years later who perhaps were sick and they were trying to find a solution to help them to be better. Our Father suggested to some sister of ours who might have been from that particular part of the world who knew some special dish that that person might like. That sister of ours was able to make that dish, and that person became much better very fast.
 
@@ -165,7 +167,7 @@ But in some ways our desire has to be to pass unnoticed. But also, not telling p
 
 We try to do things with greater rectitude of intention, for the love of God. The consolation of our Father, of the Grandmother, and of Aunt Carmen, must have come to a large extent from dreaming of the future, of what they were going to see, not maybe on this earth, but from heaven---the incredible fruits of all their work, of all their efforts, multiplied a thousandfold all over the world in so many homes---homes of supernumeraries, homes of associates, so that that spirit of Opus Dei could breathe there in all those places.
 
-Our Father said each of our homes is like a corner of the house of Nazareth. Those words must have brought great joy to Aunt Carmen and the Grandmother.
+Our Father said each of our homes is "like a corner of the house of Nazareth." Those words must have brought great joy to Aunt Carmen and the Grandmother.
 
 She\'s a very logical person to whom we can entrust our own mothers and our own sisters, every person in our blood family---she must have a special eye for them. She knows what it is to be a grandmother or a sister of a person of the Work. She has the inside track there also.
 
@@ -179,7 +181,7 @@ It\'s interesting how much importance our Father gave to our get-togethers as a 
 
 The Grandmother can help us also to be outstanding in our first proselytism: the care of the sick. Steal heaven for somebody who may not be so well. He must have learned a lot about those things precisely from that heart of the Grandmother---thinking of that sick person, or that person that needed something in a special way.
 
-First and foremost, our care for the sick has to be in the supernatural things. Helping them to do the norms. Can I help you with your prayer? Can I read for you, your spiritual reading? Have you finished your rosary? This is the first priority. We walk into the lives of our sisters with that command to help them in those things.
+First and foremost, our care for the sick has to be in the supernatural things. Helping them to do the norms. Can I help you with your prayer? Can I read for you, your spiritual reading? Have you finished your Rosary? This is the first priority. We walk into the lives of our sisters with that command to help them in those things.
 
 That first proselytism means also that we\'re available for our sisters when they need us to accompany them, to go here, to go there, to go to the doctor, to go to the shop to buy things.
 
@@ -193,7 +195,7 @@ But just to be there---it's a big thing---maybe for hours or days. It may be one
 
 This is all part of a legacy that the Grandmother has given to us. On the occasion of her feast day, we can renew our devotion to her.
 
-Behind her, we know the presence of Mary is there. Grandmother must have prayed the rosary with great piety and devotion. She must have been very close to Our Lady in order to know all that refinement of affection which she was to bring to our beautiful family, that is, to reach to the end of the world, the end of time, to so many families all over the world.
+Behind her, we know the presence of Mary is there. Grandmother must have prayed the Rosary with great piety and devotion. She must have been very close to Our Lady in order to know all that refinement of affection which she was to bring to our beautiful family, that is, to reach to the end of the world, the end of time, to so many families all over the world.
 
 We can ask Our Lady that all the little seeds that she sowed in the heart and mind and soul of the Grandmother may yield an abundant fruit in our life also.
 
