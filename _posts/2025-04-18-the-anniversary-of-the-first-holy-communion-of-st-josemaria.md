@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "The Anniversary of the First Communion of St. Josemaría–April 23"
+title: "The Anniversary of the First Holy Communion of St. Josemaría"
 ---
 
 By Fr. Conor Donnelly
@@ -15,7 +15,7 @@ We read in the Gospel, "The Jews quarreled among themselves, saying, 'How can th
 
 Our Lord speaks very clearly and very eloquently about the great mystery of the Blessed Eucharist, and also in relation to food, to the true food that comes down from heaven.
 
-Today is the anniversary of the First Holy Communion of our Father, a special Eucharistic day, a day for us to focus a little more on this great mystery.
+Today is the anniversary of the First Holy Communion of our Father \[St. Josemaría\], a special Eucharistic day, a day for us to focus a little more on this great mystery.
 
 Our Lord tells us that unless we eat His flesh, we shall not have life in us. So something flows from the heart of Christ into our heart and gives rise to new life as interior life, that spiritual life which is going to be so very important for the whole of our life here on earth, and also for eternity.
 
@@ -63,7 +63,7 @@ It also carries a message for all Christian parents. Take special care of that F
 
 Our Father has had a great role to play in the Church liturgical reform: the care of the sacred vessels, the taste and decor of our oratories, of the vestments, work of the Catering.
 
-John Paul II has something like four encyclicals in relation to the Blessed Eucharist. *The Church of the Eucharist,* the *Sacrament of the Redemption* (Instruction), *Stay With Us, Lord* (Apostolic Letter), and the *Sacrament of Charity---*the latter one was Pope Benedict, I think.
+John Paul II has something like four encyclicals in relation to the Blessed Eucharist. *The Church of the Eucharist,* the *Sacrament of the Redemption* (Instruction), *Stay With Us, Lord* (Apostolic Letter), and the *Sacrament of Charity---*the latter one was Pope Benedict.
 
 Our Father used to say, "With one tabernacle I could convert the world." Very powerful words: "with one tabernacle"---the value and the importance and the treasure of Our Lord in the Blessed Eucharist. Our Father transmitted that spirit to all of us.
 
@@ -119,13 +119,13 @@ But always, we should gravitate back towards that real presence of Our Lord, bec
 
 We can try and be very alert and very awake, noticing all sorts of little things. Somebody who loves will notice the things that could be better; they\'re not quite right. They\'re not oblivious to these things because they live in the details.
 
-Pope Benedict in *Sacramentum Caritatis* said, "In the sacrament of the altar, the Lord meets us, men and women created in God\'s image and likeness (cf. Gen. 1:27), and becomes our companion along the way."
+Pope Benedict in *Sacramentum Caritatis* said, "In the sacrament of the altar, the Lord meets us, men and women created in God\'s image and likeness (*cf*. Gen. 1:27), and becomes our companion along the way."
 
 "I will be with you always, even until the end of the age" (Matt. 28:20).
 
 Lord, help me to be very focused on you, to greet you when I come in and out of the center, and to let my heart run to you in the tabernacle to connect with you, so that all these things are not just mechanical or automatic, that they mean something in my life. I make a real act of faith and of love when I make my genuflection.
 
-Pope Benedict continues, "Especially in the liturgy of the Eucharist, we are given a real foretaste of the eschatological fulfillment for which every human being and all creation are destined (cf. Rom 8:19)" (Pope Benedict XVI, *Sacramentum Caritatis*, February 22, 2007).
+Pope Benedict continues, "Especially in the liturgy of the Eucharist, we are given a real foretaste of the eschatological fulfillment for which every human being and all creation are destined (*cf*. Rom 8:19)" (Pope Benedict XVI, *Sacramentum Caritatis*, Point 30, February 22, 2007).
 
 We are hungry for the bread of life. Hungry for the bread of the angels.
 
@@ -153,13 +153,13 @@ But then there were many Mormons and Baptists in that university and they didn\'
 
 Conversion through the bread of life.
 
-Pope Benedict says, "Man is created for that true and eternal happiness which only God\'s love can give. But our wounded freedom would go astray were it not already able to experience something of that future fulfillment."
+Pope Benedict says, "Man is created for that true and eternal happiness which only God\'s love can give. But our wounded freedom would go astray were it not already able to experience something of that future fulfillment" (*ibid*.).
 
 That pledge of eternal life helps us to look to eternity, to see and to judge all the world\'s events with that echo of eternity. We\'re not just here existing for this moment.
 
 There\'s something great to which we are called: the eternal wedding feast. Pope John Paul likes to talk a lot about the eternal wedding feast. Everything is geared towards that.
 
-"Moreover," Pope Benedict says, "to go forward in the right direction, we all need to be guided toward our final goal. That goal is Christ himself, the Lord who conquered sin and death, and who makes himself present to us in a special way in the Eucharistic celebration. Even though we remain 'aliens and exiles' in this world (1 Pet. 2:11, through faith, we already share in the fullness of the risen life."
+"Moreover," Pope Benedict says, "to go forward in the right direction, we all need to be guided toward our final goal. That goal is Christ himself, the Lord who conquered sin and death, and who makes himself present to us in a special way in the Eucharistic celebration. Even though we remain 'aliens and exiles' in this world (1 Pet. 2:11), through faith, we already share in the fullness of the risen life" (*ibid*.).
 
 We are called to participate "in the fullness of the risen life."
 
@@ -175,7 +175,7 @@ From time to time, we need to gravitate back towards the prayers of St. Thomas A
 
 Even if we just start to say one of those prayers, that may give rise to more personal prayers or considerations that can help our Thanksgiving after Mass to be on fire---truly on fire with that love of the Blessed Sacrament.
 
-"How our days would change," Don Javier says, "if we truly had at every moment the sureness, filled with faith, hope, and love that inspired St. Josemaria!" (*Ibid*.)
+"How our days would change," Don Javier says, "if we truly had at every moment the sureness, filled with faith, hope, and love that inspired St. Josemaria!" (*ibid*.)
 
 Those are special moments to ask for an increase in those three supernatural virtues which we know we receive every time we receive the sacraments.
 
@@ -185,21 +185,21 @@ We have a habitual intention to receive them. But we activate that intention. Ma
 
 We can never get used to the fact that Our Lord is with us. We yearn to adore, to accompany, to ask, to atone.
 
-Cardinal Van Thuận says, "A lamp can give no light if it has no oil. A car will not run on an empty fuel tank. The soul of the apostle will degenerate if it is not nourished with the Blessed Sacrament."
+Cardinal Van Thuận says, "A lamp can give no light if it has no oil. A car will not run on an empty fuel tank. The soul of the apostle will degenerate if it is not nourished with the Blessed Sacrament" (Francis-Xavier Nguyễn Văn Thuận, *Road of Hope*, Point 360).
 
 That Eucharistic bread that gives life, the bread of life, the bread of angels, gives fire to everything we say.
 
 In each apostolic conversation, in each Circle, in each class, it helps to spread that blaze.
 
-"Just as the sun shines brightly, yielding its light on the earth," we're told, "so too does the Eucharist shine as a light for the spiritual life of human beings, and the source of peace among nations.\"
+"Just as the sun shines brightly, yielding its light on the earth," we're told, "so too does the Eucharist shine as a light for the spiritual life of human beings, and the source of peace among nations" (*ibid*., Point 361).
 
 The bread of angels brings many things with it: peace, serenity, assurance of faith.
 
-"If you lack everything," Cardinal Van Thuận says, "or find yourself bereft of all possessions, but still have the Eucharist, you should not be concerned. In fact, you still have everything, because you have the Lord of heaven here on earth with you" (Cardinal Francis-Xavier Nguyễn Văn Thuận, *Road of Hope*).
+"If you lack everything," Cardinal Van Thuận says, "or find yourself bereft of all possessions, but still have the Eucharist, you should not be concerned. In fact, you still have everything, because you have the Lord of heaven here on earth with you" (*ibid*., Point 363).
 
 Some of the testimonies of priests in particular, but also others imprisoned in communist prisons and other places, of the ways and means that they went to try and celebrate the sacrifice of the altar, to receive the Blessed Eucharist, are very inspiring, very heroic.
 
-Cardinal Van Thuận, in solitary confinement for something like 15 years in Vietnam, sent a message out through confidence that he needed the medicine for his stomach.
+Cardinal Van Thuận, in solitary confinement for something like fifteen years in Vietnam, sent a message out through confidence that he needed the "medicine for his stomach."
 
 Some sort of bread arrived, he was able to say the Mass; he got a little bit of wine from someplace; and the chalice was the cup of his hand. People were full of all sorts of ingenuity.
 
@@ -248,3 +248,5 @@ Our Lady, the Woman of the Eucharist, will help us to keep this flame very much 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *EW*
+
+*Editor\'s Note: The anniversary of St. Josemaría Escrivá\'s First Holy Communion is commemorated on April 23rd. He received this sacrament in 1912 at the age of 10.*
