@@ -23,11 +23,11 @@ And he told her, Now we have to go a bit slower here\...now there are rocks so y
 
 A month later he climbed another mountain. Now he is teaching other young kids who are blind how to use a computer.
 
-You hear these stories and it fires you with enthusiasm and optimism to overcome the difficulties and problems, and also to thank God for our blessings.
+You hear these stories, and it fires you with enthusiasm and optimism to overcome the difficulties and problems, and also to thank God for our blessings.
 
 Every day we have many reasons to give thanks to God, to lift up our hearts and souls and minds in thanksgiving for the gifts that God has given to us, for the blessings, for all the things that we perhaps don\'t appreciate.
 
-*Si scires donum Dei--"*If you knew the gift of God," we're told in Scripture. Sometimes we don\'t know the gift of God or we don\'t appreciate it.
+*Si scires donum Dei--"*If you knew the gift of God," we're told in Scripture (John 4:10). Sometimes we don\'t know the gift of God or we don\'t appreciate it.
 
 St. Paul says, "Rejoice in the Lord always. Again I say, Rejoice!' (Phil. 4:4).
 
@@ -63,13 +63,13 @@ But very quickly we recover our cheerfulness. We see that\'s not the full story;
 
 Our joy is meant to be a permanent state, because the fact that we are children of God is a permanent state, the fact that we\'re an Easter people.
 
-We\'re not a Good Friday people, because the Resurrection changed everything, and to be with Christ is the source of our joy. We share His triumph, His victory.
+We\'re not a Good Friday people, because the Resurrection changed everything, and to be with Christ, who is the source of our joy. We share His triumph, His victory.
 
 We have a mission to bring the good tidings of great joy to all the people---enthusiasm for our mission. We know with confidence that it will be accomplished.
 
 "Not a jot or iota of the law will pass away ever" (Matt. 5:18).
 
-"I will be with you all days even until the end of the world" (cf. Matt. 28:20).
+"I will be with you all days even until the end of the world" (*cf*. Matt. 28:20).
 
 If we try to love and embrace the cross a little more each day, we\'ll be a more joyful people.
 
@@ -81,7 +81,7 @@ The salad was tossed very well. She was sanctifying her work, so it was done wit
 
 Then the cardinal came to lunch and they had the first course. Then it was time for the second course which was the Russian salad. But there was a delay and a delay and a delay.
 
-Finally, St. Josemaria got up from the dining room table, went into the servery to see what was happening, into the kitchen, and found our sister there in tears and the Russian salad all over the floor.
+Finally, St. Josemaría got up from the dining room table, went into the servery to see what was happening, into the kitchen, and found our sister there in tears and the Russian salad all over the floor.
 
 She went to take the dish off the sideboard at a certain moment to serve it and it fell. It was all over the floor, and now she was crying. Her tears were now seasoning the Russian salad.
 
@@ -89,7 +89,7 @@ St. Josemaría said to her, "My daughter, I will allow you to cry twice more in 
 
 We keep our joy in all situations. We look for a solution, open a tin and solve the problem, and get on with life. But we don\'t stand around crying about the things that have happened to us.
 
-Our joy comes from our abandonment in the hands of Our loving Heavenly Father, who has told us, "If you know how to give good gifts to your children, how much more will your Heavenly Father give good things to those who ask him?" (Matt. 7:11).
+Our joy comes from our abandonment in the hands of Our loving heavenly Father, who has told us, "If you know how to give good gifts to your children, how much more will your heavenly Father give good things to those who ask him?" (Matt. 7:11).
 
 In living a plan of life, taking care of our norms, and doing apostolate, we need to be full of joy because we are close to the source of all joy.
 
@@ -97,7 +97,7 @@ Christ is with us, who is risen. "Rejoice and be glad, O Virgin Mary, for the Lo
 
 True virtue is pleasantly joyful.
 
-God\'s joy appears 300 times in Scripture. The frequency of a word in Scripture is often an indication of its importance.
+That God is joy appears 300 times in Scripture. The frequency of a word in Scripture is often an indication of its importance.
 
 Whenever we lose our joy momentarily, an Act of Thanksgiving can help us to restore our joy.
 
@@ -125,7 +125,7 @@ Our Lady and St. Joseph experienced all sorts of contradictions. But we find the
 
 After the Crucifixion, we imagine Our Lady on Holy Saturday with a great calm, even though the apostles have run away, or most of them, because there\'s hope there.
 
-She\'s kept "treasuring all these things carefully in her heart" (cf. Luke 2:19, 51). So she knows there\'s something coming. There\'s the joy of that hope, which is fully realized then on Easter Sunday morning.
+She\'s kept "treasuring all these things carefully in her heart" (*cf*. Luke 2:19, 51). So she knows there\'s something coming. There\'s the joy of that hope, which is fully realized then on Easter Sunday morning.
 
 Looking at ourselves, we might have very few reasons for joy and cheerfulness. But looking at Him, we find every reason to make those Acts of Thanksgiving, to have that smile in the window of our faces, to find joy in the cross.
 
@@ -139,7 +139,7 @@ We build our joy on our faith, faith in the love of God for us, that He\'s looki
 
 We can find great joy at beginning again, starting over. Easter Monday and Easter Tuesday must have been a whole new beginning, for Our Lady and the other apostles with her will begin to spread this joy, and begin to grasp it a little more. It takes until Pentecost when the apostles fully grasp that joy.
 
-Joy is a gift of the Holy Spirit, one of the fruits of the Holy Spirit in our soul (Gal 5:22). It's something that other people should notice, because we are the prodigal child (Luke 15:11-32) many times each day, coming back to the tabernacle, turning again to Our Lord with our presence of God.
+Joy is a gift of the Holy Spirit, one of the fruits of the Holy Spirit in our soul (Gal. 5:22). It's something that other people should notice, because we are the prodigal child (Luke 15:11-32) many times each day, coming back to the tabernacle, turning again to Our Lord with our presence of God.
 
 We rediscover that joy. With the passage of time, we come to realize more and more that created things are powerless to satisfy our hunger for happiness. We have been made for happiness, and in our Christian vocation, we have found "the pearl of great price" (Matt. 13:45-46).
 
@@ -185,9 +185,9 @@ We come to Our Lord and we leave those little problems at His feet and say, "Lor
 
 We have a lot of reasons to be joyful because we are with God. He hasn\'t given that grace to many people.
 
-Philosophers say that joy is the rest of the appetite and the possession of the good. If you love *chapati* and you find there\'s a *chapati* placed in front of you: ahhh, joy, cheerfulness. It\'s the rest of the appetite and the possession of the greatest good.
+Philosophers say that joy is the rest of the appetite and the possession of the good. If you love *chapati* and you find there\'s a *chapati*placed in front of you: ahhh, joy, cheerfulness. It\'s the rest of the appetite and the possession of the greatest good.
 
-On the philosophical plane, the higher things, God is the greatest good, and so we are in possession of that. The Blesssed Trinity is in our soul in grace. Then we have every reason to be joyful. We rejoice in the divine goodness that\'s there living in us. We are participating in it.
+On the philosophical plane, the higher things, God is the greatest good, and so we are in possession of that. The Blessed Trinity is in our soul in grace. Then we have every reason to be joyful. We rejoice in the divine goodness that\'s there living in us. We are participating in it.
 
 Desire is a movement towards something good. You might desire the *chapati* or moving towards it. But then when it\'s put in front of you, joy is in the possession of the good.
 
@@ -205,7 +205,7 @@ That\'s why we can only find our total joy in the things of God. Infinite truth,
 
 Lord, help me to stay very close to you. Help me to see how you can draw good out of anything. *Omnia in bonum* (Rom. 8:28), so that I don\'t lose my joy.
 
-I see that you are working through this contradiction or through this difficulty. St. Josemaría liked to say that "joy and happiness in this world have their roots in the form of a cross." Often it\'s in accepting the little crosses that joy comes.
+I see that you are working through this contradiction or through this difficulty. St. Josemaría liked to say that "joy and happiness in this world have their roots in the form of a cross" (*cf*. J. Escrivá, *The Forge*, Point 28). Often it\'s in accepting the little crosses that joy comes.
 
 Our Lady had to pass through the Good Fridays and the Holy Saturdays before she experienced this great joy. The less humble we are, the more we might rely on our own powers, our own energies, our own abilities to do this on our own. And then the more we can be frustrated.
 
@@ -223,7 +223,7 @@ One great cartoonist, Charles Schulz, I think was his name, in the States many y
 
 What a fool I am, what an idiot, what silly things I do occasionally.
 
-Like that lady who went to Confession, who was a bit deaf\...she went into the confessional box and made her Confession, but there was no reply on the other side of the grill. Ater a while, she realized there wasn't any priest there. She had confessed her sins to thin air.
+Like that lady who went to Confession, who was a bit deaf\...she went into the confessional box and made her Confession, but there was no reply on the other side of the grill. After a while, she realized there wasn't any priest there. She had confessed her sins to thin air.
 
 Then she came out of the confessional smiling a little bit to herself: What a silly billy I am, with my deafness and I can\'t hear. What a stupid thing to do.
 
@@ -233,33 +233,33 @@ So God uses everything---the little smiles that He puts on our faces and all the
 
 "What can really tire us out," said Blessed Álvaro, "is pride, making things revolve around ourselves. Aside from overwhelming us, it impedes the soul from feeling God\'s closeness."
 
-"You\'re full of concern," we\'re told in *The Forge*, Point 392, "because you do not love as you ought. Everything annoys you. And the enemy does all he can to make you show your bad temper. I realize you feel very humiliated. Precisely because of this, you must take measures to react without delay."
+"You are full of concern," we\'re told in *The Forge*, "because you do not love as you ought. Everything annoys you. And the enemy does all he can to make you show your bad temper. ---I realize you feel very humiliated. Precisely because of this, you must take measures to react without delay" (J. Escrivá, *The Forge*, Point 392).
 
 Sometimes we have to catch ourselves. The great temptation of the devil is to bring us down, get frustrated, discouraged, irritable, angry, sad, but we have to try and recover ourselves from that situation.
 
 The Book of Proverbs says a sad soul is predisposed to evil. "Sadness spoils a person\'s heart like a moth ruins clothes and a termite damages wood" (Prov. 25:20).
 
-If the devil brings us down, he can get us to do all sorts of things. So the Book of Wisdom says, "Take heart and cheer up. Throw away your distress."
+If the devil brings us down, he can get us to do all sorts of things. So the Book of \[Sirach\] says, "Take heart and cheer up. Throw away your distress" (*cf*. Sir 30:21-22).
 
 Yes, sadness has killed many people. We can\'t let ourselves be overcome by sadness. We have to struggle, to fight a little bit, recover our joy. It\'s an act of humility.
 
 We have to try and discover sometimes the root of our sadness, the cause of our sadness, and uproot it. Get it out.
 
-Laughter is God\'s sunshine. When we go to the get-together with that cheerfulness, or to meal times, or details of family life, we should go with a smile.
+Laughter is God\'s sunshine. When we go to the get-together with that cheerfulness, or to mealtimes, or details of family life, we should go with a smile.
 
-Joy and cheerfulness are the motor oil that makes human interaction run smoothly---particularly important at work and other places where there may be intensity and a bit of tension, etc.
+Joy and cheerfulness are the motor oil that makes human interaction run smoothly---particularly important at work and other places where there may be intensity and a bit of tension.
 
 A cheerful attitude helps us to be positive and understanding with the defects of others and their mistakes. A sense of humor helps to put things in perspective. Things are not as bad as all that.
 
 St. Teresa of Ávila says, "Let nothing disturb you, nothing frighten you. All things pass. God does not change. Patience achieves everything. Whoever has God lacks nothing." These are wonderful words.
 
-"Your charity," we are told in *The Forge,* Point 699, should be likable. Without neglecting prudence and naturalness, try to have a smile on your lips for everyone at all times. Though you may be weeping inside, the service you give to others should be unstinting too.
+"Your charity," we are told in *The Forge*, "should be likable. Without neglecting prudence and naturalness, try to have a smile on your lips for everyone at all times, though you may be weeping inside. The service you give to others should be unstinting too" (J. Escrivá, *The Forge*, Point 699).
 
-"The first step towards bringing others to the ways of Christ is for them to see you happy and serene, sure in your advance towards God."
+"The first step towards bringing others to the ways of Christ is for them to see you happy and serene, sure in your advance towards God" (*ibid*., Point 858).
 
 With every reason we sing to Our Lady these days, "Rejoice in Bethlehem, O Virgin Mary, for the Lord has truly risen."
 
-May you help us to grow in our joy and help us to be very aware always of this Easter joy so that we can spread it to so many other people.
+Mary, may you help us to grow in our joy and help us to be very aware always of this Easter joy so that we can spread it to so many other people.
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
