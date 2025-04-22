@@ -11,7 +11,7 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-We\'re told in the First Letter of St. John, "This is what we have heard from him and are declaring to you: God is light and there is no darkness in him at all. If we say that we share in God\'s life while we are living in darkness, we are lying, because we are not living the truth. But if we live in light, as he is in light, we have to share in another\'s life, and the blood of Jesus, his Son, cleanses us from all sin" (1 John 1:5-7).
+We\'re told in the First Letter of St. John, "This is what we have heard from him and declare to you: God is light and there is no darkness in him at all. If we say that we share in God\'s life while we are living in darkness, we are lying, because we are not living the truth. But if we live in light, as he is in light, we have to share in another\'s life, and the blood of Jesus, his Son, cleanses us from all sin" (1 John 1:5-7).
 
 Today is the Feast of St. Catherine of Siena, who is an Intercessor in our supernatural family, for Public Opinion.
 
@@ -29,7 +29,7 @@ It's interesting to remind ourselves that there have been some incredible women 
 
 Don\'t ever let anyone tell you that the Church puts down women. If you look at history, you\'ve got a very different story.
 
-She was the 23rd of 25 children and a twin. Through her personal influence, thousands of people returned to the faith---which also means they went away from it.
+She was the 23rd of 25 children and a twin. Through her personal influence, thousands of people returned to the faith (which also means they went away from it).
 
 Her crowning achievement was the return of the papacy of Gregory XI to Rome to end the great Western schism. At the time, there were two or three popes, one of them living in Avignon, France.
 
@@ -43,11 +43,11 @@ I happened to mention that I had written a short little article to the local Cat
 
 I found those rather interesting words. We all have to try and have an influence. Part of the role and vocation of the laity is to influence the temporal affairs of the world.
 
-St. Catherine of Siena had a great influence. St. Josemaría, in making her an Intercessor in the area of public opinion, was also stating that all of us have to have an influence on public opinion. Public opinion can be very important.
+St. Catherine of Siena had a great influence. St. Josemaría, in making her an Intercessor in the area of Public Opinion, was also stating that all of us have to have an influence on public opinion. Public opinion can be very important.
 
-At one stage, St. Catherine wrote to the King of England. Her biographer, Curtayne, says, "She flung in against the balance of evil all her power of prayer, every ounce of her physical energy, all the fasting and vigil and penance of which any human being was capable, all her eloquence, all her organizing ability, all the force of her magnetic personality. ... She exploited every gift of hers to the utmost" (Alice Curtayne, *Saint Catherine of Siena*).
+At one stage, St. Catherine wrote to the King of England. Her biographer, Curtayne, says, "She flung in against the balance of evil all her power of prayer, every ounce of her physical energy, all the fasting and vigil and penance of which any human being was ever yet capable, all her eloquence, all her organizing ability, all the force of her magnetic personality. ... She exploited every gift of hers to the utmost" (Alice Curtayne, *Saint Catherine of Siena*).
 
-It said that when she wrote to Pope Gregory XI, she said, "If you don\'t use your authority for God\'s honor and the good of souls, resign" (cf. Vida D. Scudder, editor, *Letters of Saint Catherine Benincasa of Siena*).
+It said that when she wrote to Pope Gregory XI, she said, "If you don\'t use your authority for God\'s honor and the good of souls, resign" (*cf*. Vida D. Scudder, editor, *Letters of Saint Catherine Benincasa of Siena*).
 
 So she called a spade a spade. She didn\'t hold back.
 
@@ -57,7 +57,7 @@ You find some of the great women saints in the history of the Church underwent s
 
 But she was a lady of great mettle. She was canonized in 1461 and she was declared a doctor of the Church by Pope St. Paul VI in 1970. She was a woman of great fortitude, of daring, of courage.
 
-She had great faith, great love for the Church expressed in deeds. She had great love for the Pope, whom she called the "sweet Christ on earth" (*Ibid*.).
+She had great faith, great love for the Church expressed in deeds. She had great love for the Pope, whom she called the "sweet Christ on earth" (*ibid*.).
 
 She had great love for the truth. At the same time, she had great humility.
 
@@ -71,7 +71,7 @@ Social media and print media are among the greatest means we have in the world t
 
 A pharmacist in Ireland many years ago attended a meeting of pharmacists where they were going to try and encourage every pharmacist in the country to stock the contraceptive pill.
 
-This was in the early 1970s when the pill was not legal. There was a panel of experts there to try and persuade these pharmacists that this was okay.
+This was in the early 1970s when the pill was not legal in Ireland. There was a panel of experts there to try and persuade these pharmacists that this was okay.
 
 One of them was a prominent moral theologian in a prominent Catholic seminary. He was also in favor of contraception, a dissident in that particular teaching. He tried to make it seem very acceptable: "follow your conscience."
 
@@ -85,9 +85,9 @@ So he invoked the Holy Spirit and he went to the microphone. He had never spoken
 
 He said very clearly, very politely, and very briefly to this moral theologian, "I\'d just like to say, Father, that I think the teaching of the Church is more along these lines: one, two, and three."
 
-Very clearly, very politely, he said what he had to say and then he sat down. People came to him afterwards and said, That was marvelous. You should speak more frequently.
+Very clearly, very politely, he said what he had to say and then he sat down. People came to him afterwards and said, "That was marvelous. You should speak more frequently."
 
-The following year, they elected him the president of the Association of Pharmacists of the country and they were able to keep the contraceptive pill out of Ireland for many years.
+The following year, they elected him the president of the Association of Pharmacists of the country, and they were able to keep the contraceptive pill out of Ireland for many years.
 
 Sometimes we have to be that voice, that voice that registers its disapproval.
 
@@ -99,7 +99,7 @@ This friend of mine felt rather uncomfortable. He knew that was wrong. He felt h
 
 He just said to this person, out loud in the company of everybody else, "I\'d just like to say, I don\'t agree with what you\'re saying."
 
-As soon as he said it, one person leaned over---there was a person beside him---and said, I couldn\'t agree with you more. Another lady who was beside him leaned over and said, Terrible idiot.
+As soon as he said it, one person leaned over---there was a person beside him---and said, "I couldn\'t agree with you more." Another lady who was beside him leaned over and said, "Terrible idiot."
 
 He realized the whole room was with him. All that was needed was one voice.
 
@@ -113,7 +113,7 @@ Notice how forty, fifty years ago, the popes and the saints were pointing to the
 
 We have to try and help every family at the breakfast table that may have their radio on, or in the car some place, to receive good ideas, family values.
 
-A man told me recently that he was listening to a program on a radio, and surprisingly this program was very pro-family, and he was very impressed. The program gave a certain number you could call if you had any questions or comments to make.
+A man told me recently that he was listening to a program on the radio, and surprisingly this program was very pro-family, and he was very impressed. The program gave a certain number you could call if you had any questions or comments to make.
 
 He called the program and said, "Look, I\'d just like to congratulate you on this marvelous program. It\'s very wonderful to hear such things."
 
@@ -131,7 +131,7 @@ This business of the apostolate of public opinion is not just in promoting or de
 
 This is not just the job of numeraries and priests. Everybody must be involved.
 
-In *The Forge*, St. Josemariá says, "The following comment, which caused me great sorrow, will also make you reflect: 'I see very clearly why there is a lack of resistance, and why what resistance there is to iniquitous laws is so ineffective, for above, below, and in the middle there are many people---so very many!---who just follow the crowd" (Josemaría Escrivá, *The Forge*, Point 465).
+In *The Forge*, St. Josemaría says, "The following comment, which caused me great sorrow, will also make you reflect: 'I see very clearly why there is a lack of resistance, and why what resistance there is to iniquitous laws is so ineffective, for above, below, and in the middle there are many people---so very many!---who just follow the crowd" (Josemaría Escrivá, *The Forge*, Point 465).
 
 We\'re called to clash with our environment, not to follow the crowd, to be leaders, to make a splash, to transmit truth.
 
@@ -155,13 +155,13 @@ This is a good day to ask yourself: In the last twelve months, in the last ten y
 
 There are forces all over the world that are trying to influence the doctrine of life, the sanctity of life; that are trying to take away that statement of John Paul II whereby he says, "the family is the sanctuary of life" (John Paul II, Encyclical, *Centesimus Annus*, May 1, 1991).
 
-What have we done to protect all that, defend those values?
+What have we done to protect all that, to defend those values?
 
 In *The Forge* we\'re told, "To think of Christ\'s death means to be invited to face up to our everyday tasks with complete sincerity, and to take the faith that we profess seriously. It has to be an opportunity to go deeper in the depths of God\'s love, so as to be able to show that love to men with our words and deeds" (J. Escrivá, *The Forge*, Point 575).
 
 St. Catherine of Siena went all out in a culture that possibly did not give too much importance to women. She wasn\'t held back by those things. She had an Italian fire about her.
 
-He says in *The Forge*, "Make sure that your lips, the lips of a Christian---for that is what you are and should be at all times---speak those compelling supernatural words which will move and encourage, and will show your committed attitude to life" (*Ibid*., Point 576).
+St. Josemaría says in *The Forge*, "Make sure that your lips, the lips of a Christian---for that is what you are and should be at all times---speak those compelling supernatural words which will move and encourage, and will show your committed attitude to life" (*ibid*., Point 576).
 
 We can ask the Holy Spirit for the gift of writing and of speaking, and perhaps spend a few minutes every day writing a few ideas or a few words in response to an article in a newspaper, so that we create a river of truth.
 
@@ -169,7 +169,7 @@ In these areas where we learn to swim by swimming, there are many talents that w
 
 We can read good newspapers, read good articles, read good novels, improve our vocabulary, improve our grammar, improve our English or the way we say things.
 
-Whenever St. Josemaría heard a catchy phrase, he would write it down because words, he said, are the vehicle for transmitting doctrine. He's always had an antenna up to catch useful words or phrases.
+Whenever St. Josemaría heard a catchy phrase, he would write it down because "words," he said, "are the vehicle for transmitting doctrine." He's always had an antenna up to catch useful words or phrases.
 
 We may have little time to read, so we have to make sure that what we read is good. Get advice. If you read something, don\'t just read anything.
 
@@ -181,7 +181,7 @@ How can I use what I\'m going to read to spread truth and doctrine? And if what 
 
 We may not be good writers now, but it\'s a talent and an influence that we can acquire with the passage of time.
 
-We also need to move other people to read, to get involved in influencing. In *The Forge*, we\'re told, "My child, your job is not just to save souls, but to bring them to holiness, day after day, giving to each moment---even to apparently ordinary moments---the dynamic echo of eternity (J. Escrivá, *The Forge*, Point 917).
+We also need to move other people to read, to get involved in influencing. In *The Forge*, we\'re told, "My child, your job is not just to save souls, but to bring them to holiness, day after day, giving to each moment---even to apparently ordinary moments---the dynamic echo of eternity" (J. Escrivá, *The Forge*, Point 917).
 
 In every conversation, in every letter we write, in every response we make to try and influence public opinion, somehow we\'re giving to each moment "the dynamic echo of eternity."
 
@@ -197,19 +197,21 @@ Some people may need to be more prepared in this area, but we all need to be awa
 
 It\'s very good that we know how to explain what a Prelature is, to at least have a few sentences ready, to listen carefully every time it\'s explained.
 
-We should be able to talk at short notice about. St. Josemaría, or some other current issue that is important.
+We should be able to talk at short notice about St. Josemaría, or some other current issue that is important.
 
-We should have slogans ready. "What we need is smart sex, not safe sex." "No sex before you get married and after you get married, only sex with one person. That\'s smart."
+We should have slogans ready. "What we need is smart sex, not safe sex." "No sex before you get married and after you get married, only sex with one person. That\'s smart. Clever people are smart."
 
-Clever people are smart. To remind people there\'s no such thing as safe abortion. To answer the social discredit of chastity in all sorts of ways. To remind people that someone always dies in an abortion.
+To remind people there\'s no such thing as safe abortion. To answer the social discredit of chastity in all sorts of ways. To remind people that someone always dies in an abortion.
 
 We could try to have ambition in this area, an ambition to influence. "Don\'t let your life be barren," we\'re told in the first line of *The Way*. "Be useful. Make yourself felt. Shine forth with the torch of your faith and your love" (J. Escrivá, *The Way*, Point 1).
 
 We shouldn\'t worry if good values, family values, or the Church gets a bad press. Christ got a bad press. But we\'re here to influence.
 
-We\'re told in *The Forge*, "I insist: ask God to grant us, his children, the 'gift of tongues', the gift of making ourselves understood by all. You can find the reason why I want this 'gift of tongues' in the pages of the Gospel, which abound in parables, in examples which materialize the doctrine and illustrate spiritual truths, without debasing or degrading the word of God" (J. Escrivá, *The Forge*, Point 895).
+We\'re told in *The Forge*, "I insist: ask God to grant us, his children, the 'gift of tongues', the gift of making ourselves understood by all.
 
-Everyone, both the learned and the less learned, finds it easier to reflect on and understand God\'s message through these human images.
+"You can find the reason why I want this 'gift of tongues' in the pages of the Gospel, which abound in parables, in examples which materialize the doctrine and illustrate spiritual truths, without debasing or degrading the word of God.
+
+"Everyone, both the learned and the less learned, finds it easier to reflect on and understand God\'s message through these human images" (J. Escrivá, *The Forge*, Point 895).
 
 In this world of communication, the 21st century, where everything related to communication is important, we have to try and work at being better communicators.
 
@@ -219,7 +221,7 @@ I was at a lecture once in Singapore for the Catholic Medical Guild of Asia. The
 
 He held up two documents. One was the United Nations Declaration on Women. The other was the "Gospel of Life" from the Holy See. He said, "Here are two documents talking about the same thing but saying completely different things. The United Nations talks about women, women, women. The Catholic Church talks about mothers, mothers, mothers."
 
-Mothers tend to be forgotten in this world. That same professor has written articles saying, Who cares about mothers?
+Mothers tend to be forgotten in this world. That same professor has written articles saying, "Who cares about Third World mothers?"
 
 The maternal mortality rate in many third-world countries is one of the greatest scandals of modern medicine. But who cares? Nobody cares. The Catholic Church cares.
 
@@ -235,17 +237,17 @@ We can improve our standards of communication when we answer emails quickly, whe
 
 Keep people around us informed, in order to serve for quick and easy transmission of good news and of doctrine.
 
-Think about the public relations value of the June 26th masses, or other activities in the center, to keep our contact with people that have passed through our life. Even if we haven\'t seen them for decades, we keep in contact. We keep the contact warm.
+Think about the public relations value of the June 26th Masses, or other activities in the center, to keep our contact with people that have passed through our life. Even if we haven\'t seen them for decades, we keep in contact. We keep the contact warm.
 
 The Apostolate of Public Opinion has many forms and expressions, and we have a message for every last person in society: every opportunity is important.
 
 We\'re in the business of the evangelization of culture.
 
-One time I was entertaining the Archbishop of Singapore, the deceased Archbishop, in the center of the Women of the Prelature.
+One time I was entertaining the Archbishop of Singapore, now the deceased Archbishop, in the center of the Women of the Prelature.
 
 We\'d had a benediction in the Oratory. He was going to give a get-together in the living room. We retired to the study to give him a cup of tea. He was diabetic.
 
-The people who were in the center had prepared a little trolley with a nice cup of tea and some fruits, nicely prepared. He took one look at the trolley, and he said, This is culture.
+The people who were in the center had prepared a little trolley with a nice cup of tea and some fruits, nicely prepared. He took one look at the trolley, and he said, "This is culture."
 
 I looked again at the trolley. I was wondering, was I missing something? It looked very ordinary to me. I would never have associated the trolley with culture.
 
@@ -267,17 +269,17 @@ Very often the parish priest understands of Opus Dei whatever he sees in the sup
 
 Find ways of helping the parish that is according to our spirit. Live well your duty as parishioners, for example, giving catechism classes, being involved in finance committees, taking care of flowers on the altar. Low key, but effective. Having an influence.
 
-In other areas, we should take care of our appearance. Dress well, as Christ did. His garment was woven without seam from top to bottom (John 19:23). He used the methods that any PR person in the 21st century would use.
+In other areas, we should take care of our appearance. Dress well, as Christ did. "His garment was woven without seam from top to bottom" (John 19:23). He used the methods that any PR person in the 21st century would use.
 
 In our century, everything to do with presentation and communication is important. We do this apostolate at home with our family, with our children, with our relatives.
 
-Be aware of small local media: a village newsletter, a parish bulletin, a local radio.
+Be aware of small local media: a village newsletter, a parish bulletin, local radio.
 
-We\'re told in *The Forge*, "The Master has said it all already: if only we, children of light, were to put at least as much effort and obstinacy into doing good as the children of darkness put into their activities! Don\'t complain. Work instead to drown evil in an abundance of good!" (J. Escrivá, *The Forge*, Point 848).
+We\'re told in *The Forge*, "The Master has said it all already: if only we, children of light, were to put at least as much effort and obstinacy into doing good as the children of darkness put into their activities! ---Don\'t complain. Work instead to drown evil in an abundance of good!" (J. Escrivá, *The Forge*, Point 848).
 
 "God wants his children to be on the offensive," he says. "We cannot stay on the defensive. Our business is to fight, wherever we may be, as an army in battle array" (J. Escrivá, *Furrow*, Point 790).
 
-"Loving souls, for God\'s sake, will make us love everyone: understanding, excusing, forgiving all. We should have a love that can cover the multitude of failings contrived by human wretchedness. We have to have a wonderful charity, defending the truth, but without hurting anyone" (J. Escrivá, *The Forge*, Point 559).
+"Loving souls, for God\'s sake, will make us love everyone: understanding, excusing, forgiving all\... We should have a love that can cover the multitude of failings contrived by human wretchedness. We have to have a wonderful charity, defending the truth, but without hurting anyone" (J. Escrivá, *The Forge*, Point 559).
 
 There\'s no communication without values being communicated. There\'s no value-free social communication. The world is molded by ideas. We carry our atmosphere with us. Knowledge is power.
 
@@ -285,7 +287,7 @@ The moral fiber of the character in a movie transmits a message. If the hero get
 
 Literature is a mirror of society. Don\'t break the mirror. They could be the sewer of society.
 
-What society are we living in? There are three people who are said to have influenced the 20th century most: Freud, Marx, and Malthus---Freud with his sexual evolution, Marx with socialism and communism, and Malthus with the population theory.
+What society are we living in? There are three people who are said to have influenced the 20th century most: Freud, Marx, and Malthus---Freud with his sexual evolution, Marx with socialism and communism, and Malthus with population theories.
 
 We have to try and see who is going to influence the 21st century most. We have the ideas. We have the truth.
 
