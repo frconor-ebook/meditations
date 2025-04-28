@@ -65,11 +65,11 @@ Algeria has many Christian basilicas and shrines. But with that Arab invasion, t
 
 Our Lady of Africa is there to protect all of this. We can ask her for special graces, for the fruit, and for the future of the evangelization of Africa, a land of special martyrs.
 
-In the latter part of the 20th century, in 1995, Pope John Paul II convened in Rome a Synod on Africa. The findings of that Synod are reflected in a document called *Ecclesia in Africa*, or 'The Church in Africa."
+In the latter part of the 20th century, in 1995, Pope \[John Paul II\] convened in Rome a Synod o\[n Africa. The findings of that Synod are reflected in a document called *Ecclesia in Africa*, or 'The Church in Africa."
 
 It is worthwhile reading some time. It's like the ideas of the Catholic Church wants to shape Africa within the 21st century.
 
-In that document, Pope John Paul says, "It seems that the 'hour of Africa' has come, a favorable time which urgently invites Christ\'s messengers to launch out into the deep and to cast their nets for the catch (cf. Luke 5:4)."
+In that document, Pope John Paul says, "It seems that the 'hour of Africa' has come, a favorable time which urgently invites Christ\'s messengers to launch out into the deep and to cast their nets for the catch" (*cf.* Luke 5:4).
 
 On this Feast of Our Lady of Africa, each one of us who are recipients of this great legacy, the Christian history of Africa, have to try and renew our desires to be true apostles.
 
@@ -89,17 +89,17 @@ The Pope continues: "African Catholics are assuming ever greater responsibility 
 
 "The Church has the duty to affirm vigorously that these difficulties can be overcome. She must strengthen in all Africans the hope of genuine liberation. ... The Holy Spirit is the principal agent of evangelization. He\'s the one who impels each individual to proclaim the Gospel" with our words and with our deeds.
 
-"He\'s the one with the depths of conscience, causing the words of salvation to be accepted and understood."
+"He\'s the one who, in the depths of consciences, causes the words of salvation to be accepted and understood."
 
 The Pope says, "Our cooperation is necessary" in this great evangelizing task "through fervent prayer, serious reflection, suitable planning, and the mobilization of resources."
 
-As ordinary lay people in the middle of the world, charged in this period of history with this great apostolic enterprise, the Pope is saying to each one of us that we need to be people of "fervent prayer" ---daily prayer---"serious reflection"---monthly recollection, yearly retreat---"suitable planning, and the mobilization of resources."
+As ordinary lay people in the middle of the world, charged in this period of history with this great apostolic enterprise, the Pope is saying to each one of us that we need to be people of "fervent prayer"---daily prayer---"serious reflection"---monthly recollection, yearly retreat---"suitable planning, and the mobilization of resources."
 
 What can I do? How can I influence my environment? How can I build up a Christian culture in society?
 
 Pope Paul VI says, "It\'s often said nowadays that the present century thirsts for authenticity. Especially in regard to young people, it is said that they have a horror of the artificial or the false and that they are searching above all for truth and honesty."
 
-They have to try and see, in our lives, authentic Christian virtue. He says, "The witness of life has become more than ever an essential condition for real effectiveness" (Pope Paul VI, Apostolic Exhortation, *Evangelii Nuntiandi* (*Evangelization in the Modern World*), December 8, 1975.
+They have to try and see, in our lives, authentic Christian virtue. He says, "The witness of life has become more than ever an essential condition for real effectiveness" (Pope Paul VI, Apostolic Exhortation, *Evangelii Nuntiandi* (*Evangelization in the Modern World)*, December 8, 1975).
 
 Pope Paul VI in the same document said that while teaching is important and teachers are important, what\'s even more important in modern culture are witnesses, people who witness to their teaching, who live what they say, who are followers of Christ 24/7.
 
@@ -109,11 +109,11 @@ We have to try and give witness to an exemplary life in the family, in the workp
 
 The Holy Father talks about "a dynamic laity, with deeply believing parents, educators conscious of their responsibility, and political leaders animated by a profound sense of morality."
 
-Pope John Paul the Great liked to say that he paid a total of ten pastoral visits to Africa and Madagascar during his Pontificate, going to thirty-six countries.
+Pope John Paul the Great liked to say that he paid a total of \[fourteen\] pastoral visits to Africa and Madagascar during his Pontificate, going to \[forty-two\] countries.
 
-He reminds us that "the Apostle of the Gentiles, St. Paul, tells us that God 'desires all men to be saved and to come to the knowledge of the truth (1 Tim. 2:4)."
+He reminds us that "the Apostle of the Gentiles, St. Paul, tells us that God 'desires all men to be saved and to come to the knowledge of the truth'" (1 Tim. 2:4).
 
-He says, "The first missionaries who reached the heart of Africa must have felt an astonishment very similar to that experienced by the Christians of the apostolic age at the outpouring of the Holy Spirit."
+He says, "The first missionaries who reached the heart of Africa" must have "felt an astonishment very similar to that experienced by the Christians of the apostolic age at the outpouring of the Holy Spirit."
 
 They could see that God was at work. "God\'s salvific plan for Africa is at the origin of the growth of the Church on the whole of the African continent."
 
@@ -139,7 +139,7 @@ He continues, "The names of the great doctors and writers come to mind, men like
 
 "There are the great saints of the desert, Paul, Anthony, Pachomius, the first founders of monastic life, which later spread through their example in both East and West. And among many others, we could also mention St. Frumentius, known by the name of Abba Salama, who was consecrated Bishop by St. Athanasius and became the first Apostle of Ethiopia.
 
-"During those first centuries of the Church in Africa, certain women also brought special witness to Christ: Saints Perpetua and Felicity, St. Monica and St. Thecla.
+"During those first centuries of the Church in Africa, certain women" also brought special "witness to Christ: Saints Perpetua and Felicity, St. Monica and St. Thecla.
 
 "These noble examples, as also the saintly African Popes, Victor I, Melchiades, and Gelasius I, belong to the common heritage of the Church, and the Christian writers of Africa remain today a basic source for deepening our knowledge of the history of salvation in the light of the Word of God."
 
@@ -149,7 +149,7 @@ On the 7th of June 1992, Pope John Paul was in Angola, celebrating the 500th ann
 
 He said, "The Acts of the Apostles indicate by name the inhabitants of the places who participated directly in the birth of the Church and the work of the breath of the Holy Spirit. They all said: 'We hear them telling in our own tongues the mighty works of God' (Acts 2:11). Five hundred years ago the people of Angola were added to this chorus of languages. At that moment, in your African homeland, the Pentecost of Jerusalem was renewed.
 
-"Your ancestors heard the message of the good news which is the language of the Spirit. Their hearts accepted this message for the first time, and they bowed their heads to the waters of the baptismal font in which, by the power of the Holy Spirit, a person dies with Christ and is born again to new life in his Resurrection.
+"Your ancestors heard the message of the good news which is the language of the Spirit. Their hearts accepted this message for the first time, and they bowed their heads to the waters of the baptismal font in which, by the power of the Holy Spirit, a person dies with Christ and is born again to new life in His Resurrection.
 
 "It was certainly the same Spirit that moved those men of faith, the first missionaries, who in 1491 sailed into the mouth of the Zaire River, at Pinda, beginning a genuine missionary saga.
 
@@ -161,7 +161,9 @@ That history demonstrates how Africa "responded with great generosity to Christ\
 
 This year, we celebrate 100 years of the arrival of the Loreto Sisters in Kenya, who were to bring about such an enormous transformation in education in this country, particularly in the education of women. They started the first school for African girls in the whole of East Africa in 1936, a glorious moment with enormous consequences.
 
-Pope John Paul says, "The glory and splendor of the present period of Africa\'s evangelization are illustrated in a truly admirable way by the saints whom modern Africa has given to the Church. Paul VI specifically talked about the Uganda martyrs. He said: 'They add a new page to that list of victorious men and women that we call the martyrology, in which we find the most magnificent as well as the most tragic stories."
+Pope John Paul says, "The glory and splendor of the present period of Africa\'s evangelization are illustrated in a truly admirable way by the saints whom modern Africa has given to the Church."
+
+Paul VI specifically talked about the Uganda martyrs. He said: 'They add a new page to that list of victorious men and women that we call the martyrology, in which we find the most magnificent as well as the most tragic stories."
 
 It's good that we come to know the stories of the African martyrs or other African saints, St. Bakhita, and the ones that are ongoing, that are coming up.
 
@@ -169,7 +171,7 @@ He said, "The page that they add is worthy to take its place alongside those won
 
 "Faced with the tremendous growth of the Church in Africa over the last hundred years and the fruits of holiness it has borne, there is only one possible explanation: all this is a gift of God. No human effort alone could have performed this work in the course of such a relatively short period of time."
 
-We can look back and thank Our Lady for everything that has been achieved, and also entrust the future to her. Ask her that we might "not squander this period of the world\'s history, and of the Church\'s history, that God has entrusted to each one of us" (cf. Josemaría Escrivá, *Friends of God*, Point 39).
+We can look back and thank Our Lady for everything that has been achieved, and also entrust the future to her. Ask her that we might "not squander this period of the world\'s history, and of the Church\'s history, that God has entrusted to each one of us" (*cf*. Josemaría Escrivá, *Friends of God*, Point 39).
 
 We show that debt of gratitude by taking care of our families, the domestic Church, making them seedbeds of vocations for the missionary Church that Africa has now become. It was to send missionaries all over the world, to China, to Japan, so many places that need them.
 
@@ -177,13 +179,13 @@ We have to think with a great universal spirit. Catholic means universal. Our La
 
 The Holy Father says that there is a great culture and tradition in the role of the family in Africa. We have to help that, look after it, defend it, rejoice in that great grace.
 
-"Respecting the life which is conceived and born, rejecting ideas that are hostile to life which are imposed on them by means of economic systems that serve the selfishness of the rich. Africans show their respect for human life until its natural end, and keep elderly parents and relatives within the family."
+"Respecting the life which is conceived and born, rejecting ideas that are hostile to life which are imposed on them by means of economic systems that serve the selfishness of the rich, Africans show their respect for human life until its natural end, and keep elderly parents and relatives within the family."
 
 But the Holy Father says, "The 'winds of change' are blowing strongly in many parts of Africa."
 
 The Church has to play a leading role in everything that "touches upon integral human development." There is a need for "a more profound evangelization."
 
-For that to happen, we first of all must deepen our faith and take very good care of our formation. "We cannot give what we do not have."
+For that to happen, we first of all must deepen our faith and take very good care of our formation. "We cannot give what we do not have" (*cf*. J. Escrivá, *The Forge*, Point 78).
 
 We have to try and work to know the teaching of the Church a little better, and the practice of virtue.
 
@@ -205,7 +207,7 @@ The pathway of holiness in the middle of the world, the pathway that has been sh
 
 With the apostles, during this Paschal time, we're beginning again, helping to build up the dignity of the human person in all possible ways.
 
-Pope Paul VI likes to say, "The new name for peace is development" (Paul VI, Encyclical, *Populorum Progressio, On the Development of Peoples*, March 26, 1967).
+Pope \[Paul VI\] likes to say, "The new name for peace is development" (Paul VI, Encyclical, *Populorum Progressio, On the Development of Peoples*, March 26, 1967).
 
 As Christians in the middle of the world, we have to try and foster that development, and ask Our Lady, that she might help us to see the openings, the opportunities, the potential, to think out of the box, to use all the means to bring about this new evangelization which is urgent.
 
