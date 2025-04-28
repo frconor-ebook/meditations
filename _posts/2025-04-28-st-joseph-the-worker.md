@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "St. Joseph the Worker—May 1"
+title: "St. Joseph the Worker"
 ---
 
 By Fr. Conor Donnelly
@@ -13,7 +13,7 @@ By Fr. Conor Donnelly
 
 In the Entrance Antiphon of today\'s Mass, we\'re told from the Psalms, "By the labor of your hands you shall eat" (Ps.128:2).
 
-Today is the feast of St. Joseph the Worker. It\'s been celebrated liturgically since 1955.
+Today is the Feast of St. Joseph the Worker. It\'s been celebrated liturgically since 1955.
 
 On this day, the Church, inspired by St. Joseph\'s example, commemorates in a special way the human and supernatural value of work, "the hinge of our sanctification" (Josemaría Escrivá, *Friends of God*, Point 62).
 
@@ -41,31 +41,31 @@ He lifted up the dignity of work as an extension of the human person.
 
 Pope Francis says, "In our own day, when employment has once more become a burning subject, and unemployment at times reaches record levels even in nations that for decades have enjoyed a certain degree of prosperity, there is a renewed need to appreciate the importance of dignified work, of which St. Joseph is an exemplary patron."
 
-In this year of St. Joseph, as we turn to him frequently and ask him for things and offer things to him, we could also ask him that we might sanctify our work a little better, so that it might truly be an instrument of our own sanctification through human and supernatural virtue put into practice, and that it might become a means of apostolate, of reaching out to other souls.
+In this Year of St. Joseph \[December 8, 2020 to December 8, 2021\], as we turn to him frequently and ask him for things and offer things to him, we could also ask him that we might sanctify our work a little better, so that it might truly be an instrument of our own sanctification through human and supernatural virtue put into practice, and that it might become a means of apostolate, of reaching out to other souls.
 
-"Work," he says, "is a means of participating in the work of salvation, an opportunity to hasten the coming of the Kingdom, to develop our talents and abilities, and to put them at the service of society and fraternal communion."
+"Work," he says, "is a means of participating in the work of salvation, an opportunity to hasten the coming of the Kingdom, to develop our talents and abilities, and to put them at the service of society and fraternal communion" (Pope Francis, Apostolic Letter, *Patris Corde*, Point 6, December 8, 2020).
 
 All professional work is a service: service of our fellow man, service in the family. We have to try and put a service orientation in our work, and love our work, and our vocation to work, and the place where we\'ve been placed, and see how we can do it better, so as to give better service, so as to always be improving in our work; to love our work so that we have a desire to work, and to work better.
 
 Even if we reach what in the world is called a retirement age, it\'s good to think of other projects that we can get involved in, other things we can do, ways we can serve, ways that we can contribute to the common good and to the benefit of humanity, so that we\'re always busy using our talents, our abilities, our acumen, and helping other people to do the same thing, to have the same orientation, so that our work never ends, this "hinge of our sanctification."
 
-Pope Francis says, "It becomes an opportunity for the fulfillment not only of oneself, but also of that primary cell of society, which is the family."
+Pope Francis says, "It becomes an opportunity for the fulfillment not only of oneself, but also of that primary cell of society, which is the family" (*ibid*.).
 
 Our work in the family is particularly important to build up those great future citizens of society, so that they also learn to be people who work, to value their study, or other ways in which they learn to work well and better, sometimes using their minds, sometimes using their hands, because they see that all forms of work are important.
 
-He says, "A family without work is particularly vulnerable to difficulties, tensions, estrangement, and even breakup. How can we speak of human dignity without working to ensure that everyone is able to earn a decent living?"
+He says, "A family without work is particularly vulnerable to difficulties, tensions, estrangement, and even breakup. How can we speak of human dignity without working to ensure that everyone is able to earn a decent living?" (*ibid*.).
 
 In the area of work, we have to help other people to work, to be properly rewarded for their work, to respect the work that they do, while at the same time demanding certain standards of work, leading people up onto a new level, not tolerating shoddy workmanship, sometimes demanding a little more from people because we know they\'re capable of giving it, and so, are capable of giving a better service.
 
-"Working persons," says Pope Francis, "whatever their job may be, are cooperating with God himself, and in some way becoming creators of the world around us."
+"Working persons," says Pope Francis, "whatever their job may be, are cooperating with God himself, and in some way becoming creators of the world around us" (*ibid*.).
 
 Through that job that God has given us to do, we participate in the work of Creation. There is no job that is of little import. Everyone has a role to play.
 
-"The crisis of our time," he says, "which is economic, social, cultural, and spiritual, can serve as a summons for all of us to rediscover the value, the importance, and necessity of work for bringing about a new 'normal' from which no one is excluded. St. Joseph\'s work reminds us that God himself, in becoming man, did not disdain work."
+"The crisis of our time," he says, "which is economic, social, cultural, and spiritual, can serve as a summons for all of us to rediscover the value, the importance, and necessity of work for bringing about a new 'normal' from which no one is excluded. St. Joseph\'s work reminds us that God himself, in becoming man, did not disdain work" (*ibid*.).
 
-We can ask St. Joseph "to help us to find ways to express our firm conviction that no young person, no person at all, no family should be without work!"
+We can ask St. Joseph "to help us to find ways to express our firm conviction that no young person, no person at all, no family should be without work!" (*ibid*.).
 
-Our work is a gift from God. When the Church presents St. Joseph to us today as a model, the Church is not just endorsing just one form of work, manual labor, but is rather testifying to the dignity and value of all human occupations.
+Our work is a gift from God. When the Church presents St. Joseph to us today as a model, the Church is not endorsing just one form of work, manual labor, but is rather testifying to the dignity and value of all human occupations.
 
 In the First Reading of the Mass from Genesis, we read the account of man\'s participation in the work of Creation (Gen. 1:26--2:3).
 
@@ -115,13 +115,13 @@ Very interesting question. And the answer is yes.
 
 We believe that the little actions of each day, like flicking on our computer switch, when united to the Mass, offered by Christ to His heavenly Father, participates in the work of Redemption. It becomes redemptive.
 
-Our Lord called His apostles in the midst of their ordinary occupations. We\'re told in *Christ Is Passing By*, by St. Josemaría, "It is time for us Christians to shout from the rooftops that work is a gift from God and that it makes no sense to classify men differently, according to their occupation, as if some jobs were nobler or of less significance than others.
+Our Lord called His apostles in the midst of their ordinary occupations. We\'re told in *Christ Is Passing By* by St. Josemaría, "It is time for us Christians to shout from the rooftops that work is a gift from God and that it makes no sense to classify men differently, according to their occupation, as if some jobs were nobler or of less significance than others.
 
 "Work, all work," he says, "bears witness to the dignity of man and to his dominion over Creation. It is an opportunity to develop one\'s personality. It is a bond of union with others, the way to support one\'s family, a means of contributing to the improvement of the society in which we live and in the progress of all humanity" (J. Escrivá, *Christ Is Passing By*, Point 47).
 
 Pope St. John Paul says that we look to St. Joseph, who worked for his living, that his feast proposes him to us as a model and a patron of our work. We can ask him to ensure that our work never loses its value or its dignity.
 
-One of the documents of the Church, an early document on human work, talked about how often, from a factory, matter goes out improved, whereas "the men there are corrupted and degraded" (Pius XII, Encyclical, *Quadragesimo Anno*--*On the Fortieth Anniversary of Rerum Novarum*), May 15, 1931).
+One of the documents of the Church, an early document on human work, talked about how often, from a factory, matter goes out improved, whereas "the men there are corrupted and degraded" (Pius XII, Encyclical, *Quadragesimo Anno*--*On the Fortieth Anniversary of Rerum Novarum*, May 15, 1931).
 
 Our work, like St. Joseph\'s, should leave our hands as a prayerful and pleasing offering to God. It should be the best job that we can do.
 
@@ -133,7 +133,7 @@ Man\'s work is taken up by the Son of God to be sanctified, united to Christ the
 
 All the negative qualities that attach themselves to work as a consequence of original sin---weariness, toil, hardship and difficulties---become, in Christ, something of immense value for every individual and for all mankind.
 
-Man is now associated with the work of Redemption wrought by Christ, "whose labor with His hands at Nazareth greatly ennobled the dignity of work" (Second Vatican Council, *Gaudium et Spes*, Point 67).
+Man is now associated with the work of Redemption wrought by Christ, "whose labor with His hands at Nazareth greatly ennobled the dignity of work" (Second Vatican Council, *Gaudium et spes*, Point 67).
 
 The honest occupation that I\'m involved in can lead to my perfection as an individual and can contribute to the whole of society.
 
@@ -165,9 +165,9 @@ St. Josemaría liked to say that we have come to turn the world inside out, like
 
 The vocation of the lay person in the middle of the world is to order all temporary realities to God. We have to try and love our place in the middle of the world. Love the world, because that\'s where God wants us to be, trying to lift up our profession.
 
-St. Josemaría liked the phrase, "*Regnare Christum volumus!*---we want Christ to reign" (J. Escrivá, *The Forge*, Point 639).
+St. Josemaría liked the phrase, "*Regnare Christum volumus!*---we want Christ to reign" (J. Escrivá, *The Forge*, Point 639). We want to put Him on top of everything.
 
-We want to put Him on top of everything. We're told to sanctify one\'s profession, any profession. Any honest human task can be sanctified directly to God. It\'s enough that it should be honest.
+We're told to sanctify one\'s profession, any profession. Any honest human task can be sanctified directly to God. It\'s enough that it should be honest.
 
 We\'re told in the *Furrow*: "Before God, no occupation is in itself great or small. Everything gains the value of the love with which it is done" (J. Escrivá, *Furrow*, Point 487).
 
