@@ -87,7 +87,7 @@ Christ is always there for us and will be until the end of time. "I am with you 
 
 Thank you, Lord, for this great gift. May I ponder it. May I react with wonder and amazement and joy and thanksgiving, so that I savor the gift.
 
-We're told in Scripture, *Si scires donum dei--*"If you knew the gift of God (John 4:10).
+We're told in Scripture, *Si scires donum Dei--*"If you knew the gift of God (John 4:10).
 
 Our Lord tells the disciples to feed the people on their own, distribute the loaves among the people. He wanted them to recognize their limits---not to humiliate them---but to teach them true humility.
 
@@ -175,7 +175,7 @@ May Christ Jesus always multiply this bread for us. Lord, help me to appreciate 
 
 "When they had their fill, he said to the disciples, 'Gather the fragments left over, so that nothing will be wasted'" (John 6:12).
 
-There\'s an end part to this great event. It\'s environmentally friendly. Our Lord is aware, has eco-sensitivity: "Gather up all the pieces."
+There\'s an end part to this great event. It\'s environmentally friendly. Our Lord is aware. He has eco-sensitivity: "Gather up all the pieces."
 
 But that\'s going to also put a different light on the whole miracle. "So they collected them and they filled twelve wicker baskets with fragments from the five barley loaves that had been more than they could eat" (John 6:13).
 
@@ -207,9 +207,9 @@ And so, here we are. "The People of God receive it with devout participation" (J
 
 St. Josemaría has encouraged us in that spirit to take care of our altars, of our oratories. Take care of the things of cult, of the liturgy, the external physical signs that lead us to the Bread of Life.
 
-"With this Bread of Life, a remedy of immortality, countless saints and martyrs were nourished and from it drew the strength to resist all the sufferings that God had sent them. They believed in the words of Jesus that he spoke in Capernaum, 'I myself am the living bread come down from heaven. If anyone eats this bread, he will live forever'" (John 6:51).
+"With this Bread of Life, a remedy of immortality, countless saints and martyrs were nourished and from it drew the strength to resist all the sufferings that God had sent them. They believed in the words of Jesus that he spoke in Capernaum, 'I myself am the living bread come down from heaven. If anyone eats this bread, he will live forever'" (*ibid*.).
 
-"Christ is the living bread, the Bread of Life. 'The bread that I will give is my flesh for the life of the world.'"
+Christ is the living bread, the Bread of Life. "The bread that I will give is my flesh for the life of the world" (John 6:51).
 
 Scandalous words that made some people no longer walk with Him. They went away. They could not take it (John 6:66). Our Lord hopes that we will not go away, that we will stay close.
 
@@ -221,7 +221,7 @@ But therefore, we make acts of faith. "Lord, I believe; help my unbelief" (Mark 
 
 Our Lord asked the apostles, "Will you also go away?" And they say those very useful words, "Lord, to whom will we go? You have the words of eternal life" (John 6:67-68).
 
-Lord, also, to whom will we go? There is nowhere else to go. We come to you. We want you to stay with us.
+Lord, to whom will we go? There is nowhere else to go. We come to you. We want you to stay with us.
 
 The words of the disciples on the road to Emmaus: "Stay with us, Lord" (Luke 24:29). Every day, with our words, with our presence, with our coming close to Our Lord in the Blessed Eucharist, we say those same words, "Stay with us, Lord."
 
@@ -233,7 +233,7 @@ The Blessed Eucharist is the human being\'s ongoing encounter with God in which 
 
 Over time we get transformed into Christ.
 
-We can turn to the Woman of the Eucharist who must have received Our Lord in the Masses of St. John with enormous piety.
+We can turn to the "Woman of the Eucharist" (John Paul II, Encyclical, *Ecclesia de Eucharistia*, Point 53, April 17, 2003), who must have received Our Lord in the Masses of St. John with enormous piety.
 
 The words "the Body of Christ" must have meant something very special to Our Lady. And her "Amen" must also have been something very special.
 
