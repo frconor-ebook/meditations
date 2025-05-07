@@ -51,7 +51,7 @@ But really, what this person was saying was that deep down in their heart and so
 
 We ask Our Lady to be that Queen of that reality inside us. The Entrance Antiphon of Our Lady the Queen says, "The Queen stands at your right hand arrayed in cloth of gold" (Ps. 45:9).
 
-It\'s all the beautiful titles we give to Our Lady that she's our Queen. We ask her to reign over everything that we do.
+It\'s all the beautiful titles we give to Our Lady that she's Our Queen. We ask her to reign over everything that we do.
 
 Here in this center, while we do many, many things, and possibly, we don\'t see the fruit of everything we do. That\'s part of the equation.
 
@@ -109,7 +109,7 @@ Peace is a great goal to which we can aspire. Pope Benedict says, "Peace is the 
 
 Everybody who comes into the center---in some ways they\'re looking for peace, peace in their heart, peace in their soul. And we transmit it with the atmosphere of this house and the things we do.
 
-Pope Benedict says, "'Peace is one of God\'s most beautiful names'" (*Ibid*.). Everybody wants peace.
+Pope Benedict says, "'Peace is one of God\'s most beautiful names'" (*ibid*.). Everybody wants peace.
 
 There may be people around us---in our workplace, in our family environment---that need a bit more peace---maybe not just deep interior peace, but perhaps peace in their life, peace in their mind, peace in their family, peace in their work, peace in their nerves.
 
@@ -157,7 +157,7 @@ We are missionaries in the middle of the world, called to do similar things. Whi
 
 As we sow and witness to this "Gospel of peace" (Eph. 6:15), we know we\'re sowing treasures in the hearts and souls of these young people to build a whole new society.
 
-St. Bernard writes, "Now our peace is not promised but sent to us. It is not deferred, but granted; not prophesied, but achieved. It is as if God the Father has sent upon the earth a sackful of his mercy, which will burst open during the Lord\'s passion to pour forth its hidden contents---the price of our redemption.
+St. Bernard writes, "Now our peace is not promised, but sent. It is not deferred, but granted; not prophesied, but achieved. It is as if God the Father has sent upon the earth a sackful of his mercy, which will burst open during the Lord\'s passion to pour forth its hidden contents---the price of our redemption.
 
 "It was only a small sack, but it was very full. As Scripture tells us: 'A little child has been given to us, but in him dwells all the fullness of the divine nature (Col. 2:9)'" (St. Bernard of Clairvaux, *Sermon*).
 
@@ -284,7 +284,7 @@ To be loved as to love.
 
 Mary is the Queen of Peace, a new peace in our hearts, a peace that we can give to many other people.
 
-Don Javier said, "Let us go to her intercession filled with trust, placing in her hands our personal struggle for sanctity and our prayer for peace. Our Lady, *Regina Pacis*, will obtain from Jesus, "the Prince of Peace" (Isa. 9:6), this divine gift so longed for by souls, by the Church, and by the whole world" (Javier Echevarría, *Letter of the Prelate*, January 1, 2007).
+Don Javier said, "Let us go to her intercession filled with trust, placing in her hands our personal struggle for sanctity and our prayer for peace. Our Lady, *Regina Pacis*, will obtain from Jesus, "the Prince of Peace" (Isa. 9:6), this divine gift so longed for by souls, by the Church, and by the whole world" (J. Echevarría, *Letter of the Prelate*, January 1, 2007).
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
