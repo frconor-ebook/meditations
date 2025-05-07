@@ -11,7 +11,7 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-Yahweh said to Abraham: "Leave your country, your kindred, and your father\'s house for a country which I will show you" (Gen. 12:1).
+"Yahweh said to Abraham: 'Leave your country, your kindred, and your father\'s house for a country which I will show you'" (Gen. 12:1).
 
 God places a very definite challenge before Abram, later to be Abraham, to leave these places that are very close to his heart.
 
@@ -33,23 +33,19 @@ In 1970, Pope St. John Paul canonized the forty English saints, many of whom wer
 
 It\'s interesting how five centuries later we\'re looking back to these historical realities, all of which came from the faith of St. Ignatius and how God used his correspondence---in the same way God wants to use our correspondence.
 
-We have no idea how God has planned to use our faith, and our living out the practice of our faith, to build up a whole new "civilization of love" that St. John Paul talked about (John Paul II, Encyclical, *Dominum et vivificantem*, May 18, 1986).
+We have no idea how God has planned to use our faith, and our living out the practice of our faith, to build up a whole new "civilization of love" that St. John Paul talked about (John Paul II, Apostolic Letter, *Salvifici doloris*, Point 30, February 11, 1984; Encyclical, *Dominum et vivificantem*, Point 67, May 18, 1986; *Letter to Families*, February 2, 1994; *Catechesis*, June 8, 1994).
 
-We\'ve come to change the world with our faith. In our prayer this morning we can say to Our Lord:
-
-Lord, increase my faith. Increase my faith, my hope, my charity. Help me to correspond in the way that you want me to correspond, because I know you have great things that are dependent on my correspondence.
+We\'ve come to change the world with our faith. In our prayer this morning we can say to Our Lord: Lord, increase my faith. Increase my faith, my hope, my charity. Help me to correspond in the way that you want me to correspond, because I know you have great things that are dependent on my correspondence.
 
 Every time that we receive the sacraments we get an increase of faith, of hope, and of charity. The theological supernatural virtues come to us with the grace of God that comes through the sacraments.
 
-Every time you go to Confession and receive Holy Communion, it\'s good to have a habitual desire that you actualize, telling Our Lord:
-
-Lord, I want this Communion and this Confession to bring me all those graces that I need, to grow in these key virtues.
+Every time you go to Confession and receive Holy Communion, it\'s good to have a habitual desire that you actualize, telling Our Lord: Lord, I want this Communion and this Confession to bring me all those graces that I need, to grow in these key virtues.
 
 That\'s one of the reasons why the Church recommends frequent Confession, frequent reception of Holy Communion, so that we grow in these virtues, we grow in grace, we grow in faith, and ultimately, we grow in holiness.
 
-"I shall bless those who bless you, and shall curse those who curse you, and all clans on earth will bless themselves by you. So Abram went as Yahweh told him."
+"'I shall bless those who bless you, and shall curse those who curse you, and all clans on earth will bless themselves by you.' So Abram went as Yahweh told him."
 
-Abraham corresponds to the commands that God gives him, the invitations, and on many occasions, we\'re going to find this is his response. "And Lot went with him. Abram was seventy-five years old when he left Haran" (Gen. 12:3-4).
+Abraham corresponds to the commands that God gives him, or the invitations, and on many occasions, we\'re going to find this is his response. "And Lot went with him. Abram was seventy-five years old when he left Haran" (Gen. 12:3-4).
 
 He wasn\'t a young man by any standards. God may come to us at any stage of our life and ask us for great things.
 
@@ -107,7 +103,7 @@ But God invites us to grow in faith and trust in Him, to leave things in His han
 
 Little by little he fulfills all the little details that are necessary to carry out what God has asked of him---still not fully understanding, still leaving everything in God\'s hands, but going forward little by little along this pilgrimage of faith.
 
-Each day of our life, fulfilling our daily duties, in our work, in family life, in sickness and health, in the ups and downs, in taking care of the little things of every day, putting this thing in its place, finishing this other job, having a to-do list, looking at our priorities---we are going forward in faith, contributing to the great enterprise that God has called us to be involved in, the building up of the Church, or the fostering of this particular apostolic activity, or the formation of this other soul.
+Each day of our life, fulfilling our daily duties, in our work, in family life, in sickness and in health, in the ups and downs, in taking care of the little things of every day, putting this thing in its place, finishing this other job, having a to-do list, looking at our priorities---we are going forward in faith, contributing to the great enterprise that God has called us to be involved in, the building up of the Church, or the fostering of this particular apostolic activity, or the formation of this other soul.
 
 "On the third day, Abraham looked up and saw the place in the distance. Then Abraham said to his servants, 'Stay here with the donkey. The boy and I are going over there; we shall worship and then come back to you'" (Gen. 22:4-5).
 
@@ -125,7 +121,7 @@ Sometimes the plans of God involve us working with other people and doing things
 
 Abraham was attentive to the voice of God, but he was also attentive to the voice of others, available, open, transparent, clear. 'Yes, my son.'
 
-He didn\'t say to his son, Don't bother me now, I have a lot of things in my head and my heart, you keep quiet, ask me later. He doesn\'t avoid the question.
+He didn\'t say to his son, 'Don't bother me now, I have a lot of things in my head and my heart, you keep quiet, ask me later.' He doesn\'t avoid the question.
 
 "'Yes, my son,' he replied. 'Look, here are the fire and the wood, but where is the lamb for the burnt offering?'" (Gen. 22:7).
 
@@ -133,9 +129,7 @@ That question must have pierced the heart of Abraham, about to kill his only son
 
 He\'s left with the question. Do I tell him the whole truth? Or do I joke with him and say, You\'ll find out pretty quickly where the lamb and the burnt offering is? Oh boy, are you about to find out the reason for your existence? I\'ve got news for you. He could have said a whole pile of things.
 
-"Abraham replied, 'My son, God himself will provide the lamb for the burnt offering'" (Gen. 22:8). *Deus providebit nos*--God will provide.
-
-Beautiful words that have come down to us from Scripture, words of Abraham, words of trust, of correspondence, of faith.
+"Abraham replied, 'My son, God himself will provide the lamb for the burnt offering'" (Gen. 22:8). *Deus providebit nos*--God will provide---beautiful words that have come down to us from Scripture, words of Abraham, words of trust, of correspondence, of faith.
 
 As we look to the future and possibly see all the great things God wants us to do in our lives, maybe we lack the means, the knowhow, this, that, the other, so many things we lack. But God will provide.
 
@@ -151,25 +145,23 @@ We teach parents to pray more for their children, to lead virtuous lives, and Go
 
 "'God himself will provide the lamb for the burnt offering.' And the two of them went on together" (Gen. 22:8).
 
-There is serenity, there is peace, there is no anxiety, no worry about the future. We are fulfilling the plans of God, and everything will work out, *Omnia in bonum* (Rom. 8:28).
+There is serenity, there is peace, there is no anxiety, no worry about the future. We are fulfilling the plans of God, and everything will work out. *Omnia in bonum* (Rom. 8:28).
 
 "When they arrived at the place which God had indicated to him, Abraham built an altar there."
 
 First, before the sacrifice, there is prayer. We turn to God in prayer and faith, for every little thing that we are about to do, and for all the stages of those things.
 
-"He built an altar there and arranged the wood. Then he bound his son and put him on the altar on top of the wood" (Gen. 22:9).
+"He built an altar there, and arranged the wood. Then he bound his son and put him on the altar on top of the wood" (Gen. 22:9).
 
 So now Isaac gets a bit of an idea about what is going to happen.
 
-"Abraham stretched out his hand and took the knife to kill his son." He goes all the way, he has used all the means, he has prepared everything.
+"Abraham stretched out his hand and took the knife to kill his son" (Gen. 22:10). He goes all the way, he has used all the means, he has prepared everything.
 
 "But the angel of Yahweh called to him from heaven. 'Abraham, Abraham!' he said. 'Here I am'" (Gen. 22:11).
 
 At the eleventh hour, God calls to him. He waits until this last moment when he has his hand outstretched and the knife ready to plunge into the heart of his son.
 
-Abraham goes to that extent, and at this moment God calls and Abraham could have said, What is it now?
-
-He could have replied in a human way, but with the peace of faith, he says, 'Here I am.'
+Abraham goes to that extent, and at this moment God calls and Abraham could have said, 'What is it now?' He could have replied in a human way, but with the peace of faith, he says, "Here I am"
 
 There may be times when we are working hard, the eleventh hour preparing something that's almost ready, and suddenly there is a change of plan. The thing we were preparing for is not going to happen. We put all this time and work into this thing, all our thought, or the whole day, or the whole week, or the whole month.
 
@@ -179,17 +171,17 @@ I have just spent three hours cleaning this floor and some cat now walks in the 
 
 All those silly moments that we find ourselves in when we could have the human reaction to explode, and we realize the whole of heaven is looking on to this hilarious moment, to enjoy this practical joke that God has placed on us.
 
-'Here I am.' 'Do not raise your hand against the boy,' the angel said. 'Do not harm him, for now I know you fear God'" (Gen. 22:12a).
+"'Here I am.' 'Do not raise your hand against the boy,' the angel said. 'Do not harm him, for now I know you fear God'" (Gen. 22:12a).
 
-This is like the key phrase of the whole narrative: 'Now I know you fear God.'
+This is like the key phrase of the whole narrative: "Now I know you fear God."
 
-This was the test to which Abraham was placed, and he has passed the test. 'Now I know.'
+This was the test to which Abraham was placed, and he has passed the test. "Now I know."
 
 God was looking for that proof of his faith. God doesn\'t just want faith expressed in words. He wants faith expressed in deeds.
 
 We have to show our faith in concrete ways, in our apostolate, in daring, in selection, in bringing up topics with people and speaking to them about God, and speaking to them about Confession, about Lent, about Holy Week, about improving their life, about formation, about being a better person, facing the challenges before them that God has placed before us---to launch out into the deep, to give something to the Church, to build it up so that we can change this world, change the spiritual emptiness that there is in it.
 
-'Now I know that you fear God.' And so, with our life of faith, it\'s interesting how St. Josemaría didn\'t just talk about acts of faith; he talks about "a life of faith" (Josemaría Escrivá, *Christ Is* *Passing By*, Point 33).
+"'Now I know that you fear God.'" And so, with our life of faith, it\'s interesting how St. Josemaría didn\'t just talk about acts of faith; he talks about "a life of faith" (Josemaría Escrivá, *Christ Is* *Passing By*, Point 33).
 
 God calls us to lead a life of faith, and with that life of faith, faith is put into practice in all sorts of ways, in all sorts of moments. God wants to work miracles.
 
@@ -221,15 +213,15 @@ But he didn\'t just walk away from the situation. He makes a sacrifice in prayer
 
 God must have been very happy with that sacrifice. Abraham wasn\'t angry with all that God had put him through. He was grateful. He saw how the plans of God yield their abundant fruit.
 
-"Abraham called this place 'Yahweh provides', and hence the saying today: 'on the mountain, Yahweh provides'" (Gen. 22:14).
+"Abraham called this place 'Yahweh provides', and hence the saying today: 'On the mountain, Yahweh provides'" (Gen. 22:14).
 
 But it\'s not over yet. "The angel of Yahweh called Abraham a second time from heaven." He calls him again, speaks to him in all sorts of beautiful ways.
 
-"He says, 'I swear by my own self, Yahweh declares, that because you have done this, because you have not refused me your own beloved son...'" (Gen. 22:15-16).
+"He says, 'I swear by my own self,' Yahweh declares, 'that because you have done this, because you have not refused me your own beloved son...'" (Gen. 22:15-16).
 
-God begins to talk in a very solemn manner. There aren\'t any other places in Scripture where God speaks like this, with such seriousness, profound joy. 'I swear by own myself.' Wow, pretty strong stuff.
+God begins to talk in a very solemn manner. There aren\'t any other places in Scripture where God speaks like this, with such seriousness, profound joy. "I swear by own myself." Wow, pretty strong stuff.
 
-'Yahweh declares, because you have done this,' then he emphasizes the point by repeating it: 'because you have not refused me your own beloved son.'
+"Yahweh declares, 'Because you have done this,'" then he emphasizes the point by repeating it: "'because you have not refused me your own beloved son" (Gen. 3:16).
 
 There is nobody that appreciates the sacrifice as much as God does. It makes him so happy, so fulfilled, so joyful, so peaceful, that somebody has loved God and respected Him so much as to fulfill His commands in such a generous way.
 
@@ -245,9 +237,9 @@ Next time you\'re on a seashore, just have another look at those grains of sand,
 
 "Your descendants will gain possession of the gates of their enemies" (Gen. 22:17). Power. Dominion. There is nothing that God will refuse him.
 
-Likewise, as we try to lead lives with faith, God wants to bring fruits that will last for the whole of eternity, things that when we go to enjoy the wedding feast, the eternal wedding feast, we can look back with great joy and pride at all that God has achieved in us and through us, through our life of fidelity, of correspondence, of faith put into practice, so that hopefully He can use our lives as an example to all those who come after us, with a message that it's worth the effort, so that five centuries from now, people can also celebrate our correspondence to grace.
+Likewise, as we try to lead lives with faith, God wants to bring fruits that will last for the whole of eternity, things that when we go to enjoy the eternal wedding feast, we can look back with great joy and pride at all that God has achieved in us and through us, through our life of fidelity, of correspondence, of faith put into practice, so that hopefully He can use our lives as an example to all those who come after us, with a message that it's worth the effort, so that five centuries from now, people can also celebrate our correspondence to grace.
 
-"All nations on earth will bless themselves by your descendants because you have obeyed my command" (Gen. 22:18).
+"'All nations on earth will bless themselves by your descendants because you have obeyed my command'" (Gen. 22:18).
 
 God puts great importance on obedience. Obedience in big things and obedience in little things. Obedience, because we see the hand and the will of God behind those things that are said to us by the people that God has placed around us to guide us.
 
@@ -271,7 +263,7 @@ John Paul II, when he talked of Our Lady and her faith, he called her a "woman o
 
 But he also liked to say she was "a woman of faith that is put into practice"---a certain nuance there.
 
-These days, as we accompany Our Lady moving forward through Lent towards Holy Week, Our Lady must have seen all that was coming, mindful of the words of Simeon: "your soul a sword will pierce" (Luke 2:35).
+These days, as we accompany Our Lady moving forward through Lent towards Holy Week, Our Lady must have seen all that was coming, mindful of the words of Simeon: "Your own soul a sword will pierce" (Luke 2:35).
 
 And yet she goes forward with faith and constancy towards the Cross.
 

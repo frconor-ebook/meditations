@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "St. Philip and St. James—May 3"
+title: "St. Philip and St. James"
 ---
 
 By Fr. Conor Donnelly
@@ -33,7 +33,7 @@ The Corinthians were told St. James was one of the people privileged to receive 
 
 Philip was a native of Bethsaida, a little town on the shore of Lake Gennesareth, as were also Peter and his brother Andrew (John 1:44), who were probably very close friends of his.
 
-"One day on the banks of the Jordan, Philip met Jesus as He was making His way towards Galilee in the company of His first disciples. The Master said to him, "Follow me" (John 1:43).
+One day on the banks of the Jordan, Philip met Jesus as He was making His way towards Galilee in the company of His first disciples. The Master said to him, "Follow me" (John 1:43).
 
 That was how Our Lord invited His disciples to join His little company, just as the rabbis did with their followers.
 
@@ -45,7 +45,7 @@ We\'re told in St. John, "Philip found Nathanael" (John 1:45). It\'s an interest
 
 "And he said to Nathanael, 'We have found him of whom Moses in the law and the prophets wrote, Jesus of Nazareth, the son of Joseph.'"
 
-Faced with Nathanael\'s doubts, Philip gives him the best of all replies, "Come and see" (John 1:46). Nathanael went along, and remained with Christ forever.
+Faced with Nathanael\'s doubts, Philip gives him the best of all replies: "Come and see" (John 1:46). Nathanael went along, and remained with Christ forever.
 
 We\'re also called to say those same words to our friends, "come and see"---to invite them, to share the good things with them, to open our heart to them. Tell them the treasures that we have encountered.
 
@@ -71,9 +71,9 @@ Notice how Nathanael, who was to become Bartholomew, afterwards became one of th
 
 We don\'t know the plans that God has attached to the efforts of our fishing, and to the effort that we make to get the right bait.
 
-The first reaction of Nathanael to Philip\'s invitation was, "Can anything good come out of Nazareth?" (John 1:46). It\'s a sort of a geographical slur.
+The first reaction of Nathanael to Philip\'s invitation was, "Can anything good come out of Nazareth?" (John 1:46). It\'s sort of a geographical slur.
 
-Frequently too, it\'s our role to say to the people that we want to bring closer to Our Lord, "Come and see!"
+Frequently too, it\'s our role to say to the people that we want to bring closer to Our Lord, "Come and see!" (*ibid*.).
 
 Anyone who ever took us at our word and came to Jesus never felt cheated, because Our Lord never disappoints.
 
@@ -89,9 +89,7 @@ At a certain point Philip intervenes with a request that seems to all of them to
 
 Our Lord seems to chide the disciples affectionately, specifically Philip: "Have I been with you so long and yet you do not know me, Philip? He who has seen me has seen the Father. How can you say, 'Show us the Father'?" (John 14:8-9).
 
-Possibly Jesus has to make the same reproach to us as to Philip. 'How often have I been beside you and you have not noticed?'
-
-'How often have I pointed out certain souls to you, certain initiatives, certain openings, opportunities that I want you to follow?'
+Possibly Jesus has to make the same reproach to us as to Philip. 'How often have I been beside you and you have not noticed? How often have I pointed out certain souls to you, certain initiatives, certain openings, opportunities that I want you to follow?'
 
 Possibly Our Lord could list for us one occasion after another, times perhaps when we found ourselves under pressure from circumstances and let ourselves get flustered by losing our sense of divine filiation and our closeness to God, and our apostolic focus.
 
@@ -105,13 +103,13 @@ In one of the documents of the Second Vatican Council, *Dei Verbum*, it says, "H
 
 "He did this by the total fact of his presence and self-manifestation---by words and works, signs and miracles, but above all by his death and glorious resurrection from the dead, and finally by sending the Spirit of truth.
 
-"He revealed that God was with us to deliver us from the darkness of sin and death, and to raise us up to eternal life" (*Second Vatican Council*, *Dogmatic Constitution on Divine Revelation, Dei Verbum*, November 18, 1965).
+"He revealed that God was with us to deliver us from the darkness of sin and death, and to raise us up to eternal life" (Second Vatican Council, Dogmatic Constitution on Divine Revelation*, Dei Verbum*, November 18, 1965).
 
 He fills our life completely. "He is sufficient for you," says St. Augustine. "Apart from him, nothing can be said to be at all. Philip knew this well when he said, 'Lord, show us the Father and we shall be satisfied'" (St. Augustine*, Sermon 334*).
 
 We need to have the same conviction. We\'re called to spread the message of the apostles. Our apostolate is based on a very supernatural foundation.
 
-St. Paul says to the Christians at Corinth: "For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried; that he was raised on the third day in accordance with the Scriptures, and that he appeared to Cephas" (1 Cor. 15:3-5).
+St. Paul says to the Christians at Corinth: "For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures, and that he appeared to Cephas" (1 Cor. 15:3-5).
 
 Paul received from the apostles a divine message which he also passed on. It was the same message preached by Philip and James, who gave their lives as a witness to it.
 
@@ -143,7 +141,7 @@ This book is particularly interesting because fifty years after these events, th
 
 At one point, this author says that the number of Catholics who died in Auschwitz was similar to that of the Jews.
 
-Many Jews died in many other places. But if you push the Catholic Holocaust together, not just in Nazi Germany, but in all these other communist countries, the numbers of Catholics who gave their lives for the faith is something enormous. It\'s an aspect of our history that we need to know more about.
+Many Jews died in many other places. But if you push the Catholic Holocaust together, not just in Nazi Germany, but in all these other communist countries, the number of Catholics who gave their lives for the faith is something enormous. It\'s an aspect of our history that we need to know more about.
 
 We don\'t have any new message to announce, because the Good News is unchanging: that Christ died for our sins, that He rose again, that He lives beside us, that He loves us as nobody can ever love us, that He has destined us for eternal happiness beside Him, when we shall see Him face to face.
 
@@ -161,7 +159,7 @@ All of these people in those Eastern Bloc countries have given us a wonderful le
 
 If the apostles had decided to wait for a more suitable occasion, then the message which has so transformed our entire existence might never have reached us.
 
-When, later on, the apostles found themselves bereft of resources and faced with the resistance of those who heard them, the apostles, and especially Philip, perhaps recalled the day they were called upon to feed a great multitude while having no food, and no possibility of obtaining any.
+When, later on, the apostles found themselves bereft of resources and faced with the resistance of those who heard them, the apostles, and especially Philip, perhaps recalled the day they were called upon to feed a great multitude while having no food and no possibility of obtaining any.
 
 "Jesus saw the crowd approaching him and said to Philip, 'How are we to buy bread so that these people may eat?'"
 
@@ -179,7 +177,7 @@ God is the indispensable factor that we have to rely on to get our accounts to b
 
 In our apostolate, with friends, relatives, acquaintances, clients, it\'s true that we have to reckon with the "two hundred *denarii*" (John 6:7), the human means, which is never enough.
 
-But we can always remember, can\'t forget, that Our Lord is always present with His power and with His mercy.
+But we can always remember, we can\'t forget, that Our Lord is always present with His power and with His mercy.
 
 He is beside us now also. The greater our needs and difficulties in the apostolate, the more Our Lord offers to help us. We can\'t shrink from having recourse to Him.
 
@@ -199,7 +197,7 @@ James was a blood relative of Jesus. He\'s called the Less, to distinguish him f
 
 Tradition depicts him as a man who was personally very austere and full of goodness towards others.
 
-Peter, John, and James the Less were known as the pillars of the primitive Church. James died a martyr\'s death in Jerusalem around the year 62 AD and is the author of one of the Catholic Epistles.
+Peter, John, and James the Less were known as the pillars of the primitive Church. James died a martyr\'s death in Jerusalem around the year 62 A.D. and is the author of one of the Catholic Epistles.
 
 So as we start this month of May, we could ask the apostles to give us the fire of the Holy Spirit, so that we might see the souls around us that God wants us to bring closer to Him during this month---perhaps particularly by visiting some shrines of Our Lady during this Marian month, maybe going on a pilgrimage saying the Rosary, taking care of our own personal Rosary, helping our families to be more aware of the shrines of Our Lady around us, and also instilling a great apostolic spirit in all the people that we meet, so that we can also transmit to all of them the same spirit that fired St. Philip and St. James.
 
