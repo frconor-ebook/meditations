@@ -11,11 +11,11 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"And when the hour had come, he reclined at the table, and the twelve apostles with Him. He said to them, 'I have longed and longed to eat this Passover with you before I suffer; for I say to you that I will eat of it no more until it has been fulfilled in the Kingdom of God" (Luke 22:14-16).
+"And when the hour had come, he reclined at table, and the twelve apostles with him. He said to them, 'I have longed and longed to eat this Passover with you before I suffer; for I say to you that I will eat of it no more until it has been fulfilled in the Kingdom of God" (Luke 22:14-16).
 
 Again, Our Lord talks about the hour: the hour has now come. "Now has the hour come for the Son of Man to be glorified" (John 12:23). It\'s a word that Our Lord uses frequently in relation to these hours, the hour of the Redemption.
 
-"He reclined at the table, and the twelve apostles with him"---surrounded by His friends, the people that He loves so much, that He\'s chosen, that He\'s formed, that He\'s going to send out to change the world. And among them still is Judas.
+"He reclined at table, and the twelve apostles with him"---surrounded by His friends, the people that He loves so much, that He\'s chosen, that He\'s formed, that He\'s going to send out to change the world. And among them still is Judas.
 
 Then He says, "I have longed and longed to eat this Passover with you before I suffer." It\'s pretty expressive.
 
@@ -31,7 +31,7 @@ The heart of Christ is speaking very clearly to the hearts of the people that He
 
 This is why the Sacrifice of the Mass is not just a renewal of the Last Supper; it\'s a renewal of the sacrifice of Calvary. There\'s a link-up between the Last Supper and Calvary.
 
-At the Last Supper, Our Lord foretells the sacrifice that\'s going to take place: "I say to you that I will eat of it no more until it has been fulfilled in the kingdom of God."
+At the Last Supper, Our Lord foretells the sacrifice that\'s going to take place: "I say to you that I will eat of it no more until it has been fulfilled in the kingdom of God" (Luke 22:16).
 
 All through the discourse in the Last Supper, Our Lord used very deep, profound words. Did the apostles understand what He was saying? Perhaps not, but He used them anyway.
 
@@ -47,9 +47,9 @@ John Paul II has said that the words, "This is my body\...this is my blood" form
 
 These words are the basis for our belief in the real presence of Our Lord in the Blessed Sacrament. We believe that He is really, truly, and substantially present, body and blood, soul and divinity, whole and entire, under the species of bread and under the species of wine.
 
-A sacrament of love is at the center of the whole life of the Church. And this day, Holy Thursday, the Feast of the Institution of the Eucharist occupies a very special place, therefore, in the liturgical year.
+A sacrament of love is at the center of the whole of the life of the Church. And this day, Holy Thursday, the Feast of the Institution of the Eucharist occupies a very special place, therefore, in the liturgical year.
 
-We have to be aware of *the real presence* of Our Lord in the Blessed Sacrament. It has to influence our lives.
+We have to be aware of the *real presence* of Our Lord in the Blessed Sacrament. It has to influence our lives.
 
 We try and teach this to children with our example, with our genuflection.
 
@@ -89,7 +89,7 @@ Then there was a pitter-patter of little feet. Some four-year-old comes up, look
 
 He can\'t see but feels with the hand, and feels there\'s nothing there, and says to Jesus, "O Jesus, very good. I see you are hungry. Well, never mind. I brought you another one." Out came another banana. The parish priest nearly melted.
 
-But then he was thinking, now how do I put a stop to this? He had an idea, and he got a basket of fruit, and he found out where the little child lived and went to pay a visit to the child and said, This basket of fruit is from Jesus to thank you very much for all the fruit you\'ve been bringing Him. But thank you very much; He doesn\'t want any more bananas.
+But then he was thinking, Now how do I put a stop to this? He had an idea, and he got a basket of fruit, and he found out where the little child lived and went to pay a visit to the child and said, "This basket of fruit is from Jesus to thank you very much for all the fruit you\'ve been bringing Him. But thank you very much; He doesn\'t want any more bananas."
 
 The Church today in a special way tries to foster our faith in that real presence with the Eucharistic procession, with the altars of repose.
 
@@ -105,7 +105,7 @@ We believe that God is coming down and taking over the life of the priest using 
 
 "In like manner, he took also the cup after supper saying, 'This cup is the new covenant in my blood which shall be shed for you'" (Luke 22:20). Again, Our Lord foretells the shedding of blood on Calvary, emphasizing again that the Mass is a sacrifice.
 
-John Paul II, in one of his final Encyclical Letters on the Eucharist says that the Eucharist is "the heart of the mystery of the Church" (Pope John Paul II, *Ecclesia de Eucharistia*, April 17, 2003).
+John Paul II, in one of his final Encyclical Letters on the Eucharist, says that the Eucharist is "the heart of the mystery of the Church" (John Paul II, Encyclical, *Ecclesia de Eucharistia*, April 17, 2003).
 
 The Church exists for the Blessed Eucharist. It\'s the most perfect of all the sacraments.
 
@@ -115,7 +115,7 @@ That\'s why we have to try and prepare very well for every Holy Communion. Every
 
 That helps us to realize a little bit about what has just taken place so that it doesn\'t pass us by. We don\'t get into a routine. But we savor those moments.
 
-"In the Holy Eucharist," says Pope John Paul, "through the changing of bread and wine into the Body and Blood of the Lord, the Church rejoices in this presence with unique intensity."
+"In the Holy Eucharist," says Pope John Paul, "through the changing of bread and wine into the Body and Blood of the Lord, the Church rejoices in this presence with unique intensity" (John Paul II, *ibid*.).
 
 The ceremonies of these days, and particularly the procession and altar of repose, express that joy---rejoicing in His presence. And every day, we have an opportunity to rejoice in that presence.
 
@@ -127,13 +127,13 @@ But then one day she became very ill. Her mother was very worried because she th
 
 But the little girl said to her mom, Mom, don\'t worry, because last night I had a dream, and in the dream, Jesus came to me. And He said, Hi Mary, this is Jesus!
 
-Our Lord is very grateful for our visits. Our Lady, on all of her apparitions, has spoken about the joy and consolation that her Songets from every visit to the Blessed Sacrament.
+Our Lord is very grateful for our visits. Our Lady, on all of her apparitions, has spoken about the joy and consolation that her Son gets from every visit to the Blessed Sacrament.
 
 We should try and make it a point in our day, outside of our Mass, to visit Our Lord in the Blessed Sacrament, and to try and foster similar visits when we\'re with the family, going to the supermarket, coming from the bank, going on a journey.
 
 We help our family in that way, the domestic Church, to be that little bit more aware of who is there in the Blessed Eucharist.
 
-John Paul says, "The most holy Eucharist contains the Church\'s entire spiritual wealth: Christ Himself. \... This is the treasure of the Church."
+John Paul says, "The most holy Eucharist contains the Church\'s entire spiritual wealth: Christ Himself" (*ibid*). This is the treasure of the Church.
 
 That\'s why the Church has laid down that tabernacles have to be made of a certain substance, and sacred vessels have to be lined in gold on the inside.
 
@@ -145,7 +145,7 @@ He says, "Consequently, the gaze of the Church is constantly turned to her Lord.
 
 Look at the beautiful words the Holy Father uses: "the gaze of the Church." Not the look or the stare, but the gaze. It\'s a gaze full of wonder.
 
-Holy Thursday is a day for a special gaze. We "constantly turn towards Our Lord, present in the Sacrament of the Altar," so that we help our families to gaze there also.
+Holy Thursday is a day for a special gaze. We constantly turn towards Our Lord, "present in the Sacrament of the Altar," so that we help our families to gaze there also.
 
 In this sacrament, "she discovers the full manifestation of his boundless love."
 
@@ -161,7 +161,7 @@ The Eucharist is at the center. It is so very appropriate that we are Eucharisti
 
 We make desires to receive the Blessed Eucharist in our spiritual communion, if we can\'t receive Our Lord sacramentally for some reason, or if we\'re sick in bed or some other problem.
 
-"The hour of our Redemption," he says, "is there." Every priest who celebrates Holy Mass together with the Christian community, which takes part in that Mass, is led back in spirit to that place and that hour. And so, the liturgy is like a time machine, leading us back to that place and that hour.
+"The hour of our Redemption," he says, is there. Every priest who celebrates Holy Mass together with the Christian community, which takes part in that Mass, is led back in spirit to that place and that hour. And so, the liturgy is like a time machine, leading us back to that place and that hour.
 
 The Holy Week ceremonies have that purpose also. They help us to relive those moments.
 
@@ -221,29 +221,31 @@ The Blessed Eucharist is "the Sacrament of Love" (St. Thomas Aquinas). We learn 
 
 Cardinal Van Thuan has said, "A lamp can give no light if it has no oil. A car will not run on an empty fuel tank. The soul of the apostle will degenerate if it\'s not nourished with the Blessed Sacrament" (Francis Xavier Nguyen Van Thuan, *The Road of Hope:* *A Gospel from Prison*).
 
-Our Lord invites us to receive Him. He\'s made Himself available on a daily basis. That food for the soul strengthens our soul, preserves us from sin, and makes us healthy. Just like human food does for the body, spiritual food does for the soul.
+Our Lord invites us to receive Him. He\'s made Himself available on a daily basis. That food for our soul strengthens our soul, preserves us from sin, and makes us healthy. Just like human food does for the body, spiritual food does for the soul.
 
 Van Thuan says, "Just as the sun shines brightly, shedding its light on earth, so too does the Eucharist shine as the light for the spiritual life of human beings and the source of peace among nations."
 
 There\'s a light that shines out from every tabernacle, in every parish, in every altar, in every chapel, in every church.
 
-"If you lack everything," he says, "or find yourself bereft of all possessions, but still have the Eucharist, you should not be concerned. In fact, you still have everything, because you have the Lord of Heaven here on earth with you" (*Ibid*.).
+"If you lack everything," he says, "or find yourself bereft of all possessions, but still have the Eucharist, you should not be concerned. In fact, you still have everything, because you have the Lord of Heaven here on earth with you" (*ibid*.).
 
-St. Josemaría in *The Forge* says, "You have to make your life essentially, totally eucharistic" (Josemaría Escriva, *The Forge*, Point 826). It makes a lot of sense. A lot of problems get solved there.
+St. Josemaría in *The Forge* says, "You have to make your life essentially, totally eucharistic" (Josemaría Escrivá, *The Forge*, Point 826). It makes a lot of sense. A lot of problems get solved there.
 
 "As often as you eat this bread and drink the cup, you proclaim the Lord\'s death until he comes," says St. Paul (1 Cor. 11:26).
 
-John Paul II said all Christians "should be trained to share in the intimate dispositions that the Eucharist fosters: gratitude for heavenly benefits received, because the Eucharist is thanksgiving; an attitude of self-offering, which will impel them to unite the offering of themselves to the Eucharistic offering of Christ; charity nourished by a sacrament which is a sign of unity and sharing; the yearning to contemplate and bow in adoration before Christ, who is really present unto the Eucharistic species" (John Paul II,*Angelus*, July 1, 1990).
+John Paul II said all Christians "should be trained to share in the intimate dispositions that the Eucharist fosters: gratitude for heavenly benefits received, because the Eucharist is thanksgiving; an attitude of self-offering, which will impel them to unite the offering of themselves to the Eucharistic offering of Christ; charity nourished by a sacrament which is a sign of unity and sharing; the yearning to contemplate and bow in adoration before Christ, who is really present unto the Eucharistic species" (John Paul II, *Angelus*, July 1, 1990).
 
-The Eucharist is also a medicine for our ills (Pope Benedict XVI, *Angelus*, June 26, 2011). There\'s a word in the Mass, a phrase that precisely refers to that.
+The Eucharist is also a medicine for our ills (Pope Benedict XVI, *Angelus*, June 26, 2011). There\'s a phrase in the Mass that precisely refers to that.
 
 The Catechism of the Catholic Church says "the Eucharist separates us from sin. \... By the same charity that it enkindles in us, the Eucharist preserves us from mortal sins. The more we share the life of Christ and progress in his friendship, the more difficult it is to break away from him by mortal sin" (*Catechism*, Point 1393, 1395).
 
-If we\'re ever battling with some addiction, some major fault that we\'re trying to conquer, one of those thorns in the flesh that St. Paul speaks about (2 Cor. 12:7), one very basic medicine and remedy is the frequent reception of the Body of Christ in the Blessed Eucharist, the real presence that comes into our souls.
+If we\'re ever battling with some addiction, some major fault that we\'re trying to conquer, one of those "thorns in the flesh" that St. Paul speaks about (2 Cor. 12:7), one very basic medicine and remedy is the frequent reception of the Body of Christ in the Blessed Eucharist, the real presence that comes into our souls.
 
 He brings the Blessed Trinity---Father, Son, and Holy Spirit---and fills our souls with grace. The more we\'re focused there, the greater chance we have of overcoming all of those temptations.
 
-In *The Way* we were told, "Consider what is most beautiful and most noble on earth, what pleases the mind and the other faculties, and what delights the flesh and the senses. And the world, and the other worlds that shine in the night, the whole universe. Well, this, along with all the follies of the heart satisfied, is worth nothing, is nothing, and less than nothing compared with this God of mine! ---of yours!
+In *The Way* we're told, "Consider what is most beautiful and most noble on earth, what pleases the mind and the other faculties, and what delights the flesh and the senses.
+
+"And the world, and the other worlds that shine in the night, the whole universe. Well, this, along with all the follies of the heart satisfied, is worth nothing, is nothing, and less than nothing compared with this God of mine! ---of yours!
 
 "Infinite treasure, pearl of great price, humbled, become a slave, reduced to the form of a servant in the stable where he chose to be born, in Joseph\'s workshop, in his passion and in his ignominious death\...and in the madness of Love which is the Blessed Eucharist" (J. Escrivá, *The Way*, Point 432).
 
@@ -253,7 +255,7 @@ Pope St. John Paul liked to call Our Lady the "woman of the Eucharist." He says,
 
 Mary must have kept those words in her heart in a special way. "The body given up for us and made present under sacramental signs was the same body which she had conceived in her womb! For Mary, receiving the Eucharist must have somehow meant welcoming once more into her womb that heart which had beat in unison with hers and reliving what she had experienced at the foot of the Cross."
 
-And so, St. John Paul says, "Here is the Church\'s treasure, the heart of the world, the pledge of the fulfillment for which each man and woman, even unconsciously, yearns." (Pope John Paul II, *Ecclesia de Eucharistia*, April 17, 2003). More fervent.
+And so, St. John Paul says, "Here is the Church\'s treasure, the heart of the world, the pledge of the fulfillment for which each man and woman, even unconsciously, yearns" (Pope John Paul II, *Ecclesia de Eucharistia*, April 17, 2003). More fervent.
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 

@@ -11,13 +11,13 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"So they hurried away, and they found Mary and Joseph and the babe in the manger. When they saw the child, they repeated what had been told about him. And everyone who heard was astonished at what the shepherds said to them. As for Mary, she treasured all these things and pondered them in her heart" (Luke 2:16-19).
+"So they hurried away, and they found Mary and Joseph, and the babe lying in the manger. When they saw the child, they repeated what had been told about him, and everyone who heard it was astonished at what the shepherds said to them. As for Mary, she treasured all these things and pondered them in her heart" (Luke 2:16-19).
 
 We're asked to look at the Motherhood of Our Lady in this particular meditation.
 
 Mother of God and Our Mother.
 
-In this month of May, we try to rediscover Our Mother in special ways, as we turn to Our Lady for all the little things that we want, like small children turn to their mother and ask them for big things. And they also listen, usually anyway, to what their mother has told them if they have some little problem, or whatever.
+In this month of May, we try to rediscover Our Mother in special ways, as we turn to Our Lady for all the little things that we want, like small children turn to their mother and ask them for big things. And they also listen, usually anyway, to what their mother has told them if they have some little problem or whatever.
 
 Sometimes Our Lady has said to people, "Do whatever he tells you" (John 2:5). We also have to listen to those words of Our Lady as we come to discover her own motherhood in a special way in our life, and help many other people to do the same.
 
@@ -29,7 +29,7 @@ And then he said to me, "If you are Irish in Macau, you must be a jockey or a tr
 
 But then he wasn\'t too sure, because the only thing I had on was my swimming trunks and a scapular medal. He wasn\'t too sure if this was another Irish joke or not.
 
-But he gave me the benefit of the doubt, and he said, "You know, I have built three shrines to Our Lady in this parish here."
+But he gave me the benefit of the doubt, and he said, "You know, I have built three shrines for Our Lady in this parish here."
 
 Then I was the one that was a bit skeptical. Because, Irish in Macau, the gambling capital of the world, and he built three shrines to Our Lady?
 
@@ -43,21 +43,19 @@ Then she developed cancer when she was about 32 years of age.
 
 He said, "I brought her to Lourdes, and she was cured." I don\'t think she was fully cured, but maybe she went into remission.
 
-"But then," he said, "sometime later, she began to get bad again and she was in the hospital. I asked her if she would like to see a priest. I\'d never talked to her before about religion. Sometimes she would accompany me to Mass. But we never talked about those things. But when I asked her, she said yes.
+"But then," he said, "sometime later, she began to get bad again and she was in the hospital. I asked her if she would like to see a priest. I\'d never talked to her before about religion. Sometimes she would accompany me to Mass, but we never talked about those things. But when I asked her, she said yes.
 
 "So I got a priest, and he came to see her. When he was leaving, I accompanied him to the bus, and he got on the bus.
 
-"She had also said that she wanted to be baptized, and the priest said, 'I\'ll come back in a few days and baptize her.'
+"She had also said that she wanted to be baptized, and the priest said, 'I\'ll come back in a few days and baptize her.' He got on the bus, and I waited at the bus stop just to see the bus going out of sight a few hundred meters down the road.
 
-"He got on the bus, and I waited at the bus stop just to see the bus going out of sight a few hundred meters down the road. But then at the next bus stop, the priest got off the bus and began to walk back towards me.
+"But then at the next bus stop, the priest got off the bus and began to walk back towards me. I thought, maybe he\'s forgotten his umbrella or his hat or something.
 
-"I thought, maybe he\'s forgotten his umbrella or his hat or something. When he got up to my level, he said, 'I have this funny feeling that I should baptize her now.' So we went back to the hospital, and he baptized her.'"
+"When he got up to my level, he said, 'I have this funny feeling that I should baptize her now.' So we went back to the hospital, and he baptized her."
 
 And the guy said, "She died that night. And none of the nurses or doctors said she was anywhere near her end. We all thought she\'d last many months yet. But she died that night."
 
-Then he said, "I was left in my early 30s with two young children. I went through some difficult years."
-
-"But," he said, "Our Lady stood by me during those years. So I keep up with her now."
+Then he said, "I was left in my early 30s with two young children. I went through some difficult years. But," he said, "Our Lady stood by me during those years. So I keep up with her now."
 
 We were still standing in the South China Sea up to our knees. Here was this wonderful catechesis on the motherhood of Our Lady in a difficult time-period in a man\'s life. We became quite good friends.
 
@@ -77,7 +75,7 @@ Our role now is to keep up with her, and to introduce many other people also to 
 
 Also, we have read about from our Father that he has experienced in many ways also, because Our Mother is always there looking at us.
 
-Our Lord said to His Mother, "Look at your child" (John 19:26). Look at your child and never stop looking at her. We know that Our Lady is always looking at us.
+Our Lord said to His Mother, "Look at your child" (John 19:26). 'Look at your child and never stop looking at her.' We know that Our Lady is always looking at us.
 
 Cardinal Sin, one time when he was 63 in Manila, got chickenpox. Well, chickenpox is just a normal, simple childhood illness. But when you get it when you\'re a bit older, it\'s a bit more difficult.
 
@@ -91,9 +89,9 @@ He made a reappearance at the Chrism Mass on Holy Thursday with about 400 or 500
 
 He said, "When I got this chickenpox, I had all these pockmarks on my face. And I looked in the mirror and my first thought was a thought of vanity. I thought to myself, how ugly you\'ve become."
 
-Not that he was much to look at before that. But he said, "This reminded me of something that happened when I was a kid. I was the seventh of fourteen children. And my mother was always more attentive to me than she was to all the other children.
+Not that he was much to look at before that. But he said, "This reminded me of something that happened when I was a kid. I was the seventh of fourteen children, and my mother was always more attentive to me than she was to all the other children.
 
-"She was always asking, Did I have enough to eat? Did I have enough clothes? Did I sleep well? And a whole wide range of other things. And I couldn\'t quite figure this out.
+"She was always asking, Did I have enough to eat? Did I have enough clothes? Did I sleep well? And a whole wide range of other things. I couldn\'t quite figure this out.
 
 "One day I asked the household help, 'Why does Mama love me more than all the others?' The household help looked me straight in the face and said, 'It\'s because you are so ugly.'"
 
@@ -127,7 +125,7 @@ We could think of all the perhaps millions of pilgrimages that have taken place 
 
 We might find that there are many people in our life who possibly would not come to a retreat or to a recollection or to some other activity, but they might be willing to come to a pilgrimage.
 
-I remember asking a classmate of mine one time, probably the best person in the class, if he would come to meditation or recollection in the center, and his reply to me was, "Don\'t try to evangelize me." I had to back off.
+I remember asking a classmate of mine one time, probably the best person in the class, if he would come to a meditation or recollection in the center, and his reply to me was, "Don\'t try to evangelize me." I had to back off.
 
 But a few months later when May came around, I thought I\'d give it another go, and I sort of bounced at him the possibility of doing a pilgrimage to a shrine of Our Lady. He immediately accepted, much to my amazement.
 
@@ -137,7 +135,7 @@ John Paul II liked to say that the supreme dignity of the Mother of God puts her
 
 She stands above all beings in the universe. Through her vocation, she enjoys an unprecedented intimacy with the three divine Persons.
 
-In another place, Pope John Paul says, "The mediation of Our Lady has...a particular maternal character" about it (John Paul II, *Redemptoris Mater*, March 25, 1987).
+In another place, Pope John Paul says, "The mediation of Our Lady has...a particular maternal character" about it (John Paul II, Encyclical, *Redemptoris Mater*, Point 38, March 25, 1987).
 
 We are called to try and respond to that special maternal affection in a particular way.
 
@@ -145,9 +143,7 @@ I heard one time that St. Josemaría was going into a big get-together in Pamplo
 
 But there was a sort of a wooden division that separated one part of the living room from the other, and the place from where he was going to speak and stand and give the get-together was in the second part.
 
-In the early part when many people were greeting him (it was his first visit back to Spain in many years), they were kissing his hand, they were asking how he was, etc.
-
-When he eventually got to the place from which he was going to speak, the first thing he started to talk about was the image of Our Lady in that room. This person said that he couldn\'t see the image of Our Lady from where he was.
+In the early part when many people were greeting him (it was his first visit back to Spain in many years), they were kissing his hand, they were asking how he was, etc., when he eventually got to the place from which he was going to speak, the first thing he started to talk about was the image of Our Lady in that room. This person said that he couldn\'t see the image of Our Lady from where he was.
 
 It meant that as he passed through the first part of the living room, with all those people greeting him, he found the time to look around for the image of Our Lady. In spite of all the chaos and inverted commas and all the greetings, his mind was on one thing.
 
@@ -183,7 +179,7 @@ Like the seed in winter, God grows silently and patiently, often unnoticed in th
 
 Our Mother can help us to put a maternal touch to everything.
 
-We\'re coming next week to the feast of Our Lady of Fátima, which reminds us of the assassination attempt of John Paul II.
+We\'re coming next week \[on May 13\] to the feast of Our Lady of Fátima, which reminds us of the assassination attempt of John Paul II.
 
 Don Álvaro told us how he went to see the Holy Father shortly after this assassination attempt. The Pope wasn\'t receiving any visitors, but he received Blessed Álvaro.
 
@@ -237,7 +233,7 @@ Probably, we can also point to specific moments when we could feel her maternal 
 
 In the *Man of Villa Tevere*, we\'re told that St. Josemaría years ago "was having a few days\' break with Don Alvaro and Don Javier in Caglio, a small mountain in the north of Italy.
 
-"On August 23, 1971, while having breakfast after Mass, he was reading the newspaper and he was deeply struck by an inner locution from God in those exact words: *Adeamus cum fiducia ad thronum gloriae ut misericordiam consequamur!*---\'Let us go therefore with confidence to the throne of glory, that we may obtain mercy.'
+"On August 23, 1971, while having breakfast after Mass, he was reading the newspaper and he was deeply struck by an inner locution from God in those exact words: *Adeamus cum fiducia ad thronum gloriae ut misericordiam consequamur!*---'Let us go therefore with confidence to the throne of glory, that we may obtain mercy.'
 
 "Immediately he told Don Alvaro and Father Javier what had happened. He pointed out that the phrase he had 'heard' was not identical to the one in the Epistle to the Hebrews. The Scriptural text says, *ad* *thronum gratiae*, to the throne of grace (Heb. 4:16), but what Monsignor Escrivá had heard was *ad* *thronum gloriae*.
 
@@ -251,11 +247,11 @@ A young fellow came in contact with the center in Singapore and he told me his f
 
 "But then as I came more and more to the center, and was more and more exposed to the formation, I came to realize that Opus Dei had a very deep Marian spirit."
 
-We can say to Our Lady, "Show yourself to be a mother" (Josemaría Escrivá, *Christ Is* *Passing By*, Point 140) in the things that I place before you, my apostolic intentions in this particular month of May. Praying the Rosary leads me to think of apostolic intentions as I go through the beads, as I try to be a little more generous with my Rosaries, or move other people to say more Rosaries more frequently, so as to atone for all the things that need to be atoned for.
+We can say to Our Lady, "Show yourself to be a mother" (*cf*. Josemaría Escrivá, *Christ Is* *Passing By*, Point 140) in the things that I place before you, my apostolic intentions in this particular month of May. Praying the Rosary leads me to think of apostolic intentions as I go through the beads, as I try to be a little more generous with my Rosaries, or move other people to say more Rosaries more frequently, so as to atone for all the things that need to be atoned for.
 
 We approach this feast of Our Lady of Fátima, which has had such an important influence in the past century, and possibly in the coming one.
 
-Pope Benedict XVI says, "Outstanding among the saints is Mary, Mother of the Lord and mirror of all holiness" (Benedict XVI, Encyclical, *Deus caritas est*).
+Pope Benedict XVI says, "Outstanding among the saints is Mary, Mother of the Lord and mirror of all holiness" (Benedict XVI, Encyclical, *Deus caritas est*, Point 41, December 5, 2005).
 
 The Catechism says, "Mary is the model of faith and charity" (*Catechism of the Catholic Church*, Point 967).
 
@@ -263,9 +259,7 @@ There is no virtue in which we may want to grow and improve that we don\'t find 
 
 We find that Our Lady practiced a special friendliness, friendship, with her cousin. She went to Elizabeth immediately, forgot about herself, left Joseph behind, got over the difficulties, the challenges, "went into the hill country."
 
-And she didn\'t just spend a short period of time with Elizabeth. She wasn\'t there three minutes or three hours or three days, but three whole months.
-
-It was a serious contribution, a serious remaining with her (Luke 1:39, 56), a model for our friendship, of how we have to be with our friends: remain with them, be close to them.
+And she didn\'t just spend a short period of time with Elizabeth. She wasn\'t there three minutes or three hours or three days, but three whole months. It was a serious contribution, a serious remaining with her (Luke 1:39, 56), a model for our friendship, of how we have to be with our friends: remain with them, be close to them.
 
 As somebody mentioned last year, perhaps over many years: keeping the contact warm. People we knew decades ago, years ago, remaining in contact, having a serious impact on the lives of those people.
 
@@ -277,7 +271,7 @@ There was a moment when she had to blow the whistle and say, 'I\'ve got to go. I
 
 In that decision, she was also saying, "My soul magnifies the Lord" along all the pathways that he leads me.
 
-"Our Lady\'s greatness," says Pope Benedict XVI, "consists in the fact that she wants to magnify God, and not herself." The vocation of Our Lady is not a school of pride for her. It\'s more of a school of humility. "She\'s lowly: her only desire is to be the handmaid of the Lord" (Benedict XVI, Encyclical, *Deus caritas est*).
+"Our Lady\'s greatness," says Pope Benedict XVI, "consists in the fact that she wants to magnify God, and not herself." The vocation of Our Lady is not a school of pride for her. It\'s more of a school of humility. "She\'s lowly: her only desire is to be the handmaid of the Lord" (Benedict XVI, Encyclical, *Deus caritas est*, *ibid*.).
 
 "He has looked upon the lowliness of his handmaid. Henceforth, all generations will call me blessed" (Luke 1:48).
 
@@ -287,7 +281,7 @@ She\'s "a woman who gives hope, because she believes in God\'s promises and awai
 
 We can try to respond to her with a love of children. Mary, Mother of the Church, Queen of Opus Dei, you\'ve always smiled upon us, and continue to shed your smile upon us when we need you so much.
 
-Also, when we see placed in front of us such wonderful apostolic horizons, inviting us to open and think in a greater and deeper way. So we can look to our norms of piety, of Marian piety.
+Also, when we see placed in front of us such wonderful apostolic horizons, inviting us to open and think in a greater and deeper way, so that we can look to our norms of piety, of Marian piety.
 
 We\'re told in the *Furrow*, "The Blessed Virgin Mary, Teacher of unlimited self-giving. Do you remember? It was in praise of her that Jesus Christ said: 'Whoever fulfills the will of my Father, he---she---is my mother!' (Matt. 12:50). Ask of this good Mother that her answer, with the generosity it shows, may grow stronger in your soul---with the strength of love and liberation. Behold the handmaid of the Lord" (J. Escrivá, *Furrow*, Point 33).
 
