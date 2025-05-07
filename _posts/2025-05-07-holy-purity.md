@@ -27,7 +27,7 @@ When our first parents were in the Garden of Paradise, they had the gift of rect
 
 They didn\'t have any trouble living the virtues of purity, chastity, and modesty. They were naked without shame.
 
-But then after they committed the original sin, they lost that gift, and they began to be what Pope St. John Paul II called a shameful nudity (cf. John Paul II, *General Audiences*, December 12, 1979 and January 30, 1980).
+But then after they committed the original sin, they lost that gift, and they began to be what Pope St. John Paul II called a shameful nudity (*cf*. John Paul II, *General Audiences*, December 12, 1979 and January 30, 1980).
 
 Ever since then, men have had to struggle to put an order in their passions, to struggle with that effort to love in the right way. The devil has messed up the whole notion of human love.
 
@@ -107,7 +107,7 @@ But we have the answer. We have Confession, where we can start again with a new 
 
 One writer said once, "You cannot play with the animal in you without becoming wholly animal. You cannot play with falsehood without forfeiting your right to truth. You cannot play with cruelty without losing your sensitivity of mind. Whoever wants to keep their garden tidy does not reserve a plot for weeds" (Dag Hammarskjöld, *Markings*).
 
-Likewise, in our heart or in our soul, we can\'t reserve a plot for weeds, put our Christian vocation into parenthesis, or indulge in things that we know are incompatible with that Christian vocation.
+Likewise, in our heart or in our soul, we can\'t reserve a plot for weeds, put our Christian vocation into parentheses, or indulge in things that we know are incompatible with that Christian vocation.
 
 Therefore, we need that spirit of struggle to go against the current. Any dead thing can float downstream. Which is stronger, the reed that is bent by the wind or the reed that stands up against the wind?
 
@@ -117,7 +117,7 @@ I heard someone say once that perhaps the three people who have influenced the t
 
 To a certain extent, Marx is now passé, but the other two are still very much with us. These are the winds that are blowing.
 
-We have to try and know what is right and what is wrong, to keep up that spirit of struggle, to keep ourselves in good shape, to be alert, because the devil is like a lion ready to pounce, and whatever weak moments we have, he can take full advantage.
+We have to try and know what is right and what is wrong, to keep up that spirit of struggle, to keep ourselves in good shape, to be alert, because the devil is "like a lion ready to pounce" (*cf*. 1 Pet. 5:8), and whatever weak moments we have, he can take full advantage.
 
 There was an article in the newspaper some years ago that said that the U.S. Army had rejected 25 percent of their recruits because of obesity. They were too fat to fight. So 125 generals sent a letter to Congress for a bill to talk about the nourishment of children.
 
@@ -163,7 +163,7 @@ There\'s a story told that in Edinburgh Castle, the crown jewels are kept in a v
 
 The Queen doesn\'t walk around with the crown jewels in her handbag and gives them to the first pretty face that she meets. Whoever arrives to try and win the crown jewels arrives exhausted.
 
-And so also, with the jewel of our heart, we have to keep it well-bolted, well-guarded. It\'s a treasure. It\'s a pearl. God wants that heart for Him, for Him alone.
+And so also, with the jewel of our heart, we have to keep it well-bolted, well-guarded. It\'s a treasure. It\'s a pearl (*cf*. Matt. 13:44-46). God wants that heart for Him, for Him alone.
 
 "I urge you then, brothers," says St. Paul, "remembering the mercies of God, to offer your bodies as a living sacrifice, dedicated and acceptable to God. That is the kind of worship for you, a sensible people.
 
@@ -189,7 +189,7 @@ St. Josemaría in *The Forge* says, "Without God\'s help, it\'s impossible to li
 
 Other ways we have to turn to Our Lady can be the *Memorare*, the Rosary, the Angelus, praying three Hail Marys to Our Lady at night, turning to Our Lady frequently during the day. We know that she\'s always listening to her children. She will never let us down. She'll always be there for us.
 
-"Before, by yourself," we\'re told in *The Way*, you couldn\'t. Now, you\'ve turned to Our Lady, and, with her, how easy it is!" (J. Escrivá, *The Way*, Point 513).
+"Before, by yourself," we\'re told in *The Way*, "you couldn\'t. Now, you\'ve turned to Our Lady, and, with her, how easy it is!" (J. Escrivá, *The Way*, Point 513).
 
 "In these times of violence and brutal, savage sexuality, we have to be rebels: we refuse point blank to go with the tide and become beasts. We want to behave like children of God, like men and women who are on intimate terms with their Father, who is in heaven, and who wants to be very close to---inside!---each one of us" (J. Escrivá, *The Forge*, Point 15).
 
@@ -213,7 +213,7 @@ If we\'re in the state of grace, God is in our soul. If we\'re not in the state 
 
 Some of the fruits of holy purity are that it gives us a big heart that knows how to love. It can give us joy in times of hardship and fortify our character in the face of difficulties. It also makes us more human, able to understand others and their weaknesses. That\'s why we need never be scandalized by the weaknesses of other people.
 
-"There but for the grace of God go I." We are all capable of the most terrible things, so we need never be surprised by things we hear or see.
+"There, but for the grace of God, go I" (*cf*. 1 Cor. 15:10). We are all capable of the most terrible things, so we need never be surprised by things we hear or see.
 
 St. Thomas Aquinas says, "Curiosity is a defect of our mind, which inclines us with eagerness and precipitation towards the focusing on less useful things, making us neglect the things of God and our salvation" (Thomas Aquinas, *Summa Theologiae*, Question 167).
 
