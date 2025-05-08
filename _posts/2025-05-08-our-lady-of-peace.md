@@ -277,7 +277,7 @@ Where there is darkness, light."
 
 Our Lord stood up in the boat in the midst of this great storm and spoke to the elements who had become like children, a bit too noisy at play: "Peace! Be still!" (Mark 37-41).
 
-"O Divine Master, grant that I may not so much seek\
+O Divine Master, grant that I may not so much seek\
 To be consoled as to console;\
 To be understood as to understand;\
 To be loved as to love.
