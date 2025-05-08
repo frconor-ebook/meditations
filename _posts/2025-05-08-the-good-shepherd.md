@@ -31,7 +31,7 @@ Throughout the long waiting of the Old Testament, the prophets had proclaimed, w
 
 We can have great confidence in the Good Shepherd, Our loving heavenly Father, who reaches out to us in all sorts of ways, and who has called us His children. "Let the little children come unto me" (Matt. 9:14).
 
-He invites us to trust, to trust in all the difficult moments of our life, when things seem to be going wrong, when there\'s a piece of bad news; maybe when there\'s a major tragedy, when hearts are breaking, when there doesn\'t seem to be any human reason, or supernatural reason, for why certain things have happened; the loss of a loved one at an early age.
+He invites us to trust in all the difficult moments of our life, when things seem to be going wrong, when there\'s a piece of bad news; maybe when there\'s a major tragedy, when hearts are breaking, when there doesn\'t seem to be any human reason, or supernatural reason, for why certain things have happened; the loss of a loved one at an early age.
 
 But we know the Good Shepherd is looking after us. And even in those trying moments, we know that there\'s some other solution, or there\'s some other plan.
 
@@ -99,7 +99,9 @@ There\'s no need for us to feel lost or to feel submerged in a huge mass of name
 
 To Him, each one of us is unique. We can say with perfect accuracy: "He loved me and gave himself up for me" (Gal. 2:20). He distinguishes my voice from many others.
 
-It\'s said that a mother always knows the voice of her child. Maternity is one of the characteristics of Our Father God. No Christian really has the right to say that they\'re alone, because Christ is always with them. So is His Mother.
+It\'s said that a mother always knows the voice of her child. Maternity is one of the characteristics of Our Father God.
+
+No Christian really has the right to say that they\'re alone, because Christ is always with him. So is His Mother.
 
 If he or she is lost in the byways of wrongdoing, the Good Shepherd is already out searching for them.
 
@@ -109,7 +111,7 @@ Christ gives good shepherds to His Church. As well as applying to Himself the ti
 
 "I am the door of the sheepfold," He says. "I am the gate of the sheepfold. All who have come before me are thieves and bandits, but the sheep took no notice of them. I am the gate. Anyone who enters through me will be safe. Such a one will go in and out and will find pasture. The thief comes only to steal and kill and destroy. I have come so that they may have life and have it to the full. I am the good shepherd" (John 10:8-11).
 
-"The Church is a sheepfold whose one and only door is Christ (John 10:1-10). It\'s also a flock, of which God Himself is said in prophecy to be the shepherd (Isa. 40:11), and whose sheep, though undoubtedly led by human shepherds, are nevertheless guided and fed continually by Christ Himself, the Good Shepherd and Prince of shepherds (John 10:11; 1 Pet. 5:4), who gave his life for his sheep (*cf*. John 10:11-15)" (Vatican II, *Lumen gentium*, Point 6, November 21, 1964).
+"The Church is a sheepfold whose one and only door is Christ (John 10:1-10). It\'s also a flock, of which God Himself is said in prophecy to be the Shepherd (Isa. 40:11), and whose sheep, though undoubtedly led by human shepherds, are nevertheless guided and fed continually by Christ Himself, the Good Shepherd and Prince of shepherds (John 10:11; 1 Pet. 5:4), who gave his life for his sheep (*cf*. John 10:11-15)" (Vatican II, *Lumen gentium*, Point 6, November 21, 1964).
 
 He speaks to us through His shepherds. That\'s why we have to try and be attentive to the voice of the Holy Father, to his apostolic exhortations or encyclicals or pronouncements, or to the voice of our local bishop, or to the Conference of Bishops.
 
@@ -137,7 +139,7 @@ In particular, a mother and father of a family have a very special role to play 
 
 We can consider that in one way or another, we are all to be the good shepherds of all the people that God has placed at our side. All those neighbors, friends, relatives---they\'re all there for a reason, and we have a duty to help them through example and prayer.
 
-There was a father once who was bringing his children to a playground and he asked the man at the gate, "What were the charges?" It was a certain amount for adults, a certain amount for children, and children under the age of seven years of age were free.
+There was a father once who was bringing his children to a playground and he asked the man at the gate, "What are the charges?" It was a certain amount for adults, a certain amount for children, and children under the age of seven years of age were free.
 
 "And what age are your children?" The father said, "Well, they\'re eight and nine."
 
@@ -177,7 +179,7 @@ It\'s not difficult to be a bad shepherd. There may be many people around us, an
 
 One of the words Our Lord says frequently in Scripture is the word "watch." Be vigilant. Bring things to your prayer. Look out for telltale signs that something may be going wrong.
 
-"Essential in the third place is doctrine," right ideas, "the aim of which is to provide men with the food that will enable them to reach salvation" (*ibid*.).
+"Essential in the third place is doctrine"---right ideas---"the aim of which is to provide men with the food that will enable them to reach salvation" (*ibid*.).
 
 One time in Singapore, shortly after the new *Catechism of the Catholic Chur*ch had been published, which was essentially, and first and foremost, like all major documents of the Church, addressed to bishops, I saw the local archbishop going out to say Mass with the new *Catechism* under his arm.
 
@@ -203,11 +205,13 @@ We also encounter the good shepherd in spiritual direction. Each one of us needs
 
 If we try and guide ourselves, there can be a great lack of objectivity. We can have a great exaggerated love for our own selves, and laziness. All these can conspire to obscure our path to God, leading us to a certain spiritual stagnation, lukewarmness, and discouragement.
 
-On the other hand, in the same way that a ship with a good pilot arrives safely in port, so also will the soul that has a good shepherd safely reach its destination even though it may have gone astray many times.
+On the other hand, "in the same way that a ship with a good pilot arrives safely in port, so also will the soul that has a good shepherd safely reach its destination even though it may have gone astray many times" (John Climacus, *Stairs of Paradise*).
 
-Everyone knows that a guide is needed in order to climb a mountain without difficulty. Anybody in any human, let alone supernatural, endeavor, needs some sort of a guide. Every team in the Premier League has a coach. Every successful athlete in the Olympics has a coach to whom they have to listen very carefully.
+"Everyone knows that a guide is needed in order to climb a mountain without difficulty."
 
-The same thing happens when it\'s a matter of a spiritual climb; and even more so if there are certain pitfalls that may be set there by the devil who dearly wants to bring us down.
+Anybody in any human, let alone supernatural, endeavor, needs some sort of a guide. Every team in the Premier League has a coach. Every successful athlete in the Olympics has a coach to whom they have to listen very carefully.
+
+"The same thing happens when it\'s a matter of a spiritual climb; and even more so if there are certain pitfalls that may be set there by the devil, who dearly wants to bring us down" (Réginald Garrigou-Lagrange, *The Three Ages of the Interior Life*).
 
 We need spiritual direction so that at the end of our lives we\'ll not have to say what the Israelites said after wandering about the desert without direction or meaningful purpose: "For forty years, we went round and round the mountain" (*cf*. Num. 14:33-34, Deut. 2:1-3).
 
@@ -247,7 +251,7 @@ The prodigal son went where he ought to have gone and found a peace that he coul
 
 Judas should have gone back to Jesus, who would have sheltered and comforted him in spite of his sin, just as he did with the repentant Peter. But instead, Judas went where he should not have gone: he went to those who were incapable of understanding, and, above all, who were unable to give him what he most needed. "'What is that to us?' they said to him. 'See to it yourself'" (Matt. 27:3-4).
 
-In spiritual direction, we encounter the Good Shepherd, who each week may just say a word, a phrase, a bit of encouragement, but often that\'s enough to help us to start over. He gives us the help we need to avoid getting lost and to get back on the right path if we have deviated from it in our progress toward Christ.
+In spiritual direction we encounter the Good Shepherd, who each week may just say a word, a phrase, a bit of encouragement, but often that\'s enough to help us to start over. He gives us the help we need to avoid getting lost and to get back on the right path if we have deviated from it in our progress toward Christ.
 
 We know that Our Holy Mother Mary will always show us the safe path that will lead to her Son.
 
