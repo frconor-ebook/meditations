@@ -13,7 +13,7 @@ By Fr. Conor Donnelly
 
 "I am the good shepherd," said Our Lord. "The good shepherd lays down his life for his sheep" (John 10:11).
 
-Today is the feast of Blessed Álvaro del Portillo, the first successor of our Father, who after our Father\'s death was elected and at the helm of the Work for almost twenty years.
+Today is the feast of Blessed Álvaro del Portillo, the first successor of our Father \[St. Josemaría\], who after our Father\'s death was elected and at the helm of the Work for almost twenty years.
 
 We can thank Our Lord today for giving us such a Good Shepherd whose process of canonization is already well advanced.
 
@@ -261,7 +261,7 @@ A person of the Work in Kenya who has now passed on, and became a priest, has le
 
 These are some of the beautiful details that Don Álvaro has left us. We could ask him that we might have that same fidelity that he had, a fidelity that is contagious.
 
-Our Father says, "Mary, *Virgo fidelis!* Virgin most faithful, intercede for us, so that we may imitate your faithfulness, so that we may say our daily *fiat,* our daily yes to friendship with Jesus Christ and to friendship with others.
+Our Father says in *The Forge*, "Mary, *Virgo fidelis!* Virgin most faithful, intercede for us, so that we may imitate your faithfulness, so that we may say our daily *fiat,* our daily yes to friendship with Jesus Christ and to friendship with others.
 
 "There are many people around you, and you have no right to be an obstacle to their spiritual good, to their eternal happiness. You are under an obligation to be a saint. You must not let God down for having chosen you. Neither must you let those around you down; they expect so much from your Christian life" (Josemaría Escrivá, *The Forge*, Point 20).
 
