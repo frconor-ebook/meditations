@@ -17,11 +17,11 @@ Today is the feast of St. Matthias.
 
 After the Ascension, while the Apostles were awaiting the coming of the Holy Spirit, they chose Matthias in Judas\'s place to make up the number of the Twelve, because they were meant to represent the twelve tribes of Israel.
 
-Matthias had been a disciple of our Lord and a witness to His Resurrection. According to tradition, he evangelized Ethiopia, where eventually he suffered martyrdom. Through the help of Saint Helena, his relics were later brought to Trier in Germany, where he is venerated as the Patron of the city.
+Matthias had been a disciple of Our Lord and a witness to His Resurrection. According to tradition, he evangelized Ethiopia, where eventually he suffered martyrdom. Through the help of St. Helena, his relics were later brought to Trier in Germany, where he is venerated as the Patron of the city.
 
-We\'re reminded by his vocation that God is the one who chooses. "You did not choose me, but I chose you and appointed you, that you should go and bear fruit and that your fruit should abide" (John 15:16).
+We\'re reminded with his vocation that God is the one who chooses. "You did not choose me, but I chose you and appointed you, that you should go and bear fruit and that your fruit should abide" (John 15:16).
 
-After the betrayal of Judas, his place was left vacant among the Apostles. The election of his successor fulfilled something that the Holy Spirit had prophesied, and that Our Lord had expressly instituted: He wanted that there would be twelve Apostles (cf. Matt. 19:28). because the new People of God are to be founded upon twelve supports, just as the old People of God had been based on the twelve tribes of Israel (cf. Eph. 2:20).
+After the betrayal of Judas, his place was left vacant among the Apostles. The election of his successor fulfilled something that the Holy Spirit had prophesied, and that Our Lord had expressly instituted: He wanted that there would be twelve Apostles (*cf*. Matt. 19:28). because the new People of God are to be founded upon twelve supports, just as the old People of God had been based on the twelve tribes of Israel (*cf*. Eph. 2:20).
 
 Peter, exercising his primacy in the assembly of the one hundred twenty disciples, sets out the conditions laid down by the Master---conditions that had to be met by whichever disciple was chosen to complete the Apostolic College: he had to have known Jesus personally, and he would have to bear witness to Him.
 
@@ -33,7 +33,9 @@ Thirty years later, we find him saying the same thing in his last written testim
 
 Peter does not make the choice himself---he leaves that to God. We read in the Book of Proverbs, "The lot is cast into the lap, but the decision is wholly from the Lord" (Prov. 16:33).
 
-The apostles put forward two people, Joseph called Barsabbas, and Matthias which means 'God\'s gift.' They cast lots for them. The lot fell upon Matthias, and so he was enrolled with the other eleven apostles. An ancient historian tells us that Matthias had belonged to a group of seventy-two who had been sent by Jesus to preach to the cities of Israel (cf. Eusebius, *The Ecclesiastical History*).
+The apostles put forward two people, Joseph called Barsabbas, and Matthias which means 'God\'s gift.'
+
+"They cast lots for them. The lot fell upon Matthias, and so he was enrolled with the other eleven apostles" (Acts 1:26). An ancient historian tells us that Matthias had belonged to a group of seventy-two who had been sent by Jesus to preach to the cities of Israel (*cf*. Eusebius, *The Ecclesiastical History*).
 
 Before the election, Peter and the other apostles prayed to God because the choice is not to be theirs; vocation is always a divine choice.
 
@@ -49,17 +51,17 @@ They all have this very clear awareness of their divine calling. It\'s God who c
 
 The Church tells us that each one of us has a divine calling to holiness and apostolate---every lay person, every baptized person in the history of the world and of the Church.
 
-We receive it first in Baptism and it\'s subsequently underlined by God\'s successive interventions in our lives: our professional vocation, our vocation to marriage and the family, our celibate vocation.
+We received it first in Baptism and it\'s subsequently underlined by God\'s successive interventions in our lives: our professional vocation, our vocation to marriage and the family, our celibate vocation.
 
 At certain moments in our life, Our Lord lets that calling to follow Him become particularly intense and clear.
 
 In *The Forge*, we\'re told, "I didn\'t think God would get hold of me the way he did, either. But... God doesn\'t ask our permission to 'complicate' our lives. He just gets in: and that\'s that!" (Josemaría Escrivá, *The Forge*, Point 902). It\'s then up to each one of us to respond.
 
-In our prayer today, we could ask ourselves: Am I ready to respond to what God is asking of me; to the voice of the Holy Spirit as He speaks to me, day by day?
+In our prayer today, we could ask ourselves: Am I ready to respond to what God is asking of me, to the voice of the Holy Spirit as He speaks to me, day by day?
 
 Do I try to do the will of God in all my undertakings? Am I prepared to respond my whole life long to whatever it is that Our Lord asks of me?
 
-"The lot," we\'re told, "fell on Matthias." We\'re reminded that our calling is always an unmerited gift.
+"The lot," we\'re told, "fell on Matthias" (Acts 1:26). We\'re reminded that our calling is always an unmerited gift.
 
 At the same time, God always gives us the grace to respond to the calling that He gives us. We\'re never denied the graces that we need.
 
@@ -83,13 +85,13 @@ Why were these particular men chosen to receive this particular privilege? We do
 
 "He called to himself," we're told in St. Mark, "those whom he desired" (Mark 3:13). So we know that Our Lord might have chosen people much better than us, much more talented, much more appropriate.
 
-St. Josemaría says, "God chooses the worst instruments He can find to prove that the work is truly his" (cf. J. Escrivá, *The Way*, Point 475).
+St. Josemaría says, "God chooses the worst instruments He can find to prove that the work is truly his" (*cf*. J. Escrivá, *The Way*, Point 475).
 
 To be chosen is our entire good fortune. We find the purpose of our life in that calling.
 
 From the moment that Our Lord singles out a particular soul and invites it to follow Him, following on that there are many other callings, which may perhaps seem small, but which can mark out that person\'s journey through their life.
 
-"All through our life, ordinarily little by little, but constantly and in a compelling way, God tenders us many 'determinations' of his initial calling, more specifications of that calling, all of which imply a person-to-person relationship with Our Lord" (Pedro Rodriguez, *Vocation, Work, and Contemplation*).
+"All through our life, ordinarily little by little, but constantly and in a compelling way, God tenders us many 'determinations' of his initial calling," more specifications of that calling, "all of which imply a person-to-person relationship with Our Lord" (Pedro Rodriguez, *Vocation, Work, and Contemplation*).
 
 We could ask Our Lord for the grace to see our calling very clearly, and our apostolic calling, and, in this month of May, to see how we can make this month a particularly apostolic month.
 
@@ -105,19 +107,19 @@ In our case too, it is in fidelity to our vocation that we find true happiness a
 
 Happiness and the meaning of life for every person consists in following God's call. Jesus chooses His own; He calls them. This calling is their greatest honor and gives them the right to a very special union with the Master, to special graces which are heard in the intimacy of prayer.
 
-"The vocation of everyone is based, up to a certain point, on his or her own being; it can be said that vocation and person become one and the same thing. This means that in God\'s creative initiative, there is present a particular act of love directed towards those who are called, not only to salvation," says Pope John Paul, "but to the ministry of salvation.
+The Holy Father said, "The vocation of each individual is based, up to a certain point, on his or her own being; it can be said that vocation and person become one and the same thing. This means that in God\'s creative initiative, there is present a particular act of love directed towards those who are called, not only to salvation," says Pope John Paul, "but to the ministry of salvation.
 
-"Therefore, from eternity, from the time we began to exist in the plans of the Creator and He willed us to come into being, He also willed us to be called, predisposing in us all the gifts and conditions for a personal and conscious response to the call of Christ or the Church. God who loves us, who is love, is also 'the one who calls us' (cf. Rom. 9:11)" (John Paul II, *Address to Seminarians*, July 5, 1980).
+"Therefore, from eternity, from the time we began to exist in the plans of the Creator and He willed us to come into being, He also willed us to be called, predisposing in us all the gifts and conditions for a personal and conscious response to the call of Christ or the Church. God who loves us, who is love, is also 'the one who calls us' (*cf*. Rom. 9:11)" (John Paul II, *Address to Seminarians*, July 5, 1980).
 
 St. Paul nearly always starts his letters reflecting these ideas. In the first Letter to the Romans and the Corinthians, he says, "Paul, a servant of Jesus Christ, called to be an apostle, set apart for the gospel of God" (Rom. 1:1; 1 Cor.1:1).
 
 He says in Galatians that he is called and chosen "not by men nor through man, but through Jesus Christ and God the Father" (Gal.1:1).
 
-God calls us as He called Moses (Ex. 3:4, 19:20, 24:16), as He called Samuel (1 Sam. 3:4), as He called Isaiah (Isa. 6:1ff). It\'s a vocation that\'s not based on any merit of the individual. Isaiah says, "The Lord called me from the womb" (Isa. 49:1)
+God calls us as He called Moses (Ex. 3:4, 19:20, 24:16), as He called Samuel (1 Sam. 3:4), as He called Isaiah (Isa. 6:1ff). It\'s a vocation that\'s not based on any merit of the individual. Isaiah says, "The Lord called me from the womb" (Isa. 49:1).
 
 St. Paul puts it even more categorically: "He saved us and called us with a holy calling, not in virtue of our works, but in virtue of his own purpose," he says in the second Letter to Timothy (2 Tim. 1:9).
 
-Jesus calls His disciples to share His chalice, that is, His life and His mission. He now extends that same invitation to us.: we have to try and be careful not to drown His voice in the noise of things, which, if they are not in Him and for Him, must be of no interest at all.
+Jesus calls His disciples to share His chalice, that is, His life and His mission. He now extends that same invitation to us. We have to try and be careful not to drown His voice in the noise of things, which, if they are not in Him and for Him, must be of no interest at all.
 
 When we hear Christ\'s voice inviting us to follow Him completely, nothing is of any importance compared to the business of following Him.
 
@@ -129,9 +131,9 @@ Like the other Apostles, he left behind him an indelible trail of faith which ha
 
 We could think of our own personal apostolate at this particular time. St. Josemaría liked to say we have to go after each soul to win it for Christ. He said, "Treat them all with affection. Drown them all in love for Christ."
 
-"I look at your Cross, my Jesus," he says, "and I rejoice in your grace, because your Calvary has won for us the reward of the Holy Spirit. And you give yourself to me, each day, lovingly, madly, in the sacred host. And you have made me a child of God and have given me your Mother to be mine. I can\'t be satisfied with just giving thanks. My thoughts take flight: Lord, Lord, there are so many souls who are so far from you!
+"I look at your Cross, my Jesus," he says, "and I rejoice in your grace, because your Calvary has won for us the reward of the Holy Spirit. And you give yourself to me, each day, lovingly, madly, in the Sacred Host. And you have made me a child of God and have given me your Mother to be mine. I cannot be satisfied with just giving thanks. My thoughts take flight: Lord, Lord, there are so many souls who are so far from you!
 
-"Foster those yearnings," he says, "for apostolate in your life, that many may get to know him...and love him..., and come to feel loved by him!" (J. Escrivá, *The Forge*, Point 27).
+"Foster those yearnings," he says, "for apostolate in your life, that many may get to know him..., and love him..., and come to feel loved by him!" (J. Escrivá, *The Forge*, Point 27).
 
 If we use this month of May well, maybe putting an intention of souls on each Hail Mary in the Rosaries that we say, or pestering Our Lady for different apostolic intentions or desires that we have, she will surely bring us on to a new apostolic level with a new zeal, so that we look for those souls that God has placed around us.
 
@@ -141,9 +143,9 @@ If we use this month of May well, maybe putting an intention of souls on each Ha
 
 St. Thomas Aquinas says, "Zeal, whatever way we take it, arises from the intensity of love" (Thomas Aquinas*, Summa Theologiae*, Question 28).
 
-The first point to increase our apostolic zeal is to grow in our love of God. We\'re told in the *Furrow* that "Where there is zeal for souls, good...soil can always be found" (J. Escrivá, *Furrow*, Point 195).
+The first point to increase our apostolic zeal is to grow in our love of God. We\'re told in the *Furrow*, "When there is zeal for souls, good...soil can always be found" (J. Escrivá, *Furrow*, Point 195).
 
-Those are very encouraging words, because we might think that in this particular area of society, there\'s nothing to be done; or with that particular friend, or this particular environment.
+Those are very encouraging words, because we might think that in this particular area of society, there\'s nothing to be done, or with that particular friend, or this particular environment.
 
 Lord, help me to have the qualities of zeal that you\'d like me to have---an enduring spiritual ardor.
 
@@ -161,7 +163,7 @@ This is always a good thing to say to people because they see we take them serio
 
 That evening in his prayer, talking to Our Lord, he looked for lights and asked for something that he might be able to say to his friend to help him in his predicament.
 
-But the only thing he could say was on occasion, when St. Josemaría said that husbands occasionally should bring a present of flowers to their wife. He didn\'t think that was much. It was a bit late for flowers. This guy said that his wife was about to divorce him, but that was all that he saw in his prayer.
+But the only thing he could think of was an occasion when St. Josemaría said that husbands occasionally should bring a present of flowers to their wife. He didn\'t think that was much. It was a bit late for flowers. This guy said that his wife was about to divorce him, but that was all that he saw in his prayer.
 
 The following day, when he met up with his friend and colleague, he suggested to him, "Why don\'t you bring flowers to your wife?"
 
@@ -175,7 +177,7 @@ She burst into tears and said, "This is the first time in twenty years that you 
 
 We need to pay a lot of attention to the ideas that Our Lord communicates to us in our prayer. Those are the very things He wants us to pass on to others.
 
-We\'re told in the *Furrow*, "When I speak to you about 'apostolate of friendship', I mean a personal friendship, self-sacrificing and sincere: face to face, heart to heart. In the apostolate of friendship and trust, the first step has to be understanding service---and holy intransigence in doctrine (J. Escriva, *Furrow*, Points 191-192).
+We\'re told in the *Furrow*, "When I speak to you about 'apostolate of friendship,' I mean a personal friendship, self-sacrificing and sincere: face to face, heart to heart. In the apostolate of friendship and trust, the first step has to be understanding service---and holy intransigence in doctrine" (J. Escrivá, *Furrow*, Points 191-192).
 
 We\'re to try and use all the means that Our Lord has given us as ordinary Christians in the middle of the world to do apostolate in the way that God has called us to do it.
 
