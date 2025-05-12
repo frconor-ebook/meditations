@@ -13,7 +13,7 @@ By Fr. Conor Donnelly
 
 At Cana of Galilee, Our Lady said to Our Lord, "They have no wine" (John 2:3).
 
-She didn\'t say, 'I have no wine' or, 'My glass is empty,' but "they have no wine." She was thinking about the others. She was forgetting about herself.
+She didn\'t say, 'I have no wine' or 'My glass is empty,' but "they have no wine." She was thinking about the others. She was forgetting about herself.
 
 This meditation is about the virtue of temperance.
 
@@ -29,7 +29,7 @@ Ever since then, men have had to struggle to control their passions and their ap
 
 Our desire for pleasure is often referred to by the term of "concupiscence." A man originally had an ordered concupiscence, and now we have a disordered concupiscence.
 
-If you have any dealings with small children, you might have to tell your five-year-old, "Look, that\'s enough *chapati*, you\'ve had five already" or, "You\'ve had three helpings of ice cream." The child doesn\'t know when to say stop.
+If you have any dealings with small children, you might have to tell your five-year-old, "Look, that\'s enough *chapati*, you\'ve had five already" or "You\'ve had three helpings of ice cream." The child doesn\'t know when to say stop.
 
 But not only the child. A grown man may have to be told the same thing about the number of beers, or a grown woman, about the number of things that she has bought, or wants to buy, or the movies she\'s watched.
 
@@ -95,9 +95,9 @@ The good things in life that God has given to us---they\'re also there for us to
 
 This virtue of temperance is often one of the indispensable qualities of leadership; one of the characteristics, the character strength, that we admire most in other people.
 
-Very often what we admire as "class" in people is often directly related to their habitual power of self-restraint in words, in actions, and in projects.
+Very often what we admire as "class" in people is often directly related to their habitual power of self-restraint in words, in actions, in projects.
 
-Temperance is also the foundation, along with charity, of courtesy, and habitual good manners. Good manners are part of charity.
+Temperance is also the foundation, along with charity, of courtesy and habitual good manners. Good manners are part of charity.
 
 It means we forget about ourselves. We think about others. We control our own tendencies or desires or appetites because we put others first, and their needs.
 
@@ -125,7 +125,7 @@ It can be a pathway to humility. We don\'t have a greater opinion of ourselves t
 
 If we try to practice that self-discipline in the area of food and drink, it can help us to apply this virtue in other areas.
 
-St. Paul says, "Grace trains us to renounce irreligion and worldly passions, and to live sober, upright, and godly lives in this world" (cf. Titus 2:12).
+St. Paul says, "Grace trains us to renounce irreligion and worldly passions, and to live sober, upright, and godly lives in this world" (*cf*. Titus 2:12).
 
 In *Friends of God,* St. Josemaría says, "Temperance makes the soul sober, modest, understanding. It fosters a natural sense of reserve, which everyone finds attractive because it denotes intelligent self-control.
 
@@ -161,7 +161,7 @@ We could ask ourselves: What organizations do I belong to at a national or inter
 
 We might need to temper our work sometimes, spending more time resting, or listening to music, or reading.
 
-In an Apostolic Letter from 1998, John Paul II wrote a beautiful line. That apostolic exhortation was called, *Dies Domini*--"On the Day of the Lord." But it talks about the sacredness of rest.
+In an Apostolic Letter from 1998, John Paul II wrote a beautiful line. That Apostolic Letter was called *Dies Domini*--"On the Day of the Lord." But it talks about the sacredness of rest.
 
 We might need to temper our desires to read everything., or to listen to all forms of music. We might need to temper our egoism, to think of others more, to grow in our self-knowledge.
 
@@ -171,7 +171,7 @@ We might need to temper our spirit of independence, to do things on my own, or t
 
 We might need to temper our criticisms or our judgments of other people. This virtue needs to be present in our entire lifestyle if we are to follow Christ.
 
-St. Paul talks about the *bonus odor* of Christ---the sweet fragrance of Christ---so that we bring that atmosphere with us (2 Cor. 2:15).
+St. Paul talks about the *bonus odor* of Christ---\"the sweet fragrance of Christ"---so that we bring that atmosphere with us (2 Cor. 2:15).
 
 People notice there\'s something different about us. We\'re in control. We have a certain self-mastery. We\'re not swayed by every wind that blows. Which is stronger, the reed that stands up against the wind or the reed that is bent by the wind?
 
@@ -179,25 +179,25 @@ We try to moderate this desire for pleasure. Part of this virtue is the virtue o
 
 Control our temptations. Distance ourselves from occasions of sin; not allow ourselves to dialogue with the devil. Lack of temperance can destroy a soul.
 
-In *The Way*, St Josemaría says, "Overeating is the vanguard of impurity" (J. Escrivá, *The Way*, Point 126).
+In *The Way*, St. Josemaría says, "Overeating is the vanguard of impurity" (J. Escrivá, *The Way*, Point 126).
 
 We indulge too much in certain areas. We give ourselves unlimited pleasure in certain areas. We don\'t know how to say no to ourselves. No self-discipline.
 
 When it comes to other areas, we can be equally hopeless. No spine, no backbone, no interior toughness.
 
-We\'re told, "That insubstantial enchantment with the world is there all the time. We are attracted, by the color and smell of the flowers by the wayside, by the birds of the air, by all creatures. My poor child, it\'s quite reasonable. For, if you were not fascinated by it all, what sacrifice would you be able to offer Our Lord?" (J. Escrivá, *Furrow*, Point 294).
+We\'re told, "That insubstantial enchantment with the world is there all the time. We are attracted," says St. Josemaría, "by the color and smell of the flowers by the wayside, by the birds of the air, by all creatures. My poor child, it\'s quite reasonable. For, if you were not fascinated by it all, what sacrifice would you be able to offer Our Lord?" (J. Escrivá, *Furrow*, Point 294).
 
-We need to ask ourselves: What do I need to temper in my life? I might need to temper my sleep or my disorder or my laziness or my dialogue with temptations, to make sure that I\'m running the course well.
+We need to ask ourselves, What do I need to temper in my life? I might need to temper my sleep or my disorder or my laziness or my dialogue with temptations, to make sure that I\'m running the course well.
 
 See, in the Olympics or in the marathons that we see these days, there\'s a specific course that the athletes have to run on.
 
 There\'s a marathon here in Nairobi on the last Sunday of October where 20,000 people take part---twenty thousand people all running to obtain a piece of paper, a cap, and a T-shirt, 42 kilometers.
 
-Now, say somebody ran in the wrong direction. They ran the 42 kilometers, and in record time and then they came to receive their cap, their piece of paper, and their T-shirt.
+Now, say somebody ran in the wrong direction. They ran the 42 kilometers, and in record time, and then they came to receive their cap, their piece of paper, and their T-shirt.
 
 They might have to be told, 'You ran a wonderful race, you did it in record time, but you went in the wrong direction.'
 
-St. Paul says, "You ran very well but outside the course" (cf. Gal. 5:7). We need to know how to make sure we\'re on the right course.
+St. Paul says, "You ran very well but outside the course" (*cf*. Gal. 5:7). We need to know how to make sure we\'re on the right course.
 
 It\'s one of the reasons why we all need spiritual direction. We need advice so that we\'re not on the wrong track, or that we\'re not thinking that 'I\'m leading a very good Christian life of piety' or 'I\'m doing many, many good things' but there may be big areas of our life that need conversion.
 
@@ -215,7 +215,7 @@ We have to moderate our love of self in all these areas, so that we watch out fo
 
 This virtue becomes more important when the atmosphere in society is particularly materialistic. It can threaten to choke the spiritual sphere of life.
 
-We need to have our hearts free in order to "seek first the kingdom of God, so that all these other things will be given us besides" (cf. Matt. 6:33).
+We need to have our hearts free in order to "seek first the kingdom of God, so that all these other things will be given us besides" (*cf*. Matt. 6:33).
 
 When the opportunity comes to deny ourselves certain pleasures, it\'s a very good thing to seize that opportunity and to do it elegantly, thanking God for the good things that He\'s given to us. It\'s a virtue that we have to try and practice at all times.
 
@@ -223,7 +223,7 @@ You might find yourself at a party where somebody else is paying. But that doesn
 
 Or we're on an expense account being paid for by the company on a business trip. But still, we don\'t spend money unnecessarily. We try to account for everything that we are spending. The fact that something is being paid for by somebody else doesn\'t mean that we throw this virtue out the window.
 
-And always, we have to try and give good examples. If ever there\'s an office party or a Christmas party, it can be a very good thing to think, How can we add a social dimension to this outlay? Can we gather some funds to have a party for some poor kids or for some elderly people?
+And always, we have to try and give good example. If ever there\'s an office party or a Christmas party, it can be a very good thing to think: How can we add a social dimension to this outlay? Can we gather some funds to have a party for some poor kids or for some elderly people?
 
 We infect other people with this type of thinking. A Christian conscience, a social conscience, thinks twice---knows how to practice a certain restraint when it comes to spending money, to control our impulse to spend or to buy.
 
