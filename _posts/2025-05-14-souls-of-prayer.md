@@ -25,7 +25,7 @@ Well, you would know that that\'s not really a great friend. Friends have to see
 
 For our relationship with Jesus to grow, that talking is very important; hence, the importance that\'s given to our two half-hours of prayer. We don\'t delay them, we don\'t put them off, we try to get them done in all sorts of places, if necessary.
 
-Basically, the rule of our life is two half hours of prayer. We have to try and make those two half-hours really into prayer, so that it\'s not three minutes of prayer and then twenty-five minutes of something else, or distraction, or thinking about other things.
+Basically, the rule of our life is two half-hours of prayer. We have to try and make those two half-hours really into prayer, so that it\'s not three minutes of prayer and then twenty-five minutes of something else, or distraction, or thinking about other things.
 
 St. Teresa of Ávila always brought a book with her to the prayer. That\'s one of the reasons why our Father has written the books that he wrote: to help us in our prayer.
 
@@ -97,7 +97,7 @@ But if those things aren\'t there, it doesn\'t mean that we\'re not going well. 
 
 Our Lord here emphasizes the heart-to-heart relationship of prayer. It\'s very personal, very intimate. There\'s nothing that will bring our spiritual life forward faster than our mental prayer.
 
-Probably, from the time we were small, we learned all about vocal prayer, *Our Father*s*, Hail Mary*s*, Glory Be*s, which obviously have their place.
+Probably, from the time we were small, we learned all about vocal prayer, *Our Father, Hail Mary, Glory Be*, which obviously have their place.
 
 But it might not have been until we came in contact with the Work that we heard about mental prayer---praying with our mind.
 
@@ -125,7 +125,7 @@ Did I use a book? Did I talk to Our Lord? Did I get any inspirations? Do I have 
 
 'I was focusing on this topic' or 'I was asking about these souls, or these friends of mine' or talking to Our Lord about the apostolate.
 
-"And then he withdrew from them about a stone\'s throw, and knelt down and prayed" (Luke 22:41). Before everything important in His life, Our Lord spends time in prayer.
+"And then he withdrew from them about a stone\'s throw, knelt down and prayed" (Luke 22:41). Before everything important in His life, Our Lord spends time in prayer.
 
 The whole purpose of our formation is to make us into a prayerful soul. We come to value prayer. We come to see that prayer is the fulcrum that moves the world.
 
@@ -229,11 +229,9 @@ While we come to do our prayer normally in the presence of Our Lord in the Bless
 
 Sometimes we do our prayer, maybe in the garden, or walking along the road, or something. We know that often our best prayer is done in the oratory, but sometimes we find we have to do it on the move for various reasons.
 
-One time somebody asked St. Josemaría to point out to them the most beautiful chapel in Villa Tevere. There are many little oratories there.
+One time somebody asked St. Josemaría to point out to them the most beautiful chapel in Villa Tevere. There are many little oratories there. "Which is the most beautiful oratory in Villa Tevere?"
 
-"Which is the most beautiful oratory in Villa Tevere?" St. Josemaría said, "The street."
-
-He pointed to the street outside, more or less emphasizing that our role of prayer is not to be sort of stuck inside in little oratories. We\'re not in a monastery or in a convent.
+St. Josemaría said, "The street." He pointed to the street outside, more or less emphasizing that our role of prayer is not to be sort of stuck inside in little oratories. We\'re not in a monastery or in a convent.
 
 We\'re people of the street. We can pray anywhere---in the middle of a busy street, in traffic lights, crossroads.
 
@@ -253,9 +251,9 @@ When we try and do our two half-hours of prayer, that leads us to live a better 
 
 When we\'re mopping the floor, or laying a table, or pressing the button of a washing machine, or answering a door, or just chatting with our friends, or in a get-together, we learn to find God in those ordinary things: to converse with Him, to do the norms of *always*: acts of thanksgiving, acts of faith, acts of hope, acts of contrition.
 
-These coming days are like the week of the angels, coming to the Feast of the Angels. It\'s very appropriate that we invoke the angels a little more.
+These coming days are like the week of the angels, coming to the Feast of the Angels (October 2). It\'s very appropriate that we invoke the angels a little more.
 
-We talk to St. Michael and St. Gabriel and St. Raphael. We pray a little more to our guardian angel. We begin to see the angels around the tabernacle a bit clearer and more frequently, or the angels of the people around us that we\'re working with or in the get-together.
+We talk to St. Michael and St. Gabriel and St. Raphael (September 29). We pray a little more to our guardian angel. We begin to see the angels around the tabernacle a bit clearer and more frequently, or the angels of the people around us that we\'re working with or in the get-together.
 
 We live in the presence of the angels.
 
