@@ -59,7 +59,7 @@ There\'s a phrase that crops up frequently in the writings of St. Josemaría in 
 
 When we read the stories in her biographies or her anecdotes, we get a great impression that she was very good at precisely doing that. She came to give everything; she held nothing back.
 
-We\'re told in the Book of Samuel, "...when Yahweh called, 'Samuel! Samuel!' He answered, 'Here I am,' and, running to Eli, he said, 'Here I am, as you called me' (1 Sam. 3:4, 8).
+We\'re told in the Book of Samuel, "...when Yahweh called, 'Samuel! Samuel!' he answered, 'Here I am,' and, running to Eli, he said, 'Here I am, as you called me'" (1 Sam. 3:4, 8).
 
 Each time that a request was made of her, she was totally available. The sky was the limit to take on difficult tasks, to handle great responsibilities.
 
@@ -99,7 +99,7 @@ It\'s a bit like telling us that God is in a hurry. When we live this feast day,
 
 Together with that---all the joy of our sisters and brothers in heaven and of our whole supernatural family all over the world---we find ourselves united in this joy.
 
-Today is a day for us to think of the Father, of his intentions. In a recent letter, he has asked us to pray for the new region in East and Southern Africa. Two regions have been amalgamated.
+Today is a day for us to think of the Father, of his intentions. In a recent letter, he has asked us to pray for the new region in East and Southern Africa. Two regions have been amalgamated (Fernando Ocáriz, *Letter from the Prelate*, May 1, 2021).
 
 It opens up, maybe, a quarter of the continent, the continent of the future. So many wonderful things have come from the apostolate in these countries.
 
@@ -111,7 +111,7 @@ We can see a lot in her perseverance, in her fidelity. We learn how it\'s not di
 
 We can see from the story of her life that many great things depended on whether she would live her life as God wanted. There\'s a message there for us.
 
-St. Josemaria says precisely that in *The Way*: "Many great things depend on whether you and I live our lives as God wants" (J. Escrivá, *The Way*, Point 255)---having all the children that God wants us to have, giving ourselves totally to the fulfillment of our norms, launching out into the deep in our apostolate, taking on greater responsibilities like Guadalupe did.
+St. Josemaría says precisely that in *The Way*: "Many great things depend on whether you and I live our lives as God wants" (J. Escrivá, *The Way*, Point 255)---having all the children that God wants us to have, giving ourselves totally to the fulfillment of our norms, launching out into the deep in our apostolate, taking on greater responsibilities like Guadalupe did.
 
 Frail, fragile lady. But yet, look at this great project of Montefalcó. Maybe you can find out a bit more about Montefalcó. It's a great formative lesson you\'ll find there.
 
@@ -161,7 +161,7 @@ We are chosen like the apostles, not because of what we are, but because of what
 
 Peter was chosen with all of his humanity. When we read the biography of Guadalupe, we can see she had a very special humanity. She had talents, and like everybody else, she had some defects. But she worked on those talents and she worked on those defects.
 
-She responded completely with: "Here I am, because you have called me."
+She responded completely with: "Here I am, because you have called me" (1 Sam. 3:4, 8).
 
 The holier we become, the more transparent the face of Christ becomes in us. We have to try and engrave in our hearts that we are called to holiness.
 
