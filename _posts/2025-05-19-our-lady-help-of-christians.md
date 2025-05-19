@@ -15,7 +15,7 @@ By Fr. Conor Donnelly
 
 Today is the Feast of Our Lady Help of Christians.
 
-The tradition of this advocation goes back to the year 1571, when the whole of Christendom was saved by Mary Help of Christians when Catholics throughout Europe prayed the Rosary. The Great Battle of Lepanto occurred on October 7th 1571, and in 1573, Pope Pius V instituted this feast in thanksgiving for the decisive victory of Christianity over Islamism.
+The tradition of this advocation goes back to the year 1571, when the whole of Christendom was saved by Mary Help of Christians when Catholics throughout Europe prayed the Rosary. The great battle of Lepanto occurred on October 7, 1571, and in 1573, Pope Pius V instituted this feast in thanksgiving for the decisive victory of Christianity over Islamism.
 
 Near the end of the 17th century, Emperor Leo of Austria took refuge in the Shrine of Mary Help of Christians, when 200,000 Ottoman Turks besieged the capital city of Vienna.
 
@@ -23,7 +23,7 @@ But a great victory occurred, thanks to Mary Help of Christians. Vienna was fina
 
 In 1809, Napoleon\'s men entered the Vatican, arrested Pius VII, and brought him in chains to Grenoble, and eventually to Fontainebleau. His imprisonment lasted five years. The Holy Father vowed that if he were restored to the Roman See, he would institute a special feast in honor of Our Lady.
 
-Military reverses forced Napoleon to release the Pope, and on May 24th 1814, Pius VII returned to Rome in triumph. Twelve months later, the Pope decreed that the feast of Mary Help of Christians be kept on the 24th of May.
+Military reverses forced Napoleon to release the Pope, and on May 24, 1814, Pius VII returned to Rome in triumph. Twelve months later, the Pope decreed that the feast of Mary Help of Christians be kept on the 24th of May.
 
 St. John Bosco, who lived from 1815 to 1888, founder of the Salesian Order of Don Bosco Priests, had many prophetic dreams, beginning at the age of nine. These guided his ministry and gave him insights into future events.
 
@@ -33,7 +33,7 @@ He wrote about his congregation, the Salesians, saying: "The principal objective
 
 St. John Chrysostom was the first person to use this Marian title in the year 345. It\'s also associated with the defense of Christian Europe, the north of Africa, and the Middle East from non-Christian peoples during the Middle Ages.
 
-There are two inscriptions from the first centuries of Christianity in Greek that are related to Our Lady. The first one is *Theotokos*, which means Mother of God, very prominent around the time of the Council of Ephesus in 341, and the term *Boethea,* which means helper.
+There are two inscriptions from the first centuries of Christianity in Greek that are related to Our Lady. The first one is *Theotokos*, which means Mother of God, very prominent around the time of the Council of Ephesus in 341, and the term *Boethea*, which means helper.
 
 The Fathers of the Church referred to Our Lady as *Boethea*. That\'s why St. John Chrysostom used this title in the homily in 345. Many other Fathers of the Church used it, including St. John of Damascus in the year 749.
 
@@ -43,7 +43,7 @@ This invocation to Our Lady as the Help of Christians is part of the oldest of p
 
 The Second Vatican Council, in the Constitution of the Church, refers to this particular title, placing it in the context of Our Lady\'s maternal role.
 
-It says, \"In an utterly singular way, she cooperated by her obedience, faith, hope, and burning charity in the Savior\'s work of restoring supernatural life to souls. For this reason, she's a Mother to us in the order of grace. By her maternal charity, Mary cares for the brethren of her Son who still wander through this world on earth in the midst of dangers and difficulties, until they are led into the happiness of their true home" (*Lumen Gentium*, Points 61-62).
+It says, \"In an utterly singular way, she cooperated by her obedience, faith, hope, and burning charity in the Savior\'s work of restoring supernatural life to souls. For this reason, she's a Mother to us in the order of grace. ... By her maternal charity, Mary cares for the brethren of her Son who still wander through this world on earth in the midst of dangers and difficulties, until they are led into the happiness of their true home" (Vatican II, *Lumen gentium*, Points 61-62, November 21, 1964).
 
 The Church traditionally has focused on two aspects of Our Lady\'s help on this feast day. Firstly, the Church focuses in this feast on the role of Our Lady\'s intercession in the fight against sin in the life of a believer.
 
@@ -51,35 +51,35 @@ Secondly, the Church focuses on Our Lady as one who assists Christians as a comm
 
 In this month of May, when we fly to the protection of Our Lady, particularly by making pilgrimages to her shrines, we can be very mindful of her maternal role, asking her for particular things.
 
-Under this title, Our Lady is venerated by Chinese Catholics, particularly at the Shrine of Our Lady of Sheshan, the only minor papal basilica in mainland China. In May 2007, Pope Benedict designated the 24th of May her feast for the Catholics in China who face persecution and restriction from the Chinese Communist Party.
+Under this title, Our Lady is venerated by Chinese Catholics, particularly at the Shrine of Our Lady of Sheshan, the only minor papal basilica in mainland China. In May 2007, Pope Benedict designated the 24th of May her feast for the Catholics in China, who face persecution and restriction from the Chinese Communist Party.
 
 With great reason we invoke Our Lady today, asking her for all the help that we need, knowing that there\'s a great history of her helping each person who flies to her protection.
 
 Throughout her life, the Blessed Virgin must have been a source of consolation and support to anyone afflicted with a weight too heavy to bear alone. And so, as well as the Help of Christians, we also invoke her as Comforter of the Afflicted.
 
-She must have encouraged St. Joseph on that night in Bethlehem, when, as he explained their pressing need for lodging at one house after another, he found that no door would open to them. One smile from Our Lady would have been enough for him to find the strength to get ready and make the most of what he had found---a stable on the outskirts of that little town.
+She must have encouraged St. Joseph on that night in Bethlehem, when, as he explained their pressing need for lodging at one house after another, he found that no door would open to them (*cf*. Luke 2:7). One smile from Our Lady would have been enough for him to find the strength to get ready and make the most of what he had found---a stable on the outskirts of that little town.
 
-She would have been a tower of strength to him on the flight into Egypt, in helping him to set himself up in that country---a strange place, with no work, no support system.
+She would have been a tower of strength to him on the flight into Egypt and in helping him to set himself up in that country---a strange place, with no work, no support system.
 
 Joseph himself was a man of fortitude, but it would have been easier for him to do what he had to do to fulfill the Will of God when he was sustained and encouraged by Our Lady.
 
-In more recent times we have the witness of Pope St. John Paul, who took as his motto the terms *Totus Tuus* and erected an image of Our Lady in St. Peter\'s Square, with those very words, as a testimony for all time.
+In more recent times we have the witness of Pope St. John Paul, who took as his motto the terms Totus Tuus and erected an image of Our Lady in St. Peter\'s Square, with those very words, as a testimony for all time.
 
 It\'s said that just before the conclave began that was to elect him, John Paul went walking in the outskirts of Rome to a shrine of Our Lady, where he prayed for a long time.
 
 The neighbors of Our Lady in Nazareth must have always found encouragement and understanding in the words of Our Lady. The apostles found refuge in Our Lady\'s company when all had turned dark and meaningless after the death of Christ on the Cross.
 
-When they returned from placing the body of Besus in the tomb, at a time when families in Jerusalem were getting ready to celebrate the Paschal feast, the Apostles, who had fled, numb with shock and disoriented, turned almost automatically to Our Lady\'s house.
+When they returned from placing the body of Jesus in the tomb, at a time when families in Jerusalem were getting ready to celebrate the Paschal feast, the Apostles, who had fled numb with shock and disoriented, turned almost automatically to Our Lady\'s house.
 
-From then on, she\'s never ceased to comfort those who are oppressed by sorrow, loneliness, or suffering.
+From then on, she has never ceased to comfort those who are oppressed by sorrow, or loneliness, or suffering.
 
 One spiritual writer says: "She has sheltered innumerable Christians from persecution, freed many souls possessed by the devil or besieged by temptations, saved countless imperiled supplicants from anxiety. She has strengthened and helped many of the dying by reminding them as they lay on their deathbeds of the infinite merits of her Son" (Réginald Garrigou-Lagrange, *The Mother of the Savior*).
 
-If ever our life has become for us a misery, or we\'re overwhelmed by apparently insoluble difficulties, or crushed by illness, or daunted by seeming failure in our dedication to an apostolic task, if we\'re threatened by discouragement in the effort to bring up our family, and dismayed at the obstacles that just keep piling up, we need to turn to Our Lady. We will always find solace, encouragement, and the strength to fulfill the lovable Will of her Son.
+If ever our life has become for us a misery, or we\'re overwhelmed by apparently insoluble difficulties, or crushed by illness, or daunted by seeming failure in our dedication to an apostolic task, if we\'re threatened by discouragement in the effort to bring up our family and dismayed at the obstacles that just keep piling up, we need to turn to Our Lady. We will always find solace, encouragement, and the strength to fulfill the lovable Will of her Son.
 
 We\'ll be able to repeat those words, "Hail Holy Queen, Mother of Mercy, hail, our life, our sweetness, and our hope\..."
 
-In one of the writings of Blessed Alvaro del Portillo, he says, "*Con nuestra madre, que dulce es todo!* With our Mother, how sweet everything is!"
+In one of the writings of Blessed Álvaro del Portillo, he says, "*Con nuestra madre, que dulce es todo*! With our Mother, how sweet everything is!"
 
 Thus, from her, we learn how to console and hearten others in their struggle. We\'ll be compassionate to those who are in need of our help, in disasters, or in minor worries---a word of encouragement here, a word of condolence there---a merciful attitude that is so pleasing to Our Lord.
 
@@ -87,9 +87,11 @@ Our Lady is the Help of Christians because first of all we favor those we love, 
 
 In the Rosary we have "a powerful weapon" (Josemaría Escrivá, *Holy Rosary*) with which to overcome all the obstacles we meet along the way.
 
-Following the constant teaching of all the Roman Pontiffs, many Christians throughout the world have made the daily rosary a part of their life of piety. They recite it as a family prayer, or alone in a church, or walking in the street, or traveling in any form of transport. Sor Lucia at Fatima has said that we are reminded of God by simply taking hold of the beads.
+Following the constant teaching of all the Roman Pontiffs, many Christians throughout the world have made the daily Rosary a part of their life of piety. They recite it as a family prayer, or alone in a church, or walking in the street, or traveling in any form of transport. Sor Lucia at Fatima has said that we are reminded of God by simply taking hold of the beads.
 
-St. Josemaría quotes the Book of Sirach 24:25 which says: In me is to be found every grace of doctrine and of truth, every hope of life and virtue. "How wise," he says, the Church has been to put these words on Our Mother's lips, so that we Christians cannot forget them. She is our safety, the Love that never fails, the refuge ever open to us, the hand ever ready to caress and console (J. Escrivá, *Friends of God*, Point 279.)
+St. Josemaría quotes the Book of Ecclesiastes (Sirach) 24:25 which says: "In me is to be found every grace of doctrine and of truth, every hope of life and virtue."
+
+He says, "How wise the Church is to put these words on Our Mother's lips so that we Christians do not forget them. She is our safety, the Love that never fails, the refuge ever open to us, the hand ever ready to caress and console" (J. Escrivá, *Friends of God*, Point 279.)
 
 A wedding takes place in Cana of Galilee. The town is only a short distance from Nazareth, where Our Lady lives. As a friend or relation, she\'s present at this simple celebration, and Our Lord has been invited as well, with His disciples.
 
@@ -97,7 +99,7 @@ It was customary for women who knew the family well to help in the preparation o
 
 Jesus is there, her Son and her God; the Messiah has just begun His public preaching and ministry. She, better than anyone, knows this.
 
-We\'re presented with a simple and loving dialogue that takes place between the Mother and the Son (cf. John 2:1-12).
+We\'re presented with a simple and loving dialogue that takes place between the Mother and the Son (*cf*. John 2:1-12).
 
 The Mother of Jesus said to Him, "They have no wine." Without asking for anything, she points to a need. She teaches us how to pray.
 
@@ -109,13 +111,13 @@ Our Lady is a Mother who is more attentive to all our needs than any mother on e
 
 St. Alphonsus Liguori says, "Why do Mary\'s prayers have such efficacy before God? The prayers of the saints are the prayers of servants, whereas those of Mary are the prayers of a Mother, from which they receive their efficacy and authoritative character.
 
-"As Our Lord\'s love for His Mother is limitless she cannot ask for anything without being heard. ... Nobody asked the Blessed Virgin to intercede with her Son on the distressed couple\'s behalf.
+"As Our Lord\'s love for his Mother is limitless she cannot ask for anything without being heard. ... Nobody asked the Blessed Virgin to intercede with her Son on the distressed couple\'s behalf.
 
-"Above all, Mary\'s heart, which never fails to have pity on the unfortunate\...impelled her to take upon herself the task of intercessor and beg her Son for the miracle, even though nobody has asked her to. ... If Our Lady acted thus without being asked, how would it have been if they had asked?"
+"Above all, Mary\'s heart, which never fails to have pity on the unfortunate\...impelled her to take upon herself the task of intercessor and beg her Son for the miracle, even though nobody has asked her to. ... If Our Lady acted thus without being asked, how would it have been if they had asked?" (Alphonsus Liguori*, Abbreviated Sermons: On Trust in the Mother of God*).
 
 What will we not receive if we persist in turning to her again and again?
 
-John Paul II talks about Our Lady as Virgin Most Powerful. He says this is the name Christian piety has given to Our Mother Mary, because her Son is God and cannot refuse her anything.
+John Paul II talks about Our Lady as Virgin Most Powerful. He says this is the name Christian piety has given to Our Mother Mary, because her Son is God and cannot refuse her anything (*cf*. John Paul II, *Homily*, October 21, 1979).
 
 She\'s always aware of our spiritual and material needs; she desires, even more than we do, that we should not cease imploring her intercession before God on our behalf. There we are, so needy and sometimes so slow to ask. Sometimes we might be showing little trust or little patience when what we ask for seems a long time in coming.
 
@@ -125,41 +127,45 @@ If she obtained from her Son wine that was not absolutely necessary, will she no
 
 We\'re told in *The Forge*, Point 807, "I want, Lord, to abandon the care of all my affairs into your generous hands. Our Mother, your Mother---will have let you hear those words, now as in Cana: 'They have none!' I believe in you. I hope in you. I love you, Jesus. I want nothing for myself; it's for them."
 
-St. John calls Our Lady "Mother of God" twice (cf. John 2:1-3, 19:25). Between the two events---Cana and Calvary---there are several analogies. One occurrence is placed at the beginning and the other at the end of Our Lord\'s public life, as though to indicate that all of Our Lord\'s work is accompanied by Mary\'s presence.
+St. John calls Our Lady "Mother of God" twice (*cf*. John 2:1-3, 19:25). Between the two events---Cana and Calvary---there are several analogies. One occurrence is placed at the beginning and the other at the end of Our Lord\'s public life, as though to indicate that all of Our Lord\'s work is accompanied by Mary\'s presence.
 
 Both episodes highlight Mary\'s concern for men. In Cana she intercedes when the timing of her intervention might have seemed inopportune: "My hour has not yet come" (John 2:4). On Calvary she offers the redeeming death of her Son. She accepts the mission that Jesus confers on her of being the Mother of all believers (John 19:26).
 
 St. John Paul says, "At Cana in Galilee, there is shown only one concrete aspect of human need, apparently a tiny one and of little importance: 'They have no wine.' But it has a symbolic value: this coming to the aid of human needs means, at the same time, bringing those needs within the radius of Christ\'s Messianic mission and salvific power.
 
-"Thus, there is a mediation. Mary places herself between her Son and mankind in the reality of their wants, needs, and sufferings. In her position as mother, she puts herself 'in the middle.' She acts as Mediatrix, not as an outsider. She knows that in this way, she can point out to her Son the needs of mankind, and in fact, she 'has the right' to do so" (John Paul II, *Redemptoris Mater*).
+"Thus, there is a mediation. Mary places herself between her Son and mankind in the reality of their wants, needs, and sufferings. In her position as mother, she puts herself 'in the middle,' that is to say she acts as Mediatrix, not as an outsider. She knows that in this way, she can point out to her Son the needs of mankind, and in fact, she 'has the right' to do so" (John Paul II, *Redemptoris Mater*, Point 21, March 25, 1987).
 
 "His mother said to the servants, 'Do whatever he tells you.'" The servants obeyed readily and efficiently: "they filled six stone jars standing there for the Jewish rites of purification." St. John points out that "they filled them to the brim."
 
-"'Now draw some out,'" Our Lord said to them, "'and take it to the steward of the feast.'" It turns out the wine is better than any other wine that the men have ever drunk.
+"'Now draw some out,'" Our Lord said to them, "'and take it to the steward of the feast'" (John 2:5-8). It turns out the wine is better than any other wine that the men have ever drunk.
 
 Our lives, like the water, are flat and without the ferment of purpose until Jesus came to us. He transforms our work, our sorrows, and our joys; even death is different beside Christ.
 
 Our Lord only wants us to carry out our duties "to the brim"---right up to the top---finishing them off so well so that He can work a miracle.
 
-If all the people who work in universities, in hospitals, in the home, in finance, in factories were to do their work with human perfection and a Christian spirit, we will get up tomorrow morning to a completely different world. Our Lord will turn our efforts and our work, which otherwise would remain supernaturally sterile, into the most exquisite of wines.
+If all the people who work in universities, in hospitals, in the home, in finance, in factories were to do their work with human perfection and a Christian spirit, we will get up tomorrow morning to a completely different world.
 
-Then the world will be a wedding feast, a more worthy dwelling place for mankind, in which the presence of Jesus and Mary will imprint a special delight.
+Our Lord will turn our efforts and our work, which otherwise would remain supernaturally sterile, into the most exquisite of wines.
+
+Then the world will be a wedding feast, a more worthy dwelling place for mankind in which the presence of Jesus and Mary will imprint a special delight.
 
 'Fill the jars with water,' Our Lord says to us. We shouldn\'t let routine, our impatience, our laziness, cause us to only half-fulfill our daily duties.
 
-What we have to offer is very little; but Our Lord wants us to place it at His disposal. Our Lord could just as well have performed the miracle with empty jars, but He wanted men to cooperate with their own effort, and with all the means they had.
+What we have to offer is very little; but Our Lord wants us to place it at His disposal. Our Lord could just as well have performed the miracle with empty jars, but He wanted men to cooperate, with their own effort, and with all the means they had.
 
-He worked this great miracle at His mother\'s request. You could also think of the servants when they saw the water turned into wine. They, like the Master\'s disciples, whose faith in Jesus was confirmed, are silent witnesses of the miracle.
+He worked this great miracle at His Mother\'s request. You could also think of the servants when they saw the water turned into wine. They, like the Master\'s disciples, whose faith in Jesus was confirmed, are silent witnesses of the miracle.
 
 Our Lord always gives us more than we ask for. He doesn\'t refuse us anything. In particular, He gives us what we ask for through His Mother. She takes it upon herself to unravel our prayers if they\'re somewhat tangled up, just as mothers do.
 
-At Cana, an ordinary wine would have been enough, even one inferior to what had already been served, and probably a much smaller quantity would have been sufficient. But St. John tells us there were "six stone jars\...each holding twenty or thirty gallons."
+At Cana, an ordinary wine would have been enough, even one inferior to what had already been served, and probably a much smaller quantity would have been sufficient. But St. John tells us there were "six stone jars\...each holding twenty or thirty gallons" (John 2:6).
 
 Our Lord wants to show us how abundant His gift was, just as He would tell us when He performed the miracle of the multiplication of the loaves (John 6:12-13). One of the signs of the Messiah\'s coming was to be this very abundance.
 
 We can turn to Our Lady Help of Christians with great confidence, knowing that "no one who ever turned to her protection or asked for help was ever left unaided."
 
-But we also have to hear those same words that Our Lady said to the servants: "Do whatever he tells you." These were Our Lady\'s last words in the Gospel. There could have been no better words, no more profitable advice.
+But we also have to hear those same words that Our Lady said to the servants: "Do whatever he tells you" (John 2:5).
+
+These were Our Lady\'s last words in the Gospel. There could have been no better words, no more profitable advice.
 
 We could ask Our Lady that we might use well these last days of May, going frequently to her shrines on pilgrimage, or in other moments asking her for things that we need, maybe small little things, maybe big things, maybe great things, great apostolic horizons that God places in front of us.
 
