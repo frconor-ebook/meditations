@@ -3,13 +3,15 @@ layout: homily
 title: "Presence of God"
 ---
 
+By Fr. Conor Donnelly
+
 (*Proofread*)
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-The child whispered once, "God, speak to me.'\
+"The child whispered once, 'God, speak to me.'\
 And a meadowlark sang. The child did not hear.
 
 The child yelled, 'God, speak to me!\
@@ -26,10 +28,10 @@ Whereupon God reached down\
 And touched the child.
 
 But the child brushed the butterfly away\
-And walked away unknowingly\
+And walked away unknowingly."\
 (Ravindra Kumar Karnani, *And the Meadowlark Sang*).
 
-This meditation is about the presence of God in our life.
+This meditation is about the *presence of God* in our life.
 
 There was a priest and a professor in an ecclesiastical seminary in Rome. He'd been a popular professor of philosophy for almost thirty years. But he was also a very demanding professor.
 
@@ -65,7 +67,7 @@ The Father, the Son, and the Holy Spirit are continually within us. All we need 
 
 St. Paul says, "In him we live and move and have our being" (Acts 17:28).
 
-Pope St. John Paul II liked to say that in Christ we find the meaning and the purpose of our life. In turning to God frequently each day, we can find the meaning and the purpose of our life.
+St. John Paul II liked to say that in Christ we find the meaning and the purpose of our life (*cf*. John Paul II, *Homily*, World Youth Day, August 14, 1993). In turning to God frequently each day, we can find the meaning and the purpose of our life.
 
 The Psalms say, "As the deer longs for flowing streams, so my soul longs for you, O God. My soul thirsts for God, for the living God. When shall I come and behold the face of God?" (Ps. 42:1-2).
 
@@ -81,11 +83,11 @@ We could try to make a resolution to be more aware of the presence of God in the
 
 Growth in friendship with God requires interior recollection. The presence of the three divine Persons in our souls in grace is a living presence, which is open to our friendship: they are inviting us to get to know them and to love them. It\'s up to us to correspond.
 
-St. Augustine says, "Why climb the mountains or go down into the valleys of the world looking for him who dwells within us?" (St. Augustine, *De Trinitate*).
+St. Augustine says, "Why climb the mountains or go down into the valleys of the world looking for him who dwells within us?" (Augustine, *De Trinitate*).
 
-St. Gregory tells us, "As long as our mind is giddy with carnal images, it will never be able to contemplate\...because there are as many obstacles blinding it as there are thoughts pulling it here and there. Hence, for the soul to contemplate the invisible nature of God, the first step must be: let it be recollected within itself" (St. Gregory the Great, *Homilies on Ezechiel*).
+St. Gregory tells us, "As long as our mind is giddy with carnal images, it will never be able to contemplate\...because there are as many obstacles blinding it as there are thoughts pulling it here and there. Hence, for the soul to contemplate the invisible nature of God, the first step must be: let it be recollected within itself" (Gregory the Great, *Homilies on Ezechiel*).
 
-We turn to our soul, to our heart, we find God within, and having that spirit of finding God within, we can also find Him without, because "there is something...divine, hidden in the most ordinary human reality" (cf. Josemaría Escrivá, *Conversations*, Point 114).
+We turn to our soul, to our heart, we find God within, and having that spirit of finding God within, we can also find Him without, because "there is something...divine, hidden in the most ordinary human reality" (*cf*. Josemaría Escrivá, *Conversations*, Point 114).
 
 God may ask some people to withdraw from the world to achieve that recollection. But for the majority of Christians---housewives, students, employees---He wants us to find Him in the midst of our daily activities, and to achieve that recollection there.
 
@@ -101,7 +103,7 @@ She said, "It struck me in that moment that the Holy Spirit was speaking to me. 
 
 "When I saw the baby Jesus sitting on top of the washing, I thought, this is the message that the Holy Spirit is saying to me. This is where I have to find God each day."
 
-Then she wondered, How on earth did the baby Jesus get into the washing machine? She realized that her son had put the baby Jesus into the pocket of his trousers. The trousers went to the wash and out came the baby Jesus in the wash.
+Then she wondered: How on earth did the baby Jesus get into the washing machine? She realized that her son had put the baby Jesus into the pocket of his trousers. The trousers went to the wash and out came the baby Jesus in the wash.
 
 We keep our senses for God by means of ongoing mortification throughout the day. It\'s also the way to interior contentment. We find peace in the things of God.
 
@@ -117,23 +119,25 @@ It means having God as the center of our intentions in what we\'re doing and pla
 
 The opposite to interior recollection is dissipation and superficiality. In *The Way* we\'re told, "Dissipation---You stake your senses and faculties in whatever pool you meet on the way. And you can feel the results: unsettled purpose, scattered attention, deadened will, and quickened concupiscence. Subject yourself once again to a serious plan that will make you lead a Christian life, or you will never do anything worthwhile" (J. Escrivá, *The Way*, Point 375).
 
-Unless we\'re recollected, we cannot pay attention to God in the ordinary things of each day. The more we purify our heart and our senses, the more recollected we are, the more our soul will long for contact with God, "like the deer that yearns for running streams" (cf. Ps. 42:1).
+Unless we\'re recollected, we cannot pay attention to God in the ordinary things of each day. The more we purify our heart and our senses, the more recollected we are, the more our soul will long for contact with God, "like the deer that yearns for running streams" (*cf*. Ps. 42:1).
 
 We\'re told in *Friends of God*, "Our heart then needs to distinguish and adore each one of the divine Persons. The soul is, as it were, making a discovery in the supernatural life, like an infant opening his eyes to the world about him. The soul spends time lovingly with the Father and the Son and the Holy Spirit, and readily submits to the work of the life-giving Paraclete, who gives himself to us without any merit on our part" (J. Escrivá, *Friends of God*, Point 306).
 
-Our refuge and our strength lie in the love of God, expressed in the ordinary things of each day. I read an article once written by a housewife who talked about how to sanctify our home life. She talked about how she would get her children and her husband off to work in the morning. I think there were eight children.
+Our refuge and our strength lie in the love of God, expressed in the ordinary things of each day.
+
+I read an article once written by a housewife who talked about how to sanctify our home life. She talked about how she would get her children and her husband off to work in the morning. I think there were eight children.
 
 When they were all gone off to school and to work, she would breathe a sigh of relief, clear away the breakfast table, clean up the kitchen a little bit, and then go upstairs to make some beds.
 
 She said, "Every step of the stair is an opportunity for me to tell God how much I love Him."
 
-That's living presence of God in the ordinary things of each day, and using human reminders or human situations to remind us of God\'s presence. Because we are creatures of matter and spirit, we need material things to remind us often of the spiritual things.
+That's living *presence of God* in the ordinary things of each day, and using human reminders or human situations to remind us of God\'s presence. Because we are creatures of matter and spirit, we need material things to remind us often of the spiritual things.
 
 On His way to the Holy City, we\'re told, Jesus stops for a moment to express His disappointment at its rejection of His message: "O Jerusalem, Jerusalem\...How often I would have gathered your children together as a hen gathers her brood, but you did not want" (Luke 13:34).
 
 Our Lord emphasizes how we have to want. We have to go in that direction, make definite resolutions.
 
-A farmer in Canada once said how there was a fire on his farm, and he was surveying the damage some time later. He came across a chicken that had been cooked in the fire in the middle of the farmyard. Obviously, the chicken was cooked to a cinder.
+A farmer in Canada once said how there was a fire on his farm, and he was surveying the damage sometime later. He came across a chicken that had been cooked in the fire in the middle of the farmyard. Obviously, the chicken was cooked to a cinder.
 
 He gave it a good kick, and out from underneath the chicken ran four or five little chicks. Suddenly, he remembered this phrase of Scripture. He understood it with greater depth. "How often I would have gathered you as a hen gathers her brood."
 
@@ -145,9 +149,9 @@ The Psalmist says, "Keep me as the apple of your eye; hide me in the shadow of y
 
 "For you are my refuge, a strong tower against the enemy. Let me dwell in your tent forever! Oh, to be safe under the shelter of your wings!" (Ps. 61:3-4).
 
-It\'s a very good thing to try and have little aspirations, little phrases, that suit us for different situations or places, our feelings, our ups and downs, that can lead us to pray. They can be phrases from well-known prayers, like "our sweetness and our hope"---a phrase we find in the *Hail, Holy Queen.*
+It\'s a very good thing to try and have little aspirations, little phrases that suit us for different situations, or places, or feelings, or ups and downs, that can lead us to pray. They can be phrases from well-known prayers, like "our sweetness and our hope"---a phrase we find in the *Hail, Holy Queen.*
 
-It could be a phrase from some words of the Mass: "Do not look on my sins, O Lord, but on the faith of your children." "Lord, have mercy, Christ have mercy."
+It could be a phrase from some words of the Mass: "Do not look on my sins, O Lord, but on the faith of your children." "Lord, have mercy. Christ, have mercy."
 
 They could be some aspiration to Our Lady: Queen of peace, Help of Christians, Refuge of sinners, Morning Star.
 
@@ -159,13 +163,13 @@ At the close of that life, He will be Our Judge and Our Friend. He\'ll remember 
 
 Our Lord has wanted to remain present throughout the world, so that we might seek Him more readily for friendship and assistance, and turn to Him in all sorts of moments.
 
-"If we\'re suffering pain and discomfort, He will lighten our burden and comfort us"---perhaps reminding us that whatever we might suffer in this world, He has been there before. "And a sword has pierced His Mother\'s heart" (cf. Luke 2:35).
+"If we\'re suffering pain and discomfort, He will lighten our burden and comfort us"---perhaps reminding us that whatever we might suffer in this world, He has been there before. "And a sword has pierced His Mother\'s heart" (*cf*. Luke 2:35).
 
 "If we succumb to illness, He will either provide a remedy, or He will give us the strength to suffer it for the sake of eternal life"---to offer up in that moment that pain, or that difficulty, or that piece of bad news, or that contradiction, or that broken heart.
 
 "If we find ourselves at war with the devil and our passions, He\'ll supply us with arms for the battle, so that we can resist and ultimately be victorious." Virgin most faithful, Comforter of the afflicted, Mother of mercy.
 
-"If we are poor, He will enrich us with all kinds of good things in this life and in eternity" (St. Jean Vianney, *Sermon on Maundy Thursday*).
+"If we are poor, He will enrich us with all kinds of good things in this life and in eternity" (John Vianney, *Sermon on Maundy Thursday*).
 
 We need to make resolutions to seek His company every single day. From the moment we wake up, even before we get out of bed, our first thought can be a thought for God:
 
@@ -187,7 +191,7 @@ Then she went to her office. She was a lawyer. And as often happens in lawyers' 
 
 Her secretary came in and wondered what earthquake in reverse has hit this place. She found everything in such order. She told her, 'I\'m trying to do everything for the glory of God.'
 
-Then she went home that night, and she said, 'Every night I would watch the news with my husband. Halfway through the news, he would ask me to get him a cup of tea. Very grudgingly, I would go downstairs to make a cup of tea. But this time I had it ready for him. He asked me, What\'s happened? What\'s come over you?'
+Then she went home that night, and she said, 'Every night I would watch the news with my husband. Halfway through the news, he would ask me to get him a cup of tea. Very grudgingly, I would go downstairs to make a cup of tea. But this time I had it ready for him. He asked me: What\'s happened? What\'s come over you?'
 
 She said, 'I\'m doing everything for the glory of God.'
 
@@ -195,13 +199,13 @@ St. Basil says, "When you sit down at table, pray. When you eat your bread, give
 
 "When you\'re getting dressed, give thanks to the one who gave you these clothes. When you look up at the firmament and behold the beauty of the stars above, fall down at the feet of God and adore his infinite Wisdom that is manifest in all Creation.
 
-"Do the same at sunrise and sunset, when you\'re asleep and when you\'re awake. Give thanks to God who created all this wonder for your benefit, so that you might know, love and praise his name" (St. Basil, *Homilia in Julittam maritem*).
+"Do the same at sunrise and sunset, when you\'re asleep and when you\'re awake. Give thanks to God who created all this wonder for your benefit, so that you might know, love and praise his name" (Basil, *Homilia in Julittam maritem*).
 
 All the noble realities should serve to bring us to the Lord.
 
 And if some nights you can\'t sleep well, have recourse to your presence of God. Pray a little more. One saint used to say, 'Last night I slept a little less, but I prayed a little more.'
 
-As you move around with your children, try and teach them to live in the presence of God: to give thanks for this and thanks to God for that; to say the grace before meals, or the *Angelus*, or other little aspirations that they come across, so that they learn to pray and learn to realize where everything comes from.
+As you move around with your children, try and teach them to live in the presence of God: to give thanks for this and thanks to God for that; to say the *Grace Before Meals*, or the *Angelus*, or other little aspirations that they come across, so that they learn to pray and learn to realize where everything comes from.
 
 Confucius, the Chinese philosopher, says, "When you drink water, remember the source." As Christians in the middle of the world we have a lot of sources to remember.
 
@@ -215,13 +219,15 @@ If our love of God is authentic, it will shine out from and be appreciable in ev
 
 The Lord does not distance Himself from us. He wants us to live in His presence.
 
-We\'re told at the scene of the Transfiguration: "Immediately a cloud overshadowed them" (cf. Mark 9:7). It\'s a reminder of that other cloud that accompanied the presence of God in the Old Testament: "Then the cloud," we\'re told in the Book of Exodus, "covered the tent of meeting, and the glory...filled the tabernacle" (Ex. 40:34).
+We\'re told at the scene of the Transfiguration: "Immediately a cloud overshadowed them" (*cf*. Mark 9:7).
+
+It\'s a reminder of that other cloud that accompanied the presence of God in the Old Testament: "Then the cloud," we\'re told in the Book of Exodus, "covered the tent of meeting, and the glory...filled the tabernacle" (Ex. 40:34).
 
 It was the sign of divine intervention. "And the Lord said to Moses, 'Lo, I am coming to you in a thick cloud, that the people may hear when I speak with you, and may believe you forever'" (Ex. 19:9).
 
 At Mount Tabor, that cloud overshadows Christ, and the powerful voice of God the Father is heard coming from it: "This is my Son, my Chosen, listen to him" (Luke 9:35).
 
-God the Father speaks through Jesus Christ to men of all ages. His voice is heard in every age, in a particular way through the teaching of the Church, who, as John Paul says in his encyclical, "The Redeemer of Man*,*" his first encyclical, "continually seeks ways of bringing this mystery of her Master and Lord to humanity---to the peoples, the nations, the succeeding generations, and every individual human being" (John Paul II, *Redemptor hominis*, March 4, 1979).
+God the Father speaks through Jesus Christ to men of all ages. His voice is heard in every age, in a particular way through the teaching of the Church, who, as John Paul says in his encyclical, *The Redeemer of Man,* his first encyclical, "continually seeks ways of bringing this mystery of her Master and Lord to humanity---to the peoples, the nations, the succeeding generations, and every individual human being" (John Paul II, Encyclical, *Redemptor hominis*, Point 7, March 4, 1979).
 
 We can detect when the Holy Spirit is speaking to us. When certain words or phrases of other people, or something we read, strikes us in a special way, or something we hear in some preaching, somehow, it's engraved in our soul.
 
@@ -241,7 +247,7 @@ The Book of Wisdom says, "She hastens to make herself known to those who desire 
 
 He grants us the grace sometimes of feeling His presence. He desires that we should speak to Him as your most beloved friend. Tell Him about your feelings. One saint used to say, "Lord, I\'m fed up. I\'m tired." We share with Him the deep things that are going on in our heart.
 
-"Without waiting for you to come close to him, he hastens towards you," we're told, "when you seek his love, and he presents himself to you, granting you the graces and remedies that you need. He only waits for one word from you in order to show you that he is beside you and wants to listen to you and console you" (St. Alphonsus Liguori, *How to Converse with God*).
+"Without waiting for you to come close to him, he hastens towards you," we're told, "when you seek his love, and he presents himself to you, granting you the graces and remedies that you need. He only waits for one word from you in order to show you that he is beside you and wants to listen to you and console you" (Alphonsus Liguori, *How to Converse with God*).
 
 We\'re told in the Psalms, "His ears are towards their cry" (Ps. 34:15).
 
