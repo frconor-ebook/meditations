@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "The Prelate’s Saints Day"
+title: "The Prelate’s Saint’s Day"
 ---
 
 By Fr. Conor Donnelly
@@ -11,15 +11,15 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"I am the vine; you are the branches. Whoever remains in me, with me in him, bears fruit in plenty. For cut off from me you can do nothing" (John 15:5).
+"I am the vine, you are the branches. Whoever remains in me, with me in him, bears fruit in plenty; for cut off from me you can do nothing" (John 15:5).
 
 Our Lord emphasized on many occasions the importance of unity in this life. That has been transmitted throughout the whole Church and throughout the whole of history.
 
-In our supernatural family also, that comes to be very important. On days like today, we try to remember the Father in a very special way.
+In our supernatural family also, that comes to be very important. On days like today, we try to remember the Father \[Msgr. Fernando Ocáriz\] in a very special way.
 
 We offer everything to him. Also, we remind ourselves of the central role that the Father plays in the whole of this supernatural family to which we belong.
 
-God has given us one point of reference, to be "united to the vine" (cf. John 15:4). We have to have that very clear.
+God has given us one point of reference, to be "united to the vine" (*cf*. John 15:4). We have to have that very clear.
 
 One of the goals of our vocation is to live to support the Father---everything through him and with him. He is our pathway to Christ.
 
@@ -27,13 +27,13 @@ We know that everything that comes from him, therefore, is not just important, b
 
 We receive all sorts of spiritual nourishment from the Good Shepherd---things that we need for our soul, strengthening our interior life, strengthening our doctrine, binding us closer together, giving us a greater awareness of our role in this great supernatural family, what the Work is doing all over the world, how it has to support the Pope and the Church at this difficult time, and the role that the Prelate plays in all of that, in binding all these people together all over the world, to be that pillar that the Holy Father can rely on.
 
-Don Álvaro del Portillo wrote in 1975: "I want now," he says, "to spend a bit of time on the capital aspect of unity. In one of his letters, our Father left written some words which constitute, now and always, a palpable sign of the plans of God for His Work.
+Don Álvaro del Portillo wrote in 1975: "I want now," he says, "to spend a bit of time on the capital aspect of unity. In one of his letters, our Father \[St. Josemaría Escrivá\] left written some words which constitute, now and always, a palpable sign of the plans of God for His Work.
 
 "Our Father says, 'I cannot cease to lift up my grateful soul to Our Lord, from whom all fatherhood in heaven and earth comes (Eph. 3:15), for having given me this spiritual paternity, which, with his grace I have assumed with full consciousness of being on this earth only to carry it out. For this reason, I love you with the heart of a father and of a mother'" (Josemaría Escrivá, Letter, May 6, 1945).
 
 Don Álvaro had just received that spiritual paternity. He was contemplating on how our Father lived out that spiritual paternity---what it meant to him, the central importance of his life, being here on this earth for the sole purpose of living out that spiritual paternity.
 
-And now, Don Fernando Ocáriz has stepped into those shoes. It\'s up to each one of us to send that arterial blood to the Father, on a daily basis, maybe on an hourly basis.
+And now, Don Fernando \[Ocáriz\] has stepped into those shoes. It\'s up to each one of us to send that arterial blood to the Father, on a daily basis, maybe on an hourly basis.
 
 Our Father used to say, "If ever you have something that\'s a bit more difficult to do, or to carry out, if you offer it for my intentions, then that thing would become easier."
 
@@ -81,7 +81,7 @@ Lord, help me to make resolutions of greater unity, greater fidelity.
 
 If we feel the Holy Spirit is asking a little more from us at this point in time---possibly a greater humility, or a greater abandonment, or a greater apostolic zeal, or a greater docility, or a greater industriousness, or whatever it may be, some little area where Our Lord wants us to improve in a small way today, tomorrow, and the next day---we could ask Our Lord that we might apply ourselves to that goal, whatever it is He\'s asking of us, so that we can be better support for the Father.
 
-As we get older in our vocation, that becomes more important. Sometimes our Father would talk very strongly to the older members of the Work: the importance of their contribution, their fidelity, because so much depends on that, our being that sound pillar where God has placed us.
+As we get older in our vocation, that becomes more important. Sometimes our Father would talk very strongly to the older members of the Work: the importance of their contribution, their fidelity, because so much depends on that, or being that sound pillar where God has placed us.
 
 "I don\'t forget," he says, "those conclusions that our Father talked about after a certain family get-together. He said, 'I know that as your Father I will give an account to God of your fidelity, of how I\'ve helped you. But also, you have to give an account of how you\'ve supported the Father, so that he will be a person who struggles each day, with greater passion, to be united to Our Lord.'"
 
@@ -125,7 +125,7 @@ We can be sure that if the director is happy with us, if the Advisory is happy w
 
 We can thank Our Lord today also for the good shepherds that He has given to us, the special grace that He has given to the whole of Opus Dei, and to each one of us in particular.
 
-Very few people in the Church can "boast" in inverted commas, of the good shepherds that we have enjoyed in the past decades. Lord, may it continue for always.
+Very few people in the Church can "boast" (in inverted commas), of the good shepherds that we have enjoyed in the past decades. Lord, may it continue for always.
 
 Somebody said once that it\'s the quality of a great person that they prepare and they think of their successors. They don\'t see themselves as the world ending with their demise.
 
@@ -177,7 +177,7 @@ And all of this reaches the heart of the Father. That weight weighs on him, that
 
 "Loving the unity of the Work," he continues, quoting our Father, "means forming a part of this body, wherever we are placed."
 
-Our Father loved that phrase, "wherever we are placed," the phrase we hear frequently.
+Our Father loved that phrase, "wherever we are placed," a phrase we hear frequently.
 
 We form a part of this body, wherever we are. It means the same to us to be a hand as to be a foot; to be the tongue as to be the heart, because in all places and in all ways, we are all part of this body. We are one thing through the charity of Christ that unites us.
 
@@ -193,9 +193,9 @@ Lord, help me to have that vibration by the grace of the Holy Spirit, that vibra
 
 What are the apostolic horizons that Our Lord is placing before me during these days, and weeks, and months? Who are the people I need to regather a little bit closer or cast the net in their direction?
 
-Or what is the prayer that Our Lord wants from me in this great apostolic undertaking that we\'re involved in, so that the fruits reach every last soul, so that nothing is lost, so that with the passage of time and the decades, all the seeds that this apostolic work has sown may yield abundant fruit in the thousands of alumni all over the country, in the thousands or hundreds of pupils that we have at the moment, and the thousands that may come in the future. They are part of this great harvest.
+Or what is the prayer that Our Lord wants from me in this great apostolic undertaking that we\'re involved in, so that the fruits reach every last soul, so that nothing is lost, so that with the passage of time and the decades, all the seeds that this apostolic work has sown may yield abundant fruit in the thousands of alumni all over the country, in the hundreds of pupils that we have at the moment, and the thousands that may come in the future. They are part of this great harvest.
 
-Our Lord will ask us, How have you worked that harvest? What have you done? Have you offered things?
+Our Lord will ask us: How have you worked that harvest? What have you done? Have you offered things?
 
 We get a glimpse of the sort of things that are going through the Father\'s mind and heart today.
 
