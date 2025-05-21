@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "The Prelate’s Saint’s Day"
+title: "The Saint’s Day of the Prelate"
 ---
 
 By Fr. Conor Donnelly
