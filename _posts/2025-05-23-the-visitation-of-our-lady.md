@@ -45,13 +45,13 @@ She doesn\'t dilly-dally. It all happens in those days. She doesn\'t think about
 
 It's a marvelous picture of Our Lady that we receive in this particular event of her life.
 
-Pope John Paul liked to say that every vocation is like a pilgrimage of faith. And particularly, he calls the vocation of Our Lady a pilgrimage of faith faith (John Paul II, *General Audience*, March 21, 2001; Vatican II, *Lumen gentium*, Point 58).
+Pope John Paul liked to say that every vocation is like a pilgrimage of faith. And particularly, he calls the vocation of Our Lady a pilgrimage of faith (John Paul II, *General Audience*, March 21, 2001; Vatican II, *Lumen gentium*, Point 58).
 
 She seizes the opportunity. She goes on this journey. A pilgrimage is a journeying forward toward a destination.
 
 She goes forward with great faith and with great daring. There\'s initiative. There\'s dynamism. There\'s drive. There\'s intelligence. There\'s little regard for difficulties. There\'s a great supernatural vision. She\'s ready to overcome the obstacles.
 
-St. Josemaría liked very much a phrase of the Old Testament, which is a phrase of faith: "The waters will pass through the mountains"--*inter medium montium pertransibunt aquae* (Josemaría Escrivá, *The Way*, Point 12; *The Forge*, Point 283; Ps. 104:10).
+St. Josemaría liked very much a phrase of the Old Testament, which is a phrase of faith: "The waters will pass through the mountains"--*inter medium montium pertransibunt aquae* (Josemaría Escrivá, *The Way*, Point 12, *The Forge*, Point 283; Ps. 104:10).
 
 When rivers reach a mountain, they can\'t go over the mountain. Sometimes they can\'t go around the mountain. So the waters go through the mountains.
 
@@ -135,15 +135,15 @@ We could try to bring that wonderful prayer of Our Lady to our own personal pray
 
 Mary knew the mercy of God very well.
 
-"Mary, then," says John Paul II, "is the one who has the deepest knowledge of the mystery of God\'s mercy. She knows its price; she knows how great it is. In this sense," he says, "we call her the Mother of mercy: Our Lady of mercy, or Mother of divine mercy; in each one of these titles there is a deep theological meaning, because they express the special preparation of her soul, of her whole personality, so that she was able to perceive, through the complex events, first of Israel, then of every individual, of the whole of God\'s mercy and of his plans for salvation, that mercy of which 'from generation to generation' (Luke 1:50) people become sharers according to the eternal design of the most Holy Trinity" (John Paul II, Encyclical*, Dives in* *Misericordia*, November 13, 1980).
+"Mary, then," says John Paul II, "is the one who has the deepest knowledge of the mystery of God\'s mercy. She knows its price; she knows how great it is. In this sense," he says, "we call her the Mother of mercy: Our Lady of mercy, or Mother of divine mercy; in each one of these titles there is a deep theological meaning, because they express the special preparation of her soul, of her whole personality, so that she was able to perceive, through the complex events, first of Israel, then of every individual, of the whole of God\'s mercy and of his plans for salvation, that mercy of which 'from generation to generation' (Luke 1:50) people become sharers according to the eternal design of the most Holy Trinity" (John Paul II, Encyclical*, Dives in* *Misericordia*, Point 9, November 13, 1980).
 
 We are also told that Our Lady will lift up the lowly. She will put down the proud (*cf*. Luke 1:52).
 
-We're told *in Friends of God*, "When pride takes hold of a soul, it\'s of no surprise to find it bringing along with it a whole string of other vices: greed, self-indulgence, envy, injustice. The proud person is always vainly striving to dethrone God, who is merciful to all his creatures, so as to make room for himself and his ever-cruel ways."
+We're told in *Friends of God*, "When pride takes hold of a soul, it\'s of no surprise to find it bringing along with it a whole string of other vices: greed, self-indulgence, envy, injustice. The proud person is always vainly striving to dethrone God, who is merciful to all his creatures, so as to make room for himself and his ever-cruel ways."
 
 We're told that the Lord "has pulled down princes from their thrones and raised high the lowly. He has filled the starving with good things and sent the rich away empty" (Luke 1:52-53).
 
-"We should beg," said St. Josemaría, \[beg\] "God not to let us fall into this temptation. Pride is the worst sin of all, and the most ridiculous. If, with its multiple delusions, it manages to get a hold, the unfortunate victim begins to build up a facade, to fill himself with emptiness, and becomes conceited like the toad in the fable, which, in order to show off, puffed itself up until it burst.
+"We should beg God," said St. Josemaría, "not to let us fall into this temptation. Pride is the worst sin of all, and the most ridiculous. If, with its multiple delusions, it manages to get a hold, the unfortunate victim begins to build up a facade, to fill himself with emptiness, and becomes conceited like the toad in the fable, which, in order to show off, puffed itself up until it burst.
 
 "Pride is unpleasant, even from a human point of view. The person who rates himself better than everyone and everything is constantly studying himself and looking down on other people, who in turn react by ridiculing his foolish vanity" (J. Escrivá, *Friends of God*, Point 100).
 
