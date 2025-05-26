@@ -17,9 +17,9 @@ Today is the Solemnity of the Ascension of Our Lord. It\'s a feast of divine glo
 
 As He had resurrected from the dead by His own power, now He ascends into heaven by His own power. He has spent forty days recovering the apostles, strengthening their faith, confirming them in their doctrine, and giving them their mission. And now the whole mission of Christ on earth has come to an end. The Gospels end with the Ascension.
 
-The Ascension into heaven is the sixth Article of the Creed that we say every Sunday. With His Ascension, as with many other things, Christ proves that He is infinitely beyond any witchcraft or evil spirits or astral powers or crystals or horoscopes or psychic influences or new age gurus---not only in this life, but for all time.
+The Ascension into heaven is the sixth Article of *the Creed* that we say every Sunday. With His Ascension, as with many other things, Christ proves that He is infinitely beyond any witchcraft or evil spirits or astral powers or crystals or horoscopes or psychic influences or new age gurus---not only in this life, but for all time.
 
-"In Him we live and move and have our being" (Acts 17:28), says St. Paul. The Church is His living body on earth. "Nobody can have God as their Father if they do not have the Church as their mother" (cf. St. Cyprian, *The Unity of the Church*).
+"In him we live and move and have our being" (Acts 17:28), says St. Paul. The Church is His living body on earth. "Nobody can have God as their Father if they do not have the Church as their mother" (*cf*. St. Cyprian, *The Unity of the Church*).
 
 For forty days, Our Lord had continued to appear to His disciples. He had arranged to meet them in various places. And now, even that has come to an end. Pope Benedict said the Ascension is "the last act of our liberation from sin" (Benedict XVI, *Address*, May 20, 2012).
 
@@ -29,7 +29,7 @@ As Christ arose from the dead and ascended into heaven, so we will also do the s
 
 One of the last articles of the Creed speaks about the resurrection of the body. St. Leo continues, "Today, in fact, we are not only confirmed as possessors of paradise, but we have with Christ penetrated the heights of heaven" (Leo the Great, *Homily I on the Ascension*).
 
-Pope Benedict said, "This is why when the disciples saw the Master lifted up from the earth and carried on high, they were not seized by discouragement, but rather, they experienced a great joy and felt driven to proclaim Christ\'s victory over death (cf. Mark 16:20).
+Pope Benedict said, "This is why when the disciples saw the Master lifted up from the earth and carried on high, they were not seized by discouragement, but rather, they experienced a great joy and felt driven to proclaim Christ\'s victory over death (*cf*. Mark 16:20).
 
 "And the Risen Lord worked with them, giving to each one of them a particular charism, so that the whole Christian community," said Pope Benedict, "might reflect the harmonious richness of heaven" (Benedict XVI, *Regina Coeli*, May 20, 2012).
 
@@ -39,9 +39,9 @@ And so, the Ascension tells us that "our humanity is raised to the heights of Go
 
 One of the key words of the whole of the social teaching of the Church is the dignity of every human person. No animal will be lifted up into heaven, no matter how great that animal may be. We are on a completely different plane.
 
-"Every time we pray, the earth somehow joins heaven," Pope Benedict says, "and, like the smoke of burning incense, lifts high its sweet odor, so that when we raise up to the Lord our fervent and confident prayer in Christ, it passes through the heavens and reaches the throne of God, and it is heard and answered by God" (*Ibid*.).
+"Every time we pray, the earth somehow joins heaven," Pope Benedict says, "and, like the smoke of burning incense, lifts high its sweet odor, so that when we raise up to the Lord our fervent and confident prayer in Christ, it passes through the heavens and reaches the throne of God, and it is heard and answered by God" (*ibid*.).
 
-St. John of the Cross in the *Ascent of Mount Carmel* says that "to see the desires of our heart realized, there is no better way than to direct the energy of our prayer to the thing that most pleases God. For then, not only will He give us that which we ask of Him, which is salvation, but also that which He sees to be fitting and good for us, although we pray not for it."
+St. John of the Cross in the *Ascent of Mount Carmel* says that "to see the desires of our heart realized, there is no better way than to direct the energy of our prayer to the thing that most pleases God. For then, not only will he give us that which we ask of him, which is salvation, but also that which he sees to be fitting and good for us, although we pray not for it."
 
 Today is a special day, which signifies many things. Christ ascended, not only as God but as man. The whole person ascended. The head of the Mystical Body has gone before us into glory, and someday we can go there too. That makes today a day of hope.
 
@@ -63,9 +63,13 @@ We\'re told in the First Reading of today that the angels wake the apostles from
 
 It\'s as though the angels come along and clap their hands and say, 'Okay, let\'s get down to business; there\'s a job to be done. What are you doing looking up at the stars and looking up to heaven? Let's get back to work, let's get the ball rolling.' They\'re sort of saying, 'Keep your mind on the harvest.'
 
-Just as the angels said those words to the apostles, we could imagine the angels saying the same thing to us on a daily basis: What are you thinking about? Where is your mind? Are you focused on the great apostolic enterprise that God has left in the world, and the mission that He\'s given each one of us to continue, that has an expression to be found in the ordinary things this particular day---a mission that demands your prayer, your mortification, but also your action.
+Just as the angels said those words to the apostles, we could imagine the angels saying the same thing to us on a daily basis: What are you thinking about? Where is your mind?
 
-St. Josemaría says, "Today\'s feast reminds us that our concern for souls is a response to a command of love given to us by Our Lord. As he goes up into heaven," we\'re told in *Christ Is Passing By*, "Jesus sends us out as his witnesses throughout the whole world. Our responsibility is great, because to be Christ\'s witness implies, first of all, that we should try to behave according to his doctrine, that we should struggle to make our actions remind others of Jesus and his most lovable personality.
+Are you focused on the great apostolic enterprise that God has left in the world, and the mission that He\'s given each one of us to continue, that has an expression to be found in the ordinary things this particular day---a mission that demands your prayer, your mortification, but also your action.
+
+St. Josemaría says, "Today\'s feast reminds us that our concern for souls is a response to a command of love given to us by Our Lord.
+
+"As he goes up into heaven," we\'re told in *Christ Is Passing By*, "Jesus sends us out as his witnesses throughout the whole world. Our responsibility is great, because to be Christ\'s witness implies, first of all, that we should try to behave according to his doctrine, that we should struggle to make our actions remind others of Jesus and his most lovable personality.
 
 "We have to act in such a way that others will be able to say, when they meet us: this man is a Christian, because he does not hate, because he is willing to understand, because he is not a fanatic, because he is willing to make sacrifices, because he shows that he is a man of peace, because he knows how to love" (Josemaría Escrivá, *Christ Is Passing By,* Point 122).
 
@@ -87,7 +91,7 @@ How could it be possible that this man with whom they walked and ate and talked 
 
 Some of the apostles still doubted. Our Lord answered their doubts immediately: "All power in heaven and on earth has been given to me. Now go from here and make disciples of all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit" (Matt. 28:18-19).
 
-Our Lord proclaims the Blessed Trinity and empowers the disciples to bestow the life of the Trinity on the baptized---the greatest way to live. "Teach them to carry out everything I have commanded you, and know that I am with you until the end of time."
+Our Lord proclaims the Blessed Trinity and empowers the disciples to bestow the life of the Trinity on the baptized---the greatest way to live. "Teach them to carry out everything I have commanded you, and know that I am with you until the end of time" (Matt. 28:20).
 
 The learners are now sent, and how could these eleven transform the world?
 
@@ -113,7 +117,7 @@ The solemnity of the Ascension is not just a nice way to wrap up Easter. It\'s a
 
 Pope Benedict liked to say, "The meaning of Christ\'s Ascension expresses our belief that in Christ, the humanity that we all share has entered into the inner life of God in a new and hitherto unheard-of way. It means that man has found an everlasting place in God" (Joseph Ratzinger / Benedict XVI, *Dogma and Preaching: Applying Christian Doctrine to Daily Life).*
 
-He says it would be a mistake to interpret the Ascension as "the temporary absence of Christ from the world. Rather, we go to heaven to the extent that we go to Christ and enter into Him. Heaven is a person. Jesus Himself is what we call 'heaven.'"
+He says it would be a mistake to interpret the Ascension as "the temporary absence of Christ from the world. Rather, we go to heaven to the extent that we go to Christ and enter into Him. Heaven is a person. Jesus Himself is what we call 'heaven'" (*ibid*.).
 
 Very beautiful words from Pope Benedict. It helps us to see a little more about what this feast day is all about.
 
@@ -137,7 +141,7 @@ St. Leo the Great, in a sermon to commemorate today\'s Solemnity, said: "Today w
 
 The Ascension strengthens and nourishes that hope. It invites us always to lift up our heart, as the Preface of the Mass says, and to seek the things that are above.
 
-Our hope is very great because Christ has gone before us to prepare, as He told us, "a dwelling place" for us (cf. John 14:2).
+Our hope is very great because Christ has gone before us to prepare, as He told us, "a dwelling place" for us (*cf*. John 14:2).
 
 Our Lord is in heaven with His glorified body, and also with the signs of His redemptive sacrifice, with the marks of His Passion, marks which Thomas could see and touch (John 20:24-31), marks which bring about our salvation.
 
@@ -159,7 +163,7 @@ We\'re also invited to look on this feast day at the apostolic mission of the or
 
 "Like the apostles, we can remain somewhat saddened by his departure. ... He has gone to heaven, but at the same time, he has given himself to us as our nourishment in the sacred host. ...
 
-"We would like to go back and look at him closely again, as he sits down at the edge of the well, tired out from his journey (cf. John 4:6); or as he weeps for Lazarus (cf. John 11:35); or as he prays for a long time (cf. Luke 6:12); or when he felt pity for the crowd (cf. Matt. 15:32, Mark 8:2).
+"We would like to go back and look at him closely again, as he sits down at the edge of the well, tired out from his journey (*cf*. John 4:6); or as he weeps for Lazarus (*cf*. John 11:35); or as he prays for a long time (*cf*. Luke 6:12); or when he felt pity for the crowd (*cf*. Matt. 15:32, Mark 8:2).
 
 "It has always seemed logical to me that the most holy humanity of Christ should ascend to the glory of the Father. The ascension has always made me very happy. But I think that the sadness that is particular to the day of the ascension is also a proof of the love we feel for Jesus Christ, Our Lord.
 
@@ -169,7 +173,7 @@ The angels came and they told the apostles that it was now time for them to begi
 
 The urgency of the message of the angels is something that we could communicate to our own personal apostolic task every day. "Why do you keep looking up to heaven?" It\'s like an urgent call to action.
 
-With the Ascension, Our Lord\'s earthly mission comes to a close, and ours, as His disciples, begins. We may need to make a new beginning in that launching out into the deep (cf. Luke 5:4).
+With the Ascension, Our Lord\'s earthly mission comes to a close, and ours, as His disciples, begins. We may need to make a new beginning in that launching out into the deep (*cf*. Luke 5:4).
 
 We could hear the words of Our Lord which He said to the apostles, "I do not pray that you should take them out of the world, but that you would keep them from evil" (John 17:15).
 
