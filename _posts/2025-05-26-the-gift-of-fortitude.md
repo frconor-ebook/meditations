@@ -21,7 +21,7 @@ We\'re told by St. Paul: "So let us not become tired of doing good, for if we do
 
 Fortitude is one of the cardinal virtues, the "hinge virtues" on which many other virtues depend. It denotes an interior toughness, a backbone, a metal in the wheel, a very important virtue in the struggle for holiness.
 
-"The Lord is my light and my salvation," we\'re told in the Psalms, "---whom shall I fear? The Lord is the stronghold of my life---of whom shall I be afraid?\...Though a host encamps against me, my heart shall not fear; though war rises against me, yet I will be confident" (Ps. 27:1,3)
+"The Lord is my light and my salvation," we\'re told in the Psalms, "---whom shall I fear? The Lord is the stronghold of my life---of whom shall I be afraid? \... Though a host encamps against me, my heart shall not fear; though war rises against me, yet I will be confident" (Ps. 27:1,3)
 
 Very frequently in Scripture, we\'re encouraged to have this virtue. St. Peter says, "Stand up to him, strong in faith, and in the knowledge that it is the same kind of suffering that the community of your brothers throughout the world is undergoing" (1 Pet. 5:9).
 
@@ -31,7 +31,7 @@ We\'re told in St. Mark: "It was towards evening when Joseph of Arimathea arrive
 
 Joseph was a respected member of the council; he was somebody with prestige. But he went in to ask for the body of Jesus.
 
-Pilate might have crucified him there and then, also might have ruined his good name, but we\'re told, "He went in boldly into the presence of Pilate." It took a lot of courage, of daring to do what was right.
+Pilate might have crucified him there and then also, might have ruined his good name, but we\'re told, "He went in boldly into the presence of Pilate." It took a lot of courage, of daring to do what was right.
 
 "When they finished praying," we\'re told in the Acts of the Apostles, "the place where they were meeting was shaken. They were all filled with the Holy Spirit and began to proclaim God\'s message with boldness" (Acts 4:31).
 
@@ -63,31 +63,31 @@ Being a Christian involves a certain toughness---not an exterior toughness, but 
 
 St. Josemaría in *The Way* says: "Get used to saying No" (Josemaría Escrivá, *The Way*, Point 5). Not saying no to other people, but saying no to ourselves, to our whims and caprices.
 
-Fortitude is a moral virtue that ensures firmness in difficulties and constancy in the pursuit of the good.
+"Fortitude is a moral virtue that ensures firmness in difficulties and constancy in the pursuit of the good" (*Catechism of the Catholic Church*, Point 1808).
 
 There\'s another phrase in *The Way* where St. Josemaría says: "No ideal becomes a reality without sacrifice" (J. Escrivá, *The Way*, Point 175).
 
 Any great ideal that we have---that\'s worth achieving---has to cost. It takes time. It takes effort. But fortitude gives us a constancy.
 
-It strengthens the resolve to resist temptations, no matter where those temptations may be coming from or what type they may be, and to overcome all the obstacles in our moral life.
+"It strengthens the resolve to resist temptations," no matter where those temptations may be coming from or what type they may be, "and to overcome all the obstacles in the moral life" (*Catechism*, *ibid*.).
 
 We\'re all addicted to something. It could be alcohol. It could be pornography. It could be our laziness. It could be the television. It could be our phone. It could be drugs of some type.
 
 But all of these things can be overcome with prayer and sacrifice. But we need the virtue of fortitude, of toughness, to be able to do it.
 
-This virtue enables us to "conquer our fears, even fear of death, and to face trials and persecutions" (*Catechism of the Catholic Church*, Point 1808)---not to run away.
+This virtue enables us to "conquer our fears, even fear of death, and to face trials and persecutions" (*Catechism, ibid.*)---not to run away.
 
 Our Lady stood by the Cross (John 19:25). She wasn\'t sitting down or leaning up against the Cross. She\'s a picture of strength beside the Cross.
 
 This virtue disposes us even to renounce and sacrifice our life if necessary, in defense of a just cause.
 
-The Psalms say, "The Lord is my strength and my salvation" (Ps. 27:1).
+The Psalms say, "The Lord is my strength and my song" (Ps. 118:14).
 
 Our Lord says, "In the world you will have tribulation, but be of good cheer. I have overcome the world" (John 16:33).
 
 Christ has conquered. He\'s gone before us. St. Paul says, "I\'ve done my best in the race. I\'ve run the full distance. I've kept the faith" (2 Tim. 4:7).
 
-"I look forward to the prize. I don\'t consider what I\'ve achieved up to now to be enough, but I look forward. I keep my mind on the future" (cf. Phil. 3:13-14). This virtue keeps us from being content with our status quo.
+"I look forward to the prize. I don\'t consider what I\'ve achieved up to now to be enough, but I look forward. I keep my mind on the future" (*cf*. Phil. 3:13-14). This virtue keeps us from being content with our status quo.
 
 There was a baby eagle once that fell out of a nest. It fell on the ground. A mother hen came along and took care of the eagle and brought it up as one of its own broods. And so, the baby eagle learned how to search for worms and how to pick for little grains in the ground and to move around the place like the other little chickens.
 
@@ -145,7 +145,7 @@ Fortitude helps us to dominate our fear of suffering, to control our moods, our 
 
 We can ask Our Lord for the grace to grow in this important virtue, so we control our impulses, control excessive anger if sometimes it comes along. We might need to be angry at certain situations.
 
-Cardinal Nguyễn Văn Thuận says, "God has given you the gift of life. He\'s also given you the freedom to make that life holy and wonderfully effective, or to misuse it, so as to stunt that life, betraying God\'s gift and turning it into evil."
+Cardinal Nguyễn Văn Thuận says, "God has given you the gift of life. He\'s also given you the freedom to make that life holy and wonderfully effective, or to misuse it, so as to stunt that life, betraying God\'s gift and turning it into evil" (Nguyễn Văn Thuận, *The Road of Hope: A Gospel from Prison*, Point 195).
 
 We can spend our life doing stupid things. We can waste our time, we can waste our youth, our energies, our talents, our abilities, our opportunities.
 
@@ -153,11 +153,11 @@ God has left us free and so we need the fortitude to say the things that need to
 
 There was a guy in class once who heard a professor say certain things that he thought were not quite right and were a bit insulting to the Church and to moral teaching.
 
-He put up his hand and said: 'Well, sir, I think what you\'re saying is not quite to the point. I think the reality is more like this, this and this.'
+He put up his hand and said: 'Well, sir, I think what you\'re saying is not quite to the point. I think the reality is more like this, this, and this.'
 
 The professor got very annoyed with this impertinent student, more or less, and said, 'How dare you? You come and see me in my room after class.'
 
-The guy was very disappointed at the bad reaction of the teacher. He says, 'Now I\'m in big trouble. He might throw me out of the class. He might not allow me to do the exam. He might throw me out of the faculty.'
+The guy was very disappointed at the bad reaction of the teacher. He says, 'Now I\'m in big trouble. He might throw me out of the class. He might not allow me to do the exam. He might throw me out of the Faculty.'
 
 Then he remembered a phrase from Scripture, where Our Lord said, "Do not fear when you are brought before governors and princes on my account...because I will place on your lips what needs to be said at that moment" (Matt. 10:17,19).
 
@@ -173,25 +173,27 @@ The professor said, 'Keep going to that place.' The guy was a bit surprised: 'Ke
 
 Then the professor said, 'When I was your age, I used to go to that place, and they were trying to get me to change my life. But I didn\'t have the courage or the generosity to do so. Ever since then, I\'ve spent half my life saying stupid things and the other half trying to justify what I was saying. So keep going to that place.'
 
-The student came out of the class saying: 'Thank you, Holy Spirit, Thank you, Holy Spirit.'
+The student came out of the class saying: 'Thank you, Holy Spirit! Thank you, Holy Spirit!'
 
 Friction with other people can be a normal part of life. The only place where there\'s no friction is in the kingdom of heaven.
 
-But by means of that friction, a stone can become smoother, rounder, cleaner, more beautiful. Sometimes, we need fortitude in our interactions with other people, to carry on, to smile, to be kind, to be charitable, in spite of the little pinpricks we might receive.
+But, "by means of that friction, a stone can become smoother, rounder, cleaner, more beautiful" (Văn Thuận, *ibid*., Point 211).
+
+Sometimes, we need fortitude in our interactions with other people, to carry on, to smile, to be kind, to be charitable, in spite of the little pinpricks we might receive.
 
 "God has created you to lead others," said Văn Thuận, "not to be led about like a sheep and the rest of the flock. To lead means to urge, to encourage, and to carry others along with you."
 
-He says, "When confronted by obstacles, stand firm as a rock. The grace of God will never be lacking."
+He says, "When confronted by obstacles, stand firm as a rock. The grace of God will never be lacking" (Văn Thuận, *ibid*., Points 214, 219).
 
 No matter what mountains may place themselves in front of us---professionally, in our marriage, in our family, in our interior life, in the battle to acquire virtue---one great truth we have in our life is that the grace of God will never be lacking.
 
 Even if we might have to temporarily curtail some activities, don\'t worry, the work we\'re doing is more God\'s work than our own.
 
-The father of St. Bernadette Soubirous of Lourdes, when he took her to the convent where she was to enter, laid down one condition with the other nuns. He said: 'Don\'t force my daughter to eat cheese; it would kill her.'
+The father of St. Bernadette Soubirous of Lourdes, when he took her to the convent where she was to enter, laid down one condition with the other nuns. He said: 'Don\'t force my daughter to eat cheese---it would kill her.'
 
 Thereafter, day after day, for seven long years, Bernadette was forced to try and eat that cheese that was placed in front of her. It was a big battle. She struggled at every meal. She said to herself, 'I must eat the cheese, I can\'t eat it, I must eat the cheese.'
 
-Eventually, she triumphed over herself. Such was her courage, fortitude, perseverance, that eventually she was able to eat it. That fortitude in just a small battle was what made her a saint.
+"Eventually, she triumphed over herself, and such was her courage," fortitude, perseverance, that eventually "she was able to eat it. That fortitude in just a small battle was what made her a saint" (Văn Thuận, *ibid*., Point 229).
 
 We all have something that we find difficult or unpleasant, something that we don\'t enjoy eating.
 
@@ -205,13 +207,13 @@ No matter what our defects, or our miseries, or how dull we are, or how bad we a
 
 Somebody said, "One\'s quality is never an accident, it's always the result of high intention, sincere effort, intelligent direction, and skillful execution; it represents the wise choice of many alternatives" (ascribed to William Foster).
 
-Football coach Vince Lombardi said, "The quality of a person\'s life is in direct proportion to their commitment to excellence, regardless of their chosen field of endeavor."
+\[Football coach Vince Lombardi\] said, "The quality of a person\'s life is in direct proportion to their commitment to excellence, regardless of their chosen field of endeavor."
 
 That\'s what Christ has placed before us. He invites us to strive for excellence. "Be you perfect, as your heavenly Father is perfect" (Matt. 5:48). That means He wants us to be a fighter.
 
 Christ fell down three times on the way to Calvary. But He got up again.
 
-Somebody said once, "Our chief want in life is to have somebody who will make us do what we can" (Ralph Waldo Emerson). All great athletes have a trainer. All Premier League football teams have a coach, a manager, who pushes them.
+Somebody said once, "Our chief want in life is to have somebody who will make us do what we can" (Ralph Waldo Emerson, *Self-Reliance*). All great athletes have a trainer. All Premier League football teams have a coach, a manager, who pushes them.
 
 I heard of a school in Ireland many years ago where the nuns used to make the girls run around the hockey pitch in the snow, in the middle of winter. Not barefoot, obviously.
 
@@ -229,7 +231,7 @@ God invites us to hang in there. We\'re told in St. Luke, "By your patience you 
 
 Patience is one of the virtues that\'s part of fortitude. St. Josemaría said, "The possession of the soul is attributed to patience, which in effect is the root and guardian of all the virtues. We secure possession of our souls through patience, for by learning to have dominion over ourselves, we begin to possess what we are" (J. Escrivá, *Friends of God*, Point 78).
 
-There are many times in Our Lady\'s life when she practiced this virtue. She went into the hill country, climbed the mountains, went upwards. She stood beside the Cross, she went here, she went there (Luke 1:39, John 19:25).
+There were many times in Our Lady\'s life when she practiced this virtue. She went into the hill country, climbed the mountains, went upwards. She stood beside the Cross, she went here, she went there (Luke 1:39, John 19:25).
 
 St. Thomas More said, "This is not the stuff of which martyrs are made" (Robert Bolt, *A Man For All Seasons*), aware of his own nothingness. But yet he went forth to accept the will of God.
 
