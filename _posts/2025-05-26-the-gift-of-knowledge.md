@@ -11,7 +11,7 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"I have spoken these things. ... Because I have spoken these things, sorrow has filled your heart. But I speak the truth to you: it is expedient for you that I depart, for if I do not go, the Advocate will not come to you. But if I go, I will send him to you. And when he has come, he will convict the world of sin and of justice and of judgment: of sin, because they do not believe in me; of justice, because I go to the Father, and you will see me no more; of judgment, because the Prince of this world has already been judged (John 16:1, 4-11)
+"Because I have spoken these things, sorrow has filled your heart. But I speak the truth to you: it is expedient for you that I depart, for if I do not go, the Advocate will not come to you. But if I go, I will send him to you. And when he has come, he will convict the world of sin and of justice and of judgment: of sin, because they do not believe in me; of justice, because I go to the Father, and you will see me no more; of judgment, because the Prince of this world has already been judged" (John 16:4-11).
 
 We are finding this week that the Scripture readings that we have in the Mass speak more and more of the Holy Spirit, the Advocate. This week and next week, we are sort of being prepared little by little for the great Feast of Pentecost.
 
@@ -43,7 +43,7 @@ St. John of the Cross says, "Creatures are, as it were, a trace of the passing o
 
 Everything that God has created, including human persons obviously, contains a trace of God. We can see God in people, in places, in things.
 
-St. Josemaría liked to say that "there is something divine, hidden in the most ordinary human reality, and it\'s up to each one of us to discover it" (Josemaría Escrivá, Conversations, Point 114).
+St. Josemaría liked to say that "there is something divine, hidden in the most ordinary human reality, and it\'s up to each one of us to discover it" (Josemaría Escrivá, *Conversations*, Point 114).
 
 Sometimes it might not be screaming at us. We have to discover it, we have to look for it, we have to find it. We have to want to see it, that true value that there is in this particular thing. Its value is very much tied up in how it is in the sight of God.
 
@@ -91,7 +91,7 @@ One of the things that Our Lord has called us to do is to lift up this world, to
 
 St. Paul says, "In all that you do, in eating and in drinking, give glory to God" (1 Cor. 10:31). It\'s a very powerful phrase.
 
-When we\'re making our bed in the morning, we can give glory to God. When we\'re putting a chair correctly under a table, we can give glory to God. When we\'re putting a fork down on a table, pressing a button on a machine, or polishing a floor, we can give glory to God. Or in a classroom, or with our friends. "In all that you do," says St. Paul, "in eating and in drinking, give glory to God."
+When we\'re making our bed in the morning, we can give glory to God. When we\'re putting a chair correctly under a table, we can give glory to God. When we\'re putting a fork down on a table, or pressing a button on a machine, or polishing a floor, we can give glory to God. Or in a classroom, or with our friends. "In all that you do," says St. Paul, "in eating and in drinking, give glory to God."
 
 There was a lady once in Singapore who came to a class that I was giving, and I happened to make that quotation during the class.
 
@@ -107,7 +107,7 @@ She said, 'I went home that night, and usually I watch the news at nine with my 
 
 She said, 'I\'m trying to give glory to God.' So she got an awful lot of mileage out of that particular phrase.
 
-The Holy Spirit enables us to see the greater things that are hidden deep in human realities. It leads us to contemplate the wisdom, the power, and the goodness of God, to see his nature reflected in created things.
+The Holy Spirit enables us to see the greater things that are hidden deep in human realities. It leads us to contemplate the wisdom, the power, and the goodness of God, to see His nature reflected in created things.
 
 It\'s "a contemplative gift." One writer says it "enables us to see the very mystery of God" (Michel-Marie Philipon, *The Gifts of the Holy Spirit*), the greatness of Him and ultimately, that "God is love" (1 John 4:8,16).
 
@@ -123,7 +123,7 @@ This gift is a supernatural disposition whereby the soul participates in God\'s 
 
 Man\'s final end is to be with God forever in heaven. We have an intellect and a will. Our intellect is directed toward truth, and our will is directed towards good.
 
-But we find that all the truths and the goodness in this world don\'t fully satisfy us. You may have one day a tremendous piece of *ugali*or of *chapati*, and you say, 'That was just fantastic. That was really good.'
+But we find that all the truths and the goodness in this world don\'t fully satisfy us. You may have one day a tremendous piece of *ugali*or *chapati*, and you say, 'That was just fantastic. That was really good.'
 
 You might tend to say, 'I am now perfectly satisfied. I don\'t need any more *ugali* or *chapati* for the rest of my life. Because I have been so completely and infinitely satisfied.'
 
@@ -147,7 +147,7 @@ The hymn says, "All works of the Lord, bless the Lord; praise and bless him fore
 
 All the things that God has created, invite them to give Him glory.
 
-"Light and darkness...mountains and hills...plants...springs...seas and rivers...whales and fish...birds of the air...wild beasts and cattle...priests of the Lord...spirits and souls of the righteous...the holy and humble in heart, praise and thank him because his mercy is everlasting" (cf. Dan. 3:57-90).
+"Light and darkness...mountains and hills...plants...springs...seas and rivers...whales and fish...birds of the air...wild beasts and cattle...priests of the Lord...spirits and souls of the righteous...the holy and humble in heart, praise and thank him because his mercy is everlasting" (*cf*. Dan. 3:57-90).
 
 We remind ourselves of these realities on a regular basis. We remind ourselves of the purpose of Creation.
 
@@ -181,7 +181,7 @@ We try and look to the things that are of real value. Know the real worth of thi
 
 There\'s an educationalist in the States who says that young people tend to idolize celebrities. But, he says, most celebrities in the world are jerks, so they\'re worshipping the wrong people---the Hollywood stars, the red carpet, all these things we hear of on a regular basis.
 
-He said, 'We\'ve got to look to people that have really lived good lives, done worthwhile things, inspiring things, people who\'ve changed the world."
+He said, "We\'ve got to look to people that have really lived good lives, done worthwhile things, inspiring things, people who\'ve changed the world."
 
 The Church invites us to look at the saints who lived their lives for God, who did decent things with their life, didn\'t waste their time, practiced virtue, concerned themselves with other people, with helping people in the world to make the world a better place.
 
@@ -199,7 +199,7 @@ We can fall into sin very quickly, making improper use of the things that God ha
 
 But that also leads us then to walk along the right paths that can bring us closer to God---pathways of prayer, of the sacraments, of living in the state of grace.
 
-A knowledge also that helps us to see our own misery: "I am nothing." St. Josemaría liked to use those words frequently. "I am nothing, I have nothing, I can do nothing" (cf. J. Escrivá, *Friends of God*, Point 215).
+A knowledge also that helps us to see our own misery: "I am nothing." St. Josemaría liked to use those words frequently. "I am nothing, I have nothing, I can do nothing" (*cf*. J. Escrivá, *Friends of God*, Point 215).
 
 It\'s God who does everything through me. That\'s why we give all the glory to God. We can spend our days thanking Him for the gifts He\'s given us: that we have two arms and two legs, that we have a mind that we can go to school and to college and learn things and grow.
 
@@ -213,7 +213,7 @@ We know there are many people not too far away from us that God has perhaps not 
 
 That realization can lead us to want to turn to Him more frequently, with a greater knowledge of who we are, in humility. 'Lord, I am nothing. But with you beside me, I can do everything.'
 
-St. Josemaría used to say, "We\'re just one big zero" (cf. J. Escrivá, *Friends of God*, Point 473). But beside us, there\'s a greater one, and that means we\'re all of an eternal value, of great worth, because God is with us.
+St. Josemaría used to say, "We\'re just one big zero" (*cf*. J. Escrivá, *Friends of God*, Point 473). But beside us, there\'s a greater one, and that means we\'re all of an eternal value, of great worth, because God is with us.
 
 Through this gift then, we learn to discern between the things that lead us to God and things that separate us from Him. We come to see what are the *occasions of sin*: This is a cul-de-sac. This is the wrong road. I can\'t go down this way.
 
@@ -237,11 +237,11 @@ Christians who must sanctify themselves in the middle of the world have a partic
 
 Through it a housewife discovers how her work at home is a way to God if it\'s done with an upright, honest intention and with a desire to please God; a student learns that study is the ordinary way to love God, do apostolate, and serve society; for an architect, the way to God is through plans and drawings; for a nurse, her care of the sick.
 
-We understand that we must love the world and temporal affairs and come to discover the truth of those words that St. Josemaria taught, "There is something holy, something divine hidden in the most ordinary situations, and it\'s up to each one of us to discover it" (J. Escrivá, *Conversations*, Point 114).
+We understand that we must love the world and temporal affairs and come to discover the truth of those words that St. Josemaría taught, "There is something holy, something divine hidden in the most ordinary situations, and it\'s up to each one of us to discover it" (J. Escrivá, *Conversations*, Point 114).
 
 As we move towards Pentecost, we can ask for this great gift and increase it, so that in the course of our life, we grow to have a great knowledge.
 
-St. Josemaría says, "When a Christian carries out with love the most insignificant everyday action, that action overflows with the transcendence of God. That\'s why I\'ve told you repeatedly and hammered away once and again at the idea that the Christian vocation consists in making heroic works out of the prose of each day" (*Ibid*., Point 115).
+St. Josemaría says, "When a Christian carries out with love the most insignificant everyday action, that action overflows with the transcendence of God. That\'s why I\'ve told you repeatedly and hammered away once and again at the idea that the Christian vocation consists in making heroic works out of the prose of each day" (*ibid*., Point 115).
 
 We can ask Our Lady, that she might help us to obtain a greater amount of this virtue. The Book of Sirach in the Old Testament says she is "the mother of fair love, of fear, of knowledge, and of holy hope" (Sir. 24:24). Our Mother can obtain for us than a greater amount of this gift.
 
