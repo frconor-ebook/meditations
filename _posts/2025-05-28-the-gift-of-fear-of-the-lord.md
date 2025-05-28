@@ -17,11 +17,11 @@ These words from the Bible tell us that fearing the Lord and recognizing His sov
 
 Men must learn to correctly judge themselves with regard to God. This is a gift that the Holy Spirit gives us, a gift of fear of the Lord, a right type of fear.
 
-If we meditate well on the passing nature of this life and the fact that it comes to an end, then we are protected from a certain pride which always precedes defeat.
+If we meditate well on the passing nature of this life and the fact that it comes to an end, then we are protected from a certain pride, which always precedes defeat.
 
 The anxiety and the fear that can affect man when he reflects on his futility from the beginning to the end of his existence are transformed to fear and respect for the Lord, filled with wonder and admiration.
 
-St. Teresa of Ávila says, "Let nothing frighten you, because he who follows God possesses everything, because God\'s love is present in Jesus Christ, and neither death nor evil will any longer be capable of damaging mankind."
+St. Teresa of Ávila says, "Let nothing frighten you, because he who follows God possesses everything, because God\'s love is present in Jesus Christ, and neither death nor evil will any longer be capable of damaging mankind" (Teresa of Ávila, *The Book of Her* *Life*).
 
 St. Paul says, "Neither the heights nor the depths nor any creative thing whatever will be able to come between us and the love of God known to us in Christ Jesus our Lord" (Rom. 8:39)**.**
 
@@ -35,7 +35,7 @@ St. John Damascene said, "When facing God, His Creator and Redeemer, man loses a
 
 "It is the very spirit," says St. Paul, "that has filled our hearts and makes us say to God, 'Abba! Father!'" (Gal. 4:6)**.** Come, Father!
 
-That also includes the fear of God and the seven gifts of the Spirit, we\'re told in Isaiah 11:2.
+That also includes the fear of God and the seven gifts of the Spirit, we\'re told in Isaiah (Isa. 11:2).
 
 Fearing the Lord allows us to preserve a certain correct relation between the detachment and the closeness of the creatures to God.
 
@@ -59,31 +59,27 @@ It was also the sentiment of the unfaithful and wicked servant in the Gospel par
 
 He had the wrong type of fear. He feared God because he thought He was a very exacting master.
 
-This type of fear is not the true concept of the fear which is the gift of the Holy Spirit.
+"This type of fear is not the true concept of the fear which is the gift of the Holy Spirit. It\'s a matter of something more noble and lofty; it is the sincere and reverential feeling that a person experiences before the tremendous majesty of God, particularly when he reflects upon his own infidelities and the danger of being 'found wanting' (Dan. 5:27) at the eternal judgment which no one can escape" (John Paul II, *Angelus*, June 11, 1989).
 
-It\'s a matter of something more noble and lofty; it\'s a sincere and reverential feeling that a person experiences before the tremendous majesty of God, particularly when he reflects upon his own infidelity and the danger of being "found wanting" (Dan. 5:27) at the eternal judgment which no one can escape.
-
-The believer places Himself before God with a contrite spirit and a humble heart. "A humble and contrite heart, O Lord, you will not spurn" (Ps. 51:17).
+The believer places Himself before God with a contrite spirit and a humble heart. "A humble and contrite heart, O Lord, you will not spurn" (Psalm 51:17).
 
 Knowing well that he must await his own salvation, St. Paul says, "with fear and trembling" (Phil. 2:12).
 
-That doesn\'t mean an irrational type of fear, but a sense of responsibility and fidelity to the law.
+"That doesn\'t mean an irrational type of fear, but a sense of responsibility and fidelity to the law. All this is why the Holy Spirit takes up and elevates the gift of the fear of the Lord.
 
-All this is why the Holy Spirit takes up and elevates the gift of the fear of the Lord. Yet at the same time, it doesn\'t exclude the trepidation that may arise from awareness of faults we have committed and the prospect of divine chastisement, but it mitigates it with faith in the divine mercy and with the certitude of the Fatherly concern of God who wills the eternal salvation of each one of us.
+"Yet at the same time, it does not exclude the trepidation that may arise from awareness of faults we have committed and the prospect of divine chastisement, but it mitigates it with faith in the divine mercy and with the certitude of the Fatherly concern of God who wills the eternal salvation of each one of us" (John Paul II, *ibid*.).
 
-The father of the prodigal son in the parable gives us a very good picture of God Our Father always looking out for his son. He sees him a long way off. He\'s filled with joy. My son is coming back, filled with mercy.
+The father of the prodigal son in the parable gives us a very good picture of God Our Father always looking out for His son. He sees him a long way off. He\'s filled with joy. My son is coming back, filled with mercy.
 
-The older son, by contrast, has no mercy for his brother. He\'s full of righteousness and justice, but no mercy. There\'s no love there, whereas Our Father God is full of love.
+The older son, by contrast, has no mercy for his brother. He\'s full of righteousness and justice, but no mercy. There\'s no love there, whereas Our Father God is full of love (Luke 15:11-32).
 
-The Holy Spirit instills in our souls a filial love, which is a sentiment rooted in the love of God.
-
-The soul becomes concerned not to displease God, whom he loves as a Father, but rather, to "abide in Him" and grow in charity (cf. John 15:4).
+"The Holy Spirit instills in our souls a filial love, which is a sentiment rooted in the love of God. The soul becomes concerned not to displease God, whom he loves as a Father, but rather, to 'abide in him' (*cf*. John 15:4) and grow in charity" (*ibid*.).
 
 The soul who has this gift doesn\'t just look at the mortal sins or even the venial sins, or come to Confession with a calculating mentality, but looks at the details.
 
 Have I neglected God in some way? Have I had a tender love for Jesus? Have I shown that tender love in concrete ways?
 
-Padre Pio told a lady who came to him for Confession who had missed Mass the previous Sunday, but didn\'t really mean to miss Mass. It was sort of circumstances, and so she didn\'t confess it, but he could read her soul. He said to her, "I know you didn\'t commit a mortal sin, but your negligence hurt our Lord."
+Padre Pio told a lady who came to him for Confession who had missed Mass the previous Sunday, but didn\'t really mean to miss Mass. It was sort of circumstances, and so she didn\'t confess it, but he could read her soul. He said to her, "I know you didn\'t commit a mortal sin, but your negligence hurt Our Lord."
 
 We have to try and function in the realm of negligence, having that sensitivity, that refinement in our spiritual life, so that we flee from all things that may offend God.
 
@@ -121,7 +117,7 @@ There can be two results: an immense respect for God\'s majesty, a deep discernm
 
 The latter one is more important since this was the only one present in Christ and in Our Lady. This gift of fear enables us to acknowledge our nothingness before God.
 
-"I am nothing, I can do nothing, I have nothing" (cf. Josemaría Escrivá, *Friends of God*, Point 215).
+"I am nothing, I can do nothing, I have nothing" (*cf*. Josemaría Escrivá, *Friends of God*, Point 215).
 
 We might frequently repeat those words of St. Josemaría, which he liked to say, while at the same time realizing the incalculable grandeur of knowing oneself and of being a child of God.
 
@@ -145,7 +141,7 @@ At particular moments in our life we all need to repeat insistently, as an urgen
 
 We try to reject all sin. Love and fear need to be companions along our way.
 
-St. Gregory of Nyssa said, "When love banishes fear, fear itself is changed into love" (Gregory of Nyssa, *Homily* 15 on the Song of Songs).
+St. Gregory of Nyssa said, "When love banishes fear, fear itself is changed into love" (Gregory of Nyssa, *Homily 15 on the Song of Songs*).
 
 It is the fear of a child who loves his Father without reserve, and who will allow nothing in the world to distance him from that Father.
 
@@ -173,9 +169,9 @@ The way to do it is through the divinization wrought in us by grace---a rather b
 
 If we have a sense of sin, if we have a great refinement in our spiritual life, then we\'ll have a great refinement with Our Lord. We will love our weekly appointment for Confession, or those other moments in the Mass when the Blessed Eucharist comes into our souls in grace.
 
-"If we are to try to banish this evil from our life...we first of all have to try and ensure that our dispositions, both habitual and actual, are those of a clear aversion to sin, so that we don\'t dialogue with temptation; we flee.
+We\'re told in *Friends of God*, "If we are to try to banish this evil from our life...we first of all have to try and ensure that our dispositions, both habitual and actual, are those of a clear aversion to sin," so that we don\'t dialogue with temptation; we flee.
 
-"Sincerely," we\'re told in *Friends of God*, "in a manly way, we must develop, both in our heart and in our mind, a sense of horror from mortal sin. We must also cultivate a deep-seated hatred of deliberate venial sin, those negligences which, while they don\'t deprive us of God\'s grace, do serve to obstruct the channels through which grace comes to us" (J. Escrivá, *Friends of God*, Point 243).
+"Sincerely, in a manly way, we must develop, both in our heart and in our mind, a sense of horror from mortal sin. We must also cultivate a deep-seated hatred of deliberate venial sin, those negligences which, while they don\'t deprive us of God\'s grace, do serve to obstruct the channels through which grace comes to us" (J. Escrivá, *Friends of God*, Point 243).
 
 We have to try and keep those channels open, clean, free-flowing, not presenting any obstacles.
 
@@ -189,17 +185,17 @@ That consideration of death and the Last Things can dispose us to receive more f
 
 Our Lord tells us in Scripture, in many ways, and on many occasions, that there\'s only one thing that we need to be afraid of, and that is sin, because that takes away our friendship with God.
 
-Confronted with any difficulty, any situation, an uncertain future, we have no reason to fear. We should be strong and courageous as befits children of God because we know we\'re carried in the palm of the hand of a God who loves us.
+Confronted with any difficulty, any situation, an uncertain future, we have no reason to fear. We should be strong and courageous as befits children of God because we know we\'re carried "in the palm of the hand of a God" (*cf*. Isa. 49:16) who loves us.
 
 A Christian cannot live in terror, but should have in his heart a holy fear of God, whom he loves madly.
 
-Throughout the Gospel, Our Lord "repeats many times, 'Do not fear...do not be afraid...do not let your hearts be troubled.' And at the same time, with those appeals for fortitude, there\'s also the exhortation: 'Rather fear him who can destroy both body and soul in hell' (Matt. 10:28)."
+Throughout the Gospel, Our Lord "repeats many times, 'Do not fear...do not be afraid...do not let your hearts be troubled.' And at the same time, with those appeals for fortitude, there\'s also the exhortation: 'Rather fear him who can destroy both body and soul in hell'' (Matt. 10:28).
 
 John Paul II said, "We are called to fortitude and at the same time to fear of God...and this should be a fear that comes of love, a filial fear. And only when this fear sinks into our hearts can we be really strong with the strength of the apostles, the martyrs, and the confessors" (John Paul II, *Address*, June 30, 1979).
 
 Among the principal effects which the fear of God works in our souls are detachment from created things, and an interior attitude of vigilance to avoid the least occasion of sin.
 
-"The whole soul," said Saint Paul, "develops a certain sensitivity to discern whatever can grieve the Holy Spirit" (Eph. 4:30).
+The whole soul develops a certain sensitivity to discern, St. Paul said, "whatever can grieve the Holy Spirit" (Eph. 4:30).
 
 The gift of fear lies at the root of humility, because it shows the soul its own fragility and teaches it the need of maintaining a will faithfully and lovingly subjected to the infinite Majesty of God.
 
@@ -217,7 +213,7 @@ The practical directives of the gift of counsel maintain us in an untiring battl
 
 The holy fear of God will lead us to savor contrition easily and repentance arising from that filial love.
 
-St. Teresa says, "Love and fear of God! These are two strong castles where we can manage to wage war on the world and on the devils" (St. Teresa of Ávila, *The Way of Perfection*).
+St. Teresa says, "Love and fear of God! These are two strong castles where we can manage to wage war on the world and on the devils" (Teresa of Ávila, *The Way of Perfection*).
 
 The holy fear of God will lead us to a prudent mistrust of ourselves so as to free ourselves quickly from the occasions of sin.
 
@@ -225,7 +221,7 @@ Lord, I don\'t trust myself. I can\'t be in certain situations. I know myself. I
 
 It inclines us to a greater sensitivity for God and all that refers to God. We could ask the Holy Spirit to help us, by means of this gift, to recognize our faults sincerely and to feel true sorrow for them.
 
-May the Holy Spirit make us react like the Psalmist when he says, "My eyes shed streams of tears, because men do not keep your law" (Ps. 118:136).
+May the Holy Spirit make us react like the Psalmist when he says, "My eyes shed streams of tears, because men do not keep your law" (Ps. 119:136).
 
 We can pray that with a sensitive soul, we may always keep our sense of sin alive.
 
@@ -233,7 +229,7 @@ We ask the Holy Spirit, that He may generously pour out this gift of the holy fe
 
 We invoke Him through the intercession of her who, at the message from the heavenly messenger, "was greatly troubled" (Luke 1:29) and, although perturbed by the unimagined responsibility that was being entrusted to her, she was able to pronounce her *fiat* of faith: "Let it be done to me according to your word" (Luke 1:38).
 
-Mary responds with faith, obedience, and of love.
+Mary responds with faith, obedience, and love.
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
