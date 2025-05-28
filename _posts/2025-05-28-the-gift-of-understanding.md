@@ -33,23 +33,23 @@ Time and again throughout the Old Testament we find all the outstanding figures 
 
 And King David asked, "Give me understanding, that I may keep your law and observe it with my whole heart" (Ps. 119:34).
 
-Our Lord promises us the Spirit of truth whose mission is to illumine the whole Church (cf. John 16:13).
+Our Lord promises us the Spirit of truth whose mission is to illumine the whole Church (*cf*. John 16:13).
 
-He "completed and perfected Revelation," we\'re told in the Second Vatican Council, "and confirmed it with divine guarantees. He did this by the total fact of his presence and self-manifestation, by words and works, signs and miracles...and by sending the Spirit of truth" (Vatican II, *Dei Verbum*, November 18, 1965).
+He "completed and perfected Revelation," we\'re told in the Second Vatican Council, "and confirmed it with divine guarantees. He did this by the total fact of his presence and self-manifestation, by words and works, signs and miracles...and by sending the Spirit of truth" (Vatican II, *Dei verbum*, Point 4, November 18, 1965).
 
 It was only later that the apostles fully understood the words of Our Lord. They needed that gift of understanding that came with the descent of the Holy Spirit.
 
-St. Paul VI has said, "The Holy Spirit is the soul of the Church. It is He who explains to the faithful the deep meaning of the teaching of Jesus and of His mystery" (Paul VI, Apostolic Exhortation, *Evangelii nuntiandi*, December 8, 1975).
+St. Paul VI has said, "The Holy Spirit is the soul of the Church. It is He who explains to the faithful the deep meaning of the teaching of Jesus and of His mystery" (Paul VI, Apostolic Exhortation, *Evangelii nuntiandi*, Point 75, December 8, 1975).
 
 We can ask the Holy Spirit for a deeper amount of that gift of understanding so that we can penetrate in a deeper way the beautiful and wonderful mysteries of our faith that God has made known to us.
 
-*Dei Verbum* of the Second Vatican Council says the Holy Spirit brings us to an initial understanding of the truths of faith and then "constantly perfects faith by His gifts, so that Revelation may be more and more profoundly understood."
+*Dei verbum* of the Second Vatican Council says the Holy Spirit brings us to an initial understanding of the truths of faith and then "constantly perfects faith by his gifts, so that Revelation may be more and more profoundly understood" (Vatican II, *Dei verbum*, Point 5, November 18, 1965).
 
 The Holy Spirit may give us a certain light to understand certain things, but that\'s not the end. He is continually leading us forward to a deeper understanding.
 
 All through our life we can get a deeper grasp of the mysteries of our faith. It\'s one of the reasons why ongoing formation is very important.
 
-We don\'t know in what talk or spiritual reading or meditation or recollection or retreat that we\'re going to get some new light from the Holy Spirit,, that may be an incredible insight into some mystery that we have not seen before.
+We don\'t know in what talk or spiritual reading or meditation or recollection or retreat that we\'re going to get some new light from the Holy Spirit, that may be an incredible insight into some mystery that we have not seen before.
 
 We always have to have an antenna up, ready to catch the wind of the Holy Spirit as it comes. That is why in the Church also there is what\'s called "theological progress."
 
@@ -63,15 +63,15 @@ We can understand better why the Pope and the bishops have said certain things, 
 
 The Holy Spirit then illumines our mind with a most powerful light, so that we see things in a greater way, which before we possibly only saw dimly.
 
-One writer says it often happens that "we know some mystery for quite a while; we have heard something and thought about it; but all of a sudden, we see it in a new light. It\'s as though we had not understood it all at all until then" (Alexis Riaud, *The Action of the Holy Spirit in Souls*).
+One writer says it often happens that "we know some mystery for quite a while; we have heard something and thought about it; but all of a sudden, we see it in a new light. It is as though we had not understood it all at all until then" (Alexis Riaud, *The Action of the Holy Spirit in Souls*).
 
 Under the influence of the Holy Spirit a Christian has a greater certainty in believing. Through this gift, everything is much clearer.
 
-Lord, give us a greater understanding. Under this light, supernatural truths can give us indescribable joy, a joy which is a foretaste of heaven.
+Lord, give us a greater understanding. Under His light, supernatural truths can give us indescribable joy, a joy which is a foretaste of heaven.
 
 Deep in his soul and heart, a Christian can have this profound joy, because we see the truth and the beauty and the richness of the truths of our faith.
 
-Thanks to this gift, St. Thomas Aquinas says, "God is glimpsed here below" (Thomas Aquinas, *Summa Theologiae*, Question 69). This happens to those who are pure and docile to the inspirations of the Holy Spirit.
+Thanks to this gift, St. Thomas Aquinas says, "God is glimpsed here below" (Thomas Aquinas, *Summa Theologiae*, I-II, Question 69). This happens to those who are pure and docile to the inspirations of the Holy Spirit.
 
 "Blessed are the clean of heart, for they shall see God" (Matt. 5:8). We see things clearer, but at the same time, all the mysteries of faith are covered in a cloak of mystery or a certain obscurity.
 
@@ -83,7 +83,7 @@ This gift of understanding helps us to see all things with supernatural vision. 
 
 When we look at them from a supernatural perspective, that\'s when we see them as God sees them.
 
-Understanding helps us to reverence the greatness of God, to pay him filial affection, and judge certain things rightly.
+Understanding helps us to reverence the greatness of God, to pay Him filial affection, and judge certain things rightly.
 
 One spiritual writer says, "Little by little, in the measure in which love grows in the soul, a person\'s mind reflects more and more the splendor of God" (M. M. Philipon, *The Gifts of the Holy Spirit*).
 
@@ -111,11 +111,11 @@ Even in the middle of apparently human tragedies, there can be great spiritual m
 
 The experience of the disciples on the road of Emmaus is renewed. They recognize the risen Lord in the breaking of the bread. They said, "Were not our hearts burning within us while he spoke to us on the way and opened the Scriptures to us?" (Luke 24:32).
 
-This supernatural intelligence is given not only to individuals, but also to the community: to bishops who, as successors of the apostles, are heirs to the specific promise made to them by Our Lord (cf. John 14:26; 16:13): "I will be with you always, even until the end of the world" (Matt. 28:20); and also, to the faithful who, thanks to this 'anointing' of the Spirit (cf. 1 John 2:20,27), possess a certain *sensus fide*, a "sense of the faith" which guides them in their concrete choices.
+This supernatural intelligence is given not only to individuals, but also to the community: to bishops who, as successors of the apostles, are heirs to the specific promise made to them by Our Lord (*cf*. John 14:26; 16:13): "I will be with you always, even until the end of the world" (Matt. 28:20); and also, to the faithful who, thanks to this 'anointing' of the Spirit (*cf*. 1 John 2:20,27), possess a certain *sensus fide*, a "sense of the faith" which guides them in their concrete choices.
 
 The light of the Spirit, while it sharpens our understanding of divine things, helps us to have a deeper understanding also, more clear and more penetrating of human things, so that we can see the divine in the human.
 
-"There is something divine hidden in the most ordinary human realities" (Josemaría Escrivá, *Conversations*, Point 114). That helps us to see better the many signs of God which are written in creation. God speaks to us through people, places, events, through the beauty of nature, the trees, the stars, and the sky.
+"There is something divine hidden in the most ordinary human realities" (Josemaría Escrivá, *Conversations*, Point 114). That helps us to see better the many signs of God which are written in creation. God speaks to us through people, places, events, through the beauty of nature, the trees, the stars, the sky.
 
 St. Thomas Aquinas says we go to God through the things that He has created. We find that God is always speaking to us through all these things.
 
@@ -211,7 +211,7 @@ If we want to make progress along the road of holiness, we have to foster an int
 
 We need to mortify our internal senses---our imagination, our memory, keeping useless thoughts at bay. In our external senses, we have to struggle to be conscious of God, seeing the hand of God behind the ups and downs of life.
 
-We also need to purify our hearts, because only the pure heart can see God. "Blessed are the clean of heart, for they shall see God" (cf. Matt. 5:8).
+We also need to purify our hearts, because only the pure heart can see God. "Blessed are the clean of heart, for they shall see God" (*cf*. Matt. 5:8).
 
 If we have a lack of purity, if we're too attached to the goods of the earth, if we give our body all it wants, then we dull the soul\'s interest in the things for God.
 
@@ -231,7 +231,7 @@ That's one of the requests we could make of the Holy Spirit these days: Lead me 
 
 "We start," he continues, "with vocal prayers which many of us have been saying since we were children. ... First one brief aspiration, then another, and another...till our fervor seems insufficient, because words are too poor...then this gives way to intimacy with God, looking at God without needing rest or feeling tired. We begin to live as captives, as prisoners.
 
-"And while we carry out as perfectly as we can (with all our mistakes and limitations) the tasks allotted to us by our situation and duties, our soul longs to escape. It is drawn towards God like iron drawn by a magnet. One begins to love Jesus, in a more effective way, with the sweet and gentle surprise of the encounter" (*Ibid*., Point 296).
+"And while we carry out as perfectly as we can (with all our mistakes and limitations) the tasks allotted to us by our situation and duties, our soul longs to escape. It is drawn towards God like iron drawn by a magnet. One begins to love Jesus, in a more effective way, with the sweet and gentle surprise of the encounter" (*ibid*., Point 296).
 
 Notice how St. Josemaría talks about "one brief aspiration, then another, and another." It can be an easy way to teach little children how to pray.
 
@@ -239,17 +239,19 @@ Little phrases. Little things we see in the readings of the Mass or in the litur
 
 We form that soul, especially during those early years, and have the Holy Spirit work with great ease in that soul.
 
-He says, "Our heart now needs to distinguish and adore each one of the divine Persons. The soul is, as it were, making a discovery in the supernatural life, like a little child opening his eyes to the world about him. The soul spends time lovingly with the Father and the Son and the Holy Spirit, and readily submits to the work of the life-giving Paraclete, who gives himself to us with no merit on our part, bestowing his gifts and the supernatural virtues!" (*Ibid*., Point 306).
+He says, "Our heart now needs to distinguish and adore each one of the divine Persons. The soul is, as it were, making a discovery in the supernatural life, like a little child opening his eyes to the world about him. The soul spends time lovingly with the Father and the Son and the Holy Spirit, and readily submits to the work of the life-giving Paraclete, who gives himself to us with no merit on our part, bestowing his gifts and the supernatural virtues!" (*ibid*., Point 306).
 
 We are reminded that Our Lady, who had the fullness of grace, and also, the fullness of the gifts of the Holy Spirit---we could ask her to teach us to come close to her and to love the Paraclete always, but in a special way during these days of preparation for Pentecost.
 
 Mary, don't allow us to remain stuck halfway along the road that leads to holiness, the goal that we are called to.
 
-We can use the intercession of Our Lady to invoke the Holy Spirit. She is the listening Virgin, who, in the light of the Spirit, was able to read tirelessly the deep meaning of the mysteries which the Almighty had worked in her (cf. Luke 2:19, 51).
+We can use the intercession of Our Lady to invoke the Holy Spirit. She is the listening Virgin, who, in the light of the Spirit, was able to read tirelessly the deep meaning of the mysteries which the Almighty had worked in her.
 
 The contemplation of the wonders of God will also be for us the source of inexhaustible joy.
 
-Mary "treasured all these things carefully in her heart." She must have got great joy from going over and over in her mind the wonderful mysteries of God that led her to proclaim in the Magnificat:
+Mary "treasured all these things carefully in her heart" (Luke 2:19, 51).
+
+She must have got great joy from going over and over in her mind the wonderful mysteries of God that led her to proclaim in the Magnificat:
 
 "My soul magnifies the Lord, and my spirit rejoices in God my Savior" (Luke 1:46).
 
