@@ -49,7 +49,7 @@ The Book of Proverbs says, "Because the Lord gives wisdom, and out of his mouth 
 
 Through the world of nature and grace, the Holy Spirit enables us to perceive and contemplate the infinite wisdom, power, and goodness of God. God\'s nature is reflected in all things.
 
-Through this gift, we\'re told in *Christ Is Passing By*, a Christian perceives and understands that "all creation, the movement of the earth and the other heavenly bodies, the good actions of creatures and all the good that has been achieved in history, in short, everything, comes from God and is directed towards him (Josemaría Escrivá, *Christ Is Passing By*, Point 130).
+Through this gift, we\'re told in *Christ Is Passing By*, a Christian perceives and understands that "all creation, the movement of the earth and the other heavenly bodies, the good actions of creatures and all the good that has been achieved in history, in short, everything, comes from God and is directed towards him" (Josemaría Escrivá, *Christ Is Passing By*, Point 130).
 
 Truly, the Christian will be able to say, says the Book of Wisdom, that wisdom "guided him on straight paths. She showed him the kingdom of God and gave him knowledge of the angels (Wis. 10:10).
 
@@ -65,7 +65,7 @@ In an Encyclical called "Faith and Reason," John Paul II says, "The wisdom named
 
 In that same document, it says, "It is no accident that when the sacred author comes to describe the wise man, he portrays him as one who loves and seeks the truth."
 
-He quotes from the Book of Sirach: "'Happy the man who meditates on wisdom and reasons intelligently, who reflects in his heart on her ways and ponders her secrets. He pursues her like a hunter and lies in wait on her paths. He peers through her windows and listens at her doors. He camps near her house and fastens his tent-peg to her walls; he pitches his tent near her and so finds an excellent resting place; he places his children under her protection and lodges under her boughs; by her he is sheltered from the heat and he dwells in the shade of her glory' (Sir. 14:20-27)" (*ibid*., Point 16).
+He quotes from the Book of Sirach: "'Happy the man who meditates on wisdom and reasons intelligently, who reflects in his heart on her ways and ponders her secrets. He pursues her like a hunter and lies in wait on her paths. He peers through her windows and listens at her doors. He camps near her house and fastens his tent-peg to her walls; he pitches his tent near her and so finds an excellent resting place; he places his children under her protection and lodges under her boughs; by her he is sheltered from the heat and he dwells in the shade of her glory (Sir. 14:20-27)'" (*ibid*., Point 16).
 
 We can see from the Old Testament this is a gift that is highly valued, highly to be appreciated.
 
@@ -87,7 +87,7 @@ Like the other gifts of the Holy Spirit, wisdom accompanies sanctifying grace, m
 
 "What is specific to wisdom is that it makes the soul responsive to the Holy Spirit in the contemplation of divine things and in the use of God\'s ideas to judge both created and divine matters" (Gregory D. Gaston, *The Gift of Wisdom*).
 
-"This discernment is nourished by the light and strength of the Holy Spirit, who evokes everywhere and in all circumstances, obedience to the faith, the joyous courage of following Jesus, and the gift of wisdom, which 'judges all things and is judged by no one' (*cf*. 1 Cor. 2:15). It rests on the fidelity of the Father to his promises." (John Paul II, Apostolic Exhortation*, Pastores dabo vobis*, Point 10, March, 25, 1992).
+"This discernment is nourished by the light and strength of the Holy Spirit, who evokes everywhere and in all circumstances, obedience to the faith, the joyous courage of following Jesus, and the gift of wisdom, which 'judges all things and is judged by no one' (*cf*. 1 Cor. 2:15). It rests on the fidelity of the Father to his promises" (John Paul II, Apostolic Exhortation*, Pastores dabo vobis*, Point 10, March 25, 1992).
 
 "The spiritual person can assess the value of everything, and that person\'s value cannot be assessed by anybody else" (1 Cor. 2:15).
 
@@ -115,7 +115,7 @@ The soul then falls into a type of blindness in which it is unable to recognize 
 
 You could say that "true wisdom is a participation in the mind of God" (John Paul II, *General Audience*, January 29, 2003), guides our life and our decision, gives us a loving knowledge of God and of people and of created things insofar as they refer to Him.
 
-It\'s connected with the virtue of charity, because it bestows a special knowledge of God and others, and prepares the soul for "a certain experience of the sweetness of God" (*cf*. Thomas Aquinas, *Summa Theologiae*), both in himself and in created things, insofar as they refer to Him.
+It\'s connected with the virtue of charity, because it bestows a special knowledge of God and others, and prepares the soul for "a certain experience of the sweetness of God" (*cf*. Thomas Aquinas, *Summa Theologiae*, I-II, Point 112), both in himself and in created things, insofar as they refer to Him.
 
 With this gift, united with charity, we are better able to live in harmony with others. Every day we see opportunities to help people, to serve them.
 
@@ -173,7 +173,7 @@ When we grow in this virtue, we get an "interior conformation to Christ, the Wis
 
 Every time we read our Gospel each day and we look at the words of the Mass, the different scriptural texts, or listen to the Gospel there, we get exposed to profound wisdom. Greater than that doesn\'t exist.
 
-"The divine Word," we are told in the Book of Hebrews, "after being spoken of old in many and various ways to our fathers through the prophets, has been sent in these last days to men and women in the very person of the Son (*cf*. Heb. 1:1-2).
+"The divine Word," we are told in the Book of Hebrews, "after being spoken of old in many and various ways to our fathers through the prophets, has been sent in these last days to men and women in the very person of the Son" (*cf*. Heb. 1:1-2).
 
 We are also called to be qualified teachers of this Word. "He who hears you hears me" (Luke 10:16). An enormous task, but also a great responsibility.
 
@@ -185,7 +185,7 @@ It is the Word that coincides with the person of Christ Himself, "the Word made 
 
 "Lo, we have left everything and followed you" (Matt. 19:27). Peter\'s statement expresses the radical nature of the choice professed by the apostle.
 
-Our Lord the teacher indicated and demanded the observance of the commandments as a condition for eternal life. To the rich young man, He said, "Go, sell what you have and give to the poor, and you will have treasure in heaven; and come follow me" (Matt. 19:21).
+Our Lord the Teacher indicated and demanded the observance of the commandments as a condition for eternal life. To the rich young man, He said, "Go, sell what you have and give to the poor, and you will have treasure in heaven; and come follow me" (Matt. 19:21).
 
 The sadness of refusal fell on those words of Christ, like a sudden darkening of the sky. Jesus spoke one of His severest sayings: "How hard it would be for those who are of riches to enter the kingdom of God" (Matt. 19:24).
 
