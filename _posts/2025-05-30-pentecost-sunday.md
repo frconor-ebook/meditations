@@ -17,11 +17,9 @@ When a teacher comes into a classroom and explains some new concept, two or thre
 
 Then he goes away and comes back a second day and explains it again. And now a few more in the class understand the idea.
 
-He goes away, or he or she goes away, and comes back a third time, explains it a third time, and now the vast majority of the class understands the new idea.
+He or she goes away, and comes back a third time, explains it a third time, and now the vast majority of the class understands the new idea.
 
-But there are still a certain few who haven\'t quite caught it. And so, he or she goes away and comes back the fourth time. And the fourth time she explains it.
-
-Now that\'s when everybody understands. And that\'s when they say: 'Ahh! Now we understand.'
+But there are still a certain few who haven\'t quite caught it. And so, he or she goes away and comes back the fourth time. And the fourth time she explains it, now that\'s when everybody understands. And that\'s when they say: 'Ahh! Now we understand.'
 
 Pentecost was like the Feast of the 'Ahh!' of the Apostles because that\'s when the penny dropped. They began to understand the Scriptures.
 
@@ -35,7 +33,7 @@ We are told in the Acts of the Apostles, "When Pentecost day came round, they ha
 
 The Holy Spirit is the Spirit of truth and of light. He comes into our soul with all of His gifts and His graces, which bring their fruit in our soul.
 
-Hopefully, we\'ve spent the last 10 days preparing for this great feast. After Christmas and Easter, the next biggest feast in the Church is Pentecost. We need to upgrade the image of Pentecost.
+Hopefully, we\'ve spent the last ten days preparing for this great feast. After Christmas and Easter, the next biggest feast in the Church is Pentecost. We need to upgrade the image of Pentecost.
 
 If you ask a child what Christmas is, most of them know what Christmas is, because there are many material things that help to convey the message. Pope John Paul liked to say that we go to the great spiritual messages and mysteries through physical signs and symbols (*Catechism of the Catholic Church*, Point 1146). Christmas has plenty of them: carols, the crib, trees, lights, presents, all sorts of things.
 
@@ -133,13 +131,13 @@ Our hearts are the home of the Holy Spirit. We are temples of the Holy Spirit. H
 
 St. Peter says, "We become partakers of the divine nature" (2 Pet. 4). There is a phrase we could chew on for a long, long time: "partakers of the divine nature." We are lifted up to partake in the nature of God.
 
-John Paul II has a wonderful encyclical on the Holy Spirit. In Latin, it is called *Dominum et vivificantem*--"The Lord and Giver of Life." I think it came out in the 1980s or 1990s, a very wonderful document on the Internet to bring to your spiritual reading sometime; very beautiful ideas talking about the power of the Holy Spirit.
+John Paul II has a wonderful encyclical on the Holy Spirit. In Latin, it is called *Dominum et vivificantem*--"The Lord and Giver of Life." I think it came out in the 1980s or 1990s \[1986\], a very wonderful document on the Internet to bring to your spiritual reading sometime; very beautiful ideas talking about the power of the Holy Spirit.
 
-After his assassination attempt, when he was recovering in the following months, he talked, when he came back to make public statements again, how he had experienced the Holy Spirit, how the Holy Spirit has spoken to him very clearly, that it was the will of God for him to lead the Church into the 21st century. This was only in 1981. It was 20 years before that.
+After his assassination attempt, when he was recovering in the following months, he talked, when he came back to make public statements again, how he had experienced the Holy Spirit, how the Holy Spirit has spoken to him very clearly, that it was the will of God for him to lead the Church into the 21st century. This was only in 1981. It was twenty years before that.
 
 In that document, he says there is a chasm in the human heart, and that chasm can only be filled by God. If we try to fill it with other things, it doesn\'t work.
 
-He says, "The Holy Spirit 'breathes' prayer into the soul of man" (cf. John Paul II, Encyclical, *Dominum et vivificantem,* May 18, 1986).
+He says, "The Holy Spirit 'breathes' prayer into the soul of man" (*cf*. John Paul II, Encyclical, *Dominum et vivificantem,* May 18, 1986).
 
 "We do not know how to pray as we ought, but the Holy Spirit comes to help us" (Rom. 8:26) to learn how to pray.
 
@@ -195,7 +193,7 @@ They were the great friends of the Blessed Trinity. They knew how to listen very
 
 They were the ones who most perfectly followed the pathway that God wanted them to be on this earth, with all its changes and contradictions and challenges and so many other things.
 
-St. Louis de Montfort says, "Whenever the Holy Spirit finds Our Lady in a soul, He's irresistibly drawn to that soul because she is His Spouse" (cf. Louis Marie de Montfort, *True Devotion to the Blessed Virgin*).
+St. Louis de Montfort says, "Whenever the Holy Spirit finds Our Lady in a soul, He's irresistibly drawn to that soul because she is His Spouse" (*cf*. Louis Marie de Montfort, *True Devotion to the Blessed Virgin*).
 
 And so, we could ask Our Lady that from her presence in our soul, she might truly draw the Holy Spirit in ever more effective ways, to make us better and greater children of God.
 

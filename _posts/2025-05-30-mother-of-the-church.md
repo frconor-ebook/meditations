@@ -15,7 +15,7 @@ By Fr. Conor Donnelly
 
 We see that after the Easter period, Our Lady gathers the Apostles together. She was a symbol of unity. She strengthened their faith. She kept them together. She kept them going. She acted in a very concrete way like their Mother.
 
-Our Lord had spoken from the Cross, saying, "Mother, behold your child." Behold your children. And he had said to St. John, "Behold your mother" (John 19:26-27).
+Our Lord had spoken from the Cross, saying, "Mother, behold your child." Behold your children. And He had said to St. John, "Behold your mother" (John 19:26-27).
 
 In 2018, Pope Francis decided to institute this feast day of Our Lady, Mother of the Church, and he wanted it celebrated strategically, on the day after Pentecost.
 
@@ -71,7 +71,7 @@ We know that Our Lady then is looking out for the Church in each moment of her h
 
 We needn\'t worry about all these things because we know Our Mother is there to solve the problems, to smooth everything out.
 
-In the *Catechism* (Points 963 to 970) we\'re told, "The Virgin Mary...is acknowledged and honored as being truly the Mother of God and of the Redeemer. \...She is 'clearly the Mother of the members of Christ'\...since she has by her charity joined in bringing about the birth of believers in the Church, who are members of its head." She is "Mother of Christ and Mother of the Church" (*Catechism of the Catholic Church*, Point 963, quoting *Lumen Gentium*, Point 53 and Paul VI, *Address to the Second Vatican Council*, Nov. 21, 1964).
+In the *Catechism* (Points 963 to 970) we\'re told, "The Virgin Mary...is acknowledged and honored as being truly the Mother of God and of the Redeemer. \...She is 'clearly the Mother of the members of Christ'\...since she has by her charity joined in bringing about the birth of believers in the Church, who are members of its head." She is "Mother of Christ and Mother of the Church" (*Catechism of the Catholic Church*, Point 963, quoting *Lumen gentium*, Point 53 and Paul VI, *Address to the Second Vatican Council*, Nov. 21, 1964).
 
 The *Catechism* continues: "After the Ascension, Mary 'aided the beginnings of the Church by her prayers.' In her association with the apostles and several women, 'we also see Mary by her prayers imploring the gift of the Spirit, who had already overshadowed her in the Annunciation.'
 
@@ -97,7 +97,7 @@ St. Josemaría in the *Furrow* says: "What an extraordinary lesson each one of t
 
 We can be filled with confidence that we have the Queen of Apostles around us, who will also teach us in the various situations where we are, to become zealous preachers of the Word, to give good witness after the heart of Christ and after the heart of Mary.
 
-One of the great things which the saints teach us, St. Josemaría included, is to have a great love for the Church. When we love Our Lady, when we love her Church---the Church is also our Mother---we don\'t let anyone speak badly about the Church.
+One of the great things which the saints teach us, St. Josemaría included, is to have a great love for the Church. When we love Our Lady, we love her Church---the Church is also our Mother---we don\'t let anyone speak badly about the Church.
 
 We are the Church. If ever we see or hear somebody speaking bad about the Church on the television, on the radio, in a newspaper, it\'s very good we react. We stand up to defend Our Mother the Church. We feel bad that Our Mother might be treated badly.
 
@@ -107,7 +107,7 @@ Sinful humanity does not scandalize us. It should lead us to want to be more hol
 
 There are probably few ways that we can make Our Lady happy than by being good children of the Church---making an effort to know her doctrine, to spread it with the gift of tongues, in season and after season, to help people around us, to see the Church in action, lifting up the whole of society, and to foster in each one of us a great responsibility for the Church, and also a great initiative: What can I contribute? What can I do to build up the mystical Body of Christ on earth?
 
-Each supernatural family is a part of the Church. St. Josemaría says in *The Way*, If ever we can\'t say anything good about somebody, or about some member of some supernatural family in the Church, then we should just keep silent, and pray more, and make acts of contrition to God and atonement for the fact that I am not better.
+Each supernatural family is a part of the Church. St. Josemaría says in *The Way*, If ever we can\'t say anything good about somebody, or about some member of some supernatural family in the Church, then we should just keep silent (*cf*. J. Escrivá, *The Way*, Point 443), and pray more, and make acts of contrition to God and atonement for the fact that I am not better.
 
 Any criticisms or calumnies against any supernatural family in the Church is an attack on the mystical Body of Christ and it\'s an attack on Our Lady, the Mother of the Church, no matter where they\'re coming from.
 
@@ -143,7 +143,7 @@ In the times that we\'re living in, there\'s great reason and scope to defend th
 
 At the Second Vatican Council, we learned about the role of the laity in the Church. We are the Church. The role of the laity is to order temporal realities, which means laws, cultures: the evangelization of culture, the evangelization of the family.
 
-Pope John Paul liked to say, "The future of humanity passes through the family" (cf. John Paul II, *Homily*, November 30, 1986).
+Pope John Paul liked to say, "The future of humanity passes through the family" (*cf*. John Paul II, *Homily*, November 30, 1986).
 
 Mother of the Domestic Church, help us to see what we can do to promote the family and society.
 
@@ -167,7 +167,7 @@ That\'s why we can pray to Our Lady, Mother of the Church, that she would contin
 
 There are many mission fields that are hungry for such people. The future generations can be grateful to us for the role we\'ve played in bringing forward the Church. Probably, to a certain extent, it\'s with all these concerns in mind that Pope Francis instituted this particular feast day.
 
-We\'ve probably seen the Holy Father just before going on any of his major journeys, international trips. He goes to St. Mary Major in Rome, the Shrine of Our Lady, Patroness of Rome, the safety of the Roman people.
+We\'ve probably seen the Holy Father \[Pope Francis\] just before going on any of his major journeys, international trips. He goes to St. Mary Major in Rome, the Shrine of Our Lady, Patroness of Rome, the safety of the Roman people.
 
 He goes there like a little child carrying a little bunch of flowers. It\'s a beautiful little childlike detail. He carries the flowers himself, as though saying, I reserve this privilege to me. I make this personal trip to entrust this journey and the fruits of this journey to my Mother, and I make this trip for the good of the universal Church, to Myanmar, to Iraq, to Chad, to the Central African Republic, to so many places.
 
