@@ -41,9 +41,9 @@ They are perfect in their order and thus they give rise to a spiritual consolati
 
 The fruits are not a consolation that one can feel, although sometimes God can grant us feelings, but rather the witness of one\'s conscience and the intimate joy that comes from fulfilling the will of God with generosity.
 
-Our Lord was very happy when he saw the two mites of the widow. She generously put in all that she had to live on (Mark 12:41-44).
+Our Lord was very happy when He saw the two mites of the widow. She generously put in all that she had to live on (Mark 12:41-44).
 
-St. Paul lists twelve of the many fruits of the Holy Spirit in the soul: charity, joy, peace, patience, kindness, goodness, long-suffering, meekness, faith, modesty, continence, and chastity" (cf. Gal. 5:22-23).
+St. Paul lists twelve of the many fruits of the Holy Spirit in the soul: charity, joy, peace, patience, kindness, goodness, long-suffering, meekness, faith, modesty, continence, and chastity" (*cf*. Gal. 5:22-23).
 
 A constant effort is required to produce good fruit. "He who sows to his own flesh will reap corruption, but he who sows in the Spirit will reap eternal life. Let us not grow weary in well-doing, for in due season we shall reap, if we do not lose heart" (Gal. 6:8-9).
 
@@ -51,7 +51,7 @@ So constant effort is required. Sometimes, for the fruits to appear, a certain p
 
 Sometimes the same thing happens in the supernatural order. Contradictions, challenges, heartbreaks, apparent tragedies, pain, difficulty, sickness---these are some of the means that Our Lord uses to prune us.
 
-But we can always be grateful to him for those prunings, for those crosses, because they\'re always a sign of future fruit, a sign of divine predilection.
+But we can always be grateful to Him for those prunings, for those crosses, because they\'re always a sign of future fruit, a sign of divine predilection.
 
 The saints knew how to thank God for the crosses that He sent them because it was all a sign of that future fruitfulness.
 
@@ -67,7 +67,7 @@ We receive less blows than we deserve, and we can have the consolation of knowin
 
 It\'s a very good thing to pray every day for that joy with peace, interior joy with peace that somehow sums up the abundance of the fruits of the Holy Spirit in our life.
 
-A joy with peace, a long period of life, a period of true penance, the grace and the consolation of the Holy Spirit, and perseverance in our Christian vocation (cf. *Prayer before Mass*, Statement of Intention for Priests)---we can ask God for those special gifts every day.
+A joy with peace, a long period of life, a period of true penance, the grace and the consolation of the Holy Spirit, and perseverance in our Christian vocation (*cf*. *Prayer before Mass*, Statement of Intention for Priests)---we can ask God for those special gifts every day.
 
 "He who abides in me and I in him, he bears much fruit" (John 15:5). That\'s not conditioned by anything; no matter what the circumstances of our life, we\'re called to abide in Him.
 
@@ -117,11 +117,11 @@ A search for joy outside the love for God is condemned to failure because creatu
 
 In *Christ Is Passing By*, we\'re told, "Joy has its roots in the form of a cross" (J. Escrivá, *Christ Is Passing By*, Point 43; *The Forge*, Point 28).
 
-People who try to run away from the crosses in their life---they don\'t find joy. They only find joy in embracing the cross and thanking God for it, accepting with joy that this is the will of God for me, this particular cross, this situation, this life that he wants me to lead.
+People who try to run away from the crosses in their life---they don\'t find joy. They only find joy in embracing the cross and thanking God for it, accepting with joy that this is the will of God for me, this particular cross, this situation, this life that He wants me to lead.
 
 We\'re told in *The Forge*, "To give oneself to the service of others, forgetting about oneself, is so efficacious that God rewards us with a humility full of joy" (J. Escrivá, *The Forge*, Point 591).
 
-We can ask the Holy Spirit for that joy. The joy that can be there in spite of sadness, in spite of sickness, or anxiety, or depression, or any of these other things that are so common in society now.
+We can ask the Holy Spirit for that joy---the joy that can be there in spite of sadness, in spite of sickness, or anxiety, or depression, or any of these other things that are so common in society now.
 
 The third gift of the Holy Spirit is peace. It accompanies true joy.
 
@@ -139,7 +139,7 @@ Another fruit of the Holy Spirit in our souls is patience.
 
 It leads us to bear with peace, for love of God, without complaints or lamentations, the physical and the moral sufferings of this life: traffic jams, reversals of fortune, the loss of everything we ever had, a sword piercing our heart, the heartbreak.
 
-Fulton Sheen says if God ever allows hearts to be broken, it\'s because He wants to enter into them a little more (cf. Fulton Sheen, *Inspirational Readings*).
+Fulton Sheen says if God ever allows hearts to be broken, it\'s because He wants to enter into them a little more (*cf*. Fulton Sheen, *Inspirational Readings*).
 
 The patient person doesn\'t get upset in the face of adversity, knows how to accept the blows with that equanimity, that peace and serenity, because they see in everything the loving hand of their Father God, who makes use of the suffering and the sorrows of this world in order to purify His chosen ones and to make them saints.
 
@@ -177,7 +177,7 @@ Suddenly along comes this missionary Archbishop who has no hospital in his count
 
 We have to dream of great goals that will affect and build up civilizations of love, cultures of life, build up standards that are proper for the dignity of the human person, that can spread the social teaching of the Church everywhere.
 
-The Book of Isaiah says that for that to happen, God counts on our persevering daily effort. "My chosen ones shall not toil in vain (Isa. 65:23).
+The Book of Isaiah says that for that to happen, God counts on our persevering daily effort. "My chosen ones shall not toil in vain" (Isa. 65:23).
 
 St. Paul says to the Colossians, "Put on then, as God\'s chosen ones, holy and beloved, compassion, kindness, lowliness, meekness, and patience, forbearing one another, and, if one has a complaint against another, forgive each other; as the Lord has forgiven you, so you must also forgive" (Col. 3:12-13).
 
@@ -201,7 +201,7 @@ A very beautiful anecdote of the goodness that is present in all human persons. 
 
 The person who receives this gift of the Holy Spirit exudes goodness in all their thoughts, words, and actions.
 
-They don\'t begrudge other people about their successes. There is no jealousy or envy in them. They know that if Jesus has died for all, we must love all too. Even the criminal on death row, Christ also shed His blood for Him (Matt. 27:38,44).
+They don\'t begrudge other people about their successes. There is no jealousy or envy in them. They know that if Jesus has died for all, we must love all too, even the criminal on death row. Christ also shed His blood for Him (Matt. 27:38,44).
 
 It\'s not a matter of feelings, but of knowing in our mind that we must love each person because they are children of God.
 
