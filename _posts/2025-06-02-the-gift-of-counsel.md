@@ -27,7 +27,7 @@ It\'s important that we would have one ear cocked, one antenna up, for those lit
 
 The Holy Spirit is our best Adviser, our best Teacher, our best Guide.
 
-St. Josemaría liked to refer to Him as "The Great Unknown." He\'s not known as much as He should be, but also, He\'s the great friend. We can always turn to Him.
+St. Josemaría liked to refer to Him as "The Great Unknown" (Josemaría Escrivá, *Christ Is* *Passing By*, Points 127-138; *Friends of God*, Point 141). He\'s not known as much as He should be, but also, He\'s the great friend. We can always turn to Him.
 
 It\'s logical that every day of our life we would try and invoke the Holy Spirit in some way because we need that guidance, we need that light.
 
@@ -49,7 +49,7 @@ Very briefly, very clearly, but also very politely, he made his point. Then he s
 
 There was a student in a class in Brazil who had a similar experience. Some teacher in some subject said some things that were not quite in keeping with the teaching of the Church or were a little bit off.
 
-This student, who had a little bit of formation, realized that he had to try and say something. It wasn\'t easy to try and "correct," in inverted commas, his teacher. But he felt that as a good Christian, he had to raise his voice; disagree, at least.
+This student, who had a little bit of formation, realized that he had to try and say something. It wasn\'t easy to try and "correct" his teacher. But he felt that as a good Christian, he had to raise his voice; disagree, at least.
 
 He put up his hand and when he was called upon, he said, 'I'd just like to say that I think the real teaching of the Church on this issue is this, this, and this.' The teacher said, 'You come and see me after class.'
 
@@ -57,7 +57,7 @@ The student got very worried. He was thinking, 'Oh, my goodness! Now I\'m in big
 
 As he walked towards the teacher\'s office, a phrase of Scripture came to his mind, which is the one we\'ve just read:
 
-"...do not be anxious of how you are to speak or what you are to say. For...you will be given in that hour. For it\'s not you who speak, but the Spirit of your Father speaking through you" (Matt. 10:19-20).
+"...do not be anxious \[of\] how you are to speak or what you are to say. For...you will be given in that hour. For it\'s not you who speak, but the Spirit of your Father speaking through you" (Matt. 10:19-20).
 
 He complained to God and he said, 'You said you would put on our lips what needs to be said in these situations. And now look at the mess I\'m in. I should have kept my big mouth shut!'
 
@@ -99,7 +99,7 @@ We have to be at the forefront. The prayer must arise from the members of the Ch
 
 When God hears that cry, the Spirit of God responds to that plea with the gift of counsel. He enriches and perfects the virtue of prudence and guides the soul from within, enlightening us about what to do, especially when it\'s a matter of important choices---perhaps the choice of choosing a professional line, choices of responding to a vocation, or about a path to be followed among difficulties and obstacles.
 
-That choice that we make may have the capacity to give great leadership. You might be the only person in a class or in a profession, in a club, or in a society.
+That choice that we make may have the capacity to give great leadership. You might be the only person in a class or in a profession, or in a club, or in a society.
 
 But the fact that we stand up and say something, reflecting true values, then truth reverberates in the mind and in the soul like a squash ball in a squash court.
 
@@ -109,15 +109,15 @@ God has placed us precisely where we are, to have that influence---sometimes at 
 
 Ultimately, that hopefully will make a big difference in whether or not they will get into heaven. That\'s what it\'s all about.
 
-The Book of Wisdom says, "The deliberations of mortals are timid, and unsure are our plans" (Wisd. 9:14).
+The Book of Wisdom says, "The deliberations of mortals are timid, and unsure are our plans" (Wis. 9:14).
 
 Many people don\'t know where they\'ve come from, where they\'re going, what life is all about. Many people are a bit lost. They follow the first leader that comes along.
 
-The gift of counsel can act like a new breath in the conscience, suggesting to it what is illicit, what is right, what is becoming, what is more fitting for the soul.
+The gift of counsel can act like a new breath in the conscience, suggesting to it what is licit, what is right, what is becoming, what is more fitting for the soul.
 
 Recently, somebody came to me with a medical moral problem, a difficult one.
 
-A young family faced two handicapped children and of course the obvious question---do we have more children? Do we not have more children?
+A young family is faced with two handicapped children, and of course the obvious question: Do we have more children? Do we not have more children?
 
 The only thing you can say to people in those moments, and very strong and very clear, is don\'t do anything that is wrong. In ten years' time, you can regret it enormously. You can make the biggest mistake of your life. We have to go before God as He made us.
 
@@ -137,9 +137,9 @@ We need the gift of counsel in all sorts of ways. We need it every day of our li
 
 Aided by this gift then, the Christian penetrates the true meaning of Gospel values, in particular, those expressed in the Sermon on the Mount:
 
-"Blessed are the poor of spirit...Blessed are those who suffer injustice...Blessed are those who thirst for righteousness...Blessed are the peacemakers" (cf. Matt. 5:3-12).
+"Blessed are the poor of spirit...Blessed are those who suffer injustice...Blessed are those who thirst for righteousness...Blessed are the peacemakers" (*cf*. Matt. 5:3-12).
 
-The behavior of so many Christian martyrs shows how the promise that Our Lord made has been fulfilled in the Church. It can be very moving to read, in all the material that\'s come down to us, about the serenity and wisdom of people with little learning, and sometimes even of children, but have sometimes, have a great gift of counsel.
+The behavior of so many Christian martyrs shows how the promise that Our Lord made has been fulfilled in the Church. It can be very moving to read, in all the material that\'s come down to us, about the serenity and wisdom of people with little learning, and sometimes even of children, but have, sometimes, a great gift of counsel.
 
 God gave a very special gift to certain people in certain stages of history. St. Catherine of Siena, writing to influential people, writing to popes.
 
@@ -153,7 +153,7 @@ Through the gift of wisdom, the Holy Spirit perfects the acts of the virtue of p
 
 Sometimes the Holy Spirit may tell us to be silent. Not to react. Not to lose our temper. Not to have a knee-jerk reaction. To be silent, because now our children are older. They\'ve heard everything. We get the gift of counsel to keep our silence and pray.
 
-Somebody said once, "The person who has the truth knows how to keep silent." They don\'t need to argue or prove their point. So sometimes we give great examples with our silence. We let things pass. We let people discover the truth that we already know.
+Somebody said once, "The person who has the truth knows how to keep silent." They don\'t need to argue or prove their point. So sometimes we give great example with our silence. We let things pass. We let people discover the truth that we already know.
 
 Sometimes the decisions we have to make may be in very important matters. Sometimes they might be also very trivial things. But in all those decisions, in some way or another, the goal of holiness is involved.
 
@@ -161,7 +161,7 @@ God gives the gift of wisdom to those who are docile to the action of the Holy S
 
 And again, the quick solution, the quick fix, looked at from a human perspective, can look so attractive. It can look like the solution to all our problems. But later on, we find that that decision did not give glory to God, and it can become the greatest regret of our life.
 
-A nun here in Nairobi who in 1969 went to Uganda as an obstetrician. She was an Irish nun and doctor. In 1969 she was the second obstetrician in the whole of Uganda---20 million people.
+A nun here in Nairobi in 1969 went to Uganda as an obstetrician. She was an Irish nun and doctor. In 1969 she was the second obstetrician in the whole of Uganda---20 million people.
 
 When she was qualifying in the UK, I think it was Birmingham, the Abortion Act had just been passed. But she refused to cooperate.
 
@@ -183,27 +183,27 @@ He leads us along pathways of charity: what to say, what not to say, how to say 
 
 The first area where we have to use this gift is in our own interior life. In the soul, in grace, the Paraclete acts in a silent way---gently, but forcefully.
 
-This most wise Teacher has skillful ways of teaching us ways that are wonderful to watch---ways that are all sweetness, all affection, all goodness, all prudence, all discretion.
+"This most wise Teacher has skillful ways of teaching us ways that are wonderful to watch---ways that are all sweetness, all affection, all goodness, all prudence, all discretion" (Francisca Javiera del Valle, *About the Holy Spirit*).
 
 The love of God is poured into our souls by the Holy Spirit. In *The Way*, we\'re told, "Never make a decision without first stopping to consider the matter in the presence of God" (J. Escrivá, *The Way*, Point 266).
 
-In another point, we\'re told, "Don\'t waste the opportunity of yielding your own judgment" (*Ibid*., Point 177).
+In another point, we\'re told, "Don\'t waste the opportunity of yielding your own judgment" (*ibid*., Point 177).
 
 The Holy Spirit may enlighten us to let things pass or allow for the fact that we may be wrong. Don\'t insist. There\'ll be very few times in our life when we have to insist because everybody else is wrong.
 
 If we are humble, if we recognize our own limitations, we will feel the need to seek advice at particular times.
 
-Then we ought not to go simply to the first person we meet, but, as we're told in *Friends of* *God*, "to a person with the right qualities, to someone who wants to love God as sincerely as we do and who tries to follow him faithfully. It is not enough to ask just anyone for their opinion. We must go to a person who can give us sound and disinterested advice."
+Then we ought not to go simply to the first person we meet, but, as we're told in *Friends of* *God*, "to a person with the right qualities, to someone who wants to love God as sincerely as we do and who tries to follow him faithfully. It is not enough to ask just anyone for their opinion. We must go to a person who can give us sound and disinterested advice. ...
 
-"As we go through life, we find ourselves coming across people who are objective and know how to weigh things up, who don\'t get heated up or try to tip the balance towards that which favors them. Almost instinctively, we find ourselves trusting such people, because, unassumingly and quietly, they always act in a good and upright manner" (Friends of God, Points 86 and 88).
+"As we go through life, we find ourselves coming across people who are objective and know how to weigh things up, who don\'t get heated up or try to tip the balance towards that which favors them. Almost instinctively, we find ourselves trusting such people, because, unassumingly and quietly, they always act in a good and upright manner" (J. Escrivá, *Friends of God*, Points 86 and 88).
 
-We can be reminded of those words in St. John: "He who follows me will not walk in darkness, but will have the light of life" (John 8:12).
+We can be reminded of those words of Christ in St. John: "He who follows me will not walk in darkness, but will have the light of life" (John 8:12).
 
 If we try to follow Jesus each day of our life, we won\'t be wanting in the light of the Holy Spirit at every moment.
 
 If we\'re upright in our intention, He will not allow us to fall into error.
 
-Every day in our Rosary, in the Litany we invoke Our Lady, "Mother of Good Counsel." She will win for us all the graces we need if we go to Her with the humility of those who know that on their own, they will stumble and they'll lose their way.
+Every day in our Rosary, in the Litany we invoke Our Lady, "Mother of Good Counsel." She will win for us all the graces we need if we go to Her with the humility of those who know that on their own, they will stumble, and they'll lose their way.
 
 Mother of Good Counsel, pray for us.
 

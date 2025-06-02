@@ -23,7 +23,7 @@ You might ask: What is it that makes the plane go up? You could think initially 
 
 What makes the plane go up when it gets to a certain speed are the wings. Nothing flies on this planet without wings.
 
-St. Josemaría liked to say that we also need wings to our soul to make our soul fly high, way above the things of this world---and that those wings are supplied by the virtue of purity (cf. Josemaría Escrivá, *Friends of God*, Point 177).
+St. Josemaría liked to say that we also need wings to our soul to make our soul fly high, way above the things of this world---and that those wings are supplied by the virtue of purity (*cf*. Josemaría Escrivá, *Friends of God*, Point 177).
 
 It\'s a virtue whereby we place order in our sexual appetite in relation to all of our senses, eyes, ears, touch, et cetera.
 
@@ -59,7 +59,7 @@ Sometimes you have to change your thinking like you change the channel on a TV s
 
 All the saints talk about the guard of the eyes. Many bad things can enter through the eyes. We need to guard our eyesight occasionally. Don\'t let our eyes focus on things that are not right.
 
-We also have to guard the heart. "Our heart can turn traitor," said St. Josemaría. It can fly off in a million different directions. He talked about keeping it "locked with seven bolts" (cf. J. Escrivá, *The Way*, Point 188).
+We also have to guard the heart. "Our heart can turn traitor," said St. Josemaría. It can fly off in a million different directions. He talked about keeping it "locked with seven bolts" (*cf*. J. Escrivá, *The Way*, Point 188).
 
 There is a story of crown jewels that are kept in---I think---Edinburgh Castle. They are in a glass case in this castle that is electrified with an alarm. Outside that there are guards guarding the crown jewels. And outside that, there are more guards and more alarms. And then there is a courtyard where dogs roam at night.
 
@@ -75,7 +75,7 @@ Very interesting words of advice: Do not model yourself on the contemporary worl
 
 We are called to be a bride of Christ, to have that clean heart, and keep it clean. If ever it ceases to be clean, we go and clean it again in the sacrament of Confession---great means, other means to live this virtue well---frequent Confession.
 
-We accuse ourselves of small things, of lack of the guard of our heart, of our imagination, our thoughts. Our Lord has warned us, "Out of the heart of man come all sorts of ugly things: envy, jealousy, lust, anger" (cf. Mark 7:21-23).
+We accuse ourselves of small things, of lack of the guard of our heart, of our imagination, our thoughts. Our Lord has warned us, "Out of the heart of man come all sorts of ugly things: envy, jealousy, lust, anger" (*cf*. Mark 7:21-23).
 
 We shouldn\'t be surprised at the temptations that come or what the devil may throw at us. We are human. Our Lord also allowed Himself to be tempted (Matt. 4:1-11). But we have the remedies.
 
@@ -109,7 +109,7 @@ With the passage of time Our Lord may let us see our weakness; help us to see wh
 
 I met a man once in Mombasa and asked him what his profession was; what he did for a living. He told me he was a tea taster. I\'d never met a tea taster before.
 
-I was thinking my mother would have loved that job. And I was thinking if he\'s a tea taster, he has to be able to distinguish between the different types of tea, the qualities of tea, that come from different parts of Kenya: Kericho gold, and Moringa silver, and all the others.
+I was thinking my mother would have loved that job. And I was thinking if he\'s a tea taster, he has to be able to distinguish between the different types of tea, the qualities of tea, that come from different parts of Kenya: Kericho gold, and Moringa silver,and all the others.
 
 He must have to have a great sensitivity with his taste buds. He must have to take very good care of them.
 
@@ -193,7 +193,7 @@ One writer says, "You can\'t play with the animal in you without becoming wholly
 
 There\'s an animal inside each one of us, a tiger. It has to be controlled.
 
-"A person who wants to keep their garden tidy doesn\'t reserve a plot for weeds" (*Ibid*.).
+"A person who wants to keep their garden tidy doesn\'t reserve a plot for weeds" (*ibid*.).
 
 The gardeners here who take such good care of the lawn, the hedges or the shrubs, don\'t lead us to an area of the garden and say, 'Here, this is where we grow all the weeds.'
 
@@ -227,13 +227,13 @@ He said, "Madam, it was only after Eve ate the apple that she realized what she 
 
 Sometimes we have to say clear things to people, of certain standards.
 
-All the apostles realized that they could be weak. When Our Lord talked about how one of them would betray him, they all said, "Is it I, Lord?" (Matt. 26:22).
+All the apostles realized that they could be weak. When Our Lord talked about how one of them would betray Him, they all said, "Is it I, Lord?" (Matt. 26:22).
 
 They were aware of their weakness, of their miseries. We too can\'t feel that we are strong, or we can handle the situation, or these thoughts, or these pictures, or whatever.
 
 In *The Way*, we're told, "When you resolve firmly to lead a clean life, chastity will not be a burden for you; it will be a triumphal crown" (J. Escrivá, *The Wa*y, Point 123).
 
-He also says, "Without holy purity one cannot persevere in the apostolate" (*Ibid*., Point 129).
+He also says, "Without holy purity one cannot persevere in the apostolate" (*ibid*., Point 129).
 
 It is necessary for leading a Christian life, for having an influence. That cleanliness of heart is a great goal to work for.
 
@@ -267,7 +267,7 @@ The virtue is worth striving for.
 
 We are told in *The Way*, "How is that heart of yours getting along? Don\'t worry: the saints---who were perfectly ordinary, normal beings like you and me---also felt those 'natural' inclinations. And if they had not felt them, their 'supernatural' reaction of keeping their heart---soul and body---for God, instead of giving it to creatures, would have had little merit.
 
-"That\'s why once the way is seen, I think that the heart\'s weaknesses need be no obstacle for a determined soul, for a soul in love" (*Ibid*., Point 164).
+"That\'s why once the way is seen, I think that the heart\'s weaknesses need be no obstacle for a determined soul, for a soul in love" (*ibid*., Point 164).
 
 We have many encouragements to live this virtue well.
 
