@@ -191,7 +191,7 @@ Children, relatives, colleagues, friends~---~they all look at our behavior, and 
 
 Even if the roof is going to fall down on top of me, I lose my job, I will not do anything wrong. I'll look for other means to sustain my life and my family.
 
-In St. Matthew we are told, "And so that the blind person's guide is not himself also blind" (cf. Matt. 15:14), it is not enough to have second-hand knowledge or mere hearsay.
+In St. Matthew we are told, "And so that the blind person's guide is not himself also blind" (*cf*. Matt. 15:14), it is not enough to have second-hand knowledge or mere hearsay.
 
 To lead our friends and relatives to God, a vague and superficial knowledge of the route is not enough. We need to have walked it ourselves.
 
