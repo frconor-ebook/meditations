@@ -77,7 +77,7 @@ He told a story that was rather moving. He said, "I was the youngest of five chi
 
 Thinking about this, it\'s rather moving. Beautiful scene of a young family.
 
-Father Jobab Andraer, who after twenty-two years of being the chaplain of Strathmore School and altar servers and ceremonies, said one of the things he learned over 25 years was that kids love fire.
+Father Jobab Andraer, who after twenty-two years of being the chaplain of Strathmore School and altar servers and ceremonies, said one of the things he learned over twenty-five years was that kids love fire.
 
 Well, this mother gives her five-year-old son a lighted candle. He could have burnt down the whole house.
 
@@ -133,7 +133,7 @@ In these very special weeks coming to Christmas, it\'s a very good time to stimu
 
 You see, sometimes, people can have a great social consciousness, but they may have no spirit of poverty. It's a sin of the first world and of the upper echelons of all societies.
 
-They can spend a lot of money on the poor, but when it comes to spending money on themselves, the sky\'s the limit. It\'s a really good time to stimulate that social consciousness, that spirit of poverty, that generosity.
+They can't spend a lot of money on the poor, but when it comes to spending money on themselves, the sky\'s the limit. It\'s a really good time to stimulate that social consciousness, that spirit of poverty, that generosity.
 
 The children go through the toys they got for Christmas last year, books that they don\'t need, or items of clothing, and try to give away a maximum amount of things.
 
@@ -159,7 +159,7 @@ The Apostolate of the Home also means to talk about our family, to be happy to b
 
 Remember also that we are forming future families. The way that our children learn how to create that atmosphere is exactly what they will transmit to their children and the homes that they will build.
 
-With our calling, God gives us all the grace that\'s necessary to carry out our mission that he\'s given to us, in spite of the difficulties, in spite of our faults.
+With our calling, God gives us all the grace that\'s necessary to carry out our mission that He\'s given to us, in spite of the difficulties, in spite of our faults.
 
 John Paul II liked to say, "The future of humanity passes through the family." The family is the school of the soul, the school of virtue, the school of love, "the sanctuary of life" (Pope St. John Paul II, Encyclical, *Centesimus annus,* May 1, 1991). We have to promote a culture of life.
 

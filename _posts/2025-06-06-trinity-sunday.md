@@ -19,13 +19,13 @@ And he said, "Lucia, Francisca, Jacinta, and Mother Teresa."
 
 He was from a very good Marian family; he had a lot of piety. But it also brought home the point of the importance of doctrinal formation for children so as to know the important points of our faith.
 
-The Catechism tells us that there is a hierarchy of truths in our faith, and at the top of that hierarchy is the Blessed Trinity.
+The *Catechism* tells us that there is a hierarchy of truths in our faith, and at the top of that hierarchy is the Blessed Trinity (*cf*. *Catechism of the Catholic Church*, Point 234).
 
 Today we celebrate the Feast of the Blessed Trinity: God the Father, God the Son, God the Holy Spirit.
 
 "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teach them to observe all the commands I gave you. And lo, I am with you always; yes, to the end of time" (Matt. 28:19-20).
 
-To a large extent, in the Old Testament, God reveals Himself as one. although there are references to the Blessed Trinity. But it\'s in the New Testament that God is more revealing of Himself as a Triune God.
+To a large extent, in the Old Testament, God reveals Himself as one, although there are references to the Blessed Trinity. But it\'s in the New Testament that God is more revealing of Himself as a Triune God.
 
 We get to know a little bit more about the Father and the Holy Spirit. Our Lord said, "I and the Father are one" (John 10:30). "Ask anything in my name and the Father will grant it" (John 16:23). "I will send you the Advocate to be with you all days, even until the end of the world" (John 14:16).
 
@@ -35,17 +35,19 @@ Nature describes how we act. Human persons act according to our human nature. Go
 
 We also have revealed to us in Scripture that "God is love" (1 John 4:8,16). The Holy Spirit is the love of the Father for the Son. The *Catechism* tells us that the Blessed Trinity is "an eternal exchange of love" (*Catechism of the Catholic Church*, Point 221).
 
-Pope Benedict in his Encyclical, *Deus Caritas Est**--***"God is Love", says that every act of charity is "a manifestation of Trinitarian love."
+Pope Benedict in his Encyclical, *Deus Caritas Est**--***"God is Love," says that every act of charity is "a manifestation of Trinitarian love."
 
-God pours out His love into our souls through the sacraments. "The charity of God is poured into your heart through the Holy Spirit" (Rom. 5:5), St. Paul says.
+God pours out His love into our souls through the sacraments. "The charity of God is poured into your heart through the Holy Spirit," St. Paul says (Rom. 5:5).
 
 That love is meant then to find expression in our concern for others. All this is a manifestation of Trinitarian love. We are called to love. The Christian vocation is a vocation to love. The Church is a manifestation of love.
 
 If you think of every act of charity being a manifestation of Trinitarian love, think of all the healthcare acts of charity performed by the Church in the last twenty centuries, and all the work of educational institutions all over the world. It\'s like the Church is giving a great manifestation of Trinitarian love to the whole of humanity.
 
-John Paul II liked to talk about how the Blessed Trinity is "a communion of persons." And it\'s a life-giving communion of persons because the love of the Father for the Son gives rise to the Holy Spirit.
+John Paul II liked to talk about how the Blessed Trinity is "a communion of persons" (*cf*. John Paul II, *General Audience*, June 7, 2000, quoting the *Catechism of the Catholic Church*, Point 1702).
 
-He also liked to say that "the family is a communion of persons" and "marriage is a communion of persons." He says it\'s a life-giving communion of persons (John Paul II, Apostolic Exhortation*, Familiaris Consortio*, November 22, 1981; *Letter to Families,*February 2, 1994).
+And it\'s a life-giving communion of persons because the love of the Father for the Son gives rise to the Holy Spirit.
+
+He also liked to say that "the family is a communion of persons" and "marriage is a communion of persons." He says it\'s a life-giving communion of persons (John Paul II, Apostolic Exhortation*, Familiaris Consortio*, November 22, 1981; *Letter to Families,* February 2, 1994).
 
 The more a family is open to life and gives life, the more they reflect the Blessed Trinity. John Paul II lifted up the whole of marriage and family life onto a Trinitarian level. Food for thought.
 
@@ -89,7 +91,7 @@ She noticed that even though she had taken quite a lot of buckets out of the wat
 
 The mother was racking her brains---now how do I answer this question, how big is the sea? She wanted to answer it in a way that the child could understand.
 
-Then she said, "Well, if you were to spend the rest of your life going down to the water\'s edge with your bucket and filling it with water and coming up and pouring it into the moat of your sandcastle, and you did that every minute of every hour of every day for the rest of your life, you would still not exhaust all the water that there is in the sea."
+And so, she said, "Well, if you were to spend the rest of your life going down to the water\'s edge with your bucket and filling it with water and coming up and pouring it into the moat of your sandcastle, and you did that every minute of every hour of every day for the rest of your life, you would still not exhaust all the water that there is in the sea."
 
 The child got this idea of the immensity of the ocean. She was silent for a moment, and then she asked, "And is God bigger than the sea?"
 
@@ -151,11 +153,11 @@ The Trinity is a mystery of love among the three divine persons. It\'s not close
 
 St. Irenaeus said, "A living person is God\'s glory...human life consists in the vision of God" (St. Irenaeus, *Against Heresies*).
 
-"Believers," St. Augustine said, "can experience intimacy with God Himself, discovering that He\'s not infinite solitude, but the communion of light and love" (St. Augustine, as quoted by Benedict XVI, *Angelus*, June 11, 2006).
+"Believers," St. Augustine said, "can experience intimacy with God himself, discovering that he is not infinite solitude but the communion of light and love" (St. Augustine, as quoted by Benedict XVI, *Angelus*, June 11, 2006).
 
-In this world, no one can see God, but He made Himself known so that, with John the Apostle, we can affirm, "God is love. ... We have come to know and to believe in the love that God has for us" (1 John 4:16).
+"In this world, no one can see God, but he has made himself known so that, with John the Apostle, we can affirm, 'God is love' (1 John 4:16). ... 'We have come to know and to believe in the love that God has for us' (Benedict XVI, Encyclical, *Deus Caritas Est*, Point 1).
 
-For those with faith, all the universe speaks of God, One, and Triune. Everything that exists leads back to a being who communicates Himself in the multiplicity and the variety of elements as in an immense symphony. In this love, human beings find their truth and happiness.
+"For those with faith, all the universe speaks of God, One, and Triune. Everything that exists leads back to a being who communicates himself in the multiplicity and the variety of elements as in an immense symphony. ... In this love, human beings find their truth and happiness" (Benedict XVI, *Angelus*, June 11, 2006).
 
 The greatest thing for human persons to do is to seek after that truth and happiness, which can only be found in God. The more people run away from the goal of their life, the less they find God.
 
@@ -173,21 +175,21 @@ The whole of the life of a Christian is one of talking to and dealing with each 
 
 We\'re told in *Christ Is Passing By*, "The Holy Mass brings us face to face with one of the central mysteries of our faith because it is the gift of the Blessed Trinity to the Church. It is because of this that we can consider the Mass as the center and the source of a Christian's spiritual life" (J. Escrivá, *Christ Is Passing By*, Point 87).
 
-When the Blessed Trinity comes into our soul, they bring peace, and joy with peace. "The Trinity," said John Paul, "is not distant or impersonal." To demonstrate the opposite, the Pope explained that this presence of the three divine persons is happening at every moment of our life.
+When the Blessed Trinity comes into our soul, they bring peace, and joy with peace. "The Trinity," said John Paul, "is not distant or impersonal." To demonstrate the opposite, the Pope explained that this presence of the three divine persons is happening at every moment of our life (*cf*. John Paul II, *General Audience*, June 7, 2000).
 
-With great reason, St. Teresa of Ávila says, "Let nothing disturb you. Nothing frightens you. All things are passing. God is unchanging. Patience gains all. Nothing is lacking for those who have God. God alone is sufficient."
+With great reason, St. Teresa of Ávila says, "Let nothing disturb you; let nothing frighten you. All things are passing. God is unchanging. Patience gains all. Nothing is lacking for those who have God. God alone is sufficient."
 
-We\'re also told in *Christ Is Passing By*: "The Blessed Trinity has fallen in love with man, raised to the level of grace and made 'in God\'s image and likeness.' God has redeemed him from sin---from the sin of Adam, inherited by all his descendants, as well as from his personal sins---and desires ardently to dwell in his soul: 'If anyone loves me, he will keep my word and my Father will love him, and we will come to him and make our abode with him\'" (J. Escrivá, *Christ Is Passing By*, Point 84).
+We\'re also told in *Christ Is Passing By*: "The Blessed Trinity has fallen in love with man, raised to the level of grace and made 'in God\'s image and likeness.' God has redeemed him from sin---from the sin of Adam, inherited by all his descendants, as well as from his personal sins---and desires ardently to dwell in his soul: 'If anyone loves me, he will keep my word and my Father will love him, and we will come to him and make our abode with him'" (J. Escrivá, *Christ Is Passing By*, Point 84).
 
 We could try to invoke the Blessed Trinity with greater frequency, perhaps saying the Glory Be to the Father calmly and with attention, or making the Sign of the Cross with a little more care and attention as well.
 
-Pope Benedict says, "The first element of Eucharistic faith is the mystery of God Himself, Trinitarian love. ... We should therefore exclaim with St. Augustine (*De Trinitate*, Book VIII): 'If you see love, you see the Trinity'" (Benedict XVI, Apostolic Exhortation, *Sacramentum Caritatis*, February 22, 2007).
+Pope Benedict says, "The first element of Eucharistic faith is the mystery of God himself, Trinitarian love. ... We should therefore exclaim with St. Augustine (*De Trinitate*, Book VIII): 'If you see love, you see the Trinity'" (Benedict XVI, Apostolic Exhortation, *Sacramentum Caritatis*, February 22, 2007).
 
 That\'s why love is such a beautiful reality, how everyone needs love, searches for love, is moved by love---because we see the Trinity. Every charitable act is a manifestation of Trinitarian love.
 
 "Our Lady," says Pope Benedict, "...is a masterpiece of the Most Holy Trinity...because divine love found perfect correspondence in her, and in her womb the only begotten Son became man" (Benedict XVI*, Angelus*, June 11, 2006).
 
-We\'re told in *Holy Rosary*, "The most Blessed Trinity receives and showers honors on the Daughter, Mother, and Spouse of God. \...---And so great is Our Lady\'s majesty that the angels exclaim: 'Who is she?'" (J. Escrivá, *Holy Rosary*, *The Assumption*).
+We\'re told in *Holy Rosary*, "The most Blessed Trinity receives and showers honors on the Daughter, Mother, and Spouse of God....---And so great is Our Lady\'s majesty that the angels exclaim: 'Who is she?'" (J. Escrivá, *Holy Rosary*, *The Assumption*).
 
 We turn to this "masterpiece of the Blessed Trinity" who can lead us to the Father, to the Son, and to the Holy Spirit with ever greater frequency.
 
