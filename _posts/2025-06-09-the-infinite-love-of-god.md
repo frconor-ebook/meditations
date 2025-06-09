@@ -39,9 +39,9 @@ We\'re told in St. John, "If a man has any love for me, he will be true to my wo
 
 And Our Lord communicates with us in the intimacy of our hearts, both during these periods of prayer and also throughout the day.
 
-St. John of Chrysostom says, "I am a friend, an associate and head, and a brother and sister, and a mother; I am everything, and all I want is an intimate friendship with you. I have become poor for you, a beggar for you, been crucified for you, buried in a sepulcher for you; in heaven I intercede before God the Father for you; and on earth I am his ambassador to you. You are everything to me, brother, co-heir, friend, and associate. What more do you want?" (St. John Chrysostom, *Homilies on St. Matthew*).
+St. John of Chrysostom says, "I am a friend, an associate and head, and a brother and sister, and a mother; I am everything, and all I want is an intimate friendship with you. I have become poor for you, a beggar for you, been crucified for you, buried in a sepulcher for you; in heaven I intercede before God the Father for you; and on earth I am his ambassador to you. You are everything to me, brother, co-heir, friend, and associate. What more do you want?" (John Chrysostom, *Homilies on St. Matthew*).
 
-What more could we want? When we contemplate Our Lord in each one of the scenes of *The Way of the Cross*, these words easily come to our lips from the heart: "To know that you love me so much, my God, and yet\...I have not lost my mind (Josemaría Escrivá, *The Way*, Point 425).
+What more could we want? When we contemplate Our Lord in each one of the scenes of *The Way of the Cross*, these words easily come to our lips from the heart: "To know that you love me so much, my God, and yet\...I have not lost my mind! (Josemaría Escrivá, *The Way*, Point 425).
 
 In Psalm 86 we\'re told, "There is none like you, Lord. So great you are, so marvelous are your doings. You alone are God" (Ps. 86:8,10).
 
@@ -51,9 +51,9 @@ He has never stopped loving us, helping us, protecting us, talking to us. He has
 
 It is, perhaps, on such occasions that we have received the most attention from God as in the parables where He wished to express His mercy in a singular way: the lost sheep is the only one carried on the shoulders (Luke 15:5), the feast is laid on by the father for the one of his sons who has hurt him most (Luke 15:23-24), the lost drachma is carefully sought by its owner until she finds it (Luke 15:8-9).
 
-God\'s attention to and His love for us has been constant throughout our lives. He has been aware of all the circumstances and events which we have had to live through. He is beside us in every situation and at every moment.
+God\'s attention to and His love for us have been constant throughout our lives. He has been aware of all the circumstances and events which we have had to live through. He is beside us in every situation and at every moment.
 
-We're told in St. Matthew, "Behold, I am with you all through the days that are coming, until the consummation of the world" (Matt. 28:20), until the final moments of our lives.
+We're told in St. Matthew, "Behold, I am with you through all the days that are coming, until the consummation of the world" (Matt. 28:20), until the final moments of our lives.
 
 How often He has continued an apparently chance meeting! In joy and in sorrow, through what at first sight seemed a misfortune, in a friend, in a colleague at work, in a priest who has looked after us...
 
@@ -71,7 +71,7 @@ We can try to give thanks for so much love, for such loving care, which we do no
 
 *Uri igne Sancti Spiritus!* Enkindle in our hearts the fire of your love (*Prayer to the Holy Spirit*).
 
-Francesca Javiera del Valle, in her book *About the Holy Spirit*, said, "Had I a million lives I would give them to possess you, and a thousand\...a thousand more would I give\...to love you, if I were able to\...with this love, pure and strong, with which you, being who you are\...love us continuously."
+Francesca Javiera del Valle, in her book *About the Holy Spirit,* said, "Had I a million lives I would give them to possess you, and a thousand\...a thousand more would I give\...to love you, if I were able to\...with this love, pure and strong, with which you, being who you are\...love us continuously."
 
 What about our response? The first commandment: to love the Lord Our God in the little incidents of each day.
 
@@ -85,9 +85,9 @@ In *Friends of God*, Point 296, St. Josemaría says, "While we carry out as perf
 
 When we rise to respond to God\'s love, the obstacles disappear; on the other hand, without love, even the tiniest difficulties may seem insuperable. When there is union with Our Lord, everything becomes tolerable.
 
-St. Augustine says, "While all sorts of setbacks are encountered as difficult by those who do not love; those who do love, on the contrary, find them trivial and easily manageable. There is no suffering, however cruel or violent it may be, which is not made bearable or even reduced to nothing by love."
+St. Augustine says, "While all sorts of setbacks are encountered as difficult by those who do not love; those who do love, on the contrary, find them trivial and easily manageable. There is no suffering, however cruel or violent it may be, which is not made bearable or even reduced to nothing by love" (Augustine, *Sermon 70*).
 
-Cheerfulness, maintained even in the midst of difficulties, is the clearest sign that the love of God informs all our actions. For, comments St. Augustine, "he who loves either does not feel the difficulty or he loves the very difficulty itself. The works of those who love are never distressing."
+Cheerfulness, maintained even in the midst of difficulties, is the clearest sign that the love of God informs all our actions. For, comments St. Augustine, "he who loves either does not feel the difficulty or he loves the very difficulty itself. The works of those who love are never distressing" (Augustine, *De bono viduitatis*, 21,26).
 
 Our love for God has to be supreme and absolute. Within this love all the noble loves of the earth find their place, according to the vocation each one has received, and each one fits in and is accommodated with naturalness.
 
@@ -99,7 +99,7 @@ Pope John Paul I said, "It would not be fair to say 'either God or man.' We ough
 
 "He loved God as his God, as more than all things and more than he loved himself. He loved Rachel as his wife above all other women and as he loved himself. He loved God with an absolute and sovereign love, and Rachel with his conjugal love.
 
-"One love is not contrary to the other, because his love for Rachel did not impede the supreme transcendence of his love for God.'" (John Paul I, *General Audience*, September 27, 1978).
+"One love is not contrary to the other, because his love for Rachel did not impede the supreme transcendence of his love for God'" (John Paul I, *General Audience*, September 27, 1978).
 
 Our love for God is necessarily shown in our love for others. The way we love God is shown in the way we live charity with those who are beside us in our day-to-day lives.
 
@@ -117,7 +117,7 @@ We're told, "Whereupon the disciple whom Jesus loved said to Peter, 'It is the L
 
 "The adolescent apostle, who felt a deep and firm affection for Jesus, because he loved Christ with all the purity and tenderness of a heart that had never been corrupted, exclaimed, 'It is the Lord!' Simon Peter, hearing him say that it was the Lord, girded up his fisherman\'s coat, and sprang into the sea (John 21:7).
 
-"Peter personifies faith. Full of marvelous daring, he leaps into the sea. With a love like John\'s and a faith like Peter\'s, what is there that can stop us?" (J. Escrivá, *Friends of God*, Points 265-266).
+"Peter personifies faith. Full of marvelous daring, he leaps into the sea. With a love like John\'s and a faith like Peter\'s, what is there that can stop us?" (*ibid*.).
 
 "It is the Lord!" This cry has to rise from our hearts too, in the middle of our work, when we are ill, in all our dealings with the people who share our lives.
 

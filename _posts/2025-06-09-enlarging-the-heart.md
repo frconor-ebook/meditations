@@ -19,7 +19,7 @@ But this doctor of the Law asked Him what the first commandment was. Our Lord di
 
 Pope Benedict, in his Encyclical *Caritas in veritate*--Charity in Truth--writes, "As a spiritual being, the human creature is defined through interpersonal relations. The more authentically he or she lives these relations, the more his or her own personal identity matures."
 
-He says this "requires a deeper critical evaluation of the category of relation...so that man\'s transcendent dignity can be properly understood" (Pope Benedict, Encyclical, *Caritas in veritate*, June 29, 2009).
+He says this "requires a deeper critical evaluation of the category of relation...so that man\'s transcendent dignity can be properly understood" (Benedict XVI, Encyclical, *Caritas in veritate*, Point 53, June 29, 2009).
 
 All of us, in very different ways, and from many different perspectives, are dedicated to caring for and dignifying people, especially those most in need. In the family, it may be the care of babies, the elderly, those with special needs; or neighbors; or maybe we\'re professionally involved in caring for people.
 
@@ -29,27 +29,29 @@ Monsignor Fernando Ocáriz, the Prelate of Opus Dei, says, "As disciples of Jesu
 
 "In today\'s world, poverty presents many faces: sick and elderly people treated with indifference, the loneliness felt by many abandoned people, the drama of refugees, and the destitution in which a large part of mankind lives, often as a result of injustices that cry out to Heaven" (Fernando Ocáriz, *Pastoral Letter*, February 14, 2017; *Enlarging the Heart*, January 22, 2023).
 
-He says we can\'t be indifferent to any of these things. We\'re all created "to exercise 'the *creativity in charity'* (John Paul II, Apostolic Letter, *Novo millennio ineunte*, January 6, 2001) in order to bring the balm of God\'s tenderness to all our brothers and sisters who are in need."
+He says we can\'t be indifferent to any of these things. We\'re all created "to exercise the 'creativity' in charity (John Paul II, Apostolic Letter, *Novo millennio ineunte*, Point 50, January 6, 2001) in order to bring the balm of God\'s tenderness to all our brothers and sisters who are in need" (*ibid*.).
 
-That\'s a very beautiful phrase: "the creativity in charity." Every father of a family, every mother, has to try and think and see: How can I creatively bring charity to my family life with my words, with my example, with my family actions, helping my children to be more aware and reach out more and to see people around us who are in need and see everything that they have as gifts that God has given to them to use well and to pass on to other people? ---Because we all have "to bring the balm of God\'s tenderness" to everyone in need, to infect other people with these ideas, this disposition, and the social dimension of property in all its aspects, and to try and transmit this to fellow students, to colleagues, to neighbors.
+That\'s a very beautiful phrase: "the creativity in charity." Every father of a family, every mother, has to try and think and see: How can I creatively bring charity to my family life with my words, with my example, with my family actions, helping my children to be more aware and reach out more and to see people around us who are in need and see everything that they have as gifts that God has given to them to use well and to pass on to other people?
+
+---Because we all have "to bring the balm of God\'s tenderness" to everyone in need, to infect other people with these ideas, this disposition, and the social dimension of property in all its aspects, and to try and transmit this to fellow students, to colleagues, to neighbors.
 
 If we\'re involved in some organization or some group that\'s having some sort of a celebration, we\'ll try and make sure that there\'s always this social dimension to that celebration. We think of others who are not having this celebration.
 
 He says, "When human beings ignore or neglect their condition as children of God, all their relationships are affected: with themselves, with others, and with creation.
 
-"As Pope Francis has said, this 'interdependence becomes dependence: we lose this harmony of interdependence and solidarity' (Pope Francis, *General Audience*, September 2, 2020). We are jointly responsible for taking care of the world, establishing relationships founded on charity, justice, and respect, especially overcoming the disease of indifference. St. John Paul II wrote: 'Every man is his brother\'s keeper, because God entrusts us to one another' (John Paul II, Encyclical, *Evangelium vitae*, March 25, 1995)."
+"As Pope Francis has said, this 'interdependence becomes dependence: we lose this harmony of interdependence and solidarity' (Pope Francis, *General Audience*, September 2, 2020). We are jointly responsible for taking care of the world, establishing relationships founded on charity, justice, and respect, especially overcoming the disease of indifference. St. John Paul II wrote: 'Every man is his brother\'s keeper, because God entrusts us to one another'" (John Paul II, Encyclical, *Evangelium vitae*, March 25, 1995).
 
-Some of us are "moved by the same inspiration, work in organizations of different types and focuses, because we feel impelled to 'do something,' not to sit with our arms crossed" (F. Ocáriz, *Ibid*.).
+Some of us are "moved by the same inspiration, work in organizations of different types and focuses, because we feel impelled to 'do something,' not to sit with our arms crossed" (F. Ocáriz, *ibid*.).
 
 We have to try and transmit that spirit to our children and grandchildren.
 
-"It\'s at the heart of the spirit of Opus Dei to turn ordinary realities into a place of encounter with God and service to others; it is the aspiration of mature people, professionally competent and sensitive to others, seeking to make the world a more just and fraternal place" (*Ibid*.).
+"It\'s at the heart of the spirit of Opus Dei to turn ordinary realities into a place of encounter with God and service to others; it is the aspiration of mature people, professionally competent and sensitive to others, seeking to make the world a more just and fraternal place" (*ibid*.).
 
 That\'s our role, to think, What can I give? What can I contribute? What can I do?
 
 "The phrase of St. Josemaría, '*passionately loving the world*,' means knowing it, caring for it, serving it."
 
-In a letter published in the 1950s, St. Josemaría said, "Christians cannot be individualists who forget about the needs of others. Nor can Christians live selfishly and turn their backs on the world; they are essentially social, responsible members of Christ's Mystical Body" (Josemaría Escrivá, *The Collected Letters* (Vol. I, Letter No. 3).
+In a letter published in the 1950s, St. Josemaría said, "Christians cannot be individualists who forget about the needs of others. Nor can Christians live selfishly and turn their backs on the world; they are essentially social, responsible members of Christ's Mystical Body" (Josemaría Escrivá, *The Collected Letters* Vol. I, Letter No. 3).
 
 "It might seem utopian to think that we are capable of doing something to alleviate the suffering of humanity." But we know that it\'s Our Lord acting in us and through us and is going to do things.
 
@@ -59,7 +61,7 @@ She answered, "I\'m not called to be successful. I\'m just called to be faithful
 
 So, each one of us has a role to play. Each child has his or her role to play, knowing that Christ carries the burden.
 
-"The wounds in his side, on his hands, and on his feet are reminders of the wounds of the world. And Jesus has told us: 'Whatever you did for one of these, you did for me' (Matt. 25:40). The path of identification with Christ transforms the human heart and opens it to charity. Union with Our Lord, in the sacraments and in prayer, leads us to discover our neighbors and their needs and to pay less attention to ourselves" (F. Ocáriz, *Op. cit*.).
+"The wounds in his side, on his hands, and on his feet are reminders of the wounds of the world. And Jesus has told us: 'Whatever you did for one of these, you did for me' (Matt. 25:40). The path of identification with Christ transforms the human heart and opens it to charity. Union with Our Lord, in the sacraments and in prayer, leads us to discover our neighbors and their needs and to pay less attention to ourselves" (F. Ocáriz, *op. cit*.).
 
 I heard someone say that we solve all our problems by thinking about others.
 
@@ -67,9 +69,9 @@ I heard someone say that we solve all our problems by thinking about others.
 
 In this meditation, we could ask Our Lord to enlarge our hearts---\"to give us a heart to the measure of His."
 
-That\'s why this meditation is entitled *Enlarging the Heart* "so that into our hearts," says the Prelate of Opus Dei, "there may enter into it all the needs, pains, and sufferings of the men and women of our time, especially the weakest" (F. Ocáriz, *Op. cit*.) ---so that we have a special sensitivity, the sensitivity of the Heart of Mary.
+That\'s why this meditation is entitled *Enlarging the Heart* "so that into our hearts," says the Prelate of Opus Dei, "there may enter into it all the needs, pains, and sufferings of the men and women of our time, especially the weakest" (F. Ocáriz, *op. cit*.) ---so that we have a special sensitivity, the sensitivity of the Heart of Mary.
 
-"A prayerful heart in the middle of the world supports and accompanies others in their needs. Identification with Jesus opens us to others\' needs. At the same time, contact with those in need leads us to Jesus" (*Ibid*.).
+"A prayerful heart in the middle of the world supports and accompanies others in their needs. Identification with Jesus opens us to others\' needs. At the same time, contact with those in need leads us to Jesus" (*ibid*.).
 
 A young professional, a married professional in Manila one time, had a business of transporting, I think it was oil, to different islands of the archipelago.
 
@@ -105,7 +107,7 @@ Pope Francis says: "The poor, always and everywhere, evangelize us, because they
 
 Try and never pass a poor person without giving them something---if not something material, something spiritual.
 
-Pope Benedict said, "From the time of the early Church, it has been understood that the Gospel message is based on concern for the poor and that it is a recognizable sign of Christian identity and an element in its credibility" (cf. Benedict XVI, Encyclical, *Deus caritas est*, December 25, 2005).
+Pope Benedict said, "From the time of the early Church, it has been understood that the Gospel message is based on concern for the poor and that it is a recognizable sign of Christian identity and an element in its credibility" (*cf*. Benedict XVI, Encyclical, *Deus caritas est*, December 25, 2005).
 
 St. John startlingly and astonishingly tells us in his Gospel that Judas did not care for the poor. That\'s a terrible condemnation.
 
@@ -113,13 +115,13 @@ Judas was an apostle, so close to Christ, so trusted. He got all the formation t
 
 St. John says, "He said this not because he cared for the poor, but because he was in charge of the purse. He used to take what was put into it" (John 12:6).
 
-Judas used the poor to justify his stinginess. "'Why was this ointment not sold for 300 denarii and given to the poor?'" (John 12:5).
+Judas used the poor to justify his stinginess. "Why was this ointment not sold for 300 denarii and given to the poor?" (John 12:5).
 
 "He knew the price of everything but the value of nothing" (Fulton Sheen, *Sermon*). He used to steal from the poor. It\'s super ugly.
 
 Yet Our Lord gives us that example, that bad example, in the final week of His life. It\'s like a wake-up call.
 
-"We want to place Christ at the heart of all human activities, sanctifying professional work and the Christian\'s ordinary duties. This mission is carried out in the street, in society, especially through our work" (F. Ocáriz, *Ibid*.).
+"We want to place Christ at the heart of all human activities, sanctifying professional work and the Christian\'s ordinary duties. This mission is carried out in the street, in society, especially through our work" (F. Ocáriz, *ibid*.).
 
 In *Conversations*, Point 56, St. Josemaría says, "The value of ordinary work, which can be a highly effective means of loving and serving God and others, whether it stands out in others\' eyes or is lowly from a human point of view."
 
@@ -129,7 +131,7 @@ The person wasn\'t expecting that. They remarked in writing, in this message, ho
 
 From doing our ordinary work well, with cheerfulness, with detail, going the extra mile, we can bring an awful lot of joy into the lives of other people.
 
-St. Josemaría invited everyone "to work in the way they personally see fit to eliminate intolerance and to make society more just" (*Ibid*.).
+St. Josemaría invited everyone "to work in the way they personally see fit to eliminate intolerance and to make society more just" (*ibid*.).
 
 "For those who wish to follow Christ, all work is an opportunity to serve others, especially those most in need.
 
@@ -151,15 +153,15 @@ But first, charity is justice.
 
 "At times, the temptation to 'take refuge in work' could appear, in the sense of not discovering work\'s transformative social dimension, conforming ourselves to a false spiritualism. Sanctified work is always a lever for the transformation of the world, and the usual means by which the changes that dignify people\'s lives are brought about, so that charity and justice truly permeate all relationships.
 
-"The work thus accomplished will be able to contribute to purifying the structures of sin (cf. John Paul II, Encyclical, *Sollicitudo rei socialis*, December 30, 1987), making them into structures within which integral human development is really possible" (F. Ocáriz, *Ibid*.).
+"The work thus accomplished will be able to contribute to purifying the structures of sin (*cf*. John Paul II, Encyclical, *Sollicitudo rei socialis*, December 30, 1987), making them into structures within which integral human development is really possible" (F. Ocáriz, *ibid*.).
 
 John Paul II talked a lot about the "structures of sin." He said the concept of social sin that may exist in society, misery, injustice, and oppression, is all a consequence of personal sin (John Paul II, Apostolic Exhortation *Reconciliatio et Paenitentia*, December 2, 1984).
 
 If we want to do something about social sin, we have to do something about our personal sins.
 
-"Faith helps us to maintain our confidence in the future. St. Josemaría said, 'Our apostolic work will contribute to peace, to the collaboration of people with each other, to justice, to avoiding war, to avoiding isolation, to avoiding both national and personal selfishness. It will do so because everyone will realize that they are part of the whole great human family, which is directed by God\'s will towards perfection. In this way, we will help remove the all too common anxiety and fear of a future marked by fratricidal resentments. In addition, we will strengthen in souls and in society peace and harmony: tolerance, understanding, mutual relations, love' (J. Escrivá, *The Collected Letters* (Vol. I, Letter No. 3).
+"Faith helps us to maintain our confidence in the future. St. Josemaría said, 'Our apostolic work will contribute to peace, to the collaboration of people with each other, to justice, to avoiding war, to avoiding isolation, to avoiding both national and personal selfishness. It will do so because everyone will realize that they are part of the whole great human family, which is directed by God\'s will towards perfection. In this way, we will help remove the all too common anxiety and fear of a future marked by fratricidal resentments. In addition, we will strengthen in souls and in society peace and harmony: tolerance, understanding, mutual relations, love' (J. Escrivá, *The Collected Letters*, Vol. I, Letter No. 3).
 
-"The message of Opus Dei urges us to strive for the transformation of the world through work. This also includes having compassion, like the Samaritan (Luke 10:33), as a requirement of love, which brings the law to its fullness (Luke 13:8,10). Love makes our freedom ever more willing and ready to do good" (F. Ocáriz, *Ibid*.).
+"The message of Opus Dei urges us to strive for the transformation of the world through work. This also includes having compassion, like the Samaritan (Luke 10:33), as a requirement of love, which brings the law to its fullness (Luke 13:8,10). Love makes our freedom ever more willing and ready to do good" (F. Ocáriz, *ibid*.).
 
 St. Josemaría wrote: "The wider spread of social remedies for the plagues of suffering and destitution---which make it possible to achieve humanitarian results today that could not have been dreamed of in other times---will never be able to supplant the efficacious tenderness, both human and supernatural, of immediate, personal contact with our neighbor; with this poor person in a neighborhood nearby, with this sick person living in pain in an immense hospital..." (J. Escriva, *Letter*, October 24, 1942).
 
@@ -175,7 +177,7 @@ But he\'s saying that even with all those means we can\'t hack it. We need the v
 
 "We have before us a vast panorama in the family and in society, and those with a big heart will try earnestly to care for their elderly parents, to give alms, to take an interest in their neighbors\' problems, to pray for a friend overwhelmed with worry, to visit a sick relative in the hospital or at home, to stop and talk to a person they see regularly who is living on the street, to listen patiently."
 
-"It\'s not...a matter of adding new tasks to the ones we already perform; it is rather a matter of trying to make manifest, from our own identity, Christ\'s love for others" (F. Ocáriz, *Ibid*.).
+"It\'s not...a matter of adding new tasks to the ones we already perform; it is rather a matter of trying to make manifest, from our own identity, Christ\'s love for others" (F. Ocáriz, *ibid*.).
 
 As I was growing up, I witnessed what my mother was trying to do, and my father also, were trying to do a lot of these things.
 
@@ -187,7 +189,7 @@ My mother came in contact with Opus Dei. She became a supernumerary member of Op
 
 "We will be prepared to make decisions of greater personal austerity, avoiding consumerism, the lure of novelty, luxury... and we will know how to renounce unnecessary goods that, in our professional situation, we could perhaps afford.
 
-"In this way, we will be receptive to personal change, to opening our ears to the Holy Spirit, and listening to what he tells us through poverty" (F. Ocáriz, *Ibid*.).
+"In this way, we will be receptive to personal change, to opening our ears to the Holy Spirit, and listening to what he tells us through poverty" (F. Ocáriz, *ibid*.).
 
 A Christian conscience thinks twice. It\'s not enough just to have a social consciousness, taking very good care of everybody around us. That needs to be accompanied by a person living out of the virtue of detachment and poverty.
 
