@@ -35,7 +35,7 @@ Bishop Sheen likes to say, "No one ever fell away from God without neglecting th
 
 On the other hand, prayer unites us to God. He tells us, "Without me, you can do nothing" (John 15:5).
 
-It is good, said St. Luke, to pray with perseverance, never vacillating (cf. Luke 18:1).
+It is good, said St. Luke, to pray with perseverance, never vacillating (*cf*. Luke 18:1).
 
 We have to speak with Him a great deal, insistently, in the various circumstances of our lives.
 
@@ -43,7 +43,7 @@ Now, moreover, we walk with Jesus along the Way of the Cross. In *The Way,* Poin
 
 With the example of His own life, the Lord teaches us what our fundamental approach has to be: a continuous filial dialogue with God.
 
-St. Teresa of Ávila has said, "In my view, mental prayer is nothing more but friendly dialogue and frequent solitary conversation with him whom we know loves us" (St. Teresa, *Life*).
+St. Teresa of Ávila has said, "In my view, mental prayer is nothing more but friendly dialogue and frequent solitary conversation with him whom we know loves us" (Teresa of Ávila, *Life*).
 
 We have to try always to be in the presence of God and to contemplate the mysteries of our faith. This dialogue with God should not be interrupted, and even further, should be carried out in the midst of all our activities.
 
@@ -63,7 +63,7 @@ But the sight of Jesus in the Garden always points to the way that we have to pr
 
 To move along the road to holiness, but especially when we feel the weight of our weaknesses, we have to recollect ourselves in prayer, in an intimate conversation with Our Lord.
 
-Public prayer, or prayer in common, in which all the faithful take part, is holy and necessary, for God wishes also to see His children praying together (Matt. 18:19-20).
+Public prayer, or prayer in common, in which all the faithful take part, is holy and necessary, for God wishes also to see His children praying together (*cf*. Matt. 18:19-20).
 
 But Our Lord\'s commandment to us to "go into your inner room and shut the door upon yourself, and so pray to your Father in secret" (Matt. 6:6) should never be superseded.
 
@@ -93,7 +93,7 @@ Our prayer ought never to be impersonal, anonymous, dispersed and lost in the cr
 
 Prayer ought to be the dialogue of a particular person---one who has ideals, a specific job, specific friends, who has received specific graces from God, and wants to talk with his God about all of these things.
 
-"When he rose from prayer, he went back to his disciples and found they were sleeping for sorrow. Our Lord said, 'How can you sleep? Rise up and pray, so that you may not enter into temptation'" (Luke 22:45-46).
+"When he rose from prayer, he went back to his disciples and found they were sleeping for sorrow." Our Lord said, "'How can you sleep? Rise up and pray, so that you may not enter into temptation'" (Luke 22:45-46).
 
 The apostles had ignored Our Lord\'s command. There may be many times in our life when we have been like the apostles. Possibly Our Lord has told us specific things, or things He wants us to do, or jobs to fulfill, or people to speak to.
 
@@ -125,7 +125,7 @@ If we maintain a living dialogue with God during each period of prayer, we will 
 
 We will frequently resort to the Gospels or some other book that helps us to pray so that it can help us to channel our dialogue, to come closer to Our Lord, for whom no one or nothing can be a substitute. This is the way many saints have been made.
 
-"During all those years," says St. Teresa of Ávila, 'except for after Communicating, I never dared begin to pray without a book; my soul was as much afraid to engage in prayer without one, as if it were having to go and fight against a host of enemies. With this help, which was a companion to me and a shield with which I could fight off the many blows of my many thoughts, I felt comforted" (St. Teresa of Ávila, *Life*).
+"During all those years," says St. Teresa of Ávila, 'except for after Communicating, I never dared begin to pray without a book; my soul was as much afraid to engage in prayer without one, as if it were having to go and fight against a host of enemies. With this help, which was a companion to me and a shield with which I could fight off the many blows of my many thoughts, I felt comforted" (Teresa of Ávila, *Life*).
 
 It is really encouraging to know how the saints had to fight that battle for prayer.
 
@@ -147,7 +147,7 @@ God knows our weaknesses and is patient, but we have to ask Him: Lord, "grant me
 
 It pleases Our Lord when we resolve to improve our mental prayer each day of our lives---even on those occasions when things require more effort, are difficult, or when we feel arid.
 
-In Point 464 of the *Furrow*, we're told, "Prayer is not a question of what you say or feel, but of love. And you love when you try to say something to the Lord, even though you might not actually say anything" (J. Escrivá, *Furrow*, Point 464).
+"Prayer is not a question of what you say or feel, but of love. And you love when you try to say something to the Lord, even though you might not actually say anything" (J. Escrivá, *Furrow*, Point 464).
 
 If this is our approach, then our life will be continually enriched and strengthened.
 
@@ -159,7 +159,7 @@ Every person can only truly know themselves with the light of God.
 
 "This knowledge has a negative aspect, but it is one that leads to something positive. The negative aspect concerns our sin, our profound misery. We don\'t recognize it except in the light of God.
 
-"Faced with Him, lies are no longer possible; there\'s no escaping, no justification, no more masks to cling to. We\'re obliged to recognize who we are, with our wounds, our weaknesses, our inconsistencies, our egoism, our hardness of heart, our secret complicities with evil.
+"Faced with him, lies are no longer possible; there\'s no escaping, no justification, no more masks to cling to. We\'re obliged to recognize who we are, with our wounds, our weaknesses, our inconsistencies, our egoism, our hardness of heart, our secret complicities with evil.
 
 "Happily, God is tender and merciful, and this light that is shed on us is done so progressively, as we are able to handle it. God only shows us our sin while simultaneously revealing His forgiveness and His mercy. We discover the sadness of our sinful condition, and also our absolute poverty as creatures" (Jacques Philippe, *Nine Days to Rediscover the Joy of Prayer*).
 
@@ -167,13 +167,13 @@ All this happens in our prayer. "This step toward truth is necessary: there is n
 
 "Fortunately, things don't stop there. They lead on to something still more profound and infinitely beautiful: beyond our sins and our misery, the discovery of our condition as children of God. God loves us just as we are, with an absolutely unconditional love, and it\'s this love that forms our deepest identity.
 
-"More deep and essential than our human limits and the evil that affects us, there is at our base an intact and pure core, our identity as sons and daughters of God" (*Ibid*.).
+"More deep and essential than our human limits and the evil that affects us, there is at our base an intact and pure core, our identity as sons and daughters of God" (*ibid*.).
 
 Prayer is a powerful lamp which throws light on our problems, enables us to get to know people better, and thus to help them on their path towards Christ, and to assign the proper place to the matters which preoccupy us.
 
 Our prayer helps God to be the center of our lives. The more He\'s there, the more we\'re expecting everything from Him and from Him only, and the more our human relationships will have the chance to be well-adapted and happy.
 
-"Experience shows us that faithfulness to prayer, even if it sometimes goes through difficult periods, moments of dryness, or trying times, progressively leads us to find in God a profound peace, a security, a happiness that makes us free with regard to others and to things" (*Ibid*.).
+"Experience shows us that faithfulness to prayer, even if it sometimes goes through difficult periods, moments of dryness, or trying times, progressively leads us to find in God a profound peace, a security, a happiness that makes us free with regard to others and to things" (*ibid*.).
 
 Prayer locates the soul in an environment of serenity and of peace, which is then transmitted to others. The joy it produces is a foretaste of the happiness in heaven.
 
@@ -185,4 +185,4 @@ If we turn to Our Mother in heaven, we will learn quite quickly to follow Jesus 
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*Olv*
+*OLV*
