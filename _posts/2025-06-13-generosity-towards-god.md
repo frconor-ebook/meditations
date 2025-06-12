@@ -21,7 +21,7 @@ We\'re told by St. Paul our encounter with the Lord will arrive without warning,
 
 Our Lord tells us in many places that we have to spend our earthly life in such a way as to win heaven (Matt. 25:14-30).
 
-Our Lord compares our time on earth to a long-term leasing arrangement. It will be as when a man going on a journey called his servants and entrusted to them his property. To one he gave five talents, to another two, to another one, to each according to his ability. Then he went away.
+Our Lord compares our time on earth to a long-term leasing arrangement. "It will be as when a man going on a journey called his servants and entrusted to them his property. To one he gave five talents, to another two, to another one, to each according to his ability. Then he went away."
 
 The owner knew the capacity of each of his servants. He didn\'t want to burden every one of them with the same responsibility. That would have been unjust.
 
@@ -31,7 +31,7 @@ After some time had passed, the master returned from his travels and came to set
 
 The servant with five talents produced five talents more. In like manner, the servant with two talents had doubled his share. These servants had made good use of their time to yield additional earnings.
 
-Consequently, each one thoroughly deserved the wonderful words of praise and blessing from Our Lord: "Well done, good and faithful servant. You have been faithful over a little; I will set you over much. Enter into the joy of your master" (Matt. 25:21,23).
+Consequently, each one thoroughly deserved the wonderful words of praise and blessing from Our Lord: "Well done, good and faithful servant. You have been faithful over a little; I will set you over much. Enter into the joy of your master" (Matt. 25:14-15,19,21,23).
 
 The meaning of the parable is crystal clear. We are the servants. The talents are the qualities God has bestowed on us---our intelligence, our ability to love, our power to make others happy, temporal goods.
 
@@ -39,13 +39,13 @@ The journey of the master signifies the duration of our life. His unexpected ret
 
 Our Lord frequently reminds us in the Gospels that we do not own what we have. We are stewards entrusted with God\'s property. A day will come when we will have to give an account of our behavior.
 
-We could examine our whole approach to the gifts we have received from God. Do we think of ourselves as stewards? Or do we live under the illusion that we are true owners of what we possess?
+We could examine our whole approach to the gifts we have received from God. Do we think of ourselves as stewards, or do we live under the illusion that we are true owners of what we possess?
 
-We might need to reflect on our attitude towards our bodies and our senses. Do we use them to give glory to God? Do we contribute to the common good with our belongings, our professional work, our friendships?
+We might need to reflect on our attitude towards our bodies and our senses. Do we really use them to give glory to God? Do we contribute to the common good with our belongings, our professional work, our friendships?
 
 Our Lord wants to see that His gifts have been well administered. His reward is in direct proportion to what He has already granted us. "Everyone to whom much is given, of him much will be required. And of him to whom men commit much, much they will demand the more" (Luke 12:48).
 
-Those words can haunt us. It was never to be satisfied with ourselves---always, to be looking to do more, to give more, to go the extra mile, to look for opportunities, to have initiatives---because each of us has to try and render the amount that God wants us to give, to be generous with our God, with what He has given to us.
+Those words can haunt us. It was never to be satisfied with ourselves---always, to be looking to do more, to give more, to go the extra mile, to look for opportunities, to have initiatives---because each of us has to try and render the amount that God wants us to give, to be generous with Our God, with what He has given to us.
 
 To the man who received five talents, Our Lord said, "Well done, good and faithful servant!" (Matt. 25:21). What men may see as much, God may view as little.
 
@@ -57,7 +57,7 @@ This outcome is what God sees as valuable: "What no eye has seen, nor ear heard,
 
 We cannot even begin to imagine what heaven will be like. St. Josemaría in *The Way* says, "Foster in your heart the glorious hope of heaven" (Josemaría Escrivá, *The Way*, Point 668).
 
-Naturally, we want to be found vigilant when Our Lord comes. Nothing could be more important. We have to make use of the time we have to make ready. Every day is important. Every hour is important.
+Naturally, we want to be found vigilant when Our Lord comes. Nothing could be more important. We have to try and make use of the time we have to make ready. Every day is important. Every hour is important.
 
 In our spiritual life, we can try to have one little thing in which we\'re trying to be better on this particular day. Our Lord has told us He will be happy to find us alert and on the watch. We hopefully will be able to tell Him, 'Lord, I\'ve lived my life for your glory, nothing else.'
 
@@ -145,7 +145,7 @@ Throughout His preaching, and, most poignantly, through His Passion and Death, O
 
 St. Paul said to the first Christians in Rome, "I appeal to you therefore, brethren, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship" (Rom. 12:1).
 
-Each Christian should unite himself with Christ in the Holy Mass. St. Pius XII in his encyclical *Mediator Dei* says, "In order that the offering by which the faithful offer the divine Victim in this sacrifice to the heavenly Father may have its full effect, it is necessary that the people add something else, namely, the offering of themselves as a victim" (Pius XII, Encyclical, *Mediator Dei*, Point 98, November 20, 1947).
+Each Christian should unite himself with Christ in the Holy Mass. St. Pius XII in his Encyclical *Mediator Dei* says, "In order that the offering by which the faithful offer the divine Victim in this sacrifice to the heavenly Father may have its full effect, it is necessary that the people add something else, namely, the offering of themselves as a victim" (Pius XII, Encyclical, *Mediator Dei*, Point 98, November 20, 1947).
 
 "Each should consecrate himself to the furthering of the divine glory, desiring to become as like as possible to Christ in his most grievous sufferings" (*ibid*., Point 99).
 
@@ -163,7 +163,9 @@ We shouldn\'t hesitate to give Our Lord everything we have. We have to give ours
 
 St. Josemaría in *Friends of God* says, "Don\'t be taken in by the hypocrites around you when they sow doubts as to whether Our Lord has a right to ask so much of you. Instead, put yourselves obediently and unconditionally in the presence of God, like 'clay in the potter\'s hands' (Jer. 18:6), and humbly confess to him: 'You are my God and my all'" (J. Escrivá, *Friends of God*, Point 167).
 
-God has been very generous with us. There\'s an ancient legend that tells of a kingdom where the subjects were obliged to present a gift to the king whenever they would meet him.
+God has been very generous with us.
+
+There\'s an ancient legend that tells of a kingdom where the subjects were obliged to present a gift to the king whenever they would meet him.
 
 One day a humble peasant found himself in the royal presence empty-handed, so he cupped a little water in his hand and made this his offering. The king was so pleased by the devotion of this peasant that he bestowed upon him a bowl full of gold coins.
 
@@ -177,7 +179,7 @@ Our Lord is waiting for us to offer our work, the difficulties of daily life, ou
 
 John Paul II says, "It is necessary to go beyond the limits of strict justice, in imitation of the exemplary conduct of the widow who teaches us to give with generosity even that which is meant for our own needs (Luke 21:1-4).
 
-"Above all, one must remember that God does not measure human actions by a standard which stops at the appearance of 'how much' is given. God measures according to the standard of the interior values of 'how' one places oneself at the disposition of one\'s neighbor. He measures according to the degree of love with which one freely dedicates oneself to the service of others" (John Paul II, *Address*, November 10, 1985).
+"Above all, one must remember that God does not measure human actions by a standard which stops at the appearance of 'how much' is given. God measures according to the standard of the interior values of 'how' one places oneself at the disposition of one\'s neighbor. He measures according to the degree of love with which one freely dedicates oneself to the service of the others" (John Paul II, *Address*, November 10, 1985).
 
 Our generous offerings will be most pleasing to God if we make them through His Mother. St. Bernard recommends, "Entrust your small gift to the care of Mary. She will ensure that your offering is favorably received by Our Lord" (St. Bernard, *Homily on the Nativity of the Blessed Virgin Mary*).
 

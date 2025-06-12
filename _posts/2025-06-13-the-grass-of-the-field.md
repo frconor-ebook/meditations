@@ -17,7 +17,7 @@ When the Prophet Habakkuk in the Old Testament complains about the apparent triu
 
 He says, "How long, Lord, am I to cry for help while you will not listen? ... Why do you set injustice before me? Why do you look on where there is tyranny? Outrage and violence, this is all I see, all is contention, and discord flourishes" (Hab. 1:2-3).
 
-Our Lord answers the Prophet with a call to patience and hope. The day will come when the evil ones will be punished. Our Lord says, "He whose soul is not at rights, but the upright man will live by faithfulness" whereas he whose soul is not at rights, Our Lord flags that soul (cf. Hab. 2:4).
+Our Lord answers the Prophet with a call to patience and hope. The day will come when the evil ones will be punished. Our Lord says, "He whose soul is not at rights, but the upright man will live by faithfulness" whereas he whose soul is not at rights, Our Lord flags that soul (*cf*. Hab. 2:4).
 
 Even when it seems that evil has triumphed, as if God did not exist, we need to remember that God and His followers will triumph in the end.
 
@@ -65,7 +65,7 @@ We are precisely in the same situation as the apostles. We need to ask Our Lord 
 
 After charity, faith was the virtue that Our Lord spoke so much about. When He found faith, He was always enormously happy. He felt compelled to work miracles: "Because of your faith. \... Go in peace" (Mark 5:34).
 
-He marveled at their unbelief. Then he also marveled at the faith of the centurion, **"**I have not found such great faith even in Israel"(Luke 7:9).
+He marveled at their unbelief. Then he also marveled at the faith of the centurion: **"**I have not found such great faith even in Israel" (Luke 7:9).
 
 Our Lord increased their faith. And they gave their lives for Christ and for His teachings.
 
@@ -103,7 +103,7 @@ We could try to make those acts of faith. When souls around us may seem not to r
 
 It\'s said that St. Thomas Aquinas, when he looked upon the host at the moment of Consecration, he would say: "You are the king of glory, you are the eternal Son of the Father" (Roman Missal, *Christ the King*, Canticle, *Te Deum*).
 
-In one of the biographies of St. Josemaría, it says that he had the custom of praying at that moment of the Consecration of the Mass: "Increase our faith, our hope, and our love." Whenever he made a genuflection he would pray, "I adore you with devotion, hidden God." *Adoro te devote, latens dietas* (cf. Andrés Vázquez de Prada, *The Founder of Opus Dei*).
+In one of the biographies of St. Josemaría, it says that he had the custom of praying at that moment of the Consecration of the Mass: "Increase our faith, our hope, and our love." Whenever he made a genuflection he would pray, "I adore you with devotion, hidden God." *Adoro te devote, latens dietas* (*cf*. Andrés Vázquez de Prada, *The Founder of Opus Dei*).
 
 Many people have the custom of praying those words of St. Thomas the Apostle at the moment of the Consecration: "My Lord and my God!" (John 20:28). We shouldn't let that moment pass without showing Our Lord our faith and our love.
 
@@ -125,11 +125,11 @@ St. Augustine comments: "Bartimaeus feared that Jesus would pass by and never re
 
 We can\'t neglect any opportunity for divine grace. We need to call to Our Lord forcefully, even in the depths of our soul: "Jesus, Son of David, have pity on me!"
 
-St. Bernard says, "My only merit is the mercy of the Lord. I will never lack any merit, as long as he is merciful. And since the mercy of the Lord is superabundant, then superabundant are my merits" (St. Bernard, *Homily on the Song of Songs*).
+St. Bernard says, "My only merit is the mercy of the Lord. I will never lack any merit, as long as he is merciful. And since the mercy of the Lord is superabundant, then superabundant are my merits" (Bernard of Clairvaux, *Homily on the Song of Songs*).
 
 We turn to Him with these merits, "Jesus, Son of David, have mercy on me" (Mark 10:47).
 
-St. Augustine teaches that "we should call out to Jesus with our prayer and good works" (St. Augustine, *Sermon 349*). Those works also include acts of charity, professional work well done, purity of soul after a contrite confession of our sins.
+St. Augustine teaches that "we should call out to Jesus with our prayer and good works" (Augustine, *Sermon 349*). Those works also include acts of charity, professional work well done, purity of soul after a contrite confession of our sins.
 
 The blind man overcame the obstacles of his environment, and he obtained his heart\'s desire. "Jesus stopped and said, 'Call him here.' So they called the blind man. They said, **'**Courage, get up, he is calling you.' Throwing off his cloak, he jumped up and went to Jesus" (Mark 10:49-50).
 
@@ -147,7 +147,7 @@ St. Josemaría comments, "And now begins a dialogue with God, a marvelous dialog
 
 "Don\'t fool yourself. Don\'t think that you are going to find new ways. The faith he demands of us is as I have said. We must keep in step with him, working generously and at the same time uprooting and getting rid of everything that stands in the way" (J. Escrivá, *Friends of God*, Points 197-198).
 
-Another moment in the Gospel, Our Lord says, "Go, sell what you have and give to the poor, and you will have treasure in heaven; and come, follow me" (Matt. 19:21).
+At another moment in the Gospel, Our Lord says, "Go, sell what you have and give to the poor, and you will have treasure in heaven; and come, follow me" (Matt. 19:21).
 
 This was Our Lord\'s advice to the young person who had great possessions. Those words of Our Lord should have served as a cause of joy to that young person, but they made him sad. We\'re told, "At that saying, his countenance fell, and he went away sorrowful" (Mark 10:22).
 

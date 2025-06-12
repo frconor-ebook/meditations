@@ -163,7 +163,7 @@ He said to her, "Madam, it\'s because we have so many ice cubes in our Church li
 
 Sometimes you might complain or make judgments about other people and when the real story comes out, we are the problem. We are the ice cube that lowers the temperature, whereas Our Lord invites us to lift the temperature.
 
-For being that little bit closer to Him, then there\'s a time for us to warm up that temperature, to grow on the inside, be closer to the heart of Christ, from which all graces flow. We go there to "draw water in joy from the wells of salvation" (Isa. 12:3).
+For being that little bit closer to Him, Lent is a time for us to warm up that temperature, to grow on the inside, be closer to the heart of Christ, from which all graces flow. We go there to "draw water in joy from the wells of salvation" (Isa. 12:3).
 
 We\'re told in the *Furrow,* "True charity neither keeps an account of the necessary services it renders all the time, nor takes note of the effronteries it has to put up with. *Omnia suffert---*it endures all things" (Josemaría Escrivá, *Furrow*, Point 738).
 
