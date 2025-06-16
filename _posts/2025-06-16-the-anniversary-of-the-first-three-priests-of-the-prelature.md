@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "The Anniversary of the Ordination of the First Three Priests of the"
+title: "The Anniversary of the First Three Priests of the Prelature"
 ---
 
 By Fr. Conor Donnelly
