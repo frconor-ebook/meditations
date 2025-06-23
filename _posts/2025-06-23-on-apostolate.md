@@ -9,7 +9,7 @@ By Fr. Conor Donnelly
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 There was a man in Australia once who learned about how to take the apostolic aspect of his Christian vocation a little more seriously.
 
@@ -23,11 +23,11 @@ He realized that one person that he had sort of struck up a friendship with was 
 
 The man had never been to a retreat, but he was willing to go, and so he went along to the retreat. Early in the retreat, he heard a meditation about apostolate, friendship, and confidence, reaching out to our friends and trying to influence our environment in that way.
 
-But he thought, 'I don\'t have too much opportunity for friendship and confidence because people come into my petrol station, they fill up and then they leave. It\'s a three-minute relationship.' He decided to pass on that one.
+But he thought, 'I don't have too much opportunity for friendship and confidence because people come into my petrol station, they fill up and then they leave. It's a three-minute relationship.' He decided to pass on that one.
 
 But later in the retreat, there was a talk on the family and about promoting the family. The Holy Spirit began to work and give him some ideas.
 
-He thought, 'I don\'t have too much opportunity to promote the family with my petrol station. It\'s a rather unusual way to promote the family.'
+He thought, 'I don't have too much opportunity to promote the family with my petrol station. It's a rather unusual way to promote the family.'
 
 But the Holy Spirit overcame these obstacles and gave him the idea: 'I could make my petrol station into a family-friendly petrol station.'
 
@@ -41,9 +41,9 @@ When he was invited to go again the following year, he readily accepted. Again, 
 
 This time it was about reaching out to your peers, your professional colleagues, and all those in a higher level, "launching out into the deep" (Luke 5:4), being daring, influencing our environment.
 
-Initially, he thought again that he didn\'t have too much opportunity to do things like that, to reach out to his peers. 'I think I\'ll just pass on that one again.'
+Initially, he thought again that he didn't have too much opportunity to do things like that, to reach out to his peers. 'I think I'll just pass on that one again.'
 
-But later on, there was another talk on the family. It was about how to promote the family and help one\'s peers to promote the family. And again, the Holy Spirit began to work.
+But later on, there was another talk on the family. It was about how to promote the family and help one's peers to promote the family. And again, the Holy Spirit began to work.
 
 He got the idea that maybe, he could call a meeting of all the petrol station owners in his area and share with them the idea of being a family-friendly petrol station.
 
@@ -63,15 +63,15 @@ Every day, every hour of our life, we have opportunities to sow seeds in the liv
 
 Sometimes God wants us to sit down, have a coffee or offer a drink or something, and go one-on-one with our friends and let down the drawbridge of our hearts. Share with them the things that we have come to treasure and value. Speak to them about God and about the spiritual realities of life.
 
-That\'s what friendship is. It\'s letting down the drawbridge of our hearts and letting other people see into our hearts and what\'s inside there.
+That's what friendship is. It's letting down the drawbridge of our hearts and letting other people see into our hearts and what's inside there.
 
-And when they see that, then they let down the drawbridge of their hearts and then there\'s a heart-to-heart communication.
+And when they see that, then they let down the drawbridge of their hearts and then there's a heart-to-heart communication.
 
-That\'s what friendship is all about. People see that there is something in your heart that they don\'t have, and hopefully, they want to have it.
+That's what friendship is all about. People see that there is something in your heart that they don't have, and hopefully, they want to have it.
 
 Our Lord in the Gospel said to St. Peter, "Come, follow me, and I will make you into fishers of men" (Matt. 4:19).
 
-It\'s a rather unusual phrase, "fishers of men." And yet Our Lord used it very deliberately.
+It's a rather unusual phrase, "fishers of men." And yet Our Lord used it very deliberately.
 
 If you think about what a fisherman is, most fishermen love their fishing. They love to be out fishing. They take very good care of their fishing. They think about the fish. They go to where the fish are. Nobody fishes from their living room.
 
@@ -79,21 +79,21 @@ I saw a fisherman once fishing from some rocks. And he got to the farthest point
 
 He had to climb over many craggy edges. He probably cut himself a few times to get to that optimal place, because that was the best place from which to cast his line.
 
-Fishermen maneuver themselves into position because their mind is on the fish, and because it\'s not just for the joy of casting the line or just being there. The whole idea is to catch the fish. That\'s what it\'s all about. He has to think very carefully and very cleverly about what bait he will use for which type of fish.
+Fishermen maneuver themselves into position because their mind is on the fish, and because it's not just for the joy of casting the line or just being there. The whole idea is to catch the fish. That's what it's all about. He has to think very carefully and very cleverly about what bait he will use for which type of fish.
 
 Our Lord wants then in our prayer that we talk to Him about our fishing. And we talk to Him about the fish: souls. Christ died on the Cross for souls.
 
-He loves it when we go to Him to talk all about our apostolate, the souls that we\'re trying to deal with, the ones we\'re trying to fish, we\'re trying to bring closer to God.
+He loves it when we go to Him to talk all about our apostolate, the souls that we're trying to deal with, the ones we're trying to fish, we're trying to bring closer to God.
 
-Those are the souls that He\'s interested in, the ones He\'s placed us in contact with. That\'s what it\'s all about. And so, our prayer, our conversation with Him comes alive.
+Those are the souls that He's interested in, the ones He's placed us in contact with. That's what it's all about. And so, our prayer, our conversation with Him comes alive.
 
-It\'s like if you\'re talking to somebody and they\'re a fan of some football club and you hit on the right club, Chelsea or Arsenal, then the conversation comes alive.
+It's like if you're talking to somebody and they're a fan of some football club and you hit on the right club, Chelsea or Arsenal, then the conversation comes alive.
 
-The topic that Our Lord loves to talk about is souls, because that\'s why He died on the Cross. So, it's very good to bring those souls to Him one by one.
+The topic that Our Lord loves to talk about is souls, because that's why He died on the Cross. So, it's very good to bring those souls to Him one by one.
 
 What do you want me to say to this one? What do you want me to say to that one? Or this son of mine? Or this daughter of mine?
 
-When I sit down with them over a couple of minutes to talk about things, what should I talk to them about? All the time we\'re fishing, and every opportunity is an opportunity to fish wherever God has placed us.
+When I sit down with them over a couple of minutes to talk about things, what should I talk to them about? All the time we're fishing, and every opportunity is an opportunity to fish wherever God has placed us.
 
 When some members of Opus Dei began to go into China many years ago, they met a man who had been in the seminary in the 1940s. The seminary was closed down with the Communist Revolution.
 
@@ -101,7 +101,7 @@ He was thrown out of the seminary, but he felt a call to evangelize. He used to 
 
 He was sharing a cell with a pickpocket. He thought, if God has placed me here in this prison cell with this pickpocket, He must want me to evangelize the pickpocket. He began to give doctrine classes to the pickpocket and the pickpocket was very impressed.
 
-He\'d never heard such beautiful things before about truth, about beauty, about love, about being happy in the world, the Ten Commandments, about the meaning and purpose of life.
+He'd never heard such beautiful things before about truth, about beauty, about love, about being happy in the world, the Ten Commandments, about the meaning and purpose of life.
 
 He felt that he should reciprocate in some way for such a great gift this man had given to him. But the only thing that he knew how to do was pickpocket. He gave classes in pickpocketing to the other man.
 
@@ -121,7 +121,7 @@ He told the pickpocket, "Look, make a loop at the end of the wire and then get t
 
 "Then I will turn the wire, which will turn the mug, which will make the water flow. And that way you will be baptized." That's what happened.
 
-Sometime later, that man came in contact with Opus Dei. He read the homilies of St. Josemaría in *Christ Is Passing By* and *Friends of God*. He discovered a deeper aspect of his Christian vocation. He said, "This is what I\'ve been trying to live for the last twenty years."
+Sometime later, that man came in contact with Opus Dei. He read the homilies of St. Josemaría in *Christ Is Passing By* and *Friends of God*. He discovered a deeper aspect of his Christian vocation. He said, "This is what I've been trying to live for the last twenty years."
 
 All over the place, there are opportunities. Sometimes they come to us handed on a plate. But sometimes God also wants us to make those opportunities, to create them, seize them when they come.
 
@@ -129,41 +129,41 @@ There may be people that God will place beside us at a meeting, at a conference,
 
 We never know how much God is depending on our initiative and correspondence and daring in those moments.
 
-There\'s a book by Sister Briege McKenna, available in the Pauline Bookshop, where she talks about how one day she was in the departure lounge of Dublin Airport, waiting for a plane to London at 8:00 in the morning.
+There's a book by Sister Briege McKenna, available in the Pauline Bookshop, where she talks about how one day she was in the departure lounge of Dublin Airport, waiting for a plane to London at 8:00 in the morning.
 
 She got chatting with the lady beside her. She asked her, "Well, are you going to visit some relatives in London?"
 
-The lady said, "No, I\'m going for an abortion." Sister Briege was shocked. At 8:00 in the morning, that was the last thing she expected in the departure lounge of Dublin Airport.
+The lady said, "No, I'm going for an abortion." Sister Briege was shocked. At 8:00 in the morning, that was the last thing she expected in the departure lounge of Dublin Airport.
 
-She told the lady, "You know, that means you\'re going to murder your baby."
+She told the lady, "You know, that means you're going to murder your baby."
 
-The lady said, "Well, the doctor says it\'s going to be a handicapped child. And I already have a few children and I can\'t manage another one, especially a handicapped one. I\'ve talked to all my relatives and friends and they\'re all in agreement. They all agree that God is merciful and God will understand."
+The lady said, "Well, the doctor says it's going to be a handicapped child. And I already have a few children and I can't manage another one, especially a handicapped one. I've talked to all my relatives and friends and they're all in agreement. They all agree that God is merciful and God will understand."
 
-Sister Briege McKenna told her, "You know, you\'re really going to murder your child. And don\'t say that nobody ever told you because I\'m telling you now."
+Sister Briege McKenna told her, "You know, you're really going to murder your child. And don't say that nobody ever told you because I'm telling you now."
 
-But the lady dismissed her words and didn\'t want to hear anymore. The following day when she was going into the abortion clinic, the words of this nun were ringing in her ears: "You\'re going to murder your child."
+But the lady dismissed her words and didn't want to hear anymore. The following day when she was going into the abortion clinic, the words of this nun were ringing in her ears: "You're going to murder your child."
 
-She found she couldn\'t go through with the abortion. She walked out of the abortion clinic. A few months later, she gave birth to a healthy baby boy.
+She found she couldn't go through with the abortion. She walked out of the abortion clinic. A few months later, she gave birth to a healthy baby boy.
 
 She went back to the doctor and said, "You told me this baby was going to be handicapped." The doctor said, "Yeah, but we all make mistakes."
 
-Then she went and she looked for Sister McKenna because she wanted to thank her. She said, "If you hadn\'t told me those words in the departure lounge of Dublin Airport, I would have murdered my baby. And now look, I have this beautiful, healthy baby boy."
+Then she went and she looked for Sister McKenna because she wanted to thank her. She said, "If you hadn't told me those words in the departure lounge of Dublin Airport, I would have murdered my baby. And now look, I have this beautiful, healthy baby boy."
 
-We don\'t know the influence that God wants us to have, the seeds that He wants us to sow in the lives of other people.
+We don't know the influence that God wants us to have, the seeds that He wants us to sow in the lives of other people.
 
 Some seeds fell on rocky ground. Some seed was choked by thorns. But some seeds fell on good ground, grew up, and yielded a hundredfold (Matt. 13:3-23).
 
-God will ask us someday to account for how we\'ve used the opportunities that He\'s given to us. He wants us to come back to our prayer again and again, and to see what new beginnings He wants us to make, because we\'re always beginning again in our apostolic task.
+God will ask us some day to account for how we've used the opportunities that He's given to us. He wants us to come back to our prayer again and again, and to see what new beginnings He wants us to make, because we're always beginning again in our apostolic task.
 
 Like the fisherman who casts his line: he casts it once and he casts it twice, maybe he casts it ten times, and maybe, no fish bites. He has to come back another day. Or he has to look for another river or a different part of the ocean. But he keeps on fishing.
 
-And if you observe a fisherman, you\'ll see how there\'s a great method in the way that he casts his line.
+And if you observe a fisherman, you'll see how there's a great method in the way that he casts his line.
 
-I saw another fisherman once who was fishing from a boat with a big net. He was very purposely letting the net out into the water, very gently, very methodically. He didn\'t just take the net, throw it into the water, and say, 'Here, fish! Swim into this.' You could see that his mind was on catching the fish, on being effective, being successful.
+I saw another fisherman once who was fishing from a boat with a big net. He was very purposely letting the net out into the water, very gently, very methodically. He didn't just take the net, throw it into the water, and say, 'Here, fish! Swim into this.' You could see that his mind was on catching the fish, on being effective, being successful.
 
-We have to ask Our Lord for the grace to make our fishing effective, to lead us to the right places. to see where He wants us to go. We have to try and influence society. We have to try and change the way the world does business.
+We have to ask Our Lord for the grace to make our fishing effective, to lead us to the right places, to see where He wants us to go. We have to try and influence society. We have to try and change the way the world does business.
 
-It\'s good to ask ourselves the questions, What national and international organizations do I belong to? How am I having that apostolic impact, that Christian influence that God has called me to have?
+It's good to ask ourselves the questions, What national and international organizations do I belong to? How am I having that apostolic impact, that Christian influence that God has called me to have?
 
 St. Paul says to the Romans, "How are they then to call upon him in whom they have not believed? And how are they to believe him of whom they have not heard? And how are they to hear if no one preaches? And how are men to preach unless they be sent?" (Rom. 10:14-15).
 
@@ -177,11 +177,11 @@ Our Lord is counting on us for the huge apostolic work that He wants us to do in
 
 Like all the fishermen and all the saints who came before us, we have to try and refuse to look at the difficulties. There are always difficulties.
 
-When the fisherman goes out to fish, it may be raining or foggy. He might not have the right bait this time, or he might have forgotten to bring something. But he doesn\'t just go home because of that.
+When the fisherman goes out to fish, it may be raining or foggy. He might not have the right bait this time, or he might have forgotten to bring something. But he doesn't just go home because of that.
 
 He keeps on trying. When he goes out on the boat, he uses all the means. He leaves no stone unturned to catch those fish.
 
-If he fails, he thinks about it again. He comes back and tries again the next time, because that\'s what it\'s all about. St. Josemaría used to say, "We have to go after each soul to win it for Christ."
+If he fails, he thinks about it again. He comes back and tries again the next time, because that's what it's all about. St. Josemaría used to say, "We have to go after each soul to win it for Christ."
 
 "Treat them all with affection. Drown them all in love for Christ" (*cf*. J. Escrivá, The Forge, Point 863).
 
@@ -195,23 +195,23 @@ Generosity is a beautiful virtue, especially in young people. Our Lord wants us 
 
 Each one of us needs to bring this topic to our prayer and say, "Lord, what do you want me to do?"
 
-"You have visited the land," we\'re told in the Psalms, "and watered it. Greatly have you enriched it. God\'s watercourses are filled. You have prepared the grain.
+"You have visited the land," we're told in the Psalms, "and watered it. Greatly have you enriched it. God's watercourses are filled. You have prepared the grain.
 
 "Thus, have you prepared the land, drenching its furrows, breaking up its clods, softening it with showers, blessing its yield. You have crowned the year with your bounty, and your paths overflow with the rich harvest. The untilled meadows overflow with it, and rejoicing clothes the hills. The fields are garmented with flocks, and the valleys are blanketed with grain. They shout and sing for joy" (Ps. 65:9-13).
 
-There\'s one word that shines out in the whole of the Scriptures. That\'s the word "harvest."
+There's one word that shines out in the whole of the Scriptures. That's the word "harvest."
 
-Our Lord said, "The harvest is great, but the laborers are few" (Matt. 9:37). It\'s a very beautiful word to remind ourselves frequently of: the harvest.
+Our Lord said, "The harvest is great, but the laborers are few" (Matt. 9:37). It's a very beautiful word to remind ourselves frequently of: the harvest.
 
-We are here for the harvest. That\'s what it\'s all about. That\'s what our Christian vocation is all about. God wants us to deliver to the full, to sow the seeds, to cast our nets. That\'s the purpose of everything.
+We are here for the harvest. That's what it's all about. That's what our Christian vocation is all about. God wants us to deliver to the full, to sow the seeds, to cast our nets. That's the purpose of everything.
 
 Lord, help me to take this more seriously, to ask you for light. "Ask and it will be given to you; seek and you will find; knock and it shall be opened" (Matt 7:7).
 
-"Behold, I stand at the door and knock" (Rev. 3:20). If God has knocked on your door and brought you closer to Him, by the very fact that you\'re listening to this meditation, some graces are working in your soul.
+"Behold, I stand at the door and knock" (Rev. 3:20). If God has knocked on your door and brought you closer to Him, by the very fact that you're listening to this meditation, some graces are working in your soul.
 
 He wants you to hear these ideas, to put them into practice at a deeper level, to "launch out into the deep" in a new way, to find new horizons.
 
-"You are the salt of the earth. But if salt loses its taste, what can make it salty again? It is good for nothing and can only be thrown out, to be trampled under people\'s feet. You are the light of the world. A city built on a hilltop cannot be hidden. No one lights a lamp to put it under a tub. They put it on the lampstand where it shines for everyone in the house" (Matt. 5:13-15).
+"You are the salt of the earth. But if salt loses its taste, what can make it salty again? It is good for nothing and can only be thrown out, to be trampled under people's feet. You are the light of the world. A city built on a hilltop cannot be hidden. No one lights a lamp to put it under a tub. They put it on the lampstand where it shines for everyone in the house" (Matt. 5:13-15).
 
 We cannot give what we do not have. If we want to be more effective apostles, we need to expose ourselves to the formation, to grow in our apostolic vibration and apostolic formation.
 
@@ -219,21 +219,21 @@ How does God want me to function as a fisher of men? What does it mean in my pro
 
 And as time goes on, we might be limited physically, or financially, or health-wise, or in a whole pile of other ways, but still, God will always want us to have some little influence, like that man in the prison cell with the pickpocket.
 
-If this is where God has placed me, that\'s where He wants me to cast my net.
+If this is where God has placed me, that's where He wants me to cast my net.
 
-Peter and the others spent the whole night fishing, we\'re told, and they caught nothing. And then they see this stranger on the shore.
+Peter and the others spent the whole night fishing, we're told, and they caught nothing. And then they see this stranger on the shore.
 
 "He asked them, 'Children, have you any fish?' They said, 'No.' And he said, 'Cast the net to the other side of the boat, and you will find some'" (John 21:5-6).
 
-Peter and John could have said, 'Look, we are professional fishermen. We know all about fishing. We know the name, the mobile, and the email of every fish in this lake. If we say there\'s no fish, well then, there\'s no fish.'
+Peter and John could have said, 'Look, we are professional fishermen. We know all about fishing. We know the name, the mobile, and the email of every fish in this lake. If we say there's no fish, well then, there's no fish.'
 
 But they cast the net to the other side of the boat. They went a little deeper. "They caught such a huge shoal of fish that the net was almost breaking." They looked again at the stranger on the shore. John is the one who says, "It is the Lord!" (John 21:6-7).
 
 From the vast catch of fish that they made, they realized the source of the miracle. They reacted with faith, and they drew all the fruit.
 
-In our fishing too, we can have great optimism---optimism, because we know that we\'re not the ones doing the fishing. God is fishing in us and through us.
+In our fishing too, we can have great optimism---optimism, because we know that we're not the ones doing the fishing. God is fishing in us and through us.
 
-We can have great optimism as a consequence of our faith, great tenacity in our fishing, because we have an unshakeable hope and the daring of someone who knows that we\'re fulfilling a command of God.
+We can have great optimism as a consequence of our faith, great tenacity in our fishing, because we have an unshakeable hope and the daring of someone who knows that we're fulfilling a command of God.
 
 Optimism, tenacity, daring---these are all supernatural gifts that God gives to us. We try to cultivate them in prayer.
 
@@ -243,18 +243,18 @@ Who does God want me to touch today in some way? St. Josemaría recommended that
 
 Before Jesus did His fishing, He withdrew to pray, and then He chose the apostles (Luke 6:12-16), and He talked to the multitudes (Luke 6:17-49), and so many other things. But His prayer came first.
 
-It\'s a very serious commitment that Our Lord is asking of us: "Go into the whole world" (*cf*. Matt. 28:19). Preach the gospel to every creature. Be a modern apostle in your office, in your club, among your friends.
+It's a very serious commitment that Our Lord is asking of us: "Go into the whole world" (*cf*. Matt. 28:19). Preach the gospel to every creature. Be a modern apostle in your office, in your club, among your friends.
 
 See how I can influence, what can I do? How can I leave a lasting impression here for the good? To raise the spiritual temperature in some way?
 
-All the time, God will be with us, especially when He sees we\'re trying to walk at all times with a pioneering spirit: beginning again, casting the nets, throwing out the line, making this into a daily habit so that it almost comes naturally to us, becomes the joy of our life, because I see: "This is why I am here, this is what God wants of me. It\'s the basic part of my Christian vocation."
+All the time, God will be with us, especially when He sees we're trying to walk at all times with a pioneering spirit: beginning again, casting the nets, throwing out the line, making this into a daily habit so that it almost comes naturally to us, becomes the joy of our life, because I see: "This is why I am here, this is what God wants of me. It's the basic part of my Christian vocation."
 
-We can turn to Our Lady, the Queen of Apostles, who\'s always there with us, guiding us in throwing out the net or casting the line, inspiring us with ideas, helping every effort to be fruitful.
+We can turn to Our Lady, the Queen of Apostles, who's always there with us, guiding us in throwing out the net or casting the line, inspiring us with ideas, helping every effort to be fruitful.
 
 God said, "My chosen ones do not work in vain" (Isa. 65:23). The seeds that we sow today will yield the abundant fruit tomorrow (*cf*. Gal. 6:7). We know that Our Lady will help that fruit to come.
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*\
-\
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
 *RK*
