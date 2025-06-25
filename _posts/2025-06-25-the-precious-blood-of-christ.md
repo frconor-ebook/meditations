@@ -23,7 +23,7 @@ Devotion to the Precious Blood of Christ is a rather beautiful devotion; it's ve
 
 The Blood of the God made man, the Incarnate Son of God, who came down on earth, took flesh and blood like us, was "like us in all things but sin" (Heb. 4:15), and offered His own Blood and every drop of that Blood.
 
-St. Thomas Aquinas liked to say that Christ, because He was all-powerful and because His Blood was so perfect, could have redeemed mankind with just one drop of Blood (Thomas Aquinas, *Adore Te Devote*).
+St. Thomas Aquinas liked to say that Christ, because He was all-powerful and because Blood was so perfect, could have redeemed mankind with just one drop of Blood (Thomas Aquinas, *Adore Te Devote*).
 
 But He wanted to shed His Blood copiously. His Blood flowed in streams down His Body and made little red mud at the foot of the Cross.
 
@@ -31,7 +31,7 @@ There was a little boy once who was asked---his baby sister needed a blood trans
 
 The nurse hooked him up to the drip and she began to take the blood. When the first bit of blood began to flow out of his arm into the receptacle, he nervously asked the nurse: "Will I begin to die soon?"
 
-The nurse had to calm him and reassure him that she wasn\'t going to take all of his blood. She was just going to take some of his blood.
+The nurse had to calm him and reassure him that she wasn't going to take all of his blood. She was just going to take some of his blood.
 
 But Christ shed all of His Blood. It was a total sacrifice, a total holocaust.
 
@@ -47,11 +47,11 @@ St. Paul continues: "The blood of goats and bulls and the ashes of a heifer, spr
 
 "How much more?" The idea of the perfection of the Blood of Christ and the power of the Blood of Christ: what it can do.
 
-It\'s the Blood of Christ that has washed away the sins of the world. All that Blood that flowed from the Body of Christ was symbolic of all the graces that were going to flow from the side of Christ.
+It's the Blood of Christ that has washed away the sins of the world. All that Blood that flowed from the Body of Christ was symbolic of all the graces that were going to flow from the side of Christ.
 
 "Blood and water flowed out from his side" (John 19:34), the fountain of the sacramental life of the Church (*Preface,* Mass for the Sacred Heart).
 
-Something flows from the side of Christ into our souls and lifts us up. That\'s called divine grace.
+Something flows from the side of Christ into our souls and lifts us up. That's called divine grace.
 
 Fulton Sheen likes to say that "without the shedding of blood, there is no remission of sin," quoting St. Paul (Heb. 9:22).
 
@@ -81,7 +81,7 @@ This gives rise to the fruits of the Holy Spirit in our soul. We share in the Bl
 
 July is usually the month that the Church devotes to that devotion to the Precious Blood of Christ.
 
-We also have in the Liturgy a Votive Mass for the Precious Blood of Christ---a rather beautiful devotion to know about, and to foster, and to thank God for, and to make Acts of Faith in that Blood of Christ.
+We also have in the Liturgy a Votive Mass for the Precious Blood of Christ---a rather beautiful devotion to know about, and to foster and to thank God for, and to make Acts of Faith in that Blood of Christ.
 
 St. Paul says to the Corinthians: "For the tradition I received from the Lord and also handed on to you, is that on the night he was betrayed, the Lord Jesus took some bread, and after he had given thanks, he broke it and said, 'This is my body, which is for you. Do this in remembrance of me.'
 
@@ -97,9 +97,9 @@ There was a lady once who had to undergo chemotherapy for cancer, and she was ho
 
 It was going to take a bit of a while to go in, and she decided to make this period into a period of prayer. She began to contemplate the Blood of Christ.
 
-She imagined that the chemotherapeutic substances that were going into her body were really the Blood of Christ. That\'s what was there in this drip that was connected to this tube that was passing this substance into her veins.
+She imagined that the chemotherapeutic substances that were going into her body were really the Blood of Christ. That's what was there in this drip that was connected to this tube that was passing this substance into her veins.
 
-A week later, she came back to have a checkup with her doctor. He could find no trace of the cancer. He said, "I don\'t know what happened." She said, "I think I know what happened."
+A week later, she came back to have a checkup with her doctor. He could find no trace of the cancer. He said, "I don't know what happened." She said, "I think I know what happened."
 
 We meditate on the Blood of Christ, and it can change our life. It can help us to have an idea of the gravity of sin, the only real evil in the world.
 
@@ -109,7 +109,7 @@ Many other things are presented to us as evils, but sin is the only real evil. W
 
 Our Lord gives us a promise of eternal life if we stay close to His Flesh and Blood: "For my flesh is real food, and my blood is real drink" (John 6:55).
 
-All the effects that human food has on the body, the spiritual food has on the soul. It nourishes, it strengthens, it maintains.
+All the effects that human food have on the body, the spiritual food has on the soul. It nourishes, it strengthens, it maintains.
 
 It gives us the energy to fight temptation, perhaps to make radical resolutions in our life, to change our lifestyle. Or, through prayer, to change that of others.
 
@@ -123,7 +123,7 @@ We're told that later on the soldiers stood there amazed, gazing at this reality
 
 Pope Benedict a few years ago recommended that for Lent, we might take the phrase "They shall look upon him whom they have pierced" (Benedict XVI, *Message for Lent*, 2007) in order to contemplate the wounded side of Christ which became a fountain of life, "the fountain of the sacramental life of the Church."
 
-We're told that in the Agony in the Garden, "In his anguish, he prayed even more earnestly, and his sweat fell to the ground like great drops of blood" (Luke 22:44).
+We're told in the Agony in the Garden, "In his anguish, he prayed even more earnestly, and his sweat fell to the ground like great drops of blood" (Luke 22:44).
 
 Frequently in Scripture, blood is mentioned in various moments.
 
@@ -133,13 +133,13 @@ We're told "the blood of the martyrs is the seed of Christianity"---an old phras
 
 The Uganda martyrs, for example, bring great graces for that country and for the whole region. They have a great message for the world.
 
-If you don\'t know the story of the Uganda martyrs, it\'s worthwhile finding out. It\'s a great message for the whole of the 21st century.
+If you don't know the story of the Uganda martyrs, it's worthwhile finding out. It's a great message for the whole of the 21st century.
 
 "The blood of the martyrs: the seed of Christianity." But then the Blood of Christ is much greater than just the blood of the martyrs.
 
 In the Divine Praises, we say, "Blessed be His Most Precious Blood."
 
-On the fiftieth anniversary of his priesthood, John Paul II said that the words, \'This is my body\...this is my blood" are at the center of the life of the priest (*cf*. Pope John Paul II, *Letter to Priests for Holy Thursday*, March 17, 1996). And we all have a priestly soul.
+On the fiftieth anniversary of his priesthood, John Paul II said that the words, "This is my body\...this is my blood" are at the center of the life of the priest (*cf*. Pope John Paul II, *Letter to Priests for Holy Thursday*, March 17, 1996). And we all have a priestly soul.
 
 St. Josemaría in the *Furrow* says: "Jesus, may your Divine Blood enter my veins, to make me live the generosity of the Cross at every moment" (Josemaría Escrivá, *Furrow*, Point 780).
 
@@ -159,15 +159,15 @@ But this man said No. He was somebody who was trying to lead a Christian life; s
 
 He was trying to correspond to his Christian vocation in the ordinary circumstances of his life, so he refused this bribe.
 
-The supplier from the other country got a bit annoyed because he\'d never been refused before, and this was a huge amount of money. He was a bit surprised.
+The supplier from the other country got a bit annoyed because he'd never been refused before, and this was a huge amount of money. He was a bit surprised.
 
 He said to the man: "You know, every person has their price. I will find your price."
 
-But when that man was driving home that night, he was thinking to himself: "I wonder if it\'s true that every person has their price. And if every person has their price, I wonder what my price is, because I\'ve just turned down this huge amount of money."
+But when that man was driving home that night, he was thinking to himself: "I wonder if it's true that every person has their price. And if every person has their price, I wonder what my price is, because I've just turned down this huge amount of money."
 
 He had a custom every day of reading the New Testament for a few moments, and he would do it when he got home in the evening. He opened his New Testament. The book fell open at the First Letter of St. Peter, Chapter 1, Verse 18.
 
-It said: "You know that you are redeemed from your vain manner of life, not with perishable things, with silver or gold, but with the precious blood of Christ as the lamb without blemish and spot (1 Pet. 1:18-19).
+It said: "You know that you are redeemed from your vain manner of life, not with perishable things, with silver or gold, but with the precious blood of Christ as the lamb without blemish and spot" (1 Pet. 1:18-19).
 
 He thought to himself, "Ah, this is my price. I have been bought at a great price. I have been bought with the Precious Blood of Christ. And what a fool I would be to sell my soul for anything less."
 
@@ -179,7 +179,7 @@ Christ died for this person. Even if this person was the only person in the whol
 
 We can ask Our Lord to increase our faith in the Blood of Christ.
 
-In the *Adore Te Devote,* the beautiful hymn of St. Thomas Aquinas that you\'ll find in any prayer book or hymn book, he says: *Fac me tibi semper magis credere*. "Help me to believe more in you."
+In the *Adore Te Devote,* the beautiful hymn of St. Thomas Aquinas that you'll find in any prayer book or hymn book, he says: *Fac me tibi semper magis credere*. "Help me to believe more in you."
 
 Precious Blood of Christ, give me strength. Help me to realize that Christ comes to us in every Mass in the form of bread and wine.
 
@@ -189,9 +189,9 @@ In the Mass, we say, "Lord, I am not worthy to receive you, but only say the wor
 
 When we receive Jesus in Holy Communion, it's a very precious moment in our day or in our week, something we have to make a big fuss of, to prepare well for, to thank Jesus for.
 
-When we receive Him, Jesus is in us and we are with Him. It\'s like what Genesis says about the marriage of man and woman: "they are no longer two but they become one" (Gen. 2:24; Matt. 19:6).
+When we receive Him, Jesus is in us and we are with Him. It's like what Genesis says about the marriage of man and woman: "they are no longer two but they become one" (Gen. 2:24; Matt. 19:6).
 
-It\'s the same when we receive Our Lord. We are no longer two but one: "He who eats my flesh...abides in me, and I in him" (John 6:56).
+It's the same when we receive Our Lord. We are no longer two but one: "He who eats my flesh...abides in me, and I in him" (John 6:56).
 
 In the Preface of the Eucharist---it's very good to watch the Prefaces every day, there are some very beautiful, rich words of the liturgy contained in the Preface---it says: "By his blood, which he poured out for us, we are washed clean."
 
@@ -205,11 +205,11 @@ In the Votive Mass of the Precious Blood, in the Entrance Antiphon it says: "By 
 
 The Blood of Christ brings about the kingdom of God. Everything happens from the Cross.
 
-In the Opening Prayer of that same Mass it says: "By the blood of your own Son, you have set all men free and saved us from death. Continue your work of love within us, that by constantly celebrating the mystery of our salvation, we may reach the eternal life it promises."
+In the Opening Prayer of that same Mass says: "By the blood of your own Son, you have set all men free and saved us from death. Continue your work of love within us, that by constantly celebrating the mystery of our salvation, we may reach the eternal life it promises."
 
 And in the Prayer over the Gifts: "By offering these gifts in the Eucharist may we come to Jesus, the mediator of the new covenant, may we find salvation in the sprinkling of his blood, and draw closer to the kingdom where he is Lord forever and ever."
 
-There is a sort of reference here to the Old Testament practices of sprinkling the blood of the bulls and heifers on the various sacrifices. And now, while we don\'t sprinkle the blood; but yet it\'s another manifestation of how we have the more perfect sacrifice.
+There is a sort of reference here to the Old Testament practices of sprinkling the blood of the bulls and heifers on the various sacrifices. And now, while we don't sprinkle the blood; but yet it's another manifestation of how we have the more perfect sacrifice.
 
 In the New Testament, we have the full truth of the Incarnation of the Redemption.
 
@@ -217,27 +217,27 @@ In the Communion Antiphon: "The cup that we bless is a communion with the blood 
 
 The Preface of the Sacred Heart says: "From his wounded side flowed blood and water, the fountain of the sacramental life in the Church."
 
-Pope Pius XII liked to say that "streams of living water shall flow from within him" (Encyclical, *Haurietis Aquas*-On Devotion to the Sacred Heart, May 15, 1956, quoting John 7:38).
+Pope Pius XII liked to say that "streams of living water shall flow from within him" (Encyclical, *Haurietis Aquas*--On Devotion to the Sacred Heart, May 15, 1956, quoting John 7:38).
 
-There\'s great beauty and richness in all of these words and prayers. We can ask Our Lord that we might focus a little more on this great mystery of the Blood of Christ.
+There's great beauty and richness in all of these words and prayers. We can ask Our Lord that we might focus a little more on this great mystery of the Blood of Christ.
 
-In *The Forge*, we\'re told: "When you hold Our Lord in your breast and you taste the delights of his love, promise him that you will strive to change the course of your life in whatever way is necessary, so that you can bring him to the masses of people who do not know him, who live without ideals, and who, unfortunately, go on behaving like animals" (J. Escrivá, *The Forge*, Point 939).
+In *The Forge*, we're told: "When you hold Our Lord in your breast and you taste the delights of his love, promise him that you will strive to change the course of your life in whatever way is necessary, so that you can bring him to the masses of people who do not know him, who live without ideals, and who, unfortunately, go on behaving like animals" (J. Escrivá, *The Forge*, Point 939).
 
-Welcome to the world in which we live. There\'s a great need of bringing Christ to the masses of the people.
+Welcome to the world in which we live. There's a great need of bringing Christ to the masses of the people.
 
-When we contemplate the Blood of Christ, it can give a new impetus to our apostolate, move us to make better use of our time, of our opportunities, because we have so much good to communicate to the world, so much light to bring into the lives of other people who don\'t have this light because, perhaps, they don\'t know Christ, or they don\'t know Him in all the ways that He has led us to know Him.
+When we contemplate the Blood of Christ, it can give a new impetus to our apostolate, move us to make better use of our time, of our opportunities, because we have so much good to communicate to the world, so much light to bring into the lives of other people who don't have this light because, perhaps, they don't know Christ, or they don't know Him in all the ways that He has led us to know Him.
 
 Lord, help us to spend ourselves as you spent yourself, giving ourselves completely, holding nothing back.
 
-"I look at your Cross," we\'re told in *The Forge*, "my Jesus, and I rejoice in your grace, because your Calvary has won for us the reward of the Holy Spirit.
+"I look at your Cross," we're told in *The Forge*, "my Jesus, and I rejoice in your grace, because your Calvary has won for us the reward of the Holy Spirit.
 
 "And you give yourself to me, each day, lovingly, madly, in the Sacred Host. And you have made me a son of God, and have given me your Mother to be mine.
 
-"I can\'t be satisfied with just giving thanks. My thoughts take flight: Lord, Lord, there are so many souls who are so far from you! Foster those yearnings for apostolate in your life, that many may get to know him, and love him, and come to feel loved by him!" (J. Escrivá, *The Forge*, Point 27).
+"I can't be satisfied with just giving thanks. My thoughts take flight: Lord, Lord, there are so many souls who are so far from you! Foster those yearnings for apostolate in your life, that many may get to know him, and love him, and come to feel loved by him!" (J. Escrivá, *The Forge*, Point 27).
 
 Our Lord says, "I am the bread of life who comes down from heaven. Whoever eats of this bread will live forever" (John 6:51). We have this promise of the Blood of Christ, the promise of eternal life.
 
-John Paul II liked to say, \"The Church draws her life from the Eucharist" (Pope John Paul II, Encyclical Letter, *Ecclesia de Eucharistia*, April 17, 2003). She draws her love from the Eucharist. She draws these things from the Blood of Christ.
+John Paul II liked to say, "The Church draws her life from the Eucharist" (Pope John Paul II, Encyclical Letter, *Ecclesia de Eucharistia*, April 17, 2003). She draws her love from the Eucharist. She draws these things from the Blood of Christ.
 
 We try to take very good care of that Blood of Christ, every single drop.
 
@@ -245,25 +245,25 @@ In the Mass, the purificator cloth is used to clean the chalice. The inside of t
 
 That awareness of the Blood of Christ can be on our mind when we go to adore the real presence of Christ in the Blessed Eucharist. When we go to the tabernacle, the Blood of Christ is present there, also in the tabernacle.
 
-We could ask Our Lord that we might prepare then in a better way to receive Him, a little bit more aware of the great treasures that we\'re receiving, to see also the beauty of the liturgy, the beauty of the Blood of Christ who makes Himself available for us.
+We could ask Our Lord that we might prepare then in a better way to receive Him, a little bit more aware of the great treasures that we're receiving, to see also the beauty of the liturgy, the beauty of the Blood of Christ who makes Himself available for us.
 
 How much we have to thank Him! That aspiration, "Blessed be His Most Precious Blood" could be frequently on our lips these days.
 
 If we have anything to do with preparing a Mass or looking after the altar linens, we could also be aware of those stains that might be present there on the purificator that has cleaned the chalice. Many saintly souls have looked after these sacred vessels with great piety and devotion.
 
-Or also, the making of the altar wine that\'s going to become the Blood of Christ---it's rather interesting that we might take care of that whole process as well.
+Or also, the making of the altar wine that's going to become the Blood of Christ---it's rather interesting that we might take care of that whole process as well.
 
 St. Josemaría had a dream that people would grow the grapes that eventually would become the wine, so that from start to finish that whole process would be looked after.
 
 We know the price of our ransom from the futile way of life that has been handed down to us. We know what has been given, what has been shed. We know how Christ has given Himself so completely.
 
-A mother was going out to Mass very frequently and she used to say to her two- or three-year-old child, "I\'m going to receive Jesus."
+A mother was going out to Mass very frequently and she used to say to her two- or three-year-old child, "I'm going to receive Jesus."
 
 One day, the little child said: "And will you receive Mary also?" The mother was a bit stumped.
 
 When she had the chance, she met St. Josemaría and asked him, "Father, what should I say to my child? Will I receive Mary also?"
 
-He thought for a moment; it wasn\'t one of the usual questions he was asked. He said, "In a way, yes, because the Body of Christ before was the body of Mary. And the Blood of Christ before was the blood of Mary."
+He thought for a moment; it wasn't one of the usual questions he was asked. He said, "In a way, yes, because the Body of Christ before was the body of Mary. And the Blood of Christ before was the blood of Mary."
 
 When Our Lady stood beside the Cross, in some way she saw her own blood flowing in streams down the Body of Christ.
 

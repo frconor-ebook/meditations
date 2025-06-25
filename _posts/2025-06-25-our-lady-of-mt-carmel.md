@@ -11,7 +11,7 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-Today we celebrate the Feast of Our Lady of Mount Carmel. It\'s also the birthday and the feast day of Aunt Carmen, the sister of St. Josemaría, to whom we pray and have a lot of gratitude for, and reverence for, in Opus Dei.
+Today we celebrate the Feast of Our Lady of Mount Carmel. It's also the birthday and the feast day of Aunt Carmen, the sister of St. Josemaría, to whom we pray and have a lot of gratitude for, and reverence for, in Opus Dei.
 
 The feast of today began in 1726. It commemorates the apparition of Our Lady on July 16, 1251 to St. Simon Stock, the first General of the Carmelite Order.
 
@@ -25,15 +25,15 @@ In 1950, Pope Pius XII said this devotion "has brought down a copious stream of 
 
 For centuries, Christians have sought refuge in this special protection of Our Lady.
 
-We\'re told in *The Way*: \"Wear on your breast the holy scapular of Mount Carmel. There are many excellent Marian devotions, but few are so deep-rooted among the faithful and so richly blessed by the popes. Besides, how motherly this sabbatine privilege is!" (Josemaría Escrivá, *The Way*, Point 500).
+We're told in *The Way*: \"Wear on your breast the holy scapular of Mount Carmel. There are many excellent Marian devotions, but few are so deep-rooted among the faithful and so richly blessed by the popes. Besides, how motherly this sabbatine privilege is!" (Josemaría Escrivá, *The Way*, Point 500).
 
-Our Lady promised the grace to repent during the final moments of life to those who live and die wearing the scapular or the scapular medal (cf. Innocent IV, Bull, *Ex parte dilectorum*, January 13, 1252).
+Our Lady promised the grace to repent during the final moments of life to those who live and die wearing the scapular or the scapular medal (*cf*. Innocent IV, Bull, *Ex parte dilectorum*, January 13, 1252).
 
-Among the other graces and indulgences, the *sabbatine privilege* consists in our release from Purgatory on the Saturday following our death. These words are taken from the Bull issued by Pope John XXII (cf. John XXII, Bull, *Sacratissimo uti culmine*, March 3, 1322).
+Among the other graces and indulgences, the *sabbatine privilege* consists in our release from Purgatory on the Saturday following our death. These words are taken from the Bull issued by Pope John XXII (*cf*. John XXII, Bull, *Sacratissimo uti culmine*, March 3, 1322).
 
-"By her maternal charity, Mary cares for the brethren of her Son who still journey on earth surrounded by dangers and difficulties until such time as they are led into the eternal happiness of their true homeland." These were words taken from the *Lumen gentium* of the Second Vatican Council (Vatican II, *Lumen Gentium).*
+"By her maternal charity, Mary cares for the brethren of her Son who still journey on earth surrounded by dangers and difficulties until such time as they are led into the eternal happiness of their true homeland." These were words taken from the *Lumen gentium*of the Second Vatican Council (Vatican II, *Lumen gentium*, Point 62, November 21, 1964*).*
 
-We\'re encouraged to approach Our Lady many times each day so that she can help and protect us.
+We're encouraged to approach Our Lady many times each day so that she can help and protect us.
 
 The scapular itself can remind us that we are under the watchful vigilance of our heavenly Mother, and that she is our own since we are her children who have cost her so dear.
 
@@ -43,7 +43,7 @@ Our Lady manifested herself to St. Simon as the Mother of Divine Grace and also 
 
 A great custom has been generated down through the centuries of venerating Our Lady of Mount Carmel through devotion to the scapular.
 
-A spiritual writer wrote, "She, the Mother of God and our mother, offers us the following pledge in reward for our commitment to her: 'Throughout life I protect; at the hour of death I lend assistance; and after death, I save'" (Cardinal Isidro Gomá y Tomás,, *The Blessed Virgin Mary*).
+A spiritual writer wrote, "She, the Mother of God and our mother, offers us the following pledge in reward for our commitment to her: 'Throughout life I protect; at the hour of death I lend assistance; and after death, I save'" (Cardinal Isidro Gomá y Tomás, *The Blessed Virgin Mary*).
 
 We are accustomed to addressing Our Lady as "our sweetness and our hope" every time that we say the *Hail Holy Queen*.
 
@@ -85,15 +85,15 @@ Pope John Paul reminded the people there of the mission of Our Lady, the one pre
 
 He said, "A mother's constant diligence and concern for the clothes of her children is beautiful to see. She wants to see them well-dressed. When her children's garments are torn the mother makes an effort to repair them.
 
-"Our Lady of Mount Carmel and of the holy scapular speaks to us of her maternal care, her concern to clothe us spiritually with the grace of God, and to help us always keep our garments white" (*Ibid*.).
+"Our Lady of Mount Carmel and of the holy scapular speaks to us of her maternal care, her concern to clothe us spiritually with the grace of God, and to help us always keep our garments white" (*ibid*.).
 
-After exhorting the young people to keep their souls clean, the Holy Father said: "Be vigilant to correspond to your good Mother who is concerned about how you go about dressed, especially with respect to the garment of grace that her daughters and sons should always wear" (*Ibid*.).
+After exhorting the young people to keep their souls clean, the Holy Father said: "Be vigilant to correspond to your good Mother who is concerned about how you go about dressed, especially with respect to the garment of grace that her daughters and sons should always wear" (*ibid*.).
 
 This is the wedding garment that we will one day present for our final espousal to enter everlasting life.
 
 The scapular of Mount Carmel can help us to love Our Mother in heaven more. It is a special reminder for us that we are dedicated to her and that in whatever moment of trouble, in the midst of temptation, we can count on her help.
 
-The opening prayer of today\'s feast day says: \"Remember, Blessed Virgin Mother of God...to speak well on our behalf before the Lord\" (*Graduale Romanum*).
+The Opening Prayer of today's feast day says: \"Remember, Blessed Virgin Mother of God...to speak well on our behalf before the Lord\" (*Graduale Romanum*).
 
 We can think to add: especially on the days when we have not been as faithful as God expects His children to be.
 
@@ -107,15 +107,15 @@ She did so at great personal cost. She was a great woman who did not have a voca
 
 Even though she had no vocation, she showed great generosity, great commitment, loyalty, fortitude, cheerfulness, hard work, selfless dedication, and without complaints.
 
-In very difficult circumstances, she brought the catering department of the early residence of Opus Dei in Madrid forward when there were very few machines, and there was very little experience.
+In very difficult circumstances, she brought the Catering department of the early residence of Opus Dei in Madrid forward when there were very few machines, and there was very little experience.
 
 With the mother of St. Josemaría, whom we call the Grandmother, she placed everything that the family of the Escrivás de Balaguer had at the disposition of the development of the supernatural family that her son was starting.
 
-God wanted the whole of the family spirit of Opus Dei, the family atmosphere of our Centers, to be shaped on the family atmosphere and family life of the family of the Escrivás de Balaguer.
+God wanted the whole of the family spirit of Opus Dei, the family atmosphere of our centers, to be shaped on the family atmosphere and family life of the family of the Escrivás de Balaguer.
 
 We have a great debt of gratitude to her for our family spirit, which is not just something added on to the spirit of Opus Dei. It is a very specific intimate part of our spirit.
 
-God wanted us to be a family. Opus Dei is not a religious order. Our Centers are family homes where true affection reigns, where a great unity reigns.
+God wanted us to be a family. Opus Dei is not a religious order. Our centers are family homes where true affection reigns, where a great unity reigns.
 
 People living in the centers, and also the family homes of the supernumeraries or the associates of Opus Dei, have to reflect this family spirit.
 
@@ -123,7 +123,7 @@ Each corner of any one of those homes is a corner of the house of Nazareth, and 
 
 When we think of her, we think of how she gave herself. She was always thinking of the others first. She forgot herself.
 
-St. Josemaría liked to say, "In Bethlehem, nobody held anything back" (cf. J. Escrivá, *Lette*r, February 14, 1974).
+St. Josemaría liked to say, "In Bethlehem, nobody held anything back" (*cf*. J. Escrivá, *Lette*r, February 14, 1974).
 
 We belong to that family, the Holy Family, and so we try to take care of details. We take care of little things.
 
@@ -137,13 +137,13 @@ That also cost her because she got to know them, she got to love them, and then 
 
 With the Grandmother, she rolled up her sleeves and solved the problems, made things happen.
 
-She trained the first people who worked in the catering departments, set the standards, taught them how to do things. In all of this, she passed unnoticed, didn\'t make too much noise.
+She trained the first people who worked in the Catering departments, set the standards, taught them how to do things. In all of this, she passed unnoticed, didn't make too much noise.
 
 Even though she was not a member of Opus Dei, she was like in many ways a model for all the people who were to come after.
 
 When St. Josemaría was starting a conference center in Italy, a place called Salto di Fondi, south of Rome, he asked her to leave Madrid to come and take care of the catering there.
 
-She had to leave her country, her city, her friends---when she wasn\'t so young---and go to a different country with a different language, different customs, and live in a far-away place and make everything happen.
+She had to leave her country, her city, her friends---when she wasn't so young---and go to a different country with a different language, different customs, and live in a far-away place and make everything happen.
 
 Often, in those places, she worked many miracles. She had a heroic availability.
 
@@ -155,15 +155,15 @@ It is very good spirit that today we ask her for things. We entrust things to he
 
 She was full of hard work. She used her time well. When she went shopping, she shopped for bargains.
 
-She went to the sales. taught the early people of the Work how to shop very carefully, get good values, spend little, and get great value---full of common sense, feet on the ground.
+She went to the sales, taught the early people of the Work how to shop very carefully, get good values, spend little, and get great value---full of common sense, feet on the ground.
 
-At the same time, she knew how to put that little touch of class and elegance into the decor of the Centers so that they would truly be, and also look like, family homes, having things that any normal family would try and have, but then also taking care of them and making them last.
+At the same time, she knew how to put that little touch of class and elegance into the decor of the centers so that they would truly be, and also look like, family homes, having things that any normal family would try and have, but then also taking care of them and making them last.
 
 All over the world, the fruit of her work is to be seen. She gives us great example of practicing those virtues because of the way she functioned and the things she achieved in the ordinary things of every day. That is what each one of us is called to try and achieve.
 
 She lived a great personal sobriety, did not spend money on herself but was very generous with others. She took care of her appearance. She was elegant, attractive, had a lot of human tone.
 
-Earlier in her life, she had many suitors, many people who were seeking after her. But one day, she told her brother: \"I am going to cut off this relationship because if it continues it will become serious, and I don\'t want to leave you alone."
+Earlier in her life, she had many suitors, many people who were seeking after her. But one day, she told her brother: \"I am going to cut off this relationship because if it continues it will become serious, and I don't want to leave you alone."
 
 That was the extent to which she lived so that the Prelature could live.
 
@@ -171,25 +171,23 @@ Anything her brother asked her for, she gave---and so it is logical that we woul
 
 We can trust family matters to her. We could try and imitate her availability, her priestly soul, and her sacrifice. Nothing was too much.
 
-At the same time, she was discreet. She was in the background. St. Josemaría used to say that the catering departments shouldn\'t be seen or heard.
+At the same time, she was discreet. She was in the background. St. Josemaría used to say that the Catering departments shouldn't be seen or heard.
 
-They performed this great service in all of our Centers silently, quietly, effectively, giving a great example to the world, like a great catechesis. Aunt Carmen taught everybody how to do this.
+They performed this great service in all of our centers silently, quietly, effectively, giving a great example to the world, like a great catechesis. Aunt Carmen taught everybody how to do this.
 
 She also gave an example of how to die in Opus Dei, silently. She had no fear of death.
 
 We know that she continues to look after this, her family, from heaven, constantly looking after us.
 
-She is buried in the crypt of Our Lady of Peace in Rome, beside her brother. She predeceased him. She died in the 1950s.
+She is buried in the crypt of Our Lady of Peace in Rome, beside her brother. She predeceased him. She died in the 1950s (June 20, 1957).
 
 On this day every year, the Prelate of Opus Dei goes to her tomb to pray a *Response* there, to keep alive that spirit of gratitude and, throughout time, to thank her for what she has done, and to remind everybody that has to come in the future of her great contribution.
 
-St. Josemaría wrote in 1965 that this work of domestic service is a work not of little importance. "In my opinion, it\'s not only as important as any other, from the point of view of the person who carries it out, but on many occasions, it is much more important than all the other types of work."
+St. Josemaría wrote in 1965 that this work of domestic service is a work not of little importance. "In my opinion, it's not only as important as any other, from the point of view of the person who carries it out, but on many occasions, it is much more important than all the other types of work."
 
-There are deep reasons, said Blessed Álvaro, for this way that St. Josemaría had of affirming the transcendence of this type of work. Because, he said, in a particular way, a spirit of service is shown there, which constitutes, and must build up also, the nucleus of all professional service for a Christian who wants to serve God and other people with a professional task, seeing in each person another Christ.
+"There are deep reasons," said Blessed Álvaro, "for this way that St. Josemaría had of affirming the transcendence of this type of work. Because," he said, "in a particular way, a spirit of service is shown there, which constitutes, and must build up also, the nucleus of all professional service for a Christian who wants to serve God and other people with a professional task, seeing in each person another Christ.
 
-The work of the home, he said, by its very nature, is particularly soaked in this distinctive desire of the followers of Christ who came to serve.
-
-We could think, he says, of the attentiveness of Our Lady, the most exalted creature that has ever been in the whole of human history. She spent her life, day after day, in those domestic tasks.
+"The work of the home, by its very nature, is particularly soaked in this distinctive desire of the followers of Christ who came to serve. We could think," he says, "of the attentiveness of Our Lady, the most exalted creature that has ever been in the whole of human history. She spent her life, day after day, in those domestic tasks."
 
 St. Josemaría liked to emphasize on many occasions how Our Lady was humanly descended from the house of David and because she was the Mother of God, was the Queen of heaven and earth.
 
@@ -199,9 +197,9 @@ We could try to have that spirit of service, that care of things of the home, th
 
 We help the life and example of Aunt Carmen to sound down through the centuries. She set the bar very high.
 
-John Paul II said that domestic work constitutes a daily struggle that requires patience, the dominion of self, peace, serenity, creativity, a spirit of adaptation, fortitude in the face of unforeseen things that happen.
+John Paul II said that domestic work "constitutes a daily struggle that requires patience, the dominion of self, peace, serenity, creativity, a spirit of adaptation, fortitude in the face of unforeseen things that happen.
 
-In this way, he says, it shows itself as a school of virtues for those who dedicate themselves to this task, and it offers them an environment in which they can carry out in an admirable way the Christian spirit of service, of which society is so much in need.
+"In this way," he says, "it shows itself as a school of virtues for those who dedicate themselves to this task, and it offers them an environment in which they can carry out in an admirable way the Christian spirit of service, of which society is so much in need."
 
 We could ask Aunt Carmen that she might teach us to take care of our home, where we live, so that we could truly make it a corner of the house of Nazareth, with our charity and our attentiveness to others, our forgetfulness of self, our commitment.
 
