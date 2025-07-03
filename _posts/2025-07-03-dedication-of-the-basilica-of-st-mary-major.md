@@ -1,0 +1,234 @@
+---
+layout: homily
+title: "Dedication of the Basilica of St. Mary Major"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"It happened that as he was speaking, a woman in the crowd raised her voice and said, 'Blessed is the womb that bore you and the breast that fed you.' But he replied, 'More blessed still are those who hear the word of God and keep it!'" (Luke 11:27-28).
+
+Some commentators like to say that this woman praised Our Lord on the human plane, natural plane, but Our Lord raised His response onto a supernatural plane: "Blessed are they who hear the word of God and keep it."
+
+The one who most heard the word of God and kept it was Our Lady.
+
+Jesus exalts Our Lady. When we make a lot of fuss and give a lot of attention to Our Lady, we\'re just doing what Jesus did.
+
+Today, we celebrate the dedication of the Basilica of St. Mary Major in Rome.
+
+After the promulgation of the dogma of the Divine Maternity of Mary at the Council of Ephesus in 431, Pope Sixtus III consecrated a basilica in Rome in honor of the Blessed Virgin, which was later called St. Mary Major.
+
+It is the oldest church dedicated to Our Lady in the world.
+
+If you were watching recently when Pope Francis was discharged from hospital, on his way back to the Vatican he passed by St. Mary Major to make a short little pilgrimage to Our Lady to thank her for his health and his convalescence.
+
+Every time that he goes out of Rome on an international trip, he also passes by that basilica. He goes there carrying a little bouquet of flowers---nothing big, something small, something he can carry himself---and he places it on the altar in front of Our Lady.
+
+It\'s a rather beautiful childlike gesture of Marian piety; something we can all learn from.
+
+Today\'s feast is also known as the Feast of Our Lady of the Snows, due to an ancient legend about a Roman who asked Our Lady\'s guidance on how best to use his fortune.
+
+In the early hours of August 5th, in the middle of the Roman summer, Our Lady told him in a dream to build a church in her honor wherever he found snow on the Esquiline Hill, one of the hills of Rome.
+
+That same morning, snow appeared miraculously on the site where the Basilica of St. Mary Major now stands.
+
+Every year on August 5th, in the evening time, some people go up onto a little parapet or balcony that there is in a side altar there, where the image of Our Lady is.
+
+They throw out white rose petals that fall to the ground, imitating that fall of snow so many centuries ago. It's one of those little beautiful details that Rome is full of.
+
+Today we celebrate the dedication of this basilica, the oldest and most venerable church in the Western world consecrated to Our Lady.
+
+Many events in the history of the Church have taken place there.
+
+That particular basilica also houses the relics of the crib in which Our Lord was born in Bethlehem. St. Matthias lies beneath the altar of the crib. The body of St. Jerome is also buried somewhere there. St. Ignatius of Loyola celebrated his first Mass there. The dalmatic worn by St. Thomas of Canterbury when he was struck down in the cathedral is also there, upon which blood stains are visible. It is full of history.
+
+It was built in the fourth century, shortly after the Council of Ephesus ended.
+
+The people of the city of Ephesus celebrated with enormous enthusiasm the official declaration of the truth that they had long believed, and joy spread throughout the Church. In Rome, this enormous basilica was built.
+
+That Council of Ephesus defined Our Lady as the Mother of God. This was a very special event in the history of the Church and in the history of the world.
+
+The faithful in Rome have honored Our Lady in that basilica under the invocation of *Salus Populi Romani*, the Health of the Roman People. She is the Patroness of Rome.
+
+They come, as to a place where their petitions are always heard, to ask favors and graces. John Paul II also paid a visit to Our Lady there, just after his election to the Pontificate.
+
+On that occasion he said: "Mary is called to lead all people to the Redeemer and to bear witness to him without words, through love alone, in a way that shows her motherly disposition" (Pope John Paul II, *Homily*, December 8, 1978).
+
+"Blessed are those that hear the word of God and keep it" (Luke 11:28).
+
+Mary was always hearing the word of God. She was continually keeping all these things in her heart, meditating on that word, responding to that word.
+
+"She is called to draw even those who offer stubborn resistance, the ones for whom it is more difficult to believe in Christ\'s love. The vocation of Mary is to bring each person closer to her Son" (*Ibid*.).
+
+At her feet, John Paul II offered the Mother of God his whole life and deepest desires: *Totus tuus---*a dedication that each one of us can also make, imitating him as good children imitate their parents.
+
+He said to Our Lady: "I am yours, I am all yours, and everything I have is yours. May you be my guide in everything."
+
+With Our Lady as Our Protectress, we will always advance with a sure step along our way.
+
+The mystery of the Incarnation has allowed the Church to penetrate and shed ever more light on the mystery of the Mother of the Word Incarnate.
+
+For that reason, the Council of Ephesus in 431 was of particular importance.
+
+St. Cyril of Alexandria describes how, "From the first hours of the morning until evening, all the people of the city of Ephesus anxiously awaited the outcome.
+
+"When it was known that the author of the blasphemies, Nestorius, had been deposed, all as one began to glorify God and acclaim the Synod since the enemy of the Faith had fallen.
+
+"On leaving the Church, we were accompanied," he said, "to our homes by torchlight. It was nighttime. The whole city was joyful and brilliantly lit up" (St. Cyril of Alexandra, *Epistles*).
+
+We can see that the faith of the people of Ephesus was strong and vibrant.
+
+In a homily given a short time later, St. Cyril praised the Motherhood of Mary. "Hail Mary," he said, "Mother of God, Blessed Virgin Mother, Morning Star...Hail Mary, most precious jewel of the whole world."
+
+St. Thomas Aquinas says: "As the Mother of God, her dignity is in a certain sense infinite on account of the limitless goodness of God. Similarly, greater dignity than hers there cannot be, just as there cannot be any greater than God" (Thomas Aquinas, *Summa Theologiae*, I, Question 25).
+
+She is above all the angels and saints in dignity. After the Sacred Humanity of her Son, she is that part of creation which is the purest reflection of the glory of God.
+
+In her, as in no other creature, shines a participation in the divine gifts---wisdom, beauty, goodness. ... "There is no stain in her. She is a reflection of eternal light, the immaculate mirror of the action of God, and an image of his goodness" (Wis. 7:25-26).
+
+We can try to remember today her Divine Motherhood, the root of all her graces, virtues and perfections.
+
+St. Bernard says that Mary is the channel through which we daily receive the grace we require.
+
+We can always turn to her, since "it is the will of the Lord, who wants us to obtain everything at His Mother\'s hands, particularly when we find ourselves in the midst of special difficulties or temptations" (St. Bernard, *Homily on the Nativity of the Blessed Virgin Mary*).
+
+Like little children, we need to have recourse to her as often as we can, for our spiritual needs, and also for our bodily needs.
+
+The spiritual Motherhood of Mary reached a climax next to her Son on Calvary. When all have fled, Our Lady remained "beside the Cross, standing," suffering and co-redeeming, in perfect conformity with the will of God (John 19:25).
+
+"More blessed still are those who hear the word of God and keep it" (Luke 11:28).
+
+The Second Vatican Council says, "She is not a purely passive instrument in the hands of God, but cooperates in the salvation of men with free faith and obedience" (Vatican II, *Lumen gentium*, Point 56).
+
+And she continues to exercise her loving maternity unremittingly, and now in heaven, it says, "she has not given up this salvific activity, but through her constant intercession continues to obtain for us the gift of eternal salvation" (*Ibid*., Point 62).
+
+We can thank Our Lord for giving us such a Mother, His own Mother.
+
+"Son, behold your mother" (John 19:26). Look at your mother, and never stop looking at her. He gives us His own mother to help us to draw close to the life of grace.
+
+She loves us as any earthly mother. She never stops looking at us because He has told her to look at your child: "Behold your child."
+
+The spiritual motherhood of Mary goes very far. She engenders us in the supernatural order.
+
+The power to become sons and daughters of God, "to participate in the divine nature" (2 Pet. 1:4), has been given to us, thanks to the redemptive action of Christ, who forms us in His own likeness, a fashioning that comes through Mary.
+
+A lady stood up at a get together with St. Josemaría once and said that every day when she\'s going to Mass, she says to her three- or four-year-old daughter: "I\'m going to receive Jesus." Every day, she would say that to the child.
+
+One day the child said, \"And will you receive Mary also?"
+
+This lady said to St. Josemaría, \"Father, what should I tell my daughter?"
+
+St. Josemaría had to think for a moment. It wasn\'t one of the usual questions that he was often asked.
+
+After a moment, he replied thus: "In a way, yes, because the Body of Christ before was the body of Mary. The Blood of Christ before was the blood of Mary. In a certain sense, when we receive Jesus, we receive Mary also."
+
+Through her intercession, we receive all the spiritual nourishment that we need every day, defense against our enemies, consolation in our sufferings.
+
+In the eyes of Our Lady, St. Josemaría says, "we never cease to be little ones. She shows us the way to the kingdom of heaven, which is for those who become small children. 'Unless you become like little children, you cannot enter the kingdom of heaven' (Matt. 18:3).
+
+"We need to stay attentively by her side," like little children who never like to be far from their mother or to let her be out of sight, "by constantly having recourse to her, telling her loving things, showing her our affection, pondering the scenes of her life on earth, sharing our struggles with her, our successes and failures.
+
+"In this way, sharing our life with her, contemplating the mysteries of her earthly existence, we discover the meaning of the traditional Marian prayers of the Church, as if we were reciting them for the first time."
+
+Remember, O most gracious Virgin Mary, never was it known that anyone who fled to your protection, implored your help, or sought your intercession was left unaided (*Memorare*).
+
+"The *Hail Mary* and the *Angelus* are loving praises of her divine motherhood." We remind her of her vocation as a mother, something that she likes to be reminded of with great frequency.
+
+"When we say the Rosary...our minds and our hearts reflect on the mysteries of Mary\'s admirable life, which at the same time, are the mysteries of our faith.
+
+\"As the feasts of Our Lady come round each year, may we not be sparing in the details of affection we show her. We raise our hearts to her more often and ask her for what we need.
+
+"We give thanks for her constant motherly care and entrust those we love to her. Naturally though, if we really want to act as good children, every day is a good occasion on which to express affection for those who really love one another" (Josemaría Escrivá, *Friends of God*, Points 290-291).
+
+We could say to her, as the hymn in Latin says, *Monstra te esse matrem*--Show yourself to be Our Mother. Show yourself in all your motherly ways that you are there to help us.
+
+The feast of Our Lady of Snows is particularly associated with the virtue of purity. Our souls are called to be snow-white in the vision of Christ.
+
+"Blessed are the clean of heart, for they shall see God" (Matt. 5:8).
+
+Mary, may you teach us to love the Lord Our God with all our heart. Keep our heart clean to see the positive meaning of this virtue.
+
+It is "a joyful affirmation" (J. Escrivá, *The Forge*, Point 92), a direct consequence of our love for God and souls.
+
+St. Josemaría liked to say, "When you decide firmly to lead a clean life, chastity will not be a burden, but a victorious crown" (J. Escrivá, *The Way*, Point 123).
+
+We need to place the means for this love to grow each day; take care of all the aspects in which we need to live this virtue.
+
+If that virtue is to be made up of positive details, and if it is to be a virtue, then it has to grow, to be perfected. For its relationship with Love, with the capital L, means that it can always admit of development.
+
+Mary, help us to grow in this virtue, take care of it; to guard our heart with seven bolts; to call things by their name; and to defend ourselves in the face of everything that could be a danger to our fidelity, which is what any person in love does.
+
+There is a story told of Pope John XXIII who, before he became Pope, was a nuncio in Turkey and also in France. He had to attend many diplomatic dinners with all sorts of diplomats.
+
+On one occasion, he was seated close to a lady who was very badly dressed.
+
+There was a bowl of fruit in the center of the table. After the first course of the dinner, he took up an apple and he handed it to her.
+
+She looked at him a bit surprised and said, "Your Excellency, I didn\'t ask for any fruit.\"
+
+He said, "Madam, it was only after Eve had the apple that she realized what she was wearing."
+
+Sometimes we have to be very clear. We should defend ourselves and other people. Defend the environment of our home, care with television programs, having a sensitive conscience for movies.
+
+If we wouldn\'t bring children to a red-light district of the city, then we shouldn\'t bring that red-light district into our living room.
+
+We should try and flee from all occasions of sin. "If your hand is an occasion of sin to you, cut it off" (cf. Matt. 5:30).
+
+Just like the alcoholic, who has to plan carefully his journey home to avoid that street where that hotel is because: 'I know there\'s a bar there and there are bottles in that bar.'
+
+His battle, or her battle, begins the moment she begins to leave the office, choosing the route home. It doesn\'t begin when he\'s entering the lobby of the hotel.
+
+We have to fight our battles far away from the walls of the fortress. We need to be aware of unnecessary temptations. The devil, we\'re told in Scripture, is like a lion ready to pounce (Lam. 3:10).
+
+When people are driving along the roads, they meet with traffic policemen, traffic lights, yellow lines, one-way streets, no-parking zones. All these seem to be a nuisance and limitations on our freedom. But, in fact, they favor the driver because they help them to drive with gracious security and pleasure.
+
+We need to be protected against our own weaknesses---and we all know how weak we can be.
+
+We also don\'t know how weak others can be in certain moments. We can\'t trust ourselves or think we\'re strong, or think other people are strong.
+
+We can\'t allow ourselves to get into compromising situations. And for that, we have to have foresight, to be clever.
+
+Have the courage to flee if things go wrong, because we know we have feet of clay. "We carry this treasure in earthenware vessels," says St. Paul (cf. 2 Cor. 4:7).
+
+St. Thomas Aquinas defines curiosity. He says, "Curiosity is a defect of our mind which inclines us with eagerness and precipitation towards the...study of less useful subjects, making us neglect the things of God and our salvation. This curiosity is born of spiritual sloth...and makes us lose precious time" (St. Thomas Aquinas, *Summa Theologiae*, II,II, Questions 167, 35).
+
+It\'s like a mania for collecting useless data. St. John of the Cross calls it "stupid intellectual curiosity, and...is the inverse of contemplation."
+
+In this battle we often need to give importance to what is small. Often the devil enters through small things, little lacks of struggle here or there, little negligences in things that could be important.
+
+Those small points that may be so small as not to appear important to us---that\'s where the battles have to be fought: in the guarding of our eyes, in the things we read, in entertainment, in dealing with people of the opposite sex, in certain conversations.
+
+These may be small things with no apparent importance but, if left unchecked, they can do all sorts of terrible things.
+
+Blessed Álvaro says: "Whoever struggles to guard their senses, not only sight but also, for example, hearing;
+
+"Whoever is prudent in dealing with their colleagues at work, shunning frivolity, not giving in in what is incompatible with the demands of love, not striving to create a good impression at any cost;
+
+"Whoever is sincere with God and with themselves, and in spiritual direction, recognizing perhaps that their heart harbors an affection that does not belong to God---if they follow the advice they receive, cutting things off radically from the start with ordinary or extraordinary means, that person will not fail. They will be faithful to their Christian vocation."
+
+We can seek our consolation and our strength in Christ. Receiving Holy Communion as often as we can is the great medicine for our soul. The Bread of Life helps us to be strong in temptation.
+
+Our devotion to the Blessed Sacrament can help us to drive out diabolic attachments with the expulsive force of a new love as we begin again, telling Jesus in the Blessed Sacrament: 'Jesus, I love you, increase my love. Teach me how to love you more and more.'
+
+We can seek the forgiveness of Our Merciful Lord in the Confessional, and turn also with greater frequency to Our Lady of Snows, asking her to make our soul pure and clean like a snowflake.
+
+Our Mother of Fair Love will help us. She will help us to overcome the many temptations of the flesh, and to live holy purity as she lived it so perfectly with St. Joseph.
+
+We are told in *The Forge*: "Whenever you feel the stirrings of your poor flesh, which sometimes attacks with violent assaults, kiss your crucifix, kiss it many times with firm resolve, even if it seems...that you are doing so without love" (J. Escrivá, *The Forge*, Point 317).
+
+And he says: "Because we shall always have to put up with this little donkey which is our body, in order to conquer sensuality you have to practice daily and generously little mortifications---and sometimes big ones as well. And you must live in the presence of God, who never ceases to watch over you" (J. Escrivá, *The Forge*, Point 90).
+
+We could ask Our Lady of the Snows, *Salus Populi Romani*, Health of the Roman People, that we might also have that recourse to her, like we see Pope Francis doing at the end of his \[trips\], like a little child.
+
+Mary, may we also go to you with little flowers, simple little things that we can carry---very personal, very intimate---so that we may learn to love you more and ask you to help us in living the virtue of purity a little better.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*JM*
