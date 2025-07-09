@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Dedication of the Basilica of St. Mary Major"
+title: "The Dedication of the Basilica of St. Mary Major"
 ---
 
 By Fr. Conor Donnelly
@@ -17,7 +17,7 @@ Some commentators like to say that this woman praised Our Lord on the human plan
 
 The one who most heard the word of God and kept it was Our Lady.
 
-Jesus exalts Our Lady. When we make a lot of fuss and give a lot of attention to Our Lady, we\'re just doing what Jesus did.
+Jesus exalts Our Lady. When we make a lot of fuss and give a lot of attention to Our Lady, we're just doing what Jesus did.
 
 Today, we celebrate the dedication of the Basilica of St. Mary Major in Rome.
 
@@ -25,13 +25,13 @@ After the promulgation of the dogma of the Divine Maternity of Mary at the Counc
 
 It is the oldest church dedicated to Our Lady in the world.
 
-If you were watching recently when Pope Francis was discharged from hospital, on his way back to the Vatican he passed by St. Mary Major to make a short little pilgrimage to Our Lady to thank her for his health and his convalescence.
+If you were watching \[on July 14, 2021, June 15, 2023, and March 23, 2025\] when Pope Francis was discharged from hospital, on his way back to the Vatican he passed by St. Mary Major to make a short little pilgrimage to Our Lady to thank her for his health and his convalescence.
 
 Every time that he goes out of Rome on an international trip, he also passes by that basilica. He goes there carrying a little bouquet of flowers---nothing big, something small, something he can carry himself---and he places it on the altar in front of Our Lady.
 
-It\'s a rather beautiful childlike gesture of Marian piety; something we can all learn from.
+It's a rather beautiful childlike gesture of Marian piety; something we can all learn from.
 
-Today\'s feast is also known as the Feast of Our Lady of the Snows, due to an ancient legend about a Roman who asked Our Lady\'s guidance on how best to use his fortune.
+Today's feast is also known as the Feast of Our Lady of the Snows, due to an ancient legend about a Roman who asked Our Lady's guidance on how best to use his fortune.
 
 In the early hours of August 5th, in the middle of the Roman summer, Our Lady told him in a dream to build a church in her honor wherever he found snow on the Esquiline Hill, one of the hills of Rome.
 
@@ -63,7 +63,7 @@ On that occasion he said: "Mary is called to lead all people to the Redeemer and
 
 Mary was always hearing the word of God. She was continually keeping all these things in her heart, meditating on that word, responding to that word.
 
-"She is called to draw even those who offer stubborn resistance, the ones for whom it is more difficult to believe in Christ\'s love. The vocation of Mary is to bring each person closer to her Son" (*Ibid*.).
+"She is called to draw even those who offer stubborn resistance, the ones for whom it is more difficult to believe in Christ's love. The vocation of Mary is to bring each person closer to her Son" (*ibid*.).
 
 At her feet, John Paul II offered the Mother of God his whole life and deepest desires: *Totus tuus---*a dedication that each one of us can also make, imitating him as good children imitate their parents.
 
@@ -83,7 +83,7 @@ St. Cyril of Alexandria describes how, "From the first hours of the morning unti
 
 We can see that the faith of the people of Ephesus was strong and vibrant.
 
-In a homily given a short time later, St. Cyril praised the Motherhood of Mary. "Hail Mary," he said, "Mother of God, Blessed Virgin Mother, Morning Star...Hail Mary, most precious jewel of the whole world."
+In a homily given a short time later, St. Cyril praised the Motherhood of Mary. "Hail Mary," he said, "Mother of God, Blessed Virgin Mother, Morning Star...Hail Mary, most precious jewel of the whole world" (*idem*., *In Honor of Mary, Mother of God*).
 
 St. Thomas Aquinas says: "As the Mother of God, her dignity is in a certain sense infinite on account of the limitless goodness of God. Similarly, greater dignity than hers there cannot be, just as there cannot be any greater than God" (Thomas Aquinas, *Summa Theologiae*, I, Question 25).
 
@@ -95,7 +95,7 @@ We can try to remember today her Divine Motherhood, the root of all her graces, 
 
 St. Bernard says that Mary is the channel through which we daily receive the grace we require.
 
-We can always turn to her, since "it is the will of the Lord, who wants us to obtain everything at His Mother\'s hands, particularly when we find ourselves in the midst of special difficulties or temptations" (St. Bernard, *Homily on the Nativity of the Blessed Virgin Mary*).
+We can always turn to her, since "it is the will of the Lord, who wants us to obtain everything at His Mother's hands, particularly when we find ourselves in the midst of special difficulties or temptations" (St. Bernard, *Homily on the Nativity of the Blessed Virgin Mary*).
 
 Like little children, we need to have recourse to her as often as we can, for our spiritual needs, and also for our bodily needs.
 
@@ -105,7 +105,7 @@ The spiritual Motherhood of Mary reached a climax next to her Son on Calvary. Wh
 
 The Second Vatican Council says, "She is not a purely passive instrument in the hands of God, but cooperates in the salvation of men with free faith and obedience" (Vatican II, *Lumen gentium*, Point 56).
 
-And she continues to exercise her loving maternity unremittingly, and now in heaven, it says, "she has not given up this salvific activity, but through her constant intercession continues to obtain for us the gift of eternal salvation" (*Ibid*., Point 62).
+And she continues to exercise her loving maternity unremittingly, and now in heaven, it says, "she has not given up this salvific activity, but through her constant intercession continues to obtain for us the gift of eternal salvation" (*ibid*., Point 62).
 
 We can thank Our Lord for giving us such a Mother, His own Mother.
 
@@ -117,13 +117,13 @@ The spiritual motherhood of Mary goes very far. She engenders us in the supernat
 
 The power to become sons and daughters of God, "to participate in the divine nature" (2 Pet. 1:4), has been given to us, thanks to the redemptive action of Christ, who forms us in His own likeness, a fashioning that comes through Mary.
 
-A lady stood up at a get together with St. Josemaría once and said that every day when she\'s going to Mass, she says to her three- or four-year-old daughter: "I\'m going to receive Jesus." Every day, she would say that to the child.
+A lady stood up at a get together with St. Josemaría once and said that every day when she's going to Mass, she says to her three- or four-year-old daughter: "I'm going to receive Jesus." Every day, she would say that to the child.
 
-One day the child said, \"And will you receive Mary also?"
+One day the child said, "And will you receive Mary also?"
 
-This lady said to St. Josemaría, \"Father, what should I tell my daughter?"
+This lady said to St. Josemaría, "Father, what should I tell my daughter?"
 
-St. Josemaría had to think for a moment. It wasn\'t one of the usual questions that he was often asked.
+St. Josemaría had to think for a moment. It wasn't one of the usual questions that he was often asked.
 
 After a moment, he replied thus: "In a way, yes, because the Body of Christ before was the body of Mary. The Blood of Christ before was the blood of Mary. In a certain sense, when we receive Jesus, we receive Mary also."
 
@@ -139,9 +139,9 @@ Remember, O most gracious Virgin Mary, never was it known that anyone who fled t
 
 "The *Hail Mary* and the *Angelus* are loving praises of her divine motherhood." We remind her of her vocation as a mother, something that she likes to be reminded of with great frequency.
 
-"When we say the Rosary...our minds and our hearts reflect on the mysteries of Mary\'s admirable life, which at the same time, are the mysteries of our faith.
+"When we say the Rosary...our minds and our hearts reflect on the mysteries of Mary's admirable life, which at the same time, are the mysteries of our faith.
 
-\"As the feasts of Our Lady come round each year, may we not be sparing in the details of affection we show her. We raise our hearts to her more often and ask her for what we need.
+"As the feasts of Our Lady come round each year, may we not be sparing in the details of affection we show her. We raise our hearts to her more often and ask her for what we need.
 
 "We give thanks for her constant motherly care and entrust those we love to her. Naturally though, if we really want to act as good children, every day is a good occasion on which to express affection for those who really love one another" (Josemaría Escrivá, *Friends of God*, Points 290-291).
 
@@ -169,39 +169,39 @@ On one occasion, he was seated close to a lady who was very badly dressed.
 
 There was a bowl of fruit in the center of the table. After the first course of the dinner, he took up an apple and he handed it to her.
 
-She looked at him a bit surprised and said, "Your Excellency, I didn\'t ask for any fruit.\"
+She looked at him a bit surprised and said, "Your Excellency, I didn't ask for any fruit."
 
 He said, "Madam, it was only after Eve had the apple that she realized what she was wearing."
 
 Sometimes we have to be very clear. We should defend ourselves and other people. Defend the environment of our home, care with television programs, having a sensitive conscience for movies.
 
-If we wouldn\'t bring children to a red-light district of the city, then we shouldn\'t bring that red-light district into our living room.
+If we wouldn't bring children to a red-light district of the city, then we shouldn't bring that red-light district into our living room.
 
-We should try and flee from all occasions of sin. "If your hand is an occasion of sin to you, cut it off" (cf. Matt. 5:30).
+We should try and flee from all occasions of sin. "If your hand is an occasion of sin to you, cut it off" (*cf*. Matt. 5:30).
 
-Just like the alcoholic, who has to plan carefully his journey home to avoid that street where that hotel is because: 'I know there\'s a bar there and there are bottles in that bar.'
+Just like the alcoholic, who has to plan carefully his journey home to avoid that street where that hotel is because: 'I know there's a bar there and there are bottles in that bar.'
 
-His battle, or her battle, begins the moment she begins to leave the office, choosing the route home. It doesn\'t begin when he\'s entering the lobby of the hotel.
+His battle, or her battle, begins the moment she begins to leave the office, choosing the route home. It doesn't begin when he's entering the lobby of the hotel.
 
-We have to fight our battles far away from the walls of the fortress. We need to be aware of unnecessary temptations. The devil, we\'re told in Scripture, is like a lion ready to pounce (Lam. 3:10).
+We have to fight our battles far away from the walls of the fortress. We need to be aware of unnecessary temptations. The devil, we're told in Scripture, is like a lion ready to pounce (Lam. 3:10, 1 Peter 5:8).
 
 When people are driving along the roads, they meet with traffic policemen, traffic lights, yellow lines, one-way streets, no-parking zones. All these seem to be a nuisance and limitations on our freedom. But, in fact, they favor the driver because they help them to drive with gracious security and pleasure.
 
 We need to be protected against our own weaknesses---and we all know how weak we can be.
 
-We also don\'t know how weak others can be in certain moments. We can\'t trust ourselves or think we\'re strong, or think other people are strong.
+We also don't know how weak others can be in certain moments. We can't trust ourselves or think we're strong, or think other people are strong.
 
-We can\'t allow ourselves to get into compromising situations. And for that, we have to have foresight, to be clever.
+We can't allow ourselves to get into compromising situations. And for that, we have to have foresight, to be clever.
 
-Have the courage to flee if things go wrong, because we know we have feet of clay. "We carry this treasure in earthenware vessels," says St. Paul (cf. 2 Cor. 4:7).
+Have the courage to flee if things go wrong, because we know we have feet of clay. "We carry this treasure in earthenware vessels," says St. Paul (*cf*. 2 Cor. 4:7).
 
 St. Thomas Aquinas defines curiosity. He says, "Curiosity is a defect of our mind which inclines us with eagerness and precipitation towards the...study of less useful subjects, making us neglect the things of God and our salvation. This curiosity is born of spiritual sloth...and makes us lose precious time" (St. Thomas Aquinas, *Summa Theologiae*, II,II, Questions 167, 35).
 
-It\'s like a mania for collecting useless data. St. John of the Cross calls it "stupid intellectual curiosity, and...is the inverse of contemplation."
+It's like a mania for collecting useless data. St. John of the Cross calls it "stupid intellectual curiosity, and...is the inverse of contemplation."
 
 In this battle we often need to give importance to what is small. Often the devil enters through small things, little lacks of struggle here or there, little negligences in things that could be important.
 
-Those small points that may be so small as not to appear important to us---that\'s where the battles have to be fought: in the guarding of our eyes, in the things we read, in entertainment, in dealing with people of the opposite sex, in certain conversations.
+Those small points that may be so small as not to appear important to us---that's where the battles have to be fought: in the guarding of our eyes, in the things we read, in entertainment, in dealing with people of the opposite sex, in certain conversations.
 
 These may be small things with no apparent importance but, if left unchecked, they can do all sorts of terrible things.
 

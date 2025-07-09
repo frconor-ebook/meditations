@@ -25,7 +25,7 @@ These Encyclicals are one of the great treasures of the Catholic Church, and it 
 
 This person in the Gospel comes and asks Our Lord to tell his brother to solve this social problem, this problem of inheritance.
 
-But Our Lord doesn\'t get drawn into concrete matters: "Who appointed me your judge or the arbitrator of your claims?"
+But Our Lord doesn't get drawn into concrete matters: "Who appointed me your judge or the arbitrator of your claims?"
 
 But what He does do is give criteria---attitudes, virtues that you have to watch out for---criteria with which to solve those problems.
 
@@ -37,9 +37,9 @@ Our Lord points out certain things to watch out for that spirit of avarice, the 
 
 He invites people to lead a life of temperance, detachment, of poverty, of temperance.
 
-"Then he told them a parable, 'There was once a rich man, who, having had a good harvest from his land, thought to himself, "What am I to do? I have not enough room to store my crops." Then he said, "This is what I will do: I will pull down my barns and build bigger ones, and store all my grain and my goods in them, and I will say to my soul: My soul, you have plenty of good things laid by for many years to come; take things easy, eat, drink, and have a good time."'
+"Then he told them a parable, 'There was once a rich man, who, having had a good harvest from his land, thought to himself, 'What am I to do? I have not enough room to store my crops.' Then he said, 'This is what I will do: I will pull down my barns and build bigger ones, and store all my grain and my goods in them, and I will say to my soul: My soul, you have plenty of good things laid by for many years to come; take things easy, eat, drink, and have a good time.'"
 
-'But God said to him, "Fool! This very night the demand will be made for your soul; and this hoard of yours, whose will it be then?" So it is when someone stores up treasure for himself instead of becoming rich in the sight of God'" (Luke 12:16-21).
+"But God said to him, 'Fool! This very night the demand will be made for your soul; and this hoard of yours, whose will it be then?' So it is when someone stores up treasure for himself instead of becoming rich in the sight of God" (Luke 12:16-21).
 
 One question we could ask ourselves: In what ways am I rich? Am I rich in material possessions? Am I rich in my glory? Am I rich in the letters that I have after my name, my talents, and my abilities? Or am I rich before God?
 
@@ -49,9 +49,9 @@ Of course, this man that we have spoken of here is very successful. He has plent
 
 He's not thinking of other people, of giving it away, of seeing how he could bring up the living standards of those people around him. He's not thinking about social justice, charity, concern for others, the dignity of all the people around him.
 
-And that is why God comes along with strong language, "Fool!"
+And that is why God comes along with strong language: "Fool!"
 
-We could have an idea in my life---\'I want to get as rich as I can, I want to have as many things as I can.' That is not a bad goal to have. We should try and have all the things that are necessary to live a decent life, to live with dignity.
+We could have an idea in my life---'I want to get as rich as I can, I want to have as many things as I can.' That is not a bad goal to have. We should try and have all the things that are necessary to live a decent life, to live with dignity.
 
 But also, to have things that are superfluous---a person who hoards all sorts of things becoming wealthy, while the people around them are in want, is not rich in the eyes of God.
 
@@ -63,17 +63,17 @@ A Christian conscience thinks about all these things and does all it can to try 
 
 We are told many times in Scripture that we have to seek the things that are above, where Christ is seated at the right hand of God. St. Paul says, "Set your mind on the things that are above, not on the things that are below" (Col. 3:2).
 
-And on another occasion Our Lord says, "Store up for yourselves treasures in heaven, where thieves do not break in and steal, and dust and moth do not consume" (cf. Matt. 6:20).
+And on another occasion Our Lord says, "Store up for yourselves treasures in heaven, where thieves do not break in and steal, and dust and moth do not consume" (*cf*. Matt. 6:20).
 
 We need to be wary of storing up for ourselves treasures on earth, because the things of this world last a relatively short period of time, and they cannot fill the longings of the human heart.
 
-A good thing to examine your conscience on when you go to Confession is your spirit of detachment, spirit of poverty, spirit of generosity. Do I have things that I really don\'t need? Am I using well the things I have?
+A good thing to examine your conscience on when you go to Confession is your spirit of detachment, spirit of poverty, spirit of generosity. Do I have things that I really don't need? Am I using well the things I have?
 
-We could spend our lifetime trying to have and have and have, like this man in the parable. But God may have planned that we have to give an account of our soul tomorrow. He has told us He will come "like a thief in the night" (1 Thess. 5:2; cf. Matt. 24:43).
+We could spend our lifetime trying to have and have and have, like this man in the parable. But God may have planned that we have to give an account of our soul tomorrow. He has told us He will come "like a thief in the night" (1 Thess. 5:2; *cf*. Matt. 24:43).
 
 God invites us to give while we have time, while we have the light. We should be trying to give a little more than our peers. People should be surprised that we are earning so much, but yet we give so much. We seem to give more than we earn. It is a good thing to try and live a little bit at a lower level than your peers. Give away everything that you can.
 
-There may be a great temptation to pass on to your children great wealth. But that is a very good way to ruin their lives. They don\'t have to strive and work like you have done to achieve what you have.
+There may be a great temptation to pass on to your children great wealth. But that is a very good way to ruin their lives. They don't have to strive and work like you have done to achieve what you have.
 
 The greater part of life can be spent in pain and suffering. The Psalms say, "Every life passes like the wind; barely a trace is left behind" (Ps. 103:16).
 
@@ -83,7 +83,7 @@ The Book of Ecclesiastes tells us that "Vanity of vanities, all is vanity" (Eccl
 
 God said to him, "Fool! This very night the demand will be made for your soul, and this hoard of yours, whose will it be then? So it is when someone stores up treasure for himself, instead of becoming rich in the sight of God" (Luke 12:20-21).
 
-It\'s a very good question to ask ourselves each day. Am I rich in the sight of God? Is God happy with what I am doing with all the material things that I have, all those gifts that He has given to me?
+It's a very good question to ask ourselves each day. Am I rich in the sight of God? Is God happy with what I am doing with all the material things that I have, all those gifts that He has given to me?
 
 I realize that everything is a gift: the chairs I sit down on, the pictures that may decorate my walls, and the bed I lay down in at night.
 
@@ -115,7 +115,7 @@ Instead of just being content with what he had and trying to think a little bit 
 
 Our Lord is teaching us that putting our hearts into the pursuit of wealth and worldly well-being is foolishness. We have to learn how to be content with what we have, to lead a simple and sober life.
 
-Happiness, or authentic human life, is not founded on worldly goods. "A man's life," we are told, "does not consist of the abundance of his possessions" (cf. Luke 12:15).
+Happiness, or authentic human life, is not founded on worldly goods. "A man's life," we are told, "does not consist of the abundance of his possessions" (*cf*. Luke 12:15).
 
 We should never boast about the material things that we have. We have to try and see everything as a gift. We need to strive for the spiritual things.
 
@@ -129,7 +129,7 @@ Yet we may look around us and find that so many people in the world function wit
 
 Pope Francis has often talked about the "spiritual emptiness" of the world (Pope Francis *Address*, December 22, 2014). We are here to remedy that situation, to remind people that there is something after this world, that man has a soul.
 
-For this man, as for many people, living is a matter of enjoying as much pleasure as possible and doing as little as need be, to eat, to drink, to have a good time, to lay up ample goods for many years.
+For this man, as for many people, living is a matter of enjoying as much pleasure as possible and to do as little as need be, to eat, to drink, to have a good time, to lay up ample goods for many years.
 
 That is his ideal, whereas the greatest ideals we could have in this world are the ideals of Christ. He has something to say to us each day of our life.
 
@@ -139,13 +139,13 @@ There is no reference to the needs of other people. He sees no need to share his
 
 And how does he plan to maintain his thoroughly materialistic lifestyle? "I will store up my goods." Yet in the end, all his calculations are for nothing.
 
-There was a man who was interviewed on TV once. He had won the lottery. He won a huge fortune of money. He had been dreaming of winning a million dollars, and now he had won a million dollars, and he was asked by the compere, the interviewer, "What is your next step now that you\'ve won a million dollars?"
+There was a man who was interviewed on TV once. He had won the lottery. He won a huge fortune of money. He had been dreaming of winning a million dollars, and now he had won a million dollars, and he was asked by the compere, the interviewer, "What is your next step now that you've won a million dollars?"
 
 He said, "Earn another million."
 
 Our human heart may never be satisfied with those material things. The things of this world give very fragile and insufficient security because our lives will never be fulfilled without God.
 
-Frequently in our prayer, we can ask ourselves, 'Where is my heart?' Because we know that our destination is heaven, we have to make positive and concrete acts of detachment with regard to what we own and what we use. What a wonderful example it is to give your children that sort of spirit and those values.
+Frequently in our prayer, we can ask ourselves, 'Where is my heart?' Because we know that our destination is heaven, we have to make positive and concrete acts of detachment with regard to what we own and what we use. What a wonderful example it is to give your children that sort of spirit and values.
 
 I knew a man once who was not well off, but somehow in some legacy, he inherited a car, and he already had a car. So, he gave that car to a priest he knew.
 
@@ -157,7 +157,7 @@ St. Josemaría used to try and encourage people to have a certain spirit of givi
 
 Every time there was a celebration or something nice happening in the family, he would think about doing something similar for some poorer family, or making some sort of a gesture of authentic generosity, or perhaps involving the children in that, thinking, 'How much time and wealth do I contribute to apostolic works to bring them forward? I have my heart truly there.'
 
-Our "life on this earth is short and fleeting" (Ps. 39:4). Another message from this parable---\"the thief in the night" (Matt. 24:43; 1 Thess. 5:2). We can be asked to account tomorrow.
+Our "life on this earth is short and fleeting" (Ps. 39:4). Another message from this parable---"the thief in the night" (Matt. 24:43; 1 Thess. 5:2). We can be asked to account tomorrow.
 
 We should try to take advantage of the noble things of this earth, to win heaven. Every day of our life, to win a little bit of heaven through that practice of virtue, through sharing or giving.
 
@@ -181,15 +181,15 @@ Our passage upon this earth is a time of testing. God has given us our time, our
 
 There was a story of a man once who had given thousands of euros to Catholic charities, an Irish man. But when he went to heaven, he found his name was not in the Book of Life.
 
-He said to the gatekeeper of heaven, "I think there has been some mistake because I gave thousands of euros to Catholic charities in my life. There's been some mistake here. Can you ask St. Patrick to come out here, please? I\'d like to have a word with him."
+He said to the gatekeeper of heaven, "I think there has been some mistake because I gave thousands of euros to Catholic charities in my life. There's been some mistake here. Can you ask St. Patrick to come out here, please? I'd like to have a word with him."
 
 St. Patrick comes out, and he explains to St. Patrick, "Look, I think there's been some mistake, because I gave thousands of euros to Catholic charities in my life, and my name is not in the Book of Life."
 
 St. Patrick said, "Well, I will see what I can do. I will go inside. I'll talk to the higher-ups."
 
-So he went inside and talked to St. Peter, and after some time he came back to this man and said, "Look, I'm sorry, but the best we can do is to give you your money back."
+So, he went inside and talked to St. Peter, and after some time he came back to this man and said, "Look, I'm sorry, but the best we can do is to give you your money back."
 
-We are told in Scripture, "Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but he who does the will of my Father in heaven\" (Matt. 7:21).
+We are told in Scripture, "Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but he who does the will of my Father in heaven" (Matt. 7:21).
 
 We have to look around and see what God has given us. What does He want me to give away and in what way? And not just if I have an awful lot to give here and to live there, but to have the disposition of giving, that spirit of generosity and detachment, because my heart is in the right place.
 
@@ -207,9 +207,9 @@ But we cannot forget that we are pilgrims on a journey, no more than actors in a
 
 In a play, it doesn't matter who plays the part of the king or who plays the part of a servant. What matters is how they play their part. Sometimes, it is the supporting actor that gets the Oscar.
 
-Worldly goods are but the means for us to attain the goal which the Lord has pointed out to us. They can never become the 'be-all and the end-all\' of our existence.
+Worldly goods are but the means for us to attain the goal which the Lord has pointed out to us. They can never become the 'be-all and the end-all' of our existence.
 
-That is why it is a very good thing to bring families on visits to the poor. Or have children see that you go out of your way for those who have less. Or that if you stop doing something, or make your family think twice, or you\'re going to give an extra cake to some poor family that doesn\'t have one.
+That is why it is a very good thing to bring families on visits to the poor. Or have children see that you go out of your way for those who have less. Or that if you stop doing something, or make your family think twice, or you're going to give an extra cake to some poor family that doesn't have one.
 
 Or just to see if we can maybe adopt a child or foster a child for a certain period. Or share the good things that our family has, like our home, or the roof over our head, maybe with some orphan or some disadvantaged family, at least to give them a period where they can live a little better if we cannot manage it on a permanent basis.
 
@@ -225,19 +225,19 @@ Meditating on our end can motivate us to sanctify our work, "redeeming the time"
 
 This thought can help us to take advantage of our circumstances, to make reparation for our sins, to become detached from earthly goods.
 
-One day, like any other day, will be our last on earth. We don\'t know when that is going to be. On this very day that we are speaking, thousands of people have died or will die in the most diverse circumstances. Many of them were probably unaware that their time was up, and that they would have no more time to improve.
+One day, like any other day, will be our last on earth. We don't know when that is going to be. On this very day that we are speaking, thousands of people have died or will die in the most diverse circumstances. Many of them were probably unaware that their time was up, and that they would have no more time to improve.
 
-Some have died with their hearts immersed in things of little or no importance in terms of eternal life. Others have died who have been involved in the same activities but have kept their sights on God.
+Some have died with their hearts immersed in things of little or no importance in terms of eternal life. Others have died who have been involved in exactly the same activities but have kept their sights on God.
 
 The passing things of this world cannot be the source of our true joys. It is these latter people that have come into possession of that marvelous treasure which "neither dust nor moth can consume" (Matt. 6:20).
 
-At the moment of our death, when the state of our soul is fixed forever, God may say to us that same word that He said to this rich man, "Fool!"
+At the moment of our death, when the state of our soul is fixed forever, God may say to us that same word that He said to this rich man: "Fool!"
 
 Afterwards, it is impossible to change. The destiny which awaits us is a consequence of our behavior on earth. "If a tree falls to the south or the north," we are told in the Book of Ecclesiastes, "in the place where the tree falls, there it will lie" (Eccles. 11:3).
 
 This is the reason for Our Lord's frequent warnings for us to be on the watch (cf. Matt. 24:42-44; Mark 13:32-37). Death is not the end of existence, but the beginning of a new life.
 
-Christians can\'t write off or minimize the importance of our temporal existence since it is the very means by which we prepare for our definitive life with God in heaven. To yield a rich harvest before God, we have to sanctify this same ordinary life and our use of material goods.
+Christians can't write off or minimize the importance of our temporal existence since it is the very means by which we prepare for our definitive life with God in heaven. To yield a rich harvest before God, we have to sanctify this same ordinary life and our use of material goods.
 
 Every other lifestyle is built upon sand. The Psalms say, "Surely every man stands as a mere breath! Surely man goes about as a shadow! ... man heaps up and knows not who will gather" (Ps. 39:5-6).
 
@@ -245,11 +245,11 @@ Since the goods of this world are intended for the glory of God, we should use t
 
 If we find that our fortunes have changed, the winds have blown in a different direction in our life, maybe we had many things once, and now we have nothing---that is a divine call to look upwards.
 
-We should know how to be happy in times of prosperity and in times of adversity. Whether we are rich or poor, we should share what we have with others: by creating new jobs, if that is in our power, by promoting works of culture and formation, or by giving generously to the good works of the Church.
+We should know how to be happy in times of prosperity and in times of adversity. Whether we are rich or poor, we should share what we have with others: by creating new jobs, if that is in our power, by promoting works of culture and formation, by giving generously to the good works of the Church.
 
-By considering our death we can also learn how to make good use of the days that remain to us---by living in the state of grace, getting to Confession frequently, receiving the Blessed Eucharist frequently.
+By considering our death we can also learn how to make good use of the days that remain to us---living in the state of grace, getting to Confession frequently, receiving the Blessed Eucharist frequently.
 
-"We cannot lose any time," says St. Josemaría, "for time is short. ... I understand St. Paul very well when he writes to the Corinthians: *Tempus breve est,* time is short (cf. 1 Cor. 7:29). How brief is our sojourn upon the earth! For a coherent Christian, these words are to ring true in the depths of the soul. They are a reproach for our lack of generosity and a constant invitation to loyalty. Truly, we have so little time to love, to give, to do penance" (Josemaría Escrivá, cf. *Friends of God*, Point 39).
+"We cannot lose any time," says St. Josemaría, "for time is short. ... I understand St. Paul very well when he writes to the Corinthians: *tempus breve est,* time is short (*cf*. 1 Cor. 7:29). How brief is our sojourn upon the earth! For a coherent Christian, these words are to ring true in the depths of the soul. They are a reproach for our lack of generosity and a constant invitation to loyalty. Truly, we have so little time to love, to give, to do penance" (Josemaría Escrivá, *Friends of God*, Point 39).
 
 Meditating on the eternal truths can be a good antidote against sin and a real help towards giving Christian meaning to life. These thoughts can inspire us to pay proper attention to our daily work, our relations with others, and our duties of charity toward those most in need. That's our way to heaven.
 

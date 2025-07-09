@@ -47,7 +47,7 @@ Eventually, Edith Stein entered the Discalced Carmelite monastery in Cologne in 
 
 There she wrote her metaphysical book entitled *Finite and Eternal Being*, which attempted to combine the philosophies of St. Thomas Aquinas and Husserl.
 
-We have this very educated lady with great influence in the highest intellectual and philosophical circles, making our presence felt, defending the teaching of Christ in all sorts of ways, writing important books.
+We have this very educated lady with great influence in the highest intellectual and philosophical circles, making her presence felt, defending the teaching of Christ in all sorts of ways, writing important books.
 
 It was thought that to avoid the growing Nazi threat, she should move out of Germany. With her sister Rosa, who was also a convert and also a Carmelite sister, she moved to Holland, to a convent in a place called Echt.
 
@@ -71,7 +71,7 @@ In 1987, she was beatified by Pope John Paul II in the Cologne Cathedral and can
 
 Pope John Paul II proclaimed her, a Jewess, as one of the Patronesses of Europe.
 
-A spiritual writer said, "Out of the unspeakable human suffering caused by the Nazis in Western Europe in the 1930s and 1940s, there blossomed the beautiful life of dedication, consecration, prayer, fasting, and penance of St. Teresa Benedicta of the Cross. Even though her life was snuffed out by the evil of genocide, her memory stands as a light undimmed in the midst of evil, darkness, and suffering." (Enzo Lodi, *Saints of the Roman Calendar*).
+A spiritual writer said, "Out of the unspeakable human suffering caused by the Nazis in Western Europe in the 1930s and 1940s, there blossomed the beautiful life of dedication, consecration, prayer, fasting, and penance of St. Teresa Benedicta of the Cross. Even though her life was snuffed out by the evil of genocide, her memory stands as a light undimmed in the midst of evil, darkness, and suffering" (Enzo Lodi, *Saints of the Roman Calendar*).
 
 All the saints have something to say to us, and all the martyrs. This particular lady is a woman who did wonderful things, gave great example, exemplified many of the virtues: love for truth, gave her life for truth, commitment, fidelity to her vocation, courage, fortitude.
 
@@ -81,7 +81,7 @@ In that book, Dom Dysmas de Lassus commented**,** "We should meditate on the gra
 
 "In the book of Daniel, God did not prevent the three young men from being thrown into the furnace, but he protects them because the angel of the Lord goes down into it with them. This story is symbolic.
 
-"God does not spare us trials, but as he tells us in Psalm 91: 'I will be with him in trouble; I will rescue him and honor him. With long life I will satisfy him, and show him my salvation'" (Robert Cardinal Sarah, *The Power of Silence*, Chapter V).
+"God does not spare us trials, but as he tells us in Psalm 91 (verses 14-18): 'I will be with him in trouble; I will rescue him and honor him. With long life I will satisfy him, and show him my salvation'" (Robert Cardinal Sarah, *The Power of Silence*, Chapter V).
 
 There\'s a story told about Edith Stein, that when she was searching for truth, in her early life, she wandered into a Catholic church in \[Frankfurt\]. She had never been inside a Catholic church before, but she wanted to see what it was like, what was there.
 
@@ -101,7 +101,7 @@ He says, "A woman\'s femininity is genuine only if she is aware of the beauty of
 
 We are reminded that women, in particular, are called to promote Christian feminism in society; to promote, in a special way, the primacy of the family and the home.
 
-John Paul II liked to say that every man that comes into the world is entrusted to the care of a woman. She is the one who teaches him how to love. She teaches him what it means to be human.
+John Paul II liked to say that every man that comes into the world is entrusted to the care of a woman (John Paul II, Apostolic Letter, *Mulieris dignitatem*, Point 30, August 15, 1988). She is the one who teaches him how to love. She teaches him what it means to be human.
 
 The family is this "school of deeper humanity" (John Paul II, Apostolic Exhortation, *Familiaris Consortio*, Point 21, November 22, 1981, and Vatican II, *Gaudium et spes*, Point 52, December 7, 1965) where we transmit values, where we try and build "a civilization of love" (John Paul II, *Letter to Families*, February 2, 1994).
 
@@ -121,7 +121,7 @@ He invited doctors in the 21st century to do something special for mothers, part
 
 Scott Hahn and his wife scoured the Bible to find negative comments about children. But they couldn\'t find any.
 
-The Bible doesn\'t say: Blessed is the woman who only has one or two because she will be able to provide for their college education. Or, Accursed is the woman who finds she is pregnant again. Or, Blessed is the woman whose career is more important so that she can have x number of years without children before she goes on to have a family.
+The Bible doesn\'t say: 'Blessed is the woman who only has one or two because she will be able to provide for their college education.' Or, 'Accursed is the woman who finds she is pregnant again.' Or, 'Blessed is the woman whose career is more important so that she can have x number of years without children before she goes on to have a family.'
 
 We find very beautiful things written about women in Christian literature: Dante, Shakespeare, Dickens, Claudel.
 
@@ -137,7 +137,7 @@ He encouraged women to take their place in society. He encouraged them to develo
 
 In one of his writings, he says, "Development, maturity, emancipation of women should not mean a pretension to equality, to uniformity with men, a servile imitation of man\'s way of doing things.
 
-"That would not get us anywhere. Women would turn out losers, not because they are better than men or worse, but because they are different." They have different things to bring to society.
+"That would not get us anywhere. Women would turn out losers, not because they are better than men or worse, but because they are different" (J. Escrivá, Conversations, Point 87). They have different things to bring to society.
 
 Today in our prayer we can look at this great woman and see the great legacy that she left to society: of virtue, of courage, of love for truth, of that desire to find the meaning and purpose of life. It\'s an important message for all young people today.
 
@@ -147,11 +147,11 @@ She must have looked at the silent recollection of Christ. She chose a silent vo
 
 Edith Stein showed her love for God with deeds. Silent deeds. She wrote a lot, but she didn\'t speak too much. She dedicated all of her great talents to the glory of God all over Europe.
 
-"The strength of silence," he says, "is such that it leads us to give ourselves even unto death, unto the humble, silent, and pure gift of our life. If we want to prolong Christ\'s work on earth, it\'s necessary to love silence, solitude, and prayer" (*Ibid*.).
+"The strength of silence," he says, "is such that it leads us to give ourselves even unto death, unto the humble, silent, and pure gift of our life. If we want to prolong Christ\'s work on earth, it\'s necessary to love silence, solitude, and prayer" (*ibid*.).
 
 We find a lot of these ideas manifested in the life of this great saint. We could ask her that we might learn how to pray like she did, to take the great steps forward in holiness as she did, that God may be asking of us. Ready for anything. Inspired all the time by the example of Our Lord.
 
-"In Gethsemane," says Cardinal Sarah, "when the end is near and the Apostles are sleeping, incapable of understanding in depth the drama that is playing out, he remains one last night in silence, in prayer. In his final moments, nocturnal silence is Christ\'s companion" (*Ibid*., Point 200).
+"In Gethsemane," says Cardinal Sarah, "when the end is near and the Apostles are sleeping, incapable of understanding in depth the drama that is playing out, he remains one last night in silence, in prayer. In his final moments, nocturnal silence is Christ\'s companion" (*ibid*., Point 200).
 
 We could try to learn how to love silence, to seek moments of silence in our day, in our week, in our year. We need it for so many things.
 
@@ -169,7 +169,7 @@ Each human person can be very grateful for the women that God has placed in thei
 
 In silence, we can contemplate all these things. Silence when the Cross comes. Cardinal Sarah says: "The suffering of silence can also be God\'s hallmark on a soul" (Robert Cardinal Sarah, *The Power of Silence*, Point 97, quoting Dom Augustin Guillerand, *Silence cartusien*).
 
-When Edith Stein was suffering during her life, she couldn\'t have had any idea that 40, 50 years after her death, her life, her ideas, her example were going to be a great inspiration for another Polish person who was to become possibly the most famous Polish person in the whole of human history, a great leader of the world: John Paul the Great.
+When Edith Stein was suffering during her life, she couldn\'t have had any idea that forty or fifty years after her death, her life, her ideas, her example were going to be a great inspiration for another Polish person who was to become possibly the most famous Polish person in the whole of human history, a great leader of the world: John Paul the Great.
 
 He was inspired by this example of this Jewess---great philosopher, great mind, great love for the truth.
 
