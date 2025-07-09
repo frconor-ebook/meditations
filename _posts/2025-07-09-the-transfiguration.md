@@ -13,7 +13,7 @@ By Fr. Conor Donnelly
 
 "And after six days, Jesus took Peter and James, and his brother John, and led them up a high mountain by themselves. And he was transfigured before them, and his face shone as the sun, and his garments became white as snow. And behold, there appeared to them Moses and Elias talking together with him. And Peter addressed Jesus saying, 'Lord, it is good for us to be here'" (Matt. 17:1-4).
 
-Today is the Feast of the Transfiguration of Our Lord. It\'s a feast day that has been celebrated for a long time in both the Eastern and Western Churches. During the 15th century it was extended to the universal Church by Pope Calixtus III.
+Today is the Feast of the Transfiguration of Our Lord. It's a feast day that has been celebrated for a long time in both the Eastern and Western Churches. During the 15th century it was extended to the universal Church by Pope Calixtus III.
 
 There are two times in the liturgical year when we remember the Transfiguration in a special way: on the Second Sunday of Lent, to affirm the divinity of Christ before we commemorate His Passion; and the second, today, as we recall the exaltation of Christ in anticipation of His eternal glory.
 
@@ -23,7 +23,7 @@ Through grace, we acquire the seed of eternal life during our current present ex
 
 St. Josemaría says in *The Way*: "Foster in your heart the glorious hope of heaven" (Josemaría Escrivá, *The Way*, Point 668).
 
-In the *Communion Antiphon* of today\'s Mass, it says, "When Christ is revealed, we will be like him, for we shall see him as he is" (1 John 3:2).
+In the *Communion Antiphon* of today's Mass, it says, "When Christ is revealed, we will be like him, for we shall see him as he is" (1 John 3:2).
 
 Our Lord spoke to His disciples about His forthcoming Passion and of the suffering that He would undergo at the hands of the Jews and of the Gentiles. He encouraged them to follow Him on the pathway of the Cross and of sacrifice (Matt. 16:24 *ff*).
 
@@ -41,7 +41,7 @@ This is what the Christian life is all about: fortitude, daring, courage. Which 
 
 There can be a tendency to make our dedication and our Christian life compatible with an easy-going and perhaps lukewarm existence, like that of so many minds that are exclusively set on material well-being.
 
-We can also get infected by that as well. Paul VI says, "Haven\'t we frequently felt the temptation to let Christianity be comfortable, devoid of sacrifice, of having it conform to the easy-going and worldly ways of others?
+We can also get infected by that as well. Paul VI says, "Haven't we frequently felt the temptation to let Christianity be comfortable, devoid of sacrifice, of having it conform to the easy-going and worldly ways of others?
 
 "But that is not how Our Lord meant it to be. Christian life cannot dispense with the cross since it has no meaning without the hard, pressing weight of duty."
 
@@ -59,11 +59,11 @@ The disciples were profoundly shaken by the experience of witnessing the Passion
 
 "Blessed are the clean of heart, for they shall see God" (Matt. 5:8). This is the reward that awaits us, if we make an effort to be faithful each day. Each day we can foster in our hearts that glorious hope of heaven.
 
-Our Lord wants us to strengthen that hope. He wants to strengthen us with the hope of heaven, particularly if at some point along the way, the way becomes a bit taxing, or discouragement causes us to falter a little bit.
+Our Lord wants to strengthen us with the hope of heaven, particularly if at some point along the way, the way becomes a bit taxing, or discouragement causes us to falter a little bit.
 
 Thinking about heaven can help us to be strong and to persevere. Thinking of the reward: "Eye has not seen, nor ear heard, nor has it entered into the heart of man, the things that God has prepared for those who love him" (1 Cor. 2:9).
 
-It\'s worthwhile getting to heaven. It\'s worthwhile knowing the way.
+It's worthwhile getting to heaven. It's worthwhile knowing the way.
 
 Venerable Fulton Sheen tells a story of how one time he was going to give a talk in the town hall of Philadelphia. And he lost his way.
 
@@ -71,17 +71,17 @@ He met some kids who were playing football in the street: typical brash, gum-che
 
 One of them looked up at him and, with a rather cheeky tone of voice, said to him, "What do you want to go there for?"
 
-He said, "I\'m going to give a lecture."
+He said, "I'm going to give a lecture."
 
-The kid said, "What about?" It was a lecture about some lofty eschatological topic, but he didn\'t want to complicate the child\'s life too much, so he just said, "It's a lecture about heaven and how to get there. Would you like to come?"
+The kid said, "What about?" It was a lecture about some lofty eschatological topic, but he didn't want to complicate the child's life too much, so he just said, "It's a lecture about heaven and how to get there. Would you like to come?"
 
-The kid said, "How are you going to give a lecture about heaven and how to get there if you don\'t even know the way to the town hall?"
+The kid said, "How are you going to give a lecture about heaven and how to get there if you don't even know the way to the town hall?"
 
 The moral of the story is that we have to know the pathway.
 
 For that, we need to keep before our eyes the final destination prepared for us by Our Father God, and to make a determined effort and desire to want to get there.
 
-'I want to get to heaven. That\'s where I want to be. That\'s what my life is all about.'
+'I want to get to heaven. That's where I want to be. That's what my life is all about.'
 
 Each day that passes draws us a little closer to it. Logically death, then, is not the end, but the beginning: something to look forward to, not to be afraid of.
 
@@ -93,19 +93,19 @@ Jesus took Peter, James, and John, "led them up a high mountain, and was transfi
 
 He encouraged them by letting them get a glimpse of their reward.
 
-Notice how Our Lord didn\'t take all of the disciples or all of the apostles, but a select few. He revealed Himself to them in a special way, in a way that He didn\'t reveal Himself to others: quietly, silently, individually, very personally.
+Notice how Our Lord didn't take all of the disciples or all of the apostles, but a select few. He revealed Himself to them in a special way, in a way that He didn't reveal Himself to others: quietly, silently, individually, very personally.
 
 When we go on retreat or to a recollection, Our Lord does something similar with each one of us. He draws us away on our own to a quiet place, and there He reveals Himself to us in words, in phrases.
 
 He allows the Holy Spirit to communicate to us a deeper sense of what our life is all about.
 
-Pope St. John Paul II liked to say there are three specific questions that every person must keep asking themselves in the course of their life: "Where have I come from? Where am I going? What is my life all about?" (*cf*. John Paul II, Encyclical, *Fides et Ratio*, September 14, 1988).
+Pope St. John Paul II liked to say there are three specific questions that every person must keep asking themselves in the course of their life: "Where have I come from? Where am I going? What is my life all about?" (*cf*. John Paul II, Encyclical, *Fides et Ratio*, Point 1, September 14, 1988).
 
 He said, to a large extent, the happiness that we will achieve on this earth depends on the answers to those questions.
 
 Our Lord helps Peter, James, and John to find those answers. That vision gives the apostles unspeakable happiness. Peter does his best to express it: "Lord, it is good for us to be here! If you wish, I will make three booths, one for you, one for Moses, and one for Elijah" (Matt. 17:4).
 
-He\'s so happy that he wasn\'t thinking of himself or of James and John, who accompanied Him. St. Mark says, "For he did not know what he was saying" (*cf*. Mark 9:6).
+He's so happy that he wasn't thinking of himself or of James and John, who accompanied Him. St. Mark says, "For he did not know what he was saying" (*cf*. Mark 9:6).
 
 He was still speaking when a shining cloud covered them and a voice from within the cloud said: "This is my beloved Son, with whom I am well pleased. Hear him" (Matt. 17:5).
 
@@ -123,7 +123,7 @@ He says: "We were eyewitnesses of his majesty. For he was honored and glorified 
 
 The Lord let His divinity be instantaneously perceived. The disciples were beside themselves and moved by a tremendous grace they would never forget.
 
-"The Transfiguration reveals Christ to them in a way that they were not familiar with from their ordinary life," said St. John Paul II. It\'s something special.
+"The Transfiguration reveals Christ to them in a way that they were not familiar with from their ordinary life," said St. John Paul II. It's something special.
 
 "He is present before them," said St. John Paul II, "as the fulfillment of the Old Covenant, and above all, as the chosen Son of the Eternal Father, to whom absolute faith and total obedience are due" (John Paul II, *Address*, February 27, 1983; *cf*. *Address*, May 27, 1987).
 
@@ -135,15 +135,15 @@ In *The Forge,* St. Josemaría says, "My God, when will I love you for yourself 
 
 It's good to talk to your children about heaven. Let them dream about heaven, understand what it is, and know the goal of our earthly journey.
 
-Also, so that when the day comes that God calls you, hopefully, they know where you\'ve gone, and that someday they will be there also.
+Also, so that when the day comes that God calls you, hopefully, they know where you've gone, and that someday they will be there also.
 
 Our Lord accompanies us to help us bear our greatest burdens.
 
 "Peter was still speaking when that cloud covered them and he heard the voice: 'This is my beloved Son, with whom I am well pleased: Listen to him'" (Matt. 17:5).
 
-How often has God spoken to us in the intimacy of our hearts? Or we\'ve heard something in Confession or spiritual direction, or in our spiritual or Gospel reading, where we know this can only have come from God, or that the Holy Spirit is speaking to me in this particular moment?
+How often has God spoken to us in the intimacy of our hearts? Or we've heard something in Confession or spiritual direction, or in our spiritual or Gospel reading, where we know this can only have come from God, or that the Holy Spirit is speaking to me in this particular moment?
 
-The mystery that we celebrate today is a prefiguring of Christ\'s glory to come, and of the glory that we are invited to one day share with Him.
+The mystery that we celebrate today is a prefiguring of Christ's glory to come, and of the glory that we are invited to one day share with Him.
 
 St. Paul says: "The Spirit himself gives testimony to our spirit, that we are sons of God. But if we are sons, we are heirs also; heirs indeed of God, and joint heirs with Christ, provided, however, we suffer with him, that we also may be glorified with him" (Rom. 8:16-17).
 
@@ -151,9 +151,9 @@ And he adds: "For I consider that the sufferings of this present time are not wo
 
 We know when the Holy Spirit speaks to us.
 
-A lady told me once how, in spiritual direction in the previous week, she heard some words that struck her in a special way. She said that I had said that "the ego must go." I hadn\'t remembered saying any such thing.
+A lady told me once how, in spiritual direction in the previous week, she heard some words that struck her in a special way. She said that I had said that "the ego must go." I hadn't remembered saying any such thing.
 
-And she said the following day, after Mass, over breakfast with some friends, "Some non-Catholics joined us, and eventually after a bit of chit-chat, people left to go to work. And I was left with one particular Buddhist lady. And at a certain moment in our conversation, this friend told me, 'You know, the ego must go.'"
+And she said, "The following day, after Mass, over breakfast with some friends, some non-Catholics joined us, and eventually after a bit of chit-chat, people left to go to work. And I was left with one particular Buddhist lady. And at a certain moment in our conversation, this friend told me, 'You know, the ego must go.'"
 
 This lady said, "I always know the Holy Spirit speaks through spiritual direction. But when I got the same message from this Buddhist lady within twenty-four hours, I really felt the Holy Spirit was working overtime."
 
@@ -177,13 +177,13 @@ St. Paul himself reminds the first Christians: "Now who is there to harm you if 
 
 St. Peter says to Our Lord, "Master, it is well that we are here; let us make three booths" (Matt. 17:4).
 
-St. Peter suggests this when he gets this momentary glimpse of the splendor of Christ\'s divinity at the summit of Mount Tabor. It was such a great suggestion.
+St. Peter suggests this when he gets this momentary glimpse of the splendor of Christ's divinity at the summit of Mount Tabor. It was such a great suggestion.
 
 But Peter had still not grasped that Our Lord had to suffer for us before entering into His glory, and that "the disciple is not above his teacher" (Luke 6:40; Matt. 10:24).
 
 Later on, he would come to understand it, experiencing it in his flesh, and he transmitted it to us in one of his letters. He says, "Christ suffered for you, leaving you an example, that you should follow in his footsteps" (1 Pet. 2:21).
 
-When we try to take our Christian vocation seriously on this earth---we didn\'t come to Tabor---if we\'re faithful to God on this earth, He will grant us the glorious happiness of heaven. But not before.
+When we try to take our Christian vocation seriously on this earth---we didn't come to Tabor---if we're faithful to God on this earth, He will grant us the glorious happiness of heaven. But not before.
 
 Nor have we tried to carry out our Christian vocation for the sake of a poor earthly happiness, precariously balanced upon human success or prosperity.
 
@@ -191,11 +191,11 @@ Nor have we tried to carry out our Christian vocation for the sake of a poor ear
 
 Jesus calls us to Calvary so that we would give up our lives in co-redemption with Him: "If any man would come after me, let him take up his cross daily and follow me" (Matt. 16:24).
 
-Our Lord doesn\'t say monthly or yearly or once in a lifetime, but "daily." This is the only way to attain happiness in heaven and on earth, for Our Lord has promised that "whoever loses his life for my sake will find it" (Matt. 10:39).
+Our Lord doesn't say monthly or yearly or once in a lifetime, but "daily." This is the only way to attain happiness in heaven and on earth, for Our Lord has promised that "whoever loses his life for my sake will find it" (Matt. 10:39).
 
-St. Josemaría says, "Having the cross means finding happiness and joy. And the reason, which I now see more clearly than ever, is this: that having the Cross means being identified with Christ. It means being Christ, and therefore, being a child of God."
+St. Josemaría says, "Having the cross means finding happiness and joy. And the reason, which I now see more clearly than ever, is this: that having the Cross means being identified with Christ. It means being Christ, and therefore, being a child of God" (*cf*. J. Escrivá, *Christ Is Passing By*, Point 19; *Friends of God*, Point 212).
 
-It\'s worth nailing ourselves to the Cross because it means entering into life, drinking in the life of Christ.
+It's worth nailing ourselves to the Cross because it means entering into life, drinking in the life of Christ.
 
 One spiritual writer says: "Let us ask Our Lady to help learn to offer with serenity the fatigue and tiredness that each day brings with it, with our thoughts fixed on Christ, who accompanies us in this life and waits for us, glorified, at the end of the way" (Francis Fernandez, *In Conversation with God*, Volume 7).
 
