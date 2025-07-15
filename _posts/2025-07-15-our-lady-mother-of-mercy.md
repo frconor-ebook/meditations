@@ -17,17 +17,17 @@ A great crowd was following Our Lord. We're told in other moments He had attract
 
 Our Lord calls His disciples and says that He has compassion on them. Once again, merciful compassion leads Our Lord to perform the extraordinary miracle of the multiplication of the loaves and fish.
 
-It\'s a reminder to us that we can have frequent recourse to the Divine Mercy. Our salvation and safety lie in God\'s compassion for us, and He wants us to learn to have mercy on others. It\'s a way to win God\'s favor more promptly.
+It's a reminder to us that we can have frequent recourse to the Divine Mercy. Our salvation and safety lie in God's compassion for us, and He wants us to learn to have mercy on others. It's a way to win God's favor more promptly.
 
-Our Lady constantly procures for us the compassion of her Son. She\'s the one who can teach us how to respond to the needs of others. "Hail, Holy Queen, Mother of mercy"...we repeat to her frequently.
+Our Lady constantly procures for us the compassion of her Son. She's the one who can teach us how to respond to the needs of others. "Hail, Holy Queen, Mother of mercy"...we repeat to her frequently.
 
 Perhaps in our own interior life, we dedicate a special day of the week, like Saturdays, to her, as is customary in the Church. We sing to her in a special way, or we recite some ancient prayer like the "Hail, Holy Queen"--*Salve Regina*.
 
-Pope St. John Paul II says, "Mary is the one who has the deepest knowledge of the mystery of God\'s mercy. She knows its price, she knows how great it is. In this sense, we call her 'Mother of mercy, Virgin Most Merciful.'
+Pope St. John Paul II says, "Mary is the one who has the deepest knowledge of the mystery of God's mercy. She knows its price, she knows how great it is. In this sense, we call her 'Mother of mercy, Virgin most merciful.'
 
-"Each one of these titles has a profound theological meaning. Each of them expresses," he says, "the special preparation of her soul, of her whole personality, so that she would be able to perceive through the complexity of events, first of all directed to Israel, and then to every individual, and ultimately to the whole of humanity, the need for that abounding mercy of hers, in which, 'from generation to generation' (Luke 1:50), people become sharers according to the eternal design of the Most Holy Trinity" (John Paul II, Encyclical, *Dives in misericordia*, November 30, 1980).
+"Each one of these titles has a profound theological meaning. Each of them expresses," he says, "the special preparation of her soul, of her whole personality, so that she would be able to perceive through the complexity of events, first of all directed to Israel, and then to every individual, and ultimately to the whole of humanity, the need for that abounding mercy of hers, in which, 'from generation to generation' (Luke 1:50), people become sharers according to the eternal design of the Most Holy Trinity" (John Paul II, Encyclical, *Dives in misericordia*, Point 8, November 30, 1980).
 
-St. Augustine teaches us that mercy has its birth in the heart. He says it has pity on the misery of others, whether their wretchedness be corporal or spiritual, and is moved and saddened by it as if the suffering were its own, in such a way that it seeks the means to remedy it (cf. St. Augustine, *The City of God*).
+St. Augustine teaches us that mercy has its birth in the heart. He says it has pity on the misery of others, whether their wretchedness be corporal or spiritual, and is moved and saddened by it as if the suffering were its own, in such a way that it seeks the means to remedy it (*cf*. St. Augustine, *The City of God*).
 
 Mercy is poured out on others, taking their defects and their sorrows for its own, and tries to set them free from such grief and pain.
 
@@ -43,7 +43,7 @@ Great fruits of holiness will be produced in our souls when we meditate frequent
 
 Mary shares to the highest degree in this divine perfection. In her, mercy is united to the piety of a mother. She always leads us to the throne of grace.
 
-The title of Mother of Mercy, won by her *fiat*, her "Let it be done to me according to your word", in Nazareth (Luke 1:38) and at the foot of the Cross on Calvary (John 19:25), is one of the greatest and most beautiful of the lovely names of Mary. She is our comfort and our safeguard.
+The title of Mother of Mercy, won by her *fiat*, her "Let it be done to me according to your word" in Nazareth (Luke 1:38) and at the foot of the Cross on Calvary (John 19:25), is one of the greatest and most beautiful of the lovely names of Mary. She is our comfort and our safeguard.
 
 *Lumen gentium* of the Second Vatican Council says, "By her maternal charity, she cares for the brethren of her Son, who still journey onwards on earth beset by dangers and difficulties, until they are led to their heavenly home.
 
@@ -53,7 +53,7 @@ Not a single day goes by without her coming to our assistance and protecting us,
 
 "The title of Mother of Mercy finds its traditional expression in the names *Health of the sick*, *Refuge of sinners*, *Comforter of the afflicted*, *Help of Christians*.
 
-"The order of the Litany," says Réginald Garrigou-Lagrange, "is beautiful. It shows how Mary has mercy on those who endure bodily suffering in order to cure their souls. She then comforts them in their sorrow and gives them the strength to bear and overcome all their difficulties" (Réginald Garrigou-Lagrange, *The Mother of the Savior*).
+"The order of the Litany," says Garrigou-Lagrange, "is beautiful. It shows how Mary has mercy on those who endure bodily suffering in order to cure their souls. She then comforts them in their sorrow and gives them the strength to bear and overcome all their difficulties" (Réginald Garrigou-Lagrange, *The Mother of the Savior*).
 
 Mary is there for us as *Health of the sick* and will gladly obtain for us the well-being of our bodies, especially when alleviation of our sickness is ordered to the good of our soul.
 
@@ -63,7 +63,7 @@ He wants us to accept it with love, and will transform it into a great good that
 
 By means of sickness borne patiently and with a supernatural outlook, we obtain a good part of the treasure that awaits us in heaven, to say nothing of abundant apostolic rewards.
 
-From such humble and courageous acceptance of God\'s Will come decisions to dedicate oneself to God and the salvation of many souls who, without those graces, might not find the path and the gateway to heaven.
+From such humble and courageous acceptance of God's Will come decisions to dedicate oneself to God and the salvation of many souls who, without those graces, might not find the path and the gateway to heaven.
 
 Our Lady also cures the wounds left in our soul by original sin and aggravated by personal transgressions. She will obtain remedy for our disordered concupiscence and procure strength for our weakness in doing good.
 
@@ -97,7 +97,7 @@ Her neighbors in Nazareth would always find upliftment and understanding in the 
 
 The apostles found refuge in her company, particularly when all had turned dark and meaningless after the death of Christ on the Cross.
 
-When they returned from placing the Body of Jesus in the sepulcher, at a time when families in Jerusalem were getting ready to celebrate the Paschal feast, the apostles, who had fled numb with shock and disoriented, turned almost automatically to Mary\'s house.
+When they returned from placing the Body of Jesus in the sepulcher, at a time when families in Jerusalem were getting ready to celebrate the Paschal feast, the apostles, who had fled numb with shock and disoriented, turned almost automatically to Mary's house.
 
 From then on she has never ceased to comfort those who are oppressed by sorrow, loneliness, or suffering.
 
@@ -113,7 +113,7 @@ We can repeat slowly: "Hail, Holy Queen, Mother of Mercy, hail, our life, our sw
 
 From her, we will learn to console and hearten others in their struggle. We will be compassionate to those who are in need of our help, in disasters, or in minor worries---a word of encouragement here, a word of condolence there---a merciful attitude which is so pleasing to Our Lord.
 
-Our Lady is the *Help of Christians* because first of all we favor those we love, and nobody has had a greater love than Mary for those who belong to her Son\'s family.
+Our Lady is the *Help of Christians* because first of all we favor those we love, and nobody has had a greater love than Mary for those who belong to her Son's family.
 
 In her, we shall find every grace we need to win through in the fight against temptation, in our apostolate, and in our work.
 
@@ -121,23 +121,23 @@ St. Josemaría says, "In the Rosary we have a powerful weapon" (Josemaría Escri
 
 Following the constant teachings of the Roman Pontiffs, many Christians throughout the world have made the daily rosary a part of their life of piety. They recite it together as a family prayer, or alone in a church, while walking in the street, or traveling in any form of transport.
 
-In the Old Testament, in Ecclesiasticus \[Sirach\], we are told, "In me is to be found every grace of doctrine and of truth, every hope of life and of virtue" (Sir. 24:25).
+In the Old Testament, in Ecclesiasticus \[Sirach\], we are told, "In me is to be found every grace of doctrine and of truth, every hope of life and of virtue" (Sir. 24:25, DRA).
 
-In *Friends of God*, St. Josemaría has said, "How wise the Church has been to put these words on Our Mother\'s lips so that we Christians do not forget them. She is our safety, the Love that never fails, the refuge ever open to us, the hand ever ready to caress and to console" (J. Escrivá, *Friends of God*, Point 279).
+In *Friends of God*, St. Josemaría has said, "How wise the Church has been to put these words on Our Mother's lips so that we Christians do not forget them. She is our safety, the Love that never fails, the refuge ever open to us, the hand ever ready to caress and to console" (J. Escrivá, *Friends of God*, Point 279).
 
 Our Mother is truly Our Mother in that she continually gives birth to the supernatural life within us.
 
-The Second Vatican Council said, "She conceived, brought forth, and nourished Christ. She presented him to the Father in the temple, shared her Son\'s sufferings as he died on the Cross. Thus, in a wholly, singular way, she cooperated by her obedience, faith, hope, and burning charity in the work of the Savior in restoring supernatural life to souls. For this reason, she is a Mother to us in the order of grace."
+The Second Vatican Council said, "She conceived, brought forth, and nourished Christ. She presented him to the Father in the temple, shared her Son's sufferings as he died on the Cross. Thus, in a wholly, singular way, she cooperated by her obedience, faith, hope, and burning charity in the work of the Savior in restoring supernatural life to souls. For this reason, she is a Mother to us in the order of grace."
 
 It continues that the motherhood of Mary "will last forever\...until the perpetual consummation of all the elect. For, having been assumed into heaven, she has not left behind this salvific mission, but, through her constant intercession, continues to obtain for us the gifts of eternal salvation.
 
-"With her motherly love, she looks after the brothers of her Son, who are still wayfarers and a prey to danger and uncertainty until they at last reach their heavenly home" (Vatican II, *Lumen gentium*, Point 61).
+"With her motherly love, she looks after the brothers of her Son, who are still wayfarers and a prey to danger and uncertainty until they at last reach their heavenly home" (Vatican II, *Lumen gentium*, Points 61-62).
 
-Jesus gave us His Mother as Our Mother when, after He had been nailed to the Cross, He said to her in those words, "'Woman, behold your Son!' Then He said to the disciple, 'Behold your Mother!'" (John 19:26-27).
+Jesus gave us His Mother as Our Mother when, after He had been nailed to the Cross, He said to her in those words, "'Woman, behold your Son!' Then he said to the disciple, 'Behold your Mother!'" (John 19:26-27).
 
 "In a new way," said John Paul II, "he bequeathed his own mother to man: to man, to whom he had transmitted the Gospel. He has bequeathed her to all men. .... From that day onwards, the whole Church has her as Mother. And all men have her as Mother. The words pronounced upon the Cross are understood as being addressed to each one of us" (John Paul II, *General Audience*, January 10, 1979).
 
-Our Lord looks at us one by one: "Behold your Mother," He says. John took her into His home, received her lovingly, and cared for her with the greatest respect.
+Our Lord looks at us one by one: "Behold your mother," He says. John took her into His home, received her lovingly, and cared for her with the greatest respect.
 
 "He brought Mary into his home," said St. Josemaría, "into his life. Spiritual writers have seen these words of the Gospel as an invitation to all Christians to bring Mary into their lives.
 
@@ -167,9 +167,9 @@ We should frequently have the saving name of Mary on our lips---our sweetness an
 
 On our way towards God, it is meritable that we will have to endure storms which God permits to purify our intentions and to help us grow in virtue.
 
-And it\'s possible that by paying too much attention to the obstacles on our way, we could yield to discouragement or weariness in our struggle.
+And it's possible that by paying too much attention to the obstacles on our way, we could yield to discouragement or weariness in our struggle.
 
-Then it\'s the time to turn to Our Lady, invoking her name to help us.
+Then it's the time to turn to Our Lady, invoking her name to help us.
 
 St. Bernard says, "If the winds of temptation rise against you, if you strike against the reefs of temptation, look at the star, call on Mary.
 
@@ -179,19 +179,19 @@ St. Bernard says, "If the winds of temptation rise against you, if you strike ag
 
 "If you are troubled by the memory of your sins, confounded at the ugliness of your conscience, fearful at the thought of judgment, and you start sinking into the bottomless pit of sadness or in the abyss of despair, think of Mary.
 
-"In danger, in affliction, in doubt, think of Mary, call on Mary. Don\'t let Mary be apart from your tongue. Don\'t withdraw her from your heart. And to obtain her intercession, do not depart from the example of her virtue.
+"In danger, in affliction, in doubt, think of Mary, call on Mary. Don't let Mary be apart from your tongue. Don't withdraw her from your heart. And to obtain her intercession, do not depart from the example of her virtue.
 
 "You will not go wrong if you follow her, and not lose heart if you pray to her; you will not be lost if you think of her.
 
 "If she takes you by the hand, you will not fall; if she protects you, you will never have cause to fear. You will not grow weary if she guides you; you will reach port safely if she aids you" (St. Bernard, *Homily on the Virgin Mother*).
 
-We can turn to Our Lady, the Mother of Mercy, knowing that she\'s always there listening to us, all throughout our life, and we know she\'ll also be there at the moment of our death.
+We can turn to Our Lady, the Mother of Mercy, knowing that she's always there listening to us, all throughout our life, and we know she'll also be there at the moment of our death.
 
 The Church gives us those beautiful aspirations to say:
 
 "Jesus, Mary, and Joseph, I give you my heart and my soul. Jesus, Mary, and Joseph, assist me in my last agony. Jesus, Mary, and Joseph, may I breathe forth my soul in peace with you."
 
-Countless millions of Christians have learned these aspirations and other ones on their mothers' knees, which they\'ve repeated to their dying days.
+Countless millions of Christians have learned these aspirations and other ones on their mothers' knees, which they've repeated to their dying days.
 
 We can turn to the Mother of Mercy, knowing that we will always obtain that mercy from her, which we are looking for.
 
