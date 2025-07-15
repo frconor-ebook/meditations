@@ -63,7 +63,7 @@ Hence his choice of motto: "to restore all things in Christ." He wanted to stem 
 
 He frequently insisted on the damage ignorance of the faith produces. St. Teresa of Calcutta used to say, "The greatest poverty is ignorance."
 
-One of the spiritual works of mercy is to instruct the ignorant. Pope Pius used to say that "it is useless to expect a person without formation to fulfill his Christian duties." Time and again he pointed out the need to teach catechism.
+One of the spiritual works of mercy is to instruct the ignorant. Pope Pius used to say that "it is useless to expect a person without formation to fulfill his Christian duties" (Pius X, Encyclical, *Acerbo nimis*, Point 6, April 15, 1905). Time and again he pointed out the need to teach catechism.
 
 We could think for a moment about the importance of young children learning the catechism. You see, children pick up in the catechism ideas, truths, that they might otherwise take a lifetime to discern: the indissolubility of marriage, the sacredness of human life.
 
@@ -163,7 +163,7 @@ Have I ever stuck out my neck for the Church? Or her doctrine? Or what she stand
 
 Have I ever got my head chopped off for the Church? Some people have done so!
 
-In that same document, *Christifideles laici*, a wonderful document to take and read of John Paul II--"\[Christ's Faithful Laity\]"--in the midst of temporal cares, do we have a living consciousness, he said, "of being members of the Church, of a personal, irreplaceable, and non-transferable task entrusted to us for the good of all?" (John Paul II, Apostolic Exhortation, *Christifideles laici*, Point 28).
+In that same document, *Christifideles laici*, a wonderful document to take and read of John Paul II--"\[Christ's Faithful Laity\]"--in the midst of temporal cares, do we have a living consciousness, he said, "of being members of the Church, of a personal, irreplaceable, and non-transferable task entrusted to us for the good of all?"
 
 There's a phrase in Scripture that says, "If you knew the gift of God..." *Si scires donum Dei* (John 4:10). If you realized the great gift that God has given to us, the talents, the truths---all of this, God will ask us to account for.
 

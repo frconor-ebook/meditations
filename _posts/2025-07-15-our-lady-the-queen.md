@@ -33,7 +33,7 @@ The greatest wonder worked of God was Our Lady. St. John Paul II liked to call h
 
 "All generations through her have shared the greatness of your love. When you looked on Mary," the Preface continues, "your lowly servant, you raised her to be the Mother of Jesus Christ, your Son, Our Lord, the Savior of all mankind."
 
-"He has looked upon the lowliness of His handmaid" (Luke 1:48). And now Mary has been raised on high. All graces we know come through her intercession.
+"He has looked upon the lowliness of His handmaid" (Luke 1:48). And now Mary has been raised on high. All graces, we know, come through her intercession.
 
 "Remember, O most gracious Virgin Mary... that when you stand in the presence of God you say good things for us" (Prayer, *The Memorare*).
 
@@ -41,7 +41,7 @@ She is the most accessible ruler of all, and so with great reason Our Lord on th
 
 Our Lord could have said at the same time, 'Behold your Queen. Look at your Queen, and never stop looking at your Queen, reverencing her, looking up to her, thanking her, lauding her.'
 
-We contemplate this wonderful scene in the Fifth Glorious Mystery of the Rosary, the Coronation of Our Lady: the crowning of everything, of her correspondence, of her fidelity. All of her virtues. The *Catechism* says that she is the model of all the virtues for us.
+We contemplate this wonderful scene in the Fifth Glorious Mystery of the Rosary, the Coronation of Our Lady: the crowning of everything, of her correspondence, of her fidelity. All of her virtues. The *Catechism* says that she is the model of all the virtues for us (*cf*. *Catechism*, Point 829; Vatican II, *Lumen gentium*, Point 65, November 21, 1964).
 
 Although she's glorified as Queen of the Universe, she who called herself the Handmaid of the Lord at the Annunciation remained faithful to what that name expresses throughout her earthly life.
 
@@ -111,33 +111,31 @@ We're quite accustomed to referring to Our Lady as Our Queen. Everybody has expe
 
 People have sought her protection and asked her to rule over this part of the earth, or this domestic Church, or this particular endeavor that I'm involved in, or this particular battle in my spiritual life, to acquire a virtue or to conquer a vice.
 
-We know that Our Mother has been there crushing the head of the serpent when he rears his ugly head (cf. Gen. 3:15).
+We know that Our Mother has been there crushing the head of the serpent when he rears his ugly head (*cf*. Gen. 3:15).
 
 And so, in our prayer today. and throughout the day, we can ask her to reign in a special way.
 
 Mary, reign in my heart, reign in my thoughts, in my desires, in my intentions, in all the little things I do each day, in my professional work, in my apostolate, in my efforts to evangelize culture, have an influence in society, to leave a splash, to make a mark.
 
-The Songs of Songs says, "You are all fair and without blemish. ... You are a garden enclosed, my sister, my bride, an enclosed garden, a sealed fountain. ... Come: You shall be crowned" (Song, 4:7,12).
+The Songs of Songs says, "You are all fair and without blemish. ... You are a garden enclosed, my sister, my bride, an enclosed garden, a sealed fountain. ... Come: You shall be crowned" (Song 4:7,12,8).
 
-St. Josemaría in the *Holy Rosary* says, "If you and I had been able, we too would have made her Queen and Lady of all creation.
-
-"'A great sign appeared in heaven: a woman with a crown of twelve stars upon her head, adorned with the sun and with the moon at her feet' (Rev. 12:1). Mary, conceived without stain, has made up for the fall of Eve: and she has crushed the head of hell\'s serpent with her immaculate heel. Daughter of God, Mother of God, Spouse of God.
+St. Josemaría in the *Holy Rosary* says, "If you and I had been able, we too would have made her Queen and Lady of all creation.'A great sign appeared in heaven: a woman with a crown of twelve stars upon her head, adorned with the sun and with the moon at her feet' (Rev. 12:1). Mary, conceived without stain, has made up for the fall of Eve: and she has crushed the head of hell's serpent with her immaculate heel. Daughter of God, Mother of God, Spouse of God.
 
 "The Father, the Son, and the Holy Spirit crown her as the rightful Empress of the Universe. And all the angels pay her homage as her subjects...and the patriarchs and prophets and apostles...and the martyrs and confessors and virgins and all the saints...and all sinners, and you and I" (J. Escrivá, *Holy Rosary*, Fifth Glorious Mystery).
 
 It's a rather beautiful title on why we invoke Our Lady. The sovereign royalty of Mary is intimately connected to her Son's royalty. Jesus Christ is King since total, proper, and absolute power belong to Him, as much in the natural order as in the supernatural.
 
-The royalty of Mary is entire as well: it stems from her Son. The terms Queen and Lady concerning the Virgin are not metaphors.
+The royalty of Mary is entire as well: it stems from her Son. The terms Queen and Lady with reference to the Virgin are not metaphors.
 
 By means of them, we designate a true pre-eminence and an authentic dignity and power in heaven and on earth.
 
-As Mother of the King, Mary is truly and properly Queen. She is the apex of creation, and effectively the first entirely human person in the universe.
+As Mother of the King, Mary is truly and properly Queen. She is the apex of creation, and effectively the first entirely human person of the universe.
 
 This is why she has the greatest dignity in heaven. After God comes Our Lady, way above all the other saints and above the angels.
 
 Pope Pius IX, in the document *Ineffabilis Deus*, on the 8^th^ of December 1854, wrote some very beautiful words also. He said:
 
-"Almighty God placed her far above all the angels and all the saints, and so filled her with every heavenly grace, taken from His own divine treasury, that she was always free from all stain of sin, all beautiful and perfect, possessing such a fullness of innocence and holiness to be found nowhere outside of God, and which no one but God can comprehend."
+"Almighty God placed her far above all the angels and all the saints, and so filled her with every heavenly grace, taken from his own divine treasury, that she was always free from all stain of sin, all beautiful and perfect, possessing such a fullness of innocence and holiness to be found nowhere outside of God, and which no one but God can comprehend."
 
 One time on the feast of Our Lady of Fatima, I was asked to give a homily in a church in Singapore that had great devotion to Our Lady of Fatima. Every year they had a special feast day and every month they would have a procession.
 
@@ -183,29 +181,27 @@ We are called to approach that throne of mercy and of grace when we say, "Hail, 
 
 If there's some little cross that's a bit more difficult to bear, then we can turn to Our Lady, our sweetness.
 
-There's a hymn that talks about "Hail, Queen of Heaven, the Ocean Star, Guide of the wanderer here below."
+There's a hymn that talks about "Hail, Queen of Heaven, the Ocean Star, Guide of the wanderer here below..." (John Lingard, translator, *Hail, Queen of Heaven*).
 
 We are wandering here and there like the Chosen People. But we're wandering in the direction of a specific destination along our pilgrimage of faith.
 
-St. John Paul II in his Apostolic Letter about the Rosary of Our Lady says, "Crowned in glory---as she appears in the last Glorious Mystery---Mary shines forth as Queen of the Angels and the Saints, the anticipation and the supreme realization of the eschatological state of the Church.
+St. John Paul II in his Apostolic Letter about the Rosary of Our Lady says, "Crowned in glory---as she appears in the last Glorious Mystery---Mary shines forth as Queen of the Angels and the Saints, the anticipation and the supreme realization of the eschatological state of the Church. ... The Glorious Mysteries thus lead the faithful to greater hope for the eschatological goal towards which they journey as members of the pilgrim People of God in history" (John Paul II, Apostolic Letter, *Rosarium Virginis Mariae*, Point 23, October 16, 2002).
 
-"The Glorious Mysteries thus lead the faithful to greater hope for the eschatological goal towards which they journey as members of the pilgrim People of God in history" (John Paul II, Apostolic Letter, *Rosarium Virginis Mariae*, October 16, 2002).
-
-We have the goal of heaven in our lives. "This can only impel them," he says, "to bear courageous witness to that 'good news' which gives meaning to their entire existence" (*Ibid*.).
+We have the goal of heaven in our lives. "This can only impel them," he says, "to bear courageous witness to that 'good news' which gives meaning to their entire existence" (*ibid*.).
 
 Mary, with that confidence that you give us as Our Queen, that you're with us, you're behind us, help us to be full of courageous initiatives, to break new ground, to see where we can make an impact, where we can have a contribution, where we can be more effective in bringing the good news to more people.
 
 Pius XII, when he instituted this feast day, invited all Christians to draw near to "the throne of grace and mercy of Our Queen and Mother, to ask for her help in adversity, light in obscurity, and relief in suffering."
 
-He encouraged everyone to ask grace from the Holy Spirit, to make an effort to hate sin, to be free of its slavery, for us "to be able to render the Queen, who is so great a Mother, constant obedience, fragrant with filial devotion (Pius XII, Encyclical, *Ad caeli Reginam*, October 11, 1954).
+He encouraged everyone to ask grace from the Holy Spirit, to make an effort to hate sin, to be free of its slavery, "so as to be able to render the Queen, who is so great a Mother, constant obedience, fragrant with filial devotion (Pius XII, Encyclical, *Ad caeli Reginam*, Point 48, October 11, 1954).
 
 "Let us draw near, therefore, with confidence, to the throne of grace and of mercy, that we may obtain that mercy and find grace in our time of need" (Heb. 4:16).
 
-This, her royal throne, is a symbol, we are told, of the authority of Christ. He wanted His Mother to be the throne of grace, where we could easily encounter compassion since He gave her to us as "our advocate of grace and Queen of all creation" (Roman Missal, *Preface of the Blessed Virgin Mary*, Queen of all Creation).
+This, her royal throne, is a symbol, we are told, of the authority of Christ. He wanted His Mother to be the throne of grace, where we could easily encounter compassion, since He gave her to us as "our advocate of grace and Queen of all creation" (Roman Missal, *Preface of the Blessed Virgin Mary, Queen of all Creation*).
 
-St. Josemaría in *The Forge* says, "You have to make use of her power! With the daring of a child, join in this celebration in heaven. For myself, since I have no precious stones or virtues to offer, I crown the Mother of God and my Mother with my failings, once they have been purified. ---She expects something from you too" (J. Escrivá, *The Forge*, Point 285).
+St. Josemaría in *The Forge* says, "You have to make use of her power! With the daring of a child, join in this celebration in heaven. ---For myself, since I have no precious stones or virtues to offer, I crown the Mother of God and my Mother with my failings, once they have been purified" (J. Escrivá, *The Forge*, Point 285).
 
-We can think: What can I give Our Lady on this beautiful feast day?
+She expects something from you too. We can think: What can I give Our Lady on this beautiful feast day?
 
 She's waiting for us. She wants us to be united to the joy of the angels and the saints. We have a right to participate in such a big celebration, since she is Our Mother.
 

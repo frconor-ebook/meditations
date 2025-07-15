@@ -65,19 +65,19 @@ Our Father God will open our eyes to all sorts of beautiful realities around us.
 
 One of the greatest gifts that God could give to any person in the 21st century is a vocation to Opus Dei.
 
-That\'s why after our Communion every day in our *Thanksgiving after Mass*, it is very good to thank God for our vocation. Every day of our life, it is the greatest possible gift that God could give to us. It is a great gift from Our loving Father.
+That's why after our Communion every day in our *Thanksgiving after Mass*, it is very good to thank God for our vocation. Every day of our life, it is the greatest possible gift that God could give to us. It is a great gift from Our loving Father.
 
 "If you, evil as you are," said Our Lord, "know how to give good gifts to your children, how much more will your heavenly Father give good things to those who ask him?" (Matt. 7:11).
 
-It\'s a very beautiful phrase: "How much more?"
+It's a very beautiful phrase: "How much more?"
 
 We might see other people doing all sorts of other things that occasionally we might like to do, or go here, or go there, or have this, or have that.
 
 But when we come to treasure our vocation, our lifestyle, our way of living, we come to see 'the more', the value of 'the more.' "How much more will God give good things to those who ask him?"
 
-He has given us a very special treasure, and that\'s why we have to be grateful to God for this great gift.
+He has given us a very special treasure, and that's why we have to be grateful to God for this great gift.
 
-Sometimes, little children can take gifts for granted, but sometimes also, they can have a great sense of what they have received. The gifts that they have, even if it\'s a small thing, can make them very happy.
+Sometimes, little children can take gifts for granted, but sometimes also, they can have a great sense of what they have received. The gifts that they have, even if it's a small thing, can make them very happy.
 
 We have to be a bit like small children like that, thanking God for all the good things and realizing that God Our Father is a loving Father who loves us, who follows us step by step. He protects us, understands us, and waits for the response of love from each one of us.
 
@@ -109,9 +109,9 @@ When we are mindful of that paternal presence, we realize that Our Father God fo
 
 The consideration of our divine filiation leads us to put aside any fears that we may have, any anxieties, any worries. We leave things in the hands of God.
 
-We try and use all the human means. Leaving things in the hands of God doesn\'t mean that we don\'t use the human means. We have to fulfill our duty. We have to do our work. Sometimes we have to study, to pass exams. We still have to put in all the human effort.
+We try and use all the human means. Leaving things in the hands of God doesn't mean that we don't use the human means. We have to fulfill our duty. We have to do our work. Sometimes we have to study, to pass exams. We still have to put in all the human effort.
 
-But we also leave the consequences and the results in the hands of God. We do so with a new peace and serenity, because we know that somehow God is working everything out for the good (Rom. 8:28). Even if we don\'t see that.
+But we also leave the consequences and the results in the hands of God. We do so with a new peace and serenity, because we know that somehow God is working everything out for the good (Rom. 8:28). Even if we don't see that.
 
 There was a four-year-old little girl who spilled some Coca-Cola on the kitchen floor. She wanted to mop it up herself. She was already four and felt she was already big and responsible, so she went to get the mop.
 
@@ -119,27 +119,27 @@ Then she knew that the mop was outside, so she went out towards the back door. B
 
 Her mother was there. The girl stopped in her tracks when she realized it was dark outside.
 
-The mother said to her, "It\'s okay, you don\'t have to be afraid. Jesus is also there in the dark."
+The mother said to her, "It's okay, you don't have to be afraid. Jesus is also there in the dark."
 
-And so, the little girl went to the door, opened it, popped her head out, and yelled, "Hey Jesus, if you\'re out there, would you please pass me the mop?"
+And so, the little girl went to the door, opened it, popped her head out, and yelled, "Hey Jesus, if you're out there, would you please pass me the mop?"
 
 All the little fears that may come from time to time, little things---we can learn how to leave things in the hands of Our Father God. It gives us a great confidence in ourselves.
 
 Our Father God is looking after things. We have nothing to be afraid of. He takes away all our worries and our concerns.
 
-We know that in Opus Dei, if ever we have something that\'s bothering us, or concerned, or worrying us in some way, we go to the chat and we talk about it. We get it out and we get the answers, or we get some advice. That restores our peace and our serenity.
+We know that in Opus Dei, if ever we have something that's bothering us, or concerned, or worrying us in some way, we go to the chat and we talk about it. We get it out and we get the answers, or we get some advice. That restores our peace and our serenity.
 
 The consideration of our divine filiation leads us to a deeper peace in our life.
 
 Every day in the *Preces* we say those words *Gaudium cum pace*. We ask for joy with peace. That characterizes our family life in many ways. At every moment we can confide in Our Father God.
 
-We never feel alone. It\'s a wonderful thing. There is so much loneliness in this world.
+We never feel alone. It's a wonderful thing. There is so much loneliness in this world.
 
 But we need never feel alone because we know we are surrounded by Our Father God whether in the tabernacle, in the department, or wherever we may go, and also surrounded by all of our Christian brothers and sisters who are there to help us.
 
 Our divine filiation opens wonderful horizons for us, helps us to know the deeper things of life. "You have hidden these things from the wise and the prudent, and revealed them to little ones" (Matt. 11:25).
 
-At the same time, that doesn\'t change many of the realities of life. We still have to get up in the morning. Sometimes we still have to do things that are difficult.
+At the same time, that doesn't change many of the realities of life. We still have to get up in the morning. Sometimes we still have to do things that are difficult.
 
 We have to go against the grain. We have to foster our generosity. We have to try and live certain virtues like punctuality, order, honesty, industriousness, or humility.
 
@@ -157,17 +157,17 @@ They went there to this event. When they sat down, the mother saw a couple of fr
 
 But when the little girl saw that her mother was gone, she said, "Ah, now is my chance to explore this place." She began to walk around the hall a little bit.
 
-Then she saw a door that said 'No Admittance.' She said, "Ah, that\'s what I want. Adventure!" She pushed through this door.
+Then she saw a door that said 'No Admittance.' She said, "Ah, that's what I want. Adventure!" She pushed through this door.
 
 Then a few minutes later the lights were dimmed. The concert was about to begin.
 
-The mother went back to her seat and found her little daughter wasn\'t there. She began to look around frantically for her daughter. The concert was about to begin.
+The mother went back to her seat and found her little daughter wasn't there. She began to look around frantically for her daughter. The concert was about to begin.
 
 But then the curtain went up and there was her daughter sitting at the grand piano on the stage, playing Twinkle Twinkle Little Star.
 
 That was the moment that the great maestro, the concert pianist, decided to make his entrance. He made his entrance, and he found this little girl sitting at his piano playing Twinkle Twinkle Little Star.
 
-He whispered to her, "Don\'t stop, keep playing." He put one hand at one end of the piano and the other hand at the other end and accompanied her in a duet playing Twinkle Twinkle Little Star. Everybody in the audience was amazed.
+He whispered to her, "Don't stop, keep playing." He put one hand at one end of the piano and the other hand at the other end and accompanied her in a duet playing Twinkle Twinkle Little Star. Everybody in the audience was amazed.
 
 What a genius! What a wonderful way to start a concert. So creative. So original. Who would have ever thought of something like this? It was a marvelous success, and all because of this little girl with her adventures.
 
@@ -181,23 +181,23 @@ He is helping to bring good out of that particular situation, making that little
 
 Our Father God is continually speaking to us through all the little events of daily life, through this person, through this event. I am here to learn something from this person. Everyone has something to teach us. We get a little bit of wisdom from each person.
 
-Our Father God is using this person and this piece of work and this job to build up my soul, which isn\'t going to happen today or tomorrow or the next day.
+Our Father God is using this person and this piece of work and this job to build up my soul, which isn't going to happen today or tomorrow or the next day.
 
 The process of our sanctification takes a lifetime. But along the way, God wants us to plant many seeds in the lives of other people.
 
 That means we have to try and react like a child of God. In all situations, with faith, with hope, with optimism, with trust, with transparency, with patience. We have to learn how to be uncomplicated, with great sincerity, with great enthusiasm, and great serenity also.
 
-Little children are not complex. They know how to say what\'s on their mind. They can say all sorts of things. Sometimes they can say the wrong thing, but it doesn\'t really matter too much.
+Little children are not complex. They know how to say what's on their mind. They can say all sorts of things. Sometimes they can say the wrong thing, but it doesn't really matter too much.
 
-There was a little girl once who came home from kindergarten school and told her Mummy that she had a big pain in her tummy. Her mother said, "That\'s because there\'s nothing in it. You put something into it and you\'ll feel much better."
+There was a little girl once who came home from kindergarten school and told her Mummy that she had a big pain in her tummy. Her mother said, "That's because there's nothing in it. You put something into it and you'll feel much better."
 
 The mother made a little sandwich or a chapati and gave it to the child, and the child felt much better.
 
 A few days later, the parish priest came to call, and in the middle of the conversation, he happened to mention that he had a terrible headache.
 
-The four-year-old little girl piped up and said, "That\'s because there\'s nothing in it. You put something in it and then you\'ll feel much better."
+The four-year-old little girl piped up and said, "That's because there's nothing in it. You put something in it and then you'll feel much better."
 
-Little children sometimes say the wrong thing, or they make mistakes, or all sorts of things, but it doesn\'t really matter, because people understand.
+Little children sometimes say the wrong thing, or they make mistakes, or all sorts of things, but it doesn't really matter, because people understand.
 
 In *The Way of the Cross*, St. Josemaría says, "May our stumbles and defeats separate us from him no more. Just as a feeble child throws itself contritely into the strong arms of its father, you and I will hold tightly to the yoke of Jesus.
 
@@ -205,7 +205,7 @@ In *The Way of the Cross*, St. Josemaría says, "May our stumbles and defeats se
 
 Through this spirit, Our Father God is making us strong. Strong in our soul. Strong in our vocation. Strong in our childlikeness and simplicity.
 
-At another point, St. Josemaría says, "You are discouraged, why? Is it your sins and miseries? Is it your defeats, at times coming one after the other? A really big fall, which you didn\'t expect? Be simple. Open your heart. Look: as yet nothing has been lost. You can still go forward, and with more love, with more affection, with more strength.
+At another point, St. Josemaría says, "You are discouraged, why? Is it your sins and miseries? Is it your defeats, at times coming one after the other? A really big fall, which you didn't expect? Be simple. Open your heart. Look: as yet nothing has been lost. You can still go forward, and with more love, with more affection, with more strength.
 
 "Take refuge in your divine sonship: God is your most loving Father. In this lies your security, a haven where you can drop anchor no matter what is happening on the surface of the sea of life. And you will find joy, strength, optimism: victory!" (*ibid*.)
 
@@ -221,11 +221,11 @@ They were terrified: "Master, does it not concern you that we are perishing?" (M
 
 Our Lord allowed the wind to funnel down through the mountains and whip up the waves. He allowed the apostles to become terrified, because He wanted them to go through this experience. He wanted them to turn to Him.
 
-And He was asleep on the boat. Our Lord didn\'t suffer from insomnia. He was able to sleep in all sorts of amazing places, like in the middle of a terrible storm. "Does it not concern you that we are perishing?"
+And He was asleep on the boat. Our Lord didn't suffer from insomnia. He was able to sleep in all sorts of amazing places, like in the middle of a terrible storm. "Does it not concern you that we are perishing?"
 
 And then we are told He rose and He spoke to the elements. "Peace, be still. And immediately there came a great calm" (Mark 4:39).
 
-Our Lord is telling us this for all the situations in our life. We may get a little upset, worried that this thing has gone wrong, or this thing hasn\'t happened. For all the things that can happen on the surface of the sea of our life, everything has a solution.
+Our Lord is telling us this for all the situations in our life. We may get a little upset, worried that this thing has gone wrong, or this thing hasn't happened. For all the things that can happen on the surface of the sea of our life, everything has a solution.
 
 Everything. Because Our Father God is there speaking to all those things, those elements, saying, "Peace, be still."
 
@@ -241,4 +241,4 @@ Mother, may we learn to turn to you, to look to your images in every room of the
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*NIK*
+*NJF*
