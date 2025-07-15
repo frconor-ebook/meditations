@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Parable of the Laborers in the Vineyard"
+title: "The Parable of the Laborers in the Vineyard"
 ---
 
 By Fr. Conor Donnelly
@@ -23,21 +23,21 @@ The greatest joy of our life, and the first goal of our work, is to be at work i
 
 In this Gospel, the father of this family goes out to hire laborers to work in his vineyard, and he goes out at various moments of the day.
 
-He promises to pay the first group one denarius for a day\'s work and the remaining groups are in turn also hired, as it transpires, for the same just wage.
+He promises to pay the first group one denarius for a day's work and the remaining groups are in turn also hired, as it transpires, for the same just wage.
 
-At about five o\'clock in the afternoon, the father goes out again, only to find still more laborers without work.
+At about five o'clock in the afternoon, the father goes out again, only to find still more laborers without work.
 
 "He said to them: 'Why do you stand here idle all day?' They reply: 'Because no man has hired us.' So the owner of the vineyard sends them also into his vineyard" (Matt. 20:6-7).
 
 Our Lord wants to teach us a fundamental lesson: that God calls each and every person to His service.
 
-Some people receive Christ\'s invitation at 'daybreak,' in their youth. They\'ve been blessed with a special kind of divine predilection. But others receive Our Lord\'s call 'later in the day.'
+Some people receive Christ's invitation at 'daybreak,' in their youth. They've been blessed with a special kind of divine predilection. But others receive Our Lord's call 'later in the day.'
 
 Everyone hears the call in different circumstances.
 
-The denarius we receive at the end of the day is eternal glory, a participation in the life of God. We\'re also given incomparable happiness while here on earth, knowing that we are working for the Master, spending our lives for Christ.
+The denarius we receive at the end of the day is eternal glory, a participation in the life of God. We're also given incomparable happiness while here on earth, knowing that we are working for the Master, spending our lives for Christ.
 
-To work in the Lord\'s vineyard, no matter how old we are, is to collaborate with Christ in the Redemption of the world:
+To work in the Lord's vineyard, no matter how old we are, is to collaborate with Christ in the Redemption of the world:
 
 Spreading good doctrine, in season and out of season;
 
@@ -53,13 +53,13 @@ Leading someone away from a situation that could result in an offense against Go
 
 Suggesting to others the possibility of a vocation...
 
-Whoever feels called to work in the Lord\'s vineyard should indeed, as John Paul II said, "take part in the divine plan of redemption. He should make progress personally towards salvation himself and help others reach this end as well. By helping the others, he acts to help himself" (John Paul II, *General Audience*, October 25, 1978).
+Whoever feels called to work in the Lord's vineyard should indeed, as John Paul II said, "take part in the divine plan of redemption. He should make progress personally towards salvation himself and help others reach this end as well. By helping the others, he acts to help himself" (John Paul II, *General Audience*, October 25, 1978).
 
 It will not be possible to follow Christ if, at the same time, we failed to transmit the joy of our calling to everyone.
 
-St. Gregory the Great says, "He who is totally absorbed in his own interests has not yet entered into the Lord\'s vineyard. The people who work for Christ are those who are ever vigilant to win new souls. They\'re in a hurry to bring others to the vineyard" (St. Gregory the Great, *Homilies on the Gospels*).
+St. Gregory the Great says, "He who is totally absorbed in his own interests has not yet entered into the Lord's vineyard." The people who work for Christ are those who are "ever vigilant to win new souls. They're in a hurry to bring others to the vineyard" (St. Gregory the Great, *Homilies on the Gospels*).
 
-There\'s an urgency about it because our time in life is short.
+There's an urgency about it because our time in life is short.
 
 There was a funeral of a priest recently where the archbishop celebrating told a story of how that priest, fifty years ago, had visited him when he was a young seminarian. He'd come to see him in the seminary.
 
@@ -75,7 +75,7 @@ God calls each single one of us in accordance with his personal circumstances, w
 
 Countless numbers of people have died without the knowledge of Christ because no one brought them the news. Are we too going to be paralyzed, unable to talk about God?
 
-In *Friends of God*, St. Josemaría says, "You might tell me, 'Why should I make an effort?' It is not I who answer you, but St. Paul: 'Christ\'s love is urging us' (2 Cor. 5:14). A whole lifetime would be little, if it was spent expanding the frontiers of your charity" (Josemaría Escrivá, *Friends of God*, Point 43).
+In *Friends of God*, St. Josemaría says, "You might tell me, 'Why should I make an effort?' It is not I who answer you, but St. Paul: 'Christ's love is urging us' (2 Cor. 5:14). A whole lifetime would be little, if it was spent expanding the frontiers of your charity" (Josemaría Escrivá, *Friends of God*, Point 43).
 
 The first Christians knew very well that the apostolate knows no boundaries of persons, places, or situations. Apostolate often began in their own families.
 
@@ -93,17 +93,17 @@ The Venerable Bede comments: "They considered it madness that a man in chains wo
 
 Later on, Agrippa said to Paul: "In a short time you think to make me a Christian!"
 
-And Paul responds: "Whether long or short I would to God that not only you but also all those who hear me this day might become as I am---except for these chains" (Acts 26: 28-29).
+And Paul responds: "Whether long or short I would to God that not only you but also all those who hear me this day might become as I am---except for these chains" (Acts 26:28-29).
 
-Our love for Christ is shown by our apostolic spirit. We won\'t miss a single opportunity. Every hour is a good hour to bring workers to the Lord\'s vineyard. All ages are good ages for us to serve as co-redeemers.
+Our love for Christ is shown by our apostolic spirit. We won't miss a single opportunity. Every hour is a good hour to bring workers to the Lord's vineyard. All ages are good ages for us to serve as co-redeemers.
 
 Every person who comes in contact with us should be moved to live closer to Christ.
 
-In some ways, it\'s surprising that the father in the parable went out at the very end of the day, when there was little left to do. It\'s also surprising to learn the explanation given by those who even at the late hour were unemployed: "Because no one has hired us."
+In some ways, it's surprising that the father in the parable went out at the very end of the day, when there was little left to do. It's also surprising to learn the explanation given by those who even at the late hour were unemployed: "Because no one has hired us."
 
 No one has given us the good news that the owner of the field is looking for laborers to work in his vineyard. Is not this the same answer given by many baptized Christians today? Their faith is languishing because no one has made use of them.
 
-In the *Furrow*, we're told: "You have spoken to one person and another, and yet another, because you are consumed by zeal for souls. ... You must persevere, and no one afterwards will be able to excuse himself by saying 'Nobody has called us'" (J. Escrivá, *Furrow*, Point 205).
+In the *Furrow*, we're told: "You have spoken to one person and another, and yet another, because you are consumed by zeal for souls. ... You must persevere, and no one afterwards will be able to excuse himself by saying, 'Nobody has called us'" (J. Escrivá, *Furrow*, Point 205).
 
 Not even someone who has spent an afternoon with us, or shared a journey, or worked in the same office, or studied at the same school; nor our relatives, our friends, our neighbors...no one should be unaffected by our love for Christ.
 
@@ -119,47 +119,47 @@ Those complainers did not understand that to serve the Lord is an honor and not 
 
 While serving as apostles in the middle of the world, we find more than enough compensation.
 
-We\'re trying to love Christ and to serve Him ever more faithfully as we seek new laborers to work for Him. The Lord will never forget that service.
+We're trying to love Christ and to serve Him ever more faithfully as we seek new laborers to work for Him. The Lord will never forget that service.
 
 We should keep in mind that the denarius itself is stamped "with the image of the King" (St. Jerome, *Commentary on the Gospel of St. Mark*).
 
 God gives up His own life for us. And at the end of time, He will give us glory without end. St. Paul said, "Each shall receive the wages according to his labor" (1 Cor. 3:8).
 
-We\'re told in *Friends of God*, "Come with me to Mary, the Mother of Christ. You, who are Our Mother and have seen Jesus grow up and make good use of the time he spent among men, teach me how to spend my days serving the Church and all mankind.
+We're told in *Friends of God*, "Come with me to Mary, the Mother of Christ. You, who are Our Mother and have seen Jesus grow up and make good use of the time he spent among men, teach me how to spend my days serving the Church and all mankind.
 
 "My good Mother, teach me, whenever necessary, to hear in the depths of my heart, as a gentle reproach, that my time is not my own, because it belongs to Our Father who is in heaven" (J. Escrivá, *Friends of God*, Point 54).
 
-As we find that Christians tend to grumble and feel sorry for themselves, it may be that they\'ve forgotten grace. Murmuring stems from the belief that one deserves something more. Complainers are often never happy. They become a complaining people.
+As we find that Christians tend to grumble and feel sorry for themselves, it may be that they've forgotten grace. Murmuring stems from the belief that one deserves something more. Complainers are often never happy. They become a complaining people.
 
 A person told me a number of years ago that a friend of theirs had died the previous week at the age of 42.
 
 This person said that the person who died was always complaining. Always, always complaining. He said, "One thing I learned from their death was not to spend my last breath grumbling. People die as they have lived."
 
-This parable highlights the grumbling of those who have been in the faith for a long time. They\'re complainers; they feel they deserve more than others. They started out well, but they got into trouble later on. It shows the importance of ongoing formation.
+This parable highlights the grumbling of those who have been in the faith for a long time. They're complainers; they feel they deserve more than others. They started out well, but they got into trouble later on. It shows the importance of ongoing formation.
 
-Christians have the Gospel of Jesus Christ, but if they don\'t continue in it, they can get into the same sort of trouble---in marriages, in families, in work, in life.
+Christians have the Gospel of Jesus Christ, but if they don't continue in it, they can get into the same sort of trouble---in marriages, in families, in work, in life.
 
-They can become entitled and believe they deserve more. What they forget is that it\'s all a grace. It\'s always been a grace.
+They can become entitled and believe they deserve more. What they forget is that it's all a grace. It's always been a grace.
 
-In the life of the Christian, all is grace, from beginning to end. Christians are called to do all things without murmuring or complaining. We\'re told in Scripture: "We are useless servants" (Luke 17:10).
+In the life of the Christian, all is grace, from beginning to end. Christians are called to do all things without murmuring or complaining. We're told in Scripture: "We are useless servants" (Luke 17:10).
 
 What a tragedy if Christian people become miserable when they should be so happy. We can be very open to the plans of Our Lord. What does He want of me?
 
-The statement of the workers---\"no man has hired us"---is a bit sad in some ways, because there was a vineyard just up the road crying out for workers, and they\'re standing idle in the marketplace.
+The statement of the workers---"no man has hired us"---is a bit sad in some ways, because there was a vineyard just up the road crying out for workers, and they're standing idle in the marketplace.
 
-You also get the impression that there is little or no initiative, little drive. But there\'s so much to be done.
+You also get the impression that there is little or no initiative, little drive. But there's so much to be done.
 
 Many people live and die without ever even knowing the fact that Christ has brought salvation to the world. There are many people who will or will not find Christ because of our example.
 
-John Paul II in *Christifideles laici* says, "Since the work that awaits everyone in the vineyard of the Lord is so great, there is no place for idleness. With even greater urgency, the 'householder' repeats his invitation: 'You go into the vineyard too'" (John Paul II, Apostolic Exhortation, *Christifideles laici*, December 30, 1988).
+John Paul II in *Christifideles laici* says, "Since the work that awaits everyone in the vineyard of the Lord is so great, there is no place for idleness. With even greater urgency, the 'householder' repeats his invitation: 'You go into the vineyard too'" (John Paul II, Apostolic Exhortation, *Christifideles laici*, Point 3, December 30, 1988).
 
 There are many problems facing the world in the temporal order. One of them is that many people really don't know Christ on a personal basis.
 
-There\'s an awful lot to be done in the vineyard of the Lord. In our prayer today, we\'re going to ask Our Lord for that spirit of initiative. It\'s a beautiful word on the lips of a Christian.
+There's an awful lot to be done in the vineyard of the Lord. In our prayer today, we're going to ask Our Lord for that spirit of initiative. It's a beautiful word on the lips of a Christian.
 
 Blessed Álvaro del Portillo says, "Therefore, my daughters and sons, we need drive, initiative. God counts on our personal freedom and responsibility, and in our lay mentality" (Álvaro del Portillo, *Pastoral Letter*, January 9, 1993).
 
-Each one of us has to think, what can I do? What can I contribute? What initiatives can I have at whatever stage of my life I may be in? How can I think out of the box?
+Each one of us has to think: What can I do? What can I contribute? What initiatives can I have at whatever stage of my life I may be in? How can I think out of the box?
 
 One writer says, "There is nothing...as powerful in the world as an idea whose time has come" (Victor Hugo, *The Future of Man*).
 
@@ -167,61 +167,61 @@ Maybe God wants to give us that idea at a late stage of our life as fruit of our
 
 Therefore, first and foremost, in order to have more drive and more initiative, we need to take better care of our spiritual life, of the time we spend in front of the Lord of the Harvest and the tabernacle, asking for lights, asking for initiatives, asking for that spirit of responsibility, to use our time well.
 
-Blessed Álvaro continues, "He wants us to be salt dispersed through the food it seasons, and not to remain as a lump. He wants us everywhere, each one in his or her own place, so as to impart a Christian flavor to the environment in which we move" (Álvaro del Portillo, *Ibid*.).
+Blessed Álvaro continues, "He wants us to be salt dispersed through the food it seasons, and not to remain as a lump. He wants us everywhere, each one in his or her own place, so as to impart a Christian flavor to the environment in which we move" (Álvaro del Portillo, *ibid*.).
 
 These words open up an enormous panorama. They were words written over twenty years ago, and yet still retain their vital force.
 
-So, Lord, give me that drive, that initiative, that responsibility for all the talents and graces that you\'ve given to me. Help me to take oil in my lamps at every opportunity. To expose myself to formation. To be on fire with the fire of the Holy Spirit.
+So, Lord, give me that drive, that initiative, that responsibility for all the talents and graces that you've given to me. Help me to take oil in my lamps at every opportunity. To expose myself to formation. To be on fire with the fire of the Holy Spirit.
 
-And then he says, "Do all you can for those schools you\'re promoting, along with other parents, so that your own children, and other children too, may receive an education that is truly Christian and worthy of the human person."
+And then he says, "Do all you can for those schools you're promoting, along with other parents, so that your own children, and other children too, may receive an education that is truly Christian and worthy of the human person."
 
 Imagine the thousands and thousands of students passing through schools with a Catholic ethos, of the seeds that get sown in their mind and their heart.
 
 A 60-year-old man remarked to me recently how in the primary Montessori school run by nuns that he attended 60 years ago, he remembers now, and he appreciates, the spirit of holiness that was there at that place.
 
-These things leave their mark. The formation of young people is of immense importance. Their catechetical formation. Things they see, things they hear. Catholic culture that they\'re exposed to in word and song, in example and material things.
+These things leave their mark. The formation of young people is of immense importance. Their catechetical formation. Things they see, things they hear. Catholic culture that they're exposed to in word and song, in example and material things.
 
-"Be convinced," Blessed Álvaro says, "of the importance of exercising your personal freedom, which brings with it a corresponding personal responsibility: to get involved in national and international bodies which can be a platform for promoting Christian values regarding the family, education, the defense of human life, and many other issues which have to be approached in accordance with the Church\'s teaching."
+"Be convinced," Blessed Álvaro says, "of the importance of exercising your personal freedom, which brings with it a corresponding personal responsibility: to get involved in national and international bodies which can be a platform for promoting Christian values regarding the family, education, the defense of human life, and many other issues which have to be approached in accordance with the Church's teaching."
 
 Again, very dynamic words. In the presence of Our Lord, we could ask ourselves, What national and international bodies do I belong to?
 
 Or is there some new national or international body that I could start ... that I use my acumen, my education, my experience, my professional formation in some way, to channel that towards good, towards serving the Church.
 
-In whatever amount of time may be left for me, with drive and with initiative, help me to get involved, to have an influence, so that all those wonderful values---fruit of the way, the truth, and the life regarding the family, education, defense of human life---can be areas where I leave my mark or help to promote the Church\'s teaching, which is so rich and so beautiful.
+In whatever amount of time may be left for me, with drive and with initiative, help me to get involved, to have an influence, so that all those wonderful values---fruit of the way, the truth, and the life regarding the family, education, defense of human life---can be areas where I leave my mark or help to promote the Church's teaching, which is so rich and so beautiful.
 
 He continues, "If your work has anything to do with media, press or television, just imagine the apostolic impact it will have if, as it performs its informative and cultural roles, it also bears the stamp of your unity of life."
 
-Every day we see how the media is forming public opinion. Somebody said once there were three great forming influences in life: the family, the school, and the Church. But now there\'s a fourth, it\'s the media.
+Every day we see how the media is forming public opinion. Somebody said once there were three great forming influences in life: the family, the school, and the Church. But now there's a fourth, it's the media.
 
-Sometimes it can seem more powerful than all the others put together. That\'s not the reality, but it can seem that way.
+Sometimes it can seem more powerful than all the others put together. That's not the reality, but it can seem that way.
 
-There\'s an immense challenge there to see, How can I influence media? Answering an email, communicating with journalists, complimenting them on some good articles that may be written, phoning into radio programs...
+There's an immense challenge there to see, How can I influence media? Answering an email, communicating with journalists, complimenting them on some good articles that may be written, phoning into radio programs...
 
 A man I know phoned into a radio program that was full of very good family values recently and left a message. The following day the compere of the show called back to thank that man for calling in.
 
-Sometimes we think the whole country is calling into these programs, but often there\'s nobody calling, and just one caller is a huge thing.
+Sometimes we think the whole country is calling into these programs, but often there's nobody calling, and just one caller is a huge thing.
 
 This compere said, "I want to thank you very much because I had a bit of a polemic with my director of this radio program about the content. I really had to fight and to insist this family-oriented content would be included, and your feedback has been very important for me, very supportive."
 
-Sometimes those little communications---a short email, a WhatsApp message, a phone call---can do enormous things to embolden a journalist who\'s in a tight corner or to encourage them to promote those values that may be listened to by millions of people.
+Sometimes those little communications---a short email, a WhatsApp message, a phone call---can do enormous things to embolden a journalist who's in a tight corner or to encourage them to promote those values that may be listened to by millions of people.
 
-Sometimes you can be walking in the supermarket, and it\'s tuned into some radio station. Every person that walks into the supermarket that day is listening to this radio station. They can\'t turn it off. We have to try and make sure that there are good things there.
+Sometimes you can be walking in the supermarket, and it's tuned into some radio station. Every person that walks into the supermarket that day is listening to this radio station. They can't turn it off. We have to try and make sure that there are good things there.
 
-"We find, in any upright activity," he says, "the raw material for our sanctity in the field of our apostolate. An apparent wasteland"---notice how he only says 'apparent wasteland'---\"which is rendered fertile by heaven\'s grace, when we cultivate it with the means God has marked out for us: first, our personal friendship and confidence, the key to true effectiveness in our apostolate, which enables us to enkindle our hearts with the love of God burning in our own."
+"We find, in any upright activity," he says, "the raw material for our sanctity in the field of our apostolate. An apparent wasteland"---notice how he only says 'apparent wasteland'---"which is rendered fertile by heaven's grace, when we cultivate it with the means God has marked out for us: first, our personal friendship and confidence, the key to true effectiveness in our apostolate, which enables us to enkindle our hearts with the love of God burning in our own."
 
 We look around us and see: What are the opportunities? What fields are opening up for me?
 
-He says, "We know full well the crucial importance of our task within the Church\'s mission."
+He says, "We know full well the crucial importance of our task within the Church's mission."
 
 The Second Vatican Council changed the meaning of the word 'missionary.' Before, a missionary was somebody who went away, usually from Europe, to a faraway place, and there conducted their mission.
 
 But when the Second Vatican Council talked about the vocation of the lay person in the middle of the world and how that lay person has a vocation to holiness and apostolate, suddenly every single baptized person became a missionary.
 
-We are sent to continue the Church\'s mission wherever we are.
+We are sent to continue the Church's mission wherever we are.
 
 "With this conviction," he says, "each of us undertakes the initiatives that seem to them most appropriate, mentioning them in spiritual direction. We go forward along very concrete pathways because there are great things that are waiting for us in that vineyard of the Lord."
 
-There\'s a danger that we could be sitting pretty and thinking that a lot of things are being done, there's nothing else to be done, when maybe the reality is that just around the corner, there\'s a whole field of social life that\'s crying out for workers.
+There's a danger that we could be sitting pretty and thinking that a lot of things are being done, there's nothing else to be done, when maybe the reality is that just around the corner, there's a whole field of social life that's crying out for workers.
 
 We have all the Christian formation and education that we have, and maybe we have our time, our health, our energy; or there's something that we can contribute to that great harvest that Our Lord is dreaming of.
 
@@ -237,7 +237,7 @@ We can turn to Our Lady, who is our refuge and our strength.
 
 In the *Way of the Cross* of St. Josemaría, he says, "Hold your peace. Be calm. ... God has very few friends on earth. Don't yearn to leave this world. Don't shy away from the burden of the days, even though at times we might find them very long."
 
-If ever in the working and the vineyard of the Lord we get a bit tired---it\'s long, there\'s rejection, there are difficulties---we can always turn to Our Lady, our refuge and our strength, when we know it will help us to always begin again with the same conviction as at the start.
+If ever in the working and the vineyard of the Lord we get a bit tired---it's long, there's rejection, there are difficulties---we can always turn to Our Lady, our refuge and our strength, when we know it will help us to always begin again with the same conviction as at the start.
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
