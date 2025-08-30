@@ -33,7 +33,7 @@ The light comes in very specific ways. Christ is the light. Other people are not
 
 That light manages to shine where God wants it to shine and where people want it to shine.
 
-"Waters pass through the mountains (Ps. 104:8). There may be difficulties for that light to penetrate to all beings, but somehow the light gets through.
+"Waters pass through the mountains (Ps. 104:10). There may be difficulties for that light to penetrate to all beings, but somehow the light gets through.
 
 Fr. Joe Barbendreier recently got a letter from a man in Nakuru who said that he went to a stall one day to buy some chips, and the chips were wrapped in the Sunday Nation. He sat down to eat his chips, and he opened up the piece of paper, and there was the homily of Fr. Joe Barbendreier in that piece of paper.
 
