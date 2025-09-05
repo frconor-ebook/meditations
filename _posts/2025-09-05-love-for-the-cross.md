@@ -31,13 +31,13 @@ We can see how the things Our Lord says to us about the cross---that the cross i
 
 "Make your own the mind of Christ Jesus," says St. Paul, "who, being in the form of God, did not count equality with God something to be grasped. But he emptied himself, taking the form of a slave, becoming as human beings are; and being in every way like a human being, he was humbler yet, even to accepting death, death on a cross" (Phil. 2:5-8).
 
-Our Lord invites us to follow Him along the pathway to the cross. St. Josemaría used to say that joy and happiness in this world have their "roots in the form of a cross" (Josemaría Escrivá, *The Forge*, Point 28).
+Our Lord invites us to follow Him along the pathway to the cross. St. Josemaría used to say that joy and happiness in this world have their "roots in the form of a cross" (*The Forge*, Point 28).
 
 We try to run away from the crosses that God sends us, and we don't find happiness. Usually, the crosses that God sends us are little things every day: changes of plans, or things that go wrong, things that don't work out, pieces of bad news. Or our football team doesn't win the match, we lose a match or some game that we're involved in.
 
 These are the little crosses of each day, but Our Lord is waiting for us. And He wants us to try and carry those crosses with cheerfulness.
 
-St. Josemaría used to say, "In cheerfulness, in joy, no day without a cross" (Christ Is Passing By, Point 176).
+St. Josemaría used to say, "In cheerfulness, in joy, no day without a cross" (Josemaría Escrivá, *Christ Is Passing By*, Point 176).
 
 Pope Benedict, in one of his earliest discourses as pope, said, "The Cross is the way to transformation. Without it, nothing is transformed" (*cf*. Benedict XVI, *Address*, July 25, 2005).
 
