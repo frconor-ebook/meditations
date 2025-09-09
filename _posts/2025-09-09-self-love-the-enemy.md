@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Self-Love—The Enemy"
+title: "Self-Love: The Enemy"
 ---
 
 By Fr. Conor Donnelly
@@ -11,17 +11,17 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-We're told in today\'s Gospel, "A discussion arose among them, which of them was the greatest. But Jesus, knowing the reasoning of their heart, took a little child and set him at his side and said to them: 'Whoever receives this little child for my sake, receives me, and whoever receives me, receives him who sent me. For he who is the least among you, he is the greatest" (Luke 9:46-48).
+We're told in today's Gospel, "A discussion arose among them, which of them was the greatest. But Jesus, knowing the reasoning of their heart, took a little child and set him at his side and said to them: 'Whoever receives this little child for my sake, receives me, and whoever receives me, receives him who sent me. For he who is the least among you, he is the greatest" (Luke 9:46-48).
 
 You would think that with all their formation, the apostles might have got something else to talk about. But they fall into the sin of vanity.
 
 "There was a discussion among them, which of them was the greatest" (Luke 9:46). You get the impression that they were all involved in this discussion. None of them was immune from it.
 
-Of course, they're expressing their own self-love. They got caught by their vanity. It\'s a bit ugly. They reveal their weakness, their humanity. They reveal what they are like on the inside.
+Of course, they're expressing their own self-love. They got caught by their vanity. It's a bit ugly. They reveal their weakness, their humanity. They reveal what they are like on the inside.
 
 We're told, "Jesus, knowing the reasoning of their heart..." (Luke 9:47). God reads the heart. He sees everything. He sees us through and through. He sees the Apostles and their reasoning and their hearts through and through on this occasion also.
 
-The ugliness of the old person that's there deep inside each one of us---they were not special individuals that were created in special way. They fulfilled all the criteria for normal human beings. They ticked all the boxes.
+The ugliness of the old person that's there deep inside each one of us---they were not special individuals that were created in a special way. They fulfilled all the criteria for normal human beings. They ticked all the boxes.
 
 Our Lord is using this opportunity then to show us that. He could have launched into a discourse about the ugliness of vanity and the dangers of self-love. But He sort of takes all that for granted.
 
@@ -37,77 +37,77 @@ Our greatest enemy: our self-love. In these little few lines, Our Lord reveals t
 
 You could define vanity as excessive pride---pride in, or admiration of, our own appearance or achievements, the good things that we do. It involves thinking of self, the elation of self; maybe, unfair judgments about other people, criticisms, comparisons; the projection of our own self-excellence, dwelling on our successes, seeing the faults of others.
 
-In the face of all these things, St. Josemaría liked to say, "I am nothing, I have nothing, I can do nothing" (cf. Josemaría Escrivá, *The Way,* Point 731).
+In the face of all these things, St. Josemaría liked to say, "I am nothing, I have nothing, I can do nothing" (*cf*. Josemaría Escrivá, *The Way,* Point 731).
 
-We come back again and again to the awareness of our misery. Our Lord could have explained all that to them in glorious technicolor, but He sort of treats them gently, leads them on slowly---the Good Shepherd.
+We come back again and again to the awareness of our own misery. Our Lord could have explained all that to them in glorious technicolor, but He sort of treats them gently, leads them on slowly---the Good Shepherd.
 
-Little by little they are going to come to see the reality of what they are like there on the inside. And that\'s what they have to work at in order to be better, to be holy.
+Little by little they are going to come to see the reality of what they are like there on the inside. And that's what they have to work at in order to be better, to be holy.
 
 Slowly, Our Lord reveals to them that we meet self-love every day---at every turn, a thousand different guises, always externally prosperous, well-dressed, versatile, charming, polished, full of seduction and persuasive art, perhaps full of sophistication, but also, full of lies and sham.
 
 The devil can work very effectively through our self-love---"father of lies" (John 8:44).
 
-Often, it\'s the driving force in the bustle of daily life. We may do things for very altruistic reasons, thinking of others.
+Often, it's the driving force in the bustle of daily life. We may do things for very altruistic reasons, thinking of others.
 
-But if truth were told, when time passes and we look back, the real reason why I did that thing---we may find, it\'s true I did it for others, but it might only have been done 30 percent for others---70 percent of the reason why I did that thing might have been because there was something in it for me: some satisfaction, some little bit of glory, some little bit of self-projection.
+But if truth were told, when time passes and we look back, the real reason why I did that thing---we may find, it's true I did it for others, but it might only have been done 30 percent for others---70 percent of the reason why I did that thing might have been because there was something in it for me: some satisfaction, some little bit of glory, some little bit of self-projection.
 
 St. Paul says, "All seek the things that are their own" (Phil. 2:21)---the self, the personal profit, the personal interest, egoism, selfishness.
 
 It may be that with the passage of time, Our Lord lets us see all these realities.
 
-That line that Cardinal George Pell mentions in his book, in his prison diaries, that somebody wrote to him, that "truth is the daughter of time" (George Cardinal Pell, *Prison Journal*, Volume 1). He repeats that very frequently, as though he was really caught by that phrase.
+That line that Cardinal George Pell mentions in his prison diaries that somebody wrote to him, that "truth is the daughter of time" (George Cardinal Pell, *Prison Journal*, Volume 1). He repeats that very frequently, as though he was really caught by that phrase.
 
-It applies to us also. Over time we come to know the truth about ourselves, that truth that we want to try and change, so that we see with greater importance the words of St. Paul, "that we have to put off the old person; be renewed in the spirit of your mind" (cf. Eph. 4:22-23).
+It applies to us also. Over time we come to know the truth about ourselves, that truth that we want to try and change, so that we see with greater importance the words of St. Paul, "that we have to put off the old person; be renewed in the spirit of your mind" (*cf*. Eph. 4:22-23).
 
 "Put on the Lord Jesus Christ" (Rom. 13:14). "Restore all things in Christ" (Pius X, Encyclical, *E Supremi*, October 4, 1903).
 
 That self-love can be the deep secret root of vice and sins that destroy mankind, that drive people to do all sorts of crazy things: disloyalty, untruth, greediness, avarice, the sins of the flesh and of the spirit.
 
-It\'s an ugly reality that\'s always there. It can tear faith and religion out of people\'s hearts, can rob millions of their hope of heaven, because possibly, they may discover, to their cost, that all the things they\'d been doing were for the self.
+It's an ugly reality that's always there. It can tear faith and religion out of people's hearts, can rob millions of their hope of heaven, because possibly, they may discover, to their cost, that all the things they'd been doing were for the self.
 
-We\'ve spoken too about *rectitude of intention*: putting our intention right, getting it right from the beginning. Or if we discover along the pathway that we\'ve made a bit of a mistake, or we have let a wrong intention get in somewhere, that we try and correct that.
+We've spoken too about *rectitude of intention*: putting our intention right, getting it right from the beginning. Or if we discover along the pathway that we've made a bit of a mistake, or we have let a wrong intention get in somewhere, that we try and correct that.
 
 We rectify. We've been told that we have to rectify many times each day, with all the funny little things that happen.
 
-I was in Nyamira this weekend, and I visited a farm there, and when I was leaving, they gave me a hen. This is the second time in my life that I\'ve been given a hen.
+I was in Nyamira this weekend, and I visited a farm there, and when I was leaving, they gave me a hen. This is the second time in my life that I've been given a hen.
 
 I'm not very good at managing hens. We got home to where I was staying and somebody there very kindly offered to take care of the hen, so they tied the hen up outside the house in the garden.
 
 Then I was in my room doing something, and I think I was on my phone, reading my phone, and I thought I saw something moving out of the corner of my eye.
 
-I looked up, and the hen was in my room. A very friendly hen. I\'m not accustomed to handling these situations, so I had to call for help.
+I looked up, and the hen was in my room. A very friendly hen. I'm not accustomed to handling these situations, so I had to call for help.
 
-There are all sorts of funny situations that crop up that perhaps we\'ve never handled before. Life is full of surprises.
+There are all sorts of funny situations that crop up that perhaps we've never handled before. Life is full of surprises.
 
 In those situations, God calls us to live our presence of God, in the presence of the hen, or whatever else.
 
 Side by side with that pursuit of self, we're told there can be a very refined variety of self-love, and that's a pious or spiritual self-love, often present daily in the hearts, thoughts, impulses, words, and actions of those who have a certain piety.
 
-The soul ardently desires virtue and perfection. 'I want to be better. I want to be holy.'
+"The soul...ardently desires virtue and perfection" (Benedict Baur, *In Silence with God*). 'I want to be better. I want to be holy.'
 
-But behind that zeal, there can be a secret desire to be admired, to amount to something, to glory in one\'s perfection, to marvel at oneself with secret pride. 'I am better than others. I am superior. I have managed. I have achieved.'
+"But behind that zeal, there can be a secret desire to be admired, to amount to something, to glory in one's perfection, to marvel at oneself with secret pride" (*ibid*.). 'I am better than others. I am superior. I have managed. I have achieved.'
 
 Those words of St. Josemaría can have a special force: "I am nothing. I have nothing. I can do nothing" in spite of all the wonderful things that he achieved.
 
 The saints have this great awareness of their nothingness. "*Deo omnis gloria*, all the glory to God" (J. Escrivá, *The Way*, Point 780).
 
-The soul can become confused, seeking to avoid that self-love, not so much because it\'s an insult to God, but because it might cloud the soul\'s beauty, or it may adopt an attitude of superiority to such weaknesses: 'Those things don\'t happen to me. They\'re not part of me.'
+The soul can become confused, "seeking to avoid that self-love, not so much because it is an insult to God, but because it might cloud the soul's beauty. Or it may adopt an attitude of 'superiority to such weaknesses' (Baur, *idem*.). 'Those things don't happen to me. They're not part of me.'
 
-But then we read that "a discussion arose among them, which of them was the greatest" (Luke 9:46). We\'re all susceptible to this type of temptation.
+But then we read that "a discussion arose among them, which of them was the greatest" (Luke 9:46). We're all susceptible to this type of temptation.
 
 The soul may do its best to fly from sin, but self-love can creep in there. It can demand all sorts of compensations, showy graces or gifts, likes to compare its own gifts to those of others, inclining it to envy or jealousy.
 
 That old person is there deep down, difficult to reach. Self-love can mislead the soul as to the actual goal of spiritual zeal.
 
-Jesus, help me to be very focused on you, to detect those signs or intimations of vanity when it rears its ugly head, and not to be surprised, or disconcerted, or discouraged, because I\'m dealing with the real me. Now I'm beginning to know myself.
+Jesus, help me to be very focused on you, to detect those signs or intimations of vanity when it rears its ugly head, and not to be surprised, or disconcerted, or discouraged, because I'm dealing with the real me. Now I'm beginning to know myself.
 
-I\'m beginning to see how much I have to depend on you, to become that child that Our Lord places as the example. He was the least among you; he is the greatest.
+I'm beginning to see how much I have to depend on you, to become that child that Our Lord places as the example. He was the least among you; he is the greatest.
 
 Self-love can also put the soul into a bother about its sins and failings. How could that happen to me? How could such a thought pass through my mind?
 
-And of course, the devil can throw at us every possible thing that he can find, because if he can knock us off our perch, he\'s won a great battle.
+And of course, the devil can throw at us every possible thing that he can find, because if he can knock us off our perch, he's won a great battle.
 
-We\'re not meant to be scandalized by all the terrible things that he might allow to pass through our minds.
+We're not meant to be scandalized by all the terrible things that he might allow to pass through our minds.
 
 Vanity could lead us to hate the sight of our own insignificance, to get impatient with the slow working of God and of His grace. God works slowly.
 
@@ -115,11 +115,11 @@ He says to us: "Be still, and know that I am God" (Ps. 46:10). I am working the 
 
 I am bringing forward great fruitfulness through corporate and personal apostolic efforts, and possibly fruits that are not there to be seen by your eyes, because if you were to see all the fruits, you might become proud and vain.
 
-You might add to your vanity: 'what a great person I am, look at the great things I achieve, look at how well I\'m performing my mission.'
+You might add to your vanity: 'what a great person I am, look at the great things I achieve, look at how well I'm performing my mission.'
 
-The slowness of God can get on our nerves, because of our self-love. It can be fond of setting the soul too high a target, keeps the example of Christ and the saints in view, vaingloriously aiming to attain those passions.
+"The slowness of God can get on our nerves, because of our self-love. It can be fond of setting the soul too high a target. It keeps the example of Christ and the saints in view, vaingloriously aiming to attain those passions.
 
-But sometimes, we cannot quite grasp why we fall short of all those things we see in Christ and the saints. That can lead to discouragement.
+"But sometimes, we cannot quite grasp why we fall short of all those things we see in Christ and the saints. That can lead to discouragement" (*cf*. Baur, *idem*.).
 
 Vanity can give rise to that particular problem. We have to go back and be like that little child.
 
@@ -127,33 +127,25 @@ Vanity can give rise to that particular problem. We have to go back and be like 
 
 He became small, became a baby---hidden, silent, showing us the pathways along which we have to walk. He hid away and disappeared, fled from the crowds when they wanted to make Him king at the moment (John 6:15).
 
-Whereas self-love would keep our own good deeds constantly in sight---'Look at the good things I\'ve done, look at my achievements, look at the way I fulfill my duties, look at the zeal with which I enter into prayer and other pious practices'---until the incense of self-praise swells the soul with pride. Things we have to look out for.
+Whereas self-love would keep our own good deeds constantly in sight---'Look at the good things I've done, look at my achievements, look at the way I fulfill my duties, look at the zeal with which I enter into prayer and other pious practices'---until the incense of self-praise swells the soul with pride. Things we have to look out for.
 
 "He must increase," said John the Baptist (John 3:30).
 
 "Not I, but Christ lives in me," said St. Paul (Gal. 2:20).
 
-There are great areas there for us to focus on and to grow, to become more aware of. When that vanity and pride can rear its ugly head, so we detect it, it\'s easier.
+There are great areas there for us to focus on and to grow, to become more aware of. When that vanity and pride can rear its ugly head, so we detect it, it's easier.
 
-Self-love can make the soul impatient; agitates the soul, discontented when it encounters disturbance; wandering thoughts, interrupted concentration, temptations in prayer.
+Self-love can make the soul impatient; it "agitates the soul, discontented when it encounters disturbance, wandering thoughts, interrupted concentration, temptations in prayer, or when the glow of satisfaction fails to follow them" ('I don't get all the spiritual satisfaction that I would like to get.'), "or when there are periods of weakness or spiritual aridity.
 
-Or when the glow of satisfaction fails to follow them: 'I don\'t get all the spiritual satisfaction that I would like to get.' Or when there are periods of weakness or spiritual aridity.
+"Self-love can lead to touchiness, impatience with our fellow man" (lack of charity), and make us unyielding, angry, aggressive in stressing our own personality and our own rights" (Baur, *ibid*.)---the rights of the old person.
 
-Self-love can lead to touchiness, impatience with our fellow man, lack of charity; and make us unyielding, angry, and aggressive in stressing our own personality and our own rights---the rights of the old person.
-
-St. Josemaría liked to say that we have lost rights. We don\'t have any rights. We\'ve given all our rights to God. We\'ve come to lay everything at His feet.
+St. Josemaría liked to say that we have lost rights. We don't have any rights. We've given all our rights to God. We've come to lay everything at His feet.
 
 As we prepare for the new anniversary in front of us, October 2, and eventually for the 100th anniversary from 1928, these are the key areas where Our Lord wants us to focus, be truly better, make great strides, and in that way, to bring, ultimately, a greater fruitfulness to everything that we do.
 
-Our self-love can make us cold and indifferent, reserved, unjust in judgment and speech about our neighbor. It can lead us to delight in dwelling on our own experiences, inspirations, difficulties, sufferings. 'Poor me!'--- full of self-pity---'how much I suffer; how little I complain.'
+Our self-love can make us "cold and indifferent, reserved, unjust in judgment and speech about our neighbor. It can lead us to delight in dwelling on our own experiences, inspirations, difficulties, sufferings."
 
-It can lead us to compare its doings and its piety with those of others, watching them and pronouncing judgment upon them.
-
-It may give others no credit. It sees only their faults. It attributes evil intentions to others.
-
-In spite of all our piety, self-love can lay us wide open to being easily wounded.
-
-Excessive sensitivity---by this word, by that little gesture---so we\'re put out, repelled, offended when we\'re not taken seriously or made as much of as we expected.
+'Poor me!'--- full of self-pity---'how much I suffer; how little I complain.' It can "lead us to compare its own doings and its piety with those of others, watching them and pronouncing judgment upon them. It may give others no credit. It sees only their faults...attributes evil intentions to others. ... In spite of all our piety, self-love can lay us wide open to being easily wounded." Excessive sensitivity---by this word, by that little gesture---\"so we're put out, repelled, offended when we're not taken seriously or made as much of as we expected" (Baur, *ibid*.).
 
 But we have the solution to all of these things: deeper prayer, focusing on truly following Christ and being more Christ-like in all the things we do.
 
@@ -161,19 +153,17 @@ But we have the solution to all of these things: deeper prayer, focusing on trul
 
 Jesus, give me a deeper humility. "Blessed are they that hunger and thirst after justice"---justice can be another word for holiness---"for they shall have their fill" (Matt. 5:6).
 
-The more we pray and earnestly pray, the more grace we receive to starve out our self-love and to grow in divine love. As that divine love grows, self-love automatically diminishes.
+"The more we pray, and earnestly pray, the more grace we receive to starve out our self-love and to grow in divine love. As that divine love grows, self-love automatically diminishes." Lord, increase in us your love.
 
-Lord, increase in us your love.
+We can come to the Mass with greater devotion each time, knowing that it's here where everything can get offered up.
 
-We can come to the Mass with greater devotion each time, knowing that it\'s here where everything can get offered up.
-
-We surrender all our perverted inclinations and habits, our vain affections and attachments, our own will with all its wishes and excitements.
+"We surrender all our perverted inclinations and habits, our vain affections and attachments, our own will with all its wishes and excitements" (Baur, *ibid*.).
 
 "Blessed are you, Lord, God of all creation, for through your goodness we have this bread to offer, which earth has given, and human hands have made" (Order of Mass: Liturgy of the Eucharist).
 
 We place everything on the paten---our nothingness. We ask Our Lord to offer them to His heavenly Father: the totality of our being.
 
-To offer up means to renounce. It means breaking with our own finite personal self, to belong wholly to God, dedicated to Him, united with Him---for always, seriously---lock, stock, and barrel.
+"To offer up means to renounce. It means breaking with our own finite personal self, to belong wholly to God, dedicated to Him, united with Him" (Baur, *ibid*.)---for always, seriously---lock, stock, and barrel.
 
 Lord, help us to make use of each opportunity of the Mass to grow. Get rid of all these things that we carry with us, this excess baggage. Help us to lose ourselves completely in you.
 
@@ -181,7 +171,7 @@ Here the prayers of the liturgy can lead us forward, so that we come to love eve
 
 We participate very clearly in the Mass in the grace of Holy Communion, and thereby, bury the old Adam or the old Eve, and all their selfish impulses. We put on the new person---the person in God and in Christ.
 
-Love is born. Authentic love. The withering away of sensuality and weakness goes hand in hand with prayer. All the lusts of the flesh become atrophied as we constantly and sincerely pray.
+Love is born. Authentic love. "The withering away of sensuality and weakness goes hand in hand with prayer. All the lusts of the flesh become atrophied as we constantly and sincerely pray" (Baur, *ibid*.).
 
 Lord, help me to love my prayer. To love the liturgy. To love these means that you have given us.
 
@@ -203,7 +193,7 @@ This is where God wants me to be. This is where His graces will help me to a max
 
 And also, through the many joys of our life: the funny things, the hens that come into our life and surprise us in all sorts of ways---small and great.
 
-If we are humble, we learn to recognize His hand in everything. That hand of God that works for the destruction of our self-love, our greatest enemy.
+If we are humble, we learn to recognize His hand in everything---that hand of God that works for the destruction of our self-love, our greatest enemy.
 
 If something unpleasant happens to us or some little thought comes our way or some piece of bad news, we can try to see---God is at work here. *Hic est Digitus Dei*--here is the finger of God.
 
@@ -215,19 +205,17 @@ When that vanity rears its ugly head, help me to recognize it, to detect it. My 
 
 You want the conversion of my heart. You want the complete surrender of my heart, so that we make God the only goal of our desires and wishes, that we may truly love Him with our whole strength.
 
-Love the Lord our God "with our whole mind and our whole strength and our whole being" (Mark 12:30). And everything else only for love of Him.
+Love the Lord Our God "with our whole mind and our whole strength and our whole being" (Mark 12:30). And everything else only for love of Him.
 
-Souls, Lord, apostolic souls---they are for you, they are for your glory!" (J. Escrivá, *The* *Way*, Point 804) and therefore I am willing to do anything. Anything!
+"Souls, Lord, apostolic souls---they are for you, they are for your glory!" (J. Escrivá, *The* *Way*, Point 804) and therefore I am willing to do anything. Anything!
 
 I am available to go anywhere. You can ask anything of me. I am ready to give you a blank check because this is what I want in my life: this great reality of bringing forward your work in the world.
 
-God in His love is so immeasurably jealous that He cannot endure the least trace of self-love in our hearts. He is a jealous lover. He wants all our love.
-
-He insists on nothing less than the complete annihilation of self.
+"God in His love is so immeasurably jealous that He cannot endure the least trace of self-love in our hearts." He is a jealous lover. He wants all our love. "He insists on nothing less than the complete annihilation of self" (Baur, *ibid*.).
 
 "Leave the dead to bury the dead" (Luke 9:60).
 
-"Go, sell all that you have. Give to the poor. Come, follow me. Then you will have treasure in heaven" (cf. Matt. 19:21).
+"Go, sell all that you have. Give to the poor. Come, follow me. Then you will have treasure in heaven" (*cf*. Matt. 19:21).
 
 Lord, may you work on my soul, on my improvement, on my sanctity. May I be ready to give you everything!
 
@@ -235,7 +223,7 @@ Even if you rob me of the consolations of my heart that I find in giving myself 
 
 Our God wants everything. We know that He repays us a hundredfold in all sorts of ways (Mark 10:30).
 
-After the initial consolations and joys that we may find in following Him, He may withdraw those consolations. There might be periods of aridity, difficulties in going forward, wondering 'if I\'m making any progress at all.'
+After the initial consolations and joys that we may find in following Him, He may withdraw those consolations. There might be periods of aridity, difficulties in going forward, wondering 'if I'm making any progress at all.'
 
 Yet all the time, the Master is at work, using our self-giving, our loyalty, our efforts, our perseverance, our fortitude; teaching us how to forget ourselves and lose ourselves in Him.
 
@@ -245,7 +233,7 @@ St. Catherine of Genoa says, "Divine love ruins everything that you love. It sen
 
 "And you cannot understand why divine love should react in this way, as by all human standards it seems unreasonable. After divine love has kept you for some time thus in the grip of despair, producing a revulsion against all that you formerly loved, suddenly it reveals its own glory.
 
-"As soon as the soul, naked and forlorn, beholds this, it throws itself without reserve into the arms of God."
+"As soon as the soul, naked and forlorn, beholds this, it throws itself without reserve into the arms of God" (Catherine of Genoa, *Dialogue*).
 
 That battle with our self-love is worthwhile. You have to go at it in all sorts of ways.
 

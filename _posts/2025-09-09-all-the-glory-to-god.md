@@ -39,9 +39,9 @@ Rational creatures give glory to God with reason and will. Irrational creatures,
 
 We could ask Our Lord that our deeds may shine, especially in charity. To want to do things well all the time can also be an expression of love of me. We have to try and get into the habit of giving the glory to God.
 
-A radicality of the Christian life requires that we go beyond what is convenient or easy or comfortable. We have to try and be ready to go the extra mile.
+The radicality of the Christian life requires that we go beyond what is convenient or easy or comfortable. We have to try and be ready to go the extra mile.
 
-And it's good to ask ourselves occasionally: Is the glory of God the motive of all my actions? Do we repeat the *Morning Offering*frequently as we go through the day?
+And it's good to ask ourselves occasionally: Is the glory of God the motive of all my actions? Do we repeat the *Morning Offering* frequently as we go through the day?
 
 St. Josemaría liked to point out to people on the roof of the Cathedral of Burgos certain stone sculptures that were there on that roof, which the sculptors had been made fully aware that they could not be seen from below. They were done for the glory of God (J. Escrivá, *Friends of God*, Point 65).
 
@@ -143,7 +143,7 @@ We can ask the Holy Spirit for lights to see where I might not be giving God the
 
 We're told, "The understanding that so many people demand of others is that everyone should join their party" (J. Escrivá, *Furrow*, Point 576).
 
-In another point in *The Way*, it says, "It only takes a second. Before setting about anything, ask yourself: What does God want of me in this? [Then with divine grace, do it!"]{.mark} (*ibid*., *The Way*, Point 778).
+In another point in *The Way*, it says, "It only takes a second. Before setting about anything, ask yourself: What does God want of me in this? Then with divine grace, do it!" (*ibid*., *The Way*, Point 778).
 
 And in *The Forge*, "'I can do all things in him who strengthens me' (Phil. 4:13). With him, there is no possibility of failure, and this conviction gives rise to the holy 'superiority complex' whereby we take on things with the spirit of victory, because God grants us his strength" (*ibid*., *The Forge*, Point 337).
 
