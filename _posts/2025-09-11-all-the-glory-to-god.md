@@ -17,7 +17,7 @@ In the Gospel of St. Matthew, we're told, "Be careful not to parade your upright
 
 In this passage of the Gospel, Our Lord talks to us about the supernatural goal of everything we do, seeing that that supernatural intention is the only really worthwhile intention to have.
 
-We have to try and declare war on our love of self, when perhaps the desire to be well-regarded comes into play. We have to remember that phrase, *Deo omni gloria*, all the glory to God.
+We have to try and declare war on our love of self, when perhaps the desire to be well-regarded comes into play. We have to remember that phrase, *Deo omnis gloria*, all the glory to God.
 
 "The weather pays no attention to criticism." Meaning will never be found in the praise and adulation of others.
 
@@ -27,7 +27,7 @@ After we've done something which we think has been done for very altruistic reas
 
 We could ask Our Lord for lights to see when we don't have the supernatural goal as clearly as we might. Often, it's in small, subtle things which are difficult to detect.
 
-St. Josemaría says in *The Forge*, "You are like the little pauper who suddenly finds out that you're the child of the King. That is why now the only thing that concerns you on this earth is the glory of your Father God, His glory in everything (Josemaría Escrivá, *The Forge*, Point 334).
+St. Josemaría says in *The Forge*, "You are like the little pauper who suddenly finds out that you're the child of the King. That is why now the only thing that concerns you on this earth is the glory of your Father God, his glory in everything (Josemaría Escrivá, *The Forge*, Point 334).
 
 God's love is manifested in the gifts that are given to us. St. Paul says, "I do not cease to give thanks for you...that the God of Our Lord Jesus Christ, the Father of glory, may give you the Spirit of wisdom and of revelation in the knowledge of him" (Eph. 1:16--17).
 
@@ -35,7 +35,7 @@ The intention with which we do things is one of the most important aspects of th
 
 Rational creatures give glory to God with reason and will. Irrational creatures, like a cow, a dog, a goat, give glory to God just by being. And when we practice virtues, that reflects an aspect of the divine glory, perfection.
 
-\[Our Lord\] said, "Let your light shine before others, so that they may see your good works and give glory to your Father in heaven" (Matt. 5:16).
+\[Our Lord\] said, "Let your light shine before others, that they may see your good works and give glory to your Father in heaven" (Matt. 5:16).
 
 We could ask Our Lord that our deeds may shine, especially in charity. To want to do things well all the time can also be an expression of love of me. We have to try and get into the habit of giving the glory to God.
 
@@ -43,7 +43,7 @@ The radicality of the Christian life requires that we go beyond what is convenie
 
 And it's good to ask ourselves occasionally: Is the glory of God the motive of all my actions? Do we repeat the *Morning Offering* frequently as we go through the day?
 
-St. Josemaría liked to point out to people on the roof of the Cathedral of Burgos certain stone sculptures that were there on that roof, which the sculptors had been made fully aware that they could not be seen from below. They were done for the glory of God (J. Escrivá, *Friends of God*, Point 65).
+St. Josemaría liked to point out to people on the roof of the Cathedral of Burgos certain stone sculptures that were there on that roof, which the sculptors had made fully aware that they could not be seen from below. They were done for the glory of God (J. Escrivá, *Friends of God*, Point 65).
 
 He liked to talk about a chalice he once found where there was a gem hidden up underneath the base of the chalice---there for God to see, not for human eyes.
 
@@ -79,7 +79,7 @@ Each time the phone rings or we get a WhatsApp message, it can be seen as a divi
 
 In *The Way*, we're told, "You are ambitious: for knowledge, for leadership, for great ventures. Good, very good. But let it be for Christ, for love" (J. Escrivá, *The Way*, Point 24).
 
-In one passage of the Gospel, we're told, "They came to Capernaum, and when he was in the house he asked them, 'What were you discussing on the way?' But they were silent, because on the way they had \[argued\] with one another about who was the greatest.
+In one passage of the Gospel, we're told, "They came to Capernaum, and when he was in the house he asked them, 'What were you discussing on the way?' But they were silent, because on the way they had \[discussed\] with one another about who was the greatest.
 
 "Jesus sat down and called the Twelve. And he said to them, 'If any one of you would be first, he must be last of all and the servant of all.' And he took a child and put him in the midst of them, and taking him in his arms, he said to them, 'Whoever receives one such child in my name receives me, and whoever receives me, receives not me but him who sent me'" (Mark 9:33--37).
 
@@ -89,27 +89,29 @@ If it's the will of God that we are that somebody, wonderful. Give glory to God 
 
 And in the face of those dramatic gestures on the part of the apostles, Our Lord made another very dramatic gesture. He embraces a child to show His disciples who really is the greatest in the kingdom of heaven.
 
-What can a little child possibly teach us about greatness? Children in the ancient world had no rights, no position, no privileges of their own. Socially, they were at the bottom of the rung, at the service of their parents, much like the household staff or domestic servants.
+"What can a little child possibly teach us about greatness? Children in the ancient world had no rights, no position, no privileges of their own. Socially, they were at the bottom of the rung, at the service of their parents, much like the household staff or domestic servants" (Don Schwager*, The Gospel of Luke*).
 
 Our Lord's lesson that He's teaching the apostles is a pretty strong lesson.
 
-There can be no share in God's glory without the cross. All the challenges that we can have in the 21st century, things that can happen to us that we never imagined might happen to us---unemployment, financial difficulties, health problems, weight of work on our shoulders, abandoned by loved ones. These all may be characteristics of the saints of the 21st century.
+There can be no share in God's glory without the cross. All the challenges that we can have in the 21st century, things that can happen to us that we never imagined might happen to us---unemployment, financial difficulties, health problems, weight of work on our shoulders, abandoned by loved ones---these all may be characteristics of the saints of the 21st century.
 
-In all those difficult situations that Our Lord may permit in our life, He wants us to learn to give Him glory in those moments. To say, "Here I am, because you have called me" (1 Sam. 3:5).
+In all those difficult situations that Our Lord may permit in our life, He wants us to learn to give Him glory in those moments; to say, "Here I am, because you have called me" (1 Sam. 3:5).
 
-That gesture of Our Lord's elevating a little child in the presence of His disciples is very significant. The one who is humble and lowly of heart, who instead of asserting their rights, willingly empty themselves of pride and self-seeking glory by taking the lowly position of a servant or of a child---that's the person that Christ admires.
+"That gesture of Our Lord's elevating a little child in the presence of His disciples is very significant. ... The one who is humble and lowly of heart, who, instead of asserting their rights, willingly empty themselves of pride and self-seeking glory by taking the lowly position of a servant or of a child" (Schwager, *ibid*.)---that's the person that Christ admires.
 
-Jesus Himself is our model. "Though he was by nature God, he did not consider being equal to God a thing to be clung to, but emptied himself, taking the nature of a slave, and being made like unto men and appearing in the form of man, he humbled himself, becoming obedient unto death, even unto death on the cross" (Phil. 2:6--8).
+Jesus Himself is our model. "Though he was by nature God, he did not consider being equal to God a thing to be clung to, but emptied himself, taking the nature of a slave and being made like unto men and appearing in the form of man, he humbled himself, becoming obedient unto death, even unto death on the cross" (Phil. 2:6--8).
 
 Our Lord emptied Himself in order to give God all the glory. Often, He passed unnoticed. He shunned praise, disappeared from the people who wanted to make Him King, lowered Himself to take on our lowly nature, that He might raise us up and clothe us with His divine nature. "God opposes the proud but gives his grace to the humble" (James 4:6).
 
-If we want to be filled with God's life and power, we need to empty ourselves of everything that stands in the way, of pride, of self-seeking glory, of vanity. God wants empty vessels so that He can fill them with His own glory, with His power, and with His love.
+"If we want to be filled with God's life and power, we need to empty ourselves of everything that stands in the way, of pride, of self-seeking glory, of vanity" (*cf*. Schwager, *idem*.).
 
-In *The Way*, St. Josemaría says, *Deo omni gloria*. All the glory to God. It is an emphatic confession of our nothingness. He, Jesus, is everything. We without him, are worth nothing: nothing. Our vainglory would be just that, vain glory; it would be a sacrilegious robbery. There should be no room for that 'I' anywhere" (J. Escrivá, *The Way*, Point 780).
+God wants empty vessels so that He can fill them with His own glory, with His power, and with His love (*cf*. 2 Cor. 4:7).
 
-We're told in Scripture that we "cannot serve two masters" (Matt. 6:24). You have to try to be giving glory to God in all that we do. Even in our prayer, we could be doing it for the wrong reasons, as we see in the parable of the Pharisee and the publican (Luke 18:9-14).
+In *The Way*, St. Josemaría says, "*Deo omni gloria*. All the glory to God. It is an emphatic confession of our nothingness. He, Jesus, is everything. We, without him, are worth nothing: nothing. Our vainglory would be just that, vain glory; it would be a sacrilegious robbery. There should be no room for that 'I' anywhere" (J. Escrivá, *The Way*, Point 780).
 
-The Pharisee was giving glory to himself. We can be praying for the wrong reasons, to get it done, so that we can feel good, so that we can tell other people that we've done it. We can forget that God is waiting for us in each moment.
+We're told in Scripture that we "cannot serve two masters" (Matt. 6:24). We have to try to be giving glory to God in all that we do. Even in our prayer, we could be doing it for the wrong reasons, as we see in the parable of the Pharisee and the publican (Luke 18:9-14).
+
+The Pharisee was giving glory to himself. We can be praying for the wrong reasons: to get it done, so that we can feel good, so that we can tell other people that we've done it. We can forget that God is waiting for us in each moment.
 
 St. Josemaría had a short prayer that he used to use, which said, "Separate from me anything that separates me from you."
 
@@ -121,17 +123,17 @@ This can apply also to the small ordinary tasks in the house that need to be tak
 
 We give God glory when we make the effort to get the norms of our *plan of life* done. A lady stood up at a get-together with Blessed Álvaro in Dublin many years ago and she said that she had eight children, and she had to do the ironing and the washing and the marketing and the cleaning and everything in the family, a big, long list of things.
 
-Then she asked, "How can I find time in my busy day to fulfill the norms of a *plan of life*?" And Blessed Álvaro said, "The list of things that you have to do are very many. It's true, you're a very busy person."
+Then she asked, "How can I find time in my busy day to fulfill the norms of a *plan of life*?" And Blessed Álvaro said, "The litany of things that you have to do are very many. It's true, you're a very busy person."
 
 "But," he said, "you've left something out of your list. You've left God out of your list. If you put God into your list and you put Him first, you'll find you'll have time for all the other things."
 
-Giving God all the glory often means putting Him first; taking care of little things; offering our work before we do it, when we finished it, in the meantime when we lift our eyes from what we're doing, pause for a few moments, we offer it to Him again; when we make little acts of contrition during the day; when we have the joy of giving God the glory that perhaps we have denied Him in previous hours.
+Giving God all the glory often means putting Him first; taking care of little things; offering our work before we do it, when we've finished it, in the meantime when we lift our eyes from what we're doing, pause for a few moments, we offer it to Him again; when we make little acts of contrition during the day; when we have the joy of giving God the glory that perhaps we have denied Him in previous hours.
 
 In that way, we realize that nothing gets lost. Everything works out for the good when we ask Our Lord that all our actions might be inspired by Him and might be truly brought to completion.
 
-We can say, "Lord, may everything I do be pleasing in your eyes. Help me to turn to you occasionally during the day, and, as it were, say a *Gloria*: "Glory to God in the highest" (Luke 2:14).
+We can say: Lord, may everything I do be pleasing in your eyes. Help me to turn to you occasionally during the day, and, as it were, say a *Gloria*: "Glory to God in the highest" (Luke 2:14).
 
-In the *Furrow*, St. Josemaría says, "Reject any ambition for honors. Think instead about your duties, how to do them well and the instruments you need to accomplish them. ---In this way, you will not hanker for position, and if one comes you will see it just as it is: a burden to bear in the service of souls" (J. Escrivá, *Furrow*, Point 976).
+In the *Furrow*, St. Josemaría says, "Reject any ambition for honors. Think instead about your duties, how to do them well, and the instruments you need to accomplish them. ---In this way, you will not hanker for position, and if one comes you will see it just as it is: a burden to bear in the service of souls" (J. Escrivá, *Furrow*, Point 976).
 
 We can try to also be attentive to what the Holy Father is saying, what are his intentions, so that we're grazing where he is grazing, asking for what he's asking.
 
@@ -141,7 +143,7 @@ A lack of giving God glory can decrease the effectiveness of our apostolate. Pri
 
 We can ask the Holy Spirit for lights to see where I might not be giving God the glory that is His due.
 
-We're told, "The understanding that so many people demand of others is that everyone should join their party" (J. Escrivá, *Furrow*, Point 576).
+We're told in the *Furrow*, "The understanding that so many people demand of others is that everyone should join their party" (J. Escrivá, *Furrow*, Point 576).
 
 In another point in *The Way*, it says, "It only takes a second. Before setting about anything, ask yourself: What does God want of me in this? Then with divine grace, do it!" (*ibid*., *The Way*, Point 778).
 
@@ -151,13 +153,13 @@ Our determination to live as children of God should be realized in ordinary life
 
 We can't confine our relationship with God to those few moments we spend inside a church. We have to live out our friendship with God in the middle of the world, in our workplace, in our recreation, in social gatherings.
 
-We should reflect Christ's love in everything we do. St. Paul said to the Corinthians, "So, whether you eat or drink, or whatever you do, do all to the glory of God" (1 Cor. 10:31).
+We should reflect Christ's love in everything we do. St. Paul said to the Corinthians, "So, whether you eat or drink, or whatever you do, do it all to the glory of God" (1 Cor. 10:31).
 
 St. Basil, commenting on that passage, said, "When you sit down at table, pray. When you eat your bread, give thanks to God who is so generous. If you have some wine, remember that he has created it to bring us merriment and comfort in affliction. When you are getting dressed, give thanks to the one who gave you those clothes. When you look up at the firmament and behold the beauty of the stars above, fall down at the feet of God and adore his infinite Wisdom that is manifest in all Creation. Do the same at sunrise and sunset when you're asleep and when you are awake. Give thanks to God who created all this wonder for your benefit so that you might know, love, and praise his name" (Basil of Caesarea, *Homily on the Martyr Julitta*).
 
 All noble realities should serve to bring us to God, to give Him glory. When someone is in love, they think of their beloved twenty-four hours a day. That's the sort of love we should have for Jesus Christ.
 
-It should constitute the essence of our being, the driving force of all our actions. He is our one and only Lord. He is the one we want to glorify through our work well done.
+It should constitute the essence of our being, the driving force of all our actions. He is Our one and only Lord. He is the one we want to glorify through our work well done.
 
 Jesus is our inspiration when we try to practice the social doctrine of the Church, when we strive to protect the environment.
 
@@ -169,7 +171,7 @@ A wrong intention destroys the best of actions. The deed can be well done, it ca
 
 Many times, during the day, we need to remind ourselves that I am here to give God glory. On some occasions, receiving some praise is a sign of friendship and can help us along the path of goodness. But we should direct that praise towards God in all simplicity.
 
-It's one thing to receive a word of praise, a sign of being well received; it's another thing altogether to look for praise. And we must always be careful and attentive when we are praised or commended, since, as St. Gregory the Great said, "...many times our poor soul goes off the right path, as soon as it is applauded...thus it finds its delight more in being called happy than in actually being so. And that thing which should have been a reason for praising God becomes instead a cause of our separation from him" (Gregory the Great, *Moralia in Job).*
+It's one thing to receive a word of praise, a sign of being well received; it's another thing altogether to look for praise. We must always be careful and attentive when we are praised or commended, since, as St. Gregory the Great said, "...many times our poor soul goes off the right path, as soon as it is applauded...thus it finds its delight more in being called happy than in actually being so. And that thing which should have been a reason for praising God becomes instead a cause of our separation from him" (Gregory the Great, *Moralia in Job).*
 
 In the Gospel, Our Lord points out the result of good deeds done without a right intention: "They have received their reward" (Matt. 6:2,5), He says, referring to the Pharisees, who wanted to be praised and well thought of.
 
@@ -179,13 +181,11 @@ God accepts our actions, even very small ones, if we offer them to him with that
 
 Our Lord contemplates our lives and has His hand outstretched each day for what we can offer Him. He accepts whatever we really do for Him. We get our own sad recompense for the rest here below.
 
-"The suggestions of vanity and pride and the impulses of the flesh are not difficult to recognize," St. Josemaría says in *The Way*(Point 788), "...and you fight and, with grace, you conquer. But the motives that inspire you, even in the holiest actions, do not seem clear; and deep down inside you hear a voice which makes you see human reasons in such a subtle way that your soul is invaded by the disturbing thought that you don't act as you should---for pure Love, solely and exclusively to give God all his glory. React at once each time and say, 'Lord, for myself I want nothing. All for your glory and for Love.'"
+"The suggestions of vanity and pride and the impulses of the flesh are not difficult to recognize," St. Josemaría says in *The Way* (Point 788), "...and you fight and, with grace, you conquer. But the motives that inspire you, even in the holiest actions, do not seem clear; and deep down inside you hear a voice which makes you see human reasons in such a subtle way that your soul is invaded by the disturbing thought that you don't act as you should---for pure Love, solely and exclusively to give God all his glory. React at once each time and say, 'Lord, for myself I want nothing. All for your glory and for Love.'"
 
-This was the attitude of Our Lady when she learned the plans that God had for her. "Behold, the handmaid of the Lord" (Luke 1:38).
+This was the attitude of Our Lady when she learned the plans that God had for her. "Behold, the handmaid of the Lord..."---I'm just here to serve, to do whatever it is that you want.---"Be it done unto me according to your word" (Luke 1:38).
 
-'I'm just here to serve, to do whatever it is that you want.'
-
-"Be it done unto me according to your word" (*ibid*.). The life of Our Lady was a life of continual praise and glory to God. Mary, may you help us to live in that same way.
+The life of Our Lady was a life of continual praise and glory to God. Mary, may you help us to live in that same way.
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
