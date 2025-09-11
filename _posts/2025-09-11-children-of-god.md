@@ -1,0 +1,200 @@
+---
+layout: homily
+title: "Children of God"
+---
+
+By Fr. Conor Donnelly
+
+*(Proofread)*
+
+*In the Name of the Father, and of the Son, and of the Holy Spirit, Amen.*
+
+*My Lord and my God, I firmly believe that You are here, that You see me, that You hear me. I adore You with profound reverence. I ask Your pardon for my sins and grace to make this time of prayer fruitful. My immaculate mother, St. Joseph, my father and lord, my guardian angel, intercede for me.*
+
+In the Gospel of St. John, we\'re told that, \"But to all who received him, who believed in his name, he gave power to become children of God, who were born not of blood, nor of the will of the flesh, nor of the will of man, but of God\" (John 1:12-13).
+
+And in the letter of St. John, we hear, or we read, \"See what love the Father has given us, that we should be called children of God, and so we are\" (1 John 3:1).
+
+And in Psalm 2, we read, \"You are my son, today I have begotten you\" (Psalm 2:7).
+
+John Paul II commented that the adverb \"today\" speaks of eternity. It is the today of the intimate life of God, the today of eternity, the today of the most holy and ineffable Trinity, Father, Son, and Holy Spirit, who is eternal love and eternally consubstantial with the Father and the Son.
+
+St. Thomas Aquinas says that filiation requires an equality of nature. That is why Jesus is the Only Begotten Son of the Father. We can say in a broader sense that all creatures, especially spiritual beings, are children of God. But this filiation is inherently imperfect because creatures come to be equated with their creator according to nature.
+
+And so Baptism comes to regenerate the soul. There\'s a new birth with Baptism into the supernatural order that allows us to participate in the divine nature. And so this supernatural elevation to divine filiation represents an immense improvement on our natural filiation as creatures.
+
+And so St. John in his Gospel is able to say, \"But to all who received him, who believed in his name, he gave power to become children of God, who are born not of blood, nor of the will of the flesh, nor of the will of man, but of God\" (John 1:12-13).
+
+St. Athanasius comments, \"The son of God became man so that the sons of men, the sons of Adam, might become sons of God.\" He is the Son of God by His nature. We are sons of God by grace.
+
+And so this concept of divine filiation holds a key place in the message of our Lord.
+
+The good news is an eloquent testimony to the overwhelming fact of God\'s love for mankind. \"See what love the Father has given us, that we should be called children of God, and so we are,\" (1 John 3:1) says St. John.
+
+And so this condition of being children of God fills our earthly existence with joy and hope.
+
+St. Paul says, \"For the creation waits with eager longing for the revealing of the sons of God. We know that the whole creation has been groaning in travail together until now. And not only the creation, but we ourselves who have the first fruits of the spirit, groan inwardly as we await for adoption as children" (Romans 8:19-21).
+
+St. Paul speaks of the fullness of this adoption. Since here on earth we\'ve been made children of God, the greatest of titles. And he says to the Galatians, \"So through God, you are no longer a slave, but a child. And if a child, then an heir\" (Galatians 4:7).
+
+The words spoken by the Father to His Only Begotten Son can be applied to each one of us. \"You are my son, today I have begotten you\" (Psalm 2:7).
+
+St. Josemaría in *Christ is Passing By* comments, today means our life here on earth. "He says to us: \'You are my son.\' Not a stranger, not a well-treated servant, not a friend --- that would be a lot already. A son! He gives us free access to treat him as sons, with a son\'s piety and I would even say with the boldness and daring of a son whose Father cannot deny him anything." (Christ is Passing By, 185)
+
+And Our Lord spoke continually about this astonishing reality to His disciples. Sometimes He would deal with the subject directly, as when He taught them to pray the Our Father, to pray to God as a father. And likewise, He showed them that holiness consisted in this filial imitation of the Father.
+
+Our Lord also communicated this idea through the various parables in which God is represented as a father, like the father in the parable of the prodigal son. And so divine filiation has to be understood as more than a symbolic relationship between ourselves and God. God did not want to treat us *like* His sons. He wanted to treat us *as* His sons.
+
+Obviously, our filiation can\'t be compared to that of Jesus, but our filiation is still something highly remarkable. It\'s a gift whose significance we can barely hope to grasp. Our filiation is a participation in the fullness of filiation enjoyed by the Second Person of the Holy Trinity.
+
+St. Thomas says that from this filiation by nature, we derive a certain likeness and participation. Through this filiation, we\'re enabled to enter into the intimate life of the Trinity. This is an authentic participation in the life of the Father, the Son, and the Holy Spirit. We may understand our relationship as being children of the Father in the Son through the Holy Spirit.
+
+Pope John Paul II says through the grace received in Baptism, man participates in the eternal birth of the Son from the Father because he is an adopted son of God, son of the Son.
+
+\"Rising from the waters of the Baptismal font, every Christian hears again the voice that was once heard on the banks of the Jordan River: \'You are my beloved Son, with you I am well pleased\' (Lk 3,22). (Christifideles laici, n. 11)."
+
+And in the apostolic exhortation, *Christifideles laici*, we\'re told, "From this comes the understanding that one has been brought into association with the beloved Son, becoming a child of adoption (cf Gal 4, 4-7) and a brother or sister of Christ."
+
+St. Josemaría comments in *The Way of the Cross*, our sense of divine filiation should be present throughout the course of the day. We can have recourse to it especially in moments of trial.
+
+"It looks as if the whole world is coming down on top of you. Whichever way you turn you find no way out. This time, it is impossible to overcome the difficulties. But, have you again forgotten," he says, "that God is your Father? ---all-powerful, infinitely wise, full of mercy. He would never send you anything that is evil. That thing that is worrying you, it\'s good for you, even though those earthbound eyes of yours may not be able to see it now. Omnia in bonum! Lord, once again and always, may your most wise Will be done!" (The Way of the Cross, Ninth Station).
+
+And so we can have the great optimism of children. St. Peter in his letter says, \"Cast all your anxieties on him, for he cares about you\" (1 Peter 5:7). All our anxieties. It\'s a wonderful phrase. Not some of our anxieties, but all of them. We\'re called to place them all at the feet of Our Lord, no matter what they may be.
+
+There was a story told about a mother who had a four-year-old son, and she would accompany him each day to his primary school or kindergarten school. But then he realized that some of the other guys were not being accompanied by their mothers, and he told his mother that he didn\'t want her to accompany him anymore because he was already four and able to take care of himself.
+
+And the mother saw a tantrum coming, so she backed off. But she had a neighbor called Shirley Goodnest. And Shirley had a baby called Mercy, maybe one or two years of age. And so she asked Shirley if she wouldn\'t mind every morning when her son was going to school, if Shirley would take her baby for a walk, and at a comfortable distance behind the boy, just keep an eye on him so that he got safely to school.
+
+So this went on for some days.
+
+But then one of the older guys in the school said to this young fellow, \"What\'s this? I see this lady always coming at a certain distance behind you every day when you\'re going to school." And the kid said, \"Oh, that has to do with the prayer that my mother says every night, because every night she prays that 'Surely goodness and mercy will follow me all the days of my life'.\"
+
+And so we can truly cast all our anxieties on Him. Everything works out for the good for those who love God.
+
+In *The Forge* we\'re told, "Woes? Setbacks deriving from one thing or another? Can't you see that this is the will of your Father-God... He is good... and He loves you --- loves you personally --- more than all the mothers in the world can possibly love their children?" (The Forge, 929)
+
+And so our sense of our divine filiation should lead us to discover that we\'re in the hands of a loving father who knows the past, the present, and the future.
+
+There was a Dutch Missionary Priest in Singapore who used to like to tell teenagers and remind them that, \"You\'re carried in the palm of a hand of a God who loves you.\"
+
+And this Father of ours has ordered everything for our good, even though His plans may not coincide with our plans at this particular moment. When we\'re stuck in a traffic jam, or we fail an exam, or this deal doesn\'t work out, or our career path takes a left turn, or we find ourselves with a cold or the flu, or maybe some cancer or some other thing that we hadn\'t bargained for.
+
+That realization that I\'m carried in the palm of a hand of a God who loves me, my father, can help us to be serene even in times of grave crisis.
+
+And so we could ask Our Lord in our prayer at this moment to help us to cast all our anxieties truly on Him. No one could do a better job of watching out for us.
+
+God never makes mistakes. The people that we know and love, well, may let us down from time to time, but that never happens with Our Lord who\'s infinitely wise and all powerful.
+
+In the Book of Wisdom we\'re told that ever mindful of our freedom, He leads us on *suaviter et fortiter*, which means with gentleness and with the firm hand of a father. He leads us on toward eternal happiness.
+
+And that\'s what really matters. Our faults and even our sins can be made to contribute to our welfare, because God endures absolutely everything for the benefit of His children.
+
+St. Augustine says even those who err and fall by the wayside can receive grace to get up again and make progress in virtue. They will return to the fold humbler and more fitted and ready for the struggle.
+
+And so contrition can help the soul to have a more profound and trusting love of God. Contrition, which is a desire to be better.
+
+And so far as we know ourselves to be children of God, our life can become a continual act of thanksgiving, thanking God for all the good things.
+
+Children have a great sense of excitement, about this little good thing and that other little good thing. We should stop for a few moments every day and thank God, like little children know how to thank when they really appreciate something good, they realize the gift.
+
+We\'re told in Scripture, \"If you knew the gift of God\...\" (John 4:10).
+
+Every day it\'s good to thank God for the gifts that we have: our education, our formation, our sight, our hearing, our limbs, particularly when we see people who don\'t have these particular gifts.
+
+The Holy Spirit will teach us even to see that human catastrophes that may happen are like divine caresses, which can also move us to gratitude.
+
+Thank you, Lord, because we know the hand of God is working in this moment, in this contradiction, in a special way. This can be our message to Jesus in moments of illness or bad news. It\'s the way the saints always reacted to contradiction.
+
+We\'re told in *The Forge*, "God is very pleased with those who recognize his goodness by reciting the Te Deum in thanksgiving whenever something out of the ordinary happens, without caring whether it may have been good or bad, as the world reckons these things." (The Forge, Victory)
+
+The Te Deum is a special prayer of thanksgiving that the Church speaks. You can find it on the Internet or in a book of Christian hymns and devotions.
+
+He continues, "Because everything comes from the hands of our Father: so though the blow of the chisel may hurt our flesh, it is a sign of Love, as he smooths off our rough edges and brings us closer to perfection.\" (The Forge, Victory)
+
+St. Paul wrote to the Christians of Galatia with all the tenderness of a father and a mother. He knew the difficulties they were experiencing in their newfound faith, which was not a bed of roses. He suffered at his inability to look after these believers who lived so far away.
+
+And so he wrote to them, \"My little children, with whom I am again in travail until Christ be formed in you\" (Galatians 4:19). He compares them to the child in a mother\'s womb. He felt a paternal responsibility for his children in need.
+
+The Catechism of the Council of Trent says the Church teaches us that the people who foster our Faith through preaching and Baptism should also be seen as parents. We also participate in the spiritual paternity of the many Christians whom we have helped to find Christ.
+
+Sometimes that formation entails suffering and fatigue. And this paternity increases to the degree of one\'s generosity.
+
+St. Thomas liked to say that God manifests his fatherhood to Christians like a teacher who instructs not only his disciples, but whoever is capable of understanding him.
+
+And that spiritual paternity is an important part of the earthly reward which God grants to those who respond to a divine vocation. He\'s generous. He returns a hundredfold.
+
+And this is true even of children. In *The Way*, St. Josemaría says, "Many deprive themselves of children for the sake of his glory, and they have thousands of children of their spirit. Children, as we are children of our Father in heaven."(The Way, 779)
+
+The Second Vatican Council says that the Blessed Virgin exercises her maternity over Christians and over all mankind. Our Lady can teach us how to have a magnanimous soul, large enough for the many people that we want to bring to her Son.
+
+We can also remember, says John Paul II, "that merciful love also means the cordial tenderness and sensitivity so eloquently spoken of in the parable of the prodigal son, and also in the parables of the lost sheep and the lost coin.\"
+
+"Consequently," he says, "merciful love is supremely indispensable between those who are closest to one another: between husbands and wives, between parents and children, between friends; and it is indispensable in education and in pastoral work." (Dives In Misericordia)
+
+St. Ambrose wrote some strong words which can make an impression on us. He says, \"According to the flesh, there is only one Mother of Christ; according to the faith, Christ is the fruit of all of us.\"
+
+If we become identified with Mary and imitate her virtues, we will be able to bring Christ to life through grace in the souls of many who will in turn become identified with Him through the action of the Holy Spirit.
+
+"If we imitate Mary,\" we\'re told in *Friends of God*, "we will share in some way in her spiritual motherhood. And all this silently, like Our Lady; without being noticed, almost without words, through the true and genuine witness of our lives as Christians, and the generosity of ceaselessly repeating her Fiat (or 'Let it be done\'), which we renew as an intimate link between ourselves and God." (Friends of God: Mother of God and Our Mother)
+
+Divine filiation is not simply one part of being a Christian among others. In a certain sense, it relates to every aspect of our life of faith.
+
+We\'re told in *Friends of God* divine filiation is not strictly speaking a virtue with its own attributes. It is rather a frame of mind which exists in a baptized person who is serious about his vocation. \"The piety which is born of divine filiation is a profound attitude of the soul which eventually permeates one\'s entire existence. It is there in every thought, every desire, every affection." (Friends of God, 146)
+
+And in *Christ is Passing By*, St. Josemaría says we can come to understand that God has given us His gifts so that we might become His children, imitators of the Son to the extent of being another Christ, *alter Christus, ipse Christus*. We have to become more and more like Christ. Our life should be a reflection of His life.
+
+Divine filiation should be a frequent theme in our prayer. In that way, our soul will be filled with peace in spite of whatever temptations and contradictions that may arise. We will abandon ourselves into the hands of God\'s providence.
+
+Naturally, we will still have to continue our struggle to improve. We will use all the human means available to us in the face of sickness, economic hardship, loneliness. We will remember that even when they were enduring the worst of trials, the lives of the saints were always filled with joy.
+
+Divine filiation is also the foundation of Christian fraternity.
+
+We are brothers and sisters of others because we are children of God. We have to try to get into the habit of seeing other people as those children of God, brothers and sisters of Jesus Christ. We are all called to a supernatural destiny.
+
+And based on that realization, we will find it easier to offer assistance to all the people we find in need. We will help each one to find the path that leads to the common Father.
+
+A Chinese philosopher, a disciple of Confucius, once said that a great person is one who never loses the heart they had as a child: love of family, love of country, love of truth, love of life.
+
+We can ask Our Lord that we might learn how to act and react like a child of God, with faith, with hope, with optimism, with trust, with transparency, with patience, with simplicity. Being uncomplicated, with peace and serenity, with enthusiasm.
+
+May all our concerns, our anxieties, our worries, our nervousness, our apprehension, all lead us to a deeper spirit of divine filiation.
+
+Lord, may we have this spirit in our prayer, in our struggle, when we go for spiritual direction, in our defeats and humiliations, in our apostolate, in our work and studies, in problems in our family, in periods of ill health.
+
+One commentator once said that children love life. They bounce out of bed in the morning. Each new day is a gift. It\'s an opportunity for fun and accomplishment with family and friends. It\'s an adventure. They value friends, fun, family, laughter.
+
+Our sense of filiation can lead us to see God in the human, to see in a mountain His power, in a sunset His beauty, in a snowflake His purity.
+
+A materialist may only see the mountain, the sunset, or the snowflake. There\'s no penetrating vision of eternity.
+
+Practical men of this world write prose, but those of faith write poetry.
+
+And so we\'re led to see God in things, the sacramental nature of things, the hidden, invisible reality with their deeper meaning.
+
+Sometimes the hand of God, of Our loving Father, is only seen in retrospect when we look back over our life. We see how God has been there all the time.
+
+One time St. Josemaría was watching a movie. And in the movie, there was a little child crying out to his father, saying, \"Papa, Papa.\" And he commented to the person sitting beside him, \"What a wonderful prayer that is."
+
+And so in *The Way of the Cross* he says, "May our stumbles and defeats separate us from Him no more. Just as a feeble child throws itself contritely into the strong arms of its father, you and I will hold tightly to the yoke of Jesus. Only a contrition and humility like this can transform our human weakness into the fortitude of God." (The Way of the Cross, Seventh Station)
+
+Elsewhere he says, "You are discouraged, why? Is it your sins and miseries? Is it your defeats, at times coming one after the other? A really big fall, which you didn\'t expect? Be simple. Open your heart. Look: as yet nothing has been lost. You can still go forward, and with more love, with more affection, with more strength.
+
+"Take refuge in the fact that you are a child of God: God is your most loving Father. In this lies your security, a haven where you can drop anchor no matter what is happening on the surface of the sea of life. And you will find joy, strength, optimism: victory!" (The Way of the Cross, Seventh Station)
+
+Our Lord permits things very often so that we would depend totally on Him. If we lose sight of the fact that God is my loving father, well often everything can begin to go wrong.
+
+We have to have faith that God uses our faults and our failures, like an oyster from a piece of grit can make a pearl of great price.
+
+Little children often try to do things, but sometimes they don\'t work out.
+
+One time a mother was sick in bed, and her six-year-old little daughter decided to make her a cup of tea. And she brought her a cup of tea, and the mother was surprised. She said, \"I didn\'t know you knew how to make tea.\"
+
+And the little girl said, \"Well, I\'ve seen you make it hundreds of times. The only problem was I couldn\'t find the tea strainer, so I used the fly swatter instead.\" At this stage the mother had begun to sip her tea, but she nearly choked when she heard those words of the little girl. And when the little girl saw the reaction of her mother, she tried to calm her by saying, \"It\'s all right, I didn\'t use the new one.\"
+
+And so little children try their best, but often things don\'t work out.
+
+We can turn to Our Mother Mary, whom we know will help lead us to savor the words of Scripture each time that we read that we are children of God. "You are my child, today I have begotten you\" (Psalm 2:7).
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My immaculate mother, St. Joseph, my father and Lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*JM*
