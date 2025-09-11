@@ -27,7 +27,7 @@ But the Council began to talk about the mission of every baptized person. Sudden
 
 On the road from Jerusalem to Emmaus (Luke 24:13-35), the hearts of the two disciples were downcast, as shown by their dejected faces, all because of the death of Jesus, in whom they had believed.
 
-Faced with the failure of the crucified Master, we're told in St. Luke, their hopes that He was the Messiah collapsed (cf. Luke 24:21).
+Faced with the failure of the crucified Master, we're told in St. Luke, their hopes that He was the Messiah collapsed (*cf*. Luke 24:21).
 
 Then, "as they were talking and discussing together, Jesus himself drew near and walked with them" (Luke 24:15).
 
@@ -39,7 +39,7 @@ As the risen Lord remains close to His missionary disciples and walks with them,
 
 Our Lord is greater than all our problems, above all if we encounter them in our mission of proclaiming the Gospel to the world.
 
-For in the end, this mission is His. We\'re nothing more than humble co-workers, "useless servants," as St. Luke says (cf. Luke 17:10).
+For in the end, this mission is His. We\'re nothing more than humble co-workers, "useless servants," as St. \[Luke\] says (*cf*. Luke 17:10).
 
 There was a lady once who was on a plane. She noticed St. Josemaría was on the same plane.
 
@@ -71,11 +71,11 @@ St. Josemaría has recommended for busy people in the middle of the world to rea
 
 "Otherwise, what will we pass on to others if not our own ideas and projects? A cold heart can never make other hearts burn!" (Pope Francis, *Message for World Mission Day*, January 6, 2023). We cannot give what we do not have.
 
-We can always try to be willing to let ourselves be accompanied by the risen Lord as He explains to us the meaning of the Scriptures.
+"We can always try to be willing to let ourselves be accompanied by the risen Lord as he explains to us the meaning of the Scriptures.
 
-May He make our hearts burn within us; may He enlighten and transform us, so that we can proclaim His mystery of salvation to the world with the power and wisdom that come from His Spirit.
+"May he make our hearts burn within us; may he enlighten and transform us, so that we can proclaim his mystery of salvation to the world with the power and wisdom that come from his Spirit" (*ibid*.).
 
-The disciples said, "Our eyes were opened and we recognized him" in the breaking of bread (cf. Luke 24:31). Our Lord is the source and the summit of every mission.
+The disciples said, "Our eyes were opened and we recognized him" in the breaking of bread (*cf*. Luke 24:31). Our Lord is the source and the summit of every mission.
 
 The fact that their hearts had burned for the Word of God prompted the disciples of Emmaus to ask this mysterious Wayfarer to stay with them as evening was drawing near.
 
@@ -87,17 +87,17 @@ Those were the usual gestures of the head of a Jewish household, but, performed 
 
 Yet at that very moment when they recognized Him in the breaking of bread, we are told by St. Luke, "He vanished from their sight" (Luke 24:31).
 
-We can recognize here an essential reality of our faith. Christ, who breaks the bread, now becomes the bread broken, shared with the disciples and consumed by them.
+"We can recognize here an essential reality of our faith. Christ, who breaks the bread, now becomes the bread broken, shared with the disciples and consumed by them.
 
-He is seen no longer, because now He has entered the hearts of the disciples to make them burn all the more, and this prompts them to set out immediately to share with everyone their unique experience of meeting the risen Lord.
+"He is seen no longer, because now he has entered the hearts of the disciples to make them burn all the more, and this prompts them to set out immediately to share with everyone their unique experience of meeting the risen Lord.
 
-The risen Christ, then, is both the one who breaks the bread and at the same time, the bread itself, broken for us.
+"The risen Christ, then, is both the one who breaks the bread and at the same time, the bread itself, broken for us.
 
-It follows then that every missionary disciple is called to become, like Jesus and in Him, through the working of the Holy Spirit, one who breaks the bread and one who is broken bread for the world.
+"It follows then that every missionary disciple is called to become, like Jesus and in him, through the working of the Holy Spirit, one who breaks the bread and one who is broken bread for the world.
 
-And it could be remembered that breaking our material bread with the hungry in the name of Christ is already a work of Christian mission.
+"It should be remembered that breaking our material bread with the hungry in the name of Christ is already a work of Christian mission.
 
-How much more so is the breaking of the Eucharistic bread, which is Christ Himself, a work of mission *par excellence*, since the Eucharist is the source and summit of the life and mission of the Church.
+"How much more so is the breaking of the Eucharistic bread, which is Christ himself, a work of mission *par excellence*, since the Eucharist is the source and summit of the life and mission of the Church" (Pope Francis, *idem*.).
 
 Pope St. John Paul II liked to say, "The Church draws her life from the Eucharist" (John Paul II, Encyclical, *Ecclesia de Eucharistia*, Point 1, April 17, 2003).
 
@@ -105,19 +105,19 @@ Pope Benedict has pointed out: "We cannot keep to ourselves the love we celebrat
 
 "For this reason, the Eucharist is not only the source and the summit of the life of the Church; it is also the source and the summit of her mission. An authentically Eucharistic Church is a missionary Church" (Benedict XVI, *Sacramentum caritatis*, Point 84, February 22, 2007).
 
-And in order to bear fruit, we have to remain united to Jesus (cf. John 15:4-9). That union is achieved through daily prayer, particularly in Eucharistic adoration, as we remain in silence in the presence of the Lord, who remains with us in the Blessed Sacrament.
+And in order to bear fruit, we have to remain united to Jesus (*cf*. John 15:4-9). That union is achieved through daily prayer, particularly in Eucharistic adoration, as we remain in silence in the presence of the Lord, who remains with us in the Blessed Sacrament.
 
-By lovingly cultivating this communion with Christ, the missionary disciple can become a mystic in action.
+"By lovingly cultivating this communion with Christ, the missionary disciple can become a mystic in action.
 
-May our hearts always yearn for the company of Jesus, echoing the ardent plea of the two disciples of Emmaus, especially in the evening hours: "Stay with us, Lord!" (cf. Luke 24:29).
+"May our hearts always yearn for the company of Jesus, echoing the ardent plea of the two disciples of Emmaus, especially in the evening hours: 'Stay with us, Lord!' (*cf*. Luke 24:29).
 
-Then our feet set out on the way, with the joy of telling others about the risen Christ, as the eternal youth of a Church that is always going forth.
+"Our feet set out on the way, with the joy of telling others about the risen Christ, as the eternal youth of a Church that is always going forth.
 
-After their eyes were opened and they recognized Jesus "in the breaking of bread", the disciples "set out without delay to return to Jerusalem" (cf. Luke 24:33).
+"After their eyes were opened and they recognized Jesus 'in the breaking of bread,' the disciples 'set out without delay to return to Jerusalem'" (*cf*. Luke 24:33; Pope Francis, *ibid*.).
 
 We can think of our own personal apostolate of our friends that we're trying to bring closer to Him---of new horizons that we need to face, new challenges, new aspects of our apostolate that may be developing before our eyes---our new beginnings again in the tasks entrusted to us.
 
-This setting out in haste, to share with others the joy of meeting the Lord, demonstrates, said Pope Francis, that "the joy of the Gospel fills the heart and the whole life of those who meet Jesus.
+This setting out in haste, to share with others the joy of meeting the Lord, demonstrates, said Pope \[Francis\], that "the joy of the Gospel fills the heart and the whole life of those who meet Jesus.'
 
 "Those who allow themselves to be saved by him are freed from sin, from sadness, from inner emptiness, from isolation. With Jesus Christ, joy is always born and reborn" (Pope Francis, Apostolic Exhortation, *Evangelii gaudium*, Point 1).
 
@@ -129,45 +129,45 @@ He knew nobody in that university. But he understood that the reason for his bei
 
 He was invoking the Holy Spirit and asking for light to see people that God might want him to deal with. Then one day he heard two people talking behind him.
 
-One was saying to the other, 'A funny thing happened to me on the bus yesterday. I bumped into a German who was an architect, who was a priest, here in Pamplona, a very unusual combination.'
+One was saying to the other, "A funny thing happened to me on the bus yesterday. I bumped into a German who was an architect, who was a priest, here in Pamplona, a very unusual combination."
 
 This fellow realized that this guy must be talking about a priest of Opus Dei, because otherwise it would be very unusual to find somebody with those characteristics.
 
-He turned around and butted into the conversation and said, 'How strange.' That was the beginning of breaking the ice in that relationship.
+He turned around and butted into the conversation and said, "How strange." That was the beginning of breaking the ice in that relationship.
 
 A few days later, he took a cup of coffee with those guys. He got to know them better. He invited them to a meditation on a Saturday afternoon in the center of Opus Dei.
 
 One was interested and came; the other was not. But the fellow who came kept coming. He liked what he saw and what he heard. He opened himself up to formation.
 
-He began to lead a plan of life. He began to do apostolate with other friends. Six months later, that fellow discovered his vocation as a numerary of Opus Dei.
+He began to lead a *plan of life*. He began to do apostolate with other friends. Six months later, that fellow discovered his vocation as a numerary of Opus Dei.
 
-That whole missionary journey had all started with those two words 'how strange' being brought into that conversation.
+That whole missionary journey had all started with those two words "how strange" being brought into that conversation.
 
 Our Lord may place souls around us, but He also wants our initiative, our commitment to try and bring them closer to Christ.
 
-We cannot truly encounter the risen Christ without being set on fire with enthusiasm to tell everyone about Him.
-
-The primary and principal resource of the mission are those persons who have come to know the risen Christ in the Scriptures and in the Eucharist, who carry His fire in their heart and His light in their gaze.
+We "cannot truly encounter the risen Christ without being set on fire with enthusiasm to tell everyone about him. The primary and principal resource of the mission are those persons who have come to know the risen Christ in the Scriptures and in the Eucharist, who carry his fire in their heart and his light in their gaze" (Pope Francis, *ibid*.).
 
 Sometimes the people we meet with chance encounters may be the very people that Our Lord wants us to deal with, to bring them closer.
 
-We can bear witness to the life that never dies, even in the most difficult of situations and in the darkest of moments. We bring the light and warmth of Christ to all souls.
+We "can bear witness to the life that never dies, even in the most difficult of situations and in the darkest of moments."
 
-The image of "feet setting out" reminds us once more of the perennial validity of the *missio ad gentes,* the mission to all people, as a document of the Second Vatican Council, precisely titled with those words, *Ad gentes*--"To All People."
+We bring the light and warmth of Christ to all souls.
 
-The mission entrusted to the Church by the risen Lord is to evangelize all individuals and peoples, even to the ends of the earth. That\'s the way we have to be thinking and praying.
+"The image of 'feet setting out' reminds us once more of the perennial validity of the *missio ad gentes*," the mission to all people. There's a document of the Second Vatican Council precisely titled with those words, *Ad gentes*--"To All People."
+
+"The mission entrusted to the Church by the risen Lord is to evangelize all individuals and peoples, even to the ends of the earth" (Pope Francis, *ibid*.). That\'s the way we have to be thinking and praying.
 
 The seed that St. Josemaría received on the 2nd of October 1928 and on the 14th of February 1930 has reached islands in the South Pacific through the influence of the Holy Spirit and our cooperation.
 
-Today, more than ever, our human family, wounded by so many situations of injustice, so many divisions and wars, is so much in need of the Good News of peace and the salvation in Christ.
+"Today, more than ever, our human family, wounded by so many situations of injustice, so many divisions and wars, is (so much) in need of the Good News of peace and the salvation in Christ."
 
-Pope Francis said, "I take this opportunity to reiterate that 'everyone has the right to receive the Gospel. Christians have the duty to announce it without excluding anyone, not as one who imposes a new obligation, but as one who shares a joy, signals a beautiful horizon, offers a desirable banquet' (*Ibid*., Point 14).
+Pope Francis said, "I take this opportunity to reiterate that 'everyone has the right to receive the Gospel. Christians have the duty to announce it without excluding anyone, not as one who imposes a new obligation, but as one who shares a joy, signals a beautiful horizon, offers a desirable banquet.' (*Evangelii gaudium*, Point 14).
 
-"Missionary conversion remains the principal goal that we have to set for ourselves as individuals, and also as a community, because 'missionary outreach is paradigmatic for all the Church\'s activity'" (*Ibid*., Point 15, as quoted in *Message for World Mission Day 2023*).
+"Missionary conversion remains the principal goal that we have to set for ourselves as individuals, and also as a community, because 'missionary outreach is paradigmatic for all the Church\'s activity'" (*ibid*., Point 15, as quoted in *Message for World Mission Day 2023*).
 
 We have to be thinking apostolate, dreaming apostolate, helping that apostolate to happen.
 
-St. Paul confirms, "The love of Christ captivates and impels us" (2 Cor. 5:14), *caritas Christi urget nos*--"The charity of Christ drives us on."
+St. Paul confirms, "The love of Christ captivates and impels us" (*cf*. 2 Cor. 5:14), *caritas Christi urget nos*--"The charity of Christ drives us on."
 
 This love is twofold: the love of Christ for us, which calls forth, and inspires, and arouses our love for Him. A love that makes the Church, in constantly setting out anew, ever young.
 
@@ -177,19 +177,19 @@ All of us have to think about how we\'re going to use the latter years of our li
 
 All of our members of the Church are entrusted with the mission of proclaiming the Gospel of Christ, in the conviction that "He died for all, so that those who live should no longer live for themselves," we\'re told in the Letter to the Corinthians, "but for him who died for them and was raised again" (2 Cor. 5:15).
 
-All of us can contribute to this missionary movement: with our prayers and activities, with material offerings and the offering of our sufferings, and also with our personal witness.
+"All of us can contribute to this missionary movement: with our prayers and activities, with material offerings and the offering of our sufferings, and (also) with our personal witness. ... The urgency of the Church\'s missionary activity naturally calls for an ever closer missionary cooperation on the part of all her members and at every level.
 
-The urgency of the Church\'s missionary activity naturally calls for an ever closer missionary cooperation on the part of all her members and at every level.
+"This is an essential goal of the journey that the Church has undertaken, guided by the key words: communion, participation, mission.
 
-This is an essential goal of the journey that the Church has undertaken, guided by the key words: communion, participation, mission.
+"This journey is certainly not a turning of the Church in upon herself; it\'s not a referendum about what we ought to believe and practice, nor a matter of human preferences.
 
-This journey is certainly not a turning of the Church in upon herself; it\'s not a referendum about what we ought to believe and practice, nor a matter of human preferences.
+"Rather, it is a process of setting out on the way and, like the disciples of Emmaus, listening to the \[risen Lord\]. For he always comes among us to explain the meaning of the Scriptures and to break bread for us, so that we can, by the power of the Holy Spirit, carry out his mission in the world.
 
-Rather, it is a process of setting out on the way and, like the disciples of Emmaus, listening to the \[risen Lord\], because He always comes among us to explain the meaning of the Scriptures and to break bread for us, so that we can, by the power of the Holy Spirit, carry out His mission in the world.
+"Just as the two disciples of Emmaus told the others what had taken place along the way (*cf*. Luke 24:35), so too our proclamation will be a joyful telling of Christ the Lord, his life, his passion, death, and resurrection, and the wonders that his love has accomplished in our lives.
 
-Just as the two disciples of Emmaus told the others what had taken place along the way (cf. Luke 24:35), so too our proclamation will be a joyful telling of Christ the Lord; His life, His passion, death and resurrection, and the wonders that His love has accomplished in our lives.
+"We need to set out once more, illumined by our encounter with the risen Lord and prompted by his Spirit" (*ibid*.).
 
-We need to set out once more, illumined by our encounter with the risen Lord and prompted by His Spirit. We should be always beginning again in our apostolate.
+We should be always beginning again in our apostolate.
 
 St. Josemaría in *The Forge* talks about how Lazarus must have heard and responded to the words of the Master: "Lazarus, come forth" (John 11:43).
 
@@ -199,7 +199,7 @@ But "he wanted to get out of the situation he was in" (Josemaría Escrivá, *The
 
 We should try to set out again with burning hearts, with our eyes open and our feet in motion, looking always for souls.
 
-We can ask again with burning hearts, ask Our Lord for those burning hearts, with our eyes open and our feet in motion.
+We can ask Our Lord again for those burning hearts, with our eyes open and our feet in motion.
 
 We want to set out to make other hearts burn with the Word of God, to open the eyes of others to Jesus in the Eucharist, and to invite everyone to walk together on the path of peace and salvation that God, in Christ, has bestowed upon all humanity.
 
@@ -215,13 +215,13 @@ Apart from His infinite love for all men, He openly showed His friendship with p
 
 He didn\'t deny the title of "friend" to Judas himself at the very moment when the latter was handing Him over to His enemies.
 
-He asked Peter after the denials, "Do you love me?" (John 21:15-17). 'Are you my friend? Can I rely on you?' And He gives him His Church: "feed my lambs...feed my sheep."
+He asked Peter after the denials, "Do you love me?" (John 21:15-17). 'Are you my friend? Can I rely on you?' And He gives him His Church: "Feed my lambs...feed my sheep."
 
 St. Josemaría says, "The risen Christ is our companion and friend. He is a companion whom we can see only in the shadows---but the fact that he is really there fills our whole life and makes us yearn to be with him forever" (J. Escrivá, *Christ Is Passing By*, Point 116).
 
 He who has partaken of our lives also wants to share in our burdens: "I will give you rest," He tells us (Matt. 11:28). He\'s the same one who ardently wishes us to share in His glory for all eternity.
 
-Christ is the friend who never betrays. When we go to Him or speak to Him, He\'s always ready to receive us. He awaits us with a welcome that is always the same, even though there may have been forgetfulness or coldness on our part. He always helps, encourages, and consoles us.
+Christ is the friend who never betrays, who, when we go to Him or speak to Him, He\'s always ready to receive us. He awaits us with a welcome that is always the same, even though there may have been forgetfulness or coldness on our part. He always helps, encourages, and consoles us.
 
 Friendship with Our Lord, which is born and grows through prayer and the worthy reception of the sacraments, helps us to understand better the significance of human friendship.
 
@@ -229,7 +229,7 @@ Scripture describes it as a treasure. In the Book of Sirach, we\'re told: "A fai
 
 The apostles learned the true meaning of friendship from Christ Himself.
 
-The Acts of the Apostles show us how St. Paul had many friends, whom he loved dearly. He misses them when they\'re not there. He\'s filled with joy when he gets news of them (cf. 2 Cor. 2:13).
+The Acts of the Apostles show us how St. Paul had many friends, whom he loved dearly. He misses them when they\'re not there. He\'s filled with joy when he gets news of them (*cf*. 2 Cor. 2:13).
 
 Early Christianity has left us testimonies of great friendships among our early brothers in the faith.
 
