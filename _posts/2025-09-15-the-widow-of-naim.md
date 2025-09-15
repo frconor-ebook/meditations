@@ -25,7 +25,7 @@ Our Lord is moved by this scene, possibly envisioning His own mother at His own 
 
 The evangelists are accustomed to pointing out Christ\'s reaction to suffering. On other occasions, we\'re told, "He had compassion for them, because they were harassed and helpless, like sheep without a shepherd" (Matt. 9:36).
 
-When a leper with great faith implores Our Lord\'s help, moved with pity, he stretches out his hand and he cured him" (cf. Mark 1:40-42).
+When a leper with great faith implores Our Lord\'s help, moved with pity, he stretches out his hand and he cured him" (*cf*. Mark 1:40-42).
 
 Many times, we\'re spoken to about how the merciful heart of Jesus reaches out to people.
 
@@ -35,21 +35,21 @@ In response to the insistent cries of two blind men, Jesus in pity touches their
 
 Our Lord, when He sees this widow, stops what He\'s doing, stops this whole procession of people that are going towards the town. Maybe He had many things to do in that town, or appointments, or many people to speak to. But all that can wait.
 
-Very often in Scripture Our Lord turns away from the crowds and focuses on the individual. God "reads the heart" (1 Sam. 16:7). He looks into broken hearts. He\'s interested in mending them.
+Very often in Scripture Our Lord turns away from the crowds and focuses on the individual. God "reads the heart" (1 Sam 16:7). He looks into broken hearts. He\'s interested in mending them.
 
-Fulton Sheen says when God allows hearts to be broken, it\'s because He wants to enter into them a little more (cf. Henry Dieterich,*Through the Year with Fulton Sheen*). To fix those hearts, we just have to give Him all the pieces.
+Fulton Sheen says when God allows hearts to be broken, it\'s because He wants to enter into them a little more (*cf*. Fulton Sheen, *Through the Year with Fulton Sheen*). To fix those hearts, we just have to give Him all the pieces.
 
 When they see this great humanity of Christ, it\'s not overawed by the crowds, or His schedule, or all the other things He has to do. He\'s focused on human persons.
 
 If we want to be more Christ-like, sometimes in our day we also have to stop what we\'re doing---all the busy things, all the exciting things, the buzz that may be going on around us---because we see a human heart that is broken or is suffering.
 
-St. Thomas Aquinas says, "Mercy is proper to God" (Thomas Aquinas, *Summa Theologiae*, II, II, Question 30). The mercy of God has its most perfect manifestation in Christ.
+St. Thomas Aquinas says, "Mercy is proper to God" (Thomas Aquinas, *Summa Theologiae*, Part II, II, Q30). The mercy of God has its most perfect manifestation in Christ.
 
 "Through his lifestyle and through his actions, Christ revealed that love is present in the world in which we live---an effective love, a love that addresses itself to man and embraces everything that makes up his humanity" (John Paul II, Encyclical, *Dives in misericordia*, Point 3, November 30, 1980).
 
-John Paul II liked to say that "mercy is another word for love" (*Ibid*., Point 7). We\'re called to show mercy in all sorts of moments, to be Christ-like as we reach out to the widows of Naim that may be around us.
+John Paul II liked to say that "mercy is another word for love" (*ibid*., Point 7). We\'re called to show mercy in all sorts of moments, to be Christ-like as we reach out to the widows of Naim that may be around us.
 
-"This love makes itself particularly noticed in contact with suffering, injustice, or poverty---in contact with the whole historical 'human condition,' which in various ways manifests man\'s limitation and frailty, both physical and moral" (*Ibid*., Point 3).
+"This love makes itself particularly noticed in contact with suffering, injustice, or poverty---in contact with the whole historical 'human condition,' which in various ways manifests man\'s limitation and frailty, both physical and moral" (*ibid*., Point 3).
 
 The Gospels inspire us to rely on the merciful Heart of Jesus in our every physical and moral petition. He awaits our loving plea.
 
@@ -81,27 +81,27 @@ You can imagine the joy of that widow to have her son returned. It\'s emphasized
 
 If the Lord is moved by a crowd which is hungry, how much more will He be moved to assist someone who has a spiritual affliction?
 
-We're told: "The Church lives an authentic life when she professes and proclaims mercy---the most stupendous attribute of the Creator and the Redeemer---and when she brings people close to the sources of the Savior\'s mercy, of which she is the trustee and dispenser" (John Paul II, Encyclical, *Dives in Misericordia*, Point 13, November 30, 1980).
+We're told: "The Church lives an authentic life when she professes and proclaims mercy---the most stupendous attribute of the Creator and the Redeemer---and when she brings people close to the sources of the Savior\'s mercy, of which she is the trustee and dispenser" (John Paul II, Encyclical, *Dives in misericordia*, Point 13, November 30, 1980).
 
 In a special way in this period of Lent, the Church extends her hands of mercy to the whole world.
 
 Often at this time, we see a photo of the Holy Father in a confessional box in St. Peter\'s, and previous popes before him, like a visual message, a visual beckoning to the whole world to come closer.
 
-This mission of mercy is realized when the Church leads people to "conscious and mature participation in the Eucharist and in the sacrament of Penance or Reconciliation. The Eucharist brings us ever nearer to that love which is more powerful than death" (*Ibid*.).
+This mission of mercy is realized when the Church leads people to "conscious and mature participation in the Eucharist and in the sacrament of Penance or Reconciliation. The Eucharist brings us ever nearer to that love which is more powerful than death" (*ibid*.).
 
 We could try to use these days of Lent to build up our faith in the Blessed Eucharist, preparing for Holy Thursday with each one of our receptions of Holy Communion, with each one of our Masses, so that we are going to come to a crescendo in the Holy Week, and use well this great time of spiritual bonanza.
 
-"It is the sacrament of Penance or Reconciliation that prepares the way for each individual, even those weighed down with great faults" (*Ibid*.).
+"It is the sacrament of Penance or Reconciliation that prepares the way for each individual, even those weighed down with great faults" (*ibid*.).
 
 We have to try and look around us. Who are those with broken hearts or broken souls? We have to try and reach out to them, push them a little bit closer.
 
-It\'s in that sacrament of Reconciliation that "each person can experience mercy in a unique way, \[that is,\] the love which more powerful than sin" (*Ibid*.).
+It\'s in that sacrament of Reconciliation that "each person can experience mercy in a unique way, \[that is,\] the love which more powerful than sin" (*ibid*.).
 
 Christ is very much present in today\'s world. He continues to have compassion on the crowd.
 
 No matter how far away we might find some individual in our circle of influence, we know that Christ is interested in that soul. He wants to stop in His tracks and turn towards that individual.
 
-He\'s most concerned about those individuals who are weighed down by the burden of their sins. To each of us He says, "Follow me."
+He\'s most concerned about those individuals who are weighed down by the burden of their sins. To each of us He says, "Follow me" (Matt. 4:19).
 
 He invites us to a deeper examination of conscience and to throw off the weight of sin, which is the only real evil in the world.
 
@@ -111,9 +111,9 @@ Through the sacrament of Confession, He cures the wounds caused by sin with His 
 
 It\'s the sacrament of divine patience, just like we see those pictures of the Holy Father in a confessional in St. Peter\'s, waiting. Waiting for souls.
 
-St. Josemaría encouraged all his priests to sit in the confessional and to wait. And to wait and to wait---to do your breviary, or your reading, or your preparing of classes or meditations---but to wait. And eventually, the souls will come (cf. Romana No. 49, *The Teachings of St. Josemaría for Priests*).
+St. Josemaría encouraged all his priests to sit in the confessional and to wait. And to wait and to wait---to do your breviary, or your reading, or your preparing of classes or meditations---but to wait. And eventually, the souls will come (*cf*. Romana No. 49, *The Teachings of St. Josemaría for Priests*).
 
-It\'s the sacrament of divine patience. This is where Our Father God awaits the return of the prodigal son. God acts through the sacrament of Penance.
+It\'s the sacrament of divine patience. This is where Our Father God awaits the return of the prodigal son (Luke 15:11-32). God acts through the sacrament of Penance.
 
 We could ask ourselves: How well do we appreciate the sacrament of mercy which Christ has given to us?
 
@@ -125,11 +125,9 @@ The sacrament not only frees us from sin but also strengthens us for our interio
 
 The mercy of God is limitless. As Christ stopped on the way into Naim, He stops for each individual soul.
 
-"Also infinite therefore is the Father\'s readiness to receive the prodigal children who return to his home." His mercy is inexhaustible. He\'s looking out every day and he sees the son coming when he was yet a long way off.
+"Also infinite therefore is the Father\'s readiness to receive the prodigal children who return to his home." His mercy is inexhaustible. He\'s looking out every day and he sees the son coming "when he was yet a long way off" (Luke 15:20).
 
-"Infinite are the readiness and power of forgiveness which flow continually from the marvelous value of the sacrifice of the Son. No human sin can prevail over this power or even limit it.
-
-"On the part of man only a lack of goodwill can limit it, a lack of readiness to be converted and to repent, in other words persistence in obstinacy, opposing grace and truth" (John Paul II, Encyclical, *Dives in Misericordia*, Point 13, November 30, 1980).
+"Infinite are the readiness and power of forgiveness which flow continually from the marvelous value of the sacrifice of the Son. No human sin can prevail over this power or even limit it. On the part of man only a lack of goodwill can limit it, a lack of readiness to be converted and to repent, in other words persistence in obstinacy, opposing grace and truth" (John Paul II, Encyclical, *Dives in misericordia*, Point 13, November 30, 1980).
 
 We ourselves are the only ones who can get in the way of the effectiveness of this divine medicine.
 
@@ -143,13 +141,13 @@ St. Josemaría recommended looking at Christ on the Cross or contemplating the s
 
 There are five conditions for a good Confession. Probably we learned them years ago.
 
-Examine our conscience and make a thorough review of our sins and bad habits, particularly the mortal sins that may be there.
+*Examine our conscience* and make a thorough review of our sins and bad habits, particularly the mortal sins that may be there.
 
-Secondly, try to foster a certain sorrow for sins, to be truly contrite, which involves a desire to be better.
+Secondly, try to foster a certain *sorrow for sins*, to be truly contrite, which involves a desire to be better.
 
-Have a purpose of amendment so that we have this desire not to sin anymore.
+Have a *purpose of amendment* so that we have this desire not to sin anymore.
 
-Then we have to go and actually confess those sins, to seek Christ\'s pardon in a personal encounter.
+Then we have to go and actually *confess those sins*, to seek Christ\'s pardon in a personal encounter.
 
 That\'s how the sacrament was instituted, by way of judgment: "Whose sins you shall forgive, they are forgiven, whose sins you shall retain, they are retained" (John 20:23). The priest has to make a judgment about the sorrow of the penitent.
 
@@ -159,11 +157,11 @@ If the person says, 'I murdered fifty people this week and I hope to God I will 
 
 The priest has to make a judgment. That\'s how the sacrament is instituted, and that\'s why we don\'t confess our sins directly to God.
 
-And then we can receive that liberating absolution. A man told me once, who had been a Protestant in his former life, how he really appreciated the sacrament of Confession.
+And then we can receive that liberating absolution. A man who had been a Protestant in his former life told me once how he really appreciated the sacrament of Confession.
 
-'Because,' he says, 'when you confess your sins to God it sounds very good, but you never really know if you\'ve been forgiven or not. But when I hear those words of absolution, I know that I walk out of here a free man.'
+"Because," he says, "when you confess your sins to God it sounds very good, but you never really know if you\'ve been forgiven or not. But when I hear those words of absolution, I know that I walk out of here a free man."
 
-The fifth condition for a good Confession is to do the penance, to fulfill the penance imposed by the confessor.
+The fifth condition for a good Confession is to *do the penance*, to fulfill the penance imposed by the confessor.
 
 As a general rule, it\'s very good to fulfill the penance immediately after the Confession, not to say 'I\'ll do it tomorrow' or 'I\'ll do it later' because you might forget.
 
@@ -181,13 +179,13 @@ But that short Confession can bring a great order in your life, in your family, 
 
 God\'s mercy is infinite. It\'s greater than His justice. He\'s the Father of mercy. He sees in secret and He wishes to reveal the mystery of His love.
 
-Modern man needs mercy. John Paul II said that "mercy is another word for love. ... One of the principal themes of Our Lord\'s preaching was mercy," in fresh aspects all the time. "Luke\'s Gospel is the Gospel of mercy" (cf. John Paul II, Encyclical, *Dives in misericordia*, Point 3, November 30, 1980).
+Modern man needs mercy. John Paul II said that "mercy is another word for love. ... One of the principal themes of Our Lord\'s preaching was mercy," in fresh aspects all the time. "Luke\'s Gospel is the Gospel of mercy" (*cf*. John Paul II, Encyclical, *Dives in misericordia*, Point 3, November 30, 1980).
 
 Christ reveals the content of the mercy of God. He wants that our lives will be guided by mercy and love. Christ is the model of mercy towards others.
 
 "The merciful shall obtain mercy" (Matt. 5:7). Mercy signifies a special power of love that prevails over sin.
 
-The subtleties of love become manifest in God\'s mercy. Mercy is a notion that pertains to God, but also to men. It\'s a sign of the closeness of man to God. "Contrasted with God\'s justice, it is more powerful and more profound" (cf. John Paul II, *Ibid*.).
+"The subtleties of love become manifest in God\'s mercy." Mercy is a notion that pertains to God, but also to men. It\'s a sign of the closeness of man to God. "Contrasted with God\'s justice, it is more powerful and more profound" (*cf*. John Paul II, *ibid*.).
 
 You could say that today God has thrown a party during which we can receive God\'s infinite mercy. He invites us to go to the party to receive His mercy, the eternal wedding feast.
 
@@ -195,11 +193,11 @@ You could say that today God has thrown a party during which we can receive God\
 
 Without sin, there is no mercy. St. Augustine says, "O happy fault!" (*Exultet*).
 
-Happy fault that original sin was, because "if Adam had not sinned, Christ would not have come," and man would not know the extent of God\'s love, of God\'s mercy, for him (Thomas Aquinas, *Summa Theologiae*, III, Question 1; Augustine, *De Verb.* *Apost*. Vii, 2).
+Happy fault that original sin was, because "if Adam had not sinned, Christ would not have come," and man would not know the extent of God\'s love, of God\'s mercy, for him (Thomas Aquinas, *Summa Theologiae*, Part III, Q1; Augustine, *De Verb.* *Apost*. Vii, 2).
 
-"It is proper to God to exercise mercy, and he manifests his omnipotence particularly in this way" (Thomas Aquinas, *Summa Theologiae*, II, II, Question 30).
+"'It is proper to God to exercise mercy, and he manifests his omnipotence particularly in this way' (Thomas Aquinas, *Summa Theologiae*, Part II, II, Q30). St. Thomas Aquinas\'s words show that God\'s mercy, rather than a sign of weakness, is the mark of his omnipotence" (Pope Francis, Bull of Indiction, *Misericordiae vultus*, Points 6, 25, April 11, 2015).
 
-"St. Thomas Aquinas\'s words show that God\'s mercy, rather than a sign of weakness, is the mark of his omnipotence." And so, we\'re invited "to live out in our daily lives the mercy which the Father continually extends to all of us" (Pope Francis, Bull of Indiction, *Misericordiae vultus*, Points 6, 25, April 11, 2015).
+And so, we\'re invited "to live out in our daily lives the mercy which the Father continually extends to all of us" (*ibid*.).
 
 "Christ is the Incarnation of Mercy," John Paul II says. "In Christ and through Christ, God also becomes especially visible in his mercy; that is to say, there is emphasized that attribute of divinity which the Old Testament, using various concepts and terms, already defined as 'mercy.'
 
@@ -209,15 +207,13 @@ That gesture, whereby He stops on His way into the town of Naim and reaches out 
 
 "To the person who sees it in him---and finds it in him---God becomes 'visible' in a particular way as the Father who is rich in mercy (Eph. 2:4)."
 
-John Paul II had an Encyclical early in his pontificate precisely with that title: "Rich in Mercy"--(*Dives in Misericordia)*.
+John Paul II had an Encyclical early in his pontificate precisely with that title: "Rich in Mercy" (*Dives in misericordia)*.
 
 "We need constantly to contemplate the mystery of mercy. It is a wellspring of joy, serenity, and peace. Our salvation depends upon it.
 
-"In the parables devoted to mercy, Christ reveals the nature of God as that of a Father who never gives up until He has forgiven the wrong and overcome rejection with compassion and mercy.
+"In the parables devoted to mercy, Christ reveals the nature of God as that of a Father who never gives up until he has forgiven the wrong and overcome rejection with compassion and mercy.
 
-"Mercy is the very foundation of the Church\'s life." She has an endless desire to show mercy.
-
-"All of her pastoral activity should be caught up in the tenderness she makes present to believers. ... The Church is commissioned to announce the mercy of God, the beating heart of the Gospel, which in its own way must penetrate the heart and mind of every person" (Pope Francis, Bull of Indiction, *Misericordiae vultus*, Points 2, 9, 10, 12, April 11, 2015).
+"Mercy is the very foundation of the Church\'s life." She has an endless desire to show mercy. "All of her pastoral activity should be caught up in the tenderness she makes present to believers. ... The Church is commissioned to announce the mercy of God, the beating heart of the Gospel, which in its own way must penetrate the heart and mind of every person" (Pope Francis, Bull of Indiction, *Misericordiae vultus*, Points 2, 9, 10, 12, April 11, 2015).
 
 Pope Francis has said: "But we know one thing: nothing is impossible for God\'s mercy! Even the most tangled knots are loosened by his grace. And Mary, whose 'yes' opened the door to God to undo the knot of the ancient disobedience, is the Mother who patiently and lovingly brings us to God, so that he can untangle the knots of our soul by his fatherly mercy.
 
@@ -225,7 +221,7 @@ Pope Francis has said: "But we know one thing: nothing is impossible for God\'s 
 
 "It is a mistake to say anything of the sort!" said the Holy Father. "All the knots of our heart, every knot of our conscience, can be undone.
 
-"Do I ask Mary to help me trust in God\'s mercy, to undo those knots, to change? She, as a woman of faith, will surely tell you: 'Get up, go to the Lord: he understands you.' And she leads us by the hand as a mother, Our Mother, to the embrace of Our Father, the Father of mercies" (Pope Francis, *Address*, October 12, 2013).
+"Do I ask Mary to help me trust in God\'s mercy, to undo those knots, to change? She, as a woman of faith, will surely tell you: 'Get up, go to the Lord: he understands you.' And she leads us by the hand as a Mother, Our Mother, to the embrace of Our Father, the Father of mercies" (Pope Francis, *Address*, October 12, 2013).
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
