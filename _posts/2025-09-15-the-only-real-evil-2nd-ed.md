@@ -1,0 +1,294 @@
+---
+layout: homily
+title: "The Only Real Evil (2^(nd) Ed.)"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+Venerable Fulton Sheen points out that "Our Lord spent thirty years of His life obeying, three years teaching, and three hours redeeming. But how did He redeem?"
+
+He says, "Suppose a golden chalice is stolen from an altar and beaten into a large ashtray. Before that gold can be returned to the altar, it must be thrown into a fire, where the dross is burned away; then the chalice must be recast, and finally blessed and restored to its holy use. Sinful man is like that chalice which was delivered over to profane uses" (Fulton J. Sheen, *The Fifteen Mysteries of the Holy Rosary*).
+
+In this meditation, we\'re going to talk about sin---sin which is the greatest evil, the only real evil.
+
+Many things are presented to us in this world as evils; not having money, unemployment, ill health, failing an exam, not having certain things that other people have.
+
+But none of these things are really evil, because none of these things can keep us out of heaven. The only thing that can keep us out of heaven is sin, and one of the great foundations of our whole faith is original sin.
+
+It\'s very important to believe in original sin---the sin of our first parents---because Christ has told us that He came to redeem us from sin. If there\'s no Adam and Eve, if there\'s no original sin, then there\'s no need for Christ to come. There\'s no need for the redemption. There\'s no need for Our Lady. There\'s no need for the Church.
+
+It\'s an example of how if you pull away one of the threads in the whole tapestry that goes to make up our faith, the whole tapestry comes away in your hand.
+
+When our first parents were placed in the garden of paradise, they were given four very specific gifts:
+
+The gift of immortality, whereby they didn\'t have to die. If they died, it\'s not revealed to us how they would have gone to heaven. Maybe they would have been taken to heaven like Our Lady was assumed into heaven, but we don\'t know, because it wasn\'t revealed. What we do know is that paradise was not heaven, because they did not see God face to face.
+
+St. Paul says, "By the sin of one man, death entered the world" (Rom 5:12). Death is a consequence of sin.
+
+The second great gift that they had was the gift of impassability. This is a word that comes from *patior* in Latin, or "to suffer."
+
+Impassability means our first parents never had to suffer. There were no thorns that stuck in their feet. They had no headaches. They had no difficulties on Monday morning or any sort of moral suffering either.
+
+When they were put in the garden of paradise, they were given the gift of immortality. When they lost that gift, that\'s when suffering came about. An awful lot of the conditions of the human person, of our situation in this world, can be explained by the consequences of original sin. Suffering is a consequence of sin.
+
+They had the gift of rectitude---the third gift. And by their passions, they were perfectly subject to their reason, which was perfectly subject to God.
+
+They were naked in the garden of paradise. This was not a problem because their passions were perfectly ordered.
+
+When they lost that gift, then their passions became disordered. They discovered their nakedness. Their eyes were opened after the temptation of the devil.
+
+Now they have to struggle to place order in their passions. Hence, we have to struggle to live the virtues of purity, chastity, modesty, virginity.
+
+It\'s a battle. We have to use all the human means and we need to use all the supernatural means---the grace of God that comes to us through the sacraments---that enable us to be able to lead noble, pure, and chaste lives.
+
+And fourthly, they had the gift of knowledge. They didn\'t have to study or read books to acquire knowledge. They had infused knowledge. Knowledge was infused into their minds.
+
+When they lost that gift, now man has to study with the sweat of his brow and work with the sweat of his brow. It\'s an uphill climb. It\'s a battle.
+
+But the good news is that Christ conquered death. He conquered sin.
+
+He has redeemed us. "Redeemed" is a word that comes from *reemo*, "I bought back." *Emo* is "to buy." He has bought back our salvation "with the price of his blood" (1 Cor. 6:20).
+
+The way that Christ redeemed us shows us the gravity of sin---how much sin hurts Our Father God---what an insult it is.
+
+We know there are venial sins and there are mortal sins.
+
+Venial sins make us less fervent in the service of God. They make us merit temporal punishment. They lead us more likely to commit other sins and eventually, because they weaken us, they lead us more likely over time to fall into mortal sin. Venial sin is like a sickness of the soul.
+
+Mortal sin---the word comes from *mors, mortis* in Latin, which means death---the death of the soul. The Church has pointed out very clearly what the major mortal sins are: missing Mass voluntarily on Sunday, getting drunk, taking drugs, stealing large amounts of money, and most things in the sexual area, because of the beauty and the truth of human love that are connected with human sexuality. It\'s a great insult to God when we use that faculty badly or wrongly.
+
+These are mortal sins. We should try and flee from mortal sins, from the devil himself. That\'s why we have to try and also to flee from "occasions of sin."
+
+Occasions of sin are any external circumstance that can lead us into sin---could be your phone, could be a movie, could be a person, could be a conversation. There are many different things.
+
+We all have different weaknesses. I need to identify, where is it that I am weakest and what things I need to avoid. The alcoholic has to plan out his journey coming home from work every day very carefully so that he doesn\'t go near sources of temptation.
+
+Each one of us has a kind of the weakness of the alcoholic. None of us can think we are strong.
+
+St. Paul has given us a great example of the thorn in the flesh. "Three times I asked God that he would take it away from me. But he said, 'My grace is sufficient for you'" (2 Cor. 12:7-9).
+
+No matter how sinful we are or how weak we are, how prone to fall we are, we can have a great confidence that we have the grace of God, and that makes us all-powerful. "I can do all things in him who strengthens me" (Phil 4:13).
+
+There is no need for us to lose our hope or our optimism in the face of sin. That is what the devil wants.
+
+Often, we have great faith in God. We need to have great "faith" also in the devil. He is like a lion ready to pounce (1 Pet. 5:8).
+
+He knows our weaknesses, and particularly, if we are trying to lead a noble, pure, holy, chaste life, we become a juicy target for the devil.
+
+He will want to throw everything at us that he can. He will fight like anything to knock us off our perch.
+
+Our Lord has forewarned us about the dangers of the devil. He speaks very clearly: "Depart from me, accursed ones, into the eternal fire prepared for the devil and his angels" (Matt. 25:41).
+
+The existence of the devil is a very clear part of Revelation.
+
+We are told he is like a serpent. He is furtive. He is sneaky. He is clever. He is very subtle, like a snake in the grass. You do not know when he is going to strike. He can be very silent for a while, and then suddenly he appears.
+
+We have to try and recognize that "I am a sinful man." These are rather beautiful words that Peter, in one of his few glorious moments, said to Our Lord: "Depart from me, O Lord, for I am a sinful man" (Luke 5:8).
+
+It is very good to recognize our sins. Examine our conscience, maybe with the help of something written, to ask ourselves questions. Go through the commandments:
+
+Have I told lies?
+
+Have I stolen anything?
+
+Have I wasted time?
+
+Have I respected my parents?
+
+Have I been kind and charitable to people around me?
+
+Have I done any physical damage, or moral damage, or emotional damage to other people?
+
+Have I sinned in the area of human sexuality?
+
+Have I overindulged in drink or food?
+
+The commandments can open our eyes to these realities: that "I am a sinful person" and that "I need to change."
+
+I heard somebody say once that often in the world today we are given a message that "poverty is misery." You get that message in many ways, in the movies and all sorts of places.
+
+"But you see," this person said, "that\'s only a half truth. If you go to the poorest areas of your town or city you may find some people who miserable. But you may find some people who are very happy also."
+
+Some people can learn to be very happy with what they have. Very often, poor children are the happiest children you can find, whereas if you go to the wealthiest areas of your city or town, you may not find people who are professing their happiness there either. You can find an awful lot of misery there.
+
+The most miserable person I know is the wealthiest person I know.
+
+This person was saying that it\'s only a half-truth to say that poverty is misery. It\'s much truer to say that misery is doing things that are wrong. Sin brings misery.
+
+Happiness comes from doing things that are right. Happiness comes from using our freedom well---from going towards heaven, and looking forward to that eternal wedding feast, and trying to make sure every hour and every day of our lives we can get there.
+
+When we make a left turn and a right turn here and there, that\'s when we become miserable. We lose our happiness.
+
+If you look at the Beatitudes, they say rather interesting things. "Blessed are the poor in spirit" (Matt. 5:3). "Blessed" is another word for happiness.
+
+"Blessed are you when men say all sorts of evil things against you. \... Rejoice and be glad, for you shall have your reward in heaven" (Matt. 5:11-12).
+
+Often happiness comes from trying to do the things that are right, thirsting after justice, irrespective of our material situation.
+
+In giving us the commandments, God has given us the pathway to happiness in this world. The greatest tragedy that can happen to us then is that we fall into sin; when we don\'t see sin as something that\'s 'not all that bad.'
+
+Sometimes children come and they ask you, "Father, is this a mortal sin?"
+
+Somehow, it\'s the wrong question, as though if it was a venial sin, it would be okay.
+
+"As long as I get to purgatory, I\'ll be okay." Some saints have said that the least pains of purgatory are greater than the greatest pains on earth (St. Thomas Aquinas, *Summa Theologiae*; St. Augustine, *The Enchiridion*; St. Alphonsus Liguori, *Prayer*; St. Catherine of Genoa, *Life and Doctrine*).
+
+It is well worthwhile avoiding purgatory. We have to try and focus on heaven.
+
+Sorrow for sin is not sorrow because we broke a law. When we break the law, often we\'re not sorry. We may be delighted that we got away with it, we weren\'t caught.
+
+Sorrow for sin is sorrow for having hurt someone we love. Therefore, we avoid anything that might offend them. Therefore, venial sin is something to be avoided, because it hurts the person we love.
+
+We could ask Our Lord in this time of prayer that we might develop a great sensitivity for venial sin---that we go in the opposite direction, make acts of virtue, live by the commandments, get to Confession frequently, live in a state of grace. That\'s how we can be happy.
+
+The Blessed Trinity is inside our soul---the Father, the Son, and the Holy Spirit.
+
+"We will come and make our abode in him" (cf. John 14:23). Our God, who is love (1 John 4:8,16), comes to live in our soul in grace. There\'s no greater way to live than that.
+
+If God isn\'t there, then the devil is there. If we are in a state of mortal sin, the devil is in our souls. That\'s why when we commit one mortal sin, it becomes much, much easier to commit more mortal sins. That's why we have to try and get out of the state of mortal sin as soon as possible, if possible within 24 hours.
+
+Fulton Sheen says, "Sinful man is like that chalice that was delivered over to profane uses. He lost his God-like resemblance and his high destiny as a child of God" (Fulton J. Sheen, *The Fifteen Mysteries of the Holy Rosary*).
+
+We are called to be a child of God, to live with that supernatural dignity. It\'s the highest calling that any creature can have.
+
+No animal has received that calling. That\'s why man is way above the animals. His dignity is much, much greater. Man is called "to have dominion over" the animals (Gen. 1:26).
+
+To live in the state of grace is to live as a child of God all the days of our life.
+
+There was a movie twenty or so years ago, I think it was called Dead Man Walking, and there\'s a moment where there\'s a nun who is counseling a man on death row who is about to be executed.
+
+She\'s counseling him, and talking to him every day, and trying to prepare him for his death, but also trying to prepare him for heaven and trying to convert him.
+
+There\'s a moment when she said to him, "Did you ever hear that you are a son of God?"
+
+The guy said, "Well, I\'ve been called a son of many things in my life but I have never been called a son of God."
+
+This is the great reality to which we have been called: to be a child of God, to live in the house of Our Father God all the days of our life.
+
+When we lose that God-like resemblance through sin and the high destiny God has given to us, that is the worst possible thing that can happen to us.
+
+That's why Our Lord has given us the sacrament of mercy, whereby we can go back to a priest and confess whatever sin it is that we have committed.
+
+We know that if we\'re sorry, we show contrition, we resolve to try not to do that again, we will always, always be understood, be treated with mercy, and receive absolution, so that we can walk out of the confessional a free man.
+
+A man who was a convert from Protestantism told me once---he used to come to Confession regularly---and he said, "You know Father, I love this sacrament."
+
+Sometimes people who convert to Catholicism have a greater appreciation of the gifts than those of us who have been reared in the Catholic faith. A lot are taking things for granted.
+
+He says, "I love this sacrament because when I walk out of this Confession, I know I am a free man." Beautiful words.
+
+He said, "When I was a Protestant, we used to have confession directly to God." And he said, "That sounds very good. But the trouble with that is that you never know whether you\'ve been forgiven or not."
+
+Our Father God, who forgives us our sins, is something wonderful. He doesn\'t just create us, He doesn\'t just give us so many different gifts and graces, but actually forgives us for the terrible things that we may do. This is something wonderful.
+
+"Because man is a sinful man, Our Blessed Lord," says Fulton Sheen, "took unto Himself a human nature"---He became man, "like us in all things but sin" (Heb. 4:15)---\"making that human nature stand for all of us. He plunged it into the fires of Calvary to have the dross of sin burned and purged away" (*Ibid*.).
+
+On the Cross, Christ won all the graces that we might ever need to wash away all the sins of all mankind for all time.
+
+If you ever want to appreciate in a deeper way the gravity of sin and how Christ suffered, pray the Way of the Cross. Go through all the sufferings that Christ endured, and that gives you an insight into how God looks at sin.
+
+"Then," says Fulton Sheen, "by rising from the dead, He became the new head of the new humanity, according to which we are all to be patterned" (*Ibid*.).
+
+A new humanity which is called to holiness, to live in the state of grace. Every time that we get grace into our soul, we get supernatural virtues of faith, of hope, and charity. We get all the gifts of the Holy Spirit: wisdom, understanding, counsel, knowledge, piety, fortitude, and fear of the Lord. We get great spiritual riches.
+
+I knew a man once who had lost everything that he ever had in his life. He had a primary school education and then he grew to be a great salesman.
+
+He eventually used to sell pots and pans. He knocked on the door of the president of the Ford Corporation in the city where he lived, not knowing who lived there, wanting to sell some pots and pans.
+
+He didn\'t get the wife as he expected, but he got the husband. The husband was very impressed with his sales pitch, so he invited him to sell cars. He said, "Come to my office on Monday morning and I\'ll start you off selling cars."
+
+He went to his office on Monday morning, and he started to sell cars, and he did very well. He graduated to selling Mercedes Benzes and eventually, he was importing Rolls Royce into his country and selling them in various different places.
+
+He made an awful lot of money, but then he made a big mistake. He gave a present to somebody in the government, which in that country was something you could not do.
+
+The government turned around and bankrupted him, and he lost everything. He lost his house, he lost his car, he lost his business, his wife very kindly left him, and at the age of 49, he developed stage four cancer of the lung.
+
+That\'s when I got to know him. He used to come to a class that I used to give downtown in that city and every so often.
+
+On one particular day, the class was about divine grace. That morning, I had seen a headline in the newspaper about a tycoon. I was a bit taken with the word "tycoon."
+
+Somehow the Holy Spirit led me to use that word in the class---that "when we\'re in the state of grace, we are spiritual tycoons," which is a rather graphic way of expressing the reality.
+
+This man who had lost everything in his life came into this class and he said, "I heard that I was a spiritual tycoon. I may have become a material pauper, I\'ve lost everything in my life, but I\'m a spiritual tycoon."
+
+He said, "I left that class repeating to myself frequently, I\'m a spiritual tycoon, I\'m a spiritual tycoon. I hadn\'t felt so good in years."
+
+A couple of months later, he got worse with his cancer, and he couldn\'t drive anymore. He got into a taxi one day and he found the taxi driver had rosary beads hanging around the mirror.
+
+He complimented the taxi driver for being so upfront about his Catholic faith and they got talking a little bit. The taxi driver said, "I see you\'re rather breathless. What\'s the matter?"
+
+He said, "I have cancer, I\'m a dying man."
+
+"And how did you get cancer?" He said," Too much stress." Stress doesn\'t give you cancer, but he thought it did.
+
+The taxi driver said, "You\'ve got to let it all go. You\'ve got to let it all out. You\'ve got to get rid of everything."
+
+This man said, "Well, I got rid of everything. I\'ve lost my business, my money, my house, my family, my health. I\'ve lost everything I ever had in this world."
+
+And the taxi driver said, "Well, you haven\'t lost Jesus, and Jesus hasn\'t lost you."
+
+This guy was very impressed by the words of the taxi driver. When he got out of the taxi, he called me on the phone and said, "Look, I've just had the same experience that I had in your class. I felt the Holy Spirit speaking to me, just like in the class where I heard I\'m a spiritual tycoon.
+
+"This taxi driver has given me the same message, reminding me that I\'m a spiritual tycoon. I think the Holy Spirit was speaking to me through this taxi driver."
+
+Then he said, "I think I don\'t need to attend your class anymore, because what I learned in your class, I can learn from taxi drivers."
+
+The Holy Spirit speaks to us in all sorts of ways, reminding us of this great spiritual wealth to which we have access. We are born into this new humanity that Christ has redeemed.
+
+Fulton Sheen says, "The cross reveals that unless there is a Good Friday in our lives, there will never be an Easter Sunday. Unless there is a crown of thorns, there will never be the halo of light. Unless there is the scourged body, there will never be a glorified one. Death to the lower self is the condition of resurrection to the higher self" (*Ibid*.).
+
+We have to die to ourselves. Every time that we go to confess our sins, we confess our miseries, our nothingness, the fact that we\'re made of clay. We humble ourselves in asking pardon from the instrument of Christ in the sacrament, the instrument of God\'s graces.
+
+It\'s a recognition that "I am nothing. I need the grace of God, because I want that 'condition of resurrection to the higher self.'"
+
+The world says to us, as it said to Him on the Cross: "Come down and we will believe" (Matt. 27:42).
+
+The world tries to ridicule sin, diminish it, tell us that it\'s not really all that bad, or it\'s not that serious, or it doesn\'t matter. The devil tries to water down the gravity of sin: "Come down off the cross and then we will believe."
+
+That's why the world more or less screams at the Catholic Church to change all her moral teachings. 'It\'s too difficult. It\'s too much of a challenge. I want to live according to my feelings and to give in to every craving, every whim, every obsession, and every addiction that may come my way.'
+
+Christ invites us to a tougher self, to reach for the stars, to inherit this great spiritual wealth.
+
+"But if He came down," says Fulton Sheen, "He would never have saved us. It is human to come down; it is divine to hang there" (*Ibid*.).
+
+Every time that you go to confess your sins, try to think for a moment of Christ hanging on the Cross, shedding His blood for all the ways that you have offended Him, which might not even be mortal sins or might not be venial sins.
+
+They might just be negligence, things we haven\'t cared enough about, not caring for the treasures that He has given to us, not appreciating the sacraments, or not appreciating the material things that He\'s given to us, or all the other faculties that He may have given to us, like our sight, or our hearing, or our limbs---talents that He hasn\'t given to other people.
+
+In this period of prayer where we\'ve tried to focus on sin, we could try to make a resolution to lead a better life, to distance ourselves from things that offend God.
+
+Fulton Sheen says, "There are two clear signs of the devil in the world: one is violence and the other is nudity" (Fulton J. Sheen, *The Devil*).
+
+It's very clear. Some people argue about pornography: soft porn, hard porn. Nudity is very clear. Pornography, of course, and giving into it, is also sinful. These are things we have to try and distance ourselves from.
+
+Someone said once that a venial sin is like a fly or like a mosquito. You may be able to brush it away; it might come back, but you can brush it away.
+
+But if you have twenty mosquitoes, twenty flies, you can't read, you can\'t eat, you can\'t do anything.
+
+That\'s why we need to go and get cleansed occasionally in the waters of blood that flow in the sacrament of Confession that washes away our sins.
+
+If we look at all the sins in the world, we could say, as one lady said to me once, "What have we done to our God? What have we done to our God?"
+
+Our God has been willing to die on the Cross and to create this river of grace whereby we can have our sins washed away.
+
+If you think of all the great waterfalls of the world---Victoria Falls, Niagara Falls---every time we go to the sacraments, we have the Niagara Falls of grace; a superabundance of grace that\'s there to wash away all our sins.
+
+But Our Lord asks us for our effort, for our struggle.
+
+We could try to make a resolution never to tell a lie for the rest of our lives. The devil is "the father of lies" (John 8:44). If we have to try and have a hatred for venial sin, then we have to have a hatred for all possible lies in our lives. It\'s a good way to start.
+
+Our Lady, who is the Mediatrix of All Graces---all the graces flow through her. She must be very happy when she sees us going to confess our sins, to begin again.
+
+She must be very happy when she sees us coming out of the confessional box, happy, and liberated, and clean, in order to begin again.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*VA*
