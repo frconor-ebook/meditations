@@ -1,0 +1,110 @@
+---
+layout: homily
+title: "Your One and Only Father"
+---
+
+By Fr. Conor Donnelly
+
+*(proofread)*
+
+In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
+
+My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.
+
+I am the good shepherd. The good shepherd lays down his life for his sheep ***(John 10:11-18)***. And in another place St Paul says, my little children, with whom I am again in travail until Christ is formed in you ***(Galatians 4:19).***
+
+On certain occasions, our Lord spoke to the crowds and to his disciples about the vanity of the Pharisees. They do all their deeds to be seen by men, he said. They love the places of honor and the best seats in the synagogues and salutations in the marketplaces and being called rabbi by men. But there is only one teacher and doctor who is Christ. And there is only one father who is in heaven, we\'re told in Saint Matthew ***(Matthew 23:7-10)***.
+
+John Paul II says *all wisdom springs from Christ. He is the teacher who saves, sanctifies, and guides, who lives, who speaks, rouses, moves, redresses, judges, forgives, and goes with us day by day on the path of history. The teacher who comes and will come in glory*. The teaching of the church is the teaching of Christ. Our teachers are to be measured according to the standard of the law.
+
+In like manner, says St. Paul, we say that there is only one heavenly Father, who is the source of all paternity in heaven and on earth **(Matthew 23:9)**. God enjoys the fullness of paternity. Earthly fathers participate in this paternity when they contribute to new life. Those people who foster faith in others also participate in this paternity.
+
+Saint Paul wrote to the Corinthians at Corinth as my beloved children, for though you have countless guides in Christ, you do not have many fathers. For I became your father in Christ Jesus through the gospel. I urge you then, to be imitators of me **(1Cor 4:15)**. Those believers knew quite well that in their emulation of Paul, they would be imitators of Christ. The apostle was a faithful reflection of the spirit of the master and of God\'s loving concern for them.
+
+The word *Father* can be used in a meaningful way not only to signify physical paternity but also spiritual paternity. And so the Roman Pontus is justly known as the common father of all Christians. Whenever we honor our physical parents or our spiritual parents, then we are giving honor and glory to God. Earthly fathers can reflect the divine paternity. So one very good way to live divine filiation is to honor our earthly parents.
+
+Saint Paul wrote to the Christians of Galatia with all the tenderness of a father and a mother. He knew the difficulties they were experiencing in their newfound faith. He suffered at his inability to look after those believers who live so far away. My little children, he said, with whom I am again in travail until Christ is formed in you ***(Galatians 4:19)***. He compares them to a child in the mother\'s womb. He felt a paternal responsibility for his children in need.
+
+The church teaches us that the people who foster our faith through preaching and baptism should also be seen as parents. We participate in the spiritual paternity of the many Christians whom we have helped to find Christ. Sometimes that formation entails suffering and fatigue. And this paternity increases to the degree of one\'s generosity.
+
+Saint Thomas Aquinas says, *God manifests his fatherhood to Christians like a teacher who instructs not only his disciples, but whoever is capable of understanding him*. This spiritual paternity is an important part of the earthly reward which God grants to those who respond to a divine vocation. He is generous. He returns a hundredfold. And this is true even of children.
+
+In the way, Saint Josemaría says, many deprive themselves of children for the sake of his glory. And they have thousands of children of their spirit. Children, as we are children of our Father in heaven.
+
+The Second Vatican Council, in *Lumen gentium*, says the Blessed Virgin exercises her maternity over Christians and over all mankind. Mary will teach us how to have a magnanimous soul, large enough for the many people we want to bring to her son.
+
+Let us remember, says St. Luke, furthermore, that merciful love also means the cordial tenderness and sensitivity so eloquently spoken of in the parable of the prodigal son **(Luke 15:11-32)**. Consequently, says John Paul in Dives in Misericordia, *merciful love is supremely indispensable between those who are closest to one another, between husbands and wives, between parents and children, between friends. And it\'s indispensable in education and in pastoral work.*
+
+Some words of Saint Ambrose are also very relevant. He says, *according to the flesh, there is only one mother in Christ. According to the faith, Christ is the fruit of all of us*. If we become identified with Mary and imitate her virtues, we will be able to bring Christ to life through grace in the souls of many who will in turn become identified with him through the action of the Holy Spirit.
+
+Saint Josemaría in Friends of God says, *if we imitate Mary, we will share in some way in her spiritual motherhood*. And all this silently, like our lady, without being noticed, almost without words, through the true and genuine witness of our lives as Christians and the generosity of ceaselessly repeating her fiat, which we renew as an intimate link between ourselves and God.
+
+Saint Paul identified himself with Christ and his teaching. I am the good shepherd we\'re told in Saint John **(John 10)**. The good shepherd lays down his life for his sheep. This explains, says Saint Paul, his anxiety for all the churches. He felt responsible for the many souls who had been converted through his preaching. He wanted to keep them on the right path. This was his constant preoccupation. It was also the cause of his gracious suffering. Who is weak and I am not weak, he says. Who is made to fall and I am not indignant?
+
+Saint Paul is an exemplary model for every pastor in the church. The Second Vatican Council called on all pastors to behave as fathers in Christ. They should take care of the faithful, it says, whom they have begotten by baptism and their teaching.
+
+Our love for those we have brought closer to God is not a mere superficial affection. It is the same love that the incarnate Son has for us. The Son has given it to us so that we might give it to others. What does the child\'s love for others generate in him? says one writer. The same desire as that of the son, their sanctification and salvation.
+
+This love will make us more concerned for others in their pursuit of sanctity. Good example, fraternal correction, when necessary, a word of encouragement, joy, optimism, good advice. Our friends should be able to count on our daily prayer and mortification.
+
+This paternal love, says John Paul II, always involves a special readiness to expend oneself and be poured out for the sake of those who come within one\'s range of activity. In marriage, this readiness, even though open to all, consists mainly in the love that parents have given to their children. In virginity, this readiness is open to all who are embraced by the love of Christ the spouse.
+
+In the case of virginity or apostolic celibacy, the Lord expands the heart of his disciple to a more profound capacity. Generosity to God does not put restrictions on the human heart, quite the contrary. This disposition enriches and ennobles the potential of our human nature. As we care for those around us, we become to understand the tender mercy which our Father God has given for us, has for us. This realization will help us to persevere in our struggle for holiness. We will find new strength to forge ahead.
+
+St. Joseph can teach us a great deal about how to look after others. John Paul II asks, *why should the fatherly love of Joseph not have had an influence upon the filial love of Jesus*? And vice versa. *Why should the filial love of Jesus not have had an influence upon the fatherly love of Joseph, thus leading to a further deepening of their unique relationship*? Those most sensitive, to the impulses of divine love have rightly seen in Joseph a brilliant example of the interior life. We can learn from the holy patriarch about how to grow in love for our neighbor.
+
+God never comes to the aid of his sons too late. He will never come too late to rescue us. Even when all seems lost, God will always be there at the right time, although it may be in secret and mysterious ways.
+
+In the way, St. Josemaría says, *thus, complete confidence in God while at the same time using all the human means available*, gives the Christian great fortitude and a special feeling of peace when he\'s up against the most painful events and circumstances. If you don\'t abandon him, he will not abandon you.
+
+And so we can tell God our Father in our prayer that we don\'t want to leave him, that we know that together with him every battle is a victory, even though at first sight it might seem like a defeat. At the very moment, said St. Josemaría in Friends of God, *when everything seems to be collapsing before our eyes, we realize that the opposite is true, because as we are told in the Psalms, because you, Lord, are my strength **(Psalm 28:7)**.*
+
+If God is dwelling in our soul, everything else, no matter how important it may seem, is accidental and transitory, whereas we and God stand permanent and firm. This is the medicine that we need to purge from our lives all fears, tensions, and anxieties.
+
+St. Paul comforted the first Christians in Rome, who faced a great panorama of many human difficulties. He comforted them with the words, if God is for us, who is against us?(**Romans 8:31)** He who did not spare his own son, but gave him up for us all, will he not also give us all things with him?
+
+And so St. Paul says, who shall separate us from the love of Christ? Shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword? No, in all these things, we are more than conquerors through him who loved us. For I am sure that neither death nor life, nor angels nor principalities, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation will be able to separate us from the love of God in Christ Jesus our Lord **(Romans 8:35-39)**.
+
+And so by vocation, a Christian is a person dedicated to God. And he\'s one who has accepted all that may happen to him as being permitted by him.
+
+On another occasion, our Lord taught the people around him about the loving care that God has for every creature. His listeners were simple and honest people who gave praise to the majesty of God, but who lacked that special confidence of children in God their Father.
+
+Probably, just as he was talking to them, a flock of sparrows came around pecking, pecking about for what they could pick up. Who would bother about a few sparrows? Perhaps the housewives of the village might sometimes buy for them a few pennies to flavor their ordinary meals. This was within reach of the most modest purse. They were of little value.
+
+But our Lord would indicate with the gesture while seeing to his audience, not one of these sparrows is forgotten before God **(Matthew 10:29)**. And so God knows everything. Not one of these falls to the ground without your Father knowing it. And our Lord goes on to give us confidence. He says, fear not, you are worth more than the host of sparrows **(Matthew 10:31)**. We are not creatures of the moment, but we are his children forever. How could HE not take an interest in our plans?
+
+*Fear not our God has given us life and he has given it to us forever*, said Saint Thomas. And our Lord says to us, *to you my friends, I tell you do not fear* **(Luke 12:4)**. Every man, Saint Thomas Aquinas says, no matter who he is, is God\'s friend and should have great confidence in being freed by him from any type of affliction. And as God helps his servants in a special way, he who serves God should live in great peace. There\'s only one condition, be friends of God and live as his children.
+
+So St. Josemaría says, *take your rest in divine filiation. God is a father full of tenderness, of infinite love*. In every aspect of our life, be it human or supernatural, our rest, our security has no firmer foundation than our divine filiation.
+
+Cast all your anxieties on him. St. Peter says to the first Christians, for he cares about you. And St. Thomas says, divine filiation cannot be considered as something merely metaphorical. It does not mean that God simply treats us as a father and expects us to treat him as sons. No, through the indwelling, sanctifying power of God, the Christian is a real son of God. This is such a profound reality that it affects man\'s very being to such an extent that St. Thomas declares that through it, man is made into a new being.
+
+Divine filiation is the foundation of freedom, the security, and happiness of the children of God. In it, man finds the protection he needs and the fatherly warmth and certainty in the future, which enables him to abandon himself without worrying about the unknown things that tomorrow may bring. It gives him the conviction that behind all the hazards of life, there always lies a very good reason, because we know, as St. Paul tells us, in everything, God works for the good.
+
+And St. Augustine comments, even our mistakes and our wanderings from the right path always end up well. For God arranges absolutely everything to his own advantage.
+
+The realization that one is a son of God produces in all the circumstances of the Christian\'s life an essentially loving approach to the world, which shows itself mainly in the virtue of faith. The person who knows themselves to be a son of God is always happy and never loses their peace of mind. This awareness frees him from useless stresses. And when out of weakness he goes wrong, if he really feels he is a child of God, he\'s able to turn to him again, confident of being well received.
+
+The thought of divine providence helps us to approach God, not as a cold, indifferent, and distant being, but as a father who\'s concerned for each one of us, and who has given us an angel to watch over us on our road through life. An angel like one of those who announced the birth of our Lord to the shepherds.
+
+The peace of mind which this truth brings about in our way of acting and living does not come from turning our back on reality. Rather, says St. Cyprian, it consists in viewing it optimistically because we always trust in God\'s help. This is the difference between us and those who do not know God. They in adversity complain and grumble. We on the other hand are not drawn away from virtue by the things that go against us, but are strengthened in it. Because we know that even the hairs of our head are numbered.
+
+And so we can always be at peace. If we really seek God, everything will be an occasion for improvement. And so we can make a resolution to go to our Lord in the Blessed Sacrament, whenever the contradictions, the difficulties, or the trials of life put us in danger of losing our happiness and peace of mind. We can also go to our Lady, to her whom we contemplate in a regular way. She will be our teacher always. She\'ll teach us how to conduct ourselves like children of God, even in the most difficult of circumstances.
+
+Our Father God is always our safeguard against the difficulties and temptations that we may have to undergo. We can win every battle with him at our side.
+
+The whole history of the incarnation opens with the words, do not be afraid, Mary. In the presence of the supernatural, there is often fear. But God comes to calm our fears. Likewise with Saint Joseph, do not be afraid Joseph, son of David. He\'s told to calm down. God comes to bring him peace. And also to the shepherds, the angel says, do not be afraid for I bring you good tidings of great joy which will be to all the people.
+
+This beginning of God\'s coming into the world marks a style proper to our Lord\'s presence among men. Later on when our Lord was crossing the Sea of Galilee, the boat was swamped by the waves. St. Mark puts this event in its proper context. It was the evening of the day on which our Lord had narrated the parables of the kingdom of heaven.
+
+The gospel explains that our Lord, tired out after hours of preaching, was asleep in the boat. The storm must have been tremendous because the disciples, accustomed as they were to the sea, nevertheless saw themselves in great danger. And they cried out for our Lord to save them. Lord save us for we perish.
+
+From the start, the apostles understood why our Lord was asleep. He must have been very tired not to have been awakened by the by the waves. They did everything in their power to avert the danger, rowing hard, bailing out the water. But gradually the storm began to get the better of them, and they were in imminent danger of sinking. There\'s a great sense of urgency in their words. Save us for we are perishing.
+
+The fears that we may experience often stem from the awareness that the security of our life is based on very weak foundations. In that case we\'re forgetting an essential truth, that God is our constant security. That doesn\'t mean that we are insensitive to events, but that we should have more confidence in using the human means at our disposal.
+
+We must never forget that close to God, even when he appears to be asleep, is to be safe. When we\'re confused or going through unpleasant times, God does not forget us. St. Teresa of Avila said, he never fails his friends.
+
+I thank you my God for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me. Amen..In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
+
+*UI.*
