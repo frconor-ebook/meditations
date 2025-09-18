@@ -45,9 +45,9 @@ So, listening implies more than just merely hearing the words the preacher speak
 
 Our Lord invites each one of us to listen, but also to let those seeds go deep, to take His words and His ideas in and let them shape our mind, our soul, and our heart.
 
-We're given the example in the Gospel of Judas, who heard all the seeds of the Word of God that the other apostles heard, but nothing penetrated. It was like water off a duck's back.
+We're given the example in the gospel of Judas, who heard all the seeds of the Word of God that the other apostles heard, but nothing penetrated. It was like water off a duck's back.
 
-There's a lot to be learned from Judas, about how to take that seed of the Word of God, which comes to us through our formation, through our Gospel reading every day, our spiritual reading, maybe through things the Holy Spirit says to us through people, through places, in the sacrament of Confession, in our retreat, in a recollection.
+There's a lot to be learned from Judas about how to take that seed of the Word of God, which comes to us through our formation, through our Gospel reading every day, our spiritual reading, maybe through things the Holy Spirit says to us through people, through places, in the sacrament of Confession, in our retreat, in a recollection.
 
 The Divine Sower is all the time sowing divine seeds in our soul, sometimes through the good example that we see in the life of virtue of the people around us.
 
@@ -89,7 +89,7 @@ Our Lord invites us to work the soil, the soil of our own hearts, bringing our h
 
 Sometimes you might see people about to plant something, but if the ground is full of stones or rocky, you've got to clear away the stones first.
 
-We turn over the soil with our acts of humility, our spirit of docility, and being eager to learn. In the way that we go to the norms of our plan of life on a daily basis and allow the Divine Sower, through our spiritual reading or through our prayer or a retreat, to sow all the wonderful seeds, like the treasure hidden in the field or the pearl of great price (Matt. 13:44-46).
+We turn over the soil with our acts of humility, our spirit of docility, and being eager to learn. In the way that we go to the norms of our *plan of life* on a daily basis and allow the Divine Sower, through our spiritual reading or through our prayer or a retreat, to sow all the wonderful seeds, like the treasure hidden in the field or the pearl of great price (Matt. 13:44-46).
 
 With this parable, Our Lord invites us to look inwards, to give God thanks also for our good ground and to work on the ground that's not yet good.
 
@@ -153,7 +153,7 @@ The thorns represent the seductions of the world: avarice, sensuality, complicat
 
 We have to cut back the brambles in our hearts, those that make idols out of worldly wealth or power, or only living for ourselves. Self-love can destroy a soul.
 
-We have to tear those things away; "otherwise, the Word \[cannot\] bear fruit" (*ibid*.).
+We have to tear those things away; "otherwise, the Word cannot bear fruit" (*ibid*.).
 
 In Our Lord's time, the typical farmer was poor. He didn't have seeds to waste. He'd be very careful not to let the seeds fall on thorny, rocky, or infertile soil.
 
@@ -189,7 +189,7 @@ Remind me of this often so that I can learn to let go of everything else, just a
 
 Help me to love you with all my heart. We should be ready to go anywhere, but especially to heaven. We're in the good hands of God.
 
-St. Jean-Marie Vianney prayed, \"My God, you have given me all; behold the little I give you. Give me the strength to give more" (Henri Gheon, *The Secret of the Curé d'Ars*).
+St. Jean-Marie Vianney prayed, "My God, you have given me all; behold the little I give you. Give me the strength to give more" (Henri Gheon, *The Secret of the Curé d'Ars*).
 
 These sentiments are sentiments of souls who deal a lot with the Holy Spirit. They're available. They're good soil.
 
