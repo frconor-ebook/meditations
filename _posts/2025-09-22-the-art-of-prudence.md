@@ -231,7 +231,7 @@ St. Joseph needed to have great prudence, also Our Lady, to make those right dec
 
 We can ask Our Lady that she might help us to grow in this virtue. We\'re told in the *Catechism* that Our Lady is the model of all the virtues (*cf*. *Catechism*, Point 829; Vatican II, *Lumen gentium*, Point 65, November 21, 1964).
 
-In the Litany we call her *Virgo prudentissima*. Notice the Latin superlative. She\'s not Our Lady with a little bit of prudence.*Prudentissima* means most prudent. Virgin most prudent.
+In the Litany we call her *Virgo prudentissima*. Notice the Latin superlative. She\'s not Our Lady with a little bit of prudence. *Prudentissima* means most prudent. Virgin most prudent.
 
 Mary, may you help us to grow in that virtue so that like you, we also might come to be most prudent.
 
