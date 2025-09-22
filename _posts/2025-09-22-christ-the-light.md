@@ -11,7 +11,7 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-We read in today\'s Gospel, "No one who has lighted a lamp covers it with a vessel and puts it under a couch, but he puts it on the lampstand, that they who enter may see the light. For there is nothing hidden that will not be made manifest, nor anything concealed that will not be known and come to light" (Luke 8:16-17).
+We read in today's Gospel, "No one who has lighted a lamp covers it with a vessel and puts it under a couch, but he puts it on the lampstand, that they who enter may see the light. For there is nothing hidden that will not be made manifest, nor anything concealed that will not be known and come to light" (Luke 8:16-17).
 
 I find the word "light" appears twice in this short passage. The Gospel of St. John is often called the Gospel of Light. It's an interesting word that appears in Scripture. It was full of significance.
 
@@ -33,11 +33,11 @@ The light comes in very specific ways. Christ is the light. Other people are not
 
 That light manages to shine where God wants it to shine and where people want it to shine.
 
-"Waters pass through the mountains (Ps. 104:10). There may be difficulties for that light to penetrate to all beings, but somehow the light gets through.
+"Waters pass through the mountains" (Ps. 104:10). There may be difficulties for that light to penetrate to all beings, but somehow the light gets through.
 
 Fr. Joe Barbendreier recently got a letter from a man in Nakuru who said that he went to a stall one day to buy some chips, and the chips were wrapped in the Sunday Nation. He sat down to eat his chips, and he opened up the piece of paper, and there was the homily of Fr. Joe Barbendreier in that piece of paper.
 
-While he ate the chips he was reading his homily. He said, "I was so impressed with the homily. It was so good that I decided to write to you to tell you how much I enjoyed your homily."
+While he ate the chips he was reading his homily. He said, "I was so impressed with the homily. It was so good that I decided to write to you to tell you how much I enjoyed your homily.
 
 "And it was so good that I decided to buy more chips." Sometimes the light comes flavored with salt and vinegar.
 
@@ -69,9 +69,9 @@ Every day of our life we try to walk in that light and shed that light, not just
 
 There are different strengths of light. Some give off a lot of light, some may be fading a little bit, some of the bulbs might be gone.
 
-Our Lord wants us to have our light burning brightly, our lamp, and on top of the lampstand. He doesn\'t put it under a couch, but he puts it on the lampstand, that they who enter may see the light.
+Our Lord wants us to have our light burning brightly, our lamp, and on top of the lampstand. He doesn't put it under a couch, but he puts it on the lampstand, that they who enter may see the light.
 
-People are looking for that light and they might be far away, but light shines in the darkness and in the distance, brings a ray of hope into people\'s lives. Hope can be a source of power.
+People are looking for that light and they might be far away, but light shines in the darkness and in the distance, brings a ray of hope into people's lives. Hope can be a source of power.
 
 Hope gives us power, gives all the people power, and all that comes from the light.
 
@@ -89,7 +89,7 @@ St. John says, "He that says he is in the light and hates his brother is in dark
 
 We are known and seen that we speak the truth, speak serious things. People around us should realize that there is something different in the things that we say, something different about the atmosphere around us: the fragrance of the truth, the true light that lights up the world.
 
-Those that don\'t walk in the truth are somehow on the opposite. Christ gave in Judas that morsel of the last supper, and we are told that "he went out immediately. And it was night" (John 13:26-30).
+Those that don't walk in the truth are somehow on the opposite. Christ gave in Judas that morsel of the last supper, and we are told that "he went out immediately. And it was night" (John 13:26-30).
 
 Darkness fell over the whole of the world. The dark night of humanity. Sin had begun to do its work.
 
@@ -119,35 +119,35 @@ When we spend time in prayer, then we reflect the light of Christ. Somehow, some
 
 Some years ago, there were explorers in Alaska, and they discovered far back in the mountain a lake whose waters were always warm, even in the coldest winter months. You could catch plenty of fish there because the water was always cozy---cozy enough to swim in.
 
-This strange lake hundreds of miles from the ocean, that\'s far away back in the mountains, but somehow there was an underground channel that was constantly feeding it and keeping it warm.
+This strange lake hundreds of miles from the ocean, that's far away back in the mountains, but somehow there was an underground channel that was constantly feeding it and keeping it warm.
 
 It was a real oasis of warmth and life amid the desolation of the Arctic winter.
 
-Christ is like that lake. He\'s trustworthy. He\'s the fulfillment of His Father\'s promises. No matter how much this fallen world may cause us to suffer, no matter how cold the world may get, His love never weakens. His goodness never freezes over.
+Christ is like that lake. He's trustworthy. He's the fulfillment of His Father's promises. No matter how much this fallen world may cause us to suffer, no matter how cold the world may get, His love never weakens. His goodness never freezes over.
 
-We all just have to draw close to the light. He\'d bring a new warmth, a new light into our life.
+We all just have to draw close to the light. He'd bring a new warmth, a new light into our life.
 
-The apostles whom Our Lord calls "the light of the world" (Matt. 5:14) were his friends. He entrusted that light to them to spread to the whole world. He gave them a series of ideas.
+The apostles whom Our Lord calls "the light of the world" (Matt. 5:14) were His friends. He entrusted that light to them to spread to the whole world. He gave them a series of ideas.
 
 The apostles enlightened the world with the Gospel. Our Lord continues to want to spread the Gospel through a few people. Down through history, Our Lord has always counted on a small few to bring His light to the world, just as in Bethlehem: the Magi, the shepherds.
 
 Now we are called to bring that truth and light to a certain small group of people in this talk, in that Circle, in that recollection, in this retreat, little by little, functioning with small groups.
 
-If we are to be that light for others in all circumstances, we have to be close to Our Lord, taking care of our formation, those clear doctrinal ideas that Christ gave to His apostles, and He\'s now entrusted to us.
+If we are to be that light for others in all circumstances, we have to be close to Our Lord, taking care of our formation, those clear doctrinal ideas that Christ gave to His apostles, and He's now entrusted to us.
 
-He continues to be a light on the cross and in the tabernacle. Our job is to lead others to the light, so they don\'t get lost in the dark periods of their life.
+He continues to be a light on the cross and in the tabernacle. Our job is to lead others to the light, so they don't get lost in the dark periods of their life.
 
 If ever we go through a bit of a dark period, we know the light is always there. And we know the true light.
 
 Pope Francis has talked a little bit about the light that the world can offer us: flashing lights, but which are often "artificial lights."
 
-"Those lights," he says, "may be very bright." Sometimes they may seem to be brighter than the light of Christ, but they\'re somehow passive. They\'re bright like festive fireworks, he says, "bright like the flash of a camera" (Pope Francis, *Homily*, Sept. 3, 2013).
+"Those lights," he says, "may be very bright." Sometimes they may seem to be brighter than the light of Christ, but they're somehow passive. They're bright like festive fireworks, he says, "bright like the flash of a camera" (Pope Francis, *Homily*, Sept. 3, 2013).
 
-Instead, the light of Christ is meek. It\'s calm. It\'s a peaceful light. Our God is the God of peace.
+Instead, the light of Christ is meek. It's calm. It's a peaceful light. Our God is the God of peace.
 
 That light was there on the first Christmas night, without any pretense. It offers and gives peace. "My peace I give you, my peace I bring to you" (John 14:27).
 
-It\'s a meek light with the power of meekness. It\'s a light that speaks to the heart. It\'s also a light that offers the cross. It doesn\'t move us to run away from the cross.
+It's a meek light with the power of meekness. It's a light that speaks to the heart. It's also a light that offers the cross. It doesn't move us to run away from the cross.
 
 In the Preface of Christmas (III), it says, "Today in him a new light has dawned upon the world"---Christ is always bringing new light. "God has become one with humanity, and we have become one again with God."
 
@@ -155,7 +155,7 @@ The hymn of the carol, *Silent Night*, talks about "radiant beams from thy holy 
 
 The theology of the body, reflected in the Christmas Preface, says, "In the wonder of the Incarnation your eternal Word has brought to the eyes of faith a new and radiant vision of your glory. In him we see our God made visible and so are caught up in love of the God we cannot see."
 
-We don\'t have to worry about the evil things that may appear in the world, or the pieces of news, or currents of thought, or practices that may be coming with all their unattractive force, because we know that we have the light, we have the truth.
+We don't have to worry about the evil things that may appear in the world, or the pieces of news, or currents of thought, or practices that may be coming with all their unattractive force, because we know that we have the light, we have the truth.
 
 God can overcome everything.
 
@@ -165,7 +165,7 @@ The human body, said John Paul II, becomes important if the Word became flesh. W
 
 The only way, he says, to encounter the truth of our humanity is to encounter the Word made flesh.
 
-When we encounter the light, we encounter the truth of our humanity, the truth of every human person, where we\'ve come from, where we\'re going, and what life is all about.
+When we encounter the light, we encounter the truth of our humanity, the truth of every human person, where we've come from, where we're going, and what life is all about.
 
 The Word took on flesh, he says, not just for a time, but for eternity.
 
@@ -177,7 +177,7 @@ Every person is important---the basis of the social teaching of the Church is th
 
 "You are the light of the world. A city seated on a mountain cannot be hidden" (Matt. 5:14-15).
 
-We\'re meant to make this light shine, to bring it to all sorts of places. We have to look for ways and means of making that light shine. We can put it on the lampstand so that they who enter may see the light.
+We're meant to make this light shine, to bring it to all sorts of places. We have to look for ways and means of making that light shine. We can put it on the lampstand so that they who enter may see the light.
 
 Jesus, give me ideas on how we can spread your truth: perhaps in my one-on-one individual conversation with this person or that person, maybe in a letter I might write to a newspaper, or a phone call I might make to a radio program, or an article I might write with the passage of time.
 
@@ -199,21 +199,21 @@ We may come to Him and bring Him gifts, and then in the new year, we should go w
 
 In the course of our life and vocation, we need to grow more in the light, taking care of our doctrinal formation, assimilating a little better the truths that are presented before us, the things we read.
 
-Pope Benedict says, \"When there is no truth, there is no justice." Great things depend on that truth, on that light.
+Pope Benedict says, "When there is no truth, there is no justice." Great things depend on that truth, on that light.
 
 We live in a modern culture where one of the common ideas is that we should abolish truth because as soon as we have truth, we impose it on others.
 
-In the States they talk about, "We don\'t want any moral absolutes. We don\'t want people telling us that certain things are always wrong because we don\'t want to be hedged in any way."
+In the States they talk about, "We don't want any moral absolutes. We don't want people telling us that certain things are always wrong because we don't want to be hedged in any way."
 
 But the truth is a pathway to the light. It shows us the way to live, it shows us the path to eternity, to the eternal wedding feast.
 
-G.K. Chesterton says, "The truth is, of course, that the curtness of the Ten Commandments is evidence, not of the gloom and narrowness of religion, but, on the contrary of its liberality in humanity. It is shorter to state the things forbidden than the things permitted; precisely because most things are permitted, and only a few things are forbidden."
+Chesterton says, "The truth is, of course, that the curtness of the Ten Commandments is evidence, not of the gloom and narrowness of religion, but, on the contrary, of its liberality and humanity. It is shorter to state the things forbidden than the things permitted: precisely because most things are permitted, and only a few things are forbidden" (G. K. Chesterton, *Illustrated London News*, January 3, 1920).
 
 The Ten Commandments shed a great light on the world, a pathway to happiness.
 
-Misery comes from doing things that are wrong. Happiness comes from doing things that are right.
+Misery comes from doing things that are wrong. Happiness comes from doing things that are right. The Ten Commandments show us the pathway to happiness.
 
-The Ten Commandments show us the pathway to happiness. St. Josemaría liked to say, "The whole apostolate of Opus Dei can be summed up in one idea: to give doctrine." We try and clarify wrong ideas, we try and promote the truth, and give that light.
+St. Josemaría liked to say, "The whole apostolate of Opus Dei can be summed up in one idea: to give doctrine." We try and clarify wrong ideas, we try and promote the truth, and give that light.
 
 A Roman educator, Quintilian, in the early centuries, says that clarity of expression lights up the beauty of the world.
 
@@ -225,67 +225,65 @@ St. Josemaría was always writing down little words or phrases that he came acro
 
 In get-togethers and conversations with other people, we can always be on the lookout for attractive words and phrases that can be useful.
 
-"To explain mankind\'s most elevated thoughts," somebody said once, "was the great gift of Western philosophy\'s founding fathers, Socrates and Plato." We\'re involved in explaining mankind\'s most elevated thoughts.
+"To explain mankind's most elevated thoughts," somebody said once, "was the great gift of Western philosophy's founding fathers, Socrates and Plato." We're involved in explaining mankind's most elevated thoughts.
 
 Hence, the importance of words and phrases, building up our vocabulary to bring that light of truth to many people.
 
-It\'s interesting if we know certain buzzwords in tune with modern society to get our message across attractively, so that beauty is truly beautiful.
+It's interesting if we know certain buzzwords in tune with modern society to get our message across attractively, so that beauty is truly beautiful.
 
 People find the right words and phrases to say things. The truth is often in exposing wrong ideas or wrong phrases.
 
 That work of formation is a work of love. We do very little for the Church for not working at that formation, appreciating it, transmitting it.
 
-We get a serious formation in Opus Dei to make a serious contribution to the world and society. We\'re not fly-by-nights.
+We get a serious formation in Opus Dei to make a serious contribution to the world and society. We're not fly-by-nights.
 
-It\'s a great gift. We\'re involved in the apostolate of light. We have this constant doctrinal formation.
+It's a great gift. We're involved in the apostolate of light. We have this constant doctrinal formation.
 
 "The truth is not afraid of questions," somebody said once. "The question is, 'Are you afraid of the truth?'"
 
 It seems a pity when children are afraid of the dark. "The great tragedy," said Plato, "is when men are afraid of the light." We come to share a great light, a light that lights up the world in all sorts of ways.
 
-There\'s a danger of weeds, of wrong ideas. G.K. Chesterton says, "Fallacies do not cease to be fallacies just because they become fashionable."
+There's a danger of weeds, of wrong ideas. G. K. Chesterton says, "Fallacies do not cease to be fallacies just because they become fashionable" (G. K. Chesterton, *Illustrated London News*, April 19, 1930). Any wrong ideas or wrong things can easily become fashionable.
 
-Any wrong ideas or wrong things can easily become fashionable.
+We're involved also in the apostolate of fashion; also in ideas, ways that people express things that can look very cool or very trendy but may hide wrong ideas.
 
-We\'re involved also in the apostolate of fashion; also in ideas, ways that people express things that can look very cool or very trendy but may hide wrong ideas.
-
-Cardinal Newman liked to say that bad practice is based on confused and false principles. It\'s often by bitter experience that we finally see the truth.
+Cardinal Newman liked to say that bad practice is based on confused and false principles. It's often by bitter experience that we finally see the truth.
 
 Some people have to go through very rough periods in their lives before they see the truth, before they come to the light. It can be a pretty rough road.
 
 God has given us the grace to know a lot about these truths and these lights at an early stage.
 
-The *Catechism of the Catholic Church* says, "Strengthened by this mission, the apostles 'went forth and preached everywhere, while the Lord worked with them and confirmed the message by the signs that attended it' (Mark 16:20)" (*Catechism*, Point 2).
+The *Catechism of the Catholic Church* says, "Strengthened by this mission, the apostles 'went forth and preached everywhere, while the Lord worked with them and confirmed the message by the signs that attended it (Mark 16:20)'" (*Catechism*, Point 2).
 
 The Lord has said some very dynamic words to us to spread the light:
 
 "Put it on the lampstands. Have your lamp burning brightly" (Luke 12:35).
 
-\"Take oil in your lamps" (Matt. 25:4).
+"Take oil in your lamps" (Matt. 25:4).
 
-Use the opportunity. Every retreat, every annual course, every talk we attend---there\'s always something to learn.
+Use the opportunity. Every retreat, every annual course, every talk we attend---there's always something to learn.
 
-In the *Furrow*, we\'re told that wise people realize there\'s always something to learn. If they didn\'t, they would "cease to be wise" (Josemaría Escrivá, *Furrow*, Point 272).
+In the *Furrow*, we're told that wise people realize there's always something to learn. If they didn't, they would "cease to be wise" (Josemaría Escrivá, *Furrow*, Point 272).
 
-Every person, every child, everything we read, every encounter---we\'re always learning, because we know the Holy Spirit is always active.
+Every person, every child, everything we read, every encounter---we're always learning, because we know the Holy Spirit is always active.
 
 "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. Know I am with you always, to the close of the age" (Matt. 28:19-20).
 
-This apostolate of spreading the light is a continuous apostolate. It doesn\'t cease at any moment, at any time of our life, until our dying day.
+This apostolate of spreading the light is a continuous apostolate. It doesn't cease at any moment, at any time of our life, until our dying day.
 
 We can always be spreading that light with our words, with our truth, with our example. In that way, we become credible witnesses of His presence in the world. We give off light in the darkness that may surround us.
 
-Our cultural formation is also very much involved in this. Things we read in our spare time---we\'re encouraged to read good things. We may have very little time to read, but then it's all the more important that we read good things; expose ourselves to good things, good ideas.
+Our cultural formation is also very much involved in this. Things we read in our spare time---we're encouraged to read good things. We may have very little time to read, but then it's all the more important that we read good things; expose ourselves to good things, good ideas.
 
-When St. Paul went to Athens, he went to the Areopagus, sort of the crossroads of society, where people were saying all sorts of things, because that\'s where he wanted to influence (Acts 17:16-34).
+When St. Paul went to Athens, he went to the Areopagus, sort of the crossroads of society, where people were saying all sorts of things, because that's where he wanted to influence (Acts 17:16-34).
 
-As laypeople in the middle of the world, we\'re also meant to be at the crossroads of society.
+As laypeople in the middle of the world, we're also meant to be at the crossroads of society.
 
 Pope John Paul II has liked to say the world of communications is the crossroads of modern society (John Paul II, Apostolic Letter, *Il rapido sviluppo (The Rapid Development),* Jan. 24, 2005).
 
 We could ask Our Lady that we might give great importance to this word "light" that we see frequently coming up in the Gospel.
 
-"No one who has lighted a lamp covers it with a vessel, or puts it under a couch, but he puts it on the lampstand, that they who enter may see the light" (Luke 8:16).
+"No one who has lighted a lamp covers it with a vessel and puts it under a couch, but he puts it on the lampstand, that they who enter may see the light" (Luke 8:16).
 
 There you may be very much involved in this whole apostolate of giving off light. Help us to grow in the light.
 
