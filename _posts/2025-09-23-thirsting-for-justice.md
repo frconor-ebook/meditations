@@ -1,0 +1,290 @@
+---
+layout: homily
+title: "Thirsting for Justice"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"Blessed are those who hunger and thirst for justice, for they shall be satisfied" (Matt. 5:6).
+
+Occasionally in Scripture, Our Lord talks about justice. It's one of the cardinal virtues, a hidden virtue on which many other virtues depend.
+
+The virtue of religion is part of the virtue of justice. We give God His due.
+
+"Every day we interact with people in different capacities and relationships. In order to ensure that those interactions go smoothly, human beings have developed rights and obligations that each individual and community needs to recognize. The virtue of justice guides men in their quest to respect those boundaries and responsibilities" (Brett and Kate McKay, *The Virtuous Life: Justice*, *ff*., April 20, 2008).
+
+St. Thomas Aquinas defined justice as "the constant and perpetual will to render to everyone his due, to give to each person that to which they have a right" (*cf*. Thomas Aquinas, *Summa Theologiae*, Part II, II, Question 58).
+
+We diminish the virtue of justice if we tell a lie. It's against the dignity of the other person because they have a right to truth.
+
+Justice comes into play in all of our relationships with other people. It ensures that those who uphold laws, rules, and standards are awarded, and those who don't get punished.
+
+This has a lot of relevance within the family. Every family or every organization needs to have rules and regulations. Any club---tennis club, soccer club, golf club---needs to have rules and regulations.
+
+You don't ride your donkey across the tennis court, or you don't drive your car across the fairway of a golf course. There are things we do and things we don't do, because if we do the wrong things, that hinders other people's rights.
+
+Injustice occurs when somebody denies an individual or a group things that are due to them.
+
+To be a just person, one needs to develop knowledge of the rights and responsibilities that govern our work, our study, our family, our assignments, our country. Much of this knowledge is developed simply by interacting with others, and also begins at a very early age.
+
+Children have to learn justice at an early age. If you make a mess, you clean up your mess. If you break or damage something, you try and repair the damage. If you injure somebody, you've got to say you're sorry and you try to restore the damage in whatever way you can.
+
+If you make a promise, you keep it. And if you can't keep it, you try to make some sort of restitution for the negative consequences of your failure to keep your word.
+
+Restitution is also an important concept in justice. If we do some injustice or damage to other people, we have to make up for the damage that we've done.
+
+If somebody comes to a priest and says, "I stole 20 shillings," before he gives the absolution he has to ask the person, "Are you willing to give those 20 shillings back?" if that's possible.
+
+If it's not possible, "Are you willing to make a donation to a poor person or to the Church in some way?" But you need to be willing to make restitution. Otherwise, you cannot have your sins forgiven. It's a very, very basic concept.
+
+Everyone has a right to their good name. They have a right to their private property, if that property is not damaged or stolen.
+
+We damage justice by stealing, by telling lies, by gossiping about other people. We damage their dignity. The Fifth and the Seventh Commandments are very much tied up with justice.
+
+Our Lord also talks about our duties and justice towards the State. "Render unto Caesar the things that are Caesar's and to God the things that are God's" (Mark 12:17).
+
+We do justice to the State by obeying just laws. We do justice to any organization we belong to by obeying the rules and regulations of that particular organization.
+
+One time, somebody came to Our Lord and said, "Bid my brother divide the inheritance to me" (Luke 12:13).
+
+Now, Our Lord didn't allow himself to be drawn on this particular issue. He limited Himself to giving general criteria. He said, "Beware of all covetousness" (Luke 12:15).
+
+Often, God gives general criteria about right and wrong and leaves it to men, to governments, to parents, to school authorities to bring those general criteria and apply them to concrete situations.
+
+That's why there are laws in society or laws in a family. Different laws are needed in different situations.
+
+Dr. Martin Luther King liked to say, "Justice denied anywhere diminishes justice everywhere."
+
+As followers of Christ, we have to try and have a concern for justice.
+
+And when we find some injustice, we have to try and remedy that. Try and get involved, do something. Get involved in solving issues in society. Sometimes the greatest impediment to justice is apathy.
+
+That's why Our Lord says we have to hunger for justice, hunger and thirst for righteousness. Those who have that will be blessed. They shall have their fill (*cf*. Matt. 5:6).
+
+There are many things happening in the world that can produce righteous indignation. We have to try and educate ourselves about those things.
+
+Seek to know the truth. Know what's going on in society so that we can confront that injustice and teach our children and grandchildren to do the same thing.
+
+Situations of injustice have to bother us: when people don't have enough to eat, or don't have a place to stay in overnight, or don't have clothes.
+
+If we have excessive things in our family---clothes, food, whatever it may be, toys, things that we longer use---in justice we have to try and pass them on to other people. Giving things away to other people is not just charity. It's justice.
+
+If we have no use for something, we should give it away. All the goods of the earth have a universal destination, the *Catechism of the Catholic Church* tells us (Point 2402).
+
+All the material things we have, we have them on loan. God gives them to us to use for a while, but then He wants us to pass them on to other people so that they can get some use out of them.
+
+Giving things that we may need, or that cost us, that's charity. But giving away things that we don't really need, that's only justice.
+
+How do we grow in living this virtue? One way is to try and read classical works of literature. All the great books struggle with complex issues that require characters to exercise justice. We get ideas from them.
+
+It's a very good thing to cultivate in your children a sense of justice, which includes honesty, respect for other people's property. Socrates says, "Nothing is preferred before justice."
+
+If we try to keep abreast of current events, we'll see the amount of injustice around us. Possibly we don't have to travel to faraway places. We might find situations of injustice in our neighborhood, very close by. Some families who need something that we have, and they don't have.
+
+It might seem that we can do very little to remedy all the injustice in the world, but it is within our power to remedy small situations of injustice, where people don't have enough to eat, or enough clothes, or they have some basic necessity that is within our power to solve.
+
+This is one of the reasons why the Church encourages us to perform the corporal works of mercy. It's a very good habit every week or every month, in your family, to try and perform some corporal works of mercy.
+
+Expose your children to families who don't have what they have, and let them see how they're blessed in all sorts of ways.
+
+Teach your children to learn how to give. Modern culture often tells us that our greatest happiness is in *getting*. But often our greatest happiness is *in* *giving, in serving, in seeing what we can do for other people*.
+
+It's very important to develop a social consciousness and to implement that in all sorts of ways. For too many people, justice may never really go beyond words into the level of deeds.
+
+It's very good to teach your children to leave their comfort zone. That doesn't mean we have to travel to a faraway place, but possibly to an area close by, where people don't have what we have, that may be much closer to home than we may realize.
+
+Instead of complaining about the evils in society, we have to try and do something about it.
+
+Justice in our communications. If we're insincere with other people, we deny that other person the right to truth. If we gossip about another person, we blacken the name of that person, without allowing them the chance to defend themselves.
+
+Aristotle says, "All virtue is summed up in dealing justly."
+
+If the conductor on the bus or the *matatu* forgets to ask us for our fare, then we try and offer it to him.
+
+If the person gives us back too much change in the shop, we try to correct them and make sure they're not doing themselves an injustice.
+
+Justice in the workplace allows for many possibilities. A just employer will pay their employees what they deserve. A just CEO won't take a pay rise when his company loses money. And if the company makes more money, he'll try to spread some of that wealth down to the workers.
+
+A Christian employer will make sure the workers have enough time off. They won't just be concerned about their wages, but will go further to think about their family, their living conditions, their needs, their health, and make sure they have proper working conditions, and healthy and sanitary facilities.
+
+He'll be trying to improve standards all the time, without having any double standards. In that way, the whole workplace may become a place of formation. He won't get their employees to work overtime without pay, or to cheat them from benefits that they've earned.
+
+In turn, just employees won't cheat their employer by not working when they're paid to work. They'll be punctual, conscientious. They'll work at improving their competence. They'll meet deadlines, they'll be proactive, they'll have a service orientation. They'll use company money, and time, and resources responsibly and account for it.
+
+Justice in the public arena also becomes very important. If there are corrupt politicians, it may be because of the apathy of voters who don't voice an outcry as the ship of democracy slowly sinks.
+
+We have to try and make our voice heard, be involved, have an influence. The vocation of the laity is to order the temporal realities.
+
+If we can, we're called to try and be involved in public life. And even if we can't be involved, we need to have an influence. Read up on issues, get to know the truth of things, research matters, get involved in pro-life campaigns, justice for the unborn.
+
+Often you can hear people talking a lot about social justice, but there can be very little justice for the unborn.
+
+Standing on American soil one time, John Paul II had the audacity to say that there is no true democracy when there is no democracy for the unborn (*cf*. John Paul II, Encyclical, *Evangelium vitae*, Point 101, March 25, 1995). He called out the most powerful country in the world that prides itself on being democratic.
+
+We need to get involved in campaigns to help the problems of the homeless or the elderly, or to go door to door sometimes spreading a message, put out a sign someplace, or form activist groups, distribute leaflets at school.
+
+Nothing will ever change unless men start caring. Aristotle said, "It is in justice that the ordering of society is centered."
+
+In the Christian sense, we have to try and foster a certain justice for the underprivileged---the underprivileged socially, economically, morally, intellectually, physically, spiritually.
+
+We can be very proud of what Catholic missionaries have done in the history of the Church.
+
+Here in Kenya, some ladies came in 1921 and set up the first school for girls in East Africa---the first school for African girls. There was one school for white Protestant girls, but none for black girls, for Catholic girls.
+
+These ladies turned around and built a school. Those Loreto nuns set up many other schools, then later on, the whole educational system of the country.
+
+We can be very proud of our Church, because of all that our Church has done to remedy injustice.
+
+I heard an elderly missionary, 95 years old, saying recently that he was the first missionary to a very remote part of Kenya. When he went there in 1952, he said, "There was no education, no medication, and no Revelation."
+
+Over the next twenty-five years, his whole life and vocation was about remedying those situations. They now have wonderful schools, a wonderful hospital, and plenty of conversions.
+
+Our faith teaches us to remedy situations of injustice. We can ask Our Lord in our prayer to help us to see what we can do in concrete ways.
+
+Another way to exercise justice is to stand up for individuals who may be abused physically, mentally, emotionally by others. When we start paying attention, we'll begin to realize the amount of injustice that there is in the world.
+
+One great way to alleviate poverty is by funding microloans to enable people in developing countries to start small businesses and to encourage others to be generous with what they have.
+
+We have to try and help people to find a cause they're passionate about and donate a percentage of their income to it. It can be anything: the environment, a political organization, a charity.
+
+Donating money to a cause or an organization is a reflection of a person's values. It's a chance for people to put their money where their mouth is. So, a very good apostolate in this area is *the apostolate of asking*.
+
+All the centers of Opus Dei have a social function. They serve the cause of justice in society, because often they address the real problem, which is a problem of formation.
+
+Forming people. Spreading good ideas. Forming future citizens, future Christians, future saints. The domestic Church is all about forming future saints.
+
+John Paul II said, "Every person lives and dies with a certain sense of an insatiable hunger for justice, since the world is not able to satisfy fully a being created in the image of God, either in the depths of his person or in the various aspects of his human life" (John Paul II, *Address*, Point 2, November 8, 1978).
+
+This is something that has to bother us all throughout our lives. And even in the elderly years, there may be a time when we can do more for justice than in other moments.
+
+Possibly we might be incapacitated, we might not be very mobile, but with our encouragement, with our words, with our material means, we might be able to have a huge influence.
+
+He continues, "And thus, by means of this hunger for justice, man turns to God, who is 'justice itself.' Jesus expressed this very clearly and concisely in the Sermon on the Mount, when he said, 'Blessed are those who hunger and thirst for righteousness, for they shall be satisfied (Matt. 5:6)'" (*ibid*.).
+
+This virtue is about "the constant and perpetual will to give to each one his due" (Thomas Aquinas, *Summa Theologiae*, II, II, Question 58).
+
+In *Friends of God*, St. Josemaría said, "I would, however, go further and say that this is not enough. However much a particular person is due, we must be ready to give him more, because each single soul is a masterpiece of God's making.
+
+"The best way of living charity lies in generously outstripping the demands made on us by justice" (Josemaría Escrivá, *Friends of God*, Point 83).
+
+That also means that if we're going to make some extraordinary expense in our family---a celebration, a trip, a holiday---we should try and give everything a social dimension and see how we're going to spend this amount of money.
+
+Can we make some special contribution to help some other family to have some special moment?
+
+Or to think of school fees of somebody in a developing country, where school fees are so much needed, where people possibly can't afford the luxuries that some people afford in a developing country.
+
+An extraordinary contribution should be something that we think about regularly.
+
+Or if we buy some luxury item---a new car, a new machine, some other thing---we give a social dimension to this expense.
+
+Or if there's a celebration in our office or in a factory, some party or something, we are the ones that come along to think: How can we do something socially to help other people in and through this expense that we're going to incur, that we're willing to spend?
+
+Justice is the rectitude of the will which harmonizes one's good with that of others. It's demanded very much by the social nature of man.
+
+It means also that we give to God what is God's. Our first set of duties is towards Him. We owe Him everything: worship, obedience, love.
+
+Getting to Mass on Sunday is also part of the virtue of justice. Or saying our daily prayers. Or thanking God for the good things He gives us. Or atoning to Him when we have offended Him.
+
+There are four kinds of justice (*Catechism of the Catholic Church*, Points 2411, 2425). There's commutative justice, which is between two people in society. If you pay a certain amount of money for a newspaper, you should get a newspaper. And today's!
+
+Distributive justice is the justice that the government owes to its citizens, done through laws. Looking after roads. Helping traffic to circulate.
+
+Legal justice is the justice that citizens owe the state.
+
+And social justice leads us to establish a society where everyone can live according to human dignity, where everyone can eat, can rest, can have a decent house; can be protected in times of sickness and old age; where children get an education, where they can improve their culture, participate freely in social life, hold their own opinions, and give worship to God according to their conscience.
+
+The social teaching of the Church is a beautiful body of teaching. Very powerful. We should try and get to know that social teaching more and more and put it into practice. Some very rich ideas.
+
+The virtue of justice helps us with a priestly soul and a lay mentality to consider our dependence on Our Lord in all things. We need God for everything. We ask Him for things. We thank Him for the good things that He's given to us.
+
+One great contribution that's within our reach every day, which is a form of justice, is doing our work well, making sure it's well done, whether it's in the home, in the family, in school, our homework, our professional work. All professional work is a service, making sure that the client is happy.
+
+And for this, we should try and get some objective feedback. Organizations in the modern world that look for feedback, that's a very good sign---a sign they're interested in improving the quality of their work and giving a better service, as long as they pay attention to the feedback.
+
+Competent work is already a great contribution to the social order. Mothers and fathers who try to do their work well in their homes to keep the place well, to take care of order and tidiness and hygiene and so many other things.
+
+The freedom that Christ won for us should lead us to defend our freedom, and also that of others. "The truth will make you free" (*cf*. John 8:31-32).
+
+An important part of justice is defending and fostering that truth in all sorts of places. It's justice that we give gratitude for. We thank God for the things He's given to us. We thank other people. Charity sweetens justice.
+
+If we are truthful with others---part of justice---that builds respect. It builds faithfulness and trust, and that builds loyalty.
+
+A serious effort to live this virtue and having a hunger for it begins with taking care of little things in family life, in work, in social relations.
+
+Taking care of the material things of the home. Placing order in a room. Trying to make sure we leave a room a little bit better than we found it: the washroom, for example, or the living room.
+
+We don't leave things in a mess. We're thinking all the time of the next person that comes to use this room, that they will find it in good shape, that things are in their place.
+
+There's a myriad of opportunities every day to live that sense of justice in the family or in our workplace: having a very refined conscience about what belongs to the company and what belongs to me; having a sense of justice and things to be used in the organization where we work, whether it's enormous amounts of money or whether it's paper clips.
+
+If this paper clip belongs to the office, then it belongs to the office. It doesn't automatically become mine if it's in my bag.
+
+It's necessary to deepen our knowledge of justice continually. It's not something theoretical. It's a virtue. It's a capacity of the human spirit, of the human will, and also of the heart.
+
+John Paul II says, "It is \[also\] necessary to pray in order to be just and to know how to be just" (John Paul II, *ibid*., Point 4). It's justice that we have a certain ecological sensitivity.
+
+We care for the environment. We don't throw banana skins out the car window or throw litter in the street. Or we don't just care for our own home or our own property.
+
+There was a story of a lady once who told her little girl not to throw paper on the floor. And then the mother took up the piece of paper and threw it out the window.
+
+We think about the environment. We care for the place that we live in. We try to be part of the solution. We don't add to the problem. And very often a good example in this area can be very helpful.
+
+The virtue of solidarity is part of the virtue of justice. It's "not a feeling of vague compassion or shallow distress at the misfortunes of so many people, both near and far. On the contrary," we are told, "solidarity is a firm and persevering determination to commit oneself to the common good" (John Paul II, Encyclical, *Sollicitudo rei socialis*, Point 38, December 30, 1987).
+
+The common good means the well-being of each individual in society. It doesn't matter who they are, where they came from, what the color of their skin is, what the accents that they speak with, or a whole pile of other incidental factors.
+
+They are a human person. Therefore, I have to care for their well-being, to care for the good of all, and each individual, because we are responsible for all.
+
+Therefore, we see what we can do to improve the lot of other people. There can be no love without justice. \[Pope Benedict\] liked to say that the first charity is justice (*cf*. Benedict XVI, Encyclical, *Caritas in veritate*, Point 6, July 7, 2009).
+
+We might be very generous and give good things to other people. But in justice, possibly we should be giving much more.
+
+"Those to whom much has been given, much will be demanded" (*cf*. Luke 12:48). People who have an awful lot should be giving an awful lot.
+
+Love surpasses justice. "Love," says John Paul II, "finds its verification in justice\.... If justice is uncertain, then love, too, runs a risk" (John Paul II, *ibid*., Point 4). And so, justice is the first manifestation of charity.
+
+We have always got to try and improve the conditions of the people we employ. Have a sensitivity for social matters.
+
+Be very careful of wasting food, or time, or money. Teach children from an early age that in justice they should eat the food that's placed in front of them. Be grateful to God for it, not to be too fussy. And the same thing with older people.
+
+The few shillings that we might throw away on some unnecessary thing could be of great value to some other person.
+
+Pope St. John Paul says also: "But to man is due also his good name, respect, consideration, the reputation he has deserved. The more we know a person, the more their personality, their character, their intellect, and their heart are revealed to us. And the more we realize---and we must realize!---with what criterion to 'measure him' and what it means to be just towards that person" (*ibid*.).
+
+Justice with the elderly means we are a bit more patient with them. We see what they need. Are they taken care of? Do they feel lonely? Do they need a phone call? Can we let them go in front of us in certain ways?
+
+We could ask God for the grace to see how we could foster the social doctrine of the Church everywhere.
+
+In one of his encyclicals, John Paul said, "To teach and spread her social doctrine pertains to the Church's evangelizing mission and is an essential part of the Christian message, since this doctrine points out the direct consequences of that message in the life of society and situates daily work and struggles for justice in the context of bearing witness to Christ the Savior" (John Paul II, Encyclical, *Centesimus Annus*, Point 5, May 1, 1991).
+
+I heard a doctor in Asia once saying that we can be very proud of our Church, because our Church is the number one healthcare worker in the world. It's a very beautiful thing to hear.
+
+Somebody is working in the name of the Catholic Church in every major city in the world, but also, in every last outpost, in the middle of the jungle, at the farthest point in the desert.
+
+There's somebody working there in the name of the Catholic Church, the number one healthcare worker in the world, and often one of the greatest educators.
+
+John Paul also says in *Centesimus annus:* "The first and fundamental structure for 'human ecology' is the family, in which man receives his first formative ideas about truth and goodness, and learns what it means to love and to be loved, and thus, what it actually means to be a person.
+
+"Here," he says, "we mean the family founded on marriage, in which the mutual gift of self by husband and wife creates an environment in which the children can be born and develop their potentialities, become aware of their dignity, and prepare to face their unique and individual destiny" (*ibid*., Point 39). They learn how to be citizens.
+
+There is a social dimension to capital. People who have capital have to try and see how they can improve the lot of people around them with the capital that they have.
+
+As we grow in our abilities and perhaps in our wealth, it's a constant idea we have to think about. God has given us these means to do something good with them.
+
+Our Lady, when she heard that she was to be the Mother of God and that Elizabeth had conceived, immediately thought about her cousin.
+
+And she didn't just think about her. She went into the hill country to visit her. She didn't just spend a few hours there or a few days; she spent three months (Luke 1:39,56).
+
+It was a serious contribution. Her first thought was to help Elizabeth in her need.
+
+We could ask Our Lady, who personifies all the virtues, that she might teach us to live this virtue of justice with a greater refinement, and to teach people around us to do the same thing all through their lives.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*EW*

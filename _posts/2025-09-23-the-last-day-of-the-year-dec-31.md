@@ -1,0 +1,198 @@
+---
+layout: homily
+title: "The Last Day of the Year (Dec. 31)"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+In the First Reading of today\'s Mass, the last reading for this year, from the First Letter of St. John, it says, "Children, this is the final hour" (1 John 2:18).
+
+It sounds rather apocalyptic, like a call to action, to take stock a little bit. The final hour. We come to the end of another year of our life that God has given to us.
+
+All the grace. If you look back and think of all the graces that God has given to you in this past year, every day, every hour, the grace to get up in the morning, perhaps the grace to be able to see and to hear and to use your limbs, so many joys, so many times that God has given you formation into your soul, into your heart, spiritual nourishment. Maybe there were times when your heart was breaking in this past year, sorrow, pain.
+
+But yet somehow when we look back, we see the hand of God was there, teaching us things, leading us forward.
+
+It says, "This is the final hour. You have heard that the antichrist is coming, and now many antichrists have already come. From this we know that it is the final hour. They have gone from among us, but they never really belonged to us. If they had belonged to us, they would have stayed with us.
+
+"But this was to prove that not one of them belonged to us. But you have been anointed by the Holy One and have all received knowledge. I have written to you not because you are ignorant of the truth, but because you are well aware of it, and because no lie can come from the truth" (1 John 2:18-21).
+
+We have spent the last few days and hours accompanying the Holy Family in Bethlehem, and possibly on their journey to Egypt. We have been exposed to Divine Beauty Incarnate. Incarnate Truth.
+
+The liturgy of today reminds us of that infinite truth that we find in Christ, in God. The Gospel of today is taken from the First Chapter of St. John, very poetic.
+
+"In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. Through him, all things came into being. Not one thing came into being except through him" (John 1:1-3).
+
+We come to the end, and Scripture speaks to us about the beginning, because we\'re always beginning. We\'re ending, but we\'re beginning. We look back to learn great lessons from what has passed, to give thanks, to give glory to God, and then to continue along the pathway of our Christian vocation, a pilgrimage of faith.
+
+"A man came sent by God. His name was John. He came as a witness to bear witness to the light, so that everyone might believe through him. He was not the light; he was to bear witness to the light. The Word was the real light that gave light to everyone" (John 1:6-9).
+
+There is a light streaming from Bethlehem, a light that lights up the whole of our lives. When we come to the end of the year, we\'re not in darkness because we have the light. "He was in the world that had come into being through him, and the world did not recognize him" (John 1:10).
+
+The Church and Scripture invites us to make up for that lack of recognition, to make up for the lack of hospitality that Christ found in Bethlehem, accompanying Him with our prayer, with our Rosary, with our aspirations; offering Him our work; offering Him the little things of each day.
+
+"I have no gift to bring that\'s fit to give a king. Shall I play for you on my drum?" (Hymn, *Little Drummer Boy*).
+
+"He came to His own and His people did not accept Him. But to those who did accept Him, He gave the power to become children of God" (John 1:11-12).
+
+The great gift that God has given to us is the power to become His children. Those who believed in His name were not born from human stock or human desire or human will, but from God Himself.
+
+On the last day of the year, it\'s an opportunity for us to look at the reality of time. God wants us to sanctify time, to sanctify this particular year that has passed, to offer Him the year that is coming.
+
+We\'re told in \[Ecclesiastes\], "He has made everything suitable for its time. Moreover, He has put a sense of past and future into their minds. Yet they cannot find out what God has done from the very beginning to the end" (Eccles. 3:11).
+
+In the *Catechism of the Catholic Church*: "To God, all moments are present in their immediacy. When therefore he establishes his eternal plan of predestination, he includes in it each person\'s free response to his grace" (*Catechism*, Point 600).
+
+Time, ultimately, is an opportunity for each one of us to respond to grace. Time also is an opportunity for us to take that grace in our souls. Think back over the past year, the Masses you have attended, the Confessions that you made, the times when Our Lord sort of opens Niagara Falls of grace to fall into your soul.
+
+Grace was for you to be able to do this or to do that--- and perhaps think of the times when, maybe, we didn\'t correspond as well as we might have to those graces. We could have been more generous, or more humble, or more charitable, or more patient, or more docile, or more sincere, or more pure and chaste, or more industrious. Or a whole pile of other 'mores.'
+
+God gives us time to respond to this grace. This coming year is an opportunity for us to use that time well. There were many occasions in the Gospel when Our Lord spoke to us about the good use of time.
+
+There were the prudent virgins and the imprudent virgins. The prudent ones took oil in their lamp. They had foresight, they planned for the future, they bothered to prepare, they had a to-do list, they had quarterly goals, and yearly goals, and hourly goals, and daily goals.
+
+The imprudent virgins just gave themselves to the enjoyment of the moment. But later on, they\'re going to regret that (*cf*. Matt. 25:1-13).
+
+Every minute that passes is grace that has flowed. Time is a flowing divine treasure. It\'s like a river that comes along, or a stream that\'s with us for a few minutes, and then it\'s gone, never to return.
+
+We can try and tell Our Lord that we want to respond to that grace that He gives us by doing in each moment what we are supposed to be doing.
+
+If we have followed the Holy Family from Nazareth to Bethlehem and accompanied them in the stable, we learn a lot from the life of Joseph and Mary: how to use our time well, how to seize every opportunity, how to be detached from the things of this world, how to give ourselves completely, without holding anything back, to fulfill the plans of God.
+
+In Scripture, there were other people who, we're told, were idle in the marketplace. "When the owner of the harvest came to them, he said, 'Why are you standing around here all day?' They said, 'Because no one has hired us'" (Matt. 20:6-7).
+
+It\'s all somebody else\'s fault. They had no initiative. They were standing idle in the marketplace when the reality was that there was a harvest just up the road, where there was plenty to be done.
+
+Lord, don\'t let me be idle in the marketplace. Help me to see, help me to be dynamic, help me to have initiative.
+
+Speaking of time, in the book of homilies, *Friends of God*, St. Josemaría says, "When I reflect on this, how well I understand St. Paul\'s exclamation when he writes to the Corinthians, 'time is short' (1 Cor. 7:29). How short indeed is the time of our passing through this world!
+
+"For the Christian these words ring deep down in his heart as a reproach to his lack of generosity, and as a constant invitation to be loyal. Brief indeed is our time for loving, for giving, for making atonement. It would be very wrong, therefore, for us to waste it, or to cast this treasure irresponsibly overboard. We mustn\'t squander this period of the world\'s history which God has entrusted to each one of us" (Josemaría Escrivá, *Friends of God*, Point 39).
+
+There\'s something very haunting about those words---"this period of the world\'s history which God has entrusted to us"---this opportunity, this year, this issue, these things that need to change, this witness that we need to give, this trail that we need to blaze. It\'s all an opportunity for us.
+
+Lord, help me to make good use of my time, to make those resolutions I need to make, to take better care of my spiritual life, better care of what I read, or what I watch for my entertainment. Very often we become what we read. The ideas that we absorb take ahold of us.
+
+In St. Luke, Our Lord said to the people in the synagogue, "Today this Scripture has been fulfilled in your hearing" (Luke 4:21).
+
+Our Lord speaks in very short increments of time: "today." He doesn\'t say tomorrow, or ten years from now. But today: "this is the day the Lord has made" (Ps. 118:24).
+
+We have to try and use all the little days that God gives us, this hour, this moment. The sanctification of our life is made up of a series of sanctifications of every moment.
+
+Some people say time is my business, time is money. St. Josemaría used to say, "Time is a treasure." He has a homily with that title in *Friends of God* (Points 39-54). Worthwhile reading. He said it\'s a gift of God, a talent.
+
+If you know some people who have passed on early in their life, or perhaps who suffer from some disability, it helps you to realize that if God has given you health and well-being, He\'s going to demand a lot from you. So many talents you\'ve been given.
+
+"To whom much has been given, much will be demanded" (Luke 12:48). Time is for glory (J. Escrivá, *Friends of God*, Point 81), it\'s for grace, it\'s for eternity.
+
+A great sin for a Christian could be to waste time, not to use our time productively. Hence we need advice, we need a coach, an executive coach.
+
+We need to plan, we need to grow in our cultural formation, our professional formation, and our doctrinal formation, in all sorts of ways, and to realize that time is an instrument in our hands for doing something with it.
+
+If you have a pen in your hand, you don\'t go around boasting, 'I have a pen, I have a pen, I have a pen.' People will say to you, 'OK, big deal, you have a pen, but what do you want to do with that pen? Are you going to sign a contract? Are you going to sign a check? Are you going to give your autograph?'
+
+Likewise, with time. It\'s not just a question of having time. It\'s a question of doing something with our time. If ever you get a chance to read any books or articles on the management of time, that\'s a very good opportunity well spent, to seize that, to see how I can use my time better.
+
+Very often the experience is that if we give time to our spiritual life---to prayer, to spiritual reading, to our Rosary, to growth in our formation on a regular basis---God multiplies our time.
+
+If we\'re generous in getting to Mass frequently, we\'ll find God will multiply our time for other things. Your life takes on a greater order, because now we\'re looking after the most important. And when we look after the most important, somehow many other things fall into place.
+
+We\'ve been given time in order to work, to serve, to develop ourselves, to give glory to God. We don\'t know if the year that is starting will be our last. Our Lord has warned us that He will come like the thief in the night (*cf*. Matt. 24:43), and He wants to find us with our lamp burning brightly (*cf*. Luke 12:35-36), with our time well used.
+
+He doesn\'t want us to see that we\'ve wasted certain opportunities, perhaps apostolic opportunities, opportunities to leave our mark in this world or in souls. He\'s given us time to make a difference.
+
+"I have chosen you so that you will go forth and bear fruit, fruit that will remain" (John 15:16).
+
+Time is a divine treasure that doesn\'t belong to us. We are the administrators of time. God is the real owner of time. A person of God who has time to spare also overflows with lukewarmness. An idle person can do a lot of damage.
+
+You could think of the punishment of the lazy servant who hid his talent. He didn\'t use his time (Matt. 25:24-28).
+
+Our Lord invites us to have a hierarchy of values: to give certain attention and solicitude to things that are proportionate to their importance. He wants us to struggle against inertia, against our laziness, our lukewarmness, against that feeling of not feeling like doing things.
+
+That can be a permanent source of mortification: the tendency to procrastination. I\'ve got to tie myself down. Maybe I\'ve got to write it down. These are the three things I have to get done: one, two, and three.
+
+If we live in the constant presence of God, we\'ll find it easier to live that urgency of time. We\'ll be aware that our time belongs to God. For that reason, we have to try and use it well.
+
+For that reason, it may be a very good idea to consult our plans. There might be things that we think are very important. But maybe somebody with the objective grace of state can point out to us that perhaps they\'re not as important as we thought.
+
+Our time is limited. The year that passes. When the clock strikes twelve, it\'s like a reminder to us that this year has passed. Another period of this limited amount of time is gone.
+
+Everybody gets their time. Some people get twenty years, some forty, sixty, eighty. Some babies just get a few hours or a few minutes. But everybody gets their time.
+
+Lord, help me to use my time to fulfill the goals of my Christian vocation: holiness and apostolate.
+
+The Good Thief from Calvary says to Our Lord, "Remember me when you come into your kingdom." Jesus replies, "This day you will be with me in paradise" (Luke 23:42-43). That good thief found hope in his dying moments.
+
+At Cana of Galilee, Our Lord said, "Woman, my hour has not yet come" (John 2:4). Later He was to say, "Now has the hour come for the Son of Man to be glorified" (John 12:23). See the importance that Christ gives to the hour.
+
+We also have to have a great sense of time. And because we have a great sense of time, and the sacredness of time, because it does not belong to us; it belongs to God, therefore we have great respect for other people\'s time. Hence, the importance of punctuality.
+
+One of the resolutions we could make for this coming year is to always be on time for everything. My time should be on time.
+
+In family life, try to have specific times for family gatherings, for mealtimes, for getting up, for going to bed. Live a certain punctuality and order in your life, and you will instill it in your children.
+
+Try to be on time for all of your appointments. And even if you get a bit delayed, send a message to say, 'I\'m going to be two minutes late.' That shows respect for other people\'s time: 'I value your time.' It\'s a compliment. If we live that sense of time, we\'ll do things with a great sense of urgency.
+
+"Mary went with haste into the hill country" (Luke 1:39). "The shepherds went with haste" to Bethlehem (Luke 2:16). God gives us this instrument of time for a very specific reason: in order to work, to fulfill this particular project, to serve, to develop ourselves, to give glory to God.
+
+If God wants us to work, He\'s also set a part of time to do that. The Book of Ecclesiastes says God has appointed time for every matter, for every work. A time to be born and a time to die. A time to plant and a time to reap what has been planted (Eccles. 3:1-2).
+
+A time to pray. A time to get to Mass. A time to get our Rosary done. A time to sit with our family and discuss things. A time to be home. The best time in our life should be at home and with our family. A time to discuss things with our spouse. A time to take care of the house or other things that need attention.
+
+In *The Way*, St. Josemaría says, "Don\'t let your life be barren. Be useful. Make yourself felt. Shine forth with the torch of your faith and your love. With your apostolic life, wipe out the trail of filth and slime left by the corrupt sowers of hatred. And set aflame all the ways of the earth with the fire of Christ that you bear in your heart" (J. Escrivá, *The Way*, Point 1).
+
+What beautiful sentiments to have in our mind and heart and our soul as we end this year! To make up to God for all the bad things. All the sins of men. All the abortions. All the contraception. All the drunkenness. All the bad words. All the pornography.
+
+Lord, let me use my time to make up to you who are in love, with my love, that you can feel atoned to, comforted by the things I say to you and by the things I do. May my life be one whole program of atonement.
+
+There may be many people around us who feel unhappy because they have too much of everything. If they behave as God\'s children, they might suffer discomfort, or heat, or tiredness, or cold. All these things are permitted by Him who is the source of true happiness.
+
+Lord, help us to see where that true happiness lies that you want to lead us to. "Have you not noticed," we\'re told in the *Furrow*, "that mortified souls, because of their simplicity, have a greater enjoyment of good things, even in this world?" (J. Escrivá, *Furrow*, Point 982).
+
+There was an elderly nun once in Ireland who was in a bit of a coma. She was in her mid-nineties. She couldn\'t eat or drink very much, and so the other nun used to give her some warm milk to sip.
+
+One time, one of the nuns had an idea to put a little bit of brandy into the hot milk, to stir it a little bit. They began to put this brandy. The elderly nun would sip this, and that kept her going for a long time.
+
+The day before she died, she opened her eyes and she said to them, 'After I die, whatever you do, don\'t sell that cow.'
+
+When we have that spirit of mortification, Our Lord gives us a greater enjoyment of the good things in this world. We\'re told in the *Furrow*, "Without mortification there is no happiness on earth" (J. Escrivá, *Furrow*, Point 983).
+
+We can also thank Our Lord for all the good things He\'s given to us in these past twelve months: the graces we have recognized, and also the many graces that we haven\'t recognized---numerous times when God has reached out and touched our soul, or given us a new insight or a new idea, or helped us to get up in the morning, or to be on time for an appointment, or a whole pile of millions of other things.
+
+Lord, help me to give you thanks. In the *Furrow*, we\'re told, "I give you thanks, my Jesus, for your decision to become perfect man, with a heart which loved and is most lovable; which loved unto death and suffered; which was filled with joy and sorrow; which delighted in the things of men and showed us the way to Heaven, which subjected itself heroically to duty and acted with mercy, which watched over the poor and the rich, and cared for sinners and the just. ---I give you thanks, my Jesus. Give us hearts to measure up to yours!" (J. Escrivá, *Furrow*, Point 813).
+
+As we thank Our Lord, we could ask Him to shape our hearts to be more like His Heart, so that our hearts might become more Christ-like.
+
+"Be merciful, as your heavenly Father is merciful" (Luke 6:36). Pope John Paul said that mercy is another word for love (*cf*. John Paul II, Encyclical, *Dives in misericordia*, Point 7, November 30, 1980).
+
+As the years pass, the goal of our Christian life is that we become a more loving person and that that love gets manifested in all sorts of ways. "Charity is patient, charity is kind, charity endures all things" (1 Cor. 13:4,7). Lord, help me to grow in that virtue of charity.
+
+As the year ends, we can contemplate once again the Holy Family that teaches us so many things. They\'re always beginning again. They begin again when they set out for Bethlehem. They change the course of their life.
+
+They begin again in Bethlehem itself when they have to look for the stable and change their disposition.
+
+They begin again when they change the atmosphere of that place into the focal point of family warmth for all time.
+
+They begin again when they set out for Egypt.
+
+And they begin again when they stay there in Egypt. They\'re told, "Remain there until I tell you" (Matt. 2:13-23). A lot of our life is made up of 'remaining there.'
+
+We\'re told at the end of the story of Bethlehem, "The shepherds returned, glorifying and praising God for all they had heard and seen, as it had been told them" (Luke 2:20).
+
+They didn\'t stay in Bethlehem for the rest of their lives. They didn\'t go to Egypt. They went back to their ordinary work. That\'s our role. Back to fulfilling their ordinary duties---the shepherds returned, and they returned glorifying and praising God.
+
+We can thank Our Lord for all the graces He has given to us in these beautiful days, that He has given us the grace to relive them year after year, bringing so much joy and happiness to the people around us\..."glorifying and praising God for all they had heard and seen, as it had been told them."
+
+Mary, thank you for all the graces you\'ve given me during this past year. Help me to use well all the graces you want to give me in this coming period of time.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*PKN*
