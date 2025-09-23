@@ -11,7 +11,7 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"Unless a man is born again of water and the Holy Spirit, he cannot enter the kingdom of Heaven" (John 3:3).
+"Unless a man is born again of water and the Holy Spirit, he cannot enter the kingdom of Heaven" (John 3:3,5).
 
 In the Gospel, Our Lord has an intimate dialogue that took place at night between Himself and Nicodemus. Nicodemus is moved by the preaching and the miracles of Our Lord, and he feels the need to know more.
 
@@ -25,7 +25,7 @@ Our Lord replies in an unexpected way. Nicodemus asks about His mission and Jesu
 
 He\'s speaking of a spiritual birth by water and the Holy Spirit: a whole new world is unfolding before the eyes of Nicodemus.
 
-Our Lord\'s words also open up an unlimited horizon for the spiritual advancement of any Christian who allows himself to be led with docility by the inspirations and notions of the Holy Spirit, because interior life does not consist solely in acquiring a series of natural virtues or of observing certain pious practices.
+Our Lord\'s words also open up an unlimited horizon for the spiritual advancement of any Christian who allows himself to be led with docility by the inspirations and motions of the Holy Spirit, because interior life does not consist solely in acquiring a series of natural virtues or of observing certain pious practices.
 
 It\'s a question of a complete transformation---of, in fact, "being born again," which Our Lord asks from us.
 
@@ -45,7 +45,7 @@ The imagination can be a great help in the interior life, for contemplating the 
 
 "Even in the best of cases, it can lead us to daydreaming, from where sentimentalism may arise, which is also opposed to true piety" (Réginald Garrigou-Lagrange, *The Three Ages of the Interior Life*).
 
-Because of our situation of original sin, the subjection of the imagination to reason can usually be achieved only through mortification, "with the result that it ceases to be 'the mad person of the house' and confines itself to its own specific purpose, which is that of serving the intelligence enlightened by faith" (*Ibid*.).
+Because of our situation of original sin, the subjection of the imagination to reason can usually be achieved only through mortification, "with the result that it ceases to be 'the mad person of the house' and confines itself to its own specific purpose, which is that of serving the intelligence enlightened by faith" (*ibid*.).
 
 Allowing our imagination to roam freely means wasting time, which is a gift from God and part of the inheritance left us by Our Lord.
 
@@ -75,19 +75,19 @@ Through a blameworthy superficiality, these useless thoughts can lead to rash ju
 
 Interior mortification in regard to these useless thoughts would have avoided this interior lack of charity, which separates a person from God and from others.
 
-The Curé of Ars, St. John Mary Vianney, said, "The reason for so many rash judgments is that they are considered to be of little importance. Nevertheless, if it is a question of grave matter, it can lead to the committing of grave sins."
+The Curé of Ars, St. Jean-Mary Vianney, said, "The reason for so many rash judgments is that they are considered to be of little importance. Nevertheless, if it is a question of grave matter, it can lead to the committing of grave sins" (Jean-Marie Vianney, *Sermon on Rash Judgment*).
 
 It often happens, if we are not alert in cutting off useless thoughts and offering this mortification to Our Lord, that our imagination will rotate around ourselves, creating fictitious situations that are little or in no way compatible with the Christian vocation of a child of God who should have their heart set on Him.
 
 These thoughts cool the heart. They separate from God and afterwards make it difficult to maintain the right climate of dialogue with Our Lord in the midst of our affairs.
 
-We could examine ourselves in our prayer and see how we are doing with this business of interior mortification, which can help us so much to keep the presence of Our Lord in our lives, and helps us to avoid many inappropriate things, temptations, and sins.
+We could examine ourselves in our prayer and see how we are doing with this business of interior mortification, which can help us so much to keep the presence of Our Lord in our lives, and which helps us to avoid many inappropriate things, temptations, and sins.
 
 It is worthwhile to meditate seriously on this in a deep fashion, with the desire to make effective resolutions.
 
 Mortification of the imagination brings with it countless benefits for the soul. It's not just a matter of a purely negative task, nor does it lie on the frontiers of sin, but in the area of presence of God and of love.
 
-Mortification of the imagination purifies the soul and disposes it to living presence of God better and causes us to make good use of the time dedicated to prayer, because it is the imagination and its fancies that can often inhibit dialogue with Our Lord, and which can distract us when we should be more attentive, particularly in Mass and with Holy Communion.
+Mortification of the imagination purifies the soul and disposes it to living *presence of God* better and causes us to make good use of the time dedicated to prayer, because it is the imagination and its fancies that can often inhibit dialogue with Our Lord, and which can distract us when we should be more attentive, particularly in Mass and with Holy Communion.
 
 Mortification of the imagination permits us to make better use of our time at work, to do it conscientiously and sanctify it. In the area of charity, it facilitates our being attentive to others, instead of being wrapped up in ourselves and immersed in dreams.
 
@@ -99,11 +99,11 @@ In particular, it can be a great help in contemplating the Passion of Our Lord a
 
 In *Friends of God*, Point 216, we are told, "Make it a habit to mingle frequently with the characters who appear in the New Testament.
 
-"Capture the flavor of those moving scenes where the Master performs works that are both divine and human, and tells us, with human and divine touches, the wonderful story of his pardon for us and his enduring love for his children. Those foretastes of heaven are renewed today, for the Gospel is always true."
+"Capture the flavor of those moving scenes where the Master performs works that are both divine and human, and tells us, with human and divine touches, the wonderful story of his pardon for us and his enduring love for his children. Those foretastes of heaven are renewed today, for the Gospel is always true" (Josemaría Escrivá, *Friends of God*, Point 216).
 
 St. Josemaría continues, "If at times we don\'t feel strong enough to follow in the footsteps of Our Lord, we can say a few loving words to those who knew him well during his life on earth. To Our Lady, first of all, for she it was who brought him to us. Then to the Apostles.
 
-"'There were certain Gentiles who approached Philip, the man from Bethsaida in Galilee, and made a request of him: 'Sir,' they said, 'We desire to see Jesus.' Philip came and told Andrew, and together Andrew and Philip went and told Jesus' (John 12:20-22). \... Most foreigners didn\'t dare approach the Master directly, so they looked for a good intercessor" (Josemaría Escrivá, *Friends of God*, Point 252).
+"'There were certain Gentiles who approached Philip, the man from Bethsaida in Galilee, and made a request of him: 'Sir,' they said, 'We desire to see Jesus.' Philip came and told Andrew, and together Andrew and Philip went and told Jesus' (John 12:20-22). \... Most foreigners didn\'t dare approach the Master directly, so they looked for a good intercessor" (*ibid*., Point 252).
 
 Purification of the soul through interior mortification is not something merely negative. It\'s not just a matter of avoiding what borders on sin; quite the opposite. It consists of knowing how to deprive ourselves, for love of God, of things that would be quite licit to have.
 
@@ -117,13 +117,11 @@ Something similar can happen to the imagination. It often can upset us by invent
 
 Interior purification does not end with emptying the understanding of useless thoughts. It opens up pathways to a deeper contemplative life, in whatever circumstances that Our Lord may have placed us.
 
-With that interior silence towards everything that goes against God\'s wishes and is improper to His children, the soul finds itself well disposed of for a continuous and intimate dialogue with Our Lord.
+With that interior silence towards everything that goes against God\'s wishes and is improper to His children, the soul finds itself well disposed for a continuous and intimate dialogue with Our Lord.
 
 We have many benefits to obtain from that mortification of our imagination.
 
-We\'re told in the Entrance Antiphon, "Behold, the Lord will come down in all his splendor to give his people peace and bring them eternal life."
-
-Our Lord comes to bring us peace and to give us that eternal life promised from of old: peace in our thoughts, peace in our hearts, peace in our imagination.
+We\'re told in the \[Entrance Antiphon\], "Behold, the Lord will come down in all his splendor to give his people peace and bring them eternal life." Our Lord comes to bring us peace and to give us that eternal life promised from of old: peace in our thoughts, peace in our hearts, peace in our imagination.
 
 He has to find us like that good servant who doesn\'t fall asleep during his master\'s absence, but when the master returns is found at his post, devoted to his duty (Luke 12:43).
 
@@ -143,9 +141,9 @@ Selfishness, a lack of mortification and temperance always threaten to extinguis
 
 That\'s why we need constantly to revive the flame, to shake ourselves out of any repetitive routine, to struggle.
 
-St. Paul compares this watchfulness to the well-armed soldier on guard duty who does not allow himself to be taken by surprise (1 Cor. 16:13).
+St. Paul compares this watchfulness to the well-armed soldier on guard duty who does not allow himself to be taken by surprise (*cf*. 1 Thess. 5:4-8).
 
-"Guard, how goes the night?" (Josemaría Escrivá, *Furrow*, Point 960; cf. Isa. 21:11).
+"Guard, how goes the night?" (J. Escrivá, *Furrow*, Point 960; *cf*. Isa. 21:11).
 
 By putting our faith into practice in this way, we can find a lot of interior strength and optimism which we need to fulfill our family and social duties: not allowing our minds to rest on useless thoughts; focusing on what\'s important; having a sense of order in our mind, a sense of priorities.
 
@@ -165,15 +163,13 @@ We\'re alert when we make an effort to improve our personal prayer, which in tur
 
 We stay awake to the things of God by living a spirit of mortification. We strengthen our vigilance through doing a careful examination of our conscience.
 
-Sometimes St. Josemaría would ask people, "What are you thinking about?" *¿En qué piensas?* By that, he meant, Where is your mind? Where are your thoughts?
+Sometimes St. Josemaría would ask people, "What are you thinking about?" *¿En qué piensas?* By that, he meant, Where is your mind? Where are your thoughts? What are you dreaming about? Is your mind and your thoughts in the things of God, in the things of the apostolate, in souls?
 
-What are you dreaming about? Is your mind and your thoughts in the things of God, in the things of the apostolate, in souls?
-
-So that we don\'t fall into the situation described by St. Augustine, as though spoken by God, when he says: "For while you give yourself up to evil, you come to consider yourself good, because you do not take the trouble to look at yourself.
+So that we don\'t fall into the situation described by St. Augustine, as though spoken by God, when He says: "For while you give yourself up to evil, you come to consider yourself good, because you do not take the trouble to look at yourself.
 
 "You reproach others, and you do not take stock of yourself. You accuse others and you do not examine yourself. You place them before your very eyes and you place yourself behind your back.
 
-"So when the time comes for me to reckon with you, I shall do the opposite; I will turn you around and confront you with yourself. Then you will see yourself, and you will weep" (St. Augustine, *Sermon 17*).
+"So when the time comes for me to reckon with you, I shall do the opposite; I will turn you around and confront you with yourself. Then you will see yourself, and you will weep" (Augustine, *Sermon 17*).
 
 That spirit of interior mortification has to be in the little things that fill our day.
 

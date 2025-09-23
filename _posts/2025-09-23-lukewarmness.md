@@ -19,11 +19,11 @@ We are invited to be "like a tree planted near streams: bearing fruit in season,
 
 This meditation is about lukewarmness.
 
-The Scriptures, and also St. Josemaría, will invite us to take an account occasionally so that we keep ourselves in good shape. We don\'t drift into a lukewarm status.
+The Scriptures, and also St. Josemaría, will invite us to take an account occasionally so that we keep ourselves in good shape. We don't drift into a lukewarm status.
 
 "Let us be demanding on ourselves," said Don Álvaro in a letter in 1988, on the 50th anniversary of the founding of Opus Dei.
 
-"With greater motive," he says, "my children, when time passes, and we have been spending a lot of time serving Our Lord in Opus Dei, we shouldn\'t allow that with the passage of time, the fervor of our initial self-giving would get weakened."
+"With greater motive," he says, "my children, when time passes, and we have been spending a lot of time serving Our Lord in Opus Dei, we shouldn't allow that with the passage of time, the fervor of our initial self-giving would get weakened."
 
 Occasionally we have to go back and look again, and begin again, and foster that generosity of the beginning, keep our fire burning.
 
@@ -31,7 +31,7 @@ One time, St. Josemaría was in a get-together in---I think it was---Venezuela a
 
 It was unusual for him to sit down in those get-togethers. He was always moving around.
 
-But he listened to the song, and towards the end of the song, he said in a low voice that was only heard by the person beside him: *Salto de mi comfortaleza--*"I jump up out of my comfort,\" as he moved out of the chair.
+But he listened to the song, and towards the end of the song, he said in a low voice that was only heard by the person beside him: *Salto de mi comfortaleza--*"I jump up out of my comfort," as he moved out of the chair.
 
 Occasionally, we have to examine ourselves and see if perhaps there is a little bit of a bourgeois spirit that may have crept in from time to time. Our love of comfort, our love of self is always there.
 
@@ -55,7 +55,7 @@ And that new enthusiasm, that conviction, the faith that God is making use of ev
 
 These ideas can lead us to go back to our prayer, to pray more for other people around us, to think of the apostolic goals of the region, of all the corporate apostolic works---how all of that depends on our personal struggle, and to see, maybe, we could struggle a little more in certain areas.
 
-Or we could focus on different virtues that we haven\'t focused on before. Or we could listen a bit more attentively to what may be said to us in the chat or in fraternal correction, because we know the Holy Spirit is there, and there are new horizons that are waiting for us, new fruits that God wants to bring.
+Or we could focus on different virtues that we haven't focused on before. Or we could listen a bit more attentively to what may be said to us in the chat or in fraternal correction, because we know the Holy Spirit is there, and there are new horizons that are waiting for us, new fruits that God wants to bring.
 
 I read a book once about the Battle of Monte Cassino. It was an abbey just south of Rome, on the approach road to Rome from the south.
 
@@ -65,7 +65,7 @@ It was the winter of 1944, very cold, very miserable, and the journalist who wro
 
 People were hungry. They were cold. Anyone in their right mind would have wanted to be somewhere else.
 
-The temptation to desert was very great. The mules that brought the provisions sometimes were shot, so the food didn\'t get through.
+The temptation to desert was very great. The mules that brought the provisions sometimes were shot, so the food didn't get through.
 
 Every evening, the mules that were there would carry the wounded back to the home lines. There was a sergeant who was checking on all the wounded to make sure they were really wounded, because the temptation to desert was very great.
 
@@ -77,7 +77,7 @@ Eventually, the Germans were pushed back off that promontory, and they withdrew 
 
 So sometimes, God wants to use our tiredness. There are a couple of books about the reality of tiredness.
 
-John Paul II in his apostolic letter on the *Day of the Lord*, says there is something sacred about our tiredness that God wants to use.
+John Paul II in his apostolic letter on the *Day of the Lord* says there is something sacred about our tiredness that God wants to use.
 
 Jesus allowed Himself to be tired out from His journey, and so He allowed Himself to sit down beside the well (John 4:6).
 
@@ -87,31 +87,31 @@ But even in that state of tiredness, He was always open to souls, ready to do a 
 
 "But at the same time, I direct myself to everybody, because all of us, each and every one of us, have to be both sheep and shepherds.
 
-"My children, don\'t allow any one of your brothers or sisters to become cold. Help them with the refinement of a mother and with the fortitude of a father in their pathway of holiness. Don\'t allow that anyone might lower their guard and soon give in some concessions to lukewarmness, and allow themselves to get enveloped in a situation of spiritual mediocrity, with ways of living that are not compatible with the joyful duties that are inherent in our vocation, and in the pathway of a Christian who must always act at all times *in* *nomine Iesu*.
+"My children, don't allow any one of your brothers or sisters to become cold. Help them with the refinement of a mother and with the fortitude of a father in their pathway of holiness. Don't allow that anyone might lower their guard and soon give in some concessions to lukewarmness, and allow themselves to get enveloped in a situation of spiritual mediocrity, with ways of living that are not compatible with the joyful duties that are inherent in our vocation, and in the pathway of a Christian who must always act at all times *in* *nomine Iesu*.
 
 "With Our Lord, through Our Lord, for Our Lord. And with the others in Him, and with Him and through Him."
 
 We have to examine our conscience and see: Am I praying enough for the others? Do I notice things that are important? Can I be led to have that great act of supernatural affection?
 
-The greatest act I can have with the people I live with is fraternal correction---to show them that I care for them, I really love them, they\'re not alone, they\'re part of a family, I want the best for them, I want heaven for them, and so I make those joyful demands on them, all those reminders.
+The greatest act I can have with the people I live with is fraternal correction---to show them that I care for them, I really love them, they're not alone, they're part of a family, I want the best for them, I want heaven for them, and so I make those joyful demands on them, all those reminders.
 
-"Be attentive," he says, "to detect when a person confided to your care, through tiredness or situations related to his professional work, or for any other reason, might begin to weaken in their spiritual journey.
+"Be attentive," he says, "to detect when a person confided to your care, through tiredness or through situations related to his professional work, or for any other reason, might begin to weaken in their spiritual journey.
 
 "Encourage them so that they react, giving them the spirit of Opus Dei without diminishing in any way those demands. Sustain them in their difficulties, facilitate the necessary rest. Apply the appropriate remedies that Our Lord has given to us in Opus Dei.
 
-"But don\'t give in or allow a situation that is not proper to our spirit to carry on or to take place. That spirit that we\'ve received from St. Josemaría---see how wonderful and attractive is this battle of ours, so that Christ may reign."
+"But don't give in or allow a situation that is not proper to our spirit to carry on or to take place. That spirit that we've received from St. Josemaría---see how wonderful and attractive is this battle of ours, so that Christ may reign."
 
 We come to the Feast of the Angels. We think of the work of St. Raphael, St. Gabriel, also St. Michael. The tremendous reach of those works that God has placed in our hands: "tidings of great joy, which shall be to all the people" (Luke 2:10).
 
 The work of St. Gabriel and St. Raphael for us is enormously attractive. We have to try and keep that attraction before our eyes all the time.
 
-That\'s what I\'m here for. That\'s why God has given me this vocation. That\'s what it is all about, so I don\'t get distracted or unfocused with other things that may come along, no matter how good or noble or attractive or interesting they may be.
+That's what I'm here for. That's why God has given me this vocation. That's what it is all about, so I don't get distracted or unfocused with other things that may come along, no matter how good or noble or attractive or interesting they may be.
 
-We\'re here to cast our nets (*cf*. Luke 5:4-5). That\'s what it\'s all about.
+We're here to cast our nets (*cf*. Luke 5:4-5). That's what it's all about.
 
 That shout of St. Josemaría that he always heard, and he wanted us to repeat frequently as to sound in our ears: "*Regnare Christum volumus*!--We want Christ to reign!" (Josemaría Escrivá, *The Way*, Point 11; *The Forge*, Point 639).
 
-We truly want Christ to reign in humanity all over this planet in which so many people still don\'t know Him, or others who separate themselves from Him.
+We truly want Christ to reign in humanity all over this planet in which so many people still don't know Him, or others who separate themselves from Him.
 
 We have to try and free from that state of lukewarmness that can come about in all sorts of ways. "Would that you were hot or cold. But because you are lukewarm...I will vomit you out of my mouth" (Rev. 3:15-16). Our Lord has said some very strong things.
 
@@ -119,9 +119,9 @@ In that battle against lukewarmness, it means that we try to keep the important 
 
 There was a story of a man in Mexico many years ago who got married, and for twenty-five years of their life, they loved to go to the bullfights every Saturday afternoon. His wife would accompany him. She was not particularly interested in the bullfights, but she would go along anyway.
 
-But then one day, after twenty-five years, she finally said, 'Let's not go to the bullfights. I\'m fed up going to the bullfights.'
+But then one day, after twenty-five years, she finally said, 'Let's not go to the bullfights. I'm fed up going to the bullfights.'
 
-And he said, 'Okay, let's not go to the bullfights. Let\'s go somewhere else. I never really wanted to go to the bullfights anyway.'
+And he said, 'Okay, let's not go to the bullfights. Let's go somewhere else. I never really wanted to go to the bullfights anyway.'
 
 There was a man who knew how to keep his first love in first place. Because we know how, with the passage of time, it is so easy for our first love to slip into other places. Fifth place perhaps, or sixth, and for other things to take its place.
 
@@ -137,7 +137,7 @@ They said, "We want to get a divorce."
 
 "And why do you want to get a divorce?" he asked.
 
-"Because we don\'t love each other anymore," they replied.
+"Because we don't love each other anymore," they replied.
 
 "And how long have you been married?"
 
@@ -145,11 +145,11 @@ They said, "We want to get a divorce."
 
 The lawyer tried to remember the meditation or talk on charity that he heard at his last retreat, and tried to give them an impromptu talk about what love is all about.
 
-"Love is kind, love is patient" (*cf*. 1 Cor. 13:4). Love is loving other people with their defects. It\'s forgiving. It\'s letting the water flow under the bridge. It\'s not making a mountain out of a molehill---all the little points that he could remember, as much as possible.
+"Love is kind, love is patient" (*cf*. 1 Cor. 13:4). Love is loving other people with their defects. It's forgiving. It's letting the water flow under the bridge. It's not making a mountain out of a molehill---all the little points that he could remember, as much as possible.
 
 He asked them to go away and think about it for a while and come back another day and they would talk a little more.
 
-They said they\'d give it a try, but they were not very convinced. They went away.
+They said they'd give it a try, but they were not very convinced. They went away.
 
 Three years later, the wife came back to say, "My husband just passed away. But I want to thank you because we have just had three of the most wonderful years of our whole lives."
 
@@ -171,15 +171,15 @@ The cause of that lukewarmness is not so much tiredness, but lack of fight, omis
 
 Sometimes, we may have to make radical decisions about our lifestyle or things that have happened in our lives. We make real changes.
 
-One time, I was giving a class in Singapore. I happened to mention how if you are in some bar someplace, and you find that suddenly the curtain goes up, and the dancing girls come on, you wouldn\'t like your wife or your children to see you in this place. Well, probably God doesn\'t want to see you there either.
+One time, I was giving a class in Singapore. I happened to mention how if you are in some bar someplace, and you find that suddenly the curtain goes up, and the dancing girls come on, you wouldn't like your wife or your children to see you in this place. Well, probably God doesn't want to see you there either.
 
-The following week, a man came to me and said, "You know, I work in a bank and I\'m in auditing and I have a regional job, so I move around quite a lot. I\'m in different cities. We finish work at five or six, and very often we go out for a few beers. I precisely find myself in some of those sorts of places."
+The following week, a man came to me and said, "You know, I work in a bank and I'm in auditing and I have a regional job, so I move around quite a lot. I'm in different cities. We finish work at five or six, and very often we go out for a few beers. I precisely find myself in some of those sorts of places."
 
 He married late in life and he had one daughter and his wife. He loved them very much.
 
-He said, "I realize they wouldn\'t like to see me in those places. I\'ve made a new resolution. Before I even go into these places, I will think of them and ask myself, 'Would my wife and my daughter even like to see me going into this place?' Most of the time the answer is no.
+He said, "I realize they wouldn't like to see me in those places. I've made a new resolution. Before I even go into these places, I will think of them and ask myself, 'Would my wife and my daughter even like to see me going into this place?' Most of the time the answer is no.
 
-"I tell the guys, 'Okay, guys, I\'ll see you some other time. I\'m going to go and have dinner somewhere else.'"
+"I tell the guys, 'Okay, guys, I'll see you some other time. I'm going to go and have dinner somewhere else.'"
 
 That was a man who knew how to identify things that were not right.
 
@@ -187,13 +187,13 @@ There could be little negligences in our life also---little attachments here and
 
 Maybe Our Lord wants us to think out of the box. How can I convert this situation or this opportunity into a real apostolic opportunity?
 
-How can this produce fruit for souls? Because if it doesn\'t, then what am I doing here? What\'s it all about?
+How can this produce fruit for souls? Because if it doesn't, then what am I doing here? What's it all about?
 
 A lukewarm soul can be a soul without love. It is a rather ugly situation.
 
-For a person of Opus Dei to be in a lukewarm situation, it\'s not a healthy thing. Because a soul who loves knows how to give themselves completely---ready to change the direction of my life, or change my plans, or change my lifestyle, or whatever may be necessary.
+For a person of Opus Dei to be in a lukewarm situation, it's not a healthy thing. Because a soul who loves knows how to give themselves completely---ready to change the direction of my life, or change my plans, or change my lifestyle, or whatever may be necessary.
 
-That means that we have to be ready to make sacrifices, so that we don\'t end up wanting to make compatible with our vocation things that in reality are not compatible.
+That means that we have to be ready to make sacrifices, so that we don't end up wanting to make compatible with our vocation things that in reality are not compatible.
 
 There may come a series of little giving-ins here and there, of abandoning the struggle to improve, of not giving importance to venial sins, of not having that desire to be better.
 
@@ -203,7 +203,7 @@ They might have been the most remote person of Opus Dei in the whole world. I as
 
 Very quickly this person said, "Yes, I want to improve! I want to be better!"
 
-I was rather impressed with that answer. "I want to be better!" That is the whole reason I\'m in Opus Dei. In spite of the difficulties of my situation, and a whole pile of other things, "I want to be better."
+I was rather impressed with that answer. "I want to be better!" That is the whole reason I'm in Opus Dei. In spite of the difficulties of my situation, and a whole pile of other things, "I want to be better."
 
 It is a very beautiful and healthy thing to have that deep desire in our soul, in our heart---and therefore, to love the great treasures that God has placed beside us and the means that He's given to us.
 
@@ -213,9 +213,9 @@ There are three specific people in the Gospel who are lukewarm. There is the old
 
 And there is the rich young man. "'Go, sell all that you have. Give to the poor, and you will have treasure in heaven. Then come, follow me.' ... He went away sad because he had great possessions" (*cf*. Matt. 19:21-22).
 
-There\'s a bit of the rich young man in each one of us. We all have great possessions. But we have to be careful that those things do not take a hold of us, or that we are like the older brother.
+There's a bit of the rich young man in each one of us. We all have great possessions. But we have to be careful that those things do not take a hold of us, or that we are like the older brother.
 
-We are working in Our Father\'s field all the time, but with sort of a bitter zeal. Our heart is not really in the things of God. The older brother is full of self-righteousness. He is all tied up in his own things.
+We are working in Our Father's field all the time, but with sort of a bitter zeal. Our heart is not really in the things of God. The older brother is full of self-righteousness. He is all tied up in his own things.
 
 'What about me? Nobody told me. Nobody gives me a goat to make merry with my friends.'
 
@@ -223,9 +223,9 @@ He has no mercy in his heart. No love for his brother or his father. We are not 
 
 It is a very ugly picture. He is fulfilling his duty, he's a good worker, but he's not doing it out of love. That bitter zeal. He is counting the cost. He is full of pride.
 
-It is everything that we should not be. Even though initially he looked like the person to imitate, because he doesn\'t go away from his father\'s house and he doesn\'t waste all his money, in the end, it's the younger brother who is the one to imitate.
+It is everything that we should not be. Even though initially he looked like the person to imitate, because he doesn't go away from his father's house and he doesn't waste all his money, in the end, it's the younger brother who is the one to imitate.
 
-The younger brother makes a deep examination of conscience, he realizes his situation, he realizes the things he has to change and improve. He comes back to his father\'s house. He begins again.
+The younger brother makes a deep examination of conscience, he realizes his situation, he realizes the things he has to change and improve. He comes back to his father's house. He begins again.
 
 There might be little dialogues with temptations that God has permitted in our lives.
 
@@ -241,11 +241,11 @@ But when you jump off that cliff, Our Lady is there, six meters out from the edg
 
 Sometimes God places us back on the edge of the cliff again and says, 'Jump again. Show me again that you love me, that you really want to follow me, that you want to leave everything.'
 
-If we allow those little temptations to take over a little bit; we give in to them a little bit; we don\'t reject them as fast as we should, then they can easily take a hold.
+If we allow those little temptations to take over a little bit; we give in to them a little bit; we don't reject them as fast as we should, then they can easily take a hold.
 
-"You are lukewarm," said St. Josemaría in *The Way*, "if you carry out lazily and reluctantly those things that have to do with Our Lord; if deliberately or \'shrewdly\' you look for some way of cutting down your duties; if you think only of yourself and of your comfort; if your conversations are idle and vain; if you do not abhor venial sin; if you act from human motives" (J. Escrivá, *The Way*, Point 331).
+"You are lukewarm," said St. Josemaría in *The Way*, "if you carry out lazily and reluctantly those things that have to do with Our Lord; if deliberately or 'shrewdly' you look for some way of cutting down your duties; if you think only of yourself and of your comfort; if your conversations are idle and vain; if you do not abhor venial sin; if you act from human motives" (J. Escrivá, *The Way*, Point 331).
 
-If we find ourselves thinking apostolically all the time, that\'s a very good sign. How can I get in contact with more people? How can I make the means of formation or the corporate apostolic works more effective?
+If we find ourselves thinking apostolically all the time, that's a very good sign. How can I get in contact with more people? How can I make the means of formation or the corporate apostolic works more effective?
 
 How can I reach more people? How can I think out of the box in this funny situation that maybe God has placed us in?
 
