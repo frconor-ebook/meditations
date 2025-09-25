@@ -25,7 +25,7 @@ St. Augustine commented, "People who believe in him are enkindled. They receive 
 
 "Set aflame by this fire, the apostles set out across the entire world to inflame others, including their enemies.
 
-"And what enemies did they have? Those who had forsaken God their Creator for the worship of man-made idols. The faith of such as these has been smothered to ashes. It is good for them so they be set alight by this holy flame so that they may once again shine forth in Christ's glory" (St. Augustine, *Commentary on Psalm 97*, Point 5).
+"And what enemies did they have? Those who had forsaken God their Creator for the worship of man-made idols. The faith of such as these has been smothered to ashes. It is good for them so they be set alight by this holy flame so that they may once again shine forth in Christ's glory" (St. Augustine, *Commentary on Psalm 97, Point 5*).
 
 The crucial task of setting the world on fire has been passed on to today's Christians. This fire of love and peace will strengthen and purify souls.
 
@@ -83,7 +83,7 @@ When Our Lord saw the multitude, He had compassion on them, because they were "l
 
 Our Lord had compassion on these people. The love of Our Lord was so great that He went to the extent of giving up His life for them and for us on the Cross.
 
-This is the divine love that should fill our hearts. Then we too will have compassion on the people around us, who perhaps have strayed from Our Lord.
+This is the divine love which should fill our hearts. Then we too will have compassion on the people around us, who perhaps have strayed from Our Lord.
 
 With the help of God's grace and our genuine friendship, hopefully we will bring these souls back to the Master.
 
@@ -91,7 +91,7 @@ In the Mass, a surging current of divine love is transmitted from the Son to the
 
 The Christian then extends this love to other people and to all earthly realities, which are thereby sanctified and made into a fitting offering to God.
 
-Our apostolate should have its roots in the Mass, and should draw its efficacy from there, because the Mass is nothing less than the realization of the Redemption in our time by means of apostolic Christians.
+Our apostolate should have its roots in the Mass and should draw its efficacy from there, because the Mass is nothing less than the realization of the Redemption in our time by means of apostolic Christians.
 
 St. Josemaría in *Friends of God* says that Christ "came on earth to redeem everyone, because 'he wished all men to be saved' (1 Tim. 2:4). There is not a single soul in whom Christ is not interested. Each soul has cost him the price of his Blood" (Josemaría Escrivá, *Friends of God*, Point 256).
 
@@ -127,9 +127,9 @@ The tabernacle should be a Bethany for us, "a quiet and pleasant place where Chr
 
 We will find in the tabernacle the strength we need to do Our Lord's work, in union with many other Christians.
 
-Our Lord said, "I came to cast fire upon the earth, and would that it was already kindled!" (Luke 12:49). This is the fire of divine love which will bring peace and joy to many souls, to families, and to society as a whole.
+Our Lord said, "I came to cast fire upon the earth, and would that it were already kindled!" (Luke 12:49). This is the fire of divine love which will bring peace and joy to many souls, to families, and to society as a whole.
 
-This desire to live as children of God has to be carried out in our ordinary life: at work, in the home, and among our friends, 24-7.
+This desire to live as children of God has to be carried out in our ordinary life: at work, in the home, and among our friends, 24/7.
 
 Every opportunity is an apostolic opportunity. St. Josemaría in *The Way* liked to cry out, "Souls! Apostolic souls! They are for you and for your glory" (J. Escrivá, *The Way*, Point 804).
 
@@ -143,7 +143,7 @@ St. Basil comments, "When you sit down at table, pray. When you eat your bread, 
 
 "When you look up to the heavens and behold the beauty of the stars above, fall down at the feet of God and adore his infinite Wisdom that is manifest in all Creation. Do the same at sunrise and sunset, when you are asleep and when you are awake.
 
-"Give thanks to the God who created all this wonder for your benefit, so that you might know, love, and praise his name" (St. Basil, *Homilia in Julittam martyrem*).
+"Give thanks to the God who created all this wonder for your benefit, so that you might know, love, and praise his name" (St. Basil, *Homilia in Julittam martirem*).
 
 All noble realities of the world bring us to Him. That fire of love is something we have to spread all around us in all moments of the day.
 
