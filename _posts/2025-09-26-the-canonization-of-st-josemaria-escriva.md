@@ -19,11 +19,11 @@ October 6th, the anniversary of the canonization of St. Josemaría, is a special
 
 Everyone who attended the canonization tends to have a special memory of that occasion, something that touched them in a special way. For some people, it was the moment when St. Josemaría was proclaimed a saint, or some other special moment.
 
-Personally, the thing that impressed me most was arriving at St. Peter\'s Square the afternoon before the canonization, walking up the approach road, which is called the Via della Conciliazione, and seeing a tapestry of St. Josemaría hanging from the central balcony of St. Peter\'s. For his beatification, it was over on the left-hand side, but now it was in the center.
+Personally, the thing that impressed me most was arriving at St. Peter's Square the afternoon before the canonization, walking up the approach road, which is called the Via della Conciliazione, and seeing a tapestry of St. Josemaría hanging from the central balcony of St. Peter's. For his beatification, it was over on the left-hand side, but now it was in the center.
 
-It was very impressive to see that picture of St. Josemaría's being lifted up on the facade of St. Peter\'s, as though being lifted up on the face of the Church, and thinking how just a few decades previously, he had lived just a few kilometers away, and now he was being lifted up.
+It was very impressive to see that picture of St. Josemaría's being lifted up on the facade of St. Peter's, as though being lifted up on the face of the Church, and thinking how just a few decades previously, he had lived just a few kilometers away, and now he was being lifted up.
 
-With him being lifted up was his message: the universal call to holiness, that every person on the planet is called to be holy in the ordinary situation in which they\'re placed.
+With him being lifted up was his message: the universal call to holiness, that every person on the planet is called to be holy in the ordinary situation in which they're placed.
 
 That message has great relevance for the whole of humanity. It has relevance for every last person in China.
 
@@ -33,55 +33,55 @@ But the message of St. Josemaría was universal. There is no person, adult, or c
 
 Today is a day of thanksgiving for the life of St. Josemaría, for the gift of St. Josemaría, and for everything that he has meant for the Church and for our lives.
 
-It\'s a great gift of God that He\'s given to each one of us, a grace that He has not given to everybody, and a grace of which God will ask us to account for when the time comes.
+It's a great gift of God that He's given to each one of us, a grace that He has not given to everybody, and a grace of which God will ask us to account for when the time comes.
 
-He\'s given us a focus on this very faithful instrument that He has used to do great things in the world. He was very great, and his life was great, because he responded in such a total way, very faithfully.
+He's given us a focus on this very faithful instrument that He has used to do great things in the world. He was very great, and his life was great, because he responded in such a total way, very faithfully.
 
 We can ask God also that we might have that same fidelity to our calling that he had, with all of its aspects---attention to detail, holiness through our work, holiness in our family, carrying the cross very faithfully, responding to our Christian vocation, to holiness and apostolate, and asking St. Josemaría for the grace on this occasion to be a more fruitful apostle, so that we are apostles in all situations.
 
-We could also ask God for the grace to realize what we have. There\'s a phrase in Scripture where Our Lord says, "If you knew the gift of God..." (John 4:10).
+We could also ask God for the grace to realize what we have. There's a phrase in Scripture where Our Lord says, "If you knew the gift of God..." (John 4:10).
 
-Sometimes we don\'t realize the gift of God. Possibly over time and with grace, we come to have a deeper insight into what it is that God has placed in our hands.
+Sometimes we don't realize the gift of God. Possibly over time and with grace, we come to have a deeper insight into what it is that God has placed in our hands.
 
-We could thank God for the fact that we know St. Josemaría, for being associated with him and with his life, for the regular exposure that we have to the things that he\'s left written for us---*The Way*, *The Forge*, the *Furrow*---spiritual treasures, an immense wealth that possibly many other people in the Church and the world are not exposed to.
+We could thank God for the fact that we know St. Josemaría, for being associated with him and with his life, for the regular exposure that we have to the things that he's left written for us---*The Way*, *The Forge*, the *Furrow*---spiritual treasures, an immense wealth that possibly many other people in the Church and the world are not exposed to.
 
 All this is a call to responsibility. We could ask God for the grace that we might be a little bit more like Him. Christ is our only model. But the saints point out a way to Christ for us.
 
-We have to try and be consequential in the things we see---to launch out into the deep, to keep asking God for the grace to see what He\'s asking of us---have a sort of permanent youthfulness of soul because we are madly in love with our Christian vocation.
+We have to try and be consequential in the things we see---to launch out into the deep, to keep asking God for the grace to see what He's asking of us---have a sort of permanent youthfulness of soul because we are madly in love with our Christian vocation.
 
 St. Josemaría liked to encourage people "to begin and to begin again" (Josemaría Escrivá, *The Way*, Point 292; *The Forge*, Point 384), to keep trying, to ask God for miracles, to keep trying until the last moment of our life, for our own personal conversion, and for the conversion of the people that God has placed around us.
 
-On the occasion of the canonization, I heard a story about a lady supernumerary member of Opus Dei from Madrid who wanted her husband to come to the canonization ceremony. Her husband was a Catholic but was not practicing. He hadn\'t been inside a church for years.
+On the occasion of the canonization, I heard a story about a lady supernumerary member of Opus Dei from Madrid who wanted her husband to come to the canonization ceremony. Her husband was a Catholic but was not practicing. He hadn't been inside a church for years.
 
-So, she asked St. Josemaría, not yet a saint, for that favor that her husband might accompany her to St. Peter\'s, to the ceremony, to this great event that meant so much to her.
+So, she asked St. Josemaría, not yet a saint, for that favor that her husband might accompany her to St. Peter's, to the ceremony, to this great event that meant so much to her.
 
-And she got a favor. Eventually, her husband agreed to come to Rome, to go to St. Peter\'s to attend some of the ceremony.
+And she got a favor. Eventually, her husband agreed to come to Rome, to go to St. Peter's to attend some of the ceremony.
 
-But after about half an hour of the ceremony, he turned to his wife and said, "Look, I\'ve done everything that you asked me to do. I\'ve come here to Rome. I\'ve come to St. Peter\'s. I\'ve come to the ceremony, and now I\'ve had enough. I\'m going back to the hotel at Via della Conciliazione to have a beer." So he left his wife there.
+But after about half an hour of the ceremony, he turned to his wife and said, "Look, I've done everything that you asked me to do. I've come here to Rome. I've come to St. Peter's. I've come to the ceremony, and now I've had enough. I'm going back to the hotel at Via della Conciliazione to have a beer." So he left his wife there.
 
 Halfway through the ceremony, he went back to have his beer. He was a very well-to-do architect. He had done very well in his life, but he had no time for religion.
 
 He was sitting outside his hotel, sipping his beer, and he was watching the people as they came out from the ceremony, all very happy.
 
-What caught his eye was a group of very poor Peruvian farmers who happened to be standing fairly close to where he was sitting. He could see they were very simple people, and he began to see that they\'d come on this enormous journey.
+What caught his eye was a group of very poor Peruvian farmers who happened to be standing fairly close to where he was sitting. He could see they were very simple people, and he began to see that they'd come on this enormous journey.
 
 He began to be rather curious: What made these poor people come here? It must have been a great sacrifice and effort for them.
 
-And so, he began to entertain one of them in conversation, "Why did you come? What\'s this all about?"
+And so, he began to entertain one of them in conversation, "Why did you come? What's this all about?"
 
-They said, "Oh, you see, in our village in rural Peru, we owe an awful lot of things to St. Josemaría. He has done an immense number of favors for us. When we heard that the Church was going to canonize him, we felt that we really had to come. We had to do something special. But we didn\'t have the means.
+They said, "Oh, you see, in our village in rural Peru, we owe an awful lot of things to St. Josemaría. He has done an immense number of favors for us. When we heard that the Church was going to canonize him, we felt that we really had to come. We had to do something special. But we didn't have the means.
 
 "So, we did a novena to him, asking that we might have a double harvest. And he gave us a double harvest. And with that extra that we earned, we were able to get a loan from a bank of \$30,000. There were thirty of us. The fare was \$1,000 each to be here for a few days.
 
-"So, we took that loan, and we\'ll be paying off that loan for the rest of our lives. But we are just so happy to be here and so grateful to God for allowing this to happen and to witness this privileged moment."
+"So, we took that loan, and we'll be paying off that loan for the rest of our lives. But we are just so happy to be here and so grateful to God for allowing this to happen and to witness this privileged moment."
 
 The well-to-do architect from Madrid was beginning to feel very bad because he had been dragged almost kicking and screaming with a rope around his neck by his wife, very reluctantly.
 
 He had made no sacrifice at all to be here. And here were these people who had been so heroic.
 
-So, he took out his checkbook and he wrote out a check for \$30,000 and he handed it to the lady. She looked at it and she said, "Oh, it\'s a miracle! It\'s another miracle of St. Josemaría's."
+So, he took out his checkbook and he wrote out a check for \$30,000 and he handed it to the lady. She looked at it and she said, "Oh, it's a miracle! It's another miracle of St. Josemaría's."
 
-The architect said, "I think I can testify to the fact that it really is a miracle because I\'ve never given anything to anybody in my whole life."
+The architect said, "I think I can testify to the fact that it really is a miracle because I've never given anything to anybody in my whole life."
 
 So that prayer of that lady supernumerary, asking St. Josemaría for a major favor for her husband, was well and truly answered.
 
@@ -95,9 +95,9 @@ Blessed Álvaro del Portillo wrote, "What does the raising of St. Josemaría to 
 
 "If God has given us so much, the grace and the privilege to know such a great saint in the history of the Church, with such a great significance for the whole of humanity, then God must be expecting, and has a right to expect, a lot from each one of us."
 
-He said, "I want to point out to you something that should not remain as if on a secondary plane, for it\'s an evident reality from which many consequences are derived. It is, that with the canonization of St. Josemaría, the Church is raising the founder of Opus Dei to the altars."
+He said, "I want to point out to you something that should not remain as if on a secondary plane, for it's an evident reality from which many consequences are derived. It is, that with the canonization of St. Josemaría, the Church is raising the founder of Opus Dei to the altars."
 
-A couple of years later, Pope Benedict had a statue of St. Josemaría embedded in the walls of the Vatican. It\'s a very interesting and significant detail.
+A couple of years later, Pope Benedict had a statue of St. Josemaría embedded in the walls of the Vatican. It's a very interesting and significant detail.
 
 "This, on the one hand," he says, "impresses upon us once again, the vivid conviction that the spirit of Opus Dei is a way of sanctity. And on the other hand, it urges us to follow that way faithfully until we reach the glory of heaven, as St. Josemaría has done."
 
@@ -111,13 +111,13 @@ St. Josemaría assumed that paternity with the full conviction of being on earth
 
 We could try and have the same conviction in our life, in our family, our mission, what God has called us to do, living out our spirit in a very concrete way.
 
-Blessed Álvaro on another occasion said, "Be convinced of the importance of exercising your personal freedom, which brings with it a corresponding personal responsibility to get involved in national and international bodies, which can be a platform for promoting Christian values regarding the family, education, the defense of human life, and many other issues which have to be approached in accordance with the Church\'s teaching. If your work has anything to do with media, just imagine the apostolic impact it will have if, as it performs its informative and cultural roles, it also bears the stamp of your unity of life."
+Blessed Álvaro on another occasion said, "Be convinced of the importance of exercising your personal freedom, which brings with it a corresponding personal responsibility to get involved in national and international bodies, which can be a platform for promoting Christian values regarding the family, education, the defense of human life, and many other issues which have to be approached in accordance with the Church's teaching. If your work has anything to do with media, just imagine the apostolic impact it will have if, as it performs its informative and cultural roles, it also bears the stamp of your unity of life."
 
 St. Josemaría has opened up for us horizons of apostolate, and great challenges to face the environment in which we live, which sometimes might mean clashing with our environment, but yet making a difference, changing culture.
 
-We\'re told in *The Forge, "*The Lord wants his children, those of us who have received the gift of faith, to proclaim the original optimistic view of creation, the love for the world which is at the heart of the Christian message.---So there should always be enthusiasm in your professional work, and in your effort to build up the earthly city" (J. Escrivá, *The Forge*, Point 703).
+We're told in *The Forge, "*The Lord wants his children, those of us who have received the gift of faith, to proclaim the original optimistic view of creation, the love for the world which is at the heart of the Christian message.---So there should always be enthusiasm in your professional work, and in your effort to build up the earthly city" (J. Escrivá, *The Forge*, Point 703).
 
-We\'re very much involved in building up the earthly city, this part of the earthly city that God has entrusted to each one of us.
+We're very much involved in building up the earthly city, this part of the earthly city that God has entrusted to each one of us.
 
 "You are an ordinary citizen," he says in *The Forge*. "It is precisely because of that secularity of yours, which is the same as, and neither more nor less than, that of your colleagues, that you have to be sufficiently brave---which may sometimes mean being very brave---to make your faith felt. They should see your good works and the motives that drive you to do them" (*Ibid*., Point 723).
 
@@ -139,13 +139,13 @@ One time, again he did not let her use the computer. He hogged the thing all the
 
 Now, the class outing was the most exciting event in the whole of the school year. He had been looking forward to this for weeks and months. And everybody was going.
 
-When he heard that he wasn\'t going to the school outing, he kicked up a big uproar. The parents were very happy that they had hit on the right punishment. Serves him right.
+When he heard that he wasn't going to the school outing, he kicked up a big uproar. The parents were very happy that they had hit on the right punishment. Serves him right.
 
 They were happy because also, they had read all the right books about parenting. They had attended all the right classes. Now they were implementing all the criteria that they had learned.
 
 He was in a big huff, this kid, for a while. The following Monday (that happened on a Saturday), the teacher asked everyone to put up their hands in class, those who were going on the outing. Everybody put up their hand except little Johnny.
 
-The teacher asked, "Why are you not going on the outing?" He said, "Because my parents won\'t let me!" as much as to say it\'s all their fault.
+The teacher asked, "Why are you not going on the outing?" He said, "Because my parents won't let me!" as much as to say it's all their fault.
 
 The teacher later that day called the parents to find out what had happened, what was wrong, to see if they had to make some explanation or something about the outing; and then found out the full story.
 
@@ -153,7 +153,7 @@ That night, the fellow decided he would have one last chance. He would try again
 
 He went into his bedroom and he locked the door. He stayed in his bedroom with a locked door for a period.
 
-But then his mother began to get a bit nervous. He was in his room. He was silent. Twenty minutes passed. Twenty-five minutes passed. At thirty minutes, she found she couldn\'t take it anymore. She had read books or heard stories about children committing suicide in their bedrooms.
+But then his mother began to get a bit nervous. He was in his room. He was silent. Twenty minutes passed. Twenty-five minutes passed. At thirty minutes, she found she couldn't take it anymore. She had read books or heard stories about children committing suicide in their bedrooms.
 
 She went to the door, knocked hard on the door, and said, "Open the door. What are you doing?"
 
@@ -163,29 +163,29 @@ Now the mother was a bit aghast. He was praying the prayer card. Oh, my goodness
 
 She decided that she had to have a powwow with her husband and discuss this thing again. Ever since he was very small, they had tried to bring him up to be a soul of prayer, to have recourse to prayer in difficult moments, to have faith in God, to grow in his soul, to be a spiritual person.
 
-Now in this crisis, here he was praying. As they talked about it, they realized, 'You know, if he doesn\'t get what he wants, maybe he'll lose his faith in prayer and his faith in God and a whole pile of other things. And that\'s much more important than a school outing.'
+Now in this crisis, here he was praying. As they talked about it, they realized, 'You know, if he doesn't get what he wants, maybe he'll lose his faith in prayer and his faith in God and a whole pile of other things. And that's much more important than a school outing.'
 
 After discussing it and studying it for a while, the parents realized that they had to relent and allow him to go on the school outing. And so, he got the favor that he was looking for.
 
 All over the world, in all sorts of places, St. Josemaría has shown his amazing effectiveness and his activity. Very active in all sorts of ways.
 
-In the *Furrow*, he says, "It\'s difficult to make one\'s mark through quiet work and the proper fulfillment of our duties as citizens, so that later one can demand one\'s rights and place them in the service of the Church and of society. It\'s difficult," he says, "but it is very effective" (J. Escrivá, *Furrow*, Point 300).
+In the *Furrow*, he says, "It's difficult to make one's mark through quiet work and the proper fulfillment of our duties as citizens, so that later one can demand one's rights and place them in the service of the Church and of society. It's difficult," he says, "but it is very effective" (J. Escrivá, *Furrow*, Point 300).
 
 The pathway of holiness that St. Josemaría has outlined for each one of us is a pathway of quiet work and the proper fulfillment of our duties as ordinary citizens.
 
-Everything is very ordinary. It\'s a help to fulfill our ordinary duties as ordinary Christians.
+Everything is very ordinary. It's a help to fulfill our ordinary duties as ordinary Christians.
 
 "The moment," he says in *The Forge*, "you have anyone---whoever they may be---at your side, find a way, without doing anything strange, to pass on to him or her the joy you experience in being a child of God and living as such" (J. Escrivá, *The Forge*, Point 143).
 
-We have to try and see how I can be more effective, as St. Josemaría was. "Your task as a Christian citizen," he says, "is to help see Christ\'s love and freedom preside over all aspects of modern life, culture and the economy, work and rest, family life and social relations" (J. Escrivá, *Furrow*, Point 302).
+We have to try and see how I can be more effective, as St. Josemaría was. "Your task as a Christian citizen," he says, "is to help see Christ's love and freedom preside over all aspects of modern life, culture and the economy, work and rest, family life and social relations" (J. Escrivá, *Furrow*, Point 302).
 
-That means also that we have to be very much in touch with the world, reading the newspaper, keeping abreast of current affairs, including sports. We\'re not just like other people on the street, we are the other people on the street.
+That means also that we have to be very much in touch with the world, reading the newspaper, keeping abreast of current affairs, including sports. We're not just like other people on the street, we are the other people on the street.
 
 It means acting with this quality in social, professional, and political life, living out our Christian vocation to the full.
 
-At the same time, we're realizing that we are not really doing anything special. We\'re just living the life that God has given us to give.
+At the same time, we're realizing that we are not really doing anything special. We're just living the life that God has given us to give.
 
-We're told in St. Luke, "When you have done all that you\'ve been told to do, say, 'We are useless servants; we\'ve done no more than our duty'" (Luke 17:10).
+We're told in St. Luke, "When you have done all that you've been told to do, say, 'We are useless servants; we've done no more than our duty'" (Luke 17:10).
 
 On this special day, we can ask St. Josemaría to give us the grace to have a greater devotion to him and to ask him for more and more things every day. Also, to do the people that we come in contact with, all sorts of people, the favor of their lives, by giving them a prayer card to St. Josemaría.
 
