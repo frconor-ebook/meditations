@@ -13,7 +13,7 @@ By Fr. Conor Donnelly
 
 "With one heart all these joined constantly in prayer, together with some women, including Mary the Mother of Jesus, and with his brothers" (Acts 1:14).
 
-We\'re told in the Acts of the Apostles how the Apostles were united in prayer to Our Lady. When we pray the Rosary, we\'re united in a special way to Our Lady.
+We're told in the Acts of the Apostles how the Apostles were united in prayer to Our Lady. When we pray the Rosary, we're united in a special way to Our Lady.
 
 A retired parliamentarian many years ago in another country told me how he would go three or four times a week to have lunch in Parliament House, together with his other colleagues, retired also.
 
@@ -23,15 +23,15 @@ He was the only Christian, the only Catholic, among this group of eight or ten. 
 
 Some were Buddhists, some were Hindus, some were nothing. Maybe there was a Protestant there.
 
-One time at the end of the meal, they were standing up to go, and one of them suddenly said to him, "What\'s this thing that you Catholics pray where you pray one and you pray ten and you pray one? What\'s that all about?"
+One time at the end of the meal, they were standing up to go, and one of them suddenly said to him, "What's this thing that you Catholics pray where you pray one and you pray ten and you pray one? What's that all about?"
 
-He said, "Oh, that\'s called the Rosary."
+He said, "Oh, that's called the Rosary."
 
-"And what\'s the one and what\'s the ten and what\'s the one?"
+"And what's the one and what's the ten and what's the one?"
 
 "The one is the *Our Father* and the ten are the *Hail Mary*s and the one is a *Glory Be*."
 
-"And what\'s all this about the Hail Mary?"
+"And what's all this about the *Hail Mary*?"
 
 And so, he began to explain. He began to give an impromptu talk on the Rosary to these very educated gentlemen who had never heard about any such thing in their life.
 
@@ -43,9 +43,9 @@ We have a great privilege in knowing the Rosary, in knowing Our Lady, in knowing
 
 We can thank God for that particular grace and try and use it well, grow in our devotion to the Rosary, be able to explain it to other people in certain moments, use it as the powerful weapon that it is.
 
-Pope St. John Paul wrote a marvelous letter on the Rosary in the Year of the Rosary, way back in 2002 and 2003. In that document, he says the Rosary is a "simple yet profound" prayer (John Paul II, Apostolic Letter, *Rosarium Virginis Mariae*, October 16, 2002).
+Pope St. John Paul wrote a marvelous Letter on the Rosary in the Year of the Rosary, way back in 2002 and 2003. In that document, he says the Rosary is a "simple yet profound" prayer (John Paul II, Apostolic Letter, *Rosarium Virginis Mariae*, Point 1, October 16, 2002).
 
-It\'s good that we don\'t miss the profundity of the Rosary. It goes very deep. He said, "It still remains, at the dawn of this third millennium, a prayer of great significance, destined to bring forth a harvest of holiness."
+It's good that we don't miss the profundity of the Rosary. It goes very deep. He said, "It still remains, at the dawn of this third millennium, a prayer of great significance, destined to bring forth a harvest of holiness" (*ibid*.).
 
 Here is one of the greatest popes in human history proclaiming that at the dawn of the third millennium, the Rosary has a great role to play: "a prayer of great significance."
 
@@ -57,9 +57,9 @@ He says, "It blends easily into the spiritual journey of the Christian life." It
 
 We could have our hand in the Rosary; we could be getting through a decade or two here and there.
 
-If we\'re generous, perhaps we could manage more than one Rosary, because also we might see that with all the great enterprises that we have to bring forward, we need a lot of prayer to invest there. With a lot of reason, we may make it "blend easily into our spiritual journey."
+If we're generous, perhaps we could manage more than one Rosary, because also we might see that with all the great enterprises that we have to bring forward, we need a lot of prayer to invest there. With a lot of reason, we may make it "blend easily into our spiritual journey."
 
-Pope St. John Paul liked to call the vocation of Our Lady and the vocation of every Christian "a pilgrimage of faith" (John Paul II, *General Audience*, March 21, 2001; Vatican II, *Lumen gentium*, Point 58).
+Pope St. John Paul liked to call the vocation of Our Lady and the vocation of every Christian "a pilgrimage of faith" (John Paul II, *General Audience*, March 21, 2001; Vatican II, *Lumen gentium*, Point 58, November 21, 1964).
 
 How very proper that along that pilgrimage of faith we turn to the Queen of Faith, the Mother of Faith, she who puts that faith into practice, so that we might ask her in and through the Rosary to help us to put that faith into practice.
 
@@ -69,13 +69,13 @@ In all those *Hail Mary*s we say, "Blessed is the fruit of your womb (Luke 1:42)
 
 He says that "though clearly Marian in character, the Rosary is at heart a Christocentric prayer."
 
-It\'s a very nice word, Christocentric. We are followers of Christ, following in His pathway, imitating His virtues. It\'s very proper that we are Christ-centered. The Rosary in its *Hail Mary*s helps us to be precisely that.
+It's a very nice word, Christocentric. We are followers of Christ, following in His pathway, imitating His virtues. It's very proper that we are Christ-centered. The Rosary in its *Hail Mary*s helps us to be precisely that.
 
 He says, "It has all the depth of the Gospel message in its entirety, of which it can be said to be a compendium" (Paul VI, Apostolic Exhortation, *Marialis Cultus*, Point 42, February 2, 1974).
 
 As we move through the decades we are reminded of all the different moments of the Gospel. The life of Christ comes across to us with great clarity.
 
-We grow in our spirit of prayer, our understanding of our vocation and of our mission, into the joyful mysteries; we understand the mystery of the Cross in the sorrowful mysteries; the great things that Christ achieved in and through the glorious mysteries; and the moments of great joy in and through the mysteries of light.
+We grow in our spirit of prayer, our understanding of our vocation and of our mission, into the Joyful Mysteries; we understand the mystery of the Cross in the Sorrowful Mysteries; the great things that Christ achieved in and through the Glorious Mysteries; and the moments of great joy in and through the Mysteries of Light.
 
 I was talking to a man once who had great devotion to the Rosary, and a little curious about how he came to have such great devotion.
 
@@ -97,7 +97,7 @@ We sit at the school of Mary. The life of Our Lady is a school of virtue as we g
 
 We learn how to function like little children who turn to their mother because they need her power, her consolation, her joy. They need her help to find the meaning and the purpose of their life along that pilgrimage of faith.
 
-We sit at that school, where we learn many lessons: lessons with our eyes as we contemplate what\'s taking place, lessons with our ears.
+We sit at that school, where we learn many lessons: lessons with our eyes as we contemplate what's taking place, lessons with our ears.
 
 "We learn to contemplate the beauty," he says, "on the face of Christ."
 
@@ -105,11 +105,11 @@ John Paul II used to talk a lot about the "culture of life" and the "culture of 
 
 Pope Benedict brought that on to a more philosophical plane. He talked about the cult of beauty as opposed to the cult of ugliness. He said the world is presenting all sorts of ugly things to young people and to people in general.
 
-We are called to cultivate beauty, to present beauty (cf. Joseph Ratzinger, *Message on The Feeling of Things, The Contemplation of Beauty*, August 24, 2002).
+We are called to cultivate beauty, to present beauty (*cf*. Joseph Ratzinger, *Message on The Feeling of Things, The Contemplation of Beauty*, August 24, 2002).
 
-If we contemplate the beauty on the face of Christ and of Mary, that beauty would become part of our life. We would reflect it---\"the fragrance of Christ" that St. Paul talks about (2 Cor. 2:15).
+If we contemplate the beauty on the face of Christ and of Mary, that beauty would become part of our life. We would reflect it---"the fragrance of Christ" that St. Paul talks about (2 Cor. 2:15).
 
-The good odor of Christ. Other people will detect it. They\'ll see it in our words, in our actions. Through the Rosary we would help others to experience the depth of His love.
+The good odor of Christ. Other people will detect it. They'll see it in our words, in our actions. Through the Rosary we would help others to experience the depth of His love.
 
 And with the depth of His love, the meaning of His love---that love is sacrifice, the willingness to be on the cross.
 
@@ -137,27 +137,27 @@ If the challenges are greater, greater are the graces. If God brings us to diffi
 
 Our Lady is beside us in those difficult moments, like that man who talked about how he discovered the Rosary and fell back on that support that he needed in those crucial moments.
 
-Pope St. John Paul talked about "contemplating the face of Christ in union with, and at the school of, his Most Holy Mother."
+Pope St. John Paul talked about "contemplating the face of Christ in union with, and at the school of, his Most Holy Mother" (*Rosarium Virginis Mariae,* Point 3).
 
-She must have always been looking on the face of her Son in Bethlehem, in Nazareth, and ultimately at the Cross. She kept all these things carefully in her mind and in her heart (cf. Luke 2:19). She was always very focused on the Christ Child.
+She must have always been looking on the face of her Son in Bethlehem, in Nazareth, and ultimately at the Cross. She kept all these things carefully in her mind and in her heart (*cf*. Luke 2:19). She was always very focused on the Christ Child.
 
 He said, "The Rosary should be especially emphasized and promoted." We know how frequently in the Church the Holy Fathers have talked about the Family Rosary.
 
-There may be a time in your life, in your family, when you can pray the Rosary together with your children. But it shouldn\'t be something obligatory. You should always leave them free.
+There may be a time in your life, in your family, when you can pray the Rosary together with your children. But it shouldn't be something obligatory. You should always leave them free.
 
-If there comes a time when the children find the Rosary a difficult prayer to say, or they don\'t want to pray it with you, never mind, you pray it anyway.
+If there comes a time when the children find the Rosary a difficult prayer to say, or they don't want to pray it with you, never mind, you pray it anyway.
 
-Let them see your silent example of your faith in the Rosary, of how it\'s a powerful missile in your life, so that they too can carry that legacy with them of how you have prayed the Rosary, how you\'ve loved that means.
+Let them see your silent example of your faith in the Rosary, of how it's a powerful missile in your life, so that they too can carry that legacy with them of how you have prayed the Rosary, how you've loved that means.
 
-You don\'t have to lecture them about it. You don\'t have to plead with them. You just have to give that silent witness of your faith.
+You don't have to lecture them about it. You don't have to plead with them. You just have to give that silent witness of your faith.
 
-That\'s a great way of emphasizing it and promoting it. That\'s what Pope St. John Paul was talking about when he proclaimed that Year of the Rosary a number of years ago.
+That's a great way of emphasizing it and promoting it. That's what Pope St. John Paul was talking about when he proclaimed that Year of the Rosary a number of years ago.
 
-Fulton Sheen tells a story of how a young girl came to him once and complained that the Rosary was a very repetitive prayer and, because of that, was very insincere: "We don\'t really mean what we say because we repeat the same things all the time."
+Fulton Sheen tells a story of how a young girl came to him once and complained that the Rosary was a very repetitive prayer and, because of that, was very insincere: "We don't really mean what we say because we repeat the same things all the time."
 
-He asked this lady, "Who\'s that young man with you?"
+He asked this lady, "Who's that young man with you?"
 
-"Oh, that\'s my fiancé."
+"Oh, that's my fiancé."
 
 "Oh, does he love you?" "Yes."
 
@@ -169,45 +169,45 @@ He asked this lady, "Who\'s that young man with you?"
 
 "Did he ever tell you before that?" "Yes, the week before that."
 
-Fulton Sheen says, "Well, I wouldn\'t pay too much attention to him if I were you. He\'s very repetitive; he can\'t be very sincere."
+Fulton Sheen says, "Well, I wouldn't pay too much attention to him if I were you. He's very repetitive; he can't be very sincere."
 
-People in love say the same things. They don\'t necessarily come out with new words every time that they start a conversation.Supercalifragilisticexpialidocious. They say the same things.
+People in love say the same things. They don't necessarily come out with new words every time that they start a conversation. Supercalifragilisticexpialidocious. They say the same things.
 
-In the Rosary, we say the same things. We remind Our Lady that she\'s beautiful. "Hail Mary, full of grace. The Lord is with you."
+In the Rosary, we say the same things. We remind Our Lady that she's beautiful. "Hail Mary, full of grace. The Lord is with you."
 
-These are wonderful compliments that we pay to the Mother of God---things she loves to hear, like every woman loves to hear that she\'s beautiful.
+These are wonderful compliments that we pay to the Mother of God---things she loves to hear, like every woman loves to hear that she's beautiful.
 
 We remind her of her vocation, that crucial moment in her life:
 
-"In the sixth month the angel Gabriel was sent by God to a town in Galilee called Nazareth, to a virgin betrothed to a man named Joseph of the House of David, and the virgin\'s name was Mary. He went in and said to her, 'Hail Mary, full of grace, the Lord is with you.' She was deeply disturbed by these words and asked herself what this greeting could mean" (Luke 1:26-29).
+"In the sixth month the angel Gabriel was sent by God to a town in Galilee called Nazareth, to a virgin betrothed to a man named Joseph of the House of David, and the virgin's name was Mary. He went in and said to her, 'Hail Mary, full of grace, the Lord is with you.' She was deeply disturbed by these words and asked herself what this greeting could mean" (Luke 1:26-29).
 
 Our Lady loves to be reminded of those moments. We call on all her power in and through the Rosary. The power of Mary is very great.
 
-There was a lady in Nigeria once who told a friend of hers who was not a Catholic that she would collect her from hospital. She\'d had an operation. She went there to the hospital to collect her friend to drive her home.
+There was a lady in Nigeria once who told a friend of hers who was not a Catholic that she would collect her from hospital. She'd had an operation. She went there to the hospital to collect her friend to drive her home.
 
-The friend asked if on the way home they could pass by the witch doctor, because although she\'d had the surgical operation, she wanted to just make sure that everything was as it should be, to use all the means.
+The friend asked if on the way home they could pass by the witch doctor, because although she'd had the surgical operation, she wanted to just make sure that everything was as it should be, to use all the means.
 
-The Catholic lady wasn\'t very comfortable about this. She\'d never been to a witch doctor before and she knew it wasn\'t right. But she had promised to drive her friend home, so she felt she had to sort of go along with her.
+The Catholic lady wasn't very comfortable about this. She'd never been to a witch doctor before and she knew it wasn't right. But she had promised to drive her friend home, so she felt she had to sort of go along with her.
 
 When her friend went into the witch doctor, she decided to go in also because she was curious to see what he was going to say and do.
 
 The witch doctor sat at a little table with a few stones on the table in front of him. When the lady came in, he took these stones and he rattled them a little bit, and then threw them onto the table.
 
-The stones were meant to spread out so that the witch doctor could read the stones. But this time the stones didn\'t spread out. They stayed together in a clump on the table.
+The stones were meant to spread out so that the witch doctor could read the stones. But this time the stones didn't spread out. They stayed together in a clump on the table.
 
-He took them and he shook them again. But then the same thing happened. The stones didn\'t spread out. The witch doctor said: "This is very unusual; this hasn\'t happened before."
+He took them and he shook them again. But then the same thing happened. The stones didn't spread out. The witch doctor said: "This is very unusual; this hasn't happened before."
 
-And a third time he took the stones, and he rattled them a little bit in his hands, and he threw them onto the table. And still they didn\'t spread out. They stayed in a clump in the middle of the table.
+And a third time he took the stones, and he rattled them a little bit in his hands, and he threw them onto the table. And still they didn't spread out. They stayed in a clump in the middle of the table.
 
-The witch doctor said: "There\'s some power at work here that\'s greater than my power. Empty your pockets, both of you."
+The witch doctor said: "There's some power at work here that's greater than my power. Empty your pockets, both of you."
 
 They emptied their pockets, and out of the pocket of the lady who was a Catholic came her rosary beads.
 
-The witch doctor said: "That\'s what\'s impeding my power. Now get out of here, both of you, and don\'t ever come back."
+The witch doctor said: "That's what's impeding my power. Now get out of here, both of you, and don't ever come back."
 
-So---testimony of witch doctor about the power of the Rosary. He\'d obviously bumped into Our Lady on a previous occasion.
+So---testimony of witch doctor about the power of the Rosary. He'd obviously bumped into Our Lady on a previous occasion.
 
-Pope St. John Paul says, "The Rosary...goes to the very heart of Christian life; it offers a familiar yet fruitful spiritual and educational opportunity for personal contemplation, the formation of the People of God, and the new evangelization."
+Pope St. John Paul says, "The Rosary...goes to the very heart of Christian life; it offers a familiar yet fruitful spiritual and educational opportunity for personal contemplation, the formation of the People of God, and the new evangelization" (*ibid*.).
 
 These are great perspectives that the Holy Father is opening up: an opportunity for personal contemplation, for the formation of the People of God, for the new evangelization.
 
@@ -215,9 +215,9 @@ The Holy Father at the start of the 21st century is sort of raising a battle cry
 
 He says, "The most important reason for strongly encouraging the practice of the Rosary is that it represents the most effective means of fostering among the faithful that commitment to the contemplation of the Christian mystery."
 
-It leads us back all the time to contemplate Christ, to bring Him into our life.
+It leads us back all the time to contemplate Christ, to bring Him into our life. He says with it we get "a genuine training in holiness" (*ibid*., Point 5).
 
-He says with it we get "a genuine training in holiness. ... "What is needed," he said, "is a Christian life distinguished above all in the art of prayer" (John Paul II, Apostolic Letter, *Novo millennio inuente*, Point 32, January 6, 2001).
+"What is needed," he said, "is a Christian life distinguished above all in the art of prayer" (John Paul II, Apostolic Letter, *Novo millennio inuente*, Point 32, January 6, 2001).
 
 Our Lady leads us forward in the "art of prayer." He says families "should become genuine schools of prayer."
 
@@ -227,17 +227,17 @@ We remind ourselves that Our Lady is always in our midst.
 
 "For centuries," he says, "pilgrims with beads in hand would come from various walks of life---whole families and parishes---to learn from Mary the love of Christ" (John Paul II, *Address on the Recitation of the Rosary*, June 7, 1997).
 
-Lucia of Fatima liked to say that we are reminded of God by simply taking hold of the beads---another beautiful idea, that just by holding the beads in our hands we\'re reminded of God.
+Lucia of Fatima liked to say that we are reminded of God by simply taking hold of the beads---another beautiful idea, that just by holding the beads in our hands we're reminded of God.
 
 In moments of temptation, we can put our hand on our rosary beads in our pocket or in our handbag someplace.
 
-He says, "They chose in this way the best school, for in meditating on the mysteries of the Rosary, we see through her eyes the mysteries of the Lord\'s life, his Passion, Death, and Resurrection. We re-live them as she lived them in her Mother\'s heart.
+He says, "They chose in this way the best school, for in meditating on the mysteries of the Rosary, we see through her eyes the mysteries of the Lord's life, his Passion, Death, and Resurrection. We re-live them as she lived them in her Mother's heart.
 
 "When we say the Rosary, we speak to Mary. We confidently entrust to her all our concerns and sorrows, our joys and hopes.
 
-"We ask her to help us to accept God\'s plans and to obtain from her Son the necessary grace to carry them out faithfully.
+"We ask her to help us to accept God's plans and to obtain from her Son the necessary grace to carry them out faithfully.
 
-"She---joyous, sorrowful, and glorious---always at her Son\'s side---is at the same time present in the midst of our everyday problems" (*Ibid*.).
+"She---joyous, sorrowful, and glorious---always at her Son's side---is at the same time present in the midst of our everyday problems" (*ibid*.).
 
 We turn to Mary, as we have to turn our gaze frequently.
 
@@ -245,15 +245,15 @@ Pope Pius V established the Feast of Our Lady of the Rosary in 1573. The purpose
 
 The development of the Rosary has had a long history. Firstly, it was a practice developed by praying 150 *Our Father*s, an imitation of the 150 Psalms.
 
-Then there was a parallel practice of praying 150 *Hail Mary*s. Soon, a mystery of Our Lord\'s life was attached to each Hail Mary.
+Then there was a parallel practice of praying 150 *Hail Mary*s. Soon, a mystery of Our Lord's life was attached to each Hail Mary.
 
-The development of the Rosary owes a lot to the followers of St. Dominic, the Dominicans. It was in the 16th century when the Rosary adapted its present form, with all the mysteries: joyful, sorrowful, and glorious.
+The development of the Rosary owes a lot to the followers of St. Dominic, the Dominicans. It was in the 16th century when the Rosary adapted its present form, with all the Mysteries: Joyful, Sorrowful, and Glorious. In 2002, Pope St. John Paul added the Mysteries of Light.
 
-In 2002, Pope St. John Paul added the mysteries of light. It has a long history to bring it to where it was and where it is today.
+It has a long history to bring it to where it was and where it is today.
 
 "It helps us to meditate on the great mysteries of our salvation. Pope Pius XII called it "the compendium of the Gospel" (Paul VI, Apostolic Exhortation, *Marialis Cultus*, Point 42, February 2, 1974).
 
-"The main focus is on Jesus---His birth, His life, death, and resurrection. The *Our Father*s remind us that Jesus\' Father is "the initiator of salvation" (Heb. 2:10).
+"The main focus is on Jesus---His birth, His life, death, and resurrection. The *Our Father*s remind us that Jesus' Father is "the initiator of salvation" (Heb. 2:10).
 
 "The *Hail Mary*s remind us to join with Mary in contemplating those mysteries. They also remind us that Mary was and is intimately joined with her Son in all the mysteries of His earthly and heavenly existence. The *Glory Be*s remind us that the purpose of all life is the glory of the Trinity.
 
@@ -261,19 +261,19 @@ In 2002, Pope St. John Paul added the mysteries of light. It has a long history 
 
 "We sense that Jesus and Mary are with us in the joys and sorrows of life. We grow in hope that God will bring us to share in the glory of Jesus and Mary forever" (Franciscan Media, *The Story of Our Lady of the Rosary*).
 
-Pope Paul VI says, "By its nature and recitation, the Rosary calls for a quiet rhythm and a lingering pace, helping the individual to meditate on the mysteries of the Lord\'s life as grasped by the heart of her who is closer to the Lord than all the others" (Paul VI, Apostolic Exhortation, *Marialis Cultus*, Point 47, February 2, 1974).
+Pope Paul VI says, "By its nature and recitation, the Rosary calls for a quiet rhythm and a lingering pace, helping the individual to meditate on the mysteries of the Lord's life as grasped by the heart of her who is closer to the Lord than all the others" (Paul VI, Apostolic Exhortation, *Marialis Cultus*, Point 47, February 2, 1974).
 
 We are told in *The Forge*, "I have come to see every Hail Mary, every greeting of Our Lady, is a new beat of a heart in love" (Josemaría Escrivá, *The Forge*, Point 615).
 
-"The Virgin Mary," Pope John Paul says, "is the unsurpassable model of Christian contemplation. From Our Lord\'s conception until his resurrection and ascension into heaven, the Mother kept the gaze of her immaculate heart fixed on her divine Son, a wondrous, penetrating, sorrowful, and radiant gaze.
+"The Virgin Mary," Pope John Paul says, "is the unsurpassable model of Christian contemplation. From Our Lord's conception until his resurrection and ascension into heaven, the Mother kept the gaze of her immaculate heart fixed on her divine Son, a wondrous, penetrating, sorrowful, and radiant gaze.
 
 "It is this Marian look, full of faith and love, that the individual Christian and the ecclesial community make their own when they recite the Rosary" (John Paul II, *Angelus*, October 27, 2002).
 
 We are also told in *The Forge*, "The Holy Rosary: the joys, the sorrows, and the glories of the life of Our Lady weave a crown of praises, repeated ceaselessly by the Angels and the Saints in heaven---and by those who love Our Mother here on earth. ---Practice this devotion every day, and spread it" (J. Escrivá, *The Forge*, Point 621).
 
-"Holy Mary is the Queen of Peace, and thus the Church invokes her. So when your soul or your family are troubled, or things go wrong at work, in society, or between nations, cry out to her without ceasing. Call to her by this title: Queen of Peace, pray for us. Have you at least tried it when you\'ve lost your calm? ---You will be surprised at its immediate effect" (J. Escrivá, *Furrow*, Point 874).
+"Holy Mary is the Queen of Peace, and thus the Church invokes her. So when your soul or your family are troubled, or things go wrong at work, in society, or between nations, cry out to her without ceasing. Call to her by this title: Queen of Peace, pray for us. Have you at least tried it when you've lost your calm? ---You will be surprised at its immediate effect" (J. Escrivá, *Furrow*, Point 874).
 
-"Develop a lively devotion for Our Mother. She knows how to respond in the most sensitive way to the presence we give her. What is more, if you say the Holy Rosary every day, with a spirit of faith and love, Our Lady will make sure she leads you very far along her Son\'s path" (*Ibid*., Point 691).
+"Develop a lively devotion for Our Mother. She knows how to respond in the most sensitive way to the presence we give her. What is more, if you say the Holy Rosary every day, with a spirit of faith and love, Our Lady will make sure she leads you very far along her Son's path" (*ibid*., Point 691).
 
 In this month of the Rosary, we could ask Our Lady, Queen of the Most Holy Rosary, to increase our devotion to this great means that she has given to us.
 
