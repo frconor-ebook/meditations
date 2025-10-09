@@ -11,11 +11,11 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"Who in hope believed against hope, to the end that he might become the father of many nations, according to that which had been spoken, 'So shall your seed be'" (Rom. 4:18).
+"Who in hope believed against hope, to the end that he might become the father of many nations, according to that which had been spoken, 'So shall your seed be'" (Rom. 4:18; Gen. 15:5).
 
 St. Paul says these words in his Letter to the Romans, referring to Abraham.
 
-Christian asceticism pictures man\'s life on earth as a journey that has its end in God. We are all like men on a journey, a wayfarer, longing to turn his steps quickly towards his definitive goal: God.
+Christian asceticism pictures man's life on earth as a journey that has its end in God. We are all like men on a journey, a wayfarer, longing to turn his steps quickly towards his definitive goal: God.
 
 St. Paul VI says because of this we must all "provide ourselves with hope if we want to walk with a firm and certain step along the hard path in front of us" (Paul VI, *Address*, December 9, 1975).
 
@@ -23,23 +23,23 @@ If the traveler were to lose hope of reaching their destination, they would not 
 
 As Christians we want to travel very straight and fast towards holiness---to God.
 
-In human life, when a person sets themselves an objective, their hope of achieving it is based on their physical resilience, their training, and their own experience. When all is said and done, it\'s based on their willpower which enables them, if necessary, to draw strength from their very weakness.
+In human life, when a person sets themselves an objective, their hope of achieving it is based on their physical resilience, their training, and their own experience. When all is said and done, it's based on their willpower which enables them, if necessary, to draw strength from their very weakness.
 
-To reach the supernatural end of our existence, we don\'t rely only on our own strength, but on God, who is all-powerful. He\'s the faithful friend who doesn\'t let us down.
+To reach the supernatural end of our existence, we don't rely only on our own strength, but on God, who is all-powerful. He's the faithful friend who doesn't let us down.
 
-I heard a story once of some people who were out sailing and a bad storm arose, and the waters were coming in, and the waves were coming over the edge of the boat. Things weren\'t looking good, and they were a bit stuck.
+I heard a story once of some people who were out sailing and a bad storm arose, and the waters were coming in, and the waves were coming over the edge of the boat. Things weren't looking good, and they were a bit stuck.
 
 But then around the corner of the head of land that was close by, they saw a much bigger boat, a trawler, that was heading into the harbor to take refuge. They were able to send a signal to that bigger boat.
 
 They had sent many signals to the land before, but nobody saw them. Now they sent a signal to this bigger boat, who saw the signals, and they realized that the ability of the bigger boat to be able to help them depended on the power of that bigger boat to be able to throw them a line, to be able to pull them into shore.
 
-But it also depended on the goodwill of the people in the other boat, because if they were in a hurry into the harbor with their catch, or they couldn\'t be bothered helping these other people, they might have just passed them by.
+But it also depended on the goodwill of the people in the other boat, because if they were in a hurry into the harbor with their catch, or they couldn't be bothered helping these other people, they might have just passed them by.
 
 But they had the power, and they had the goodwill, and they were able to throw them a line, and they were able to pull them into land. And so, they lived to tell the tale.
 
-Our hope in Our Father God is based on those same two principles: He\'s all-powerful, He\'s able to do anything; and also, He\'s all goodness.
+Our hope in Our Father God is based on those same two principles: He's all-powerful, He's able to do anything; and also, He's all goodness.
 
-Our trust in Him and our hope in Him is well justified. To reach the supernatural end of our existence, therefore, we rely on that goodness and power of our all-lovable Father God. He\'s the friend who doesn\'t let us down.
+Our trust in Him and our hope in Him is well justified. To reach the supernatural end of our existence, therefore, we rely on that goodness and power of our all-lovable Father God. He's the friend who doesn't let us down.
 
 His goodness and His mercy are not the same as the goodness and mercy of men, which may frequently be "like a morning cloud, like the dew that goes early away" (Hos. 6:4).
 
@@ -53,11 +53,11 @@ The greater the difficulties and the weaker we are, the stronger our hope in God
 
 In his Letter to the Romans, St. Paul recalls how Abraham "believed in hope against hope, that he should become the father of many nations, as he had been told" (Rom. 4:18).
 
-Pope John Paul I comments: "You will still say, 'How can this happen?' The answer is it can happen because it clings tightly to three truths: God is omnipotent, God loves me immensely, and God is faithful to His promises.
+Pope John Paul I comments: "You will still say, 'How can this happen?' The answer is it can happen because it clings tightly to three truths: God is omnipotent, God loves me immensely, and God is faithful to his promises.
 
 "And it is he, the God of mercy, who awakens trust within me; trust which makes me know that I am not alone, or useless, or cast aside, but rather I am a part of a salvific destiny which will end one day in Paradise" (John Paul I, *Address*, September 20, 1978).
 
-Abraham did not hesitate despite his advanced years and his wife\'s sterility. He trusted firmly in the power and mercy of God, being fully persuaded that "God is able to do what He promises" (Rom. 4:21).
+Abraham did not hesitate despite his advanced years and his wife's sterility. He trusted firmly in the power and mercy of God, "being fully persuaded that God is able to do what He promises" (Rom. 4:21).
 
 And we, "Aren't we going to trust Jesus Christ," said one author, "'who was delivered up for our sins and rose again for our justification' (Rom. 4:25)? How could God leave us alone to deal with the obstacles we encounter which try to prevent us living in accordance with the call we have received from him?
 
@@ -71,7 +71,7 @@ The driver, the husband, and the two children were drowned, but the mother manag
 
 At the funeral of her husband and two children, her family gone in a second, she stood up to speak, heartbroken. She said, "Cherish your family. Your family can be here today and gone tomorrow."
 
-She also said, \"If God has left me, it\'s because He has a purpose for my existence."
+She also said, "If God has left me, it's because He has a purpose for my existence."
 
 There was a woman at a very difficult moment of her life, possibly the most difficult, who had learned how to see that moment with a supernatural perspective, to have hope in God for the future when nothing seemed to make any sense.
 
@@ -83,29 +83,29 @@ The car lurched forward and hit a three- or four-year old little girl who was th
 
 Of course, both mothers were heartbroken. But the mother of the dead child was able to forgive the other mother, who was equally distraught. They had to look forward to the rest of their lives with hope, with peace.
 
-This virtue is not based on our own worthiness, on our own personal situation in life, or on the absence of difficulties, but on God\'s will---on His will that we should reach the goal---a will which is always accompanied by all the grace and help that we can need in any possible circumstances.
+This virtue is not based on our own worthiness, on our own personal situation in life, or on the absence of difficulties, but on God's will---on His will that we should reach the goal---a will which is always accompanied by all the grace and help that we can need in any possible circumstances.
 
-If God allows situations to happen that lead us to put all our hope and trust in Him, because nothing seems to have worked out, nothing seems to be according to reason, it\'s because He wants us to put all our hope in Him, to try and see that there\'s some great apostolic purpose in all of those experiences.
+If God allows situations to happen that lead us to put all our hope and trust in Him, because nothing seems to have worked out, nothing seems to be according to reason, it's because He wants us to put all our hope in Him, to try and see that there's some great apostolic purpose in all of those experiences.
 
-It may be that in a week or two, or a month or two, or a year or two, some other person will be brought in contact with us who perhaps has experienced something similar. Because we\'ve been there, we know what to say to them; how to give them hope and trust, even when they have to believe in hope against hope.
+It may be that in a week or two, or a month or two, or a year or two, some other person will be brought in contact with us who perhaps has experienced something similar. Because we've been there, we know what to say to them; how to give them hope and trust, even when they have to believe in hope against hope.
 
-In *The* *Forge*, we\'re told: "Though I should walk through the valley of the shadow of death, no evil will I fear. Neither my wretchedness nor the temptations of the enemy will worry me---for you, Lord, are with me" (Josemaría Escrivá, *The Forge*, Point 194).
+In *The* *Forge*, we're told: "Though I should walk through the valley of the shadow of death, no evil will I fear. Neither my wretchedness nor the temptations of the enemy will worry me---for you, Lord, are with me" (Josemaría Escrivá, *The Forge*, Point 194).
 
 So many places in the Gospel show us time and again how God is closer to those who need Him most, inviting us to hope in spite of the obstacles, or the setbacks, or the pain.
 
-He has come to cure, to forgive, to save, and not only to preserve those who are whole. He\'s the divine Physician who, above all, cures the sicknesses of the soul.
+He has come to cure, to forgive, to save, and not only to preserve those who are whole. He's the divine Physician who, above all, cures the sicknesses of the soul.
 
 "Those who are well have no need of a physician, but those who are sick" (Mark 2:17). He says this to those who criticized Him for eating with publicans and sinners.
 
-When the things of the soul are not going well, when they have lost their health---and we're never completely well---Our Lord is ready to pour out more care, more help. He doesn\'t abandon the sick person, and He doesn\'t abandon us. He doesn\'t give up anybody for lost.
+When the things of the soul are not going well, when they have lost their health---and we're never completely well---Our Lord is ready to pour out more care, more help. He doesn't abandon the sick person, and He doesn't abandon us. He doesn't give up anybody for lost.
 
-He doesn\'t leave us alone with our defects, with those things we can and must improve, because He calls us to sanctity, and He has the necessary graces ready for us.
+He doesn't leave us alone with our defects, with those things we can and must improve, because He calls us to sanctity, and He has the necessary graces ready for us.
 
-It\'s only the sick person who can cause the medicines, and the actions of the Physician who can cure all ills, to be ineffective by refusing to take them.
+It's only the sick person who can cause the medicines, and the actions of the Physician who can cure all ills, to be ineffective by refusing to take them.
 
 The saving will of Christ for each one of His disciples---for us---is the promise that we will reach what He Himself asks of us.
 
-The virtue of hope enables us to see that the difficulties of this life have a deeper meaning. They don\'t happen by chance, or by blind destiny, but because God wills them, or at least He permits them, in order to bring greater good from those situations.
+The virtue of hope enables us to see that the difficulties of this life have a deeper meaning. They don't happen by chance, or by blind destiny, but because God wills them, or at least He permits them, in order to bring greater good from those situations.
 
 That approach can help us in all the trials that God may permit in our life or those in the lives of people who are close to us.
 
@@ -115,21 +115,21 @@ This is the truth. It helps us to see that we can bring about great good from th
 
 It can help us to foster a greater detachment from our health and earthly goods, to cleanse our hearts from intentions which perhaps may not be altogether good, and to do penance for our sins and for those of all men.
 
-God tells each one of us that He "prefers mercy to sacrifice" (Matt. 9:13; Hos. 6:6), and if at some moment He allows pain and suffering to overwhelm us, it\'s because it is good for us. There\'s a far more lofty reason that we at times do not understand.
+God tells each one of us that He "prefers mercy to sacrifice" (Matt. 9:13; Hos. 6:6), and if at some moment He allows pain and suffering to overwhelm us, it's because it is good for us. There's a far more lofty reason that we at times do not understand.
 
-Fulton Sheen says if God allows hearts to be broken, it\'s because He wants to enter into them a little more, wants to make them more Christ-like, to form them, to fashion them after His own heart (cf. *Through the Year with Fulton Sheen*).
+Fulton Sheen says if God allows hearts to be broken, it's because He wants to enter into them a little more, wants to make them more Christ-like, to form them, to fashion them after His own heart (*cf*. *Through the Year with Fulton Sheen*).
 
 Those heartbreaks are for our own benefit, for that of our family, our friends, the benefit of the whole Church.
 
 God wants our greater good in just the same way as the mother who gives permission for an operation that will enable her child to become healthy again.
 
-It\'s at such moments that we have to believe with a faith which is strong and to reawaken our hope, because it\'s only this virtue that will teach us to regard as a treasure what humanly presents itself to us as failure, or perhaps as a great misfortune.
+It's at such moments that we have to believe with a faith which is strong and to reawaken our hope, because it's only this virtue that will teach us to regard as a treasure what humanly presents itself to us as failure, or perhaps as a great misfortune.
 
 These are the moments when we have to go close to the tabernacle and say slowly to Our Lord that we want everything that He wants.
 
 "This is our great mistake," writes St. Teresa, "we do not resign ourselves absolutely to the disposition of our Lord, who knows best what is for our good" (Teresa of Ávila, *Life*).
 
-In *The Way*, Point 773, it says: "Jesus, whatever you 'want,' I love."
+"Jesus, whatever you 'want,' I love" (J. Escrivá, *The Way*, Point 773).
 
 Whatever you allow, I, with your help, will accept as a great good, without laying down any limits or conditions. I will always thank you for everything, if you are close to me.
 
@@ -137,29 +137,29 @@ With a certain frequency, we have to call to mind our hope of ultimately being s
 
 We have to try and repeat that in the depths of our heart, even though we might be passing through a great physical or moral difficulty that possibly seems to have no solution.
 
-A lady approached the Regional Vicar of Opus Dei in Argentina one day to thank him for having given her a prayer card to St. Josemaría. He didn\'t remember that occasion; he didn\'t remember this lady.
+A lady approached the Regional Vicar of Opus Dei in Argentina one day to thank him for having given her a prayer card to St. Josemaría. He didn't remember that occasion; he didn't remember this lady.
 
 But she said, "Yes, a couple of years ago, you saw me on the street and you gave me a prayer card. At that time my husband was about to divorce me, my children were going through a bad time, I was unemployed, my husband was unemployed. Everything was going wrong in my life and you gave me that prayer card and I prayed it, and now everything has come right."
 
-Very often God permits everything for our own good. He wants us to try to overcome the way that we may tend towards selfishness, or sadness, or mainly trivial objectives.
+Very often God permits everything for our own good. He wants us to try to overcome the way that we may tend towards selfishness, or sadness, or merely trivial objectives.
 
-We\'re journeying straight towards Heaven. Everything has to become an instrument to bring us closer and enable us to arrive sooner. Everything, even our weaknesses.
+We're journeying straight towards heaven, and everything has to become an instrument to bring us closer and enable us to arrive sooner. Everything, even our weaknesses.
 
-We should frequently practice the virtue of hope in all that concerns the state of our own interior life, particularly when it seems that we\'re not advancing, that our defects are slow in disappearing, or that we constantly make the same mistakes.
+We should frequently practice the virtue of hope in all that concerns the state of our own interior life, particularly when it seems that we're not advancing, that our defects are slow in disappearing, or that we constantly make the same mistakes.
 
 We might tend to see sanctity as something very distant from us; perhaps just an illusion.
 
 We need to have in mind at those moments the teaching of St. John of the Cross, who says that the soul "who has the hope of heaven achieves all that is hoped for" (St. John of the Cross, *Poems,* VI).
 
-This virtue can be a great driving force in our life. It\'s the virtue of people who keep looking up. They don\'t look down, particularly in difficult moments. They see the supernatural aspect of everything.
+This virtue can be a great driving force in our life. It's the virtue of people who keep looking up. They don't look down, particularly in difficult moments. They see the supernatural aspect of everything.
 
-There are people who don\'t receive divine goods because they don\'t have the hope of receiving them, because their outlook is too human, too narrow. They don\'t even glimpse the greatness of the goodness of God who gives us His help, even though we don\'t in the least deserve it.
+There are people who don't receive divine goods because they don't have the hope of receiving them, because their outlook is too human, too narrow. They don't even glimpse the greatness of the goodness of God who gives us His help, even though we don't in the least deserve it.
 
-St. John of the Cross says, "To win love's chase, I took my way, and full of hope began to fly. I soared aloft and soared so high, that in the end I had reached my prey" (*Idem*).
+St. John of the Cross says, "To win love's chase, I took my way, and full of hope began to fly. I soared aloft and soared so high, that in the end I had reached my prey" (*ibid.*).
 
-Our hope should be in God alone. It should be all embracing, childlike as God wants it to be. Children don\'t just believe in their parents. They hope in them for everything that they need.
+Our hope should be in God alone. It should be all embracing, childlike as God wants it to be. Children don't just believe in their parents. They hope in them for everything that they need.
 
-When holiness---which is the final aim of our lives---seems far away, we shouldn\'t slacken in our struggle to come closer to God. We should try to have an ardent hope and to fulfil our duties, day by day, hour by hour.
+When holiness---which is the final aim of our lives---seems far away, we shouldn't slacken in our struggle to come closer to God. We should try to have an ardent hope and to fulfil our duties, day by day, hour by hour.
 
 We have to try and put into practice the advice we received in spiritual direction and the resolutions from our examinations of conscience or our last day of recollection.
 
@@ -171,29 +171,29 @@ We struggle resolutely against discouragement. This would be a humble offering w
 
 Hope encourages us to begin again with cheerfulness and patience, and without getting tired.
 
-We\'re told in the *Catechism of the Catholic Church,* "Hope is the theological virtue by which we desire the kingdom of heaven and eternal life as our happiness, placing our trust in Christ\'s promises and relying not on our own strength, but on the help of the grace of the Holy Spirit" (*Catechism*, Point 1817).
+We're told in the *Catechism of the Catholic Church,* "Hope is the theological virtue by which we desire the kingdom of heaven and eternal life as our happiness, placing our trust in Christ's promises and relying not on our own strength, but on the help of the grace of the Holy Spirit" (*Catechism*, Point 1817).
 
 "Let us hold fast to the confession of our hope without wavering, for he who promised is faithful" (Heb. 10:23).
 
-"The Holy Spirit \... He poured out upon us richly through Jesus Christ our Savior, so that we might be justified by his grace and become heirs in hope of eternal life\" (Titus 3:6-7).
+"The Holy Spirit \... He poured out upon us richly through Jesus Christ our Savior, so that we might be justified by his grace and become heirs in hope of eternal life" (Titus 3:6-7).
 
-"The virtue of hope," the *Catechism of the Catholic Church* says, "responds to the aspiration to happiness which God has placed in the heart of every man; it takes up the hopes that inspire men\'s activities and purifies them so as to order them to the Kingdom of heaven; it keeps man from discouragement; it sustains him during times of abandonment; it opens up his heart in expectation of eternal beatitude. Buoyed up by hope, he is preserved from selfishness and led to the happiness that flows from charity.
+"The virtue of hope," the *Catechism of the Catholic Church* says, "responds to the aspiration to happiness which God has placed in the heart of every man; it takes up the hopes that inspire men's activities and purifies them so as to order them to the Kingdom of heaven; it keeps man from discouragement; it sustains him during times of abandonment; it opens up his heart in expectation of eternal beatitude. Buoyed up by hope, he is preserved from selfishness and led to the happiness that flows from charity.
 
-"Christian hope takes up and fulfills the hope of the chosen people which has its origin and model in the hope of Abraham"---who in hope against hope, believed---\"who was blessed abundantly by the promises of God fulfilled in Isaac, and who was purified by the test of the sacrifice. 'Hoping against hope, he believed, and thus became the father of many nations' (Rom. 4:18).
+"Christian hope takes up and fulfills the hope of the chosen people which has its origin and model in the hope of Abraham"---who in hope against hope, believed---"who was blessed abundantly by the promises of God fulfilled in Isaac, and who was purified by the test of the sacrifice. 'Hoping against hope, he believed, and thus became the father of many nations' (Rom. 4:18).
 
-"Christian hope unfolds from the beginning of Jesus\' preaching in the proclamation of the beatitudes. The beatitudes raise our hope toward heaven as the new Promised Land; they trace the path that leads through the trials that await the disciples of Jesus. But through the merits of Jesus Christ and of his Passion, God keeps us in the 'hope that does not disappoint' (Rom. 5:5).
+"Christian hope unfolds from the beginning of Jesus' preaching in the proclamation of the beatitudes. The beatitudes raise our hope toward heaven as the new Promised Land; they trace the path that leads through the trials that await the disciples of Jesus. But through the merits of Jesus Christ and of his Passion, God keeps us in the 'hope that does not disappoint' (Rom. 5:5).
 
 "Hope is the 'sure and steadfast anchor of the soul\...that enters...where Jesus has gone as a forerunner on our behalf' (Heb. 6:19-20).
 
 "Hope is also a weapon that protects us in the struggle of salvation: 'Let us \... put on the breastplate of faith and charity, and for a helmet the hope of salvation' (1 Thess. 5:8). It affords us joy even under trial: 'Rejoice in your hope, be patient in tribulation' (Rom. 12:12). Hope is expressed and nourished in prayer" (*Catechism*, Points 1818-1820).
 
-Prayer is the language of hope. "We can therefore hope in the glory of heaven promised by God to those who love him and do his will (cf. Rom. 8:28-30; Matt. 7:21). In every circumstance, each one of us should hope, with the grace of God, to persevere 'to the end' (Matt. 10:22) and to obtain the joy of heaven, as God\'s eternal reward for the good works accomplished with the grace of Christ.
+Prayer is the language of hope. "We can therefore hope in the glory of heaven promised by God to those who love him and do his will (*cf*. Rom. 8:28-30; Matt. 7:21). In every circumstance, each one of us should hope, with the grace of God, to persevere 'to the end' (Matt. 10:22) and to obtain the joy of heaven, as God's eternal reward for the good works accomplished with the grace of Christ.
 
 "In hope, the Church prays for 'all men to be saved' (1 Tim. 2:4). She longs to be united with Christ, her Bridegroom, in the glory of heaven" (*Catechism*, Point 1821).
 
 We are told in the *Catechism*: "Hope, O my soul, hope. You know neither the day nor the hour. Watch carefully, for everything passes quickly, even though your impatience makes doubtful what is certain, and turns a very short time into a long one.
 
-"Dream that the more you struggle, the more you prove the love that you bear your God, and the more you will rejoice one day with your Beloved, in a happiness and rapture that can never end" (St. Teresa of Ávila, Excl. 15:3).
+"Dream that the more you struggle, the more you prove the love that you bear your God, and the more you will rejoice one day with your Beloved, in a happiness and rapture that can never end" (St. Teresa of Ávila, *Excl. 15:3*).
 
 St. John Paul II liked to call Our Lady "the Woman of Hope" (John Paul II, Apostolic Letter, *Tertio millennio adveniente*, Point 48, November 10, 1994).
 
@@ -203,4 +203,4 @@ We can ask Our Lady to help us to cultivate that virtue in a special way every d
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-OLV
+*OLV*
