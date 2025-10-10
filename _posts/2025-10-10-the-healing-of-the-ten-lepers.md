@@ -45,19 +45,19 @@ We can be thanking God for all sorts of things. A person said once that they len
 
 We need to get into the habit of thanking people frequently for small little things that possibly are of little significance, or to go out of our way to thank people; and in particular, to thank God, because we have so many things to thank God for.
 
-One of the purposes of the Mass is thanksgiving. If you look out for that sentiment of thanksgiving, you\'ll find it frequently reflected in the Eucharistic Prayers or in the Preface.
+One of the purposes of the Mass is thanksgiving. If you look out for that sentiment of thanksgiving, you\'ll find it frequently reflected in the *Eucharistic Prayers* or in the *Preface*.
 
-The Preface of weekdays says, "We do well always and everywhere to give you thanks." Always and everywhere. Every single situation in our life is a good situation to thank God.
+The *Preface* *of Weekdays* says, "We do well always and everywhere to give you thanks." Always and everywhere. Every single situation in our life is a good situation to thank God.
 
 "You have no need of our praise, yet our desire to thank you is itself your gift. Our prayer of thanksgiving adds nothing to your greatness but makes us grow in our grace."
 
-In the first Eucharistic Prayer, it says, "We come to you, Father, with praise and thanksgiving\...We give you thanks and praise."
+In the first *Eucharistic Prayer*, it says, "We come to you, Father, with praise and thanksgiving\...We give you thanks and praise."
 
 "We thank you for counting us worthy to stand in your presence and serve you."
 
 "All creation rightly gives you praise...We offer you in thanksgiving this holy and living sacrifice\..."
 
-"Father, we acknowledge your greatness," we\'re told in the fourth Eucharistic Prayer. "All your actions show your wisdom and love."
+"Father, we acknowledge your greatness," we\'re told in the fourth *Eucharistic Prayer*. "All your actions show your wisdom and love."
 
 Our Lord wants us to have this spirit of thanksgiving. When that spirit of thanksgiving is missing, He notices. "Where are the other nine?"
 
@@ -93,7 +93,7 @@ One of the great goals of parents with their children should be to cultivate the
 
 The human is also the basis of the supernatural. Jesus took care to form the apostles in the theological virtues, but also in human virtues such as sincerity (*cf*. Matt. 5:37) and magnanimity (*cf*. John 9:1-3).
 
-He thought so highly of those human virtues that He was moved to say, "If I have told you earthly things and you do not believe, how can you believe if I tell you heavenly things?" (John 3:12).
+He thought so highly of those human virtues that He was moved to say: "If I have told you earthly things and you do not believe, how can you believe if I tell you heavenly things?" (John 3:12).
 
 Christ was "perfect God and perfect Man" (*Athanasian Creed*), and so He exemplifies all the virtues.
 
@@ -131,21 +131,21 @@ Our Lord has said, "Love your enemies" (Matt. 5:43-44). We might not have enemie
 
 These virtues dispose the soul to a closer union with God and to a conscientious pursuit of the supernatural virtues. The Christian knows how to transform the practice of the social virtues into so many acts of love of God.
 
-Charity ennobles, and elevates these actions to a higher plane. All love comes from God. God is love. We are called to witness to that reality, to show love in all sorts of ways and moments, through forgiving, through mercy, through patience, through kindness.
+Charity ennobles, and elevates these actions to a higher plane. "All love comes from God. ... God is love" (1 John 4:7-8). We are called to witness to that reality, to show love in all sorts of ways and moments, through forgiving, through mercy, through patience, through kindness.
 
 Mother Teresa says, "A few kind words cost very little, but their echoes are endless." Gratitude is a human virtue that adds a great deal to social life. It consists of the affectionate recognition of a favor received.
 
-We realize that somebody has done some little act of service for us, or has been kind to us, or said some kind words, which hopefully we realize that we don\'t deserve. All the glory to God.
+We realize that somebody has done some little act of service for us, or has been kind to us, or said some kind words, which hopefully we realize that we don\'t really deserve. All the glory to God.
 
 Sometimes it\'s only possible to say *thank you* or respond with some similar expression. Our gratitude can be shown by the cheerfulness that we impart to the words.
 
-St. Thomas Aquinas said, "According to the natural order of things, it is fitting that the recipient of a favor should respond with due gratitude to his benefactor" (Thomas Aquinas, *Summa Theologiae*, 2-2, Question 106).
+St. Thomas Aquinas said, "According to the natural order of things, it is fitting that the recipient of a favor should respond with due gratitude to his benefactor" (Thomas Aquinas, *Summa Theologiae*, 2-2, Q106).
 
 To show our gratitude will very often cost very little. It\'s the least we can do to say *thank you*.
 
 The effects of virtue can be manifold. It can contribute remarkably to a more friendly environment. Everybody loves to hear those sweet words, *thank you*. It livens up our day, soothes little pains or aches in our hearts, perhaps.
 
-As we become more sensitive and grateful to other people, we can find ourselves reacting almost instinctively to the general welfare: that our house be clean and orderly, that our workplace be attractive and agreeable, that our appearance is neat.
+As we become more sensitive and grateful to other people, we can find ourselves acting almost instinctively to the general welfare: that our house be clean and orderly, that our workplace be attractive and agreeable, that our appearance is neat.
 
 If at any time we find things a little out of order, we make an effort to forgive and to forget. We should try and do our best to make life pleasant for others. Often those can be manifested in small details. Gentlemen should hold the door open for a lady. Allow them to go first in queues, especially to women with small children, or women carrying a child or who\'s pregnant.
 
@@ -183,7 +183,7 @@ In particular, young people open their hearts amazingly with a few words of enco
 
 "It happens that we may pass by people, although we know them, without looking at their faces, without realizing how often they\'re suffering, and that subtle, wearing sorrow which comes from being ignored.
 
-"A cordial word, an affectionate gesture would be enough, and something," sometimes, "would at once awaken in them: a sign of attention and courtesy can be a breath of fresh air in the stuffiness of an existence oppressed by sadness and dejection. Mary\'s greeting filled with joy the heart of her elderly cousin Elizabeth" (John Paul II, *Address*, February 11, 1981).
+"A cordial word, an affectionate gesture would be enough, and something," sometimes, "would at once awaken in them: a sign of attention and courtesy can be a breath of fresh air in the stuffiness of an existence oppressed by sadness and dejection. Mary\'s greeting filled with joy the heart of her elderly cousin Elizabeth" (*cf*. John Paul II, *Address*, February 11, 1981).
 
 That\'s how we can lighten the load of the people around us.
 
@@ -213,19 +213,19 @@ If we get into the habit of thanking God more frequently, that may also open our
 
 "The best way of showing gratitude to God," we\'re told in *The Forge*, "is to be passionately in love with the fact that we are his children" (*ibid*., Point 333). We appreciate the gift.
 
-We\'re told in Scripture, \"if you knew the gift of God" (John 4:10), you\'d realize the great things that we owe Him. We can ask Our Lord to open our eyes to many of the gifts that perhaps we\'ve taken for granted.
+We\'re told in Scripture, \"if you knew the gift of God..." (John 4:10), you\'d realize the great things that we owe Him. We can ask Our Lord to open our eyes to many of the gifts that perhaps we\'ve taken for granted.
 
 An elderly Jesuit priest in Singapore told me how one time, at the age of 80 plus, he had to go for, I think, two cataract operations. It was the time before laser. The doctor told him that he wouldn\'t be able to see for three days.
 
 He was wondering, 'What will I do for three days?' He said, "I\'ve been 50 years a priest. I suddenly realized how much we priests need our eyes to say Mass, to read our Breviary, to give a class, etc., etc. And he said, I was thinking about all of these things. What will I do for three days?"
 
-He said, "The following morning, the Gospel of the Mass was about the man born blind (John 9:1-41)."
+He said, "The following morning, the Gospel of the Mass was about the man born blind" (John 9:1-41).
 
 He said, "I felt Our Lord was hitting me over the head with a baseball bat. 'I\'ve given you 81 years of sight. You\'re not going to be able to see for three days and you\'re complaining.'''
 
 Sometimes Our Lord opens our eyes to the greatness of the gifts that He\'s given to us. Where would I be if I didn\'t have this education or this formation? Or if I didn\'t have those parents, or those siblings, or those friends, or that experience, or that failure, or that illness, or that difficult situation?
 
-You need to thank God for everything because everything is good. In the Mass, we\'re encouraged to lift up our hearts and souls and minds in thanksgiving.
+You need to thank God for everything because everything is good. In the Mass, we\'re encouraged t "lift up our hearts" (*Eucharistic Prayer*) and souls and minds in thanksgiving.
 
 We\'re also told in this parable how happy Our Lord was that that man came back (*cf*. Luke 17:18-19). Imagine if he hadn\'t come back. Our Lord would have been left with even a greater sadness.
 
