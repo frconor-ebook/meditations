@@ -25,7 +25,7 @@ What makes the plane go up when it gets to a certain speed are the wings. Nothin
 
 St. Josemaría liked to say that we also need wings to our soul to make our soul fly high, way above the things of this world---and that those wings are supplied by the virtue of purity (*cf*. Josemaría Escrivá, *Friends of God*, Point 177).
 
-It\'s a virtue whereby we place order in our sexual appetite in relation to all of our senses, eyes, ears, touch, et cetera.
+It\'s a virtue whereby we place order in our sexual appetite in relation to all of our senses: eyes, ears, touch, et cetera.
 
 We place an order there that was disordered with original sin.
 
@@ -109,7 +109,7 @@ With the passage of time Our Lord may let us see our weakness; help us to see wh
 
 I met a man once in Mombasa and asked him what his profession was; what he did for a living. He told me he was a tea taster. I\'d never met a tea taster before.
 
-I was thinking my mother would have loved that job. And I was thinking if he\'s a tea taster, he has to be able to distinguish between the different types of tea, the qualities of tea, that come from different parts of Kenya: Kericho gold, and Moringa silver,and all the others.
+I was thinking my mother would have loved that job. And I was thinking if he\'s a tea taster, he has to be able to distinguish between the different types of tea, the qualities of tea, that come from different parts of Kenya: Kericho gold, and Moringa silver, and all the others.
 
 He must have to have a great sensitivity with his taste buds. He must have to take very good care of them.
 
