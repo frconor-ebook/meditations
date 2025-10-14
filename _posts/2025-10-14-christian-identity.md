@@ -27,9 +27,9 @@ Christian identity is a gift that God grants us freely. We achieve it through co
 
 For this reason, each of our actions, the interpersonal relationships of friendship or work, are meant to be marked with this seal, coherent with the personal call with which the Father has chosen us from all eternity.
 
-Growth in our identity consists in learning to live according to what one is. And since life on this earth ends with death, it\'s an ever-developing task, because we\'ll only really be able to fully identify ourselves with Christ in heaven.
+Growth in our identity consists in learning to live according to what one is. And since life on this earth ends with death, it's an ever-developing task, because we'll only really be able to fully identify ourselves with Christ in heaven.
 
-From one\'s own identity, life acquires true meaning. Knowing and loving God, we\'ll discover little by little the way in which that identity illuminates every corner of our life, starting with the way that we relate to those around us.
+From one's own identity, life acquires true meaning. Knowing and loving God, we'll discover little by little the way in which that identity illuminates every corner of our life, starting with the way that we relate to those around us.
 
 St. John says, "He who does not love his brother whom he sees cannot love God whom he does not see" (1 John 4:20).
 
@@ -47,9 +47,9 @@ We could say the same about His hidden life. Following the teachings of St. Jose
 
 During His public life, Our Lord wants that awareness of and fulfillment of that mission that He Has received to be known, not only by Our Lady and St. Joseph but also by His disciples.
 
-In St. Matthew, He asks them, What do people think of Him, and also what they themselves believe. Peter\'s response: "You are the Son of God" (cf. Matt. 16:13-16).
+In St. Matthew, He asks them, What do people think of Him, and also what they themselves believe. Peter's response: "You are the Son of God" (*cf*. Matt. 16:13-16).
 
-That receives the praise of Our Lord, because the knowledge of His Sonship is not born of flesh and blood but the will of His Father (cf. Matt. 16:17).
+That receives the praise of Our Lord, because the knowledge of His Sonship is not born of flesh and blood but the will of His Father (*cf*. Matt. 16:17).
 
 This means that the knowledge and growth of our own identity as adopted children is also a gift that comes from God.
 
@@ -59,9 +59,9 @@ During His hidden life, He did so through His obedience to Joseph and Mary. We a
 
 In His public life, when Our Lord wants His redemptive mission to be known, we see in His Baptism in the Jordan the witness that the Father and the Holy Spirit give of Him (Matt. 3:16-17).
 
-Later it\'s going to be John the Baptist who presents Him as "the Lamb of God who takes away the sin of the world" (John 1:29).
+Later it's going to be John the Baptist who presents Him as "the Lamb of God who takes away the sin of the world" (John 1:29).
 
-When John\'s disciples ask Him: "Are you the one who was to come, or are we waiting for someone else?" Our Lord responds by pointing out the works that He performs, thus showing that they express His identity: the blind see, the lame walk, and the Kingdom is announced to the poor (cf. Matt. 11:3-5).
+When John's disciples ask Him: "Are you the one who was to come, or are we waiting for someone else?" Our Lord responds by pointing out the works that He performs, thus showing that they express His identity: the blind see, the lame walk, and the Kingdom is announced to the poor (*cf*. Matt. 11:3-5).
 
 Something similar is said to the Pharisees when they refuse to believe in His mission: "But if I do them," He says in St. John, "even though you do not believe me, believe the works, that you may know and understand that the Father is in me and I am in the Father" (John 10:38).
 
@@ -71,17 +71,17 @@ He lives with an inner freedom compared to the casuistry of the Pharisees, and t
 
 He remains in continuous dialogue with the Father, since from Him He eternally receives the Sonship and His mission in time. He orients His action to the mission to which He has been called.
 
-He goes tirelessly from one place to another because He knows they\'re waiting for Him, thus showing the awareness of His identity. "Let us go elsewhere," He says, "to the neighboring villages, so that I may also preach there, because for this have I come" (Mark 1:38).
+He goes tirelessly from one place to another because He knows they're waiting for Him, thus showing the awareness of His identity. "Let us go elsewhere," He says, "to the neighboring villages, so that I may also preach there, because for this have I come" (Mark 1:38).
 
 He reaffirms His deep longing for the redemption in the face of those who oppose Him, expressing His desire to allow Himself to be enmeshed by love.
 
-We\'re told in St. John: "This is why the Father loves me, because I give my life to take it again. No one takes it from me, but I give it freely" (John 10:17-18).
+We're told in St. John: "This is why the Father loves me, because I give my life to take it again. No one takes it from me, but I give it freely" (John 10:17-18).
 
 He fulfills the loving will of God always and in everything because in it He finds His life and His food: "My food is to do the will of Him who sent me" (John 4:34).
 
 He knows Himself in the Father who loves Him and, for this reason, He wants to do His will to achieve the mature and sacrificial interior life that God wants for us, transformed by grace.
 
-God counts on the knowledge and experience of the dynamism of human existence, entering the principles of spiritual life that ordinarily runs through souls, knowing some basic notions of Christian anthropology, the essence of life, man\'s nature, and his relationship to God.
+God counts on the knowledge and experience of the dynamism of human existence, entering the principles of spiritual life that ordinarily runs through souls, knowing some basic notions of Christian anthropology, the essence of life, man's nature, and his relationship to God.
 
 And also be an expert in humanity. Each one of us has to cultivate this in our life, following Christ along that pathway: a certain finesse, a youthful spirit, an ability to dream in open horizons.
 
@@ -103,17 +103,17 @@ Christ said, "I have come not to be served, but to serve" (Matt. 20:28).
 
 "As I have given you an example, so do you also to others" (John 13:15).
 
-And this, beyond human successes and failures, makes it easier to understand from one\'s own experience the dignity of all noble work insofar as it\'s a manifestation of service to charity.
+And this, beyond human successes and failures, makes it easier to understand from one's own experience the dignity of all noble work insofar as it's a manifestation of service to charity.
 
 That inner attitude of service is perfectly compatible with a healthy professional ambition and with humility on the corporate ladder. May the best person win, but may we give it our best shot.
 
-It\'s perfectly compatible with a logical and responsible concern for financially supporting oneself and one\'s family; for being men and women who want to be, as their equals, holding their own amidst life\'s challenges because their mission is to collaborate, to transform the world, and bring it to God.
+It's perfectly compatible with a logical and responsible concern for financially supporting oneself and one's family; for being men and women who want to be, as their equals, holding their own amidst life's challenges because their mission is to collaborate, to transform the world, and bring it to God.
 
 St. Josemaría recalls: Serving God, dedicating oneself to God, means first of all knowing God, hence the need for philosophical and theological training.
 
 "And," he added, "in order that all my children can, in a capillary way, give true doctrine to millions of souls, we have an obligation to be up to date in matters also temporal that somehow affect the Church, the Pope, and all souls."
 
-Whoever has truly seen, heard and touched Our Lord remains in a relationship of friendship with Him that continually renews his identity.
+Whoever has truly seen, heard, and touched Our Lord remains in a relationship of friendship with Him that continually renews his identity.
 
 On the contrary, whoever abandons that relationship with Him or lets it fade somehow dies out. That person loses sight of who he is.
 
@@ -123,7 +123,7 @@ You could also say the opposite. The more faith in God we have and faith in Chri
 
 This can lead us to consider our whole life as a response to a love that has preceded us.
 
-"He loved us first" (1 John 4:19), we\'re told, and that I have experienced the encounter with Christ, who guides me through the Holy Spirit.
+"He loved us first" (1 John 4:19), we're told, and that I have experienced the encounter with Christ, who guides me through the Holy Spirit.
 
 The person who lives in this way grows according to their identity, and they go through the various stages of their existence as a protagonist since they realize that no one can replace them in being who they are.
 
@@ -133,9 +133,9 @@ In this way, even crises, mishaps, all sorts of contradictions and difficulties 
 
 In this sense, it can help a lot to ask ourselves: Do I consider and express what I think of the talents, aptitudes, and dreams that I have?
 
-This is very much related to the questions that St. John Paul II said that each human person has to ask themselves throughout their life: "Where have I come from? Where am I going? What is my life all about?" (cf. John Paul II, Encyclical, *Fides et Ratio*, September 14, 1988).
+This is very much related to the questions that St. John Paul II said that each human person has to ask themselves throughout their life: "Where have I come from? Where am I going? What is my life all about?" (*cf*. John Paul II, Encyclical, *Fides et Ratio*, September 14, 1988).
 
-These are questions of identity. And, he said, to a large extent, our happiness in this world may depend on the answers to those questions.
+These are questions of identity. And he said, "To a large extent, our happiness in this world may depend on the answers to those questions" (*ibid*.).
 
 We could also ask ourselves: Do I project myself into the future, always open to what the Holy Spirit may inspire? The Holy Spirit may be full of surprises.
 
@@ -143,7 +143,7 @@ We could find ourselves in different places and different tasks, with different 
 
 We could ask ourselves: What do I want to achieve with what I do now? Why do I want this or that for myself? What are my underlying aspirations?
 
-Really, it\'s all tied up in the question: Where am I heading? Why am I doing the things I\'m doing? Are my intentions in the right place? Are my goals in the right place?
+Really, it's all tied up in the question: Where am I heading? Why am I doing the things I'm doing? Are my intentions in the right place? Are my goals in the right place?
 
 Am I using all the means? Am I thanking God for every single one of those means that He gives me, squeezing it for everything that it has?
 
@@ -159,17 +159,17 @@ And like the disciples of Emmaus, we know how to overcome the fatigue or the dis
 
 With renewed hope and happiness, we know how to go forward. Not only that, but to open road horizons to others, so that they too can have that personal encounter with Jesus.
 
-"No longer do I call you servants;...but I have called you friends" (John 15:15).
+"No longer do I call you servants...but I have called you friends" (John 15:15).
 
 Our Lord places before us horizons that give meaning to our mission to be "a leaven that will divinize men and, in making them divine, will make them at the same time truly human" (J. Escrivá, *Letter 29*, January 9, 1959).
 
-St. Josemaría said to some of his children: "Your first apostolate is in the home" (*Ibid*.).
+St. Josemaría said to some of his children: "Your first apostolate is in the home" (*ibid*.).
 
 He dreamed that homes would be "centers for the spreading of the Gospel and its message" (J. Escrivá, *Christ Is Passing By*, Point 30).
 
 This is the great heritage that we leave to society: that our homes be truly domestic Churches.
 
-He talked about "a great mobilization of Christians who would radiate the love of Christ in their work and in their social surroundings\...and who, in doing so, would also contribute to improving the structures of society, making them ever more human and suited to the life of God\'s children, taking an active part in the solutions to the problems of our time.
+He talked about "a great mobilization of Christians who would radiate the love of Christ in their work and in their social surroundings\...and who, in doing so, would also contribute to improving the structures of society, making them ever more human and suited to the life of God's children, taking an active part in the solutions to the problems of our time.
 
 "By your lives," he said, "you show the completely free nature of the apostolic activity of every baptized person, carrying it out with all the energy of your heart" (Fernando Ocáriz, *Pastoral Letter*, October 28, 2020).
 
