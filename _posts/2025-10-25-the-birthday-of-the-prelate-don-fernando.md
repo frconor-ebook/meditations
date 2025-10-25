@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Birthday of the Prelate (Don Fernando)"
+title: "The Birthday of the Prelate (Don Fernando)"
 ---
 
 By Fr. Conor Donnelly
@@ -11,15 +11,15 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"I am the Good Shepherd," we're told in St. John. "The Good Shepherd lays down his life for his sheep."
+"I am the Good Shepherd," we're told in St. John. "The Good Shepherd lays down his life for his sheep" (John 10:11).
 
 We can thank Our Lord for this image of the Good Shepherd. It\'s one of the major ways that Our Lord has wanted Himself to be known. We\'ve seen the picture of the shepherd carrying the sheep.
 
-We can be particularly grateful for the Work of the good shepherds that God has given to us.
+We can be particularly grateful to the Work for the good shepherds that God has given to us.
 
 Our Lord says He's not just a shepherd, but a Good Shepherd. It's possible to be a bad shepherd. "The Good Shepherd lays down His life for His sheep."
 
-Today is a particular day to pray for the good shepherd, to offer everything for him.
+Today is a particular special day to pray for the good shepherd, to offer everything for him.
 
 Somebody once told Don Javier, Father, I broke my arm and I\'m offering this thing for you. Don Javier said, No, everything, everything. Not just this particular thing.
 
@@ -29,25 +29,25 @@ When Don Fernando was in Singapore, he mentioned how all the unpleasant things r
 
 In any family, that\'s what happens. That\'s one of the reasons why we have to support the Father an awful lot. The Father gets to hear a lot of things that maybe we don\'t hear or we don\'t know, and has to guide the Work in this particular period of history. It's a great responsibility.
 
-Don Álvaro, in a get-together once, talked about how it\'s important, he said, to pray for the successes of our Father, because the weight of the Work, he said, is very heavy.
+Don Álvaro, in a get-together once, talked about how it\'s important, he said, "to pray for the successes of our Father, because the weight of the Work is very heavy."
 
 That was Don Álvaro speaking. A great weight on his shoulders.
 
 We as small children don\'t fully grasp what that means. But we do know that there\'s something important there.
 
-"I am the Good Shepherd, and I know my own and my own know me."
+"I am the Good Shepherd, and I know my own and my own know me" (John 10:14).
 
 One of the ways that we are united to the good shepherd is to be united with the local council and to the local director. If the local director is happy with us, you can be sure the Father is happy with us and God is happy with us. It\'s an index we have of our unity.
 
 It's an aspect of our unity that we have to always work at, no matter where we are or what center we\'re in: unity at every level.
 
-Somebody was in St. Peter\'s Square once and happened to get to the barrier. When John Paul II was passing by, he told him, Holy Father, we\'re very united to you, praying a lot for you.
+Somebody was in St. Peter\'s Square once and happened to get to the barrier. When John Paul II was passing by, he told him, "Holy Father, we\'re very united to you, praying a lot for you."
 
-Immediately, the Pope said, Through your Prelate, through your Prelate.
+Immediately, the Pope said, "Through your Prelate, through your Prelate."
 
 There are channels of unity, and those channels of unity become very important. Somebody could be very united to the Pope but they might not be so united to the Prelate or to the local director. Then there would be a problem.
 
-If the devil can place a wedge between us and those who are there with the grace of state, he\'d won a great battle. Many bad things come from lack of unity at every level. That's one of the reasons why we hear an awful lot about this virtue.
+If the devil can place a wedge between us and those who are there with the grace of state, he\'d have won a great battle. Many bad things come from lack of unity at every level. That's one of the reasons why we hear an awful lot about this virtue.
 
 Our Father said, If you had not passed through my head and through my heart, you\'ve mistaken the way. Kiss the ground that my successors walk on.
 
@@ -75,13 +75,13 @@ We begin to sense that the Father is saying something similar to us. He\'s calle
 
 If all of that has been achieved in the past hundred years, then we have every duty and responsibility and obligation to dream incredible things for what has to happen in the coming hundred and two hundred years.
 
-In spite of the difficulties and the atmosphere of society, we\'ve come to drown evil in an abundance of good. And the way we do that is through our unity to the vine. *Cor unum et anima unam*.
+In spite of the difficulties and the atmosphere of society, we\'ve come "to drown evil in an abundance of good" (Josemaría Escrivá,*The Forge*, Point 848; *Furrow*, Point 864; *Christ Is Passing By*, Point 182). And the way we do that is through our unity to the vine. *Cor unum et anima unam*.
 
 Every little prayer, every little thing that we offer for the Father is an act of unity, and small little things can be acts of unity.
 
 One time Don Álvaro was going into the conference center in Barcelona and he slipped on the step a little bit and lost his balance. He looked as though he was about to fall and people rushed to him to help him.
 
-In that awkward moment, when people gave him a little more attention, immediately he said, *Al Padre, Al Padre*, To the Father, To the Father. He didn\'t want to distract at any moment from the attention that was due to the Father. That\'s our north, our focal point.
+In that awkward moment, when people gave him a little more attention, immediately he said, *Al Padre, Al Padre*, "To the Father, To the Father." He didn\'t want to distract at any moment from the attention that was due to the Father. That\'s our north, our focal point.
 
 There will be special things when we read and reread the words of the Father that speak to us in deep ways.
 
@@ -89,9 +89,9 @@ Our retreat is a particularly interesting moment to go back and have another loo
 
 Probably we have the experience that we might read a book written by some saint or some great classic work of spirituality and we might learn something from it. But somehow the writings of the Father or our Father reach us much more. They mean much more to us. They reach deep into our souls.
 
-A priest of the Work in Asia used to say that having read many great classical works of spirituality, the conclusion was that all the things that our Father and Don Álvaro write---they sort of sum up for us all those great works. We almost don\'t have to read them. They are presented to us, packaged for us on a plate.
+A priest of the Work in Asia used to say that having read many great classical works of spirituality, the conclusion was that all the things that our Father and Don Álvaro write---they sort of sum up for us all those great works. We almost don\'t have to read them. They are presented to us, packaged for us, on a plate.
 
-Our Lord at the Last Supper talked a lot about unity. "That you may be one." It's something we have to foster, to love, to defend, have a great concern for.
+Our Lord at the Last Supper talked a lot about unity. "That you may be one" (John 17:21). It's something we have to foster, to love, to defend, have a great concern for.
 
 The unity that we see in the Work at the moment is a great gift of God. Something we can\'t take for granted. Sometimes you hear things about other supernatural families in the Church and you realize they don\'t have the same sort of unity that we have. Some of those supernatural families have been around for hundreds of years.
 
@@ -101,9 +101,9 @@ Don Álvaro used to say that he felt this was one of the great gifts that God ha
 
 I was taking care of the door one time in Villa Tevere with somebody else, and that other person had to make a call to Don Javier, who at the time was the Secretary General of the Work. It was June 14 and it was his birthday.
 
-This person greeted Don Javier, *Felicidades*, Don Javier. And immediately, Don Javier said, The important thing today is to keep in mind the intentions of the Father---which was a rather beautiful thing to say.
+This person greeted Don Javier, "*Felicidades*, Don Javier." And immediately, Don Javier said, "The important thing today is to keep in mind the intentions of the Father"---which was a rather beautiful thing to say.
 
-Here we are speaking about it many years later. If that was our birthday and somebody wished us a happy birthday, we might say, Thank you very much. Today\'s the day, pray for me. My day, remember me today.
+Here we are speaking about it many years later. If that was our birthday and somebody wished us a happy birthday, we might say, 'Thank you very much. Today\'s the day, pray for me. My day, remember me today.'
 
 But immediately Don Javier deflected that whole greeting to the Father. He didn\'t miss an opportunity. He didn\'t miss a beat. Everything for the Father.
 
@@ -135,9 +135,9 @@ One of the things we\'ve been told by the Father in the last few months is that-
 
 The Father has to look at everything that\'s happening in the Church. Maybe it\'s not the right moment to push because it looks as though we want everyone to be canonized, which we do. But there\'s a time and a place for everything. Prudence. The Father has to be very prudent.
 
-St. Thomas Aquinas was asked once if there were three candidates to be the Superior General of the Dominicans. Three possible people. One person was very holy, one person was very learned, and one person was very prudent. He was asked his opinion. Which of the three people do you think should be the Superior General?
+St. Thomas Aquinas was asked once if there were three candidates to be the Superior General of the Dominicans. Three possible people. One person was very holy, one person was very learned, and one person was very prudent. He was asked his opinion. 'Which of the three people do you think should be the Superior General?'
 
-He replied, If so and so is very holy, let them make us holy. If so and so is very learned, let them make us learned. But if so and so is very prudent, let them govern us, because in the business of government, prudence is the most important virtue, or one of the most important virtues.
+He replied, 'If so and so is very holy, let them make us holy. If so and so is very learned, let them make us learned. But if so and so is very prudent, let them govern us, because in the business of government, prudence is the most important virtue, or one of the most important virtues.'
 
 We can be sure that for the people who occupy positions of government in the Work, the main reason is because they\'re very prudent people. If the Father is the one that the Holy Spirit has placed there, it\'s because of his prudence. We need prudent people to make the right decisions.
 
@@ -153,11 +153,11 @@ There are retreats taking place all over the place. There are many people coming
 
 People haven\'t had retreats for a couple of years, some of them. Now nearly every priest in the region is giving retreats left, right, and center. Lots of people are coming in contact. Lots of people are hungry for good things.
 
-I planned a Circle this Thursday in Kisumu at the usual time. When one priest couldn\'t make it, I said, OK, instead of 4.30 I can give you a personal circle at 2.30. Somebody else in the group said, I can\'t make it in the afternoon. Could you give me another one in the morning? I said, I\'m sorry, I\'m traveling in the morning.
+I planned a Circle this Thursday in Kisumu at the usual time. When one priest couldn\'t make it, I said, 'OK, instead of 4.30 I can give you a personal circle at 2.30.' Somebody else in the group said, 'I can\'t make it in the afternoon. Could you give me another one in the morning?' I said, 'I\'m sorry, I\'m traveling in the morning.'
 
 What\'s interesting is to see, even among the priests, they\'re feeling the need for something. They\'re hungry for spiritual things. There\'s almost nobody else around who can give the sort of spiritual things that God has given to us to give to people.
 
-The Father presides over all of this great activity, great hunger. Pope Francis says, the great spiritual emptiness in the world.
+The Father presides over all of this great activity, great hunger. Pope Francis says: "the great spiritual emptiness in the world"(Pope Francis, Apostolic Exhortation, *Querida Amazonia*, Point 108, February 2, 2020; *Angelus*, June 19, 2016).
 
 In some ways, we\'ve been called to feel that. The Father sees all this hunger all over the world and sees the instrument that God has placed in his hands to satisfy that hunger.
 
@@ -171,33 +171,33 @@ Our Father used to say, Don't leave me alone. Don\'t leave me to carry this burd
 
 I was driving the Father, Don Fernando, from the men\'s center to the women\'s center in Singapore one morning. The day they arrived, they arrived at seven in the morning, having flown from Delhi through the night.
 
-I asked him, How are you feeling? He probably hadn\'t slept that night, full of jet lag. His response was, I think it\'s three in the morning in Rome time. It didn\'t need much more explanation.
+I asked him, "How are you feeling?" He probably hadn\'t slept that night, full of jet lag. His response was, "I think it\'s three in the morning in Rome time." It didn\'t need much more explanation.
 
 The Father spends himself moving around the world. Our observation in Singapore was that while Don Javier and Don Joaquin managed the jet lag reasonably well---they\'ve experienced a lot of traveling and they could handle a lot of these things---but Don Fernando didn\'t handle the jet lag too well. It was a difficult thing. But yet, he has to step into those shoes and do a lot of things that maybe he doesn\'t find so easy.
 
 Our Father talks a lot about the spiritual paternity. Don Álvaro, in a letter in January 1990, the anniversary of the founding of the women\'s section of the Work, talks about union with the head.
 
-'I want now to detain myself for a moment in another capital aspect of unity. In one of his letters, our Father left written some words that constitute now and for always a palpable sign of Our Lord\'s plans for the Work. Our Father said, I cannot cease to lift my soul in thanksgiving to God, from whom all fatherhood in heaven and on earth takes its name, for having given me this spiritual paternity, which with His grace I have assumed, with full awareness of being on this earth only to carry it out. For this reason, I love you with the heart of a father and of a mother.'
+'I want now to detain myself for a moment in another capital aspect of unity. In one of his letters, our Father left written some words that constitute now and for always a palpable sign of Our Lord\'s plans for the Work. Our Father said, "I cannot cease to lift my soul in thanksgiving to God, from whom all fatherhood in heaven and on earth takes its name, for having given me this spiritual paternity, which with His grace I have assumed, with full awareness of being on this earth only to carry it out. For this reason, I love you with the heart of a father and of a mother."
 
 Our Father leaves these words about spiritual paternity for all of his successors and the role they have to play.
 
-Don Álvaro continues, 'Since the 15th of September 1975, I have also united myself to that thanksgiving because I have the profound awareness of being now the recipient of this spiritual paternity, truly essential for the Work. We need paternity.'
+Don Álvaro continues, "Since the 15th of September 1975, I have also united myself to that thanksgiving because I have the profound awareness of being now the recipient of this spiritual paternity, truly essential for the Work. We need paternity."
 
-After the election of Don Javier, he mentioned, I think in the get-together, how he found it very difficult for people to call him Father. And somebody who was there said, Father, please get used to it very quickly, because we desperately need a Father. It was a rather nice spontaneous sort of comment.
+After the election of Don Javier, he mentioned, I think in the get-together, how he found it very difficult for people to call him Father. And somebody who was there said, "Father, please get used to it very quickly, because we desperately need a Father." It was a rather nice spontaneous sort of comment.
 
 We need this spiritual paternity. It\'s a great thing that we have a good shepherd, somebody to guide us, an instrument of the Holy Spirit.
 
-'I, also, with the grace of God, live only for my children, so that each of you may be happy here below, and especially so that we reach that happiness of heaven. Each day I experience that participation in that divine paternity, which leads me to continually think about your good. And I confirm to you that I feel corresponded to by each one of you, enveloped or wrapped around by your affection and your prayers. And I\'m firmly convinced that you sustain me among each of you.'
+"I, also, with the grace of God, live only for my children, so that each of you may be happy here below, and especially so that we reach that happiness of heaven. Each day I experience that participation in that divine paternity, which leads me to continually think about your good. And I confirm to you that I feel corresponded to by each one of you, enveloped or wrapped around by your affection and your prayers. And I\'m firmly convinced that you sustain me among each of you."
 
-The Father depends on that prayer, and someday, maybe for that extra mortification. Our Father told us if ever we had something to do someday that cost us a little more, some exterior thing or maybe some interior pain or difficulty, he said, 'If you offer it for my intentions and for me, you\'ll find it easier to bear.' It\'s a great thing to remember in moments of difficulty.
+The Father depends on that prayer, and someday, maybe for that extra mortification. Our Father told us if ever we had something to do someday that cost us a little more, some exterior thing or maybe some interior pain or difficulty, he said, "If you offer it for my intentions and for me, you\'ll find it easier to bear." It\'s a great thing to remember in moments of difficulty.
 
-'I\'m very mindful of those conclusions that our Father talked about after a certain family get-together. I know he said that as your Father I will give an account to God of your fidelity, of how I\'ve helped you. But you\'ll also give an account to God of how you have supported the Father so that he would be a person who struggles each day with greater passion to be united to Our Lord.'
+"I\'m very mindful of those conclusions that our Father talked about after a certain family get-together. I know he said that as your Father I will give an account to God of your fidelity, of how I\'ve helped you. But you\'ll also give an account to God of how you have supported the Father so that he would be a person who struggles each day with greater passion to be united to Our Lord.
 
-'I support myself continually,' he says, 'in the task of governing the Work, in the innumerable occasions in which each day you ask God for the Father, making use of that invocation that our Father included in the *Preces: Oremus pro Patre.*
+"I support myself continually," he says, "in the task of governing the Work, in the innumerable occasions in which each day you ask God for the Father, making use of that invocation that our Father included in the *Preces: Oremus pro Patre.*
 
 We could try to use that a little more, think a little more of the Father, and also the channels that he\'s given to us. In a special way, he wants us to take care of that unity by being united to the people who are there to govern us locally.
 
-'In calling to mind these words of our Founder, I invite you in a particular way that your union to the Father would be manifested in your union to the Directors. The spirit of filiation in the Work passes necessarily through those who in each particular moment Our Lord has placed so they would govern the regions and the centers. Obey them in a refined way, understand them, love them, support them, pray for them. And when it\'s necessary, help them with fraternal correction, which is a wonderful demonstration of affection, of fortitude, and of unity.'
+"In calling to mind these words of our Founder, I invite you in a particular way that your union to the Father would be manifested in your union to the Directors. The spirit of filiation in the Work passes necessarily through those who in each particular moment Our Lord has placed so they would govern the regions and the centers. Obey them in a refined way, understand them, love them, support them, pray for them. And when it\'s necessary, help them with fraternal correction, which is a wonderful demonstration of affection, of fortitude, and of unity."
 
 The Father talks about unity all the way down through the line. We might find ourselves in a St. Gabriel local council or some other local council, St. Raphael local council, maybe in a satellite city, maybe in a new country some time.
 
@@ -205,9 +205,11 @@ All the time, you have to have that clear idea that I\'m here to be united to wh
 
 Every little thing that comes to me from them, then it\'s important. I support them when I live our spirit, when I try to give more fraternal corrections, when I try to be on time with my expense account, when I take care of this little material detail. Everything fosters that unity.
 
-We can especially ask Our Lady in a special way to look after the Father. He has difficult shoes to step into. He\'s playing a great game to help us to understand his importance, not just for the Work, but also the role of the Prelate of Opus Dei in the Church of this particular moment of history, and how the Father has to fulfill that role.
+We can ask Our Lady in a special way to look after the Father. He has difficult shoes to step into. He\'s playing a great game to help us to understand his importance, not just for the Work, but also the role of the Prelate of Opus Dei in the Church of this particular moment of history, and how the Father has to fulfill that role.
 
-Each time, the historical moment changes, it passes. There\'s a new aspect to that role and the Father has to fulfill that role at this particular moment. Mary, Queen of Opus Dei, pray for us.
+Each time, the historical moment changes, it passes. There\'s a new aspect to that role and the Father has to fulfill that role at this particular moment.
+
+Mary, Queen of Opus Dei, pray for us.
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
