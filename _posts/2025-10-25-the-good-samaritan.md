@@ -1,0 +1,220 @@
+---
+layout: homily
+title: "The Good Samaritan"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+Jesus replied, "A man was once on his way down from Jerusalem to Jericho and fell into the hands of brigands. He took all he had, beat him, and then made off, leaving him half dead.
+
+"Now a priest happened to be traveling down the same road, but when he saw the man, he passed by on the other side. In the same way a Levite who had come to the place saw him, and passed by on the other side" (Luke 10:30-32).
+
+Last week (July 2020), the Holy Father came out with a new document called *The Good Samaritan*. It's about euthanasia and assisted suicide, and it emphasizes the right to life in all situations (Pope Francis and the Congregation for the Doctrine of the Faith, Letter, *Samaritanus Bonus*, July 14, 2020).
+
+Like all Church documents, it's full of very beautiful doctrine, it's extremely well written, beautiful English. It's a very good thing as these documents appear to try to read them, to keep up to date with what the Church is saying, also to review basic aspects of doctrine, and to spread them around as much as possible.
+
+We have an awful lot to be proud of. Scott Hahn, when he converted to Catholicism and read some of the Church documents, said some of the greatest treasures of the Catholic Church are hidden in Church documents that were never read by Catholics (*cf*. Scott Hahn, The Splendor of the Catholic Church, *Answering Common Objections*, 2001).
+
+The Holy Father places this whole document in the context of the Good Samaritan. And as often happens in Scripture, there's a contrast.
+
+There's this man who was beaten so badly, left half dead. And then there are two people who pass by, one a priest, the other a Levite, and they pass by on the other side of the road.
+
+Many years ago, I was going to say Mass for the Administration or the Catering of the Conference Center in Dublin, which is about 45 minutes to an hour outside the city. It was early morning, I was a bit late, I had my foot on the accelerator, and then I came across an accident.
+
+A car had come out of a side road and hit a truck, and there was quite a bit of material damage. I slowed down to see if everybody was okay.
+
+There seemed to be nobody injured, it wasn't too serious, and so I put my foot on the accelerator, and I continued. But after about 100 meters I remembered "the priest who went by on the other side of the road" (*cf*. Luke 10:31).
+
+I stopped, turned around, went back, and made sure everybody was okay, and spent a bit of time there, and then continued on my journey.
+
+These two people, they were busy. They had other things to do. They had no time. They were too focused. They were perhaps in their comfort zone, thinking of many things, being a bit selfish, having a fear of danger, of taking risks.
+
+They could describe any one of us. The characters very often in the Gospel are describing aspects of the human character, our wounded human nature, or all the basic realities that we experience every day.
+
+"But a Samaritan traveler who came upon him was moved with compassion when he saw him" (Luke 10:33). Now here's the great contrast. This man is not a Jew, but he's a very good man.
+
+Scripture is telling us to see all the good things in other people---people who perhaps don't share our religion or our ideas, but there's a basic goodness in all human persons. All the Church's documents are not just directed to Catholics; they're directed to all men of good will.
+
+Anybody who wants to read the Church's ideas are open, universal, trying to transmit truth, beauty, and love. Very often the Church encourages us to recognize those basic aspects of goodness in all persons.
+
+We're not taught that people who aren't Catholics are condemned to hell. Quite the opposite: we're taught that maybe many of them have the baptism of desire. They just never have the grace or the opportunity (*Catechism of the Catholic Church*, Points 1259-1260).
+
+But they're very good people. And possibly they'll be higher in heaven than we will be. "The harlots and the tax collectors will be higher in heaven," Our Lord says (*cf*. Matt. 21:31).
+
+This Samaritan was moved with compassion. He's obviously a good man. And through him Our Lord wants to tell us many things.
+
+This man, when he sees this other person in such a difficult situation, he changes his plans. He makes himself available. He approaches the injured person. He went up and bandaged his wounds. He didn't just stay at a distance.
+
+There's another moment in the Gospel when Our Lord is entering Naim and the widow is coming out with the funeral procession with her dead son. Our Lord is entering the town with a large group of people, but he stops. We're told, "He approaches the stretcher and puts his hand on it" (Luke 7:11-14).
+
+He doesn't just speak to the dead man from far away, or to the widow from far away. Or wave at them and say, 'My thoughts and my prayers are with you.' Our Lord approaches.
+
+Here the good Samaritan goes up "and bandaged his wounds, pouring oil and wine on them" (Luke 10:34). He puts himself in that position.
+
+This is ultimately what charity is. He makes time. He places effort. Nothing is too much. He doesn't say, 'I will help you up to here and no further. I will do this amount, but no more.'
+
+Nothing is too much. He's generous, self-sacrificing. He's moved to action. He doesn't just comfort him from afar. He gets involved.
+
+At the end of the whole parable, Our Lord says, "Go and do the same yourself" (Luke 10:37). At the end of the Last Supper, when Our Lord washes the feet of the apostles, He says, "What I have done to you, do you also to others" (John 13:12-15)---like a program for our life.
+
+"He then lifted him on his mount, carried him to the inn, and looked after him" (Luke 10:34). "Looked after him." "Lifted him on his mount." He must have weighed quite a few kilos. He puts a lot of effort into this.
+
+The Good Samaritan, in some ways, is giving us "a self-portrait of Christ. It reveals what kind of a Lord He is. Each of us has been robbed of our original holiness by original sin. Our own selfishness and sins (and the sins of others) have deeply wounded our souls. We lie on the side of life's path in need of a Savior. We have been bruised and broken and wounded; the Lord kneels down and lifts us up with His healing touch.
+
+"Christ is the Good Samaritan, the merciful Lord who heals and restores us with the balm of the sacraments, who pays for our salvation with the boundless riches of His grace, poured out generously on Calvary's Cross and entrusted to the innkeeper of the Church, who watches over our convalescence until He comes again.
+
+"He is the Lord, yes, but the truly noble Lord who cares enough to meet us in our need and carry us safely to the Father's inn.
+
+"Christ's lesson is simple. 'Love God with all your heart and love your neighbor as yourself'" (Mark 12:30-31) and you will live.
+
+"It\'s within everyone\'s reach to live out this simple lesson, even within reach of a Samaritan, who, according to local customs of the time, was not supposed to have anything to do with Jews" (John Bartunek, *The Better Part: A Christ-Centered Resource for Personal Prayer*).
+
+But the Samaritan breaks social custom, breaks those barriers, goes out of his way. A little bit like Our Lord saying we have to go that extra mile. We have to keep very clear in our mind the importance of the human person.
+
+In some ways, this story summarizes the entire gospel, the entire meaning of life.
+
+At the very start of the parable, Our Lord is asked, "And who is my neighbor?" (Luke 10:29).
+
+Our Lord obliges then with the explanation and the story of the Good Samaritan, "the explanation that's also given by the words and examples of thousands of saints, by the teaching of the Church in every age, by the nudges to our own conscience...to make Christ's standards our own. The complicated shadows of self-absorption have become too comfortable, the simple bright light of Christ's truth hurts our eyes" (John Bartunek*, ibid*.).
+
+We have a choice of being a bit like the priest or the Levite or the Samaritan---the priest or the Levite who perhaps, with all their education and formation, failed the test in the crucial moment.
+
+But it was this Good Samaritan who had this sensitivity, this refinement, this virtue, this character. He wasn't absorbed in himself, taken up in his own egoism---the great problem of our wounded human nature.
+
+In our hearts we know what we should do. That's the important thing. "Christ is also the friend. He shows us what a real friend does. He puts Himself out to save the half-dead traveler." And that was doing a lot.
+
+"First of all, it was risky. Playing dead was a popular ploy of Palestine's experienced brigands." The guy could have been a con man. He could have been using this to get the better of the Samaritan.
+
+"Secondly, it was costly. He had to use his own oil and wine. He had to leave money with the innkeeper." This had real sacrifice for his pocket.
+
+"And thirdly, it was inconvenient. The Samaritan was on the road for business, maybe very important business"---possibly one of the most important business deals in his life was waiting for him, some contract he was going to sign or some agreement; he was going to collect a large amount of money that was due to him---"so stopping at the scene of the accident and taking the fellow to a place of safety would delay his trip. You could say the whole thing was really a bad investment, practically speaking" (*ibid*.).
+
+Nobody likes a bad investment. I'm going to lose an awful lot. But yes, Our Lord seems to be inviting us to make that type of investment: invest in other people. We solve our own problems by thinking about the others.
+
+We invest our time and our effort in other people, seeing Christ in them, serving them as if they were Christ, because Christ is truly in them. His blood is running through their veins. Then Christ multiplies our time, our energy. Other things go better.
+
+Christ, the friend who is the good Samaritan, is telling us that this is what friends do. "They put themselves out for their friends. They take risks for them. They make sacrifices for them" (*ibid*.).
+
+We can ask Our Lord that from the meditation on this parable that we might learn how to be better friends of our friends.
+
+And ultimately, that's what Christ did for us. Just look at the crucifix to prove what kind of friend He is. And if we value His friendship and want to be His friend, we'll take seriously the words that He says to us: "Go and do the same" (Luke 10:37). Do what I have done for you. That's the important thing.
+
+"The Samaritan goes out of his way to help the injured man. This signifies Christ, who encounters man in need of salvation and cares for his wounds and suffering. He cares for them with the 'oil of consolation and the wine of hope' (*Roman Missal*, Italian edition, Common Preface VIII). He's the physician of our soul and bodies, 'the faithful witness' (Rev. 3:14) of the divine, salvific presence in the world" (Pope Francis and the Congregation for the Doctrine of the Faith, Letter, *Samaritanus Bonus*, Introduction, July 14, 2020).
+
+We're invited to "accompany the suffering persons, especially in the terminal stages of life," Pope Francis says, "to offer this assistance in a way that respects and promotes the intrinsic dignity of persons" (*ibid*.).
+
+The whole of the social teaching of the Church has that word "dignity" in the very centre of it. The whole of the missionary thrust of the Church, bringing education and health care to millions all over the world down through the centuries---all driven by the words "dignity of the human person." Intrinsic dignity.
+
+The Church witnesses to the sacredness of human life in all ways. We can be very proud of our Church because our Church has stood firm on this principle, this belief, this truth of the sacredness of every human life, pre-born or elderly, in all situations, physically disabled, mentally disabled, visually impaired.
+
+Everybody has their dignity and their value. We're called to be the Good Samaritan to all of them.
+
+"The Good Samaritan...not only draws near to the man that he finds half dead, but he takes responsibility for him." He takes him on his shoulders, physically and also economically.
+
+"He invests in him, not only with the funds that he has..., but even with the funds that he doesn't have." He takes on an economic burden. He invests the funds that he "hopes to earn in Jericho. He promises to pay additional costs upon his return" (*ibid*.).
+
+"The next day he took out two denarii and handed them to the innkeeper and said, 'Look after him, and on my way back I will make good any extra expense you have" (Luke 10:35). It's a serious commitment that he makes. Very rich, very beautiful.
+
+"Likewise, Christ invites us to trust in his invisible grace that prompts us to the generosity of supernatural charity" (Pope Francis, *ibid*.).
+
+We're called to practice a human charity, but also a supernatural charity: to invest prayer in other people, invest mortification in other people. Sacrifice. Virtue. Our Mass. Our *heroic minute* in getting out of bed quickly in the morning, and other sacrifices that the day may ask of us: changes of plans, pieces of bad news.
+
+There's a line of the First Eucharistic Prayer that says, "May your angel take this sacrifice to your altar in heaven."
+
+Every time that we have some little reversal of fortune in the day or some little thing that God may ask of us, we could say that phrase: "May your angel take this sacrifice to your altar in heaven" so that we live out this generosity of supernatural charity. We bring people's spiritual lives forward with our prayer.
+
+Our Lord says, "Amen I say to you, whatever you did for one of these least of brothers of mine, you did for me" (Matt. 25:40). Our Lord is telling us that He's present in every human person. We need to try and see Him in others.
+
+The Holy Father says, "This affirmation expresses a moral truth of universal scope: 'we need then to show care for all life and for the life of everyone'" (Pope Francis, quoting John Paul II, Encyclical, *Evangelium vitae*, Point 87, March 25, 1995).
+
+"To show care"---that's what the Church has been doing for twenty centuries, the greatest healthcare worker in the world. Care for minds. Care for souls. Care for human persons through education, healthcare and formation.
+
+He says "the Samaritan's heart that sees" helps him to go deeper. "He was moved with compassion." It's possibly the key phrase of the whole parable: "He was moved with compassion" (Luke 10:33).
+
+The word compassion comes from Latin, *compatior*, "to suffer with." If we suffer with people, we take their place, we walk in their shoes. We do unto others as we would like done unto ourselves.
+
+God wants us to have a compassionate heart. A merciful heart. "Be merciful, as your heavenly Father is merciful" (Luke 6:36). That's a pretty tall order.
+
+When it comes to love, Our Lord doesn't admit of any limitations. Any half going along the road. He wants the whole hog. No limitation to charity.
+
+It can always be increasing. We can always be a better good Samaritan as we go along the road. Seeing with a heart that sees.
+
+"Human persons," Pope Francis says, "always retain their original dignity as created in the image of God. ... It is proper for the Church to accompany with mercy the weakest in their journey of suffering."
+
+To accompany with mercy. Mercy, which Pope John Paul II said is another word for love (*cf*. John Paul II, Encyclical, *Dives in misericordia*, November 30, 1980), goes beyond justice.
+
+There are many things the present Holy Father, Pope Francis, and before him the popes have written about mercy. Something we need to delve into a little deeper as time goes by.
+
+He says, "The Church of the Good Samaritan regards 'the service to the sick as an integral part of its mission.'"
+
+There are many hospitals, care centers for elderly or sick children that the Church has promoted in the world all over the place as part of its mission, because the Church has a heart that sees.
+
+"'A heart that sees' is central to the program of the good Samaritan. He teaches us that it is necessary to convert the gaze of the heart, because many times the beholder does not see."
+
+We may see things, but it doesn't register, the penny doesn't drop, "because compassion is lacking. Without compassion," he says, "people who look do not get involved with what they observe. They keep going" along the road. "Instead, people who have a compassionate heart are touched and engaged. They stop and show care" (Pope Francis, *op. cit*.).
+
+We could examine our conscience and see where we could be a better friend to our friends in all sorts of ways, with our compassionate heart, perhaps spreading that supernatural charity around us, Christ's kindly love, in all sorts of ways which we manifest each day in small things: a kind word, a smile, a little gesture; helping somebody to carry something from A to B; perhaps picking up a paper clip off the floor, something we notice. Or being attentive to how people around us are.
+
+Somebody told me once they were giving a talk to employees of a major multinational corporation, and that particular day the talk was about charity.
+
+There happened to be a vice president of the company that was visiting from Switzerland and walking around the plant, and he sat in on this talk for a few moments, listening to the words of charity that the speaker was talking about.
+
+The vice president came to the speaker afterwards and said, "Thank you very much and keep talking about charity. We need more charity on the factory floor."
+
+He didn't quite say 'it's good for business' or 'people are more productive,' but basically saying we need a very human environment, to create that human environment where people are happy working, because we have created the right environment---with our words, with our gestures, with our care, with our compassionate heart.
+
+"The heart sees where love is needed and acts accordingly" (*cf*. Benedict XVI, Encyclical, *Deus caritas est*, Point 31, December 25, 2005).
+
+It's what our religion is all about. "God is love" (1 John 4:8,16), Christ is love, the Church is love. Our vocation is to share love in all sorts of ways, 24/7, so that our children, our spouse, our neighbors, our colleagues will experience the love that we share with them.
+
+St. Thérèse of Lisieux liked to say that at the end of our life we will be judged on love. God will not ask us how much money we have in our bank account, or what letters we have after our name, or what other great things we may have achieved in our life.
+
+But He will ask us, 'How have you loved?' Sanctity is love. God is love. We need to come back all the time and look again at these great parables that speak so much to us.
+
+Pope Benedict says, "These eyes identify in weakness God's call to appreciate that human life is the primary common good of society" (*cf*. Benedict XVI, Encyclical, *Caritas in veritate*, Point 76, June 29, 2009).
+
+"To appreciate human life, the primary common good of society"---the most basic right. We have to do everything we can to safeguard that right, to proclaim it from the house tops, because if that right gets disengaged or weakened in some way, then so many other rights go down the river.
+
+The basic thing we have to look for, reiterate, help other people to come to know.
+
+Pope Francis says, "Human life is a highest good, and society is called to acknowledge this. Life is a sacred and inviolable gift (*cf*. John Paul II, Encyclical, *Evangelium vitae*, Point 49, March 25, 1995) and every human person, created by God, has a transcendent vocation to a unique relationship with the One who gives life" (Pope Francis, *ibid*.).
+
+He's saying when the good Samaritan stops and approaches the wounded man, he's giving witness to this great truth. In all schools with the Catholic ethos, we have to try and teach this to students at all ages. Standard one, kindergarten. Think about other people. Be kind to other people. Be generous. Give to those who don't have. Think out of the box.
+
+The Holy Father says, "For this reason the Church is always happy to collaborate with all people of good will, with believers of other confessions or religions as well as non-believers who respect the dignity of human life, even in the last stages of suffering and death, and reject any action contrary to human life" (*ibid*.).
+
+As always, the Holy Father has many things to say, many beautiful things to lift us up onto a new level.
+
+It might seem sometimes that being a good Samaritan is too hard, too demanding. But yet we know from our own experience that it's really not so hard at all. Only, I need to decide to do it.
+
+We can ask Our Lord for the courage in those critical moments of decision. If I can resist the temptation to self-centeredness right when a chance of love presents itself, then the rest will be smooth sailing. There's always a way in which each one of us can be a better Good Samaritan.
+
+In *The Forge* we're told, "How very insistent the Apostle St. John was in preaching the new commandment that we should love one another (John 13:34-35). I would fall on my knees, without putting on any act---but this is what my heart dictates---and ask you, for the love of God, to love one another, to help one another, to lend one another a hand, to know how to forgive one another.
+
+"And so, reject all pride, be compassionate, show charity; help each other with prayer and sincere friendship" (Josemaría Escrivá, *The Forge*, Point 454).
+
+In *The Way*, St. Josemaría says, "Charity does not consist so much in 'giving' as in 'understanding.' Therefore, seek an excuse for your neighbor---there is always one to be found---if it is your duty to judge" (J. Escrivá, *The Way*, Point 463).
+
+The Good Samaritan somehow understood the situation of the injured man. He put himself in his situation and said, 'How would I like to be treated in this situation?' and acted accordingly.
+
+We're told in *The Forge*, "Practice a cheerful charity which is at once kindly and firm; human and at the same time supernatural. It should be an affectionate charity, knowing how to welcome everyone with a sincere and habitual smile, and how to understand the ideas and the feelings of others.
+
+"In this way, with gentleness and strength, and without concessions in matters of personal morals or in doctrine, the charity of Christ---when it is being well lived---will give you a spirit of conquest. Each day you will have a greater desire to work for souls" (J. Escrivá, *The Forge*, Point 282).
+
+As we go along the road we find souls, souls that are in need of our supernatural charity.
+
+At the moment of the Annunciation, Our Lady had an opportunity to be the good Samaritan, to go to Elizabeth, and she took that opportunity. She "went into the hill country" and she didn't just stay there three minutes, or three hours, or three days, but three months (Luke 1:36,39-56). It was a serious contribution and commitment.
+
+We can ask Our Lady that from looking at her example we might learn how to be a better Good Samaritan and grow in our spirit of friendship that God wants us to practice with all the people around us.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*MVF*
