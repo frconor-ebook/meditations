@@ -28,7 +28,7 @@ nav {
 
 .nav-links {
   display: flex;
-  gap: 30px; /* Space between Home and Team links */
+  gap: 60px; /* Space between Home and Team links */
 }
 
 .logo {
