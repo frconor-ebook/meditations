@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Proofreading Team
+title: Team
 permalink: /team/
 ---
 
 The Fr. Conor Donnelly Meditations project is made possible through the dedicated efforts of our international proofreading team. These volunteers have generously contributed their time and expertise to ensure the accuracy and quality of these spiritual reflections.
-
-## Team Members
 
 *Listed alphabetically by first name*
 
