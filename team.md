@@ -27,7 +27,3 @@ The Fr. Conor Donnelly Meditations project is made possible through the dedicate
 - Sonali M. Fernandes (SMF) - India
 - Uchenna Ike (UI) - Nigeria
 - Victoria Amulega (VA) - Kenya
-
----
-
-*We are grateful for the service and dedication of each team member in making these meditations accessible to readers worldwide.*
