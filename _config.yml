@@ -23,7 +23,6 @@ exclude:
   - "transcript_proofread_markdown_small/"
   - "transcript_proofread_markdown/"
   - "_posts/2025-02-03-welcome-to-jekyll.markdown"
-  - "about.markdown"
   - "README.md"
   - "process_markdown.py"
   - ".gitignore"
