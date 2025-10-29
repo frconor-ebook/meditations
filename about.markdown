@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Connect
-permalink: /about/
+permalink: /connect/
 ---
 
 ## WhatsApp Channel
