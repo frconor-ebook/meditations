@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Connect
+title: ""
 permalink: /connect/
 ---
 
