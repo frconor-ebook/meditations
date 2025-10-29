@@ -88,8 +88,89 @@ footer {
   border: 1px solid #ddd;
   border-radius: 4px;
   width: 300px;
+  max-width: 100%; /* Ensure it doesn't overflow on small screens */
+  box-sizing: border-box;
 }
 
 #search-results {
   margin-top: 10px;
+}
+
+/* Mobile Responsive Styles */
+@media screen and (max-width: 768px) {
+  /* Navigation adjustments for tablets and mobile */
+  nav {
+    padding: 0 10px; /* Reduce side padding on mobile */
+  }
+
+  .nav-links {
+    gap: 20px; /* Reduce gap between navigation links on mobile */
+  }
+
+  nav a {
+    font-size: 1rem; /* Slightly smaller font on mobile */
+  }
+
+  .logo img {
+    height: 40px; /* Smaller logo on mobile */
+  }
+
+  main {
+    padding: 15px; /* Reduce main padding on mobile */
+  }
+
+  article {
+    padding: 15px; /* Reduce article padding on mobile */
+  }
+
+  #search-box {
+    width: 100%; /* Full width search box on mobile */
+  }
+
+  h1 {
+    font-size: 1.75rem; /* Scale down h1 on mobile */
+  }
+
+  h2 {
+    font-size: 1.5rem; /* Scale down h2 on mobile */
+  }
+}
+
+@media screen and (max-width: 480px) {
+  /* Very small screens (phones) */
+  nav {
+    padding: 0 5px;
+  }
+
+  .nav-links {
+    gap: 15px; /* Even smaller gap on small phones */
+  }
+
+  nav a {
+    font-size: 0.9rem; /* Smaller navigation text on small phones */
+  }
+
+  .logo img {
+    height: 35px; /* Even smaller logo on small phones */
+  }
+
+  main {
+    padding: 10px; /* Minimal padding on small phones */
+  }
+
+  article {
+    padding: 12px; /* Minimal article padding on small phones */
+  }
+
+  h1 {
+    font-size: 1.5rem; /* Smaller h1 on small phones */
+  }
+
+  h2 {
+    font-size: 1.25rem; /* Smaller h2 on small phones */
+  }
+
+  footer {
+    font-size: 0.85rem; /* Smaller footer text */
+  }
 }
