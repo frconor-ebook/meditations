@@ -11,6 +11,7 @@ The Fr. Conor Donnelly Meditations project is made possible through the dedicate
 - Calista Pierre-Ghany (CPG) - Trinidad & Tobago
 - Dr. Bernadette W. Mwaniki (BWM) - Kenya
 - Dr. Dorothy W. Mwaura (DWM) - Kenya
+- Edward Wijaya (EW) - Japan/Indonesia
 - Geraldine Daly (GD) - UK
 - Jeanne Matsuda (JM) - USA
 - Joshua Mugwe (JOSH) - Kenya
