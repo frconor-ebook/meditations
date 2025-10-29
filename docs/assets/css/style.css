@@ -26,6 +26,11 @@ nav {
   box-sizing: border-box; /* Include padding in width calculation */
 }
 
+.nav-links {
+  display: flex;
+  gap: 30px; /* Space between Home and Team links */
+}
+
 .logo {
   margin-left: 0px; /* Reset margin */
 }
