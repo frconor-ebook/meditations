@@ -1,18 +1,20 @@
 ---
 layout: page
-title: About
+title: Connect
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## WhatsApp Channel
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Follow our WhatsApp Channel: [https://whatsapp.com/channel/0029Vb2pjJyGufJ2mE4xvv2F](https://whatsapp.com/channel/0029Vb2pjJyGufJ2mE4xvv2F)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Through the WhatsApp Channel, you'll also receive:
+- Written Transcripts of each meditation
+- Daily Quotes for inspiration
+- Thematic Visuals to deepen your reflection
 
+## eBook
 
-[jekyll-organization]: https://github.com/jekyll
+Download the eBook: [https://tinyurl.com/frcmed-ebook-v1-1](https://tinyurl.com/frcmed-ebook-v1-1)
+
+Stay inspired anywhere!
