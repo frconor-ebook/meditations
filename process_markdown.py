@@ -6,6 +6,20 @@ import unicodedata  # Add this import
 from datetime import datetime
 
 
+def sanitize_title(title):
+    """
+    Sanitize title by removing Word-style superscript notation.
+    Converts patterns like 2^(nd), 10^(th), 26^(th) to 2nd, 10th, 26th
+    """
+    # Replace common ordinal superscripts
+    title = re.sub(r'(\d+)\^\(st\)', r'\1st', title)  # 1^(st) -> 1st
+    title = re.sub(r'(\d+)\^\(nd\)', r'\1nd', title)  # 2^(nd) -> 2nd
+    title = re.sub(r'(\d+)\^\(rd\)', r'\1rd', title)  # 3^(rd) -> 3rd
+    title = re.sub(r'(\d+)\^\(th\)', r'\1th', title)  # 4^(th) -> 4th
+
+    return title
+
+
 def convert_markdown_to_posts(source_dir, posts_dir, data_dir):
     """
     Converts markdown files to Jekyll posts and creates a meditations.json index.
@@ -31,6 +45,7 @@ def convert_markdown_to_posts(source_dir, posts_dir, data_dir):
                 continue
 
             title = lines[title_line_index].rstrip("\r\n").lstrip("# ").strip()
+            title = sanitize_title(title)  # Sanitize Word-style superscripts
 
             # Create a slug for the URL (MODIFIED FOR CONSISTENCY)
             slug = title.lower()

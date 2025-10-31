@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "The Only Real Evil (2^(nd) Ed.)"
+title: "The Only Real Evil (2nd Ed.)"
 ---
 
 By Fr. Conor Donnelly
