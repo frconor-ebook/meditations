@@ -37,7 +37,7 @@ This script will automatically:
    - Build the Jekyll site
 
 3. **Deployment Phase**
-   - Commit all changes to git
+   - Commit all changes to git (with custom message if provided, or default automated message)
    - Push to GitHub Pages
 
 After deployment, the site will be accessible at: `https://frconor-ebook.github.io/meditations/`
@@ -65,6 +65,7 @@ Options:
                           Valid steps: download,convert,standardize,process,build,deploy
   -i, --include-step STEPS Only run specific step(s) (comma-separated list)
                           Valid steps: download,convert,standardize,process,build,deploy
+  -m, --message MSG       Custom git commit message (optional)
   -l, --log FILE          Write output to log file
   -h, --help              Display help message
 ```
@@ -101,6 +102,21 @@ Options:
 **Generate detailed logs:**
 ```bash
 ./frcmed_full_pipeline.sh --verbose --log pipeline.log
+```
+
+**Deploy with custom commit message:**
+```bash
+./frcmed_full_pipeline.sh --include-step build,deploy --message "Update about page with new content"
+```
+
+**Full pipeline with custom message:**
+```bash
+./frcmed_full_pipeline.sh --message "Monthly meditation updates from Meg Francisco"
+```
+
+**Custom message for UI improvements:**
+```bash
+./frcmed_full_pipeline.sh --include-step build,deploy -m "Improve typography and spacing"
 ```
 
 ## Workflow Diagram
