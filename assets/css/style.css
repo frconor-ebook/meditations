@@ -37,7 +37,7 @@ html, body {
 body {
   font-family: 'Crimson Text', Georgia, serif;
   font-size: 18px;
-  line-height: 1.7;
+  line-height: 1.6;
   margin: 0;
   padding: 0;
   background: var(--bg-cream);
@@ -64,7 +64,7 @@ h2 {
 }
 
 p {
-  margin-bottom: 1.2em;
+  margin-bottom: 1em;
 }
 
 /* ===================================
@@ -131,7 +131,7 @@ article {
   margin-bottom: 10px;
   border-radius: 5px;
   box-shadow: var(--shadow-md);
-  line-height: 1.8;
+  line-height: 1.6;
 }
 
 /* ===================================
@@ -189,18 +189,17 @@ footer {
    Meditation List Styling
    =================================== */
 main ul {
-  line-height: 1.8;
+  line-height: 1.5;
   margin-top: 20px;
 }
 
 main ul li {
-  margin-bottom: 12px;
+  margin-bottom: 6px;
 }
 
 main ul li a {
   font-size: 1.05em;
   display: inline-block;
-  padding: 4px 0;
 }
 
 /* ===================================
