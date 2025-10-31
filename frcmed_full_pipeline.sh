@@ -22,6 +22,7 @@ PARENT_DIR="$(cd "$(dirname "$0")" && pwd)/.."
 START_TIME=$(date +%s)
 LOG_FILE=""
 VERBOSE=false
+COMMIT_MESSAGE=""
 
 # Skip flags
 SKIP_DOWNLOAD=false
@@ -63,6 +64,7 @@ show_help() {
     echo "                          Valid steps: download,convert,standardize,process,build,deploy"
     echo "  -i, --include-step STEPS Only run specific step(s) (comma-separated list)"
     echo "                          Valid steps: download,convert,standardize,process,build,deploy"
+    echo "  -m, --message MSG       Custom git commit message (optional)"
     echo "  -l, --log FILE          Write output to log file"
     echo "  -h, --help              Display this help message"
     echo
@@ -73,6 +75,8 @@ show_help() {
     echo "  $(basename "$0") --include-step download,process"
     echo "  $(basename "$0") --include-step build,deploy"
     echo "  $(basename "$0") -i build  # Short form for --include-step"
+    echo "  $(basename "$0") --include-step deploy -m \"Fix footer styling\""
+    echo "  $(basename "$0") --message \"Improve typography\" --include-step build,deploy"
     echo
     echo "Note: --include-step and --skip-step cannot be used together"
 }
@@ -259,6 +263,10 @@ parse_args() {
                 ;;
             -l|--log)
                 LOG_FILE="$2"
+                shift 2
+                ;;
+            -m|--message)
+                COMMIT_MESSAGE="$2"
                 shift 2
                 ;;
             -s|--skip-step)
@@ -505,7 +513,15 @@ deploy_to_github() {
     git add . || error_message "Git add failed."
 
     # Commit changes
-    local commit_message="Update with latest edits (automated commit from frcmed_full_pipeline.sh)"
+    # Use custom message if provided, otherwise use default
+    if [[ -n "$COMMIT_MESSAGE" ]]; then
+        local commit_message="$COMMIT_MESSAGE"
+        verbose "Using custom commit message: $commit_message"
+    else
+        local commit_message="Update with latest edits (automated commit from frcmed_full_pipeline.sh)"
+        verbose "Using default commit message"
+    fi
+
     log "INFO" "Committing changes..."
     git commit -m "$commit_message" || {
         # If there's nothing to commit, this is not an error
