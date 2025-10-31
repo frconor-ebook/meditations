@@ -36,7 +36,7 @@ html, body {
 
 body {
   font-family: 'Crimson Text', Georgia, serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.7;
   margin: 0;
   padding: 0;
@@ -186,6 +186,24 @@ footer {
 }
 
 /* ===================================
+   Meditation List Styling
+   =================================== */
+main ul {
+  line-height: 1.8;
+  margin-top: 20px;
+}
+
+main ul li {
+  margin-bottom: 12px;
+}
+
+main ul li a {
+  font-size: 1.05em;
+  display: inline-block;
+  padding: 4px 0;
+}
+
+/* ===================================
    Mobile Responsive Styles
    =================================== */
 @media screen and (max-width: 768px) {
@@ -276,7 +294,7 @@ footer {
    =================================== */
 @media (min-width: 768px) {
   body {
-    font-size: 17px;
+    font-size: 19px;
   }
 
   h1 {
@@ -290,7 +308,7 @@ footer {
 
 @media (min-width: 1024px) {
   body {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   h1 {
