@@ -186,58 +186,6 @@ footer {
 }
 
 /* ===================================
-   Share Links (Increased Size)
-   =================================== */
-.share-links {
-  font-family: 'Lato', Arial, sans-serif;
-  font-size: 0.9rem;
-  color: var(--text-muted);
-  margin: 20px 0;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 8px;
-}
-
-.share-links a {
-  color: var(--text-muted);
-  text-decoration: none;
-  padding: 8px 12px;
-  border-radius: 4px;
-  transition: all 0.3s ease;
-  min-height: 44px;
-  min-width: 44px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.share-links a:hover {
-  background: var(--bg-cream);
-  color: var(--link-color);
-  text-decoration: none;
-}
-
-.share-links .separator {
-  margin: 0 4px;
-  color: var(--text-muted);
-  font-size: 0.8rem;
-}
-
-.copy-notification {
-  display: none;
-  font-family: 'Lato', Arial, sans-serif;
-  font-size: 0.9rem;
-  color: #28a745;
-  margin-top: 8px;
-  padding: 4px 8px;
-}
-
-.copy-notification.show {
-  display: inline-block;
-}
-
-/* ===================================
    Mobile Responsive Styles
    =================================== */
 @media screen and (max-width: 768px) {
@@ -321,20 +269,6 @@ footer {
   footer {
     font-size: 0.85rem;
   }
-
-  /* Share links mobile optimization */
-  .share-links {
-    font-size: 0.85rem;
-    justify-content: center;
-  }
-
-  .share-links a {
-    padding: 10px 14px;
-  }
-
-  .separator {
-    display: none;
-  }
 }
 
 /* ===================================
@@ -351,10 +285,6 @@ footer {
 
   h2 {
     font-size: 1.65rem;
-  }
-
-  .share-links {
-    font-size: 1rem;
   }
 }
 
