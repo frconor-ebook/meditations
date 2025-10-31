@@ -8,21 +8,21 @@ The Fr. Conor Donnelly Meditations project is made possible by the dedicated eff
 
 *Listed alphabetically by first name*
 
-- Calista Pierre-Ghany (CPG) - Trinidad & Tobago
-- Dr. Bernadette W. Mwaniki (BWM) - Kenya
-- Dr. Dorothy W. Mwaura (DWM) - Kenya
-- Edward Wijaya (EW) - Japan/Indonesia
-- Geraldine Daly (GD) - UK
-- Jeanne Matsuda (JM) - USA
-- Joshua Mugwe (JOSH) - Kenya
-- Juancho S. Dimaguila (JSD) - Philippines
-- Margarita 'Meg' V. Francisco (MVF) - Philippines
-- Mark & Monica Lim (MML) - Singapore
-- Nikhil J. Fernandes (NJF) - India
-- Olivia L. Ventura (OLV) - USA
-- Peter 'Kinyonya' Mwangi (KI) - Kenya
-- Peter K. Njonjo (PKN) - Kenya
-- Ronnie Komora (RK) - Kenya
-- Sonali M. Fernandes (SMF) - India
-- Uchenna Ike (UI) - Nigeria
-- Victoria Amulega (VA) - Kenya
+- 🇹🇹 Calista Pierre-Ghany (CPG) - Trinidad & Tobago
+- 🇰🇪 Dr. Bernadette W. Mwaniki (BWM) - Kenya
+- 🇰🇪 Dr. Dorothy W. Mwaura (DWM) - Kenya
+- 🇯🇵 Edward Wijaya (EW) - Japan/Indonesia
+- 🇬🇧 Geraldine Daly (GD) - UK
+- 🇺🇸 Jeanne Matsuda (JM) - USA
+- 🇰🇪 Joshua Mugwe (JOSH) - Kenya
+- 🇵🇭 Juancho S. Dimaguila (JSD) - Philippines
+- 🇵🇭 Margarita 'Meg' V. Francisco (MVF) - Philippines
+- 🇸🇬 Mark & Monica Lim (MML) - Singapore
+- 🇮🇳 Nikhil J. Fernandes (NJF) - India
+- 🇺🇸 Olivia L. Ventura (OLV) - USA
+- 🇰🇪 Peter 'Kinyonya' Mwangi (KI) - Kenya
+- 🇰🇪 Peter K. Njonjo (PKN) - Kenya
+- 🇰🇪 Ronnie Komora (RK) - Kenya
+- 🇮🇳 Sonali M. Fernandes (SMF) - India
+- 🇳🇬 Uchenna Ike (UI) - Nigeria
+- 🇰🇪 Victoria Amulega (VA) - Kenya
