@@ -18,11 +18,11 @@ The Fr. Conor Donnelly Meditations project is made possible by the dedicated eff
 - 🇵🇭 Juancho S. Dimaguila (JSD) - Philippines
 - 🇵🇭 Margarita 'Meg' V. Francisco (MVF) - Philippines
 - 🇸🇬 Mark & Monica Lim (MML) - Singapore
-- 🇮🇳 Nikhil J. Fernandes (NJF) - India
+- 🇨🇦 Nikhil J. Fernandes (NJF) - Canada/India
 - 🇺🇸 Olivia L. Ventura (OLV) - USA
 - 🇰🇪 Peter 'Kinyonya' Mwangi (KI) - Kenya
 - 🇰🇪 Peter K. Njonjo (PKN) - Kenya
 - 🇰🇪 Ronnie Komora (RK) - Kenya
-- 🇮🇳 Sonali M. Fernandes (SMF) - India
+- 🇨🇦 Sonali M. Fernandes (SMF) - Canada/India
 - 🇳🇬 Uchenna Ike (UI) - Nigeria
 - 🇰🇪 Victoria Amulega (VA) - Kenya
