@@ -1,138 +1,286 @@
-body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  margin: 0;
-  padding: 0;
-  background: #f4f4f4;
-  color: #333;
+/* ===================================
+   CSS Variables for Color Scheme
+   =================================== */
+:root {
+  /* Primary Colors */
+  --primary-dark: #1a2332;      /* Deep navy - header */
+  --primary-accent: #c9a961;    /* Warm gold - accents */
+
+  /* Backgrounds */
+  --bg-cream: #faf8f5;          /* Off-white background */
+  --bg-white: #ffffff;          /* Card background */
+
+  /* Text Colors */
+  --text-primary: #2c3e50;      /* Charcoal - main text */
+  --text-muted: #6c757d;        /* Muted gray - metadata */
+  --text-light: #ffffff;        /* White - header text */
+
+  /* Link Colors */
+  --link-color: #2a5f5f;        /* Deep blue-green */
+  --link-hover: #1a4646;        /* Darker on hover */
+
+  /* Shadows */
+  --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 8px 16px rgba(0, 0, 0, 0.12);
 }
 
+/* ===================================
+   Base Typography & Layout
+   =================================== */
+html, body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+body {
+  font-family: 'Crimson Text', Georgia, serif;
+  font-size: 16px;
+  line-height: 1.7;
+  margin: 0;
+  padding: 0;
+  background: var(--bg-cream);
+  color: var(--text-primary);
+  flex: 1;
+}
+
+/* ===================================
+   Typography Improvements
+   =================================== */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lato', Arial, sans-serif;
+  font-weight: 700;
+  line-height: 1.3;
+  color: var(--text-primary);
+}
+
+h1 {
+  font-size: 1.75rem;   /* ~28px on mobile */
+}
+
+h2 {
+  font-size: 1.5rem;    /* ~24px on mobile */
+}
+
+p {
+  margin-bottom: 1.2em;
+}
+
+/* ===================================
+   Header & Navigation
+   =================================== */
 header {
-  background: #09403A;
-  color: #fff;
-  padding: 5px 0; /* Reduced padding, adjust as needed */
+  background: var(--primary-dark);
+  color: var(--text-light);
+  padding: 5px 0;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 100%; /* Ensure header spans full width */
+  width: 100%;
 }
 
 nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 100%; /* Nav takes full width of header */
-  padding: 0 20px; /* Add some padding on the sides */
-  box-sizing: border-box; /* Include padding in width calculation */
+  width: 100%;
+  padding: 0 20px;
+  box-sizing: border-box;
 }
 
 .nav-links {
   display: flex;
-  gap: 60px; /* Space between Home and Team links */
+  gap: 60px;
 }
 
 .logo {
-  margin-left: 0px; /* Reset margin */
+  margin-left: 0px;
 }
 
 .logo img {
-  height: 50px; /* Adjust height as needed */
+  height: 50px;
   width: auto;
   vertical-align: middle;
 }
 
-
 nav a {
-  color: #fff;
+  color: var(--text-light);
   text-decoration: none;
-  margin-right: 0px; /* Reset margin */
-  font-size: 1.2rem; /*  increase font size */
-  font-weight: normal; /* Remove bold, set to normal weight */
+  margin-right: 0px;
+  font-size: 1.2rem;
+  font-weight: normal;
+  transition: opacity 0.3s ease;
 }
 
+nav a:hover {
+  opacity: 0.8;
+}
 
+/* ===================================
+   Main Content Area
+   =================================== */
 main {
   padding: 20px;
+  flex: 1;
 }
 
 article {
-  background: #fff;
+  background: var(--bg-white);
   padding: 20px;
   margin-bottom: 10px;
   border-radius: 5px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  box-shadow: var(--shadow-md);
+  line-height: 1.8;
 }
 
-h1, h2 {
-  color: #333;
-}
-
+/* ===================================
+   Links
+   =================================== */
 a {
-  color: #4682B4;
+  color: var(--link-color);
+  transition: color 0.3s ease;
 }
 
+a:hover {
+  color: var(--link-hover);
+}
+
+/* ===================================
+   Footer (Fixed Positioning)
+   =================================== */
 footer {
+  position: static;
   text-align: center;
-  padding: 0.5px;
-  background: #333;
-  color: #fff;
-  position: fixed;
-  bottom: 0;
+  padding: 20px 15px;
+  background: var(--primary-dark);
+  color: var(--text-light);
+  margin-top: 40px;
+  line-height: 1.5;
   width: 100%;
-  line-height: 0.1;
 }
 
+/* ===================================
+   Search Box
+   =================================== */
 #search-box {
   padding: 8px;
   margin: 10px 0;
   border: 1px solid #ddd;
   border-radius: 4px;
   width: 300px;
-  max-width: 100%; /* Ensure it doesn't overflow on small screens */
+  max-width: 100%;
   box-sizing: border-box;
+  font-family: 'Crimson Text', Georgia, serif;
+  font-size: 1rem;
+}
+
+#search-box:focus {
+  outline: none;
+  border-color: var(--link-color);
+  box-shadow: var(--shadow-sm);
 }
 
 #search-results {
   margin-top: 10px;
 }
 
-/* Mobile Responsive Styles */
+/* ===================================
+   Share Links (Increased Size)
+   =================================== */
+.share-links {
+  font-family: 'Lato', Arial, sans-serif;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin: 20px 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.share-links a {
+  color: var(--text-muted);
+  text-decoration: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+  min-height: 44px;
+  min-width: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.share-links a:hover {
+  background: var(--bg-cream);
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+.share-links .separator {
+  margin: 0 4px;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+}
+
+.copy-notification {
+  display: none;
+  font-family: 'Lato', Arial, sans-serif;
+  font-size: 0.9rem;
+  color: #28a745;
+  margin-top: 8px;
+  padding: 4px 8px;
+}
+
+.copy-notification.show {
+  display: inline-block;
+}
+
+/* ===================================
+   Mobile Responsive Styles
+   =================================== */
 @media screen and (max-width: 768px) {
   /* Navigation adjustments for tablets and mobile */
   nav {
-    padding: 0 10px; /* Reduce side padding on mobile */
+    padding: 0 10px;
   }
 
   .nav-links {
-    gap: 20px; /* Reduce gap between navigation links on mobile */
+    gap: 20px;
   }
 
   nav a {
-    font-size: 1rem; /* Slightly smaller font on mobile */
+    font-size: 1rem;
   }
 
   .logo img {
-    height: 40px; /* Smaller logo on mobile */
+    height: 40px;
   }
 
   main {
-    padding: 15px; /* Reduce main padding on mobile */
+    padding: 15px;
   }
 
   article {
-    padding: 15px; /* Reduce article padding on mobile */
+    padding: 15px;
   }
 
   #search-box {
-    width: 100%; /* Full width search box on mobile */
+    width: 100%;
   }
 
   h1 {
-    font-size: 1.75rem; /* Scale down h1 on mobile */
+    font-size: 1.75rem;
   }
 
   h2 {
-    font-size: 1.5rem; /* Scale down h2 on mobile */
+    font-size: 1.5rem;
+  }
+
+  footer {
+    padding: 25px 20px;
+    margin-top: 50px;
   }
 }
 
@@ -143,68 +291,88 @@ footer {
   }
 
   .nav-links {
-    gap: 15px; /* Even smaller gap on small phones */
+    gap: 15px;
   }
 
   nav a {
-    font-size: 0.9rem; /* Smaller navigation text on small phones */
+    font-size: 0.9rem;
   }
 
   .logo img {
-    height: 35px; /* Even smaller logo on small phones */
+    height: 35px;
   }
 
   main {
-    padding: 10px; /* Minimal padding on small phones */
+    padding: 10px;
   }
 
   article {
-    padding: 12px; /* Minimal article padding on small phones */
+    padding: 12px;
   }
 
   h1 {
-    font-size: 1.5rem; /* Smaller h1 on small phones */
+    font-size: 1.5rem;
   }
 
   h2 {
-    font-size: 1.25rem; /* Smaller h2 on small phones */
+    font-size: 1.25rem;
   }
 
   footer {
-    font-size: 0.85rem; /* Smaller footer text */
+    font-size: 0.85rem;
+  }
+
+  /* Share links mobile optimization */
+  .share-links {
+    font-size: 0.85rem;
+    justify-content: center;
+  }
+
+  .share-links a {
+    padding: 10px 14px;
+  }
+
+  .separator {
+    display: none;
   }
 }
 
-/* Simple text share links */
-.share-links {
-  font-family: Arial, sans-serif;
-  font-size: 0.5rem;
-  color: #666;
-  margin: 10px 0;
+/* ===================================
+   Tablet and Desktop Enhancements
+   =================================== */
+@media (min-width: 768px) {
+  body {
+    font-size: 17px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.65rem;
+  }
+
+  .share-links {
+    font-size: 1rem;
+  }
 }
 
-.share-links a {
-  color: #666;
-  text-decoration: none;
-}
+@media (min-width: 1024px) {
+  body {
+    font-size: 18px;
+  }
 
-.share-links a:hover {
-  text-decoration: underline;
-}
+  h1 {
+    font-size: 2.25rem;
+  }
 
-.share-links .separator {
-  margin: 0 4px;
-  color: #666;
-}
+  h2 {
+    font-size: 1.75rem;
+  }
 
-.copy-notification {
-  display: none;
-  font-family: Arial, sans-serif;
-  font-size: 0.5rem;
-  color: #28a745;
-  margin-top: 5px;
-}
-
-.copy-notification.show {
-  display: inline;
+  footer {
+    padding: 30px 20px;
+    margin-top: 60px;
+  }
 }
