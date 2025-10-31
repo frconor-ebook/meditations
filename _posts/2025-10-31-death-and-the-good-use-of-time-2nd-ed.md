@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Death and the Good Use of Time (2^(nd) Ed.)"
+title: "Death and the Good Use of Time (2nd Ed.)"
 ---
 
 By Fr. Conor Donnelly
