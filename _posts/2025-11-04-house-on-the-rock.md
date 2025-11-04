@@ -1,0 +1,111 @@
+---
+layout: homily
+title: "House on the Rock"
+---
+
+By Fr. Conor Donnelly
+
+*(Proofread)*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here. That you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins. And grace to make this time of prayer fruitful. My immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"It is not anyone who says to me, Lord, Lord, who will enter the kingdom of heaven. But the person who does the will of my Father in heaven. When that day comes, many will say to me, Lord, Lord, did we not prophesy in your name? Drive out demons in your name? Work many miracles in your name? Then I shall tell them to their faces, I have never known you. Away from me, all evil doers" (Matt. 7:21-23).
+
+Our Christian vocation leads us to try to identify our will with that of God. And God shows us his will in different ways. Through the good, good shepherds that he\'s placed around us, people with the grace of state. Or maybe in our prayer, or in our spiritual reading, he speaks to us in different ways.
+
+We\'re also told about how a person\'s life can be built on many different kinds of foundations. On rock, on clay, on smoke, on air. Only the Christian, we\'re told in the book of Isaiah, has a firm foundation which securely supports him. The Lord is the everlasting rock (cf. Isa. 26:4).
+
+In St. Matthew\'s gospel, we\'re told about two houses. In one of them, perhaps the builder wanted to economize on material for the foundations. Or possibly he was in a hurry to finish it. But he did not take as much care as he should have. And our Lord calls such a builder a fool.
+
+The two houses were completed and looked identical, but they had very different foundations. One of them was firmly bedded on rock, but not the other. Time passed and there arose problems that would put the solidity of their construction to the test. One day a storm arose. The rain poured, flood water began to rise, and hurricane winds hurled themselves against those buildings that men had erected. The time had come for proving their stability. One house remained firm and unshaken. The other collapsed with a roar and total ruin.
+
+The messages for us are clear. You to build the foundation of our life on Christ. You to take good care of our spiritual life, of our doctrinal formation, of our piety, to the norms of our spiritual life that we try to have firmly in place, that we try to take very good care of with the passage of time, growing in our refinement in the way we take care of our spiritual reading or our rosary, or our mass, or our periods of prayer each day, our yearly retreat, or other means of formation that we have.
+
+Taking care of the details, the Angelus, the morning offering. Creating in our home that atmosphere of spiritual formation. Why be become aware of the liturgical feast days? We come close to Christ through the periods that the church places before us. This is the way we build our house on solid rock. A solid rock of frequent reception of the sacraments. So that our children grow making that part of their life and learning to savor the riches and the beauty and the strength that comes from the sacraments.
+
+Our life can be built safely only on Christ, who is our sole hope, our sure foundation. And it means also that we have to strive to identify our will with his. If this is your will, Lord, well then it\'s my will also.
+
+Ours is not a more or less superficial adherence to a faint and barely distinguishable historical figure called Jesus Christ, but an adherence to his manifest will and to his clearly discernible and knowable person. We are told in scripture, it\'s not those who say to me, Lord, Lord, who will enter the kingdom of heaven, but he who does the will of my Father in heaven (Matt. 7:21). And that will can come to us in all sorts of ways.
+
+A few minutes ago, I read of a or I got news of a motorbike accident in a European city in the last few days where two brothers were killed on a motorbike, 25 and 23 years of age. Major blow for their parents, for their brothers and sisters, for their friends, for their relatives. Sometimes behind these contradictions, we have to see the will of God. There is something good in every situation, something divine. All things turn out for the good.
+
+Sometimes it\'s very difficult to see the will of God, but our Lord gives us the grace to handle these situations. *Fiat voluntas tua*. May your will be done. We learn this from our lady, from Saint Joseph. So no matter what the crosses that God may send us, we we learn how to carry them. We learn how to go forward in holiness and in apostolate. From that supernatural approach to those situations, we maintain our sanity, our peace, our serenity.
+
+It\'s not those who say to me, Lord, Lord, who will enter the kingdom of heaven, but "he who does the will of my Father in heaven" (Matt. 7:21). God\'s will is the compass needle which at every moment accurately points the way that takes us to him.
+
+If such a tragedy or a contradiction in human terms comes to us, to our family, well, we know the hand of God is here behind this thing. Our Christian vocation, our grace, our supernatural outlook helps us to be able to make a humble acceptance of the will of God. And we also learn that these things happen in this world, in this life. So that we\'re prepared. We\'ve prepared our soul, we\'ve prepared our heart.
+
+What may seem to be a human tragedy may be God giving us great spiritual lessons that we will never forget. And that pathway of acceptance of the will of God is the path to our own happiness. The fulfillment of the divine will can gives us and give us great fortitude to overcome obstacles, to handle the challenges.
+
+What a joy to be able to say at the end of our days, I have always tried to seek and to fulfill God\'s will in everything. The successes that we may have had in this life will not gladden us half so much, nor will the failures and the sufferings that we have undergone matter in the slightest. It\'s the joy, the serenity of knowing that I have tried to do the will of God in everything. That\'s what will matter to us and matter a lot. We\'ve loved God\'s will in preference to our own.
+
+And sometimes our own will can be very strong. Our Lord gave us that prayer in the Garden of Gethsemane, "Let not my will, rather yours be done" (Luke 22:42). Showing the fact that he had two wills, a human and a divine. The important thing was the fulfillment of the divine.
+
+So we should try and make the implementation of God\'s will active in our lives, whether it shows itself in a more general way, in the ordinary things of our life, our circumstances, our situation, our work, our family. Or in other occasions where it shows itself in a more immediate and very specific form. Possibly in the form of a great cross that might break our heart.
+
+And so the loving fulfillment of God\'s will is at the same time the summit of holiness. In the Second Vatican Council, in *Lumen Gentium* (no. 41), it says, \"All Christ\'s faithful then will grow daily more holy in the conditions their life imposes, its duties and its circumstances. These things will be the means of their advance in holiness, if they combine their faith with an acceptance of everything that comes from the hand of their Heavenly Father. If they are cooperative with the divine will, It\'s in these situations and moments that we will show our loving fulfillment of God\'s will. We show our closeness to him. We show our love of God.
+
+And that will of God is made clear to us first and foremost by the commandments, the counsels we receive, the precepts of our Holy Mother the Church, and the duties that we\'re involved in as part of our Christian vocation or our state in life. And the recognition and love of the divine will in these duties, will give us strength to carry them out as perfectly as possible. And in them, we will also find the opportunity to practice the human and the supernatural virtues. To put our faith into practice, our hope into practice, our love into practice.
+
+The will of God is intimately bound up with meeting each day with a loving smile. with the fulfillment of our ordinary duties, no matter how difficult they may be on certain days. And with the human and supernatural help that God gives to those around us, to ourselves.
+
+We also show our acceptance of God\'s will in our lives through our obedience. Imitating our Lord\'s desire to carry out His Father\'s will in everything. "Did you not know that I must be about my Father\'s business?" (Luke 2:49).
+
+That fulfillment of the divine will demands a certain humility. God\'s will for us is made clear to us in the specific way through those persons to whom we obedience, we owe obedience and allegiance. Parents, maybe bosses, civil authority, bishops, the Holy Father. And also through the advice that we receive in spiritual direction. It\'s possibly there that the Holy Spirit gives us very concrete indications.
+
+Our obedience or what we\'re told, is not based on the qualities of the people that tell us things, such as personality, intelligence, experience, or age. Our Lord, being God, was infinitely superior to Mary and Joseph. And yet was subject to them. Went down with them to Nazareth and was subject to them (cf. Luke 2:51).
+
+*Lumen gentium* (no. 3) continues, \"But there is more. Christ has introduced the kingdom of heaven on earth. He has revealed its mystery to us and brought about our redemption by his obedience.\"
+
+One spiritual writer said, you could sum up the whole of our Lord\'s life with those two words, \"he obeyed.\" Those who think that obedience is a servile subjection unworthy of man, proper only to the very young or to those in some way lacking in maturity, would take into account that Christ became obedient unto death, even unto death on a cross (cf. Phil. 2:8).
+
+So Christ obeyed out of love by carrying out the will of his Father. And so that humble acceptance of God\'s will, doing what we\'re asked or fulfilling the specific things that are said to us, maybe against our own will. Is a clear pathway to holiness, to a deeper humility, a deeper effectiveness. And so this is the meaning of Christian obedience. which is what is owed to to God and to his commandments. That which we owe to the church, our parents, and other areas of professional and social life.
+
+To obey as our Lord obeyed, it\'s necessary to have an ardent desire to fulfill the will of God, and to be humble. To recognize our relationship and where we stand in it. A soul dominated by pride gives no space for the spirit of obedience. Only a soul possessed by the virtue of humility can joyfully accept the criteria that may not jive with his own criteria, especially those coming from God, to which we must conform our actions and our attitudes.
+
+A person who\'s not humble will openly refuse to obey some commands, while appearing to accept others. Though without really in the latter instance making room for them in his heart. He will submit them to critical debate and impose restrictions accordingly. And in this way, he will lose sight altogether of the supernatural meaning of obedience.
+
+And so we need to be forewarned. We will always tend to be self-centered. And that temptation can occur in many ways. God wants us to show our faith when we obey. He doesn\'t express his will with drums and trumpets. He wants us to discern his will in the simple things that may come to us.
+
+In Christ is Passing By (point 97), we are told sometimes he suggests his wishes in a whisper deep in our conscience. And we must listen carefully to recognize his voice and be faithful. He often speaks to us through other people. But when we see their defects or doubt whether they\'re well informed, whether they\'ve grasped all the aspects of the problem, we can feel inclined to disobey. But our desire to fulfill the will of God will overcome this and other obstacles that oppose themselves to our obedience.
+
+Humility, says St. Gregory, gives us peace and joy in carrying out a command in all its details. Humility leaves us free to obey happily. So long as we yield humbly to the voice of another, we overcome ourselves in our hearts, he says. We overcome our own selfishness. and break into enslaving bonds.
+
+So in apostolate, obedience is indispensable. All the effort, the human means, the mortifications we push into it is otherwise worthless. In God\'s eyes, it will all be useless without obedience. A whole life energetically dedicated to human tasks could be fruitless if we did not count on God\'s help. Even our most resounding successes will be ultimately valueless if we lack in their execution the desire to accomplish God\'s will. As St. John Chrysostom says, \"God does not need our deeds, but our obedience.\"
+
+Carrying out the will of God when it hurts, when maybe our heart is breaking, or whatever asked to do becomes apparently thankless or difficult. This can bring great spiritual benefit.
+
+God\'s will is also shown in those things that he allows to happen, that do not turn out as we had hoped. Death of a loved one, the passing of a child, a broken heart. Those things can often be even directly opposed to our wishes, or even apparently at variance with what we have prayed for, perhaps fervently and perseveringly.
+
+Then is the time to redouble our prayers and fix our eyes more steadily on Jesus Christ. It\'s a divine call to come a little closer. "Come to me, all you who labor and are heavy burdened, and I will give you rest" (Matt. 11:28). Come to me, all you who have broken hearts. Enter into my wounds. Enter into my heart to find your consolation, your joy, your peace, in unity with my sacred heart.
+
+This is especially true when events can make life unusually hard, with misfortunes come, personal illness, material setback or disaster, sufferings of those who are dear to us. It\'s a moment to unite our prayer to that of our Lord. Not what I want, Lord, but what you want. Not my will, but yours be done (Luke 22:42). This is your will, well then it\'s my will also. That humble acceptance of God\'s will is perhaps what our Lord is asking for us in that particular moment.
+
+Our Lord maybe wants to share with us at times all the sorrow that comes from injustice and lack of understanding. From those broken hearts. But he\'s also taught us to obey unto death, even death on a cross (cf. Phil. 2:8). If we\'re sometimes made to suffer greatly, God will not be offended by our tears. Because we have to try and say, Lord, your will be done. *Fiat voluntas tua*.
+
+There can be moments in life when the heavy blows may fall upon us, accompanied perhaps by darkness and deeply felt anguish and grief. When God\'s will is so difficult to accept that we are tempted to discouragement. But the sight of our Lord in the Garden of Gethsemane can show us how to react. We have to embrace God\'s will unconditionally and without limits of any kind, while we persevere in prayer.
+
+That line from St. Thomas More, when he sees the persecution that is coming upon him for standing up to Henry VIII, \"This is not the stuff of which saints of which martyrs are made.\" All of us could utter those similar words if we see a hurricane coming. But the get the goodness of his witness and the fruitfulness of his witness has lasted down through the centuries. It may be that God has chosen us to give that type of witness in our marriage, in our family, in our workplace, in our profession, in our society.
+
+Throughout life, we are told in The Way (point 762), there will often be times when we will necessarily have to act in complete conformity with the will of God our Father. It\'s precisely then in our personal prayer that we would say within ourselves, is it what you want, Lord? Then it\'s what I want too. And then there will come peace and tranquility to our soul and to our surroundings.
+
+Faith will make us see a higher wisdom behind the screen of each occurrence. Often behind what we see as human tragedies, volcanoes, airplane crashes, tsunamis, there can be great spiritual messages. God may be teaching us about the fleeting nature of this life. How everything is passing. He may be giving us great spiritual lessons that will last a lifetime for ourselves and for everybody around us.
+
+As said Alvaro del Portillo like to say, God knows better. We men have little understanding of how his fatherly and gentle care leads us towards him. Christ will relieve us of all our burdens and they will be made holy. He will truly give us that rest that we desire in his broken heart.
+
+There\'s a providence behind every happening. Whether we see it or not, everything is arranged and disposed to serve for the salvation of everyone in the best possible way. There may be no such thing as coincidences, just God\'s hand at work.\
+\
+So absolutely everything, whether it occurs in the general course of the world\'s events, like the decree of Caesar Augustus, or in the little everyday universe of our job, our occupation, or family. Everything that happens can and ought to help us to encounter God. And thus find peace and serenity of soul.
+
+So St. Paul says, \"In everything, God works for the good for those who love him\" (Rom. 8:28). St. John Chrysostom says, \"The accomplishment of God\'s will is the true source of tranquility and peace.\"
+
+The saints have left us an example of an unconditional fulfillment of the divine will. On each occasion, I say, Lord, your will be done. It\'s not what this or that one wants, but what you want me to do. This is my fortress. This is my firm rock. This is my sure support. This is the rock on which I want my whole spiritual life to be built, and that\'s of my family, of my marriage, of my work and everything I do.
+
+In one of the prayers of the liturgy, it says, \"Oh God, when the angel brought your message, the sinless virgin received into herself your divine word. She was filled with the light of the Holy Spirit, and became the home of God. Grant that like her, we may steadfastly obey your will.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, St. Joseph, my father and Lord, my guardian angel, intercede for me.*\
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*\
+\
+*EW*
