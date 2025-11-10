@@ -1,0 +1,292 @@
+---
+layout: homily
+title: "Hell, Purgatory, Heaven"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+In 2001, Cardinal Joseph Ratzinger was giving a homily in the cathedral in Paris, and he was talking about hell.
+
+He defined hell as "the absence of God" and pointed to the horrors of the past century as manifestations of that absence. He talked about places like Auschwitz, Gulag Archipelago, names like Hitler, Stalin, Pol Pot, in recalling all the horrors of the 20th century.
+
+He said, "Where God is absent, hell appears; and hell simply continues while God is absent."
+
+He said, "One can arrive at hell through more subtle ways, almost always saying that one desires the good of men.
+
+"When, as today, there is a market in human organs, when fetuses are produced to make spare organs available or to make progress in research and preventive medicine, many regard the human content of these practices as implicit.
+
+"But the contempt for man that underlies it, when man is used and abused, leads---like it or not---to a descent into hell" (Joseph Ratzinger, *Address*, April 8, 2001).
+
+He pointed out that Christians\' response to this situation is both "simple and enormous: to witness to God, to open windows wide, and to ensure that His light will shine among us so that we can leave room for His presence. We turn things around. Heaven is where God is. Life is illuminated, despite the miseries of our existence" (*Ibid*.).
+
+Both Scripture and the *Catechism of the Catholic Church* are also very clear on the existence of hell.
+
+"Then he will say to those on his left hand, 'Depart from me, O cursed ones, to the eternal fire prepared for the devil and his angels. For I was hungry, and you never gave me food. I was thirsty, and you never gave me anything to drink. I was a stranger, and you never made me welcome. Lacking clothes, and you never clothed me. Sick and in prison, and you never visited me.'
+
+"Then it will be their turn to ask, 'Lord, when did we see you hungry or thirsty, or a stranger, or lacking clothes?'"
+
+People in hell may be surprised to find themselves in hell.
+
+"He says, 'In truth, I tell you, in so far as you neglected to do this to one of these, the least of my brethren, you neglected to do it to me'" (Matt. 25:41-46).
+
+Our Lord identifies with each human person that we have to treat well.
+
+Hell, we know, is a place of pain. The Church says that first and foremost the pain is the pain of loss (*Catholic Encyclopedia*).
+
+That for which we have been created is denied us. It\'s a state of eternal frustration.
+
+If you have to look for your glasses some time, or for your keys, or something that you\'ve lost and you can\'t find it, that frustration, that sense of loss, multiplied into eternity---that\'s what the eternal pain of hell is.
+
+Hell is worth avoiding. There is also the sense pain of hell, the pain of the fire.
+
+There was a priest who was going out to say a Mass in Kansas City one time and the parish priest was coming in off the altar. There was a big heat wave at the time.
+
+The parish priest suggested to the young priest perhaps not to give any homily because it was too hot. People were very uncomfortable.
+
+But the young priest had prepared his homily and so he pleaded with the parish priest who said, "Okay, but just keep it very short." He went out, he started the Mass, and he reached the homily.
+
+He said, "In the name of the Father, and of the Son, and of the Holy Spirit."
+
+He said, "I expect you\'re all very uncomfortable in this tremendous heat." Heads were nodding all the way down through the church. People shifted uncomfortably in their chairs and were fanning themselves.
+
+He said, "Just make sure you don\'t go to hell. In the name of the Father, and of the Son, and of the Holy Spirit." That was the end of his homily.
+
+I was going out to say Mass early one morning in the 1980s, a Sunday morning in Manila.
+
+I didn\'t know that there was a marathon on. It was the time when marathons were beginning. I had to cross the main street of the city and that\'s where the marathon was passing.
+
+I got stopped and I was ten minutes late for my Mass, but I got a bird\'s eye view of all the runners. All forms of human life were there.
+
+There were some people who were running very well, some people running not so well, and some people looked as though they should have stopped running in marathons twenty years previously.
+
+You could roughly divide them into three different groups:
+
+Those who had entered the race as a bit of a joke. They got a pain in their side very quickly. They hadn\'t done any training. So they dropped out very soon.
+
+Those who had done some training but hadn\'t pushed themselves. They also developed a pain in their side. But because they had done some training, they were able to keep going. Those were the ones with looks of agony on their faces.
+
+The third group of runners were those who had trained well. They were running in the center of the road. They were very composed. They knew the course. They\'d gone over it previously.
+
+They knew where to turn left, where to turn right. They knew how to conserve their energy for the hills. They were coasting along very comfortably. These were the people who were going to win the race.
+
+These three types of runners roughly correspond to those who go to hell, those who go to purgatory, and those who go to heaven.
+
+Those who go to hell are those who have not taken the race seriously---haven\'t made any preparation, haven\'t used their time well nor used their talents.
+
+Those who go to purgatory are those who\'ve made some sort of an effort, but perhaps haven\'t done as well as they might have.
+
+And those who go to heaven are those who are running smoothly in the center of the road. These are the ones who are going to coast home and win the race. They run like a champion.
+
+God wants each one of us to be that third type of runner, but also, to be interested in those around us in the race.
+
+He wants us to have enough air in hand to be able to run beside those that may be a bit slower, and help them over the finishing line.
+
+In *The Way*, St. Josemaría says, "There is a hell. ... Echo it for me...in the ear of one friend, and of another, and of another" (Josemaría Escrivá, *The Way*, Point 749).
+
+There may be people around us who are on their way to hell, and possibly God has placed us beside them to whisper some things into their ear; maybe, to allow them to put their life right---to get to Confession, to do a retreat, to put their temporal and spiritual affairs in order---so that we keep many people out of hell.
+
+A very good prayer to pray every day is the *Prayer to St. Michael*, asking that he might keep the devil far away from us, that we might be protected "against the wickedness and snares of the devil."
+
+The Church teaches and has always taught that for one mortal sin, we can go to hell for all eternity. It\'s very important to have a real hatred for mortal sin. Anything, rather than committing a sin.
+
+And therefore, the importance of getting back to Confession frequently, of living in the state of grace, of getting out all the bad things that may be there inside us.
+
+In hell, we are denied the vision of God forever---a great sense of loss. The human heart, which is made to love, is condemned to the loneliness of its own egoism.
+
+Full of hatred for God. Full of hatred for man. Condemned not to love, and to the bitter company of the devil and all condemned men.
+
+We don\'t really know what eternity means. We are born in time and so we have no sense of eternity. That eternal nature of the pain is something we can\'t quite grasp.
+
+We could try to make up to Our Lord for all the sins of men. At that moment in the Mass when we say, "Lord, have mercy, Christ, have mercy, Lord, have mercy" we could think of all the ways in which God is offended.
+
+All the dishonesty. All the drunkenness. The drugs, the abortions, the contraception, euthanasia, physical injuries. So many things to say sorry to God for.
+
+And also, to make a resolution to lead a better life; to change today; to get ourselves more on the motor to heaven.
+
+In purgatory, there is also the pain of loss. But it\'s not eternal, it\'s temporal.
+
+St. Thomas Aquinas says, "The least pains of purgatory are greater than the greatest pains on earth" (Thomas Aquinas, *Summa Theologiae*, Supplement, Question 2).
+
+Purgatory is a place that\'s worth avoiding. We shouldn\'t just think, 'If I get to purgatory, I\'ll be okay.' There\'s a lot of wisdom in avoiding purgatory.
+
+We have to put our face towards heaven and use the sufferings of this world, the contradictions that challenge us, to make atonement to God for the sins we have committed, and for the sins of all men.
+
+We can do our purgatory here on earth by offering Our Lord the times of purification, by weaving our wedding garments, by cleansing ourselves from the stains of venial sin.
+
+When we commit a mortal sin, we merit eternal blame and eternal punishment.
+
+When we commit a venial sin, we merit temporal blame and temporal punishment.
+
+When we go to Confession of a mortal sin, the eternal blame is forgiven, and some of the eternal punishment is converted into temporal punishment.
+
+When we go to Confession of a venial sin, the temporal blame is forgiven, and some of the temporal punishment is removed.
+
+At the end of our life, we always have some amount of temporal punishment for which we have to satisfy. That\'s what purgatory is all about: to put on our wedding garments so that we can enter into heaven; to be prepared for that, in the right way.
+
+But if we offer the little sufferings of this life, that can help to satisfy that temporal punishment which is due for sins that have been forgiven. All this can lead us to have a certain urgency of Confession, urgency in our apostolate of Confession.
+
+We can\'t allow people around us to live in sin. We have to help them to face the truth of their situation. And often the greatest charity is to confront people with the truth, because we want them to go to heaven.
+
+In the Eucharistic Prayer I we say in the Mass, we say, "Save us from final damnation." Interesting words.
+
+Hell is an inconvenient truth for a materialistic world. The *Catechism* says it\'s a state of self-condemnation (cf. *Catechism of the Catholic Church*, Point 1033).
+
+God does not condemn us to hell. We condemn ourselves to hell. God wants us to be saved It's a mystery; impossible to grasp its complexity.
+
+It's the result of the non-acceptance by man of the offer of salvation by God. It's the rejection of everything that Christ means for man.
+
+Often, we need to look to certain virtues, which could be the means that the devil uses to bring us down: problems of faith, problems of purity and chastity, problems of being faithful to our Christian vocation in the various ways that God wants us to live it.
+
+Problems come when we only trust ourselves.
+
+We should want ardently to save our souls, so that nothing gets in the way of that.
+
+We\'re told in *The Forge*, "Certainly you can go to hell. You are convinced it could happen, for in your heart you find the seeds of all kinds of evil.
+
+"But if you become a child in front of God, that fact will bring you close to your Father God, and to your Mother, Holy Mary. And St. Joseph and your Angel will not leave you unprotected when they see you are a child.
+
+"---Have faith. Do as much as you can. Be penitent, and be Loving! They will supply whatever else you need" (J. Escrivá, *The Forge*, Point 598).
+
+When all this is possible, God wants us to go to heaven.
+
+"I have told you this," He says in St. John, "so that my own joy may be in you and your joy may be complete" (John 15:11).
+
+"Blessed be the God and Father of Our Lord Jesus Christ, who in his great mercy has given us a new birth into a living hope through the resurrection of Jesus Christ from the dead" (1 Pet. 1:3).
+
+We live lives of hope. We look forward to heaven.
+
+"Eye has not seen, nor ear heard, nor has it entered into the heart of man the things that God has prepared for those who love Him" (1 Cor. 2:9). These are very beautiful phrases that Our Lord gives us.
+
+It\'s very salutary to dream of heaven sometime, to realize that\'s where we\'re headed, what it\'s all about. "As the deer longs for running waters, so my soul thirsts for you, my God" (Ps. 42:1).
+
+"Father, I want those that you have given me," said Our Lord, "to be with me where I am, so that they may always see my glory, which you have given me because you loved me before the foundation of the world" (John 17:24).
+
+Fulton Sheen tells a story of how he was going to give a talk in Philadelphia sometime, in the town hall there. And he lost his way.
+
+He asked a couple of kids in the street, "What is the way to the town hall?" These were typical gum-chewing, brash American kids. One of them looked up at him and said, "What do you want to go there for?" He said, "I\'m going to give a lecture."
+
+They asked, "What about?" The lecturer was on some lofty, eschatological topics, but he didn\'t want to complicate the lives of the kids too much.
+
+He said, "It\'s a lecture about heaven and how to get there."
+
+This kid said, "How are you going to give a lecture about heaven and how to get there if you don\'t even know the way to the town hall?"
+
+We need to know the way to get to heaven. We need to foster the virtue of hope in all sorts of moments.
+
+Hope is the virtue that keeps us looking up, especially in situations of difficulty which otherwise could lead to sadness, lead to joy.
+
+We hope in heaven, we hope in God. We don\'t hope in our own personal power or efforts or abilities, because we\'re little children.
+
+It\'s a virtue that can give us a lot of peace and serenity. It leads us to love where we\'ve been placed---in this marriage, in this family, with these kids, with this job, with these health or financial problems.
+
+This is where God wants me to earn my eternal reward. This is where He\'s placed me.
+
+This virtue is the opposite of discouragement or despair.
+
+We\'re told in the *Furrow*, "Optimism? Yes, always! Even when things seem to turn out badly, because that\'s the time to break into a song, with a *Gloria*, because you\'ve sought refuge in Him, and nothing but good can come to you from Him" (J. Escrivá, *Furrow*, Point 90).
+
+Hope gives to our soul a permanent youthfulness because it keeps us looking up. We don\'t lose our enthusiasm for the world, and the reason for our hope is Christ.
+
+"He has risen as he promised, Alleluia!" (cf. Matt. 28:6). Because He has risen, He\'s conquered death, He\'s conquered the devil, He\'s conquered sin. He\'s opened the gates of heaven.
+
+He said to us in Psalm 2, "You are my child. This day I have begotten you" (Ps. 2:7).
+
+Our Father God is worthy of all hope, because He\'s omnipotent. He can do all things. He can bring us to heaven in the way that He wants.
+
+On many occasions, He encouraged us to have a great hope. "Ask, and it shall be given to you; seek, and you will find; knock, and it shall be opened" (Matt. 7:7).
+
+"Whatever you ask in my name I will do, so that my Father may be glorified in the Son" (John 14:13).
+
+Our capacity to achieve anything in the supernatural order is the profound reason for the Christian virtue of hope.
+
+We can\'t get to heaven on our own. There's no bus or *matatu* or flight that's leaving for heaven. Our Lord is the One that has to take us up.
+
+We can have a lot of faith in the means that God has given us to get there: the sacraments, our interior life, our apostolate, reaching out to other people. We\'re told that none of us will go to heaven alone (cf. Deut. 31:6).
+
+The virtue of hope helps us to maintain our serenity and optimism in the face of the difficulties that can lie in our path towards the achievement of those ideals that Christ has placed in our hearts.
+
+It makes us persevere with enthusiasm, without becoming discouraged, because we see that all things, even the difficulties, are "for the good of those who love God" (Rom. 8:28).
+
+This virtue helps us to see the earthly realities that we encounter each day as the means, and not the end---good things such as success, money, movies, sport.
+
+It leads us to give ourselves daringly in the marvelous task of the transformation of the world which the Holy Father is laying out before us.
+
+It\'s a virtue that leads us to look for and "discover something...divine hidden in the ordinary work of each day" (J. Escrivá,*Conversations*, Point 114), where Our Father God is waiting for us.
+
+It\'s a fundamental virtue of people who are trying to sanctify themselves in the middle of the world.
+
+It brings them to passionately love the ordinary situation in which they live. It\'s to transform it to a situation pleasing to God, in which they can find Our Lord. This is my pathway to heaven.
+
+St. Catherine of Siena said, "For those who believe that Jesus Christ is Lord, to the glory of God the Father, then all the way home to heaven is heaven now" (cf. St. Catherine of Siena, *The Dialogue*).
+
+This virtue can help us to have a greater desire for heaven, for holiness, and to communicate that to other people. And also, to trust, to trust in Christ's promises, relying not on our own strength but on the help of grace.
+
+It\'s a virtue that helps us to struggle serenely. It translates into a willingness to begin and begin again, as often as necessary, in spite of our miseries, because in spite of those sins, Christ continues to seek us out.
+
+We shouldn\'t think that persevering in our Christian vocation implies never making mistakes.
+
+Instead, it means starting over after some failure---seeking our strength in Him or rejecting discouragement when we\'re faced with difficulties and temptations.
+
+It leads us to function on reason enlightened by faith, not on our feelings.
+
+At the turn of the new millennium, John Paul II wrote a book that was very aptly termed, *Crossing the Threshold of Hope*.
+
+The Church has come to bring hope into people\'s lives, to show them the pathway to heaven. This is what it\'s all about.
+
+It\'s come to light candles in people\'s lives, so they don\'t curse the darkness. We can hope in the holiness of each moment, grasp each moment for God, try to see His will.
+
+"Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but he who does the will of my Father in heaven" (Matt. 7:21).
+
+Heaven, we\'re told, consists of an essential bliss and an accidental bliss.
+
+An essential bliss for why we enjoy the company of God forever: infinite goodness, infinite beauty, infinite love. Our heart is totally at home. "Our hearts are restless, Lord, until they rest in you."
+
+Somebody said once that God has taken a piece of our heart and kept it for Himself in heaven. We only get it back when we go there. That\'s why "our hearts are restless until they rest in you" (St. Augustine, *Confessions*).
+
+Pope St. John Paul II says there is a chasm in the human heart, and that can only be filled by God.
+
+The essential bliss is the possession of God, that for which our heart yearns forever. The accidental bliss is all the other ancillary blisses: the company of our loved ones, of friends, of all the things we dreamt about in life.
+
+In *The Way,* we\'re told, "What does it matter if we suffer for ten, twenty, thirty years...if afterwards there is heaven for ever, for ever\...for ever?" (J. Escrivá, *The Way*, Point 182).
+
+Pope St. John Paul liked to say that we\'re all called to the eternal wedding feast. Marriage in this world is a preparation for that eternal wedding feast.
+
+People who live celibate lives give witness to the fact that the real marriage comes later. They skip the historical reality in this world.
+
+Therefore, it's very important that we understand what love is, or get some sort of a grasp of it. We can\'t fully understand divine love, but we can see aspects of it; and also, human love, the truth about human love, which can lead us to heaven.
+
+That\'s why the devil has wanted to mess that up olympically for all young people.
+
+We\'re told in *The Forge*, "In heaven,...a great Love awaits you, with no betrayals and no deceptions. The fullness of love, the fullness of beauty and greatness and knowledge." And it will satisfy us, "yet still we want more" (J. Escrivá, *The Forge*, Point 995).
+
+In heaven, we rejoice in the company of Our Lady, in meeting her, in meeting St. Joseph, in meeting the angels. Also, those that we\'ve loved in a special way on earth; people to whom we especially owe our salvation.
+
+It will be a place of great joy. Also, joy at the arrival of new souls in heaven, looking down and seeing the spiritual progress of our loved ones on earth and the fruit of our own apostolic work that has grown over time, the supernatural fruitfulness of the setbacks we may have suffered in serving the Lord of the harvest.
+
+The only way to heaven is through Jesus: "I am the way, the truth, and the life. No one can come to the Father except through me" (John 14:6).
+
+But there are many ways of getting to heaven through Jesus. Lord, show me those ways. Help me to stay close to Our Lady, the Gate of Heaven, the Queen of Heaven.
+
+If we stay close to Our Lady, she\'ll come, she\'ll help us to get to heaven faster and better, and to be sure of the eternal reward, which we know we\'re waiting for.
+
+We\'re told in *The Forge*, "Talk with Our Lady and tell her trustingly, O Mary, in order to live the ideal which God has set in my heart, I need to fly very high---ever so high.
+
+"It is not sufficient to detach yourself, with God\'s help, from the things of this world, recognizing them as merest clay. More is needed: even if you were to put the whole universe in a pile under your feet to get closer to heaven...it wouldn\'t suffice!
+
+"You have to fly, without the support of anything here on earth, relying on the voice and the inspiration of the Spirit. And you will tell me: But my wings are stained and smeared with the clean mud of many years.
+
+"And I repeat: Turn to Our Lady. Mary, you should say to her again, I can hardly get off the ground. The earth draws me like an accursed magnet.
+
+"Mary, you can make my soul take off on that glorious and definitive flight, which has as its destination the very Heart of God. ---Trust in her, for she is listening to you" (J. Escrivá, *The Forge*, Point 994).
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*JOSH*
