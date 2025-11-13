@@ -13,9 +13,9 @@ By Fr. Conor Donnelly
 
 **"**He who abides in me, and I in him, he it is that bears much fruit, for apart from me you can do nothing" (John 15:5).
 
-God allows good fruit to come from a sound tree, and He often insists on the danger of false prophets who will lead many to spiritual ruin (*cf*. Matt. 24:11, Mark 13:22).
+God allows good fruit to come from a sound tree, and He often insists on the danger of false prophets who will lead many to spiritual ruin (*cf*. Matt. 24:11, Mark 13:22, John 10:12).
 
-In the Old Testament, there are many references to bad shepherds who wreak havoc on the People of God. The prophet Jeremiah denounces the impiety of those who "prophesied by Baal and led my people Israel astray...they speak visions of their own minds, not from the mouth of the Lord...lead my people astray with their lies and their recklessness, when I did not send them or charge them; so they do not profit these people at all (*cf*. Jer. 23:9-40).
+In the Old Testament, there are many references to bad shepherds who wreak havoc on the People of God. The prophet Jeremiah denounces the impiety of those who "prophesied by Baal and led my people Israel astray...they speak visions of their own minds, not from the mouth of the Lord...lead my people astray with their lies and their recklessness, when I did not send them or charge them; so they do not profit these people at all" (*cf*. Jer. 23:9-40).
 
 Such unreliable guides soon made their appearance in the bosom of the Church.
 
@@ -23,13 +23,13 @@ St. Paul calls them "false brothers" and "false apostles" (Gal. 2:4, 2 Cor. 11:2
 
 In each era, there are undoubtedly many teachers of error. They have sown bad seed abundantly and have been the cause of confusion and ruin of many souls.
 
-In the Gospel of St. Matthew, Our Lord warns us to "beware of false prophets, who come to you in sheep\'s clothing but inwardly are ravenous wolves" (Matt. 7:15).
+In the Gospel of St. Matthew, Our Lord warns us to "beware of false prophets, who come to you in sheep's clothing but inwardly are ravenous wolves" (Matt. 7:15).
 
-We\'re told to beware of the wolves that come in sheep\'s clothing. But Scripture doesn\'t tell us who are the wolves and who are the sheep.
+We're told to beware of the wolves that come in sheep's clothing. But Scripture doesn't tell us who are the wolves and who are the sheep.
 
-That\'s one of the reasons why we need the Magisterium of the Church---the teaching power of the Church---guided by the Holy Spirit, to point out the right path to us.
+That's one of the reasons why we need the Magisterium of the Church---the teaching power of the Church---guided by the Holy Spirit, to point out the right path to us.
 
-That\'s one of the reasons why it\'s a very good idea to read the documents of the Church as they come out---the encyclicals of the Holy Father, the apostolic dissertations. There is a great abundance of truth, love, and beauty in those documents, and also good seed that can produce good fruits in our lives.
+That's one of the reasons why it's a very good idea to read the documents of the Church as they come out---the encyclicals of the Holy Father, the apostolic dissertations. There is a great abundance of truth, love, and beauty in those documents, and also good seed that can produce good fruits in our lives.
 
 The ravenous wolves can inflict great harm on our souls, and people who go to them for light find darkness. They seek strength and instead find doubt and weakness. Our Lord points out that both the true and the false messengers of God will be known by their fruits.
 
@@ -37,37 +37,37 @@ The preachers of false reform and doctrine bring nothing but separation from the
 
 Our Lord says: "You will know them by their fruits. Are grapes gathered from thorns? Do figs come from thistles? So every sound tree bears good fruit, but the bad tree bears evil fruit. A sound tree cannot bear evil fruit, nor can a bad tree bear good fruit" (Matt. 7:16-18).
 
-Our Lord wants us to be prudent and on our guard against these lying teachers and deceitful doctrines. It\'s not always easy to detect them, because sometimes bad doctrine comes with the appearance of being good.
+Our Lord wants us to be prudent and on our guard against these lying teachers and deceitful doctrines. It's not always easy to detect them, because sometimes bad doctrine comes with the appearance of being good.
 
-That\'s one of the reasons why the *Catechism of the Catholic Church* is a wonderful book to have at hand, so we can check easily what is and what is not the teaching of the Church.
+That's one of the reasons why the *Catechism of the Catholic Church* is a wonderful book to have at hand, so we can check easily what is and what is not the teaching of the Church.
 
 The tree is sound when good sap flows through it. For the Christian, that is the life of Christ Himself---personal holiness---and nothing else can take its place. We should never separate ourselves from Him. "He who abides in me, and I in him, he it is that bears much fruit, for apart from me you can do nothing" (John 15:5).
 
-When we\'re close to Jesus, we become effective. We learn how to be joyful, to be understanding, to love. In short, we learn how to be good Christians.
+When we're close to Jesus, we become effective. We learn how to be joyful, to be understanding, to love. In short, we learn how to be good Christians.
 
-St. Teresa of Calcutta was asked once by a journalist: Did she really think that her efforts with the poor in Calcutta were going to solve the problem of poverty in India? And her response was, "I\'m not called to be successful; I\'m just called to be faithful."
+St. Teresa of Calcutta was asked once by a journalist: Did she really think that her efforts with the poor in Calcutta were going to solve the problem of poverty in India? And her response was, "I'm not called to be successful; I'm just called to be faithful" (*Interview* with U.S. Senator Mark Hatfield, 1974).
 
 Each of us is just called to be faithful---to do the particular thing that God has asked us to do; to be in this particular place, this marriage, this family, this job, this particular apostolate.
 
-Our Lord will bring the fruits. He will take care of that. When we are united to the vine, the fruits come. We can learn, therefore, how to be joyful, to be understanding, and to love; to learn how to be good Christians, even when we don\'t see the fruits.
+Our Lord will bring the fruits. He will take care of that. When we are united to the vine, the fruits come. We can learn, therefore, how to be joyful, to be understanding, and to love; to learn how to be good Christians, even when we don't see the fruits.
 
 The life of union with Christ necessarily transcends the limited sphere of the individual---and this to the benefit of others. This is the source of apostolic fruitfulness: "the apostolate, of whatever kind it may be, must be the overflow of the interior life" (St. Josemaría, *Friends* *of God,* Point 239), of a life-giving union with Our Lord.
 
-"This life of intimate union with Christ in the Church is maintained by the spiritual helps common to all the faithful, particularly obtained by active participation in the liturgy" (Vatican II, *Apostolicam actuositatem*, November 18, 1965, Point 4).
+In the decree of the Second Vatican Council, *Apostolicam actuositatem*, it says, "This life of intimate union with Christ in the Church is maintained by the spiritual helps common to all the faithful, particularly obtained by active participation in the liturgy.
 
-In the decree of the Second Vatican Council, *Apostolicam actuositatem* it says, "Laymen should make such use of these helps that, while meeting their human obligations in the ordinary conditions of life, they do not separate their union with Christ from their ordinary lives, but through the very carrying out of their everyday tasks, whose performance is God\'s will for them, actually promote the growth of their union with him."
+"Laymen should make such use of these helps that, while meeting their human obligations in the ordinary conditions of life, they do not separate their union with Christ from their ordinary lives, but through the very carrying out of their everyday tasks, whose performance is God's will for them, actually promote the growth of their union with him" (Vatican II, *Apostolicam actuositatem*, Point 4, November 18, 1965).
 
 Contact with Christ in Holy Communion, in the Mass (the true center of the Christian life), in personal prayer and mortification which permit this contact with God, will show itself in the specific way that we set about our daily work, in our dealings with others, whether they be believers or not, and in the way we carry out our civic and social duties.
 
 The sap is not seen, but the fruit certainly is. Christ should be seen in us in the way we behave, in our joy and serenity in the presence of sorrow and difficulties, in our readiness to forgive others.
 
-He will be seen in the demanding way we fulfill our duties and in our exemplary sobriety in making use of material goods; in our sincere gratitude for the help we\'re offered in the little things of daily life.
+He will be seen in the demanding way we fulfill our duties and in our exemplary sobriety in making use of material goods; in our sincere gratitude for the help we're offered in the little things of daily life.
 
 If we neglect this intimate union with God, our apostolic effectiveness will be reduced to nothing in the lives of the people we habitually come in contact with. The fruits will become bitter and unworthy of being laid before God.
 
-St. Pius X declares: "But among those who refuse or neglect 'to consider in their heart' (Jer. 12:11), there are some who do not conceal the consequent sterility of their souls, but excuse themselves, offering as a reason that they are given entirely to the cares of ministry, to the manifold advantage of others. He says they are deceived miserably. For, unaccustomed to speak with God, they lack the divine fire when they speak to men about him, or impart the principles of Christian living, so that the Gospel message seems to be lifeless in them (Pius X, Encyclical, *Haerent Animo*, August 4, 1908).
+St. Pius X declares: "But among those who refuse or neglect 'to consider in their heart' (Jer. 12:11), there are some who do not conceal the consequent sterility of their souls, but excuse themselves, offering as a reason that they are given entirely to the cares of ministry, to the manifold advantage of others. They are deceived miserably. For, unaccustomed to speak with God, they lack the divine fire when they speak to men about him, or impart the principles of Christian living, so that the Gospel message seems to be lifeless in them" (Pius X, Encyclical, *Haerent Animo*, August 4, 1908).
 
-At best then it\'s not unusual for their advice to be merely common sense, with no supernatural content to it. They give their own doctrines instead of the Gospel doctrine. If we neglect personal piety and real intimacy with God, we shall not perform the deeds God expects from every Christian.
+At best then it's not unusual for their advice to be merely common sense, with no supernatural content to it. They give their own doctrines instead of the Gospel doctrine. If we neglect personal piety and real intimacy with God, we shall not perform the deeds God expects from every Christian.
 
 "For out of the abundance of the heart, the mouth speaks" (Luke 6:45). If our heart is not in God, how can we hand down the words and the life that come from Him?
 
@@ -75,9 +75,9 @@ We could take a good look at our prayer. Do we have a set time for it? Are we pu
 
 We can also examine our efforts to preserve presence of God while walking along the street, or while at work and at home, and we can be definite about what needs putting right or improving in our life.
 
-We can ask Our Lord to help us to make such resolutions. It doesn\'t matter if it\'s small, but it should be definite.
+We can ask Our Lord to help us to make such resolutions. It doesn't matter if it's small, but it should be definite.
 
-Just as the man who excludes God from his life becomes a diseased tree that will yield bad fruit, so a society that wants to exclude God from its customs and laws causes countless evils and inflicts the most serious harm on its citizens. "A State from which religion is banished can never be well-regulated" (Pope Leo XIII, Encyclical, *Immortale Dei*, Point 32).
+Just as the man who excludes God from his life becomes a diseased tree that will yield bad fruit, so a society that wants to exclude God from its customs and laws causes countless evils and inflicts the most serious harm on its citizens. "A State from which religion is banished can never be well-regulated" (Pope Leo XIII, Encyclical, *Immortale Dei*, Point 32, November 1, 1885).
 
 In the system, a phenomenon of laicism appears, with the desire of supplanting the honor due to God.
 
@@ -85,7 +85,7 @@ A system of morality based on transcendent principles is replaced by merely huma
 
 God and the Church become purely "internal matters of conscience, and the Church and the Pope are subjected to aggressive attacks, either directly or indirectly, through persons or institutions unfaithful to the Magisterium.
 
-"Not infrequently as a result of laicism the individual citizen, the life of the family, and the commonwealth as a whole are all removed from the beneficent and wholesome influence of God and of his Church.
+"Not infrequently as a result of laicism the individual citizen, the life of the family, and of the commonwealth as a whole are all removed from the beneficent and wholesome influence of God and of his Church.
 
 "Then, day by day, the symbols and symptoms of those errors which corrupted the heathens of old declare themselves more plainly and more lamentably. And all this in parts of the world where the light of Christian civilization has shone for centuries (Pope Pius XII, *Summi Pontificatus*, October 20, 1939).
 
@@ -101,13 +101,13 @@ Jesus constantly urges us not to remain inactive, not to waste the slightest opp
 
 What can I do in my family, at school, at the university, in the office\...to make God more actively present there? We ask St. Joseph for fortitude of spirit in order to bring Christ into all these human realities.
 
-With faith, we see the example of his life, which gives us "a picture of Joseph as a remarkably sound man who was in no way fearful or frightened of life. On the contrary, he faced up to problems, dealt with difficult situations, and showed responsibility and initiative in whatever he was asked to do" (Josemaría Escrivá, *Christ is Passing By*, Point 40).
+With faith, we see the example of his life, which gives us "a picture of Joseph as a remarkably sound man who was in no way fearful or frightened of life. On the contrary, he faced up to problems, dealt with difficult situations, and showed responsibility and initiative in whatever he was asked to do" (Josemaría Escrivá, *Christ Is Passing By*, Point 40).
 
-With God\'s grace and the intercession of the Holy Patriarch we can make a constant effort to bear abundant fruit wherever God has placed us.
+With God's grace and the intercession of the Holy Patriarch we can make a constant effort to bear abundant fruit wherever God has placed us.
 
 When God created us, He made us brothers and sisters of one another. We were created with both familial and social needs.
 
-God also ordered the supernatural world in a complementary fashion. The Holy Trinity has a desire to save all men by means of human instruments.
+God also ordered the supernatural world in a complementary fashion. The Holy Trinity has desired to save all men by means of human instruments.
 
 The divine plan is accomplished when we carry out a lively personal apostolate in the middle of the world, in the course of our normal occupations---in the home, the barber shop, the hairdressing salon, the office, the bank, the parliament.
 
@@ -115,7 +115,7 @@ The divine plan is accomplished when we carry out a lively personal apostolate i
 
 "Such an individual form of apostolate can contribute greatly to a more extensive spreading of the Gospel. It can reach as many places as there are daily lives of individual members of the lay faithful.
 
-"The spread of the Gospel will be continual, since a person\'s life and faith will be one. Likewise, the spread of the Gospel will be particularly incisive, because in sharing fully in the unique conditions of the life, work, difficulties, and hopes of their brothers and sisters, the lay faithful will be able to reach the hearts of their neighbors, friends, and colleagues, opening them to a full sense of human existence, that is, to communion with God and with all people" (John Paul II, Apostolic Exhortation, *Christifideles* *Laici*, December 30, 1988, Point 28).
+"The spread of the Gospel will be continual, since a person's life and faith will be one. Likewise, the spread of the Gospel will be particularly incisive, because in sharing fully in the unique conditions of the life, work, difficulties, and hopes of their brothers and sisters, the lay faithful will be able to reach the hearts of their neighbors, friends, and colleagues, opening them to a full sense of human existence, that is, to communion with God and with all people" (John Paul II, Apostolic Exhortation, *Christifideles* *Laici*, Point 28, December 30, 1988).
 
 Each member of the body works for the good of the rest of the body. We should seek to keep alive the light of faith in others. This is the greatest good that we can offer.
 
@@ -133,27 +133,27 @@ Our persevering friendship with Our Lord will serve to fill our hearts with His 
 
 If certain problems are beyond our power to change, at least we can contribute the warmth of our friendship.
 
-We don\'t abandon the sick, the handicapped, the down-hearted, the overwhelmed. We join together with other Christians and people of good will for the sake of the common good. We have to put aside any causes of separation or conflict.
+We don't abandon the sick, the handicapped, the down-hearted, the overwhelmed. We join together with other Christians and people of good will for the sake of the common good. We have to put aside any causes of separation or conflict.
 
 In doing so, we imitate the first Christians. They astounded the pagan world with the testimony of their mutual love and solidarity. Even in the face of stark poverty, they practiced the New Commandment:
 
 "A new commandment I give to you, that you love one another; even as I have loved you, that you also love one another. By this all men will know that you are my disciples, if you have love for one another" (John 13:34-35). True love can overcome any obstacle.
 
-We are called to extend the Reign of Christ. Our Lord replied to Pilate\'s questioning: My kingship is not of this world (John 18:36).
+We are called to extend the Reign of Christ. Our Lord replied to Pilate's questioning: "My kingship is not of this world" (John 18:36).
 
 Later in the interview with the Roman procurator, Our Lord says: "I am a king. For this I was born\..." (John 18:37).
 
 Although the Reign of Christ is not of this world, it has its beginnings here. The Reign of Christ extends so far as there are men and women who know themselves to be children of God, who are nourished by Him, who live for Him.
 
-Christ is a King who has been given all power in Heaven and on earth, but He governs like one who is "gentle and lowly in heart"(*cf*. Matt. 11:29).
+Christ is a King who has been given all power in Heaven and on earth, but He governs like one who is "gentle and lowly in heart" (*cf*. Matt. 11:29).
 
 His rule is to serve others. "The Son of Man came not to be served but to serve, and to give His life as a ransom for many" (Matt. 20:28).
 
 His throne was a manger in Bethlehem and then was a Cross on Calvary. He is the "ruler of kings on earth" (Rev. 1:5) whose tribute is the proof of our faith and love.
 
-The first person to formally recognize Christ as king was a condemned criminal. He captured Our Lord\'s Heart with that humble request: "Remember me when you come into your kingdom" (Luke 23:42).
+The first person to formally recognize Christ as king was a condemned criminal. He captured Our Lord's Heart with that humble request: "Remember me when you come into your kingdom" (Luke 23:42).
 
-This man was able to grasp the real meaning of Christ\'s kingship, even though it was the object of merciless ridicule from the clamoring mob. His faith deepened as Christ\'s divinity became increasingly obscured.
+This man was able to grasp the real meaning of Christ's kingship, even though it was the object of merciless ridicule from the clamoring mob. His faith deepened as Christ's divinity became increasingly obscured.
 
 St. Ambrose says: "The Lord always grants us more than what we ask for. The thief merely asked to be remembered, but the Lord said: 'Truly, I say to you, today you will be with me in Paradise' (Luke 23:43). The essence of life is to live with Jesus Christ. And where Jesus Christ is, there is his Reign to be found" (St. Ambrose, *Commentary on St. Luke's Gospel*).
 
@@ -161,7 +161,7 @@ The Book of Jeremiah says, "For I know the plans I have for you, says the Lord, 
 
 We could resolve to make our hearts conform to the Will of God. We can ask Our Lord for His blessing on all our efforts to extend His kingdom through our apostolate of friendship and confidence.
 
-*"*This is the calling of Christians, that is our apostolic task, the desire which should consume our soul: to make this kingdom of Christ a reality, to eliminate hatred and cruelty, to spread throughout the earth the strong and soothing balm of love" (Josemaría Escrivá, *Christ is Passing By*, Point 183).
+St. Josemaría says in *Christ Is Passing By*, *"*This is the calling of Christians, that is our apostolic task, the desire which should consume our soul: to make this kingdom of Christ a reality, to eliminate hatred and cruelty, to spread throughout the earth the strong and soothing balm of love" (Josemaría Escrivá, *Christ Is Passing By*, Point 183).
 
 If we are to make these ideals into a reality, we need to turn once again to Our Lady. "Mary, the Holy Mother of Our King, the Queen of our heart, looks after us as only she knows how. Mother of mercy, throne of grace: we ask you to help us compose, verse by verse, the simple poem of charity in our own life and the lives of the people around us; it is 'like a river of peace' (Isa. 66:12), for you are a sea of inexhaustible mercy" (*ibid*., Point 187).
 
