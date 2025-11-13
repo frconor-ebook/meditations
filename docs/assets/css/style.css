@@ -106,7 +106,7 @@ header {
 
 nav {
   display: grid;
-  grid-template-columns: 1fr auto 1fr;
+  grid-template-columns: auto 1fr auto;
   align-items: center;
   width: 100%;
   padding: 0 20px;
@@ -114,20 +114,20 @@ nav {
   gap: 20px;
 }
 
-.nav-links {
-  display: flex;
-  gap: 60px;
+.logo {
   justify-self: start;
 }
 
-.logo {
-  justify-self: center;
-}
-
 .logo img {
-  height: 50px;
+  height: 45px;
   width: auto;
   vertical-align: middle;
+}
+
+.nav-links {
+  display: flex;
+  gap: 60px;
+  justify-self: center;
 }
 
 .theme-toggle {
@@ -241,16 +241,16 @@ main ul li a {
     gap: 10px;
   }
 
+  .logo img {
+    height: 38px;
+  }
+
   .nav-links {
     gap: 20px;
   }
 
   nav a {
     font-size: 1rem;
-  }
-
-  .logo img {
-    height: 40px;
   }
 
   main {
@@ -286,16 +286,16 @@ main ul li a {
     gap: 5px;
   }
 
+  .logo img {
+    height: 32px;
+  }
+
   .nav-links {
     gap: 15px;
   }
 
   nav a {
     font-size: 0.9rem;
-  }
-
-  .logo img {
-    height: 35px;
   }
 
   main {
