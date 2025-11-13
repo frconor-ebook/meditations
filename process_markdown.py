@@ -75,13 +75,24 @@ title: "{title}"
                     ]
                 )
 
+            # Get full content
+            full_content = "".join(
+                [line.rstrip("\r\n") for line in lines[title_line_index + 1 :]]
+            ).strip()
+
+            # Create excerpt (first 200 words of content)
+            words = full_content.split()
+            if len(words) > 200:
+                excerpt = " ".join(words[:200]) + "..."
+            else:
+                excerpt = full_content
+
             meditations.append(
                 {
                     "title": title,
                     "slug": slug,
-                    "content": "".join(
-                        [line.rstrip("\r\n") for line in lines[title_line_index + 1 :]]
-                    ).strip(),
+                    "content": full_content,
+                    "excerpt": excerpt,
                 }
             )
 
@@ -94,12 +105,34 @@ title: "{title}"
     )
 
     meditations.sort(key=lambda x: x["title"])
+
+    # Write full meditations.json (for backward compatibility)
     try:
         with open(meditations_json_path, "w") as f:
             json.dump(meditations, f, indent=2)
             print(f"Successfully created: {meditations_json_path}")
     except Exception as e:
         print(f"Error creating {meditations_json_path}: {e}")
+
+    # Create lightweight search index (title, slug, excerpt only)
+    search_index = [
+        {"title": m["title"], "slug": m["slug"], "excerpt": m["excerpt"]}
+        for m in meditations
+    ]
+    search_index_path = os.path.join(data_dir, "search_index.json")
+    try:
+        with open(search_index_path, "w") as f:
+            json.dump(search_index, f, indent=2)
+            print(f"Successfully created: {search_index_path}")
+
+            # Report file sizes for comparison
+            full_size = os.path.getsize(meditations_json_path) / (1024 * 1024)  # MB
+            search_size = os.path.getsize(search_index_path) / (1024 * 1024)  # MB
+            print(f"  Full index size: {full_size:.2f} MB")
+            print(f"  Search index size: {search_size:.2f} MB")
+            print(f"  Size reduction: {(1 - search_size/full_size) * 100:.1f}%")
+    except Exception as e:
+        print(f"Error creating {search_index_path}: {e}")
 
     print(f"Processed {len(meditations)} markdown files.")
 
