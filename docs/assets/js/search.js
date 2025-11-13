@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
   var searchBox = document.getElementById('search-box');
   var searchResults = document.getElementById('search-results');
   var meditations = [];
+  var isLoading = true;
 
   // Get baseurl from data attribute, with fallback to empty string
   var baseurl = document.body.dataset.baseurl || '';
@@ -11,9 +12,9 @@ document.addEventListener('DOMContentLoaded', function() {
     baseurl = baseurl.slice(0, -1);
   }
 
-  // Construct the fetch URL
-  var fetchUrl = baseurl + '/data/meditations.json';
-  console.log("Fetching data from:", fetchUrl);
+  // Construct the fetch URL (using lightweight search index)
+  var fetchUrl = baseurl + '/data/search_index.json';
+  console.log("Fetching search index from:", fetchUrl);
 
   fetch(fetchUrl)
     .then(response => {
@@ -30,10 +31,12 @@ document.addEventListener('DOMContentLoaded', function() {
     .then(data => {
       console.log("Fetched data:", data);
       meditations = data;
+      isLoading = false;
     })
     .catch(error => {
       console.error('Error fetching meditations data:', error);
       searchResults.innerHTML = '<p>Error loading meditations data. See console for details.</p>';
+      isLoading = false;
     });
 
   searchBox.addEventListener('input', function() {
@@ -45,10 +48,16 @@ document.addEventListener('DOMContentLoaded', function() {
       return; // Exit early
     }
 
-    // Filter meditations based on search term
+    // Show loading message if data is still loading
+    if (isLoading) {
+      searchResults.innerHTML = '<p style="color: #666; font-style: italic;">Loading search index...</p>';
+      return;
+    }
+
+    // Filter meditations based on search term (searches title and excerpt)
     var filteredMeditations = meditations.filter(function(meditation) {
       return meditation.title.toLowerCase().includes(searchTerm) ||
-             meditation.content.toLowerCase().includes(searchTerm);
+             meditation.excerpt.toLowerCase().includes(searchTerm);
     });
 
     displayResults(filteredMeditations);
