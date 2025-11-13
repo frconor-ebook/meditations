@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- FOUC Prevention: Apply theme before page renders -->
+    <script>
+        (function() {
+            const theme = localStorage.getItem('theme-preference') ||
+                (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', theme);
+        })();
+    </script>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
@@ -34,5 +43,6 @@
 
     {% include footer.html %}
     <script src="{{ site.baseurl }}/assets/js/search.js?v={{ site.time | date: '%s' }}"></script>
+    <script src="{{ site.baseurl }}/assets/js/theme-toggle.js"></script>
 </body>
 </html>
