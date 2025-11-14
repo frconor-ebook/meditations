@@ -37,15 +37,15 @@ The divine command to work was already in existence before our first parents sin
 
 But in itself work continues to be something which ennobles man and gives him still greater dignity.
 
-A famous philosopher priest in the Philippines, Father Joseph de Torre, used to say that the first phrase that children should be told from the Bible as soon as they begin to speak and understand is: "He who does not work, neither shall he eat" (2 Thess. 3:10). Children need to learn to work from an early age.
+A famous philosopher priest in the Philippines, Father Joseph de Torre, used to say that the first phrase that children should be told from the Bible as soon as they begin to speak and to understand is: "He who does not work, neither shall he eat" (2 Thess. 3:10). Children need to learn to work from an early age.
 
 One spiritual writer says, "Work is still a gift that God gives us, although it is also a task that has to be accomplished under difficult circumstances and conditions, in just the same way as the world continues to be God\'s world, although it is a world in which we are unable to perceive clearly God\'s voice" (Michael Schmaus, *Dogmatic Theology*).
 
 It gives man great dignity because it is a participation in the creative power and activity of God, even though now, after original sin, "it is accompanied by hardship and suffering, by fruitfulness and weariness" (*ibid*.).
 
-One of the encyclicals of St. John Paul II is called Exercising Work, *Laborem Exercens*. In it, he said, "Work is a blessing, something good, something that is in keeping with man\'s dignity and increases it."
+Work is a blessing, something good, something that is in keeping with man\'s dignity and increases it.
 
-He said, "The Church finds in the very first pages of the Book of Genesis the source of her conviction that work is a fundamental dimension of human existence on earth."
+One of the encyclicals of St. John Paul II is called Exercising Work, *Laborem Exercens*. In it, he said, "The Church finds in the very first pages of the Book of Genesis the source of her conviction that work is a fundamental dimension of human existence on earth" (John Paul II, Encyclical, *Laborem Exercens*, Point 4, September 14, 1981).
 
 It\'s very good for people to have work; it's very good for each human person to work.
 
@@ -59,7 +59,7 @@ That is true whether a person\'s professional work is a garbage collector, or a 
 
 All types of work can be done well and offered to God and be a means of holiness. We know from experience that all types of work, including children\'s homework, bring about a certain tiredness and stress. It can be offered to God in atonement for our offenses and for the offenses of other human beings.
 
-Cardinal Wyszyński of Poland, now deceased, very famous for many decades, imprisoned for decades by the communist government there, said the humble acceptance of that exertion, which cannot be eliminated, however well organized our work may be, means that we can play our part in the purification of our intellect, of our will, and of our senses.
+Cardinal Wyszyński of Poland, now deceased, very famous for many decades, imprisoned for decades by the communist government there, said the humble acceptance of that exertion, which cannot be eliminated, however well organized our work may be, means that we can play our part in the purification of our intellect, of our will, and of our senses (*cf*. Stefan Wyszyński, *Work*).
 
 We could examine our conscience and see if at times we complain about our work---in the office, in the workshop, about the house, or when we study.
 
@@ -69,13 +69,13 @@ We should consider in the presence of God whether we offer, for ends that are no
 
 We could check whether in those less attractive aspects that belong to any type of work, we discover that opportunity for offering up the Christian mortification that purifies us, and which we can offer up for others.
 
-Work is a talent that man receives to make it produce fruit. In *Christ Is Passing By,* St. Josemaría says, *"*Work bears witness to the dignity of man, to his dominion over creation. It provides an opportunity to develop one\'s personality. It is a bond of solidarity with other men, and it is the way to support one\'s family. It is a means of contributing to the improvement of the society in which we live and in aiding the progress of all humanity."
+Work is a talent that man receives to make it produce fruit. In *Christ Is Passing By,* St. Josemaría says, *"*Work bears witness to the dignity of man, to his dominion over creation. It provides an opportunity to develop one\'s personality. It is a bond of solidarity with other men, and it is the way to support one\'s family. It is a means of contributing to the improvement of the society in which we live and in aiding the progress of all humanity" (J. Escrivá, *Christ Is Passing By*, Point 47).
 
-For a Christian, work that is well done is the means of our entering into a personal encounter with Jesus Christ as well as being a way of enabling all the realities of this world to be shaped by the spirit of the Gospel.
+For a Christian, work which is well done is the means of our entering into a personal encounter with Jesus Christ as well as being a way of enabling all the realities of this world to be shaped by the spirit of the Gospel.
 
 If the role of the ordinary layman in the middle of the world is to sanctify the temporal realities, it\'s clear that our professional work has a very important role to play.
 
-St. John Paul II says that "man can be more a man" through work; so that work may become a means, an opportunity for any person to love Christ and bring others to know Him, it\'s necessary that a whole series of human conditions be fulfilled---diligence, constancy, punctuality\...professional prestige, and competence.
+St. John Paul II says that "man can be more a man" *(Laborem Exercens)* through work; so that work may become a means, an opportunity for any person to love Christ and bring others to know Him, it\'s necessary that a whole series of human conditions be fulfilled---diligence, constancy, punctuality\...professional prestige, and competence.
 
 We can\'t all be geniuses. God has not given us that capacity. But we can all be competent, learning how to do a good job.
 
@@ -85,7 +85,7 @@ And all the time in our professional life as it grows, we have to try and improv
 
 On the other hand, a lack of interest in what we\'re doing, or incompetence, or frequent absenteeism from work\...all these are incompatible with the really Christian meaning of life. The worker who is negligent or who lacks interest, whatever his job or position in society, offends first of all against his own dignity, and then against those who receive the product of that badly done work.
 
-He offends against the society in which he lives, because in some way all the evil and all the good done by individuals have repercussions on human society. Work that is done badly or carelessly, or is not properly finished, is not only a fault or even a sin against the virtue of justice, but also charity, because of the bad example that it gives and because of its consequences.
+He offends against the society in which he lives, because in some way all the evil and all the good done by individuals have repercussions on human society. Work that is done badly or carelessly, or is not properly finished, is not only a fault or even a sin against the virtue of justice, but also against charity, because of the bad example that it gives and because of its consequences.
 
 The great enemy of work is laziness, which can have many manifestations. The lazy person is not only the one who wastes time by doing nothing, but also the person who does many things but refuses to see his specific task through to completion.
 
@@ -95,7 +95,7 @@ St. Josemaría liked to comment that often you drive around a city and may see a
 
 He talked about how there is a blessing in the Book of Blessings in the Catholic Church, to bless the first stone.
 
-On a building that he built in Rome for the formation of many hundreds and thousands of young people, instead of putting a foundation stone there, he decided to put a finishing stone. And he looked for a blessing for a finishing stone, found there was none in the official Book of Blessings, and so he had to make one up (cf. Josemaría Escrivá, *Friends of God*, Point 55).
+On a building that he built in Rome for the formation of many hundreds and thousands of young people, instead of putting a foundation stone there, he decided to put a finishing stone. And he looked for a blessing for a finishing stone, found there was none in the official Book of Blessings, and so he had to make one up (*cf*. J. Escrivá, *Friends of God*, Point 55).
 
 But the message was there: we bless the final stone.
 
@@ -103,13 +103,15 @@ We could ask Our Lady and St. Joseph to help us to bless the final stones in our
 
 If we want to imitate Christ, we need to make an effort to acquire the right training for our chosen profession or job. Then we have to try and follow that up throughout our working lives.
 
-The mother who dedicates herself to looking after the children needs to know how to run a home, how to be a good administrator of the money and equipment at her disposal. She should make sure that the house is pleasant, and arranged with taste rather than luxury, so that the whole family can feel at home.
+The mother who dedicates herself to looking after the children needs to know how to run a home, how to be a good administrator of the money and equipment at her disposal. She should make sure that the house is pleasant, arranged with taste rather than luxury, so that the whole family can feel at home.
 
-She needs to understand the character of her children and her husband and to know, if needed, how to go about getting them to improve in matters relating to their behavior. She needs to be firm and at the same time gentle and uncomplicated.
+She needs to understand the character of her children and her husband and to know, if needed, how to go about getting them to improve in matters relating to their individual behavior. She needs to be firm and at the same time gentle and uncomplicated.
 
 She will need to carry out her tasks as efficiently and thoroughly as she would have to do if she went out to work. She should keep to a predetermined timetable and shouldn\'t waste time in endless conversations. She should avoid switching on the TV at any random time.
 
-If a student wants to be a good Christian, he has to be a good student---one who studies. He needs to attend classes. He must keep up with his assignments, keep his notes in order, and learn to allocate his time to the various subjects. The architect, the secretary, the dressmaker, the entrepreneur---they all have to be equally competent in their field.
+If a student wants to be a good Christian, he has to be a good student---one who studies. He needs to attend classes. He must keep up with his assignments, keep his notes in order, and learn to allocate his time to the various subjects.
+
+The architect, the secretary, the dressmaker, the entrepreneur---they all have to be equally competent in their own field.
 
 The Second Vatican Council says, "The Christian who shirks his temporal duties shirks his duties towards his neighbor, neglects God himself, and endangers his eternal salvation" (Vatican II, *Gaudium et spes*, Point 43, December 7, 1965).
 
@@ -117,17 +119,17 @@ Such a person has mistaken the road he should take in a matter of fundamental im
 
 We could look at Our Lord as He does His work in Joseph\'s workshop and we ask ourselves today whether we are known by the people around us as people who do a good job, people who work well.
 
-*Professional prestige* is earned, day by day, by work that is normally silent, finished off down to the last detail, and done conscientiously in God\'s presence without too much concern about whether people notice it or not.
+*Professional prestige* is earned, day by day, by work which is normally silent, finished off down to the last detail, and done conscientiously in God\'s presence without too much concern about whether people notice it or not.
 
-This prestige in our profession of trade, our students, and their study, has immediate repercussions on one\'s colleagues and friends: our words with which we try to lead them to God carry a proportionate weight and authority.
+This prestige in our own profession or trade (for students, in their study) has immediate repercussions on one\'s colleagues and friends: our words with which we try to lead them to God will carry a proportionate weight and authority.
 
-We must give examples of competent work that helps other people to improve their work. That might mean occasionally demanding certain circumstances or sending certain things back to the person who did that particular job because it could be better.
+It's important that we give examples of competent work that helps other people to improve their work. That might mean occasionally demanding certain circumstances or sending certain things back to the person who did that particular job because it could be better.
 
 Our Lord wants our profession to become a pedestal for Christ so that He can be seen even by those who are far away.
 
 As well as professional prestige, God also asks us for other virtues: for a spirit of service, which is both pleasant and demanding on ourselves; for simplicity and humility, so that we teach without giving ourselves too much importance; for serenity, so that intense activity does not turn into mere activism.
 
-We need to know how to leave our worries and work to one side when the time comes to stop to pray or to look after the various members of the family. We don\'t need to make an excuse when the time comes to listen to our wives, or to our husbands, our spouses, our children, our parents, and our small babies.
+We need to know how to leave our worries and work to one side when the time comes to stop to pray or to look after the various members of the family. We don\'t need to make an excuse when the time comes to listen to our wives, or to our husbands, our spouses, our children, our parents, our friends, or our small babies.
 
 Work should not take up so much time of our day that it occupies the time that should be dedicated to God, to the family, to our friends. If this should happen it would be a clear sign that we're not sanctifying ourselves through our work, but rather we're simply seeking self-satisfaction in it.
 
@@ -139,7 +141,7 @@ Work well done is work done with love. To have a proper regard for the task we a
 
 One writer says, "My son, do you remember that man who came to see me this morning, the one with the brown jacket? He\'s not an honest man. He works as a cartoonist for an illustrated magazine. It gives him enough to live on and keeps him busy.
 
-"But he always talks disparagingly about his work and tells me: 'If only I could be a painter! But I have to draw these stupidities to eat. Don\'t pay any attention to him, old chap, don\'t even look at them! It\'s just pure commercialism!'
+"But he always talks disparagingly about his work and tells me: 'If only I could be a painter! But I have to draw these stupidities to eat. Don\'t pay any attention to them, old chap, don\'t even look at them! It\'s just pure commercialism!'
 
 "In other words, he\'s only in it for the money. And he has let his spirit get separated from what his hands are doing because he has very little regard for his work.
 
@@ -153,7 +155,7 @@ St. Joseph teaches us to love the occupation in which we spend so much of our li
 
 The status of a job depends on its capacity to perfect us in a human way and supernaturally as well, on the opportunities it offers to provide for our family and collaborate in good works on behalf of mankind, and on the social contribution that we can make in the world through its means.
 
-St. Joseph had Jesus beside him while he worked. At times he would have asked Him to hold a piece of wood while he saw it, and at others, he would have shown Him how to use a chisel or a plane.
+St. Joseph had Jesus beside him while he worked. At times he would have asked Him to hold a piece of wood while he sawed it, and at others, he would have shown Him how to use a chisel or a plane.
 
 Whenever he got tired he would have been able to look at his Son, who was the Son of God, and his work would thereby acquire a new value because he would realize that through it he was collaborating mysteriously in the enterprise of salvation.
 
@@ -161,7 +163,7 @@ We can ask St. Joseph today to teach us the awareness of the presence of God whi
 
 Let us not forget, either, Our Mother the Blessed Virgin, as we ask her to help us to sanctify our work and the ordinary things of each day. We shouldn\'t forget to offer something to her each day, a particular hour of work or study, with each day better than the previous one, and more perfectly done.
 
-Let us turn to St. Joseph and ask him to teach us the basic virtues that we must live in the exercise of our profession. St. Josemaría says: "I am sure Joseph knew how to lend a hand in many difficulties, with his work well done. His skilled work was carried out in the service of others, to brighten by its perfection the lives of other families in their neighborhood; and with a smile, a friendly word, a casual remark, he would restore faith and happiness to those in danger of losing them."
+Let us turn to St. Joseph and ask him to teach us the basic virtues that we must live in the exercise of our profession. St. Josemaría says: "I am sure Joseph knew how to lend a hand in many difficulties, with work well done. His skilled work was carried out in the service of others, to brighten by its perfection the lives of other families in their neighborhood; and with a smile, a friendly word, an apparently casual remark, he would restore faith and happiness to those in danger of losing them" (J. Escrivá, *Christ Is Passing By*, Point 51).
 
 Close to Jesus, we would find Mary, ready to teach us all the little ways and tricks to improve the quality of our work as we grow along the pilgrimage of our vocation.
 
