@@ -73,7 +73,7 @@ Every day is important. Every hour is important. That's why we should have a pla
 
 If we don't use that amount of time, it's gone. We can't keep some over to the following day. It's a treasure we have to use and be fruitful with, in this particular moment.
 
-St. Josemaría had a phrase that he liked to use: "today, now" (*The Forge*, Point 163; *Furrow*, Points 81, 117; *Christ Is Passing By*, Point 59).
+St. Josemaría had a phrase that he liked to use: "today, now" (Josemaría Escrivá, *The Forge*, Point 163; *Furrow*, Points 81, 117; *Christ Is Passing By*, Point 59).
 
 Get things done today and now. No procrastination. Don't give in to our laziness.
 
@@ -83,7 +83,7 @@ God wants us to perform the corporal and spiritual acts of mercy with great gene
 
 On another incomparably higher and more exalted level, we have the supernatural gifts: the life of grace---the gifts of faith, of hope, of charity---the very life of God Himself inside us that makes us members of the Church, sharers in the communion of the saints, and a special calling from God to lead a life of closer union with Him.
 
-We have the gift of the Sacraments, particularly the priceless gift of the Blessed Eucharist, our God with us.
+We have the gift of the Sacraments, particularly the priceless gift of the Blessed Eucharist, Our God with us.
 
 We have Our Lady, the Mother of God and Our Mother too.
 
@@ -115,7 +115,7 @@ We are not the owners of these talents; we're merely the caretakers of God's gif
 
 Life can be looked at in two ways: seeing ourselves as stewards and making everything productive for God's sake; or acting as if we were owners, for our own comfort, our selfishness, our whims.
 
-I was called to the bedside of a man once who was dying of cancer, not very elderly; early 50s. He was in the best hospital in the country. He took a hold of my wrist and he said: "Doctor, don't let me die."
+I was called to the bedside of a man once who was dying of cancer, not very elderly, early 50s. He was in the best hospital in the country. He took a hold of my wrist and he said: "Doctor, don't let me die."
 
 The look of terror in his eyes brought home to me that phrase of Scripture: "Do not store up for yourselves treasures on earth, where moth and rust consume, and where thieves break in and steal. But store up for yourselves treasures in heaven\..." (Matt. 6:19-20).
 
@@ -215,7 +215,7 @@ If you try and develop more human relationships, foster the capacity to make fri
 
 There was a man many years ago in Ireland who came in contact with the activities of Opus Dei, and he said he made a big discovery.
 
-He was married with eight children. He said he always thought the most important thing in his life was his work. Through formation, he came to discover that, really, the most important thing in his life was his family, his marriage.
+He was married with eight children. He said he always thought the most important thing in his life was his work. Through formation, he came to discover that really, the most important thing in his life was his family, his marriage.
 
 So he had a paradigm shift in his life. He installed a filing cabinet in his home. He opened a file on each one of his children.
 

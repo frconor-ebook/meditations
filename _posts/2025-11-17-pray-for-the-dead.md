@@ -13,7 +13,7 @@ By Fr. Conor Donnelly
 
 We\'re told in the Psalms, "My soul thirsts for God, for the living God. When shall I come and behold the face of God?" (Ps. 42:2).
 
-During November, the Church acts like the good Mother that she is by sending many suffrages to God, many offerings, for the souls in Purgatory. It\'s a time-honored Christian custom. She invites us to pray about the meaning of our life in the light of eternity.
+During the month of November, the Church acts like the good Mother that she is by sending many suffrages to God, many offerings, for the souls in Purgatory. It\'s a time-honored Christian custom. She invites us to pray about the meaning of our life in the light of eternity.
 
 The liturgy reminds us that the souls in Purgatory eagerly await this work of charity engaged in by their brothers and sisters on earth. These prayers can help shorten a soul\'s time of purification.
 
@@ -25,25 +25,27 @@ The love and fidelity of the Church on earth wins joy and relief for those souls
 
 I saw a painting once of a priest saying Mass, and in the painting under the altar was Purgatory, and above the altar was Heaven. As the priest was saying Mass, there were souls that were going from Purgatory up to Heaven. It was a graphic expression of the belief of the Church and of the power of the Mass.
 
-The Second Book of Maccabees recounts a great battle in which the Israelites were victorious over the Idumeans, thanks to God\'s assistance. On the following day, Judas Maccabeus ordered that his fallen soldiers were to be brought back to be buried with their kinsmen. It was therefore discovered, however, that "under the tunic of every one of the dead they found sacred tokens of the idols of Jamnia, which the law forbids the Jews to wear. And it became clear to all that this was why these men had fallen."
+The Second Book of Maccabees recounts a great battle in which the Israelites were victorious over the Idumeans, thanks to God\'s assistance.
+
+On the following day, Judas Maccabeus ordered that his fallen soldiers were to be brought back to be buried with their kinsmen. It was therefore discovered, however, that "under the tunic of every one of the dead they found sacred tokens of the idols of Jamnia, which the law forbids the Jews to wear. And it became clear to all that this was why these men had fallen."
 
 We\'re told in the Book of Maccabees, "So they all blessed the ways of the Lord, the righteous Judge, who reveals the things that are hidden; and they turned to prayer."
 
 Judas Maccabeus took up a collection and received two thousand drachmas of silver, "which he sent to Jerusalem to provide for a sin offering."
 
-The inspired author concludes: "In doing this he acted very well and honorably, taking account of the resurrection. For if he were not expecting that those who had fallen would rise again, it would have been superfluous and foolish to pray for the dead. But if he was looking to the splendid reward that is laid up for those who fall asleep in godliness, it was a holy and pious thought. And so he made atonement for the dead, that they might be delivered from their sin" (*cf*. 2 Macc. 12:39-46).
+The inspired author concludes: "In doing this he acted very well and honorably, taking account of the resurrection. For if he were not expecting that those who had fallen would rise again, it would have been superfluous and foolish to pray for the dead. But if he was looking to the splendid reward that is laid up for those who fall asleep in godliness, it was a holy and pious thought. And so, he made atonement for the dead, that they might be delivered from their sin" (*cf*. 2 Macc. 12:39-46).
 
 *Lumen gentium* of the Second Vatican Council says: "Fully conscious of this communion of the whole Mystical Body of Jesus Christ, the pilgrim Church from the very first ages of the Christian religion has cultivated with great piety the memory of the dead, and because it is a holy and wholesome thought to pray for the dead that they may be loosed from their sins, also offers suffrages for them" (Vatican II, *Lumen gentium*, Point 50, November 21, 1964).
 
 St. Ephraim commented, "If the army of Maccabeus was able to expiate the sins of their fallen comrades, imagine how much more supernatural good is done by the priests of the Son through their prayers and holy offerings!" (St. Ephraim, *Testamentum*).
 
-The first Christians were so accustomed to praying for the dead that this feature was soon included in the Mass. And so, in the First Eucharistic Prayer, the priest says, "Remember, Lord, those who have died and have gone before us marked by the sign of faith, especially those for whom we now pray\...May these, and all who sleep in Christ, find in your presence light, happiness, and peace."
+The first Christians were so accustomed to praying for the dead that this feature was soon included in the Mass. And so, in the First Eucharistic Prayer, the priest says, "Remember, Lord, those who have died and have gone before us marked with the sign of faith, especially those for whom we now pray\...May these, and all who sleep in Christ, find in your presence light, happiness, and peace."
 
-And in the Eucharistic Prayer II, we say, "Remember our brothers and sisters who have gone to their rest in the hope of rising again; bring them and all the departed into the light of your presence."
+And in the Eucharistic Prayer II, \[the priest says\], "Remember our brothers and sisters who have gone to their rest in the hope of rising again; bring them and all the departed into the light of your presence."
 
 One writer says, "This prayer for the suffering Church in Purgatory seems to have come down to us from the Roman liturgy, to judge by some of the expressions used in the Latin text.
 
-"The opening words of some of these can be seen in inscriptions on tombs in catacombs, inscriptions like "with the sign of faith," "in the sleep of the just," "a place of refreshment." These and similar expressions are found in the Catacombs of Priscilla and the accounts of the martyrdom of Sts. Perpetua and Felicity" (Federico Suarez, *The Sacrifice of the Altar*).
+"The opening words of some of these can be seen in inscriptions on tombs in the catacombs, inscriptions like 'with the sign of faith,' 'in the sleep of the just,' 'a place of refreshment.' These and similar expressions are found in the Catacombs of Priscilla and the accounts of the martyrdom of Saints Perpetua and Felicity" (Federico Suarez, *The Sacrifice of the Altar*).
 
 This teaching, that we the living have the power to intercede for the dead, has always been held by believers. It was solemnly declared a truth of the Faith by the Second Council of Lyons in 1274.
 
@@ -53,7 +55,7 @@ We could try and examine the quality of our prayers for these souls. We can reme
 
 "Oh God, you are my God," we're told in the Psalms, "I seek you, my soul thirsts for you; my flesh faints for you, as in a dry and weary land where no water is" (Ps. 63:1).
 
-"My soul thirsts for God, for the living God. When shall I come and behold the face of God?" (Ps. 42:2). You can imagine that these inspired words summarize the continual prayer of the holy souls in Purgatory.
+"My soul thirsts for God, for the living God. When shall I come and behold the face of God?" (Ps. 42:2). We can imagine that these inspired words summarize the continual prayer of the holy souls in Purgatory.
 
 Sins involve a double disorder. First of all, they\'re an offense against God. They make the soul his enemy. And in the case of mortal sin, the soul makes a radical choice contrary to its final end. Mortal sin merits eternal separation from God.
 
@@ -65,9 +67,9 @@ In addition to the loss of friendship with God, sin also damages the sinner hims
 
 The Second Vatican Council in *Gaudium et spes* says. "For sin has diminished man, blocking his path to fulfillment" (Vatican II, *Gaudium et spes*, Point 13, December 7, 1965).
 
-In the recent Consistory (September 30, 2023), Pope Francis has elevated to the order of cardinals a holy priest from Buenos Aires, a Capuchin friar, who has spent many hours of the last fifty years hearing confessions. He dedicated himself in an exceptional way to that work of mercy.
+In the recent Consistory (September 30, 2023), Pope Francis has elevated to the order of cardinals a holy priest from Buenos Aires, a Capuchin friar, who has spent many hours of the last fifty years hearing Confessions. He dedicated himself in an exceptional way to that work of mercy.
 
-There\'s a rather interesting article that came out in an interview with him, where he says: After long hours in the confessional, I say to Our Lord in my prayer, 'Lord, if I have forgiven too much, it\'s your fault.' (Avvenire News, *Interview with Father Luis Pascual Dri*). A rather beautiful prayer for a priest to offer to God after that service.
+There\'s a rather interesting article that came out in an interview with him, where he says: "After long hours in the confessional, I say to Our Lord in my prayer, 'Lord, if I have forgiven too much, it\'s your fault'' (Avvenire News, *Interview with Father Luis Pascual Dri*). A rather beautiful prayer for a priest to offer to God after that service.
 
 John Paul II has said, "A soul that lowers itself through sin drives down with itself the Church and, in some way, the whole world" (John Paul II, Apostolic Exhortation, *Reconciliatio et paenitentia*, Point 16, December 2, 1984).
 
@@ -83,11 +85,11 @@ The soul suffers from the consequences of sin even after receiving sacramental a
 
 We\'re told that when we go to Confession, we should have a *purpose of amendment*, a desire to improve. Ultimately that\'s what contrition is. It\'s not a feeling. It\'s a desire to be better.
 
-The Sacred Congregation for the Doctrine of the Faith has said the Church "believes in the possibility of a purification for the elect before they see God, a purification altogether different from the punishment of the damned. This is what the Church means when speaking of Hell and Purgatory" (S.C.D.F., *Letter to Bishops on Certain Questions Concerning Eschatology*, May 17, 1979, Point 7).
+The Sacred Congregation for the Doctrine of the Faith has said the Church "believes in the possibility of a purification for the elect before they see God, a purification altogether different from the punishment of the damned. This is what the Church means when speaking of Hell and Purgatory" (S.C.D.F., *Letter to Bishops on Certain Questions Concerning Eschatology*, Point 7, May 17, 1979).
 
-In the Book of Revelation, Heaven is described by the words: "But nothing unclean shall enter it" (Rev. 21:27). We need to be cleansed, purified. We need to have our wedding garments before we can enter Heaven.
+In the Book of Revelation, heaven is described by the words: "But nothing unclean shall enter it" (Rev. 21:27). We need to be cleansed, purified. We need to have our wedding garments before we can enter heaven.
 
-The holy souls in Purgatory experience a great sorrow as well as a great joy. They know that they are confirmed in grace and that they\'re on their way to Heaven.
+The holy souls in Purgatory experience a great sorrow as well as a great joy. They know that they are confirmed in grace and that they\'re on their way to heaven.
 
 We can assist their progress by means of our prayers, especially at Mass, which is the supreme offering. The Church has established the Feast of All Souls as a means of encouraging the faithful to persevere in this regard.
 
@@ -101,13 +103,15 @@ Each day that passes offers many possibilities for this work of mercy: whenever 
 
 Indulgences are of special importance in our effort to assist the souls in Purgatory. The Church teaches that indulgences can be gained in two forms---plenary and partial. There are certain indulgences that are intended exclusively for the benefit of the faithful departed.
 
-The Church grants partial indulgences for many works of piety like mental prayer, reciting of the *Angelus* or *Regina Coeli*, the use of religious objects which have been blessed by a priest (a crucifix, a rosary, a scapular, a medal). If the object has been blessed by the Roman Pontiff or a prelate, the owner may gain a plenary indulgence on the feast of Sts. Peter and Paul, after making an act of faith.
+The Church grants partial indulgences for many works of piety like mental prayer, reciting of the *Angelus* or *Regina Coeli*, the use of religious objects which have been blessed by a priest (a crucifix, a rosary, a scapular, a medal).
+
+If the object has been blessed by the Roman Pontiff or a prelate, the owner may gain a plenary indulgence on the feast of Saints Peter and Paul, after making an act of faith.
 
 Other opportunities for partial indulgences include the reading of Sacred Scripture, praying of the *Memorare*, spiritual communions, the litanies, praying the *Adoro te devote*, the *Salve Regina*, the *Hail, Holy Queen*, praying for the Holy Father, retreats.
 
 It\'s a really good intention to have, in the course of our life, to gain all the indulgences that we can, even though we might not be aware on that particular day that there is an indulgence that we can gain. We build up a spiritual wealth that way.
 
-Certain acts can earn us a plenary indulgence if we fulfill the ordinary requirements, which are: Confession within the week or a Communion within the week, and prayer for the Roman Pontiff.
+Certain acts can earn us a plenary indulgence if we fulfill the ordinary requirements, which are: Confession within the week, a Communion within the week, and prayer for the Roman Pontiff.
 
 The plenary indulgence can take away all the temporal pain caused by sin. When we commit a venial sin, we merit temporal pain, temporal punishment. When we commit a mortal sin, we merit eternal pain, eternal punishment.
 
@@ -119,7 +123,7 @@ We can get that type of indulgence by praying the family Rosary, by making the W
 
 According to St. Thomas Aquinas, the holy souls in Purgatory are able to pray for their loved ones on earth. It\'s a very good thing to have devotion to the holy souls. They can pray for each one of us. Those souls do not know the concrete needs of the living, unless God wants them to, but they do pray for our intentions in general. They pray for us and we pray for them.
 
-We do this even though we don\'t know whether these souls remain in Purgatory or have ascended into Heaven. We presume if we pray for the souls in Purgatory and they\'re already in Heaven, our prayers for them will be passed on to somebody else.
+We do this even though we don\'t know whether these souls remain in Purgatory or have ascended into heaven. We presume if we pray for the souls in Purgatory and they\'re already in heaven, our prayers for them will be passed on to somebody else.
 
 One theologian says the holy souls in Purgatory can no longer merit graces, but they can intercede for us before the Lord. They can help us a great deal in our daily lives, "providing special assistance to those who were their friends on earth" (Michael Schmaus, *Dogmatic Theology*). They certainly want their friends to attain salvation.
 
@@ -137,7 +141,7 @@ St. Catherine of Genoa has written: "No one is barred from heaven. Whoever wants
 
 The waiting room of heaven is not a lesser hell, but a place of preparation where souls are duly cleansed of the remains of sin before entering heaven.
 
-The inclination to sin that we acquire through original sin is increased by personal sin. If one has not sufficiently expiated any specific offenses against God during the course of our present life, there is a further need for reparation to be accomplished.
+The inclination to sin that we acquire through original sin is increased by personal sin. If one has not sufficiently expiated any specific offenses against God during the course of our present life, there is further need for reparation to be accomplished.
 
 In the first place, evil dispositions may remain rooted in our soul at the hour of our death. There is also the temporal punishment left over from sins forgiven in confession. Our lack of love and refinement in dealing with Our Lord can also defer our union with Him.
 
@@ -157,7 +161,7 @@ The soul in Purgatory differs from the adventurer in that he knows most assuredl
 
 We can help the souls in Purgatory to pass more quickly over the great divide that separates them from God by making reparation for sin. In this way, we can also shorten our own passage through this waiting room of heaven.
 
-If we are generous in our spirit of penance, in the offering of our sufferings, and in our love for the sacrament of Confession, with the help of grace, we may enter straightaway into heaven. This is the case with the saints whose living example we can accept as an open invitation to spur us on. Their example stimulates our own desire to help make up for the effects of personal sin in the lives of countless souls.
+If we are generous in our spirit of penance, in the offering of our sufferings, and in our love for the sacrament of Confession, with the help of grace we may enter straightaway into heaven. This is the case with the saints whose living example we can accept as an open invitation to spur us on. Their example stimulates our own desire to help make up for the effects of personal sin in the lives of countless souls.
 
 Our Blessed Mother, Refuge of sinners, will obtain for us the grace to act accordingly.
 
