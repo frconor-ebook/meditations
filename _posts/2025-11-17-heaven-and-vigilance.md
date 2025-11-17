@@ -11,7 +11,7 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-We're told in St. Luke, "Watch yourselves, or your hearts will be coarsened by debauchery and drunkenness and the cares of life, and that day will come upon you unexpectedly, like a trap. For it will come down on all those living on the face of the earth. Stay awake, praying at all times for the strength to survive all that is going to happen, and to hold your ground before the Son of man"(Luke 21:34-36).
+We're told in St. Luke, "Watch yourselves, or your hearts will be coarsened by debauchery and drunkenness and the cares of life, and that day will come upon you unexpectedly, like a trap. For it will come down on all those living on the face of the earth. Stay awake, praying at all times for the strength to survive all that is going to happen, and to hold your ground before the Son of Man" (Luke 21:34-36).
 
 In the Book of Revelation, it says, "Then he showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb through the middle of the street of the city; also, on either side of the river, the tree of life with its twelve kinds of fruit ... There shall no more be anything accursed, but the throne of God and of the Lamb shall be in it, and his servants shall worship Him, and they shall see his face, and his name shall be on their foreheads" (Rev. 22:1-4).
 
@@ -23,11 +23,11 @@ In the Book of Revelation, we're told, "In heaven, night shall be no more; they 
 
 Death is an indispensable step towards our reunion with God. The children of God should always view death as a transition to eternity. Once we are in God's company, "night shall be no more*."* To the extent that we grow in our sense of divine filiation, we should become more desirous of meeting Our loving Father.
 
-We should, therefore, look at death without fear, but with holy expectation. After all, "life is a journey towards eternity\...Every moment becomes precious precisely through this perspective. We must live and work in time, beating within us the nostalgia for heaven" (John Paul II, *Address*, October 22, 1985)*.*
+We should, therefore, look at death without fear, but with holy expectation. After all, as John Paul II says, "life is a journey towards eternity\...Every moment becomes precious precisely through this perspective. We must live and work in time, beating within us the nostalgia for heaven" (John Paul II, *Address*, October 22, 1985)*.*
 
-We can be very aware that there are many, many people around us who do not have that "nostalgia for heaven." They've grown accustomed to their prosperity and material comfort, as if these things were to last forever. Lords of themselves, they are happy in their lot.
+We can be very aware that there are many, many people around us who do not have that "nostalgia for heaven." They've grown accustomed to their prosperity and material comfort, as if these things were to last forever. "Lords of themselves, they are happy in their lot" (Lord Byron, *Don Juan*).
 
-They've forgotten the fundamental truth: "For here we have no lasting city, but we seek the city which is to come" (Heb. 13:14).
+They've forgotten the fundamental truth: "For here we have no lasting city, but we seek the city which is to come," we're told in the Letter to the Hebrews (Heb. 13:14).
 
 There are many messages that Our Lord gives us along the pathway of our life that bring that home to us; what we might sometimes refer to as human tragedies: plane crashes, volcanic eruptions, tsunamis, floods, and major traffic accidents in which a lot of people die.
 
@@ -41,13 +41,13 @@ As a consequence, we shouldn't be surprised that the prospect of death may frigh
 
 It's good to use the opportunities that arise to explain death to children---to talk to them about their soul, the immortality of our soul, and to talk to them about heaven.
 
-The Church prays in the Preface for Masses for the Dead: "Lord, for your faithful people, life is changed, not ended. When the body of our earthly dwelling lies in death, we gain an everlasting dwelling place in heaven." That leads us to have a very positive outlook on the reality of death, to look at it from a very supernatural point of view.
+The Church prays in the *Preface* of Masses for the Dead: "Lord, for your faithful people, life is changed, not ended. When the body of our earthly dwelling lies in death, we gain an everlasting dwelling place in heaven." That leads us to have a very positive outlook on the reality of death, to look at it from a very supernatural point of view.
 
 One writer says: The true child of God "expresses their joy in seeing at last the transcendent perfections of the Father in all his holiness. The child recognizes the condescension of Infinite Majesty in adopting him on earth---in guiding, training, sanctifying, and preparing him for heaven now. In doing so, he has invited that child to enter heaven, to be with his Father for all eternity. God has had regard for his littleness and given him the power to glorify the Trinity forever" (Bonaventure Perquin, *Abba, Father*).
 
 So, we have good reason to exclaim, "We shall never die! We will only be changing our lodgings, nothing more. In conjunction with faith and hope, we Christians also need to have this sure hope. At our death, we make only a temporary farewell. We should want to die in the spirit of those words: 'Until we meet again'" (Josemaría Escrivá, *Newsletter* No. 1).
 
-We have to try and work at the divinization of our soul, and to see how our faculties and our bodies will be glorified in heaven. The Book of Daniel says, "but the saints of the Most High shall receive the kingdom and possess the kingdom forever and ever"(Dan. 7:18).
+We have to try and work at the divinization of our soul, and to see how our faculties and our bodies will be glorified in heaven. The Book of Daniel says, "but the saints of the Most High shall receive the kingdom and possess the kingdom forever, for ever and ever" (Dan. 7:18).
 
 We will find that everything appears new and young in heaven. The Book of Revelation says the old universe will "seem to have vanished like a scroll that has rolled up" (Rev. 6:14).
 
@@ -87,15 +87,15 @@ Our Lord has given us ample warnings. "But take heed to yourselves," we're told 
 
 We also have the consoling words of Our Lord, "I go to prepare a place for you..." (John 14:3).
 
-Heaven is our definitive homeland. There we will enjoy the company of Jesus and Mary. Here, we are but pilgrims. "And when the moment comes when we are to give an account to God, we will not be afraid"---because we see that death is just a change of house. Life is changed, not taken away.
+Heaven is our definitive homeland. There we will enjoy the company of Jesus and Mary. Here, we are but pilgrims.
 
-"Death will come when God wants---being that liberation, that point of entry into the fullness of life*"* (Preface I, Mass for the Dead).
+Blessed Álvaro del Portillo says, "And when the moment comes when we are to give an account to God, we will not be afraid" (Álvaro del Portillo, Homily, *Homily*, August 15, 1989)---because we see that death is just a change of house: 'Life is changed, not taken away' (*Preface I*, Mass for the Dead).
 
-"Life changes," says Blessed Álvaro del Portillo. "It doesn't come to an end. We have a firm hope that we will live in a new way, very united to the Blessed Virgin, as we adore the Most Holy Trinity: Father, Son and Holy Spirit. This is the reward that awaits us*"* (Álvaro del Portillo, Homily, *Homily*, August 15, 1989).
+"Death will come when God wants---being that liberation, that point of entry into the fullness of life. Life changes," says Blessed Álvaro del Portillo. "It doesn't come to an end. We have a firm hope that we will live in a new way, very united to the Blessed Virgin, as we adore the Most Holy Trinity: Father, Son and Holy Spirit. This is the reward that awaits us*"* (*ibid*.).
 
-Scripture reminds us and warns us about the excessive concerns for comfort and the things of this world that inevitably lead to a neglect of God and neighbor. We are told about a man who fell into that very trap. Instead of winning heaven through the use of his wealth, he lost it forever.
+Scripture reminds us and warns us about the excessive concerns for comfort and the things of this world that inevitably will lead to a neglect of God and neighbor. We are told about a man who fell into that very trap. Instead of winning heaven through the use of his wealth, he lost it forever.
 
-We are told, "There was a rich man who used to dress in purple and fine linen and feast magnificently every day. Meanwhile, at his door, there was a poor man called Lazarus, covered with sores, who longed to fill himself with the scraps that fell from the rich man's table" (Luke 16:19-21).
+We are told: "There was a rich man who used to dress in purple and fine linen and feast magnificently every day. Meanwhile, at his door, there was a poor man called Lazarus, covered with sores, who longed to fill himself with the scraps that fell from the rich man's table" (Luke 16:19-21).
 
 Thus, Our Lord contrasts two extreme conditions in this parable: vast wealth in one case, tremendous need in the other. Our Lord says nothing about the rich man's possessions themselves. He puts His entire emphasis on how they have been used, mentioning only expensive clothes and sumptuous daily banquets. Lazarus was not even given the leftovers.
 
@@ -127,7 +127,7 @@ From time to time Our Lord might permit us to suffer for our beliefs. He might a
 
 Then we'll be more detached from our sense of personal importance, from the state of our health, from our possessions. We'll be better prepared for the future---for that Kingdom of God to which God has called us.
 
-It is of vital importance that we who are living in the midst of the world maintain a lively remembrance that as St. Paul VI says, "the Kingdom of God, which had its beginnings here on earth in the Church of Christ, is not of this world whose form is passing, and that its authentic development cannot be measured by the progress of civilization, of science, or of technology" (Paul VI, *Motu Propio*, *Credo of the People of God,* Point 27, June 30, 1968)*.*
+It is of vital importance that we who are living in the midst of the world maintain a lively remembrance that as St. Paul VI says, "the Kingdom of God, which had its beginnings here on earth in the Church of Christ, is not of this world, whose form is passing, and that its authentic development cannot be measured by the progress of civilization, of science, or of technology" (Paul VI, *Motu Propio*, *Credo of the People of God,* Point 27, June 30, 1968)*.*
 
 We can ask Our Lady, Queen of heaven, that she might lead us to be vigilant here on earth, along our pathway, so that we can truly reach our true homeland.
 
