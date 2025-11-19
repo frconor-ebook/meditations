@@ -37,7 +37,7 @@ It's very important for people to learn virtue in general, but particularly, gen
 
 Haven't they learned to be generous in the course of their lifetime? Or to realize that everything we have is a gift? St. Paul says, "What have you that you have not received?" (1 Cor. 4:7).
 
-In teaching young people to be generous, it\'s what they have, which sometimes may be very little, but they also may have a certain amount of money. They may have clubs, toys, books that they could give to other people, but they also have their time and their energy.
+In teaching young people to be generous, it\'s what they have, which sometimes may be very little, but they also may have a certain amount of money. They may have clothes, toys, books that they could give to other people, but they also have their time and their energy.
 
 In teaching them how to be generous with what they have, we\'re putting them on the pathway to happiness.
 
@@ -89,7 +89,7 @@ These weeks and months are a good opportunity to help people to take another loo
 
 We also have to try and offer God everything we are and everything we have, without saving anything for ourselves. "God loves a cheerful giver" (2 Cor. 9:7).
 
-There\'s an old saying that says God is won over by the last coin.
+There\'s an old saying that says God is won over by the last coin (*cf*. Luke 15:8-10).
 
 When Our Lord saw the generosity of this woman, He wanted to communicate this joy to His disciples: 'Do you see this woman, take a good look, what a beautiful thing!' (*cf*. Mark 12:43).
 
@@ -107,7 +107,7 @@ He spent the next three days wandering around the place in a daze, thinking of h
 
 After three days, he sort of came back to earth and he began to ask himself, "I wonder why that monk gave me the jewel. He must have known what it was worth; he can\'t have been stupid."
 
-After thinking about it for a certain period of time, he came to the conclusion that "the monk gave me the jewel because he has something else that was worth more than the jewel."
+After thinking about it for a certain period of time, he came to the conclusion that "the monk gave me the jewel because he has something else that's worth more than the jewel."
 
 When he thought that he has something that was worth more than the jewel, that\'s what he began to want. "I think I would prefer to have that thing that made him give me the jewel rather than the jewel itself."
 
@@ -143,7 +143,7 @@ St. Paul said to the Romans: "I appeal to you, therefore, brethren, by the merci
 
 There may be certain opportunities on a daily basis for us to be generous with our time, with our patience, with our charity, and sometimes also with the material things that we have.
 
-These weeks coming up to Christmas---it\'s a particular opportunity each year to go the extra mile, to think out of the box, or to see how we can spread that "culture of generosity" (Pope Francis, *Message*, November 25, 2018) in our family, or in our road, in our environment, in our office---how we can stir other people up to practice this virtue and to get great joy from it.
+These weeks coming up to Christmas---it\'s a particular opportunity each year to go the extra mile, to think out of the box, or to see how we can spread that "culture of generosity" (Pope Francis, *Message*, November 25, 2018) in our family, or in our home, in our environment, in our office---how we can stir other people up to practice this virtue and to get great joy from it.
 
 We offer ourselves in the little details of each day, from the time of our *Morning Offering* to the sacrifices that we may make to bring about greater social harmony, the "please" and the "thank you," the "I\'m sorry," the smile.
 
@@ -161,7 +161,7 @@ We can carry out this total dedication by being faithful to God in the day-to-da
 
 We will be more generous if we realize the gift. We spend our day thanking God for all the material things, the spiritual things, that He\'s given to us. That will also foster our generosity because we\'ll see how we have been blessed. So there\'s great potential in all these areas.
 
-We have to "put ourselves unconditionally in the presence of God, 'like clay in the hands of the potter' (Jer. 18:6), and humbly confess to him: 'You are my God and my all' (Josemaría Escrivá, *Friends of God*, Point 167).
+We have to "put ourselves unconditionally in the presence of God, 'like clay in the hands of the potter' (Jer. 18:6), and humbly confess to him: 'You are my God and my all'" (Josemaría Escrivá, *Friends of God*, Point 167).
 
 Lord, I want to give you everything. Help me to hold nothing back. Help me to see how generous you have been with me.
 
@@ -175,25 +175,23 @@ How many people do you know in this world who are contented? It\'s not a very co
 
 Those who follow Our Lord with generosity will experience His peace and joy, *gaudium cum pace*. That gift is like an anticipation of heaven. To have Our Lord near us is the best compensation possible.
 
-St. Teresa of Ávila said: "If you but lift your eyes to heaven, thinking of him, he will repay you, never fear" (cf. Teresa of Ávila, *The Way of Perfection*).
+St. Teresa of Ávila said: "If you but lift your eyes to heaven, thinking of him, he will repay you, never fear" (*cf*. Teresa of Ávila, *The Way of Perfection*).
 
-The Lord is waiting for our work, for us to offer it; waiting for the offering of the difficulties of our daily life, of our deeds of service, of the gift of our time and energy to others.
+The Lord is waiting for our work, for us to offer it---waiting for the offering of the difficulties of our daily life, of our deeds of service, of the gift of our time and energy to others.
 
 Happiness comes from giving. Whenever John Paul II talks about love, he always talks about love in terms of giving. We find our joy there.
 
 We live in a culture of getting, having, spending. Christ tells us that happiness comes from giving, helping, serving.
 
-It\'s necessary to go beyond the limits of strict justice. Go the extra mile.
-
-We try to imitate the exemplary conduct of this poor widow. She teaches us to give with generosity even that which is meant for our own needs.
+"It is necessary to go beyond the limits of strict justice." Go the extra mile. We try to imitate "the exemplary conduct" of this poor widow. She "teaches us to give with generosity even that which is meant for our own needs."
 
 We could "remember that God does not measure our human actions by a standard which stops at the appearance of 'how much' is given.
 
 "God measures according to the standard of interior values of 'how' one places oneself at the disposal of others. He measures according to the degree of love with which we freely dedicate ourselves to other people" (John Paul II, *Address*, November 10, 1985).
 
-Lord, help me to be more generous. "It\'s a virtue of great souls, who know how to find their reward in the act of giving (Francis Fernandez, *In Conversation with God*, Volume 1).
+Lord, help me to be more generous. "It\'s a virtue of great souls, who know how to find their reward in the act of giving" (Francis Fernandez, *In Conversation with God*, Volume 1).
 
-He says, "It is worth the effort to give ourselves totally so as to correspond to the love and confidence that God has given us" (J. Escrivá, *Christ Is Passing By*, Point 129).
+St. Josemaría says, "It is worth the effort to give ourselves totally so as to correspond to the love and confidence that God has given us" (J. Escrivá, *Christ Is Passing By*, Point 129).
 
 As Christians in the middle of the world, Our Lord wants us to try and foster this virtue in other people, people of means, so that we can help them to do wonderful projects for the service of other people, for the good of humanity, for the good of the Church.
 
@@ -213,7 +211,7 @@ St. Josemaría says, "In doing their work and living their lives as children of 
 
 We should try and be generous in our struggle for virtue; to be better, to begin again. We can think of the generosity of the Child in the manager.
 
-"In Bethlehem," St. Josemaría said, "nobody holds anything back" (J. Escrivá, *Letter*, November 14, 1974). The Magi came with their finest gifts (cf. Matt. 2:11). It\'s all a story of beauty and of generosity.
+"In Bethlehem," St. Josemaría said, "nobody holds anything back" (J. Escrivá, *Letter*, November 14, 1974). The Magi came with their finest gifts (*cf*. Matt. 2:11). It\'s all a story of beauty and of generosity.
 
 Lack of generosity can be ugly. It can be a manifestation of selfishness, which can be a slow-acting poison that has a deadly effect.
 
@@ -223,7 +221,7 @@ But we live a lifetime of generous giving.
 
 "We should offer the Lord," we\'re told in *The Forge*, "the sacrifice of Abel. A sacrifice of young, unblemished flesh, the best of the flock; of healthy and holy flesh; a sacrifice of hearts that have one love alone---you, my God. A sacrifice of minds, which have been shaped through deep study and will surrender to your Wisdom; of childlike souls who will think only of pleasing you. ---Lord, receive even now this sweet and fragrant sacrifice."
 
-He says, "We have to learn how to give ourselves, to burn before God like the lamp placed on a lampstand to give light to all those who walk in darkness, like the sanctuary lamps that burn by the altar, giving off light till their last drop is consumed" (J. Escrivá, *The Forge*, Points 43-44).
+He says, "We have to learn how to give ourselves, to burn before God like the lamp placed on a lampstand to give light to all those who walk in darkness; like the sanctuary lamps that burn by the altar, giving off light till their last drop is consumed" (J. Escrivá, *The Forge*, Points 43-44).
 
 All the offerings that we make to Our God will be pleasing if we offer them through Our Lady. St. Bernard recommended: "Entrust your small gift to the care of Mary. She will ensure that your offering is favorably received by the Lord" (St. Bernard, *Homily on the Nativity of the Blessed Virgin Mary*).
 
