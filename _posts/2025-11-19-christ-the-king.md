@@ -19,7 +19,9 @@ Today is the Solemnity of Christ the King. It\'s a feast that was established by
 
 We finish the liturgical year in a strong fashion, proclaiming Christ as Our King. In many places in Scripture, Our Lord talks about His kingdom, specifically in the parables of the kingdom:
 
-The kingdom of heaven is "like a grain of mustard seed, which a man took and sowed in his field." It\'s like a "leaven, which a woman took and hid in three measures of meal." It\'s like a "treasure hidden in a field." It\'s like "a merchant seeking good pearls, who, when he finds one pearl of great price, went and sold all that he had and bought it." It\'s like "a net cast into the sea, gathering all kinds of fish."
+The kingdom of heaven is "like a grain of mustard seed, which a man took and sowed in his field." It\'s like a "leaven, which a woman took and hid in three measures of meal." It\'s like a "treasure hidden in a field."
+
+It\'s like "a merchant seeking good pearls, who, when he finds one pearl of great price, went and sold all that he had and bought it." It\'s like "a net cast into the sea, gathering all kinds of fish."
 
 Our Lord gives us all sorts of images about His kingdom (Matt. 13:31-33,44-47).
 
@@ -33,7 +35,7 @@ When Psalm 2 says to us, "Ask of me and I will give you the nations for your inh
 
 He will come and make our abode in you (John 14:23). God, who is love (1 John 4:8,16), comes to live in our heart in grace and to reign in our heart; and in that way to reign in the world, to exert His social influence, in my marriage, in my family, in my office, in my environment, in my club. This is the basis of the apostolate of the ordinary person in the middle of the world.
 
-In the Preface of Christ the King, it describes what type of kingdom it is that Christ wants to bring about: "a kingdom of truth and life, a kingdom of holiness and grace, a kingdom of justice, love, and peace." Beautiful things.
+In the *Preface* of Christ the King, it describes what type of kingdom it is that Christ wants to bring about: "a kingdom of truth and life, a kingdom of holiness and grace, a kingdom of justice, love, and peace." Beautiful things.
 
 The feast of Christ the King is very beautiful. The image of Christ reigning in the world, reigning forever. Christ conquering. Christ came into the world to live and to die, but through that death, to learn how to reign in hearts, in minds, in souls, in society.
 
@@ -45,7 +47,7 @@ The teacher asked her, "But what\'s the matter---did you not see the King?" And 
 
 With Our King, we know that doesn\'t happen. We\'re carried in the palm of a hand of a God who loves us, of a King who loves us. He\'s looking at us all the time. Our name is tattooed on His hand. Every time He looks at His hand, He sees our name. "I will call you by your name" (Isa. 43:1). The Good Shepherd calls the sheep by their name (John 10:3).
 
-Pope Benedict has liked to mention how Christ is a King who dominates with love. He does not impose himself but rather respects human freedom. His royalty is not like the great ones of the world. It\'s the power to defeat evil and death and to awaken hope, even in the hardest of parts.
+Pope Benedict has liked to mention how Christ is a King who dominates with love. He does not impose Himself but rather respects human freedom. His royalty is not like the great ones of the world. It\'s the power to defeat evil and death and to awaken hope, even in the hardest of parts.
 
 The Feast of Christ the King is also a feast of hope. We know that He will come to judge the living and the dead. His Kingdom will last forever. And we want Christ to reign. We try to express that with our words, with our actions every hour of our working day.
 
@@ -61,13 +63,13 @@ The title of King in the Gospels is a very important title. It allows a complete
 
 First, there is the expression, King of Israel. Then we arrive at the concept of the universal King, Lord of the cosmos of history; therefore, far beyond the expectations of the Hebrew people themselves. Christ\'s reign is on a different plane.
 
-"Before the grandeur of this loyalty," Pope Benedict liked to say, "the Cross is a paradoxical sign." A choice becomes necessary for every conscience: Whom do I want to follow, God or the evil one? The truth or the lie?
+Before the grandeur of this loyalty, Pope Benedict liked to say: "the Cross is a paradoxical sign" (Benedict XVI, *Angelus*, November 22, 2009). A choice becomes necessary for every conscience: Whom do I want to follow, God or the evil one? The truth or the lie?
 
 Choosing Christ does not guarantee success according to the criteria of the world, but it assures that peace and that joy as only He can give.
 
 So with reason today, we can address the most Sacred Heart of Jesus and say, Grant us peace.
 
-Most Merciful and Sacred Heart of Jesus, grant me peace; peace in my marriage, peace in my family, peace in my soul, peace in my heart. Financial peace. All sorts of peace. A peace that this world cannot give. A peace that we know can only be found in God and in the things of God, in having our life directed along its proper course to reach its proper end, which is to enjoy the wedding feast of the Kingdom forever.
+Most Merciful and Sacred Heart of Jesus, grant me peace; peace in my marriage, peace in my family, peace in my soul, peace in my heart. Financial peace. All sorts of peace. A peace that this world cannot give (John 14:27). A peace that we know can only be found in God and in the things of God, in having our life directed along its proper course to reach its proper end, which is to enjoy the wedding feast of the Kingdom forever.
 
 That also means that when we lose a loved one or we see other people around us passing to that Kingdom, it\'s an occasion for obvious sadness because we\'ve lost someone we love. But then very quickly we recover our joy, because we know that now that person has gone to enjoy eternal peace and eternal joy, with the Kingdom of God that lasts forever, that does not pass away, unlike so many things in this world.
 
@@ -77,13 +79,15 @@ Our Lord is teaching us about His Kingdom. There\'s the pseudo-power of Pilate a
 
 Christ reigns in and through humility. He invites us to become small. He became a small baby in Bethlehem. He entrusted Himself to the care of two human persons, vulnerable, Joseph and Mary; entrusted Himself to a vulnerable journey from Nazareth to Bethlehem; to experience all the trauma that was there in Bethlehem--- rejection, inhospitable hearts---but then only to open our eyes to the beauty of the stable in Bethlehem, the focal point of family life for all eternity, where Our God becomes a man.
 
-The great mystery of the Incarnation takes place before our eyes. Our King comes to be with us, to be like us in all things but sin; subjecting Himself, living in a human family for a large part of His life; teaching us so many things about ordinary life; and teaching us with His virtue how to live out that Kingdom in an ordinary way.
+The great mystery of the Incarnation takes place before our eyes. Our King comes to be with us, to be like us in all things but sin (*cf*. Heb. 4:15); subjecting Himself, living in a human family for a large part of His life; teaching us so many things about ordinary life; and teaching us with His virtue how to live out that Kingdom in an ordinary way.
 
 The Gospel of St. Luke presents the royalty of Jesus at the moment of His crucifixion, as in a great painting. The leaders of the people and the soldiers deride "the firstborn of all creation" (Col. 1:15). They test Him to see if He has the power to save Himself from death. "He saved others," they said, "let him save himself. If he is the Christ of God, the chosen one, save yourself, come down from the cross" (Luke 23:35-37).
 
-It\'s the words of the devil: hatred for the cross, hatred for the Kingdom. The devil continues to say those same things to the Church: Come down off that silly cross. That silly cross of your belief in the dignity of every human life or in the dignity of human procreation---that every marriage act should be open to the transmission of human life---or in the sanctity of marriage or a whole pile of other things. Come down off all those silly crosses and then we will believe.
+It\'s the words of the devil: hatred for the cross, hatred for the Kingdom. The devil continues to say those same things to the Church: Come down off that silly cross. That silly cross of your belief in the dignity of every human life or in the dignity of human procreation---that every marriage act should be open to the transmission of human life (Paul VI, Encyclical, *Humanae Vitae*, Point 11, July 25, 1968; *Catechism* *of the Catholic Church*, Point 2366)---or in the sanctity of marriage or a whole pile of other things. Come down off all those silly crosses and then we will believe.
 
-But Christ doesn\'t come down from the Cross. It\'s the instrument that God has given Him to bring about the Kingdom. It\'s precisely on the Cross that Jesus is exalted to the very height of God, who is love. "Greater love than this no man has, that he lay down his life for his friends" (John 15:13).
+But Christ doesn\'t come down from the Cross. It\'s the instrument that God has given Him to bring about the Kingdom. "It\'s precisely on the Cross that Jesus is exalted to the very 'height' of God who is Love" (Benedict XVI, *Jesus of Nazareth*, quoted in *Angelus*, November 21, 2010).
+
+"Greater love than this no man has, that he lay down his life for his friends" (John 15:13).
 
 Fulton Sheen likes to point out that Christ was crucified, not between two candles, but between two thieves. There\'s a good thief and there\'s a bad thief.
 
@@ -103,9 +107,9 @@ Immediately Our Lord replies. He doesn\'t say, Let me look at your exam results,
 
 Immediately, He says, "In truth, I say to you, today you will be with me in Paradise" (Luke 23:43).
 
-The King talks in short periods of time. He doesn\'t say, Wait till the vision 2030 is fulfilled, or, \...till all the millennium goals have taken place. Christ speaks in terms of hours, in terms of days.
+The King talks in short periods of time. He doesn\'t say, Wait till the vision 2030 is fulfilled, or till all the millennium goals have taken place. Christ speaks in terms of hours, in terms of days.
 
-With these words, Our Lord from the throne of the Cross receives every man with infinite mercy. St. Ambrose comments, "This is a beautiful example of conversion to which one should aspire: forgiveness is quickly offered to the thief and grace is more abundant than the request, because Our Lord always gives more than what is asked for. Life is being with Christ because where Christ is, there is the Kingdom."
+With these words, Our Lord from the throne of the Cross receives every man with infinite mercy. St. Ambrose comments, "This is a beautiful example of conversion to which one should aspire: forgiveness is quickly offered to the thief and grace is more abundant than the request, because Our Lord always gives more than what is asked for. Life is being with Christ because where Christ is, there is the Kingdom" (Ambrose, *Exposition of the Gospel according to Luke*).
 
 If on some occasion you go to, or you see a picture of, St. Peter\'s Square in Rome, you may see the big obelisk, the big stone monument that stands in the center of the square. It\'s a single block of marble, almost 100 feet high and weighing about 330 tons. It\'s an ancient Egyptian obelisk but it has quite a history.
 
@@ -119,7 +123,7 @@ Pope Sixtus V had the obelisk erected in the center of St. Peter\'s Square where
 
 Now it\'s been put at the service of the Kingdom of Christ. It\'s topped with a bronze cross. And inside that bronze cross is mounted a small fragment of the true Cross, the Cross on which Christ was crucified. His throne.
 
-If you look at the base of the obelisk you\'ll find there\'s an inscription there to remind us that this throne is different from that of Pharaoh or Caesar. A part of the inscription facing out, facing the rest of the world, says in Latin, but in English it means: Behold the Cross of the Lord, that His enemies flee. The Lion of the tribe of Judah has conquered.
+If you look at the base of the obelisk you\'ll find there\'s an inscription there to remind us that this throne is different from that of Pharaoh or Caesar. A part of the inscription facing out, facing the rest of the world, says in Latin, but in English it means: "Behold the Cross of the Lord, that His enemies flee. The Lion of the tribe of Judah has conquered."
 
 The part of the inscription facing St. Peter\'s Basilica reads: "Christ conquers, Christ rules, Christ reigns." Christ the King has conquered indeed and His Kingdom will last forever.
 
@@ -137,25 +141,27 @@ We can struggle to find many practical consequences from our divine filiation, i
 
 It gives us a positive outlook about people, about things at hand. It helps us to maintain our serenity and our peace when maybe others around us are losing it a little bit, because God is my Father. He will never abandon me. He looks after me. He looks after the Church. "The Lord is my Shepherd, there is nothing I shall want" (Ps. 23:1).
 
-Our crucified King hangs in our midst, arms outstretched in loving mercy and welcome. Lord, may we have the courage to ask you to remember us in your Kingdom, the grace to imitate you in our own earthly kingdoms, and the wisdom to welcome you when you stand knocking at the door of our lives and of our hearts.
+"Our crucified King hangs in our midst, arms outstretched in loving mercy and welcome. Lord, may we have the courage to ask you to remember us in your Kingdom, the grace to imitate you in our own earthly kingdoms, and the wisdom to welcome you when you stand knocking at the door of our lives and of our hearts" (*cf*. Thomas Rosica, *Zenit,* November 21, 2009).
 
-Christ stood and waited and knocked. He never responded to violence with more violence. He was Truth Incarnate and never imposed Himself on others.
+Christ stood and waited and knocked. He never responded to violence with more violence. He was Truth Incarnate and never imposed Himself on others (*ibid*.).
 
 We have many wonderful things to learn from this King. How does He reign? Well, He reigned from a donkey. It was His throne coming into Jerusalem. He reigns through service. Christ came "not to be served but to serve" (Matt. 20:28).
 
 In *The* *Forge*, we\'re told, "Keep turning this over in your mind and in your soul: 'Lord, how many times you have lifted me up when I have fallen and once my sins have been forgiven, have held me close to your heart!' Keep returning to the thought\...and never separate yourself from God again" (Josemaría Escrivá, *The Forge*, Point 173)*.*
 
-"When you have fallen or when you find yourself overwhelmed by the weight of your wretchedness, repeat with a firm hope: 'Lord, see how ill I am; Come and heal me, Lord, you who died on the Cross for love of me.' Be full of confidence. Keep on calling out to His most loving heart. He will cure you as He cured the lepers we read about in the Gospel" (J. Escrivá, *The Forge*, Point 213).
+"When you have fallen or when you find yourself overwhelmed by the weight of your wretchedness, repeat with a firm hope: 'Lord, see how ill I am; Come and heal me, Lord, you who died on the Cross for love of me.' Be full of confidence. Keep on calling out to his most loving heart. He will cure you as he cured the lepers we read about in the Gospel" (J. Escrivá, *The Forge*, Point 213).
 
 We can turn to Our King with great hope. We know He\'s going to triumph. He doesn\'t rule like earthly rulers. He rules out of love. He rules with order. "Glory to God in the highest and on earth peace to people of goodwill."
 
 Every time we say those words in the Mass, we can address them with our heart to Christ Our King, asking Him to reign a little more in that interior kingdom. Reign in my heart, in our hearts. He is the King of hearts by reason of His charity which exceeds all knowledge. By His mercy and kindness, He draws all men to Him. He never turns anybody away.
 
-"Never has it been known, nor will it ever be known, that man be loved so much and so universally" (Pius XI, Encyclical, *Quas primas*, December 11, 1925). On many occasions, people thronged about Him in admiration and would have acclaimed Him King. He shrank from the honor and sought safety in flight.
+"Never has it been known, nor will it ever be known, that man be loved so much and so universally" (Pius XI, Encyclical, *Quas primas*, Point 7, December 11, 1925).
 
-The Gospels present this Kingdom to us as one which men prepare to enter by penance. We cannot actually enter except by faith and baptism, which signifies and produces an interior regeneration. The Kingdom is opposed to none other than to that of Satan and to the power of darkness.
+"On many occasions, people thronged about him in admiration and would have acclaimed him King. He shrank from the honor and sought safety in flight. ...
 
-Pius XI has as his motto: "The Peace of Christ in the kingdom of Christ."
+"The Gospels present this kingdom to us as one which men prepare to enter by penance. We cannot actually enter except by faith and baptism, which...signifies and produces an interior regeneration. The kingdom is opposed to none other than to that of Satan and to the power of darkness" (*ibid*., Point 15).
+
+Pius XI has as his motto: "The Peace of Christ in the kingdom of Christ" (Pius XI, Encyclical, *On the Peace of Christ in the Kingdom of Christ*, December 23, 1922).
 
 Because Jesus is King, His Mother is the Queen. She is the Queen of Heaven. In all of the aspirations of the Litany where we address Mary as the Queen, she can lead us to remember Christ the King.
 
