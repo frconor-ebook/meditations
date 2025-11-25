@@ -175,19 +175,7 @@ a:hover {
   color: var(--link-hover);
 }
 
-/* ===================================
-   Footer (Fixed Positioning)
-   =================================== */
-footer {
-  position: static;
-  text-align: center;
-  padding: 20px 15px;
-  background: var(--primary-dark);
-  color: var(--text-light);
-  margin-top: 40px;
-  line-height: 1.5;
-  width: 100%;
-}
+/* Footer styling moved to end of file with enhancements */
 
 /* ===================================
    Search Box
@@ -462,4 +450,292 @@ nav a,
     width: 18px;
     height: 18px;
   }
+}
+
+/* ===================================
+   Smooth Scroll Behavior
+   =================================== */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ===================================
+   Link Hover Effects (Animated Underline)
+   =================================== */
+article a:not(.share-links a),
+main ul li a {
+  position: relative;
+  text-decoration: none;
+}
+
+article a:not(.share-links a)::after,
+main ul li a::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: var(--primary-accent);
+  transition: width 0.3s ease;
+}
+
+article a:not(.share-links a):hover::after,
+main ul li a:hover::after {
+  width: 100%;
+}
+
+/* ===================================
+   Navigation Active State
+   =================================== */
+nav a.active {
+  position: relative;
+}
+
+nav a.active::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: var(--primary-accent);
+}
+
+/* ===================================
+   Search Box Polish
+   =================================== */
+.search-container {
+  position: relative;
+  display: inline-block;
+}
+
+.search-container .search-icon {
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 16px;
+  height: 16px;
+  fill: var(--text-muted);
+  pointer-events: none;
+  transition: fill 0.3s ease;
+}
+
+.search-container #search-box {
+  padding: 10px 16px 10px 42px;
+  border-radius: 25px;
+  border: 2px solid transparent;
+  background: var(--bg-white);
+  box-shadow: var(--shadow-sm);
+  transition: all 0.3s ease;
+}
+
+.search-container #search-box:focus {
+  border-color: var(--primary-accent);
+  box-shadow: 0 0 0 3px rgba(201, 169, 97, 0.2);
+  outline: none;
+}
+
+.search-container:focus-within .search-icon {
+  fill: var(--primary-accent);
+}
+
+/* ===================================
+   Share Links Styling
+   =================================== */
+.share-links {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 25px 0;
+  padding-top: 20px;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="dark"] .share-links {
+  border-top-color: rgba(255, 255, 255, 0.1);
+}
+
+.share-links .separator {
+  display: none;
+}
+
+.share-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  border-radius: 20px;
+  background: var(--bg-cream);
+  color: var(--text-primary);
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-family: 'Lato', Arial, sans-serif;
+  transition: transform 0.2s ease, background-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: var(--shadow-sm);
+}
+
+.share-links a:hover {
+  transform: translateY(-2px);
+  background: var(--primary-accent);
+  color: #fff;
+  box-shadow: var(--shadow-md);
+}
+
+.share-links a svg {
+  width: 16px;
+  height: 16px;
+  fill: currentColor;
+  flex-shrink: 0;
+}
+
+/* Copy notification toast */
+.copy-notification {
+  position: fixed;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%) translateY(100px);
+  background: var(--primary-dark);
+  color: var(--text-light);
+  padding: 12px 24px;
+  border-radius: 25px;
+  font-family: 'Lato', Arial, sans-serif;
+  font-size: 0.9rem;
+  box-shadow: var(--shadow-lg);
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+  z-index: 1000;
+}
+
+.copy-notification.show {
+  transform: translateX(-50%) translateY(0);
+  opacity: 1;
+  visibility: visible;
+}
+
+/* ===================================
+   Scroll-to-Top Button
+   =================================== */
+.scroll-top {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: var(--primary-dark);
+  color: var(--text-light);
+  border: none;
+  cursor: pointer;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease, transform 0.3s ease, background-color 0.3s ease;
+  z-index: 999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--shadow-md);
+}
+
+.scroll-top svg {
+  width: 24px;
+  height: 24px;
+  fill: currentColor;
+}
+
+.scroll-top.visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+.scroll-top:hover {
+  transform: translateY(-3px);
+  background: var(--primary-accent);
+  box-shadow: var(--shadow-lg);
+}
+
+.scroll-top:focus {
+  outline: 2px solid var(--primary-accent);
+  outline-offset: 2px;
+}
+
+@media screen and (max-width: 768px) {
+  .scroll-top {
+    bottom: 20px;
+    right: 20px;
+    width: 44px;
+    height: 44px;
+  }
+
+  .share-links {
+    gap: 8px;
+  }
+
+  .share-links a {
+    padding: 6px 12px;
+    font-size: 0.85rem;
+  }
+
+  .share-links a svg {
+    width: 14px;
+    height: 14px;
+  }
+}
+
+/* ===================================
+   Footer Enhancements
+   =================================== */
+footer {
+  position: static;
+  text-align: center;
+  padding: 20px 15px;
+  background: var(--primary-dark);
+  color: var(--text-light);
+  margin-top: 40px;
+  line-height: 1.5;
+  width: 100%;
+  border-top: 3px solid var(--primary-accent);
+}
+
+.footer-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.footer-social {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.footer-social a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--text-light);
+  transition: all 0.3s ease;
+}
+
+.footer-social a:hover {
+  background: var(--primary-accent);
+  transform: translateY(-2px);
+}
+
+.footer-social a svg {
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
+}
+
+footer p {
+  margin: 0;
+  opacity: 0.9;
 }

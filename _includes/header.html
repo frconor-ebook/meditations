@@ -4,9 +4,9 @@
             <a href="{{ '/' | relative_url }}"><img src="{{ site.baseurl }}/assets/images/logo-circ.png" alt="Fr. Conor Meditations Logo"></a>
         </div>
         <div class="nav-links">
-            <a href="{{ '/' | relative_url }}">Home</a>
-            <a href="{{ '/team' | relative_url }}">Team</a>
-            <a href="{{ '/connect' | relative_url }}">Connect</a>
+            <a href="{{ '/' | relative_url }}" {% if page.url == '/' or page.url == '/index.html' %}class="active"{% endif %}>Home</a>
+            <a href="{{ '/team' | relative_url }}" {% if page.url == '/team' or page.url == '/team.html' or page.url == '/team/' %}class="active"{% endif %}>Team</a>
+            <a href="{{ '/connect' | relative_url }}" {% if page.url == '/connect' or page.url == '/connect.html' or page.url == '/connect/' %}class="active"{% endif %}>Connect</a>
         </div>
         <!-- Theme Toggle Button -->
         <button
