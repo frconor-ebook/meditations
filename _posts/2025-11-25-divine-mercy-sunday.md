@@ -1,0 +1,188 @@
+---
+layout: homily
+title: "Divine Mercy Sunday"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"According to the promise he made to our ancestors of his mercy to Abraham and to his descendants forever. His mercy is from generation to generation" (Luke 1:55,50).
+
+Our Lady speaks frequently of the mercy of God. In between the First and Second World Wars, Christ entrusted His message of mercy to St. Faustina, a humble daughter of Poland, who has been linked very much with the whole history of the 20th century.
+
+History tells us of the great sufferings caused to millions of people around that time, who knew well how necessary that message of the mercy of God was.
+
+In April 1978, the Holy See permitted the spread of this devotion all over the world. The one primarily responsible for the Holy See approving the authenticity of those apparitions was none other than Cardinal Wojtyla, the Cardinal Archbishop of Krakow, who, later that year, was to become Pope John Paul II.
+
+In 1981, he said that his destined role was to bring the era of Divine Mercy into the world. Interestingly, he died on the eve of the Feast of Divine Mercy, the second Sunday after Easter.
+
+Right from the beginning, he said: "Of my ministry in St. Peter\'s See in Rome, I consider this message my special task. Providence has assigned it to me in the present situation of man, the Church, and the world" (Pope John Paul II, *Homily*, Nov. 22, 1981).
+
+And so, one of the key themes of the pontificate of Pope John Paul II was mercy. One of his earliest encyclicals was called *Dives in Misericordia--*"*Rich in Mercy*."
+
+In February 1931, Sister Faustina saw Jesus dressed in a white garment. "He held one hand raised in blessing and the other hand was touching his garment at the chest. From that point on, his garment, two rays of light emanated from there, one red and one pale" (*Divine Mercy in My Soul, Diary of Saint Maria Faustina Kowalska,* 1981).
+
+Jesus said to Sister Faustina, "St. Faustina, paint a picture according to the vision you see, and with the signature: 'Jesus, I Trust in You.' I desire that this picture be venerated first in your chapel and then throughout the whole world."
+
+Later, Jesus explained, "The rays represent the Blood and Water which gushed forth from the depths of my Mercy when my agonizing heart was pierced on the cross. The pale rays symbolize the Water, which cleanses and purifies the world; the red rays represent the Blood, which gives new life to the soul."
+
+Jesus said, "The greater the sinner, the greater the mercy. Summon all those to confidence in the incomprehensible depth of my mercy, for I desire to save all. The well of mercy was opened wide with a lance on the cross for all souls. I do not exclude anyone. Tell ailing mankind to draw close to my merciful heart, and I will fill them with peace. Mankind will not find consolation until it turns with confidence to my mercy and love."
+
+Our Lord asked Sister Faustina that the Sunday after Easter be celebrated as the Feast of Mercy, and be preceded by a novena beginning on Good Friday. He promised that those who go to Confession and Communion on that day will obtain a complete remission of all sin and all punishment.
+
+Our attitude should be one of total trust in Our Lord\'s Divine Mercy. Jesus said, "Let no soul fear to come to me even if its sins be as scarlet. This feast emerged from the bosom of my mercy and is founded in the depth of my mercy."
+
+The Feast of Divine Mercy reminds us also of the many parables taught by Our Lord emphasizing God\'s mercy. God is a shepherd who leaves the ninety-nine sheep to go in search of the lost one (Matt. 18:12-14).
+
+Often we think this is the basic attitude of any shepherd. But I heard somebody who, in the mountains somewhere in Europe, met a shepherd one time and stopped and asked him: "You know if you lose one of your lambs or one of your sheep and you have a whole pile of others, do you leave the ninety-nine to go after the one?"
+
+He said, "No sir, I still have ninety-nine, no point in going after the one when I have ninety-nine." This attitude seemed to be the complete opposite of what Our Lord was speaking about in the Gospel of what He does as the Good Shepherd.
+
+We\'re also told that God is like a woman who searches the entire house to find the coin she lost (Luke 15:8-9). He\'s like a father who comes out of the house to welcome back his prodigal son, and he comes out of the house a second time to entice the elder son to come in and join the party (Luke 15:20-32).
+
+It\'s as though God has thrown a party during which we can receive God\'s infinite mercy. Christ invites us to go to the party and to receive that mercy.
+
+Maria Goretti was born in 1890 in Italy, the daughter of Luigi and Assunta Goretti. Nine years later, in 1899, her father Luigi began to work for a Count farmer south of Rome and made a deal with Mr. Serenelli that his family would share the same house with the Serenelli family, also laborers from the same farmer.
+
+Maria\'s father Luigi died of malaria. In June 1902, Mr. Serenelli\'s son, Alessandro, began to cause trouble for Maria. He began to boss her around and to make advances towards her, which she shrugged off. Her big mistake was that she did not tell her mother because she didn\'t want to cause trouble.
+
+The following month, on July 5th 1902, he decided that he would be denied no longer. Alessandro, aged twenty, motioned her towards the bedroom but she refused, shouting: "No! It is a sin! God does not want it!" He stabbed her fourteen times.
+
+While being taken to the hospital in Nettuno on a horse-drawn ambulance she told everything. In that hospital she underwent twenty hours of surgery without anesthesia. During that time, she forgave Alessandro and prayed for him.
+
+On the following day, July 6th, she died. She wasn\'t yet twelve years old. Alessandro was sentenced to thirty years hard labor.
+
+After six years in prison, he was near despair. One night in 1910, Maria appeared to him in his cell. She smiled and was surrounded by lilies, the symbol of purity. This was a turning point in Alessandro\'s life and he regained his peace.
+
+His first deed after release from prison was to visit Maria\'s mother and ask pardon. He accompanied her to Christmas Mass in the parish church where he spoke before the congregation, acknowledging his sin and asking forgiveness from God and the community. He took up work in a Capuchin monastery as the gardener.
+
+In 1947, Maria Goretti was beatified. Her mother and murderer were present. In June 1950, Pope Pius XII canonized Maria Goretti, declaring her to be a saint and martyr. Her mother was present and a huge crowd of up to half a million people. It was the first time in history that a mother was present at the canonization of her child.
+
+In May 1970, Alessandro died. He had left the following letter dated May 1961, in which he said, "I am nearly 80 years old. I'm about to depart.
+
+"Looking back at my past, I can see that in my early youth, I chose a bad path which led me to ruin myself. My behavior was influenced by print, mass media, and bad examples, which are followed by the majority of young people without even thinking. And I did the same. I was not worried.
+
+"There were a lot of generous and devoted people who surrounded me, but I paid no attention to them because a violent force blinded me and pushed me toward a wrong way of life.
+
+"When I was 20 years old, I committed a crime of passion. Now that memory represents something horrible for me.
+
+"Maria Goretti, now a Saint, was my good Angel, sent to me through Providence to guide and save me. I still have impressed upon my heart her words of rebuke and of pardon. She prayed for me, she interceded for her murderer. Thirty years of prison followed. If I had been of age, I would have spent all my life in prison. I accepted to be condemned because it was my own fault.
+
+"Little Maria was really my light, my protectress; with her help I behaved well during the 27 years of prison and tried to live honestly when I was again accepted among the members of society.
+
+The Capuchin brothers welcomed me with angelic charity into their monastery as a brother, not as a servant. I have been living with their community for 24 years, and now I am serenely waiting to witness the vision of God, to hug my loved ones again, and to be next to my Guardian Angel and her dear mother, Assunta.
+
+"I hope this letter that I wrote can teach others the happy lesson of avoiding all evil and of always following the right path. like little children. I feel that religion with its precepts is not something we can live without, but rather it is a real comfort, the real strength in life, and the only safe way in every circumstance, even the most painful ones in life." The letter was signed, Alessandro Serenelli.
+
+There are many stories of people who have converted to the Catholic faith, and also of people who have come back to the Catholic faith, often having been away for long periods. One theme that comes back over and over again is the experience of God\'s mercy through the sacrament of Confession.
+
+There is one story that took place a long time ago in France during the years following the French Revolution. It was about an old man who walked with a limp. He had been a respected soldier in Napoleon\'s army, but battle wounds had ended his promising career. He traveled from village to village, begging, which he hated to do.
+
+He arrived in a village in western France one evening and made his way to the steps of the church. He was willing to take coins from churchgoers, but he despised them all the same for believing in a God who could have omitted the terrible crimes that he had witnessed.
+
+The next morning, the priest found the beggar huddled on the steps in a worn-out blanket, and after Mass, invited him to come to his house for breakfast. The beggar felt repulsed, as he always did when taking charity. But hunger and the kindness on the priest\'s face made him accept. The stranger stayed there for several days.
+
+The priest\'s kindness never waned. The beggar had never been loved so much, so selflessly, and he had never felt so miserable. Finally, the beggar asked for Confession and one of his sins stood out from all the rest.
+
+He had been the most trusted servant of an aristocratic family. The head of that family had unsuccessfully rebelled against the revolution. His wife and six children entrusted their lives and fortunes to the servant.
+
+But for a pouch of gold coins, he betrayed his master\'s wife and children and watched them go one by one to the guillotine. Only the youngest child somehow escaped, and no one had seen him since.
+
+With tears of shame, the stranger, the beggar, finished his Confession. The priest gave him absolution, raised him up and embraced him. As the beggar\'s eyes lifted, he saw a portrait on the wall behind---the portrait of the family he had betrayed to their deaths. Shocked, he pulled back from the priest.
+
+"Who are you?" he asked. "Where did you get that painting?" The priest smiled. "I am the youngest son, my friend, and I forgive you."
+
+One of our greatest treasures as Catholics is the revelation of Christ, a revelation of God\'s boundless mercy, the only force strong enough to penetrate the walls of pain, anger, fear, and resentment that we may have built around our hearts.
+
+Sin of any kind, big or little, eventually causes misery. It separates us from God. Misery is doing things that are wrong. Happiness is doing things that are right.
+
+This is why the Ten Commandments are a great help in helping us to be happy, by teaching us what is right. Without God, it\'s impossible for us to live a meaningful life. That\'s one of the reasons why God\'s mercy is so crucial.
+
+Maria was a poor widow who lived in a Brazilian village with her 15-year-old daughter, Christina. For years, they survived on Maria\'s humble salary. But then her beautiful, joyful daughter wanted to find a job too. She dreamed about an exciting life in the big city, even though her mother tried to convince her that a poor, uneducated young girl would only find trouble there.
+
+One morning, Maria awoke to find her daughter\'s bed empty. Maria knew immediately where her daughter had gone and set out to find her. On her way to the bus stop, she went into a photographic shop, the drugstore, and spent all she could on pictures of herself. With her purse full of small black-and-white photos, she boarded the next bus to Rio de Janeiro.
+
+Maria knew that Christina had no way of earning money, but was too stubborn to give up. When pride meets hunger, a human will do things that before were unthinkable.
+
+Maria began her search through bars, hotels, nightclubs, and other places with a reputation for streetwalkers.
+
+At each place, she left her picture---taped to a hotel bulletin board, fastened to a corner phone booth. And on the back of each photo, she wrote a note. Soon, Maria\'s money and photos ran out, so she took the bus back to her small village.
+
+A month later, Christina descended the stairway of a cheap hotel. Her face was tired. Her formerly joyful eyes now spoke of pain and fear. Her dream had become a nightmare. She felt hopeless, trapped, ashamed, and wanted to go home. But the little village was, in many ways, too far.
+
+When she reached the bottom of the stairs, her eyes noticed a familiar face. She looked again, and taped on the lobby mirror was a small picture of her mother. Her eyes burned and her throat tightened as she walked across the room and removed the small photo.
+
+Written on the back was the compelling invitation: "Whatever you have done, whatever you have become, it doesn\'t matter. Please come home." And so, she did.
+
+Christ is God\'s picture taped to a Roman cross, inviting us to come home, so that He can save us from the destructive power of sin.
+
+In 1981, John Paul II was shot four times by a Turkish national in St. Peter\'s Square. The Pope was badly injured by the bullets. I heard a surgeon who was in the operating room that evening saying that it was the considered opinion of all the surgeons in the operating room that the Pope should have died in the ambulance.
+
+He underwent a five-hour surgery. In spite of the physical injuries as a consequence of the attack, the Pope decided to forgive, and to meet his attacker in an Italian prison cell in 1983, where he forgave him for what he had done.
+
+The papal spokesman later said that Ali Ağca, the would-be assassin, did not ask for forgiveness, but the Pope forgave him anyway.
+
+All of us have made mistakes in the past. We\'ve all been hurt by someone in the past. But forgiveness is one of the most powerful, liberating human experiences.
+
+At the same time, it can be one of the most difficult acts to offer. St. Peter asked Our Lord, "How many times do I need to forgive my transgressor?" Our Lord said, "Seventy times seven" (Matt. 18:21-22). In other words, always.
+
+There is no limit to the amount of forgiveness that we have to be willing to give. John Paul liked to say that mercy is another word for love (John Paul II, *Dives in Misericordia*, Point 7).
+
+We receive mercy in Confession, when we become the prodigal son going back to ask for the forgiveness from Our Father (Luke 15:11-32).
+
+"How very insistent," we\'re told in *The Forge*, "the Apostle St. John was in preaching the new commandment that we should love one another! I would fall on my knees, without putting on any act---but this is what my heart dictates---and ask you, for the love of God, to love one another, to help one another, to lend one another a hand, to know how to forgive one another. And so, reject all pride, be compassionate, show charity, help each other with prayer, and sincere friendship" (Josemaría Escrivá, *The Forge*, Point 454).
+
+In *The Way*, we're told, "Charity does not consist so much in 'giving' as in 'understanding.' Therefore, seek an excuse for your neighbor---there\'s always one to be found---if it is your duty to judge" (J. Escrivá, *The Way*, Point 463).
+
+We can find an excuse for our neighbor when we think: Well, maybe they\'re not well. Or, They didn\'t mean what they said, or, They didn\'t know what they were doing.
+
+These are the words that Our Lord said from the Cross: "Father, forgive them, for they do not know what they are doing" (Luke 23:34).
+
+Our Lord was able to look beyond righteous anger and contempt for His killers. He looked into their hearts. God reads the heart. He reads the heart of each one of us.
+
+We\'re told in *The Forge*, "Practice a cheerful charity which is at once kindly and firm; human and at the same time supernatural. It should be an affectionate charity, knowing how to welcome everyone with a sincere and habitual smile, and how to understand the ideas and the feelings of others. ---In this way, with gentleness and strength, and without concessions in matters of personal morals or in doctrine, the charity of Christ---when it is being well-lived---will give you a spirit of conquest. Each day you will have a greater desire to work for souls" (J. Escrivá, *The Forge*, Point 282).
+
+Nelson Mandela spent twenty-seven years confined in a prison cell on Robben Island, in Pollsmoor Prison, for fighting apartheid, racial discrimination in South Africa. We\'ve all been tempted, time and again, to react negatively to the wrongs and injustices inflicted upon us by others.
+
+Mandela was released on February 11, 1990. Soon after his release, he began advocating reconciliation and political dialogue with the opposition.
+
+Which of us hasn\'t been in a traffic situation where we\'re cut off, or a situation where we\'re discriminated against in one way or another? We\'ve all experienced a rude person or an annoying personality.
+
+Mandela received the Nobel Prize in 1993 and became the first black president of South Africa. In an act of goodwill, he invited the guards of his prison to his inauguration ceremony on May 10, 1994.
+
+In showing mercy to others, Christ is our example, an example of patience. He carried the Cross, a symbol of injustice and death. And, like Christ, we must also carry our cross patiently, in a world that\'s often unfair, indifferent, violent, and rude.
+
+Many occasions may present themselves on a daily basis for us to be merciful with others, to be patient, to be understanding, to allow them to go before us. It\'s part of manners, part of charity.
+
+Our Lord invites us to pray for those who discourage us. He has said, "Blessed are the peacemakers" (Matt. 5:9). We\'re not just peacekeepers---we\'re peacemakers, praying for those who put us down, "and then we will be called children of God," says St. Paul (*cf*. Phil. 2:15). Pray for those who do us violence. Pray for those who are unfair to us.
+
+It\'s particularly interesting to try and practice the works of mercy within the family. T. S. Eliot says, "By far the most important channel of transmission of culture remains the family, and when family life fails to play its part, we must expect our culture to deteriorate" (T. S. Eliot, *Notes toward the Definition of Culture).*
+
+The lessons of mercy are lessons, like so many other lessons, that children have to learn at home. The school only puts the icing on the cake. The cake is baked at home.
+
+It\'s very interesting for parents to make use of situations where they can instill or teach this virtue of mercy to their children, so that they learn how to put that into practice in the bigger areas of society.
+
+"Blessed are the merciful," we\'re told, "for they shall obtain mercy" (Matt. 5:7). Our Lord invites us to bear wrongs patiently. Reactions of impatience, of anger, of negativity, of revenge, are all reactions deeply ingrained in human nature, in wounded human nature, as a consequence of original sin---the reactions against which we have to try and be on our guard, and impose those reactions of charity that Our Lord invites us to practice, so that we can truly be sons of Our loving Father in heaven.
+
+God\'s mercy is greater than His justice and He\'s given us the great sacrament of mercy---Confession---a key part of our apostolate, to bring souls to experience the mercy of God.
+
+John Paul II, in the "Splendor of Truth," a marvelous encyclical that he wrote, talks about Mary as the Mother of Mercy. "Mary is the Mother of Mercy," he says, "because her Son, Jesus Christ, was sent by the Father as the revelation of God\'s mercy (*cf*. John 3:16-18). Christ came not to condemn but to forgive, to show mercy (*cf*. Matt. 9:13).
+
+"The greatest mercy of all is found in his being in our midst and calling us to meet him and to confess, with Peter, that he is 'the Son of the living God' (Matt. 16:16). No human sin can erase the mercy of God, or prevent him from unleashing all his triumphant power, if only we call upon him. ...
+
+"Mary is also the Mother of Mercy because it is to her that Jesus entrusts his Church and all humanity. At the foot of the Cross, when she accepts John as her son, when she asks, together with Christ, forgiveness from the Father for those who do not know what they are doing (*cf*. Luke 23:34), Mary experiences\...the universality of God\'s love, which opens her heart and enables her to embrace the entire human race. Thus Mary becomes Mother of each and every one of us" and she becomes "the radiant sign and inviting model of the moral life."
+
+Mary, may you help us to proclaim the mercy of God just like you did "according to the promise he made to our ancestors of his mercy to Abraham and to his descendants forever. His mercy is from generation to generation" (Luke 1:55,50).
+
+Mary, Mother of Mercy, pray for us.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*OLV*
