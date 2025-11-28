@@ -28,6 +28,17 @@
 /* ===================================
    Dark Mode Theme Variables
    =================================== */
+/* ===================================
+   Text Size Variables
+   =================================== */
+:root {
+  --text-scale: 1;
+}
+
+[data-text-size="large"] {
+  --text-scale: 1.125;
+}
+
 [data-theme="dark"] {
   /* Backgrounds */
   --bg-cream: #0f1419;              /* Very dark blue-gray - main background */
@@ -63,7 +74,7 @@ html, body {
 
 body {
   font-family: 'Crimson Text', Georgia, serif;
-  font-size: 18px;
+  font-size: calc(18px * var(--text-scale));
   line-height: 1.6;
   margin: 0;
   padding: 0;
@@ -130,7 +141,10 @@ nav {
   justify-self: center;
 }
 
-.theme-toggle {
+.header-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
   justify-self: end;
 }
 
@@ -312,7 +326,7 @@ main ul li a {
    =================================== */
 @media (min-width: 768px) {
   body {
-    font-size: 19px;
+    font-size: calc(19px * var(--text-scale));
   }
 
   h1 {
@@ -326,7 +340,7 @@ main ul li a {
 
 @media (min-width: 1024px) {
   body {
-    font-size: 20px;
+    font-size: calc(20px * var(--text-scale));
   }
 
   h1 {
@@ -374,7 +388,6 @@ nav a,
   justify-content: center;
   transition: all 0.3s ease;
   padding: 0;
-  margin-left: 15px;
 }
 
 .theme-toggle:hover {
@@ -422,6 +435,50 @@ nav a,
 }
 
 /* ===================================
+   Text Size Toggle Buttons
+   =================================== */
+.text-size-toggle {
+  display: flex;
+  gap: 4px;
+  margin-left: 10px;
+}
+
+.text-size-toggle button {
+  background: transparent;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-radius: 6px;
+  color: var(--text-light);
+  font-family: 'Lato', Arial, sans-serif;
+  font-size: 0.85rem;
+  font-weight: 700;
+  padding: 4px 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  min-width: 32px;
+}
+
+.text-size-toggle button:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+.text-size-toggle button:focus {
+  outline: 2px solid var(--primary-accent);
+  outline-offset: 2px;
+}
+
+.text-size-toggle button.active {
+  background: var(--primary-accent);
+  border-color: var(--primary-accent);
+  color: var(--primary-dark);
+}
+
+.text-size-toggle button.active:hover {
+  background: var(--primary-accent);
+  border-color: var(--primary-accent);
+}
+
+/* ===================================
    Accessibility - Screen Reader Only
    =================================== */
 .sr-only {
@@ -440,15 +497,28 @@ nav a,
    Mobile Adjustments for Theme Toggle
    =================================== */
 @media screen and (max-width: 768px) {
+  .header-controls {
+    gap: 6px;
+  }
+
   .theme-toggle {
     width: 32px;
     height: 32px;
-    margin-left: 8px;
   }
 
   .theme-toggle svg {
     width: 18px;
     height: 18px;
+  }
+
+  .text-size-toggle {
+    gap: 3px;
+  }
+
+  .text-size-toggle button {
+    font-size: 0.75rem;
+    padding: 3px 6px;
+    min-width: 28px;
   }
 }
 
