@@ -33,6 +33,11 @@ def main():
     args = parser.parse_args()
 
     load_dotenv()
+
+    # Suppress "Both GOOGLE_API_KEY and GEMINI_API_KEY are set" warning from genai
+    if os.getenv("GOOGLE_API_KEY") and os.getenv("GEMINI_API_KEY"):
+        del os.environ["GOOGLE_API_KEY"]
+
     gemini_api_key = os.getenv("GEMINI_API_KEY")
     tinyurl_api_token = os.getenv("TINYURL_API_TOKEN")
 
