@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import time
 from datetime import datetime
 from typing import List, Tuple
 
@@ -10,6 +11,9 @@ from google import genai
 from google.genai import types
 from openpyxl import Workbook
 from openpyxl.styles import Font
+
+# Rate limiting: Gemini API has a quota of 10 requests per minute
+GEMINI_RATE_LIMIT_DELAY = 7  # seconds between requests
 
 
 # --- TinyURL Functions ---
@@ -83,10 +87,15 @@ def shorten_with_gemini(text: str, api_key: str, max_length: int = 15) -> str:
         # Remove special characters and convert to lowercase
         shortened_text = re.sub(r"[^a-z\s]", "", shortened_text.lower())
 
+        # Rate limiting delay to avoid hitting Gemini API quota
+        time.sleep(GEMINI_RATE_LIMIT_DELAY)
+
         return shortened_text
 
     except Exception as e:
         print(f"Error shortening with Gemini: {e}")
+        # Still apply delay on error to avoid rapid retries
+        time.sleep(GEMINI_RATE_LIMIT_DELAY)
         return None
 
 
