@@ -13,9 +13,9 @@ By Fr. Conor Donnelly
 
 "When he went into Capharnaum, a centurion came up and pleaded with him. 'Sir,' he said, 'my servant is lying at home paralyzed and in great pain.' Jesus said to him, 'I will come myself and cure him.'
 
-\"The centurion replied, 'Sir, I am not worthy to have you under my roof; just give the word and my servant will be cured. For I am under authority myself and have soldiers under me; and I say to one man: "Go," and he goes; to another: "Come here," and he comes; to my servant: "Do this," and he does it.'
+"The centurion replied, 'Sir, I am not worthy to have you under my roof; just give the word and my servant will be cured. For I am under authority myself and have soldiers under me; and I say to one man: "Go," and he goes; to another: "Come here," and he comes; to my servant: "Do this," and he does it.'
 
-\"When Jesus heard this he was astonished and said to those following him, 'In truth, I tell you, in no one in Israel have I found faith as great as this. And I tell you that many will come from east and west and sit down with Abraham and Isaac and Jacob at the feast in the kingdom of heaven'\" (Matt. 8:5-11).
+"When Jesus heard this he was astonished and said to those following him, 'In truth, I tell you, in no one in Israel have I found faith as great as this. And I tell you that many will come from east and west and sit down with Abraham and Isaac and Jacob at the feast in the kingdom of heaven'" (Matt. 8:5-11).
 
 There is a certain joy that is associated with Advent. There is a joy in receiving Our Lord in Holy Communion.
 
@@ -27,9 +27,9 @@ It is inevitable that along with this joy, we should feel progressively more unw
 
 If we are able to receive, it is because He wishes to remain in the species of bread and wine precisely to serve as food; and so He gives strength to the undernourished and the infirm.
 
-He is not there as a reward for the strong, but as a remedy for the weak---and we\'re all weak and to some degree ailing.
+He is not there as a reward for the strong, but as a remedy for the weak---and we're all weak and to some degree ailing.
 
-However, thorough our preparation, it will appear to us insufficient and in no way adequate for the reception of Jesus in the Blessed Sacrament.
+However thorough our preparation, it will appear to us insufficient and in no way adequate for the reception of Jesus in the Blessed Sacrament.
 
 St. John Chrysostom preached in such terms so that those who heard him might dispose themselves worthily to receive Holy Communion. "Is it not ridiculous," he asks, "to be so meticulous about bodily things when the feast draws near, as to get out and prepare your best clothes days ahead..., and to deck yourself in your very finest, all the while paying not the slightest attention to your soul, which is abandoned, besmirched, squalid, and utterly consumed by desire?" (St. John Chrysostom, *Homily 6*).
 
@@ -43,11 +43,11 @@ Whoever makes no proper preparation, whoever makes no effort to avoid or dispel 
 
 To go to Communion with our imagination focused on distractions and our mind preoccupied with other thoughts is a recipe for dropping our spiritual temperature. To be lukewarm is to give no importance to the sacrament we are receiving.
 
-The worthy reception of Our Lord\'s Body will always be an opportunity to set ourselves aflame with love.
+The worthy reception of Our Lord's Body will always be an opportunity to set ourselves aflame with love.
 
-That is why we should always try to take very good care of our *Thanksgiving after Mass*, the most important moments of the day, so that we remind ourselves on a daily basis of the importance of Who it is that we have received.
+That is why we should always try to take very good care of our *Thanksgiving after Mass*, the most important moments of the day, so that we remind ourselves on a daily basis of the importance of who it is that we have received.
 
-"There might be some who say: 'Well, that's exactly why I don\'t go to Communion more often, because I realize my love is cold.'
+"There might be some who say: 'Well, that's exactly why I don't go to Communion more often, because I realize my love is cold.'
 
 "But if you are cold, is it sensible to move away from the fire? Precisely because you feel your heart frozen, you should go more frequently to Holy Communion, provided you feel a sincere desire to love Jesus Christ. 'Go to Holy Communion,' says St. Bonaventure, 'even when you feel lukewarm, leaving everything in God's hands. The more my sickness debilitates me, the more urgently do I need a doctor'" (Alphonsus Liguori, *The Practice of the Love of Jesus*).
 
@@ -61,11 +61,11 @@ We could think about the means and on the thoughtful interest we take in our pre
 
 The centurion said, "Lord, I am not worthy\..." That man could not have had the faintest idea of how God was going to use his words, those little seeds, and place them on the lips of every Catholic, for all time, at all Masses all over the world.
 
-It\'s a reminder to us of humility at the time of receiving Holy Communion, humility at the time of getting ready to receive Our Lord, so that we imitate that centurion.
+It's a reminder to us of humility at the time of receiving Holy Communion, humility at the time of getting ready to receive Our Lord, so that we imitate that centurion.
 
 Those words have been included in the Liturgy of the Mass ever since the earliest centuries of Christianity, and Christians have always used them as the immediate preparation for Communion.
 
-The leading Jews of the town had asked Jesus to relieve the suffering of this non-Jew, this foreigner, by curing a very dear servant of his, who was at the point of death (Luke 7:1-10). The reason they wanted help for him was that this well-disposed stranger had built a synagogue for them, and he donated money---money that was needed to have it built.
+The leading Jews of the town had asked Jesus to relieve the suffering of this non-Jew, this foreigner, by curing a very dear servant of his, who was at the point of death (Matt. 8:5-13). The reason they wanted help for him was that this well-disposed stranger had built a synagogue for them, and he donated money---money that was needed to have it built.
 
 He was a man with a real social conscience. You can see how, because the servant was dear to him, he took very good care of his employees, he loved them, he went the extra mile, he reached out for them. He was like a model employer for all Christians down through history.
 
@@ -77,17 +77,17 @@ Very interesting words to teach our children to say as they prepare to make thei
 
 One word from Christ cures, purifies, comforts, fills with hope. This can be the power of our regular Communions.
 
-The centurion is a man of deep humility. He\'s generous, he\'s compassionate, with a high regard for Jesus. Since he is a Gentile, he doesn\'t presume to go himself to Our Lord, but sends others whom he considers more worthy, that they may intercede for him.
+The centurion is a man of deep humility. He's generous, he's compassionate, with a high regard for Jesus. Since he is a Gentile, he doesn't presume to go himself to Our Lord, but sends others whom he considers more worthy, that they may intercede for him.
 
 "Humility," comments St. Augustine, "was the door by which Our Lord entered to take possession of what was already his own" (St. Augustine, *Sermon 6*).
 
-Faith, humility, and refinement are united in this man\'s soul.
+Faith, humility, and refinement are united in this man's soul.
 
 These are very interesting virtues for us to cultivate and to ask for as we prepare to receive the Christ Child, virtues to request as we prepare every day to receive Our Lord in Holy Communion.
 
-And because this man was a man of such faith and such humility and such refinement, that\'s why the Church commends his example to us and uses his words as a preparation for receiving Jesus when He comes to us in Holy Communion.
+And because this man was a man of such faith and such humility and such refinement, that's why the Church commends his example to us and uses his words as a preparation for receiving Jesus when He comes to us in Holy Communion.
 
-We could also tell Our Lord, "We\'re not worthy to receive you into our crib, into our home, into our family, into our workplace these days."
+We could also tell Our Lord, "We're not worthy to receive you into our crib, into our home, into our family, into our workplace these days."
 
 The Church not only invites us to repeat his words but also invites us to imitate his dispositions of faith, of humility, and refinement.
 
@@ -99,17 +99,17 @@ We try to do it always, but at this time of year, we make a special effort to be
 
 We can tell Jesus that we want "to accept his unmerited and unique visit, repeated all over the world, which is made even to us, to each one of us" (Paul VI, *Homily*, May 25, 1967).
 
-And if we\'re receiving Holy Communion regularly, don\'t others around us---who don\'t share our faith or don\'t have the graces that we have---have somehow a right to see extraordinary virtue in our life, extraordinary charity, patience, kindness?
+And if we're receiving Holy Communion regularly, don't others around us---who don't share our faith or don't have the graces that we have---have somehow a right to see extraordinary virtue in our life, extraordinary charity, patience, kindness?
 
-We can\'t be just the same as everybody else. We have to be different and called to make an impact on our environment. People have to see there\'s something different about us because we receive the Blessed Eucharist in a regular way.
+We can't be just the same as everybody else. We have to be different and called to make an impact on our environment. People have to see there's something different about us because we receive the Blessed Eucharist in a regular way.
 
 We can tell Our Lord that we also feel amazed and unworthy at such a response to our asking. "But we also feel happy---and happy too at what he has granted to us and to the world. We also want to tell him that such a great marvel does not leave us indifferent and unmoved" (*ibid*.).
 
-We want to be moved by His real presence in the Blessed Sacrament, and also by His presence in Bethlehem. We don\'t want these events to leave us with a tenuous and wavering faith.
+We want to be moved by His real presence in the Blessed Sacrament, and also by His presence in Bethlehem. We don't want these events to leave us with a tenuous and wavering faith.
 
 We want, Lord, that all of these realities will arouse in our hearts "such a warmth of enthusiasm. That warmth and that enthusiasm will never cease to burn in the hearts of those who truly believe" (*ibid*.).
 
-This Roman officer in Capharnaum was doubly united to the Sacrament of the Eucharist.
+This Roman officer in Capharnaum was doubly united to the sacrament of the Eucharist.
 
 First, obviously, through his words, which the priest and faithful say every day before Communion in the Mass---in all places, in all Masses, in all continents, all through history.
 
@@ -119,37 +119,37 @@ St. John adds that: "This he said in the synagogue, as he taught in Capharnaum" 
 
 This is the discourse of the Bread of Life that has come to mean so much to us.
 
-We could ask Our Lord that we might take greater care of our preparation of our soul and also of our body to receive the Sacrament fruitfully, first and foremost with frequent Confession.
+We could ask Our Lord that we might take greater care of our preparation of our soul, and also of our body, to receive the sacrament fruitfully, first and foremost with frequent Confession.
 
-I was asked today: "But isn\'t going to Confession frequently an abuse of the sacrament, as though the previous receptions were not effective?"
+I was asked today: "But isn't going to Confession frequently an abuse of the sacrament, as though the previous receptions were not effective?"
 
-Not quite, because in the sacrament we receive grace. We can repeat our contrition for sins of the past. It\'s an act of humility.
+Not quite, because in the sacrament we receive grace. We can repeat our contrition for sins of the past. It's an act of humility.
 
-St. Josemaría used to say it\'s a sacrament of growth. We go frequently to receive the Sacrament to grow in grace, to improve.
+St. Josemaría used to say it's a sacrament of growth. We go frequently to receive the sacrament to grow in grace, to improve.
 
-When we see our miseries, our experiences, and our failures, to a greater degree we realize how much we need the grace of God, so we go running to receive the sacrament, that sacrament of joy.
+When we see our miseries or experience our failures to a greater degree, we realize how much we need the grace of God, so we go running to receive the sacrament, that sacrament of joy.
 
-That\'s why the Church and all the saints down through history have all recommended the frequent reception of the sacrament of Confession. If we receive the sacrament of Confession frequently, that helps us to prepare ourselves to make sure that we receive Him in the state of grace.
+That's why the Church and all the saints down through history have all recommended the frequent reception of the sacrament of Confession. If we receive the sacrament of Confession frequently, that helps us to prepare ourselves to make sure that we receive Him in the state of grace.
 
 To receive Our Lord in a state of mortal sin is a sacrilege. It is one of the worst possible sins we could commit.
 
 We could try to atone to Our Lord with our Communions, to make up to Him for all the sacrilegious Communions that may be committed today throughout the world.
 
-We shouldn\'t go to receive Communion if we have a well-founded doubt of whether we have committed a serious sin in thought, word, or action. A scrupulous person should be able to swear on the Bible: "I definitely committed a mortal sin."
+We shouldn't go to receive Communion if we have a well-founded doubt of whether we have committed a serious sin in thought, word, or action. A scrupulous person should be able to swear on the Bible: "I definitely committed a mortal sin."
 
-"Whoever eats the bread or drinks the cup of the Lord in an unworthy manner," we\'re told by St. Paul, "will be guilty of profaning the body and blood of the Lord" (1 Cor. 11:27).
+"Whoever eats the bread or drinks the cup of the Lord in an unworthy manner," we're told by St. Paul, "will be guilty of profaning the body and blood of the Lord" (1 Cor. 11:27).
 
 St. Paul says, "Let a man examine himself, and so eat of the bread and drink of the cup. For anyone who eats and drinks without discerning the body of the Lord eats and drinks judgment upon himself" (1 Cor. 11:28-29).
 
-"The person who freely receives Communion has to be reminded of the command: 'May each one examine himself,' says St. Paul. The practice of the Church has always been that an examination is necessary so that we\'re not conscious of any mortal sin, however contrite we might believe ourselves to be, so that we may approach Holy Communion having previously prepared ourselves in sacramental Confession.
+"The person who freely receives Communion has to be reminded of the command: 'May each one examine himself,' says St. Paul. The practice of the Church has always been that an examination is necessary so that we're not conscious of any mortal sin, however contrite we might believe ourselves to be, so that we may approach Holy Communion having previously prepared ourselves in sacramental Confession" (*cf*. Paul VI and the Sacred Congregation of Rites, *Instruction*, *Eucharisticum Mysterium*, Point 35, May 25, 1967).
 
-"The sacraments, even though they produce their effects, the Church says, *ex opere operato*---by the very fact of receiving them---nevertheless produce a greater effect proportionate to the dispositions of the recipients" (Paul VI, *Eucharisticum Mysterium*, Points 12 and 35, May 25, 1967).
+"The sacraments, even though they produce their effect," the Church says, "*ex opere operato*---by the very fact of receiving them---nevertheless produce a greater effect proportionate to the dispositions of the recipients" (Pius X, *Decree*, *Sacra Tridentina*, Point 4, December 20, 1905).
 
 The greater and the better the dispositions of the recipients of Communion, the more graces they receive.
 
-It\'s a very good practice to have a remote preparation for Holy Communion as well as a proximate preparation, maybe the night before or the morning as you journey to the Church to remind yourself Who it is you\'re going to receive.
+It's a very good practice to have a remote preparation for Holy Communion as well as a proximate preparation, maybe the night before or the morning as you journey to the Church to remind yourself who it is you're going to receive.
 
-Or perhaps to take those prayers of St. Thomas Aquinas or St. Bonaventure that you find in Missals and use them as a means of reminding yourself Who it is that you\'re going to receive.
+Or perhaps to take those prayers of St. Thomas Aquinas or St. Bonaventure that you find in Missals and use them as a means of reminding yourself who it is that you're going to receive.
 
 We all need the psychology of repetition, of being reminded, because we forget; we get used to things.
 
@@ -165,15 +165,17 @@ And if we prepare our soul and our body with the desire for purification, if we 
 
 To try to struggle to live constantly in the presence of God throughout the day is also an excellent preparation, as is to struggle to fulfill our daily duties as well as possible.
 
-We offer Our Lord the work of this morning, or this afternoon, or this evening, whether it\'s in our office, or in our hospital, or on the road, or in our home, or in the kitchen, or at our laptop---whatever particular work or homework it is that we're doing---that can also be a very good preparation, because that\'s the work that God wants me to do today. This is the duty that He\'s given to me.
+We offer Our Lord the work of this morning, or this afternoon, or this evening, whether it's in our office, or in our hospital, or on the road, or in our home, or in the kitchen, or at our laptop---whatever particular work or homework it is that we're doing---that can also be a very good preparation, because that's the work that God wants me to do today. This is the duty that He's given to me.
 
 And likewise, having the feeling of the need to make amends to Our Lord for the errors we may have committed, or for the insults that He has to endure, or perhaps for the negative thoughts or criticisms or judgments that may pass through our mind about others. We can atone to Our Lord as a preparation to receive Him more worthily.
 
 We can also try to fill our day with little acts of thanksgiving. Or perhaps with the practice of *Spiritual Communions* recommended by all the saints, to go with our mind and our heart to the tabernacle, to say to Our Lord, "I wish, Lord, to receive you with the purity, humility, and devotion, with which your most Holy Mother received you."
 
-Our Lady\'s journey to Bethlehem might have been full of *Spiritual Communions*, of a greater awareness that she was carrying the Body of Christ. In our *Thanksgiving after Mass*, we could perhaps unite ourselves to Our Lady, who is carrying the Body of Christ as we are in those moments.
+Our Lady's journey to Bethlehem might have been full of *Spiritual Communions*, of a greater awareness that she was carrying the Body of Christ.
 
-In this way, little by little, we form a habit, so that in work or in play, in family life, or in whatever we\'re doing, our hearts will be centered on God.
+In our *Thanksgiving after Mass*, we could perhaps unite ourselves to Our Lady, who is carrying the Body of Christ as we are in those moments.
+
+In this way, little by little, we form a habit, so that in work or in play, in family life, or in whatever we're doing, our hearts will be centered on God.
 
 When St. Josemaría was traveling, perhaps along a highway or passing by some town or village, often he would see a church spire in the distance. He would be reminded that Jesus is present there in the tabernacle.
 
@@ -193,7 +195,7 @@ That love, that concern, that respect, that refinement must have led St. Joseph 
 
 We can ask St. Joseph and also Our Lady to help us to receive every Communion with the purity, the humility, and the devotion with which Our Lady received Him in her most holy womb, with the spirit and fervor of the saints, with the spirit St. Joseph received Him, going out of his way to prepare the place, the environment, the home, the warmth.
 
-And all of that, even though we might feel unworthy or insignificant or tired or fed up or a whole pile of other human sentiments, we can learn how to change those dispositions from St. Joseph and from Our Lady.
+And all of that, even though we ourselves might feel unworthy or insignificant or tired or fed up or a whole pile of other human sentiments, we can learn how to change those dispositions from St. Joseph and from Our Lady.
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 

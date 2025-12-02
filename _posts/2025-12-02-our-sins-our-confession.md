@@ -3,8 +3,6 @@ layout: homily
 title: "Our Sins, Our Confession"
 ---
 
-Our Sins, Our Confession
-
 By Fr. Conor Donnelly
 
 (*Proofread*)

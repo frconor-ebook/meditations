@@ -129,7 +129,7 @@ He recoils away from this suffering in horror and disgust. "Take this chalice aw
 
 But yet Our Lord immediately supernaturalizes that moment: "Yet not my will, but yours be done" (Luke 22:42).
 
-The triumph of the divine will over our own; the battle that's there---Our Lord invites us to embrace God's will unconditionally while we persevere in prayer. 'If this is your will, Lord, then it's my will also.'
+The triumph of the divine will over our own; the battle that's there---Our Lord invites us to embrace God's will unconditionally while we persevere in prayer. "If this is your will, Lord, then it's my will also" (*cf*. J. Escrivá, *ibid.*).
 
 Faith helps us to see things with a higher wisdom. Our Father liked to say, *Dios sabe más*. God knows more. We don't understand His plans.
 
@@ -183,7 +183,7 @@ We know that if we ask Him for bread, He will not give us a stone (Matt. 7:9). H
 
 He may not give us everything that we ask for, but we know He gives us greater things.
 
-When Lazarus died, Martha of Bethany said to Our Lord: "Lord, if you had been here, my brother would not have died" (John 11:21).
+When Lazarus died, \[Martha\] of Bethany said to Our Lord: "Lord, if you had been here, my brother would not have died" (John 11:21).
 
 Jesus didn't cure him, His great friend. That's what they wanted. But He did something better: He brought him back to life (John 11:41-45).
 

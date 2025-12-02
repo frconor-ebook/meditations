@@ -13,7 +13,7 @@ By Fr. Conor Donnelly
 
 "Now his mother and brethren came to him, and they could not get to him because of the crowd. And it was told him, 'Your mother and your brethren are standing outside, wishing to see you.' But he answered and said to them, 'My mother and my brethren are they who hear the word of God and act upon it'" (Luke 8:19-21).
 
-Our Lord gives great importance to the Word of God. Everybody who is to be so-called related to Him has to be someone who hears the Word of God and acts upon it.
+Our Lord gives great importance to the Word of God. Everybody who is to be so-called related to Him has to be someone who "hears the Word of God and acts upon it."
 
 Elsewhere in Scripture, we're told, "Your words, Lord, are spirit, and they are life" (John 6:63). Those are very powerful words: Spirit and Life. We come to the Word of God to find enlightenment, a light for our path, a lampstand, a light that shows us the way in our journey. We come to the Word of God to find peace, joy, and meaning. It's a continual revelation of a mystery.
 
@@ -47,7 +47,7 @@ The Book of Isaiah says, "For just as from the heavens the rain and snow come do
 
 Isaiah speaks of the fruitfulness of the Word of God. Those words that are planted like mustard seeds (Matt. 13:31-32) in our hearts, in our souls, in our minds---they yield an abundant fruit.
 
-For those words that perhaps we transmit to other people in a private conversation, in a talk, in an odd moment with one of your children, we have to embed those words in good soil that over time will yield their abundant fruit, because each one of those words is destined to bring me to "the end for which I sent it" (*cf*. Isa. 55:11).
+For those words that perhaps we transmit to other people in a private conversation, in a talk, in an odd moment with one of your children---we have to embed those words in good soil that over time will yield their abundant fruit, because each one of those words is destined to bring me to "the end for which I sent it" (*cf*. Isa. 55:11).
 
 The Catechism says, "All sacred Scripture is a single book and this book is Christ" (*cf*. *Catechism of the Catholic Church*, Point 134).
 
@@ -59,9 +59,9 @@ I heard a Dutch missionary priest in Singapore one time saying that the Bible is
 
 It's a very important few moments of the day that we reflect on those words for everyday living---*"*Blessed are they who hear the word of God and keep it," we're told (Luke 8:21).
 
-St. Paul to the Hebrews says*, "*The Word of God is living, efficacious, and sharper than any two-edged sword" (Heb. 4:12).
+St. Paul to the Hebrews says*, "*The word of God is living, efficacious, and sharper than any two-edged sword" (Heb. 4:12).
 
-Over the course of our life, of all those days where we have that little dose, as it were, or a shot of the Word of God, when we build up a store of things that are living, efficacious, and sharper, he says, "it penetrates to the very division of soul and spirit, the joints and marrow" (Heb. 4:12). It is able to discern reflections and thoughts of the heart*.*
+Over the course of our life, of all those days where we have that little dose, as it were, or a shot of the Word of God, we build up a store of things that are living, efficacious, and sharper. He says, "It penetrates to the very division of soul and spirit, the joints and marrow. It is able to discern reflections and thoughts of the heart*" (cf. ibid*.).
 
 St. Peter says, "The word for you will be a lamp that shines in a dark place" (2 Pet. 1:19). There could be moments in our lives when we're in a dark place. We might be low, we might be lonely, we might be in pain, morally or physically.
 
@@ -69,7 +69,7 @@ It might seem that nothing is working out too well in our lives or that we've co
 
 But we have that lamp that shines there in that dark place. We can get our encouragement, our hope, our joy from the words of Christ that we find in Scripture.
 
-He says, "It shines in a dark place until the dawn comes and the morning star rises in your hearts" (2 Pet. 1:19).
+He says, "It shines in a dark place until the dawn comes and the morning star rises in your hearts" (*ibid*.).
 
 With the words that are spirit and life, we know that the dawn will come. There's always a new dawn and with it a morning star, a new hope, a new principle of energy, something new to look forward to and to look up to, because those words are spirit and life.
 
@@ -91,7 +91,7 @@ We are all very much in need of building our house on rock: our Christian vocati
 
 All the time, everything we do has to be built on rock, to produce that fruit that will last. We find that rock in those words of Scripture.
 
-In the Book of Jeremiah, confidence is nourished by the joy of feeling loved: "When your words found me," he says, "I devoured them; they became my joy and the happiness of my heart because I bore your name, O Lord, God of hosts" (Jer. 15:16).
+In the Book of Jeremiah, it says that this confidence is nourished by the joy of feeling loved: "When your words found me," he says, "I devoured them; they became my joy and the happiness of my heart because I bore your name, O Lord, God of hosts" (Jer. 15:16).
 
 Many of the saints have encouraged identifying a few little words from Scripture: "Lord, that I may see" (Luke 18:41), or other words that strike us, or little phrases, and repeating them frequently as little aspirations throughout the day.
 
@@ -121,7 +121,7 @@ There may be great things that God wants to accomplish in our implementation of 
 
 Many times in history, I read in a book recently, Europe has encountered all sorts of great difficulties, periods of transformation and crises.
 
-"But," says St. John Paul II, "they've always been overcome by taking new savor from the inexhaustible reserve of the vital energy of the Gospels" (John Paul II, Speech, September 9, 1995).
+"But," says St. John Paul II, "they've always been overcome by taking new savor from the inexhaustible reserve of the vital energy of the Gospels" (John Paul II, *Speech*, September 9, 1995).
 
 The Word of God has built civilizations and changed civilizations.
 
@@ -131,7 +131,7 @@ We can dream great dreams because that's what the early Christians did. When the
 
 St. Paul says to Timothy, "All Scripture is inspired by God and profitable for teaching, for reproof, for correction, and for training in righteousness" (2 Tim. 3:16-17).
 
-Try and help your children, maybe little children, little by little, to be exposed to the Word of God in small doses because, as St. Paul says to the Corinthians: "the letter kills, but the Spirit gives life" (2 Cor. 3:6).
+Try and help your children, maybe little children, little by little, to be exposed to the word of God in small doses because, as St. Paul says to the Corinthians: "the letter kills, but the Spirit gives life" (2 Cor. 3:6).
 
 The Holy Spirit is there behind those words, and He makes Scripture the living Word of God, experienced and handed down in the faith of His holy people.
 
@@ -171,7 +171,7 @@ A lady told me once how we have more exposure to Scripture than any other Christ
 
 But a Catholic who goes to Mass every day has all the choicest parts of Scripture pre-selected and exposed day after day over long periods of time. This is a great treasure.
 
-In the document of the Second Vatican Council on Scripture and Revelation, *Dei verbum*, it says: "It is common knowledge that among all the Scriptures, even those of the New Testament, the Gospels have a special preeminence, and rightly so, for they are the principal witness for the life and teaching of the Incarnate Word, our Savior."
+In the document of the Second Vatican Council on Scripture and Revelation, *Dei verbum*, it says: "It is common knowledge that among all the Scriptures, even those of the New Testament, the Gospels have a special preeminence, and rightly so, for they are the principal witness for the life and teaching of the Incarnate Word, Our Savior."
 
 That's why we stand for the Gospel, and even little children of an early age learn at Mass to stand for the Gospel.
 
@@ -211,13 +211,13 @@ We can turn to Our Lady and ask her help in our apostolate of spreading the know
 
 Archbishop Forte says, "Mary is an icon of fruitful listening to the Word. She teaches us to welcome it, to care for it, and to meditate on it without ceasing. 'Mary, for her part, treasured all these things, meditating on them in her heart' (Luke 2:19).
 
-***"***As a perfect image of the Church, Mary allows herself to be formed by the Word of God: 'Let it be done to me according to your Word' (Luke 1:38). And listening, she makes a gift of love: the Virgin of the Annunciation goes to Elizabeth to help her in her need.
+***"***As a perfect image of the Church, Mary allows herself to be formed by the Word of God: 'Let it be done to me according to your word' (Luke 1:38). And listening, she makes a gift of love: the Virgin of the Annunciation goes to Elizabeth to help her in her need.
 
 "The woman of listening, Mary presents herself in the Visitation as the Mother of love: 'How is it that the mother of my Lord should come to me?' Her voice is the bearer of messianic joy: 'When the voice of your greeting came to my ears, the child in my womb leaped for joy' (Luke 1:43-44).
 
-"Her blessedness," says Archbishop Forte, "is to have heard and believed the Word of the Eternal: 'Blessed is she who believed that the Lord would fulfill his words to her'" (Luke 2:45).
+"Her blessedness," says Archbishop Forte, "is to have heard and believed the Word of the Eternal: 'Blessed is she who believed that the Lord would fulfill his words to her'" (Luke 1:45).
 
-"Creature of the Word, we can ask Our Lady, who intercedes for us in the glory of God, to help us to live as she did in listening to the Word, to welcome the Word of life and bring him to others, in transparency and in the concerns of our everyday life" (*ibid*.).
+"Creature of the Word, we can ask Our Lady, who intercedes for us in the glory of God, to help us to live as she did in listening to the Word, to welcome the Word of life and bring him to others, in transparency and in the concerns of our everyday life" (Bruno Forte, *Pastoral Letter*, January 27, 200.).
 
 Mary, may you help us to learn and experience that His words truly are Spirit, and they are life.
 
