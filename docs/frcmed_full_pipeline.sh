@@ -24,6 +24,9 @@ LOG_FILE=""
 VERBOSE=false
 COMMIT_MESSAGE=""
 
+# Initialize rbenv to use the correct Ruby version
+eval "$(rbenv init -)" 2>/dev/null || true
+
 # Skip flags
 SKIP_DOWNLOAD=false
 SKIP_CONVERT=false
