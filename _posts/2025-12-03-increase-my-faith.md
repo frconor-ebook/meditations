@@ -63,11 +63,11 @@ At times there are periods of purification, but the hand of God is behind it. We
 
 Mary surely follows the divine plans. Lord, help me to see the divine plans in my life that you are at work all the time, doing things.
 
-"She visits her cousin St. Elizabeth and hears directly from her that praise for her faith: 'Blessed are you that have believed'" (Luke 1:45)**.**
+"She visits her cousin St. Elizabeth and hears directly from her that praise for her faith: 'Blessed are you that have believed'"(Luke 1:45)**.**
 
-It's pointed out to us that Elizabeth is the first to praise the faith of Mary. "Our Lady\'s faith has shown itself clearly in her perfect self-giving to God\'s plans\..."
+It's pointed out to us that Elizabeth is the first to praise the faith of Mary. "Our Lady's faith has shown itself clearly in her perfect self-giving to God's plans\..."
 
-Perfect self-giving. "If that\'s what you want, Lord, then it\'s what I want also" (Josemaría Escrivá, *The Way*, Point 762).
+Perfect self-giving. "If that's what you want, Lord, then it's what I want also" (Josemaría Escrivá, *The Way*, Point 762).
 
 I try to be available with faith. I try to obey with faith, fulfill my duties with faith.
 
@@ -75,7 +75,7 @@ In the humdrum activities of each day, God somehow is at work in these moments, 
 
 "...and this is why Our Lady is proclaimed blessed, happy. Fidelity is always based on *fides*, on faith, and it only cracks when that faith is weakened."
 
-Faith can also weaken. We might sometimes feel or think or experience a certain weakening of our faith, and that\'s when we have to cry out with greater strength: 'Increase my faith, my hope, my charity.'
+Faith can also weaken. We might sometimes feel or think or experience a certain weakening of our faith, and that's when we have to cry out with greater strength: 'Increase my faith, my hope, my charity.'
 
 And we know that every time that we receive the sacraments---in Holy Communion and in Confession---we get an increase of those supernatural virtues so that over the course of our lives, these spiritual treasures are growing in our souls. We come to live that faith in a concrete way, unobtrusively.
 
@@ -91,7 +91,7 @@ Our Lord wants to use our life of faith to light fires on this earth, to help ot
 
 Faithfulness means that we live by that faith.
 
-There might be moments when we don\'t see the way forward very clearly, but we say to Our Lord, 'Well, Lord, I launch out into the deep. I live my faith in this particular moment, putting one foot in front of the other, asking you to help me to see what I should do next.'
+There might be moments when we don't see the way forward very clearly, but we say to Our Lord, 'Well, Lord, I launch out into the deep. I live my faith in this particular moment, putting one foot in front of the other, asking you to help me to see what I should do next.'
 
 "Guided by faith," Blessed Álvaro says, "St. Josemaría undertook ventures which exceeded any kind of human strength."
 
@@ -99,13 +99,13 @@ Look back and we see the incredible things that have been achieved by the saints
 
 There may be different things that God requires of us at different stages in our lives---greater demands of our faith---a heroic fulfillment of what He has asked of us in certain moments, with great humility. "Be still and know that I am God" (Ps. 46:10).
 
-We know that God has sent this contradiction, or this pain, or this difficulty, or this misunderstanding, but it\'s all part of a bigger picture, heroically complying with whatever God required of him.
+We know that God has sent this contradiction, or this pain, or this difficulty, or this misunderstanding, but it's all part of a bigger picture, heroically complying with whatever God required of him.
 
-Very often when facing difficulties in starting a new apostolic work, or due to a lack of means, St. Josemaría used to remark, "It\'s a question of faith."
+Very often when facing difficulties in starting a new apostolic work, or due to a lack of means, St. Josemaría used to remark, "It's a question of faith."
 
 Many things in our life are questions of faith. We fulfill the ordinary duties of each moment, knowing that this is what God wants of me at this particular time.
 
-Moved by St. Josemaría\'s example, faith has impelled all his children, the members of Opus Dei, from the outset, to undertake follies which, humanly speaking, cannot be explained, because they are the fruit of God\'s grace.
+Moved by St. Josemaría's example, faith has impelled all his children, the members of Opus Dei, from the outset, to undertake follies which, humanly speaking, cannot be explained, because they are the fruit of God's grace.
 
 We just have to look around us to see those realities in this region and all over the world. Many people have had no hesitation in going to other countries in order to spread the seed of Opus Dei.
 
@@ -121,23 +121,23 @@ We are called to walk along that pilgrimage, to blaze a trail, to keep our lamp 
 
 Overcoming easygoing attitudes through their love of God and spirit of service, others have suffered trials and setbacks with the serenity of someone who knows that his purpose in life is not to aim at human success.
 
-Sometimes, living by faith means suffering those trials and setbacks. Things perhaps don\'t go forward at the pace we would like or don\'t get solved in the way that we would imagine.
+Sometimes, living by faith means suffering those trials and setbacks. Things perhaps don't go forward at the pace we would like or don't get solved in the way that we would imagine.
 
 We may get impatient with the pace of God.
 
-Why doesn\'t this thing happen faster?
+Why doesn't this thing happen faster?
 
-Why doesn\'t this solution become easier?
+Why doesn't this solution become easier?
 
 Maybe God wants us to wait.
 
-Like He told St. Joseph, "Remain there until I tell you" (Matt. 2:13). Wait there in Egypt. It\'s an undisclosed period of time. I want you to live by faith during this period and be an example for the whole of humanity.
+Like He told St. Joseph, "Remain there until I tell you" (Matt. 2:13). Wait there in Egypt. It's an undisclosed period of time. I want you to live by faith during this period and be an example for the whole of humanity.
 
-Others have remained for many years in a job that is unspectacular in men\'s eyes and apparently unfruitful. Where appropriate, they have joyfully renounced their ambitions and plans, interests and tastes, all legitimate and honorable, in order for the Work to be done.
+Others have remained for many years in a job that is unspectacular in men's eyes and apparently unfruitful. Where appropriate, they have joyfully renounced their ambitions and plans, interests and tastes, all legitimate and honorable, in order for the Work to be done.
 
-Whatever way that God may call us to walk along this pathway, we know that it\'s His pathway and that He\'s happy when we live in this way. He\'s promised us great joys.
+Whatever way that God may call us to walk along this pathway, we know that it's His pathway and that He's happy when we live in this way. He's promised us great joys.
 
-We can be facing the challenges and the difficulties, but then there comes a moment when you look back, and you see all the amazing things that God has achieved in us and through us, without our realizing it---particularly in those jobs that are unspectacular in men\'s eyes and apparently unfruitful.
+We can be facing the challenges and the difficulties, but then there comes a moment when you look back, and you see all the amazing things that God has achieved in us and through us, without our realizing it---particularly in those jobs that are unspectacular in men's eyes and apparently unfruitful.
 
 Yet very often, they are the things that bring everything forward. The apostolate of apostolates.
 
@@ -145,7 +145,7 @@ Still others have undertaken apostolic works of considerable magnitude, overcomi
 
 We could think about the great privilege that it is that God has chosen us, called us, with all of our nothingness and our weaknesses and our wretchedness and our miseries.
 
-He\'s wanted to use us as His instruments, humble instruments, like the apostles, to sow great seeds around the world, to teach so many things---sometimes by the things we do, and sometimes just by being there---the witness of being, rather than the witness of doing.
+He's wanted to use us as His instruments, humble instruments, like the apostles, to sow great seeds around the world, to teach so many things---sometimes by the things we do, and sometimes just by being there---the witness of being, rather than the witness of doing.
 
 St. Josemaría says, *"*I have to thank the Lord Our God for His great goodness. Almost half a century has passed in which my daughters and sons have afforded me so many joys, precisely by their firm adherence to the faith, their strongly Christian lives, and their total availability within the duties of their personal state of life in the world, for the service of God in the Work.
 
@@ -153,35 +153,35 @@ St. Josemaría says, *"*I have to thank the Lord Our God for His great goodness.
 
 "They have learned new things. They have joyfully consented to 'hide and disappear,' letting others take their place. They have gone up and come down."
 
-It\'s a wonderful story of many people living by faith, changing the world, being the vanguard of the Church of this particular era of history, setting standards, doing amazing things.
+It's a wonderful story of many people living by faith, changing the world, being the vanguard of the Church of this particular era of history, setting standards, doing amazing things.
 
-Possibly in time others will look on with awe and be able to say, "Blessed are you for your believing."
+Possibly in time others will look on with awe and be able to say, "Blessed are you for your believing" (Luke 1:45).
 
 Great things are attached to that increase of faith that we ask for, more and more with the passage of time.
 
 "Thinking about the Work's expansion," Blessed Álvaro says, "reminds me of that supernatural epic related in the Letter to the Hebrews. By faith, Abraham obeyed when he was called to go out to a place which he was to receive as an inheritance, and he went out, not knowing where he was to go.
 
-"By faith, Moses, when he was grown up, refused to be called the son of Pharaoh\'s daughter, choosing rather to share ill treatment with the people of God than to enjoy the fleeting pleasures of sin. He considered abuse suffered for Christ greater wealth than the treasures of Egypt. By faith, the people crossed the Red Sea. By faith, the walls of Jericho fell down.
+"By faith, Moses, when he was grown up, refused to be called the son of Pharaoh's daughter, choosing rather to share ill treatment with the people of God than to enjoy the fleeting pleasures of sin. He considered abuse suffered for Christ greater wealth than the treasures of Egypt. By faith, the people crossed the Red Sea. By faith, the walls of Jericho fell down.
 
 "And what more shall I say? For time would fail me to tell of Gideon, Barak, Samson, Jephthah, of David, and Samuel, and the prophets, who through faith conquered kingdoms, enforced justice, received promises, stopped the mouth of lions. Others suffered mocking and scourging and even chains and imprisonment."
 
 If we see a certain persecution of Christians or of Catholics in the world or in the media, we can make acts of faith. Maybe God is purifying us in certain ways in the world, or His truth or His doctrine.
 
-But we know from history and many other ways that the truth will triumph. "The Church will not sink. Peter\'s boat will not sink," St. Josemaría used to say.
+But we know from history and many other ways that the truth will triumph. "The Church will not sink. Peter's boat will not sink," St. Josemaría used to say.
 
 We go forward in faith and there will be a great new flourishing of the Church. Blessed Álvaro and St. John Paul II, both of them, like to speak in that way.
 
-Blessed Álvaro says: "That was how all great men in Scripture acted. They were moved by a living faith. They devoted themselves to God\'s service, to do whatever He asked of them, in spite of the fact that all these, though well attested by their faith, did not receive what was promised. They did not see the Messiah, the Redeemer."
+Blessed Álvaro says: "That was how all great men in Scripture acted. They were moved by a living faith. They devoted themselves to God's service, to do whatever He asked of them, in spite of the fact that all these, though well attested by their faith, did not receive what was promised. They did not see the Messiah, the Redeemer."
 
 We journey forward towards the Promised Land, which we know that someday we will reach. We journey forward towards the eternal wedding feast, knowing by faith that everything is worthwhile, that God has foreseen everything.
 
-We\'re in His hands all the time, and sometimes we have to leave things in His hands. Faith leads us to a new abandonment---this project, those desires, those things we might like to have done, this soul that perhaps we\'ve prayed so much for that hasn\'t quite reacted---sometimes, we just have to leave them in the hands of God.
+We're in His hands all the time, and sometimes we have to leave things in His hands. Faith leads us to a new abandonment---this project, those desires, those things we might like to have done, this soul that perhaps we've prayed so much for that hasn't quite reacted---sometimes, we just have to leave them in the hands of God.
 
 All those efforts in that particular area, but then we look the other way and find there are huge fruits, maybe, in other areas. God has been at work all the time.
 
-The letter concludes: "God has foreseen something better for us. As in the wedding feast at Cana, God has kept the best wine for the end, for us. He\'s given us Himself in Christ. We have His doctrine. We can become His friends and receive Him in the Eucharist. We can make use of the sacrament of forgiveness.
+The letter concludes: "God has foreseen something better for us. As in the wedding feast at Cana, God has kept the best wine for the end, for us. He's given us Himself in Christ. We have His doctrine. We can become His friends and receive Him in the Eucharist. We can make use of the sacrament of forgiveness.
 
-"We can count on Our Lady as Our Mother. We form part of the Church and we\'ve received the sovereign grace of a vocation, a light that constantly illuminates the way we are traveling along here on earth, and a vital force to put that vocation into practice in the middle of the world, and to enable many other souls to discover it Think what our faith should be like and what follies we should be promoting."
+"We can count on Our Lady as Our Mother. We form part of the Church and we've received the sovereign grace of a vocation, a light that constantly illuminates the way we are traveling along here on earth, and a vital force to put that vocation into practice in the middle of the world, and to enable many other souls to discover it Think what our faith should be like and what follies we should be promoting."
 
 I had dinner last Saturday night with a number of street kids in Kisumu, from a certain shelter that is there. We do something once or twice a year; we head out to a simple restaurant. It is very amusing.
 
@@ -189,7 +189,7 @@ Some of them have never eaten in a place like that before. They were all very qu
 
 But some of them have grown over the years into big fellows, and the main person there who looks after this shelter where they are tells me that now he brings four or five of them to Confession in the local parish every Saturday. It was rather moving; they're very simple people.
 
-This person talks about the great value of Confession, the joy of Confession, the beauty of Confession. They're very simple people, but they discover the great treasure that\'s there, and so leads these other street kids, as they get older, to discover this treasure.
+This person talks about the great value of Confession, the joy of Confession, the beauty of Confession. They're very simple people, but they discover the great treasure that's there, and so leads these other street kids, as they get older, to discover this treasure.
 
 Something very beautiful in that. It is a lot of faith---opening the souls to the eyes of faith, to the treasures of the spiritual life, when literally they have nothing else in this world; but yet, discovering things.
 
@@ -199,17 +199,17 @@ Beautiful things of faith are happening around the place. Certain souls discover
 
 Interesting examples that Our Lord gives: "the tiniest seed\...you can move mountains."
 
-We need great faith, he said, in order to be faithful and reach the heroic canonizable sanctity to which God is calling us. That is why we are pleading insistently: Lord, increase our faith. We have to be constantly preparing our hearts to receive this gift and make it fruitful.
+"We need great faith," he said, "in order to be faithful and reach the heroic canonizable sanctity to which God is calling us. That is why we are pleading insistently: Lord, increase our faith. We have to be constantly preparing our hearts to receive this gift and make it fruitful."
 
-As we come to the end of this year of St. Joseph and begin to look to the future apostolic year, a new year that\'s looming up in front of us, the possibilities, the graces, of challenges, of horizons.
+As we come to the end of this year of St. Joseph \[December 8, 2020 to December 8, 2021\] and begin to look to the future apostolic year, a new year that's looming up in front of us, the possibilities, the graces, of challenges, of horizons.
 
-But it\'s a good moment to ask with faith for all the great things that have to come: maybe the fruits of this pandemic, great expansion of our apostolate, great things to happen in all the countries of Africa that we still have to reach. And all this depends on our launching out into the deep in the ways that God wants of us.
+But it's a good moment to ask with faith for all the great things that have to come: maybe the fruits of this pandemic, great expansion of our apostolate, great things to happen in all the countries of Africa that we still have to reach. And all this depends on our launching out into the deep in the ways that God wants of us.
 
-"Interior struggle means," Blessed Álvaro says, "basically preparing to receive the grace which divinizes us, makes us God-like, changes us over time." God is forming us to be more like Him, more Christ-like. "And that very disposition is itself the fruit of God\'s action in our souls. Normally we have to make our spiritual struggles specific through resolutions and to look for human devices. But don\'t forget that to reach any goal we have set for ourselves, it\'s essential, first and foremost, to pray, to ask for God\'s help."
+"Interior struggle means," Blessed Álvaro says, "basically preparing to receive the grace which divinizes us, makes us God-like, changes us over time." God is forming us to be more like Him, more Christ-like. "And that very disposition is itself the fruit of God's action in our souls. Normally we have to make our spiritual struggles specific through resolutions and to look for human devices. But don't forget that to reach any goal we have set for ourselves, it's essential, first and foremost, to pray, to ask for God's help."
 
 Our Lady reacted with faith to the words of the angel. She put that faith into practice. She set out on that journey.
 
-She went into the hill country, which was an uphill climb. She faced the challenges. It wasn\'t an easy ride, but yet she faced all of that. With great reason, Elizabeth was able to say, "Blessed are you for your believing" (Luke 1:45).
+She went into the hill country, which was an uphill climb. She faced the challenges. It wasn't an easy ride, but yet she faced all of that. With great reason, Elizabeth was able to say, "Blessed are you for your believing" (Luke 1:45).
 
 We could ask Our Lady that she might, every day of our life, give us that grace to grow in this virtue so that we can put it into practice as she did.
 
