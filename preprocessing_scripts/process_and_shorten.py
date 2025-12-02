@@ -10,7 +10,7 @@ from shorten_urls import create_custom_short_url
 
 
 def process_long_urls_to_csv(
-    long_urls_file: str, output_dir: str, tinyurl_api_token: str, groq_api_key: str
+    long_urls_file: str, output_dir: str, tinyurl_api_token: str, gemini_api_key: str
 ):
     """
     Processes a JSON file containing long URLs, shortens them, and saves the results to a CSV file.
@@ -20,7 +20,7 @@ def process_long_urls_to_csv(
         long_urls_file: Path to the JSON file containing long URLs.
         output_dir: Path to the directory where the output CSV file will be saved.
         tinyurl_api_token: Your TinyURL API token.
-        groq_api_key: Your Groq API key.
+        gemini_api_key: Your Google Gemini API key.
     """
 
     try:
@@ -51,7 +51,7 @@ def process_long_urls_to_csv(
             continue
 
         print(f"Processing: {long_url}")
-        short_url = create_custom_short_url(long_url, tinyurl_api_token, groq_api_key)
+        short_url = create_custom_short_url(long_url, tinyurl_api_token, gemini_api_key)
         if short_url:
             new_results.append((long_url, short_url))
         else:
@@ -73,7 +73,7 @@ def process_long_urls_to_csv(
 
 if __name__ == "__main__":
     load_dotenv()
-    groq_api_key = os.getenv("GROQ_API_KEY")
+    gemini_api_key = os.getenv("GEMINI_API_KEY")
     tinyurl_api_token = os.getenv("TINYURL_API_TOKEN")
 
     # Define directories and file paths
@@ -88,5 +88,5 @@ if __name__ == "__main__":
     # Step 2: Process the generated long URLs to create the CSV of shortened URLs
     long_urls_file = os.path.join(output_directory, "long_urls.json")
     process_long_urls_to_csv(
-        long_urls_file, output_directory, tinyurl_api_token, groq_api_key
+        long_urls_file, output_directory, tinyurl_api_token, gemini_api_key
     )
