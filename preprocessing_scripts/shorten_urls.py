@@ -88,7 +88,7 @@ def shorten_with_gemini(text: str, api_key: str, max_length: int = 15) -> str:
 
     try:
         response = client.models.generate_content(
-            model="gemini-2.0-flash-exp",
+            model="gemini-2.5-flash",
             contents=f"Shorten the following text to a maximum of {max_length} characters. Provide a lowercase, contracted abbreviation of the following text, removing all special characters:\n\n{text}",
             config=types.GenerateContentConfig(
                 system_instruction="You are a helpful assistant that shortens text into concise, readable, lowercase summaries without special characters.",
