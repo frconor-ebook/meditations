@@ -105,8 +105,10 @@ def get_dropbox_client():
             "App key and secret required for OAuth flow. Set DROPBOX_APP_KEY and DROPBOX_APP_SECRET environment variables."
         )
 
-    # Start the OAuth flow
-    flow = DropboxOAuth2FlowNoRedirect(app_key, app_secret)
+    # Start the OAuth flow with offline access to get a refresh token
+    flow = DropboxOAuth2FlowNoRedirect(
+        app_key, app_secret, token_access_type='offline'
+    )
     authorize_url = flow.start()
 
     print("1. Go to: " + authorize_url)
