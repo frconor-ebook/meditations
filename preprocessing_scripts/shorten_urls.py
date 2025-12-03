@@ -93,7 +93,7 @@ def shorten_with_gemini(text: str, api_key: str, max_length: int = 15) -> str:
             config=types.GenerateContentConfig(
                 system_instruction="You are a helpful assistant that shortens text into concise, readable, lowercase summaries without special characters.",
                 temperature=1.5,
-                max_output_tokens=50,
+                max_output_tokens=1024,
             ),
         )
 
