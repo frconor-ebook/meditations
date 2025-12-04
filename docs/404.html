@@ -76,31 +76,176 @@
 </header>
 
     <main>
-        <article>
-    <h1></h1>
-
-    <style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
+        <style type="text/css">
+  .error-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 60vh;
+    padding: 40px 20px;
     text-align: center;
   }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
+
+  .error-number {
+    font-family: 'Lato', Arial, sans-serif;
+    font-size: 8rem;
+    font-weight: 700;
+    color: var(--primary-accent);
     line-height: 1;
-    letter-spacing: -1px;
+    margin: 0;
+    text-shadow: 0 2px 10px rgba(201, 169, 97, 0.2);
+    animation: gentle-pulse 4s ease-in-out infinite;
+  }
+
+  @keyframes gentle-pulse {
+    0%, 100% {
+      opacity: 1;
+      transform: scale(1);
+    }
+    50% {
+      opacity: 0.85;
+      transform: scale(1.02);
+    }
+  }
+
+  .error-title {
+    font-family: 'Lato', Arial, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin: 10px 0 30px;
+    letter-spacing: 0.5px;
+  }
+
+  .divider {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    color: var(--text-muted);
+    margin-bottom: 30px;
+  }
+
+  .divider-line {
+    width: 60px;
+    height: 1px;
+    background: var(--text-muted);
+    opacity: 0.4;
+  }
+
+  .divider-symbol {
+    font-size: 1.2rem;
+    opacity: 0.6;
+  }
+
+  .error-message {
+    font-family: 'Crimson Text', Georgia, serif;
+    font-size: 1.15rem;
+    font-style: italic;
+    color: var(--text-muted);
+    max-width: 360px;
+    line-height: 1.7;
+    margin: 0 0 35px;
+  }
+
+  .home-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 14px 28px;
+    background: var(--primary-accent);
+    color: var(--primary-dark);
+    font-family: 'Lato', Arial, sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    box-shadow: var(--shadow-sm);
+  }
+
+  .home-button:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+    opacity: 0.92;
+  }
+
+  .home-button svg {
+    width: 18px;
+    height: 18px;
+    transition: transform 0.3s ease;
+  }
+
+  .home-button:hover svg {
+    transform: translateX(3px);
+  }
+
+  .browse-link {
+    margin-top: 25px;
+    font-family: 'Crimson Text', Georgia, serif;
+    font-size: 1rem;
+    color: var(--text-muted);
+  }
+
+  .browse-link a {
+    color: var(--link-color);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s ease;
+  }
+
+  .browse-link a:hover {
+    border-bottom-color: var(--link-color);
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 480px) {
+    .error-number {
+      font-size: 5rem;
+    }
+
+    .error-title {
+      font-size: 1.25rem;
+    }
+
+    .error-message {
+      font-size: 1rem;
+      padding: 0 10px;
+    }
+
+    .home-button {
+      padding: 12px 24px;
+      font-size: 0.95rem;
+    }
   }
 </style>
 
-<div class="container">
-  <h1>404</h1>
+<div class="error-page">
+  <h1 class="error-number">404</h1>
+  <p class="error-title">Page Not Found</p>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <div class="divider">
+    <span class="divider-line"></span>
+    <span class="divider-symbol">&#10013;</span>
+    <span class="divider-line"></span>
+  </div>
+
+  <p class="error-message">
+    The path you seek leads elsewhere. Let us guide you back to where the journey continues.
+  </p>
+
+  <a href="/meditations/" class="home-button">
+    Return Home
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M13 7l5 5m0 0l-5 5m5-5H6" />
+    </svg>
+  </a>
+
+  <p class="browse-link">
+    Or <a href="/meditations/meditations/">browse all meditations</a>
+  </p>
 </div>
 
-</article>
     </main>
 
     <footer>
@@ -124,7 +269,7 @@
         </svg>
     </button>
 
-    <script src="/meditations/assets/js/search.js?v=1764720359"></script>
+    <script src="/meditations/assets/js/search.js?v=1764807887"></script>
     <script src="/meditations/assets/js/theme-toggle.js"></script>
     <script src="/meditations/assets/js/text-size-toggle.js"></script>
     <script src="/meditations/assets/js/scroll-top.js"></script>

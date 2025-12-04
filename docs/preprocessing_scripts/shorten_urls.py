@@ -88,12 +88,22 @@ def shorten_with_gemini(text: str, api_key: str, max_length: int = 15) -> str:
 
     try:
         response = client.models.generate_content(
-            model="gemini-2.0-flash-exp",
-            contents=f"Shorten the following text to a maximum of {max_length} characters. Provide a lowercase, contracted abbreviation of the following text, removing all special characters:\n\n{text}",
+            model="gemini-2.5-flash",
+            contents=f"""Create a very short URL slug (max {max_length} chars) for this Catholic meditation title:
+
+"{text}"
+
+Abbreviation rules:
+- St = Saint, OL = Our Lady, BVM = Blessed Virgin Mary, Bl = Blessed
+- Drop articles (the, a, of) and filler words
+- Use only the core concept (e.g., "death" not "outlookondeath")
+- Lowercase, no spaces/special chars
+
+Output ONLY the slug, nothing else.""",
             config=types.GenerateContentConfig(
-                system_instruction="You are a helpful assistant that shortens text into concise, readable, lowercase summaries without special characters.",
-                temperature=1.5,
-                max_output_tokens=50,
+                system_instruction="You create ultra-short URL slugs. Be aggressive with abbreviation. Output only the slug.",
+                temperature=1.0,
+                max_output_tokens=1024,
             ),
         )
 
