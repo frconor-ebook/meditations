@@ -13,7 +13,7 @@ By Fr. Conor Donnelly
 
 "Now when it was late that same day, the first of the week, and the doors were shut, where the disciples were gathered together, for fear of the Jews, Jesus came and stood in the midst, and said to them, 'Peace be to you'" (John 20:19).
 
-The apostles are huddled together in the upper room. They\'ve locked the door. They\'re hiding away in fear from the very people that they should be trying to evangelize.
+The apostles are huddled together in the upper room. They've locked the door. They're hiding away in fear from the very people that they should be trying to evangelize.
 
 We're told that Jesus came. The verbs attached to the Divine Name can be very powerful: Jesus comes. He comes into our life in all sorts of moments. He comes also in special moments.
 
@@ -21,7 +21,7 @@ This retreat is meant to be one of those special moments when Jesus comes into y
 
 The very presence of Jesus in the upper room was very encouraging for the apostles. He sends them out again to begin to convert the world. And He stood in the midst of them.
 
-Our Lord comes right into the center of the people that He\'s speaking to, and His first words were words of peace.
+Our Lord comes right into the center of the people that He's speaking to, and His first words were words of peace.
 
 Our Lord could have launched into a great discourse. He could have given out to them for abandoning Him on the Cross.
 
@@ -29,7 +29,7 @@ He could have called them all the things He called the Pharisees: "You brood of 
 
 He comes to put them back together again, to lift them, to encourage them, to help them to set out again on their journey.
 
-This is part of the process of His conversion of the apostles, from being the weak human beings that they were, to become great saints and great apostles. In many ways, that\'s the meaning of our life.
+This is part of the process of His conversion of the apostles, from being the weak human beings that they were, to become great saints and great apostles. In many ways, that's the meaning of our life.
 
 "And when he had said this, he showed them his hands and his side" (John 20:20). Our Lord gives them the proof of who He is, His DNA, His wounds. The disciples therefore were glad when they saw the Lord.
 
@@ -41,9 +41,9 @@ Our Lord emphasizes the words of peace. He wants us to have a great peace in our
 
 These days are an opportunity for us to think of our mission. God has sent me as a spouse, as a parent, as a worker, as a Christian, into this world, into the environment where I am, into this profession. There He wants me to lift up the spiritual temperature.
 
-Our Lord invites the apostles and each one of us to have a great sense of mission: Why am I here? What\'s the purpose of my existence?
+Our Lord invites the apostles and each one of us to have a great sense of mission: Why am I here? What's the purpose of my existence?
 
-John Paul II in many of his encyclicals says that there are three key questions that people must keep asking themselves throughout their life: Where did I come from? Where am I going? What is my life all about? (cf. John Paul II, Encyclical, *Fides et Ratio*, September 14, 1988).
+John Paul II in many of his encyclicals says that there are three key questions that people must keep asking themselves throughout their life: Where did I come from? Where am I going? What is my life all about? (*cf*. John Paul II, Encyclical, *Fides et Ratio*, September 14, 1988).
 
 And he says that the answers to those three questions, to a large extent, depend on the happiness that we will encounter in this world.
 
@@ -51,17 +51,17 @@ Our Lord wants us to know the answers to those questions. These days of prayer a
 
 One of the greatest things we can do for our family is to spend a few days like this every year, reviewing all of these key questions of our life and of our mission.
 
-There was a mother once who went on a retreat, and the father took a few days off work to look after their five-year-old little girl. He wasn\'t very good at this, but he did his best.
+There was a mother once who went on a retreat, and the father took a few days off work to look after their five-year-old little girl. He wasn't very good at this, but he did his best.
 
-The retreat began on a Thursday night, and the following day, every hour on the hour, the little girl asked, 'Where\'s my mummy? When is my mummy coming home? Why isn\'t my mummy here?'
+The retreat began on a Thursday night, and the following day, every hour on the hour, the little girl asked, 'Where's my mummy? When is my mummy coming home? Why isn't my mummy here?'
 
 The father had this every hour on the hour, all of Friday, all Saturday, and by Saturday evening he was totally exhausted. In a rather belligerent tone, he said to his little girl, "Your mummy has gone to talk with God."
 
-The little girl took a big deep breath. "Ah, my mummy has gone to talk with God. That\'s very important"---as much as to say: Why didn\'t you tell me that before?
+The little girl took a big deep breath. "Ah, my mummy has gone to talk with God. That's very important"---as much as to say: Why didn't you tell me that before?
 
 She said, "If my mummy has gone to talk with God, she must be saying very important things to God and maybe some of it is about me. And if my mummy is talking to God, God must also be talking to my mummy, and He must be saying some very important things. And maybe some of it is about me."
 
-There wasn\'t a sound out of the child for the next 24 hours until her mum came home. The father was very sorry he hadn\'t thought of that earlier.
+There wasn't a sound out of the child for the next 24 hours until her mum came home. The father was very sorry he hadn't thought of that earlier.
 
 We are here to talk with God and to listen to Him. Maybe, many great things depend on this conversation: new horizons, new beginnings, new communications, all sorts of wonderful things.
 
@@ -73,19 +73,19 @@ That soul, which comes to occupy a whole position for a while, is ultimately the
 
 When was the last time in a book, in a movie, in a newspaper article that you heard the soul mentioned?
 
-All the great religions of the world talk about the spiritual nature of man: Hinduism, Buddhism, Islam, Judaism, Christianity. Only modern materialism says that man has no soul. That\'s the message we get from the modern world.
+All the great religions of the world talk about the spiritual nature of man: Hinduism, Buddhism, Islam, Judaism, Christianity. Only modern materialism says that man has no soul. That's the message we get from the modern world.
 
 In a recent document on the Amazon, Pope Francis talked about the "spiritual emptiness" of the world (Pope Francis, Apostolic Exhortation, *Querida Amazonia*, February 2, 2020).
 
-A rather interesting phrase, "spiritual emptiness of the world," because it\'s as though the world has forgotten the soul.
+A rather interesting phrase, "spiritual emptiness of the world," because it's as though the world has forgotten the soul.
 
 The spiritual nature of man holds the meaning and the key to so many questions of our existence. Your soul in the eyes of God is very important.
 
 The care you take of your soul is very important. And to a large extent, the care that you take of your soul may depend on the care that is taken of the souls of your children.
 
-Try to give a lot of importance and make a resolution to give greater care to your soul. We\'re here these days to pray, to read, to think, and to change; perhaps to prepare a deep Confession or spiritual direction.
+Try to give a lot of importance and make a resolution to give greater care to your soul. We're here these days to pray, to read, to think, and to change; perhaps to prepare a deep Confession or spiritual direction.
 
-Everybody on the goal of success needs a helper, or a trainer, or a guide. It\'s one resolution we could take from these days.
+Everybody on the goal of success needs a helper, or a trainer, or a guide. It's one resolution we could take from these days.
 
 These days are also meant to be days of silence.
 
@@ -97,19 +97,19 @@ In some ways, "silence is more important than any other human work, because it e
 
 We need a certain silence in our life to gather ourselves a little more, to look at the birds of the air, as Our Lord tells us in St. Matthew: "They neither sow, nor reap, nor gather into barns, and yet your heavenly Father feeds them" (Matt. 6:26).
 
-It\'s very salutary that we stop occasionally and look at nature. God is the author of nature. From looking at His creation we discover Him behind it.
+It's very salutary that we stop occasionally and look at nature. God is the author of nature. From looking at His creation we discover Him behind it.
 
 "Through this divine silence, man becomes a bit estranged from this world. He is separated from the earth and from himself. Silence impels us toward an unknown land that is God. And this land becomes our true homeland.
 
 "Through silence, we return to our heavenly origin, where there is nothing but calm, peace, repose, silent contemplation, and adoration of the...face of God.
 
-"All the great saints were familiar with this incomparable experience. When their prayers led them to the threshold of the Eternal One's silence, they sensed how close and immense God became. They remained wordlessly in the presence of the Father. The more they ascended towards God, the more silent they became" (*Ibid*.).
+"All the great saints were familiar with this incomparable experience. When their prayers led them to the threshold of the Eternal One's silence, they sensed how close and immense God became. They remained wordlessly in the presence of the Father. The more they ascended towards God, the more silent they became" (*ibid*.).
 
 We could try to take care of the spirit of silence during these days.
 
-We\'re told in the Book of Ecclesiastes: "There is a time for everything...a time to keep silence and a time to speak" (Eccles. 3:1,7).
+We're told in the Book of Ecclesiastes: "There is a time for everything...a time to keep silence and a time to speak" (Eccles. 3:1,7).
 
-St. Gregory of Nyssa says: \"This time of silence is mentioned first, because by silence we learn the art of speaking well.\" Great fruits may come from our periods of silence.
+St. Gregory of Nyssa says: "This time of silence is mentioned first, because by silence we learn the art of speaking well." Great fruits may come from our periods of silence.
 
 We have to see the pieces of the jigsaw puzzle of our life. Possibly the Holy Spirit communicates to us some idea, or helps to put in place something that happened in our past, or helps us to see some event---our marriage, our family, some cross---in the context of the whole of our life and of our journey towards holiness and apostolate.
 
@@ -127,29 +127,29 @@ You have to get through those two outer layers in order to reach the third, so w
 
 What am I really like? Have I discovered those things that Our Lord has told us that lurk in the human heart (Matt. 15:19)---envy, jealousy, anger, lust, sloth, gluttony---so that we bring these things out and we let the grace of God get in?
 
-These days are good days to make an act of contrition: an act of contrition for the past, for all the ways in which we may have offended God, knowingly and unknowingly, and particularly for all our acts of negligence---when we didn\'t care enough, when we were careless, when we didn\'t think.
+These days are good days to make an act of contrition: an act of contrition for the past, for all the ways in which we may have offended God, knowingly and unknowingly, and particularly for all our acts of negligence---when we didn't care enough, when we were careless, when we didn't think.
 
 We can tell Our Lord that we want a whole new Pentecost, just like the apostles changed completely with the coming of the Holy Spirit, so that we too may bring about a great jump in quality in our spiritual life, a more serious focusing on the goal of our Christian vocation---holiness and apostolate---and the meaning of where we find ourselves in this particular moment of history, in my marriage, in my family, in my work.
 
 We come to this retreat for a conversion, to turn our life inside out.
 
-Blessed Cardinal Newman said, "To live is to change, and to be perfect is to change often" (John Henry Newman, *Essay on the Development of Christian Doctrine*).
+Blessed \[now Saint and Doctor\] Cardinal Newman said, "To live is to change, and to be perfect is to change often" (John Henry Newman, *Essay on the Development of Christian Doctrine*).
 
 Our Lord said to the apostles, "Come after me, and I will make you into fishers of men" (Matt. 4:19).
 
-He didn\'t say, 'You will make yourselves into fishers of men.' He said, 'I will make you with my graces, with my touching here and there, with the ideas that I give you.'
+He didn't say, 'You will make yourselves into fishers of men.' He said, 'I will make you with my graces, with my touching here and there, with the ideas that I give you.'
 
 We can tell Our Lord, like St. Peter did: "You know all things. You know that I love you" (John 21:17). You know that I want to love you. You know that I want to change. I want to be better.
 
-It doesn\'t matter what situation we may be in, what may have happened in the past, what baggage we may be carrying. This is the moment that God has given to us to make that radical change.
+It doesn't matter what situation we may be in, what may have happened in the past, what baggage we may be carrying. This is the moment that God has given to us to make that radical change.
 
 You might say, 'I came to this retreat because I do a retreat every year' or 'because my friend has invited me' or 'because my spouse has forced me.'
 
 Or you might say, 'Actually, I came to this retreat by mistake. I came through the wrong gate this morning and I found myself here.'
 
-Whatever reason it is that has brought us here, behind all those exterior reasons, the real reason we\'re here is that God has wanted us to be here.
+Whatever reason it is that has brought us here, behind all those exterior reasons, the real reason we're here is that God has wanted us to be here.
 
-He may have used a friend, or a spouse, or a mistake, or a whole pile of things to bring us here. But if we\'re here, it's because God has something to say to us. He wants that new conversion.
+He may have used a friend, or a spouse, or a mistake, or a whole pile of things to bring us here. But if we're here, it's because God has something to say to us. He wants that new conversion.
 
 When Our Lord invited the apostles to come after Him and to become fishers of men, that was their first conversion. But later on, there were further conversions, and each of the further conversions was more important.
 
@@ -161,15 +161,15 @@ The problem may be that we see ourselves as already converted. But at the Last S
 
 "Amen, amen, I say to you, unless the grain of wheat falls into the ground and dies, it remains alone; but if it dies, it brings forth much fruit. He that loves his life shall lose it; and he that hates his life will keep it into life eternal" (John 12:24-25).
 
-Conversion is a new birth. It\'s not just a change, but a development from humility to a more profound humility, from faith to a deeper faith.
+Conversion is a new birth. It's not just a change, but a development from humility to a more profound humility, from faith to a deeper faith.
 
 We can spend time actively running around the place doing things, but yet covering up areas that need conversion. Eventually, all those things catch up with us.
 
 We need a spiritual conversion to grow in our love of God, a moral conversion to be more Christ-like, an apostolic conversion to focus more on others.
 
-We\'re told in the story of the Passion how when the cock crowed, Peter remembered Our Lord\'s prediction that he would deny Him. We\'re told in that moment, "The Lord turned and looked upon Peter" (Luke 22:60-61).
+We're told in the story of the Passion how when the cock crowed, Peter remembered Our Lord's prediction that he would deny Him. We're told in that moment, "The Lord turned and looked upon Peter" (Luke 22:60-61).
 
-It was the lowest moment of Peter\'s existence. He denies Our Lord. He almost does what Judas did. Yet Peter was the one who was chosen to be the rock. But he turns out to be anything but a rock.
+It was the lowest moment of Peter's existence. He denies Our Lord. He almost does what Judas did. Yet Peter was the one who was chosen to be the rock. But he turns out to be anything but a rock.
 
 He turns and looks upon Peter. Their eyes meet. And that was a whole new beginning for Peter.
 
@@ -177,11 +177,11 @@ In all of our lives there is that second look. That new conversion.
 
 From that very low moment, Peter, who represents the whole of weak humanity, goes on to become the great saint and the great apostle.
 
-St. Ambrose says, "Jesus, look upon us when we are weak, for your look sets us right again."
+St. Ambrose says, "Jesus, look upon us when we are weak, for your look sets us right again" (*cf*. Ambrose, Hymn, *Maker of all, eternal King*).
 
 The whole process of beginning again can bring up great joy. We get a second wind. We launch out into the deep. We excavate new layers of untold spiritual wealth.
 
-There\'s a phrase in the Preface of the Sacred Heart that says, "We draw water in joy from the wells of salvation" (Isa. 12:3). Beautiful words.
+There's a phrase in the Preface of the Sacred Heart that says, "We draw water in joy from the wells of salvation" (Isa. 12:3). Beautiful words.
 
 We learn how to come back again and again to that Sacred Heart of Christ to draw that water in joy from the wells of salvation and to have our faith confirmed.
 
@@ -189,11 +189,11 @@ Aristotle liked to say that the supreme good of human life is to focus on the hi
 
 There is no greater activity that we can be involved in these days than trying to contemplate the divine. Euripides used to say that "wisdom enters through silence."
 
-In *The Forge*, we\'re told, "Lazarus rose because he heard the voice of God and immediately wanted to get out of the situation he was in. If he hadn\'t wanted to move, he would just have died again. A sincere resolution: to have faith in God always; to hope in God always; to love God always\...he never abandons us, even if we\'re rotting away as Lazarus was" (Josemaría Escrivá, *The Forge*, Point 211).
+In *The Forge*, we're told, "Lazarus rose because he heard the voice of God and immediately wanted to get out of the situation he was in. If he hadn't wanted to move, he would just have died again. A sincere resolution: to have faith in God always; to hope in God always; to love God always\...he never abandons us, even if we're rotting away as Lazarus was" (Josemaría Escrivá, *The Forge*, Point 211).
 
 We can thank Our Lord for giving us this opportunity---this period of silence, of formation, of prayer---to use it well.
 
-"A heart in silence," we\'re told, "is a melody for the heart of God. The lamp is consumed noiselessly before the tabernacle, and incense ascends in silence to the throne of God: such is the sound of the silence of love" (Robert Cardinal Sarah, *The Power of Silence*, Point 81).
+"A heart in silence," we're told, "is a melody for the heart of God. The lamp is consumed noiselessly before the tabernacle, and incense ascends in silence to the throne of God: such is the sound of the silence of love" (Robert Cardinal Sarah, *The Power of Silence*, Point 81).
 
 Pope St. John Paul II liked to refer to Our Lady as "the woman of silence" (John Paul II, *Angelus*, December 14, 1997; *Message*, March 25, 2001).
 
