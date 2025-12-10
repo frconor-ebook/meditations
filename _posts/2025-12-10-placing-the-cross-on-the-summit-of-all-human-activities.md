@@ -1,0 +1,230 @@
+---
+layout: homily
+title: "Placing the Cross on the Summit of All Human Activities"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*Nos autem gloriari in cruce Dominum nostri Jesu Christi*. "We are called to glory in the Cross of Christ," the liturgy tells us (*Entrance Antiphon*, Holy Thursday or The Exaltation of the Holy Cross).
+
+This meditation is about placing the Cross of Christ at the summit of all human activities, and also about loving the cross. Our Lord has said, "Whoever loses his life will save it" (Matt. 16:25).
+
+He invites us to take up our cross and follow Him. If we are to put the Cross of Christ on the summit of all human activities, we need to be placing it on the top of our own personal activities and of our life.
+
+I heard somebody say once that the goal of the University of Navarre is to place the Cross of Christ on top of all human activities. You could say that's the goal of every corporate apostolic work of Opus Dei.
+
+Our Lord invites us to be close to the Cross, to know the wisdom of the Cross, to be friends of the Cross and to thank Our Lord for the crosses that He sends us, because we know that each one of those crosses are blessings.
+
+"Simeon blessed them and said to Mary his mother, 'Look, he is destined for the fall and for the rise of many in Israel, destined to be a sign that is opposed---and a sword will pierce your soul too---so that the secret thoughts of many \[hearts\] may be laid bare" (Luke 2:34-35).
+
+Our Lady's heart was also pierced with a sword. Simeon was the first to speak to her about the cross.
+
+All the others who came to speak to her talked about joy, "good tidings of great joy which shall be to all the people" (Luke 2:10)---the angels, the shepherds, the magi.
+
+But Simeon talks to her about "the sword that will pierce her heart." We have learned with our formation that when the cross comes, it is a sign of blessings, that God is with us.
+
+He blesses us with the cross, so we can thank Him for those things. "Then, speaking to all, he said, 'If anyone wants to follow me, let him renounce himself and take up his cross every day and follow me'" (Luke 9:23).
+
+We are also told that the cross is not just something that comes along once or twice in our life. But there are small things every day that Our Lord reaches out to us and invites us to be a little closer to Him.
+
+We can try to see the hand of God behind those things. Often they are little divine calls to stand on our own self-love, our egoism, our pride, and to learn to be a little bit more Christ-like and therefore a little bit more effective, a little bit more united---that we learn how to see the value of those things, the value of the sanctifying effect that it has upon us to lift up the whole of our lives and the whole of the world, and to place Christ then at the top of all the things that we are doing---of our profession, of our apostolate, of our pastimes, of so many other things.
+
+One time our Father St. Josemaría was given a civil honor in the 1950s, a medal of some type. One of his sons around that time, a military person, congratulated him on getting that particular medal.
+
+Our Father said, "For you military men, this business of getting medals is an important affair. But not for me, and you too, at the bottom of your heart. I am only interested in one cross: the Holy Cross."
+
+Our Father was very focused on the cross. This was something special that God had given to him---the means to achieve the end. We know we become more effective in and through the cross.
+
+In *The Man of Villa Tevere* we are told, "Looked at from every angle, Msgr. Escrivá's life was sealed with the sign of the cross. He understood that it had to be like that on February 14, 1943, in a house in Jorge Manrique Street.
+
+"He was celebrating Mass in the auditorium his daughters had there, when he *saw* with utter clarity the badge or seal of the work---'seal, because the Work has no coat of arms,' as he said later.
+
+"It was 'the cross in the very center of the world.' As he saw it, the cross was always a sign of contradiction, scandal to some, madness to others; a paradox in a world that had come to identify good with pleasure and evil with pain" (Pilar Urbano, *The Man of Villa Tevere*).
+
+We live in a world where people run away from the cross. They see it as some sort of punishment or something negative. We are invited to see it as something positive. It is the means that Christ has given us that He used to redeem the world.
+
+"Make your own mind the mind of Christ Jesus," St. Paul says (Phil. 2:5). We are invited to a new conversion, to see things in a different way from a supernatural perspective.
+
+"Being in the form of God, he did not count equality with God something to be grasped but emptied himself..." (Phil. 2:6-7).
+
+A lot of our carrying the cross or the cross that comes along has to do with this self-emptying. When something is empty, it is very clear. There is not just a little bit left in it. The bottle is empty, the cash box is empty, the tube of toothpaste is empty.
+
+It is a very clear concept: "He emptied himself by taking the form of a slave, becoming as human beings are; and being in every way like a human being, he was humbler yet, even to accepting death, death on a cross" (Phil. 2:7-8).
+
+The Lord invites us to be very focused there, to see the fruits of many things in and through that cross that God has given to us.
+
+We can ask Our Lord that we might love the cross a little more, and to love it in the ordinary things of each day.
+
+A husband came to me once in Manila and told me that the thing he found most difficult in his marriage and family life was to accompany his wife shopping on a Saturday afternoon to the supermarket. He had to push the trolley up and down the different lanes while his wife chose things off the shelves and sometimes changed her mind.
+
+This thing went on for a long period of time. He says, "I get exasperated, I get so annoyed and impatient and furious."
+
+His big battle in the spiritual life was to keep his big mouth shut and not to complain. He used to come back each week and say, "You know, I managed not to say anything this week. I managed to keep my mouth shut."
+
+He came back another week and said, "Yes, I managed to keep silent this week." Big battle, big struggle.
+
+He came back a third week and said, "You know, I think my wife is beginning to notice, because this week she turned around and she said, 'What's the matter? Are you sick?' And I had to say to her, 'Can't you see I'm about to explode?'" That was his big battle.
+
+Sometimes the little crosses of each day can be quite exasperating, difficult, can cost a lot. But often they are in the small things that Our Lord has permitted---those little things all the time.
+
+We can try to say an *aspiration* when those things come along---things that we might not understand, that we might see as a true contradiction. But if we know this is somehow *Digitus Dei*, "the Finger of God" is here.
+
+Fulton Sheen liked to say there is "\[enduring\] freshness \[of\] the wounds of Christ" (Fulton Sheen, *FultonSheen.TV Podcast*). It's deep in those wounds that we get the strength to carry whatever crosses it is that God may want for us.
+
+And the cross is a sign of conversion; all conversion takes place on and from the cross.
+
+Pope Benedict, when he was elected in 2005, said, "The cross \[suffering\] is the way to transformation. Without it nothing is transformed" (Pope Benedict XVI, *Address*, July 25, 2005).
+
+When we see the world in a bit of a mess, we know the cross is the answer to this mess. The Church is the answer to this mess.
+
+I'm reading at the moment Hilaire Belloc's *The History of the Reformation*, why it happened. You see the mess that Europe was in at the time.
+
+Yet the answers and the solutions are all in the Church, in Christ, in the cross. We just have to stay close to the cross and Christ will redeem the world as He did before, renewing that redemption, saving the world in all sorts of ways with the instruments that He has given us, in and through the means that He has placed before us.
+
+He wants us to derive our strength to carry that cross from His wounds, immersed deep in those wounds that the coming period of Lent will give us a particular opportunity to savor, to go a little deeper in.
+
+A very holy person in Singapore said to me once, "I look forward to Lent and Advent." I was rather struck by those words. I'd never heard somebody say that before.
+
+"I look forward to Lent and Advent"---as though this person knew how to savor the spiritual richness of those periods that the Church gives us.
+
+*In laetitia, nulla dies sine cruce!* Our Father has given us a sort of a background music for our life. "In joy, no day without a cross" (*cf*. J. Escrivá, *Christ Is Passing By*, Point 176; *Friends of God*, Point 216).
+
+Somebody turned those words around: *No cross \[nulla cruce\] in laetitia sine dies*. "No cross forever with great joy." You turn them around and you get completely a different meaning.
+
+Our Father has told us very clearly: our joy is there in and through the cross.
+
+One time our Father was seated on the steps of Diego de León in Madrid. He was chatting to two young people of the Work who were there sort of as the receptionists keeping people away and letting people come in.
+
+Our Father was there and he went out and sat on the steps with them to chat with them for a while. One of these young people, newly whistled, asked our Father to make the Sign of the Cross on his forehead.
+
+Our Father, which was a custom he had often, said to him: "Certainly, my son, because you've just taught me a wonderful lesson. You've reminded me of all the times in my life when I haven't accepted with a smile, like the big smile you have on your face from ear to ear, the little crosses of each day that God wanted to send me."
+
+When our Father finished speaking to them, he went inside to the Commission and he called all the members of the Commission together into the living room and said, "Listen, this young fellow outside has just taught me a wonderful lesson." And he began to share it with them.
+
+"These are the unmistakable signs of the true Cross of Christ," our Father says in *The Forge*. "Serenity, a deep feeling of peace, a love which is ready for any sacrifice, a great effectiveness which wells from Christ's own wounded side. And always---and evidently---\[joy: a joy\] which comes from knowing that those who truly give themselves are beside the Cross, and therefore beside Our Lord" (J. Escrivá, *The Forge*, Point 772).
+
+I remember one time in Pamplona there had been an excursion and the *vocal* of St. Michael from the delegation had gone on the excursion, and he had fallen down somewhere, and he died on that excursion.
+
+Somebody from Aralar in the house was in the house of the delegation the following day and when they came home, they were asked, "How are things there?"
+
+And somebody had just died in the house, and they said, "The director of the delegation was just going quietly about his business, doing things with great serenity."
+
+You could see there was obviously a big cross, a big suffering, a big pain. Yet people were carrying on, trying to see the hand of God behind that major contradiction.
+
+Over time we learn how to carry the cross and how to give an example to other people of how to carry the crosses that God wants them to carry in their life.
+
+There may be many people of the Work whom God visits with major crosses in their life. But hopefully, from the information they've received from us, or the example they've seen, they learn how to handle that cross in their life.
+
+There was a retreat I was giving one time, December 22, 1982, and in the conference center the director of the Catering came to say that someone had gone out to do a message and had not come back.
+
+She was very worried, and we told them to pray. An hour later the police came to say there'd been a car accident and the vice-director of the Catering had been killed, and another sister numerary had broken her leg.
+
+I knew that family. They had a brother in the work, my age more or less, and the mother in that family was a widow, the father had died young, leaving four children. The mother had brought up these four children, the second eldest had joined the Work.
+
+The mother did not understand the vocation too much but did not stand in his way. She was a holy woman. And then she got in contact a bit with the Work herself, and then her only daughter joined the Work as a numerary.
+
+That was the one that was killed, and then a few years later the woman herself was listed as a supernumerary.
+
+I was in the morgue of the hospital the following day when this lady came to see her dead daughter for the first time.
+
+Of course there was a lot of grief, but then she pulled herself together and said, "Let's get on with the prayers."
+
+About a week later, after the funeral, I was talking to that lady and I asked her, "How are you now?" She had just lost her only daughter.
+
+And she said, "I've been thanking God for the crosses that He sends me." I was a bit taken aback. Here she is thanking God "for the crosses that He sends me."
+
+She said, "Yes, I realize, because they could have been worse."
+
+And I was thinking, 'What could have been worse? Your husband dies, leaving you with four children. You're not well off; you have to bring up four kids on your own. Then God asks you for two of your children and then He asks you for the life of your only daughter.'
+
+She said, "My daughter might not have been faithful to her vocation. And that would have been worse."
+
+Here was this woman at the height of her Calvary, and God had given her the grace to see this with a supernatural outlook, and to learn how to thank God for the crosses that He had sent her in her life.
+
+Those days and weeks, she floored many people with her supernatural considerations, when they came to console with her. She gave them a great example of how to be supernatural in that moment---full of strength beside the cross.
+
+The formation that we give people and the example that we give people in the means of formation and in our lifestyle will hopefully help them to have the strength to carry the crosses that God may permit in their life---to turn what might otherwise be sadness into joy. *Tristitia vestra convertita in gaudium* (*cf*. Jer. 31:13, John 16:20).
+
+We change the outlook of many people in the world by the focus that we give them, by our own personal generosity in carrying the cross.
+
+We could say to Our Lord: Help me to be more demanding on myself and less demanding on others. Help me to bear with joy for love of Christ: the discomfort, the scarcity of means---all the consequences of the real poverty that I'm called to live. The extra demands.
+
+*Siempre más*. That I might be generous with the cross.
+
+In the letter of January 1993, Don Álvaro said, "Now that so many people want to hear only about physical well-being and not about sacrifice, about roses and not about thorns, we must pay special attention to a warning written by our Father in an early document.
+
+"When someone expresses the desire to ask for admission to Opus Dei, it's important for them to be told clearly that when they come to the Work, they come not to Tabor but to Calvary."
+
+Meditating on the Gospel account of Our Lord's transfiguration, "Master, it is well that we are here. Let us make three booths," St. Peter suggests (Luke 9:33). Our Lord gave those three apostles a momentary glimpse of the splendor of His divinity at the summit of Mount Tabor.
+
+Peter had still not grasped that Christ had to suffer for us before entering into His glory, and that *Non est discipulis super magistrum*, "A disciple is not above his teacher" (Luke 6:40).
+
+Later on, he would come to understand this, experiencing it in his own flesh, and he transmitted it to us in one of his Letters: "Christ suffered for you, leaving you an example that you should follow in his steps" (1 Pet. 2:21).
+
+Lord, help me to love the cross, to thank you for it, not to run away from it, not to distance myself when you call me to be a little bit more like our Father. Or to face the major challenges that may be there in our life.
+
+It could be in the course of our life, at some stage, God visits us with some particular cross that we never dreamt of. We never thought it might happen to us.
+
+But maybe it's some contradiction that comes along that's not going to go away. Maybe it's going to be there for the rest of our life.
+
+Yet we have the formation and the grace to be able to handle that particular thing, to carry on. Not to see it as a major thing, but just a basic matter of ordinary administration.
+
+There was a supernumerary who came to Singapore once who had gone to the States for something and done his seminar for supernumeraries there in San Francisco. He was telling me about the numerary in charge of the seminar who was Art Crowell, now deceased, who I think was a dentist, and who it seems at a later stage of his life had Parkinson's disease. It's a thing where you have a lot of rigidity in your limbs.
+
+He was one of the people looking after the seminar, and this guy asked him how he was, and he says, "I'm very well, thank you. It's going well. I got this new drug, and my limbs are much freer now. My joints are much freer than they were."
+
+This supernumerary was very impressed and moved by this older numerary who had his health problems, but he was there taking care of the seminar, being available, not focused on his own little problems, but there helping to bring everything forward.
+
+Often that's the sort of sacrifice that we're called to make, to be available for things, to handle situations or activities when maybe, we don't feel like it, or it's not the easiest thing in the world, or we have to get over other sorts of difficulties---cancel this activity, take a leave, do what's necessary, all these sorts of things that we accept with love, as wanted by God for our growth, all the sufferings, physical and moral, contradictions, misunderstandings, miscommunications, sicknesses, limitations.
+
+This is the way God has made me. This is where He's placed me. This is where He wants me to be at this particular moment and He will give me the grace to be able to handle the problems or to bring it through, to work in me and through me, in spite of my miseries or my difficulties or my limitations.
+
+"When we come to the Work," said Don Álvaro, "we do not come to Tabor. If we're faithful to God on this earth, he will grant us that glorious happiness in heaven, but not before.
+
+"Nor have we come to the Work for the sake of a poor earthly happiness, precariously balanced upon human success or prosperity. Much less have we come in search of an almost animal contentment, like that which the fool---that is what Our Lord calls him in the parable---was after he said to himself, 'Take your ease, eat, drink and be merry'" (Luke 12:19).
+
+We look for the cross of each day. We thank God for the cross that comes.
+
+Sometimes with our corporal means of mortification, we'll be imposed the cross on ourselves. We should have a great love for those means, great fidelity to those means, embrace those means.
+
+There are many little miseries and contradictions and limitations that are to be conquered in and through those means, that remind us that we're here to carry the cross. It's the prayer of the senses.
+
+And to carry it generously. We show Our Lord with those means that we're serious.
+
+"Jesus calls us to Calvary," he says, "so that we can give up our lives in co-redemption with him. 'If anyone would come after me, let him deny himself and take up his cross and follow me' (Matt. 16:24). This is the only way to attain happiness in heaven and on earth."
+
+For Jesus promises that "whoever loses his life for my sake will find it" (Matt. 16:25). We've come to "lose our life."
+
+And that's the way we show other people that we place Christ on the top of all human activities. That's what it's all about.
+
+How well our Father knew this from experience. "Having the cross," he says, "means finding happiness and joy" (*cf*. J. Escrivá, *The Way*, Point 758).
+
+"And the reason which I now see more clearly than ever is this: that having the cross means being identified with Christ, means being Christ and therefore being a son of God. It's worth nailing ourselves to the cross because it means entering into life, drinking in the life of Christ."
+
+Lord, help me to see, help me to understand, and to impose that cross a little better each time with our small mortifications, with all the little acts of self-denial.
+
+"St. Paul himself had to take a stand against those who wanted to behave in a worldly manner," he says, "and to try to justify themselves by saying, 'All things are lawful to me, but not all things are helpful. All things are lawful for me, but I will not be enslaved by anything'" *(cf*. 1 Cor. 10:23).
+
+In a few words, he teaches with his own example what the attitude of a son or daughter of God should be with regard to the goods of this earth. "The world has been crucified to me and I to the world" (Gal. 6:14).
+
+We embrace the cross, thank God for it. We know we're on the right track. We use it, harness it, show Our Lord: I'm really serious about that particular intention: that soul that has to find their vocation, that other virtue that I want to acquire, the vice that I want to conquer, and that other soul that I want to bring forward in some particular way.
+
+In Vázquez de Prada, we're told, "At first sight the oratory \[on Jenner Street\] seemed to have a motif of crosses: the crucifix on the altar; the wooden cross on the wall; the crosses at the base and intersections of each of the candlesticks; the crosses on the frieze; and the fourteen crosses of the Stations of the Cross.
+
+"Years later, in one of his circular letters, St. Josemaría mentioned this. He said, 'In the oratory (a small room, lacking even benches, despite being the best room in the house), we had put up the Stations of the Cross. And I told my sons: How valiant we are! We've put up all these crosses. Are you ready to carry all of them?'" (Andrés Vázquez de Prada, *The Founder of Opus Dei, Volume II*).
+
+We find Our Lady beside the cross: strong, faithful, joyful, full of fortitude. We can ask Our Lady that we might come to love the cross that she did.
+
+It's a great instrument that God has given us, and that we might entertain that desire to "place Christ at the top of all human activities" (J. Escrivá*, Friends of God*, Point 58).
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*MVF*
