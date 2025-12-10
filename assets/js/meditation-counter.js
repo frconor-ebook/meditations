@@ -2,6 +2,7 @@
 (function() {
   const STORAGE_KEY = 'meditations-read';
   const READ_DELAY_MS = 10000; // 10 seconds before counting as read
+  const SCROLL_THROTTLE_MS = 100; // Throttle scroll events for performance
 
   // Get list of read meditations from localStorage
   function getReadList() {
@@ -22,6 +23,45 @@
     }
   }
 
+  // Throttle function for scroll events
+  function throttle(func, limit) {
+    let inThrottle;
+    return function(...args) {
+      if (!inThrottle) {
+        func.apply(this, args);
+        inThrottle = true;
+        setTimeout(() => inThrottle = false, limit);
+      }
+    };
+  }
+
+  // Calculate current scroll progress (0-100)
+  function getScrollProgress() {
+    const scrollTop = window.scrollY || document.documentElement.scrollTop;
+    const docHeight = document.documentElement.scrollHeight;
+    const winHeight = window.innerHeight;
+    const maxScroll = docHeight - winHeight;
+
+    if (maxScroll <= 0) return 100; // Page fits in viewport
+
+    const progress = Math.round((scrollTop / maxScroll) * 100);
+    return Math.min(100, Math.max(0, progress));
+  }
+
+  // Update progress for a specific meditation
+  function updateProgress(slug, newProgress) {
+    const list = getReadList();
+    const item = list.find(entry => entry.slug === slug);
+
+    if (item) {
+      // Only update if new progress is higher (never decrease)
+      if (newProgress > (item.progress || 0)) {
+        item.progress = newProgress;
+        saveReadList(list);
+      }
+    }
+  }
+
   // Check if meditation was already read
   function isAlreadyRead(slug) {
     const list = getReadList();
@@ -36,7 +76,8 @@
     list.push({
       slug: slug,
       title: title,
-      readAt: new Date().toISOString()
+      readAt: new Date().toISOString(),
+      progress: getScrollProgress()
     });
     saveReadList(list);
     updateBadgeCount();
@@ -101,10 +142,20 @@
       listHTML = '<ul class="reading-list">';
       list.forEach(item => {
         const date = new Date(item.readAt).toLocaleDateString();
+        // Default progress to 100 for old entries without progress field
+        const progress = item.progress !== undefined ? item.progress : 100;
         listHTML += `
           <li>
-            <a href="${baseurl}/homilies/${item.slug}/">${item.title}</a>
-            <span class="read-date">${date}</span>
+            <div class="reading-item-header">
+              <a href="${baseurl}/homilies/${item.slug}/">${item.title}</a>
+              <span class="read-date">${date}</span>
+            </div>
+            <div class="progress-container">
+              <div class="progress-track">
+                <div class="progress-bar" style="width: ${progress}%"></div>
+              </div>
+              <span class="progress-text">${progress}%</span>
+            </div>
           </li>
         `;
       });
@@ -166,11 +217,27 @@
       const slug = getSlugFromUrl();
       const title = getTitleFromPage();
 
-      if (slug && title && !isAlreadyRead(slug)) {
-        // Start timer - mark as read after 10 seconds
-        setTimeout(() => {
-          markAsRead(slug, title);
-        }, READ_DELAY_MS);
+      if (slug && title) {
+        if (!isAlreadyRead(slug)) {
+          // Start timer - mark as read after 10 seconds
+          setTimeout(() => {
+            markAsRead(slug, title);
+          }, READ_DELAY_MS);
+        }
+
+        // Track scroll progress (for both new and existing entries)
+        const handleScroll = throttle(() => {
+          const progress = getScrollProgress();
+          updateProgress(slug, progress);
+        }, SCROLL_THROTTLE_MS);
+
+        window.addEventListener('scroll', handleScroll);
+
+        // Also update progress on page unload to capture final position
+        window.addEventListener('beforeunload', () => {
+          const progress = getScrollProgress();
+          updateProgress(slug, progress);
+        });
       }
     }
 
