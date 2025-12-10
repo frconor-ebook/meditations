@@ -71,6 +71,10 @@
                 <button id="text-size-normal" class="active" aria-label="Normal text size" title="Normal text size">A</button>
                 <button id="text-size-large" aria-label="Large text size" title="Large text size">A+</button>
             </div>
+            <!-- Meditation Counter Badge -->
+            <button id="counter-badge" class="counter-badge" aria-label="View reading history" title="View reading history">
+                <span id="counter-number">0</span> read
+            </button>
         </div>
     </nav>
 </header>
@@ -380,9 +384,23 @@
         </svg>
     </button>
 
-    <script src="/meditations/assets/js/search.js?v=1765339227"></script>
+    <!-- Reading List Modal -->
+    <div id="reading-list-modal" class="modal-overlay" aria-hidden="true" role="dialog" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Your Reading History</h2>
+                <button id="modal-close" class="modal-close" aria-label="Close modal">&times;</button>
+            </div>
+            <div id="reading-list-content" class="modal-body">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/meditations/assets/js/search.js?v=1765340429"></script>
     <script src="/meditations/assets/js/theme-toggle.js"></script>
     <script src="/meditations/assets/js/text-size-toggle.js"></script>
     <script src="/meditations/assets/js/scroll-top.js"></script>
+    <script src="/meditations/assets/js/meditation-counter.js"></script>
 </body>
 </html>
