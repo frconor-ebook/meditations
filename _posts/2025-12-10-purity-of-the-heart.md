@@ -41,9 +41,9 @@ Christmas beckons us to focus a little more on the interior things, on the thing
 
 "What comes out of the mouth proceeds from the heart" (Matt. 15:18). The whole man is defiled by what happens in his heart---evil desires and intentions, envy, spite.
 
-These external sins which Our Lord enumerates, before they're ever committed externally, have already been committed interiorly in the sinner's heart.
+These external sins which Our Lord enumerates, before they're ever committed externally, have already been committed interiorly in the sinner's heart. That's where God is loved or offended.
 
-That's where God is loved or offended. And that's why we have to examine our heart, and take care of our heart, and guard our heart, and purify our heart, and seek refuge in the Heart of Christ. Fashion our heart after that Heart of Christ.
+And that's why we have to examine our heart, and take care of our heart, and guard our heart, and purify our heart, and seek refuge in the Heart of Christ. Fashion our heart after that Heart of Christ.
 
 It's true that sometimes the external action increases the goodness or the sinfulness of the interior act, through a greater intensity of determination, of the harm caused to other people.
 
@@ -91,7 +91,7 @@ Our Lord challenges us to cut, because those things can only bring us down. By o
 
 "Where your heart is, there your treasure is also," we're told in Scripture (*cf*. Matt. 6:21).
 
-Our holiness, our salvation, that of ourself and of our neighbor, has to come first.
+Our holiness, our salvation, that of ourselves and of our neighbor, has to come first.
 
 In *The Way* we're told, "If your right hand scandalizes you, pluck it out and cast it from you! Poor heart! For this it is that scandalizes you! Press it, squeeze it tight in your hands: give it no consolations. And when it asks for them, say to it slowly, with a noble compassion---in confidence, as it were: 'Heart, heart on the Cross, heart on the Cross!'" (Josemaría Escrivá, *The Way*, Point 163).
 
@@ -169,7 +169,7 @@ St. John says, "We know that when he appears we shall be like him, for we shall 
 
 We will, at last, be able to gaze upon God and to contemplate Him, that same God that we have tried to serve throughout our lives.
 
-A secular writer has said, "You can't play with the animal in you without becoming wholly animal. You can't play with falsehood without forfeiting your right to truth. You can't play with cruelty without losing your sensitivity of mind. He who wants to keep his garden tidy does not reserve a plot for weeds" (Dag Hammarskjold).
+A secular writer has said, "You can't play with the animal in you without becoming wholly animal. You can't play with falsehood without forfeiting your right to truth. You can't play with cruelty without losing your sensitivity of mind. He who wants to keep his garden tidy does not reserve a plot for weeds" (Dag Hammarskjold, *Markings*).
 
 As we examine our hearts, we have to see: Is there any area of my heart where I have reserved a plot for weeds?
 
