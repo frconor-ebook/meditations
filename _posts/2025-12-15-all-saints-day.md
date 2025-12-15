@@ -1,0 +1,244 @@
+---
+layout: homily
+title: "All Saints’ Day"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"My dear friends," we are told in St. John, "we are already God's children, but what we shall be in the future has not yet been revealed. We are well aware that when he appears we shall be like him, because we shall see him as he really is. Whoever treasures this hope of him purifies himself, to be pure as he is" (1 John 3:2-3).
+
+Today we celebrate the Feast of All the Saints, a feast of all those who have gone before us and who are now happy in heaven.
+
+In many ways, the goal of our life is to be a November 1 saint, not necessarily to have a feast day assigned to us, but to be one of those immense numbers of people in heaven, enjoying the company of God forever.
+
+"Blessed are you when people abuse you and persecute you and speak all kinds of calumny against you falsely on my account. Rejoice and be glad, for your reward will be great in heaven; this is how they persecuted the prophets before you" (Matt. 5:11-12).
+
+Today is a day of joy, and also a day of hope---a day of joy and hope because we look forward to the eternal wedding feast to which God has called us, which will bring us great joys. "Your reward will be great in heaven."
+
+St. Josemaría in *The Way* says, "Foster in your heart the glorious hope of heaven" (Josemaría Escrivá, *The Way*, Point 668).
+
+"What does it matter," he says, "if we suffer in this world for ten, twenty, thirty, forty years\...if afterwards there is heaven forever and forever and forever?" (*ibid*., Point 182).
+
+Heaven makes everything worthwhile. We can look forward to that great reality where "eyes have not seen, nor ears heard, nor has it entered into the heart of man the things that God has prepared for those who love him" (1 Corinthians 2:9).
+
+Today we celebrate those who have fought the good fight, who have finished the race (*cf*. 2 Tim. 4:7), who communicate to us a message that is worthwhile: Keep on struggling. "Be you perfect as your heavenly Father is perfect" (Matt. 5:48).
+
+"You must see," said St. John, "what great love the Father has lavished on us by letting us be called God's children, which is what we are. The reason why the world does not acknowledge us is that it did not acknowledge him" (1 John 3:1).
+
+In the Beatitudes Our Lord encourages us to walk along a certain pathway, which is the pathway to heaven, to be poor of spirit, to be gentle, to hunger and thirst for righteousness, to be merciful, to be pure in heart, to be a peacemaker. All these things He suggests to us as beautiful realities.
+
+A lady told me once how in the Old Testament God gave us the commandments, but in the New Testament, He gave us the Beatitudes. It's like a loving Father speaking to His children. Commandments are like a Creator speaking to those He has created.
+
+Ultimately the message of today's feast day is that sanctity is within reach of everyone.
+
+And we know, we've heard, from the Second Vatican Council and so many other ways, that everyone is called to holiness. The *Entrance Antiphon* of today's Mass says: "Let us all rejoice in the Lord and keep festival in honor of all the saints. Let us join with the angels in joyful praise to the Son of God."
+
+We're also reminded today and tomorrow of the Communion of Saints, how we are united in the Church.
+
+The Church has different parts, just like the human body. There's the *Church suffering* in purgatory; there's the *Church triumphant*in heaven; the *Church militant* here on earth, struggling, fighting.
+
+The Blessed in heaven, we know, can help us here on earth. The truth of our faith is that those who have gone before us, who have a special relationship with us, continue with their particular concern for each one of us from heaven.
+
+Our parents, our loved ones, we know, follow us very closely. Somebody said once, the distance between heaven and earth is really very small.
+
+The *Preface* of today's Mass says: "Around your throne, the saints sing your praise forever. Their glory fills us with joy."
+
+And Our Lord reminds us of the rewards for our fidelity. "Blessed are you, for I was hungry and you gave me to eat. I was thirsty and you gave me to drink" (Matt. 25:35).
+
+No small thing that we do on this earth for others and for God will be forgotten in the eyes of God.
+
+St. Josemaría reminds us that all the little things we may have done in the past, our guardian angel has taken note, and on the day of judgment, he will bring out all those good deeds from his files.
+
+We're encouraged because the difficulties, the miseries, the crosses---we realize these are all the pathway to holiness.
+
+The saints were normal people, not superbeings. But often they did have a heroic correspondence to the graces that God gave them. Somehow, they took very seriously that phrase of Scripture: "This is the will of God, your sanctification" (1 Thess. 4:3).
+
+Stories of fidelity are always very beautiful and very moving, and can be very inspiring for us.
+
+We are called to the fullness of love, and we're reminded today that sanctity is accessible to everyone in all sorts of jobs and situations. Nobody is excluded.
+
+There was a document of the Holy See that was being prepared in the 1940s that began to open up to the idea that people could be holy in the world. It's mentioned in a book called *The Canonical Path of Opus Dei*.
+
+That document mentioned how people could be holy in most professions, but not in anything relating to commerce or finance.
+
+In the succeeding twenty years, before the Second Vatican Council, the Holy Spirit worked a bit more, and we came to the great teaching of the Council about the *universal call to holiness*. There are no limits to where we can be holy, which walks of life can be holy here on earth.
+
+This Feast of All the Saints has been celebrated since the eighth century. There's a great tradition in the Church of celebrating the saints.
+
+In *The Forge*, we're told, "It seems an excellent idea to me that you should tell the Lord often about your great and ardent desire to be a saint, even though you see yourself filled with wretchedness\...---Tell him, precisely because of this!" (J. Escrivá, *The Forge*, Point 419).
+
+Our sights are lifted up onto great goals, great ideals. We're reminded that it's not enough to be nice people, good guys. God wants us to be saints.
+
+St. Josemaría used to say to his children, "I love you very much, but I want you to be holy." There was a play on the word *querer*, to love in Spanish, and to want. "I love you very much, but I want you to be holy."
+
+We know that we have all the graces to achieve this end. "My grace is sufficient for you" (2 Cor. 12:9).
+
+Through the life of St. Josemaría, we also have all the means: our plan of life, our norms, our prayer, our mortification, our examination, our living out of the virtues, our Confession, our attention to little things.
+
+"Today in your prayer," we're told in *The Forge*, "you confirmed your resolution to be a saint. I understand you when you make this more specific by adding, 'I know I shall succeed, not because I'm sure of myself, Jesus, but because\...I'm sure of you'" (*ibid*., Point 320).
+
+St. Josemaría also liked to tell us that the sanctity that God is asking of us is not an ordinary sanctity, but a canonizable sanctity.
+
+He's placed the bar very high. Christ has given us so much, a great immeasurable spiritual wealth, in the spirit of Opus Dei.
+
+"But those to whom much has been given, much will be demanded" (Luke 12:48).
+
+We're told in *The Forge,* "You are amazed to find there are many different goals that can be pursued within each field in which improvement is possible. ---There are other ways within *the way*, and they help you to avoid possible routine and bring you closer to Our Lord. ---Be generous: aim for the highest" (*ibid*., Point 820).
+
+We see athletes around us going for gold, preparing for the Olympics, breaking records in marathons.
+
+Our Lord wants us to have the same mentality as those athletes, not struggling for a perishable crown. We see people doing all sorts of amazing things to obtain that perishable crown, but we're striving for "an imperishable crown" (1 Cor. 9:25).
+
+"If you were consistent," we're told in *The Forge*, "now that you've seen his light you would want to be as great a saint as you were once a sinner: and you would struggle to make those desires a reality" (*ibid*., Point 883).
+
+In the *Furrow*, we're told, "You present yourself as a wonderful theoretician. But you don't give way to others even in the most insignificant trifles. I do not believe in that spirit of mortification of yours" (J. Escrivá, *Furrow*, Point 990).
+
+"Sanctity consists precisely in this: in struggling to be faithful throughout your life and in accepting joyfully the Will of God at the hour of death" (*ibid*., *The Forge*, Point 990).
+
+The Church tells us that the Holy Spirit is the great Sanctifier. And so, if we're striving for holiness, it makes a lot of sense that we would pray to the Holy Spirit frequently.
+
+The sequence of Pentecost Sunday, the *Veni Creator Spiritus* or the *Veni Sancte Spiritus,* hymns that we find in many popular Christian devotion booklets, are very good prayers to say in your *Thanksgiving after Mass* or in other moments of the day, asking the Holy Spirit that we might truly grow along this pathway.
+
+Like good athletes, we keep ourselves very fit and in shape, not allowing any trace of lukewarmness to enter.
+
+We're told in *The Way*, "You are lukewarm if you carry out lazily and reluctantly those things that have to do with Our Lord; if deliberately or 'shrewdly' you look for some way of cutting down your duties; if you think only of yourself and of your comfort; if your conversations are idle and vain; if you do not abhor venial sin; if you act from human motives" (J. Escrivá, *The Way*, Point 331).
+
+Many years ago in the 1980s, I was going out to Mass in Manila one Sunday morning and I had to cross one of the main streets of the city and I didn't know that there was a marathon taking place.
+
+In those days, marathons were just beginning, and I was blocked for about ten minutes while the runners were passing.
+
+But I got a bird's eye view of all the runners, and it was very interesting to see some people who were running very well, some people not so well, and others looking as though they should have stopped running in marathons about twenty years previously.
+
+But you could roughly divide the runners into those three groups:
+
+Those who entered the race for a bit of a joke, maybe the night before, they did no training. Very soon they got a pain in their side and had to drop out of the race.
+
+Then there were those who had done some training but perhaps hadn't pushed themselves too much. Eventually, they also developed a pain in their side. But because they'd done some bit of training, they were able to keep going, although with difficulty. Those were the ones with the looks of agony on their faces.
+
+The other group of runners were the ones who had taken the race seriously. They'd done a lot of good training. They went over the course beforehand. They knew where to turn left, where to turn right. They knew where the hills were, where they had to conserve their energy.
+
+And they were running like champions, cruising in the middle of the road. They were going to cruise home and eventually win the race.
+
+You could say that those three types of runners are roughly those that go to hell, go to purgatory, and go to heaven:
+
+Those who go to hell are those who haven't taken the race seriously, have not heeded any of the calls to vigilance, to training.
+
+Those who go to purgatory have, well, they've tried to do something.
+
+And those who go to heaven are those who run like champions and have a little bit in hand so that they can help many other people over the finishing line.
+
+In calling us to be saints, God has called us to be the third type of runner who take the race seriously, to listen to our coach very carefully, to pay attention to all the means that God gives us to triumph in the race, to take every twist and turn of the journey very carefully, to be thinking of other people in the race, and to enjoy the race.
+
+The *Entrance Antiphon* of today's Mass says: "Let us rejoice in the Lord and keep festival in honor of all the saints. Let us join with the angels in joyful praise to the Son of God."
+
+The theme of joy is very prominent: joy for those who have run the race well, who are focused on the goal. They know where they've come from, they know where they're going, they know what the race is all about.
+
+The supernatural last end of the universal redemption is signified in the Mass, the source of our sanctity for all those who practice the Beatitudes as described by Our Lord.
+
+The way we run the race well is to stay close to those sacraments, to love them, to appreciate them, to get as much as we can from them.
+
+The *Preface* of the Sacred Heart says: "We draw close to the Sacred Heart of Christ to draw water in joy from the wells of salvation" (*cf*. Isaiah 12:3). Along the pathway of the marathon, we need occasionally to draw plenty of that water.
+
+Our Mother the Church invites us also today to bring to mind in a special way those who have experienced difficulties and temptations similar to our own during life, and yet in the end triumphed over them.
+
+The Church has recognized many saints of every age and condition. Pope John Paul II canonized hundreds of saints, more saints in his pontificate than in the whole of the rest of human history. It's one of the themes of his pontificate: pointing to that goal of holiness in our lives.
+
+We remember all these saints each year and have recourse to them as intercessors for our various needs. We ask them for things. We know they have great intercessory power before God.
+
+We rejoice and ask the help of this countless multitude who have reached heaven after cheerfully passing through life sowing affection and joy almost without realizing it. They've sown the good seed in the lives of so many other people.
+
+They give us inspiration and encouragement of how we have to practice the virtues, and to find that holiness in the ordinary situations of each day.
+
+The Church has liked to remind us that the saints were not superheroes or special people. They would have had to confront difficulties very similar to what we may have to face. They would have had to begin again and again; make a daily effort as we do.
+
+The Church doesn't mention all of their names. There are too many to mention. But St. John Paul says they were "humble yet great laborers for the growth of the Kingdom of God in history" (*cf*. John Paul II, Apostolic Exhortation, *Christifideles laici*, Point 17, December 30, 1988).
+
+It would be a wonderful thing when we get to the end of our life to be able to look back and say, 'By the grace of God, I've managed to sow some seeds. This world is a better place with the fact that I have passed through,' so that we might inspire other people to take up the baton and run with it.
+
+A struggle against our passions and inordinate tendencies is necessary. We have to make a constant effort to improve.
+
+St. Josemaría said, "Sanctity does not depend on one's state of life---single, married, widower, or priest---but on our personal correspondence with the grace God grants to each one of us" (J. Escrivá, *In Love with the Church*, Point 37).
+
+The Church reminds everyone that both the worker who takes up his trade or profession each morning and the mother of a family committed to the daily running of the home should sanctify themselves in all sorts of ways by fulfilling their duties faithfully (*cf*. John Paul II, Apostolic Exhortation, *Christifideles laici*, Point 15, December 30, 1988).
+
+It can be consoling for us also to realize that people with whom we had dealings a short time ago are now contemplating the face of God. We continue to be united to them by profound friendship and affection through the Communion of Saints.
+
+St. Teresa of Ávila had a prayer to the Blessed in heaven where she said, "O holy ones who knew how to prepare so delightful an inheritance, help us now that you are so near the fount of all holiness. Draw water for those of us who are perishing from thirst" (St. Teresa, *The Exclamations of the Soul to God*).
+
+In the *Preface* of today's Mass we say: "Father, today we keep the festival of your holy city, the heavenly Jerusalem. Our brothers and sisters, the saints, now sing your praises forever around your throne and their glory fills us with joy. Our communion with them through your Church gives us inspiration and strength as we hasten on our pilgrimage of faith, eager to meet them."
+
+We, the faithful on earth, are the pilgrim Church on our way to heaven. While we make progress towards heaven, we need to gather up the treasure of good works we will one day present before God.
+
+Today's feast day reminds us to make good use of our time, and so that advice of the Gospel that says, "Store up for yourselves treasures in heaven" (Matt. 6:20).
+
+We hear a lot of people wondering about their investments, their return, and their interest. With the same focus and zeal, we could be interested in our interest that we're accruing in heaven and the good things that we do.
+
+We hear the Lord's invitation clearly: "If anyone will come after me, let him take up his cross and follow me" (Matt. 16:24).
+
+We know that we are called to the fullness of Christian life through our professional occupation. Work is the hinge of our sanctity. God wants us to encounter Him in our work by carrying it out with human perfection and supernatural outlook.
+
+It's there in the middle of the world that we long for the presence of the Lord, whom we will one day see face to face.
+
+And so, we offer up all our activities, practice charity in our dealings with others, and are generous in bringing that work that has been entrusted to us to completion. By talking with Our Father God as a friend, we can continually refine our contemplative spirit in the midst of the ordinary activities of every day.
+
+"For the vast majority of men," said St. Josemaría, "to be a saint implies sanctifying their work, sanctifying themselves in it, and sanctifying others through it. Thus they encounter God in the course of their daily lives" (J. Escrivá, *Conversations*, Point 55).
+
+What else did the vast host of glorified souls do? Mothers, intellectuals, manual workers---what did they do to win heaven? They just did the ordinary things; they fulfilled their work well.
+
+This is of absolute importance since we are desiring to abide with God forever in heaven. If we persevere in union with Christ and make an effort to sanctify the small realities of every day that Our Lord looks upon with affection, that crown will truly be ours.
+
+If at any given moment our fidelity might be lacking, we can rectify accordingly and set out once again on that path. That's our pathway on earth; sometimes falling down, like Our Lord on the way to Calvary, but always getting up again.
+
+Winning heaven is the challenge we face with the grace of God each day.
+
+The Blessed in heaven are not those who never fell in this life, but they're those who got up again. Possibly they got up again many times.
+
+Happily, that goal of holiness involves the task in hand and often is effected precisely among the persons that God has wanted to place at our side.
+
+God has said, "Love your neighbor" (Matt. 22:39). He didn't say, 'Love your friends.' We choose our friends, but God chooses our neighbor. And He invites us to love that neighbor.
+
+We need to realize fully that our generous and holy resolve to improve constantly has an important impact on others. We need to give a lot of good example, and to keep trying to be more Christ-like, to practice more virtues.
+
+If through God's grace and the help of others we do reach heaven, we won't enter eternal glory alone, but we have to try and draw many others in with us.
+
+Many of those who now contemplate the face of God in heaven perhaps did not have an opportunity during their time on earth to carry out great deeds. However, they did fulfill their modest daily duties as best they could.
+
+On occasion, they may have made mistakes. They gave in to impatience, or laziness, or pride, or perhaps even sinned gravely.
+
+Nevertheless, they repented right away and took advantage of the sacrament of Confession to begin again---the importance of the apostolate of Confession, of sharing with other people our magnificent experience of the sacrament of joy.
+
+The Blessed in heaven had big hearts and led fruitful lives since they knew how to sacrifice themselves for Christ.
+
+We too are very much in need of Our Lord's great mercy during our journey to heaven. Our Lord keeps us going day by day and doesn't let us falter.
+
+It's a tremendous good for us to pause frequently to consider Him and the graces we have received, to cast a contemplative gaze back over our week, our month, our year.
+
+A yearly retreat is a really good way to keep on the right path as the years pass by, possibly more important at certain stages of our life than others. But it keeps us on track, reminds us of the important things, helps us not to get lost in the race.
+
+The Blessed in their lives never consider themselves saints. On the contrary, they are often convinced of their great need for divine mercy.
+
+To a greater or lesser degree, everyone experiences sickness, or tribulation, or low energy periods in which everything entails a particular effort. Failure may come our way, but we have some successes also.
+
+Perhaps at times the saints were moved to tears, but they knew and put into practice those words that Our Lord says in Scripture: "Come to me, all you who labor and are heavy burdened and I will give you rest" (Matt. 11:28).
+
+They found their rest in Christ. The Blessed always lean on Christ for support. They visit Him in the tabernacle to draw renewed energy from His presence there.
+
+The personalities of the Blessed vary enormously, but in this life they had one distinguishing feature in common: they lived charitably with those around them.
+
+Our Lord had said: "In this will everyone know that you are my disciples, if you have love for one another" (John 13:35). This is the common denominator of the saints who currently enjoy the vision of God.
+
+Our Lady awaits us in heaven also. She'll offer us a hand to take us into the presence of her Son and of our faithful departed loved ones who even now watch over us.
+
+Mary, Queen of all the saints, pray for us.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*EW*
