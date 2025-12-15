@@ -1,0 +1,260 @@
+---
+layout: homily
+title: "St. John Paul II"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"In all truth, I tell you, when you were young," we're told in St. John, "you put on your own belt and walked where you liked. But when you grow old, you will stretch out your hands, and somebody else will put a belt round you and take you where you would rather not go" (John 21:18).
+
+Our Lord said these words to St. Peter, the first head of the Church, but they could well be expressed in relation to Pope St. John Paul II.
+
+Pope Benedict later said that the life of Pope John Paul could be summarized in two words: fidelity and commitment (*cf*. Wlodzimierz Redzioch, *Stories About Saint John Paul II*).
+
+After almost forty years of his pontificate that have passed, we can cast a contemplative gaze over all that he accomplished and we see some amazing things.
+
+Pope Francis has recently said, "God visited his people when he sent to the world John Paul II" (Pope Francis, *Homily,* May 18, 2020).
+
+His first words when he came out to the balcony after being elected in St. Peter's were: "From a faraway country, God has brought Peter to Rome" (John Paul II, *Homily for the Inauguration of his Pontificate*, October 22, 1978).
+
+He took as his motto, *Totus Tuus*, totally yours. He became the Marian Pope.
+
+He started traveling internationally. Pope Paul VI was the first Pope to really break the mold of international travel.
+
+But John Paul II shattered it. He made 104 trips. He traveled something like 775,000 miles, which means he could have circled the planet thirty times.
+
+He covered two-thirds of the world's countries and was arguably the most-seen person in history. The pontiff visited almost all of Africa during 14 trips.
+
+In addition to making important Church appointments, he canonized various African saints. He erected Opus Dei as a Personal Prelature.
+
+He came from that faraway country, from Poland, with great experience of totalitarian oppression, of massacres, of the desecration of a nation and its soul. He'd seen Jewish friends being taken from him in the Holocaust.
+
+He was an orphan at the age of twenty, and so, deprived at an early age of what most of us take for granted: security, family, hope, and meaning, he was thrown back on the only resources a human being can ever truly rely on: the irrefutable knowledge that we are divinely created, the unalterable fact that we were created in dignity and for dignity, and the reassurance that God, who is the Good Shepherd who walks with us and guides us and heals us, is constantly calling us to Him.
+
+He saw up close and personal what happens when the dignity of the human person is debased. One of the largest concentration camps, Auschwitz, was located in the diocese of Krakow. He saw very closely what human hells are made of.
+
+With this basis, he came during his pontificate to talk with such force about the dignity of man, the dignity of women, the dignity of the family.
+
+For twenty-six years, his papacy tenaciously witnessed the power of that faith. He saw communism collapse, Western leaders come and go.
+
+When he came to leave this earth in a long struggle with his failing body, the world gathered around him in a mixture of awe and affection, because they knew that here was the greatness that could only have had one source.
+
+Fulton Sheen liked to say that every 500 years, God gives the Church a great pope. In the year 500, I think, there was a Gregory. In the year 1000, there was a Gregory the Great, another Gregory. In the 1500s, there was Pope Pius V.
+
+And he said, "Now, around the year 2000, we have Pope John Paul the Great."
+
+Three US presidents came to his funeral. One of the Monsignors who organized his funeral was asked, "Was there any particular thing that struck him most about those very special days?"
+
+He said, "Yes, at one moment, I had to accompany three US presidents, two Bushes, and a Clinton, to kneel at the coffin of John Paul II. And I was kneeling right behind them."
+
+And he said, "You know, I always knew that John Paul II was a very special person. But when I saw three US presidents kneeling at his coffin, it sort of brings it home to you in other ways."
+
+The leaders at the time of all the great powers attributed the fall of communism to Pope John Paul II.
+
+The Ambassador to the Holy See, a Catholic, several years after his death, told a story of how Margaret Thatcher came to Rome three times after the death of John Paul II; on two occasions to visit his grave, and on one occasion to meet Pope Benedict.
+
+He said, "When I heard she was coming, I asked the secretary of the embassy to look in the archives and see, was there any photograph there of Margaret Thatcher with Pope John Paul II? And they found one.
+
+"They framed it very nicely and they put it on top of the grand piano in the main living room so that when she came in, she would immediately see it. That's what happened. She came into the room, she saw it, she liked it very much."
+
+About a week after she had gone home, the ambassador got a call from her secretary asking if it would be possible for her to have that picture.
+
+The ambassador was very happy. He felt he had scored a lot of points. He had done the right thing. They packaged it up very nicely and they sent it off to Mrs. Thatcher.
+
+About another week later, he got another call from the secretary to say that, "I just want to inform you that Mrs. Thatcher used to have a picture of herself and President Reagan on her desk. But now she has replaced it with a picture of herself and Pope John Paul II."
+
+There are all sorts of anecdotes of how he touched the lives of so many people. As Bishop of Krakow and later as Bishop of Rome, he came to understand very well the power of symbols, and he knew that actions speak louder than words.
+
+When he landed in each different country, he would kneel and kiss the ground. It was a very moving gesture. It won the hearts of many.
+
+He liked to say that we go "to the great spiritual mysteries through physical signs and symbols" (John Paul II, *Theology of the Body: Human Love in the Divine Plan*; *cf. Catechism of the Catholic Church*, Point 1146). He talked about how our liturgy is full of physical signs and symbols. Therefore, they need to be looked after, and protected, and preserved in all sorts of ways.
+
+He called world religious leaders together to pray for peace in Assisi. He prayed at the Wailing Wall in Jerusalem and inside the mosque of Damascus. He asked for forgiveness for the sins of the Church's history.
+
+Other world leaders were later asked if they would be apologizing for the sins of their nations in history. They all declined.
+
+He was responsible for the rise of the papacy on the international stage. I've heard that the country in the world that has the most embassies around the world is the United States, something like 180.
+
+But curiously, the next state that has the maximum number of embassies around the world is the Holy See.
+
+In each of those countries, there is an information network through bishops and priests and nuns and lay people giving information back to the nunciatures, which is sent to Rome, which must make the leader of the Catholic Church one of the best-informed persons on the whole planet.
+
+If you watch closely, every time a new American president is elected, one of the first places he goes to is Rome, and it's not to meet with the Italian president. It's to meet with the spiritual leader of the world.
+
+The papal spokesman during the time of John Paul II tells a story of how there was a conference in Eastern Europe about the state of the world. Many prominent people were there. The Holy See had a presentation.
+
+Among the people there was Henry Kissinger, the very famous Secretary of State, I think during the presidency of President Carter \[Presidents Richard Nixon and Gerald Ford\].
+
+He came to the papal spokesman after the presentation of the Holy See and said, "I think the presentation of the Holy See was the best presentation of this conference. It best sums up the state of affairs in the world."
+
+Then he said, "Do you think that the next time I'm in Rome, you could get me an audience with Pope John Paul II?"
+
+The papal spokesman said he was impressed by the tone of an excited 14-year-old Jew who was asking for that great favor.
+
+In 1984, President Reagan established full diplomatic relations between the United States and the Holy See. The United Kingdom had to do something similar.
+
+All the Arab states have relationships with the Holy See. It's a status symbol in the international community.
+
+The Holy See does not want to have relations with certain states because their human rights record is not up to scratch. That's why having relations is a status symbol.
+
+Shortly after he was elected, in January 1979, Pope John Paul decided he was going to go to a meeting of bishops in Puebla, Mexico. An erroneous theology of liberation was all the rage in South America at the time.
+
+Mexican authorities said they would not receive him because Mexico, constitutionally anticlerical, had no relations with the Holy See.
+
+But the Polish Pope, who was used to dealing with communist governments, was unfazed by this approach and said, "Tell them I'm coming anyway. I'll come as a private citizen."
+
+Of course, that would have been very embarrassing, so they had to back down.
+
+When the Pope went there, there were millions of people on the streets. It was a huge success. And that set the tone for the other 104 international trips that he made around the world.
+
+He spoke out on many issues, whether it was grinding poverty, or economic injustice, or the death penalty, or the war on the degradation and denigration of life at the beginning and at the end of our existence.
+
+He was never afraid to speak out and to challenge perceived orthodoxies. He was truly a sign of contradiction, a model for all Christians in the middle of the world and for our apostolate.
+
+He wrote two social encyclicals: *Sollicitudo rei socialis* and *Laborem exercens.* With a total of fourteen encyclicals, he prepared the Church for the 21st century.
+
+He saw very clearly that it was the will of God that he would lead the Church into the 21st century. And so, all of his fourteen encyclicals contain many of the ideas with which God wants to shape the Church and the world for the 21st century.
+
+A very good idea is to read one of his encyclicals each year and get a lot of ideas there.
+
+He organized the World Youth Day that brought millions of young people close to the Vicar of Christ on earth. It attracted young people in a way that any politician would envy. Millions of them.
+
+He left the Church stronger because he focused on what matters. He wanted to free up our energies for building up God's kingdom and for drawing humanity into a relationship with Christ.
+
+He liked to say that in Christ we find the meaning and the purpose of our life (*cf*. Pope John Paul II, *Homily*, World Youth Day, August 14, 1993)---and that's not just for Catholics, but for every person on the planet.
+
+He was never afraid of argument, and his service of the Gospel through the power of reason is one of his great legacies.
+
+Never before has a Pope produced so much food for the Church's journey. And we shall be digesting his teaching for many generations to come.
+
+He led the Church to *Cross the Threshold of Hope*---the title of one of his books at the beginning of the third millennium.
+
+The very important event was the assassination attempt on the 13th of May 1981, just two years into his papacy, on the feast of Our Lady of Fatima.
+
+He said that Our Lady was responsible for saving his life. The assassin had pulled the trigger, but Our Lady had guided the bullets.
+
+A year after his assassination attempt, he made a pilgrimage to Fatima. While he was convalescing, he wasn't receiving many people, but he received Bishop Álvaro del Portillo, who at the time was the President General of Opus Dei, later the Prelate, and later the Bishop.
+
+It's rather interesting to look back now at how St. John Paul II received Blessed Álvaro del Portillo.
+
+Blessed Álvaro told us that he told the Pope a rather unusual thing. He said to him, "Holy Father, Our Lady has sent you these bullets."
+
+A rather unusual statement to make, as though Our Lady goes around with an AK-47.
+
+And he said, "Our Lady has sent you these bullets because she wants to make you suffer. After all, in making you suffer, she draws you closer to herself. And in drawing you closer to herself, she draws you closer to her Son."
+
+The Pope sat up in bed and said, "That's the way I see things also."
+
+One year later, when he went to make that pilgrimage to Our Lady of Fatima to thank her for saving his life, he brought with him the bullet that had pierced his abdomen.
+
+Now that bullet has been embedded in the crown of Our Lady of Fatima as a memento for all time of how Our Lady of Fatima had saved the life of the Pope.
+
+Some people said that a 60-year-old man who's penetrated with a few bullets won't live very long. But after this event, we had one of the longest pontificates in the whole of human history: 104 trips, amazing things.
+
+Our Lady truly took care of her son. He was the Marian Pope with a Marian pontificate, a *Totus Tuus*. What God asked of him, he accepted. He placed His gifts at the disposal of each new mission.
+
+As a powerfully athletic younger man, he worked tirelessly in the service of others.
+
+As an enfeebled elderly Pope, barely able to speak, he allowed his suffering to comfort others who were suffering, and to speak on their behalf---more holy at the end and more effective because our effectiveness comes from our holiness.
+
+In *Salvifici doloris*, one of his documents, he said, "Suffering is present in the world in order to release love, in order to give birth to works of love towards neighbor, and to transform the whole of human civilization into a 'civilization of love'" (John Paul II, *Apostolic Letter*, *Salvifici doloris*, Point 30, February 11, 1984).
+
+He gave us many buzzwords and buzzphrases: the "culture of life" (John Paul II, Encyclical, *Evangelium vitae*, March 25, 1995), the "civilization of love" (Message, World Day of Peace, January 1, 2001; *Salvifici doloris*, February 11, 1984), the womb as "the sanctuary of life" (Encyclicals *Evangelium vitae*, March 25, 1995 and *Centesimus annus*, May 1, 1991).
+
+He gave us great documents on the family: *Familiaris consortio; Evangelium vitae--*the Gospel of Life; *Veritatis splendor--*the Splendor of Truth.
+
+Because of the great messages and gifts that the Catholic Church has to give the whole of society, we have an awful lot to be proud of.
+
+And so there's so much that we can learn from this late great Pope: the courage to accept what God has in store for us; the tenacity to preach the gospel in season and out of season, wherever we find ourselves; the capacity for keeping our minds and hearts on what is essential; the challenge to be, as he says in *Evangelium vitae*, "unconditionally pro-life."
+
+Above all, we can be inspired by his remarkable reliance on prayer. He was a man of contemplation as much as action. He knew when to withdraw, when to be silent, to offer everything over to Christ.
+
+He knew that his strength came from the only strength that is real and lasting in our world, namely, the constant love of God. He lived that love in the core of his being and dedicated himself wholly to that love.
+
+One of the Monsignors who used to organize some of his trips talked about how, often on these trips, Pope John Paul would immerse himself in the chapel of the nunciatures where he was staying. Sometimes he spent long periods there and that would mess up the whole schedule.
+
+So he tells a story of how they were in Baltimore in the U.S. and this Monsignor went to check out the nunciature before the Pope came and to check out his bedroom.
+
+It was down a long corridor and there were a number of doors that looked the same, and he discovered that one of the doors led into a chapel.
+
+He gave instructions to keep that door tightly closed, because if the Holy Father learns that's the chapel he will go in there, he'll spend a lot of time, and all the schedule will be shot.
+
+They did as they were told. They kept the door tightly closed.
+
+The following morning the Pope was coming down the corridor on his way out of the house and he passed that door, but then suddenly he stopped.
+
+He went back, knocked a little, opened the door to have a peep, and discovered it was the chapel. In he went and that was the end of their schedule.
+
+This Monsignor was sort of saying that the Pope had a sixth sense for the Blessed Sacrament. He could seek out Our Lord wherever he was.
+
+His secretary, later Cardinal Stanislaw Dziwisz, said that the secret of his person was the depth of his spiritual life. He always prayed and he learned the value of prayer as a boy and this aspect deepened afterward.
+
+The Argentinian Pope Francis said, "He knew well that the first task of a bishop is to pray. He knew it, and he did it."
+
+He said he was "a model of a bishop that prays"---the first task (Pope Francis, *Homily,* May 18, 2020).
+
+John Paul told the story of how when he was a kid his mother had passed away. Then his brother at the age of \[26\] passed away when Pope John Paul was 11.
+
+He was left with his father, and he talks about how he found his father on his knees in the middle of the night praying beside his bed. He said, "This example of my father was like the first seminary for me. The power of prayer, the importance of prayer. I saw it lived out in my father's life" (*cf*. Jason Evert, *Saint John Paul The Great: His Five Loves*).
+
+We can imagine his father kneeling beside his bed in the middle of the night praying\...well, he was not praying that Manchester United would win the Champions League.
+
+There's a great message there for fathers, for mothers, to be souls of prayer. That father did not know that God was using his example of piety and of virtue to form a future pope, one of the greatest popes in history and a great saint. There's a challenge there for each one of us.
+
+St. Josemaría liked to encourage everyone in contact with the spirit of Opus Dei to pray very much for the Pope, and to love the Pope ardently, whoever he might be, for the simple and sublime reason that he is the vicar of Christ on earth, His visible representative (*cf*. Josemaría Escrivá, *The Forge*, Point 134).
+
+When John Paul passed, Bishop Javier Echevarría, the Prelate of Opus Dei, said: "We know the enormous spiritual and moral prestige that the Holy Father had throughout the whole world.
+
+"But during these past few days---also on seeing the extensive coverage that the means of communication have dedicated to him---I think that everyone, including non-Catholics, has touched the truth of the saying that says, *Ubi Petrus, ibi Ecclesia: w*here Peter is, there the Church is also found.
+
+"And now, after so many years of generous dedication to God, the depth and effectiveness of his ministry as Supreme Shepherd has become even more apparent.
+
+"We are filled with the certainty that the Blessed Trinity will open wide the gates of heaven to him, as a reward for his constant zeal for souls, his persevering invitation to all men and women to open the doors of their souls to Christ. At the same time, we have a profound and serene sense of gratitude for all that he has done" (Javier Echevarría, *Letter from the Prelate*, April 7, 2005).
+
+About a year after John Paul passed away, there was a conference in Rome where a journalist talked about how the media coverage of his death had set a new record.
+
+He said there was something like 64,000 articles about the death and funeral of John Paul II all over the world---and that doesn't mean the same article was photocopied 64,000 times, but 64,000 different articles.
+
+It was a media record because the next record involved the re-election of President Bush, which had 4,000.
+
+These little details give us an insight into this great Pope; what we have witnessed.
+
+He put an image of Our Lady, *Mater Ecclesiae--*Mother of the Church, in St. Peter's Square. He dedicated a church in Rome to St. Josemaría.
+
+He broke the mold in many things. Pope Benedict says, "John Paul aroused new enthusiasm for Christ and his Church" (Benedict XVI, *Letter on the Centenary of the Birth of St. John Paul II*, May 4, 2020). And now the baton has been passed to each of us.
+
+He was deeply touched by the message of Faustina Kowalska, a nun from Krakow, who emphasized Divine Mercy as an essential center of Christian faith.
+
+And so there were so many things. He said that the teaching of the Second Vatican Council would give us many graces and food for thought for many years to come (*cf*. John Paul II, Apostolic Letter, *Novo millennio ineunte*, Point 57, January 6, 2001).
+
+We could ask St. John Paul on this, his feast day, for many favors: for the Holy Father, for Pope Emeritus Benedict XVI, for their intentions, for all the battles the Holy Father has to fight each day in the world.
+
+We could thank God for the *Catechism of the Catholic Church* and the *Code of Canon Law*, other great achievements of John Paul II.
+
+Recently, on the 100th anniversary of his birth, the Chief Rabbi of Poland said, "No other Pope has done more to heal the painful wounds, and did more than anyone else in history to effectively erase the scourge of antisemitism" (Michael Schudrich, *Letter*, May 17, 2020).
+
+He pointed out that the Jewish community of Poland, together with Jews throughout the world, always remember the life of Pope John Paul II.
+
+He said, "In the centennial year of his birth, we take a moment to recognize the profound impact he had on the world as a whole, and for us particularly, on Jewish-Christian reconciliation and dialogue. Pope John Paul embodied the essential quality of mutual respect and honoring every human being as a creation of God. No other Pope has done more to heal the painful wounds...and the scourge of antisemitism."
+
+Recently \[May 7, 2020\], the process of beatification of his parents, Emilia and Karol Wojtyla, was announced. It took place in the Basilica of the Presentation of the Blessed Virgin Mary in Wadowice, where he was baptized.
+
+That process goes forward. We have a lot to look forward to in that. We know well that there would be no man, priest, and bishop like Karol Wojtyla if it hadn't been for his parents and their great faith.
+
+Pope John Paul and his family have many messages for us, a great legacy.
+
+We could ask Our Lady, Mother of the Church, to help us to deepen in all the great legacy that he's given to us, like him to deepen in our love for the Church, in our own personal apostolate, in our defense of life and the family, and to our building up of the Church all over the world, which is the great goal of his life and what he yearned for.
+
+Mary, Mother of the Church, pray for us.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*JSD*
