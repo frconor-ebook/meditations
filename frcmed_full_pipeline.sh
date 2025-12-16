@@ -15,7 +15,7 @@
 
 # Script configuration
 set -o pipefail  # Ensure pipeline errors are caught
-SCRIPT_VERSION="1.5.2"
+SCRIPT_VERSION="1.5.3"
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 BASE_DIR="$SCRIPT_DIR"  # Changed: Use script directory as base directory
 PARENT_DIR="$(cd "$(dirname "$0")" && pwd)/.."
