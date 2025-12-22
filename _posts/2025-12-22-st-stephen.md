@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "St. Stephen (2025 Edition)"
+title: "St. Stephen"
 ---
 
 By Fr. Conor Donnelly
