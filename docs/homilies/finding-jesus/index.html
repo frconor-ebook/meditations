@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- FOUC Prevention: Apply theme and text size before page renders -->
+    <script>
+        (function() {
+            // Apply theme
+            const theme = localStorage.getItem('theme-preference') ||
+                (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', theme);
+            // Apply text size
+            const textSize = localStorage.getItem('text-size-preference');
+            if (textSize === 'large') {
+                document.documentElement.setAttribute('data-text-size', 'large');
+            }
+        })();
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fr. Conor Donnelly Meditations | Finding Jesus</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/meditations/assets/css/style.css">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0BXLC35GR"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-S0BXLC35GR');
+    </script>
+
+
+
+</head>
+<body data-baseurl="/meditations">
+    <header>
+    <nav>
+        <div class="logo">
+            <a href="/meditations/"><img src="/meditations/assets/images/logo-circ.png" alt="Fr. Conor Meditations Logo"></a>
+        </div>
+        <div class="nav-links">
+            <a href="/meditations/" >Home</a>
+            <a href="/meditations/team" >Team</a>
+            <a href="/meditations/connect" >Connect</a>
+        </div>
+        <!-- Header Controls (Theme + Text Size) -->
+        <div class="header-controls">
+            <!-- Theme Toggle Button -->
+            <button
+                class="theme-toggle"
+                id="theme-toggle"
+                aria-label="Toggle dark mode"
+                title="Toggle dark mode">
+                <svg id="theme-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <!-- Sun icon (shown in dark mode) -->
+                    <path class="sun" d="M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12zM11 1h2v3h-2V1zm0 19h2v3h-2v-3zM3.515 4.929l1.414-1.414L7.05 5.636 5.636 7.05 3.515 4.93zM16.95 18.364l1.414-1.414 2.121 2.121-1.414 1.414-2.121-2.121zm2.121-14.85l1.414 1.415-2.121 2.121-1.414-1.414 2.121-2.121zM5.636 16.95l1.414 1.414-2.121 2.121-1.414-1.414 2.121-2.121zM23 11v2h-3v-2h3zM4 11v2H1v-2h3z"/>
+                    <!-- Moon icon (shown in light mode) -->
+                    <path class="moon" d="M17.293 13.293A8 8 0 0 1 6.707 2.707a8.001 8.001 0 1 0 10.586 10.586z"/>
+                </svg>
+            </button>
+            <!-- Text Size Toggle Buttons -->
+            <div class="text-size-toggle" role="group" aria-label="Text size controls">
+                <button id="text-size-normal" class="active" aria-label="Normal text size" title="Normal text size">A</button>
+                <button id="text-size-large" aria-label="Large text size" title="Large text size">A+</button>
+            </div>
+            <!-- Meditation Counter Badge -->
+            <button id="counter-badge" class="counter-badge" aria-label="View reading history" title="View reading history">
+                <span id="counter-number">0</span> read
+            </button>
+        </div>
+    </nav>
+</header>
+
+    <main>
+        <article>
+    <h1>Finding Jesus</h1>
+    <p>By Fr. Conor Donnelly</p>
+
+<p><em>(Proofread)</em></p>
+
+<p>In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</p>
+
+<p>My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My Immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me.</p>
+
+<p>We are told in St. Luke that His parents were wont to go every year to Jerusalem at the feast of the Passover. And when He was twelve years old, they went up to Jerusalem according to the custom of the feast. And after they had fulfilled the days, when they were returning, the boy Jesus remained in Jerusalem, and His parents did not know it. But thinking that He was in the caravan, they had come a day’s journey before it occurred to them to look for Him among their relatives and acquaintances. And not finding Him, they returned to Jerusalem in search of Him.</p>
+
+<p>Our Lord grew up in an atmosphere of piety and of fulfillment of the law. An important part of which was making pilgrimages to the temple in Jerusalem. The book of Exodus talks about, ‘three times a year, pilgrimage should keep holiday in my honor’ (Exo. 23:14-17). Thrice in the year all menfolk must present themselves before the Lord thy God. These feasts were the Pasch, Pentecost, and the feast of Tabernacles.</p>
+
+<p>And although those who lived far away were not obliged to go, many Jews from the whole of Palestine used to travel to Jerusalem for some of these feasts. The Holy Family used to do this for the feast of the Pasch. We're told in St. Luke precisely, every year his parents used to go up to Jerusalem at the Paschal feast. Although this was obligatory only for males over the age of 12, Our Lady used to go with St. Joseph. Nazareth was just some 80 miles by the most direct road from Jerusalem.</p>
+
+<p>And the feast of the Passover came, several families would join together to make the journey, which lasted four or five days. And when the Child was twelve years old, He went up to Jerusalem as the custom was at the time of the feast. Once the Paschal rites were over, they began the return journey to Nazareth. And during these journeys, families divided into two groups, one of men and the other of women. The children could go with either. And this explains how Our Lord's absence was not noticed until the end of the first day, when everyone came together to set up camp.</p>
+
+<p>What exactly did they feel and think then? Difficult to describe. They thought that they had lost Our Lord. Or that He had lost them and was on his own, goodness knows where. There were great crowds leaving the city, and along the roads leading to it during those days. Our Lady and St. Joseph must have had a terrible night. And very early in the morning, they set off along the way that they had come back to Jerusalem.</p>
+
+<p>They spent three days, tired, worried, asking everyone if they had seen a boy about twelve years of age. All in vain. Our Lady and St. Joseph had lost Him through no fault of their own. We lose Him sometimes through sin. Through lukewarmness. Through lack of a spirit of mortification and of sacrifice. And then our life without Jesus is left in darkness.</p>
+
+<p>When we find ourselves in this darkness, we have to react immediately and look for Him. We need to know, who can and should know, where Our Lord is. The Mother of God who looked for her Son so anxiously when He was lost through no fault of her own, and experienced such great joy in finding Him, will help us to retrace our steps. And put right whatever may be necessary, when because of our carelessness or our sins, we have been unable to recognize Christ. With her help, we will know the happiness of holding Him in our arms once more, and telling Him we will never lose him again.</p>
+
+<p>In <em>Friends of God</em>, St. Josemaría says, "Mary is also the mother of knowledge. For it is with her that we learn the most important lesson of all: that nothing is worthwhile if we are not close to Our Lord. All the wonders of this earth, the fulfillment of our every ambition, everything is worthless unless the living flame of love burns within us. Unless there is the light of holy hope giving us a foretaste of the never-ending love in our true homeland in heaven."</p>
+
+<p>Our Lady and St. Joseph did not lose Jesus; it was He who went away from them. Our case is different. Jesus never abandons us. It is we who can cast Him away from our side through sin. Or at least keep Him at a distance through lukewarmness. Whenever someone meets Christ, it is always Jesus who takes the initiative. On the contrary, whenever there is separation, the initiative is always ours. He never leaves us.</p>
+
+<p>When a person commits a grave sin, they are lost both to himself and to Christ. They then go along without meaning or direction in their life. Because sin causes an essential disorientation. Sin is the worst tragedy that could happen to a Christian. The Second Vatican Council says, "In a few moments he is radically separated from God through the loss of sanctifying grace. He loses the merits acquired through the whole of his life. He becomes in some way subject to the slavery of the devil, and his tendency to virtue is diminished." This separation from God always breaks the right order that should reign within his being, as well as between himself and other men and all creatures.</p>
+
+<p>Unfortunately, many hardly give this any importance. It is lukewarmness, a lack of love, which causes us to value the companionship of Jesus very little or not at all. He values being with us. He died on a cross to rescue us from the devil and from sin. And to be with each of us always in this world and in the world to come.</p>
+
+<p>Mary and Joseph loved Jesus deeply. That is why they searched for Him without rest. That is why they suffered in a way that we cannot imagine. And that's why they were so happy when they found Him again. It would seem that nowadays not many are grievously concerned by His absence from their lives. There are Christians for whom the presence or absence of Christ from their souls means practically nothing. One writer says, "They move carelessly and with equal facility from sin into grace, but fail to give the impression of men who have just returned from hell, or having miraculously passed from death to a new life."</p>
+
+<p>One does not see in them the thankfulness, the joy, the peace and serenity of one who has to his vast relief rediscovered Jesus. Today we have to ask Mary and Joseph to show us how to appreciate Our Lord's company, and how to be ready to do anything rather than lose Him. St. Josemaría says, "How dark the world would seem, how dark our world would be without Jesus." What a great grace it is to realize this. Jesus, may I never lose you anymore.</p>
+
+<p>We will use all the human and supernatural means not to fall into mortal sin, and not even into deliberate venial sin. If we don't strive to hate venial sin, without the false excuse that it's not grave, we will never have a close relationship with Our Lord.</p>
+
+<p>In the Temple of Jerusalem, there were various areas devoted to worship and to the teaching of scripture. Mary and Joseph went into one of these. It was probably the portico of the temple, where people went to listen to the explanations of the doctors of the law, and could ask questions and receive a reply. Jesus was there. His questions, by their wisdom and knowledge, had attracted the attention of the doctors. He was there, one among many listeners sitting on the floor, putting questions as did the others. ButHis questioning showed marvelous wisdom. It was a way of teaching suited to his age.</p>
+
+<p>Mary and Joseph were amazed when they contemplated the whole scene. Our Lady turned to Him, overjoyed at having found Him. St. Augustine finds in her words a sign of humility and deference to St. Joseph. He says, "For although she had merited to give birth to the Son of the Most High, she was most humble. And when naming herself, does not put herself before her spouse, saying not 'I and your father', but 'Your father and I have sought you suffering and sorrowing.'" She did not consider the dignity of her womb, but the hierarchy of marriage. The humility of Christ was not to be a school of pride for His mother.</p>
+
+<p>The loss of Jesus was not involuntary on His part. Fully conscious of who He was and of His mission, He wished in some way to begin it. Just as He would do later, He now seeks to fulfill the will of His heavenly Father without that of His earthly parents presenting an obstacle. It must have been a painful trial for them, but also a ray of light revealing the mystery of the life of Jesus to them. It was an episode in His life that they would never forget.</p>
+
+<p>It is very clear to all that Our Lord was aware of His mission and of being the Son of God. In order to understand His reply better, we would need to have heard the intonation of Our Lord's voice while He was speaking to His parents. In any case, He makes us see that God's plans are always of priority over human ones. And if at any time there's a conflict between them, then God has more right to be obeyed than man.</p>
+
+<p>If at some time we lose Jesus, we can remember that advice from Our Lord himself: "Seek and you shall find."(Mt. 7:7) We always find him in the Tabernacle. In those whom God has prepared to show us the way. If we have offended him gravely, He is always waiting for us in the Sacrament of Penance. In this sacrament, we prepare to purify our eyes, stained by our frequent lack of love and venial sin. St. Josemaría says, “It would be a great help for us today, especially when we are in front of the Tabernacle, or when we see the walls of a church, to say in the depths of our heart: "Jesus may I never lose you again."</p>
+
+<p>After three days they found Him. He was sitting in the temple in the midst of those who taught there, listening to them and asking them questions. The rabbis used to comment on scripture in the temple. For strangers to Jerusalem, this was their only opportunity to see and hear the most important teachers of Israel. Those who were listening took their seats on mats around the teacher. They could ask questions and also be asked about the text which was being explained.</p>
+
+<p>Our Lord's questions and answers, although in accordance with one of His age, obviously attracted the attention of everyone. All those who heard Him were in amazement at His quick understanding and at the answers He gave. When Jesus began His public life, St. Mark tells us that the people were amazed at His teaching, because ‘He sat there teaching them like one who had authority, not like the scribes (Mk1:22-23)’. And when they were listening to Him, the crowds forgot their hunger and their cold. He never prevented the people from calling Him Prophet and Master. And He told his disciples, "You hail me as the Master and the Lord, and you are right, for it is what I am." (Jn. 13:13)</p>
+
+<p>Very often Jesus used the expression, "But I tell you. (Mt. 5)” He wants to show us that His doctrine carries a special force. It is the Son of God who speaks. This is now the New Testament, the perfection of the Old. From the clouds there came a voice which said, "This is my beloved Son, to him listen. (Mt.17:5)” From then on, there has been no other to whom to listen. "Moses said this to you, but I tell you." The ancient prophets presented themselves as speaking on God's behalf: "Thus says the Lord," they would say after their speeches. But Our Lord speaks in His own name, which no prophet had ever done. And His teaching is divine.</p>
+
+<p>He clarifies the meaning and scope of the commandments of God, received by Moses on Sinai and corrects false interpretations. His precepts, continuing the same revelation as in the Old Testament, are however absolutely new. No one has shown the sovereignty of God as He has, and at the same time made it clear that God is a Father, lovingly concerned about the world and most of all about mankind, His children. No one has shown the fundamental truth about man as He has: that man is free and has a marvelous dignity.</p>
+
+<p>Our Lord's life was one of unceasing teaching. We're told in various of the Gospels that He spoke in the synagogues, by the lakeside, in the temple, along the roads, in houses, and everywhere. His doctrine has been handed down faithfully and substantially complete through the Gospels. St. John says there is much else besides that Jesus did; “If all of it were put in writing, I don't think the world itself would contain the books which would have to be written.(Jn. 21:25)” But we know the essentials, just as they happened. Just as the Master taught. He is our only teacher. We feel safe with Him.</p>
+
+<p>He always tells each one what he needs to hear. When we read the Gospel for a few minutes each day with a faithful heart, meditating on it slowly, we feel urged to say with St. Peter: "Lord, you alone have the words of eternal life. (Jn.6:68)" Only you, Lord.</p>
+
+<p>We could examine ourselves to see how attentively, and in what way we read the Gospel.</p>
+
+<p>St. Matthew says, "You have one teacher, Christ. (Mt.23:10)" If afterwards there have been teachers and doctors in the Church, it is because He has appointed them, says St. Paul, subordinating them to himself. They would repeat and bear witness to what they had heard and seen. And so the Good News of Christ comes to us through the Church. Through the Gospel as it is read in the Church. Only the person who voluntarily closes his ears will be deprived of hearing His word. Everyone can understand it. The most sublime doctrine becomes accessible to the most simple souls. Those who are humble, who make themselves like little children, grasp His doctrine effortlessly. While those who are wise, who let themselves be led by pride, do not receive the light of the Gospel and remain in darkness, not understanding anything or deforming the saving truth.</p>
+
+<p>We're told in St. Matthew, "You have hidden all this from the wise and prudent and revealed it to little children. (Mt.11:25)" Jesus is the teacher of all, our teacher. St. John says He knows what is in each person. He is not deceived by our miseries and weaknesses. He knows very well what an abyss of evil there can be in every heart. But He also knows, better than we do, the possibilities of generosity, of sacrifice, of greatness, which also exist in every heart. And He can arouse them with His word.</p>
+
+<p>St. Josemaría says the teaching of Christ affects the whole man in the core of his being. He is a teacher with a knowledge that he alone possesses, the knowledge of unlimited love for God and in God for all men. In Christ's teaching we learn that our existence does not belong to us.</p>
+
+<p>To take Jesus as our teacher is to take him as our guide. To follow in His footsteps. To eagerly seek His will for us. It means never being discouraged by our defeats. He will raise us up and turn them into victories time and time again. To take Him as our teacher is to want to become more like Him, so that when others see our work or behavior at home, with strangers, and especially with those most in need, they can recognize Jesus. Just as when we are in close contact with someone we love and admire very much, we end by adopting not only their way of thinking, but also their expressions and gestures. So, by making Jesus our inseparable teacher, speaking to Him every day in our prayer and meditating on the holy Gospel, we will become like Him without realizing it.</p>
+
+<p>We're told in <em>The Way</em>, "How I wish your bearing and conversation were such that on seeing or hearing you people would say: This man reads the life of Jesus Christ. (The Way, pt.2)” And so Jesus teaches us in the depths of our heart. Through events. Through the people around us. And above all through the Magisterium of the Church. St. Paul in his letter to the Hebrews tells us that “The word of God is something alive, full of energy. (Heb.4:12)” The doctrine of Christ is always up to date, new for each person. It is a personal teaching because it is directed to each one of us. It is not difficult to recognize ourselves in a particular person in a parable. Or to understand in the depths of our soul that some words of Jesus twenty centuries ago were uttered for us, as if we had been the only ones they were meant for.</p>
+
+<p>In the old days God spoke to our fathers in many ways and by many means through the prophets. Now at last, we're told in the letter to the Hebrews, in these times he has spoken to us with a Son to speak for him. And so these times are also ours. Christ continues to teach. His words, because they are living and eternal, are always relevant. Reading the Gospel with faith means to believe that everything said in it is in some way taking place now. The departure and return of the prodigal son is happening now. The sheep which has wandered and is lost, and the shepherd who has gone out to search for it. The need for leaven to transform the dough. The light which should illuminate the great darkness that all too often envelops the world and mankind.</p>
+
+<p>In the sacred books, the Father who is in heaven comes lovingly to meet His children and talk to them. The Second Vatican Council said, "And such is the power and force of the word of God that it can serve the Church as her support and vigor, and the children of the Church as strength for their faith, food for the soul, and a pure and lasting fount of spiritual life. (Dei Verbum, par.21)"</p>
+
+<p>And so we should learn to hear Christ in our life and in our soul. In the different ways and circumstances in which He speaks to us. One day Our Lord was in the house of the Pharisee called Simon. And Jesus answered him saying, "Simon, I have a word for your hearing.(Lk.7:40)” Christ always has something to tell us, each one in particular, personally. In order to hear Him, we must have a heart which knows how to listen. A heart which is attentive to the things of God. He is the teacher of always. He was the teacher yesterday and will be tomorrow. St. Paul says, "What Jesus Christ was yesterday and is today, he remains forever. (Heb.13:8)" And he speaks to every individual, to everyone who is ready to listen to him. Everyone who sincerely seeks a guideline for his life will find it. Our Lord does not deny His grace to anyone who truly seeks it.</p>
+
+<p>When Solomon who loved Yahweh, was still young, Yahweh appeared to him during the night in a dream and said to him, "Ask me what you want me to give you. (1 Ki.3:5)" Solomon did not ask for riches, or power, or a long life, but wisdom to govern the people of God. That was very pleasing to Our Lord. And He granted him a wise and intelligent heart, a heart quick to learn, we're told. We too should ask above all for a heart capable of listening, and of understanding those interior motions of the Paraclete in our soul. This language of God who speaks to us through the Magisterium of the Church, this doctrine which comes to us so clearly through the Pope and the bishops in union with him, and which demands a practical response.</p>
+
+<p>We could check now in our prayer what procedures we follow to get to know the doctrines of the Magisterium well. And not only to know it, but to live it personally, and to spread it among Catholics and among all men of good will. The teacher, Jesus, speaks to us through this doctrine. In yet another order of things, we have to understand the language of God who speaks to us through the events and through the people around us. And very especially in those precise suggestions which come to us through spiritual guidance. And so we can ask Our Lady that we may acquire an ear attentive to the voice of God who speaks to us today as He did twenty centuries ago, even though at timesHhe uses intermediaries.</p>
+
+<p>I thank you my God for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</p>
+
+<p><em>JSD</em></p>
+
+</article>
+    </main>
+
+    <footer>
+    <div class="footer-content">
+        <div class="footer-social">
+            <a href="https://whatsapp.com/channel/0029Vb2pjJyGufJ2mE4xvv2F" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Channel">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            </a>
+            <a href="mailto:frconor.ebook@gmail.com" aria-label="Email">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z"/><path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z"/></svg>
+            </a>
+        </div>
+        <p>&copy; 2025 FCD</p>
+    </div>
+</footer>
+
+    <!-- Scroll to Top Button -->
+    <button class="scroll-top" id="scroll-top" aria-label="Scroll to top" title="Back to top">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 15 12 9 6 15"></polyline>
+        </svg>
+    </button>
+
+    <!-- Reading List Modal -->
+    <div id="reading-list-modal" class="modal-overlay" aria-hidden="true" role="dialog" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Your Reading History</h2>
+                <button id="modal-close" class="modal-close" aria-label="Close modal">&times;</button>
+            </div>
+            <div id="reading-list-content" class="modal-body">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/meditations/assets/js/search.js?v=1767104070"></script>
+    <script src="/meditations/assets/js/theme-toggle.js"></script>
+    <script src="/meditations/assets/js/text-size-toggle.js"></script>
+    <script src="/meditations/assets/js/scroll-top.js"></script>
+    <script src="/meditations/assets/js/meditation-counter.js"></script>
+</body>
+</html>
