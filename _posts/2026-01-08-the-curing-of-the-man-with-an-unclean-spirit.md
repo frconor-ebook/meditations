@@ -25,7 +25,7 @@ St. Luke tells us how after Jesus had cured a possessed man, "They were all amaz
 
 And on another occasion, St. Mark points out that people were astonished at His teaching: "He taught them as one who had authority, not as the scribes" (Mark 1:22).
 
-The Second Person of the Blessed Trinity spoke through the medium of His Holy Humanity, and the people, aware of His extraordinary power, hastened to identify Him with the most exalted and famous figures of their history: was he John the Baptist, or Elijah, or Jeremiah, or one of the prophets? (*cf*. Matt. 16:14). They all fell very far short of the truth.
+The Second Person of the Blessed Trinity spoke through the medium of His Holy Humanity, and the people, aware of His extraordinary power, hastened to identify Him with the most exalted and famous figures of their history: was He John the Baptist, or Elijah, or Jeremiah, or one of the prophets? (*cf*. Matt. 16:14). They all fell very far short of the truth.
 
 The people who listened to Our Lord perceived very clearly the radical difference that there was between the way the scribes and the Pharisees taught and the certainty and vitality with which Christ pronounced His doctrine.
 
@@ -33,11 +33,11 @@ Our Lord didn't express just a mere opinion. Neither does He show any sign of un
 
 We're told in St. Matthew that Jesus had now finished what He wanted to say and His teaching made a deep impression on the people "because he taught them with authority, unlike their own scribes" (Matt. 7:28-29).
 
-He doesn't speak, like the prophets, in God's name, because He's not just another prophet. He speaks in his name: "But I say to you..."
+He doesn't speak, like the prophets, in God's name, because He's not just another prophet. He speaks in His own name: "But I say to you..."
 
 He teaches people the divine mysteries and the nature of human relationships, and He backs up His teaching with miracles.
 
-He explains his doctrine simply and vigorously because He speaks of what He has seen. "In all truth, I tell you," we're told in St. John, "we speak only about what we know and witness only to what we have seen and yet you people reject our evidence" (John 3:11).
+He explains His doctrine simply and vigorously because He speaks of what He has seen. "In all truth, I tell you," we're told in St. John, "we speak only about what we know and witness only to what we have seen and yet you people reject our evidence" (John 3:11).
 
 Our Lord doesn't give long-winded explanations. One spiritual writer says, "He demonstrates nothing. He doesn't try to justify himself. He doesn't argue. He teaches. His authority imposes itself because the wisdom that emanates from him is irresistible. When you come to value this wisdom, when your heart is pure enough to appreciate it, you know that there cannot be any other.
 
@@ -45,11 +45,11 @@ Our Lord doesn't give long-winded explanations. One spiritual writer says, "He d
 
 "Your words, Lord, are spirit and they are life" (John 6:63). Our Lord continues to speak to each one of us, personally, in the intimacy of our prayer, and also when we read the Gospel each day.
 
-We have to try and listen to Him also in the thousand and one little events of the day, including those which men might call events of failure or sorrow. He's also there.
+We have to try and listen to Him also in the thousand and one little events of the day, including those which men might call events of failure or of sorrow. He's also there.
 
 In *The Forge*, St. Josemaría says, "When you open the Holy Gospel, think that what is written there---the words and deeds of Christ---is something that you should not only know, but live. Everything, every point that is told there, has been gathered, detail by detail, for you to make it come alive in the individual circumstances of your life.
 
-"God has called us Catholics to follow him closely. In that holy Writing, you will find the Life of Jesus, but you should also find your own life there. ... Take up the Gospel every day, then, and read it and live it as a definite rule. This is what the saints have done" (Josemaría Escrivá, *The Forge*, Point 754).
+"God has called us Catholics to follow him closely. In that holy Writing you will find the Life of Jesus, but you should also find your own life there. ... Take up the Gospel every day, then, and read it and live it as a definite rule. This is what the saints have done" (Josemaría Escrivá, *The Forge*, Point 754).
 
 We're told in St. Luke and St. John that Our Lord's teaching had such power and authority that some who listened exclaimed that never before had anything like it been heard in Israel (*cf*. Luke 19:48; John 7:46).
 
@@ -91,7 +91,7 @@ His preaching is full of familiar ideas and images, which give His preaching an 
 
 The smallest details serve to express the most sublime features of a new doctrine of mysterious and unfathomable depth. "They gathered up all the pieces that were left over" after the multiplication of the loaves and the fish (Matt. 14:20).
 
-Our Lord's whole life was an uninterrupted teaching process. Pope St. John Paul says, "His silences, his miracles, his gestures, his prayer, his love for people, his special affection for the lowly and the poor, his acceptance of the total sacrifice on the Cross for the redemption of the world, and his resurrection, all are the actualization of his word and the fulfillment of revelation. ...
+Our Lord's whole life was an uninterrupted teaching process. Pope St. John Paul says, "His silences, his miracles, his gestures, his prayer, his love for people, his special affection for the lowly and the poor, his acceptance of the total sacrifice on the Cross for the redemption of the world, and his Resurrection, all are the actualization of his word and the fulfillment of revelation. ...
 
 "These considerations...all strengthen our fervor with regard to Christ, the Teacher who reveals God to man and man to himself, the Teacher who saves, sanctifies, and guides, who lives, who speaks,...who muses, moves, redresses, judges, forgives, and goes with us day by day on the path of history, the Teacher who comes and will come in glory" (John Paul II, Apostolic Exhortation, *Catechesi tradendae,* Point 9, October 16, 1979).
 
@@ -105,7 +105,7 @@ God speaks to us in many different ways when we read the Gospel. He offers us th
 
 He washed the feet of the apostles. He shows us how to behave towards others, our brothers and sisters. He reminds us that we are children of God and that nothing ought to take our peace away.
 
-The first words that Our Lord speaks to the apostles after His resurrection are words of peace: "Peace be to you" (John 20:19).
+The first words that Our Lord speaks to the apostles after His Resurrection are words of peace: "Peace be to you" (John 20:19).
 
 He invites us to forgive the little offenses that we may suffer. He gets us to prepare well for Confession, where our Heavenly Father awaits to give us an embrace.
 
@@ -123,11 +123,7 @@ Perhaps we manage to hear only a part of the parable or snatches of the conversa
 
 On other occasions we may find ourselves saying something to Him, just like those others who said or shouted to Him in their great need:
 
-"Lord, that I may see" (Matt. 10:51), give light to my soul, set me on fire.
-
-Or, the words of the publican who didn't consider himself worthy to stand before his God: "God, be merciful to me, a sinner" (Luke 18:13).
-
-Or the words of St. Peter: "Lord, you know everything, you know that I love you" (John 21:17).
+"Lord, that I may see" (Matt. 10:51), give light to my soul, set me on fire; or the words of the publican who didn't consider himself worthy to stand before his God: "God, be merciful to me, a sinner" (Luke 18:13); or the words of St. Peter: "Lord, you know everything, you know that I love you" (John 21:17).
 
 All these words or phrases can take on new meaning for us, and we can confide to Our Lord the sentiments of love and purification that fill our heart.
 
@@ -147,7 +143,7 @@ The fact is that Our Lord's words have a height and depth that other words lack,
 
 Our Lord's words are "words of life," as they are defined in the New Testament (John 6:68). They contain, they express, they communicate eternal life, the fullness of life.
 
-And the Gospel often exerts its fascination even on those who are strangers to the Christian world. I heard of a fellow in Hong Kong who grew up in, I think, a Catholic school. About 5 percent of the population are Catholic. Many people go to Catholic schools. Generally, they are, all over Asia, the best schools and hospitals, the Catholic schools and hospitals.
+And the Gospel often exerts its fascination even on those who are strangers to the Christian world. I heard of a fellow in Hong Kong who grew up in, I think, a Catholic school. About 5 percent of the population are Catholic. Many people go to Catholic schools. Generally, the Catholic schools and hospitals are, all over Asia, the best schools and hospitals.
 
 Many people there don't convert while they're young, but often they convert much later in life. This fellow went to study in Canada and then he decided to read the New Testament, just to get to know something about Christianity, for cultural reasons more than anything else.
 
@@ -155,7 +151,7 @@ But as he read the Gospels, he began to be fascinated by this man, Jesus, and fa
 
 As he read through the Gospel, when he saw a question, he would cover the page to see, 'How would I answer that question?'
 
-Then he would think of an answer, and then he would take away his hand and see the answer of Jesus, and say, 'Oh, the answer of Jesus is so brilliant!' He was really attracted by this.
+Then he would think of an answer, and then he would take away his hand and see the answer of Jesus, and say, 'Oh, the answer of Jesus is so brilliant!' He was very attracted by this.
 
 One time he came across the question Our Lord was asked: "To whom should we give tribute? To God or Caesar?" And he covered the page, and he thought long and hard about an answer.
 
@@ -165,7 +161,7 @@ Soon after, he converted to Catholicism and eventually he was ordained a priest.
 
 The words of Jesus are powerful, and the Gospels are the main witnesses of His life.
 
-\[*Dei verbum* continues\], "The Sacred Synod also earnestly and especially urges all the Christian faithful...to learn by frequent reading of the divine Scriptures, the 'excellent knowledge of Jesus Christ' (Phil 3:8). St. Jerome says, 'For ignorance of the Scriptures is ignorance of Christ'" (St. Jerome, *Commentary on Isaiah*).
+\[*Dei verbum* continues\], "The Sacred Synod also earnestly and especially urges all the Christian faithful...to learn by frequent reading of the divine Scriptures, the 'excellent knowledge of Jesus Christ' (Phil 3:8). 'For ignorance of the Scriptures is ignorance of Christ'" (St. Jerome, *Commentary on Isaiah*).
 
 "And let them remember that prayer should accompany the reading of Sacred Scripture, so that God and man may talk together, as St. Ambrose says, 'we speak to him when we pray; we hear him when we read the divine sayings'" (St. Ambrose, *On the Duties of Ministers*, as quoted in *Dei verbum*, Point 25).
 
