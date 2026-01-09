@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- FOUC Prevention: Apply theme and text size before page renders -->
+    <script>
+        (function() {
+            // Apply theme
+            const theme = localStorage.getItem('theme-preference') ||
+                (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', theme);
+            // Apply text size
+            const textSize = localStorage.getItem('text-size-preference');
+            if (textSize === 'large') {
+                document.documentElement.setAttribute('data-text-size', 'large');
+            }
+        })();
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fr. Conor Donnelly Meditations | St. Thomas Aquinas</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/meditations/assets/css/style.css">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0BXLC35GR"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-S0BXLC35GR');
+    </script>
+
+
+
+</head>
+<body data-baseurl="/meditations">
+    <header>
+    <nav>
+        <div class="logo">
+            <a href="/meditations/"><img src="/meditations/assets/images/logo-circ.png" alt="Fr. Conor Meditations Logo"></a>
+        </div>
+        <div class="nav-links">
+            <a href="/meditations/" >Home</a>
+            <a href="/meditations/team" >Team</a>
+            <a href="/meditations/connect" >Connect</a>
+        </div>
+        <!-- Header Controls (Theme + Text Size) -->
+        <div class="header-controls">
+            <!-- Theme Toggle Button -->
+            <button
+                class="theme-toggle"
+                id="theme-toggle"
+                aria-label="Toggle dark mode"
+                title="Toggle dark mode">
+                <svg id="theme-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <!-- Sun icon (shown in dark mode) -->
+                    <path class="sun" d="M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12zM11 1h2v3h-2V1zm0 19h2v3h-2v-3zM3.515 4.929l1.414-1.414L7.05 5.636 5.636 7.05 3.515 4.93zM16.95 18.364l1.414-1.414 2.121 2.121-1.414 1.414-2.121-2.121zm2.121-14.85l1.414 1.415-2.121 2.121-1.414-1.414 2.121-2.121zM5.636 16.95l1.414 1.414-2.121 2.121-1.414-1.414 2.121-2.121zM23 11v2h-3v-2h3zM4 11v2H1v-2h3z"/>
+                    <!-- Moon icon (shown in light mode) -->
+                    <path class="moon" d="M17.293 13.293A8 8 0 0 1 6.707 2.707a8.001 8.001 0 1 0 10.586 10.586z"/>
+                </svg>
+            </button>
+            <!-- Text Size Toggle Buttons -->
+            <div class="text-size-toggle" role="group" aria-label="Text size controls">
+                <button id="text-size-normal" class="active" aria-label="Normal text size" title="Normal text size">A</button>
+                <button id="text-size-large" aria-label="Large text size" title="Large text size">A+</button>
+            </div>
+            <!-- Meditation Counter Badge -->
+            <button id="counter-badge" class="counter-badge" aria-label="View reading history" title="View reading history">
+                <span id="counter-number">0</span> read
+            </button>
+        </div>
+    </nav>
+</header>
+
+    <main>
+        <article>
+    <h1>St. Thomas Aquinas</h1>
+    <p><strong>St. Thomas Aquinas</strong></p>
+
+<p>By Fr. Conor Donnelly</p>
+
+<p><em>(Proofread)</em></p>
+
+<p><em>In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</em></p>
+
+<p><em>My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My Immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me.</em></p>
+
+<p>St. Thomas Aquinas was born in 1224. He died in 1274 at the age of 50. He was educated at the Abbey of Monte Cassino, just south of Rome, and at the University of Naples. In 1244, at the age of 20, he joined the Dominican Order.</p>
+
+<p>He is considered one of the greatest philosophers and theologians of all times. He gained the title of Angelic Doctor. He had an undisputed mastery of scholastic theology and a profound holiness of life. Pope Leo XIII declared him patron of all Catholic schools. His monumental work, the <em>Summa Theologiae</em>, was still unfinished when he died.</p>
+
+<p>In the entrance antiphon of today’s Mass, it says she will exalt him above all his neighbors and will open his mouth in the midst of the assembly. As a young student at the Abbey of Monte Cassino, St. Thomas kept asking his professor the same query: Who is God? Please explain to me, what is God? Eventually, St. Thomas came to the conclusion that knowing God required more than teachers and books could provide. Knowing God is more than anything else a spiritual endeavor. The prayerful soul has to seek the truth with a clean and humble heart.</p>
+
+<p>We find then in the life of St. Thomas a wonderful example of the fruitful harmony of faith and reason. St. Thomas always sought the guidance of the Holy Spirit before he would begin to teach or write. While engaged in his study of the sacrament of the Eucharist, he spent many hours in prayer before the tabernacle.</p>
+
+<p>Blessed with an incredible intelligence, St. Thomas brought about one of the most remarkable works of theology of all time. His relatively brief life was an impassioned pursuit of a profound understanding of God, man, and creation. Thanks to his deep knowledge of classical philosophy and the Fathers of the Church, St. Thomas was able to devise a harmonious synthesis between faith and reason.</p>
+
+<p>In later centuries, the Church has repeatedly pointed to St. Thomas as a role model of fidelity to the Magisterium and the highest aspirations of the human mind and spirit. He is an example of humility and rectitude of intention in professional work.</p>
+
+<p>One day, while he was praying, St. Thomas heard the words from the crucified Jesus: “Thomas, you have written well of me. What reward do you wish for your work?” St. Thomas replied, “Lord, I want nothing but you.” In this reply, we also see the wisdom and the holiness of the saint. Even though he had incredible talent and wisdom, St. Thomas always kept in mind the smallness of his efforts in comparison to the immensity of God.</p>
+
+<p>It was after saying Holy Mass one day that St. Thomas decided to leave unfinished his life’s work, the <em>Summa Theologiae</em>. When asked why he had come to that decision, he explained: “After what God saw fit to show me on the feast of St. Nicholas, it seems to me that everything which I have written is worthless. I am unable to write anything more.”</p>
+
+<p>God is always infinitely more than anything which the human mind and heart can possibly conceive. The Angelic Doctor teaches us how we should seek the Lord with our intelligence, with the help of a sound spiritual formation, with a life of love and prayer.</p>
+
+<p>The Magisterium of the Church has on many occasions recommended that the faithful treat St. Thomas as a guide in philosophical and theological study. The Church has taken the teachings of St. Thomas as her own inasmuch as they are the best synthesis available of revealed truth, the writings of the Fathers, and the demands of human reason.</p>
+
+<p>The Second Vatican Council urged the faithful to obtain deeper understanding of the mysteries of the faith with St. Thomas as teacher. The works of St. Thomas act as street lights which shed their light on the most important questions in philosophy. They make it possible for us to better understand our faith in today’s world.</p>
+
+<p>The feast of this great saint should lead us to pray for solid doctrinal and religious formation. This formation is an indispensable support for a life of faith. By studying and meditating upon the chief points of Catholic teaching, we will be able to challenge the wave of religious ignorance which afflicts our society. With the help of good doctrine that is well understood, we will not be at the mercy of our feelings or moods.</p>
+
+<p>We can give this formation a good start by studying a reliable catechism of Christian doctrine. In these days when error and confusion abound, it might be said that this kind of intellectual formation has become indispensable. Our cry ought to be: I believe all that God has revealed to me.</p>
+
+<p>St. Teresa of Avila would often say we need to grow in our understanding of the truths of the faith. The person who knows God is better able to do his works.</p>
+
+<p>A modern lay theologian makes the argument, by saying: I cannot say how often I’ve been told that some old Irishman saying his rosary is holier than I am with all my study. I dare say he is, for his own sake, I hope he is. But if the only evidence is that he knows less theology than I, then it is evidence that would convince neither him nor me. It would not convince him because all those rosary-loving, tabernacle-loving old Irish men I’ve ever known—and my own ancestry is rich with them—were avid for more knowledge of the faith. It doesn’t convince me because while it is obvious that an ignorant man can be virtuous, it is equally obvious that ignorance is not a virtue. Men have been martyred who could not have stated a doctrine of the Church correctly, and martyrdom is the supreme proof of love. Yet with more knowledge of God, they would have loved him even more.</p>
+
+<p>Reflecting on the life of work in St. Thomas, we may notice how a life of true piety requires doctrine. It is for this reason that doctrinal formation should lead us to a deep and childlike piety. St. Thomas, for example, while writing the <em>Summa Contra Gentiles</em>, wrote the prayer “Ave Maria” on the margins of the text as a way of maintaining presence of God. Whenever he rested his pen, he would write this along with many other prayers. All of his writings and sermons served to bring the soul closer to God.</p>
+
+<p>He demonstrated that in the same manner as if all human science was contained in a single book, we would want that book, so too ought we to seek only Christ who holds all the treasures of wisdom and science. The doctrine which we learn should lead us to love Christ more, to want to serve him with joy.</p>
+
+<p>St. Josemaria set a goal for us, which is to have the piety of children and the doctrine of theologians. A sound faith is built on sound doctrinal formation. It is shown forth in a childlike life of piety. St. Thomas taught that love leads to the knowledge of the truth and all knowledge is ordered to charity as its end. As we come to know God better, we should find ourselves making many acts of love to him. While the mind is focused on the little details of the moment, the heart has its focus set on God the Father, God the Son, and God the Holy Spirit.</p>
+
+<p>Due to this kind of doctrinal formation, we should have a wonderful grasp of the holy humanity of Our Lord, the motherhood of Mary, the holiness of St. Joseph our father and lord, the helpful presence of the guardian angels, the intentions of the holy souls in purgatory. In our prayer today we could examine our determination to acquire the formation that we need to love God more and to help others in this apostolate.</p>
+
+<p>Our Lord spent a good deal of time teaching the disciples. “And beginning with Moses and all the prophets, he interpreted to them all the things the scriptures had said concerning himself” (Luke 24:27).</p>
+
+<p>Cultural sectors, said Pope John Paul in <em>Redemptoris Missio</em>, like the modern equivalents of the Areopagus... After preaching in a number of places, St. Paul arrived in Athens where he went to the Areopagus and proclaimed the gospel in language appropriate to and understandable in those surroundings. At that time, the Areopagus represented the cultural center of the learned people of Athens, and today it can be taken as a symbol of the new sectors in which the gospel must be proclaimed.</p>
+
+<p>John Paul II liked to say that the first Areopagus of the modern age is the world of communications, which is unifying humanity and turning it into what is known as a global village. The means of social communication have become so important as to be for many the chief means of information and education, of guidance and inspiration in their behavior as individuals, families, and within society at large. In particular, the younger generation, said John Paul, is growing up in a world conditioned by the mass media.</p>
+
+<p>To some degree perhaps, this Areopagus has been neglected. Generally, preference has been given to other means of preaching and of Christian education, while the mass media are left to the initiative of individuals or small groups and enter into pastoral planning only in a secondary way. Involvement in mass media is not meant merely to strengthen the preaching of the gospel. There is a deeper reality involved here, since the very evangelization of modern culture depends to a great extent on the influence of the media.</p>
+
+<p>It is not enough to use the media simply to spread the Christian message and the Church’s authentic teaching. It is also necessary to integrate that message into the new culture created by modern communications. This is a complex issue, says John Paul, since the new culture originates not just from whatever content is eventually expressed, but from the very fact that there exist new ways of communicating, with new languages, new techniques, and a new psychology. St. Paul VI said the split between the gospel and culture is undoubtedly the tragedy of our time, and the field of communications fully confirms this judgment.</p>
+
+<p>There are many other forms of the Areopagus in the modern world toward which the Church’s missionary activity ought to be directed. For example: commitment to peace, development and liberation of peoples, the rights of individuals and peoples, especially those of minorities; advancement of women and children; safeguarding the created world. These too are areas which need to be illumined by the light of the gospel.</p>
+
+<p>We can also mention the immense Areopagus of culture, scientific research, and international relations which promote dialogue and open up new possibilities. We would do well to be attentive to these modern areas of activity and to be involved in them. People sense that they are, as it were, traveling together across life’s sea and that they are called to ever greater unity and solidarity. Solutions to pressing problems must be studied, discussed, and worked out with the involvement of all. That is why international organizations and meetings are proving increasingly important in many sectors of human life, from culture to politics, from the economy to research. Christians who live and work in this international sphere must always remember their duty to bear witness to the gospel.</p>
+
+<p>Christ sought down-to-earth means to get his message across—parables, graphic gestures. He did this to facilitate formation. Because following Christ requires knowledge of his doctrine. Our times are both momentous and fascinating, said John Paul. While on the one hand people seem to be pursuing material prosperity and to be sinking ever deeper into consumerism and materialism, on the other hand we are witnessing a desperate search for meaning, the need for an inner life, and a desire to learn new forms and methods of meditation and prayer. Not only in cultures with strong religious elements, but also in secularized societies, the spiritual dimension of life is being sought after as an antidote to dehumanization.</p>
+
+<p>Theological work in the Church is first of all at the service of the proclamation of the faith and of catechesis. Proclamation is a call to conversion, announcing the truth of Christ, which reaches its summit in his Paschal mystery. For only in Christ is it possible to know the fullness of truth which saves.</p>
+
+<p>St. Josemaria says if you are sensible and humble, you will have realized that one never stops learning. This happens in every field; even the wisest will always have something to learn until the end of their lives. If they don’t, they cease to be wise. He also says in <em>The Furrow</em>: Be sure of this: you need to be fully formed to face the rush of people that is going to press upon us with a specific and urgent question: “Well then, what must I do?”</p>
+
+<p>Also in <em>The Furrow</em>, he says loyalty demands a real hunger for formation, because you are moved by a sincere love and you do not wish to run the risk of spreading or defending, through ignorance, principles or attitudes which are very far from being in accordance with the truth.</p>
+
+<p>We can ask Our Lord on this feast day to give us those deeper desires of doctrinal formation. Since you want to acquire a Catholic or universal mentality, we are told in <em>The Furrow</em>, here are some characteristics you should aim at: a breadth of vision and a deepening insight into the things that remain alive and unchanged in Catholic orthodoxy; a proper and healthy desire, which should never be frivolous, to present anew the standard teachings of traditional thought in philosophy and the interpretation of history; a careful awareness of the trends in science and contemporary thought; and a positive and open attitude towards the current changes in society and in ways of thinking.</p>
+
+<p>The knowledge that we acquire is the path to falling in love. The more in love with God we are, the greater will be our desire to know him and to be faithful to him. St. Teresa of Calcutta has said words which do not give the light of Christ increase the darkness. A doctrinal apostolate will always be our apostolate. We could see if we could promote classes in doctrinal formation—lunchtime classes maybe in a downtown area to facilitate people’s attendance—trying to foster people’s own personal responsibility to grow in this way and in that way to be more effective.</p>
+
+<p>Nobody can give what they do not have. We need to assimilate good doctrine in order to make progress in holiness and to carry out our apostolate.</p>
+
+<p>In <em>Redemptoris Missio</em>, “The Mission of the Redeemer,” one of the first encyclicals of John Paul II, he said the mission of Christ the Redeemer which is entrusted to the Church is still very far from completion. As the second millennium after Christ coming draws to an end, an overall view of the human race shows that this mission is still only beginning and we must commit ourselves wholeheartedly to its service. It is the Spirit who impels us to proclaim the great works of God. “For if I preach the gospel, that gives me no ground for boasting. For necessity is laid upon me. Woe to me if I do not preach the gospel” (1 Cor. 9:16), says St. Paul.</p>
+
+<p>Fulton Sheen has said: Once the Catholic accepts the eternal truths of Christ, he is free to accept all the non-essential beliefs he pleases. He can be a monarchist or a republican. He can live solitary and alone on a pillar like Simon, or he can busy himself on the streets of Paris like a Vincent de Paul. He can accept Einstein or reject him. He can believe in the gold standard or the silver standard. He can play cards and dance, or he can abstain from them. He can drink moderately or he can be a prohibitionist. He is like a man living on a great island in the sea on which he may roam and exercise his freedom in a thousand and one games, but only on one condition: that he obeys the only law that is posted there—do not jump over the walls.</p>
+
+<p>We could ask Our Lady through the intercession of St. Thomas Aquinas that we might grow in our love of truth, that we might follow this great saint along the pathway of formation so as to have an ever greater and more fruitful apostolate.</p>
+
+<p><em>I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me.</em></p>
+
+<p><em>In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</em></p>
+
+<p><em>EW</em></p>
+
+</article>
+    </main>
+
+    <footer>
+    <div class="footer-content">
+        <div class="footer-social">
+            <a href="https://whatsapp.com/channel/0029Vb2pjJyGufJ2mE4xvv2F" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Channel">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            </a>
+            <a href="mailto:frconor.ebook@gmail.com" aria-label="Email">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z"/><path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z"/></svg>
+            </a>
+        </div>
+        <p>&copy; 2025 FCD</p>
+    </div>
+</footer>
+
+    <!-- Scroll to Top Button -->
+    <button class="scroll-top" id="scroll-top" aria-label="Scroll to top" title="Back to top">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 15 12 9 6 15"></polyline>
+        </svg>
+    </button>
+
+    <!-- Reading List Modal -->
+    <div id="reading-list-modal" class="modal-overlay" aria-hidden="true" role="dialog" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Your Reading History</h2>
+                <button id="modal-close" class="modal-close" aria-label="Close modal">&times;</button>
+            </div>
+            <div id="reading-list-content" class="modal-body">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/meditations/assets/js/search.js?v=1767940624"></script>
+    <script src="/meditations/assets/js/theme-toggle.js"></script>
+    <script src="/meditations/assets/js/text-size-toggle.js"></script>
+    <script src="/meditations/assets/js/scroll-top.js"></script>
+    <script src="/meditations/assets/js/meditation-counter.js"></script>
+</body>
+</html>
