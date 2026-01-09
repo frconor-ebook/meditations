@@ -3,7 +3,6 @@ layout: homily
 title: "Sts. Timothy and Titus"
 ---
 
-**Sts. Timothy and Titus**
 
 By Fr. Conor Donnelly
 

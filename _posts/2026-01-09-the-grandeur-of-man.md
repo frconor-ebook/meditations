@@ -3,7 +3,6 @@ layout: homily
 title: "The Grandeur of Man"
 ---
 
-**The Grandeur of Man**
 
 By Fr. Conor Donnelly
 

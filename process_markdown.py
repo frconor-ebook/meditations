@@ -20,6 +20,41 @@ def sanitize_title(title):
     return title
 
 
+def remove_duplicate_title_lines(lines, title):
+    """
+    Remove lines that are duplicate bold versions of the title.
+    Handles patterns like **Title**, *Title*, or just Title on its own line.
+    """
+    # Normalize title for comparison (remove punctuation, lowercase)
+    def normalize(text):
+        text = re.sub(r'[^\w\s]', '', text.lower())
+        return ' '.join(text.split())
+
+    normalized_title = normalize(title)
+    filtered_lines = []
+
+    for line in lines:
+        stripped = line.strip()
+
+        # Check for bold title: **Title** or __Title__
+        bold_match = re.match(r'^(\*\*|__)(.+?)(\*\*|__)$', stripped)
+        if bold_match:
+            potential_title = bold_match.group(2).strip()
+            if normalize(potential_title) == normalized_title:
+                continue  # Skip this duplicate title line
+
+        # Check for italic title that matches exactly: *Title*
+        italic_match = re.match(r'^\*([^*]+)\*$', stripped)
+        if italic_match:
+            potential_title = italic_match.group(1).strip()
+            if normalize(potential_title) == normalized_title:
+                continue  # Skip this duplicate title line
+
+        filtered_lines.append(line)
+
+    return filtered_lines
+
+
 def convert_markdown_to_posts(source_dir, posts_dir, data_dir):
     """
     Converts markdown files to Jekyll posts and creates a meditations.json index.
@@ -66,18 +101,22 @@ title: "{title}"
 ---
 """
 
+            # Get content lines (after the title) and remove duplicate bold titles
+            content_lines = lines[title_line_index + 1 :]
+            content_lines = remove_duplicate_title_lines(content_lines, title)
+
             with open(post_filepath, "w") as f:
                 f.write(front_matter)
                 f.writelines(
                     [
                         line.rstrip("\r\n") + "\n"
-                        for line in lines[title_line_index + 1 :]
+                        for line in content_lines
                     ]
                 )
 
             # Get full content
             full_content = "".join(
-                [line.rstrip("\r\n") for line in lines[title_line_index + 1 :]]
+                [line.rstrip("\r\n") for line in content_lines]
             ).strip()
 
             # Create excerpt (first 200 words of content)
