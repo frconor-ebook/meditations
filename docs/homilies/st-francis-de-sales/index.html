@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- FOUC Prevention: Apply theme and text size before page renders -->
+    <script>
+        (function() {
+            // Apply theme
+            const theme = localStorage.getItem('theme-preference') ||
+                (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', theme);
+            // Apply text size
+            const textSize = localStorage.getItem('text-size-preference');
+            if (textSize === 'large') {
+                document.documentElement.setAttribute('data-text-size', 'large');
+            }
+        })();
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fr. Conor Donnelly Meditations | St. Francis de Sales</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/meditations/assets/css/style.css">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0BXLC35GR"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-S0BXLC35GR');
+    </script>
+
+
+
+</head>
+<body data-baseurl="/meditations">
+    <header>
+    <nav>
+        <div class="logo">
+            <a href="/meditations/"><img src="/meditations/assets/images/logo-circ.png" alt="Fr. Conor Meditations Logo"></a>
+        </div>
+        <div class="nav-links">
+            <a href="/meditations/" >Home</a>
+            <a href="/meditations/team" >Team</a>
+            <a href="/meditations/connect" >Connect</a>
+        </div>
+        <!-- Header Controls (Theme + Text Size) -->
+        <div class="header-controls">
+            <!-- Theme Toggle Button -->
+            <button
+                class="theme-toggle"
+                id="theme-toggle"
+                aria-label="Toggle dark mode"
+                title="Toggle dark mode">
+                <svg id="theme-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <!-- Sun icon (shown in dark mode) -->
+                    <path class="sun" d="M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12zM11 1h2v3h-2V1zm0 19h2v3h-2v-3zM3.515 4.929l1.414-1.414L7.05 5.636 5.636 7.05 3.515 4.93zM16.95 18.364l1.414-1.414 2.121 2.121-1.414 1.414-2.121-2.121zm2.121-14.85l1.414 1.415-2.121 2.121-1.414-1.414 2.121-2.121zM5.636 16.95l1.414 1.414-2.121 2.121-1.414-1.414 2.121-2.121zM23 11v2h-3v-2h3zM4 11v2H1v-2h3z"/>
+                    <!-- Moon icon (shown in light mode) -->
+                    <path class="moon" d="M17.293 13.293A8 8 0 0 1 6.707 2.707a8.001 8.001 0 1 0 10.586 10.586z"/>
+                </svg>
+            </button>
+            <!-- Text Size Toggle Buttons -->
+            <div class="text-size-toggle" role="group" aria-label="Text size controls">
+                <button id="text-size-normal" class="active" aria-label="Normal text size" title="Normal text size">A</button>
+                <button id="text-size-large" aria-label="Large text size" title="Large text size">A+</button>
+            </div>
+            <!-- Meditation Counter Badge -->
+            <button id="counter-badge" class="counter-badge" aria-label="View reading history" title="View reading history">
+                <span id="counter-number">0</span> read
+            </button>
+        </div>
+    </nav>
+</header>
+
+    <main>
+        <article>
+    <h1>St. Francis de Sales</h1>
+    <p><strong>St. Francis de Sales</strong></p>
+
+<p>By Fr. Conor Donnelly</p>
+
+<p><em>(Proofread)</em></p>
+
+<p><em>In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My Immaculate Mother, St. Joseph my father and lord, my guardian angel, intercede for me.</em></p>
+
+<p>Born in Savoy in France in 1567, St. Francis de Sales fought Calvinism with apostolic zeal. He was the Bishop of Geneva, and with St. Jane Frances de Chantal, he founded the Order of the Visitation. He wrote a book called <em>The Introduction to the Devout Life</em>, which is a classic of spiritual direction. He died in Lyon and was canonized in 1655. In 1877, Pius IX proclaimed him as a Doctor of the Church. Pius XI declared him the patron saint of journalists and other writers.</p>
+
+<p>He spent his entire priestly life in a tireless effort to keep his countrymen loyal to the Roman See. As a bishop, he was an outstanding model of the Good Shepherd to his priests and the faithful. He gave good doctrine to souls by means of his indefatigable preaching and writing. The liturgy of the mass in his honor asks our Lord to help us to imitate St. Francis in love and service and bring us to share with him the glory of heaven.</p>
+
+<p>We could focus a lot on the virtues of cordiality and meekness of heart, which were very evident in the holy life of the Bishop of Geneva. He knew how to stand firm in the truth while at the same time maintaining friendships with people who had very different beliefs. It’s these virtues which make life in society amenable. According to St. Francis, meekness, temperance, integrity, and humility are virtues that must mark all our actions in life. He said we must always have on hand a good supply of these general virtues since we must use them almost constantly.</p>
+
+<p>These virtues are indispensable for the apostolate, for family life, and for all our friendships. Each and every day we meet all kinds of people in our work, on the street, through our relatives and friends. The fact that we struggle to be friends with everyone is very pleasing to our Lord. St. Thomas Aquinas points out that we need to exercise a special effort to give proper attention to human relationships, in word as well as in deed. Our basic challenge is to make the sacrifices necessary so that life will be more pleasing for those around us. In this way, we’ll help others to reach the final homeland of heaven.</p>
+
+<p>These virtues go completely against self-centered lifestyles. Our conversation should be warm and respectful, especially towards those with whom we live and work on a daily basis. St. Francis said those who appear in public as angels but are devils in their own homes greatly fail in this regard. Cordiality opens the doors to friendship and apostolate. There are a number of virtues which come together to make up the practice of cordiality. St. Francis gave many examples of these virtues in his life and writings. These virtues might not attract that much attention, but they’re fundamental to the practice of charity and apostolate. These virtues include prudence, whereby we judge other people and their actions with respect and refinement, forbearance towards the defects and mistakes of other people, good manners in our speech and behavior, gratitude, and respect.</p>
+
+<p>The Christian should convert all the many manifestations of these human virtues into acts of supernatural virtue. What is done for love of man should also be done for love of God. The Christian should see his or her neighbors as children of God, children who deserve every possible consideration. St. Francis taught that humility is indispensable if we are to get along with others. Humility is not only charity; it’s also sweetness. St. Josemaría said charity is the humility which appears on the outside; humility is the charity which is on the inside. Both of these virtues are closely intertwined. If we struggle to be humble, we will know how to venerate the image of God which is in each and every man.</p>
+
+<p>To respect is to appreciate, to realize the real worth of other people. The word respect comes from the Latin <em>respectus</em>, which means due consideration. If we are to live peacefully with other people, we have to respect them as people. We will also have to respect the goods which God has created for the service of mankind. To respect the order of creation is to give glory to God. Respect is a prerequisite for personal and social progress. Without mutual respect, fraternal correction and guidance is next to impossible.</p>
+
+<p>It’s interesting to note how the Evangelists refer on several occasions to the loving glance of our Lord, which must have been incredible to behold. They tell us that Jesus looked with love upon that rich young man who said he wanted to be better. He looked with love on the poor widow who gave all that she had to the temple offering. He looked with affection at Zacchaeus, who was sitting on a tree. Jesus looked at everyone with great respect: the healthy, the sick, the young, the old, beggars, and sinners. This is the way of life which we must imitate. We should look upon people as our Lord would look upon them, with sympathy, warmth, and welcome.</p>
+
+<p>In those persons, said one writer, to whom we are not naturally attracted, we have to see souls that have been saved by the blood of Christ, souls that belong to the Mystical Body of Christ, souls which might even be closer to His Sacred Heart than our own. It often happens that we spend many years alongside very beautiful souls without our ever noticing it. We could take a look around and think about those people who we are in contact with in our very homes, in our offices, in our environment. We could think of whether we look on our neighbors with Christ’s loving vision.</p>
+
+<p>St. Francis insisted that we have to be indignant towards evil while at the same time being as polite as possible towards our neighbor. St. Francis practiced this counsel on a continual basis as he sought to win Calvinists back to the faith. He was doing this apostolate at a time in history when the wounds of division were particularly sensitive to the touch. He made a visit to a famous Calvinist theologian, a visit he undertook at the request of the Pope. The saint began his conversation with the thinker in a very cordial manner. He asked the man, “Is it possible for a person to be saved in the Catholic Church?” After a period of reflection, the theologian answered in the affirmative. In this way, a door was opened which had seemed to be definitively shut.</p>
+
+<p>The virtue of understanding leads us to be open to other people, to be sympathetic to their struggles, to be conscious of the virtues and defects that exist in every man and woman. If we really seek to understand others, we will be able to penetrate to the depth of their souls. We will be able to find the good qualities that exist in every person. Without understanding, we will find ourselves operating on the basis of prejudice and poor judgments, which will invariably lead to disharmony. Our Lord knows the most profound reasons for human conduct; He understands and pardons. Once we are understanding towards others, then we can be of service to them.</p>
+
+<p>Think of the case of the Samaritan woman, the Good Thief, the woman caught in adultery, St. Peter who betrayed our Lord, St. Thomas who would not believe in the resurrection. There must have been many other cases like these during the three years of Christ’s public ministry. We could imagine all the works of forgiveness of our Lord in the centuries which have followed. In the final years of his life, St. Francis wrote to the Pope regarding a special mission he had been entrusted with: “When we arrived in that region, there were barely 100 Catholics. Today, there are barely 100 heretics.” We can ask this saint on his feast day to teach us to live these all-important virtues of social life which can be of such help to us in the apostolate. Lord, you gave St. Francis the spirit of compassion to befriend all men on the way to salvation. By his example, lead us to show your gentle love in the service of our fellow man.</p>
+
+<p>Our Lord said in the Gospel, “No longer do I call you servants, but I have called you friends” (John 15:15). St. Josemaría liked to insist that the principal apostolate of Opus Dei is that of friendship and confidence. From the earliest years of Opus Dei, he taught those who followed him the specific way by which God wanted to invite us to announce the Gospel in the middle of the world. He said you are to bring souls closer to God by your timely words that open up apostolic horizons, by the wise advice that helps someone to take a Christian approach in facing a problem, through your friendly conversation which teaches others how to practice charity—that is, through an apostolate that I have sometimes called the apostolate of friendship and confidence.</p>
+
+<p>True friendship, like charity which raises the human dimension of friendship to the supernatural plane, is a value in itself. It’s not a tactic for achieving other ends. It’s not a means or an instrument for gaining any social advantage, even though it may bring such advantages—can also bring disadvantages. St. Josemaría, while encouraging people to cultivate friendship with many people, at the same time warned that: “You will act like that, my children, not indeed to use friendship as a tactic for social penetration; that would make friendship lose its intrinsic value. But as a requirement, the first and most immediate requirement of human fraternity, of human fraternity which we Christians have the duty to foster among men, no matter how different they are from one another.”</p>
+
+<p>Friendship has an intrinsic value because it denotes a sincere concern for the other person. Friendship itself is apostolate. It’s a dialogue in which we give and receive light. One writer says: “In friendship, plans are forged as we mutually open up new horizons. In friendship, we rejoice in what is good and support one another in what is difficult. We have a good time with one another since God wants us to be happy.” When friendship is like that—loyal and sincere—there is no way that it can be instrumentalized. Each friend simply wants to pass on to the other the good they experience in their own life. Naturally, friendship ends up in personal confidences, full of sensitive respect for freedom. As a necessary result of this friendship, the apostolate is nothing other than sharing what one carries deep inside, which is a source of joy and hope.</p>
+
+<p>St. Josemaría in <em>The Furrow</em> says, “When I speak to you about the apostolate of friendship, I mean a personal friendship, self-sacrificing and sincere: face to face, heart to heart.” When friendship is real, when our concern for the other person is sincere and fills our prayer, there are no shared moments that are not apostolic. Everything is friendship and everything is apostolate, without being able to distinguish them. Hence the enormous importance, as St. Josemaría says, not just human but divine, of friendship. “I will tell you once again,” as I have been doing since the beginning of our work, “be friends to your friends, sincere friends, and like that you will carry out a fruitful apostolate and dialogue.” It’s not a question of having friends in order to do apostolate, but of making sure that the love of God fills our friendship so that it is genuine apostolate.</p>
+
+<p>The birth of a friendship comes like an unexpected gift. For that reason, it also requires patience. St. Josemaría said sometimes it takes time. Certain bad experiences or prejudices, fear, human respects, or certain preconceptions can also make it difficult. It’s good to try and put ourselves in the other person’s place and be patient. We need to be like Jesus Christ who is ready to talk to everyone, even people who don’t want to know the truth, like Pilate.</p>
+
+<p>The main apostolate is always that of friendship. It can truly be said, “My dearest children,” says St. Josemaría, “that the greatest fruit of Opus Dei’s work is what its members obtain personally by their apostolate of example and loyal friendship with their colleagues at work: in a university or factory, in the office, in the mines, or in the fields.” Without neglecting the task we have in hand, we need to learn how to look after our friends at all times. In addition, our friendship with them will be complemented by the corporate apostolic work done in our centers and apostolic initiatives. That friendship, says St. Josemaría, that relationship with one of you, is afterwards broadened first by affection and understanding, and then by that person’s regular attendance at a center of Opus Dei, where they start to go and are soon taught to consider as something of their own, as their home. All of this, clearly, is afterwards united to their friendship with the people they meet and get to know in that house of ours.</p>
+
+<p>In the Gospels, we see how from a young age Jesus formed friendships with the people around him. Already when he was twelve, Mary and Joseph, on returning from Jerusalem, assumed that Jesus was traveling with a group of friends and relatives. St. Luke says they assumed he was somewhere in the party, and it was only after a day’s journey that they went to look for him among their relations and acquaintances. Later, during his public life, we see our Lord often in the homes of his friends and acquaintances, whether visiting them or sharing a meal.</p>
+
+<p>In Peter’s house, we’re told “Leaving the synagogue, he went to Simon’s house. Now Simon’s mother-in-law was in the grip of a high fever, and they asked him to do something for her” (Luke 4:38–39). In the house of Levi: “In his honor, Levi held a great reception in his house, and with them at table was a large gathering of tax collectors and sinners” (Luke 5:29). In the house of Simon the Pharisee: “One of the Pharisees invited him to a meal. When he arrived at the Pharisee’s house, he took his place at table” (Luke 7:36). In the house of Jairus: “Suddenly there came a man named Jairus, who was president of the synagogue. He fell at our Lord’s feet and pleaded with him to come to his house” (Luke 8:41). With Zacchaeus: “When Jesus reached the spot he looked up and spoke to him: ‘Zacchaeus, come down, hurry, because I must stay at your house today’” (Luke 19:5).</p>
+
+<p>We also see him attending the wedding in Cana. “On the third day there was a wedding in Cana of Galilee, and the mother of Jesus was there” (John 2:1). And also in places of worship alongside other people. “At daybreak he appeared in the temple again; and as all the people came to him, he sat down and began to teach them” (John 8:2). On other occasions, our Lord dedicated time exclusively to his disciples. In St. Mark, we’re told that “Jesus withdrew with his disciples to the lakeside, and great crowds from Galilee followed him from Judea” (Mark 3:7).</p>
+
+<p>A few minutes of conversation were enough for the Samaritan woman to sense that she was known and understood. She asked, “Can this be the Christ?” (John 4:29). Our Lord takes advantage of any situation to begin a relationship of friendship. We so often see him stopping to spend time with specific people. The disciples from Emmaus, after walking alongside and sitting at table with Jesus, recognize the presence of the Friend who made their hearts burn with his words. “Did not our hearts burn within us as he talked to us on the road?” (Luke 24:32).</p>
+
+<p>Sometimes our Lord dedicated longer periods of time to his friends. We see this in the home at Bethany. St. Josemaría says Jesus shares words of affection and encouragement and responds to friendship with his own friendship. What marvelous conversations in the home at Bethany with Lazarus, Martha, and Mary! In that home, we also learn that Christ’s friendship produces a deep trust. And his friendship is filled with empathy, especially the ability to accompany others in their suffering. We’re told that Jesus wept at the death of Lazarus (cf. John 11:35).</p>
+
+<p>But it’s at the Last Supper that our Lord shows most deeply his desire to offer us his friendship. In the intimacy of the Cenacle, Jesus tells the apostles: “I have called you friends” (John 15:15). “Having loved his own who were in the world,” we’re told, “he loved them to the end” (John 13:1). God loves us not merely as creatures but as children to whom, in Christ, He offers true friendship. We respond to this friendship by uniting our will to His, by doing what our Lord wants. “Remain in me and I in you. As a branch cannot bear fruit all by itself unless it remains part of the vine, neither can you unless you remain in me” (John 15:4).</p>
+
+<p>Realizing that we have a true friendship with Jesus can fill us with confidence because He is faithful. Friendship with Jesus cannot be broken. He never leaves us, even though at times it appears that he keeps silent. When we need Him, He makes Himself known to us. From meditating on the life of St. Francis de Sales, we go deeper in these true qualities of friendship: humility, meekness, charity, that he mentions, so that we may be very good friends of our friends, and in the course of our life grow in this whole process, so that truly we might come to resemble the Master more and more. Our Lady, who was a great friend of her cousin Elizabeth, did deeds of service to her, works of mercy. She’ll show us the pathway to that authentic friendship which is part of our Christian vocation.</p>
+
+<p><em>I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, St. Joseph my father and lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</em></p>
+
+<p><em>EW</em></p>
+
+</article>
+    </main>
+
+    <footer>
+    <div class="footer-content">
+        <div class="footer-social">
+            <a href="https://whatsapp.com/channel/0029Vb2pjJyGufJ2mE4xvv2F" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Channel">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            </a>
+            <a href="mailto:frconor.ebook@gmail.com" aria-label="Email">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z"/><path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z"/></svg>
+            </a>
+        </div>
+        <p>&copy; 2025 FCD</p>
+    </div>
+</footer>
+
+    <!-- Scroll to Top Button -->
+    <button class="scroll-top" id="scroll-top" aria-label="Scroll to top" title="Back to top">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 15 12 9 6 15"></polyline>
+        </svg>
+    </button>
+
+    <!-- Reading List Modal -->
+    <div id="reading-list-modal" class="modal-overlay" aria-hidden="true" role="dialog" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Your Reading History</h2>
+                <button id="modal-close" class="modal-close" aria-label="Close modal">&times;</button>
+            </div>
+            <div id="reading-list-content" class="modal-body">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/meditations/assets/js/search.js?v=1767937793"></script>
+    <script src="/meditations/assets/js/theme-toggle.js"></script>
+    <script src="/meditations/assets/js/text-size-toggle.js"></script>
+    <script src="/meditations/assets/js/scroll-top.js"></script>
+    <script src="/meditations/assets/js/meditation-counter.js"></script>
+</body>
+</html>
