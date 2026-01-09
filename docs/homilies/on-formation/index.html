@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- FOUC Prevention: Apply theme and text size before page renders -->
+    <script>
+        (function() {
+            // Apply theme
+            const theme = localStorage.getItem('theme-preference') ||
+                (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', theme);
+            // Apply text size
+            const textSize = localStorage.getItem('text-size-preference');
+            if (textSize === 'large') {
+                document.documentElement.setAttribute('data-text-size', 'large');
+            }
+        })();
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fr. Conor Donnelly Meditations | On Formation</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/meditations/assets/css/style.css">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0BXLC35GR"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-S0BXLC35GR');
+    </script>
+
+
+
+</head>
+<body data-baseurl="/meditations">
+    <header>
+    <nav>
+        <div class="logo">
+            <a href="/meditations/"><img src="/meditations/assets/images/logo-circ.png" alt="Fr. Conor Meditations Logo"></a>
+        </div>
+        <div class="nav-links">
+            <a href="/meditations/" >Home</a>
+            <a href="/meditations/team" >Team</a>
+            <a href="/meditations/connect" >Connect</a>
+        </div>
+        <!-- Header Controls (Theme + Text Size) -->
+        <div class="header-controls">
+            <!-- Theme Toggle Button -->
+            <button
+                class="theme-toggle"
+                id="theme-toggle"
+                aria-label="Toggle dark mode"
+                title="Toggle dark mode">
+                <svg id="theme-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <!-- Sun icon (shown in dark mode) -->
+                    <path class="sun" d="M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12zM11 1h2v3h-2V1zm0 19h2v3h-2v-3zM3.515 4.929l1.414-1.414L7.05 5.636 5.636 7.05 3.515 4.93zM16.95 18.364l1.414-1.414 2.121 2.121-1.414 1.414-2.121-2.121zm2.121-14.85l1.414 1.415-2.121 2.121-1.414-1.414 2.121-2.121zM5.636 16.95l1.414 1.414-2.121 2.121-1.414-1.414 2.121-2.121zM23 11v2h-3v-2h3zM4 11v2H1v-2h3z"/>
+                    <!-- Moon icon (shown in light mode) -->
+                    <path class="moon" d="M17.293 13.293A8 8 0 0 1 6.707 2.707a8.001 8.001 0 1 0 10.586 10.586z"/>
+                </svg>
+            </button>
+            <!-- Text Size Toggle Buttons -->
+            <div class="text-size-toggle" role="group" aria-label="Text size controls">
+                <button id="text-size-normal" class="active" aria-label="Normal text size" title="Normal text size">A</button>
+                <button id="text-size-large" aria-label="Large text size" title="Large text size">A+</button>
+            </div>
+            <!-- Meditation Counter Badge -->
+            <button id="counter-badge" class="counter-badge" aria-label="View reading history" title="View reading history">
+                <span id="counter-number">0</span> read
+            </button>
+        </div>
+    </nav>
+</header>
+
+    <main>
+        <article>
+    <h1>On Formation</h1>
+    <p><strong>On Formation</strong></p>
+
+<p>By Fr. Conor Donnelly</p>
+
+<p><em>(Proofread)</em></p>
+
+<p><em>My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My immaculate mother, St. Joseph, my father and lord, my guardian angel, intercede for me.</em></p>
+
+<p>There was once a man who brought his four-year-old son to the national park. And in the national park, the kid saw an elephant. He got this idea of elephant. Big animal, big feet, big tusks, big trunk, small tail. When he went home, he maintained a great interest in elephants. He wanted storybooks about elephants, he wanted to draw pictures of elephants. All through primary school he kept this up, and through secondary school, he read a lot of things about elephants. Then he went to university, and he decided to study zoology, and he specialized in elephants. Eventually, he did a master’s, he got a PhD, and then he wrote books about elephants, and he traveled the world lecturing about elephants. Became a world expert. It was said that all of his knowledge of elephants was built up on one simple concept of elephant that he learned one day with his father in the zoo, in the national park.</p>
+
+<p>Something similar happens with our knowledge, with our ideas. Much of our knowledge is built up on a few simple ideas. Our spiritual knowledge, knowledge of our faith, that’s particularly important. It’s one of the reasons why from an early age the Church recommends our catechetical formation. We get certain ideas, basic ideas, about truth, about love, about justice. Ideas that we hear in the Ten Commandments. This meditation is about formation. The importance of formation. Of forming our mind and our person on a few simple ideas that we need to come back to again and again.</p>
+
+<p>“In the evening of the same day, the first day of the week, the doors were closed in the room where the disciples were, for fear of the Jews. Jesus came and stood among them. He said to them, ‘Peace be with you.’ And after saying this, he showed them his hands and his side. The disciples were filled with joy at seeing the Lord, and he said to them again, ‘Peace be with you. As the Father sent me, so am I sending you.’ After saying this, he breathed on them and said, ‘Receive the Holy Spirit’” (John 20:19–22).</p>
+
+<p>The whole work of Our Lord was a work of formation. He began to do and to teach. He did not give the apostles technology, or money, or special talents of speaking. He gave them ideas. Christianity, you could say, is a series of ideas. He gave them ideas with which he wanted them to shape the world. “Go you therefore, teach all nations” (Matt. 28:19). They were to be teachers. Christianity is a body of ideas. Our formation involves trying to assimilate those ideas. Sometimes very clear, basic ideas, such as that sin is the only real evil. The meaning and truth, beauty and meaning of conjugal love. Or other such ideas, the immortality of the human soul. The importance of dying in the state of grace. These are ideas that we have learned hopefully from kindergarten or primary school. Ideas that hopefully we’ve developed and grown in, and possibly will be there influencing our last minutes and hours on this earth. Very powerful ideas.</p>
+
+<p>It’s very important to expose ourselves to good ideas. That’s what our formation is all about. It’s very easy to expose ourselves to bad ideas. When bad ideas get into our mind, it can be difficult to get them out. Bad ideas come out as bad actions. Good ideas come out as good actions. The importance of fatherhood, of love and affection in the home, of human virtues. The office, or in the home, or in business. Very important to expose ourselves to good ideas. I heard somebody say recently that often people are what they read. If you listen to what people say, you get an idea of what they’re exposed to in their reading or what they watch on television.</p>
+
+<p>Very important to read good things, to read good ideas. Fake news can do a lot of damage. Not just in relation to contemporary society, but also in relation to truth. A good resolution is to have a few minutes of spiritual reading every day with good books that have been well recommended by people who know. Try and always get advice on things that you read. Nowadays, you could say the same thing about websites. Some people can go into some crazy websites and absorb a lot of bad ideas. It can come out in their words, or in their opinions, or in other ways. We need to be careful about our formation.</p>
+
+<p>There are various types of formation. There is ascetical formation, doctrinal formation, apostolic formation, intellectual formation, professional formation, human formation. Probably a lot of the things that you transmit to your children entail human formation. How to act or not to act, or how to behave, or how to talk, or how to walk. Very basic things. Our life to a large extent is tied up in formation. The Founder of Opus Dei used to say that Opus Dei is an organization that gives formation. It’s a great catechesis.</p>
+
+<p>If you think about it, the whole of our family formation in the home should be something similar. The dining room table, or the breakfast room table. You form your children in a life of piety when you pray the morning offering with them. Or when they see or hear you praying the Angelus. Or other little aspirations of prayers as you go around in the car. Or your night prayers when you do it with them. These are very powerful moments of formation. Or when they see you reacting against a piece of bad news. Or they see you cheerful. Or they see how you handle some little contradiction or cross. The whole of family life is a time of formation. Getting good criteria. How to act and react. How to function with our friends. When to take phone calls and when not to take phone calls. Family is a place where we go to be formed.</p>
+
+<p>That formation never finishes. Because we’re always learning new things. St. Josemaría in <em>The Furrow</em> says, “If you are sensible and humble, you will have realized that one never stops learning. This happens in every field. Even the wisest will always have something to learn until the end of their lives. If they don’t, they cease to be wise.”</p>
+
+<p>It’s good to give some thought to how I’m going to form myself in these various aspects of formation. Some of which can come through our own personal efforts and what we read or what we listen to. Other things may come in the form of the sort of people we place ourselves in contact with. Or organizations like Opus Dei that give formation so that we expose ourselves to that formation, or other supernatural families in the Church that have similar purposes. Or in our reading some of the great spiritual classics written by the saints or documents of the Church. In particular, the 15 or so encyclicals of John Paul II, which are like the ideas with which God wants to shape the Church for the 21st century. There are many wonderful ideas there.</p>
+
+<p>John Paul II had certain catchphrases, like the “culture of life,” the “civilization of love.” Pope Benedict came along and he sort of put those ideas on a more philosophical plane. Talked about the “cult of beauty” as opposed to the “cult of ugliness.” Said one of the jobs of the Christian in the world today is to promote beauty, the culture of beauty. Because he said the world is promoting a culture of ugliness. Abortion, contraception, euthanasia, LGBT. All sorts of other ugly ideas bring down the dignity of the human person. Which is another wonderful idea at the very center of the social teaching of the Church: dignity of every human person.</p>
+
+<p>A good question to ask ourselves when we’re reading the newspaper or watching a TV program is, well, what am I learning from this? Is this thing formative? Is it worthwhile having this newspaper or this magazine in my home or in my office? Or is it worthwhile having this TV program on in my home? If you wouldn’t bring a child to a red-light district of the city, well, be careful not to bring the red-light district of the city into your living room. We have to be a little bit attentive of these things. Expose ourselves to good ideas and expose our family to good ideas. We can go a long way on a few good ideas. The sacredness of every human life. Dignity of every human person. Purpose of marriage. Immortality of the soul.</p>
+
+<p>Most people skid around all their life on a few ideas. If we try to increase our ideas and our knowledge and go deeper in those ideas with the passage of time, then we can have a great influence. One of the purposes of our Christian vocation is to influence the world. “Let your light so shine before men that they see your good works and give glory to your Father in heaven” (Matt. 5:16). We’re meant to be full of light. A light that can be put on the lampstand. A beacon of light for our whole environment. Not just our family, but for the whole of society. We come to change society. For that we need a serious formation, to make a serious contribution.</p>
+
+<p>A man stood up at a get-together with Bishop Javier Echevarría a number of years ago and said, “Father, here in Nigeria, the great problem is, the great Nigerian problem is corruption.” And Bishop Javier said to him, “Well, I have news for you. It’s not just the big Nigerian problem. It’s everywhere in the world.” But he said, “We have come to change the way the world does business.” That’s why we need many cooperators and other people who allow themselves to be formed with good ideas so that they can influence their environment with those good ideas. It’s rather a wonderful ideal to have, to change the way the world does business.</p>
+
+<p>I’ve recently been reading a book called <em>The Path Between the Seas</em> about the beginning of the Panama Canal. Fascinating book. But what’s very interesting is that it was built by the French—I didn’t know—but back in Paris, there was an enormous amount of corruption going on with all the money that was raised to build the canal. This was in 1850. Sometimes we can think we’re surrounded by corruption and it’s the real new problem in the world. It’s been around for 20 centuries. But with our Christian vocation, we’ve come to change those realities. To bring new beginnings, new dawns. To reach men’s minds and hearts with new ideas, the ideas of Christ. Ideas with which he wants us to shape the world.</p>
+
+<p>This week we have the feast of the Sacred Heart. The heart is very important in our religion. “Rend your heart and not your garments” (Joel 2:13). “Come back to me with all your heart” (Joel 2:12). God reads the heart. It’s a good week to ask ourselves, well, what is in my heart? What are the ideas that I have in my heart? Do the great ideas of truth, beauty, and love reside in my heart? Do they get expressed in my conversations, in my working on building up those key ideas, seed ideas for the transformation of society? What do I have in my heart? You probably heard somebody say once that our thoughts become our words. Our words become our actions. Our actions become our character. And our character becomes our destiny. But it all starts with our hearts, with our thoughts. Thoughts that we have in our mind or in our heart, sentiments that are there. What do we fill our heart with? Desires to be better. Lord, help us to want to be better. Help us to want to be an effective Christian. To improve our preparation so that we can have a greater impact. Know the truth all the time a little better so that can be expressed in the things we do.</p>
+
+<p>St. Edith Stein, Jewess, patroness of Europe, said once that before I was converted, to seek the truth was my only prayer. We seek the truth in all things. We try and bring other people to the truth. We ask the Holy Spirit for his lights so that we can grow in that truth all the time. Seeing the new lights that are there. We might go over or hear again some basic ideas, but we get to see it from a new optical angle. With a new glory perhaps, or a new beauty. We go deeper in our appreciation of that particular truth. Comes to be a new treasure that we have on the inside, a new jewel to communicate to other people.</p>
+
+<p>That’s why Our Lord’s work was a constant work of formation. He went about teaching. Often he formed with his example. Sometimes we give a lot of formation with our example. Example of courage, of fortitude, of correcting others, of pointing out some truth at a social gathering, over a few beers with our friends. Not going along with the crowd. Using every opportunity to plant the seeds of good ideas in other people’s lives. Because we’ve also been formed to be apostles, in season and out of season. Using our friendship as a means of giving formation to other people. With faith, with optimism, with constancy.</p>
+
+<p>As we go along, well we may discover that there are gaps in my formation. I don’t know everything. I detect there are certain areas where I need to brush up in my formation, read a little bit more, get that idea a little clearer. This involves all the areas of our formation. If we are called by vocation to be a layman in the middle of the world, well our professional formation therefore becomes very important. That we have a journal or two that we’re reading or keeping abreast of the latest developments. So that little by little we become a leader in our profession because we know our stuff. We’re good at our job. We’re growing in our knowledge of what we’re supposed to know all the time.</p>
+
+<p>Over the course of our professional life that can come to be very important. St. Josemaría used to give an advice to people to focus on one particular area of your profession. Read everything that’s coming out in that area over a couple of years. He said, you become the national expert in that area. You become very prestigious. That’s a great way of doing a lot of apostolate, spreading good ideas.</p>
+
+<p>I was at a pro-life conference in Manila a number of years ago, and there was a lady doctor from Liverpool who was one of the speakers, and I got talking to her. She explained how she was almost at retiring age, her practice was diminishing, her son was taking over, and she had developed an interest over a period in the side effects of the contraceptive pill. She kept an eye for all articles that were coming out in the medical journals on this particular issue over a period. She noticed that these pieces of news were not coming out in the national media. She began to write to the London Times, the Manchester Guardian, other major newspapers, and eventually they published some of her material. Then the BBC noticed her. They invited her on to talk shows to talk about this particular topic, and radio talk shows. Over a period of years, she became the national expert. Then Human Life International, one of the major pro-life organizations at the time, invited her to be on their panel of speakers to speak at their international conferences. That’s how she came to Manila, where I met her. She spent the latter part of her professional life traveling the world expounding not only on the side effects of contraceptives, but also on the sacredness of human life. Beautiful ideas about human love. Scientific ideas, scientific truth. Did enormous good. Sowed an awful lot of seeds in my mind.</p>
+
+<p>We never know that possibly the greatest contributions we make in our profession may come in the latter part of our life with the greater acumen that we built up over time and experience. Particularly if we’ve become a bit of a national expert. It’s very good to have a lot of ambition in that area. Grow in our professional formation. Ideas, developments. The Church talks about authentic development, which is development that’s based on truth.</p>
+
+<p>I was a bit involved in the abortion referendum in Ireland in 1983, and I went to talk to one of my professors who was quite prominent in that whole debate, a professor of obstetrics. He talked about how in the 40s and 50s when they were training in England, whenever there was a difficult case—a hypertensive mother, a diabetic mother, an asthmatic mother—very often the treatment was to abort the baby. He said, “We couldn’t do that. We were Catholics. When we came back to Ireland, we couldn’t do that either. It was a Catholic country. We had to turn around and bring the hypertensive, diabetic, and asthmatic mother through pregnancy and through labor, which was all the more difficult.” He said together with the high birth rate that there was in Ireland at the time, this led to tremendous advances in neonatal medicine, management of labor, obstetrical medicine. We published an awful lot of our results. Our particular hospital became a sort of a world center in the management of labor. Which was one of the reasons that contributed to Ireland having the lowest maternal mortality rate in the world. He said sometimes we Catholics can have an inferiority complex because we say no to so many things. No to contraception, no to abortion, no to this, no to that. But he said we have the truth. When we apply the truth in the serious areas, that’s where the real development comes.</p>
+
+<p>You could say that about all of our formation. We have the truth. The truth is a great driving force for development. There’s an endless amount of truth for us to absorb and to put into practice. The impact of seed ideas on peoples and nations can be enormous. The impact of one person in an organization, in a club, in a profession, just talking sense, talking truth, can be tremendous. Our formation is formation in truth. Just as a candle dispels the darkness, and many candles dispel more darkness, well we’re called to light many candles in people’s hearts to dispel the darkness that may be there.</p>
+
+<p>Sometimes we need to be patient in our formation. You build a wall brick by brick. Somebody says that architecture begins by placing one brick on top of another. If we spend our life placing one brick on top of another, we can build a tremendous edifice. If you have a goal for your children to try and teach them to do the things that you were not able to do, well, you may build wonderful human beings that can make a wonderful contribution. The work of formation is a work of love. Takes time. God wants us to try and convince others of the need for formation. We will do very little in this world if we’re, and for the world and for the Church, if we’re not formed. We might have to sacrifice ourselves sometimes to grow in that formation. But if we realize it’s a great gift, a talent that God has given to us, that’s something wonderful.</p>
+
+<p>It’s interesting how Our Lord formed the apostles little by little. “Come, follow me, and I will make you into fishers of men” (Matt. 4:19). You will not make yourself into fishers of men. In the whole course of their formation, there were highs and lows, there were ups and downs. “Too slow of wit, too dull of heart. How long shall I be with you?” (cf. Luke 24:25; Matt. 17:17). There were times when Our Lord got tired of the apostles, but he didn’t give up. Eventually, they went on to be great saints and great apostles, despite their weaknesses. Except for one: Judas.</p>
+
+<p>When we think of formation, it’s salutary to think of Judas. Judas was exposed to all the miracles. All the truths that fell from the lips of Our Lord. He was exposed to all the formation that the other apostles received. But it was like water off a duck’s back. Nothing penetrated. When we look at Judas, he can be like a wake-up call. Because we might be exposed to all sorts of wonderful ideas, wonderful truths, beautiful things. But it might not penetrate. Might not go deep. It might remain very superficial. It might be like water flowing in a river that is maybe crystal clear, but it flows over the stones and nothing goes into the stones. They just get a bit wet on the outside. That’s not the way we want our formation to be. God wants those ideas to go deep, to penetrate, to change, to form a deep Christian on the inside.</p>
+
+<p>By reading good things, well we can pick up a lot of not just good ideas but also good words. St. Josemaría, when he came across a useful phrase or some beautiful words, he often would write them down. Because he said those were useful instruments to communicate the truth. There was a famous Roman educator in the early centuries, Quintilian, who said, “Clarity of expression lights up the beauty of the world.” Clarity of expression lights up the beauty of the world. If you listen to a Fulton Sheen, you get an idea how clarity of expression can light up the beauty of the world. One of the goals of our formation is that we’re meant to light up the beauty of the world. Help people to see beauty and truth and love. So that we drown out all the ugly things. That’s not just a work of today or tomorrow, it’s the work of a lifetime.</p>
+
+<p>We could ask Our Lord to improve our dispositions. Good dispositions to be open to receive the truth. The talent that God has given to us. He wants us to get five other talents. Certain people in scripture had good dispositions. The servants at Cana of Galilee were asked to fill the stone jars with water, and they filled them to the brim. They did exactly what they were told and a little more. Then Judas was the opposite. Or the rich young man. He had a lot of formation, but somehow he didn’t go the whole way. He held back. He went away sad because he had great possessions. But yet there was so much potential in that young man. Could have been an apostle.</p>
+
+<p>We could ask Our Lord for the grace to use all the opportunity of our formation which never ends. So that we’re always working on learning new things. Always aware that perhaps the greatest contributions that God may want us to make could come at the end of our life. Our Lady was open to all the ideas that God wanted to give her. “Behold the handmaid of the Lord, be it done unto me” (Luke 1:38). As though she was saying, whatever it is, you tell me, you communicate to me your truth, your beauty, your love, so that I can communicate it to the world. Mary is like a living catechism. The <em>Catechism of the Catholic Church</em> says we find all the virtues in Our Lady. We could ask Our Lady that she might help us to make very good use of our formation, to go forward, to breathe in as much formation as we can. So that like her, we might cultivate it and have more to give, just like she did, of love, of truth, and beauty to the whole of the world.</p>
+
+<p><em>I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My immaculate mother, St. Joseph, my father and lord, my guardian angel, intercede for me.</em></p>
+
+<p><em>EW</em></p>
+
+</article>
+    </main>
+
+    <footer>
+    <div class="footer-content">
+        <div class="footer-social">
+            <a href="https://whatsapp.com/channel/0029Vb2pjJyGufJ2mE4xvv2F" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Channel">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            </a>
+            <a href="mailto:frconor.ebook@gmail.com" aria-label="Email">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z"/><path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z"/></svg>
+            </a>
+        </div>
+        <p>&copy; 2025 FCD</p>
+    </div>
+</footer>
+
+    <!-- Scroll to Top Button -->
+    <button class="scroll-top" id="scroll-top" aria-label="Scroll to top" title="Back to top">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 15 12 9 6 15"></polyline>
+        </svg>
+    </button>
+
+    <!-- Reading List Modal -->
+    <div id="reading-list-modal" class="modal-overlay" aria-hidden="true" role="dialog" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Your Reading History</h2>
+                <button id="modal-close" class="modal-close" aria-label="Close modal">&times;</button>
+            </div>
+            <div id="reading-list-content" class="modal-body">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/meditations/assets/js/search.js?v=1767941901"></script>
+    <script src="/meditations/assets/js/theme-toggle.js"></script>
+    <script src="/meditations/assets/js/text-size-toggle.js"></script>
+    <script src="/meditations/assets/js/scroll-top.js"></script>
+    <script src="/meditations/assets/js/meditation-counter.js"></script>
+</body>
+</html>
