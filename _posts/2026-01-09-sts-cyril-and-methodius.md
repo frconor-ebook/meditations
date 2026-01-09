@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Saints Cyril and Methodius"
+title: "Sts. Cyril and Methodius"
 ---
 
 By Fr. Conor Donnelly
