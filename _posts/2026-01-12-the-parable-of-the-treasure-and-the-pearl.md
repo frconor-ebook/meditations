@@ -57,7 +57,7 @@ Or some people, for the philosophy of life that our faith gives us, a good ethic
 
 For other people, it's the Mass in English or the vernacular of whatever country they come in, or the Mass in Latin. The Vatican II Mass said in Latin can be said in any language. We all have our preferences and that's okay as far as it goes.
 
-But all these things are only the box. It's what is [in]{.underline} the box that is the most important.
+But all these things are only the box. It's what is [in]{.ul} the box that is the most important.
 
 Concentrating on the box, the language, the music, the architecture---we could commit the sin of idolatry.
 

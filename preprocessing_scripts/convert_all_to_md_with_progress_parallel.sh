@@ -5,9 +5,14 @@
 # This has been tested and it works! It's just that you have to be patient at the end of the process.
 # The script will wait for the remaining jobs to complete before displaying the final statistics.
 
-# Set the source and destination directories
-source_dir="/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/transcript_proofread_MSWord"
-dest_dir="/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/transcript_proofread_markdown"
+# Get the directory where this script is located
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+# Parent directory is upload_frcmed_to_web (one level up from preprocessing_scripts, then one more from meditations)
+PARENT_DIR="$(cd "$SCRIPT_DIR/../.." && pwd)"
+
+# Set the source and destination directories dynamically
+source_dir="$PARENT_DIR/transcript_proofread_MSWord"
+dest_dir="$PARENT_DIR/transcript_proofread_markdown"
 
 # Path to the conversion script
 CONVERT_SCRIPT="./convert_fast.sh"
