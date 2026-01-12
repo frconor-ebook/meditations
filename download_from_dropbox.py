@@ -254,7 +254,10 @@ if __name__ == "__main__":
         shared_link = "https://www.dropbox.com/scl/fo/9os4f3413gzmj9v1t6mnr/h?rlkey=mrx4znkgvmqnmo4jd9vyetow0&st=jhb9agq2&dl=0"
         print(f"Using default shared link: {shared_link}")
 
-    target_directory = "/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web"
+    # Use the parent directory of this script's location as target
+    # This script is in meditations/, so parent is upload_frcmed_to_web/
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    target_directory = os.path.dirname(script_dir)
 
     # Run the complete workflow
     download_and_process_dropbox_folder(shared_link, target_directory)

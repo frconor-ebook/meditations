@@ -178,11 +178,14 @@ title: "{title}"
 
 # --- Main execution ---
 if __name__ == "__main__":
-    source_directory = "/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/transcript_proofread_std_markdown"
-    posts_directory = (
-        "/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations/_posts"
-    )
-    data_directory = "/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/meditations/data"
+    # Get the directory where this script is located (meditations/)
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    # Parent directory is upload_frcmed_to_web (one level up from meditations)
+    parent_dir = os.path.dirname(script_dir)
+
+    source_directory = os.path.join(parent_dir, "transcript_proofread_std_markdown")
+    posts_directory = os.path.join(script_dir, "_posts")
+    data_directory = os.path.join(script_dir, "data")
 
     if os.path.exists(posts_directory):
         shutil.rmtree(posts_directory)

@@ -38,10 +38,14 @@ def standardize_filenames(source_dir, output_dir):
 
 
 if __name__ == "__main__":
-    source_directory = (
-        "/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/transcript_proofread_markdown/"
-    )
-    output_directory = "/Users/e_wijaya_ap/Desktop/upload_frcmed_to_web/transcript_proofread_std_markdown/"
+    # Get the directory where this script is located
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    # Parent directory is upload_frcmed_to_web (two levels up: preprocessing_scripts -> meditations -> upload_frcmed_to_web)
+    parent_dir = os.path.dirname(os.path.dirname(script_dir))
+
+    source_directory = os.path.join(parent_dir, "transcript_proofread_markdown")
+    output_directory = os.path.join(parent_dir, "transcript_proofread_std_markdown")
+
     if not os.path.isdir(source_directory):
         print(f"Error: '{source_directory}' is not a valid directory.")
         sys.exit(1)

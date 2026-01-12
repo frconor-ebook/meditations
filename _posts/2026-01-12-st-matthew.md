@@ -13,7 +13,7 @@ By Fr. Conor Donnelly
 
 "As Jesus was walking on from there, he saw a man named Matthew sitting at the tax office. He said to him, 'Follow me.' And he got up and followed him" (Matt. 9:9).
 
-Today is the feast of St. Matthew the Apostle.
+\[September 21\] is the feast of St. Matthew the Apostle.
 
 He was born in Capernaum. He was working as a tax collector when Our Lord called him. He called him in his ordinary place of work. This is very relevant for each one of us.
 
@@ -51,7 +51,7 @@ He addresses him in those very dynamic words, "Follow me." Our Lord says the sam
 
 "And he got up and followed him" (Matt. 9:9). Matthew's response was immediate.
 
-We're told this story in the Gospel of St. Matthew, which follows the story of the cure of the paralytic in Capernaum (Matt. 9:1-8).
+We're told this story in the Gospel of St. Matthew, which follows the story of the cure of the paralytic in Capernaum (Mark 2:1-12).
 
 A day or so after the miracle, Our Lord sets out for the seashore accompanied by a great crowd (Mark 2:13). The place he's coming from is a small seaport that borders the land of Perea on the other side of Jordan. On the way, He passes by this stall or booth for collecting taxes.
 
@@ -63,7 +63,7 @@ We get the impression that a tax collector seems to have enjoyed a certain socia
 
 Then Our Lord invites him to become a disciple of His. Matthew's response is quick and generous.
 
-Lord, help my response to you and everything that you ask of me---to be quick and to be generous.
+'Lord, help my response to you and everything that you ask of me---to be quick and to be generous.'
 
 Our Lord likes us to be quick, on the ball, reactive, ready to do things, dynamic, and also generous.
 
@@ -71,7 +71,7 @@ Matthew gives himself completely. He leaves what he's attached to, what he's doi
 
 "He got up and followed Him." He left all those things. Detachment.
 
-Lord, help me to be ready to leave whatever it is that I may be attached to, to do whatever it is that you're asking of me---available, generous, total.
+'Lord, help me to be ready to leave whatever it is that I may be attached to, to do whatever it is that you're asking of me---available, generous, total.'
 
 Matthew might have met Our Lord on other occasions. He might have been looking forward to this momentous occasion. So, when it comes, he doesn't hesitate. He follows Christ at the first indication.
 
@@ -83,7 +83,7 @@ We're told in Scripture that we have been chosen out before the foundation of th
 
 But just at the right moment in our life, Our Lord speaks to us in different ways. He blows the whistle and says, Now, go. Change your life.
 
-The time and the place that Our Lord selects to ask us for our complete dedication are very much foreseen by Divine Providence, and therefore are the most opportune. This is the best moment, this is the best way, this is the best place.
+The time and the place that Our Lord selects to ask us for our complete dedication are very much foreseen by Divine Providence and therefore are the most opportune. This is the best moment, this is the best way, this is the best place.
 
 Sometimes God calls people in their youth. Then, in that case, for such a person, that's the best time to respond.
 
@@ -117,13 +117,13 @@ At other times, we are the guide horse to help other people to find the way.
 
 Good friends are like that. You may not always see them, but you know they are always there.
 
-The vocation of Matthew and of all apostles is to be a good friend. We find that the first thing he did when he was called by Our Lord was to organize this dinner party, because the greatest thing in his whole life has happened. He has found Christ---Christ, who is the light
+The vocation of Matthew and of all apostles is to be a good friend. We find that the first thing he did when he was called by Our Lord was to organize this dinner party, because the greatest thing in his whole life has happened. He has found Christ---Christ, who is the light.
 
 The most logical thing to do was to tell all his friends, to bring them in contact with this great treasure in his life who is Christ.
 
 Also, the most logical reaction that we may have in seeing that God is asking something of us, or to realize the treasure that we have found, is also to want to bring Christ to the lives of many other people, so that they can respond, and respond quickly, to be open to the plans of God and to be faithful to the end.
 
-If a person says "No" to God when He is asking, maybe with the idea of saying "Yes" at some time later, a time perceived to be more suitable, it might happen that other occasion never shows up.
+If a person says "No" to God when He is asking, maybe with the idea of saying "Yes" at some time later, a time perceived to be more suitable, it might happen that the other occasion never shows up.
 
 It is now that God is calling us. There is a certain urgency of that call. The Lord may not knock a second time at the door of our heart.
 
@@ -131,7 +131,7 @@ It is now that God is calling us. There is a certain urgency of that call. The L
 
 In the book *Mary of Nazareth*, the author Federico Suarez says, "All resistance to grace hardens the heart."
 
-Jesus, may I never resist your grace. May I never resist the calls of the bridegroom, and then to realize that God wants to marry us. We are all called to the eternal wedding feast. The bridegroom comes to seek his bride.
+'Jesus, may I never resist your grace. May I never resist the calls of the bridegroom, and then to realize that God wants to marry us.' We are all called to the eternal wedding feast. The bridegroom comes to seek his bride.
 
 St. Augustine describes very clearly the urgency with which we should try to respond to the gift that God gives us when He passes close to us along the road of life. He says, "I fear Jesus may pass by and not come back" (St. Augustine, *Sermon 88*).
 
@@ -145,7 +145,9 @@ In the majority of cases, He leaves us right bang smack in the middle of society
 
 "He chose us out before the foundation of the world in order that we might be holy in His presence" (Eph. 1:4).
 
-St. Josemaría in *The Forge* says, "To be holy is not easy, but it isn't difficult either. To be holy is to be a good Christian, to resemble Christ. The more closely a person resembles Christ, the more Christian he is; the more he belongs to Christ, the holier he is. ---And what means do we have? The same means the early faithful had, when they saw Jesus directly or caught a glimpse of him in the accounts the Apostles and the Evangelists gave of him" (Josemaría Escrivá, *The Forge*, Point 10).
+St. Josemaría in *The Forge* says, "To be holy is not easy, but it isn't difficult either. To be holy is to be a good Christian, to resemble Christ. The more closely a person resembles Christ, the more Christian he is; the more he belongs to Christ, the holier he is.
+
+"And what means do we have? The same means the early faithful had, when they saw Jesus directly or caught a glimpse of him in the accounts the Apostles and the Evangelists gave of him" (Josemaría Escrivá, *The Forge*, Point 10).
 
 Our Lord speaks to us through the Gospels. It's very important that we have a regular habit of reading a few words of the Gospel every day so that we get to know Our Lord who comes to us through those words, through those pages.
 
@@ -169,9 +171,9 @@ And this was one of the ways that he showed his gratitude for his vocation.
 
 We savor the gift. We show Our Lord with our deeds that we love our vocation, that we are grateful for it by using it well. We see that this is a tremendous gift for which it's always necessary to be grateful and to show that gratitude in deeds.
 
-Lord, thank you for all the callings that you've given me in my life. Born into this family, went to this school, knew these friends. Studied these particular subjects. Brought me here to this center.
+'Lord, thank you for all the callings that you've given me in my life. Born into this family, went to this school, knew these friends. Studied these particular subjects. Brought me here to this center.
 
-Thank you for all the wonderful gifts you've given to me. Help me to see that all this has a purpose. You've been grooming me, preparing me for the mission, for the role I have to play.
+'Thank you for all the wonderful gifts you've given to me. Help me to see that all this has a purpose. You've been grooming me, preparing me for the mission, for the role I have to play.'
 
 If we were only to consider the renunciation every invitation to follow God entails, sadness could well ensue as in the case of the rich young man who did not want to leave his wealth (*cf*. Luke 18:18-25).
 
@@ -231,7 +233,7 @@ Our Lord doesn't want us to remain indifferent to anybody. The greater a person'
 
 Every feast of an apostle invites us to look again at our apostolate, our list of souls, the people God is bringing us in contact with, people who may be on the periphery of our lives, but who somehow are there for an apostolic purpose.
 
-Lord, help me to look at the quality of my social dealings.
+'Lord, help me to look at the quality of my social dealings.'
 
 "You are right," says St. Josemaría in *The Way*. "'The peak'---you wrote me---'dominates the country for miles around, and yet there is not a single plain to be seen: just one mountain after another. At times the landscape seems to level out, but then the mist rises and reveals another range that has been hidden.'
 
