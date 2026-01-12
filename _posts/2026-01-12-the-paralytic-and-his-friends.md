@@ -19,7 +19,7 @@ Our Lord is involved in lofty teaching. There were Pharisees, doctors of the Law
 
 Then some men appeared, a bit incongruous, unexpected. And not only that, but they were "carrying on a bed a paralyzed man whom they were trying to bring in and lay down in front of him."
 
-These people were true friends. They were bringing their friend to Christ. It was a real expression of their charity. They weren\'t worried about niceties or protocols or other such things. Their one focus was to bring their friend to Christ, to place him before Jesus.
+These people were true friends. They were bringing their friend to Christ. It was a real expression of their charity. They weren't worried about niceties or protocols or other such things. Their one focus was to bring their friend to Christ, to place him before Jesus.
 
 We can think in this meditation about how we also have to place souls before Christ with our prayer, and bring those souls to prayer frequently.
 
@@ -27,7 +27,7 @@ The strength of Opus Dei lies in prayer. Our Father liked to tell us that "praye
 
 "In the first place, prayer. In second place, is mortification. In the third place, very much in the third place, action" (J. Escrivá, *The Way*, Point 82).
 
-Prayer is the strength of Opus Dei. So, all supernatural work and all effectiveness of those supernatural works will always be based on prayer, because "prayer is the foundation of the spiritual edifice," said our Father in *The Way*. "Prayer is all-powerful\" (J. Escrivá, *The Way*, Point 83).
+Prayer is the strength of Opus Dei. So, all supernatural work and all effectiveness of those supernatural works will always be based on prayer, because "prayer is the foundation of the spiritual edifice," said our Father in *The Way*. "Prayer is all-powerful" (*ibid*., Point 83).
 
 We can be inspired by the example of these four friends---authentic friends who wanted the best for their friend and who were willing to move heaven and earth to get it.
 
@@ -35,19 +35,19 @@ True friendship leads them to unstinting efforts to bring about this encounter w
 
 Holiness is measured by love. These guys had authentic love, so they want to steal a bit of heaven for their friend.
 
-A Christian loves with the charity that comes from God. It\'s a supernatural charity. We need to be continually getting out of our own shoes and see everything as others see them, to want the best for other people. If we abandon ourselves to the dynamism of getting things done, we can very easily lose our supernatural outlook.
+A Christian loves with the charity that comes from God. It's a supernatural charity. We need to be continually getting out of our own shoes and see everything as others see them, to want the best for other people. If we abandon ourselves to the dynamism of getting things done, we can very easily lose our supernatural outlook.
 
 Our friends are the family that we choose for life. These friends invite us to complicate our life for others; to be very focused on God and on daring.
 
-We never know what great burdens other people may be carrying. We want to make sure that no one ever feels alone, and we know that affection must be manifested with sacrifice to be that good shepherd.
+We never know what great burdens other people may be carrying. We want to make sure that no one ever feels alone, and we know that affection must be manifested with sacrifice to be that Good Shepherd.
 
 These guys were truly the good shepherd of their friend. We are told that as the crowd made it impossible to find a way of getting him in, "They went up onto the flat roof and lowered him and his stretcher down through the tiles in the middle of the gathering in front of Jesus" (Luke 5:19).
 
-You could say they had courageous initiative, courageous daring. They think out of the box. They\'re faced with one problem, but they immediately think about how to solve it.
+You could say they had courageous initiative, courageous daring. They think out of the box. They're faced with one problem, but they immediately think about how to solve it.
 
-They\'re not put off by the difficulties, nor discouraged by the little challenges that may lie in their path, because they\'re very focused.
+They're not put off by the difficulties, nor discouraged by the little challenges that may lie in their path, because they're very focused.
 
-And so, they think out of the box and they think of a solution, and they climb up onto the roof, and they more or less vandalize the roof. Probably they replaced the tiles afterward. We\'re told in another version of this story that "they removed the tiles" (Mark 2:4).
+And so, they think out of the box and they think of a solution, and they climb up onto the roof, and they more or less vandalize the roof. Probably they replaced the tiles afterward. We're told in another version of this story that "they removed the tiles" (Mark 2:4).
 
 But they did everything possible to get that friend of theirs to be seen by Jesus and ultimately, to be healed by Him.
 
@@ -55,11 +55,11 @@ But they did everything possible to get that friend of theirs to be seen by Jesu
 
 "Seeing their faith." Our Lord wants to be able to see our faith in the things we do for our friends, and in the sacrifices that we make for them.
 
-The apostolate is not just talking about people or even just talking to them. It\'s making sacrifices for them. It\'s winning them with our affection.
+The apostolate is not just talking about people or even just talking to them. It's making sacrifices for them. It's winning them with our affection.
 
 God has given us a special grace to be able to know and to do the apostolate of friendship and confidence, and to be growing in that way that we do that apostolate in the course of our life, so that we become real experts in this area.
 
-There\'s a story in the book about St. Josemaría by Salvador Bernal that said in Andorra, Father Pujol Tubau provided St. Josemaría with what he needed to be able to celebrate the Mass, which left him deeply impressed.
+There's a story in the book about St. Josemaría by Salvador Bernal that said in Andorra, Father Pujol Tubau provided St. Josemaría with what he needed to be able to celebrate the Mass, which left him deeply impressed.
 
 Fr. Pujol noted down his memories of the Founder of Opus Dei, who had just come through the Pyrenees under very difficult circumstances.
 
@@ -77,15 +77,15 @@ In April 1944, Fr. Pujol went to Zaragoza as Archpriest of Andorra on the occasi
 
 At a reception before the ceremony, the good memories and loyal gratitude which St. Josemaría had for him were proved by something the future Bishop said when they were introduced.
 
-He said, "I\'ve heard many good things about you, and it was Father Josemaría Escrivá who said them."
+He said, "I've heard many good things about you, and it was Father Josemaría Escrivá who said them."
 
-Fr. Pujol comments: "It was a surprise to me at the time, to think how St. Josemaría could remember a priest that he had known only in such a brief encounter, but I realized later that such affability was a consequence of a profound sense of friendship" (Salvador Bernal, *Msgr. Josemaría* *Escrivá de Balaguer: A Profile of the Founder of Opus Dei*, 1977).
+Fr. Pujol comments: "It was a surprise to me at the time, to think how St. Josemaría could remember a priest that he had known only in such a brief encounter, but I realized later that such affability was a consequence of a profound sense of friendship" (Salvador Bernal, *Msgr. Josemaría* *Escrivá de Balaguer: A Profile of the Founder of Opus Dei*).
 
-We look at the friendship of these friends of the paralytic. We see that they\'re willing to do everything; they\'re loyal friends; they complicate their life; they\'re daring to go out of their way.
+We look at the friendship of these friends of the paralytic. We see that they're willing to do everything; they're loyal friends; they complicate their life; they're daring to go out of their way.
 
-"In a Christian, in a child of God, friendship and charity are one and the same thing." (J. Escrivá, *The Forge*, Point 565).
+"In a Christian, in a child of God, friendship and charity are one and the same thing" (J. Escrivá, *The Forge*, Point 565).
 
-We have to try and spread our love for Christ to everybody around us because each person has immense value in the eyes of Christ. Each person is worth all the Blood of Christ" (J. Escrivá, *Christ Is Passing By*, Point 80).
+We have to try and spread our love for Christ to everybody around us because each person has immense value in the eyes of Christ. "Each person is worth all the Blood of Christ" (*ibid*., *Christ Is Passing By*, Point 80).
 
 We have to try and work at our friendship and our charity, and putting our faith into practice in concrete ways---first and foremost in our thoughts, because "our thoughts become our words; our words become our actions; our actions become our habits; our habits become our character, and our character becomes our destiny" (Lao Tzu).
 
@@ -95,33 +95,33 @@ We could ask Our Lord in the Blessed Sacrament in this recollection: 'Lord, help
 
 God may use other people as instruments in our life, like gloves. Sometimes they may be instruments of inspiration, sometimes they may be instruments of purification. Sometimes He uses us as instruments of purification for others.
 
-'Lord, help me to have a deeper charity to see what\'s needed, to bring my friends to you, to have a lot of fortitude and daring and perseverance in achieving that end.'
+'Lord, help me to have a deeper charity to see what's needed, to bring my friends to you, to have a lot of fortitude and daring and perseverance in achieving that end.'
 
-In *The Forge*, we're told that charity and friendship can be like "a divine light that spreads warmth" (J. Escrivá, *The Forge*, Point 565).
+In *The Forge*, we're told that charity and friendship can be like "a divine light that spreads warmth" (*ibid*., *The Forge*, Point 565).
 
 We are called to be spreaders of warmth in the world, a warm environment in our family home, a warm environment in our workplace, fostering unity, friendship, and togetherness.
 
 Sometimes the strongest things in the world can often seem the weakest. Gentleness is stronger than cruelty; patience is stronger than impatience; mercy is stronger than revenge; love is stronger than hate. Love is an act of power.
 
-These friends were moved to action. We can\'t say: 'You know, I love people on the inside, it's just that I\'m not the sort of person that shows it externally very much.' Well, that\'s not acceptable.
+These friends were moved to action. We can't say: 'You know, I love people on the inside, it's just that I'm not the sort of person that shows it externally very much.' Well, that's not acceptable.
 
 Charity has to be demonstrative. It has to be shown in deeds. "Charity is patient, charity is kind" (1 Cor. 13:4).
 
 Love is service. It means being aware of the needs of the people around us; loving those who might seem unworthy of our love, who are unlovable.
 
-If you ever think that you were unlovable in your life, go home and ask your Mum: 'Mum, was I ever unlovable?' She can tell you: 'Sit down for two hours, I\'ll tell you all about it.'
+If you ever think that you were unlovable in your life, go home and ask your Mum: 'Mum, was I ever unlovable?' She can tell you: 'Sit down for two hours, I'll tell you all about it.'
 
 Often, we should give others the things they need: our time, our ears, maybe material things. But ultimately, Christ wants us to give ourselves.
 
-These friends of the paralytic were very focused on the goal. They wanted the best for their friend. They weren\'t put off by any difficulties.
+These friends of the paralytic were very focused on the goal. They wanted the best for their friend. They weren't put off by any difficulties.
 
 We're not told that afterwards, they hung around waiting for thanks. They just did what was the right thing to do, what they could do.
 
 We could think of the spiritual works of mercy that the precept of charity causes us to practice with other people: to instruct the ignorant; to counsel the doubtful; to admonish sinners; to bear wrongs patiently; to forgive offenses willingly; to comfort the afflicted; and to pray for the living and the dead.
 
-Our Father has always told us that a clear sign of the supernatural virtue of charity is fraternal correction.
+Our Father has always told us that "a clear sign of the supernatural virtue of charity" is fraternal correction (J. Escrivá, *The Forge*, Point 146).
 
-That brings the people around us to be better---truly being the good shepherd who fosters charity, who gives other people around us the proof that they\'re not alone, that they\'re part of the family, that they\'re loved, that we want the best for them.
+That brings the people around us to be better---truly being the Good Shepherd who fosters charity, who gives other people around us the proof that they're not alone, that they're part of the family, that they're loved, that we want the best for them.
 
 We want them to get into heaven and so, we practice our duty of the good shepherd, and the people around us have a right to that.
 
@@ -133,19 +133,19 @@ The greatest means we have to change people is affection and fraternal correctio
 
 Notice how the paralytic allows himself to be carried, and he allows himself to be carried also up onto the roof. He might have shouted 'Stop!' or 'Be very careful, I might fall off the roof, or I might fall inside, or all sorts of terrible things might happen.'
 
-You get the impression he\'s not complaining, even though he doesn\'t know what\'s coming. He leaves himself completely in the hands of the others.
+You get the impression he's not complaining, even though he doesn't know what's coming. He leaves himself completely in the hands of the others.
 
 Sometimes we also have to let ourselves be served and let ourselves be corrected out of love; listen carefully to whatever is said to us, and let the Holy Spirit work in the ways that He wants.
 
-We're told in *The Forge*, Point 146: "Don\'t neglect the practice of fraternal correction, which is a clear sign of the supernatural virtue of charity. You may find it hard, for it\'s easier to be inhibited. It\'s easier to behave that way, but it\'s not supernatural. And you have to render an account to God for such omissions."
+We're told in *The Forge*, Point 146: "Don't neglect the practice of fraternal correction, which is a clear sign of the supernatural virtue of charity. You may find it hard, for it's easier to be inhibited. It's easier to behave that way, but it's not supernatural. And you have to render an account to God for such omissions."
 
 Sometimes in showing our charity and our faith, we may have to be counter-cultural, go against the grain, and think out of the box and do things that are out of the box.
 
-It wasn\'t normal for people to climb up onto the roof, pull away the tiles, lower somebody down. It\'s very ingenious of these guys, full of courage and initiative.
+It wasn't normal for people to climb up onto the roof, pull away the tiles, lower somebody down. It's very ingenious of these guys, full of courage and initiative.
 
 Our Lord wants us to have that sort of initiative in our apostolate, to hang in there with fortitude, and daring, and holy shamelessness.
 
-Make use of all opportunities that God gives us to bring souls closer to Him, with a special continuity, so that we don\'t lose sight of friends from yesteryear.
+Make use of all opportunities that God gives us to bring souls closer to Him, with a special continuity, so that we don't lose sight of friends from yesteryear.
 
 We keep in contact through email, or WhatsApp, or whatever other means may be there. We never lose contact with people. We go through our lists of friends from time to time.
 
@@ -165,11 +165,11 @@ Somebody among these friends of the paralytic must have come up with this idea, 
 
 Our Lord wants us in our family to talk a lot about our friends and to have a lot of follow-through in our apostolate.
 
-If we\'re ever looking after an apostolic activity, it\'s not just that activity that we\'re involved in, whether it\'s a retreat or a Circle or a talk, or we could do our seminar.
+If we're ever looking after an apostolic activity, it's not just that activity that we're involved in, whether it's a retreat or a Circle or a talk, or we could do our seminar.
 
-We could try and get to know each one of the people there, build up new friendships, and follow up after so there\'s continuity in the apostolate, because bringing our friends or acquaintances to Christ may involve precisely that follow-through.
+We could try and get to know each one of the people there, build up new friendships, and follow up after so there's continuity in the apostolate, because bringing our friends or acquaintances to Christ may involve precisely that follow-through.
 
-It\'s not just a once-off activity. We\'re not a functionary. We don\'t function like civil servants---with all due respect to civil servants.
+It's not just a once-off activity. We're not a functionary. We don't function like civil servants---with all due respect to civil servants.
 
 We should try and be biting at the bit to look after activities, or organize new ones, or visit our friends who may be doing their retreats.
 
@@ -179,11 +179,11 @@ This involves every member of Opus Dei: laypeople and priests, numeraries, super
 
 "Lord, may your children," said our Father in *The Forge*, "be like red-hot coals, but without flames to be seen from afar. Let them be burning embers that will set alight each heart they come in contact with. You will make that first spark turn into a burning fire, for your angels are very skilled at blowing on the embers in our hearts. I know, I have seen it. And a heart cleared of dead ashes cannot but be yours" (J. Escrivá, *The Forge*, Point 9).
 
-Quality in our friendship, continuity in that friendship, little details of making a phone call, a greeting for a birthday, a birthday celebration, or remembering a wedding anniversary---this is the way to people\'s hearts and souls.
+Quality in our friendship, continuity in that friendship, little details of making a phone call, a greeting for a birthday, a birthday celebration, or remembering a wedding anniversary---this is the way to people's hearts and souls.
 
 And the Holy Spirit will give us the answers that we need for this particular soul and that particular soul.
 
-"Following the Master\'s wishes," we\'re told in *The Forge*, "you are to be salt and light while being fully immersed in this world that we were made to live in, sharing in all human activities.
+"Following the Master's wishes," we're told in *The Forge*, "you are to be salt and light while being fully immersed in this world that we were made to live in, sharing in all human activities.
 
 "Light illumines the hearts and minds of men. Salt gives flavor and preserves from corruption. That is why if you lack apostolic zeal, you will become insipid and useless. You will be letting other people down and your life will be absurd" (J. Escrivá, *The Forge*, Point 22).
 
@@ -191,13 +191,13 @@ We could learn from the initiative and the daring and the authenticity of friend
 
 Then the Gospel narrative goes back to the scribes and the Pharisees who began to think this over: "Who is this man talking blasphemy? Who can forgive sins but God alone?" (Luke 5:21).
 
-"But Jesus, aware of their thoughts, made them this reply: 'What are these thoughts you have in your hearts? Which of these is easier to say, "Your sins are forgiven you," or to say, "Get up and walk?" (Luke 5:22-23).
+"But Jesus, aware of their thoughts, made them this reply: 'What are these thoughts you have in your hearts? Which of these is easier to say: Your sins are forgiven you, or to say, Get up and walk?'" (Luke 5:22-23).
 
-So, this great miracle becomes an occasion for further dialogue with the scribes and Pharisees, full of their hypocrisy and negativity, who don\'t want to recognize what has taken place in front of them.
+So, this great miracle becomes an occasion for further dialogue with the scribes and Pharisees, full of their hypocrisy and negativity, who don't want to recognize what has taken place in front of them.
 
 "'But to prove to you that the Son of Man has authority on earth to forgive sins,' he said to the paralyzed man, 'I order you to get up and pick up your stretcher and go home.' And immediately before their very eyes, he got up, picked up what he had been lying on, and went home praising God" (Luke 5:24-25).
 
-We\'re not told that he exited through the roof, but his friends that were there probably fixed things up. We\'re told, "They were all astounded and praised God and were filled with awe, saying, 'We have seen strange things today'" (Luke 5:26).
+We're not told that he exited through the roof, but his friends that were there probably fixed things up. We're told, "They were all astounded and praised God and were filled with awe, saying, 'We have seen strange things today'" (Luke 5:26).
 
 And so, we can try to imitate this great example to grow in the concrete expressions of our charity and of our faith in bringing souls closer to Christ.
 
