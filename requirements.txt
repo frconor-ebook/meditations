@@ -1,0 +1,5 @@
+google-genai
+pyperclip
+requests
+python-dotenv
+openpyxl
