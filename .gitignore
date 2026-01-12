@@ -13,4 +13,4 @@ preprocessing_scripts/conversion_logs/
 preprocessing_scripts/conversion_logs/*
 ./conversion_logs/
 conversion_logs/
-.env
+.env.venv/
