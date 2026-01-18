@@ -1,0 +1,224 @@
+---
+layout: homily
+title: "The Narrow Gate"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"And Jesus went through the cities and towns, teaching and making his journey to Jerusalem. And a certain man said to him, 'Lord, are there few that are saved?' But he said to them: 'Strive to enter by the narrow gate; for many, I say to you, shall seek to enter, and shall not be able" (Luke 13:22-24).
+
+There are many occasions in the Gospel where Our Lord gives us this message in all sorts of different ways: a message that He wants us to struggle, to try to be better, to be perfect as our Heavenly Father is perfect, to put virtues into practice in an ordinary way, in the ordinary circumstances of everyday life.
+
+He seems to emphasize again and again that that demands effort, demands fortitude, toughness. "If your hand is an occasion of sin to you, cut it off" (*cf*. Matt. 18:8).
+
+Our Lord was a tough man, and He made some tough demands on the people around Him. "Leave the dead to bury their dead" (Luke 9:60). "Come, follow me" (Matt. 4:19). Leave everything behind you. "If any man will come after me, let him deny himself, and take up his cross, and follow me" (Matt. 16:24).
+
+The pathway to Christ is a pathway of self-denial, of struggling with ourselves, of pressing on towards the goal.
+
+St. Paul said to the Philippians, "Brethren, I do not count myself to have apprehended. But one thing I do: forgetting the things that are behind, and stretching forth myself to those that are before, I press towards the mark, to the prize of the \[supernal\] vocation of God in Christ Jesus" (Phil. 3:13-14).
+
+In all sorts of ways, Our Lord repeats this message: that He wants us to struggle to be better, to have a sporting spirit, to begin again and again. He said, "Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but he who does the will of my Father in heaven" (Matt. 7:21).
+
+He told us also that there will be times when we'll have to endure contradiction, difficulties.
+
+But He wants us to keep going in those moments, not to give up, to "enter by the narrow gate" (Luke 13:24).
+
+He said to the apostles, "You will be universally hated on account of my name, but anyone who stands firm to the end will be saved" (Matt. 10:22). A lot of the message of our Christian vocation is about standing firm to the end.
+
+There's a story told about President Andrew Jackson of the United States. When he became president, newspaper reporters had a big time interviewing him, getting stories about him because they loved the unlikely story of this frontiersman turned statesman.
+
+One of the interviewers asked some of Jackson's boyhood companions if they ever thought that he would become president of the United States. They all agreed that they didn't know what he would become, but they always knew that he would become something big.
+
+When they were asked why, they said, "Jackson was never the best in his class. He was never the most popular kid in town. He wasn't even the best athlete. In fact, he would lose three or four out of all the wrestling matches that he did."
+
+But that's exactly where they knew he was going places. When the journalist asked what they meant, they said, "After losing the first wrestling match, he would immediately challenge the same opponent to a second match. And when he lost that one, he would challenge him to a third. And when he lost that one, he would challenge him to a fourth.
+
+"At that point, the opponent was usually so confused and worn out, and Jackson eventually won the match." They said that's how he was with everything.
+
+Sometimes being a wise steward means not giving up, hanging in there, staying in the ring. St. Paul says in his writings, "We have to put on the armor of God so that you may be able to stand against the deceits of the devil" (Eph. 6:11).
+
+There was a story in a newspaper recently about a very prominent person in some army around the world, and he had the misfortune to get caught in an unsavory relationship.
+
+This article was saying that this military man had been trained in all sorts of external warfare. But obviously he had no training in internal warfare. He didn't know how to fight with his passions, to do battle, to seek all the help---material or human and supernatural--- that he needed.
+
+Every single person on the planet needs that formation in interior warfare, so as not to get caught by "the wickedness and snares of the devil" (*Prayer to St. Michael the Archangel*), so that we will be able to say with St. Paul, "I have fought the good fight, I have finished the race, I have kept the faith" (2 Tim. 4:7).
+
+Our Lord and the people around Him will talk a lot about this fight, this battle.
+
+The *Catechism of the Catholic Church* uses that word "battle" fairly frequently. They say: "the battle for purity" (*Catechism*, Points 2520-2533), "the battle of prayer" (*Catechism*, Points 2725-2745).
+
+It's all about the narrow gate: conquering our feelings, not functioning on the law of likes and dislikes, fulfilling our duty, being faithful to our *plan of life*, our norms of our spiritual life, our spirit of mortification, carrying the cross when it comes.
+
+"As to the rest," says St. Paul, "there is laid up for me the crown of justice, which the Lord, the just judge, will render to me on that day, and not only to me, but to those that also love his coming" (2 Tim. 4:8).
+
+Our Lord also told us the secret of charity: "Greater love than this no one has, than to lay down his life for his friends" (John 15:13).
+
+Our Lord showed us what He meant by that when He died on the Cross. It wasn't just nice words.
+
+Often it's in the moments of difficult struggle, of fight, of hanging in there, that we grow in our virtue.
+
+Pope Benedict has liked to say, "Without the cross there is no transformation; and with the cross everything is transformed" (*cf*. Benedict XVI, *Speech*, July 25, 2005).
+
+Our Lord has chosen for us certain "narrow gates"---certain areas of struggle that may be different to everybody else. If He gives us some particular virtue that He wants us to really struggle in, and that our failures humiliate us, or help us to see we're feet of clay or that we're made of dust, that's where He wants us to keep up the fight. That's our narrow gate.
+
+St. Peter says, "Keep sober and alert, because your enemy the devil is on the prowl like a roaring lion, looking for someone to devour" (1 Pet. 5:8).
+
+The narrow gate helps us to know where those battles should be.
+
+St. Josemaría liked to say that what we need \[to be happy\] "is not an easy life, but a heart that is in love" (*cf*. Josemaría Escrivá, *Furrow*, Point 795). That heart that is in love will lead us to fight the good fight and to finish the race, accept the challenges, not to look for the easy way out.
+
+A student in a university was asked one time, "What subjects are you taking next year?"
+
+He said, "I'm taking Turkish, music and architecture."
+
+And their questioner asked him, "Why, do you want to be a choir master in a Turkish mosque?"
+
+He said, "No, it's because those subjects come at nine, ten and eleven."
+
+Convenience. Our Lord doesn't call us to a lifetime of convenience. He wants us to enter those narrow gates in the way that they come to us.
+
+This is the struggle that God wants for me. This is my pathway to holiness.
+
+The number of times that I fail in going through the narrow gate and have to come back and start again---it doesn't matter. That's not important. It's how we struggle that's important: our perseverance, our faithfulness, our humility, our order.
+
+St. Josemaría liked to say that there are no saints on earth. We all need to struggle, and in the area and in the way that God has placed for us. That's where He wants us to struggle.
+
+The *Catechism of the Catholic Church* says, "The way of perfection passes by way of the Cross. There is no holiness without renunciation and spiritual battle" (*Catechism*, Point 2015).
+
+Sometimes we see on bumper stickers or in other places, "Jesus smiles." "Jesus loves." Like Jesus is sweet, Jesus has no tough words for anybody, Jesus has no moral message for young people.
+
+If we try to portray a Jesus without the Cross, then we get a caricature of Jesus. He has called us to fight the battles, to dominate our passions, to conquer ourselves.
+
+The *Catechism* continues, "Spiritual progress entails that struggle, that battle, and mortification that gradually lead to living in the peace and joy of the Beatitudes: 'He who climbs never stops going from beginning to beginning, through beginnings that have no end. He never stops desiring what he already knows'" (Gregory of Nyssa, *Homily in Canticum Canticorum, 8*).
+
+Our Lord has given us all the means that we need to enter through those narrow gates. We have the grace of the sacraments, we have the help of our guardian angel, we have the help of St. Michael, we have the company of Our Lady---so that we will fight and go through those narrow gates "in season and out of season."
+
+In 1966 there was a movie called *A Man for All Seasons.* It won the Academy Award for Best Picture. In some ways it was a strange winner for the mid-1960s.
+
+It told the story of St. Thomas More, an English nobleman martyred in the 16th century because he refused to give up his Catholic faith, even when his friend King Henry VIII begged him to do so. One of the brilliant details of the film was that it depicted the fifteen months in prison of Thomas More.
+
+Family and friends could visit him only if they promised to try and convince him to renounce his faith. In the movie, scenes of these visits are there, and of Thomas also alone in the cell, praying, alternating with camera shots looking out of the narrow, barred window of his cell, the only source of light of his cell.
+
+Through the window we see the lawn and the tree down below. At first they're blooming in the spring, then we see them green in the summer, then the leaves fall in autumn. Then we see the same tree, barren, resisting the winter's cold. And then the spring comes again.
+
+This is a visual metaphor for the soul of the saint, a soul which was faithful to Christ in all weather, in good times and bad, in prosperity and in terrible suffering. He was truly "a man for all seasons." He fought on in all those different seasons, literally.
+
+Christ is hoping that we will be also. Our Lord encourages us to face those narrow gates, to go through them, not to shy away from them, to say 'yes' to the battle.
+
+St. Josemaría talked a lot about having "a sporting spirit" (J. Escrivá, *Furrow*, Point 169; *Conversations*, Point 91).
+
+Sportsmen are optimistic. They go out to run a new race each time. It's not something negative and therefore hateful. Our spiritual life is a joyful affirmation. It's a sport.
+
+In *The Forge* we're told: "A good sportsman doesn't fight to gain just one victory, and that at the first attempt. He has to build himself up for it, training over a long period of time, calmly and confidently. He keeps trying again and again, and if he doesn't succeed at the first attempt, he keeps on trying with determination until the obstacle is overcome" (J. Escrivá, *The Forge*, Point 169).
+
+A couple of years ago in Dublin there was the World Paralympics \[2018\] and it was a very moving event. Many people in the whole country got involved in helping all of these athletes, many of whom were disabled in some way or another, to compete. They gave them hospitality, gave them accommodations.
+
+Everybody was very encouraged and moved by the spirit of these athletes because these people had overcome great odds just to be able to get to where they were. One journalist mentioned that really, all of these people deserved a gold medal.
+
+That was a little bit like the feeling in the country at the time. It's wonderful to watch wonderful Olympians doing all sorts of wonderful things and winning the silver, the gold, the bronze.
+
+But then you see these people triumphing against all odds with a great sporting spirit. There's an awful lot to be learned from them. When we see or meet people who may be handicapped in some way---mentally, physically---there's always great lessons.
+
+Every person in the world is fighting a hard battle. Everyone has a cross to carry. Often with other people, when we see the way they carry their crosses, we learn a little better to carry our own.
+
+That sort of appreciation can lead us to be humble and to be ready to start again and again, as many times as is necessary. Or to stop our complaining, external or interior complaining about life, about my struggles, about my narrow gate, about how difficult life is, or the crosses that I have, or the things that in my life that could be different.
+
+It leads us to look to the future, keep our eyes on the horizon, without ever being discouraged, particularly with our own shortcomings.
+
+We're told in the *Furrow*: "I'm going to summarize your clinical history: here I fall, and there I get up. The latter is what matters. ---So continue with that interior struggle, even though you go at the pace of the tortoise. Forward!
+
+"You know well, my son, where you can end up, if you don't fight: one depth \[calls\] another and another" (J. Escrivá, *Furrow*, Point 173).
+
+We can ask Our Lord in our prayer to help us to keep entering those narrow gates, not to shy away from them, to see that we learn something in each one of them. This is the pathway of the improvement that God wants from me.
+
+I was a mountain climber once. I was climbing in the Alps, and occasionally the uphill climb became difficult. There was a cold air cutting through our faces. But the landscape was always impressive in its beauty.
+
+One time we arrived at a mountain lodge. We saw a motto on one of the walls that read, "When others quit, we begin." On the mantelpiece there was a phrase written, "My place is at the top."
+
+The life of the Christian should be a life of continuous effort. Our place is at the top, at the top of the mountain, fleeing from mediocrity, struggling for sanctity. And giving that sort of example in our home, with our family, with our friends, particularly when the chips are down and the cross comes along.
+
+These can be great moments of spiritual bonanza: narrow gates. God asks us for difficult things because He wants to give us greater things.
+
+First and foremost, we have to try and fulfill the norms of our *plan of life* "in season and out of season." When there are exams, when there are deadlines, when there are reports to be submitted, how we're travelling and there's a project to be done.
+
+We're not just fair-weather Christians. Our spiritual life comes first before all of these things.
+
+The struggle to practice the virtues is a manifestation of love of God. To go through that narrow gate when it's not so easy, when there might be other pathways that are very attractive and look very rosy.
+
+Our Lord sometimes demands a little. Then He can demand a lot. He wants us to struggle when we don't feel like it.
+
+I often think one of the things that John Paul II could have done---he didn't, but he could have---was to rename those three stations of the Cross where Our Lord falls down.
+
+He falls the first time, and He falls the second time, and He falls the third time. He could have renamed them, that Jesus got up the first time, and He got up the second time, and He got up the third time.
+
+The mirror image of our life: to be always getting up and starting again, showing people around us that that's what has to be done, that's what God is asking of us.
+
+If we struggle to overcome the obstacles, if we make good use of the sacraments and the other means Our Lord offers us, in spite of our imperfections, then an authentic supernatural life will begin to grow in us.
+
+Our soul will begin to love what Christ loves, to reject what He objects to, and we'll have a zeal for holiness.
+
+The soul will learn to live facing God at all moments and circumstances: in our work, in our family, in our rest, in social relations. It will lead us to love the world passionately, to bring it to Christ.
+
+It will help us to have a great *unity of life*. And the soul will easily recollect itself to talk with God, following Christ's example, who would get away to pray on His own (Mark 1:35, Luke 5;16, 6:12-13, Mark 6:46, Matt. 14:23, Matt. 26:36-46).
+
+We're told in *The Way*: "Learn to refer every event to him, and to relate to him in joy, in need, and when undergoing trials, knowing that the Lord sees us, hears us, loves us, and helps us" \[attributed to St. Josemaría\].
+
+If we try to struggle to overcome the obstacles, that will lead us also to be charitable with everyone, because we will see Christ in this person and that person. We see His blood flowing through their veins.
+
+That will help us to practice the virtues of poverty, of cheerfulness, of industriousness, of obedience, of chastity, sharing in all the virtues that Our Lord practiced, so that with St. Paul we can say, "It is now not I that live, but Christ lives in me" (Gal. 2:20), because I try to enter through those narrow gates.
+
+A lady said to me once in another country, "I feel trapped. But I also realize that if I feel trapped, maybe it's because God wants me to feel trapped."
+
+That's our narrow gate, to struggle in that situation, to be supernatural, to approach everything from a supernatural perspective.
+
+Some people in the Olympic Games don't make it, but they don't give up. Maybe they come back and try again another year.
+
+Our failures are often the will of God. God may have wanted us to fail, to experience humiliation, and come to see our own miseries with greater light.
+
+Often God teaches us more things in periods of failure than in periods of success. Our failures show what's going on in our life.
+
+The number of times we fail is not important. What is important is getting up, keeping going.
+
+Every day after our *examination of conscience*, we should try to have some small thing that we try and improve in the following day. St. Gregory the Great said, "It's not enough to want to do things well. We must be ready to accept the consequences, which sometimes are costly, in order to behave as a Christian."
+
+We have to do things right. We have to be honest. Have our hands above the table. Be transparent. Know how to talk clearly about all the things that worry us. It's not just a question of having nice desires. We must be ready to accept the consequences.
+
+We have to learn how to work well, and that means that sometimes people have to correct us. Or they have to show us what we did that was wrong or bad. They have to point it out to us and that can be difficult.
+
+St. Gregory the Great says, "Some want to be humble, but without being despised; to be happy with what they have, but without suffering need; to be chaste, but without mortifying the body; to be patient, but without having to put up with discomforts; to have the virtues, but flee from the effort to obtain them" (*cf*. Gregory the Great, *Moralia, 7,28,34*).
+
+That's where the narrow gate is. Getting up on time. Living the *heroic minute*. Getting out of bed as if it was on fire.
+
+"They seem to like those who want to enter triumphantly into the city, without having fought the battle" (*ibid*.). We all have that temptation or that tendency.
+
+We have to leave this cultivation of Christian virtue to Our Lord. Let Him take care of it.
+
+He will show us those narrow gates that He wants us to walk through. Great fruit will come from that. Sometimes we might have to tell somebody something that costs us our life's blood.
+
+Our Lord will be very happy when He sees us making that effort. It's real virtue that makes a difference to our holiness. Perfection is in the details. We have been formed with the spirit of watching out for details.
+
+And sometimes we've got to fight against our likes and dislikes to fulfill our duty, to control our imagination.
+
+We try to set sail. God makes the wind. We let Him lead us to wherever it is that we want to go. We set the sail. God makes the wind.
+
+He leads us to take the tough pathways, the narrow gate. He shows that the struggles are merely interior ones, not just ourselves, our pride or lack of virtue. He helps us to see that holiness demands struggle. And then when we do all of those things, we find our peace.
+
+We're told in *The Forge*: "Holiness is attained with the help of the Holy Spirit, who comes to dwell in our souls, through grace given us by the sacraments and as a result of constant ascetical struggle" (J. Escrivá, *The Forge*, Point 429). It's constant; it's not just an occasional thing.
+
+"My child, let us not have any false illusions..." we're told in *The Forge*. "You and I---I will never retire of repeating it---will always have to struggle, always, until the end of our lives. So we will come to love peace, and we will spread peace around us, and we will receive an everlasting reward" (*ibid*.).
+
+We can turn to Our Lady, who entered through that narrow gate so many times in her life, putting up with the contradiction and difficulties in Bethlehem, in Nazareth, at the foot of the Cross.
+
+Mary, may you help us and be beside us when that time comes for us, that we may react in the same manner of heroic faith in which you also did.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*MVF*
