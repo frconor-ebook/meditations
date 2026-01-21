@@ -69,7 +69,7 @@ The same Jesus who was sheltered by Our Lady within her virginal womb is as it w
 
 The same Jesus who was scourged, crowned with thorns, and crucified as a victim for the sins of the world remains in the Cimborium as the host offered up for our salvation. Our Lord is truly with us.
 
-The Curé d\'Ars when he was preaching often turned to the tabernacle and said with emotion "He is there."
+The Curé d\'Ars []{.mark}when he was preaching often turned to the tabernacle and said with emotion "He is there."
 
 And St Teresa of Avila heard someone say, "If only I had lived at the time of Jesus if only I had seen Jesus, if only I had talked with Jesus."
 

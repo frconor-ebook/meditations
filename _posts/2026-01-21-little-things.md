@@ -51,7 +51,7 @@ Really what he was saying is: In the attention to detail, in the small things, t
 
 That\'s where our spirit is.
 
-An architect said once that "architecture begins by placing one brick on top of another" (cf. Ludwig Mies van der Rohe).
+An architect said once that "architecture begins by placing one brick on top of another" ([cf]{.mark}. Ludwig Mies van der Rohe).
 
 Very often in our apostolate, St. Josemaría has taught us to begin in that sort of way, by placing one brick in front of another, by making one small step. Sometimes small things can be big things (*cf*. J. Escrivá*, The Way*, Point 821).
 

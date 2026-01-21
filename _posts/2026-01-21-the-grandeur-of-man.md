@@ -75,7 +75,7 @@ Pascal said: "We make truth itself into an idol, for truth apart from charity is
 
 We live in a culture where often we are told that we are so close to the animals. Man is brought down lower to the level of the animals, and often the animals are elevated to the same level as human persons.
 
-But people like Pascal remind us of the grandeur of the human person, the grandeur of man, the grandeur of woman, the grandeur of the family. These are central aspects of the social teaching of the Catholic Church.
+But people like Pascal remind us of the grandeur of the human person, the grandeur of man, the grandeur of woman, the grandeur of the family. These are central aspects of the social teaching of the Catholic Church[.]{.mark}
 
 "His \[grasp of\] mathematics and his ability to understand in detail how things work would prove very helpful to him throughout his life. In the words of one commentator: 'He trained himself in the precision appropriate to mathematics and natural science as such, so as to attain that quite other precision appropriate to the realm of being and to the Christian realm' (Hans Urs von Balthasar, *The Glory of the Lord: A Theological Aesthetics, Volume III*).
 
