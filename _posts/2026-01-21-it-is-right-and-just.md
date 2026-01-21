@@ -73,7 +73,7 @@ In *Friends of God* (Point 167), St. Josemaría says, "if you are really strivin
 
 God\'s justice is greater than ours. Fostering deep gratitude to God frees us from the danger of seeking to judge His way of acting.
 
-Sometimes, when we\'re suddenly faced with a situation we didn\'t expect, we may ask ourselves questions like, 'How can God allow something like this to happen?'
+Sometimes, when we\'re suddenly faced with a situation we didn\'t expect, we may ask ourselves questions [like,]{.mark} 'How can God allow something like this to happen?'
 
 Perhaps we think other people are more blessed by Him, or that He doesn\'t seem to hear our petitions, and we might think, 'How unjust.'
 

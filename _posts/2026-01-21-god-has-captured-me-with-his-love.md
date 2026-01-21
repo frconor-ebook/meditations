@@ -149,7 +149,7 @@ This love of God that we have in our hearts leads us to be sensitive to the need
 
 There was a lady professor who was on the subway in New York on a Sunday morning reading her newspaper, commenting to herself how pleasant it was to be on the subway on a Sunday morning. No rush hour traffic, and it's very peaceful.
 
-At the next station, a lady got on the train with five children, sat in front of her, closed her eyes, [and]{.ul} the five children began to run around the carriage. They were shouting and screaming and roaring.
+At the next station, a lady got on the train with five children, sat in front of her, closed her eyes, [and]{.underline} the five children began to run around the carriage. They were shouting and screaming and roaring.
 
 This lady professor got very irate. They bumped into her knee. They banged against her newspaper.
 
