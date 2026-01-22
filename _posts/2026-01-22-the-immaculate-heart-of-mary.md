@@ -1,0 +1,270 @@
+---
+layout: homily
+title: "The Immaculate Heart of Mary"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"Simeon blessed them, and said to Mary his mother: 'Look, he is destined for the fall and for the rise of many in Israel, destined to be a sign that is opposed; and a sword will pierce your heart too, so that the secret thoughts of many may be laid bare'" (Luke 2:34-35).
+
+Today is the Feast of the Immaculate Heart of Mary. We celebrate and focus on the Heart of Mary the day after focusing on the Sacred Heart of Christ. The Liturgy places them together. as though emphasizing to us the unity between the Heart of Mary and the Heart of Christ.
+
+The pathway to the Heart of Jesus is through the Heart of Mary. Our Lord wanted to show us through Mary and Joseph, the creatures that He loved most, the close relationship between happiness and the Cross.
+
+Even though Our Lady's entire life leads up to Calvary at her Son's side, there's a special moment when her participation in the sufferings of Our Lord is revealed with particular clarity.
+
+Up to that moment, the message had been one of joy. The angels announced "tidings of great joy which will be to all the people" (Luke 2:10). The shepherds came to Bethlehem (Luke 2:15-16). Everything was joy, or much of it anyway.
+
+But then Simeon speaks about the Cross, speaks about the Heart of Mary, and the role that Mary will have in all of this and how her Heart will be broken, as though she could become the patron saint of all broken hearts.
+
+In this Year of St. Joseph \[December 8, 2020 to December 8, 2021\], we remember Joseph also---his heart united to the Heart of Mary.
+
+Moved by the Holy Spirit, a just man, Simeon, comes into the temple (Luke 2:25) and says these special words to Our Lady that help her to understand the meaning of her vocation: "Behold, this child is destined for the fall and for the rise of many in Israel, and for a sign that shall be contradicted" (Luke 2:34).
+
+Jesus is a sign of contradiction, and so we can expect contradictions. Contradictions are not bad. They're a good sign. They're the guarantee of holiness and effectiveness.
+
+Often, they're a sign that God is truly present in what we are doing. Our Lady hears in her heart those words of contradiction" "your own heart a sword shall pierce, that the thoughts of many hearts may be revealed" (Luke 2:35).
+
+We see how the Heart of Mary is brought in to play a central role in the whole mystery of Redemption. Therefore, we can learn, as her children, to have great recourse to the Heart of Mary, the Heart that has been through so much, that understands so much.
+
+These prophetic words of Simeon announce that her life will be intimately associated with the redemptive work of Jesus.
+
+In an Encyclical in 1987 called *Redemptoris Mater,* John Paul II said, "Simeon's words seem like a second Annunciation to Mary for they tell her of the historical circumstances in which the Son is to accomplish his mission, namely in misunderstanding and sorrow. ... They also reveal that she will have to live her obedience of faith in suffering at the Savior's side, and that her motherhood will be mysterious and sorrowful" (John Paul II, Encyclical *Redemptoris Mater*, March 25, 1987).
+
+The Heart of Mary has gone through much. Probably they had already moved into a modest home in Bethlehem when they bring Jesus to the temple.
+
+But Our Lady is not spared that sudden flight into Egypt. She had to gather up all the family's few belongings and undertake that hasty journey to move her Heart to Egypt.
+
+Then she goes through exile in a strange land where she has to begin her family anew. Then when they're back in Nazareth, Our Lady is suddenly disconcerted over the disappearance of her 12-year-old, missing for several days (Luke 2:42-46).
+
+I saw a mother once on a beach who had lost her child for half an hour. That mother was almost out of her mind.
+
+Yet Our Lord allows His parents, both of them, and their hearts, to be broken as they suffer in looking for Him. When they finally find Him in the temple---and Our Lady says to Him, "My son, why have you done this to us? Behold, your father and I have been seeking you in sorrow"---Our Lord gives that amazing answer, "Did you not know that I must be about my father's business?"
+
+We're told, "They did not understand the words that he spoke to them" (Luke 2:48-50).
+
+The hearts of Mary and Joseph go through many mysteries, things they didn't understand, things they'll understand later or understand in heaven.
+
+Likewise, when our heart doesn't understand things, when it feels wounded, hurt, pained, bruised, we can have recourse and find solace in the Heart of Mary, who has been through so many misunderstandings. She's allowed to go through many unsettling trials.
+
+During the public ministry of Our Lord, she hears many false rumors and calumnies all about her Son. Probably she becomes aware of all the various plots of the Jews against Jesus.
+
+Blow after blow, her Heart receives these trials. On the night of the Passion, probably reports arrive, one by one, concerning all the events that are taking place.
+
+She hears the shouts calling for His death the next morning and experiences His abandonment by the disciples. But the Heart of Mary is always united with the Heart of Christ.
+
+She meets her Son on that slope leading up to Calvary. What a meeting that must have been!
+
+On this feast day, we enter into the Heart of Mary and try to get a glimpse of all the things that she experienced, so that we can atone also to that Heart for her pain, for her sorrow.
+
+In the Sequence of the Mass of Our Lady of Sorrows, in the *Stabat Mater,* we're told:
+
+O sweet Mother, font of love,\
+Touch my spirit from above,\
+Make my heart with yours accord.\
+Make me feel as you have felt,\
+Make my soul to glow and melt,\
+With the love of Christ, my Lord.
+
+The Heart of Mary is made to participate in that supreme sacrifice that Our Lord made. "His heart was pierced by a lance" (John 19:34). Spiritually Our Lady felt all of that.
+
+We find then that she becomes the Co-Redemptrix on the Cross through her unity to that suffering.
+
+Our Lady invites us to offer our many little difficulties, involuntary mortifications, with that same spirit that she had when her Heart was pierced by a sword.
+
+When we think of souls, we offer them for the fruits of Our Lord's sufferings. She who is full of grace, the purest handmaid of the Lord (Luke 1:38), offers up all her actions in intimate union with Our Lord. Their value is virtually without limit.
+
+We can never fully understand the great love, immense love, that Our Lady had for her Son, which is the cause of her great suffering.
+
+We're told by the Book of Lamentations, "All you who pass by the way, look and see, was there ever a sorrow to compare with my sorrow?" (Lam 1:12).
+
+We look into the Heart of Mary, and we find many things there. Her love for Our Lord allows her to endure His sufferings as if they were her own.
+
+One spiritual writer says, "When the soldier strikes the body of Christ, it is as if Mary is subjected to every blow. When they pierce his head with thorns, Our Lady feels the sharp penetration. When the same men offer him gall and vinegar, the Blessed Mother takes all the bitterness. As they spread his body on the cross, Mary is torn from within" (Adolphe Tanquerey, *The Divinization of Suffering*).
+
+St. Alphonsus Liguori says the more a person loves, the more he or she identifies with the pain of the beloved. "A brother's death is more upsetting than a pet's. A son's dying is more trying than a friend's. To get a grasp of Mary's grief at the crucifixion, we need somehow to appreciate the great extent of her love for her Son" (Alphonsus Liguori, *The Glories of Mary*).
+
+Mary also is sensitive to all the things that the Heart of Christ is sensitive to: neglect, sin. We can atone to Our Lady for all the ways in which she and her Son are insulted or neglected, particularly in our own personal life. We can try and have a greater sensitivity to overcome many occasions of sin that there may be in our life, or to take closer order on our own desire for holiness.
+
+It's much more serious than a mere transgression. The Virgin realized this more than any other creature.
+
+Because of her eminent holiness, her Heart is all the more sensitive. On account of her own awareness of the enormous evil of sin, Mary was plunged in bitter grief on beholding its horrible consequences for her Son.
+
+The same spiritual writer says, "Every one of us contributes in some way toward increasing the suffering of Christ. For this reason, we should rejoice to be able to meditate slowly on sin's impact on the loving Hearts of Jesus and Mary. We will then accept our share in their suffering and make reparation gladly" (Adolphe Tanqueray, *Op. cit.*).
+
+A lady stood up at a get-together with St. Josemaría and told how every day when she goes out to Mass, she tells her four-year-old daughter, "I'm going to receive Jesus."
+
+She says this every day. And then, she said, one day her daughter said, "And will you receive Mary also?"
+
+This mother said to St. Josemaría, "What should I tell my daughter?" St. Josemaría paused for a moment---it wasn't one of those usual questions that he was often asked.
+
+Then he said, "In a certain sense yes, because the body and the blood of Jesus before were the body and blood of Mary. The blood of Christ is the blood of Mary."
+
+You won't find that in any theological textbook but it's rather a nice consideration.
+
+Our Lady is the Lady of Fair Weeping. Her tears are beautiful. These are sorrows of one who is all beautiful, fully free from the deformity of sin.
+
+The sinless, Spirit-filled Heart of Mary is beautifully centered on the will of the Father. She gives, she offers.
+
+She doesn't merely let go. She doesn't passively assist or patiently assist at the sacrifice of her Son. She's very active there.
+
+Through the Heart of Mary, we see her priestly soul---a priestly soul which all baptized people, men, and women, have which means to have the same sentiments as Christ on the Cross. The Heart of Mary had the same sentiments as the Heart of Christ.
+
+That priestly soul means that in a certain sense, we're all priests. We share in what's called the common priesthood of the faithful, which is different from the ministerial priesthood.
+
+We're all called to be holy, to sanctify ourselves. We're marked with the seal of Baptism, and that is that calling to holiness.
+
+We're all called to lead priestly lives, as Our Lady did beside the Cross, to practice the priestly virtues of generosity, obedience, sacrifice, of service.
+
+These are the things we learn from the Heart of Mary. She places her Heart completely at the disposition of the plans of God. "Behold the handmaid of the Lord; be it done unto me according to your word" (Luke 1:38).
+
+Our Lady doesn't just say these words at the moment of the Annunciation. She lives them out in every moment, particularly at the foot of the Cross. She shows those words with her deeds. She walks the talk.
+
+We could ask her that we also might place our hearts at the service of Christ. Learn how to be happy, serving, obeying, sacrificing, wherever God has placed us---in this marriage, in this family, in this job, in this home, with these particular financial or health difficulties.
+
+This is the will of God for me. This is where I have to place my heart, like Our Lady did, at the service of souls. We have to live out our priesthood like Mary lived out her priesthood.
+
+The Church has said that women can never be ordained priests, because that was not the will of God.
+
+Mother Teresa was asked one time what she thought of women priests. She said, "I often think that the person who was most cut out to be a priest was Our Lady, because she was the most dignified creature that was ever created."
+
+She had all the virtues. She was the model of all the virtues. She was immaculately conceived. "There was no one in the whole of human history who was as well cut out to be a priest than Our Lady was. But God did not want her to be a priest. Her role was to be the handmaid of the Lord" (St. Teresa of Calcutta, *Interview*, August 16, 1990).
+
+The following day in the newspaper, there was an announcement that said, "Mother Teresa says that women make better priests than men."
+
+She said, "I had to call the newspaper and tell them that wasn't exactly what I said."
+
+Somebody else said, "Women who want to be priests? It's as misguided as a man who wants to be pregnant."
+
+It means we don't understand the Heart of Mary.
+
+Mary, most sweet Heart of Mary, help us to understand the love in your Heart and to enter into that Heart, which is a heart of a mother.
+
+"Woman, behold your child" (John 19:26). Look at your child and never stop looking at your child. It's in that heart of a mother where we can always find joy, consolation, peace, strength.
+
+That heart of a mother knows what it means to lose a child, to be lost for three days; and to lose a child definitively also.
+
+Our Lady has been through everything. There's nothing that we can experience that she hasn't experienced before.
+
+We can say to her, show yourself to be a mother in this situation. Show me the way forward. Show me where you want me to be a little better in my spiritual life.
+
+Show me where you want me to think more of souls, of others, of where you want me to give myself or to place my heart on the ground so that others can walk easier.
+
+Show me how to function in those moments when I don't understand, just like you didn't understand when you found Our Lord after three days of looking for Him.
+
+We're also told in Scripture how Our Lady "kept all these things carefully in her heart" (Luke 2:19,51).
+
+How many things must have been in the Heart of Mary? There's a treasure there in the Heart of Mary.
+
+There must have been an awful lot of prayer, an awful lot of wonder, a great amount of silence, an acceptance of whatever has to be done, "be it done unto me," every humility.
+
+"He has looked upon the humility of his handmaid; henceforth all nations will call me blessed" (Luke 1:48). The Heart of Mary was profoundly humble.
+
+In our spiritual life, we are called to have a heart-to-heart relationship with Our Lady.
+
+"Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to your protection, implored your help, or sought your intercession was left unaided" (St. Bernard, *The Memorare*).
+
+"Never." If we have a heart-to-heart relationship with Our Lady, we'll be able to call to her in all sorts of moments of the day.
+
+A few men have recently told me how they pray the three Hail Marys at night, and now they pray them with their small children, two-year-olds, three-year-olds. If ever they forget, the little child points to the image of Our Lady and says, Mama, Mama Mary.
+
+From a very early age, this little child is learning to turn to Our Lady, to find her as Our Mother.
+
+In our family life, we could try to do something similar. Teach the members of our family to turn to Our Lady, to look at her images, venerate her on special feast days like today, to do something special in our family so that days like today become days of special joy---Marian joy.
+
+Maybe, put our heart into the things that are really important, the spiritual things. And even if some children are a bit older or they don't understand, never mind, the message will be there anyway. But we focus on our heart-to-heart relationship.
+
+We could also ask Our Lady to purify our heart, to guard our heart, to keep it from anything impure, unchaste, so that we stay far away from anything that might in any way sully our heart.
+
+We could ask Her that we might do everything we can, whatever is necessary, anything, rather than fall into mortal sin.
+
+Mother, protect us from all these realities. Help us to struggle, to fight.
+
+There was a little kid once who went out to fish a little bit at the end of a jetty, and his legs were dangling in the water, fishing away. The mother was looking at him from her house.
+
+But then a big crocodile came along and took a big bite at his leg. The kid was hanging on for dear life, and the mother heard him screaming and she ran out as fast as she could, and she was able to grab a hold of the arm.
+
+There was a big fight then between the crocodile and the mother; and eventually, the mother won, but the crocodile left a big gash in the child's leg.
+
+Eventually, he ended up in the hospital, and some reporter came to interview the child about his experiences and wanted to see the wound.
+
+The child pulled back the bedclothes and showed the big wound on his leg, where the crocodile had bit into his leg.
+
+The journalist was very impressed, and said, "Wow, that was a terrible thing the crocodile did to you, and the marks he left on your leg."
+
+The child very proudly rolled up his sleeve and said, "Oh, that's nothing, you should see the marks of my mother's fingernails on my arm as she was holding on to me. She won the battle---she dug in much more than the crocodile."
+
+It was his mother's fast grip on his arm that saved his life.
+
+We know that in moments of temptation and difficulty and struggle, Our Lady would be holding on to us for dear life, keeping us from all evil, helping us to stay far away from any sin.
+
+We're told in the *Furrow*, "Invoke the Heart of Holy Mary, with the purpose and determination of uniting yourself to her sorrow, in reparation for your sins and the sins of men of all times. And pray to her for every soul, that her sorrow may increase in us our aversion to sin, and that we may be able to love the physical or moral contradictions of each day as a means of expiation" (Josemaría Escrivá, *Furrow*, Point 258).
+
+In the *Stabat Mater,* we're told:
+
+Oh, how sad and sore distressed,\
+Was that mother highly blest\
+Of the sole begotten One!\
+Christ above in torment hangs,\
+She beneath beholds the pangs\
+Of her dying, glorious Son.
+
+Mother help us to have that same priestly soul that you had, in obedience, in generosity, in sacrifice, in service.
+
+St. Albert said she joined herself to the "Father of mercies" (2 Cor. 1:3) in His greatest work of mercy, and she shared in the passion of her Son, and thus became the helper of our Redemption and the Mother of our spiritual regeneration.
+
+We could ask Our Lady to help us to love Our Lord as she loved Him, to love the Body and Blood of Christ as she loved that Body and Blood.
+
+That *Stabat Mater* says:
+
+*Fac ut ardeat cor meum*\
+*in amando Christum Deum.*\
+Make my soul burn in loving Christ, Our Lord.
+
+"From Jesus on the Cross," says John Paul II, "she has the specific mission, only and always, to love us in order to save us. Mary consoles us above all by pointing out to us Christ Crucified and paradise. O Consoling Mother, comfort us all, make us understand that the secret of happiness lies in goodness and in always faithfully following your Son, Jesus" (John Paul II, *Address*, April 13, 1980).
+
+The Heart of Mary is always there to show us the Heart of Jesus. She always, as a mother, understands her children.
+
+The heart of a mother goes with her child from the day that the child is born. No matter where the child is going or no matter how far away the child may be, or what difficulty that child may be in, the heart of the mother is with that child.
+
+The heart of the mother consoles them in their troubles. Mary is our spiritual Mother.
+
+On Mother's Day recently somebody sent me a WhatsApp flyer that said, "Life doesn't come with a manual; it comes with a mother." You could say the same thing about our spiritual life: it comes with a spiritual Mother who is there for us in all moments of our life.
+
+When our responsibilities may become too heavy for our limited strength, we can turn to Mary and implore her help and relief. She'll bring peace and serenity to our hearts.
+
+"She continues to be the loving consoler in the many physical and moral sufferings that afflict and torment humanity. She knows our sorrows well, because she too suffered from the time of Bethlehem until Calvary: 'Her own soul a sword will pierce' (Luke 2:35)" (*Ibid.*).
+
+Among the many things that she kept carefully in her Heart, that must have been very prominent.
+
+Our Lady beside the Cross is silent. In general, in Scripture, Our Lady says very few things. The troubles, the pains of our hearts don't find too much exterior expression. She unites them silently to the Cross of her Son. She finds her peace and her serenity there.
+
+Mary, help me also to learn from your silence, to make my presence beside the Cross silent also, to accept the will of God in the way that it comes.
+
+Cardinal Ratzinger said, "What a powerful prayer that silent compassion was. Jesus, seeing His Mother, said, 'Behold your child.' Jesus' testament is a reply to that look from His Mother."
+
+She looks silently at her son, her Heart poured out in this particular way.
+
+Our Lady's life and her time beside the Cross were a bit of a martyrdom. But she also had moments of joy, moments of contemplation.
+
+The joy in the Heart of Mary, as she saw her Son grow, must have been enormous. The joy of Our Lady, when she heard the shepherds confirming about her doing her Father's will, about her vocation; the joy on so many other occasions when she sees the rightful acclaim of Our Lord or when the miracles are done in front of many people.
+
+We don't have to yield to sorrowfulness. Sorrowfulness is not Christianity, because the Heart of Mary was not always sorrowful. There were also joyful moments.
+
+There must have been a great joy at the same time, seeing the whole reality of Redemption completed, when Our Lord said, "It is accomplished" (John 19:30).
+
+Mary, help us to see the rule of your Heart and to help your Heart to continue to beat in the Church in all the places where you are venerated, and to help your Heart to shine in our families and in our society---that tenderness, that sweetness, that care that we try to give to every soul, human and spiritual, that we encounter. "Hail, our life, our sweetness, and our hope" (*Hail, Holy Queen*).
+
+Mary, may we always find the joy and the serenity and the peace in your Heart that Our Lord wants us to find there.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*EW*
