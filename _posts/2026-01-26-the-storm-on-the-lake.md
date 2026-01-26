@@ -23,7 +23,7 @@ He works miracles without fuss or ostentation, avoiding publicity insofar as He 
 
 He teaches that the Kingdom of God does not come with dramatic display. By the parables of the mustard seed (Matt. 13:31-32) and the leaven hidden in the dough (Matt. 13:33). He makes clear to everyone the mysterious power of His words.
 
-We see Him silently listening to pleas for help, to which He later accedes. The silence of Jesus during His trial before Herod (Luke 23:8-9), and again before Pilate (Matt. 27:11-14), is filled with a sublime grandeur
+We see Him silently listening to pleas for help, to which He later accedes. The silence of Jesus during His trial before Herod (Luke 23:8-9), and again before Pilate (Matt. 27:11-14), is filled with a sublime grandeur.
 
 We see Him standing in front of a clamorous, excited crowd who bring in false witnesses to try to catch Him out in His speech. We find particularly impressive God's silence as He stands in the midst of the uproar of the milling throng who have been aroused to fury by human passion (Luke 23:1-25).
 
@@ -37,7 +37,7 @@ God always listens to those who make the decision to follow Him, even though som
 
 He's always attentive to and considerate of the weaknesses of His creatures, but it is so that He can forgive them and help them to rise up higher. If at times He keeps silent it is so that our faith, our hope, and our love may grow more mature.
 
-In this scene of the Gospel (Matt. 8:23-27), we can contemplate Jesus wearied after a day of intense hard work preaching. He got into a boat with His disciples in order to cross to the other side of the lake.
+In the scene of the Gospel (Matt. 8:23-27), we can contemplate Jesus wearied after a day of intense hard work preaching. He got into a boat with His disciples in order to cross to the other side of the lake.
 
 When they had been on the water for some time, a great storm arose, of such violence that the mounting waves threatened to swamp the boat.
 
@@ -103,9 +103,9 @@ We could say to Our Lord in our prayer: 'Lord, increase my faith in you, especia
 
 Mother Angelica of EWTN used to say that "if God sends us tribulations, it's because he wants us to tribulate" (Mother Angelica, *Answers, Not Promises*).
 
-But those can be moments of great virtue, of great supernatural outlook, great trust, and faith in God, times of great spiritual growth, where we can be more mindful of the fact that 'I have a guardian angel, I can turn to my Mother, who's always looking for me. I can turn to St. Michael.'
+But those can be moments of great virtue, of great supernatural outlook, great trust, and faith in God, times of great spiritual growth, where we can be more mindful of the fact that 'I have a guardian angel, I can turn to my Mother, who's always looking for me. I can turn to St. Michael.' We have a whole pile of spiritual weapons in our armory.
 
-We have a whole pile of spiritual weapons in our armory. Our Lord seems to say to them that He would never abandon them to their own devices. We're carried in the palm of a hand of a God who loves us (*cf*. Isa. 49:16).
+Our Lord seems to say to them that He would never abandon them to their own devices. We're carried in the palm of a hand of a God who loves us (*cf*. Isa. 49:16).
 
 They understood all this very well, when soon afterwards, at the beginning of their apostolic mission, when they had to "launch out into the deep" (Luke 5:4), they saw themselves beset with persecution and they felt the bitterness of being misunderstood by the pagan society in whose midst they carried out their activity.
 
@@ -115,9 +115,7 @@ Like the apostles, we too have to be ready to "launch out into the deep," to tak
 
 Our Lord does the same with us now as He did with His first followers. All the little efforts we have to make to bring forward apostolic projects, and things don't seem to work out---but very often, it's just that God is acting behind the scenes.
 
-Our Lord's being asleep while His disciples were struggling, with every ounce of energy and nerve that they had, and felt themselves to be overwhelmed by the storms.
-
-This is often compared to the silence that God may maintain as we work, and as we go about our business. It may frequently seem that God is paying no heed.
+Our Lord's being asleep while His disciples were struggling, with every ounce of energy and nerve that they had, and felt themselves to be overwhelmed by the storms---this has often been compared to the silence that God may maintain as we work, and as we go about our business. It may frequently seem that God is paying no heed.
 
 Martha turned to Our Lord and said, "Lord, does it not concern you that my sister has left me to serve alone?" (Luke 10:40). It looked as though God was paying no heed to her busyness and all the things she had to do, and to her activism.
 
@@ -157,7 +155,7 @@ On another occasion, He says: "I tell you, my friends, do not fear" (Luke 12:4).
 
 From the very first moment of His entry into the world, He showed what His presence among men would mean. The message of the Incarnation precisely begins with those words: "Do not be afraid, Mary, for you have found grace with God" (Luke 1:30).
 
-And likewise, to St. Joseph: "Do not be afraid, Joseph. son of David, do not fear" (Matt. 1:20).
+And likewise, to St. Joseph: "Do not be afraid, Joseph, son of David, do not fear" (Matt. 1:20).
 
 To the shepherds, they were told by the angel: "Do not be afraid, I bring you good tidings of great joy, which shall be to all the people" (Luke 2:10).
 
@@ -193,13 +191,13 @@ It could be that Our Lord is waiting for us to pray with greater intensity and r
 
 In every tribulation, in every difficulty, in every temptation, we must turn to Our Lord immediately.
 
-Cardinal Newman says, "Seek his face whoever dwells all the time in the real and bodily presence in his Church. Do at least as much as the disciples did. They had but little faith; they feared; they had not any great confidence and peace, but at least they did not keep away from Christ. Do not keep from him," he says, "but when you are in trouble, come to him every single day, asking him earnestly and perseveringly for those favors which he alone can give.
+Cardinal Newman said, "Seek his face whoever dwells all the time in the real and bodily presence in his Church. Do at least as much as the disciples did. They had but little faith; they feared; they had not any great confidence and peace, but at least they did not keep away from Christ. Do not keep from him," he says, "but when you are in trouble, come to him every single day, asking him earnestly and perseveringly for those favors which he alone can give.
 
-"And as he on the occasion spoken of in the Gospel blamed indeed the disciples, but did for them what they asked, so you should trust in his great mercy. Though he discerns many infirmities in you, which ought not to be there, yet he will deign to rebuke the winds and the sea and will say: 'Peace, be still'---and there will be a great calm" (John Henry Newman, *Faith and Prejudice and Other Sermons*).
+"And as he on the occasion spoken of in the Gospel blamed indeed the disciples, but did for them what they asked, so you should trust in his great mercy. Though he discerns many infirmities in you, which ought not to be there, yet he will deign to rebuke the winds and the sea, and will say: 'Peace, be still'---and there will be a great calm" (John Henry Newman, *Faith and Prejudice and Other Sermons*).
 
 God wants our souls to be filled with serenity, even in the midst of tribulation. With this new peace that Our Lord brings to our hearts we will set off confidently to fight once again in those battles of peace---the external battles and those of the soul.
 
-We will joyfully accept those annoying things that serve to purify us, and we will become more united to Him. We should not forget either, in such circumstances, that God has placed an angel beside us to look after us, to help us, and to carry our prayers the more easily into His presence.
+We will joyfully accept those annoying things that actually serve to purify us, and we will become more united to Him. We should not forget either, in such circumstances, that God has placed an angel beside us to look after us, to help us, and to carry our prayers the more easily into His presence.
 
 We're told in *The Forge*, "Whenever you are in need of anything, or are facing difficulties, whether great or small, invoke your Guardian Angel, asking him to sort the matter out with Jesus, or to carry out the particular service you may require" (J. Escrivá, *The Forge*, Point 931).
 
