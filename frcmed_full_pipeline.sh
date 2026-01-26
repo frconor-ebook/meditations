@@ -535,15 +535,9 @@ deploy_to_github() {
         fi
     }
 
-    # Pull any remote changes first (with rebase to avoid merge commits)
-    log "INFO" "Pulling latest changes from GitHub..."
-    git pull --rebase origin main || {
-        log "WARNING" "Pull failed, attempting to continue..."
-    }
-
-    # Push to GitHub
+    # Force push to GitHub (safe for auto-generated content where local is always the source of truth)
     log "INFO" "Pushing to GitHub..."
-    git push origin main || error_message "Git push failed."
+    git push --force origin main || error_message "Git push failed."
 
     log "SUCCESS" "Site has been deployed to GitHub Pages."
 }
