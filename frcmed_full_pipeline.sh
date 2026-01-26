@@ -535,6 +535,12 @@ deploy_to_github() {
         fi
     }
 
+    # Pull any remote changes first (with rebase to avoid merge commits)
+    log "INFO" "Pulling latest changes from GitHub..."
+    git pull --rebase origin main || {
+        log "WARNING" "Pull failed, attempting to continue..."
+    }
+
     # Push to GitHub
     log "INFO" "Pushing to GitHub..."
     git push origin main || error_message "Git push failed."
