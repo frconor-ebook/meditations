@@ -1,0 +1,186 @@
+---
+layout: homily
+title: "The Prodigal Son (2025 Edition)"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+We are told in the Psalms, **"**Have mercy on me, God, in your kindness. In your compassion blot out my offense. O wash me more and more from my guilt and cleanse me from my sin. ... A pure heart create for me, O God, put a steadfast spirit within me. ... A humbled, contrite heart you will not spurn" (Psalm 51:3-4,12,19).
+
+The limitless mercy of God is often placed before our attention in the pages of Scripture. Our God is a God who forgives and who takes delight in the conversion of a single sinner.
+
+In the Old Testament, we see how Moses interceded with God on behalf of the Chosen People (Ex. 32:7-11;13-14). They had strayed from the Covenant even while Moses was conversing with God on top of Mount Sinai.
+
+Moses does not attempt to excuse the people's sin. He relies instead on the ancient promises of God and His mercy.
+
+Many centuries later, St. Paul understood his personal experience in a similar light. He wrote to Timothy: "This saying is true and worthy of acceptance, that Christ Jesus came into the world to save sinners. And I am the foremost of sinners; but I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience" (1 Tim. 1: 15-16).
+
+We all share the same experience. God never tires of forgiving us, of helping us to come closer to Him.
+
+St. Luke frequently relates Christ's parables about divine compassion. God is overjoyed at the recovery of a single sinner.
+
+The central figure in these parables is God Himself. He does everything He can to recover those of His children who have succumbed to temptation.
+
+He is the Good Shepherd who goes out in search of the lost sheep. Once He has found it, He brings it home on His shoulders since it is trembling with exhaustion, worn out as a result of its disobedience (Luke 15:3-7).
+
+God is represented as the woman who, having lost a drachma, lights a lamp and sweeps the house in a careful search for it (Luke 15:4-10).
+
+God is also seen as the loving father who goes out every day to await the return of his dissolute son. He strains his eyes to see if the newest figure on the horizon is his younger son (Luke 15:11-32).
+
+Clement of Alexandria has written: "God's great love for humanity is similar to the care shown by the mother-bird for the chick that has fallen from the nest. If a serpent," we are told in Deuteronomy, "should threaten to devour the little creature, she hovers over it, spreading her wings to protect it (*cf*. Deut. 32:11). This is how God paternally seeks out his fallen creature, curing him from his lapse, warding off the savage beast that would attack him, and recovering his own. God beckons the soul to fly once again and return to the nest" (Clement of Alexandria, *Protrepticus*).
+
+"Just so, I tell you, there is joy before the angels of God over one sinner who repents" (Luke 15:7).
+
+Given the prospect of such heavenly delight, how could we not fail to make the most of Confession? Should we not do our utmost to bring our friends to this sacrament of mercy?
+
+There they will recover their inner peace, their joy, their transcendent dignity. The incredible mercy of God should be our greatest motivation for repentance, even when we have wandered off at a great distance. Before we manage to stretch out our hand for help, God's own outstretched hand is already extended to us.
+
+"Sin," said John Paul II, "so clearly described in the behavior of the prodigal son, consists in rebellion against God, or at least in indifference or forgetfulness of him and of his love" (John Paul II, *Homil*y, September 17, 1989).
+
+This reckless desire to live apart from God is symbolized by the escape of the prodigal son to a "distant country."
+
+St. John Paul says, "This 'flight from God' causes the person to be in a state of deep confusion about his own identity, as well as a bitter experience of impoverishment and desperation.
+
+"The prodigal son, the parable tells us, after all this, began to find himself in dire need. He hired himself out as a servant---he who was born in freedom---to one of the local citizens" (*ibid*.).
+
+St. Augustine comments on how terrible it is to be far from God. He says, "When will one find goodness without Christ? When will a person find evil with him?" (Augustine, *Commentary on St. John's Gospel*).
+
+The parable of the prodigal son is an invitation for us to meditate upon God's great love for us.
+
+When the younger son at long last makes the decision to return to his home as a laborer, his father runs out to meet him on the road. The father showers on his humble son many tokens of love.
+
+We are told, "But while he was yet at a distance, his father saw him and had compassion, and ran and embraced him and kissed him."
+
+Each day the father was scouring the horizon to see if, maybe, that would be the day his son might come back. And when he comes, the father wastes no time in welcoming that son back as truly his son. We are told, "He covered him with kisses" (Luke 15:20).
+
+St. Josemaria says, "Can you put it more humanly than that? Can you describe more graphically the paternal love of God for men?
+
+"When God runs towards us, we cannot keep silent, but with St. Paul we exclaim: *Abba, Pater*: 'Father, my Father!', for though he is the creator of the universe, he doesn't mind our not using high-sounding titles, nor worry about our not acknowledging his greatness. He wants us to call him Father; he wants us to savor that word, our souls filling with joy" (Josemaría Escrivá, *Christ Is Passing B*y, Point 64).
+
+Father, my Father, we have called upon you so many times, and you have filled us with your peace and consolation.
+
+Up until this moment in the story the father has not said a word. Now he is filled with joy. He does not lay conditions on his son. He has no wish to dwell upon the past. He is already thinking of the future. He wants to restore his son's lost dignity right away.
+
+This whole story could be entitled "Dignity Restored." The dignity of every human person is so important before God.
+
+That is why he does not even allow the son to finish his apology. He says, "Bring quickly the best robe and put it on him; and put a ring on his finger and shoes on his feet; and bring the fatted calf and kill it, and let us eat and make merry; for this my son was dead, and is alive again; he was lost, and is found" (Luke 15:22-24).
+
+The best robe would make his son the guest of honor. The ring would symbolize the restoration of a loved and respected son's dignity. The shoes would show him to be a freeman (*cf*. Augustine, *Sermon 11,7*).
+
+"This love," St. John Paul says, "is able to reach down to every prodigal son, to every human misery, and above all to every form of moral misery, to sin. When this happens, the person who is the object of mercy does not feel humiliated, but rather found again and 'restored to value'" (John Paul II, Encyclical, *Dives in misericordia*, Point 6, November 30, 1980).
+
+In the sacrament of Confession, Our Lord acts through the priest to restore us to grace and to the dignity of sons of God. Christ instituted this sacrament so that we might return over and over again to the Father's house. Our Lord fills us with His grace and, if our repentance is genuine and sincere, places us even higher in His favor than we have previously been.
+
+In *Friends of God*, St. Josemaria says, "Our Father God, when we come to him repentant, draws, from our wretchedness, treasure; from our weakness, strength.
+
+"What then will he prepare for us if we do not forsake him, if we go to him daily, if we talk lovingly to him and confirm our love with deeds, if we go to him for everything, trusting in his almighty power and mercy? If the return of a son who had betrayed him is enough for him to prepare a banquet, what will he have in store for us, who have tried to remain always at his side? (J. Escrivá, *Friends of God*, Point 309).
+
+Then we're told that "they began to make merry" (Luke 15:24b). With this reconciliation of father and son, it would seem that the parable is ended. Yet at this moment, Our Lord chooses to introduce a new character into the story, which is the elder son.
+
+"Now the elder son was in the field; and as he came and drew near to the house, he heard music and dancing. And he called one of the servants and asked what this meant.
+
+"The servant said to him: 'Your brother has come, and your father has killed the fatted calf because he has received him safe and sound.'" His brother had returned home! But we're told, "He was angry and refused to go in" (Luke 15:25-28).
+
+St. Augustine comments, "Are you not moved by the celebration in the father's house? The banquet with the fatted calf, has this not given you pause? No one will exclude you from the banquet. All is for naught, however. The elder son becomes furious and will not go in" (Augustine, *Sermon 11, 10*).
+
+In his fit of pique, he reveals his deepest motivation. "Lo, these many years," he says, "I have served you, and I never disobeyed your command; yet you never gave me a kid, that I might make merry with my friends." Ultimately, all he wants is a goat!
+
+"But when this son of yours came, who has devoured your living with harlots, you killed for him the fatted calf" (Luke 15:29-30).
+
+The father is God. He always has His arms outstretched, being full of mercy. The younger son is the image of the sinner who converts to God.
+
+And the elder son? He is the worker who has labored in the fields, but without joy. He has served because he had to serve. Over the course of time, his heart has grown cold. His sense of charity has evaporated.
+
+His brother has become what he calls "this son of yours," not "my brother." What a striking contrast there is between the magnanimity of the father and the meanness of the elder son. Serving God and enjoying his friendship should be a continual feast.
+
+The Second Vatican Council says, "To serve is to reign" (Vatican II, *Lumen gentium*, Point 36).
+
+The elder son represents those who forget that serving God is a tremendous honor. In the act of service is to be found a good measure of the compensation.
+
+"'Son, you are always with me, and all that is mine is yours' (Luke 15:31). Therefore, all honor and glory are ours if we are really of God," says St. Augustine (*Sermon 11, 13*). God Himself will give us of His riches. What more can we ask for?
+
+St. Paul says, "Each one must do as he has made up his mind, not reluctantly or under compulsion, for God loves a cheerful giver" (2 Cor. 9: 7). There are always many reasons for us to celebrate if we truly live in the presence of God. We have a special opportunity to be magnanimous in our dealings with those closest to us.
+
+St. Thérèse of Lisieux says, "How sweet a joy it is to think that God is just; that, in other words, he makes allowances for our weaknesses and understands perfectly the frailty of our humanity. So what are we to be afraid of? If God, who is perfectly just, shows such mercy in forgiving the prodigal son, must he not also be just to me, who am always with him?" (Thérèse of Lisieux, *The Story of a Soul*).
+
+Nelson Mandela spent twenty-seven years confined in a prison cell on Robben Island for fighting apartheid and racial discrimination in South Africa. We have all been tempted time and again to react negatively to the wrongs and injustices inflicted upon us by others.
+
+Mandela was released in 1990. Soon after his release, he began advocating for reconciliation and political dialogue with the opposition.
+
+Who on this planet has not been cut off in traffic or discriminated against in one way or another? Who hasn't dealt with a rude person or an annoying personality?
+
+Mandela received the Nobel Peace Prize in 1993 and became the first black president of South Africa. In an act of goodwill, he invited the guards of his prison to the inauguration ceremony on May 10^th^ 1994.
+
+And so, stories of mercy and forgiveness are always impressive. The parable of the prodigal son, which could also be called the parable of the loving father, is one of the most widely read and meditated texts in Scripture. It has left its mark on popular culture and art. Rembrandt has a painting of that meeting of the prodigal son with the loving father.
+
+Usually, most attention is given to the figure of the younger or the prodigal son. Much less attention is paid to the older brother.
+
+The figure of the father is routinely the object of least consideration, and yet the father is at the very heart of the parable. He is there at the beginning, and he is there at the end. The word father is used eleven times in the parable.
+
+The emotional excitement of the story is not centered so much on the conversion of the son as on the joy of the father.
+
+The first three verses of the chapter tell us who were listening to the parable. On the one hand, there were tax collectors and fishermen. On the other, there were Pharisees and doctors of the Law.
+
+The first group, we're told, comes closer to listen to Jesus (Luke 15:1). The second group, already present, is looking for an argument with which to confront Jesus with his scandalous way of thinking and behaving, which goes against their way of understanding the world and life.
+
+The first group, the fishermen and the tax collectors, are different. They want to hear Jesus. They want to be converted. They're sick of their own sin.
+
+To each of these groups, the Father shows His loving mercy since both groups need to be converted, whether they realize it or not.
+
+The younger son in the parable, you could say, stands for the tax collectors and fishermen; the older son for the Pharisees and the doctors of the law.
+
+Those in the first group realize that as sinners, they are far away from the Father. The others believe themselves to be close to God and that they comply with the letter of the Law. In reality, they are far away from Him.
+
+All of humanity fits into these two groups. Because all of humanity, in various ways, is a prisoner to sin and in need of the mercy and the glory of God.
+
+The father in the parable is none other than God the Father, rich in mercy, who makes His mercy visible in the world through the person of His Son, Jesus Christ.
+
+One could say that a father had two sons in order to underline the fact that neither of the two was worthy of such a father, in order to show us how incomprehensible is his love.
+
+The father's behavior is not in line with human justice, but with truth and love. The most profound truth is that God is Father and that we are His children. All else is secondary.
+
+The father's love is so generous that he prefers sons who are loving to loyal servants; free sons to obedient slaves.
+
+When the younger son asks for his inheritance, the father, despite his pain, does not hesitate to grant it to him, nor does he prevent his son from leaving. The father's love is so great that he never destroys his son's freedom, even when his son abuses it.
+
+From a purely human point of view, the father could have reasoned, "He has no idea what he is doing. I will delay things and maybe he will think it over. Or, it's a decision made in the heat of the moment, he will regret it later. We will just wait a bit and see."
+
+But the father in the parable goes beyond these considerations, because he wants to save something very precious: the love of freedom and the freedom to love.
+
+The father wants sons who are free, who love him freely without any shadow of fear. He wants them to love freedom because in doing so, they realize their dignity as sons.
+
+He does not want to be treated as a boss by workers who respect him. He wants to be treated as a father by sons who really love him.
+
+The word "father" appears in the parable for the first time on the lips of the younger son when he asks for his share of the inheritance.
+
+It is interesting to note that the older son does not even ask for his share. He feels that he deserves it simply as a matter of justice.
+
+The father who loves the freedom of his sons also respects justice and complies with the younger son's request. It is the justice of a loving father who knows that justice is a necessary, though immature, element of true love.
+
+After a few days, the younger son goes away to the distant land and wastes his inheritance, living a dissolute life.
+
+The contrast between the loving father and the dissolute son could not be greater. The father never stopped behaving like a father. The son, on the other hand, once he is away from his father's house, behaves in a way that is unworthy of such a father.
+
+The freedom treated by the father with such respect has gotten off to a rather unsavory start. It has been manipulated and denigrated.
+
+Mercy is a constant in God's attitude towards mankind. We are told in the Old Testament: "Show us, O Lord, your mercy, and grant us your salvation" (Ps. 85:7).
+
+A condition for obtaining compassion is that we have a heart of compassion for those around us. Christ is an inexhaustible source of mercy; divine mercy personified. He deserved mercy from those to whom He did good, but He did not receive it. He gave His life and by this is measured His love. Christ, we are told, "did not come to crush the broken reed" (Isa. 42:3), but "to seek that which was lost" (Luke 19:10).
+
+Our Lady encompasses all this mercy. She magnifies God's mercy: "My soul magnifies the Lord, and my spirit rejoices in God my Savior" (Luke 1:46-47).
+
+We are told, "His mercy is from generation to generation on those who fear him" (Luke 1:50).
+
+Mary, may you help us to savor all the great lessons that these words of Scripture contain.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*VA*
