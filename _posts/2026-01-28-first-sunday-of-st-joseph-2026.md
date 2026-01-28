@@ -3,14 +3,15 @@ layout: homily
 title: "First Sunday of St. Joseph (2026)"
 ---
 
+First Sunday of St. Joseph (2026)
 
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My immaculate mother, St. Joseph, my father and lord, my guardian angel, intercede for me.*
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 Devotion to St. Joseph has developed spontaneously from the heart of the Christian people. For many people, the Holy Patriarch is an excellent model of humility, industriousness, and fidelity to one's vocation. One of the most popular devotions to St. Joseph are the Seven Sundays of St. Joseph. This is an extended opportunity to meditate about the Holy Patriarch and to pray for his intercession. Today we can renew a long-standing custom of preparing for the feast of St. Joseph during the seven Sundays prior to that feast day.
 
@@ -106,7 +107,7 @@ In all the stories that we read about St. Joseph, we find there's a great joy th
 
 We can turn to St. Joseph as we begin these weeks and ask that we might grow to have a deeper devotion to him, to entrust more things to his care, and to rely on him on a more daily basis. Our Lady will be enormously happy, as will the Child Jesus, when they hear us talking more and more to her loving husband and to the foster father of Jesus.
 
-*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My immaculate mother, St. Joseph, my father and lord, my guardian angel, intercede for me.*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
