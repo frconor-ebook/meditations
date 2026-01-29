@@ -33,7 +33,7 @@ Sometimes discouragement over one\'s own failure to advance in sanctity can come
 
 The graces that we ask of God don\'t come like a penny in a slot machine. Sometimes the fruits of the responses take time to come, but whoever does things for love of God and for His glory never fails.
 
-We're told in *The Way, "*Convince yourself of this truth: your success ---this time, in this matter--- was to fail. Give thanks to Our Lord...and try again! ... You haven\'t failed; you have gained experience" (J. Escrivá, *The Way*, Points 404-405).
+We're told in *The Way, "*Convince yourself of this truth: your success ---this time, in this matter---was to fail. Give thanks to Our Lord...and try again! ... You haven\'t failed; you have gained experience" (J. Escrivá, *The Way*, Points 404-405).
 
 In a few days\' time, we shall see Jesus in the Crib. The sight will be a proof of God\'s mercy and love. We will be able to say, "On this Christmas night everything inside me stops. I am face to face with him; there is nothing but this Child in the whole of that huge white expanse. He does not say anything, but he is there. ... He is God loving me" (Jean Leclerq, *A Year with the Liturgy*).
 
@@ -45,7 +45,7 @@ When doors were shut in the face of St. Joseph and Our Lady, humanly speaking, t
 
 Hope is recognized clearly throughout the Old Testament as one of the most essential characteristics of the true People of God. All eyes are fixed on the distant future when the Messiah will arrive one day.
 
-*Lumen gentium* of the Second Vatican Council says, "The books of the Old Testament describe the history of salvation in the course of which the coming of Christ into the world was slowly prepared."
+*Lumen gentium* of the Second Vatican Council says, "The books of the Old Testament describe the history of salvation in the course of which the coming of Christ into the world was slowly prepared" (Vatican II, *Lumen gentium*, Point 55, November 21, 1964).
 
 In Genesis we always hear about the victory of the woman over the powers of evil, about a new world (*cf*. Gen. 3:15). The prophet Hosea announces that Israel will return to its ancient love and will blossom in it (Hos. 2:16).
 
@@ -73,7 +73,7 @@ I was coming back from Mass one day and I turned on the BBC news. There was a pi
 
 I think she was of Hungarian origin, and she\'d gone to New York and set up a cosmetic empire. There was one person in the radio studio who was talking about her and her life and her achievements, but there was also a bit of a comedian there who was sort of throwing a bit of cold water on all of Estée Lauder's achievements.
 
-He was more or less saying that, Vaseline petroleum jelly, or rub ointment, or any of these things can remove your pimples or your wrinkles or your grey hairs as well as any of Estée Lauder\'s foundational creams. And then at the end of the whole program, this man said, Ultimately, what Estée Lauder was doing was selling hope to people.
+He was more or less saying that Vaseline petroleum jelly, or rub ointment, or any of these things can remove your pimples or your wrinkles or your grey hairs as well as any of Estée Lauder\'s foundational creams. And then at the end of the whole program, this man said, Ultimately, what Estée Lauder was doing was selling hope to people.
 
 It was a rather interesting description of the cosmetic industry. If somebody will promise to take away your pimples and your wrinkles and your grey hair and put it into a nice bottle with a nice price and make it smell nice, probably many people will buy it. We all want that type of hope.
 
@@ -81,9 +81,9 @@ Later that day, in a picture in a magazine, I happened to see a rather elderly l
 
 I was thinking, she must have had access to all of these foundation creams, but it doesn\'t seem to have done her too much good.
 
-The message really of the story was not to put our hope in human things. We\'re here to hope in spiritual things, to hope in God. Hope leads us to abandon ourselves in God and to do all that we can to undertake a deliberate ascetical struggle.
+The message really of the story was not to put our hope in human things. We\'re here to hope in spiritual things, to hope in God.
 
-That struggle moves us to begin again many times, to be constant in our apostolate and patient in adversity; to have a more supernatural outlook on all aspects of life and its vicissitudes.
+Hope leads us to abandon ourselves in God and to do all that we can to undertake a deliberate ascetical struggle. That struggle moves us to begin again many times, to be constant in our apostolate and patient in adversity; to have a more supernatural outlook on all aspects of life and its vicissitudes.
 
 Ronald Knox said once, "In proportion as the world grows weary of its Christian hope, the alternative is materialism, of a type with which we\'re already familiar---that and nothing else. The world\'s experience of Christianity has been like a great love, the love of a lifetime. ... No new voice\...will have any appeal for us, if it does not bring us back to the stable at Bethlehem---there to humble our pride, and enlarge our charity, and deepen our sense of reverence with the sight of a dazzling purity" (Ronald A. Knox, *Sermon on Christmas*).
 
@@ -95,7 +95,7 @@ Our hope in God has to be all the greater, the less plentiful the means at our d
 
 On a certain occasion when Our Lord entered Capharnaum, St. Luke says, "They were all waiting for him" (Luke 8:40). All the people were full of the hope that Our Lord had shown them.
 
-In the thick of that crowd, one person is singled out by the Evangelist. He\'s identified as a ruler of the synagogue, Jairus. This man begins to beg Jesus to cure his daughter.
+In the thick of that crowd, one person is singled out by the Evangelist. He\'s identified as a "ruler of the synagogue, Jairus." This man begins to beg Jesus to cure his daughter.
 
 "He fell at his feet" (Luke 8:41). He has no hesitation in giving that public proof of his humility and of his faith in Our Lord.
 
@@ -115,7 +115,7 @@ Whilst the encounter with the woman with the issue of blood is taking place, wha
 
 Jesus, on the other hand, does not appear to be in any hurry. He doesn\'t even seem to attach much importance to whatever is happening in the house of Jairus.
 
-When Jesus arrives, the girl has already died (*cf*. Mark 8:49-56). There\'s no longer any possibility of preventing her death. It seems that Our Lord has arrived too late.
+When Jesus arrives, the girl has already died (*cf*. Luke 8:49-56). There\'s no longer any possibility of preventing her death. It seems that Our Lord has arrived too late.
 
 And precisely now, when as far as human intervention is concerned nothing can be done, when all natural hope is gone and everything calls for collapse into grief, the moment has come to awaken supernatural hope.
 
@@ -153,7 +153,7 @@ Mary is truly 'the port in a storm for those who are shipwrecked.' St. Alphonsus
 
 During these days that precede Christmas, and always, we can ask Our Lady how to hope in her son Jesus---just like she and Joseph did on the way to Bethlehem---to hope in Him, the Messiah whose advent was foretold by all the prophets.
 
-*Lumen gentium* of the Second Vatican Council says: "She shines forth on earth, until the day of the Lord shall come, a sign of sure hope and comfort to the pilgrim People of God."
+*Lumen gentium* of the Second Vatican Council says: "She shines forth on earth, until the day of the Lord shall come, a sign of sure hope and comfort to the pilgrim People of God" (*cf*. Vatican II, *Lumen gentium*, Point 68).
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
