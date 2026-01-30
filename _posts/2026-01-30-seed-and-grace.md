@@ -125,7 +125,7 @@ The farmer is patient. He doesn\'t dig up the seed or abandon the field because 
 
 Farmers know well that they must work and wait. They hope to have periods of warmth and sunshine, and maybe they hope for rain also. They know that the seed is coming to maturity, "he knows not how," and that harvest time will come.
 
-In *Furrow,* Point 668, St. Josemaría says, "Grace, like nature, normally acts gradually. We cannot, properly speaking, move ahead of grace. But in all that does depend on us we have to prepare the way and cooperate when God grants grace to us.
+In *Furrow,* Point 668, St. Josemaría says, "Grace, like nature, normally acts gradually. We cannot, properly speaking, move ahead of grace. [ ]{.underline} But in all that does depend on us we have to prepare the way and cooperate when God grants grace to us.
 
 "Souls have to be encouraged to aim very high; they have to be impelled towards Christ\'s ideal. Lead them to the highest goals which should not be scaled down or made less lofty in any way.
 
