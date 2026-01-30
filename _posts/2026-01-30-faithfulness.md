@@ -19,9 +19,9 @@ It\'s a virtue required by love and faith. The strength of the covenant with Abr
 
 God asks for faithfulness from men, from those whom He looks on with predilection, because He Himself is always faithful, despite our weaknesses and shortcomings.
 
-We\'re told in the book of Deuteronomy, "Yahweh is the God of loyalty" (Deut. 7:9), who is "rich in love and fidelity," says the Book of Exodus (Ex. 34:6-7), who is faithful in every work of his," says the Psalms (Ps. 33:4), and "his faithfulness remains forever" (Ps. 100:5).
+We\'re told in the book of Deuteronomy, "Yahweh is the God of loyalty" (Deut. 7:9), who is "rich in love and fidelity," says the Book of Exodus (Ex. 34:6-7), who is "faithful in every work of his," says the Psalms (Ps. 33:4), and "his faithfulness remains forever" (Ps. 117:2).
 
-Those who are faithful are most pleasing to Him, says the Book of Proverbs (cf. Prov 12:22), and He promises them the definitive reward: he who is "faithful unto death will receive the crown of life," says the Book of Revelation (Rev. 2:10).
+Those who are faithful are most pleasing to Him, says the Book of Proverbs (*cf*. Prov 12:22), and He promises them the definitive reward: he who is "faithful unto death" will receive "the crown of life," says the Book of Revelation (*cf*. Rev. 2:10).
 
 Throughout the Gospel, Our Lord speaks to us about this virtue. He offers us the example of the faithful and prudent servant, of the honorable administrator.
 
@@ -29,13 +29,13 @@ The idea of faithfulness penetrates the life of a Christian so deeply that the t
 
 St. Paul, who had repeatedly exhorted the first Christian generation to practice this virtue, intones a hymn to faithfulness, which can be taken as summarizing his life as he approaches the end of it.
 
-He writes to Timothy, saying, "I have fought the good fight, I have finished the race, I have kept the faith. Henceforth there is laid up for me the crown of righteousness, which the Lord, the righteous judge, will award to me on that day, and not only to me but also to all who have longed for his coming" (2 Tim. 4:7-8).
+He writes to Timothy, saying, "I have fought the good fight, I have finished the race, I have kept the faith. Henceforth there is laid up for me the crown of righteousness, which the Lord, the righteous judge, will award to me on the day, and not only to me but also to all who have longed for his coming" (2 Tim. 4:7-8).
 
 St. Thomas Aquinas says, "Faithfulness consists in accomplishing what was promised, in making deeds conform to expressed intentions" (*cf*. Thomas Aquinas, *Summa Theologiae*, II-II, Question 110).
 
 We are faithful if we keep our word, if we hold firm, in spite of the obstacles and difficulties, to the commitments which we have undertaken. Perseverance is intimately united to this virtue. It\'s often identified with it.
 
-Faithfulness applies to many areas: our relationship with God; between spouses; among friends\...it\'s an essential virtue. Without itsocial intercourse becomes impossible. As far as the spiritual life is concerned, it\'s closely related to love, faith, and vocation.
+Faithfulness applies to many areas: our relationship with God; between spouses; among friends\...it\'s an essential virtue. Without it social intercourse becomes impossible. As far as the spiritual life is concerned, it\'s closely related to love, faith, and vocation.
 
 We\'re told in the *Furrow*, Point 343: "That passage of the Second Epistle to Timothy makes me shudder, when the Apostle laments that Demas has fallen in love with this present world and gone to Thessalonica (2 Tim. 4:10). For fear of persecution, for a trifle, this man whom St. Paul had quoted in other epistles as being among the saints, had betrayed the divine enterprise.
 
@@ -49,7 +49,7 @@ Our age and culture is not an age characterized by a flowering of this virtual f
 
 Many might ask: how can this person, who is changeable and weak, commit himself forever? Well, he or she can, because his faithfulness is sustained by One who is Himself unwavering, who is neither lacking in strength nor subject to mutability---by God Himself.
 
-The Psalms tell us that "Yahweh is faithful in all his words" (Ps. 145: 13). Our Lord supports this disposition in those who wish to remain loyal to their commitments, and especially to their most important one.
+The Psalms tell us that "Yahweh is faithful in all his words" (Ps. 145:13). Our Lord supports this disposition in those who wish to remain loyal to their commitments, and especially to their most important one.
 
 It is a commitment that relates directly to God---and to other men because of God---as is the case when there is a calling to total dedication, a commitment to sanctity.
 
@@ -57,7 +57,7 @@ It is a commitment that relates directly to God---and to other men because of Go
 
 St. John Paul said: "Christ needs you and calls you to help millions of your fellow men to be truly human and to work out their salvation. Live with these noble ideals in your soul. ... Open your heart to Christ, to the law of love, without placing conditions on your availability, without fear of receiving non-committal replies, because love and friendship do not vanish over the horizon" (John Paul II, *Address*, November 6, 1982). They always maintain their plenitude, for love does not grow old.
 
-St. Thomas teaches us that we love someone when we desire the good of that person (St. Thomas, *op*. *cit*. I-II, Question 26).
+St. Thomas teaches us that we love someone when we desire the good of that person (St. Thomas, *op*. *cit*., I-II, Question 26).
 
 If, on the other hand, we try to take advantage of the one concerned, either because it gives us pleasure or because he is of use to us, then, properly speaking, we don\'t love that person.
 
@@ -67,11 +67,11 @@ We can ask Our Lord for the firm conviction that the essence of love is not mere
 
 The virtue of faithfulness acquires its firmness from love, from genuine love. And so, when love---both human and divine---has gone beyond the realm of mere feelings, what remains is not its least important constituent, but rather the most essential, in fact, that which gives ultimate meaning to everything.
 
-Our Lord has a calling, a plan, a vocation for everyone, for each one in particular. He has promised that this call will always come, and He will sustain it through temptations and the various difficulties one encounters in life.
+Our Lord has a calling, a plan, a vocation for every one, for each one in particular. He has promised that this call will always come, and He will sustain it through temptations and the various difficulties one encounters in life.
 
 And to demonstrate this permanence, He uses an analogy that we well understand: it is the love and care which a mother has for her child.
 
-Imagine, He says, a mother, deeply maternal (and not, if that were possible, an egotistical mother, who is selfishly immersed in the world). How could such a mother, He says, forget about her own child? "Even if she might forget, I will never forget you" (*cf*. Isa. 49:15).
+Imagine, He says, a mother, deeply maternal (and not, if that were possible, an egotistical mother who is selfishly immersed in the world). How could such a mother, He says, forget about her own child? "Even if she might forget, I will never forget you" (*cf*. Isa. 49:15).
 
 We consider it impossible, but we could imagine the possibility that from time to time she might forget about her child, or does not continually have his needs in the forefront of her mind. It is possible.
 
@@ -79,13 +79,13 @@ But I, says the Lord, will never forget you, about your commitments in life, abo
 
 Faithfulness is a loving response to this love of God. Without love, cracks and fissures soon appear in the solidity of every commitment.
 
-We are asked in the Psalms, "What can I give back to God, for all the good things He has given to me?" (Ps. 116:12).
+We are asked in the Psalms, "What can I give back to God, for all the good things he has given to me?" (Ps. 116:12).
 
-For our part, we can all offer whatever we have, in order to fulfill the task of being faithful. For this, perseverance until the end of one\'s life is made possible by faithfulness to the little details of daily living and by constantly and purposefully beginning again, when, through weakness, one might have veered off the path, fidelity is the response to this love of God, ceaselessly allowing oneself to be loved by Him, removing the obstacles which prevent His merciful love penetrating into the depths of our soul.
+For our part, we can all offer whatever we have, in order to fulfill the task of being faithful. For this, perseverance until the end of one\'s life is made possible by faithfulness to the little details of daily living and by constantly and purposefully beginning again, when through weakness one might have veered off the path, fidelity is the response to this love of God, ceaselessly allowing oneself to be loved by Him, removing the obstacles which prevent His merciful love penetrating into the depths of our soul.
 
 One writer says, "On many occasions in life, fidelity to God comes down to perseverance to a life of prayer, to a faithful persistence in those devotions and customs which keep us close to Our Lord each day.
 
-Our own perseverance and the perseverance of others relies on our union with and our filial love for God. Those who love persevere, because they feel the strength of their Father God in the apparent monotony of the day-to-day struggle (cf. R. Taboada, *Perseverance*).
+Our own perseverance and the perseverance of others relies on our union with and our filial love for God. Those who love persevere, because they feel the strength of their Father God in the apparent monotony of the day-to-day struggle (*cf*. R. Taboada, *Perseverance*).
 
 "Love is the weight which drags me along," says St. Augustine, the lodestone, the direction for our soul to be faithful. For this, a recognition of the love of God, a love from which no man can be excluded, leads to sincerity, a sure support for faithfulness.
 
@@ -113,7 +113,7 @@ Eleazar realized that it would be beneath the dignity of a man of his age to eng
 
 "For even if for the present I should avoid the punishment of men, yet whether I live or die, I shall not escape the hands of the Almighty'" (2 Macc. 6:24-26).
 
-Interesting words for professional people who might be tempted to do something wrong, do business under the table, to perform an abortion, to prescribe the morning-after pill, to take a bribe, etc.
+Interesting words for professional people who might be tempted to do something wrong, do business under the table, to perform an abortion, to prescribe the morning-after pill, to take a bribe, et cetera.
 
 Eleazar refused to give in and so he was taken at once to be tortured. When he was about to die, he groaned aloud: "It is clear to the Lord in His holy knowledge that though I might have been saved from death, I am enduring terrible sufferings in my body after this beating, but in my soul I am glad to suffer these things because I fear Him" (2 Macc. 6:30).
 
