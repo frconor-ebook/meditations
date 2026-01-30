@@ -1,10 +1,14 @@
+import argparse
 import os
 import shutil
+import sys
 import zipfile
 
 import dropbox
 from dotenv import load_dotenv
 from dropbox import DropboxOAuth2FlowNoRedirect
+
+from file_manifest import load_manifest, save_manifest
 
 
 def update_env_file(access_token, refresh_token):
@@ -145,6 +149,82 @@ def get_dropbox_client():
         raise ValueError(f"Error completing OAuth flow: {e}")
 
 
+def get_folder_content_hashes(dbx, folder_path):
+    """
+    Get content hashes for all files in a Dropbox folder.
+
+    Returns:
+        dict: Mapping of filename -> content_hash
+    """
+    hashes = {}
+    try:
+        result = dbx.files_list_folder(folder_path)
+        while True:
+            for entry in result.entries:
+                if hasattr(entry, 'content_hash') and entry.content_hash:
+                    hashes[entry.name] = entry.content_hash
+            if not result.has_more:
+                break
+            result = dbx.files_list_folder_continue(result.cursor)
+    except Exception as e:
+        print(f"Error listing folder: {e}")
+    return hashes
+
+
+def check_for_changes(dbx, shared_link, manifest_dir):
+    """
+    Check if any files in the Dropbox folder have changed.
+
+    Args:
+        dbx: Dropbox client
+        shared_link: Shared folder link
+        manifest_dir: Directory where manifest is stored
+
+    Returns:
+        tuple: (has_changes: bool, current_hashes: dict, folder_path: str)
+    """
+    try:
+        # Get shared folder metadata to find its path
+        shared_metadata = dbx.sharing_get_shared_link_metadata(shared_link)
+        folder_path = shared_metadata.path_lower
+
+        # Get current content hashes from Dropbox
+        current_hashes = get_folder_content_hashes(dbx, folder_path)
+
+        if not current_hashes:
+            print("Could not retrieve file hashes from Dropbox. Will download.")
+            return True, {}, folder_path
+
+        # Load stored hashes from manifest
+        manifest = load_manifest(manifest_dir)
+        stored_hashes = manifest.get("dropbox_hashes", {})
+
+        # Compare hashes
+        if stored_hashes != current_hashes:
+            # Find what changed
+            new_files = set(current_hashes.keys()) - set(stored_hashes.keys())
+            deleted_files = set(stored_hashes.keys()) - set(current_hashes.keys())
+            modified_files = [
+                f for f in current_hashes
+                if f in stored_hashes and current_hashes[f] != stored_hashes[f]
+            ]
+
+            if new_files:
+                print(f"  New files: {len(new_files)}")
+            if deleted_files:
+                print(f"  Deleted files: {len(deleted_files)}")
+            if modified_files:
+                print(f"  Modified files: {len(modified_files)}")
+
+            return True, current_hashes, folder_path
+        else:
+            return False, current_hashes, folder_path
+
+    except Exception as e:
+        print(f"Error checking for changes: {e}")
+        return True, {}, ""
+
+
 def download_shared_folder_as_zip(dbx, shared_link, local_zip_path):
     """Download a shared folder as a zip file"""
     try:
@@ -224,24 +304,77 @@ def unzip_and_cleanup(zip_file_path, extract_to):
         return False
 
 
-def download_and_process_dropbox_folder(shared_link, target_directory):
-    """Complete workflow: download as zip, unzip, and clean up"""
+def download_and_process_dropbox_folder(shared_link, target_directory, force=False):
+    """
+    Complete workflow: check for changes, download as zip, unzip, and clean up.
+
+    Args:
+        shared_link: Dropbox shared folder link
+        target_directory: Local directory to extract files to
+        force: If True, skip change detection and always download
+
+    Returns:
+        bool: True if files were downloaded/updated, False if skipped (no changes)
+    """
     # Get authenticated client
     dbx = get_dropbox_client()
+
+    # Get the script directory for manifest storage
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+
+    # Check for changes first (unless force mode)
+    if not force:
+        print("Checking for changes in Dropbox folder...")
+        has_changes, current_hashes, folder_path = check_for_changes(
+            dbx, shared_link, script_dir
+        )
+
+        if not has_changes:
+            print("No changes detected in Dropbox. Skipping download.")
+            return False
+
+        print("Changes detected. Proceeding with download...")
+    else:
+        print("Force mode: Skipping change detection.")
+        # Still get hashes for manifest update
+        try:
+            shared_metadata = dbx.sharing_get_shared_link_metadata(shared_link)
+            folder_path = shared_metadata.path_lower
+            current_hashes = get_folder_content_hashes(dbx, folder_path)
+        except Exception:
+            current_hashes = {}
 
     # Determine the zip file path
     zip_path = os.path.join(target_directory, "downloaded.zip")
 
-    # Step 1: Download the folder as a zip
+    # Download the folder as a zip
     if download_shared_folder_as_zip(dbx, shared_link, zip_path):
-        # Step 2: Unzip and clean up
-        unzip_and_cleanup(zip_path, target_directory)
-        return True
+        # Unzip and clean up
+        if unzip_and_cleanup(zip_path, target_directory):
+            # Update manifest with new hashes
+            if current_hashes:
+                manifest = load_manifest(script_dir)
+                manifest["dropbox_hashes"] = current_hashes
+                save_manifest(script_dir, manifest)
+                print(f"Updated manifest with {len(current_hashes)} file hashes.")
+            return True
+
     return False
 
 
 # Main execution
 if __name__ == "__main__":
+    # Parse command line arguments
+    parser = argparse.ArgumentParser(
+        description="Download files from Dropbox with incremental change detection."
+    )
+    parser.add_argument(
+        "--force", "-f",
+        action="store_true",
+        help="Force download even if no changes detected"
+    )
+    args = parser.parse_args()
+
     # Load environment variables from .env file
     load_dotenv()
 
@@ -260,4 +393,9 @@ if __name__ == "__main__":
     target_directory = os.path.dirname(script_dir)
 
     # Run the complete workflow
-    download_and_process_dropbox_folder(shared_link, target_directory)
+    result = download_and_process_dropbox_folder(
+        shared_link, target_directory, force=args.force
+    )
+
+    # Exit with appropriate code
+    sys.exit(0 if result else 0)  # 0 = success (including no changes needed)

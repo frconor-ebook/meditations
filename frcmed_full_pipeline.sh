@@ -10,12 +10,13 @@
 #   -v, --verbose     Enable verbose output
 #   -s, --skip-step   Skip specific step(s) (download|convert|standardize|process|build|deploy)
 #   -i, --include-step Only run specific step(s) (download|convert|standardize|process|build|deploy)
+#   -f, --force       Force full processing (ignore incremental change detection)
 #   -h, --help        Display this help message
 #   -l, --log         Create a log file with detailed output
 
 # Script configuration
 set -o pipefail  # Ensure pipeline errors are caught
-SCRIPT_VERSION="1.5.3"
+SCRIPT_VERSION="1.6.0"
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 BASE_DIR="$SCRIPT_DIR"  # Changed: Use script directory as base directory
 PARENT_DIR="$(cd "$(dirname "$0")" && pwd)/.."
@@ -23,6 +24,7 @@ START_TIME=$(date +%s)
 LOG_FILE=""
 VERBOSE=false
 COMMIT_MESSAGE=""
+FORCE_MODE=false
 
 # Initialize rbenv to use the correct Ruby version
 eval "$(rbenv init -)" 2>/dev/null || true
@@ -67,6 +69,7 @@ show_help() {
     echo "                          Valid steps: download,convert,standardize,process,build,deploy"
     echo "  -i, --include-step STEPS Only run specific step(s) (comma-separated list)"
     echo "                          Valid steps: download,convert,standardize,process,build,deploy"
+    echo "  -f, --force             Force full processing (ignore incremental change detection)"
     echo "  -m, --message MSG       Custom git commit message (optional)"
     echo "  -l, --log FILE          Write output to log file"
     echo "  -h, --help              Display this help message"
@@ -80,8 +83,14 @@ show_help() {
     echo "  $(basename "$0") -i build  # Short form for --include-step"
     echo "  $(basename "$0") --include-step deploy -m \"Fix footer styling\""
     echo "  $(basename "$0") --message \"Improve typography\" --include-step build,deploy"
+    echo "  $(basename "$0") --force  # Force full reprocessing of all files"
     echo
     echo "Note: --include-step and --skip-step cannot be used together"
+    echo
+    echo "Incremental Processing:"
+    echo "  By default, the pipeline uses incremental processing to only download,"
+    echo "  convert, and process files that have changed. Use --force to override"
+    echo "  this behavior and process all files."
 }
 
 # Function to display log messages with timestamp
@@ -264,6 +273,10 @@ parse_args() {
                 VERBOSE=true
                 shift
                 ;;
+            -f|--force)
+                FORCE_MODE=true
+                shift
+                ;;
             -l|--log)
                 LOG_FILE="$2"
                 shift 2
@@ -362,8 +375,15 @@ download_from_dropbox() {
     # Change to the base directory
     cd "$BASE_DIR" || error_message "Could not change to base directory."
 
+    # Build command with optional --force flag
+    local download_cmd="python3 download_from_dropbox.py"
+    if [[ "$FORCE_MODE" = true ]]; then
+        download_cmd="$download_cmd --force"
+        verbose "Force mode enabled for download"
+    fi
+
     # Execute the Python download script
-    python3 download_from_dropbox.py || error_message "Failed to download files from Dropbox."
+    $download_cmd || error_message "Failed to download files from Dropbox."
 
     log "SUCCESS" "Files have been downloaded from Dropbox."
 }
@@ -395,8 +415,15 @@ convert_to_markdown() {
     # Execute with timing information
     local start_time=$(date +%s)
 
+    # Build command with optional --force flag
+    local convert_cmd="./convert_all_to_md_with_progress_parallel.sh"
+    if [[ "$FORCE_MODE" = true ]]; then
+        convert_cmd="$convert_cmd --force"
+        verbose "Force mode enabled for conversion"
+    fi
+
     # Run the conversion script
-    ./convert_all_to_md_with_progress_parallel.sh || error_message "DocX to Markdown conversion failed."
+    $convert_cmd || error_message "DocX to Markdown conversion failed."
 
     local end_time=$(date +%s)
     local duration=$((end_time - start_time))
@@ -454,8 +481,15 @@ process_markdown() {
         error_message "Processing script not found: process_markdown.py"
     fi
 
+    # Build command with optional --force flag
+    local process_cmd="python3 process_markdown.py"
+    if [[ "$FORCE_MODE" = true ]]; then
+        process_cmd="$process_cmd --force"
+        verbose "Force mode enabled for processing"
+    fi
+
     # Execute the Python script
-    python3 process_markdown.py || error_message "Markdown processing failed."
+    $process_cmd || error_message "Markdown processing failed."
 
     log "SUCCESS" "Markdown files have been processed."
 }
@@ -571,6 +605,12 @@ main() {
     log "INFO" "Starting FRCMED full pipeline workflow v${SCRIPT_VERSION}"
     verbose "Base directory: $BASE_DIR"
     verbose "Script directory: $SCRIPT_DIR"
+
+    if [[ "$FORCE_MODE" = true ]]; then
+        log "INFO" "Force mode enabled - will process all files regardless of changes"
+    else
+        log "INFO" "Incremental mode - will only process changed files"
+    fi
 
     # Check Jekyll environment before proceeding
     check_jekyll_environment

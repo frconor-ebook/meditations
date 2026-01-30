@@ -15,3 +15,6 @@ preprocessing_scripts/conversion_logs/*
 conversion_logs/
 .env.venv/
 .env
+# File manifest for incremental processing
+.file_manifest.json
+__pycache__/
