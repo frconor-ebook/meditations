@@ -1,9 +1,17 @@
+import argparse
 import json
 import os
 import re
 import shutil
-import unicodedata  # Add this import
+import unicodedata
 from datetime import datetime
+
+from file_manifest import (
+    compute_file_hash,
+    get_changed_files,
+    load_manifest,
+    save_manifest,
+)
 
 
 def sanitize_title(title):
@@ -55,13 +63,75 @@ def remove_duplicate_title_lines(lines, title):
     return filtered_lines
 
 
-def convert_markdown_to_posts(source_dir, posts_dir, data_dir):
+def convert_markdown_to_posts(source_dir, posts_dir, data_dir, force=False):
     """
     Converts markdown files to Jekyll posts and creates a meditations.json index.
+
+    Args:
+        source_dir: Directory containing source markdown files
+        posts_dir: Directory for Jekyll posts
+        data_dir: Directory for JSON data files
+        force: If True, process all files regardless of changes
     """
+    # Get the script directory for manifest
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+
+    # Load manifest and check for changes
+    manifest = load_manifest(script_dir)
+
+    if force:
+        print("Force mode: Processing all files...")
+        files_to_process = [f for f in os.listdir(source_dir) if f.endswith(".md")]
+        files_to_delete = []
+        # Compute hashes for all files
+        current_hashes = {}
+        for filename in files_to_process:
+            filepath = os.path.join(source_dir, filename)
+            file_hash = compute_file_hash(filepath)
+            if file_hash:
+                current_hashes[filename] = file_hash
+    else:
+        print("Checking for changed markdown files...")
+        files_to_process, files_to_delete, current_hashes = get_changed_files(
+            source_dir, "markdown_hashes", manifest
+        )
+
+        if not files_to_process and not files_to_delete:
+            print("No markdown files have changed. Skipping processing.")
+            return
+
+        print(f"  Files to process: {len(files_to_process)}")
+        print(f"  Files to delete: {len(files_to_delete)}")
+
+    # Handle deleted files - remove their corresponding posts
+    for filename in files_to_delete:
+        # Find and remove the post file
+        base_name = os.path.splitext(filename)[0]
+        for post_file in os.listdir(posts_dir) if os.path.exists(posts_dir) else []:
+            if post_file.endswith(f"-{base_name}.md") or base_name in post_file:
+                post_path = os.path.join(posts_dir, post_file)
+                print(f"Removing deleted post: {post_file}")
+                os.remove(post_path)
+
+    # Ensure posts directory exists
+    os.makedirs(posts_dir, exist_ok=True)
+
+    # Load existing meditations from JSON if doing incremental update
+    existing_meditations = {}
+    meditations_json_path = os.path.join(data_dir, "meditations.json")
+    if not force and os.path.exists(meditations_json_path):
+        try:
+            with open(meditations_json_path, "r") as f:
+                for m in json.load(f):
+                    existing_meditations[m.get("slug")] = m
+        except (json.JSONDecodeError, IOError):
+            pass
 
     meditations = []
-    for filename in os.listdir(source_dir):
+    processed_slugs = set()
+
+    # Process changed/new files
+    for filename in files_to_process:
         if filename.endswith(".md"):
             filepath = os.path.join(source_dir, filename)
             print(f"Processing: {filename}")
@@ -134,6 +204,28 @@ title: "{title}"
                     "excerpt": excerpt,
                 }
             )
+            processed_slugs.add(slug)
+
+    # For incremental updates, merge with existing meditations that weren't processed
+    if not force and existing_meditations:
+        # Remove deleted slugs from existing_meditations
+        deleted_slugs = set()
+        for filename in files_to_delete:
+            # Try to find the slug for this file from existing meditations
+            base_name = os.path.splitext(filename)[0].lower().replace(" ", "-")
+            for slug in existing_meditations:
+                if base_name in slug or slug in base_name:
+                    deleted_slugs.add(slug)
+
+        # Add unchanged meditations back
+        for slug, meditation in existing_meditations.items():
+            if slug not in processed_slugs and slug not in deleted_slugs:
+                meditations.append(meditation)
+
+    # Update manifest with new hashes
+    manifest["markdown_hashes"] = current_hashes
+    save_manifest(script_dir, manifest)
+    print(f"Updated manifest with {len(current_hashes)} file hashes.")
 
     meditations_json_path = os.path.join(data_dir, "meditations.json")
     print(f"meditations_json_path: {meditations_json_path}")
@@ -178,6 +270,17 @@ title: "{title}"
 
 # --- Main execution ---
 if __name__ == "__main__":
+    # Parse command line arguments
+    parser = argparse.ArgumentParser(
+        description="Process markdown files into Jekyll posts with incremental updates."
+    )
+    parser.add_argument(
+        "--force", "-f",
+        action="store_true",
+        help="Force processing of all files (ignore change detection)"
+    )
+    args = parser.parse_args()
+
     # Get the directory where this script is located (meditations/)
     script_dir = os.path.dirname(os.path.abspath(__file__))
     # Parent directory is upload_frcmed_to_web (one level up from meditations)
@@ -187,9 +290,10 @@ if __name__ == "__main__":
     posts_directory = os.path.join(script_dir, "_posts")
     data_directory = os.path.join(script_dir, "data")
 
-    if os.path.exists(posts_directory):
+    # Only delete posts directory in force mode
+    if args.force and os.path.exists(posts_directory):
         shutil.rmtree(posts_directory)
-        print(f"Removed existing directory: {posts_directory}")
+        print(f"Force mode: Removed existing directory: {posts_directory}")
 
     os.makedirs(posts_directory, exist_ok=True)
 
@@ -197,4 +301,6 @@ if __name__ == "__main__":
     print(f"Posts Directory: {posts_directory}")
     print(f"Data Directory: {data_directory}")
 
-    convert_markdown_to_posts(source_directory, posts_directory, data_directory)
+    convert_markdown_to_posts(
+        source_directory, posts_directory, data_directory, force=args.force
+    )
