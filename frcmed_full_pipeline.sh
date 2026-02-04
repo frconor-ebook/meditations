@@ -16,7 +16,7 @@
 
 # Script configuration
 set -o pipefail  # Ensure pipeline errors are caught
-SCRIPT_VERSION="1.6.0"
+SCRIPT_VERSION="1.7.0"
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 BASE_DIR="$SCRIPT_DIR"  # Changed: Use script directory as base directory
 PARENT_DIR="$(cd "$(dirname "$0")" && pwd)/.."
@@ -34,6 +34,7 @@ SKIP_DOWNLOAD=false
 SKIP_CONVERT=false
 SKIP_STANDARDIZE=false
 SKIP_PROCESS=false
+SKIP_DEDUPLICATE=false
 SKIP_BUILD=false
 SKIP_DEPLOY=false
 
@@ -42,6 +43,7 @@ INCLUDE_DOWNLOAD=false
 INCLUDE_CONVERT=false
 INCLUDE_STANDARDIZE=false
 INCLUDE_PROCESS=false
+INCLUDE_DEDUPLICATE=false
 INCLUDE_BUILD=false
 INCLUDE_DEPLOY=false
 INCLUDE_ANY=false  # Track if any include flags are set
@@ -66,9 +68,9 @@ show_help() {
     echo "Options:"
     echo "  -v, --verbose           Enable verbose output"
     echo "  -s, --skip-step STEPS   Skip specific step(s) (comma-separated list)"
-    echo "                          Valid steps: download,convert,standardize,process,build,deploy"
+    echo "                          Valid steps: download,convert,standardize,process,deduplicate,build,deploy"
     echo "  -i, --include-step STEPS Only run specific step(s) (comma-separated list)"
-    echo "                          Valid steps: download,convert,standardize,process,build,deploy"
+    echo "                          Valid steps: download,convert,standardize,process,deduplicate,build,deploy"
     echo "  -f, --force             Force full processing (ignore incremental change detection)"
     echo "  -m, --message MSG       Custom git commit message (optional)"
     echo "  -l, --log FILE          Write output to log file"
@@ -153,6 +155,9 @@ set_skip_flag() {
         process)
             SKIP_PROCESS=true
             ;;
+        deduplicate)
+            SKIP_DEDUPLICATE=true
+            ;;
         build)
             SKIP_BUILD=true
             ;;
@@ -183,6 +188,9 @@ set_include_flag() {
             ;;
         process)
             INCLUDE_PROCESS=true
+            ;;
+        deduplicate)
+            INCLUDE_DEDUPLICATE=true
             ;;
         build)
             INCLUDE_BUILD=true
@@ -494,6 +502,79 @@ process_markdown() {
     log "SUCCESS" "Markdown files have been processed."
 }
 
+# Function to remove duplicate posts (same slug, different dates - keep latest)
+deduplicate_posts() {
+    if [[ "$INCLUDE_ANY" = true && "$INCLUDE_DEDUPLICATE" = false ]]; then
+        log "INFO" "Skipping deduplication (not included in specified steps)."
+        return 0
+    fi
+
+    if [[ "$SKIP_DEDUPLICATE" = true ]]; then
+        log "WARNING" "Skipping deduplication as requested."
+        return 0
+    fi
+
+    log "INFO" "Checking for duplicate posts..."
+
+    # Change to the base directory
+    cd "$BASE_DIR" || error_message "Could not change to base directory."
+
+    local posts_dir="_posts"
+    if [[ ! -d "$posts_dir" ]]; then
+        log "WARNING" "Posts directory not found: $posts_dir"
+        return 0
+    fi
+
+    # Find duplicates: files with same slug (title) but different dates
+    # Format: YYYY-MM-DD-slug.md
+    local duplicates_found=0
+    local duplicates_removed=0
+
+    # Create associative array to track slugs and their files
+    declare -A slug_files
+
+    # First pass: collect all files by slug
+    for file in "$posts_dir"/*.md; do
+        [[ -f "$file" ]] || continue
+        local basename=$(basename "$file")
+        # Extract slug (everything after YYYY-MM-DD-)
+        local slug=$(echo "$basename" | sed 's/^[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}-//')
+        
+        if [[ -n "${slug_files[$slug]}" ]]; then
+            slug_files[$slug]="${slug_files[$slug]} $file"
+        else
+            slug_files[$slug]="$file"
+        fi
+    done
+
+    # Second pass: for each slug with multiple files, keep only the latest
+    for slug in "${!slug_files[@]}"; do
+        local files=(${slug_files[$slug]})
+        if [[ ${#files[@]} -gt 1 ]]; then
+            duplicates_found=$((duplicates_found + ${#files[@]} - 1))
+            verbose "Found ${#files[@]} files for slug: $slug"
+            
+            # Sort files by date (newest first) and remove all but the first
+            local sorted_files=($(printf '%s\n' "${files[@]}" | sort -r))
+            local keep_file="${sorted_files[0]}"
+            verbose "Keeping: $(basename "$keep_file")"
+            
+            for ((i=1; i<${#sorted_files[@]}; i++)); do
+                local remove_file="${sorted_files[$i]}"
+                log "INFO" "Removing duplicate: $(basename "$remove_file") (keeping $(basename "$keep_file"))"
+                rm "$remove_file" || log "WARNING" "Failed to remove: $remove_file"
+                duplicates_removed=$((duplicates_removed + 1))
+            done
+        fi
+    done
+
+    if [[ $duplicates_removed -gt 0 ]]; then
+        log "SUCCESS" "Removed $duplicates_removed duplicate post(s)."
+    else
+        log "SUCCESS" "No duplicate posts found."
+    fi
+}
+
 # Function to build the Jekyll site
 build_jekyll_site() {
     if [[ "$INCLUDE_ANY" = true && "$INCLUDE_BUILD" = false ]]; then
@@ -623,6 +704,7 @@ main() {
     convert_to_markdown
     standardize_filenames
     process_markdown
+    deduplicate_posts
     build_jekyll_site
     deploy_to_github
 
