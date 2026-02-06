@@ -3,7 +3,6 @@ layout: homily
 title: "The Parable of the Mustard Seed"
 ---
 
-The Parable of the Mustard Seed
 
 By Fr. Conor Donnelly
 

@@ -3,7 +3,6 @@ layout: homily
 title: "Begin Again, Fight the Fight"
 ---
 
-Begin Again, Fight the Fight
 
 By Fr. Conor Donnelly
 

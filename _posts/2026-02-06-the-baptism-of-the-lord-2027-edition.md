@@ -3,7 +3,6 @@ layout: homily
 title: "The Baptism of the Lord (2027 Edition)"
 ---
 
-The Baptism of the Lord (2027 Edition)
 
 By Fr. Conor Donnelly
 

@@ -3,7 +3,6 @@ layout: homily
 title: "Christ Is Passing By"
 ---
 
-Christ Is Passing By
 
 By Fr. Conor Donnelly
 

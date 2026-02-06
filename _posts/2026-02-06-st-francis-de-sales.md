@@ -3,7 +3,6 @@ layout: homily
 title: "St. Francis de Sales"
 ---
 
-St. Francis de Sales
 
 By Fr. Conor Donnelly
 

@@ -3,7 +3,6 @@ layout: homily
 title: "The First Sunday of St. Joseph (2026)"
 ---
 
-The First Sunday of St. Joseph (2026)
 
 By Fr. Conor Donnelly
 
