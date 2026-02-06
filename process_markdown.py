@@ -58,6 +58,10 @@ def remove_duplicate_title_lines(lines, title):
             if normalize(potential_title) == normalized_title:
                 continue  # Skip this duplicate title line
 
+        # Check for plain text title (no formatting) that matches exactly
+        if stripped and normalize(stripped) == normalized_title:
+            continue  # Skip this duplicate title line
+
         filtered_lines.append(line)
 
     return filtered_lines

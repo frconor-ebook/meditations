@@ -3,7 +3,6 @@ layout: homily
 title: "I Came To Cast Fire On Earth"
 ---
 
-I Came To Cast Fire On Earth
 
 By Fr. Conor Donnelly
 

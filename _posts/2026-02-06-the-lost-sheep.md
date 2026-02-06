@@ -3,7 +3,6 @@ layout: homily
 title: "The Lost Sheep"
 ---
 
-The Lost Sheep
 
 By Fr. Conor Donnelly
 

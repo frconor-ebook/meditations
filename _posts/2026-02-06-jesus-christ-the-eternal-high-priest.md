@@ -3,7 +3,6 @@ layout: homily
 title: "Jesus Christ The Eternal High Priest"
 ---
 
-Jesus Christ The Eternal High Priest
 
 By Fr. Conor Donnelly
 

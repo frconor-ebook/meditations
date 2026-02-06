@@ -3,7 +3,6 @@ layout: homily
 title: "Ripples in the Ocean"
 ---
 
-Ripples in the Ocean
 
 By Fr. Conor Donnelly
 

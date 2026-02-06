@@ -3,7 +3,6 @@ layout: homily
 title: "The Purification of Our Lady"
 ---
 
-The Purification of Our Lady
 
 By Fr. Conor Donnelly
 

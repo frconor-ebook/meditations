@@ -3,7 +3,6 @@ layout: homily
 title: "The Second Sunday of St. Joseph (2026)"
 ---
 
-The Second Sunday of St. Joseph (2026)
 
 By Fr. Conor Donnelly
 

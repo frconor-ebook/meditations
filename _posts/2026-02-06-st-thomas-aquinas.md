@@ -3,7 +3,6 @@ layout: homily
 title: "St. Thomas Aquinas"
 ---
 
-St. Thomas Aquinas
 
 By Fr. Conor Donnelly
 

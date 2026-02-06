@@ -3,7 +3,6 @@ layout: homily
 title: "St. Mary Magdalene"
 ---
 
-St. Mary Magdalene
 
 By Fr. Conor Donnelly
 

@@ -3,7 +3,6 @@ layout: homily
 title: "Sixth Sunday of St. Joseph (2026)"
 ---
 
-Sixth Sunday of St. Joseph (2026)
 
 By Fr. Conor Donnelly
 
