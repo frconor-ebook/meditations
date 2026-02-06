@@ -1,0 +1,229 @@
+---
+layout: homily
+title: "Interior Struggle"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+A number of years ago, after the Pope's visit, somebody said to me, "I have touched the Pope, and now I am ready to go to heaven."
+
+Well, we know that going to heaven involves a lot more than just touching the Pope.
+
+This meditation is about interior struggle. All through the Gospel, Our Lord puts a certain emphasis on that necessity of struggling.
+
+"Jesus went through the cities and towns, teaching and making his journey to Jerusalem. And a certain man said to him, 'Lord, are there few that are saved?' But he said to them, 'Strive to enter by the narrow gate. For many, I say to you, shall seek to enter and shall not be able" (Luke 13:22-24).
+
+Our Lord directs us in that direction: the narrow gate. Something that requires effort, struggle. It requires a human effort, but also, it requires a supernatural effort.
+
+We rely on the graces that God gives us to be able to struggle, in the particular areas where He wants us to struggle.
+
+"And if your hand is an occasion of sin to you," He says, "cut it off" (*cf*. Mark 9:43). These are rather radical words.
+
+I heard someone say once that Christ was a tough man. He hung for three long hours on the Cross (Matt. 27:45).
+
+He wants each one of us to be tough also: not just with an exterior toughness, but most of all with an interior toughness, a fortitude, an ability to fight. "If your hand is an occasion of sin to you, cut it off."
+
+Our Lord doesn't say, 'Take one long, last, lingering, loving look at your hand. And make sure that your hand feels okay about it and then carry on, on your way.'
+
+"Cut it off. ... It's better for you to enter into life maimed than having two hands to go into hell, into the unquenchable fire" (*cf*. Mark 9:43).
+
+"And if your foot is an occasion of sin to you, cut it off" (Mark 9:45). "And if your eye, pluck it out. It is better for you to enter into the kingdom of God with one eye than having two to be cast into the hell of fire" (*cf*. Mark 9:47).
+
+"Salt is good, but if salt becomes unsavory, how will it be salted?" (Mark 9:60). Our Lord is very clear about this business of struggle.
+
+We could ask the Holy Spirit that He might give us a deeper spirit to fight---to fight along truly spiritual pathways, and to conquer all those things that might lie in our path against having that tough, manly struggle.
+
+"And there was a certain man there that had been thirty-eight years in his infirmity. When Jesus saw him lying there, he knew that he had been there a long time. ... And he explained, 'When the water is troubled, I have nobody to put me into the pond. While I'm going down there, another gets there before me'" (*cf*. John 5:5-7).
+
+For thirty-eight years this man had been trying, and each time he had been failing. Each time his hope and his desire were greater than his pain or his discouragement. He kept on trying.
+
+There's a great spirit of struggle there. And that's the story of our life: trying again each time even though we might seem to be so weak, so incapable of success, or a whole pile of other things.
+
+The secret of his life was that Christ was passing by. And that's the secret of our life also, of our joy and our consolation.
+
+"If any man will come after me, let him deny himself and take up his cross, and follow me" (Matt. 16:24). Again, Our Lord is demanding: "deny himself."
+
+He speaks continually about the cross. When we have found the cross, then we have found Christ.
+
+If we find that there is some particular area that God has given us to struggle in, you can be sure that's the will of God for you, whether it's charity or order or punctuality or purity or honesty or whatever other virtue it may be.
+
+This is the will of God for me. This is where He wants me to be holy. "He that will save his life will lose it, and he that loses his life for my sake will find it. For what does it profit a man if he gains the whole world and suffers the loss of his own soul?" (Matt. 16:25-26).
+
+Our Lord weighed the weight of the whole world against the weight of one soul. And the soul won. The importance of the one soul was more important than all the material goods and wealth of the world.
+
+In the course of our life, we may meet people who have gained the whole world, but unfortunately may have lost their soul, like a reminder to us, a wake-up call. The most important thing that God wants from us in our life is that we take care of our soul, so that Our Lord one day can say to us, "Well done, good and faithful servant. Because you have been faithful over a few things, I have great things to commit to your charge. Enter into the joy of your Lord" (*cf*. Matt. 25:23).
+
+On another occasion Our Lord asks Simon Peter to "put out a little from the land." Initially He asks him for a little. A comfortable little. But then later on He says, "Launch out into the deep" (Luke 5:4).
+
+It may happen in our life that initially Our Lord asks us for small things, but later He may ask for everything. He wants us to be out in the deep water, with the wind blowing in our face, dangerous places where there are risks because that is where the big fish are. That is where He wants us to be.
+
+St. Paul also speaks of this spirit of struggle: "I do not count myself to have gained everything. But one thing I do: forgetting the things that are behind, I strive forward to those that are before me. I press towards the goal for the prize of the supernatural vocation of God in Christ Jesus" (Phil. 3:13-14).
+
+Every day of our life Our Lord wants us to be striving towards that goal. Often beginning again, but very focused, knowing what is really important, and knowing the very relative value of everything that we may come across in this world.
+
+"I fought the good fight. I finished the race" (2 Tim. 4:7). St. Paul uses very bellicose terminology.
+
+"Once the hand is laid on the plough, no one who looks back is fit for the kingdom of God" (*cf*. Luke 9:62).
+
+"Keep sober and alert," says St. Peter, "as your enemy the devil is on the prowl like a roaring lion, looking for someone to devour" (1 Pet. 5:8).
+
+All the time we are encouraged to keep up this spirit of struggle, to renew it in a regular way.
+
+The *Catechism of the Catholic Church* talks about "a hard battle" (*Catechism*, Points 406, 409). It is interesting how frequently the word "battle" comes in the Catechism.
+
+The battle for prayer, the battle for purity. It is no wonder we are called to be "soldiers of Christ" (2 Tim. 2:3), with the mentality of a soldier.
+
+"The doctrine of original sin," it says in the *Catechism*, "closely connected with that of redemption by Christ, provides lucid discernment of man's situation and activity in the world. By our first parents' sin, the devil has acquired a certain domination over man, even though man remains free.
+
+"Original sin entails 'captivity under the power of him, who from there on had the power of death, that is, the devil' (Council of Trent). Ignorance of the fact that man has a wounded nature, inclined to evil, gives rise to serious errors in the areas of education, politics, social action, and morals" (*Catechism*, Point 407).
+
+The *Catechism* is saying that this is a profound truth of our nature, that wounded human nature. Therefore we have got to be careful with those wounds, that tendency to do evil, that weakness.
+
+We know a little bit of our weakness, but we don't know all of it. And therefore, we have got to be careful with certain things. Each one of us knows particular things with which we have to be more careful.
+
+There may be situations or external things that other people can handle and manage that maybe we can't. We know we have to be far away from there, fight the battles far away from the walls of the fortress. Certain situations or people or temptations, I can't handle, and therefore I have to flee.
+
+It is interesting how the *Catechism* highlights the serious errors that can be fallen into in those "areas of education, politics, social action, and morals," when it is forgotten that man has a "wounded human nature."
+
+I heard somebody say once that sometimes people forget that they are human. Interesting phrase, we can forget that we are human.
+
+We are subject to every temptation. We are capable of all the more terrible things. Therefore, we have to take all the precautions.
+
+The *Catechism* says, "The way of perfection passes by way of the Cross." We are very much focused on the way of perfection. "There is no holiness without renunciation and spiritual battle" (*Catechism*, Point 2015).
+
+Some spiritual commentators would like to say that Christ without the Cross is a caricature of Christ: a sweet Jesus, a Jesus who is always smiling, a bumper sticker Jesus who never has anything strong to say to anybody, who has no moral message for young people.
+
+That's not the authentic Christ, because Christ is on the Cross. "Spiritual progress entails the ascesis and mortification that gradually lead to living in the peace and joy of the Beatitudes" (*Catechism*, Point 2015).
+
+We know that we have to struggle, that we make mistakes, we have to begin again.
+
+A couple of years ago in the London Olympics, there was a South Korean athlete who won the gold, and the band came to play the national anthem when the athlete was receiving their gold medal, which was the custom. But the band played the national anthem of North Korea instead of South Korea.
+
+And of course that made global headlines all over the world. If there was one mistake they might have wished they would never make, it is such a faux pas as that one.
+
+Of course it is the thing that many people remember from the whole of the London Olympics. All the most terrible mistakes can be made by us and by all sorts of other people.
+
+But therefore we have to watch out, to struggle to try to do the right thing, to double-check very often what we are doing and how we are doing it.
+
+In our apostolate we may have to struggle to come out of our shell, to be a bit more daring, to conquer the things that hold us back.
+
+We might have to struggle in charity, to be more patient, more kind, more cheerful, to be easier to live with, to make life easier for those people around us.
+
+We might have to struggle in our work, to push ourselves a little more, to be more professional, to aim higher, to be more demanding.
+
+A student was asked once, "What subjects are you taking next year?"
+
+The student said, "I am taking Turkish, Music and Architecture."
+
+The person asking the question was a little puzzled and said, "Why? Do you want to be a choir master in a Turkish mosque?"
+
+And they said, "No, it is just that those subjects come at 9, 10, and 11."
+
+Convenience is not the order of the day. We try to have high goals, to see the struggle wanted by God for us: to be a good professional person, to be competent, to be improving that competence all the time. Go out of our way to be a little better.
+
+Not everything we feel is good. Not everything we feel needs to be followed. "The way of perfection passes by the way of the cross." If we find something difficult, that is where God wants us to fight or to struggle, to be a little better in that particular area.
+
+We're told, "The kingdom of heaven is won by violence, by the holy battle of every moment" (*cf*. Matt. 11:12). Again and again, Our Lord comes back to that point of struggle.
+
+"Interior peace," we are told in *The Way*, "is a consequence of \[victory\]. ... Without struggle there is no peace" (*cf*. Josemaría Escrivá, *The Way*, Point 308).
+
+Our union with God requires our free cooperation, struggling to identify ourselves with Christ, and the effort to draw away from the obstacles that impede our union with Him: the world, the flesh, and the devil.
+
+And that struggle, to a large extent, is waged in our heart, because the enemy is within us. Our Lord has told us, "Out of the human heart come all sorts of evil things: envy, jealousy, lust, greed, anger" (*cf*. Matt. 15:19).
+
+These are the things we have to fight with; the tendency to sin. In the order of grace, as in the order of nature, good is not imposed on the will. It is necessary to make an effort to second God's grace, to show Our Lord with our deeds that we are serious, that we want to be better, we want to improve.
+
+And that is shown in the way we use the means, of course, the supernatural means that God has given to us.
+
+If we struggle to overcome the obstacles, if we make good use of the sacraments and the other means Our Lord gives us, in spite of our miseries, then our soul will love what Christ loves, and reject what He objects to, and have a zeal for sanctity.
+
+The soul will live facing God at all moments and circumstances, in our work, in family life, in our rest, in our social relations. "Loving the world passionately" to bring it to Christ (J. Escrivá, *Conversations, Passionately Loving the World*).
+
+Unity of life. The soul will recollect itself to talk with God, following His example: "He went out early in the morning and there he prayed" (Mark 1:35).
+
+The soul learns to refer every event to Him, and to relate to Him with joy, when in need, and when undergoing trials, knowing that Our Lord hears us, sees us, loves us, helps us. "Be still and know that I am God" (Ps. 46:10).
+
+That soul will learn to deal charitably with everybody, practicing the virtues of Our Lord, so that we are able to say with St. Paul, "It is no longer I that live but Christ lives in me" (Gal. 2:20).
+
+The sporting spirit in our struggle will lead us to be optimistic. "The ascetical spirit is not something negative...but a joyful affirmation. ... A good sportsman," we are told in *The Forge*, "doesn't fight just to gain one victory, and that at the first attempt. He has to build himself up for it, training over a long period of time, calmly and confidently. He keeps trying again and again, and if he doesn't succeed at the first attempt, he keeps on trying with determination until the obstacle is overcome" (J. Escrivá, *The Forge*, Point 169).
+
+It may be that at the end of our life, God has great things for us to achieve, but we will only be able to make those great contributions after a lifetime of struggle.
+
+Humility in the struggle is necessary---to start over.
+
+We are told in the *Furrow*, "I am going to summarize your clinical history: here I fall and there I get up. The latter is what matters. ---So continue with that interior struggle, even though you go at the pace of the tortoise. Forward! ---You know well, my child, where you can end up, if you don't fight: one depth \[calls\] another and another" (J. Escrivá, *Furrow*, Point 173).
+
+That's the thing that's worth thinking about sometimes: What will happen to us, where will we end up, if we don't fight? We know we can all end up in an awful mess.
+
+We need to look at the stars, aim high, keep focusing on high things, raise the bar a little bit. Every effort to practice virtue is a manifestation of our love of God: to get our norms done on time, to take care of our weekly sacramental Confession, to make good use of the means of formation, to think apostolically in all moments and sometimes out of the box.
+
+Sometimes Our Lord wants us to struggle when we don't feel like it, and that can be an important thing. We don't function on likes and dislikes. A soldier in battle can't afford to think like that.
+
+We need to function on duty. Any temptations that may come to us about, 'I like, I don't like, I feel like, I don't feel like, I find it difficult, I find it easy, I feel tired, I feel beleaguered.'
+
+We should try and put all those things behind us. Focus on what does God want me to do in this particular moment. Fulfill my duty. Work at the perfection that's in the details, and all sorts of small things. Practice this particular virtue, this moment, an act of unity, an act of sincerity, an act of charity.
+
+The fight may entail controlling our imagination. And stability of soul grows with passing enthusiasms. Stability of soul grows when faced with the difficulties of life or of the environment. Living in the real world: financial problems, health problems, work problems. A frivolous person functions on whim.
+
+As Our Lord has called us to be soldiers, followers of Christ have to go against the current. "Which is stronger, the reed that stands up against the wind or the reed that is bent by the wind?" (*cf*. Aesop's Fables, The Oak and the Reeds).
+
+Any old thing can float downstream. Christ wants us to swim upstream, and in that way to attract others with our prayer and example.
+
+Somebody said once, "Unless you try to do something beyond what you've already mastered, you will never grow" (att. to Ronald E. Osborn). All the time we're looking to new heights, new goals that Our Lord places before us.
+
+We are responsible for the effort, not the outcome. In one of his books, T.S. Eliot says, "Ours is only the trying. The rest is none of our business" (T.S. Eliot, *Four Quartets*).
+
+"Ours is only the trying" to sow this seed, to do this thing that we're asked to do, to be in this place, to read this book, to finish this job, and to do it as best as we can. "Ours is only the trying"---a very important idea in all apostolic undertakings.
+
+We leave the fruit in God's hands. We set the sail; God makes the wind. But He wants us to take those tough pathways. The struggles are all interior ones with our pride, our vanity, our envy, our lack of virtue. We find peace then, as a consequence of our struggles.
+
+A person once told me, "Out of the country, I feel trapped." There might be many situations where a person can feel trapped in this world professionally, financially, health-wise.
+
+The person says, "But I realize that maybe God wants me to feel trapped." Whatever may be happening in our life, we might be in the worst possible position we might be in, but possibly that's where God wants us to be at that moment.
+
+At times when God sweeps the feet from under people and leaves them hanging there, because He wants us to look up, to learn what real faith is, or what real hope is, and to learn the details of a particular virtue that maybe, we hadn't quite grasped before.
+
+It doesn't matter how many times we fail. The important thing is picking ourselves up and beginning again, like Christ on the way to Calvary. He fell down three times. But what was important was that He got up again three times.
+
+Some people that aim at the Olympics, they don't make it, but they don't give up.
+
+And sometimes our failures are the will of God. God may want us to fail at a certain moment. Often, He can teach us more things in our failures.
+
+Our failures can show us what really goes on in our life. It teaches us the importance of getting up again. Maybe it gives us a greater understanding of other people and their weaknesses.
+
+It's good if we can have one little resolution from our examination of conscience each day, to be a little better tomorrow.
+
+St. Gregory the Great says, "It's not enough to want to do things well. We must be ready to accept the consequences, which sometimes are costly, in order to behave as a Christian."
+
+It's very easy to have good intentions. Everybody has good intentions. Somebody said once, "The way to hell is paved with good intentions."
+
+It's not enough to want things. We have to be ready to apply the means, to accept the consequences.
+
+St. Gregory said, "Some wish to be humble, but without being despised; to be happy with what they have, but without suffering need; to be chaste, but without mortifying the body; to be patient, but without having to live up to the discomforts.
+
+"They want to have the virtues but flee from the effort to obtain them. They seem like those who want to enter triumphantly into the city without having fought in the battle" (Gregory the Great, *Morals on the Book of Job*).
+
+Some people may be good at the exterior struggle: wrestling, boxing, struggle on the corporate ladder, all sports. But they may not be so good in the interior struggle.
+
+All the saints that the Church has canonized are like Rudishas and Federers and Messis and Fabregases in the interior life.
+
+Pope Saint Paul VI said, "Indeed, the cultivation of Christian perfection must still be regarded as the richest source of the Church's spiritual strength. It is the means, so peculiarly its own, whereby the Church basks in the sunlight of Christ's Spirit. It is the Church's natural and necessary way of expressing its religious and social activity. It is the Church's surest defense and the cause of its constant renewal of strength amid the difficulties of the secular world" (Paul VI, Encyclical, *Ecclesiam Suam*, Point 38, August 6, 1964).
+
+We are very much involved in "the cultivation of Christian perfection." In the Old Testament it says, "The life of man on earth is a struggle" (Job 7:1).
+
+We can ask Our Lady, that she might help us to struggle a little more in the areas where she has spoken to us: more sincerity with God, more apostolate, more sobriety, more renewal of our dedication every day.
+
+We are told that Our Lady, as soon as she saw what the will of God for her was, "went into the hill country with haste" (*cf*. Luke 1:39).
+
+Mary, may you help us every day to go into the hill country, just as you did.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*MVF*

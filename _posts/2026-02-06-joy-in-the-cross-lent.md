@@ -1,0 +1,163 @@
+---
+layout: homily
+title: "Joy in the Cross (Lent)"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"After Jesus had taken the wine, he said, 'It is fulfilled,' and bowing his head he gave up his spirit" (John 19:30).
+
+Chesterton likes to say that one of the aspects of the cross that is not spoken enough about is the joy of Christ on the Cross (*cf.* G. K. Chesteron, *Orthodoxy*).
+
+The joy that it is fulfilled, it has been accomplished, the will of His Father. And so, on the Cross Our Lord tells us that joy is compatible with mortification and with pain. Joy is the opposite of sadness. It\'s not the opposite of penance.
+
+In the Book of Isaiah it says, "Rejoice with Jerusalem and be glad for her, all you who love her" (Isa. 66:10). Joy is essentially a Christian characteristic. The Church doesn\'t fail to remind us that it should be present at every moment of our lives, in good times and in bad, when we\'re on the top of the mountain and when the wind is against us.
+
+We\'re called to be joyful. There\'s a joy proper to the hope of Advent, and then the joy of Christmas itself, so lively and warm. And as the year advances, there\'s the joy of increasing closeness to the risen Christ.
+
+Today we meditate on the joy of the Cross. It is one and the same joy as that of being united to Christ.
+
+Pope St. John Paul II has said, "Only \[from\] Him can each of us say truthfully with St. Paul, "He loved me and gave himself up for me" (Gal. 2:20). This should be the source of our greatest happiness as well as the source of our strength and support.
+
+"Should we have the misfortune to encounter sorrow, or undergo suffering, or experience misunderstanding, or even to fall into sin, how quickly will our thoughts turn to the One who always loves us, and who, with His infinite love as God, overcomes every trial, fills our emptiness, forgives all our sins, and equally impels us towards a new path that is safe and joyful" (John Paul II, *Address to Students*, March 1, 1980).
+
+The Church reminds us that joy is perfectly compatible with mortification and pain. Taking part to the utmost in this liturgical season which reaches its climax in the Passion, and hence in suffering, we realize that approaching the cross also means that the moment of our Redemption is coming ever closer.
+
+In this way, the Church and each of her children are filled with joy: "Rejoice with Jerusalem and be glad for her, all you who love her" (Isa. 66:10).
+
+The practices of self denial that we try to do in these days of Lent should not cast a shadow over our interior joy. Rather, it ought to increase it, because our Redemption is near at hand; the pouring out of love for mankind, which is the Passion, is coming and the joy of Easter will soon be upon us.
+
+And so therefore, we feel the need to be very closely united to Our Lord, so that our lives may reflect once more the suffering that He underwent for our sake, as well as experiencing real happiness in the attainment of the glory and the joy of the Resurrection through His Passion and His Cross.
+
+There\'s a church in Singapore that is called the Church of the Risen Christ. It\'s an interesting title. It conveys the joy of Christ in His Resurrection.
+
+It\'s not just the joy of Christ, but the joy of the risen Christ. We are an Easter people. We are united to the risen Christ.
+
+Joy has a spiritual origin, arising from a heart that loves and that feels itself loved by God, irrespective of circumstances.
+
+St. Paul to the Philippians says, \"Rejoice in the Lord always; again I say, rejoice!" (Phil.4:4)---and this with a cheerfulness that is real happiness, an interior joy which cannot fail to be shown outwardly as well.
+
+St. Paul VI says, "It is well known that there are different degrees of this 'joy.' Its most noble expression is the cheerfulness or 'happiness' in its strict sense, when someone at the level of his higher faculties finds satisfaction in the possession of a good which is recognized and loved. ...
+
+"All the more reason then, that such a one should experience spiritual joy and happiness, when his spirit enters into the possession of God, who is known and loved as his supreme and immutable good."
+
+He goes on to say, "Technological society has succeeded in multiplying the occasions of pleasure, but finds great difficulty, in giving birth to happiness. For happiness has its origin elsewhere; it is spiritual. Money, comfort, hygiene, material security may often not be lacking; but nevertheless, despite these advantages, boredom, suffering, and sadness are frequently to be found supervening in the lives of many people" (Paul VI, Exhortation, *Gaudete in Domino*, April 9, 1975).
+
+Christians understand these thoughts of the Pope very well. They\'re aware that joy and happiness stem from a heart that knows itself to be loved by God, and which in its turn is madly in love with Him.
+
+It will be a heart that strives to express its love in deeds, since it knows that "deeds are love, not sweet words" (*cf*. Josemaría Escrivá, *The Way*, Point 933).
+
+Even though it knows itself to be that of a sinner, he goes to the source of all forgiveness, to Christ in the sacrament of Penance. Lord, it is with great joy that we offer you the sacrifice that brings everlasting healing.
+
+Suffering and tribulation are inevitably and eventually the lot of everyone on this earth. But suffering of itself neither transforms nor purifies. It could even be a cause of rebellion and hatred. Some Christians abandon Our Lord when they meet the Cross, because they seek a purely human happiness, free from pain and accompanied by material wealth.
+
+Our Lord asks us to lose our fear of pain and tribulation and unite ourselves to Him, as He waits for us on the Cross. Our soul will then be more purified, our love stronger. And we will realize that joy is inseparable from the Cross.
+
+Not only that, but we\'ll also understand that we can never be happy if we\'re not united to Christ on the Cross, and that we will never know how to love if we do not at the same time love sacrifice.
+
+Those tribulations that appear to our human reasoning as unjust and meaningless are necessary for our personal holiness and for the salvation of many souls.
+
+Within the mystery of co-redemption, our sufferings united to those of Christ acquire an incomparable value for the entire Church and for the whole of mankind.
+
+If we humbly have recourse to God, He will make us see that everything, even events and circumstances apparently least likely to do so, "work together for the good of those who love him" (*cf*. Rom. 8:28).
+
+Suffering, when seen in its true light, when it serves as a means for loving more, produces great peace and deep joy. That\'s why God often blesses us with the Cross.
+
+In *The Way of the Cross*, we are told that is how we must travel along "the way of self-giving: the Cross on our shoulders, a smile on our lips, and light in our hearts" (*cf*. J. Escrivá, *The Way of the Cross*, Second Station).
+
+A Christian gives himself or herself to God and to those around them. He makes demands on himself through mortification and in the way he faces up to difficulties. And he tries to do all this most cheerfully, because he realizes that these things lose their value if done under reluctant protest and with complaint. "God loves a cheerful giver" (2 Cor. 9:7).
+
+We shouldn\'t be surprised to find that it hurts to do mortification and penance. What matters is knowing how to set about undergoing and accepting them manfully, in the secure knowledge that they please God, who is watching us.
+
+In the *Furrow*, Point 61, we're told, "'Happy?'---he asks. The question made me think. Words have not yet been invented to express all that we feel---in the heart and in the will---when we know ourselves to be children of God." It\'s only logical that anyone who knows that they are a child of God should feel such inner happiness.
+
+The experience that the saints have handed down to us is unanimous in this respect It\'s enough to recall St. Paul\'s confession to the Corinthians: "I am filled with comfort. With all our affliction, I am overjoyed" (2 Cor. 7:4).
+
+And it\'s useful to remember that St. Paul\'s life was in no way easy or comfortable. "Five times," he said, "I have received at the hands of the Jews the forty lashes less one. Three times I have been beaten with rods; once I was stoned. Three times I have been shipwrecked; a night and a day I have been adrift at sea; on frequent journeys, in dangers from rivers, dangers from robbers, dangers from my own people, danger from Gentiles, danger in the city, danger in the wilderness, danger at sea, danger from false brethren; in toil and hardship, through many a sleepless night, in hunger and thirst, often without food, in cold and exposure" (2 Cor. 11:24-27).
+
+Still, in spite of all of this, St. Paul speaks the truth when he tells us, "I am filled with comfort. With all our affliction, I am overjoyed" (2 Cor. 7:4).
+
+As Holy Week and Easter draw near, so do forgiveness, mercy, divine compassion, and a superabundance of grace. A little while longer and the mystery of our salvation will be consummated.
+
+If at times we\'ve been afraid of penance and atonement, we will be filled with courage at the thought of how short is the time involved and how great the reward, a prize entirely disproportionate to our own little efforts.
+
+So let us cheerfully follow Jesus to Jerusalem, to Calvary, to the Cross. In *The Way of the Cross* we're told, "Is it not true that as soon as you cease to be afraid of the Cross, of what people call the cross, when you set your will to accept the Will of God, then you find happiness, and all your worries, all your sufferings, physical or moral, pass away?" (J. Escrivá, *The Way of the Cross*, Second Station).
+
+We're told in the Psalms, "Let the hearts rejoice to seek the Lord. Seek the Lord and his strength, seek always the face of the Lord" (Ps. 105:3-4).
+
+When we don\'t seek the Lord, then we\'ll find that real happiness is unattainable. Sadness springs from egoism, from the pursuit of comfort, from careless neglect in the things of God and of our fellow men. In short, it springs from living for ourselves.
+
+But Our Lord made us to be happy. He wants us to be even more joyful when we follow His call.
+
+That\'s where the Book of Joel says, "Fear not, O land; be glad and rejoice, for the Lord has done great things! Be glad, O sons of Zion, and rejoice in the Lord, your God, for he has given the early rain for your vindication, he has poured down for you abundant rain, the early and the latter rain, as before" (Joel 2:21,23).
+
+Joy is indispensable to a Christian\'s life. When the soul is joyful, it has wings to fly towards God. A happy soul is closer to God and is able to undertake works of service for other people.
+
+By contrast, sadness paralyzes one\'s desires for sanctity sand apostolate. It\'s a great evil because it clouds our vision.
+
+That\'s why St. Paul repeats his injunction to the early Christians: "Rejoice in the Lord always; again I say, rejoice!" (Phil. 4:4).
+
+Our Christian joy will prove to be a source of strength in times of trial. It will also serve to attract other people to the faith.
+
+Sadness does not come from suffering itself, but from the failure to look \[upon\] Jesus. St. Thomas teaches us that this infirmity of the soul is a vice provoked by disordered self-love. In addition, it can lead to many other problems (*cf.* Thomas Aquinas, *Summa Theologiae*, 2-2, Question 28).
+
+It can be likened to a diseased root which will produce only bitter fruit. Sadness can be the cause of lack of charity, of a reckless love of comfort, of a surrender to temptations of the senses.
+
+St. Josemaría in the *Furrow* says, "You need a heart which is in love, not an easy life, to achieve happiness" (J. Escrivá, *Furrow*, Point 795).
+
+Happiness is the first effect of love. Sadness is the sterile fruit of egoism, laziness, and the absence of love.
+
+St. Gregory the Great says, "Sadness moves the soul to anger and fury. Whenever we are sad, we know how easy it is for us to become upset at the slightest provocation. Sadness also inclines us to be suspicious and spiteful. Sometimes it may even lead a person, to lose their senses" (Gregory the Great, *Morals*).
+
+The sad soul falls into sin without a fight. Such gloominess is a sure road to destruction. The Book of Proverbs says, \"As the moth does by a garment, and a worm by the wood, so the sadness of a man consumes \[the\] heart\" (Prov. 25:20).
+
+If there should come a time when we experience this sickness of soul, we should examine our conscience with courage. Where have I placed my heart? We\'re told in Scripture, "'Let the hearts of them rejoice who seek the Lord' (Ps. 105:3). There you have light to help you to help us discover the reasons for your sadness" (J. Escrivá, *The Way*, Point 666).
+
+The law of love is also the law of joy. The virtue of joy is "not distinct from charity," says St. Thomas, "but a certain act and effect of it" (Thomas Aquinas, *Summa Theologiae*, 2-2, Question 28).
+
+Our joy and our good humor, whether in calm seas or in rough, constitute a trusty barometer of our union with God. How difficult it is to become sad when we walk in the presence of Our Father God, when we are generous in the face of great sacrifice.
+
+If we\'re truly seeking the Lord in our life, nothing can take away our peace and joy. Pain will act to purify the soul, and suffering itself will be transformed into joy.
+
+Many people labor under the delusion that they will find greater happiness once they possess a "sufficiency" of things, once they achieve popularity or are more admired.
+
+They\'ve forgotten that all they need is to have their heart in love. No love can ever fill our heart like the love of God. It\'s what our hearts were made for.
+
+All noble love acquires its true meaning, in the context of a radical love for the Lord above all things.
+
+He who puts his heart to the things of this world will not find the love Jesus promised to His own. This is because the worldly person does not know how to love in the deepest sense of the word.
+
+"Love," says St. Teresa, "has its greater power when it\'s perfect. Then we forget our own feelings for the sake of the one we love. If this is really the case, if we seek only to please God, then even the greatest trials will be made sweet" (Teresa of Ávila, *Foundations*). All trials and tribulations become easy to bear with the help of Our Lord.
+
+In the Psalms, we're told, "My God is the rock where I take refuge; my shield, my mighty help, my stronghold. ... I love you, Lord, my strength" (Psalm 18:2,1).
+
+We will find strength in God. We\'ll also find our joy and peace there in the Lord. We should have recourse to the Lord personally each day. Much, indeed everything, depends on our friendship with Him.
+
+May we try and bring this joy and peace to those whom God has placed at our side. Our home should be "bright and cheerful" like that of the Holy Family (J. Escrivá, *Christ Is* *Passing By*, Point 22).
+
+When some people say that a home seems like hell, we can immediately think of a home without love, without joy, without Christ. A Christian home should be cheerful because Christ is at its head.
+
+Being disciples of Christ means that we are living those human and supernatural virtues that are intimately tied up to joy: to generosity, to cordiality, to the spirit of sacrifice, to sympathy, to concern for making life pleasant for others.
+
+We should try to bring our joy to the place where we work, to our business associates, to people we meet by chance on the street. Many of those people may be sad and troubled, We should try and help them to see the joy of living in God. Many souls have found their way to God by means of this attractive virtue.
+
+Christian joy is also necessary for the proper fulfillment of our ordinary obligations. The more important our duties, the more important \[it is\] that our attitude should be one of Christian joy.
+
+When we have responsibility for others, then we have a duty to communicate this joy. Such is the case with parents, spiritual directors, teachers. The smiling face of the Lord should shine through our life and works.
+
+His perfect peace was shown during His Passion and Death. Precisely when we find our struggle the more taxing, \[that is when\] we must turn to the poignant example of the Master.
+
+Let us turn to Our Lady, cause of our joy. Ask her to help us to find that joy that\'s there in every cross that God may permit in our life.
+
+She will lead us to the path of true peace and joy if ever we lose our way. We\'ll then understand that the path to joy is the same as the path to God.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*EW*

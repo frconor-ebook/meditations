@@ -1,0 +1,183 @@
+---
+layout: homily
+title: "Reading the Signs"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+It is said in St. Luke, "Are you the one who is to come, or shall we look for another?" (Luke 7:19). Our Lord makes Himself known to us by giving sufficiently clear signs.
+
+The Gospel presents to us two of John\'s disciples. They ask Our Lord that question, "Are you the one who is to come, or shall we look for another?" There must have been some important doubt lurking in their minds.
+
+"In that hour he cured many who had diseases, and plagues, and evil spirits. And on many that were blind, he bestowed sight. Then he replied to those who had been sent, 'Go and tell John what you have seen and heard. The blind received their sight. The lame walk. You do not have to look for another. I am the Lord, and there is no other'" (Luke 7:19-23).
+
+He brings us the happiness we\'re hoping for. He satisfies all the aspirations of the soul. Thomas à Kempis says, "He who finds Jesus finds a good treasure, and he who loses Jesus loses a great deal, more than if he had lost the whole world. He who lives without Jesus is poor indeed. And he who is with Jesus is rich indeed." So, there\'s nothing greater to search for.
+
+Our Lord comes as the "hidden treasure" (Matt. 13:44), as the "pearl of great value," whose value we must learn to appreciate (Matt. 13:45-46). He\'s hidden from the eyes of men who are waiting for Him. He was born in a stable, and some simple shepherds are the first to adore Him.
+
+It was the simplicity of these men that would enable them to see the Child who had been announced to them. It enabled them to surrender themselves to Him and to adore Him.
+
+Others who find Him are the Magi, Old Simeon, who was looking "for the consolation of Israel" (Luke 2:25) and the prophetess Anna.
+
+And John himself, who points Him out: "This is the Lamb of God..." (John 1:29). Likewise did a good number of His disciples and all those who throughout the centuries have made their whole lives revolve around Him. Many have given their lives for Him.
+
+We too have found Him and this discovery is the most extraordinary part of our poor existence. Without Our Lord, our lives would be worthless.
+
+There was a kindergarten teacher who was praying and teaching her students a Psalm that says, "The Lord is my shepherd, I shall not want. Fresh and green are the pastures where he gives me repose. Near restful waters, he leads me to revive my drooping spirit (Ps. 23:1-3).
+
+And then she asked her class if somebody might be willing to come and recite the verse to see if they could remember it. They were four-year-old kids.
+
+One little girl went up to the top of the class and she began to recite it. And she said, "The Lord is my Shepherd, that is all that I want."
+
+And so, without Our Lord, our lives would be worthless. He makes Himself known to us with clear signs. We don\'t need any more proof to see Him. We don\'t need extraordinary events and miraculous events. He\'s there in the ordinary things of each day. And God always gives us sufficient signs to discover Him.
+
+But what we do need are good interior dispositions to see Our Lord who is passing by alongside us. Without humility and purity of heart, it\'s impossible to recognize Him, although He may be very close.
+
+''Blessed are the clean of heart, for they shall see God'' (Matt. 5:8). We can ask Our Lord now in our prayer for good interior dispositions and for supernatural outlook, so that we may find Him in the things around us---in nature itself, in suffering, in work, in what appears to be a failure. Our own personal history is full of signs, so that we do not mistake the way.
+
+When we look back, very often we can see that 'it was the hand of God that was guiding me in that moment.' We too will be able to say to our friends or our family, "We have found the Messiah," with the same certainty and conviction as that which Andrew told his brother Simon (John 1:41).
+
+For all of this, we need supernatural outlook, which is to see things as God sees things, to understand the happenings in our life and the events around us.
+
+Lord, help me to see things as you see them. Teach me to interpret and to judge events from the angle of faith, because it is only in this way will we understand our lives and the world around us.
+
+Sometimes we might hear people say, "If only God would work a miracle, then I would believe. Then I would take Him seriously."
+
+Or, "If God gives me more convincing proofs of my vocation, I will give myself to Him completely and without reserve."
+
+Our Lord gives us sufficient light to follow the way, light in our souls, and light through the people He has placed beside us. But our will, if it\'s not humble, has a tendency to ask for new signs; and even then, we want to judge whether or not they were sufficient.
+
+And sometimes this sincere desire for further proof, before making the decision to give oneself more fully, can hide a type of laziness or conceal a lack of correspondence to grace.
+
+At the beginning of one\'s call to the faith or to one\'s vocation, God generally lights a little lamp, which illuminates just the first steps that we have to take. Beyond these first steps is darkness.
+
+But as we correspond with deeds, so the light and the certainty become greater. We come to be more aware of the divine nature of the path along which we are walking. And so, God always shows Himself clearly to a soul which is sincere and humble and is seeking the truth.
+
+Our Lord tells the disciples, "Go and tell John what you have seen" (Luke 7:22).
+
+God has to find us with that humble disposition which is fully authentic, and which excludes preconceived ideas and enables us to listen. God\'s language, although adapted to our way of being, can be difficult to accept at times, because it goes against our plans or our fancies.
+
+Sometimes His words may not precisely be the ones we were expecting or the ones we wanted to hear. Yet we know the Holy Spirit is there.
+
+Sometimes the atmosphere of materialism which surrounds us can present us with false reasons, contrary to the language by which God Himself makes Himself known.
+
+And then it\'s like listening to two different languages: God\'s language and the world\'s language, the latter presenting us with reasons which are apparently more human. But Our Lord wants us to function on a supernatural plane, with supernatural outlook.
+
+That is why the Church invites us to pray, "Almighty and Merciful God, grant that the anxieties of this life may not impede us as we hasten to meet your Son. Fill us instead with your heavenly wisdom, that we may come to be united with him" (*Collect*, Sunday of the Second Week of Advent).
+
+Our Lord says, "You do not have to look for another." Jesus Christ is among us and He calls us.
+
+In *Friends of God* we're told, "Behind him on this earth of ours he has left the clear outlines of his footprints. They are indelible signs which neither the erosion of time nor the treachery of the evil one have been able to erase.
+
+"'Christ is the same, yesterday, today, and forever.' How I love to recall those words! Jesus Christ, the very Jesus who was alive yesterday for his apostles and the people who sought him out; this same Jesus lives today for us and will live forever. Yet, at times, we poor men fail to recognize his ever-present features, because our eyes are tired and our vision clouded" (Josemaría Escrivá, *Friends of God*, Point 127).
+
+So, like the blind man in the Gospel, we could say, "Lord, let me see" (Mark 10:51). Let me see your signs, let me see and hear you speaking to me. Help me to get the message and help me to have the right dispositions always, so that I catch the message.
+
+Sometimes God shouts, but sometimes He speaks in a whisper, maybe to listen to Him very closely, to catch not just the message, but the nuances of the message, because that message may be very important.
+
+It was with clouded vision and lack of faith that the fellow countrymen of Jesus looked at Him the first time He went back to Nazareth. "Is this not the carpenter, the son of Joseph?" (Matt. 13:55). That\'s all he is.
+
+In the end, they rudely turned Him away. They couldn\'t see any deeper. They could not discover the Messiah who was visiting them.
+
+But we want to see the Lord. We want to get to know Him, love Him, and serve Him. We want to make this the primary objective in our life.
+
+So as we enter into the stable in Bethlehem, we can ask for that grace to see a little deeper and to help everyone around us---our family members, friends, and relations---to enter also into that stable in Bethlehem, so that they too can see and hear the signs of Our Lord speaking in their life.
+
+As well as the signs that Our Lord gives to each one of us, in our soul, in our heart, and through external people around us, Our Lord has told us that there will be signs that will accompany His second coming. And the season of Advent also prepares our souls for that expectation. And Christ will come at the end of time.
+
+We're told in St. Luke, "Then the world will see the Son of Man coming in a cloud with power and great glory" (Luke 21:27), to judge the living and the dead in a universal judgment.
+
+"Before the coming of the new heavens and the new earth, in which righteousness dwells," says St. Peter (2 Pet. 3:13).
+
+*Lumen gentium* of the Second Vatican Council says, "Meanwhile the pilgrim Church, in its sacraments and institutions which belong to this present age, carries the mark of this world which will pass, and she herself takes her place among the creatures, which groan and in travail yet, and await the revelation of the sons of God."
+
+And so, Christ will come as the Redeemer of the world, as King, and Judge, and Lord of the whole universe.
+
+He\'s told us He will take men by surprise as they busy themselves about their own affairs. He won\'t give any warning of the imminence of His coming. "For as the lightning comes from the east and shines as far as the west, so will the coming of the Son of Man be" (Matt. 24:27).
+
+Men both good and evil, living and dead, will gather to him; all men will turn irresistibly towards Christ triumphant, some attracted by love, others forced by justice, we are told in St. Matthew (*The Navarre Bible*, Commentary).
+
+Then there will appear in heaven "the sign of the Son of Man---the Holy Cross" (Matt. 24:30). That Cross so often despised, says St. Paul, so often abandoned; "a stumbling block to Jews and folly to the Gentiles" (1 Cor. 1:23) which had been considered as something senseless.
+
+That cross will appear before the astonished gaze of men as a sign of salvation. Christ will show Himself in all His glory to those who have rejected Him, in His person and His Church. He will show Himself to those who, not satisfied with rejecting Him, persecuted Him, to those who lived without ever coming to know Him.
+
+He will also show Himself to those who loved Him with deeds. The whole of humanity will realize that "God has highly exalted him and bestowed on him the name that is above every name, that at the name of Jesus, every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father" (Phil. 2:9-11).
+
+And then, we will consider as well used, all our effort, all those good works that we did for God, although perhaps nobody in this world was aware of them.
+
+And then we will feel great joy, as we see that Cross which we tried to seek out throughout our lives, that Cross that we wanted to place at the summit of all the activities of men.
+
+And we'll have our joy of how we played our part as good servants in the kingdom of that King, Jesus Christ, who now appears filled with majesty, in all His glory.
+
+"And he will send out his angels with a loud trumpet call, and they will gather his elect from the four winds, from one end of heaven to the other" (Matt. 24:31).
+
+All men since Adam will be there. And now they will all understand, with complete clarity, the value of self-denial, of sacrifice, of surrender to God and other people.
+
+At Christ\'s second coming, the honor and glory of the saints will be publicly made known, for of these, many died unknown, despised, and misunderstood, and now they will be glorified in the sight of all.
+
+The spreaders of heresy will receive the punishment that they accumulated throughout the centuries, as their errors passed from one person to another and were an obstacle that prevented many from finding salvation.
+
+Likewise, those who gave the faith to other souls and inflamed others with the love of God will receive the reward for the fruits that their prayer and sacrifice produced down through the ages.
+
+They will see the results that the good that each one of their prayers, their sacrifices, and their vigils produced.
+
+We will see the true value of men considered as wise, but in fact teachers of error, which may be for many generations surrounded with praise and esteem.
+
+We will see the value of others who were relegated to oblivion when they should have been highly esteemed and heaped with honors. It is then that these forgotten men and women will receive the reward for their work, which the world denied to them.
+
+St. Paul in Thessalonians says, "The judgment of the world will serve for God\'s glorification (*cf*. Thess. 1:10). Then will be revealed His wisdom in His government of the world, His goodness and His patience with sinners, and above all, His retribution of justice."
+
+The glorification of the God-Man, Jesus Christ, will culminate in the exercise of His judicial power over the universe.
+
+St. Thomas says the particular judgment of individuals will not be revised or amended in the universal judgment, but it will be confirmed and made known publicly.
+
+In the universal judgment, each man will be judged in the sight of the whole human race and as a member of human society. Their reward and punishment will complement each other as they are extended to the body after its resurrection.
+
+Before Our Lord\'s second coming in glory, each one\'s particular judgment will take place immediately after death.
+
+*Gaudium et spes* of the Second Vatican Council said, "It is in regard to death that man\'s condition is most shrouded in doubt. Man is tormented not only by pain and by the gradual breaking up of his body but also, and even more, by the dread of forever ceasing to be.
+
+"But a deep instinct leads him rightly to shrink from and to reject the utter ruin and total loss of his personality. Though he bears in himself the seed of eternity, which cannot be reduced to mere matter, he rebels against death."
+
+Revelation teaches us that death is a step, a passage to eternal life. Between life here on earth and eternal life, a particular judgment of each one will take place.
+
+This will be carried out by Jesus Himself, when each one will be judged according to his works, "for we must all appear before the judgment seat of Christ, so that each one may receive good or evil, according to what he has done in the body" (2 Cor. 5:10).
+
+Nothing will fail to be presented to the divine tribunal: thoughts, desires, words, actions, omissions. Sometimes some of our greatest sins may be omissions, things we could have done and didn\'t do; things we neglected.
+
+Each human act will then acquire its true dimension---the dimension it has before God, not that for which it had before men.
+
+There will appear all the thoughts, imaginations, and desires, all those internal weaknesses that perhaps it\'s difficult for us to recognize now.
+
+Christ "will bring to light the things now hidden in darkness and will disclose the purposes of His Heart," we\'re told in St. Paul (1 Cor. 4:5).
+
+The words that we may have used to prop up our own excellence; at others as the instrument of lies; sometimes a lack of understanding, charity, or justice.
+
+And we will be judged too by our deeds. "I was hungry, and you gave me food" (*cf*. Matt. 25:35).
+
+These days can be good days to think of corporal works of mercy, and how we can try to carry them out and involve our children in them, so that they learn more things.
+
+Christ will look at our lives, examining how we have behaved towards Him and towards our fellow men. All the opportunities that we had to do something for other people will appear very clearly.
+
+Each of our days is full of possibilities for doing good, in whatever circumstances we may be. It would be sad if our life was a great avenue of wasted opportunities.
+
+All this could happen through letting negligence, or laziness, or comfort-seeking, or selfishness, or a sort of lack of love, creep into us.
+
+However, for those of us who are close to Him throughout our lives, Jesus Christ will not be a judge who is a stranger to us, because we try to serve Him every day in our existence on earth. We can be intimate friends of He who has to judge us. That friendship must increase each day that passes.
+
+We\'re told in *The Way*, "'I was amused to hear you speak of the "account" that Our Lord will demand of you. No, for none of you will he be a judge---in the harsh sense of the word; he will simply be Jesus.' These lines, written by a good bishop, have consoled more than one troubled heart, and could well console yours" (J. Escrivá, *The Way*, Point 168).
+
+The daily examination of conscience and the practice of frequent Confession are very important means of preparing each day for that definitive meeting with Our Lord, which will take place, perhaps sooner than we expect.
+
+They\'re also excellent means of preparing for this new meeting with Our Lord at Christmas, which is coming close. "Come, Lord Jesus, and do not delay" (*Collect*, Morning Mass of December 24).
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*BWM*

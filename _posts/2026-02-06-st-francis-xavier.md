@@ -1,0 +1,143 @@
+---
+layout: homily
+title: "St. Francis Xavier"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+Today is the Feast of St. Francis Xavier. "Go you, therefore, teach all nations" (Matt. 28:19).
+
+St. Francis Xavier was born in the castle of Xavier in Spain on the 7th of August 1506. He studied in Paris, where he met St. Ignatius of Loyola, and he became one of the first members of the Society of Jesus.
+
+After being ordained a priest in Rome in 1537 he was primarily occupied with carrying out works of charity. In 1541, he left for the Orient. For ten years, he worked tirelessly to evangelize India and Japan, where many were converted to the faith. He died in China in 1552.
+
+When he arrived in 1549 in Japan, he played a key role in the early spread of Christianity. His missionary work included preaching in a place called Hirado in the northwest of present-day Nagasaki Prefecture, where Christianity took root firmly and "hidden Christians" preserved the faith during centuries of prohibition.
+
+Today, Hirado is home to numerous historic churches, testifying to the enduring influence of the early missionaries. He arrived on Hirado in 1550, and this marked a major historical turning point for that remote island as it developed into a center for Christianity in Japan.
+
+He had first landed in a place called Kagoshima in 1549 before moving to Hirado, spending a total of two years and three months preaching Christianity in Japan.
+
+In 1920, researchers from Kyoto Imperial University in Japan made a miraculous discovery. They found a locked chest---seemingly unopened for centuries---tied to a beam in the ceiling of an old house.
+
+When they opened it, they discovered a small collection of Christian artworks and texts. These were rare survivors from those early European missions which sought to convert the Japanese people. That whole effort dramatically came to an end in 1614 when the Tokugawa government outlawed Christianity and expelled all European missionaries.
+
+The two paintings in the chest---likely created by unknown Japanese Christian artists---depicted the Fifteen Mysteries of the Rosary, and also St. Francis Xavier, who was the first Catholic missionary. The box contained no documentary records that could tell when this image of Francis Xavier was created, where or who it was made for, or how it was used.
+
+Even though many of the basic facts about the painting remain the subject of debate, it\'s clear that the painting is an invaluable record of cultural, religious, and artistic interaction between Europe and Japan in the early modern period.
+
+When St. Francis Xavier arrived in Japan in 1549, religiously, he struggled due to his lack of knowledge of the Japanese language and also his inaccurate understanding of Japanese Buddhism and Shintoism.
+
+But he laid the foundation for a successful mission that continued to grow after he left Japan, and when he returned to India two years later. Scholars have estimated that something like 300,000 people converted to Christianity over the next fifty years.
+
+However, that early period ended when the government in 1614 outlawed the religion, beginning a period of persecution that resulted in the torture and execution of more than a thousand Japanese Christians and European missionaries. At that time, all Christian churches that had been built in Japan were destroyed, along with the works of art that had decorated them.
+
+There\'s a Marist missionary priest called Father Paul Glynn who has written several very beautiful books about evangelization in Japan; one of them called *The Song of Nagasaki*, and several others as well. He\'s also written a modern history of Lourdes. Very interesting works.
+
+And even though the Christian religion was outlawed, a sizable portion of Christians managed to continue the practice of their faith, despite the constant danger of detection by government officials. Christian works of art played an important role in helping them to maintain their Christian devotions.
+
+They maintained the faith for a number of centuries without any priests, with little formation, passing it on from family to family, until new missionaries arrived a couple of centuries later.
+
+The work of St. Francis Xavier yielded abundant fruits. We can use this feast day to think of the apostolic aspect of our own Christian vocation. We are all called to be missionaries in the place where God has placed us.
+
+"What does it profit a man," Our Lord said in St. Mark, "to gain the whole world but to forfeit his own soul?" (Mark 8:36).
+
+What can all the treasures of life be worth if we let what is most essential in it pass us by? What good can success and applause, triumphs and rewards be, if at the end of it all we do not find a welcome by Jesus, who will be awaiting us? Our whole life would then have been a waste, our most precious time would amount to nothing, and the total of all our efforts would add up to the most devastating kind of failure.
+
+Francis Xavier appreciated the value of his immortal soul, and that of others, ever since Christ became the true center of his life. Since then, John Paul II said in 1982, zeal for souls became "a *dominant passion* for him" (John Paul II, *Address,* November 6, 1982).
+
+We can ask Our Lord on this day that we might have a true missionary zeal, wherever we may be. We might not be called to travel to Japan like Francis Xavier was, under difficult circumstances with little means, but we might be called to live out that missionary zeal in the place where God has called us.
+
+One writer says, "In his own heart, Francis Xavier experienced a pressing concern for souls, and he was ready to give his very life to Christ to win their salvation" (Felix Zubillaga, *Letters and Writings of St. Francis Xavier to St. Ignatius*).
+
+We find a great apostolic zeal burning in his heart. When he wrote to St. Ignatius from Japan, he talked about his task of evangelization in the Far East: "\...deprived of priests," he says, "the natives barely realize that they are Christians. There is no one to celebrate Mass for them and no one to teach them the Creed or the *Our Father*\...Therefore, since arriving here, I haven\'t had a moment\'s rest.
+
+"I spend my time going from village to village, baptizing the children who have not yet received the sacrament. So far, I\'ve purified an enormous number of children who, as they say, did not even know their right hand from their left. These little ones won\'t allow me to pray the breviary until I\'ve taught them some prayer" (Liturgy of the Hours, *From the Letters of St. Francis Xavier to St. Ignatius*).
+
+So, Francis Xavier pondered the vast panorama of people who have no one to speak to them about God. That apostolic aspect of our Christian vocation continues to be enormously relevant. The words of the Lord continue to be relevant today, satisfying minds and hearts who are hungry to hear them:
+
+"The harvest indeed is great, but the laborers are few" (Matt. 9:37), we read in today\'s breviary.
+
+"Many around here are not Christians simply because no one is available to teach them how to practice their faith. I have often had the desire to visit the universities of Europe, especially the one in Paris, and shout like a madman so as to provoke those who have more knowledge than charity: How many souls may be excluded from heaven on account of their negligence!" (*ibid*.).
+
+If men and women were to apply the same fervor they apply to their studies to the salvation of souls, all of us would be able to account for the talents God has entrusted to us. Many would be moved, through meditation on supernatural reality, to leave off their strictly human ambitions and listen to the voice of God within.
+
+He\'s calling them to complete dedication to the will of God. Many are in conditions that would enable them to say, "Lord, here I am, what would you have me do? Send me wherever you want" (*ibid*.).
+
+We could ask that our hearts would be inflamed with that same ardent concern for souls. Ordinarily, the Lord wants us to practice this virtue right amid our everyday circumstances---in our family, at work, and with our friends and acquaintances.
+
+St. Josemaría writes in *The Way*, "A missionary. You dream of being a missionary. You vibrate like a Xavier, longing to conquer an empire for Christ---Japan, China, India, Russia; the peoples of Northern Europe, or of America, of Africa or Australia! Foster that fire in your heart, that hunger for souls. But don\'t forget that you\'re more of a missionary when you are simply obeying. Geographically far away from those apostolic fields, you work both here and there. Don\'t you feel your arm tired---like Xavier\'s---after administering Baptism to so many?" (Josemaría Escrivá, *The Way*, Point 315).
+
+We can still encounter many people in our ordinary circumstances---in our social milieu, in our school, in our university---who are still living far removed from the warmth and the glory of faith.
+
+"And Our Lord said, 'Go into the whole world and preach the Gospel to every creature'" (Mark 16:15).
+
+Every Christian needs to feel urged by Our Lord to fulfill Christ\'s command with courage and daring in the ordinary circumstances of his or her life. "We Christians," John Paul says, "are called to be apostolically daring, with our confidence firmly placed in the Holy Spirit" (John Paul II, Encyclical, *Redemptoris Missio*, Point 30, December 7, 1990).
+
+We might find that many around us who are baptized live as though Christ had not redeemed them, as if He were not truly present in our midst every day. We can continue to ask Our Lord to help us to look around us again, to cast a greater missionary and apostolic glance at the people around us.
+
+Many may be going about their lives like those who drew down the compassion of Jesus, crowds "who were bewildered and dejected, like sheep without a shepherd" (Matt. 9:36). They go on and on without any specific aim in life, disoriented, and wasting their precious time, since they have no sense of direction.
+
+Like Our Lord, we too can be filled with compassion for those people. Though at times they might seem---humanly speaking---happy and successful, they fail in the worst way possible because they do not behave as, nor are they even aware of being, children of God on a journey to the eternal home of the Father.
+
+We cannot let the eternal salvation of anyone be at risk due to our lack of apostolic spirit. And we have the great example of the great missionaries who\'ve gone before us, who blazed a trail, who\'ve left everything to follow Him, who\'ve given their lives.
+
+We are called to share our faith and zeal for souls in a similar way. These souls in their turn can become, hopefully, apostles of the Good News that Christ has left us.
+
+In a thousand and one ways, in the many details of our everyday life, we need to echo those words of John Paul II when he spoke in the birthplace of St. Francis Xavier: "Christ needs us. He calls you to help a great many of your brothers and sisters to be saved and fulfill their humanity." It\'s a call to live our life "according to upright and noble ideas" (John Paul II, *Address*, November 6, 1982).
+
+How important it is that we transmit those ideas to young people and help them to embrace the values and ideas of Christ. In another venue, John Paul II says, "Do not give in to the temptation of hedonism, to the hate and violence that degrade humanity. Open your heart to Christ, to his law and his love, without putting conditions on your availability, and fearing to make a lasting commitment, because love and friendship have no limits since they are everlasting" (*ibid*.).
+
+When we look at our commitment of Xavier, how he went to the other side of the world, how he faced challenges, broke down barriers, and learned how to progress in this business of evangelization, we can learn many things.
+
+If you are ever unable to convince your relatives and friends to take part in this divine adventure, the most joyful undertaking of all, let us consider how Ignatius won over the young student Xavier for the work of the Lord.
+
+We\'re told in *The Way,* "Reasons? What reasons could the poor Ignatius have given to the wise Xavier?" (J. Escrivá, *The Way*, Point 798).
+
+In that relationship we see something of the friendship and confidence that we often hear about: two university students, one talking to the other, one firing up the other with the greatest ideals possible. And in the past few centuries, literally they have changed the face of the earth.
+
+The means that Ignatius had, and the reasons, there must have been very few, to bring about so profound a change that was going to take place in the soul of his friend and on the face of the earth.
+
+But he was the instrument of the Holy Spirit. And we know that when we do apostolate with our friends or talk to them or try and bring them closer to God, the Holy Spirit is working in us and through us.
+
+Prayer brought about this conversion. Our apostolate begins in our prayer. "In the first place, prayer. In the second place, mortification. In the third place, very much in the third place, action" (J. Escrivá, *The Way*, Point 82).
+
+We are called to be daring like Ignatius was, to lay great horizons for the people around us, to confide always in Our Lord\'s grace and the help of Our Lady and our guardian angels.
+
+In the *Prayer after Communion* of today\'s Mass, it says, "Let us ask the Lord to enkindle in our hearts the ardent love of God that inflamed St. Francis Xavier in his zeal for the salvation of souls."
+
+May we never fail to have recourse also to Our Lady, that we may draw many others to Christ, so that they too might become apostles of the Lord. If we stay close to Our Lord in the Blessed Sacrament, our thoughts revolve around Him, and He will ensure that all of our efforts are immensely fruitful.
+
+Like many saints, Francis Xavier used to ask those he wrote to for the help of their prayers, because effective apostolate is always founded on personal prayer and sacrifice, on the petition of others.
+
+We have to keep in mind, especially if our situation impedes our carrying out a direct apostolate, that our prayer, our work well done, and our sufferings are always effective in this regard. We don\'t know how God is using our patient endurance of an illness, or some setback, some heartbreak, in order to bring forward His plans on this earth.
+
+Imagine how St. Francis Xavier must have had to begin and begin again. How many times he wouldn\'t have been understood, how people would not have grasped what he was talking about? But in the long term, incredible mustard seeds of faith were sown that were to last centuries. All those contradictions were part of God\'s plan.
+
+Like St. Francis, St. Thérèse of Lisieux lived an apostolic life that was very intense. She was a great intercessor for the missions---very active, in spite of the fact that she never left her convent.
+
+Her concern for the salvation of souls, including those furthest off from the faith, was always vigorous. She experienced the words of Christ from the Cross---"I thirst" (John 19:28). She experienced this in her heart. She burned intimately with prayer, and through her effective desire to bring grace to souls in the most far-flung regions of the globe. She was thinking and offering everything for souls.
+
+And she writes, "I so desire, my Love, to travel the length and breadth of the earth, preaching your name and planting the hope of your glorious cross in pagan territory. Furthermore, one mission alone would not be enough for me. I would want to spread your Gospel throughout the world all at once, including the most distant lands. I would want to be a missionary, not just for a few years, but from the time of the world\'s creation until the consummation of the world itself" (St. Thérèse of Lisieux, *Autobiography of a Soul*).
+
+At the end of her life, when taking a short walk while she was gravely ill, a sister nun saw her fatigue and recommended that she rest. Therese responded to her concern, "Do you know what gives me strength? I\'m walking for the benefit of a missionary. I believe there is one working far away, on the verge of collapse on account of his apostolic undertakings. To lessen that fatigue, I offer my own to God" (*ibid*.).
+
+Our zeal for souls needs to be vitally active at every moment. Not even sickness, old age, or isolation can ever excuse us from this.
+
+Through the Communion of Saints, we\'re able to strengthen other souls around us. And this effectiveness depends on the extent of our love for God. Our entire life, up to our last breath on earth, can be a means of helping to prompt souls towards everlasting life.
+
+This was precisely the case of the life of St. Francis. He died somewhere off the coast of China while offering every moment of his suffering in petition to Our Lord to bring the Good News of Christ to those far-off places. He was buried for a while in Malacca and Malaysia, and then later reinterred in Goa in India.
+
+It\'s a constant reminder to us that no prayer, no sacrifice of ours offered for love, will ever be lost. By the mercy of God, every act of ours can be supernaturally fruitful, in a mysterious but real way. One day in heaven we will see the results of all our efforts and those will fill us with overflowing happiness.
+
+Mary, Queen of Apostles, Queen of Heaven, may you help all those souls that we sow to yield an abundant fruitfulness.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*CPG*

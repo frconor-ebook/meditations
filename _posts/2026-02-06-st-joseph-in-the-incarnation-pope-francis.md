@@ -1,0 +1,185 @@
+---
+layout: homily
+title: "St. Joseph in the Incarnation (Pope Francis)"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"And Joseph too went up from Galilee, from the town of Nazareth, to Judea, to the city of David that is called Bethlehem, because he was of the house and family of David, to be enrolled with Mary, his betrothed, who was with child" (Luke 2:4-5).
+
+The Holy Father has recently proclaimed this coming year \[December 8, 2020 to December 8, 2021\] as a year of St. Joseph, and that gives us an opportunity to focus a little more on this great personality that God chose to be the foster father of His Son on earth.
+
+Joseph teaches us that "faith in God includes believing that he can work even through our fears, our frailties, and our weaknesses" (Pope Francis, Apostolic Letter, *Patris corde*, Point 2, December 8, 2020). Joseph must have had no idea of what that journey to Bethlehem was going to bring. But he teaches us also that amid the tempests of life, we must never be afraid to let the Lord steer our course. At times we want to be in complete control, yet God always sees the bigger picture.
+
+Pope Francis, in this beautiful document on St. Joseph, has given us many rich ideas on which to contemplate the Holy Patriarch during this time, and enter a little deeper into our relationship with him whom \[St. Josemaría\] used to call "the master of the interior life" (Josemaría Escrivá, *Christ Is Passing By*, Point 56).
+
+It is a very good time for us to go to Joseph. The Holy Father continues, "As he had done with Mary, God revealed his saving plan to Joseph. He did so by using dreams, which in the Bible and among all ancient peoples, were considered a way for him to make his will known" (*Patris corde*, Point 3).
+
+Joseph could have told these angels who appeared to him in various dreams: 'There are 16 hours of the waking day when you could come to me. Can\'t you choose one of those hours?'
+
+"Joseph was deeply troubled by Our Lady\'s mysterious pregnancy. He did not want to expose her to public disgrace so he decided to put her away quietly" (*cf*. Matt. 1:19). In such cases there were provisions for stoning.
+
+"In the first dream, an angel helps him to resolve his grave dilemma and says, 'Do not be afraid to take Mary as your wife, for the child conceived in her is from the Holy Spirit. She will bear a son, and you are to name him Jesus, for he will save his people from their sins' (Matt. 1:20-21)" (*ibid*.).
+
+This must have brought great joy and great relief to Joseph, that all of the opinion that he had of Our Lady was well placed---there was no error in his judgment. The greatness of Our Lady in his eyes is maintained and she becomes even greater, as through her he begins to find out aspects of his own vocation: as the custodian of Mary and the foster father of Jesus.
+
+The Holy Father says, "His response was immediate: 'When Joseph awoke from sleep, he did as the angel of the Lord commanded him' (Matt. 1:24). Obedience made it possible for him to surmount his difficulties and to spare Our Lady" (*Patris corde*, Point 3).
+
+There may be times in marriage or family life when the virtues and the actions of Joseph can give us inspiration and strength---how to put one foot in front of the other, how to go forward in difficult situations.
+
+"In the second dream, the angel tells Joseph, 'Get up, take the child and his mother, and flee to Egypt, and remain there until I tell you; for Herod is about to search for the child, to destroy him'" (Matt. 2:13).
+
+And again St. Joseph did not hesitate. He went quickly to fulfill the will of God.
+
+St. Luke tells us also that "Joseph undertook the long and difficult journey from Nazareth to Bethlehem to be registered in his family\'s town of origin in the census of the emperor Caesar Augustus (Luke 2:3-5). There Jesus was born and his birth, like every other child's, was recorded in the registry of the Empire. St. Luke is particularly concerned to tell us that Our Lord\'s parents observed all the prescriptions of the law: the rites of the circumcision of Jesus, the purification of Mary after childbirth, the offering of the firstborn to God (*cf*. Luke 2:21-24).
+
+"In every situation, Joseph declared his own *fiat*, his own "be it done unto me," like those of the words of Mary at the Annunciation (Luke 1:38), and Jesus in the garden of Gethsemane (Luke 22:42)" (*Patris corde*, Point 3).
+
+It was as though Joseph was saying a continual aspiration to all the various plans of the will of God for his life that was going to be so changeable, so demanding.
+
+Later, "in his role as head of a family, Joseph taught Jesus to be obedient to his parents in accordance with God\'s command (Luke 2:51)" (*Patris corde*, Point 3).
+
+St. Josemaría liked to say that Our Lord must have learned so many things from Joseph. There must have been many things in His preaching: the agricultural examples that He gives, the grain of wheat fallen into the ground---so many other examples that He takes, which possibly He must have learned from Joseph in the fields, walking around the place. Joseph would have pointed out to Him that later they were going to be very useful to transmit the message of salvation.
+
+"Jesus learned at the school of Joseph to do the will of his Father: that was his daily food (*cf*. John 4:34)" (*Patris corde*, Point 3).
+
+If Jesus was like us in all things but sin, He must have learned many things from the example of the people around Him. One of those special people was Joseph. He taught Our Lord to be tough and demanding on Himself---so that "even at the most difficult moment of his life, in Gethsemane, Jesus would choose to do the Father's will rather than his own, becoming 'obedient unto death, even unto death on a cross' (Phil. 2:8)" (*Patris corde*, Point 3).
+
+St. Paul says in the Letter to the Hebrews that "Jesus learned obedience in the school of suffering\" (Heb. 5:8).
+
+"All this," says Pope Francis \[quoting St. John Paul II\], "makes it clear that 'St. Joseph was called by God to serve the person and the mission of Jesus directly through the exercise of his fatherhood' and that in this way, 'he cooperated in the fullness of time in the great mystery of salvation and is truly a minister of salvation' (John Paul II, Apostolic Exhortation, *Redemptoris custos*, Point 8 August 15, 1989)" (*ibid*.).
+
+As we think about our own personal mission of fatherhood to the children that God may have given to us, physical or spiritual, we can think of the great role and mission that God has also given to each one of us to build great human persons---to form them well, to be available, to live a life of virtue, to show our children what true holiness is, to show them how to walk along the pathway to which God may have called them.
+
+The Holy Father likes to say that Joseph was "an accepting father. He accepted Our Lady unconditionally"---lock, stock and barrel---everything that his marriage to Our Lady was going to bring in the present and, in the future, unforeseen difficulties---he said 'yes' to all of this.
+
+"He trusted in the angel\'s words. The nobility of Joseph\'s heart is such that what he learned from the law, he made dependent on charity." Pope Francis continues, "Today, in our world where psychological, verbal, and physical violence towards women is so evident, Joseph appears as the figure of a respectful and sensitive man" (*Patris corde*, Point 4).
+
+That's the sort of person we have to try and be in our home, that sort of father. Joseph reminds us that the greatest thing that a father can do for his family is to love his wife very much.
+
+"Even though Joseph doesn\'t understand the bigger picture, he makes a decision to protect Our Lady\'s good name, her dignity, and her life. In his hesitation about how best to act, God helped him by enlightening his judgment" (*ibid*.).
+
+Just as Joseph turned to God and listened to Him, in our personal prayer we can also listen to the inspirations of the Holy Spirit about how to be a better father, how to serve our family better, to fulfill the will of God in relation to each soul that He has entrusted to us.
+
+"Often in life," says Pope Francis, "things happen whose meaning we do not \[fully\] understand. Our first reaction can frequently be one of disappointment and rebellion. Joseph set aside his own ideas in order to accept the course of events, and, mysterious as they seemed to be, he learned to embrace them, to take responsibility for them, and to make them part of his own history."
+
+"Unless we reconcile," says the Holy Father, "with our own history, we will be unable to take a single step forward, for we will always remain hostage to our expectations and the disappointments that follow. The spiritual path that Joseph traces for us is not one that explains, but accepts" (*ibid*.).
+
+We can say that in certain ways, Joseph "launched out into the deep" (*cf*. Luke 5:4): in faith, in hope, in abandonment to the plans of God.
+
+Joseph is not just "passively resigned" to fulfilling that will, but "courageously and firmly proactive" (*ibid*.). He\'s thinking ahead, he\'s solving problems, he\'s forgetting about himself.
+
+"In our own lives, acceptance and welcome" of the plans of God "can be an expression of the Holy Spirit\'s gift of fortitude" (*ibid*.), whereby we face dangers. We stand up to difficulties. We solve problems without losing our peace and serenity.
+
+In this we have a great model in Joseph. "Only Our Lord can give us the strength needed to accept life as it is, with all its contradictions, frustrations, and disappointments" (*ibid*.).
+
+The story of Joseph\'s journey to Bethlehem is certainly full of those very contradictions, frustrations, and disappointments. God told him: "Joseph, son of David, do not be afraid" (Matt. 1:20).
+
+"He seems to say to each one of us, 'Do not be afraid.' Set aside all anger and disappointment and embrace the way things are, even when they do not turn out as we wish" (*ibid*.).
+
+That\'s very often the reality of marriage and family life---part of the adventure of daily life and ordinary life---that things don\'t turn out as we thought, we planned, or we imagined.
+
+Following Joseph, we learn how to accept these things "not with mere resignation, but with hope and courage. In this way, we become open to a deeper meaning."
+
+We let the Providence of God make itself felt in the ordinary things of every day.
+
+"Our lives can be miraculously reborn if we find the courage to live them in accordance with the Gospel. It does not matter if everything seems to have gone wrong or some things can no longer be fixed. God can make flowers spring up from stony ground" (*ibid*.).
+
+Joseph is not a person who laments the past, nor laments leaving his nice comfortable home to set out on a journey that seems to be going nowhere. He trusts in the plans of God.
+
+Pope Francis says, "Even if our heart condemns us, 'God is greater than our hearts and he knows everything' (1 John 3:20). Here, once again," he says, "we encounter that Christian realism which rejects nothing that exists. Reality, in its mysterious and irreducible complexity, is the bearer of existential meaning, with all its lights and shadows" (*Patris corde*, Point 4).
+
+St. Paul tells us that "all things work together for the good, for those who love God" (Rom. 8:28). Each step of Joseph\'s journey to Bethlehem seems to mirror those sentiments---there's hope, there's faith, there's optimism. St. Augustine adds to that phrase: "even that which is called evil" (*Enchiridion de fide, spe et caritate*, 3.11).
+
+"In this greater perspective, faith gives meaning to every event, no matter how happy or sad. ... The faith that Christ taught us" on so many occasions "is what we see exemplified in the life of Joseph. He did not look for shortcuts, but confronted reality with open eyes and accepted personal responsibility for it. Joseph\'s attitude encourages us to accept and to welcome others as they are" (*ibid*.).
+
+He accepted Our Lady unconditionally. He teaches us to accept the people around us that God has placed in our life, in our path, unconditionally, "as they are, without exception" and teaches us "to show special concern for the weak, 'for God chooses what is weak'" (*cf*. 1 Cor. 1:27).
+
+Our Lady, in her late stages of pregnancy and throughout, was, in a certain sense, weak. She needed care, she needed attention, she needed sensitivity. She needed all those things that women continually need from their spouse or carer.
+
+"Our God is the 'Father of orphans and protector of widows" (Ps. 68:5), we\'re told in the Psalms, "who commands us to love the stranger in our midst" (*ibid*.).
+
+Pope Francis says, "I like to think that it was from St. Joseph that Jesus drew inspiration for the parable of the prodigal son and the merciful father" (*cf*. Luke 15:11-32). There are so many rich examples in Our Lord\'s preaching that may have come from his loving father on earth.
+
+"If the first stage of all true interior healing is to accept our personal history and embrace even the things in life that we did not choose, we must now add another important element: creative courage." Pope Francis says, "St. Joseph was a creatively courageous father" (*Patris corde*, Point 5).
+
+That creativity "emerges especially in the way we deal with difficulties. In the face of difficulty, we can either give up and walk away, or somehow engage with it" and face the problem. All the time, Joseph was facing up to problems, facing the challenges, bringing solutions.
+
+"At times, difficulties can bring out resources we did not even think we had. When we read the infancy narratives in the Gospel, we might often wonder why God did not act in a more direct and clear way. Yet God acts through events and through people. Joseph was the man chosen by God to guide the beginnings of the history of redemption. ...
+
+"At the end of every account in which Joseph plays a role, the Gospel tells us that Joseph gets up, takes the child and his mother, and does what God commanded him" (*cf*. Matt. 1:24; 2:14, 21). All the time, we see that for Joseph, Jesus and Mary his Mother are "the most precious treasures" on earth.
+
+As we come towards Christmas, or live around this time of Christmas, we also try to have that same intimacy of Joseph with the Holy Family, with Jesus and His Mother: to see our most precious treasures in the Christ Child, in Our Lady.
+
+"In the divine plan of salvation, the Son is inseparable from his Mother, from Mary who," we're told, "'advanced in her pilgrimage of faith, and faithfully persevered in her union with her Son, until she stood at the cross' (Vatican II, *Lumen gentium*, Point 58, November 21, 1964).
+
+"We \[should always\] consider," says the Holy Father, "whether we ourselves are protecting Jesus and Mary. They are also mysteriously entrusted to our own responsibility, our care, and our safekeeping. The Son of the Almighty came into our world in a state of great vulnerability" (*Patris corde*, Point 5).
+
+*Vulnera* is a word that is in Latin, which means "wounds." Vulnerability: able to be wounded. "He needed to be defended, protected, and cared for, and raised by Joseph. God trusted Joseph, as did Mary, who found in him someone who would not only save Mary's life, but would always provide for her and her child."
+
+These were very manly tasks that Joseph takes on, in a very manly way.
+
+"In this sense," says Pope Francis, "St. Joseph could not be other than the Guardian of the Church, for the Church is the continuation of the Body of Christ in history, even as Mary\'s motherhood is reflected in the motherhood of the Church" (*Catechism of the Catholic Church*, Points 963-970).
+
+St. Joseph is a special patron of the Church. "In his continued protection of the Church, Joseph continues to protect the child and his mother, and we too, by our love for the Church, continue to love the child and his mother.
+
+"That child would go on to say: 'As you did it to one of the least of these who are members of my family, you did it to me' (Matt. 25:40). Consequently, every poor, needy, suffering or dying person, every stranger, every prisoner, every infirm person is 'the child' whom Joseph continues to protect" (*Patris corde*, Point 5).
+
+That mission has been transmitted to each one of us. We could ask Our Lord that during these days we might transmit that sensitivity of Joseph for all the needy, or suffering, or dying people around us to our children. From our example, they might catch that message.
+
+"For this reason, St. Joseph is invoked as protector of the unfortunate, the needy, the exiles, the afflicted, the poor, and the dying. Consequently," says Pope Francis, "the Church cannot fail to show a special love for the least of our brothers and sisters, for Jesus showed a particular concern for them and personally identified with them. From St. Joseph we must learn that same care and responsibility. We must learn to love the child and his mother, to love the sacraments and charity, to love the Church and the poor. Each of these realities is always the child and his mother" (*ibid*.).
+
+"Joseph was the true 'miracle' by which God saves the child and his mother. God acted by trusting in Joseph\'s creative courage. Arriving in Bethlehem and finding no lodging where Mary could give birth, Joseph took a stable and, as best as he could, turned it into a welcoming home for the Son of God to come into the world (*cf*. Luke 2:6-7).
+
+"Faced with imminent danger from Herod, who wanted to kill the child, Joseph was warned once again in a dream to protect the child, and rose in the middle of the night to prepare the flight into Egypt (*cf*. Matt. 2:13-14).
+
+"A superficial reading of these stories," says Pope Francis, "can give the impression that the world is at the mercy of the strong and mighty, but the 'good news' of the Gospel consists in showing that, for all the arrogance and violence of worldly powers, God always finds a way to carry out his saving plan" (*Patris corde*, Point 5).
+
+It\'s precisely at this moment of difficulty, of apparent abandonment, that Joseph shows his great faith, hope, courage, and solution-oriented attitude.
+
+"So too, our lives may at times seem to be at the mercy of the powerful, but the Gospel shows us what counts. God always finds a way to save us, provided that we show the same creative courage as the carpenter of Nazareth, who was able to turn a problem into a possibility by trusting always in divine providence.
+
+"If at times God seems not to help us, this does not mean that we have been abandoned, but instead are being trusted to plan, to be creative, and to find solutions ourselves" (*ibid*.). It\'s all part of our journey, part of the divine call.
+
+There\'s a Polish writer (Jan Dobraczyński) who has written a book called *The Shadow of the Father*. He tells the story of St. Joseph\'s life in the form of a novel. He uses the image of a shadow to define Joseph.
+
+"In his relationship to Jesus, Joseph was the earthly shadow of the heavenly Father: he watched over him and protected him, never leaving him to go his own way" (*ibid*.).
+
+We can see how important it is to bring our children to our prayer, one by one, soul by soul---and how important it is that like St. Joseph, who was close to Jesus, we too might be good friends with each one of our children: sitting down, talking to them, sharing their experiences, knowing what\'s going on in their life, going deeply into their heart and soul and mind.
+
+"Joseph acted as a father for his whole life. Fathers are not born but made." Every father can make mistakes, but he can make up for his mistakes later on.
+
+"A man doesn\'t become a father simply by bringing a child into the world, but by taking up the responsibility to care for that child\"---in particular, to care for his eternal salvation.
+
+"Whenever a man accepts responsibility for the life of another, in some way he becomes a father to that person. Children today," says the Holy Father, "often seem orphans, lacking fathers. The Church too needs fathers. St. Paul says to the Corinthians, 'Though you have countless guides in Christ, you do not have many fathers' (1 Cor. 4:15).
+
+"Every priest or bishop," he said, "should be able to add, with the Apostle: 'I became your father in Christ Jesus through the Gospel' (*ibid*.).
+
+"St. Paul likewise says to the Galatians, 'My little children, with whom I am again in travail until Christ be formed in you!' (Gal. 4:19).
+
+"Being a father entails introducing children to life and to reality. Not holding them back, being overprotective or possessive, but rather making them capable of deciding for themselves, enjoying freedom and exploring new possibilities. Perhaps for this reason," says the Holy Father, "Joseph is traditionally called a 'most chaste' father. That title is not simply a sign of affection, but the summation of an attitude that is the opposite of possessiveness.
+
+"Chastity is freedom from possessiveness in every sphere of one\'s life. Only when love is chaste is it truly love. A possessive love ultimately becomes dangerous: it imprisons, constricts, and makes for misery. God himself loved humanity with a chaste love; he let us free even to go astray and set ourselves against him" *(Patris corde*, Point 7).
+
+We see in Joseph that great model of chaste, conjugal love---a great model for our world that is immersed in other things.
+
+Pope Francis says, "The logic of love is always the logic of freedom, and Joseph knew how to love with extraordinary freedom. He never made himself the center of things. He did not think of himself, but focused instead on the lives of Mary and Jesus.
+
+"Joseph found happiness not in mere self-sacrifice, but in the gift of self. In him, we never see frustration but only trust. His patient silence was the prelude to concrete expressions of trust.
+
+"Our world today needs fathers. It has no use for tyrants who would domineer others as a means of compensating for their own needs. It rejects those who confuse authority with authoritarianism, service with servility, discussion with oppression, charity with a welfare mentality, power with destruction. Every true vocation is born of the gift of self, which is the fruit of mature sacrifice" (*ibid*.).
+
+Our Lady must be very happy when we take Joseph out of the background of our interior life during this coming year and place him at the forefront. She and the Child Jesus must have felt a great debt of gratitude for all that Joseph did.
+
+We can ask Our Lady that she might help us to see, to open our eyes, to this wonderful reality and this year of grace that the Holy Father has given to us in contemplating the life of St. Joseph.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*SMF*

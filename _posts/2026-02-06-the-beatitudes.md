@@ -1,0 +1,257 @@
+---
+layout: homily
+title: "The Beatitudes"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"Seeing the crowds, he went up onto the mountains. And when he was seated, his disciples came to him. Then he began to speak. This is what he taught them: 'How blessed are the poor in spirit: the kingdom of heaven is theirs. Blessed are the gentle, for they shall have the earth as their inheritance. Blessed are those who mourn, for they shall be comforted" (Matt. 5:1-5).
+
+Our Lord begins His preaching with this word, "blessed," "happy." It sort of defines in a certain sense the whole of His preaching and the whole of man's vocation here on earth.
+
+We're called to be happy---happy in everything we do, happy in everything that we look forward to. And ultimately, we're called to an eternal beatitude.
+
+Pope St. John Paul II liked to say that we're called to the eternal wedding feast and that marriage in this world is a preparation for marriage in the next.
+
+If something does not work out too well in our marriage in this world, he said, never mind. It's part of the cross that God has permitted as a preparation for that eternal beatitude in the eternal wedding feast.
+
+This whole word defines everything that Our Lord came to communicate to us, that we're called to happiness. Therefore, we have to try and learn how to be happy in this world.
+
+St. Josemaría used to say, if we were to be happy in this world, we have to try and be so in order to be happy in heaven (*cf*. Josemaría Escrivá, *The Forge*, Point 1005).
+
+The *Catechism of the Catholic Church* says, "The beatitudes are at the heart of the preaching of Our Lord" and God's plan for us. His plan is that we would be all of these things---poor in spirit, gentle, hungering and thirsting for justice, merciful, pure in heart, peacemakers.
+
+"They depict," it says, "the countenance of Jesus Christ and portray his charity" (*Catechism*, Points 1716, 1717).
+
+A lady in Asia told me that the Commandments are a bit like God as Creator speaking to His creatures, but the Beatitudes are like a loving father speaking to his children.
+
+God invites us to try and be all of these things. It says their paradoxical content responds in a surprising way "to the human heart's desire for happiness" (*Catechism*, Point 1718).
+
+We can look again at these beautiful things that Our Lord places before us---the goals for our life, specific things that He wants us to try and put into practice on a daily basis.
+
+The *Catechism* says in His preaching of the eight Beatitudes, Our Lord gathers "the promises made to the chosen people" and perfected them, "directing them not merely to the possession of the earth, but to the eternal happiness in the kingdom of heaven."
+
+Pope St. John Paul II used to say there are three key questions that all human persons must keep asking themselves on this planet: Where have I come from? Where am I going? What is my life all about? (*cf*. John Paul II, Encyclical, *Fides et Ratio*, September 14, 1988).
+
+The beatitudes give us some of the answers to those questions. We're headed for happiness. This is the pathway that we have to try and live in order to get there: holiness, which is the calling of the Christian vocation.
+
+We're called to holiness and apostolate. It's like a growing in love, a mystery of love.
+
+We're called to reflect all the time because "God is love" (1 John 4:8,16). We do it through the battle to practice the beatitudes---being gentle, being merciful, thirsting for justice.
+
+Living out of those beatitudes and trying to strive for holiness leads us to live in the peace and the joy of the beatitudes.
+
+They bring us peace and joy irrespective of the other circumstances of our life, because somehow, they tell us we're on the right track, we're doing the right things, we're going in the right direction.
+
+The Beatitudes portray the charity of Christ: "Blessed are the merciful, for they shall obtain mercy" (Matt. 5:7).
+
+Our Lord says in other places, "May you be merciful as your heavenly Father is merciful" (Luke 6:36). That's a pretty high goal.
+
+Being merciful even with people who perhaps don't deserve our mercy, or we think they don't deserve our mercy---but yet, we have to try and be merciful with everybody.
+
+The charity of God knows no limits, it's boundless, it's unlimited. God does not permit of any mediocrity when it comes to charity.
+
+\[St. John of the Cross\] says, "It is on how we have loved that we will be judged." That will be the only really important question that God will ask us.
+
+He wants to look into our hearts and find a merciful heart there, like His own heart, a reflection of His heart.
+
+The Beatitudes "express the vocation of the faithful to be associated with the glory of Our Lord's Passion and Resurrection" (*Catechism*, Point 1717).
+
+It says, "Blessed are those who are persecuted in the cause of righteousness, for the kingdom of heaven is theirs" (Matt. 5:10).
+
+Down through history, you find that all the great saints and martyrs were persecuted in the cause of righteousness. We shouldn't be surprised if we find that some people are scandalized by the Catholic Church or by their teaching in different areas, particularly in sexual morality, or the sacredness of human life, or the sanctity of marriage.
+
+If people are throwing stones at the Church because of these particular teachings, perhaps that's not a bad sign. There's a saying that says, "You only throw stones at trees that have fruit."
+
+You throw the stones to try and get the mangoes or other fruits off the trees, but if there's no fruit on the tree you don't bother throwing stones. The devil is pretty good at throwing stones.
+
+We shouldn't be surprised that the Church is misunderstood, treated in difficult ways, perhaps persecuted in various ways.
+
+The Beatitudes "shed light on the actions and attitudes that are characteristics of the Christian life" (*Catechism*, Point 1717).
+
+"Blessed are the gentle, for they shall possess the earth" (Matt. 5:4). Another word that's used sometimes is meekness. Meekness is the virtue whereby we control our anger.
+
+We're told, "Blessed are those who control their anger (Prov. 16:32). There may be many situations in family life, in marriage life, in traffic, or in the office where we have a temptation to show anger. A fast temper can be fast pride.
+
+We have to try and learn to control our anger and that virtue is what's called meekness. Channel it in different ways---there's a good anger and there's a bad anger.
+
+Good anger is the anger of a mother with her two-year-old child who does something wrong. The mother gets angry and corrects, and then it's over. It would be a lack of virtue not to correct or not to get angry in situations where things are wrong. It would be a bad sign.
+
+The bad type of anger is an anger that lingers on, that smolders on in the heart. It's expressed as grudges or pains or wounds. Those are the things we have to try and get rid of.
+
+"Blessed are the gentle, for they shall possess the earth" (Matt. 5:4). It's a great thing. And "the paradoxical promises---they sustain us in our hope in the midst of tribulations" (*cf*. *Catechism*, Point 1717).
+
+"Blessed are you when people abuse you and persecute you and speak all kinds of calamity against you falsely on my account" (Matt. 5:11).
+
+When Mother Teresa died and many people had wonderful things to say about her---a living saint---but there was something missing. See, all the saints have had stones thrown against them.
+
+St. Josemaría used to say that St. Teresa of Ávila went to heaven accompanied by all the garbage that her contemporaries could throw at her. You could say the same thing about St. Josemaría, still thrown garbage, sometimes.
+
+But everybody seemed to have nice things to say about Mother Teresa. Until one day, I read in the newspaper that somebody in India had accused Mother Teresa of embezzling \$200 million. Ah, finally! Now, she ticks off the boxes.
+
+That's authentic. Something like that was needed for authentic holiness; some sort of an external cross that you don't deserve that comes from nowhere, seems very virulent as well. Okay, now that's the real McCoy. All the saints have undergone that type of contradiction.
+
+"...persecute you and speak all kinds of calumny" (Matt. 5:11). It reminds us that we shouldn't be worried about what people may say or what people may think, or what people may say or think about our Church.
+
+I was at a pro-life meeting in Manila one time and a lady speaker there from Liverpool, a doctor, said, "We can be very proud of our Church"---I thought those were very nice words; we don't hear them very often---"because our Church is the only Church in the world that has stood by the sacredness of human life in the last fifty years."
+
+We have an awful lot to be proud of. If we hear all sorts of bad things, never mind.
+
+I was at a mass in Msongari last Saturday, or two Saturdays ago, in Loreto, in Nairobi, for over 100 years of the Loreto Sisters in Kenya.
+
+Bishop Kivuva at the Mass said some very nice things. Among them, he said he often asked his kids, "Did you go to a Loreto school?" The kid says, "No, but my mother did."
+
+A very common thing all over the country. He talked about what this country and the Church in this country would have been without the Loreto Sisters.
+
+They were celebrating 100 years and I reckon that they've educated about a million girls. Six women arrived here in 1921, and 100 years later a million girls have been educated. It's mind-boggling. You couldn't have imagined the sort of fruit that was going to come.
+
+All of that, in spite of all the contradictions that may happen in the course of any apostolic undertaking, which were many. But the end-result is something incredible.
+
+You see, this is how God wants to use each one of us: our efforts, our correspondence to grace.
+
+We don't see 100 years from now. We don't see the fruits of the values in your family that you put into motion, or the fruits that come from your life of trying to live out the beatitudes in a daily way in your family.
+
+But you plant seeds: seeds of faith, seeds of hope, seeds of joy; seeds of teaching people how to live like great human beings, to have great ideals, to have trust and faith in God; and not to be worried about the ordinary, everyday things that may come to pass.
+
+"For people might abuse you or persecute you or speak all kinds of calumny falsely on my account" (Matt. 5:11)---we don't have to worry about all the stones that this world may throw at us, because 100 years from now the fruits of all our actions will be there to see---the fruits of the holiness of the apostolate.
+
+That's the same for the Catholic Church all over the world. It's the history of the Church. The history of the Catholic Church has been described as the history of the Holy Spirit working in the world. We're very much part of that history.
+
+Pope St. John Paul in an Encyclical called "Rich in Mercy" says, "All the beatitudes of the Sermon on the Mount indicate the way of conversion and of reform of life, but the one referring to those who are merciful is particularly eloquent in this regard.
+
+"Man attains to the merciful love of God, His mercy, to the extent that he himself is interiorly transformed in the spirit of that love towards his neighbor" (John Paul II, Encyclical, *Dives in misericordia*, Point 14, November 30, 1980).
+
+We have to try and treat kids to have that spirit. I was visiting a poor family recently. I happened to get some football boots for them two or three years ago. There's a 12-year-old and a 14-year-old in the family.
+
+I asked them, "How are the football boots?" They said, "Oh, we've grown out of them. They're too small."
+
+"Oh no, and what do you do? You're playing barefoot?"
+
+"No, we have a pair of sports shoes, but our toes are coming out of the front of them."
+
+I said, "Well, show me the old ones, the old boots."
+
+"Oh, we gave them to a poor boy."
+
+I was so impressed. These kids are---most people would regard them as pretty poor---but everybody knows somebody poorer than themselves. One of them is 12, the other is 14, or 13 and 14, something like that. I was so impressed.
+
+They're avid football followers, Man City, Chelsea, the father is Arsenal---great rivalry in the family. I said to them, "Look, if you continue like that, that gesture will bring you far more happiness in this world than all the Man Citys in the world, even if they're top of the league."
+
+We try to teach children how to live according to the beatitudes---to give. "Blessed are the poor in spirit. Theirs is the kingdom of heaven" (Matt. 5:3).
+
+"Poor in spirit." Those kids might not have much in this world, but they are willing to give away what they have. They're thinking of other people as the way to go.
+
+Even people who may have many material things are called to live this blessedness. It doesn't mean we have to give away everything we have, but it does mean we have to have a certain sensitivity for things we don't need anymore.
+
+Those young kids---they might have said, 'These are mine, and I'm going to keep them and put them on my shelf for eternity, you know, and look at them every day and kiss them---my football boots---first pair of football boots I have.'
+
+You know, they gave them away to somebody who needs them. There's a lot in that. "Unless you become like little children, you cannot enter the kingdom of heaven" (Matt. 18:3).
+
+We're told also, "Blessed are the pure in heart, for they shall see God" (Matt. 5:8). Happy are those who strive for the virtue of purity and who begin again and again.
+
+Even if that virtue might seem to be so elusive, or it might seem to be subject to so many temptations, or every minute of every hour of every day we seem to have all sorts of problems---Our Lord wants us to fight.
+
+We know we will not be tempted beyond the graces that He gives us, but we will be happy from living out that fight, living according to those Christian moral principles, and creating that atmosphere around us---Christ-like fragrance, the fragrance of Christ.
+
+In *The Forge* we're told, hoping that God will help us to walk this path as did many saints who incarnated the beatitudes and are examples of joy, aiming at living a full life, not being happy with a mediocre life. "Happiness in heaven is for those who know how to be happy on earth" (J. Escrivá, *The Forge*, Point 1005).
+
+We could ask Our Lord for the grace to teach us how to be happy on earth, happy with what we have, happy with who we are---not wishful thinking about faraway dreams or treasures: "if only I had that talent that other people have," or "if only I wasn't at the bottom of the class when I was a kid," or "if only I had the talent of that most important person in the class, or that colleague, or that person who's good at this or good at that," "if only this, if only that."
+
+If we could just try and thank Our Lord for who I am, what you've given me, the treasures that I have, that I can see, that I can hear, that I have my limits, that I have my employment, that I have, maybe, a family and a marriage, and many beautiful things---we can spend our day thanking God.
+
+That way we come to be happy, because then we realize the treasures, great treasures, and great spiritual treasures, even if we lose everything in this world that might be sort of worth having, but yet our soul is in the state of grace. It doesn't matter.
+
+We're on a pathway to heaven. We're spiritual millionaires. Therefore, we can be happy. This is God's will for me.
+
+The promise of the beatitude---eternal happiness---makes us face the sight of moral options with regard to earthly goods." The *Catechism* says it gives us the guidelines to "the use of earthly goods according to the law of God." It also "purifies our heart...leading us to love God above everything" (*cf*. *Catechism*, Points 1723, 1728, 1729).
+
+It's so easy to fall in love with other things, with material things, with this world, with the pleasures of this world, and forget why we're here.
+
+A young guy in Manila once came to me, a Chinese-Filipino who had converted to Catholicism, and he was working in a bank with derivatives trading, that type of thing, shares, et cetera.
+
+There was this big deal that came along, very lucrative, and he was going to have a slice of it. But there was something about it that wasn't quite right. He was a bit uncomfortable about it, and he wanted a moral opinion, so he came to ask a moral opinion.
+
+When I heard what this whole thing was about, I had to say, "Look, maybe this thing isn't totally wrong, but it's not totally right either. Perhaps it's better you don't get involved in this particular thing," knowing that it was big money.
+
+Without blinking, the guy said, "Okay. Anyway, we're not just here to do business, we're here to get to heaven." It's very interesting to see the clarity with which this guy had that one idea.
+
+What a great idea with which to function in the world. 'I'm not just here to do this or do that, or be this or be that; I'm here to get to heaven. I'm here to try to make sure that I don't do anything wrong. I help many other people not to do anything wrong.'
+
+It's so easy to do things that are wrong. You can press a button on a computer, and you can bring down a bank. Somebody did that in Singapore twenty years ago.
+
+We can do things that are wrong that have huge consequences. Eighty thousand people were out of work all over the world, because that bank collapsed.
+
+We're told, "We choose beatitude when we freely choose right conduct, with the help of God's law and grace" (*Catechism*, Point 16).
+
+We choose the right thing to do or we choose happiness. We choose good to do, and that's what we're directed towards. That's what it's all about. That's where we attain our blessedness, where we realize the things that are really worth having.
+
+We could ask Our Lord in our prayer "for the grace of rediscovering the attraction of following Jesus" in this new year (Pope Francis, *Homily*, February 5, 2019).
+
+Lord, I want to follow you again this year, in a new way, a deeper way. The start of these weeks and months---lead me along that pathway---a pathway of imitating you.
+
+I'm not seeking anybody else but you and your humble love. There we find the meaning of our life in humble unity with Him.
+
+When we try and live the way that Our Lord lived, we find a way to real joy and being cheerful, because we know there's something else happening. There's a deeper picture here. Deeper story. God is at work.
+
+"Living out the Beatitudes doesn't involve any dramatic gestures. Our Lord didn't do any dramatic things. He left nothing written. It was the apostles who wrote the Gospels, the evangelists. He left nothing imposing. When he told us how to live, he didn't tell us to build great works or to draw attention to ourselves with extraordinary gestures. He just asked each one of us to produce one work of art: our own life" (*cf*. Pope Francis, *ibid*.).
+
+Somebody said, "What you are is God's gift to you. What you become is your gift to God" (Hans Urs von Balthasar).
+
+We have to try and become a person of virtue, a person who practices the beatitudes, trying to live like a great human person, so that our children grow up seeing what that means in reality, and that it's worthwhile trying to live that type of life. No greater legacy can we give to people who come after us.
+
+You could say that the beatitudes are like "a roadmap for our life." How am I doing? Where am I going? We can examine our conscience in each one of these things.
+
+My joy and my peace---do I bring that to my family, to my children? Do I teach them that this is the way to go?
+
+The beatitudes "invite us to keep our hearts pure, to practice meekness and justice despite everything," even if we were visited with the greatest amount of injustice, even if God was to sweep the feet from under us professionally or financially, leaving us hanging there, because He wants us to look up, to trust in Him, to learn how to be merciful to all, even to those who might seem not to deserve our mercy, because that's what Jesus did.
+
+That's the holiness of daily life. If some *matatu* cuts in on us at the wrong moment, or overtakes us in the wrong place, and you feel like throttling somebody, try and keep our peace and our serenity in those moments, because that's what holiness and daily life is all about---on the road, interacting with people, knowing how to wait with a smile.
+
+At the same time, the beatitudes are "not for supermen." We're not called to be superhuman beings---just called to be super humble.
+
+We are currently on the Sundays of St. Joseph, coming up to the Feast of St. Joseph on March 19th. The Church has a custom of increasing our devotion to St. Joseph on these particular Sundays.
+
+Joseph is a sort of super-humble person whom we are called to imitate---gentle, but yet full of service, humble, available, full of fortitude to solve problems, to help with difficult situations, to care for the whole family. Very attractive, a very beautiful person. A person to be a model for our life.
+
+"People who live out the beatitudes---they're able to cleanse the world."
+
+The founder of Opus Dei used to say, "You have come to change the way the world does business. To turn this world inside out like you turn a sock from one side into the other, to change things."
+
+The way we do that is by being saints, living the beatitudes, being Christ-like.
+
+Just like those Loreto nuns, other people in the Church that we see over a hundred years---they've changed the face of the earth.
+
+Education was unknown, and they came to Kenya. Education for girls---they started the first school for African girls in Limuru for the whole of East Africa.
+
+The first girls that came---within 24 hours, they all ran away. The first twelve. Their fathers, the chiefs, had managed to convince them to go to school, but they'd had enough after 24 hours because education was unheard of.
+
+But those nuns kept at it. Then some of those girls came to stay, so they had to have something to sleep on, so they had sacks with grass from the field.
+
+Then they stayed a bit longer, and then there were the Mau Mau bullets in the 1950s, and there were Christmases when they didn't have any food, et cetera, et cetera.
+
+Eventually they got the girls to the level of being able to do the Cambridge exam, the equivalent, I think, of the KCSE now. It was a huge goal to have reached maybe after, I think, it must have taken ten, twenty years, maybe more.
+
+When those girls did that Cambridge exam and the nuns sent the papers off to England to be corrected, they kept a carbon copy of the answers of the girls, in case the ship went down.
+
+Nothing was to stand in the way of the education of those girls. Such ideals, such commitment. This is the way the people of the Church have changed the face of the earth.
+
+The Holy Father talks about evangelizing culture. Just imagine all the changes from 1921 to 2021, what's happened in the world.
+
+And yet, behind the scenes, all these things were taking place: fertilizing the earth, changing the atmosphere, evangelizing culture. That's what we're called to do, "like a tree in the wasteland absorbs the polluted air each day and gives back oxygen."
+
+Christians in the world are called to change the atmosphere of the world: to take away the bad things, to dilute them, "to drown them with the abundance of good" (J. Escrivá, *Furrow*, Point 864).
+
+The means that Our Lord has given us to be able to do all of this, to a large extent, is the beatitudes---to live in this way, to be that type of person, a Christ-like type of person.
+
+We could ask Our Lady today on her feast day of Lourdes to help us to put the beatitudes into practice in a concrete way each day.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*GD*

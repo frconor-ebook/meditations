@@ -63,6 +63,23 @@ def remove_duplicate_title_lines(lines, title):
     return filtered_lines
 
 
+def remove_proofread_markers(lines):
+    """
+    Remove lines that contain proofreader markers like (Proofread), (*Proofread*), etc.
+    These are internal markers that shouldn't appear in the final content.
+    Handles variants: (Proofread), (*Proofread*), (*Proofread)*, etc.
+    """
+    filtered_lines = []
+    for line in lines:
+        stripped = line.strip()
+        # Skip lines that contain "Proofread" as a standalone marker
+        # This catches: (Proofread), (*Proofread*), (*Proofread)*, *Proofread*, etc.
+        if re.match(r'^[\s\(\)\*]*Proofread[\s\(\)\*]*$', stripped, re.IGNORECASE):
+            continue
+        filtered_lines.append(line)
+    return filtered_lines
+
+
 def convert_markdown_to_posts(source_dir, posts_dir, data_dir, force=False):
     """
     Converts markdown files to Jekyll posts and creates a meditations.json index.
@@ -171,9 +188,10 @@ title: "{title}"
 ---
 """
 
-            # Get content lines (after the title) and remove duplicate bold titles
+            # Get content lines (after the title) and clean up
             content_lines = lines[title_line_index + 1 :]
             content_lines = remove_duplicate_title_lines(content_lines, title)
+            content_lines = remove_proofread_markers(content_lines)
 
             with open(post_filepath, "w") as f:
                 f.write(front_matter)

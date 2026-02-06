@@ -1,0 +1,275 @@
+---
+layout: homily
+title: "Obedience in Bethlehem"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"Now when the angels had gone from them into heaven, the shepherds said to one another, 'Let us go over to Bethlehem and see this event which the Lord has made known to us.' So they hurried away and they found Mary and Joseph, and the babe lying in the manger. When they saw the child, they repeated what had been told them" (Luke 2:15-16).
+
+The whole story of Bethlehem is a story of obedience.
+
+The angels speak to the shepherds, and we're told they go quickly: "they went with haste" (Luke 2:16). Whenever people in Scripture discover what the will of God is, they also go quickly: "Our Lady went with haste into the hill country" (Luke 1:39).
+
+It\'s all a story of fulfilling the will of God, even if at times that will of God seems difficult to fulfill.
+
+The journey of Our Lady and St. Joseph to Bethlehem was a very beautiful journey when you look at it from afar. The reality was quite different.
+
+They didn\'t know what to expect. They didn\'t know what was going to happen when they arrived. They encountered rejection, difficulties.
+
+But still, that spirit of obedience was there in St. Joseph to fulfill what they saw was the will of God. They didn\'t throw in the towel; they kept looking for solutions.
+
+Ultimately, they found the place where it was the will of God for the Son of God to be born. And later on, Joseph is going to be told to "flee into Egypt and remain there until I tell you" (Matt. 2:13).
+
+It\'s an undisclosed period of time. Likewise with Abraham: "Go to a land that I will show you" (Gen. 12:1). There\'s no name, undisclosed.
+
+But yet, go there anyway. Go there and "remain there."
+
+An awful lot of the fruitfulness in our life may be tied up with our "remaining there," in that center, in that local council, in that particular aspect of the apostolate, in that corporate apostolic work, in just fulfilling the ordinary things that are asked of us.
+
+Our Father has told us that the most important thing and the greatest thing we can do in Opus Dei is to obey.
+
+Contemplating the Holy Family these days, we see a very refined obedience. It\'s a story that defines the whole of their life, and a spirit that is there in each one of their actions.
+
+Later on, Our Lord is going to say, "My food is to do the will of him who sent me, and to accomplish his work" (John 4:34).
+
+My food, my sustenance, that\'s what keeps me going. That\'s what it\'s all about.
+
+We might find ourselves occasionally questioning this, or questioning that, or wondering. But we can have a great assurance in faith that the place where God has placed us, at this particular point in time, is the place where His graces are going to help us to a maximum degree.
+
+That\'s why the greatest thing we can do in Opus Dei is to obey. "Amen, amen, I say to you, unless a grain of wheat falling into the ground dies, it remains alone; but if it dies, it brings forth much fruit" (John 12:24).
+
+To submit our will to the will of another in a constant way can be heroic. Often, that\'s the heroism that God asks of us.
+
+"He that loves his life shall lose it, and he that hates his life in this world keeps it into life eternal" (John 12:25). There\'s a lot of rectitude of intention there when we obey.
+
+Our Lord said, "Now is my soul troubled, and what shall I say? 'Father, save me from this hour'? And for this cause, I came to this hour" (John 12:27).
+
+Our Lord seems to recoil away from the Cross in horror and disgust. But then in time, He comes to realize, that\'s why I\'m here. That\'s what my life is all about. My life as a Christian. My life as a numerary.
+
+I once heard somebody say that I realize this, this, and this, because I am a numerary. A lot of answers to questions are tied up in those words.
+
+This is the life that God wants me to lead. This is His will for me in this particular moment, this particular lifestyle, these norms, these customs, this way of practicing the virtues.
+
+"Father, if you are willing, remove this chalice from me; yet not my will, rather yours be done" (Luke 22:42). Our Lord talks about the great importance of doing the will of the Father; "not my will."
+
+Sometimes our own will might be very strong. It could be a very strong will and we might see something very clearly.
+
+But we might find that this is not the right moment, or this is a great idea but it\'s not the right time, or a whole series of other reasons---we have to try and say no to our will, to submit that will, and to have a strong enough will to be able to submit our will to other people, because that\'s when the fruit is going to come. Obedience is always fruitful.
+
+There was a priest architect in Manila who had designed many centers and houses and conference centers all over the world---Fr. Ramon Dodero---with lots of experience. He\'d worked in Villa Tevere, he\'d built Netherhall (House), and so many other places.
+
+They were redesigning a new center, a St. Raphael\'s center, a big old house. They were going to put down tiles in one particular room.
+
+There was a young new administrator and they got quotations for these tiles. There was one very expensive quotation, there was one sort of medium quotation, and there was one that was super cheap.
+
+Of course, there was no money, so the new young administrator went immediately for the cheapest option.
+
+But he said he knew with all of his experience that it wasn\'t a very good idea, because in that option, the tiles were going to be one inch from each other on all four sides. When the Catering came to polish the tiles or sweep or whatever, the wheels of the machines would get stuck in these little gutters in between every tile.
+
+He expressed this reservation but still, the decision was made to go ahead and buy those particular tiles. A couple of years later he said, "You know, in many ways that was a very good decision, a very good thing to do."
+
+He went along with that decision. Because, he said, after three months exactly that happened.
+
+The Catering phoned to complain that all their machines were now destroyed, the wheels of the polishers were falling into the little gutters in between each of the tiles, and this was a hopeless situation and it had not turned out well.
+
+But he said the following ten centers, the university, the conference center, and a whole pile of other things, all had their tiles perfectly flush one with another.
+
+It was one great fruit that came from that particular mistake. He was talking about the value of just doing what we\'re asked, even if we might think it\'s not the right thing to do.
+
+In time great fruit will come from that, even if we think it\'s a waste of money. At this particular moment, the shortfall seems to be very negative. There may be great fruits that we can\'t see that come as a fruit of that.
+
+"But what think you?" He said, "A certain man who had two sons. Coming to the first, he said, 'Son, go work today in my vineyard. And the answer, he said, 'I will not.' But afterwards, being moved with repentance, he went. Coming to the other, he said in like manner, and the answer, he said, 'I go, sir' and went not. Which of the two did the father's will?" (Matt. 21:28-31).
+
+I went to the funeral of a 91-year-old Good Shepherd nun in Singapore once. She was Irish. She had set up orphanages all over Asia.
+
+Another nun who was there, a younger one, told me a story that this lady, when she was 67, was asked to go and start an orphanage in Fiji.
+
+She had already set up many orphanages, she had always been the boss, she had done many things and now she wasn\'t so young.
+
+Her initial reaction was to say, "I won\'t. I\'m too old, I\'ve done all these things already, I\'m a little bit like a balloon that the air has gone out of it, and I don\'t think I should be the one to go to Fiji to set up this place. I won\'t, I won\'t, I won\'t, I won\'t, I won\'t, I won\'t, I won\'t."
+
+She ended the story saying, "You know, in the end, she went."
+
+It was a rather nice story of someone who didn\'t find that particular thing appetizing in any way; yet, on reflection and prayer and the grace of God, went to go and do that particular thing. Probably it was for the great glory of God in heaven and for the good of many souls.
+
+"Let this mind be in you," said \[St. Paul\] to the Philippians, "which was also in Christ Jesus: who, being in the form of God, thought it not robbery to be equal with God, but emptied himself, taking the form of a servant, being made in the likeness of men; and in habit found as a man. He humbled himself, becoming obedient unto death, even death on a cross" (Phil. 2:5-8).
+
+Becoming small and obedient to be a small baby in the hands of Our Lady in Bethlehem---that\'s how Our Lord wants each one of us to be, at the hands of the Directors, so that we can be asked anything, go here, go there, do this, do that; give this particular thing; go and live in this particular place.
+
+Because that\'s what it means to be a numerary. We\'ve come to give everything, lock, stock, and barrel, to hold nothing back, to imitate Christ. Our obedience is enormously supernatural.
+
+It was rather nice last week to hear how Fr. Silvano Ochuodho used that word when speaking to the Directors on Christmas Day, more or less defining the spirit with which we face this New Year.
+
+Remember that we\'re in a very supernatural enterprise. Everything has to be supernatural. We don\'t just function with natural criteria.
+
+We know that God is there behind the things that we\'re doing, and He wants us to give everything and to obey in all sorts of little ways, perhaps with greater finesse than ever as we get older, following our Father\'s example of just doing what we\'re asked to do.
+
+Sometimes to do what we\'re asked to do might cost us our life's blood. But it might be very important.
+
+Fr. Ramón Herrando tells a story of how one time he was with our Father---I think, when he had come back from one of the South American trips. He was very tired and very low, and Don Javier was there. There were just the three of them.
+
+It was 10 o\'clock in the morning, and Don Javier went over to our Father with his cardigan and said, "Father, your cardigan."
+
+Our Father didn\'t want to put on his cardigan. He said, "Go away, leave me alone. It\'s not cold. There\'s no breeze."
+
+Don Javier didn\'t move. He said, "Father, your cardigan." And again our Father said, "Go away, leave me alone. Don\'t want the cardigan."
+
+And Don Javier, with nerves of steel, also didn\'t move. A third time, he said, "Father, your cardigan."
+
+This time our Father caught the cardigan and flung it across the floor. Don Javier went very patiently over to get the cardigan, picked it up, went back to our Father, stood in front of him, and said, "Father, your cardigan." And this time he put it on. He obeyed.
+
+You\'ve probably heard the story before of how our Father came down one time to receive some people at the end of the morning, as was his custom, for some people who would come to see him. It was the early 1960s.
+
+He was very tired, very low. He came down the stairs. The person who was looking after the visits and organizing them said how he came down step by step, got to the bottom of the steps, and sort of collapsed into a chair.
+
+Then when he told our Father it was time for the visit, our Father picked himself up and went into the get-together with this family.
+
+He was the life and soul of the party. He came out after ten or fifteen minutes and collapsed again into the chair until it was time for the next one.
+
+He pulled himself up and he went into the next get-together and this continued. But between one of these sessions, when our Father collapsed into a chair, Don Javier appeared on the scene.
+
+He read the situation and immediately began to tell our Father his schedule for the following day. This person said Don Javier was the one who knew how to get our Father thinking about something else, to distract him. He was concerned with the problems of the Church, the world, et cetera, and that was what was bringing him low.
+
+Don Javier began to tell him, "We have to finish breakfast by 8 tomorrow morning, and we have to leave at 8.20. We have to be somewhere else by 8.40, and then at 9 o\'clock, there is this, and at 9.20 there is something else, and at 9.40..." All through the morning there was something every twenty minutes.
+
+Our Father listened patiently and then he turned to this other fellow who was there and said, "Here I am, 50 years a priest, and along comes this young guy and starts ordering me around. Sometimes it costs me my life\'s blood to see the will of God behind the things that he says to me." Obedience cost our Father, but still, he obeyed.
+
+We are told that Our Lord "went down with them and came to Nazareth and was obedient to them. His Mother treasured all these things in her heart" (Luke 2:51).
+
+You could sum up the whole of Our Lord\'s life in that word "obedience"---that He obeyed. "I have come down from heaven not to do my own will, but the will of him who sent me" (John 6:38).
+
+Every day that we go to do the things we have to do, or the things we are asked to do, we can remind ourselves of that reality: 'I haven\'t just come here to do my own thing. I haven\'t just come here to do the things in the way that I want them to be done. I\'m meant to do them in the way they are supposed to be done.'
+
+One time the regional vicar in Manila, Father Javier Cremades, decided to do MBWA, "management by walking around."
+
+He went around to each of the offices in the commission and asked people what they were doing. At one moment he came to the photocopying machine where somebody was photocopying.
+
+He picked up a piece of paper, this was an editorial from *Cronica*, and it was about "little things." This person was photocopying this thing to be placed in folders. But the photocopying was all twisted on the page, and the article was about "little things."
+
+He took this page, and he went around to each person at the Commission and said, "Look what I found---somebody thought of copying 'little things' and the copying, all twisted on the page."
+
+A small little lesson for everybody, take good care of the small little things that we\'re asked to do, because we\'re not just asked to do things, we\'re asked to do them according to our spirit.
+
+Our Father wanted things done in a certain way. He wanted people to do what they were asked to do.
+
+One time somebody was asked by our Father to go and deliver a letter to a certain Cardinal, who lived in a certain house. He went there near the Vatican, and he was told by the doorman that the Cardinal wasn\'t there. He was out.
+
+The guy went home and returned the letter to our Father and told him that the Cardinal was out.
+
+Our Father said, "My son, if I give you a letter and tell you to go and deliver it to that Cardinal, that means he\'s there. You go back there and you get past that guard, and you give this letter to that particular person."
+
+Our obedience also involves initiative, responsibility, doing what we\'re asked to do, and doing it happily and peacefully.
+
+It seems one time our Father said to Don Álvaro, in the evening get-together, "That job has to be done this evening" or "That other little thing, you have to take care of."
+
+Somebody was helping Don Álvaro to do that particular job after the get-together, late at night, and they said Don Álvaro was humming a tune.
+
+It was the night-time period---you normally don\'t hum tunes in the night-time period---but Don Álvaro was humming a tune, as though making it obvious the peace with which he was fulfilling this indication of our Father, even though he probably was tired, wanted to go to bed, didn\'t feel like doing that particular thing at the end of the day.
+
+We can ask Our Lord for that grace to learn how to live this virtue well, with a great peace and serenity.
+
+Shortly after I was ordained in Ireland, there was a Canon Law Conference in 1983 in the Conference Centre. It was organized because the new code had come out, and the main expert in Canon Law in the country, a certain Monsignor, was invited to give a talk.
+
+I remember an anecdote he said. He said, "You know, law is a rather dirty word in modern parlance. Everybody wants to be out from underneath the yoke of the law. Nobody wants to obey the law."
+
+He said, "As we try to sell the new code of Canon Law, we\'ve got to try and sell the whole idea of law." And he said, "People often think that the opposite of law is freedom, but that\'s not the case."
+
+He said, "In every major city of the world, everybody has a right to go to the airport, and everyone is free to go to the airport. To get to the airport, you\'ve got to drive from here to New Brunswick, you\'ve got to go around the roundabouts, you\'ve got to stop at the traffic lights, you\'ve got to go here, go there, turn left, turn right, and eventually you get to the airport."
+
+"But," he said, "if you take away all the laws, and allow people now to go wherever they want---you can drive on the left side of the road, you can drive on the right side of the road, you can drive on the footpath if there is one, and you come to the roundabout, if you feel like it, you can go in the anti-clockwise direction instead of the clockwise direction; if you want to really have fun, you can go to the airport on the wrong side of the road---instead of taking half an hour to get to the airport, it may take you a couple of hours.
+
+"You might never get there, because if everybody else is reversing on the wrong side of the road, going to wherever they\'re going, there will probably be the most monumental traffic jam, and nobody will be able to move."
+
+We use this story to highlight how the opposite of law is not freedom, it\'s chaos. Take away the laws, you get chaos. Freedom comes with the law.
+
+I heard a priest say once that our Father had a very special grace from God to understand human freedom.
+
+If you look up the books *Friends of God* and *Christ Is Passing By*, you\'ll find that our Father has an awful lot to say about freedom.
+
+He had to organize this organization, which was to have something to say to so many different people in so many different places, different circumstances, and yet united through one spirit.
+
+He emphasized very much that spirit of freedom, but at the same time, laid down very clear criteria.
+
+Sometimes we might not understand the things that are said to us or what is asked of us. Our Father wanted our obedience to be intelligent, and we ask questions. Maybe with time and with grace, we'll see the wisdom of what is asked of us.
+
+A little five-year-old girl once, quite talkative, went to her neighbor, and she remarked that she thought her mother really did not know anything about bringing up children.
+
+The neighbor asked her how so, and she said, "She makes me go to bed when I\'m not sleepy, and she makes me get up when I am sleepy."
+
+Sometimes what we are asked to do might seem irrational. Our reason can very easily become irrational or unreasonable.
+
+We have to try and see the hand of God behind the things that are asked of us and make an act of faith in those particular things.Sometimes it might be difficult to obey in difficult times; obey when we don\'t feel like obeying. That\'s when we show with deeds that our self-surrender is real.
+
+One time when our Father came back from a trip to South America, when he got to the house of the Commission he had a sort of a spontaneous get-together.
+
+Meanwhile, Don Javier had arranged for his cassock that had come in the suitcase to be pressed by our sisters, and he went to our Father after ten or fifteen minutes, and said, "Father, your cassock is now being pressed; you can change your cassock if you want."
+
+Our Father kept on talking, and after another few minutes, Don Javier again said, "Father, your cassock is now ready, you can change your cassock if you want, out of the cassock that you\'ve traveled in."
+
+Our Father kept on talking. The third time Don Javier said, "Father, if you change your cassock, we can change ours also." Immediately, our Father stopped and went off to change his cassock.
+
+Sometimes, obeying when we don\'t feel like obeying, or doing things that we might not feel is the right thing to do at this particular moment, but we put our faith into practice---with an obedience that whistles people, that brings vocations, shows that our intention is upright, that we ardently desire to do the will of the Father in all moments.
+
+In apostolic work, that's of the utmost importance. That\'s what brings everything forward.
+
+Our obedience is meant to be supernatural, prompt, intelligent, interior, of the mind and of the heart.
+
+And also, reporting back about the things we\'ve done, so that we do things with the mind of our Father, making sure that we tell the director, or whoever it is, that this thing has been done, mission accomplished, that thing has happened, so that they can make further plans.
+
+"See, we are going up to Jerusalem," we\'re told in St. Luke, "and everything that is written about the Son of man by the prophets will be accomplished" (Luke 18:31).
+
+"For this reason the Father loves me, because I lay down my life in order to take it up again" (John 10:17).
+
+As we do this particular thing, or fulfill this other little thing, it might seem very unimportant, but in the course of our life, perhaps those things become very important.
+
+If you look at all the little times that Silvano Borruso gave his expense account, and all the times that Father Cormac Burke fulfilled this little thing, or gave this fraternal correction, other little things that he did---they might have seemed very small things at that particular time.
+
+But now when you look back, you see nothing but wonderful things, a wonderful story of fidelity and of fruitfulness, because people lay down their lives in concrete ways, in imitation of Our Lord Jesus Christ.
+
+That\'s what was important---in the submission of our will, and not imposition of our own criteria.
+
+Our Lord says in the Old Testament, "I prefer obedience rather than sacrifice" (1 Sam. 15:22).
+
+We might be able and willing to do all sorts of great sacrificial things, and possibly what Our Lord is asking of us is just to do simple things.
+
+That obedience breeds peace in the humble soul: I\'ve done what I\'ve been asked to do. "I've fought the good fight, I finished the race" (2 Tim. 4:7).
+
+The areas where the devil can attack---it can be our pride, our critical spirit, our poorly understood freedom of spirit. Why should I do this thing, or that thing? Why should I do it this way?
+
+The remedy is always humility, and sincerity, and docility, with a hunger to obey in the particular thing that\'s asked of us.
+
+Don Julian tells a story of how he and, I think, Don Joaquin, had done some job for our Father in the early 1950s. Whatever they did, when our Father saw the job that they had done, he came to the conclusion that what they needed was a good rest. So, at 9 o\'clock in the morning, he told both of them to go to Salta de Fundy.
+
+But then about 12 o\'clock that day, our Father was walking along a corridor, and he bumped into Don Julian. Our Father said to him, "I thought I told you to go to Salta de Fundy." He said, "Yes, Father, but the bus doesn\'t leave until 3 o\'clock in the afternoon.
+
+Our Father said, "If I tell you to go to Salta de Fundy, then you go to Salta de Fundy. You ask for a packed lunch from the catering, you go to the park, and you wait there until 3 o\'clock in the afternoon.
+
+He said, "I learned from this, obedience to rest."
+
+It may not be many times in our life when we\'re told that we need to rest. But if ever we\'re told we need to rest, then it\'s probably something pretty important.
+
+We need to obey in that also---to learn how to rest in the right way, according to our spirit, and to give that a certain urgency.
+
+Our Father wanted that. Obey the doctor, to do what we\'re told. Maybe we think, 'I know best,' or 'This thing isn\'t all that important,' or 'I can manage,' or 'I\'m well enough,' or 'I don\'t need to rest. I don\'t feel like resting.'
+
+It may be very important that we do what we\'re told at that particular moment. Our Father said, "The longer we\'ve been in the Work, the greater and the better, the more refined our obedience should be. Our Lord is always present in our obedience."
+
+Because Our Lady and St. Joseph did what they were asked to do, they worked out in their prayer what it was that God was asking of them, incredible things happened.
+
+They found that place that was to be the focal point of peace and warmth and serenity for all souls and all families for all eternity.
+
+"Great things depend...on whether you and I live our lives as God wants" (Josemaría Escrivá, *The Way*, Point 755).
+
+We can ask Our Lady and St. Joseph in the stable in Bethlehem that they may help us to practice this virtue in an ever-more faithful way all the time.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*MML*

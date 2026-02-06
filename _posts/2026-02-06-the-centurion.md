@@ -1,0 +1,249 @@
+---
+layout: homily
+title: "The Centurion"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"When he went into Capernaum, a centurion came up and pleaded with him. 'Sir,' he said, 'my servant is lying at home paralyzed and in great pain.' Jesus said to him, 'I will come myself and cure him'" (Matt. 8:5-7).
+
+This centurion was a Roman officer of no particular faith but had obviously seen or heard about the power that Our Lord had.
+
+He is obviously a very good man. He is concerned about his servants and concerned enough to go and do everything he possibly can for them.
+
+He is a good example of what we try to do with the social teaching of the Church.
+
+He is reaching out to everybody around him. He is caring, he is loving, he is really moving with his actions. Our Lord, open to everybody, not just to the local people, but to everybody, offers to come and cure him.
+
+"I will come myself and cure him." It doesn\'t matter what the distance is, or where he may be, Our Lord is always available, generous, interested, reaching out to all people who come to him.
+
+Then the centurion gives a curious reply, "Sir, I am not worthy to have you under my roof; just give the word and my servant will be cured" (Matt. 8:8).
+
+The centurion could have had no idea how God would use those words. They are going to place them on the lips of everybody who ever attends a Mass for all eternity, in every part of the planet.
+
+This is how Our Lord can take the little things of each day that we may do and multiply them a millionfold.
+
+This meditation is all about faith, faith in those little things, faith in the power of God, who can work wonders with our miseries, with all the little things we do that we are hardly even aware of.
+
+"For I am under authority myself and I have soldiers under me, and I say to one man, 'Go' and he goes; to another, 'Come here' and he comes; to my servant, 'Do this' and he does it" (Matt. 8:9).
+
+He explains a little bit this phrase that he has just said, from his own personal experience: I am somebody who obeys, I also give orders and I know with your power and authority, you don\'t have to go the journey to be with that particular servant. All you need to do is "say the word."
+
+There is a lot of importance in Scripture given to the word of God: "Say the word" (Matt. 8:8). "At your word I will lower the nets" (Luke 5:5)---and great miracles happen.
+
+"When Jesus heard this, he was astonished." This was music in the ears to Our Lord.
+
+There are very few occasions when we're told that Our Lord was astonished, or that He marveled, or that His heart was moved in a very special way, but this is one of them.
+
+"He said to those following him, 'In truth, I tell you, in no one in Israel have I found faith as great as this" (Matt. 8:10).
+
+The one thing that Our Lord loves to find is faith---and faith that is expressed is expressed in deeds (cf. James 2:18).
+
+"'And I tell you that many will come from the east and west and sit down with Abraham and Isaac and Jacob at the feast in the kingdom of heaven; but the children of the kingdom will be thrown out into the darkness outside, where there will be weeping and grinding of teeth'" (Matt. 8:11-12).
+
+This stranger, this centurion, this Roman citizen had somehow found faith. Our Lord was preaching faith to all the local people, and it was like water off a duck\'s back. Nothing seemed to penetrate.
+
+He says people will come, "many will come from the east and west and sit down with Abraham and Isaac...but the children of the kingdom will be thrown out into the darkness outside"---those who did not want to receive the word or respond to it.
+
+"And to the centurion Jesus said, 'Go back then; let this be done for you, as your faith demands.' And the servant was cured at that moment" (Matt. 8:13).
+
+Our Lord finds faith irresistible. Whenever He finds that faith, He always reacts, He does things.
+
+"'Because you have done this,' he said to Abraham, 'because you have not refused me your son, your only son, your beloved Isaac, I will...multiply your descendants...as the grains of sand on the seashore" (Gen. 22: 16-17).
+
+We have been given a special grace to see and experience and savor the faith of St. Josemaría.
+
+Cardinal Federico Tedeschini, a famous cardinal back in the 1940s and 1950s, called St. Josemaría "a champion of the faith."
+
+"He preached and worked hard. He was never intimidated. He chipped away at difficulties with his demanding mottoes: 'More, more, more,' 'Don\'t be content with what is easy'" (Pilar Urbano, *The Man of Villa Tevere*).
+
+He pushed himself and he pushed many others because of faith.
+
+In *The Way*, we're told, "You see: it has nearly all died out. Will you not help to spread the blaze?" (Josemaría Escrivá, *The Way*, Point 801)---the blaze of the fire of Christ, the fire of love that we have to try and spread to the environment around us.
+
+He was ambitious in faith. "Our apostolate," he says, "is a sea without shores" (J. Escrivá, *Conversations*, Point 57).
+
+It's a very wonderful phrase, "a sea without shores." We are interested in all souls. We have come to change society. Enormous ideals.
+
+We have come to change the way the world does business, "to drown evil in an abundance of good" (J. Escrivá, *Furrow*, Point 864).
+
+We are not worried about all the evil there may be in the world, because we have come to drown it with good, and God is on our side.
+
+"Say the word" and all this will happen.
+
+St. Josemaría was always ready to set out anew. "So much has been destroyed!" he said. "There is so much still to do" (J. Escrivá, *Christ Is Passing* *By*, Point 58).
+
+He sends young people out all over the world, sending them out like little children to bring that seed of Opus Dei to different parts. All of it has multiplied like the grains of sand on the seashore.
+
+In the book *The Man of Villa Tevere* it says, "He was fired with an unquenchable ideal: 'We want Christ to reign" (J. Escrivá, *The Forge*, Point 639) in all human activities.'"
+
+In our prayer today we could say, "Lord, increase my faith!" (cf. Luke 17:5). Help my faith to grow in the little things of each day and in all the little things that you have given me to do, where you have placed me---with this work, with these tasks, also with these miseries.
+
+Because in your eyes nothing is an obstacle. You can work miracles with my miseries, with my littleness.
+
+The Church in the middle of society was like a small seed, "the grain of mustard seed" (Matt. 13:31). It doesn\'t matter that it\'s very small, because it\'s going to grow into something great. With the power of God behind us, everything is possible.
+
+"I can do all things," said St. Paul, "in him who strengthens me" (1 Phil. 4:13).
+
+In the biography of St. Josemaría by Salvador Bernal, he talks about his unlimited and childlike trust in God his Father.
+
+Ricardo Fernández Vallespin, one of the early people of Opus Dei, said that when, towards the end of 1933, the founder of Opus Dei explained to them, just a few young students in Madrid, what God wanted Opus Dei to be in the future, he said, "It seems sheer madness."
+
+A young priest with no material means was urging them to place the whole world at the feet of Christ.
+
+"And we who are no longer children," said Isidoro Zorzano, "did not doubt for a minute that all that he said would come true because God wanted it so."
+
+He dreamed wonderful dreams. Part of the virtue of faith and hope is that we also dream wonderful dreams.
+
+There was a lady who stood up at a get-together with Blessed Álvaro del Portillo in Hong Kong in 1987 and said, "Father, I came here to Hong Kong a few years ago with my husband. There was no center of Opus Dei here in Hong Kong, and I used to dream of all the wonderful things we could do here in Hong Kong if we had the center of Opus Dei here. I used to dream so much that I used to get dizzy dreaming. And now we have a center here. All my dreams have been fully realized."
+
+Blessed Álvaro said to her, "My daughter, what we have to dream about is China." In other words, your problem is not that you have been dreaming too much and getting dizzy from too much dreaming, but your problem is that you haven\'t even begun to dream.
+
+Our faith invites us to dream. St. Josemaría had a wonderful dream back in Madrid in the early 1930s, and now that dream has spread all over the world.
+
+At his beatification, his brother, who was present, was asked, "Was there anything special in the ceremony today that has touched you on this day or these last few days? Anything that has sort of meant more to you than all the other special things?"
+
+He said, "There were many wonderful moments. There was a moment when the Pope proclaimed my brother a Blessed. But in some ways, we already knew that. This was just a formality.
+
+"But, if you ask me, the one thing that moved me more than anything else is that I was introduced to an assistant numerary of Opus Dei from Fiji, from the South Pacific.
+
+"I was thinking that spirit that God gave my brother to spread all over the world has reached Fiji. And this girl has dedicated her whole life to God in Opus Dei because of that spirit. You can\'t explain that in human terms. That spirit that God gave my brother, you could see this must have come from God. There\'s no human explanation for these realities."
+
+Ismael Sánchez Bella, we\'re told in the same biography, was the first rector of the University of Navarre. He said, "The disproportion between the means we had in 1951 and the job that St. Josemaría had entrusted us with was something enormous.
+
+"But this disproportion," he said, "was bridged by his faith, which was that of a man of God."
+
+Another person says, "I\'m a witness of what Opus Dei has been able to do in my country and with my countrymen. I would never have believed or imagined it. I remember St. Josemaría's faith. It was so impressive when he told us how eagerly he awaited the apostolic fruit which would ripen in Switzerland by the grace of God."
+
+Our Lord wants us also to dream---to dream, on the one hand, and also to go about our ordinary duties and work and apostolate and tasks, with a great spirit of faith.
+
+Through my fulfillment of these things, everything will go forward.
+
+St. Josemaría has given us some wonderful aspirations: "The waters will pass through the mountains" (J. Escrivá, *The Forge*, Point 283; *The Way*, Point 12). It\'s a phrase from the Psalms (Ps. 103:10).
+
+No matter what obstacles may appear in our path, no matter what difficulties or problems, the waters will pass through the mountains.
+
+The water comes to a mountain---it can\'t go over the mountain. Sometimes it goes around the mountain, but sometimes it goes through the mountain. It seeps through.
+
+If you ever see sandbags trying to stop back a flood or something, somehow or other, some little bit of water trickles through. "The waters will pass through the mountains."
+
+John Paul II liked to call our whole Christian vocation a "pilgrimage of faith" (John Paul II, *Letter*, October 6, 1979 and Encyclical, *Redemptoris Mater*, March 25, 1987; Vatican II, *Lumen gentium*, Point 58)---a journeying forward in faith, and every day, one day at a time, putting faith into practice.
+
+Lord, I trust in you. I hope in you. I know that you are going to solve this particular problem. Things are going to work out better, sooner, in a greater way, than we could ever have imagined. *Antes, más, y mejor (*J. Escrivá, *The Forge*, Point 284).
+
+St. Josemaría had this dynamic faith, a faith he wanted each one of us to have, which arises from and grows in the intimacy of prayer.
+
+We start our prayer each day with those words, "My Lord and my God, I firmly believe that you are here." You are here listening to me. You see everything that I do.
+
+You are using me as your divine instrument to change the world. Christianity has been a great motor of change in the world.
+
+God is pure light. He wants to shed that light in all the dark corners of the world. He invites us to pray with faith, to have a great faith in the Mass, in the spiritual norms that we do every day---if we make time for them, give them priority, work to improve the way that we do them. A great means.
+
+Faith in our prayer. I remember hearing Blessed Álvaro saying, "In all the apostolic initiatives and enterprises that we have, obviously the human element, organization, is very important. We should take care of all of these things; make sure things are very well done and well organized according to our spirit."
+
+"But," he said, "what brings the fruit is prayer. What makes everything happen is prayer. We have an operative faith that will lead us to put the norms of our *plan of life* first.
+
+"Even when we are pressured by work or by exams or things that may seem to be more important, we need the faith to put our apostolate first and everything related to it."
+
+That\'s why we\'re here. We need faith to get over our fear of the cross. That can come in funny ways.
+
+Our Lord came to the apostles walking on the water and scared the living daylights out of them. They thought it was a ghost. It was just Jesus (Matt. 14:25-27).
+
+Faith to keep our peace in all moments, not to panic. Faith in God\'s infinite goodness. "God so loved the world, that he gave his only begotten Son" (John 3:16).
+
+I was at a meeting once in Manila of various pro-life people, planning things at a fairly national sort of level. There was sort of a problem there.
+
+We were discussing and there was one nun who, when we were talking about the problem, just remarked, "I believe in miracles." It\'s a rather nice phrase: "I believe in miracles."
+
+At that stage in that country, the whole pro-life movement seemed to be very much in its infancy, with a lot of mountains to climb. You could say the same about Christianity all over the world.
+
+But "I believe in miracles." God is with us. If God is with us in spreading the true ideas that we need to spread, who can be against us?
+
+Those little seeds of truth and of love will grow deep in human hearts. We are all called to sow those seeds and to sow those seeds in each moment---moments that might seem trivial or unimportant.
+
+Surprise moments that pop up in a conversation in a certain way or surprise contacts that we bump into---we have an opportunity to say something, to do something.
+
+Faith in the face of our own personal weaknesses, when God lets us see our nothingness. St. Josemaría so frequently said, "I am nothing, I have nothing, I can do nothing" (J. Escrivá, *Friends of God*, Point 215). I\'m one big zero.
+
+But there\'s this "one" at the side of those zeros who is God who can do everything. The Work is in his hands. Faith in the face of our objective difficulties.
+
+*Dominus illuminatio mea, et salus mea, quem timebo*? (Ps. 27:1). The Lord is my light. He sheds light on situations. He brings things forward. Difficulties pass.
+
+The closer that we grow to God in prayer, the more the difficulties will disappear. We\'re called to stay close to him. "Remain in my love" (John 15:9).
+
+The Catholic religion is very much a religion of remaining in His love, remaining in God.
+
+Somebody said once, "When it\'s dark you can see the stars."
+
+Lord, help me to live by faith. Put faith into practice in my professional work---in the demands, in the tensions, in the stresses, in the anxieties, in the tiredness, in the discouragements.
+
+When it seems that I can\'t manage, I trust in you. Faith in my studies, in my successes and in my failures.
+
+Sometimes it\'s God\'s will that we fail. We learn more sometimes from our failures. This is what our life is all about: successes and failures, ups and downs.
+
+But God is behind all these things. We have all the answers.
+
+"Unless you become like little children, you cannot enter the kingdom of heaven" (Matt. 18:3). Lord, help us to grow like little children.
+
+A priest asked a little kid once in kindergarten school, "Did God create you?" She said, "Yes, He created me, but then I grew myself."
+
+God places the beginning, and He wants our cooperation. We can have great faith in the future. "Tough times don\'t last, but tough people do" (Robert H. Schuller).
+
+Sometimes God permits difficult moments, difficult periods, contradictions---and all that will produce its great fruit.
+
+Faith in God often is expressed in faith in the means. We have a certain faith that we will go to heaven, or that our friends will go to heaven. Long-term goals, perhaps.
+
+But the key to faith really is faith in the particular means that God has given to me---this day, this work, this job, this spiritual reading, this period of prayer, this recollection.
+
+Faith in this particular phenomenon that\'s placed in front of me---this is the means for me to go to heaven. That\'s faith.
+
+We more or less know the ultimate will happen; we\'ll get there. We hope, anyway. But that this particular moment and day and contradiction is the way to get there, that\'s what faith is all about.
+
+Lord, help me to respond with heroic faith to all the invitations that you give me not just to put this virtue into practice on an occasional basis, but to lead a life of faith. Pilgrims walk in faith.
+
+Help me to see God behind the different things that happen---behind the disaster, or the crash, or the famine, or also behind that bad answer that someone may give me, or the bad way that I may be treated by somebody in the shop, or the bad manners that I experience.
+
+Help me somehow to see you behind these things. Help me to believe as children believe.
+
+I heard somebody say once we have to have a more infectious faith. We\'re living in a time of infection. It's interesting to think of how we have to infect people with faith, with love, with hope.
+
+Scott Hahn likes to say we need more infectious Catholics that soak in the Scripture and spread it to many people.
+
+If we are to have this sort of faith, we need a personal encounter with Christ, like the woman who came to touch the hem of His garment. Our Lord said, "Who touched my garments?" She had a very personal encounter (cf. Luke 8:43-48).
+
+St. Paul talks about "the obedience of faith" (Rom. 1:5). We do what we\'re told. We fulfill our duties. We give importance to that, because we see that God is working in this way, in this moment.
+
+"How unsearchable are his judgments, how inscrutable are his ways!" (Rom. 11:33). We\'re not here to judge His ways.
+
+Lord, help us to have a great confidence in turning to you. The centurion, when he approached Our Lord, had great confidence: "Sir, I am not worthy" (Matt. 8:8)---with respect, with courtesy.
+
+There were many people who didn\'t treat Our Lord with that same courtesy and that humility.
+
+He knew that he was unworthy. "Lord, I am not worthy that you should enter under my roof" (Prayer, *The Communion Rite*).
+
+We can all approach Our Lord saying the same thing. I\'m not worthy that you should come into my soul every day in Holy Communion. Help me to work at being a little more worthy.
+
+"You want to follow in Christ\'s footsteps," we\'re told in *The Forge*, "to wear his livery, to identify yourself with Jesus. Well then, make your faith a living faith, full of sacrifice and deeds of service, and get rid of everything that stands in the way" (J. Escrivá, *The Forge*, Point 155).
+
+"If there are mountains in the way," he says in *The Forge*, "obstacles, misunderstandings, and backbiting, which Satan seeks and God allows, you must have faith, faith with deeds, faith with sacrifice, faith with humility" (*Ibid*., Point 256).
+
+The way to increase our faith is through the sacraments. Every time that we go to Confession or receive Holy Communion, we know that we get an increase in supernatural virtues: faith, hope, and charity.
+
+Lord, help me to go closer to a greater awareness of my unworthiness like the centurion, asking you for an increase of this virtue.
+
+John Paul II, when he talked about Our Lady, he liked to refer to her as "the woman of faith" (John Paul II, *Homily*, October 6, 1979; *Prayer to Our Lady of Lourdes*, August 15, 2004).
+
+Then he adds a certain nuance. He said she was "the woman of faith that was put into practice."
+
+Mary, may you help me to grow in the ways that I put my faith into practice, in the concrete things of every day.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*EW*
