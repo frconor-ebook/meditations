@@ -3,7 +3,6 @@ layout: homily
 title: "On Formation"
 ---
 
-On Formation
 
 By Fr. Conor Donnelly
 

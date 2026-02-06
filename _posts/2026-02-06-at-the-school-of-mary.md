@@ -3,7 +3,6 @@ layout: homily
 title: "At the School of Mary"
 ---
 
-At the School of Mary
 
 By Fr. Conor Donnelly
 

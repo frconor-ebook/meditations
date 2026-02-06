@@ -3,7 +3,6 @@ layout: homily
 title: "Great Mothers"
 ---
 
-Great Mothers
 
 By Fr. Conor Donnelly
 

@@ -3,7 +3,6 @@ layout: homily
 title: "St. Joachim and St. Anne"
 ---
 
-St. Joachim and St. Anne
 
 By Fr. Conor Donnelly
 
