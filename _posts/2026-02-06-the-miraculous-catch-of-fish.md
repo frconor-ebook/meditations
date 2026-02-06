@@ -5,6 +5,7 @@ title: "The Miraculous Catch of Fish"
 
 By Fr. Conor Donnelly
 
+(*Proofread*)
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 

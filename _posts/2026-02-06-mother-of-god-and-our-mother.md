@@ -5,6 +5,7 @@ title: "Mother of God and Our Mother"
 
 By Fr. Conor Donnelly
 
+(*proofread*)
 
 I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My Immaculate Mother, St. Joseph, my Father, and Lord, my guardian angel, Intercede for me.
 

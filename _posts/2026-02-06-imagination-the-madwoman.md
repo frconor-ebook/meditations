@@ -3,6 +3,7 @@ layout: homily
 title: "Imagination: The Madwoman"
 ---
 
+(*Proofread*)
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 

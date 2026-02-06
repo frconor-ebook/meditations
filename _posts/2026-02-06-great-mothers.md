@@ -6,6 +6,7 @@ title: "Great Mothers"
 
 By Fr. Conor Donnelly
 
+*(Proofread)*
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me.*
 

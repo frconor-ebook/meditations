@@ -69,19 +69,10 @@ def remove_duplicate_title_lines(lines, title):
 
 def remove_proofread_markers(lines):
     """
-    Remove lines that contain proofreader markers like (Proofread), (*Proofread*), etc.
-    These are internal markers that shouldn't appear in the final content.
-    Handles variants: (Proofread), (*Proofread*), (*Proofread)*, etc.
+    Kept for compatibility - now returns lines unchanged.
+    Boss wants to keep (Proofread) markers visible.
     """
-    filtered_lines = []
-    for line in lines:
-        stripped = line.strip()
-        # Skip lines that contain "Proofread" as a standalone marker
-        # This catches: (Proofread), (*Proofread*), (*Proofread)*, *Proofread*, etc.
-        if re.match(r'^[\s\(\)\*]*Proofread[\s\(\)\*]*$', stripped, re.IGNORECASE):
-            continue
-        filtered_lines.append(line)
-    return filtered_lines
+    return lines
 
 
 def convert_markdown_to_posts(source_dir, posts_dir, data_dir, force=False):

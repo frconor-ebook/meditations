@@ -5,6 +5,7 @@ title: "The Bread Our Heavenly Mother Gives Us"
 
 By Fr. Conor Donnelly
 
+*(Proofread)*
 
 In the name of the Father, the Son, and the Holy Spirit. Amen.
 

@@ -5,6 +5,7 @@ title: "Forming Saints in the Domestic Church (The Cross)"
 
 By Fr. Conor Donnelly
 
+(*Proofread*)
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
