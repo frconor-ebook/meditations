@@ -5,6 +5,7 @@ title: "Contemplative: It Is Good That We Are Here"
 
 By Fr. Conor Donnelly
 
+(*Proofread*)
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 

@@ -3,6 +3,7 @@ layout: homily
 title: "The Parable of the Rich Man and Lazarus"
 ---
 
+*(Proofread)*
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 

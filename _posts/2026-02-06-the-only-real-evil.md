@@ -5,6 +5,7 @@ title: "The Only Real Evil"
 
 By Fr. Conor Donnelly
 
+(*Proofread*)
 
 *Per signum crucis de inimícis nostris líbera nos, Deus noster. In nómine Patris, et Fílii, et Spíritus Sancti. Amen.*
 

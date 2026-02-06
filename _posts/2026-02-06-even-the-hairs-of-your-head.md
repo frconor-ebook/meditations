@@ -5,6 +5,7 @@ title: "Even The Hairs of Your Head"
 
 By Fr. Conor Donnelly
 
+*(Proofread)*
 
 *In the name of the Father, and of the Son, and the Holy Spirit. Amen.*
 

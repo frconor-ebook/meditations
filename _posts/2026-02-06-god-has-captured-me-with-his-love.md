@@ -5,6 +5,7 @@ title: "God Has Captured Me With His Love"
 
 By Fr. Conor Donnelly
 
+*(Proofread)*
 
 *Per signum Crucis, de inimicis nostris libera nos, Deus noster. In nomine Patris, et Filii, et Spiritus Sancti. Amen.*
 

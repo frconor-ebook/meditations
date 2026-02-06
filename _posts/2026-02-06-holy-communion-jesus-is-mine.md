@@ -5,6 +5,7 @@ title: "Holy Communion: Jesus is Mine"
 
 By Fr. Conor Donnelly
 
+*(Proofread)*
 
 In the name of the Father, and of the Son, and the Holy Spirit. Amen.
 
