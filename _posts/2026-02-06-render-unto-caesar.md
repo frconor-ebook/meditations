@@ -1,0 +1,211 @@
+---
+layout: homily
+title: "Render Unto Caesar"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"Next they sent to him some Pharisees and some Herodians to catch him out in what he said. They came and said to him, 'Master, we know that you are an honest man, that you are not afraid of anyone, because human rank means nothing to you, and that you teach the way of God in all honesty. Is it permissible to pay taxes to Caesar or not?'
+
+"Recognizing their hypocrisy, he said to them, 'Why are you putting me to the test? Hand me a denarius and let me see it.' They handed him one and he said to them, 'Whose portrait is this? Whose title?' They said to him, 'Caesar\'s.'
+
+"Jesus said to them, 'Pay Caesar what belongs to Caesar, and God what belongs to God.' And they were amazed at him" (Mark 12:13-17).
+
+We\'re told in this passage how the Pharisees came and they tried to catch Him out in His speech, so that they might bring some accusation against Him.
+
+With this end in view, they asked Him maliciously whether it was lawful to pay tribute to Caesar or not. They were referring to the tax that all Jews had to pay to Rome, and which reminded them of their dependence on a foreign power.
+
+It wasn\'t a hefty amount, but it presented them with a problem of both a political and a moral nature; and the Jews were divided among themselves as to its binding force.
+
+And now they wanted Our Lord to take sides, letting everyone know whether He was in favor of this Roman tax or against it. "Teacher," they said, "is it lawful to pay taxes to Caesar or not?"
+
+If Our Lord were to say yes, they would be able to accuse Him of recommending collaboration with the Roman power, a foreign domination, colonial, which the Jews hated because it was imposed on them by an invading force.
+
+If He answered no, they would be able to accuse Him of rebelliousness against Pilate, the Roman authority.
+
+To come down either in favor of the tax or against it would mean that He would be telling them whether He approved of or rejected the lawfulness of the politico-social situation in which the Jewish people found themselves.
+
+Whatever He said, He would appear either to sympathize and collaborate with the occupying power or to encourage the latent rebelliousness of the Jews, which was never very far from the surface.
+
+Later on, they were to bring an accusation against Him, saying with a falseness that would be only too obvious, "We found this man perverting our nation and forbidding us to give tribute to Caesar" (Luke 23:2).
+
+On this occasion, Our Lord, who knew the hypocrisy of their question, said to them, "Bring me a coin and let me look at it. Whose likeness and inscription is this?"
+
+They said to Him, "Caesar\'s." And Our Lord amazed them by the simplicity, and at the same time the depth, of His answer: "Render to Caesar the things that are Caesar\'s, and to God the things that are God\'s."
+
+Our Lord is also making a calling for every follower of His to be an exemplary citizen. There\'s a body of teaching of the Church that is called the Social Teaching of the Church--- one of the most beautiful bodies of teaching that we have---which is, unfortunately, relatively unknown.
+
+Almost every pope in the last 100 years has produced a social encyclical, giving ideas and criteria about how social problems could be solved in a Christian way, and also encouraging lay people in the middle of the world to get particularly involved in solving those problems, promoting the dignity of every human person.
+
+A number of years ago, in a certain country, there was a Constitution that was being formulated. Thirty-five people were selected from different areas of society---an uneven number, so that if there was a vote, the uneven number would carry the vote.
+
+At one stage, they were discussing what concept about social good to insert into the Constitution. There were two particular ideas up for grabs. One was to insert 'the greatest good for the greatest majority' or to insert the term 'the common good.'
+
+Now, 'the greatest good for the greatest majority' sounds very democratic and sounds very good, but what happens to minorities?"The common good" is a Thomistic concept based on Aristotle that talks about the well-being of each person. It\'s a very Christian concept.
+
+On this issue, the house was divided. One person was there to cast the final vote and spoke before voting.
+
+In that country, there was a small Muslim population. But the Muslim representative had voted in favor of the idea of 'the greatest good for the greatest majority.'
+
+This person, very politely, with great respect, said to this Muslim leader, "Your Honor, if we insert the phrase 'the greatest good for the greatest majority,' and the majority Catholic population in this country decide to kill all the Muslims, constitutionally, they will be okay."
+
+And so, the Muslim representative immediately said, "Okay, 'common good.'"
+
+It was a very good example of how one person with good Christian ideas and good doctrine, at a very key moment in a very key organization, could have a huge influence on the future development of the country and of the safeguarding of the dignity of each individual person, irrespective of their politics, of their beliefs, of their religion.
+
+When Our Lord is asked this question, He doesn\'t evade the question. But by His answer, He expresses it in its truest terms.
+
+The State should not elevate itself to the divine level, and the Church should not take sides in temporary affairs, which are constantly changing and which are of no more than relative importance.
+
+Christ does not give particular solutions to specific problems, which may have many different solutions, open to the freedom of men. That\'s the role of the Church also. Christ gives criteria, but the application of those criteria is left to individual persons.
+
+By replying as He did, He showed opposition as much to the Pharisees\' widespread error of the day about a messianic mission that was political, as He did to the error of the Roman State's---or of any state's---interfering in religious matters (cf. José María Casciaro, *Jesus and Politics*).
+
+By His answer, Our Lord clearly established two separate and distinct spheres of competence.
+
+*Gaudium et spes* of the Second Vatican Council says, "The political community and the Church are autonomous and independent of each other in their own fields. Nevertheless, both are devoted to the personal vocation of man, though under different titles" (Vatican II, *Gaudium et spes*, Point 76, December 7, 1965).
+
+The Church has not been given the mission of finding specific solutions for temporal matters. Her role is particularly spiritual.
+
+In this way, she follows Christ, who, by declaring that His "kingship is not from the world" (John 19:36), expressly refused to be constituted judge in the realm of earthly affairs. He tells people, "Who constituted me a judge over you? Go and solve it yourselves" (Luke 12:14).
+
+As Christians, we shouldn\'t fall into the mistake which Christ was so careful to avoid: of uniting the Gospel message, which is universal, to a particular political system, 'Caesar.'
+
+The Church transmits truth and values. The application of those values is left up to individual men.
+
+There\'s a famous phrase of St. Pope John Paul II, when he landed in the United States of America---I think he might have been going to the World Youth Day in Denver---and standing beside the President of the United States.
+
+He said, "There is no true democracy when there is no democracy for the unborn" (cf. John Paul II, Encyclical, *Evangelium vitae*, Point 101, March 25, 1995).
+
+Powerful criteria. So, we should avoid any situation where those who cannot give a wholehearted allegiance to a particular system, or party, or to Caesar, may be obliged to experience understandable difficulties in accepting a message which has, as its ultimate end, eternal life.
+
+The Church\'s mission, which continues, throughout time, the redemptive work of Christ, is one of leading men to their supernatural and eternal destiny. The Church is not a socio-political pressure group.
+
+Her just and necessary concern with problems that pertain to human society is all derived from her spiritual mission, and has to stay within the bounds of that mission.
+
+It\'s for us as Christians, placed in the very center of society, with all the rights and duties this brings with it, to find those solutions to temporal problems. That\'s part of our Christian mission.
+
+Hence, it\'s very important that all through our life we try to grow in our formation: to have more knowledge, more ability, more criteria, to solve those problems.
+
+It\'s a very good thing in your spiritual reading some time to read some of those social encyclicals, like *Rerum novarum*, *Sollicitudo rei socialis* of St. John Paul II, *Centesimus annus*, another one of St. John Paul II.
+
+We have to work to form around us a world which becomes ever more human and ever more Christian: a "civilization of love" and a "culture of life", St. Pope John Paul II said (*Letter to Families*, February 2, 1994; Apostolic Letter, *Salvifici doloris,* February 11, 1984; Encyclical, *Evangelium vitae*, March 25, 1995).
+
+We have to do this by being exemplary citizens who demand all their rights and equally know how to fulfill all their duties toward society.
+
+Sometimes in the world, we hear a lot about people talking about rights. We don\'t hear too much about duties and responsibilities.
+
+Here comes the duty and the obligation, the encouragement, the invitation by the Church to get involved in national and international organizations that are directing the future of society, so that we can place Christian criteria there.
+
+Try and build a world where the poor are better cared for, with housing, electricity, water, food; good employment. All these issues have to concern us.
+
+Wherever we are, we have to look around us and see: Who are the people around me that God wants us to do something for? In each neighborhood there\'s somebody. There might be poor people, there might be unemployed people, there might be elderly people who need a helping hand or a listening ear. But there\'s always somebody.
+
+The way that Christians act in public life then is not just limited to the fulfillment of certain legal norms, of what\'s laid down by law. They\'re called to have an influence.
+
+An Episcopal Conference has written, "The difference between the legal order and the moral criteria governing our own conduct will sometimes oblige us to go even further than the law demands, or to behave in a way that differs from what is asked for by the law\'s strictly juridical criteria (cf. Spanish Episcopal Conference, *Christians in public life*, April 24, 1986).
+
+A Christian has to go the extra mile. We have to be the good Samaritan. We have to think out of the box. We have to think of the future of society, the future of the family, the common good of each individual person in society.
+
+Notice how in this pontificate, Pope Francis has gone out of his way to try and help refugees. Shortly after his election, he went to Lampedusa, an island in the south of Italy that probably nobody in the world ever heard of, where the vast majority of refugees from the Middle East were coming. But he knew about it.
+
+And he went there personally, the head of the Catholic Church. Where else do you find a head of state doing something like that?
+
+He also traveled to Myanmar, one percent Catholic, as an expression of solidarity with some of the people there. It\'s not exactly a country where many heads of state travel. We see great example in the things that he has done in this area.
+
+We could ask ourselves: Am I known at work, whatever my job might be, as someone who does far more, for love of God and of men, than people are strictly obliged to do in terms of hours of work, or dedication, or interest, or sincere concern for people and their problems?
+
+A couple of years ago, we organized a Christmas party, as we do every so often, for kids in a poor area here in Nairobi. We got five or six or ten young guys in their last year in school to do most of the organizing.
+
+One of those kids was an orphan. He would stay in the boarding school during school time, and at holiday time he was looked after by an aunt of his, again in a very poor area of the city.
+
+He happened to tell this aunt that he was involved in organizing this party for poor kids. This aunt was a lady who sold vegetables at the side of the road. When she heard that he was involved in this party for kids, she got very excited. She produced three huge bags of sweets for those kids.
+
+I can\'t remember too much about that particular party because there have been many, but I don\'t think I\'ll ever forget that generosity and that kindness of that poor lady and that reaction of hers, which went far beyond what could have been expected from her, if anything at all.
+
+Our Lord says, "Render to Caesar the things that are Caesar\'s..." He made a distinction between those duties that relate to society and those that refer to God. But He didn\'t in any way want to impose on His disciples what would amount to a double existence.
+
+We\'re not one person when we\'re doing certain jobs and a different person when we\'re doing something else. There\'s a *unity of life*that has to exist there.
+
+Man is one, with just one heart and one soul, with his virtues and his defects, all of which have a bearing on his behavior. "In public life, just as in private life, a Christian must take his inspiration from the doctrine and the following of Jesus Christ" (*Ibid*.). That inevitably will make his behavior more human and still more noble.
+
+*Gaudium et spes* of the Second Vatican Council has said the Church has always proclaimed the just autonomy of temporal realities, understood, of course, in the sense that "created things and society itself are endowed with their own laws and values. ...
+
+"But if by the terms 'the autonomy of earthly affairs' is meant that material being does not depend on God, and that man can use it as if it had no relation to its Creator, then the falsity of such a claim will be obvious to anyone who believes in God. Without the Creator, there can be no creature" (Vatican II, *Gaudium et spes*, Point 36, December 7, 1965).
+
+Society then becomes inhuman and difficult to live in. And down through history, there are many examples of this.
+
+The Christian chooses their political, social, and professional options according to their innermost convictions. And what he gives to the society in which he lives is a true vision of man and of society, because only Christian doctrine offers us the complete truth about man, about his dignity, and about the eternal destiny for which he was created.
+
+However, there are many who on occasion would like Christians to live a double life---one life in their temporal and public activity, and the other in their life of faith. They even affirm, by means of sectarian or discriminatory words or actions, that there is an incompatibility between one\'s civic duties and the obligations that following Christ brings with it.
+
+St. Thomas More gives us a great example of living out our faith in all situations. He was even willing to lose his head over it.
+
+He\'s been lifted onto the altars for that heroic witness. He can be a great inspiration in our life to carry our Christian principles and beliefs into every sphere of human activity.
+
+Many years ago, there was a lady who was nominally Catholic who was going to go for the presidency of the United States. She said she was against abortion in her private life but when she entered into the political arena, she couldn\'t impose her views on other people.
+
+Very quickly, Cardinal O\'Connor of New York spoke out saying that that was not valid: if you are a Catholic, you are a Catholic all the way, in the political arena and out of the political arena, and you are not imposing your views on other people. You're just defending the principles of the sacredness of human life.
+
+We try to bring our values everywhere; the fragrance of Christ. As Christians, we must proclaim it with our words and with the testimony of our coherent lives.
+
+In the *Furrow*, St. Josemaría says, "It is not true that there is opposition between being a good Catholic and serving civil society faithfully. In the same way there is no reason why the Church and the State should clash when they proceed with the lawful exercise of their respective authorities, in fulfillment of the mission God has entrusted to them.
+
+"Those who affirm the contrary are liars, yes, liars! They are the same people who honor a false liberty and ask us Catholics 'to do them the favor' of going back to the catacombs" (Josemaría Escrivá, *Furrow*, Point 301), of retreating into silence.
+
+Our testimony in the middle of the world has to be manifested by a deep unity of life. That means we don\'t get involved in certain behaviors, or we don\'t cooperate in certain things that we know are wrong, even if everybody else is doing that.
+
+Even if it means we lose our job, even if we\'re the only person in the whole world who thinks that way, we have an obligation before God to do what is right.
+
+Love of God has to lead us to carry out faithfully all our obligations as citizens: to pay our taxes; to vote conscientiously in seeking to bring about the common good.
+
+Part of that is also talking to our public representatives, letting them know how we think on certain issues, particularly issues that are key to the well-being of society like the unborn, or the elderly, or other issues. It\'s one of the ways we have an influence.
+
+Failure to make our own opinion felt at whatever level---out of indifference, or laziness, or false excuses---by means of the ballot box or its equivalent, can be a fault against justice, because it means neglecting some rights, which, owing to the consequences how their virtual renunciation may have deleterious effects for other people.
+
+And that neglect can be serious if it means that by failing in our duty we have contributed to the success---within a professional body, or in the governing body of the school that our children attend, or in the political life of a country---of a candidate whose ideology is at variance with Christian principles. We have to use our power, our God-given power, our rights.
+
+John Paul II has exhorted us, "Be sure to live and infuse into temporal realities the sap of the faith of Christ, aware that this faith does not destroy anything that is truly human, but rather strengthens, purifies, and elevates it.
+
+"Bring that spirit," he says, "to bear in the attention you give to crucial problems: in the sphere of the family, by living and defending the indissolubility of marriage and all the other values contained within it, by fostering respect for all human life from the very moment of its conception.
+
+"Bring it to bear in the world of culture, of education, and of teaching, by choosing for your children a school in which the bread of Christian faith is presented to them.
+
+"Be strong, too," he says, "and generous, when you are called upon to contribute to the eradication of injustice and social and economic discrimination; when you are called upon to participate in the positive task of increasing and justly distributing earthly goods.
+
+"Bend every effort so that your laws and customs do not turn their back on the transcendent meaning of man and on the moral aspects of life" (John Paul II, *Homily*, November 7, 1982).
+
+If we are to be better Christians, then our union with God is important. St. Augustine comments, "And to God the things that are God's." Our Lord also stressed this aspect, although they did not expressly ask Him concerning it.
+
+"Caesar looks for his own likeness, give it to him. God looks for his own likeness: give it back to him. Do not cause Caesar to lose his coin because of you. Do not cause God to lose his coin among you" (St. Augustine, *Commentary on Psalm 58*, Point 8).
+
+The whole of our life is God\'s: our works, our concerns, our joys. ... Everything of ours is His, especially those moments---like these moments of prayer---that we dedicate exclusively to him.
+
+Being good Christians, we\'re used to wanting to be good citizens because our faith urges us all the time to be good students; to be good mothers who are capable of denying themselves and whose faith and love give them the strength to bring up their family in the best possible way; to be good and fair-minded businessmen.
+
+Christ\'s example leads us all to be hardworking, warm-hearted, cheerful, and optimistic. It urges us to do more than we\'re strictly obliged to do.
+
+I was impressed the other day. There was a guy who was checking the air in the tires of the car that I use. Instead of just checking the air, he told me that I needed to change the back tires to the front tires, to change them around a bit. It was a small thing, but it was an important observation.
+
+He didn\'t have to tell me that, but obviously, he went the extra mile and said it with a cheerful smile. I remember that fellow. He was an example of doing that extra little bit.
+
+This spirit teaches us to live loyalty towards our spouse, towards the firm we work for, and towards the party or group or team to which we belong.
+
+Love of God, if it\'s true love, is the guarantee of love for men and shows itself in deeds.
+
+We're told in the *Furrow*, "A decree went out from the Emperor Augustus enjoining that all the inhabitants of Israel should be registered. Mary and Joseph made their way to Bethlehem. Has it ever occurred to you that the Lord made use of the prompt acceptance of a law to fulfill his prophecy?
+
+"Love and respect the ways of behaving by which you may live in amity with other people. Have no doubt, either, that your loyal submission to duty can be the means for others to discover Christian integrity, which is the fruit of divine love, and to find God" (J. Escrivá, *Furrow*, Point 322).
+
+When we look at how Joseph and Mary fulfilled the law by going to Bethlehem, we can get examples from them of how we have to fulfill our civic duties in all the little things of each day.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*MML*

@@ -1,0 +1,189 @@
+---
+layout: homily
+title: "The Truth Will Make You Free"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"The Jews gathered around him and said to him, 'How long will you keep us in suspense? If you are the Christ, tell us plainly'" (John 10:24).
+
+The enemies of Our Lord asked Him this in order to force Him to give a compromising reply. If Our Lord spoke to them openly, He knew they would instantly try to stone Him. And He who is our model in everything taught us through His example what our approach should be.
+
+Christ was not put off by the Pharisees' hostile attitude. He said clearly, "I and the Father are one" (John 10:30). At once, He was surrounded by a furious crowd of Jews, shaking their fists and shouting. But Our Lord continued bearing witness to the truth.
+
+On many occasions, Our Lord gives us a great example of love for the truth. He said on another occasion, "If you continue in my word, you are my disciples. Then you will know the truth, and the truth will make you free" (John 8:31--32).
+
+Moral truth is a great liberating force. We always have to try and know and spread moral truth in the world.
+
+St. Josemaría in *Friends of God* comments, "How great a truth is this, which opens the way to freedom and gives it meaning throughout our lives.
+
+"I will sum it up for you, with the joy and certainty which flow from knowing there is a close relationship between God and his creatures. It is the knowledge that we have come from the hands of God, that the Blessed Trinity looks upon us with predilection, that we are children of so wonderful a Father.
+
+"I ask my Lord to help us decide to take this truth to heart, to dwell upon it day by day; only then will we be acting as free men.
+
+"Do not forget: anyone who does not realize that he is a child of God is unaware of the deepest truth about himself. When he acts he lacks the dominion and self-mastery we find in those who love God above all else.
+
+"Convince yourself that to get to heaven we must commit ourselves freely, with a whole-hearted, constant, and voluntary determination. By itself, however, freedom is insufficient: it needs a guide, a pole-star" (Josemaría Escrivá, *Friends of God*, Point 26).
+
+That guide, for us, is the Word of Christ and the Magisterium of the Church.
+
+"We shouldn't be afraid to speak the truth," he says, "although at times, it might be better to keep silent out of charity towards your neighbor." When genuine charity demands it and causes no harm, we should keep silent, but "never out of lukewarmness, love of comfort, or cowardice" (*cf*. J. Escrivá, *The Forge*, Point 129).
+
+You've received clear, precise doctrine, and that is what we must give to others. We can't remain passive when confronted with error or confusion, because "the truth will make you free" (John 8:32).
+
+As ordinary people in the middle of the world, it has to be our business to come to know the truth, to grow in our doctrinal formation, to take a lot of care with it, so that we can spread and sow those seeds of truth all over the place.
+
+There can be no agreement of truth with lies, says St. Leo the Great. No agreement of darkness with the light. But we bear the light and so, we have to be intransigent with regard to error. It's holy in the first place because we don't yield on things which belong to God and which therefore are holy.
+
+We are only custodians and faithful administrators of the truth. We'll be asked to account for how we have looked after that truth and spread the truth in our family, in our workplace, in our social relations, how we have lived by those principles of truth.
+
+To give way in matters of truth, said St. Josemaría, would be "a sure sign of not possessing the truth. When a person gives way in matters of ideals or honor or of faith, then that person is without ideals, without honor, and without faith" (J. Escrivá, *The Way*, Point 394).
+
+We're not swayed by personal interests. Instead, we say what we have a duty to say, even at the risk of our own lives, even if we were to lose our job, if the roof was to fall in on top of us.
+
+If we're called by God to be a conscientious objector in all fields of professional endeavor, because we're not willing to do things that are wrong, that witness that we give can be a great liberating force in the lives of many others.
+
+I know a person many years ago who was a medical student who refused to cooperate in abortions, which was a necessary part of the curriculum. He was the only person who had ever refused to do so in the history of that medical school.
+
+It caused consternation. The professor of Medicine came to talk to him, threatened him that they would not allow him to continue his studies if he didn't cooperate. Even a very high official from the Ministry of Health came to speak to him.
+
+But this person said, 'No, I will not cooperate.' They threatened to throw him out of the faculty, not to allow him to finish Medicine. They said even if he went and finished his study somewhere else, he would never be allowed back in the country to practice Medicine. They threw at him everything they possibly could, but he said, 'No, I will not do something that is wrong.'
+
+When they saw his determination, they realized that if all Christians or other people would adopt this position, it would jeopardize the whole abortion industry. So they had to back down and they allowed him to continue with his position of conscientious objection.
+
+There was one girl there from a communist country who had no religion, and she was so impressed with this example and with this truth that he was upholding that she came to tell him, 'Look, I'm not going to perform abortions either or cooperate in this business of learning them.' She found it repulsive.
+
+Sometimes the example we give in living the truth lights fires in other people's hearts and minds.
+
+We have to look after the rights of God, of the Church, and tell the truth without compromising. St. Paul talks about "speaking the truth in love" (Eph. 4:15).
+
+We're not here to offend people. We don't teach the truth with charity, or we can run the risk of weakening the doctrine itself, which is all about love.
+
+We have to take into account that people are made up of more than just reason alone. If we hurt them, apart from lacking charity towards them, we also risk making them close their hearts against the truth.
+
+St. Josemaría says, "Never use violence. I can't understand violence. And I don't think it's the right way to convince or win people over. A person who receives the faith always feels victorious. Error is to be fought with prayer and God's grace, with calm reasoning, with studying, and getting other people to study. And I repeat, with charity. That's why if ever anyone is mistreated because he or she is in error, be sure that I will feel the need to stand alongside that person and share their sufferings out of love of God."
+
+And besides being preached, the truth must also be practiced and lived. The example we give to other people of living the truth can be enormous.
+
+St. Josemaría says, "The world thrives on lies even twenty centuries after the Truth came among men" (J. Escrivá, *The Forge*, Point 130).
+
+We practice the truth when we don't allow any lie to enter our life. Try and make the resolution never to tell a lie for the rest of your life, to live by the truth.
+
+St. Josemaría says, "We have to tell the truth! This is precisely what we have to do as children of God. When people get used to proclaiming and hearing the truth, there will be more understanding in this world of ours" (*ibid*.).
+
+We have to remind ourselves all the time that the devil is "the father of lies" (John 8:44). If we start telling lies and living by lies, it's easy for the whole of our life to become a lie.
+
+Our Lord sets an example of His life. He said to the Jews, "If I am not doing the works of my father, then do not believe me; but if I do them, even though you do not believe me, believe the works that I do..." (John 10:37--38).
+
+Our lives have to be sincere. We have to reflect the truth. We should be transparent. People should be able to see through us the ideals that we live by. We speak what we believe. We live what we believe.
+
+"We who have Christ's truth in our hearts," says St. Josemaría, "must bring this truth into the hearts, minds, and lives of other people" (*cf*. J. Escrivá, *The Forge*, Point 946).
+
+I heard a person say once that in a school and in a university, the teacher becomes the curriculum. The teacher becomes the curriculum.
+
+You might have the best books and greatest values in textbooks that ever existed, but if the teacher is not living those truths, then those textbooks are useless, because the values of the teacher, the lifestyle, the way he speaks, the way he acts in front of the students that reflect his private life---it comes across with great clarity.
+
+So the formation of the teacher, the lifestyle of the teacher, the virtues of the teacher become very important in transmitting those values and that faith and that truth to people who are watching and listening.
+
+The opposite may be all very comfortable but bad policy if the duty of leading all souls along Christ's path. Therefore, in a Christian educational institution, a school, a university, a kindergarten, the values that the teaching staff live by come to be very important. They become the curriculum.
+
+We can only achieve this by imitating Our Lord who "began to do and to teach" (Acts 1:1). And so we have to try and bear witness with our upright lives, allowing no falsity, no duplicity to creep into our lives.
+
+Then our words bring that good aroma of Christ, the "fragrance of Christ" to other people (*cf.* 2 Cor. 2:15). People pick it up immediately because Christ is the one who attracts, who convinces, who makes other people fall in love.
+
+St. Josemaría says, "The Christian must prove himself to be genuine, truthful, and sincere in all that he undertakes" (J. Escrivá, *Friends of God*, Point 141).
+
+How important that is in any professional organization. The Christian lives by the truth, and truth builds trust and trust builds loyalty. Very important in social institutions, in marriage, in the family, in factories, in companies, in firms.
+
+"His conduct," says St. Josemaría, "should reflect a spirit---the spirit of Christ" (*ibid*.).
+
+We have to bring the spirit of Christ into everything. We don't just "tell the truth, the whole truth, and nothing but the truth" when we have our hand on the Bible in a court case. That has to be the case in every moment of our life, so we become to be known as people who speak the truth, who live by the truth.
+
+"If anyone in this world has a duty to be consistent with their beliefs, it is the Christian," says St. Josemaría, "because he has been entrusted with the gift that he must make fruitful, and that gift is the truth which liberates and saves" (*ibid*.).
+
+I was at a pro-life conference in Manila one time. A lady doctor from Liverpool was speaking. She said, "We can be very proud of our Church."
+
+It was a very beautiful thing to hear, because our Church has been the only Church that has been faithful to the sacredness of every human life in the last fifty years.
+
+Faithful to that truth at all personal cost. All the other churches have bent. Our Church has the truth about human sexuality, the truth, the beauty, and love that is enshrined there, the dignity of the human person, the dignity of human procreation---great truths that we have to proclaim in the length and breadth and height of this planet all over the place at every opportunity, because young people are being robbed of that truth. They're not being told the truth.
+
+This speaker said, "Women are not being told the truth, the truth about what happens to their bodies with contraception or with abortion."
+
+And she said, "The first right of women is the right to know the truth."
+
+Governments, multinational corporations have a great obligation to inform people. Young people today have a great right to know the truth about the human body, about the dignity of the human person, about human procreation.
+
+All of those wonderful truths, life-giving truths, liberating truths, are found in the documents of the Catholic Church and nowhere else---that truth that liberates and saves. We have to build a whole new society.
+
+"But Father, you might ask me," says St. Josemaría, "how am I to achieve this sincerity of life? Jesus Christ has given his Church all the means necessary. He has shown us how to pray, how to get to know his heavenly Father. He has sent us his spirit, the Great Unknown, who acts within our souls. And he has left us those visible signs of his grace that we call the sacraments. Use them. Intensify your life of piety. Pray every day. And never refuse to shoulder the sweet burden of Christ's cross" (*ibid*.).
+
+There was a man in a certain area of the Philippines who had been a leader of Planned Parenthood, of policies to limit family growth in one whole area.
+
+But over time he changed his ideas because, he said, "we had model families who were two children in very poor areas. And I noticed over time how those poor families that had two children---they had one particular family had two little girls and they grew up and they went into the local city and they got jobs as household help, and maybe they were paid \$500 a month and they brought home \$1,000 a month.
+
+"But," he said, "the family next door who were not one of our model families had eight daughters. And they grew up through lots of difficulties and conflicts and problems, but they survived. And they went into the local town and they also got jobs as household help. Instead of bringing home \$1,000 at the end of the month, they brought home \$4,000."
+
+He said, "I realized over time we weren't solving the problem of poverty. We were perpetuating the problem of poverty."
+
+He said, "I had another family who was a model family for Planned Parenthood, two children. But then there was a typhoon and there was a flood, and those two children got washed away in the flood. The mother in that family had been sterilized, so they couldn't have any more children."
+
+"And so," he said, "those two children of that poor family, which were to be their insurance policy for the rest of the life of those parents, they lost their insurance policy."
+
+He said, "We had condemned them to a life of poverty."
+
+That man realized what he was witnessing. He changed; he became the pro-life leader in that district. He became a very vociferous promoter for population growth, for respecting the laws of nature and of God, and accepting the children that God may want to send you.
+
+Sometimes there are truths that we are being exposed to that are being promoted by governments, by organizations, that can bring about disastrous consequences. There are some organizations that are very powerful in societies that have been called the most evil organizations in the world.
+
+Sometimes their policies are projected into every family, into every school, into every organization you can think of.
+
+As followers of Christ, we have to be very aware of the truth---the truth that is beautiful, that liberates; the truth about human love that young people are being denied; the truth about human procreation that married people are being denied; the truth about what this life is all about, of where we are headed.
+
+John Paul II, in nearly each of his encyclicals, asked the question that he says every human person must keep asking themselves. "Where have I come from? Where am I going? What is my life all about?" (*cf*. John Paul II, Encyclical, *Fides et Ratio*, Point 1, September 14, 1988).
+
+He says in the answers to those questions very often we find the happiness that we're meant to find in this world, or we may not find it.
+
+We have to keep asking ourselves those questions that we find the truth. We have been created for truth, not for lies, not for falsehoods. "The devil is the father of lies" (John 8:44).
+
+So we can ask Our Lord for the grace to have a certain sensitivity, a certain nose for things that are true. And if we hear things that sometimes don't sound quite right, or don't seem to be the full truth, or that seem to mask some greater truth that is there about life, about the human person, about the family, about marriage, about the future, maybe we should follow our sensitivities, keep stirring in up in us that appetite for truth. Our intellect has been created for truth.
+
+We could ask Our Lord that through Our Lady's intercession, we might have a great love for the truth so that we might want to always put that truth into practice, so that our life is based on truth, and that we might always live in the truth, whatever that sacrifice might involve, so that we never cooperate in any falsehood, never cooperate in any evil; that we may speak the truth without cowardly ambiguities, motivated by a great charity...
+
+In order to live a life which is truly human, we need to have a great love for the truth, which in a way is something that is sacred and must be treated with respect and love.
+
+The truth has sometimes been so obscured by sin, by our passions, by a spirit of materialism, that if we did not live it, we would never come to discern it. It's very easy to accept a lie, and it comes to the aid of our laziness, or flatters our vanity or our sensuality, or encourages us in a false sense of prestige. Sometimes the cause of insincerity is vainglory, or pride, or even a fear of looking foolish.
+
+Our Lord loved this virtue so much that He declared of Himself, "I am the truth" (John 14:6). And He said: "The devil is a liar and the father of lies" (John 8:44). A very good thing to remind ourselves of from time to time: everything the devil promises is false. Our Lord will ask the Father for us, for His own. He says that we may be "sanctified in the truth" (John 17:17).
+
+Sometimes we hear a lot of talk today about authenticity. In spite of that, often people can hide themselves in anonymity or disguise the true motive for their actions and conceal them from themselves and from others.
+
+Often if we look back and examine the reasons why we did certain things, even very altruistic things, if truth were told, you might find that maybe there's a 30 percent altruistic motive there, but 70 percent may be because of me.
+
+Some can try to remain anonymous before God and flee from any personal encounter with Him in prayer or in their examination of conscience. But we will not be good Christians if we're not sincere with ourselves, with God, and with other people. We can be afraid of the truth because it can be demanding.
+
+Temptation may come to us to resort to pretense, or to a small deception, or to a half truth, or even to a lie.
+
+On other occasions, we might be tempted to give another name to facts or to things so as not to upset people by telling them the truth as it is.
+
+Sincerity is a Christian virtue of the highest order. We would not be good Christians if we did not live it with all of its consequences.
+
+Sincerity with ourselves leads us to acknowledge our faults without any pretense and without seeking false excuses. Sincerity puts us on our guard against fabricating the truth, or pretending that what suits us is true, like those who try to deceive themselves by saying that for them something forbidden by God's law is not a sin.
+
+Subjectivity or our passions or lukewarmness can all contribute towards our not being sincere with ourselves. The person who doesn't live this radical sincerity can easily deform their conscience and fall victim to an interior blindness as regards the things of God.
+
+Another way of deceiving ourselves is to be reluctant to accept the consequences of truth so as not to face up to them, or in such a case not to say the whole truth.
+
+St. Josemaría in *The Way,* Point 33, says, "You never want to get to the heart of the matter. Sometimes, through politeness. Other times, most times, through fear of hurting yourself. Sometimes again, through fear of hurting others. And always, through fear. As long as you are so afraid of the truth you will never be a person of sound judgment, a person of worth."
+
+The means that we first have to use is to be sincere in our prayer. Ask Our Lord to let us see the truth of our errors and the defects of our character, and ask for the strength to acknowledge them as such, and for the courage to ask His help in the inevitable struggle, so that with Our Lady we can say, "My soul magnifies the Lord, and my spirit rejoices in God my Savior" (Luke 1:47).
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*EW*

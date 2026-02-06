@@ -1,0 +1,157 @@
+---
+layout: homily
+title: "With the Readiness of Love—Vigilance"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+We're told in St. Luke, "Let your loins be girded, and your lamps burning, and be like men who are waiting for their master to come home from the marriage feast, so they may open to him at once when he comes and knocks" (Luke 12:35-36).
+
+The phrase "to gird one's loins" is a metaphor derived from the customs of the Hebrews and from the people of the Middle East in general. A person would hitch his long voluminous garment up before setting on a journey, to travel more smoothly on the dusty roads.
+
+In the Book of Exodus, we can read how God instructed the Israelites in the rite of the Passover sacrifice. "In this manner," it says, "you shall eat: your loins girded, your sandals on your feet, and your staff in your hand" (Ex. 12:11). The Israelites were to dress in readiness for their desert-passage to the Promised Land.
+
+In the same way, "having one's lamps burning" is a symbol of the kind of expectant readiness appropriate for someone awaiting the arrival of another.
+
+Once again, Our Lord reminds us that our attitude ought to be that of one about to start out on an important journey, or of one who is all prepared for the coming of an important guest.
+
+Christian life can't be characterized by drowsiness and neglect. There are two reasons for this. Firstly, the enemy doesn't take vacations. He's constantly at work against us. We're told by St. Peter, "Your adversary the devil prowls around like a roaring lion, seeking for someone to devour" (1 Pet. 5:8).
+
+Secondly, as we're told in the Book of Songs, no one in love is lethargic and sleepy-headed (*cf*. Song 5:2).
+
+Chiara Lubich, founder of Focolare, says, "Vigilance is proper to love. When one loves another, the heart is always alert, eagerly expectant. Not a minute passes without the loved one's being on our mind. ... Jesus asks for our love. That is why he calls us to be vigilant" (Chiara Lubich, *Meditations*).
+
+Near the papal summer residence of Castel Gandolfo in Italy, there's an image of Our Lady at the roadside, with an inscription that reads: *Cor meum vigilat*, my heart is ever vigilant. The heart of Our Lady is ever vigilant for love.
+
+We can make that inscription our own. St. Josemaría liked that inscription very much. We should be vigilant for love, to discover that Love who passes so close to us.
+
+St. Ambrose teaches that if the soul is asleep, Our Lord will pass by without even knocking. "But," he says, "if the heart is attentive, he will knock and ask to come in" (*cf*. St. Ambrose, *Commentary on Psalm 18*).
+
+Our Lord passes by throughout the course of the day. What a pity if through our being half asleep, we were to fail to greet Him!
+
+The Psalmist says, "I love you, O Lord, my strength. The Lord is my rock, and my fortress, and my deliverer" (Ps. 18:1-2).
+
+St. Bernard says, "The most precious and most lovable thing I can imagine is you. Help me, my God! I love you with all the ardor of the nature you have given me. This is much less than I ought to love you, but it is no less than I am able to love you. \... I can love you more if you increase my ability to love, though I certainly will never love you as you deserve" (St. Bernard, *Treatise on the Love of God*).
+
+We shouldn't allow, through lack of vigilance on our part, that other things will come to occupy the place in our heart reserved for Our Lord.
+
+Jesus, teach me to keep my heart free for you. I want my heart to be ready for you when you come.
+
+It's important for us to be vigilant in matters of apparently little moment, of little importance. The prophet Habakkuk says, "I will take my stand to watch, and station myself on the tower, and look forth to see what he will say to me, and what I will answer concerning my complaint" (Hab. 2:1).
+
+St. Bernard comments: "This attitude of watchfulness applies to us as well, because now is the hour of combat" (St. Bernard, *Sermon 5:4*).
+
+We have to be prepared to fight every day, often in little things, because of the many obstacles that can separate us from God.
+
+Our determination to be vigilant can become practical in the faithful fulfillment of our norms of piety. Those encounters with Our Lord will fill us with strength and peace. We need to be on the look-out for any weakening of our resolve as a result of fluctuations of mood or mere transient feelings.
+
+Our struggle needs also to be centered on the practice of charity towards others, on the formation of our character, on the effort to be more cordial, to live a constant spirit of service, to be cheerful. We may need to put more effort into doing a better job at work, into being punctual, into keeping up our human, professional, and spiritual formation.
+
+This attitude of vigilance does not guarantee that we shall always be victorious. Inevitably, we will know both victories and defeats (goals we have failed to achieve, resolutions carried out in a half-hearted manner).
+
+Many of our defeats will be of relative importance. For those that prove more serious, we should make reparation and be contrite before the Lord. He will give us the strength to carry on.
+
+St. John Chrysostom once wrote to someone who had fallen away from the faith: "The worse thing is not that the warrior has fallen in battle. The worse thing would be that he remains down.
+
+"It's not the end when someone falls wounded in the fray. What is lamentable is when the wounded person does not go to get proper treatment for his wounds" (John Chrysostom, *Epistle 2 to Theodore*).
+
+Let us not forget that our struggle in little things serves to strengthen the soul and enhance its docility to the action of the Holy Spirit.
+
+The other side of the coin is that our neglect of little things provides the breach in our defenses, where the enemy frequently has us at a disadvantage: we may be neglectful or careless in matters of punctuality, in the quality of our prayer, in remembering the value of little mortifications at meals, in the guarding of our senses.
+
+In *Christ Is Passing By*, St. Josemaría says, "We must convince ourselves that the worst enemy of a rock is not a pickaxe or any such implement, no matter how sharp it is. The worst enemy is the constant flow of water, which drop by drop enters the crevices until it ruins the rock's structure.
+
+"The greatest danger for a Christian is to underestimate the importance of fighting skirmishes. The refusal to fight the little battles can, little by little, leave him soft, weak, and indifferent, insensitive to the accents of God's voice" (Josemaría Escrivá, *Christ Is Passing By*, Point 77).
+
+We need to be alert to the threat of lukewarmness. We are told in Scripture that God is very pleased at the sight of a soul that is attentive to His coming, day in and day out.
+
+Our Lord says, "Blessed are those servants whom the master finds awake when he comes; truly, I say to you, he will gird himself and have them sit at table, and he will come and serve them" (Luke 12:37).
+
+God is ready to do wonderful things for us. It's worthwhile to be vigilant. Our souls should be filled with hope, listening for the footsteps of the Lord.
+
+A heart in love is always alert like the sentry on guard duty. The soul sunk in lukewarmness is, by contrast, fast asleep.
+
+Lukewarmness may be thought of as a downward-sloping plane leading one further and further away from God. Gradually, the one who is "neither hot nor cold" becomes interested in the advantages of not overdoing things, about merely avoiding sin, about not overreacting to or making a big issue of venial sin.
+
+This attitude of half-hearted struggle is easily justified by reasons of naturalness, of expediency, of health, of empathy with others. The lukewarm person becomes increasingly sympathetic towards his own feelings, caprices, and love of comfort. Human weaknesses assume a subjective necessity.
+
+The soul's power of resistance becomes weaker and weaker and almost guarantee the eventual collapse into serious sin.
+
+When the soul is steeped in lukewarmness, it lives without concrete goals in the interior struggle. It travels on a descending spiral. The effort to become better is shrugged aside.
+
+The heart experiences a feeling of emptiness concerning the things of God, concerning God Himself. The lukewarm person tries to fill that void with worldly things, but his striving is in vain. His dealings with God become cold and lifeless.
+
+Before the onset of lukewarmness, there's always been a history of small infidelities, which bit by bit contribute to the soul's sense of alienation.
+
+"Let your loins be girded and your lamps burning\...." We need to have a keen ear for the footsteps of the Lord. This is a daily challenge and concerns specific points of concrete struggle.
+
+In heaven we will see God, and that will fill us with a great joy. The extent of that joy will be related to our holiness here on earth. Yet the mercy of God is so great that He has prepared additional motives for our joy in heaven.
+
+Theologians have termed these goods *accidental glory*. They include being in the company of Jesus Christ glorified, Mary Our Mother, St. Joseph, the angels, particularly our guardian angel, and all the saints. We will have the joy of being with our loved ones---parents, brothers and sisters, friends, those people who showed us our vocation.
+
+In heaven, we should be capable also of acquiring new knowledge of using our faculties (Thomas Aquinas, *Summa Theologiae*, Part 1, Q89).
+
+We will have the joy of seeing new souls enter heaven. We'll be able to see the progress of our friends on earth. We will see the fruits of our apostolic efforts and sacrifices.
+
+At the time of the Last Judgment, we will possess our resurrected and glorified body. Accidental glory can increase up to the time of the Last Judgment.
+
+In order to enjoy all these things, it's necessary for us to be vigilant. We need to foster the virtue of hope, so that it will strengthen us in moments of difficulty. So much is at stake.
+
+We have to be vigilant in our struggle to be detached from the things of earth; also to realize that we are capable of getting attached to anything. Any little thing can become for us the most important thing in the world. We can all lose our vision, our sense of proportion, our sense of direction.
+
+Our Lord has given us ample warning. "Take heed to yourselves," we're told in St. Luke, "lest your hearts be weighed down with dissipation and drunkenness and the cares of this life ... but watch at all times, praying that you may have the strength to escape all these things that will take place and to stand before the Son of Man" (Luke 21:34-36).
+
+We also have the consoling words of Our Lord: "I have to go to prepare a place for you" (John 14:2). Heaven is our definitive homeland. There we will enjoy the company of Our Lord and Our Lady. But here we are wayfarers.
+
+"And when the moment comes, when we are to give an account to God, we will not be afraid. Death will only be a change of lodgings," said Blessed Álvaro del Portillo. "It will come when God wants, being that liberation, that point of entry into the fullness of life.
+
+"Life changes; it does not come to an end. We have a firm hope that we will live in a new way, very united to Our Lady, as we adore the Most Holy Trinity: Father, Son, and Holy Spirit. This is the reward that awaits us" (Álvaro del Portillo, *Homily*, August 15, 1989).
+
+Our Lord tells us in Scripture that His coming in glory will take people unawares. "For as the lightning flashes and lights up the sky from one side to the other, so will the Son of Man be in His day" (Luke 17:24).
+
+The disciples had a natural curiosity about when and where this would take place. "Where, Lord?" they asked Him. "Where the body is," He replied, "there the eagles would be gathered together" (Luke 17:37).
+
+Our Lord teaches us that everyone will be drawn to the Son of God at the end of time, just as the eagles converge on their prey. The same can be said about each individual person's moment of death.
+
+St. Paul sent words of warning to the first Christians of Thessalonica, "For you yourselves know well that the day of the Lord will come like a thief in the night" (1 Thess. 5:2). It is one more call to vigilance. We can't be blind to our final moment on earth, the day of the Lord, when we will meet God face to face.
+
+St. Augustine says that the Lord has kept the circumstances of His coming hidden so that we can be always on the alert (St. Augustine, *Commentary on Psalm 120*).
+
+There are certain environments today where it's not politically correct to speak about death and dying. The very mention of the subject can be regarded by some as a sign of bad taste.
+
+But it's the certainty of death that illuminates our life. The Church invites us to meditate frequently on the inevitability of our death so that we will not be taken by surprise when our time comes.
+
+Pagan culture would have us live as though death were a distant mirage, something that only affects other people. Many who consider themselves good Christians can be unduly influenced by such a seductive approach to life.
+
+They are led astray because they fail to come to terms with the real meaning of death. Rather than see death as a friend or even as a sister (*cf*. J. Escrivá, *The Way*, Points 735, 739), as some saints have called it, they view it as an enormous catastrophe, as something that will undermine all their worldly hopes and accomplishments.
+
+Our Lord invites us to store up treasures in heaven and to be vigilant on a daily and hourly basis, for doing so, by launching out into the deep (Luke 5:4) in our apostolate, by having different apostolic goals to work towards. The earthbound approach explains why death can often be put in the closet, as it were. It is too uncomfortable a subject to deal with.
+
+Instead of looking upon death as the key to the fullness of joy, the tendency is to see it as the end of the road, a check-out counter on for what is for them a kind of terrestrial shopping spree.
+
+These people have lost sight of the fact that every man is in possession of an eternal soul. And so, death is nothing more than a change of lodging, as St. Josemaría liked to call it (*cf*. *ibid*., Point 744). The liturgy often reminds us that life is changed, not taken away.
+
+And so, Christians believe that death represents the end of an earthly pilgrimage. Believers prepare for death on a daily basis. It's through the sanctification of ordinary realities that we will win heaven as an eternal reward.
+
+The Christian who behaves accordingly will not be alarmed by death's arrival. He will have been patiently readying himself for this definitive encounter with the Lord. He will be vigilant.
+
+St. Cyprian says death "is a steppingstone into eternity after we have run this earthly race" (St. Cyprian, *Treatise on Mortality*).
+
+"If at any time," says St. Josemaría, "you feel uneasy at the thought of our sister death because you see yourself to be such a poor creature, take heart. Heaven awaits us and consider: what it will be like when all the infinite beauty and greatness and happiness and love of God will be poured into the poor clay vessel that the human being is, to satisfy it eternally with the freshness of an ever new joy? (J. Escrivá, *Furrow*, Point 891).
+
+No one has more watchfully prepared for the coming of Christ than His Mother Mary. And so, she will teach us how to be vigilant if we ever find ourselves threatened by lukewarmness.
+
+St. Bernard says, "My Lord, how good you are to those who seek you! (*cf*. Lam. 3:25). Imagine how good you will be to those who find you!" (St. Bernard, *Sermons on the Canticles*).
+
+We have found Our Lord. We can make a resolution never to lose Him. And if we stay close to Our Lady and take care of our Marian piety on a daily basis, we know that Our Lady will always be there beside us all the time, and will lead us to that safe haven for which we are destined.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*BWM*

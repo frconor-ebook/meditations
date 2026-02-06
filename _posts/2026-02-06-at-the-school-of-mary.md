@@ -1,0 +1,119 @@
+---
+layout: homily
+title: "At the School of Mary"
+---
+
+At the School of Mary
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+Pope St. John Paul II says that if we want to "rediscover in all its richness the profound relationship between the Church and the Eucharist, we cannot neglect Our Lady, Mother and model of the Church" (John Paul II, Encyclical Letter, *Ecclesia de Eucharistia*, Point 53, April 17, 2003).
+
+In the Apostolic Letter that he wrote for the Year of the Rosary called *The Rosary of the Virgin Mary*, he pointed out Our Lady as "our teacher in contemplating Christ's face" and also, among the *Mysteries of Light* in that document, he included The Institution of the Eucharist (John Paul II, *ibid*. and Apostolic Letter, *Rosarium Virginis Mariae*, Point 21, October 16, 2002).
+
+He says, "Mary can guide us towards this most holy sacrament, because she herself has a profound relationship with it. At first glance, the Gospel seems silent on the subject. The account of the institution of the Eucharist on the evening of Holy Thursday makes no mention of Our Lady.
+
+"Yet we know that she was present among the Apostles who prayed 'with one accord' (*cf*. Acts 1:14) in the first community which gathered after the Ascension in expectation of Pentecost.
+
+"...Our Lady must have been present at the Eucharistic celebrations of the first generation of Christians who were devoted to 'the breaking of bread' (Acts 2:42).
+
+"But in addition to her sharing in the Eucharistic banquet, an indirect picture of Our Lady's relationship with the Eucharist can be had, beginning with her interior disposition" (*ibid*.).
+
+St. John Paul says, "Mary is a 'woman of the Eucharist' in her whole life. The Church, which looks to Mary as a model, is also called to imitate her in her relationship with this most holy mystery" (*ibid*.).
+
+We refer to the Eucharist as the mystery of faith. "If the Eucharist is a mystery of faith which so greatly transcends our understanding as to call for the sheer abandonment to the word of God, then there can be no one like Our Lady to act as our support and guide in acquiring that disposition. In repeating what Christ did at the Last Supper in obedience to his command, 'Do this in memory of me' (Luke 22:19), we also accept Our Lady's invitation to obey him without hesitation: 'Do whatever he tells you' (John 2:5).
+
+"With the same maternal concern which she showed at the wedding feast of Cana, Our Lady seems to say to us: 'Do not waver; trust in the words of my Son. If he was able to change water into wine, he can also turn bread and wine into his body and blood, and through this mystery bestow on believers the living memorial of his Passover, thus becoming the bread of life' (*Ecclesia de Eucharistia*, Point 54).
+
+"In a certain sense, Our Lady lived her Eucharistic faith even before the institution of the Eucharist, by the very fact that she offered her virginal womb for the incarnation of God's Word. The Eucharist, while commemorating the passion and resurrection, is also in continuity with the incarnation. At the Annunciation Mary conceived the Son of God in the physical reality of his body and blood, thus anticipating within herself what to some degree happens sacramentally in every believer who receives the Lord's body and blood under the signs of bread and wine.
+
+"...there is a profound analogy between the *Fiat* \['let it be done'\], which Mary said in reply to the angel, and the *Amen* which every believer says when receiving the body of the Lord. Mary was asked to believe that the One whom she conceived 'through the Holy Spirit' was 'the Son of God' (Luke 1:30-35). In continuity with Our Lady's faith, in the Eucharistic mystery we are asked to believe that the same Jesus Christ, Son of God and Son of Mary, becomes present in his full humanity and divinity under the signs of bread and wine.
+
+"'Blessed is she who believed' (Luke 1:45). Our Lady also anticipated, in the mystery of the incarnation, the Church's Eucharistic faith. When, at the Visitation, she bore in her womb the Word made flesh, she became in some way a 'tabernacle'---the first 'tabernacle' in history---in which the Son of God, still invisible to our human gaze, allowed himself to be adored by Elizabeth, radiating his light as it were through the eyes and the voice of Mary. And is not the enraptured gaze of Our Lady as she contemplated the face of the newborn Christ and cradled him in her arms that unparalleled model of love which should inspire us every time we receive Communion?" (*ibid*., Point 55).
+
+"Our Lady, throughout her life at the side of Christ and not only on Calvary, made her own the sacrificial dimension of the Eucharist. When she brought the Child to the Temple in Jerusalem 'to present him to the Lord' (Luke 2:22), she heard the aged Simeon announce that the child would be 'a sign of contradiction' and that a sword would pierce her own heart (*cf*. Luke 2:34--35).
+
+"The tragedy of her Son's crucifixion was thus foretold, and in some sense, Mary's *Stabat Mater*, \[standing\] at the foot of the Cross, was foreshadowed. In her daily preparation for Calvary, Our Lady experienced a kind of 'anticipated Eucharist'---one could say a 'spiritual communion'---of desire and of offering, which would culminate in her union with her Son in his passion, and then find expression after Easter by her partaking in the Eucharist which the Apostles celebrated as the memorial of that passion.
+
+"What must Our Lady have felt as she heard from the mouth of Peter, John, James, and the other Apostles the words spoken at the Last Supper: 'This is my body which is given for you' (Luke 22:19)? The body given up for us and made present under sacramental signs was the same body which she had conceived in her womb! For Our Lady, receiving the Eucharist must have somehow meant welcoming once more into her womb that heart which had beaten in unison with hers and reliving what she had experienced at the foot of the Cross" (*ibid*, Point 56).
+
+"In the 'memorial' of Calvary, all that Christ accomplished by his passion and death is present. Consequently, all that Christ did with regard to his Mother for our sake is also present. To her he gave the beloved disciple, and, in him, each of us: 'Behold your son!' To each of us he also says: 'Behold your mother!' (*cf*. John 19:26-27).
+
+"Experiencing the memorial of Christ's death in the Eucharist also means continually receiving this gift. It means accepting, like John, the one who is given to us anew as Our Mother. It also means taking on a commitment to be conformed to Christ, putting ourselves at the school of his Mother and allowing her to accompany us.
+
+"Our Lady is present, with the Church and as the Mother of the Church, at each of our celebrations of the \[Eucharist\]. If the Church and the Eucharist are inseparably united, the same ought to be said of Our Lady and the Eucharist. This is one reason why, since ancient times, the commemoration of Our Lady has always been part of the Eucharistic celebrations of the Churches of East and West.
+
+"In the Eucharist, the Church is completely united to Christ and his sacrifice, and makes her own the spirit of Mary. This truth can be understood more deeply by rereading the *Magnificat* in a Eucharistic key. The Eucharist, like the Canticle of Mary, is first and foremost praise and thanksgiving. When Our Lady exclaims: 'My soul magnifies the Lord and my spirit rejoices in God my Savior' (Luke 1:46--47), she already bears Jesus in her womb. She praises God 'through' Jesus, but she also praises him 'in' Jesus and 'with' Jesus. This is itself the true 'Eucharistic attitude.'
+
+"At the same time, Our Lady recalls the wonders worked by God in salvation history in fulfillment of the promise once made to the fathers (*cf*. Luke 1:55), and proclaims the wonder that surpasses them all, the redemptive incarnation.
+
+"Lastly, the *Magnificat* also reflects the eschatological tension of the Eucharist. Every time the Son of God comes again to us in the 'poverty' of the sacramental signs of bread and wine, the seeds of that new history wherein the mighty are 'put down from their thrones' and 'those of low degree are exalted' (*cf*. Luke 1:52), take root in the world.
+
+"Our Lady sings of the 'new heavens' and the 'new earth' which find in the Eucharist their anticipation and in some sense their program and plan.
+
+"The *Magnificat* expresses Our Lady's spirituality, and there is nothing greater than this spirituality for helping us to experience the mystery of the Eucharist. The Eucharist has been given to us so that our life, like that of Our Lady, may become completely a *Magnificat*" (*ibid*., Points 57-58).
+
+John Paul II said, "Several years ago I celebrated the fiftieth anniversary of my priesthood. Now I write this Encyclical on the Eucharist \[on the Holy Thursday\] that falls during the twenty-fifth year of my Petrine ministry.
+
+"As I do so," he said, "my heart is filled with gratitude. For over a half a century, every day..., my eyes have gazed in recollection upon the host and the chalice, where time and space in some way 'merge' \[and\] the drama of Golgotha is represented in a living way, thus revealing its mysterious 'contemporaneity.'
+
+"Each day my faith has been able to recognize," he says, "in the consecrated bread and wine the divine Wayfarer who joined the two disciples on the road to Emmaus and opened their eyes to the light and their hearts to new hope" (*cf*. Luke 24:13-35).
+
+He continues: "Allow me...to share with deep emotion, as a means of accompanying and strengthening your faith, my own testimony of faith in the Most Holy Eucharist. Here is the Church's treasure, the heart of the world, the pledge of the fulfillment for which each man and woman, even unconsciously, yearns. A great and transcendent mystery, one that taxes our mind's ability to pass beyond appearances.
+
+"Here our senses fail us: *visus, tactus, gustus in te fallitur*, in the words of the *Adoro Te Devote*; yet faith alone, rooted in the word of Christ handed down to us by the Apostles, is sufficient for us."
+
+"Allow me," he said, "like Peter at the end of this Eucharistic discourse in John's Gospel, to say once more to Christ, in the name of the whole Church and in the name of each one of you: 'Lord, to whom shall we go? You have the words of eternal life' (John 6:68)" (*ibid*., Point 59).
+
+"The Christian family's sanctifying role is grounded in Baptism and has its highest expression in the Eucharist, to which Christian marriage is intimately connected. The Second Vatican Council drew attention to the unique relationship between the Eucharist and marriage by requesting that 'marriage normally be celebrated within the Mass' (Vatican II, *Sacrosanctum Concilium*, Point 78, December 4, 1963). To understand better and to live more intensely the graces and responsibilities of Christian marriage and family life, it is altogether necessary to rediscover and strengthen this relationship (John Paul II, Apostolic Exhortation, *Familiaris Consortio*, Point 57, November 22, 1981).
+
+"The Eucharist is the very source of Christian marriage. It...represents Christ's covenant of love with the Church, sealed with his blood on the Cross (*cf*. John 19:34). In this sacrifice of the New and Eternal Covenant, Christian spouses encounter the source from which their own marriage covenant flows, is interiorly structured, and continuously renewed.
+
+"As a representation of Christ's sacrifice of love for the Church, the Eucharist is a fountain of charity. In the Eucharistic gift of charity, the Christian family finds \[the\] foundation and soul of its 'communion' and its 'mission': by partaking in the Eucharistic bread, the different members of the Christian family become one body, which reveals and shares in the wider unity of the Church. Their sharing in the Body of Christ that is 'given up' and in his Blood that is 'shed' becomes a never-ending source of missionary and apostolic dynamism for the Christian family" (*ibid*.).
+
+"In the mystery of the Redemption, that is to say, in Christ's saving work, the Church not only shares in the Gospel of her Master through fidelity to the word and service of truth, but she also shares, through a submission filled with hope and love, in the power of his redeeming action expressed and enshrined by him in a sacramental form, especially in the Eucharist" (John Paul II, Encyclical, *Redemptor Hominis*, Point 20, March 4, 1979).
+
+The Council has told us that "the Eucharist is the center and summit of the whole of sacramental life, through which each Christian receives the saving power of the Redemption, beginning with the mystery of Baptism, in which we are buried into the death of Christ, in order to become sharers in his Resurrection (*cf*. Rom. 6:3-5)...
+
+"In the light of this teaching, we see still more clearly the reason why the entire sacramental life of the Church and of each Christian reaches its summit and fullness in the Eucharist. For by Christ's will, there is in this Sacrament a continual renewing of the mystery of the Sacrifice of himself that Christ offered to the Father on the altar of the Cross, a Sacrifice that the Father accepted, giving, in return for this total self-giving by his Son, who 'became obedient unto death' (Phil. 2:8), his own paternal gift, that is to say the grant of new immortal life in the resurrection, since the Father is the first source and giver of life from the beginning.
+
+"That new life, which involves the bodily glorification of the crucified Christ, became an efficacious sign of the new gift granted to humanity, the gift that is the Holy Spirit, through whom the divine life that the Father has in himself and gives to his Son (*cf*. John 5:26, 1 John 5:11) is communicated to all men who are united with Christ
+
+"The Eucharist is the most perfect Sacrament of this union. By celebrating and also partaking of the Eucharist we unite ourselves with Christ on earth and in heaven who intercedes for us with the Father (Heb. 9:24, 1 John 2:1) but we always do so through the redeeming act of his Sacrifice, through which he has redeemed us, so that we have been 'bought with a price' (1 Cor. 6:20). The 'price' of our redemption is likewise a further proof of the value that God himself sets on man and of our dignity in Christ.
+
+"For by becoming 'children of God' (John 1:12), adopted sons (*cf*. Rom. 8:23), we also become in his likeness 'a kingdom and priests' and obtain 'a royal priesthood' (Rev. 5:10, 1 Pet. 2:9), that is to say we share in that unique and irreversible restoration of man and the world to the Father that was carried out once and for all by him, who is both eternal Son (*cf*. John 1:1-4,18; Matt. 3:17, 11:27, 17:5) and also true Man.
+
+"The Eucharist is the Sacrament in which our new being is most completely expressed and in which Christ himself unceasingly and in an ever-new manner 'bears witness' in the Holy Spirit to our spirit (*cf*. 1 John 5:5-11), that each of us, as a sharer in the mystery of the Redemption, has access to the fruits of the filial reconciliation with God that he himself actuated and continually actuates among us by means of the Church's ministry.
+
+"It is an essential truth, not only of doctrine but also of life, that the Eucharist builds the Church (Vatican II, *Lumen gentium*, Point 11), building it as the authentic community of the People of God, as the assembly of the faithful, bearing the same mark of unity that was shared by the Apostles and the first disciples of the Lord.
+
+"The Eucharist builds ever anew this community and unity, ever building and regenerating it on the basis of the Sacrifice of Christ, since it commemorates his death on the Cross (Vatican II, *Sacrosantum Concilium*, Point 47), the price by which he redeemed us.
+
+"Accordingly, in the Eucharist we touch in a way the very mystery of the Body and Blood of the Lord, as is attested by the very words used at its institution, the words that, because of that institution, have become the words with which those called to this ministry in the Church unceasingly celebrate the Eucharist.
+
+"The Church lives by the Eucharist, by the fullness of this Sacrament, the stupendous content and meaning of which have often been expressed in the Church's Magisterium from the most distant times down to our own days. ... we can say with certainty that, although this teaching is sustained by the acuteness of theologians, by men of deep faith and prayer, and by ascetics and mystics in complete fidelity to the Eucharistic mystery, it still reaches no more than the threshold, since it is incapable of grasping and translating into words what the Eucharist is in all its fullness, what is expressed by it, and what is actuated by it.
+
+"...the Eucharist is the ineffable Sacrament! The essential commitment and, above all, the visible grace and source of supernatural strength for the Church as the people of God is to persevere and advance constantly in Eucharistic life and Eucharistic piety, and to develop spiritually in the climate of the Eucharist. With all the greater reason, then, is it not permissible for us, in thought, life, or action, to take away from this truly most holy Sacrament its full magnitude and its essential meaning. It is at one and the same time a Sacrifice-Sacrament, a Communion-Sacrament, and a Presence-Sacrament.
+
+"And, although it is true that the Eucharist always was and must continue to be the most profound revelation of the human brotherhood of Christ's disciples and confessors, it cannot be treated merely as an 'occasion' for manifesting this brotherhood.
+
+"When celebrating the Sacrament of the Body and Blood of the Lord, the full magnitude of the divine mystery must be respected, as must the full meaning of this sacramental sign in which Christ is really present and is received, the soul is filled with grace, and the pledge of future glory is given (*cf*. Vatican II, *Sacrosanctum Concilium*, Point 47).
+
+"This is the source of the duty to carry out rigorously the liturgical rules and everything that is a manifestation of community worship offered to God himself, all the more so because in this sacramental sign he entrusts himself to us with limitless trust, as if not taking into consideration our human weakness, our unworthiness, the force of habit, routine, or even the possibility of insult.
+
+"Every member of the Church, especially bishops and priests, must be vigilant," said St. John Paul II, "in seeing that this Sacrament of love shall be at the center of the life of the People of God, so that through all the manifestations of worship due to it Christ shall be given back 'love for love' and truly become 'the life of our souls' (John 6:51,57).
+
+"Nor can we, on the other hand, ever forget the words of St. Paul: 'Let a man examine himself and so eat of the bread and drink of the cup' (1 Cor. 11:28)" (John Paul II, *Redemptor Hominis*, *ibid*.).
+
+Let us ask Our Lady that she might lead us to always have that great reverence for the real presence of Our Lord in the Sacred Host.
+
+*I thank you my God for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*EW*

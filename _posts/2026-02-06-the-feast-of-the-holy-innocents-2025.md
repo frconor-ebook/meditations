@@ -1,0 +1,161 @@
+---
+layout: homily
+title: "The Feast of the Holy Innocents, 2025"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"Herod, when he saw that he had been tricked by the wise men, was in a furious rage, and he sent and killed all the male children in Bethlehem and in all that region who were two years old or under, according to the time which he had ascertained from the wise men" (Matt. 2:16).
+
+There is no easy explanation for suffering, least of all for the suffering of the innocent. St. Matthew's narrative, which we read in today's Mass, shows us the suffering, apparently useless and unjust, of some children who gave their lives for a Person and for a Truth whom they didn't even know.
+
+Suffering can be a frequent cause of scandal. For many people, it's like a great wall which prevents them from seeing God and His infinite love for men. Why doesn't Almighty God prevent such apparently useless suffering?
+
+And so, suffering is a mystery. Yet, through faith, the Christian can discover in the darkness of his own or other people's suffering, the loving and provident hand of his Father God who knows so much more and sees so much further than he himself can.
+
+Then he can begin to understand, to some extent anyway, the words of St. Paul to the first Christians in Rome, when he said, "We know that in everything God works for the good for those who love him" (Rom. 8:28)---including everything that may seem to us piercingly inexplicable or incomprehensible.
+
+Nor should we forget that our greatest happiness and our most authentic good are not always those which we dream of and long for.
+
+I was impressed many years ago in another country when giving a retreat, there was an elderly teacher who came to chat, and I asked him---he had some health problems---"And how are you now?" And he said, "Well, Father, I've come to realize that happiness does not consist in doing things that are easy."
+
+I was so impressed with those words. Sometimes, talking to people, you pick up a lot of wisdom. Every individual person has their little gem of wisdom.
+
+Very often we look for happiness in the easy things, or we think it's to be there in the easy things. But often, that's not the reality. Sometimes our greatest happiness can come from solving the problems, from facing the challenges, from carrying the cross.
+
+It's difficult for us to see things in their true perspective. Sometimes we can only take in a very small part of the complete reality. We only see the tiny piece of reality that's here in front of us. We're inclined to feel that earthly existence is the only real one, and often consider our time on earth to be the period in which all our longings for perfect happiness ought to be fulfilled.
+
+One writer says, "There is anguish for us, twenty centuries later, in thinking of the slain babies and their parents. For the babies, the agony was soon over; in the next world, they would come to know whom they had died to save and for all eternity they would have that glory.
+
+"For the parents, the pain would have lasted longer; but at death, they too must have found that there was a special sense in which God was in their debt, as he had never been indebted to any. They and their children were the only ones who ever agonized in order to save God's life" (F. J. Sheed, *To Know Christ Jesus*).
+
+Suffering comes in many forms. No one willingly looks for it in any of them. And yet, Our Lord proclaimed as "blessed"---and you could use the word privileged, happy, lucky---"those who mourn" (Matt. 5:4)---those who in this life carry a heavier cross: illness, handicap, physical pain, poverty, slander, injustice, calumny.
+
+Faith transforms the meaning of suffering. In union with Christ's suffering, it's changed into a sign of God's love. It is something very valuable and fruitful.
+
+"These have been redeemed from among the human race," we're told in the Communion Antiphon of today's Mass, "as the first fruits for God and for the Lamb of God. They follow the Lamb wherever he goes" (Rev. 14:4).
+
+The Cross, pain and suffering, are the means which Our Lord uses to redeem us, especially the little crosses of every day. He could have used other means, but He chose to redeem us precisely by the Cross.
+
+I remember asking that same elderly teacher in another country one time during a holiday period from the school how things were. He said, "Every day there's a problem. But I thank God for the problems, because if it wasn't for the problems, life would be awfully boring."
+
+The challenges and the crosses of each day are divine calls to find God in those ordinary situations.
+
+Christ could have used other means. But He chose to redeem us precisely by the Cross. Since then, suffering has had a new meaning, which can only be understood when it's united to Him.
+
+Our Lord did not change the laws of creation for His own benefit. He chose to be a man like us. He had the power to do away with suffering, but He never used that power for Himself. Although He worked miracles to feed the crowds, He Himself suffered hunger. He shared with us the experience of exhaustion and pain. His soul tasted every bitterness: that of indifference, ingratitude, betrayal, slander, moral agony in its highest degree when He took upon Himself the sins of the world, the shameful death on the Cross.
+
+His enemies were astonished by His incomprehensible behavior. They said, "He saved others; he cannot save himself" (Matt. 27:42).
+
+After the Resurrection, the apostles were sent to proclaim the benefits of the Cross to the whole world. St. Luke said, "It was necessary that the Messiah should suffer like this" (cf. Luke 24:26). Christ Himself explained this truth to the disciples on the road to Emmaus.
+
+Our Lord wants us to avoid pain and combat illness with all the means at our disposal. But He wants us to understand at the same time that our pain and suffering can have a redemptive meaning, and can lead to our personal purification, even in the case of those which seem unjust or out of all proportion.
+
+This doctrine filled St. Paul with joy in his prison. He said to the Colossians, "Now I rejoice in my sufferings for your sake, and in my flesh I complete what is lacking in Christ's afflictions for the sake of his body, that is, the Church" (Col. 1:24).
+
+Fulton Sheen tells a story of how in 1968 he was with Pope Paul VI. It was in July or August. The encyclical *Humanae Vitae* had just been issued, which is the document that outlines the doctrine of the Church on conjugal love. A beautiful document, very rich. But it clearly defines contraception as an intrinsic evil, and the Pope was getting a lot of flak in the international press.
+
+Fulton Sheen said, "I said to the Holy Father, 'Holy Father, you're well named: Paul. Because Paul, they stoned, and now they're stoning you.'"
+
+St. Paul VI said, "Yes, it's ten in the evening before I get to open my personal mail. And with each letter, there comes a thorn, and when I lie down in my bed at night, I lie down on a crown of thorns.
+
+"But," he said, "I cannot tell you the joy, the happiness, the peace I get out of knowing that I'm making up in my body for what is lacking in the sufferings of Christ" (*cf*. Col. 1:24). With that he was quoting St. Paul to the Colossians (*cf*. Fulton J. Sheen, *Go toHeaven*).
+
+Suffering is not sanctified by those who suffer in this life because of wounded pride, or envy, or jealousy. There may be many sufferings that we create for ourselves. That cross is not Christ's but comes precisely from being far away from Him. That cross is one's own, and it's heavy and fruitless.
+
+It's important to examine ourselves occasionally in our prayer, as we could do at this moment, and see if we are carrying Our Lord's Cross wholeheartedly.
+
+That Cross often consists in the tiny irritations which turn up in our work or in our dealings with other people. It could be something unforeseen for which we were not prepared, or the character of someone with whom we have to live, or a plan that has to be changed at the last minute, or tools of our work which fail us at the worst possible moment, or extremes of heat or cold, or misunderstanding, or being sufficiently off-color to feel incapable of doing our work properly.
+
+But little or great, suffering accepted and offered to Our Lord produces peace and serenity. When it's not accepted, the soul can be out of tune, and its internal rebellion can be shown externally in gloom and bad temper.
+
+We could say to Our Lord in our prayer, "Lord, help me to make a conscious decision to take up and carry the little cross of each day with determination."
+
+Suffering may be sent to us by God to purify many things in our past life, or to strengthen our virtues, and to unite us to the sufferings of Christ Our Redeemer, who in His innocence, suffered the punishment due to our sins.
+
+In the Collect (the Opening Prayer) of today's Mass, we say, "O God, on this day the Holy Innocents gave witness to you, not by words but by a martyr's death. We profess our faith in words; grant that the holiness of our lives may confirm the witness of our tongues."
+
+We have to sympathize with and help people around us to overcome their difficulties and their sufferings.
+
+We're told in the Entrance Antiphon of today's Mass: "The innocent children were put to death in place of Christ. They follow him, the sinless Lamb. They praise him forever, singing 'Glory to you.'"
+
+Those who suffer with Christ will be rewarded by having God as their comforter in this life, and, afterwards, they will have the infinite joy of eternal life.
+
+We're told in St. Matthew, "Well done, good and faithful servant. ... Enter into the joy of your master" (Matt. 25:21,23). Our Lord will say to us these words at the end of our life if we've managed to remain united to Him through all its joys and sorrows.
+
+The Book of Revelation says, "God will wipe away every tear from the eyes of the blessed and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away" (Rev. 21:4).
+
+The hope of heaven can be an inexhaustible source of patience and energy in the time of severe suffering. In the same way, the knowledge which faith gives us that our pain and suffering are of enormous use to our brothers helps us to bear suffering and exhaustion without complaint. We ought to feel that the weight of our affliction is light, compared to the good things which God has prepared for us (*cf*. 2 Cor. 4:17).
+
+And those who offer up their suffering are co-redeemers with Christ, and God the Father always pours out on them such great comfort that they are filled with peace in the midst of their sufferings. "For as we share abundantly in Christ's sufferings," says St. Paul, "so through Christ we share abundantly in comfort too" (2 Cor. 1:5).
+
+St. Paul feels the consolation of divine mercy, and this enables him to console and support others. Our Father God is always very near to His human children, but especially when they're suffering.
+
+Human brotherhood moves us to practice this service of comfort and consolation and help one another. St. Paul says to the Thessalonians, "Comfort one another" (1 Thess. 4:18). For there are a thousand things which tend to separate us, but suffering unites us.
+
+But it does happen sometimes that a painful situation arises in which we don't know what is the right thing to do. Perhaps we should recollect ourselves in prayer for a moment and ask ourselves what Our Lord would do in the same circumstances. Often we will receive abundant light.
+
+Sometimes all we need to do will be to keep the suffering person company, to talk to them in a friendly and positive way, to encourage them in their suffering for some specific intention, to help them recite some prayers such as the Rosary, or simply to listen to what they want to say. We all have a vocation to be consolers.
+
+St. Paul has a typical Jewish style prayer of thanksgiving: "Blessed be...the Father of mercies and God of all consolation" (2 Cor. 1:3).
+
+With these words he witnesses to a remarkable experience, knowing how to submit to the many trials that he encountered along his way. He finishes by experiencing the most sweet consolation of the Holy Spirit, and he realizes that this consolation received from God is not for him alone, but gushes forth to others, especially those in his care.
+
+Accepting his own cross, Paul receives divine consolation, and in that way, becomes a consoler for those who suffer.
+
+It's interesting to think of the apostolic dimension of our suffering. Every cross has an apostolic dimension. There may be crosses that come upon us in our life, things we never expected that would happen to us, possibly things that are not going to go away. But if ever you experience something like that, you can be sure that's the cross that God wants you to carry.
+
+In my experience talking to people, when the weeks or the months or the years pass by, often God brings in contact with that person another person who's perhaps carrying a similar cross. Because the original person has tried to take it supernaturally, they're able to help this other person to find meaning in their suffering. Because of the cross, that person becomes a consoler.
+
+Some spiritual writers say we're all called to the ministry of consolation (*cf*. 2 Cor. 1:3-4). The suffering and the weakness that Paul experiences at certain times gives him an understanding of others. The help and consolation that he receives afterwards from the Father makes him able to comfort others and to give them words of hope.
+
+We could ask Our Lord on this Feast of the Holy Innocents to give us the grace to be a good consoler, to know the right things to say or the right things to do, which only those who love know are important.
+
+The sharper the suffering that is accepted and entrusted to God, the more powerful the grace that the apostle later benefits from, to console others.
+
+This is one of the dimensions of paternity. The father is a person who is spiritually an adult, who knows how to accept suffering and recognizes it not as a disaster but as a grace.
+
+A father is not an infantile person, an "enemy of the cross of Christ," says St. Paul (*cf*. Phil. 3:18). He says those who constantly dream of a more peaceful life, which often makes life tougher when we refuse a cross that's often much heavier than the cross that we accept---but a person who knows how to accept life in all its facets, its complexity, its occasional hardness, and who in the end receives the peace and comfort of God that he can then communicate to others.
+
+There's a paradox that at its deepest is a beautiful truth. Accepting the cross makes us able to console others.
+
+The cross makes us poor, humble, gentle, compassionate, and merciful. It makes us similar to Christ, who, because He was tried in all things, became able to share our weakness, as St. Paul says to the Hebrews (Heb. 4:15).
+
+The priestly ministry that we're all called to exercise, be it in the ministerial priesthood or the common priesthood of the faithful, has to be cloaked in the anointing of consolation.
+
+Lord, help me to become a consoler, a bearer of hope and peace. It's part of our mission as a follower of Christ.
+
+When Our Lord is preaching in the synagogue in Nazareth at the beginning of His public ministry, He reads a passage from Isaiah: "The Spirit of the Lord is upon me, because he has anointed me to bring good news to the poor. He has sent me to proclaim release to the captives and recovery of sight to the blind, to set at liberty those who are oppressed, to proclaim the acceptable year of the Lord" (Luke 4:18--19, Isa. 61:1-2).
+
+Everybody in society today has much need of consolation, much more than reproach. Everybody in the family needs consolation.
+
+St. Paul says, "Keep encouraging one another" (1 Thess. 5:11). Everybody needs encouragement. Sometimes reproach is necessary, but it should be given advisedly and in gentleness and peace.
+
+Experience shows that the greatest danger to souls and the greatest enemy of the devil is discouragement. Our mission is a mission of encouragement. Humility and meekness are the essential qualities of the consoler.
+
+If we are to be a consoler, bringing grace to people, we have to configure ourselves like Christ. We should never forget that the essential qualities of Jesus' heart are meekness and humility. "Come to me, all you who are labor and are heavy burdened, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls" (Matt. 11:28--29).
+
+Gentleness and humility, as the opposite of hardness and pride, go together. We're told in the Book of Numbers that Moses was very meek, "more than all men that were on the face of the earth" (Num. 12:3).
+
+Because Moses was poor in spirit, humble and meek, God could put so much into his hands. Moses was "entrusted with all my house" (Num. 12:7), says the Book of Numbers.
+
+As in the case of Jesus, the heart of the humble and meek person becomes a place of repose for others. People feel profoundly welcomed and loved. Everyone can abandon themselves to it and open up to it with trust and without fear. Everyone can be freely themselves, without need to make efforts to feel accepted or understood.
+
+If the crowds pressed forward to Our Lord, it's surely because of the healings that He accomplished, but also because of His meekness and humility. In contrast to the hardness and arrogance of the Sadducees and some of the doctors of the Law who disdained the ordinary people, they criticized Jesus for being a friend of tax collectors and sinners (Matt. 11:19).
+
+Nothing is more precious for a consoler than meekness and humility. Pope Francis is quoted as saying that there is power in meekness (Pope Francis, *General Audience*, Feb. 19, 2020).
+
+When so many people may have forgotten the Christian meaning of feast days, we can add to them the light and salt of little mortifications, realizing that in this way we give joy to Our Lord, and help other souls to come nearer to Bethlehem.
+
+Mary, may you teach us to sanctify pain, uniting it with that of your Son. Help us to ask the Holy Innocents to help us to love mortification and voluntary sacrifice, so that we may offer up our own pain and have great compassion for all who suffer.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*EW*

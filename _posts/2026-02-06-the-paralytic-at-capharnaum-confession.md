@@ -1,0 +1,189 @@
+---
+layout: homily
+title: "The Paralytic at Capharnaum (Confession)"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"After some days he again entered Capharnaum and it was reported that he was at home. And many gathered together so that there was no longer room, not even around the door, and he spoke the word to them" (Mk 2:1-2).
+
+It\'s a time of Our Lord\'s popularity. Many people are coming to see Him. The place was packed, you could say. "There was no longer room, even around the door." All these little details are described for us in the Gospel. Then something happened.
+
+We're told, "They came, bringing to him a paralytic carried by four. And since they could not bring him to Jesus because of the crowd, they stripped off the roof where he was, and having made an opening, they let down the pallet on which the paralytic was lying" (Mk 2:3-4).
+
+Four friends come to the house carrying this man. But then they find a problem. Because the place is packed, they can\'t get near to Jesus, which is the whole purpose of the exercise.
+
+But they\'re not put off. They think about solutions to the problem.
+
+St. Josemaría had an aspiration from the Psalms (Is 43:2). He liked to say, "*inter medium montium pertransibunt aquae*, the waters will pass through the mountains" (J. Escrivá, *The Way*, Point 12).
+
+When the water comes to a mountain, well, it can\'t go over the mountain. Sometimes it goes around it, sometimes it flows through it on the inside, but the water gets through. If you have a flood some time and you try to stem the flood and you put newspapers, or sandbags, or something to prevent the water from coming out of the door, somehow or other some little piece of water trickles through.
+
+"The waters pass through the mountains." They can get over all sorts of problems. They look for a solution. Perhaps they managed to find some steps around the back. But in some way, they got to the roof, which was a rather daring solution.
+
+There are all the solutions to think about---but to think of climbing up onto the roof, and not even knowing what\'s up on the roof, or what problems you\'re going to find there, shows an awful lot of daring, perseverance, fortitude, not giving up, hanging in there, really wanting to get the very thing that they\'re working towards. Then we\'re told that they removed the tiles off the roof.
+
+They made a hole in the roof. You could say they evangelized the roof. Still, there was nothing they weren\'t willing to do to get their friend to Christ. The sky was the limit. They were willing to do all sorts of things.
+
+Having made the hole, they had to maneuver the stretcher on which the paralytic laid. And of course, stretchers are big things. It must have been a pretty big hole or they must have had to maneuver him in various angles to get him through that hole.
+
+Then they lowered the stretcher and left him right in front of Jesus. They let down the pallet on which the paralytic was laying. Quite a dramatic thing.
+
+While Our Lord is there with a house full of people, back to the door, and we\'re told Our Lord was teaching them, it\'s interesting to see how in all situations Our Lord is teaching, He\'s forming, He\'s using every opportunity.
+
+People are listening. Then suddenly, all that comes to a halt because of this dramatic development---this paralytic being lowered down in the middle to come right before Our Lord.
+
+We can learn from this how to bring people to Christ, and how to bring our friends and acquaintances to get closer to Jesus. Our Lord wants us to maneuver in various ways, to be a fisher of men, to see and have that goal: how can I bring this friend of mine to Christ? How can I get him to the sacrament of Confession?
+
+Our Lord is the one who is going to do all the important work, but He wants us to do what we can to bring people to Him. The four friends who brought people must have already known Our Lord. They must have had the prior experience and contact with Him. They must have had to embrace faith and assurance of what Our Lord could do.
+
+They want a miracle, and they want nothing less than a miracle. Nothing is going to stop them from getting that miracle or doing all in their power to have that miracle work, for their trust in Our Lord was great. Their faith in some way makes up for the lack of faith of the paralytic, if there was any.
+
+They are the ones that do all the work. We are told Jesus is "seeing their faith"---it\'s not the faith of the paralytic he is talking about, it\'s the faith of the friends who brought him to Jesus.
+
+Seeing their faith, He performed a miracle. Often Our Lord wants to use us as instruments to work miracles, but He wants us to show Him our faith, to show Him with deeds that we're serious, perhaps deeds of mortification, deeds of conquering self, or laziness, or human outlook, or other problems that may crop up.
+
+There\'s no specific mention of the faith of the sick man, but the faith of the friends is what\'s emphasized. They overcame obstacles that seemed insurmountable. The sky was the limit. They weren\'t going to stop at anything. And they also had to convince the sick man to allow them to do this.
+
+I remember one time helping some friends carry a wheelchair with an invalid lady in a wheelchair down a few steps. She was being carried in the air and she said at one moment, "total confidence!" that she was lifted out of the air. She had to allow herself to be lifted in the wheelchair. She didn\'t feel too comfortable being lifted like that.
+
+The same with the paralytic, and particularly when he was being maneuvered down through that hole. He might not have felt too comfortable, or wondered what this was all about, was it worth all the effort, or what was going to happen.
+
+But the trust in Jesus of His friends was very great. Only people who are convinced can convince other people. Our Lord, in our apostolate, wants us to be convinced---convinced about the benefits of what we have to give people, convinced about the benefits of the sacraments that have so much to do with the souls of people around us.
+
+When they reached the house, there were such crowds back to the door, it seemed that there was nothing that could be done on that occasion. The human factors seemed to say, no, this is not possible, forget it, go home.
+
+But they were undaunted. In our apostolate, we have to have the same sort of courage and daring, faith, a never-say-die attitude, look for solutions.
+
+They were able to overcome the obstacles with their decisiveness, their skill, their concern. We could ask Our Lord that we might have a great love for souls, a great love for our apostolate, that leads us not to be put off by anything, by what people might think or what people might say.
+
+All those people in the house that were quite happy listening to Our Lord---they must have been a bit bothered by the commotion that these four guys must have created, climbing up on the roof, and all the noise that suddenly has been made. Then suddenly, something dramatic is coming down from the roof and their lessons are being interrupted. The whole situation is being disturbed.
+
+But the four carrying the paralytic are not worried about what people may think or what people may say. We have to put human respect behind us.
+
+One of the biographies of St. Josemaria says he had no human respect because he had so many divine respects. What he was really concerned about was what will Our Lord think, what will Our Lord say. That\'s what\'s important.
+
+What really mattered was the meeting between Jesus and their friend. They used all the means possible within their reach so that that meeting could take place. There was no length they weren\'t willing to go to, to have that happen. A great lesson for our apostolate, now what we have to try and do.
+
+Possibly we\'ll also meet with a bit of resistance, sometimes more, sometimes less. But we have a mission. We have been chosen. God has given us the graces that we need to fulfill that mission. That mission consists fundamentally in bringing our friends to be close to Jesus, face to face with Him, leaving them at His side and then maybe disappearing, being in the background. Our job is done. No one can transform a soul but God; only He.
+
+There was an ethics conference at Strathmore University a number of years ago and there was a speaker there. He was an English lord. He made an interesting statement in his presentation. He said, "Only Christianity can change the hearts of men. Governments can\'t. NGOs can\'t."
+
+He went through a list of organizations that there are in the world that are doing things---sometimes very good things---but they can\'t change men on the inside. Only God can do that.
+
+The ideas that Christ has given to us, the power of the gospel, the power of the beauty, truth, and love that we have in our faith and in the sacraments---only that is capable of transforming hearts.
+
+Christianity is interested in hearts. We are here to change hearts. "Take out this heart of stone and give me a heart of flesh" (Ez 36:26). "Come back to me with all your heart" (Joel 2:12). Our faith is very focused on people\'s hearts.
+
+The apostolate is in the order of grace; it\'s a supernatural order. Sometimes it might be our fault that people don\'t come closer to God because they may feel unable with their own efforts to reach Him. God has given us a role to play.
+
+St. Thomas Aquinas says that this paralytic symbolizes the sinner lying in a state of sin. Just as the paralytic is unable to move, so too, the sinner is helpless by himself.
+
+I was near Diamond Plaza the other day and I saw a young girl crawling on the road with a cup, obviously begging. But what was striking was this girl was young, she looked about 14 or 15, and she had no wheelchair. Terrible sight.
+
+Yesterday I was with somebody else and we decided to try and pass by that place, to see if we could see her. But then we happened to go somewhere else on the way, and lo and behold, there she was crossing a road, crawling.
+
+My friend was able to go and speak to her in Swahili. It turned out she was 22, she was from Migori, had never been to school, had no English. I don\'t know how true the story was that she told us, but we were able to get her a wheelchair.
+
+But incredible determination---comes from Migori, staying close by to other disabled people, going out every day crawling, and getting on a *matatu* to go to different places.
+
+Really amazing determination and independence. It's incredible what some people can manage with their fortitude, their focus. When we see people like this crawling across a road, a busy road with cars, undaunted, it leaves a mark.
+
+This is the sort of determination that people can have in life. What sort of determination should we have to do the good thing with the abilities that God has given to us?
+
+This girl had some sort of pads on her knees to be able to crawl, and pads on her hands, but there she was surviving. There are many people around us who need not just material or human help, but also supernatural help, the help of their friends.
+
+The people who carry the paralytic represent those who try to help the sinner with their advice or with their human help or their material help. They try to bring people to God.
+
+If we trust in Our Lord, we often seek His company, if we also use human initiative, we will be able to overcome all the obstacles that there may be, obstacles that could present themselves in one way or another in every apostolic undertaking.
+
+It\'s par for the course. It\'s the normal thing that we meet difficulties along our way, but we have the grace and the ability and the formation to be able to overcome those difficulties.
+
+Our Lord was impressed by their audacity. How dare they? How dare they interrupt this session? How dare they vandalize the roof? How dare they let this person down on the stretcher? It was all a bit of a joke in some ways, amusing, hilarious.
+
+"Seeing their faith"---you get the impression that Our Lord is delighted with such initiative---"seeing their faith." There are many times in the Gospel where Our Lord works miracles because He finds faith.
+
+With the centurion, we\'re told, "When He heard his faith, He marveled" (Mt 8:10). On other occasions when He was in his hometown, "He marveled because of their unbelief." They were so hard of heart, they would not believe. "And He could not work any miracles there" (Mk 6:5-6).
+
+He was moved by their audacity, which was the fruit of a great apostolic hope, the hope of those friends who didn\'t give up at the first sign of difficulty or who didn\'t put off that enterprise to some other moment so that a more opportune occasion might arrive.
+
+They didn\'t say, Let\'s wait for a better opportunity. No, they seized the moment. They grabbed the opportunity that was there. They didn\'t put it off or say, We\'ll do it tomorrow or some other day. Very often in our apostolate, we have to commit ourselves.
+
+Frequently in sports, we see people committing themselves for a tackle, for a shot at a goal, or a banging of the ball in volleyball over the net. Commitment is very important for the athlete.
+
+We in our apostolate need the same type of commitment, not to put things off, to seize the moment, to grab the opportunity. They also didn\'t know when Our Lord would pass by that way again, or if He would ever be so close.
+
+They saw, maybe this wasn\'t the perfect opportunity or the perfect situation. We try and do what we can do, but we create the opportunity. Very often in our apostolate, we have to create the opportunity, because a better one may not come. We\'ve got to use what we have in our hands.
+
+We can ask Our Lord in our meditation today if we can behave in this way with our friends, our relatives, our acquaintances. Lord, help us not to give up at the first sign of difficulty, to hang in there, to have that fortitude in our apostolate, because the fruits can be so great. Important things can happen.
+
+Very often Our Lord is waiting for us, just as in some ways, He was waiting for this initiative, waiting for their daring. "Now some of the scribes were sitting there and reasoning in their hearts, 'Why does this man speak thus?' Our Lord had said to the paralytic, "Son, your sins are forgiven you" (Mk 2:5-7).
+
+Our Lord looked at the paralytic with great pity and spoke some words that astounded everybody: "Your sins are forgiven." He causes scandal. People are scandalized by what He said.
+
+"'Why does he speak like this,' said the Pharisees. 'He blasphemes! Who can forgive sins but only God?'" (Mark 2:5).
+
+"And at once Jesus, knowing in his spirit that they were arguing these things in their hearts, that they so reasoned within themselves, said to them, 'Why are you arguing these things in your hearts? Which is easier: to say to the paralytic, Your sins are forgiven you, or to say, Arise, take up your pallet and walk? But that you may know that the Son of Man has power on earth to forgive sins, He said to the paralytic, 'I say to you, arise, take up your pallet, and go to your house.' Immediately he arose and took up his pallet, went forth in the sight of all, so that all were amazed and glorified God, saying, 'Never did we see the like" (Mk 2:8-12).
+
+It may have been that the paralytic saw the whole of his life before him, his unworthiness, with special clarity. It may be that at that moment he understood, as never before, the need to clean the things on the inside that need to be cleansed, under that most pure guise of Jesus---penetrated his soul with deep compassion, reached the very depths of his heart and of his soul. And then he received the grace of forgiveness, a new life, a new beginning.
+
+It was the reward for having allowed himself to be helped. Straight away, he experienced a joy that he had never imagined---the joy of every contrite and sincere Confession. That\'s the joy that we want to bring to so many people, the grace of God into their souls.
+
+Now his paralysis no longer mattered to him. His soul was clean. He had found Jesus. His life was changed.
+
+Our Lord reads the hearts and the thoughts of all men. He wanted to make it very clear, also to all of us, centuries later, who would meditate on this scene, that He has all the power in heaven and on earth, even the power of forgiving sins, because He is God.
+
+He demonstrates this by performing this miracle, restoring this man to perfect health. That power that Our Lord had was transmitted to His Church and the person of the apostles: "Whose sins you shall forgive, they are forgiven. Whose sins you shall retain, they are retained" (Jn 20:23) so that through her priests, the Church could exercise this power for all time, and receive the Holy Spirit.
+
+We could ask Our Lord to help us to be aware of this great power that we have in our Church, the power of the Sacraments. "If you forgive any sins, they are forgiven. If you retain, they are retained." The priests exercise this power, not through any virtue or power of their own, but in the name of Christ, *in persona Christi*, instruments in His hands.
+
+Fulton Sheen likes to say that when the priest raises his hands in Confession to give the absolution, the Blood of Christ is dripping from his hands. It\'s the Blood of Christ that washes away sins.
+
+We in the apostolate of Confession try to expose the souls of our friends to that cleansing action of the Blood of Christ. We should try and inform people about this great reality so that they receive this sacrament with greater love and greater appreciation.
+
+Lord, help me to bring many souls to the sacrament of Confession. Thank you for putting such a great gift so easily within our reach, so important, that can open the gates of heaven for so many people.
+
+We can examine our conscience and say, Do I try to bring people to this sacrament? Do I myself prepare well with a careful examination of conscience? Do I try to stir up a spirit of contrition?
+
+St. Josemaría encouraged us to think of the sorrowful mysteries before going to Confession, or some scene of the Passion of the Cross, of the suffering of Our Lord on the Cross. In that momentary thought, we try and stir up a new contrition in our soul.
+
+A contrition is not just a feeling, but it\'s a desire. It\'s a desire to be better. It\'s a desire to improve. That desire brings us back to the sacrament in a regular way, even if we might have no feelings.
+
+Feelings are not very important in the spiritual life, but desires are---the will---the will to improve, the will to be better. We could try and increase our desire to make Confession a regular element of our life, every single week, and more often if necessary.
+
+We look for the graces that we need and encourage other people to discover this great truth also. We could ask ourselves, Am I as sincere as I need to be in Confession so that I truly bare my soul, so that all that Blood of Christ can cleanse it?
+
+And when I hear advice, do I try and put that advice into practice in a concrete way, bring it to my prayer, fulfill the penance as soon as possible when I leave the confessional, not leaving it for later?
+
+We should try and help other people to prepare in the same way. It may be that people need a bit of a reminder; it could be that they need some encouragement.
+
+There was a story that Bishop Javier Echevarría liked to tell of a lady who went to Confession one time, and she was very deaf, and she went into the box, and she made her Confession, but there was no reply or signal from the other side.
+
+Eventually, she realized there was no priest there, so she had confessed her sins to fresh air. She came out of the confessional sort of chuckling to herself, What a silly billy I am. I should have realized there was nobody there. She was sort of smiling to herself.
+
+But the following day a girl came up to her and said: I want to thank you because I have been trying to summon up enough courage to go to the sacrament of Confession. And yesterday, I saw you coming out of the confessional box with a wonderful smile on your face. I thought, Really, the sacrament of Confession is truly a sacrament of joy, and that was the last little push I needed to help me to get to the sacrament.
+
+Bishop Javier used to say, You see, God uses everything, uses all sorts of little things to help other people, to bring them to the sacraments.
+
+Deep down people\'s souls will soften. That\'s what they\'re hoping for---that peace, that joy that only the grace of God can give. God is waiting for them to turn towards this source of mercy---mercy, which, John Paul II says, is another word for love.
+
+The greatest thing we can do for our friends is often to bring them to the sacrament of Confession. We can open the gates of heaven for them. We can\'t let them down; it\'s the greatest good we can do for them.
+
+Arouse our hearts, we\'re told in Scripture, Lord, to make the way ready for your Son. In spite of all our sins, let your merciful grace hasten the work of our redemption.
+
+We prepare ourselves and we try to prepare others for this great coming of the grace of God. Lord, help us to see the people around us that need you a little more. Help us to show them the pathway to you so that they can find the meaning and purpose of their life and great joy with it.
+
+Help us to have more interior life so that we can bring that greater interior life to other people. Help us to have a great unshakable hope in the supernatural means---prayer, mortification, good example---so that through the course of our life we can bring many souls to you.
+
+We can ask Our Lady, refuge of sinners, to have great compassion on all these people you\'ve placed around us. Help us, like those friends who brought the paralytic to Jesus, to be very effective in bringing our friends to your Son.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*EW*

@@ -1,0 +1,209 @@
+---
+layout: homily
+title: "Good Anger and Bad Anger"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"Now the older son was out in the fields, and, on his way back, as he drew near the house, he could hear music and dancing. Calling one of the servants, he asked what it was all about. The servant told him, 'Your brother has come, and your father has killed the calf we had been fattening, because he has gotten him back safe and sound.' He was angry then, and refused to go in. His father came out and began to urge him to come in" (Luke 15:25-28).
+
+There are two types of anger. There is a good anger and a bad anger.
+
+A good anger is an anger to correct, an anger about things that are wrong. It\'s the anger of a mother with a two-year-old child. She sees something wrong, she gets angry, she corrects, and then it\'s over. The other type of anger is an anger that smolders on, that\'s bitter, full of pride or selfishness. It\'s the sort of anger that we see in this older son that\'s very much in need of conversion.
+
+In today\'s Gospel, we read about the other type of anger: "Now the Passover of the Jews was at hand, and Jesus went up to Jerusalem. He found in the temple men selling oxen, sheep, and doves, and money-changers at their tables. And making a kind of whip of cords, he drove them all out of the temple, also the sheep and the oxen. And he poured out the money of the changers and overturned the tables. And to them who were selling the doves, he said, 'Take these things away, and do not make the house of my father a house of business'" (John 2:13-16).
+
+He went to the temple and He found all these people---money changers, sheep and oxen, the whole marketplace there. He was very calm about the whole thing. He said, 'OK, it doesn\'t matter, I can turn a blind eye to this.'
+
+He was very cool and calm. In this situation, He could have expressed a certain carelessness, a lack of love, a lack of interest, a lack of fortitude---could be a great lack of virtue.
+
+Sometimes it\'s a great virtue to react, to see things are wrong and to want to put them right, and to make every effort that\'s necessary to put them right---the good anger that\'s against wrongdoing that has to be changed in our own lives or in the situations around us.
+
+We could ask Our Lord for that grace to have that good type of anger, to react when things are wrong---not to be careless or lacking in love, or not to go the extra mile, not to be lacking in fortitude.
+
+"We are born children of anger" (Eph. 2:3). There's a great anger that dominates the world. It can live in the hearts of men. It can cause a lot of trouble, a lot of chaos.
+
+That bad anger can be everywhere. It\'s a condition where the tongue works faster than the mind. That bad anger can cause people to hurt each other, to say things they don\'t really mean, or that later on they regret.
+
+We can be unable to forgive or to ask for forgiveness. Hearts overcome by anger are difficult to penetrate. And we\'re all susceptible to it.
+
+The fact that we try to live lives close to God does not make us immune from these things. We have to try and watch out for that bad anger. Bitterness and resentment can become full-blown.
+
+It\'s difficult for the spirit of God to live in a heart that\'s full of anger. In such a heart, the spirit of hatred and violence lives. That\'s a little bit what we see in the case of the older son.
+
+This older son wasn\'t just a particular person. What Our Lord is describing here is a character trait that\'s in each one of us. As we get older, we\'re all like the older son in the parable---very much in need of conversion of that inner pride.
+
+Anger can be a powerful tool of the devil. It can cause a lot of disunity. The devil enters through anger. We get the impression that this older son was dominated by anger, because he\'s not open to be changed or to be converted, even by the gentle words of his father. "His father came out and began to urge him to come in."
+
+He finds he doesn\'t love his brother; he doesn\'t love his father. The only one he loves is himself. He\'s difficult to say things to, difficult to penetrate.
+
+The Book of Proverbs says, "The fool blurts out every angry feeling, but the wise subdues and restrains them" (Prov. 12:16). It says, "A fool gives full vent to his anger, but a wise person keeps themselves under control" (Prov. 29:11).
+
+That anger can be like a galloping blind horse. Dangerous---it can go all over the place. This older son is full of self-righteousness: 'I am right.' 'I have done the right thing.' 'I have not wasted my father\'s money.' 'I have not misspent it and misused it in all sorts of bad ways. What a good little boy I am.'
+
+He\'s patting himself on the back, full of vanity. He\'s hard-working, yes. He\'s faithful, yes. But he\'s also mean, jealous, selfish. He has a bit of a temper. Fast temper, fast pride.
+
+The whole situation of this older brother is ugly. He has a bad type of anger. He puts a distance between himself and people---his brother and his father---people whom he should love.
+
+He should be very happy at the return of his younger brother. But he\'s not able to be happy. His heart is not there in his human relationships. His heart is in his own personal things. In this situation, it all comes out. There may be situations in our life that sort of reveal an awful lot.
+
+For many months and years, perhaps he was working away quietly there in his father\'s house, and everybody thought, 'What a good person he is. What a good son he is. Look at that other rascal who\'s off, wasting all his father\'s money.'
+
+But deep down, this guy was also a bit of a rascal in a worse sort of way, in a way that\'s not easy to change or to convert. The conversion needed, which is so deep, was all the more necessary. Then this occasion occurs that his brother comes back and suddenly all is revealed---what he\'s really like on the inside.
+
+We could ask Our Lord in our prayer to give us the grace to see what we are really like on the inside, so that we don\'t fool ourselves and we don\'t fool other people.
+
+All it took was this little piece of news that "your brother has come and your father has killed a fatted calf" and all the ugly, bad things come out of that human heart: jealousy, anger, envy.
+
+He retorted to his father: "All these years I\'ve slaved for you and I\'ve never once disobeyed any order of yours" (Luke 15:29a). 'I tick all the boxes for a perfect son, externally.'
+
+All these years he\'s been counting the cost, and of course, all these years, the reality is that he hasn\'t really been loving his father. He hasn\'t really been loving his brother. He hasn\'t been growing in charity. He\'s been loving himself.
+
+Then this particular event happens, and that reality becomes public. "Yet you never offered me so much as a kid for me to celebrate with my friends" (Luke 15:29b). He\'s a complainer. Deep down he\'s been complaining.
+
+Jesus, keep me from complaining. Help me to turn to prayer.
+
+There are things to complain about, to leave them before you in the tabernacle, before you on the Cross, so that I don\'t become a habitual complainer, which is easy to become---making comparisons, making judgments, criticizing. 'Why aren\'t things better? Why isn\'t everyone else better?' All the time I am the one that\'s in need of conversion.
+
+He doesn\'t behave like a son of the family. He behaves like a paid servant, like a mercenary. His heart is not there. The mercy of his father irritates him. 'Why is my father so forgiving and so loving with this terrible brother of mine? To me he gives me nothing.'
+
+He\'s blind to the reality which his father tries to make him aware of. "'My son, you\'re always with me. All I have is yours'" (Luke 15:31).
+
+He doesn\'t realize how close he is to the heart of his father because he\'s so wrapped up in himself. The joy of his brother, and the joy of his family, and the joy of his father leaves a bitter taste. He\'s alien to the central ideas of the father. He\'s not united to the vine.
+
+He's very much in need of reconciliation; a deep Confession of his miseries. He doesn\'t even see. He\'s fulfilling his duty, but there\'s no love.
+
+Lord, help us to be careful with the fulfillment of our duties. We all have duties to fulfill, and we could get into the ordinary humdrum, day-to-day reality of fulfilling the duties. But all the time, St. Josemaría talks to us about doing it with more love.
+
+Otherwise, we could fall into the situation of this older brother. with a heart that\'s difficult to penetrate. 'I\'m doing so much work. Others are not working.'
+
+He\'s mean-spirited. The reality is that perhaps others are doing what they can. At the same time, he wants to be the center of attention. The salt of every dish. 'Why wasn\'t I told? How come this is happening? It\'s not fair.'
+
+Many things in life are not fair. You can\'t look for perfect justice in this world. This world is a world of imperfect justice.
+
+A man in Malaysia told me once, when I asked him how his ten-year-old son was, he told me, 'He\'s going through the age of justice.'
+
+I was wondering, 'What\'s that?'
+
+'Everything is not fair.' 'My sister can stay up to watch the movie and I have to go to bed early. It\'s not fair.' 'My sister has a free day tomorrow and I\'ve got to go to school. It\'s not fair.' 'My sister has less homework and I have more homework. It\'s not fair.' 'Everything was not fair.'
+
+We could spend our whole life in the age of justice and never grow out of it. We need a more mature approach to life. Thank God for the talents and abilities that He\'s given to us.
+
+If I have a greater capacity to get things done or to fulfill this job, the talent in this area will be wonderful. It will help me to push as far as I can in that area and to realize that I have bigger faults in other areas, and that other people have great talents in other areas.
+
+This older son is complaining, \'I\'m not appreciated. Nobody cares about me.' He\'s talking like a spoiled child full of vanity and envy and jealousy. 'All my efforts are not recognized.' He hasn\'t learned to forget about himself.
+
+All through the writings of St. Josemaría, there\'s a phrase that keeps cropping up, which is, "Forget yourself" (Josemaría Escrivá,*Furrow*, Points 640, 793; 947; *The Forge*, Point 97).
+
+Learn how to focus on others. We solve all our own problems by thinking about the others. If we\'re so involved in our own little problems, then we\'ll be so easily aroused to anger. The devil can get in there very easily with all sorts of bad things.
+
+He\'s full of justice and responsibility, but he has no mercy. No mercy for his brother, no mercy for his father. He crucifies his brother with his pride. His heart is cold.
+
+Lord, help me not to have a cold heart. Warm up my heart. Don\'t even let it be lukewarm. I want to be on fire with love of you and love of others, to have burning zeal. "Come Holy Spirit, and kindle in our hearts the fire of your love."
+
+When we look at the ugliness of this particular fellow, Lord, help us to run a mile from being this type of person, because the potential is there in each one of us.
+
+He\'s not happy, because now he has to share what he has with his brother. The brother has come back. 'All this was going to be mine, and now I have to share.'
+
+Sharing can be a very challenging business. We see when parents die and family members have to share the land or share the products---all sorts of ugly things can come out, because we\'re selfish a bit by nature. We have to learn how to share.
+
+He has a bone to pick with his father. He\'s very independent-minded. To be independent-minded can be a good thing, but it can also be a bad thing. He wants things his own way. He doesn\'t want what the father wants.
+
+In the course of our life, each one of us has to work under other people. We all have a supervisor. We all have a boss. Our job in that particular situation is to make our boss happy, to make our supervisor happy.
+
+Probably if your supervisor or your teacher is happy with you and with your work, then God is happy with you. Our first duty is to make the person above us happy, not to want things our own way or to do things the way we want to do them, but to do them the way our boss wants them done---to bend to their will.
+
+That\'s how we serve and improve our service. And all through our life we will always have somebody asking us to do things or paying us to do things, and they want them done a certain way.
+
+Even if we don\'t like that way or think there\'s a better way, for this particular moment, for this particular boss, I have to try and serve them the way that they want to be served. Refinement in service.
+
+This guy had no refinement. He wants things his own way all the time. He was older, so he should have known better. We could have expected a greater maturity from him.
+
+But instead, we find the opposite. He\'s immature. We could be mature in age or physically, but we might be very immature on the inside.
+
+He doesn\'t realize that everything that he has is a gift of God. If he realized that everything he had was a gift of God, he would be so happy---so happy that he\'s able to work, so happy that he has such a good father, so happy that his brother has come back, which was the most important thing.
+
+Because he\'s all wrapped up in himself, he misses the most important thing. He takes it all for granted. He forgets others, and he forgets that others need forgiveness. They need tenderness. They need mercy.
+
+This son had come back after a very rough patch in his life, where he was in need of being handled with kid gloves, been through a lot, learned the great lessons of life. But this fellow was so cold-hearted. He had no tenderness in him.
+
+We could examine our conscience and see: Lord, do I have those tender words or actions for people who live around me or work with me? Should I lift them up, make them feel better if they make a mistake?
+
+In the last few days, there\'s been this, in some ways, very terrible story, a thing that happened in a school in Madrid, a girl\'s school, I think it was a kindergarten school.
+
+A mother was collecting her children. She had the children in the car, and then she goes to move the car, and instead of going into reverse, she goes forward. She hits three six-year-old kids, kills one of them, and badly injures two others. All in the school car park.
+
+Heart-rending story. The secretary of the school, the mother of the child that dies, comes out to see her dead child. Of course, it's a heartbreaking moment. Then she sees the other mother, who has been the one who has made this mistake in the car, and goes to embrace her and console her.
+
+It\'s come out in all the newspapers in Spain. A heart-rending moment, but a wonderful virtue in this difficult time: knowing how to give tenderness, to give forgiveness; to reach out to others, even though your own heart is breaking.
+
+A beautiful example of virtue on a national scale and level. Here we are talking about it. It\'s what the school of sanctity is all about: a tender heart.
+
+Lord, give us that heart that helps us to reach out to others, to give them what they need in certain moments.
+
+The problems and the sufferings of his father and of his brother are foreign to this particular fellow, whereas this woman, completely the opposite. In that terrible moment, when God has taken her child, she sees somebody else in need of consolation, of forgiveness, of help, and she reaches out.
+
+If we view things from the outside like a stranger, we won\'t know how to react with charity and love and forgiveness and tenderness in those moments. We won\'t know what to say or what to do.
+
+God is using this tragic event to give great lessons of charity to people all over the world---great catechesis.
+
+This son, he doesn\'t hope to see his brother again. He doesn\'t receive him with joy. Perhaps he was wishing that his brother would stay away, just feeding the pigs, and die in the gutter someplace, so he can forget all about him.
+
+He\'s very much in need of conversion. The happiness that his brother is found, the meaning of life, the change that has come about---it leaves a bitter taste in his heart.
+
+The father comes out and speaks gently to him, man to man, calls him to conversion. "My son, all that I have is yours" (Luke 15:31). He calls him his son, imploring from him that fraternal understanding, that respect for the person, that joyful apostolate of example.
+
+Forget yourself. Reach out to others. Conquer your anger. Don\'t let the devil dominate this moment that can be a tremendous moment in our family, a great moment of great significance.
+
+But the son is so wrapped up in himself that he has no time for these great moments. He wants all the glory 'to me.' He doesn\'t accept the will of God. He\'s insensitive to correction. He seems to say to his father, 'Don\'t come with your stories to me. I have no time for you, this brother of mine. No time for you either, with your nice, sweet words.' Tremendous insensitivity.
+
+Lord, help us to be very sensitive to correction. May I be a person that\'s easily able to be talked to, to be told things.
+
+You see, sometimes if we\'re working in some department, or we\'re doing some job and our supervisor comes along and says, \'You missed a little piece here on the floor', or 'That could be a little bit done better there', or 'You forgot to put a fork on this table', or 'You pressed the wrong button on the washing machine'---we might explode!
+
+'Somebody has told us these things. How dare they tell us these things!' We can be full of pride and vanity. We can be like a stick of dynamite.
+
+We have to learn how to control those sorts of reactions, because we have to learn how to work with other people, how to live with other people. Everybody should be able to tell us anything at any moment, because ultimately, they\'re not out to try and make us suffer. They\'re trying to make us into a better professional person.
+
+It\'s a great service that they tell us things. It\'s a sign of confidence that they feel that they can tell us something without us exploding like a stick of dynamite. We\'ll take it, we\'ll be sensitive, we\'ll be grateful, because it\'s a great act of charity. It helps us to be better, which is ultimately what we want.
+
+This older brother, he knows it all already. He has it all figured out. He\'s full of self-exaltation. I can imagine he's impossible to work with, impossible to live with.
+
+That picture that Our Lord paints of this person on the inside is very relevant for each one of us. 'I need to change. I need to be better. I need to ask people also, maybe in spiritual direction, what are my great faults? Where do you think I can improve, to prevent me from making big mistakes in my life?'---like this fellow did.
+
+Or also, all those money changers in the temple, or all the people that brought the oxen and the cattle into the temple---what were they thinking? What did they think this place was? They converted it into a marketplace. You get the impression they must all have been very, very stupid.
+
+And yet, we can all be very stupid. We can use things for the completely opposite purpose for which they have been created. We can mistake the meaning and the purpose of certain great instruments that God has given to us. We could be the ones that lead our goats or our cattle or something into some sacred place. Our Lord has come along and corrects them in a very clear way.
+
+This older son---he sees only the sins of others. He refuses to see his own imperfections.
+
+"Lord, that I may see" (Luke 18:41). Help me to see myself as others see me. Help me to have that humility of spirit, so that I realize that I have defects and that I need to change.
+
+If we love others with a heart that\'s full of pride, then our love becomes conditional. We will show love only if other people behave according to our will, if they conform to be what we want them to be.
+
+This fellow was living in a house full of love and mercy, with such a good father. But he doesn\'t get it.
+
+Lord, prevent me from being in such a good atmosphere, such a good family---such tenderness around me, such charity---and yet I don\'t get the message. What a tragedy!
+
+This parable helps us to look into the depths of the heart of man, depths of the hearts of God\'s children. See what we\'re all like on the inside.
+
+This older son becomes the example to avoid. The younger son is the one to imitate. The older son is detestable, but yet God still loves him. He still goes out to him: "All that I have is yours."
+
+Even when we are detestable on the inside, full of misery and wretchedness, failure, God still loves us, reaches out to us, invites us to a new conversion.
+
+We could ask Our Lady to help us to understand these types of anger, so that we might have a lot of the good anger, whereby we want things to be right, we want to put things right, and that we might have none of the bad anger.
+
+If it\'s there, that we might conquer it with a deeper humility, which comes as a result of getting to know ourself a little better on the inside, just like Our Lord has given us this older son for us to examine in concrete ways, so that we can know ourselves a little better.
+
+Mary, may you lead me along the pathway of a deeper humility.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*MVF*

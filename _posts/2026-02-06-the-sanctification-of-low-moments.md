@@ -1,0 +1,157 @@
+---
+layout: homily
+title: "The Sanctification of Low Moments"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"Jacob\'s well was there and Jesus, tired by his journey, sat down by the well. It was about the sixth hour" (John 4:6).
+
+On another occasion, we're told Our Lord said to His disciples, "You foolish men! So slow to believe all that the prophets have said!" (Luke 24:25).
+
+Pope Francis has spoken about the spiritual state that we call desolation.
+
+It could be due to tiredness, anxiety, depression, loneliness, or discouragement. It\'s a period when "in the heart everything may be dark, and we might feel sad." But the Holy Father liked to emphasize that this "can be an opportunity for growth" (Pope Francis, *General Audience*, November 16, 2022).
+
+When the body or the nerve chemistry is low, it can be a time of great spiritual bonanza. The soul can dance. It\'s a time to take solace in the norms or prayers of *always*: acts of thanksgiving, acts of hope, acts of atonement.
+
+"If there\'s not a little dissatisfaction," he says, "a little healthy sadness, a healthy capacity to dwell in solitude and to stay by ourselves without fleeing, we risk always remaining on the surface of things, and never making contact with the core of our existence."
+
+He says, "Desolation causes a 'rousing of the soul': when one is sad it is as if the soul were shaken. It keeps us alert, it fosters vigilance and humility, and protects us from the winds of fancy. These are indispensable conditions for progress in life, and hence, also in the spiritual life.
+
+"If we have "a perfect but 'aseptic' serenity, without feeling, when it becomes the criterion for decisions and behavior, this can make us inhuman."
+
+If we go through low periods, where we experience some of these realities, this can be a great apostolic opportunity. It may be that God is shaping our soul in a special way, leading us closer to Him, allowing us to feel the cross.
+
+It may be that in the plans of God, He will bring some soul in contact with us a few weeks or months or years down the road, who is experiencing something similar. Because we\'ve been there, we know how to help that soul.
+
+The Holy Father continues, "We cannot ignore our feelings: we are human and sentiment is part of our humanity. And without understanding feelings, we would be inhuman. Without experiencing our sentiments, we would also be indifferent to the sufferings of others and incapable of accepting our own."
+
+Going through low periods ourselves helps us to understand the low periods of others.
+
+"Not to mention", he says, "that such a 'perfect serenity' cannot be reached by this path of indifference. This sterile distance: 'I won't get involved in things, I will keep my distance.' This is not life. It is as though we lived in a laboratory, shut away, so as not to have microbes and diseases.
+
+"For many saints, restlessness" or ups and downs, difficult periods, "was a decisive impetus to turn their lives around. ... a healthy restlessness is fine, the restless heart, the heart that seeks its way. This is the case, for example, of Augustine of Hippo, of Edith Stein, of Joseph Benedict Cottolengo, of Charles de Foucauld.
+
+"Important choices come at a price that life presents, a price that is within reach of everyone; or rather, the important choices do not come from the lottery, no. They have a price and you have to pay that price.
+
+"It is a price that you must pay with your heart. It is the price of the decision, the price of making some effort. It is not free of charge, but it is a price within reach of everyone. We must all pay for this decision so as to leave behind the state of indifference. The state of indifference brings us down, always."
+
+Low periods can be part of the will of God for us, which we have to accept with humility, with serenity, meditating perhaps a little more on the cross and the wounds of Our Lord, finding solace in the Heart of Christ, with a great spiritual optimism that God is using me---or this period---in a special way to bring about greater things.
+
+He says, "Desolation is also an invitation to gratuitousness, to not acting always and solely with a view to emotional gratification."
+
+God wants us to offer Him our feelings. He says, "Being desolate offers us the possibility of growth, of initiating a more mature, more beautiful relationship with the Lord and with our loved ones, a relationship that is not reduced to a mere exchange of giving and having.
+
+"Let us think of our childhood, for example. Think: as children, it often happens that we look for our parents to obtain something from them: a toy, some money to buy an ice cream, permission. ... And so, we look for them not for themselves, but for personal gain. And yet, the greatest gift is them, our parents, and we understand this gradually as we grow up.
+
+"Many of our prayers are also a bit like this," says the Holy Father. "They are requests for favors addressed to the Lord, without any real interest in him. We go to ask, to ask, to ask\...
+
+"The Gospel notes that Jesus was often surrounded by many people who sought him out in order to obtain something: healing, material assistance, but not simply to be with him. He was pushed by the crowds, yet he was alone.
+
+"Some saints, and even some artists, have contemplated this condition of Jesus. It may seem strange, or unreal, to ask the Lord: 'How are you?'
+
+"Instead, it is a beautiful way to enter into a true, sincere relationship, with his humanity, with his suffering, even with his singular solitude---with him, with the Lord, who wanted to share his life with us to the full.
+
+"It does us a great deal of good to learn to be with him, to learn to be with the Lord without ulterior motives, exactly as it happens with people we care for. We wish to know them more and more because it is good to be with them."
+
+Our Lord may allow difficult periods of low feelings to draw us a little closer to the tabernacle so that we find our consolation in Him---a great spiritual consolation when nothing in this world seems to give us consolation. He leads us along that pathway to what is most important.
+
+Pope Francis says, "The spiritual life is not a technique at our disposal. It is not a program for inner 'well-being' that it is up to us to plan."
+
+Low feelings, low moments, no enthusiasm, tiredness. This doesn't mean that our spiritual life is going badly. Quite the opposite.
+
+The natural is the natural and the supernatural is the supernatural. When natural things let us down a little bit, it\'s a time to focus more on the supernatural, to rise up to those things that are on a higher level.
+
+"The spiritual life is the relationship with the Living One, with God, the Living One who cannot be reduced to our categories. And desolation, then, is the clearest response to the objection that the experience of God is a form of wishful thinking, a simple projection of our desires.
+
+"Desolation is not feeling anything, when everything is dark, but you seek God in the desolation. In that case, if we think that He is a projection of our desires, we would always be the ones to plan, and we would always be happy and content, like a record that repeats the same music.
+
+"Instead, those who pray realize that the outcome is unpredictable. Experiences and passages from the Bible that may often have enthralled us in the past, strangely do not move us. And, equally unexpectedly, experiences, encounters, and readings that we have never paid much attention to or preferred to avoid---such as the experience of the cross---can bring immense peace."
+
+The Holy Father invites us: "Do not fear desolation; face it with perseverance. Do not evade it. And in desolation, try to find the heart of Christ, to find the Lord. And the answer will come, always.
+
+"Therefore, faced with difficulties, we should never get discouraged, but confront the test" that God may place in front of us "with determination, with the...grace of God, which is never lacking. And if we hear within us an insistent voice that wants to turn us away from prayer, let us learn to unmask it as the voice of the tempter. Let us not be influenced. Let us just do the opposite of what it tells us!
+
+"We have seen," says Pope Francis, "how important it is to read what stirs within us, so as not to make hasty decisions, spurred by the emotion of the moment, to regret them only when it is too late."
+
+There should be no life-changing decisions in low moments. It\'s the moment to stop what we\'re doing, to rest, perhaps to stop and make good use of our time, to do what we\'re told.
+
+We might be told to go and see a doctor when we don\'t feel like going to see a doctor. But yet, these can be moments for an important obedience.
+
+We might be told to leave ourselves in the hands of the doctors, to stop being overly concerned about our feelings or our low moments, and let the doctors do their work.
+
+All this is part of being a child, of living our divine filiation, of letting Our Lord do His work, because it may be a time of great fruitfulness that has this great apostolic purpose and leads us to authentic holiness.
+
+Those are important God-given moments in our life. Those moments might come as a surprise.
+
+Pope Francis likes to say that we have to learn how to "welcome surprises" when things don\'t go the way that we expected. "I never thought this would happen to me." "I never imagined myself in this situation."
+
+He says, "Perhaps we lament over some dreams that have been shattered and we see that our best expectations often need to be put together with unexpected, disconcerting situations. When this happens, St. Joseph shows us the way" (Pope Francis, *Angelus*, December 18, 2022).
+
+Everything might be sweet and comfortable in our life, and then suddenly everything seems to go wrong, or something topsy-turvy happens. Life strikes.
+
+When St. Joseph went to Bethlehem, he never expected the doors to be closed in his face. Their expectations of hospitality were turned upside down. And sometimes our life can be turned upside down.
+
+The Holy Father says, "We should not give in to negative feelings, like anger or isolation. ... Instead, we need to attentively welcome surprises in life, even crises. In these situations, we learn not to make decisions quickly or instinctively, but\...like Joseph, to 'consider everything' (cf. Matt. 1:20), and base ourselves on the underlying certainty of God's mercy."
+
+There were many moments in the life of St. Joseph when things took an unusual turn. When he first learned that Mary, his betrothed, was pregnant, his dreams for the future must have been shattered.
+
+"What would St. Joseph have felt? Shock, pain, confusion, or perhaps irritation and disappointment. ... He experienced the world falling apart around him! And what was he supposed to do?"
+
+Pope Francis explained that the Jewish law at the time gave the carpenter two choices: he could "accuse Mary and let her pay the price of her supposed infidelity," or he could "secretly annul their engagement without exposing Mary to scandal and to harsh consequences."
+
+St. Joseph chose the second option, which meant taking upon himself "the burden of shame."
+
+He chose "the way of mercy. And behold," said Pope Francis, "at the height of the crisis, right when he is thinking and evaluating all this, God shines a new light in his heart---he declares to him in a dream that Mary's motherhood did not come about because of a betrayal, but by the work of the Holy Spirit, and the baby that would be born is the Savior (cf. Matt. 1:20-21). Mary would be the Mother of the Messiah, and he would be His guardian."
+
+Upon waking from this dream, Joseph understood that in a totally unexpected way, he was to be the father of the Messiah.
+
+But for this to happen, said Pope Francis, "St. Joseph had to accept a disruption to his own plans, while trusting in God's." St. Joseph shows us how to respond to disappointed dreams.
+
+"His courage is heroic and is exercised in silence. ... When one experiences a crisis without giving in to isolation or anger or fear, but keeps the door open for God, then God can intervene. God is an expert in transforming crises into dreams.
+
+"God opens crises into new horizons\...perhaps not as we would expect, but in the way that he knows how. And these are God\'s horizons---surprising---but infinitely more grand and beautiful than ours!"
+
+We can always ask Our Lady to help us to be "open to God\'s surprises."
+
+We\'re told in *The Forge,* "Interior dryness is not lukewarmness. When a person is lukewarm the waters of grace slide over him without being soaked in. In contrast, there are dry lands which seem arid but which, with a few drops of rain at the right time, yield abundant flowers and delicious fruit.
+
+"That is why I ask: When are we going to be convinced? How important it is to be docile to the divine calls which come at each moment of the day, because it is precisely there that God is awaiting us!" (Josemaría Escrivá, *The Forge*, Point 224).
+
+Never lose heart, we\'re told, for Our Lord "is always ready to give you the grace to bring about the new conversion you need, a real advance on the supernatural plane" (cf. Javier Echevarría, *Letter from the Prelate*, February 2016, quoting St. Josemaría in *Notes*, March 2, 1952).
+
+We read in the Gospel that "the Magi were filled with great joy when they saw the star" (Matt. 2:10).
+
+They rejoiced. They were immensely glad, because they had done what they were supposed to do. They rejoiced because they knew for certain that they would reach the King who never abandons those who seek Him.
+
+"He will give you strength. ... Be filled with faith and rest assured!" we're told (J. Escrivá, *The Forge*, Points 244, 228).
+
+The Lord tells us through the prophet Jeremiah, "Whenever you call upon me, whenever you pray, I will listen to you" (cf. Jer. 29:12).
+
+"Allow me to give you the advice of an experienced soul: your prayer---and your whole life should be spent in prayer---ought to have the simplicity of a child\'s prayer" (J. Escrivá, *The Forge*, Point 230).
+
+"A sick man is brought to Jesus, who looks at him. ---Contemplate the scene closely and meditate upon his words: 'take heart, my son' (Matt. 9:2). This is what Our Lord says to you when you feel the weight of your errors. Have faith! In the first place: faith. And then allow yourself to be carried like the paralytic did: with interior and submissive obedience!" (*Ibid*., Point 231).
+
+"Don\'t give way to sadness when it feels as if the Lord has given up on you. Seek him with greater determination! He who is Love will not leave you on your own. ---Be convinced that 'he has left you on your own' out of love, so that you may see clearly in your life what is his and what is yours" (*Ibid*., Point 250).
+
+Difficult times can be times of purification, a time when Our Lord places us in the fast lane on the road to holiness. And that\'s all a grace.
+
+Again, in *The Forge*, we\'re told, "Jesus will refuse a word to no one, and his words bring healing, they console, they bring light. ---This is what you and I have to remember at all times, especially when we find ourselves tired and weighed down by work or opposition" (*Ibid.*, Point 254).
+
+"If there are mountains in the way, obstacles, misunderstandings, and backbiting, which Satan seeks and God allows, you must have faith, faith with deeds, faith with sacrifice, faith with humility" (*Ibid.*, Point 256).
+
+"Practice the virtue of hope and, with God as your motive, even when you find it hard, persevere at your work and try to finish it well, convinced that those efforts of yours are not useless in the Lord\'s sight" (*Ibid.*, Point 277).
+
+We can "Turn to Our Lady---the Mother, Daughter, and Spouse of God, and Our Mother---and ask her to obtain more graces...from the Blessed Trinity: the grace of faith, of hope, of love, and of contrition, so that when it seems that a harsh, dry wind is blowing in your life, threatening to wither those flowers of your soul, they will not wither\...and neither will those of the people around you" (*Ibid.*, Point 227).
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*NJF*

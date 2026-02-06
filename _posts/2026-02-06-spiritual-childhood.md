@@ -1,0 +1,195 @@
+---
+layout: homily
+title: "Spiritual Childhood"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+St. Mark tells us, "They were bringing children to him, that he might touch them, and the disciples rebuked them." That's where He says, "'Truly, I say to you, whoever does not receive the kingdom of God like a small child shall not enter into it.' And he took them in his arms and blessed them, laying his hands upon them" (Mark 10:13,15-16).
+
+Behind those children we can see their mothers gently pushing their little ones in front of Him.
+
+Our Lord must have created around Him an atmosphere of goodness and attractive simplicity. The mothers must have felt glad to see Our Lord blessing their children and edged closer to Him.
+
+The conflict between the women and the disciples, who were obviously concerned to keep some sort of order in the throng, is the prologue to a profoundly significant lesson from Christ.
+
+In the midst of the striving and pushing forward of some and the resultant protests of those who want them to take the children away, Our Lord takes the disciples to task. He's happy to be with these little ones.
+
+"'Let the little children come to me; do not hinder them, for to such belongs the kingdom of God. Truly, I say to you, whoever does not receive the kingdom of God like a little child shall not enter it.' And he took them in his arms and blessed them, laying his hands upon them" (Mark 10:14-16). The children and their mothers had won the day, and they went home happy.
+
+We have to try and approach Bethlehem with the dispositions of little children---simply, that is, without prejudice and with our souls wide open to grace.
+
+This period of excitement, preparation, looking forward can be a time to look a little more at the little children around us, to learn great lessons of spiritual childhood.
+
+Infancy in the spiritual life is maturity. Christ is not just going to become small. He's going to become a baby abandoned in His Mother's arms.
+
+More than that, it is necessary to become completely childlike in order to enter the kingdom of heaven. Our Lord says, "Unless you turn and become like children, you will never enter the kingdom of heaven" (Matt. 18:3).
+
+Our Lord is not recommending childishness, but innocence and simplicity. He sees in children traits and attitudes that are essential in anyone if he is to gain heaven, and, even in this life, if he is to enter the kingdom of faith.
+
+A child is devoid of even the slightest feeling of self-sufficiency.
+
+I remember a young couple bringing their young child who had just learned to walk into a new apartment, where we happened to be staying.
+
+The little child began to explore the apartment going into this room and that room. And I happened to remark to the mother, "Oh, he's very daring. He's going off on his own."
+
+She said, "Well, if I make one move for the door, he'll come running."
+
+Children are very aware that on their own, they're nothing. A small child is in constant need of his parents. And he knows it.
+
+A child is fundamentally a being in need, and that's what a Christian should be before his Father God: a being in total need. That's what Jesus was in the stable in Bethlehem.
+
+A child lives fully in the present and nothing more. He has very little sense, or nothing, of the past or of the future.
+
+The adult's less admirable predisposition is to look restlessly to the future, ignoring the here and now, the present moment, which ought to be lived to the full.
+
+The gesture of Our Lord towards their little ones must have won over those women who, perhaps in their eagerness to get their children to the front, had not been paying much attention to the words addressed by Jesus to His audience.
+
+Our Lord shows us the way of spiritual childhood, so that we open wide our hearts to God and be fruitful in the apostolate.
+
+St. Josemaría in *The Way*, Point 857, says, "Be a little child; the greatest daring is always that of children. Who cries for...the moon? Who is blind to dangers in getting what he wants? To such a child add much grace from God, the desire to do his Will, great love for Jesus, all the human knowledge he is capable of acquiring, and you will have a likeness of the apostles of today such as God undoubtedly wants them."
+
+A few days before the Passion, "the chief priests and the scribes saw the wonderful things that he did and the children crying out..., and they were indignant.
+
+"And they said to him, 'Do you hear what these are saying?' And Jesus said to them, 'Yes, have you never read, Out of the mouths of babes and sucklings you have brought perfect praise?'" (Matt. 21:15-16).
+
+Throughout the whole of the Gospel, they come across this same idea: that which is little is chosen so as to confound the great, to open the mouths of those who know least and close the lips of those who seem to be wise.
+
+Our Lord openly accepts the Messianic confession of these children. They are the ones who clearly see the mystery of God there present. Only with this attitude can we receive the kingdom of God.
+
+I was present at St. Peter's Square on the First Sunday of Advent in 1978. This was two months after the election of John Paul II. It was his first Advent in Rome, and on the First \[Third\] Sunday of Advent, there is a custom whereby families bring their small children with the Baby Jesus from their crib to have it blessed by the Pope. There were many small children in St. Peter's Square.
+
+The Holy Father put aside his prepared script, and he began to talk to the little children. He said, "This Christmas, I want you to do something special for me. I want you to go to your crib, and to bring your mom and your dad and your brothers and your sisters, and to kneel down there and to pray for me.
+
+"You may think that it's the prayers of an old Pope like me that God hears best. And that's not so. It's the prayers of little children. That's why I ask you to pray for me" (*cf*. John Paul II, *Angelus*, December 17, 1978).
+
+As we approach our crib in these coming days, you can remember to pray for the Holy Father and for his intentions.
+
+We Christians, recognizing Jesus in the stable at Bethlehem as the long-promised Messiah, must react with the mind, the simplicity, and the daring of children. In *The Way*, Point 861, we are told, "Child, enkindle in your heart an ardent desire to make up for the excesses of your grown-up life."
+
+We commit great excesses when in the hardness of our heart we lose interior simplicity and the clear vision of Jesus Christ, withdrawing from Him our praise when He most desires our open confession of faith in an environment of such blindness to the things of God.
+
+To become children at heart while remaining adults can be costly. It can require real determination and strength of will, and a total abandonment to God.
+
+St. Josemaría says in *Christ Is Passing By*, "To become children we must renounce our pride and self-sufficiency, recognizing that we can do nothing by ourselves.
+
+"We must realize that we need grace, and the help of God Our Father to find our way and keep to it. To be little, you have to abandon yourself as children do, believe as children believe, beg as children beg" (Josemaría Escrivá, *Christ Is Passing By*, Point 143).
+
+A life of childhood is possible if we have a deep-rooted awareness of our being children of God. The mystery of divine filiation, founded on our spiritual life, is one of the consequences of the Redemption.
+
+"We are God's children now," says St. John (1 John 3:2), and it's very important that we become clearly aware of this marvelous reality so that we can approach God with the childlike spirit of a good son or a good child.
+
+Divine adoption implies a transformation that greatly surpasses the changed circumstances of ordinary human adoption.
+
+St. Thomas says divine adoption is more real than its human counterpart. "Through the gift of grace, God makes man worthy to be adopted so that he may receive a heavenly inheritance. On the other hand, man does not make the person he adopts worthy of his adoption, but rather adopts someone who is already deserving of it" (Thomas Aquinas, *Summa Theologiae*, Part 3, Question 23).
+
+As children of God, we are heirs of glory. We can try to be worthy of such an inheritance, and have for God a filial, tender, and sincere piety.
+
+The way of spiritual childhood presupposes a limitless confidence in God Our Father.
+
+In a family, the father explains the great big world to his little one. The child feels his weakness but knows his father will protect him and, because of this, lives and walks confidently.
+
+The child knows that when his father is there, nothing can go wrong and nothing bad can happen to him. The child's soul and mind are open to his father's voice without fear or distrust.
+
+The little one knows that even though others may deceive him, when he goes home, his father will never be unfriendly or hostile because he understands.
+
+Children are not unduly sensitive to the fear of ridicule which paralyzes so many undertakings. Nor do they tend to be inordinately concerned about that false respect born of pride and the apprehensive dread of what others may think.
+
+Children often tumble down, but they quickly pick themselves up again. And in the life of spiritual childhood, those very same falls and weaknesses are means of sanctification. For in it love is always young and unpleasant experiences are easily forgotten, not dwelt and brooded upon as so often happens with those who have 'grown-up' souls.
+
+St. John Chrysostom says, "They are called children, not because of their age, but because of their simplicity of heart" (John Chrysostom, *The Golden Chain*).
+
+Simplicity is perhaps the virtue which summarizes and coordinates all the other aspects of this life of childhood.
+
+St. Jerome says we are to be "like the child whom I propose to you as an example. ... He does not think one thing and say another, behaving as you also must behave, for if you did not have such innocence and purity of intention you would not be able to enter the kingdom of heaven" (Jerome, *Commentary on St. Matthew's Gospel*).
+
+Simplicity is shown in our sincere, friendly, and unaffected dealings with others. It's a much-appreciated virtue in human relations, but not always easy to find.
+
+Another consequence of spiritual childhood is the gentle virtue of meekness. St. Josemaría in *The Way*, Point 871, says "Child, abandonment demands docility."
+
+Etymologically, a person is 'docile' when they are disposed and prepared to be taught. This is how the Christian should be when faced with the mysteries of God and the things that refer to Him, keeping the mind open to a correct formation and always full of desire to know the truth.
+
+The person with an 'adult' soul assumes that he knows many things but in reality he may be ignorant.
+
+He thinks he knows, but has in fact not penetrated beyond external appearances, and has failed to get to the bottom of things in such a way that what is true could have a direct influence on his actions.
+
+When God looks at such a person, He sees him totally lacking in awareness of reality and shut out from \[knowledge\] of the truth.
+
+It would be wonderful if, someday, having finally become children, we were to grasp the true meaning of things as familiar to Christians as the *Our Father*, or of really taking part in the Holy Mass, or of sanctifying each day's work, or of seeing in the people around us souls that must be saved, or of so many other things that too often we may take for granted.
+
+Let us learn to be children in the sight of God. In *Christ Is Passing By*, St. Josemaría says, "And we learn all this through contact with Mary.
+
+"Because Mary is our mother, devotion to her teaches us to be authentic sons: to love truly, without limit; to be simple, without the complications which come from selfishly thinking only about ourselves; to be happy, knowing that nothing can destroy our hope. The beginning of the way, at the end of which you will find yourself completely carried away by love for Jesus, is a trusting love for Mary" (J. Escrivá, *Christ Is Passing By*, Point 143).
+
+Pope St. John Paul says, "When a man forgets his eternal destiny, and when the horizons of his life are limited by his earthly existence, he is content with a fictitious peace, with a mere outward appearance of tranquility. All he asks is the illusory security of attaining the greatest possible material well-being with the least effort.
+
+"In this way, he builds an imperfect and unstable peace, since it is not rooted in the dignity of the human person, a person made in the image and likeness of God and called to his divine sonship.
+
+"You must never be content with these substitutes for peace, for their fruit produces the most bitter disillusionment. Christ emphasized this when he said to his disciples shortly before his ascension into heaven: 'Peace I leave with you, my peace I give you. Not as the world gives do I give to you' (John 14:27).
+
+"Thus, there are two kinds of peace: that which men can make for themselves alone, and that which is the gift of God; ... that which is imposed by force of arms, and that which is born in the heart.
+
+"The former is fragile and insecure; it can be called a mere appearance of peace, because it's founded on fear and mistrust. The latter, on the contrary, is a strong and durable peace, and being founded on justice and love, it permeates the heart. It is a gift God gives to those who love his Law (Ps. 119:165)" (John Paul II, *Address*, March 24, 1986).
+
+If we are people with true peace in our hearts, we will be better able to live like children of God and will the better be able to live in brotherhood with our fellow men.
+
+Also, insofar as we realize that we are children of God, we will be men and women with lasting peace.
+
+Divine filiation is the foundation of a Christian's peace and joy. In it we find the security we need, the fatherly warmth, and trust for the future.
+
+We live in the assurance that behind all the disappointments of life, there is a good reason. St. Paul tells us, "In everything God works for good for those who love him" (Rom. 8:28).
+
+Considering our divine filiation will help us to be strong in the face of difficulties. In *Friends of God*, St. Josemaría says, "Don't be frightened; don't fear any harm, even though the circumstances in which you work are terrible. \... God's hand is as powerful as ever and, if necessary, he will work miracles" (J. Escrivá, *Friends of God*, Point 105).
+
+On these days of Advent, we could try to foster peace and joy, focusing on the peace and joy of St. Joseph and Our Lady as they went towards Bethlehem, overcoming every challenge, every difficulty, every obstacle.
+
+We can try to learn to thank God in everything, even in the most difficult situations.
+
+St. John Henry Newman says, "Seek his face who ever dwells in real and bodily presence in his Church. Do at least as much as the disciples did. They had but little faith; they feared; they had no great confidence and peace, but at least they did not keep away from Christ\...
+
+"Do not keep from him, but when you are in trouble, come to him day after day, asking him earnestly and perseveringly for those favors which he alone can give.
+
+"So though he discerns much infirmity in you which ought not to be there, yet he will deign to rebuke the winds and the sea, and will say: 'Peace, be still.' And there will be a great calm" (John Henry Newman, *Sermon*).
+
+Divine sonship is the foundation of true freedom, the freedom of the children of God, in the face of every kind of oppression and especially in the struggle to dominate our evil passions and inclinations (*cf*. Rom. 6:12-13).
+
+Spiritual childhood is also the firm foundation of peace and joy. Being a child of God, we find the protection that we need; confidence in the face of an always uncertain future.
+
+No matter what our situation, our awareness of being children of God is the foundation of great peace, even in the midst of privation and difficulty. God always gives us the means to make progress and if we go to him with childlike trust, He will give us these means in the most unexpected of ways.
+
+Children love surprises, and Our God is a God of surprises. We, on our part, should always bear in mind that in every moment, the essential thing in our life is the search for holiness through these very circumstances.
+
+Our Lady and St. Joseph on the way to Bethlehem could have thought they hadn't planned that things would turn out this way---this whole change of the direction of their life, with their house and home all ready to receive the Child, and suddenly being thrown into turmoil. But yet they go forward, step by step, with great abandonment, great trust, great faith, great heroism.
+
+We also will be good children of Our Father God insofar as we are close to Jesus. This was their great compensation, great beacon light in those dark hours as they went towards Bethlehem, perhaps during the night.
+
+Jesus will always show us the way that leads to the Father. We'll often be reminded of this when we go to kiss and adore the Child Jesus in Bethlehem. Made poor for us, He lies amid the straw. We give Him warmth and we lovingly embrace Him.
+
+We can look forward to contemplating Jesus at His birth, where He can become the center of our attention and devotion. We look forward to talking to Him in our prayer---to look at Him, to listen to Him, to adore Him.
+
+He's coming to us because He loves us so much. Our job is to try and return that love. And that love, which must be practiced, will be done so through putting more love and refinement in our relationship with those who are near us.
+
+Being children of God leads us to hold other people in great respect---everybody, all souls, because they too are children of God.
+
+Our Lady in Bethlehem will invite us to spend long periods beside the crib looking at her Son. We can ask her to reshape our behavior in accordance with the supreme dignity we are going to receive.
+
+We can also ask her to help us never to forget, whatever our circumstances, that we are really and truly children of God.
+
+"And if children, then heirs---heirs of God and fellow heirs with Christ" says St. Paul (Rom. 8:17).
+
+We are children for whom a place in heaven awaits, a place that has been prepared by Our Father God.
+
+And Our Lady, who is the Queen of Peace, will help us to have peace in our hearts, to recover it when we have lost it, and pass it on to those around us.
+
+Mary, may you help us to use these days to be more aware and more grateful for that spiritual childhood that your Son wants us to have.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*JM*
