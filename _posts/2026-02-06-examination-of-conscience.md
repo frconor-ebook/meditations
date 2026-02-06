@@ -1,0 +1,143 @@
+---
+layout: homily
+title: "Examination of Conscience"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+We are told in the Communion Antiphon of today's Mass, "'Behold, I am coming soon,' says the Lord, 'bringing my recompense to repay everyone for what he has done'" (Rev. 22:12).
+
+It was laid down in the Law that everyone had to pay tithes: one-tenth of all corn, wine, and oil was given for the support of the Temple and its worship.
+
+The Pharisees, strict observers of the Law but lacking in love, paid tithes even of "mint and dill and cumin" which then as now were sometimes grown in gardens for the use of flavorings. They interpreted the Law scrupulously, down to the tiniest detail.
+
+St. Matthew reports the very stern words in which Our Lord reproved the Pharisees for their hypocrisy and the double standards of their lives:
+
+"Woe to you, scribes and Pharisees, hypocrites! For you tithe mint and dill and cumin, and have neglected the weightier matters of the Law, justice, mercy, and faith: these you ought to have attended to, without neglecting the others. You blind guides, straining at a gnat and swallowing a camel!" (Matt. 23:23-24).
+
+In their lives, we can see, on the one hand, a stifling meticulousness; on the other, an enormous laxity in really important matters: they "neglected the weightier matters of the Law: justice, mercy, and faith." They failed to understand what God really wanted from them.
+
+We too, in these days of Advent, by improving our examination of conscience, can make sure that we don't linger over things that are basically of little consequence, while we fail to notice those that are really important.
+
+If we make a habit of examining our conscience every day---briefly, but thoroughly---we shall be safe from the hypocrisy and distorted vision of the Pharisees. We'll see clearly the errors that draw our hearts away from God, and we'll be able to react against them in time.
+
+In the Book of Lamentations, it says: "Let us examine our path, let us ponder it, and return to Yahweh" (Lam. 3:40).
+
+Our Lord sometimes gives astonishing challenges to those who follow Him: "Go sell all that you have" (Matt. 19:21); "Those to whom much has been given, much will be expected" (Luke 12:48).
+
+And in St. Matthew: "Even now the axe is being laid to the root of the trees, so that any tree failing to produce good fruit will be cut down and thrown into the fire" (Matt. 3:10).
+
+The examination of conscience is a means to see how we are running the race, how we are doing. The examination of conscience is like an eye which can see into the innermost recesses of the heart and recognize all its deviations and attachments.
+
+One writer says: "By it do I see and become enlightened, so I avoid dangers and correct faults, and that I set my ways right. By it do I flood my soul with light and bring light to bear upon everything; and thus, I cannot abide in evil, but I am bound to do the truth, that is to say, to advance in piety" (Joseph Tissot, *The Interior Life*).
+
+If through laziness we neglect our examination of conscience, our errors and bad inclinations may put down roots into our souls. We will no longer be able to see the greatness to which we have been called.
+
+As St. Joseph guided the Holy Family toward Bethlehem, he must have had a continuous spirit of examination. Am I on the right track? Am I doing the right thing? Am I truly fulfilling the will of God? What is that will of God? Am I taking good care of Our Lady and of the Christ Child that is to come?
+
+If we don't take care of that examination, we'll be left staring at "mint and rue and cumin," at trivialities which are of little or no importance in the sight of God.
+
+If St. Joseph kept thinking about all the things he had left behind, with a calculating mentality or worrying over trivialities, he would not have fulfilled his job well.
+
+In the examination of conscience, we will discover the hidden origins of our obvious failures in charity or in work, the hidden roots of our gloom and bad temper, or of our lack of piety, which perhaps crop up quite often in our lives, and we'll see what remedies we need to apply to them.
+
+We're told in *The Way,* Point 237: "Examine yourself: slowly, courageously. Is it not true that your bad temper and your gloominess, both without cause---without apparent cause---are due to your lack of determination in breaking the subtle but real snares laid for you---cunningly and attractively---by your concupiscence?" (Josemaría Escrivá, *The Way,* Point 237).
+
+The daily examination of conscience is an indispensable help if we are to follow Our Lord with sincerity of heart and integrity of life.
+
+Everything we do---in our families, in our work, in our social life---is an opportunity for meeting God. And so, the examination of conscience is also a meeting with Our Lord. During the course of our day there are several very special meetings with Our Lord: in Holy Communion, and in our prayer, and also in our examination.
+
+We're told by one spiritual writer that "the daily examination is a thorough inspection of what we have written on the page of each unrepeatable day of our lives" (Francis Fernandez, *In Conversation with God*, Volume I).
+
+Many an ill-written word can be corrected by means of contrition. A page of sheer horror can be turned into something good, even very good, by means of repentance and the resolution to begin again with renewed effort on the clean page which our guardian angel offers us on God's behalf---a unique and unrepeatable page, like each unique and unrepeatable day of our life.
+
+Possibly, when St. Joseph began to hear of the decree of Caesar Augustus and what it would entail as he went through the possibilities leading up to that decision---should we go, should we not go, perhaps we don't have to go, perhaps we can stay here---there might have been feelings, decisions, ideas that later on, he would realize was not the will of God, and that he had to rectify, as he set out on that journey to Bethlehem with great generosity and commitment and love and faith.
+
+"And at the top of each of those blank pages," a writer comments, "which we begin to scribble each day, I like to put as a heading just one word: *Serviam*. I will serve. It is both a desire and a hope.
+
+"After beginning in that way---with that desire and that hope---I try to write words and phrases and make paragraphs and fill the page with neat, clear handwriting. That means work, prayer, apostolate---all my day's activity.
+
+"I try to pay a lot of attention to punctuation---which is the practice of keeping presence of God. These pauses---commas, or semicolons, or colons---represent the silence of my soul and the aspirations I try to use to give meaning and supernatural outlook to everything I write.
+
+"I particularly like the full stops, because after every full stop I begin, in a way, to write again. They're a kind of indication that I'm correcting my intention, saying to Our Lord that I'm going to start writing again: I'm going to start again with the right intention of serving him and dedicating my life to him, moment by moment, minute by minute" (Salvador Canals, *Jesus as Friend*).
+
+As St. Joseph went towards Bethlehem, possibly he renewed his dedication with each step, with a new conviction to fulfill that will which was costing a lot; but yes, which was so wonderful, so beautiful, so divine.
+
+This writer continues: "I'm also careful about dotting my i's and crossing my t's---the little mortifications which give my life and my work a truly Christian meaning. When I fail to dot an 'i' or cross a 't' it means that I did not accept in a Christian way the mortification which Our Lord was sending me, which he had lovingly prepared for me and wanted me to recognize and receive with pleasure.
+
+"I try to see that there is nothing crossed out, no mistakes or blots, or irrelevant parentheses or big gaps; but\...there are so many! These are my imperfections, my infidelities, my sins, and my omissions.
+
+"It hurts me to see that there is hardly a single page that has not got some sign of my awkwardness and clumsiness. But I quickly console myself and recover my serenity by remembering that I am just a little child who hasn't yet learned to write properly and has to use a ruled sheet under the page to help him write straight, and needs a teacher to guide his hand to make sure that he doesn't write nonsense. What a good Teacher God Our Lord is; what infinite patience he has with me" (*ibid*.).
+
+The purpose of the examination is to get to know ourselves better, in order to become more receptive to the graces the Holy Spirit pours out upon us, and to grow to resemble Christ Himself.
+
+The question to ask ourselves which will perhaps give us the most light of all is: On what have I set my heart? What takes up most room in it? Is it Christ?
+
+Another writer says: "At the very moment of putting this question, the answer comes within me. This question causes me to cast a rapid glance into the innermost center of my being, and I at once see the salient points; I give ear to the tone echoed by my soul, and immediately catch the dominant note.
+
+"It is an intuitive proceeding and is quite instantaneous. ... It is a glance. ... Sometimes I shall see that my dominant disposition is the want of approval or praise, or the fear of reproach. Sometimes, the bitterness that springs from some annoyance from some harmful project or proceeding, or else the resentment caused by some remonstrance; sometimes, the pain of being under suspicion, or the trouble felt through some aversion; or, it may be the slackness induced by sensuality, or the discouragement resulting from difficulties or failure.
+
+"At other times routine, the product of carelessness, or frivolity, the product of idle curiosity and empty gaiety. Or else, on the contrary, it may be the love of God, the desire for sacrifice, the fervor kindled by some touch of grace, full submission to God, the joy of humility.
+
+"Whether it be good or bad, it is the main and dominant disposition that must be ascertained; for we must look at the good as well as the evil, since it is the state of the heart that it is important to know. I must go directly to the mainspring which sets all the wheels of the clock in motion" (Joseph Tissot, *The Interior Life*).
+
+When we're examining our consciences, our aim is to discover whether that day we have fulfilled the will of God and carried out what was expected of us, or whether we followed our own will.
+
+And then we should come down to specific details of our behavior towards God; of how we have fulfilled our duties towards Him in our plan of life, in our work, in our relationships with other people.
+
+In the Book of Jeremiah, it says, "I, the Lord, search the mind and try the heart, to give every man according to his ways, according to the fruit of his doings" (Jer. 17:10).
+
+In the Book of Ecclesiasticus, it says, "He searches out the abyss and the hearts of men, and considers their crafty devices. For the Most High knows all that may be known. ... No thought escapes him and not one word is hidden from him" (Sir. 42:18, 20).
+
+As St. Paul to the Corinthians says, "But to us God has revealed them by his Spirit. For the Spirit searches all things; yes, the deep things of God" (1 Cor. 2:10).
+
+We can ask the Holy Spirit to help us to see deep into our souls and into our hearts and help us to examine how much determination we've put into struggling against our tendencies to love of comfort and to the creation of imaginary necessities for ourselves.
+
+We are told in St. Matthew, "It is like a man about to go abroad who summoned his servants and entrusted his property to them. ... But one day he came back from his journey and he asked the servants to account. The man who had received five talents promptly went and traded them and made five more. ... The master and the servants came back and went through his accounts with them" (Matt. 25:14-20).
+
+On the last day, something like that will happen with us. God will look at all the graces that He's given to us.
+
+St. Paul says to the Galatians, "If his sowing is in the field of self-indulgence, then his harvest from it will be corruption. If his sowing is in the Spirit, then his harvest from the Spirit will be eternal life" (Gal. 6:8).
+
+He says to the Corinthians, "Everyone is to examine himself, and only then eat of the bread or drink the cup" (1 Cor. 11:28).
+
+We ask Our Lord for the grace to be very careful with our examination, that we look at how much effort we have made to lead a life which even on social occasions is sober and temperate in eating and in drinking, and in the use of earthly goods.
+
+At this time there may be occasions for celebrations, for indulgence. In all those moments we must try and give a good example. We don't leave our Christian vocation at the door when we're entering a party or a celebration.
+
+We have to see if we fill the day which has just passed with the love of God, or if, unhappily, we've let it remain empty for all eternity (something which will happen if we don't allow ourselves to be helped by grace), or if this day has been defiled by sin.
+
+St. James said, "Anyone who listens to the word and takes no action is like someone who looks at his features in a mirror, and, once he has seen what he looks like, goes off immediately and forgets it" (James 1:23-24).
+
+Each examination is like a miniature judgment to which we submit ourselves beforehand. We will detect some things that need to be borne in mind in our next Confession. We should always try and finish with an act of contrition, because if there's no repentance the examination may have been useless.
+
+The Book of Isaiah says, "Let the desert and the dry lands be glad, let the wasteland rejoice and bloom; like the asphodel, let it burst into flower, let it rejoice and sing for joy. The glory of Lebanon is bestowed upon it, the splendor of Carmel and Sharon; then they will see the glory of Yahweh, the splendor of Our God.
+
+"Strengthen all weary hands, steady all trembling knees, and say to the faint-hearted, 'Be strong! Do not be afraid. Here is your God, vengeance is coming, divine retribution; He is coming to save you.'
+
+'Then the eyes of the blind will be opened, the ears of the deaf unsealed, then the lame will leap like a deer and the tongue of the dumb sing for joy; for water will gush in the desert and streams in the wastelands, the parched ground will become a marsh and the thirsty land springs of water; the lairs where the jackals used to live will become plots of reed and papyrus.
+
+"And through it will run a road for them and a highway which will be called the Sacred Way; the unclean will not be allowed to use it; He will be the one to use the road, the fool will not stray along it. No lion will be there, no ferocious beast set foot on it, nothing of the sort be found; it will be used by the redeemed.
+
+"For those whom Yahweh has ransomed will return, they will come to Zion shouting for joy, their heads crowned with joy unending; rejoicing and gladness will escort them and sorrow and sighing will take flight" (Isa. 35:1-10).
+
+At the end of the examination, we should make some small resolution, which we can renew at the beginning of the next day, either in our Morning Offering, in our personal prayer, or in the Holy Mass.
+
+Finally, we can give thanks to Our Lord for all the good things that He has given to us that day.
+
+When Joseph reached Bethlehem, and found the stable, and set up the place for the coming of the Christ Child, when he looked back over the days that he traveled from Nazareth, he must have been very happy, very joyful, as he saw the hand of God at work; very grateful and happy for all the resolutions he had made along that journey---to be faithful, to be loyal to Our Lady, to expend himself, to do everything he could, to practice all the virtues to live out his faith, his hope, and his love because now he sees all those things bearing wonderful fruit.
+
+Later the shepherds are going to come, and the Magi are going to come, and the angels are going to sing---and all those efforts that he made, correcting his pathway, making a little effort here and there to make Our Lady more comfortable, not giving up along that journey---all that is going to bring him great peace and great joy.
+
+We can ask Our Lady to help us to have great faith in the fruitfulness of our examination of conscience, to keep us on the right track, to keep us close to her Son, to keep us very faithful in the apostolate that God has called us to do every day of our lives.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*KI*

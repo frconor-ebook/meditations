@@ -1,0 +1,163 @@
+---
+layout: homily
+title: "The Speck In My Brother's Eye"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+We're told in St. Matthew, **"**Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye? How can you say to your brother, 'Let me take the speck out of your eye,' when there is the log in your own eye?' You hypocrite, first take the log out of your own eye, and then you will see clearly to take the speck out of your brother's eye" (Matt. 7:3-5).
+
+Pride leads us to exaggerate our neighbor's faults and to underestimate and excuse our own. We should try and avoid negative judgments on others. Negative and often unjust judgments on others---avoiding them is a sign of humility.
+
+The slightest faults of others can be exaggerated by our personal pride, whereas our own, perhaps much greater, defects are minimized and explained away. Sometimes pride tends to see in others what are really our own imperfections and errors.
+
+St. Augustine gives this wise piece of advice: "Strive to acquire the virtues you think your brothers lack, and then you will no longer see their defects, because you yourselves will not have them" (St. Augustine, *Commentary on Psalm 30*).
+
+Humility, on the other hand, has a positive influence through a series of virtues which favor a good human and Christian atmosphere in social life. Only the humble man is in a position to forgive, to understand, and help, because he alone realizes that he has received everything from God.
+
+He's aware of his wretchedness and of how much he himself is in need of divine mercy. Even when he has to judge, he is understanding towards his neighbor. He finds excuses and forgives whenever necessary.
+
+We also have a very limited view of what motivates the actions of others. God alone can penetrate into the most intimate interior of hearts, read minds, and grasp the real effect and value of all the circumstances that influence and accompany any action.
+
+We must learn to pass over even the obvious and undeniable defects of the people we are with each day, so that we do not keep our distance from them and lose our respect for them because of their mistakes or bad manners.
+
+Let us learn from Our Lord, who, St. Francis de Sales says, "could not entirely excuse the sin of those who crucified him, but extenuated its malice by pleading their ignorance. When we cannot excuse a sin, let us at least make it worthy of compassion by attributing the most favorable cause we can to it, such as ignorance or weakness" (Francis de Sales, *Introduction to the Devout Life*).
+
+If we make the effort to discover our neighbor's good points, we shall see that the deficiencies in his character, the defects in his behavior, are as nothing in comparison with his virtues. This positive, just attitude towards those with whom we are constantly in contact will bring us closer to God. We shall grow in interior mortification, charity, and humility.
+
+St. Teresa of Ávila says, "Let us strive always to look at the virtues and good deeds we see in others, and cover their defects with the thought of our own great sins. This is a manner of acting that, although we cannot do so with perfection right away, gradually gains for us a great virtue---that of considering all other men as being better than ourselves. In such a way, with the help of God, one begins to acquire this virtue" (St. Teresa, *Life*).
+
+We have to adopt a positive attitude towards the shortcomings of others, even when they are external sins like gossiping or working badly.
+
+In the first place, we must pray for them, atone for them to God, and be patient and strong. We must love and esteem them more, because love and esteem is what they need. We must be loyal and help them with fraternal correction.
+
+This also means accepting people as they are, with their defects. Our Lord did not discuss the apostles or look down on them because of their defects, which are evident and clearly reflected in the Gospels. At the beginning of their dedication to God, they are at times moved by envy, or anger, and are even ambitious for prominence among themselves.
+
+At such times, the Master corrects them tactfully and is patient with them and continues loving them. He teaches those of His followers who are to hand on His doctrine something that is essential in family life, in a working environment, in personal relationships, and indeed in the whole of the Church, which is to live charity in deeds.
+
+I know a man who was giving a talk once to a major factory. Plenty of workers were there listening to this talk, and there happened to be a big boss visiting from Switzerland who was doing a tour of the plant. He sat in for a few minutes on this talk, which happened to be about charity.
+
+After the talk, he came to the speaker and said, "Please keep talking more about charity. Everybody needs to hear more about love, even on the factory floor."
+
+He got the impression he wasn't just saying it was good for business or for production. But every human person needs this: the word of encouragement, the kind word, the excuse.
+
+Our Lord teaches those apostles, despite all their defects. He teaches them that loving others is the fulfillment of the law of Christ, "because the whole law is fulfilled in one word: 'You shall love your neighbor as yourself'" (Gal. 5:14).
+
+This commandment of Jesus does not say that we should love only those who are without defects, or those who have certain virtues.
+
+Because charity is an ordered virtue, Our Lord asks us to esteem, first of all, those whom God has placed at our side by ties of blood or by reason of family relationships, then those who work beside us, and those who are our friends and neighbors.
+
+This charity will have its own particular characteristics according to the bonds which unite us. But we must always have an open, welcoming attitude, and have the desire to help everyone.
+
+It's not a question of practicing this virtue with ideal persons, but with those who actually live and work with us, with those we meet in the street at rush hour, when the traffic is at its worst and public transport, overcrowded.
+
+Perhaps at home or at the office, we will come across people who are irritable or even in a bad temper, those who are unwell or tired, those who are selfish and envious. It's a question of getting along with these real, specific individuals, of being considerate with them and helping them.
+
+Our neighbor's faults demand the response of a Christian, and we have to be understanding. We have to pray for them, and, when appropriate, help them by means of *fraternal correction*. Our Lord recommended no less (Matt. 18:15-17), and the Church has always practiced it.
+
+This fraternal help is the fruit of charity. It has to be exercised humbly, without wounding. The correction should be given alone, in a friendly, positive way, helping that friend or colleague to realize that the point in question harms his soul, or his work, or is making it difficult for others to get along with him. It could detract from the human regard or prestige he should be able to expect.
+
+The Gospel precept goes far beyond the purely human level of social convention and even of friendship, when this is based on purely human criteria. It's a sign of human loyalty, and avoids any criticism or gossiping behind people's backs.
+
+We can ask ourselves: Do we really carry out this recommendation that comes to us from Christ Himself? If we make a point of not concentrating our attention on the speck in our brother's eye, it will be easy to avoid speaking badly of anyone.
+
+There was a teacher once who held up a blank piece of paper in front of the class, but on the blank piece of paper, in the middle of it, there was a black spot. He asked everyone in the class: What do you see on this piece of paper?
+
+Everybody said: a black spot.
+
+He said: Oh, I see a whole area of white around a black spot.
+
+He was looking at the same piece of paper from a completely different perspective. There was just one little black spot, while there was an ocean of whiteness.
+
+When we look at the lives of other people, we have to try and see the full picture. It's very easy to focus on the black spots.
+
+If we have the duty of judging a particular action, and looking critically at what someone has done, we should do so, remembering that we're doing it in the presence of God. We need to pray and purify our intentions. We shall respect the elementary norms of prudence and justice.
+
+St. Josemaría said, "I shall not tire of insisting that the person who has the duty of judging must listen to both sides. 'Does Our Lord judge a man without first giving him a hearing and learning what he does?' that noble, loyal, and upright man Nicodemus reminded the priests and Pharisees who sought to condemn Jesus" (Josemaría Escrivá, *Letter*, September 29, 1957).
+
+If we must criticize, the criticism should always be constructive and appropriate. We must always respect the doer of the action and his intentions, which we can know only in part.
+
+The Christian makes his criticism in a very human way, without wounding. He strives to maintain friendly relations even with those who are opposed to him, because he shows his respect and understanding.
+
+In all honesty, the Christian does not judge where he does not know. When he does judge, he knows he must take into account the time and place, and every other available circumstance, and express himself with care. Otherwise he could easily lapse into detraction or slander.
+
+Charity and honesty mean that we will not irrevocably make up our minds on the basis of a first simple impression. We will not pass on pieces of gossip as the truth, or that unconfirmed piece of news---perhaps it never will be confirmed---which damages the good name of someone or of an institution.
+
+Charity helps us to see the defects of others only in the context of their motives and positive qualities. Humility, however, enables us to discover so many errors and defects of our own that without being pessimistic, we are led to ask God to forgive us. We shall understand that others have their faults, and we shall make an effort to improve by amending our own.
+
+To do this we must learn to receive and accept the honest and well-meant criticism of those who know us and care for us. "A sure sign of spiritual greatness is listening to advice, accepting it, and being grateful for it" (Salvador Canals, *Jesus as Friend*).
+
+It's characteristic of people overwhelmed by pride that they will not accept advice. They always have an excuse at hand, or react badly to those who out of charity or friendship want to help them overcome a failing or avoid repeating a bad course of action.
+
+We have many reasons to give thanks to God. Among them we hope to have people at our side who will give us a timely warning about where we're going wrong and advise us as to what we can and should do better. This is friendly, honest criticism and worth more than its weight in gold.
+
+Our Lord asks us to imitate Our Father's mercy. "Be merciful, even as your heavenly Father is merciful" (Luke 6:36). Our Lord doesn't tire of repeating that advice: "Forgive and you will be forgiven. \... For the measure you give will be the measure you get back" (Luke 6:37-38).
+
+God has forgiven us many offenses. We have no right to harbor resentment against anyone. We have to learn to forgive with all our heart. Our pardon should be sincere, profound, and prompt.
+
+Sometimes we might feel hurt for no objective reason, but only because our self-love has been bruised.
+
+If perhaps we have been seriously offended, we must necessarily remember our own serious transgressions against Our Lord.
+
+St. Cyprian comments, "Christ does not accept the offering of those who foster division. He sends them away from the altar to make peace and reconciliation. God wants to be given prayers of peace. His greatest objective is our peace, social harmony, and the unity of the faithful in the Father, the Son, and the Holy Spirit" (St. Cyprian, *Treatise on the 'Our Father'*).
+
+We could examine our reaction when people 'rub us the wrong way.' To follow Christ in ordinary life is to find in this very area a royal road to serenity.
+
+We should take care to avoid even the most minute fault against charity. The small contradictions of social life should not detract from our happiness.
+
+If there comes a time when we have to forgive someone as the result of a serious offense, it is then we will do well to recall the behavior of Jesus who asked pardon for those who crucified Him.
+
+We will thus savor the true love of God. Our heart will be enriched and expanded in its capacity to love.
+
+We can't forget that "nothing makes us more like unto God than to be ever ready to pardon others" (St. John Chrysostom, *Homilies on St. Matthew's Gospel*). Our generosity towards others will win for us the divine pardon.
+
+In Scripture, we are told of an event that took place among St. Paul's missionary companions. They had sailed from Paphos and arrived in Perga in Pamphylia; but there John left them and returned to Jerusalem. We are told this in the Acts of the Apostles (Acts 13:13).
+
+The others continued their apostolic journey and reached Antioch of Pisidia.
+
+John, also called Mark, was a cousin of Barnabas, Paul's inseparable apostolic partner and one of the pillars of the work of spreading the faith among the Gentiles.
+
+Since early youth Mark had known the fervent apostolate of the early Christians at Jerusalem gathered around Our Lady and the apostles, whom he had known intimately. Mark's mother had been among the first women to help Jesus and the Twelve.
+
+It seems natural that Barnabas should have thought specially of initiating his cousin, John Mark, as a partner in the task of spreading the Gospel under his joint authority with Paul.
+
+But John Mark lost heart and went home, leaving his partners. He felt unable to cope and turned back. That event must have weighed heavily on the others who went ahead.
+
+In preparing for the second great apostolic journey to visit the brothers who would receive the faith, "Barnabas wanted to take John, called Mark, with them. But Paul thought it best not to take with them one who had withdrawn from them in Pamphylia and had not gone with them to the work that they had to do" (Acts 15:37-38).
+
+Paul was not of a mind to take someone with him who had already let him down once. Such a difference arose then between them that they parted from each other. We're told in the Acts, "Barnabas took Mark with him and sailed away to Cyprus, but Paul chose Silas and departed, being commended by the brethren to the grace of the Lord" (Acts 15:39-40).
+
+The arguments and the differences of viewpoints must have been substantial to cause such a separation.
+
+St. Jerome says, "Paul was the more strict and Barnabas the more lenient in maintaining their views. Nevertheless, this argument showed up clearly human frailty" (St. Jerome, *Dialogue against the Pelagians*).
+
+Despite everything, Paul being a man of immense heart, and a fervent apostle who sacrificed himself to the utmost for his brethren, did not make a definitive judgment on John Mark. On the contrary, years later we find Mark described as one of the apostle's closest partners (Philem 24) and a deep source of consolation for him.
+
+St. Paul, writing to the Colossians, says, "Aristarchus, my fellow prisoner, greets you, and Mark the cousin of Barnabas (concerning whom you have received instructions---if he comes to you, receive him), and Jesus who is called Justus\...they have been a comfort to me" (Col. 4:10-11).
+
+Later on, Paul asks Timothy to go with Mark because "he is very useful in serving me" (*cf*. 2 Tim. 4:11).
+
+Within a few years, Mark was once more a friend and an effective partner of the Apostle in his hardship. Perhaps once Paul had thought Mark was of no use; now he wants him by his side.
+
+People can change, and when we have to judge them by their outward behavior---God alone can know their intentions---we should never make judgments that are fixed and unchangeable.
+
+Our Lord loves us as we are, with our defects too, when we have struggled to overcome them, and He counts on time and grace to change us.
+
+Seeing the defects of those around us---sometimes very evident and undeniable ones---we should never lack the charity which enables us to understand and to help them.
+
+One writer says, "From now on, couldn't we look at others in such a way as not to be disheartened by their defects? The time will come when the wounds are forgotten. \... Perhaps many things which have saddened us today or in recent times will be forgotten. We have defects but we can love each other! This is because we are brethren and because Christ loves us truly\...as we are" (Alvaro Galtes Dorronsoro, *God and People*).
+
+Our Lady always had an appropriate word. She never gossiped and many times she kept silent.
+
+Mary, may you help us to live the virtue of charity a little better in everything that we do.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*JOSH*

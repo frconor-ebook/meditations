@@ -1,0 +1,271 @@
+---
+layout: homily
+title: "On Creation"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"In the beginning, God created the heavens and the earth. The earth was without form and void, and darkness was upon the face of the deep; and the spirit of God was moving over the face of the waters" (Gen. 1:1-2).
+
+I often think if there was one line in Scripture that you might want everyone to know, it could be that first line of Scripture: "In the beginning, God created the heavens and the earth" because it tells us so many things---that there was a beginning, that there is a God, and that He created the heavens and the earth.
+
+There are many people walking around the planet who don\'t know these things.
+
+"The earth was without form and void, and darkness was upon the face of the deep; and the spirit of God was moving over the face of the waters."
+
+The spirit of God continues to move over the face of the waters. The spirit of God is moving over the face of your life, always active, always present, leading us in different ways. He\'s present in all the events of the world, speaking to us possibly in ways that we don\'t expect.
+
+Sometimes there are natural events, what we call disasters, earthquakes, volcanoes, tsunamis, air crashes. We might wonder: Where is God in all of this? Or, Why did God permit this thing? Or, Why did it happen?
+
+Several years ago, when the World Trade Center collapsed, sometime later, there was a psychiatrist who was being interviewed on the Larry King Live show.
+
+This psychiatrist had counseled many people who were involved in that World Trade Center problem: parents who had lost children; children who had lost parents; brothers, sisters; sisters, brothers.
+
+The compere of the show asked him, "Having spoken to all of these people, is there any message that you have for America tonight?"
+
+He said, "Yes, my message is for parents. And the message is: take your children to church."
+
+He didn\'t say which church, but really, what he was saying was that when the dust settles, the key factor that helps people to move on in their life is belief in God, belief in the soul, belief in the spiritual nature of man, the eternal destiny of man---because, he said, when you\'re going from the 102nd floor to the 2nd floor in a couple of seconds, it doesn\'t really matter where you got your MBA, or how much money you have in your bank account, or what car you drive, or a whole pile of other statistics.
+
+The only thing that matters is the state of your soul. So sometimes, behind the great natural events that occur are great spiritual messages; God leading us to see the fleeting nature of this life.
+
+We can be here today and gone tomorrow, helping us to focus on what is important.
+
+"God said, 'Let there be light,' and there was light" (Gen. 1:3). How many times in our life have we thought about light?
+
+It can be something we can take for granted every day, that there is light. And yet where would we be without the light?
+
+There are so many things in our lives that we don\'t stop and thank God for.
+
+An 81-year-old priest told me how he had to have a cataract operation, I think, on both eyes. It was the time before laser. The surgeon told him, "You won\'t be able to see for three days."
+
+He began to think, "My goodness, what will I do?"
+
+And he said, "I suddenly realized how much we priests need our eyes to say Mass, to read our breviary, to preach, to do a whole pile of things, to give a class."
+
+He said, "The following day, the Gospel of the Mass was about the man born blind."
+
+He said, "I felt Our Lord was kicking me in the teeth and saying, 'Wake up. I\'ve given you 81 years of sight. You\'re not going to be able to see for three days but look and appreciate the great gift I\'ve given to you.'"
+
+There\'s a phrase in Scripture that says, "If you knew the gift of God..." (John 4:10). If you knew the gift of God, you can thank God for all the great realities of Creation, the beauties of Creation, and for all the immense gifts that He\'s given to us: sight, hearing, our limbs, things that He hasn\'t given to everybody.
+
+"God saw that the light was good, and God separated the light from the darkness" (Gen. 1:4).
+
+A number of years ago, a lady told me how she walked to Mass every day and had done so for many years. Her home was about five minutes from the parish church.
+
+"But," she said, "one day last week, I noticed the sun coming up."
+
+She said, "The sun has come up every day of my life. It's not something I think about very much."
+
+It\'s not as though we get up in the morning and go to our window with binoculars and wonder, Will the sun and the light come up today?
+
+She said, "I was thinking, as I walked to Mass, that the sun comes up every day, whether it\'s cold or warm or whether it\'s rainy or foggy or sleety or snowing."
+
+There are a whole pile of other factors. The sun comes up every day because the sun has to give light to the world.
+
+She said, "As I walked to Mass, I felt that I have to be like the sun."
+
+"Let your light so shine before men, that they see your good works and give glory to your Father in heaven" (Matt. 5:16).
+
+"God said, 'Let there be a firmament in the midst of the waters and let it separate the waters from the waters'...God said, 'Let there be lights in the firmament of the heavens to separate the day from the night" (Gen. 1:6,14).
+
+"God said, 'Let the waters bring forth swarms of living creatures, and let the birds fly above the earth across the firmament of the heavens.' ... God created the great sea-monsters and every living creature that moves, with which the water swarm, according to their kinds, and every winged bird according to its kind. And God saw that it was good" (Gen. 1:20-21,25).
+
+One key idea in going through this very poetic account of Creation that we find in Genesis is the goodness that God finds in Creation.
+
+Creation is good. Material things are good. They have a purpose, which is to give God glory. By looking after them and taking care of them, we help them to give more glory to God.
+
+Our Christian vocation gives us an immensely positive outlook on the world, because the world has come from God.
+
+Man may abuse it, using his freedom badly, using material things badly, using things for the purpose for which they haven\'t been created. That\'s what makes things evil.
+
+But all things are fundamentally good, because "God saw that they were good."
+
+We have to try and help them to yield that goodness, to order temporal realities according to the mind of God, to give Him more glory.
+
+"God said, 'Let the earth bring forth living creatures according to their kinds: cattle, creeping things, and beasts of the earth according to their kind.' And it was so. ... God said, 'Let us make man in our image after our likeness. Let them have dominion over the fish of the sea and over the birds of the air, and over the cattle, and over all the earth, and over every creeping thing that creeps upon the earth" (Gen. 1:24, 26).
+
+There was a lady who was giving a talk once on Christian feminism. She talked about how there\'s an ascending order in Creation.
+
+God creates the lights, and then He separates the waters from above and the waters below, and then He creates the swarms of living creatures and the birds. Then He creates the cattle and creeping things.
+
+And then He creates man. Man is God\'s greatest creation. The dignity of the human person is one of the key ideas of the social teaching of the Catholic Church.
+
+Then this lady said, "And after God created man, He created woman." Not enough mileage is made out of this biblical point.
+
+After her lecture, a man came to her and said, "You know, women were just created out of the side of a man."
+
+She said, "Yeah, but that\'s much better than being created out of the slime of the earth."
+
+We get this message of the greatness of man from Genesis. Modern culture tries to reduce man to just another animal. We have to save all the animals. We have to care for the environment, which of course is very good and very wholesome.
+
+But what about abortion?
+
+John Paul II said, "The greatest moral problem of the world today is abortion. The sacredness of human life, the life of every person---one of the basic truths we have to defend with all our might."
+
+We have to raise up the dignity of the human person. This key idea in the teaching of the Church has led to enormous development. The great contribution of the Catholic Church is the number one healthcare worker in the world, caring for persons in every last outpost of society.
+
+The same in education: incredible educational thrust that has built up civilizations in almost every country. We have an awful lot to be proud of.
+
+All of this social teaching is built up on this key idea: the dignity of every human person. The right to life of every person. Something we have to have very clear, and spread around us in all sorts of ways.
+
+Man is not just another animal. He\'s not just a bunch of cells. "Let us make man in our image after our likeness" (Gen. 1:26).
+
+It\'s interesting how in the pontificates of Pope St. John Paul II and Pope Benedict, they speak so strongly about the dignity of man.
+
+You see, some of the greatest and largest concentration camps in the Second World War were located in their dioceses. Auschwitz was in Krakow. Dachau was in Munich. They have seen what happens when the dignity of man is debased, the human hells that are created.
+
+It's interesting that these two popes speak with such strength about the dignity of man, the dignity of woman, the dignity of the family---very important ideas for a civilization of love and for the culture of life, and for the great thrust that has to come again in history from the social teaching of the Church. The new evangelization.
+
+"...and let him have dominion over the fishes of the sea, and over the birds of the air." (Gen. 1:26). Man is meant to be lord over all of these things.
+
+God created man in His own image. One of the gifts that God has given to man is freedom. God has not created man like a robot. He hasn\'t programmed him to go to heaven. He\'s left man free to go to heaven or to go to hell.
+
+We would be crazy to want to go to hell. But there\'s a little bit of that craziness in each one of us.
+
+We have to try and use our freedom rightly. Authentic freedom is freedom to do good. Freedom to reach our destiny. Freedom to get to heaven.
+
+"And God created him: male and female" (Gen. 1:27).
+
+If we have trouble on a natural plane with that idea, all we have to do is go to the supernatural.
+
+Scripture and Revelation are very clear. The *Catechism of the Catholic Church* says that man has a vocation to be a man or a woman, a calling from God. We find the meaning and the purpose of our life there, our destiny.
+
+"And God blessed them, and God said to them: 'Be fruitful and multiply, and fill the earth, and subdue it, and have dominion over the fish of the sea, and over the birds of the air, and over every living thing that moves upon the earth'" (Gen. 1:28).
+
+An awful lot of truth is contained in these phrases. What man is meant to do---the purpose of his existence.
+
+"And God saw everything that he had made, and behold, it was very good" (Gen. 1:31).
+
+Pope St. John Paul II calls this "the contemplative gaze of God" (John Paul II, *Dies Domini*, May 31, 1988).
+
+He looks back over everything that He has created "and He saw that it was very good."
+
+In this retreat, we have a chance to cast a contemplative gaze over the whole of your life, over the past year, over the period since your last retreat, over your family, your marriage, your work, your professional vocation---all these things that are important to you.
+
+When we cast that contemplative gaze, sometimes we see the hand of God in our life a little more, a little clearer. God has led me here, He led me there.
+
+He let this happen in my life; He prevented that other thing from happening. He brought me in contact with these people who influenced me in certain ways.
+
+He\'s made me into the person that I am. Possibly, that apparently negative experience has led to greater things.
+
+Maybe from some cross that He permitted in my life, a few years later, He brought people in contact with me who were undergoing similar challenges and problems and difficulties. Because I\'d been there, I knew how to help them.
+
+A lady told me once how she had a miscarriage and she was feeling very low. Many of her friends and contacts came to help her; they were a great support.
+
+"But," she said, "there was a lady who had lost a seven-year-old child a few years previously."
+
+And she said, "You know, that lady used to come and just sit with me. It wasn\'t anything she said, but just her company. It meant so much. All the others were very kind and they did wonderful things, but the contribution of that lady was greater. She got to me at a deeper level."
+
+So sometimes, the great crosses of our life, if there are such, have a great apostolic purpose that we don\'t see at that time, but that may be meant to bring great good and joy and peace and happiness into the lives of others.
+
+"And the Lord God formed man of dust from the ground, and breathed into his nostrils the breath of life" (Gen. 2:7).
+
+This is meant to be the Scriptural basis for the formation of the soul. We\'re formed from the dust, of dust from the ground.
+
+I often think the ceremony of the ashes that we have every Ash Wednesday is so graphic. John Paul II liked to say that we go to the great spiritual mysteries through physical signs and symbols.
+
+Whoever thought up the ceremony of the ashes must have been a genius. You burn down the palm branches of the previous Palm Sunday and that becomes ash, which is really dirt.
+
+But then the Church comes along and blesses this dirt, telling us that everything that God has created is good and can be holy.
+
+Then Our Mother the Church does a very curious thing. She takes this dirt and dirties our face with it once a year.
+
+As she does so, she says that very impressive message: "Remember, man"---as though saying 'remember and don\'t ever forget'---\"that you are dust, to dust you shall return" (Gen. 3:19).
+
+The great movie stars, the kings and queens, the presidents of the most important countries, and powerful countries on the planet, the great sports stars---they\'re all dust, and one day they'll go back to being dust.
+
+A man told me once how his father had died when he was very young. Fifty years had passed and the cemetery in the center of the city had become very valuable ground.
+
+The government wanted to move the cemetery to the periphery of the city, and so all the relatives of people who had been buried there were asked to come and be present at the exhumation of the remains.
+
+He said, "When they dug up my father\'s grave, the only thing left there was a little piece of the top of the coffin. Everything else had disappeared."
+
+He said, "This business of being dust---it\'s really true, you know." He needed that experience to sort of drive home the point: we are nothing, we have nothing, we can do nothing.
+
+We rely completely on the grace of God. This truth can help us to be more humble, to realize the passing nature of everything in this world, and lead us to focus on the spiritual, things that are really important, that will last forever.
+
+There was a Protestant preacher once who was musing about the immortality of the soul.
+
+He was thinking that when God creates a soul and infuses it into a body at the moment of conception, that soul and that body are destined to give God glory in this world, and then the soul is destined to go to heaven to give God glory forever and forever and forever.
+
+He came to the conclusion that if that\'s the purpose of the soul, one of the greatest things that human beings can do on this planet is to bring souls into the world. And so, he came to the conclusion that contraception must be wrong. He converted and became a Catholic.
+
+"He breathed into his nostrils the breath of life" (Gen. 2:7).
+
+There was a heavyweight champion of the world many years ago called Muhammad Ali. He was in Sydney for a title fight.
+
+He liked to talk a lot about Allah, and in a press conference one time, one of the journalists said to him, "Look, why don\'t you give Allah a rest for a while? Why don\'t you talk about something else?"
+
+Muhammad Ali reached out and he took the journalist. He took his nostrils in one hand and held them tightly closed; and in the other hand, he took his lips and held them tightly closed.
+
+The poor journalist, with his nostrils and lips tightly closed, couldn\'t breathe---rather uncomfortable position to have your nostrils and your lips in the hands of the heavyweight champion of the world.
+
+The guy was turning blue. Then Muhammad Ali said, "Would you like me to let go?" The guy nodded his head.
+
+And so, he let go. Now he could breathe. Muhammad Ali said, "Can you feel the oxygen going down inside your lungs?" The guy nodded yes.
+
+"Can you feel the hemoglobin taking up the oxygen?" The guy nodded yes.
+
+"Can you feel that oxygen being carried to every cell of your little toe?" The guy nodded yes.
+
+He said, "God breathes into man the breath of life, and every breath that I take is because of Allah. I will praise Allah as much as I want."
+
+We have the creation of the body and the creation of the soul, and the eternal destiny of man, the purpose of our existence.
+
+"The Lord God said, 'It is not good that man should be alone. I will make him a helper fit for him.' So out of the ground, the Lord God formed every beast of the field and every bird of the air, and brought them to man to see what he would call them. Whatever the man called every living creature, that was its name" (Gen. 2:18-19).
+
+In Scripture, the idea that you can give a name to something implies that you have power over it. The man gave names to all cattle, to the birds of the air, and to every beast of the field.
+
+But for man, there was not found a helper fit for him. Now this truth that we\'re leading into is the truth about the dignity of women.
+
+The helper for man was not found among the animals, because man is not an animal. He\'s on a different level.
+
+"The Lord God caused a deep sleep to fall upon the man. While he slept, he took one of his ribs and closed up its place with flesh. ... And the rib which the Lord God had taken from the man, he made into a woman, and brought her to the man.
+
+"And the man said, 'This at last is bone of my bones and flesh of my flesh! She shall be called Woman, because she was taken out of Man" (Gen. 2:20-23).
+
+This, at last. Pope St. John Paul likes to say that the man recognizes his companion, his equal. Equal dignity of women---a very Christian idea that we have to try and help to be embedded much more in society for the future civilization of love---be manifested in all sorts of ways.
+
+Don\'t ever let anyone tell you that the Catholic Church has put down women. The Catholic Church elevates women, elevates Our Lady, elevates the dignity of every human person. The Church has been responsible for the education of women all over the world, in almost every country.
+
+It\'s amazing what the Church has done for the promotion of women, and which we have to continue doing in all sorts of ways.
+
+"Therefore, a man leaves his father and his mother and cleaves to his wife, and they shall become one flesh. And the man and his wife were both naked and were not ashamed" (Gen. 2:24-25).
+
+And here we have the Biblical account of the family, and the importance of the family we form over the family that we come from.
+
+Very Christian idea. In some non-Christian cultures, that idea is not very clear. It is as though the family we come from is always the most important. But in Christianity, the family we form is more important.
+
+So, grandparents have to learn how to take a secondary role, to sit back. Give their children freedom to marry, freedom to found a home. It\'s a sign of maturity. It\'s what they have been educated for. It\'s part of their Christian vocation and mission.
+
+"And the man and his wife were both naked and they were not ashamed" (Gen. 2:25). Pope St. John Paul II calls this "shameless nudity" (John Paul II, *General Audience*, December 12, 1979).
+
+Naked without shame, because as yet there\'s no disorder in Creation. Original sin has not yet been committed.
+
+They are in the Garden of Paradise and they have all their special gifts:
+
+The gift of impassibility, whereby they didn\'t have to suffer.
+
+The gift of immortality, whereby they didn\'t have to die.
+
+The gift of rectitude, whereby all their passions were perfectly subject to their reason.
+
+And the gift of knowledge, whereby they had infused knowledge.
+
+When original sin is committed, they lose all of these gifts. That\'s why then man has to die, he has to suffer. He has to struggle with his passions, he has to work with the sweat of his brow to attain knowledge.
+
+To a large extent, that loss of the state of original beatitude, original blessedness, explains the whole situation of man: wounded human nature. It explains so many things: suffering, death, the things which Christ has come then to overcome.
+
+And so, we can ask Our Lord, from meditating on this doctrine of Creation, that we might make new resolutions, to give thanks to God, to give Him praise in everything we do, to make greater acts of faith, of hope, of trust, abandonment in Our heavenly Father, who comes to us in so many wonderful ways, and wants to give us all sorts of good things.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*RK*

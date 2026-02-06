@@ -1,0 +1,219 @@
+---
+layout: homily
+title: "Blessed Guadalupe Ortiz de Landázuri"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"Thus, he chose us in Christ before the foundation of the world, before the world was made to be holy and faultless before him in love" (Eph. 1:4).
+
+Today is the feast of Blessed Guadalupe Ortiz de Landázuri, the first woman member of Opus Dei to be raised to the altars.
+
+All these phrases that we read from Scripture seem to be very relevant in her case. St. Paul says to the Philippians, "I am quite confident that the one who began a good work in you will go on completing it until the day Jesus Christ comes" (Phil. 1:6).
+
+When we read through the life of Bl. Guadalupe, we see God working in her life and we also see her total correspondence. She had a great love for her vocation at each stage.
+
+She was completely available to whatever St. Josemaría, the founder of Opus Dei, asked of her. She had a great spirit of gratitude for her vocation that was manifested in concrete deeds.
+
+You can read between the lines of the biographies, and you can see there was a great cheerfulness there. She was always thinking of the good of the Work: 'How can I bring the Work forward with my personal correspondence?'
+
+Our Father was able to rely on her and to ask her to go here and to go there, and to leave very flourishing works so as to be available for more important things.
+
+We also read in Scripture, "Be you perfect, as your heavenly Father is perfect" (Matt. 5:48). We can see how she used all the circumstances of her life to grow in that perfection, to truly have the goal of holiness before her eyes, and to see that this is what it\'s all about.
+
+To the Philippians, St. Paul also said, "Yes, I will go further: because of the supreme advantage of knowing Christ Jesus my Lord, I count everything else as loss. For him, I have accepted the loss of all other things, and look on them all as filth if only I can gain Christ" (Phil. 3:8).
+
+We see how she had a very crucial role to play at the start of many apostolates, not just in Madrid, but also in Bilbao and later on in Mexico.
+
+We can also see how in those times they lacked many basic things, but yet they were bringing forward a great enterprise.
+
+The smallness of the beginnings did not hold them back; and neither did the difficulties or the challenges, because you can see that she and everyone who was with her were going forward in faith, listening very carefully to all the things the founder of Opus Dei had to say to them, because they could see that the Holy Spirit was speaking through him.
+
+They were very united to the vine (John 15:4). God has blessed all her efforts, and the people around her, with wonderful fruitfulness.
+
+To the Corinthians, St. Paul says, "So we are the ambassadors for Christ; it is as though God were urging you through us, and in the name of Christ, we appeal to you to be reconciled to God" (2 Cor. 5:20).
+
+God has raised Bl. Guadalupe to the altars so that we would look at her closely and see how to model our lives a little bit on hers, which is what the saints are all about.
+
+They are models for us---or they are pathways for us; the only model is Christ---but we see Christ in them. We learn how to try and react as they reacted.
+
+On the one hand, in her biographies, we read all the incredible things that she did at a very early time when transport wasn\'t so easy and so many other difficulties were there.
+
+But then we hear that she had a major heart problem. She had a leaky heart valve, which caused her to be breathless occasionally. It made quite a lot of demands on her life.
+
+People who have that sort of difficulty---just to go up the stairs sometimes is a major problem; they get breathless very easily. It was quite surprising to read about all of the incredible things that she accomplished with that particular impediment.
+
+You get the impression that she didn\'t pay too much attention to it. She paid medical attention to it, but she didn\'t get all nervous about her physical state of health.
+
+On the contrary, we see her living her divine filiation in every moment; very abandoned in the hands of God.
+
+Cheerful, happy, grateful, an asset to every corner of family life where she lived---all the time focused on the goal and trying to find ways and means to serve the supernatural family to which she had been called.
+
+There\'s a phrase that crops up frequently in the writings of St. Josemaría in *The Way, The Forge,* the *Furrow*, and that phrase is: "Forget yourself."
+
+When we read the stories in her biographies or her anecdotes, we get a great impression that she was very good at precisely doing that. She came to give everything; she held nothing back.
+
+We\'re told in the Book of Samuel, "...when Yahweh called, 'Samuel! Samuel!' he answered, 'Here I am,' and, running to Eli, he said, 'Here I am, as you called me'" (1 Sam. 3:4, 8).
+
+Each time that a request was made of her, she was totally available. The sky was the limit to take on difficult tasks, to handle great responsibilities.
+
+We\'re told in St. Matthew, "Again, the kingdom of heaven is like a merchant in search of fine pearls. When finding one pearl of great value, he went and sold all that he had and bought it" (Matt. 13:45-46).
+
+Guadalupe tells us with her life, with her actions, how she found that pearl of great price, the pearl of her vocation, of her calling. Great value.
+
+One of the greatest gifts that God could give to any person in the 20^th^ or the 21^st^ century is a vocation to Opus Dei.
+
+"She went and sold all that she had and bought it." She saw the whole course of her life as leading to that vocation, a preparation for the mission that God had given to her, a specific contribution that she was to make in this world, which was to be the pathway to her holiness.
+
+When you look at the early history of her family, you see there was the death of an older brother and then there is this very touching and emotional, poignant execution of her father. She, with her family, had to go to say their last goodbyes.
+
+It must have been very difficult. It must have been very easy to hold some sort of rancor against the people who performed that unjust deed.
+
+Yet we find her living an exquisite charity of forgiveness in the most difficult of circumstances, which gave her a new peace. She knew how to look to the future; not to be stuck in the past.
+
+In all of this, her life was in the hands of God. At every stage, we see her living a great courage and a beautiful commitment.
+
+Paul VI in a document called *Ecclesiam Suam* says: "The cultivation of Christian perfection must still be regarded as the richest source of the Church\'s spiritual strength."
+
+Rather beautiful words: "the cultivation of Christian perfection."
+
+She was called to bring that message to Bilbao, to Mexico, later to Rome, and later back to Madrid where she came from, and ultimately, to her deathbed at the University of Navarre in Pamplona shortly after the death of our founder, in July 1975.
+
+All the time she\'s showing this great fidelity---fidelity to our spirit, peace, and serenity, total self-giving in every moment of her life.
+
+So today can be a day of great joy for us, a day of hope, of optimism, because we see the light and the encouragement that comes to us through her life. She has sort of proven for us what St. Josemaría said on so many occasions, that "the spirit of Opus Dei is a pathway to sanctity" (Josemaría Escrivá, *Conversations*, Point 70).
+
+That's what we have to try and want with all our heart.
+
+Joy, hope, and optimism are communicated to us from this feast day, as well as a great spirit of thanksgiving that we have lived to see this beatification, and hopefully, we may live to see the canonization.
+
+It's happened in our lifetime. It might not have happened for two or three hundred years, but it has happened now.
+
+It\'s a bit like telling us that God is in a hurry. When we live this feast day, we can think of the joy of our Father in heaven, the joy of Bl. Álvaro, of Aunt Carmen, of the Grandmother, of looking and seeing his daughter being celebrated in this way, another wonderful fruit of the life of holiness of our Father.
+
+Together with that---all the joy of our sisters and brothers in heaven and of our whole supernatural family all over the world---we find ourselves united in this joy.
+
+Today is a day for us to think of the Father, of his intentions. In a recent letter, he has asked us to pray for the new region in East and Southern Africa. Two regions have been amalgamated (Fernando Ocáriz, *Letter from the Prelate*, May 1, 2021).
+
+It opens up, maybe, a quarter of the continent, the continent of the future. So many wonderful things have come from the apostolate in these countries.
+
+Opus Dei is hoping for so much, more fruits from the life of our Father, Don Álvaro, Don Javier, Bl. Guadalupe, and we have to try and bring the work forward in the same way that Guadalupe did.
+
+All of the saints in the history of the Church have something to say to us, but very particularly, the saints, the blessed, in the history of the Work. There\'s always something new to learn.
+
+We can see a lot in her perseverance, in her fidelity. We learn how it\'s not difficult to persevere in Opus Dei. The vast majority of members of Opus Dei persevere.
+
+We can see from the story of her life that many great things depended on whether she would live her life as God wanted. There\'s a message there for us.
+
+St. Josemaría says precisely that in *The Way*: "Many great things depend on whether you and I live our lives as God wants" (J. Escrivá, *The Way*, Point 255)---having all the children that God wants us to have, giving ourselves totally to the fulfillment of our norms, launching out into the deep in our apostolate, taking on greater responsibilities like Guadalupe did.
+
+Frail, fragile lady. But yet, look at this great project of Montefalcó. Maybe you can find out a bit more about Montefalcó. It's a great formative lesson you\'ll find there.
+
+It was an old hacienda that was in a bad state of repair. The Counselor and the early women of the Prelature will have this dream of doing great social work there, of converting it into a conference center, and also into a school and to many other things. But it had been abandoned, neglected for many decades. But they turned around and they made it work.
+
+When St. Josemaría went to visit that place in 1970, one remark he made was: "I've always told you that when you start new works you should do so with a great amount of common sense. But," he said, "you have done this work not just with common sense---there was no common sense---it was all supernatural sense."
+
+And so, they did something wonderful.
+
+When we look back and see what our sisters who have gone before us have achieved with their life of self-giving---with hiding away and disappearing, with bringing things forward even though there are all sorts of difficulties---when people put their whole heart and mind, every ounce of their life and of their blood into those projects, God blesses their work with a great abundance.
+
+Lord, help us to learn these lessons.
+
+In the letter of Don Álvaro after the beatification of St. Josemaría, he asked the question: "What does the raising to the altar of someone mean for us?"
+
+He was speaking specifically about our Father, but you could apply it to all the successors of our Father who were raised to the altars.
+
+He said, "It means a great responsibility. Today\'s feast day is like a bell ringing in our minds and our hearts, a calling to a greater responsibility, because the celebration of this beatification is also an ecclesial event. It\'s not just something for our own supernatural family. Guadalupe belongs to the universal Church in a very clear way. The whole Church rejoices on this feast day."
+
+It's appropriate today to ask her for favors---for vocations, for all the corporate apostolic works all over the world, for all the things the Father is asking for because, like Guadalupe, we have to be grazing where the Father is grazing. What\'s in his mind? What\'s in his heart?
+
+In these hours and days and weeks, very much in his heart, is the start of this new region of East and Southern Africa. So, we\'re called to "sing a new song unto the Lord" (Ps. 96:1).
+
+Towards the end of her life, that heart of hers began to give a bit of a problem. She went back from Rome to Madrid.
+
+Eventually, she went to undergo a tricky operation in Pamplona that people knew, and she knew, might or might not be successful. Her brother was the founder of the Clinic of Navarre, a very famous person also whose process is ongoing---so, quite a family.
+
+The tragedy of the early days of the death of their father in time yielded an abundant fruit. It must have been a worrying time for him. He who loved his sister so much, had great respect for her, sees her subjected to this touch-and-go operation which eventually did not turn out too well.
+
+She died shortly afterwards, but in great peace, and surrounded, like our Father was, by the gratitude of so many people, a great outpouring of recognition of what she had done.
+
+As we come close to the great feast of Pentecost, we could try to follow the inspirations of the Holy Spirit with greater initiative.
+
+When Guadalupe heard things coming from our Father, or requests of our Father, or those requests to go and start in different places, she must have brought it to her prayer. She must have seen 'the Holy Spirit speaking to me' in and through these requests that are being made.
+
+'If this has been asked of me, then this is what God wants of me.' There was an intelligent obedience there.
+
+St. Josemaría liked to say that in the Work we don\'t want puppets; we want personal responsibility. We make our own all the advice we receive in our spiritual life and apostolate. We\'re personally responsible for making our vocation grow.
+
+We understand that it\'s necessary to be careful with that candle that God has lit in our hearts. We don\'t go to the wrong environments. We don\'t expose ourselves to things that might be an occasion of sin. All the time we have the model that our Father has given us as a model of correspondence to our vocation.
+
+We\'re reminded all the time that our vocation is a divine call. It\'s not an initiative of ours.
+
+"Our Lord has called us," he said, "*meus es tu*, you are mine" (J. Escrivá, *The Forge*, Point 12, quoting Isa. 43:1).
+
+We are chosen like the apostles, not because of what we are, but because of what we have to become.
+
+Peter was chosen with all of his humanity. When we read the biography of Guadalupe, we can see she had a very special humanity. She had talents, and like everybody else, she had some defects. But she worked on those talents and she worked on those defects.
+
+She responded completely with: "Here I am, because you have called me" (1 Sam. 3:4, 8).
+
+The holier we become, the more transparent the face of Christ becomes in us. We have to try and engrave in our hearts that we are called to holiness.
+
+God wants me, in particular, to be a saint. He has created me and elevated me to the order of grace; He has redeemed me. He has given me many graces.
+
+Now on this feast day, He has given me this example to look at, to meditate on, to learn from, because He loves me a lot.
+
+Whether our life grows with depth, along the pathways that God has called us, to a large extent depends on us. God doesn\'t go against our freedom. He has created us out of love, and He wants us to correspond with love.
+
+"Everyone wants to change the world, but few people want to do it by changing themselves" (Leo Tolstoy).
+
+Guadalupe gives us a first-class example of someone who is willing to do precisely that. We can\'t change the world if we don\'t change ourselves.
+
+The message of personal sanctification is not so much that we convert faraway places, but that we convert that world inside ourselves. We can want big things, but we can forget ourselves.
+
+While Guadalupe was involved in the building up of enormous projects like Montefalcó, when our Father called her to Rome, she was ready to leave that flourishing apostolate, never to go back, because she knew she was being called to greater and more important things, higher things that needed her attention.
+
+We are taught how to change and go higher by the Work. But God wants us to have a passion for sanctity, and to renew that eagerness for sanctity with a human and supernatural enthusiasm.
+
+One characteristic of the correspondence of Guadalupe that we read in her biographies is precisely her enthusiasm---her human and supernatural enthusiasm for that goal of holiness.
+
+Lord, may I never lose my eagerness. May my whole life, like the whole of creation, give you glory.
+
+I remember being told by a supernumerary once, many years ago, who had gone to a seminar after many years in the Work, and said that they had learned in the seminar, the main message they got, was that we\'re not just here to sanctify our work. We are called to be holy.
+
+Sometimes it takes time for those messages to sink in. We\'re like little children that need to be told things 500 times before we get the message.
+
+A necessary part of that personal holiness is apostolate. All through the life of Guadalupe, we see that concern for souls.
+
+Even though she was involved in building up wonderful projects like Montefalcó, it was very clear that the base of the apostolate of Opus Dei is the personal apostolate of each one of its members---not the center, not the priest, not just the activity, but me, one to one with my friends.
+
+The goal of our apostolate is not just to introduce our friends to the priest. It all depends on our personal one-to-one dealings. We do Opus Dei by being Opus Dei.
+
+We could ask her to help us to be aware of all the things that might distract us. There might be certain blind alleys along our pathway---well, better if we don\'t go up those blind alleys.
+
+It\'s like if you\'re climbing a great mountain like Kilimanjaro, there are different paths up the mountain, but with the same objective. The important thing is not to go off the path, and to know that in some places the path is difficult. We don\'t say, 'Oh, this is very easy.'
+
+St. Josemaría wrote the map for climbing the mountain. He was the pioneer. We just have to follow in his footsteps on the road to the top of the mountain.
+
+Our vocation is a pathway to go from the bottom of the mountain to the top of the mountain. St. Josemaría defended that road map against all commerce. He was patient but determined.
+
+He wanted to get that new map into general circulation so that people could go to a center and attend a Circle or a recollection and learn new aspects of the spirit.
+
+One of his main messages was that work is not a penance, that Baptism requires you to do apostolate. That\'s a very special role of the laity in the new era in which we live. And all of these, in relation to the road map.
+
+We have a good shepherd to ensure that the flock is where it should be and he writes to us with a certain regularity. We have a promise of cheerfulness as part of our vocation.
+
+In *The Forge*, St. Josemaría says: "Committed, how I love that word! We children of God freely put ourselves under an obligation to live a life of dedication to God, striving that he may have complete and absolute sovereignty over our lives" (J. Escrivá, *The Forge*, Point 855).
+
+We could ask Bl. Guadalupe today, and Our Lady, Queen of all the Saints, that you might help us in the whole course of our life to get new lights from this great personality that God has placed so close to us.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*OLV*

@@ -1,0 +1,251 @@
+---
+layout: homily
+title: "Judgments (Charity)"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"Do not judge, and you will not be judged; because the judgments you give are the judgments you will get, and the standard you use will be the standard used for you. Why do you observe the splinter in your brother\'s eye and never notice the great log in your own? And how do you dare to say to your brother, 'Let me take that splinter out of your eye,' when, look, there is a great log in your own? Hypocrite! Take the log out of your own eye first, then you will see clearly enough to take the splinter out of your brother\'s eye" (Matt. 7:1-5).
+
+We find this in the Gospel and in other letters. We are spoken to frequently about judgments, that capacity we have to pigeonhole people, or put labels on them, or to judge their intentions, which is not compatible with the virtue of charity.
+
+We're told in St. Luke and St. John: "Be compassionate, just as your Father is compassionate. Do not judge, and you will not be judged; do not condemn and you will not be condemned; forgive, and you will be forgiven" (Luke 6:36-37).
+
+"A new commandment I give to you, that you love one another; even as I have loved you, that you love one another. By this may all men know that you are my disciples" (John 13:34-35).
+
+One time there was a lady walking along the street, and she saw another lady sitting down in her garden, and she was digging the garden from a sitting position.
+
+Immediately the lady who was walking along the street began to judge that other lady, thinking, 'What laziness, digging your garden from a sitting position. This is really the pits!'
+
+But then when she walked down a little further, she saw that there were two crutches beside that chair where the lady was sitting. And so, the situation changed completely.
+
+'This lady is digging the garden in spite of her handicap! What heroism, what courage, what sacrifice, what generosity.'
+
+Initially we may see one particular picture, but later we may see a completely different picture.
+
+We can often see people\'s talents and abilities, but we don\'t see their crosses. Everybody is carrying some form of a cross.
+
+We don\'t see their intentions. The devil can move us to rush to judge their intentions.
+
+We don\'t see their pains or their fever. We don\'t see the whole picture, and because we don\'t have the whole picture, we have to try and suspend those judgments.
+
+We have to try and examine and see our reaction when people 'rub us the wrong way.' In those moments, we're called to follow Christ. Take the blows. Remember that we receive less blows than we deserve.
+
+You see, this is an opportunity to stand on my own self-love, to grow to be more humble, stand on my pride, and that following of Christ in the ordinary moments of ordinary life is to find a royal road to serenity.
+
+Serenity and peace, rather than rushing to judge other people.
+
+Our Lord bids us to avoid even the most minute fault against charity, which may not be external but could be internal---in our thoughts, in our judgments, in our condemnations.
+
+Confucius, a Chinese philosopher, says, "We become what we condemn." A very useful little phrase, we become what we condemn. We may need to suspend those condemnations.
+
+The small contradictions of daily life shouldn\'t distract from our happiness and our peace. In that way, we savor the true love of God. Our heart will become enriched and expanded in its capacity to love. That\'s what Our Lord wants.
+
+The Father used to say, "The heart is a great coefficient of expansion" (Josemaría Escrivá, *The Way of the Cross*, Eighth Station).
+
+As we look towards Lent in the coming days, we could try to work particularly on those interior mortifications: to be better on the inside, in our thoughts, in our desires, in our heart, and to realize that our generosity towards others will win a great divine pardon for ourselves.
+
+God has forgiven us so much; we need to forgive others, to make excuses for them, to let the water pass under the bridge.
+
+Nothing makes us more like God than knowing how to pardon others, and also to realize that people can change. In the course of their life, people can change very dramatically.
+
+We\'re told in Scripture the story of how Paul had "sailed from Paphos and arrived in Perga of Pamphylia. John, who was Mark, left them there and returned to Jerusalem" (Acts 13:13). Mark was called John in those days.
+
+That must have been quite a blow; he felt he couldn\'t go forward. But the others continued on their apostolic journey, and later on, they were going to make another journey, and Paul was not for taking Mark with them, but Barnabas was.
+
+The fact that Mark had left them and gone back must have weighed very heavily on the others who went ahead, but Barnabas saw all the good qualities of Mark and wanted to take him. But Paul thought it was best not to take him, because he had left them in Pamphylia.
+
+They had quite a disagreement. Paul was not of a mind to take someone who had already let them down once. A difference arose between Paul and Barnabas, and Barnabas took Mark and sailed away to Cyprus. He went on a different journey. We\'re told that Paul chose Silas and departed (*cf*. Acts 15:37-40).
+
+The arguments and the differences must have been quite substantial to cause such a separation. St. Jerome says, "Paul was more strict and Barnabas more lenient in their views. But this disagreement shows very clearly their human frailty" (St. Jerome, *Dialogue against the Pelagians*).
+
+Despite all this and despite everything, Paul, being a man of a great heart, and an apostle who sacrificed himself to the utmost, did not make a definitive judgment about Mark.
+
+There\'s a lot to learn from that. Our judgments can become definitive, but we always have to leave room for that capacity that people have to change.
+
+We don\'t put them into little boxes, or say, 'I can never talk to that person again,' or 'I can never work with that person again,' or 'I can never be with that person again.'
+
+It\'s as though they might never change. Definitive judgments can be something of the devil. There needs to be a certain flexibility there, which ultimately is humility.
+
+Later on, we find that Mark is back again with the group. Paul asked Timothy to go with Mark because, he says, "he\'s very useful in serving me" (2 Tim. 4:11). We find Mark is described as "one of the apostle's closest partners" (Philem 24).
+
+Paul rediscovered Mark. Within a few years, Mark is once more a friend and an effective partner of Paul in his hardship. Possibly Paul had thought at one stage that Mark was no use; but now he wants him by his side.
+
+People can change. With time people can change, and with grace, people can change. Their hearts can also change.
+
+We need to try and be patient with people, forgive and forget, make allowances for them; realize that we\'re not there to judge them by their outward behavior---we don\'t know their intentions, we don\'t know their process.
+
+God alone is the one who can judge. Our Lord loves us as we are, with our defects, and He bids us to love others in the same way, and to be careful about those quick judgments that can be so deep.
+
+A little girl once had two apples and her mother said to her, "Well, you have two apples, why don\'t you give me one?"
+
+The little girl quickly took a bite out of both apples. And her mother thought, 'The little so and so, doesn\'t want to give me an apple, and so she\'s taking a bite out of both so she can eat both.'
+
+But then the little girl said: "Mommy, this is the sweetest one, you take this one." The mother got a completely different opinion.
+
+She\'d been very quick to judge her daughter. She wasn\'t taking the bite out of the apple; the girl was just trying to see which was the sweetest one that she could give to her mother. It was a beautiful gesture of affection.
+
+The devil can rush us to make those judgments about people.
+
+A lady on the subway in New York one Sunday morning was reading her newspaper, a lady professor that she was, and thinking what a pleasant place the New York subway is on a Sunday morning. No rush hour traffic, it\'s quite peaceful and quiet, very pleasant.
+
+But at the next station, a lady got on with five children, sat down in front of her, closed her eyes, and the children began to run around the carriage, making noise, shouting, banged against the lady\'s newspaper.
+
+The situation became impossible. The lady put up with it for a while, but eventually, she\'d had enough and so she put down her newspaper and tapped the other lady on the knee who had closed her eyes.
+
+And she opened her eyes, and in a very belligerent tone she said to the woman, "Don\'t you think you should do something about your children?"
+
+The lady sitting opposite her said, "Perhaps I should, but I\'ve just come from the hospital where their father died and I\'m a bit confused."
+
+The lady professor was thrown back on her heels. She had no idea where this woman was coming from, what had just happened in her life and in the life of these children; how their lives had just changed definitively.
+
+She was there crucifying this woman and her children in her mind, with her pride, with her selfishness, with her egoism---mercilessly.
+
+We never know where other people are coming from. We always have to leave a little bit of room. We don\'t know what pressures they\'re under, or stresses, or how many things they have on their to-do list, or things that are pending.
+
+Our Lord loves us as we are with our defects, particularly when we struggle to overcome them, and He doesn\'t expect us to change immediately. He gives us time to change, time to grow, time to grow to be more charitable, more patient, kinder.
+
+There\'s a priest in the Philippines, passed on now, Fr. Joseph de Torre, a great philosopher, who used to say that time is a great social force. Beautiful phrase. Time is a great social force. Many things happen over time. Many things change over time. People grow.
+
+We may find the defects of other people around us very evident, very undeniable, but Our Lord invites us never to lack the charity that enables us to understand and to help them: to help them with our words, with our encouragement. Everybody needs encouragement. St. Paul says, "Keep encouraging one another" (1 Thess. 5:11).
+
+And also, to help them with our prayer. That's why we have a day "on guard."
+
+Whenever we find ourselves with the temptation to judge other people, we could examine our conscience and see---Did I pray more for this person? Did I offer more things for them?---so that we do not become disheartened by their defects.
+
+We try to walk along a journey whereby we can ultimately forget the wounds that may have been inflicted upon us, the blows, and things people said to us or did to us, perhaps unknowingly.
+
+It can be useful to think, What will I feel or think about this moment one year from now or five years from now? Probably we will have forgotten completely about it. It will mean nothing; we won\'t even remember it.
+
+That event that might seem so big in this particular moment---perhaps it\'s gone completely in the past.
+
+We may find big defects of our own in the judgments and the criticisms that we may make of other people.
+
+A lady once said about another lady: "That lady doesn\'t care about her family or her children---she just plays cards all day long."
+
+Another lady said, "How do you know?" She said, "Because I play with her."
+
+Sometimes we are part of other people\'s defects. Sometimes we are part of the scenario. We have defects, but we can love each other because Christ truly loves us.
+
+When it becomes difficult, we try to see the blood of Christ flowing through the veins of other people. Other people become difficult to love on a natural plane---we try to love them more on a supernatural plane. Christ died for this person.
+
+Although Christ doesn\'t love our shortcomings, He loves us in spite of them. We shouldn\'t let the defects of others be a cause of distancing ourselves from them: people that we live with, people that we work with, people around us. God has placed us there to be a positive influence, to invest our prayer in that person, our mortification, our smile.
+
+St. Paul gives us an example of how to forget. He let time pass. He came up with a whole new appreciation of Mark and of his talents. He repaired the breakdown of that relationship. He learned how to be a real friend.
+
+It\'s interesting how the Father is talking to us so much about friendship in the past few years. There\'s a lot of meat for us there, in relation to our relationships with all sorts of people around us.
+
+In friendship, we mend broken relationships. They may not be broken, but they might have a little bit of a crack in them. So, in our friendship, we gather that person. Begin again.
+
+Paul gives us an example of humility and hope. He\'s willing to change his opinion, be flexible. He doesn\'t make any definitive judgment; and also, he places a certain hope that that young fellow Mark will change over time.
+
+There was quite a rift that Mark seemed to have caused between Paul and Barnabas, but over time all that gets healed. Things change.
+
+A lady in Singapore was telling me how once she had to drop off some parcels or something to various different flats. She had a house manager with her. They carried the parcels to the different flats and delivered all these things.
+
+Then on their way home, she happened to comment to this Filipina that was with her, "Did you see, did you notice how dirty that flat was?"
+
+Her household manager said, "Ma\'am, different people are different."
+
+The lady told me: "I felt like I\'d been hit in the teeth with a baseball bat. This young girl taught me such a wonderful lesson, to keep my mouth shut, to suspend my judgments. Who was I to judge? She pointed out to me a profound lack of charity in my thoughts."
+
+Very beautiful. Sometimes we may learn great lessons from people that are much younger than us. We might see by their example, or by their words, beautiful examples of charity.
+
+A priest in Singapore told me how one time a lady parishioner came to him and said, "Father, why is our Catholic Church so cold, so unwelcoming? Why can\'t we be like the Protestants, so much more cheerful and welcoming?"
+
+He said to her, "Madam, it\'s because we have so many ice cubes in our Church like you that keep lowering the temperature."
+
+Sometimes you might complain or make judgments about other people and when the real story comes out, we are the problem. We are the ice cube that lowers the temperature, whereas Our Lord invites us to lift the temperature.
+
+For being that little bit closer to Him, Lent is a time for us to warm up that temperature, to grow on the inside, be closer to the heart of Christ, from which all graces flow. We go there to "draw water in joy from the wells of salvation" (Isa. 12:3).
+
+We\'re told in the *Furrow,* "True charity neither keeps an account of the necessary services it renders all the time, nor takes note of the effronteries it has to put up with. *Omnia suffert---*it endures all things" (Josemaría Escrivá, *Furrow*, Point 738).
+
+If we find there\'s some defect of somebody that's close to us that we find very difficult, how we\'ve mentioned it a few times to them in fraternal correction, but nothing has happened. Then we\'re called to that last part of the virtue of charity: it endures all things.
+
+One time somebody asked St. Josemaría in the get-together, "Father, what happens if we mention something to somebody in fraternal correction and then nothing happens?"
+
+St. Josemaría said, "Then after a few weeks or months you mention it again."
+
+"And what happens if after that time nothing happens either? There\'s no change or improvement."
+
+"Then you can mention it again after a few months."
+
+"And what happens if after that still nothing happens?"
+
+St. Josemaría said, "*Te aguantes*! You put up with that."
+
+St. Josemaría was saying: *Omnia suffert---c*harity endures all things (1 Cor. 13:7).
+
+It may be that God leads us into a certain situation where that\'s where He wants us to grow, in learning how to endure those things that possibly are difficult to endure.
+
+It may be there that in this coming Lent, Our Lord wants us to make our greatest efforts.
+
+If we lack humility, we may draw up a list of small grudges or pigeonhole people with our commentaries or descriptions, and those little grudges, which may be very small, can take away our peace with God.
+
+It can waste a lot of energy. It can make us incapable of undertaking the great plans that Our Lord has in mind for us each day for those close to Him.
+
+Lord, help me not to keep any grudges. If we find sometimes that there\'s somebody with whom we cannot communicate, that\'s a sign there\'s a grudge.
+
+We have to communicate with everybody. We may not have to talk to them for three hours, but we do have to say *Good morning! How are you? How did you sleep last night? ---*the normal little interactions of daily living.
+
+The heart of the humble person is set on God and is thus filled with joy. Because we\'re filled with joy, we become less vulnerable.
+
+That\'s why if we\'re excessively sensitive about small things, it\'s a sign of excessive love of self, like pride.
+
+Being closer to Christ, being more humble---there\'s a joy there that\'s less disturbed by the ordinary things of each day. The serenity and the peace are not knocked away by different things that happen.
+
+It doesn\'t matter what people may have said or might have said. That person knows how to forget immediately; doesn't give in too much to considerations of the humiliations, which every person on the planet will experience in one way or another in the course of their daily life.
+
+People bump them in the street. People don\'t let them cross at the pedestrian crossing. The cars fly by, and the traffic stops in front of you. But we know how to take those things.
+
+That humility and simplicity will prevent us from getting complicated. When our pride may suggest 'my reputation is being damaged,' or 'my good name is being dragged in the mud,' or 'I am being left out of things, forgotten in some way'---humility leads us to begin again, to let those things pass.
+
+We see Mark take up his work immediately again with Barnabas. Even though he had failed on the first journey, he begins again, ready this time to be unconditionally faithful. With his immaturity, with his failures, he has grown now to be stronger.
+
+The humble person has to grow to be more fraternal, look and find ways to relate more with other people, to see from a supernatural perspective: 'It\'s here that God has placed me. This is where He wants me to love the people around me and to find the ways and the means.' The Holy Spirit will give us the lights that we need.
+
+The humble person knows how to restore friendship, if for any reason it\'s been wounded or broken off or cooled off in some way. That person is always ready to lend a brotherly hand, a fraternal hand, to be helped themselves.
+
+Sometimes in the fraternity, it\'s important to let ourselves be helped; let ourselves be served. It\'s necessary for social life, to grow in relationships.
+
+St. Gregory the Great said: "In closeness, there is mutual support and on this, charity is built. \... If I then fail in putting up with your character and you don\'t want to bear with mine, how can charity grow between us, since patience does not unite us in mutual love? As we have said, in a building each stone is both supportive and a support" (Gregory the Great, *Homilies on Ezechiel*).
+
+Despite our ups and downs and other shortcomings, we can be good instruments of God if we\'re humble. Mark learned to fulfill that role and do so very effectively.
+
+Charity can overcome all our defects, smooth out differences between characters, remove anything that may be an obstacle in relationships. It can overcome all resistance.
+
+Things would have been very different if Paul had given in to his prejudice against Mark: that he couldn\'t be relied upon, because he had once become exhausted or cowardly or something, or had allowed himself to become discouraged and went back to Jerusalem.
+
+And if Mark, likewise, had harbored a grudge against Paul, because he didn\'t want him on his second journey, things might have been very different also.
+
+There are great examples of our comforting friendships, relationships in Scripture, things we can learn from, so that all the time we\'re growing in those relationships that Our Lord has given to us.
+
+St. Josemaría says in the *Furrow*: "Make sure that your good intentions are always accompanied by humility, for good intentions often go together with harsh judgments, almost amounting to an incapacity to yield, and a certain personal, national, or party pride" (Josemaría Escrivá, *Furrow*, Point 722).
+
+"Obey with docility," he says, "---But intelligently too, with love and a sense of responsibility, which has nothing to do with judging those who govern or direct you" (Point 372).
+
+"Have you fulfilled your duty? Have you had a right intention? ... You have? ---Then don\'t worry if there are twisted people who discover evil which only exists in their own minds" (Point 582).
+
+St. Josemaría gives us a lot of ways to overcome judgments, to practice charity in all moments.
+
+We can ask Our Lady that we may never hold anything against anybody, because that would do a great damage to our heart, to our love of God and neighbor.
+
+Mary, may you help us like St. Mark to begin again, a thousand times, if necessary, if for any reason we\'ve had to go through some bad experience or failure or whatever.
+
+Our Mother will always be there encouraging us to mend those broken relationships, taking the initiative.
+
+She went "with haste into the hill country" (Luke 1:39). She took the first opportunity to go and build that friendship and be that support of Elizabeth.
+
+Mary, may you help us from your example to grow in that spirit of love and friendship and charity that you want to be the hallmark of our lives.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*OLV*

@@ -1,0 +1,239 @@
+---
+layout: homily
+title: "It Is Right and Just"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"Friend, I am doing you no wrong," we are told in St. Matthew. "Did you not agree with me for a denarius? Take what belongs to you and go. I choose to give to this last as I give to you. Am I not allowed to do what I choose with what belongs to me? Or do you begrudge my generosity?" (Matt. 20:13-15).
+
+Our Lord\'s words in the parable of the laborers in the vineyard are addressed to everybody.
+
+Justice begins with our relationship with God and is shown in our readiness to give thanks" (See Gaspar Brahm, "*It is Right and Just: Justice (I)*," Opus Dei, July 10, 2023).
+
+Our Lord talks to everybody throughout Scripture, using very simple images taken from ordinary life; and with that He sheds light on the most transcendental truths.
+
+Farmers listen attentively when He talks about the requirement for seed to bear lasting fruit (cf. Matt. 13:2-9). Fishermen enjoy \[hearing\] Him talking about fishing nets (cf. Matt. 13:47-52). Every housewife sympathizes with the story of the woman who loses a coin (cf. Luke 15:8-9), having had the same experience.
+
+But nevertheless, some of His parables can leave us perplexed. Although expressed in simple language, they place before us paradoxes that force us to reflect.
+
+We are told in the prophet Isaiah, "My thoughts are not your thoughts" (Isa. 55:8)---Our Lord sometimes seems to want to tell us.
+
+Possibly one of the stories that can cause most perplexity is that of a property owner who goes out "early in the morning to hire laborers to work in his vineyard" (cf. Matt. 20:1-16).
+
+The narrative begins as we might expect: the owner agrees with the workers on their salary for the day, one denarius, and he sends them out into the field.
+
+Initially we might think that this is a story about the use of time in producing fruit. But as the parable progresses, the owner decides to hire new workers later in the day, who will work fewer hours.
+
+And instead of assuring them a fixed salary, he promises to pay them "what is just" (Matt. 20:4).
+
+One could look at that phrase, 'what is just.' That expression necessarily gives rise to certain expectations in listeners and in readers. They assume that those who started working later in the day will receive less money than those who worked hard since dawn.
+
+Those who started working late in the day are paid a denarius. When this happens, we naturally think that those who started early in the morning will receive a greater reward for their work. But the owner's actions surprise everyone.
+
+Firstly, those who worked only a few hours, since they received the same pay as the others; but also those who began working at the first hour, since they would expect a proportionate increase in the agreed-upon salary.
+
+But perhaps we, the readers, might be the ones who are most surprised on confronting such an unconventional concept of justice: "Am I not allowed to do what I choose with what belongs to me?" (Matt. 20:15), the owner of the vineyard asks.
+
+Our Lord is not interested in resolving economic or political issues. With this parable, He\'s not trying to clarify a concept as complex as that of a just wage.
+
+Above all, Our Lord wants to raise our eyes to God\'s merciful attitude, His eagerness to welcome everyone, even if they come to Him at the last hour of their life, like the good thief (cf. Luke 23:43).
+
+But along with this fundamental meaning, the Master\'s parable provides us with a narrative framework to help us reflect on the various dimensions of the virtue of justice in our lives.
+
+If, as has been traditionally affirmed, justice consists in giving each person their due, what they truly deserve, then we are confronting an interior disposition that highlights the human being\'s relational dimension.
+
+And so, we can ask ourselves, first of all, what we owe to God or what a just relationship is with the one who is the Source of everything good, beginning with our own existence.
+
+In the Eucharistic Prayer of the Mass, we have a good starting point. The brief dialogue between the priest and the faithful that introduces the Preface says, "Let us give thanks to the Lord our God. ---It is right and just" (Roman Missal: *Eucharistic Prayer*).
+
+Gratitude and justice might at first seem to be opposed to each other. A gift is characterized precisely by being undeserved, while gratitude is the recognition that a person has gone beyond what is strictly due.
+
+But when facing God everything changes completely, since He is the source of everything that we are and possess. St. Paul says, "What have you that you have not received?" (1 Cor. 4:7).
+
+Our life, therefore, is a totally undeserved gift; and so, with respect to God, there is a deep duty of gratitude. We can never pay Him back for everything He has done for us, and this is in no way unjust.
+
+But it is something deeply due to Him, deeply just: thanking Him for everything. "We do well, always and everywhere, to give you thanks..." (Roman Missal: *Eucharistic Prayer*).
+
+When we discover that our relationship with God is marked by His free and loving gift, that helps us to accept joyfully our life as His children, and it frees us from a view of faith that is excessively focused on the "letter" of the commandments.
+
+Instead of being overwhelmed by what could seem as an endless list of goals or precepts by which we somehow try to "pay back" the price of our redemption, we come to see our response to God\'s love as our willingness to give Him every moment in our life, convinced that we will never be able to thank Him enough for everything that He has done.
+
+"We do well, always and everywhere, to give you thanks."
+
+And so, being faithful to a plan of spiritual life, rather than a burden of conscience in the face of acquired commitments, can be seen as the most direct manifestation of our gratitude to the love God bestowed on each one.
+
+In *Friends of God* (Point 167), St. Josemaría says, "if you are really striving to be just, you will often reflect on your utter dependence upon God and be filled with gratitude and the desire to repay the favors of a Father, who loves us to the point of madness: 'For what do you have that you have not received?'"
+
+God\'s justice is greater than ours. Fostering deep gratitude to God frees us from the danger of seeking to judge His way of acting.
+
+Sometimes, when we\'re suddenly faced with a situation we didn\'t expect, we may ask ourselves questions like, 'How can God allow something like this to happen?'
+
+Perhaps we think other people are more blessed by Him, or that He doesn\'t seem to hear our petitions, and we might think, 'How unjust.'
+
+In that case we behave like those day laborers who, after working all day, couldn\'t accept the owner's "excessive" generosity towards those he hired late in the day.
+
+Instead of being happy to see these workers given the resources needed to buy something to eat, they\'re sad because their hope of receiving a greater gift has been disappointed.
+
+But blaming God for all the evils we see in the world makes no sense. Many of these evils are the result of human freedom, of our own and others\' actions and omissions.
+
+We also need to reach the conviction in our prayer that God is Lord of our life and of history; and also that, although He doesn\'t really owe us anything, He\'s always seeking the best for each person since He is Love (1 John 4:8,16), transforming evil into good in surprising ways.
+
+St. John Paul said, "In a certain sense, justice is greater than man, greater than the dimensions of his earthly life, greater than the possibilities of establishing, in this life, fully just relationships among all men and women" (John Paul II, *Address*, November 8, 1978).
+
+The prayer of those who know that they are children of God is marked by trust in the One who loves us infinitely and always wants what is best for us.
+
+Jesus prayed in the Garden of Olives, "Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done" (Luke 22:42).
+
+Faced with situations that we fail to understand fully and that perhaps cause us suffering, while trying to find solutions, we can also tell God: 'Let your justice be done and not mine. I know that I\'m in good hands and that everything will be for the best.'
+
+We can remind ourselves that we are carried in the palm of the hand of a God who loves us.
+
+Justice is both a desire and a mystery. A desire deeply rooted in our heart, but also a mystery that transcends us, in the sense that God alone has the last word on what is just and on the specific ways to restore justice.
+
+And so, it wouldn't be a Christian attitude to desire the punishment of our enemies, as though it were up to us to decide on this, or to refer too readily to divine justice admonishing people who worked immorally or based their lives on values very different from our own.
+
+Certainly, faith in divine justice should comfort us when we suffer an injustice or when we are saddened by negative events in the world.
+
+Pope Benedict has said, "There is justice. There is an 'undoing' of past suffering, a reparation that sets things right" (Benedict XVI, Encyclical, *Spe salvi*, Point 43, November 30, 2007).
+
+Like the owner in the parable, God fulfils His promise and rewards those who have worked well. But God\'s revelation of Himself ultimately leads us to trust that His mercy will spur Him to always give new opportunities for conversion for those who do evil.
+
+The Prelate of Opus Dei has said, "It was not strict justice, based on theoretical calculations, that led the Son of God to ask his Father for forgiveness on our behalf, but a gratuitous love thinks only of what it can do for others" (cf. Fernando Ocáriz, *Pastoral Letter*, Point 8, February 16, 2023).
+
+And so, the owner of the vineyard doesn\'t sit idly by after hiring workers early in the day; even at the eleventh hour He wants to give work to those who are about to waste a full day.
+
+St. Josemaría says, "God does not let himself to be outdone in generosity (cf. Josemaría Escrivá, *The Forge*, Point 623).
+
+When reflecting on justice as a virtue that should shape our relationships with others, it\'s often stated that justice is only a minimum requirement for coexistence: respecting the other person in his or her "otherness" (cf. Joseph Pieper, *The Four Cardinal Virtues*).
+
+In that case, justice could be seen as a cold attitude that highlights the differences between people more than what they have in common.
+
+While charity seeks unity, justice would emphasize separation. However, if we look closely, the relationship between charity and justice is more subtle.
+
+The fact that each person is given what corresponds to him or her, as required by justice, is intrinsically related to the proper distribution of goods, to compliance with contracts and one\'s word, and the respect we owe to each person. We could say, then, that justice truly helps us to lead a peaceful life in society, providing clear rules and preventing us from hindering one another.
+
+It\'s not something small or trivial to acknowledge the "otherness" of other people and the right they have to be as they want to be.
+
+St. Josemaría stressed: "We have a duty to defend the personal freedom of everyone, in the knowledge that 'Jesus Christ is the one who obtained that freedom for us' (cf. Gal. 5:1). If we do not do so, what right have we to claim our own freedom?" (J. Escrivá, *Friends of God*, Point 171).
+
+This is precisely what the owner of the vineyard reproaches the early workers for, who feel cheated: "Friend, I am doing you no wrong. Did you not agree with me for a denarius? Take what belongs to you and go. I choose to give to this last as I give to you. Am I not allowed to do what I choose with what belongs to me? Or do you begrudge my generosity?" (Matt. 20:13-15).
+
+Sometimes we can be tempted to disqualify in advance the opinions of someone who has a different view of the world or is guided by other values.
+
+We then overemphasize the unitive dimension of charity, thinking that any difference should be overcome to make room for true love, and we confuse justice with mere equality.
+
+But "justice is inseparable from charity, and intrinsic to it." Pope Benedict says. "Justice is the primary way of charity or, in St. Paul VI's words, 'the minimum measure' of it (Paul VI, *Homily*, August 23, 1968), an integral part of the love 'in deed and in truth' (1 John 3:18)" (Benedict XVI, *Caritas in veritate*, Point 6, June 29, 2009).
+
+John Paul II has said that justice is the first aspect of mercy.
+
+This virtue reminds us, first of all, that we all have the right to be as we want, to manifest that way of being outwardly, and to enjoy our own goods. Pope Francis writes, "no human individual or group can consider itself absolute, entitled to bypass the dignity and the rights of other individuals or their social groupings" (Francis, *Fratelli Tutti*, Point 171, October 3, 2020).
+
+St. Josemaría frequently spoke about the very diverse numerator enjoyed by the people who followed him: the different ways of being, the free opinions and personal options of each one, in political, cultural, scientific, artistic, and professional matters.
+
+He distinguished this from a common denominator, very small in comparison, made up of the fundamental truths of faith and the charism they all shared.
+
+It does us a lot of good to value, respect, and love the legitimate differences with the people who live with us (J. Escrivá, *Conversations*, Point 98).
+
+"This pluralism should be loved and fostered, although someone may find this diversity hard to accept at times" (Fernando Ocáriz, *Pastoral Letter*, Point 13, January 9, 2018).
+
+The Prelate of Opus Dei says, "A person who loves freedom manages to see the positive and attractive aspects of what others think and do in these broad areas" (*Ibid*.).
+
+Thinking otherwise would mean falling into the subtle temptation of wanting to help others based on our own parameters, without discerning what they really need and, above all, what we owe them.
+
+It would be unjust, for example, to pay someone working for us a salary less than what corresponds to the work they have done, simply because we think it\'s better to give them a bonus that makes up the difference.
+
+In this sense, the owner of the vineyard does not sin against justice by paying everyone the same. We might think he has an unusual criterion of just payment, but at no time does he break his word. Those who agreed to a denarius received exactly what was promised; and the others received what seemed just to the master.
+
+This is how God is: the just keeper of His promises, but also a generous Father, to whom, says St. Josemaría, "A smile, a word, a gesture, a little bit of love, is enough for him to pour out his grace bountifully on the soul of his friend" (J. Escrivá, *The Way of the Cross*, Fifth Station).
+
+In the final analysis, the establishment of justice and peace in the world finds its solution in the human heart.
+
+And, when the heart is not centered on God, a man reverts to his original state of slavery and can be subject to every kind of oppression from his fellow creatures (Sacred Congregation for the Doctrine of the Faith, *Instructions on Christian Freedom and Liberation,* Point 39, March 22, 1986).
+
+We can never forget that when, through our personal apostolate, we try to make the world around us more Christian, we are also making it more human.
+
+And, to the extent that we succeed in this, by creating a more just and more human environment in social, family, and working conditions, we are at the same time creating a climate in which Christ can be more easily known and loved.
+
+A decision to put into practice the virtue of justice, without reservations, will lead us to pray daily for the leaders of government, business enterprises, welfare services, for the solution to the major social and human problems of today depends to a great extent on these people.
+
+And in doing so, we must endeavor to live up to this standard, without inhibitions and without leaving to others the practice of justice which the Church urges upon us.
+
+This means full payment for services rendered. It entails a serious effort to improve the living conditions of people in need.
+
+It presupposes exemplary behavior in carrying out our work competently and well, showing responsibility and initiative in the exercise of our rights and duties as citizens.
+
+Finally, the practice of justice will lead us to join movements in which, together with other people of good will, we can foster more human and more Christian ideals.
+
+And all this, though it may seem to take up more time than is normally at our disposal, is not impossible, because if we really make an effort, God will enlarge our day.
+
+Our Lord has left us a program of life which, if put into practice, is capable of completely transforming mankind. He has told us that we are all children of God, and therefore brothers.
+
+This has a profound impact on relations between men. God has given the goods of the earth to all to administer them well. To all He has promised eternal life.
+
+Some years ago, the then-Prelate of Opus Dei, Don Javier Echevarría, was on a visit to Nigeria. In a get-together there, somebody stood up and said, "Father, we have this great Nigerian problem, which is corruption."
+
+Don Javier said to him, "I have news for you. It\'s not just the great Nigerian problem. It\'s everywhere. But," he said, "we have come to change the way the world does business."
+
+It\'s a wonderful idea---makes us think, makes us dream, very relevant to our personal apostolate, to our effort to be very moral in all our business dealings, and to realize the great potential in the social teaching of the Church there is, precisely to change the way the world does business.
+
+The doctrine of Christ has, over the centuries, led to great achievements: the abolition of slavery; the recognition of the dignity of women; the protection of orphans and widows, the care of the sick and the handicapped. These are all a consequence of the sense of the brotherhood of man resulting from the Christian faith.
+
+In our own professional and social surroundings, can it really be said that in word and deed we are truly contributing towards making the world more just and more human?
+
+St. Josemaría has said, "Perhaps you bring to mind all the injustices which cry for redress, all the abuses that go uncorrected, the discrimination passed on from one generation to the next with no attempt to find permanent solutions. ...
+
+"A man or a society that does not react to suffering and injustice and makes no attempt to alleviate them is still distant from the love of Christ\'s heart.
+
+"While Christians enjoy the fullest freedom in finding and applying various solutions to these problems, it should be united in having one and the same desire to serve mankind. Otherwise, their Christianity will not be the word and life of Jesus; it will be a fraud, a deception of God and man" (J. Escrivá, *Christ Is Passing By*, Point 167).
+
+"God so loved the world that he gave his only begotten Son" (John 3:16).
+
+"With justice alone, we cannot solve all the problems of mankind" (cf. J. Escrivá, *Friends of God*, Point 172).
+
+"Even if we achieve a reasonable distribution of wealth and a harmonious organization of societies," said St. Josemaría, "there will still be the sufferings of illness, of misunderstandings, of loneliness, of the death of loved ones, of the experience of our own limitations" (J. Escrivá, *Christ Is Passing By*, Point 168).
+
+Justice is enriched and \[complemented\] by mercy.
+
+A number of years ago there was an earthquake in San Francisco, during the time of the first Bush administration. Many people died, and there was pandemonium. The president made an address to the nation.
+
+In his first lines in that address were, "Thank God for the volunteer effort." Here was the president of one of the most powerful countries in the world saying that with the Army, with the Navy, with police, with everybody, with the health services: 'We can\'t hack it, we need all hands on deck.'
+
+And so, "thank God for the volunteer effort." It was the recognition that the government alone cannot solve all the problems of society.
+
+We need mercy, we need charity, we need contributions from everybody.
+
+Justice is enriched and complemented by mercy. What is more, strict justice, said St. John Paul, "can lead to the denial and extinction of itself if no allowance is made for that deeper kind, which is love, to form human life...
+
+"It can end up in a system of oppression of the weaker by the stronger, or in an arena of permanent struggle of the one against the other" (John Paul II, Encyclical, *Dives in misericordia*, Points 12 and 14, November 30, 1980).
+
+Justice and mercy mutually sustain and fortify each other.
+
+"Justice alone," says St. Josemaría, "is never enough to solve the great problems of mankind. When justice alone is done, don\'t be surprised if people are hurt. The dignity of man, who is a son of God, requires much more" (J. Escrivá, *Friends of God*, Point 172).
+
+Charity without justice would not be real charity; rather would it simply be an attempt to anaesthetize one\'s conscience.
+
+Nevertheless, one meets people who call themselves Christians but "leave aside justice and limit their actions to a bit of welfare work, which they define as charitable, without realizing that they are doing only a small part of what in fact they have a strict duty to do" (*Ibid*.).
+
+"Charity," says St. Josemaría, "which is like a generous overflowing of justice, demands first of all the fulfilment of one\'s duty. The way to start is to be just; the next step is to do what is most equitable...; but in order to love, great refinement is required, and much thoughtfulness, and respect, and kindliness in rich measure" (*Ibid*., Point 173).
+
+The best way of promoting justice and peace in the world is a commitment to live like true children of God.
+
+If we Christians really decide to practice the demands of the Gospel in our personal lives, in our families, at work, and in our social life, we will change society, making it more just and more human.
+
+Our Lord Jesus Christ, from the stable of Bethlehem, from the Cross, urges us to do so. Don't be discouraged because it seems as if what is around us is of little importance.
+
+That was how the first Christians transformed the world: with their ordinary daily work, which at first sight was a humble enough thing in many cases.
+
+We can ask Our Lady, in the company of St. Joseph, who worked to bring about a more just world through the ordinary performance of their duties, that they may lead us to follow very much their example and have a greater impact in the society around us.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*BWM*

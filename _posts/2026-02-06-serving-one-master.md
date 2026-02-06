@@ -1,0 +1,157 @@
+---
+layout: homily
+title: "Serving One Master"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+We\'re told in St. Luke, "No servant can serve two masters; for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and mammon" (Luke 16:13).
+
+In ancient times, it was the custom that the servant belonged entirely to his master, and this dedication would brook no other occupation or allegiance to any other lord. It\'s in this context that we can better understand the words of Our Lord that we have just quoted.
+
+Our commitment to follow Christ has to encompass all our actions. We shouldn\'t lead a double life, with one part of it allocated to God and another part to our own separate concerns.
+
+Everything in our life should be oriented to God---our studies, our professional work, our ordinary affairs. This is because we belong wholly to God. It follows that we should direct all our activity and love to the heavenly Father.
+
+Blessed Álvaro del Portillo wrote, "Spirituality can never be understood as a collection of pious and ascetical practices set alongside a collection of rights and duties appropriate to one\'s circumstances; on the contrary, to the extent that they respond to God\'s will, these have to be taken up and vitalized supernaturally through some particular form of developing a spiritual life. This development has to be achieved precisely in and through those circumstances of life" (Álvaro del Portillo, *On Priesthood*).
+
+Our desire to love and serve Our Lord should be a unifying theme in everything we do. When we make our *Morning Offering* we give Our Lord possession over all the joys and sorrows of the coming day. Nothing lies outside of this gift or should be held back from it.
+
+In *The Forge*, Point 742, St. Josemaría says, "In our ordinary behavior we need a power far greater than that of the legendary King Midas, who changed all he touched to gold.
+
+"---We have to change, through love, the human work of our usual working day into the work of God: something that will last forever."
+
+What is the material we are to offer up? It is the little concerns of daily life, the care we show for the implements and equipment we use at work, our serenity in the face of unexpected setbacks, our punctuality, the effort we put into fulfilling our duties.
+
+All of this ought to be ordered to the Lord and offered to Him. He will give these tiny offerings a great and lasting value.
+
+Our determination to live as children of God should be realized in ordinary life: at work, in the home, and among our friends. At every hour of the day, we should be striving to be men and women of faith, that is to say, full-time Christians.
+
+A lady in the Philippines many years ago wrote a book about how she sanctified her ordinary domestic chores. She said, 'When I get all of my eight children off to school in the morning, and my husband out of the house, then I breathe a sigh of relief and I begin to clear up their breakfast things. Then I go upstairs to make some beds. Every step of the stairs is an opportunity for me to tell God how much I love Him.'
+
+We can\'t confine our relationship with God to those few moments that we spend inside a church. We have to live out our friendship with God in the middle of the world, in our workplace, in our recreation, in social gatherings. We should reflect Christ\'s love in everything we do.
+
+That\'s what St. Paul said to the first Christians: "So, whether you eat or drink, or whatever you do, do all for the glory of God" (1 Cor. 10:31).
+
+St. Basil has commented on this passage. He said, "When you sit down at the table, pray. When you eat your bread, give thanks to God who is so generous. If you have some wine, remember that he has created it to bring us merriment and comfort in affliction.
+
+"When you are getting dressed, give thanks to the one who gave you these clothes. When you look up at the firmament and behold the beauty of the stars above, fall down at the feet of God and adore his infinite Wisdom that is manifest in all Creation.
+
+"Do the same at sunrise and sunset, when you\'re asleep and when you\'re awake. Give thanks to the God who created all this wonder for your benefit, so that you might know, love, and praise his name" (St. Basil, *Homilia in Julittan martirem*).
+
+All noble realities should serve to bring us to the Lord.
+
+When someone is in love, then they think of their beloved twenty-four hours a day. That\'s the kind of love that we should try and have for Jesus Christ. It should constitute the essence of our being, the driving force of all our actions.
+
+He is Our one and only Lord. He\'s the one we want to glorify through our work well done, in every work well done.
+
+Our Lord is our inspiration when we try to practice the social doctrine of the Church. When we think about the people in our society who have less than we do, we try to help them, be available to them---make it our problem, concern ourselves for them, go out of our way for them---and when we strive to protect the environment.
+
+We bring God into everything. This all-embracing outlook leads a Christian to make an effort to be cordial and optimistic, to be punctual at work, to make good use of time, to overcome temptations to laziness.
+
+If our love of God is authentic, it will shine out from and be appreciable in every aspect of our existence. One spiritual writer says we know and respect the legitimate autonomy of temporal affairs with respect to religion. There are no Catholic answers to society\'s problems per se. That having been said, we also recognize that Christians and Christianity belong in all facets of society as a leavening influence (*cf*. Ignacio de Celaya, "Unity of life and Christian fullness" *in Vivir como hijos de Dios*).
+
+This explains why the apostolate is a spontaneous activity which emanates from Christians in every imaginable kind of circumstance. Apostolate is nothing more than the outpouring of one\'s love of God.
+
+St. Luke tells us that Our Lord preached these words not only to His disciples but also to His bitterest critics. "The Pharisees, who were lovers of money, heard all this, and they scoffed at him." We might observe the same phenomenon in our own day.
+
+"The Pharisees jeered at what Our Lord was saying, in order to justify their own attachment to material things; sometimes people make little of total commitment to God and detachment from material things because they themselves are not ready to practice virtue. They cannot even imagine other people really having this generosity; they think that they must have ulterior motives" (*The Navarre Bible*, Note to Luke 16:13-14).
+
+Our Lord does not hesitate to denounce the hypocrisy of the Pharisees: "You are those who justify yourselves before men, but God knows your hearts; for what is exalted among men is an abomination in the sight of God" (Luke 16:15).
+
+Our Lord uses very strong terms to describe the conduct of the Pharisees: "abomination." "The original Greek word means worship of idols, and, by derivation, the horror this provoked in a true worshipper of God.
+
+"So the expression conveys God\'s disgust with the attitude of the Pharisees who, by wanting to be exalted, are putting themselves, like idols, in the place of God" (*ibid*., Note to Luke 16:15).
+
+Our Lord warns His followers about 'false shepherds' who like to "go about in long robes, and love salutations in the marketplaces and the best seats in synagogues and the places of honor at feasts, who devour widows\' houses and for a pretense make long prayers" (Luke 20:46-47). Such people have no love of God.
+
+God can read men\'s hearts. We should try to rectify our intention many times each day. We need to reject any temptation to vanity and vainglory which might cheapen our total dedication to God\'s service. All our actions should be oriented to the glory of God.
+
+To illustrate this idea, John Paul I, when he was still Patriarch of Venice, recalled a story about a cook. It was a story that he borrowed from Tolstoy.
+
+"Outside the kitchen door, the dogs were lying. John (the cook) slaughtered a calf and threw the entrails into the yard. The dogs fell on them, they ate them, and the dogs said: 'He\'s a good cook; he cooks well.'
+
+"Some time after that, John was shelling peas, peeling onions; he threw the husks into the yard. The dogs rushed over, sniffing scornfully, they said: 'The cook is spoiled; he\'s worthless now.'
+
+"John, however, was not upset by this opinion. He said, 'It is the master who must eat and enjoy my meals, not the dogs. The master\'s appreciation is enough for me'" (Albino Luciani, *Illustrissimi*).
+
+If we are completely dedicated to God\'s service we will not pay the slightest attention to idle criticism of what we do. We want to please God more than anyone else.
+
+With the passing of time we will see that this selfless behavior is one of the best contributions we can make to the welfare of other people.
+
+We\'re told that there were ten trusted servants who were busy with their trading, and the other subjects of the absent nobleman had a different plan.
+
+We\'re told, "His citizens hated him and sent an embassy after him, saying, 'We do not want this man to reign over us'" (Luke 19:14). Our Lord must have felt considerable pain at the very thought of these words. The parable was clearly autobiographical in nature.
+
+Our Lord is the nobleman who travels to a faraway land. Our Lord was well aware of the rising hatred in the hearts of the Pharisees. Paradoxically, the more He manifested His goodness and mercy, the more His enemies hated Him.
+
+How grieved Our Lord must have been in the face of this whole-hearted rejection. Their hatred would soon find its culmination during the Passion and the Crucifixion.
+
+The rejection in the parable is also meant to signify the treatment accorded to Our Lord in subsequent centuries. In our own time, there are abundant manifestations of this rebellious spirit. We find acts of hatred and indifference in literature, in the arts, in science, in family life.
+
+We can almost hear the defiant shout: "We do not want this man to reign over us!"
+
+St. Josemaría says, "He is the author of the universe and of every creature, but he does not lord it over us. He begs us to give him a little love, as he silently shows us his wounds.
+
+"Why then do so many people not know Him? Why do we still hear that cruel protest: 'We do not want this man to reign over us'? There are millions of people in this world who reject Jesus Christ in this way; or rather they reject his shadow, because they do not know Christ.
+
+"They have not seen the beauty of his face, they do not realize how wonderful his teaching is. This sad state of affairs makes me want to atone to Our Lord. When I hear that endless clamor---expressed more in ignoble actions than in words---I feel the need to cry out, 'He must reign!' (1 Cor. 15:25). ...
+
+"For many years now, Our Lord has urged me to repeat a silent cry, *Serviam*--'I will serve!' Let us ask him to strengthen our desire to give ourselves, to be faithful to his calling---with naturalness, without fuss or noise---in the middle of everyday life.
+
+"Let us thank him from the depth of our heart. We will pray to him as his subjects, as his sons! And our mouth will be filled with milk and honey. We will find great pleasure in speaking of the kingdom of God, a kingdom of freedom, a freedom he has won for us" (Josemaría Escrivá, *Christ Is Passing By*, Point 179).
+
+Let us serve Jesus as Our King and Lord, as the Savior of all mankind, and of each one of us. *Serviam*! I will serve you, Lord! This battle cry shall sound in the intimacy of our prayer.
+
+After a time, the nobleman, now vested with kingly authority, returned to his homeland. He generously rewarded those servants who had done as he commanded. He castigated those who had wasted their time and his gifts.
+
+"The bad servant was not diligent, and he brought no return; he did not honor his master, and he was punished. Thus, then, to apply the faculties he has given me to know, to love, and to serve him, and by this diligence," said one writer, "to refer my whole being to him, this is for me to glorify God" (James Tissot, *The Interior Life*).
+
+This is the purpose of our life: to give glory to God now on earth and forevermore in heaven in the company of Our Lady, the angels, and the saints. If we have this purpose well in mind, we will be good administrators of God\'s gifts.
+
+St. Augustine had the habit of saying, "Love is never burdensome" (*cf*. St. Augustine, *Sermon 51*).
+
+The Lord is eager to reward our fidelity in this life. What a treasure He has in store for us in Heaven! We have to use our time and resources to extend the reign of Christ on earth: in our home, among our neighbors, with our fellow students at the university, with our colleagues and clients at work.
+
+We have to make a special effort to do apostolate with those who have in some way been entrusted to our care. St. Augustine left us with this wise counsel: "Do not forsake the care of your little ones. Do everything you can for the salvation of your home" (*ibid*.,*Sermon 94*).
+
+We should pray over and over again: We want Christ to reign! First and foremost, we should be sure that Christ reigns in my mind, my will, my heart, my whole being.
+
+"My Lord Jesus," we are told in *The Forge*, Point 913, "grant that I may feel your grace and second it in such a way that I empty my heart...so that you, my Friend, my Brother, my King, my God, my Love, may fill it!" (J. Escrivá, *The Forge*, Point 913).
+
+Our Lord had been invited to dine at the home of an important Pharisee, we're told in St. Luke. Our Lord makes use of the image of a banquet to underline our social responsibilities.
+
+On this occasion, Our Lord said to the host, "When you give a lunch or a dinner, do not ask your friends, brothers, relations, or rich neighbors, for fear they will pay your courtesy by inviting you in return."
+
+Jesus tells him who it is he should be inviting---the poor, the crippled, the lame, the blind. This is the criteria for the Lord\'s guest list: "That they cannot pay you back means that you are fortunate, because repayment will be made to you when the virtuous rise again" (*cf*. Luke 14:1, 12-14).
+
+We well know that our friends, relatives, and wealthy acquaintances will respond to our invitations with invitations of their own. The investment bears immediate fruit.
+
+This can be an upright way of behaving, especially when our goal is to build friendships, increase our apostolate, strengthen family bonds, and so on. Yet in and of itself, this is a purely human mode of behavior. The pagans act in a manner not markedly different.
+
+On another occasion, Our Lord said, "If you love those who love you, what credit is that to you? For even sinners love those who love them. And if you do good to those who do good to you, what credit is that to you? For even sinners do the same" (Luke 6:32-33).
+
+Christian charity goes much further than mere human charity. The Christian gives for love of God without expecting anything in return. The poor and the infirm have nothing to pay you back with. This is the way to see Christ in others.
+
+The image of the banquet does not refer exclusively to material goods. It includes whatever one person can offer another: respect, joy, optimism, companionship, attention.
+
+The story is told that St. Martin, before he was baptized a Christian, had a vision of Christ in his sleep. Our Lord was wearing a cloak of a Roman official, a garment which Martin had recently given to a poor person. He recognized his old cloak and then heard Jesus saying to the angels around him: "Martin is only a catechumen, and see how he has given me this cloak."
+
+The saint also heard the Lord say, "Truly I say to you, as you did it to one of the least of these my brethren, to one of the least of these my brethren, you did it to me" (Matt. 25:40). This dream filled Martin with hope and peace. He was baptized soon after.
+
+We have to be generous with Our Lord without expecting any reward in return. We should give ourselves completely in the apostolate, in almsgiving, in works of mercy, without looking for compensation. Charity does not seek for repayment.
+
+"Love does not insist on its own way; it is not irritable or resentful" (1 Cor. 13:5). We have to sow without yearning for immediate fruits. Our Lord teaches us through this parable to give without measure, without any calculation or reward. Then we will receive in abundance.
+
+Our Mother Mary will teach us how to live entirely for God\'s glory. In *The Forge*, Point 749, St. Josemaría says, "Don\'t ever lose the supernatural point of view. Correct your intention as the course of a ship is corrected on the high seas: by looking at the star, by looking at Mary. Then you will always be sure of reaching the harbor."
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*UI*

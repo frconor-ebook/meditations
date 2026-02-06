@@ -1,0 +1,229 @@
+---
+layout: homily
+title: "Anchored in Hope"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+St. Paul says to the Romans, "Be joyful in hope, persevere in hardship, keep praying regularly" (Rom. 12:12).
+
+One of the sections of the document of Pope Francis for the Jubilee Year is called 'Anchored in Hope' (Pope Francis, Bull of Indiction of the Ordinary Jubilee of the Year 2025, *Spes non confundit,* Points 18-25, May 9, 2024).
+
+It\'s a rather striking title. An anchor is an interesting thing. Many big ships have anchors. They\'re big metal things that fall into the water, that clip onto a rock or something on the base of the sea, and somehow hold that ship in position.
+
+Standing in some of the parks of Singapore that line the coastline and looking out towards the sea, you see hundreds of ships. It\'s one of the busiest ports in the world.
+
+At one point, all the ships are pointing in one direction, and then maybe a few hours later they\'re pointing in a different direction. I asked a naval engineer one time: 'What is it that makes the ships move in different directions? Is it the winds?'
+
+He told me to think again, as though saying that was not a very intelligent question. And when I thought again, I suggested it might be the currents.
+
+He told me that was the correct answer. The currents change in different ways and so all the ships move in different ways. But yet they maintain their position because of the anchor.
+
+And what is happening on the surface of the sea, that strong anchor, anchors them in that position.
+
+This title reminded me of a point in *The Way of the Cross* by St. Josemaría in the Seventh Station. On the second point for contemplation, he says, "Drop anchor in your divine filiation, no matter what is happening on the surface of the sea of your life. And you will find joy, strength, optimism: victory!" (Josemaría Escrivá, *The Way of the Cross*, Seventh Station).
+
+We\'re all called to have an anchor---a deep thing that goes deep down onto the seabed and anchors us there on some big rock.
+
+St. Josemaría invited us to "drop anchor" in our divine filiation---the fact that we are children of God. And Pope Francis is saying now we have to be anchored in hope, a very beautiful phrase and use of words.
+
+"Hope, together with faith and charity, makes up the triptych of the 'theological virtues' that express the heart of the Christian life (*cf*. 1 Cor. 13:13; 1 Thess. 1:3).
+
+"Faith, hope and love, these three remain. But the greatest of these is love" (1 Cor. 13:13).
+
+St. Paul talks a lot about this virtue, about charity, about faith, about hope. We're told God our Father is active in the faith, unsparing in love. St. Paul says, "We should be persevering in the hope that we have from Our Lord Jesus Christ" (Heb. 10:23).
+
+"In their inseparable unity," Pope Francis says, "hope is the virtue that, so to speak, gives inward direction and purpose to the life of believers. That\'s why St. Paul encourages us to 'rejoice in hope, be patient in suffering, persevere in prayer'" (Rom. 12:12).
+
+He says, "Surely we need to 'abound in hope' (*cf*. Rom. 15:13), so that we may bear credible and attractive witness to the faith and love that dwell in our hearts; that our faith may be joyful and our charity enthusiastic; and that each of us may be able to offer a smile, a small gesture of friendship, a kind look, a ready ear, a good deed, in the knowledge that, in the Spirit of Jesus, these can become, for those who receive them, rich seeds of hope."
+
+It\'s a very beautiful idea that Pope Francis encourages us to think about: that we have to sow seeds of hope in the lives of other people---with our words, with our example, with our lifestyle, with the whole witness of our life well lived.
+
+"May the God of hope fill you with all joy and peace in your faith, so that in the power of the Holy Spirit, you may be rich in hope" (*cf*. Rom. 15:13).
+
+The Gospel invites us to be spiritual millionaires---to be rich in certain ways.
+
+In the early 1980s, forty years ago, Pope John Paul II in his \[second\] encyclical had an encyclical called *Dives in misericordia*--"Rich in Mercy." Now Pope Francis is giving us a renewed call to be rich in hope.
+
+What a beautiful thing if our interaction with other people, particularly in the family, with our children, with our friends, with our neighbors, with our colleagues, with our classmates, we can sow seeds of hope.
+
+"Yet what is the basis of our hope?" Pope Francis asks, and he says, "To understand this, let us stop and reflect on 'the reasons for our hope'" (*cf*. 1 Pet. 3:15). Questions which St. Peter asks in his First Letter, chapter 3.
+
+"Simply proclaim the Lord Jesus Christ holy in your hearts, and always have your answer ready for people who ask you the reason for the hope that you have" (*cf*. 1 Pet. 3:15).
+
+It\'s a logical question that people should be able to ask us the reason for our hope.
+
+In the next part of the document *Spes non confundit* or "Hope Does Not Disappoint," he says, "I believe in life everlasting" (Apostles' Creed). This is the reason for our hope.
+
+"This is what our faith professes. Christian hope finds in these words an essential foundation. I believe in life everlasting. For hope," he says, "is 'that theological virtue by which we desire...eternal life as our happiness'" (*Catechism of the Catholic Church*, Point 1817).
+
+"The Second Vatican Council says...that 'when people are deprived of this divine support, and lack hope in eternal life, their dignity is deeply impaired, as may be seen so often today. The problems then of life and death, of guilt and suffering, remain unsolved. People are frequently thrown into despair'" (*cf*. Vatican II, *Gaudium et spes*, Point 21).
+
+"We, however," he says, "by virtue of the hope in which we were saved, can view the passage of time with the certainty that the history of humanity and our own individual history are not doomed to a dead end or a dark abyss, but rather directed to an encounter with the Lord of glory."
+
+To remind everyone we meet, somehow, of the eternal happiness to which we are called, the eternal wedding feast. The commentators of the *Theology of the Body* of John Paul II like to say that Pope John Paul is saying that God wants to marry us.
+
+We are all called to the eternal wedding feast. He said marriage in this world is just a preparation for marriage in the next.
+
+If something goes wrong in our marriage in this world, it\'s just a means of preparation for that eternal wedding feast, that eternal happiness to which we are called.
+
+"We live our lives in expectation" of what is to come---\"in the hope of living forever with him. In this spirit, we make \[our own\] that heartfelt prayer of the first Christians with which Sacred Scripture \[ends\]: 'Come, Lord Jesus!'" (Rev. 22:20).
+
+We live in your expectation. "The death and resurrection of Christ is the heart of our faith and the basis of our hope."
+
+St. Paul says in his First Letter to the Corinthians, "I handed on to you as of first importance what I in turn had received, that Christ died for our sins in accordance with the Scriptures, and that he was buried, and that he was raised from the dead on the third day in accordance with the Scriptures, and that he appeared to Cephas and then to the twelve" (1 Cor. 15:3-5).
+
+"Christian hope consists precisely in this: that in facing death, which appears to be the end of everything, we have the certainty that, thanks to the grace of Christ imparted to us in Baptism, 'life is changed, not ended' (Roman Missal, *Preface I for the Dead*), forever." Changed forever and not ended forever.
+
+"Buried with Christ in Baptism, we receive in his resurrection the gift of a new life that breaks down the walls of death, making it a passage to eternity."
+
+And so, our death is just a diving board or a jumping-off board, a change of minimal things. It\'s a passageway to greater things.
+
+"The Jubilee, however," says Pope Francis, "offers us the opportunity to appreciate anew, and with immense gratitude, the gift of the new life that we have received in Baptism, a life capable of \[transfiguring\] death\'s drama."
+
+It's very important for us to understand death. Very interesting and useful that every year in our retreat we perhaps hear a meditation on death.
+
+We reflect on this occasionally. We\'re not afraid to think about it. We don\'t run away from it. It\'s not just some horror that exists there that we fear in a great way.
+
+We look forward to our death, because that\'s the gateway to eternal life, the gateway to eternal happiness. That\'s something wonderful to be able to share with people we meet, people we know, particularly in difficult moments when they\'ve lost a loved one, when everything seems to be lost---totally the contrary!
+
+"What, then, will become of us after death?" asks Pope Francis. "With Jesus, beyond this threshold we will find eternal life, consisting in full communion with God as we forever contemplate and share in his infinite love."
+
+It\'s a great thing to look forward to. I knew a 19-year-old girl once in another country who, in her final exam after secondary school, got into Oxford; and not only that, but she got into law in Oxford. That was in December. In February, she developed leukemia. She died in July.
+
+Both her parents were doctors. There came a moment when she was in the intensive care. She was on a heart monitor, intubated, on a drip, tubes everywhere, and the moment came for the doctors to tell the parents that the moment had come to turn off the respirator.
+
+Her mother was prepared for this, but this child was the youngest of three, the favorite of the father, and he wasn\'t quite prepared for this. And so, there was a family conference called to try and help the father to come to the decision to turn off the respirator.
+
+I was called in to sort of help them come to this decision, and there was a moment in our discussion when I said to the father, "What else does this world have to offer your daughter? ICUs, drips everywhere, heart monitors, respirators. This world has nothing else to offer your daughter. But what is waiting for her? Eternal happiness!"
+
+I was very grateful to the Holy Spirit for that inspiration at that particular moment. I\'d never quite thought about it in those terms before. Very practical.
+
+This is a great thing we have to remind people of: the eternal happiness to which we are called. Death can be a moment of joy for us.
+
+"With Jesus, beyond this threshold," he said, "we will find eternal life, consisting in full communion with God as we forever contemplate and share in his infinite love. All that we now experience in hope, we shall then see in reality."
+
+I\'ve seen many people die very holy deaths. While working in an oncology ward for six months, you see a lot of things, and to see people dying a very beautiful death is a very beautiful thing.
+
+St. Joseph is the patron of a happy death. A happy and holy death is something that hopefully we can help many people around us to experience.
+
+St. Augustine says, "When I am one with you in all my being, there will be no more pain and toil; my life shall be true life, a life wholly filled by you" (St. Augustine, *Confessions*, Point X, 28).
+
+Pope Francis asked the question, "What will characterize this fullness of communion? The answer is: being happy. Happiness is our human vocation. It's a goal to which we all aspire.
+
+"But what is happiness?" he asks. "What is the happiness that we await and desire? Not some fleeting pleasure, a momentary satisfaction, that, once experienced, keeps us longing for more, in a desperate quest that leaves our hearts unsated and increasingly empty."
+
+Sometimes when you look at the great soccer matches that are taking place, and the Euros that are going on at the moment, or the World Cup that comes around occasionally, if you look behind the goal at all the fans there waiting for that goal to happen, and the roar that comes when the goal takes place---it\'s a wonderful roar. It\'s a wonderful moment of exultation and happiness and glory.
+
+The television cameras capture it so well. But it\'s also a fleeting pleasure. Unfortunately, it\'s over in a moment. But it\'s a very good thing to watch, because it\'s like an example of all the human pleasures that we may experience.
+
+But the happiness to which we are called is not that fleeting roar of a gold in a World Cup or in a Euro or some other moment. It\'s something much deeper.
+
+"We aspire to a happiness," says Pope Francis, "that is definitively found in the one thing that can bring us fulfillment, which is love."
+
+We hope to love. We hope to engage and share that love with God because "God is love" (1 John 4:8,16).
+
+"We will be able to say even now: I am loved, therefore I exist; and I will live forever in the love that does not disappoint, the love from which nothing can ever separate me."
+
+Those fans behind those \[gold\], they may never see a goal in a match. They may lose the match. Maybe it's the end of their aspirations until, they hope, to the next round. But we can never be separated from that love.
+
+Pope Francis says, "We should indeed prepare ourselves consciously and soberly for the moment when our lives will be judged."
+
+The whole of our life is a preparation. We need to take care of our spiritual life. Savor the value of every retreat, of every recollection, of every formation that we may receive, because it\'s all part of that preparation.
+
+We have to be attentive. "Prepare ourselves consciously and soberly..." and try and invite all of our friends. Infect them with this desire to be prepared when we come to be judged.
+
+"But we must always do this," says Pope Francis, "from the standpoint of hope."
+
+We\'re not afraid of that judgment. We\'re not afraid of that moment. "The theological virtue that sustains our lives and shields them from groundless fear"---that\'s what our hope is.
+
+If we look to the lives of saints, particularly recent saints that may speak to us a little more, we see this in their lives.
+
+"The judgment of God, who is love," St. John says in his Letter (*cf*. 1 John 4:8,16), will surely be based on love, and in particular on all that we have done or failed to do with regard to those in need, in whose midst Christ, the Judge himself, is present" (*cf*. Matt. 25:31-46).
+
+Every "I confess" in the Mass that we start with, we talked about those things we have done and the things we have failed to do. "Whenever you did it to one of these, the least of my brethren, you did it to me" (Matt. 25:40). Christ is present there.
+
+In Chapter 25 of St. Matthew we\'re told, "When the Son of man comes in his glory, escorted by all the angels, then he will take his seat on his throne of glory. All the nations will be assembled before him, and he will separate one from another, as a shepherd separates sheep from goats, and he will place the sheep on his right hand, and the goats on the left.
+
+"Then the king will say to those in his right hand, 'Come, you who my Father has blessed, take as your heritage the kingdom prepared for you since the foundation of the world. For when I was hungry, you gave me food, I was thirsty and you gave me drink, I was a stranger and you made me welcome'" (Matt. 25:31-35).
+
+Pope Francis then goes on to talk about the Jubilee indulgence, which, "thanks to the power of prayer," he says, "is intended in a particular way for those who have gone before us, so that they may obtain full mercy...the indulgence is a way of discovering the unlimited nature of God\'s mercy.
+
+"Not by chance," he says, "for the ancients, the terms 'mercy' and 'indulgence' were interchangeable, as expressions of the fullness of God\'s forgiveness, which knows no bounds."
+
+The Holy Father goes on to talk about---how did he talk about the sacrament of Penance? "It assures us that God wipes away our sins.
+
+"We experience those powerful and comforting words of the Psalm: 'It is he who forgives all your guilt, who heals every one of your ills, who redeems your life from the grave, who crowns you with love and compassion. The Lord is compassion and love, slow to anger and rich in mercy. ... He does not treat us according to our sins, nor repay us according to our faults. For as the heavens are high above the earth, so strong is his love for those who fear him. As far as the east is from the west, so far does he remove our sins'" (Ps.103:3-4,8,10-12).
+
+"The sacrament of Reconciliation," he says, "is not only a magnificent spiritual gift, but also a decisive, essential, and fundamental step on our journey of faith."
+
+The Holy Father invites us to savor every opportunity for receiving the sacrament of Penance, of receiving the graces that flow, of savoring those short few minutes that are extended to us as a great magnificent spiritual gift on a weekly basis.
+
+"There," he says, "we allow the Lord to erase our sins, to heal our hearts, to raise us up, to embrace us, and to reveal to us his tender and compassionate countenance.
+
+"There is no better way," he says, "to know God than to let him reconcile us to himself," as St. Paul says to the Corinthians (*cf*. 2 Cor. 5:20), "and to savor his forgiveness.
+
+"Let us not neglect Confession, but rediscover the beauty of the sacrament of healing and joy, the beauty of God\'s forgiveness of our sins!"
+
+St. Paul says, "We are the ambassadors for Christ. It is as though God were urging you through us. In the name of Christ, we appeal to you to be reconciled to God" (2 Cor. 5:20).
+
+"Still, as we know from personal experience, every sin 'leaves its mark,'" says Pope Francis. "Sin has consequences, not only outwardly in the effects of the wrong we do, but also inwardly, inasmuch as, 'every sin, even venial, entails an unhealthy attachment to creatures, which must be purified either here on earth, or after death, in the state called Purgatory'" (*Catechism*, Point 1472).
+
+And we could be reminded to offer difficult moments of our life, of our day, of our week, in atonement for the sins we have committed, or for the sins of men.
+
+"Forgiveness does not change the past," he says, "it cannot change what happened in the past, yet it can allow us to change the future and to live different lives, free of anger, animosity, and vindictiveness"---not just looking for those passing pleasures that may come.
+
+"Forgiveness," he says, "makes possible a brighter future, which enables us to look at the past with different eyes, now more serene, albeit still bearing the trace of past tears."
+
+The words of the Holy Father communicate great hope that can be there in our life.
+
+"In our journey towards the Jubilee," he says, "let us return to Scripture and realize that it speaks to us in these words."
+
+St. Paul to the Hebrews says, "May we who have taken refuge in him be strongly encouraged to seize the hope set before us. We have this hope, a sure and steadfast anchor of the soul"---anchor of the soul, beautiful words reappearing there, that word 'anchor'---"a hope that enters the inner shrine behind the curtain, where Jesus, a forerunner on our behalf, has entered" (Heb. 6:18-20).
+
+We have to stimulate that anchor. Every time we receive the sacraments---Holy Communion, Confession---we receive supernatural sacramental grace that transmits with it the virtue of the grace of hope, coming from the Holy Spirit.
+
+"\[Those\] words," he says, "are a forceful encouragement for us never to lose the hope we have been given, to hold fast to that hope, and to find in God our refuge and our strength."
+
+"...so that \[by two\] unalterable factors in which God could not be lying, we who have fled to him might have a vigorous encouragement to grasp the hope held out to us" (Heb. 6:18).
+
+This is the anchor of our soul. St. Paul says to the Hebrews, "The anchor our souls have reaching right through, inside the curtain where Jesus has entered as a forerunner on our behalf, having become a high priest forever of the order of Melchizedek" (Heb. 6:19-20).
+
+"The image of the anchor is eloquent; it helps us to recognize the stability and security that is ours amid the troubled waters of this life, provided we entrust ourselves to the Lord Jesus. The storms that buffet us will never prevail, for we are firmly anchored in the hope born of grace, which enables us to live in Christ and to overcome sin, fear, and death."
+
+It's very appropriate for us to drop anchor in our divine affiliation, to contemplate it frequently.
+
+"This hope," says Pope Francis, "which transcends life\'s fleeting pleasures and the achievement of our immediate goals, makes us rise above our trials and difficulties, and inspires us to keep pressing forward, never losing sight of the grandeur of the heavenly goal to which we have been called."
+
+"The coming Jubilee," he says, "will thus be a Holy Year marked by the hope that does not fade, our hope in God." The holy year will be, for us, a special holy year.
+
+He says, "May it help us to rediscover the confident trust that we require, in the Church and in society, in our interpersonal relationships, in international relations, and in our task of promoting the dignity of all persons and respect for God\'s gift of creation."
+
+Notice how the whole social teaching of the Church is expressed in that word, 'dignity.' In the documents of the Church, it is repeated, again and again.
+
+"May the witness of believers be for our world a leaven of authentic hope, a harbinger of "new heavens and a new earth" (*cf*. 2 Pet. 3:13), where men and women will dwell in justice and harmony, in joyful expectation of the fulfilment of the Lord\'s promises."
+
+"What are we waiting for," says St. Peter, "relying on his promises, is the new heavens and the new earth, where uprightness will be at home" (*cf*. 2 Pet. 3:13).
+
+"Let us even now be drawn to this hope. Through our witness, may hope spread to all those who anxiously seek it."
+
+Many souls around us come close to us. They are looking for hope. They are looking and seeking reasons for the hope that is in our life.
+
+"Through our witness," says Pope Francis, "may hope spread to all those who anxiously seek it. May the way we live our lives say to them in so many words: 'Hope in the Lord! Hold firm, take heart, and hope in the Lord!' say the Psalms (Ps. 27:14). May the power of hope fill our days, as we await with confidence the coming of the Lord Jesus Christ, to whom be praise and glory, now and forever."
+
+Pope Francis says, "It is not by chance that popular piety continues to invoke the Blessed Virgin Mary as *Stella Maris*--Star of the sea."
+
+Of that sea on which we are placed, where we drop anchor: *Stella Maris*--Star of the sea.
+
+"It is a title that bespeaks the sure hope that, amid the tempest of this life, the Mother of God comes to our aid, sustains us and encourages us to persevere in hope and trust."
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*CPG*

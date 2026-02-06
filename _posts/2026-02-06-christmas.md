@@ -1,0 +1,185 @@
+---
+layout: homily
+title: "Christmas"
+---
+
+By Fr. Conor Donnelly
+
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"Now there were shepherds in that region living in the fields and keeping the night watch over their flock. The angel of the Lord appeared to them, and the glory of the Lord shone round about them, and they were struck with great fear.
+
+"The angel said to them, 'Do not be afraid, for behold, I bring you good news of great joy that will be for all the people. For today in the city of David, a Savior has been born for you, who is Christ the Lord. This will be a sign for you: you will find an infant wrapped in swaddling clothes and lying in a manger.'
+
+"And suddenly there was a multitude of the heavenly host praising God and saying, 'Glory to God in the highest, and on earth, peace among those on whom his favor rests.'
+
+"And when the angels went away from them to the heavens, the shepherds were saying to one another, 'Let us go over to Bethlehem, and see this thing that has come to pass, which the Lord has made known to us'" (Luke 2:8-15).
+
+We\'ve tried to follow the journey of the Holy Family from Nazareth to Bethlehem, with all of the difficulties that they had to encounter.
+
+In the past few days and weeks, we have tried to look into the heart of Joseph and Mary, and see their virtue, their faith, their hope, their sense of commitment, their total abandonment to the plans of God, their humility, their detachment---so many virtues---their joy, their serenity in spite of the difficulties.
+
+That journey of accompanying them has led us to the stable in Bethlehem. We\'ve seen how they\'ve overcome the contradictions of no welcome in Bethlehem, all the doors closed in their face, no room at the inn.
+
+But they found the solution. Joseph has prepared the stable. He\'s converted that place into a focal point of family warmth for all time.
+
+Now the shepherds come, and with them, we enter into the stable in Bethlehem and behold the marvelous scene:
+
+"They went with haste, and they found Mary and Joseph and the infant lying in the manger. And when they saw this, they made known the message that had been told them about this child. All who heard it were amazed at what had been told them by the shepherds" (Luke 2:16-18).
+
+St. Josemaría liked to encourage us to enter into the scenes of the Gospel (Josemaría Escrivá, *Friends of God*, Point 222). This scene must truly be one of the most beautiful scenes: to be there in our prayer with the Christ Child, adoring Him, contemplating Him, with the shepherds, with Our Lady, with St. Joseph, and contemplating Him with a great spirit of gratitude that we know who He is, that we too have been called to participate in this great event; gratitude also for the message that He brings: a message of love. "God so loved the world, that he gave his only begotten Son" (John 3:16).
+
+We are the beneficiaries of that love. We contemplate the Christ Child with gratitude for all the things He teaches us in the very act of His birth. He has become small. He hasn\'t just become man; He\'s become a baby.
+
+In this very act, He\'s spoken to us also about the very relative importance of all the material things of this world. He invites us to take care of our soul, to remind ourselves of our eternal destiny, and also of the mission that God has given to each one of us.
+
+We go close to the stable in Bethlehem with simplicity of heart. Some of the words that Our Lord will later say in His public life have great relevance for these moments: "Unless you become like little children, you cannot enter the kingdom of heaven" (Matt. 18:3).
+
+St. Josemaría had great devotion to the Christ Child in the crib. He used to get very excited when the crib was being put up each year, with a childlike excitement. One time in the house where he lived in Rome, he came down on Christmas Eve to see the people preparing the crib.
+
+There were no angels, and he had great devotion to the angels. He began to shout, "The angels, the angels, where are the angels?" Somebody had to go out and buy a lot of angels.
+
+When he came back about an hour later, which was his custom, to check and see how people had put into practice what he had asked for or indicated, he found the place was full of angels. He was very happy.
+
+When we unite our prayer this day or this night to the prayer of the angels---\"Angels, we have heard on high, sweetly singing o'ver the plains" (Christmas Hymn, *Gloria*)---all the songs we\'ve been singing in the last few weeks and months have prepared us for this moment, prepared our soul, prepared our heart, so that we can place ourselves inside this table in the company of the angels, preparing for the coming of Our Lord in the intimacy of our soul.
+
+St. Josemaría liked to say that Bethlehem is like a professorial chair. It teaches us so many lessons.
+
+From the manger, Jesus teaches us to be humble, to live detached from material things, to be patient, and to know how to be silent.
+
+It\'s a silent night. It\'s a holy night. The Holy Family teaches us a lot through their silence. There are times when we have to withdraw to ourselves and be silent and contemplate the great events of God with men in the world.
+
+The stable in Bethlehem is a throne of mercy, so that we fill ourselves with desires for holiness. Jesus, teach me to be holy. Help me to imitate you more, to be more Christ-like. Thank you for giving me this opportunity every year to learn these lessons with all of its beauty. We can have great confidence in God and faith in Our Lady.
+
+Bethlehem for us is also a school of love, a school of generous self-giving, of sacrifice. Nobody is complaining. Nobody is there with a calculating spirit. There is no egoism. It\'s as though we have to empty our heart and soul of our egoism before we can enter there.
+
+Christ has come to suffer and to teach, and to help others in their suffering. We have great opportunities to help that role of Christ to take place.
+
+All men come into the world to live. Christ has come into the world to die. And He\'s born as a harmless, needy baby. Nobody is afraid of a baby. We\'re very much taken by this simple baby that Christ wants to be. He wants us to contemplate His neediness. He needs everything. He has nothing---the message for us.
+
+He\'s a magnet for all. By following His example, we have to try and be the same for others. If we make ourselves like small children, we also become a magnet for Him.
+
+We\'re reminded that the hospitality of the heart that Jesus receives in Bethlehem is completely different from the lack of hospitality of the inhabitants of Bethlehem. There is no place for them in the inn.
+
+Possibly in our life, we have sometimes said no to God. We haven\'t opened our heart to Him and we haven\'t given Him the things that He was asking us for.
+
+In the first chapter of St. John, it says some beautiful things about the coming of the Christ Child. It says, "He came unto his own, and his own received him not" (John 1:11).
+
+We can say sorry to the Christ Child for the times when we have received Him not, or when we\'ve been negligent in our receiving of Him in Holy Communion, or in our sacramental Confession, or in the care of our spiritual life.
+
+Christ comes into the world with nothing. A total self-giving---completely abandoned in the arms of Our Lady and of St. Joseph.
+
+He has wanted to depend on human creatures for this great enterprise of the Incarnation. He wants to depend on you and me to bring about His great divine plans in this world.
+
+He comes without any conditions. There is no fanfare. No privilege. There is absolute naturalness. There is nothing exceptional. He doesn\'t want to draw attention to Himself, .but rather, to pass unnoticed. There is no first-class status. No VIP lounge.
+
+He is there with an availability that is prompt and total. He invites us to a great correspondence to grace in our life, to accept the Will of God in all the ways that it comes to us.
+
+The baby Jesus can be a great attraction for us. We have to try and practice a lot of affection, to be drawn there to the manger, to respond to the self-giving of Christ with our own self-giving, so that we give Him, as a Christmas present, a blank check in our life.
+
+Ask of me whatever it is that you want. Help me to struggle to identify myself more and more with the spirit that you have come to bring into the world---that spirit of love and self-giving, of total generosity. Help me to take care of the means that you have given to me to grow in the spirit that you want to show me.
+
+One of the ways we give ourselves is through the virtue of sincerity---decomplicating ourselves. We could ask the Christ Child: What present do you want me to give you?
+
+Something that you really want, that you\'d like to ask or demand of me: maybe a greater commitment in our spiritual life, a commitment to formation, a commitment to our family, or to our marriage vocation, or to the practice of the virtues in some way, to give myself for the true self-giving, so that these days, this event means for me and my life, a great jump in quality, so that the great truths of our faith begin to mean a little more to me.
+
+Christ, when He comes, is a sign of contradiction. The Cross is going to be the horizontal bar on the vertical one. We can ask the Christ Child to help us to accept the little contradictions that He may send us, to always see the loving hand of Our Father God behind them, who is reaching out to us, asking us for a little more.
+
+We can ask Him to make the pathway of our life on this earth safe, that we would walk along it well.
+
+Help us to grow in our love for your Sacred Humanity. If "the Word has become flesh" (John 1:14), then flesh becomes something very important.
+
+Christ has lifted up the whole of human nature. He\'s communicated a new dignity to it. We are way above the animals.
+
+Man is God\'s greatest creation. We have to live at that status, taking care of our supernatural life and the supernatural goal of our life.
+
+Christ has come to bring peace to men of goodwill. We are the children of God (1 John 3:1), the one race, brothers in Christ.
+
+Jesus, come into my heart and into the hearts of all. May you penetrate all heart and hearts these days, all over the world, of all people of goodwill, that in us and through us we may be able to bring your message of love and peace to every last person on the planet.
+
+He wants to be born in our heart. He says, "Learn from me, for I am meek and humble of heart" (Matt. 11:29). Jesus, give me a tender heart like yours. "Create a clean heart in me" (Ps. 51:10).
+
+Help me to remind myself that just as you were there in Bethlehem, you\'re also present in the tabernacle, and in my heart in grace. You\'ve come to free us from sin.
+
+You\'re going to spend thirty years of hidden life. Help me to come back to that reality again and again, to learn the importance of that for my family; for my marriage vocation; my growth in virtue; for my sanctification of my home, of my relatives, of my friends, of all the people that depend on my home, that have come from my home. Help me to look again and again at those thirty silent years of hidden life.
+
+We\'re told: "He did all things well" (Mark 7:37). There were no badly finished jobs. Help me to be known by the quality of my work.
+
+From that intimacy of Bethlehem, help me to draw a lot of strength, a strength and a light that lights up all the other aspects of this Christmas---preparations in my home, or in the home of my children or my grandchildren---or all the other little actions that I will do to try and bring about a Christmas spirit.
+
+Have the light of Bethlehem and the warmth of Bethlehem to be with me. As I transmit that light and that warmth to everybody, all the souls you\'ve placed around me, that means that we have to try and have a more prayerful spirit, and be a more contemplative soul, to go forward into the stable and have the intimacy with Christ.
+
+All the writings of St. Josemaría lead us in that direction. Like little children, we can ask Him for things, asking the Christ Child for this present or that present, or this virtue that I need a little more. Not just material things, but spiritual things.
+
+The Christ Child must be very happy when we ask Him for things that will make us better Christians, better children of His: more virtuous, more holy, more apostolic.
+
+We know that the Christ Child will give us a great joy and a great peace, because of that greater union with Him.
+
+It\'s a silent night. It\'s a holy night. It\'s a night of peace. Peace and joy. A peace and a joy that "this world cannot give" (*cf*. John 14:27), which can only come from the Christ Child in Bethlehem.
+
+Thank you, Lord, for my faith, for the things I know that you formed me in: my catechism, my doctrine, my knowledge of faith; many things you\'ve given to me that help me to be able to understand what Bethlehem is all about.
+
+These great realities then can give us greater desires to be with Jesus, to adore the Christ Child because we find everything in Him.
+
+Pope St. John Paul II liked to say that "in Christ we find the meaning and the purpose of our life" (*cf*. Pope John Paul II, *Homily*, World Youth Day, August 14, 1993). That\'s why we can spend a long time contemplating the Christ Child. Humanity has been doing this for twenty centuries and has not exhausted all the possibilities.
+
+Jesus, help me to "put off the old person" (Eph. 4:22)---to get rid of my pride, my self love, so as to identify myself more than you.
+
+"God resists the proud but He gives His grace to the humble" (James 4:6). Help me to walk along pathways of true humility like Joseph, like Mary.
+
+You surround yourself with humility in Bethlehem: the humility of the shepherds, the humility of Mary, of Joseph, of the Magi, of the donkey.
+
+It\'s just the beginning of the humility of Jesus that will get played out completely in His public life---when people didn\'t believe Him, how they insulted Him!---and ultimately will lead to the humility of the Cross.
+
+Jesus, help me to place my heart on the ground, so that others around me can walk easily. Help me to forget all about myself, to occupy myself all the time with others. We solve all our own problems by thinking about the others.
+
+In Bethlehem, help me to offer you a humble and contrite heart, because "a humble and contrite heart, O Lord, you will not spurn" (Ps. 51:17)---a heart that\'s full of desire to serve.
+
+These hours remind us that we don\'t live for a temporal happiness, but for an eternal one. We\'re not here to build a paradise on earth. We\'re here to obtain Paradise in heaven.
+
+We have to try and "place Christ on the top of all human activities" (*cf*. J. Escrivá, *The Forge*, Point 685). The Christ Child has come to ask us for a new struggle: that we embrace the Cross generously and begin again.
+
+We live out that continuous response of Our Lady at the Annunciation. "Be it done unto me according to your word" (Luke 1:38). Our Lady didn\'t just say these words at the Annunciation. She said them on every step of the journey to Bethlehem., and now she\'s repeating those words again and again.
+
+Help me to have a greater vibration, because you\'ve come "to spread fire on this earth"
+
+and you\'ve said, "What would I but that it be enkindled!" (Luke 12:49). Help me to enkindle that fire, to be a greater apostolic instrument in your hands.
+
+In Bethlehem we find serenity and peace and joy. We\'re invited to serve the Lord with joy. It\'s a fruit of our divine filiation. Because I\'m a child of God, I have nothing to worry about. I leave things in His hands.
+
+The peace that we have is a consequence of our love, and we\'re invited these days to think a lot about our family spirit---which involves a lot of love and tenderness, but also may demand a lot of toughness as well, fortitude.
+
+The scenes of Bethlehem are all very beautiful. But it was a tough event. It had a lot of demanding things tied on to it. Now they\'re going to flee into Egypt.
+
+Our Lord demands a lot from Joseph and Mary. He wants to demand a lot from us in creating that "bright and cheerful home" (J. Escrivá, *Christ Is Passing By*, Point 78), that family spirit that He wants to be the hallmark of our existence, because we belong to that family of Nazareth.
+
+We have to always be with Jesus, Mary, and Joseph. It\'s very proper that we immerse ourselves in that family because we belong there.
+
+From there we learn how to contribute more to the family atmosphere around us. How can I serve? How can I contribute? How can I make these days or these hours a little bit happier for the people around me with my cheerfulness, with my spirit of service, with my availability?
+
+Help me to love other people a lot. Help me to try and ensure that nobody around me may ever feel alone. Help me to absorb, from that stable in Bethlehem, the warmth of the human family that I\'ve been called to foster around me, so that everybody around me might experience that warmth, which is so attractive and so beautiful.
+
+It involves refinement in our dealings with others. It means showing our love of neighbor in concrete ways. It may often mean spending ourselves and our life in the little things that make other people happy, which may often mean forgetting our own personal likes and dislikes.
+
+In the Christ Child, we place all our hope---our hope in God, not in ourselves, not in success or money or my job or material things, but in God. We place a hope of being faithful to the end.
+
+Our Lady is always our hope, and we see her in St. Joseph while taking up this journey of faith, this pilgrimage of faith, once again very soon.
+
+To flee into Egypt. It\'s a point of arrival in Bethlehem, but it\'s also a point of departure. The Christ Child wants to be born in our souls so that we would be true apostles.
+
+Lord, help me to make a big jump in quality, and in this coming year, to pay special attention to St. Joseph. There are so many things we have to learn from him so that we\'re always beside him.
+
+Silent Joseph. Professional man. Finishing things well. Forgetting himself. Serving. Thinking of the future. Solving the problems. Help me to make a greater effort to be like Joseph.
+
+And one final thing we can ask from the Christ Child is that He may fill the Holy Father, Pope Francis, with special graces and gifts this Christmas. He\'s had a tough year.
+
+It\'s our role to be close to him, to ask the Christ Child to pray for him as he continues to ask us to do, and to place the Holy Father there in the stable in Bethlehem with Jesus, Mary, and Joseph, where he wants to be in a very special way during this coming year.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*MVF*
