@@ -155,11 +155,11 @@ The elder son represents those who forget that serving God is a tremendous honor
 
 God Himself will give us of His riches. What more can we ask for?
 
-"Each one of us must do as he has made up his mind, not reluctantly or under compulsion" says St. Paul, "for God loves a cheerful giver" (2 Cor. 9:7).
+"Each one of us must do as he has made up his mind, not reluctantly or under compulsion," says St. Paul, "for God loves a cheerful giver" (2 Cor. 9:7).
 
 There are always many reasons for us to celebrate if we truly live in the presence of God. We have a special opportunity to be magnanimous in our dealings with those closest to us.
 
-St. Thérèse of Lisieux said, "How sweet a joy it is to think that God is just. In other words, He makes allowances for our weaknesses and understands perfectly the frailty of our humanity.
+St. Thérèse of Lisieux said, "How sweet a joy it is to think that God is just. In other words, he makes allowances for our weaknesses and understands perfectly the frailty of our humanity.
 
 "So what have I to be afraid of? If God, who is perfectly just, shows such mercy in forgiving the prodigal son, must he not also be just to me 'who am always with him' (Luke 15:31)?" (Thérèse of Lisieux, *Autobiography of a Soul*).
 
