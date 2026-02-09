@@ -11,21 +11,21 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that You are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My Immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me.*
 
-We\'re told in the story of Cana of Galilee that "the Mother of Jesus was there" (John 2:1-11).
+We\'re told in the story of Cana of Galilee that "the Mother of Jesus was there" (John 2:1).
 
 Today is the feast of Our Lady of Lourdes.
 
-John Paul II, talking about the popularity of Lourdes in the last century, would like to say that possibly, it\'s also because "the Mother of Jesus is there" (John 2:1). Today, the World Day of the Sick, is a day to ask Our Lady of Lourdes for special things.
+John Paul II, talking about the popularity of Lourdes in the last century, would like to say that possibly it's because also "the Mother of Jesus is there" (John Paul II, *Introduction to the Recitation of the Rosary*, August 14, 2004). Today, the World Day of the Sick, is a day to ask Our Lady of Lourdes for special things.
 
 It\'s a day that marks the first apparition of Our Lady there in 1858 to a young girl, 14-year-old Bernadette Soubirous.
 
-There were a total of eighteen apparitions in all; quite a large number. The message of Lourdes was, as always, a message of personal conversion, of prayer, of charity.
+There were a total of eighteen apparitions in all, quite a large number. The message of Lourdes was, as always, a message of personal conversion, of prayer, of charity.
 
 It was approved as a feast day by Pope Leo XIII, and Pope Pius X extended this feast day to the Universal Church. Bernadette herself was beatified and canonized by Pope Pius XI in 1925.
 
 A couple of years previously, in 1854, the Church had defined as infallible the dogma of the Immaculate Conception. Then just four years later, in this very obscure little village which Lourdes is, hidden there in the Pyrenees, a place you\'d pass by at the moment, you\'d blink, you\'d miss it, Our Lady chose to appear to this shepherd girl.
 
-She appeared several times. Bernadette was eventually encouraged to ask the Lady who she was.
+She appeared a number oftimes. Bernadette was eventually encouraged to ask the Lady who she was.
 
 The whole phenomenon caused a lot of consternation of the local people, all sorts of interest and curiosity. And when she asked her, Bernadette said later, "She said, 'I am the Immaculate Conception.'"
 
@@ -57,7 +57,7 @@ Fulton Sheen tells a story of how there was a lady in the late 19th century, lat
 
 She felt that God had given her this husband to convert him. He was a very intelligent man; she was just a very normal lady. She tried to brush up on her theology as best she could, or her doctrine, to engage him intellectually. But she more or less got nowhere; she didn\'t achieve anything. But after several years of marriage, she got very sick.
 
-I think it was TB of the spine or something, and she had to be several years in an iron lung. She suffered an awful lot, but she and her husband were very much in love.
+I think it was TB of the spine or something, and she had to be in an iron lung for a number of years. She suffered an awful lot, but she and her husband were very much in love.
 
 One day, after many years, she said to him, "After I die, you will convert and become a Catholic." He was thinking, "I think my wife is nearing her end." Because there was nothing further from his mind.
 
@@ -93,7 +93,7 @@ Today, somebody sent me a little video clip of a Mass in Lourdes this morning, p
 
 Small children, when they stray from their mother, get uneasy. They can feel a bit lost, and more than a bit lost. Likewise, we have to try and make sure that we don\'t stray too much from Our Lady. We stay close to her.
 
-In the intimacy of our personal prayer, we can ask her for things. Or see how we turn to Our Mother frequently during the day with our *Angelus*, with our Rosary, maybe in our *Morning Offering*, with our *Memorare*s, or other little aspirations that we may say, asking for help in this thing or that thing, or lights to understand things a little better, or the fortitude we need to get this thing done, or that problem solved, or placing before her all of our children and grandchildren, so that we are truly a powerful force in their lives, a force of prayer.
+In the intimacy of our personal prayer, we can ask her for things. Or see how we turn to Our Mother frequently during the day with our *Angelus*, with our Rosary, maybe in our *Morning Offering*, with our *Memorares*, or other little aspirations that we may say, asking for help in this thing or that thing, or lights to understand things a little better, or the fortitude we need to get this thing done, or that problem solved, or placing before her all of our children and grandchildren, so that we are truly a powerful force in their lives, a force of prayer.
 
 I remember I had a relation whose parents were not---well, one was Catholic, one wasn\'t---they weren\'t practicing. This little girl managed to make her First Holy Communion. I remember my mother commenting, "It\'s the prayers of your grandmother."
 
@@ -113,7 +113,7 @@ With Our Lady beside us, we can come to see how things that might appear to be a
 
 I was at a special Mass about a week or so ago in Msongari in Loreto in Nairobi. It was the 100th anniversary of the Loreto Sisters in Kenya, and of course it was a very special moment. It's possibly one of the longest-serving religious orders in Kenya.
 
-Archbishop Kivuva \[Martin Kuviva Musonde\] said the Mass and he was saying many beautiful things about the contribution the Sisters had made to the Church in Kenya; what the Church in Kenya would not have been if it hadn\'t been for Loreto Sisters, and how he\'d asked several kids, "Do you go to Loreto School?" They\'d say, "No, but my mother did."
+Archbishop Kivuva \[Martin Kuviva Musonde\] said the Mass and he was saying many beautiful things about the contribution the Sisters had made to the Church in Kenya; what the Church in Kenya would not have been if it hadn\'t been for Loreto Sisters, and how he\'d asked a number of kids, "Do you go to Loreto School?" They\'d say, "No, but my mother did."
 
 He said, half the country said the same thing, in a couple of little clips that are very apt.
 
@@ -135,7 +135,7 @@ This is a great message that we can transmit to people who may have illnesses, s
 
 He can do much greater things in a much greater way, but He just wants to use us as His humble instruments.
 
-Maybe we make mistakes, and maybe things go wrong, but we just put one foot in front of the other. St. Paul tells us that we will not be tested beyond our strength (1 Cor. 10:13).
+Maybe we make mistakes, and maybe things go wrong, but we just put one foot in front of the other. St. Paul tells us that we will not be tested beyond our strength (*cf*. 1 Cor. 10:13).
 
 Even though there might be contradictions, or difficulties, or heartbreaks, we see these things through the eyes of faith, and we know that God has permitted this thing.
 
@@ -143,7 +143,7 @@ If He gives me this cross, He'll give me the grace to be able to carry it. There
 
 If we remember that we are just children of God, children of Mary, we know that He will never let us down. The millions and millions of people that go to Lourdes every year, in many ways that\'s what they\'re stating with their feet. They go there to entrust themselves once again to Our Lady, telling her that we know that she will never give us more than we can handle.
 
-St. Augustine says, "Do everything possible and ask for what is impossible" (*cf*. St. Augustine, *Treatise on Nature and Grace,* 43,5).
+St. Augustine says, "Do everything possible and ask for what is impossible" (*cf*. St. Augustine, *Treatise on Nature and Grace*).
 
 St. Josemaría used to say, "We\'re not just here to do the possible, anybody can do the possible; we\'re here to do the impossible" (*cf*. Josemaría Escrivá, *The Forge*, Point 216).
 
@@ -163,7 +163,7 @@ You hear an anecdote or two like that, and you realize, my goodness, these were 
 
 Of course, their great boast is Wangari Maathai, a Nobel Prize winner. Not every school can boast of that. But of course, to achieve those sorts of things, there\'s commitment, there\'s ideals, there\'s the whole missionary thrust of the Church, the whole social teaching of the Church.
 
-I wrote a bit of an article about this event, and I was saying, You know, we hear an awful lot about the empowerment of women in the world today in the 21st century, as though this is something enormously new.
+I wrote a bit of an article about this event, and I was saying: You know, we hear an awful lot about the empowerment of women in the world today in the 21st century, as though this is something enormously new.
 
 But if you look back 100 years ago, these women were full of the ideals of the empowerment of women. It\'s very deeply there, the social teaching of the Catholic Church.
 
@@ -197,13 +197,13 @@ To people who may be suffering a lot, or long term, or God may have afflicted th
 
 It makes them thank God for the crosses that He sends them. It helps them to see each day in a different way. We see that all the little difficult things that we may do---it\'s all earning great rewards for us in heaven.
 
-Our Lady leads us to her Son, who has a special love for the sick. Christ went around the place doing good and healing all.
+Our Lady leads us to her Son, who has a special love for the sick. Christ went around the place "doing good and healing all..." (Acts 10:38).
 
 He loved to heal people. He didn't heal the whole world, but He did heal an awful lot of people.
 
 We see how Christ reaches out to them. We can also see in the people we know, elderly or sick, that Christ is there in this person. "Whenever you did it to one of these little ones, you did it to me" (Matt. 25:40).
 
-It can be a very consoling thought when we reach out in some way to people that we needn\'t reach out to, or we go the extra mile, or we go out of our way in some way, or maybe we don\'t get any thanks, or we\'re not appreciated: "Whenever you did it to one of these little ones, you did it to me."
+It can be a very consoling thought when we reach out in some way to people that we needn\'t reach out to, or we go the extra mile, or we go out of our way in some way, or maybe we don\'t get any thanks, or we\'re not appreciated: "Whenever you did it to one of these little ones, you did it to me" (Matt. 25:40).
 
 Tell Our Lord, We\'re doing it for you. It\'s not just for human thanks or human glory.
 
@@ -247,7 +247,7 @@ One spiritual writer says, "Suffering, which in the eyes of men is so disagreeab
 
 It is the great secret of Christianity that we have to communicate to other people: there is an opportunity to co-redeem with Jesus, to be beside Mary on the Cross, to atone to their hearts for all the ways in which their hearts suffer.
 
-Many times, when Our Lady appeared, she talked about that heart of Christ's that was suffering: "Behold, this heart that has loved men so much\...and all I get in return are insults. And it is those that are most consecrated to me very often that hurt me most." These were Christ's words to St. Margaret Mary Alacoque.
+Many times, when Our Lady appeared, she talked about that heart of Christ's that was suffering: "Behold, this heart that has loved men so much\...and all I get in return are insults. And it is those that are most consecrated to me very often that hurt me most." These were Christ's words to St. Margaret Mary Alacoque (Émile Bougaud, *Life of the Blessed Margaret Mary Alacoque*).
 
 We are called to atone to that heart of Mary, that Immaculate Heart, to offer her things that ease the pain, that say that we're sorry, that we want to improve our life. We know that Our Mother will give us consolation, she's Consoler of the Afflicted, Help of the Sick, Help of Christians.
 
