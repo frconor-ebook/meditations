@@ -11,11 +11,11 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*\
 \
-In the Entrance Antiphon of today\'s Mass, we read, "Sing psalms and hymns and inspired songs among yourselves, singing and chanting to the Lord in your hearts" (Eph. 5:19).
+In the Entrance Antiphon of today's Mass, we read, "Sing psalms and hymns and inspired songs among yourselves, singing and chanting to the Lord in your hearts" (Eph. 5:19).
 
 Today, the 14th of February, is a day of celebration and of thanksgiving in Opus Dei for all of the graces that God has given to us.
 
-As we realize another year has passed, a year of our vocation, a year of the history of the Work on the earth, another year of the fulfillment of God\'s plans, of how He\'s using His Work to do all sorts of wonderful things in us and through us.
+As we realize another year has passed, a year of our vocation, a year of the history of the Work on the earth, another year of the fulfillment of God's plans, of how He's using His Work to do all sorts of wonderful things in us and through us.
 
 Our Father said, "Always be giving thanks to God constantly for everything: for what seems good and for what seems bad, for what is sweet and for what is bitter, for the white and for the black, for small things and for big things, for what seems meager and for what seems bountiful, for what is temporal and for what reaches unto eternity (J. Escrivá, *Notes*, December 25, 1972).
 
@@ -25,7 +25,7 @@ Don Álvaro, on the 60th anniversary of the founding of the women of the Prelatu
 
 Before that date, as we all know, our Founder was very sure that there would not be women in Opus Dei. He told us on more than one occasion, "I had written down, because of the difference between Opus Dei and another institution that existed outside of Spain, that we would never work with women."
 
-This must have been, he said, around 1929. "Shortly afterwards, on the 14th of February 1930, I was celebrating Mass in the house of an elderly lady, when the women of the Prelature came into the world."
+This must have been, he said, around 1929. "Shortly afterwards, on the 14th of February 1930, I was celebrating Mass in the house of an elderly lady, when the women of the Prelature came to the world."
 
 Don Álvaro continues, "It was a super clear, supernatural light which our Founder received in the Mass, after Communion, on that Friday, 14th of February 1930. As always, when Our Lord manifested His will to him in an extraordinary way, in the first moments, his first reaction was that of feeling a bit disturbed. Then he perceived in the intimacy of his being, those words of Our Lord to Our Lady: 'Do not be afraid' (Luke 2:10). And he remained full of peace."
 
@@ -35,13 +35,13 @@ With great thanksgiving and gratitude to Our Lord, He liked to remember the help
 
 When we go back and hear the words of Don Álvaro speaking about the beginnings, we can make a great act of faith, and also of thanksgiving, because we see how God has acted in the world, and very particularly, how He acted in the life of our Father.
 
-When we look around at the reality of Opus Dei, what it is in the world today, it\'s a very different phenomenon to what was there in 1930. There was almost nothing. Yet because of our Father\'s correspondence, his holiness, his humility, that spirit of Opus Dei has spread all over the world.
+When we look around at the reality of Opus Dei, what it is in the world today, it's a very different phenomenon to what was there in 1930. There was almost nothing. Yet because of our Father's correspondence, his holiness, his humility, that spirit of Opus Dei has spread all over the world.
 
 Everything that our Father has done and everything that he has written has great relevance for us. God speaks to us through his life and through his correspondence, beckoning us, calling us, encouraging us to walk in the footsteps of our Father, as the pathway that Our Lord has laid out for us in order that we might know Him and love Him.
 
 When the Confessor of our Father heard about this new manifestation of the will of God, without intervening in any way in the organization of the Work, he confirmed to our Father with great sureness that "this is just as much from God as the rest."
 
-Don Álvaro continues, \"Look at how Our Lord works. He loves us with all of His goodness. He takes care of us with the refined diligence. He gathers us up with His immense mercy. He never leaves us alone. Even more, He always reaches out with a hand to us.
+Don Álvaro continues, "Look at how Our Lord works. He loves us with all of His goodness. He takes care of us with the refined diligence. He gathers us up with His immense mercy. He never leaves us alone. Even more, He always reaches out with a hand to us.
 
 "Fill yourself with joy, my daughter, my son, because this God of ours, omnipotent and eternal, speaks to us constantly in the silence of our prayer. And we know His voice, also in moments of dryness, because if we are ready and open, as our Father was, to put into practice what Our Lord asks of us, even though we have to go against the grain, He gives us that unequivocal sign of interior peace."
 
@@ -49,31 +49,31 @@ We can thank God also for that peace that we have in our vocation, in our life, 
 
 "He also speaks to us," said Don Álvaro, "through other people in spiritual direction. It was Our Lord who spoke to each one of us at the beginning of our vocation, when somebody opened up for us this joyful horizon so that we would give ourselves to the Work. Later on, we count on that blessed personal experience. Our Lord continues to reach out His hand to us all along our pathway until our final pilgrimage on this earth, making use also of spiritual direction to show His will to us."
 
-There is a conclusion from all of this, and that is that in our interior life, we have to have initiative. Initiative, but at the same time we don\'t direct ourselves. Our apostolate is a directed apostolate. We need that obedience, that docility, from those who are there to guide us.
+There is a conclusion from all of this, and that is that in our interior life, we have to have initiative. Initiative, but at the same time we don't direct ourselves. Our apostolate is a directed apostolate. We need that obedience, that docility, from those who are there to guide us.
 
-We have this great treasure of the spirit of Opus Dei in our hands. There are aspects of our Father\'s life that we are discovering and rediscovering all the time, every time that we read some of his writings, or we discover something new about his life, or the new things that people are writing about him.
+We have this great treasure of the spirit of Opus Dei in our hands. There are aspects of our Father's life that we are discovering and rediscovering all the time, every time that we read some of his writings, or we discover something new about his life, or the new things that people are writing about him.
 
 One of the ideas that is worth thinking about is that our Father was one of the greatest Christian feminists of the 20th century. Possibly nobody in the history of the Church has done as much for women in the world as our Father has done.
 
 He encouraged women to use their talents to the full in all fields of human endeavor: in business, in politics, in medicine, in engineering, in the home, in science, in all sorts of areas. He wrote very dramatic things about the role of women in society that in many ways were ahead of their time.
 
-In *Conversations* he says, "The development, maturity, emancipation of women should not mean a pretension to equality, to uniformity with men, a servile imitation of a man\'s way of doing things. That would not get us anywhere. Women would turn out losers, not because they\'re better than men or worse, but because they\'re different."
+In *Conversations* he says, "The development, maturity, emancipation of women should not mean a pretension to equality, to uniformity with men, a servile imitation of a man's way of doing things. That would not get us anywhere. Women would turn out losers, not because they're better than men or worse, but because they're different."
 
-He liked to outline these particular characteristics of women and the great talents that they bring to any enterprise. He said, "Women, like men, possess the dignity of being persons and children of God. ... They\'re called to bring to the family, to society, and to the Church, characteristics which are their own and which they alone can give: their gentle warmth and untiring generosity, their love for detail, their quick-wittedness and intuition, their simple and deep piety, their constancy" (J. Escrivá, *Conversations*, Point 87).
+He liked to outline these particular characteristics of women and the great talents that they bring to any enterprise. He said, "Women, like men, possess the dignity of being persons and children of God. ... They're called to bring to the family, to society, and to the Church, characteristics which are their own and which they alone can give: their gentle warmth and untiring generosity, their love for detail, their quick-wittedness and intuition, their simple and deep piety, their constancy" (J. Escrivá, *Conversations*, Point 87).
 
 Pope St. John Paul liked to say that every man coming into the world is entrusted to the care of a woman (John Paul II, Apostolic Letter, *Mulieris dignitatem*, Point 30, August 15, 1988).
 
-He liked to say that while both parents play a role, it\'s the woman in particular that teaches the man what it means to be human. Ultimately, she teaches him what it means to love, and then this is his greatest maturity.
+He liked to say that while both parents play a role, it's the woman in particular that teaches the man what it means to be human. Ultimately, she teaches him what it means to love, and then this is his greatest maturity.
 
 One American educationalist says that every baby coming into the world comes into the world like a self-satisfying, hedonistic gorilla. The role of parents is to turn that hedonistic, self-satisfying gorilla into an adult.
 
-The little baby screams for its milk. 'Give me my milk, and even if it\'s three in the morning, get up out of bed and give me my milk because I am the most important person in the world. And I\'m going to scream and scream and scream until I get it.' The role of parents is to turn this little gorilla into an adult.
+The little baby screams for its milk. 'Give me my milk, and even if it's three in the morning, get up out of bed and give me my milk because I am the most important person in the world. And I'm going to scream and scream and scream until I get it.' The role of parents is to turn this little gorilla into an adult.
 
 He says that adults are not just people who can take care of themselves, because a dog or a cat or a hothouse plant can do that. An adult is somebody who fundamentally can take care of others. An adult is somebody who can forget about themselves.
 
-That\'s what love is. That\'s why some people never become adults, because love is sacrifice. The mother has sacrificed herself for her child. She, more than the father, teaches that lesson to the child: what love is, how to forget about yourself, how to give yourself to others.
+That's what love is. That's why some people never become adults, because love is sacrifice. The mother has sacrificed herself for her child. She, more than the father, teaches that lesson to the child: what love is, how to forget about yourself, how to give yourself to others.
 
-He continues in *Conversations*, "It is not only outside the home that a woman achieves her perfection, as though time spent at home was time stolen from the development of her personality. ... The attention given to her family will always be a woman\'s greatest dignity. In the care she takes of her husband and children\...in her work of creating a warm and formative atmosphere around her, a woman fulfills the most indispensable part of her mission. It follows that she can achieve her personal perfection here" (*ibid*.).
+He continues in *Conversations*, "It is not only outside the home that a woman achieves her perfection, as though time spent at home was time stolen from the development of her personality. ... The attention given to her family will always be a woman's greatest dignity. In the care she takes of her husband and children\...in her work of creating a warm and formative atmosphere around her, a woman fulfills the most indispensable part of her mission. It follows that she can achieve her personal perfection here" (*ibid*.).
 
 While encouraging women to take their place in the world, to go as far as they can, to use all their talents, to play a great role in society, he also emphasizes the fundamental role that a woman plays in the family, in the home---of forming new human beings, of making that home and that family a school of deeper humanity, a school of virtue, a school of piety, the domestic Church.
 
@@ -83,7 +83,7 @@ We can think of all the great ways that the Catholic Church has promoted the aut
 
 The Church has always promoted the care and education of women as much as possible. But St. Josemaría has sort of brought it to a different level. Their great contribution will be "insofar as they are humanly and professionally equipped." He encourages women to go as far as they can, to be experts in various fields.
 
-"The essential equality with men and women," he says, "demands an understanding of the complementary roles which they play in the Church\'s growth and in the progress of society" (*Conversations*, Point 14).
+"The essential equality with men and women," he says, "demands an understanding of the complementary roles which they play in the Church's growth and in the progress of society" (*Conversations*, Point 14).
 
 In marriage a man does not complete a woman or the woman does not complete a man. They are already complete in themselves. They complement each other.
 
@@ -91,17 +91,17 @@ In marriage a man does not complete a woman or the woman does not complete a man
 
 Diversity is something good. It's willed by God, something we have to foster. God created the male and female. The male should be more male and the female should be more female.
 
-"In this way,." he continues, "men are freed from the temptation of \'masculinizing\' the Church and society, and women from seeing their mission in the People of God and in the world as no more than showing that they can do equally well the tasks which were formerly reserved to men. I think that both men and women should rightly consider themselves as the protagonists in the history of salvation, but each complementing the work of the other" (*ibid*.).
+"In this way," he continues, "men are freed from the temptation of 'masculinizing' the Church and society, and women from seeing their mission in the People of God and in the world as no more than showing that they can do equally well the tasks which were formerly reserved to men. I think that both men and women should rightly consider themselves as the protagonists in the history of salvation, but each complementing the work of the other" (*ibid*.).
 
-I was on a plane a few years ago and there was a young couple with their young baby. I couldn\'t help noticing how the mother was looking after the baby very well and keeping him happy.
+I was on a plane a few years ago and there was a young couple with their young baby. I couldn't help noticing how the mother was looking after the baby very well and keeping him happy.
 
 Then, after a little while she passed the baby to the father. You could sort of see this young father---he did his best, he did what he could. But his way of carrying the baby, looking after the baby, and trying to satisfy the needs of the baby, compared to the mother, was just inadequate.
 
-It was almost amusing to see. In spite of his best efforts, he really couldn\'t hack it. In that little moment or two, you could see the difference in the quality of the talents of each individual person. We all have a different role to play.
+It was almost amusing to see. In spite of his best efforts, he really couldn't hack it. In that little moment or two, you could see the difference in the quality of the talents of each individual person. We all have a different role to play.
 
 When we look at the seeds that St. Josemaría has sown in the world by the will of God with the women of the Prelature, we could think, on this feast day---as we begin to look towards the hundredth anniversary that is coming up in a few years, which the Father has encouraged us to focus on---we could think of all the wonderful horizons that are opening up in front of us.
 
-As the Prelate likes to tell us, we have to think back of the early people who went to each country to start the work. There\'s a book about the first women who went to Japan. They left Rome. Their boat got as far as---I think it was Aden or Suez or someplace---and they found a letter waiting for them there from our Father.
+As the Prelate likes to tell us, we have to think back of the early people who went to each country to start the work. There's a book about the first women who went to Japan. They left Rome. Their boat got as far as---I think it was Aden or Suez or someplace---and they found a letter waiting for them there from our Father.
 
 He followed them every step of the journey. He sent these daughters of his to faraway places to plant that seed. He took great care that the seed would find good soil.
 
@@ -115,7 +115,7 @@ He said, "This 60th anniversary is an excellent occasion that Our Lord gives us 
 
 Each one of us is called to "launch out into the deep," to see the new horizons of apostolate that God is placing before us, new people that we get to meet, new possibilities.
 
-The pandemic, social media, there are all sorts of new means for transmitting the message of the gospel. There are new people who are hungry to hear these things. We have to look to the future.
+The pandemic, social media, there are all sorts of new means for transmitting the message of the Gospel. There are new people who are hungry to hear these things. We have to look to the future.
 
 Recently, Pope Francis has talked about how there is a great spiritual emptiness in the world (Pope Francis, Apostolic Exhortation, *Querida Amazonia*, Point 108, February 2, 2020; *Angelus*, June 19, 2016).
 
@@ -131,19 +131,19 @@ Don Álvaro continues, "Without wanting to be exhaustive, I want to remind you o
 
 Like our Father Abraham, you could say of our Founder that he believed "against all hope" (Rom. 4:18), confiding in the Word of God. That supernatural sureness that the Work would be carried out was confirmed to him by Our Lord on many different occasions. It presupposed the exercise of a heroic faith on the part of our Founder.
 
-As we look to the future, we\'re also called to have heroic faith in our vocation, in the Church, in the Holy Father, in Our Father God who is beside us all the time---in this particular apostolic task that God has placed in front of me, this Circle, that class, this recollection, this retreat, this town or village that I have to try and bring the Work to, with a number of journeys.
+As we look to the future, we're also called to have heroic faith in our vocation, in the Church, in the Holy Father, in Our Father God who is beside us all the time---in this particular apostolic task that God has placed in front of me, this Circle, that class, this recollection, this retreat, this town or village that I have to try and bring the Work to, with a number of journeys.
 
 Lord, help me to have the same hope, confidence, fortitude, perseverance as our Father had in fulfilling these things.
 
-Don Álvaro continues, "Without failing before any of the difficulties that humanly speaking were enormous, difficulties that presented themselves to him along his pathway, he didn\'t vacillate in any way. He thought of that aspiration: 'The waters will pass through the mountains' (Ps. 104:10). Our Lord comforted him with that aspiration on the 12th of December 1931 when the obstacles to the development of the Work were truly immense.
+Don Álvaro continues, "Without failing before any of the difficulties that humanly speaking were enormous, difficulties that presented themselves to him along his pathway, he didn't vacillate in any way. He thought of that aspiration: 'The waters will pass through the mountains' (Ps. 104:10). Our Lord comforted him with that aspiration on the 12th of December 1931 when the obstacles to the development of the Work were truly immense.
 
-"None of us in our efforts to spend ourselves to bring forth Opus Dei will ever encounter the same sort of obstacles that our Father encountered. God placed these aspirations in his soul, in his heart, so that he would transmit them to us, so that we would always walk with faith and optimism along the pathways of the earth, very confident that God is acting in us and through us."
+"None of us in our efforts to spend ourselves to bring forth Opus Dei will ever encounter the same sort of obstacles that our Father encountered. God placed these aspirations in his soul, in his heart, so that he would transmit them to us, so that we would always walk with faith and optimism along the pathways of the earth, very confident that God is acting in us and through us.
 
 "With the fortitude of God and the faith of our Founder," said Don Álvaro, "we have to personify until the end of time 'waters will pass through the mountains,' overcoming all sorts of difficulties that will never be lacking."
 
-We can\'t be surprised that there are difficulties or crosses or problems. That\'s par for the course. It\'s a given. It\'s a good sign. God blesses us with the cross.
+We can't be surprised that there are difficulties or crosses or problems. That's par for the course. It's a given. It's a good sign. God blesses us with the cross.
 
-The Father has said that the expansion of Opus Dei goes forward in and from the cross. We\'re not surprised by the cross in our life. We can thank God for those crosses. They help us to be more supernatural, to turn to our prayer a little more.
+The Father has said that the expansion of Opus Dei goes forward in and from the cross. We're not surprised by the cross in our life. We can thank God for those crosses. They help us to be more supernatural, to turn to our prayer a little more.
 
 One time, many years ago, Don Álvaro went to visit England. He was told that they were redoing a number of the centers, doing a lot of rebuilding and extending and all sorts of developments, and that they had huge financial problems.
 
@@ -159,11 +159,11 @@ So many people who are in need of new ideas or of doctrine are in formerly Chris
 
 We are here to carry out this great work of evangelization. God wants to use inadequate instruments with all of their miseries---that is, each one of us.
 
-"We can\'t dilute," he says, "our personal responsibility, that of each one of us, into that of the directors or a supposed structure. Our Father affirmed that the Work is a disorganized organization. That means that as a consequence, there could never be lacking our personal spontaneity, and that of all the members of the Prelature, at the time of proposing and bringing forward apostolic activities."
+"We can't dilute," he says, "our personal responsibility, that of each one of us, into that of the directors or a supposed structure. Our Father affirmed that the Work is 'a disorganized organization.' That means that as a consequence, there could never be lacking our personal spontaneity, and that of all the members of the Prelature, at the time of proposing and bringing forward apostolic activities."
 
 Each one of us is to think: What can I do? What does God want me to do? Where can I have initiative and responsibility in bringing things forward?
 
-"The organization of the Work," he says, "does not hem us in in any way. Rather, through its very nature, it stimulates us. It fosters a great liberty of movement in professional and political areas, but that of each one of us, in the enormously wide fields of personal apostolic initiative."
+"The organization of the Work," he says, "does not hem us in in any way. Rather, through its very nature, it stimulates us. It fosters a great liberty of movement not only in professional and political areas, but that of each one of us, in the enormously wide fields of personal apostolic initiative."
 
 That word initiative is a very attractive word on the lips of a member of Opus Dei. He says, "We cannot forget that a woman of Opus Dei, a man of Opus Dei, must in all moments be a person who is an apostle."
 
@@ -171,7 +171,7 @@ We can ask Our Lady, Mother of Fair Love, that she might help us to go very deep
 
 *Mater Pulchrae Dilectiones, filios tuos adiuva!*
 
-*'I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
