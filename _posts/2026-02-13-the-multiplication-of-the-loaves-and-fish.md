@@ -11,7 +11,7 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-We're told in the Gospel of today how "Jesus went across the Sea of Galilee. And a large crowd followed him because they saw the signs he was performing on the sick. Jesus went up on the mountain, and there he sat down with his disciples. The Jewish feast of the Passover was near. When Jesus raised his eyes and saw that a large crowd was coming to him, he said to Philip, 'Where can we buy enough food for them to eat?'" (John 6:1-5).
+We're told in the Gospel of today: "Jesus went across the Sea of Galilee. And a large crowd followed him because they saw the signs he was performing on the sick. Jesus went up on the mountain, and there he sat down with his disciples. The Jewish feast of the Passover was near. When Jesus raised his eyes and saw that a large crowd was coming to him, he said to Philip, 'Where can we buy enough food for them to eat?'" (John 6:1-5).
 
 The story is the story of the multiplication of the loaves and the fish. It takes place on the shores of the Sea of Galilee. Our Lord is speaking to thousands of people, performing healings, and then there is a concern about the food for the people.
 
@@ -21,27 +21,27 @@ In St. Luke, it has the apostles saying to Our Lord, "Send the crowd away, to go
 
 The disciples themselves were also tired. They were in a remote place. People had to walk and go to the villages in order to buy food.
 
-Then Our Lord challenges the apostles. "Where can we buy enough food for them to eat?" He is going to draw out the apostles, as He does on many other occasions, to realize their situation, to help them to see what we have and what we don\'t have.
+Then Our Lord challenges the apostles. "Where can we buy enough food for them to eat?" He is going to draw out the apostles, as He does on many other occasions, to realize their situation, to help them to see what we have and what we don't have.
 
 Our Lord is going to, in this way, let them see the greatness of the miracle that He is about to perform.
 
 In St. Luke, He says, "You give them something to eat" (Luke 9:13).
 
-These words must have surprised the apostles. They don\'t understand. How can we give them something to eat? We don\'t have anything.
+These words must have surprised the apostles. They don't understand. How can we give them something to eat? We don't have anything.
 
-"We have no more than five loaves and two fish---unless we are to go and buy food for all these people."
+"We have no more than five loaves and two fish---unless we are to go and buy food for all these people" (*ibid*.).
 
 Our Lord seems to have the impression that He is very clear about what He intends to do. In St. Luke, He says, "Make the people sit down in companies of fifty" (Luke 9:13-14).
 
 In St. John, it says, "He said this to test Philip, because he himself knew what he was going to do. Philip answered him, 'Two hundred days' wages worth of food would not be enough for each of them to have a little'" (John 6:6-7).
 
-In another account he says, "two hundred denarii, which is almost a year\'s wages" (Mark 6:37).
+In another account He says, "two hundred denarii, which is almost a year's wages" (Mark 6:37).
 
-The apostles realize what they don\'t have; what they need. Our Lord is letting them see the picture very clearly.
+The apostles realize what they don't have; what they need. Our Lord is letting them see the picture very clearly.
 
 "One of his disciples, Andrew, the brother of Simon Peter, said to him, 'There is a boy here with five barley loaves and two fish, but what good are these for so many?" (John 6:8-9).
 
-Our Lord is undeterred by these words---exactly what He wanted to hear from the apostles\' own lips: 'We have nothing.'
+Our Lord is undeterred by these words---exactly what He wanted to hear from the apostles' own lips: 'We have nothing.'
 
 "He said, 'Have the people recline.' Now there was a great deal of grass in that place. So the men reclined, about five thousand in number. Then Jesus took the loaves, gave thanks, and distributed them to those who were reclining, and also as much of the fish as they wanted" (John 6:10-11).
 
@@ -53,7 +53,7 @@ This is an important miracle. That is why all the evangelists tell the miracle. 
 
 This is one of the great signs in the public life of Our Lord. It also foretells what will be the great memorial of His Sacrifice: the Mass, the Eucharist, the Sacrament of His Body and Blood, offered up for the salvation of the world.
 
-The Eucharist in some ways is the culmination of Our Lord\'s entire life: a single act of love towards His loving Father and towards each one of us.
+The Eucharist in some ways is the culmination of Our Lord's entire life: a single act of love towards His loving Father and towards each one of us.
 
 As with the miracle of the loaves, Our Lord took the bread in His hands, said a prayer to His Father, broke the bread, and gave it to His disciples, and He does the same with the wine.
 
@@ -61,15 +61,15 @@ In that moment of the Last Supper and the eve of His Passion, with that gesture,
 
 We are invited each day and each year to renew our wonder and our joy. Easter is a time for joy, hope, optimism, renewal of our faith, particularly in this great gift of the Eucharist that God has given to us.
 
-Lord, help us to receive it with gratitude, not in a passive, habitual way. Don\'t ever let us get accustomed.
+Lord, help us to receive it with gratitude, not in a passive, habitual way. Don't ever let us get accustomed.
 
 Help us to make each one of our Communions a very fervent Communion, so that we truly renew our "Amen" every time we approach the altar: "The Body of Christ." "Amen."
 
-Lord, may it be an Amen that comes from our heart, a committed one. We give ourselves to you again in this particular moment, so that we realize that it is Jesus who I\'m receiving.
+Lord, may it be an Amen that comes from our heart, a committed one. We give ourselves to you again in this particular moment, so that we realize that it is Jesus who I'm receiving.
 
-I receive Him in a very committed way. It\'s Our Lord who saved me. He comes to give me the strength to live, the Bread of Life. It is Jesus, the living Jesus.
+I receive Him in a very committed way. It's Our Lord who saved me. He comes to give me the strength to live, the Bread of Life. It is Jesus, the living Jesus.
 
-Lord, help us to receive you each time as if it was our First Communion, so that we approach you with the piety of children, small children who perhaps don\'t understand the gifts, through those physical signs and symbols around them, to get the message that something very important is taking place.
+Lord, help us to receive you each time as if it was our First Communion, so that we approach you with the piety of children, small children who perhaps don't understand the gifts, through those physical signs and symbols around them, to get the message that something very important is taking place.
 
 "Unless you become like little children, you cannot enter the kingdom of heaven" (Matt. 18:3).
 
@@ -81,13 +81,13 @@ Our Lord connects His ability to feed the thousands with very little to the mira
 
 This everlasting covenant, anticipated in the Old Testament by Isaiah (Isa. 6:6-7) comes to full fruition. Divine gift and abundance are perfectly realized and offered.
 
-"The miracles of the multiplication of the loaves"---we're told in the *Catechism*---"when the Lord says the blessing, breaks and distributes the loaves through his disciples to feed the multitude, prefigure the super-abundance of this unique bread of the Eucharist" (*Catechism of the Catholic Church*, Point 1335). The message of super-abundance.
+"The miracles of the multiplication of the loaves"---we're told in the *Catechism*---\"when the Lord says the blessing, breaks and distributes the loaves through his disciples to feed the multitude, prefigure the superabundance of this unique bread of his Eucharist" (*Catechism of the Catholic Church*, Point 1335). The message of superabundance.
 
 Christ is always there for us and will be until the end of time. "I am with you always" (Matt. 28:20).
 
 Thank you, Lord, for this great gift. May I ponder it. May I react with wonder and amazement and joy and thanksgiving, so that I savor the gift.
 
-We're told in Scripture, *Si scires donum Dei--*"If you knew the gift of God (John 4:10).
+We're told in Scripture, *Si scires donum Dei--"*If you knew the gift of God" (John 4:10).
 
 Our Lord tells the disciples to feed the people on their own, distribute the loaves among the people. He wanted them to recognize their limits---not to humiliate them---but to teach them true humility.
 
@@ -99,13 +99,13 @@ Our Lord begins this great miracle with this question. It is a significant prelu
 
 "One of his disciples, Andrew, the brother of Simon Peter, said to him, 'There is a boy here with five barley loaves and two fish'" (John 6:8-9).
 
-Andrew looks around and all he finds is a boy. A small boy. But he is very little. "What is that among so many?"
+Andrew looks around and all he finds is a boy. A small boy. But he is very little. "What is that among so many?" (John 6:9).
 
 That is like the trigger that releases Our Lord to start the whole miracle. "Make the people recline" (John 6:10). Let them sit down.
 
 The apostles perceive the problem of feeding so many people and they bring to Jesus what they have. The miracle was not worked from nothing, but from a simple sharing of what this little boy had brought to Him.
 
-Our Lord teaches us that He wants to work many miracles---not from nothing, but rather, with the small things that we bring to Him. Our Lord doesn\'t ask us for what we do not have.
+Our Lord teaches us that He wants to work many miracles---not from nothing, but rather, with the small things that we bring to Him. Our Lord doesn't ask us for what we do not have.
 
 But at the same time, He wants us to do what is there on our part. He makes us see that if each person offers the little that they have, the miracle can always be repeated.
 
@@ -113,7 +113,7 @@ Our Lord wants our effort, our total self-giving, our effort to show Him that we
 
 We move heaven and earth. We use all the human means. Then God is going to come and multiply all our little acts of love, and our generosity, and our commitment, and needs us to share in His gift.
 
-But like the apostles, maybe He wants us to see our nothingness. Like them, we have followed Our Lord and we try to continue to follow Him. But we can also ask ourselves, "With what sort of attitude?"
+But like the apostles, maybe He wants us to see our nothingness. Like them, we have followed Our Lord and we try to continue to follow Him. But we can also ask ourselves, 'With what sort of attitude?
 
 Help me to follow you, Lord, with the faith of the apostles, the faith they are building up in these days after Easter.
 
@@ -125,7 +125,7 @@ Our Lord manifested Himself, and manifests Himself today, as the one who is capa
 
 When we look around us in the world, we find modern man is very hungry: hungry for truth, hungry for justice, for love, for peace, for beauty. Above all, hungry for God.
 
-St. Augustine says, "We must hunger for God!" Each one of us has experienced that hunger. That\'s why we are here. That\'s why we come to look for the Bread of Life on a daily basis.
+St. Augustine says, "We must hunger for God!" (Augustine, *Commentary on Psalm 146*). Each one of us has experienced that hunger. That's why we are here. That's why we come to look for the Bread of Life on a daily basis.
 
 We have this daily hunger that we know we want to satisfy, and in that Bread of Life, we also receive all those other wonderful things: love, peace, beauty, justice.
 
@@ -135,9 +135,9 @@ That bread which we need, first and foremost, is Christ, who gives Himself to us
 
 "Take and eat, all of you. This is my body, offered for you in sacrifice" (Matt. 26:26).
 
-We\'re told in the Second Vatican Council, "The unity of all believers who form one body in Christ is both expressed and brought about. All men are called to this union with Christ, who is the light of the world, from whom we go forth, through whom we live, and toward whom our journey leads us (Vatican II, *Lumen gentium*, Point 3, November 21, 1964).
+We're told in the Second Vatican Council, "The unity of all believers who form one body in Christ is both expressed and brought about. All men are called to this union with Christ, who is the light of the world, from whom we go forth, through whom we live, and toward whom our journey leads us (Vatican II, *Lumen gentium*, Point 3, November 21, 1964).
 
-Christ is our focus. We\'re called to be Christocentric.
+Christ is our focus. We're called to be Christocentric.
 
 Lord, help me to have that hunger and to foster that hunger to prepare for Communion each day very well, maybe with those prayers that we find, in the Missal, of St. Thomas Aquinas or St. Bonaventure, or with our own personal words that we make up like little children that express the concrete desire of our heart.
 
@@ -147,27 +147,27 @@ The bread that we need is also the bread of the Word of God: "Man shall not live
 
 Thank you, Lord, for the custom of reading a few words of the Gospel every day. Feed my soul with this Word of God.
 
-Men can utter words of high value, but often the words of men are insufficient, ambiguous, disappointing, biased, while "the Word of God is full of truth," we\'re told in Scripture (*cf*. John 17:17). "It\'s upright," we\'re told in the Psalms. The Psalms also say it\'s "stable and remains forever" (Ps. 119:160, 89).
+Men can utter words of high value, but often the words of men are insufficient, ambiguous, disappointing, biased, while "the Word of God is full of truth," we're told in Scripture (*cf*. John 17:17). "It's upright," we're told in the Psalms. The Psalms also say it's "stable and remains forever" (Ps. 119:160, 89).
 
 We need to listen to this Word continually. Assume it as the criterion of our way of thinking and acting. Get to know it. That familiarity with the Word of God is a great good in our life.
 
-We achieve this by our regular reading and personal meditation. We have to make it ours day by day in our behavior, and put it into practice.
+We achieve this by our regular reading and personal meditation. We have to make it ours day by day in our behavior and put it into practice.
 
-The bread is also the bread of grace. We receive grace in all the sacraments. We need that grace. We have to hunger for it, invoke it, ask for it with sincere humility and tireless constancy, well aware that it\'s the most precious thing we can possess.
+The bread is also the bread of grace. We receive grace in all the sacraments. We need that grace. We have to hunger for it, invoke it, ask for it with sincere humility and tireless constancy, well aware that it's the most precious thing we can possess.
 
 We will come and make our abode with Him (John 14:23, 15:4-10). We become spiritual millionaires when we are in the state of grace.
 
-The path that\'s laid out for us along the path of our Christian vocation, which is often a mysterious one, is one of providential love, often incomprehensible on the human plane, sometimes hard and difficult.
+The path that's laid out for us along the path of our Christian vocation, which is often a mysterious one, is one of providential love, often incomprehensible on the human plane, sometimes hard and difficult.
 
 But Our loving Father has given us the bread from heaven to nourish us and strengthen us, to encourage us in this pilgrimage of faith, which our vocation is.
 
-We have that nutrient that keeps us going. We\'re told in *The Way* how the person said, "So many Communions. I don\'t see the fruit of all the Communions" (*cf*. Josemaría Escrivá, *The Way,* Point 534).
+We have that nutrient that keeps us going. We're told in *The Way* how the person said, "So many Communions. I don't see the fruit of all the Communions" (*cf*. Josemaría Escrivá, *The Way,* Point 534).
 
-But you see, often the fruit of all those Communions is working silently within us. We don\'t remember the food we had yesterday, but if we hadn\'t eaten it, we\'d be in a very different situation.
+But you see, often the fruit of all those Communions is working silently within us. We don't remember the food we had yesterday, but if we hadn't eaten it, we'd be in a very different situation.
 
 That bread from heaven keeps us going, keeps us in the right direction, keeps us on the straight and narrow.
 
-We\'re told by St. Augustine, "We can understand very well how your Eucharist is daily food. The faithful know in fact what they receive, and it is good that they should receive the daily bread necessary for this time.
+We're told by St. Augustine, "We can understand very well how your Eucharist is daily food. The faithful know in fact what they receive, and it is good that they should receive the daily bread necessary for this time.
 
 "They pray for themselves to become good, to be persevering in goodness, faith, and a good life. \... The Word of God, which is explained to us, and in a certain sense broken every day, is also daily bread" (St. Augustine, *Sermon 8 on the New Testament*).
 
@@ -175,19 +175,19 @@ May Christ Jesus always multiply this bread for us. Lord, help me to appreciate 
 
 "When they had their fill, he said to the disciples, 'Gather the fragments left over, so that nothing will be wasted'" (John 6:12).
 
-There\'s an end part to this great event. It\'s environmentally friendly. Our Lord is aware. He has eco-sensitivity: "Gather up all the pieces."
+There's an end part to this great event. It's environmentally friendly. Our Lord is aware. He has eco-sensitivity: "Gather up all the pieces."
 
-But that\'s going to also put a different light on the whole miracle. "So they collected them and they filled twelve wicker baskets with fragments from the five barley loaves that had been more than they could eat" (John 6:13).
+But that's going to also put a different light on the whole miracle. "So they collected them and they filled twelve wicker baskets with fragments from the five barley loaves that had been more than they could eat" (John 6:13).
 
-This is an indication of the super-abundance. It\'s also a reminder of the little details, the small things. Five thousand people had eaten it. It was something incredible. But let\'s pick up the pieces. Let\'s take care of this little detail. Let\'s finish things well. It's very much part of our spirit.
+This is an indication of the superabundance. It's also a reminder of the little details, the small things. Five thousand people had eaten it. It was something incredible. But let's pick up the pieces. Let's take care of this little detail. Let's finish things well. It's very much part of our spirit.
 
 "When the people saw the sign that he had done, they said, 'This is truly the Prophet, the one who is to come into the world.' Since Jesus knew they were going to come and carry him off to make him king, he withdrew again to the mountain alone" (John 6:14-15).
 
 This is sometimes referred to as the Messianic Secret. It was not yet time for Our Lord to be revealed fully of who He is. The hour has not yet come. So He shies away from these occasions.
 
-Also, they wanted to make Him into a sort of a human king, a political messiah. This withdrawal of Our Lord shows, and He\'s come to emphasize, "My kingdom is not of this world" (John 18:36). I\'m not just a human political messiah; I\'m a supernatural Messiah.
+Also, they wanted to make Him into a sort of a human king, a political Messiah. This withdrawal of Our Lord shows, and He's come to emphasize, "My kingdom is not of this world" (John 18:36). I'm not just a human political Messiah; I'm a supernatural Messiah.
 
-St. Paul says, "As often as you eat this bread and drink the cup, you proclaim the Lord\'s death until he comes" (1 Cor. 11:26).
+St. Paul says, "As often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes" (1 Cor. 11:26).
 
 "As often." Do we proclaim the redemptive death, and kindle in our hearts, our hope of our definitive meeting with Him?
 
@@ -197,13 +197,11 @@ We remind ourselves of the great things to come, that promise of eternal life: "
 
 St. Luke remarks, "All who had eaten were satisfied. They took up what was left over in twelve baskets of broken pieces" (Luke 9:17).
 
-"The uninterrupted multiplication in the Church of the Bread of new life for the people of every race and culture" is foretold.
+"The uninterrupted multiplication in the Church of the Bread of new life for the people of every race and culture" is foretold (John Paul II, *Homily*, Solemnity of Corpus Christi, June 22, 2000).
 
 Nobody is left out. The Bread of Life is for everybody. The missionary Church has brought the Mass to every last corner of the earth.
 
-"This sacramental ministry is entrusted to the apostles and to their successors. Faithful to the command of the Master, they go out and never cease to break and distribute the Eucharistic bread from generation to generation."
-
-And so, here we are. "The People of God receive it with devout participation" (John Paul II, *Homily*, Solemnity of Corpus Christi, June 22, 2000).
+"This sacramental ministry is entrusted to the apostles and to their successors. Faithful to the command of the Master, they go out and never cease to break and distribute the Eucharistic bread from generation to generation." And so, here we are. "The People of God receive it with devout participation" (*ibid*.).
 
 St. Josemaría has encouraged us in that spirit to take care of our altars, of our oratories. Take care of the things of cult, of the liturgy, the external physical signs that lead us to the Bread of Life.
 
@@ -225,11 +223,11 @@ Lord, to whom will we go? There is nowhere else to go. We come to you. We want y
 
 The words of the disciples on the road to Emmaus: "Stay with us, Lord" (Luke 24:29). Every day, with our words, with our presence, with our coming close to Our Lord in the Blessed Eucharist, we say those same words, "Stay with us, Lord."
 
-Pope John Paul II has written an encyclical entitled with the words, "In the Blessed Eucharist" (*Ecclesia de Eucharistia*, April 17, 2003). Stay with us now and always. Give me strength for this particular day.
+Pope John Paul II has written an encyclical entitled with the words, "In the Blessed Eucharist" (*Ecclesia de Eucharistia*). Stay with us now and always. Give me strength for this particular day.
 
-St. Augustine comments, "Who is the Bread of heaven, but Christ? But in order that man might eat Angels\' Bread, the Lord of Angels was made Man. For if he had not been made Man, we should not have his Flesh; if we had not his Flesh, we should not eat the Bread of the Altar" (St. Augustine, *Sermon 130*).
+St. Augustine comments, "Who is the Bread of heaven, but Christ? But in order that man might eat Angels' Bread, the Lord of Angels was made Man. For if he had not been made Man, we should not have his Flesh; if we had not his Flesh, we should not eat the Bread of the Altar" (St. Augustine, *Sermon 130*).
 
-The Blessed Eucharist is the human being\'s ongoing encounter with God in which the Lord makes himself our food and gives himself to us to transform us into him" (Pope Benedict XVI, *Angelus,* July 29, 2012).
+The Blessed Eucharist is the human being's ongoing encounter with God in which the Lord makes himself our food and gives himself to us to transform us into him" (Pope Benedict XVI, *Angelus,* July 29, 2012).
 
 Over time we get transformed into Christ.
 
