@@ -29,9 +29,7 @@ Through dying to ourselves, we unite ourselves to Christ on the Cross. We become
 
 St. Josemaría used to recommend that we would have a little list of small mortifications, two or three things that we might try and do every day. Not big things, but small things. Things that fit in with our work, that if possible, help us to work a little better, or help us in other ways.
 
-The whole pathway of mortification, according to our spirit, is meant to be in the ordinary things: getting up on time, being on time for different activities, punctuality, order in our cabinet, in our drawers, among our personal things, thinking of others, putting ourselves out in little things.
-
-Eating a little bit less of what we like and a little bit more of what we don\'t like. Finishing what\'s on our plate. In that way, thanking God for all the good things that He gives us.
+The whole pathway of mortification, according to our spirit, is meant to be in the ordinary things: getting up on time, being on time for different activities, punctuality, order in our cabinet, in our drawers, among our personal things, thinking of others, putting ourselves out in little things, eating a little bit less of what we like and a little bit more of what we don\'t like, finishing what\'s on our plate---in that way, thanking God for all the good things that He gives us.
 
 "In all truth I tell you," says Our Lord in St. John, "unless a grain of wheat falls into the ground and dies, it remains alone. But if it dies, it yields a rich harvest" (John 12:24).
 
@@ -43,7 +41,7 @@ We could ask Our Lord in our prayer: What little mortifications should I be prac
 
 How do we practice this spirit of small mortifications? And the important thing is not just the dying to ourselves, not just the sacrifice.
 
-It\'s the love with which we do it. It\'s all about love. It\'s saying no to our body in order to say yes to our soul. God wants us to live that spirit all throughout our life.
+It\'s the love with which we do it. It\'s all about love. It\'s saying "no" to our body in order to say "yes" to our soul. God wants us to live that spirit all throughout our life.
 
 Many years ago, in Singapore, I was having lunch with an Irish diocesan priest who was based in New Zealand, but he had come to Singapore for the funeral of his brother. This man was 82.
 
@@ -55,7 +53,7 @@ The spirit of mortification in small things was very much alive. We live this sp
 
 Sometimes the world gets a bit scandalized by sacrifice or by mortification, but it\'s a funny thing, because all the greatest athletes in the world undergo an enormous amount of self-denial.
 
-If you look at Eliud Kipchoge, who broke the record for the marathon recently, probably, we only see him in the last hundred meters of the race, breaking the record, and all the glory that\'s there.
+If you look at Eliud Kipchoge, who broke the record for the marathon recently \[in 2002\], probably, we only see him in the last hundred meters of the race, breaking the record, and all the glory that\'s there.
 
 We don\'t see him running over the hills of Eldoret at five o\'clock in the morning when it\'s raining, or keeping on running and going uphill when he doesn\'t feel like it.
 
@@ -91,7 +89,7 @@ We start Lent with the ceremony of the ashes, reminding us that we are dust, we\
 
 It\'s something positive, not something negative, and the essence of our sacrifice is not to destroy, but to offer.
 
-In *The Way of the Cross*, we\'re told, "We must bring into our life to make them our own, the life and death of Christ" (Josemaría Escrivá, *The Way of the Cross*, Fourteenth Station).
+In *The Way of the Cross*, we\'re told, "We must bring into our life, to make them our own, the life and death of Christ" (Josemaría Escrivá, *The Way of the Cross*, Fourteenth Station).
 
 We\'re on a royal pathway. Christ never said it was going to be easy. We bring to our prayer sometimes the Way of the Cross, where we see Christ falling down three times.
 
@@ -107,7 +105,7 @@ This is the excitement of our life. We live for souls, everything for souls. Eve
 
 In *The Way,* we're told: "We must give ourselves in everything, we must deny ourselves in everything: the sacrifice must be a holocaust" (J. Escrivá, *The Way*, Point 186).
 
-The self-giving of Jesus on the Cross is full of love. Christ is not bitter on the Cross. He\'s not full of hatred. He doesn\'t say all these people who put me here on the Cross---He doesn\'t curse us on the cross. "Thy will be done. Let not my will, rather, yours be done" (Luke 22:42).
+The self-giving of Jesus on the Cross is full of love. Christ is not bitter on the Cross. He\'s not full of hatred. He doesn\'t say. 'all these people who put me here on the Cross...'---He doesn\'t curse us on the cross. "Thy will be done. Let not my will, rather, yours be done" (Luke 22:42).
 
 Christ loved the Cross because it\'s the instrument of redemption, of salvation for the whole world. "Greater love than this no man has, that he lay down his life for his friends" (John 15:13).
 
@@ -133,11 +131,11 @@ When they went back home, St. Josemaría went upstairs and Don Álvaro hung back
 
 He said, "Well, he was in great form. He was laughing, he was singing, he was joking."
 
-He told him: "Well, just for you to know, St. Josemaría has a big boil on the back of his neck because of the diabetes. His Roman collar is biting down into his neck. So he had been in great pain all afternoon. But just for you to know that he did all of this for you."
+He told him: "Just for you to know, St. Josemaría has a big boil on the back of his neck because of the diabetes. His Roman collar is biting down into his neck. So he had been in great pain all afternoon. But just for you to know that he did all of this for you."
 
 "The Father loves me," said Our Lord, "because I lay down my life in order to take it up again" (John 10:17).
 
-Our bodies can say at times what our heart cannot say. We say with our actions. We show Our Lord with our deeds that we\'re serious
+Our bodies can say at times what our heart cannot say. We say with our actions. We show Our Lord with our deeds that we\'re serious.
 
 This deed of self-denial, this saying no to myself in this particular thing, training myself like a great athlete---because Our Lord wants me to be a great champion, a great leader in love, to show the world what charity is.
 
@@ -151,7 +149,7 @@ If we try to practice that corporal mortification, we\'ll discover the cross in 
 
 We might like to work in this particular way, or lay the table in this way, or sweep the floor in this way. But we might be told, "This is a better way to do it" or "This is more efficient."
 
-We might need to change our work habits, and it might take a little bit of saying no to ourselves in order to learn new things, in order to work better, to be more productive, to sanctify our work a little better, to create a better atmosphere around us.
+We might need to change our work habits, and it might take a little bit of saying "no" to ourselves in order to learn new things, in order to work better, to be more productive, to sanctify our work a little better, to create a better atmosphere around us.
 
 We might have to mortify our way of doing things, our things we have learned before, because now there\'s a better way, because we\'ve been lifted up onto a new level.
 
@@ -173,13 +171,13 @@ One time I was accompanying somebody in a hospital and two ladies came to clean 
 
 So, I left the room, and I waited outside until they were finished. They were there for about twenty minutes.
 
-Eventually they came out and I went back into the room. The first thing I saw was a wastepaper basket on top of the table that was full. I wondered what took them so long to clean this fairly small room and small bathroom.
+Eventually they came out and I went back into the room. The first thing I saw was a wastepaper basket that was full on top of the table. I wondered what took them so long to clean this fairly small room and small bathroom.
 
 When I walked into the room and saw that wastepaper basket on the table, I got the impression that I think they were spending the whole time talking, If they had just looked back, a small glance as they left the room, they would have seen that wastebasket on top of the table.
 
 Often, perfection in our work is in that second glance. Double check to make sure everything is in its place. The last look.
 
-This is finishing our work well, taking care of the details, not presuming that everything is okay. We type an email or write a little note or something. It\'s double checking what we\'ve done.
+This is finishing our work well, taking care of the details, not presuming that everything is okay. We type an email or write a little note or something. It\'s double-checking what we\'ve done.
 
 We offer to Our Lord the martyrdom of little things. Putting this thing right, turning off this switch, turning off a light, turning off a tap.
 
@@ -199,7 +197,7 @@ If you think long enough about robbing a bank, you\'ll end up robbing a bank. If
 
 If we get thoughts about robbing a bank, we should try and get rid of those thoughts as quickly as possible. They\'re just a waste of time.
 
-Our imagination can present all sorts of things to our mind. That\'s why we have to try and control the imagination. In the book *Jesus as Friend*, there\'s a whole chapter on imagination. It\'s often called the madwoman of the house, the imagination.
+Our imagination can present all sorts of things to our mind. That\'s why we have to try and control the imagination. In the book*Jesus as Friend*, there\'s a whole chapter on imagination. It\'s often called the madwoman of the house, the imagination.
 
 We can have all sorts of imaginary fears or pains, imagine all sorts of scenarios that have nothing to do with reality. Or we might have thoughts of discouragement, or sensuality, or infidelity, or all sorts of things, or comparisons.
 
@@ -257,13 +255,13 @@ Help me to bear with joy, for love of Christ, the discomfort, the scarcity of me
 
 The extra demands. A time when there might be a little more work someday. Or maybe, it\'s nine o\'clock at night and 'I\'m going to bed and suddenly there\'s another job that has to be done or something is asked of me.' The extra demands.
 
-Always more---generosity---professionalism. Responsibility may make a little bit more demands on us...to check that that window is closed, or that door is locked, or all sorts of other things.
+Always more---generosity---professionalism. Responsibility may make a little bit more demands on us: to check that that window is closed, or that door is locked, or all sorts of other things.
 
 Help me to mortify my tongue so that all the words that I say may be words of charity. Kind words that bring joy to the lives of others.
 
 Help me to accept with love, as wanted by God for my growth, all the sufferings, physical and moral, contradictions, misunderstandings, miscommunications, sicknesses, limitations, this headache, that sore throat, all the little things that God may send me.
 
-We have a desire to co-redeem, then all these things will be freely taken up. "Not my will, rather, yours be done" (Luke 22:42).
+We have a desire to co-redeem, then all these things will be freely taken up. "Not my will, rather, yours be done" (*cf*. Luke 22:42).
 
 That desire to co-redeem will lead us not just to accept, but to seek with generosity. To go out of ourselves. Go over and above the call of nature, of justice. Love is active. It goes out and seeks; it doesn\'t just wait for things to come.
 
