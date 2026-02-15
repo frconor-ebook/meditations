@@ -19,15 +19,15 @@ Every baptized person comes under the law of impulse to growth and fulfillment. 
 
 Every created life encounters disturbing forces that seek to hinder its development. And so too, there are many evil elements threatening the existence of supernatural life.
 
-Anyone who is not earnestly concerned with fostering their supernatural life eventually succumbs to these disturbing forces. That\'s why we must never hesitate but go on and on.
+Anyone who is not earnestly concerned with fostering their supernatural life eventually succumbs to these disturbing forces. That's why we must never hesitate but go on and on.
 
 "The fundamental duty of every Christian is to press earnestly towards the goal of perfection, to become more perfect, moment by moment. Only in this way can we preserve our supernatural life and ensure its unfolding" (Benedict Baur, *In Silence With God*).
 
 "Be perfect." With inexpressible love the Lord has taken us up into His own life in the sacrament of Baptism, that we may "partake of his divine nature" (2 Pet. 1:4). Powerful phrase of St. Peter, that we would \[be taken up into God's own life\].
 
-In addition to the supernatural life principle of sanctifying grace, He has given us three divine virtues---of faith, of hope, and of love---as well as feet to carry us to Him, arms with which to receive Him, and a plenitude of so-called moral virtues---like justice, prudence, strength, temperance---with which to circumvent the daily influence of earthly things, and in that way strengthen the gifts of the Holy Spirit, which in fact are supernatural prerequisites for a perfect, holy life.
+In addition to the supernatural life principle of sanctifying grace, He has given us the three divine virtues---of faith, of hope, and of love---as well as feet to carry us to Him, arms with which to receive Him, and a plenitude of so-called moral virtues---like justice, prudence, strength, temperance---with which to circumvent the daily influence of earthly things, and in that way strengthen the gifts of the Holy Spirit, which in fact are supernatural prerequisites for a perfect, holy life.
 
-Grafted to Christ, the vine (Rom. 11:17), in Baptism, we automatically become children of the Church (*Catechism*, Point 1213)---\"ours, the holy, God-inspired writings of the Old and New Testament; ours, the sacraments; ours, the mystery of Christ in the blessed Eucharist as sacrifice and spiritual nourishment; ours, the rewards and virtues, the prayers and satisfactions of Christ in His holy, pure, God-loving soul in heaven and on earth" (*ibid*.)
+Grafted to Christ, the vine (Rom. 11:17), in Baptism, we automatically become children of the Church (*Catechism*, Point 1213)---"ours, the holy, God-inspired writings of the Old and New Testament; ours, the sacraments; ours, the mystery of Christ in the blessed Eucharist as sacrifice and spiritual nourishment; ours, the rewards and virtues, the prayers and satisfactions of Christ in His holy, pure, God-loving soul in heaven and on earth" (*ibid*.)
 
 In Baptism, God Himself---Father, Son, and Holy Spirit---lovingly takes residence in our soul, to be near to us, to draw us into His divine life, and secretly to copy and develop it in us.
 
@@ -37,23 +37,23 @@ Just as Baptism is the sacrament of rebirth, so Confirmation is the sacrament of
 
 How do we do that? Primarily by leading a life "dead unto the sins of the world" (Rom. 6:11), and then by allowing the intentions and virtues of Christ to light up in us, that we may become like another Christ, ready to make every sacrifice and put forth every effort to resist all things that might be contrary to our union with God.
 
-In the sacrament of Confirmation, we receive the power and strength to attain maturity and perfection in the Christian life. Confirmation urges us to take the first faltering steps toward Christian fulfillment: "Be you perfect."
+In the sacrament of Confirmation, we receive the power and strength to attain maturity and perfection in Christian life. Confirmation urges us to take the first faltering steps toward Christian fulfillment: "Be you perfect."
 
 Ever anew, we are called to assist in the sacrifice of the Mass, that we may actively participate in the offering up of Christ, uniting ourselves with Him in the offering.
 
 Whenever we receive Holy Communion worthily, or assist in the sacrifice with the priest, we renew the redemption Christ earned for us on the Cross. We join in His sacrifice, making His intentions and His objects our own.
 
-When Our Lord, in Holy Communion, gives Himself for our soul\'s nourishment, He fills us to the depths of our being with His spirit and His sacrificial power.
+When Our Lord, in Holy Communion, gives Himself for our soul's nourishment, He fills us to the depths of our being with His spirit and His sacrificial power.
 
 Then we become strong to cope with our daily tasks. All our efforts and strivings can be permeated with the Christ-like spirit of surrender to the glory of God.
 
-In this way, the Christian can turn their entire day into one unbroken sacrifice of prayer, thanksgiving, praise, and expiation, by beginning it with Holy Communion, offering up everything that God\'s will has imposed upon us to do, to endure, or to suffer.
+In this way, the Christian can turn their entire day into one unbroken sacrifice of prayer, thanksgiving, praise, and expiation, by beginning it with Holy Communion, offering up everything that God's will has imposed upon us to do, to endure, or to suffer.
 
-Participation in Mass gives us the daily opportunity to enter more fully into Our Lord\'s spirit of sacrifice, into His surrender to the Father, into His obedience unto death.
+Participation in Mass gives us the daily opportunity to enter more fully into Our Lord's spirit of sacrifice, into His surrender to the Father, into His obedience unto death.
 
 Every day it renews and intensifies our need to draw from Holy Communion the courage and strength to unite ourselves in an innermost spiritual wholeness with Christ, completely absorbed in His will, so that we may offer ourselves totally with Him and fulfill the command: "Be you perfect."
 
-In the first place, this means fulfilling God\'s will. Who is it that submits to every demand for the honor of God; who surrenders themselves completely, without reserve, to the guidance and providence of God, than the person who is perfect?
+In the first place, this means fulfilling God's will. Who is it that submits to every demand for the honor of God; who surrenders themselves completely, without reserve, to the guidance and providence of God, than the person who is perfect?
 
 One perfect soul glorifies God more than thousands of imperfect souls, because a single act of love on the part of a perfect soul is more pleasing to God than the sum total of all the incomplete acts of love offered by those who have not reached perfection.
 
@@ -67,13 +67,13 @@ The person who wrestles for perfection withstands the many opportunities and tem
 
 "Be you perfect." We need saints in these times. St. Josemaría and many people who came after him---Pope Benedict, Pope John Paul II---have talked about "these times are times for saints" (*cf*. Josemaría Escrivá, *The Way*, Point 301).
 
-Sometimes we hear that conditions in the world today are hopeless, that we can\'t go on. What can save the world today? Pope Francis has also emphasized that only the holiness of Christians can do so.
+Sometimes we hear that conditions in the world today are hopeless, that we can't go on. What can save the world today? Pope Francis has also emphasized that only the holiness of Christians can do so (*cf*. Apostolic Exhortation, *Gaudete et exsultate*, Point 6, March 19, 2018).
 
 We need perfect Christians, perfect priests and nuns, perfect fathers and mothers, perfect students, officials, workers, and employers.
 
 If anyone wishes to render a true service to the world, to the Church, to his country, to mankind, to himself, he must start with himself by subordinating everything to the pursuit and attainment of perfection.
 
-There was a piece of news recently about a religious order in New York, I think called the Daughters of Charity (Sisters of Charity of New York), who have decided not to receive any more vocations and are sort of closing down. They feel they\'ve reached the end of their mission after 150 years.
+There was a piece of news recently about a religious order in New York, I think called the Daughters of Charity (Sisters of Charity of New York), who have decided not to receive any more vocations and are sort of closing down. They feel they've reached the end of their mission after 150 years.
 
 Pope St. John Paul II said this will happen to many religious orders. Many people who are there are elderly. But then in the next paragraph that announced this, they said that in the last 150 years, this religious order had started 160 schools, twenty-eight hospitals, a college of liberal arts, and quite a number of other things.
 
@@ -81,15 +81,15 @@ Sort of pause for a moment. Hundred and something schools, twenty-eight hospital
 
 The history of some of these religious orders is truly incredible. What people have achieved with their lives!
 
-And if you asked any one of those people involved in those organizations, I don\'t think they\'d tell you, 'We were just here to build schools and to start hospitals.'
+And if you asked any one of those people involved in those organizations, I don't think they'd tell you, 'We were just here to build schools and to start hospitals.'
 
-You\'ll find this commitment to holiness and perfection was at the basis of all their endeavors. Over time, this yields this abundant fruit.
+You'll find this commitment to holiness and perfection was at the basis of all their endeavors. Over time, this yields this abundant fruit.
 
-We have an awful lot to be proud of in our Church. It\'s also important that we have a good knowledge of our history, and of the great things that people of the Catholic Church have achieved in society in the past hundreds of years, so that we see what *we* have to achieve in the 21st and 22nd centuries.
+We have an awful lot to be proud of in our Church. It's also important that we have a good knowledge of our history, and of the great things that people of the Catholic Church have achieved in society in the past hundreds of years, so that we see what *we* have to achieve in the 21st and 22nd centuries.
 
 We might find ourselves surrounded today by a very unchristian world, a very worldly spirit in many places, in hearts, and in minds. We might think the world has never been in such a bad state.
 
-But if you get to know a little bit more about history, you\'ll find the opposite is the truth. The times we live in are no better or no worse than many other eras.
+But if you get to know a little bit more about history, you'll find the opposite is the truth. The times we live in are no better or no worse than many other eras.
 
 We might find the world is in a bit of a mess, in spite of all the effort on the part of ecclesiastical authorities or religious orders, or in spite of so many good books and writings, so many missions or congresses, or sermons, or Confessions, or Communions, or pilgrimages.
 
@@ -97,11 +97,11 @@ The build-up may be magnificent; the results might seem meager and impermanent. 
 
 But yet you look back after 150 years and you see a glowing treasure.
 
-In truth there\'s only one cure, one solution---the earnest striving for perfection, the full realization of living active Christian virtue---in a word, Christian holiness, and this has to have deep roots.
+In truth there's only one cure, one solution---the earnest striving for perfection, the full realization of living active Christian virtue---in a word, Christian holiness, and this has to have deep roots.
 
 The soul of perfection is the inner life, turning from worldliness, breaking with every conscious sin and attachment to anything other than God, and to anything that can hinder our union with God.
 
-We have to practice renunciation, and contrition, and atonement, taking care of our spiritual life, our prayer, our meditation, and working with the spirit of love so that we also put perfection into our work, because that\'s the role of the ordinary layperson in the middle of the world: to sanctify the temporal realities, the world of work. That\'s what our vocation in the middle of the world is all about.
+We have to practice renunciation, and contrition, and atonement, taking care of our spiritual life, our prayer, our meditation, and working with the spirit of love so that we also put perfection into our work, because that's the role of the ordinary layperson in the middle of the world: to sanctify the temporal realities, the world of work. That's what our vocation in the middle of the world is all about.
 
 That is why the present times demand of Christians a life of Christian perfection because this alone is what will change things.
 
@@ -111,13 +111,13 @@ Love is the highest expression, the ultimate term, of our capacity. In love, we 
 
 God is glorified by love more than by anything else. Love most completely fulfills His commandments.
 
-We\'re told in St. Matthew that on the commandments to love God and our neighbor "hang the whole law and the prophets" (Matt. 22:40).
+We're told in St. Matthew that on the commandments to love God and our neighbor "hang the whole law and the prophets" (Matt. 22:40).
 
-All the commandments and duties refer to love. Love is the fulfillment of commandments and duties; without love, there is no fulfillment. It\'s the soul of all the virtues; it is itself all virtues.
+All the commandments and duties refer to love. Love is the fulfillment of commandments and duties; without love, there is no fulfillment. It's the soul of all the virtues; it is itself all virtues.
 
 If love is lacking, all is lacking. "If I do not have love," says St. Paul, "I have nothing, I am nothing" (*cf*. 1 Cor. 13:2). Where love is, there all things are, including all the other virtues.
 
-These virtues grow as naturally out of love as out of their own roots: they serve love and smooth its path to such an extent that the loving soul easily and readily does everything that loves demands.
+These virtues grow as naturally out of love as out of their own roots: they serve love and smooth its path to such an extent that the loving soul easily and readily does everything that love demands.
 
 We are just as perfect as the love that we bear. Bear to whom? To God and to our neighbor.
 
@@ -129,35 +129,35 @@ The love with which we love God and our brother in Christ is the same. Only the 
 
 The concept of perfection, which many people entertain, may be deceptive and destructive. Perfection does not consist of extraordinary penances or fasting or the greatest possible sacrifices.
 
-Some might think that we\'re perfect and they\'re perfect when they are free from temptation and strife, when they can pray plentifully without any trouble, when they experience comfort and sweetness in prayer, when they are able to pray just as they wish to pray.
+Some might think that we're perfect and they're perfect when they are free from temptation and strife, when they can pray plentifully without any trouble, when they experience comfort and sweetness in prayer, when they are able to pray just as they wish to pray.
 
-Or they might think that they\'re perfect if they follow the rules and regulations to the letter. Mortifications, zeal in prayer, observance of rules are indispensable for spiritual perfection, but they\'re not perfect in themselves.
+Or they might think that they're perfect if they follow the rules and regulations to the letter. Mortifications, zeal in prayer, observance of rules are indispensable for spiritual perfection, but they're not perfection in themselves.
 
-There might be many among the mortified, among many ardent worshippers, many rule-abiding people, who might be unyielding in their judgment.
+There might be many among the mortified, among the ardent worshippers, many rule-abiding people, who might be unyielding in their judgment.
 
 They might be proud and vain, obstinate and opinionated, fault-finding, lacking love in thought and speech, hypersensitive, jealous, easily put out, moody and uncontrolled. These can hardly be called perfect.
 
-We are just as perfect as the love we bear, when love is within reach of all who are in a state of sanctifying grace, who keep God\'s commandments, and who commit no mortal sin.
+We are just as perfect as the love we bear, when love is within reach of all who are in a state of sanctifying grace, who keep God's commandments, who commit no mortal sin.
 
 And is such a one truly perfect? Not necessarily, because perfection demands more than this. It rules out not only all mortal sin but every conscious, venial sin.
 
-It declares war on every fault of which it becomes aware. It tolerates no neglect, no half-measures, no easy-going indifference, no fault of character---even though it cannot prevent man here on earth from often falling victim to unconscious weaknesses and faults of human nature.
+It declares war on every fault of which it becomes aware. It tolerates no neglect, no half-measures, no easygoing indifference, no fault of character---even though it cannot prevent man here on earth from often falling victim to unconscious weaknesses and faults of human nature.
 
 Perfection consists particularly of doing all that is good that is possible in given circumstances and situations---and not only what is commanded or cannot be omitted without sinning.
 
-It extends beyond the sphere of duty. It does not ask, 'Must I do this?' 'Is it a sin if I do it or don\'t do it?'
+It extends beyond the sphere of duty. It does not ask, 'Must I do this?' 'Is it a sin if I do it or don't do it?'
 
-And any good we have an opportunity to perform must be complete: outwardly perfect, performed in a proper and careful manner, leaving no room for the least reproach of negligence; inwardly perfect, springing from an intention of pure love, sincerely first for the sake of God\'s will and Christ\'s.
+And any good we have an opportunity to perform must be complete: outwardly perfect, performed in a proper and careful manner, leaving no room for the least reproach of negligence; inwardly perfect, springing from an intention of pure love, sincerely first for the sake of God's will and Christ's.
 
-But we\'re really perfect only when it has become a habit, second nature, to regulate our thoughts and actions entirely with reference to God, His will, His honor and glory, yielding in all things to His good pleasure.
+But we are really perfect only when it has become a habit, second nature, to regulate our thoughts and actions entirely with reference to God, His will, His honor and glory, yielding in all things to His good pleasure.
 
-Perfection rests upon love, that is to say, on the complete fulfillment of the commandment: "You shall love the Lord your God...with your whole soul and with your whole mind...and your neighbor as yourself" (Matt. 22:37-39).
+Perfection rests upon love, that is to say, on the complete fulfillment of the commandment: "You shall love the Lord your God...with your whole soul, and with your whole mind...and your neighbor as yourself" (Matt. 22:37,39).
 
 Whoever loves anything more than God, whoever loves anything opposed to God, whoever loves in the same degree anything that is not God, fails to fulfill the commandment of love and consequently is not on the road to perfection.
 
 If that person wishes to take the way of a perfect life, they must in some measure fulfill the law of love.
 
-Christians have a wide field of endeavor in seeking perfection because perfection, like love, has unlimited forms.
+Christians have a wide field of endeavor in seeking perfection, because perfection, like love, has unlimited forms.
 
 We can talk about two kinds of Christian perfection: essential perfection and perfection in a narrower and more particular sense.
 
@@ -165,9 +165,9 @@ Essential perfection may be described as perfection in a wider sense---that perf
 
 This requires not only the fulfillment of the commandments but, over and above that, doing everything that is necessary to remain in a state of grace.
 
-If a Christian were only to do or leave undone that which he is strictly commanded by the law to do or not to do, he would still not fulfill Christ\'s command, "Be you perfect."
+If a Christian were only to do or leave undone that which he is strictly commanded by the law to do or not to do, he would still not fulfill Christ's command, "Be you perfect."
 
-If such a person were to practice brotherly love only when it was indicated by strict duty, but it could not be withheld without sin, they would have fulfilled the law of brotherly love in only the minimum of cases.
+If such a person were to practice brotherly love only when it was indicated by strict duty, where it could not be withheld without sin, they would have fulfilled the law of brotherly love in only the minimum of cases.
 
 A person who never goes beyond the strict letter of the law is still a long way from essential perfection.
 
