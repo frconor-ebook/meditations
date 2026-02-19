@@ -11,19 +11,19 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"Then Jesus was led by the Spirit into the desert to be tempted by the devil. And when he had fasted forty days and forty nights, afterwards he was hungry. And the tempter, coming, said to him: 'If you be the Son of God, command that these stones be made bread.' He answered and said: 'It is written: not in bread alone does man live, but in every word that proceeds from the mouth of God'" (Matt. 4:1-4).
+"Then Jesus was led by the Spirit into the desert, to be tempted by the devil. And when he had fasted forty days and forty nights, afterwards he was hungry. And the tempter coming said to him: 'If you be the Son of God, command that these stones be made bread.' He answered and said: 'It is written: not in bread alone does man live, but in every word that proceeds from the mouth of God'" (Matt. 4:1-4).
 
 We find the devil mentioned very strongly in this particular moment of the Gospel.
 
 Some people tend to laugh at the very suggestion of the existence of the devil, but his presence in Scripture and in the *Catechism of the Catholic Church* is very clear. Often, it's his most powerful weapon that people ignore him, and so he acts like a thief. But he exists and he tempted Christ.
 
-He is the enemy of our redemption. He tempted and made our first parents sin. He disobeyed God and is eager to get man to do the same. He\'s envious of the relationship between man and God and seeks to destroy it. Our Lord talks a lot about him, and so we can't ignore him.
+He is the enemy of our redemption. He tempted and made our first parents sin. He disobeyed God and is eager to get man to do the same. He's envious of the relationship between man and God and seeks to destroy it. Our Lord talks a lot about him, and so we can't ignore him.
 
-We have a lot of faith in God. It's good also that we have faith in the devil. But the fact that he tempts us and bothers us on a daily basis doesn\'t mean that we need to lose our peace, because we count on the help of Our Father God.
+We have a lot of faith in God. It's good also that we have faith in the devil. But the fact that he tempts us and bothers us on a daily basis doesn't mean that we need to lose our peace, because we count on the help of Our Father God.
 
-We can always be positive in our fight. We need not look on temptation as a burden. Our Lord Himself underwent temptation.
+We can always be positive in our fight. We need not look on temptation as a burden. Our Lord Himself underwent temptation. We overcome temptation. We don't undergo temptation.
 
-We overcome temptation. We don't undergo temptation. We can also count on the fact that in the face of temptation we are never alone. We have the Communion of Saints.
+We can also count on the fact that in the face of temptation we are never alone. We have the Communion of Saints.
 
 Our Lord wants us in these moments to acknowledge our humility, our weakness, and to run with more intensity to prayer and flee from the occasions; at the same time, counting on them, because they are part of the way to sanctity.
 
@@ -39,73 +39,73 @@ There are many times in Scripture where the benefit of temptation is mentioned.
 
 "Blessed is the person," also says St. James, "that endures temptation; for when he has been proven he shall receive the crown of life" (James 1:12). Temptation is a pathway to glory and to victory.
 
-St. Paul says, \"He that thinks himself strong enough to stand, let him take heed lest he fall" (1 Cor. 10:12).
+St. Paul says, "He that thinks himself strong enough to stand, let him take heed lest he fall" (1 Cor. 10:12).
 
-"God is faithful," says St. Paul, "who will not suffer you to be tempted above what you\'re able; but will with the temptation also make a way to escape, that you may be able to bear it" (1 Cor. 10:13).
+"God is faithful," says St. Paul, "who will not suffer you to be tempted above what you're able; but will with the temptation also make a way to escape, that you may be able to bear it" (1 Cor. 10:13).
 
-The devil is the father of lies. Lying is behaving like a child of Satan.
+The devil is the father of lies (John 8:44). Lying is behaving like a child of Satan.
 
-But when we realize that we've invited the devil into our house or that he\'s cornered us in his cave, our response has to be to run back to God with an act of contrition. Those acts of contrition can be a constant in our life.
+But when we realize that we've invited the devil into our house or that he's cornered us in his cave, our response has to be to run back to God with an act of contrition. Those acts of contrition can be a constant in our life.
 
 Did Jesus need to be tempted? Could He be tempted?
 
-In some ways He didn't need to be tempted. He was the God-man. But by allowing Himself to be tempted by the devil, He instructs us how to overcome those temptations.
+In some ways He didn't need to be tempted. He was the God-Man. But by allowing Himself to be tempted by the devil, He instructs us how to overcome those temptations.
 
 Tempting means testing: trying to improve something one is not sure about. It involves the possibility that the results may go one way or another.
 
-As God, Jesus could not be tempted, but the devil did not know or was not sure that He was God. It's unlikely that the devil knew about the doctrine of the Blessed Trinity, which was first revealed to Our Lady. As God-man, there\'s no possibility of failing the test. The devil did not know this.
+As God, Jesus could not be tempted, but the devil did not know or was not sure that He was God. It's unlikely that the devil knew about the doctrine of the Blessed Trinity, which was first revealed to Our Lady. As God-Man, there's no possibility of failing the test. The devil did not know this.
 
-Why did the God-man agree to this Himself?
+Why did the God-Man agree to this Himself?
 
 Not to be strengthened, as we might need due to weakness, but it was for our instruction that He allowed Himself to be tempted as we will be tempted and tested. And that testing is not bad; otherwise, He would not have agreed to it. Great benefit can come from that.
 
-St. Padre Pio said if we knew the merit that comes from overcoming temptation, we would welcome temptations. There\'s a great good to be gained from it.
+St. Padre Pio said that if we knew the merit that comes from overcoming temptation, we would welcome temptations (*cf*. Padre Pio, *Epistolario*).
 
-If we are to be like Him, we will go through the same.
+There's a great good to be gained from it. If we are to be like Him, we will go through the same.
 
 If we are trying to lead holy lives, it's very logical that the devil will try to knock us off our perch. We're a big target for him. He wins a great battle if he can bring us down.
 
-Our Lord has come to overcome the devil. The purpose of the Incarnation in some ways was to undo all the evil that the devil had done. St. John says this in his letter: it was "to undo all that the devil has done that the Son of God appeared" (1 John 3:8).
+Our Lord has come to overcome the devil. The purpose of the Incarnation in some ways was to undo all the evil that the devil had done. St. John says this in his Letter: it was "to undo all that the devil has done that the Son of God appeared" (1 John 3:8).
 
-It's appropriate that Christ arranges a meeting with the devil, and duel, so that His overcoming Satan will be a pledge to our future success. It was truly a battle of the giants.
+It's appropriate that Christ arranges a meeting with the devil, a duel, so that His overcoming Satan will be a pledge to our future success. It was truly a battle of the giants.
 
 In the first temptation, we're told that the devil tempted Jesus to eat bread: "Turn these stones into loaves of bread" (Matt. 4:3).
 
-After forty days, Our Lord must have been really hungry, as anyone would be. The devil picks Him out at His weakest moment, and that\'s what he does to us also.
+After forty days, Our Lord must have been really hungry, as anyone would be. The devil picks Him out at His weakest moment, and that's what he does to us also.
 
 Now, the Lord answers him with a phrase from Scripture: "Man does not live on bread alone, but on every word that proceeds from the mouth of God" (Matt. 4:4; Deut. 8:3).
 
 It's a reminder that we are on this journey ourselves, and we also have to rely on the word of God.
 
-Christ doesn\'t reject or disclaim that He\'s hungry, but He raises the matter to a higher level.
+Christ doesn't reject or disclaim that He's hungry, but He raises the matter to a higher level.
 
 We could also remind ourselves that He is truly the Word of God and He is going to give us the Bread of Life, one of the means to overcome all temptation.
 
-Christ gives us the means. He\'s there with us at every moment; He doesn\'t leave us alone with the devil. He\'s going to give us that Eternal Bread.
+Christ gives us the means. He's there with us at every moment; He doesn't leave us alone with the devil. He's going to give us that Eternal Bread.
 
 The first temptation is a temptation to do things for our own advantage only: "turn these stones into bread." Eat. The test is on the passions and the needs of the body. Temptation is to care only for the passing food and forget about the eternal Word.
 
-"Do not labor for the food that perishes, but for that which endures to eternal life" (John 6:27). It's a temptation to rely on one\'s own strength, but happiness of life has an eternal dimension.
+"Do not labor for the food that perishes, but for that which endures to eternal life" (John 6:27). It's a temptation to rely on one's own strength, but happiness of life has an eternal dimension.
 
-There are three stages of temptation. There\'s suggestion, there\'s complacency, and there\'s consent. Mortal sin only exists at the level of consent.
+There are three stages of temptation. There's suggestion, there's complacency, and there's consent. Mortal sin only exists at the level of consent.
 
-It doesn\'t matter how many suggestions we may have on a daily basis---to our purity, to our laziness, to our disorder, to our charity, to our obedience, our vanity, our pride, our selfishness---as long as we try not to consent to them.
+It doesn't matter how many suggestions we may have on a daily basis---to our purity, to our laziness, to our disorder, to our charity, to our obedience, our vanity, our pride, our selfishness---as long as we try not to consent to them.
 
 All the most important people in sacred history have been tempted: Adam, Eve, Abraham, Moses, Peter, and Paul.
 
 By rejecting the temptations of the devil, Our Lord atones for the faults of those who went before Him and those who will come after. His reaction is an example for all the temptations we may have, to greed, to gluttony, to avarice.
 
-He later teaches in the Our Father to ask God to help us with His grace not to fall into temptation: "Lead us not into temptation" (Matt. 6:13).
+He later teaches in the *Our Father* to ask God to help us with His grace not to fall into temptation: "Lead us not into temptation" (Matt. 6:13).
 
-Before beginning His work as Messiah, Our Lord prepares by prayer and fasting. That\'s what the forty days of Lent are all about. The devil makes use of this opportunity. As we begin our mission, we shouldn't be surprised that the devil has a go at us.
+Before beginning His work as Messiah, Our Lord prepares by prayer and fasting. That's what the forty days of Lent are all about. The devil makes use of this opportunity. As we begin our mission, we shouldn't be surprised that the devil has a go at us.
 
-He\'s physically empty. This makes Him vulnerable. He could work a miracle, but it's not part of God\'s plan. He prefers to trust in His Father.
+He's physically empty. This makes Him vulnerable. He could work a miracle, but it's not part of God's plan. He prefers to trust in His Father.
 
 We also learn from this how we have to be careful in moments of vulnerability---when we're low, when we're tired, when we're discouraged.
 
-The devil seems to say to Him: How can you be the Son of God and still be hungry? How can your loving Heavenly Father have allowed you to be hungry? How can He love you and yet permit this contradiction?
+The devil seems to say to Him: How can you be the Son of God and still be hungry? How can your loving heavenly Father have allowed you to be hungry? How can He love you and yet permit this contradiction?
 
-The devil may say the same thing to us in modern parlance: How can you be poor and yet still loved by your Heavenly Father? Or unsuccessful? Or unemployed? Or a failure? Or have cancer? Or be in this concentration camp or this jail?
+The devil may say the same thing to us in modern parlance: How can you be poor and yet still loved by your heavenly Father? Or unsuccessful? Or unemployed? Or a failure? Or have cancer? Or be in this concentration camp or this jail?
 
 Or your child is in jail or has this incurable disease, and God still loves you? How can you be condemned to die with an incurable sickness? Or how can you have failed your driving test and God still loves you?
 
@@ -125,35 +125,35 @@ The way that Our Lord answers the devil teaches us how to deal with temptation. 
 
 And we shouldn't just ask Him for what is exclusively for our own convenience, but rather what will help towards our holiness and that of others.
 
-Jesus says I can be poor and still be loved. I can be loved and still be hungry. I can be blessed and still be empty. I can be precious to God and still unfulfilled.
+Jesus says: I can be poor and still be loved. I can be loved and still be hungry. I can be blessed and still be empty. I can be precious to God and still unfulfilled.
 
-He invites us to look to the Word of God for our fulfillment. "Not in bread alone does man live, but in every word that proceeds from the mouth of God."
+He invites us to look to the Word of God for our fulfillment. "Not in bread alone does man live, but on every word that proceeds from the mouth of God" (Matt. 4:4).
 
 It's an act of trust in Fatherly Providence. God will not let Him die. He led Him to the desert to prepare Him for His mission.
 
-St. Gregory the Great says if we consider how Our Lord let Himself be treated in the Passion, it's not surprising that He let Himself be treated by the devil as he did. It's all preparation for what\'s to come.
+St. Gregory the Great says if we consider how Our Lord let Himself be treated in the Passion, it's not surprising that He let Himself be treated by the devil as He did (*cf*. Gregory I, *Homilies on the Gospels*, Homily 16). It's all a preparation for what's to come.
 
-"Then the devil took him into the holy city and set him upon the pinnacle of the temple and said to him, 'If you are the Son of God, cast yourself down. For it is written: He has given his angels charge over you, and in their hands they will bear you up, lest you dash your foot against the stone.' Jesus said to him, 'It is written again. You shall not tempt the Lord your God'" (Matt. 4:5-7; Deut. 6:16).
+"Then the devil took him into the holy city and set him upon the pinnacle of the temple, and said to him, 'If you are the Son of God, cast yourself down; for it is written: He has given his angels charge over you, and in their hands they will bear you up, lest you dash your foot against the stone.' Jesus said to him, 'It is written again: You shall not tempt the Lord your God'" (Matt. 4:5-7; Deut. 6:16).
 
-In the second temptation, the devil realizes that he hasn\'t won the first time. Now he asks Him to enlist the help of the angels: "He has given his angels charge over you." The devil quotes Sacred Scripture. Interesting.
+In the second temptation, the devil realizes that he hasn't won the first time. Now he asks Him to enlist the help of the angels: "He has given his angels charge over you." The devil quotes Sacred Scripture. Interesting.
 
 The test now is the ego---to show that if one is powerful enough, that He can overcome all.
 
 Christ responds, also quoting Scripture, telling him not to test God.
 
-Every time we think we're powerful enough to overcome an occasion of sin that we put ourselves in, we are testing God: I\'m strong enough to resist the temptation. I can watch this movie. I can look at this picture. I can answer this call. I can meet this person.
+Every time we think we're powerful enough to overcome an occasion of sin that we put ourselves in, we are testing God: 'I'm strong enough to resist the temptation.' 'I can watch this movie.' 'I can look at this picture.' 'I can answer this call.' 'I can meet this person.'
 
 When we can only find out, to our cost to us, we're not as strong as we thought we were.
 
 The Church teaches us to flee from occasions of sin. "If your hand is an occasion of sin to you, cut it off" (*cf*. Matt. 5:30).
 
-Christ is very radical. He doesn\'t say take one long, last, lingering, loving look at your hand, and then kiss your hand goodbye, and make sure that your hand feels very good about it. Christ said, "cut it off."
+Christ is very radical. He doesn't say take one long, last, lingering, loving look at your hand, and then kiss your hand goodbye, and make sure that your hand feels very good about it. Christ said, "Cut it off."
 
 We can ask Our Lord for the fortitude to cut the temptations, to distance ourselves from the occasions of sin, the subtle ways in which the devil comes to us.
 
-When he says to us: Don't worry, you\'re strong; you\'re a child of God; nothing will happen; so many of your friends have done the same; you\'re a good Christian of proven virtue; surely there\'s no sin in entertaining yourself---God is there to help us.
+When he says to us: Don't worry, you're strong; you're a child of God; nothing will happen; so many of your friends have done the same; you're a good Christian of proven virtue; surely there's no sin in entertaining yourself---God is there to help us. By the way, in case you forget, He has even sent His angel.
 
-By the way, in case you forget, He has even sent His angel. We have an angel to take care of us. He needs to occupy himself a little bit with our care. The devil says let him do the necessary.
+We have an angel to take care of us. He needs to occupy himself a little bit with our care. The devil says let him do the necessary.
 
 The devil says, "He will send his angel so that you don't get hurt" (*cf*. Matt. 4:6). But over and above all this, Our Lord says, "You should not tempt the Lord your God" (Matt. 4:7; Deut. 6:16).
 
@@ -161,13 +161,13 @@ We can fly to the care of the angels for our help in moments of temptation. The 
 
 Or the *Memorare* prayer to Our Lady when we feel things are getting hot. It's a very good prayer to teach your children to make them aware of the devil, and to see how we shouldn't be asking Our Lord for extraordinary help, when He wants us to avoid the occasions of sin ourselves---to see where the devil may be lurking, to see where the dangers are, to be clever. "The prudent of this world must be children of the light, not children of darkness" (Luke 16:8).
 
-We know that God will help us when there\'s no other way, but God is not a remedy for our laziness or our refusal to try.
+We know that God will help us when there's no other way, but God is not a remedy for our laziness or our refusal to try.
 
-The whole of Lent reminds us of the importance of struggle. The Old Testament says, \"The life of man on earth is a struggle" (*cf*. Job 7:1). God wants us to struggle like He struggled on the way to Calvary. He fell down three times but He got up again.
+The whole of Lent reminds us of the importance of struggle. The Old Testament says, "The life of man on earth is a struggle" (*cf*. Job 7:1). God wants us to struggle like He struggled on the way to Calvary. He fell down three times, but He got up again.
 
 In this temptation the devil quotes Scripture. He sets himself up as an interpreter of Scripture. It's a reminder to us to reject any interpretation of Scripture that is not in keeping with the teaching of the Church, stressing certain passages to the exclusion of others.
 
-The Magisterium of the Church, guided by the Holy Spirit, is the one divine interpreter of Sacred Scripture. "All power in heaven and on earth has been given to me. Go you therefore, teach all nations" (Matt. 28:18-19). It's the teaching power of the Church, guided by the Holy Spirit, that gives us the truth that is in Scripture.
+The Magisterium of the Church, guided by the Holy Spirit, is the one divine interpreter of Sacred Scripture. "All power in heaven and on earth has been given to me. Go you, therefore, teach all nations" (Matt. 28:18-19). It's the teaching power of the Church, guided by the Holy Spirit, that gives us the truth that is in Scripture.
 
 The second temptation is temptation to the spectacular, the extraordinary. "Cast yourself down from the pinnacle of the temple." Throw yourself out into the air. Do this publicity stunt. Anything to draw the crowd. Be like Superman, Batman, Spiderman.
 
@@ -183,43 +183,43 @@ The life of a Christian, when he has faith---when he works, when he rests, when 
 
 Our Lord rejects the \[second\] temptation as He did the first: "You shall not tempt the Lord your God."
 
-To tempt God is the opposite of trusting Him. We shouldn't ask Him for extraordinary help, putting ourselves in dangerous situations: Diving off some cliff into the ocean. Driving when we've taken a drink or two. Dilly-dallying with occasions of sin, with certain movies, or our phone, or people. Things that we know are a danger for us.
+To tempt God is the opposite of trusting Him. We shouldn't ask Him for extraordinary help, putting ourselves in dangerous situations: diving off some cliff into the ocean; driving when we've taken a drink or two; dilly-dallying with occasions of sin, with certain movies, or our phone, or people---things that we know are a danger for us.
 
-We all have different temptations, different weaknesses. One man\'s meat can be another man\'s poison. We have to know what we have to be careful with.
+We all have different temptations, different weaknesses. One man's meat can be another man's poison. We have to know what we have to be careful with.
 
-And then there is the third temptation. "Again, the devil took him up a very high mountain and showed him all the kingdoms of the world and the glory of them, and said to him, 'All these will I give you, if falling down you will adore me.' And Jesus said to him, 'Be gone Satan! For it is written, The Lord your God shall you adore, and him only shall you serve.' Then the devil left him, and behold, angels came and ministered to him" (Matt. 4:8-11).
+And then there is the third temptation. "Again, the devil took him up a very high mountain and showed him all the kingdoms of the world and the glory of them, and said to him, 'All these will I give you, if falling down you will adore me.' And Jesus said to him, 'Be gone, Satan! For it is written: The Lord your God shall you adore, and him only shall you serve.' Then the devil left him; and behold, angels came and ministered to him" (Matt. 4:8-11).
 
 The third temptation is a temptation to possessions, to have power and glory. He "showed him all the kingdoms of the world." It's a temptation to have material things, to social status, to power---temptation to have plenty of dreams of how great it would be to possess the world, or at least half of it.
 
 But the Lord seems to say that happiness does not come from material possessions. It comes from choosing God; at times, choosing the cross, following the pathway of our Christian vocation. Not from doing things that are easy.
 
-We only get momentary happiness from possessions or some material thing. But that is passing and can leave us with a bitter sadness, like that of the rich young man who "went his way sad, because he had great possessions" (Matt. 19:16-22).
+We only get momentary happiness from possessions or some material thing. But that is passing and can leave us with a bitter sadness, like that of the rich young man who "went his way sad, because he had great possessions" (Matt. 19:16-22). He clung to his riches.
 
-He clung to his riches. He could have been an apostle. He could have been one of the great instruments that Our Lord used to build His Church, but he did not want.
+He could have been an apostle. He could have been one of the great instruments that Our Lord used to build His Church, but he did not want.
 
 Our Lord invites us to let our dreams be on what is necessary to lead a decent life. "Do not labor for the food that perishes, but for that which endures to eternal life" (John 6:27). The rest is from the evil one.
 
 Don't just focus on desiring riches, or success, or money, or power, or glory. Don't be like people who actually adore Satan in his many forms.
 
-Sometimes the devil keeps his word. He gives them riches. He provokes Christ to take on the role of an earthly Messiah, a pseudo-Messiah. Identify yourself with the world. Do what is popular. Worship me for I am its prince.
+Sometimes the devil keeps his word. He gives them riches. He provokes Christ to take on the role of an earthly Messiah, a pseudo-Messiah: Identify yourself with the world. Do what is popular. Worship me for I am its prince.
 
 St. Paul says, "Do not conform your mind to the ways of this world" (Rom. 12:2).
 
 Christ invites us to be different---at times to clash with our environment, to stick our neck out. To be a leader. To be a conscientious objector, if necessary. To be different to everybody else.
 
-There was a Dutch missionary priest in Singapore who used to tell newly baptized adults in his parish every year---there were sixty of them---"Now that you\'re Catholics you have to be different. You can't be the same as everybody else, because we've come to change this world. A Christian has to stand out."
+There was a Dutch missionary priest in Singapore who used to tell newly baptized adults in his parish every year---there were sixty of them---"Now that you're Catholics you have to be different. You can't be the same as everybody else, because we've come to change this world. A Christian has to stand out."
 
-The devil says to the apostle, don't be unpopular. Don't be different to your colleagues. Don't clash with your environment. Take it easy.
+The devil says to the apostle: Don't be unpopular. Don't be different from your colleagues. Don't clash with your environment. Take it easy.
 
 It's a temptation to reduce the God-given transcendental mission to a purely human and political one. It's a reminder to the Church and to each one to remain faithful to its God-given mission in the world.
 
 Fulton Sheen used to say, "Whoever marries the spirit of the world in this generation becomes a widow in the next" (Fulton J. Sheen, *Sermon*, September 22, 1940).
 
-Our Lord replies: "Be gone, Satan! For it is written, the Lord your God you shall adore and him only shall you serve" (Matt. 4:10; Deut. 6:13). There\'s an uncompromising rejection of an earthly messianism. Our Lord rejects all human glory.
+Our Lord replies: "Be gone, Satan! For it is written, the Lord your God you shall adore and him only shall you serve" (Matt. 4:10; Deut. 6:13). There's an uncompromising rejection of an earthly messianism. Our Lord rejects all human glory.
 
-We're reminded too that although God had the right to be treated as a God, He took the form of a slave. He emptied Himself (Phil. 2:7).
+We're reminded too that although God had the right to be treated as a God, He took the form of a slave. "He emptied himself" (Phil. 2:7).
 
-We can learn from the attitude of Jesus in these trials. The absence of earthly glory and the blessings of God are not incompatible. If we struggle constantly, we\'ll attain victory.
+We can learn from the attitude of Jesus in these trials. The absence of earthly glory and the blessings of God are not incompatible. If we struggle constantly, we'll attain victory.
 
 We're told that "the devil left him and behold, angels came and ministered to him." Nobody is crowned without having first conquered. The coming of the angels teaches us the interior joy given by God to the person who fights energetically.
 
@@ -227,9 +227,9 @@ Our guardian angels are powerful defenders against temptations. Teach your child
 
 It is the temptation to identify fidelity to God with success in the eyes of the world. It's difficult to believe that we're special and loved by God even when we're hungry or empty or unfulfilled; when we're not successful in the eyes of the world.
 
-"We\'re not tempted because we're evil, but because we're human. There's nothing intrinsically evil about human nature just because the devil knocks at the door. Evil begins when we open the door and consent to the temptation. Scripture praises the man who suffers temptations." Job went through many temptations. "When we resist temptation, we strengthen our character" (Fulton J. Sheen, *Life Is Worth Living).*
+"We're not tempted because we're evil, but because we're human. There's nothing intrinsically evil about human nature just because the devil knocks at the door. Evil begins when we open the door and consent to the temptation. Scripture praises the man who suffers temptations." Job went through many temptations. "When we resist temptation, we strengthen our character" (Fulton J. Sheen, *Life Is Worth Living).*
 
-We need to be careful with temptations so that we don't fall away from our ideals---the ideals of holiness, of our vocation; the ideals of our apostolate. We've come to change the world.
+We need to be careful with temptations so that we don't fall away from our ideals---the ideals of holiness, of our vocation, the ideals of our apostolate. We've come to change the world.
 
 Sometimes we could thank Our Lord for the temptations that He permits in our life. Helps us to know our weaknesses, where we need to struggle.
 
@@ -237,7 +237,7 @@ Our Lord allowed Himself to be tempted, so we can't be surprised if we're tempte
 
 St. Paul says to Timothy: "He is not crowned, except he who strives lawfully" (2 Tim. 2:5). "Blessed is the person who endures temptation, for when he has been proven, he will receive the crown of life" (James 1:12).
 
-Tried in temptation, virtue grows and increases in firmness.
+Tried in temptation, virtue grows and increases in firmness (*cf*. Leo I, *Sermon 39*).
 
 We know that Our Lady "crushed the head of the serpent" (Gen. 3:15). In moments of temptation, we can turn to Our Mother and ask her for all the strength that we need, to ask her for the help to realize that every urge, every craving is not necessarily a worthy one.
 
@@ -247,7 +247,7 @@ Even our body and mind seem to fight as we deprive it of the fuel it hungers for
 
 Mary, help me to see where my weaknesses lie, and to be wise and prudent to use that information to my best advantage.
 
-The good news is that the more we say no to temptation and ungodly desires, the more we actually strengthen those weak spots. God doesn\'t want us to run and hide from temptation, but to face it head on so that we may clearly see the potential pit before us.
+The good news is that the more we say no to temptation and ungodly desires, the more we actually strengthen those weak spots. God doesn't want us to run and hide from temptation, but to face it head on so that we may clearly see the potential pit before us.
 
 Mary, help us to confess our sins, to admit our weaknesses, and to ask God for the strength and the wisdom we need to stand against all evil.
 
