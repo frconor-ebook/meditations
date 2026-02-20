@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- FOUC Prevention: Apply theme and text size before page renders -->
+    <script>
+        (function() {
+            // Apply theme
+            const theme = localStorage.getItem('theme-preference') ||
+                (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', theme);
+            // Apply text size
+            const textSize = localStorage.getItem('text-size-preference');
+            if (textSize === 'large') {
+                document.documentElement.setAttribute('data-text-size', 'large');
+            }
+        })();
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fr. Conor Donnelly Meditations | The First Martyrs of the Church of Rome</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/meditations/assets/css/style.css">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0BXLC35GR"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-S0BXLC35GR');
+    </script>
+
+
+
+</head>
+<body data-baseurl="/meditations">
+    <header>
+    <nav>
+        <div class="logo">
+            <a href="/meditations/"><img src="/meditations/assets/images/logo-circ.png" alt="Fr. Conor Meditations Logo"></a>
+        </div>
+        <div class="nav-links">
+            <a href="/meditations/" >Home</a>
+            <a href="/meditations/team" >Team</a>
+            <a href="/meditations/connect" >Connect</a>
+        </div>
+        <!-- Header Controls (Theme + Text Size) -->
+        <div class="header-controls">
+            <!-- Theme Toggle Button -->
+            <button
+                class="theme-toggle"
+                id="theme-toggle"
+                aria-label="Toggle dark mode"
+                title="Toggle dark mode">
+                <svg id="theme-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <!-- Sun icon (shown in dark mode) -->
+                    <path class="sun" d="M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12zM11 1h2v3h-2V1zm0 19h2v3h-2v-3zM3.515 4.929l1.414-1.414L7.05 5.636 5.636 7.05 3.515 4.93zM16.95 18.364l1.414-1.414 2.121 2.121-1.414 1.414-2.121-2.121zm2.121-14.85l1.414 1.415-2.121 2.121-1.414-1.414 2.121-2.121zM5.636 16.95l1.414 1.414-2.121 2.121-1.414-1.414 2.121-2.121zM23 11v2h-3v-2h3zM4 11v2H1v-2h3z"/>
+                    <!-- Moon icon (shown in light mode) -->
+                    <path class="moon" d="M17.293 13.293A8 8 0 0 1 6.707 2.707a8.001 8.001 0 1 0 10.586 10.586z"/>
+                </svg>
+            </button>
+            <!-- Text Size Toggle Buttons -->
+            <div class="text-size-toggle" role="group" aria-label="Text size controls">
+                <button id="text-size-normal" class="active" aria-label="Normal text size" title="Normal text size">A</button>
+                <button id="text-size-large" aria-label="Large text size" title="Large text size">A+</button>
+            </div>
+            <!-- Meditation Counter Badge -->
+            <button id="counter-badge" class="counter-badge" aria-label="View reading history" title="View reading history">
+                <span id="counter-number">0</span> read
+            </button>
+        </div>
+    </nav>
+</header>
+
+    <main>
+        <article>
+    <h1>The First Martyrs of the Church of Rome</h1>
+    <p>By Fr. Conor Donnelly</p>
+
+<p><em>(Proofread)</em></p>
+
+<p><em>In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</em></p>
+
+<p><em>My Lord and my God, I firmly believe that you are here. That you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My immaculate mother, Saint Joseph, my father and lord, my guardian angel intercede for me.</em></p>
+
+<p>After Jerusalem and Antioch, Rome was the most important early Christian nucleus. Many Christians came from the Jewish colony existing in Rome. The majority came over from paganism. Today we commemorate the Christians who underwent the first persecution against the church under the emperor Nero, after the destruction of Rome by fire.</p>
+
+<p>The Christian faith had reached Rome very quickly, which was at that time the center of the civilized world. Perhaps the first Christians in the capital of the empire were converted Jews who had come across the faith in Jerusalem itself or in some cities of Asia Minor that had been evangelized by Saint Paul. The faith was passed on from friend to friend, between workmates and relatives. The arrival of Saint Peter in about the year 43 brought about a perceptible strengthening of the little Christian community that was there. From Rome, the new religion spread to many parts of the empire.</p>
+
+<p>The internal peace enjoyed by the imperial world at that time, the improvements in communications that facilitated travel and the rapid transmission of ideas and news, all this favored the spreading of Christianity. The Roman roads that began in the city, the great city itself, reached the most remote corners of the empire. The commercial fleets that regularly crossed the waters of the Mediterranean all helped to spread the new Christian religion throughout the length and breadth of the Roman world.</p>
+
+<p>It’s difficult to describe the process of conversion, the sequence of experience that affected each person who embraced Christianity in first century Rome, just as it is now. Because each conversion is always a miracle of grace and of personal correspondence with God’s gift of it.</p>
+
+<p>There’s no doubt that a decisive influence was the good example given by the Christians. What Saint Paul calls the bonus odor Christi, the good odor of Christ, which had its repercussions in the way they worked, in their joy, their charity, and their understanding for everyone. In the austerity of their lives, and in their human likableness.</p>
+
+<p>They were men and women who tried to live their faith fully in the midst of their ordinary activities. They were now to be found in all levels of society. Daniel was young and Joseph a slave. Aquila wrought a craft. The woman who sold purple dyestuffs supervised a busy workshop. Another was a prison governor. Another a centurion like Cornelius. Saint John Chrysostom says another was in ill health like Timothy. Another was a runaway from slavery like Onesimus. Nothing proved a hindrance to any of these, but all were joyously welcomed and accepted. Both men and women, both young and old, both slaves and free men, both soldiers and civilian citizens alike.</p>
+
+<p>The Acts of the Apostles has left us a delightful account of the hospitality shown by the Christians in Rome. They tell of the welcome given to Paul when he was brought as a prisoner to the capital. The brethren there, Saint Luke informs us, “when they heard of this, came as far as the Forum of Appius and the Three Taverns to meet us. On seeing them, Paul thanked God and took courage” (Acts 28:15). Paul felt strengthened by these demonstrations of fraternal charity.</p>
+
+<p>The first Christians did not give up their professional or social activities. Some people were to do so, with a specific call from God, rather more than two centuries later. With their lives and their words, they considered themselves very much part of this world. Of which they were convinced they were destined to be salt and light. An early Christian writer summed up saying Christians are to the world what the soul is to the body.</p>
+
+<p>We can examine ourselves today to see whether like those first Christians, we too give a good example to the extent that we do in fact move others to come closer to Christ. Do we edify others by our sobriety? By the way we spend money? By our unquenchable cheerfulness? By doing our work well? By keeping our word? By the way we live justice at work with our subordinates and our peers? By carrying out works of mercy, and by never having a bad word to say about anybody at all?</p>
+
+<p>The first Christians often came up against serious obstacles and misunderstandings, which in not a few cases led to their death for defending their faith in the Master. Today on this feast we celebrate the testimony of the first Roman martyrs. Their execution was the result of the burning of Rome in the year 64. This catastrophe provided the excuse for the first great persecution. To Saint Peter and Paul, whose feast we celebrated yesterday, were added a great number of chosen ones, “who having gone under many sufferings and torments out of envy, were the best models among us,” says Saint Clement of Rome. We read this in a vivid account to be found among the earliest Christian writings.</p>
+
+<p>The obstacles and misunderstandings encountered by those who had been converted did not inevitably lead them to martyrdom. But they often experienced in their lives what the words of the Holy Spirit warn us in scripture. Indeed, says Saint Paul to Timothy, “All who desire to live a godly life in Christ Jesus will be persecuted” (2 Tim. 3:12). Sometimes the pagans’ antagonism to the followers of Christ arose because they could not bear the rich fruitfulness and splendor of devotion in the Christian daily life. At other times it arose because those who had received the faith had the duty of abstaining from the traditional religious ceremonial which was closely bound up with public life, and was even considered a test of loyalty, an open and formal proof of civic faithfulness to Rome and to the emperor.</p>
+
+<p>Consequently, the pagans who embraced Christianity laid themselves open to misunderstandings and slanderous attacks for not conforming, for not being like the others. It’s unlikely that God will ask us to shed our blood in order to confess the Christian faith. Although if God were to allow such a trial we would ask him for the grace to enable us to give our lives in testimony of our love for him. We will however, in one way or another, meet all kinds of adversity. For being with Jesus means we shall most certainly come upon his cross.</p>
+
+<p>“When we abandon ourselves into God’s hands, he frequently permits us to taste sorrow, loneliness, opposition, slander, defamation, ridicule, coming from both within and from outside the Church,” Saint Josemaría wrote in <em>Friends of God</em>. “This is because he wants to mold and form us into his own image and likeness. He even tolerates our being called lunatics and allows us, if we will, to be taken for fools. This is the way Jesus fashions the souls of those he loves. While at the same time never failing to give them inner calm and joy.”</p>
+
+<p>Slander, perhaps seeing doors to promotion closed against us at work, friends or workmates who turn their backs on us, sarcastic remarks or derogatory words. If God allows them, we have to try and make use of such contradictions in order to live charity in a more heroic way. Precisely with those very people who do not have any respect for us. Perhaps out of inculpable ignorance. Our attitude can always include a just defense when necessary, especially when we have to avoid the possibility of scandal, or of injury being caused to third persons. Such situations will be a great help in enabling us to cleanse ourselves of our own sins and faults, to make reparation for those of others, to ask pardon for the offense that is made against God by them. And finally, to grow in virtue and in love of God.</p>
+
+<p>God sometimes wants to purify us like gold in the crucible. Saint Jerome Emiliano said fire cleans gold from the dross, freeing it from impurities and greatly enhancing its value. God does the same with the good servant, who hopes and who remains constant in the midst of tribulation. If contradictions lie in our way and troubles beset us because we follow Jesus closely, we have then to be especially cheerful and give thanks to God. It makes us worthy to suffer something for him, as the apostles did. We’re told in the Acts of the Apostles, “Then they left the presence of the council, rejoicing that they were counted worthy to suffer dishonor for the name” (Acts 5:41).</p>
+
+<p>The apostles would doubtless have remembered the words of the Master, just as we meditate on them today during this feast of the first Roman martyrs. We are told in Saint Matthew, “Blessed are you when men revile you, and persecute you, and utter all kinds of evil against you falsely on my account. Rejoice and be glad, for your reward is great in heaven, for so men persecuted the prophets who went before you” (Matt. 5:11–12).</p>
+
+<p>In spite of all ill-considered slander, infamy itself, and outbreaks of persecution, our first brothers in the faith did not fail to carry out an effective apostolate. They did not fail to tell people about Christ. The treasure they themselves had had the good fortune to find. Moreover, their calm and joyful bearing in the face of adversity, and even of death, was the very reason why many came to know the Master.</p>
+
+<p>Tertullian says the deaths of the martyrs were the seeds of Christians. The Roman community itself, after so many men, women and children had given their lives in the course of that terrible persecution, went forward invigorated and strengthened. Years later, Tertullian wrote, “We are of but yesterday, and already we have filled the world and all your things. Cities, islands, towns, villages, hamlets, the army, the palace, the senate, the forum. We have left you only the temples.”</p>
+
+<p>In our own sphere, in our present circumstances, if we perhaps encounter some slight difficulty to our remaining firm in the faith, we should understand that from this particular spot of bother will come a great good for all. It is at such times that we have most reason, and most need to speak with serenity about the wonder of the faith. About the immense gift of the sacraments. About the beauty of the fruits of living holy purity well. We should understand that we have elected to be on the winning side in the combat of this life, and also in that other glorious life that awaits us shortly.</p>
+
+<p>Nothing compares with being close to Christ. Even if we had no possessions at all and had to suffer the painful illnesses of the most vile slander, so long as we possess Jesus, we possess everything. The effect of this realization should be noticeable even in our outward bearing, and in our awareness that we are at every moment, even in such circumstances, the salt of the earth and the light of the world, as the Master has told us. Referring to the philosophers of his day, Saint Justin rightly said that all the good spoken by them belongs to us Christians. Because after God, we adore and love the Word, who proceeds from the unbegotten and ineffable God himself. Indeed, for love of us he became man, so as to share in our sufferings and heal us.</p>
+
+<p>In the opening prayer of the Mass today, we say, “Father you sanctified the church of Rome with the blood of its first martyrs. May we find strength in their courage and rejoice in their triumph.” This world of ours that we have to bring to you Jesus sometimes asks the apostles to listen attentively to his doctrine. At other times he calls them together so that he can be alone with them and explains a parable to them once again. Or shows them what lesson they should draw from something that has happened. He wants them to realize that they are being given a treasure, which is meant for the whole church, and of which later they will have to give an account.</p>
+
+<p>“Take heed,” he says to them on one occasion. And he gives them the lesson. “To him who has will more be given, and from him who has not, even what he has will be taken away” (Mark 4:24–25). Saint John Chrysostom comments, to him who is diligent and fervent, will be given all the things that depend on God. But to him who has no love or fervor, and does not do what depends on him, what belongs to God will not be given him. For even what he thinks he has will be taken away. Not because God takes it away from him, but because he is incapable of receiving such graces.</p>
+
+<p>“To him who has will more be given.” This is a basic teaching, says Saint Augustine, for the interior life of every Christian. To him who corresponds with grace, more grace will be given, so that he will have still more grace. But he who fails to make the inspirations, motions, and help of the Holy Spirit bear fruit will become even poorer. Those men who traded with their talents entrusted to them received a greater fortune or reward. But the man who hid his talent in the ground lost it.</p>
+
+<p>Interior life, like love, is destined to grow. “If you say enough,” says Saint Augustine, “you are already dead.” Interior life always demands progress, correspondence, being ready to receive new graces. If you don’t go forward, you go backwards. God has promised that we will always have access to all the help we need at every moment. We’ll be able to say with the psalmist, “The Lord takes care for me” (Ps. 40:17). The difficulties, temptations, internal or external obstacles we come up against all cause us to grow. The greater the difficulty, the more the grace we receive.</p>
+
+<p>If he permits us to experience great temptations or setbacks, he will give us proportionately still greater help to overcome them. Then all those things that seem to retard our struggle for holiness or even make succeeding in it seem impossible, will become the cause of spiritual progress and of our effectiveness in the apostolate. Saint Augustine says it’s only a lack of love, nothing less than lukewarmness, that causes the soul’s life to fall sick or die. Only a bad will, a lack of generosity towards God, can delay or prevent our union with him.</p>
+
+<p>The vessel of faith carried to the fountain is filled according to its capacity. Christ is an inexhaustible source of help, of love, and of understanding. We can ask ourselves and examine ourselves with what capacity, with what longing do we approach him. Lord, we say to him in our prayer, make us thirst for you more and more, as the first Christians did. Make me thirst for you even more intensely than the man dying in the desert thirsts for water.</p>
+
+<p>There are various reasons that can cause us to make scant progress in our interior life, and even to lose ground and give way to discouragement. But these reasons can be reduced to just a few. Carelessness, negligence in little things connected with service to God and friendship with him. Drawing back from the sacrifices that he asks of us. All we have to do, all we have to offer to God each day, are our little acts of faith and love. Petitions, acts of thanksgiving, thanksgiving after Mass, visit to the Blessed Sacrament and being aware that we’re going to meet Jesus Christ himself who is waiting for us. Our customary prayers throughout the day.</p>
+
+<p>Human life is in some way a constant returning to the Father’s house. We return to our Father’s house by means of the sacrament of penance. In <em>Christ is Passing By</em>, we’re told God is waiting for us like the father in the parable, with open arms, even though we don’t deserve it. It doesn’t matter how great our debt is. Just like the prodigal son, all we have to do is open our heart, to be homesick for our Father’s house. To wonder at and rejoice in the gift which God makes us of being able to call ourselves his children, of really being his children, even though our response to him has been so poor.</p>
+
+<p>God never abandons us. He always welcomes us, comforts us, and moves us to start again with more love, with more humility. Our weaknesses help us to seek for divine mercy and be humble. Growth in the virtue of humility means we’re able to make many steps forward in the interior life. All the virtues benefit from our being more humble. If at times we find we fail to correspond with all the graces we’ve received, if we have not been as faithful to God as he was expecting us to be, we must turn contritely to him with a contrite heart.</p>
+
+<p>The Psalms say “Create a clean heart in me O God, and put a new and right spirit within me” (Ps. 51:10). We should often think of those things which, although they’re small, separate us from God. Then we will be moved to sorrow and contrition and be brought closer to him. In this way, our interior life emerges enriched, not only by our contending with exterior obstacles, but also by the recognition of our weakness, our mistakes, and our sins, drawing back from the sacrifices that he asks of us.</p>
+
+<p>If we find it more difficult to begin again, our mother is always there to help us. She makes the way that leads to her son easier. We can ask her to help us with many acts of contrition. It’s interesting how the first Christians of Rome had great devotion to Our Lady, and in many streets of Rome you find a large image of Our Lady built into the building structure itself. We might find it helpful to repeat the prayer of the tax collector, “God be merciful to me a sinner” (Luke 18:13), or the prayer of King David, “A humble and contrite heart O Lord, you will not spurn” (Ps. 51:17).</p>
+
+<p>Love grows within us and develops in the midst of our setbacks and the resistance each of us puts to that love on the inside. It also grows and develops in the face of resistance from the outside. That is, despite the many external forces that are foreign and even hostile to it. Our Lord has promised us that the help of his grace will never fail us. It all depends on our correspondence and our determination, and our willingness to start time and again without getting discouraged. The more faithful we are to grace, the more help he gives us, the easier we will find it to follow the way.</p>
+
+<p>We’ll also find that more is being demanded of us and even greater finesse in our soul. Love always calls for more love. This interior life of ours is given a special chance to grow when we’re confronted with those adverse situations. For the soul, there is no obstacle greater than that which is created by our own wretchedness, and as a result of our carelessness and lack of love. But in those circumstances, says Saint Francis de Sales, the Holy Spirit teaches us and moves us to react in a supernatural way, with an act of contrition. God be merciful to me a sinner.</p>
+
+<p>Saint Francis de Sales teaches us that we should feel ourselves strengthened by the silent saying of aspiratory prayers filled with love and sorrow, and desires for a deeper reconciliation, so that through them we may come to trust in his merciful heart. Acts of contrition are an effective means of spiritual progress. To ask for forgiveness is to love. It is to contemplate Christ the growing dispositions of understanding and mercy. As we are sinners, our way will be filled with acts of sorrow, of love that fill our soul with hope and renew our longing to set off again on the way to sanctity.</p>
+
+<p>We need to return to Christ time and again without becoming discouraged or overworried. Although there may be many times when we have not responded well to love. God’s mercy is infinite and encourages us to start out again with a new determination, with renewed hope. We must be like the prodigal son. Instead of remaining far away in a foreign land, filled with shame and living in misery, he came to his senses and said “I will arise and go to my father” (Luke 15:18).</p>
+
+<p>Let us ask Our Lord that our interior life would be nourished by the little things that we carry out with love and attention. Saint Josemaría wrote, to claim anything else would be to mistake our way. To find nothing or very little to offer to God. It’s good to remember how we find in <em>Christ is Passing By</em> the story of that character imagined by a French author, who set out to hunt lions in the corridors of his home. Naturally he didn’t find any. Our life is quite ordinary. Trying to serve God in big things would be like trying to hunt lions in the corridor. Just like the huntsman in the story, we would end up empty-handed.</p>
+
+<p>Let us try to learn today from the example of the early Christians. We can ask Our Lady, our mother in the order of grace, mother of mercy and of forgiveness, to always enkindle in us the hope of attaining the ambitious target of becoming saints. May we place the fruits of these moments of personal prayer in your hands, with the conviction that if we correspond to grace, still more grace will be given to us.</p>
+
+<p><em>I thank you my God for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My immaculate mother, Saint Joseph, my father and lord, my guardian angel intercede for me.</em></p>
+
+<p><em>In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</em></p>
+
+<p><em>EW</em></p>
+
+</article>
+    </main>
+
+    <footer>
+    <div class="footer-content">
+        <div class="footer-social">
+            <a href="https://whatsapp.com/channel/0029Vb2pjJyGufJ2mE4xvv2F" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Channel">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            </a>
+            <a href="mailto:frconor.ebook@gmail.com" aria-label="Email">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z"/><path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z"/></svg>
+            </a>
+        </div>
+        <p>&copy; 2026 FCD</p>
+    </div>
+</footer>
+
+    <!-- Scroll to Top Button -->
+    <button class="scroll-top" id="scroll-top" aria-label="Scroll to top" title="Back to top">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 15 12 9 6 15"></polyline>
+        </svg>
+    </button>
+
+    <!-- Reading List Modal -->
+    <div id="reading-list-modal" class="modal-overlay" aria-hidden="true" role="dialog" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Your Reading History</h2>
+                <button id="modal-close" class="modal-close" aria-label="Close modal">&times;</button>
+            </div>
+            <div id="reading-list-content" class="modal-body">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/meditations/assets/js/search.js?v=1771578027"></script>
+    <script src="/meditations/assets/js/theme-toggle.js"></script>
+    <script src="/meditations/assets/js/text-size-toggle.js"></script>
+    <script src="/meditations/assets/js/scroll-top.js"></script>
+    <script src="/meditations/assets/js/meditation-counter.js"></script>
+</body>
+</html>
