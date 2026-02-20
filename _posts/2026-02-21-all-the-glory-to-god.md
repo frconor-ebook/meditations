@@ -13,7 +13,7 @@ By Fr. Conor Donnelly
 
 In the Gospel of St. Matthew, we're told, "Be careful not to parade your uprightness in public to attract attention; otherwise you will lose all reward from your Father in heaven. So when you give alms, do not have it trumpeted before you; this is what the hypocrites do in the synagogues and in the streets to win admiration. In truth I tell you, they have had their reward.
 
-"But when you give alms, your left hand must not know what your right hand is doing; your almsgiving must be in secret, and your Father who sees all that is done in secret will reward you" (Matt. 6:1--4).
+"But when you give alms, your left hand must not know what your right hand is doing; your almsgiving must be in secret, and your Father who sees all that is done in secret will reward you" (Matt. 6:1-4).
 
 In this passage of the Gospel, Our Lord talks to us about the supernatural goal of everything we do, seeing that that supernatural intention is the only really worthwhile intention to have.
 
@@ -21,15 +21,15 @@ We have to try and declare war on our love of self, when perhaps the desire to b
 
 "The weather pays no attention to criticism." Meaning will never be found in the praise and adulation of others.
 
-Malcolm Muggeridge liked to say that it often happens that the real reason for doing something only emerges after it has been done. Altruism can hide a lot of pride. Conscience and conscious intent can be but the tip of the iceberg of unconscious intent.
+Malcolm Muggeridge liked to say that it often happens that the real reason for doing something only emerges after it has been done (Malcolm Muggeridge, *The Third Testament*). Altruism can hide a lot of pride. Conscience and conscious intent can be but the tip of the iceberg of unconscious intent.
 
 After we've done something which we think has been done for very altruistic reasons, when the truth has to be told, we may realize a few hours or days later that yes, it was done thinking of others, but perhaps only 30 percent thinking of others; 70 percent may have been because there was 'something in it for me.'
 
 We could ask Our Lord for lights to see when we don't have the supernatural goal as clearly as we might. Often, it's in small, subtle things which are difficult to detect.
 
-St. Josemaría says in *The Forge*, "You are like the little pauper who suddenly finds out that you're the child of the King. That is why now the only thing that concerns you on this earth is the glory of your Father God, his glory in everything (Josemaría Escrivá, *The Forge*, Point 334).
+St. Josemaría says in *The Forge*, "You are like the little pauper who suddenly finds out that you're the child of the King. That is why now the only thing that concerns you on this earth is the glory of your Father God, his glory in everything" (Josemaría Escrivá, *The Forge*, Point 334).
 
-God's love is manifested in the gifts that are given to us. St. Paul says, "I do not cease to give thanks for you...that the God of Our Lord Jesus Christ, the Father of glory, may give you the Spirit of wisdom and of revelation in the knowledge of him" (Eph. 1:16--17).
+God's love is manifested in the gifts that are given to us. St. Paul says, "I do not cease to give thanks for you...that the God of Our Lord Jesus Christ, the Father of glory, may give you the Spirit of wisdom and of revelation in the knowledge of him" (Eph. 1:16-17).
 
 The intention with which we do things is one of the most important aspects of the moral act. We have to try and take care of that intention. It can affect very much the actions that we do.
 
@@ -55,7 +55,9 @@ We have to put this right intention into practice when we don't look for recogni
 
 One clear manifestation of the fact that we are trying to give glory to God in all that we do is to struggle to get the norms of our *plan of life* fulfilled every day, even when it's difficult, when there are deadlines, when there are exams, when there's pressure.
 
-Try and give priority to the things of God. Or when we have to put in the extra effort to get our work done on time, or the effort to be punctual for family gatherings. When we're giving glory to God all throughout our day, we give off the good odor of Christ.
+Try and give priority to the things of God.
+
+Or when we have to put in the extra effort to get our work done on time, or the effort to be punctual for family gatherings. When we're giving glory to God all throughout our day, we give off the good odor of Christ.
 
 I was giving a class once in another country and I happened to quote in the class a phrase from St. Paul, who says, "In all that you're doing, in eating and in drinking, give glory to God" (*cf*. 1 Cor. 10:31).
 
@@ -81,7 +83,7 @@ In *The Way*, we're told, "You are ambitious: for knowledge, for leadership, for
 
 In one passage of the Gospel, we're told, "They came to Capernaum, and when he was in the house he asked them, 'What were you discussing on the way?' But they were silent, because on the way they had \[discussed\] with one another about who was the greatest.
 
-"Jesus sat down and called the Twelve. And he said to them, 'If any one of you would be first, he must be last of all and the servant of all.' And he took a child and put him in the midst of them, and taking him in his arms, he said to them, 'Whoever receives one such child in my name receives me, and whoever receives me, receives not me but him who sent me'" (Mark 9:33--37).
+"Jesus sat down and called the Twelve. And he said to them, 'If any one of you would be first, he must be last of all and the servant of all.' And he took a child and put him in the midst of them, and taking him in his arms, he said to them, 'Whoever receives one such child in my name receives me, and whoever receives me, receives not me but him who sent me'" (Mark 9:33-37).
 
 The disciples must have been rather ashamed when Our Lord overheard them arguing about which one of them was the greatest. That appetite for glory and greatness can be inbred in us. We can cherish the ambition to be somebody whom others admire, rather than a nobody.
 
@@ -99,7 +101,7 @@ In all those difficult situations that Our Lord may permit in our life, He wants
 
 "That gesture of Our Lord's elevating a little child in the presence of His disciples is very significant. ... The one who is humble and lowly of heart, who, instead of asserting their rights, willingly empty themselves of pride and self-seeking glory by taking the lowly position of a servant or of a child" (Schwager, *ibid*.)---that's the person that Christ admires.
 
-Jesus Himself is our model. "Though he was by nature God, he did not consider being equal to God a thing to be clung to, but emptied himself, taking the nature of a slave and being made like unto men and appearing in the form of man, he humbled himself, becoming obedient unto death, even unto death on the cross" (Phil. 2:6--8).
+Jesus Himself is our model. "Though he was by nature God, he did not consider being equal to God a thing to be clung to, but emptied himself, taking the nature of a slave and being made like unto men and appearing in the form of man, he humbled himself, becoming obedient unto death, even unto death on the cross" (Phil. 2:6-8).
 
 Our Lord emptied Himself in order to give God all the glory. Often, He passed unnoticed. He shunned praise, disappeared from the people who wanted to make Him King, lowered Himself to take on our lowly nature, that He might raise us up and clothe us with His divine nature. "God opposes the proud but gives his grace to the humble" (James 4:6).
 
@@ -123,9 +125,7 @@ This can apply also to the small ordinary tasks in the house that need to be tak
 
 We give God glory when we make the effort to get the norms of our *plan of life* done. A lady stood up at a get-together with Blessed Álvaro in Dublin many years ago and she said that she had eight children, and she had to do the ironing and the washing and the marketing and the cleaning and everything in the family, a big, long list of things.
 
-Then she asked, "How can I find time in my busy day to fulfill the norms of a *plan of life*?" And Blessed Álvaro said, "The litany of things that you have to do are very many. It's true, you're a very busy person."
-
-"But," he said, "you've left something out of your list. You've left God out of your list. If you put God into your list and you put Him first, you'll find you'll have time for all the other things."
+Then she asked, "How can I find time in my busy day to fulfill the norms of a *plan of life*?" And Blessed Álvaro said, "The litany of things that you have to do are very many. It's true, you're a very busy person. But," he said, "you've left something out of your list. You've left God out of your list. If you put God into your list and you put Him first, you'll find you'll have time for all the other things."
 
 Giving God all the glory often means putting Him first; taking care of little things; offering our work before we do it, when we've finished it, in the meantime when we lift our eyes from what we're doing, pause for a few moments, we offer it to Him again; when we make little acts of contrition during the day; when we have the joy of giving God the glory that perhaps we have denied Him in previous hours.
 
@@ -133,7 +133,9 @@ In that way, we realize that nothing gets lost. Everything works out for the goo
 
 We can say: Lord, may everything I do be pleasing in your eyes. Help me to turn to you occasionally during the day, and, as it were, say a *Gloria*: "Glory to God in the highest" (Luke 2:14).
 
-In the *Furrow*, St. Josemaría says, "Reject any ambition for honors. Think instead about your duties, how to do them well, and the instruments you need to accomplish them. ---In this way, you will not hanker for position, and if one comes you will see it just as it is: a burden to bear in the service of souls" (J. Escrivá, *Furrow*, Point 976).
+In the *Furrow*, St. Josemaría says, "Reject any ambition for honors. Think instead about your duties, how to do them well, and the instruments you need to accomplish them.
+
+"---In this way, you will not hanker for position, and if one comes you will see it just as it is: a burden to bear in the service of souls" (J. Escrivá, *Furrow*, Point 976).
 
 We can try to also be attentive to what the Holy Father is saying, what are his intentions, so that we're grazing where he is grazing, asking for what he's asking.
 
@@ -159,7 +161,7 @@ St. Basil, commenting on that passage, said, "When you sit down at table, pray. 
 
 All noble realities should serve to bring us to God, to give Him glory. When someone is in love, they think of their beloved twenty-four hours a day. That's the sort of love we should have for Jesus Christ.
 
-It should constitute the essence of our being, the driving force of all our actions. He is Our one and only Lord. He is the one we want to glorify through our work well done.
+It should constitute the essence of our being, the driving force of all our actions. He is Our One and Only Lord. He is the one we want to glorify through our work well done.
 
 Jesus is our inspiration when we try to practice the social doctrine of the Church, when we strive to protect the environment.
 
@@ -173,17 +175,17 @@ Many times, during the day, we need to remind ourselves that I am here to give G
 
 It's one thing to receive a word of praise, a sign of being well received; it's another thing altogether to look for praise. We must always be careful and attentive when we are praised or commended, since, as St. Gregory the Great said, "...many times our poor soul goes off the right path, as soon as it is applauded...thus it finds its delight more in being called happy than in actually being so. And that thing which should have been a reason for praising God becomes instead a cause of our separation from him" (Gregory the Great, *Moralia in Job).*
 
-In the Gospel, Our Lord points out the result of good deeds done without a right intention: "They have received their reward" (Matt. 6:2,5), He says, referring to the Pharisees, who wanted to be praised and well thought of.
+In the Gospel, Our Lord points out the result of good deeds done without a right intention: "They have received their reward" (Matt. 6:2,5,16), He says, referring to the Pharisees, who wanted to be praised and well thought of.
 
 They got what they wanted: a glance of approval, a gesture of admiration, some words of praise. Shortly, there would be nothing left but dust, and nothing at all for eternal life. A terrible failure to lose so much for so little.
 
-God accepts our actions, even very small ones, if we offer them to him with that pure intention of giving him glory. The two small coins that the poor widow threw into the offering box of the temple became a great treasure in heaven (Mark 12:42).
+God accepts our actions, even very small ones, if we offer them to Him with that pure intention of giving Him glory. The two small coins that the poor widow threw into the offering box of the Temple became a great treasure in heaven (Mark 12:42).
 
 Our Lord contemplates our lives and has His hand outstretched each day for what we can offer Him. He accepts whatever we really do for Him. We get our own sad recompense for the rest here below.
 
 "The suggestions of vanity and pride and the impulses of the flesh are not difficult to recognize," St. Josemaría says in *The Way* (Point 788), "...and you fight and, with grace, you conquer. But the motives that inspire you, even in the holiest actions, do not seem clear; and deep down inside you hear a voice which makes you see human reasons in such a subtle way that your soul is invaded by the disturbing thought that you don't act as you should---for pure Love, solely and exclusively to give God all his glory. React at once each time and say, 'Lord, for myself I want nothing. All for your glory and for Love.'"
 
-This was the attitude of Our Lady when she learned the plans that God had for her. "Behold, the handmaid of the Lord..."---I'm just here to serve, to do whatever it is that you want.---"Be it done unto me according to your word" (Luke 1:38).
+This was the attitude of Our Lady when she learned the plans that God had for her. "Behold, the handmaid of the Lord..."---I'm just here to serve, to do whatever it is that you want. ---"Be it done unto me according to your word" (Luke 1:38).
 
 The life of Our Lady was a life of continual praise and glory to God. Mary, may you help us to live in that same way.
 
