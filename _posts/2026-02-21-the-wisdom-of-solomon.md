@@ -23,7 +23,7 @@ Our Lord highlights the wisdom of Solomon and suggests that only His wisdom, the
 
 The sacred author shows the origin and the manifestations of that wisdom. It's a gift of God at the King's request.
 
-"God gave Solomon immense wisdom and understanding, and a heart as vast as the sand on the seashore." We're told that "the wisdom of Solomon surpassed the wisdom of all the sons of the east and all the wisdom of Egypt" (1 Kings 4:29-30).
+"God gave Solomon immense wisdom and understanding, and \[breadth of mind like\] the sand on the seashore." We're told that "the wisdom of Solomon surpassed the wisdom of all the sons of the east and all the wisdom of Egypt" (1 Kings 4:29-30).
 
 He was wiser than anyone else, says the Book of Kings. "For he was wiser than Ethan the Ezrahite and the sons of Mahol. and Heman, Calcol, and Darda. His fame spread to all the surrounding nations. He composed 3,000 proverbs. His songs numbered 1,005. He could discourse on plants from the cedar in Lebanon to the hyssop growing on the wall. He could discourse on animals and birds and reptiles and fish. Men from all nations came to hear Solomon's wisdom, and he received gifts from all the kings of the world who had heard of his wisdom" (1 Kings 4:31-34).
 
@@ -33,7 +33,7 @@ The more one acts with wisdom, we're told in \[Proverbs\], the more that gift in
 
 It's a foretaste of all the order which, according to Christ's teaching, the prayer of petition should have.
 
-In one of the Catechisms, it says, "The Master and Lord of all things Himself taught and commanded what is to be asked of God, and in what order it should be done. For since prayer indicates and expresses our desires and petitions, then we ask properly and with method; and the order of the petitions follows the order of the things that are to be desired.
+In one of the Catechisms, it says, "The Master and Lord of all things himself taught and commanded what is to be asked of God, and in what order it should be done. For since prayer indicates and expresses our desires and petitions, then we ask properly and with method; and the order of the petitions follows the order of the things that are to be desired.
 
 "Now, true charity teaches us to direct our whole life and to drive desires to God, who, being the supreme Good, must of necessity be loved with a supreme and special love. And God cannot be loved heartily and exclusively if his glory and honor are not preferred to all things in creation. For all goods of our own and those of others, and in short, all that is designated by the name of good, must be subordinated to the supreme Good as coming from him" (Pope Pius V, *The Catechism of the Council of Trent*).
 
@@ -43,9 +43,9 @@ But Our Lord is telling us that it's very pleasing to Him if we ask for things--
 
 It's good to ask God for those gifts that only He can give, all the graces that we need to be a better person, a better follower of Christ, a person of greater interior life, a person of greater virtue, greater charity, greater humility, greater order; whatever it is those virtues are that we need most---maybe purity and chastity, maybe prudence, maybe justice---so that we might fill ourselves with those good things (*cf*. Eph. 1:23), so that I can be a better student, a better parent, a better mother, a better father.
 
-Wisdom can be defined as "knowledge of things through their ultimate causes" (Aristotle). It's wisdom to see only good and beauty in all things, because wisdom sees God's beauty in everything and goes to serve others.
+Wisdom can be defined as "knowledge of things through their ultimate causes" (Aristotle, *Posterior Analytics*). It's wisdom to see only good and beauty in all things, because wisdom sees God's beauty in everything and goes to serve others.
 
-"True wisdom is a participation in the mind of God" (John Paul II, *Audience*, Jan. 29, 2003). Wisdom is a divine gift and a guide of life and of the decisions of the faithful. It gives us a loving knowledge of God and of people and created things, insofar as they refer to Him.
+"True wisdom is a participation in the mind of God" (John Paul II, *Audience*, Jan. 29, 2003). Wisdom is a divine gift and a guide of life and of the decisions of the faithful. It gives us a loving knowledge of God and of people and created things insofar as they refer to Him.
 
 As someone said once, "You get knowledge in college, but wisdom comes from God." You may have an experience some time of speaking to somebody who perhaps does not have too much education but often their words express a wisdom that is uncommon, a wisdom that can only have come from the Holy Spirit.
 
@@ -57,23 +57,23 @@ It's a knowledge not learned from books but given by God who illumines and fills
 
 There's a Chinese proverb that says, "A single conversation across the table with a wise man is worth a month's study of books." In the course of our life, we have to try and gather wisdom to use our time well, to practice the virtue of humility, to give a lot of importance to our ongoing formation.
 
-Fulton Sheen liked to say, "Just as a mouse eating piano keys cannot understand how someone can sit at a piano stool and play Tchaikovsky, so we do not understand the wisdom of God's ways."
+Fulton Sheen liked to say, "Just as a mouse eating piano keys cannot understand how someone can sit at a piano stool and play Tchaikovsky, so we do not understand the wisdom of God's ways" (Fulton J. Sheen, *A Word to the Intelligentsia*).
 
 Through the world of nature and of grace, the Holy Spirit enables us to perceive and contemplate the infinite wisdom, power, and goodness of God. His nature is reflected in created things.
 
-In *Christ Is Passing By,* St. Josemaría says, "Through this gift a Christian perceives and understands that "all creation, the movement of the earth and the other heavenly bodies, the good actions of creatures and all the good that has been achieved in history, in short, everything, comes from God and is directed towards him" (J. Escrivá, *Christ Is Passing By*, Point 130).
+Through this gift a Christian perceives and understands that, as St. Josemaría says in *Christ Is Passing By*, "all creation, the movement of the earth and the other heavenly bodies, the good actions of creatures and all the good that has been achieved in history, in short, everything, comes from God and is directed towards him" (Josemaría Escrivá, *Christ Is Passing By*, Point 130).
 
-The Book of Wisdom says, Truly he will be able to say that wisdom "guided him on straight paths. She showed him the kingdom of God and gave him knowledge of the angels" (Wisd. 10:10).
+The Book of Wisdom says, Truly he will be able to say that wisdom "guided him on straight paths; she showed him the kingdom of God, and gave him knowledge of the angels" (Wisd. 10:10).
 
 The Holy Spirit Himself will warn us when what is good and true in itself is in danger of becoming bad by leading us away from our last supernatural end. It could be a disordered desire for material possessions, or an attachment to these goods in a way that does not leave the heart free to serve God.
 
-Christians must sanctify themselves in the middle of the world have a particular need of this gift so as to direct all temporal activities to God, making them a means of holiness and apostolate.
+Christians who must sanctify themselves in the middle of the world have a particular need of this gift so as to direct all temporal activities to God, making them a means of holiness and apostolate.
 
 Through it a housewife discovers how her work at home is a way to God if it is done with an upright, honest intention and with a desire to please God; a student learns that study is the ordinary way to love God, to do apostolate, and to serve society; for an architect the way to God is through plans and drawings; for a nurse, her care of the sick.
 
-We understand that we must love the world and temporal affairs, and come to discover the truth of those words of St. Josemaría:
+We understand that we must love the world and temporal affairs, and come to discover the truth of those words of St. Josemaría in*Conversations*, Point 114:
 
-"There is something holy, something divine, hidden in the most ordinary situations, and it is up to each one of you to discover it" (Josemaría Escrivá, *Homily*, "Passionately Loving the World" Oct. 8, 1967 in *Conversations*, Point 114).
+"There is something holy, something divine, hidden in the most ordinary situations, and it is up to each one of you to discover it" (J. Escrivá, Homily, "Passionately Loving the World" in *Conversations*, Point 114).
 
 We have to try and apply this truth about the gift of wisdom to our ordinary Christian vocation in the middle of the world, to our interior life, to our apostolate, our work, our spiritual direction, our sacraments.
 
@@ -81,13 +81,13 @@ St. Josemaría says in *Conversations*, "When a Christian carries out with love 
 
 The epic poetry that we men and women write for God is composed of the ordinary events of the day, the problems and joys that we meet along our way.
 
-Like Solomon, we have to ask for the wisdom to judge well. "Age doesn't always bring wisdom; sometimes age comes alone" (Oscar Wilde).
+Like Solomon, we have to ask for the wisdom to judge well. "Age doesn't always bring wisdom; sometimes age comes alone" (attributed to Oscar Wilde).
 
 In the *Furrow*, Point 38, St. Josemaría says, "It is no use trying to please everyone. There will always be people who disagree, who complain. The way popular wisdom sums it up is: 'What is good for the sheep is bad for the wolves.'"
 
 In an Encyclical called "Faith and Reason," one of the greatest Encyclicals of John Paul II, he says, "Another of the great insights of St. Thomas was his perception of the role of the Holy Spirit in the process by which knowledge matures into wisdom. From the first pages of his *Summa Theologiae*, Aquinas was keen to show the primacy of the wisdom which is the gift of the Holy Spirit and which opens the way to a knowledge of divine realities.
 
-\"His theology allows us," he continues, "to understand what is distinctive of wisdom in its close link with faith and knowledge of the divine. This wisdom comes to know by way of connaturality; it presupposes faith and eventually formulates its right judgment on the basis of the truth of faith itself.
+"His theology allows us," he continues, "to understand what is distinctive of wisdom in its close link with faith and knowledge of the divine. This wisdom comes to know by way of connaturality; it presupposes faith and eventually formulates its right judgment on the basis of the truth of faith itself.
 
 'The wisdom named among the gifts of the Holy Spirit is distinct from the wisdom found among the intellectual virtues. This second wisdom is acquired through study, but the first 'comes from on high,' as St. James puts it (James 3:17). This also distinguishes it from faith, since faith accepts divine truth as it is. But the gift of wisdom enables judgment according to divine truth" (John Paul II, Encyclical, *Fides et Ratio*, Point 44, September 14, 1998).
 
@@ -121,7 +121,7 @@ We ask for the gift of wisdom, not only for special undertakings, but to follow 
 
 Beneath the surface of things, when we follow the Holy Family closely in the different decisions they had to make, we see how they were trying to follow God's will in a deep way: the journey to Bethlehem, the fleeing into Egypt, the coming back to Nazareth.
 
-"This discernment," we're told, "is nourished by the light and strength of the Holy Spirit, who evokes everywhere and in all circumstances, obedience to the faith, the joyous courage of following Jesus, and the gift of wisdom, which 'judges all things and is judged by no one' (*cf*. 1 Cor. 2:15). It rests on the fidelity of the Father to his promises" (John Paul II, Apostolic Exhortation,*Pastores dabo vobis*, Point 10).
+"This discernment," we're told, "is nourished by the light and strength of the Holy Spirit, who evokes everywhere and in all circumstances, obedience to the faith, the joyous courage of following Jesus, and the gift of wisdom, which 'judges all things and is judged by no one' (*cf*. 1 Cor. 2:15). It rests on the fidelity of the Father to his promises" (John Paul II, Apostolic Exhortation, *Pastores dabo vobis*, Point 10, March 25, 1992).
 
 Through this gift, we share in Christ's love for the people we're in contact with. It's relevant for our apostolate.
 
@@ -143,7 +143,7 @@ Through this gift, the motions of grace will bring us and our friends and neighb
 
 Those who have peace in themselves can bring peace to others. This peace which the world cannot give (John 14:27) results from seeing all within the providential plan of God, who never for a moment forgets His children.
 
-In *Friends of God*, it says, "May the Mother of God and Our Mother protect us, so that each one of us may serve the Church in the fullness of faith, with all the gifts of the Holy Spirit, and with our contemplative life. May each of us joyfully honor the Lord by carrying out his duties, those which are properly his; each one of us, in his job or profession, and fulfilling the obligations of his state in life" (J. Escrivá, *Friends of God,* Point 316).
+In *Friends of God*, it says, "May the Mother of God and Our Mother protect us, so that each one of us may serve the Church in the fullness of faith, with the gifts of the Holy Spirit, and with our contemplative life. May each of us joyfully honor the Lord by carrying out his duties, those which are properly his; each one of us, in his job or profession, and fulfilling the obligations of his state in life" (J. Escrivá, *Friends of God,* Point 316).
 
 Queen of Apostles, pray for us and with us, so that the Holy Spirit will descend in abundance upon His Church, and that she will shine throughout the world, ever more united, holy, catholic, and apostolic.
 
