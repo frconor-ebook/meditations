@@ -2,7 +2,6 @@
 layout: homily
 title: "The Transfiguration"
 ---
-
 By Fr. Conor Donnelly
 
 *(Proofread)*
@@ -15,7 +14,7 @@ By Fr. Conor Donnelly
 
 Today is the Feast of the Transfiguration of Our Lord. It's a feast day that has been celebrated for a long time in both the Eastern and Western Churches. During the 15th century it was extended to the universal Church by Pope Calixtus III.
 
-There are two times in the liturgical year when we remember the Transfiguration in a special way: on the Second Sunday of Lent, to affirm the divinity of Christ before we commemorate His Passion; and the second, today, as we recall the exaltation of Christ in anticipation of His eternal glory.
+There are two times in the liturgical year when we remember the Transfiguration in a special way: on the Second Sunday of Lent, to affirm the divinity of Christ before we commemorate His Passion; and the second, \[today\], as we recall the exaltation of Christ in anticipation of His eternal glory.
 
 This revelation prefigured the splendor of heaven where we will see God face to face.
 
@@ -43,11 +42,11 @@ There can be a tendency to make our dedication and our Christian life compatible
 
 We can also get infected by that as well. Paul VI says, "Haven't we frequently felt the temptation to let Christianity be comfortable, devoid of sacrifice, of having it conform to the easy-going and worldly ways of others?
 
-"But that is not how Our Lord meant it to be. Christian life cannot dispense with the cross since it has no meaning without the hard, pressing weight of duty."
+"But that is not how Our Lord meant it to be. Christian life cannot dispense with the cross since it has no meaning without the hard, pressing weight of duty" (Paul VI, *Address*, April 8, 1966).
 
 A Christ without the Cross would be a caricature of Jesus---a sweet Jesus, a nice Jesus, but a Jesus who has no moral message for young people.
 
-St. Paul VI said, "If we were to attempt to remove the cross from our lives, we would be creating illusions for ourselves and weakening the Faith, since we would have transformed Sacred Tradition into a soft and complacent style of life" (Paul VI, *Address*, April 8, 1966).
+St. Paul VI said, "If we were to attempt to remove the cross from our lives, we would be creating illusions for ourselves and weakening the Faith, since we would have transformed Sacred Tradition into a soft and complacent style of life" (*ibid*.).
 
 Our Lord invites us to "enter by the narrow gate" (Matt. 7:13), and this is not the narrow path that Our Lord has pointed out.
 
@@ -165,13 +164,13 @@ The Lord blesses with the Cross, especially when He plans to confer great graces
 
 Physical pain, humiliation, failure, and family problems---all may come. Then is not a time to become sad, but an occasion to seek the Lord and experience His paternal love and consolation.
 
-We will always have His help to convert apparent evils into blessings for the good of our soul and the good of the Holy Church.
+We will always have His help to convert apparent evils into blessings for the good of our soul and for the good of the Holy Church.
 
 In *Friends of God*, St. Josemaría said, "We no longer bear just any cross, but encounter the Cross of Christ, with the consolation that the Redeemer takes it upon himself to bear the weight" (J. Escrivá, *Friends of God,* Point 132).
 
 Christ is our inseparable Friend, the one who Himself carries whatever is hardest to bear. Without Him, however, any burden at all will sap our energy.
 
-If we always keep in contact with Jesus, nothing can ever harm us; neither economic ruin, nor imprisonment or serious illness, much less the daily annoyances that may tend to take away our peace if we are not on guard.
+If we always keep in contact with Jesus, nothing can ever harm us; neither economic ruin, nor imprisonment, or serious illness, much less the daily annoyances that may tend to take away our peace if we are not on guard.
 
 St. Paul himself reminds the first Christians: "Now who is there to harm you if you are zealous for what is right? But even if you do suffer for righteousness' sake, you will be blessed" (1 Pet. 3:13-14).
 
@@ -197,9 +196,9 @@ St. Josemaría says, "Having the cross means finding happiness and joy. And the 
 
 It's worth nailing ourselves to the Cross because it means entering into life, drinking in the life of Christ.
 
-One spiritual writer says: "Let us ask Our Lady to help learn to offer with serenity the fatigue and tiredness that each day brings with it, with our thoughts fixed on Christ, who accompanies us in this life and waits for us, glorified, at the end of the way" (Francis Fernandez, *In Conversation with God*, Volume 7).
+Let us ask Our Lady to help learn to offer with serenity the fatigue and tiredness that each day brings with it, with our thoughts fixed on Christ, who accompanies us in this life and waits for us, glorified, at the end of the way.
 
-"And when that hour arrives when these mortal eyes close, grant us, Lord, a grander vision so that we may behold your awesome face. May death lead us to a more splendid birth" (Joan Maragall, *Spiritual Canticle*), the beginning of life everlasting.
+One spiritual writer says: "And when that hour arrives when these mortal eyes close, grant us, Lord, a grander vision so that we may behold your awesome face. May death lead us to a more splendid birth" (Joan Maragall, *Spiritual Canticle*), the beginning of life everlasting.
 
 We could ask Our Lady, Gate of Heaven, that she might help us to keep our focus there and to be ready to handle whatever it is that God may send us on a day-to-day basis, so that we can truly achieve our eternal reward and be as faithful as the apostles were.
 
