@@ -2,7 +2,6 @@
 layout: homily
 title: "Our Father God"
 ---
-
 By Fr. Conor Donnelly
 
 (*Proofread*)
@@ -19,7 +18,7 @@ As Moses tended the flock of his father-in-law, Jethro, near Mount Horeb, the ho
 
 In our prayer today we could repeat those words, reminding ourselves that God has told us that He will always be with us.
 
-In another place in Scripture, He says, "Do not let your hearts be troubled" (John 14:1), "for I am with you always" (Matt. 28:20). Many consoling words.
+In another place in Scripture, He says, "Do not let your hearts be troubled" (John 14:1), "for I am with you always" (Matt. 28:20). Very consoling words.
 
 Moses little imagined how closely God would be accompanying him and the people in the midst of the trials and tribulations that awaited them. In our lives too, God's presence at every moment is something we can scarcely fathom---how He is working.
 
@@ -29,7 +28,7 @@ Unbeknownst to us, God is working all the time behind the scenes. That presence 
 
 Every time we see a young father walking with a young baby, it's worth taking a second look because there's something there to learn for us about how Our Father God is taking care of us.
 
-Our Lord, true God and true man, is always reminding us in the Gospel of God's paternal concern, since "no one knows the Father except the Son and anyone to whom the Son chooses to reveal him" (Matt. 11:27). He alone can do this.
+Our Lord, true God and true Man, is always reminding us in the Gospel of God's paternal concern, since "no one knows the Father except the Son and anyone to whom the Son chooses to reveal him" (Matt. 11:27). He alone can do this.
 
 The Son knows the Father in the very knowledge by which the Father knows Him. There's no greater intimacy than that.
 
@@ -41,7 +40,7 @@ It's an interesting word: "wonder." Little children wonder. Often they can't und
 
 During that last evening in the Upper Room, when Our Lord seemed to be summing up the years of self-giving and trusting revelation, He said, "I have manifested your name to the men whom you gave me" (John 17:6).
 
-To manifest someone's name really meant to reveal their mode of being. Our Lord has revealed to us the depths of the Trinitarian Mystery: the fact that God is a Father, so close to us men.
+To manifest someone's name really meant to reveal their mode of being. Our Lord has revealed to us the depths of the Trinitarian Mystery: the fact that God is a Father, so close to us men. Jesus is always using the title 'Father,' both in private conversations and in His preaching.
 
 He dwells on the goodness of the Father, who rewards the slightest action and recognizes our good deeds, even the ones that no one sees.
 
@@ -73,7 +72,7 @@ In *The Forge* we're told: "When you really come to love God's Will, you will ne
 
 When you're at Mass, when you're looking through the words of the *Eucharistic Prayer*, try and notice how frequently the word 'Father' appears in the liturgy. It's like a daily reminder:
 
-The way to be true children of God the Father is by imitating Christ. God didn't just make us and then leave us, like a painter with his painting. He's a father to us, and He's even brought us to be "partakers of the divine nature" (2 Pet. 1:4).
+The way to be true children of God the Father is by imitating Christ. God didn't just make us and then leave us, like a painter with his painting. He's a Father to us, and He's even brought us to be "partakers of the divine nature" (2 Pet. 1:4).
 
 Beautiful phrase that we find in the letter of St. Peter worth contemplating: He's lifted us up to be "partakers of the divine nature." That's why living in the state of grace is the most important goal that we should have for our life.
 
@@ -83,7 +82,7 @@ The sense of our divine filiation will be at the root of our joy and confidence 
 
 "Father, my Father," we can find ourselves saying, savoring that gentle but strong word 'Father,' be it at times of joy or of danger.
 
-In *Friends of God*, we're told, "Call him 'Father' many times a day and tell him---alone, in your heart---that you love him, that you adore him, that you feel proud and strong because you are his child" (J. Escrivá, *Friends of God*, Point 150).
+In *Friends of God*, we're told, "Call him 'Father' many times a day and tell him---alone, in your heart---that you love him, that you adore him, that you feel proud and strong because you are his child" (*cf*. J. Escrivá, *Friends of God*, Point 150).
 
 It is through Christ that we share in this divine sonship, as we try to resemble Him, the firstborn among many brethren and the only begotten Son of the Father.
 
@@ -93,7 +92,7 @@ But we achieve this above all by imitating Christ's prayer to His Father. This c
 
 Cardinal Văn Thuận, a Vietnamese Cardinal imprisoned for many decades in solitary confinement, tells a story of how some of the prison guards that were looking after him were curious when they knew that he knew some Latin.
 
-They asked him to teach them some Latin. So he taught them Latin. Then he decided to teach them the hymn, the *Veni Creator*, which is one of the most beautiful hymns that we have in the Catholic Church to the Holy Spirit.
+They asked him to teach them some Latin. So he taught them Latin. Then he decided to teach them the hymn, the *Veni Creator*, which is one of the most beautiful hymns to the Holy Spirit that we have in the Catholic Church.
 
 And so, when the guard learned this hymn, he would come every morning singing the *Veni Creator* to open the prison cell each morning. This was like a gift from God in his solitary confinement (*cf*. Francis Xavier Nguyen Văn Thuận, *Testimonies of Hope*).
 
@@ -105,7 +104,9 @@ We can say, 'Thank you for bringing this friend of mine back to the sacraments, 
 
 St. Josemaría recommended that we should each day also thank God for all the graces of which we are not aware. There must be millions and millions of graces that God has given to us in the course of our life, which we're not aware of at all.
 
-If our minds and hearts turn to God often, in good times and in bad, then we're living as good children should. In the Psalms we're told, "My soul, give thanks to the Lord, all my being, bless his holy name. My soul, give thanks to the Lord, and never forget all his blessings. It is he who forgives all your guilt, who heals every one of your ills, who redeems your life from the grave, who crowns you with love and compassion" (Ps. 103:1-4).
+If our minds and hearts turn to God often, in good times and in bad, then we're living as good children should.
+
+In the Psalms we're told, "My soul, give thanks to the Lord, all my being, bless his holy name. My soul, give thanks to the Lord, and never forget all his blessings. It is he who forgives all your guilt, who heals every one of your ills, who redeems your life from the grave, who crowns you with love and compassion" (Ps. 103:1-4).
 
 We could ask for the grace to see other people as Christ saw them. The world looks very different through His eyes! It is the Holy Spirit who configures us to the Master.
 
@@ -123,7 +124,7 @@ The sanctifying grace that we receive in the sacraments and as a reward for our 
 
 We become united and identified with Him as members of His Mystical Body, as St. Paul wrote to the Galatians: "It is no longer I who live, but Christ who lives in me" (Gal. 2:20).
 
-So when we turn to the Father, it is really Christ who is praying in us. When we deny ourselves something for Him, it is He who has inspired this detachment of spirit. When we try to bring someone back to the sacraments, our apostolic spirit is a reflection of Christ's zeal for souls.
+So when we turn to the Father it is really Christ who is praying in us. When we deny ourselves something for Him, it is He who has inspired this detachment of spirit. When we try to bring someone back to the sacraments, our apostolic spirit is a reflection of Christ's zeal for souls.
 
 Our work and our sufferings complete the works and sufferings which Our Lord took on for His Mystical Body the Church. We could think of the value which our daily work and sorrows assume then in this light.
 
@@ -135,13 +136,13 @@ In the supernatural sphere, the holier one is, the more one is a son or daughter
 
 Our Mother Mary is the perfect example of what divine grace can achieve when it's fully availed of. No one, excepting the sacred Humanity of Our Lord, was ever closer to God, and no created being could ever become the Daughter of God the Father that she was.
 
-We can ask her to make us seek the counsel of the Holy Spirit, who will lead us to imitate Jesus. Under His influence, we'll feel this pressing need to turn to the Father at all times, but particularly at Mass, when we address Him as Most Merciful Father in the *First Eucharistic Prayer*, in union with the sacrifice of His Son.
+We can ask her to make us seek the counsel of the Holy Spirit, who will lead us to imitate Jesus. Under His influence, we'll feel this pressing need to turn to the Father at all times, but particularly at Mass, when we address Him as Most Merciful Father in the*Eucharistic Prayer I*, in union with the sacrifice of His Son.
 
 We will think of Him as Father, calling Him *Abba*, anointed as we are by the spirit of His Son who cries out, "Abba, Father!", says St. Paul (Gal. 4:6).
 
 He will also make us feel the hunger and thirst for God and for His glory, which were so apparent in His Incarnate Son.
 
-The Father also receives glory from our growing more like His only begotten Son, who "by the power at work within us," says St. Paul to the Ephesians, "is able to do far more abundantly than all we ask or think. Glory be to him" whose power working in us can do infinitely more than we can ask or imagine (Eph. 3:20-21).
+The Father also receives glory from our growing more like His only begotten Son, "who by the power at work within us," says St. Paul to the Ephesians, "is able to do far more abundantly than all we ask or think. Glory be to him" whose power working in us can do infinitely more than we can ask or imagine (Eph. 3:20-21).
 
 Our Father God is always our safeguard against the difficulties and temptations that we may have to undergo. We can win every battle with Him at our side.
 
