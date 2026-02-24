@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Blessed Are the Merciful"
+title: "Blessed Are The Merciful"
 ---
 
 By Fr. Conor Donnelly
@@ -31,9 +31,7 @@ He sees in secret, and He rewards in secret (Matt. 6:4), and He forgives in secr
 
 John Paul II says that mercy is another word for love (*cf*. John Paul II, Encyclical, *Dives in misericordia*, Point 7, November 30, 1980). A rather nice idea.
 
-He liked to say that modern man needs mercy (*ibid*.). Every human person needs a certain amount of mercy, so it is one of the principal themes of Our Lord's preaching, in fresh aspects all the time.
-
-The good shepherd that goes in search of the lost sheep (Luke 15:3-7); the lost coin---the woman stops what she is doing and goes to look for that particular coin, until she has found it (Luke 15:8-10). St. Luke's Gospel is the Gospel of Mercy.
+He liked to say that modern man needs mercy (*ibid*.). Every human person needs a certain amount of mercy, so it is one of the principal themes of Our Lord's preaching, in fresh aspects all the time: the good shepherd that goes in search of the lost sheep (Luke 15:3-7); the lost coin---the woman stops what she is doing and goes to look for that particular coin, until she has found it (Luke 15:8-10). St. Luke's Gospel is the Gospel of Mercy.
 
 In many ways, Christ reveals the content of the mercy of God, which He wants us to express in concrete situations.
 
@@ -51,7 +49,9 @@ It could have been there. She knew how to set aside feelings of vengeance---or e
 
 She explained her concern for this stranger's salvation and for the well-being of his family. This is having a heart full of mercy.
 
-A document of the Second Vatican Council, *Ad gentes,* says, "For it is only by putting to death what is old that we are able to come to the newness of life." Put to death the old reactions that are there inside us in the old person. "The Gospel," it says, "has truly been a leaven of liberty and progress...a leaven...of unity and of peace" (Vatican II, Decree, *Ad gentes*, Point 8, December 7, 1965).
+A document of the Second Vatican Council, *Ad gentes,* says, "For it is only by putting to death what is old that we are able to come to the newness of life."
+
+Put to death the old reactions that are there inside us in the old person. "The Gospel," it says, "has truly been a leaven of liberty and progress...a leaven...of unity and of peace" (Vatican II, Decree, *Ad gentes*, Point 8, December 7, 1965).
 
 It helps us to move on, to put this virtue into practice in concrete ways. Our lives are meant to be guided by mercy and by love because "God is love" (1 John 4:8,16).
 
@@ -63,11 +63,13 @@ When He saw the widow of Nain, He was approaching the town with a lot of people.
 
 He stopped what He was doing, disrupted the movement of where He was going, and He went over to this lady and to the funeral stretcher, and touched the stretcher.
 
-He performed a great miracle (Luke 7:11-15), possibly seeing in this woman an image of His own Mother after His own death. He was moved with a particular mercy. He is the "model of mercy" towards others.
+He performed a great miracle, possibly seeing in this woman an image of His own Mother after His own death. He was moved with a particular mercy (Luke 7:11-15).
 
-As we become more Christ-like, we need to become more merciful, let things pass, have a forgiving spirit, not to focus on our past hurts, or get too rigid about when people have stepped on our toes in various moments.
+He is the "model of mercy" towards others. As we become more Christ-like, we need to become more merciful, let things pass, have a forgiving spirit, not to focus on our past hurts, or get too rigid about when people have stepped on our toes in various moments.
 
-"The merciful," we're told, "shall obtain mercy" (Matt. 5:7). We are all in need of mercy. "As you give to others, so you shall receive yourself" (*cf*. Matt. 7:2), the Lord says.
+"The merciful," we're told, "shall obtain mercy" (Matt. 5:7). We are all in need of mercy.
+
+"As you give to others, so you shall receive yourself" (*cf*. Matt. 7:2), the Lord says.
 
 That mercy of God signifies a special power of love that prevails over sin. God is absolute mercy. There is no sin that cannot be forgiven (*cf*. Mark 3:28).
 
@@ -103,35 +105,35 @@ In a theology class one time, somebody asked me a question, saying, "St. Augusti
 
 He couldn't quite figure it out. How come original sin is a happy fault with all the consequences that came from original sin?
 
-St. Augustine says, "It's a happy fault because if man had not sinned, God would not have sent a Savior who died on the Cross shedding every ounce of his blood. Man would not have known how much God loves him."
+St. Augustine says, "It's a happy fault because if man had not sinned, God would not have sent a Savior who died on the Cross shedding every ounce of his blood. Man would not have known how much God loves him" (*cf*. Augustine, *Enchiridion*).
 
-God gave proof of His love on the Cross; proof of the extent of His mercy.
+God gave proof of His love on the Cross, proof of the extent of His mercy.
 
-"It's proper to God," says St. \[Thomas Aquinas\], "to exercise mercy. He manifests His omnipotence, particularly in this way" (Thomas Aquinas, *Summa Theologiae*, II. II. Question 30).
+"It is proper to God," says St. \[Thomas Aquinas\], "to exercise mercy. He manifests His omnipotence, particularly in this way" (Thomas Aquinas, *Summa Theologiae*, II. II. Question 30).
 
 Pope Francis said, "Thomas Aquinas's words show that God's mercy, rather than a sign of weakness, is the mark of his omnipotence" (Pope Francis, Bull of Indiction of the Extraordinary Jubilee of Mercy, *Misericordiae vultus,* Point 6, April 11, 2015).
 
 The Father constantly extends that mercy to each one of us. How often have we benefited from the sacrament of mercy, the grace of God flowing into our soul, the blood of Christ washing away our sins?
 
-Fulton Sheen likes to say that every time the priest raises his hands in the absolution, "the blood of Christ is dripping from his hands."
+Fulton Sheen likes to say that every time the priest raises his hands in the \[Consecration\], "the blood of Christ is dripping from his hands" (*cf*. Henry Dieterich, editor, *Through the Year with Fulton Sheen*).
 
 "Without the shedding of blood," we're told in Scripture, "there is no remission of sin" (Heb. 9:22).
 
 Christ then is the "Incarnation of that mercy. ... In Christ and through Christ," says John Paul in that Encyclical, "God becomes especially visible in His mercy...there is emphasized in him that attribute of his divinity using various concepts and terms.
 
-"Christ confers on the whole of the Old Testament tradition about God's mercy a definitive meaning.
+"Christ confers on the whole of the Old Testament tradition about God's mercy a definitive meaning." He is Divine Mercy Incarnate.
 
-He is Divine Mercy Incarnate. "He doesn't just speak of it; He explains it by use of comparisons and parables, but above all, he personifies it. He himself, in a certain sense. is mercy. ... God becomes 'visible' in a particular way as the Father who is 'rich in mercy'" (Eph. 2:4, John Paul II, *Dives in misericordia*, Point 2).
+"He doesn't just speak of it; He explains it by use of comparisons and parables, but above all, he personifies it. He himself, in a certain sense, is mercy. ... God becomes 'visible' in a particular way as the Father who is 'rich in mercy'" (Eph. 2:4; John Paul II, *Dives in misericordia*, Point 2).
 
 Our Lord invites us continually to contemplate His mercy---the source of joy, serenity, peace. We know we can be forgiven.
 
-We can always come back like the prodigal child. His father saw him a long way off. The father in that parable of the prodigal son is like a symbol of God the Father.
+We can always come back like the prodigal child. His father saw him a long way off. The father in that parable of the prodigal son is like a symbol of God the Father (Luke 15:11-32).
 
 Every day he was looking out for his son, hoping that he might come back. One day he spots him on the horizon, yet a long way off.
 
-It's an insight into the heart of that father, never giving up, hoping that that son was going to come, and he doesn't ask for a gun or a whip or something to teach him a lesson. He runs to him and embraces him (Luke 15:11-32).
+It's an insight into the heart of that father, never giving up, hoping that that son was going to come, and he doesn't ask for a gun or a whip or something to teach him a lesson. He runs to him and embraces him.
 
-"In the parables devoted to mercy, Our Lord reveals the nature of God as the nature of a father who never gives up. He's overcome all the evil with compassion and mercy."
+"In the parables devoted to mercy, Our Lord reveals the nature of God as the nature of a father who never gives up. ... he's overcome all the evil with compassion and mercy" (*cf*. John Paul II, *Misericordiae vultus*, Point 9).
 
 The role of the Church then is to manifest that mercy. "Mercy is the very foundation of the Church's life" (John Paul II, *Dives in misericordia*, Point 10).
 
@@ -159,7 +161,7 @@ In this period of Lent, we find words of mercy frequently in the readings of Scr
 
 They all have their purpose: the First Reading, the Second Reading, the Responsorial Psalm, the Entrance Antiphon. There are a lot of little gems there, Scriptural gems that all go to make up the whole picture of Lent and the whole message of Lent.
 
-We are called to be witnesses of mercy, "called to gaze more attentively on this virtue so that we ourselves might become a more effective sign of God's action in our lives" (*cf*. Pope Francis, *Misericordiae vultus*, Point 3).
+We are called to be witnesses of mercy, "called to gaze...more attentively on this virtue so that we ourselves might become a more effective sign of God's action in our lives" (*cf*. Pope Francis, *Misericordiae vultus*, Point 3).
 
 People might see that mercy in us, in the things we do, the things we say, the words, the actions, that somehow, maybe, change an environment or change a conversation, help people to be that little bit more loving. It's something we have to grow in throughout our life.
 
@@ -193,7 +195,7 @@ Lord, help me to be a more forgiving person, to learn the art of forgiving.
 
 There's no limitation to forgiveness. There's no injury so gross that cannot be forgiven.
 
-Something that somebody said or did to us---if we ever say, I could never forgive that person, I'll always remember that thing or some little sentiment that may be there---God invites us to leave all these things at His feet.
+Something that somebody said or did to us---if we ever say, 'I could never forgive that person, I'll always remember that thing or some little sentiment that may be there'---God invites us to leave all these things at His feet.
 
 The sea absorbs impurities, remaining undefiled. Something similar has to happen in our life. We absorb all the little negligences of others, perhaps misdemeanors that they don't realize they're committing. Absorb them and let them pass, and carry on.
 
@@ -235,7 +237,7 @@ St. John Chrysostom says, "He who assists the needy makes God his debtor" (St. J
 
 We can always grow in this virtue, going deeper.
 
-He says in *The Way*, "Charity does not consist so much in 'giving' as in 'understanding.' Therefore, seek an excuse for your neighbor---there is always one to be found,---if it is your duty to judge" (J. Escrivá, *The Way*, Point 463).
+He says in *The Way*, "Charity does not consist so much in 'giving' as in 'understanding.' Therefore, seek an excuse for your neighbor---there is always one to be found---if it is your duty to judge" (J. Escrivá, *The Way*, Point 463).
 
 "Practice a cheerful charity," he says in *The Forge*, "which is at once kindly and firm, human and at the same time supernatural. It should be an affectionate charity, knowing how to welcome everyone with a sincere and habitual smile, and how to understand the ideas and feelings of others. ---In this way, with gentleness and strength, and without concessions in matters of personal morals or in doctrine, the charity of Christ---when it is being well lived---will give you a spirit of conquest. Each day you will have a greater desire to work for souls" (J. Escrivá, *The Forge*, Point 282).
 
@@ -255,7 +257,7 @@ John Paul says, "No one has received into his heart, as much as Mary did, that m
 
 "Mary experiences...the universality of God's love, which opens her heart and enables her to embrace the entire human race. So, Mary becomes the Mother of each and every one of us..., the radiant sign and inviting model of the moral life" (John Paul II, *Veritatis Splendor*, Point 120).
 
-Mother of Mercy, may you help us to contemplate during these days and hours a little more of that radiance of God's mercy that comes to us through you, so that we may grow in this great divine attribute. Amen.
+Mother of Mercy, may you help us to contemplate during these days and hours a little more of that radiance of God's mercy that comes to us through you, so that we may grow in this great divine attribute.
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
