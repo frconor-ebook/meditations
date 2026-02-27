@@ -6,11 +6,11 @@ title: "St. Dominic"
 
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My Immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me.*
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 St. Dominic was born in Caleruega about the year 1170. He fought the Albigensian heresy with his preaching and exemplary life. He founded the Dominicans, the Order of Preachers, and spread devotion to the Holy Rosary. He died in Bologna on August 6, 1221.
 

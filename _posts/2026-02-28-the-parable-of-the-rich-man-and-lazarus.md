@@ -3,11 +3,13 @@ layout: homily
 title: "The Parable of the Rich Man and Lazarus"
 ---
 
+By Fr. Conor Donnelly
+
 *(Proofread)*
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask pardon for my sins, and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 "There was a rich man who used to dress in purple and fine linen and feast magnificently every day. And at his gate there used to lie a poor man called Lazarus, covered with sores, who longed to fill himself with what fell from the rich man's table. Even the dogs came and licked his sores" (Luke 16:19-21).
 
@@ -77,7 +79,7 @@ Our life on earth is a testing ground for our generosity. We're told in the Acts
 
 I used to visit an elderly 97-year-old priest here in Nairobi in the last couple of years. He was the first missionary to a place called Pokot in rural Kenya, a very isolated place.
 
-He used to say that when he went there in 1952, there was no education, no medication and no revelation. He spent the next 49 years of his life building thirty-two primary schools, two secondary schools, about four hospitals, about twenty-five parishes. And he lived a long and healthy life, a very holy man. He died a couple of weeks ago \[Fr. Leo Staples, 1925-2022\].
+He used to say that when he went there in 1952, there was no education, no medication and no revelation. He spent the next 49 years of his life building thirty-two primary schools, two secondary schools, about four hospitals, about twenty-five parishes. And he lived a long and healthy life, a very holy man, and he died a couple of weeks ago \[Fr. Leo Staples, 1925-2022\].
 
 He went back to Ireland to celebrate the 70th anniversary of his priesthood, intending to come back here to Nairobi because he wanted to be buried here in Kenya. That was his final wish and dream. But although God may have granted him many other things, He didn't grant him that.
 
@@ -85,7 +87,7 @@ Before he died, he had a bit of a get-together with some missionary nuns there i
 
 With them, they brought a jar of honey. This was very symbolic because among the many different projects that he started, he helped the women there to start making honey as a sort of a homemaking project, which helped them to make some money. Today there are two honey factories in that place that grew out of his initiative.
 
-They brought him a jar of honey and they said, "Father, this is the finest, sweetest, most purified honey in the whole country. And we came to bring a jar of it to tell you that what you gave us is sweeter than this honey: the Word of God that has built us up, that has helped our society to develop."
+They brought him a jar of honey, and they said, "Father, this is the finest, sweetest, most purified honey in the whole country. And we came to bring a jar of it to tell you that what you gave us is sweeter than this honey: the Word of God that has built us up, that has helped our society to develop."
 
 Now they have educated people there. They have vocations to the priesthood. They have all sorts of things. When you look at the litany of things that that man did in the course of his life, it's quite an impressive litany.
 
@@ -103,9 +105,9 @@ We should be willing to give away a great deal. In these weeks and months coming
 
 Christians must not sit idly by as the tide of materialism sweeps over our entire culture. Nor should we become entrapped by a purely economic vision of the world.
 
-There's a document of the Congregation for the Doctrine of the Faith that says, "Solidarity is a direct requirement of human and supernatural brotherhood" (Joseph Ratzinger, CDF Instruction on Christian Freedom and Liberation, *Libertatis conscientia*, March 22, 1986, Point 89).
+There's a document of the Congregation for the Doctrine of the Faith that says, "Solidarity is a direct requirement of human and supernatural brotherhood" (Joseph Ratzinger, CDF Instruction on Christian Freedom and Liberation, *Libertatis conscientia*, Point 89, March 22, 1986).
 
-We have to see people around us and the dignity of every person, and the rights of every person to material things. That attitude will lead us to live that personal poverty which our Lord called *blessed*.
+We have to see people around us and the dignity of every person, and the rights of every person to material things. That attitude will lead us to live that personal poverty which Our Lord called *blessed*.
 
 We don't waste food, or we don't tolerate people around us wasting food, or throwing rubbish in public places---banana skins or plastic bottles. We care for other people, we care for the world, we care for the environment because God gave it to us.
 
@@ -119,13 +121,13 @@ Mother Teresa says, "The greatest poverty is loneliness" (Mother Teresa, *A Simp
 
 The president of this country \[Kenya\] recently said there are 14 million hungry people in this country. People lack food, people lack education.
 
-They also may be ignorant of the truths about man and about God. We can examine our conscience and see, Is my detachment a real detachment? Does it lead to any practical consequences? Our lives should be a model of temperance as far as our use of material goods is concerned.
+They also may be ignorant of the truths about man and about God. We can examine our conscience and see: Is my detachment a real detachment? Does it lead to any practical consequences? Our lives should be a model of temperance as far as our use of material goods is concerned.
 
 It's very good that we deny ourselves the pleasures of some fruit of the tree of good and of evil. We all need to have something that we deny ourselves: I can do without. Do we have our heart focused on the treasures that last forever, which neither thief can take nor moth can destroy? (*cf*. Luke 12:33).
 
 That's why we have to encourage people or remind people around us with a certain periodicity about the need to think about eternal life. If we are faithful, we will have Christ for all eternity. Something very wonderful. Something worth dreaming about and thinking about.
 
-St. Augustine says, "How lovely I suddenly found it, to be free from the glamor of those vanities, so that now it was a joy to renounce what I had been so much afraid to lose. But you cast them out of me, O true and supreme Loveliness, you cast them out of me and took their place instead, you who are sweeter than all pleasure, yet no mere flesh and blood; brighter than all light, yet deeper within than any secret; loftier than all honor, but not to those who are high and mighty in their own estimation" (St. Augustine, *Confessions,* Book IX, 1,1).
+St. Augustine says, "How lovely I suddenly found it, to be free from the glamor of those vanities, so that now it was a joy to renounce what I had been so much afraid to lose. But you cast them out of me, O true and supreme Loveliness, you cast them out of me and took their place instead, you who are sweeter than all pleasure, yet no mere flesh and blood; brighter than all light, yet deeper within than any secret; loftier than all honor, but not to those who are high and mighty in their own estimation" (Augustine, *Confessions,* Book IX, 1,1).
 
 Generosity is a virtue of great souls who find their reward in the act of giving. A generous person knows how to give without demanding. When we give, it enlarges the heart. Our Lord sometimes asked for a little, but then He asked for a lot.
 
@@ -145,7 +147,9 @@ Christ left nothing for Himself. God loves generosity *(cf*. 2 Cor. 9:7). Stingi
 
 We can ask Our Lord in our prayer not to get too attached to the little or to the much that we may have, be it money or clothes or time or whatever, and to accept humbly our limitations and to struggle to overcome our defects.
 
-At times, to be generous in that struggle, we're asked to do the least pleasant task first, to be ready to help whatever the circumstances may be at home, in school, in the office, in the street, and to help with an upright intention, not just because there's something for us in it, and to help anyone who may need our help. That also means that we're ready to do favors for those who ask them of us. It was said in the early years of St. Josemaría that he tried to do favors for many people.
+At times, to be generous in that struggle, we're asked to do the least pleasant task first, to be ready to help, whatever the circumstances may be at home, in school, in the office, in the street, and to help with an upright intention, not just because there's something for us in it, and to help anyone who may need our help.
+
+That also means that we're ready to do favors for those who ask them of us. It was said in the early years of St. Josemaría that he tried to do favors for many people.
 
 Generosity can also mean accepting people as they are, without attaching too much importance to their defects, giving a positive tone to our conversations, avoiding negative criticism, and in this way making it easier for those around us to come closer to God.
 

@@ -6,9 +6,11 @@ title: "Trinity Sunday (2026)"
 
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My immaculate Mother, St. Joseph, my father and lord, my guardian angel intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 Today the Church celebrates the feast of the Blessed Trinity. It's the ineffable mystery of God's intimate life. It's the central truth of our faith and the source of all gifts and graces. The *Catechism of the Catholic Church* places it at the top of the hierarchy of truths in which we are invited to believe. The liturgy of the Mass invites us to a loving union with each of the three divine persons: Father, Son, and Holy Spirit. This feast was established for the Latin Church by Pope John XXII to be celebrated on the Sunday after the coming of the Holy Spirit, which is the last of the mysteries of our salvation.
 

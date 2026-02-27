@@ -30,11 +30,11 @@ How can we refuse the shoulders of the Good Shepherd if at times we lose the way
 
 We have to take it for granted that we are weak and that we will stumble. It is this very weakness, when we acknowledge it, that will attract Divine Mercy, which comes to us with greater help and greater love.
 
-St. Bernard says, "Jesus, our Good Shepherd, hurries to find the hundredth sheep that had lost the way. ... A marvelous condescendence of God for him to seek man out. What great dignity man must have," he says, "to be sought out by God in this way!" (St. Bernard, *Sermon for the First Week in Advent*).
+St. Bernard says, "Jesus, our Good Shepherd, hurries to find the hundredth sheep that had lost the way. ... A marvelous condescendence of God for him to seek man out. What great dignity man must have," he says, "to be sought out by God in this way!" (Bernard, *Sermon for the First Week in Advent*).
 
 We can always count on the love of Christ. Even during the worst moments of our life, He doesn't stop loving us. We can always count on His help to return to the right path if we have lost it, to begin and begin again.
 
-St. John Chrysostom says He keeps us fighting and "a leader on the battlefield values more the soldier who, having fallen back in flight at first, returns to the fray and attacks the enemy with valor; he values him more than he does the soldier who never ran but never showed outstanding courage" (St. John Chrysostom, *Homilies on the First Epistle to the Corinthians*).
+St. John Chrysostom says He keeps us fighting and "a leader on the battlefield values more the soldier who, having fallen back in flight at first, returns to the fray and attacks the enemy with valor; he values him more than he does the soldier who never ran but never showed outstanding courage" (John Chrysostom, *Homilies on the First Epistle to the Corinthians*).
 
 He who never sins is not sanctified, but he is who always repents, trusting in the love God has for him, getting up and getting on with the fight.
 
@@ -44,13 +44,13 @@ Making a truce would lead to spiritual mediocrity. Our Lord doesn't want this to
 
 God loves each one of us in a very personal way. Jesus loves each one as he is, with his defects. His love does not lead Him to idealize man. He sees them with their paradoxes and weaknesses, with their great potential for good, and with their misery that is so often evident.
 
-John Paul II liked to say, "Christ knows what is in man. Only He knows!" (John Paul II, *Homily*, October 22, 1978). He loves us the way we are.
+John Paul II liked to say, "Christ knows what is in man. Only he knows!" (John Paul II, *Homily*, October 22, 1978). He loves us the way we are.
 
 Christ has a great understanding of the human heart and a great positive conception of our abilities. "His eye knows how to look beyond the veil of human passions and penetrate the inmost self of man, where man is most alone and poor" (Karl Adam, *Jesus Christ*).
 
-He understands us always and always encourages us to continue struggling. St. Josemaría liked to say, "Struggle right to the very end, until the last moment" (*cf*. Josemaría Escrivá, *The Forge*, Point 429).
+He understands us always, and always encourages us to continue struggling. St. Josemaría liked to say, "Struggle right to the very end, until the last moment" (*cf*. Josemaría Escrivá, *The Forge*, Point 429).
 
-If only we could realize the personal love Christ has for each person, His care, His solicitude. God loves us. This is the great reality of our lives.
+If only we could realize the personal love Christ has for each person, His care, His solicitude! God loves us. This is the great reality of our lives.
 
 We're carried in the palm of a hand of a God who loves us. He is the one who is capable of raising our spirits always, who makes us happy in spite of our sorrows and contradictions. In spite of perhaps our broken hearts or our frayed nerves, He lifts us up.
 
@@ -60,7 +60,7 @@ He loves us in spite of the deep-rooted wretchedness that is there in the human 
 
 "Where else shall we go? You have the words of eternal life" (John 6:68).
 
-"His love for humanity is to suffer and to die with man. The Lord doesn't settle for merely examining human misery and prescribing a remedy to ease it. He makes actual contact with that misery. He cannot bear to know of it without taking it upon himself," we're told (Karl Adam, *ibid*.).
+"His love for humanity is to suffer and to die with man. The Lord doesn't settle for merely examining human misery and prescribing a remedy to ease it. He makes actual contact with that misery. He cannot bear to know of it without taking it upon himself," we're told (K. Adam, *ibid*.).
 
 "The love of Jesus surpasses the bounds of his own heart in order to attract others to himself, or better, in order to go out of himself, identifying himself with others so as to live and suffer with them" (*ibid*.).
 
@@ -70,9 +70,9 @@ Constant are the Evangelists' statements that He felt compassion for the people.
 
 He's moved by misfortune and pain. He cannot reject a suffering soul, not even the Syrophoenician woman who was a pagan (Mark 7:26).
 
-He's quick to attend to those who came to Him, even when doing so led others to claim that He was breaking the Sabbath (John 9:16).
+He's quick to attend to those who came to Him, even when doing so led others to claim that He was breaking the Sabbath (John 9:16, 5:18).
 
-He mingles with publicans (Matt. 9:11) and sinners (Like 15:1-2), even though those who feel that they themselves fulfill the Law well are scandalized.
+He mingles with publicans and sinners (Matt. 9:11; Luke 15:1-2), even though those who feel that they themselves fulfill the Law well are scandalized.
 
 Not even when in agony does He fail to tell the good thief, "Today you will be with me in Paradise" (Luke 23:43).
 
@@ -84,11 +84,11 @@ His concern for those most in need is not exclusive. It's not limited to those w
 
 Our own life is the story of Christ's love for us. He has looked at us with a love of predilection and has time and again sought us out when we had lost our way.
 
-We ought to ask ourselves today how we are corresponding to Our Lord's constant concern for us. What efforts do we make to receive the sacraments frequently and devoutly? Do we strive to recognize Christ in spiritual direction, and when perhaps we're corrected on some issue, or put right?
+We ought to ask ourselves today how we are corresponding to Our Lord's constant concern for us. What efforts do we make to receive the sacraments frequently and devoutly? Do we strive to recognize Christ in spiritual direction, when perhaps we're corrected on some issue or put right?
 
 Do we look with gratitude upon those to whom the Church has entrusted, as our pastors, the care of our souls? Do we know how to exclaim in those situations, "*Dominus est*---It is the Lord!" (John 21:7).
 
-He has often looked upon us with predilection. St. Paul says, "Jesus loved me and gave Himself up for me" (Gal. 2:20). This is the great truth that consoles us. He showed His love by giving His life.
+He has often looked upon us with predilection. St. Paul says, "Jesus loved me and gave himself up for me" (Gal. 2:20). This is the great truth that consoles us. He showed His love by giving His life.
 
 He loves each of us as if each one was the sole object of His affections. Even if we are the only person in the whole world, Christ would still have died for us. He would have shed all of His blood for us. We should meditate often on this truth: that God loves us.
 
@@ -98,7 +98,7 @@ After thinking about it for a while, he agreed, although he hated needles. When 
 
 The nurse had to reassure him that she wasn't going to take all of his blood; she was just going to take a little bit of his blood.
 
-Christ didn't give just a little bit of His blood; He gave all of His blood. This surpasses the most improbable expectations of the human heart.
+Christ didn't give just a little bit of His Blood; He gave all of His Blood. This surpasses the most improbable expectations of the human heart.
 
 No one---without divine Revelation---would dare to guess at or acknowledge the sublime vocation to which each and every person is called: to be God's son or daughter, called to live a close relationship as a friend, to participate in the very Life of the three divine Persons.
 
@@ -108,7 +108,7 @@ Considered with earthbound eyes, it seems a dream, or scarcely credible, but it 
 
 Christ never stops loving us, helping us, protecting us, talking to us, not even in our moments of sheer ingratitude, or after we have committed the greatest disloyalty.
 
-Possibly it was during such sad circumstances that Our Lord has been most attentive to us, as this parable of the lost sheep suggests. Among the hundred sheep in the flock, only the one that was lost had the honor of resting on the shoulders of the Good Shepherd.
+Possibly it was during such sad circumstances that Our Lord has been most attentive to us, as this parable of the lost sheep suggests. Among the hundred sheep in the flock, only the one that was lost had the honor of resting on the shoulders of the good shepherd.
 
 "I will be with you always" (Matt. 28:20). In each situation, at every moment, Our Lord tells us these words.
 
@@ -120,7 +120,7 @@ Certain that Our Lord is close to us, we should be moved to begin and begin agai
 
 A man came to me once in another country. He had left his family, he landed in disgrace, he ended up living under a bridge.
 
-But one time in his life he'd been a member of the Legion of Mary. Another member of the Legion of Mary, in her older years, began to seek out people under the bridge and bring them food and clothing, and happened to know him from thirty, forty years previously, and recognized him, and brought him to a center city confessional box where I used to hear confessions.
+But one time in his life he'd been a member of the Legion of Mary. Another member of the Legion of Mary, in her older years, began to seek out people under the bridge and bring them food and clothing, and happened to know him from thirty, forty years previously, and recognized him, and brought him to a center city confessional box where I used to hear Confessions.
 
 He told me, "You know, Father, I think after all these years, Our Lady hasn't forgotten me. She's brought me back. And now I have cancer, I haven't long to live, but Our Lady has brought me here to make my peace with God. I'm so very happy to be here." It's a very beautiful story.
 
@@ -138,7 +138,7 @@ These words were repeated when the priests and the people were young, and when t
 
 They are the cry of the soul going straight to Christ, a soul who knows he is loved and desires love.
 
-"God loves me. And John the Apostle writes: 'Let us love God, then, since God loves us first' (1 John 4:19). ---As if this were not enough, Jesus comes to each one of us, in spite of our patent wretchedness, to ask us, as He asked Simon Peter: 'Simon, son of John, do you love me more than these?' (John 21:15).
+"God loves me. And John the Apostle writes: 'Let us love God, then, since God loves us first' (1 John 4:19). ---As if this were not enough, Jesus comes to each one of us, in spite of our patent wretchedness, to ask us, as he asked Simon Peter: 'Simon, son of John, do you love me more than these?' (John 21:15).
 
 ---This is the time to reply: 'Lord, you know all things, you know that I love you!' (John 21:17) adding, with humility," said St. Josemaría, "'Help me to love you more. Increase my love!'" (J. Escrivá, *The Forge*, Point 497).
 
@@ -148,13 +148,13 @@ Jesus was always with His people, even after day was done. There were many times
 
 He was raised for our justification (*cf*. Rom 4:25) and ascended into heaven to prepare a place for us (*cf*. John 14:2). He sent the Holy Spirit to forestall our becoming orphans (*cf*. John 14:18).
 
-The more we have needed Him, the more He has been among us. This Divine Mercy exceeds anything the human mind can imagine. This superabundant mercy "is proper to God and is the greatest manifestation of his omnipotence" (St. Thomas Aquinas, *Summa Theologiae*, II-II, Question 30).
+The more we have needed Him, the more He has been among us. This Divine Mercy exceeds anything the human mind can imagine. This superabundant mercy "is proper to God and is the greatest manifestation of his omnipotence" (Thomas Aquinas, *Summa Theologiae*, II-II, Question 30).
 
 "Rejoice with me," He would say, "I have found my sheep that was lost" (Luke 15:6).
 
-St. Gregory the Great comments, "Supreme mercy will not abandon us, even when we abandon him" (St. Gregory the Great, *Homily on the Gospels*). The Good Shepherd never gives up on a single one of His sheep.
+St. Gregory the Great comments, "Supreme mercy will not abandon us, even when we abandon him" (Gregory the Great, *Homily on the Gospels*). The Good Shepherd never gives up on a single one of His sheep.
 
-The Lord also wants to express heaven's joy at the conversion of a single sinner: "In the same way, I tell you, there is rejoicing among the angels of God over one repentant sinner." (Luke 15:10).
+The Lord also wants to express heaven's joy at the conversion of a single sinner: "In the same way, I tell you, there is rejoicing among the angels of God over one repentant sinner" (Luke 15:10).
 
 God is delighted when we begin again after small defeats, when we struggle to correct defects in our character, when we fight to overcome any sense of discouragement.
 
@@ -172,7 +172,7 @@ The Church sings in an ancient hymn: "Lord, you have worn yourself out looking f
 
 Jesus comes out to look for us, comes in search of us. He took upon Himself all the evil of the world and yet He seeks us out. He knows better than anyone the foul nature of sin; nevertheless, He's not angry.
 
-"The Just One presents to us the moving image of Divine Mercy. To the Samaritan woman, she who had six husbands, He says simply, 'Give me to drink' (John 4:7). Christ knows what the soul can become---it can be a reflection of God Himself.
+"The Just One presents to us the moving image of Divine Mercy. ... To the Samaritan woman, she who had six husbands, He says simply, 'Give me to drink' (John 4:7). Christ knows what the soul can become---it can be a reflection of God Himself.
 
 "What possibilities there are! God wants only good things for the soul" (Federico Sopeña, *Confession*).
 
@@ -184,7 +184,7 @@ Our Lord waits for each one of us in each Confession. The Good Shepherd has such
 
 As soon as He finds the lost sheep, He showers it with affection. He carries it home on His shoulders.
 
-Having returned to the safety of the flock, "the lost sheep brings a great peace to the fold, even to the watchdog" (Federico Sopeña,*Confession*).
+Having returned to the safety of the flock, "the lost sheep brings a great peace to the fold, even to the watchdog" (F. Sopeña, *Confession*).
 
 The divine attentions lavished upon the repentant sinner are truly overwhelming. God's pardon does not consist only in forgiving and in blotting out and the forgetting of our sins. That's certainly a great deal in itself.
 
