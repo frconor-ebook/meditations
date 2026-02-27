@@ -6,15 +6,11 @@ title: "St. Mary Magdalen (2026)"
 
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit, Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*My Lord and my God, I firmly believe that you are here, that you see me, and that you hear me.*
-
-*I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful.*
-
-*My Immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me.*
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 Mary was originally from Magdala, a small city of Galilee on the northwest shore of Lake Tiberias. She was one of a group of women who followed Jesus and cared for him out of their own possessions.
 
