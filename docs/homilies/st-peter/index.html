@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- FOUC Prevention: Apply theme and text size before page renders -->
+    <script>
+        (function() {
+            // Apply theme
+            const theme = localStorage.getItem('theme-preference') ||
+                (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', theme);
+            // Apply text size
+            const textSize = localStorage.getItem('text-size-preference');
+            if (textSize === 'large') {
+                document.documentElement.setAttribute('data-text-size', 'large');
+            }
+        })();
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fr. Conor Donnelly Meditations | St. Peter</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/meditations/assets/css/style.css">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0BXLC35GR"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-S0BXLC35GR');
+    </script>
+
+
+
+</head>
+<body data-baseurl="/meditations">
+    <header>
+    <nav>
+        <div class="logo">
+            <a href="/meditations/"><img src="/meditations/assets/images/logo-circ.png" alt="Fr. Conor Meditations Logo"></a>
+        </div>
+        <div class="nav-links">
+            <a href="/meditations/" >Home</a>
+            <a href="/meditations/team" >Team</a>
+            <a href="/meditations/connect" >Connect</a>
+        </div>
+        <!-- Header Controls (Theme + Text Size) -->
+        <div class="header-controls">
+            <!-- Theme Toggle Button -->
+            <button
+                class="theme-toggle"
+                id="theme-toggle"
+                aria-label="Toggle dark mode"
+                title="Toggle dark mode">
+                <svg id="theme-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <!-- Sun icon (shown in dark mode) -->
+                    <path class="sun" d="M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12zM11 1h2v3h-2V1zm0 19h2v3h-2v-3zM3.515 4.929l1.414-1.414L7.05 5.636 5.636 7.05 3.515 4.93zM16.95 18.364l1.414-1.414 2.121 2.121-1.414 1.414-2.121-2.121zm2.121-14.85l1.414 1.415-2.121 2.121-1.414-1.414 2.121-2.121zM5.636 16.95l1.414 1.414-2.121 2.121-1.414-1.414 2.121-2.121zM23 11v2h-3v-2h3zM4 11v2H1v-2h3z"/>
+                    <!-- Moon icon (shown in light mode) -->
+                    <path class="moon" d="M17.293 13.293A8 8 0 0 1 6.707 2.707a8.001 8.001 0 1 0 10.586 10.586z"/>
+                </svg>
+            </button>
+            <!-- Text Size Toggle Buttons -->
+            <div class="text-size-toggle" role="group" aria-label="Text size controls">
+                <button id="text-size-normal" class="active" aria-label="Normal text size" title="Normal text size">A</button>
+                <button id="text-size-large" aria-label="Large text size" title="Large text size">A+</button>
+            </div>
+            <!-- Meditation Counter Badge -->
+            <button id="counter-badge" class="counter-badge" aria-label="View reading history" title="View reading history">
+                <span id="counter-number">0</span> read
+            </button>
+        </div>
+    </nav>
+</header>
+
+    <main>
+        <article>
+    <h1>St. Peter</h1>
+    <p>By Fr. Conor Donnelly</p>
+
+<p><em>(Proofread)</em></p>
+
+<p><em>In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My immaculate mother, St. Joseph, my father and lord, my guardian angel, intercede for me.</em></p>
+
+<p>The Apostles Peter and Paul are considered by the faithful as the first pillars, not only of the Holy Roman See, but also of the universal Church of the living God, spread to the utmost bounds of the earth. Founders of the Church of Rome, the mother and teacher of the other Christian communities. It was they who gave impulse to its growth by the supreme testimony of their martyrdom, suffered in Rome with fortitude. St. Paul VI says, “Peter, whom our Lord Jesus Christ chose as the foundation of his Church, and bishop of this illustrious city, and Paul, the doctor of the Gentiles, teacher and friend of the first community founded here.”</p>
+
+<p>Like most of Christ’s followers, Simon Peter came from Bethsaida, a town in Galilee on the shores of the Sea of Tiberias. Like the rest of his family, he was a fisherman. He met Jesus through his brother Andrew. Shortly before that meeting, which probably took place in the evening, Andrew and John had spent the whole day in the company of Jesus. St. John Chrysostom says, “And Andrew could not keep the immense treasure he had found to himself. Filled with joy, he ran to tell his brother about the great gift that he had received.” Peter came up to the Master, and Jesus looked at him. The Master looked straight at the man who had just arrived, and his gaze penetrated the very depths of his heart. We would like very much to contemplate that gaze of Christ’s, a look which was manifestly able to change a person’s whole life. Jesus looked at Peter in a masterly and affectionate way.</p>
+
+<p>Beyond this fisherman from Galilee, Jesus could see his whole Church stretching out through the centuries to the end of time. Our Lord shows that he has always known him. “You are Simon, son of John,” he says. And he also knows his future. “You will be called Cephas, which means rock” (John 1:42). These words determine the vocation and the destiny of Peter. They prophesy what is to be his whole task in the world. From the beginning, the position of Peter in the Church is that of a rock on which its edifice is built. All in the Church, as well as our own fidelity to grace, have love, obedience, and union with the Roman Pontiff as their cornerstone and firm foundation. St. Leo the Great says, “In Peter, the strength of all is strengthened.” If we look at Peter and the Church on our earthly pilgrimage, we can apply to them the words of Jesus himself.</p>
+
+<p>“And the rain fell, and the floods came, and the winds blew and beat upon that house, but it did not fall because it had been founded on rock” (Matt. 7:25). The rock, with all its flaws and rough imperfections, Our Lord chose that day. An ordinary fisherman from Galilee. As he did those who would later succeed him. The meeting between Peter and Jesus must have deeply impressed those who witnessed it. And they would have been familiar with the scenes of the Old Testament. God himself had changed the name of Abram, the first patriarch: “Your name shall be Abraham, for I have made you the father of a multitude of nations” (Gen. 17:5). He also changed the name of Jacob to Israel: “You have striven with God and men and have prevailed” (Gen. 32:28). Now the solemnity of the occasion, if not the significance of the change of Simon’s name, does not escape the onlookers, in spite of the simplicity and matter-of-fact nature of the encounter. “I have other plans for you,” Jesus had just said to him.</p>
+
+<p>To change someone’s name was to take possession of its owner, a person, and at the same time show him God’s will as it would henceforth affect him in the world. Cephas was not a recognizable proper name, but it was one chosen by Our Lord to denote Peter’s new function. A function that would be fully revealed to him later on when he would become the Vicar of Christ. In our prayer today, we can examine the sincerity of our love shown with deeds towards the one who takes Christ’s place on earth. Do we pray for him every day? Do we make his teachings known? Do we second his intentions? Do we promptly spring to his defense when he is attacked or scorned? What joy we give to God when he sees that we love with deeds his Vicar here on earth. The first, that first meeting with the Master was not the definitive calling. But from that moment on, Peter felt himself captivated by the steady gaze and by the entire person of Jesus.</p>
+
+<p>He did not give up his job as a fisherman, but listened to the Master’s teachings, accompanying him on several occasions and witnessing many of his miracles. It is quite probable that he was present at the first miracle of Jesus in Cana of Galilee, where he would have met Mary, the mother of Jesus. We know that he afterwards went down with Our Lord to Capernaum. One day on the shore of the lake, after an exceptional and indeed miraculous catch of fish, Jesus extended to Peter a definitive invitation to follow him. Peter obeyed immediately. His heart having already been gradually prepared by grace.</p>
+
+<p>Leaving everything, <em>relictis omnibus,</em> he followed Christ as a disciple. One who is prepared to share the lot of his Master in all things. One day in Caesarea Philippi, while they were out walking, Jesus asked his disciples, “Who do you say that I am?” And Peter replies, “You are the Christ, the Son of the living God” (Matt. 16:16). Immediately afterwards, Christ solemnly promises him the primacy of the whole Church. Peter must have remembered those words addressed to him a couple of years earlier on the day his brother Andrew took him to Christ. “You will be called Cephas.” Peter did not change as quickly as his name had changed. He did not display from one day to the next the firmness that his new name denoted. As well as a faith firm as a rock, we see in Peter an impulsive character that sometimes wavers. There is even one occasion when Jesus has to reprove him—he who was going to be the very foundation of the Church—for being a hindrance to him. “Get behind me, Satan” (Matt. 16:23). God reckons upon the passage of sufficient time to bring about the formation of each one of his friends that he has chosen to be his instruments. This can give each one of us a lot of consolation and hope.</p>
+
+<p>Meanwhile he simply counts on their good will. If we have the same good will as Peter, if we’re docile to grace, we too will be turned into instruments fit to serve the Master and carry out the mission he has entrusted to us. If we start over and over again, if we turn to Jesus, if we open our hearts in spiritual direction. Everything, even those events that seem to go against us, even our mistakes and our lack of determination, will help us to come closer to Jesus. Who, like a sculptor with a block of marble, never tires of smoothing out our roughness. And then like Peter, we will hear at moments of difficulty those same words: “O man of little faith, why did you doubt?” (Matt. 14:31). And we will see Jesus not far away, holding out his hand to us. The Master showed special signs of his regard for Peter. However, when eventually Jesus needed him most, during those particularly terrible and dramatic moments when he was abandoned and all alone, Peter denied him.</p>
+
+<p>After the resurrection, when Simon Peter and the other disciples had returned to their old work of fishing, Jesus went specifically to see Peter and showed himself to him by bringing about a second miraculous catch of fish. This brought back to Simon’s soul the memory of that other previous catch when the Master had invited him quite openly to follow him and promised him that he would be a fisher of men. Jesus waits for him now on the shore. He makes use of material things—sticks, fire, fish—which underline the reality of his presence and reinforce the customary familiar atmosphere that always obtained in his relationship with his disciples. When they had finished breakfast, Jesus said to Simon Peter, “Simon, son of John, do you love me more than these?” (John 21:15). And Our Lord said to Simon, “Truly, truly, I say to you, when you were young, you girded yourself and walked where you would. But when you are old, you will stretch out your hands, and another will guide you and carry you where you do not wish to go” (John 21:18).</p>
+
+<p>When St. John comes to write his gospel, this prophecy has already been fulfilled. That is why the Evangelist adds, “This he said to show by what death he was to glorify God” (John 21:19). Then Jesus reminded Peter of those unforgettable words that one day, years before, on the shore of that same lake had changed Simon’s life forever: “Follow me” (John 21:19). A pious Roman tradition tells us that during the bloody persecution of Nero, Peter, having yielded to the fervent pleas of the Christian community, was setting off to seek a safer place from which to continue his governance of the Church. Just outside the gates of the city, he met Jesus carrying his cross. And Peter asked him, “Where are you going, Lord? “ <em>Quo vadis, Domine?</em> The Master replied, “To Rome, to let myself be crucified again.” Peter understood the implication perfectly.</p>
+
+<p>He returned to the city where the cross awaited him. This legend seems to be the final resonance of the protest St. Peter made against the cross the first time Jesus announced the imminence of his passion. Peter met his death a short time afterwards. St. Paul VI says, “An early historian recounts that he asked to be crucified head downwards, as he considered himself unworthy to die like his Master holding his head up.” His martyrdom is recorded by St. Clement, successor to Peter in the government of the Roman Church. Since at least the third century, the Church commemorates on this day, the 29th of June, the martyrdom of Peter and Paul. Their joint <em>dies natalis,</em> the day on which they at last and finally saw their Lord and Master face to face. In spite of his weaknesses, Peter was faithful to Christ to the point of giving his life for him.</p>
+
+<p>We could ask for that same fidelity, in spite of the setbacks that we suffer and all the obstacles that we shall find placed in our way because we’re Christians. We could ask Our Lord to make us firm in the faith, <em>fortis in fide,</em> just as St. Peter asked the first Christians of his to be. St. Paul VI says, “What else could we ask of Peter for our own good? What else could we offer in his honor other than our believing exactly what he believed, which is the origin of our spiritual health, and the promise he demands of us to be strong in the faith?”</p>
+
+<p>The Gospels talk about a great net that is thrown into the sea, which brings in all kinds of fish, some good and some bad. The fishermen throw the good fish into vessels, the bad fish are discarded. The net thrown into the sea is an image of the Church, which holds both the just and sinners. Our Lord teaches this same idea on other occasions. His Church contains saints as well as sinners. His friends and those who abandon the house of the Father to waste the inheritance received in baptism.</p>
+
+<p>Yet all belong to the Church, though in different ways. St. Paul says to the Hebrews that Christ, holy and innocent and undefiled, knew nothing of sin, but came only to expiate the sins of the people (Heb. 2:17). The Second Vatican Council says the Church, however, clasping sinners to her bosom, at once holy and always in need of purification, follows constantly the path of penance and renewal. No matter what sins they commit, sinners continue to belong to the Church, since spiritual goods still subsist in them. Goods such as the indelible character received in baptism and confirmation, the theological virtues of faith and hope, along with charity, which reaches them by reason of all the Christians struggling to be saints. Just as a sick or paralyzed part of the body receives assistance from the rest of the body, so it is with the mystical body of Christ. The Church continues to live in her children who are not in the state of grace. The Church seeks to work against the evil that corrupts their souls. She struggles to keep them in her fold, to bring them back to life with her love.</p>
+
+<p>She conserves them as one conserves a treasure, not easily parted from. One writer says, “It is not because she wants to carry around dead weight; she only hopes that through the power of patience, gentleness, and pardon, the sinner will return to her. It is like the withered branch to which, for lack of sap, time is allowed to regain health and flower once more.” The Church does not forget for one single day that she is a mother. She continually prays for her children who are ill. She waits with infinite patience. She seeks to help them with abundant charity. We ought therefore to bring our prayers to Our Lord, as well as our works, joys, and sufferings, for the sake of those who belong to the Church but who perhaps do not participate fully in the life of grace. We can especially keep in mind those who happen to know personally, who may need to return to the fullness of the spiritual life. We could ask St. Peter in a special way on this feast day for them.</p>
+
+<p>The Church is made up of sinners. But she is without sin. The Church ought not to be judged on the basis of those who have not lived up to their Christian vocation. The Church is made up of sinners. In some cases, great sinners. Yet she herself is free from sin. Just as one can say of Christ that he came from above and not from below, so also does the Church have a divine origin. Christ joined her to himself as his body and endowed her with the gift of the Holy Spirit for the glory of God. The Second Vatican Council said, “This holiness of the Church is constantly shown forth in the fruits of grace which the Spirit produces in the faithful, and so it must be.” It is expressed in many ways by the individuals who, each in his own state of life, tend to the perfection of love, thus sanctifying others.</p>
+
+<p>The Church knows that she is not a creature of this world. She is not a cultural phenomenon, nor a political institution, nor a scientific school, but a creation of the Heavenly Father by means of Jesus Christ. Christ has given the Church his words and his works, his life and salvation. He has been entrusted with this treasure for all generations to come. Sinners belong to the Church despite their sins. They can still return to the house of their Father even if it be at the last moment of their life. Having received baptism, they carry within themselves the hope of reconciliation, which not even the most grievous of sins can erase. The sin which the Church finds in her children does not belong to her. It belongs to her enemy. It would be a shame if we allowed people to judge the Church on the basis of what she is not. John Paul II says, “The Church is a mother through whom we are born to a new life in God.”</p>
+
+<p>A mother should be loved. She is holy with regard to her founder, her works, and her doctrine. But she is nevertheless composed of sinful men. It is our duty to make a positive contribution to the life of the Church, to help her progress along the way of faithful renewal. This is not accomplished by negative criticisms. When people speak of the so-called defects of the Church in days gone by or in the present, they betray a mistaken understanding of the nature of this supernatural institution. “Take heed to yourselves and to all the flock, in which the Holy Spirit has made you guardians to feed the Church of the Lord which he obtained with his own blood” (Acts 20:28). Christ has watched over the Church from its foundation, having cleansed her by the washing of water with the word, that he might present the Church to himself in splendor, without spot or wrinkle, or any such thing, that she might be holy and without blemish (Eph. 5:26–27). When he writes to Timothy, he talks about the Church as being “the household of God, the pillar and bulwark of truth” (1 Tim. 3:15).</p>
+
+<p>If we love the Church, there will never arise in us a morbid interest in airing as the faults of the mother the weaknesses of some of her children. St. Josemарía says, “The Church, the spouse of Christ, does not have to intone any <em>mea culpa,</em> but we do. <em>Mea culpa, mea culpa, mea maxima culpa.</em> Through my fault, through my fault, through my most grievous fault. The only true <em>mea culpa</em> is a personal one, not the one which attacks the Church, pointing out and exaggerating the human defects which, in this Holy Mother, result from the presence in her of men whose actions can go far astray. But which can never destroy nor even touch that which we call the original and constitutive holiness of the Church.” Pope Pius XII says, “The Church is the source of sanctity in the world. She continually offers to men the means for drawing close to God. Certainly our Holy Mother shines out spotless in our sacraments, by means of which she brings forth her children and nourishes them. In her faith, which she has never suffered contamination, in her most holy laws by which she commands all men, and in her evangelical counsels which she proposes to all men. Finally, in her heavenly gifts and charisms, by means of which, with inexhaustible fecundity, she brings forth armies of martyrs and virgins and confessors.”</p>
+
+<p>As the fount of sanctity, the Church has produced many saints down through the centuries. First there were the martyrs who gave their lives for the faith. Later, history records the testimony of innumerable men and women who spent their lives for the love of God, to help others in need. A maternal solicitude. Countless parents have led heroic lives of silent sacrifice, faithfully fulfilling the demands of their divine vocation. Similarly, there are those many men and women who strive to achieve holiness in the middle of the world by living apostolic celibacy. In sum, the Church is holy because all in the Church, whether they belong to the hierarchy or are cared for by it, are called to holiness.</p>
+
+<p>As we conclude our prayer, we could ask St. Peter for that same fidelity, in spite of the setbacks we suffer and all the obstacles we find that are placed in our way because we’re Christians. We ask you, St. Peter, to make us firm in the faith. Help us to live out our Christian vocation in the way that you want us to. St. Paul VI says, “What else could we ask of Peter for our own good? What else could we offer in his honor other than our believing exactly what he believed, which is the origin of our spiritual health and the promise he demands of us to be strong in the faith?” It is this strength that we ask for too, also of our mother, that we may hold fast to our faith without any ambiguity and with a serene firmness, whatever may be the environment in which we have to live.</p>
+
+<p><em>I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My immaculate mother, St. Joseph, my father and lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</em></p>
+
+<p><em>EW</em></p>
+
+</article>
+    </main>
+
+    <footer>
+    <div class="footer-content">
+        <div class="footer-social">
+            <a href="https://whatsapp.com/channel/0029Vb2pjJyGufJ2mE4xvv2F" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Channel">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            </a>
+            <a href="mailto:frconor.ebook@gmail.com" aria-label="Email">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z"/><path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z"/></svg>
+            </a>
+        </div>
+        <p>&copy; 2026 FCD</p>
+    </div>
+</footer>
+
+    <!-- Scroll to Top Button -->
+    <button class="scroll-top" id="scroll-top" aria-label="Scroll to top" title="Back to top">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 15 12 9 6 15"></polyline>
+        </svg>
+    </button>
+
+    <!-- Reading List Modal -->
+    <div id="reading-list-modal" class="modal-overlay" aria-hidden="true" role="dialog" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Your Reading History</h2>
+                <button id="modal-close" class="modal-close" aria-label="Close modal">&times;</button>
+            </div>
+            <div id="reading-list-content" class="modal-body">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/meditations/assets/js/search.js?v=1772701227"></script>
+    <script src="/meditations/assets/js/theme-toggle.js"></script>
+    <script src="/meditations/assets/js/text-size-toggle.js"></script>
+    <script src="/meditations/assets/js/scroll-top.js"></script>
+    <script src="/meditations/assets/js/meditation-counter.js"></script>
+</body>
+</html>
