@@ -133,7 +133,17 @@ convert_file() {
 
     # Convert the file
     if "$CONVERT_SCRIPT" "$doc_file" > "$markdown_file" 2>/dev/null; then
-        echo "✓ $(basename "$doc_file")" > "$status_file.success"
+        # Check that the output is not empty
+        if [ ! -s "$markdown_file" ]; then
+            # Empty output — try fallback with pandoc directly
+            pandoc "$doc_file" --to=markdown --wrap=none > "$markdown_file" 2>/dev/null
+        fi
+        if [ -s "$markdown_file" ]; then
+            echo "✓ $(basename "$doc_file")" > "$status_file.success"
+        else
+            rm -f "$markdown_file"
+            echo "✗ $(basename "$doc_file")" > "$status_file.error"
+        fi
     else
         echo "✗ $(basename "$doc_file")" > "$status_file.error"
     fi
