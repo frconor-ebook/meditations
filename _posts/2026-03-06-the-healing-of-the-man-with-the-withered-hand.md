@@ -1,0 +1,188 @@
+---
+layout: homily
+title: "The Healing of the Man with the Withered Hand"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+We\'re told in St. Mark, "Another time Jesus went into the synagogue, and there was a man present whose hand was withered. And they were watching him to see if he would cure him on the Sabbath day, hoping for something to charge him with.
+
+"He said to the man with the withered hand, 'Get up and stand in the middle.' Then he said to them, 'Is it permitted on the Sabbath day to do good, or to do evil; to save life, or to kill?' But they said nothing.
+
+"Then he looked angrily around at them, grieved to find them so obstinate, and said to the man, 'Stretch out your hand.' He stretched it out and his hand was restored. The Pharisees went out and began at once to plot with the Herodians against him, discussing how to destroy him" (Mark 3:1-6).
+
+On this occasion, Our Lord enters the synagogue. It was a Sabbath day and there was a man there with a withered hand. St. Luke gives greater detail. He said it was his right hand (Luke 6:6).
+
+The scribes and Pharisees, always attentive, were watching to see if He would heal on the Sabbath day, something that was forbidden. The pharisaical interpretation of the Law allowed healing on the Sabbath only if there was danger of death.
+
+This clearly was not the case with this man. He had come into the synagogue with his hope placed in Christ.
+
+Our Lord was well aware of the thought-processes and intrigues of those who were more guided by the letter of the Law than by the spirit of the Law.
+
+Often in Scripture, we see this great contrast: the mind and heart of Christ as opposed to the mind and heart of the Pharisees.
+
+Our Lord says to the sick man, "'Come and stand here.' And he rose and stood there." And Jesus, looking up, fixed His gaze on them and said to the man, "'Stretch out your hand.'"
+
+In spite of all his previous experiences, perhaps, of stretching out his hand, the man made an effort to do so---to do as the Lord had told him, "and his hand was restored."
+
+Above all, the man was cured by the divine power of Christ\'s words, but it is also true that he was cured through his docility in exerting himself to carry out precisely what had been asked of him.
+
+Often Our Lord doesn\'t ask us to climb Mount Everest, to do all sorts of difficult things, challenging things, but often He does ask us for little things, little things each day---our little efforts in our work, our little efforts in our apostolate.
+
+He asks us to do those things that He has communicated to us in spiritual direction, or in Confession, or through our spiritual reading, or in our prayer.
+
+It may be that great miracles depend on our just doing what we have been asked to do. Sometimes it\'s very simple.
+
+There was a Hollywood actress once who won an Oscar, and when she went up to receive the Oscar, she told her little story about how she came to win this Oscar.
+
+She said, "I hadn\'t worked for two years, and this role came up in this particular movie, but I didn\'t like it. I thought this was not my cup of tea, this was not my character, this was not my type of role, this was not my this, this was not my that. But my agent said to me, 'Louise, take the job and be quiet.'" (Except he used words that I can\'t use in this meditation.)
+
+"So," she said, "I took the job and I won the Oscar."
+
+There may be a series of little things in our marriage, in our family life, in our work, in our study, in our apostolate that we are asked to do. When we try and do those things in spite of how we might feel, then God comes along and works all sorts of amazing things.
+
+And this is the way with the miracles of grace. When we\'re confronted with deficiencies which seem insurmountable, we feel very small in the face of the great ideas that God is placing in front of us, or by apostolic goals which might seem to be too lofty or difficult.
+
+The Lord asks us for a special kind of effort: to put our faith and trust in Him. That attitude, on the one hand, consists in confidence in Him---faith, abandonment, hope, trust---shown by our having recourse to the supernatural means available: prayer, mortification.
+
+On the other hand, it consists in doing what we can, listening to what He tells us in the intimacy of our prayer or through spiritual direction. Doing what we can.
+
+Many years ago, there was an old Irish Archbishop of Nairobi---there's a recent biography written about him---sending missionary priests out to difficult areas in far-off lands and he would tell them, "Just do what you can." There\'s a lot of wisdom in that.
+
+But God has great things attached to those little efforts that we make. Some Fathers of the Church have seen in the words of Our Lord---"stretch out your hand"---the need to exercise the virtues.
+
+What is there that you could do? I could improve in my punctuality, or in my order, or in my temperance, or in my justice, or in my kindness, in my patience, or industriousness, or other virtues. All those things are within our reach. I could be a little bit better in the way that I put virtues into practice.
+
+We can grow in the exercise of those virtues by performing small acts of those virtues that we need to acquire every day, taking small steps towards the goal we want to reach which can have an enormous impact on our family, or our children, or our grandchildren, or our neighbors.
+
+If we concentrate on what we\'re doing, often God does wonders through our seemingly small efforts.
+
+If the man with the withered hand had placed his reliance on his own previous experience of stretching out his hand many times, rather than on the word of the Lord, he might not have done the little thing that Our Lord asked of him, and he might have spent the rest of his life with his disability uncured.
+
+Virtues are formed day by day. Sanctity is forged by being faithful in details, in everyday things, in actions which might seem irrelevant if not vivified by grace.
+
+St. Josemaría says in *The Forge*, "We need to smooth off the rough edges a little more each day---just as if we were working on stone or wood---and get rid of the defects in our own lives with a spirit of penance, with small mortifications. \.... Jesus Christ will later make up for whatever is lacking" (Josemaría Escrivá, *The Forge*, Point 403).
+
+It\'s really He who makes sanctity a reality; it is Christ who moves souls. But He wants to take into account our collaboration, which we give by obeying in that which has been pointed out to us, even though it might seem insignificant, as in the case of stretching out one\'s hand.
+
+You remember the other story in the Scriptures of Naaman the Syrian, who was told to go and wash seven times in the Jordan (2 Kings 5:1-14). He was a bit put off because he thought this great prophet would ask him to do some tremendous things, but he was just asked to go and do a simple thing. And it took a little girl to come along and put him right.
+
+If you were asked to do all sorts of amazing things, you might go and do them. Now that he\'s asked you just to do a simple thing, why don\'t you just do it? Listening to the wisdom of this little girl, he just went and did what he was asked, and he achieved his cure.
+
+All of this can lead us to a cheerful, ascetical struggle in which we never tire. Our power resides in what is small.
+
+Some little thing you may say offhand to one of your children just one day when you happen to be there, or some topic comes up in conversation, can last a lifetime. You\'re implanting values, you\'re changing society, you\'re building up a whole new civilization of love.
+
+That struggle in little things and what\'s within our reach is very important. When Our Lord says, "stretch out your hand," He\'s saying to us: Push yourself in the area of those little things which constitute the fabric of your day: teaching this child to put their toys back in the box, or teaching this kid to make their bed, or saying it for the 500th time.
+
+Here in Nairobi, the Chairman of the Board of one of the most important banks gave a talk recently to all the children of all the employees of the bank. The parents were very happy that their child was going to get a talk from this big shot. Maybe he would tell them how to be CEO of a bank or Chairman of the Board.
+
+One of the main messages of this Chairman of the Board to these young people was that if you want to be successful in life, you\'ve got to start by making your bed in the morning.
+
+The mothers were very happy as they told their sons, 'I have told you 500 times you have to make your bed.' They were happy to hear this from the Chairman of the bank.
+
+Sometimes the little things can be important in forging character, in building up a human person, in making a personality.
+
+Often, we may not achieve the goals that we aim at because we\'re not interiorly convinced of the need for divine grace, which makes our small efforts effective.
+
+Lukewarmness can paralyze the exercise of the virtues, whereas love can give it wings. Love has been the great engine of the saints.
+
+Lukewarmness can make the smallest effort seem too difficult. Another phrase for this could be the "old age of the spirit."
+
+Sometimes you can meet elderly people who are full of youthfulness and vitality, but you can meet teenagers who are full of the old age of the spirit: 'Oh, I can\'t make my bed'; 'Oh, it\'s too difficult'; 'Oh, I feel so tired.' Any little effort seems to cost an awful lot.
+
+And so, maybe there\'s an email that we have to send or a call that we should make, or punctuality in carrying out some daily plan that we have for our life. A little grain of sand can become a mountain.
+
+The lukewarm person thinks that 'even though Our Lord may ask me to stretch out my hand, it\'s too much to ask.' As a result of that belief, he doesn\'t stretch out his hand and he\'s not cured.
+
+Love, on the other hand, draws out an abundant supernatural effectiveness from the small acts of virtue that we can perform from morning to night.
+
+St. Josemaría says, "A little act, done for love, is worth so much!" (J. Escrivá, *The Way*, Point 814)---a little act when you pick up a paper clip off the floor or a piece of fluff, or you close the door properly, or you open a window, and you try to do it with love.
+
+That love forges virtues, eliminates defects, enkindles in us the desire for holiness, precisely in the place where we\'ve been placed.
+
+Just as drops of water wear the rock smooth and eventually penetrate it, our repeated good deeds create habits, solid steps in virtue (*cf*. Réginald Garrigou-Lagrange, *The Three Ages of the Interior Life*).
+
+An example in the family that children cannot argue with, an example of truth, of a life of faith lived out in conviction, maybe silent conviction, but that leaves its mark---all these little things keep the virtues alive and increase them.
+
+Charity, in particular, is strengthened by little actions which can scarcely seem important: putting on a good face when it\'s not easy to do so, smiling, welcoming people home, creating an agreeable climate around us even when we\'re tired, so that I forget about my tiredness.
+
+Often, we solve all our own problems by thinking about the others; not speaking of things that annoy or create difficulties for others, not growing impatient in rush-hour traffic, helping a friend who may be falling behind in their work, lending one\'s study notes to someone who may have been sick\...
+
+Deeply rooted defects (our egoism, our envy, our laziness) are conquered by trying to relive this scene of the Gospel, recalling Christ\'s command to "stretch out your hand."
+
+All of us improve if, with God\'s grace, we struggle in the little things: getting up when we should and not any later, having regard to care and order in our way of dressing or in our books, constantly placing order in the things around us.
+
+We improve when we try to serve those who live with us without their noticing and when we try to think less about our health or personal worries.
+
+We should know how to make a good choice of entertainment in our home, what movies or TV programs that we watch. When we come across something that's not convenient, then we have to try and turn it off; we\'ve made a bad choice.
+
+In all those situations, Our Lord is saying to us, "Stretch out your hand." In spite of having failed on many other occasions---possibly like this fellow with the withered hand who many times stretched out his hand and nothing happened---we can overcome our incapacity by making small efforts which come by means of the inspirations of the Holy Spirit, and through the suggestions we receive in spiritual direction.
+
+That\'s one of the reasons why we have to expose ourselves to formative activities, because we need to hear things from time to time. We need to be reminded; the psychology of repetition.
+
+We need to place ourselves in situations where the Holy Spirit can reach us and clearly let Him speak to us, to give us ideas.
+
+Along with God\'s grace, which we can rely upon, holiness also depends in large measure on ourselves, on our own personal effort, on our docility, trying to be unflagging in our efforts, constant, because we know those formation activities are instruments of the Holy Spirit---a monthly recollection, a yearly retreat.
+
+It\'s said of St. Thomas Aquinas that he was a man of few words. One day his sister asked him what was needed for her to be a saint. And without blinking. he said, "To want it."
+
+And so we have to want this goal of our Christian vocation.
+
+We can ask Our Lord that we might come to Him each day wanting to be holy, with deeper desires all the time, being obedient in our struggle to achieve the specific goals that have been set out for us in spiritual direction---which may mean that we should write those things down, look at them on a daily basis or a few times a day, be very focused.
+
+If a footballer is trying to win the Champions League and he knows there\'s some little defect in his game, when a top-class tennis player wants to win Wimbledon, he'll be looking at those little defects of his game pointed out by his coach. He\'ll be looking at it a hundred times a day, because a lot depends on that.
+
+The man with the withered hand was docile to the words of Christ. He got up in the midst of everyone as the Lord had asked of him. He listened to His words telling him to stretch out his diseased hand.
+
+Spiritual direction is geared to the Holy Spirit\'s intimate action within each soul, unceasingly suggesting small conquests which dispose us to receive additional graces: push in this particular virtue now, take care of this other thing, look after that other soul.
+
+When a Christian does all he or she can so that virtues develop in their soul---like removing obstacles, distancing themselves from occasional sin, fighting resolutely and decisively at the first appearance of temptations---then God generously supplies new help to strengthen incipient virtues.
+
+He grants the gifts of the Holy Spirit which perfect the habits already formed by grace: more fortitude, more charity.
+
+Our Lord wants us to have a true desire for holiness, a desire that\'s expressed in specific deeds.
+
+Many of the saints talk about how "love is deeds, not sweet words" (J. Escrivá, *The Forge*, Point 498).
+
+Our Lord wants us to show with our actions that we\'re really serious. In the interior life, general ideas are not enough.
+
+St. Josemaría says in *The Way*, "Have you seen how that imposing building was constructed? One brick after another. Thousands. But one at a time, and bags and bags of cement, one by one. And stone upon stone, each of them insignificant compared with the massive whole. And beams of steel, and men working, hour after hour and day after day. \...Did you see how that imposing building was constructed? ... By dint of little things!" (J. Escrivá, *The Way*, Point 823).
+
+Somebody said once that the whole of architecture "begins by placing one brick on top of another" (Ludwig Mies van der Rohe, New York Herald Tribune, *Interview*).
+
+If you\'re at a wall some time, look a little bit more closely at the bricks that are at the very bottom of the wall that support all the others. That\'s how God wants us to be in our spiritual life.
+
+Often when people talk of holiness, they may mention it in its more striking aspects---the great trials, the extraordinary circumstances, perhaps even martyrdom, novelty, spectacular things---as if Christian life exercised with all its consequences necessarily consisted in these things and were meant only for a few exceptional persons, as if Our Lord had decided to be satisfied with a second-class Christian life for the majority of people.
+
+But the contrary is the truth. The Lord calls everyone to holiness---the very busy mother with children and hardly enough time to manage her household affairs, the businessman, the student, the attendant in a department store.
+
+To all of us, the Holy Spirit says, "This is the Will of God: your sanctification," in St. Paul\'s first Letter to the Thessalonians (1 Thess. 4:3).
+
+That Will is effective because God takes into account all the circumstances of our life through which we shall pass, the ups and the downs, the highs and the lows.
+
+And He gives us the grace needed for us to act in a holy manner, no matter what the external or internal circumstances of our life may be.
+
+To grow in virtue, we have to try and pay attention to what Our Lord is saying to us, often through intermediaries, and we have to put that advice into practice.
+
+Like that agent said to that Hollywood actress, 'Take the job and be quiet.' Often in fulfilling our duties that may not be very attractive, we\'re just called to take the job and be quiet, get it done, carry on, finish it.
+
+Our Lady in Nazareth gives us a wonderful example of docility. "Behold, the handmaid of the Lord" (Luke 1:38).
+
+Pope St. John Paul II says, "She pronounced those words of total availability to God\'s plans, and the Spirit began in her the realization of the plan of salvation" (John Paul II, *Address*, May 30, 1981).
+
+Pope St. John Paul says that her whole vocation was like "a pilgrimage of faith" (John Paul II, Encyclical, *Redemptoris Mater*, March 25, 1987)---faith put into practice in little things.
+
+We can ask Our Mother to help us to be ever more docile to the Holy Spirit, growing in virtue by struggling to attain the little goals of each day.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*DWM*

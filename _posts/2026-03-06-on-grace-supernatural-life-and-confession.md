@@ -1,0 +1,248 @@
+---
+layout: homily
+title: "On Grace, Supernatural Life, and Confession"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+There was a five-year-old kid who was being prepared for First Holy Communion, and the teacher was explaining how in all the sacraments we receive grace. This grace lifts us up onto a supernatural level whereby we can perform supernatural actions, actions above our nature.
+
+The kid was very impressed and excited when he heard these words. He\'d never heard anything so fantastic before.
+
+He\'d seen movies of Batman and Batwoman and Superman and Superwoman and Spider-Man and Spider-Woman, and now he hears that we\'re able to perform supernatural actions. He thought the best thing he could do was to go home and baptize his pet dog, Rufus.
+
+He went home and he got Rufus, and brought him to the bathroom, and filled a mug with water, and poured it over the head of Rufus and said, 'Now Rufus, I baptize you in the name of the Father and of the Son and of the Holy Spirit. Now, Rufus, you should be able to perform a supernatural action, an action above your nature. Talk to me, Rufus, talk to me.'
+
+The story ended with Rufus beginning to talk and saying, 'You\'ll have to be patient with me while I learn to talk because I\'m not very used to talking.'
+
+For Rufus to be able to talk would be an action above his nature. This gives us some idea what it means for us to be able to perform a supernatural action and to lead a supernatural life.
+
+That\'s something to which we\'re all called by our Baptism. Grace cleanses us from sin, from original sin, from all sin, but it also elevates us. It lifts us up onto a supernatural plane.
+
+That\'s why the greatest way for us to live is to live in the state of grace, the most marvelous reality on the planet: to lead a supernatural life with supernatural goals, to look at everything in this world from a supernatural perspective, which is the way God sees things.
+
+That\'s the way they are in reality, not just from our limited human perspective. Therefore it makes an awful lot of sense that we have a hunger for grace.
+
+We come to love the sacraments and appreciate the sacraments, and look for them, strive for them, lead a sacramental life and want that life of grace for everybody around us---first and foremost, our own family, our own children. By living a life of grace ourselves, we hopefully give great example to our children about what is really important.
+
+Over the years I\'ve been impressed to hear some fathers who come for Confession every week, and make it their business to get to Confession. It\'s a small little sacrament or a short sacrament. It takes two or three minutes. It\'s free.
+
+It's something we don\'t think enough about, and yet we get a great amount of grace into our soul. A number of fathers have told me, "Father, you know, I see the fruits in my family of the fact that I get to Confession every week. Somehow there is peace, there is serenity, in my home. And if I miss Confession, I also notice somehow there\'s a bit of a bump in the social relations at home." It\'s a rather beautiful expression of the social consequences of grace.
+
+Scott Hahn says something similar. After he became a Catholic, he said he was sitting at his desk one Saturday afternoon, and his wife comes to him, who was not yet a Catholic, and said to him, "How long has it been since you last went to Confession?"
+
+He felt a bit irritated. "What\'s it to you? You don\'t even believe in the stuff." He felt a little bit got at by this piercing question from his wife.
+
+She said, "All I know is that when you come back from Confession, you\'re kinder to me and the kids."
+
+Very sheepishly, he had to admit it had been three weeks. He describes how later that afternoon he got the car keys and he drove off to see his Confessor.
+
+It was a rather interesting witness, coming from his non-Catholic wife, of the fruits of confession in his soul.
+
+Grace is a wonderful thing. In the sacraments we have something akin to the Victoria Falls or the Niagara Falls of grace. There are torrents and torrents of graces that come into our soul.
+
+St. Paul says there is a super-abundance of grace. "Where sin abounded, there was a super abundance, an overflow of the amount of graces" (*cf*. Rom. 5:20).
+
+Our Lord said to St. Paul, "My grace is sufficient for you" (2 Cor. 12:9). I give you enough grace to conquer every battle, to fight to the end, to be strong, to be victorious.
+
+These are very wonderful terms, very optimistic, full of hope. We\'ve just finished the Feast of the Blessed Trinity where we are reminded of the phrase where Our Lord says we will come and make our abode in Him (John 14:23).
+
+That\'s what divine grace is: the Father, the Son, and the Holy Spirit coming to live in our soul in grace.
+
+That\'s why divine grace is the most fantastic reality on the planet. There\'s nothing compared with that. And to live the life of grace is the most wonderful thing---and hopefully, to die in the state of grace.
+
+Therefore, one very clear goal we should try and have for our life is to live in the state of grace all the days of our life. If we realize what a treasure that is, if ever we lose that state of grace it would be logical to try and get back into the state of grace within twenty-four hours.
+
+The sense of urgency. And to savor the sacraments of Holy Communion, and we receive again those torrents of grace. The Holy Spirit is poured into our soul.
+
+With grace comes an increase in the supernatural virtues of faith, of hope, of charity. We can never have too much of those virtues. We need them. The greatest way to grow in faith, in hope, in charity is to receive the sacraments frequently.
+
+With them we also receive the gifts of the Holy Spirit: wisdom, understanding, counsel, knowledge, piety, fortitude, fear of the Lord---as well as the fruits of the Holy Spirit in our soul: peace, joy, serenity.
+
+That\'s what that father of a family and the wife of Scott Hahn were really talking about. They saw the fruits of the Holy Spirit active in their family.
+
+You could say that the greatest thing that a mother or father can do for their children is to live in the state of grace, to create a Christian home with that grace in their soul. The children grow up savoring that reality, understanding what it means.
+
+I knew a man in Singapore many years ago who had a primary school education. Then he became a salesman, and he was selling pots and pans. He knocked on the door of the president of the Ford Corporation one day expecting to get the wife, but he got the husband.
+
+He didn\'t want any pots and pans, but he was impressed with his sales pitch. He invited him to try his hand at selling cars. He said, "Come to my office on Monday morning and we\'ll start you off selling cars."
+
+He began to sell cars. He graduated to Mercedes Benzes and he ended up importing Rolls Royces. He knew the mileage and the clock of every Rolls Royce in Asia. He made a lot of money.
+
+But then he made a mistake: he gave a present of a watch to someone in government, which in that country you cannot do. The government turned around and bankrupted him. He lost his business, his house, his money.
+
+His wife very kindly left him and he developed stage 4 cancer at the age of 49. And that\'s where I got to know him.
+
+He used to come to see me on a regular basis. He used to attend a class that I used to give downtown on a Tuesday, lunchtime, I think it was.
+
+In the morning of a certain class I was giving I saw a headline in the newspaper that talked about a Hong Kong tycoon. I got rather struck by that word "tycoon."
+
+The class was on divine grace, and I happened to mention during the class that we are "spiritual tycoons," that when we're in the state of grace, we are spiritual tycoons.
+
+Now this man, he said, had come into that class feeling very low as he had for a number of weeks and months. He\'d lost everything of value in his life. And then, he said, "I heard I was a spiritual tycoon." He said, "I came out of that class telling myself I\'m a spiritual tycoon, I\'m a spiritual tycoon."
+
+He said, "I haven\'t felt so good in ages."
+
+A couple of months later he got worse. He couldn\'t drive anymore. He got into a taxi and the taxi driver had a Rosary 'round the mirror. He complimented the taxi driver for being so upfront about his Catholic faith.
+
+The taxi driver said, "I see you\'re very breathless. Is there something wrong?"
+
+He said, "I\'m a dying man, I\'ve got cancer."
+
+"And how did you get cancer?"
+
+"Too much stress." (He thought stress gives you cancer but it doesn\'t.)
+
+The taxi driver said, "You\'ve got to let it all go, get rid of everything, let everything go."
+
+He said, "I have let everything go. I\'ve lost my business, my money, my house, my wife, my health. I\'ve nothing else to let go."
+
+The taxi driver said, "You haven\'t lost Jesus and Jesus hasn\'t lost you."
+
+When he got out of the taxi, this guy called me on the phone and he said, "You know, I just had the same experience with this taxi driver that I had. In your class, I really felt the Holy Spirit speaking to me, telling me I\'m a spiritual tycoon."
+
+And then he said, "Now I realize I don\'t need to attend your class anymore, because what I learn in your class I can learn from taxi drivers." We are spiritual millionaires.
+
+It\'s a rather interesting thought to have some morning when you wake up and you\'re not feeling too good. Remind yourself that you\'re a spiritual tycoon, and therefore the worst possible thing that can happen in our life is that we lose the state of grace.
+
+The world presents to us many things as evils: cancer, sickness, bankruptcy, unemployment, death, obesity. There\'s a new epidemic in the States and other places, the coronavirus. None of these things are evil, because none of these things can keep us out of heaven.
+
+All these things may be a means to our eternal destiny, the eternal wedding feast where we contemplate the Blessed Trinity forever in heaven---the goal of our life.
+
+The only thing that can keep us out of heaven is sin. Therefore, sin is the only real evil, the only thing we have to hate in this world. Sin. The devil.
+
+Try and repeat those words to your children, so they don\'t get fooled that other things are real evils.
+
+In the Garden of Paradise after Adam and Eve committed the first original sin, we\'re told they went and hid themselves. But God came to look for them in the cool of the day.
+
+"And they hid from Yahweh, God, among the trees of the garden. But Yahweh, God, called to the man, "Where are you?" (Gen. 3:8-9).
+
+This "Where are you?" is not just state your longitude and your latitude. It\'s more a metaphysical question: 'To where have you fallen?'
+
+You have this life of unity with God in the Garden of Paradise. You talk to him. There was an intimacy there. But now they\'ve lost that intimacy. They go and hide. Something has been ruptured.
+
+John Paul II says, "There is a fundamental disquiet in the whole of human nature" (*cf*. John Paul II, *General Audience*, May 28, 1980). Sort of an earthquake or a tsunami.
+
+All these things give us an insight into the gravity of sin---falling away from God.
+
+We can ask God for the grace to have a real hatred for sin---mortal and venial. The worst possible thing that can happen to any human person is that he falls into the state of mortal sin.
+
+The Church has made very clear for us the major mortal sins. Stealing large amounts of money. Getting drunk. Missing Mass on Sundays, voluntarily. Everything in the sexual area: masturbation, contraception, abortion, et cetera. Drugs. These are the major mortal sins that people commit.
+
+We have to try and flee from sin as from the devil himself. That\'s why regular sacramental Confession, weekly if possible, is a great help to that. It reminds us of what sin is. It helps us to realize, so we don\'t forget the most important messages of our life.
+
+Somebody said once that a venial sin is like a fly or a mosquito. You can brush it away, perhaps.
+
+But if you have twenty mosquitoes, twenty venial sins, and you have twenty mosquitoes or twenty flies around you, you can\'t think, you can\'t work.
+
+Regularly we need to go and have our soul cleansed, keep our heart clean. Just by driving around town on a good day, will we still get specks of dust on the windscreen? Moving around in a regular way, we get those same specks of dust on our soul: venial sins. We need to wash them away in a regular way and keep our soul sparkling clean.
+
+John Paul II in *Centesimus Annus*, one of his Encyclicals, says, Never forget this, for it is here that the decisive battles for society\'s future are being waged. "The first and most important task is accomplished in man\'s heart. The way in which he is involved in building his own future depends on the understanding he has of himself and of his own destiny" (John Paul II, Encyclical, *Centesimus Annus*, Point 51, May 1, 1991).
+
+Confession is very important for rebuilding society. If every man around us, and every man in government, is in the state of grace, it\'s logical to see that God can control the world. But if every man around us in government is not in the state of grace, then the devil may be in charge.
+
+We bring about a great social revolution by doing the apostolate of Confession---helping the heart of every man to reflect the ideas of God, to be in the state of grace, so that the Holy Spirit can work there.
+
+Solzhenitsyn has a phrase where he says, "Gradually it was disclosed to me that the line separating good and evil passes not through states, nor between classes, nor between political parties, but right through every human heart. ... I\'ve come to understand the truth of the religions of the world. They struggle with the evil inside the human being. It is impossible to expel from the world in its entirety, but it is possible to constrict it within each person" (Aleksandr I. Solzhenitsyn, *The Gulag Archipelago*).
+
+The battle against the evil within us, which is always there, a very important battle for us to wage and give importance to.
+
+There was a man in Manila once who worked in the army, I think he was a porter master, and he had to buy large supplies. He had a supplier from a certain country, and this supplier offered him a huge bribe.
+
+A six-figure sum would go straight into his bank account, while he and his wife would know. And the guy said no.
+
+The supplier was a bit annoyed. He\'d never been refused before, and this was a huge amount of money. He said to the porter master, 'Look, every man has his price. I will find your price.'
+
+When that porter master was driving home that night, he was asking himself, 'I wonder if it\'s true that every man has his price. And if it\'s true, I wonder what my price is, because I\'ve just turned down such a huge amount of money.'
+
+That man used to go to Confession every week, and he used to come to recollections every month and a retreat every year.
+
+He had developed the custom of reading a few lines of the New Testament every evening. When he got home, he opened his Bible, and the Bible fell open at the First Letter of St. Peter, chapter 1, verse 18, which said, "You know that you were redeemed from your vain manner of life, not with perishable things, with silver or gold, but with the precious blood of Christ, as of a lamb without blemish and without spot" (1 Peter 1:18-19).
+
+He said, 'Ah, this is my price. I have been redeemed with the precious Blood of Christ. What a fool I would be to sell my soul for anything less.'
+
+When we look at the Cross, we see how blood flowed in streams down the Body of Our Lord. Even if we were the only person in the whole world, Our Lord would still have died on the Cross for us to redeem our soul. We could ask Our Lord that we might have the grace to learn the gravity of sin.
+
+And really, all we have to do is look at Christ on the Cross. The lashes and the blows and the wounds, all of those things, speak to us of the gravity of sin.
+
+The Archbishop of Paris was telling a story one time in a homily, and he told a story of five young guys who came into the cathedral in Paris, and they made a bet with each other to see who would make a mock Confession. The bet was about five francs, maybe 200 shillings.
+
+Somebody took on the bet, and this guy went in to make his mock Confession, and he made it, and then he came out and he asked for his money. But one of the other guys said, 'Look, if you made a mock Confession, you would have got a penance, so you go up to the front of the church there, and you say your penance.'
+
+He marched up to the front of the church and stood in front of the altar, in front of the crucifix, and took out his fist and shook it at the crucifix, and said, "You died for me. Well, for you, I don\'t give a..."
+
+Then he found he couldn\'t finish it. God gave him the grace in that moment to realize what it meant that Christ had died for his sins on the Cross.
+
+The archbishop finished his homily saying, "I was that young man. I was the one who came into the church. I was the one who took on the bet. I was the one who shook my fist at the crucifix.
+
+"Not only did God give me a light to see in that moment what it meant that he died and shed his blood for my sins, but also he let me see in that moment that he wanted something more from me in my life."
+
+The treasure of divine grace is there always, and helps us to be a little bit more aware of the temptations of the devil that come to us. The Venerable Fulton Sheen says, "There are two clear signs of the devil in the world. One is nudity and the other is violence."
+
+It's a rather interesting little litmus test for us to watch out for, to flee from, to take care that we flee from all occasions of sin, no matter what they are. Occasions of sin are external circumstances that lead us into sin.
+
+I was giving a class once in another country and I happened to mention that if you find yourself in some drinking joint one time, and suddenly the curtain goes up and the dancing girls come on, and you say to yourself, 'I wouldn\'t like my wife to see me here or my children.' Probably, God doesn\'t want to see you there either.
+
+A few days later a man who was in that class came to me and said, "Look, I\'m an auditor in a bank and I travel a lot to different cities, and we finish work at five or six, and then we usually go out for a few drinks. Very often I find myself in one of those places.
+
+"But now I\'ve made a resolution: Before I even go into the place, I ask myself: Would my wife and my children even like to see me going into this place?"
+
+And he said, "Usually the answer is no. I say to the other guys, 'OK guys, I\'ll see you later, I\'m going to go and have dinner somewhere else.'"
+
+That was a man who knew how to avoid what had become an occasion of sin. It changed his life in concrete work circumstances.
+
+Confession for us can be a great joy in our soul. I was rather struck a few times when Protestants who had converted to the Catholic faith would come to Confession regularly.
+
+One time a man said to me, "Father, would you ever mind saying the words of the absolution very slowly? I look forward to this moment every week, when I hear those words: 'I absolve you from your sins in the name of the Father and of the Son and of the Holy Spirit.'"
+
+He was a man who had learned how to appreciate the great gift of grace. Another man said, "You know, Father, when I walk out of this confessional, I know I walk out of here a free man to begin again."
+
+He said, "You know, when you\'re a Protestant you hear about confessing your sins directly to God. That sounds very good. The only trouble with that is that you never know if you\'ve been forgiven or not."
+
+St. \[Peter\] says, "Through these the greatest and priceless promises have been lavished on us., that through them you should share the divine nature and escape the corruption rife in the world through disordered passion." We become "partakers of the divine nature" (2 Peter 1:4).
+
+God doesn\'t just come down into our soul, but we get lifted up to be like God. It\'s a mind-boggling idea.
+
+The Holy Spirit dwells in the soul of the just person. The life of the Christian is a life of dealing with the three persons of the Blessed Trinity or talking to them in a regular way.
+
+We could ask Our Lord that we might appreciate the gift of the sacrament of Confession and love the sacraments. Do a great apostolate of the sacrament of Confession. Yearn to have those graces.
+
+Maybe, look at a crucifix before you make your Confession, to foster sorrow for your sins. Sorrow for sin is not just sorrow because we broke a law.
+
+Sometimes when we break the law we\'re delighted. I was going 'round a roundabout on the avenue one time, and I was in the wrong lane, and a policeman pulled me over and he saw I was a priest.
+
+He was more embarrassed than I was and eventually said a few words and then let me go. As I drove around the roundabout to get to the right lane, I didn\'t lean over the steering wheel and say, 'Oh my God, I\'m heartily sorry for having driven around the roundabout in the wrong lane.'
+
+I was delighted. I got away with it.
+
+When we break the law and get away with it, we\'re delighted. Sorrow for sin is not just sorrow for breaking a law. It's sorrow for hurting someone we love and growing in that refinement of love.
+
+A lady in the early 1960s wanted to go to Confession to Padre Pio. She was from the States. She flew across the Atlantic. She landed in Rome early in the morning. She was feeling tired. She went to a hotel. She decided to lie down and take a bit of a rest.
+
+She\'d catch a late morning Mass. In those days there were no evening Masses. She slept the sleep of the just and she woke up at 3 o\'clock in the afternoon and she missed Mass. She knew she hadn\'t committed a mortal sin because she didn\'t mean to miss Mass.
+
+The following day she went to Piazza Vecchia and she went to Confession to Padre Pio and she confessed all her sins.
+
+When she finished, he said to her, "Is that everything?" She said, "Yes."
+
+He said, "Are you sure?" She said, "Yes."
+
+Then, he said, "What about yesterday when you flew across the Atlantic and you landed in Rome and you fell asleep and you lay down and you slept the sleep of the just and you woke up at 3 o\'clock and you missed Mass?" He could read souls.
+
+Then he said to her, "I know you didn\'t commit a mortal sin because you didn\'t mean to miss Mass, but your negligence hurt Our Lord."
+
+When we examine our conscience, we could look not just at whether our sin is venial or mortal, but to look at our negligences---how we have hurt someone whom we know loves us and hopefully we try and grow in that love ourselves.
+
+We can ask Our Lady, the Mediatrix of All Graces, that she might help those graces to flow in the sacrament of Confession., that we might make better use of the sacrament with our words and with our example try and draw many many people to this great means that God has given to us.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*MVF*

@@ -1,0 +1,214 @@
+---
+layout: homily
+title: "The First Disciples"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"The next day, as John stood there again with two of his disciples, Jesus went past. John looked towards him and said, 'Look, there is the Lamb of God.' The two disciples heard what he said and followed Jesus. Jesus turned around, saw them following, and said, 'What do you want?'" (John 1:35-37).
+
+This meditation is about the first disciples. Some of them had Our Lord pointed out to them as the Lamb of God and they begin to follow Him. They begin to follow Him because they were looking for something.
+
+John Paul II liked to say that there is a hole in the human heart. Everybody suffers from a hole in the heart, and that hole can only be filled by God. These early disciples also were looking for something.
+
+Then we find that "Jesus turned around." Often the verbs in Scripture associated with the Holy Name can be very simple, very short, but very descriptive and eloquent: "Jesus turned." He turned from what He was doing to look at these disciples, the ones that are following Him.
+
+They were going to be very important. "He saw them following, and said, 'What do you want?'" Other translations say, 'Whom do you seek?'
+
+They were seeking something or somebody. Maybe they weren\'t very sure what it was they were seeking, but they knew they needed something. They wanted to satisfy the hole that was there in their heart.
+
+"They answered, 'Rabbi' (which means teacher), 'where do you live?'" They begin to ask Our Lord questions. "He says, 'Come and see'" (John 1:38-39).
+
+It\'s one of the occasions when Our Lord uses this word, "come." He often uses the word "come" all throughout His public life, when He\'s speaking with the disciples.
+
+He invites them to come into a new divine intimacy with Him, to get to know Him a little better, to grow in that friendship.
+
+Ultimately, He\'s going to say those words in a more dynamic way later on. "Come, follow me, and I will make you into fishers of men" (Matt. 4:19).
+
+But it all starts with this early following of Christ, which grows into a friendship, and which ultimately grows into a commitment because there\'s a call there, a divine call.
+
+We\'re also trying to follow Jesus Christ, our master and model. He\'s given us a very personal call. *Meus es tu*-- "You are mine" (Isa. 43:1).
+
+We read in the Readings of the Mass this morning in the Book of Samuel, "Speak, Lord, your servant is listening" (1 Sam. 3:9-10). "Here I am because you have called me" (1 Sam. 3:5,6,8).
+
+Our Lord has given us this call, like with the early disciples. We\'ve been chosen like they were.
+
+The process of that choosing has often been hidden and silent, but Our Lord has been working deep in our heart and in our soul over a long period. Then at a certain moment, He lets us see that it is Him who is calling us.
+
+Samuel, in the beginning, wasn\'t too sure who was calling or why he was being called. It\'s only after a process that he realizes it is God who is calling.
+
+We have been chosen (John 15:16), not because of what we are, but because of what we have to become. Peter was chosen. He was chosen with all his humanity, with all his weaknesses and miseries. But he was chosen.
+
+Each one of the disciples was called to a full correspondence. *Ecce ego, quia vocasti me*--"Here I am because you called me."
+
+We have to try and look at the quality of our response, the quality of our treasure, how we are taking care of that calling, of that grace, the greatest grace that God could have given to us in our life.
+
+How we treasure that calling. How we take care of that treasure, polish it up from time to time. See it as the greatest treasure that we have. The lamp that has been lit. We have to try and "put it on a lampstand" (*cf*. Matt. 5:15) so that we never lose the sense of privilege, of the fact that we are called.
+
+Passing through Ireland a number of years ago, I had half an hour with a priest who has a lot to do with my vocation. He is now 80-plus and not so well.
+
+But in the thirty minutes that we were speaking, three times he said, "We are so lucky in the Work. We are so lucky in the Work." I don\'t remember anything else from that thirty minutes of conversation, but I do remember those words that were repeated.
+
+What a beautiful thing to say at the end of our life, when we look back throughout our life, to be able to say, "We have been so lucky."
+
+I guess that\'s the reality. So lucky about so many things. So lucky because, possibly, we look at the lives of other people around us and they have not been so lucky. Maybe things have turned out a bit of a mess. A great mess, sometimes.
+
+But yet God has chosen us, looked after us, and preserved us. Relying also on our initiative, like St. Joseph, to make the right decisions here and there, to follow the call at all stages of our life.
+
+But also, always with that sense of treasure---a sense of treasure that leads us to take care of that calling and use it well.
+
+"Philip found Nathanael and said to him, 'We have found him whom Moses and the prophets spoke of: Jesus, son of Joseph from Nazareth'" (John 1:45).
+
+They responded to this treasure and this call with a very natural reaction to want to spread that to other people, not burn them up on the inside.
+
+Our Lord has called us in the midst of our daily life, in the same way that He called the first disciples amidst their fishing (Matt. 4:18-22), or Matthew sitting at the tax collector\'s place (Matt. 9:9-13).
+
+Our calling is not an obstacle to our professional success. Rather, quite the opposite. Our calling is the means to our success in every area of our life.
+
+We achieve the expansion of the Work through our sanctification. St. Paul says we are "the ambassadors of Christ" (2 Cor. 5:20).
+
+Yesterday they buried a Loreto nun at the age of 101 and 7 months. But looking back over the course of her life is rather inspiring.
+
+She came to Kenya in 1947. Four years later, she became the principal of Loreto High School Limuru that had just started ten years previously.
+
+All the early girls had run away because they didn\'t know what school was. For a mattress, they had sacks with grass stuffed into the mattress. They had to dodge the Mau Mau bullets in the 1950s. There were Christmases when they didn\'t have any food.
+
+Yet in spite of all of these challenges, little by little they hung in there. They persevered. That school was later to produce a Nobel Prize winner and so many other things. It must have been the backbone of women\'s education in the whole of the country in many ways.
+
+We look at the people who have gone before us and we see inspiring stories. Our calling is a calling to live up to those same sort of standards of self-giving, of hanging in there when there are challenges and contradictions, because "we are the ambassadors of Christ."
+
+When they got their students to the stage of being able to do the Cambridge exam and they sent the girl\'s papers to be corrected, they kept a carbon copy, in case the ship went down.
+
+Nothing, but nothing, was to stand in the way of the education of these girls. Commitment, dedication, focus.
+
+"We have been sent." Sent not to act in our own name; but, like any ambassador, to act in the name of those from whom we have been sent. Ambassadors don\'t speak on their behalf. They have a certain dignity that does not come from themselves, coming from the fact that they have been chosen.
+
+Usually, those ambassadors are very fine people, people you can be proud of: learned, cultured, representative, reliable, pillars, talented. But their stature is all on loan. They can also go back to being ordinary citizens.
+
+We, being ambassadors of Christ, have all the same consequences. Ambassadors fulfill their ambassadorial role in all situations. It\'s not a nine-to-five job. They are people with a message. They carry that message with them. They personify the message, whether it\'s at a cocktail party or whether it\'s on a sports field. They are there to create a good impression, but with a deeper meaning.
+
+In this world, there are ambassadors for all sorts of things. John Lennon became an ambassador for art. Eliud Kipchoge became an ambassador for sports all over the world. There are goodwill ambassadors.
+
+We are the ambassadors of Christ, ambassadors to bring the good news to many different people. "You saw your vocation," said St. Josemaría in *The Forge*, "like one of those pods that contain the seeds. The moment to expand will come and then the seeds will spread out and take root all at once" (Josemaría Escrivá*, The Forge*, Point 972).
+
+We don\'t know how God is using us for things we say, things we do, to light lamps in other people\'s lives, so that they can say to Our Lord, "Where do you live?" He says, "Whom do you seek?" (John 1:38). They find the answers to those questions for which they are longing.
+
+"'Who are these that fly like clouds,'" said St. Josemaría in *The Forge*, "'and like doves to their nesting places?' asks the Prophet (Isa. 60:8). And a certain author comments: 'Clouds come up from the sea and from rivers, and after circling about or following their course for a certain length of time, return once more to their source.'
+
+"And I say to you that this is what you have to be: a cloud which makes the world fertile, making it live the life of Christ. Those divine waters will bathe and drench the very depths of the earth, and filter out the many impurities without themselves being dirtied. They shall give forth sparkling springs, which will later become streams and mighty rivers able to slake the thirst of mankind.
+
+"Afterwards, you shall return to your Shelter, to your boundless Sea, to your God, knowing that the fruits will continue to ripen thanks to the supernatural watering done by your apostolate, and to the fruitfulness of the waters of God which will last until the end of time" (J. Escrivá, *The Forge*, Point 927).
+
+We have been chosen. Chosen like the first disciples to go and leave a furrow. God is using us all the time, using our every word and gesture, every hour of our life to plant fruits in all sorts of places.
+
+We are called to follow Christ. That is the secret to be close to Him.
+
+"I see myself like a poor little bird," said St. Josemaría, "accustomed only to making short flights from tree to tree, or, at most up to a third-floor balcony \... One day in its life it succeeded in reaching the roof of a modest building that you could hardly call a skyscraper.
+
+"And lo and behold, our little bird is snatched up by an eagle, who mistakes the bird for one of its own brood. In its powerful talons the bird is born higher and higher, above the mountains of the earth and the snow-capped peaks, above the white, blue, and rose-pink clouds, and higher and higher until it can look right into the sun. And then the eagle lets go of the little bird and says: 'Off you go. Fly!'
+
+"---Lord, may I never flutter again close to the ground. May I always be enlightened by the rays of the divine sun---Christ---in the Eucharist. May my flight never be interrupted until I find repose in your heart" (J. Escrivá, *The Forge*, Point 39).
+
+We are called to follow Christ, to live with Him. "Master, where do you live?" (John 1:38).
+
+We are called to follow Him so closely that we come to live with Him like the first apostles did, so closely that we become identified with Him.
+
+Soon we will be able to say, provided we haven\'t put obstacles in the way of grace, that we have clothed ourselves with Our Lord Jesus Christ.
+
+We are called not 'in spite of' our weaknesses, but 'because of' our weaknesses, so that the Work can be truly seen to be His. God is the one acting all the time. He is the one who makes us holy.
+
+Come, Holy Spirit, fill the hearts of your faithful (*Prayer to the Holy Spirit*). Transform us in all sorts of ways. Help us to do things, in this new Year of St. Joseph (December 8, 2020 to December 8, 2021), with greater love, like Joseph did things with greater love all the time.
+
+When we do things with more love, they acquire more perfection. When we do things according to our spirit, they acquire more value before God.
+
+Our fidelity is very valuable before Him. We might not lose our vocation because of some major bad thing that we do---murdering somebody, bringing down the stock market---but we could lose our calling through our neglect: neglect of our expense account each month, or neglect of this fraternal correction, or neglect of the plan of life that we are called to practice in a daily way, or some aspects of our family spirit. Some little negligence in our commitment of love: "Love is repaid with love" (J. Escrivá, *The Way of the Cross*, Fifth Station).
+
+St. Joseph, help me be a more loving son of God, to respond like you did to all the challenges that God may ask of us.
+
+Our calling from God can be dangerous. We could find ourselves on the other side of the world. We could find ourselves doing something that we never dreamt of.
+
+It\'s calling to a complete availability. Don Álvaro says that availability is one of the signs of souls who deal a lot with the Holy Spirit. We\'re available for anything. The sky is the limit.
+
+Like St. Joseph: Go here, go there, change your plans. Have the door shut in your face, but take whatever comes. That\'s the meaning of vocation. Hang in there in Egypt for an undisclosed period of time.
+
+A famous writer once asked Mother Teresa, "How do we live out our vocation?" She said, "Spend one hour in adoration every day, and never do anything you know is wrong, and you will be all right" (Henri Nouwen, *The Way of the Heart*).
+
+There are very simple rules and few regulations. Just a few simple things we have to try and do. It keeps us on the right track, but we have to follow that track.
+
+St. Josemaría preached a meditation in the oratory of Muntaner on the 21st of June 1946, I think it was, before embarking on the trip to Rome. He made use of those words of Peter, "Behold, we have left all things and followed you. What will become of us, who've left everything to follow you?" (*cf*. Matt. 19:27).
+
+"Lord, would you have permitted that I, with all my goodwill, deceive so many souls? But I have done it all for your glory and knowing that it is your will. Is it possible for the Holy See to tell us that we have come a century too soon? I have never wanted to fool anyone. I have only wanted to serve you. Would I turn out now to be a trickster?" (Andrés Vázquez de Prada, *The Founder of Opus Dei*, Volume III).
+
+St. Josemaría asks Our Lord these questions with great sincerity. But we know that God is there. He is the Good Shepherd, bringing us along the way.
+
+If we were to ever find ourselves at a stage in our vocation where we ask similar questions, if we don\'t know the future, if we get a bit lost, if we have to discern what step we are to take---we can try and remember our divine filiation, and leave ourselves completely in the hands of God, because that is where we have been chosen.
+
+"A day of salvation," said St. Josemaría in *The Forge*, "of eternity, has come for us. Once again the call of the Divine Shepherd can be heard, those affectionate words: 'I have called you by your name.'
+
+"Just like our mother, he calls us by our name, even by the name we were fondly called at home, by our nickname. ---There, in the depths of your soul, he calls us and we just have to answer: 'Here I am, because you have called me,' and this time I am determined not to let time flow by like water over the pebbly bed of a stream, leaving no trace behind" (J. Escrivá, *The Forge*, Point 7).
+
+We have come to leave our mark. We leave our mark with our holiness, with our correspondence, with all the graces that God has given to us.
+
+We try and have a trusting relationship with the Master, like the Twelve. "Lord, is it I?" (Matt. 26:22). They are all aware that they are capable of the most terrible things, but they try to stay close to Him.
+
+We know there will be difficulties, like the first disciples had difficulties. There are plenty of examples from the life of Christ Himself, from His followers, from St. Josemaría, from all the saints.
+
+But you also know that we are asked to have a deep determination to seek holiness in Opus Dei. This is what it is all about. Whatever things may come my way, this is God\'s pathway for me, so that I am not ruled by my feelings.
+
+'I feel like this, I feel like that. I feel like it, I don\'t feel like it. I like it, I don\'t like it.' We don\'t function on the law of feelings. Everybody feels the pull of certain circumstances, family circumstances, professional circumstances, pulls of the heart, pulls of money, pulls of physical details, difficulties, or age difficulties, or health difficulties.
+
+But we know that in and through all of these things, God is working. He wants us to have an inner toughness, to live out our vocation in spite of all the circumstances.
+
+We are called to place Christ on top of all things. We know that our work is not an end in itself; at least we know it in theory, but possibly not in practice. We know an awful lot of things in theory.
+
+We are flooded with ideas from formation all the time. The challenge is to put them into practice, to make our *plan of life* compatible with the most intense personal work.
+
+"Bear in mind," said St. Josemaría, "that you are not just a soul who has joined other souls in order to do a good thing. That\'s a lot, but it\'s still little. You are the apostle who is carrying out an imperative command of Christ" (J. Escrivá, *The Way*, Point 942).
+
+I remember a priest in the Philippines, an older priest who has passed on now, saying, 'The way is an uphill climb, it\'s a tough, manly struggle. This challenge, that difficulty, that other problem. Day by day and hour by hour, that\'s how we go forward.'
+
+'But,' he said, 'there comes a moment when you look back, and when you look back you see the enormity of things that have been achieved.'
+
+God is using our efforts to achieve greater things, to change culture. We are like the apostles, like the first disciples: ordinary people but transformed by God\'s grace, imitating Christ\'s sense of mission, finding our identity as the apostles of Our Lord.
+
+We are being transformed into Christ. That\'s what holiness is. Our Lord wants us to engrave in our hearts that each one is called to this goal.
+
+God wants me in particular to be a saint. He\'s created me, He\'s elevated me to the order of grace, He\'s redeemed me, He\'s given me many graces because He loves me a lot.
+
+Whether our life grows in the way that He wants it to grow, to a large extent, also depends on us. He doesn\'t 'grow away' our freedom.
+
+Lord, help me to want the goals of my vocation, "like a miser wants his gold...like a sensualist wants his pleasure" (J. Escrivá, *The Way*, Point 316).
+
+Help me to ingrain more deeply in my heart and soul the key areas and the key ideas that St. Josemaría has transmitted to us. "Everyone wants to change the world, but few want to do it by changing themselves" (*cf*. Leo Tolstoy).
+
+The message of personal sanctification is not so much that we convert China, or Alaska, or some faraway place, but that we convert ourselves. We can\'t change China if we don\'t change ourselves.
+
+We can want big things, but we can forget about ourselves in the Work where we\'re taught to change, to go higher, to have a passion for sanctity, to renew our eagerness for this goal of our vocation with a human and supernatural enthusiasm.
+
+Lord, may I never lose my eagerness. May my whole life, like the whole of Creation, give you glory.
+
+I remember a supernumerary in another country who had been ten years in the Work, going to a seminar for supernumeraries, and coming back and saying, 'You know, the main thing I learned from this seminar is that we\'re not just here to sanctify our work. We\'re here to be holy.'
+
+It\'s like a big discovery. Sometimes the central messages of our vocation take time to seep in. They need graces, they need lights from the Holy Spirit.
+
+They\'re the seeds that have been sown that germinate over time and produce those deep ideas and deeper awareness of some of the central ideas.
+
+A necessary part of that personal holiness is apostolate. We know that the basis of all the apostolate of Opus Dei is the personal apostolate of each one of the members---not the center, not the priest, but the personal apostolate that I do.
+
+We could have a whole pile of people in contact, but we might have very little personal apostolate. We have to try and go back and begin again. Begin to climb.
+
+Begin again by asking the Master, "Where do you stay?" because we have the idea that it\'s you that I\'m seeking, and it\'s in you I\'m going to find the meaning and the purpose of my life.
+
+We could ask Our Lady to give a nudge to St. Joseph to help us see, in this Year of St. Joseph, deeper ideas with greater clarity about our calling, so that we can bring it all to its ultimate consequences.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+MML

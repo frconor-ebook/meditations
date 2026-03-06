@@ -1,0 +1,152 @@
+---
+layout: homily
+title: "A Merciful Messiah"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"Jesus called his disciples to him and said, 'I feel sorry for all these people.' Large crowds came to him, bringing the lame, the crippled, the blind, the dumb, and many others; and they put these down at his feet and he cured them. The crowds were astonished to hear the dumb speaking, to see the cripples whole again, the lame walking, and the blind with their sight restored" (Matt. 15:32, 30-31).
+
+We're told, "Jesus called his disciples to him and said, 'I feel sorry for all these people.'" This is why the heart of Our Lord is so often moved. In His mercy, He was to follow up this episode with the wonderful miracle of the multiplication of the loaves (Matt. 15:32-39).
+
+We're reminded in these passages to turn always to the mercy of Our Lord, and to meditate on His life, so as to learn to be merciful to others.
+
+The liturgy places this passage before us during Advent because of an abundance of good things and the limitless mercy which will be the signs of the coming of the Messiah.
+
+"I feel sorry for all these people." This is an overriding reason for giving ourselves to others: to be compassionate and to have mercy.
+
+In order to learn how to be merciful, we have to fix our eyes on Christ, who comes "to save that which was lost" (Luke 19:10).
+
+He doesn't come to crush the broken reed or to wholly extinguish the wick that still smolders (*cf*. Matt. 12:20), but to take upon Himself our wretchedness and save us from it, and to share in their misfortune with those who suffer and are in need. Each page of the Gospel is an example of divine mercy.
+
+We should meditate on the life of Jesus because, as St. Josemaría says, "\[The life of\] Jesus is a summary and compendium of the \[story\] of the divine mercy. Many other scenes of the Gospel," he continues, "also make a deep impact on us, such as his forgiveness of the woman taken in adultery, the parables---the prodigal son, the lost sheep, the pardoned debtor---and the raising to life of the son of the widow at Naim.
+
+"How many reasons based on justice could Christ have found to work as great a wonder as this last one! The only son of that poor widow had died---he who gave meaning to her life, he who would help her in her old age. Jesus did not perform his miracle out of justice, but out of compassion, because his heart was moved by the spectacle of human suffering" (Josemaría Escrivá, *Christ Is Passing By*, Point 7).
+
+The mercy of God is the essence of the whole history of salvation, the reason for all His saving actions.
+
+God is mercy. And this divine attribute is like the engine supplying the power that energizes the life story of every human being.
+
+When the apostles wanted to sum up God's revelation, His mercy always appeared to them to be the essence of an eternal and gratuitous plan springing from God's generosity. With good reason, the Psalmist could affirm: "The earth is full of the steadfast love of the Lord" (Ps. 33:5).
+
+Mercy is constant in God's attitude to mankind. And recourse to it is the universal remedy for all our ills, including those for which we thought there was no answer.
+
+Meditating on the mercy of God should fill us with great confidence "now and at the hour of our death," as we pray in the *Hail Mary*.
+
+What a joy to be able to say to God, with St. Augustine: "All my hope lies solely in your great mercy!" (St. Augustine, *Confessions*, *Book 10*).
+
+Solely in that, Lord. On your mercy rests all my hope. Not on my merits, but on your mercy.
+
+In a special way, God shows His mercy towards sinners: He pardons them their sins. The Pharisees often criticize Him for this. He rebuts their criticisms saying: "It is not those who are well who have need of a physician, but those who are sick" (Matt. 9:12).
+
+We who are sinners are sick of soul and need to have recourse many times to the divine mercy. In the Psalms, we say, "Show us, O Lord, your mercy; and grant us your salvation" (Ps. 85:7). The Church repeats these words continually in this liturgical season.
+
+On so many occasions, every day even, we will have need to have recourse to the merciful Heart of Jesus and say: "Lord, if you will, you can make me clean" (Matt. 8:2).
+
+Pope St. John Paul in his encyclical *Dives in Misericordia* ("Rich in Mercy"), says, especially in these circumstances, "The knowledge of God, the God of mercy and benign love, is a constant and inexhaustible source of conversion, not only as a momentary interior act, but also as a stable disposition, like a state of mind. Those who come to know God in this way, those who so regard Him, cannot live without being incessantly transformed by Him."
+
+We can also say, as it is said in the Book of Sirach: "How great is the mercy of the Lord, and his forgiveness for those who turn to him!" (Sir. 17:29). Great is the divine mercy toward each one of us.
+
+This can lead us to turn frequently to God, in repentance for our faults and sins, especially in that sacrament of divine mercy which we call Confession.
+
+God has placed a condition for our obtaining His compassion and mercy for our offenses and weaknesses. The condition is that we too should have a heart of compassion for those around us.
+
+In the parable of the good Samaritan (Luke 10:30-37), Our Lord teaches us the attitude that we should adopt towards a neighbor in distress. We're not permitted to "pass by on the other side" in detached indifference. Rather we must "go" to him.
+
+One morning many years ago, I was going to say Mass in a conference center outside Dublin. It was, maybe, a 45-minute drive. I was a little bit late, so I had my foot on the accelerator. Then I happened to see a car coming out of a side road and hitting a lorry. The front wing of the car was torn off. It was a bit dramatic.
+
+I slowed down. I could see that the only damage really was to the car. Nobody was injured. There was a bit of drama, but nothing else. So, I kept going and I put my foot on the accelerator to try and catch up on the time that I had lost.
+
+But after going about 100 meters, I remembered the story of the Gospel about the priest who went by on the other side of the road.
+
+Listening to my conscience, I had to turn around and go back and double-check that everybody was okay, and give my phone number as a witness, and a few more things. Then I proceeded with my journey a bit more serenely than before.
+
+We can all be that person who goes by on the other side of the road with all sorts of hurried excuses. St. John Paul, in his Apostolic Lette*r Salvifici doloris* ("The Salvation of Sorrow or Pain") says: "A good Samaritan is one who stops to relieve the suffering of the other, no matter who he or she may be. This stopping is not just merely from curiosity, but rather from the desire to make ourselves available.
+
+"It's a specific interior disposition of the heart, which also has its emotional side. Good Samaritans are those who are affected by the suffering they see around them; they are genuinely moved by their neighbor's misfortune."
+
+Each of us has to feel bad that people around us do not perhaps have the dignity or the care that they should have as human beings. And it's not enough for us to feel bad about it. We have to try and do something about it, and infect other people with that sort of thinking, particularly our children, with our words and with our examples.
+
+St. John Paul says, "If Christ, who knows the interior of man, emphasizes this compassion, this means that it's important for our whole attitude towards the sufferings of others. Therefore one must cultivate this sensitivity of heart, which bears witness to compassion towards a suffering person. Sometimes this compassion remains the only or the principal expression of our love for and of our solidarity with the sufferer" (John Paul II, Apostolic Letter, *Salvifici doloris*, Point 28, February 11, 1984).
+
+The word compassion comes from two Latin words, *com passio*, to suffer with.
+
+Throughout Sacred Scripture there's an urgency on God's part to see that men also have the stirrings of sympathy and deep-seated feelings of mercy, that they too have this "compassion for another's misery, which moves us to remedy it, if at all possible" (St. Augustine, *The City of God)*.
+
+We can look around us and see in our home, in our office, in our workshop, in our neighborhood---is there not some person who's handicapped, either physically or morally, or elderly, who perhaps needs urgently our time, our affection, and our attention?
+
+Our Lord promises us happiness if we have a merciful heart towards others, and gives assurance that "we will obtain mercy" (Heb. 4:16) from God in the same measure as we show it to our fellow men.
+
+The scope for mercy is as great as the extent of the human suffering that needs to be remedied. And, since mankind is subject to misery and calamity in the physical, intellectual, and moral order, the possible works of mercy are innumerable---as many as men have needs---though traditionally, by way of example, fourteen 'works of mercy' have been cited, since in them, this virtue is capable of being exercised in a special way.
+
+Our attitude of compassion and mercy must, in the first place, be shown towards those who are near us---our family, our friends, our close associates---to those whom God has placed at our side, and then to those beyond who are most in need.
+
+Mercy will frequently consist in our attention to the health, the recreation, and the nourishment of those whom God has commended to our care. The sick merit a special attention in terms of our company and our real interest in their illness, as we show them how and help them to offer their sufferings to God.
+
+In a society dehumanized by frequent attacks on the family, more and more old people and those who are ill are left without consolation and affection. Visiting them in their loneliness is a work of mercy that has never been more necessary.
+
+The time spent in keeping them company is rewarded by God in a special way: "As you did it to one of the least of these my brethren, you did it to me," said Our Lord (Matt. 25:40).
+
+Alongside the so-called material works of mercy, we should also carry out those that are spiritual. In the first place it is our privilege and duty *to correct those in* *error* with our advice when the opportunity arises, and charitably, without ever causing offense.
+
+Secondly, it is *to teach those who don't know,* especially with regard to ignorance of religion, an ignorance which is the great enemy of God; it increases daily in alarming proportions so that catechesis has become a work of mercy of prime importance and urgency. St. Teresa of Calcutta says ignorance is the greatest poverty.
+
+Next comes giving *counsel to the doubting*, honestly and with the right intention, so as to help them on their way to God. Then follows the *consolation of the afflicted*, by sharing their sorrow and encouraging them to recover their happiness in their supernatural understanding of the pain they suffer.
+
+*Pardon for those who have offended us*, promptly and as often as necessary, without giving excessive importance to the offense. We are advised too, *to give help to the needy*, carrying out this service generously and joyfully.
+
+And finally, we have to *pray for the living and the dead*, feeling ourselves linked in a special way through the Communion of Saints to those we owe most because of family relationships, or friendship, or whatever else.
+
+Our attitude of merciful benevolence towards others must extend to many different aspects of life because, says St. John Chrysostom, "nothing can make you such an imitator of Christ as your concern for others. Although you fast, although you sleep on the floor, even though, I dare to say, you kill yourself, if you are not attentive to your neighbor, you have done very little; you are very far from being an image of Christ" (St. John Chrysostom, *Commentary on the First Epistle to the Corinthians*).
+
+We will ourselves obtain God's mercy and perhaps also merit it for others in that immense depth of "mercy that extends from generation to generation," as Our Lady prophesied to her cousin Elizabeth (Luke 1:50).
+
+We can also call down the divine mercy on ourselves, who are so much in need of it.
+
+As Christians, we manifest our unity of life by encouraging the works of justice and mercy. Heal the sick, raise the dead, cleanse the lepers\...
+
+From the Church's earliest days, faithful Christians spread the faith to all parts of the world. From those first years too, vast numbers of Christians have "committed their powers and their lives to liberation from every form of oppression and to the promotion of human dignity.
+
+"The experience of the saints and the example of so many works of service to one's neighbor are an incentive and a beacon for the liberating undertakings that are needed today," said the Sacred Congregation for the Doctrine of the Faith (CDF, *Instruction on Christian Freedom and Liberation*, Point 57, March 22, 1986).
+
+They are needed perhaps with an even greater urgency than in other periods of history.
+
+Our faith in Christ moves us to be aware of our common involvement with the problems and shortages that other people experience, often with their ignorance and their lack of economic resources.
+
+St. John Paul says this solidarity with our fellow man is not a "superficial sentiment about the evils that beset so many people, whether close to us or far away," but "a firm and persevering determination to strive for the common good; that is to say, for the good of all and of all individuals, so that we may all be truly responsible for all persons" (John Paul II, Encyclical, *Sollicitudo rei socialis*--The Concern of the Church for the Social Order, Point 38, December 3, 1987).
+
+Faith leads us to feel a deep respect for others, for each person, and never to remain indifferent to other people's needs.
+
+Following Christ will manifest itself in deeds of justice and mercy; it will show itself too in our determination to get to know the principles of the social doctrine of the Church and to carry them out, first of all in all our surroundings, right there where we live.
+
+I remember my father coming back from bringing us to swimming lessons as kids. We'd see sometimes a crocodile file of orphans who were going to a local orphanage and were coming from, maybe, the beach as well.
+
+We didn't know who these people were, what these kids were about, or what was their problem. We didn't understand. I remember him buying ice cream for those kids, and we were still left with question marks.
+
+Only many years later do you realize what that little gesture was, from a father of a family, in silence, doing that little gesture. It left its mark.
+
+This period coming up to Christmas is a very interesting period, a potential period to engrave these messages in the lives of our children.
+
+It should be possible to say of each one of us at the end of our lives, as it was said about Our Lord: "He went about doing good" (*cf*. Acts 10:38).
+
+We have to do good within our own families, among our colleagues at work and among our friends, and even with those people whom we just chance to come across.
+
+Our Lord has opportunities outlined for us. There's a document of the Spanish Episcopal Conference, *Catholics in Public Life,*which says: "As disciples of Christ, we have to be stewards of fraternity, whatever occasions and circumstances life brings with it. When a man or woman lives the Christian spirit in all its intensity, all his or her activities and relationships reflect and communicate God's love and the surpassing goods of the Kingdom.
+
+"As Christians we need to know how to make fast and strengthen our relationships each day with our families, our friends, and our neighbors, whether we are at work or at leisure, sealing them with the seal of Christian love, which is simplicity, truthfulness, faithfulness, meekness, generosity, solidarity, and joy."
+
+We can ask for the mercy of God to be extended to our generation through Mary, Mother of Mercy, our life, our sweetness, and our hope (Prayer, *Hail Holy Queen*).
+
+Now that the Feast of the Immaculate Conception is so near, our confident reliance on Our Lady will, if we have recourse to her, be more continuous and loving.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*MML*

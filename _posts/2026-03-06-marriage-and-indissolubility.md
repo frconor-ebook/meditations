@@ -1,0 +1,222 @@
+---
+layout: homily
+title: "Marriage and Indissolubility"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me..*
+
+"Some Pharisees approached Jesus, and to put him to the test, they said, 'Is it against the Law for a man to divorce his wife on any pretext whatever?' He answered, 'Have you not read that the Creator from the beginning made them male and female and that he said: This is why a man leaves his father and mother and becomes attached to his wife, and the two become one flesh? They are no longer two, therefore, but one flesh. So then, what God has united, human beings must not divide.' They said to him, 'Why then did Moses command that a writ of dismissal should be given in cases of divorce?'" (Matt. 19:3-7).
+
+The Pharisees tried to trap Our Lord with a tricky question: Is it lawful to divorce one\'s wife for any cause?
+
+There were different schools of thought on how to interpret the Scriptures on this particular issue. Divorce was commonly allowed. The question had to do merely with the ideas behind the motives.
+
+Our Lord takes advantage of this idle question to delve into the very heart of the matter, which is the fact of indissolubility.
+
+"He said to them, 'It was because you were so hard-hearted that Moses allowed you to divorce your wives, but it was not like this from the beginning. Now I say this to you: anyone who divorces his wife---I am not speaking of an illicit marriage---and marries another, is guilty of adultery.' The disciples said to him, 'If that is how things are between husband and wife, it is better not to marry.' But he replied, 'It is not everyone who can accept what I have said, but only those to whom it is granted'" (Matt. 19:8-11).
+
+As the Supreme Author of all legislation, Christ restores matrimony to its original essence and dignity, to the way intended by God.
+
+"Have you not read that he who made them from the beginning made them male and female?" and said, "For this reason a man shall leave his father and mother and be joined to his wife, and the two shall become one" (Matt. 19:4-5).
+
+Our Lord proclaimed the unity and indissolubility of matrimony for all time, over and above any human consideration.
+
+There are many reasons which support the indissolubility of the marriage bond: the nature of conjugal love, the good of the children, the good of society...
+
+But the fundamental reason for the indissolubility of marriage is that it is the Will of the Creator. This is how He wanted marriage to be---one and indissoluble.
+
+The marital bond is so strong that it can be broken only by death. St. Francis de Sales used to say, "If the adhesive is good, two pieces of firewood glued together will stick so fast to one another that it is easier to break them in any place other than the one where they have been joined together" (St. Francis de Sales, *Introduction to the Devout Life*). So it is with matrimony.
+
+*Lumen gentium* of the Second Vatican Council said that husband and wife need to see marriage in terms of a vocation, which is a gift from God.
+
+St. Josemaría in *Christ Is Passing By* (Point 23) says that when marriage is viewed in this way, everything about family life and conjugal duties, the education of the children, the struggle for economic security---all of these demands---take on a supernatural meaning.
+
+They become opportunities to draw close to God. Husband and wife then look with eyes of faith upon the many challenges that face them, confident in the knowledge that God will provide. This is the pathway of sanctity for the married person.
+
+There was a lawyer in Sydney who told a story of how she was approached by an elderly couple. He was 86 years old and she was 83.
+
+She said, "What can I do for you?"
+
+They said, "We want to get a divorce."
+
+"And why do you want to get a divorce?"
+
+"Because we don\'t love each other anymore."
+
+This lady tried to remember all the points from the meditation on charity that she had heard in her last retreat. She gave them an impromptu talk there and then.
+
+"You know, 'charity is patient, charity is kind' (1 Cor. 13:4). It lets the matters flow under the bridge. It doesn\'t make a mountain out of a molehill. It\'s thoughtful. It\'s forgiving."
+
+She went on as best she could, and she asked them to go away and think about this for some time. They weren\'t very convinced, but the husband said, "Well, we\'ll give it a try." They went away.
+
+Three years later, the wife came back to tell the lawyer, "My husband has just passed away, but I wanted to come back and to thank you, because we\'ve just had three of the most wonderful years of our whole life."
+
+The moral of the story is that we\'re always beginning again in love. Love is a mystery. We never quite exhaust the mystery.
+
+Our faith and the teachings of the Church teach us wonderful treasures. We\'re blessed with a more perfect understanding of the nature of marriage and of the importance that the family has for each person, for the Church, and for society.
+
+Consequently, we have a responsibility to defend and promote this human and divine institution particularly in these times when it\'s under attack from many quarters: in magazine articles, in newspapers, with special publicity given to sensational scandals, with, maybe, television series that little by little deform the consciences of millions of viewers.
+
+When we give others sound doctrine, that of the natural law enlightened by faith, we\'re doing a great good to the whole of society.
+
+It\'s good to examine our conscience in our prayer, and ask ourselves:
+
+What am I doing to defend the family, especially its weakest members, who can suffer most harm from these attacks?
+
+Are we trying our best to live those virtues which are of such help to everyone: mutual help, mutual respect, a spirit of service, friendship, understanding, optimism, a joy that is independent of feelings, a concern for everyone, and especially the most needy?
+
+Our Lord\'s doctrine concerning the indissolubility and dignity of marriage was shocking to those present. Even His disciples commented, "If such is the case of a man with his wife, it\'s better not to marry" (Matt. 19:10).
+
+Then Our Lord went on to affirm the value of celibacy and virginity for the love of the kingdom of Heaven.
+
+St. John Paul II liked to emphasize that the real marriage takes place later. We\'re all called to the eternal wedding feast.
+
+It\'s a similar way of putting the doctrine that St. Josemaría used to say: that marriage is a pathway to holiness (Josemaría Escrivá, *Conversations*, Point 91).
+
+If there are challenges and difficulties in this world, that\'s all part of the journey. But we can all look forward to the eternal wedding feast.
+
+He said that people who skip the historical reality, who lead celibate lives, give witness to the fact that the real marriage comes later.
+
+The complete surrender to God "with an undivided heart" (1 Cor. 7:35), as St. Paul says, without the mediation of conjugal love, is one of the most precious possessions of the Church. It\'s a symbol of hope about the eternal wedding feast.
+
+Those who have received the call to serve God in matrimony must do so precisely in the faithful fulfilment of their marital duties. For them, it\'s the sure road to heaven.
+
+Those who receive the vocation to apostolic celibacy will find, in their total commitment to God, the grace necessary to live happy lives and attain sanctity in the midst of ordinary life, if this is their call from God.
+
+They are everyday citizens with a well-defined professional calling, fully given to God and to the apostolate, without limits and without conditions.
+
+The call to complete dedication is a special sign of affection from God. He gives specific graces to help His children on this path.
+
+The Church grows in sanctity because of the fidelity of Christians, each one responding to the personal call that he or she has received from Our Lord.
+
+The Second Vatican Council's *Lumen gentium* says, "This is a precious gift of divine grace given by the Father to certain souls (*cf*. Matt. 19:11; 1 Cor. 7:7), whereby they may devote themselves to God alone the more easily, due to an undivided heart."
+
+This complete self-giving to God "has always been held in particular honor in the Church. The reason for this was and is that perfect continency for the love of God is an incentive to charity, and is certainly a particular source of spiritual fruitfulness in the world" (Vatican II, *Lumen gentium*, Point 42).
+
+Both matrimony and virginity are necessary for the growth of the Church. Both presuppose a specific vocation from Our Lord.
+
+Virginity and celibacy do not contradict the dignity of matrimony. Quite the opposite; they reaffirm it.
+
+In his Apostolic Exhortation on the Family**,** *Familiaris consortio*, St. John Paul II said, "Marriage and virginity or celibacy are two ways of expressing and living the one mystery of the covenant of God with His people."
+
+If one does not esteem virginity, one has not understood the dignity of matrimony in all its fullness.
+
+"When human sexuality is not regarded as a gift of great value given by the Creator, the renunciation of it for the sake of the Kingdom of Heaven loses its meaning," said \[St. John Paul II\].
+
+St. John Chrysostom has written, "Whoever denigrates marriage also diminishes the glory of virginity. Whoever praises it makes virginity more admirable and resplendent" (St. John Chrysostom, *Virginity*).
+
+The witness of love manifested in virginity or apostolic celibacy is a source of joy to the children of God. This witness becomes a new way to see Our Lord in this world, to contemplate His face by means of His creatures.
+
+This is a shining example of the purity of the Church for both Christians and non-believers. It brings with it a special youthful spirit and a joyful apostolic effectiveness.
+
+"In spite of having renounced physical fecundity, the celibate person becomes spiritually fruitful, the father and mother of many, cooperating in the realization of the family according to God\'s plan.
+
+"Christian couples, therefore, have the right to expect from celibate persons a good example and a witness of fidelity to their vocation unto death.
+
+"Just as fidelity at times becomes difficult for married people and requires sacrifice, mortification, and self-denial, the same can happen to celibate persons, and their fidelity, even in the trials that may occur, should strengthen the fidelity of married couples" (John Paul II, Apostolic Exhortation, *Familiaris consortio*, Point 16, November 22, 1981).
+
+St. Ambrose, talking about virginity, said, "God so loved this virtue that He did not want to come to earth without it, being born of the Virgin Mother" (St. Ambrose, *Treatise on Virginity*).
+
+We can ask Our Lady that there will always be people in the world who answer this call of the Lord, people who know how to give God an undivided heart. It\'s this kind of sacrifice which will permit an unlimited generosity to others.
+
+To live out the fullness of one\'s vocation, it\'s necessary to live purity and chastity in accordance with one\'s state in life.
+
+God gives the graces necessary to those called to matrimony, as well as to those called to give their whole hearts, so that they may all be faithful.
+
+Holy purity is not the most important virtue, but it\'s indispensable for anyone wishing to enjoy intimacy with God.
+
+It may happen that in some environments this virtue has gone out of fashion. It may seem that to live the virtue and all its consequences may appear to many people as incomprehensible or utopian.
+
+But we should remember that the first Christians also had to confront a hostile and aggressive environment in this and in many other areas of morality.
+
+With the passage of time, the pastors of the Church felt that they were under obligation to spell out the parameters of Christian conduct.
+
+The counsels of St. John Chrysostom are a good example. They seem almost as if they were directed to many Christians of our own day.
+
+The message modern culture can give us is that you have to be nuts to be chaste, or being chaste makes you nuts, when we know that the opposite is the truth.
+
+The example of so many married couples who've lived pure and chaste lives, and fertile lives, and the profound happiness which they achieved, is a great witness to the contrary.
+
+It seemed in those times that the culture of the time said to people, \[as St. John Chrysostom wrote\], "What do you want us to do? Go up into the mountains and become monks? What you are saying makes me cry. You think that modesty and chastity are just for monks? No. Christ laid down common laws for all of us."
+
+St. John Chrysostom says, "And so, when He said: 'everyone who looks at a woman lustfully' (Matt. 5:28), He was not speaking to a monk, but to the man in the street. I do not forbid you to marry, nor do I forbid you to enjoy life," he said.
+
+"I only ask that you do this with temperance, not with impurity, not with countless sins. I do not lay it down as a law that you go into the mountains and out into the deserts. I want you to be good, modest, and chaste, even though you\'re in the middle of the world" (St. John Chrysostom, *Homilies on St. Matthew's Gospel*).
+
+We can see from the things St. John Chrysostom had to say that the atmosphere of the time was pretty colorful.
+
+It called for a lot of heroism and daring and fortitude and very clear ideas about what was right and what was wrong, and also with a very clear notion that doing things that are right is what will lead us to happiness.
+
+We can accomplish wonderful things in the world by living the virtue of purity and chastity with refinement. We will bring the "sweet fragrance of Christ," as St. Paul calls it (2 Cor. 2:15), to all the places that we frequent.
+
+We could ask Our Lord in our prayer that from living in the state of grace, from being aware that we carry the Blessed Trinity within us---that our words, our example, the atmosphere around us, in our family, in the domestic Church, in our office, in our club, in the places where we meet with people---that we might truly bring that sweet fragrance of Christ, which is so attractive, so apostolic, so beautiful.
+
+These virtues are accompanied by others which don\'t attract too much attention, but which do add up to a general comportment that\'s always attractive.
+
+We can take as examples of these virtues details of modesty in dress, in neatness, in sports, and in recreation.
+
+Wherever we are, whatever we\'re doing, we should always try to look well and reflect the dignity of the human person, which is a very key and deep part of our whole faith.
+
+You could also include, in this way of living, the refusal to listen to, or to engage, in conversations that are beneath the dignity of a Christian and of any decent person. There\'s a certain line below which certain jokes are not acceptable.
+
+We should plan our holiday periods to avoid places that can cause moral harm. And above all, just give the cheerful example of our own life, optimism in the face of ups and downs, and a genuine love of life.
+
+The virtue of purity is so important to every apostolate in the middle of the world that we can think of it as the guardian of love.
+
+Human love, which is the most beautiful reality on the planet, is a reflection of God\'s love, something that we have to communicate to young people, so that their ideas of love are not messed up by the devil, which seems to be happening so frequently.
+
+It\'s precisely here that this holy virtue is nourished and acquires meaning. It protects and defends both human and divine love. If our love were to die out, it would be very difficult, even impossible, to live this virtue in all of its youthful fullness.
+
+When Our Lord elevated matrimony to the dignity of a sacrament, He was doing something completely unprecedented. The transformation might be likened to the time in Cana when He changed the water into wine (John 2:1-11).
+
+"Behold, I make all things new," says the Book of Revelation (Rev. 21:5). Christ elevated the natural reality of Christian marriage to a supernatural plane. Marriage between non-Christians was also filled with grandeur and dignity.
+
+One writer says, "The ideal proposed by Christ to married couples is infinitely greater than that of human perfection. It is a totally new concept. It literally means that the spouses receive divine life through the sacrament.
+
+"This is what sustains their work of mutual perfection. This is what has to inspire their children from the moment of Baptism" (José M. Martínez Doral, The Holiness of Conjugal Life, *Scripta Theologica*).
+
+Those who marry begin a new life in the company of the Lord. God Himself has called husband and wife to follow this path to holiness.
+
+St. Josemaría says, "For a Christian marriage is not just a social institution, much less a mere remedy for human weakness. It is a real supernatural calling. A great sacrament, in Christ and in the Church, says St. Paul (Eph. 5:32). ...
+
+"It is a permanent contract that sanctifies in cooperation with Jesus Christ. He fills the souls of husband and wife and invites them to follow him. He transforms their whole married life into an occasion of God\'s presence on earth" (J. Escrivá, *Christ Is Passing By*, Point 23).
+
+Pope John Paul I was speaking one time to a group of newlyweds on the greatness of matrimony. He told them, "Last century in France there was a great professor, Frédéric Ozanam. He taught at the Sorbonne \[in Paris\], and was immensely eloquent and very capable \[of many things\]. His friend Lacordaire said: 'He is so gifted, he is so good, he will become a priest, he will become a great bishop, this fellow.'
+
+"But no! He met a nice girl and they got married. Lacordaire was disappointed and said: 'Poor Ozanam! He too has fallen into the trap!'
+
+"But two years later, Lacordaire came to Rome and was received by Pius IX. 'Come, come, Father,' the Pope said, 'I have always heard that Jesus established seven sacraments. Now you come along and change everything. You tell me that He established six sacraments and a trap. No, Father, marriage is not a trap, it is a great sacrament!'" (John Paul I, *Address at the* *General Audience*, September 13, 1978).
+
+We should never forget that the first thing that Our Lord chose to sanctify was the home. Christian sobriety leads to happy, generous families, which, in turn, produce vocations of total dedication to God, the very crown of the Church.
+
+God often calls children of generous parents to lead lives of virginity and celibacy. These vocations are real treasures which the parents can present to the Lord in heaven.
+
+God took great care to prepare the family which would receive His Son: Joseph, of the house and lineage of David (Luke 2:4). He would serve as the earthly father on equal terms with Mary, the virginal Mother.
+
+Our Lord wanted to show in His own family a shining model of formation, protection, and love.
+
+The family is the primary, vital cell of society (Vatican II, *Apostolican actuositatem*, Point 11, November 18, 1965). and, in a certain manner, of the Church itself (*cf*. John Paul II, Apostolic Exhortation, *Familiaris consortio*, November 22, 1981, Point 3).
+
+The family has a sacred status which deserves the veneration and attention of all its members, of civil society, and of the entire Church.
+
+St. Thomas Aquinas compares the mission of parents to that of priests. Just as priests contribute to the supernatural growth of the People of God by the administration of the sacraments, the Christian family provides corporal and spiritual support.
+
+He says, "Through the sacrament of matrimony, the man and the woman come together to give birth to children and educate them in the worship of God" (Thomas Aquinas, *Summa contra gentiles*, Book IV, Chapter 58).
+
+By means of the generous collaboration of the parents, God Himself "will increase and enrich his family from day to day," says the Second Vatican Council's *Gaudium et spes*.
+
+This generosity increases both the number of the members of the Church and the Church\'s supernatural glory.
+
+We can ask Our Lady, Queen of the Family, that she might help us to savor ever more the great treasure of doctrine that we have in the Church, to live it well ourselves, to pass it on to many other people, so that we can build the family of the 21st century into that great institution in society that God wants it to be.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*BWM*

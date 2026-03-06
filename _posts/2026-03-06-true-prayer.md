@@ -1,0 +1,198 @@
+---
+layout: homily
+title: "True Prayer"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+We're told in St. Luke that we "ought always to pray and not lose heart" (Luke 18:1). In the Book of Sirach, it says, "The prayer of the humble pierces the clouds" (Sir. 35:21).
+
+So we find that prayer is very often a theme mentioned in the Gospels. Our Lord spoke more often about the need of prayer than about any other matter apart from faith and charity.
+
+We can see that this business of prayer is something important, needs a lot of our attention. Our Lord tells us in many different ways that prayer is absolutely necessary if we are to follow Him.
+
+In a discourse he gave in 1979 at the start of his pontificate, John Paul II said, "For me, prayer is the first priority. Prayer is the basic prerequisite to service of the Church and the world. ... Every believer should always think of prayer as an essential and indispensable component of one's vocation."
+
+These words can give us food for thought in our prayer today as we talk to Our Lord about our own personal prayer.
+
+Pope John Paul continued, "It is the '*opus divinum*' \[the divine task\] which precedes and overshadows every work. We well know that faithfulness to prayer, or its neglect, is a test of the vitality of religious life, apostolate, and Christian fidelity" (John Paul II, *Address*, October 7, 1979, quoting Paul VI, Apostolic Exhortation, *Evangelica testificatio*, Point 42, June 29, 1971).
+
+St. John Paul places prayer at the very center of our life. Without it, we can't hope to follow Christ in the middle of the world.
+
+We need prayer as much as we need food to eat and air to breathe. That explains why the devil endeavors to keep Christians from praying, and often he does so with all sorts of superficial excuses.
+
+St. John Paul also said, "A constant danger with priests, even zealous priests, is that they become so immersed in the work of the Lord that they neglect the Lord of the work" (John Paul II, *Address*, October 1, 1979).
+
+It's certainly a danger that can face every Christian. For of what good is the most energetic apostolate if it's accomplished at the cost of one's friendship with the Lord? The achievement would end up worthless.
+
+We need to be concerned about our growth in prayer, about making the time we spend in prayer as true periods of prayer. We need to value that time very much. We need to treasure it.
+
+Fulton Sheen once said that "no one ever fell away from God without neglecting their prayer" (Fulton Sheen, *Characters of the Passion: Lessons on Faith and Trust*). So as long as we're taking care of our prayer, we can be pretty sure we're on the right track.
+
+Referring to the organization that may be involved in all sorts of different apostolic activities, Blessed Álvaro del Portillo said they require a certain amount of organization and planning and work. "But," he said, "what brings the fruit is prayer."
+
+If we run the risk of not having our periods of prayer as periods of true prayer, then it would just have been a human endeavor. We would be just seeking ourselves.
+
+The remedy, said John Paul, for this malady is clear: "We must find time; we must make time, to be with the Lord in prayer" (John Paul II, *ibid*.).
+
+It's as "indispensable for each one of us, today as it was yesterday" (*ibid*., *Address to Diocesan Priests and Men Religious of Mexico*, January 27, 1979).
+
+We have to ask ourselves whether our prayer, our friendship with Jesus, really influences our life of work, our family life, our friendships, our apostolate.
+
+We know that everything is different once we have talked it over with Jesus. St. Teresa of Ávila said it is in our prayer that "the Lord gives light to understand his truths" (Teresa, *Foundations*).
+
+We need that light; without the help of that light, all would be darkness. That divine light will permit us to penetrate the mystery of God and of our existence.
+
+God hopes that our prayer would be a humble and trusting prayer. In the parable of the Pharisee and the tax collector, we see the difference between humble prayer and prayer that is not humble (Luke 18:9-14).
+
+"The prayer of the humble," we're told in the Book of Sirach, "pierces the clouds" (Sir. 35:21). It always reaches God and attains its end.
+
+In the parable of the Pharisee and the tax collector, we see that "those who trusted in themselves that they were righteous and despised others"---they're not really indulging in true prayer.
+
+"Two men went up to the temple to pray." We see that these men share an external purpose, but they have entirely different agenda.
+
+The Pharisee does not come to pray to God. He's really talking to himself. There's no love for God in his words, nor any aspect of humility. He stands before God and gives thanks for his own rectitude.
+
+And then he compares his upright behavior with that of other people. He's full of comparisons and he finds himself justified.
+
+It appears that he doesn't really need God at all, whereas "the tax collector stood afar off" because he didn't trust himself, and he didn't thrust himself forward either. So God was able to approach him more easily (Luke 18:13).
+
+He who would not lift up his eyes to heaven now had the Lord of the Heavens within him. St. Augustine says, "Whether the Lord is near or far actually depends on each one of us. Love, and he will approach" (Augustine, *Sermon 9, 21*).
+
+God is very attentive to everything we say to Him. The tax collector won God over through his humility and trust, because God "opposes the proud, but gives his grace to the humble" (James 4:6).
+
+This parable teaches us that our prayer should be full of humility, attentive, and trusting. We have to try and avoid acting like the 'praying' Pharisee with his self-centered monologue.
+
+Our Lord reminds us that humility has to be the foundation of our dealings with God. He wants us to pray like needy children desirous of His mercy.
+
+St. Alphonsus Liguori says, "God wants us to go to him with confidence. Bring to him your work, your projects, your fears, and whatever interests you. Act with a trusting and open heart. For God does not speak to those who never speak to him" (Alphonsus Liguori, *How to converse continually and familiarly with God*).
+
+We need to flee from the prayer of self-sufficiency, which may be evidenced by our complacency in our apostolate, our pride in our interior struggle.
+
+We could avoid negative attitudes which may reflect a lack of trust in God's graces. Pessimism can be a manifestation of hidden pride.
+
+The time we spend in true prayer should always be a time of joy, of confidence, and of peace. This can lead us to prepare our periods of prayer very well.
+
+St. Teresa of Ávila said, "Mental prayer is nothing else, in my opinion, but being on terms of friendship with God, frequently conversing in secret with Him who we know loves us" (Teresa, *Life, 8, 5*).
+
+We can draw strength from our prayer to sanctify our daily work, to convert our contradictions into blessings, to overcome all difficulties. We will be strong to the extent that our prayer is authentic.
+
+Another saint, St. Peter of Alcantara, says that when we begin our prayer, "we need to ready our heart like someone who is tuning a guitar" (Peter of Alcantara, *Treatise on Prayer and* *Meditation*).
+
+And so, that *opening prayer* can be important: "My Lord and my God, I firmly believe that you are here."
+
+At the start of our prayer, we can offer our day's work along with small mortifications. We can offer our interior recollection, all the things that we may be planning or hoping to do this particular day, or things we've done in this afternoon.
+
+These can be the bases of our conversation with Our Lord. When we make an *act of presence of God*, we've begun our special time of conversation with Him. This introductory prayer can help us to pray with devotion and attention: "I firmly believe that you are here, that you see me, that you hear me."
+
+Our recognition of this reality is itself prayer, even though we may not say a word. He understands us and we understand Him. We ask many things of Him, and He asks of us more generosity, more love, more struggle.
+
+We may not experience any special feelings in prayer. Feelings in general in the spiritual life are not terribly important. Christ did not feel good on the Cross.
+
+Sometimes in our prayer, God may give us nice feelings, but even if He doesn't, it doesn't mean that our prayer is going badly.
+
+St. Josemaría used to say that when we encounter periods of prayer when we're arid, it's difficult, it seems to be a battle, nothing seems to be coming right. He said, "Persevere in those periods of prayer, because that prayer is all done for God, and there's no human compensation" (Josemaría Escrivá, *The Way*, Point 101).
+
+We shouldn't be bothered if we don't have nice feelings. In a document from the Sacred Congregation for the Doctrine of the Faith on "*Some Aspects of Christian Meditation*" it said, "For the person who makes a serious effort, there will, however, be moments when we seem to be wandering in a desert...and, in spite of all his efforts, he 'feels' nothing of God. ... These trials are not spared from anyone who takes prayer seriously. ...
+
+"At these moments, his prayer, which he will resolutely strive to keep to, could give him the impression of a certain 'artificiality,' although really it is something totally different. In fact, it is at that very moment an expression of his fidelity to God, in whose presence he wishes to remain even when he receives no subjective consolation in return" (SCDF, *Letter*, Point 30, October 15, 1989).
+
+We may think that our struggle in prayer is not bearing fruit, while God Himself may be very happy with our progress. Our Lord will always give us His peace and His strength so that we may accomplish His work.
+
+We should never abandon our prayer. St. Teresa of Ávila advised that "to lose one's way---so it seems to me---is nothing else but the giving up of prayer" (Teresa of Ávila, *Life, 19, 19*).
+
+This is one of the more serious temptations that can afflict souls that are committed to the service of Our Lord: to abandon this daily conversation for apparent lack of fruit, for the sake of 'more important' things, even for apostolic activities, but there's nothing more important than our daily appointment with Jesus. He is waiting for us.
+
+Dom Eugene Boylan in his book *This Tremendous Lover* says, "At all costs, the decision to persevere in devoting a set time to private prayer daily must be made and carried out inflexibly. It does not matter if one can do no more than remain on one's knees for the period and only battle with complete lack of success against distractions; one is not wasting time."
+
+When we spend time with Our Lord, we will always be richer for it in the end. "As the deer yearns for running water, so my soul thirsts for you, my God" (Ps. 42:1).
+
+The Holy Spirit is the great teacher of prayer. We're told in Scripture that we do not know how to pray as we ought, but the Holy Spirit breathes prayer into the soul of man.
+
+St. Paul says in his Letter to the Romans, "The Spirit too comes to help us in our weakness. For when we do not know how to pray properly, then the Spirit personally makes our petitions for us in groans that cannot be put into words. He who can see into all hearts knows what the Spirit means, because the prayers that the Spirit makes for God's holy people are always in accordance with the mind of God" (*cf*. Rom. 8:26-27).
+
+The Holy Spirit gives us that breath of divine love. We can be grateful to God for the fact that we know things about prayer, and that we grow in our formation of prayer, and that hopefully we're growing all the time.
+
+"Abide in me, and I in you" (John 15:4). It's the language of hope. The Holy Spirit can communicate a great tenderness to our prayer.
+
+We learn in our prayer how to love the will of God, even though it costs. The more we're involved in professional and apostolic activities, the more our prayer is necessary.
+
+In *The Forge*, St. Josemaría says, "The way to cut short all the evils we suffer is to pray" (J. Escrivá, *The Forge*, Point 76). God will look after us in all sorts of moments.
+
+Prayer is what converts our ordinary life into a supernatural life. The grace that we receive in the sacraments heals us and raises up our nature so that we can see things with a supernatural point of view.
+
+In prayer we learn to see things from the viewpoint of eternity. "Most people," we're told in *The Way*, "have a plane-like vision, stuck to the earth, of two dimensions. When you live a supernatural life, God will give you the third dimension: height, and with this, perspective, weight, and volume" (J. Escrivá, *The Way*, Point 279).
+
+And so, with that supernatural outlook, as children of God, we try to see things as God Our Father sees them. St. Josemaría liked to say, "May I see with your eyes, Christ Jesus."
+
+That continual conversation with Our Father God, the effort to stay in His presence, will lead us by the hand to *unity of life*, putting our faith into practice, which is nourished by our norms, particularly the Holy Mass.
+
+Blessed Álvaro said, "These times of genuine prayer impel us to behave consistently throughout the day, giving our commitment of love its full meaning. Neither in big things nor in little can we then deny with our behavior the resolutions which, by God's grace, we formed while we were conversing with him" (Álvaro del Portillo, *Pastoral Letter*, November 1, 1987).
+
+We will not attain unity of life, contemplation, dialogue with God the Father, God the Son, and God the Holy Spirit, if we do not put loving care into the times dedicated to talking to the Lord. And so, we ask Our Lord for that grace to grow in our life of prayer.
+
+St. Josemaría said we reach the goal of prayer, which is "a loving conversation" with each of the three persons of the Blessed Trinity, along a path which begins with vocal prayers and aspirations which make the little seed of prayer to grow in the soul.
+
+"We should carry on," he said, "praying the vocal prayers that we perhaps learned as children. If we're generous in those aspirations and say many of them in the course of the day, the time comes when, as we carry out our habitual tasks as perfectly as we can, our soul longs to escape. It is drawn towards God like iron drawn to a magnet" (*cf*. J. Escrivá, *Friends of God*, Point 296).
+
+Prayer liberates us from the tyranny of selfishness and leads us to the freedom of the love which makes us want to never to be parted from God. Difficulties inside and outside are seen for what they are: a sign of God's mercy.
+
+Our periods of prayer are periods of spending time lovingly with each person of the Blessed Trinity, a situation in which words are not needed because the tongue cannot express itself. The intellect grows calm. One does not reason, one looks.
+
+This prayer of contemplation is essentially looking at God without needing words or feeling tired. The soul feels and knows that it's under the loving gaze of God all day long. And this comes true in our lives.
+
+People who follow this path are not concerned about the particular level of prayer that they may have attained.
+
+In *Friends of God*, St. Josemaría said, "Asceticism? Mysticism? I don't mind what you call it. Whichever it is, asceticism or mysticism, does not matter. Either way, it is a gift of God's mercy. If you try to meditate, Our Lord will not deny you his assistance" (J. Escrivá, *Friends of God*, Point 308).
+
+God's assistance is assured and the soul notices this, he says, because God demands more love, more detail of faith, and fewer words. We realize that the Lord demands more from us each day.
+
+"Through his Word," we're told in the *Catechism*, "God speaks to man. By words, mental or vocal, our prayer takes flesh. Yet it is most important that the heart should be present to him to whom we are speaking in prayer" (*Catechism of the Catholic Church*, Point 2700).
+
+And so our heart has to be active there. "Whether our prayer is heard doesn't depend on the quantity of words, but on the love we put into them" (*cf*. *ibid*.).
+
+Details like speaking clearly, pronouncing the words properly, marking the pauses indicated by punctuation, the tone of our voice, saying vocal prayers in a lively way but without rushing through them, and above all our attentiveness to what we're saying---all these show the love that we put into prayer.
+
+In *The Way*, St. Josemaría says, "Slowly. Consider what you are saying, to whom it is being said, and by whom. For that hurried talk, without time for reflection, is just empty noise. And with St. Teresa, I will tell you that, however much you move your lips, I do not call it prayer" (J. Escrivá, *The Way*, Point 85).
+
+And all of these demand interest and an effort to struggle humbly to avoid distractions.
+
+We're told in *The Forge*, "Jesus, let my distractions be the other way round. Instead of recalling the world when I'm engaged in conversation with you, let me rather recall you when I am engaged in the things of this world" (*ibid*., *The Forge*, Point 1014).
+
+St. Josemaría liked to say that prayer is the strength of Opus Dei. He often repeated to us, "The great weapon of Opus Dei is prayer" (*ibid*., *Letter*, March 24, 1939).
+
+It's our strength. That's why God has given us a spirit by which, as we raise all our actions up to God by our contemplative prayer, we try to make the world divine.
+
+"How often," St. Josemaría said in *Friends of God* \[Point 308\], "have I reminded you of the myth of King Midas, who turned all he touched into gold! We, despite our personal failings, can turn all we touch into the gold of supernatural merit."
+
+All supernatural work and all of its effectiveness is based on prayer. He says in *The Way* \[Point 83\], "Prayer is the foundation of the spiritual edifice. Prayer is all-powerful."
+
+Without it, we would get nowhere. To be holy and to be God's instruments to serve the Church and souls, there's no other way except ceaseless prayer. In prayer we obtain the strength to be faithful to the vocation that we each have received.
+
+Blessed Álvaro said, "We can't play about with this divine treasure, our path to holiness. Either we respond with total generosity, down to the last consequences, or we are cheating Our Lord, losing our happiness in this life, and perhaps risking our eternal happiness too."
+
+St. Josemaría said, "How many obstacles vanish when in our hearts we place ourselves next to this God of ours, who never abandons us! Jesus' love for his own, for the sick and for the lame, is renewed, expressed in different ways. 'What's the matter?' he asks, and we reply, 'It's my this and it's my that.' At once there is light, or at least the acceptance of his will, and inner peace" (J. Escrivá, *Friends of God*, Point 249).
+
+All interior difficulties, especially pride, are healed in prayer because "in prayer, with God's grace, pride can be transformed into humility" (*ibid*.). All apostolic works go forward on the basis of prayer and that's where our strength lies.
+
+We need to be particularly faithful to prayer in times of difficulty. And we all know that there are some periods, sometimes long periods, when prayer can be difficult, and doing it demands an effort.
+
+"Precisely this time," said Don Álvaro, "when difficulties arise, when we think that the excuses we make to delay or to cut short their prayer are good reasons, when we feel inclined to put less effort into it, it is precisely those times that show the special transcendence of our decision to respond loyally to our commitment of love by taking extra, especially loving care of our times of prayer (A. del Portillo, *Pastoral Letter*, November 1, 1987).
+
+We could ask Our Lady, teacher of prayer, that she might lead us along this pathway.
+
+Mary, may you teach us how to talk to your Son. Help us to follow your example in Nazareth and in the years of public life, where you "kept all these things carefully in your heart" (*cf*. Luke 2:19).
+
+Help us to firmly resolve never to neglect our prayer and simply to do our best to overcome distractions in this time of personal conversation with Our Lord so that we can be sure that what we're doing is always true prayer.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*OLV*

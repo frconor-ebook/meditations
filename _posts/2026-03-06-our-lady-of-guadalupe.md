@@ -1,0 +1,166 @@
+---
+layout: homily
+title: "Our Lady of Guadalupe"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+"Go therefore and make disciples of all nations" (Matt. 28:19).
+
+Our Lady appeared to Juan Diego on Tepeyac Hill near Mexico City on the 9^th^ of December 1531 to ask for the construction of a church there in her honor.
+
+After the miraculous cure of his uncle, Bernardo, this Indian farmer brought to his Bishop some roses that he received from Our Lady as a sign of her request. As these flowers fell from his cloak to the ground before the astonished Bishop, the image of Our Lady, which is venerated in the Basilica of Guadalupe to this day, was miraculously impressed on the simple garment before their eyes.
+
+Devotion to Our Lady of Guadalupe began at the outset of evangelization in that country when there were still very few Christians in Mexico. Around this time, Our Lady had appeared to Juan Diego and sent him to the Bishop to express her desire for that church to be built.
+
+In that first apparition, Our Lady said to him, "Since I am truly your merciful Mother, and that of all men, I will grant everyone who visits this sanctuary the fruit of my affection, my compassionate attention, my help and salvation. I will hear your cries of distress, so as to cure all your sufferings and ills" (Antonio Valeriano, *Nican Mopohua*).
+
+The message that Our Lady addressed to Juan Diego could well be addressed to all Christians. "I, who am your Mother, stand before you. You remain always under the shelter of my protection. Be aware of how fortunate you are to have access to my motherly care at all times."
+
+We never have any reason to fear, because Our Lady, the Mother of Jesus, accompanies us. She is the Mother of all men.
+
+The local Bishop had asked for a sign as proof of Our Lady's petition, before granting Juan Diego's request. She appeared to him again and directed this amazed fellow to cut a bouquet of long-stemmed flowers that were growing nearby on the arid hillside to be presented to the Bishop. This miraculous event took place in the dead of winter, in the month of December, two thousand feet above sea level.
+
+When Juan Diego spread out his white cloak to deliver the roses, "the image of Our Lady appeared, impressed upon it, as can be seen by any observer today" (*ibid*.).
+
+This image of Our Lady of Guadalupe, a young, dark-skinned woman, surrounded by a radiant light, gradually appeared in full color on the Indian's simple cloak, a garment woven together out of simple vegetable fibers.
+
+Then a remarkable wave of conversions in the entire Aztec territory, extending from Central America to the Philippines, took place following Our Lady's apparition on Tepeyac Hill.
+
+St. John Paul II said, "Our Lady of Guadalupe continues to be a great sign of Christ's nearness to us today. She extends an invitation to all men and women to enter into communion with the Father. At the same time, Mary encourages all of us to enter into greater communion with one another" (John Paul II, *Address*, December 13, 1987).
+
+Our Lady's efficacious intercession has always prepared the way for the work of evangelization of nations. We can't even imagine carrying out the apostolate of friendship and confidence without the help of Our Lady.
+
+Therefore, when the Vicar of Christ on earth, the Pope, calls all the faithful to participate in a new evangelization of the world, it is logical that we look to the intercession of Our Lady, so that she will "show to us, who belong to the Church, the best way to carry out this awesome task we are entrusted with." We could ask her for the grace "to dedicate ourselves with renewed missionary zeal to this great undertaking," said Pope John Paul (*ibid*.).
+
+She will show us the most effective way of drawing our friends closer to God, since she herself will prepare them to receive the grace of God fruitfully. She's the one who prepares the souls of our friends, as she prepares for all apostolate.
+
+Through fervent piety and an effective desire to serve others, we'll be able to carry out that new evangelization.
+
+St. Pope John Paul II prayed: "Blessed Virgin of Guadalupe, Mother of the Americas\...behold how great the harvest is. Intercede before the Lord for us so that our hunger for sanctity in the world may increase" (John Paul II, *Prayer of Petition*, January 27, 1979).
+
+May we give all we can to carrying out this task, especially to the people we find at our side every day. The harvest is still great and the laborers to gather it in continue to be few.
+
+"May all the faithful strive to follow Christ closely. May the life of each one be filled with loving and humble service, carried out for the glory of God and the good of souls" (*ibid*).
+
+People of all walks of life hunger to know the truth, but have no one to teach them. Many seek to know the path of God, yet do not know the way.
+
+Each one of us, in our specific place in society, can point out to many others the straight path to union with Christ through devotion to Our Lady. Our word and our example of devotion to her will be the most effective witness we can render.
+
+The faith on the American continent had its origin in Europe. Many men and women of diverse races found their way to salvation through the heroic and self-sacrificing efforts of the first missionaries who arrived there. During their period of history, Our Lady prepared the way for them, as she will do for us now.
+
+In spite of all the difficulties they experienced in carrying out this divine task, the first Christians in these lands were able to proclaim the profound mysteries of faith in their milieu, through consistent effort, patience, and supernatural spirit.
+
+"Now in Europe," says Pope John Paul, "we find a growing temptation and tendency towards atheism and skepticism. There is widespread uncertainty concerning morality itself. In the wake of this ignorance has come the disintegration of the family and the wholesale deterioration of the Christian way of life. A dangerous trend of ideas and practices conspires to stifle the expression of Christian life in society" (John Paul II, *Address*, November 6, 1981).
+
+Many countries of profound Christian tradition seem to be returning to a kind of paganism, comparable in magnitude to the ones they were freed from in the past. Whereas in former times, the light of faith used to spread from these ancient countries to the rest of the world, currently, Blessed Álvaro del Portillo says, "it is the poison of a new paganism that is being passed on" (Álvaro del Portillo, *Pastoral Letter*, December 25, 1985).
+
+We Christians are called to be leaven in the very heart of society. The strength of the faith has not diminished over the course of twenty centuries. It is constantly being renewed.
+
+For this reason, we cannot relax the intensity of our struggle as if everything had already been accomplished. In the face of the evil that threatens to destroy the seed which Christ desires to sow and cultivate in the heart of every man, we need to be more persistent than ever in helping to bring Christ's salvific mission to completion.
+
+If the early Christians had allowed themselves to become intimidated by the enormous challenge before them, if they had relied on human efforts alone, they would not have accomplished anything in those first centuries throughout those early pagan societies.
+
+The Lord encourages us to renew continually our efforts in the face of so urgent a task. Each of us is called to participate fully in this effort with the means we have at hand.
+
+Blessed Álvaro says, "This undertaking is truly a fascinating adventure, both from a human and supernatural point of view" (*ibid*.).
+
+We could consider today, with the help of Our Lady of Guadalupe, what we can contribute in our everyday circumstances in order to bring the task of re-Christianization to fruition.
+
+Do we foster an active interest in bringing our family and friends closer to Christ?
+
+Do we take advantage of every occasion, without missing opportunities, to speak courageously about the faith which we carry in our heart?
+
+Do we take our own Christian formation seriously?
+
+Could we offer our time to teach catechism, or to engage in some other work of mercy?
+
+Do we lend financial assistance to sustain projects that contribute towards the human and supernatural development of people in need?
+
+We can't rest content under the impression that there is little we can do in the course of our everyday professional work to promote the re-evangelization of the world.
+
+God will multiply enormously the effect of apparently small offerings of work well done, of prayer and initiatives that we can offer Him. When many people do what falls within the scope of their capabilities, entire countries can be converted, as happened in the earliest centuries.
+
+The words of Our Lord, "Go therefore and make disciples of all nations" (Matt. 28:19) are universally applicable to every time and every place. They're addressed to every individual of every nation for all time.
+
+The Apostles received this commission from Jesus, and we in turn are entrusted with the same task. In a world where customs and habits of millions to all intents and purposes are pagan, "we have the splendid responsibility of working to bring the divine message of salvation to all men" (Vatican II, *Apostolicam actuositatem,* Point 3).
+
+To carry out this commission from the Lord, we can count on the effective assistance that He has promised us: "I will be with you always, until the consummation of the world" (Matt. 29:20).
+
+God acts directly in the soul of each person through grace. One Gospel account among many shows us that God wants some men to be instruments in working out the salvation of others. We're told in St. Matthew: "Go therefore to the crossroads and invite to the marriage feast whomever you shall find" (Matt. 22:9).
+
+St. John Chrysostom comments: "All noble...professions, like the study and teaching of philosophy or the calling of a soldier, for example, are circumstances in which men and women can help to draw others closer to the Lord," (St. John Chrysostom in *Catena Aurea, III*).
+
+Business trips and recreational expeditions can no less be opportunities for spreading the teachings of Christ.
+
+"There are countless occasions on which the laity can exercise an apostolate of evangelization and sanctification" (Vatican II, *Apostolicam actuositatem*, Point 6). Family ties, sickness, friendly social visits to the homes of our friends, sending Christmas cards and letters to newspapers can all provide good opportunities for doing apostolate.
+
+Each one of us must be able to say with St. Thérèse of Lisieux: "Until the consummation of the world, while there are still souls to save, I will not be able to rest" (St. Thérèse of Lisieux, Complete Works).
+
+We too live among souls still longing to be saved though they may not yet be aware of it. We encounter them in our own homes, at our places of work, and in our own neighborhood.
+
+Let us ask the Blessed Virgin for an ever-growing desire to be courageous and daring in sowing the good seed of Christ's doctrine. May we strive to contribute towards having the person and teachings of Christ proclaimed in every corner of the globe, "without ever giving in to human respect" (Josemaría Escrivá, *The Forge*, Point 716).
+
+May we cast aside all pessimism, ever confident of the ultimate triumph of good over evil. The effect of our good deeds will have an immeasurable impact on society. So says the parable of the mustard seed (Matthew 13:31-32).
+
+In *The Way*, Point 831, St. Josemaría also says, "With the grace of the Lord we will be like the stone that falls into the lake and produces one ripple, and then another, and another, until the end of time."
+
+Our Lord grants supernatural effectiveness to all our words and deeds in a way that we are most of the time unaware of.
+
+Today we ask Our Lady of Guadalupe to show herself to be Our Compassionate Mother.
+
+Mary, may you help us to proclaim the Gospel through our behavior and in our everyday actions. And you, the Patroness of the Unborn, may you help all of us in all circumstances to be, as St. Pope John Paul II asked in his encyclical The Gospel of Life (*Evangelium Vitae*), that we would be unconditionally pro-life. What an important witness that is in all areas of society in modern times.
+
+Mary, may we make every effort to understand other people by sharing in their joys and in whatever may be sources of anxiety in their lives. Only by making an effort to live all the human virtues will we be able to draw our friends towards living the fullness of supernatural life, beginning here and now.
+
+St. Pope John Paul II says, "Queen of Apostles, accept our complete readiness to work for the restoration and fulfillment of your Son's kingdom. May we not withhold anything at all in helping to bring his salvific Will to fruition. May we be completely dedicated to the cause of the Gospel and of ultimate peace in the world. May our struggle be firmly grounded on justice, and be a stimulus for reciprocal charity among men and women and all nations" (John Paul II, *Address*, January 27, 1979).
+
+The Blessed Virgin brings joy to the hearts of everyone she meets on the path of her life. We are told in St. Luke that "it came to pass, when Elizabeth heard the greeting of Mary, that the babe in her womb leapt for joy. And Elizabeth was filled with the Holy Spirit\..." (Luke 1:41).
+
+Mere proximity to Our Lady is the cause of such great rejoicing that even the unborn Baptist in his mother's womb expresses his joy. Mary bears the Son of God physically within her.
+
+St. John Chrysostom says that the Baptist "cannot restrain his joy when the Lord is present. Nor can he bear to wait for the normal interval of time to elapse. He tries to leap out from within the confines of the maternal womb in testimony to the Savior whose own arrival is imminent" (John Chrysostom, *Homily preserved by Metaphrastus*).
+
+Our Lady can show us how to be the cause of joy for others in our family life, at our place of work, and in all our social contacts, our most casual encounters with acquaintances, our interviews and business trips. The brief duration of our meeting with neighbors don't matter.
+
+Our cheerfulness comes to bear in our cordiality in dealing with others, especially in the midst of adverse circumstances, as when traffic is slow or when we use public transport.
+
+In the same way that many different-sized containers can be filled from the same tap, the variety of people who have occasion to deal with us in the course of our day should leave our company with increased peace and joy.
+
+Small containers are filled to over-brimming, and larger ones as well. Some receptacles are dirty and the water cleans them. In any case, whoever has occasion to visit us when we are sick, or out of sheer neighborliness, can and will be moved to return to their task with renewed happiness.
+
+Normally, water comes to a tap from a larger reservoir. Our own original source of joy is God, to whom Our Lady leads us.
+
+When a tap doesn't run, the water gets stagnant and can become polluted. The same occurs with someone who ceases to be a cause of peace for others. Most probably, such a person's relationship with Our Lord is inhibited.
+
+St. Josemaría says in *The Way*, Point 662: "You are unhappy? ---Think: there must be an obstacle between God and you. You will seldom be wrong."
+
+Once we discover the reason for our discontent, Our Lady will help us to remedy whatever it is that has to be set straight.
+
+St. Thomas Aquinas teaches: "Authentic joy is born of love" (Thomas Aquinas, *Summa Theologiae*, II-II, Question 28*).* The power of affection is so great that we forget about our own happiness in order to make the people we love happy. Whenever we aim to please God, even if our undertakings are wearisome, the task before us will never be bitter, but sweet (Teresa of Ávila, *Foundation*s).
+
+Having recourse to Our Lord prevents us from giving importance to minor differences of opinion or to the kind of petty antipathies that can arise on occasion. We will then reach the heart of people who are often longing for a smile, a friendly word, or a cordial answer.
+
+We could ask ourselves: Can others find God through our cheerful disposition? Are we uplifting? Do we bear charm, not harm, for those with whom we come in contact every day?
+
+Whoever lived near Our Lady during her life would somehow have participated in the immense joy and ineffable peace that filled her soul. One writer says every aspect of her bearing reflected "the richness and beauty with which God exalted her. God kept her free from all sin. The love of God, the Holy Spirit, dwelt in her in a continuous fashion.
+
+"Other invocations from the Litany allude to the direct result of her most intimate relationship with the Holy Trinity: 'Mother most amiable, Mother most admirable, Virgin most prudent, Virgin most powerful, Virgin most faithful\...' Our joy is constantly renewed with her help, when we keep her before our eyes and look to her with reverence and affection. Even if a tiny bit of her grandeur were to take place in our soul and beautify it, how great would our joy be!" (Franz Maria Moschner, *Mystical Rose*).
+
+We can easily imagine why those who knew her look forward to being with her. Neighbors, relatives, and friends must often have come to her house. No one would ever have heard her complaint or even a hint of a pessimistic tone issue from her lips. Her only concern would have been to serve other people and to help make life more pleasant for them.
+
+Though there are sufferings and even tears at times, one who has this interior joy, who is truly happy, constantly turns towards others and is a positive stimulus for them.
+
+We can ask Our Lady of Guadalupe, Patroness of the Americas and Patroness of the unborn, that we might grow in all the virtues that we see in her in such a model way continuously throughout our life.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*EW*

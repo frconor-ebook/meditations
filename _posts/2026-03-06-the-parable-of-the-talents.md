@@ -1,0 +1,274 @@
+---
+layout: homily
+title: "The Parable of the Talents"
+---
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+We're told in the Gospel of St. Matthew, "It is like a man about to go abroad who summoned his servants and entrusted his property to them. To one he gave five talents, to another two, to a third, one, each in proportion to his ability. And he set out on his journey" (Matt. 25:14-15).
+
+This is a rather challenging parable that Our Lord places before us. It explains many things about the human condition.
+
+Some people have five talents, some have two, some have one, in different areas. We all have talents: we all have five in one area, maybe we have two in other areas, maybe we have one in another one. No one can claim that they have no talent.
+
+All of those talents that God has given to us are like an investment that He has made. He expects a return.
+
+He wants us to work on those talents, to appreciate the gifts, to make use of them, to bring fruitfulness, to bring fruits in each of those areas where He's given them to us.
+
+We can think of the immeasurable benefits that God has given to us. Many of the talents may be hidden talents that we're not aware of, or we come to know of later in life, or other people tell us.
+
+Some of them may be things we take for granted: our sight, our hearing, the gift of speech, the gift of having two arms or two legs, or having a good voice.
+
+We are the administrators of these talents. We are not their owners, not their masters. These are things that belong to God, who has given them to us for a certain period of time.
+
+This parable calls us to a new responsibility in the face of the gifts and of the graces we have received. That includes our education, our Christian formation, the family that we were born into, the school that we went to, the teachers that we had.
+
+We're told this story of the man who was going to a far country, and then he left all his belongings to his servants to look after them and to trade with them. Each was given according to their ability.
+
+The fact that God had given us our talents according to our ability can also give us a certain self-esteem, a certain confidence. We're carried in the palm of the hand of a God who loves us (*cf*. Isa. 49:16).
+
+We have all the graces and gifts that we need for the different situations of our lives. God is with us. He sent an angel to look after us. He's created everything so that things will work out.
+
+In those days, a talent was equivalent to about one hundred pounds of silver. It was the unit used to measure very large sums of money.
+
+In the time of Our Lord, a talent was worth about six thousand pence. In the Gospel, a penny is mentioned as a day's wage for a laborer.
+
+So even the servant who received the least---just one talent---still received an enormous sum of money.
+
+And so, the first lesson of this parable is that we have received great gifts. That's one of the reasons why we have to spend our life thanking God. It could be a norm of *always* to thank God for all the different things He's given to us.
+
+Among all the gifts we've received, the first one that we could think of is the gift of life itself.
+
+Thank you, Lord, for the life that you've given to me, from the moment of conception, from when I was carried in my mother's womb, from when I was looked after in my early months, days, months, and years.
+
+We also have our intellect, the capacity to understand natural truths, and to go from those natural truths to the God who created them. We can never be grateful enough to God for the intellect that He's given to us.
+
+I was driving to a city here in Kenya recently, a city called Kisumu. It was a big highway on the way into the city. I was in the fast lane.
+
+Suddenly there in front of me was this big, enormous cow seated down in the fast lane, chewing the cud, looking around us as though nothing was the matter.
+
+There were enormous buses, trucks, lorries passing by at great speeds. But the cow was particularly unperturbed, as though this was the most normal place for the cow to be sitting down: in the fast lane, chewing cud.
+
+It was a very good example of what it means to have no intellect. When we see irrational animals behaving in this way, we can thank God in those moments that we have the gift of rationality.
+
+And as well as our intellect, we have our will, which is the ability to desire the good, to love.
+
+And also, we have our freedom, whereby we direct our path as children to our parental home.
+
+These are all wonderful gifts that God has given to us. We have to try and learn more about them, appreciate them, realize that they exist, use our will to do good, use our freedom to do good.
+
+Then we have the gift of time, the span of days allotted to us to serve God and to give Him glory.
+
+Each person has their time. Some babies just get a few minutes or a few hours. Some people get over a hundred years. But everybody gets their time.
+
+It's the period in which God wants us to produce the fruits with the talents that He's given to us.
+
+Every day is important. Every hour is important. That's why we should have a plan. I'm told there are 86,400 seconds in every day, and they're ticking. We're given that amount of time every day to use.
+
+If we don't use that amount of time, it's gone. We can't keep some over to the following day. It's a treasure we have to use and be fruitful with, in this particular moment.
+
+St. Josemaría had a phrase that he liked to use: "today, now" (Josemaría Escrivá, *The Forge*, Point 163; *Furrow*, Points 81, 117; *Christ Is Passing By*, Point 59).
+
+Get things done today and now. No procrastination. Don't give in to our laziness.
+
+We've also received many material goods in order to carry out all the good works that God wants us to do on behalf of our family, of society, on behalf of those in need. Be focused on others.
+
+God wants us to perform the corporal and spiritual acts of mercy with great generosity, to store up for ourselves treasures in heaven.
+
+On another incomparably higher and more exalted level, we have the supernatural gifts: the life of grace---the gifts of faith, of hope, of charity---the very life of God Himself inside us that makes us members of the Church, sharers in the communion of the saints, and a special calling from God to lead a life of closer union with Him.
+
+We have the gift of the Sacraments, particularly the priceless gift of the Blessed Eucharist, Our God with us.
+
+We have Our Lady, the Mother of God and Our Mother too.
+
+We have the seven gifts of the Holy Spirit---wisdom, understanding, counsel, knowledge, piety, fortitude, fear of the Lord---those gifts which are constantly moving us to be better.
+
+And we have a Guardian Angel to protect us.
+
+Every day of our lives, we can thank God for these great talents that He's given to us.
+
+Our life and the gifts that go with it have been given to us as an inheritance, which we have to invest wisely.
+
+Sometimes we might look around and see people who win the lottery or have an awful lot of money or a lot of material things---things that God has not given to us.
+
+Yet we know that God in His wisdom and goodness has given us everything that we need; in particular, everything we need to be happy.
+
+We may see other people's material blessings, but we don't see their crosses.
+
+There was an article in the newspaper last week about a lady who won 27 million euros in the lottery. "All my problems," she said, "started when I won the lottery." She led, she said, a very miserable life after that. Money can't buy us happiness.
+
+We're stewards of the goods that God has given to us. And one day, He'll call us to give an account. We have these goods for a short period of time. We have to use our time well.
+
+He set out on his journey, and then, "The man who had received five talents promptly went and traded with them and made five more. The man who had received two made two more in the same way.
+
+"But the man who had received one went off and dug a hole in the ground and hid his master's money" (Matt. 25:16-18).
+
+This guy was not clever. He did not think of the future. He didn't plan for that day when the master would come and ask him to give an account of his stewardship.
+
+We are not the owners of these talents; we're merely the caretakers of God's gifts.
+
+Life can be looked at in two ways: seeing ourselves as stewards and making everything productive for God's sake; or acting as if we were owners, for our own comfort, our selfishness, our whims.
+
+I was called to the bedside of a man once who was dying of cancer, not very elderly, early 50s. He was in the best hospital in the country. He took a hold of my wrist and he said: "Doctor, don't let me die."
+
+The look of terror in his eyes brought home to me that phrase of Scripture: "Do not store up for yourselves treasures on earth, where moth and rust consume, and where thieves break in and steal. But store up for yourselves treasures in heaven\..." (Matt. 6:19-20).
+
+This man was well-to-do. He had a lot of talents and treasures in this world, but at the hour of his death, he was bereft. He had nothing. He realized he had no treasures in the next world.
+
+We have to use the opportunities. "Walk while you have the light," Our Lord says, "lest the darkness overtake you" (John 12:35).
+
+Use your time well. Focus on the goal of holiness and apostolate. Focus on other people.
+
+People who are married should try and think about the faith and generosity that God wants them to have in bringing children into the world and in caring for their human and supernatural education. In many ways, it's the greatest gift that God has given to them. What a tragedy if we were to hide that talent.
+
+Our Lord expects us to see His estate well looked after. He expects a return in accordance with what He has bestowed.
+
+And the reward? The reward, we know, is going to be enormous.
+
+"After a long time, the master of those servants came back and went through his accounts with them. The man who had received five talents came forward bringing five more. 'Sir,' he said, 'you entrusted me with five talents. Here are five more that I have made.'
+
+"His master said to him, 'Well done, good and faithful servant. You have shown you are trustworthy in small things. I will trust you with greater. Come and join in your master's happiness'" (Matt. 25:19-21).
+
+The reward is enormous. The parable teaches us that the *much* of here below, of our life here on earth, is very little in comparison to the reward of heaven.
+
+The first two servants, they received, and they gained with them as much again---so they heard those wonderful words of the master that we all yearn to hear: "You have been faithful over a little, I will set you over much. Enter into the joy of your master."
+
+They made the best bargain: they gained eternal happiness.
+
+In that sense, God wants each one of us to be good businesspeople: to have a sense of treasure, a sense of gain, a sense of profit in the things that are really worthwhile.
+
+The goods of this life, even though there are many, are always little compared to what God gives us.
+
+He gives us the example of that third servant: he buried his talent in the ground. He didn't trade at all. He had no initiative, no enterprising spirit. He was sort of caught in his laziness, or perhaps in his fear or anxiety. He wasted his time and made no profit.
+
+This is a chilling warning to use our time well.
+
+His life was full of omissions, of wasted opportunities, of time and materials squandered. He appeared before his Lord with his hands empty.
+
+In relation to what was really important, his life was a useless existence. Possibly he was busy in other ways, but he didn't carry out what was really expected of him.
+
+This could remind us a little of the parable of the prudent and the imprudent virgins (Matt. 25:1-13).
+
+The prudent ones took oil in their lamps. They used well the opportunities for formation: this talk, that retreat, this circle, this Confession, this spiritual reading.
+
+The imprudent ones didn't take oil in their lamps. Maybe they dedicated themselves to having a good time, to enjoying the pleasures of this world. They didn't think of the future.
+
+Then, the bridegroom was a long time in coming. It could be a reference to the length of our life. They all became drowsy and slept. Maybe they thought the bridegroom wasn't coming at all.
+
+But then one day, the bridegroom came. The prudent virgins turned up their oil, their lamps. They went forward with their lamps burning brightly.
+
+"And the imprudent ones said, 'Give us some of your oil because our lamps are going out.' But they had to be told, 'There may not be enough for us and for you; go rather to buy from the merchant.'"
+
+So they went off to buy. It's not that they did nothing, but their decision came too late.
+
+"The bridegroom came, and the prudent virgins went in with him to the marriage feast; and the door was shut."
+
+There will come a final whistle, the end of the game, when the time for earning has gone.
+
+To bury the talent that God has given to us is to bury the capacity to love that He's given to us, the capacity to make people happy---something we can all do. Instead of making people happy, we leave them sad and unhappy.
+
+To bury the talent is to have material things and not to use them properly, to think that they're mine, whereas God wants us to use them for a while and possibly to pass them on to other people; to be generous in passing on material things to those who really need them; to appreciate the gift.
+
+To bury the talent is to be able to bring other people to God, but not to take advantage of the opportunities through fear, or shyness, or pride, or disorder, or lack of initiative, or lack of fortitude, or lack of care and love, or not using the circumstance of sharing the same work or job with them.
+
+To bury the talent is to be able to make use of weekends or spare time to cultivate friendships and relationships, or to spend time with our family; and instead, being dominated by comfort or self-seeking in ill-conceived forms of relaxation.
+
+Above all, it's allowing ourselves to sink into mediocrity; not to take care of a spiritual life that was meant to grow.
+
+It would be a great pity if, looking back over our life, we were to behold a long avenue of wasted opportunities and to contemplate sorrowfully the abilities God has given to us, which remained unproductive through laziness, carelessness, or selfishness.
+
+An 84-year-old man who had led a very fruitful and productive and hard-working life, did a lot of good in his life, told me at the end of his life, "I wish I had done more for young people."
+
+It was a rather beautiful thing to hear. This man had used his talents very well, but he still had yearnings to do more.
+
+If we love God, we want to serve Him more, to be better, to make that the only thing we really want to do.
+
+To produce all the fruitfulness that God wants, we need direction---like any Premier League team needs a manager: to get us in the right direction; to get us into the Champions League; to produce all the fruits and the cups and the glory that God wants from the abilities He's given to us.
+
+Lord, give me those fruits of holiness, of love, of sacrifice. Help me to realize it's not enough not to do any harm.
+
+We have to trade with our talents. We have to positively do all the good that we can do to exceed ourselves in love and in sacrifice.
+
+A student makes good use of their talents by studying hard, making use of their time by working intensely, not to be foolishly led astray by the idleness of others, gaining through constant application, day by day, a well-earned prestige that will serve to bring others to God.
+
+For a wage-earner, for a housewife, to make use of one's talents means to do one's work in an exemplary fashion, intensely, distinguished by punctuality and good use of time.
+
+God will ask us to account in a special way for those who may have been placed under our care: souls that have been entrusted to us.
+
+St. Augustine says that the person who has been placed over other people and doesn't care for them is like a scarecrow, a straw guardian, who doesn't even manage to scare away the birds who come and devour the grapes (*cf*. St. Augustine, *Miscellanea Augustianensis*).
+
+We could examine the quality of our study or our work, and ask Our Lord for the readiness to react decisively, if necessary, with the help of grace.
+
+When we look at our talents, we also have to look at our possible omissions in social and public life.
+
+Our talents include all aspects of private and public life. We're trying to build "a civilization of love" (John Paul II, *Letter to Families*, February 2, 1994), "a culture of life" (John Paul II, Encyclical, *Evangelium Vitae*, March 25, 1995).
+
+That means we have to develop all aspects of our personality. Devote some time to our cultural formation, expanding our horizons, learning a language, finding vehicles to transmit truth and doctrine better.
+
+If you try and develop more human relationships, foster the capacity to make friends, we have to exercise these qualities with initiative, with faith, and to overcome any inhibitions that we might have to start conversations with people that God has placed around us---relatives, friends, companions---so that we help them to improve humanly, spiritually, professionally, and to improve in their family duties.
+
+There was a man many years ago in Ireland who came in contact with the activities of Opus Dei, and he said he made a big discovery.
+
+He was married with eight children. He said he always thought the most important thing in his life was his work. Through formation, he came to discover that really, the most important thing in his life was his family, his marriage.
+
+So he had a paradigm shift in his life. He installed a filing cabinet in his home. He opened a file on each one of his children.
+
+He began to have the same sort of system set up in his home that he had in his office: regular meetings with his wife, planning sessions, reporting sessions from his children with quarterly goals, and monthly goals, and weekly goals.
+
+He had a very professional approach to his family, to use those talents well.
+
+Our Lord has entrusted an awful lot of good things to us to influence public opinion, to transmit doctrine in all the ways we can, and try to make sure that the laws of our country reflect the truths that God has given to us.
+
+Lord, help me to use all my talents to good use in this way. Help me not to squander the abilities that you've given to me.
+
+And in particular, help me to see how I can help the Church more. Help me to be generous in helping the Church with the things the Church is doing, realizing that I am the Church. I have a vocation to support the Church.
+
+The Church is not just the Pope and the bishops and the priests and the nuns. The Church is the laity. I have to feel responsible for the missionary outreach of the Church.
+
+I have to see that maybe my children and my grandchildren have been given to me as instruments to spread the Gospel in faraway places. I have to prepare them for that mission.
+
+Or prepare my children to be able to perform the corporal and spiritual works of mercy, so that Our Lord may be able to say to them one day: "I was hungry and you gave me food, I was thirsty and you gave me drink..., I was naked and you clothed me, sick and...in prison and you visited me" (Matt. 25:35-36).
+
+The role of the family is to form souls. Children grow in virtue when they see virtue put into practice with good example.
+
+One of the talents that God may have given to us is to strongly propose a Christian conduct in public life. We have to exercise our right to vote and to participate, according to our capacity, in professional associations.
+
+We could ask ourselves: What national and international organizations do I belong to? Am I influencing other people with my presence?
+
+Am I present in parent-teacher associations, in the schools of my children, in trade unions? Am I fighting for better legislation in various areas if it's imperfect, or if it's clearly unjust in fundamental matters like pro-life issues, education, family law?
+
+This may be an uphill task, but it's a battle that God has called us to fight in this particular hour where we've been placed.
+
+The time we have at our disposal is never enough to do all that God wants. We don't know how much more we have left of the talent of time. It might end for us tomorrow.
+
+Every day we can squeeze a lot from the gifts that God has placed in our hands: a myriad of ordinary events, mostly very small, which God and others appreciate and take into account. A little meeting with this person. The chance conversation with somebody else.
+
+If we go to Confession frequently, it can help us to avoid major omissions: omissions in our life that impoverish the Christian life.
+
+If we take the time and trouble to get to a retreat every year, it helps us to keep our pilgrimage of faith---which is our Christian vocation---on the right track so that we don't go too far astray. We keep running in the right direction in this marathon of life.
+
+In a book entitled *Frequent Confession*, Fr. Benedict Baur says: "The person who is practicing frequent Confession must be especially watchful about neglected duties (even if, often, they are only little things), about neglected inspirations and graces, about opportunities to do good left unused, about time wasted, about failure to show charity to the neighbor.
+
+"He must excite himself to a deep and sincere contrition for these omissions and to a firm resolve to strive earnestly even against the smallest sins of omission that are in any way deliberate.
+
+"If we come to Confession with this determination, we shall receive, together with the absolution pronounced by the priest, the grace to know our sins of omission better and to struggle against them more zealously."
+
+With the grace of the sacrament and the help of spiritual direction, it will be easier for us to avoid those faults or sins and to fill our life with fruits from God.
+
+Lord, help me to use well all the five talents that you've given to me, and to try and grow in the other areas to help my talents grow as well.
+
+We look to Our Lady, who went "with haste into the hill country" (Luke 1:39), as though eager to make that talent of her vocation yield an abundant fruit.
+
+Mary, may you help me to look with a great spirit of examination and vigilance at all the talents and abilities that God has given to me.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*JM*

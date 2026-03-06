@@ -1,0 +1,158 @@
+---
+layout: homily
+title: "Making Up for Lost Time"
+---
+
+By Fr. Conor Donnelly
+
+*(Proofread)*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My immaculate mother, St. Joseph, my father and lord, my guardian angel, intercede for me.*
+
+St. Paul says to the Ephesians: "Look carefully then how you walk, not as unwise men but as wise, making the most of the time" (Eph. 5:15-16). And in his letter to the Corinthians, he says, "For the form of this world is passing away" (1 Cor. 7:31).
+
+Today is a good day for stock taking, a good day to remind ourselves about the passage of time, that our time is short, and that the period of time that God has given to us is a gift, and it's a very important part of the inheritance that we have received from Him.
+
+As we take stock of the year that has passed, it's a good day to make resolutions for the year about to begin. And year by year, to grow in our appreciation of the treasure of time God has given to all people a certain period of time. To some He gives a hundred years, to some eighty, to some sixty, to some twenty. Some babies just get a few hours. But everybody gets their time.
+
+Days like today are good opportunities to ask pardon for our omissions and for the lack of love that may have caused them. When we pray the *I Confess* in the Mass, we ask God for our thoughts, words, deeds, and omissions. When we stand before God, possibly the greatest sins of our life will be sins of omission---the good that we could have done, the opportunities that we wasted, the times that we didn't use for spiritual benefit.
+
+Days like today are also a good occasion for thanksgiving for all the good things that God has given to us in the course of our life, and especially in the last twelve months. Hopefully, as we advance in years, that spirit of thanksgiving becomes greater. There's a phrase in Scripture that says, "If you knew the gift of God..." (John 4:10).
+
+Hopefully, as years pass, we come to appreciate a little more the gift of time that God has given to us.
+
+The Second Vatican Council reminds us in one of her documents that we are pilgrims, and that the Church herself, "being present in the world, is herself a pilgrim" (Vatican II, Constitution on the Sacred Liturgy, *Sacrosantum Consilium*, Point 2, December 4, 1963).
+
+A pilgrim is somebody who's on a pilgrimage, and a pilgrimage is a journeying forward in faith to a certain destination.
+
+*Lumen gentium* of the Second Vatican Council says the Church stands before her God "as a wayfarer among the persecutions of the world and in the midst of consolations from God" (*cf*. Point 8).
+
+Our life too is a path full of tribulations, but also of God's consolations. Sometimes we can focus a lot on the former and not give enough attention to the latter.
+
+Jesus, I want to thank you in this moment of my prayer for all the Fatherly consolations that you have given to me in these past twelve months. Help me to remind myself that I have a life within time, which I am now living, but I have another life outside time to which I am making my way.
+
+The time at our disposal is an important part of the inheritance God has left us. It's the treasure of time in which I have to work out my eternal salvation.
+
+Time represents the separation between the present and that moment when we will stand before God with our hands either empty or full. Only now in this life can we obtain merit for the next. In fact, each single day of ours is a period given by God, that we may fill it with love for Him, with love for those around us, with work well done, with putting virtue into practice; in a word, to fill it with a life full of good works pleasing to God's eyes.
+
+Now is the time to amass the treasure that never perishes. For each one of us, it is the acceptable time.
+
+When Our Lord was on earth, interestingly, He spoke in very short periods of time. He didn't speak of Vision 2030 or of millennium goals. He said, "This day you will be with me in paradise" (Luke 23:43). "Woman, my hour has not yet come" (John 2:4). "Now has the hour come for the Son of Man to be glorified" (John 12:23). We're told when He died "it was about the ninth hour" (Matt. 27:46).
+
+Blessed Álvaro del Portillo has said the sanctification of our lifetime is made up of the sanctification of many moments. And that's why we have what are called "norms of always." Using moments to make an *Act of Thanksgiving*, to make an *Act of Atonement*, to make an *Act of Petition*---living in those moments well.
+
+Now is the time to amass that treasure. St. Paul says to the Corinthians, "Now is the day of salvation" (2 Cor. 6:2). Once it is past, there will be no other time.
+
+Time is like a flowing divine treasure. We see it coming, it's here, and then it's gone. Never to return. Never to come back again.
+
+The time that each one of us has at our disposal is short. But it's long enough to tell God that we love Him and that we want to accomplish the work that He has given us to accomplish. Our mission. It's something we need to examine ourselves on a daily basis.
+
+St. Paul says to the Ephesians, "Look carefully then how you walk, not as unwise men but as wise, making the most of the time" (Eph. 5:15--16), for "soon night comes when no one can work" (John 9:4).
+
+St. Josemaría comments: "Short indeed is our life for loving, for giving, for making atonement. It would be very wrong, therefore, for us to waste it, or to cast this treasure irresponsibly overboard. We cannot squander this period of the world's history which God has entrusted to each one of us" (Josemaría Escrivá, *Friends of God*, Point 39).
+
+These are haunting words. This period of the world's history, the 21st century, the beginning of the new millennium. This century that is fast passing. Twenty-five years have gone by in a flash already. We only have seventy-five left.
+
+We need to have a plan. We need to bring that plan down to brass tacks on a daily and hourly basis. To have goals. To make good use of our time. To have a schedule. To know where we're going and how to get there.
+
+St. Paul, when he considers the brevity of our stay on earth and the insignificance of things in themselves, says, "The form of this world is passing away" (1 Cor. 7:31). And so, Lord, help me to be very aware of that brevity of my stay.
+
+St. Josemaría comments: "How little a life is for giving to God!" (J. Escrivá, *The Way*, Point 420). This life is but a mere shadow of what awaits us in heaven. We can't even begin to imagine what heaven is like.
+
+The reality of the shortness of this life, then, is a continual call to squeeze from it all that we can, to the point of exhaustion, while we keep God before our eyes.
+
+Lord, help me to live my Christian vocation to the full. Help me not to miss an apostolic opportunity or an opportunity to acquire more grace, to grow in my Christian vocation.
+
+Today, in our prayer, we can ask ourselves whether God is pleased with the way that we have behaved during this past year. St. Josemaría used to say, "Lord, Josemaría is not happy with Josemaría." He looked to the future with optimism.
+
+Have we spent our time well, or has this year been a year of wasted opportunities in our work, in our family life, in our apostolate? Have we placed before God the prayer of petition that He is expecting of us? Have we often let go of the Cross because of our tendency to complain at the first sign of opposition or unwelcome events?
+
+Each year that passes is a call to holiness in our ordinary life and a warning that we are much nearer to the definitive moment of our meeting with God at death. St. Paul says, "And let us not grow weary in our well-doing, for in due season we shall reap, if we do not lose heart. So then, as we have opportunity, let us do good to all men" (Gal. 6:9--10).
+
+The words of Scripture are immensely encouraging. We can grow in our awareness of the treasure of time by making those *Acts of Thanksgiving* for all the graces that we have received.
+
+When we examine our conscience, we may find that during the past year, we've at times lacked charity. Or we've been too easygoing in our professional work. Or we've grown used to a certain spiritual mediocrity. Or possibly we've given little in the way of alms. We've been a prey to selfishness and vanity. Maybe we haven't done much mortification at mealtime. We may have ignored the graces offered to us by the Holy Spirit. We might have been intemperate, ill-humored, stubborn in character. We may have more or less allowed ourselves to be distracted in our practices of piety.
+
+We have countless reasons for ending the year by asking God's forgiveness, by making many *Acts of Contrition and Atonement*. Let us look at each one of those days.
+
+"Every day," says St. Augustine, "we must ask forgiveness, for every day we have caused offense" (Augustine, *Sermon 256*). Not even for one day can we escape from this fact: many may have been our sins and faults.
+
+In both human and supernatural realms, our reasons for thanksgiving can be incomparably greater. We can't count the movements of the Holy Spirit in our soul, the graces we've received in the sacrament of Penance and in Holy Communion, the times when our guardian angel may have protected us in traffic, for example, the merit gained through offering our work and hardships for others, and the times when others may have helped us.
+
+It doesn't matter if we only perceive a small part of this. Lord, help me to give you thanks for all the great things you have given me during this year, and I ask you for new strength with which to serve you, and graces to help me not to be ungrateful, because "that is the condition on which Our Lord bestows his jewels."
+
+St. Teresa of Ávila said, "Unless we make good use of his treasures, and of the high estate to which he brings us, he will take these treasures back from us; we shall be poorer than before, and His Majesty will give the jewels to someone else who can display them to advantage and to his own profit and that of others.
+
+"For how can a man, unaware that he is rich, make good use of his riches and spend them liberally? It's impossible...taking our nature into consideration, that anyone who fails to realize that he is favored by God should have the courage necessary for doing great things. For we are so miserable and so much attracted by earthly things that only one who realizes that he holds some earnest of the joys of the next world will succeed in thoroughly abhorring and completely detaching himself from the things of this earth" (Teresa of Ávila, *Life*).
+
+We come to the end of the year asking forgiveness for so many failures to correspond to grace, for all those occasions when Jesus placed Himself at our side and we made no effort to see Him and so let Him pass by. At the same time, we can end the year by thanking God for the great mercy He has shown us and for the innumerable and often unseen benefits He has conferred on us.
+
+Together with sorrow and thanksgiving, Lord, I want to resolve to love you more, to struggle to acquire virtues and get rid of my defects, and to live next year as if it was the last that God was going to give me. Help me to make those resolutions.
+
+Many people these days may say the words, "Happy New Year," and we wish them the same and thank them. But what do most people mean by Happy New Year?
+
+Often, "they mean a year free from illness, pain, trouble, or worry; that instead, everyone may smile on you, that you may flourish, that you might make plenty of money, that the taxman doesn't get you, that you get a rise in salary, that prices fall, that the news is good every morning. In short, that nothing unpleasant may happen to you" (Georges Chevrot, *The Beatitudes*).
+
+It's good to wish these material good things for ourselves and for others, as long as they don't take us away from our final goal. The new year will bring us our share of happiness and our share of trouble, and we don't know how much of each.
+
+A good year for a Christian is one in which both joys and sorrows have helped him to love God a little more.
+
+It's not a year that comes, supposing it were possible, full of natural happiness that leaves God to one side. A good year is one in which we have served God and our neighbor better, even if on the human plain it may have been a complete disaster. A good year could be one in which we succumbed to some serious illness that might have been latent and unsuspected for many years, provided we know how to use it for our sanctification and that of those close to us.
+
+Any year can be the best year if we make use of the graces that God keeps in store for us, and which can turn to good the greatest misfortunes.
+
+For the year just beginning, God has prepared all the help we need to make it a good year. So Lord, don't let me waste a single day.
+
+And when we happen to commit sin, or fall into error or discouragement, help us to begin again immediately, in many cases through the sacrament of Penance.
+
+May we all have a good year, so that when it's over, we can come before God with our hands full of hours of work offered to Him, full of apostolate with our friends, full of innumerable acts of charity with those around us, with many little victories over our self-love, and unforgettable meetings with Our Lord in Holy Communion.
+
+Help us to convert our defeats into victories, each time turning to God and starting over.
+
+Help us to have a sense of urgency in our use of time: to be mindful of the fact that Mary went "with haste" into the hill country (Luke 1:39); the shepherds "went with haste" to Bethlehem (Luke 2:16); in the parable of the talents, Our Lord said to those to whom He gave talents, "Trade until I come" (Luke 19:13).
+
+This is what He says to us in relation to time. Take this period of years and trade until I call you into my presence.
+
+God has set apart a time for everything. "A time to be born and a time to die," we're told in the Book of Ecclesiastes (Eccles. 3:2). A time to do this and a time to do that.
+
+Time belongs to Him. It's something sacred. It's a definite amount. We can't make an hour run faster or slower. We can only use it. It comes and goes, never to return. God is the real owner of time.
+
+I saw on a billboard once a big statement that said, "Time is free, but it's priceless." Powerful idea. Time is holy because it belongs to God. We have to treat it as something sacred.
+
+One of the greatest faults we could have would be to waste time. This means we should try and have greater respect also for other people's time. We do that by being punctual, by being ordered, by meeting deadlines, by apologizing to people or telling them in advance if we're going to be late so that they don't waste their time.
+
+One servant traded with five talents and made five more talents (Matt. 25:15-16,20). We can multiply time by using it with order, having goals, having a schedule, or trying to improve what we do in a given period of time. Very often, work done well is work that's done in the shortest possible time.
+
+We're also told in Scripture of one servant who got one talent, and he hid his talent (Matt. 25:18,25). He lost the opportunity to multiply the talent.
+
+Probably we have very few opportunities to kill time. Probably our problems are the opposite. But when we have little time, we might think we cannot use these small periods of time for anything. These five minutes here, five minutes there, waiting for this thing to start, waiting for a *matatu*, waiting for a bus, in between programs on television or whatever. But if we use those little periods of time, we can make good use of it.
+
+There can be a temptation to bury those little pieces of time, the couples of minutes in between activities. But if we make good use of that time, hopefully someday Our Lord will say to us, "Well done, good and faithful servant. Because you've been faithful in little, I will set you over much" (Matt. 25:21,23).
+
+The *Catechism of the Catholic Church* says, "To God, all moments \[of time\] are present in their immediacy. When therefore he establishes his eternal plan of 'predestination,' he includes in it each person's free response to his grace" (*Catechism*, Point 600).
+
+Our Lord gives us time to respond to His grace---to do in each minute what we are supposed to be doing. We respond to that grace by using our time well; not to be idle in the marketplace, saying, "No man has hired us" (Matt. 20:7), when in reality, there's plenty to be done.
+
+In a homily on time, St. Josemaría says, "When I reflect on this, how well I understand St. Paul's exclamation when he writes to the Corinthians, *tempus breve est*, time is short (1 Cor. 7:29). How short indeed is the time of our passing through this world!
+
+"For the true Christian these words ring deep down in his heart as a reproach to his lack of generosity, and as a constant invitation to be loyal.
+
+"Brief indeed is our time for loving, for giving, for making atonement. It would be very wrong, therefore, for us to waste it, or to cast this treasure irresponsibly overboard. We mustn\'t squander this period of the world\'s history which God has entrusted to each one of us" (J. Escrivá, *Friends of God*, Point 39).
+
+Our Lord places a challenge before us and invites us to rise to the challenge to take our time very seriously. To use it well. To be organized. To give an eternal meaning to the time that God has given to us.
+
+In the Gospel of St. John it says, "Walk while you have the light, lest darkness overtake you" (John 12:35). St. Paul to the Ephesians says, "While we have time, let us keep doing good" (Gal. 6:10).
+
+Time is objectively the same for all. But subjectively, and in the eyes of God, it may be different. Einstein uses a graphic example to explain the relativity of time. If you spend an hour with a loved person, it may seem like just a few minutes. But if you're forced to sit a couple of minutes on top of a pin, it can seem like an eternity.
+
+God is not interested in ten minutes as just those ten minutes. He's interested in how much love we put into those ten minutes. He's interested in how much we can grow and get others to grow in that ten minutes. Ten minutes done with love can be as ten years in His eyes.
+
+We can ask Our Lady for the grace to live this new year with a fighting spirit, as if it were the last that God was going to give us.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*EW*
