@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- FOUC Prevention: Apply theme and text size before page renders -->
+    <script>
+        (function() {
+            // Apply theme
+            const theme = localStorage.getItem('theme-preference') ||
+                (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', theme);
+            // Apply text size
+            const textSize = localStorage.getItem('text-size-preference');
+            if (textSize === 'large') {
+                document.documentElement.setAttribute('data-text-size', 'large');
+            }
+        })();
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fr. Conor Donnelly Meditations | St. Benedict</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/meditations/assets/css/style.css">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0BXLC35GR"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-S0BXLC35GR');
+    </script>
+
+
+
+</head>
+<body data-baseurl="/meditations">
+    <header>
+    <nav>
+        <div class="logo">
+            <a href="/meditations/"><img src="/meditations/assets/images/logo-circ.png" alt="Fr. Conor Meditations Logo"></a>
+        </div>
+        <div class="nav-links">
+            <a href="/meditations/" >Home</a>
+            <a href="/meditations/team" >Team</a>
+            <a href="/meditations/connect" >Connect</a>
+        </div>
+        <!-- Header Controls (Theme + Text Size) -->
+        <div class="header-controls">
+            <!-- Theme Toggle Button -->
+            <button
+                class="theme-toggle"
+                id="theme-toggle"
+                aria-label="Toggle dark mode"
+                title="Toggle dark mode">
+                <svg id="theme-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <!-- Sun icon (shown in dark mode) -->
+                    <path class="sun" d="M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12zM11 1h2v3h-2V1zm0 19h2v3h-2v-3zM3.515 4.929l1.414-1.414L7.05 5.636 5.636 7.05 3.515 4.93zM16.95 18.364l1.414-1.414 2.121 2.121-1.414 1.414-2.121-2.121zm2.121-14.85l1.414 1.415-2.121 2.121-1.414-1.414 2.121-2.121zM5.636 16.95l1.414 1.414-2.121 2.121-1.414-1.414 2.121-2.121zM23 11v2h-3v-2h3zM4 11v2H1v-2h3z"/>
+                    <!-- Moon icon (shown in light mode) -->
+                    <path class="moon" d="M17.293 13.293A8 8 0 0 1 6.707 2.707a8.001 8.001 0 1 0 10.586 10.586z"/>
+                </svg>
+            </button>
+            <!-- Text Size Toggle Buttons -->
+            <div class="text-size-toggle" role="group" aria-label="Text size controls">
+                <button id="text-size-normal" class="active" aria-label="Normal text size" title="Normal text size">A</button>
+                <button id="text-size-large" aria-label="Large text size" title="Large text size">A+</button>
+            </div>
+            <!-- Meditation Counter Badge -->
+            <button id="counter-badge" class="counter-badge" aria-label="View reading history" title="View reading history">
+                <span id="counter-number">0</span> read
+            </button>
+        </div>
+    </nav>
+</header>
+
+    <main>
+        <article>
+    <h1>St. Benedict</h1>
+    <p>By Fr. Conor Donnelly</p>
+
+<p><em>(Proofread)</em></p>
+
+<p><em>In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here. That you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me.</em></p>
+
+<p>Benedict was born in Nursia, Italy, about the year 480. After receiving an excellent education in Rome, he returned to Subiaco to live the life of a monk with some disciples that he gathered together. He then established the famous monastery, Monte Cassino, and wrote his rule for the monastic life. The volume that he wrote continues to influence constitutions for religious life today. It has earned for Benedict the title, the father of Western monasticism. He died at Monte Cassino on March 21st, 547.</p>
+
+<p>Since the end of the 8th century, his feast has been celebrated on July the 11th. Benedict was proclaimed the patron saint of Europe in 1964 for his enormous influence in establishing Christianity on the continent. During the 15th centennial commemoration of St. Benedict’s birth, Pope John Paul II recalled the gigantic contribution that this saint made to the formation of Europe. It was a time when the Church, civil society, and Christian culture itself were in great danger. Through his sanctity and singular accomplishments, St. Benedict gave testimony of the perennial youth of the Church.</p>
+
+<p>Pope Pius XII said furthermore, he and his followers drew barbarians from paganism towards a civilized and truly enhanced way of life. The Benedictines guided them in building a peaceful, virtuous, and productive society, interwoven by bonds of fraternal concord. St. Benedict’s message and the spirit he breathed to Europe contributed hugely towards forming the essentially Christian soul and roots of Europe. Without Christianity, one writer says, neither our common culture nor our way of being can be explained or understood. Pope St. John Paul said European identity itself is not intelligible outside Christianity, since herein we find the common roots that have brought continental civilization to maturity.</p>
+
+<p>Europe’s dynamism, activity, and capacity for constructive expansion to other continents as well, in a word, all that constitutes her glory. Today we have the misfortune of seeing a concerted and systematic effort to do away with the deeply Christian meaning of our existence. Its most essential aspect. One writer says if for the sake of preserving friendships we decide to put bothersome issues in a parenthesis as it were, we surely run the risk of burying within ourselves that which is most essential to us. That is the truth and the meaning behind daily living.</p>
+
+<p>In <em>The Furrow</em>, we’re told no Christian can remain on the fringes of the great human questions confronting the world. He cannot simply fold our arms when a subtle persecution condemns the Church to die of neglect, putting it outside the sphere of public life, and above all, obstructing its part in education, culture, and family life. These are not our rights; they are God’s rights. He has entrusted them to us Catholics so that we may exercise them. As this opposition becomes increasingly evident, we have to realize the urgency of re-Christianizing the world.</p>
+
+<p>In particular, the specific area, perhaps small, in which our own life unfolds. Each one of us has to seriously ask, what can I do in my city, in my workplace, in my university, and any other environment I am in, to help Christ reign more effectively in souls? As Don Alvaro del Portillo suggests, consider this question in the presence of God. Ask advice, and pray. Then set out with holy determination to win that particular domain for God. The task of re-evangelizing the West is not within reach only of those with particular status or influence in public life.</p>
+
+<p>It is the responsibility of everyone. We will carry out the evangelization which this world of ours is so sorely in need of, when we live as God wants. When mothers and fathers teach by example. Generosity in the number of their children. Their relationships with hired helps and neighbors, and when they show their children detachment from personal things, a sense of duty, temperance, and a spirit of sacrifice for caring for the elderly and the needy. Preachers and catechists cooperate in the re-Christianization of society by tirelessly teaching the complete message of Christ, without adding to it or leaving anything out.</p>
+
+<p>High schools, taking into account their foundational objectives, by truly educating students in the Christian spirit. Businessmen by avoiding immoral practices like unjust commissions, or taking unfair advantage of confidential information or contacts. Or inserting advertisements in the news media that propagate ideas contrary to the faith. Even if this entails certain economic disadvantages. Doctors by refraining from medical procedures contrary to the law of God. As always, our personal apostolate of friendship is fruitful in all circumstances. An ancient proverb proclaims it’s better to light one candle than to curse the darkness.</p>
+
+<p>Complaining about the evils in society is not appropriate behavior for the sons and daughters of God. If each Christian decides to carry out the task at hand to completion, we will change the world as the first Christians did. They were few, but they had a living and operative faith. It’s a big mistake not to do anything with the excuse that perhaps one can do so little. A letter of appreciation of a good article can encourage an editor or journalist to publish others along the same lines. Recommending a good book can be an occasion for the Holy Spirit to act in transforming a soul.</p>
+
+<p>Calmly speaking up to clarify a matter of doctrine can confirm someone in a point of faith. With the grace of God, all our actions can have unsuspected repercussions. We have to realize that doing good is always more attractive than doing evil. To reach our goals, we also need to count on the help of Our Lady and our guardian angels, and on the fortitude we derive from the Communion of Saints, which affects even those souls most alienated from God. There are many reasons for being optimistic, with a supernatural optimism. Its roots sunk in the faith, nourished by hope, and given wings by love.</p>
+
+<p>We have to imbue all strata of society with the Christian spirit. John Paul II, in one of his early encyclicals, <em>Redemptoris Missio</em> (<em>The Mission of the Redeemer</em>), he says, we cannot be satisfied with mere good desires. Each and every person, there where he works, can find God in his task, and needs to be concerned through his prayer, mortification, and professional work well finished, to sanctify himself in his work and to sanctify others in the truth, so that Christ may be proclaimed Lord of all earthly activities. We can take advantage of every occasion, he says, including business or recreational trips, as did the first Christians, who, traveling or settling in regions where Christ had not been proclaimed, bore courageous witness to their faith and founded the first Christian communities.</p>
+
+<p>Today we can entrust St. Benedict with this common task of re-Christianizing society. We ask his help to proclaim the perennial youth of the Church by our words and our deeds. Above all, we ask him to gain for us an increase in personal holiness, the foundation of all apostolate worthy of the same. John Paul II said, “I see dawning a new missionary age, which will become a radiant day bearing an abundant harvest, if all Christians, missionaries and young churches in particular, respond with generosity and holiness to the calls and challenges of our times.”</p>
+
+<p>Our Lord founded the Church on the weakness, but also on the fidelity of a few men, the apostles, to whom he promised the constant assistance of the Holy Spirit. The preaching of the Gospel, St. Josemaría says, does not arise in Palestine through the personal initiative of a few fervent individuals. What could the apostles do? They were nothing in their time. From a human point of view, they were neither rich, nor learned, nor heroes. But Jesus places on the shoulders of a handful of disciples an immense divine task. An observer devoid of supernatural vision, and seeing the initial apostolate of that small group, would have considered it destined to failure from the start. However, that group of men were faithful.</p>
+
+<p>They began to preach that novel teaching everywhere. Clashing head-on with many pagan ways. Within a short time, the world knew that Jesus Christ was the Redeemer of the world. The good news is preached to all men, from the beginning, without discrimination. Those exiled in the persecution arising from Stephen’s death traveled as far afield as Phoenicia, Cyprus, and Antioch. In the latter city, there were so many of them that it was there that the followers of Jesus were first called Christians. A few years later, we find Christ’s followers in Rome and throughout the empire.</p>
+
+<p>At the beginning, the Christian faith took root mainly among simple people, ordinary soldiers, laborers in the woolen industry, slaves, and merchants too. St. Paul says, “For consider your call, brethren, not many of you were wise according to worldly standards, not many were of noble birth” (1 Cor. 1:26). God is no respecter of persons. Those who were, at the beginning, humanly speaking ignorant and weak, were to be the instruments he would use to spread the Church. Thus, the effectiveness would be seen to be more clearly divine. Among the early Christians, there were also cultured and educated people who were important by human standards.</p>
+
+<p>Like the Ethiopian minister, centurions, men like Apollos and Dionysius the Areopagite, women like Lydia. But they were a minority among the vast number of converts to the new faith. St. Thomas comments that it’s further to God’s glory that the leaders of society were brought to him by simple people. The early Christians worked in all the normal occupations of their time, with the exception of any professions that might present a danger to their faith, like interpreter of dreams, diviners, temple keepers, and so on. Despite the fact that pagan religious practices were part of public life, each stayed in the place and profession where he met the faith. Trying to give his tone to society.</p>
+
+<p>Striving to be exemplary in conduct, never rejecting, but the opposite in fact, the task of getting closer to his neighbors and fellow citizens. Tertullian says, they were involved in the forum, in the marketplace, in the army. Tertullian would say, we Christians don’t turn our backs on the world. We are present in the forum, at the baths, in the workshops, the bazaars, the marketplaces, and public squares. We are sailors, soldiers, farm hands, businessmen. Our Lord reminds us that today too, he is calling all. Without discrimination of profession, social standing, or race. What compassion you feel for them, said St. Josemaría.</p>
+
+<p>You would like to cry out to them that they are wasting their time. Why are they so blind? Why can’t they perceive what you, a miserable creature, have seen? Why don’t they go for the best? Pray and mortify yourself, he says in <em>The Furrow</em>. Then you have the duty to wake them up, one by one. Explaining to them, also one by one, that they, like you, can find a divine way without leaving the place they occupy in society. This was what our first brothers and sisters in the faith did. By the end of the second century, Christians are found throughout the empire. St. Justin says, there is no race among men, whether barbarian or Greek or of any other name, whether among those called nomads or those in shepherds’ tents, who do not offer prayers and thanksgiving to the Father and Maker of all things, in the name of Jesus Christ crucified.</p>
+
+<p>As another writer says, the Christian faithful do not flee from the world in order to seek Christ fully. They consider themselves as part of the world’s structure, to which they try to give form from within, by their prayer, their example, and their magnanimous charity. What the soul does for the body is what Christians do for the world. They gave life to a world which had lost the sense of human dignity in many ways, while still remaining citizens like the others, and without any special distinction in dress or insignia or by changing their nationality. They were not only citizens, but exemplary ones. Obeying the laws, but by their lives surpassing its demands. They fulfilled them to the letter for the good of all.</p>
+
+<p>St. Paul had already taught that they should pray for those in authority. As exemplary citizens, they respected the civil authorities. They paid their taxes and fulfilled all other social obligations. In peace and war, as well as in times of open hatred, it was all the same. St. Justin speaks of a case of heroic virtue in civic matters by the early Christians. He says, just as we learn from him, Christ, we try to pay our taxes and dues promptly, and in full to your agents. So while adoring God alone, we willingly obey you in everything else. Openly recognizing you as kings and governors of mankind, and asking in our prayer that both you and the imperial power would possess in full wisdom the skill of government.</p>
+
+<p>In a forceful attack on the degeneration of the pagan world, Tertullian notes that the faithful in their meetings used to pray for the emperors, their ministers, and those in authority, for temporal well-being and for peace. In any age, we Christians should not be indifferent to the society of which we form part. We try to act responsibly in our temporal affairs so as to transform them from inside with the new spirit.</p>
+
+<p>The further removed it seems Christ is from a place, the more urgently do Christians need to be present there. So as to bring, as the first ones in the faith did, the salt of Christ, and give back to man his human dignity so often lost. In <em>The Furrow</em> we’re told, to follow in Christ’s footsteps, today’s apostle does not need to reform anything, but even less has he to take no part in contemporary affairs going on around him. He has only to act as the first Christians did, and give life to his environment. There are many roads leading to the faith. Some of them extraordinary ones, as with St. Paul. Our Lord called others through the example of a martyr.</p>
+
+<p>Mostly, the good news got known through a work companion, a neighbor, a fellow prisoner or traveler. Already in apostolic times, it was customary to baptize children before they reached the use of reason. St. Paul baptized whole families, and like the other apostles, passed on the practice to the whole Church. Origen was able to write two centuries later, the Church has inherited from the apostles the practice of baptizing even infants. Christian homes of the early faithful were no different on the outside from any others. Parents passed on the faith to their children, and these in turn did likewise. In this way, the family became the main pillar for the grounding of Christian faith and morality.</p>
+
+<p>Christian homes, being steeped in love, were havens of peace, often in the midst of misunderstandings, calumnies, and persecutions from without. In the home, children learned the morning offering. How to be thankful and bless the table. How to turn to God in good times and in bad. The parents taught their children with the naturalness of life itself. The family thus fulfilled its mission as educator. St. John Chrysostom gave some advice to Christian couples. He said, show your wife you appreciate her company a lot, and that you prefer to be at home rather than outside, because she is there. Show her a preference among all your friends, and even above the children she has given you. Love them because of her. Pray all together. Learn the fear of God. Everything else will flow from this like water from a fountain, and your house will be filled with bounty.</p>
+
+<p>At other times, it’s a son or daughter who’s the one responsible for spreading Christianity in the family. They attract other brothers and sisters to the faith. Then perhaps their parents, who in turn bring uncles and aunts, even the godparents end up being involved. There are many Christian devotions that can be practiced in the home. Reciting the rosary, having pictures and statues of Our Lady. Making cribs at Christmas, blessing of the table, and many more.</p>
+
+<p>Our personal identity card is inseparable from our being Christians. That is, it coincides with our being of Jesus. Therefore, knowing and loving Christ, we know and love ourselves better. The goal of our Christian vocation is to identify ourselves with him until we have the same feelings, which are the divine and human treasures of the heart, which depend on his being perfect God and perfect man. St. Paul lists these in his letter to the Galatians, counting them as love, joy, peace, patience, kindness, goodness, fidelity, humility, and self-control. Christian identity is a gift that God grants us freely.</p>
+
+<p>We achieve it through correspondence to grace and to following Christ according to our own vocation. For this reason, each of our actions and interpersonal relationships of friendships or work are marked with this seal. Coherence with a personal call with which the Father has chosen us from all eternity. St. Paul says to the Ephesians, “Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places. Even as he chose us in him before the foundation of the world, that we should be holy and blameless before him” (Eph. 1:3–4). Growth in one’s identity consists in learning to live according to what one is. Since life on this earth ends with death, it’s an ever-developing task, as we will only be able to fully identify ourselves with Christ in heaven. From one’s own identity, life acquires its true meaning. Knowing and loving God, we will discover little by little the way in which that identity illuminates every corner of life. Starting with the way we relate to those around us.</p>
+
+<p>Because as St. John says, “He who does not love his brother whom he sees cannot love God whom he does not see” (1 John 4:20).</p>
+
+<p><em>Let us ask Our Lady that she might help us to grow in our Christian identity. That we might be more like the first Christians. Let us invoke St. Benedict to help us in this new evangelization of the world, particularly perhaps of Europe. We pray for all those who continue each day on their way towards Christ. Our Lady, Queen of Apostles, pray for us.</em></p>
+
+<p><em>EW</em></p>
+
+</article>
+    </main>
+
+    <footer>
+    <div class="footer-content">
+        <div class="footer-social">
+            <a href="https://whatsapp.com/channel/0029Vb2pjJyGufJ2mE4xvv2F" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Channel">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            </a>
+            <a href="mailto:frconor.ebook@gmail.com" aria-label="Email">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z"/><path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z"/></svg>
+            </a>
+        </div>
+        <p>&copy; 2026 FCD</p>
+    </div>
+</footer>
+
+    <!-- Scroll to Top Button -->
+    <button class="scroll-top" id="scroll-top" aria-label="Scroll to top" title="Back to top">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 15 12 9 6 15"></polyline>
+        </svg>
+    </button>
+
+    <!-- Reading List Modal -->
+    <div id="reading-list-modal" class="modal-overlay" aria-hidden="true" role="dialog" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Your Reading History</h2>
+                <button id="modal-close" class="modal-close" aria-label="Close modal">&times;</button>
+            </div>
+            <div id="reading-list-content" class="modal-body">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/meditations/assets/js/search.js?v=1772765790"></script>
+    <script src="/meditations/assets/js/theme-toggle.js"></script>
+    <script src="/meditations/assets/js/text-size-toggle.js"></script>
+    <script src="/meditations/assets/js/scroll-top.js"></script>
+    <script src="/meditations/assets/js/meditation-counter.js"></script>
+</body>
+</html>
