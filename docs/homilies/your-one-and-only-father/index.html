@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- FOUC Prevention: Apply theme and text size before page renders -->
+    <script>
+        (function() {
+            // Apply theme
+            const theme = localStorage.getItem('theme-preference') ||
+                (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', theme);
+            // Apply text size
+            const textSize = localStorage.getItem('text-size-preference');
+            if (textSize === 'large') {
+                document.documentElement.setAttribute('data-text-size', 'large');
+            }
+        })();
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fr. Conor Donnelly Meditations | Your One and Only Father</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/meditations/assets/css/style.css">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0BXLC35GR"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-S0BXLC35GR');
+    </script>
+
+
+
+</head>
+<body data-baseurl="/meditations">
+    <header>
+    <nav>
+        <div class="logo">
+            <a href="/meditations/"><img src="/meditations/assets/images/logo-circ.png" alt="Fr. Conor Meditations Logo"></a>
+        </div>
+        <div class="nav-links">
+            <a href="/meditations/" >Home</a>
+            <a href="/meditations/team" >Team</a>
+            <a href="/meditations/connect" >Connect</a>
+        </div>
+        <!-- Header Controls (Theme + Text Size) -->
+        <div class="header-controls">
+            <!-- Theme Toggle Button -->
+            <button
+                class="theme-toggle"
+                id="theme-toggle"
+                aria-label="Toggle dark mode"
+                title="Toggle dark mode">
+                <svg id="theme-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <!-- Sun icon (shown in dark mode) -->
+                    <path class="sun" d="M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12zM11 1h2v3h-2V1zm0 19h2v3h-2v-3zM3.515 4.929l1.414-1.414L7.05 5.636 5.636 7.05 3.515 4.93zM16.95 18.364l1.414-1.414 2.121 2.121-1.414 1.414-2.121-2.121zm2.121-14.85l1.414 1.415-2.121 2.121-1.414-1.414 2.121-2.121zM5.636 16.95l1.414 1.414-2.121 2.121-1.414-1.414 2.121-2.121zM23 11v2h-3v-2h3zM4 11v2H1v-2h3z"/>
+                    <!-- Moon icon (shown in light mode) -->
+                    <path class="moon" d="M17.293 13.293A8 8 0 0 1 6.707 2.707a8.001 8.001 0 1 0 10.586 10.586z"/>
+                </svg>
+            </button>
+            <!-- Text Size Toggle Buttons -->
+            <div class="text-size-toggle" role="group" aria-label="Text size controls">
+                <button id="text-size-normal" class="active" aria-label="Normal text size" title="Normal text size">A</button>
+                <button id="text-size-large" aria-label="Large text size" title="Large text size">A+</button>
+            </div>
+            <!-- Meditation Counter Badge -->
+            <button id="counter-badge" class="counter-badge" aria-label="View reading history" title="View reading history">
+                <span id="counter-number">0</span> read
+            </button>
+        </div>
+    </nav>
+</header>
+
+    <main>
+        <article>
+    <h1>Your One and Only Father</h1>
+    <p>By Fr. Conor Donnelly</p>
+
+<p>(<em>Proofread</em>)</p>
+
+<p><em>In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</em></p>
+
+<p><em>My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.</em></p>
+
+<p>“I am the good shepherd. The good shepherd lays down his life for his sheep” (John 10:11-18). And in another place, St. Paul says, “My little children, with whom I am again in travail until Christ is formed in you” (Gal. 4:19).</p>
+
+<p>On certain occasions, Our Lord spoke to the crowds and to His disciples about the vanity of the Pharisees. “They do all their deeds to be seen by men,” He said.</p>
+
+<p>“They love the places of honor and the best seats in the synagogues, and salutations in the marketplaces, and being called ‘rabbi’ by men. But there is only one Teacher and Doctor who is Christ. And there is only one Father, who is in heaven,” we’re told in St. Matthew (<em>cf</em>. Matt. 23:5-10).</p>
+
+<p>All wisdom springs from Christ. John Paul II says He is “the Teacher who saves, sanctifies, and guides, who lives, who speaks, rouses, moves, redresses, judges, forgives, and goes with us day by day on the path of history, the Teacher who comes and will come in glory” (John Paul II, Apostolic Exhortation, <em>Catechesis tradendae</em>, Point 9, October 16, 1979).</p>
+
+<p>The teaching of the Church is the teaching of Christ. Her teachers are to be measured according to the standard of [the Lord.]</p>
+
+<p>In like manner, we say that there is only one heavenly Father who is the source of all paternity in heaven and on earth, as St. Paul says (Eph. 3:15).</p>
+
+<p>God enjoys the fullness of paternity. Earthly fathers participate in this paternity when they contribute to new life. Those people who foster faith in others also participate in this paternity.</p>
+
+<p>St. Paul wrote to the Corinthians at Corinth “as my beloved children. For though you have countless guides in Christ, you do not have many fathers. For I became your father in Christ Jesus through the gospel. I urge you, then, to be imitators of me” (1 Cor 4:15-16).</p>
+
+<p>Those believers knew quite well that in their emulation of Paul they would be imitators of Christ. The apostle was a faithful reflection of the spirit of the Master and of God’s loving concern for them.</p>
+
+<p>The word <em>Father</em> can be used in a meaningful way not only to signify physical paternity but also spiritual paternity. And so, the Roman Pontiff is justly known as the common Father of all Christians.</p>
+
+<p>Whenever we honor our physical parents or our spiritual parents, then we are giving honor and glory to God. Earthly fathers can reflect the divine paternity. So one very good way to live divine filiation is to honor our earthly parents.</p>
+
+<p>St. Paul wrote to the Christians of Galatia with all the tenderness of a father and a mother. He knew the difficulties they were experiencing in their newfound faith. He suffered at his inability to look after those believers who live so far away.</p>
+
+<p>“My little children,” he said, “with whom I am again in travail until Christ is formed in you! (Gal. 4:19). He compares them to a child in the mother’s womb. He felt a paternal responsibility for his children in need.</p>
+
+<p>The Church teaches us that the people who foster our faith through preaching and Baptism should also be seen as parents. We participate in the spiritual paternity of the many Christians whom we have helped to find Christ. Sometimes that formation entails suffering and fatigue. This paternity increases to the degree of one’s generosity.</p>
+
+<p>St. Thomas Aquinas says God manifests his fatherhood to Christians “like a teacher who instructs not only his disciples, but whoever is capable of understanding him” (Thomas Aquinas, <em>Summa Theologiae</em>, Part I, Q103, A6).</p>
+
+<p>This spiritual paternity is an important part of the earthly reward which God grants to those who respond to a divine vocation.</p>
+
+<p>In <em>The Way</em>, St. Josemaría says, “He is generous. He returns a hundredfold; and this is true even of children. Many deprive themselves of children for the sake of his glory, and they have thousands of children of their spirit. Children, as we are children of Our Father who is in heaven” (Josemaría Escrivá, <em>The Way</em>, Point 779).</p>
+
+<p>The Second Vatican Council in <em>Lumen gentium</em> says the Blessed Virgin exercises her maternity over Christians and over all mankind (<em>cf</em>. Vatican II, Dogmatic Constitution, <em>Lumen gentium</em>, Point 61).</p>
+
+<p>Mary will teach us how to have a magnanimous soul, large enough for the many people we want to bring to her Son.</p>
+
+<p>“Let us remember, furthermore, that merciful love also means the cordial tenderness and sensitivity so eloquently spoken of in the parable of the prodigal son (Luke 15:11-32). … Consequently,” says John Paul in <em>Dives in misericordia</em>, “merciful love is supremely indispensable between those who are closest to one another: between husbands and wives, between parents and children, between friends; and it is indispensable in education and in pastoral work” (John Paul II, Encyclical, <em>Dives in misericordia</em>, Point 14, November 30, 1980).</p>
+
+<p>Some words of St. Ambrose are also very relevant. He says, “According to the flesh, there is only one Mother of Christ; according to the faith, Christ is the fruit of all of us” (Ambrose, <em>Commentary on St. Luke’s Gospel</em>).</p>
+
+<p>St. Josemaría in <em>Friends of God</em> says, “If we become identified with Mary and imitate her virtues, we will be able to bring Christ to life, through grace, in the souls of many who will in turn become identified with him through the action of the Holy Spirit.</p>
+
+<p>“If we imitate Mary, we will share in some way in her spiritual motherhood. And all this silently, like Our Lady, without being noticed, almost without words, through the true and genuine witness of our lives as Christians and the generosity of ceaselessly repeating her <em>fiat</em>, which we renew as an intimate link between ourselves and God” (J. Escrivá, <em>Friends of God</em>, Point 281).</p>
+
+<p>St. Paul identified himself with Christ and His teaching: “I am the good shepherd. The good shepherd lays down his life for his sheep,” we’re told in St. John (John 10:11).</p>
+
+<p>This explains, says St. Paul, his “anxiety for all the churches” (2 Cor. 11:28). He felt responsible for the many souls who had been converted through his preaching. He wanted to keep them on the right path. This was his constant preoccupation.</p>
+
+<p>It was also the cause of his greatest suffering: “Who is weak, and I am not weak?” he says. “Who is made to fall, and I am not indignant?” (2 Cor. 11:29).</p>
+
+<p>St. Paul is an exemplary model for every pastor in the Church. The Second Vatican Council called on all pastors to behave “as fathers in Christ. They should take care of the faithful, it says, whom they have begotten by Baptism and their teaching” (Vatican II, <em>Lumen gentium</em>, Point 28).</p>
+
+<p>Our love for those we have brought closer to God is not a mere superficial affection. It is the same love that the incarnate Son has for us. The Son has given it to us so that we might give it to others.</p>
+
+<p>“What does the child’s love for others generate in him?” says one writer. “The same desire as that of the Son: their sanctification and salvation” (Bonaventure Perquin, <em>Abba, Father</em>).</p>
+
+<p>This love will make us more concerned for others in their pursuit of sanctity: good example, fraternal correction when necessary, a word of encouragement, joy, optimism, good advice. Our friends should be able to count on our daily prayer and mortification.</p>
+
+<p>This [spousal] love, says John Paul II, “always involves a special readiness to expend oneself and be poured out for the sake of those who come within one’s range of activity.</p>
+
+<p>“In marriage this readiness, even though open to all, consists mainly in the love that parents have given to their children. In virginity this readiness is open to all who are embraced by the love of Christ the Spouse” (John Paul II, Apostolic Letter, <em>Mulieris dignitatem</em>, Point 21, August 15, 1988).</p>
+
+<p>In the case of virginity or apostolic celibacy, the Lord expands the heart of His disciple to a more profound capacity. Generosity to God does not put restrictions on the human heart. Quite the contrary; this disposition enriches and ennobles the potential of our human nature.</p>
+
+<p>As we care for those around us, we will come to understand the tender mercy which Our Father God has given for us, has for us. This realization will help us to persevere in our struggle for holiness. We will find new strength to forge ahead.</p>
+
+<p>St. Joseph can teach us a great deal about how to look after others. John Paul II asks, “Why should the ‘fatherly’ love of Joseph not have had an influence upon the ‘filial’ love of Jesus? And vice versa, why should the ‘filial’ love of Jesus not have had an influence upon the ‘fatherly’ love of Joseph, thus leading to a further deepening of their unique relationship?</p>
+
+<p>“Those most sensitive to the impulses of divine love have rightly seen in Joseph a brilliant example of the interior life” (John Paul II, Apostolic Letter, <em>Redemptoris custos</em>, Point 27, August 15, 1989). We can learn from the Holy Patriarch about how to grow in love for our neighbor.</p>
+
+<p>God never comes to the aid of his sons too late. He will never come too late to rescue us. Even when all seems lost, God will always be there at the right time—although it may be in secret and mysterious ways.</p>
+
+<p>Thus, complete confidence in God, while at the same time using all the human means available, gives the Christian great fortitude and a special feeling of peace when he’s up against the most painful events and circumstances.</p>
+
+<p>In <em>The Way</em>, St. Josemaría says, “If you don’t abandon him, he will not abandon you” (J. Escrivá, <em>The Way</em>, Point 730).</p>
+
+<p>And so, we can tell God Our Father in our prayer that we don’t want to leave Him, that we know that together with Him, every battle is a victory, even though at first sight it might seem like a defeat.</p>
+
+<p>“At the very moment,” said St. Josemaría in <em>Friends of God</em>, “when everything seems to be collapsing before our eyes, we realize that the opposite is true, because, as we are told in the Psalms, ‘because you, Lord, are my strength’ (Ps. 43:2).</p>
+
+<p>“If God is dwelling in our soul, everything else, no matter how important it may seem, is accidental and transitory, whereas we, in God, stand permanent and firm” (J. Escrivá, <em>Friends of God</em>, Point 92).</p>
+
+<p>This is the medicine that we need to purge from our lives all fears, tensions, and anxieties. St. Paul comforted the first Christians in Rome, who faced a great panorama of many human difficulties. He comforted them with the words:</p>
+
+<p>“If God is for us, who is against us? He who did not spare his own Son but gave him up for us all, will he not also give us all things with him? … Who shall separate us from the love of Christ? Shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?. … No, in all these things, we are more than conquerors through him who loved us.</p>
+
+<p>“For I am sure that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor anything else in all creation will be able to separate us from the love of God in Christ Jesus Our Lord” (Rom. 8:31,35,37-39).</p>
+
+<p>By vocation, a Christian is a person dedicated to God, and he’s one who has accepted all that may happen to him as being permitted by Him.</p>
+
+<p>On another occasion Our Lord taught the people around Him about the love and care that God has for every creature. His listeners were simple and honest people who gave praise to the majesty of God, but who lacked that special confidence of children in God their Father.</p>
+
+<p>Probably, just as he was talking to them, a flock of sparrows came around pecking about for what they could pick up. Who would bother about a few sparrows? Perhaps the housewives of the village might sometimes buy for them a few pennies to flavor their ordinary meals. This was within reach of the most modest purse. They were of little value.</p>
+
+<p>But Our Lord would indicate them with a gesture, while seeing to his audience: “Not one of these sparrows is forgotten before God.” God knows everything. “Not one of these falls to the ground without your Father knowing it” (Luke 12:6, Matt 10:29).</p>
+
+<p>And Our Lord goes on to give us confidence. He says, “Fear not, you are worth more than a host of sparrows” (Matt. 10:31). We are not creatures of the moment, but we are His children forever. How could He not take an interest in our plans?</p>
+
+<p>“Fear not.” Our God has given us life and He has given it to us forever. And Our Lord says to us, “To you my friends, I tell you: Do not fear” (Luke 12:4).</p>
+
+<p>St. Thomas Aquinas says, “Every man, no matter who he is, is God’s friend and should have great confidence in being freed by him from any type of affliction. … And as God helps his servants in a special way, he who serves God should live in great peace” (Aquinas, <em>Exp Simb Apost. 5</em>). There’s only one condition: be friends of God and live as His children.</p>
+
+<p>St. Josemaría says, “Take your rest in divine filiation. God is a father full of tenderness, of infinite love” (J. Escrivá, <em>Friends of God</em>, Point 150). In every aspect of our life, be it human or supernatural, our rest, our security has no firmer foundation than our divine filiation.</p>
+
+<p>“Cast all your anxieties on him.” St. Peter says to the first Christians, “for he cares about you” (1 Pet. 5:7).</p>
+
+<p>Divine filiation cannot be considered as something merely metaphorical. It does not mean that God simply treats us as a father and expects us to treat Him as sons. No.</p>
+
+<p>Through the indwelling, sanctifying power of God, the Christian is a real son of God. This is such a profound reality that it affects man’s very being to such an extent that St. Thomas declares that through it, man “is made into a new being” (Aquinas, <em>Summa Theologiae</em>, Part I-II, Q110, A2).</p>
+
+<p>Divine filiation is the foundation for the freedom, security, and happiness of the children of God. In it man finds the protection he needs and the fatherly warmth and certainty in the future, which enables him to abandon himself without worrying about the unknown things that tomorrow may bring.</p>
+
+<p>It gives him the conviction that behind all the hazards of life there always lies a very good reason, because, as St. Paul tells us, “We know that in everything, God works for the good” (Rom. 8:28).</p>
+
+<p>Even our mistakes and our wanderings from the right path always end up well. St. Augustine comments, “God arranges absolutely everything to his own advantage” (Augustine, <em>De corresp de gracia</em>, 30:35).</p>
+
+<p>The realization that one is a son of God produces in all the circumstances of the Christian’s life an essentially loving approach to the world, which shows itself mainly in the virtue of faith.</p>
+
+<p>The person who knows themselves to be a son of God is always happy and never loses their peace of mind. This awareness frees him from useless stresses and when, out of weakness he goes wrong, if he really feels he is a child of God, he’s able to turn to Him again, confident of being well received.</p>
+
+<p>The thought of divine providence helps us to approach God, not as a cold, indifferent, and distant being, but as a father who’s concerned for each one of us, and who has given us an angel to watch over us on our road through life, an angel like one of those who announced the birth of Our Lord to the shepherds (Luke 2:8-14).</p>
+
+<p>The peace of mind which this truth brings about in our way of acting and living does not come from turning our back on reality. Rather, it consists in viewing it optimistically because we always trust in God’s help.</p>
+
+<p>St. Cyprian says, “This is the difference between us and those who do not know God: they, in adversity, complain and grumble; we, on the other hand, are not drawn away from virtue by the things that go against us but are strengthened in it” (Cyprian, <em>De moralitate, 13</em>)—because we know that “even the hairs of our head are numbered” (Like 12:7).</p>
+
+<p>We can always be at peace. If we really seek God, everything will be an occasion for improvement.</p>
+
+<p>We can make a resolution to go to Our Lord in the Blessed Sacrament, whenever the contradictions, the difficulties, or the trials of life put us in danger of losing our happiness and peace of mind.</p>
+
+<p>We can also go to Our Lady, to her whom we contemplate in a regular way. She will be our teacher always. She’ll teach us how to conduct ourselves like children of God, even in the most difficult of circumstances.</p>
+
+<p>Our Father God is always our safeguard against the difficulties and temptations that we may have to undergo. We can win every battle with Him at our side.</p>
+
+<p>The whole history of the Incarnation opens with the words, “Do not be afraid, Mary” (Luke 1:30). In the presence of the supernatural, there is often fear. But God comes to calm our fears.</p>
+
+<p>Likewise, with St. Joseph: “Do not be afraid, Joseph, son of David” (Matt. 1:20). He’s told to calm down. God comes to bring him peace.</p>
+
+<p>And also to the shepherds, the angel says, “Do not be afraid, for I bring you good tidings of great joy which will be to all the people” (Luke 2:10).</p>
+
+<p>This beginning of God’s coming into the world marks a style proper to Our Lord’s presence among men.</p>
+
+<p>Later on, when Our Lord was crossing the Sea of Galilee, the boat was swamped by the waves. St. Mark puts this event in its proper context. It was the evening of the day on which Our Lord had narrated the parable of the kingdom of heaven (Mark 4:35).</p>
+
+<p>The Gospel explains that Our Lord, tired out after hours of preaching, was asleep in the boat. The storm must have been tremendous, because the disciples, accustomed as they were to the sea, nevertheless saw themselves in great danger. And they cried out for Our Lord to save them: “Lord, save us, for we perish!” (Matt. 8:24-25).</p>
+
+<p>From the start, the apostles understood why Our Lord was asleep. He must have been very tired not to have been awakened by the by the waves.</p>
+
+<p>They did everything in their power to avert the danger, rowing hard, bailing out the water. But gradually the storm began to get the better of them and they were in imminent danger of sinking. There’s a great sense of urgency in their words, “Save us, for we are perishing!”</p>
+
+<p>The fears that we may experience often stem from the awareness that the security of our life is based on very weak foundations. In that case, we’re forgetting an essential truth: that God is our constant security.</p>
+
+<p>That doesn’t mean that we are insensitive to events, but that we should have more confidence in using the human means at our disposal.</p>
+
+<p>We must never forget that to be close to God, even when He appears to be asleep, is to be safe. When we’re confused or going through unpleasant times, God does not forget us.</p>
+
+<p>St. Teresa of Avila said, “He never fails his friends” (Teresa of Avila, <em>Life</em>).</p>
+
+<p><em>I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.</em></p>
+
+<p><em>In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</em></p>
+
+<p><em>UI</em></p>
+
+</article>
+    </main>
+
+    <footer>
+    <div class="footer-content">
+        <div class="footer-social">
+            <a href="https://whatsapp.com/channel/0029Vb2pjJyGufJ2mE4xvv2F" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Channel">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            </a>
+            <a href="mailto:frconor.ebook@gmail.com" aria-label="Email">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z"/><path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z"/></svg>
+            </a>
+        </div>
+        <p>&copy; 2026 FCD</p>
+    </div>
+</footer>
+
+    <!-- Scroll to Top Button -->
+    <button class="scroll-top" id="scroll-top" aria-label="Scroll to top" title="Back to top">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 15 12 9 6 15"></polyline>
+        </svg>
+    </button>
+
+    <!-- Reading List Modal -->
+    <div id="reading-list-modal" class="modal-overlay" aria-hidden="true" role="dialog" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Your Reading History</h2>
+                <button id="modal-close" class="modal-close" aria-label="Close modal">&times;</button>
+            </div>
+            <div id="reading-list-content" class="modal-body">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/meditations/assets/js/search.js?v=1772764249"></script>
+    <script src="/meditations/assets/js/theme-toggle.js"></script>
+    <script src="/meditations/assets/js/text-size-toggle.js"></script>
+    <script src="/meditations/assets/js/scroll-top.js"></script>
+    <script src="/meditations/assets/js/meditation-counter.js"></script>
+</body>
+</html>
