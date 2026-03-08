@@ -19,7 +19,7 @@ This passage tells the story of rejection. Our Lord specifically sent His messen
 
 One of the themes that runs through Our Lord's life is that theme of rejection.
 
-Rejection in Bethlehem---there was no room at the inn. Rejection in many moments of His public life, particularly in Jerusalem at the end.
+Rejection in Bethlehem---there was no room at the inn (Luke 2:7). Rejection in many moments of His public life, particularly in Jerusalem at the end.
 
 We can learn a lot from the rejection of Christ. Our Lord takes those rejections in stride.
 
@@ -27,7 +27,7 @@ He's not put off. He's not dumbfounded. He doesn't stop immediately doing what H
 
 Our Lord teaches us how to handle situations where we may be rejected, or not appreciated, perhaps by friends. Maybe they let us down.
 
-We might be excluded from some group. We might not be invited when we would have thought we should have been invited, or we were expecting to be invited and we weren't invited.
+We might be excluded from some group. We might not be invited when we would have thought we should have been invited, or we were expecting to be invited, and we weren't invited.
 
 We end up with those unpleasant feelings: feelings of rejection, of not being appreciated, not being wanted, not being loved.
 
@@ -37,9 +37,9 @@ When those occasions come along, we have to try and follow Christ. Learn how to 
 
 If God permits periods of rejection or failure, it's because He also draws something from it. These can be periods of great spiritual bonanza, when we grow in our unity to the Cross.
 
-We grow in the virtues of faith, of trust, of hope, of abandonment. Or when we accept that cross of rejection in small ways, in the little things of each day. Or make an act of acceptance of the Will of God.
+We grow in the virtues of faith, of trust, of hope, of abandonment. Or when we accept that cross of rejection in small ways, in the little things of each day.
 
-"Lord, if this is your will, then it's my will also" (*cf*. Josemaría Escrivá, *The Way*, Point 762). I offer you these feelings. I offer you this moment. Teach me to laugh at myself a little more.
+Or make an act of acceptance of the Will of God: "Lord, if this is your will, then it's my will also" (*cf*. Josemaría Escrivá, *The Way*, Point 762). I offer you these feelings. I offer you this moment. Teach me to laugh at myself a little more.
 
 Many of the saints in the course of their life experienced all sorts of rejections. The life of St. Josemaría is very often a continual story of rejection. Rejection by this world.
 
@@ -51,7 +51,7 @@ We don't have to worry about experiences of being misunderstood. 'No one underst
 
 Christ knows what you're going through. He knows each one of those wounds or those feelings, because He has all those wounds Himself.
 
-Fulton Sheen says, "There's eternal freshness in the wounds of Christ."
+Fulton Sheen says, "There's eternal freshness in the wounds of Christ" (Fulton J. Sheen, TV Episode, *The Enduring Freshness of the Wounds of Christ*).
 
 For those moments or periods or experiences where we might experience rejection, we can find our solace, our consolation, in entering into the wounds of Christ crucified.
 
@@ -89,7 +89,7 @@ Let the difficulties pass. Let the plans of God work themselves out. "Truth is t
 
 "Meanwhile, some of the people of Jerusalem were saying, 'Isn't this the man they want to kill? And here he is, speaking openly, and they have nothing to say to him! Can it be true the authorities have recognized that he is the Christ? Yet we all know where he comes from, but when Christ appears no one will know where he comes from.'
 
-"'Then, as Jesus was teaching in the temple, he cried out: 'You know me, and you know where I came from. Yet I have not come of my own accord: but he who sent me is true. You do not know him, but I know him, because I have my being from him and it was he who sent me'" (John 7:25-29).
+"Then, as Jesus was teaching in the temple, he cried out: 'You know me, and you know where I came from. Yet I have not come of my own accord: but he who sent me is true. You do not know him, but I know him, because I have my being from him and it was he who sent me'" (John 7:25-29).
 
 At the appropriate time, at certain moments, Our Lord speaks the truth even though He knows it's not going to be well received.
 
@@ -199,7 +199,7 @@ There's a great whirlwind of misunderstanding and rejection around Him. It's com
 
 It's all about to break out into action, the action of the Passion---the greatest expression of rejection of this world: the Cross.
 
-Right beside Him are those people who should be such a support and yet the apostles are sleeping, "incapable of understanding...the drama that is being played out."
+Right beside Him are those people who should be such a support and yet the apostles are sleeping (Matt. 26:40), "incapable of understanding...the drama that is being played out."
 
 It is the moment when Christ is most misunderstood. Not appreciated. And yet He spends the night in silence. Silent prayer.
 
@@ -227,7 +227,7 @@ Lord, help me to use those moments to participate a little better, a little more
 
 Cardinal Sarah says, "Its strength is such that it leads us to give ourselves even unto death, unto the humble, silent, and pure gift of our life. If we want to prolong Christ's work on earth, it is necessary to love silence, solitude, and prayer" (*ibid*.).
 
-The death of Jesus, therefore, is a great silence. It was the ninth hour. "He bowed his head and gave up his spirit" (John 19:30).
+The death of Jesus, therefore, is a great silence. It was the \[ninth\] hour. "He bowed his head and gave up his spirit" (John 19:30).
 
 "The Father spoke one Word," St. John of the Cross said, "which was his Son, and this Word He always speaks in eternal silence, and in silence, it must be heard by the soul" (St. John of the Cross, *Counsels of Light and Love*).
 
