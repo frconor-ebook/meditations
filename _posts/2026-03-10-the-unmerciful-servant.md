@@ -71,7 +71,7 @@ God pardons those who pardon others. We are all the time in need of the pardon o
 
 We are invited by Him to show that same pardon to others. The mercy that we show to others is the same mercy that will be shown to us.
 
-Ecclesiasticus says, "He who exacts vengeance will experience the vengeance of the Lord, who keeps strict account of sin. Forgive your neighbor for the hurt he does you, and when you pray your sins will be forgiven. If a man nurses anger against another, can he then demand compassion from the Lord?" (Ecclus. 28:1-3).
+\[Ecclesiasticus\] says, "He who exacts vengeance will experience the vengeance of the Lord, who keeps strict account of sin. Forgive your neighbor for the hurt he does you, and when you pray your sins will be forgiven. If a man nurses anger against another, can he then demand compassion from the Lord?" (Ecclus. 28:1-3).
 
 Our Lord has perfected this command by extending it to every person and every offense. There is no offense that is unforgivable.
 
@@ -79,7 +79,7 @@ Through His death on the Cross, Christ has made all men brothers in a new creati
 
 But good old St. Peter wondered if this teaching was going a bit too far. His is a rather calculating mentality. Surely there should be some limit to our forgiveness.
 
-If this person hurts me, if they have done some injustice, if they really deserve something or other for what they have done, shouldn't we deliver that something or other?
+If this person really hurts me, if they have done some injustice, if they really deserve something or other for what they have done, shouldn't we deliver that something or other?
 
 Our Lord bids him to hold his tongue, change his heart, change his mind, his orientation, his attitude.
 
@@ -95,9 +95,9 @@ St. Josemaría used to say, "I did not need to learn the lesson of forgiveness, 
 
 We can look at our life and our heart, our conscience, to see if we are holding any little resentment there inside, either real or imaginary; if there is something that we need to come and lay at the feet of Our Lord on the Cross.
 
-Has my pardon been speedy, sincere, wholehearted, and unreserved?
+Has my pardon been speedy, sincere, wholehearted, unreserved?
 
-"If somebody annoys us fifty thousand times, that's how often we have to forgive them. Our patience has to get ahead of our bad feelings. We have to wear out our feelings before they provoke more harm" (St. John of Ávila, *Sermon 25*).
+"If somebody annoys us fifty thousand times, that's how often we have to forgive them. Our patience has to get ahead of our bad feelings. We have to wear out our feelings before they provoke more harm" (John of Ávila, *Sermon 25*).
 
 Lent is a very good time for us to look and see: How am I forgiving others? Lord, help me to imitate your paternal mercy.
 
@@ -107,9 +107,9 @@ Our pardon has to be sincere, profound, and prompt. Sometimes we might feel some
 
 If on some occasion we have been seriously offended, we could call to mind all the times we have made some serious transgression against Our Lord.
 
-Our Lord "does not accept the offering of someone who fosters division or has a stain on their heart. He sends them away. 'Go first and make peace with your brother, and then come and be forgiven' (*cf*. Matt. 5:24). His greatest objective is peace, social harmony" (St. Cyprian, *Treatise on the Our Father*).
+Our Lord "does not accept the offering of someone who fosters division or has a stain on their heart. He sends them away. 'Go first and make peace with your brother, and then come and be forgiven' (*cf*. Matt. 5:24). His greatest objective is peace, social harmony..." (*cf*. St. Cyprian, *Treatise on the Our Father*).
 
-Lord, help me to examine how I react when people rub me the wrong way. I see that I receive fewer blows than I deserve.
+Lord, help me to examine how I react when people rub me the wrong way. I see that I receive fewer blows than I deserve (*cf*. Luke 12:48).
 
 My reaction is one of understanding: 'This person does not mean to hurt me' or, 'They have some other little cross that they're carrying' or, 'I have taken this up in the wrong way.'
 
@@ -129,7 +129,7 @@ That father didn't know that his daughter was going to grow up and become a prof
 
 That story in Flemish got sent to the other side of the world to a Belgian priest in Singapore. He translated it back into English. He sent it to me.
 
-The best friend of a nephew of mine got kicked to death outside a disco in Dublin. I sent it back to them and they said that the words helped. So words of love and forgiveness go around the world.
+The best friend of a nephew of mine got kicked to death outside a disco in Dublin. I sent it back to them and they said that the words helped. So, words of love and forgiveness go around the world.
 
 That father of a family was able to come out with those words because he had been formed in that virtue somewhere along the line. He picked it up from somebody else.
 
@@ -143,11 +143,11 @@ We're told in the *Furrow*, "True charity neither keeps account of the necessary
 
 Our Lord wants us to endure all those insults to our own self-love, to see it as an opportunity to grow, to stand on my pride, my sensitivity, to laugh at ourselves; and even to thank Our Lord because, with this little pain or hurt or pinprick, maybe I get my just deserves.
 
-Possibly, through those things, Our Lord is helping us to be better instruments---more humble; using our ups and downs, our shortcomings, so as to use us better in the long term.
+Possibly, through those things, Our Lord is helping us to be better instruments---more humble, using our ups and downs, our shortcomings, so as to use us better in the long term.
 
 Lord, help me to forgive the tiny offenses of every day. It's inevitable in our daily dealings with others---at work, at home, in social relationships---that there would be small little frictions. The world is made up of all sorts of little frictions.
 
-It's possible that somebody may treat us unfairly or hurt us a little bit. And it's possible that it doesn't happen infrequently---people we live with, people we work with, people we deal with regularly.
+It's possible that somebody may treat us unfairly or hurt us a little bit. And it's possible that it doesn't happen infrequently---people we live with, people we work with, people we deal with in a regular way.
 
 Somebody in Asia once told me that wherever two people are together, there is politics. That can be a useful little phrase. All it takes is two people for politics to happen.
 
@@ -167,13 +167,13 @@ Keep love in our hearts, because the only thing that has any value in the eyes o
 
 The pardon that we grant has to be sincere, from the heart, just as God has pardoned us.
 
-It has to be immediate, without allowing any bitterness or a spirit of divisiveness to eat away at our hearts, which is perhaps what the devil wants---and all of this, without being humiliating to the other person or being melodramatic but using those little things of daily life.
+It has to be immediate, without allowing any bitterness or a spirit of divisiveness to eat away at our hearts, which is perhaps what the devil wants---and all of this, without being humiliating to the other person or being melodramatic, but using those little things of daily life.
 
 We don't even have to say, 'You are forgiven.' 'Behold, I grant you my forgiveness!'
 
 It's just enough to smile, to change the direction of the conversation, to make an affectionate gesture as if the offense had never taken place at all.
 
-We don't need to suffer some great injustice before we show such charity. The little things that happen each day are opportunity enough.
+It is not necessary for us to suffer some great injustice before we show such charity. The little things that happen each day are opportunity enough.
 
 Often, we have disagreements over trifling matters. There may be sharp replies or disconcerting gestures---often caused no more than just by tiredness---at work, in traffic jams, in the rush of public transport.
 
@@ -181,11 +181,11 @@ Lord, help us to be prepared for those little moments of friction. Don't let our
 
 Don't let us distance ourselves from others. Don't let us turn glum, with a look on our faces that everybody knows there is something wrong.
 
-Help us to let those things pass onto the bridge, to keep our presence of God. Don't let our soul lose its peace and joy. Don't let me become touchy, oversensitive. Help me to see this is my pride at work.
+Help us to let those things pass onto the bridge, to keep our *presence of God*. Don't let our soul lose its peace and joy. Don't let me become touchy, oversensitive. Help me to see this is my pride at work.
 
 Lord, are there any reactions that I have to the little irritations of each day? I have to find a way to holiness there.
 
-"If your neighbor does wrong to you, you have to forgive him", says Our Lord (*cf*. Mark 11:25). "Charity is patient. Charity is kind" (1 Cor. 13:4).
+"If your neighbor does wrong to you, you have to forgive him," says Our Lord (*cf*. Mark 11:25). "Charity is patient. Charity is kind" (1 Cor. 13:4).
 
 In forgiving and forgetting, it is we who have the most to gain. Our life becomes more joyful and more serene, and trifles don't upset us.
 
@@ -219,9 +219,9 @@ We ask Our Lady how to forgive, and she'll teach us.
 
 She'll teach us how to struggle to cultivate in our own lives those very virtues that sometimes might seem to be lacking in others. And then we'll be in a position to help them a little more.
 
-Understanding and forgiving are the most radical manifestations of love. We find on the Cross Our Lord's final words among those radical manifestations: words of love, understanding, and forgiving.
+Understanding and forgiving are the most radical manifestations of love. We find on the Cross Our Lord's final words among those radical manifestations: words of love, understanding, forgiving.
 
-In spite of the incredible tortures and insults that He was given, He's our example of patience. He carried the Cross, a symbol of injustice and death.
+In spite of the incredible tortures and insults that He was given, He's our example of patience. He carried the Cross, a symbol of injustice and of death.
 
 He invites us to carry our cross patiently, in a world that's often unfair, indifferent, violent, and rude. With our formation, possibly we might be all the more sensitive to all of those things.
 
