@@ -38,4 +38,4 @@ defaults:
   - scope:
       path: "data" # Apply these settings to files in _data
     values:
-      sitemap: false  # Exclude data files from sitemap (optional but recommended)
+      sitemap: false  # Exclude data files from sitemap (optional but recommended)future: true
