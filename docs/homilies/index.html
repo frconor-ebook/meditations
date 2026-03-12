@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- FOUC Prevention: Apply theme and text size before page renders -->
+    <script>
+        (function() {
+            // Apply theme
+            const theme = localStorage.getItem('theme-preference') ||
+                (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', theme);
+            // Apply text size
+            const textSize = localStorage.getItem('text-size-preference');
+            if (textSize === 'large') {
+                document.documentElement.setAttribute('data-text-size', 'large');
+            }
+        })();
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fr. Conor Donnelly Meditations | .</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/meditations/assets/css/style.css">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0BXLC35GR"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-S0BXLC35GR');
+    </script>
+
+
+
+</head>
+<body data-baseurl="/meditations">
+    <header>
+    <nav>
+        <div class="logo">
+            <a href="/meditations/"><img src="/meditations/assets/images/logo-circ.png" alt="Fr. Conor Meditations Logo"></a>
+        </div>
+        <div class="nav-links">
+            <a href="/meditations/" >Home</a>
+            <a href="/meditations/team" >Team</a>
+            <a href="/meditations/connect" >Connect</a>
+        </div>
+        <!-- Header Controls (Theme + Text Size) -->
+        <div class="header-controls">
+            <!-- Theme Toggle Button -->
+            <button
+                class="theme-toggle"
+                id="theme-toggle"
+                aria-label="Toggle dark mode"
+                title="Toggle dark mode">
+                <svg id="theme-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <!-- Sun icon (shown in dark mode) -->
+                    <path class="sun" d="M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12zM11 1h2v3h-2V1zm0 19h2v3h-2v-3zM3.515 4.929l1.414-1.414L7.05 5.636 5.636 7.05 3.515 4.93zM16.95 18.364l1.414-1.414 2.121 2.121-1.414 1.414-2.121-2.121zm2.121-14.85l1.414 1.415-2.121 2.121-1.414-1.414 2.121-2.121zM5.636 16.95l1.414 1.414-2.121 2.121-1.414-1.414 2.121-2.121zM23 11v2h-3v-2h3zM4 11v2H1v-2h3z"/>
+                    <!-- Moon icon (shown in light mode) -->
+                    <path class="moon" d="M17.293 13.293A8 8 0 0 1 6.707 2.707a8.001 8.001 0 1 0 10.586 10.586z"/>
+                </svg>
+            </button>
+            <!-- Text Size Toggle Buttons -->
+            <div class="text-size-toggle" role="group" aria-label="Text size controls">
+                <button id="text-size-normal" class="active" aria-label="Normal text size" title="Normal text size">A</button>
+                <button id="text-size-large" aria-label="Large text size" title="Large text size">A+</button>
+            </div>
+            <!-- Meditation Counter Badge -->
+            <button id="counter-badge" class="counter-badge" aria-label="View reading history" title="View reading history">
+                <span id="counter-number">0</span> read
+            </button>
+        </div>
+    </nav>
+</header>
+
+    <main>
+        <article>
+    <h1>.</h1>
+    <p>Fulton Sheen: Divine Intimacies</p>
+
+<p>By Fr. Conor Donnelly</p>
+
+<p>(<em>Proofread</em>)</p>
+
+<p><em>In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</em></p>
+
+<p><em>My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.</em></p>
+
+<p>At times some people feel that divine love is very far away, and the love of creatures is very close and real. Yet this is not the truth. It is the love of God which is burning, and the unsteady devotion of the love of creatures which can be cold and bitter. To prove this we need only go to the sanctuary of our own heart and ask it about the intimacies of love. We will see how God has satisfied them far beyond the wildest dreams and most ardent hopes.</p>
+
+<p>In other words, God reveals his love in terms of the intimacies of the human heart. What then are the different degrees or intimacies of love? The first intimacy of love is speech. We would never know anyone loved us unless that person told us so. Speech might be called the summation of a soul. All that it has been, all that it is, and all that it will ever be. We need only to hear a person speak and we can say he is a proud man. He is a humble man. He is a cruel man. He is a charitable man. Even the written words of those who lived and spoke centuries ago reveal their characters, their passions, their feelings, and their ideals.</p>
+
+<p>One need but open the books of an ancient past, and there we see the heart of a Socrates, the heart of a Caesar, the heart of a Cicero, revealed in every word that dropped from their lips. Speech then is the first form of the intimacies of love. If God reveals himself to us in terms of the human heart, then he should show his love for us by speaking to us. And God has spoken.</p>
+
+<p>The speech of God is revelation. Open sacred scripture at any page, and you will find written down the voice of God speaking to us his message of love. We are told in the book of Jeremiah, “With an everlasting love I have loved you, so I have kept my mercy towards you” (Jer. 31:3). And in the book of Isaiah, “Though your sins be like scarlet, they may become white as snow. Though they be crimson red, they may become white as wool” (Isa. 1:18). So it continues throughout the pages of the revealed word of God.</p>
+
+<p>But is that all that love can do? Is there not yet another intimacy of love beyond speech? Does not the human heart crave for other communications besides the sense of hearing? Does it not also want to see the one who speaks the words of love? Does it not want to see words born on human lips? See the earnestness of a visage, the flash of an eye, the sincerity of a heart written on the openness of a face? Not long can love be satisfied with words behind a veil, or words in a book. As intimacy grows, love also demands vision. Love wants to be present with the one loved. That is why Love with a capital L naturally tends towards an incarnation.</p>
+
+<p>If God is to exhaust all the intimacies of love and speak to us in the language of the human heart, he must not only be heard, he must also be seen. And God was seen. That was the incarnation of Our Lord and Savior Jesus Christ. He who dwelt in inaccessible light was seen by shepherds and wise men under the light of a star. He who made the universe and its myriad of dancing suns and whirling planets was seen fixing the flat roofs of Nazarene homes.</p>
+
+<p>He who lived in the inexhaustible riches of the kingdom of heaven was seen as a poor village tradesman in the little town of Nazareth. He who was the very word of wisdom of the Godhead was seen in the companionship of fishermen whose knowledge rose no higher than the low country of Galilean lakes. Men heard God say that he was love. Now they saw love in action. Men heard God say he would forgive sins. Now they saw him confer that power on his apostles unto the end of time.</p>
+
+<p>He was so often seen in attitudes of love and pardon that it is embarrassing to choose among them. One of the most touching certainly is the day he pardoned the woman taken in sin, as we read in John chapter 8. The scribes and Pharisees were surrounding a woman who was prostrate on the ground, with a veil drawn about her to hide her from the accusing fingers. She was an adulteress. The scribes and Pharisees were self-righteous judges. Each of them held a stone in his hand, prepared to cast it at the poor defenseless creature. Occasionally one of them would reach to the hand of his neighbor, take from it his stone, weigh both, and then return the lighter stone that he might cast the heavier one upon the woman.</p>
+
+<p>Just as they were about to execute judgment, they saw Our Lord approaching and resolved to catch him and ensnare him in his speech. Either he had to condemn the woman, or he had to release the woman. If he released the woman, he would be disobeying the law of Moses, which was the law of God, according to which any woman guilty of adultery must be taken outside the city gates and stoned. If he condemned the woman, he would not be merciful. And he said that he was merciful. In either case they thought he was trapped.</p>
+
+<p>But the dilemma of justice or pardon was no great dilemma to him who sounded the incarnation. Our Lord detested adultery, but he also detested the hounding of merciless hypocrites. He stooped over and with his fingers wrote in the sands, the only time in his life that he ever wrote. And what did he write? He probably wrote on the sands of that hillside the sins of the woman. And as he wrote the winds blew them away. Then he probably drew back a few paces and wrote again as he saw the sins of the Pharisees, but this time where the winds would not blow them away. As he wrote he spoke, “Let whoever is without sin among you be the first to throw a stone at her” (John 8:7).</p>
+
+<p>Upon hearing this, the scribes and Pharisees began to leave. But according to legend, not all at once. Some few remained. Our Lord looked up at one of them, and with one of those deep, calm, penetrating looks, then stooped over again and wrote in the sands. Ancient tradition says he wrote the word <em>thief</em>, whereupon the accuser dropped his stone and fled. Then he looked at another, and wrote in the sands the word <em>murderer</em>, and he likewise dropped his stone and fled.</p>
+
+<p>Finally, looking at the sole survivor, with a look that pierced his heart and anticipated the terrible judgment, he leaned over and wrote in the sands the word <em>adulterer</em>, and he too dropped his stone and fled. None of the actors in this scene remained but two, the criminal and the judge. The contrast of sin and divinity. No longer was any voice crying for her blood. No longer was any hand uplifted for her death. There was now no one with her but innocence. The only one who had a right to throw a stone, but he threw none.</p>
+
+<p>Lifting up his eyes from the sands he said to the woman, “Where are they? Has no one condemned you?” And she answered, “No one, Lord.” “Neither do I condemn you. Go your way, and from now on sin no more” (John 8:10–11). Strange verdict it was that day passed on nature. That virtue passed on vice. That last men saw the love of God at work, saying to penitent sinners of that day and of our own, you are black, but I send you the sun. You are unworthy to live, but you shall live to be worthy. I despise your sin, but I love you. I love you the sinner. I condemn you… I forgive you… I blame your rotten past. I wipe it out forever. Go now and sin no more.</p>
+
+<p>She might have wished to have murmured a word of thanks, but as she looked upon the love of God visible to men, she saw him with his head lowered, the silky waves of his hair shining in the sun, and his finger tracing in the sands the outline of a bleeding heart.</p>
+
+<p>Love wishes to hear the speech of the one loved. Love also wishes to see the one loved. But is that all that love can do? Does there not yet remain even another intimacy, by which love can betray and reveal itself to the human heart? There still remains one other intimacy of love. An intimacy so profound, so delicate, so personal, so complete, that the greatest insult anyone can offer us who knows us not is to make use of it. And that is the intimacy of touch.</p>
+
+<p>Anyone may hear the one loved. Anyone may see the one loved. But only the intimates may touch the one loved. If God is to exalt, to exhaust all the intimacies of love, then he must not only speak to us, he must not only be seen by us, but he must also touch and be touched. And he was touched. The children were touched by the hands that made them. The woman suffering from an issue of blood touched the hem of the garments of God. Thomas too touched him, as he put his fingers in hand and hand in heart to be cured of his doubt.</p>
+
+<p>But one of the sweetest of all the touches was that which he received in the house of Simon the Pharisee. Simon was that type of man who was fond of lionizing strangers. Not because he was a devout follower of Our Lord, but because of the great fame of the Galilean teacher, he invited Our Lord to his rich table. Some little ceremonies, such as the host kissing his guest and anointing his hair, were omitted from the occasion. Simon probably felt that Our Lord was only a rustic rabbi, not too familiar with the best society. There could be some deficits in etiquette.</p>
+
+<p>The guests reclined at the table according to a custom recently introduced into Palestine from the East. Each leaning on his left elbow, leaving the right hand free to eat at table. As the bronze servants were bringing in the precious viands, an untold incident happened. Simon looked up to the far corner of the room, and what he saw brought a blush to his cheek. He would not have minded it if anyone else had been there, but a rabbi. What would he think of it? He was just about to order the intruder removed, but a look from the Master deterred him. The intruder was a woman. Her name was Mary. Her city, Magdala. Her profession, a sinner.</p>
+
+<p>She moved slowly through the silk purple curtain drawn about her, as her luxuriant hair fell across her eyes. She did not attempt to brush it away, because it acted as a screen against the gaze of the Pharisee. The room had now grown quite still. Suddenly a sad little sound broke the quiet. It was a sob. The woman was weeping. Standing now over the feet of the divine Savior, she let fall upon the sandaled harbingers of peace a few tears, like the first warm drops of a summer rain. She tried to wipe them away with her hair, but the fountain flowed on as if answering to the deepest misery of life.</p>
+
+<p>Then she remembered she had concealed under her veil a vessel of precious ointment, pressed from the best of God’s creation. But what did she do with it? She didn’t do what you and I might have done. What would we do, we would take the vessel of precious ointment, pour it out slowly, deliberately, resolutely, drop by drop, as if to indicate by the very slowness of our giving the generosity of our gift. Not so with Magdalene. Not so with those who really love. She broke the vessel and gave everything. Because love knows no limits. She saw nothing and felt nothing except an inexpressible delight, in which joy is pain and sorrow is joy. In which tears, the common fount of joy and sorrow, unite in one mighty ecstatic emotion.</p>
+
+<p>All the while Simon was thinking the vile thoughts of that endless cemetery of whitened sepulchers, who are outside clean and inside full of dead men’s bones. So he muttered to himself, is this fellow a prophet? He’d realize who and what kind of woman this is who is touching him. That she is a sinner. And Our Lord, reading his thoughts, said to him, “Simon, I have something to say to you.” “Speak, teacher.” “Two men were debtors of a certain moneylender. One owed 500 denarii, the other 50. When they were unable to repay, he forgave them both. Which of them then will love him more?” “I suppose the one to whom he forgave the most.” “You have judged correctly,” he said. “Her sins, many as they are, have been forgiven. Yes, she has shown great love. Because she has shown great love” (cf. Luke 7:41–47).</p>
+
+<p>Mary seemed to have heard those words between sighs, but she could not believe her ears. Did he really speak to her? She who summed up within herself forty centuries of sin. She the type of woman who gave away her body without giving her soul. She who seasoned her jests with sins. She whom women envied and detested, whom men desired and defamed. Could it be that he was kind? She looked up at him for some assurance that she had heard aright. His eyes became illumined, like two altar fires. His lips, fine and keen with feeling, began to move. Then came the silence that always precedes the speech of God. And we are told in Saint Luke, he said, “Your sins are forgiven, go in peace” (Luke 7:48, 50).</p>
+
+<p>The shepherd was happy. He had found the lost sheep. The lost sheep was happy, for in sounding the depths of love, she had touched the very feet of God. There is nothing more that love can do. There is no other tongue by which the heart may speak. Love has three and only three intimacies. Speech, vision, and touch. These three intimacies God has chosen to make his love intelligible to our poor hearts. God has spoken. He told us that he loves us, that is revelation. God has been seen. That is the incarnation. God has touched us by his grace. That is redemption.</p>
+
+<p>Well indeed therefore may he say, “What more could I do for my vineyard than I have done?” (Isa. 5:4). What other proof could I give of my love than to exhaust myself in the intimacies of love? What else could I do to show that my own sacred heart is not less generous than your own? If we answer these questions right, then we will begin to repay love with love. Then we will not ask how much must I do or how much can I do for love of him? Then we will return speech with speech, which will be our prayer. Vision with vision, which will be our faith. Touch with touch, which will be our communion. Then one day, when the chalice of our poor hearts has been emptied of the last drop of love for him, he should take us to heaven, where our hearts will be filled to overflowing with the fountain of joy. And where there will be no speech but the song of angels, no vision but the lamb of God, and no touch but the embrace of the passionless passion and wild tranquility of everlasting love, which is God.</p>
+
+<p><em>I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.</em></p>
+
+<p><em>In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</em></p>
+
+<p><em>EW</em></p>
+
+</article>
+    </main>
+
+    <footer>
+    <div class="footer-content">
+        <div class="footer-social">
+            <a href="https://whatsapp.com/channel/0029Vb2pjJyGufJ2mE4xvv2F" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Channel">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            </a>
+            <a href="mailto:frconor.ebook@gmail.com" aria-label="Email">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z"/><path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z"/></svg>
+            </a>
+        </div>
+        <p>&copy; 2026 FCD</p>
+    </div>
+</footer>
+
+    <!-- Scroll to Top Button -->
+    <button class="scroll-top" id="scroll-top" aria-label="Scroll to top" title="Back to top">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 15 12 9 6 15"></polyline>
+        </svg>
+    </button>
+
+    <!-- Reading List Modal -->
+    <div id="reading-list-modal" class="modal-overlay" aria-hidden="true" role="dialog" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Your Reading History</h2>
+                <button id="modal-close" class="modal-close" aria-label="Close modal">&times;</button>
+            </div>
+            <div id="reading-list-content" class="modal-body">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/meditations/assets/js/search.js?v=1773284430"></script>
+    <script src="/meditations/assets/js/theme-toggle.js"></script>
+    <script src="/meditations/assets/js/text-size-toggle.js"></script>
+    <script src="/meditations/assets/js/scroll-top.js"></script>
+    <script src="/meditations/assets/js/meditation-counter.js"></script>
+</body>
+</html>
