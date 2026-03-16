@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- FOUC Prevention: Apply theme and text size before page renders -->
+    <script>
+        (function() {
+            // Apply theme
+            const theme = localStorage.getItem('theme-preference') ||
+                (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', theme);
+            // Apply text size
+            const textSize = localStorage.getItem('text-size-preference');
+            if (textSize === 'large') {
+                document.documentElement.setAttribute('data-text-size', 'large');
+            }
+        })();
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fr. Conor Donnelly Meditations | Gamblers On Calvary</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/meditations/assets/css/style.css">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0BXLC35GR"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-S0BXLC35GR');
+    </script>
+
+
+
+</head>
+<body data-baseurl="/meditations">
+    <header>
+    <nav>
+        <div class="logo">
+            <a href="/meditations/"><img src="/meditations/assets/images/logo-circ.png" alt="Fr. Conor Meditations Logo"></a>
+        </div>
+        <div class="nav-links">
+            <a href="/meditations/" >Home</a>
+            <a href="/meditations/team" >Team</a>
+            <a href="/meditations/connect" >Connect</a>
+        </div>
+        <!-- Header Controls (Theme + Text Size) -->
+        <div class="header-controls">
+            <!-- Theme Toggle Button -->
+            <button
+                class="theme-toggle"
+                id="theme-toggle"
+                aria-label="Toggle dark mode"
+                title="Toggle dark mode">
+                <svg id="theme-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <!-- Sun icon (shown in dark mode) -->
+                    <path class="sun" d="M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12zM11 1h2v3h-2V1zm0 19h2v3h-2v-3zM3.515 4.929l1.414-1.414L7.05 5.636 5.636 7.05 3.515 4.93zM16.95 18.364l1.414-1.414 2.121 2.121-1.414 1.414-2.121-2.121zm2.121-14.85l1.414 1.415-2.121 2.121-1.414-1.414 2.121-2.121zM5.636 16.95l1.414 1.414-2.121 2.121-1.414-1.414 2.121-2.121zM23 11v2h-3v-2h3zM4 11v2H1v-2h3z"/>
+                    <!-- Moon icon (shown in light mode) -->
+                    <path class="moon" d="M17.293 13.293A8 8 0 0 1 6.707 2.707a8.001 8.001 0 1 0 10.586 10.586z"/>
+                </svg>
+            </button>
+            <!-- Text Size Toggle Buttons -->
+            <div class="text-size-toggle" role="group" aria-label="Text size controls">
+                <button id="text-size-normal" class="active" aria-label="Normal text size" title="Normal text size">A</button>
+                <button id="text-size-large" aria-label="Large text size" title="Large text size">A+</button>
+            </div>
+            <!-- Meditation Counter Badge -->
+            <button id="counter-badge" class="counter-badge" aria-label="View reading history" title="View reading history">
+                <span id="counter-number">0</span> read
+            </button>
+        </div>
+    </nav>
+</header>
+
+    <main>
+        <article>
+    <h1>Gamblers On Calvary</h1>
+    <p>By Fr. Conor Donnelly</p>
+
+<p><em>(Proofread)</em></p>
+
+<p><em>In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here. That you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My Immaculate Mother, St. Joseph, my father and lord, my guardian angel intercede for me.</em></p>
+
+<p>The most tragic words ever written of Our Lord are those which St. John puts down at the beginning of his gospel. When he says, “He came unto his own and his own received him not” (John 1:11). Bethlehem had no room for him when he was born. Nazareth had no room for him where he lived. Jerusalem had no room for him when he died. What happened then is happening today. The curtain never goes down on the great abiding drama of Calvary.</p>
+
+<p>In every century the same leading role is played by the eternal Galilean. But new characters play the other roles. The story is always the same. The age-old story of indifference struck on a new key in new hearts and in new times. He still brings salvation, but men are indifferent to being saved. He still brings healing grace, but men are indifferent to their ills. He still comes to his own, but his own still receive him not. Note the parallel between the indifference of some on Calvary and the indifference of some in our day.</p>
+
+<p>Recall that day when the Hosannas hushed, when palms withered and turned into spears. The summer friends of victory made their flight with the winter of seeming defeat. Four judges, bands of soldiers, and a mad rabble in turn heaped opprobrium upon him. Yet by the strangest of all strange miracles, he grew in majesty with each new insult. The more men treated him vilely, the more beautiful he became. The more they abuse him as a slave, the more he appears as a king.</p>
+
+<p>His very silence before Caiaphas and Herod was the silence of majesty. What right had they to judge him, he who was judge of the living and of the dead? It was only when one of them appealed to the living God whence he came, that he makes the startling declaration that he is divine. Even Pilate, clothed in all the golden robes of Caesar’s empire, felt himself naked as he gazed upon the regal bearing of him who was clothed in the bright light of divinity. No moral miracle in all the life of Christ surpasses in power the fact that in the hour of his humiliation he could influence a man as sordid as Pilate. In the life of no other man did beauty and majesty shine forth in the hour of greatest ignominy and scorn.</p>
+
+<p>Only a vague parallel to it is to be found in the Jewish people of old whose loudest claims to spiritual primacy were uttered amidst the clanking of their chains, and whose superiority over all peoples was manifested as they enslaved amidst the false gods of Egypt. At last the moment had come when the king took possession of the only kingdom he would ever have upon this earth, the royal kingdom of the cross.</p>
+
+<p>Crowned, not with the gold of the magi, but with thorns of a yet impenitent nature, he began the royal procession to an empire which was no wider than a beam of wood, but from which to a dying thief he could promise a kingdom which was his even before the foundation of the earth was laid. To the Roman executioners it was just another Roman holiday. Under a festal sky, they led the procession to the hill of the skull where tradition marked the grave of Adam and where the new Adam would now lay down his life to take it up again. When their job was finished and the last nail driven into his torn flesh and his first word, a word of forgiveness bore into their hearts, they rested and divided the garments.</p>
+
+<p>Because the man on the cross had no further use for them. This was the prerequisite of the executioners and it came to them by law. Four soldiers divided the spoils, leaving only the tunic or seamless robe. It would be a sin to cut it, for after that it would be no use to anyone. But one of them, an old gambler, took out his dice, threw them, and the tunic woven by his sinless mother was awarded by luck to sinful men.</p>
+
+<p>Then in those terrible simple words the gospel records, “They sat down and kept watch over him there” (Matt. 27:36). What did they think of the man whom they sat and watched? As the shadow of the cross fell about their dice, they joked, gossiped, and gambled the hours away. They engrossed themselves in their own favorite topics of conversation, in mutual banter, in trifling little games. Now and then they glanced up with a curious interest. Once they looked up at him as he promised pardon to a thief, but it was only a passing glance. Once again they gazed at Mary, and wondered how anyone could have such a beautiful mother.</p>
+
+<p>Then how the crucified could be even more beautiful than his mother. But it was only a passing glance. They watched, but their minds were fixed on other things, on worldly pleasure, on reward, on money, on wine, on travel, on everything but the mystery of the cross. But back to their games they went, as they sat and watched. They talked about the latest cockfight in Jerusalem, about a wrestling match one of them had seen in Antioch, about the great chariot race that was to be run in Rome the coming Ides of May. About the gambling gains of a soldier of their garrison. About the possibility of Rome someday stamping Jerusalem under her heels. About the new dancing girl in the court of Herod. About a thousand and one indifferent things that such individuals would talk about.</p>
+
+<p>Everything, in a word, except the one thing that really mattered. Yet there, within a stone’s throw of them—they might even have thrown their dice at him—was being enacted the tremendous drama of the redemption of mankind. They only sat and watched. Here they were in the presence of the most stupendous fact in the history of the world, actors in the supreme event for which all creation groaned, and they saw nothing. The three hours slipped by, opportunities soon pass.</p>
+
+<p>The young and divine body which suffered so much because it had such a great soul, was now turned into a funeral pyre of suffering where all the suffering of the world burned together. As the executioners watched passably, he commends his soul to his heavenly Father. His friend at the right to paradise. His mother to John. They only sat and watched. The scene changes, but the lesson remains ever the same.</p>
+
+<p>Divinity is still in the world and the world receives it not. In all walks of life, the world goes on, gambling away the pearls of eternity for the tinsel of time. Without ever once casting a glance at the divinity Christ has left in his Church. If you would know where that divinity is, then look for the Church that is ignored by men as Christ was ignored on Calvary. If you would find divinity in the twentieth century, then look for that Church which they reject with the same crucifying indifference with which they rejected the Lord of heaven and earth in the first century.</p>
+
+<p>Note the indifference in the field of education, international politics, and religion. Go into the world of education, enter the university classroom, and everywhere you will hear such wild ideas such as the universe is due to chance. Man is a mere accident in the evolution of the cosmos. The soul is a survival belief of the Middle Ages. The new scientific spirit has antiquated the old morality. Christianity is a potpourri of pagan religions. Truth is purely ambulatory, we make it up as we go. Christianity is founded on a phallic basis, and therefore man can have as many wives as he likes. Religion is a remnant of primitive taboos. Hell is the heritage of an age of fear and superstition. God is a mental illusion which any psychologist can easily explain away.</p>
+
+<p>This is just the type of talk which is just as much pure nonsense as the gamblers on Calvary spoke. Not a single idea of which will outlive the professors who teach them. As these so-called learned men while away the precious moments given to discover the truth which is God, while they seek the laws of the universe without ever finding the lawmaker, there stands in the midst of them—they have even thrown their books at it as the soldiers might have thrown their dice—there stands in the midst of them an institution which has been educating for two thousand years, preserving for our age the best culture, art, and philosophy of the past, leading to a definite knowledge of the end and purpose of being, particularly of being a man, being a woman, or being a family. They only sit and watch. The suggestion that truth may be in the Church is as absurd to them as the suggestion that truth is pilloried to a cross. They only sit and watch.</p>
+
+<p>Enter into the broad field of international politics. Year after year in Washington, London, Geneva, and Lausanne, the representatives of the great nations gather together in a really earnest desire to bind all peoples together in the bond of unity and peace. But year after year their treaties fail. Why? Because they have nothing outside the nations themselves to bind them. A man cannot wrap up a package if he is part of the package. A man cannot pack his suitcase if he is one of the articles that go into the suitcase. In like manner, nations cannot tie themselves into a league if they are part of the league.</p>
+
+<p>If they are part of the league, their treaties merely mean obeying somebody else’s politicians. If we will not obey our own politicians, then heaven knows we will not obey somebody else’s politicians. There is only one thing in the world which can tie together all the nations of the world in the bond of peace, and that is something outside the nations themselves. But there is only one thing in the world which is not only international but also supranational, and that is the Church.</p>
+
+<p>Whose vicar is the spiritual father of all Christendom. Its only force is the moral force of the justice and righteousness of Christ. As one writer once said, a dispute laid before the state of the Vatican for decision would be free from the suggestion of material force to compel its acceptance, would be disconnected from any idea of territorial aggrandizement. It would have a presumption of justice in its behalf, because the state itself is a recognition of justice. The decision, wherever it may be, is bound to be in conformity with the moral code of the centuries, and be dominated by a spiritual conception of things which temporal judges may sometimes be without.</p>
+
+<p>Yet what is the attitude of nations in the face of this moral force which is above the nations because it is concerned with the salvation of souls? Year after year, the nations meet on the calvary of the world’s battlefields. They throw the dice of international politics, discuss gold standards, long range guns, and trade balances. All the while there stands in the midst of them someone who came to bring peace on earth. Or might be the arbiter of nations because a spiritual force outside the nations. They only sit and watch. To suggest to our international politicians that the Vatican State is the only true moral court of international justice, would be just as absurd as to have suggested to the gamblers on Calvary that the man on the cross is the moral force of the world. But the truth still remains. Salvation for nations resides in that which men so ignore, that in the presence of it they play their games of intrigue and they only sit and watch.</p>
+
+<p>Finally enter into the field of modern religion and witness the same indifference to the supreme truth of religion. That man is a fallen creature in need of the saving grace of divine redemption. There is little talk today of the saving of the soul. About the need of penance. About the kingdom of God. About the bread of life. But there are countless emphases on the need of being broad-minded. Reiterated slogans about life being broader than logic. About one religion being just as good as another. About it making no difference what a man believes so long as he does not cheat or steal. About benevolence being the greatest virtue, and excess of zeal being the greatest vice. Many a modern religious leader would regard you as a scoundrel if you told him he was not a gentleman.</p>
+
+<p>But would only smile on you benignly if you told him he was not a Christian. All the while modern religion is feeding souls on husks, there stands in the midst of the religious world a Church which would satisfy man’s desires for forgiveness by absolution. Man’s craving for union with God by communion. Man’s yearning for truth with infallibility. Yet they only sit and watch. If they were told that truth is one, and that one opinion is not just as good as another, they would consider it just as absurd as the gamblers on Calvary would have considered the suggestion that supreme truth was hanging only on one of the crosses.</p>
+
+<p>As the Church proclaims to the world that God is truth and truth is one, they answer back, can you not see that there are three crosses on Calvary? How dare you assert that there is only one truth? Until the end of time, the Church, as Christ, must go on being rejected. While the modern gamblers of Calvary, without making a distinction between truth and thieves, between eternal life and the dying, only sit and watch. As Calvary is prolonged through time and space, we find that men are as indifferent to divinity now as they were on the day it was born in a crib, and suffered on a cross.</p>
+
+<p>Oh for a love of truth for which the hearts of men would burn. Oh for the eradication of that spineless indifference which makes men play the games of earth on the altar steps of redemption. Too long have we sat and watched with the gamblers and idlers of Calvary. It is now time to stand and adore. To revive the spirit of the days when men believed in truth. I know the old age had its defects. I know it had its spirit of persecution, of narrowness. But these were only the excesses of real virtues. Such as love of truth.</p>
+
+<p>Instead of purifying them, we have taken them away root and branch and all. Now we are indifferent to right and wrong, to good and evil. Anything is better than such torpor of rematerialized pagans, to whom God and eternity are as if they never existed. Anything is better than the fear of the responsibilities of truth, which allow a restlessness, an ennui, a loathing and a doubt to creep into a soul, until it grows into a boredom. Truth is all-important. Error is serious. Hence before darkness settles over our lives, let us see that since Christ will not come down, we will have to get up. Lest perchance, while we play our games and throw our dice, we may miss the real lesson of the great drama of truth.</p>
+
+<p>There is only one gamble that is true. That is the gamble of Christ who took his life in the palm of his hands, rolled it out in the blood-red drops of redemption. Before the sun had set, he knew that he had won. We can be gamblers like him. Because we can take the dice of this world, with its tinsel, its rusting treasures, its passing joys, and throw them for the everlasting crown of glory with Christ the King. In that hour of our crucifixion, when we have thrown away all our lower self, and we think we have lost all, it shall prove to be, like the Savior’s, the hour of our greatest victory.</p>
+
+<p><em>I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, St. Joseph, my father and lord, my guardian angel intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</em></p>
+
+<p><em>EW</em></p>
+
+</article>
+    </main>
+
+    <footer>
+    <div class="footer-content">
+        <div class="footer-social">
+            <a href="https://whatsapp.com/channel/0029Vb2pjJyGufJ2mE4xvv2F" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Channel">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            </a>
+            <a href="mailto:frconor.ebook@gmail.com" aria-label="Email">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z"/><path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z"/></svg>
+            </a>
+        </div>
+        <p>&copy; 2026 FCD</p>
+    </div>
+</footer>
+
+    <!-- Scroll to Top Button -->
+    <button class="scroll-top" id="scroll-top" aria-label="Scroll to top" title="Back to top">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 15 12 9 6 15"></polyline>
+        </svg>
+    </button>
+
+    <!-- Reading List Modal -->
+    <div id="reading-list-modal" class="modal-overlay" aria-hidden="true" role="dialog" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Your Reading History</h2>
+                <button id="modal-close" class="modal-close" aria-label="Close modal">&times;</button>
+            </div>
+            <div id="reading-list-content" class="modal-body">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/meditations/assets/js/search.js?v=1773630028"></script>
+    <script src="/meditations/assets/js/theme-toggle.js"></script>
+    <script src="/meditations/assets/js/text-size-toggle.js"></script>
+    <script src="/meditations/assets/js/scroll-top.js"></script>
+    <script src="/meditations/assets/js/meditation-counter.js"></script>
+</body>
+</html>
