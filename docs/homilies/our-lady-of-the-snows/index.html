@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- FOUC Prevention: Apply theme and text size before page renders -->
+    <script>
+        (function() {
+            // Apply theme
+            const theme = localStorage.getItem('theme-preference') ||
+                (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', theme);
+            // Apply text size
+            const textSize = localStorage.getItem('text-size-preference');
+            if (textSize === 'large') {
+                document.documentElement.setAttribute('data-text-size', 'large');
+            }
+        })();
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fr. Conor Donnelly Meditations | Our Lady of the Snows</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/meditations/assets/css/style.css">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0BXLC35GR"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-S0BXLC35GR');
+    </script>
+
+
+
+</head>
+<body data-baseurl="/meditations">
+    <header>
+    <nav>
+        <div class="logo">
+            <a href="/meditations/"><img src="/meditations/assets/images/logo-circ.png" alt="Fr. Conor Meditations Logo"></a>
+        </div>
+        <div class="nav-links">
+            <a href="/meditations/" >Home</a>
+            <a href="/meditations/team" >Team</a>
+            <a href="/meditations/connect" >Connect</a>
+        </div>
+        <!-- Header Controls (Theme + Text Size) -->
+        <div class="header-controls">
+            <!-- Theme Toggle Button -->
+            <button
+                class="theme-toggle"
+                id="theme-toggle"
+                aria-label="Toggle dark mode"
+                title="Toggle dark mode">
+                <svg id="theme-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <!-- Sun icon (shown in dark mode) -->
+                    <path class="sun" d="M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12zM11 1h2v3h-2V1zm0 19h2v3h-2v-3zM3.515 4.929l1.414-1.414L7.05 5.636 5.636 7.05 3.515 4.93zM16.95 18.364l1.414-1.414 2.121 2.121-1.414 1.414-2.121-2.121zm2.121-14.85l1.414 1.415-2.121 2.121-1.414-1.414 2.121-2.121zM5.636 16.95l1.414 1.414-2.121 2.121-1.414-1.414 2.121-2.121zM23 11v2h-3v-2h3zM4 11v2H1v-2h3z"/>
+                    <!-- Moon icon (shown in light mode) -->
+                    <path class="moon" d="M17.293 13.293A8 8 0 0 1 6.707 2.707a8.001 8.001 0 1 0 10.586 10.586z"/>
+                </svg>
+            </button>
+            <!-- Text Size Toggle Buttons -->
+            <div class="text-size-toggle" role="group" aria-label="Text size controls">
+                <button id="text-size-normal" class="active" aria-label="Normal text size" title="Normal text size">A</button>
+                <button id="text-size-large" aria-label="Large text size" title="Large text size">A+</button>
+            </div>
+            <!-- Meditation Counter Badge -->
+            <button id="counter-badge" class="counter-badge" aria-label="View reading history" title="View reading history">
+                <span id="counter-number">0</span> read
+            </button>
+        </div>
+    </nav>
+</header>
+
+    <main>
+        <article>
+    <h1>Our Lady of the Snows</h1>
+    <p>By Fr. Conor Donnelly</p>
+
+<p><em>(Proofread)</em></p>
+
+<p><em>In the name of the Father, and of the Son, and of the Holy Spirit, amen. My Lord and my God, I firmly believe that you are here. That you see me. That you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My Immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me.</em></p>
+
+<p>After the promulgation of the dogma of the divine maternity of Mary at the Council of Ephesus, Pope Sixtus III consecrated a basilica in Rome in honor of the Blessed Virgin. Which was later called St. Mary Major. It’s the oldest church in the world dedicated to Our Lady. Today’s feast is also known as Our Lady of Snows. Due to the ancient legend about a Roman who asked the Blessed Virgin’s guidance on how best to spend his fortune.</p>
+
+<p>In the early hours of August 5th, Our Lady told him in a dream to build a church in her honor where snow would appear on the Esquiline Hill in Rome. That same morning, midsummer in Rome, very hot, it seemed that snow appeared miraculously on the site where the Basilica of St. Mary Major now stands. There is a tradition that on every August 5th, at 5 o’clock in the evening, the sacristan goes up into the balcony there in a side chapel and throws white rose petals down into the sanctuary in commemoration of that falling of snow. One of these small beautiful little traditions that Rome is very famous for.</p>
+
+<p>Today we celebrate the dedication of the Basilica of St. Mary Major. The oldest and most venerable church in the Western world consecrated to the Blessed Virgin. It’s there where Pope Francis wanted to be buried, as well as many other popes in history. Many events in the history of the Church have taken place there.</p>
+
+<p>This Marian basilica is closely linked to the dogmatic definition of the divine motherhood of Mary, promulgated at the Council of Ephesus. It was built under her invocation on the site of an already existing church during the fourth century, shortly after the council ended.</p>
+
+<p>The people of the city celebrated with enormous enthusiasm the official declaration of the truth that they had long believed, and joy spread throughout the Church. The faithful raised the enormous basilica under her name in the eternal city. Their exultation extends to us today when we praise Mary in a special way as the Mother of God and our Mother.</p>
+
+<p>According to a pious legend, a Roman patrician named John and his wife mutually agreed to dedicate their estate to honor the Mother of God, but did not know how exactly to do it. At this time, he and the pope both had a dream in which Our Lady requested a beautiful church in her honor be built on the part of the Esquiline Hill that was to be covered with snow out of season on August 5.</p>
+
+<p>Although the legend is subsequent to the basilica’s construction, it has caused the feast to be known in many places as Our Lady of the Snows. A great many mountain enthusiasts have her as their patroness. From time immemorial, the faithful in Rome have honored our mother in this basilica under the invocation of Salus Populi Romani, the health of the Roman people. They come to a place where their petitions are always heard to ask favors and graces.</p>
+
+<p>Pope John Paul II paid a visit to Our Lady here just after his election to the pontificate. On that occasion, he said Mary is called to lead all people to the Redeemer and to bear witness to him without words through love alone, in a way that shows her motherly disposition. She is called to draw even those who offer stubborn resistance, the ones for whom it is more difficult to believe in Christ’s love.</p>
+
+<p>Her vocation is to bring each person closer to her son. At her feet, Pope John Paul offered the Mother of God his whole life and deepest desires. A dedication that we too can make, imitating him as good children imitate their parents. In his address around that time in early September, Pope John Paul said to Our Lady, “I am all yours, and everything I have is yours. May you be my guide in everything.”</p>
+
+<p>With her protection, we will advance a sure step on our way. In his later encyclical, <em>The Mother of the Redeemer</em>, he said the mystery of the incarnation has allowed the Church to penetrate and shed ever more light on the mystery of the Mother of the Word Incarnate. The Council of Ephesus is of particular importance in this respect. Saint Cyril relates how the promulgation of the Marian dogma profoundly moved all the Christians in the city.</p>
+
+<p>It concerns us now too, as we consider that the Mother of God is also our Mother. Saint Cyril describes the event, saying that from the first hours of the morning until evening, all the people of the city of Ephesus anxiously awaited the outcome. When it was known that the author of the blasphemies, Nestorius, had been deposed, all as one began to glorify God and acclaim the synod, since the enemy of the faith had fallen.</p>
+
+<p>On leaving the church, he said, we were accompanied to our homes by torchlight. It was nighttime. The whole city was joyful and brilliantly lit up. The faith of the first Christians was strong and vibrant, as ours should also grow to be. In a homily given during that council, Saint Cyril praised the motherhood of Our Lady. Hail Mary, he said, full Mother of God, Blessed Virgin Mother, morning star. Hail Mary, most precious jewel of the whole world.</p>
+
+<p>Saint Thomas Aquinas affirms that as the Mother of God, her dignity is in a certain sense infinite on account of the limitless goodness of God. Similarly, greater dignity than hers there cannot be, just as there cannot be any greater than God. She is above all the angels and saints in dignity. After the sacred humanity of her Son, she is that part of creation which is the purest reflection of the glory of God.</p>
+
+<p>In her as in no other creature shines a participation in the divine gifts. Wisdom, beauty, goodness. There is no stain in her. She is a reflection of eternal light, the immaculate mirror of the action of God, and an image of his goodness.</p>
+
+<p>We could try to keep in mind throughout the day the divine motherhood of Mary, the root of all her graces, virtues, and perfections. Holy Mary, Mother of God, pray for us. Keep us by your side, and don’t ever let go of us. Take care of us as mothers protect the weakest and most needy of their children.</p>
+
+<p>Saint Bernard affirms that Mary is the channel through which we daily receive the graces we require. A recent document of the Church has said we should refer to Our Lady as mother in the order of grace. He says we can always turn to her, since it is the will of the Lord who wants us to obtain everything at his mother’s hands. Particularly when we find ourselves in the midst of special difficulties or temptations.</p>
+
+<p>By thus sharing our life with her and contemplating the mysteries of her earthly existence, we discover the meaning of the traditional Marian prayers of the Church, as if we were reciting them for the first time. What are the Hail Mary and the Angelus if not loving praises of her divine motherhood? When we say the Rosary, our minds and hearts reflect on the mysteries of Mary’s admirable life, which are at the same time the fundamental mysteries of our faith.</p>
+
+<p>In <em>Friends of God</em>, Saint Josemaría says, as the feasts of Our Lady come round each year, may we not be sparing in the details of affection we show her. We raise our hearts to her more often, asking for what we need, giving thanks for her constant motherly care, and entrusting those we love to her. Naturally, though, if we really want to act as good children, every day is a good occasion on which to express affection for those who really love one another.</p>
+
+<p>We can tell our mother today <em>monstra te esse matrem</em> – show us you are a mother. That the one who took blood in his veins to redeem us hears our prayers on account of you. We’re told in Saint Matthew, “Rejoice that your names are written in heaven” (Luke 10:20). If we’re faithful to the end, we too will hear those sweet words. “Enter the joy of your Master” (Matt. 25:21). Our Lady is the cause of our joy.</p>
+
+<p>The Gospel records the event when the 72 disciples returned to Jesus with great joy, because they had preached the kingdom of God throughout the countryside. They said, “Lord, even the demons are subject to us in your name” (Luke 10:17). Our Lord joins in their delight. “I saw Satan falling like lightning from heaven” (Luke 10:18).</p>
+
+<p>We can have great confidence in Our Lady that she will give us the spiritual joys that we need, particularly in moments of human hardship or contradiction, or moments of bad news. We can see that these are instruments that maybe God is giving us to do great apostolic things. That is where our joy may lie.</p>
+
+<p>Our Lord also warns the disciples, “Behold, I have given you authority to tread upon serpents and scorpions, and over all the power of the enemy, and nothing shall hurt you. Nevertheless, do not rejoice in this, that the spirits are subject to you, but rejoice that your names are written in heaven” (Luke 10:19–20). Our Lord says those words with great joy. Must be a great joy for Our Lady also to consider that our names are written in heaven.</p>
+
+<p>Our Lord says, “I thank you, Father, Lord of heaven and earth, that you have hidden these things from the wise and understanding and revealed them to babes. Yes, Father, for such was your gracious will” (Luke 10:21). The disciples would never forget this extraordinary moment with the Master, when they told him of their first apostolic ventures.</p>
+
+<p>How blessed they were to be instruments of Our Lord. How happy Jesus was to hear of their apostolate. But then he told them those remarkable words, “Rejoice that your names are written in heaven” (Luke 10:20). Down on Earth, each step we take brings us closer to Christ and to true happiness. There is no lasting happiness apart from God. Our mother always shows us the way.</p>
+
+<p>The Christian’s joy presupposes the natural joys which the Lord sets out before us. The joy of life itself. The joy of honest and holy love. The joy of nature and silence. The austere joy to be found in dedicated work. The joy of a job well done. The transparent joy of holy purity. Of sharing. Of self-sacrifice.</p>
+
+<p>St. Paul VI says the Christian can purify, fulfill, and be identified with these joys. He can’t despise them. Christian joy is granted to those who understand natural joys. There are many occasions when Our Lord took advantage of earthly joys to announce the joys of his kingdom. The joy of the sower and the reaper. The joy of the man who finds a treasure. Of the shepherd who discovers his lost sheep. Of those invited to a banquet. The joy of marriage. The joy of a father receiving back his son. That of a woman who has just given birth to a child.</p>
+
+<p>Saint Josemaría was always very eager to make use of the natural human joys that came along from one moment to another. The disciple of Christ is not a dehumanized being. He should not separate himself or allow himself to be separated from what is human. This was not the Master’s way. Our friends and acquaintances should find us increasingly welcoming and open to them. We should become better and better able to make life pleasant for others. At times this will require sacrifice and mortification if we are to overcome moodiness and tiredness.</p>
+
+<p>Saint Thomas Aquinas says that joy is the fruit of love. In fact, it’s the first fruit. The greater our love, the greater will be our joy. Saint John tells us that God is love. A love without measure. An eternal love that gives himself to us. Sanctity is love. Corresponding to this gift of God to the soul.</p>
+
+<p>The disciple of Christ is a joyful person even in the midst of great contradictions. Here we find the fulfillment of those words of the Master. “I will see you again, and your hearts will rejoice, and no one will take your joy from you” (John 16:22). Perhaps it is in joy that we distinguish true virtue from false virtue. Our Lord tells us in the First Commandment to love him with our whole heart, our whole soul, and our whole being. This is a call to joy and happiness. He himself will come to us.</p>
+
+<p>“If a man loves me, he will keep my word, and my Father will love him, and we will come to him and make our home with him” (John 14:23). One writer says without the joy that comes from this self-giving, all the other commandments become difficult or impossible to fulfill. Our Lord wants us to make the effort to overcome our tendency to react badly to things, or to hold back an intemperate word. Yet joy is not something that we can order up. Joy is the fruit of love.</p>
+
+<p>There is no human love that can sustain a lasting joy. It often seems that human love is the source of more sorrow than joy. But this is not the case in the Christian religion. A Christian who doesn’t love God, said one writer, is a contradiction in terms. A Christian who does not radiate joy because of his love for God needs to take a closer look at his spiritual life.</p>
+
+<p>Christian joy is something natural since it springs from the most important Christian virtue, love. Christian life and joy are essentially bound up together. There’s also a relationship between sadness and lukewarmness, between sadness and egoism, between sadness and loneliness. Joy can even be increased or even recovered if it is temporarily lost. It’s through prayer, face to face with Jesus.</p>
+
+<p>This prayer ought to be personal and selfless. Frequent confession is a privileged source of holiness and peace. Authentic joy is based on this foundation. We want to live for God and want to serve others because of God. We can tell Our Lord that we want nothing more than to serve him with joy.</p>
+
+<p>For 20 centuries, the source from which joy has sprung has been the Church. It arrived with Jesus and remained in the form of his mystical body. In our days, the happiest creatures ought to be those who are closest to Christ. This explains why no one is more joyful than Our Lady, who is full of grace and constantly full of joy.</p>
+
+<p>To be close to Our Lady is to live a blessed life. She overflows with joy and spreads it throughout creation. We can ask ourselves how often do we pray the Rosary, and in the litany call her the Cause of Our Joy. This she is because she is the gate of heaven, the doorway to God, to the Father, God the Father, fortress of his infinite love. Mother of God the Son, she is gatekeeper of the love that gave itself up to death. Spouse of God the Holy Spirit, she it is who admits the portal of divine fire and joy.</p>
+
+<p>As she goes by, the environment is transformed. Sadness is banished. Shadows give way to light. One writer says hope and love are ignited. It’s not the same thing to be with Our Lady as it is to be without her. Praying the Rosary is not the same as not praying it. We can resolve to be generous with our rosaries, in the company of so many other Christians. We can ask Our Lady with an increased devotion, especially on each one of her feast days. We could try to think of offering up to her some little mortification on a day like today.</p>
+
+<p>To our joy, Mary, may you help us to bring our friends and relatives closer to you. Mary, Cause of Our Joy, help us to spread peace and joy, <em>gaudium cum pace</em>, wherever we go. As this is one of the greatest treasures of Christians. On this feast of Our Lady of Snows, we ask in a special way for the virtue of purity, chastity, modesty. That we may spread a whole apostolate of this virtue throughout the world in a very special way.</p>
+
+<p><em>I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</em></p>
+
+<p><em>EW</em></p>
+
+</article>
+    </main>
+
+    <footer>
+    <div class="footer-content">
+        <div class="footer-social">
+            <a href="https://whatsapp.com/channel/0029Vb2pjJyGufJ2mE4xvv2F" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Channel">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            </a>
+            <a href="mailto:frconor.ebook@gmail.com" aria-label="Email">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z"/><path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z"/></svg>
+            </a>
+        </div>
+        <p>&copy; 2026 FCD</p>
+    </div>
+</footer>
+
+    <!-- Scroll to Top Button -->
+    <button class="scroll-top" id="scroll-top" aria-label="Scroll to top" title="Back to top">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 15 12 9 6 15"></polyline>
+        </svg>
+    </button>
+
+    <!-- Reading List Modal -->
+    <div id="reading-list-modal" class="modal-overlay" aria-hidden="true" role="dialog" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Your Reading History</h2>
+                <button id="modal-close" class="modal-close" aria-label="Close modal">&times;</button>
+            </div>
+            <div id="reading-list-content" class="modal-body">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/meditations/assets/js/search.js?v=1773910835"></script>
+    <script src="/meditations/assets/js/theme-toggle.js"></script>
+    <script src="/meditations/assets/js/text-size-toggle.js"></script>
+    <script src="/meditations/assets/js/scroll-top.js"></script>
+    <script src="/meditations/assets/js/meditation-counter.js"></script>
+</body>
+</html>
