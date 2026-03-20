@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "."
+title: "Fulton Sheen: Divine Intimacies"
 ---
 
 
