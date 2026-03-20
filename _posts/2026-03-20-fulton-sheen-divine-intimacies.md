@@ -4,8 +4,6 @@ title: "Fulton Sheen: Divine Intimacies"
 ---
 
 
-Fulton Sheen: Divine Intimacies
-
 By Fr. Conor Donnelly
 
 (*Proofread*)
