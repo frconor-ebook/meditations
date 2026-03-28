@@ -118,4 +118,4 @@ There is only one gamble that is true and that is the gamble of Christ who took 
 
 *EW*
 
-From *The Eternal Galilean*, Chapter IX, Fulton J. Sheen (1934).
+From *The Eternal Galilean*, Chapter XI, Fulton J. Sheen (1934).
