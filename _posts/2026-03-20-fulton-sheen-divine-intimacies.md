@@ -18,7 +18,7 @@ To prove this we need only go into the sanctuary of our own heart and distill ou
 
 In other words, God reveals His love in terms of the intimacies of the human heart. What, then, are the different degrees or intimacies of love?
 
-he first intimacy of love is speech. We would never know anyone loved us, unless that person told us so. Speech might be called the summation of a soul; all that it has been, all that it is, and all that it will ever be.
+The first intimacy of love is speech. We would never know anyone loved us, unless that person told us so. Speech might be called the summation of a soul; all that it has been, all that it is, and all that it will ever be.
 
 We need only to hear a person speak and we can say: "he is a proud man"; "he is a humble man"; "he is a cruel man"; "he is a charitable man." Even the written words of those who lived and spoke centuries ago reveal their characters, their passions, their feelings, and their ideals. One need but open the books of \[the\] ancient past, and there we see the heart of a Socrates, the heart of a Caesar, the heart of a Cicero revealed in every word that dropped from their lips.
 
