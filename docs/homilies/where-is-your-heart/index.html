@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- FOUC Prevention: Apply theme and text size before page renders -->
+    <script>
+        (function() {
+            // Apply theme
+            const theme = localStorage.getItem('theme-preference') ||
+                (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', theme);
+            // Apply text size
+            const textSize = localStorage.getItem('text-size-preference');
+            if (textSize === 'large') {
+                document.documentElement.setAttribute('data-text-size', 'large');
+            }
+        })();
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fr. Conor Donnelly Meditations | Where Is Your Heart?</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/meditations/assets/css/style.css">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0BXLC35GR"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-S0BXLC35GR');
+    </script>
+
+
+
+</head>
+<body data-baseurl="/meditations">
+    <header>
+    <nav>
+        <div class="logo">
+            <a href="/meditations/"><img src="/meditations/assets/images/logo-circ.png" alt="Fr. Conor Meditations Logo"></a>
+        </div>
+        <div class="nav-links">
+            <a href="/meditations/" >Home</a>
+            <a href="/meditations/team" >Team</a>
+            <a href="/meditations/connect" >Connect</a>
+        </div>
+        <!-- Header Controls (Theme + Text Size) -->
+        <div class="header-controls">
+            <!-- Theme Toggle Button -->
+            <button
+                class="theme-toggle"
+                id="theme-toggle"
+                aria-label="Toggle dark mode"
+                title="Toggle dark mode">
+                <svg id="theme-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <!-- Sun icon (shown in dark mode) -->
+                    <path class="sun" d="M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12zM11 1h2v3h-2V1zm0 19h2v3h-2v-3zM3.515 4.929l1.414-1.414L7.05 5.636 5.636 7.05 3.515 4.93zM16.95 18.364l1.414-1.414 2.121 2.121-1.414 1.414-2.121-2.121zm2.121-14.85l1.414 1.415-2.121 2.121-1.414-1.414 2.121-2.121zM5.636 16.95l1.414 1.414-2.121 2.121-1.414-1.414 2.121-2.121zM23 11v2h-3v-2h3zM4 11v2H1v-2h3z"/>
+                    <!-- Moon icon (shown in light mode) -->
+                    <path class="moon" d="M17.293 13.293A8 8 0 0 1 6.707 2.707a8.001 8.001 0 1 0 10.586 10.586z"/>
+                </svg>
+            </button>
+            <!-- Text Size Toggle Buttons -->
+            <div class="text-size-toggle" role="group" aria-label="Text size controls">
+                <button id="text-size-normal" class="active" aria-label="Normal text size" title="Normal text size">A</button>
+                <button id="text-size-large" aria-label="Large text size" title="Large text size">A+</button>
+            </div>
+            <!-- Meditation Counter Badge -->
+            <button id="counter-badge" class="counter-badge" aria-label="View reading history" title="View reading history">
+                <span id="counter-number">0</span> read
+            </button>
+        </div>
+    </nav>
+</header>
+
+    <main>
+        <article>
+    <h1>Where Is Your Heart?</h1>
+    <p>By Fr. Conor Donnelly</p>
+
+<p><em>(Proofread)</em></p>
+
+<p><em>In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My Immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me.</em></p>
+
+<p>Our Lord advises us not to pile up treasures on earth because they don’t last long. Being fragile and perishable, moth and rust consume and where thieves break in and steal. However much we manage to accumulate in life, there is really little point in it. Nothing on earth is worth putting our heart into in an absolute way. Our heart is made for God, and for the noble things of this earth in him.</p>
+
+<p>It’s useful for all of us to ask ourselves frequently, what do I give my heart to? Exactly what or where is my treasure? What do I usually think about? What’s the focal point of my most intimate concern? Is it God present in the tabernacle? Perhaps at a short distance from where I live, or from the office where I work. Or on the contrary, is it my business? Is it in my studies, or my work that occupies foremost place in my mind? Or could it be unsatisfied, selfish dreams, or hungry desires to have more?</p>
+
+<p>Many people, if they were honest, would perhaps find themselves obliged to reply, I think about myself. Yes, only about myself, and about people and things to do with my own interests. But we need to keep our heart fixed on God, on the mission that we have received from him. And on other persons and things for his sake. Our Lord, with infinite wisdom, tells us “lay up for yourselves treasures in heaven, where neither moth nor rust consumes, and where thieves do not break in and steal. For where your treasure is, there will your heart be also” (Matt. 6:20–21).</p>
+
+<p>Our heart is placed in Our Lord because he is the one real and absolute treasure. Neither health, nor prestige, nor any feeling of well-being can be our treasure. Only Christ. And for his sake, in an ordered way, our treasure subsumes all the other noble aspirations and duties of an ordinary Christian life. The life of a Christian who, by divine vocation, finds himself or herself situated precisely here in the world. In a special way, Our Lord wants us to put our heart into serving the people of the particular human and supernatural family that we have.</p>
+
+<p>Those who ordinarily are the ones we have to lead to God in the first place. And who constitute for us the first object that we ought to sanctify. Pope John Paul II said concern for others helps man to break free from his selfishness, to grow in generosity, and in consequence to find true joy. He who knows he has been called by Our Lord to follow him closely, no longer regards himself as the center of the universe. Because he has found many to serve, in whom he sees Christ in need.</p>
+
+<p>The example of parents, or of brothers and sisters in the home, is on many occasions of real value for the other members of the family, who from it learn to see the world from a Christian viewpoint. The family is of such importance, said Pope John Paul, by divine will, that in it the evangelizing action of the Church has its beginning. It is the first appropriate environment for sowing the seed of the Gospel. And the one in which parents and children, like living cells, go on assimilating the Christian ideal of serving God and the brethren. It’s a splendid place for apostolate.</p>
+
+<p>We could examine our conscience in our prayer today, and ask ourselves, well, is my family really like this? We have to see if we are like a leaven, which day after day goes on transforming little by little those who live with us. We have to see if we are praying constantly, as we should, to Our Lord for those brothers and sisters of ours, or for our children’s vocations, or for the vocations of our parents. That they might move towards a complete dedication to God. Because this is the greatest grace that Our Lord could give them. The real and precious treasure that with our help many of them can find.</p>
+
+<p>Where our treasure is, there we have to put our heart also. Our Lord has given an example of maximum love, self-surrender, and the best of sacrifices. And for that reason we should greatly value the particular call that each one of us has received, and the vocation of those with whom we live. Because they are to be the immediate beneficiaries of this treasure of ours. It’s hard to love what is regarded as having little value. And Our Lord would not want that kind of charity which denied priority to those whom he has placed in our care. Whether by a natural or supernatural kinship. Because this would not be ordered and true.</p>
+
+<p>The family is the most basic and most important unit of society. The one God looks upon as its firmest support. And it is perhaps the part of society most insidiously and ruthlessly attacked from all sides. Taxes are levied that ignore the social importance and value of the family. Certain ideologically and politically motivated trends in education militate against the proper formation of children. Materialism and hedonism distort the vision of parents and teachers, and promote, for specious demographic and social reasons, a campaign against life itself, striking in this way at the very heart of the family.</p>
+
+<p>A false sense of freedom and independence is inculcated in young people, and advanced social programs leave mothers with insufficient time to look after their children. Many have lost sight of the fact that parents have the right to educate their own children, and in the face of excessive state intervention, have ended up renouncing an elementary right, which by its very nature cannot be given up. Sometimes there are imposed certain kinds of teaching, dominated by a materialistic view of man. In such methods, the pedagogical and didactic approaches, textbooks employed, schemes of work, curricular programs, and school materials deliberately set aside the spiritual nature of the human soul.</p>
+
+<p>Parents have to be aware that no earthly power can exempt them from the responsibility God has given them in relation to their children. In different ways, we have all been given by Our Lord the care of others. The priest has the souls entrusted to him. The teacher has his pupils, the professor his students. Likewise, many others have the responsibility of giving spiritual formation. No one will respond on our behalf before God when we are asked, where are those I entrusted to you? But each one of us will be able to reply hopefully, as we are told in St. John, “Of those whom you gave me I lost not one” (John 18:9). Because Lord, we knew how to use with your grace both ordinary and extraordinary means, so that no one would stray.</p>
+
+<p>All of us ought to be able to say with regard to those who have been entrusted to us, cor meum vigilat, my heart is vigilant (cf. Song 5:2). This is the inscription on many images of Our Lady around the city of Rome. Our Lord wants us to have a care for all souls. But in the first place, for our own. And also for the souls of those he has entrusted to us. Our Lord asks for an attentive love. A love capable of realizing that perhaps someone is neglecting his duties towards God, and of then helping him kindly. Or of being aware of another that is sad and isolated from their fellows, so we can pay more attention to them.</p>
+
+<p>With another, it might be that we gently help them to go to confession. Urging more insistently when the opportune moment comes. A vigilant heart is alert to notice when behavior inappropriate to a Christian home has crept in. That programs on the television, say, are watched without previous selection. Or too often that conversations seem rarely to touch on other topics other than banal topics. Or that there’s little evidence of an atmosphere of hard work, or genuine concern for others. The vigilant heart is concerned to give good example. Without losing patience. With prayer, and with more details of affection. Asking St. Joseph’s intercession that we might live with fortitude and constancy, full of charity and human sympathy.</p>
+
+<p>And in the event that someone falls ill, those who are vigilant redouble their compassion, because they’ve learned that the sick are God’s favorites. And the one who is suffering now is the treasure of the house. He is enabled to make an offering of his sickness, to say some prayer, and in so doing suffers as little as possible. Because affection alleviates, or even turns the mind from pain. Or at least moderates it to something less intolerable. We can consider in our prayer today whether the family, or those in our care, do occupy the place in our lives desired by God. And see if our heart is truly watchful over them.</p>
+
+<p>Here, along with our vocation, is a treasure that lasts unto eternal life. Other treasures, which previously seemed important to us, may now fall into perspective and begin to lose their charm. We may find that a lack of rectitude of intention has corroded them. Or that they were counterfeit treasures anyway. Fool’s gold of little value. To live family life properly very often means use of the opportunity to spend time for the benefit of others.</p>
+
+<p>To have time to celebrate family occasions or reunions. Time to talk. To listen. To understand. To pray together. It’s not enough to have a generally benevolent but invisible affection. We need to make it overt and appreciable. And for this we have to make a conscious effort and pray. Deliberately cultivating and exercising the requisite human virtues, and forgetfulness of self in particular. It’s far from being a waste of time to put ourselves the question, for what or for whom do I live? What interests fill my heart? Now, when it seems evident that attacks on the family have multiplied, the best way of defending it is by means of true human affection.</p>
+
+<p>Taking into account with open eyes our own defects and those of others. And making God present in an agreeable way in the home. We can do this by saying grace at meals. By joining in with the smallest children for their night prayers. By reading a few verses of the Gospel with the older ones, and saying a short prayer for the dead, for the Pope, and for the family’s intentions. We shouldn’t forget the rosary. The prayer which Roman Pontiffs have recommended so warmly and so frequently to be recited in the family. Which draws down so many graces. From time to time it will be possible to pray while traveling. Or at some moment which just fits in with the family timetable.</p>
+
+<p>And this need not always be left to the initiative of the mother or the grandmother. Because the father or the older children can make a wonderful contribution in this pleasant task. Many families have kept up the healthy habit of going to Mass together on Sundays. It isn’t at all necessary for the practices of piety in the family to be numerous or lengthy. But it would be unnatural if there were none at all in a home where all or almost all were professed believers. And again, it wouldn’t make much sense if they individually regarded themselves as faithful followers of Christ and the sincerity of their belief found no reflection in their family life. It has been said of parents who pray with their children that it’s easier for them to find the way that leads to their hearts.</p>
+
+<p>And they never forget the help they have gotten from their parents to converse with God. To have recourse to Our Lady in every situation. How many will have reached the gates of heaven thanks to those prayers they learned from their mother’s lips, or their grandmother’s, or their older sister’s. United in this way, with great affection and an unshakable faith, they are better and more effectively able to resist attacks from the external environment. And if at any time sorrow or sickness intervene, they are more easily borne with, and become opportunities for an even greater union and a deeper faith.</p>
+
+<p>A man approached Our Lord, we’re told in St. Luke, and asked him to settle the question of a disputed inheritance. Judging from the reaction of Our Lord, it seemed that this man was more concerned about his financial problem than he was about the preaching of Our Lord. Jesus had been preaching about the kingdom of God. The timing and nature of this petition seemed, to say the least, to be somewhat inopportune. Jesus responds, “Man, who made me a judge or an arbiter over you?” (Luke 12:14).</p>
+
+<p>And Jesus turned to everyone present and said, “Take heed and beware of all covetousness. For a man’s life does not consist in the abundance of his possessions” (Luke 12:15). To underscore his teaching, Our Lord tells them a parable. There was a rich man whose lands yielded an immense harvest. It was such a bumper crop that his barns could not accommodate it. He rashly concluded that his bad times were gone forever. His livelihood was now completely guaranteed. He decided to tear down his old barns and have big new ones thrown up to hold his vast stocks of grain.</p>
+
+<p>Regrettably, that’s where his plans became unstuck. He resolved to eat, drink, and be merry, since life had been so good to him. But the rich man had forgotten one basic fact. The insecurity of our existence on this earth. He had chosen to put his hope in passing things. That’s why it’s very good occasionally that we ask ourselves the question, in what have I put my hope? Where is my heart? What role does my family occupy? This man, it did not cross his mind that everyone is called to a lifelong struggle.</p>
+
+<p>And then God entered by surprise into the life of this prosperous and self-confident landowner. We’re told in Scripture Our Lord said, “Fool, this night your soul is required of you, and the things you have prepared, whose will they be?” (Luke 12:20). Very important question to ask ourselves how we are leading the life that God has planned for us. What occupies my thoughts, my mind, what am I focused on? Do I have that sense of eternity to which I have been called? “So is he who lays up treasure for himself and is not rich towards God” (Luke 12:21).</p>
+
+<p>What a beautiful phrase that the Gospel places before us. To be rich towards God. There are other places where the Gospel uses that word rich. Rich in hope. We have to try and strive for a desire to be rich in the really important things. The spiritual things, the things that last forever. We have to try and build up for ourselves treasures in heaven. The man the Gospel speaks about was foolish because he staked his future on the things of earth. Things which are, by their nature, transient and corruptible. We shouldn’t confuse the legitimate desire to acquire the necessities of life, one’s family, with a mistaken drive to possess as much as one can, no matter what the cost.</p>
+
+<p>Our heart has to be set on heaven. If Our Lord is to be truly our hope, we will be happy with many goods or with few goods. Increased possession is not the ultimate goal of nations nor of individuals. All economic growth is ambivalent. It’s essential if a man is to develop as a man, as a person. But in a way it imprisons man if he considers it the supreme good and restricts his vision. That’s when we see that hearts harden and minds close. And men no longer gather together in friendship, but out of self-interest. Which soon leads to oppositions and disunity. Pope Paul VI said, “The exclusive pursuit of possessions thus becomes an obstacle to individual fulfillment and to man’s true greatness.”</p>
+
+<p>Both for nations and for individual men, avarice is the most evident form of moral underdevelopment. Our hope in God will be extinguished if we give in to a disordered love for possession. Let us try to make a resolution not to fall into this foolish error. There is no greater treasure than to live in Christ. Scripture repeatedly warns us to focus our hearts on God. St. Peter wrote, “Therefore gird up your minds, be sober, set your hope fully upon the grace that is coming to you at the revelation of Jesus Christ” (1 Pet. 1:13). And St. Paul said to Timothy, “As for the rich in this world, charge them not to be haughty, nor to set their hopes on uncertain riches, but on God, who richly furnishes us with everything to enjoy” (1 Tim. 6:17).</p>
+
+<p>St. Paul points out that “the love of money is the root of all evils. It is through this craving that some have wandered away from the faith and pierced their hearts with many pangs” (1 Tim. 6:10). The Church continues to remind us of this truth in our own times. All the faithful are invited and obliged to holiness and the perfection of their own state in life. The Second Vatican Council has said, “Accordingly, let all of them see that they direct their affections rightly. Lest they be hindered in their pursuit of perfect love by use of worldly things, and by an adherence to riches which is contrary to the spirit of evangelical poverty. Following the Apostle’s advice, let those who use this world not fix their abode in it. For the form of this world is passing away.”</p>
+
+<p>Our disordered attachment to the use of material goods may spring from our intention. That’s when we desire things for their own sake, as if they were an ultimate end. Our attachment may also be related to the manner in which we go about acquiring goods. This fault may be evidenced by an attitude of anxiety in our pursuit of wealth. In a disregard for our health. In lack of attention to the education and formation of our children. In our preoccupied absence from family life. Another expression of this problem lies in the way we use things. Whether we use them simply for our personal benefit, whether we give alms or not.</p>
+
+<p>The disordered love for material goods can present a grave obstacle to following Our Lord. Seen in a positive light, the exercise of detachment and right intention serves to prepare the soul for receiving spiritual goods. “If you want to be your masters at all times,” we’re told, “I advise you to make a very real effort to be detached from everything,” said St. Josemaría. “And to do so without fear or hesitation. Then when you go about your various duties, whether personal, family, or otherwise, make honest use of upright human means with a view to serving God, his Church, your family, your profession, your country, and the whole of mankind. Remember that what really matters is not whether you have this or lack that. But whether you are living according to the truth taught by our Christian faith. Which tells us that created goods are only a means, nothing more.”</p>
+
+<p>Do not be beguiled into imagining that they are in any way definitive. If we live with Christ close by our side, we will need few possessions in order to be happy as children of God. If we are not close to Christ, we will find that no accumulation of possessions will ever satisfy us. Our Lord, help our hope to be always in you.</p>
+
+<p>There’s a story told about a man who was doing his military service. He was stationed in a small little town. And one day a brand new second lieutenant showed up at the post to receive his orders. And the commander told him to report to the town of Jaurrieta a little distance away, and almost as an afterthought told him to make his way there on horseback. The new lieutenant was in a bit of a dither because he had never ridden a horse before. All during dinner he was asking about horses and looking for suggestions. And finally someone said to him, listen, all you have to do is to mount the horse with confidence. Don’t let your mount suspect that this is your first time, that you’ve never ridden before. And this is absolutely critical.</p>
+
+<p>Early the next morning the soldier got a horse and he mounted another one with his gear. He climbed onto the horse, but in such a way that the animal knew immediately who was in charge. The horse took off at a trot and the lieutenant was clearly alarmed. The horse eventually stopped whenever it felt like it, began to graze, paying no attention to the officer pulling on its reins. And then again, when the horse felt like it, it broke into a trot along the highway. Sometimes it began to canter. The lieutenant was completely distraught. And then he came upon a team of army engineers laying some electrical cables. And one of the engineers called out, hey, where are you heading for? And the young lieutenant, with an air of resignation, said, who me? I’m going to Jaurrieta. But what I don’t know is where my horse is going.</p>
+
+<p>Well, each one of us could be asked the same question. Hey you, where are you going? And we might have to answer, well, I’m headed for love, for truth. I’m headed for joy. But I don’t know where my life is taking me. It would be wonderful if we could answer the question saying, I’m going to God. Through my work, through my family, through my difficulties, perhaps through my way of ill health. This is where the goods of the earth should be leading us. We have to examine our conscience and see if we may need to change our ways. What a pity it would be if we have converted something that is only a means into an absolute end. Our work, our golf, our sport, our movies, our TV, our alcohol.</p>
+
+<p>We can ask Our Lord to help us to consider in our prayer today whether our work is truly a means of finding God. Of arriving at our desired destination. Does the possession of material things serve to make us better souls? Our Lord teaches us over and over again that the Christian’s hope does not lie in the treasures on earth. Where moth and rust consume, and thieves break in and steal. Christ offers us an incorruptible inheritance. He himself is our hope. Nothing else can fill our heart. In Christ we find the everlasting goods of the spirit. Material things can be a means to the achievement of our human and supernatural end, but they are just a means. Just that. We can’t convert them into ends.</p>
+
+<p>Our Lady, our Mother, will teach us the treasure we have in our calling from Our Lord, and all it implies. In one’s home, in one’s family circle. In the persons God has wanted to involve us with in our life in so many different ways. We have to see there’s a treasure there in that calling. And in the heart of Jesus we will find infinite treasures of love. Mary, may you help us to make our heart like yours and like that of your Son.</p>
+
+<p><em>I thank you my God for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</em></p>
+
+<p><em>EW</em></p>
+
+</article>
+    </main>
+
+    <footer>
+    <div class="footer-content">
+        <div class="footer-social">
+            <a href="https://whatsapp.com/channel/0029Vb2pjJyGufJ2mE4xvv2F" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Channel">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            </a>
+            <a href="mailto:frconor.ebook@gmail.com" aria-label="Email">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z"/><path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z"/></svg>
+            </a>
+        </div>
+        <p>&copy; 2026 FCD</p>
+    </div>
+</footer>
+
+    <!-- Scroll to Top Button -->
+    <button class="scroll-top" id="scroll-top" aria-label="Scroll to top" title="Back to top">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 15 12 9 6 15"></polyline>
+        </svg>
+    </button>
+
+    <!-- Reading List Modal -->
+    <div id="reading-list-modal" class="modal-overlay" aria-hidden="true" role="dialog" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Your Reading History</h2>
+                <button id="modal-close" class="modal-close" aria-label="Close modal">&times;</button>
+            </div>
+            <div id="reading-list-content" class="modal-body">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/meditations/assets/js/search.js?v=1774947634"></script>
+    <script src="/meditations/assets/js/theme-toggle.js"></script>
+    <script src="/meditations/assets/js/text-size-toggle.js"></script>
+    <script src="/meditations/assets/js/scroll-top.js"></script>
+    <script src="/meditations/assets/js/meditation-counter.js"></script>
+</body>
+</html>
