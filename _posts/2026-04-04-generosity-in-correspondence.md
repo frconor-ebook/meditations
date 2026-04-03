@@ -1,14 +1,16 @@
 ---
 layout: homily
-title: "Generosity In Correspondence"
+title: "Generosity in Correspondence"
 ---
 
 
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*"My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me."*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 "Whoever gives to one of these little ones but a cup of cold water to drink because he is a disciple, amen I say to you, he shall not lose his reward" (Matt. 10:42).
 
@@ -102,6 +104,8 @@ Every day Our Lord asks us for that little sacrifice, that little thing in this 
 
 Our Lady was generous with her visit to Elizabeth. She didn't just spend three minutes or three hours or three days, but three months. A model of what our friendship should be, our reaching out to others. Mary, may you help us from contemplating your example, to learn how to be more generous in the little things of each day.
 
-*"I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me."*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *EW*

@@ -6,9 +6,11 @@ title: "Overcoming Human Respect"
 
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My immaculate mother, Saint Joseph, my father and lord, my guardian angel intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 When Jesus began his public ministry, his public life, many of his neighbors and relatives took him for a madman. On his first visit to Nazareth, his relatives deny seeing in him anything supernatural or extraordinary. In their comments, you can see that their envy is only barely concealed. "Where did this man get this wisdom and these mighty works? Is this not the son of the carpenter?" (Matt. 13:54--55). And they took offense at him. Right from the start, Our Lord faced a steady stream of insults and abuse, born of cowardice and egoism. Because people claimed the word without human respects.
 
@@ -98,6 +100,8 @@ Our apostolate, St. Josemaría says, should have its roots in the Mass, and shou
 
 There is not a single soul in whom Christ is not interested. Each soul has cost him the price of his blood. If we truly imitate Our Lord's example, we can never be indifferent towards any soul. Let us ask Our Lady that we might put away all types of human respect, that we might have the supernatural fortitude to do the things that God wants us to do, to say the things he wants us to say, to take a stand in certain situations. So that we can be truly leaders whom God has placed in our specific place to carry out our Christian vocation.
 
-*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My immaculate mother, Saint Joseph, my father and lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *EW*

@@ -6,9 +6,11 @@ title: "Guarding Our Sight"
 
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here. That you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My immaculate mother, St. Joseph, my father and lord, my guardian angel, intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 They came to Bethsaida and some people brought to him a blind man whom they begged him to touch. He took the blind man by the hand and led him outside the village. Then putting spittle on his eyes and laying his hands on him, he asked, can you see anything?
 
@@ -86,6 +88,8 @@ Followers of Christ have to try and give such entertainments a wide berth. They 
 
 St. Joseph was faithful to his vocation as guardian and protector of Jesus and Mary. He loved them with the purest of loves. Let us ask St. Joseph to help us to have the fortitude to go on using the means that will enable us to contemplate God with a clear and penetrating gaze, that we should love our fellow creatures with a deep and clean love according to the particular vocation that we have received. Mary, Queen of Purity, pray for us.
 
-*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My immaculate mother, St. Joseph, my father and lord, my guardian angel, intercede for me.*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *EW*

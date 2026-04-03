@@ -6,11 +6,11 @@ title: "The Depths of Simplicity"
 
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit, Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*My Lord and my God, I firmly believe that you are here. That you see me, and that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My immaculate mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 The world has one supreme test for character, and that is the possession of a virtue in a high and eminent degree. Many generals, for example, in our natural national history, are ranked as men of great character because of their valor, and many scientists are ranked as men of great character because of their wisdom. Some are judged noble because of their love of peace, others because of their bravery in war, some because of their majesty, and others because of their gentleness. Some because of their wisdom, others because of their simplicity. But this is not the real way to judge character.
 
@@ -72,6 +72,8 @@ Such is the character of Christ. A God and a child. Oh will our world ever learn
 
 It is easy to be one or the other. But it is difficult to be both. Just as it is easy to have nothing, and easy to possess everything, but it is difficult to live having nothing and yet possessing everything. That's why it's easy to be anything but a good Christian. It's hard to grow wiser, and yet still be simple enough to want to be taught. And yet that is the condition of entering heaven. No old people enter it, using old in the sense of those full of the conceit of years. Neither do the intelligentsia nor the sophisticated. "Whoever doesn't accept the kingdom of God like a little child shall not enter into it" (Mark 10:15). There are only nurseries there.
 
-*I thank you my God for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My immaculate mother, Saint Joseph, my father and lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit, Amen.*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *EW*
