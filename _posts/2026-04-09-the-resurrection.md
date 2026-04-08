@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Easter Sunday"
+title: "The Resurrection"
 ---
 
 By Fr. Conor Donnelly
@@ -43,7 +43,7 @@ Mary is concerned enough with her sense of loss for the Body of Christ that she 
 
 She goes to the people that might best be concerned, Peter and John. "Peter, therefore, went out, and the other disciple, and they went to the tomb. The two were running together and the other disciple ran on before, faster than Peter, and came first to the tomb" (John 20:3-4). John was younger; he was quicker, lighter of foot.
 
-"And stooping down, he saw the linen cloths lying there, yet he did not enter" (John 20:5). He waited for Peter. John has this little detail of deference to Peter. Peter is the chosen one, the rock, the prince of the apostles; the one whom we always have to follow, be close to, and to obey.
+"And stooping down, he saw the linen cloths lying there, yet he did not enter" (John 20:5). He waited for Peter. John has this little detail of deference to Peter. Peter is the chosen one, the rock, the prince of the apostles; the one whom we always have to follow, be close to, and obey.
 
 "Simon Peter, therefore, came following, and he went into the tomb and saw the linen cloths lying there, and the handkerchief which had been about his head, not lying with the linen cloths, but folded in a place by itself" (John 20:6-7).
 
@@ -57,13 +57,13 @@ That's how Jesus left the tomb, and it's an example that's there for the whole o
 
 We get the impression that up to now, they hadn't really believed. But now, there's a conversion of faith.
 
-"For as yet they did not understand the Scripture, that he must rise from the dead" (John 20:9).
+"For as yet, they did not understand the Scripture, that he must rise from the dead" (John 20:9).
 
 This continuing theme throughout the whole of Holy Week, that Our Lord is performing great and important deeds, but really the apostles are on another planet. They don't know what's happening. They don't grasp the significance of the events.
 
-They don't understand what it is Our Lord is saying to them. Here we have it confirmed for us: "For as yet they did not understand the Scripture, that he must rise from the dead. The disciples, therefore, went away again to their homes" (John 20:9-10).
+They don't understand what it is Our Lord is saying to them. Here we have it confirmed for us: "For as yet, they did not understand the Scripture, that he must rise from the dead. The disciples, therefore, went away again to their home" (John 20:9-10).
 
-It's a funny statement. There's this great event that has taken place, the greatest event in human history. Christ has conquered death. He's conquered the devil. He's conquered suffering and everything. "Then the disciples went away again to their homes."
+It's a funny statement. There's this great event that has taken place, the greatest event in human history. Christ has conquered death. He's conquered the devil. He's conquered suffering and everything. "Then the disciples went away again to their home."
 
 We're almost told that they went back to bed. It's curious that they weren't a little bit more curious or surprised, or they don't hang around there wondering what else is going to happen.
 
@@ -79,7 +79,7 @@ We can learn from this great sinner who learned how to love: to have that great 
 
 Lord, give us that sense of loss so that we might always yearn to get back into the state of grace, to have the Blessed Trinity living in our souls: Father, Son, and Holy Spirit.
 
-"We will come and make our abode in him" (John 14:23). That's what Mary is looking for.
+"We will come and make our abode in Him" (John 14:23). That's what Mary is looking for.
 
 From her actions and her words, we can ask God that we might also have this yearning for the sacrament of Confession and of Holy Communion; to be in a state of grace, and to have Christ living in our souls.
 
@@ -137,7 +137,7 @@ People are not just meant to reach out and touch Him in any old way. This is His
 
 There's a church in Singapore that is called the Church of the Risen Christ. I thought that was a rather beautiful title.
 
-We are followers of the Risen Christ. We don't just believe in any Christ; we believe in the Risen Christ---a Christ who has conquered death, conquered sin, conquered the devil; a Christ who brings us joy, hope, optimism.
+We are followers of the Risen Christ. We don't just believe in any Christ; we believe in the Risen Christ---a Christ who has conquered death, conquered sin, conquered the devil; a Christ who brings us joy, hope, and optimism.
 
 Because we're part of and believe in the Risen Christ, we have a great reason to live and to look to the future with confidence.
 
@@ -153,7 +153,7 @@ That makes Mary Magdalene a very important person in the whole of humanity---sin
 
 Each one of us---we have our special role. We have been chosen from all eternity. We may be great sinners, but God wants us to be great apostles.
 
-"Mary Magdalene came and announced to the disciples, 'I have seen the Lord, and these things he has said to me'" (John 20:18). She fulfills the command. She's no longer weeping. She's now at peace.
+"Mary Magdalene came and announced to the disciples, 'I have seen the Lord, and these things he has said to me'" (Joh 20:18). She fulfills the command. She's no longer weeping. She's now at peace.
 
 Her soul and heart are no longer yearning because that hole has been filled. She has found Christ, and a whole new dimension to her life has begun.
 
@@ -245,11 +245,11 @@ We can have a new joy at beginning again in this after-Easter period, as we real
 
 We may have to be like the prodigal child, who comes back frequently every day, to begin again in joy. "Father, I am not worthy to be called your child. Treat me as one of your hired servants" (Luke 15:19).
 
-Chesterton has liked to say that one of the things that is least talked about on the cross is the joy of Christ on the Cross---that "it is accomplished" (John 19:30). I fulfilled the mission. "I fought the good fight, I finished the race." (2 Tim. 4:7-8).
+Chesterton has liked to say that one of the things that is least talked about on the cross is the joy of Christ on the Cross---that "it is accomplished" (John 19:30). I fulfilled the mission. "I fought the good fight, I finished the race" (2 Timothy 4:7-8).
 
 As we look forward to our life or look back on the things we have achieved, we have great reason to be joyful as well. Joy is one of nature's greatest medicines. It's a gift of the Holy Spirit (Gal. 5:22).
 
-All through this Easter period, we can think of the joy of Our Lady. Joy is always something healthy. Joy means others. "My soul magnifies the Lord, and my spirit rejoices in God my Savior" (Luke 1:46).
+All through this Easter period, you can think of the joy of Our Lady. Joy is always something healthy. Joy means others. "My soul magnifies the Lord, and my spirit rejoices in God my Savior" (Luke 1:46).
 
 We get joy from serving God. The joy of our self-surrender. The joy of the fulfillment of our ordinary duties. Chesterton liked to say that joy and cheerfulness are a highly civilized product (*cf*. G. K. Chesterton, *Orthodoxy*).
 
@@ -263,4 +263,4 @@ As we say the *Regina Caeli* these days, we could try to be reminded of the grea
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*GD*
+*EW*
