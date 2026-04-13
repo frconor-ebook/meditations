@@ -237,7 +237,7 @@ Lord, help us to spend ourselves as you spent yourself, giving ourselves complet
 
 Our Lord says, "I am the bread of life who comes down from heaven. Whoever eats of this bread will live forever" (John 6:51). We have this promise of the Blood of Christ, the promise of eternal life.
 
-John Paul II liked to say, "The Church draws her life from the Eucharist" (Pope John Paul II, Encyclical Letter, *Ecclesia de Eucharistia*, April 17, 2003). She draws her love from the Eucharist. She draws these things from the Blood of Christ.
+John Paul II liked to say, "The Church draws her life from the Eucharist" (Pope John Paul II, Encyclical Letter, *Ecclesia de Eucharistia*, Point 1, April 17, 2003). She draws her love from the Eucharist. She draws these things from the Blood of Christ.
 
 We try to take very good care of that Blood of Christ, every single drop.
 
