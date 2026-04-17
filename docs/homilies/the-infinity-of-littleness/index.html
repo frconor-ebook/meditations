@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- FOUC Prevention: Apply theme and text size before page renders -->
+    <script>
+        (function() {
+            // Apply theme
+            const theme = localStorage.getItem('theme-preference') ||
+                (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', theme);
+            // Apply text size
+            const textSize = localStorage.getItem('text-size-preference');
+            if (textSize === 'large') {
+                document.documentElement.setAttribute('data-text-size', 'large');
+            }
+        })();
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fr. Conor Donnelly Meditations | The Infinity of Littleness</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/meditations/assets/css/style.css">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0BXLC35GR"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-S0BXLC35GR');
+    </script>
+
+
+
+</head>
+<body data-baseurl="/meditations">
+    <header>
+    <nav>
+        <div class="logo">
+            <a href="/meditations/"><img src="/meditations/assets/images/logo-circ.png" alt="Fr. Conor Meditations Logo"></a>
+        </div>
+        <div class="nav-links">
+            <a href="/meditations/" >Home</a>
+            <a href="/meditations/team" >Team</a>
+            <a href="/meditations/connect" >Connect</a>
+        </div>
+        <!-- Header Controls (Theme + Text Size) -->
+        <div class="header-controls">
+            <!-- Theme Toggle Button -->
+            <button
+                class="theme-toggle"
+                id="theme-toggle"
+                aria-label="Toggle dark mode"
+                title="Toggle dark mode">
+                <svg id="theme-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <!-- Sun icon (shown in dark mode) -->
+                    <path class="sun" d="M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12zM11 1h2v3h-2V1zm0 19h2v3h-2v-3zM3.515 4.929l1.414-1.414L7.05 5.636 5.636 7.05 3.515 4.93zM16.95 18.364l1.414-1.414 2.121 2.121-1.414 1.414-2.121-2.121zm2.121-14.85l1.414 1.415-2.121 2.121-1.414-1.414 2.121-2.121zM5.636 16.95l1.414 1.414-2.121 2.121-1.414-1.414 2.121-2.121zM23 11v2h-3v-2h3zM4 11v2H1v-2h3z"/>
+                    <!-- Moon icon (shown in light mode) -->
+                    <path class="moon" d="M17.293 13.293A8 8 0 0 1 6.707 2.707a8.001 8.001 0 1 0 10.586 10.586z"/>
+                </svg>
+            </button>
+            <!-- Text Size Toggle Buttons -->
+            <div class="text-size-toggle" role="group" aria-label="Text size controls">
+                <button id="text-size-normal" class="active" aria-label="Normal text size" title="Normal text size">A</button>
+                <button id="text-size-large" aria-label="Large text size" title="Large text size">A+</button>
+            </div>
+            <!-- Meditation Counter Badge -->
+            <button id="counter-badge" class="counter-badge" aria-label="View reading history" title="View reading history">
+                <span id="counter-number">0</span> read
+            </button>
+        </div>
+    </nav>
+</header>
+
+    <main>
+        <article>
+    <h1>The Infinity of Littleness</h1>
+    <p>By Fr. Conor Donnelly</p>
+
+<p><em>(Proofread)</em></p>
+
+<p><em>In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me.</em></p>
+
+<p>It is a psychological fact that it is only by being little that we ever discover anything big. This law raised to the spiritual level tells us how we can find the immense God, and that is by having the spirit of little children. Verify this law by an appeal to personal experience and then see how it applies to God.</p>
+
+<p>In the physical order, have you ever noticed that to a child everything seems big? His father is bigger than any other man in the world, and his uncle who is standing near the window is taller than the great oaks down in the valley. Every child loves the story of Jack and the Beanstalk because for him, every beanstalk towers up to the very skies. Beanstalks do not scrape the stars, but to a child they do. Because the child is so small that in relation to himself everything is big, even the beanstalk. It’s only when the child grows big that beanstalks become small.</p>
+
+<p>It’s only by being little that we ever discover anything big. Every child loves to play horse with a broomstick. He straddles it, and by some peculiar magic, its one wooden leg changes into four beating hoofs, and its straw into a mane whistling in every wind. Broomsticks are not horses, and their straw is not a mane, but to a child they are, because he is so small that in comparison to himself everything is big. Even his giants that trample down forests like grass are creations of humility. It’s only when he grows to be big, a big man, that the giants die and his fairy tales become nonsense.</p>
+
+<p>It’s only by being little that we ever discover anything big. In many a home, a boy is playing with little tin soldiers, no more than three inches high. He lines them up under the commands of lieutenants, majors, and generals, and sends them off to fight the foe. To him the soldiers are not tin. They are flesh and blood. They are not three inches high, but six feet tall. They are not carrying toy guns, they are firing machine guns. They are not standing still, they are going over the top. He can smell the smoke of battle, hear the bursting shells, feel the breaking shrapnel, and see men falling in death beside him. The very red of the carpet is the blood of the battlefield as the long-range guns turn the poppy fields into hecatombs of blood. It’s a real war, and there will be no peace until it’s over.</p>
+
+<p>When he gets bigger, he will stop playing. And the soldiers will only be broken tin toys as they shrink from six feet to three inches and are gathered into a waste basket and carted away with the boyhood joys which never come back again.</p>
+
+<p>What does it mean to be a child? To be a child is to be something far different from the man of today. It is to have a spirit yet streaming from the waters of baptism. It is to believe in love, to believe in loveliness, to believe in belief. It is to be so little that the elves can reach to whisper in your ears. It is to turn pumpkins into coaches, and mice into horses, lowness into loftiness, and nothingness into everything. For a child has its fairy godmother in its own soul. It is to live in a nutshell and count yourself the king of infinite space.</p>
+
+<p>The universe is his box of toys. He dabbles his fingers in the dayfall. He is gold-dusted by tumbling amidst the stars. He makes brief mischief with the moon. The meteors nuzzle their noses in his hands. He teases the growling and kennelled thunder and laughs at the shaking of its fiery chain. He dances in and out of the gates of heaven. His floor is littered with broken fancies. He runs wild over the fields of ether. He chases the rolling world. He gets between the feet of the horses of the sun. He stands in the lap of Mother Nature and twines her loosened tresses after a hundred willful fashions to see in which way she will look most beautiful.</p>
+
+<p>That is what it means to be a child. That too is why it’s only by being little that we ever discover anything big. There is a close relation between physical littleness, which is childhood, and mental littleness, which is humility. We cannot always be children, but we can always have the vision of children, which is another way of saying we can be humble.</p>
+
+<p>In the spiritual order, the law remains ever the same. If a man is ever to discover anything big, he must always be making himself little. If he magnifies his ego to the infinite, he will discover nothing, for there is nothing bigger than the infinite. But if he reduces his ego to zero, then he will discover everything big, for there is nothing smaller than himself.</p>
+
+<p>How then shall man discover God at Christmas time? How shall he find the reason for the joy behind the joy? Just as it is only by being little that he discovers anything big, so it is only by being humble that he will find an infinite God in the form of a little child.</p>
+
+<p>To grasp this truth, imagine two men entering the cave where the babe is born. One a proud man, the other a humble man. First let the proud man, intoxicated with pride and full of a smattering of knowledge gleaned from some handy Wellsian history of the world, enter the cave of Bethlehem. Do you think he would ever discover the immense God? He is so big that he thinks there is nothing bigger than himself. And so wise that there is nothing wiser than himself. And so self-sufficient that nothing could ever add to his sufficiency.</p>
+
+<p>He is so big mentally that to him everything else is little. To him what is really bigger than the universe is only a babe wrapped in swaddling clothes. And what is really a king is no bigger than the head of an ox. And what is really eternal wisdom is only a speechless organism. He smiles at the credulity of the shepherds who believe in angels, and at the ignorance of the wise men who believe in the providential guiding of a star. He lifts his eyebrows at the virgin mother, vaguely remembering an Egyptian legend about Krishna. He condescends a glance at Joseph, the man of rags, to whom the innkeeper rightly denied entrance.</p>
+
+<p>He thinks of all that science has done to master the earth, and then how foolish it is to think of that babe as a creator. He dwells on relativity, and then on the absurdity of calling a glorified amoeba the Lord of heaven and earth. He recalls how much birth control has done to keep the poor from bringing children into the world, and then how foolish was his mother of that child, who would offer him only a stable and a few straws from a threshing floor. He missed the infinite because he was proud. He missed discovering God because he was too big. Because it’s only by being little that we ever discover anything big, even God.</p>
+
+<p>Let a humble man enter that cave. A man who believes that he does not know everything, a man who is teachable, a man who is simple. He looks at exactly the same spectacle that the proud man looked at. And yet he sees something different. He looks at the roof of the stable and sees the great canopy of stars. He looks at a babe, and sees the one whom not even the heavens or earth could contain. He looks at a manger, and sees that God became man to be our food.</p>
+
+<p>To him, those baby eyes see through hearts and read secrets unto judgment. To him, the swaddling bands which now bind life are those which later on will be broken, for life cannot be held by death. To him, the ruddy lips are those whose kiss gives immortality, and whose articulation carries the message of peace and pardon. To him, the tiny hands are those on which are poised all the nations of the earth as the last grain in the balance.</p>
+
+<p>The date is December 25th, but to this humble man, it is Christmas. The manger is a throne, the straw is royal plumage, the stable is a castle, and the babe is God. He found wisdom because he was foolish. Power because he was weakness. And the infinite, immense, and eternal God because he was little. Because it’s only by being little that we ever discover anything big.</p>
+
+<p>Only the humble man from another point of view realizes he stands in need of help from above. Only the humble man understands the meaning of the incarnation. It will be recalled that the word incarnation derived from the Latin means in the flesh. Sometimes when we wish to emphasize the virtue of an individual, for example, kindness, we say in an exaggerated manner, that person is kindness incarnate. By that we mean that the ideal of kindness has taken on a human form in him or her.</p>
+
+<p>When we speak of the incarnation, we really mean that life, the truth, and the love of the perfect God took on a visible human likeness in the person of Our Lord and Savior Jesus Christ. The faith of the humble man tells him this child is the incarnate word, true God and true man. He is the creator of the human race become man. He needs milk to nourish him, but it is by his hand that the birds of the heavens are fed. He is born of a mother, but he is the one who preexisted his own mother, and therefore he made her beautiful and sinless as we would have done for our own mother if we but had the power.</p>
+
+<p>He lies upon straw on earth and yet sustains the universe and reigns in heaven. He is born in time and yet he existed before all time. Maker of the stars, under the stars. Ruler of the earth, an outcast of earth. Filling the world, lying in a manger. And yet the proud man sees only a babe. But the humble man, illumined by faith, sees two lives in this babe in the unity of the person of God.</p>
+
+<p>Between these two lives of Christ, the divine which he ever possesses by his eternal birth in the bosom of the Father, and the human which he began to possess by his incarnation in the bosom of a virgin, there is neither mingling nor confusion. The divine in him does not absorb the human, the human does not lessen the divine. The union is such that there is but a single person, the divine person, which is the person of the word of God.</p>
+
+<p>There is no human analogy for it. Not even the union of our body and our soul in the unity of our person tells us the depths of the mystery of a God who became a man in order that man might become once more the image of and the likeness of God.</p>
+
+<p>The humble, simple souls who are little enough to see the bigness of God in the littleness of a babe are therefore the only ones who will ever understand the reason of his visitation. He came to this poor earth of ours to carry on an exchange. To say to us, as only the good God could say, you give me your humanity, and I will give you my divinity. You give me your time, and I will give you my eternity. You give me your weary body, and I will give you redemption. You give me your broken heart, and I will give you love. You give me your nothingness, and I will give you my all.</p>
+
+<p>The world which is so bent on power never seems thoroughly to grasp the paradox that as only little children discover the bigness of the universe, so only the humble of heart ever find the greatness of God. The world misses the lesson because it confuses littleness with weakness, childlikeness with childishness, and humility with an inferiority complex. It thinks of power only in terms of physical force, and of wisdom only in terms of the vain knowledge of the spirit of the day.</p>
+
+<p>It forgets that great moral strength may be hidden in physical weakness, as omnipotence was wrapped in swaddling bands, and that great wisdom may be found in simple faith, as the eternal mind was found in the form of a babe. There is strength, strength before which the angels trembled, strength before which the stars prostrated, and strength before which the very throne of Herod shook in fear. It was the strength of that divine and awful love which shrank from nothing to convince us of God’s measure of what is really great and high.</p>
+
+<p>But his law must be our law. We must begin our eternal work as he was pleased to begin his, namely by beginning at the lowest and the humblest, as the starting point for the highest and the mightiest. As he who is God descended even to the lowliness of childhood as the first step to his everlasting triumph, so must we descend from our ignorant pride to the level of what we are in his eyes: “unless you become as little children”—it’s his characteristic word—“you shall not enter the kingdom of heaven” (Matt. 18:3).</p>
+
+<p>To become as little children means nothing more than truthfulness or truthfulness in judgment about ourselves. A recognition of the disproportion between our poor life and the eternal life before us. An acknowledgment of our weakness, our frailty, our sin, the poorness of all we are doing now, and yet the power and wisdom which is to be ours provided we are humble enough to kneel before a babe in a manger of straw and confess him to be Our Lord, our life, and our all.</p>
+
+<p>Thus, the birthday of the God-man is the children’s day, in which age like a crab turns backwards. In which the wrinkles are smoothed by the touch of a recreating hand. In which the proud become children and the big become little, and all find their God.</p>
+
+<p>Hence I speak not in words of learned wisdom, but in the words of a child. We all go stooping into the cave. We put off our worldly wisdom, our pride, our seeming superiority, and we become as little ones before the incalculable mystery of the humiliation of the Son of God. As such, we creep to the knee of the loveliest woman in all the world, the woman who alone of all women wears the red rose of motherhood and the white rose of virginity. The mother who in begetting Our Lord became the mother of men. And we ask her to teach us how to serve God, how to love God, how to pray to God.</p>
+
+<p>We can say to her: lovely lady dressed in blue, teach me how to pray. God was just your little boy, tell me what to say. Did you lift him up sometimes, gently on your knee? Did you sing to him the way mother does to me? Did you hold his hand at night? Did you ever try telling stories of the world? Oh, and did he cry? Do you really think he cares if I tell him things? Little things that happen? And do the angels’ wings make a noise? And can he hear me if I speak low? Does he understand me now? Tell me, for you know. Lovely lady dressed in blue, teach me how to pray. God was just your little boy, and you know the way.</p>
+
+<p>Then when we have asked Our Lady how to pray, we can go to Jesus. And if we have not lost anything of that littleness by which we discover the secrets of the infinite, we can ask him one of the most important questions in all the world. We will not ask him how the atoms behave, nor if space is curved, nor if light is a wave, but we will ask him how it feels for the God of heaven to live as a child on this poor earth of ours.</p>
+
+<p>Little Jesus, wast thou shy once, and just so small as I? And what did it feel like to be out of heaven and just like me? I should think that I would cry for my house all made of sky. And at waking ‘twould distress me, not an angel there to dress me. Have you ever had any toys, like us little girls and boys? And did you play in heaven with all the angels that were not too tall? With stars for marbles? Did the things play can you see me through their wings? And did your mother let you spoil your robes with playing on our soil? How nice to have them always new in heaven because it was quite clean blue. And did your mother at the night kiss you and fold the clothes in right? And did you feel quite good in bed, kissed and sweet, and your prayers said? You cannot have forgotten all that it feels like to be small. So take me by the hand and walk, and listen to my baby talk. To your father show my prayer. He will look, you are so fair. And say, O Father, I your Son, bring the prayer of a little one. And he will smile, that children’s tongue has not changed since you were young.</p>
+
+<p>If we are little enough to do these things about a crib, where there clashed and thundered unthinkable wings around an incredible star, then we shall discover the infinite. If we are humble enough to go to one who has no home, then we shall find our home. If we are simple enough to become children by being reborn in our old age, then we shall discover the life that abides when time shall be no more.</p>
+
+<p>To some he comes when their hearts are empty of the world. To others he comes when joy possesses them as truly as an embrace. To others he comes when the world on which they leaned as a staff has pierced their hands. To others he comes only when tears stream their cheeks, that he might wipe them away. But to each and everyone he comes in his own sweet way. He, Christ, I, Christ’s mass, on Christmas morn.</p>
+
+<p><em>I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</em></p>
+
+<p><em>EW</em></p>
+
+</article>
+    </main>
+
+    <footer>
+    <div class="footer-content">
+        <div class="footer-social">
+            <a href="https://whatsapp.com/channel/0029Vb2pjJyGufJ2mE4xvv2F" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Channel">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            </a>
+            <a href="mailto:frconor.ebook@gmail.com" aria-label="Email">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z"/><path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z"/></svg>
+            </a>
+        </div>
+        <p>&copy; 2026 FCD</p>
+    </div>
+</footer>
+
+    <!-- Scroll to Top Button -->
+    <button class="scroll-top" id="scroll-top" aria-label="Scroll to top" title="Back to top">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 15 12 9 6 15"></polyline>
+        </svg>
+    </button>
+
+    <!-- Reading List Modal -->
+    <div id="reading-list-modal" class="modal-overlay" aria-hidden="true" role="dialog" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Your Reading History</h2>
+                <button id="modal-close" class="modal-close" aria-label="Close modal">&times;</button>
+            </div>
+            <div id="reading-list-content" class="modal-body">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/meditations/assets/js/search.js?v=1776416461"></script>
+    <script src="/meditations/assets/js/theme-toggle.js"></script>
+    <script src="/meditations/assets/js/text-size-toggle.js"></script>
+    <script src="/meditations/assets/js/scroll-top.js"></script>
+    <script src="/meditations/assets/js/meditation-counter.js"></script>
+</body>
+</html>
