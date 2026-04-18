@@ -172,6 +172,14 @@ def convert_markdown_to_posts(source_dir, posts_dir, data_dir, force=False):
                 " ", "-"
             )  # Keep word chars, spaces and hyphens
             slug = re.sub(r"[-]+", "-", slug)  # Remove duplicate hyphens
+            slug = slug.strip("-")
+
+            if not slug:
+                print(
+                    f"Skipping {filename}: heading '{title}' produced an empty slug. "
+                    f"Fix the source file's first '#' heading."
+                )
+                continue
 
             post_filename = f"{datetime.now().strftime('%Y-%m-%d')}-{slug}.md"
             print(post_filename)
