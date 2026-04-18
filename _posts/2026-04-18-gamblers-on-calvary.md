@@ -6,8 +6,6 @@ title: "Gamblers On Calvary"
 
 By Fr. Conor Donnelly
 
-*Based on "The Eternal Galilean," Chapter XI, by Fulton J. Sheen (1934)*
-
 (*Proofread*)
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
@@ -120,4 +118,4 @@ There is only one gamble that is true and that is the gamble of Christ who took 
 
 *EW*
 
-
+From *The Eternal Galilean*, Chapter XI, Fulton J. Sheen (1934).
