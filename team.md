@@ -1,6 +1,7 @@
 ---
 layout: page
-title: ""
+title: "Proofreading Team"
+hide_title: true
 permalink: /team/
 ---
 
