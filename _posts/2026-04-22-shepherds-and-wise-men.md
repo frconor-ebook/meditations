@@ -1,0 +1,87 @@
+---
+layout: homily
+title: "Shepherds and Wise Men"
+---
+
+
+By Fr. Conor Donnelly
+
+*(Proofread)*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My immaculate mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+Any mind which thinks about religion at all, asks itself such questions as these. Why do so few souls ever find Christ? Why do the passing fads of the day win so many adherents and the divine savior so few?
+
+Many there are who know Christ as a genial preacher of good fellowship, or as the social reformer of humanitarian leanings. But few there are who ever find him as God among men, the light and the life of the world. Why should such an attitude exist towards one who came to remake a world by remaking a human heart?
+
+The reason is that the minds who seek him are either not simple enough, or they are not learned enough. From the beginning, our Blessed Lord has been found only by two classes, those who know and those who do not know, but never by those who think that they know. Divinity is so profound that it can be grasped only by the extremes of simplicity and wisdom.
+
+There is something in common between the wise and the simple, and that is humility. The wise man is humble because he knows that regardless of how deep he digs, divinity is always deeper. The simple man is humble because he knows divinity is so deep there is no use digging. But that self-wise inquirer, with a sophomoric mind, stuffed with the pride of his little learning, is so convinced of his knowledge that he will not dig because he thinks nothing can be deeper than himself.
+
+As it was in the beginning, so it is now and ever shall be. Our Lord is discovered only by the simple and the learned, but never by the man with one book, never by the mind that thinks that it knows.
+
+Go back to that night when divine light, in order to illumine the darkness of men, tabernacled himself in the world he had made, and you will see that only the simple and the learned found him, namely the shepherds and the wise men. The angels and a star caught up the reflection of that light, as a torch is lighted by a torch, and passed it on to the watchers of sheep and the searchers of skies.
+
+And lo, as the shepherds watched their flocks about the hills of Bethlehem, they were shaken by the light of the angels saying to them, "Fear not, for behold, I bring you good news which will give great joy to the whole nation. For this day a savior, who is the Messiah, the Lord, has been born for you in the city of David" (Luke 2:10--11). And lo, as wise men from beyond the land of Media and Persia searched the heavens, the brilliance of a star, like a tabernacle lamp in the sanctuary of God's creation, beckoned them on to the stable where the star seemed to lose its light in the unearthly brilliance of the light of the world.
+
+Like moths to the flame came the shepherds and wise men, to a throne that was only a stable and a God that was only a babe. And as God in the form of a babe looked up from his crib, he saw the types of the only two classes of people who found him that night, and who will find him unto the end: the shepherds and the wise men, the simple and the learned.
+
+The shepherds were the simple souls who knew nothing of the politics of the world, nothing of its art, nothing of its literature. Not one of them could recite a single line of Virgil, though there was hardly an educated person in the Roman Empire who was ignorant of his poetry. Into their fields and simple lives, there never came a rumor of the scandals of Herod's voluptuous court, nor even a word about the learned Gamaliel, who sat in the temple counting out the 70 weeks of years. The great broad world of public opinion ignored them as of no account in the progress of men and of nations.
+
+And yet these simple shepherds, whose early kings were shepherds, did know two very important things: the God above their heads and the sheep about their feet. But that was enough for simple souls to know. And on that night when the heavens were so bright they burst to reveal their radiant ministries, an angel announced that he for whom they yearned with breathless expectancy was now born among common people in a common stable, in the common little town of Bethlehem. And gathering one of the things they knew, a little lamb, they brought it and laid it at the feet of the only other thing they knew: the God of the heavens who came to earth as the lamb slain from the beginning of the world. At last, the shepherds had found their shepherd.
+
+The other class who found him were wise men, not kings, but teachers of kings, not mere dilettantes in knowledge, but searchers of the heavens and discoverers of the stars. In both science and religion, they held first rank in their nations. The kings consulted them before they went to war and the peasants before they tilled their land.
+
+One night, a new star appeared in the heavens. Thousands of others besides the wise men saw its brilliant light, but these thousands were not wise with the wisdom of the wise men. They were wise only in their conceit. They saw only a star. But these first scientists of the Christian age saw a star and envisaged a God. To the proud man, a star is only a star. But to the wise man, the star is a handiwork of God, a tell-tale and a revelation of something beyond.
+
+They followed the light of the star. But instead of leading them over the mountains beyond the sun and the shining chandeliers of the Pleiades to the hidden battlements of heaven, it rather led them along the sandy courses of earth, to the end of the trail of the golden star, where the wise men, bent on the voyage of discovery, made the great discovery of God.
+
+These wise, learned, and mighty men, kneeling in pontifical robes upon a bedding of straw, before a babe who could neither ask nor answer questions, offered their gifts and themselves as pledges of the obedience of the world. Their gifts were three: gold, frankincense, and myrrh. Gold because he would rule as a king. Frankincense because he would live as a priest. And myrrh because he would die like a man. At last the wise men had discovered wisdom.
+
+Only the shepherds and the wise men found Christ, but think of the thousands who did not. The world in those days as in our own, was full of a worldly wise, but none of them discovered God. There was many an agnostic in Rome, telling a young pilot that there is no such thing as truth. There was many a sophist in the marketplace of Athens, teaching that man could dispense with the gods. There were vain poets glorifying license under the name of liberty and injustice in the name of progress. But to none of these souls did there come the vision of an angel or the light of a star.
+
+And why? Because the treasures of wisdom and knowledge, of healing, grace, and salvation, are reserved only for the extremes in the intellectual order as well as in the moral. When God was a babe, only the intellectual extremes of simplicity and wisdom found their way to the crib. When God was a man, only the moral extremes of sinfulness and innocence found their way to his feet.
+
+The innocent, like John, came to him because they did not need to be cleansed. The sinners like Magdalen came to him because they felt the need of being cleansed. But that middle group of Pharisees who reprimanded his apostles because they did not wash their hands before eating, hypocrites who were like whitened sepulchres, outside clean but inside full of dead men's bones, the self-righteous who were half-depraved and half-intact, who were never hot with love nor cold with hate, these never knelt before the uplifted hand of the Sacred Heart. They are the very kind that scripture says shall be vomited from the very mouth of God.
+
+As the arches of the centuries mark the pathway of history, the crib became the church which our blessed Lord grounded upon Peter. The remarkable thing is that the same two classes of people who found their way to the crib find their way to the church. Only the heirs of the shepherds and the descendants of the wise men ever enter its sacred portals. This is just another way of saying that the church has room only for two extremes, those who think and those who do not think. But it has no room for those who think that they think.
+
+The church is found first by the simple, or those who do not think. That great mass of men and women whose ignorance is more illuminant than the doctrines of learned men. Simple souls who because of their ordinary routine labors, like shepherds on Judean hills, have no time for learned study, or who, if they do have time, prefer like those same shepherds to be instructed by the angels or the ambassadors of God.
+
+By this great army which does not think, there is the authority of the church, which they accept with the same loving obedience with which a child accepts the dictates of its parents. They do not want to know why the church calls the eternal birth of the second person of the Trinity a generation and the procession of the third person a spiration. They do not want to know how the accidents of bread and wine can exist without the substance of bread and wine, anymore than a child wants to know the details of the city government under which its parents vote. They want only to know what the church teaches. That is enough. They want only to know what the vicar of Christ says. This satisfies them.
+
+The world calls them foolish and says the church is filled with the ignorant. Yes, the church is filled with millions of simple souls who obey authority for no other reason than because it is authority. But that does not mean they are fools. It only means that the church, like the cave in Bethlehem, is filled with simple shepherds.
+
+But the church takes care not only of those who do not think, but also of those who do think. And by those who think, I mean the profound and the real seekers after truth. From the days of the learned Paul down to our own, the church has had to take care of the learned, the profound, and the wise men. There have been those who wanted to know not only the authority of the church, but the reason behind authority. Not only that the church is infallible, but why the church is infallible. Not only that there are three persons in the Blessed Trinity, but why there are not four. The church has to take care of them, as the crib was to husband the Magi.
+
+And to those minds who would drink deep in the Pierian spring, who would take soundings of the infinite, and would search with their landscape of faith those unexplored regions of thought which the eye of reason cannot attain, the church threw open the deep wells of philosophy and theology, in comparison to which what are our higher mathematics and astral physics but the shallow streams of the prairies and the playthings of the human mind?
+
+The world says that such learning of the church is vain, that its theology is not profound. Indeed, that it is foolish. But that does not mean it is foolish. It only means that the church, like the cave of Bethlehem, is filled by wise men who are vain enough to follow a star until it led to God.
+
+But between the extremes of the simple souls who live by faith and who are content to be children all their spiritual lives, and the learned souls like Augustine and Aquinas, whose torches of wisdom lit at the foot of the crucifix, continue to illumine a darkened world, between these extremes there is no mean.
+
+The simple shepherds heard the voice of an angel and found their lamb. The wise men saw the light of a star and found their light. But Herod the Great, who lived within a dozen miles of the shepherds and was visited by the wise men en route to the crib, never found God, not even in his massacre. All the race of proud Herods from that day to this, who think that they think, have missed God either because they are too complicated to understand the simple reports of the shepherds, or filled with useless learning to grasp the only truth which the wise men bring. They lack that quality which the modern world conspicuously lacks, namely, teachableness, or what the Latins call docility. Therefore, they disdain the idea that God might add to their knowledge by revelation. Some of them to cover up their pride, go so far as to attack the church as something antiquated and behind the times. They really should be denied the privilege of attack and criticism, because they never earned the intellectual right to do so. They do not know anything about the church.
+
+So I repeat what I said in the beginning, that humility, which is common to the simple and the wise, is the condition of discovering wisdom. If our age lacks any quality at all, it is what might be called teachableness, or what the Latins called docility. Minds today rely principally on what they have obtained by their own thought or reading. Some fancy they can find out truth entirely by themselves and disdain the idea that God might add to their knowledge by revelation. Others believe that wisdom is synonymous with a smattering of facts about science, or the book of the month, or the new skull dug up in Peking. Even university education has become so impregnated with the research of useless facts that it forgets research is only a means to an end, which is the discovery of truth.
+
+It is well to remember that Herod is what many of our universities would have called a man of research, for he inquired diligently where the child was to be born. But the wise men understood education far better. They were men of research, too, but they searched the skies. But they were humble enough to know that research was only an instrument. They followed their science of the stars until it brought them to the wisdom who made the stars, Jesus Christ, Our Lord.
+
+Only the teachable find the teacher. Only the docile find the doctor. Only the humble find the exalted. The simple souls, such as the shepherds, find God because they know nothing. The really learned souls, like the wise men, find God because they know that they do not know everything.
+
+And from that day to this, the great mass of converts to the church is made up of simple souls, like the poor old woman who wanted to be a Catholic because she would like to say her beads before Our Lord in the tabernacle, and the really learned souls like Chesterton, Brunn, Belloc, Maritain, who know so much history, philosophy, and literature, that they could not stay away from the church once the grace of God was given them.
+
+That too is why God sends into each age of history the saint conspicuous for the virtue the world needs most. In these days of pride and self-conceit, he raised up a little flower who, although possessed of the wisdom that saves, was as simple as a child, and who, although living in a day when men judge power by the great things they could raise up on earth, rather judge power by the roses she would let fall from heaven. Through her intercession, hundreds of thousands of converts have been brought to the wisdom of the crib and the strength of the cross.
+
+The extremes of simplicity and learning meet in the church. Through her, the ignorant peasant and the university professor find a common ground. They know what each must believe. Thus the church may be defined as a place where we can stand responsible for another's opinion. The learned know what the simple must believe, and the simple know what the learned must believe, namely that "there is no other name under heaven given to men whereby they may be saved" (Acts 4:12), than the name of the babe in the crib.
+
+But the Herods of the world never find the church as they never find Christ, not even in their attempt to slaughter it. And the reason is that men never feel a tug towards the church until they have ceased to pull against it. They must treat it with an open mind, even when they fear that it may be right. But that is just another way again of saying we must be humble.
+
+Our Lord was not born under an open sky, under which men might walk erect, but in a cave, the entrance to which can be gained only by stooping. The stoop is the stoop of humility. Some minds are too proud to stoop, and so they miss the joy that is inside the cave.
+
+The shepherds and wise men were humble enough to stoop. And when they stooped, they found they were not in a cave at all, but in another world, where there lived a beautiful woman with a sun above her head, the moon beneath her feet, and in her arms the babe in whose tiny fingers was poised the very earth in which we live.
+
+And as shepherds and wise men knelt in adoration, I wonder whether the wise envied the simple or the simple envied the wise. I believe the wise men envied the shepherds because their way was quicker. They were not so long in discovering the wisdom which is God.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My immaculate mother, Saint Joseph, my father and Lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*EW*
