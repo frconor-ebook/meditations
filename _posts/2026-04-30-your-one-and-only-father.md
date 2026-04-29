@@ -33,19 +33,19 @@ The word *Father* can be used in a meaningful way not only to signify physical p
 
 Whenever we honor our physical parents or our spiritual parents, then we are giving honor and glory to God. Earthly fathers can reflect the divine paternity. So one very good way to live divine filiation is to honor our earthly parents.
 
-St. Paul wrote to the Christians of Galatia with all the tenderness of a father and a mother. He knew the difficulties they were experiencing in their newfound faith. He suffered at his inability to look after those believers who live so far away.
+St. Paul wrote to the Christians of Galatia with all the tenderness of a father and a mother. He knew the difficulties they were experiencing in their newfound faith. He suffered at his inability to look after those believers who lived so far away.
 
 "My little children," he said, "with whom I am again in travail until Christ is formed in you! (Gal. 4:19). He compares them to a child in the mother's womb. He felt a paternal responsibility for his children in need.
 
 The Church teaches us that the people who foster our faith through preaching and Baptism should also be seen as parents. We participate in the spiritual paternity of the many Christians whom we have helped to find Christ. Sometimes that formation entails suffering and fatigue. This paternity increases to the degree of one's generosity.
 
-St. Thomas Aquinas says God manifests his fatherhood to Christians "like a teacher who instructs not only his disciples, but whoever is capable of understanding him" (Thomas Aquinas, *Summa Theologiae*, Part I, Q103, A6).
+St. Thomas Aquinas says God manifests His fatherhood to Christians "like a teacher who instructs not only his disciples, but whoever is capable of understanding him" (Thomas Aquinas, *Summa Theologiae*, Part I, Q103, A6).
 
 This spiritual paternity is an important part of the earthly reward which God grants to those who respond to a divine vocation.
 
-In *The Way*, St. Josemaría says, "He is generous. He returns a hundredfold; and this is true even of children. Many deprive themselves of children for the sake of his glory, and they have thousands of children of their spirit. Children, as we are children of Our Father who is in heaven" (Josemaría Escrivá, *The Way*, Point 779).
+In *The Way*, St. Josemaría says, "He is generous. He returns a hundredfold; and this is true even of children. Many deprive themselves of children for the sake of his glory, and they have thousands of children of their spirit. Children, as we are children of Our Father \[who is\] in heaven" (Josemaría Escrivá, *The Way*, Point 779).
 
-The Second Vatican Council in *Lumen gentium* says the Blessed Virgin exercises her maternity over Christians and over all mankind (*cf*. Vatican II, Dogmatic Constitution, *Lumen gentium*, Point 61).
+The Second Vatican Council in *Lumen gentium* says the Blessed Virgin exercises her maternity over Christians and over all mankind (*cf*. Vatican II, Dogmatic Constitution, *Lumen gentium*, Point 61, November 21, 1964).
 
 Mary will teach us how to have a magnanimous soul, large enough for the many people we want to bring to her Son.
 
@@ -63,7 +63,7 @@ This explains, says St. Paul, his "anxiety for all the churches" (2 Cor. 11:28).
 
 It was also the cause of his greatest suffering: "Who is weak, and I am not weak?" he says. "Who is made to fall, and I am not indignant?" (2 Cor. 11:29).
 
-St. Paul is an exemplary model for every pastor in the Church. The Second Vatican Council called on all pastors to behave "as fathers in Christ. They should take care of the faithful, it says, whom they have begotten by Baptism and their teaching" (Vatican II, *Lumen gentium*, Point 28).
+St. Paul is an exemplary model for every pastor in the Church. The Second Vatican Council called on all pastors to behave "as fathers in Christ. They should take care of the faithful," it says, "whom they have begotten by Baptism and their teaching" (Vatican II, *Lumen gentium*, Point 28).
 
 Our love for those we have brought closer to God is not a mere superficial affection. It is the same love that the incarnate Son has for us. The Son has given it to us so that we might give it to others.
 
@@ -83,7 +83,7 @@ St. Joseph can teach us a great deal about how to look after others. John Paul I
 
 "Those most sensitive to the impulses of divine love have rightly seen in Joseph a brilliant example of the interior life" (John Paul II, Apostolic Letter, *Redemptoris custos*, Point 27, August 15, 1989). We can learn from the Holy Patriarch about how to grow in love for our neighbor.
 
-God never comes to the aid of his sons too late. He will never come too late to rescue us. Even when all seems lost, God will always be there at the right time---although it may be in secret and mysterious ways.
+God never comes to the aid of His sons too late. He will never come too late to rescue us. Even when all seems lost, God will always be there at the right time---although it may be in secret and mysterious ways.
 
 Thus, complete confidence in God, while at the same time using all the human means available, gives the Christian great fortitude and a special feeling of peace when he's up against the most painful events and circumstances.
 
@@ -107,7 +107,7 @@ On another occasion Our Lord taught the people around Him about the love and car
 
 Probably, just as he was talking to them, a flock of sparrows came around pecking about for what they could pick up. Who would bother about a few sparrows? Perhaps the housewives of the village might sometimes buy for them a few pennies to flavor their ordinary meals. This was within reach of the most modest purse. They were of little value.
 
-But Our Lord would indicate them with a gesture, while seeing to his audience: "Not one of these sparrows is forgotten before God." God knows everything. "Not one of these falls to the ground without your Father knowing it" (Luke 12:6, Matt 10:29).
+But Our Lord would indicate them with a gesture, while seeing to His audience: "Not one of these sparrows is forgotten before God." God knows everything. "Not one of these falls to the ground without your Father knowing it" (Luke 12:6, Matt 10:29).
 
 And Our Lord goes on to give us confidence. He says, "Fear not, you are worth more than a host of sparrows" (Matt. 10:31). We are not creatures of the moment, but we are His children forever. How could He not take an interest in our plans?
 
@@ -117,17 +117,17 @@ St. Thomas Aquinas says, "Every man, no matter who he is, is God's friend and sh
 
 St. Josemaría says, "Take your rest in divine filiation. God is a father full of tenderness, of infinite love" (J. Escrivá, *Friends of God*, Point 150). In every aspect of our life, be it human or supernatural, our rest, our security has no firmer foundation than our divine filiation.
 
-"Cast all your anxieties on him." St. Peter says to the first Christians, "for he cares about you" (1 Pet. 5:7).
+"Cast all your anxieties on him," St. Peter says to the first Christians, "for he cares about you" (1 Pet. 5:7).
 
-Divine filiation cannot be considered as something merely metaphorical. It does not mean that God simply treats us as a father and expects us to treat Him as sons. No.
+Divine filiation cannot be considered as something merely metaphorical. It does not mean that God simply treats us as a father and expects us to treat Him as sons. No. Through the indwelling, sanctifying power of God, the Christian is a real son of God.
 
-Through the indwelling, sanctifying power of God, the Christian is a real son of God. This is such a profound reality that it affects man's very being to such an extent that St. Thomas declares that through it, man "is made into a new being" (Aquinas, *Summa Theologiae*, Part I-II, Q110, A2).
+This is such a profound reality that it affects man's very being to such an extent that St. Thomas declares that through it, man "is made into a new being" (Aquinas, *Summa Theologiae*, Part I-II, Q110, A2).
 
 Divine filiation is the foundation for the freedom, security, and happiness of the children of God. In it man finds the protection he needs and the fatherly warmth and certainty in the future, which enables him to abandon himself without worrying about the unknown things that tomorrow may bring.
 
 It gives him the conviction that behind all the hazards of life there always lies a very good reason, because, as St. Paul tells us, "We know that in everything, God works for the good" (Rom. 8:28).
 
-Even our mistakes and our wanderings from the right path always end up well. St. Augustine comments, "God arranges absolutely everything to his own advantage" (Augustine, *De corresp de gracia*, 30:35).
+Even our mistakes and our wanderings from the right path always end up well, for, as St. Augustine comments, "God arranges absolutely everything to his own advantage" (Augustine, *De corresp et gracia*, 30:35).
 
 The realization that one is a son of God produces in all the circumstances of the Christian's life an essentially loving approach to the world, which shows itself mainly in the virtue of faith.
 
@@ -137,7 +137,7 @@ The thought of divine providence helps us to approach God, not as a cold, indiff
 
 The peace of mind which this truth brings about in our way of acting and living does not come from turning our back on reality. Rather, it consists in viewing it optimistically because we always trust in God's help.
 
-St. Cyprian says, "This is the difference between us and those who do not know God: they, in adversity, complain and grumble; we, on the other hand, are not drawn away from virtue by the things that go against us but are strengthened in it" (Cyprian, *De moralitate, 13*)---because we know that "even the hairs of our head are numbered" (Like 12:7).
+St. Cyprian says, "This is the difference between us and those who do not know God: they, in adversity, complain and grumble; we, on the other hand, are not drawn away from virtue by the things that go against us but are strengthened in it" (Cyprian, *De moralitate, 13*)---because we know that "even the hairs of our head are numbered" (Luke 12:7).
 
 We can always be at peace. If we really seek God, everything will be an occasion for improvement.
 
@@ -169,7 +169,7 @@ That doesn't mean that we are insensitive to events, but that we should have mor
 
 We must never forget that to be close to God, even when He appears to be asleep, is to be safe. When we're confused or going through unpleasant times, God does not forget us.
 
-St. Teresa of Avila said, "He never fails his friends" (Teresa of Avila, *Life*).
+St. Teresa of Ávila said, "He never fails his friends" (Teresa of Ávila, *Life*).
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
