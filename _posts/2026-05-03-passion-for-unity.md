@@ -23,7 +23,7 @@ Don Álvaro used to say that one of the greatest miracles that our Father \[St. 
 
 The unity that we hear about is not just a unity to be more effective, which it is, but it\'s much more than that. Unity in any organization is important.
 
-Henry Ford used to say that coming together is one thing, staying together is a second thing, working together is success.
+Henry Ford used to say that "coming together is one thing, staying together is a second thing, working together is success."
 
 In any human organization, no matter what the enterprise is, unity is essential: in any football team, in any volleyball team, in any hockey team, in any organization.
 
@@ -109,7 +109,7 @@ There might come a moment when physically we\'re not able to do very much. Maybe
 
 I may have mentioned before that there\'s a priest who was ordained with me, Don Luis de Moya. You may have heard of him or read his books.
 
-He was going out to say Mass one morning, many years ago. He maybe fell asleep at the wheel or something, the car went up a tree. He went into a coma. He\'s been paralyzed from the neck ever since. He\'s the longest surviving paraplegic, I think, in the world.
+He was going out to say Mass one morning, many years ago (1991). He maybe fell asleep at the wheel or something, the car went up a tree. He went into a coma. He\'s been paralyzed from the neck ever since. He\'s the longest surviving paraplegic, I think, in the world. (He passed on November 9, 2020).
 
 He broke a femur about two weeks ago, and he had an operation on it. His heart stopped during the operation, and he\'s been revived again. All the things that have happened to him are just amazing. For the last thirty or forty years, he\'s been confined to a wheelchair, and has to have everything done for him.
 
@@ -125,7 +125,9 @@ Don Álvaro, at one stage, many decades ago, told him that the favor he was aski
 
 Our effectiveness, wherever we are, should be to work on that unity. What is being said to me in the chat? What\'s being communicated in the circle? What advice am I receiving and the indications for this apostolic activity, for that intention, for that apostolic push or expansion?
 
-We try and have the mind of the Father and of our Father. What do they want for Opus Dei at this particular moment? Vocations, Lord, vocations. They\'re for you, they\'re for your glory. Sanctity, holiness, peace, joy, serenity. Awareness of the treasure of our vocation. A great supernatural optimism in everything we do.
+We try and have the mind of the Father and of our Father. What do they want for Opus Dei at this particular moment? Vocations, Lord, vocations. "They are for you, they are for your glory" (Josemaría Escrivá, *The Way*, Point 804).
+
+Sanctity, holiness, peace, joy, serenity. Awareness of the treasure of our vocation. A great supernatural optimism in everything we do.
 
 "For this reason, it seems very clear that the unity within the Work reflects like an unequivocal manifestation of our unity with God. For this, with a very clear conscience, I\'ve written to you on many occasions, and I repeat it to you now in this moment. If you were not united among yourselves, if you were not united with me, if we were all not united to Our Father in heaven, we would not be united with God."
 
@@ -147,7 +149,7 @@ If somebody happens to be far away, we help them to live that unity, we do it th
 
 St. Augustine says, "The cement of those living stones is charity."
 
-St. Cyprian teaches that "this theological virtue is the bond of fraternity, the foundation of peace, that which gives strength and permanence to our unity. It\'s greater than faith and hope. It remains eternally with you in the kingdom of heaven."
+St. Cyprian teaches that "this theological virtue \[charity\] is the bond of fraternity, the foundation of peace, that which gives strength and permanence to our unity. It\'s greater than faith and hope. It remains eternally with you in the kingdom of heaven" (Cyprian of Carthage, *De bono patientiae*).
 
 Together we achieve an awful lot of things: unity with other people that we work with in apostolic enterprises.
 
@@ -181,7 +183,7 @@ Much more than our great talents, what Our Lord wants is our unity. That might m
 
 "If you abide in me and my words abide in you, you shall ask whatever you will and it should be done for you. In this is my Father glorified" (John 15:7-8).
 
-There was a story of two people who were disabled who were on the street in China someplace. One was blind and the other was lame. There was a big festival taking place, organized by the mayor of the town and everyone was invited.
+There was a story of two people who were disabled who were on the street in China someplace. One was blind and the other was lame. There was a big festival taking place, organized by the mayor of the town, and everyone was invited.
 
 These two were sort of lamenting that they couldn\'t get to the feast because one was blind and didn\'t know how to get there. The other was lame; he couldn\'t walk.
 
@@ -191,17 +193,17 @@ That\'s a little bit what we\'re involved in. In corporate apostolic works, all 
 
 That can give us an enormous joy in our vocation. We\'re achieving wonderful things. We\'re changing society. We\'re evangelizing culture.
 
-A cooperator in the Philippines once said that to me: "You know, I don\'t understand everything about Opus Dei, but I do know that I\'m participating in something wonderful."
+A Cooperator in the Philippines once said that to me: "You know, I don\'t understand everything about Opus Dei, but I do know that I\'m participating in something wonderful."
 
 That was a very beautiful thing to hear, that sense of participation in something wonderful, something that on my own, I couldn\'t come within a mile of even reaching in any sort of way. Now I\'m part of something wonderful.
 
-We all participate, through the Communion of Saints, in all the spiritual treasures of the work, in all the great apostolic works that are taking place in so many countries around the world, changing culture, changing life, supporting families, bringing society forward.
+We all participate, through the Communion of Saints, in all the spiritual treasures of the Work, in all the great apostolic works that are taking place in so many countries around the world, changing culture, changing life, supporting families, bringing society forward.
 
 None of us is insignificant. Nothing we do is insignificant because we contribute with our breathing to the health of the whole.
 
-Our Father likes that point, I think it\'s in *The Way* also, about the little nut and bolt in the whole machine. Because the little nut and bolt is there, the whole thing works (Josemaría Escrivá, *The Way,* Point 830).
+Our Father likes that point, I think it\'s in *The Way* also, about the little nut and bolt in the whole machine. Because the little nut and bolt is there, the whole thing works (J. Escrivá, *The Way,* Point 830).
 
-I used to tell the gardeners in the school in Manila: You know, when you go out and you put the lawnmower all over the grounds, the place looks so well. But if a nut and bolt in that lawnmower is out of place, the lawnmower doesn\'t work. Within two or three weeks, the grass can be two feet high. The place can look awful.
+I used to tell the gardeners in the school in Manila: You know, when you go out and you put the lawnmower all over the grounds, the place looks so well. But if one nut and bolt in that lawnmower is out of place, the lawnmower doesn\'t work. Within two or three weeks, the grass can be two feet high. The place can look awful.
 
 But because that little nut and bolt is there, it does a great job.
 
@@ -209,7 +211,9 @@ Each one of us are little nuts and bolts. You have to do all sorts of little thi
 
 A priest engineer told me in the Philippines how once he was passing through the Catering. The story I was told was that they got a new machine for making hosts. I don\'t know if you have a machine for making hosts, if such a thing exists, but I think that\'s what the thing was.
 
-It was a new machine and the people there weren\'t quite sure how to work it. They couldn\'t get it to work. They tried everything. This priest engineer was passing through and they knew he was good at this and that and the other, so they asked him: would you ever mind having a little look at this machine?
+It was a new machine and the people there weren\'t quite sure how to work it. They couldn\'t get it to work. They tried everything.
+
+This priest engineer was passing through and they knew he was good at this and that and the other, so they asked him: would you ever mind having a little look at this machine?
 
 He got the book of instructions, what they had gone through. Have you done this? Yes. Have you done that? Yes. Have you done this? They went through all the things they had to do. Yes, we\'ve done all those things.
 
