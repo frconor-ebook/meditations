@@ -1,0 +1,193 @@
+---
+layout: homily
+title: "The Way, the Truth, and the Life"
+---
+
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+There's a certain tendency in modern culture to frown upon those who believe that Our Lord is different from other religious leaders and reformers.
+
+It can even be a work of intelligence to rank Him among the founders of religions. So it is not uncommon to hear one who prides himself on his broadmindedness---\[which\] gives offense to no religion, and a defense \[of\] none---to fling out a phrase in which Buddha, Confucius, Lao Tzu, Socrates, and Christ are all mentioned in one and the same breath; as if Our Lord were just another religious teacher instead of religion itself.
+
+Simply because a few resemblances are found between Our Lord and some other religious teachers, it's assumed that they're all alike, that there is nothing Divine about Christ. It's like saying that because most of the pictures in the Louvre Museum in Paris are red, green, white, and blue, that they might all have been painted by the same artist.
+
+We can try to prove that Our Lord is unique in the religious history of the world, and as different from other teachers and reformers as God is different from man.
+
+This can be done, first, by considering three important revelations in His life: at Nazareth, where He said He was the Way; at Jerusalem, where He said He was the Truth; and at Capernaum, where He said He was the Life.
+
+And secondly, by contrasting them with the sayings of all religious teachers whoever they may be.
+
+The first scene is in Nazareth, which is a kind of backwater, a nowhere, a hermitage off the beaten track of life, where seemingly no man would live who loved the world and whose ambition rose above that of a village carpenter or a tiller of the soil.
+
+To that city, which is called "His own city," and which nestles in a cup of hills, Our Lord returned shortly after the opening of His public life. It was only natural that one of the first important declarations would be made to His own \[beloved\] townspeople, where His Sacred Heart had tabernacled Itself for almost thirty years.
+
+It was a Sabbath when He made His way across the town to the synagogue. His reputation had gone before Him, because it was generally known that He had worked a miracle at Cana and that He had gathered certain followers about Him at the Jordan and a few more at Capernaum.
+
+When everyone assembled in the synagogue, the clerk whose duty it was to keep the sacred books drew aside the silk curtain of the painted ark which contained the manuscripts and handed Him the roll of the Prophet Isaiah. Our Lord unrolled the scroll to the well-known sixty-first chapter which foretold the great Day of Mercy when One sent by God would fathom the depths of contrition, break the chains of the slavery of sin, and bring solace to a wounded world.
+
+In slow, clear tones which thrilled the hearts of everyone in the synagogue that memorable Sabbath morning He read, "The Spirit of the Lord is upon me, because he has anointed me: He has sent me to bring glad tidings to the lowly, to heal the brokenhearted, to proclaim liberty to the captives and release to prisoners, to announce a year of favor from the Lord and a day of vindication by Our God" (Luke 4:18-19; Isa. 61:1-2).
+
+He stopped reading and gave the scroll back to the clerk. A moment of silence followed, which seemed like an eternity.
+
+The silence was broken as the Eternal seemed to step out of His eternity and let ring out over that little group of His townsmen the fulfillment of the prophecy of Isaiah: "Today this Scripture has been fulfilled in your hearing" (Luke 4:21).
+
+For the moment they didn't catch the full import of His words. Then it dawned upon them that the most precious tradition and hope of their people was verified; that the Messiah for whom they had yearned for four thousand years was now standing before them; that He was the One to whom Isaiah pointed seven hundred years before to proclaim the acceptable year of the Lord; that all that the kings, prophets, and judges of the past had written about the Nazarene who was to come, that all the heartfelt longing David sung on his lyre, were now fulfilled in their ears on this very day: for He was the one in whom all Scriptures were fulfilled: He was the Expected of the Nations: He was Emmanuel: He was the unique Way of Salvation: He was God with us.
+
+It wasn't just eloquence to which they were listening; it was something more; it was Truth uttering Itself, convincing by its own transparency, conquering them by the brilliance of its light and compelling them in their own heart of hearts to admit that behind it went an authority which compelled many to say, "Never did a man speak like that" (John 7:46).
+
+There was admiration in their minds, resolution in their wills, love in their hearts, and tears in their eyes, as they woke from their trance and began to speak.
+
+When Our Lord sat down, it was like the dropping of a stage curtain which suddenly throws us back to ourselves and away from the drama which but a moment before absorbed our every thought.
+
+Now as they looked at one another, their old tones revived. Instead of thinking of Him as the unique Way of Salvation, they remembered Him as a poor carpenter just around the corner from the synagogue. For the village to submit to such a Man, for the elders to be taught by a carpenter, was not to be endured. "A prophet is without honor in his own country" (Luke 4:24).
+
+On one side were His own words that He was the Way, on the other side was the fact that He was one of their own; and the remark passed from mouth to mouth, "Isn't this Joseph's son?" (Luke 4:22).
+
+A cry rose up and filled the synagogue, a protest against His intolerance, a cry against His narrow-mindedness, a complaint against His assertiveness, and even His blasphemy for saying He was the Way of God.
+
+In their excitement they rushed at Him, hustled Him out of the synagogue and into the street outside. With time, their fury gathered strength. They hurried Him down through the village, past the door in which thirty years before His Mother had received the word of an angel (Luke 1:26-38), round the curve of the valley below the town and up the gentle slope which ends abruptly over the Valley of Esdraelon.
+
+Not only should He be driven through the village, He should be thrown over the precipice beyond and meet the death that He deserved!
+
+They reached the peak of the mountain which drops precipitously like a yawning chasm at the far end of the village. They called to one another to push Him over, but something strange had happened.
+
+Their cries of revolt seemed hollow. They looked at their Victim and no man who ever saw Him ever forgot it to his last hour. As if they were smitten by God, the Nazarenes fled before the Nazarene (Luke 4:28-30).
+
+He left their city and never made His home there again. The wound had gone too deep. But in their eyes He had deserved death because He claimed to be the very Way of God. And indeed He was the Way of God; for the Way of God is to slip from the fingers of men who would dare thrust Him over a rock.
+
+The second scene is in the city of Jerusalem, during the Feast of Tabernacles, which was at one and the same time a harvest festival and a commemoration of the journey of the Hebrews through the desert.
+
+As soon as Jesus appeared, He was sought by the throng, for some were saying, "He's a good man," and others said, "No! He's leading the people astray" (John 7:12).
+
+At any rate the crowd felt they had a right to ask Him for His credentials. With a wonderful leap into the Infinite and Eternal, He declared to them that His doctrine is the very doctrine of God who sent Him and whose Eternal Son He is.
+
+The evening came and found Him seated in the court of the women, which contained the thirteen chests into which the people cast their gifts. In this court, and therefore very close to Him, probably on either side of Him, were two gigantic candelabra, fifty cubits high and sumptuously gilded, on the summit of which lamps were lit which shed their soft light over the Temple.
+
+Around these lamps the people in their joyful enthusiasm, and even the stateliest Pharisees, joined in festal dances, while to the sound of flutes the Levites on the fifteen steps which led to the court chanted the beautiful psalms which were known as the "Songs of Degrees."
+
+As Our Lord sat between these two great lights which illumined the kindly faces of friends and the sinister faces of enemies, they seemed to shine upon Him as on no one else, throwing a beautiful golden aureole around His majestic Head. It was His constant plan to shape the illustrations of His discourses by those external incidents which would fix the words most indelibly in the minds of His hearers.
+
+Just as before He had given the parable of the vineyard as He stood near a vineyard, and the parable of the fishermen as He talked to fishermen at the lake, so now did He declare His mission to the world as He stood in the light of those candles.
+
+In the color of their imagery, in the flaming brilliance of their light, on the very threshold of the Holy of Holies, the Holy of Holies proclaimed that the Light of God had come to the darkness of men. He said, "I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life" (John 8:12).
+
+There was no mistaking His words. He didn't say that He was like a light. He didn't say that He was something like those candles now illumining the darkness; He didn't say that He was the Light of any particular people, but the very Light which is identical with Truth and which illumines every man coming into the world.
+
+To make such a statement He had to know all things. To their memory, in none of the great schools of Jerusalem had He ever attended, nor did He ever sit at the feet of their great Gamaliel.
+
+And so His auditors turned to one another saying: "How does this man know, having never learned?" And when they asked Him, "Who are you?" they were stunned with the declaration that He whose Truth was the Light of the world possessed it from all eternity.
+
+"Jesus said to them, 'I am not of this world. ... If you abide in my word, you are truly disciples of mine, and you will know the truth, and the truth will set you free'" (John 8:23, 31-32).
+
+His hearers, not grasping the great truth that He was the Light of the world, asked: "Are you greater than our father Abraham, who died?"
+
+The response of Our Lord was an affirmation of His Eternity. "Your father Abraham rejoiced to see my day: he saw it and was glad." They therefore said to Him, "You're not fifty years old yet, and you've seen Abraham?"
+
+Jesus said to them, "Amen, amen I say to you, before Abraham came to be, I am" (John 8:56-58).
+
+"I am." Yahweh. It was terrific! This Man of Nazareth now made Himself equal to Light, equal to Truth, equal to God. To be the son of Abraham was to be their Light; to be the Son of God was to be the Light of the world.
+
+It is Our Lord's battle-cry to an erring world, an alarm bell sounding to slaves about to be liberated in the name of the Truth which makes men free.
+
+But just as the midday sun is too strong for weak eyes, so the Light of the world was too brilliant for minds yet accustomed only to the candlelight. And so, in their fury against One who claimed to be the unique Truth of the world, the Light of Life, and the Wisdom unborn in the agelessness of eternity, they picked up stones to throw at Him.
+
+But as their arms drew back for the sling, He had hidden Himself (John 8:59), proving once more that He was the Truth, for Truth always hides from those who seek to kill, and do not search in simplicity and humility of heart.
+
+The third scene took place in the countryside of Capernaum. It was the day after He had fed five thousand who had followed Him into the desert, and from whom He hid, lest they make Him their king. They had sought long for Him, and when at last they had found Him, on the other side of the sea, their first question was, "Rabbi, when did you come here?" (John 6:25).
+
+But Our Lord ignored their question, for that did not really concern them. What did concern them was a proper understanding of the miracle He had worked for them when He gave them bread and fish. He knew they were slow to understand.
+
+He had pointed out to them that the more He did for them, the more they looked upon Him as a material benefactor and would not see the greater spiritual things which were beyond. They were bent on earthly life and kingdoms of this world.
+
+He would now make one last effort to bring them into an understanding of His mission: "Amen, amen, I say to you, you seek me not because you saw signs, but because you ate of the loaves and were satisfied. Do not labor for the food that perishes, but for the food which remains for life eternal which the Son of Man will give you, for God the Father has set his seal on him" (John 6:26--27).
+
+So they said to Him, "Lord, give us this bread always." And Jesus answered, "I am the Bread of Life. Whoever comes to me will not hunger, and whoever believes in me will never thirst. ... I am the living Bread that came down from heaven. Anyone who eats this Bread will live forever, but the Bread that I will give for the life of the world is my flesh. ... Just as the living Father sent me and I live because of the Father, so too, whoever feeds on me will live because of me" (John 6:34-35, 51, 57).
+
+His last words were clear and emphatic. As He had before said that He was the Way and the Light, so now He was saying that He was the Life of the world. To believers and unbelievers alike, it came as a shock. He was now identifying Himself with Life as He had identified Himself with Truth. Impossible or not, He had said it.
+
+The old murmurs broke out again, not this time from the vulgar-minded mob but from His own disciples who were scandalized at His saying that He came down from heaven and that His life was the life of the world.
+
+Some of them murmured: "This teaching is hard; who can accept it?" And then they left and walked with Him no more. They had understood Him \[aright\], otherwise He would not have let him go.
+
+The only ones who remained were those grouped around Peter, to whom Jesus said, "Do you, too, wish to turn back?" Peter, the rock, answered, "Lord, to whom shall we go? You have the words of Eternal Life, and we have believed and come to know that you are the Holy One of God" (John 6:60, 67-69).
+
+That was precisely the point. Since He is God, He is our Life, for what is God but the Life of men? The identification was complete. His Person was Life. He came not to bring us life as a friend brings us bread. He is the Bread which is Life.
+
+And so on the night before He died, He did that which no one else on dying was ever able to do. Others leave their property, their wealth, their titles. But He on dying left His Life; for how can men live without Life which is God?
+
+Since the plant life which sustains animal life does not live on another planet but is near animal life, and since the animal life which sustains human life does not live in another universe but is near that which needs it, so in like manner shall the Divine Life which is the life of the soul be tabernacled among men in the Bread of Life and the Wine which cheers men's hearts (*cf*. Jg. 9:13).
+
+These three scenes and the great lesson in each were repeated the night before He died. Our Lord gave His last discourse to His followers and He was interrupted by Thomas asking: "How can we know the way?" To which Jesus answered, "I am the Way, and the Truth, and the Life" (John 14:5-6).
+
+Now go back to any other moral teacher the world has ever known, and find a similar message. Take any of them, Buddha, Confucius, Lao-tsze, Socrates, Mohammed. It makes no difference which. Not one of them identified himself either with the Way of Salvation, or with Truth, or with Life.
+
+They all said, "I will point out the way." But Our Lord said, "I am the Way."
+
+They all said, "I will tell you how to possess truth or how to discover light." But Our Lord said, "I am the Truth---I am the Light of the world."
+
+They all said, "I will help you attain undying life." But Our Lord said, "I am the Life."
+
+Every reformer, every great thinker, every picture of ethics in the history of the world pointed to an ideal outside himself. Our Lord did not. He pointed to Himself.
+
+Every founder of a world religion asked men to look to their systems, which was apart from their persons. Our Lord did not. He pointed to His person.
+
+Alcibiades, for example, asked Socrates what he should ask of the gods. Socrates told him to "wait for some greater teacher who would tell us how we were to conduct ourselves before God."
+
+Socrates did not say, "Look to me, I am the way." Rather, he said, "Look after me, and beyond me, and outside me." There was a distinction between the master and his system.
+
+What is true of Socrates is equally true of Buddha. In the *Book of the Great Decease*, Ananda tries to obtain from Buddha when his end was near, direction and consolation. Buddha did not say, "Believe in me," or "Live by me," but answered, "Be a lamp unto yourself and a refuge unto yourself." He was practically saying, "I am not the Light. I am not the Truth." It was something outside him.
+
+Confucius, the great reformer of the Orient, repeatedly disclaimed any special excellence in himself. "How dare I," he said, "rank myself with the sage and the man of perfect virtue?" He was practically saying, "The Life is not in me. These ideals are distinct from my historical existence."
+
+Even in the religion of Israel, the Hebrew prophets were moral teachers of their nation, who demanded without compromise obedience to the word spoken by them, but they claimed that their words demanded reverence, not because they were their words, but because they were the words of God. Hence the frequency of the expression in the Hebrew Prophets: "Thus says the Lord."
+
+What is true of the past is true of the present. There is no reformer or preacher today who believes that he is the incarnation of the ideal. At best, most of them would say that they were signposts pointing to a heavenly Jerusalem, but in no case that they were the city itself.
+
+It is in this that Christ differs from all of them. While Socrates was saying, "Wait for another," Christ was saying, "I am here. The Scriptures are fulfilled in your hearing" (Luke 4:21).
+
+While Buddha refused to be a lamp to guide the poor dying Ananda, Christ was saying, "I am the Light of the world."
+
+While Confucius refused to see in himself the personification of his ideal of sinlessness, Christ was saying that He was Life and Resurrection.
+
+While the prophets of Israel pointed beyond themselves, Christ proclaimed Himself as the Expected One of the Nations.
+
+There was, therefore, no ideal outside His historical life. He is the Ideal. There is no system outside His Person. His Person is the system.
+
+There was no way apart from His Way, no truth apart from His Truth, no life apart from His Life. There is nothing outside or beyond Him, for in Him all the scattered ways and truths and lives found their center and source, and to such an extent that He could dare assert that which no one else had ever dared assert: "Apart from me you can do nothing" (John 15:5).
+
+You may buy and sell without me, you may enlarge your farms and construct your dwellings without me, you may build your navies and armies without me, but you cannot take one step towards the Ideal, which is Divine Life, without me, for I am that Life. You cannot even go to the Father without me, "for the Father and I are one (John 10:30).
+
+Our hungry modern world needs to meditate deeply on this oneness of the ideal with the very Person of Christ. Since the middle of the nineteenth century human hearts have been trying to live on system: on Humanitarianism, the Religion of Modernism, the Religion of Science, the Religion of Humanism, the Religion of Beauty, Freudianism, Theosophism, Spiritualism, Idealism---on a thousand and one mixtures of musty rationalism, moldy superstition, worm-eaten necromancy, soured philanthropy, simian symbolism, which have made mysterious mystics out of men for only a passing hour.
+
+But these frozen abstractions cannot satisfy a heart, for a heart cannot live on a system about Truth, or a theory about Love, or a hypothesis about Life. The human heart can only live on love.
+
+There is only one thing a human heart can love---and that is a Person. Make that Person one with the Way to be followed, one with the Truth to be known, one with the Life to be lived, and that Way, that Truth, and that Life will pull at a thousand heartstrings, drawing from them the sweet symphony of love.
+
+Such is the Person of Our Lord, who alone, of all men, combines the Ideal and the Historical in His own Person.
+
+Because He is the ideal there is the romance of love about His Person; because He is a Historical Person there is the truth about that romance.
+
+Everyone else told a romance. Our Lord lived it. Everyone else was as trite as history. The Historical Christ was as romantic as love.
+
+The more deeply we think about the matter, the more we see that if God is good, we should look for His Way, His Truth, and His Life, not merely way, way up there in the heavens, but down here in the dust of our poor lives.
+
+After all, what have all people been hoping for at all times except an Ideal in the flesh? They could \[not\] go on dreaming dreams and painting symbols. The Jews looked forward to the Ideal in the flesh; the Gentiles, knowing not revelation, but by their very idolatry were saying, "Well, if God will not come down to us to be Our Way, Our Truth, Our Life, then we shall make Him come down. We shall make His image in stone, in gold, and in silver."
+
+But the image could not satisfy any more than the systems of our day can satisfy. There was an abyss that only an Incarnation could cover. And so God did come down. He came down as the embodiment of our dreams---the flesh and blood of our hopes---the Romance of Love which is as true and real as history.
+
+That is why He is loved; that is why He is adored; that is why He is God. There is one title dear to all who find in Him the Way, the Truth, and the Life, a title which recognized His divinity, which gives the creature a ready access to the Creator, the sinner an easy approach to the Holy, and our broken hearts an open door to the mending Love of the Divine; and this title which brings the Infinite to the human in most beautiful, loving, and sweet familiarity, is the title of The Sacred Heart.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*EW*
+
+From *The Eternal Galilean*, Chapter V, Fulton J. Sheen (1934).
