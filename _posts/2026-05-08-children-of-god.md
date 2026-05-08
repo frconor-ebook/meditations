@@ -17,7 +17,7 @@ In the Letter of St. John, we read, "See what love the Father has given us, that
 
 And in Psalm 2, we read, "You are my son; today I have begotten you" (Ps. 2:7).
 
-John Paul II commented, "The adverb 'today' speaks of eternity. It is the 'today' of the intimate life of God, the 'today' of eternity, the 'today' of the Most Holy and ineffable Trinity: Father, Son, and Holy Spirit, who is eternal love and eternally consubstantial with the Father and the Son" (John Paul II, *Address*, October 16, 1985).
+John Paul II commented, "The adverb 'today' speaks of eternity. It is the 'today' of the intimate life of God, the 'today' of eternity, the 'today' of the Most Holy and ineffable Trinity: Father, Son, and Holy Spirit, who is eternal love and eternally consubstantial with the Father and the Son" (John Paul II, *General Audience*, October 16, 1985).
 
 St. Thomas Aquinas says that filiation requires an equality of nature (*cf*. Thomas Aquinas, *Summa Theologiae*, Third Part, Q32, A3c). That is why Jesus is the only begotten Son of the Father.
 
@@ -25,11 +25,11 @@ We can say in a broader sense that all creatures, especially spiritual beings, a
 
 And so, Baptism comes to regenerate the soul. There's a new birth with Baptism into the supernatural order that allows us to participate in the divine nature. This supernatural elevation to divine filiation represents an immense improvement on our natural filiation as creatures.
 
-St. John in his Gospel is able to say, "But to all who received him, who believed in his name, he gave power to become children of God, who are born not of blood, nor of the will of the flesh, nor of the will of man, but of God" (John 1:12-13).
+St. John in his Gospel is able to say, "But to all who received him, who believed in his name, he gave power to become children of God, who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God" (John 1:12-13).
 
 St. Athanasius comments, "The son of God became man so that the sons of men, the sons of Adam, might become sons of God. ... He is the Son of God by his nature. We are sons of God by grace" (Athanasius, *De Incarnatione contra Arrianos*).
 
-"This concept of divine filiation holds a key place in the message of Our Lord. The good news is an eloquent testimony to the overwhelming fact of God's love for mankind. 'See what love the Father has given us, that we should be called children of God, and so we are'" (1 John 3:1), says St. John.
+This concept of divine filiation holds a key place in the message of Our Lord. The good news is an eloquent testimony to the overwhelming fact of God's love for mankind. "See what love the Father has given us, that we should be called children of God, and so we are," says St. John (1 John 3:1).
 
 This condition of being children of God fills our earthly existence with joy and hope.
 
@@ -41,7 +41,7 @@ The words spoken by the Father to His only begotten Son can be applied to each o
 
 St. Josemaría in *Christ Is Passing By* comments, "He says to us: 'You are my son.' Not a stranger, not a well-treated servant, not a friend---that would be a lot already. A son! He gives us free access to treat him as sons, with a son's piety and I would even say with the boldness and daring of a son whose Father cannot deny him anything" (Josemaría Escrivá, *Christ Is Passing By*, Point 185).
 
-Our Lord spoke continually about this astonishing reality to His disciples. Sometimes He would deal with the subject directly, as when He taught them to pray the Our Father, to pray to God as a Father (*cf*. Matt. 6:9).
+Our Lord spoke continually about this astonishing reality to His disciples. Sometimes He would deal with the subject directly, as when He taught them to pray the *Our Father*, to pray to God as a Father (*cf*. Matt. 6:9).
 
 And likewise, He showed them that holiness consisted in this filial imitation of the Father (*cf*. Matt. 5:48). Our Lord also communicated this idea through the various parables in which God is represented as a father, like the father in the parable of the prodigal son (Luke 15:11-32).
 
@@ -63,7 +63,7 @@ In the Apostolic Exhortation *Christifideles laici* we're told, "Rising from the
 
 Our sense of divine filiation should be present throughout the course of the day. We can have recourse to it especially in moments of trial.
 
-St. Josemaría comments in *The Way of the Cross*, "It looks as if the whole world is coming down on top of you. Whichever way you turn you find no way out. This time, it is impossible to overcome the difficulties.
+St. Josemaría comments in *The Way of the Cross*, "It looks as if the whole world is coming down on top of \[you\]. Whichever way you turn you find no way out. This time, it is impossible to overcome the difficulties.
 
 "But, have you again forgotten," he says, "that God is your Father? ---all-powerful, infinitely wise, full of mercy. He would never send you anything that is evil. That thing that is worrying you, it's good for you, even though those earthbound eyes of yours may not be able to see it now. *Omnia in bonum*! Lord, once again and always, may your most wise Will be done!" (J. Escrivá, *The Way of the Cross*, Ninth Station).
 
@@ -89,7 +89,7 @@ There was a Dutch Missionary Priest in Singapore who used to like to tell teenag
 
 This Father of ours has ordered everything for our good, even though His plans may not coincide with our plans at this particular moment---when we're stuck in a traffic jam, or we fail an exam, or this deal doesn't work out, or our career path takes a left turn, or we find ourselves with a cold or the flu or maybe some cancer, or some other thing that we hadn't bargained for.
 
-That realization that I'm carried in the palm of a hand of a God who loves me, my Father, can help us to be serene even in times of grave crisis.
+That realization that I'm "carried in the palm of a hand of a God who loves me," my Father, can help us to be serene even in times of grave crisis.
 
 We could ask Our Lord in our prayer at this moment to help us to cast all our anxieties truly on Him. No one could do a better job of watching out for us.
 
@@ -143,7 +143,7 @@ St. Ambrose wrote some strong words which can make an impression on us. He says,
 
 We're told in *Friends of God*, "If we become identified with Mary and imitate her virtues, we will be able to bring Christ to life, through grace, in the souls of many who will in turn become identified with him through the action of the Holy Spirit.
 
-\"If we imitate Mary, we will share in some way in her spiritual motherhood. And all this silently, like Our Lady; without being noticed, almost without words, through the true and genuine witness of our lives as Christians, and the generosity of ceaselessly repeating her *fiat* (or 'let it be done'), which we renew as an intimate link between ourselves and God" (J. Escrivá, *Friends of God*, Point 281).
+"If we imitate Mary, we will share in some way in her spiritual motherhood. And all this silently, like Our Lady; without being noticed, almost without words, through the true and genuine witness of our lives as Christians, and the generosity of ceaselessly repeating her *fiat* (or 'let it be done'), which we renew as an intimate link between ourselves and God" (J. Escrivá, *Friends of God*, Point 281).
 
 Divine filiation is not simply one part of being a Christian among others. In a certain sense, it relates to every aspect of our life of faith.
 
