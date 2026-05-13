@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- FOUC Prevention: Apply theme and text size before page renders -->
+    <script>
+        (function() {
+            // Apply theme
+            const theme = localStorage.getItem('theme-preference') ||
+                (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', theme);
+            // Apply text size
+            const textSize = localStorage.getItem('text-size-preference');
+            if (textSize === 'large') {
+                document.documentElement.setAttribute('data-text-size', 'large');
+            }
+        })();
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fr. Conor Donnelly Meditations | The First Commandment</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/meditations/assets/css/style.css">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0BXLC35GR"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-S0BXLC35GR');
+    </script>
+
+
+
+</head>
+<body data-baseurl="/meditations">
+    <header>
+    <nav>
+        <div class="logo">
+            <a href="/meditations/"><img src="/meditations/assets/images/logo-circ.png" alt="Fr. Conor Meditations Logo"></a>
+        </div>
+        <div class="nav-links">
+            <a href="/meditations/" >Home</a>
+            <a href="/meditations/team" >Team</a>
+            <a href="/meditations/connect" >Connect</a>
+        </div>
+        <!-- Header Controls (Theme + Text Size) -->
+        <div class="header-controls">
+            <!-- Theme Toggle Button -->
+            <button
+                class="theme-toggle"
+                id="theme-toggle"
+                aria-label="Toggle dark mode"
+                title="Toggle dark mode">
+                <svg id="theme-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <!-- Sun icon (shown in dark mode) -->
+                    <path class="sun" d="M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12zM11 1h2v3h-2V1zm0 19h2v3h-2v-3zM3.515 4.929l1.414-1.414L7.05 5.636 5.636 7.05 3.515 4.93zM16.95 18.364l1.414-1.414 2.121 2.121-1.414 1.414-2.121-2.121zm2.121-14.85l1.414 1.415-2.121 2.121-1.414-1.414 2.121-2.121zM5.636 16.95l1.414 1.414-2.121 2.121-1.414-1.414 2.121-2.121zM23 11v2h-3v-2h3zM4 11v2H1v-2h3z"/>
+                    <!-- Moon icon (shown in light mode) -->
+                    <path class="moon" d="M17.293 13.293A8 8 0 0 1 6.707 2.707a8.001 8.001 0 1 0 10.586 10.586z"/>
+                </svg>
+            </button>
+            <!-- Text Size Toggle Buttons -->
+            <div class="text-size-toggle" role="group" aria-label="Text size controls">
+                <button id="text-size-normal" class="active" aria-label="Normal text size" title="Normal text size">A</button>
+                <button id="text-size-large" aria-label="Large text size" title="Large text size">A+</button>
+            </div>
+            <!-- Meditation Counter Badge -->
+            <button id="counter-badge" class="counter-badge" aria-label="View reading history" title="View reading history">
+                <span id="counter-number">0</span> read
+            </button>
+        </div>
+    </nav>
+</header>
+
+    <main>
+        <article>
+    <h1>The First Commandment</h1>
+    <p>By Fr. Conor Donnelly</p>
+
+<p>(<em>Proofread</em>)</p>
+
+<p><em>In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</em></p>
+
+<p><em>My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.</em></p>
+
+<p>One of the scribes who had listened to them debating, appreciated that Jesus had given a good answer, and put a further question to him, “Which is the first of all the commandments?”</p>
+
+<p>Jesus replied, “Listen, Israel, the Lord our God is the one, only Lord. And you must love the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength. The second is this: you must love your neighbor as yourself. There is no commandment greater than these” (Mark 12:29–31).</p>
+
+<p>The scribe said to him, “Well spoken, Master, what you have said is true, that he is one and there is no other.”</p>
+
+<p>This scribe is full of good will. He wants to know which of the precepts of the law is the most important, the essential one. Our Lord confirms what has already been clearly expressed in the Old Testament: “Hear, O Israel, the Lord our God is one, and you shall love the Lord your God with all your heart and with all your soul and with all your mind” (Deut. 6:4–5).</p>
+
+<p>The scribe identifies himself fully with Our Lord’s teaching, and he immediately repeats the words that he had just heard. Our Lord speaks to him affectionately in words that will help him towards his definitive conversion: “You are not far from the kingdom of God” (Mark 12:34).</p>
+
+<p>This commandment, which is a summary of the whole law and the prophets, begins by affirming the existence of one God. It is thus that it has been handed down to us in the Creed: I believe in one God. This is a truth that can be known by the natural light of reason. The chosen people well knew that all pagan gods were false.</p>
+
+<p>In spite of this, idols were a constant temptation to them and a frequent cause of their turning away from the true God, who took them out of the land of Egypt. The prophets felt compelled to remind them of the falseness of those deities, which they learned about as they came into contact with nations whose power and culture were very superior to their own, and which attracted and dazzled them.</p>
+
+<p>It was all a question of richer nations which were materially more advanced, which were immersed in the darkness of superstition, ignorance, and error. There were many occasions on which the chosen people failed to appreciate the incomparable richness of revelation and the treasure of the faith. They abandoned the only fountain of living waters, and turned instead towards broken and cracked cisterns, which neither contained water nor had the capacity to hold any (cf. Jer. 2:13).</p>
+
+<p>The ancient pagans, men who were highly civilized for the age in which they lived, invented idols for themselves and found different ways of adoring them. The Second Vatican Council has said that many civilized men of our day, new pagans, raise up idols which are still better constructed and more sophisticated.</p>
+
+<p>In our day, there seems to be real adoration and idolatry for everything that makes its appearance in the name of progress or that provides yet more material well-being, pleasure, or comfort. It can often seem that man almost completely forgets the fact that he is a spiritual being destined for eternal life.</p>
+
+<p>St. Paul says to the Philippians, “Their god is their belly and their glory is their shame, with mind set on earthly things” (Phil. 3:19). It is the modern idolatry which tempts Christians who no longer give any thought to the immense treasure of their faith and the great richness of the love of God.</p>
+
+<p>We break the first commandment of the Decalogue when we put other things, even good things, before God, because then we love them in a disorderly way. When he does this, man distorts the right order of created things and uses them for an end opposed to or different from that for which they were created.</p>
+
+<p>The first commandment invites us to always put God and our obligations to him in first place: our Sunday Mass. Even if we are traveling, we try to put it earlier or get Mass on Saturday evening; if we have some other major event on a Sunday morning that we are committed to—a meeting, or golf, or excursion or something—we make sure we plan our Mass to get there first. Otherwise, we can end up with a very disordered life.</p>
+
+<p>When the divine order taught by the Decalogue is broken, man no longer finds God in creation, and then he fabricates his own god and radically hides himself within his own selfishness and pride. If God is not there in number one place, other things can take over: football, success, money, entertainment. Still more, man can foolishly try to put himself in God’s place, to set himself up as the source of all that is good and of all that is evil.</p>
+
+<p>In this way, he falls into the temptation with which the devil coaxed our first parents: “You will be like God, knowing good and evil” (Gen. 3:5). When we do not obey the commandments of God, we make ourselves into a god.</p>
+
+<p>Because of this very real temptation, each person needs to ask themselves, as we can now do in our prayer, whether God is truly the first thing in my life, the most important, the highest good, who guides the way I behave and the decisions that I make.</p>
+
+<p>We will be able to see this a bit better if we examine how much effort we put into getting to know him better, because nobody can love what they do not know. Do we keep the time that we’ve set aside for doctrinal or religious formation? Do we live an effective detachment from the things we possess or use so they never become our most important good?</p>
+
+<p>“Thou shalt love the Lord thy God, and him only shalt thou adore” (cf. Matt. 4:10). The effort we make to follow the path that God wants for each one of us, each one’s personal vocation, is the specific way we have of living that love and that adoration.</p>
+
+<p>There are many very powerful reasons that can move us to love God. He made us out of nothing. He himself governs us. He facilitates for us the things necessary for life and sustenance. As well as this, we increase the debt we owe to him by the very fact of our existence, when we were elevated by him to the order of grace and redeemed by him from the power of sin through the passion and death of his only begotten Son, and because of the countless benefits and gifts that we constantly receive from him.</p>
+
+<p>We have been given the dignity of being his children and temples of the Holy Spirit. It would be a tremendous lack of gratitude on our part if we didn’t thank him for all that he has given to us. The psalms say, “What shall I render to the Lord for all his bounty to me?” (Ps. 116:12).</p>
+
+<p>St. Thomas Aquinas points out that it would be as though we were to make of ourselves another god, as the children of Israel did when they left Egypt and made an idol for themselves.</p>
+
+<p>True love—human love, and far more eminently, love for God—always ennobles and enriches man. It makes him a little more like his Creator. The personal history of each man shows how even human dignity and happiness are achieved by following the path of love of God and never by leaving that path.</p>
+
+<p>When the ultimate reason for living is placed in anything other than God, it lays the way open to our falling under the domination of our own passions. It has been truly said that the way to hell is already hell.</p>
+
+<p>The prophet Jeremiah’s words to the people who allowed themselves to be dazzled by the idols of neighboring nations are fulfilled. He said, “You shall serve other gods day and night, for I will show you no favor” (Jer. 16:13).</p>
+
+<p>Ceasing to love God means starting along a path on which one concession leads to another, for whoever offends God does not stop at one sin, but on the contrary, he is driven to consent to others. “Everyone who commits sin is a slave to sin,” says St. John (John 8:34). That is why it’s not at all easy to rise out of it. St. Gregory said, the sin which is not wiped out by penance gives rise to other sins by its own weight.</p>
+
+<p>Love of God leads us to hate sin, to keep away with the help of grace and with our ascetic struggle from any occasion in which there may be an offense against God, and to do penance for the faults and sins of our past life.</p>
+
+<p>We need to frequently make positive acts of love and adoration of God. We need to fill each genuflection, a sign of adoration, before the tabernacle with meaning. We can repeat the words, <em>Adoro te devote</em>—I adore you devoutly—and the words we say in the <em>Gloria</em> during the Mass: We praise you, we bless you, we adore you, we glorify you, we give you thanks.</p>
+
+<p>We are lacking in love of God when we don’t give him due worship, when we don’t pray or when we pray badly; even by the voluntary doubts that we entertain against the faith; in reading books, newspapers, or magazines which go against the faith or morals; by supporting superstitions or doctrines which are both the result of ignorance, however scientifically they are presented, and which are opposed to the faith; when we expose ourselves, our children, or those under our care, to influences which are harmful to faith and morals.</p>
+
+<p>St. John of the Cross says, whenever we fail to put our trust in God, in his power and in his goodness, this is the sign by which the soul can see clearly whether it loves God or not with a pure love. If a person loves God, his heart will not be centered in on himself; he will not be concerned only with achieving his own likes and comforts. He will give himself to seeking the honor and glory of God and to pleasing him. The more a heart keeps for itself, the less it has for God, he says.</p>
+
+<p>We want our heart to be placed in God and in the people and the tasks that we do through him and with him. Our love of God should be expressed not only by giving him the worship which is his due, especially the Mass, but it should embrace every aspect of our life, and it should have many manifestations.</p>
+
+<p>We love God when we do our work well, through faithfully fulfilling our duties towards our family, our work, and society. We love God with our heart and mind, and with our external behavior, which should be proper to a child of God.</p>
+
+<p>This commandment demands, first of all, adoration. We give glory to God, which is not simply one more activity among many others, but rather the ultimate aim of all our actions, even those which can seem most ordinary. St. Paul says to the Corinthians, “Whether you eat or drink, or whatever you do, do all to the glory of God” (1 Cor. 10:31).</p>
+
+<p>This basic attitude of adoration means in practice that we should do everything, or at least want to do everything, in order to please God. That is to say, we should act with a rectitude of intention.</p>
+
+<p>Love for God and true love for one’s neighbor is nourished by prayer and the sacraments, by the constant struggle to overcome our defects, in our effort to keep ourselves in his presence throughout the day.</p>
+
+<p>In a special way, the Blessed Eucharist must be the source at which our love for God is constantly nourished. Then we will be able to say, with the words of the <em>Adoro te devote</em>, “To thee my heart I bow with bended knee.” I adore you, O Lord; my heart submits itself completely to you.</p>
+
+<p>The prophet Habakkuk says, “I will take my stand to watch and station myself on the tower, and look forth to see what he will say to me and what I will answer concerning my complaint” (Hab. 2:1). St. Bernard comments on this: this attitude of watchfulness applies to us all as well, because now is the hour of combat.</p>
+
+<p>We have to be prepared to fight every day, often in little things, because of the many obstacles that can separate us from God. Our determination to be vigilant can become practical in the faithful fulfillment of our norms of piety. Those encounters with the Lord fill us with strength and peace.</p>
+
+<p>We need to be on the lookout for any weakening of our resolve, as a result of fluctuations of mood or mere transient feelings. Our struggle might also be centered on the practice of charity towards others, on the formation of our character, and the effort to be more cordial, to live a constant spirit of service, to be cheerful. We might need to put more effort into doing a better job at work, into being punctual, into keeping up our human, professional, and spiritual formation.</p>
+
+<p>This attitude of vigilance doesn’t guarantee that we will always be victorious. We will inevitably know both victories and defeats, goals we have failed to achieve, resolutions carried out in a half-hearted manner. But many of our defeats will be of relative importance. For those that may be more serious, we can be contrite before the Lord, and he will give us the strength to carry on.</p>
+
+<p>St. John Chrysostom once wrote to someone who had fallen away from the faith. The worst thing, he said, is not that the warrior has fallen in battle. The worst thing would be that he remain down. It is not the end when someone falls wounded in the fray. What is lamentable is when the wounded person does not go to get proper treatment for his wounds.</p>
+
+<p>We shouldn’t forget that our struggle in little things serves to strengthen the soul and enhance its docility to the action of the Holy Spirit. The other side of the coin is that our neglect of little things provides the breach in our defenses where the enemy frequently has us at a disadvantage. We may be neglectful or careless in matters of punctuality, in the quality of our prayer, in remembering the value of little mortifications at meals, in the guarding of our senses.</p>
+
+<p>In <em>Christ Is Passing By</em>, St. Josemaría says we must convince ourselves that the worst enemy of a rock is not a pickaxe or any such implement, no matter how sharp it is. Its worst enemy is the constant flow of water which, drop by drop, enters the crevices until it ruins the rock structure.</p>
+
+<p>The greatest danger for a Christian is to underestimate the importance of fighting skirmishes. The refusal to fight the little battles can little by little leave a person soft, weak, and indifferent, insensitive to the accents of God’s voice. God is very pleased at the sight of a soul that is attentive to his coming, day in and day out.</p>
+
+<p>We are told, “Blessed are those servants whom the master finds awake when he comes. Truly, I say to you, he will gird himself and have them sit at table, and he will come and serve them” (Luke 12:37).</p>
+
+<p>God is ready to do wonderful things for us. It’s worthwhile to be vigilant, to take very good care of the first commandment. Our soul should be filled with hope, listening for the footsteps of the Lord. A heart in love is always alert, like the sentry on guard duty. The soul sunk in lukewarmness, by contrast, is fast asleep.</p>
+
+<p>Lukewarmness can be thought of as a downward sloping plane, leading one further and further away from God. Gradually, the one who is neither hot nor cold becomes interested in the advantages of not overdoing things, about merely avoiding mortal sin, about not overreacting to or making a big issue of venial sin. This attitude of half-hearted struggle can be justified by reasons of naturalness, of expediency, of health, of empathy with others. Human weaknesses assume a subjective necessity.</p>
+
+<p>We can look to the love of God of Our Lady, who responded with urgency. “She went with haste into the hill country” (Luke 1:39). Mary, may you help us always to keep God and the things of God in first place and to give them the same importance to which you gave them.</p>
+
+<p><em>I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My immaculate mother, St. Joseph, my father and lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</em></p>
+
+<p><em>EW</em></p>
+
+</article>
+    </main>
+
+    <footer>
+    <div class="footer-content">
+        <div class="footer-social">
+            <a href="https://whatsapp.com/channel/0029Vb2pjJyGufJ2mE4xvv2F" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Channel">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            </a>
+            <a href="mailto:frconor.ebook@gmail.com" aria-label="Email">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z"/><path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z"/></svg>
+            </a>
+        </div>
+        <p>&copy; 2026 FCD</p>
+    </div>
+</footer>
+
+    <!-- Scroll to Top Button -->
+    <button class="scroll-top" id="scroll-top" aria-label="Scroll to top" title="Back to top">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 15 12 9 6 15"></polyline>
+        </svg>
+    </button>
+
+    <!-- Reading List Modal -->
+    <div id="reading-list-modal" class="modal-overlay" aria-hidden="true" role="dialog" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Your Reading History</h2>
+                <button id="modal-close" class="modal-close" aria-label="Close modal">&times;</button>
+            </div>
+            <div id="reading-list-content" class="modal-body">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/meditations/assets/js/search.js?v=1778641245"></script>
+    <script src="/meditations/assets/js/theme-toggle.js"></script>
+    <script src="/meditations/assets/js/text-size-toggle.js"></script>
+    <script src="/meditations/assets/js/scroll-top.js"></script>
+    <script src="/meditations/assets/js/meditation-counter.js"></script>
+</body>
+</html>
