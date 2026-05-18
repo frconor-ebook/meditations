@@ -92,6 +92,6 @@ Also at the times when our soul is as arid as a desert, our heart seem cold, and
 
 *I thank you my God for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My immaculate mother, St. Joseph, my father and Lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*EW\
+*EW*\
 \
-*From *The Eternal Galilean*, Chapter XIV, Fulton J. Sheen (1934)
+From *The Eternal Galilean*, Chapter XIV, Fulton J. Sheen (1934)
