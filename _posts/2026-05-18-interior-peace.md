@@ -138,11 +138,10 @@ Obedience is also an expression of faith in the goodness of God and his faithful
 
 Detachment is an act of faith in the same way. I can be free and detached while facing everything in this world, because I know that God's love is the essential good that will never fail me. And as for gratitude, it's also an expression of faith in the bounty and the faithfulness of Our Lord.
 
-Thus the greatness of Mary is the greatness of her faith. She was filled with the Spirit because of her faith. And the thing she most desires to communicate to us is precisely the force of her faith. It is by faith that every grace, every gift of the Spirit, every divine blessing comes to us. As St. Paul ceaselessly affirms, faith is the essence of our capacity to receive the free gift of God. And here we see why Jesus insists so much on this point in the gospel. He says in St. Luke, "Where is your faith?" (Luke 8:25).
+Thus, the greatness of Mary is the greatness of her faith. She was filled with the Spirit because of her faith. And the thing she most desires to communicate to us is precisely the force of her faith. It is by faith that every grace, every gift of the Spirit, every divine blessing comes to us. As St. Paul ceaselessly affirms, faith is the essence of our capacity to receive the free gift of God. And here we see why Jesus insists so much on this point in the gospel. He says in St. Luke, "Where is your faith?" (Luke 8:25).
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and Lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*EW\
-*
+*EW*
 
-From *Searching for and Maintaining Peace*, Chapter 2, Jacques Philippe (2002)
+From  *Searching for and Maintaining Peace*, Chapter 2, Jacques Philippe (2002)
