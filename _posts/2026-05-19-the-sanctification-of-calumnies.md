@@ -35,13 +35,13 @@ An "ecumenism of blood" (Pope Francis, *Address*, June 21, 2018; Pope Leo XIV, *
 
 "Persecution can take various forms: the shedding of martyrs' blood, social discrimination and restriction, hateful caricatures of Christian faith in the media, the exclusion of religion from the public square, sneers by teachers and schoolmates aimed at a \[teenager\] who affirms that he or she is a Christian, misunderstandings and conflicts within families when some member or members attempt to live the Christian vocation, and many others.
 
-"Often in Western countries, we see the insidious forms of persecution involving, not open persecution, but the defaming and denying of Christian values. To be sure, we need to avoid having a persecution complex and retreating into a sort of ghetto for protection against the modern world.
+"Often in Western countries, we see...the insidious forms of persecution involving, not open persecution, but the defaming and denying of Christian values. To be sure, we need to avoid having a persecution complex and retreating into a sort of ghetto for protection against the modern world.
 
 "But that said, it's simply a fact that living in conformity with the Gospel values and the teaching of Christ is a challenge today.
 
 "Parents are all too aware of this when they are forced to confront the conflict between the world view and the values they try to transmit to their children and those that are on offer at school and in the media."
 
-Our Lord clearly announced: "But before all this they will lay their hands on you and persecute you, delivering you up to the synagogues and prisons, and you will be brought before kings and governors for my name's sake. This will be a time for you to bear testimony" (Luke 21:12-13).
+Our Lord clearly announced: "Before all this they will lay their hands on you and persecute you, delivering you up to the synagogues and prisons, and you will be brought before kings and governors for my name's sake. This will be a time for you to bear testimony" (Luke 21:12-13).
 
 He said there should be no surprise at this: "A servant is not greater than his master" (John 13:16). We see this form of persecution with people praying silently outside abortion clinics, often accused of hateful thoughts going through their mind with no external foundation in reality.
 
@@ -49,13 +49,13 @@ But Our Lord said, "If they persecuted me, they will persecute you" (John 15:20)
 
 We can have the figure of the just man persecuted because he's faithful to living and announcing the word of God; the people of God in the Old Testament who suffer for being different, as in the Book of Exodus, the Book of Esther, the book of the martyrs of Israel.
 
-There is a characteristic of this persecution: it is hostility that doesn't have its ultimate source in historic, social, political, or other causes, but rather, in hatred of God, an attempt by the devil to destroy God's plan by attacking His children.
+There is "a characteristic of this persecution: it is hostility that doesn't have its ultimate source in historic, social, political, or other causes, but rather, in hatred of God, an attempt by the devil to destroy God's plan by attacking his children.
 
-Quoting the Psalms, Our Lord says, "He who hates me hates my Father also. If I had not done among them the works which no one else did, they would not have sinned. But now they have seen and hated both me and my Father. It is to fulfill the word that is written in their Law: 'They hated me without a cause'" (John 15:23-25).
+"Quoting the Psalms, Our Lord says, 'He who hates me hates my Father also. If I had not done among them the works which no one else did, they would not have sinned. But now they have seen and hated both me and my Father. It is to fulfill the word that is written in their Law: They hated me without a cause' (John 15:23-25).
 
 "The result is not just a record of human misfortunes but the manifestation of a ferocious struggle between the mystery of evil and God's providential plans.
 
-"The devil opposes the election of Israel and the founding of the Church, as he does all other expressions of divine mercy that work to accomplish salvation. Hatred of Israel, like hatred of Christians, has some human explanations, but those fail to account for it. Its deepest roots are in the spiritual realm---in hostility towards God and His creative and redeeming work."
+"The devil opposes the election of Israel and the founding of the Church, as he does all other expressions of divine mercy that work to accomplish salvation. Hatred of Israel, like hatred of Christians, has some human explanations, but those fail to account for it. Its deepest roots are in the spiritual realm---in hostility towards God and his creative and redeeming work."
 
 In some countries, Christian couples are prevented from adopting children because they are Christians.
 
@@ -67,15 +67,13 @@ These accounts refer to one of the first persecutions, and the people turn to tr
 
 "In the Old Testament, the figure of the prophet or the just man who was persecuted, becoming an object of hostility and hatred by all, because he belongs to God and proclaims God's word, finds its deepest expression in the passages of Isaiah that concern the Servant.
 
-"That Servant signifies both a people and an individual, and brings an extraordinary message of hope: the suffering of the just will be the source of holiness for all, including those who so frantically oppose him."
+"This Servant signifies both a people and an individual, and brings an extraordinary message of hope: the suffering of the just will be the source of holiness for all, including those who so frantically oppose him. In the Book of Isaiah, we're told, 'He makes himself an offering for sin. ... He shall bear their iniquities' (*cf*. Isa. 53:10-11).
 
-In the Book of Isaiah, we're told, "He makes himself an offering for sin. ... He shall bear their iniquities (*cf*. Isa. 53:10-11).
-
-The prophet Zechariah says the death of the just opens up a source of grace and conversion. We're told, "On that day, there should be a fountain opened for the house of David and the inhabitants of Jerusalem to cleanse them from sin and uncleanness" (Zech. 13:1).
+"The prophet Zechariah says the death of the just opens up a source of grace and conversion. We're told, 'On that day, there should be a fountain opened for the house of David and the inhabitants of Jerusalem to cleanse them from sin and uncleanness' (Zech. 13:1).
 
 "The suffering of the just, culminating in the cross of Christ, is a scandal, but it is a mysterious part of the history of salvation and God's plan. It is both judgment and salvation, a highlighting of human sin and a source of healing from sin.
 
-"The New Testament tells us that the prospect of persecution, far from being a cause of worry or sadness, should be a source of trust (in the faithfulness and help of God), and even joy (because of the closeness to Christ it fosters and the future reward it helps to bring about)."
+"The New Testament tells us that the prospect of persecution, far from being a cause of worry or sadness, should be a source of trust (in the faithfulness and help of God) and even joy (because of the closeness to Christ it fosters and the future reward it helps to bring about)."
 
 St. James says, "Count it all joy, my brethren, when you meet various trials" (James 1:2).
 
@@ -83,11 +81,11 @@ And St. Peter says, "Beloved, do not be surprised at the fiery ordeal which come
 
 "If you are reproached for the name of Christ, you are blessed, because the Spirit of glory and of God rests upon you. But let none of you suffer as a murderer, or a thief, or a wrongdoer, or a mischief-maker; yet if one suffers as a Christian, let him not be ashamed, but under that name let him glorify God" (1 Pet. 4:12-16).
 
-And how is it that persecution and the acceptance of martyrdom in particular is a grace?
+"But how is it that persecution, and the acceptance of martyrdom in particular, is a grace?
 
-Firstly, because it is something like a fire that purifies. It requires a decision---a radical and definitive rupture with the world of sin---and it enables the one who suffers to enter directly into the holiness of God.
+"Firstly, because it is something like a fire that purifies. It requires a decision---a radical and definitive rupture with the world of sin---and it enables the one who suffers to enter directly into the holiness of God.
 
-St. Peter says, "Since therefore Christ suffered in the flesh, arm yourself with the same thought, for whoever has suffered in the flesh has ceased from sin" (1 Pet. 4:1).
+"St. Peter says, 'Since therefore Christ suffered in the flesh, arm yourself with the same thought, for whoever has suffered in the flesh has ceased from sin' (1 Pet. 4:1).
 
 "In the New Covenant as in the Old, martyrdom is a way of fulfilling the greatest commandment. 'You shall love the Lord your God with all your heart, with all your soul, with all your might' (Deut. 6:5).
 
@@ -95,47 +93,45 @@ St. Peter says, "Since therefore Christ suffered in the flesh, arm yourself with
 
 And so, this is the greatest act of love of God and neighbor that anyone can make: "Greater love has no man than this," we're told in St. John, "that a man lay down his life for his friends" (John 15:13).
 
-This is the ultimate expression of love that we see in Christ: "Having loved his own who were in the world, he loved them to the end" (John 13:1).
+"This is the ultimate expression of love that we see in Christ: 'Having loved his own who were in the world, he loved them to the end' (John 13:1).
 
-"The incarnation and the Passion of Christ show how much God loves us, and the acceptance of martyrdom shows how humankind, through the grace of Christ, are capable of loving God.
+"The incarnation and the Passion of Christ show how much God loves us; and the acceptance of martyrdom shows how humankind, through the grace of Christ, are capable of loving God.
 
 "Around Christmas time, we see there's a striking change in the color of the vestments, from the white of the vestments of Christmas Day, we move to the red of the feast of St. Stephen the following day. Just a day after the joyful feast of the birth of Our Lord that celebrates God becoming one of us out of love, we celebrate the feast of the first martyr.
 
-"God gave himself entirely to us so that we can completely give ourselves to Him. He loves us without measure so that we can love Him without measure, even more than our own lives.
+"God gave himself entirely to us so that we can completely give ourselves to him. He loves us without measure so that we can love him without measure, even more than our own lives.
 
 "Martyrdom is also a supreme act of love of neighbor. The Christian martyr forgives, prays for those who make him or her suffer, and offers his or her life for their salvation."
 
 The Holy Spirit is present in those who suffer for Jesus, giving them strength and manifesting itself in the words of wisdom, the prophecies, and the vision that often accompanied the moment of martyrdom.
 
-The martyr carries love of enemies as far as it can go, as the Gospel urges to be done.
+"The martyr carries love of enemies as far as it can go, as the Gospel urges to be done. But martyrdom is not an expression of personal heroism or greatness. It's a witness to the power of God active within human weakness.
 
-But martyrdom is not an expression of personal heroism or greatness. It's a witness to the power of God active within human weakness.
+"The Preface for the Mass of the martyrs says so. It says: 'For the blood of your blessed martyr...poured out like Christ's to glorify your name, shows forth your marvelous works, by which in our weakness you perfect your power and on the feeble bestow strength to bear you witness, through Christ Our Lord.'
 
-The Preface for the Mass of the martyrs says so. It says: "For the blood of your blessed martyr...poured out like Christ's to glorify your name, shows forth your marvelous works, by which in our weakness you perfect your power and on the feeble bestow strength to bear you witness, through Christ Our Lord."
+"What explains the beauty and the grace of the martyr, the goodness hidden, is the depth of communion with God. This is what led St. Ignatius of Antioch on his way to martyrdom to say in his Letter to the Romans, 'Let me be the food of the animals through which it will be possible for me to find God.'
 
-What explains the beauty and the grace of the martyr, the goodness hidden, is the depth of communion with God. This is what led St. Ignatius of Antioch on his way to martyrdom to say in his Letter to the Romans, "Let me be the food of the animals through which it will be possible for me to find God."
+"To suffer martyrdom makes it certain that one will enter the house of the Father forever: 'There is within me a water that lives and speaks, saying to me inwardly: come to the Father'" (Ignatius, *Epistle to the Romans*).
 
-To suffer martyrdom makes it certain that one will enter the house of the Father forever: "There is within me a water that lives and speaks, saying to me inwardly: come to the Father" (Ignatius, *Epistle to the Romans*).
+We say something similar in the Mass: "through Him, with Him, and in Him..." (*Roman Missal,* Doxology).
 
-We say something similar in the Mass: "through Him, with Him, and in Him..." (*Roman Missal,* Doxology). Each martyrdom reproduces the Passion of Christ.
+"Each martyrdom reproduces the Passion of Christ. St. Felicity, arrested in Carthage in the year \[202\], gave birth to a child in prison just before her martyrdom.
 
-St. Felicity, arrested in Carthage in the year \[202\], gave birth to a child in prison just before her martyrdom.
+"To \[a\] jailer who said to her, 'If you're groaning now, what will you do when you're exposed to the beasts?' she replied, 'I'm the one who suffers now, but then there will be another in me who will suffer for me, because it is for him that I will be suffering.'
 
-To the jailer who said to her, "If you're groaning now, what will you do when you're exposed to the beasts?" she replied, "I'm the one who suffers now, but then there will be another in me who will suffer for me, because it is for him that I will be suffering."
+"Martyrdom is the occasion of our most powerful experience of the Spirit's help. St. Peter said, 'If you are reproached for the name of Christ, you are blessed, because the Spirit of glory and of God rests in you' (1 Pet. 4:14).
 
-Martyrdom is the occasion of our most powerful experience of the Spirit's help. St. Peter said, "If you are reproached for the name of Christ, you are blessed, because the Spirit of glory and of God rests in you" (1 Pet. 4:14).
-
-The stories of the martyrs in the first centuries highlight the charismatic aspect of martyrdom. We're told in the *Acts* about St. Stephen: "He, full of the Holy Spirit, gazed into heaven and saw the glory of God, and Jesus standing at the right hand of God; and he said, 'Behold, I see the heavens opened, and the Son of man standing at the right hand of God'" (Acts 7:55-56).
+"The stories of the martyrs in the first centuries...highlight the charismatic aspect of martyrdom. We're told in the *Acts* about St. Stephen: 'He, full of the Holy Spirit, gazed into heaven and saw the glory of God, and Jesus standing at the right hand of God; and he said, Behold, I see the heavens opened, and the Son of man standing at the right hand of God'" (Acts 7:55-56).
 
 The Beatitudes tell us that we must be ready. Our Lord says, "Watch therefore, for you know neither the day nor the hour" (Matt. 25:13).
 
 "Watch and pray that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak" (Matt. 26:41).
 
-Given the modern means of persecution, there's no truly safe place. We might be called on to die for the faith at any time or any place.
+"Given the modern means of persecution, there's no truly safe place. We might be called on to die for the faith at any time or any place."
 
 But most of us are called to live for the faith, put up with persecution in different ways, in the ordinary circumstances where we live.
 
-This doesn't mean that we should live in constant fear. We're told in Scripture. "The Holy Spirit will be given to us when the time comes to say what needs to be said" (*cf*. Luke 12:12). But what we need to do is faithfully live our Christian vocation, persevere in prayer, and remain in union with Christ above all.
+"This doesn't mean that we should live in constant fear. We're told in Scripture. 'The Holy Spirit will be given to us when the time comes to say what needs to be said' (*cf*. Luke 12:12). But what we need to do is faithfully live our Christian vocation, persevere in prayer, and remain in union with Christ above all."
 
 There was a story of a university student in Brazil who in a class one day heard a teacher saying something that was not quite the teaching of the Church, a little bit off, a little bit negative.
 
@@ -175,7 +171,7 @@ Most of us never got our head chopped off for Christ. If on some occasion in our
 
 St. Paul tells Timothy, "Take your share of suffering as a good soldier of Christ Jesus" (2 Tim. 2:3).
 
-Everyone who does so is aware that many difficulties can plague any attempt to announce the word of God. There can be material problems, there can be interior anguish and fatigue, there can be temptations of all sorts. There can be a spiritual cost.
+"Everyone who does so is aware that many difficulties can plague any attempt to announce the word of God. There can be material problems, there can be interior anguish and fatigue, there can be temptations of all sorts. There can be a spiritual cost.
 
 "Without seeing spiritual welfare everywhere, it's a fact that something besides human causes are at work in the vicissitudes of life in the service of Christ."
 
@@ -195,48 +191,38 @@ St. Paul says, "Be strong in the Lord and in the strength of his might. Put on t
 
 "Therefore, take the whole armor of God, that you may be able to withstand in the evil day, and having done all, to stand" (Eph. 6:10-13).
 
-We shouldn't be frightened or see the devil's hand in everything. That would be giving him too much credit, to think that he's everywhere.
+"We shouldn't be frightened or see the devil's hand in everything. That would be giving him too much credit," to think that he's everywhere.
 
-But at the same time, we should be realistic about the war that the Church is fighting, and trust God's promises with absolute confidence.
-
-St. Paul told Titus that the heart of the combat is "the good fight of the faith" (1 Tim. 6:12).
+"But at the same time, we should be realistic about the war that the Church is fighting, and trust God's promises with absolute confidence. St. Paul told Titus that the heart of the combat is 'the good fight of the faith'" (1 Tim. 6:12).
 
 St. \[Thérèse\] in her prayer used to say, "I want to love you like a little child. I want to fight like a brave warrior" (Thérèse of Lisieux, *Poetry*). The two are not incompatible.
 
 Part and parcel of all of this of our struggle is that sometimes we're going to be treated unfairly. People may say untrue things. There may be all sorts of calumnies.
 
-While we need to resist all forms of injustice and we're entitled to claim and defend our rights---St. Paul did so---we shouldn't expect to be always treated as we would deserve to be treated.
+"While we need to resist all forms of injustice and we're entitled to claim and defend our rights---St. Paul did so---we shouldn't expect to be always treated as we would deserve to be treated. St. Peter told Christian slaves that they had to bear patiently with injustice, in love and imitation of Christ; that this was sometimes part of their vocation.
 
-St. Peter told Christian slaves that they had to bear patiently with injustice, in love and imitation of Christ; that this was sometimes part of their vocation.
+"He said, 'For one is approved if, mindful of God, he endures pain while suffering unjustly. For what credit is it, if when you do wrong and are beaten for it you take it patiently? But if when you do right and suffer for it you take it patiently, you have God's approval. For to this you have been called, because Christ also suffered for you, leaving you an example, that you should follow in his steps.'
 
-He said, "For one is approved if, mindful of God, he endures pain while suffering unjustly. For what credit is it, if when you do wrong and are beaten for it you take it patiently?
+"'When he was reviled, he did not revile in return; when he suffered, he did not threaten; but he trusted in him who judges justly. He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness.
 
-"But if when you do right and suffer for it you take it patiently, you have God's approval. For to this you have been called, because Christ also suffered for you, leaving you an example, that you should follow in his steps.
+"'By his wounds you have been healed. For you were straying like sheep, but have now returned to the Shepherd and Guardian of your souls'" (1 Pet. 19-25).
 
-"When he was reviled, he did not revile in return; when he suffered, he did not threaten; but he trusted in him who judges justly. He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness.
+"Sometimes we should defend ourselves. It may be necessary and obligatory to do so. Sometimes we have to submit to injustice out of love for Christ.
 
-"By his wounds you have been healed. For you were straying like sheep, but have now returned to the Shepherd and Guardian of your souls" (1 Pet. 19-25).
+"If we were always to be demanded that we would be treated with perfect justice, we might end up by being unjust towards others. It's better to submit to evil than to commit it."
 
-Sometimes we should defend ourselves. It may be necessary and obligatory to do so. Sometimes we have to submit to injustice out of love for Christ.
+Our great consolation can always be in Our Lady, entrusting ourselves to her. "She is our most powerful and effective help in the spiritual combat. Her heart is a haven of peace and hope for all who take refuge in her. Her intercession is powerful before God. Her presence and support are of immense assistance to us in the struggles and temptations that we face. Her maternal tenderness is a sweet consolation in our trials. Her faith, her humility, and the purity of her love make her unassailable."
 
-If we were always to be demanded that we would be treated with perfect justice, we might end up by being unjust towards others. It's better to submit to evil than to commit it.
+"Our Lady lived each of the Beatitudes perfectly, and she helps us understand and practice them effectively. ... If we give ourselves entirely to her, she will give herself entirely to us and share with us the riches that she has received from God.
 
-Our great consolation can always be in Our Lady, entrusting ourselves to her. She is our most powerful and effective help in the spiritual combat.
+"Through her, we'll become poor in heart, humble and meek; in her arms we'll be consoled, she will make us hungry and thirsty for God. She'll make us good and merciful. She will share with us the purity of her heart. She will establish us in a profound peace to be shared with those around us.
 
-Her heart is a haven of peace and hope for all who take refuge in her. Her intercession is powerful before God. Her presence and support are of immense assistance to us in the struggles and temptations that we face. Her maternal tenderness is a sweet consolation in our trials. Her faith, her humility, and the purity of her love make her unassailable.
-
-Our Lady lived each of the Beatitudes perfectly, and she helps us understand and practice them effectively.
-
-If we give ourselves entirely to her, she will give herself entirely to us and share with us the riches that she has received from God.
-
-Through her, we'll become poor in heart, humble and meek; in her arms we'll be consoled. She will make us hungry and thirsty for God. She'll make us good and merciful. She will share with us the purity of her heart. She will establish us in a profound peace to be shared with those around us.
-
-She'll give us the grace of being strong in the combat and able to embrace the Cross as a grace. Our Lady will open wide the gates of the Kingdom and of true happiness for each one of us.
-
-\[Unless otherwise indicated, quotations and paraphrases are drawn from Jacques Philippe, *The Eight Doors of the Kingdom: Meditations on the Beatitudes* (Scepter, 2018)\].
+She'll give us the grace of being strong in the combat and able to embrace the Cross as a grace. Our Lady will open wide the gates of the Kingdom and of true happiness for each one of us."
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *JSD*
+
+\[Unless otherwise indicated, quotations and paraphrases are drawn from Jacques Philippe, *The Eight Doors of the Kingdom: Meditations on the Beatitudes* (Scepter, 2018)\].
