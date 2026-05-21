@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- FOUC Prevention: Apply theme and text size before page renders -->
+    <script>
+        (function() {
+            // Apply theme
+            const theme = localStorage.getItem('theme-preference') ||
+                (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', theme);
+            // Apply text size
+            const textSize = localStorage.getItem('text-size-preference');
+            if (textSize === 'large') {
+                document.documentElement.setAttribute('data-text-size', 'large');
+            }
+        })();
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fr. Conor Donnelly Meditations | The Light of the World</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/meditations/assets/css/style.css">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0BXLC35GR"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-S0BXLC35GR');
+    </script>
+
+
+
+</head>
+<body data-baseurl="/meditations">
+    <header>
+    <nav>
+        <div class="logo">
+            <a href="/meditations/"><img src="/meditations/assets/images/logo-circ.png" alt="Fr. Conor Meditations Logo"></a>
+        </div>
+        <div class="nav-links">
+            <a href="/meditations/" >Home</a>
+            <a href="/meditations/team" >Team</a>
+            <a href="/meditations/connect" >Connect</a>
+        </div>
+        <!-- Header Controls (Theme + Text Size) -->
+        <div class="header-controls">
+            <!-- Theme Toggle Button -->
+            <button
+                class="theme-toggle"
+                id="theme-toggle"
+                aria-label="Toggle dark mode"
+                title="Toggle dark mode">
+                <svg id="theme-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <!-- Sun icon (shown in dark mode) -->
+                    <path class="sun" d="M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12zM11 1h2v3h-2V1zm0 19h2v3h-2v-3zM3.515 4.929l1.414-1.414L7.05 5.636 5.636 7.05 3.515 4.93zM16.95 18.364l1.414-1.414 2.121 2.121-1.414 1.414-2.121-2.121zm2.121-14.85l1.414 1.415-2.121 2.121-1.414-1.414 2.121-2.121zM5.636 16.95l1.414 1.414-2.121 2.121-1.414-1.414 2.121-2.121zM23 11v2h-3v-2h3zM4 11v2H1v-2h3z"/>
+                    <!-- Moon icon (shown in light mode) -->
+                    <path class="moon" d="M17.293 13.293A8 8 0 0 1 6.707 2.707a8.001 8.001 0 1 0 10.586 10.586z"/>
+                </svg>
+            </button>
+            <!-- Text Size Toggle Buttons -->
+            <div class="text-size-toggle" role="group" aria-label="Text size controls">
+                <button id="text-size-normal" class="active" aria-label="Normal text size" title="Normal text size">A</button>
+                <button id="text-size-large" aria-label="Large text size" title="Large text size">A+</button>
+            </div>
+            <!-- Meditation Counter Badge -->
+            <button id="counter-badge" class="counter-badge" aria-label="View reading history" title="View reading history">
+                <span id="counter-number">0</span> read
+            </button>
+        </div>
+    </nav>
+</header>
+
+    <main>
+        <article>
+    <h1>The Light of the World</h1>
+    <p>By Fr. Conor Donnelly</p>
+
+<p><em>(Proofread)</em></p>
+
+<p><em>In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My immaculate mother, St. Joseph, my father and lord, my guardian angel, intercede for me.</em></p>
+
+<p>There are three great roles played by the eternal Galilean, each of which is a revelation of his divine character. He is a prophet or teacher, a king or the center of hearts, and a priest or the redeemer of the world.</p>
+
+<p>The first of these roles, that of teacher, we shall consider here, our purpose being to set in relief just how contradictory are the teaching methods of Our Lord and those of the world. Only a God could use such unworldly methods and still be successful in impressing his message on all ages and all types of mind.</p>
+
+<p>The world has always had prophets, but it was reserved for our day to be surfeited by them. Never before in history has there been so much thinking and so little coming to the knowledge of truth, so many schools and so little scholarship, so many wise men and so little wisdom, so much talking about religion and so little prayer.</p>
+
+<p>First of all, a word about the world as a teacher. There is no one point on which any of these teachers is agreed, there being as many opinions as there are heads. But there is great unanimity in the method of their teaching. All are agreed that a successful message must possess three qualities: it must be smart, it must be liberal, and it must be modern.</p>
+
+<p>By smart, the world means the message must be sophisticated, so as to appeal to the intelligentsia and to frighten away the uninitiated. The modern prophet seeks to astound us with his outpouring of quaint scientific facts, and to dazzle us with a deluge of high-sounding names in which sin is called a form of Oedipus reflex, and religion is defined as a projection into the roaring loom of time, or a unified complex of psychical values. He hints at vast authorities in the background, dwells on prehistory rather than history, always tries to convince the man on the street not how simple a truth is, but how complex.</p>
+
+<p>Secondly, the twentieth-century prophets agree that the message must be liberal. By this is meant that it must reduce law to a few social virtues, substitute hygiene for morality, patriotism for piety, and sociology for religion. The ideal must never surpass an approximate justice approved by public opinion. There must be a minimum of restraint and inhibition—no mention of mortification, but endless repetition of catchwords such as evolution, progress, relativity, and service. In this way, the message will attract the self-righteous and at the same time not offend those who believe that ethics must be suited to unethical lives and morals to unmoral ways of living.</p>
+
+<p>Finally, the present-day prophet seeks not only to be smart, but also to be modern. Above all things else, he wants to convince his hearers that his doctrine is suited to the age, that we have outgrown other codes of morals and religion, that after all, we do live in the twentieth century and not in the thirteenth. But the primary reason why the world should accept his teaching is not because it is true, but because it is up-to-date.</p>
+
+<p>Now turn back the pages of history to a great prophet whose message has been more successful than that of any teacher who ever lived. We discover that his method was just the opposite. He upset all worldly standards of teaching with the same beautiful serenity with which he overthrew the tables of the money changers in the temple. He did the very things any other prophet would have called foolish. He chose the very method the others labeled unsuccessful.</p>
+
+<p>His teaching possessed the three opposite characteristics of the world. He did not make his message smart, but simple; not liberal, but transforming; not modern, but eternal.</p>
+
+<p>In contrast to modern prophets, the message of Our Lord was not smart and sophisticated, but plain and simple. There is nowhere an attempt to impress his auditors either with his omniscience or with their nescience. He’s never complex. There is no trick of rhetoric, no appeal to the intelligentsia, no pomp of demonstration, no monotonous deserts of laws and precepts such as are found in Buddha or Muhammad.</p>
+
+<p>On most occasions, his sermons were given under the open sky, by the hillside, along the lake, or in the roadway. His words flowed as sweetly to single listeners as to enraptured crowds, and could be caught up just as well by the learned inquirer in the lonely midnight as by the frail woman at the noonday well. His phrases are taken out of common life and common experience, which makes them plain to every age. His lessons were drawn from the very incidents of life before him at the moment.</p>
+
+<p>On one occasion, speaking to poor working men on a street corner, he made use of their patched clothing, their old bottles and new wine, to bring home to them the truth of his kingdom. On another, standing in the entrance of the temple, ablaze with lights and its pinnacles flaming torches, he said to his disciples, “I am the light of the world” (John 8:12). One day on a hillside near the lake of Galilee, he saw on the opposite hill a man going out to sow his seed, and pointing his finger, said, “Behold, the sower went out to sow” (Matt. 13:3). And as his disciples watched the man, they heard the parable of the sower and the seed. He sees the fishermen gathering their nets and calls them to be fishers of men. He sees a man, nicknames him Rock, and makes him the foundation upon which he builds his church.</p>
+
+<p>He spoke of everyday joys and sorrows, of the salt on the table, of the village perched on the hill, of the candlestick on the windowsill, of their sheep and their goats, their camels and the eyes of needles, their daily bickerings before the local judge, and their coarse language which he overheard on the street—the hot sun beating down on them, the lightning flash from east to west, the ditch over there between the fields, thorns and thistles, the sheep and the wolves, the reeds shaken by the wind, and burning weeds, eggs and serpents, nets and fish, pearls and pieces of money, corn and oil, stewards and gardeners, kings and shepherds, the raven hovering above them, the daily wages hidden at home in money bags, the cottage near the lake built on sand which had fallen to ruins, and the one built on rocks which survived the flood; courtiers in soft clothing, brides in nuptial robes, and the stones on the hillsides with snakes and scorpions beneath them.</p>
+
+<p>And who shall ever forget the day that he stood on the plain, when his eye was first caught by the flight of a bird overhead and then by a lily at his feet, which he took in his hand with the remark that it grows though it labors not, neither does it spin. Suddenly he elevates the mind of his hearers from that impotent flower to their national heroes and the flamboyant colors of their palaces: not even Solomon in all his glory was arrayed as one of these. And then finally, by a third thought, shrivels it to nothing with a gesture of one who might fling it away.</p>
+
+<p>We’re taught in St. Matthew, “But if God so clothes the grass of the field, which is here today and thrown into the oven tomorrow, will he not much more clothe you, O you of little faith?” (Matt. 6:30). It was like building a great tower by magic and then suddenly crumbling it into dust when it had made us look up into the sky. There was nothing smart or sophisticated about it. It was a thing so simple that no worldly-minded person would ever think of it if he wished to impress us with his wisdom. Smart men say smart things to convince us of their smartness. It remained for God to say simple things to convince us of his wisdom.</p>
+
+<p>The second difference between the modern teacher and Our Lord is that the former believes that the message should be liberal, broad, and free from restraint and mortification. Our Blessed Lord said it should not be liberal. But in opposing a liberal doctrine, he was not narrow, he was not revolutionary. He was not making an innovation. Rather, he was renovating. His doctrine was transforming. He begins a recast race of Adam. Socrates reformed the mind, Moses the law, and others altered codes, systems, and religions. But Our Lord did not alter a part of man, but the whole man from top to bottom—the inner man, which is the motive power of all his works and deeds.</p>
+
+<p>He therefore makes no compromises or concessions. He has a real contempt for broad-mindedness, which is synonymous with indifference. He tells us that if we do not believe, we shall be condemned, and that if we despise his ambassadors, we despise him. Unprofitable servants are to be cast into outer darkness, where there will be weeping and wailing and gnashing of teeth. Sodom and Gomorrah shall be more tolerated on the day of judgment than the city which rejects the apostles. Capernaum, which was exalted to the heavens, shall be thrust into hell. Add to all this his attacks on the Pharisees, which suggest anything but a gentle, liberal, broad-minded enthusiast too mild even to criticize his bitterest opponents: hypocrites, blind guides, whitewashed tombs. “You serpents, you brood of vipers, how are you to escape being sentenced to hell?” (Matt. 23:33).</p>
+
+<p>Neither are there any platitudes about loyalty. He never once used the word cooperation. There were no broad, inoffensive statements like “leave life better than you find it,” or truisms such as “the joy of service,” “the gospel of work,” or “a good deed a day.” Rather, he said that if the festival of happiness is ever to be celebrated again, we must be the opposite of what we are. We must conquer our animal instincts instead of satisfying them, pluck out our eye rather than let it scandalize us, cut off our hand rather than let it drag us into hell, refuse to answer fight with flight, which is fear, but show the enemy the other cheek and make a friend of him. We must not take thought of tomorrow, for sufficient for the day is the evil thereof. We must not exalt but humble ourselves. We must rejoice when we are persecuted and count ourselves blessed when we are reviled, seek the lowest place at table, rejoice in the hatred of men, become simple like children, and above all, take up a daily cross.</p>
+
+<p>Why? Because we were born not to wriggle in a worm heap, eating our particle of earth as if we had only a stomach and two hands. We must remember we have a heart and soul, the salvation of which is more important than the gaining of the whole world. “For what does it profit a man, to gain the whole world and forfeit his soul?” (Mark 8:36).</p>
+
+<p>This ideal was new. No one before ever said it because no one before ever came to transform the old Adam, which is nature, by creating a new nature, a supernature made to the image and likeness of God. Everyone else who ever lived told us how to reform the world. Our Lord told us how to reform ourselves. In a word, he told us the world can be made better only by making ourselves better. Everyone else told us how to make the road smoother. Our Lord told us to turn straight around and take a new road: to renounce what seemed good, pick up what had been thrown away, worship him who was spurned, learn that which seemed foolish, crucify not our enemies but our lower selves, purge our hearts, hate hatred, love executioners, transform our souls, and answer the strong no of Christ to the foolish yes of the world.</p>
+
+<p>Because it was a transforming doctrine, it could be expressed only in paradoxes. Everything that humanity in its base or vision held dear, he set at naught. Those things it sought, he condemned. That which it put first, he put last. That which is called death, he called life.</p>
+
+<p>How express this turning upside down of human nature except in a paradox in which what is true for time is false for eternity, and what is good for the body is bad for the soul, and what is wisdom for the world is weakness with God? For there runs through this preacher the tremendous paradoxes about the first being last and the last first, that the humble shall be exalted and the exalted humbled, that by saving our life we lose it and by losing our life we save it, that the scorned should be reverenced and the reverenced scorned, that the master shall be as the servant and the servant as the master, that tears should be turned into joy and those who laugh shall mourn, and above all, that the harlots and publicans will enter the kingdom of heaven before the scribes and the Pharisees.</p>
+
+<p>These paradoxes constitute the only language in which God can talk to man, the sinless to sinners, and the eternal to the temporal. Man can talk to man in simple language without paradoxes. But when God comes to this earth as man to set at naught our cheap liberal morality, to create new values, to transform hearts by making them see how foolish the ways of men are to God, then he must speak on the two levels of time and eternity, which is the language of paradox.</p>
+
+<p>Finally, modern prophets, it was said, would rather be up-to-date than right, rather be wrong than behind the times. Our Lord upset this spirit by dwelling not on timely topics but on eternal truths. He taught in such a manner as to disprove forever that his ideas were suited to his time and therefore unsuitable to any other. He never used a phrase that made his philosophy dependent on the social order in which he lived. He never made his morality dependent on the existence of the Roman Empire or even on the existence of the world. “Heaven and earth will pass away, but my words will not pass away” (Matt. 24:35). He did not get his argument against divorce from the Mosaic law or the Roman law or a Palestinian custom. It was an ideal outside time, difficult in all times, impossible in no times.</p>
+
+<p>Because he did not adapt himself to past times, nor to present time, nor to future times, he never fell into a platitude. Platitudes belong only to those who say we must have new morals to suit the new science. Platitudes are the heritage of time, but not of the eternal. For example, there are no platitudes about war, about its waste, about its hate, about its slaughter.</p>
+
+<p>What there is running through his teaching is a little phrase which is a mighty phrase, a phrase which separates time from eternity, a phrase which began a new system of education: “But I say to you,” in the Sermon on the Mount. He begins every example with the words, “You have heard that it was said,” and then he purifies the so-called timely, the platitudinous, with an eternal command, “But I say to you.” It recurs like an antiphon in his preaching. “You have heard that it was said to the men of old, ‘You shall not kill.’ … But I say to you that … whoever says, ‘You fool!’ shall be liable to the hell of fire” (Matt. 5:21–22). “You have heard that it was said, ‘You shall not commit adultery.’ But I say to you that everyone who looks at a woman lustfully has already committed adultery with her in his heart” (Matt. 5:27–28). “You have heard that it was said, ‘An eye for an eye and a tooth for a tooth.’ But I say to you, Do not resist one who is evil. But if anyone strikes you on the right cheek, turn to him the other also” (Matt. 5:38–39).</p>
+
+<p>It was better, according to his logic, that the face should suffer rather than the soul. And urging the doctrine of charity, he gave a new law in which hate is transformed into love: “You have heard that it was said, ‘You shall love your neighbor and hate your enemy.’ But I say to you, Love your enemies and pray for those who persecute you” (Matt. 5:43–44). There’s only one way of driving enemies from the earth, and that is by loving them.</p>
+
+<p>There is nothing in any one of these statements which suited his times or suited any other times. The reason he was never concerned about being up-to-date was because he is beyond date, in the sense that he’s outside time. Everyone else who ever lived came from a certain people and bore the imprint of his hour. How else could legislators govern unless their laws suited their times? How else could poets and philosophers write unless they had their finger on the pulse of their civilization? In the rhythm of their poetry is the cry of their epoch. In the dreams of their philosophy is the aspiration of their century.</p>
+
+<p>Name the great ones of the earth: Homer, Job, Aeschylus, Isaiah, Socrates, Phidias, Sophocles, Plato, Virgil, Tacitus, Dante, Michelangelo, Shakespeare, Milton, Corneille, Bossuet, Washington, Lincoln. What are they but the incarnation of Greece, Arabia, Judea, Rome, Italy, Spain, France, England, and America? The greater they are, the more incarnate the genius of the humanity in whose hour they lived. The great Pelasgian is Homer. The great Greek is Aeschylus. The great Arab is Job. The great Hebrew is Isaiah. The great Roman is Tacitus. The great Italian is Dante. The great Frenchman is Bossuet. The great Englishman is Shakespeare. The great American is Washington.</p>
+
+<p>But who is our Blessed Lord? He’s neither Greek nor Roman, Jew nor Gentile, ancient nor modern. He’s a man outside of time—the man, the God-man. In others, you never find humanity in all its entirety. You touch only the hem of the garment. But in Christ, you touch all humanity. This universality of Our Lord, this overflowing the limits of time and space, this peculiar property of belonging to all times because he belongs to no time—whence does it come? Whence that tremendous personality? Whence the source of his independence? He depends not on the multitude who acclaim him, not on the customs of his country, not on the century when he lived.</p>
+
+<p>To find the secret of his timelessness, the simplicity of his wisdom, and the transforming power of his doctrine, we must go out beyond time to the timeless, beyond the complex to the perfect, beyond change to the changeless, out beyond the margin of the world to the perfect God—when the form of a humble Nazarene carpenter one day, calmly and without emphasis, like one picking up a flower, looked over his shoulder and in one grace and tremendous paradox, revealed the secret of his ageless eternity in the strangest words this aging earth had ever heard: “Before Abraham was, I am” (John 8:58).</p>
+
+<p><em>I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My immaculate mother, St. Joseph, my father and lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</em></p>
+
+<p><em>EW</em></p>
+
+</article>
+    </main>
+
+    <footer>
+    <div class="footer-content">
+        <div class="footer-social">
+            <a href="https://whatsapp.com/channel/0029Vb2pjJyGufJ2mE4xvv2F" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Channel">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            </a>
+            <a href="mailto:frconor.ebook@gmail.com" aria-label="Email">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z"/><path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z"/></svg>
+            </a>
+        </div>
+        <p>&copy; 2026 FCD</p>
+    </div>
+</footer>
+
+    <!-- Scroll to Top Button -->
+    <button class="scroll-top" id="scroll-top" aria-label="Scroll to top" title="Back to top">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 15 12 9 6 15"></polyline>
+        </svg>
+    </button>
+
+    <!-- Reading List Modal -->
+    <div id="reading-list-modal" class="modal-overlay" aria-hidden="true" role="dialog" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Your Reading History</h2>
+                <button id="modal-close" class="modal-close" aria-label="Close modal">&times;</button>
+            </div>
+            <div id="reading-list-content" class="modal-body">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/meditations/assets/js/search.js?v=1779322055"></script>
+    <script src="/meditations/assets/js/theme-toggle.js"></script>
+    <script src="/meditations/assets/js/text-size-toggle.js"></script>
+    <script src="/meditations/assets/js/scroll-top.js"></script>
+    <script src="/meditations/assets/js/meditation-counter.js"></script>
+</body>
+</html>
