@@ -13,7 +13,7 @@ By Fr. Conor Donnelly
 
 If you go to the end of a runway some time and watch the planes taking off, it can be a very impressive sight. You might wonder how all that metal gets up into the air, all that weight, tons and tons.
 
-Two or three hundred people, two or three hundred suitcases weighing 23 kilos, all the petrol that\'s needed, so many things. And yet every time the plane goes up, at a particular point, you find the plane lifts off the ground.
+Two or three hundred people, two or three hundred suitcases weighing 23 kilos, all the petrol that's needed, so many things. And yet every time the plane goes up, at a particular point, you find the plane lifts off the ground.
 
 You might wonder, what is it that makes it go up? You might think of the engines, but if it was just for the engines, the plane might just keep going straight at the end of the runway.
 
@@ -21,13 +21,13 @@ Engineers tell us that what makes the plane fly are the wings. When it gets to a
 
 Some spiritual writers have said that God wants our souls to fly and the virtue that gives us wings to be able to fly is the virtue of purity.
 
-Purity is the virtue whereby we control our sexual appetite about all the senses: eyes, ears, touch, etc. Chastity is the virtue whereby the sexual act is performed as God and nature intended, within marriage and without any unnatural actions. Modesty is the virtue whereby we respect our own bodies and those of other people.
+Purity is the virtue whereby we control our sexual appetite in relation to all the senses: eyes, ears, touch, et cetera. Chastity is the virtue whereby the sexual act is performed as God and nature intended, within marriage and without any unnatural actions. Modesty is the virtue whereby we respect our own bodies and those of other people.
 
 When our first parents were in the Garden of Paradise, they had the gift of rectitude. Their passions were perfectly subject to their reason, which was perfectly subject to God.
 
-They didn\'t have any trouble living the virtues of purity, chastity, and modesty. They were naked without shame.
+They didn't have any trouble living the virtues of purity, chastity, and modesty. They were naked without shame.
 
-But then after they committed the original sin, they lost that gift, and they began to be what Pope St. John Paul II called a shameful nudity (*cf*. John Paul II, *General Audiences*, December 12, 1979 and January 30, 1980).
+But then after they committed original sin, they lost that gift, and they began to be what Pope St. John Paul II called a shameful nudity (*cf*. John Paul II, *General Audiences*, December 12, 1979 and January 30, 1980).
 
 Ever since then, men have had to struggle to put an order in their passions, to struggle with that effort to love in the right way. The devil has messed up the whole notion of human love.
 
@@ -35,35 +35,35 @@ But our Church has the truth, a great truth. In each successive generation, our 
 
 If we are to love in the right way, we need to struggle to control our passions. That takes a human effort and a supernatural effort.
 
-Modern culture might try to tell us that by trying to control our passions we become nuts. 'You have to be irrational to be chaste.' But we know that\'s not the reality.
+Modern culture might try to tell us that by trying to control our passions we become nuts. 'You have to be irrational to be chaste.' But we know that's not the reality.
 
-'People who are pure and chaste, there\'s something wrong with them.' Quite the opposite. It\'s a very normal phenomenon that we try to control our passions.
+'People who are pure and chaste, there's something wrong with them.' Quite the opposite. It's a very normal phenomenon that we try to control our passions.
 
 If somebody loses their temper and wants to throw a brick through the window, their parent or their spouse or somebody will tell them to put that brick down immediately and control themselves.
 
-Part of being a human person involves control, self-mastery, self-control. We don\'t hear these words very frequently nowadays---to control the body in order to allow the soul to breathe, in order to allow that soul to fly to the heights of an eagle, or to look down on the world in the way that God looks down on the world.
+Part of being a human person involves control, self-mastery, self-control. We don't hear these words very frequently nowadays---to control the body in order to allow the soul to breathe, in order to allow that soul to fly to the heights of an eagle, or to look down on the world in the way that God looks down on the world.
 
-"Blessed are the clean of heart, for they shall see God" (Matt. 5:8), not just in the next life, but in all the little aspects of this life, because "there is something divine hidden in the most ordinary human reality, and it\'s up to each one of us to discover it" (Josemaría Escrivá, *Conversations*, Point 114).
+"Blessed are the clean of heart, for they shall see God" (Matt. 5:8), not just in the next life, but in all the little aspects of this life, because "there is something divine hidden in the most ordinary human reality, and it's up to each one of us to discover it" (Josemaría Escrivá, *Conversations*, Point 114).
 
 We have to try and work on the cleanliness of our heart and the cleanliness of our vision. Many bad things enter the heart through the eyes.
 
-All the saints talk about the guard of the eyes, not allowing our eyes to focus on all sorts of wrong things that give us wrong ideas.
+All the saints talk about the guard of the eyes, not allowing our eyes to focus on all sorts of wrong things that give us the wrong ideas.
 
 We have to try and control our imagination. Again, that word, control.
 
-I met a tea taster in Mombasa once. I\'d never met a man whose profession was a tea taster. There\'s a big tea market there, one of the world\'s tea markets.
+I met a tea taster in Mombasa once. I'd never met a man whose profession was a tea taster. There's a big tea market there, one of the world's tea markets.
 
 He told me that his job was to taste tea all day. And I thought, My mother, I think, would have loved that job!
 
 I was thinking afterwards, he must have to be very careful with his taste buds. His whole professional life depends on his taste buds, and the sensitivity of those taste buds to be able to determine quality tea, and to identify teas that come from different parts of the country, which have to go to different parts of the world.
 
-And on his taste buds depends the price he\'s going to put on that tea, and his credibility and reputation, and a whole pile of other things.
+And on his taste buds depends the price he's going to put on that tea, and his credibility, reputation, and a whole pile of other things.
 
 After the fifth sip of tea, if he gets a bit tired one Monday morning and decides to have a few whiskeys and a few brandies or to smoke a cigar, that might interfere with the chemical sensitivity of his taste buds. They could be contaminated by things that make them lose their specificity.
 
-Well, likewise, with the taste buds of our soul. We have to try and be careful that we don\'t expose our souls to bad things---bad pictures, bad ideas, or bad conversations. We have to guard those senses in all sorts of ways.
+Well, likewise, with the taste buds of our soul. We have to try and be careful that we don't expose our souls to bad things---bad pictures, bad ideas, or bad conversations. We have to guard those senses in all sorts of ways.
 
-As each one of us is different, we may find that we have to guard our senses in ways that maybe other people don\'t.
+As each one of us is different, we may find that we have to guard our senses in ways that maybe other people don't.
 
 We are perhaps sensitive in certain situations. So, we have to know ourselves and distance ourselves from those people, places, environments that could be problematic for us.
 
@@ -73,15 +73,15 @@ In Ireland many years ago there was a bit of a civil war up in the north of the 
 
 Each of us has no-go areas. We know our weaknesses and we have to fight to maybe, distance ourselves from those situations.
 
-Just like an alcoholic, when he leaves the office and gets into his car, goes out of the office building, knows that "if I turn right, I go to a certain street, and there\'s a hotel in that street, and there\'s a bar there, and there\'s a bottle of whiskey on the shelf, and I can have a wonderful conversation for the rest of the evening and roll home at two in the morning."
+Just like an alcoholic, when he leaves the office and gets into his car, goes out of the office building, knows that "if I turn right, I go to a certain street, and there's a hotel in that street, and there's a bar there, and there's a bottle of whiskey on the shelf, and I can have a wonderful conversation for the rest of the evening and roll home at two in the morning."
 
-His battle comes not when he\'s coming out of the driveway of the office parking. It comes when he starts to leave his office and plan his route home. He knows he has to turn left instead of turning right.
+His battle comes not when he's coming out of the driveway of the office parking. It comes when he starts to leave his office and plan his route home. He knows he has to turn left instead of turning right.
 
 Likewise, with the battles of the soul, we have to fight the battles far away from the walls of the fortress. Distance ourselves from those situations. Know our weaknesses, use all the human means, and also all the supernatural means.
 
 St. Paul says he had "a thorn in the flesh." Three times he asked God "that he would take it away." And three times God said to him, "My grace is sufficient for you, for strength is made perfect in weakness." My power is at full stretch in weakness.
 
-"It is then," says St. Paul, "about my weaknesses, that I am happiest of all to boast, so that the power of Christ may rest upon me. That is why I am glad of weaknesses, insults, constraints, persecution, and distress for Christ\'s sake. For it is when I am weak that I am strong" (2 Cor. 12:7-10).
+"It is then," says St. Paul, "about my weaknesses, that I am happiest of all to boast, so that the power of Christ may rest upon me. That is why I am glad of weaknesses, insults, constraints, persecution, and distress for Christ's sake. For it is when I am weak that I am strong" (2 Cor. 12:7-10).
 
 We have recourse frequently to the sacrament of Confession. The life-giving, strength-giving grace of God comes into our souls in a regular way.
 
@@ -93,7 +93,7 @@ This picture showed this jumbo jet in the canals and passing some houses, and it
 
 It was an unusual photograph. It was very interesting, but there was also something a little sad about the photograph. Here was this jumbo jet that had carried thousands of people all over the world, done great things, and soared to the heights of an eagle, but now it had no wings and couldn't fly anymore.
 
-We have to try and make sure that we don\'t lose our wings. We keep them in good shape so that they don\'t get caked with mud. A bird whose wings are caked with mud cannot fly.
+We have to try and make sure that we don't lose our wings. We keep them in good shape so that they don't get caked with mud. A bird whose wings are caked with mud cannot fly.
 
 One great means to live this virtue well is to have frequent recourse to the sacrament of Confession and to go there with great sincerity and get rid of all the garbage.
 
@@ -101,13 +101,13 @@ Somebody said once we should think of the priest in Confession like a garbage ca
 
 God fills us with His sanctifying grace. We experience the sacrament of joy.
 
-We\'re not worried about our weaknesses. We\'re capable of all the most terrible things. We\'re all potential Hitlers.
+We're not worried about our weaknesses. We're capable of all the most terrible things. We're all potential Hitlers.
 
 But we have the answer. We have Confession, where we can start again with a new hope, with a new optimism, with a new joy.
 
 One writer said once, "You cannot play with the animal in you without becoming wholly animal. You cannot play with falsehood without forfeiting your right to truth. You cannot play with cruelty without losing your sensitivity of mind. Whoever wants to keep their garden tidy does not reserve a plot for weeds" (Dag Hammarskjöld, *Markings*).
 
-Likewise, in our heart or in our soul, we can\'t reserve a plot for weeds, put our Christian vocation into parentheses, or indulge in things that we know are incompatible with that Christian vocation.
+Likewise, in our heart or in our soul, we can't reserve a plot for weeds, put our Christian vocation into parentheses, or indulge in things that we know are incompatible with that Christian vocation.
 
 Therefore, we need that spirit of struggle to go against the current. Any dead thing can float downstream. Which is stronger, the reed that is bent by the wind or the reed that stands up against the wind?
 
@@ -121,49 +121,49 @@ We have to try and know what is right and what is wrong, to keep up that spirit 
 
 There was an article in the newspaper some years ago that said that the U.S. Army had rejected 25 percent of their recruits because of obesity. They were too fat to fight. So 125 generals sent a letter to Congress for a bill to talk about the nourishment of children.
 
-We can\'t allow ourselves to become too fat to fight. We need to keep ourselves in good shape to know who the enemy is and where the enemies are, so that we won\'t be deceived by that lion who is ready to pounce.
+We can't allow ourselves to become too fat to fight. We need to keep ourselves in good shape to know who the enemy is and where the enemies are, so that we won't be deceived by that lion who is ready to pounce.
 
 A little kid went running into the police station one time and said, "Quick, quick, my father has been fighting for over an hour!"
 
-The policeman said, "Over an hour! But why didn\'t you call me before now?" And he said, "In the beginning, he was winning."
+The policeman said, "Over an hour! But why didn't you call me before now?" And he said, "In the beginning, he was winning."
 
-Sometimes that\'s what happens in our little battles. The devil allows us to go a few rounds. He likes us to think that we\'re winning, that we can handle this movie, or this song, or this conversation, or this situation, or this environment, when the reality is that we can't.
+Sometimes that's what happens in our little battles. The devil allows us to go a few rounds. He likes us to think that we're winning, that we can handle this movie, or this song, or this conversation, or this situation, or this environment, when the reality is that we can't.
 
-We\'re much weaker than we think. But we can be fooled into thinking that we\'re strong.
+We're much weaker than we think. But we can be fooled into thinking that we're strong.
 
-We need to continually ask for this virtue. Purity, chastity, and modesty---they\'re not the most important of virtues. The Sixth Commandment is the sixth commandment, not the first, but it has its place. And if we take care of those virtues, then we learn how to love.
+We need to continually ask for this virtue. Purity, chastity, and modesty---they're not the most important of virtues. The Sixth Commandment is the sixth commandment, not the first, but it has its place. And if we take care of those virtues, then we learn how to love.
 
-People who don\'t understand purity, or chastity, or celibacy, or modesty---it\'s because they don\'t understand human love, which is the most beautiful reality on the planet, a reflection of divine love.
+People who don't understand purity, or chastity, or celibacy, or modesty---it's because they don't understand human love, which is the most beautiful reality on the planet, a reflection of divine love.
 
-That\'s why the devil has declared war on the concept of human love. We need to take care about how we practice that virtue.
+That's why the devil has declared war on the concept of human love. We need to take care about how we practice that virtue.
 
 "God is love" (1 John 4:8,16) and He wants us to reflect love in everything that we do.
 
 The sexual act is the most intimate union possible between two people in this world. We have to safeguard everything about that. Keep it *open to life*. Open to life means open to love. Love means giving. Lust means getting.
 
-Sometimes it\'s good to talk about things very clearly. When we go to Confession or spiritual direction---to talk about these areas and to ask for guidance, so that we come to understand these concepts a little clearer, so that we can put them into practice a little better, in very concrete ways, and also help many other people to practice these virtues.
+Sometimes it's good to talk about things very clearly. When we go to Confession or spiritual direction, let's talk about these areas and to ask for guidance, so that we come to understand these concepts a little clearer, so that we can put them into practice a little better, in very concrete ways, and also help many other people to practice these virtues.
 
-There\'s a story told about Pope St. John XXIII, who had been a nuncio in many countries before becoming Pope.
+There's a story told about Pope St. John XXIII, who had been a nuncio in many countries before becoming Pope.
 
 One time he was at a diplomatic dinner in Paris, I think. There was a lady sitting quite close to him who was not very well dressed.
 
 After the first course, the nuncio, Cardinal Roncalli was his name, picked up an apple from a bowl of fruit that there was in the center of the table, and he offered it to this lady.
 
-She looked at him a bit surprised and said, "Your Excellency, I didn\'t ask for any fruit."
+She looked at him a bit surprised and said, "Your Excellency, I didn't ask for any fruit."
 
 And he said, "Madam, it was only after Eve ate the apple that she realized what she was wearing."
 
 Sometimes we need to be clear with people---very clear, solid rules about dealing with people of the opposite sex.
 
-One of those rules could be never to be in a room alone with somebody of the opposite sex, leave the door open, or to give lifts to people of the opposite sex when you\'re alone.
+One of those rules could be never to be in a room alone with somebody of the opposite sex, leave the door open, or to give lifts to people of the opposite sex when you're alone.
 
-You play with fire, you play with fire, because we don\'t know when we\'re going to be weak. We don\'t know when other people are going to be weak either. We want to take care of our Christian vocation.
+You play with fire, you play with fire, because we don't know when we're going to be weak. We don't know when other people are going to be weak either. We want to take care of our Christian vocation.
 
-There\'s a story told that in Edinburgh Castle, the crown jewels are kept in a very special place in an electrified cabinet. Outside that cabinet there are guards, and then there are more alarms, and then there are more guards, and then there\'s the wall of the castle, and then outside there are dogs roaming around the grounds, and then there are the huge outer walls, and then there\'s a drawbridge, and then there\'s a moat. So if anybody comes to try and steal the crown jewels, they'll have a pretty hard time.
+There's a story told that in Edinburgh Castle, the crown jewels are kept in a very special place in an electrified cabinet. Outside that cabinet there are guards, and then there are more alarms, and then there are more guards, and then there's the wall of the castle, and then outside there are dogs roaming around the grounds, and then there are the huge outer walls, and then there's a drawbridge, and then there's a moat. So if anybody comes to try and steal the crown jewels, they'll have a pretty hard time.
 
-The Queen doesn\'t walk around with the crown jewels in her handbag and gives them to the first pretty face that she meets. Whoever arrives to try and win the crown jewels arrives exhausted.
+The Queen doesn't walk around with the crown jewels in her handbag and gives them to the first pretty face that she meets. Whoever arrives to try and win the crown jewels arrives exhausted.
 
-And so also, with the jewel of our heart, we have to keep it well-bolted, well-guarded. It\'s a treasure. It\'s a pearl (*cf*. Matt. 13:44-46). God wants that heart for Him, for Him alone.
+And so also, with the jewel of our heart, we have to keep it well-bolted, well-guarded. It's a treasure. It's a pearl (*cf*. Matt. 13:44-46). God wants that heart for Him, for Him alone.
 
 "I urge you then, brothers," says St. Paul, "remembering the mercies of God, to offer your bodies as a living sacrifice, dedicated and acceptable to God. That is the kind of worship for you, a sensible people.
 
@@ -181,21 +181,21 @@ We try to receive the sacrament of Confession regularly and stay very close to t
 
 Our Lord will come into our souls as a medicine, as a strength, to lead us to be more joyful. Our good humor in charity and family life may be closely related to how we live the virtues of purity and chastity.
 
-I\'ve been very impressed as a priest when, in the last thirty or forty years, spouses who have come or come regularly for Confession, have mentioned very spontaneously, "You know, Father, when I come to Confession regularly, I see the fruits in my family. I can see there\'s more peace in my home."
+I've been very impressed as a priest when, in the last thirty or forty years, spouses who have come or come regularly for Confession, have mentioned very spontaneously, "You know, Father, when I come to Confession regularly, I see the fruits in my family. I can see there's more peace in my home."
 
 They saw the social fruits of being in the state of grace. It was a very beautiful testimony.
 
-St. Josemaría in *The Forge* says, "Without God\'s help, it\'s impossible to live a clean life. God wants us to be humble, and to ask him for his help through our Mother, who is his Mother. You should say to Our Lady, right now, speaking without the sound of words, from the accompanied solitude of your heart: 'O, my Mother, sometimes this poor heart of mine rebels...But if you help me...'---She will indeed help you to keep it clean and to follow the way God has called you to pursue. The Virgin Mary will always make it easier for you to fulfill the will of God" (J. Escrivá, *The Forge*, Point 315).
+St. Josemaría in *The Forge* says, "Without God's help, it's impossible to live a clean life. God wants us to be humble, and to ask him for his help through our Mother, who is his Mother. You should say to Our Lady, right now, speaking without the sound of words, from the accompanied solitude of your heart: 'O, my Mother, sometimes this poor heart of mine rebels...But if you help me...'---She will indeed help you to keep it clean and to follow the way God has called you to pursue. The Virgin Mary will always make it easier for you to fulfill the will of God" (J. Escrivá, *The Forge*, Point 315).
 
-Other ways we have to turn to Our Lady can be the *Memorare*, the Rosary, the Angelus, praying three Hail Marys to Our Lady at night, turning to Our Lady frequently during the day. We know that she\'s always listening to her children. She will never let us down. She'll always be there for us.
+Other ways we have to turn to Our Lady can be the *Memorare*, the Rosary, the Angelus, praying three Hail Marys to Our Lady at night, turning to Our Lady frequently during the day. We know that she's always listening to her children. She will never let us down. She'll always be there for us.
 
-"Before, by yourself," we\'re told in *The Way*, "you couldn\'t. Now, you\'ve turned to Our Lady, and, with her, how easy it is!" (J. Escrivá, *The Way*, Point 513).
+"Before, by yourself," we're told in *The Way*, "you couldn't. Now, you've turned to Our Lady, and, with her, how easy it is!" (J. Escrivá, *The Way*, Point 513).
 
 "In these times of violence and brutal, savage sexuality, we have to be rebels: we refuse point blank to go with the tide and become beasts. We want to behave like children of God, like men and women who are on intimate terms with their Father, who is in heaven, and who wants to be very close to---inside!---each one of us" (J. Escrivá, *The Forge*, Point 15).
 
 We have human and supernatural means to conquer this battle, to live in the presence of God with refinement.
 
-Be very close to Our Lord in the Blessed Sacrament. Have recourse to Our Lady in a filial way, to be humble and sincere, to empty our hearts and our souls in the right place and the right way.
+Be very close to Our Lord in the Blessed Sacrament. Have recourse to Our Lady in a filial way, to be humble and sincere, to empty our hearts and in the right place and the right way.
 
 Take care of details and temperance proper to the children of God. Practice modesty with refinement. Give ourselves generously to other people.
 
@@ -209,9 +209,9 @@ We learn to have more sincere repentance. We come to know ourselves a little mor
 
 It's worth the effort to use all the means necessary, anything, rather than commit a mortal sin.
 
-If we\'re in the state of grace, God is in our soul. If we\'re not in the state of grace, the devil is in our soul.
+If we're in the state of grace, God is in our soul. If we're not in the state of grace, the devil is in our soul.
 
-Some of the fruits of holy purity are that it gives us a big heart that knows how to love. It can give us joy in times of hardship and fortify our character in the face of difficulties. It also makes us more human, able to understand others and their weaknesses. That\'s why we need never be scandalized by the weaknesses of other people.
+Some of the fruits of holy purity are that it gives us a big heart that knows how to love. It can give us joy in times of hardship and fortify our character in the face of difficulties. It also makes us more human, able to understand others and their weaknesses. That's why we need never be scandalized by the weaknesses of other people.
 
 "There, but for the grace of God, go I" (*cf*. 1 Cor. 15:10). We are all capable of the most terrible things, so we need never be surprised by things we hear or see.
 
