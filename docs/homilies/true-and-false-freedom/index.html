@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- FOUC Prevention: Apply theme and text size before page renders -->
+    <script>
+        (function() {
+            // Apply theme
+            const theme = localStorage.getItem('theme-preference') ||
+                (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', theme);
+            // Apply text size
+            const textSize = localStorage.getItem('text-size-preference');
+            if (textSize === 'large') {
+                document.documentElement.setAttribute('data-text-size', 'large');
+            }
+        })();
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fr. Conor Donnelly Meditations | True and False Freedom</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/meditations/assets/css/style.css">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0BXLC35GR"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-S0BXLC35GR');
+    </script>
+
+
+
+</head>
+<body data-baseurl="/meditations">
+    <header>
+    <nav>
+        <div class="logo">
+            <a href="/meditations/"><img src="/meditations/assets/images/logo-circ.png" alt="Fr. Conor Meditations Logo"></a>
+        </div>
+        <div class="nav-links">
+            <a href="/meditations/" >Home</a>
+            <a href="/meditations/team" >Team</a>
+            <a href="/meditations/connect" >Connect</a>
+        </div>
+        <!-- Header Controls (Theme + Text Size) -->
+        <div class="header-controls">
+            <!-- Theme Toggle Button -->
+            <button
+                class="theme-toggle"
+                id="theme-toggle"
+                aria-label="Toggle dark mode"
+                title="Toggle dark mode">
+                <svg id="theme-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <!-- Sun icon (shown in dark mode) -->
+                    <path class="sun" d="M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12zM11 1h2v3h-2V1zm0 19h2v3h-2v-3zM3.515 4.929l1.414-1.414L7.05 5.636 5.636 7.05 3.515 4.93zM16.95 18.364l1.414-1.414 2.121 2.121-1.414 1.414-2.121-2.121zm2.121-14.85l1.414 1.415-2.121 2.121-1.414-1.414 2.121-2.121zM5.636 16.95l1.414 1.414-2.121 2.121-1.414-1.414 2.121-2.121zM23 11v2h-3v-2h3zM4 11v2H1v-2h3z"/>
+                    <!-- Moon icon (shown in light mode) -->
+                    <path class="moon" d="M17.293 13.293A8 8 0 0 1 6.707 2.707a8.001 8.001 0 1 0 10.586 10.586z"/>
+                </svg>
+            </button>
+            <!-- Text Size Toggle Buttons -->
+            <div class="text-size-toggle" role="group" aria-label="Text size controls">
+                <button id="text-size-normal" class="active" aria-label="Normal text size" title="Normal text size">A</button>
+                <button id="text-size-large" aria-label="Large text size" title="Large text size">A+</button>
+            </div>
+            <!-- Meditation Counter Badge -->
+            <button id="counter-badge" class="counter-badge" aria-label="View reading history" title="View reading history">
+                <span id="counter-number">0</span> read
+            </button>
+        </div>
+    </nav>
+</header>
+
+    <main>
+        <article>
+    <h1>True and False Freedom</h1>
+    <p>By Fr. Conor Donnelly</p>
+
+<p><em>(Proofread)</em></p>
+
+<p><em>In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me.</em></p>
+
+<p>If there’s one thing that we all desire, it’s freedom. And yet this concept and its concrete manifestations are objects of a great deal of misunderstanding and sometimes painful disillusion.</p>
+
+<p>What is freedom? How do we achieve it? These questions are of vital importance.</p>
+
+<p>The thirst for freedom has strongly affected Western culture for centuries. Western societies have changed greatly during this time in regard to individual liberties.</p>
+
+<p>The Christian message is a message of freedom. “The truth will make you free,” we’re told in St. John (John 8:32). Many passages in Scripture speak of the freedom that God wishes to bestow on mankind.</p>
+
+<p>There seems, then, to be a happy convergence between the aspirations of modern culture and the message of the Gospel. In practice, though, things are not that simple. The freedom proposed by the Gospel and the vision of freedom today do not always coincide.</p>
+
+<p>Some people even consider Christianity, or religion in general, to be freedom’s worst enemy. This is the great lie of modern atheism: that to restore mankind to its freedom, it’s necessary to do away with the idea of God.</p>
+
+<p>In reality, just the reverse is true. God is the source and redeemer of our freedom. The more attached we are to God, the more free we become. The further we are from him, the more at risk is our freedom.</p>
+
+<p>There is a paradox here that requires our consideration. Although human liberty has made much progress over the centuries, people today do not feel as free as one might expect.</p>
+
+<p>Human beings appear today to have more free space available to them than their forefathers did. Technology confers on us more power to act on our surroundings. We are much freer to choose our own religion and our beliefs, our disbeliefs. Individual freedoms are generally better guaranteed in Western societies: freedom of opinion, freedom of conscience, freedom of expression.</p>
+
+<p>Social conventions and family ties are less binding. People can marry without seeking anyone’s permission. The parameters of acceptable conduct are much broader than before.</p>
+
+<p>And yet, if modern man seems objectively more free than in other periods of history, there is nonetheless a subjective feeling that freedom is lacking. The demand for freedom, which marks the evolution of Western culture from the 18th century on, does not seem to have been satisfied.</p>
+
+<p>Thanks to the social sciences, people today are more conscious than people used to be of the social and psychological conditioning that can limit freedom, and the influence of the subconscious on decisions. The result often is a tendency not to consider oneself truly responsible for one’s actions and choices. Ultimately, one doubts the very existence of real freedom, while love is sometimes explained as a product of hormones more than free choice.</p>
+
+<p>Frequently, people feel stifled, living lives that fail to satisfy their deepest aspirations. More common than ever before is the flight from reality, the quest for distractions, the need to escape. That word “escape,” interestingly, occurs over and over in travel advertisements. We could ask the question: are we all in a prison from which we need to escape?</p>
+
+<p>Attitudes pointing to dissatisfaction with life and attempts to have a more intense or free way of life have never been more numerous. Among them: taking drugs, seeking extreme sensations, drifting into dubious spiritual practices, resisting any kind of constraint or rules, claiming not to be bound by conventions, and exhibiting transgressive behavior. It hardly seems that we have really satisfied our thirst for freedom. Discovering and experiencing genuine freedom remain out of reach.</p>
+
+<p>Viewed from a technical perspective, freedom frequently is confused with power. The more we’re capable of doing, of transforming situations and reality, the more we’re free. This is partly true. We ought not to dismiss the progress that gives us more control over material, biological, social, and psychological reality, more know-how, and additional means of communicating.</p>
+
+<p>Very quickly, though, we come up against an obstacle. All technological power has its limits. There are always realities we can neither change nor master. Faced with situations in which we are weak or powerless, do we cease to be free? How free is a freedom that fails whenever we encounter a situation in which we cannot be free?</p>
+
+<p>True freedom should be able to operate in every circumstance, including situations over which we lack control. Otherwise, it’s not freedom. A true notion of freedom should therefore include a trusting acceptance of our limitations, our weaknesses, and failures, and situations in which we are powerless because they’re beyond our control. It must be able to exist alongside the weak and frail elements in every human life.</p>
+
+<p>And this is possible. We aren’t always free to change things, but we are free always to live through them in faith, hope, and love, so that in every situation we grow humanly and spiritually. We’re told by St. Paul, “In everything God works for good with those who love him” (Rom. 8:28).</p>
+
+<p>There’s also a tendency to identify freedom with the ability to choose among a wide range of options. We are free in proportion to the number of choices we have. We want to be able to choose every aspect of our identity, even our sexuality. You might call this the freedom supermarket: the bigger the store and the more products available, the freer we are.</p>
+
+<p>And it really is more pleasant to do one’s shopping in a well-stocked supermarket rather than one of those depressing markets that used to be in Eastern Europe during the communist era, with their limited variety of products and threadbare look.</p>
+
+<p>But that way of looking at things can quickly come to a dead end. The wide variety of yogurts in the supermarket, or the dozens of choices of flat-screen televisions in the department store, can give rise to anxiety in the end—which to choose?—or frustration, because to choose one means rejecting others. And of course, I must reject many simply because I can’t afford them all.</p>
+
+<p>This overabundance of offerings hardly gives one a contented sense of freedom. Exhilarating, perhaps, at the start, it soon ends in disenchantment.</p>
+
+<p>On a human level, choosing clearly means renouncing. If I marry one woman, I renounce all the others. If I marry one man, I renounce all the others. Am I less free for that reason?</p>
+
+<p>As we pass through life, we make more decisions, and the number of choices available to us drops. Are we therefore less free? Freedom should grow with the years, not diminish.</p>
+
+<p>Thinking of freedom this way can have harmful consequences. Today, on the pretext of keeping their freedom, many people do not get involved in anything, or they definitely put off the time for decisive choices, like marriage. And the most rewarding things in life pass them by. Freedom has become its own negation—indecision—instead of what it should be: a capacity for being involved.</p>
+
+<p>Facing various possibilities, it’s good for us to choose among them. Yet perhaps the highest and most rewarding exercise of freedom is assenting to things we haven’t chosen, welcoming in trust realities that transcend us.</p>
+
+<p>Our real prison is ourselves, our limited perception of reality, our narrow-mindedness, and our narrow-heartedness. Experience often shows that we break out of this prison and open new horizons in accepting situations that we haven’t chosen, and so come to perceive a deeper dimension of reality, richer and more beautiful.</p>
+
+<p>Human freedom is not so much a power to transform as a capacity to welcome. The most rewarding act of freedom ever made by a human being was the fiat of Our Lady, her trusting, loving yes.</p>
+
+<p>We notice, too, that the fundamental question is not whether we have more or less freedom of choice—freedom that in the end doesn’t make much sense in isolation—but about the reasons that lead us to opt for one choice rather than another. What directs us to our decisions? A simple impulse, or a desire? Or is it convention, the desire to do what everyone else does? Or even our fears, our faults, our defense mechanisms?</p>
+
+<p>One of the paradoxes of modern life is how often people pretend to be free. We often hear on the television or in movies, “I’m a free man,” “a free woman,” when in fact they’re only following fashions or whims. Many people think of themselves as original while merely conforming to trends.</p>
+
+<p>We need to ask ourselves the real question. What values guide and drive my freedom? Are they phantoms, illusions, or lies? Or do they foster authentic fulfillment of my personality and my life?</p>
+
+<p>We hear a lot about freedom to choose, but to find the truth of that slogan, we need to finish the slogan. Freedom to choose what? Freedom to choose to kill, to murder my baby? We’re not free to do wrong. If freedom is not directed towards a real good, driven by objective values, it simply ceases to exist.</p>
+
+<p>There’s no freedom except in relation to a truth that guides it and directs it. “Only truth makes us free,” as we’re told in the Gospel of St. John (John 8:32). Without truth, without reference points, without guiding principles, without law, freedom becomes folly. There’s no freedom without obedience to a truth greater than ours.</p>
+
+<p>And what about freedom as independence from anybody or anything else? Here too we find that there’s a certain amount of truth. There’s no freedom apart from a degree of autonomy that allows us to take a stance and make our choices without depending on others in a manner that keeps us from being ourselves. Sometimes we have to cut loose from social constraints, confinements, draining relationships, or emotional entanglements in order to find true freedom.</p>
+
+<p>That said, we can never do without others. We can never be absolutely self-sufficient. There’s an illusory fantasy of self-sufficiency that comes from pride. We must accept our dependence on others for a lot of things. No one can achieve happiness and fulfillment in isolation from others.</p>
+
+<p>There’s a story of a milkman who decided he wanted to be free to take the day off, not to deliver any milk to the supermarkets—that was his job. And then he found he had no coffee and no sugar. He went to the shop to try and get them, but he found that the suppliers of coffee and sugar were also taking a day off. We need other people.</p>
+
+<p>True freedom, then, isn’t isolation, but a capacity to engage with real people, to develop relationships, to remain faithful to these alliances—an alliance with God first, but also a whole ensemble of alliances with other human beings: family, various communities, a religious family, and so on. Our very image of ourselves is constructed out of these relationships.</p>
+
+<p>There’s no freedom without fidelity. And we could ask: who is the most free? He or she who is faithful to the same person or community in spite of the hazards of life, the passage of time? Or the one who changes partners every year?</p>
+
+<p>Winning our freedom doesn’t mean emancipation from all dependency, from all ties. Rather, it brings the ability to discern between the ties that imprison us and those that build us up. There are some chains that enchain us, and there are some chains that liberate us.</p>
+
+<p>If you look at the three bones in each finger, you’ll find that they’re tied down by ligaments. And those ligaments that bind those bones and enchain them in that situation—they give us the freedom to lift up our cup of coffee every morning or to comb our hair. When a team of people are climbing Everest, they’re tied by a rope to the person in front of them and behind them. That limits them to go forward at the pace of the person in front and behind, but it also liberates them from the danger of falling into the abyss.</p>
+
+<p>So freedom empowers us to avoid the dependencies that alienate us, but to welcome those that help us to be ourselves, along with the true loving relationships that help us discover ourselves—in particular, our radical dependence on God, from whom we receive everything. To be free means consenting to this dependency and learning to receive from others.</p>
+
+<p>Freedom presupposes not being prisoners of habits or of social conformity. But this doesn’t mean making a clean break with the past, inventing a new life from scratch, as if nothing had preceded it. In the book of Exodus, we’re told, “Honor your father and your mother” (Exod. 20:12). In other words, recognize what you’ve received from those who went before you, despite their limits and imperfections. They’ve given you a history, a tradition. We must be original, creative, and inventive, but sensitive to what came before us, drawing our treasure, as Jesus says, from what is new and what is old.</p>
+
+<p>To be free also signifies having the power to follow our impulses, realize our desires, follow our hearts, be freely ourselves, and affirm our personalities—not acting under constraints, but doing what we want, acting as we see fit. These are currently trendy themes that advertising exploits very astutely to move us to buy particular products or services or ideas, regardless of whether they’re good for us.</p>
+
+<p>Still, this view of things does have a bit of truth. Someone whose life is fundamentally directed by what lies within him rather than by external constraints is free. Scripture points us in this direction. It’s the magnificent promise of the new covenant in Jeremiah: to be directed not by an exterior law written on stone tablets, but by the law written on our hearts that directs us spontaneously to do what is good.</p>
+
+<p>We’re told in Jeremiah, “This is the covenant which I will make with the house of Israel after those days, says the Lord. I will put my law within them, and I will write it upon their hearts” (Jer. 31:33). That is accomplished by the gift of the Holy Spirit, who bestows true freedom—freedom proceeding from the Spirit, not from the law or from the flesh, our wounded nature, as St. Paul says.</p>
+
+<p>True spontaneity comes from allowing ourselves to be led by the Spirit, for there is convergence between what the Spirit desires and our most authentic personality. St. Paul says to the Corinthians, “Where the Spirit of the Lord is, there is freedom” (2 Cor. 3:17).</p>
+
+<p>There is, however, an obvious danger in equating freedom with spontaneity. We can easily fall into thinking that freedom means realizing all our desires, all our wishes, including the most dubious ones. Everyday experience provides many examples of how impulsively following our desires and fantasies leads to brutal dissolution, even sorrowful slavery.</p>
+
+<p>This way of thinking of freedom cheapens the long and patient work that teaches us, through direct encounters with others, with reality, with objective truth, to discern among all our desires and impulses those we should follow because they proceed from what is authentic in us and from the presence of the Spirit. Other desires and impulses, we then see, should be set aside, as much as they arise from our psychological wounds, from the flesh, as St. Paul speaks of.</p>
+
+<p>Genuine spontaneity—that is, the ability to live in an adjusted and fruitful manner, simply by letting ourselves be moved by an interior impulse—is not acquired overnight. It requires long, patient work on our part, along with openness to the work of the Holy Spirit. In this, it resembles the freedom and flexibility of professional skaters or dancers that come from many hours of hard work.</p>
+
+<p>Today, people dream of a cool freedom achieved at low cost, without pain or effort. But true freedom is costly. It requires work and renunciation. Sometimes it must be won at the point of a sword. Our Lord says in St. Matthew, “If your hand or foot causes you to sin, cut it off” (Matt. 18:8). We must show no mercy to whatever separates us from our freedom as God’s children. There is no freedom for us unless we are detached from everything.</p>
+
+<p>Freedom is a grace, but it’s also a requirement, a burden we might sometimes prefer to be rid of. We can’t have freedom without responsibility, risk, and moments of doubt, anguish, perplexity. Some free decisions can only have a painful birth.</p>
+
+<p>So what work on ourselves needs doing? This is essentially a work of discernment: to perceive the nature, meaning, and origin of the impulses that drive us, and the voices that call to us from within. We must recognize the consequences of our psycho-emotive wounds—emotionally disproportionate reactions, lack of freedom, mistaken perceptions of reality, false views of others or ourselves that hold us prisoner.</p>
+
+<p>We need to step back from emotions, perceptions, and desires born of our wounds. And simultaneously, we must heal ourselves and let our deepest aspirations emerge: desires that correspond to our true identity, to the Father’s will for us, calls that summon us towards our real good.</p>
+
+<p>Spontaneity is an excellent thing, provided it does not spring from superficial psychological conditioning, but from our most genuine self. St. Augustine says, “Love, and do what you will.” But love is the fruit of a long work of purifying the heart and learning to listen to our interior calls.</p>
+
+<p>We could ask Our Lady that we might imitate that great act of her freedom when she said those words, “Be it done unto me according to your word” (Luke 1:38).</p>
+
+<p><em>I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</em></p>
+
+<p><em>EW</em></p>
+
+</article>
+    </main>
+
+    <footer>
+    <div class="footer-content">
+        <div class="footer-social">
+            <a href="https://whatsapp.com/channel/0029Vb2pjJyGufJ2mE4xvv2F" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Channel">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            </a>
+            <a href="mailto:frconor.ebook@gmail.com" aria-label="Email">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z"/><path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z"/></svg>
+            </a>
+        </div>
+        <p>&copy; 2026 FCD</p>
+    </div>
+</footer>
+
+    <!-- Scroll to Top Button -->
+    <button class="scroll-top" id="scroll-top" aria-label="Scroll to top" title="Back to top">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 15 12 9 6 15"></polyline>
+        </svg>
+    </button>
+
+    <!-- Reading List Modal -->
+    <div id="reading-list-modal" class="modal-overlay" aria-hidden="true" role="dialog" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Your Reading History</h2>
+                <button id="modal-close" class="modal-close" aria-label="Close modal">&times;</button>
+            </div>
+            <div id="reading-list-content" class="modal-body">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/meditations/assets/js/search.js?v=1779670327"></script>
+    <script src="/meditations/assets/js/theme-toggle.js"></script>
+    <script src="/meditations/assets/js/text-size-toggle.js"></script>
+    <script src="/meditations/assets/js/scroll-top.js"></script>
+    <script src="/meditations/assets/js/meditation-counter.js"></script>
+</body>
+</html>
