@@ -1,0 +1,145 @@
+---
+layout: homily
+title: "The Light of the World"
+---
+
+
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+There are three great roles played by the Eternal Galilean, each of which is a revelation of His Divine Character: He is a Prophet or Teacher, a King or the Center of Hearts, and a Priest or the Redeemer of the World.
+
+The first of these roles, that of Teacher, we shall consider here, our purpose being to set in relief just how contradictory are the teaching methods of Our Lord and those of the world. Only a God could use such unworldly methods and still be successful in impressing His message on all ages and all types of mind.
+
+The world has always had prophets, but it was reserved for our day to be surfeited by them. Never before in history has there been so much thinking and so little coming to the knowledge of truth, so many schools and so little scholarship, so many wise men and so little wisdom, so much talking about religion and so little prayer.
+
+First of all, a word about the world as a teacher. There is no one point on which any of these teachers is agreed, there being as many opinions as there are heads.
+
+But there is great unanimity in the method of their teaching. All are agreed that a successful message must possess three qualities: it must be smart; it must be liberal; and it must be modern.
+
+By smart, the world means the message must be sophisticated, so as to appeal to the intelligentsia and to frighten away the uninitiated. The modern prophet seeks to astound us with his outpouring of quaint scientific facts, and to dazzle us with a deluge of high-sounding names in which sin is called a form of Oedipus Reflex, and religion is defined as a projection into the roaring loom of time, or a unified complex of psychical values; he hints at vast authorities in the background, dwells on prehistory rather than history; always tries to convince the man on the street, not how simple a truth is, but how complex.
+
+Secondly, the twentieth-century prophets agree that the message must be liberal. By this is meant that it must reduce law to a few social virtues, substitute hygiene for morality, patriotism for piety, and sociology for religion.
+
+The ideal must never surpass an approximate justice approved by public opinion; there must be a minimum of restraint and inhibition, no mention of mortification, but endless repetition of catchwords such as "evolution," "progress," "relativity," and "service."
+
+In this way the message will attract the self-righteous, and at the same time not offend those who believe that ethics must be suited to unethical lives, and morals to unmoral ways of living.
+
+Finally, the present-day prophet seeks not only to be smart, but also to be modern. Above all things else he wants to convince his hearers that his doctrine is suited to the age; that we have outgrown other codes of morals and religion; that, after all, we do live in the twentieth century and not in the thirteenth; that the primary reason why the world should accept his teaching is not because it is true, but because it is up-to-date.
+
+Now turn back the pages of history to a Great Prophet whose message has been more successful than that of any teacher who ever lived. We discover that His method was just the opposite.
+
+He upset all worldly standards of teaching with the same beautiful serenity with which He overthrew the tables of the money changers in the Temple (Matt. 21:12-13). He did the very things any other prophet would have called foolish. He chose the very method the others labeled unsuccessful.
+
+His teaching possessed the three opposite characteristics of the world. He did not make His message smart, but simple; not liberal, but transforming; not modern, but eternal.
+
+In contrast \[to\] modern prophets, the message of Our Lord was not smart and sophisticated, but plain and simple. There is nowhere an attempt to impress His auditors either with His Omniscience or with their nescience. He's never complex.
+
+There is no trick of rhetoric, no appeal to the intelligentsia, no pomp of demonstration, no monotonous deserts of laws and precepts such as are found in Buddha or Muhammed.
+
+On most occasions, His sermons were given under the open sky, by the hillside, \[alongside\] the lake, or in the roadway. His words flowed as sweetly to single listeners as to enraptured crowds and could be caught up just as well by the learned inquirer in the lonely midnight, as by the frail woman at the noonday well (John 4:1-29).
+
+His phrases are taken out of common life and common experience which makes them plain to every age. His lessons were drawn from the very incidents of life before Him at the moment.
+
+On one occasion, speaking to poor working men on a street corner, He made use of their patched clothing, their old bottles and new wine, to bring home to them the truth of His Kingdom (Matt. 9:16-17).
+
+On another, standing in the entrance of the Temple, ablaze with lights, and its pinnacles flaming torches, He said to His disciples, "I am the light of the world" (John 8:12).
+
+One day on a hillside near the Lake of Galilee He saw on the opposite hill a man going out to sow his seed, and pointing His finger, said, "Behold, the sower went out to sow" (Matt. 13:3); and as His disciples watched the man they heard the parable of the sower and the seed.
+
+He sees the fishermen gathering in their nets and calls them to be "fishers of men" (Luke 5:10). He sees a man, nicknames him "rock," and makes him the foundation upon which He builds His Church (Matt. 16:18).
+
+He spoke of everyday joys and sorrows: of the salt on the table; of the village perched on the hill; of the candlestick on the windowsill; of their sheep and their goats, their camels and the eyes of needles; their daily bickerings before the local judge, and their coarse language which He overheard on the street; the hot sun beating down on them; the lightning flash from east to west; the ditch over there between the fields; thorns and thistles; the sheep and wolves; the reeds shaken by the wind, and burning weeds; eggs and serpents; nets and fish; pearls and pieces of money; corn and oil; stewards and gardeners; kings and shepherds; the raven hovering above them; the daily wages hidden at home in money bags; the cottage near the lake built on sand which had fallen to ruins, and the one built on rocks which survived the flood; courtiers in soft clothing, brides in nuptial robes, and the stones on the hillsides with snakes and scorpions beneath them.
+
+And who shall ever forget the day that He stood on the plain, when His eye was first caught by the flight of a bird overhead, and then by a lily at His feet, which He took in His hand with the remark that it grows though it labors not, neither does it spin (Matt. 6:26-28).
+
+Suddenly He elevates the mind of His hearers from that impotent flower to their national heroes and the flamboyant colors of their palaces: "Not even Solomon in all his glory was arrayed as one of these" (Matt. 6:29).
+
+And then finally, by a third thought, shrivels it to nothing with a gesture of one who might fling it away. We're told in St. Matthew, "But if God so clothes the grass of the field, which is here today and thrown into the oven tomorrow, will he not much more clothe you, O you of little faith?" (Matt. 6:30).
+
+It was like building a great tower by magic and then suddenly crumbling it into dust when it had made us look up into the sky. There was nothing smart or sophisticated about it; it was a thing so simple that no worldly-minded person would ever think of it if he wished to impress us with his wisdom. Smart men say smart things to convince us of their smartness. It remained for God to say simple things, to convince us of His Wisdom.
+
+The second difference between the modern teacher and Our Lord is that the former believes that the message should be liberal, broad, and free from restraint and mortification. Our Blessed Lord said it should not be liberal. But in opposing a liberal doctrine He was not narrow; He was not revolutionary; He was not making an innovation.
+
+Rather, He was renovating. His doctrine was transforming. He begins a recast race of Adam. Socrates reformed the mind, Moses the Law, and others altered codes, systems, and religions; but Our Lord did not alter a part of man, but the whole man from top to bottom, the inner man which is the motive power of all His works and deeds.
+
+He therefore makes no compromises or concessions. He has a real contempt \[for\] broad-mindedness, which is synonymous with indifference.
+
+He tells us that if we do not believe, we shall be condemned, and that if we despise His ambassadors, we despise Him.
+
+Unprofitable servants are to be cast into utter darkness, where there "will be weeping and wailing and gnashing of teeth" (Matt. 22:13). Sodom and Gomorrah shall be more tolerated on the day of judgment than the city which rejects the apostles (Matt. 10:15). Capernaum which was exalted to the heavens shall be thrust into hell (Matt. 11:23).
+
+Add to all this His attacks on the Pharisees, which suggest anything but a gentle, liberal, broad-minded enthusiast, too mild even to criticize his bitterest opponents: "Hypocrites...blind guides... whitewashed tombs. You serpents, brood of vipers: how are you to escape being condemned to Gehenna?" (Matt. 23:27-33).
+
+Neither are there any inanities about loyalty---He never once used the word cooperation. There were no broad, inoffensive statements like "Leave life better than you find it," or truisms such as the "Joy of service," the "Gospel of Work," or "A Good Deed a Day."
+
+Rather He said that if the festival of happiness is ever to be celebrated again, we must be the opposite of what we are. We must conquer our animal instincts instead of satisfying them, pluck out our eye rather than let it scandalize us, cut off our hand rather than let it drag us into hell, refuse to answer fight with flight, which is fear, but show the enemy the other cheek and make a friend of him.
+
+We must not take thought of tomorrow for sufficient for the day is the evil thereof; we must not exalt but humble ourselves; we must rejoice when we are persecuted and bless when we are reviled; seek the lowest place at table; rejoice in the hatred of xmen, become simple like children; and above all, take up a daily cross.
+
+Why? Because we were born not to wriggle in a worm heap, eating our particle of earth as if we had only a stomach and two hands. We must remember we have a heart and soul, the salvation of which is more important than the gaining of the whole world. "For what would it profit a man were he to gain the whole world and lose his soul in the process?" (Mark 8:36).
+
+This ideal was new. No one before ever said it because no one before ever came to transform the old Adam, which is nature, by creating a new nature, a supernature made to the image and likeness of God.
+
+Everyone else who ever lived told us how to reform the world; Our Lord told us how to reform ourselves. In a word He told us the world can be made better only by making ourselves better. Everyone else told us how to make the road smoother. Our Lord told us to turn straight around and take a new road, to renounce what seemed good, pick up what had been thrown away, worship Him who was spurned, learn that which seemed foolish, crucify not our enemies but our lower selves, purge our hearts, hate hatred, love executioners, transform our souls, and answer the strong "No" of Christ to the foolish "Yes" of the world.
+
+Because it was a transforming doctrine, it could be expressed only in paradoxes. Everything that humanity in its base or vision held dear, he set at naught; those things it sought He condemned; that which is put first He put last; that which is called death He called life.
+
+How express this turning upside down of human nature except in a paradox in which what is true for time is false for eternity, and what is good for the body is bad for the soul, and what is wisdom for the world is weakness with God?
+
+So there runs through this Preacher the tremendous paradoxes about the first being last and the last first (*cf*. Matt. 20:16); that the humble shall be exalted and the exalted humbled (*cf*. Matt. 23:12); that by saving our life we lose it, and by losing our life we save it (*cf*. Matt. 16:25); that the scorned should be reverenced and the reverenced scorned; that the master shall be as the servant and the servant as the master (*cf*. Matt. 10:25); that tears shall be turned into joy, and those who laugh shall mourn (*cf*. John 16:20); and above all that the harlots and publicans will enter the Kingdom of Heaven before the scribes and the Pharisees (*cf*. Matt. 21:31).
+
+These paradoxes constitute the only language in which God can talk to man, the Sinless to sinners, and the Eternal to the temporal.
+
+Man can talk to man in simple language without paradoxes; but when God comes to this earth as man, to set at naught our cheap liberal morality, to create new values, to transform hearts by making them see how foolish the ways of men are to God, then He must speak on the two levels of time and eternity which is the language of paradox.
+
+Finally, modern prophets, it was said, would rather be up-to-date than right, rather be wrong than behind the times. Our Lord upset this spirit by dwelling not on timely topics, but on eternal truths.
+
+He taught in such a manner as to disprove forever that His ideas were suited to His time, and therefore unsuitable to any other. He never used a phrase that made His philosophy dependent on the social order in which He lived; He never made His morality dependent on the existence of the Roman Empire, or even on the existence of the world:
+
+"Heaven and earth will pass away, but my words will not pass away" (Matt. 24:35). He did not get His argument against divorce from the Mosaic Law, or the Roman law, or Palestinian custom. It was an ideal outside time; difficult in all times: impossible at no times.
+
+Because He did not adapt Himself to past times, nor to present time, nor to future times, He never fell into a platitude. Platitudes belong only to those who say we must have new morals to suit the new science. Platitudes are the heritage of time, but not of the eternal.
+
+For example, there are no platitudes about war, about its waste, about its hate, about its slaughter What there is, running through His teaching, is a little phrase which is a mighty phrase; a phrase which separates time from eternity, a phrase which began a new system of education: "But I say to you."
+
+In the Sermon on the Mount, He begins every example with the words, "You have heard that it said," and then He purifies the so-called timely, the platitudinous, with an eternal command: "But I say to you."
+
+It recurs like an antiphon in His preaching. "You have heard that it was said to the men of old, 'You shall not kill.' ... But I say to you... whoever says, 'You fool!' shall be liable to the hell of fire" (Matt. 5:21--22).
+
+"You have heard that it was said, 'You shall not commit adultery.' But I say to you that anyone who looks at a woman lustfully has already committed adultery with her in his heart" (Matt. 5:27--28).
+
+"You have heard that it was said: 'An eye for an eye and a tooth for a tooth.' But I tell you not to resist the evildoer; on the contrary, if anyone strikes you on the right cheek, turn the other to him as well" (Matt. 5:38-39).
+
+It was better according to His logic that the face should suffer rather than the soul. Enlarging the doctrine of charity, He gave a new law in which hate is transformed into love: "You have heard that it was said, 'You shall love your neighbor and hate your enemy.' But I say to you: Love your enemies, and pray for those who persecute you" (Matt. 5:43-44). There is only one way of driving enemies from the earth, and that is by loving them.
+
+There is nothing in any one of these statements which suited His times or suited any other times. The reason He was never concerned about being up-to-date was because He is beyond date, in the sense that He's outside time. Everyone else who ever lived came from a certain people and bore the imprint of his hour.
+
+How else could legislators govern unless their laws suited their times? How else could poets and philosophers write unless they had their finger on the pulse of their civilization? In the rhythm of their poetry is the cry of their epoch; in the dreams of their philosophy is the aspiration of their century.
+
+Name the great ones of the earth: Homer, Job, Aeschylus, Isaiah, Socrates, Phidias, Sophocles, Plato, Virgil, Tacitus, Dante, Michelangelo, Shakespeare, Milton, Corneille, Bossuet, Washington, Lincoln. What are they but the incarnation of Greece, Arabia, Judea, Rome, Italy, Spain, France, England, and America?
+
+The greater they are, the more incarnate the genius of the humanity in whose hour they lived. The great Pelasgian is Homer, the great Greek is Aeschylus, the great Arab is Job, the great Hebrew is Isaiah, the great Roman is Tacitus, the great Italian is Dante, the great Frenchman is Bossuet, the great Englishman is Shakespeare, the great American is Washington.
+
+But who is Our Blessed Lord? He's neither Greek nor Roman, Jew nor Gentile, ancient nor modern. He's a man outside of time; the Man, the God-Man.
+
+In others, you never find humanity in all its entirety; you touch only the hem of the garment; but in Christ you touch all humanity.
+
+This universality of Our Lord, this overflowing the limits of time and space, this peculiar property of belonging to all times because He belongs to no time---whence does it come? Whence that tremendous Personality? Whence the source of His independence?
+
+He depends not on the multitude who acclaim Him, not on the customs of His country, not on the century when He lived.
+
+If we are to find the secret of His timelessness, the simplicity of Hiis Wisdom, and the transforming power of His Doctrine, we must go out beyond time to the Timeless, beyond the complex to the Perfect, beyond change to the Changeless, out beyond the margent of the world to the Perfect God, who in the form of a humble Nazarene carpenter one day, calmly and without emphasis, like one picking up a flower, looked over His shoulder and in one great and tremendous paradox revealed the secret of His ageless eternity in the strangest words this aging earth had ever heard: "Before Abraham came to be, I am" (John 8:58).
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*EW*
+
+From *The Eternal Galilean*, Chapter VI, Fulton J. Sheen (1934).
