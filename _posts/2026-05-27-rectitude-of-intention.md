@@ -175,7 +175,7 @@ We can lack rectitude of intention even in our prayer. We could be praying for t
 
 God is waiting for us in each moment of our life, hoping that we *live a unity* *in our life*, putting our faith into practice in concrete ways. He purifies us, purifies our heart.
 
-St. Josemaría liked to say, 'Lord, separate me from anything that separates me from you, open my eyes to see those things that I may not be aware of."
+St. Josemaría liked to say, "Lord, separate me from anything that separates me from you, open my eyes to see those things that I may not be aware of."
 
 Often, we may see some aspects of our pride, but there may be huge aspects of our pride that we're not even aware of.
 
