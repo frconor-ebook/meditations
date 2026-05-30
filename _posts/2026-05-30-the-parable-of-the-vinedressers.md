@@ -27,13 +27,13 @@ God did not fail to provide all the means possible for caring for the vineyard o
 
 The vinedressers in the parable are the leaders of the people of Israel; the owner is God, and the vineyard is Israel, the People of God.
 
-The owner sends His servants time and again to collect His due of fruit from the vineyard, but each time they are badly treated. This was the mission of the prophets.
+The owner sends his servants time and again to collect his due of fruit from the vineyard, but each time they are badly treated. This was the mission of the prophets.
 
 Finally, He sent His Son, the Beloved, thinking that they would respect Him.
 
 We are shown here the difference between Jesus---the Son---and the prophets, who were servants.
 
-The parable refers to Christ\'s transcendental and unique Sonship, and clearly expresses the divinity of Christ.
+The parable refers to Christ's transcendental and unique Sonship, and clearly expresses the divinity of Christ.
 
 The vinedressers "took him, killed him, and cast him out of the vineyard," an explicit reference to the crucifixion, which took place outside the walls of Jerusalem.
 
@@ -43,7 +43,7 @@ Our Lord ends with the words of one of the Psalms: "The stone which the builders
 
 The leaders of Israel understood the clearly Messianic meaning of the parable and realized that it was directed against them. So they tried to arrest Him, but once again they feared the people.
 
-St. Peter was to remember Our Lord\'s words when He came before the Sanhedrin, and the prophecy contained in the parable had already been fulfilled.
+St. Peter was to remember Our Lord's words when He came before the Sanhedrin, and the prophecy contained in the parable had already been fulfilled.
 
 "Be it known to you all," we are told in the Acts, "and to all the people of Israel, that by the name of Jesus Christ of Nazareth, whom you crucified \... This is the stone that was rejected by you builders, but which has become the head of the corner" (Acts 4:10-11).
 
@@ -71,7 +71,7 @@ It is Christ who gives meaning to the way His followers think and live. Our fait
 
 And so, it would not make sense if we were to set aside the supervening and determining fact that we are Christians whenever we have to judge a work of art or a political program, whenever we have to carry out some business deal or plan our holidays.
 
-Although \[the faithful follower of\] Christ respects the autonomy of each discipline, the laws proper to each field of action, and the broad freedom allowed to him in everything that is a matter of opinion, he does not consider any matter at all in only one of its aspects---whether that aspect be, for example, economic, say, or artistic, or cinematographic.
+Although Christ respects the autonomy of each discipline, the laws proper to each field of action, and the broad freedom allowed to him in everything that is a matter of opinion, the faithful follower of Christ does not consider any matter at all in only one of its aspects---whether that aspect be, for example, economic, say, or artistic, or cinematographic.
 
 He does not simply accept that particular undertakings or projects are good without taking a broader view of them.
 
@@ -85,7 +85,7 @@ He tries to evaluate the benefits such a business proposition or job will contri
 
 If it is morally wrong or, at best, does not give good example, any other characteristic it may have---for example, providing a good income---do not turn it into a morally sound and therefore good transaction.
 
-However advantageous a business opportunity may appear, if it\'s not morally right it is a very bad undertaking and one that may not be entered into by any follower of Christ.
+However advantageous a business opportunity may appear, if it's not morally right it is a very bad undertaking and one that may not be entered into by any follower of Christ.
 
 Error is often presented decked out in the noble garments of art, science, or freedom. But faith has to be, and indeed is, stronger than error.
 
@@ -111,7 +111,7 @@ If we want to have well-formed standards by which to discriminate and judge, whi
 
 This explains why very ordinary simple people, plain folk of scant learning and perhaps with few natural talents, but possessed of a deep Christian faith, can have excellent criteria which enable them to form wise assessments of the various things that happen; whereas others, perhaps more highly cultured or even with far greater intellectual capacity, sometimes show a lamentable absence of sound judgment and make serious mistakes in the most elementary matters.
 
-*Unity of life*, a habitually Christian way of life, enables us to judge with certainty, and to discover the true human value of things. Thus, we will sanctify all noble human realities and take them to Christ.
+*Unity of life*, a habitually Christian way of life, enables us to judge with certainty, and to discover the true human value of things. Thus we will sanctify all noble human realities and take them to Christ.
 
 We can ask ourselves: 'In every situation, do I live in a way that is consistent with my faith and with my Christian vocation? When I make a decision, however large or small, do I keep in mind above all else what it is God wants of me?'
 
@@ -123,15 +123,15 @@ He has his own scale of values in relation to the world. He has a scale of value
 
 One writer says a weak and lukewarm Christian faith which exerts very little influence on ordinary life "can provoke in some people that kind of inferiority complex which manifests itself in an immoderate desire to 'humanize' Christianity, to 'popularize' the Church, to make it somehow seem to conform to the value-judgments prevalent in the world at a given time" (José Orlandis, *What is it to be a Catholic?*).
 
-That is why, as well as being immersed in our secular activities, as Christians we need to be immersed in God through prayer, through the sacraments, through the sanctification of our daily work.
+That is why, as well as being immersed in our secular activities, as Christians we need to be *immersed in God* through prayer, through the sacraments, through the sanctification of our daily work.
 
 We need to be faithful disciples of Christ in the middle of the world, in our ordinary everyday life, with all the constant effort and hard decisions that entails.
 
-Very often it might mean refusing to do something wrong, disagreeing with the superior, taking the pathway of conscientious objection, sticking to our values, never ever willing to do something which is wrong.
+Very often it might mean refusing to do something wrong, disagreeing with a superior, taking the pathway of conscientious objection, sticking to our values, never ever willing to do something which is wrong.
 
 In this way we will be able to put into practice the advice that St. Paul gave to the first Christians in Rome when he alerted them to the risks of accommodating themselves to the pagan customs of the day: "Do not be conformed to this world" (Rom. 12:2).
 
-As students go through secondary school or through third-level education, this principle is something they need to imbibe because along the way, they may come up against all sorts of different challenges---challenges that demand that they take a different pathway to that which everybody else is taking, that unwillingness to participate in things that are wrong, even though they might be legal or they might be accepted behavior: "But for me I don\'t do those things."
+As students go through secondary school or through third-level education, this principle is something they need to imbibe because along the way, they may come up against all sorts of different challenges---challenges that demand that they take a different pathway to that which everybody else is taking, that unwillingness to participate in things that are wrong, even though they might be legal or they might be accepted behavior: 'But for me I don't do those things.'
 
 That refusal to conform can lead us to row against the current \[and\] run the risk of being misunderstood by many of our contemporaries.
 
@@ -143,7 +143,7 @@ A Christian has always to remember that they are the leaven (*cf*. Matt. 13:33) 
 
 God is the light that shines on all created reality and reveals the truth hidden within it. He is the lighthouse whose beacon-beam directs navigators on whichever sea they steer their course.
 
-The Second Vatican Council says, "The Church\...believes that the key, the center, and the purpose of the whole of man\'s history is to be found in its Lord and Master" (*cf*. Vatican II, *Gaudium et spes*, Point 10, December 7, 1965).
+The Second Vatican Council says, "The Church\...believes that the key, the center, and the purpose of the whole of man's history is to be found in its Lord and Master" (*cf*. Vatican II, *Gaudium et spes*, Point 10, December 7, 1965).
 
 Twenty or thirty years ago, in the country in the world that had the lowest maternal mortality rate (which is the mortality rate for women in pregnancy from any cause) was Ireland.
 
@@ -151,7 +151,7 @@ At that time abortion was illegal, which was a bit of an embarrassment to UNICEF
 
 One of the professors who brought about that situation in the country, and put Christian principles into practice and scientific principles in his professional work, told me that when they were training in England in the 1940s and 1950s, when there was a difficult case---a hypertensive mother, an asthmatic mother, a diabetic mother---the treatment was to abort the baby.
 
-He said, "As Catholics we couldn\'t participate in those things. When we came back to Ireland---Catholic country with Catholic laws--- those things were illegal. We had to turn around and learn how to treat the asthmatic mother, and the diabetic mother, and bring her through pregnancy and through labor---which was all the more complicated---and deliver a healthy mother and a healthy baby at the end."
+He said, "As Catholics we couldn't participate in those things. When we came back to Ireland---Catholic country with Catholic laws--- those things were illegal. We had to turn around and learn how to treat the asthmatic mother, and the diabetic mother, and bring her through pregnancy and through labor---which was all the more complicated---and deliver a healthy mother and a healthy baby at the end."
 
 He said that approach, coupled with the high birth rate there was in the country at the time, led to enormous advances in obstetrical medicine, in neonatal medicine, in the management of labor.
 
@@ -161,7 +161,7 @@ That particular hospital became a world center, blazed a trail. His punchline wa
 
 These were very powerful words from an eminent professor of obstetrics.
 
-Our Lord continues to be the cornerstone of every person\'s life. Any building constructed without Christ is built in vain.
+Our Lord continues to be the cornerstone of every person's life. Any building constructed without Christ is built in vain.
 
 We can consider whether the faith we profess is coming to bear more and more influence on our existence, on the way we view the world and mankind, and on the way we behave.
 
