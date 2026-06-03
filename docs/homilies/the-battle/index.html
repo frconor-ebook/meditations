@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- FOUC Prevention: Apply theme and text size before page renders -->
+    <script>
+        (function() {
+            // Apply theme
+            const theme = localStorage.getItem('theme-preference') ||
+                (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', theme);
+            // Apply text size
+            const textSize = localStorage.getItem('text-size-preference');
+            if (textSize === 'large') {
+                document.documentElement.setAttribute('data-text-size', 'large');
+            }
+        })();
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fr. Conor Donnelly Meditations | The Battle</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/meditations/assets/css/style.css">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0BXLC35GR"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-S0BXLC35GR');
+    </script>
+
+
+
+</head>
+<body data-baseurl="/meditations">
+    <header>
+    <nav>
+        <div class="logo">
+            <a href="/meditations/"><img src="/meditations/assets/images/logo-circ.png" alt="Fr. Conor Meditations Logo"></a>
+        </div>
+        <div class="nav-links">
+            <a href="/meditations/" >Home</a>
+            <a href="/meditations/team" >Team</a>
+            <a href="/meditations/connect" >Connect</a>
+        </div>
+        <!-- Header Controls (Theme + Text Size) -->
+        <div class="header-controls">
+            <!-- Theme Toggle Button -->
+            <button
+                class="theme-toggle"
+                id="theme-toggle"
+                aria-label="Toggle dark mode"
+                title="Toggle dark mode">
+                <svg id="theme-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <!-- Sun icon (shown in dark mode) -->
+                    <path class="sun" d="M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12zM11 1h2v3h-2V1zm0 19h2v3h-2v-3zM3.515 4.929l1.414-1.414L7.05 5.636 5.636 7.05 3.515 4.93zM16.95 18.364l1.414-1.414 2.121 2.121-1.414 1.414-2.121-2.121zm2.121-14.85l1.414 1.415-2.121 2.121-1.414-1.414 2.121-2.121zM5.636 16.95l1.414 1.414-2.121 2.121-1.414-1.414 2.121-2.121zM23 11v2h-3v-2h3zM4 11v2H1v-2h3z"/>
+                    <!-- Moon icon (shown in light mode) -->
+                    <path class="moon" d="M17.293 13.293A8 8 0 0 1 6.707 2.707a8.001 8.001 0 1 0 10.586 10.586z"/>
+                </svg>
+            </button>
+            <!-- Text Size Toggle Buttons -->
+            <div class="text-size-toggle" role="group" aria-label="Text size controls">
+                <button id="text-size-normal" class="active" aria-label="Normal text size" title="Normal text size">A</button>
+                <button id="text-size-large" aria-label="Large text size" title="Large text size">A+</button>
+            </div>
+            <!-- Meditation Counter Badge -->
+            <button id="counter-badge" class="counter-badge" aria-label="View reading history" title="View reading history">
+                <span id="counter-number">0</span> read
+            </button>
+        </div>
+    </nav>
+</header>
+
+    <main>
+        <article>
+    <h1>The Battle</h1>
+    <p>By Fr. Conor Donnelly</p>
+
+<p><em>(Proofread)</em></p>
+
+<p><em>In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that You are here, that You see me, that You hear me. I adore You with profound reverence. I ask Your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.</em></p>
+
+<p>We're told in St. John, “Amen, amen, I say to you, unless the grain of wheat falls into the ground and dies, it remains alone. But if it dies, it brings forth much fruit. He that loves his life shall lose it, and he that hates his life in this world will keep it unto life everlasting” (John 12:24–25).</p>
+
+<p>The Christian life should be a warfare. What appears to the world a living death is to the contemplative in the middle of the world an admission to the most perfect spiritual discipline that the Catholic Church has approved, an initiation into the higher life that this earth offers.</p>
+
+<p>The inner meaning of the contemplative life is not seized if a too attentive consideration of its penitential practices distracts the mind from the spiritual drama for which these practices are but as the stage setting.</p>
+
+<p>It belongs to the nature of things, as they actually are, that the Christian life should be a warfare. A warfare it remains for the follower of Christ in the home or outside of it.</p>
+
+<p>Jesus warns His disciples that His coming on earth for the salvation He promised did not mean for them an end of fighting. It was rather the contrary that was the case.</p>
+
+<p>Taking sides with Him means antagonizing all the forces on earth and under the earth that are enraged against Him. The more perfect the adherence to Christ, the more bitter the opposition that is roused by all in oneself and outside of oneself that is not for the Savior.</p>
+
+<p>The contemplative in the middle of the world, by the deliberate choice of that state, espouses the cause of the Redeemer more wholeheartedly than any other and commits themselves to the consequences.</p>
+
+<p>Our Lord said, “Do not think that I came to send peace upon earth. I came not to send peace, but the sword” (Matt. 10:34). That sword has reference not only, nor even primarily, to the external conflicts in which the Church finds itself engaged during all the ages.</p>
+
+<p>It is a sword that penetrates the inmost being of the individual, causing powerful severance there. We're told in St. Paul, “For the word of God is living and effectual, and more piercing than any two-edged sword, and reaching unto the division of the soul and the spirit, of the joints also and the marrow, and is a discerner of the thoughts and intentions of the heart” (Heb. 4:12).</p>
+
+<p>The contemplative in the middle of the world bares their soul to that keen biting blade and bids it to do death to all the thoughts and intentions and ideals that are not for the Christ. Thus the Christian life is an unceasing combat.</p>
+
+<p>If this be true of the minimum of conformity to the standard of the gospel, then the notion of strife must be verified in a preeminent manner in the noblest pattern of Christian life that the Church presents.</p>
+
+<p>The person who engages on the career traced out by the poor man of Assisi enters upon a real war of extermination.</p>
+
+<p>Casting aside everything that might hamper them in the struggle, they set out to war down the self in themselves, even to death.</p>
+
+<p>They engage themselves to make no truce, to enter into no compromise with anything in them that is in opposition to the life of God. They decide that all their free activity should be submissive to and under the control of the divine spirit dwelling in their heart.</p>
+
+<p>Grace henceforth is to be the moving principle in all they determine and all they do in command and in submission.</p>
+
+<p>The great captain, in most vivid fashion, symbolizes this complete death to self that has been resolved upon. It is a symbol of death not accomplished, but yet to be. Many a rude struggle has to be fought before that life in us which Christ says we must lose if we are to find Him is finally destroyed.</p>
+
+<p>Happy are those whom death overtakes with this task accomplished. The evil vitality which is alien to Christ's grace clings to the very roots and fibers of our soul. It is the mass of energetic instincts begotten in us by the first revolt and its painful heritage.</p>
+
+<p>These ever-active instincts aim at appropriation to ourselves and withdrawing from the sovereignty of God our every thought, word, and action.</p>
+
+<p>There is in us a radical tendency to seek and find and save self in all we do and attempt. In a very profound psychological as well as in a true spiritual sense, self-preservation is the basic motive force in fallen nature.</p>
+
+<p>And it manifests itself in the holiest states of life and in the most praiseworthy works.</p>
+
+<p>The aim of the contemplative in the middle of the world is to embrace the trials of their life and sanctify them by their prayer, to make them serve to the paralyzing of this corrupt inclination.</p>
+
+<p>When St. Paul cried out, “I die daily” (1 Cor. 15:31), he gave us to understand that by his life of prayer and labors and suffering, all in him that resisted Christ was being slowly consumed in the fire of divine love, which burned through all the harsh experiences of his life, gladly embraced.</p>
+
+<p>He warred down self until self no longer lived, and the divine life of grace could develop untrammeled in his soul. “I live,” he said, “now not I, but Christ lives in me” (Gal. 2:20).</p>
+
+<p>Little do they know of the stern struggles that takes place in the depths of the souls of those who deliver themselves up to the pursuit of a life in harmony with the beatitudes.</p>
+
+<p>But the cruel, unremitting, relentless war against self never grows easy.</p>
+
+<p>Saint Gregory said, “To leave one's possessions is perhaps not difficult. To leave oneself, that is the greatest test. To abandon what one is demands the highest heroism.”</p>
+
+<p>Only those who have in some measure had experience of it can conceive with what pain this crucifixion of the fallen nature in us is attended.</p>
+
+<p>It dies hardly. And oftentimes, when the tired soul thinks that it is completely dead to self, the corrupt leaven manifests itself once more under a new and still energetic form.</p>
+
+<p>The struggle has to be recommenced and the attack has to be repelled. Many grow tired in the ever-renewed struggle. It is only the brave and resolute few that hold on.</p>
+
+<p>Unceasing vigilance is required to keep the enemy at bay. To succeed finally, it is essential to be firmly resolved to follow God's will in everything and to allow oneself no protest.</p>
+
+<p>The contemplative in the middle of the world who hopes to scale the heights of their vocation must crucify the interior desires and selfish concupiscence of their soul to the point of bearing with equanimity the rejection of their judgments and the thwarting of their will.</p>
+
+<p>This is the price of sanctity. This price is beyond the resources of unaided human virtue to pay. But God undertakes to supply the deficit.</p>
+
+<p>Because it is God himself that calls the contemplative in the middle of the world to this death through which is found life and peace.</p>
+
+<p>He too is interested in overcoming the obstacles that lie on the way of His chosen ones, answering perfectly to His call.</p>
+
+<p>Whatever God does, He does thoroughly. If the soul but learns to submit completely, humbly, unprotestingly to what He arranges for it to experience, it will learn to hate, as Christ bids us do, the old life, and to develop in it the new.</p>
+
+<p>God's divine providence will multiply stroke on stroke until the hard shell of self-sufficiency, selfishness, sensuality, and pride is broken, and one stands revealed to oneself in one's native nothingness and incapacity for all good.</p>
+
+<p>Christ's passion consisted in the crucifixion of His human nature. One who aspires to the close following and imitation of Christ must also allow the undivine tendency of the soul to be consumed in the crucible of suffering.</p>
+
+<p>At intervals, God permits the soul a short breathing space, in which heavenly sweetness and consolation are accorded abundantly.</p>
+
+<p>But the respite is given to provide the soul with an occasion to gather strength and to reorganize her forces for new combats.</p>
+
+<p>Often, poor, shrinking human nature will cry out to God to stay His hand and pause His purifying action.</p>
+
+<p>So too, Jesus had His soul filled with trouble and dismay in the face of the vision of the terrible sufferings that lay before Him.</p>
+
+<p>He too was sorely tempted to plead with His Heavenly Father to save Him from that dreadful hour.</p>
+
+<p>But He refrained from doing so, seeing the purposes for which that hour was to serve and the schemes of sanctification of which it was to be the source. “Now is my soul troubled, and what shall I say? Father, save me from this hour. But for this cause I came unto this hour” (John 12:27).</p>
+
+<p>So too must the courageous imitator of Jesus, overcoming all the repugnances of nature, gather courage to embrace the cross, because it's only through suffering in union with Christ that personal sanctification is wrought.</p>
+
+<p>It's only the cross that can form in us the resemblance of Christ.</p>
+
+<p>If we in our weakness insist on God's staying His hand, our perfection is forfeit.</p>
+
+<p>To bear a more perfect resemblance to Christ than can ordinarily be gained by the common path of Christianity is the object of the mode of life embraced by the contemplative in the middle of the world. They would, like the Gentiles of the last Passover, see Jesus.</p>
+
+<p>In heaven only will He be seen face to face. Here below, the only mode of seeing Him is in the mirror of faith, polished to brightness by intimate prayer.</p>
+
+<p>Seeing Christ, the soul enters into possession of Him, because to see Him is to know Him with the spirit. And for the spirit to know is to possess.</p>
+
+<p>This possessive knowledge precedes love. One cannot know Jesus intimately without loving Him ardently. In this knowledge and the love proceeding from it is found the only real happiness that this earth offers.</p>
+
+<p>It's a foretaste of the paradise and is the hundredfold promised even in this world by our Savior to all those who have left it all for His sake.</p>
+
+<p>All the austerities, then, have no other purpose than to enable us to progress in the science and practice of prayer, and thus to grow in the knowledge and love and friendship of God.</p>
+
+<p>By prayer is developed the interior life. And growth in the interior life is the progress in us of that divine life which Jesus came on earth to bring to us. “I came that they may have life and have it more abundantly” (John 10:10).</p>
+
+<p>In this inward converse between the soul of the creature and that of the divine master, the human person comes more and more under divine influence.</p>
+
+<p>The soul is gradually emptied of itself and becomes little by little penetrated with the life and sanctity of the sacred humanity.</p>
+
+<p>It imbibes the spirit of Jesus.</p>
+
+<p>No longer swayed by self-regarding motives, it learns to move and to act under the movements and inspirations of grace. It comes to entertain in itself the ways of thought and the affections of Jesus.</p>
+
+<p>In the soul is found the accomplishment of the injunction of St. Paul, “For let this mind be in you which was also in Christ Jesus” (Phil. 2:5).</p>
+
+<p>As the process approaches its term, the soul becomes more perfectly deiform and no longer lives its own natural life, but Christ energizes through it.</p>
+
+<p>It becomes an instrument through whose powers Christ reproduces a form of His life on earth. The soul thinks as God thinks and loves with the very love of the Sacred Heart.</p>
+
+<p>So complete is the transformation when the contemplative person realizes the ideal of their life that a mysterious, mystical union is affected between the soul of Christ and the soul of His elect.</p>
+
+<p>This truth is insinuated by the apostle saying, “But he who is joined to the Lord is one spirit” (1 Cor. 6:17).</p>
+
+<p>To become one with Jesus, to become one with Him in the intimate bonds of mystical love, it is in truth a splendid destiny, a vocation of choice.</p>
+
+<p>It is death. A life made up of such moments is but a perpetual dying. Its ends in its coming to be. It has no abiding reality. It has not in it the stamp of the everlasting. It does not count for eternity.</p>
+
+<p>As the scripture picturesquely says, “It is the parting of the air made by the swallows in flight.”</p>
+
+<p>This is the reason why Jesus, who wills that we should know and taste the life that is truly life, bids us hate that dreadful existence.</p>
+
+<p>He would have us fling it from ourselves and stamp out the very embers of it. He makes such repudiation the condition of living that other divine life, which beginning here on earth will not cease, but will be transformed in eternity.</p>
+
+<p>On earth, every pulsation of divine life in us of itself endures eternally, whereas the beast of the purely ungraceful or Adam, a life in us dies in its begetting.</p>
+
+<p>“Whoever shall lose his life for my sake shall preserve it, and he that hates his life in this world keeps it unto life eternal” (Luke 17:33).</p>
+
+<p>But it could be objected, noble as may be the calling of the contemplative person, admirable as may be their heroism, valuable as may be the results for themselves and the pursuit of their soul's perfection, is not such a life after all one of selfishness? What benefit does it confer on mankind at large, or even on the Church?</p>
+
+<p>Those who reason in this fashion have little insight into the laws that rule the invisible world that lies behind the world of sense and human reasonings.</p>
+
+<p>The real and lasting good for the world is wrought in the realm of the supernatural, not in the realm of the natural. But apart from this consideration, is not the example alone of those penitential lives an immense benefit to the world that does no penance, or very little?</p>
+
+<p>The example set by the contemplative person encourages the well-disposed faithful to cling to the exacting morality of the gospel when they are in danger of being fascinated or blinded by the graceless attraction which appeals to them on all sides.</p>
+
+<p>The rude penance of the contemplative is a constant reproach to those who make the pursuit of pleasure the main object of existence.</p>
+
+<p>But the great influence radiated from the contemplative in the middle of the world does not rest there.</p>
+
+<p>Our Lord has said, “Unless the grain of wheat falls into the ground and dies, it remains alone. But if it dies, it brings forth much fruit” (John 12:24).</p>
+
+<p>That grain of wheat of which the gospel speaks signifies the natural talents, the capacities, the dispositions of each soul.</p>
+
+<p>Unless the self-seeking tendency of these natural endowments is destroyed, unless corrupt nature dies, as the language of asceticism has it, a soul is not transformed or supernaturalized.</p>
+
+<p>That soul remains ineffective and barren from a supernatural point of view. It does not leaven the heavy mass of the world. According to the vivid expression of the gospel, that soul remains alone.</p>
+
+<p>Therefore, no matter how great the activity put forth, no matter how brilliant and showy the results, unless this activity is inspired, directed, and animated by the spirit of prayer, and thus has its source in and springs from a truly interior life, it remains in the eyes of God completely sterile.</p>
+
+<p>But when the death of corrupt nature takes place, and penance, prayer, and mortification are the instruments of this death, then the seedling produces much fruit.</p>
+
+<p>It springs up for the interest of many. The seed does not germinate and fructify for itself.</p>
+
+<p>So too, the life of sanctity developed in the soul of the contemplative does not confine its beneficent influence within the halls of the home or the office.</p>
+
+<p>The supernatural vitality that springs from a saintly life subtly penetrates the walls of the home or office and communicates itself to the whole mystical body.</p>
+
+<p>The saintly soul in living for itself necessarily lives for others.</p>
+
+<p>This is so because of the dogma of the mystical body. The health and vigor and vitality of any cell in that body affects favorably the whole organism.</p>
+
+<p>Our divine Savior never intended to confine His action in this world to the 33 years of His mortal life.</p>
+
+<p>There is nothing of the transient in God. Jesus is God as well as man, and the man in Him was hypostatically united with the divine.</p>
+
+<p>Having once lived a human life, acting upon, influencing, and leavening humanity, He decides to make His life among them enduring.</p>
+
+<p>How did He realize that intention, seeing that the humanity He assumed was subject to mortality and had therefore to experience death?</p>
+
+<p>It is to St. Paul that we owe the fullest disclosure of the manner in which Christ realized His purpose.</p>
+
+<p>Christ died in His natural body, but He continues to live on and to act in His mystical body.</p>
+
+<p>On this body, the faithful are the members. Since the life of Christ is divine, He lives in those members in so far as they admit the divine life of grace into themselves.</p>
+
+<p>In none more perfectly than in those whose lives are completely dedicated to God are found the dispositions that favor the inflow of grace.</p>
+
+<p>The more there are of such souls, the greater can be to the world the communication of that plenitude of life that is found in the Christ as its source.</p>
+
+<p>The soul wholly submitted to the spirit and perfectly responsive to the will of God enables Jesus to express Himself freely in redeeming action in many mysterious ways.</p>
+
+<p>They allow Jesus through them to perpetuate His existence effectively on earth.</p>
+
+<p>They are in this way willing instruments in the process of saving the world.</p>
+
+<p>To this life of Christ in His members is bitterly opposed the malignity of Satan. On his side, the chief of the rebel host may be said in a certain sense, in a figure of sense, to incarnate himself in his followers.</p>
+
+<p>Through them, he diffuses his spirit through human institutions. His spirit is compounded of worldliness, sensuality, and pride.</p>
+
+<p>The spirit of Jesus and the spirit of Satan dispute for the souls of men.</p>
+
+<p>Over against the worldliness, the sensuality, and the pride of the satanic army, the contemplative person sets detachment, mortification, and humility.</p>
+
+<p>By the constant and heroic practice of those Christian virtues, the interior soul is resisting and driving back the spirit of evil which menaces the world.</p>
+
+<p>Wherever there are many contemplatives in the world, there the spirit of Jesus reigns and the influence of His enemy wanes.</p>
+
+<p>The contemplatives in the middle of the world are the choice troops of the Christian host, for they press most closely in the footsteps of the great captain.</p>
+
+<p>They reabsorb most readily His spirit. They most perfectly emulate His way of acting.</p>
+
+<p>Such is the purpose of the contemplative in the middle of the world to fulfill in the economy of the Church.</p>
+
+<p>They sanctify themselves. They expiate by their penances the sins of others. And by their holy lives, they stem the tide of evil which is ever threatening to submerge the world.</p>
+
+<p><em>I thank You, my God, for the good resolutions, affections, and inspirations that You have communicated to me during this meditation. I ask Your help to put them into practice. My Immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</em></p>
+
+<p><em>EW</em></p>
+
+<p>From <em>The Voice of a Priest</em>, “The Battle,” by Edward Leen, C.S.Sp. (Sheed &amp; Ward, 1946), pp. 31–41.</p>
+
+</article>
+    </main>
+
+    <footer>
+    <div class="footer-content">
+        <div class="footer-social">
+            <a href="https://whatsapp.com/channel/0029Vb2pjJyGufJ2mE4xvv2F" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Channel">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            </a>
+            <a href="mailto:frconor.ebook@gmail.com" aria-label="Email">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z"/><path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z"/></svg>
+            </a>
+        </div>
+        <p>&copy; 2026 FCD</p>
+    </div>
+</footer>
+
+    <!-- Scroll to Top Button -->
+    <button class="scroll-top" id="scroll-top" aria-label="Scroll to top" title="Back to top">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 15 12 9 6 15"></polyline>
+        </svg>
+    </button>
+
+    <!-- Reading List Modal -->
+    <div id="reading-list-modal" class="modal-overlay" aria-hidden="true" role="dialog" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Your Reading History</h2>
+                <button id="modal-close" class="modal-close" aria-label="Close modal">&times;</button>
+            </div>
+            <div id="reading-list-content" class="modal-body">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/meditations/assets/js/search.js?v=1780449736"></script>
+    <script src="/meditations/assets/js/theme-toggle.js"></script>
+    <script src="/meditations/assets/js/text-size-toggle.js"></script>
+    <script src="/meditations/assets/js/scroll-top.js"></script>
+    <script src="/meditations/assets/js/meditation-counter.js"></script>
+</body>
+</html>
