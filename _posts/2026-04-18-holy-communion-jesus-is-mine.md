@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Holy Communion: Jesus is Mine"
+title: "Holy Communion: Jesus Is Mine"
 ---
 
 By Fr. Conor Donnelly
