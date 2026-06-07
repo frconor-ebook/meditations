@@ -2,6 +2,8 @@
 """CLI tool to shorten Fr. Conor meditation URLs."""
 
 import argparse
+import contextlib
+import io
 import os
 import sys
 
@@ -29,6 +31,11 @@ def main():
         action="store_true",
         help="Disable automatic clipboard copy"
     )
+    parser.add_argument(
+        "-q", "--quiet",
+        action="store_true",
+        help="Print only the bare short URL(s), nothing else (implies --no-copy)"
+    )
 
     args = parser.parse_args()
 
@@ -47,7 +54,13 @@ def main():
 
     results = []
     for url in args.urls:
-        short_url = create_custom_short_url(url, tinyurl_api_token, gemini_api_key)
+        if args.quiet:
+            # Suppress chatty stdout from create_custom_short_url
+            with contextlib.redirect_stdout(io.StringIO()):
+                short_url = create_custom_short_url(url, tinyurl_api_token, gemini_api_key)
+        else:
+            short_url = create_custom_short_url(url, tinyurl_api_token, gemini_api_key)
+
         if short_url:
             print(short_url)
             results.append(short_url)
@@ -55,12 +68,15 @@ def main():
             print(f"Failed to shorten: {url}", file=sys.stderr)
             sys.exit(1)
 
-    # Copy to clipboard (automatic by default)
-    if results and not args.no_copy:
+    # Copy to clipboard (automatic by default; never in quiet mode)
+    if results and not args.no_copy and not args.quiet:
         if CLIPBOARD_AVAILABLE:
             clipboard_text = "\n".join(results)
-            pyperclip.copy(clipboard_text)
-            print("(Copied to clipboard)")
+            try:
+                pyperclip.copy(clipboard_text)
+                print("(Copied to clipboard)")
+            except pyperclip.PyperclipException:
+                print("(Clipboard not available on this system - skipping copy)", file=sys.stderr)
         else:
             print("(Clipboard not available - install pyperclip: pip install pyperclip)", file=sys.stderr)
 
