@@ -1,14 +1,16 @@
 ---
 layout: homily
-title: "Today's Task"
+title: "Today’s Task"
 ---
 
 
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My immaculate mother, Saint Joseph, my father and Lord, my guardian angel, intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 Our Lord advises us in Saint Matthew, "do not be anxious about tomorrow, for tomorrow will be anxious for itself. Let the day's own trouble be sufficient for the day" (Matt. 6:34).
 
@@ -148,6 +150,8 @@ To be faithful in little things, we need to have a great love for the Lord. We h
 
 Our Lady will teach us to appreciate what seems to be of little importance, to care for details. Imagine how Our Lady and Saint Joseph must have taken care of the task of each day. She will help us to make this our approach in family life, in social relations, in the fulfillment of our duties, and in our dealings with God.
 
-*I thank you my God for the good resolutions, affections and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My immaculate mother, Saint Joseph, my father and Lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *EW*
