@@ -31,7 +31,7 @@ These days and hours as we come close to the great mystery of the Incarnation, i
 
 John Paul II liked to say that in Christ we find the meaning and the purpose of our life (*cf*. John Paul II, *Homily*, World Youth Day, August 14, 1993).
 
-We could say very especially that we find the meaning and the purpose of our life in Christ, in Bethlehem. Divine beauty incarnate.
+We could say very especially that we find the meaning and the purpose of our life in Christ, in Bethlehem. Divine beauty Incarnate.
 
 Every year we have new graces to see new things, to look at these events from a new optical angle, to learn from them how to be a better person, a better Christian, a better mother, a better family maker, a better parent, so that we grow also in the effectiveness of that Apostolate in the Home.
 
@@ -61,7 +61,7 @@ So, he begins to look for the solution. He's solution-oriented. He's a problem s
 
 Lord, give me that initiative, that responsibility, that spirit of beginning again, of perhaps thinking out of the box, of creating that family atmosphere.
 
-Help me to thank you for my vocation frequently---my vocation as a home-builder; my vocation to do apostolate in my home and from my home, with my words, with my example of virtue.
+Help me to thank you for my vocation frequently---my vocation as a homebuilder; my vocation to do apostolate in my home and from my home, with my words, with my example of virtue.
 
 Thank you for that vocation you've given to me to try and live like a great human being. That doesn't mean that we *are* great human beings, but that we try to *live* like a great human being, so that our children grow up seeing what that means: leaders of followers.
 
@@ -77,7 +77,7 @@ He told a story that was rather moving. He said, "I was the youngest of five chi
 
 Thinking about this, it's rather moving. Beautiful scene of a young family.
 
-Father Jobab Andraer, who after twenty-two years of being the chaplain of Strathmore School and altar servers and ceremonies, said one of the things he learned over twenty-five years was that kids love fire.
+Father Jobab Andraer, who after twenty-two years of being the Chaplain of Strathmore School and altar servers and ceremonies, said one of the things he learned over twenty-five years was that kids love fire.
 
 Well, this mother gives her five-year-old son a lighted candle. He could have burned down the whole house.
 
@@ -113,9 +113,9 @@ When we look in on Bethlehem these days, we can try to learn those lessons a lit
 
 They give themselves completely. They hold nothing back. It doesn't matter what the difficulties are, what we lack. We give everything. We put our hearts there.
 
-One time St. Josemaría went to visit the first center in Paris when they were starting. They had something like three or four or five cups. One of them had no handle. One of them was chipped. Four of them had saucers, but one of them didn't have a saucer.
+One time St. Josemaría went to visit the first center in Paris when they were starting off. They had something like three or four or five cups. One of them had no handle. One of them was chipped. Four of them had saucers, but one of them didn't have a saucer.
 
-Our Father was going to stay to lunch or to tea or something. So they arranged the cups in such a way that our Father would sit at the head of the table and that he would have a cup, a saucer, and that the cup would be fully integral.
+Our Father (St. Josemaría) was going to stay to lunch or to tea or something. So they arranged the cups in such a way that our Father would sit at the head of the table and that he would have a cup, a saucer, and that the cup would be fully integral.
 
 But as soon as he came into the room, he had a quick look, and with the speed that he had, he noticed immediately that things were organized in such a way that he would have the best of everything. He immediately sat down at the place where there was no saucer and the cup had no handle, and it was chipped a little bit.
 
@@ -129,7 +129,7 @@ From our virtues that we try to put into practice, our children learn and relear
 
 Hopefully, they learn what real charity is, real forgiveness, real patience, so that little by little, they begin to acquire these virtues.
 
-In these very special weeks coming to Christmas, it's a very good time to stimulate the social consciousness and the spirit of the detachment of your children.
+In these very special weeks coming to Christmas, it's a very good time to stimulate the social consciousness and the spirit of detachment of your children.
 
 You see, sometimes, people can have a great social consciousness, but they may have no spirit of poverty. It's a sin of the first world and of the upper echelons of all societies.
 
@@ -161,7 +161,9 @@ Remember also that we are forming future families. The way that our children lea
 
 With our calling, God gives us all the grace that's necessary to carry out our mission that He's given to us, in spite of the difficulties, in spite of our faults.
 
-John Paul II liked to say, "The future of humanity passes through the family." The family is the school of the soul, the school of virtue, the school of love, "the sanctuary of life" (John Paul II, Encyclical, *Centesimus annus,* May 1, 1991). We have to promote a culture of life.
+John Paul II liked to say, "The future of humanity passes through the family" (*cf*. John Paul II, Apostolic Exhortation, *Familiaris consortio*, Point 86, November 22, 1981).
+
+The family is the school of the soul, the school of virtue (*cf*. *ibid*., Point 42 and *Address*, October 28, 1979; *Catechism of the Catholic Church*, Point 1666), the school of love, "the sanctuary of life" (John Paul II, Encyclical, Encyclical, *Centesimus annus,*May 1, 1991). We have to promote a "culture of life" (*ibid*., Encyclical, *Evangelium vitae*, Points 77, 95, March 25, 1995).
 
 First and foremost, we have to try and live all these things in the particular home that God has given to us, cooperating generously in the plans of God, sacrificing ourselves, realizing that everyone has a heart.
 
@@ -175,7 +177,7 @@ I know a couple in another country who sit down for half an hour every week or e
 
 We also have to know how to begin again, so that our families can be, and our home can be, centers that radiate the Gospel message.
 
-People should notice there's something different about our home. You find that the friends of your children like to be in your home. You may find that a bit trying at times, but it can be a wonderful compliment. There's something there that we don't have.
+People should notice there's something different about our home. You find that the friends of your children like to be in your home. You may find that a bit trying at times, but it can be a wonderful compliment. There's something there that \[they\] don't have.
 
 We should try and live a certain sense of family values---family values which ultimately mean family priorities. Families come first, and that means my children, my spouse.
 
