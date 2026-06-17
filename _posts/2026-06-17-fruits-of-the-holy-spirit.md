@@ -217,7 +217,7 @@ Kindness leads us to put our hearts into works of charity. Cold, official charit
 
 About twenty or thirty years ago, there was a big earthquake in San Francisco. I remember the elder President Bush coming on the TV and making a rather curious statement.
 
-Commenting on the earthquake and all the needs of the people in San Francisco, the first thing he said was: "Thank God for the volunteer effort." That was a very humble statement coming from a President of the United States, the most powerful country in the world.
+Commenting on the earthquake and all the needs of the people in San Francisco, the first thing he said was: "Thank \[goodness\] for the volunteer effort." That was a very humble statement coming from a President of the United States, the most powerful country in the world.
 
 He was saying that all the machinery of government, with Army, Air Force, Police, Navy, we cannot hack it. We need all hands on deck.
 
