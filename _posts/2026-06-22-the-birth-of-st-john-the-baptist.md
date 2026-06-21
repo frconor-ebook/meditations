@@ -35,7 +35,7 @@ None of the evangelists have any hesitation in applying to John the beautiful pr
 
 The prophet Isaiah refers first of all to the return of the Jews to Palestine after their captivity in Babylon. He sees Yahweh as the King and Redeemer of His people, walking at their head through the Syrian desert, after so many years in exile, and leading them with sure step back to their native land.
 
-A herald goes before him, as was the ancient custom at the time, to announce his arrival and to see to the repair of the roads, the condition of which in those days nobody was really concerned about, except in very special circumstances.
+A herald goes before him, as was the ancient custom at the time, to announce his arrival and to see to the repair of the roads, the condition of which in those days nobody was really concerned \[about\] except in very special circumstances.
 
 As well as being fulfilled on their return from exile, this prophecy was to take on a still fuller and more profound meaning when it was to be fulfilled a second time with the coming of the Messianic era.
 
@@ -55,13 +55,13 @@ In St. John's Gospel we're told: "He came for testimony, to bear witness to the 
 
 The whole purpose of our life as Christians is to bear witness. St. Josemaría says the Lord uses us "as torches"---our words, our example, our family, our unity of life, our virtue.
 
-These very words that we\'ve just read in St. John's Gospel are written by the very disciple who met Jesus as a result of the specific preparation and indications that he received from John the Baptist.
+These very words that we've just read in St. John's Gospel are written by the very disciple who met Jesus as a result of the specific preparation and indications that he received from John the Baptist.
 
 We're told, "The next day again John was standing with two of his disciples; and he looked at Jesus as he walked and said, 'Behold the Lamb of God!'" (John 1:35-36).
 
 John could not have had any idea of how his words would be taken up in the Mass and repeated at every single Mass in every language for all time all over the planet. It's an example of how God can take little words, little phrases that we may utter under the influence of the Holy Spirit and make those words reverberate in souls for all eternity.
 
-"The two disciples heard him say these words, and they followed Jesus" (John 1:37). At the end of his life, St. John must have had some wonderful memories. He must have been immensely grateful for the fact that John said those words.
+"The two disciples heard him say these words, and they followed Jesus" (John 1:37). At the end of his life, St. John must have had some wonderful memories. He must have been immensely grateful for the fact that John (the Baptist) said those words.
 
 He likes to recall in his Gospel the time he spent with John the Baptist, who was the instrument used by the Holy Spirit to bring him to Jesus, his treasure and his life.
 
@@ -73,7 +73,7 @@ John the Baptist's preaching was in perfect harmony with his austere and mortifi
 
 Those words, accompanied by his exemplary life, made a great impression on the whole district. Soon he was surrounded by a large group of disciples ready to listen to his teachings.
 
-We could ask Our Lord that we might have that unity of life, that our family, among our friends, in our neighborhood, in our profession, people, might see authentic virtue in our life---Christian virtue put into practice, faith put into practice.
+We could ask Our Lord that we might have that *unity of life*, that our family, among our friends, in our neighborhood, in our profession, people, might see authentic virtue in our life---Christian virtue put into practice, faith put into practice.
 
 There was a strong religious movement at that time that stirred the whole of Palestine, because people then, just like today, were thirsting for God. Their expectation of the coming of the Messiah was very strong.
 
@@ -81,7 +81,7 @@ We see proof around us all the time of how people are also hungry for God. They'
 
 St. Matthew and St. Mark say that people came from everywhere: from Jerusalem, from all the towns of Judea (Matt. 3:5; Mark 1:5).
 
-They came also from Galilee, because it was there that Our Lord met his first disciples, who were themselves from Galilee (John 1:40-42).
+They came also from Galilee, because it was there that Our Lord met His first disciples, who were themselves from Galilee (John 1:40-42).
 
 To the men sent from the Sanhedrin, John makes himself known with the words of Isaiah: "I am the voice of one crying in the wilderness" (John 1:23, Isa. 40:3).
 
@@ -89,7 +89,7 @@ He gave testimony of the truth through his life and his words. He showed no sign
 
 He never gave in to the constant pressure of the Pharisees. He gave his life defending God's law against all human convention.
 
-He told Herod: "It's not lawful for you to have your brother's wife" (Mark 6:18). John, in reality, had very little power with which to oppose such a personality. There was a limit to the distance that his voice could reach so as to prepare, for the Messiah, a people well disposed.
+He told Herod: "It's not lawful for you to have your brother's wife" (Mark 6:18). John, in reality, had very little power with which to oppose such a personality. There was a limit to the distance that his voice could reach so as to prepare for the Messiah a people well disposed.
 
 But God's word gathered strength on his lips. In the Second Reading of the Mass, the Liturgy applies to John the Baptist the words of the prophet Isaiah: "He made my mouth like a sharp sword; in the shadow of his hand he hid me" and while Isaiah is thinking, "I have labored in vain, I spent my strength for nothing and vanity," God says to him: "I will give you as a light to the nations, that my salvation may reach to the ends of the earth" (Isa. 49:2,4,6).
 
@@ -103,7 +103,9 @@ John said, "He must increase" (John 3:30). Christ must always be on the increase
 
 Lord, give us the grace to have a greater awareness of our nothingness, our miseries, our wretchedness, of where we would be if you were ever to let us go from your hand, or if we were to let go of your hand.
 
-The mission of the forerunner is to disappear, to take second place, when the one he announces has arrived. There are many examples of great men in history who knew how to fulfill well that role of being in second place, and also who knew well how to disappear at the right moment.
+The mission of the forerunner is to disappear, to take second place, when the one he announces has arrived.
+
+There are many examples of great men in history who knew how to fulfill well that role of being in second place, and also who knew well how to disappear at the right moment.
 
 John Chrysostom says, "I myself think that this is why God allowed John to suffer an early death, so that once he had disappeared all the fervor of the crowd would be directed towards Christ rather than being shared between the two" (John Chrysostom*, Homilies on St. John's Gospel*).
 
@@ -123,7 +125,7 @@ Deeply humble, the only thing that John wants is the glory of God. He openly pro
 
 Beside Christ, John considers himself unworthy of offering even the most humble of services, the sort of tasks generally reserved for slaves of the lowest level, such as carrying the master's baggage or undoing the straps of his sandals.
 
-Beside the sacrament of Baptism instituted by Our Lord, compared to that, his baptism is no more than water, a symbol of interior cleanliness that those who awaited the Messiah are to effect in their hearts. Christ's Baptism is the Baptism of the Holy Spirit, who purifies in ways similar to fire.
+And also, the sacrament of Baptism instituted by Our Lord, compared to that, his baptism is no more than water, a symbol of interior cleanliness that those who awaited the Messiah are to effect in their hearts. Christ's Baptism is the Baptism of the Holy Spirit, who purifies in ways similar to fire (*cf*. Cyril of Alexandria, *Catechesis*).
 
 We can look again at John the Baptist, a man of firm character, as Jesus reminds the crowds who listen to him: "What did you go out into the desert to see? A reed bending in the wind?" (Matt. 11:7).
 
@@ -159,7 +161,7 @@ John's message of repentance was very practical. His message of "good news" insp
 
 We can ask Our Lady, the Queen of the Apostles, that she might help us to take a feather from the book of John the Baptist and learn how to be better apostles.
 
-We\'re told in *The Forge*, "It is not pride, but fortitude, when you make your authority felt, casting out what needs to be cast cut out, when the fulfillment of the Holy Will of God demands it" (J. Escrivá, *The Forge*, Point 884).
+We're told in *The Forge*, "It is not pride, but fortitude, when you make your authority felt, casting out what needs to be cast cut out, when the fulfillment of the Holy Will of God demands it" (J. Escrivá, *The Forge*, Point 884).
 
 Mary, may you help us to be the same sort of witnesses as John the Baptist was: authentic, daring, full of fortitude, with a great faith and hope in the great realities that are to come.
 
