@@ -13,7 +13,7 @@ By Fr. Conor Donnelly
 
 "And Jesus went through the cities and towns, teaching and making his journey to Jerusalem. And a certain man said to him, 'Lord, are there few that are saved?' But he said to them: 'Strive to enter by the narrow gate; for many, I say to you, shall seek to enter, and shall not be able" (Luke 13:22-24).
 
-There are many occasions in the Gospel where Our Lord gives us this message in all sorts of different ways: a message that He wants us to struggle, to try to be better, to be perfect as our Heavenly Father is perfect, to put virtues into practice in an ordinary way, in the ordinary circumstances of everyday life.
+There are many occasions in the Gospel where Our Lord gives us this message in all sorts of different ways: a message that He wants us to struggle, to try to be better, to be perfect as our Heavenly Father is perfect (*cf*. Matt. 5:48) to put virtues into practice in an ordinary way, in the ordinary circumstances of everyday life.
 
 He seems to emphasize again and again that that demands effort, demands fortitude, toughness. "If your hand is an occasion of sin to you, cut it off" (*cf*. Matt. 18:8).
 
@@ -39,7 +39,7 @@ When they were asked why, they said, "Jackson was never the best in his class. H
 
 But that's exactly where they knew he was going places. When the journalist asked what they meant, they said, "After losing the first wrestling match, he would immediately challenge the same opponent to a second match. And when he lost that one, he would challenge him to a third. And when he lost that one, he would challenge him to a fourth.
 
-"At that point, the opponent was usually so confused and worn out, and Jackson eventually won the match." They said that's how he was with everything.
+At that point, the opponent was usually so confused and worn out, and Jackson eventually won the match. They said that's how he was with everything.
 
 Sometimes being a wise steward means not giving up, hanging in there, staying in the ring. St. Paul says in his writings, "We have to put on the armor of God so that you may be able to stand against the deceits of the devil" (Eph. 6:11).
 
@@ -61,7 +61,7 @@ Our Lord also told us the secret of charity: "Greater love than this no one has,
 
 Our Lord showed us what He meant by that when He died on the Cross. It wasn't just nice words.
 
-Often it's in the moments of difficult struggle, of fight, of hanging in there, that we grow in our virtue.
+Often, it's in the moments of difficult struggle, of fight, of hanging in there, that we grow in our virtue.
 
 Pope Benedict has liked to say, "Without the cross there is no transformation; and with the cross everything is transformed" (*cf*. Benedict XVI, *Speech*, July 25, 2005).
 
@@ -75,7 +75,7 @@ St. Josemaría liked to say that what we need \[to be happy\] "is not an easy li
 
 A student in a university was asked one time, "What subjects are you taking next year?"
 
-He said, "I'm taking Turkish, music and architecture."
+He said, "I'm taking Turkish, music, and architecture."
 
 And their questioner asked him, "Why, do you want to be a choir master in a Turkish mosque?"
 
@@ -87,7 +87,7 @@ This is the struggle that God wants for me. This is my pathway to holiness.
 
 The number of times that I fail in going through the narrow gate and have to come back and start again---it doesn't matter. That's not important. It's how we struggle that's important: our perseverance, our faithfulness, our humility, our order.
 
-St. Josemaría liked to say that there are no saints on earth. We all need to struggle, and in the area and in the way that God has placed for us. That's where He wants us to struggle.
+St. Josemaría liked to say that there are no saints on earth (*cf*. J. Escrivá, *Friends of God*, Point 5). We all need to struggle, and in the area and in the way that God has placed for us. That's where He wants us to struggle.
 
 The *Catechism of the Catholic Church* says, "The way of perfection passes by way of the Cross. There is no holiness without renunciation and spiritual battle" (*Catechism*, Point 2015).
 
@@ -131,7 +131,9 @@ That sort of appreciation can lead us to be humble and to be ready to start agai
 
 It leads us to look to the future, keep our eyes on the horizon, without ever being discouraged, particularly with our own shortcomings.
 
-We're told in the *Furrow*: "I'm going to summarize your clinical history: here I fall, and there I get up. The latter is what matters. ---So continue with that interior struggle, even though you go at the pace of the tortoise. Forward!
+We're told in the *Furrow*: "I'm going to summarize your clinical history: here I fall, and there I get up. The latter is what matters.
+
+"---So continue with that interior struggle, even though you go at the pace of the tortoise. Forward!
 
 "You know well, my son, where you can end up, if you don't fight: one depth \[calls\] another and another" (J. Escrivá, *Furrow*, Point 173).
 
@@ -145,7 +147,7 @@ The life of the Christian should be a life of continuous effort. Our place is at
 
 These can be great moments of spiritual bonanza: narrow gates. God asks us for difficult things because He wants to give us greater things.
 
-First and foremost, we have to try and fulfill the norms of our *plan of life* "in season and out of season." When there are exams, when there are deadlines, when there are reports to be submitted, how we're travelling and there's a project to be done.
+First and foremost, we have to try and fulfill the norms of our *plan of life* "in season and out of season"---when there are exams, when there are deadlines, when there are reports to be submitted, how we're travelling and there's a project to be done.
 
 We're not just fair-weather Christians. Our spiritual life comes first before all of these things.
 
@@ -155,7 +157,7 @@ Our Lord sometimes demands a little. Then He can demand a lot. He wants us to st
 
 I often think one of the things that John Paul II could have done---he didn't, but he could have---was to rename those three stations of the Cross where Our Lord falls down.
 
-He falls the first time, and He falls the second time, and He falls the third time. He could have renamed them, that Jesus got up the first time, and He got up the second time, and He got up the third time.
+He falls the first time, and He falls the second time, and He falls the third time. He could have renamed them: that Jesus got up the first time, and He got up the second time, and He got up the third time.
 
 The mirror image of our life: to be always getting up and starting again, showing people around us that that's what has to be done, that's what God is asking of us.
 
@@ -163,11 +165,11 @@ If we struggle to overcome the obstacles, if we make good use of the sacraments 
 
 Our soul will begin to love what Christ loves, to reject what He objects to, and we'll have a zeal for holiness.
 
-The soul will learn to live facing God at all moments and circumstances: in our work, in our family, in our rest, in social relations. It will lead us to love the world passionately, to bring it to Christ.
+The soul will learn to live facing God at all moments and circumstances: in our work, in our family, in our rest, in social relations. It will lead us to "love the world passionately" (*cf*. J. Escrivá, *Conversations*, Points 113-123). to bring it to Christ.
 
 It will help us to have a great *unity of life*. And the soul will easily recollect itself to talk with God, following Christ's example, who would get away to pray on His own (Mark 1:35, Luke 5;16, 6:12-13, Mark 6:46, Matt. 14:23, Matt. 26:36-46).
 
-We're told in *The Way*: "Learn to refer every event to him, and to relate to him in joy, in need, and when undergoing trials, knowing that the Lord sees us, hears us, loves us, and helps us" \[attributed to St. Josemaría\].
+We're told \[in *The Way*\]: "Learn to refer every event to him, and to relate to him in joy, in need, and when undergoing trials, knowing that the Lord sees us, hears us, loves us, and helps us" \[attributed to St. Josemaría\].
 
 If we try to struggle to overcome the obstacles, that will lead us also to be charitable with everyone, because we will see Christ in this person and that person. We see His blood flowing through their veins.
 
@@ -185,7 +187,7 @@ Often God teaches us more things in periods of failure than in periods of succes
 
 The number of times we fail is not important. What is important is getting up, keeping going.
 
-Every day after our *examination of conscience*, we should try to have some small thing that we try and improve in the following day. St. Gregory the Great said, "It's not enough to want to do things well. We must be ready to accept the consequences, which sometimes are costly, in order to behave as a Christian."
+Every day after our *examination of conscience*, we should try to have some small thing that we try and improve in the following day. St. \[Josemaría\] said, "It's not enough to want to do things well" (*cf*. J. Escrivá, *Christ Is Passing By*, Point 50). We must be ready to accept the consequences, which sometimes are costly, in order to behave as a Christian.
 
 We have to do things right. We have to be honest. Have our hands above the table. Be transparent. Know how to talk clearly about all the things that worry us. It's not just a question of having nice desires. We must be ready to accept the consequences.
 
