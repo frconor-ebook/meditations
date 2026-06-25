@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "The Anniversary of the First Three Priests of the Prelature"
+title: "The Anniversary of the Ordination of the First Three Priests of the Prelature"
 ---
 
 By Fr. Conor Donnelly
@@ -11,7 +11,7 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"Now therefore," we're told in the Book of Exodus, "if you obey my voice and keep my covenant, you shall be my treasured possession out of all the peoples. Indeed, the whole earth is mine, but you shall be for me a priestly kingdom and a holy nation" (Ex. 19:5-6).
+"Now, therefore," we're told in the Book of Exodus, "if you obey my voice and keep my covenant, you shall be my treasured possession out of all the peoples. Indeed, the whole earth is mine, but you shall be for me a priestly kingdom and a holy nation" (Ex. 19:5-6).
 
 Today is the anniversary of the ordination of the first three priests of the Prelature of Opus Dei.
 
@@ -19,7 +19,7 @@ In 1943, St. Josemaría founded the Priestly Society of the Holy Cross made up e
 
 But to help them better, priests with the spirit of Opus Dei were needed, priests who knew the spirit and lived the message, priests who came from the lay members of the Work.
 
-The first members of the Priestly Society were numerary members. They are: now Blessed Álvaro del Portillo, Don José Luis Músquiz, Don José Marí Hernández Garnica.
+And so, the first members of the Priestly Society were numerary members. They were: now Blessed Álvaro del Portillo, Don José Luis Músquiz, Don José Marí Hernández Garnica.
 
 All of these three, their processes of beatification are already ongoing, and Don Álvaro is already a Blessed.
 
@@ -43,7 +43,7 @@ It also helps them to foster vocations for the diocesan priesthood, to keep a lo
 
 It also reminds them that they have to sanctify themselves in and through their professional work, which in this case is their ministry as a priest. They try to take good care of their churches. They try to serve their parishioners. They try to accompany people, bringing them spiritual comfort through the sacraments, and where possible, alleviating their material needs, as the Church has always done.
 
-You could say that the Priestly Society encourages them to have a big heart to welcome everyone and to serve each one in their own individual case with their own individual needs.
+You could say that the Priestly Society encourages them to have a big heart to welcome everyone and to serve each one in their own individual case and with their own individual needs.
 
 When St. Josemaría was preparing the first three priests for ordination, he said, "I took very good care of their formation. I got them the best teachers that I could find. Because of that, I've always taken great pride in their intellectual preparation, because of the apostolic activity that they have to perform."
 
@@ -81,7 +81,7 @@ The Book of Isaiah says, "...but you shall be called priests of the Lord. You sh
 
 St. Josemaría wanted today to be a day of special prayer for priests, not just for priests of the Prelature, although obviously that should be high on our list, but for priests of the universal Church, for future priestly vocations.
 
-That's why the Prelature of Opus Dei plays a very important role in each diocese, in each country, trying to also foster vocations for the diocesan seminary, or looking after the seminarians or the deacons or the priests who are there, or taking care with the spiritual formation of all the priests of the diocese, young and also not so young, so that they can live a very vibrant priesthood.
+That's why the Prelature of Opus Dei plays a very important role in each diocese, in each country, trying also to foster vocations for the diocesan seminary, or looking after the seminarians or the deacons or the priests who are there, or taking care with the spiritual formation of all the priests of the diocese, young and also not so young, so that they can live a very vibrant priesthood.
 
 The spirit of Opus Dei is meant to permeate into every last parish, into every last place where there are diocesan priests. St. Peter says, "Like living stones, let yourselves be built into a spiritual house to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ" (1 Pet. 2:5).
 
@@ -89,13 +89,13 @@ In many countries like this one, priests, especially rural priests, don't enjoy 
 
 For them to get to retreats or to seminars that foster their formation, very often it's not within their reach. They need a lot of help from lay people.
 
-If you, with your friends or in your parish, can help, little by little, to send your parish priest or your local seminarian to a retreat every year or to a seminar, that greatly enhances its formation in the course of time.
+If you, with your friends or in your parish, can help, little by little, to send your parish priest or your local seminarian to a retreat every year or to a seminar, that greatly enhances his formation in the course of time.
 
 The Holy See has come out with a number of documents in the last twenty or thirty years, all about priests, very concerned for the ongoing formation of priests. As lay people, we can do an awful lot to foster that.
 
 St. Peter says again, "But you are a chosen race, a royal priesthood, a holy nation, God's own people, in order that you may proclaim the mighty acts of him who called you out of darkness into his marvelous light" (1 Pet. 2:9).
 
-In Kenya at the moment, there are about 1000 diocesan seminarians. That's a huge number. It augurs very well for the future.
+In Kenya at the moment, there are about 1,000 diocesan seminarians. That's a huge number. It augurs very well for the future.
 
 Many countries in Africa have similar numbers. Then, the battle of formation is the next big challenge that's there.
 
@@ -105,11 +105,11 @@ But they are called to obey, to realize this is where the Holy Spirit wants me t
 
 He's also called to live a great priestly soul, which means to practice the virtues of Christ on the Cross: generosity, sacrifice, obedience, service, humility.
 
-We're told in the Preface of the Mass, "Through his Cross and resurrection he freed us from sin and death, and he's called us to the glory that has made us a chosen race, a royal priesthood, a holy nation, a people set apart. Everywhere we proclaim your mighty works, for you have called us out of darkness into your wonderful light" (*cf. Roman Missal*, Preface I of Sundays in Ordinary Time).
+We're told in the Preface of the Mass, "Through his Cross and Resurrection he freed us from sin and death, and he's called us to the glory that has made us a chosen race, a royal priesthood, a holy nation, a people set apart. Everywhere we proclaim your mighty works, for you have called us out of darkness into your wonderful light" (*cf. Roman Missal*, Preface I of Sundays in Ordinary Time).
 
 The parish priest, through his preaching and teaching, forms thousands of souls in the parish, gives them example, reaches out to them, opens the gates of heaven for them.
 
-In the Preface of the Holy Eucharist we're told, "For he is the true and eternal Priest who established this unending sacrifice. He offered himself as a victim for our deliverance and told us to make this offering in his memory. As we eat this Body which he gave for us we grow in strength. As we drink his Blood which he poured out for us, we are washed clean" (*cf*. *Roman Missal*, Preface I of the Most Holy Eucharist).
+In the Preface of the Holy Eucharist we're told, "For he is the true and eternal Priest who established this unending sacrifice. He offered himself as a victim for our deliverance and told us to make this offering in his memory. As we eat his Body which he gave for us we grow in strength. As we drink his Blood which he poured out for us, we are washed clean" (*cf*. *Roman Missal*, Preface I of the Most Holy Eucharist).
 
 Try and be close to your parish priest or the priests of your parish. Be kind to them. Invite them to your home for a meal sometimes. Try and remember their birthdays. Remember them at Christmas, maybe on the anniversary of their priestly ordination.
 
@@ -117,7 +117,7 @@ I can tell you that parish priests feel enormous support from parishioners who p
 
 That's why helping your local priest to get to those means of formation can help him to begin and to begin again in his priesthood at the different stages of his life. Through the formation that people receive from the Priestly Society, there are many cases of elderly retired priests who have sort of retired a little bit from activity, but who rejuvenate again and discover a new life in their later years. They come back to living a very full priesthood with a lot of activity.
 
-"At the Last Supper," we're told in the second Preface of the Holy Eucharist, "as he sat at table with his apostles, he offered himself to you as the spotless Lamb, the acceptable gift that gives you perfect praise" (*cf*. *Roman Missal*, Preface II of the Most Holy Eucharist). Christ has given us this memorial of His Passion to bring its saving power until the end of time.
+"At the Last Supper," we're told in the Second Preface of the Holy Eucharist, "as he sat at table with his apostles, he offered himself to you as the spotless Lamb, the acceptable gift that gives you perfect praise" (*cf*. *Roman Missal*, Preface II of the Most Holy Eucharist). Christ has given us this memorial of His Passion to bring its saving power until the end of time.
 
 The priest is ordained to administer the sacraments. He's ordained to say Mass. The Second Vatican Council has said that the Mass has to be the "source and summit" of his whole spiritual life (Vatican II, *Lumen gentium*, Chapter II, November 21, 1964).
 
@@ -131,7 +131,7 @@ If you live in a country where there have been many churches or convents or scho
 
 And if you have any trouble transporting them here, let me know. They'll be received with open arms. Everything is useful: linens, vestments. In that way, you help rural priests here to foster vocations that may eventually be the great missionaries of the future.
 
-As priests were called to spend ourselves for souls, have a desire to give doctrine and to direct souls, a desire to co-redeem, to be with Christ on the Cross.
+As priests, we're called to spend ourselves for souls, have a desire to give doctrine and to direct souls, a desire to co-redeem, to be with Christ on the Cross.
 
 Pray for your parish priest, that he may spend time in the Confession, an aspect of priestly life that St. Josemaría wanted to encourage very much. Encourage priests to spend hours there.
 
@@ -175,7 +175,7 @@ Whenever we see something or hear something that is not as right as it should be
 
 There have been scandals or misdemeanors or all sorts of things in the history of the Church as a logical testimony of the fact that the Church is made up of ordinary people with a wounded human nature. We're all capable of the most terrible things. But instead of criticizing or complaining, our reaction should be to have deeper desires to be better.
 
-With the feast day of St. Josemaría tomorrow, that\'s one request we could make of him with his great priestly soul. May you give me, St. Josemaría, the grace to have deeper desires of personal holiness, so that wherever I am, wherever God has placed me, I might lead in holiness.
+With the feast day of St. Josemaría tomorrow, that's one request we could make of him with his great priestly soul. May you give me, St. Josemaría, the grace to have deeper desires of personal holiness, so that wherever I am, wherever God has placed me, I might lead in holiness.
 
 Lead in holiness in my family. Lead in holiness in carrying the cross in my profession, in my work, with this sickness, with this financial situation, and to find my peace and my serenity and my joy in the Cross of Christ, because that's what it means to have a priestly soul.
 
@@ -185,7 +185,7 @@ When we pray for priests today, we can pray for their fidelity: fidelity to the 
 
 "He is the true light that comes into the world" (John 1:9). Every soul is hungry for that light, for that truth, for that beauty that can only be found in Christ.
 
-Each priest is a bearer of that light. We can pray for souls and for priests that might have the zeal for souls that stimulates them to generosity in their daily apostolate: to bring Communion to the sick, to be available to anoint the sick, to be generous in the hours that they dedicate to the confessional box---in particular, to hearing the Confessions of small children, developing those souls, forming that conscience, forming the future fathers and mothers of society, and maybe the future religious vocations. Often, after the Mass, the greatest work that a priest does is in the confessional box.
+Each priest is a bearer of that light. We can pray for souls and for priests, that they might have the zeal for souls that stimulates them to generosity in their daily apostolate: to bring Communion to the sick, to be available to anoint the sick, to be generous in the hours that they dedicate to the confessional box---in particular, to hearing the Confessions of small children, developing those souls, forming that conscience, forming the future fathers and mothers of society, and maybe the future religious vocations. Often, after the Mass, the greatest work that a priest does is in the confessional box.
 
 A priest has to try and see what tasks he can delegate to lay people. The 21st century is the era of the laity. It's an era when the priest is called to focus much more on the supernatural things.
 
@@ -195,17 +195,17 @@ With St. Paul, we could ask that priests might fill their life with prayer, that
 
 "No longer do I call you servants, but I have called you friends" (John 15:15). And that friendship and closeness to Jesus, hopefully, will lead to a deeper apostolic concern. It will lead to initiatives, new ideas, new horizons, new possibilities.
 
-The prayerful priest will seize the potential in the parish. Like the Cure d\'Ars, the patron saint of all parish priests, he gives himself and spends himself to make all that potential become a reality.
+The prayerful priest will seize the potential in the parish. Like the Cure d'Ars, the patron saint of all parish priests, he gives himself and spends himself to make all that potential become a reality.
 
 We're told in the *Furrow*, "Your task as a Christian citizen is to help see Christ's love and freedom preside over all aspects of modern life: culture and the economy, work and rest, family life and social relations" (J. Escrivá, *Furrow*, Point 302).
 
 The priest is called to try and help those things to happen in the parish through his preaching, through the administration of the sacraments, so that he makes Christ available in the lives of all the people that live in the parish.
 
-In particular, that he thinks and dreams of what the parish has to be 30, 40, 50 years from now.
+In particular, that he thinks and dreams of what the parish has to be thirty, forty, fifty years from now.
 
 We are building up the future Church by building up the domestic Church, by empowering fathers and mothers of families to be great people, to live as great citizens, to live virtuous lives, to have easy access to the grace of God, so that they can lift up the whole spiritual temperature of the home and the whole virtuous tone of their lives.
 
-We're told in *The Forge*, "The Lord wants his children, those of us who have received the gift of faith, to proclaim the original optimistic view of creation, the love for the world which is at the heart of the Christian message. There should always be enthusiasm in your professional work and in your effort to build up the earthly city" (J. Escrivá, *The Forge*, Point 703).
+We're told in *The Forge*, "The Lord wants his children, those of us who have received the gift of faith, to proclaim the original optimistic view of creation, the love for the world which is at the heart of the Christian message. So there should always be enthusiasm in your professional work, and in your effort to build up the earthly city" (J. Escrivá, *The Forge*, Point 703).
 
 That means that each one of us embraces the cross generously. We see that wherever it is that Our Lord has placed us in this particular moment, this is where He wants me to be, this is the will of God for me.
 
