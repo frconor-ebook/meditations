@@ -16,7 +16,7 @@ if [ ! -f "$input_docx" ]; then
 fi
 
 # First, extract metadata to get the title
-metadata=$(pandoc --standalone --template=default "$input_docx" --to=plain 2>/dev/null)
+metadata=$(pandoc --standalone --template=default "$input_docx" --to=plain --wrap=none 2>/dev/null)
 
 # Extract title carefully without using regex for removal
 raw_title=$(echo "$metadata" | head -n 1)
