@@ -220,4 +220,4 @@ John Paul II liked to call Our Lady "the woman of the Eucharist." He liked to re
 
 *EW*
 
-From *Fire & Light: Learning to Receive the Gift of God, Chapters 7, 8 & 10* by Jacques Philippe (Scepter, 2026).
+From *Fire & Light: Learning to Receive the Gift of God, Chapters 7, 8 & 10* by Jacques Philippe (Scepter, 2016).
