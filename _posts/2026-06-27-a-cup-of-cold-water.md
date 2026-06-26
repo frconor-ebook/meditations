@@ -23,19 +23,19 @@ With this and with other examples that Our Lord gives to us, He speaks to us abo
 
 St. Josemaría liked to say, "A little act, done for love, is worth so much!" (Josemaría Escrivá, *The Way*, 814).
 
-Mother Teresa has said, "A few words of kindness may be very simple and very brief, but their echoes are endless."
+Mother Teresa has said, "A few words of kindness may be very simple and very brief, but their echoes are endless" (*cf*. Teresa of Calcutta, *The Best Gift is Love: Meditations*).
 
 On one occasion Our Lord sat up to the Temple treasury and He watched people putting money into the receptacle for alms. The scene takes place in one of the porticos, the so-called Treasure Chamber or Hall of Offerings. The days of the Passion were almost upon Him.
 
-Our Lord didn\'t comment at all on the many people who contributed large amounts. But He saw a woman come up who was dressed in the typical garb of widows, and who was obviously poor (Mark 12:41).
+Our Lord didn't comment at all on the many people who contributed large amounts. But He saw a woman come up who was dressed in the typical garb of widows, and who was obviously poor (Mark 12:41).
 
 She had perhaps waited for the crowd to thin out before depositing two small coins there. These coins had the least value of any in circulation at the time.
 
 St. Mark explains the real value of these particular units of currency for the benefit of his non-Jewish readers, to whom his Gospel was principally addressed. He wants everyone to know how very little they were worth.
 
-In men\'s eyes that anonymous offering had very little value. The two coins were worth just a small amount. "That coin," St. Mark says, "was worth a quarter" (Mark 12:42). It\'s like a tenth of a denarius, which was the basic monetary unit; a denarius was a day\'s wages for a farm worker. And so, a quarter would scarcely buy anything.
+In men's eyes that anonymous offering had very little value. The two coins were worth just a small amount. "That coin," St. Mark says, "was worth a quarter" (Mark 12:42). It's like a tenth of a denarius, which was the basic monetary unit; a denarius was a day's wages for a farm worker. And so, a quarter would scarcely buy anything.
 
-If anyone was keeping a record of the offerings made that day in the temple, he probably would have thought it was not worth recording that widow\'s contribution. But we see that in fact this was the most valuable contribution of all.
+If anyone was keeping a record of the offerings made that day in the temple, he probably would have thought it was not worth recording that widow's contribution. But we see that in fact this was the most valuable contribution of all.
 
 It would be so pleasing to God that Our Lord called together His disciples, who were scattered around the place, so that they might be taught the lesson to be learned from this widow.
 
@@ -45,23 +45,27 @@ Those tiny pieces of copper could scarcely be heard falling into the treasury bo
 
 It often happens that what God considers important is very different from what men consider important. His standard of measurement and ours are not the same.
 
-We are generally impressed by the big gesture, by unusual things of the kind that attract everyone\'s attention. But God is moved by little details filled with love---\"a cup of cold water"---which are within the radius of action of everyone, even small children.
+We are generally impressed by the big gesture, by unusual things of the kind that attract everyone's attention. But God is moved by little details filled with love---"a cup of cold water" (Matt. 10:42)---which are within the radius of action of everyone, even small children.
 
-Of course, He\'s also moved by happenings that we consider to be very important, but only when they\'re carried out with the same spirit of rectitude of intention, of humility, and of love.
+Of course, He's also moved by happenings that we consider to be very important, but only when they're carried out with the same spirit of rectitude of intention, of humility, and of love.
 
-The apostles, who later were to be the very foundation of the Church, did not forget the lesson they were taught that day. That woman has taught all of us to touch God\'s heart every day in the only way that most of us can: through little things.
+The apostles, who later were to be the very foundation of the Church, did not forget the lesson they were taught that day. That woman has taught all of us to touch God's heart every day in the only way that most of us can: through little things.
 
 In *The Way*, Point 824, St. Josemaría says, "Have you noticed how human love consists of little things? Well, divine Love also consists of little things."
 
-In these passages of the Gospel, we learn the true value of these things. We can turn everything that happens, no matter how inconsequential it may seem, into something very pleasing to God. And because it\'s pleasing to Him, it\'s turned into something of great value. Only those things that we make pleasing to God have any true and eternal value.
+In these passages of the Gospel, we learn the true value of these things. We can turn everything that happens, no matter how inconsequential it may seem, into something very pleasing to God. And because it's pleasing to Him, it's turned into something of great value. Only those things that we make pleasing to God have any true and eternal value.
 
-We could consider in our prayer the vast number of opportunities that present themselves to us. We're told by St. Francis de Sales, "Great opportunities to serve God seldom arise, but little ones are frequent; \[and our Lord himself has told us that\] 'he who is faithful over a few things will be placed over many' (Luke 16:10). Do all things in the name of God, and you will do all things well, provided you know how to fulfill your duties properly.
+We could consider in our prayer the vast number of opportunities that present themselves to us. We're told by St. Francis de Sales, "Great opportunities to serve God seldom arise, but little ones are frequent."
 
-"Then, whether you eat or drink, whether you sleep, or take recreation, or turn the spit of an oven, you will profit greatly in God\'s sight by doing all these things, because God wishes you to do them" (St. Francis de Sales, *Introduction to the Devout Life*).
+We're also told, "He who is faithful over a few things will be placed over many" (Luke 16:10).
 
-Often, it\'s the small things that make a job perfect, worthy of being offered to God: the double-checking of an email or a WhatsApp message that we write, the looking back to double-check on a room that we\'ve just cleaned, or a floor we\'ve just polished, or a table we\'ve just laid, or some little professional job that we have done.
+St. Francis de Sales \[continues\], "Do all things in the name of God, and you will do all things well, provided you know how to fulfill your duties properly.
 
-Perfection is in the details. It\'s not enough that what we\'re doing is good, whether it\'s work or prayer or football or hockey or volleyball. It also has to be well finished.
+"Then, whether you eat or drink, whether you sleep, or take recreation, or turn the spit of an oven, you will profit greatly in God's sight by doing all these things, because God wishes you to do them" (St. Francis de Sales, *Introduction to the Devout Life*).
+
+Often, it's the small things that make a job perfect, worthy of being offered to God: the double-checking of an email or a WhatsApp message that we write, the looking back to double-check on a room that we've just cleaned, or a floor we've just polished, or a table we've just laid, or some little professional job that we have done.
+
+Perfection is in the details. It's not enough that what we're doing is good, whether it's work or prayer or football or hockey or volleyball. It also has to be well finished.
 
 "For there to be virtue," St. Thomas Aquinas teaches, "it is necessary to attend to two things: to what is being done, and also to the way it is being done" (*cf*. Thomas Aquinas, *Quodlibet*, IV).
 
@@ -69,33 +73,33 @@ As far as the way it is being done is concerned, the final touches with the chis
 
 On the other hand, shoddy workmanship, work which is done clumsily or carelessly, is a sign of spiritual laziness or of lukewarmness in a Christian who should be sanctifying himself through his daily work.
 
-We\'re told in the Book of Revelation, "I know your works: you have the name of being alive, and you are dead. \... For I have not found your works perfect in the sight of my God" (Rev. 3:1-2).
+We're told in the Book of Revelation, "I know your works: you have the name of being alive, and you are dead. \... For I have not found your works perfect in the sight of my God" (Rev. 3:1-2).
 
 The very nature of our Christian vocation demands that we take care of little things. A teacher who picks up a piece of paper off the floor may give a greater lesson to all his students, or to anybody who happens to be in that particular corridor or place, than all the other classes he may have given in his whole professional lifetime, because with that little gesture we teach the value of order, of tidiness, but also the value of the small things.
 
 Our aim should be to imitate Our Lord during His years in Nazareth, those long years of work, of family life, of friendly relationships with His countrymen.
 
-Doing little things with love for God\'s sake demands attention, sacrifice, and generosity. A single isolated little detail may not in itself be very important. St. Augustine says, "What is small is small, but he who is faithful in small things is great" (St. Augustine, *On Christian Doctrine*).
+Doing little things with love for God's sake demands attention, sacrifice, and generosity. A single isolated little detail may not in itself be very important. St. Augustine says, "What is small is small, but he who is faithful in small things is great" (St. Augustine, *On Christian Doctrine*).
 
-We\'re told in *The Way*, "Love is what gives little things their value" (*cf*. J. Escrivá, *The Way,* Point 814).
+We're told in *The Way*, "Love is what gives little things their value" (*cf*. J. Escrivá, *The Way,* Point 814).
 
 If this love were lacking, our endeavor to look after little things would be pointless; it would become a mania or merely Pharisaical. We would pay tithes in mint, dill and cumin---as the Pharisees do---and we would run the risk of leaving out the most essential points of the law, those of justice and of mercy.
 
 Although what we have to offer may seem very little---just as the contribution of that poor widow did---it acquires a great value if you place it on the altar and unite it to the offering that Our Lord makes of Himself to the Father.
 
-St. John Paul said in one of his homilies: "Our humble surrender---insignificant in itself like the oil of the widow of Sarepta, or the poor widow\'s mite---becomes acceptable in God\'s eyes through its union with the offering of Jesus" (John Paul II, *Homily*, November 7, 1982).
+St. John Paul said in one of his homilies: "Our humble surrender---insignificant in itself like the oil of the widow of Sarepta, or the poor widow's mite---becomes acceptable in God's eyes through its union with the offering of Jesus" (John Paul II, *Homily*, November 7, 1982).
 
 At other times, details in our work, in our study, in our relationships with other people are the crowning of something good which would remain incomplete without those details.
 
-One of the most obvious warning signs that we\'re starting on the path to lukewarmness is that we give little value to the details of our life of piety, to details in our work, and to little specific acts of virtue. If we ignore these symptoms, we end up paying little attention to big things as well.
+One of the most obvious warning signs that we're starting on the path to lukewarmness is that we give little value to the details of our life of piety, to details in our work, and to little specific acts of virtue. If we ignore these symptoms, we end up paying little attention to big things as well.
 
 "The misfortune is all the more grievous and incurable," said one writer, "when we barely notice that we are sliding downwards and only slowly come to realize this ... That if we are in this state, we give a mortal blow to the life of the spirit, and that can be something obvious to everyone" (Benedict Baur, *Frequent Confession*).
 
 Love for God, on the other hand, is shown by our inventiveness, by our unremitting zeal, and our effort to find in everything an occasion for showing our love of God and for giving service to others.
 
-Holiness is a cloth woven of little details. God is not indifferent to a love that knows how to care for small details. He\'s not indifferent, for example, as to whether we go to greet Him, first of all, when we go into a church or when we happen to be passing by a church.
+Holiness is a cloth woven of little details. God is not indifferent to a love that knows how to care for small details. He's not indifferent, for example, as to whether we go to greet Him, first of all, when we go into a church or when we happen to be passing by a church.
 
-He\'s not indifferent to the effort we make to arrive on time (better, a few minutes early) for Holy Mass, to the way we genuflect in front of Him in the tabernacle, or the way we behave or try to be recollected in His presence.
+He's not indifferent to the effort we make to arrive on time (better, a few minutes early) for Holy Mass, to the way we genuflect in front of Him in the tabernacle, or the way we behave or try to be recollected in His presence.
 
 There was a man once who tried to do a lot of apostolate in his office, befriending as many people as he could, being close to them, trying to help them in their spiritual life.
 
@@ -105,33 +109,33 @@ But there was one man in the office who refused all of his overtures. He had no 
 
 But one day that man came to this other fellow and said, 'Look, I have a big problem in my marriage. My wife is about to divorce me. Can you give me any advice?'
 
-The original man was a bit surprised. He said, 'You know, I\'ve often tried to give you advice or reach out to you in different ways, and you never seemed very interested. Why do you come to me?'
+The original man was a bit surprised. He said, 'You know, I've often tried to give you advice or reach out to you in different ways, and you never seemed very interested. Why do you come to me?'
 
-The guy said, 'Well, you\'re the only one that speaks about anything serious around here.'
+The guy said, 'Well, you're the only one that speaks about anything serious around here.'
 
-The original man said, 'Okay, let me think about it and pray about it'---which is always a good thing to say to people because they realize you\'re taking them seriously.
+The original man said, 'Okay, let me think about it and pray about it'---which is always a good thing to say to people because they realize you're taking them seriously.
 
-That evening in his prayer, he brought this topic to talk to Our Lord about it. He couldn\'t really see any great solutions. But for some reason, a scene in a movie with St. Josemaría came to mind, where St. Josemaría mentioned how husbands should try and bring their wives some flowers from time to time.
+That evening in his prayer, he brought this topic to talk to Our Lord about it. He couldn't really see any great solutions. But for some reason, a scene in a movie with St. Josemaría came to mind, where St. Josemaría mentioned how husbands should try and bring their wives some flowers from time to time.
 
-He was thinking to himself, 'It\'s a bit late for flowers. That\'s not a very prudent sort of advice to give this fellow.'
+He was thinking to himself, 'It's a bit late for flowers. That's not a very prudent sort of advice to give this fellow.'
 
-But that was all he saw in his prayer. With a lot of supernatural outlook, he thought, 'If that\'s all I see in my prayer, that, maybe, is what I have to transmit to this fellow.'
+But that was all he saw in his prayer. With a lot of supernatural outlook, he thought, 'If that's all I see in my prayer, that, maybe, is what I have to transmit to this fellow.'
 
-But he wasn\'t terribly convinced himself. It didn\'t seem very helpful.
+But he wasn't terribly convinced himself. It didn't seem very helpful.
 
 The following day, he told his friend, 'Look, I thought about this, and I prayed about it. My suggestion to you is that you perhaps bring some flowers to your wife.'
 
-The second fellow was thinking, 'I was really wasting my time talking to you. What a stupid piece of advice. She\'s about to divorce me and you\'re telling me to bring her flowers.'
+The second fellow was thinking, 'I was really wasting my time talking to you. What a stupid piece of advice. She's about to divorce me and you're telling me to bring her flowers.'
 
-He dismissed his suggestion and went off. But that evening, as he was going home, he was thinking about this and he thought, 'Even if I get her flowers, I suppose it can\'t do any harm. The worst thing that could happen is that she might hit me with them.'
+He dismissed his suggestion and went off. But that evening, as he was going home, he was thinking about this and he thought, 'Even if I get her flowers, I suppose it can't do any harm. The worst thing that could happen is that she might hit me with them.'
 
 So he bought some flowers. When he got home, his wife opened the door and he handed her the flowers. She burst into tears and said, 'This is the first time in twenty years that you have brought me flowers.' After that, they lived happily ever after.
 
 Sometimes the little things can make a huge difference.
 
-Moreover, when we see somebody make a devout genuflection before the tabernacle, it\'s easy for us to think: that person has faith and loves God. That sign of adoration helps others to have greater faith and greater love.
+Moreover, when we see somebody make a devout genuflection before the tabernacle, it's easy for us to think: that person has faith and loves God. That sign of adoration helps others to have greater faith and greater love.
 
-St. Paul VI says, "It may perhaps seem to you that the Liturgy is made up of little things: the position of the body, genuflections, inclinations of the head; the way the thurible, the missal, and the cruets are to be moved. It is then that we have to recall Christ\'s words in the Gospel: 'He who is faithful in a very little is faithful also in much'" (Luke 16:10).
+St. Paul VI says, "It may perhaps seem to you that the Liturgy is made up of little things: the position of the body, genuflections, inclinations of the head; the way the thurible, the missal, and the cruets are to be moved. It is then that we have to recall Christ's words in the Gospel: 'He who is faithful in a very little is faithful also in much'" (Luke 16:10).
 
 "Moreover," said St. Paul VI, "nothing is small in the Sacred Liturgy, when we think of the greatness of him to whom it is directed" (Paul VI, *Address*, May 30, 1967).
 
@@ -143,11 +147,11 @@ St. Josemaría in the *Furrow* says, "Your duty to be a brother to all souls wil
 
 At times it will mean taking a real interest in what other people are saying; at other times it will mean putting aside our own personal concerns so as to give our attention to the people we live with.
 
-A little girl was talking to her father who was reading the newspaper and she said to him, 'Daddy, you\'re not listening to me.'
+A little girl was talking to her father who was reading the newspaper and she said to him, 'Daddy, you're not listening to me.'
 
-Continuing to read the newspaper, he said, 'Yes, I am. I\'m hearing every word.'
+Continuing to read the newspaper, he said, 'Yes, I am. I'm hearing every word.'
 
-But then she said, 'But you\'re not looking at me.'
+But then she said, 'But you're not looking at me.'
 
 The child was aware, and the child wanted his full attention. A small thing, but it meant everything to the child.
 
@@ -155,11 +159,11 @@ Care of those little things will mean not getting annoyed about what are really 
 
 If those little disturbances come during the day, little things, changes of plans, or funny things go wrong, that can be a trigger to repeat our *Morning Offering*.
 
-We shall tell Our Lord: I\'m really serious with the *Offering* that I made to you. It\'s these things I wanted to offer to you.
+We shall tell Our Lord: I'm really serious with the *Offering* that I made to you. It's these things I wanted to offer to you.
 
-We will try to help others in a way that they may not notice, or might never find out, but which lightens their burden. We try to pray to God for them when they\'re in need, to avoid having critical spirit towards them, and always to be grateful to them.
+We will try to help others in a way that they may not notice, or might never find out, but which lightens their burden. We try to pray to God for them when they're in need, to avoid having critical spirit towards them, and always to be grateful to them.
 
-All of these things are within the reach and the scope of each one of us. And we should try and do the same where each one of the virtues is concerned.
+All these things are within the reach and the scope of each one of us. And we should try and do the same where each one of the virtues is concerned.
 
 If we give attention to little things, we will live each day to the full, and will know how to fill each moment with the sense of preparation for eternity. To do this, we could frequently ask Our Lady for help.
 

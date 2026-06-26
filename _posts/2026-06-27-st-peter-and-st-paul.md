@@ -25,7 +25,7 @@ Only the Catholic Church is guided by the Holy Spirit. He is the Spirit of truth
 
 The Church invites us to be united to those whom God placed at the Head of His Church, Peter and Paul, and to grow in that unity, and to see how important unity is and that there is strength in unity. "United to the vine" (John 15:4).
 
-Before his inaugural Mass, Pope Benedict went down to vest at the tomb of Peter. It was a small gesture, but a very significant one.
+Before his inaugural Mass, Pope Benedict XVI went down to vest at the tomb of Peter. It was a small gesture, but a very significant one.
 
 Many people like to say that he was the successor of John Paul II after such a long papacy, but he liked to emphasize that, "I'm not just the successor of John Paul II. I'm the successor of Peter."
 
@@ -39,11 +39,11 @@ As good children of the Church, we have an important contribution to make. That 
 
 The greatest contribution we can give to the Church is that we be holy, united to Christ. In that way, the Blessed Trinity will make our work effective---our work in building up the domestic Church.
 
-Every little thing we do in our home, in our family, is to build up the Church; the same in our professional life and in our social life. We try to serve the Church as she wants to be served.
+Every little thing we do in our home, in our family, is to build up the Church, and the same in our professional life and in our social life. We try to serve the Church as she wants to be served.
 
 We're told in *The Forge*: "Your deepest love, your greatest esteem, your most heartfelt veneration, your most complete obedience, and your warmest affection have also to be shown towards the Vicar of Christ on earth, towards the Pope. We Catholics should consider that after God and the most Blessed Virgin, Our Mother, the Holy Father comes next in the hierarchy of love and authority" (J. Escrivá, *The Forge*, Point 135).
 
-Today is a special day to pray for the Holy Father, for his intentions, for all the things that he wants for the Universal Church, for the spread of the Church and of her message into all areas of society. These are the concerns that the Holy Father has on a daily basis.
+Today is a special day to pray for the Holy Father, for his intentions, for all the things that he wants for the universal Church, for the spread of the Church and of her message into all areas of society. These are the concerns that the Holy Father has on a daily basis.
 
 We're told in *The Forge*: "May the daily consideration of the heavy burden which weighs on the Pope and the bishops move you to venerate and love them with real affection, and to help them with your prayers" (J. Escrivá, *The Forge*, Point 136).
 
@@ -67,7 +67,7 @@ People would gather on rocks in unusual places---in the middle of a forest, on a
 
 It was penalty of death for any of these priests that were caught, or people assisting there, but they made great sacrifice to be present at the Mass. The fruitfulness of their heroism has been seen in later centuries. Nothing is ever lost.
 
-We're told in *The Forge*: \"Offer your prayer, your atonement, and your action for this end: that all of us Christians may share one will, one heart, one spirit. This is so that we may all go to Jesus, closely united to the Pope, through Mary\" (J. Escrivá, *The Forge*, Point 647).
+We're told in *The Forge*: "Offer your prayer, your atonement, and your action for this end: that all of us Christians may share one will, one heart, one spirit. This is so that we may all go to Jesus, closely united to the Pope, through Mary" (J. Escrivá, *The Forge*, Point 647).
 
 We're told in the documents of the Church that the Church is the one "sacrament of salvation" (Vatican II, *Lumen gentium*, Point 48, November 21, 1964).
 
@@ -87,11 +87,11 @@ Of course, in many ways, you could say He had been looking upon him all through 
 
 When Peter wanted to walk on the water with Jesus and then began to sink, Our Lord picked him up and put him back in the boat (Matt. 14:29-31).
 
-Or when Peter tried to discourage Him from going to the crucifixion and He said: \"Get behind me, Satan!" (Matt. 16:23).
+Or when Peter tried to discourage Him from going to the crucifixion and He said: "Get behind me, Satan!" (Matt. 16:23).
 
 Or when Peter, at the washing of the feet, said, "Lord, you will never wash my feet" (John 13:8).
 
-Or in the storm of the lake when he said, \"Master, does it not concern you that we are perishing?" (Mark 4:38).
+Or in the storm of the lake when he said, "Master, does it not concern you that we are perishing?" (Mark 4:38).
 
 Peter does all the wrong things. He says all the wrong things, but yet he was chosen---chosen not because of what he was, but because of what he had to become: a great saint and a great apostle.
 
@@ -111,21 +111,21 @@ We celebrate them together; reminds us of where our roots are: united to Peter, 
 
 Peter's answer to Our Lord is extraordinarily clear. The whole faith of the Church is reflected in it: "You are the Christ, the Son of the living God."
 
-Our Lord replies to Peter: "Blessed are you, Simon Bar-Jonah! For flesh and blood has not revealed this to you, but my Father who is in heaven" (Matt. 16:17).
+Our Lord replies to Peter: "Blessed are you, Simon Bar-Jonah! For flesh and blood has not revealed this to you, but my Father who is in heaven" (Matt. 16:16-17).
 
 Peter is blessed because he "could not have humanly recognized this truth, which is central to the Church's faith, unless he had been given a special grace by God" (John Paul II, *Homily*, June 29, 2000).
 
-In another place, Our Lord said: "No one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son chooses to reveal Him" (Matt. 11:27).
+In another place, Our Lord said: "No one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son chooses to reveal him" (Matt. 11:27).
 
-"We reflect on this very rich Gospel passage: the Incarnate Word had revealed the Father to His disciples, and now is the moment when the Father Himself reveals His Only Begotten Son to them. 'You are the Christ, the Son of the living God.' These words on the lips of Peter come from the depths of God's mystery. They reveal the intimate truth, the very life of God. Peter, under the action of the divine Spirit, becomes a witness and the confessor of this great truth.
+"We reflect on this very rich Gospel passage: the incarnate Word had revealed the Father to his disciples, and now is the moment when the Father himself reveals his only-begotten Son to them. ... 'You are the Christ, the Son of the living God.' These words on the lips of Peter come from the depths of God's mystery. They reveal the intimate truth, the very life of God. And Peter, under the action of the divine Spirit, becomes a witness and the confessor of this great truth.
 
 "His profession of faith thus forms the firm basis of the Church's faith: 'On this rock, I will build my Church' (Matt. 16:18). The Church of Christ is built on Peter's faith and fidelity" (*ibid*., Point 2).
 
 All the early Christians were very conscious of this. When Peter was in prison, they gathered to raise an earnest prayer to God for him (*cf*. Acts 12:5).
 
-"That prayer was heard, because Peter's presence was necessary in the Church as it took its first steps: the Lord sent His angel to free him from the hands of his persecutors (*cf*. Acts: 12:7-11). It was written in God's plan that Peter, after strengthening his brothers in faith, would undergo martyrdom in Rome together with Paul, the Apostle of the Gentiles" (*ibid*.).
+"That prayer was heard, because Peter's presence was \[still\] necessary in the Church as it took its first steps: the Lord sent his angel to free him from the hands of his persecutors (*cf*. Acts:12:7-11). It was written in God's plan that Peter, after strengthening his brothers in faith, would undergo martyrdom in Rome together with Paul, the Apostle of the Gentiles" (*ibid*.).
 
-Peter, the fisherman from Galilee, was told... \"Come follow me, and I will make you into fishers of men" (Matt. 4:19). \"Feed my lambs" (John 21:15).
+Peter, the fisherman from Galilee, was told... "Come follow me, and I will make you into fishers of men" (Matt. 4:19). "Feed my lambs" (John 21:15).
 
 "Peter witnessed the most important moments of Our Lord's public life: the Transfiguration (Matt. 17:1-2), His prayer in the Garden of Olives (Mt. 26:36-37).
 
@@ -137,17 +137,19 @@ We can thank Our Lord that we belong to this flock and ask Him for the grace to 
 
 "The mysterious plan of...Providence led Peter to Rome, where he was to shed his blood as a supreme witness of faith and as a sign of his love for the divine Teacher (*cf*. John 21:18-19). In this way he fulfilled his mission to be a sign of fidelity to Christ and a sign of the unity of all God's people" (*ibid*.).
 
-Paul had a very dramatic role. His role was to be "all things to all men\" (1 Cor. 9:22). "To live is Christ" (Phil. 1:21). "Everything is lost unless I find Christ" (Phil. 3:8).
+Paul had a very dramatic role. His role was to be "all things to all men" (1 Cor. 9:22). "To live is Christ" (Phil. 1:21). "Everything is lost unless I find Christ" (Phil. 3:8).
 
 He was very Christ-centered. His goal was "to restore all things in Christ" (Eph. 1:10)---very appropriate for the period that we live in.
 
 He had a dramatic conversion. He was a former persecutor of the newborn Church. Paul was a butcher, a terrorist. He was out for the blood of Christians.
 
-But he "was touched by God's grace on the road to Damascus (Acts 9:3-5) and became a tireless apostle. In all of his missionary journeys, he continually preached the crucified Christ and drew groups of faithful together in the various cities of Europe. All of his intense apostolic work did not prevent him from reflecting deeply on the Gospel message, which he applied in all the various situations that he encountered in his preaching" (*cf*. *ibid*., Point 3).
+But he "was touched by God's grace on the road to Damascus (Acts 9:3-5) and became a tireless apostle. In all of his missionary journeys, he continually preached the crucified Christ and drew groups of faithful together in the various cities of Europe.
+
+"All of his intense apostolic work did not prevent him from reflecting deeply on the Gospel message, which he applied in all the various situations that he encountered in his preaching" (*cf*. *ibid*., Point 3).
 
 "The Lord," he says, "stood by me and gave me strength to proclaim the word fully, that all the Gentiles might hear it" (2 Tim. 4:17).
 
-"In the *Responsorial Psalm* of today's Mass, we're told: 'Blessed is the Lord who delivers His friends.' Peter and Paul, in their apostolic mission, were obliged to face many difficulties of all kinds. But, far from deterring their missionary activity, those difficulties reinforced their zeal for the Church's welfare and the salvation of mankind" (*ibid*., Point 6).
+"In the *Responsorial Psalm* of today's Mass, we're told: 'Blessed is the Lord who delivers his friends.' Peter and Paul, in their apostolic mission, were obliged to face many difficulties of all kinds. But, far from deterring their missionary activity, those difficulties reinforced their zeal for the Church's welfare and the salvation of mankind" (*cf*. *ibid*., Point 6).
 
 I've just finished reading a biography about the first Archbishop of Nairobi, Archbishop John Joseph McCarthy.
 
@@ -155,11 +157,11 @@ It's very moving how God places certain missionaries here in Africa in certain p
 
 It's a very moving story. I've heard many similar ones. You see how these people, with the zeal of Peter and Paul, they go to place the seeds of the Church in places where those seeds have never been before.
 
-We can ask Our Lord that we might also have that zeal of Peter and Paul. "They were able to overcome every trial because their trust was not based on human resources but on the grace of God who was 'to deliver them from every evil and save them for His Kingdom' (*cf*. Acts 12:11; 1 Tim. 4:18).
+We can ask Our Lord that we might also have that zeal of Peter and Paul. "They were able to overcome every trial because their trust was not based on human resources but on the grace of God who was 'to deliver them from every evil and save them for his Kingdom' (*cf*. Acts 12:11; 1 Tim. 4:18).
 
 "The Lord stood by me and gave me the strength to proclaim the word fully" (2 Tim. 4:17).
 
-"It's this same trust in God that has to sustain each one of us. 'The Lord delivers his friends' (*Responsorial Psalm*, June 29). That awareness can instill courage in us as we face the difficulties that are always involved in proclaiming the Gospel in daily life. Peter and Paul, may you sustain us. Help us to have that missionary zeal, which made you witness for Christ to the ends of the then-known world" (*cf*. *Homily*, *Op. cit*.).
+"It's this same trust in God that has to sustain each one of us. 'The Lord delivers his friends' (*Responsorial Psalm*, June 29). That awareness can instill courage in us as we face the difficulties that are always involved in proclaiming the Gospel in daily life.Peter and Paul, may you sustain us. Help us to have that missionary zeal, which made you witness for Christ to the ends of the then-known world" (*cf*. *Homily*, Point 6, June 29, 1999).
 
 "The Lord will stand by us and give us strength" (*cf*. 2 Tim. 4:17). We read these words in the Second Reading today. They testify to what Our Lord accomplished in Peter and Paul after He chose them as His missionaries.
 
@@ -167,11 +169,13 @@ The Second Vatican Council has liked to say, "Every baptized Christian is a miss
 
 There may be moments of dramatic conversion like Paul endured on the road to Damascus. Or the conversions may come about in just the little ordinary things of each day.
 
-Our Lord came to Saul in a blaze of light. "Saul, Saul, why are you persecuting me?\" While a mysterious force thrust him to the ground, he replied: "Who are you, Lord?" "I am Jesus, whom you are persecuting!\" (Acts 9:4-5).
+Our Lord came to Saul in a blaze of light. "Saul, Saul, why are you persecuting me?" While a mysterious force thrust him to the ground, he replied: "Who are you, Lord?" "I am Jesus, whom you are persecuting!" (Acts 9:4-5).
 
 Saul could have said, 'I'm not persecuting you; I'm just persecuting these Christians.' Our Lord made it clear that "they and I are one" (John 17:21). He's present in each one of them.
 
-Saul experiences the powerful presence of God, "the Messiah awaited by Israel; he was the Christ living and present in the Church and the world." Probably Saul did not understand at that particular moment all of these realities. It was part of God's mysterious plan" that he would come to understand it little by little. The Father "would give Paul the grace of knowing the mystery of the redemption accomplished in Christ" so that Christ became the be-all and the end-all of his life.
+Saul experiences the "powerful presence of God...the Messiah awaited by Israel; he was the Christ living and present in the Church and the world."
+
+Probably Saul did not understand at that particular moment all of these realities. It was "part of God's mysterious plan" that he would come to understand it little by little. The Father "would give Paul the grace of knowing the mystery of the redemption accomplished in Christ" so that Christ became the be-all and the end-all of his life.
 
 God would give him the grace "to understand the marvelous reality of the Church, which lives for Christ, with Christ, and in Christ" (John Paul II, *Homily*, Point 3, June 29, 2000).
 
@@ -181,7 +185,7 @@ If I came to the Church later on, to appreciate it in the same way that Paul did
 
 When Paul came to share in this truth, he would "continuously and tirelessly proclaim it to the ends of the earth. From Damascus, Paul began his apostolic journey, which was going to lead him to spread the Gospel in many parts of the known world. His missionary zeal helped him to fulfill the command that Christ had given to the Apostles: 'Go ye, therefore, teach all nations'" (Matt. 28:19).
 
-Each one of us is called "to safeguard the purity of the Gospel and the unity of Christ's Church, founded on the 'rock' of Peter's faith. Our Lord has called us to this" and He has entrusted to us the flock that we find around us. We are to be "guides of the flock" (*ibid*., Point 4).
+Each one of us is called "to safeguard the purity of the Gospel and the unity of Christ's Church, founded on the 'rock' of Peter's faith. Our Lord has called us to this" and He has entrusted to us the flock that we find around us. We are to be "guides of the flock" (*cf*. *ibid*., Point 4).
 
 Today in Rome, there is a custom whereby the Pope calls to Rome, to the See of Peter, Metropolitan Archbishops. Metropolitan Archbishops are Archbishops of major cities that have a number of other dioceses depending on them.
 
@@ -193,7 +197,7 @@ It's like an external material sign that transmits a very important message. Whe
 
 Peter and Paul were "instruments of communion" in the early Christian communities. We can ask them to guide us toward greater unity, that we might follow their example.
 
-John Paul II wrote: "I feel Christ's command echoing within me. It's a particularly urgent command at the beginning of this new millennium. Let us pray and work for this, without ever growing weary of hoping. ... The Church again proclaims its faith. It is our faith, the Church's unchanging faith in Jesus, the only Savior of the world; in Christ, the Son of the living God, who died and rose for us and all humanity" (*ibid*., Point 5).
+John Paul II wrote: "I feel Christ's command echoing within me. It is a particularly urgent command at the beginning of this new millennium. Let us pray and work for this, without ever growing weary of hoping. ... The Church again proclaims its faith. It is our faith, the Church's unchanging faith in Jesus, the only Savior of the world; in Christ, the Son of the living God, who died and rose for us and all humanity" (*ibid*., Point 5).
 
 Pope John Paul liked to say that the first millennium of Christianity was a millennium of unity. It's only in the second millennium that all the disunity has come about. Look forward to and hope that the third millennium of Christianity might again be a millennium of unity (*cf*. John Paul II, Encyclical, *Ut unum sint*, Points 52, 55, 57, May 25, 1995).
 
@@ -201,7 +205,7 @@ We're told in the Preface of the Apostles: "For you have built your Church to st
 
 We're told in *The Forge*: "If you really loved God with all your heart, then that love for your neighbor, which you sometimes find so hard to have, would come as a necessary consequence of your Great Love. You would never feel hostility towards anyone, nor would you discriminate between people" (J. Escrivá, *The Forge*, Point 869).
 
-We can ask Our Lady, Mother of the Church, Queen of Apostles, whom Rome venerates with the beautiful title of Salvation of the Roman People, may you place all your Christian people under your protection.
+We can ask Our Lady, Mother of the Church, Queen of Apostles, whom Rome venerates with the beautiful title of \[Salvation\] of the Roman People, may you place all your Christian people under your protection.
 
 May you support every sincere effort to promote Christian unity and watch over the journey of the disciples of your Son, Jesus.
 

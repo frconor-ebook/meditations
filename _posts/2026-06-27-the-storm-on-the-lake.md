@@ -57,7 +57,7 @@ They could recognize a real storm when they saw one. The wind was funneling down
 
 They went to Jesus and woke Him, shouting: "Save us, Lord, we are perishing." Dramatic words.
 
-Our Lord sort of wakes up from His sleep, very calmly, tries to reassure them: "Why are you afraid, O men of little faith?"
+Our Lord sort of wakes up from His sleep, very calmly, tries to reassure them: "Why are you afraid, O men of little faith?" (Matt. 8:25-26).
 
 With this, Our Lord seems to be talking not just to the apostles, but to all of us, inviting us to have a greater faith and trust in God Our Father, particularly in difficult moments. There is no storm that He is not capable of calming.
 
@@ -65,9 +65,9 @@ It's as if He said to them, 'Don't you realize that I am with you, and that this
 
 Our Lord seems to be speaking to every single soul on this planet who might be faced with all sorts of fearful circumstances.
 
-"Then," we're told, "He rose up and rebuked the winds and the sea: 'Peace, be still!'" (Mark 4:39).
+"Then," we're told, "He rose up and rebuked the winds and the sea: 'Peace! Be still!'" (Mark 4:39).
 
-Our Lord sort of gives us words to say to all our emotions, our passions, our heart, our imagination, our nerves. When they make it a little bit too much, when the storm seems to be raging, or we get too worried or anxious about certain things, we lose our peace: "Peace, be still!"
+Our Lord sort of gives us words to say to all our emotions, our passions, our heart, our imagination, our nerves. When they make it a little bit too much, when the storm seems to be raging, or we get too worried or anxious about certain things, we lose our peace: "Peace! Be still!"
 
 "Then," we're told, "there was a great calm" (Matt. 8:26). Christ is capable of calming all the storms in our marriage, in our family, in our work, in our health, in our finances.
 
@@ -193,7 +193,7 @@ In every tribulation, in every difficulty, in every temptation, we must turn to 
 
 Cardinal Newman said, "Seek his face whoever dwells all the time in the real and bodily presence in his Church. Do at least as much as the disciples did. They had but little faith; they feared; they had not any great confidence and peace, but at least they did not keep away from Christ. Do not keep from him," he says, "but when you are in trouble, come to him every single day, asking him earnestly and perseveringly for those favors which he alone can give.
 
-"And as he on the occasion spoken of in the Gospel blamed indeed the disciples, but did for them what they asked, so you should trust in his great mercy. Though he discerns many infirmities in you, which ought not to be there, yet he will deign to rebuke the winds and the sea, and will say: 'Peace, be still'---and there will be a great calm" (John Henry Newman, *Faith and Prejudice and Other Sermons*).
+"And as he on the occasion spoken of in the Gospel blamed indeed the disciples, but did for them what they asked, so you should trust in his great mercy. Though he discerns much infirmity in you, which ought not to be there, yet he will deign to rebuke the winds and the sea, and will say: 'Peace, be still'---and there will be a great calm" (John Henry Newman, *Faith and Prejudice and Other Sermons*).
 
 God wants our souls to be filled with serenity, even in the midst of tribulation. With this new peace that Our Lord brings to our hearts we will set off confidently to fight once again in those battles of peace---the external battles and those of the soul.
 
