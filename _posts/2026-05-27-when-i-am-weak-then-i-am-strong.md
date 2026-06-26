@@ -144,4 +144,4 @@ In a homily at Lourdes on September 15, 2008, Pope Benedict XVI rejected the ide
 
 *EW*
 
-From *Fire & Light: Learning to Receive the Gift of God*, Chapter 3 by Jacques Philippe (Scepter, 2026).
+From *Fire & Light: Learning to Receive the Gift of God*, Chapter 3 by Jacques Philippe (Scepter, 2016).

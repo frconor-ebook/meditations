@@ -134,4 +134,4 @@ We can turn to Our Lady, whom Saint John Paul liked to call the woman of the Euc
 
 *EW*
 
-From *Fire & Light: Learning to Receive the Gift of God, Chapter 9* by Jacques Philippe (Scepter, 2026).
+From *Fire & Light: Learning to Receive the Gift of God, Chapter 9* by Jacques Philippe (Scepter, 2016).

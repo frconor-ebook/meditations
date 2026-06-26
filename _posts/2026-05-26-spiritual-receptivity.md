@@ -151,4 +151,4 @@ These words apply to the martyrdom of Peter, but we can also understand them in 
 
 *EW*
 
-From *Fire & Light: Learning to Receive the Gift of God*, Chapter 1 by Jacques Philippe (Scepter, 2026).
+From *Fire & Light: Learning to Receive the Gift of God*, Chapter 1 by Jacques Philippe (Scepter, 2016).
