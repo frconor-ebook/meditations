@@ -35,9 +35,9 @@ He said, "I was working in New York at one stage, and I knew a Jew on Wall Stree
 
 This fellow says, "I was a bit perplexed. He was this man who was so successful on Wall Street, and yet hanging over his bed was a sign, a message, all about failure. I asked him to explain.
 
-"He said, 'You see, my kids were growing up. I was on the up on Wall Street and I put them into boarding schools. Christmas time came and I was very busy, so I just left them there. And summertime came and I was also very busy, and I just left them there. That went on for a couple of years. And now one of them is on drugs and another one is something else, the third one is something else.' He painted a pretty dismal picture.
+"He said, 'You see, my kids were growing up. I was on the up and up on Wall Street and I put them into boarding schools. Christmas time came and I was very busy, so I just left them there. And summertime came and I was also very busy, and I just left them there. That went on for a couple of years. And now one of them is on drugs and another one is something else, the third one is something else.' He painted a pretty dismal picture.
 
-"This man said, "'I came home to my own home, and I made out my own sign and I hung it above my own bed, saying that the greatest failure of a man is to fail as a father.'"
+This man said, "I came home to my own home, and I made out my own sign and I hung it above my own bed, saying that the greatest failure of a man is to fail as a father."
 
 Fatherhood and parenthood is a vocation---something we have to respond to. There's a grace for it.
 
@@ -59,7 +59,7 @@ But then I looked around the room and all the jaws were hanging open. They were 
 
 They all knew what a mother was. But it never crossed their mind for a moment to think of what it meant to be a mother.
 
-This lady talked about some very domestic little anecdotes from her home: how she and her husband were both in academics; they were a bit disordered by nature---one shoe here and another shoe there, clothes on the back of the chair.
+This lady talked about some very domestic little anecdotes from her home: how she and her husband were both academics; they were a bit disordered by nature---one shoe here and another shoe there, clothes on the back of the chair.
 
 She said, "As our children grew, we saw how they were imitating our example of disorder. And so, our battle in the home was to hang up our clothes properly and to put our two shoes together." She told some very homey little stories.
 
@@ -99,7 +99,7 @@ Pope St. John Paul II liked to say that "the family is the school of deeper huma
 
 Pope John Paul was full of very pithy, short little phrases that were so instructive.
 
-He talked about the "civilization of love" (John Paul II, *Letter to Families*, February 2, 1994); the "culture of life" and "the womb is the sanctuary of life" (John Paul II, Encyclical, *Evangelium Vitae*, March 25, 1995).
+He talked about the "civilization of love" (John Paul II, *Letter to Families*, February 2, 1994); the "culture of life" and "the womb is the sanctuary of life" (John Paul II, Encyclical, *Evangelium Vitae*, Points 77, 95, March 25, 1995).
 
 The family is the school of love, the school of virtue (John Paul II, *Address*, October 28, 1979), the school of piety, the school of the soul. He said, "The future of humanity passes through the family" (John Paul II, Apostolic Exhortation, *Familiaris consortio*, Point 86, November 22, 1981).
 
@@ -115,13 +115,13 @@ Christ gives great dignity to family life. Part of that creating of family atmos
 
 Hopefully, our children feel the same way. They enjoy family life. Maybe they don't enjoy their chores or their homework, but there's something else there that they enjoy, something deeper.
 
-We have to try and be available to our children, to play with them, to do their thing, to talk to them. To listen to them. To attend their sports matches, soccer or hockey or basketball, wherever it may be.
+We have to try and be available to our children, to play with them, to do their thing, to talk to them, to listen to them. To attend their sports matches, soccer or hockey or basketball, wherever it may be.
 
 In a regular way, try to check their homework, partly because you want to see how they're doing, but also to let them see that you're interested. It's their work. Let them see that you value it, what they spend their time doing, and the way they do it. With that, you communicate to them that 'your work is important to me.'
 
-In all families, there may be moments of the cross: possibly sickness, or contradictions, or pain, or failure, or the loss of a child, miscarriages.
+In all families, there may be moments of the cross: possibly sickness, or contradictions, or pain, or failure, or the loss of a child, or miscarriages.
 
-From your approach to all of these things, your children learn a lot about life, to approach these realities with faith, aware that 'I'm a child of God. I'm carried in the palm of a God who loves me.'
+From your approach to all of these things, your children learn a lot about life, to approach these realities with faith, aware that "I'm a child of God. I'm carried 'in the palm' of a God who loves me" (*cf*. Isa. 49:16).
 
 God is speaking to us through the cross, helping us to grow in virtue.
 
@@ -191,7 +191,7 @@ He was thinking, if that's the purpose of the soul, one of the greatest things t
 
 Be affectionate with your children because everyone has a heart. And every day, that heart needs a bit of affection, a bit of encouragement.
 
-Try to be easy to live with. Parenting experts talk about how parents and fathers should try to live as great men and women. Great men and women don't demand more of their children than they do from themselves.
+Try to be easy to live with. Parenting experts talk about how parents and fathers should try "to live as great men and women." Great men and women don't demand more of their children than they do from themselves.
 
 Children imitate people they admire, even unconsciously. Virtue means power. If you're a man of virtue, you'll be a man of power. Leaders don't just have followers; they have joiners.
 
@@ -219,7 +219,7 @@ You try to turn grabbers into givers. They don't come into the world saying 'ple
 
 James Stenson, that same parenting expert, says that parents have to repeat things 500 times for their children, and they only get them on the 501st. A lot of your sanctity may be tied up in that repetition of 500 times.
 
-Johann Wolfgang von Goethe, a famous German philosopher, said, "Treat people as if they were what they ought to be and you help them to become what they're capable of being."
+Goethe, a famous German philosopher, said, "Treat people as if they were what they ought to be and you help them to become what they're capable of being" (Johann Wolfgang von Goethe, *Wilhelm Meister's Apprenticeship*).
 
 Teenagers are young adults. Treat them like that and they really respond. Invest in their freedom and responsibility and you get a responsible adult.
 
@@ -227,9 +227,9 @@ Great parents know that "no" is also a loving word. Children have to hear words 
 
 The preparation of your children for marriage begins in their early formation in virtue---in primary school, in secondary school. It doesn't begin at the pre-marriage course. Your kids' future marriages, to a large extent, will depend on how they treat their brothers and sisters.
 
-We can ask the Holy Spirit for grace to see what we need to encourage in our children. Responsibility. Courageous perseverance. Self-control.
+We can ask the Holy Spirit for the grace to see what we need to encourage in our children. Responsibility. Courageous perseverance. Self-control.
 
-They might be great test takers, very skilled. But sooner or later they run into trouble if they've little character.
+They might be great test takers, very skilled. But sooner or later they run into trouble if they have little character.
 
 Unity in the home is very important. Children grow to be confident men and women when there's unity in the home, when they live in a safe, loving environment. Confident people go very far in life.
 
