@@ -19,7 +19,7 @@ It's sort of quietly unseen. She's just looking for her curing; she doesn't want
 
 This description of how she approaches Our Lord is all the more beautiful: she comes up behind Him.
 
-She'd been suffering a lot---twelve years. We're told in another Gospel that she had seen many doctors. She had not got any better; in fact, "she got even worse" (Mark 5:26)---a tremendous condemnation of the medical profession.
+She'd been suffering a lot---twelve years. We're told in other Gospels that she had seen many doctors (Luke 8:43, Mark 5:26). She had not got any better; in fact, "she got even worse" (Mark 5:26)---a tremendous condemnation of the medical profession.
 
 She had been suffering very much. She's looking for any possible solution. Then she hears of Our Lord, and she decides to approach Him, not to ask Him directly, but just in the slightest possible, smallest way.
 
@@ -27,7 +27,7 @@ She touched the fringe of His cloak---the smallest little thing that He wouldn't
 
 She was sure in her heart and soul and mind that this would happen, if she could just touch the fringe of His cloak.
 
-For she was thinking, "If only I can touch his cloak I shall be saved" (Matt. 9:21). I don't need to embrace Him; I don't need Him to bless me; I don't need Him to touch my head or to spit on the ground and rub my eyes like the blind person or other things---just the fringe of His cloak.
+For she was thinking, "If only I can touch his cloak I shall be saved" (Matt. 9:21). I don't need to embrace Him; I don't need Him to bless me; I don't need Him to touch my head or to spit on the ground and rub my eyes like the blind person (John 9:1-12) or other things---just the fringe of His cloak.
 
 So, this woman approaches Our Lord with faith. Profound, humble, silent, furtive faith.
 
@@ -45,9 +45,7 @@ It's very beautiful. She comes to occupy center stage. It's encouraging to us in
 
 Because this woman has approached Our Lord in this way, her deeds become recorded in the Gospel for all time. She becomes the example to follow.
 
-"Jesus turned around and saw her" (Matt. 9:22). She becomes the object of His full focus and attention.
-
-"He said to her, 'Courage, my daughter; your faith has saved you'" (Matt. 9:22).
+"Jesus turned around and saw her" She becomes the object of His full focus and attention. "He said to her, 'Courage, my daughter; your faith has saved you'" (Matt. 9:22).
 
 Our Lord realizes that power has gone out from Him. He detects that someone special has come close to Him, someone with faith, and the Lord finds that irresistible.
 
@@ -57,7 +55,9 @@ In another country once, a man approached me. He had lost his promotion; his car
 
 I encouraged him to go and read the chapter on pessimism in *The Forge*, which is the chapter I've recommended to most people of all our Father's writings, in the last forty years or so.
 
-He came back the following week and said: 'Father, there was one point there where St. Josemaría quotes Our Lord speaking to the woman who had approached Him, saying: 'Take courage, my daughter; your faith has saved you.' He said, 'I've been repeating those words every moment of every hour, every day, for the past week, imagining that Our Lord was saying those very words to me: 'Take courage!'"
+He came back the following week and said: "Father, there was one point there where St. Josemaría quotes Our Lord speaking to the woman who had approached Him, saying: 'Take courage, my daughter; your faith has saved you.'"
+
+He said, "I've been repeating those words every moment of every hour, every day, for the past week, imagining that Our Lord was saying those very words to me: 'Take courage!'"
 
 Our Lord sends us words of encouragement. St. Paul in his writings says, "Keep encouraging one another" (1 Thess. 5:11).
 
@@ -73,7 +73,7 @@ Doesn't that all sound familiar? St. Josemaría starting with nothing back in Ma
 
 "...he moved from room to room, generously sprinkling each one with holy water. 'We had bed linen, which one of the big department stores let us have on credit, with the understanding that we would pay for it when we could. But we had no cabinets to keep them in. So, with great care, we covered the floor with newspapers and laid the linen on top. There was an enormous amount of it.'"
 
-St. Josemaría adds, "'I brought with me from Santa Isabel a holy water bucket and a sprinkler. My sister Carmen had made me a splendid surplice\...I also brought from Santa Isabel a stole and a book of rites and ceremonies. And I went through the empty house blessing it, with great solemnity and joy, with a great sense of assurance!'" (*Ibid*.).
+St. Josemaría adds, "'I brought with me from Santa Isabel a holy water bucket and a sprinkler. My sister Carmen had made me a splendid surplice\...I also brought from Santa Isabel a stole and a book of rites and ceremonies. And I went through the empty house blessing it, with great solemnity and joy, with a great sense of assurance!'" (*ibid*.).
 
 It's very moving when we go back and look at how St. Josemaría started everything back in Madrid---with nothing, yet with a great conviction that heaven is bent on what we are doing, with a great conviction that this seed that has come from God has just spread to the ends of the earth; encountering many difficulties, yet with a great assurance that all those difficulties could be solved.
 
@@ -89,13 +89,15 @@ Faith sees things that are out of sight. Our faith leads us to dream---the dream
 
 I think I mentioned before how Blessed Álvaro went to Hong Kong in 1987. A lady supernumerary stood up in a get-together, and said, "Father, I came here to live with my husband ten years ago. There was no center of Opus Dei in Hong Kong and I used to dream about all the wonderful things we could do here in Hong Kong if we had a center. I used to dream so much that I used to get dizzy dreaming. And now, we have a center here in Hong Kong and all my dreams have been fully realized."
 
-Don Álvaro said, "My daughter, what we have to dream about is China. In other words, your problem is not that you were dreaming and getting dizzy from too much dreaming, but your problem is that you haven't even begun to dream."
+Don Álvaro said, "My daughter, what we have to dream about is China." In other words, your problem is not that you were dreaming and getting dizzy from too much dreaming, but your problem is that you haven't even begun to dream.
 
 One of the great things that comes from the grace that God gives us is that ability to dream---to dream of things that are out of sight; to dream of the impossible; and to dream in the way that St. Josemaría dreamed, and Don Álvaro dreamt, because that's the way that God wants us to dream.
 
 We're coming to the 100th anniversary of the founding of Opus Dei in just a few years \[October 2, 2028\]. The Prelate of Opus Dei is inviting us again to dream---to set out into the deep water; to dream in the way that St. Josemaría dreamt 100 years ago, and to see how we have to make or help all those wonderful dreams to be fully realized.
 
-When we see things with the eyes of faith it's like having a telescope. You see the same reality but with infinite detail. When an astronomer takes up his telescope and observes the galaxy, as compared to someone who just looks with their eyes only, they see enormous things; see much more than just the naked eye; see wonderful things in great detail.
+When we see things with the eyes of faith it's like having a telescope. You see the same reality but with infinite detail.
+
+When an astronomer takes up his telescope and observes the galaxy, as compared to someone who just looks with their eyes only, they see enormous things; he sees much more than just the naked eye; he sees wonderful things in great detail.
 
 When we look at things with faith, the same thing happens. We see much farther; we see different realities.
 
@@ -105,7 +107,7 @@ We see that God has taken us by the hand and led us to this situation where perh
 
 We know that the seeds that have been sown are never in vain. We're like that little lady who reaches out to touch just the fringe of the garment, the fringe of His cloak, the smallest little thing.
 
-But that faith leads her to a personal encounter with Christ, who turns around and says: "Who touched my garments?"
+But that faith leads her to a personal encounter with Christ, who turns around and says: "Who touched my garments?" (Mark 5:30; Luke 8:45).
 
 That little act of faith led to great things. When we look at things with faith, we don't just see the immediate effects of things, but rather, we dream of the ultimate effects of what we have done.
 
@@ -121,9 +123,9 @@ We can always look to the faith of St. Josemaría in the early days, or the fait
 
 We can't wait for the world to understand. St. Josemaría used to say future generations will understand. And so, he set out with no money, with no material means, to do great things.
 
-Faith sheds a great light on our life. The Second Vatican Council said: "One of the greatest heresies of our time is the separation between faith and life" (Vatican II, *Gaudium et spes*).
+Faith sheds a great light on our life. The Second Vatican Council said: "One of the greatest heresies of our time is the separation between faith and life" (*cf*. Vatican II, *Gaudium et spes,* Point 43, December 7, 1965).
 
-People practicing some pious devotions may be going to Mass on Sunday, but not putting their faith into practice in all the other days and situations and professional encounters of the week.
+People practicing some pious devotions may be going to Mass on Sunday but not putting their faith into practice in all the other days and situations and professional encounters of the week.
 
 Our Lord calls us to be people of faith, to put that faith into practice, and teach and help many other people to put that faith into practice in concrete ways.
 
@@ -147,7 +149,7 @@ Or perhaps the Holy Spirit uses some other instrument, someday, to send me a gre
 
 We know that Our Lord will give us the grace to do those things.
 
-We're told again in *The Forge*, "If there are mountains in the way, obstacles, misunderstandings, and backbiting, which Satan seeks and God allows, you must have faith, faith with deeds, faith with sacrifice, faith with humility" (J. Escriva, *The Forge*, Point 256).
+We're told again in *The Forge*, "If there are mountains in the way, obstacles, misunderstandings, and backbiting, which Satan seeks and God allows, you must have faith, faith with deeds, faith with sacrifice, faith with humility" (J. Escrivá, *The Forge*, Point 256).
 
 Faith to carry on. "Courage! my daughter" (Matt. 9:22). There's a lot tied up in that simple word and exhortation of Our Lord.
 
@@ -161,13 +163,13 @@ But we know that the grace of God is always with us. The task ahead of us is nev
 
 "I can do all things in Him who strengthens me" (Phil. 4:13). "My grace is sufficient for you" (2 Cor. 12:9). There is no difficulty that we cannot overcome.
 
-With great reason we can make that plea to Our Lord that St. Josemaría did: "Increase my faith, my hope, my charity."
+With great reason we can make that plea to Our Lord that St. Josemaría did: "Increase my faith, my hope, my charity" (*cf*. J. Escrivá, *The Forge*, Point 832).
 
 Certain moments may be more appropriate for that than others---the moment of the elevation of the Consecration, for example, or in Benediction, when we cry out to Our Lord with greater strength: Increase my faith!
 
 "As someone who longs to bring health to souls," we are told in *The Forge*, "you should cry out like that father of the sick boy possessed by the devil: 'Lord, help my unbelief!'" (*The Forge*, Point 257).
 
-'I believe, but help my unbelief. I believe, I want to believe more, but I am full of weakness! I am not strong. I want to be stronger in the faith---*fortes in fide*!'
+I believe, but help my unbelief. I believe, I want to believe more, but I am full of weakness! I am not strong. I want to be stronger in the faith---*fortes in fide*!
 
 "A sick man is brought to Jesus, who looks at him. ---Contemplate the scene closely and meditate upon his words: 'Take heart, my son.' This is what Our Lord says to you when you feel the weight of your errors. Have faith!
 
@@ -175,9 +177,9 @@ Certain moments may be more appropriate for that than others---the moment of the
 
 That's what the woman did when she approached Our Lord: 'I can just touch the fringe of His garment, the slightest little bit of faith, and things will happen.'
 
-Lord, help us to walk in Abraham's footsteps, to turn to you every time that you call out to me, and say, 'Yes! here I am. Here I am because you have called me. If this is what You're asking of me, then You'll help me to fulfill this particular thing.'
+Lord, help us to walk in Abraham's footsteps, to turn to you every time that you call out to me, and say, 'Yes! here I am. Here I am because you have called me. If this is what you're asking of me, then you'll help me to fulfill this particular thing.'
 
-Pope John Paul says: "Aware of their inseparable ties with the ancient people of the Covenant, Christians recognize Abraham as father in faith *par excellence---*they're happy to imitate his example by walking in his footsteps."
+Pope John Paul says: "Aware of their inseparable ties with the ancient people of the Covenant, Christians recognize Abraham as \[their\] father in faith *par excellence* and they are happy to imitate his example by walking 'in his footsteps'" (John Paul II, *General Audience*, Point 3, February 16, 2000).
 
 Often in the Eucharistic Prayer I, we refer to Abraham, "our father in faith." We're called to walk in his footsteps, to break new ground, to set out on uncharted courses.
 
@@ -187,13 +189,9 @@ Lord, give me a greater gift of this, so that I may please you more.
 
 When people approach you in Scripture with that faith, you reward them in all sorts of ways: "Go in peace, your faith has saved you" (Luke 7:50).
 
-It's a great grace. Lord, help me to have more faith in the ordinary things that you ask of me.
+It's a great grace.
 
-The fulfillment of my spiritual reading each day---I have faith that there are things here that you want me to read, that could lodge in my mind.
-
-Faith in my Rosary, my *Morning Offering*, my heroic minute, my visit to the Blessed Sacrament.
-
-The little encounters that I make with people each day, and the small little words that I may say to them, even words of greeting that may light up their life---small little gestures can bring great joy and peace to the lives of other people.
+Lord, help me to have more faith in the ordinary things that you ask of me: the fulfillment of my spiritual reading each day---I have faith that there are things here that you want me to read, that could lodge in my mind; faith in my Rosary, my *Morning Offering*, my heroic minute, my visit to the Blessed Sacrament; the little encounters that I make with people each day, and the small little words that I may say to them, even words of greeting that may light up their life---small little gestures so that we can bring great joy and peace to the lives of other people.
 
 There may be people who come close to us with their words and example of living a life of faith---we help them to carry on.
 
@@ -207,11 +205,11 @@ Somebody says: 'I can't manage.' He says to the Philippians, "God will fulfill a
 
 He supplies all our needs. "Abraham said, God will provide--*Deus providebit* *nos*" (Gen. 22:8). We believe and we live by a God who provides.
 
-If we say: 'I'm afraid.' St. Paul says to Timothy, "God's gift was not a spirit of timidity but the spirit of power and love and self-control" (2 Tim. 1:7).
+If we say: 'I'm afraid,' St. Paul says to Timothy, "God's gift was not a spirit of timidity but the spirit of power and love and self-control" (2 Tim. 1:7).
 
 Someone says: 'I'm always worried and frustrated.' St. Peter says, "Unload your worries onto God since He is looking after you" (1 Pet. 5:7).
 
-Cast your cares upon the Lord. Lord, I leave this worry, this anxiety, this concern at Your feet. I leave it at the tabernacle. You look after it. I'm doing all that I can.
+Cast your cares upon the Lord. Lord, I leave this worry, this anxiety, this concern at your feet. I leave it at the tabernacle. You look after it. I'm doing all that I can.
 
 Someone says: 'I'm not smart enough.' St. Paul says to the Corinthians, "God has made you members of Christ Jesus and He is our wisdom" (1 Cor. 12:27).
 
@@ -219,13 +217,13 @@ Someone says: 'I feel all alone.' St. Paul says to the Hebrews, "God says, I wil
 
 We know Our Lord is always there. There are enormous implications of our faith in God. Our Lord just asked us to put that faith into practice.
 
-We're told, "Abraham believed against all hope" (Rom. 4:18). Even when it seemed that things could not happen, he believed in that situation.
+We're told, "Abraham believed against all hope" (Rom. 4:18). Even when it seemed that there was no possibility for things to happen, he believed in that situation.
 
 This is what our life is all about. God is there behind the ordinary realities of every day.
 
 Each one of us is like that woman who approached Him silently, furtively, but with this powerful faith that everything can be changed. "Everything can be solved if I can just touch" the hem of His garment, the fringe of His cloak.
 
-We can look to the heroic life of faith of those that have gone before us. We've done wonderful things over time: this school, this building---occasionally you look at it again and you see the incredible realities of what has risen around us.
+We can look to the heroic life of faith of those that have gone before us, who've done wonderful things over time: this school, this building---occasionally you look at it again and you see the incredible realities of what has risen around us.
 
 That can be enormously encouraging. God is using our every action, our every correspondence.
 
@@ -241,11 +239,13 @@ Faith in our own personal weakness. "If God is with us, who can be against us?" 
 
 Faith in our obedience, in our charity. Faith in the fact that the Prelature of Opus Dei and the whole Church are in the hands of God.
 
-Last night we got the news that the Holy Father is going to have an operation today (July 4, 2021). We pray for him with faith.
+Last night we got the news that the Holy Father \[Pope Francis\] is going to have an operation today (July 4, 2021). We pray for him with faith.
 
 We pray for his Pontificate, for his health, for his well-being, and also, for the future of the Church. For the sick Pope, for the elderly Pope---we leave everything in the hands of God.
 
-As always, we can turn to Our Lady, the woman of faith who was put into practice. Mary, may you help us to be more like that lady who approached that fringe of the cloak of Jesus expecting everything. Help us to be like her, knowing that we also will receive everything when we approach you with faith.
+As always, we can turn to Our Lady, "the woman of faith" (John Paul II, *Homily*, October 6, 1979; *Prayer to Our Lady of Lourdes*, August 15, 2004) who was put into practice.
+
+Mary, may you help us to be more like that lady who approached that fringe of the cloak of Jesus expecting everything. Help us to be like her, knowing that we also will receive everything when we approach you with faith.
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 

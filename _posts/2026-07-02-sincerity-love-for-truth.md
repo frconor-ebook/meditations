@@ -21,9 +21,9 @@ One of the things that really irritated Our Lord with the Pharisees was their du
 
 Our Lord says, "Be careful not to parade your uprightness in public to attract attention; otherwise, you will lose all reward from your Father in heaven. When you give alms, do not have it trumpeted before you. This is what the hypocrites do in the synagogues and in the streets, to win human admiration. In truth, I tell you, they have had their reward" (Matt. 6:1-2).
 
-Our Lord has no time for human admiration. He invites us to reject human respect: thinking about what other people will think about us, or being worried or concerned about such things.
+Our Lord has no time for human admiration. He invites us to reject *human respect*: thinking about what other people will think about us or being worried or concerned about such things.
 
-He invites us to have divine respect and to be concerned about what God may think of us, because "God reads the heart" (*cf*. 1 Sam. 16:7).
+He invites us to have *divine respects* and to be concerned about what God may think of us, because "God reads the heart" (*cf*. 1 Sam. 16:7).
 
 And when He read the heart of the Pharisees, He saw all sorts of terrible things: "You brood of vipers! You whitewashed walls!" (*cf*. Matt. 23:27).
 
@@ -73,7 +73,7 @@ Our Lord teaches us about humility in prayer. The truth about our prayer. The tr
 
 Fulton Sheen says, "The quickest way to discover our predominant fault is to ask ourselves: what do I think about most when I am alone? Where do my thoughts go when I let them go spontaneously? What makes me most unhappy when I don't have it? Most glad when I possess it? What fault irritates me most when I am accused of it? And which sin do I most vigorously deny possessing?" (Fulton J. Sheen, *On Being Human*).
 
-This leads to an examination of conscience, which really is an examination of our life, which really is an examination of our heart. What do I think about? Where do my thoughts go? What am I like on the inside?"
+This leads to an examination of conscience, which really is an examination of our life, which really is an examination of our heart. What do I think about? Where do my thoughts go? What am I like on the inside?
 
 *Sine cera*, without wax. He says, "No spiritual progress can be made until the master fault is dug up from its hiding place, brought into the light, and laid before God. For until the position of the enemy is known, he cannot be attacked" (*ibid*.).
 
@@ -139,9 +139,7 @@ That helps us to encounter God then in our work, in our personal prayer. It help
 
 One writer said, "Excuses are the nails that build a house of failure" (Don Wilder, *Excuses for All Occasions*). Excuses---many of the saints didn't accept excuses. You have to look at the truth and go to the real reasons.
 
-Pope St. John Paul II said, "Through this simplicity and clarity, one can construct the unity of the Kingdom of God. This unity is, at the same time, a mature interior unity of each person."
-
-Over time, grace and formation help us to grow to have that interior maturity. Deep spiritual soul.
+Pope St. John Paul II said, "Through this simplicity and clarity, one can construct the unity of the Kingdom of God. This unity is, at the same time, a mature interior unity of each person." Over time, grace and formation help us to grow to have that interior maturity. Deep spiritual soul.
 
 He says, "It is the foundation of the unity of spouses and families; it is the strength of societies: of societies that perhaps already feel, and more each time, how an attempt is being made to destroy them from the inside, calling good evil and sin a sign of progress and liberation" (John Paul II, *Homily*, March 26, 1981). The devil turns things upside down.
 
@@ -151,9 +149,9 @@ We may see a great tendency in society not to call things by their names; find a
 
 We're constantly assaulted by the enemies of our souls: pride, vanity, laziness, sensuality, anger, envy, avarice, intemperance. We need to admit that sometimes we lend an ear to all of these enemies.
 
-Benedict XVI said, "To console us, the Lord has also given us these parables of the net with the good fish and the bad fish, or the field where the wheat grows but also the weeds grow.
+Benedict XVI said, "To console us, the Lord has also given us these parables of the net with the good fish and the bad fish (Matt. 13:47-51), of the field where the wheat grows but also the weeds grow (Matt. 13:24-30).
 
-"He makes us realize that he came precisely to help us in our weakness, and that he did not come, as he says, 'to call the just,' those who claim they are righteous through and through and are not in need of grace, those who pray praising themselves; but he came to call those who know they are lacking, to provoke those who know they need the Lord's forgiveness every day, that they need his grace to progress" (Benedict XVI, *Address*, February 17, 2007).
+"He makes us realize that he came precisely to help us in our weakness, and that he did not come, as he says, to call the just, those who claim they are righteous through and through and are not in need of grace, those who pray praising themselves; but he came to call those who know they are lacking, to provoke those who know they need the Lord's forgiveness every day, that they need his grace in order to progress" (Benedict XVI, *Address*, February 17, 2007).
 
 Our Lord gives us all the graces to know and accept ourselves, and to open up to God and to others.
 
@@ -189,7 +187,7 @@ We know from experience then that practicing the virtue of sincerity fills us wi
 
 That helps us to be very natural, to be a Christian through and through, to only have fear for sin, and not what people may think or say. Naturalness is not the same as just following the current trend. We are doing things for God.
 
-In the *Furrow,* we are told, "Anyone who hides a temptation from their spiritual director shares a secret with the devil. They become a friend of the enemy" (J. Escrivá, *Furrow*, Point 323).
+In the *Furrow* we are told, "Anyone who hides a temptation from \[his\] spiritual director shares a secret with the devil. \[He has\] become a friend of the enemy" (J. Escrivá, *Furrow*, Point 323).
 
 It's a rather interesting statement. It doesn't say: the day that you embezzle \$50,000 and don't tell anybody about it is the day you've made a secret with the devil.
 
