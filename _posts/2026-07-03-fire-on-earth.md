@@ -19,13 +19,11 @@ He tells them about this zeal: "I have come to cast fire upon the earth; and wou
 
 Our Lord has a holy impatience to ignite and offer His holocaust to the Father on Calvary for the sake of mankind: "I have a baptism to be baptized with, and how I am constrained until it is accomplished."
 
-There on the Cross, the fullness of God's love for His creatures was made manifest: "Greater love has no man than this, that a man lay down his life for his friends" (John 15:13). We prove that we are Christ's friends if we struggle to follow Him.
+There on the Cross the fullness of God's love for His creatures was made manifest: "Greater love has no man than this, that a man lay down his life for his friends" (John 15:13). We prove that we are Christ's friends if we struggle to follow Him.
 
-St. Augustine commented, "People who believe in him are enkindled. They receive the flame of charity. That is why the Holy Spirit appeared in this particular form at Pentecost: 'There appeared to them tongues as a fire, distributed and resting on each one of them' (Acts 2:3).
+St. Augustine commented, "People who believe in him are enkindled. They receive the flame of charity. That is why the Holy Spirit appeared in this particular form at Pentecost: 'There appeared to them tongues as a fire, distributed and resting on each one of them' (Acts 2:3). Set aflame by this fire, the apostles set out across the entire world to inflame others, including their enemies.
 
-"Set aflame by this fire, the apostles set out across the entire world to inflame others, including their enemies.
-
-"And what enemies did they have? Those who had forsaken God their Creator for the worship of man-made idols. The faith of such as these has been smothered to ashes. It is good for them so they be set alight by this holy flame so that they may once again shine forth in Christ's glory" (St. Augustine, *Commentary on Psalm 97, Point 5*).
+"And what enemies did they have? Those who had forsaken God their Creator for the worship of man-made idols. The faith of such as these has been smothered to ashes. It is good for them that they be set alight by this holy flame so that they may once again shine forth in Christ's glory" (St. Augustine, *Commentary on Psalm 97, Point 5*).
 
 The crucial task of setting the world on fire has been passed on to today's Christians. This fire of love and peace will strengthen and purify souls.
 
@@ -55,7 +53,7 @@ This offering is carried out primarily in the Holy Mass, which is the unbloody r
 
 In *Lumen gentium* of the Second Vatican Council, it speaks about the contribution of this that has to be made by the laity:
 
-"For all their works," it says, "prayers, and apostolic endeavors, their ordinary married and family life, their daily occupations, their physical and mental relaxation, if carried out in the Spirit, and even in the hardships of life, if patiently borne---all these become 'spiritual sacrifices acceptable to God through Jesus Christ' (1 Pet. 2:5).
+"For all their works," it says, "prayers, and apostolic endeavors, their ordinary married and family life, their daily occupations, their physical and mental relaxation, if carried out in the Spirit, and even the hardships of life, if patiently borne---all these become 'spiritual sacrifices acceptable to God through Jesus Christ' (1 Pet. 2:5).
 
 "Together with the offering of the Lord's body, they are most fittingly offered in the celebration of the Eucharist. As those everywhere who adore the holy activity, the laity consecrate the world itself to God" (Vatican II, *Lumen gentium*, Point 34, November 21, 1964).
 
@@ -123,7 +121,7 @@ In *Christ Is Passing By*, St. Josemaría says, "If we attend Mass well, surely 
 
 "And so we learn to thank Our Lord for his kindness in not limiting his presence to the time of the sacrifice of the altar. He has decided to stay with us in the Host which is reserved in the tabernacle" (J. Escrivá, *Christ Is Passing By*, Point 154).
 
-The tabernacle should be a Bethany for us, "a quiet and pleasant place where Christ resides. A place where we can tell him about our worries, our sufferings, our desires, and our joys with the same sort of simplicity and naturalness as Martha, Mary, and Lazarus" (*ibid*.).
+The tabernacle should be a Bethany for us, "a quiet and pleasant place where Christ resides. A place where we can tell him about our worries, our sufferings, our desires, our joys with the same sort of simplicity and naturalness as Martha, Mary, and Lazarus" (*ibid*.).
 
 We will find in the tabernacle the strength we need to do Our Lord's work, in union with many other Christians.
 
@@ -157,7 +155,7 @@ This has to constitute the essence of our being, the driving force behind all ou
 
 Our Lord is the only one we want to glorify through our work well done. He's our inspiration when we want to practice the social doctrine of the Church, when we try to improve the lot of every human person around us, promoting the dignity of every person, which is the word that's at the center of the whole of social teaching. All of us can have an impact in that area.
 
-We have to bring into our prayers, What influence does God want me to have? What can I do? How can I be more effective in improving the lot of every person around me?
+We have to bring it into our prayers: What influence does God want me to have? What can I do? How can I be more effective in improving the lot of every person around me?
 
 He wants us to strive to protect the environment. This all-embracing outlook leads every Christian to make an effort to be cordial and optimistic, to be punctual at work, to make good use of time, to overcome temptations to laziness.
 
@@ -177,9 +175,9 @@ People who can be leaders, people who are virtuous, people who are hard-working-
 
 St. Luke tells us that Our Lord preached these words not only to His disciples but also to His bitterest critics. We're told, "The Pharisees, who were lovers of money, heard all this, and they scoffed at him" (Luke 16:14).
 
-We may find that similar things can be observed in our own time. "The Pharisees jeered at what Jesus was saying in order to justify their own attachment to material things.
+We may find that similar things can be observed in our own time.
 
-"Some people can make fun of total commitment to God and detachment from material things, because they themselves are not ready to practice virtue. They cannot even imagine other people really having this generosity; they think that those other people must have ulterior motives" (*The Navarre Bible*, Note to Luke 16:13-14).
+"The Pharisees jeered at what Jesus was saying in order to justify their own attachment to material things. Some people can make fun of total commitment to God and detachment from material things, because they themselves are not ready to practice virtue. They cannot even imagine other people really having this generosity; they think that those other people must have ulterior motives" (*The Navarre Bible*, Note to Luke 16:13-14).
 
 Our Lord didn't hesitate to denounce the hypocrisy of the Pharisees. "You are those who justify yourselves before men, but God knows your hearts," we're told. "For what is exalted among men is an abomination in the sight of God" (Luke 16:15). Our Lord uses very strong terms to denounce the conduct of the Pharisees.
 
