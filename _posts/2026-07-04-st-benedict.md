@@ -6,9 +6,11 @@ title: "St. Benedict"
 
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here. That you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 Benedict was born in Nursia, Italy, about the year 480. After receiving an excellent education in Rome, he returned to Subiaco to live the life of a monk with some disciples that he gathered together. He then established the famous monastery, Monte Cassino, and wrote his rule for the monastic life. The volume that he wrote continues to influence constitutions for religious life today. It has earned for Benedict the title, the father of Western monasticism. He died at Monte Cassino on March 21st, 547.
 
@@ -66,6 +68,10 @@ We achieve it through correspondence to grace and to following Christ according 
 
 Because as St. John says, "He who does not love his brother whom he sees cannot love God whom he does not see" (1 John 4:20).
 
-*Let us ask Our Lady that she might help us to grow in our Christian identity. That we might be more like the first Christians. Let us invoke St. Benedict to help us in this new evangelization of the world, particularly perhaps of Europe. We pray for all those who continue each day on their way towards Christ. Our Lady, Queen of Apostles, pray for us.*
+Let us ask Our Lady that she might help us to grow in our Christian identity. That we might be more like the first Christians. Let us invoke St. Benedict to help us in this new evangelization of the world, particularly perhaps of Europe. We pray for all those who continue each day on their way towards Christ. Our Lady, Queen of Apostles, pray for us.
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *EW*
