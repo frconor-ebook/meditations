@@ -63,7 +63,7 @@ The seeds that fell on the path represent those who hear the word of the Kingdom
 
 We're reminded that we have to make our soul, our mind, our heart pliable like moist soil that opens up to receive the good seed, not dry and arid and impossible to place the seed in the ground.
 
-The evil one comes and takes away what has been sown in their hearts when it's arid, dry, impenetrable, full of pride and vanity. The devil uses this tactic and prevents the seed, therefore, from germinating in people's hearts.
+"The evil one comes and takes away what has been sown in their hearts" when it's arid, dry, impenetrable, full of pride and vanity. The devil uses this tactic and prevents the seed, therefore, from germinating in people's hearts.
 
 The second is the seed fallen on rocky ground. This kind represents the people who hear the Word of God and welcome it immediately with joy, but they have no roots in them. They're inconstant.
 
@@ -73,7 +73,7 @@ So, when tribulation or persecution comes, they fall away immediately.
 
 We have seen and we know from history and our own experience, the inconstancy of people deprived of the roots, which would otherwise enable the Word to grow. They're superficial; there's no depth. They haven't taken things seriously enough.
 
-The third case is the seed fallen among the thorns. Our Lord explains that He's thinking of those who hear the Word, but because of the worries of this world, or their attachment to riches, or their focus on the material things of this life, they haven't stored up for themselves treasures in heaven, and neither are they working towards that.
+e\. Our Lord explains that He's thinking of those who hear the Word, but because of the worries of this world, or their attachment to riches, or their focus on the material things of this life, they haven't stored up for themselves treasures in heaven, and neither are they working towards that.
 
 They're limited in the present. This stifles the Word so that it doesn't bear fruit.
 
@@ -99,11 +99,11 @@ If we examine our conscience, we may see the rocks of laziness, the stones of di
 
 We can learn to call these brambles by their names. We identify what this is and what that is---all those things that cause us to be unfruitful ground.
 
-And maybe to ask: How can I be more fruitful? I want to live out my Christian mission, my apostolic mission that God has given to me. I don't know whether I'm called to render 30-fold or 60-fold or 100-fold. It's not my business, nor really anyone else's, but God's.
+And maybe to ask: How can I be more fruitful? I want to live out my Christian mission, my apostolic mission that God has given to me. I don't know whether I'm called to render 30-fold or 60-fold or 100-fold. It's not my business, nor really anyone else's but God's.
 
 Isaiah also tells us that the Word of God will always accomplish its purpose, provided we do not deliberately try to shut it out (*cf*. Isa. 55:11).
 
-Lord, help me to correspond to all the graces that you give me, all the seeds that you've sown in my life through my Christian formation, through my family formation, through the spiritual, apostolic, doctrinal, and spiritual formation that I've received all throughout my life.
+Lord, help me to correspond to all the graces that you give me, all the seeds that you've sown in my life through my Christian formation, through my family formation, through \[the\] spiritual, apostolic, doctrinal, and spiritual formation that I've received all throughout my life.
 
 Jesus is the sower. In this image, He doesn't impose Himself, but He proposes. He throws out the seed, attracting us not by conquering us, but by giving Himself to us.
 
@@ -163,9 +163,9 @@ The Church gives us all the means we need for our sanctification: the sacraments
 
 Our Lord has the right to expect the necessary correspondence on our part to maintain this purity of spirit, to savor the gift, to thank God for the great gift of our formation that He's given to us, and to use it well, to see it's a great seed that God has placed on our lips, on our heart, on our mind.
 
-We're told in St. Luke that having brought their ships to land and leaving all things, "they followed him" (Luke 5:11). The apostles correspond.
+We're told in St. Luke that having brought their ships to land and leaving all things, "they followed him" (Luke 5:11). The apostles correspond. They don't know yet what's in the future, but they give themselves completely.
 
-They don't know yet what's in the future, but they give themselves completely. They're open to receiving the seeds that Jesus wants to sow in their souls. "Come after me, and I will make you into fishers of men" (Matt. 4:19).
+They're open to receiving the seeds that Jesus wants to sow in their souls. "Come after me, and I will make you into fishers of men" (Matt. 4:19).
 
 "Amen, amen, I say to you. When you were younger, you girded yourself and you walked where you wanted. But when you're older, you will stretch out your hand and another will guide you and lead you where you might not want to go" (*cf.* John 21:18).
 
