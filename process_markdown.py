@@ -426,8 +426,31 @@ def convert_markdown_to_meditations(source_dir, output_dir, data_dir):
         json.dump(topics, f, indent=1)
     print(f"Created: {topics_path} ({len(topics)} topics)")
 
-    # Full index: local artifact only (gitignored), used by the URL-shortener
+    # Tagging coverage report: flag meditations added since the previous run
+    # that landed untagged, so drift surfaces in the pipeline log
     meditations_json_path = os.path.join(data_dir, "meditations.json")
+    prev_slugs = set()
+    if os.path.exists(meditations_json_path):
+        try:
+            with open(meditations_json_path) as f:
+                prev_slugs = {x.get("slug") for x in json.load(f)}
+        except (json.JSONDecodeError, IOError):
+            pass
+    untagged = sum(1 for m in meditations if not m["tags"])
+    print(
+        f"Tags: {len(meditations) - untagged}/{len(meditations)} meditations "
+        f"tagged ({untagged} untagged)."
+    )
+    if prev_slugs:
+        for m in meditations:
+            if m["slug"] not in prev_slugs:
+                status = (
+                    ", ".join(m["tags"]) if m["tags"]
+                    else "UNTAGGED — consider adding a TAG_RULES pattern"
+                )
+                print(f"  New: {m['title']} [{status}]")
+
+    # Full index: local artifact only (gitignored), used by the URL-shortener
     with open(meditations_json_path, "w") as f:
         json.dump(meditations, f, indent=2)
     print(f"Created: {meditations_json_path}")
