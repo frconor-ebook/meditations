@@ -2,133 +2,152 @@
 
 Findings from a code review of `frcmed_full_pipeline.sh`, `process_markdown.py`,
 `download_from_dropbox.py`, the Jekyll layouts/JS, and the git history.
-Ranked by impact. (Reviewed 2026-07-06.)
+Originally reviewed 2026-07-06; **status updated 2026-07-06** after implementation.
+
+**Progress: 9 of 10 done.** Only #9 (browsing UX) remains, plus two operator
+tasks noted at the bottom.
+
+| # | Item | Status |
+|---|------|--------|
+| 1 | Replace dated `_posts` with a collection | ✅ Done |
+| 2 | Remove `site.time` cache-buster | ✅ Done |
+| 3 | Stop shipping the 12 MB `meditations.json` | ✅ Done |
+| 4 | Fix excerpt word-concatenation bug | ✅ Done |
+| 5 | Full-text ranked search with snippets | ✅ Done |
+| 6 | GitHub Actions deploy, stop committing `docs/` | ✅ Done |
+| 7 | Safer deploy (`git add` paths, `--force-with-lease`) | ✅ Done |
+| 8 | SEO: seo-tag, sitemap, descriptions | ✅ Done |
+| 9 | Corpus organization: tags, A–Z nav, related | ⬜ **Remaining** |
+| 10 | Fail loudly: exit codes, validation gate | ✅ Done |
 
 ---
 
-## 1. Stop dating posts with `datetime.now()` — it's the root cause of the duplicate-post problem
+## ✅ 1. Replace dated `_posts` with a `_meditations` collection
 
-`process_markdown.py:184` names every post `{today}-{slug}.md`. Reprocess the same
-source file on a different day and you get a *second* post with a new date — which is
-why the pipeline needs the `deduplicate` bash step and `future: true` in `_config.yml`.
-Both are patches over the symptom.
+**Was:** `process_markdown.py` named every post `{today}-{slug}.md`, so reprocessing
+created duplicates — patched over by a `deduplicate` bash step and `future: true`.
 
-**Fix:** dates are meaningless for this content, so drop `_posts` entirely and use a
-Jekyll **collection** (`_meditations/` with `output: true`). Filenames become just
-`{slug}.md`, URLs stay `/homilies/:slug/`, and the dedupe step, the date-sort hack,
-and `future: true` all get deleted. ~1 hour of work, removes a whole failure class.
+**Done** (`484d02f9`): rewrote the processor as a deterministic full rebuild into a
+`_meditations/` collection (`output: true`, permalink `/homilies/:name/`). Filenames
+are now `{slug}.md`. Deleted the dedupe step, `future: true`, and the manifest/merge
+logic. URLs verified unchanged by diffing the built URL space. The old deletion-matching
+used substring containment and never actually worked — which is how stale posts
+accumulated; it's gone.
 
-## 2. Remove the `site.time` cache-buster — every build rewrites all ~600 pages
+## ✅ 2. Remove the `site.time` cache-buster
 
-`_layouts/default.html:72` loads `search.js?v={{ site.time | date: '%s' }}`. The build
-timestamp changes on every run, so **every HTML file in `docs/` changes on every daily
-build even when no content changed**. That's exactly what the "Automated daily update"
-commits show: 600+ files, 2 lines each. This is the main driver of repo bloat (pack is
-already **343 MiB**) and makes real content changes impossible to spot in diffs.
+**Was:** `search.js?v={{ site.time | date: '%s' }}` changed on every build, rewriting
+every HTML page in `docs/` even with no content change — the main repo-bloat driver.
 
-**Fix:** version by content, not by build time — e.g. hardcode `?v=3` and bump when
-`search.js` actually changes, or inject a hash of the file. One-line change, and
-no-op daily runs become genuinely empty commits (which then get skipped).
+**Done** (`bee42faf`): pinned to a static `?v=N` string, bumped only when `search.js`
+changes. No-op builds now produce empty diffs.
 
-## 3. Stop shipping the 12 MB `meditations.json` — nothing uses it
+## ✅ 3. Stop shipping the 12 MB `meditations.json`
 
-`grep` shows no JS, include, or layout references `data/meditations.json`; search uses
-only the 672 KB `search_index.json`. The 12 MB file is regenerated, committed, and
-copied into `docs/` (so GitHub Pages serves it publicly) on every run — pure dead
-weight in git history and a free bulk-download of the entire corpus.
+**Was:** regenerated, committed, and served publicly on every run; nothing on the site
+used it (search uses only `search_index.json`).
 
-**Fix:** stop writing it into the site (exclude from build + `.gitignore` it), or stop
-generating it. Keep it as a local artifact only if the URL-shortener scripts need it.
+**Done** (`bee42faf`): excluded from the Jekyll build and gitignored. Still generated
+locally as an artifact for the URL-shortener scripts and incremental use.
 
-## 4. Fix the word-concatenation bug in excerpts/search index
+## ✅ 4. Fix the word-concatenation bug in excerpts/search index
 
-`process_markdown.py:209-211` builds the content with
-`"".join([line.rstrip("\r\n") for line in content_lines])` — joining on the **empty
-string**, so the last word of each source line is glued to the first word of the next
-("...prayer**And** so..."). Every excerpt and every search-index entry is corrupted at
-line boundaries, which silently breaks searches for phrases that span lines.
+**Was:** `"".join(...)` over stripped lines glued the last word of each line to the
+first word of the next ("...prayerAnd so..."). **434 of 566 excerpts** were corrupted.
 
-**Fix:** join with `"\n"` (or `" "`), then normalize whitespace. Regenerate the index
-with `--force` afterward.
+**Done** (`bee42faf`): join with spaces and collapse whitespace; index regenerated.
+Excerpts also now skip the shared opening boilerplate (byline, proofread marker, opening
+prayers) so they start at real content — previously "Holy Spirit" matched every document
+via the shared opening prayer.
 
-## 5. Upgrade search: full-text, ranked, with snippets
+## ✅ 5. Full-text, ranked search with snippets
 
-`assets/js/search.js` does a raw `includes()` substring match on title + the first
-200 words only. Anything mentioned after word 200 of a meditation is unfindable; there
-is no ranking, no typo tolerance, no result snippets, and results are plain title links.
+**Was:** raw `includes()` substring match on title + first 200 words only; no ranking,
+typos, or snippets.
 
-**Fix:** drop in a tiny client-side engine — [MiniSearch](https://lucaong.github.io/minisearch/)
-or Fuse.js (~10 KB) — over a fuller index (title + content, or title + a larger
-excerpt). Add highlighted snippets and a result count. This is the single biggest
-user-facing win for a 565-document reference site.
+**Done** (`168b62d5`): vendored [MiniSearch](https://lucaong.github.io/minisearch/)
+(18 KB) with title boosting, prefix + fuzzy matching, AND semantics with OR fallback,
+and stopword filtering. Results show highlighted snippets and a count. Index excerpts
+extended to 400 words, minified (~1.3 MB raw / 0.46 MB gzipped), and lazy-loaded on first
+search interaction instead of on every page view.
 
-## 6. Move the pipeline to GitHub Actions and stop committing `docs/`
+## ✅ 6. GitHub Actions deploy; stop committing `docs/`
 
-The whole build runs on a personal box via cron and force-pushes generated HTML to
-`main`. If the box dies, updates stop; failures are silent; and git history is 90%
-build output.
+**Was:** the whole build ran on a personal box and force-pushed generated HTML to `main`;
+git history was ~90% build output.
 
-**Fix:** a scheduled GitHub Actions workflow that (a) downloads from Dropbox using a
-repo secret, (b) runs convert/process, (c) builds Jekyll, and (d) publishes with
-`actions/deploy-pages` — so `docs/` never touches git again. Only source markdown and
-`_posts`/`_meditations` get committed. You get failure emails from Actions for free,
-and the force-push problem (see #7) disappears entirely.
+**Done** (`d60dad91`, `5ce6d806`): `.github/workflows/deploy.yml` builds, runs a
+validation gate, and deploys atomically via `actions/deploy-pages`. Pages source switched
+to "GitHub Actions" (requires the `frconor-ebook` owner login — collaborator and workflow
+tokens get 403). `docs/` is now gitignored; the pipeline commits **sources only**
+(`_meditations/`, `data/`) and the push triggers CI. A content change is now a 1-file
+commit instead of ~578. Actions emails on failure.
 
-## 7. Make deploy safer: no `git add .`, no bare `--force`
+*Note:* content generation (Dropbox download, pandoc, processing) deliberately stays in
+the local pipeline — the Dropbox tokens, pandoc, DocX corpus, and Telegram reporting live
+there. Only build+deploy moved to CI. `actions/deploy-pages` occasionally returns a
+transient "try again later"; `gh run rerun <id>` clears it.
 
-`frcmed_full_pipeline.sh:631,655` does `git add .` then `git push --force origin main`.
-Two risks: `git add .` will commit any stray file in the tree the moment `.gitignore`
-misses it (the `.env` with Dropbox tokens is one typo away), and bare `--force`
-overwrites anything on the remote, including a hotfix pushed from another machine.
+## ✅ 7. Safer deploy: no `git add .`, no bare `--force`
 
-**Fix:** add explicit paths (`git add _posts data docs assets _layouts ...`) and use
-`git push --force-with-lease`. Two-line change. (Superseded by #6 if you adopt Actions.)
+**Was:** `git add .` + `git push --force origin main` — one `.gitignore` miss from
+committing the `.env` Dropbox tokens, and `--force` could clobber a remote hotfix.
 
-## 8. Add SEO basics: `jekyll-seo-tag`, sitemap, per-page descriptions
+**Done** (`bee42faf`, then `5ce6d806`): explicit `git add` paths and
+`git push --force-with-lease`. Now largely subsumed by #6 (CI does the deploy).
 
-Pages have no meta description, no Open Graph/Twitter tags, no canonical URL, and
-there's no `sitemap.xml` — for a content site whose whole purpose is being found and
-shared, this is leaving traffic on the table. The excerpts needed for descriptions
-already exist in the JSON index.
+## ✅ 8. SEO basics: seo-tag, sitemap, per-page descriptions
 
-**Fix:** add `jekyll-seo-tag` + `jekyll-sitemap` to the Gemfile/config, emit
-`description: {excerpt}` into each post's front matter in `process_markdown.py`, and
-put `{% seo %}` in `default.html`. Shared links (WhatsApp etc. via your share buttons)
-will then show real previews.
+**Was:** no meta descriptions, Open Graph/Twitter tags, canonical URLs, or sitemap.
 
-## 9. Organize the corpus: tags, A–Z jump nav, and per-meditation navigation
+**Done** (`ff4f3bdb`): added `jekyll-seo-tag` (`{% seo %}` in `default.html`) and
+`jekyll-sitemap`. Each meditation gets a ~155-char `description` in front matter (from the
+cleaned excerpt) and the badge icon as `og:image`, so shared links show real previews.
+`robots.txt` points at the 563-URL sitemap. Titles/descriptions are JSON-escaped so quotes
+can't break the YAML. Site verified in Google Search Console and sitemap submitted
+(verification file `googleabc8ea00a67800ef.html` must stay in the repo).
 
-The homepage is a single alphabetical list of 565 titles, and a homily page is a dead
-end (`_layouts/homily.html` is just title + content — no prev/next, no related items,
-no reading time). The content has obvious natural facets: liturgical season, feast
-days, saints, virtues, parables.
+## ⬜ 9. Organize the corpus: tags, A–Z jump nav, per-meditation navigation — **REMAINING**
 
-**Fix:** add a `tags:` field during processing (even a simple keyword→tag mapping on
-titles gets you 80% there), render tag pages, add an A–Z jump bar on the index, and
-give `homily.html` prev/next links, estimated reading time, and 3–5 "related
-meditations" (shared tag). Turns a lookup table into something browsable.
+The homepage is still a single alphabetical list of 560 titles, and a meditation page is a
+dead end (`_layouts/homily.html` is just title + content — no prev/next, no related items,
+no reading time). The content has obvious natural facets: liturgical season, feast days,
+saints, virtues, parables.
 
-## 10. Make the pipeline fail loudly: exit codes, validation, notifications
+**Plan:** add a `tags:` field during processing (a keyword→tag mapping on titles gets most
+of the way), render tag pages, add an A–Z jump bar on the index, and give `homily.html`
+prev/next links, estimated reading time, and 3–5 shared-tag "related meditations." Turns a
+lookup table into something browsable. This is the last item and the biggest remaining
+user-facing win.
 
-Several failures are currently invisible:
-- `download_from_dropbox.py:401` — `sys.exit(0 if result else 0)` is **always 0**, so
-  the pipeline can't distinguish "downloaded" from "failed".
-- Broad `except Exception` blocks in the download/processing scripts print and continue.
-- Post-deletion matching (`process_markdown.py:123`) uses substring containment
-  (`base_name in post_file`), so deleting `faith.md` would also remove
-  `life-of-faith.md`'s post.
-- Nothing validates the build before deploy.
+## ✅ 10. Fail loudly: exit codes, validation gate
 
-**Fix:** return real exit codes; make deletion matching exact
-(`post_file.endswith(f"-{base_name}.md")` only); and add a pre-deploy sanity gate to
-the pipeline — post count within expected range, both JSON files parse, no zero-byte
-HTML in `docs/`. With #6, a failed gate becomes a failed Actions run that emails you.
+**Was:** `download_from_dropbox.py` did `sys.exit(0 if result else 0)` — always 0.
+Deletion matching used substring containment (deleting `faith.md` would nuke
+`life-of-faith.md`). Nothing validated the build before deploy.
+
+**Done** (`22dbc950`): download script now exits 1 on failure so the pipeline stops
+instead of processing stale files. A new `validate` step (and the same check in CI) gates
+deploy on: meditation count ≥ 500, search index parses and matches the collection,
+built-page count matches, no empty HTML. The buggy substring deletion matching was removed
+entirely with the #1 rewrite (the full rebuild has no delete step). Verified it both passes
+on a good build and aborts on a sabotaged one.
 
 ---
 
-### Suggested order of attack
+### Done along the way (not in the original 10)
 
-Quick wins first: **#2, #3, #4, #7** are each under an hour and stop ongoing damage
-(repo bloat, corrupt index, deploy risk). Then **#5** (search) for the biggest user
-win, **#1** (collection) to simplify the pipeline, **#6 + #10** to make automation
-trustworthy, and **#8 + #9** as the polish pass.
+- **Favicon set** (`73a6e10a`) — `favicon.ico` + PNGs + apple-touch-icon derived from
+  `logo-circ.png`, linked from `default.html`.
+- **Search deploy fix** (`fc506457`) — a bare `vendor/` gitignore pattern silently dropped
+  the vendored MiniSearch from the commit, 404ing live search; scoped to `/vendor/` and
+  added `docs/.nojekyll`.
+
+### Operator tasks (require account access, not code)
+
+- **Delete two stray Dropbox duplicates** — `friendship-of-jesus.mvfpr.md` (byte-identical
+  to `friendship-with-jesus.mvfpr.md`) and the non-`.rkpr` `the-harvest-is-plentiful.md`.
+  The pipeline tolerates them (keeps the later/proofread one) but warns every run until
+  they're removed.
+- **(Optional) Google Search Console** — done: verified and sitemap submitted. Just monitor
+  indexing over the coming days.
