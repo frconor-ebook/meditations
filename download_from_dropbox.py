@@ -348,18 +348,19 @@ def download_and_process_dropbox_folder(shared_link, target_directory, force=Fal
     zip_path = os.path.join(target_directory, "downloaded.zip")
 
     # Download the folder as a zip
-    if download_shared_folder_as_zip(dbx, shared_link, zip_path):
-        # Unzip and clean up
-        if unzip_and_cleanup(zip_path, target_directory):
-            # Update manifest with new hashes
-            if current_hashes:
-                manifest = load_manifest(script_dir)
-                manifest["dropbox_hashes"] = current_hashes
-                save_manifest(script_dir, manifest)
-                print(f"Updated manifest with {len(current_hashes)} file hashes.")
-            return True
+    if not download_shared_folder_as_zip(dbx, shared_link, zip_path):
+        raise RuntimeError("Dropbox download failed")
 
-    return False
+    if not unzip_and_cleanup(zip_path, target_directory):
+        raise RuntimeError("Unzip/cleanup failed after download")
+
+    # Update manifest with new hashes
+    if current_hashes:
+        manifest = load_manifest(script_dir)
+        manifest["dropbox_hashes"] = current_hashes
+        save_manifest(script_dir, manifest)
+        print(f"Updated manifest with {len(current_hashes)} file hashes.")
+    return True
 
 
 # Main execution
@@ -392,10 +393,15 @@ if __name__ == "__main__":
     script_dir = os.path.dirname(os.path.abspath(__file__))
     target_directory = os.path.dirname(script_dir)
 
-    # Run the complete workflow
-    result = download_and_process_dropbox_folder(
-        shared_link, target_directory, force=args.force
-    )
-
-    # Exit with appropriate code
-    sys.exit(0 if result else 0)  # 0 = success (including no changes needed)
+    # Run the complete workflow.
+    # Exit 0 = success (downloaded, or no changes needed); exit 1 = failure,
+    # so the pipeline actually stops instead of processing stale files.
+    try:
+        downloaded = download_and_process_dropbox_folder(
+            shared_link, target_directory, force=args.force
+        )
+        print("Downloaded new files." if downloaded else "Nothing to download.")
+        sys.exit(0)
+    except Exception as e:
+        print(f"ERROR: {e}")
+        sys.exit(1)

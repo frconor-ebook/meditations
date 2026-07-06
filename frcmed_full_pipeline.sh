@@ -16,7 +16,7 @@
 
 # Script configuration
 set -o pipefail  # Ensure pipeline errors are caught
-SCRIPT_VERSION="1.8.0"
+SCRIPT_VERSION="1.9.0"
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 BASE_DIR="$SCRIPT_DIR"  # Changed: Use script directory as base directory
 PARENT_DIR="$(cd "$(dirname "$0")" && pwd)/.."
@@ -34,6 +34,7 @@ SKIP_DOWNLOAD=false
 SKIP_CONVERT=false
 SKIP_STANDARDIZE=false
 SKIP_PROCESS=false
+SKIP_VALIDATE=false
 SKIP_BUILD=false
 SKIP_DEPLOY=false
 
@@ -42,6 +43,7 @@ INCLUDE_DOWNLOAD=false
 INCLUDE_CONVERT=false
 INCLUDE_STANDARDIZE=false
 INCLUDE_PROCESS=false
+INCLUDE_VALIDATE=false
 INCLUDE_BUILD=false
 INCLUDE_DEPLOY=false
 INCLUDE_ANY=false  # Track if any include flags are set
@@ -66,9 +68,9 @@ show_help() {
     echo "Options:"
     echo "  -v, --verbose           Enable verbose output"
     echo "  -s, --skip-step STEPS   Skip specific step(s) (comma-separated list)"
-    echo "                          Valid steps: download,convert,standardize,process,build,deploy"
+    echo "                          Valid steps: download,convert,standardize,process,build,validate,deploy"
     echo "  -i, --include-step STEPS Only run specific step(s) (comma-separated list)"
-    echo "                          Valid steps: download,convert,standardize,process,build,deploy"
+    echo "                          Valid steps: download,convert,standardize,process,build,validate,deploy"
     echo "  -f, --force             Force full processing (ignore incremental change detection)"
     echo "  -m, --message MSG       Custom git commit message (optional)"
     echo "  -l, --log FILE          Write output to log file"
@@ -153,6 +155,9 @@ set_skip_flag() {
         process)
             SKIP_PROCESS=true
             ;;
+        validate)
+            SKIP_VALIDATE=true
+            ;;
         build)
             SKIP_BUILD=true
             ;;
@@ -183,6 +188,9 @@ set_include_flag() {
             ;;
         process)
             INCLUDE_PROCESS=true
+            ;;
+        validate)
+            INCLUDE_VALIDATE=true
             ;;
         build)
             INCLUDE_BUILD=true
@@ -522,6 +530,58 @@ build_jekyll_site() {
     log "SUCCESS" "Jekyll site has been built."
 }
 
+# Function to validate the build output before deploying
+validate_site() {
+    if [[ "$INCLUDE_ANY" = true && "$INCLUDE_VALIDATE" = false ]]; then
+        log "INFO" "Skipping validation (not included in specified steps)."
+        return 0
+    fi
+
+    if [[ "$SKIP_VALIDATE" = true ]]; then
+        log "WARNING" "Skipping validation as requested."
+        return 0
+    fi
+
+    log "INFO" "Validating build output..."
+
+    cd "$BASE_DIR" || error_message "Could not change to base directory."
+
+    # Source sanity: the meditations collection should be large and stable
+    local src_count
+    src_count=$(find _meditations -name '*.md' 2>/dev/null | wc -l)
+    if [[ "$src_count" -lt 500 ]]; then
+        error_message "Validation failed: only $src_count meditation files (expected >= 500). Refusing to deploy."
+    fi
+
+    # The search index must parse and match the collection
+    python3 -c "
+import json, sys
+idx = json.load(open('data/search_index.json'))
+expected = $src_count
+if len(idx) != expected:
+    sys.exit(f'search index has {len(idx)} entries but there are {expected} meditation files')
+" || error_message "Validation failed: search index is broken or out of sync."
+
+    # Build output sanity
+    if [[ ! -s "docs/index.html" ]]; then
+        error_message "Validation failed: docs/index.html is missing or empty."
+    fi
+
+    local page_count
+    page_count=$(find docs/homilies -name index.html 2>/dev/null | wc -l)
+    if [[ "$page_count" -ne "$src_count" ]]; then
+        error_message "Validation failed: $page_count built homily pages vs $src_count meditations."
+    fi
+
+    local empty_pages
+    empty_pages=$(find docs -name 'index.html' -empty 2>/dev/null | wc -l)
+    if [[ "$empty_pages" -gt 0 ]]; then
+        error_message "Validation failed: $empty_pages empty HTML page(s) in build output."
+    fi
+
+    log "SUCCESS" "Build output validated ($src_count meditations, $page_count pages)."
+}
+
 # Function to deploy to GitHub Pages
 deploy_to_github() {
     if [[ "$INCLUDE_ANY" = true && "$INCLUDE_DEPLOY" = false ]]; then
@@ -626,6 +686,7 @@ main() {
     standardize_filenames
     process_markdown
     build_jekyll_site
+    validate_site
     deploy_to_github
 
     # Display summary
