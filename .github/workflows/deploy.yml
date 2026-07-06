@@ -1,0 +1,72 @@
+name: Build and Deploy Site
+
+# Builds the Jekyll site from committed sources (_meditations/, data/,
+# layouts, assets) and deploys atomically via GitHub Pages Actions.
+# Content generation (Dropbox download, pandoc, processing) happens in
+# frcmed_full_pipeline.sh, which commits sources and pushes to trigger this.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deploy at a time; a newer push supersedes an in-flight one
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+        with:
+          # Switches the Pages source to "GitHub Actions" on first run
+          enablement: true
+
+      - name: Build site
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+
+      - name: Validate build
+        run: |
+          set -e
+          test -s docs/index.html || { echo "FAIL: docs/index.html missing or empty"; exit 1; }
+          pages=$(find docs/homilies -name index.html | wc -l)
+          echo "homily pages: $pages"
+          [ "$pages" -ge 500 ] || { echo "FAIL: only $pages homily pages (expected >= 500)"; exit 1; }
+          python3 -c "
+          import json
+          idx = json.load(open('docs/data/search_index.json'))
+          assert len(idx) >= 500, f'search index has only {len(idx)} entries'
+          print(f'search index entries: {len(idx)}')
+          "
+          test -s docs/sitemap.xml || { echo "FAIL: sitemap.xml missing"; exit 1; }
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
