@@ -2,6 +2,13 @@
 layout: homily
 title: "Christian Virtues"
 description: "Our Lord tells us frequently in Scripture, \"I have given you an example, that you should do as I have done\" (John 13:15). There are many places where Our..."
+reading_time: 15
+tags: ["Virtues & Struggle"]
+prev_slug: christian-identity
+prev_title: "Christian Identity"
+next_slug: christmas
+next_title: "Christmas"
+related: [{"slug": "education-in-social-virtues", "title": "Education In Social Virtues"}, {"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "christian-identity", "title": "Christian Identity"}]
 ---
 
 By Fr. Conor Donnelly

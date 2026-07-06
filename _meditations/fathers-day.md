@@ -2,6 +2,13 @@
 layout: homily
 title: "Father\u2019s Day"
 description: "\"And rising up he came to his father. And when he was yet a great way off, his father saw him and was moved with compassion, and running to him, fell upon..."
+reading_time: 23
+tags: ["Family & Marriage"]
+prev_slug: faithfulness
+prev_title: "Faithfulness"
+next_slug: feast-of-the-archangels-2026
+next_title: "Feast of the Archangels (2026)"
+related: [{"slug": "on-our-way-to-the-house-of-our-father", "title": "On Our Way to The House of Our Father"}, {"slug": "our-father-god", "title": "Our Father God"}, {"slug": "the-father-in-the-work", "title": "The Father in the Work"}]
 ---
 
 By Fr. Conor Donnelly

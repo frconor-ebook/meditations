@@ -2,6 +2,13 @@
 layout: homily
 title: "Self-emptying and St. Joseph"
 description: "\"...something to be grasped, but emptied himself, taking the form of a slave, becoming as human beings are; and being in every way like a human being, he..."
+reading_time: 20
+tags: ["St. Joseph", "Saints & Feast Days"]
+prev_slug: self-denial
+prev_title: "Self-denial"
+next_slug: serving-one-master
+next_title: "Serving One Master"
+related: [{"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}, {"slug": "st-joseph-and-the-treasure-of-silence", "title": "St. Joseph and The Treasure of Silence"}]
 ---
 
 By Fr. Conor Donnelly

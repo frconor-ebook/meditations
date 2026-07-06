@@ -2,6 +2,13 @@
 layout: homily
 title: "The Blind Man"
 description: "\"They came to Bethsaida, and some people brought to him a blind man, whom they begged him to touch. He took the blind man by the hand and led him outside..."
+reading_time: 16
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: the-birthday-of-the-prelate-don-fernando
+prev_title: "The Birthday of the Prelate (Don Fernando)"
+next_slug: the-bread-our-heavenly-mother-gives-us
+next_title: "The Bread Our Heavenly Mother Gives Us"
+related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
 ---
 
 By Fr. Conor Donnelly

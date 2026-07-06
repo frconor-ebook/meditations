@@ -2,6 +2,12 @@
 layout: homily
 title: "Mary of Bethany\u2019s Authentic Love"
 description: "\"Jesus, therefore, six days before the Pasch, came to Bethany, where Lazarus had been dead and Jesus raised to life. They made him a supper there, and..."
+reading_time: 20
+prev_slug: mary-mother-of-god-2027-edition
+prev_title: "Mary Mother of God (2027 Edition)"
+next_slug: mary-mother-of-god
+next_title: "Mary, Mother of God"
+related: [{"slug": "at-the-school-of-mary", "title": "At the School of Mary"}, {"slug": "conjugal-love", "title": "Conjugal Love"}, {"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}]
 ---
 
 By Fr. Conor Donnelly

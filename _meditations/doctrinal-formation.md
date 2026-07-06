@@ -2,6 +2,12 @@
 layout: homily
 title: "Doctrinal Formation"
 description: "\"And he entered Capernaum, and immediately on the Sabbath he went into the synagogue and began to teach them. And they were astonished at his teaching..."
+reading_time: 23
+prev_slug: do-not-let-your-hearts-be-troubled
+prev_title: "Do Not Let Your Hearts Be Troubled"
+next_slug: easter-faith
+next_title: "Easter Faith"
+related: [{"slug": "on-formation", "title": "On Formation"}, {"slug": "taking-advantage-of-the-means-of-formation", "title": "Taking Advantage of the Means of Formation"}]
 ---
 
 By Fr. Conor Donnelly

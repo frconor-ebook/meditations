@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Thomas Aquinas"
 description: "St. Thomas Aquinas was born in 1224. He died in 1274 at the age of 50. He was educated at the Abbey of Monte Cassino, just south of Rome, and at the..."
+reading_time: 16
+tags: ["Saints & Feast Days"]
+prev_slug: st-thomas
+prev_title: "St. Thomas"
+next_slug: st-thomas-more
+next_title: "St. Thomas More"
+related: [{"slug": "st-thomas", "title": "St. Thomas"}, {"slug": "st-thomas-more", "title": "St. Thomas More"}, {"slug": "st-thomas-more-and-st-john-fisher-2026", "title": "St. Thomas More and St. John Fisher (2026)"}]
 ---
 
 

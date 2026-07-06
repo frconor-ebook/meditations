@@ -2,6 +2,13 @@
 layout: homily
 title: "The Dedication of the Basilica of St. Mary Major"
 description: "\"It happened that as he was speaking, a woman in the crowd raised her voice and said, 'Blessed is the womb that bore you and the breast that fed you.' But..."
+reading_time: 18
+tags: ["Saints & Feast Days"]
+prev_slug: the-decree-of-caesar-augustus-and-the-journey-to-bethlehem
+prev_title: "The Decree of Caesar Augustus and The Journey to Bethlehem"
+next_slug: the-depths-of-simplicity
+next_title: "The Depths of Simplicity"
+related: [{"slug": "dedication-of-the-basilica-of-st-john-lateran-2026", "title": "Dedication of the Basilica of St. John Lateran (2026)"}, {"slug": "st-john-mary-vianney", "title": "St. John Mary Vianney"}, {"slug": "st-john-mary-vianney-2026", "title": "St. John Mary Vianney (2026)"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Easter Joy"
 description: "\"Rejoice and be glad, O Virgin Mary, alleluia! For the Lord has truly risen\" (Prayer, Regina Coeli). Easter joy is an important part of our Christian..."
+reading_time: 21
+tags: ["Lent, Holy Week & Easter"]
+prev_slug: easter-faith
+prev_title: "Easter Faith"
+next_slug: easter-sunday
+next_title: "Easter Sunday"
+related: [{"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "easter-sunday", "title": "Easter Sunday"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}]
 ---
 
 By Fr. Conor Donnelly

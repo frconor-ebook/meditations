@@ -2,6 +2,13 @@
 layout: homily
 title: "Spiritual Childhood"
 description: "St. Mark tells us, \"They were bringing children to him, that he might touch them, and the disciples rebuked them.\" That's where He says, \"'Truly, I say to..."
+reading_time: 17
+tags: ["Prayer & Interior Life"]
+prev_slug: spirit-of-service
+prev_title: "Spirit of Service"
+next_slug: spiritual-direction
+next_title: "Spiritual Direction"
+related: [{"slug": "life-of-childhood", "title": "Life of Childhood"}, {"slug": "spiritual-direction", "title": "Spiritual Direction"}, {"slug": "spiritual-receptivity", "title": "Spiritual Receptivity"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,12 @@
 layout: homily
 title: "A Cup of Cold Water"
 description: "\"If anyone can give so much as a cup of cold water to one of these little ones, because he is a disciple, then I tell you solemnly, he will most certainly..."
+reading_time: 15
+prev_slug: a-christian-outlook-on-death
+prev_title: "A Christian Outlook on Death"
+next_slug: a-merciful-messiah
+next_title: "A Merciful Messiah"
+related: [{"slug": "walking-on-the-waterfaith", "title": "Walking on the Water\u2013\u2013Faith"}]
 ---
 
 By Fr. Conor Donnelly

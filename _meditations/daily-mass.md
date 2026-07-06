@@ -2,6 +2,13 @@
 layout: homily
 title: "Daily Mass"
 description: "\"And he took bread, and when he had given thanks, he broke it and gave it to them, saying, 'This is my body, given for you. Do this in remembrance of me.'..."
+reading_time: 21
+tags: ["Eucharist & the Mass"]
+prev_slug: cross-rejection
+prev_title: "Cross Rejection"
+next_slug: death-and-the-good-use-of-time-2nd-ed
+next_title: "Death and the Good Use of Time (2nd Ed.)"
+related: [{"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}, {"slug": "the-mass", "title": "The Mass"}, {"slug": "the-mass-and-personal-self-surrender", "title": "The Mass and Personal Self-Surrender"}]
 ---
 
 By Fr. Conor Donnelly

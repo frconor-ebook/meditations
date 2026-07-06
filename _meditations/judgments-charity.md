@@ -2,6 +2,13 @@
 layout: homily
 title: "Judgments (Charity)"
 description: "\"Do not judge, and you will not be judged; because the judgments you give are the judgments you will get, and the standard you use will be the standard..."
+reading_time: 20
+tags: ["Virtues & Struggle"]
+prev_slug: judas
+prev_title: "Judas"
+next_slug: keeping-my-word
+next_title: "Keeping My Word"
+related: [{"slug": "charity", "title": "Charity"}, {"slug": "charity-and-the-tongue", "title": "Charity and the Tongue"}, {"slug": "charity-versus-anger", "title": "Charity versus Anger"}]
 ---
 
 By Fr. Conor Donnelly

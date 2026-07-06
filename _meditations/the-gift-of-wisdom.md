@@ -2,6 +2,13 @@
 layout: homily
 title: "The Gift of Wisdom"
 description: "There\\'s a story told about three men who were hiking through a forest, and then they came upon a large, raging, violent river. Needing to get to the..."
+reading_time: 19
+tags: ["Holy Spirit"]
+prev_slug: the-gift-of-understanding
+prev_title: "The Gift of Understanding"
+next_slug: the-good-samaritan
+next_title: "The Good Samaritan"
+related: [{"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}, {"slug": "the-gift-of-fear-of-the-lord", "title": "The Gift of Fear of the Lord"}, {"slug": "the-gift-of-fortitude", "title": "The Gift of Fortitude"}]
 ---
 
 By Fr. Conor Donnelly

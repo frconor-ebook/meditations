@@ -1130,3 +1130,168 @@ footer p {
 [data-theme="dark"] #search-results mark {
   background: rgba(212, 181, 121, 0.4);
 }
+
+/* ===================================
+   Browsing: A-Z nav, topics, meta, related, prev/next
+   =================================== */
+.az-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  align-items: center;
+  margin: 16px 0;
+}
+
+.az-nav a,
+.az-nav .az-empty {
+  display: inline-block;
+  min-width: 28px;
+  padding: 4px 6px;
+  text-align: center;
+  border-radius: 4px;
+  font-family: 'Lato', sans-serif;
+  font-size: 0.9rem;
+}
+
+.az-nav a {
+  background: var(--bg-white);
+  box-shadow: var(--shadow-sm);
+}
+
+.az-nav a:hover {
+  background: var(--primary-accent);
+  color: #fff;
+  text-decoration: none;
+}
+
+.az-nav .az-empty {
+  color: var(--text-muted);
+  opacity: 0.45;
+}
+
+.az-nav .az-topics {
+  min-width: auto;
+  margin-left: 8px;
+  font-style: italic;
+}
+
+.letter-heading {
+  margin: 28px 0 4px;
+  padding-bottom: 4px;
+  border-bottom: 2px solid var(--primary-accent);
+  color: var(--primary-accent);
+  font-family: 'Lato', sans-serif;
+}
+
+.topics-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 16px 0 8px;
+}
+
+.topics-nav a {
+  padding: 5px 12px;
+  border-radius: 16px;
+  background: var(--bg-white);
+  box-shadow: var(--shadow-sm);
+  font-family: 'Lato', sans-serif;
+  font-size: 0.9rem;
+}
+
+.topics-nav a:hover {
+  background: var(--primary-accent);
+  color: #fff;
+  text-decoration: none;
+}
+
+.topic-count {
+  color: var(--text-muted);
+  font-size: 0.85em;
+  font-weight: normal;
+}
+
+.topics-nav a:hover .topic-count {
+  color: #fff;
+}
+
+.topic-section h2 {
+  margin-top: 32px;
+}
+
+.topics-intro {
+  color: var(--text-muted);
+}
+
+.meditation-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  margin: -6px 0 18px;
+}
+
+.reading-time {
+  color: var(--text-muted);
+  font-family: 'Lato', sans-serif;
+  font-size: 0.85rem;
+  margin-right: 4px;
+}
+
+.tag-chip {
+  padding: 3px 10px;
+  border-radius: 12px;
+  background: rgba(201, 169, 97, 0.15);
+  border: 1px solid rgba(201, 169, 97, 0.4);
+  font-family: 'Lato', sans-serif;
+  font-size: 0.8rem;
+}
+
+.tag-chip:hover {
+  background: var(--primary-accent);
+  color: #fff;
+  text-decoration: none;
+}
+
+.related-meditations {
+  margin: 24px 0;
+  padding: 16px 20px;
+  background: var(--bg-white);
+  border-radius: 8px;
+  box-shadow: var(--shadow-sm);
+}
+
+.related-meditations h2 {
+  margin-top: 0;
+  font-size: 1.15rem;
+}
+
+.meditation-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  margin: 24px 0;
+}
+
+.meditation-nav a {
+  display: block;
+  max-width: 46%;
+  padding: 10px 14px;
+  border-radius: 8px;
+  background: var(--bg-white);
+  box-shadow: var(--shadow-sm);
+}
+
+.meditation-nav .nav-next {
+  margin-left: auto;
+  text-align: right;
+}
+
+.meditation-nav .nav-label {
+  display: block;
+  color: var(--text-muted);
+  font-family: 'Lato', sans-serif;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}

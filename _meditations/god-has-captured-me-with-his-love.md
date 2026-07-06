@@ -2,6 +2,12 @@
 layout: homily
 title: "God Has Captured Me With His Love"
 description: "\"My dear friends, let us love one another, since love is from God. Everyone who loves is a child of God and knows God. Whoever fails to love does not know..."
+reading_time: 25
+prev_slug: generosity-in-correspondence
+prev_title: "Generosity in Correspondence"
+next_slug: god-of-consolation
+next_title: "God of Consolation"
+related: [{"slug": "conjugal-love", "title": "Conjugal Love"}, {"slug": "love-for-priests", "title": "Love For Priests"}, {"slug": "love-for-chastity", "title": "Love for Chastity"}]
 ---
 
 By Fr. Conor Donnelly

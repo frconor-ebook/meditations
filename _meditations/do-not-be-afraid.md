@@ -2,6 +2,12 @@
 layout: homily
 title: "Do Not Be Afraid"
 description: "The history of the Incarnation opens with the words, \"Do not be afraid, Mary\" (Luke 1:30). When the angel of Our Lord appears to Joseph, he says, \"Do not..."
+reading_time: 15
+prev_slug: divine-mercy-sunday
+prev_title: "Divine Mercy Sunday"
+next_slug: do-not-let-your-hearts-be-troubled
+next_title: "Do Not Let Your Hearts Be Troubled"
+related: [{"slug": "crises-be-not-afraid", "title": "Crises: Be Not Afraid"}]
 ---
 
 By Fr. Conor Donnelly

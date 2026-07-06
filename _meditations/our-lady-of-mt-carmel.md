@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Lady of Mt. Carmel"
 description: "Today we celebrate the Feast of Our Lady of Mount Carmel. It's also the birthday and the feast day of Aunt Carmen, the sister of St. Josemar\u00eda, to whom we..."
+reading_time: 17
+tags: ["Our Lady"]
+prev_slug: our-lady-of-lourdes
+prev_title: "Our Lady of Lourdes"
+next_slug: our-lady-of-peace
+next_title: "Our Lady of Peace"
+related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
 ---
 
 By Fr. Conor Donnelly

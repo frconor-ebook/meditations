@@ -2,6 +2,12 @@
 layout: homily
 title: "Where Is Your Heart?"
 description: "Our Lord advises us not to pile up treasures on earth because they don't last long. Being fragile and perishable, moth and rust consume and where thieves..."
+reading_time: 20
+prev_slug: when-i-am-weak-then-i-am-strong
+prev_title: "When I Am Weak, Then I Am Strong"
+next_slug: with-the-readiness-of-lovevigilance
+next_title: "With the Readiness of Love\u2014Vigilance"
+related: [{"slug": "clean-of-heart", "title": "Clean of Heart"}, {"slug": "do-not-let-your-hearts-be-troubled", "title": "Do Not Let Your Hearts Be Troubled"}, {"slug": "enlarging-the-heart", "title": "Enlarging the Heart"}]
 ---
 
 

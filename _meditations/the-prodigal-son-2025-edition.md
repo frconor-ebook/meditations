@@ -2,6 +2,13 @@
 layout: homily
 title: "The Prodigal Son (2025 Edition)"
 description: "We are told in the Psalms, \"Have mercy on me, God, in your kindness. In your compassion blot out my offense. O wash me more and more from my guilt and..."
+reading_time: 17
+tags: ["Confession & Mercy", "Parables"]
+prev_slug: the-prodigal-son
+prev_title: "The Prodigal Son"
+next_slug: the-prophecy-of-simeon
+next_title: "The Prophecy of Simeon"
+related: [{"slug": "the-prodigal-son", "title": "The Prodigal Son"}, {"slug": "conversion-of-st-paul-2027-edition", "title": "Conversion of St. Paul (2027 Edition)"}, {"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}]
 ---
 
 By Fr. Conor Donnelly

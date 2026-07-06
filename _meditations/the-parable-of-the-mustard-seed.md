@@ -2,6 +2,13 @@
 layout: homily
 title: "The Parable of the Mustard Seed"
 description: "\"He put before them another parable: 'The kingdom of heaven is like a mustard seed which a man took and sowed in his field. It is the smallest of all the..."
+reading_time: 23
+tags: ["Parables"]
+prev_slug: the-parable-of-the-laborers-in-the-vineyard
+prev_title: "The Parable of the Laborers in the Vineyard"
+next_slug: the-parable-of-the-rich-man-and-lazarus
+next_title: "The Parable of the Rich Man and Lazarus"
+related: [{"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "the-parable-of-the-rich-man-and-lazarus", "title": "The Parable of the Rich Man and Lazarus"}]
 ---
 
 

@@ -2,6 +2,13 @@
 layout: homily
 title: "Thanksgiving Day (2026)"
 description: "Today the Church invites the faithful to give thanks for the many blessings God our Father has bestowed on us. We also ask Our Lord to grant us generously..."
+reading_time: 19
+tags: ["Prayer & Interior Life"]
+prev_slug: thanksgiving-after-mass
+prev_title: "Thanksgiving After Mass"
+next_slug: the-adoration-of-the-kings
+next_title: "The Adoration of the Kings"
+related: [{"slug": "thanksgiving", "title": "Thanksgiving"}, {"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}, {"slug": "abandonment", "title": "Abandonment"}]
 ---
 
 

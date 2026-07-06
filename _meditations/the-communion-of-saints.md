@@ -2,6 +2,13 @@
 layout: homily
 title: "The Communion of Saints"
 description: "We are told in St. Paul, \"As with the human body which is a unity although it has many parts---all the parts of the body, though many, still making up one..."
+reading_time: 25
+tags: ["Church & Priesthood"]
+prev_slug: the-chair-of-st-peter
+prev_title: "The Chair of St. Peter"
+next_slug: the-conversion-of-st-paul
+next_title: "The Conversion of St. Paul"
+related: [{"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}]
 ---
 
 By Fr. Conor Donnelly

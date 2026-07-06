@@ -2,6 +2,13 @@
 layout: homily
 title: "The Mass"
 description: "Fulton Sheen tells a story about a concentration camp in Germany during the Second World War called Dachau. There were 5,000 priests in Dachau. Whenever a..."
+reading_time: 20
+tags: ["Eucharist & the Mass"]
+prev_slug: the-martyrdom-of-st-john-the-baptist
+prev_title: "The Martyrdom of St. John the Baptist"
+next_slug: the-mass-and-personal-self-surrender
+next_title: "The Mass and Personal Self-Surrender"
+related: [{"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}, {"slug": "the-mass-and-personal-self-surrender", "title": "The Mass and Personal Self-Surrender"}]
 ---
 
 By Fr. Conor Donnelly

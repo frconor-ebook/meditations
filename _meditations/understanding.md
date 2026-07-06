@@ -2,6 +2,12 @@
 layout: homily
 title: "Understanding"
 description: "\"But I say to you that hear: Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you\" (Luke 6:27-28)..."
+reading_time: 17
+prev_slug: true-and-false-freedom
+prev_title: "True and False Freedom"
+next_slug: unity-of-life
+next_title: "Unity of Life"
+related: [{"slug": "the-gift-of-understanding", "title": "The Gift of Understanding"}]
 ---
 
 By Fr. Conor Donnelly

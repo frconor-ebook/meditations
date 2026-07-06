@@ -2,6 +2,13 @@
 layout: homily
 title: "Conjugal Love"
 description: "We are told in St. Mark, \"This is why a man leaves his father and mother, and the two become one flesh. They are no longer two, therefore, but one flesh\"..."
+reading_time: 20
+tags: ["Family & Marriage"]
+prev_slug: commemoration-of-all-souls-2026
+prev_title: "Commemoration of All Souls (2026)"
+next_slug: conscience-the-light-of-the-soul
+next_title: "Conscience, The Light of the Soul"
+related: [{"slug": "god-has-captured-me-with-his-love", "title": "God Has Captured Me With His Love"}, {"slug": "love-for-priests", "title": "Love For Priests"}, {"slug": "love-for-chastity", "title": "Love for Chastity"}]
 ---
 
 By Fr. Conor Donnelly

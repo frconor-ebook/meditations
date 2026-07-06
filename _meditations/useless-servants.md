@@ -2,6 +2,13 @@
 layout: homily
 title: "Useless Servants"
 description: "\"We are useless servants. We have only done what was our duty\" (Luke 17:10), we're told in Scripture. And in another place, we're told, \"Blessed are those..."
+reading_time: 18
+tags: ["Parables"]
+prev_slug: unlimited-forgiveness
+prev_title: "Unlimited Forgiveness"
+next_slug: vanity-he-must-increase
+next_title: "Vanity (He Must Increase)"
+related: [{"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}, {"slug": "salt-and-light", "title": "Salt and Light"}]
 ---
 
 By Fr. Conor Donnelly

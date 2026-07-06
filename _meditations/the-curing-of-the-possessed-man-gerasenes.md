@@ -2,6 +2,13 @@
 layout: homily
 title: "The Curing of the Possessed Man (Gerasenes)"
 description: "\"They reached the territory of the Gerasenes on the other side of the lake, and when he disembarked, a man with an unclean spirit at once came out from..."
+reading_time: 19
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: the-curing-of-the-man-with-an-unclean-spirit
+prev_title: "The Curing of the Man with an Unclean Spirit"
+next_slug: the-daughter-of-jairus
+next_title: "The Daughter of Jairus"
+related: [{"slug": "the-cure-of-the-possessed-boy", "title": "The Cure of the Possessed Boy"}, {"slug": "the-curing-of-the-man-with-an-unclean-spirit", "title": "The Curing of the Man with an Unclean Spirit"}, {"slug": "bartimaeus", "title": "Bartimaeus"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "The Prophecy of Simeon"
 description: "\"Lord, now you can let your servant go in peace, according to your word; for my eyes have seen your salvation which you have prepared in the presence of..."
+reading_time: 17
+tags: ["Advent & Christmas"]
+prev_slug: the-prodigal-son-2025-edition
+prev_title: "The Prodigal Son (2025 Edition)"
+next_slug: the-purification-of-our-lady
+next_title: "The Purification of Our Lady"
+related: [{"slug": "simeon-and-anna", "title": "Simeon and Anna"}, {"slug": "christmas", "title": "Christmas"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}]
 ---
 
 By Fr. Conor Donnelly

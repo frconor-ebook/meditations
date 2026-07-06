@@ -2,6 +2,13 @@
 layout: homily
 title: "Temperance"
 description: "At Cana of Galilee, Our Lady said to Our Lord, \"They have no wine\" (John 2:3). She didn\\'t say, 'I have no wine' or 'My glass is empty,' but \"they have no..."
+reading_time: 19
+tags: ["Virtues & Struggle"]
+prev_slug: taking-advantage-of-the-means-of-formation
+prev_title: "Taking Advantage of the Means of Formation"
+next_slug: temptation
+next_title: "Temptation"
+related: [{"slug": "on-temperance", "title": "On Temperance"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}]
 ---
 
 By Fr. Conor Donnelly

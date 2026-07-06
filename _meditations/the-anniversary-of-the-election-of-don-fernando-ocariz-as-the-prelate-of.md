@@ -2,6 +2,13 @@
 layout: homily
 title: "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"
 description: "\"I am the Good Shepherd. I know my own and my own know me, just as the Father knows me and I know the Father; and I lay down my life for my sheep\" (John..."
+reading_time: 22
+tags: ["Opus Dei"]
+prev_slug: the-anniversary-of-pope-franciss-election
+prev_title: "The Anniversary of Pope Francis\u2019s Election"
+next_slug: the-anniversary-of-the-establishment-of-the-prelature
+next_title: "The Anniversary of the Establishment of the Prelature"
+related: [{"slug": "the-birthday-of-the-prelate-don-fernando", "title": "The Birthday of the Prelate (Don Fernando)"}, {"slug": "the-anniversary-of-pope-franciss-election", "title": "The Anniversary of Pope Francis\u2019s Election"}, {"slug": "the-anniversary-of-the-establishment-of-the-prelature", "title": "The Anniversary of the Establishment of the Prelature"}]
 ---
 
 By Fr. Conor Donnelly

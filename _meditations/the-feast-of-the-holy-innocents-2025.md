@@ -2,6 +2,13 @@
 layout: homily
 title: "The Feast of the Holy Innocents, 2025"
 description: "\"Herod, when he saw that he had been tricked by the wise men, was in a furious rage, and he sent and killed all the male children in Bethlehem and in all..."
+reading_time: 17
+tags: ["Advent & Christmas"]
+prev_slug: the-feast-of-the-holy-family
+prev_title: "The Feast of the Holy Family"
+next_slug: the-fifth-sunday-of-st-joseph-2026
+next_title: "The Fifth Sunday of St. Joseph (2026)"
+related: [{"slug": "the-holy-innocents", "title": "The Holy Innocents"}, {"slug": "the-feast-of-the-holy-family", "title": "The Feast of the Holy Family"}, {"slug": "egypt-and-the-holy-family", "title": "Egypt and the Holy Family"}]
 ---
 
 By Fr. Conor Donnelly

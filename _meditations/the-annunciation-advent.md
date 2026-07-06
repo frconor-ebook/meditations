@@ -2,6 +2,13 @@
 layout: homily
 title: "The Annunciation (Advent)"
 description: "\"But when the time had fully come, God sent forth his Son, born of woman\" (Gal. 4:4). \"And she was to say, Be it done unto me according to your Word\"..."
+reading_time: 16
+tags: ["Our Lady", "Advent & Christmas"]
+prev_slug: the-annunciation
+prev_title: "The Annunciation"
+next_slug: the-apostolate
+next_title: "The Apostolate"
+related: [{"slug": "the-annunciation", "title": "The Annunciation"}, {"slug": "the-solemnity-of-the-annunciation-2026", "title": "The Solemnity of the Annunciation (2026)"}, {"slug": "christmas", "title": "Christmas"}]
 ---
 
 By Fr. Conor Donnelly

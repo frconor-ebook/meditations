@@ -2,6 +2,13 @@
 layout: homily
 title: "The Sixth Sunday of St. Joseph (2026)"
 description: "The liturgy tells us, \"Most blessed among men was Joseph, in being attended at the hour of his death by the Lord himself and by his Mother. ... Having..."
+reading_time: 16
+tags: ["St. Joseph", "Saints & Feast Days"]
+prev_slug: the-shepherds-and-peace
+prev_title: "The Shepherds and Peace"
+next_slug: the-solemnity-of-st-joseph-2026
+next_title: "The Solemnity of St. Joseph (2026)"
+related: [{"slug": "the-fifth-sunday-of-st-joseph-2026", "title": "The Fifth Sunday of St. Joseph (2026)"}, {"slug": "the-first-sunday-of-st-joseph-2026", "title": "The First Sunday of St. Joseph (2026)"}, {"slug": "the-fourth-sunday-of-st-joseph-2026", "title": "The Fourth Sunday of St. Joseph (2026)"}]
 ---
 
 

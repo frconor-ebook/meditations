@@ -2,6 +2,13 @@
 layout: homily
 title: "Hell, Purgatory, Heaven"
 description: "In 2001, Cardinal Joseph Ratzinger was giving a homily in the cathedral in Paris, and he was talking about hell. He defined hell as \"the absence of God\"..."
+reading_time: 21
+tags: ["Death & Eternal Life"]
+prev_slug: heaven-and-vigilance
+prev_title: "Heaven and Vigilance"
+next_slug: helping-to-do-good
+next_title: "Helping To Do Good"
+related: [{"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}, {"slug": "looking-up-to-heaven", "title": "Looking Up to Heaven"}, {"slug": "marriage-in-heaven", "title": "Marriage in Heaven"}]
 ---
 
 By Fr. Conor Donnelly

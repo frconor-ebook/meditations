@@ -2,6 +2,13 @@
 layout: homily
 title: "The Raising of Lazarus"
 description: "\"There was a man named Lazarus of Bethany, the village of Mary and her sister. Martha, and he was ill. It was the same Mary, the sister of the sick man..."
+reading_time: 20
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: the-purification-of-our-lady
+prev_title: "The Purification of Our Lady"
+next_slug: the-real-presence
+next_title: "The Real Presence"
+related: [{"slug": "sts-martha-mary-and-lazarus", "title": "Sts. Martha, Mary, and Lazarus"}, {"slug": "the-parable-of-the-rich-man-and-lazarus", "title": "The Parable of the Rich Man and Lazarus"}, {"slug": "bartimaeus", "title": "Bartimaeus"}]
 ---
 
 By Fr. Conor Donnelly

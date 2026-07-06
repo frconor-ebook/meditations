@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Lady of the Rosary (2026)"
 description: "This feast day was instituted by Pope Pius V in thanksgiving for Our Lady's assistance in the Christian victory over the Turks at Lepanto on October 7..."
+reading_time: 19
+tags: ["Our Lady"]
+prev_slug: our-lady-of-the-angels
+prev_title: "Our Lady of the Angels"
+next_slug: our-lady-of-the-snows
+next_title: "Our Lady of the Snows"
+related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
 ---
 
 

@@ -2,6 +2,12 @@
 layout: homily
 title: "Loving Jesus\u2019 House"
 description: "\"'This is why I told you that no one could come to me except by the gift of the Father.' After this, many of his disciples went away and accompanied him..."
+reading_time: 15
+prev_slug: love-for-the-cross
+prev_title: "Love for the Cross"
+next_slug: loyalty
+next_title: "Loyalty"
+related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "finding-jesus", "title": "Finding Jesus"}, {"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "The Grass of the Field"
 description: "\"Now if that is how God clothes the wildflowers growing in the field, which are there today and thrown into the furnace tomorrow, will he not much more..."
+reading_time: 19
+tags: ["Parables"]
+prev_slug: the-grandmother
+prev_title: "The Grandmother"
+next_slug: the-guardian-angels
+next_title: "The Guardian Angels"
+related: [{"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}, {"slug": "salt-and-light", "title": "Salt and Light"}]
 ---
 
 By Fr. Conor Donnelly

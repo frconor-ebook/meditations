@@ -2,6 +2,13 @@
 layout: homily
 title: "The Holy Innocents"
 description: "\"After they had left, suddenly the angel of the Lord appeared to Joseph in a dream and said, 'Get up, take the child and his mother with you, and escape..."
+reading_time: 21
+tags: ["Advent & Christmas"]
+prev_slug: the-holiness-in-rest-a-sacred-pause
+prev_title: "The Holiness in Rest: A Sacred Pause"
+next_slug: the-holy-name-of-jesus
+next_title: "The Holy Name of Jesus"
+related: [{"slug": "the-feast-of-the-holy-innocents-2025", "title": "The Feast of the Holy Innocents, 2025"}, {"slug": "egypt-and-the-holy-family", "title": "Egypt and the Holy Family"}, {"slug": "fruits-of-the-holy-spirit", "title": "Fruits of the Holy Spirit"}]
 ---
 
 By Fr. Conor Donnelly

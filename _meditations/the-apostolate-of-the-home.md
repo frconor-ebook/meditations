@@ -2,6 +2,13 @@
 layout: homily
 title: "The Apostolate of the Home"
 description: "\"In the countryside close by there were shepherds out in the fields keeping \\[guard\\] over their sheep during the watches of the night. An angel of the..."
+reading_time: 20
+tags: ["Apostolate"]
+prev_slug: the-apostolate-of-confession
+prev_title: "The Apostolate of Confession"
+next_slug: the-archangels
+next_title: "The Archangels"
+related: [{"slug": "on-apostolate", "title": "On Apostolate"}, {"slug": "the-apostolate", "title": "The Apostolate"}, {"slug": "the-apostolate-of-confession", "title": "The Apostolate of Confession"}]
 ---
 
 By Fr. Conor Donnelly

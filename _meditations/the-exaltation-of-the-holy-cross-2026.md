@@ -2,6 +2,13 @@
 layout: homily
 title: "The Exaltation of the Holy Cross (2026)"
 description: "Devotion to the Holy Cross dates back to the earliest days of Christianity. Its feast itself has been celebrated since the 4th century, the day the Church..."
+reading_time: 16
+tags: ["The Cross & Suffering"]
+prev_slug: the-exaltation-of-the-holy-cross
+prev_title: "The Exaltation of the Holy Cross"
+next_slug: the-faith-of-abraham
+next_title: "The Faith of Abraham"
+related: [{"slug": "the-exaltation-of-the-holy-cross", "title": "The Exaltation of the Holy Cross"}, {"slug": "the-priestly-society-of-the-holy-cross", "title": "The Priestly Society of the Holy Cross"}, {"slug": "cross-rejection", "title": "Cross Rejection"}]
 ---
 
 

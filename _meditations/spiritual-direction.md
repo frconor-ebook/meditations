@@ -2,6 +2,13 @@
 layout: homily
 title: "Spiritual Direction"
 description: "I heard a story once of a professional man, advanced in years, who had a problem in his company---something to do with management---and he had consulted..."
+reading_time: 20
+tags: ["Prayer & Interior Life"]
+prev_slug: spiritual-childhood
+prev_title: "Spiritual Childhood"
+next_slug: spiritual-receptivity
+next_title: "Spiritual Receptivity"
+related: [{"slug": "spiritual-childhood", "title": "Spiritual Childhood"}, {"slug": "spiritual-receptivity", "title": "Spiritual Receptivity"}, {"slug": "abandonment", "title": "Abandonment"}]
 ---
 
 By Fr. Conor Donnelly

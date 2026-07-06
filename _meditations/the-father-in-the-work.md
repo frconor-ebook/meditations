@@ -2,6 +2,13 @@
 layout: homily
 title: "The Father in the Work"
 description: "\"I am the vine; you are the branches. Whoever remains in me, with me in him, bears fruit in plenty. For cut off from me, you can do nothing\" (John 15:5)..."
+reading_time: 20
+tags: ["Opus Dei"]
+prev_slug: the-faith-of-abraham
+prev_title: "The Faith of Abraham"
+next_slug: the-feast-of-the-holy-family
+next_title: "The Feast of the Holy Family"
+related: [{"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}, {"slug": "fathers-day", "title": "Father\u2019s Day"}, {"slug": "on-our-way-to-the-house-of-our-father", "title": "On Our Way to The House of Our Father"}]
 ---
 
 By Fr. Conor Donnelly

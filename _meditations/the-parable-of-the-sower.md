@@ -2,6 +2,13 @@
 layout: homily
 title: "The Parable of the Sower"
 description: "There was a story of a farmer who used to grow very good maize, and the maize that he grew was the best in the whole area. Every year at the local fair he..."
+reading_time: 19
+tags: ["Parables"]
+prev_slug: the-parable-of-the-rich-young-man
+prev_title: "The Parable of the Rich Young Man"
+next_slug: the-parable-of-the-talents
+next_title: "The Parable of the Talents"
+related: [{"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "the-parable-of-the-mustard-seed", "title": "The Parable of the Mustard Seed"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "The Gift of Understanding"
 description: "\"But when the Advocate has come, whom I will send you from the Father, the Spirit of truth who proceeds from the Father, he will bear witness concerning..."
+reading_time: 19
+tags: ["Holy Spirit"]
+prev_slug: the-gift-of-piety
+prev_title: "The Gift of Piety"
+next_slug: the-gift-of-wisdom
+next_title: "The Gift of Wisdom"
+related: [{"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}, {"slug": "the-gift-of-fear-of-the-lord", "title": "The Gift of Fear of the Lord"}, {"slug": "the-gift-of-fortitude", "title": "The Gift of Fortitude"}]
 ---
 
 By Fr. Conor Donnelly

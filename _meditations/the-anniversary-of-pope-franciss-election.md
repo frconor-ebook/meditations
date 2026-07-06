@@ -2,6 +2,13 @@
 layout: homily
 title: "The Anniversary of Pope Francis\u2019s Election"
 description: "\"Jesus said to them, 'But who do you say that I am?' Simon Peter answered and said, 'You are the Christ, the Son of the living God.' Jesus, answering..."
+reading_time: 23
+tags: ["Church & Priesthood"]
+prev_slug: the-adoration-of-the-kings
+prev_title: "The Adoration of the Kings"
+next_slug: the-anniversary-of-the-election-of-don-fernando-ocariz-as-the-prelate-of
+next_title: "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"
+related: [{"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}, {"slug": "the-anniversary-of-the-election-of-don-fernando-ocariz-as-the-prelate-of", "title": "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"}, {"slug": "gratitude-for-pope-benedict-xvi", "title": "Gratitude for Pope Benedict XVI"}]
 ---
 
 By Fr. Conor Donnelly

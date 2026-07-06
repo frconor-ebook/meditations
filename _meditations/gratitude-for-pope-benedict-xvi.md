@@ -2,6 +2,13 @@
 layout: homily
 title: "Gratitude for Pope Benedict XVI"
 description: "We\\'re told in the Book of Isaiah, \"How beautiful on the mountains are the feet of those who bring good news\" (Isa. 52:7). It\\'s interesting to read the..."
+reading_time: 21
+tags: ["Virtues & Struggle", "Church & Priesthood"]
+prev_slug: good-friday-of-the-lords-passion
+prev_title: "Good Friday of the Lord\u2019s Passion"
+next_slug: great-mothers
+next_title: "Great Mothers"
+related: [{"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}, {"slug": "the-anniversary-of-pope-franciss-election", "title": "The Anniversary of Pope Francis\u2019s Election"}, {"slug": "st-benedict", "title": "St. Benedict"}]
 ---
 
 By Fr. Conor Donnelly

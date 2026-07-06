@@ -2,6 +2,12 @@
 layout: homily
 title: "The One Who Gives Us Jesus"
 description: "\"Do not labor for the food which perishes, but for that which endures to eternal life\" (John 6:27). Who is the one who prepares the Blessed Eucharist for..."
+reading_time: 20
+prev_slug: the-obedience-of-jesus
+prev_title: "The Obedience of Jesus"
+next_slug: the-only-real-evil
+next_title: "The Only Real Evil"
+related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "finding-jesus", "title": "Finding Jesus"}, {"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}]
 ---
 
 By Fr. Conor Donnelly

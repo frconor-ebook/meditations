@@ -2,6 +2,13 @@
 layout: homily
 title: "Love for the Church (St. Pius X)"
 description: "Many years ago, Cardinal Sin of Manila---may he rest in peace---told a story of how he needed \\$50,000 to do some repairs in his seminary in Manila. When..."
+reading_time: 26
+tags: ["Saints & Feast Days", "Church & Priesthood"]
+prev_slug: love-for-peter
+prev_title: "Love for Peter"
+next_slug: love-for-the-cross
+next_title: "Love for the Cross"
+related: [{"slug": "the-first-martyrs-of-the-church-of-rome", "title": "The First Martyrs of the Church of Rome"}, {"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}]
 ---
 
 By Fr. Conor Donnelly

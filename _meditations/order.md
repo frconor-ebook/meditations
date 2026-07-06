@@ -2,6 +2,13 @@
 layout: homily
 title: "Order"
 description: "\"Seek first the Kingdom of God and his glory\" (Matt. 6:33). Our Lord in Scripture talks about priorities---putting things first. God created the universe..."
+reading_time: 20
+tags: ["Virtues & Struggle"]
+prev_slug: optimism
+prev_title: "Optimism"
+next_slug: our-father-god
+next_title: "Our Father God"
+related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
 ---
 
 By Fr. Conor Donnelly

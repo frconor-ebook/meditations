@@ -2,6 +2,12 @@
 layout: homily
 title: "The Baptism of Our Lord (2026)"
 description: "We're told in St. Matthew: \"When Jesus was baptized, he went up immediately from the water, and behold, the heavens were opened and he saw the Spirit of..."
+reading_time: 17
+prev_slug: the-baptism-of-jesus
+prev_title: "The Baptism of Jesus"
+next_slug: the-baptism-of-the-lord-2027-edition
+next_title: "The Baptism of the Lord (2027 Edition)"
+related: [{"slug": "the-baptism-of-the-lord-2027-edition", "title": "The Baptism of the Lord (2027 Edition)"}, {"slug": "all-you-peoples-bless-the-lord", "title": "All You Peoples, Bless the Lord"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}]
 ---
 
 By Fr. Conor Donnelly

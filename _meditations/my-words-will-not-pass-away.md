@@ -2,6 +2,12 @@
 layout: homily
 title: "My Words Will Not Pass Away"
 description: "\"Heaven and earth will pass away, but my words will not pass away\" (Luke 21:33), we're told by Our Lord in St. Luke. What Jesus has said in His preaching..."
+reading_time: 18
+prev_slug: much-will-be-demanded-responsibility
+prev_title: "Much Will Be Demanded: Responsibility"
+next_slug: naaman-the-syrian-docility
+next_title: "Naaman the Syrian (Docility)"
+related: [{"slug": "afterwards-you-will-understand", "title": "Afterwards You Will Understand"}, {"slug": "by-their-fruits-you-will-know-them", "title": "By Their Fruits, You Will Know Them"}, {"slug": "much-will-be-demanded-responsibility", "title": "Much Will Be Demanded: Responsibility"}]
 ---
 
 

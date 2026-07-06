@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Mary Magdalene (2026)"
 description: "Mary was originally from Magdala, a small city of Galilee on the northwest shore of Lake Tiberias. She was one of a group of women who followed Jesus and..."
+reading_time: 18
+tags: ["Saints & Feast Days"]
+prev_slug: st-mary-magdalene
+prev_title: "St. Mary Magdalene"
+next_slug: st-matthew
+next_title: "St. Matthew"
+related: [{"slug": "st-mary-magdalene", "title": "St. Mary Magdalene"}, {"slug": "st-john-mary-vianney", "title": "St. John Mary Vianney"}, {"slug": "st-john-mary-vianney-2026", "title": "St. John Mary Vianney (2026)"}]
 ---
 
 

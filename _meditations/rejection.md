@@ -2,6 +2,12 @@
 layout: homily
 title: "Rejection"
 description: "We are told in today's Gospel, \"Now it happened that as the time drew near for him to be taken up, he resolutely turned his face towards Jerusalem and..."
+reading_time: 20
+prev_slug: rectitude-of-intention
+prev_title: "Rectitude of Intention"
+next_slug: render-unto-caesar
+next_title: "Render Unto Caesar"
+related: [{"slug": "cross-rejection", "title": "Cross Rejection"}]
 ---
 
 By Fr. Conor Donnelly

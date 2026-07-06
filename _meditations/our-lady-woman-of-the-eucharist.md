@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Lady, Woman of the Eucharist"
 description: "\"Do this in remembrance of me\" (Luke 22:19). \"If we want to rediscover, in all its richness, the profound relationship between the Church and the..."
+reading_time: 16
+tags: ["Our Lady", "Eucharist & the Mass"]
+prev_slug: our-lady-mother-of-mercy
+prev_title: "Our Lady, Mother of Mercy"
+next_slug: our-ladys-fidelity
+next_title: "Our Lady\u2019s Fidelity"
+related: [{"slug": "holy-thursday-the-eucharist", "title": "Holy Thursday: The Eucharist"}, {"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing, Loving, and Living the Eucharist"}, {"slug": "the-eucharist-and-love", "title": "The Eucharist and Love"}]
 ---
 
 By Fr. Conor Donnelly

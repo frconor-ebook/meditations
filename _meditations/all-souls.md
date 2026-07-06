@@ -2,6 +2,13 @@
 layout: homily
 title: "All Souls"
 description: "\"For everything, there is a season,\" we\\'re told in the Book of Ecclesiastes, \"and a time for every matter under heaven; a time to be born and a time to..."
+reading_time: 16
+tags: ["Death & Eternal Life"]
+prev_slug: all-saints-day
+prev_title: "All Saints\u2019 Day"
+next_slug: all-you-peoples-bless-the-lord
+next_title: "All You Peoples, Bless the Lord"
+related: [{"slug": "commemoration-of-all-souls-2026", "title": "Commemoration of All Souls (2026)"}, {"slug": "souls-of-prayer", "title": "Souls of Prayer"}, {"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Francis de Sales"
 description: "Born in Savoy in France in 1567, St. Francis de Sales fought Calvinism with apostolic zeal. He was the Bishop of Geneva, and with St. Frances de Chantal..."
+reading_time: 17
+tags: ["Saints & Feast Days"]
+prev_slug: st-francis-xavier
+prev_title: "St. Francis Xavier"
+next_slug: st-francis-of-assisi
+next_title: "St. Francis of Assisi"
+related: [{"slug": "st-francis-xavier", "title": "St. Francis Xavier"}, {"slug": "st-francis-of-assisi", "title": "St. Francis of Assisi"}, {"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}]
 ---
 
 

@@ -2,6 +2,13 @@
 layout: homily
 title: "The Friend of Sinners"
 description: "We are told in St. Luke, \"This man receives sinners and eats with them\" (Luke 15:2). Also in St. Luke, Our Lord said to Zacchaeus, \"Make haste and come..."
+reading_time: 24
+tags: ["Confession & Mercy"]
+prev_slug: the-fourth-sunday-of-st-joseph-2026
+prev_title: "The Fourth Sunday of St. Joseph (2026)"
+next_slug: the-gift-of-counsel
+next_title: "The Gift of Counsel"
+related: [{"slug": "a-merciful-messiah", "title": "A Merciful Messiah"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "contrition", "title": "Contrition"}]
 ---
 
 By Fr. Conor Donnelly

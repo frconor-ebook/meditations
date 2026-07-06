@@ -2,6 +2,13 @@
 layout: homily
 title: "The Parable of The Wedding Feast"
 description: "\"Jesus began to speak to them in parables once again: 'The kingdom of heaven may be compared to a king who gave a feast for his son\\'s wedding. He sent..."
+reading_time: 18
+tags: ["Parables"]
+prev_slug: the-only-real-evil-2nd-ed
+prev_title: "The Only Real Evil (2nd Ed.)"
+next_slug: the-parable-of-the-laborers-in-the-vineyard
+next_title: "The Parable of the Laborers in the Vineyard"
+related: [{"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "the-parable-of-the-mustard-seed", "title": "The Parable of the Mustard Seed"}, {"slug": "the-parable-of-the-rich-man-and-lazarus", "title": "The Parable of the Rich Man and Lazarus"}]
 ---
 
 By Fr. Conor Donnelly

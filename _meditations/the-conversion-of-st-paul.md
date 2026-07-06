@@ -2,6 +2,13 @@
 layout: homily
 title: "The Conversion of St. Paul"
 description: "\"Meanwhile, Saul was still breathing threats to slaughter the Lord\\'s disciples. He went to the high priest and asked for letters addressed to the..."
+reading_time: 15
+tags: ["Saints & Feast Days"]
+prev_slug: the-communion-of-saints
+prev_title: "The Communion of Saints"
+next_slug: the-creative-courage-of-st-joseph
+next_title: "The Creative Courage of St. Joseph"
+related: [{"slug": "conversion-of-st-paul-2027-edition", "title": "Conversion of St. Paul (2027 Edition)"}, {"slug": "st-john-paul-ii", "title": "St. John Paul II"}, {"slug": "st-peter-and-st-paul", "title": "St. Peter and St. Paul"}]
 ---
 
 By Fr. Conor Donnelly

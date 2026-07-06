@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Teresa of Avila"
 description: "Saint Teresa of Avila was born in Spain on March 28, 1515, and joined the Carmelite order at the age of 18. In response to the extraordinary graces she..."
+reading_time: 16
+tags: ["Saints & Feast Days"]
+prev_slug: st-teresa-benedicta-of-the-cross-edith-stein
+prev_title: "St. Teresa Benedicta of the Cross (Edith Stein)"
+next_slug: st-thomas
+next_title: "St. Thomas"
+related: [{"slug": "st-teresa-benedicta-of-the-cross-edith-stein", "title": "St. Teresa Benedicta of the Cross (Edith Stein)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
 ---
 
 

@@ -2,6 +2,13 @@
 layout: homily
 title: "The Gift of Piety"
 description: "\"Unless you become like little children, you cannot enter the kingdom of heaven\" (Matt. 18:3). The gift of piety, one of the seven gifts of the Holy..."
+reading_time: 20
+tags: ["Holy Spirit"]
+prev_slug: the-gift-of-knowledge
+prev_title: "The Gift of Knowledge"
+next_slug: the-gift-of-understanding
+next_title: "The Gift of Understanding"
+related: [{"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}, {"slug": "the-gift-of-fear-of-the-lord", "title": "The Gift of Fear of the Lord"}, {"slug": "the-gift-of-fortitude", "title": "The Gift of Fortitude"}]
 ---
 
 By Fr. Conor Donnelly

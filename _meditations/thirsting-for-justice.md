@@ -2,6 +2,13 @@
 layout: homily
 title: "Thirsting for Justice"
 description: "\"Blessed are those who hunger and thirst for justice, for they shall be satisfied\" (Matt. 5:6). Occasionally in Scripture, Our Lord talks about justice..."
+reading_time: 24
+tags: ["Virtues & Struggle"]
+prev_slug: the-woman-with-the-issue-of-blood
+prev_title: "The Woman with the Issue of Blood"
+next_slug: to-serve
+next_title: "To Serve"
+related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
 ---
 
 By Fr. Conor Donnelly

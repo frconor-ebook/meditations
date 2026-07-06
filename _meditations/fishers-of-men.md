@@ -2,6 +2,13 @@
 layout: homily
 title: "Fishers of Men"
 description: "\"And passing along by the Sea of Galilee, he saw Simon and his brother Andrew casting their nets into the sea, for they were fishermen\" (Mark 1:16). The..."
+reading_time: 22
+tags: ["Apostolate"]
+prev_slug: first-thoughts-and-emotions
+prev_title: "First Thoughts and Emotions"
+next_slug: forgiveness
+next_title: "Forgiveness"
+related: [{"slug": "fire-on-earth", "title": "Fire On Earth"}, {"slug": "friendship-and-confidence", "title": "Friendship and Confidence"}, {"slug": "gods-bridge-builder", "title": "God\u2019s Bridge-Builder"}]
 ---
 
 By Fr. Conor Donnelly

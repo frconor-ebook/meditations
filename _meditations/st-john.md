@@ -2,6 +2,13 @@
 layout: homily
 title: "St. John"
 description: "Today is the Feast of St. John, one of the Patrons of Youth. We find in his letters, the first letter of St. John, Chapter 1, \"This is the declaration..."
+reading_time: 25
+tags: ["Saints & Feast Days"]
+prev_slug: st-joachim-and-st-anne
+prev_title: "St. Joachim and St. Anne"
+next_slug: st-john-2025-ed
+next_title: "St. John (2025 Ed.)"
+related: [{"slug": "dedication-of-the-basilica-of-st-john-lateran-2026", "title": "Dedication of the Basilica of St. John Lateran (2026)"}, {"slug": "st-john-2025-ed", "title": "St. John (2025 Ed.)"}, {"slug": "st-john-henry-newman-on-friendship", "title": "St. John Henry Newman on Friendship"}]
 ---
 
 By Fr. Conor Donnelly

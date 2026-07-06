@@ -2,6 +2,13 @@
 layout: homily
 title: "St. John Paul II"
 description: "\"In all truth, I tell you, when you were young,\" we're told in St. John, \"you put on your own belt and walked where you liked. But when you grow old, you..."
+reading_time: 21
+tags: ["Saints & Feast Days"]
+prev_slug: st-john-mary-vianney-2026
+prev_title: "St. John Mary Vianney (2026)"
+next_slug: st-john-the-baptist
+next_title: "St. John the Baptist"
+related: [{"slug": "conversion-of-st-paul-2027-edition", "title": "Conversion of St. Paul (2027 Edition)"}, {"slug": "dedication-of-the-basilica-of-st-john-lateran-2026", "title": "Dedication of the Basilica of St. John Lateran (2026)"}, {"slug": "st-john", "title": "St. John"}]
 ---
 
 By Fr. Conor Donnelly

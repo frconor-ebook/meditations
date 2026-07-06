@@ -2,6 +2,12 @@
 layout: homily
 title: "On Our Way to The House of Our Father"
 description: "We're told in the Book of Revelation, \"Then he showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb..."
+reading_time: 19
+prev_slug: on-hope
+prev_title: "On Hope"
+next_slug: on-temperance
+next_title: "On Temperance"
+related: [{"slug": "fathers-day", "title": "Father\u2019s Day"}, {"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "loving-jesus-house", "title": "Loving Jesus\u2019 House"}]
 ---
 
 

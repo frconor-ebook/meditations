@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"
 description: "A lady told me recently how she felt she had received a treasure from St. Josemar\u00eda: everything related to the plan of life that is so special in her own..."
+reading_time: 19
+tags: ["Saints & Feast Days", "Opus Dei"]
+prev_slug: st-john-the-baptist
+prev_title: "St. John the Baptist"
+next_slug: st-joseph-and-the-treasure-of-silence
+next_title: "St. Joseph and The Treasure of Silence"
+related: [{"slug": "the-birthday-of-st-josemaria-escriva", "title": "The Birthday of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "the-anniversary-of-the-first-holy-communion-of-st-josemaria", "title": "The Anniversary of the First Holy Communion of St. Josemar\u00eda"}]
 ---
 
 By Fr. Conor Donnelly

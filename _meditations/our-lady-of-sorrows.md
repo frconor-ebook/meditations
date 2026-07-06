@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Lady of Sorrows"
 description: "\"Near the cross of Jesus stood his mother and his mother's sister, Mary the wife of Cleophas, and Mary of Magdala\" (John 19:25). Today is the Feast of Our..."
+reading_time: 17
+tags: ["Our Lady"]
+prev_slug: our-lady-of-ransom-2026
+prev_title: "Our Lady of Ransom (2026)"
+next_slug: our-lady-of-sorrows-2026
+next_title: "Our Lady of Sorrows (2026)"
+related: [{"slug": "our-lady-of-sorrows-2026", "title": "Our Lady of Sorrows (2026)"}, {"slug": "the-seven-sorrows-of-our-lady", "title": "The Seven Sorrows of Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Benedict"
 description: "Benedict was born in Nursia, Italy about the year 480. After receiving an excellent education in Rome, he returned to Subiaco to live the life of a monk..."
+reading_time: 17
+tags: ["Saints & Feast Days"]
+prev_slug: st-barnabas-2026
+prev_title: "St. Barnabas (2026)"
+next_slug: st-catherine-of-siena
+next_title: "St. Catherine of Siena"
+related: [{"slug": "gratitude-for-pope-benedict-xvi", "title": "Gratitude for Pope Benedict XVI"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
 ---
 
 

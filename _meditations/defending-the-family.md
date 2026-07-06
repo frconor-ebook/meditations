@@ -2,6 +2,13 @@
 layout: homily
 title: "Defending the Family"
 description: "\"After leaving there,\" we\\'re told in the Gospel of St. Mark, \"he came into the territory of Judea and Transjordania. And again crowds gathered round him..."
+reading_time: 18
+tags: ["Family & Marriage"]
+prev_slug: deeper-desire
+prev_title: "Deeper Desire"
+next_slug: discerning-ones-vocation
+next_title: "Discerning One's Vocation"
+related: [{"slug": "egypt-and-the-holy-family", "title": "Egypt and the Holy Family"}, {"slug": "heart-in-the-family", "title": "Heart in the Family"}, {"slug": "st-joseph-the-family-man", "title": "St. Joseph, The Family Man"}]
 ---
 
 By Fr. Conor Donnelly

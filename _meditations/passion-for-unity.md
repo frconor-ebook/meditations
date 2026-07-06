@@ -2,6 +2,12 @@
 layout: homily
 title: "Passion for Unity"
 description: "\"I am the vine,\" Our Lord said, \"you are the branches. He that abides in me and I in him, he bears much fruit. Without me, you can do nothing\" (John..."
+reading_time: 22
+prev_slug: palm-sunday
+prev_title: "Palm Sunday"
+next_slug: passionately-loving-the-world
+next_title: "Passionately Loving the World"
+related: [{"slug": "good-friday-of-the-lords-passion", "title": "Good Friday of the Lord\u2019s Passion"}, {"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}, {"slug": "st-severinus-and-unity", "title": "St. Severinus and Unity"}]
 ---
 
 By Fr. Conor Donnelly

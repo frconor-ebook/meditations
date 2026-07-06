@@ -2,6 +2,13 @@
 layout: homily
 title: "The Grandmother"
 description: "\"As I have done to you, so do you also to others\" (John 13:15). A few days ago, on the Friday of the fifth week of Lent, we had the feast day of the..."
+reading_time: 23
+tags: ["Opus Dei"]
+prev_slug: the-grandfather
+prev_title: "The Grandfather"
+next_slug: the-grass-of-the-field
+next_title: "The Grass of the Field"
+related: [{"slug": "aunt-carmen", "title": "Aunt Carmen"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}, {"slug": "blessed-alvaro-del-portillo", "title": "Blessed \u00c1lvaro del Portillo"}]
 ---
 
 By Fr. Conor Donnelly

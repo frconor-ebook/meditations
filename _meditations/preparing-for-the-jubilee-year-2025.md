@@ -2,6 +2,13 @@
 layout: homily
 title: "Preparing for the Jubilee Year 2025"
 description: "St. Paul says to the Romans, \"Hope does not disappoint\" (Rom. 5:5). This particular phrase is a phrase that Pope Francis has wanted to choose to help us..."
+reading_time: 18
+tags: ["Church & Priesthood"]
+prev_slug: preparing-for-retreat
+prev_title: "Preparing for Retreat"
+next_slug: preparing-to-receive-jesus
+next_title: "Preparing to Receive Jesus"
+related: [{"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}, {"slug": "preparing-for-retreat", "title": "Preparing for Retreat"}, {"slug": "preparing-to-receive-jesus", "title": "Preparing to Receive Jesus"}]
 ---
 
 By Fr. Conor Donnelly

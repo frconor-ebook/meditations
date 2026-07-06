@@ -2,6 +2,12 @@
 layout: homily
 title: "Pro-Active Love"
 description: "\"But I say to you: Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you\" (Luke 6:27-28). In some..."
+reading_time: 22
+prev_slug: prince-of-peace
+prev_title: "Prince of Peace"
+next_slug: professional-prestige
+next_title: "Professional Prestige"
+related: [{"slug": "conjugal-love", "title": "Conjugal Love"}, {"slug": "god-has-captured-me-with-his-love", "title": "God Has Captured Me With His Love"}, {"slug": "love-for-priests", "title": "Love For Priests"}]
 ---
 
 By Fr. Conor Donnelly

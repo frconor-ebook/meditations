@@ -2,6 +2,13 @@
 layout: homily
 title: "Palm Sunday"
 description: "\"When they were near Jerusalem and had come to Bethphage on the Mount of Olives, then Jesus sent two disciples, saying to them, 'Go to the village facing..."
+reading_time: 23
+tags: ["Lent, Holy Week & Easter"]
+prev_slug: overcoming-human-respect
+prev_title: "Overcoming Human Respect"
+next_slug: passion-for-unity
+next_title: "Passion for Unity"
+related: [{"slug": "easter-sunday", "title": "Easter Sunday"}, {"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}, {"slug": "pentecost-sunday", "title": "Pentecost Sunday"}]
 ---
 
 By Fr. Conor Donnelly

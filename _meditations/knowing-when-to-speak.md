@@ -2,6 +2,12 @@
 layout: homily
 title: "Knowing When to Speak"
 description: "We're told in St. Mark, \"Jesus was silent and made no answer\" (Mark 14:61). For thirty years, Jesus had lived a life of silence. Mary and Joseph were the..."
+reading_time: 17
+prev_slug: knowing-god-through-mary
+prev_title: "Knowing God Through Mary"
+next_slug: knowing-loving-and-living-the-eucharist
+next_title: "Knowing, Loving, and Living the Eucharist"
+related: [{"slug": "knowing-god-through-mary", "title": "Knowing God Through Mary"}, {"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing, Loving, and Living the Eucharist"}, {"slug": "when-i-am-weak-then-i-am-strong", "title": "When I Am Weak, Then I Am Strong"}]
 ---
 
 

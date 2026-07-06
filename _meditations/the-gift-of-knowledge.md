@@ -2,6 +2,13 @@
 layout: homily
 title: "The Gift of Knowledge"
 description: "\"Because I have spoken these things, sorrow has filled your heart. But I speak the truth to you: it is expedient for you that I depart, for if I do not..."
+reading_time: 23
+tags: ["Holy Spirit"]
+prev_slug: the-gift-of-fortitude
+prev_title: "The Gift of Fortitude"
+next_slug: the-gift-of-piety
+next_title: "The Gift of Piety"
+related: [{"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}, {"slug": "the-gift-of-fear-of-the-lord", "title": "The Gift of Fear of the Lord"}, {"slug": "the-gift-of-fortitude", "title": "The Gift of Fortitude"}]
 ---
 
 By Fr. Conor Donnelly

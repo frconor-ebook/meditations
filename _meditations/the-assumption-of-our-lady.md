@@ -2,6 +2,13 @@
 layout: homily
 title: "The Assumption of Our Lady"
 description: "\"Now a great sign appeared in heaven: a woman, robed with the sun, standing on the moon, and on her head a crown of twelve stars\" (Rev. 12:1). Today is..."
+reading_time: 20
+tags: ["Our Lady"]
+prev_slug: the-ascension
+prev_title: "The Ascension"
+next_slug: the-baptism-of-jesus
+next_title: "The Baptism of Jesus"
+related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
 ---
 
 By Fr. Conor Donnelly

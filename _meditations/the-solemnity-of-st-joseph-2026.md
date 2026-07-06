@@ -2,6 +2,13 @@
 layout: homily
 title: "The Solemnity of St. Joseph (2026)"
 description: "The season of Lent is interrupted by the Solemnity of St. Joseph, the husband of Mary. With the exception of Our Lady, there is no greater saint in heaven..."
+reading_time: 14
+tags: ["St. Joseph", "Saints & Feast Days"]
+prev_slug: the-sixth-sunday-of-st-joseph-2026
+prev_title: "The Sixth Sunday of St. Joseph (2026)"
+next_slug: the-solemnity-of-the-annunciation-2026
+next_title: "The Solemnity of the Annunciation (2026)"
+related: [{"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}, {"slug": "self-emptying-and-st-joseph", "title": "Self-emptying and St. Joseph"}]
 ---
 
 

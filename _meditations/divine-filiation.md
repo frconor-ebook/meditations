@@ -2,6 +2,13 @@
 layout: homily
 title: "Divine Filiation"
 description: "A number of years ago, I was giving a retreat in the south of Spain, just after being ordained, to a group of men. There was an 80-year-old man who came..."
+reading_time: 23
+tags: ["Prayer & Interior Life"]
+prev_slug: discerning-ones-vocation
+prev_title: "Discerning One's Vocation"
+next_slug: divine-intimacies
+next_title: "Divine Intimacies"
+related: [{"slug": "divine-intimacies", "title": "Divine Intimacies"}, {"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}, {"slug": "maturity-and-participation-in-the-divine-nature", "title": "Maturity and Participation in the Divine Nature"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Pray for the Dead"
 description: "We\\'re told in the Psalms, \"My soul thirsts for God, for the living God. When shall I come and behold the face of God?\" (Ps. 42:2). During the month of..."
+reading_time: 18
+tags: ["Death & Eternal Life"]
+prev_slug: poverty-and-detachment
+prev_title: "Poverty and Detachment"
+next_slug: prayer-of-petition
+next_title: "Prayer of Petition"
+related: [{"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "all-souls", "title": "All Souls"}, {"slug": "commemoration-of-all-souls-2026", "title": "Commemoration of All Souls (2026)"}]
 ---
 
 By Fr. Conor Donnelly

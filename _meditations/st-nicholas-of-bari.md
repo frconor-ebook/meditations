@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Nicholas of Bari"
 description: "Today is the Feast of St. Nicholas of Bari. He was the Bishop of Myra in the fourth century, died there, and is buried in that Cathedral. His parents died..."
+reading_time: 20
+tags: ["Saints & Feast Days"]
+prev_slug: st-monica
+prev_title: "St. Monica"
+next_slug: st-patrick-march-17th
+next_title: "St. Patrick, March 17th"
+related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
 ---
 
 By Fr. Conor Donnelly

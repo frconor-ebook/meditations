@@ -2,6 +2,13 @@
 layout: homily
 title: "Holy Communion: Jesus Is Mine"
 description: "\"He who eats my flesh and drinks my blood abides in me and I in him\" (John 6:56). In Holy Communion Jesus gives Himself to each one of us. We could say..."
+reading_time: 16
+tags: ["Eucharist & the Mass"]
+prev_slug: helping-to-do-good
+prev_title: "Helping To Do Good"
+next_slug: holy-purity
+next_title: "Holy Purity"
+related: [{"slug": "the-anniversary-of-the-first-holy-communion-of-st-josemaria", "title": "The Anniversary of the First Holy Communion of St. Josemar\u00eda"}, {"slug": "the-holy-name-of-jesus", "title": "The Holy Name of Jesus"}, {"slug": "holy-thursday-the-eucharist", "title": "Holy Thursday: The Eucharist"}]
 ---
 
 By Fr. Conor Donnelly

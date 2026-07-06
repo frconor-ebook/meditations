@@ -2,6 +2,13 @@
 layout: homily
 title: "Life of Childhood"
 description: "\"Jesus spoke and said, 'I praise you, Father, Lord of heaven and earth, because you have hidden these things from the wise and prudent and revealed them..."
+reading_time: 20
+tags: ["Prayer & Interior Life"]
+prev_slug: lent-christs-death-on-the-cross
+prev_title: "Lent: Christ\u2019s Death on the Cross"
+next_slug: life-of-faith
+next_title: "Life of Faith"
+related: [{"slug": "plan-of-life", "title": "Plan of Life"}, {"slug": "spiritual-childhood", "title": "Spiritual Childhood"}, {"slug": "eternal-life", "title": "Eternal Life"}]
 ---
 
 By Fr. Conor Donnelly

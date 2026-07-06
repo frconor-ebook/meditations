@@ -2,6 +2,13 @@
 layout: homily
 title: "Fraternal Correction"
 description: "\"And the Lord\\'s servant,\" says St. Paul, \"must not be quarrelsome but kindly to everyone, an apt teacher, forbearing, correcting his opponents with..."
+reading_time: 22
+tags: ["Virtues & Struggle"]
+prev_slug: forming-saints-in-the-domestic-church-the-cross
+prev_title: "Forming Saints in the Domestic Church (The Cross)"
+next_slug: fraternity-in-the-work
+next_title: "Fraternity in the Work"
+related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
 ---
 
 By Fr. Conor Donnelly

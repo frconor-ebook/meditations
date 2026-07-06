@@ -2,6 +2,13 @@
 layout: homily
 title: "Patience in Adversity"
 description: "\"But before all this happens, you will be seized and persecuted; you will be handed over to the synagogues and to imprisonment, and brought before kings..."
+reading_time: 17
+tags: ["The Cross & Suffering", "Virtues & Struggle"]
+prev_slug: patience
+prev_title: "Patience"
+next_slug: pentecost-sunday
+next_title: "Pentecost Sunday"
+related: [{"slug": "patience", "title": "Patience"}, {"slug": "crises-be-not-afraid", "title": "Crises: Be Not Afraid"}, {"slug": "cross-rejection", "title": "Cross Rejection"}]
 ---
 
 By Fr. Conor Donnelly

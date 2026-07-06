@@ -2,6 +2,13 @@
 layout: homily
 title: "The Parable of the Rich Young Man"
 description: "\"And now a man came to him and asked, 'Master, what good deed must I do to possess eternal life?' Jesus said to him, 'Why do you ask me about what is..."
+reading_time: 17
+tags: ["Parables"]
+prev_slug: the-parable-of-the-rich-man-and-lazarus
+prev_title: "The Parable of the Rich Man and Lazarus"
+next_slug: the-parable-of-the-sower
+next_title: "The Parable of the Sower"
+related: [{"slug": "the-parable-of-the-rich-man-and-lazarus", "title": "The Parable of the Rich Man and Lazarus"}, {"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}]
 ---
 
 By Fr. Conor Donnelly

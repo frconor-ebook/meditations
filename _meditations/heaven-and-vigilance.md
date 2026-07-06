@@ -2,6 +2,13 @@
 layout: homily
 title: "Heaven and Vigilance"
 description: "We're told in St. Luke, \"Watch yourselves, or your hearts will be coarsened by debauchery and drunkenness and the cares of life, and that day will come..."
+reading_time: 16
+tags: ["Virtues & Struggle", "Death & Eternal Life"]
+prev_slug: hearts-on-fire
+prev_title: "Hearts on Fire"
+next_slug: hell-purgatory-heaven
+next_title: "Hell, Purgatory, Heaven"
+related: [{"slug": "the-last-day-of-the-liturgical-year-vigilance", "title": "The Last Day of the Liturgical Year (Vigilance)"}, {"slug": "hell-purgatory-heaven", "title": "Hell, Purgatory, Heaven"}, {"slug": "looking-up-to-heaven", "title": "Looking Up to Heaven"}]
 ---
 
 By Fr. Conor Donnelly

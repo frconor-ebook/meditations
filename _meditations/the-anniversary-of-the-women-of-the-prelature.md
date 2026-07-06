@@ -2,6 +2,13 @@
 layout: homily
 title: "The Anniversary of the Women of the Prelature"
 description: "My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my..."
+reading_time: 20
+tags: ["Opus Dei"]
+prev_slug: the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature
+prev_title: "The Anniversary of the Ordination of the First Three Priests of the Prelature"
+next_slug: the-annunciation
+next_title: "The Annunciation"
+related: [{"slug": "the-anniversary-of-the-establishment-of-the-prelature", "title": "The Anniversary of the Establishment of the Prelature"}, {"slug": "the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature", "title": "The Anniversary of the Ordination of the First Three Priests of the Prelature"}, {"slug": "the-anniversary-of-the-election-of-don-fernando-ocariz-as-the-prelate-of", "title": "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"}]
 ---
 
 By Fr. Conor Donnelly

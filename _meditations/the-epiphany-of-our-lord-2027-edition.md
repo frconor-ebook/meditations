@@ -2,6 +2,13 @@
 layout: homily
 title: "The Epiphany of Our Lord (2027 Edition)"
 description: "Epiphany means manifestation. In today's solemnity, the Church commemorates the first manifestation of the Son of God made man to the pagan world, which..."
+reading_time: 17
+tags: ["Advent & Christmas"]
+prev_slug: the-epiphany
+prev_title: "The Epiphany"
+next_slug: the-eternal-high-priest
+next_title: "The Eternal High Priest"
+related: [{"slug": "the-baptism-of-the-lord-2027-edition", "title": "The Baptism of the Lord (2027 Edition)"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}]
 ---
 
 

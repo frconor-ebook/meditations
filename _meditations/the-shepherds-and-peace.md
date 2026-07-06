@@ -2,6 +2,13 @@
 layout: homily
 title: "The Shepherds and Peace"
 description: "\"And suddenly there was with the angel a multitude of the heavenly host praising God and saying, \"Glory to God in the highest, and on earth peace among..."
+reading_time: 20
+tags: ["Advent & Christmas"]
+prev_slug: the-seventh-sunday-of-st-joseph-2026
+prev_title: "The Seventh Sunday of St. Joseph (2026)"
+next_slug: the-sixth-sunday-of-st-joseph-2026
+next_title: "The Sixth Sunday of St. Joseph (2026)"
+related: [{"slug": "prince-of-peace", "title": "Prince of Peace"}, {"slug": "shepherds-and-wise-men", "title": "Shepherds and Wise Men"}, {"slug": "interior-peace", "title": "Interior Peace"}]
 ---
 
 By Fr. Conor Donnelly

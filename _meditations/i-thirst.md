@@ -2,6 +2,13 @@
 layout: homily
 title: "I Thirst"
 description: "\"Later, knowing that everything had now been finished, and so that Scripture would be fulfilled, Jesus said, 'I am thirsty'\" (John 19:28). Christ is \"the..."
+reading_time: 17
+tags: ["Lent, Holy Week & Easter"]
+prev_slug: i-came-to-cast-fire-on-earth
+prev_title: "I Came To Cast Fire On Earth"
+next_slug: imagination-the-madwoman
+next_title: "Imagination: The Madwoman"
+related: [{"slug": "ash-wednesday", "title": "Ash Wednesday"}, {"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "easter-joy", "title": "Easter Joy"}]
 ---
 
 By Fr. Conor Donnelly

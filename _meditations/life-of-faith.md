@@ -2,6 +2,13 @@
 layout: homily
 title: "Life of Faith"
 description: "Two fish were swimming one day when they saw a piece of meat dangling before them. The younger fish darted towards it with an open mouth, but the older..."
+reading_time: 24
+tags: ["Virtues & Struggle"]
+prev_slug: life-of-childhood
+prev_title: "Life of Childhood"
+next_slug: listening
+next_title: "Listening"
+related: [{"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "growing-in-faith", "title": "Growing in Faith"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Mother\u2019s Day"
 description: "We\\'re told in the Psalms: \\\"For you created my inmost being; you knit me together in my mother\\'s womb\" (Ps. 139:13). Mother\\'s Day honors the sacrifices..."
+reading_time: 26
+tags: ["Family & Marriage"]
+prev_slug: mother-of-the-church
+prev_title: "Mother of the Church"
+next_slug: much-will-be-demanded-responsibility
+next_title: "Much Will Be Demanded: Responsibility"
+related: [{"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}, {"slug": "mary-mother-of-god", "title": "Mary, Mother of God"}, {"slug": "mary-mother-of-god-2nd-ed", "title": "Mary, Mother of God (2nd Ed.)"}]
 ---
 
 By Fr. Conor Donnelly

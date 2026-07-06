@@ -2,6 +2,13 @@
 layout: homily
 title: "The Exaltation of the Holy Cross"
 description: "\"But they shouted, 'Away with him, away with him, crucify him.' Pilate said, 'Shall I crucify your king?' The chief priests answered, 'We have no king..."
+reading_time: 19
+tags: ["The Cross & Suffering"]
+prev_slug: the-eucharistfaith-and-hope
+prev_title: "The Eucharist\u2013Faith and Hope"
+next_slug: the-exaltation-of-the-holy-cross-2026
+next_title: "The Exaltation of the Holy Cross (2026)"
+related: [{"slug": "the-exaltation-of-the-holy-cross-2026", "title": "The Exaltation of the Holy Cross (2026)"}, {"slug": "the-priestly-society-of-the-holy-cross", "title": "The Priestly Society of the Holy Cross"}, {"slug": "cross-rejection", "title": "Cross Rejection"}]
 ---
 
 By Fr. Conor Donnelly

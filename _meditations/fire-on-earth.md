@@ -2,6 +2,13 @@
 layout: homily
 title: "Fire On Earth"
 description: "We're told in St. Luke, \"I have come to bring fire to the earth, and how I wish it were blazing already! There is a baptism I must still receive, and what..."
+reading_time: 18
+tags: ["Apostolate"]
+prev_slug: finding-jesus
+prev_title: "Finding Jesus"
+next_slug: first-thoughts-and-emotions
+next_title: "First Thoughts and Emotions"
+related: [{"slug": "i-came-to-cast-fire-on-earth", "title": "I Came To Cast Fire On Earth"}, {"slug": "hearts-on-fire", "title": "Hearts on Fire"}, {"slug": "fishers-of-men", "title": "Fishers of Men"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "The Passion of St. John the Baptist"
 description: "\"Now it was this same Herod who had sent to have John arrested, and had him chained up in prison because of Herodias, his brother Philip\\'s wife, whom he..."
+reading_time: 21
+tags: ["Saints & Feast Days", "Lent, Holy Week & Easter"]
+prev_slug: the-paralytic-at-capharnaum-confession
+prev_title: "The Paralytic at Capharnaum (Confession)"
+next_slug: the-pharisee-and-the-publican
+next_title: "The Pharisee and the Publican"
+related: [{"slug": "st-john-the-baptist", "title": "St. John the Baptist"}, {"slug": "the-birth-of-st-john-the-baptist", "title": "The Birth of St. John the Baptist"}, {"slug": "the-martyrdom-of-st-john-the-baptist", "title": "The Martyrdom of St. John the Baptist"}]
 ---
 
 By Fr. Conor Donnelly

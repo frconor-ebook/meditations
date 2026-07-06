@@ -2,6 +2,12 @@
 layout: homily
 title: "The Love of God"
 description: "\"Now his older son was in the field, and when he came and drew close to the house, he heard music and dancing. And he called one of the servants and asked..."
+reading_time: 22
+prev_slug: the-lost-sheep
+prev_title: "The Lost Sheep"
+next_slug: the-magnificat
+next_title: "The Magnificat"
+related: [{"slug": "conjugal-love", "title": "Conjugal Love"}, {"slug": "god-has-captured-me-with-his-love", "title": "God Has Captured Me With His Love"}, {"slug": "love-for-priests", "title": "Love For Priests"}]
 ---
 
 By Fr. Conor Donnelly

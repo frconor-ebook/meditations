@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Peter"
 description: "The Apostles Peter and Paul are considered by the faithful as the first pillars, not only of the Holy Roman See, but also of the universal Church of the..."
+reading_time: 18
+tags: ["Saints & Feast Days", "Church & Priesthood"]
+prev_slug: st-patrick-march-17th
+prev_title: "St. Patrick, March 17th"
+next_slug: st-peter-and-st-paul
+next_title: "St. Peter and St. Paul"
+related: [{"slug": "st-peter-and-st-paul", "title": "St. Peter and St. Paul"}, {"slug": "the-chair-of-st-peter", "title": "The Chair of St. Peter"}, {"slug": "love-for-peter", "title": "Love for Peter"}]
 ---
 
 

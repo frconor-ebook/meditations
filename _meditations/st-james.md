@@ -2,6 +2,13 @@
 layout: homily
 title: "St. James"
 description: "\"As he was walking along by the Lake of Galilee, he saw Simon and Simon's brother Andrew casting a net in the lake, for they were fishermen. And Jesus..."
+reading_time: 18
+tags: ["Saints & Feast Days"]
+prev_slug: st-gabriel
+prev_title: "St. Gabriel"
+next_slug: st-james-2026
+next_title: "St. James (2026)"
+related: [{"slug": "st-james-2026", "title": "St. James (2026)"}, {"slug": "st-philip-and-st-james", "title": "St. Philip and St. James"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Joseph in the Incarnation (Pope Francis)"
 description: "\"And Joseph too went up from Galilee, from the town of Nazareth, to Judea, to the city of David that is called Bethlehem, because he was of the house and..."
+reading_time: 21
+tags: ["St. Joseph", "Saints & Feast Days", "Advent & Christmas", "Church & Priesthood"]
+prev_slug: st-joseph-and-the-setbacks-of-life
+prev_title: "St. Joseph and the Setbacks of Life"
+next_slug: st-joseph-the-worker
+next_title: "St. Joseph the Worker"
+related: [{"slug": "the-anniversary-of-pope-franciss-election", "title": "The Anniversary of Pope Francis\u2019s Election"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}]
 ---
 
 By Fr. Conor Donnelly

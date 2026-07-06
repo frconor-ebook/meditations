@@ -2,6 +2,13 @@
 layout: homily
 title: "Perseverance"
 description: "I read a book once about the Battle of Monte Cassino. Monte Cassino is a monastery just south of Rome, where St. Benedict is buried together with his..."
+reading_time: 24
+tags: ["Virtues & Struggle"]
+prev_slug: pentecost-sunday
+prev_title: "Pentecost Sunday"
+next_slug: personal-prayer
+next_title: "Personal Prayer"
+related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
 ---
 
 By Fr. Conor Donnelly

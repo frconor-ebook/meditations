@@ -2,6 +2,13 @@
 layout: homily
 title: "The Washing of the Feet"
 description: "\"Before the Feast of the Passover, Jesus, knowing that the hour had come for him to pass out of this world to the Father, having loved his own who were in..."
+reading_time: 22
+tags: ["Lent, Holy Week & Easter"]
+prev_slug: the-war-with-temptation
+prev_title: "The War With Temptation"
+next_slug: the-way-the-truth-and-the-life
+next_title: "The Way, the Truth, and the Life"
+related: [{"slug": "ash-wednesday", "title": "Ash Wednesday"}, {"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "easter-joy", "title": "Easter Joy"}]
 ---
 
 By Fr. Conor Donnelly

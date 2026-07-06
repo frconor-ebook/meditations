@@ -2,6 +2,13 @@
 layout: homily
 title: "The Sacrament of Growth and Mercy"
 description: "\"And behold, a woman that was in the city, a sinner, when she knew that he sat at meal in the Pharisee\\'s house, brought an alabaster flask of ointment..."
+reading_time: 23
+tags: ["Confession & Mercy"]
+prev_slug: the-resurrection
+prev_title: "The Resurrection"
+next_slug: the-sacred-heart-of-jesus
+next_title: "The Sacred Heart of Jesus"
+related: [{"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}, {"slug": "our-lady-mother-of-mercy", "title": "Our Lady, Mother of Mercy"}, {"slug": "a-merciful-messiah", "title": "A Merciful Messiah"}]
 ---
 
 By Fr. Conor Donnelly

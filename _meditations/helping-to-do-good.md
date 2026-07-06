@@ -2,6 +2,13 @@
 layout: homily
 title: "Helping To Do Good"
 description: "\"When he returned to Capernaum, some time later word went around that he was in the house; and so many people collected that there was no room left, even..."
+reading_time: 17
+tags: ["Apostolate"]
+prev_slug: hell-purgatory-heaven
+prev_title: "Hell, Purgatory, Heaven"
+next_slug: holy-communion-jesus-is-mine
+next_title: "Holy Communion: Jesus Is Mine"
+related: [{"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "good-anger-and-bad-anger", "title": "Good Anger and Bad Anger"}]
 ---
 
 By Fr. Conor Donnelly

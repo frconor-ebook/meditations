@@ -2,6 +2,11 @@
 layout: homily
 title: "A Christian Outlook on Death"
 description: "St. Paul says to the Thessalonians, \"For you yourselves know well that the day of the Lord will come like a thief in the night\" (1 Thess. 5:2). Our Lord..."
+reading_time: 18
+tags: ["Death & Eternal Life"]
+next_slug: a-cup-of-cold-water
+next_title: "A Cup of Cold Water"
+related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}, {"slug": "christian-identity", "title": "Christian Identity"}]
 ---
 
 By Fr. Conor Donnelly

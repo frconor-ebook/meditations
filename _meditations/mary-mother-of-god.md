@@ -2,6 +2,13 @@
 layout: homily
 title: "Mary, Mother of God"
 description: "\"So they went with haste and they found Mary and Joseph, and the babe lying in the manger. When they saw the child, they repeated what had been told about..."
+reading_time: 16
+tags: ["Our Lady"]
+prev_slug: mary-of-bethanys-authentic-love
+prev_title: "Mary of Bethany\u2019s Authentic Love"
+next_slug: mary-mother-of-god-2nd-ed
+next_title: "Mary, Mother of God (2nd Ed.)"
+related: [{"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}, {"slug": "mary-mother-of-god-2nd-ed", "title": "Mary, Mother of God (2nd Ed.)"}, {"slug": "at-the-school-of-mary", "title": "At the School of Mary"}]
 ---
 
 By Fr. Conor Donnelly

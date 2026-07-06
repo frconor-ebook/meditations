@@ -2,6 +2,12 @@
 layout: homily
 title: "Christ Is Passing By"
 description: "God passes alongside the lives of men giving His light and joy. In the Book of the Prophet Jeremiah, we're told the Lord rejoices at the salvation of the..."
+reading_time: 19
+prev_slug: childrena-gift-of-god
+prev_title: "Children\u2014A Gift of God"
+next_slug: christ-the-king
+next_title: "Christ the King"
+related: [{"slug": "christ-the-king", "title": "Christ the King"}, {"slug": "christ-the-light", "title": "Christ the Light"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}]
 ---
 
 

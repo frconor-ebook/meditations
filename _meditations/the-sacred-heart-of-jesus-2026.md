@@ -2,6 +2,12 @@
 layout: homily
 title: "The Sacred Heart of Jesus (2026)"
 description: "Devotion to the Sacred Heart already existed in the Middle Ages as a private devotion. It appears as a liturgical feast in 1675, following the apparitions..."
+reading_time: 18
+prev_slug: the-sacred-heart-of-jesus
+prev_title: "The Sacred Heart of Jesus"
+next_slug: the-sacred-humanity-of-jesus
+next_title: "The Sacred Humanity of Jesus"
+related: [{"slug": "the-sacred-heart-of-jesus", "title": "The Sacred Heart of Jesus"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}, {"slug": "clean-of-heart", "title": "Clean of Heart"}]
 ---
 
 

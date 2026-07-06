@@ -2,6 +2,12 @@
 layout: homily
 title: "Seed and Grace"
 description: "\"He also said, 'This is what the kingdom of God is like. A man scatters seed on the land. Night and day, while he sleeps, when he is awake, the seed is..."
+reading_time: 17
+prev_slug: salt-and-light
+prev_title: "Salt and Light"
+next_slug: seeing-christ-in-illness
+next_title: "Seeing Christ in Illness"
+related: [{"slug": "correspondence-to-grace", "title": "Correspondence to Grace"}, {"slug": "on-grace-supernatural-life-and-confession", "title": "On Grace, Supernatural Life, and Confession"}, {"slug": "the-parable-of-the-mustard-seed", "title": "The Parable of the Mustard Seed"}]
 ---
 
 By Fr. Conor Donnelly

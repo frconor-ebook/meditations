@@ -2,6 +2,13 @@
 layout: homily
 title: "The Curing of the Man with an Unclean Spirit"
 description: "\"He went down to Capernaum, a town in Galilee, and taught them on the Sabbath. And his teaching made a deep impression on them because his word carried..."
+reading_time: 18
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: the-cure-of-the-possessed-boy
+prev_title: "The Cure of the Possessed Boy"
+next_slug: the-curing-of-the-possessed-man-gerasenes
+next_title: "The Curing of the Possessed Man (Gerasenes)"
+related: [{"slug": "the-curing-of-the-possessed-man-gerasenes", "title": "The Curing of the Possessed Man (Gerasenes)"}, {"slug": "fruits-of-the-holy-spirit", "title": "Fruits of the Holy Spirit"}, {"slug": "spirit-and-life", "title": "Spirit and Life"}]
 ---
 
 By Fr. Conor Donnelly

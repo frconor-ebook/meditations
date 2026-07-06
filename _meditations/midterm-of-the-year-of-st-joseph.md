@@ -2,6 +2,13 @@
 layout: homily
 title: "Midterm of the Year of St. Joseph"
 description: "\"After they had departed, behold, an angel of the Lord appeared in sleep to Joseph, saying, 'Arise and take the child and his mother and fly into Egypt..."
+reading_time: 21
+tags: ["St. Joseph", "Saints & Feast Days"]
+prev_slug: mental-prayer
+prev_title: "Mental Prayer"
+next_slug: mortification
+next_title: "Mortification"
+related: [{"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "self-emptying-and-st-joseph", "title": "Self-emptying and St. Joseph"}, {"slug": "st-joseph-and-the-treasure-of-silence", "title": "St. Joseph and The Treasure of Silence"}]
 ---
 
 By Fr. Conor Donnelly

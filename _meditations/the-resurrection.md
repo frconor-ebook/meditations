@@ -2,6 +2,13 @@
 layout: homily
 title: "The Resurrection"
 description: "\"Now on the first day of the week, Mary Magdalene came early to the tomb, while it was still dark, and she saw the stone taken away from the tomb\" (John..."
+reading_time: 21
+tags: ["Lent, Holy Week & Easter"]
+prev_slug: the-real-presence
+prev_title: "The Real Presence"
+next_slug: the-sacrament-of-growth-and-mercy
+next_title: "The Sacrament of Growth and Mercy"
+related: [{"slug": "ash-wednesday", "title": "Ash Wednesday"}, {"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "easter-joy", "title": "Easter Joy"}]
 ---
 
 By Fr. Conor Donnelly

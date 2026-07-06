@@ -2,6 +2,13 @@
 layout: homily
 title: "The Anniversary of the First Holy Communion of St. Josemar\u00eda"
 description: "We read in the Gospel, \"The Jews quarreled among themselves, saying, 'How can this man give us his flesh to eat?' Jesus said to them, 'Amen, Amen, I say..."
+reading_time: 22
+tags: ["Saints & Feast Days", "Opus Dei", "Eucharist & the Mass"]
+prev_slug: the-anniversary-of-the-establishment-of-the-prelature
+prev_title: "The Anniversary of the Establishment of the Prelature"
+next_slug: the-anniversary-of-the-ordination-of-st-josemaria
+next_title: "The Anniversary of the Ordination of St. Josemar\u00eda"
+related: [{"slug": "the-anniversary-of-the-ordination-of-st-josemaria", "title": "The Anniversary of the Ordination of St. Josemar\u00eda"}, {"slug": "the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature", "title": "The Anniversary of the Ordination of the First Three Priests of the Prelature"}, {"slug": "holy-communion-jesus-is-mine", "title": "Holy Communion: Jesus Is Mine"}]
 ---
 
 By Fr. Conor Donnelly

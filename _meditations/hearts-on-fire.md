@@ -2,6 +2,12 @@
 layout: homily
 title: "Hearts on Fire"
 description: "\"Did not our hearts burn within us when he explained to us the Scriptures?\" (Luke 24:32), we're told in the Gospel of St. Luke. And in St. Paul's Letter..."
+reading_time: 20
+prev_slug: heart-in-the-family
+prev_title: "Heart in the Family"
+next_slug: heaven-and-vigilance
+next_title: "Heaven and Vigilance"
+related: [{"slug": "do-not-let-your-hearts-be-troubled", "title": "Do Not Let Your Hearts Be Troubled"}, {"slug": "fire-on-earth", "title": "Fire On Earth"}, {"slug": "i-came-to-cast-fire-on-earth", "title": "I Came To Cast Fire On Earth"}]
 ---
 
 By Fr. Conor Donnelly

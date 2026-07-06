@@ -2,6 +2,13 @@
 layout: homily
 title: "The Adoration of the Kings"
 description: "\"And all at once the star which they had seen in the East was there going before them, till at last it stood still over the place where the Child was\"..."
+reading_time: 17
+tags: ["Advent & Christmas"]
+prev_slug: thanksgiving-day-2026
+prev_title: "Thanksgiving Day (2026)"
+next_slug: the-anniversary-of-pope-franciss-election
+next_title: "The Anniversary of Pope Francis\u2019s Election"
+related: [{"slug": "christmas", "title": "Christmas"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}]
 ---
 
 By Fr. Conor Donnelly

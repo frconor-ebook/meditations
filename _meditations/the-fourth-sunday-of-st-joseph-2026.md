@@ -2,6 +2,13 @@
 layout: homily
 title: "The Fourth Sunday of St. Joseph (2026)"
 description: "Our Lord will always enlighten those who seek Him with a clean heart. To think about the life of St. Joseph is to discover a life full of joys and..."
+reading_time: 18
+tags: ["St. Joseph", "Saints & Feast Days"]
+prev_slug: the-first-sunday-of-st-joseph-2026
+prev_title: "The First Sunday of St. Joseph (2026)"
+next_slug: the-friend-of-sinners
+next_title: "The Friend of Sinners"
+related: [{"slug": "the-fifth-sunday-of-st-joseph-2026", "title": "The Fifth Sunday of St. Joseph (2026)"}, {"slug": "the-first-sunday-of-st-joseph-2026", "title": "The First Sunday of St. Joseph (2026)"}, {"slug": "the-second-sunday-of-st-joseph-2026", "title": "The Second Sunday of St. Joseph (2026)"}]
 ---
 
 

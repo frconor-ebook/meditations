@@ -2,6 +2,13 @@
 layout: homily
 title: "Waiting for The Lord"
 description: "We're told in St. Luke, \"Let your loins be girt about you and your lamps burning. You yourselves be like men waiting for their master's return from the..."
+reading_time: 19
+tags: ["Advent & Christmas"]
+prev_slug: waiting-for-jesus
+prev_title: "Waiting for Jesus"
+next_slug: walking-on-the-waterfaith
+next_title: "Walking on the Water\u2013\u2013Faith"
+related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}, {"slug": "the-epiphany-of-our-lord-2027-edition", "title": "The Epiphany of Our Lord (2027 Edition)"}]
 ---
 
 By Fr. Conor Donnelly

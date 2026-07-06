@@ -1,0 +1,27 @@
+---
+layout: page
+title: Browse by Topic
+permalink: /topics/
+---
+
+<h1>Browse by Topic</h1>
+
+<p class="topics-intro">The same meditation can appear under several topics. For anything specific, use the search on the <a href="{{ '/' | relative_url }}">home page</a>.</p>
+
+<nav class="topics-nav" aria-label="Jump to topic">
+    {% for topic in site.data.topics %}
+    <a href="#{{ topic.anchor }}">{{ topic.tag }} <span class="topic-count">{{ topic.meditations | size }}</span></a>
+    {% endfor %}
+</nav>
+
+{% for topic in site.data.topics %}
+<section class="topic-section">
+    <h2 id="{{ topic.anchor }}">{{ topic.tag }} <span class="topic-count">({{ topic.meditations | size }})</span></h2>
+    <ul class="meditation-list">
+        {% for m in topic.meditations %}
+        {% capture m_url %}/homilies/{{ m.slug }}/{% endcapture %}
+        <li><a href="{{ m_url | relative_url }}">{{ m.title }}</a></li>
+        {% endfor %}
+    </ul>
+</section>
+{% endfor %}

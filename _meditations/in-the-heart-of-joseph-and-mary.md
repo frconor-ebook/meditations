@@ -2,6 +2,13 @@
 layout: homily
 title: "In the Heart of Joseph and Mary"
 description: "This meditation is about Mary and Joseph in the Heart of Jesus, basically focusing on marriage and the family. We\\'re asked to think about divine love and..."
+reading_time: 22
+tags: ["Our Lady", "St. Joseph"]
+prev_slug: in-expectation-of-our-lord
+prev_title: "In Expectation of Our Lord"
+next_slug: increase-my-faith
+next_title: "Increase My Faith"
+related: [{"slug": "the-immaculate-heart-of-mary", "title": "The Immaculate Heart of Mary"}, {"slug": "the-immaculate-heart-of-mary-2026", "title": "The Immaculate Heart of Mary (2026)"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
 ---
 
 By Fr. Conor Donnelly

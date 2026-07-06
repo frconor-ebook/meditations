@@ -4,5 +4,36 @@ layout: default
 
 <article>
     <h1>{{ page.title }}</h1>
+    <div class="meditation-meta">
+        {% if page.reading_time %}
+        <span class="reading-time" title="Estimated reading time">{{ page.reading_time }} min read</span>
+        {% endif %}
+        {% for tag in page.tags %}
+        <a class="tag-chip" href="{{ '/topics/' | relative_url }}#{{ tag | slugify }}">{{ tag }}</a>
+        {% endfor %}
+    </div>
     {{ content }}
 </article>
+
+{% if page.related %}
+<aside class="related-meditations">
+    <h2>Related Meditations</h2>
+    <ul>
+        {% for r in page.related %}
+        {% capture r_url %}/homilies/{{ r.slug }}/{% endcapture %}
+        <li><a href="{{ r_url | relative_url }}">{{ r.title }}</a></li>
+        {% endfor %}
+    </ul>
+</aside>
+{% endif %}
+
+<nav class="meditation-nav" aria-label="Meditation navigation">
+    {% if page.prev_slug %}
+    {% capture prev_url %}/homilies/{{ page.prev_slug }}/{% endcapture %}
+    <a class="nav-prev" href="{{ prev_url | relative_url }}"><span class="nav-label">← Previous</span>{{ page.prev_title }}</a>
+    {% else %}<span></span>{% endif %}
+    {% if page.next_slug %}
+    {% capture next_url %}/homilies/{{ page.next_slug }}/{% endcapture %}
+    <a class="nav-next" href="{{ next_url | relative_url }}"><span class="nav-label">Next →</span>{{ page.next_title }}</a>
+    {% endif %}
+</nav>

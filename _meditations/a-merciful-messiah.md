@@ -2,6 +2,13 @@
 layout: homily
 title: "A Merciful Messiah"
 description: "\"Jesus called his disciples to him and said, 'I feel sorry for all these people.' Large crowds came to him, bringing the lame, the crippled, the blind..."
+reading_time: 15
+tags: ["Confession & Mercy"]
+prev_slug: a-cup-of-cold-water
+prev_title: "A Cup of Cold Water"
+next_slug: abandonment
+next_title: "Abandonment"
+related: [{"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "contrition", "title": "Contrition"}, {"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}]
 ---
 
 By Fr. Conor Donnelly

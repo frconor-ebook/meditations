@@ -2,6 +2,13 @@
 layout: homily
 title: "All Saints\u2019 Day"
 description: "\"My dear friends,\" we are told in St. John, \"we are already God's children, but what we shall be in the future has not yet been revealed. We are well..."
+reading_time: 21
+tags: ["Saints & Feast Days"]
+prev_slug: aim-high
+prev_title: "Aim High"
+next_slug: all-souls
+next_title: "All Souls"
+related: [{"slug": "solemnity-of-all-saints-2026", "title": "Solemnity of All Saints (2026)"}, {"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}]
 ---
 
 By Fr. Conor Donnelly

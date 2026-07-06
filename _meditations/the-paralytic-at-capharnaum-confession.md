@@ -2,6 +2,13 @@
 layout: homily
 title: "The Paralytic at Capharnaum (Confession)"
 description: "\"After some days he again entered Capharnaum and it was reported that he was at home. And many gathered together so that there was no longer room, not..."
+reading_time: 21
+tags: ["Confession & Mercy", "Gospel Scenes & Miracles"]
+prev_slug: the-paralytic-and-his-friends
+prev_title: "The Paralytic and His Friends"
+next_slug: the-passion-of-st-john-the-baptist
+next_title: "The Passion of St. John the Baptist"
+related: [{"slug": "on-grace-supernatural-life-and-confession", "title": "On Grace, Supernatural Life, and Confession"}, {"slug": "our-sins-our-confession", "title": "Our Sins, Our Confession"}, {"slug": "the-apostolate-of-confession", "title": "The Apostolate of Confession"}]
 ---
 
 By Fr. Conor Donnelly

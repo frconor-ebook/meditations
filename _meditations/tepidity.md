@@ -2,6 +2,13 @@
 layout: homily
 title: "Tepidity"
 description: "\"God is love\" (1 John 4:8,16), an ever-new flame of love that does not diminish over time, leaving behind only a smoldering wick. Rather, His love burns..."
+reading_time: 18
+tags: ["Virtues & Struggle"]
+prev_slug: temptation
+prev_title: "Temptation"
+next_slug: thanksgiving
+next_title: "Thanksgiving"
+related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
 ---
 
 

@@ -2,6 +2,13 @@
 layout: homily
 title: "Blessed \u00c1lvaro del Portillo"
 description: "\"I am the good shepherd,\" said Our Lord. \"The good shepherd lays down his life for his sheep\" (John 10:11). Today is the feast of Blessed \u00c1lvaro del..."
+reading_time: 23
+tags: ["Saints & Feast Days", "Opus Dei"]
+prev_slug: blessed-guadalupe-ortiz-de-landazuri
+prev_title: "Blessed Guadalupe Ortiz de Land\u00e1zuri"
+next_slug: by-their-fruits-you-will-know-them
+next_title: "By Their Fruits, You Will Know Them"
+related: [{"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "blessed-are-the-peacemakers", "title": "Blessed Are the Peacemakers"}]
 ---
 
 By Fr. Conor Donnelly

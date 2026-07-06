@@ -2,6 +2,13 @@
 layout: homily
 title: "The Immaculate Heart of Mary (2026)"
 description: "We are told in Scripture that Our Lady kept all these things, pondering them in her heart. After the consecration of the world to the most sweet and..."
+reading_time: 15
+tags: ["Our Lady"]
+prev_slug: the-immaculate-heart-of-mary
+prev_title: "The Immaculate Heart of Mary"
+next_slug: the-infinite-love-of-god
+next_title: "The Infinite Love of God"
+related: [{"slug": "the-immaculate-heart-of-mary", "title": "The Immaculate Heart of Mary"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}, {"slug": "at-the-school-of-mary", "title": "At the School of Mary"}]
 ---
 
 

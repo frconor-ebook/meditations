@@ -2,6 +2,13 @@
 layout: homily
 title: "The Narrow Path"
 description: "We're told in St. Luke that on the way to Jerusalem, someone asked Our Lord: \"Lord, will those who are saved be few?\" (Luke 13:23). Our Lord did not give..."
+reading_time: 13
+tags: ["Parables"]
+prev_slug: the-narrow-gate
+prev_title: "The Narrow Gate"
+next_slug: the-nativity-of-our-lady
+next_title: "The Nativity of Our Lady"
+related: [{"slug": "the-narrow-gate", "title": "The Narrow Gate"}, {"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}]
 ---
 
 By Fr. Conor Donnelly

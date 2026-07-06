@@ -2,6 +2,13 @@
 layout: homily
 title: "The Grandfather"
 description: "Today is the feast of Our Lady of the Miraculous Medal. It is also the anniversary of the death of the Grandfather, who had great devotion to Our Lady of..."
+reading_time: 25
+tags: ["Opus Dei"]
+prev_slug: the-grandeur-of-man
+prev_title: "The Grandeur of Man"
+next_slug: the-grandmother
+next_title: "The Grandmother"
+related: [{"slug": "aunt-carmen", "title": "Aunt Carmen"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}, {"slug": "blessed-alvaro-del-portillo", "title": "Blessed \u00c1lvaro del Portillo"}]
 ---
 
 By Fr. Conor Donnelly

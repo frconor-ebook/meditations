@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Mark"
 description: "\"And he said to them, 'Go out into the whole world, proclaim the Gospel to all creation. Whoever believes and is baptized will be saved; whoever does not..."
+reading_time: 15
+tags: ["Saints & Feast Days"]
+prev_slug: st-luke-2026
+prev_title: "St. Luke (2026)"
+next_slug: st-mary-magdalene
+next_title: "St. Mary Magdalene"
+related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
 ---
 
 By Fr. Conor Donnelly

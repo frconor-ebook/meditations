@@ -2,6 +2,13 @@
 layout: homily
 title: "On Apostolate"
 description: "There was a man in Australia once who learned about how to take the apostolic aspect of his Christian vocation a little more seriously. He saw that God..."
+reading_time: 22
+tags: ["Apostolate"]
+prev_slug: octave-of-prayer-for-the-unity-of-christians
+prev_title: "Octave of Prayer for the Unity of Christians"
+next_slug: on-creation
+next_title: "On Creation"
+related: [{"slug": "the-apostolate", "title": "The Apostolate"}, {"slug": "the-apostolate-of-confession", "title": "The Apostolate of Confession"}, {"slug": "the-apostolate-of-the-home", "title": "The Apostolate of the Home"}]
 ---
 
 By Fr. Conor Donnelly

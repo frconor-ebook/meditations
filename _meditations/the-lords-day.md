@@ -2,6 +2,12 @@
 layout: homily
 title: "The Lord\u2019s Day"
 description: "Three of the Evangelists say that \"the Son of Man is Lord of the Sabbath\" (Matt. 12:8, Mark 2:28, Luke 6:5). St. Justin said, \"On Sundays there is an..."
+reading_time: 18
+prev_slug: the-light-of-the-world
+prev_title: "The Light of the World"
+next_slug: the-lost-sheep
+next_title: "The Lost Sheep"
+related: [{"slug": "all-you-peoples-bless-the-lord", "title": "All You Peoples, Bless the Lord"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "The Sanctification of Calumnies"
 description: "\"Happy are those who are persecuted for justice\" (Matt. 5:10). We're told in St. Peter: \"If you are reproached for the name of Christ, you are blessed..."
+reading_time: 21
+tags: ["Work & Ordinary Life"]
+prev_slug: the-saints-day-of-the-prelate
+prev_title: "The Saint\u2019s Day of the Prelate"
+next_slug: the-sanctification-of-later-years
+next_title: "The Sanctification of Later Years"
+related: [{"slug": "the-sanctification-of-later-years", "title": "The Sanctification of Later Years"}, {"slug": "the-sanctification-of-low-moments", "title": "The Sanctification of Low Moments"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}]
 ---
 
 By Fr. Conor Donnelly

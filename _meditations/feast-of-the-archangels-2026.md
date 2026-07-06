@@ -2,6 +2,13 @@
 layout: homily
 title: "Feast of the Archangels (2026)"
 description: "The liturgy for today celebrates the feast of the three archangels who have been venerated throughout the history of the Church. Michael, from the Hebrew..."
+reading_time: 17
+tags: ["Saints & Feast Days"]
+prev_slug: fathers-day
+prev_title: "Father\u2019s Day"
+next_slug: fidelity-in-marriage
+next_title: "Fidelity in Marriage"
+related: [{"slug": "st-josemaria-escriva-feast-june-26th", "title": "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"}, {"slug": "the-archangels", "title": "The Archangels"}, {"slug": "the-feast-of-the-holy-family", "title": "The Feast of the Holy Family"}]
 ---
 
 

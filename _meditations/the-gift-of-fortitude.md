@@ -2,6 +2,13 @@
 layout: homily
 title: "The Gift of Fortitude"
 description: "There is a story told about the conclave that elected Pope St. John Paul II, that when the votes were mounting for him in the conclave, the older Polish..."
+reading_time: 20
+tags: ["Holy Spirit", "Virtues & Struggle"]
+prev_slug: the-gift-of-fear-of-the-lord
+prev_title: "The Gift of Fear of the Lord"
+next_slug: the-gift-of-knowledge
+next_title: "The Gift of Knowledge"
+related: [{"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}, {"slug": "the-gift-of-fear-of-the-lord", "title": "The Gift of Fear of the Lord"}, {"slug": "the-gift-of-knowledge", "title": "The Gift of Knowledge"}]
 ---
 
 By Fr. Conor Donnelly

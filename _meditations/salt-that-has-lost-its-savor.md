@@ -2,6 +2,13 @@
 layout: homily
 title: "Salt That Has Lost Its Savor"
 description: "\"Salt without savor is no longer good for anything, except to be thrown out and trodden underfoot by men\" (Matt. 5:13). Our Lord has told His disciples..."
+reading_time: 16
+tags: ["Parables", "Apostolate"]
+prev_slug: ripples-in-the-ocean
+prev_title: "Ripples in the Ocean"
+next_slug: salt-and-light
+next_title: "Salt and Light"
+related: [{"slug": "salt-and-light", "title": "Salt and Light"}, {"slug": "the-lost-sheep", "title": "The Lost Sheep"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}]
 ---
 
 By Fr. Conor Donnelly

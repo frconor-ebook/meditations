@@ -2,6 +2,13 @@
 layout: homily
 title: "Divine Mercy Sunday"
 description: "\"According to the promise he made to our ancestors of his mercy to Abraham and to his descendants forever. His mercy is from generation to generation\"..."
+reading_time: 20
+tags: ["Confession & Mercy"]
+prev_slug: divine-intimacies
+prev_title: "Divine Intimacies"
+next_slug: do-not-be-afraid
+next_title: "Do Not Be Afraid"
+related: [{"slug": "our-lady-mother-of-mercy", "title": "Our Lady, Mother of Mercy"}, {"slug": "the-sacrament-of-growth-and-mercy", "title": "The Sacrament of Growth and Mercy"}, {"slug": "divine-filiation", "title": "Divine Filiation"}]
 ---
 
 

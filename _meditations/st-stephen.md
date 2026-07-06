@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Stephen"
 description: "\"Do not fear those who kill the body but cannot kill the soul\" (Matt. 10:28). The Entrance Antiphon of today's Mass says, \"The gates of heaven opened for..."
+reading_time: 18
+tags: ["Saints & Feast Days"]
+prev_slug: st-simon-and-st-jude
+prev_title: "St. Simon and St. Jude"
+next_slug: st-teresa-benedicta-of-the-cross-edith-stein
+next_title: "St. Teresa Benedicta of the Cross (Edith Stein)"
+related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
 ---
 
 By Fr. Conor Donnelly

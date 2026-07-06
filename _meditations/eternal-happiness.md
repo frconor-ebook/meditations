@@ -2,6 +2,13 @@
 layout: homily
 title: "Eternal Happiness"
 description: "Mother Angelica, the founder of EWTN, tells a story of how one time in her convent they needed to raise money. They decided to bake some peanuts and to..."
+reading_time: 22
+tags: ["Death & Eternal Life"]
+prev_slug: enlarging-the-heart
+prev_title: "Enlarging the Heart"
+next_slug: eternal-life
+next_title: "Eternal Life"
+related: [{"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "jesus-christ-the-eternal-high-priest", "title": "Jesus Christ, The Eternal High Priest"}, {"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}]
 ---
 
 By Fr. Conor Donnelly

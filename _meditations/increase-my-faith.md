@@ -2,6 +2,13 @@
 layout: homily
 title: "Increase My Faith"
 description: "He answered, \"Because you have so little faith. In truth I tell you, if your faith is the size of a mustard seed you will say to this mountain, 'Move from..."
+reading_time: 19
+tags: ["Virtues & Struggle"]
+prev_slug: in-the-heart-of-joseph-and-mary
+prev_title: "In the Heart of Joseph and Mary"
+next_slug: infectious-faith
+next_title: "Infectious Faith"
+related: [{"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "growing-in-faith", "title": "Growing in Faith"}, {"slug": "infectious-faith", "title": "Infectious Faith"}]
 ---
 
 By Fr. Conor Donnelly

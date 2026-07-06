@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Dominic"
 description: "St. Dominic was born in Caleruega about the year 1170. He fought the Albigensian heresy with his preaching and exemplary life. He founded the Dominicans..."
+reading_time: 16
+tags: ["Saints & Feast Days"]
+prev_slug: st-catherine-of-siena-2026
+prev_title: "St. Catherine of Siena (2026)"
+next_slug: st-francis-xavier
+next_title: "St. Francis Xavier"
+related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
 ---
 
 

@@ -2,6 +2,13 @@
 layout: homily
 title: "The Saint\u2019s Day of the Prelate"
 description: "\"I am the vine, you are the branches. Whoever remains in me, with me in him, bears fruit in plenty; for cut off from me you can do nothing\" (John 15:5)..."
+reading_time: 20
+tags: ["Opus Dei"]
+prev_slug: the-sacred-humanity-of-jesus
+prev_title: "The Sacred Humanity of Jesus"
+next_slug: the-sanctification-of-calumnies
+next_title: "The Sanctification of Calumnies"
+related: [{"slug": "the-anniversary-of-the-election-of-don-fernando-ocariz-as-the-prelate-of", "title": "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"}, {"slug": "the-birthday-of-the-prelate-don-fernando", "title": "The Birthday of the Prelate (Don Fernando)"}, {"slug": "aunt-carmen", "title": "Aunt Carmen"}]
 ---
 
 By Fr. Conor Donnelly

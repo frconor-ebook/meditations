@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Joachim and St. Anne"
 description: "\"He put another parable before them. 'The kingdom of heaven is like a mustard seed which a man took and sowed in his field. It is the smallest of all the..."
+reading_time: 19
+tags: ["Saints & Feast Days"]
+prev_slug: st-james-2026
+prev_title: "St. James (2026)"
+next_slug: st-john
+next_title: "St. John"
+related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
 ---
 
 

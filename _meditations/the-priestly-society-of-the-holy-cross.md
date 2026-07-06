@@ -2,6 +2,13 @@
 layout: homily
 title: "The Priestly Society of the Holy Cross"
 description: "\"Like living stones, let yourself be built into a spiritual house, to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus..."
+reading_time: 20
+tags: ["Opus Dei", "The Cross & Suffering", "Church & Priesthood"]
+prev_slug: the-presentation-of-our-lord
+prev_title: "The Presentation of Our Lord"
+next_slug: the-prodigal-son
+next_title: "The Prodigal Son"
+related: [{"slug": "the-exaltation-of-the-holy-cross", "title": "The Exaltation of the Holy Cross"}, {"slug": "the-exaltation-of-the-holy-cross-2026", "title": "The Exaltation of the Holy Cross (2026)"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}]
 ---
 
 By Fr. Conor Donnelly

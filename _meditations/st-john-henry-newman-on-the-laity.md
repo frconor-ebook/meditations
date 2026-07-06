@@ -2,6 +2,13 @@
 layout: homily
 title: "St. John Henry Newman on The Laity"
 description: "St. Paul says to the Ephesians, \"For our wrestling is not against flesh and blood, but against principalities and powers, against the rulers of the world..."
+reading_time: 16
+tags: ["Saints & Feast Days", "Church & Priesthood"]
+prev_slug: st-john-henry-newman-on-friendship
+prev_title: "St. John Henry Newman on Friendship"
+next_slug: st-john-mary-vianney
+next_title: "St. John Mary Vianney"
+related: [{"slug": "st-john-henry-newman-on-friendship", "title": "St. John Henry Newman on Friendship"}, {"slug": "dedication-of-the-basilica-of-st-john-lateran-2026", "title": "Dedication of the Basilica of St. John Lateran (2026)"}, {"slug": "st-john", "title": "St. John"}]
 ---
 
 By Fr. Conor Donnelly

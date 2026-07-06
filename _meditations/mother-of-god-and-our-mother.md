@@ -2,6 +2,13 @@
 layout: homily
 title: "Mother of God and Our Mother"
 description: "Mary said, \"Behold the handmaid of the Lord, be it done to me according to your word\" (Luke 1:38). In this month of May, we look a little closer at Our..."
+reading_time: 20
+tags: ["Our Lady"]
+prev_slug: mortification
+prev_title: "Mortification"
+next_slug: mother-of-the-church
+next_title: "Mother of the Church"
+related: [{"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}, {"slug": "mary-mother-of-god", "title": "Mary, Mother of God"}, {"slug": "mary-mother-of-god-2nd-ed", "title": "Mary, Mother of God (2nd Ed.)"}]
 ---
 
 By Fr. Conor Donnelly

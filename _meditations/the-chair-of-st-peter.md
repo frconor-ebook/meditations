@@ -2,6 +2,13 @@
 layout: homily
 title: "The Chair of St. Peter"
 description: "This feast celebrates the fact that St. Peter established his See in Rome. Christians were known to have celebrated this feast before the fourth century..."
+reading_time: 19
+tags: ["Saints & Feast Days", "Church & Priesthood"]
+prev_slug: the-centurion-and-his-servant
+prev_title: "The Centurion and His Servant"
+next_slug: the-communion-of-saints
+next_title: "The Communion of Saints"
+related: [{"slug": "st-peter", "title": "St. Peter"}, {"slug": "st-peter-and-st-paul", "title": "St. Peter and St. Paul"}, {"slug": "love-for-peter", "title": "Love for Peter"}]
 ---
 
 

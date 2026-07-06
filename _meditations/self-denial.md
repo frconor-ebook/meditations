@@ -2,6 +2,13 @@
 layout: homily
 title: "Self-denial"
 description: "\"If any person would come after me,\" said Our Lord, \"let him deny himself and take up his cross daily and follow me\" (Luke 9:23). Our Lord places a very..."
+reading_time: 22
+tags: ["Virtues & Struggle"]
+prev_slug: self-love-the-enemy
+prev_title: "Self-Love: The Enemy"
+next_slug: self-emptying-and-st-joseph
+next_title: "Self-emptying and St. Joseph"
+related: [{"slug": "self-love-the-enemy", "title": "Self-Love: The Enemy"}, {"slug": "self-emptying-and-st-joseph", "title": "Self-emptying and St. Joseph"}, {"slug": "the-mass-and-personal-self-surrender", "title": "The Mass and Personal Self-Surrender"}]
 ---
 
 By Fr. Conor Donnelly

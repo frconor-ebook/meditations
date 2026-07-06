@@ -2,6 +2,12 @@
 layout: homily
 title: "Trinity Sunday (2026)"
 description: "Today the Church celebrates the feast of the Blessed Trinity. It's the ineffable mystery of God's intimate life. It's the central truth of our faith and..."
+reading_time: 16
+prev_slug: trinity-sunday
+prev_title: "Trinity Sunday"
+next_slug: true-prayer
+next_title: "True Prayer"
+related: [{"slug": "trinity-sunday", "title": "Trinity Sunday"}, {"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}, {"slug": "easter-sunday", "title": "Easter Sunday"}]
 ---
 
 

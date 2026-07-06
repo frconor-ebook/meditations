@@ -2,6 +2,13 @@
 layout: homily
 title: "The Son of the Carpenter"
 description: "\"Leaving that district, he went to his hometown, and his disciples accompanied him. With the coming of the Sabbath, he began teaching in the synagogue..."
+reading_time: 16
+tags: ["Work & Ordinary Life"]
+prev_slug: the-solemnity-of-the-annunciation-2026
+prev_title: "The Solemnity of the Annunciation (2026)"
+next_slug: the-speck-in-my-brothers-eye
+next_title: "The Speck In My Brother's Eye"
+related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "little-duties", "title": "Little Duties"}, {"slug": "little-things", "title": "Little Things"}]
 ---
 
 By Fr. Conor Donnelly

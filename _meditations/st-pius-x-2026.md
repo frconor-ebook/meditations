@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Pius X (2026)"
 description: "Saint Pius the Tenth was born in 1835 in the small town of Riese in northern Italy. As a child, he experienced the privations of a large and poor family..."
+reading_time: 18
+tags: ["Saints & Feast Days"]
+prev_slug: st-pius-x
+prev_title: "St. Pius X"
+next_slug: st-severinus-and-unity
+next_title: "St. Severinus and Unity"
+related: [{"slug": "love-for-the-church-st-pius-x", "title": "Love for the Church (St. Pius X)"}, {"slug": "st-pius-x", "title": "St. Pius X"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
 ---
 
 

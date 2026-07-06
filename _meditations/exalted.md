@@ -2,6 +2,11 @@
 layout: homily
 title: "Exalted"
 description: "\"Now the snake was the most subtle of all the wild animals that God had made. It asked the woman, 'Did God really say you were not to eat of any of the..."
+reading_time: 18
+prev_slug: even-the-hairs-of-your-head
+prev_title: "Even The Hairs of Your Head"
+next_slug: examination-of-conscience
+next_title: "Examination of Conscience"
 ---
 
 

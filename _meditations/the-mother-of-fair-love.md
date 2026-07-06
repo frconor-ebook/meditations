@@ -2,6 +2,13 @@
 layout: homily
 title: "The Mother of Fair Love"
 description: "In the Book of Ecclesiasticus we are told: \"I am the mother of fair love, and of fear, and of knowledge, and of holy hope. In me is all grace of the way..."
+reading_time: 22
+tags: ["Our Lady"]
+prev_slug: the-miraculous-catch-of-fish
+prev_title: "The Miraculous Catch of Fish"
+next_slug: the-multiplication-of-the-loaves-and-fish
+next_title: "The Multiplication of the Loaves and Fish"
+related: [{"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}, {"slug": "mary-mother-of-god", "title": "Mary, Mother of God"}, {"slug": "mary-mother-of-god-2nd-ed", "title": "Mary, Mother of God (2nd Ed.)"}]
 ---
 
 By Fr. Conor Donnelly

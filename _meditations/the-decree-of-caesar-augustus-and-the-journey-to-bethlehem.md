@@ -2,6 +2,13 @@
 layout: homily
 title: "The Decree of Caesar Augustus and The Journey to Bethlehem"
 description: "This decree of Caesar Augustus changed the whole course of human history. We could imagine how perhaps Joseph was downtown one day and he heard a town..."
+reading_time: 17
+tags: ["Advent & Christmas"]
+prev_slug: the-daughter-of-jairus
+prev_title: "The Daughter of Jairus"
+next_slug: the-dedication-of-the-basilica-of-st-mary-major
+next_title: "The Dedication of the Basilica of St. Mary Major"
+related: [{"slug": "the-joy-of-the-journey-to-bethlehem", "title": "The Joy of the Journey to Bethlehem"}, {"slug": "obedience-in-bethlehem", "title": "Obedience in Bethlehem"}, {"slug": "the-light-streaming-from-bethlehem", "title": "The Light Streaming from Bethlehem"}]
 ---
 
 By Fr. Conor Donnelly

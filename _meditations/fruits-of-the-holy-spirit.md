@@ -2,6 +2,13 @@
 layout: homily
 title: "Fruits of the Holy Spirit"
 description: "Our Lord says in St. Matthew, \"You will know them by their fruits. Are grapes gathered from thorns, or figs from thistles? Every sound tree bears good..."
+reading_time: 19
+tags: ["Holy Spirit"]
+prev_slug: from-tabor-to-calvary
+prev_title: "From Tabor to Calvary"
+next_slug: gamblers-on-calvary
+next_title: "Gamblers On Calvary"
+related: [{"slug": "by-their-fruits-you-will-know-them", "title": "By Their Fruits, You Will Know Them"}, {"slug": "egypt-and-the-holy-family", "title": "Egypt and the Holy Family"}, {"slug": "holy-communion-jesus-is-mine", "title": "Holy Communion: Jesus Is Mine"}]
 ---
 
 By Fr. Conor Donnelly

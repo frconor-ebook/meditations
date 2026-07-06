@@ -2,6 +2,13 @@
 layout: homily
 title: "Shepherds and Wise Men"
 description: "Any mind which thinks about religion at all, asks itself such questions as these. Why do so few souls ever find Christ? Why do the passing fads of the day..."
+reading_time: 16
+tags: ["Advent & Christmas"]
+prev_slug: serving-one-master
+prev_title: "Serving One Master"
+next_slug: sick-and-you-visited-me
+next_title: "Sick and You Visited Me"
+related: [{"slug": "the-shepherds-and-peace", "title": "The Shepherds and Peace"}, {"slug": "christmas", "title": "Christmas"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}]
 ---
 
 

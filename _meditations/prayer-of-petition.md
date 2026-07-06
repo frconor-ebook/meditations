@@ -2,6 +2,13 @@
 layout: homily
 title: "Prayer of Petition"
 description: "\"Ask, and it will be given to you; search, and you will find; knock, and the door will be opened to you. Everyone who asks receives; everyone who seeks..."
+reading_time: 19
+tags: ["Prayer & Interior Life"]
+prev_slug: pray-for-the-dead
+prev_title: "Pray for the Dead"
+next_slug: preparing-for-retreat
+next_title: "Preparing for Retreat"
+related: [{"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}, {"slug": "personal-prayer", "title": "Personal Prayer"}]
 ---
 
 By Fr. Conor Donnelly

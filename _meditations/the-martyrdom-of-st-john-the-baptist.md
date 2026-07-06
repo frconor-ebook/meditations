@@ -2,6 +2,13 @@
 layout: homily
 title: "The Martyrdom of St. John the Baptist"
 description: "St. John the Baptist is the only saint who is honored by the church on both the occasion of his birth and of his death. Christ's precursor teaches every..."
+reading_time: 17
+tags: ["Saints & Feast Days"]
+prev_slug: the-magnificat
+prev_title: "The Magnificat"
+next_slug: the-mass
+next_title: "The Mass"
+related: [{"slug": "st-john-the-baptist", "title": "St. John the Baptist"}, {"slug": "the-birth-of-st-john-the-baptist", "title": "The Birth of St. John the Baptist"}, {"slug": "the-passion-of-st-john-the-baptist", "title": "The Passion of St. John the Baptist"}]
 ---
 
 

@@ -2,6 +2,13 @@
 layout: homily
 title: "Listening"
 description: "In a moment of darkness, the prophet Isaiah lifts up his voice to comfort the Chosen People who live in exile. He announces the happy return to their..."
+reading_time: 14
+tags: ["Prayer & Interior Life"]
+prev_slug: life-of-faith
+prev_title: "Life of Faith"
+next_slug: little-duties
+next_title: "Little Duties"
+related: [{"slug": "abandonment", "title": "Abandonment"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "divine-filiation", "title": "Divine Filiation"}]
 ---
 
 By Fr. Conor Donnelly

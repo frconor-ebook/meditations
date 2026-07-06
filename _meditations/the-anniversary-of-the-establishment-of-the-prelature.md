@@ -2,6 +2,13 @@
 layout: homily
 title: "The Anniversary of the Establishment of the Prelature"
 description: "\"Blessed be God the Father of Our Lord Jesus Christ,\" says St. Paul to the Ephesians, \"who has blessed us with all spiritual blessings of heaven in..."
+reading_time: 20
+tags: ["Opus Dei"]
+prev_slug: the-anniversary-of-the-election-of-don-fernando-ocariz-as-the-prelate-of
+prev_title: "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"
+next_slug: the-anniversary-of-the-first-holy-communion-of-st-josemaria
+next_title: "The Anniversary of the First Holy Communion of St. Josemar\u00eda"
+related: [{"slug": "the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature", "title": "The Anniversary of the Ordination of the First Three Priests of the Prelature"}, {"slug": "the-anniversary-of-the-women-of-the-prelature", "title": "The Anniversary of the Women of the Prelature"}, {"slug": "the-anniversary-of-the-election-of-don-fernando-ocariz-as-the-prelate-of", "title": "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"}]
 ---
 
 By Fr. Conor Donnelly

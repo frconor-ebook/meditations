@@ -2,6 +2,13 @@
 layout: homily
 title: "Sts. Timothy and Titus"
 description: "Timothy was born in Lystra in Asia Minor, of a Jewish mother and a Gentile father. During St. Paul's first trip to that city, Timothy was converted to the..."
+reading_time: 19
+tags: ["Saints & Feast Days"]
+prev_slug: sts-martha-mary-and-lazarus
+prev_title: "Sts. Martha, Mary, and Lazarus"
+next_slug: study
+next_title: "Study"
+related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
 ---
 
 

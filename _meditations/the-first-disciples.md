@@ -2,6 +2,13 @@
 layout: homily
 title: "The First Disciples"
 description: "\"The next day, as John stood there again with two of his disciples, Jesus went past. John looked towards him and said, 'Look, there is the Lamb of God.'..."
+reading_time: 20
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: the-first-commandment
+prev_title: "The First Commandment"
+next_slug: the-first-martyrs-of-the-church-of-rome
+next_title: "The First Martyrs of the Church of Rome"
+related: [{"slug": "first-thoughts-and-emotions", "title": "First Thoughts and Emotions"}, {"slug": "the-anniversary-of-the-first-holy-communion-of-st-josemaria", "title": "The Anniversary of the First Holy Communion of St. Josemar\u00eda"}, {"slug": "the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature", "title": "The Anniversary of the Ordination of the First Three Priests of the Prelature"}]
 ---
 
 By Fr. Conor Donnelly

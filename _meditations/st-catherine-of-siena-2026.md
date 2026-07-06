@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Catherine of Siena (2026)"
 description: "Born in Siena in 1347, Catherine Benincasa, as a young girl, joined the Dominican Third Order and was outstanding for her spirit of prayer and penance..."
+reading_time: 21
+tags: ["Saints & Feast Days"]
+prev_slug: st-catherine-of-siena
+prev_title: "St. Catherine of Siena"
+next_slug: st-dominic
+next_title: "St. Dominic"
+related: [{"slug": "st-catherine-of-siena", "title": "St. Catherine of Siena"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
 ---
 
 

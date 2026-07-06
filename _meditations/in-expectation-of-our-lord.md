@@ -2,6 +2,13 @@
 layout: homily
 title: "In Expectation of Our Lord"
 description: "\"He came unto his own, and his own received him not\" (John 1:11). We\\'re invited in this period of Advent to keep watch for the coming of the Messiah. In..."
+reading_time: 18
+tags: ["Advent & Christmas"]
+prev_slug: imagination-the-madwoman
+prev_title: "Imagination: The Madwoman"
+next_slug: in-the-heart-of-joseph-and-mary
+next_title: "In the Heart of Joseph and Mary"
+related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "the-epiphany-of-our-lord-2027-edition", "title": "The Epiphany of Our Lord (2027 Edition)"}, {"slug": "waiting-for-the-lord", "title": "Waiting for The Lord"}]
 ---
 
 By Fr. Conor Donnelly

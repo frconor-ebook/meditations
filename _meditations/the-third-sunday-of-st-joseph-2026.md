@@ -2,6 +2,13 @@
 layout: homily
 title: "The Third Sunday of St. Joseph (2026)"
 description: "It's customary for saints to be outstanding and to become well known for some particular virtue or aspect of their struggle which makes them conspicuous..."
+reading_time: 19
+tags: ["St. Joseph", "Saints & Feast Days"]
+prev_slug: the-temple-tax
+prev_title: "The Temple Tax"
+next_slug: the-transfiguration
+next_title: "The Transfiguration"
+related: [{"slug": "the-fifth-sunday-of-st-joseph-2026", "title": "The Fifth Sunday of St. Joseph (2026)"}, {"slug": "the-first-sunday-of-st-joseph-2026", "title": "The First Sunday of St. Joseph (2026)"}, {"slug": "the-fourth-sunday-of-st-joseph-2026", "title": "The Fourth Sunday of St. Joseph (2026)"}]
 ---
 
 

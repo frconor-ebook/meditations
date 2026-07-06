@@ -2,6 +2,13 @@
 layout: homily
 title: "Souls of Prayer"
 description: "We are told in today\\'s Gospel, \"It came to pass, as he was praying in private, that his disciples also were with him. And he asked them, saying, 'Who do..."
+reading_time: 20
+tags: ["Prayer & Interior Life"]
+prev_slug: solemnity-of-the-assumption-2026
+prev_title: "Solemnity of the Assumption (2026)"
+next_slug: sparrows
+next_title: "Sparrows"
+related: [{"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}, {"slug": "personal-prayer", "title": "Personal Prayer"}]
 ---
 
 By Fr. Conor Donnelly

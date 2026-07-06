@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Philip and St. James"
 description: "\"Jesus said, 'I am the way and the truth and the life. No one can come to the Father except through me. If you know me, you will know my Father too. From..."
+reading_time: 17
+tags: ["Saints & Feast Days"]
+prev_slug: st-peter-and-st-paul
+prev_title: "St. Peter and St. Paul"
+next_slug: st-pius-x
+next_title: "St. Pius X"
+related: [{"slug": "st-james", "title": "St. James"}, {"slug": "st-james-2026", "title": "St. James (2026)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
 ---
 
 By Fr. Conor Donnelly

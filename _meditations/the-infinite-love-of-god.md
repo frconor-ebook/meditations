@@ -2,6 +2,12 @@
 layout: homily
 title: "The Infinite Love of God"
 description: "We're told in Psalm 86, \"There is none like you, Lord. So great you are, so marvelous are your doings; you who alone are God\" (Ps. 86:8,10). And in St..."
+reading_time: 16
+prev_slug: the-immaculate-heart-of-mary-2026
+prev_title: "The Immaculate Heart of Mary (2026)"
+next_slug: the-infinity-of-littleness
+next_title: "The Infinity of Littleness"
+related: [{"slug": "conjugal-love", "title": "Conjugal Love"}, {"slug": "god-has-captured-me-with-his-love", "title": "God Has Captured Me With His Love"}, {"slug": "love-for-priests", "title": "Love For Priests"}]
 ---
 
 By Fr. Conor Donnelly

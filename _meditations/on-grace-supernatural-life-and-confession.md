@@ -2,6 +2,13 @@
 layout: homily
 title: "On Grace, Supernatural Life, and Confession"
 description: "There was a five-year-old kid who was being prepared for First Holy Communion, and the teacher was explaining how in all the sacraments we receive grace..."
+reading_time: 22
+tags: ["Confession & Mercy"]
+prev_slug: on-formation
+prev_title: "On Formation"
+next_slug: on-hope
+next_title: "On Hope"
+related: [{"slug": "our-sins-our-confession", "title": "Our Sins, Our Confession"}, {"slug": "the-apostolate-of-confession", "title": "The Apostolate of Confession"}, {"slug": "the-paralytic-at-capharnaum-confession", "title": "The Paralytic at Capharnaum (Confession)"}]
 ---
 
 By Fr. Conor Donnelly

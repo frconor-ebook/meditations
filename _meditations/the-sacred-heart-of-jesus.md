@@ -2,6 +2,12 @@
 layout: homily
 title: "The Sacred Heart of Jesus"
 description: "\"When they came to Jesus, they saw that he was already dead, and so instead of breaking his legs, one of the soldiers pierced his side with a lance; and..."
+reading_time: 21
+prev_slug: the-sacrament-of-growth-and-mercy
+prev_title: "The Sacrament of Growth and Mercy"
+next_slug: the-sacred-heart-of-jesus-2026
+next_title: "The Sacred Heart of Jesus (2026)"
+related: [{"slug": "the-sacred-heart-of-jesus-2026", "title": "The Sacred Heart of Jesus (2026)"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}, {"slug": "clean-of-heart", "title": "Clean of Heart"}]
 ---
 
 By Fr. Conor Donnelly

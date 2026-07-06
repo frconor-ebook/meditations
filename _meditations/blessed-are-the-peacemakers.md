@@ -2,6 +2,12 @@
 layout: homily
 title: "Blessed Are the Peacemakers"
 description: "My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my..."
+reading_time: 16
+prev_slug: blessed-are-the-merciful
+prev_title: "Blessed Are The Merciful"
+next_slug: blessed-guadalupe-ortiz-de-landazuri
+next_title: "Blessed Guadalupe Ortiz de Land\u00e1zuri"
+related: [{"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}, {"slug": "blessed-alvaro-del-portillo", "title": "Blessed \u00c1lvaro del Portillo"}]
 ---
 
 By Fr. Conor Donnelly

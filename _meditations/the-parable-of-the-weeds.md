@@ -2,6 +2,13 @@
 layout: homily
 title: "The Parable of the Weeds"
 description: "\"He put another parable before them, 'The kingdom of heaven may be compared to a man who sowed good seed in his field. While everybody was asleep his..."
+reading_time: 18
+tags: ["Parables"]
+prev_slug: the-parable-of-the-vinedressers
+prev_title: "The Parable of the Vinedressers"
+next_slug: the-paralytic-and-his-friends
+next_title: "The Paralytic and His Friends"
+related: [{"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "the-parable-of-the-mustard-seed", "title": "The Parable of the Mustard Seed"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,12 @@
 layout: homily
 title: "Rich Before God"
 description: "\"A man in the crowd said to him: 'Master, tell my brother to give me a share of our inheritance.' He said to him, 'My friend, who appointed me your judge..."
+reading_time: 25
+prev_slug: render-unto-caesar
+prev_title: "Render Unto Caesar"
+next_slug: ripples-in-the-ocean
+next_title: "Ripples in the Ocean"
+related: [{"slug": "the-parable-of-the-rich-man-and-lazarus", "title": "The Parable of the Rich Man and Lazarus"}, {"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}]
 ---
 
 By Fr. Conor Donnelly

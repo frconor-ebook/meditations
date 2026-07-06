@@ -2,6 +2,13 @@
 layout: homily
 title: "From Tabor to Calvary"
 description: "\"Then Peter addressed Jesus, saying, 'Lord, it is good for us to be here'\" (Matt. 17:4). In this recollection, we look at different aspects of the..."
+reading_time: 20
+tags: ["Lent, Holy Week & Easter", "The Cross & Suffering"]
+prev_slug: friendship-with-jesus
+prev_title: "Friendship with Jesus"
+next_slug: fruits-of-the-holy-spirit
+next_title: "Fruits of the Holy Spirit"
+related: [{"slug": "gamblers-on-calvary", "title": "Gamblers On Calvary"}, {"slug": "apart-from-me-you-can-do-nothing", "title": "Apart From Me You Can Do Nothing"}, {"slug": "the-light-streaming-from-bethlehem", "title": "The Light Streaming from Bethlehem"}]
 ---
 
 By Fr. Conor Donnelly

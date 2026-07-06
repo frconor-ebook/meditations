@@ -2,6 +2,13 @@
 layout: homily
 title: "The Parable of the Treasure and the Pearl"
 description: "\"The kingdom of heaven is like a treasure hidden in a field, which a man found and covered up. Then in his joy he goes and sells all that he has and buys..."
+reading_time: 20
+tags: ["Parables"]
+prev_slug: the-parable-of-the-ten-virgins
+prev_title: "The Parable of the Ten Virgins"
+next_slug: the-parable-of-the-vinedressers
+next_title: "The Parable of the Vinedressers"
+related: [{"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "the-parable-of-the-mustard-seed", "title": "The Parable of the Mustard Seed"}]
 ---
 
 By Fr. Conor Donnelly

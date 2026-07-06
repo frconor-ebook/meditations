@@ -2,6 +2,13 @@
 layout: homily
 title: "The Narrow Gate"
 description: "\"And Jesus went through the cities and towns, teaching and making his journey to Jerusalem. And a certain man said to him, 'Lord, are there few that are..."
+reading_time: 20
+tags: ["Parables"]
+prev_slug: the-mystery-of-the-incarnation
+prev_title: "The Mystery of the Incarnation"
+next_slug: the-narrow-path
+next_title: "The Narrow Path"
+related: [{"slug": "the-narrow-path", "title": "The Narrow Path"}, {"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}]
 ---
 
 By Fr. Conor Donnelly

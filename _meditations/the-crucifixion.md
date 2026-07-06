@@ -2,6 +2,13 @@
 layout: homily
 title: "The Crucifixion"
 description: "\"Pilate then had Jesus taken away and scourged. After this, the soldiers twisted some thorns into a crown, put it on his head, and dressed him in a purple..."
+reading_time: 20
+tags: ["Lent, Holy Week & Easter", "The Cross & Suffering"]
+prev_slug: the-crosses-of-love-and-hate
+prev_title: "The Crosses of Love and Hate"
+next_slug: the-cure-of-the-possessed-boy
+next_title: "The Cure of the Possessed Boy"
+related: [{"slug": "from-tabor-to-calvary", "title": "From Tabor to Calvary"}, {"slug": "gamblers-on-calvary", "title": "Gamblers On Calvary"}, {"slug": "joy-in-the-cross-lent", "title": "Joy in the Cross (Lent)"}]
 ---
 
 By Fr. Conor Donnelly

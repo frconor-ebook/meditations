@@ -2,6 +2,13 @@
 layout: homily
 title: "Contemplative: It Is Good That We Are Here"
 description: "\"Lord, it is good that we are here,\" said St. Peter on the occasion of the Transfiguration (Matt. 17:4). Many important events in Our Lord's life take..."
+reading_time: 15
+tags: ["Prayer & Interior Life"]
+prev_slug: conscience-the-light-of-the-soul
+prev_title: "Conscience, The Light of the Soul"
+next_slug: contrition
+next_title: "Contrition"
+related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "good-anger-and-bad-anger", "title": "Good Anger and Bad Anger"}, {"slug": "good-friday-of-the-lords-passion", "title": "Good Friday of the Lord\u2019s Passion"}]
 ---
 
 By Fr. Conor Donnelly

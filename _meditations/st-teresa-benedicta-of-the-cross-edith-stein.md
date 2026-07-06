@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Teresa Benedicta of the Cross (Edith Stein)"
 description: "We are told in the letters of St. Peter: \"Let not theirs be the outward adornment of braiding the hair, or of wearing gold, or of putting on robes; but..."
+reading_time: 18
+tags: ["Saints & Feast Days", "The Cross & Suffering"]
+prev_slug: st-stephen
+prev_title: "St. Stephen"
+next_slug: st-teresa-of-avila
+next_title: "St. Teresa of Avila"
+related: [{"slug": "cross-rejection", "title": "Cross Rejection"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}, {"slug": "joy-in-the-cross-lent", "title": "Joy in the Cross (Lent)"}]
 ---
 
 By Fr. Conor Donnelly

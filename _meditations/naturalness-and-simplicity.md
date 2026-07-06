@@ -2,6 +2,13 @@
 layout: homily
 title: "Naturalness and Simplicity"
 description: "The Messiah came into the Temple in His Mother's arms. No one would have paid much attention to the young couple who were taking a little Child to present..."
+reading_time: 14
+tags: ["Virtues & Struggle"]
+prev_slug: naaman-the-syrian-docility
+prev_title: "Naaman the Syrian (Docility)"
+next_slug: obedience
+next_title: "Obedience"
+related: [{"slug": "the-depths-of-simplicity", "title": "The Depths of Simplicity"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}]
 ---
 
 By Fr. Conor Donnelly

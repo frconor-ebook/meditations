@@ -2,6 +2,12 @@
 layout: homily
 title: "Correspondence to Grace"
 description: "\"For it is like a man going abroad, who called his servants and handed over his goods to them. And to one he gave five talents, to another two, and to..."
+reading_time: 23
+prev_slug: corpus-christi-the-body-and-blood-of-our-lord
+prev_title: "Corpus Christi (The Body and Blood of Our Lord)"
+next_slug: crises-be-not-afraid
+next_title: "Crises: Be Not Afraid"
+related: [{"slug": "generosity-in-correspondence", "title": "Generosity in Correspondence"}, {"slug": "on-grace-supernatural-life-and-confession", "title": "On Grace, Supernatural Life, and Confession"}, {"slug": "seed-and-grace", "title": "Seed and Grace"}]
 ---
 
 By Fr. Conor Donnelly

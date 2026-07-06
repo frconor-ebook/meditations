@@ -2,6 +2,13 @@
 layout: homily
 title: "The Grain of Wheat"
 description: "There was a pencil maker once who spoke to the pencil that he was making and told this pencil, \"There are five things you need to know before I send you..."
+reading_time: 21
+tags: ["Parables"]
+prev_slug: the-good-use-of-time
+prev_title: "The Good Use of Time"
+next_slug: the-grandeur-of-man
+next_title: "The Grandeur of Man"
+related: [{"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}, {"slug": "salt-and-light", "title": "Salt and Light"}]
 ---
 
 By Fr. Conor Donnelly

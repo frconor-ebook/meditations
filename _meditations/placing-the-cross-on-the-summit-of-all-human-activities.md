@@ -2,6 +2,13 @@
 layout: homily
 title: "Placing the Cross on the Summit of All Human Activities"
 description: "Nos autem gloriari in cruce Dominum nostri Jesu Christi. \"We are called to glory in the Cross of Christ,\" the liturgy tells us (Entrance Antiphon, Holy..."
+reading_time: 22
+tags: ["The Cross & Suffering"]
+prev_slug: piety
+prev_title: "Piety"
+next_slug: plan-of-life
+next_title: "Plan of Life"
+related: [{"slug": "cross-rejection", "title": "Cross Rejection"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}, {"slug": "joy-in-the-cross-lent", "title": "Joy in the Cross (Lent)"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Unity of Life"
 description: "A politician was once heard speaking to a reporter and saying that he was willing to do anything to help rebuild his war-torn country in the aftermath of..."
+reading_time: 22
+tags: ["Work & Ordinary Life"]
+prev_slug: understanding
+prev_title: "Understanding"
+next_slug: unlimited-forgiveness
+next_title: "Unlimited Forgiveness"
+related: [{"slug": "st-josephs-holiness-in-ordinary-life", "title": "St. Joseph\u2019s Holiness in Ordinary Life"}, {"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}]
 ---
 
 By Fr. Conor Donnelly

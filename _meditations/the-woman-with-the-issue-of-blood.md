@@ -2,6 +2,13 @@
 layout: homily
 title: "The Woman with the Issue of Blood"
 description: "In the Gospel of today, we are told, \"Suddenly, from behind, there came a woman who had been suffering from a hemorrhage for twelve years. She touched the..."
+reading_time: 21
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: the-woman-caught-in-adultery
+prev_title: "The Woman Caught in Adultery"
+next_slug: thirsting-for-justice
+next_title: "Thirsting for Justice"
+related: [{"slug": "the-bent-over-woman", "title": "The Bent Over Woman"}, {"slug": "the-syrophoenician-woman", "title": "The Syrophoenician Woman"}, {"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}]
 ---
 
 By Fr. Conor Donnelly

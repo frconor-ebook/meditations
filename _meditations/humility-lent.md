@@ -2,6 +2,13 @@
 layout: homily
 title: "Humility (Lent)"
 description: "\"He who is greatest among you shall be your servant. And whoever exalts himself shall be humbled, and whoever humbles himself shall be exalted\" (Matt..."
+reading_time: 23
+tags: ["Lent, Holy Week & Easter", "Virtues & Struggle"]
+prev_slug: humility
+prev_title: "Humility"
+next_slug: humility-of-instruments
+next_title: "Humility of Instruments"
+related: [{"slug": "joy-in-the-cross-lent", "title": "Joy in the Cross (Lent)"}, {"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}, {"slug": "humility", "title": "Humility"}]
 ---
 
 By Fr. Conor Donnelly

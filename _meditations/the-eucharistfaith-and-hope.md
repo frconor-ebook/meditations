@@ -2,6 +2,13 @@
 layout: homily
 title: "The Eucharist\u2013Faith and Hope"
 description: "The Eucharist is not just a sacrament to be celebrated. It also must be the focus of our lives and the source of internal renewal. In his apostolic letter..."
+reading_time: 24
+tags: ["Eucharist & the Mass", "Virtues & Struggle"]
+prev_slug: the-eucharist-and-love
+prev_title: "The Eucharist and Love"
+next_slug: the-exaltation-of-the-holy-cross
+next_title: "The Exaltation of the Holy Cross"
+related: [{"slug": "holy-thursday-the-eucharist", "title": "Holy Thursday: The Eucharist"}, {"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing, Loving, and Living the Eucharist"}, {"slug": "our-lady-woman-of-the-eucharist", "title": "Our Lady, Woman of the Eucharist"}]
 ---
 
 By Fr. Conor Donnelly

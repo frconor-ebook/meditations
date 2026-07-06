@@ -2,6 +2,12 @@
 layout: homily
 title: "Even The Hairs of Your Head"
 description: "Our Lord tells us, \"Even the hairs of your head are numbered\" (Luke 12:7). Faith is often simple, easy, and joyful. But at other times it can become a..."
+reading_time: 17
+prev_slug: eternal-life
+prev_title: "Eternal Life"
+next_slug: exalted
+next_title: "Exalted"
+related: [{"slug": "do-not-let-your-hearts-be-troubled", "title": "Do Not Let Your Hearts Be Troubled"}, {"slug": "where-is-your-heart", "title": "Where Is Your Heart?"}, {"slug": "your-one-and-only-father", "title": "Your One and Only Father"}]
 ---
 
 By Fr. Conor Donnelly

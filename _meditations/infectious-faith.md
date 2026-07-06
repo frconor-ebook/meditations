@@ -2,6 +2,13 @@
 layout: homily
 title: "Infectious Faith"
 description: "There's an old Native American legend that says that one day there was a big fire in the forest. All the animals fled in terror in all directions, because..."
+reading_time: 17
+tags: ["Virtues & Struggle", "Apostolate"]
+prev_slug: increase-my-faith
+prev_title: "Increase My Faith"
+next_slug: interior-peace
+next_title: "Interior Peace"
+related: [{"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "growing-in-faith", "title": "Growing in Faith"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}]
 ---
 
 By Fr. Conor Donnelly

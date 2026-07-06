@@ -2,6 +2,13 @@
 layout: homily
 title: "The War With Temptation"
 description: "The great characteristic of our age is not its love for religion, but its love for talking about religion. Even those who would smite God from the heavens..."
+reading_time: 15
+tags: ["Virtues & Struggle"]
+prev_slug: the-vocation-of-our-lady
+prev_title: "The Vocation of Our Lady"
+next_slug: the-washing-of-the-feet
+next_title: "The Washing of the Feet"
+related: [{"slug": "temptation", "title": "Temptation"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}]
 ---
 
 

@@ -2,6 +2,11 @@
 layout: homily
 title: "The Infinity of Littleness"
 description: "It is a psychological fact that it is only by being little that we ever discover anything big. This law raised to the spiritual level tells us how we can..."
+reading_time: 16
+prev_slug: the-infinite-love-of-god
+prev_title: "The Infinite Love of God"
+next_slug: the-joy-of-the-journey-to-bethlehem
+next_title: "The Joy of the Journey to Bethlehem"
 ---
 
 

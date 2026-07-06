@@ -2,6 +2,13 @@
 layout: homily
 title: "Knowing, Loving, and Living the Eucharist"
 description: "\"Looking up, Jesus saw the crowds approaching and said to Philip, 'Where can we buy some bread for these people to eat?' He said this only to put Philip..."
+reading_time: 19
+tags: ["Eucharist & the Mass"]
+prev_slug: knowing-when-to-speak
+prev_title: "Knowing When to Speak"
+next_slug: launch-out-into-the-deep
+next_title: "Launch Out Into The Deep"
+related: [{"slug": "holy-thursday-the-eucharist", "title": "Holy Thursday: The Eucharist"}, {"slug": "our-lady-woman-of-the-eucharist", "title": "Our Lady, Woman of the Eucharist"}, {"slug": "the-eucharist-and-love", "title": "The Eucharist and Love"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Great Mothers"
 description: "There was a lady from a small village in the Mogilev region of the Russian Empire, in what is now Belarus. Her name was Bryna. In her youth, she was..."
+reading_time: 15
+tags: ["Family & Marriage"]
+prev_slug: gratitude-for-pope-benedict-xvi
+prev_title: "Gratitude for Pope Benedict XVI"
+next_slug: growing-in-faith
+next_title: "Growing in Faith"
+related: [{"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "conjugal-love", "title": "Conjugal Love"}, {"slug": "defending-the-family", "title": "Defending the Family"}]
 ---
 
 

@@ -2,6 +2,13 @@
 layout: homily
 title: "Thanksgiving After Mass"
 description: "\"Jesus answered them. ... 'For the bread of God is the bread which comes down from heaven and gives life to the world.' 'Sir,' they said, 'give us that..."
+reading_time: 17
+tags: ["Eucharist & the Mass", "Prayer & Interior Life"]
+prev_slug: thanksgiving
+prev_title: "Thanksgiving"
+next_slug: thanksgiving-day-2026
+next_title: "Thanksgiving Day (2026)"
+related: [{"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "the-mass", "title": "The Mass"}, {"slug": "the-mass-and-personal-self-surrender", "title": "The Mass and Personal Self-Surrender"}]
 ---
 
 By Fr. Conor Donnelly

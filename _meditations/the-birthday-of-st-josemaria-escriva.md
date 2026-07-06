@@ -2,6 +2,13 @@
 layout: homily
 title: "The Birthday of St. Josemar\u00eda Escriv\u00e1"
 description: "We are told in the Book of Genesis, \"Such was the story of heaven and earth as they were created. At the time when Yahweh God made earth and heaven, there..."
+reading_time: 21
+tags: ["Saints & Feast Days", "Opus Dei"]
+prev_slug: the-birth-of-st-john-the-baptist
+prev_title: "The Birth of St. John the Baptist"
+next_slug: the-birthday-of-the-prelate-don-fernando
+next_title: "The Birthday of the Prelate (Don Fernando)"
+related: [{"slug": "st-josemaria-escriva-feast-june-26th", "title": "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"}, {"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "the-anniversary-of-the-first-holy-communion-of-st-josemaria", "title": "The Anniversary of the First Holy Communion of St. Josemar\u00eda"}]
 ---
 
 By Fr. Conor Donnelly

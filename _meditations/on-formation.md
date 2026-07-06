@@ -2,6 +2,12 @@
 layout: homily
 title: "On Formation"
 description: "There was once a man who brought his four-year-old son to the national park. And in the national park, the kid saw an elephant. He got this idea of..."
+reading_time: 21
+prev_slug: on-creation
+prev_title: "On Creation"
+next_slug: on-grace-supernatural-life-and-confession
+next_title: "On Grace, Supernatural Life, and Confession"
+related: [{"slug": "doctrinal-formation", "title": "Doctrinal Formation"}, {"slug": "taking-advantage-of-the-means-of-formation", "title": "Taking Advantage of the Means of Formation"}]
 ---
 
 

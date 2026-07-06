@@ -2,6 +2,13 @@
 layout: homily
 title: "The Guardian Angels"
 description: "We're told in the Book of Exodus, \"Look, I am sending an angel to precede you, to guard you as you go and bring you to the place that I have prepared..."
+reading_time: 19
+tags: ["Saints & Feast Days"]
+prev_slug: the-grass-of-the-field
+prev_title: "The Grass of the Field"
+next_slug: the-harvest-is-plentiful
+next_title: "The Harvest is Plentiful"
+related: [{"slug": "guardian-angels-2026", "title": "Guardian Angels (2026)"}, {"slug": "our-lady-of-the-angels", "title": "Our Lady of the Angels"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "The Archangels"
 description: "\"Behold, we bring you tidings of great joy, which shall be to all the people\" (Luke 2:10). The Feast of the Archangels can lead us to think of these words..."
+reading_time: 19
+tags: ["Saints & Feast Days"]
+prev_slug: the-apostolate-of-the-home
+prev_title: "The Apostolate of the Home"
+next_slug: the-art-of-prudence
+next_title: "The Art of Prudence"
+related: [{"slug": "feast-of-the-archangels-2026", "title": "Feast of the Archangels (2026)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
 ---
 
 By Fr. Conor Donnelly

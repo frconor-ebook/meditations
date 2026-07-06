@@ -2,6 +2,13 @@
 layout: homily
 title: "The Precious Blood of Christ"
 description: "We're told in the Letter to the Hebrews: \"But now Christ has come, as the high priest of all the blessings which were to come. He has passed through the..."
+reading_time: 22
+tags: ["Eucharist & the Mass"]
+prev_slug: the-power-of-the-beatitudes
+prev_title: "The Power of the Beatitudes"
+next_slug: the-presentation-of-our-lady
+next_title: "The Presentation of Our Lady"
+related: [{"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}, {"slug": "jesus-christ-the-eternal-high-priest", "title": "Jesus Christ, The Eternal High Priest"}, {"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "The Crosses of Love and Hate"
 description: "It is my good fortune to belong to a Church which is hated. Truly indeed it is loved by those who know its Divine character; but it is also hated by..."
+reading_time: 16
+tags: ["The Cross & Suffering"]
+prev_slug: the-creative-courage-of-st-joseph
+prev_title: "The Creative Courage of St. Joseph"
+next_slug: the-crucifixion
+next_title: "The Crucifixion"
+related: [{"slug": "love-for-the-cross", "title": "Love for the Cross"}, {"slug": "conjugal-love", "title": "Conjugal Love"}, {"slug": "god-has-captured-me-with-his-love", "title": "God Has Captured Me With His Love"}]
 ---
 
 

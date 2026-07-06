@@ -2,6 +2,13 @@
 layout: homily
 title: "Forgiveness"
 description: "\"Then Peter went up to him and said, 'Lord, how often must I forgive my brother if he wrongs me? As often as seven times?' Jesus answered, 'Not seven, I..."
+reading_time: 19
+tags: ["Confession & Mercy"]
+prev_slug: fishers-of-men
+prev_title: "Fishers of Men"
+next_slug: forming-saints-in-the-domestic-church-bethany
+next_title: "Forming Saints in the Domestic Church (Bethany)"
+related: [{"slug": "unlimited-forgiveness", "title": "Unlimited Forgiveness"}, {"slug": "a-merciful-messiah", "title": "A Merciful Messiah"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}]
 ---
 
 By Fr. Conor Donnelly

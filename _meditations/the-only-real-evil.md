@@ -2,6 +2,12 @@
 layout: homily
 title: "The Only Real Evil"
 description: "We are told in the First Reading of today that \"the serpent was more subtle than any other wild creature that the Lord God had made\" (Gen. 3:1). Genesis..."
+reading_time: 22
+prev_slug: the-one-who-gives-us-jesus
+prev_title: "The One Who Gives Us Jesus"
+next_slug: the-only-real-evil-2nd-ed
+next_title: "The Only Real Evil (2nd Ed.)"
+related: [{"slug": "the-only-real-evil-2nd-ed", "title": "The Only Real Evil (2nd Ed.)"}, {"slug": "the-real-presence", "title": "The Real Presence"}, {"slug": "your-one-and-only-father", "title": "Your One and Only Father"}]
 ---
 
 By Fr. Conor Donnelly

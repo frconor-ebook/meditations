@@ -2,6 +2,13 @@
 layout: homily
 title: "Thanksgiving"
 description: "We are told in the Entrance Antiphon of the Mass of Thanksgiving, \"Sing psalms and hymns and inspired songs among yourselves, singing and chanting to the..."
+reading_time: 20
+tags: ["Prayer & Interior Life"]
+prev_slug: tepidity
+prev_title: "Tepidity"
+next_slug: thanksgiving-after-mass
+next_title: "Thanksgiving After Mass"
+related: [{"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}, {"slug": "thanksgiving-day-2026", "title": "Thanksgiving Day (2026)"}, {"slug": "abandonment", "title": "Abandonment"}]
 ---
 
 By Fr. Conor Donnelly

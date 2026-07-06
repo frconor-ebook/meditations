@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Lady of Africa"
 description: "\"My soul magnifies the Lord, and my spirit rejoices in God, my Savior\" (Luke 1:46-47). Today is the feast of Our Lady of Africa. The story goes that the..."
+reading_time: 19
+tags: ["Our Lady"]
+prev_slug: our-lady-help-of-christians
+prev_title: "Our Lady Help of Christians"
+next_slug: our-lady-of-fatima
+next_title: "Our Lady of Fatima"
+related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}, {"slug": "our-lady-of-guadalupe", "title": "Our Lady of Guadalupe"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Purity of the Heart"
 description: "We're told in the Book of Isaiah, \"Shower, O heavens, from above, and let the skies rain down righteousness; let the earth open, that salvation may spring..."
+reading_time: 17
+tags: ["Virtues & Struggle"]
+prev_slug: purity-of-soul
+prev_title: "Purity of Soul"
+next_slug: raise-the-world
+next_title: "Raise the World"
+related: [{"slug": "holy-purity", "title": "Holy Purity"}, {"slug": "purity-of-soul", "title": "Purity of Soul"}, {"slug": "clean-of-heart", "title": "Clean of Heart"}]
 ---
 
 By Fr. Conor Donnelly

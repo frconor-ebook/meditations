@@ -2,6 +2,13 @@
 layout: homily
 title: "Kindness"
 description: "\"And the King will answer, 'In truth, I tell you, insofar as you did this to one of the least of these brothers of mine, you did it to me'\" (Matt. 25:40)..."
+reading_time: 20
+tags: ["Virtues & Struggle"]
+prev_slug: keeping-my-word
+prev_title: "Keeping My Word"
+next_slug: knowing-god-through-mary
+next_title: "Knowing God Through Mary"
+related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Happy Are the Meek"
 description: "We are told in the Psalms, \"One thing have I asked of the Lord, that I will seek after, that I may dwell in the house of the Lord all the days of my life..."
+reading_time: 23
+tags: ["Virtues & Struggle"]
+prev_slug: guarding-our-sight
+prev_title: "Guarding Our Sight"
+next_slug: healing-christs-wounds
+next_title: "Healing Christ's Wounds"
+related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
 ---
 
 By Fr. Conor Donnelly

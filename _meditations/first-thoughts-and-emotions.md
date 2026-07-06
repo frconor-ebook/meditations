@@ -2,6 +2,12 @@
 layout: homily
 title: "First Thoughts and Emotions"
 description: "\"To them that love God, all things work together unto good,\" says St. Paul (Rom. 8:28). There\\'s one particular type of temptation \"that raises its head..."
+reading_time: 14
+prev_slug: fire-on-earth
+prev_title: "Fire On Earth"
+next_slug: fishers-of-men
+next_title: "Fishers of Men"
+related: [{"slug": "the-anniversary-of-the-first-holy-communion-of-st-josemaria", "title": "The Anniversary of the First Holy Communion of St. Josemar\u00eda"}, {"slug": "the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature", "title": "The Anniversary of the Ordination of the First Three Priests of the Prelature"}, {"slug": "the-first-commandment", "title": "The First Commandment"}]
 ---
 
 By Fr. Conor Donnelly

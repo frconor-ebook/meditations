@@ -2,6 +2,12 @@
 layout: homily
 title: "When I Am Weak, Then I Am Strong"
 description: "One of the themes that Scripture proposes for our consideration is the paradox of strength in weakness. It is found especially in the writings of St..."
+reading_time: 16
+prev_slug: watchfulness
+prev_title: "Watchfulness"
+next_slug: where-is-your-heart
+next_title: "Where Is Your Heart?"
+related: [{"slug": "knowing-when-to-speak", "title": "Knowing When to Speak"}]
 ---
 
 

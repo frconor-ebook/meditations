@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Barnabas (2026)"
 description: "A native of Cyprus, Barnabas was one of the first believers in Jerusalem. It was he who presented St. Paul to the apostles after his conversion and..."
+reading_time: 16
+tags: ["Saints & Feast Days"]
+prev_slug: st-barnabas
+prev_title: "St. Barnabas"
+next_slug: st-benedict
+next_title: "St. Benedict"
+related: [{"slug": "st-barnabas", "title": "St. Barnabas"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
 ---
 
 

@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Augustine"
 description: "Augustine was born in Thagaste, North Africa, in 354. After a tumultuous youth, he converted at the age of 33 and was baptized in Milan by Saint Ambrose..."
+reading_time: 21
+tags: ["Saints & Feast Days"]
+prev_slug: st-andrew
+prev_title: "St. Andrew"
+next_slug: st-barnabas
+next_title: "St. Barnabas"
+related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
 ---
 
 

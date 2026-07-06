@@ -2,6 +2,13 @@
 layout: homily
 title: "The Dignity of Work"
 description: "After God had created the earth, and enriched it with all manner of good things, He \"took the man and put him in the Garden of Eden, to till and keep it,\"..."
+reading_time: 17
+tags: ["Work & Ordinary Life"]
+prev_slug: the-devils-cast-out
+prev_title: "The Devils Cast Out"
+next_slug: the-end-of-life
+next_title: "The End of Life"
+related: [{"slug": "on-work", "title": "On Work"}, {"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}, {"slug": "the-father-in-the-work", "title": "The Father in the Work"}]
 ---
 
 By Fr. Conor Donnelly

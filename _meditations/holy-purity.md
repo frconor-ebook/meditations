@@ -2,6 +2,13 @@
 layout: homily
 title: "Holy Purity"
 description: "If you go to the end of a runway some time and watch the planes taking off, it can be a very impressive sight. You might wonder how all that metal gets up..."
+reading_time: 20
+tags: ["Virtues & Struggle"]
+prev_slug: holy-communion-jesus-is-mine
+prev_title: "Holy Communion: Jesus Is Mine"
+next_slug: holy-saturday
+next_title: "Holy Saturday"
+related: [{"slug": "purity-of-soul", "title": "Purity of Soul"}, {"slug": "purity-of-the-heart", "title": "Purity of the Heart"}, {"slug": "egypt-and-the-holy-family", "title": "Egypt and the Holy Family"}]
 ---
 
 By Fr. Conor Donnelly

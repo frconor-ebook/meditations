@@ -2,6 +2,12 @@
 layout: homily
 title: "Imagination: The Madwoman"
 description: "\"At once he made the disciples get into the boat and go on ahead to the other side while he sent the crowds away. After sending the crowds away he went up..."
+reading_time: 19
+prev_slug: i-thirst
+prev_title: "I Thirst"
+next_slug: in-expectation-of-our-lord
+next_title: "In Expectation of Our Lord"
+related: [{"slug": "the-imagination-and-interior-mortification", "title": "The Imagination and Interior Mortification"}]
 ---
 
 (*Proofread*)

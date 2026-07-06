@@ -2,6 +2,13 @@
 layout: homily
 title: "Emmaus"
 description: "\"Now that very same day, two of them were on their way to a village called Emmaus, seven miles from Jerusalem, and they were talking together about all..."
+reading_time: 18
+tags: ["Lent, Holy Week & Easter"]
+prev_slug: egypt-and-the-holy-family
+prev_title: "Egypt and the Holy Family"
+next_slug: enlarging-the-heart
+next_title: "Enlarging the Heart"
+related: [{"slug": "ash-wednesday", "title": "Ash Wednesday"}, {"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "easter-joy", "title": "Easter Joy"}]
 ---
 
 By Fr. Conor Donnelly

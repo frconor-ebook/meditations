@@ -2,6 +2,13 @@
 layout: homily
 title: "Egypt and the Holy Family"
 description: "\"And when they had departed, behold, the angel of the Lord appeared to Joseph in a dream and said, 'Rise, take the child and his mother, and flee to..."
+reading_time: 20
+tags: ["Family & Marriage"]
+prev_slug: education-in-social-virtues
+prev_title: "Education In Social Virtues"
+next_slug: emmaus
+next_title: "Emmaus"
+related: [{"slug": "the-feast-of-the-holy-family", "title": "The Feast of the Holy Family"}, {"slug": "defending-the-family", "title": "Defending the Family"}, {"slug": "heart-in-the-family", "title": "Heart in the Family"}]
 ---
 
 By Fr. Conor Donnelly

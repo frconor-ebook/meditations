@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Luke"
 description: "\"After this the Lord appointed seventy-two others and sent them out ahead of him in pairs, to all the towns and places he himself would be visiting. And..."
+reading_time: 22
+tags: ["Saints & Feast Days"]
+prev_slug: st-justin
+prev_title: "St. Justin"
+next_slug: st-luke-2026
+next_title: "St. Luke (2026)"
+related: [{"slug": "st-luke-2026", "title": "St. Luke (2026)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
 ---
 
 By Fr. Conor Donnelly

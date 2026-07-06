@@ -2,6 +2,12 @@
 layout: homily
 title: "Reading of the Gospels to get to know Jesus Christ"
 description: "A lady remarked to me once how we Catholics have more exposure to Scripture than any other Christian denomination. She was referring to the fact that if..."
+reading_time: 20
+prev_slug: raise-the-world
+prev_title: "Raise the World"
+next_slug: reading-the-signs
+next_title: "Reading the Signs"
+related: [{"slug": "jesus-christ-the-eternal-high-priest", "title": "Jesus Christ, The Eternal High Priest"}, {"slug": "by-their-fruits-you-will-know-them", "title": "By Their Fruits, You Will Know Them"}, {"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}]
 ---
 
 

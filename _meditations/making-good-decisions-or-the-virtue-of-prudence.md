@@ -2,6 +2,13 @@
 layout: homily
 title: "Making Good Decisions or The Virtue of Prudence"
 description: "\"The Lord replied, 'Who then is the wise and prudent steward whom the master will place over his household to give them their allowance of food at the..."
+reading_time: 20
+tags: ["Virtues & Struggle"]
+prev_slug: making-a-more-just-world
+prev_title: "Making A More Just World"
+next_slug: making-up-for-lost-time
+next_title: "Making Up for Lost Time"
+related: [{"slug": "the-art-of-prudence", "title": "The Art of Prudence"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}]
 ---
 
 By Fr. Conor Donnelly

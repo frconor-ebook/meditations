@@ -2,6 +2,13 @@
 layout: homily
 title: "Aunt Carmen"
 description: "We\\'re told in the Book of Proverbs, \"The truly capable woman---who can find her? She is far beyond the price of pearls. Her husband\\'s heart has..."
+reading_time: 20
+tags: ["Opus Dei"]
+prev_slug: at-the-school-of-mary
+prev_title: "At the School of Mary"
+next_slug: bartimaeus
+next_title: "Bartimaeus"
+related: [{"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}, {"slug": "blessed-alvaro-del-portillo", "title": "Blessed \u00c1lvaro del Portillo"}, {"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}]
 ---
 
 By Fr. Conor Donnelly

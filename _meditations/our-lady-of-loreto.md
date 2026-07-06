@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Lady of Loreto"
 description: "The Holy House of Nazareth, where Our Lady was born, is still preserved in Loreto. In this sandstone and brick home that has been the site of many..."
+reading_time: 16
+tags: ["Our Lady"]
+prev_slug: our-lady-of-guadalupe
+prev_title: "Our Lady of Guadalupe"
+next_slug: our-lady-of-lourdes
+next_title: "Our Lady of Lourdes"
+related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Lady of Pilar"
 description: "We are told in the Magnificat, all generations shall call me blessed, for the Almighty has done great things for me (Luke 1:48-49). Christians everywhere..."
+reading_time: 16
+tags: ["Our Lady"]
+prev_slug: our-lady-of-peace
+prev_title: "Our Lady of Peace"
+next_slug: our-lady-of-ransom
+next_title: "Our Lady of Ransom"
+related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
 ---
 
 By Fr. Conor Donnelly

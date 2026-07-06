@@ -2,6 +2,12 @@
 layout: homily
 title: "Trinity Sunday"
 description: "A number of years ago in Asia, I asked a six-year-old fellow how many persons there were in the Blessed Trinity. Very confidently he said, \"Four.\" I was..."
+reading_time: 19
+prev_slug: todays-task
+prev_title: "Today\u2019s Task"
+next_slug: trinity-sunday-2026
+next_title: "Trinity Sunday (2026)"
+related: [{"slug": "trinity-sunday-2026", "title": "Trinity Sunday (2026)"}, {"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}, {"slug": "easter-sunday", "title": "Easter Sunday"}]
 ---
 
 By Fr. Conor Donnelly

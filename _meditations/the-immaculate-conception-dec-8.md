@@ -2,6 +2,13 @@
 layout: homily
 title: "The Immaculate Conception (Dec. 8)"
 description: "Today is the Feast of the Immaculate Conception of Our Lady, one of the greatest feast days of Our Lady in the whole of the liturgical year. It's a day..."
+reading_time: 21
+tags: ["Our Lady"]
+prev_slug: the-imagination-and-interior-mortification
+prev_title: "The Imagination and Interior Mortification"
+next_slug: the-immaculate-heart-of-mary
+next_title: "The Immaculate Heart of Mary"
+related: [{"slug": "the-immaculate-heart-of-mary", "title": "The Immaculate Heart of Mary"}, {"slug": "the-immaculate-heart-of-mary-2026", "title": "The Immaculate Heart of Mary (2026)"}, {"slug": "at-the-school-of-mary", "title": "At the School of Mary"}]
 ---
 
 By Fr. Conor Donnelly

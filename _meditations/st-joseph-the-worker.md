@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Joseph the Worker"
 description: "In the Entrance Antiphon of today\\'s Mass, we\\'re told from the Psalms, \"By the labor of your hands you shall eat\" (Ps.128:2). Today is the Feast of St..."
+reading_time: 19
+tags: ["St. Joseph", "Saints & Feast Days", "Work & Ordinary Life"]
+prev_slug: st-joseph-in-the-incarnation-pope-francis
+prev_title: "St. Joseph in the Incarnation (Pope Francis)"
+next_slug: st-joseph-the-family-man
+next_title: "St. Joseph, The Family Man"
+related: [{"slug": "st-josephs-holiness-in-ordinary-life", "title": "St. Joseph\u2019s Holiness in Ordinary Life"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}]
 ---
 
 By Fr. Conor Donnelly

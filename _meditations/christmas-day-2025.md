@@ -2,6 +2,13 @@
 layout: homily
 title: "Christmas Day, 2025"
 description: "\"In those days a decree went out from Caesar Augustus that the whole world should be enrolled\" (Luke 2:1). We can now see clearly that the decree of the..."
+reading_time: 20
+tags: ["Advent & Christmas"]
+prev_slug: christmas
+prev_title: "Christmas"
+next_slug: clean-of-heart
+next_title: "Clean of Heart"
+related: [{"slug": "christmas", "title": "Christmas"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}]
 ---
 
 By Fr. Conor Donnelly

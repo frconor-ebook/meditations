@@ -2,6 +2,13 @@
 layout: homily
 title: "Mother of the Church"
 description: "\"With one heart,\" we are told in the Acts of the Apostles, \"all these joined constantly in prayer, together with some women, including Mary, the mother of..."
+reading_time: 19
+tags: ["Our Lady", "Church & Priesthood"]
+prev_slug: mother-of-god-and-our-mother
+prev_title: "Mother of God and Our Mother"
+next_slug: mothers-day
+next_title: "Mother\u2019s Day"
+related: [{"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}]
 ---
 
 By Fr. Conor Donnelly

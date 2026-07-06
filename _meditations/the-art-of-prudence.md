@@ -2,6 +2,13 @@
 layout: homily
 title: "The Art of Prudence"
 description: "The Lord replied, \"Who then is the wise and prudent steward whom the master will place over his household to give them at the proper time their allowance..."
+reading_time: 23
+tags: ["Virtues & Struggle"]
+prev_slug: the-archangels
+prev_title: "The Archangels"
+next_slug: the-artisan-of-nazareth
+next_title: "The Artisan of Nazareth"
+related: [{"slug": "making-good-decisions-or-the-virtue-of-prudence", "title": "Making Good Decisions or The Virtue of Prudence"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}]
 ---
 
 By Fr. Conor Donnelly

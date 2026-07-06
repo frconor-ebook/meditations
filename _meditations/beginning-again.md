@@ -2,6 +2,12 @@
 layout: homily
 title: "Beginning Again"
 description: "\"Now when it was late that same day, the first of the week, and the doors were shut, where the disciples were gathered together, for fear of the Jews..."
+reading_time: 17
+prev_slug: begin-again-fight-the-fight
+prev_title: "Begin Again, Fight the Fight"
+next_slug: blessed-are-the-merciful
+next_title: "Blessed Are The Merciful"
+related: [{"slug": "begin-again-fight-the-fight", "title": "Begin Again, Fight the Fight"}]
 ---
 
 By Fr. Conor Donnelly

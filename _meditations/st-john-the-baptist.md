@@ -2,6 +2,13 @@
 layout: homily
 title: "St. John the Baptist"
 description: "The Prophet Isaiah says, \"Behold, people of Zion, the Lord will come to save the nations. The Lord in his glory will make his voice heard and fill your..."
+reading_time: 17
+tags: ["Saints & Feast Days"]
+prev_slug: st-john-paul-ii
+prev_title: "St. John Paul II"
+next_slug: st-josemaria-escriva-feast-june-26th
+next_title: "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"
+related: [{"slug": "the-birth-of-st-john-the-baptist", "title": "The Birth of St. John the Baptist"}, {"slug": "the-martyrdom-of-st-john-the-baptist", "title": "The Martyrdom of St. John the Baptist"}, {"slug": "the-passion-of-st-john-the-baptist", "title": "The Passion of St. John the Baptist"}]
 ---
 
 By Fr. Conor Donnelly

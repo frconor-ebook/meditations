@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Lady, Mother of Mercy"
 description: "We are told in the Gospel of St. Mark: \"I have compassion on this crowd, because they have been with me now three days, and have nothing to eat; if I send..."
+reading_time: 17
+tags: ["Our Lady", "Confession & Mercy"]
+prev_slug: our-lady-comforter-of-the-afflicted
+prev_title: "Our Lady, Comforter of the Afflicted"
+next_slug: our-lady-woman-of-the-eucharist
+next_title: "Our Lady, Woman of the Eucharist"
+related: [{"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}, {"slug": "the-sacrament-of-growth-and-mercy", "title": "The Sacrament of Growth and Mercy"}, {"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}]
 ---
 
 By Fr. Conor Donnelly

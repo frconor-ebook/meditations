@@ -2,6 +2,13 @@
 layout: homily
 title: "The Good Use of Time"
 description: "In Dublin many years ago there was a man who was a very prominent actuary, very prestigious, and he began to attend recollections of Opus Dei. Little by..."
+reading_time: 21
+tags: ["Work & Ordinary Life"]
+prev_slug: the-good-thief
+prev_title: "The Good Thief"
+next_slug: the-grain-of-wheat
+next_title: "The Grain of Wheat"
+related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "making-up-for-lost-time", "title": "Making Up for Lost Time"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}]
 ---
 
 By Fr. Conor Donnelly

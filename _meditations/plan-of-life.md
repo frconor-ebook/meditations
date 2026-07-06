@@ -2,6 +2,13 @@
 layout: homily
 title: "Plan of Life"
 description: "There was a man once who was walking along by the sea, and he found that his foot tripped against a bit of a pouch or something. He picked it up and he..."
+reading_time: 24
+tags: ["Prayer & Interior Life"]
+prev_slug: placing-the-cross-on-the-summit-of-all-human-activities
+prev_title: "Placing the Cross on the Summit of All Human Activities"
+next_slug: poverty-and-detachment
+next_title: "Poverty and Detachment"
+related: [{"slug": "life-of-childhood", "title": "Life of Childhood"}, {"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "life-of-faith", "title": "Life of Faith"}]
 ---
 
 By Fr. Conor Donnelly

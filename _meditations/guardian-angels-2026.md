@@ -2,6 +2,13 @@
 layout: homily
 title: "Guardian Angels (2026)"
 description: "Devotion to the guardian angels goes back to the beginnings of Christianity. Pope Clement X proclaimed this feast a universal celebration in the 17th..."
+reading_time: 19
+tags: ["Saints & Feast Days"]
+prev_slug: growing-in-faith
+prev_title: "Growing in Faith"
+next_slug: guarding-our-sight
+next_title: "Guarding Our Sight"
+related: [{"slug": "the-guardian-angels", "title": "The Guardian Angels"}, {"slug": "our-lady-of-the-angels", "title": "Our Lady of the Angels"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
 ---
 
 

@@ -2,6 +2,13 @@
 layout: homily
 title: "Watchfulness"
 description: "St. Paul, speaking to the Thessalonians, says, \"But you, brothers do not live in the dark, that the Day should take you unawares like a thief. No, you are..."
+reading_time: 14
+tags: ["Virtues & Struggle"]
+prev_slug: walking-on-the-waterfaith
+prev_title: "Walking on the Water\u2013\u2013Faith"
+next_slug: when-i-am-weak-then-i-am-strong
+next_title: "When I Am Weak, Then I Am Strong"
+related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
 ---
 
 By Fr. Conor Donnelly

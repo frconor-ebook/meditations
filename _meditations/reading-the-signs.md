@@ -2,6 +2,12 @@
 layout: homily
 title: "Reading the Signs"
 description: "It is said in St. Luke, \"Are you the one who is to come, or shall we look for another?\" (Luke 7:19). Our Lord makes Himself known to us by giving..."
+reading_time: 17
+prev_slug: reading-of-the-gospels-to-get-to-know-jesus-christ
+prev_title: "Reading of the Gospels to get to know Jesus Christ"
+next_slug: rectitude-of-intention
+next_title: "Rectitude of Intention"
+related: [{"slug": "reading-of-the-gospels-to-get-to-know-jesus-christ", "title": "Reading of the Gospels to get to know Jesus Christ"}]
 ---
 
 By Fr. Conor Donnelly

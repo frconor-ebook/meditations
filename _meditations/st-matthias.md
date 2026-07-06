@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Matthias"
 description: "We're told in the Acts of the Apostles: \"Having nominated two candidates, Joseph, known as Barsabbas, whose surname was Justus, and Matthias, they prayed..."
+reading_time: 19
+tags: ["Saints & Feast Days"]
+prev_slug: st-matthew
+prev_title: "St. Matthew"
+next_slug: st-monica
+next_title: "St. Monica"
+related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
 ---
 
 By Fr. Conor Donnelly

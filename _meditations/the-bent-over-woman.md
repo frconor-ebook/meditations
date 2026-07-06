@@ -2,6 +2,13 @@
 layout: homily
 title: "The Bent Over Woman"
 description: "\"And there before him was a woman who for eighteen years had been possessed by a spirit that crippled her; she was bent double and quite unable to stand..."
+reading_time: 20
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: the-beauty-of-the-manger
+prev_title: "The Beauty of the Manger"
+next_slug: the-birth-of-st-john-the-baptist
+next_title: "The Birth of St. John the Baptist"
+related: [{"slug": "the-syrophoenician-woman", "title": "The Syrophoenician Woman"}, {"slug": "the-woman-with-the-issue-of-blood", "title": "The Woman with the Issue of Blood"}, {"slug": "our-lady-woman-of-the-eucharist", "title": "Our Lady, Woman of the Eucharist"}]
 ---
 
 By Fr. Conor Donnelly

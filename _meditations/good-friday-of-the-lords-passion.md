@@ -2,6 +2,13 @@
 layout: homily
 title: "Good Friday of the Lord\u2019s Passion"
 description: "\"Pilate then had Jesus taken away and scourged; and after this, the soldiers twisted some thorns into a crown and put it on his head and dressed him in a..."
+reading_time: 20
+tags: ["Lent, Holy Week & Easter"]
+prev_slug: good-anger-and-bad-anger
+prev_title: "Good Anger and Bad Anger"
+next_slug: gratitude-for-pope-benedict-xvi
+next_title: "Gratitude for Pope Benedict XVI"
+related: [{"slug": "the-good-thief", "title": "The Good Thief"}, {"slug": "the-passion-of-st-john-the-baptist", "title": "The Passion of St. John the Baptist"}, {"slug": "all-you-peoples-bless-the-lord", "title": "All You Peoples, Bless the Lord"}]
 ---
 
 By Fr. Conor Donnelly

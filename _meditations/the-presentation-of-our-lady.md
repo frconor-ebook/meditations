@@ -2,6 +2,13 @@
 layout: homily
 title: "The Presentation of Our Lady"
 description: "\"He was still speaking to the crowds when suddenly his mother and his brothers were standing outside. And they were anxious to have a word with him. But..."
+reading_time: 20
+tags: ["Our Lady"]
+prev_slug: the-precious-blood-of-christ
+prev_title: "The Precious Blood of Christ"
+next_slug: the-presentation-of-our-lord
+next_title: "The Presentation of Our Lord"
+related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
 ---
 
 By Fr. Conor Donnelly

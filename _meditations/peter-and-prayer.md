@@ -2,6 +2,13 @@
 layout: homily
 title: "Peter and Prayer"
 description: "\"And he came out and went, according to his custom, to the Mount of Olives, and the disciples also followed him. But when he was at the place, he said to..."
+reading_time: 21
+tags: ["Prayer & Interior Life", "Church & Priesthood"]
+prev_slug: personal-prayer
+prev_title: "Personal Prayer"
+next_slug: piety
+next_title: "Piety"
+related: [{"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}, {"slug": "love-for-peter", "title": "Love for Peter"}, {"slug": "st-peter", "title": "St. Peter"}]
 ---
 
 By Fr. Conor Donnelly

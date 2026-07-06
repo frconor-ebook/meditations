@@ -2,6 +2,13 @@
 layout: homily
 title: "Cheerfulness"
 description: "There was a missionary in China many years ago who was trying to evangelize the daughter of a prominent lawyer. The lawyer was not very happy, and so he..."
+reading_time: 19
+tags: ["Virtues & Struggle"]
+prev_slug: charity-versus-anger
+prev_title: "Charity versus Anger"
+next_slug: children-of-god
+next_title: "Children of God"
+related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
 ---
 
 By Fr. Conor Donnelly

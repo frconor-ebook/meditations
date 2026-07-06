@@ -2,6 +2,12 @@
 layout: homily
 title: "The Sacred Humanity of Jesus"
 description: "An elderly lady stood up at a service someplace in Tennessee---elderly, gray hair, heavy German accent. She started talking about how she had been a..."
+reading_time: 19
+prev_slug: the-sacred-heart-of-jesus-2026
+prev_title: "The Sacred Heart of Jesus (2026)"
+next_slug: the-saints-day-of-the-prelate
+next_title: "The Saint\u2019s Day of the Prelate"
+related: [{"slug": "the-sacred-heart-of-jesus", "title": "The Sacred Heart of Jesus"}, {"slug": "the-sacred-heart-of-jesus-2026", "title": "The Sacred Heart of Jesus (2026)"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}]
 ---
 
 By Fr. Conor Donnelly

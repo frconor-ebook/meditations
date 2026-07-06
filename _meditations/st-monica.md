@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Monica"
 description: "\"Soon afterward he went into a city called Naim, and his disciples and a great crowd went with him. As he drew near to the gate of the city, behold, a man..."
+reading_time: 18
+tags: ["Saints & Feast Days"]
+prev_slug: st-matthias
+prev_title: "St. Matthias"
+next_slug: st-nicholas-of-bari
+next_title: "St. Nicholas of Bari"
+related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
 ---
 
 By Fr. Conor Donnelly

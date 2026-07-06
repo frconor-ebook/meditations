@@ -2,6 +2,12 @@
 layout: homily
 title: "Enlarging the Heart"
 description: "\"But when the Pharisees heard that he had silenced the Sadducees, they got together, and to put him to the test, one of them put a further question..."
+reading_time: 19
+prev_slug: emmaus
+prev_title: "Emmaus"
+next_slug: eternal-happiness
+next_title: "Eternal Happiness"
+related: [{"slug": "clean-of-heart", "title": "Clean of Heart"}, {"slug": "heart-in-the-family", "title": "Heart in the Family"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}]
 ---
 
 By Fr. Conor Donnelly

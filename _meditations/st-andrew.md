@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Andrew"
 description: "\"As he was walking along by the Lake of Galilee, he saw Simon and Simon\\'s brother Andrew casting a net in the lake, for they were fishermen. And Jesus..."
+reading_time: 18
+tags: ["Saints & Feast Days"]
+prev_slug: spiritual-receptivity
+prev_title: "Spiritual Receptivity"
+next_slug: st-augustine
+next_title: "St. Augustine"
+related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,11 @@
 layout: homily
 title: "Chalice, Possumus, We Can"
 description: "\"Then the mother of Zebedee\\'s sons came with her sons to make a request of him, and bowed low, and he said to her, 'What is it you want?' She said to..."
+reading_time: 16
+prev_slug: by-their-fruits-you-will-know-them
+prev_title: "By Their Fruits, You Will Know Them"
+next_slug: charity
+next_title: "Charity"
 ---
 
 By Fr. Conor Donnelly

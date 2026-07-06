@@ -2,6 +2,13 @@
 layout: homily
 title: "The Birth of St. John the Baptist"
 description: "\"Now the time came for Elizabeth to be delivered, and she gave birth to a son. And her neighbors and kinsfolk heard that the Lord had shown great mercy to..."
+reading_time: 16
+tags: ["Saints & Feast Days"]
+prev_slug: the-bent-over-woman
+prev_title: "The Bent Over Woman"
+next_slug: the-birthday-of-st-josemaria-escriva
+next_title: "The Birthday of St. Josemar\u00eda Escriv\u00e1"
+related: [{"slug": "st-john-the-baptist", "title": "St. John the Baptist"}, {"slug": "the-martyrdom-of-st-john-the-baptist", "title": "The Martyrdom of St. John the Baptist"}, {"slug": "the-passion-of-st-john-the-baptist", "title": "The Passion of St. John the Baptist"}]
 ---
 
 By Fr. Conor Donnelly

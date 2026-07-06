@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Lady of Ransom"
 description: "\"And Mary said, 'My soul proclaims the greatness of the Lord, and my spirit rejoices in God my Savior, because he has looked upon the humility of his..."
+reading_time: 20
+tags: ["Our Lady"]
+prev_slug: our-lady-of-pilar
+prev_title: "Our Lady of Pilar"
+next_slug: our-lady-of-ransom-2026
+next_title: "Our Lady of Ransom (2026)"
+related: [{"slug": "our-lady-of-ransom-2026", "title": "Our Lady of Ransom (2026)"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
 ---
 
 By Fr. Conor Donnelly

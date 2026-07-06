@@ -2,6 +2,11 @@
 layout: homily
 title: "The Seat of Honor"
 description: "Every day provides a wonderful opportunity to grow in our love for Our Lady. Many Christians all over the world have the custom of honoring Our Lady on..."
+reading_time: 17
+prev_slug: the-sanctification-of-low-moments
+prev_title: "The Sanctification of Low Moments"
+next_slug: the-second-sunday-of-st-joseph-2026
+next_title: "The Second Sunday of St. Joseph (2026)"
 ---
 
 

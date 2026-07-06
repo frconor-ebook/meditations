@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Matthew"
 description: "\"As Jesus was walking on from there, he saw a man named Matthew sitting at the tax office. He said to him, 'Follow me.' And he got up and followed him\"..."
+reading_time: 21
+tags: ["Saints & Feast Days"]
+prev_slug: st-mary-magdalene-2026
+prev_title: "St. Mary Magdalene (2026)"
+next_slug: st-matthias
+next_title: "St. Matthias"
+related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
 ---
 
 By Fr. Conor Donnelly

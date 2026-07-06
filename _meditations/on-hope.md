@@ -2,6 +2,13 @@
 layout: homily
 title: "On Hope"
 description: "A number of years ago in Asia, a lady came to me. She was working in a bank. She was involved in trading, derivatives, investments, that type of thing. A..."
+reading_time: 20
+tags: ["Virtues & Struggle"]
+prev_slug: on-grace-supernatural-life-and-confession
+prev_title: "On Grace, Supernatural Life, and Confession"
+next_slug: on-our-way-to-the-house-of-our-father
+next_title: "On Our Way to The House of Our Father"
+related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "the-eucharistfaith-and-hope", "title": "The Eucharist\u2013Faith and Hope"}]
 ---
 
 By Fr. Conor Donnelly

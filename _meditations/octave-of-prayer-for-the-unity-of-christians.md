@@ -2,6 +2,13 @@
 layout: homily
 title: "Octave of Prayer for the Unity of Christians"
 description: "\"With one heart all these join constantly in prayer, together with some women, including Mary the Mother of Jesus, and with his brothers\" (Acts 1:14). We..."
+reading_time: 22
+tags: ["Prayer & Interior Life", "Church & Priesthood"]
+prev_slug: obedience-in-bethlehem
+prev_title: "Obedience in Bethlehem"
+next_slug: on-apostolate
+next_title: "On Apostolate"
+related: [{"slug": "peter-and-prayer", "title": "Peter and Prayer"}, {"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "personal-prayer", "title": "Personal Prayer"}]
 ---
 
 By Fr. Conor Donnelly

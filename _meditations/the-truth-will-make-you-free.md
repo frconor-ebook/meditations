@@ -2,6 +2,12 @@
 layout: homily
 title: "The Truth Will Make You Free"
 description: "\"The Jews gathered around him and said to him, 'How long will you keep us in suspense? If you are the Christ, tell us plainly'\" (John 10:24). The enemies..."
+reading_time: 19
+prev_slug: the-transfiguration
+prev_title: "The Transfiguration"
+next_slug: the-unmerciful-servant
+next_title: "The Unmerciful Servant"
+related: [{"slug": "afterwards-you-will-understand", "title": "Afterwards You Will Understand"}, {"slug": "by-their-fruits-you-will-know-them", "title": "By Their Fruits, You Will Know Them"}, {"slug": "much-will-be-demanded-responsibility", "title": "Much Will Be Demanded: Responsibility"}]
 ---
 
 By Fr. Conor Donnelly

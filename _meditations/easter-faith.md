@@ -2,6 +2,13 @@
 layout: homily
 title: "Easter Faith"
 description: "\"When it was late that same day, in the first of the week, though the doors where the disciples gathered had been closed for fear of the Jews, Jesus came..."
+reading_time: 22
+tags: ["Lent, Holy Week & Easter", "Virtues & Struggle"]
+prev_slug: doctrinal-formation
+prev_title: "Doctrinal Formation"
+next_slug: easter-joy
+next_title: "Easter Joy"
+related: [{"slug": "easter-joy", "title": "Easter Joy"}, {"slug": "easter-sunday", "title": "Easter Sunday"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}]
 ---
 
 By Fr. Conor Donnelly

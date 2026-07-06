@@ -2,6 +2,11 @@
 layout: homily
 title: "Serving One Master"
 description: "We're told in St. Luke, \"No servant can serve two masters; for either he will hate the one and love the other, or he will be devoted to the one and..."
+reading_time: 16
+prev_slug: self-emptying-and-st-joseph
+prev_title: "Self-emptying and St. Joseph"
+next_slug: shepherds-and-wise-men
+next_title: "Shepherds and Wise Men"
 ---
 
 By Fr. Conor Donnelly

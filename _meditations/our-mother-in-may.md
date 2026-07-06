@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Mother in May"
 description: "\"So they hurried away, and they found Mary and Joseph, and the babe lying in the manger. When they saw the child, they repeated what had been told about..."
+reading_time: 24
+tags: ["Our Lady"]
+prev_slug: our-ladys-fidelity
+prev_title: "Our Lady\u2019s Fidelity"
+next_slug: our-sins-our-confession
+next_title: "Our Sins, Our Confession"
+related: [{"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}, {"slug": "mary-mother-of-god", "title": "Mary, Mother of God"}, {"slug": "mary-mother-of-god-2nd-ed", "title": "Mary, Mother of God (2nd Ed.)"}]
 ---
 
 By Fr. Conor Donnelly

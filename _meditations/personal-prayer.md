@@ -2,6 +2,13 @@
 layout: homily
 title: "Personal Prayer"
 description: "\"'How can you sleep?' he asked. 'Rise up and pray, so that you may not enter into temptation'\" (Luke 22:46). There are many passages in the Gospel..."
+reading_time: 15
+tags: ["Prayer & Interior Life"]
+prev_slug: perseverance
+prev_title: "Perseverance"
+next_slug: peter-and-prayer
+next_title: "Peter and Prayer"
+related: [{"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}, {"slug": "peter-and-prayer", "title": "Peter and Prayer"}]
 ---
 
 By Fr. Conor Donnelly

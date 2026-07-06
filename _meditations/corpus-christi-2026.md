@@ -2,6 +2,13 @@
 layout: homily
 title: "Corpus Christi (2026)"
 description: "Today's Solemnity goes back to the thirteenth century. It was first established in the Diocese of Li\u00e9ge in Belgium by Pope Urban IV. He had been the..."
+reading_time: 18
+tags: ["Eucharist & the Mass"]
+prev_slug: conversion-of-st-paul-2027-edition
+prev_title: "Conversion of St. Paul (2027 Edition)"
+next_slug: corpus-christi-the-body-and-blood-of-our-lord
+next_title: "Corpus Christi (The Body and Blood of Our Lord)"
+related: [{"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}, {"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "holy-communion-jesus-is-mine", "title": "Holy Communion: Jesus Is Mine"}]
 ---
 
 

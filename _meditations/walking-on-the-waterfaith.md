@@ -2,6 +2,13 @@
 layout: homily
 title: "Walking on the Water\u2013\u2013Faith"
 description: "\"Immediately afterwards, he made his disciples get into the boat and cross the sea ahead of him, while he dismissed the crowd. When he had dismissed the..."
+reading_time: 22
+tags: ["Virtues & Struggle", "Gospel Scenes & Miracles"]
+prev_slug: waiting-for-the-lord
+prev_title: "Waiting for The Lord"
+next_slug: watchfulness
+next_title: "Watchfulness"
+related: [{"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "growing-in-faith", "title": "Growing in Faith"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}]
 ---
 
 *By Fr. Conor Donnelly*

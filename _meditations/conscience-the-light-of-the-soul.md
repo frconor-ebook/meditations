@@ -2,6 +2,12 @@
 layout: homily
 title: "Conscience, The Light of the Soul"
 description: "We\\'re told in St. Luke, \"Your eye is the lamp of your body\\...therefore, be careful lest the light in you be darkness\" (Luke 11:34-35). \"He who follows..."
+reading_time: 18
+prev_slug: conjugal-love
+prev_title: "Conjugal Love"
+next_slug: contemplative-it-is-good-that-we-are-here
+next_title: "Contemplative: It Is Good That We Are Here"
+related: [{"slug": "christ-the-light", "title": "Christ the Light"}, {"slug": "examination-of-conscience", "title": "Examination of Conscience"}, {"slug": "purity-of-soul", "title": "Purity of Soul"}]
 ---
 
 By Fr. Conor Donnelly

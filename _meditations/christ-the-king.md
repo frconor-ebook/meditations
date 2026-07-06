@@ -2,6 +2,12 @@
 layout: homily
 title: "Christ the King"
 description: "\"When the Son of man comes in his glory, escorted by all the angels, then he will take his seat on his throne of glory. All nations will be assembled..."
+reading_time: 18
+prev_slug: christ-is-passing-by
+prev_title: "Christ Is Passing By"
+next_slug: christ-the-light
+next_title: "Christ the Light"
+related: [{"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}, {"slug": "christ-the-light", "title": "Christ the Light"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}]
 ---
 
 By Fr. Conor Donnelly

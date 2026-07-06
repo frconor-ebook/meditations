@@ -2,6 +2,11 @@
 layout: homily
 title: "Sin of Pride\u2014The Elder Son"
 description: "\"Now the serpent was more subtle than any other wild creature that the Lord God had made. He said to the woman, 'Did God say, You shall not eat of any..."
+reading_time: 20
+prev_slug: simeon-and-anna
+prev_title: "Simeon and Anna"
+next_slug: sincerity-love-for-truth
+next_title: "Sincerity, Love for Truth"
 ---
 
 By Fr. Conor Donnelly

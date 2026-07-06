@@ -2,6 +2,13 @@
 layout: homily
 title: "The Light of the World"
 description: "There are three great roles played by the Eternal Galilean, each of which is a revelation of His Divine Character: He is a Prophet or Teacher, a King or..."
+reading_time: 17
+tags: ["Apostolate"]
+prev_slug: the-light-streaming-from-bethlehem
+prev_title: "The Light Streaming from Bethlehem"
+next_slug: the-lords-day
+next_title: "The Lord\u2019s Day"
+related: [{"slug": "passionately-loving-the-world", "title": "Passionately Loving the World"}, {"slug": "raise-the-world", "title": "Raise the World"}, {"slug": "salt-and-light", "title": "Salt and Light"}]
 ---
 
 

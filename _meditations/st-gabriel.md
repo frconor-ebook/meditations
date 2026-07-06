@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Gabriel"
 description: "God chose Saint Gabriel to announce to Our Lady the mystery of the incarnation of the Son of God. Among all the angels, says Saint Bernard, only Gabriel..."
+reading_time: 16
+tags: ["Saints & Feast Days"]
+prev_slug: st-francis-of-assisi
+prev_title: "St. Francis of Assisi"
+next_slug: st-james
+next_title: "St. James"
+related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
 ---
 
 

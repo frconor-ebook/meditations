@@ -2,6 +2,11 @@
 layout: homily
 title: "The Grandeur of Man"
 description: "\"The grandeur and misery of man are both central to the thought and enduring message of Blaise Pascal, born four centuries ago in 1623 in Clermont in..."
+reading_time: 24
+prev_slug: the-grain-of-wheat
+prev_title: "The Grain of Wheat"
+next_slug: the-grandfather
+next_title: "The Grandfather"
 ---
 
 

@@ -2,6 +2,13 @@
 layout: homily
 title: "With the Readiness of Love\u2014Vigilance"
 description: "We're told in St. Luke, \"Let your loins be girded, and your lamps burning, and be like men who are waiting for their master to come home from the marriage..."
+reading_time: 15
+tags: ["Virtues & Struggle"]
+prev_slug: where-is-your-heart
+prev_title: "Where Is Your Heart?"
+next_slug: you-are-nothing
+next_title: "You Are Nothing"
+related: [{"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}, {"slug": "love-for-chastity", "title": "Love for Chastity"}, {"slug": "self-love-the-enemy", "title": "Self-Love: The Enemy"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Divine Intimacies"
 description: "At times some people feel that Divine Love is very far away, and the love of creatures is very close and real. Yet this is not the truth; it is the love..."
+reading_time: 14
+tags: ["Prayer & Interior Life"]
+prev_slug: divine-filiation
+prev_title: "Divine Filiation"
+next_slug: divine-mercy-sunday
+next_title: "Divine Mercy Sunday"
+related: [{"slug": "divine-filiation", "title": "Divine Filiation"}, {"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}, {"slug": "maturity-and-participation-in-the-divine-nature", "title": "Maturity and Participation in the Divine Nature"}]
 ---
 
 By Fr. Conor Donnelly

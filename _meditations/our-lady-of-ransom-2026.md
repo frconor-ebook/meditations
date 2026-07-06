@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Lady of Ransom (2026)"
 description: "There's a pious tradition that holds that one night Our Lady appeared to King James I of Aragon, to St. Raymond of Pe\u00f1afort, and St. Peter Nolasco, to ask..."
+reading_time: 17
+tags: ["Our Lady"]
+prev_slug: our-lady-of-ransom
+prev_title: "Our Lady of Ransom"
+next_slug: our-lady-of-sorrows
+next_title: "Our Lady of Sorrows"
+related: [{"slug": "our-lady-of-ransom", "title": "Our Lady of Ransom"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
 ---
 
 

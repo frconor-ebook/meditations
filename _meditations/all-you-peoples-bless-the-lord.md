@@ -2,6 +2,12 @@
 layout: homily
 title: "All You Peoples, Bless the Lord"
 description: "In the Book of Daniel, we are told the Canticle of the Three Young Men, also known as the Trium puerorum. For many centuries, the Church used that hymn as..."
+reading_time: 15
+prev_slug: all-souls
+prev_title: "All Souls"
+next_slug: all-the-glory-to-god
+next_title: "All the Glory to God"
+related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}, {"slug": "good-friday-of-the-lords-passion", "title": "Good Friday of the Lord\u2019s Passion"}]
 ---
 
 

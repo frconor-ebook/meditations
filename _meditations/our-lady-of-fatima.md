@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Lady of Fatima"
 description: "\"When Jesus was speaking, a woman from the crowd called out and said to him, 'Blessed is the womb that carried you and the breasts that nourished you.'..."
+reading_time: 17
+tags: ["Our Lady"]
+prev_slug: our-lady-of-africa
+prev_title: "Our Lady of Africa"
+next_slug: our-lady-of-guadalupe
+next_title: "Our Lady of Guadalupe"
+related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-guadalupe", "title": "Our Lady of Guadalupe"}]
 ---
 
 By Fr. Conor Donnelly

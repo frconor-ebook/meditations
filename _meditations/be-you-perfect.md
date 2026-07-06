@@ -2,6 +2,11 @@
 layout: homily
 title: "Be You Perfect"
 description: "\"Be you perfect, therefore, as also your heavenly Father is perfect\" (Matt. 5:48). By virtue of Baptism, the Christian carries supernatural, sanctifying..."
+reading_time: 16
+prev_slug: bartimaeus
+prev_title: "Bartimaeus"
+next_slug: begin-again-fight-the-fight
+next_title: "Begin Again, Fight the Fight"
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,12 @@
 layout: homily
 title: "Children of God"
 description: "In the Gospel of St. John, we're told that, \"But to all who received him, who believed in his name, he gave power to become children of God, who were..."
+reading_time: 20
+prev_slug: cheerfulness
+prev_title: "Cheerfulness"
+next_slug: childrena-gift-of-god
+next_title: "Children\u2014A Gift of God"
+related: [{"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}]
 ---
 
 By Fr. Conor Donnelly

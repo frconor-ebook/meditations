@@ -2,6 +2,13 @@
 layout: homily
 title: "Children\u2014A Gift of God"
 description: "This meditation is about children, a gift of God. There's a phrase in Scripture that says, in Latin, Si scires donum Dei--\"If you knew the gift of God\"..."
+reading_time: 20
+tags: ["Family & Marriage"]
+prev_slug: children-of-god
+prev_title: "Children of God"
+next_slug: christ-is-passing-by
+next_title: "Christ Is Passing By"
+related: [{"slug": "children-of-god", "title": "Children of God"}, {"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}, {"slug": "the-gift-of-fear-of-the-lord", "title": "The Gift of Fear of the Lord"}]
 ---
 
 By Fr. Conor Donnelly

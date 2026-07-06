@@ -2,6 +2,13 @@
 layout: homily
 title: "Love For Priests"
 description: "\"He chose us in him before the foundation of the world, that we should be holy and blameless before him\" (Eph. 1:4). St. Paul says this to the Ephesians..."
+reading_time: 17
+tags: ["Church & Priesthood"]
+prev_slug: looking-up-to-heaven
+prev_title: "Looking Up to Heaven"
+next_slug: love-for-chastity
+next_title: "Love for Chastity"
+related: [{"slug": "love-for-peter", "title": "Love for Peter"}, {"slug": "love-for-the-church-st-pius-x", "title": "Love for the Church (St. Pius X)"}, {"slug": "the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature", "title": "The Anniversary of the Ordination of the First Three Priests of the Prelature"}]
 ---
 
 By Fr. Conor Donnelly

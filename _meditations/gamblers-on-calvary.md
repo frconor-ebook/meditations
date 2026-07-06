@@ -2,6 +2,13 @@
 layout: homily
 title: "Gamblers On Calvary"
 description: "The most tragic words ever written of Our Lord are those which St. John puts down at the beginning of his Gospel, when he says: \"He came unto his own, and..."
+reading_time: 14
+tags: ["Lent, Holy Week & Easter", "The Cross & Suffering"]
+prev_slug: fruits-of-the-holy-spirit
+prev_title: "Fruits of the Holy Spirit"
+next_slug: generosity
+next_title: "Generosity"
+related: [{"slug": "from-tabor-to-calvary", "title": "From Tabor to Calvary"}, {"slug": "joy-in-the-cross-lent", "title": "Joy in the Cross (Lent)"}, {"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}]
 ---
 
 

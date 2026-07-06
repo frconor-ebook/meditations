@@ -2,6 +2,13 @@
 layout: homily
 title: "The Beauty of the Manger"
 description: "\"And in that region, there were shepherds out in the field, keeping watch over their flock by night. And an angel of the Lord appeared to them, and the..."
+reading_time: 16
+tags: ["Advent & Christmas"]
+prev_slug: the-beatitudes
+prev_title: "The Beatitudes"
+next_slug: the-bent-over-woman
+next_title: "The Bent Over Woman"
+related: [{"slug": "christmas", "title": "Christmas"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,12 @@
 layout: homily
 title: "Friendship with Jesus"
 description: "\"At daybreak he appeared in the temple again, and as all the people came to him, he sat down and began to teach them\" (John 8:2). There are many occasions..."
+reading_time: 21
+prev_slug: friendship-and-confidence
+prev_title: "Friendship and Confidence"
+next_slug: from-tabor-to-calvary
+next_title: "From Tabor to Calvary"
+related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "finding-jesus", "title": "Finding Jesus"}, {"slug": "friendship-and-confidence", "title": "Friendship and Confidence"}]
 ---
 
 By Fr. Conor Donnelly

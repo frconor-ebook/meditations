@@ -2,6 +2,11 @@
 layout: homily
 title: "The Speck In My Brother's Eye"
 description: "We're told in St. Matthew, \"Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye? How can you say to..."
+reading_time: 16
+prev_slug: the-son-of-the-carpenter
+prev_title: "The Son of the Carpenter"
+next_slug: the-storm-on-the-lake
+next_title: "The Storm on the Lake"
 ---
 
 By Fr. Conor Donnelly

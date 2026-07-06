@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Joseph and the Setbacks of Life"
 description: "\"And after they were departed, behold, an angel of the Lord appeared in sleep to Joseph, saying, 'Arise, and take the child and his mother, and fly into..."
+reading_time: 24
+tags: ["St. Joseph", "Saints & Feast Days", "The Cross & Suffering"]
+prev_slug: st-joseph-and-the-treasure-of-silence
+prev_title: "St. Joseph and The Treasure of Silence"
+next_slug: st-joseph-in-the-incarnation-pope-francis
+next_title: "St. Joseph in the Incarnation (Pope Francis)"
+related: [{"slug": "st-josephs-holiness-in-ordinary-life", "title": "St. Joseph\u2019s Holiness in Ordinary Life"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}]
 ---
 
 By Fr. Conor Donnelly

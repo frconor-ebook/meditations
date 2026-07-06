@@ -2,6 +2,13 @@
 layout: homily
 title: "Sparrows"
 description: "We are told in the Gospel of St. Matthew, \"Can you not buy two sparrows for a penny? And yet not one falls to the ground without your Father knowing. Why..."
+reading_time: 18
+tags: ["Parables"]
+prev_slug: souls-of-prayer
+prev_title: "Souls of Prayer"
+next_slug: spirit-and-life
+next_title: "Spirit and Life"
+related: [{"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}, {"slug": "salt-and-light", "title": "Salt and Light"}]
 ---
 
 By Fr. Conor Donnelly

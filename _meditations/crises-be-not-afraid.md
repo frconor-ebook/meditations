@@ -2,6 +2,13 @@
 layout: homily
 title: "Crises: Be Not Afraid"
 description: "On one occasion, Our Lord said to the disciples, \"Take courage, it is I. Do not be afraid\" (Matt. 14:27). And to Peter, after rescuing him, He said, \"Man..."
+reading_time: 19
+tags: ["The Cross & Suffering"]
+prev_slug: correspondence-to-grace
+prev_title: "Correspondence to Grace"
+next_slug: cross-rejection
+next_title: "Cross Rejection"
+related: [{"slug": "do-not-be-afraid", "title": "Do Not Be Afraid"}, {"slug": "cross-rejection", "title": "Cross Rejection"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}]
 ---
 
 By Fr. Conor Donnelly

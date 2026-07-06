@@ -2,6 +2,13 @@
 layout: homily
 title: "The Real Presence"
 description: "\"He who eats my flesh and drinks my blood abides in me, and I in him\" (John 6:56). The Real Presence of Our Lord in the Sacred Host is a Divine Mystery..."
+reading_time: 18
+tags: ["Eucharist & the Mass"]
+prev_slug: the-raising-of-lazarus
+prev_title: "The Raising of Lazarus"
+next_slug: the-resurrection
+next_title: "The Resurrection"
+related: [{"slug": "presence-of-god", "title": "Presence of God"}, {"slug": "the-only-real-evil", "title": "The Only Real Evil"}, {"slug": "the-only-real-evil-2nd-ed", "title": "The Only Real Evil (2nd Ed.)"}]
 ---
 
 By Fr. Conor Donnelly

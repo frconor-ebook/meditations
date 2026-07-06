@@ -2,6 +2,13 @@
 layout: homily
 title: "The Good Shepherd (2nd Ed.)"
 description: "\"I am the good shepherd. The good shepherd lays down his life for his sheep. I know my own and my own know me, just as the Father knows me and I know the..."
+reading_time: 24
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: the-good-shepherd
+prev_title: "The Good Shepherd"
+next_slug: the-good-thief
+next_title: "The Good Thief"
+related: [{"slug": "the-good-shepherd", "title": "The Good Shepherd"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}]
 ---
 
 

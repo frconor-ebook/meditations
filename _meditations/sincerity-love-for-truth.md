@@ -2,6 +2,13 @@
 layout: homily
 title: "Sincerity, Love for Truth"
 description: "We are told in the Gospel of today, \"Behold, a true Israelite, in whom there is no guile\" (John 1:47). It's not often that Our Lord compliments any of the..."
+reading_time: 20
+tags: ["Virtues & Struggle"]
+prev_slug: sin-of-pridethe-elder-son
+prev_title: "Sin of Pride\u2014The Elder Son"
+next_slug: solemnity-of-all-saints-2026
+next_title: "Solemnity of All Saints (2026)"
+related: [{"slug": "love-for-chastity", "title": "Love for Chastity"}, {"slug": "self-love-the-enemy", "title": "Self-Love: The Enemy"}, {"slug": "with-the-readiness-of-lovevigilance", "title": "With the Readiness of Love\u2014Vigilance"}]
 ---
 
 By Fr. Conor Donnelly

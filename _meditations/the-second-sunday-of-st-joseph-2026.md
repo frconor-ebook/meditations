@@ -2,6 +2,13 @@
 layout: homily
 title: "The Second Sunday of St. Joseph (2026)"
 description: "On this second Sunday dedicated to St. Joseph, we can contemplate the virtues which he practiced in his ordinary life of work. While describing the..."
+reading_time: 17
+tags: ["St. Joseph", "Saints & Feast Days"]
+prev_slug: the-seat-of-honor
+prev_title: "The Seat of Honor"
+next_slug: the-seven-sorrows-of-our-lady
+next_title: "The Seven Sorrows of Our Lady"
+related: [{"slug": "the-fifth-sunday-of-st-joseph-2026", "title": "The Fifth Sunday of St. Joseph (2026)"}, {"slug": "the-first-sunday-of-st-joseph-2026", "title": "The First Sunday of St. Joseph (2026)"}, {"slug": "the-fourth-sunday-of-st-joseph-2026", "title": "The Fourth Sunday of St. Joseph (2026)"}]
 ---
 
 

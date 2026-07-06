@@ -2,6 +2,13 @@
 layout: homily
 title: "The Woman Caught in Adultery"
 description: "\"And Jesus went out to the Mount of Olives. At daybreak he appeared in the Temple again; and as all the people came to him, he sat down and began to teach..."
+reading_time: 17
+tags: ["Confession & Mercy"]
+prev_slug: the-wisdom-of-solomon
+prev_title: "The Wisdom of Solomon"
+next_slug: the-woman-with-the-issue-of-blood
+next_title: "The Woman with the Issue of Blood"
+related: [{"slug": "our-lady-woman-of-the-eucharist", "title": "Our Lady, Woman of the Eucharist"}, {"slug": "the-bent-over-woman", "title": "The Bent Over Woman"}, {"slug": "the-syrophoenician-woman", "title": "The Syrophoenician Woman"}]
 ---
 
 By Fr. Conor Donnelly

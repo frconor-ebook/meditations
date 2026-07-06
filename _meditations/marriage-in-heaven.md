@@ -2,6 +2,13 @@
 layout: homily
 title: "Marriage in Heaven"
 description: "\"Then some Sadducees, who deny that there is a resurrection, came to him, and they put this question to him. 'Master, Moses prescribed for us that if a..."
+reading_time: 17
+tags: ["Family & Marriage", "Death & Eternal Life"]
+prev_slug: marriage-and-indissolubility
+prev_title: "Marriage and Indissolubility"
+next_slug: martha-martha
+next_title: "Martha, Martha"
+related: [{"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}, {"slug": "hell-purgatory-heaven", "title": "Hell, Purgatory, Heaven"}, {"slug": "looking-up-to-heaven", "title": "Looking Up to Heaven"}]
 ---
 
 By Fr. Conor Donnelly

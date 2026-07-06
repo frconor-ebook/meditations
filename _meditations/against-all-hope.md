@@ -2,6 +2,13 @@
 layout: homily
 title: "Against All Hope"
 description: "\"Who in hope believed against hope, to the end that he might become the father of many nations, according to that which had been spoken, 'So shall your..."
+reading_time: 18
+tags: ["Virtues & Struggle"]
+prev_slug: afterwards-you-will-understand
+prev_title: "Afterwards You Will Understand"
+next_slug: aim-high
+next_title: "Aim High"
+related: [{"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "on-hope", "title": "On Hope"}, {"slug": "the-eucharistfaith-and-hope", "title": "The Eucharist\u2013Faith and Hope"}]
 ---
 
 By Fr. Conor Donnelly

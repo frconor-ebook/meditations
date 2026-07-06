@@ -2,6 +2,12 @@
 layout: homily
 title: "Spiritual Receptivity"
 description: "\"The most fundamental question of Christian life is this: How should we receive the grace of the Holy Spirit? How can we keep ourselves ever open to his..."
+reading_time: 16
+prev_slug: spiritual-direction
+prev_title: "Spiritual Direction"
+next_slug: st-andrew
+next_title: "St. Andrew"
+related: [{"slug": "spiritual-childhood", "title": "Spiritual Childhood"}, {"slug": "spiritual-direction", "title": "Spiritual Direction"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,12 @@
 layout: homily
 title: "The Beatitudes"
 description: "\"Seeing the crowds, he went up onto the mountains. And when he was seated, his disciples came to him. Then he began to speak. This is what he taught them..."
+reading_time: 22
+prev_slug: the-battle
+prev_title: "The Battle"
+next_slug: the-beauty-of-the-manger
+next_title: "The Beauty of the Manger"
+related: [{"slug": "the-power-of-the-beatitudes", "title": "The Power of the Beatitudes"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Preparing for Retreat"
 description: "St. Josemar\u00eda in The Way says: \"May you seek Christ, may you find Christ, may you love Christ\" (Josemar\u00eda Escriv\u00e1, The Way, 382). In a certain sense, you..."
+reading_time: 23
+tags: ["Prayer & Interior Life"]
+prev_slug: prayer-of-petition
+prev_title: "Prayer of Petition"
+next_slug: preparing-for-the-jubilee-year-2025
+next_title: "Preparing for the Jubilee Year 2025"
+related: [{"slug": "preparing-for-the-jubilee-year-2025", "title": "Preparing for the Jubilee Year 2025"}, {"slug": "preparing-to-receive-jesus", "title": "Preparing to Receive Jesus"}, {"slug": "abandonment", "title": "Abandonment"}]
 ---
 
 By Fr. Conor Donnelly

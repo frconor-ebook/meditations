@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Lady of Lourdes"
 description: "We\\'re told in the story of Cana of Galilee that \"the Mother of Jesus was there\" (John 2:1). Today is the feast of Our Lady of Lourdes. John Paul II..."
+reading_time: 24
+tags: ["Our Lady"]
+prev_slug: our-lady-of-loreto
+prev_title: "Our Lady of Loreto"
+next_slug: our-lady-of-mt-carmel
+next_title: "Our Lady of Mt. Carmel"
+related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
 ---
 
 By Fr. Conor Donnelly

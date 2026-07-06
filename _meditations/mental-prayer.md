@@ -2,6 +2,13 @@
 layout: homily
 title: "Mental Prayer"
 description: "There was a mother once who used to go to Mass each day, and she decided to bring her five-year-old daughter with her. The daughter was there all..."
+reading_time: 20
+tags: ["Prayer & Interior Life"]
+prev_slug: meekness
+prev_title: "Meekness"
+next_slug: midterm-of-the-year-of-st-joseph
+next_title: "Midterm of the Year of St. Joseph"
+related: [{"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}, {"slug": "personal-prayer", "title": "Personal Prayer"}, {"slug": "peter-and-prayer", "title": "Peter and Prayer"}]
 ---
 
 By Fr. Conor Donnelly

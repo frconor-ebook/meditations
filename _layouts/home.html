@@ -5,11 +5,33 @@ layout: default
 {{ content }}
 
 <h2>Contents</h2>
-<ul>
-  {% assign sorted_meditations = site.meditations | sort: "title" %}
-  {% for meditation in sorted_meditations %}
-    <li>
-      <a href="{{ meditation.url | relative_url }}">{{ meditation.title }}</a>
-    </li>
-  {% endfor %}
+
+{% assign sorted_meditations = site.meditations | sort: "title" %}
+{% assign alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ" %}
+
+{% comment %} Which letters actually occur (non A–Z grouped under #) {% endcomment %}
+{% capture present %}{% for meditation in sorted_meditations %}{% assign letter = meditation.title | slice: 0 | upcase %}{% unless alphabet contains letter %}{% assign letter = "#" %}{% endunless %}{{ letter }}{% endfor %}{% endcapture %}
+
+<nav class="az-nav" aria-label="Jump to letter">
+    {% assign letters = "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,#" | split: "," %}
+    {% for letter in letters %}
+    {% if present contains letter %}
+    {% if letter == "#" %}<a href="#letter-other">#</a>{% else %}<a href="#letter-{{ letter }}">{{ letter }}</a>{% endif %}
+    {% else %}<span class="az-empty">{{ letter }}</span>{% endif %}
+    {% endfor %}
+    <a class="az-topics" href="{{ '/topics/' | relative_url }}">Browse by topic →</a>
+</nav>
+
+{% assign prev_letter = "" %}
+{% for meditation in sorted_meditations %}
+{% assign letter = meditation.title | slice: 0 | upcase %}
+{% unless alphabet contains letter %}{% assign letter = "#" %}{% endunless %}
+{% if letter != prev_letter %}
+{% unless forloop.first %}</ul>{% endunless %}
+{% if letter == "#" %}<h3 class="letter-heading" id="letter-other">#</h3>{% else %}<h3 class="letter-heading" id="letter-{{ letter }}">{{ letter }}</h3>{% endif %}
+<ul class="meditation-list">
+{% endif %}
+    <li><a href="{{ meditation.url | relative_url }}">{{ meditation.title }}</a></li>
+{% assign prev_letter = letter %}
+{% endfor %}
 </ul>

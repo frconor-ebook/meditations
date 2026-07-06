@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Luke (2026)"
 description: "St. Luke was a doctor who converted to the faith in the year 40, and later accompanied St. Paul in his second apostolic journey. He was also at the side..."
+reading_time: 15
+tags: ["Saints & Feast Days"]
+prev_slug: st-luke
+prev_title: "St. Luke"
+next_slug: st-mark
+next_title: "St. Mark"
+related: [{"slug": "st-luke", "title": "St. Luke"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
 ---
 
 

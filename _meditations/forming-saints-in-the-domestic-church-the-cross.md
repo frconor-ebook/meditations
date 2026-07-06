@@ -2,6 +2,13 @@
 layout: homily
 title: "Forming Saints in the Domestic Church (The Cross)"
 description: "\\\"And when they came to the place called the Skull, they crucified him there, and the robbers, one on his right hand and the other on his left. And Jesus..."
+reading_time: 19
+tags: ["The Cross & Suffering", "Family & Marriage", "Church & Priesthood"]
+prev_slug: forming-saints-in-the-domestic-church-easter
+prev_title: "Forming Saints in the Domestic Church (Easter)"
+next_slug: fraternal-correction
+next_title: "Fraternal Correction"
+related: [{"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}, {"slug": "the-priestly-society-of-the-holy-cross", "title": "The Priestly Society of the Holy Cross"}]
 ---
 
 By Fr. Conor Donnelly

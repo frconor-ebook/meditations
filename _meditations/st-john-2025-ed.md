@@ -2,6 +2,13 @@
 layout: homily
 title: "St. John (2025 Ed.)"
 description: "St. John the Apostle was a native of Bethsaida, a Galilean town on the northern shore of the Sea of Tiberias. His parents were Zebedee and Salome, and his..."
+reading_time: 19
+tags: ["Saints & Feast Days"]
+prev_slug: st-john
+prev_title: "St. John"
+next_slug: st-john-henry-newman-on-friendship
+next_title: "St. John Henry Newman on Friendship"
+related: [{"slug": "dedication-of-the-basilica-of-st-john-lateran-2026", "title": "Dedication of the Basilica of St. John Lateran (2026)"}, {"slug": "st-john", "title": "St. John"}, {"slug": "st-john-henry-newman-on-friendship", "title": "St. John Henry Newman on Friendship"}]
 ---
 
 By Fr. Conor Donnelly

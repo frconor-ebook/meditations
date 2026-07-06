@@ -2,6 +2,12 @@
 layout: homily
 title: "Apart From Me You Can Do Nothing"
 description: "We're told in Scripture, \"I can do all things in him who comforts me\" (Phil. 4:13). Our Lord tells us in various ways how apart from Him we cannot do..."
+reading_time: 22
+prev_slug: anchored-in-hope
+prev_title: "Anchored in Hope"
+next_slug: ash-wednesday
+next_title: "Ash Wednesday"
+related: [{"slug": "from-tabor-to-calvary", "title": "From Tabor to Calvary"}, {"slug": "the-light-streaming-from-bethlehem", "title": "The Light Streaming from Bethlehem"}, {"slug": "you-are-nothing", "title": "You Are Nothing"}]
 ---
 
 By Fr. Conor Donnelly

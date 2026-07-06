@@ -2,6 +2,13 @@
 layout: homily
 title: "St. James (2026)"
 description: "Saint James was from Bethsaida. He was the son of Zebedee and the brother of John. He is one of the three disciples to witness the Transfiguration and the..."
+reading_time: 18
+tags: ["Saints & Feast Days"]
+prev_slug: st-james
+prev_title: "St. James"
+next_slug: st-joachim-and-st-anne
+next_title: "St. Joachim and St. Anne"
+related: [{"slug": "st-james", "title": "St. James"}, {"slug": "st-philip-and-st-james", "title": "St. Philip and St. James"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
 ---
 
 

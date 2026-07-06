@@ -2,6 +2,13 @@
 layout: homily
 title: "Pentecost Sunday"
 description: "There was a Dutch missionary priest in Singapore who used to say that he liked to call Pentecost the Feast of the 'Ahh!' of the Apostles. When a teacher..."
+reading_time: 19
+tags: ["Holy Spirit"]
+prev_slug: patience-in-adversity
+prev_title: "Patience in Adversity"
+next_slug: perseverance
+next_title: "Perseverance"
+related: [{"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}, {"slug": "easter-sunday", "title": "Easter Sunday"}, {"slug": "palm-sunday", "title": "Palm Sunday"}]
 ---
 
 (*Proofread*)

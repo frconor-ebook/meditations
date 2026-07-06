@@ -2,6 +2,13 @@
 layout: homily
 title: "The Cure of the Possessed Boy"
 description: "\"As they were rejoining the disciples, they saw a large crowd around them, and some scribes arguing with them. At once when they saw him, the whole crowd..."
+reading_time: 18
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: the-crucifixion
+prev_title: "The Crucifixion"
+next_slug: the-curing-of-the-man-with-an-unclean-spirit
+next_title: "The Curing of the Man with an Unclean Spirit"
+related: [{"slug": "the-curing-of-the-possessed-man-gerasenes", "title": "The Curing of the Possessed Man (Gerasenes)"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}]
 ---
 
 By Fr. Conor Donnelly

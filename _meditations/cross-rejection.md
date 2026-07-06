@@ -2,6 +2,13 @@
 layout: homily
 title: "Cross Rejection"
 description: "\"Jesus said to them, 'Have you never read in the Scriptures: The stone which the builders rejected has become the cornerstone; this is the Lord\\'s doing..."
+reading_time: 23
+tags: ["The Cross & Suffering"]
+prev_slug: crises-be-not-afraid
+prev_title: "Crises: Be Not Afraid"
+next_slug: daily-mass
+next_title: "Daily Mass"
+related: [{"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}, {"slug": "joy-in-the-cross-lent", "title": "Joy in the Cross (Lent)"}, {"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}]
 ---
 
 By Fr. Conor Donnelly

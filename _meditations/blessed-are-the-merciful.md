@@ -2,6 +2,13 @@
 layout: homily
 title: "Blessed Are The Merciful"
 description: "\"Be merciful, therefore, even as your Father is merciful\" (Luke 6:36). Our Lord in the Gospel talks a lot about mercy. Our God is the God of mercy. Pope..."
+reading_time: 21
+tags: ["Confession & Mercy"]
+prev_slug: beginning-again
+prev_title: "Beginning Again"
+next_slug: blessed-are-the-peacemakers
+next_title: "Blessed Are the Peacemakers"
+related: [{"slug": "a-merciful-messiah", "title": "A Merciful Messiah"}, {"slug": "blessed-are-the-peacemakers", "title": "Blessed Are the Peacemakers"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
 ---
 
 By Fr. Conor Donnelly

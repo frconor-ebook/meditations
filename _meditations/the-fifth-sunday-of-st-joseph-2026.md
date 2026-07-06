@@ -2,6 +2,13 @@
 layout: homily
 title: "The Fifth Sunday of St. Joseph (2026)"
 description: "Having at last found a place for themselves in Bethlehem, the Holy Family received the unexpected homage of the Magi with their precious gifts for the..."
+reading_time: 17
+tags: ["St. Joseph", "Saints & Feast Days"]
+prev_slug: the-feast-of-the-holy-innocents-2025
+prev_title: "The Feast of the Holy Innocents, 2025"
+next_slug: the-first-commandment
+next_title: "The First Commandment"
+related: [{"slug": "the-first-sunday-of-st-joseph-2026", "title": "The First Sunday of St. Joseph (2026)"}, {"slug": "the-fourth-sunday-of-st-joseph-2026", "title": "The Fourth Sunday of St. Joseph (2026)"}, {"slug": "the-second-sunday-of-st-joseph-2026", "title": "The Second Sunday of St. Joseph (2026)"}]
 ---
 
 

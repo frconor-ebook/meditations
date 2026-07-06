@@ -2,6 +2,13 @@
 layout: homily
 title: "The Canonization of St. Josemar\u00eda Escriv\u00e1"
 description: "\"All who are guided by the Spirit of God,\" says St. Paul, \"are children of God. For what you received was not the spirit of slavery to bring you back into..."
+reading_time: 19
+tags: ["Saints & Feast Days", "Opus Dei"]
+prev_slug: the-bread-of-life
+prev_title: "The Bread of Life"
+next_slug: the-centurion-and-his-servant
+next_title: "The Centurion and His Servant"
+related: [{"slug": "st-josemaria-escriva-feast-june-26th", "title": "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"}, {"slug": "the-birthday-of-st-josemaria-escriva", "title": "The Birthday of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "the-anniversary-of-the-first-holy-communion-of-st-josemaria", "title": "The Anniversary of the First Holy Communion of St. Josemar\u00eda"}]
 ---
 
 By Fr. Conor Donnelly

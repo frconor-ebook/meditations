@@ -2,6 +2,13 @@
 layout: homily
 title: "The Ascension"
 description: "\"As he said this he was lifted up while they looked on, and a cloud took him out of their sight. They were still staring into the sky as he went, when..."
+reading_time: 22
+tags: ["Lent, Holy Week & Easter"]
+prev_slug: the-artisan-of-nazareth
+prev_title: "The Artisan of Nazareth"
+next_slug: the-assumption-of-our-lady
+next_title: "The Assumption of Our Lady"
+related: [{"slug": "ash-wednesday", "title": "Ash Wednesday"}, {"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "easter-joy", "title": "Easter Joy"}]
 ---
 
 By Fr. Conor Donnelly

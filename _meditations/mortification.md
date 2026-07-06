@@ -2,6 +2,13 @@
 layout: homily
 title: "Mortification"
 description: "We read in today\\'s Gospel: \"But I say to you, my friends, do not be afraid of those who kill the body and after that have nothing more that they can do..."
+reading_time: 24
+tags: ["Virtues & Struggle"]
+prev_slug: midterm-of-the-year-of-st-joseph
+prev_title: "Midterm of the Year of St. Joseph"
+next_slug: mother-of-god-and-our-mother
+next_title: "Mother of God and Our Mother"
+related: [{"slug": "the-imagination-and-interior-mortification", "title": "The Imagination and Interior Mortification"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}]
 ---
 
 By Fr. Conor Donnelly

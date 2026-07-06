@@ -2,6 +2,12 @@
 layout: homily
 title: "Afterwards You Will Understand"
 description: "\"He came to Simon Peter, who said to him, 'Lord, are you going to wash my feet?' Jesus answered, 'At the moment, you do not know what I am doing, but..."
+reading_time: 15
+prev_slug: abandonment
+prev_title: "Abandonment"
+next_slug: against-all-hope
+next_title: "Against All Hope"
+related: [{"slug": "by-their-fruits-you-will-know-them", "title": "By Their Fruits, You Will Know Them"}, {"slug": "much-will-be-demanded-responsibility", "title": "Much Will Be Demanded: Responsibility"}, {"slug": "my-words-will-not-pass-away", "title": "My Words Will Not Pass Away"}]
 ---
 
 

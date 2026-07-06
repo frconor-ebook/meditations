@@ -2,6 +2,13 @@
 layout: homily
 title: "The Magnificat"
 description: "\"And Mary said, 'My soul magnifies the Lord, and my spirit rejoices in God my Savior'\" (Luke 1:46-47). A lady in Asia once told me: When I read those..."
+reading_time: 22
+tags: ["Our Lady"]
+prev_slug: the-love-of-god
+prev_title: "The Love of God"
+next_slug: the-martyrdom-of-st-john-the-baptist
+next_title: "The Martyrdom of St. John the Baptist"
+related: [{"slug": "at-the-school-of-mary", "title": "At the School of Mary"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}, {"slug": "knowing-god-through-mary", "title": "Knowing God Through Mary"}]
 ---
 
 By Fr. Conor Donnelly

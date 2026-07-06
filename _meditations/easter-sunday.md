@@ -2,6 +2,13 @@
 layout: homily
 title: "Easter Sunday"
 description: "\"Now on the first day of the week, Mary Magdalene came early to the tomb, while it was still dark, and she saw the stone taken away from the tomb\" (John..."
+reading_time: 21
+tags: ["Lent, Holy Week & Easter"]
+prev_slug: easter-joy
+prev_title: "Easter Joy"
+next_slug: education-in-social-virtues
+next_title: "Education In Social Virtues"
+related: [{"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "easter-joy", "title": "Easter Joy"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}]
 ---
 
 By Fr. Conor Donnelly

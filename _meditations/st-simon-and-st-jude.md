@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Simon and St. Jude"
 description: "\"In these days he went out into the hills to pray; and all night he continued in prayer to God. And when it was day, he called his disciples, and chose..."
+reading_time: 17
+tags: ["Saints & Feast Days"]
+prev_slug: st-severinus-and-unity
+prev_title: "St. Severinus and Unity"
+next_slug: st-stephen
+next_title: "St. Stephen"
+related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
 ---
 
 By Fr. Conor Donnelly

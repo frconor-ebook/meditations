@@ -2,6 +2,13 @@
 layout: homily
 title: "Raise the World"
 description: "\"In the beginning, God created the heavens and the earth. The earth was without form, and void; and darkness was upon the face of the deep, and the Spirit..."
+reading_time: 22
+tags: ["Apostolate"]
+prev_slug: purity-of-the-heart
+prev_title: "Purity of the Heart"
+next_slug: reading-of-the-gospels-to-get-to-know-jesus-christ
+next_title: "Reading of the Gospels to get to know Jesus Christ"
+related: [{"slug": "passionately-loving-the-world", "title": "Passionately Loving the World"}, {"slug": "the-light-of-the-world", "title": "The Light of the World"}, {"slug": "making-a-more-just-world", "title": "Making A More Just World"}]
 ---
 
 By Fr. Conor Donnelly

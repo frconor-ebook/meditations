@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Catherine of Siena"
 description: "We\\'re told in the First Letter of St. John, \"This is what we have heard from him and declare to you: God is light and there is no darkness in him at all..."
+reading_time: 24
+tags: ["Saints & Feast Days"]
+prev_slug: st-benedict
+prev_title: "St. Benedict"
+next_slug: st-catherine-of-siena-2026
+next_title: "St. Catherine of Siena (2026)"
+related: [{"slug": "st-catherine-of-siena-2026", "title": "St. Catherine of Siena (2026)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
 ---
 
 By Fr. Conor Donnelly

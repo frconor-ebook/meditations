@@ -2,6 +2,13 @@
 layout: homily
 title: "Solemnity of the Assumption (2026)"
 description: "The entrance antiphon of the Vigil Mass for the Solemnity of the Assumption says: \"All honour to you, Mary. Today you were raised above the choirs of..."
+reading_time: 16
+tags: ["Our Lady"]
+prev_slug: solemnity-of-all-saints-2026
+prev_title: "Solemnity of All Saints (2026)"
+next_slug: souls-of-prayer
+next_title: "Souls of Prayer"
+related: [{"slug": "the-assumption-of-our-lady", "title": "The Assumption of Our Lady"}, {"slug": "the-solemnity-of-the-annunciation-2026", "title": "The Solemnity of the Annunciation (2026)"}, {"slug": "solemnity-of-all-saints-2026", "title": "Solemnity of All Saints (2026)"}]
 ---
 
 

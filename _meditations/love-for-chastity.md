@@ -2,6 +2,13 @@
 layout: homily
 title: "Love for Chastity"
 description: "St. Paul says to the Corinthians, \"You will never, ever be tempted beyond your strength\" (cf. 1 Cor. 10:13). The Sadducees came before Jesus and tried to..."
+reading_time: 15
+tags: ["Virtues & Struggle"]
+prev_slug: love-for-priests
+prev_title: "Love For Priests"
+next_slug: love-for-our-vocation
+next_title: "Love for Our Vocation"
+related: [{"slug": "self-love-the-enemy", "title": "Self-Love: The Enemy"}, {"slug": "sincerity-love-for-truth", "title": "Sincerity, Love for Truth"}, {"slug": "with-the-readiness-of-lovevigilance", "title": "With the Readiness of Love\u2014Vigilance"}]
 ---
 
 By Fr. Conor Donnelly

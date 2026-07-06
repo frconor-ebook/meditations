@@ -2,6 +2,13 @@
 layout: homily
 title: "The Sanctification of Later Years"
 description: "We're told in the Psalms, \"You show me the path of life. In your presence there is fullness of life\"( Ps 16:11). It's natural that as the years pass, we..."
+reading_time: 23
+tags: ["Work & Ordinary Life"]
+prev_slug: the-sanctification-of-calumnies
+prev_title: "The Sanctification of Calumnies"
+next_slug: the-sanctification-of-low-moments
+next_title: "The Sanctification of Low Moments"
+related: [{"slug": "the-sanctification-of-calumnies", "title": "The Sanctification of Calumnies"}, {"slug": "the-sanctification-of-low-moments", "title": "The Sanctification of Low Moments"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}]
 ---
 
 By Fr. Conor Donnelly

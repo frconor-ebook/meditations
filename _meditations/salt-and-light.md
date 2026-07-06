@@ -2,6 +2,13 @@
 layout: homily
 title: "Salt and Light"
 description: "\"You are the salt of the earth. ... You are the light of the world,\" we\\'re told in St. Matthew (Matt. 5:13,14). St. Paul says to the Philippians, \"so..."
+reading_time: 17
+tags: ["Parables", "Apostolate"]
+prev_slug: salt-that-has-lost-its-savor
+prev_title: "Salt That Has Lost Its Savor"
+next_slug: seed-and-grace
+next_title: "Seed and Grace"
+related: [{"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}, {"slug": "the-light-of-the-world", "title": "The Light of the World"}, {"slug": "christ-the-light", "title": "Christ the Light"}]
 ---
 
 By Fr. Conor Donnelly

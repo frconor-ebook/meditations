@@ -2,6 +2,13 @@
 layout: homily
 title: "The Nativity of Our Lady"
 description: "\"This is how Jesus Christ came to be born,\" we're told in St. Matthew's Gospel. \"His mother Mary was betrothed to Joseph, but before they came together..."
+reading_time: 18
+tags: ["Our Lady"]
+prev_slug: the-narrow-path
+prev_title: "The Narrow Path"
+next_slug: the-obedience-of-jesus
+next_title: "The Obedience of Jesus"
+related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
 ---
 
 By Fr. Conor Donnelly

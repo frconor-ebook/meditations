@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Mary Magdalene"
 description: "\"One of the Pharisees invited him to a meal. When he arrived at the Pharisee's house and took his place at the table, suddenly a woman came in, who had a..."
+reading_time: 19
+tags: ["Saints & Feast Days"]
+prev_slug: st-mark
+prev_title: "St. Mark"
+next_slug: st-mary-magdalene-2026
+next_title: "St. Mary Magdalene (2026)"
+related: [{"slug": "st-mary-magdalene-2026", "title": "St. Mary Magdalene (2026)"}, {"slug": "st-john-mary-vianney", "title": "St. John Mary Vianney"}, {"slug": "st-john-mary-vianney-2026", "title": "St. John Mary Vianney (2026)"}]
 ---
 
 

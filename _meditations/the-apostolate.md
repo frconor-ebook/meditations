@@ -2,6 +2,13 @@
 layout: homily
 title: "The Apostolate"
 description: "\"In passing along by the Sea of Galilee, he saw Simon and his brother Andrew casting their nets into the sea, for they were fishermen. And Jesus said to..."
+reading_time: 21
+tags: ["Apostolate"]
+prev_slug: the-annunciation-advent
+prev_title: "The Annunciation (Advent)"
+next_slug: the-apostolate-of-confession
+next_title: "The Apostolate of Confession"
+related: [{"slug": "on-apostolate", "title": "On Apostolate"}, {"slug": "the-apostolate-of-confession", "title": "The Apostolate of Confession"}, {"slug": "the-apostolate-of-the-home", "title": "The Apostolate of the Home"}]
 ---
 
 By Fr. Conor Donnelly

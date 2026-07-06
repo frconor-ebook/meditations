@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Thomas More and St. John Fisher (2026)"
 description: "John Fisher was ordained a priest in 1491. He held several teaching posts at the University of Cambridge, and at the same time was responsible for the..."
+reading_time: 19
+tags: ["Saints & Feast Days"]
+prev_slug: st-thomas-more
+prev_title: "St. Thomas More"
+next_slug: sts-cyril-and-methodius
+next_title: "Sts. Cyril and Methodius"
+related: [{"slug": "st-thomas-more", "title": "St. Thomas More"}, {"slug": "dedication-of-the-basilica-of-st-john-lateran-2026", "title": "Dedication of the Basilica of St. John Lateran (2026)"}, {"slug": "st-john", "title": "St. John"}]
 ---
 
 

@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Lady Help of Christians"
 description: "\"How have I deserved to be visited by the Mother of my Lord?\" (Luke 1:43). One of the first people to proclaim Our Lady as a helper, somebody who was..."
+reading_time: 17
+tags: ["Our Lady"]
+prev_slug: our-father-god
+prev_title: "Our Father God"
+next_slug: our-lady-of-africa
+next_title: "Our Lady of Africa"
+related: [{"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}, {"slug": "our-lady-of-guadalupe", "title": "Our Lady of Guadalupe"}]
 ---
 
 By Fr. Conor Donnelly

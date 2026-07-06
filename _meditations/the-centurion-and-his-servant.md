@@ -2,6 +2,13 @@
 layout: homily
 title: "The Centurion and His Servant"
 description: "\"When he went into Capernaum, a centurion came up and pleaded with him. 'Sir,' he said, 'my servant is lying at home paralyzed and in great pain.' Jesus..."
+reading_time: 19
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: the-canonization-of-st-josemaria-escriva
+prev_title: "The Canonization of St. Josemar\u00eda Escriv\u00e1"
+next_slug: the-chair-of-st-peter
+next_title: "The Chair of St. Peter"
+related: [{"slug": "the-unmerciful-servant", "title": "The Unmerciful Servant"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}]
 ---
 
 By Fr. Conor Donnelly

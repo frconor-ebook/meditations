@@ -2,6 +2,13 @@
 layout: homily
 title: "Joy in the Cross (Lent)"
 description: "\"After Jesus had taken the wine, he said, 'It is fulfilled,' and bowing his head he gave up his spirit\" (John 19:30). Chesterton likes to say that one of..."
+reading_time: 16
+tags: ["Lent, Holy Week & Easter", "The Cross & Suffering"]
+prev_slug: jesus-christ-the-eternal-high-priest
+prev_title: "Jesus Christ, The Eternal High Priest"
+next_slug: judas
+next_title: "Judas"
+related: [{"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}, {"slug": "cross-rejection", "title": "Cross Rejection"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}]
 ---
 
 By Fr. Conor Donnelly

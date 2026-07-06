@@ -2,6 +2,13 @@
 layout: homily
 title: "The Light Streaming from Bethlehem"
 description: "\"This man came for a witness, to give testimony of the light, that all men might believe through him. He was not the light but was to give testimony of..."
+reading_time: 21
+tags: ["Advent & Christmas"]
+prev_slug: the-last-day-of-the-year-dec-31
+prev_title: "The Last Day of the Year (Dec. 31)"
+next_slug: the-light-of-the-world
+next_title: "The Light of the World"
+related: [{"slug": "obedience-in-bethlehem", "title": "Obedience in Bethlehem"}, {"slug": "the-decree-of-caesar-augustus-and-the-journey-to-bethlehem", "title": "The Decree of Caesar Augustus and The Journey to Bethlehem"}, {"slug": "the-joy-of-the-journey-to-bethlehem", "title": "The Joy of the Journey to Bethlehem"}]
 ---
 
 By Fr. Conor Donnelly

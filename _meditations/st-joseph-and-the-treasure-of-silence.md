@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Joseph and The Treasure of Silence"
 description: "We\\'re told in the Book of Wisdom, \"For while gentle silence enveloped all things, and night in its swift course was now half gone, your all-powerful Word..."
+reading_time: 17
+tags: ["St. Joseph", "Saints & Feast Days"]
+prev_slug: st-josemaria-escriva-feast-june-26th
+prev_title: "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"
+next_slug: st-joseph-and-the-setbacks-of-life
+next_title: "St. Joseph and the Setbacks of Life"
+related: [{"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}, {"slug": "self-emptying-and-st-joseph", "title": "Self-emptying and St. Joseph"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Professional Prestige"
 description: "We're told in the Book of Proverbs: \"Show me a man who does a good job, and I will show you a man who is better than most and worthy of the company of..."
+reading_time: 18
+tags: ["Work & Ordinary Life"]
+prev_slug: pro-active-love
+prev_title: "Pro-Active Love"
+next_slug: purity-of-soul
+next_title: "Purity of Soul"
+related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "little-duties", "title": "Little Duties"}, {"slug": "little-things", "title": "Little Things"}]
 ---
 
 By Fr. Conor Donnelly

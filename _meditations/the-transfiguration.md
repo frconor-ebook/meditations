@@ -2,6 +2,13 @@
 layout: homily
 title: "The Transfiguration"
 description: "\"And after six days, Jesus took Peter and James, and his brother John, and led them up a high mountain by themselves. And he was transfigured before them..."
+reading_time: 17
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: the-third-sunday-of-st-joseph-2026
+prev_title: "The Third Sunday of St. Joseph (2026)"
+next_slug: the-truth-will-make-you-free
+next_title: "The Truth Will Make You Free"
+related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
 ---
 
 By Fr. Conor Donnelly

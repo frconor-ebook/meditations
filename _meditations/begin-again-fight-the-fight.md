@@ -2,6 +2,12 @@
 layout: homily
 title: "Begin Again, Fight the Fight"
 description: "St. Paul says, \"I have fought the good fight; I have finished the race...I look forward to the prize\" (2 Tim. 4:7-8). In this way, St. Paul speaks about..."
+reading_time: 11
+prev_slug: be-you-perfect
+prev_title: "Be You Perfect"
+next_slug: beginning-again
+next_title: "Beginning Again"
+related: [{"slug": "beginning-again", "title": "Beginning Again"}]
 ---
 
 

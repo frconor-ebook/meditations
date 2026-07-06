@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Lady of Sorrows (2026)"
 description: "Today's feast follows immediately upon the Triumph of the Cross. The Church reminds us of the special union that Our Lady shared in the sacrifice of her..."
+reading_time: 16
+tags: ["Our Lady"]
+prev_slug: our-lady-of-sorrows
+prev_title: "Our Lady of Sorrows"
+next_slug: our-lady-of-the-angels
+next_title: "Our Lady of the Angels"
+related: [{"slug": "our-lady-of-sorrows", "title": "Our Lady of Sorrows"}, {"slug": "the-seven-sorrows-of-our-lady", "title": "The Seven Sorrows of Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}]
 ---
 
 

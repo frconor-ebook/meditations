@@ -2,6 +2,12 @@
 layout: homily
 title: "Spirit and Life"
 description: "\"Now his mother and brethren came to him, and they could not get to him because of the crowd. And it was told him, 'Your mother and your brethren are..."
+reading_time: 21
+prev_slug: sparrows
+prev_title: "Sparrows"
+next_slug: spirit-of-service
+next_title: "Spirit of Service"
+related: [{"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "fruits-of-the-holy-spirit", "title": "Fruits of the Holy Spirit"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}]
 ---
 
 By Fr. Conor Donnelly

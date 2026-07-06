@@ -2,6 +2,12 @@
 layout: homily
 title: "Making A More Just World"
 description: "\"For God so loved the world that he gave his only begotten Son, that those who believe in him should not perish, but have eternal life\" (John 3:16). The..."
+reading_time: 17
+prev_slug: magnanimity
+prev_title: "Magnanimity"
+next_slug: making-good-decisions-or-the-virtue-of-prudence
+next_title: "Making Good Decisions or The Virtue of Prudence"
+related: [{"slug": "it-is-right-and-just", "title": "It Is Right and Just"}, {"slug": "making-good-decisions-or-the-virtue-of-prudence", "title": "Making Good Decisions or The Virtue of Prudence"}, {"slug": "making-up-for-lost-time", "title": "Making Up for Lost Time"}]
 ---
 
 By Fr. Conor Donnelly

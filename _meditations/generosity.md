@@ -2,6 +2,13 @@
 layout: homily
 title: "Generosity"
 description: "There was a kid in Manila one time who used to sell cigarettes at a street corner. He was very young, and he didn\\'t know how to manage his money. There..."
+reading_time: 21
+tags: ["Virtues & Struggle"]
+prev_slug: gamblers-on-calvary
+prev_title: "Gamblers On Calvary"
+next_slug: generosity-towards-god
+next_title: "Generosity Towards God"
+related: [{"slug": "generosity-towards-god", "title": "Generosity Towards God"}, {"slug": "generosity-in-correspondence", "title": "Generosity in Correspondence"}, {"slug": "against-all-hope", "title": "Against All Hope"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,12 @@
 layout: homily
 title: "Piety"
 description: "\"Now as they went on their way, Jesus entered a village. And a woman named Martha received him into her house. And she had a sister called Mary, who sat..."
+reading_time: 20
+prev_slug: peter-and-prayer
+prev_title: "Peter and Prayer"
+next_slug: placing-the-cross-on-the-summit-of-all-human-activities
+next_title: "Placing the Cross on the Summit of All Human Activities"
+related: [{"slug": "the-gift-of-piety", "title": "The Gift of Piety"}]
 ---
 
 By Fr. Conor Donnelly

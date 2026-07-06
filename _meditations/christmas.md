@@ -2,6 +2,13 @@
 layout: homily
 title: "Christmas"
 description: "\"Now there were shepherds in that region living in the fields and keeping the night watch over their flock. The angel of the Lord appeared to them, and..."
+reading_time: 18
+tags: ["Advent & Christmas"]
+prev_slug: christian-virtues
+prev_title: "Christian Virtues"
+next_slug: christmas-day-2025
+next_title: "Christmas Day, 2025"
+related: [{"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}]
 ---
 
 By Fr. Conor Donnelly

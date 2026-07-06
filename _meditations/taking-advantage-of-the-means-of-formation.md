@@ -2,6 +2,12 @@
 layout: homily
 title: "Taking Advantage of the Means of Formation"
 description: "\"Now as they went on their way, they entered a village, and a woman named Martha received him into her house. She had a sister called Mary, who sat at the..."
+reading_time: 18
+prev_slug: study
+prev_title: "Study"
+next_slug: temperance
+next_title: "Temperance"
+related: [{"slug": "doctrinal-formation", "title": "Doctrinal Formation"}, {"slug": "on-formation", "title": "On Formation"}]
 ---
 
 By Fr. Conor Donnelly

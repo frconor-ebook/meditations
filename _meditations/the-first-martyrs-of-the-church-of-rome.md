@@ -2,6 +2,13 @@
 layout: homily
 title: "The First Martyrs of the Church of Rome"
 description: "After Jerusalem and Antioch, Rome was the most important early Christian nucleus. Many Christians came from the Jewish colony existing in Rome. The..."
+reading_time: 19
+tags: ["Saints & Feast Days", "Church & Priesthood"]
+prev_slug: the-first-disciples
+prev_title: "The First Disciples"
+next_slug: the-first-sunday-of-st-joseph-2026
+next_title: "The First Sunday of St. Joseph (2026)"
+related: [{"slug": "love-for-the-church-st-pius-x", "title": "Love for the Church (St. Pius X)"}, {"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}]
 ---
 
 

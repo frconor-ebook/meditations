@@ -2,6 +2,11 @@
 layout: homily
 title: "All the Glory to God"
 description: "In the Gospel of St. Matthew, we're told, \"Be careful not to parade your uprightness in public to attract attention; otherwise you will lose all reward..."
+reading_time: 21
+prev_slug: all-you-peoples-bless-the-lord
+prev_title: "All You Peoples, Bless the Lord"
+next_slug: anchored-in-hope
+next_title: "Anchored in Hope"
 ---
 
 By Fr. Conor Donnelly

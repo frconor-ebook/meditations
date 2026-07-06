@@ -2,6 +2,13 @@
 layout: homily
 title: "Purity of Soul"
 description: "\"You have heard that it was said, 'You shall not commit adultery.' But I say to you that everyone who looks at a woman lustfully has already committed..."
+reading_time: 13
+tags: ["Virtues & Struggle"]
+prev_slug: professional-prestige
+prev_title: "Professional Prestige"
+next_slug: purity-of-the-heart
+next_title: "Purity of the Heart"
+related: [{"slug": "holy-purity", "title": "Holy Purity"}, {"slug": "purity-of-the-heart", "title": "Purity of the Heart"}, {"slug": "conscience-the-light-of-the-soul", "title": "Conscience, The Light of the Soul"}]
 ---
 
 By Fr. Conor Donnelly

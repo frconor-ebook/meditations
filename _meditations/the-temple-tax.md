@@ -2,6 +2,13 @@
 layout: homily
 title: "The Temple Tax"
 description: "\"When they reached Capharnaum, the collectors of the half-shekel came to Peter and said, 'Does your master not pay the half-shekel?' 'Yes,' he replied..."
+reading_time: 17
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: the-syrophoenician-woman
+prev_title: "The Syrophoenician Woman"
+next_slug: the-third-sunday-of-st-joseph-2026
+next_title: "The Third Sunday of St. Joseph (2026)"
+related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
 ---
 
 By Fr. Conor Donnelly

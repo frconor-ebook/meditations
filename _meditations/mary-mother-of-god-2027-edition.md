@@ -2,6 +2,13 @@
 layout: homily
 title: "Mary Mother of God (2027 Edition)"
 description: "The Octave of Christmas concludes with today\\'s feast of Mary, the Mother of God. Even though Our Lady was venerated as the Mother of God from the..."
+reading_time: 17
+tags: ["Our Lady"]
+prev_slug: martha-martha
+prev_title: "Martha, Martha"
+next_slug: mary-of-bethanys-authentic-love
+next_title: "Mary of Bethany\u2019s Authentic Love"
+related: [{"slug": "mary-mother-of-god", "title": "Mary, Mother of God"}, {"slug": "mary-mother-of-god-2nd-ed", "title": "Mary, Mother of God (2nd Ed.)"}, {"slug": "at-the-school-of-mary", "title": "At the School of Mary"}]
 ---
 
 

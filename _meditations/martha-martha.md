@@ -2,6 +2,13 @@
 layout: homily
 title: "Martha, Martha"
 description: "\"In the course of their journey he came to a village, and a woman named Martha welcomed him into her house. She had a sister called Mary, who sat down at..."
+reading_time: 18
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: marriage-in-heaven
+prev_title: "Marriage in Heaven"
+next_slug: mary-mother-of-god-2027-edition
+next_title: "Mary Mother of God (2027 Edition)"
+related: [{"slug": "sts-martha-mary-and-lazarus", "title": "Sts. Martha, Mary, and Lazarus"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}]
 ---
 
 By Fr. Conor Donnelly

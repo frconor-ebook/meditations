@@ -2,6 +2,12 @@
 layout: homily
 title: "You Are Nothing"
 description: "\"He was by nature God. He did not consider being equal to God a thing to be clung to, but emptied himself, taking the nature of a slave, and being made..."
+reading_time: 21
+prev_slug: with-the-readiness-of-lovevigilance
+prev_title: "With the Readiness of Love\u2014Vigilance"
+next_slug: your-one-and-only-father
+next_title: "Your One and Only Father"
+related: [{"slug": "apart-from-me-you-can-do-nothing", "title": "Apart From Me You Can Do Nothing"}]
 ---
 
 By Fr. Conor Donnelly

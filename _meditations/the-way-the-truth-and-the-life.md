@@ -2,6 +2,12 @@
 layout: homily
 title: "The Way, the Truth, and the Life"
 description: "There's a certain tendency in modern culture to frown upon those who believe that Our Lord is different from other religious leaders and reformers. It can..."
+reading_time: 22
+prev_slug: the-washing-of-the-feet
+prev_title: "The Washing of the Feet"
+next_slug: the-widow-of-naim
+next_title: "The Widow of Naim"
+related: [{"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}, {"slug": "life-of-faith", "title": "Life of Faith"}]
 ---
 
 

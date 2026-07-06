@@ -2,6 +2,13 @@
 layout: homily
 title: "Faithfulness"
 description: "We're told in the Book of Genesis that the Lord said to Abraham, \"Abraham, bear yourself blameless in my presence. ... You shall maintain my Covenant..."
+reading_time: 16
+tags: ["Virtues & Struggle"]
+prev_slug: examination-of-conscience
+prev_title: "Examination of Conscience"
+next_slug: fathers-day
+next_title: "Father\u2019s Day"
+related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Freedom"
 description: "I heard a story once about how, in every major city of the world, the airport is about half an hour from the center of the city. To get to the..."
+reading_time: 18
+tags: ["Virtues & Struggle"]
+prev_slug: fraternity-in-the-work
+prev_title: "Fraternity in the Work"
+next_slug: friendship-and-confidence
+next_title: "Friendship and Confidence"
+related: [{"slug": "true-and-false-freedom", "title": "True and False Freedom"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Healing Christ's Wounds"
 description: "St. Paul says, \"But God, who is rich in mercy, because of the great love he had for us, even when we were dead in our transgressions, brought us to life..."
+reading_time: 17
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: happy-are-the-meek
+prev_title: "Happy Are the Meek"
+next_slug: heart-in-the-family
+next_title: "Heart in the Family"
+related: [{"slug": "the-healing-of-the-man-with-the-withered-hand", "title": "The Healing of the Man with the Withered Hand"}, {"slug": "the-healing-of-the-royal-officials-son", "title": "The Healing of the Royal Official\u2019s Son"}, {"slug": "the-healing-of-the-ten-lepers", "title": "The Healing of the Ten Lepers"}]
 ---
 
 By Fr. Conor Donnelly

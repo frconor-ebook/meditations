@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Lady the Queen"
 description: "The Entrance Antiphon of today's Mass for the Feast of Our Lady the Queen says, \"The Queen stands at your right hand, arrayed in cloth of gold\" (Ps..."
+reading_time: 19
+tags: ["Our Lady"]
+prev_slug: our-lady-of-the-snows
+prev_title: "Our Lady of the Snows"
+next_slug: our-lady-the-queen-2026
+next_title: "Our Lady the Queen (2026)"
+related: [{"slug": "our-lady-the-queen-2026", "title": "Our Lady the Queen (2026)"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
 ---
 
 By Fr. Conor Donnelly

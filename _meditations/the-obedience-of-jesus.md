@@ -2,6 +2,13 @@
 layout: homily
 title: "The Obedience of Jesus"
 description: "We're told in St. John, \"My meat is to do the will of him who sent me; and to accomplish the task he gave me\" (John 4:34). After the meeting in the..."
+reading_time: 15
+tags: ["Virtues & Struggle"]
+prev_slug: the-nativity-of-our-lady
+prev_title: "The Nativity of Our Lady"
+next_slug: the-one-who-gives-us-jesus
+next_title: "The One Who Gives Us Jesus"
+related: [{"slug": "obedience", "title": "Obedience"}, {"slug": "obedience-in-bethlehem", "title": "Obedience in Bethlehem"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}]
 ---
 
 By Fr. Conor Donnelly

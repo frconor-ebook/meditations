@@ -2,6 +2,13 @@
 layout: homily
 title: "The Depths of Simplicity"
 description: "The world has one supreme test for character, and that is the possession of a virtue in a high and eminent degree. Many generals, for example, in our..."
+reading_time: 15
+tags: ["Virtues & Struggle"]
+prev_slug: the-dedication-of-the-basilica-of-st-mary-major
+prev_title: "The Dedication of the Basilica of St. Mary Major"
+next_slug: the-devils-cast-out
+next_title: "The Devils Cast Out"
+related: [{"slug": "naturalness-and-simplicity", "title": "Naturalness and Simplicity"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}]
 ---
 
 

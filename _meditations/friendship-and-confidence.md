@@ -2,6 +2,13 @@
 layout: homily
 title: "Friendship and Confidence"
 description: "\"Then he said to his servants, 'The marriage feast indeed is ready, but those who were invited were not worthy. Go therefore to the crossroads and invite..."
+reading_time: 21
+tags: ["Apostolate"]
+prev_slug: freedom
+prev_title: "Freedom"
+next_slug: friendship-with-jesus
+next_title: "Friendship with Jesus"
+related: [{"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}, {"slug": "st-john-henry-newman-on-friendship", "title": "St. John Henry Newman on Friendship"}, {"slug": "fire-on-earth", "title": "Fire On Earth"}]
 ---
 
 By Fr. Conor Donnelly

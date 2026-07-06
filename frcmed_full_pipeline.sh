@@ -610,7 +610,7 @@ deploy_to_github() {
     # gitignored: pushing sources triggers the GitHub Actions workflow, which
     # builds and deploys the site atomically.
     log "INFO" "Adding files to git..."
-    git add _meditations data || error_message "Git add failed."
+    git add _meditations data _data || error_message "Git add failed."
 
     # Commit changes
     # Use custom message if provided, otherwise use default

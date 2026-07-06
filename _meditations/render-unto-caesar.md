@@ -2,6 +2,12 @@
 layout: homily
 title: "Render Unto Caesar"
 description: "\"Next they sent to him some Pharisees and some Herodians to catch him out in what he said. They came and said to him, 'Master, we know that you are an..."
+reading_time: 20
+prev_slug: rejection
+prev_title: "Rejection"
+next_slug: rich-before-god
+next_title: "Rich Before God"
+related: [{"slug": "the-decree-of-caesar-augustus-and-the-journey-to-bethlehem", "title": "The Decree of Caesar Augustus and The Journey to Bethlehem"}]
 ---
 
 By Fr. Conor Donnelly

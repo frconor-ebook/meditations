@@ -2,6 +2,13 @@
 layout: homily
 title: "Presence of God"
 description: "\"The child whispered once, 'God, speak to me.'\\ And a meadowlark sang. The child did not hear. The child yelled, 'God, speak to me!\\ And the thunder..."
+reading_time: 21
+tags: ["Prayer & Interior Life"]
+prev_slug: preparing-to-receive-jesus
+prev_title: "Preparing to Receive Jesus"
+next_slug: prince-of-peace
+next_title: "Prince of Peace"
+related: [{"slug": "the-real-presence", "title": "The Real Presence"}, {"slug": "abandonment", "title": "Abandonment"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}]
 ---
 
 By Fr. Conor Donnelly

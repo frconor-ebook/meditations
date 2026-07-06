@@ -2,6 +2,11 @@
 layout: homily
 title: "God of Consolation"
 description: "We're told in St. Paul's Second Letter to the Corinthians, \"Blessed be the God and Father of Our Lord Jesus Christ, the Father of mercies and God of all..."
+reading_time: 19
+prev_slug: god-has-captured-me-with-his-love
+prev_title: "God Has Captured Me With His Love"
+next_slug: gods-bridge-builder
+next_title: "God\u2019s Bridge-Builder"
 ---
 
 By Fr. Conor Donnelly

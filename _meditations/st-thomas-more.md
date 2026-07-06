@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Thomas More"
 description: "\"To you, my friends, I say,\" we're told in St. Luke, \"do not be afraid of those who kill the body, and after that can do no more. I will tell you whom to..."
+reading_time: 22
+tags: ["Saints & Feast Days"]
+prev_slug: st-thomas-aquinas
+prev_title: "St. Thomas Aquinas"
+next_slug: st-thomas-more-and-st-john-fisher-2026
+next_title: "St. Thomas More and St. John Fisher (2026)"
+related: [{"slug": "st-thomas-more-and-st-john-fisher-2026", "title": "St. Thomas More and St. John Fisher (2026)"}, {"slug": "st-thomas", "title": "St. Thomas"}, {"slug": "st-thomas-aquinas", "title": "St. Thomas Aquinas"}]
 ---
 
 By Fr. Conor Donnelly

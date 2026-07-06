@@ -2,6 +2,13 @@
 layout: homily
 title: "Sick and You Visited Me"
 description: "\"I was sick, and you visited me,\" said Our Lord in St. Matthew (Matt. 25:36). The Church has always recommended that the faithful engage in corporal works..."
+reading_time: 13
+tags: ["The Cross & Suffering"]
+prev_slug: shepherds-and-wise-men
+prev_title: "Shepherds and Wise Men"
+next_slug: simeon-and-anna
+next_title: "Simeon and Anna"
+related: [{"slug": "crises-be-not-afraid", "title": "Crises: Be Not Afraid"}, {"slug": "cross-rejection", "title": "Cross Rejection"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Generosity Towards God"
 description: "\"Well done, good and faithful servant. You have been faithful over a little; I will set you over much. Enter into the joy of your master\" (Matt..."
+reading_time: 17
+tags: ["Virtues & Struggle"]
+prev_slug: generosity
+prev_title: "Generosity"
+next_slug: generosity-in-correspondence
+next_title: "Generosity in Correspondence"
+related: [{"slug": "generosity", "title": "Generosity"}, {"slug": "generosity-in-correspondence", "title": "Generosity in Correspondence"}, {"slug": "against-all-hope", "title": "Against All Hope"}]
 ---
 
 By Fr. Conor Donnelly

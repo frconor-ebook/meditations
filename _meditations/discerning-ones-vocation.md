@@ -2,6 +2,13 @@
 layout: homily
 title: "Discerning One's Vocation"
 description: "\"When Yahweh called, 'Samuel! Samuel!' he answered, 'Here I am,' and, running to Eli, he said, 'Here I am, as you called me.' Eli said, 'I did not call..."
+reading_time: 21
+tags: ["Vocation"]
+prev_slug: defending-the-family
+prev_title: "Defending the Family"
+next_slug: divine-filiation
+next_title: "Divine Filiation"
+related: [{"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}, {"slug": "the-vocation-of-our-lady", "title": "The Vocation of Our Lady"}, {"slug": "spirit-of-service", "title": "Spirit of Service"}]
 ---
 
 By Fr. Conor Donnelly

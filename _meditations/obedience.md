@@ -2,6 +2,13 @@
 layout: homily
 title: "Obedience"
 description: "Our Lord tells us in St. John, \"My food is to do the will of him who sent me and to accomplish his work\" (John 4:34). Obedience is the submission of our..."
+reading_time: 20
+tags: ["Virtues & Struggle"]
+prev_slug: naturalness-and-simplicity
+prev_title: "Naturalness and Simplicity"
+next_slug: obedience-in-bethlehem
+next_title: "Obedience in Bethlehem"
+related: [{"slug": "obedience-in-bethlehem", "title": "Obedience in Bethlehem"}, {"slug": "the-obedience-of-jesus", "title": "The Obedience of Jesus"}, {"slug": "against-all-hope", "title": "Against All Hope"}]
 ---
 
 By Fr. Conor Donnelly

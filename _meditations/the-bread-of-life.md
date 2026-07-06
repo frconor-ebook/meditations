@@ -2,6 +2,13 @@
 layout: homily
 title: "The Bread of Life"
 description: "\"And when the hour had come, he reclined at table, and the twelve apostles with him. He said to them, 'I have longed and longed to eat this Passover with..."
+reading_time: 22
+tags: ["Eucharist & the Mass"]
+prev_slug: the-bread-our-heavenly-mother-gives-us
+prev_title: "The Bread Our Heavenly Mother Gives Us"
+next_slug: the-canonization-of-st-josemaria-escriva
+next_title: "The Canonization of St. Josemar\u00eda Escriv\u00e1"
+related: [{"slug": "the-bread-our-heavenly-mother-gives-us", "title": "The Bread Our Heavenly Mother Gives Us"}, {"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}]
 ---
 
 By Fr. Conor Donnelly

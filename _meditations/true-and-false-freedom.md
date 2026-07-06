@@ -2,6 +2,13 @@
 layout: homily
 title: "True and False Freedom"
 description: "If there's one thing that we all desire, it's freedom. And yet this concept and its concrete manifestations are objects of a great deal of..."
+reading_time: 15
+tags: ["Virtues & Struggle"]
+prev_slug: true-prayer
+prev_title: "True Prayer"
+next_slug: understanding
+next_title: "Understanding"
+related: [{"slug": "freedom", "title": "Freedom"}, {"slug": "true-prayer", "title": "True Prayer"}, {"slug": "against-all-hope", "title": "Against All Hope"}]
 ---
 
 

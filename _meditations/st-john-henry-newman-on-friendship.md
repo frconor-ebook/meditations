@@ -2,6 +2,13 @@
 layout: homily
 title: "St. John Henry Newman on Friendship"
 description: "\"Be you perfect, as your heavenly Father is perfect\" (Matt. 5:48), Our Lord tells us in the Gospel. As a keen student of the writers of antiquity, St..."
+reading_time: 19
+tags: ["Saints & Feast Days"]
+prev_slug: st-john-2025-ed
+prev_title: "St. John (2025 Ed.)"
+next_slug: st-john-henry-newman-on-the-laity
+next_title: "St. John Henry Newman on The Laity"
+related: [{"slug": "st-john-henry-newman-on-the-laity", "title": "St. John Henry Newman on The Laity"}, {"slug": "dedication-of-the-basilica-of-st-john-lateran-2026", "title": "Dedication of the Basilica of St. John Lateran (2026)"}, {"slug": "st-john", "title": "St. John"}]
 ---
 
 By Fr. Conor Donnelly

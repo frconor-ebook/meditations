@@ -2,6 +2,13 @@
 layout: homily
 title: "The Faith of Abraham"
 description: "\"Yahweh said to Abraham: 'Leave your country, your kindred, and your father's house for a country which I will show you'\" (Gen. 12:1). God places a very..."
+reading_time: 22
+tags: ["Virtues & Struggle"]
+prev_slug: the-exaltation-of-the-holy-cross-2026
+prev_title: "The Exaltation of the Holy Cross (2026)"
+next_slug: the-father-in-the-work
+next_title: "The Father in the Work"
+related: [{"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "growing-in-faith", "title": "Growing in Faith"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}]
 ---
 
 By Fr. Conor Donnelly

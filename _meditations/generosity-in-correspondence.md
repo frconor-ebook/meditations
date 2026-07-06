@@ -2,6 +2,13 @@
 layout: homily
 title: "Generosity in Correspondence"
 description: "\"Whoever gives to one of these little ones but a cup of cold water to drink because he is a disciple, amen, I say to you, he shall not lose his reward\"..."
+reading_time: 21
+tags: ["Virtues & Struggle"]
+prev_slug: generosity-towards-god
+prev_title: "Generosity Towards God"
+next_slug: god-has-captured-me-with-his-love
+next_title: "God Has Captured Me With His Love"
+related: [{"slug": "generosity", "title": "Generosity"}, {"slug": "generosity-towards-god", "title": "Generosity Towards God"}, {"slug": "correspondence-to-grace", "title": "Correspondence to Grace"}]
 ---
 
 

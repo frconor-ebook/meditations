@@ -2,6 +2,13 @@
 layout: homily
 title: "The Anniversary of the Ordination of the First Three Priests of the Prelature"
 description: "\"Now, therefore,\" we're told in the Book of Exodus, \"if you obey my voice and keep my covenant, you shall be my treasured possession out of all the..."
+reading_time: 26
+tags: ["Opus Dei", "Church & Priesthood"]
+prev_slug: the-anniversary-of-the-ordination-of-st-josemaria
+prev_title: "The Anniversary of the Ordination of St. Josemar\u00eda"
+next_slug: the-anniversary-of-the-women-of-the-prelature
+next_title: "The Anniversary of the Women of the Prelature"
+related: [{"slug": "the-anniversary-of-the-establishment-of-the-prelature", "title": "The Anniversary of the Establishment of the Prelature"}, {"slug": "the-anniversary-of-the-first-holy-communion-of-st-josemaria", "title": "The Anniversary of the First Holy Communion of St. Josemar\u00eda"}, {"slug": "the-anniversary-of-the-ordination-of-st-josemaria", "title": "The Anniversary of the Ordination of St. Josemar\u00eda"}]
 ---
 
 By Fr. Conor Donnelly

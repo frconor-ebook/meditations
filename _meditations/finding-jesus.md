@@ -2,6 +2,12 @@
 layout: homily
 title: "Finding Jesus"
 description: "We are told in St. Luke that His parents were wont to go every year to Jerusalem at the feast of the Passover. When He was twelve years old, they went up..."
+reading_time: 19
+prev_slug: fidelity-in-marriage
+prev_title: "Fidelity in Marriage"
+next_slug: fire-on-earth
+next_title: "Fire On Earth"
+related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}, {"slug": "holy-communion-jesus-is-mine", "title": "Holy Communion: Jesus Is Mine"}]
 ---
 
 By Fr. Conor Donnelly

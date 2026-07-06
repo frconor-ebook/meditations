@@ -2,6 +2,13 @@
 layout: homily
 title: "The Miracle at Cana"
 description: "\"On the third day there was a wedding at Cana in Galilee. The Mother of Jesus was there, and Jesus and his disciples had also been invited\" (John 2:1-2)..."
+reading_time: 24
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: the-mass-and-personal-self-surrender
+prev_title: "The Mass and Personal Self-Surrender"
+next_slug: the-miraculous-catch-of-fish
+next_title: "The Miraculous Catch of Fish"
+related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
 ---
 
 By Fr. Conor Donnelly

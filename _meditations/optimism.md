@@ -2,6 +2,13 @@
 layout: homily
 title: "Optimism"
 description: "\"Then the mother of Zebedee's sons came with her sons to make a request of him and bowed low. And he said to her, 'What is it that you want?' She said to..."
+reading_time: 24
+tags: ["Virtues & Struggle"]
+prev_slug: on-work
+prev_title: "On Work"
+next_slug: order
+next_title: "Order"
+related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
 ---
 
 By Fr. Conor Donnelly

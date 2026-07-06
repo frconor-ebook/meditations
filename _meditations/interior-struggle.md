@@ -2,6 +2,13 @@
 layout: homily
 title: "Interior Struggle"
 description: "A number of years ago, after the Pope's visit, somebody said to me, \"I have touched the Pope, and now I am ready to go to heaven.\" Well, we know that..."
+reading_time: 20
+tags: ["Prayer & Interior Life", "Virtues & Struggle"]
+prev_slug: interior-peace
+prev_title: "Interior Peace"
+next_slug: invoking-our-savior
+next_title: "Invoking Our Savior"
+related: [{"slug": "the-imagination-and-interior-mortification", "title": "The Imagination and Interior Mortification"}, {"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "abandonment", "title": "Abandonment"}]
 ---
 
 By Fr. Conor Donnelly

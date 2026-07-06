@@ -2,6 +2,13 @@
 layout: homily
 title: "Abandonment"
 description: "We are told in the Gospel, \"Can you not buy two sparrows for a penny? Yet not one falls to the ground without your Father knowing\" (Matt. 10:29). Our Lord..."
+reading_time: 25
+tags: ["Prayer & Interior Life"]
+prev_slug: a-merciful-messiah
+prev_title: "A Merciful Messiah"
+next_slug: afterwards-you-will-understand
+next_title: "Afterwards You Will Understand"
+related: [{"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "divine-filiation", "title": "Divine Filiation"}, {"slug": "divine-intimacies", "title": "Divine Intimacies"}]
 ---
 
 By Fr. Conor Donnelly

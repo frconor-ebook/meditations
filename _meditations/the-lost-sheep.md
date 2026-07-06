@@ -2,6 +2,13 @@
 layout: homily
 title: "The Lost Sheep"
 description: "\"Suppose a man has a hundred sheep and one of them strays; will he not leave the ninety-nine on the hillside and go in search of the stray? In truth I..."
+reading_time: 17
+tags: ["Parables"]
+prev_slug: the-lords-day
+prev_title: "The Lord\u2019s Day"
+next_slug: the-love-of-god
+next_title: "The Love of God"
+related: [{"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}, {"slug": "making-up-for-lost-time", "title": "Making Up for Lost Time"}, {"slug": "house-on-the-rock", "title": "House on the Rock"}]
 ---
 
 

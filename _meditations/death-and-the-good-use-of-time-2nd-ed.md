@@ -2,6 +2,13 @@
 layout: homily
 title: "Death and the Good Use of Time (2nd Ed.)"
 description: "There was an elderly lady once in Singapore who used to go with her husband every day to the happy hour for a few drinks. Whenever she did, she would put..."
+reading_time: 21
+tags: ["Work & Ordinary Life", "Death & Eternal Life"]
+prev_slug: daily-mass
+prev_title: "Daily Mass"
+next_slug: dedication-of-the-basilica-of-st-john-lateran-2026
+next_title: "Dedication of the Basilica of St. John Lateran (2026)"
+related: [{"slug": "the-good-use-of-time", "title": "The Good Use of Time"}, {"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}]
 ---
 
 By Fr. Conor Donnelly

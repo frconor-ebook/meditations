@@ -2,6 +2,13 @@
 layout: homily
 title: "St. John Mary Vianney (2026)"
 description: "St. John Mary Vianney was born near Lyon in 1786. He overcame many difficulties prior to receiving ordination and was later entrusted with the parish in..."
+reading_time: 17
+tags: ["Saints & Feast Days"]
+prev_slug: st-john-mary-vianney
+prev_title: "St. John Mary Vianney"
+next_slug: st-john-paul-ii
+next_title: "St. John Paul II"
+related: [{"slug": "st-john-mary-vianney", "title": "St. John Mary Vianney"}, {"slug": "dedication-of-the-basilica-of-st-john-lateran-2026", "title": "Dedication of the Basilica of St. John Lateran (2026)"}, {"slug": "st-john", "title": "St. John"}]
 ---
 
 

@@ -2,6 +2,13 @@
 layout: homily
 title: "Little Things"
 description: "On many occasions in Our Lord\\'s life, He talked about little things. \"When they had eaten enough, he said to the disciples, 'Pick up the pieces left..."
+reading_time: 25
+tags: ["Work & Ordinary Life"]
+prev_slug: little-duties
+prev_title: "Little Duties"
+next_slug: looking-up-to-heaven
+next_title: "Looking Up to Heaven"
+related: [{"slug": "little-duties", "title": "Little Duties"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "making-up-for-lost-time", "title": "Making Up for Lost Time"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Learning to Ask"
 description: "\"He has filled the hungry with good things, and the rich he has sent away empty\" (Luke 1:53). We should pray frequently about our divine filiation. Our..."
+reading_time: 18
+tags: ["Prayer & Interior Life"]
+prev_slug: launch-out-into-the-deep
+prev_title: "Launch Out Into The Deep"
+next_slug: lent-christs-death-on-the-cross
+next_title: "Lent: Christ\u2019s Death on the Cross"
+related: [{"slug": "abandonment", "title": "Abandonment"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "divine-filiation", "title": "Divine Filiation"}]
 ---
 
 By Fr. Conor Donnelly

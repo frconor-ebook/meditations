@@ -2,6 +2,13 @@
 layout: homily
 title: "On Temperance"
 description: "At Cana of Galilee, Our Lady said, \"They have no wine\" (John 2:3). She did not say, 'I have no wine' or, 'My glass is empty,' but \"they have no wine.\" The..."
+reading_time: 22
+tags: ["Virtues & Struggle"]
+prev_slug: on-our-way-to-the-house-of-our-father
+prev_title: "On Our Way to The House of Our Father"
+next_slug: on-work
+next_title: "On Work"
+related: [{"slug": "temperance", "title": "Temperance"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}]
 ---
 
 By Fr. Conor Donnelly

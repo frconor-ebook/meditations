@@ -2,6 +2,13 @@
 layout: homily
 title: "Charity versus Anger"
 description: "\"Now the elder son was out in the fields, and on his way back he drew near the house. He could hear music and dancing. In calling one of the servants, he..."
+reading_time: 23
+tags: ["Virtues & Struggle"]
+prev_slug: charity-and-the-tongue
+prev_title: "Charity and the Tongue"
+next_slug: cheerfulness
+next_title: "Cheerfulness"
+related: [{"slug": "charity", "title": "Charity"}, {"slug": "charity-and-the-tongue", "title": "Charity and the Tongue"}, {"slug": "judgments-charity", "title": "Judgments (Charity)"}]
 ---
 
 By Fr. Conor Donnelly

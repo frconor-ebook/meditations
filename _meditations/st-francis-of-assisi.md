@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Francis of Assisi"
 description: "\"Blessed are the poor in spirit\" (Matt. 5:3), Our Lord said on one occasion, and also on many other occasions, with His words and with His deeds. Today is..."
+reading_time: 19
+tags: ["Saints & Feast Days"]
+prev_slug: st-francis-de-sales
+prev_title: "St. Francis de Sales"
+next_slug: st-gabriel
+next_title: "St. Gabriel"
+related: [{"slug": "st-francis-xavier", "title": "St. Francis Xavier"}, {"slug": "st-francis-de-sales", "title": "St. Francis de Sales"}, {"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}]
 ---
 
 By Fr. Conor Donnelly

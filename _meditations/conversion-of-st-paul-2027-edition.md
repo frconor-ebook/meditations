@@ -2,6 +2,13 @@
 layout: homily
 title: "Conversion of St. Paul (2027 Edition)"
 description: "The feast of the conversion of St. Paul marks the end of the octave of Christian unity. The grace of God changed St. Paul from being a persecutor of..."
+reading_time: 17
+tags: ["Saints & Feast Days"]
+prev_slug: contrition
+prev_title: "Contrition"
+next_slug: corpus-christi-2026
+next_title: "Corpus Christi (2026)"
+related: [{"slug": "the-conversion-of-st-paul", "title": "The Conversion of St. Paul"}, {"slug": "st-john-paul-ii", "title": "St. John Paul II"}, {"slug": "st-peter-and-st-paul", "title": "St. Peter and St. Paul"}]
 ---
 
 

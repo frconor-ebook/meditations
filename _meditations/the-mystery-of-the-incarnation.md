@@ -2,6 +2,13 @@
 layout: homily
 title: "The Mystery of the Incarnation"
 description: "There was a French farmer once who was a bit of an atheist, although his family were Catholic. On Christmas night, his wife and children were going out to..."
+reading_time: 20
+tags: ["Advent & Christmas"]
+prev_slug: the-multiplication-of-the-loaves-and-fish
+prev_title: "The Multiplication of the Loaves and Fish"
+next_slug: the-narrow-gate
+next_title: "The Narrow Gate"
+related: [{"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}, {"slug": "christmas", "title": "Christmas"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}]
 ---
 
 By Fr. Conor Donnelly

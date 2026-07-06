@@ -2,6 +2,13 @@
 layout: homily
 title: "The Gift of Fear of the Lord"
 description: "We\\'re told in the Psalms, \"The fear of the Lord is the beginning of wisdom\" (Ps. 110:10). These words from the Bible tell us that fearing the Lord and..."
+reading_time: 19
+tags: ["Holy Spirit"]
+prev_slug: the-gift-of-counsel
+prev_title: "The Gift of Counsel"
+next_slug: the-gift-of-fortitude
+next_title: "The Gift of Fortitude"
+related: [{"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}, {"slug": "the-gift-of-fortitude", "title": "The Gift of Fortitude"}, {"slug": "the-gift-of-knowledge", "title": "The Gift of Knowledge"}]
 ---
 
 By Fr. Conor Donnelly

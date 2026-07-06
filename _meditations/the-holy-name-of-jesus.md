@@ -2,6 +2,12 @@
 layout: homily
 title: "The Holy Name of Jesus"
 description: "\"And for this God raised him high and gave him the name which is above all names, so that all beings in the heavens, on earth, and in the underworld..."
+reading_time: 18
+prev_slug: the-holy-innocents
+prev_title: "The Holy Innocents"
+next_slug: the-holy-name-of-mary
+next_title: "The Holy Name of Mary"
+related: [{"slug": "holy-communion-jesus-is-mine", "title": "Holy Communion: Jesus Is Mine"}, {"slug": "the-holy-name-of-mary", "title": "The Holy Name of Mary"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}]
 ---
 
 By Fr. Conor Donnelly

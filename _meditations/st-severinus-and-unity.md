@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Severinus and Unity"
 description: "\"I am the vine; you are the branches\" (John 15:5). Today, we celebrate the feast of St. Severinus. Our Father wanted us to have a meditation on unity..."
+reading_time: 22
+tags: ["Saints & Feast Days"]
+prev_slug: st-pius-x-2026
+prev_title: "St. Pius X (2026)"
+next_slug: st-simon-and-st-jude
+next_title: "St. Simon and St. Jude"
+related: [{"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}, {"slug": "passion-for-unity", "title": "Passion for Unity"}, {"slug": "unity-of-life", "title": "Unity of Life"}]
 ---
 
 By Fr. Conor Donnelly

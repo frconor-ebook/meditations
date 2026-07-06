@@ -2,6 +2,12 @@
 layout: homily
 title: "Vanity (He Must Increase)"
 description: "\"Vanity of vanities, all is vanity\" (Eccles. 1:2). The Church places before us once or twice a year this phrase from the Book of Ecclesiastes as though..."
+reading_time: 20
+prev_slug: useless-servants
+prev_title: "Useless Servants"
+next_slug: vigilance-and-the-rosary
+next_title: "Vigilance and the Rosary"
+related: [{"slug": "increase-my-faith", "title": "Increase My Faith"}]
 ---
 
 By Fr. Conor Donnelly

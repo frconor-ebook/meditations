@@ -2,6 +2,13 @@
 layout: homily
 title: "Looking Up to Heaven"
 description: "We\\'re told in the Gospel of St. Luke that when Jesus was teaching in the synagogue on the Sabbath, there was a woman who had had a spirit of infirmity..."
+reading_time: 16
+tags: ["Death & Eternal Life"]
+prev_slug: little-things
+prev_title: "Little Things"
+next_slug: love-for-priests
+next_title: "Love For Priests"
+related: [{"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}, {"slug": "hell-purgatory-heaven", "title": "Hell, Purgatory, Heaven"}, {"slug": "marriage-in-heaven", "title": "Marriage in Heaven"}]
 ---
 
 

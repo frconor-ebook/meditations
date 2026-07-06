@@ -2,6 +2,13 @@
 layout: homily
 title: "The Miraculous Catch of Fish"
 description: "\"After these things, Jesus manifested himself again at the Sea of Tiberias. He manifested himself in this way. They were together, Simon Peter and Thomas..."
+reading_time: 23
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: the-miracle-at-cana
+prev_title: "The Miracle at Cana"
+next_slug: the-mother-of-fair-love
+next_title: "The Mother of Fair Love"
+related: [{"slug": "the-multiplication-of-the-loaves-and-fish", "title": "The Multiplication of the Loaves and Fish"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}]
 ---
 
 By Fr. Conor Donnelly

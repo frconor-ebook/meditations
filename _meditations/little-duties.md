@@ -2,6 +2,13 @@
 layout: homily
 title: "Little Duties"
 description: "\"Naaman, army commander to the king of Aram, was a man who enjoyed his master\\'s respect and favor, since through him Yahweh had granted victory to the..."
+reading_time: 24
+tags: ["Work & Ordinary Life"]
+prev_slug: listening
+prev_title: "Listening"
+next_slug: little-things
+next_title: "Little Things"
+related: [{"slug": "little-things", "title": "Little Things"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "making-up-for-lost-time", "title": "Making Up for Lost Time"}]
 ---
 
 By Fr. Conor Donnelly

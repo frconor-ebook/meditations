@@ -2,6 +2,13 @@
 layout: homily
 title: "The Healing of the Man with the Withered Hand"
 description: "We\\'re told in St. Mark, \"Another time Jesus went into the synagogue, and there was a man present whose hand was withered. And they were watching him to..."
+reading_time: 17
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: the-harvest-is-plentiful
+prev_title: "The Harvest is Plentiful"
+next_slug: the-healing-of-the-royal-officials-son
+next_title: "The Healing of the Royal Official\u2019s Son"
+related: [{"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}, {"slug": "the-healing-of-the-royal-officials-son", "title": "The Healing of the Royal Official\u2019s Son"}, {"slug": "the-healing-of-the-ten-lepers", "title": "The Healing of the Ten Lepers"}]
 ---
 
 By Fr. Conor Donnelly

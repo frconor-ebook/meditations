@@ -2,6 +2,13 @@
 layout: homily
 title: "The Parable of the Laborers in the Vineyard"
 description: "\"Now the kingdom of heaven is like a landowner going out at daybreak to hire workers for his vineyard. He made an agreement with the workers for one..."
+reading_time: 20
+tags: ["Parables"]
+prev_slug: the-parable-of-the-wedding-feast
+prev_title: "The Parable of The Wedding Feast"
+next_slug: the-parable-of-the-mustard-seed
+next_title: "The Parable of the Mustard Seed"
+related: [{"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-parable-of-the-mustard-seed", "title": "The Parable of the Mustard Seed"}, {"slug": "the-parable-of-the-rich-man-and-lazarus", "title": "The Parable of the Rich Man and Lazarus"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Naaman the Syrian (Docility)"
 description: "\"Naaman, army commander of the king of Aram, was a man who enjoyed his master\\'s respect and favor, since through him Yahweh had granted victory over the..."
+reading_time: 20
+tags: ["Virtues & Struggle"]
+prev_slug: my-words-will-not-pass-away
+prev_title: "My Words Will Not Pass Away"
+next_slug: naturalness-and-simplicity
+next_title: "Naturalness and Simplicity"
+related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,12 @@
 layout: homily
 title: "Do Not Let Your Hearts Be Troubled"
 description: "\"Do not let your hearts be troubled; believe in God, believe also in me,\" we're told in St. John (John 14:1). \"The peace that must inhabit our hearts..."
+reading_time: 16
+prev_slug: do-not-be-afraid
+prev_title: "Do Not Be Afraid"
+next_slug: doctrinal-formation
+next_title: "Doctrinal Formation"
+related: [{"slug": "even-the-hairs-of-your-head", "title": "Even The Hairs of Your Head"}, {"slug": "hearts-on-fire", "title": "Hearts on Fire"}, {"slug": "the-king-of-hearts", "title": "The King of Hearts"}]
 ---
 
 By Fr. Conor Donnelly

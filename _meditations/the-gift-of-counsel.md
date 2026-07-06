@@ -2,6 +2,13 @@
 layout: homily
 title: "The Gift of Counsel"
 description: "\"These things I have spoken to you are yet dwelling with you, but the Advocate, the Counselor, the Holy Spirit, whom your Father will send in my name, he..."
+reading_time: 18
+tags: ["Holy Spirit"]
+prev_slug: the-friend-of-sinners
+prev_title: "The Friend of Sinners"
+next_slug: the-gift-of-fear-of-the-lord
+next_title: "The Gift of Fear of the Lord"
+related: [{"slug": "the-gift-of-fear-of-the-lord", "title": "The Gift of Fear of the Lord"}, {"slug": "the-gift-of-fortitude", "title": "The Gift of Fortitude"}, {"slug": "the-gift-of-knowledge", "title": "The Gift of Knowledge"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Judas"
 description: "\"When Jesus had said these things, he was troubled in spirit, and he testified and said, 'Amen, Amen, I say to you, one of you shall betray me'\" (John..."
+reading_time: 20
+tags: ["Lent, Holy Week & Easter"]
+prev_slug: joy-in-the-cross-lent
+prev_title: "Joy in the Cross (Lent)"
+next_slug: judgments-charity
+next_title: "Judgments (Charity)"
+related: [{"slug": "ash-wednesday", "title": "Ash Wednesday"}, {"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "easter-joy", "title": "Easter Joy"}]
 ---
 
 By Fr. Conor Donnelly

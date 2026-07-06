@@ -2,6 +2,13 @@
 layout: homily
 title: "Sts. Martha, Mary, and Lazarus"
 description: "\"Lord, if you had been here, my brother would not have died\" (John 11:21). To stress the family spirit of the home in Bethany, where Our Lord loved to be..."
+reading_time: 18
+tags: ["Saints & Feast Days"]
+prev_slug: sts-cyril-and-methodius
+prev_title: "Sts. Cyril and Methodius"
+next_slug: sts-timothy-and-titus
+next_title: "Sts. Timothy and Titus"
+related: [{"slug": "st-john-mary-vianney", "title": "St. John Mary Vianney"}, {"slug": "st-john-mary-vianney-2026", "title": "St. John Mary Vianney (2026)"}, {"slug": "st-mary-magdalene", "title": "St. Mary Magdalene"}]
 ---
 
 By Fr. Conor Donnelly

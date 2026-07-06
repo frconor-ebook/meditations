@@ -2,6 +2,12 @@
 layout: homily
 title: "The Presentation of Our Lord"
 description: "\"And when the day came for them to be purified in keeping with the Law of Moses, they took him up to Jerusalem to present him to the Lord...\" (Luke 2:22)..."
+reading_time: 21
+prev_slug: the-presentation-of-our-lady
+prev_title: "The Presentation of Our Lady"
+next_slug: the-priestly-society-of-the-holy-cross
+next_title: "The Priestly Society of the Holy Cross"
+related: [{"slug": "all-you-peoples-bless-the-lord", "title": "All You Peoples, Bless the Lord"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}]
 ---
 
 By Fr. Conor Donnelly

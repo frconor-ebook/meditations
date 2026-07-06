@@ -2,6 +2,13 @@
 layout: homily
 title: "The Imagination and Interior Mortification"
 description: "\"Unless a man is born again of water and the Holy Spirit, he cannot enter the kingdom of Heaven\" (John 3:3,5). In the Gospel, Our Lord has an intimate..."
+reading_time: 15
+tags: ["Prayer & Interior Life", "Virtues & Struggle"]
+prev_slug: the-holy-rosary
+prev_title: "The Holy Rosary"
+next_slug: the-immaculate-conception-dec-8
+next_title: "The Immaculate Conception (Dec. 8)"
+related: [{"slug": "interior-struggle", "title": "Interior Struggle"}, {"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "mortification", "title": "Mortification"}]
 ---
 
 By Fr. Conor Donnelly

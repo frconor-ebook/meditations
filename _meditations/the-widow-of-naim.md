@@ -2,6 +2,13 @@
 layout: homily
 title: "The Widow of Naim"
 description: "\"It happened that soon afterwards Jesus went to a town called Naim, accompanied by his disciples and a great number of people. Now when he was near the..."
+reading_time: 19
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: the-way-the-truth-and-the-life
+prev_title: "The Way, the Truth, and the Life"
+next_slug: the-widows-mite
+next_title: "The Widow\u2019s Mite"
+related: [{"slug": "the-widows-mite", "title": "The Widow\u2019s Mite"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}]
 ---
 
 By Fr. Conor Donnelly

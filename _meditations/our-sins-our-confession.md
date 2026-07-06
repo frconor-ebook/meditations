@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Sins, Our Confession"
 description: "In the Book of Isaiah, we're told, \"Prepare the way of the Lord in the wilderness, make straight in the desert a highway for our God. Every valley shall..."
+reading_time: 15
+tags: ["Confession & Mercy"]
+prev_slug: our-mother-in-may
+prev_title: "Our Mother in May"
+next_slug: overcoming-human-respect
+next_title: "Overcoming Human Respect"
+related: [{"slug": "on-grace-supernatural-life-and-confession", "title": "On Grace, Supernatural Life, and Confession"}, {"slug": "the-apostolate-of-confession", "title": "The Apostolate of Confession"}, {"slug": "the-paralytic-at-capharnaum-confession", "title": "The Paralytic at Capharnaum (Confession)"}]
 ---
 
 By Fr. Conor Donnelly

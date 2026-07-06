@@ -2,6 +2,13 @@
 layout: homily
 title: "Overcoming Human Respect"
 description: "When Jesus began His public life many of His neighbors and relatives took Him for a madman (Mark 3:21). On His first visit to Nazareth, His relatives deny..."
+reading_time: 19
+tags: ["Apostolate"]
+prev_slug: our-sins-our-confession
+prev_title: "Our Sins, Our Confession"
+next_slug: palm-sunday
+next_title: "Palm Sunday"
+related: [{"slug": "placing-the-cross-on-the-summit-of-all-human-activities", "title": "Placing the Cross on the Summit of All Human Activities"}, {"slug": "fire-on-earth", "title": "Fire On Earth"}, {"slug": "fishers-of-men", "title": "Fishers of Men"}]
 ---
 
 

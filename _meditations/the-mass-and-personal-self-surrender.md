@@ -2,6 +2,13 @@
 layout: homily
 title: "The Mass and Personal Self-Surrender"
 description: "We\\'re told in St. John, \"For God so loved the world that he gave his only begotten Son, that whosoever believes in him should not perish, but have..."
+reading_time: 17
+tags: ["Eucharist & the Mass"]
+prev_slug: the-mass
+prev_title: "The Mass"
+next_slug: the-miracle-at-cana
+next_title: "The Miracle at Cana"
+related: [{"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}, {"slug": "the-mass", "title": "The Mass"}]
 ---
 
 By Fr. Conor Donnelly

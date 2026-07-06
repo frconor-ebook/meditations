@@ -2,6 +2,12 @@
 layout: homily
 title: "Preparing to Receive Jesus"
 description: "\"When he went into Capharnaum, a centurion came up and pleaded with him. 'Sir,' he said, 'my servant is lying at home paralyzed and in great pain.' Jesus..."
+reading_time: 18
+prev_slug: preparing-for-the-jubilee-year-2025
+prev_title: "Preparing for the Jubilee Year 2025"
+next_slug: presence-of-god
+next_title: "Presence of God"
+related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "finding-jesus", "title": "Finding Jesus"}, {"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Lady of Guadalupe"
 description: "\"Go therefore and make disciples of all nations\" (Matt. 28:19). Our Lady appeared to Juan Diego on Tepeyac Hill near Mexico City on the 9^th^ of December..."
+reading_time: 16
+tags: ["Our Lady"]
+prev_slug: our-lady-of-fatima
+prev_title: "Our Lady of Fatima"
+next_slug: our-lady-of-loreto
+next_title: "Our Lady of Loreto"
+related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
 ---
 
 By Fr. Conor Donnelly

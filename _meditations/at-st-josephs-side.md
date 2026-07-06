@@ -2,6 +2,13 @@
 layout: homily
 title: "At St. Joseph\u2019s Side"
 description: "\"And Jacob was the father of Joseph, the husband of Mary, of whom Jesus was born, who is called Christ\" (Matt. 1:16). Among the Jews, as among other..."
+reading_time: 18
+tags: ["St. Joseph", "Saints & Feast Days"]
+prev_slug: ash-wednesday
+prev_title: "Ash Wednesday"
+next_slug: at-the-school-of-mary
+next_title: "At the School of Mary"
+related: [{"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}, {"slug": "self-emptying-and-st-joseph", "title": "Self-emptying and St. Joseph"}, {"slug": "st-joseph-and-the-treasure-of-silence", "title": "St. Joseph and The Treasure of Silence"}]
 ---
 
 By Fr. Conor Donnelly

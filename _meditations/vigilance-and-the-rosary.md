@@ -2,6 +2,13 @@
 layout: homily
 title: "Vigilance and the Rosary"
 description: "We are told in today's Gospel, \"Let your loins be girt about, and your lamps burning, and you yourselves like men waiting for their master's return from..."
+reading_time: 23
+tags: ["Our Lady", "Virtues & Struggle"]
+prev_slug: vanity-he-must-increase
+prev_title: "Vanity (He Must Increase)"
+next_slug: waiting-for-jesus
+next_title: "Waiting for Jesus"
+related: [{"slug": "our-lady-of-the-rosary-2026", "title": "Our Lady of the Rosary (2026)"}, {"slug": "the-holy-rosary", "title": "The Holy Rosary"}, {"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}]
 ---
 
 By Fr. Conor Donnelly

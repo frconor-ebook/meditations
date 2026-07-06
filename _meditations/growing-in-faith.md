@@ -2,6 +2,13 @@
 layout: homily
 title: "Growing in Faith"
 description: "The prophet Habakkuk complains to Our Lord about the apparent triumph of evil over good. He laments the mistreatment of the chosen people by invaders who..."
+reading_time: 16
+tags: ["Virtues & Struggle"]
+prev_slug: great-mothers
+prev_title: "Great Mothers"
+next_slug: guardian-angels-2026
+next_title: "Guardian Angels (2026)"
+related: [{"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}, {"slug": "infectious-faith", "title": "Infectious Faith"}]
 ---
 
 

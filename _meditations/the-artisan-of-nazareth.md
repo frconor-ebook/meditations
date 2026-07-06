@@ -2,6 +2,13 @@
 layout: homily
 title: "The Artisan of Nazareth"
 description: "In the past, man talked less about living his life, and more about saving his soul. But in our age the emphasis has shifted from the religious and the..."
+reading_time: 12
+tags: ["Work & Ordinary Life"]
+prev_slug: the-art-of-prudence
+prev_title: "The Art of Prudence"
+next_slug: the-ascension
+next_title: "The Ascension"
+related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "little-duties", "title": "Little Duties"}, {"slug": "little-things", "title": "Little Things"}]
 ---
 
 

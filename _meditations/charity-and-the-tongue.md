@@ -2,6 +2,13 @@
 layout: homily
 title: "Charity and the Tongue"
 description: "\"Only a few of you, my brothers,\" we are told in St. James, \"should be teachers, bearing in mind that we shall receive a stricter judgment. For we all..."
+reading_time: 22
+tags: ["Virtues & Struggle"]
+prev_slug: charity
+prev_title: "Charity"
+next_slug: charity-versus-anger
+next_title: "Charity versus Anger"
+related: [{"slug": "charity", "title": "Charity"}, {"slug": "charity-versus-anger", "title": "Charity versus Anger"}, {"slug": "judgments-charity", "title": "Judgments (Charity)"}]
 ---
 
 By Fr. Conor Donnelly

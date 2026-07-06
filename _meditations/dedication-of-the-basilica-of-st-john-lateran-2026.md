@@ -2,6 +2,13 @@
 layout: homily
 title: "Dedication of the Basilica of St. John Lateran (2026)"
 description: "The Basilica of St. John Lateran was one of the first churches built by Christians following the early persecutions. It was built in Rome under the..."
+reading_time: 16
+tags: ["Saints & Feast Days"]
+prev_slug: death-and-the-good-use-of-time-2nd-ed
+prev_title: "Death and the Good Use of Time (2nd Ed.)"
+next_slug: deeper-desire
+next_title: "Deeper Desire"
+related: [{"slug": "the-dedication-of-the-basilica-of-st-mary-major", "title": "The Dedication of the Basilica of St. Mary Major"}, {"slug": "st-john", "title": "St. John"}, {"slug": "st-john-2025-ed", "title": "St. John (2025 Ed.)"}]
 ---
 
 

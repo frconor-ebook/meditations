@@ -2,6 +2,13 @@
 layout: homily
 title: "Zeal for Holiness Through Marriage"
 description: "There was a meeting of priests in Singapore one time, and we were talking about vocation. One religious missionary priest from Belgium stood up and said..."
+reading_time: 20
+tags: ["Family & Marriage", "Apostolate"]
+prev_slug: your-one-and-only-father
+prev_title: "Your One and Only Father"
+next_slug: til-death-do-us-part
+next_title: "\u2018Til Death Do Us Part"
+related: [{"slug": "fidelity-in-marriage", "title": "Fidelity in Marriage"}, {"slug": "marriage-and-indissolubility", "title": "Marriage and Indissolubility"}, {"slug": "marriage-in-heaven", "title": "Marriage in Heaven"}]
 ---
 
 By Fr. Conor Donnelly

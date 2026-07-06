@@ -2,6 +2,13 @@
 layout: homily
 title: "Study"
 description: "A number of years ago in Ireland there was an abortion referendum. A professor of mine was quite involved, and I went to see him. He told me that in the..."
+reading_time: 20
+tags: ["Work & Ordinary Life"]
+prev_slug: sts-timothy-and-titus
+prev_title: "Sts. Timothy and Titus"
+next_slug: taking-advantage-of-the-means-of-formation
+next_title: "Taking Advantage of the Means of Formation"
+related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "little-duties", "title": "Little Duties"}, {"slug": "little-things", "title": "Little Things"}]
 ---
 
 By Fr. Conor Donnelly

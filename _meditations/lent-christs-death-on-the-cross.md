@@ -2,6 +2,13 @@
 layout: homily
 title: "Lent: Christ\u2019s Death on the Cross"
 description: "\"From the sixth hour, there was darkness over all the land until the ninth hour. And about the ninth hour, Jesus cried out in a loud voice, 'Eli, Eli..."
+reading_time: 16
+tags: ["Lent, Holy Week & Easter", "The Cross & Suffering", "Death & Eternal Life"]
+prev_slug: learning-to-ask
+prev_title: "Learning to Ask"
+next_slug: life-of-childhood
+next_title: "Life of Childhood"
+related: [{"slug": "joy-in-the-cross-lent", "title": "Joy in the Cross (Lent)"}, {"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Passionately Loving the World"
 description: "\"And God saw all things, and he saw that they were good\" (Gen. 1:31). Our faith gives us a very positive outlook on creation and the world. This..."
+reading_time: 25
+tags: ["Apostolate"]
+prev_slug: passion-for-unity
+prev_title: "Passion for Unity"
+next_slug: patience
+next_title: "Patience"
+related: [{"slug": "raise-the-world", "title": "Raise the World"}, {"slug": "the-light-of-the-world", "title": "The Light of the World"}, {"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing, Loving, and Living the Eucharist"}]
 ---
 
 By Fr. Conor Donnelly

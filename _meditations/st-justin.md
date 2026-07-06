@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Justin"
 description: "St. Justin was born in the region of Samaria at the beginning of the second century. Like some other thinkers of his day, he opened a school of philosophy..."
+reading_time: 17
+tags: ["Saints & Feast Days"]
+prev_slug: st-josephs-holiness-in-ordinary-life
+prev_title: "St. Joseph\u2019s Holiness in Ordinary Life"
+next_slug: st-luke
+next_title: "St. Luke"
+related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
 ---
 
 

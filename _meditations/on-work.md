@@ -2,6 +2,13 @@
 layout: homily
 title: "On Work"
 description: "There was a seminarian once in Singapore who was about to be ordained and he wanted to order some vestments. He checked out some places in the States but..."
+reading_time: 22
+tags: ["Work & Ordinary Life"]
+prev_slug: on-temperance
+prev_title: "On Temperance"
+next_slug: optimism
+next_title: "Optimism"
+related: [{"slug": "the-dignity-of-work", "title": "The Dignity of Work"}, {"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}, {"slug": "the-father-in-the-work", "title": "The Father in the Work"}]
 ---
 
 By Fr. Conor Donnelly

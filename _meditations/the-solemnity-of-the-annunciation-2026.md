@@ -2,6 +2,13 @@
 layout: homily
 title: "The Solemnity of the Annunciation (2026)"
 description: "On today's feast, the Church celebrates the mystery of the Incarnation and, at the same time, the vocation of Our Lady. It was her faithful response to..."
+reading_time: 17
+tags: ["Our Lady"]
+prev_slug: the-solemnity-of-st-joseph-2026
+prev_title: "The Solemnity of St. Joseph (2026)"
+next_slug: the-son-of-the-carpenter
+next_title: "The Son of the Carpenter"
+related: [{"slug": "solemnity-of-the-assumption-2026", "title": "Solemnity of the Assumption (2026)"}, {"slug": "the-annunciation", "title": "The Annunciation"}, {"slug": "the-annunciation-advent", "title": "The Annunciation (Advent)"}]
 ---
 
 

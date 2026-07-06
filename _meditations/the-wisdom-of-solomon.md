@@ -2,6 +2,12 @@
 layout: homily
 title: "The Wisdom of Solomon"
 description: "We're told in the First Book of Kings, \"Now, Yahweh my God, you have made your servant king in succession to David, my father. But I am a very young man..."
+reading_time: 17
+prev_slug: the-will-of-god
+prev_title: "The Will of God"
+next_slug: the-woman-caught-in-adultery
+next_title: "The Woman Caught in Adultery"
+related: [{"slug": "the-gift-of-wisdom", "title": "The Gift of Wisdom"}]
 ---
 
 By Fr. Conor Donnelly

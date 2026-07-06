@@ -2,6 +2,11 @@
 layout: homily
 title: "\u2018Til Death Do Us Part"
 description: "\"God made them male and female. 'For this reason, a man shall leave his father and mother and be joined to his wife, and the two shall become one.' So..."
+reading_time: 15
+tags: ["Family & Marriage"]
+prev_slug: zeal-for-holiness-through-marriage
+prev_title: "Zeal for Holiness Through Marriage"
+related: [{"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}]
 ---
 
 By Fr. Conor Donnelly

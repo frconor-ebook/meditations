@@ -2,6 +2,13 @@
 layout: homily
 title: "The Apostolate of Confession"
 description: "One of the prayers of the Liturgy of Advent says, \"Arouse our hearts, Lord, to make the way ready for your Son. In spite of all our sins, let your..."
+reading_time: 15
+tags: ["Confession & Mercy", "Apostolate"]
+prev_slug: the-apostolate
+prev_title: "The Apostolate"
+next_slug: the-apostolate-of-the-home
+next_title: "The Apostolate of the Home"
+related: [{"slug": "on-grace-supernatural-life-and-confession", "title": "On Grace, Supernatural Life, and Confession"}, {"slug": "our-sins-our-confession", "title": "Our Sins, Our Confession"}, {"slug": "the-paralytic-at-capharnaum-confession", "title": "The Paralytic at Capharnaum (Confession)"}]
 ---
 
 By Fr. Conor Donnelly

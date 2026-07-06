@@ -2,6 +2,13 @@
 layout: homily
 title: "The Holiness in Rest: A Sacred Pause"
 description: "\"The apostles rejoined Jesus and told him all that they had done and taught. And he said to them, 'Come away to some lonely place all by yourselves and..."
+reading_time: 22
+tags: ["Work & Ordinary Life"]
+prev_slug: the-healing-of-the-ten-lepers
+prev_title: "The Healing of the Ten Lepers"
+next_slug: the-holy-innocents
+next_title: "The Holy Innocents"
+related: [{"slug": "st-josephs-holiness-in-ordinary-life", "title": "St. Joseph\u2019s Holiness in Ordinary Life"}, {"slug": "the-sacred-heart-of-jesus", "title": "The Sacred Heart of Jesus"}, {"slug": "the-sacred-heart-of-jesus-2026", "title": "The Sacred Heart of Jesus (2026)"}]
 ---
 
 By Fr. Conor Donnelly

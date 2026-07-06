@@ -2,6 +2,13 @@
 layout: homily
 title: "The Creative Courage of St. Joseph"
 description: "We're told in the Book of Genesis, \"But when all Egypt too began to feel the famine and the people appealed to Pharaoh for food, Pharaoh told the..."
+reading_time: 18
+tags: ["St. Joseph", "Saints & Feast Days"]
+prev_slug: the-conversion-of-st-paul
+prev_title: "The Conversion of St. Paul"
+next_slug: the-crosses-of-love-and-hate
+next_title: "The Crosses of Love and Hate"
+related: [{"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}, {"slug": "self-emptying-and-st-joseph", "title": "Self-emptying and St. Joseph"}]
 ---
 
 By Fr. Conor Donnelly

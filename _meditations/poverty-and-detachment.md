@@ -2,6 +2,13 @@
 layout: homily
 title: "Poverty and Detachment"
 description: "A number of years ago, there was a new Archbishop appointed in Singapore, and he decided to change all the parish priests. So about twenty-eight out of..."
+reading_time: 21
+tags: ["Virtues & Struggle"]
+prev_slug: plan-of-life
+prev_title: "Plan of Life"
+next_slug: pray-for-the-dead
+next_title: "Pray for the Dead"
+related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
 ---
 
 By Fr. Conor Donnelly

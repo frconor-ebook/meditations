@@ -2,6 +2,13 @@
 layout: homily
 title: "The Healing of the Royal Official\u2019s Son"
 description: "\"He went again to Cana in Galilee, where he had changed the water into wine. And there was a royal official whose son was ill at Capernaum. Hearing that..."
+reading_time: 16
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: the-healing-of-the-man-with-the-withered-hand
+prev_title: "The Healing of the Man with the Withered Hand"
+next_slug: the-healing-of-the-ten-lepers
+next_title: "The Healing of the Ten Lepers"
+related: [{"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}, {"slug": "the-healing-of-the-man-with-the-withered-hand", "title": "The Healing of the Man with the Withered Hand"}, {"slug": "the-healing-of-the-ten-lepers", "title": "The Healing of the Ten Lepers"}]
 ---
 
 By Fr. Conor Donnelly

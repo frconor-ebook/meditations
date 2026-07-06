@@ -2,6 +2,13 @@
 layout: homily
 title: "The Seventh Sunday of St. Joseph (2026)"
 description: "The Church has taught on any number of occasions that the saints in heaven offer to God, for the benefit of the faithful, the merits which they won while..."
+reading_time: 16
+tags: ["St. Joseph", "Saints & Feast Days"]
+prev_slug: the-seven-sorrows-of-our-lady
+prev_title: "The Seven Sorrows of Our Lady"
+next_slug: the-shepherds-and-peace
+next_title: "The Shepherds and Peace"
+related: [{"slug": "the-fifth-sunday-of-st-joseph-2026", "title": "The Fifth Sunday of St. Joseph (2026)"}, {"slug": "the-first-sunday-of-st-joseph-2026", "title": "The First Sunday of St. Joseph (2026)"}, {"slug": "the-fourth-sunday-of-st-joseph-2026", "title": "The Fourth Sunday of St. Joseph (2026)"}]
 ---
 
 

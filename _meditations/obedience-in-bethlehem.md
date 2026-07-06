@@ -2,6 +2,13 @@
 layout: homily
 title: "Obedience in Bethlehem"
 description: "\"Now when the angels had gone from them into heaven, the shepherds said to one another, 'Let us go over to Bethlehem and see this event which the Lord has..."
+reading_time: 24
+tags: ["Advent & Christmas", "Virtues & Struggle"]
+prev_slug: obedience
+prev_title: "Obedience"
+next_slug: octave-of-prayer-for-the-unity-of-christians
+next_title: "Octave of Prayer for the Unity of Christians"
+related: [{"slug": "the-decree-of-caesar-augustus-and-the-journey-to-bethlehem", "title": "The Decree of Caesar Augustus and The Journey to Bethlehem"}, {"slug": "the-joy-of-the-journey-to-bethlehem", "title": "The Joy of the Journey to Bethlehem"}, {"slug": "the-light-streaming-from-bethlehem", "title": "The Light Streaming from Bethlehem"}]
 ---
 
 By Fr. Conor Donnelly

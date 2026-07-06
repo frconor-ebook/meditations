@@ -2,6 +2,13 @@
 layout: homily
 title: "The Pharisee and the Publican"
 description: "Jesus spoke the following parable to some people who prided themselves on being upright and despised everyone else. \"Two men went up to the temple to..."
+reading_time: 16
+tags: ["Parables"]
+prev_slug: the-passion-of-st-john-the-baptist
+prev_title: "The Passion of St. John the Baptist"
+next_slug: the-pool-at-bethsaida
+next_title: "The Pool at Bethsaida"
+related: [{"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}, {"slug": "salt-and-light", "title": "Salt and Light"}]
 ---
 
 By Fr. Conor Donnelly

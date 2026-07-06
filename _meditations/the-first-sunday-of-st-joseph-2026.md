@@ -2,6 +2,13 @@
 layout: homily
 title: "The First Sunday of St. Joseph (2026)"
 description: "Devotion to St. Joseph has developed spontaneously from the heart of the Christian people. For many people the Holy Patriarch is an excellent model of..."
+reading_time: 21
+tags: ["St. Joseph", "Saints & Feast Days"]
+prev_slug: the-first-martyrs-of-the-church-of-rome
+prev_title: "The First Martyrs of the Church of Rome"
+next_slug: the-fourth-sunday-of-st-joseph-2026
+next_title: "The Fourth Sunday of St. Joseph (2026)"
+related: [{"slug": "the-fifth-sunday-of-st-joseph-2026", "title": "The Fifth Sunday of St. Joseph (2026)"}, {"slug": "the-fourth-sunday-of-st-joseph-2026", "title": "The Fourth Sunday of St. Joseph (2026)"}, {"slug": "the-second-sunday-of-st-joseph-2026", "title": "The Second Sunday of St. Joseph (2026)"}]
 ---
 
 

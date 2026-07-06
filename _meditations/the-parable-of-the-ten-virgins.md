@@ -2,6 +2,13 @@
 layout: homily
 title: "The Parable of the Ten Virgins"
 description: "\"Then the kingdom of heaven will be like this. Ten wedding attendants took their lamps and went to meet the bridegroom. Five of them were foolish, and..."
+reading_time: 19
+tags: ["Parables"]
+prev_slug: the-parable-of-the-talents
+prev_title: "The Parable of the Talents"
+next_slug: the-parable-of-the-treasure-and-the-pearl
+next_title: "The Parable of the Treasure and the Pearl"
+related: [{"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "the-parable-of-the-mustard-seed", "title": "The Parable of the Mustard Seed"}]
 ---
 
 By Fr. Conor Donnelly

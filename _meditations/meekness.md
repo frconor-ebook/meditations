@@ -2,6 +2,13 @@
 layout: homily
 title: "Meekness"
 description: "\"Now his elder son was in the field, and as he came and drew near to the house, he heard music and dancing. And he called one of the servants and asked..."
+reading_time: 18
+tags: ["Virtues & Struggle"]
+prev_slug: maturity-and-participation-in-the-divine-nature
+prev_title: "Maturity and Participation in the Divine Nature"
+next_slug: mental-prayer
+next_title: "Mental Prayer"
+related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
 ---
 
 By Fr. Conor Donnelly

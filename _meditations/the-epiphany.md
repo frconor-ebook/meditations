@@ -2,6 +2,13 @@
 layout: homily
 title: "The Epiphany"
 description: "\"Now when Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the east came to Jerusalem saying, \\'Where is he who..."
+reading_time: 18
+tags: ["Advent & Christmas"]
+prev_slug: the-end-of-life
+prev_title: "The End of Life"
+next_slug: the-epiphany-of-our-lord-2027-edition
+next_title: "The Epiphany of Our Lord (2027 Edition)"
+related: [{"slug": "the-epiphany-of-our-lord-2027-edition", "title": "The Epiphany of Our Lord (2027 Edition)"}, {"slug": "christmas", "title": "Christmas"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}]
 ---
 
 By Fr. Conor Donnelly

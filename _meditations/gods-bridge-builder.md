@@ -2,6 +2,13 @@
 layout: homily
 title: "God\u2019s Bridge-Builder"
 description: "If the modern mind were to be asked what thing in the world it would like most to discover, it might probably answer: the missing link. Every now and then..."
+reading_time: 15
+tags: ["Apostolate"]
+prev_slug: god-of-consolation
+prev_title: "God of Consolation"
+next_slug: good-anger-and-bad-anger
+next_title: "Good Anger and Bad Anger"
+related: [{"slug": "fire-on-earth", "title": "Fire On Earth"}, {"slug": "fishers-of-men", "title": "Fishers of Men"}, {"slug": "friendship-and-confidence", "title": "Friendship and Confidence"}]
 ---
 
 

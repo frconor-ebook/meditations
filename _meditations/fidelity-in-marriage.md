@@ -2,6 +2,13 @@
 layout: homily
 title: "Fidelity in Marriage"
 description: "A lawyer in Sydney, Australia tells a story of how one day an elderly couple came to see him. He was 86 and she was 83. The lawyer asked them, \"What can I..."
+reading_time: 19
+tags: ["Family & Marriage"]
+prev_slug: feast-of-the-archangels-2026
+prev_title: "Feast of the Archangels (2026)"
+next_slug: finding-jesus
+next_title: "Finding Jesus"
+related: [{"slug": "marriage-and-indissolubility", "title": "Marriage and Indissolubility"}, {"slug": "marriage-in-heaven", "title": "Marriage in Heaven"}, {"slug": "zeal-for-holiness-through-marriage", "title": "Zeal for Holiness Through Marriage"}]
 ---
 
 By Fr. Conor Donnelly

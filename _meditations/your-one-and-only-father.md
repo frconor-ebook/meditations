@@ -2,6 +2,12 @@
 layout: homily
 title: "Your One and Only Father"
 description: "\"I am the good shepherd. The good shepherd lays down his life for his sheep\" (John 10:11-18). And in another place, St. Paul says, \"My little children..."
+reading_time: 17
+prev_slug: you-are-nothing
+prev_title: "You Are Nothing"
+next_slug: zeal-for-holiness-through-marriage
+next_title: "Zeal for Holiness Through Marriage"
+related: [{"slug": "do-not-let-your-hearts-be-troubled", "title": "Do Not Let Your Hearts Be Troubled"}, {"slug": "even-the-hairs-of-your-head", "title": "Even The Hairs of Your Head"}, {"slug": "fathers-day", "title": "Father\u2019s Day"}]
 ---
 
 By Fr. Conor Donnelly

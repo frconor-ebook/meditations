@@ -2,6 +2,13 @@
 layout: homily
 title: "The Good Samaritan"
 description: "Jesus replied, \"A man was once on his way down from Jerusalem to Jericho and fell into the hands of brigands. He took all he had, beat him, and then made..."
+reading_time: 21
+tags: ["Parables"]
+prev_slug: the-gift-of-wisdom
+prev_title: "The Gift of Wisdom"
+next_slug: the-good-shepherd
+next_title: "The Good Shepherd"
+related: [{"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "good-anger-and-bad-anger", "title": "Good Anger and Bad Anger"}]
 ---
 
 By Fr. Conor Donnelly

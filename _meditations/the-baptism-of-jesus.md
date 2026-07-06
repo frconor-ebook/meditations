@@ -2,6 +2,12 @@
 layout: homily
 title: "The Baptism of Jesus"
 description: "\"And when Jesus was baptized, he went up immediately from the water, and behold, the heavens were opened and he saw the Spirit of God descending like a..."
+reading_time: 20
+prev_slug: the-assumption-of-our-lady
+prev_title: "The Assumption of Our Lady"
+next_slug: the-baptism-of-our-lord-2026
+next_title: "The Baptism of Our Lord (2026)"
+related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "finding-jesus", "title": "Finding Jesus"}, {"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}]
 ---
 
 By Fr. Conor Donnelly

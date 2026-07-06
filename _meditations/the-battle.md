@@ -2,6 +2,11 @@
 layout: homily
 title: "The Battle"
 description: "We\\'re told in St. John, \"Amen, amen, I say to you, unless the grain of wheat falls into the ground and dies, it remains alone. But if it dies, it brings..."
+reading_time: 17
+prev_slug: the-baptism-of-the-lord-2027-edition
+prev_title: "The Baptism of the Lord (2027 Edition)"
+next_slug: the-beatitudes
+next_title: "The Beatitudes"
 ---
 
 

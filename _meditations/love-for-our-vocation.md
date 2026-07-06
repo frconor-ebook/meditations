@@ -2,6 +2,13 @@
 layout: homily
 title: "Love for Our Vocation"
 description: "\"Again, the kingdom of heaven is like a merchant in search of fine pearls. When finding one pearl of great value, he went and sold all that he had and..."
+reading_time: 21
+tags: ["Vocation"]
+prev_slug: love-for-chastity
+prev_title: "Love for Chastity"
+next_slug: love-for-peter
+next_title: "Love for Peter"
+related: [{"slug": "discerning-ones-vocation", "title": "Discerning One's Vocation"}, {"slug": "the-vocation-of-our-lady", "title": "The Vocation of Our Lady"}, {"slug": "conjugal-love", "title": "Conjugal Love"}]
 ---
 
 By Fr. Conor Donnelly

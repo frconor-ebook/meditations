@@ -2,6 +2,13 @@
 layout: homily
 title: "Blessed Guadalupe Ortiz de Land\u00e1zuri"
 description: "\"Thus, he chose us in Christ before the foundation of the world, before the world was made to be holy and faultless before him in love\" (Eph. 1:4). Today..."
+reading_time: 19
+tags: ["Saints & Feast Days", "Opus Dei"]
+prev_slug: blessed-are-the-peacemakers
+prev_title: "Blessed Are the Peacemakers"
+next_slug: blessed-alvaro-del-portillo
+next_title: "Blessed \u00c1lvaro del Portillo"
+related: [{"slug": "blessed-alvaro-del-portillo", "title": "Blessed \u00c1lvaro del Portillo"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "blessed-are-the-peacemakers", "title": "Blessed Are the Peacemakers"}]
 ---
 
 By Fr. Conor Donnelly

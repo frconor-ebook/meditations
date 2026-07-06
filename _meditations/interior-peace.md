@@ -2,6 +2,13 @@
 layout: homily
 title: "Interior Peace"
 description: "We\\'re told in the Letter of St. Peter, \"But according to his promise we wait for new heavens and a new earth in which righteousness dwells. Therefore..."
+reading_time: 20
+tags: ["Prayer & Interior Life"]
+prev_slug: infectious-faith
+prev_title: "Infectious Faith"
+next_slug: interior-struggle
+next_title: "Interior Struggle"
+related: [{"slug": "interior-struggle", "title": "Interior Struggle"}, {"slug": "the-imagination-and-interior-mortification", "title": "The Imagination and Interior Mortification"}, {"slug": "our-lady-of-peace", "title": "Our Lady of Peace"}]
 ---
 
 By Fr. Conor Donnelly

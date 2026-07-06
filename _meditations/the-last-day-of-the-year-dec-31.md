@@ -2,6 +2,13 @@
 layout: homily
 title: "The Last Day of the Year (Dec. 31)"
 description: "In the First Reading of today\\'s Mass, the last reading for this year, from the First Letter of St. John, it says, \"Children, this is the final hour\" (1..."
+reading_time: 20
+tags: ["Death & Eternal Life"]
+prev_slug: the-last-day-of-the-liturgical-year-vigilance
+prev_title: "The Last Day of the Liturgical Year (Vigilance)"
+next_slug: the-light-streaming-from-bethlehem
+next_title: "The Light Streaming from Bethlehem"
+related: [{"slug": "the-last-day-of-the-liturgical-year-vigilance", "title": "The Last Day of the Liturgical Year (Vigilance)"}, {"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}, {"slug": "preparing-for-the-jubilee-year-2025", "title": "Preparing for the Jubilee Year 2025"}]
 ---
 
 By Fr. Conor Donnelly

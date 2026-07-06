@@ -2,6 +2,13 @@
 layout: homily
 title: "Knowing God Through Mary"
 description: "There's a magnificent promise in the book of Isaiah where it says, \"The wolf shall dwell with the lamb, and the leopard shall lie down with the kid. They..."
+reading_time: 16
+tags: ["Our Lady"]
+prev_slug: kindness
+prev_title: "Kindness"
+next_slug: knowing-when-to-speak
+next_title: "Knowing When to Speak"
+related: [{"slug": "at-the-school-of-mary", "title": "At the School of Mary"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}, {"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}]
 ---
 
 

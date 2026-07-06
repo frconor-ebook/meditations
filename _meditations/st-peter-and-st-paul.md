@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Peter and St. Paul"
 description: "\"When they had eaten, Jesus said to Simon Peter, 'Simon, son of John, do you love me more than these others do?' He answered, 'Yes, Lord, you know that I..."
+reading_time: 19
+tags: ["Saints & Feast Days", "Church & Priesthood"]
+prev_slug: st-peter
+prev_title: "St. Peter"
+next_slug: st-philip-and-st-james
+next_title: "St. Philip and St. James"
+related: [{"slug": "st-peter", "title": "St. Peter"}, {"slug": "the-chair-of-st-peter", "title": "The Chair of St. Peter"}, {"slug": "love-for-peter", "title": "Love for Peter"}]
 ---
 
 By Fr. Conor Donnelly

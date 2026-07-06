@@ -2,6 +2,13 @@
 layout: homily
 title: "Holy Thursday: The Eucharist"
 description: "\"And when the hour had come, he reclined at table, and the twelve apostles with him. Then he said to them, 'I have longed and longed to eat this Passover..."
+reading_time: 22
+tags: ["Lent, Holy Week & Easter", "Eucharist & the Mass"]
+prev_slug: holy-saturday
+prev_title: "Holy Saturday"
+next_slug: house-on-the-rock
+next_title: "House on the Rock"
+related: [{"slug": "holy-communion-jesus-is-mine", "title": "Holy Communion: Jesus Is Mine"}, {"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing, Loving, and Living the Eucharist"}, {"slug": "our-lady-woman-of-the-eucharist", "title": "Our Lady, Woman of the Eucharist"}]
 ---
 
 By Fr. Conor Donnelly

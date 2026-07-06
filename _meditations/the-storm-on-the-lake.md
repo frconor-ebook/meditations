@@ -2,6 +2,13 @@
 layout: homily
 title: "The Storm on the Lake"
 description: "\"Then he got into the boat followed by his disciples. Suddenly a storm broke over the lake, so violent that the boat was being swamped by the waves. But..."
+reading_time: 19
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: the-speck-in-my-brothers-eye
+prev_title: "The Speck In My Brother's Eye"
+next_slug: the-syrophoenician-woman
+next_title: "The Syrophoenician Woman"
+related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
 ---
 
 By Fr. Conor Donnelly

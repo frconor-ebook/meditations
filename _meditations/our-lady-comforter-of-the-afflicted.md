@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Lady, Comforter of the Afflicted"
 description: "\"As soon as the sound of your greeting reached my ears, the babe in my womb leapt for joy\" (Luke 1:44), so said St. Elizabeth when Our Lady visited her..."
+reading_time: 17
+tags: ["Our Lady"]
+prev_slug: our-lady-the-queen-2026
+prev_title: "Our Lady the Queen (2026)"
+next_slug: our-lady-mother-of-mercy
+next_title: "Our Lady, Mother of Mercy"
+related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
 ---
 
 By Fr. Conor Donnelly

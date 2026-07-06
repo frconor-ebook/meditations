@@ -2,6 +2,13 @@
 layout: homily
 title: "Seeing Christ in Illness"
 description: "\"Now when the sun was setting, all those who had any that were sick with various diseases brought them to him, and he laid his hands on every one of them..."
+reading_time: 18
+tags: ["The Cross & Suffering"]
+prev_slug: seed-and-grace
+prev_title: "Seed and Grace"
+next_slug: self-love-the-enemy
+next_title: "Self-Love: The Enemy"
+related: [{"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}, {"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}, {"slug": "christ-the-king", "title": "Christ the King"}]
 ---
 
 By Fr. Conor Donnelly

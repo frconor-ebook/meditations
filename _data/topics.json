@@ -1,0 +1,2334 @@
+[
+ {
+  "tag": "Our Lady",
+  "anchor": "our-lady",
+  "meditations": [
+   {
+    "title": "At the School of Mary",
+    "slug": "at-the-school-of-mary"
+   },
+   {
+    "title": "In the Heart of Joseph and Mary",
+    "slug": "in-the-heart-of-joseph-and-mary"
+   },
+   {
+    "title": "Knowing God Through Mary",
+    "slug": "knowing-god-through-mary"
+   },
+   {
+    "title": "Mary Mother of God (2027 Edition)",
+    "slug": "mary-mother-of-god-2027-edition"
+   },
+   {
+    "title": "Mary, Mother of God",
+    "slug": "mary-mother-of-god"
+   },
+   {
+    "title": "Mary, Mother of God (2nd Ed.)",
+    "slug": "mary-mother-of-god-2nd-ed"
+   },
+   {
+    "title": "Mother of God and Our Mother",
+    "slug": "mother-of-god-and-our-mother"
+   },
+   {
+    "title": "Mother of the Church",
+    "slug": "mother-of-the-church"
+   },
+   {
+    "title": "Our Lady Help of Christians",
+    "slug": "our-lady-help-of-christians"
+   },
+   {
+    "title": "Our Lady of Africa",
+    "slug": "our-lady-of-africa"
+   },
+   {
+    "title": "Our Lady of Fatima",
+    "slug": "our-lady-of-fatima"
+   },
+   {
+    "title": "Our Lady of Guadalupe",
+    "slug": "our-lady-of-guadalupe"
+   },
+   {
+    "title": "Our Lady of Loreto",
+    "slug": "our-lady-of-loreto"
+   },
+   {
+    "title": "Our Lady of Lourdes",
+    "slug": "our-lady-of-lourdes"
+   },
+   {
+    "title": "Our Lady of Mt. Carmel",
+    "slug": "our-lady-of-mt-carmel"
+   },
+   {
+    "title": "Our Lady of Peace",
+    "slug": "our-lady-of-peace"
+   },
+   {
+    "title": "Our Lady of Pilar",
+    "slug": "our-lady-of-pilar"
+   },
+   {
+    "title": "Our Lady of Ransom",
+    "slug": "our-lady-of-ransom"
+   },
+   {
+    "title": "Our Lady of Ransom (2026)",
+    "slug": "our-lady-of-ransom-2026"
+   },
+   {
+    "title": "Our Lady of Sorrows",
+    "slug": "our-lady-of-sorrows"
+   },
+   {
+    "title": "Our Lady of Sorrows (2026)",
+    "slug": "our-lady-of-sorrows-2026"
+   },
+   {
+    "title": "Our Lady of the Angels",
+    "slug": "our-lady-of-the-angels"
+   },
+   {
+    "title": "Our Lady of the Rosary (2026)",
+    "slug": "our-lady-of-the-rosary-2026"
+   },
+   {
+    "title": "Our Lady of the Snows",
+    "slug": "our-lady-of-the-snows"
+   },
+   {
+    "title": "Our Lady the Queen",
+    "slug": "our-lady-the-queen"
+   },
+   {
+    "title": "Our Lady the Queen (2026)",
+    "slug": "our-lady-the-queen-2026"
+   },
+   {
+    "title": "Our Lady, Comforter of the Afflicted",
+    "slug": "our-lady-comforter-of-the-afflicted"
+   },
+   {
+    "title": "Our Lady, Mother of Mercy",
+    "slug": "our-lady-mother-of-mercy"
+   },
+   {
+    "title": "Our Lady, Woman of the Eucharist",
+    "slug": "our-lady-woman-of-the-eucharist"
+   },
+   {
+    "title": "Our Lady\u2019s Fidelity",
+    "slug": "our-ladys-fidelity"
+   },
+   {
+    "title": "Our Mother in May",
+    "slug": "our-mother-in-may"
+   },
+   {
+    "title": "Solemnity of the Assumption (2026)",
+    "slug": "solemnity-of-the-assumption-2026"
+   },
+   {
+    "title": "The Annunciation",
+    "slug": "the-annunciation"
+   },
+   {
+    "title": "The Annunciation (Advent)",
+    "slug": "the-annunciation-advent"
+   },
+   {
+    "title": "The Assumption of Our Lady",
+    "slug": "the-assumption-of-our-lady"
+   },
+   {
+    "title": "The Holy Name of Mary",
+    "slug": "the-holy-name-of-mary"
+   },
+   {
+    "title": "The Holy Rosary",
+    "slug": "the-holy-rosary"
+   },
+   {
+    "title": "The Immaculate Conception (Dec. 8)",
+    "slug": "the-immaculate-conception-dec-8"
+   },
+   {
+    "title": "The Immaculate Heart of Mary",
+    "slug": "the-immaculate-heart-of-mary"
+   },
+   {
+    "title": "The Immaculate Heart of Mary (2026)",
+    "slug": "the-immaculate-heart-of-mary-2026"
+   },
+   {
+    "title": "The Magnificat",
+    "slug": "the-magnificat"
+   },
+   {
+    "title": "The Mother of Fair Love",
+    "slug": "the-mother-of-fair-love"
+   },
+   {
+    "title": "The Nativity of Our Lady",
+    "slug": "the-nativity-of-our-lady"
+   },
+   {
+    "title": "The Presentation of Our Lady",
+    "slug": "the-presentation-of-our-lady"
+   },
+   {
+    "title": "The Purification of Our Lady",
+    "slug": "the-purification-of-our-lady"
+   },
+   {
+    "title": "The Seven Sorrows of Our Lady",
+    "slug": "the-seven-sorrows-of-our-lady"
+   },
+   {
+    "title": "The Solemnity of the Annunciation (2026)",
+    "slug": "the-solemnity-of-the-annunciation-2026"
+   },
+   {
+    "title": "The Visitation of Our Lady",
+    "slug": "the-visitation-of-our-lady"
+   },
+   {
+    "title": "The Visitation of Our Lady (2026)",
+    "slug": "the-visitation-of-our-lady-2026"
+   },
+   {
+    "title": "The Vocation of Our Lady",
+    "slug": "the-vocation-of-our-lady"
+   },
+   {
+    "title": "Vigilance and the Rosary",
+    "slug": "vigilance-and-the-rosary"
+   }
+  ]
+ },
+ {
+  "tag": "St. Joseph",
+  "anchor": "st-joseph",
+  "meditations": [
+   {
+    "title": "At St. Joseph\u2019s Side",
+    "slug": "at-st-josephs-side"
+   },
+   {
+    "title": "In the Heart of Joseph and Mary",
+    "slug": "in-the-heart-of-joseph-and-mary"
+   },
+   {
+    "title": "Midterm of the Year of St. Joseph",
+    "slug": "midterm-of-the-year-of-st-joseph"
+   },
+   {
+    "title": "Self-emptying and St. Joseph",
+    "slug": "self-emptying-and-st-joseph"
+   },
+   {
+    "title": "St. Joseph and The Treasure of Silence",
+    "slug": "st-joseph-and-the-treasure-of-silence"
+   },
+   {
+    "title": "St. Joseph and the Setbacks of Life",
+    "slug": "st-joseph-and-the-setbacks-of-life"
+   },
+   {
+    "title": "St. Joseph in the Incarnation (Pope Francis)",
+    "slug": "st-joseph-in-the-incarnation-pope-francis"
+   },
+   {
+    "title": "St. Joseph the Worker",
+    "slug": "st-joseph-the-worker"
+   },
+   {
+    "title": "St. Joseph, The Family Man",
+    "slug": "st-joseph-the-family-man"
+   },
+   {
+    "title": "St. Joseph\u2019s Holiness in Ordinary Life",
+    "slug": "st-josephs-holiness-in-ordinary-life"
+   },
+   {
+    "title": "The Creative Courage of St. Joseph",
+    "slug": "the-creative-courage-of-st-joseph"
+   },
+   {
+    "title": "The Fifth Sunday of St. Joseph (2026)",
+    "slug": "the-fifth-sunday-of-st-joseph-2026"
+   },
+   {
+    "title": "The First Sunday of St. Joseph (2026)",
+    "slug": "the-first-sunday-of-st-joseph-2026"
+   },
+   {
+    "title": "The Fourth Sunday of St. Joseph (2026)",
+    "slug": "the-fourth-sunday-of-st-joseph-2026"
+   },
+   {
+    "title": "The Second Sunday of St. Joseph (2026)",
+    "slug": "the-second-sunday-of-st-joseph-2026"
+   },
+   {
+    "title": "The Seventh Sunday of St. Joseph (2026)",
+    "slug": "the-seventh-sunday-of-st-joseph-2026"
+   },
+   {
+    "title": "The Sixth Sunday of St. Joseph (2026)",
+    "slug": "the-sixth-sunday-of-st-joseph-2026"
+   },
+   {
+    "title": "The Solemnity of St. Joseph (2026)",
+    "slug": "the-solemnity-of-st-joseph-2026"
+   },
+   {
+    "title": "The Third Sunday of St. Joseph (2026)",
+    "slug": "the-third-sunday-of-st-joseph-2026"
+   }
+  ]
+ },
+ {
+  "tag": "Saints & Feast Days",
+  "anchor": "saints-feast-days",
+  "meditations": [
+   {
+    "title": "All Saints\u2019 Day",
+    "slug": "all-saints-day"
+   },
+   {
+    "title": "At St. Joseph\u2019s Side",
+    "slug": "at-st-josephs-side"
+   },
+   {
+    "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri",
+    "slug": "blessed-guadalupe-ortiz-de-landazuri"
+   },
+   {
+    "title": "Blessed \u00c1lvaro del Portillo",
+    "slug": "blessed-alvaro-del-portillo"
+   },
+   {
+    "title": "Conversion of St. Paul (2027 Edition)",
+    "slug": "conversion-of-st-paul-2027-edition"
+   },
+   {
+    "title": "Dedication of the Basilica of St. John Lateran (2026)",
+    "slug": "dedication-of-the-basilica-of-st-john-lateran-2026"
+   },
+   {
+    "title": "Feast of the Archangels (2026)",
+    "slug": "feast-of-the-archangels-2026"
+   },
+   {
+    "title": "Guardian Angels (2026)",
+    "slug": "guardian-angels-2026"
+   },
+   {
+    "title": "Love for the Church (St. Pius X)",
+    "slug": "love-for-the-church-st-pius-x"
+   },
+   {
+    "title": "Midterm of the Year of St. Joseph",
+    "slug": "midterm-of-the-year-of-st-joseph"
+   },
+   {
+    "title": "Self-emptying and St. Joseph",
+    "slug": "self-emptying-and-st-joseph"
+   },
+   {
+    "title": "Solemnity of All Saints (2026)",
+    "slug": "solemnity-of-all-saints-2026"
+   },
+   {
+    "title": "St. Andrew",
+    "slug": "st-andrew"
+   },
+   {
+    "title": "St. Augustine",
+    "slug": "st-augustine"
+   },
+   {
+    "title": "St. Barnabas",
+    "slug": "st-barnabas"
+   },
+   {
+    "title": "St. Barnabas (2026)",
+    "slug": "st-barnabas-2026"
+   },
+   {
+    "title": "St. Benedict",
+    "slug": "st-benedict"
+   },
+   {
+    "title": "St. Catherine of Siena",
+    "slug": "st-catherine-of-siena"
+   },
+   {
+    "title": "St. Catherine of Siena (2026)",
+    "slug": "st-catherine-of-siena-2026"
+   },
+   {
+    "title": "St. Dominic",
+    "slug": "st-dominic"
+   },
+   {
+    "title": "St. Francis Xavier",
+    "slug": "st-francis-xavier"
+   },
+   {
+    "title": "St. Francis de Sales",
+    "slug": "st-francis-de-sales"
+   },
+   {
+    "title": "St. Francis of Assisi",
+    "slug": "st-francis-of-assisi"
+   },
+   {
+    "title": "St. Gabriel",
+    "slug": "st-gabriel"
+   },
+   {
+    "title": "St. James",
+    "slug": "st-james"
+   },
+   {
+    "title": "St. James (2026)",
+    "slug": "st-james-2026"
+   },
+   {
+    "title": "St. Joachim and St. Anne",
+    "slug": "st-joachim-and-st-anne"
+   },
+   {
+    "title": "St. John",
+    "slug": "st-john"
+   },
+   {
+    "title": "St. John (2025 Ed.)",
+    "slug": "st-john-2025-ed"
+   },
+   {
+    "title": "St. John Henry Newman on Friendship",
+    "slug": "st-john-henry-newman-on-friendship"
+   },
+   {
+    "title": "St. John Henry Newman on The Laity",
+    "slug": "st-john-henry-newman-on-the-laity"
+   },
+   {
+    "title": "St. John Mary Vianney",
+    "slug": "st-john-mary-vianney"
+   },
+   {
+    "title": "St. John Mary Vianney (2026)",
+    "slug": "st-john-mary-vianney-2026"
+   },
+   {
+    "title": "St. John Paul II",
+    "slug": "st-john-paul-ii"
+   },
+   {
+    "title": "St. John the Baptist",
+    "slug": "st-john-the-baptist"
+   },
+   {
+    "title": "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)",
+    "slug": "st-josemaria-escriva-feast-june-26th"
+   },
+   {
+    "title": "St. Joseph and The Treasure of Silence",
+    "slug": "st-joseph-and-the-treasure-of-silence"
+   },
+   {
+    "title": "St. Joseph and the Setbacks of Life",
+    "slug": "st-joseph-and-the-setbacks-of-life"
+   },
+   {
+    "title": "St. Joseph in the Incarnation (Pope Francis)",
+    "slug": "st-joseph-in-the-incarnation-pope-francis"
+   },
+   {
+    "title": "St. Joseph the Worker",
+    "slug": "st-joseph-the-worker"
+   },
+   {
+    "title": "St. Joseph, The Family Man",
+    "slug": "st-joseph-the-family-man"
+   },
+   {
+    "title": "St. Joseph\u2019s Holiness in Ordinary Life",
+    "slug": "st-josephs-holiness-in-ordinary-life"
+   },
+   {
+    "title": "St. Justin",
+    "slug": "st-justin"
+   },
+   {
+    "title": "St. Luke",
+    "slug": "st-luke"
+   },
+   {
+    "title": "St. Luke (2026)",
+    "slug": "st-luke-2026"
+   },
+   {
+    "title": "St. Mark",
+    "slug": "st-mark"
+   },
+   {
+    "title": "St. Mary Magdalene",
+    "slug": "st-mary-magdalene"
+   },
+   {
+    "title": "St. Mary Magdalene (2026)",
+    "slug": "st-mary-magdalene-2026"
+   },
+   {
+    "title": "St. Matthew",
+    "slug": "st-matthew"
+   },
+   {
+    "title": "St. Matthias",
+    "slug": "st-matthias"
+   },
+   {
+    "title": "St. Monica",
+    "slug": "st-monica"
+   },
+   {
+    "title": "St. Nicholas of Bari",
+    "slug": "st-nicholas-of-bari"
+   },
+   {
+    "title": "St. Patrick, March 17th",
+    "slug": "st-patrick-march-17th"
+   },
+   {
+    "title": "St. Peter",
+    "slug": "st-peter"
+   },
+   {
+    "title": "St. Peter and St. Paul",
+    "slug": "st-peter-and-st-paul"
+   },
+   {
+    "title": "St. Philip and St. James",
+    "slug": "st-philip-and-st-james"
+   },
+   {
+    "title": "St. Pius X",
+    "slug": "st-pius-x"
+   },
+   {
+    "title": "St. Pius X (2026)",
+    "slug": "st-pius-x-2026"
+   },
+   {
+    "title": "St. Severinus and Unity",
+    "slug": "st-severinus-and-unity"
+   },
+   {
+    "title": "St. Simon and St. Jude",
+    "slug": "st-simon-and-st-jude"
+   },
+   {
+    "title": "St. Stephen",
+    "slug": "st-stephen"
+   },
+   {
+    "title": "St. Teresa Benedicta of the Cross (Edith Stein)",
+    "slug": "st-teresa-benedicta-of-the-cross-edith-stein"
+   },
+   {
+    "title": "St. Teresa of Avila",
+    "slug": "st-teresa-of-avila"
+   },
+   {
+    "title": "St. Thomas",
+    "slug": "st-thomas"
+   },
+   {
+    "title": "St. Thomas Aquinas",
+    "slug": "st-thomas-aquinas"
+   },
+   {
+    "title": "St. Thomas More",
+    "slug": "st-thomas-more"
+   },
+   {
+    "title": "St. Thomas More and St. John Fisher (2026)",
+    "slug": "st-thomas-more-and-st-john-fisher-2026"
+   },
+   {
+    "title": "Sts. Cyril and Methodius",
+    "slug": "sts-cyril-and-methodius"
+   },
+   {
+    "title": "Sts. Martha, Mary, and Lazarus",
+    "slug": "sts-martha-mary-and-lazarus"
+   },
+   {
+    "title": "Sts. Timothy and Titus",
+    "slug": "sts-timothy-and-titus"
+   },
+   {
+    "title": "The Anniversary of the First Holy Communion of St. Josemar\u00eda",
+    "slug": "the-anniversary-of-the-first-holy-communion-of-st-josemaria"
+   },
+   {
+    "title": "The Anniversary of the Ordination of St. Josemar\u00eda",
+    "slug": "the-anniversary-of-the-ordination-of-st-josemaria"
+   },
+   {
+    "title": "The Archangels",
+    "slug": "the-archangels"
+   },
+   {
+    "title": "The Birth of St. John the Baptist",
+    "slug": "the-birth-of-st-john-the-baptist"
+   },
+   {
+    "title": "The Birthday of St. Josemar\u00eda Escriv\u00e1",
+    "slug": "the-birthday-of-st-josemaria-escriva"
+   },
+   {
+    "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1",
+    "slug": "the-canonization-of-st-josemaria-escriva"
+   },
+   {
+    "title": "The Chair of St. Peter",
+    "slug": "the-chair-of-st-peter"
+   },
+   {
+    "title": "The Conversion of St. Paul",
+    "slug": "the-conversion-of-st-paul"
+   },
+   {
+    "title": "The Creative Courage of St. Joseph",
+    "slug": "the-creative-courage-of-st-joseph"
+   },
+   {
+    "title": "The Dedication of the Basilica of St. Mary Major",
+    "slug": "the-dedication-of-the-basilica-of-st-mary-major"
+   },
+   {
+    "title": "The Fifth Sunday of St. Joseph (2026)",
+    "slug": "the-fifth-sunday-of-st-joseph-2026"
+   },
+   {
+    "title": "The First Martyrs of the Church of Rome",
+    "slug": "the-first-martyrs-of-the-church-of-rome"
+   },
+   {
+    "title": "The First Sunday of St. Joseph (2026)",
+    "slug": "the-first-sunday-of-st-joseph-2026"
+   },
+   {
+    "title": "The Fourth Sunday of St. Joseph (2026)",
+    "slug": "the-fourth-sunday-of-st-joseph-2026"
+   },
+   {
+    "title": "The Guardian Angels",
+    "slug": "the-guardian-angels"
+   },
+   {
+    "title": "The Martyrdom of St. John the Baptist",
+    "slug": "the-martyrdom-of-st-john-the-baptist"
+   },
+   {
+    "title": "The Passion of St. John the Baptist",
+    "slug": "the-passion-of-st-john-the-baptist"
+   },
+   {
+    "title": "The Second Sunday of St. Joseph (2026)",
+    "slug": "the-second-sunday-of-st-joseph-2026"
+   },
+   {
+    "title": "The Seventh Sunday of St. Joseph (2026)",
+    "slug": "the-seventh-sunday-of-st-joseph-2026"
+   },
+   {
+    "title": "The Sixth Sunday of St. Joseph (2026)",
+    "slug": "the-sixth-sunday-of-st-joseph-2026"
+   },
+   {
+    "title": "The Solemnity of St. Joseph (2026)",
+    "slug": "the-solemnity-of-st-joseph-2026"
+   },
+   {
+    "title": "The Third Sunday of St. Joseph (2026)",
+    "slug": "the-third-sunday-of-st-joseph-2026"
+   }
+  ]
+ },
+ {
+  "tag": "Opus Dei",
+  "anchor": "opus-dei",
+  "meditations": [
+   {
+    "title": "Aunt Carmen",
+    "slug": "aunt-carmen"
+   },
+   {
+    "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri",
+    "slug": "blessed-guadalupe-ortiz-de-landazuri"
+   },
+   {
+    "title": "Blessed \u00c1lvaro del Portillo",
+    "slug": "blessed-alvaro-del-portillo"
+   },
+   {
+    "title": "Fraternity in the Work",
+    "slug": "fraternity-in-the-work"
+   },
+   {
+    "title": "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)",
+    "slug": "st-josemaria-escriva-feast-june-26th"
+   },
+   {
+    "title": "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of",
+    "slug": "the-anniversary-of-the-election-of-don-fernando-ocariz-as-the-prelate-of"
+   },
+   {
+    "title": "The Anniversary of the Establishment of the Prelature",
+    "slug": "the-anniversary-of-the-establishment-of-the-prelature"
+   },
+   {
+    "title": "The Anniversary of the First Holy Communion of St. Josemar\u00eda",
+    "slug": "the-anniversary-of-the-first-holy-communion-of-st-josemaria"
+   },
+   {
+    "title": "The Anniversary of the Ordination of St. Josemar\u00eda",
+    "slug": "the-anniversary-of-the-ordination-of-st-josemaria"
+   },
+   {
+    "title": "The Anniversary of the Ordination of the First Three Priests of the Prelature",
+    "slug": "the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature"
+   },
+   {
+    "title": "The Anniversary of the Women of the Prelature",
+    "slug": "the-anniversary-of-the-women-of-the-prelature"
+   },
+   {
+    "title": "The Birthday of St. Josemar\u00eda Escriv\u00e1",
+    "slug": "the-birthday-of-st-josemaria-escriva"
+   },
+   {
+    "title": "The Birthday of the Prelate (Don Fernando)",
+    "slug": "the-birthday-of-the-prelate-don-fernando"
+   },
+   {
+    "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1",
+    "slug": "the-canonization-of-st-josemaria-escriva"
+   },
+   {
+    "title": "The Father in the Work",
+    "slug": "the-father-in-the-work"
+   },
+   {
+    "title": "The Grandfather",
+    "slug": "the-grandfather"
+   },
+   {
+    "title": "The Grandmother",
+    "slug": "the-grandmother"
+   },
+   {
+    "title": "The Priestly Society of the Holy Cross",
+    "slug": "the-priestly-society-of-the-holy-cross"
+   },
+   {
+    "title": "The Saint\u2019s Day of the Prelate",
+    "slug": "the-saints-day-of-the-prelate"
+   }
+  ]
+ },
+ {
+  "tag": "Advent & Christmas",
+  "anchor": "advent-christmas",
+  "meditations": [
+   {
+    "title": "Christmas",
+    "slug": "christmas"
+   },
+   {
+    "title": "Christmas Day, 2025",
+    "slug": "christmas-day-2025"
+   },
+   {
+    "title": "Come, Lord Jesus",
+    "slug": "come-lord-jesus"
+   },
+   {
+    "title": "In Expectation of Our Lord",
+    "slug": "in-expectation-of-our-lord"
+   },
+   {
+    "title": "Obedience in Bethlehem",
+    "slug": "obedience-in-bethlehem"
+   },
+   {
+    "title": "Prince of Peace",
+    "slug": "prince-of-peace"
+   },
+   {
+    "title": "Shepherds and Wise Men",
+    "slug": "shepherds-and-wise-men"
+   },
+   {
+    "title": "Simeon and Anna",
+    "slug": "simeon-and-anna"
+   },
+   {
+    "title": "St. Joseph in the Incarnation (Pope Francis)",
+    "slug": "st-joseph-in-the-incarnation-pope-francis"
+   },
+   {
+    "title": "The Adoration of the Kings",
+    "slug": "the-adoration-of-the-kings"
+   },
+   {
+    "title": "The Annunciation (Advent)",
+    "slug": "the-annunciation-advent"
+   },
+   {
+    "title": "The Beauty of the Manger",
+    "slug": "the-beauty-of-the-manger"
+   },
+   {
+    "title": "The Decree of Caesar Augustus and The Journey to Bethlehem",
+    "slug": "the-decree-of-caesar-augustus-and-the-journey-to-bethlehem"
+   },
+   {
+    "title": "The Epiphany",
+    "slug": "the-epiphany"
+   },
+   {
+    "title": "The Epiphany of Our Lord (2027 Edition)",
+    "slug": "the-epiphany-of-our-lord-2027-edition"
+   },
+   {
+    "title": "The Feast of the Holy Innocents, 2025",
+    "slug": "the-feast-of-the-holy-innocents-2025"
+   },
+   {
+    "title": "The Holy Innocents",
+    "slug": "the-holy-innocents"
+   },
+   {
+    "title": "The Joy of the Journey to Bethlehem",
+    "slug": "the-joy-of-the-journey-to-bethlehem"
+   },
+   {
+    "title": "The Light Streaming from Bethlehem",
+    "slug": "the-light-streaming-from-bethlehem"
+   },
+   {
+    "title": "The Mystery of the Incarnation",
+    "slug": "the-mystery-of-the-incarnation"
+   },
+   {
+    "title": "The Prophecy of Simeon",
+    "slug": "the-prophecy-of-simeon"
+   },
+   {
+    "title": "The Shepherds and Peace",
+    "slug": "the-shepherds-and-peace"
+   },
+   {
+    "title": "Waiting for Jesus",
+    "slug": "waiting-for-jesus"
+   },
+   {
+    "title": "Waiting for The Lord",
+    "slug": "waiting-for-the-lord"
+   }
+  ]
+ },
+ {
+  "tag": "Lent, Holy Week & Easter",
+  "anchor": "lent-holy-week-easter",
+  "meditations": [
+   {
+    "title": "Ash Wednesday",
+    "slug": "ash-wednesday"
+   },
+   {
+    "title": "Easter Faith",
+    "slug": "easter-faith"
+   },
+   {
+    "title": "Easter Joy",
+    "slug": "easter-joy"
+   },
+   {
+    "title": "Easter Sunday",
+    "slug": "easter-sunday"
+   },
+   {
+    "title": "Emmaus",
+    "slug": "emmaus"
+   },
+   {
+    "title": "Forming Saints in the Domestic Church (Easter)",
+    "slug": "forming-saints-in-the-domestic-church-easter"
+   },
+   {
+    "title": "From Tabor to Calvary",
+    "slug": "from-tabor-to-calvary"
+   },
+   {
+    "title": "Gamblers On Calvary",
+    "slug": "gamblers-on-calvary"
+   },
+   {
+    "title": "Good Friday of the Lord\u2019s Passion",
+    "slug": "good-friday-of-the-lords-passion"
+   },
+   {
+    "title": "Holy Saturday",
+    "slug": "holy-saturday"
+   },
+   {
+    "title": "Holy Thursday: The Eucharist",
+    "slug": "holy-thursday-the-eucharist"
+   },
+   {
+    "title": "Humility (Lent)",
+    "slug": "humility-lent"
+   },
+   {
+    "title": "I Thirst",
+    "slug": "i-thirst"
+   },
+   {
+    "title": "Joy in the Cross (Lent)",
+    "slug": "joy-in-the-cross-lent"
+   },
+   {
+    "title": "Judas",
+    "slug": "judas"
+   },
+   {
+    "title": "Lent: Christ\u2019s Death on the Cross",
+    "slug": "lent-christs-death-on-the-cross"
+   },
+   {
+    "title": "Palm Sunday",
+    "slug": "palm-sunday"
+   },
+   {
+    "title": "The Ascension",
+    "slug": "the-ascension"
+   },
+   {
+    "title": "The Crucifixion",
+    "slug": "the-crucifixion"
+   },
+   {
+    "title": "The Good Thief",
+    "slug": "the-good-thief"
+   },
+   {
+    "title": "The Passion of St. John the Baptist",
+    "slug": "the-passion-of-st-john-the-baptist"
+   },
+   {
+    "title": "The Resurrection",
+    "slug": "the-resurrection"
+   },
+   {
+    "title": "The Washing of the Feet",
+    "slug": "the-washing-of-the-feet"
+   }
+  ]
+ },
+ {
+  "tag": "The Cross & Suffering",
+  "anchor": "the-cross-suffering",
+  "meditations": [
+   {
+    "title": "Crises: Be Not Afraid",
+    "slug": "crises-be-not-afraid"
+   },
+   {
+    "title": "Cross Rejection",
+    "slug": "cross-rejection"
+   },
+   {
+    "title": "Forming Saints in the Domestic Church (The Cross)",
+    "slug": "forming-saints-in-the-domestic-church-the-cross"
+   },
+   {
+    "title": "From Tabor to Calvary",
+    "slug": "from-tabor-to-calvary"
+   },
+   {
+    "title": "Gamblers On Calvary",
+    "slug": "gamblers-on-calvary"
+   },
+   {
+    "title": "Joy in the Cross (Lent)",
+    "slug": "joy-in-the-cross-lent"
+   },
+   {
+    "title": "Lent: Christ\u2019s Death on the Cross",
+    "slug": "lent-christs-death-on-the-cross"
+   },
+   {
+    "title": "Love for the Cross",
+    "slug": "love-for-the-cross"
+   },
+   {
+    "title": "Patience in Adversity",
+    "slug": "patience-in-adversity"
+   },
+   {
+    "title": "Placing the Cross on the Summit of All Human Activities",
+    "slug": "placing-the-cross-on-the-summit-of-all-human-activities"
+   },
+   {
+    "title": "Seeing Christ in Illness",
+    "slug": "seeing-christ-in-illness"
+   },
+   {
+    "title": "Sick and You Visited Me",
+    "slug": "sick-and-you-visited-me"
+   },
+   {
+    "title": "St. Joseph and the Setbacks of Life",
+    "slug": "st-joseph-and-the-setbacks-of-life"
+   },
+   {
+    "title": "St. Teresa Benedicta of the Cross (Edith Stein)",
+    "slug": "st-teresa-benedicta-of-the-cross-edith-stein"
+   },
+   {
+    "title": "The Crosses of Love and Hate",
+    "slug": "the-crosses-of-love-and-hate"
+   },
+   {
+    "title": "The Crucifixion",
+    "slug": "the-crucifixion"
+   },
+   {
+    "title": "The Exaltation of the Holy Cross",
+    "slug": "the-exaltation-of-the-holy-cross"
+   },
+   {
+    "title": "The Exaltation of the Holy Cross (2026)",
+    "slug": "the-exaltation-of-the-holy-cross-2026"
+   },
+   {
+    "title": "The Priestly Society of the Holy Cross",
+    "slug": "the-priestly-society-of-the-holy-cross"
+   },
+   {
+    "title": "The Sanctification of Low Moments",
+    "slug": "the-sanctification-of-low-moments"
+   }
+  ]
+ },
+ {
+  "tag": "Holy Spirit",
+  "anchor": "holy-spirit",
+  "meditations": [
+   {
+    "title": "Fruits of the Holy Spirit",
+    "slug": "fruits-of-the-holy-spirit"
+   },
+   {
+    "title": "Pentecost Sunday",
+    "slug": "pentecost-sunday"
+   },
+   {
+    "title": "The Gift of Counsel",
+    "slug": "the-gift-of-counsel"
+   },
+   {
+    "title": "The Gift of Fear of the Lord",
+    "slug": "the-gift-of-fear-of-the-lord"
+   },
+   {
+    "title": "The Gift of Fortitude",
+    "slug": "the-gift-of-fortitude"
+   },
+   {
+    "title": "The Gift of Knowledge",
+    "slug": "the-gift-of-knowledge"
+   },
+   {
+    "title": "The Gift of Piety",
+    "slug": "the-gift-of-piety"
+   },
+   {
+    "title": "The Gift of Understanding",
+    "slug": "the-gift-of-understanding"
+   },
+   {
+    "title": "The Gift of Wisdom",
+    "slug": "the-gift-of-wisdom"
+   }
+  ]
+ },
+ {
+  "tag": "Eucharist & the Mass",
+  "anchor": "eucharist-the-mass",
+  "meditations": [
+   {
+    "title": "Corpus Christi (2026)",
+    "slug": "corpus-christi-2026"
+   },
+   {
+    "title": "Corpus Christi (The Body and Blood of Our Lord)",
+    "slug": "corpus-christi-the-body-and-blood-of-our-lord"
+   },
+   {
+    "title": "Daily Mass",
+    "slug": "daily-mass"
+   },
+   {
+    "title": "Holy Communion: Jesus Is Mine",
+    "slug": "holy-communion-jesus-is-mine"
+   },
+   {
+    "title": "Holy Thursday: The Eucharist",
+    "slug": "holy-thursday-the-eucharist"
+   },
+   {
+    "title": "It Is Right and Just",
+    "slug": "it-is-right-and-just"
+   },
+   {
+    "title": "Jesus Christ, The Eternal High Priest",
+    "slug": "jesus-christ-the-eternal-high-priest"
+   },
+   {
+    "title": "Knowing, Loving, and Living the Eucharist",
+    "slug": "knowing-loving-and-living-the-eucharist"
+   },
+   {
+    "title": "Our Lady, Woman of the Eucharist",
+    "slug": "our-lady-woman-of-the-eucharist"
+   },
+   {
+    "title": "Thanksgiving After Mass",
+    "slug": "thanksgiving-after-mass"
+   },
+   {
+    "title": "The Anniversary of the First Holy Communion of St. Josemar\u00eda",
+    "slug": "the-anniversary-of-the-first-holy-communion-of-st-josemaria"
+   },
+   {
+    "title": "The Bread Our Heavenly Mother Gives Us",
+    "slug": "the-bread-our-heavenly-mother-gives-us"
+   },
+   {
+    "title": "The Bread of Life",
+    "slug": "the-bread-of-life"
+   },
+   {
+    "title": "The Eternal High Priest",
+    "slug": "the-eternal-high-priest"
+   },
+   {
+    "title": "The Eucharist and Love",
+    "slug": "the-eucharist-and-love"
+   },
+   {
+    "title": "The Eucharist\u2013Faith and Hope",
+    "slug": "the-eucharistfaith-and-hope"
+   },
+   {
+    "title": "The Mass",
+    "slug": "the-mass"
+   },
+   {
+    "title": "The Mass and Personal Self-Surrender",
+    "slug": "the-mass-and-personal-self-surrender"
+   },
+   {
+    "title": "The Precious Blood of Christ",
+    "slug": "the-precious-blood-of-christ"
+   },
+   {
+    "title": "The Real Presence",
+    "slug": "the-real-presence"
+   }
+  ]
+ },
+ {
+  "tag": "Confession & Mercy",
+  "anchor": "confession-mercy",
+  "meditations": [
+   {
+    "title": "A Merciful Messiah",
+    "slug": "a-merciful-messiah"
+   },
+   {
+    "title": "Blessed Are The Merciful",
+    "slug": "blessed-are-the-merciful"
+   },
+   {
+    "title": "Contrition",
+    "slug": "contrition"
+   },
+   {
+    "title": "Divine Mercy Sunday",
+    "slug": "divine-mercy-sunday"
+   },
+   {
+    "title": "Forgiveness",
+    "slug": "forgiveness"
+   },
+   {
+    "title": "On Grace, Supernatural Life, and Confession",
+    "slug": "on-grace-supernatural-life-and-confession"
+   },
+   {
+    "title": "Our Lady, Mother of Mercy",
+    "slug": "our-lady-mother-of-mercy"
+   },
+   {
+    "title": "Our Sins, Our Confession",
+    "slug": "our-sins-our-confession"
+   },
+   {
+    "title": "The Apostolate of Confession",
+    "slug": "the-apostolate-of-confession"
+   },
+   {
+    "title": "The Friend of Sinners",
+    "slug": "the-friend-of-sinners"
+   },
+   {
+    "title": "The Paralytic at Capharnaum (Confession)",
+    "slug": "the-paralytic-at-capharnaum-confession"
+   },
+   {
+    "title": "The Prodigal Son",
+    "slug": "the-prodigal-son"
+   },
+   {
+    "title": "The Prodigal Son (2025 Edition)",
+    "slug": "the-prodigal-son-2025-edition"
+   },
+   {
+    "title": "The Sacrament of Growth and Mercy",
+    "slug": "the-sacrament-of-growth-and-mercy"
+   },
+   {
+    "title": "The Unmerciful Servant",
+    "slug": "the-unmerciful-servant"
+   },
+   {
+    "title": "The Woman Caught in Adultery",
+    "slug": "the-woman-caught-in-adultery"
+   },
+   {
+    "title": "Unlimited Forgiveness",
+    "slug": "unlimited-forgiveness"
+   }
+  ]
+ },
+ {
+  "tag": "Prayer & Interior Life",
+  "anchor": "prayer-interior-life",
+  "meditations": [
+   {
+    "title": "Abandonment",
+    "slug": "abandonment"
+   },
+   {
+    "title": "Contemplative: It Is Good That We Are Here",
+    "slug": "contemplative-it-is-good-that-we-are-here"
+   },
+   {
+    "title": "Divine Filiation",
+    "slug": "divine-filiation"
+   },
+   {
+    "title": "Divine Intimacies",
+    "slug": "divine-intimacies"
+   },
+   {
+    "title": "Examination of Conscience",
+    "slug": "examination-of-conscience"
+   },
+   {
+    "title": "Interior Peace",
+    "slug": "interior-peace"
+   },
+   {
+    "title": "Interior Struggle",
+    "slug": "interior-struggle"
+   },
+   {
+    "title": "Learning to Ask",
+    "slug": "learning-to-ask"
+   },
+   {
+    "title": "Life of Childhood",
+    "slug": "life-of-childhood"
+   },
+   {
+    "title": "Listening",
+    "slug": "listening"
+   },
+   {
+    "title": "Mental Prayer",
+    "slug": "mental-prayer"
+   },
+   {
+    "title": "Octave of Prayer for the Unity of Christians",
+    "slug": "octave-of-prayer-for-the-unity-of-christians"
+   },
+   {
+    "title": "Our Father God",
+    "slug": "our-father-god"
+   },
+   {
+    "title": "Personal Prayer",
+    "slug": "personal-prayer"
+   },
+   {
+    "title": "Peter and Prayer",
+    "slug": "peter-and-prayer"
+   },
+   {
+    "title": "Plan of Life",
+    "slug": "plan-of-life"
+   },
+   {
+    "title": "Prayer of Petition",
+    "slug": "prayer-of-petition"
+   },
+   {
+    "title": "Preparing for Retreat",
+    "slug": "preparing-for-retreat"
+   },
+   {
+    "title": "Presence of God",
+    "slug": "presence-of-god"
+   },
+   {
+    "title": "Souls of Prayer",
+    "slug": "souls-of-prayer"
+   },
+   {
+    "title": "Spiritual Childhood",
+    "slug": "spiritual-childhood"
+   },
+   {
+    "title": "Spiritual Direction",
+    "slug": "spiritual-direction"
+   },
+   {
+    "title": "Thanksgiving",
+    "slug": "thanksgiving"
+   },
+   {
+    "title": "Thanksgiving After Mass",
+    "slug": "thanksgiving-after-mass"
+   },
+   {
+    "title": "Thanksgiving Day (2026)",
+    "slug": "thanksgiving-day-2026"
+   },
+   {
+    "title": "The Imagination and Interior Mortification",
+    "slug": "the-imagination-and-interior-mortification"
+   },
+   {
+    "title": "True Prayer",
+    "slug": "true-prayer"
+   }
+  ]
+ },
+ {
+  "tag": "Virtues & Struggle",
+  "anchor": "virtues-struggle",
+  "meditations": [
+   {
+    "title": "Against All Hope",
+    "slug": "against-all-hope"
+   },
+   {
+    "title": "Anchored in Hope",
+    "slug": "anchored-in-hope"
+   },
+   {
+    "title": "Charity",
+    "slug": "charity"
+   },
+   {
+    "title": "Charity and the Tongue",
+    "slug": "charity-and-the-tongue"
+   },
+   {
+    "title": "Charity versus Anger",
+    "slug": "charity-versus-anger"
+   },
+   {
+    "title": "Cheerfulness",
+    "slug": "cheerfulness"
+   },
+   {
+    "title": "Christian Virtues",
+    "slug": "christian-virtues"
+   },
+   {
+    "title": "Easter Faith",
+    "slug": "easter-faith"
+   },
+   {
+    "title": "Education In Social Virtues",
+    "slug": "education-in-social-virtues"
+   },
+   {
+    "title": "Faithfulness",
+    "slug": "faithfulness"
+   },
+   {
+    "title": "Fraternal Correction",
+    "slug": "fraternal-correction"
+   },
+   {
+    "title": "Freedom",
+    "slug": "freedom"
+   },
+   {
+    "title": "Generosity",
+    "slug": "generosity"
+   },
+   {
+    "title": "Generosity Towards God",
+    "slug": "generosity-towards-god"
+   },
+   {
+    "title": "Generosity in Correspondence",
+    "slug": "generosity-in-correspondence"
+   },
+   {
+    "title": "Gratitude for Pope Benedict XVI",
+    "slug": "gratitude-for-pope-benedict-xvi"
+   },
+   {
+    "title": "Growing in Faith",
+    "slug": "growing-in-faith"
+   },
+   {
+    "title": "Happy Are the Meek",
+    "slug": "happy-are-the-meek"
+   },
+   {
+    "title": "Heaven and Vigilance",
+    "slug": "heaven-and-vigilance"
+   },
+   {
+    "title": "Holy Purity",
+    "slug": "holy-purity"
+   },
+   {
+    "title": "Humility",
+    "slug": "humility"
+   },
+   {
+    "title": "Humility (Lent)",
+    "slug": "humility-lent"
+   },
+   {
+    "title": "Humility of Instruments",
+    "slug": "humility-of-instruments"
+   },
+   {
+    "title": "Humility: Relying on God",
+    "slug": "humility-relying-on-god"
+   },
+   {
+    "title": "Increase My Faith",
+    "slug": "increase-my-faith"
+   },
+   {
+    "title": "Infectious Faith",
+    "slug": "infectious-faith"
+   },
+   {
+    "title": "Interior Struggle",
+    "slug": "interior-struggle"
+   },
+   {
+    "title": "Judgments (Charity)",
+    "slug": "judgments-charity"
+   },
+   {
+    "title": "Kindness",
+    "slug": "kindness"
+   },
+   {
+    "title": "Life of Faith",
+    "slug": "life-of-faith"
+   },
+   {
+    "title": "Love for Chastity",
+    "slug": "love-for-chastity"
+   },
+   {
+    "title": "Loyalty",
+    "slug": "loyalty"
+   },
+   {
+    "title": "Lukewarmness",
+    "slug": "lukewarmness"
+   },
+   {
+    "title": "Magnanimity",
+    "slug": "magnanimity"
+   },
+   {
+    "title": "Making Good Decisions or The Virtue of Prudence",
+    "slug": "making-good-decisions-or-the-virtue-of-prudence"
+   },
+   {
+    "title": "Meekness",
+    "slug": "meekness"
+   },
+   {
+    "title": "Mortification",
+    "slug": "mortification"
+   },
+   {
+    "title": "Much Will Be Demanded: Responsibility",
+    "slug": "much-will-be-demanded-responsibility"
+   },
+   {
+    "title": "Naaman the Syrian (Docility)",
+    "slug": "naaman-the-syrian-docility"
+   },
+   {
+    "title": "Naturalness and Simplicity",
+    "slug": "naturalness-and-simplicity"
+   },
+   {
+    "title": "Obedience",
+    "slug": "obedience"
+   },
+   {
+    "title": "Obedience in Bethlehem",
+    "slug": "obedience-in-bethlehem"
+   },
+   {
+    "title": "On Hope",
+    "slug": "on-hope"
+   },
+   {
+    "title": "On Temperance",
+    "slug": "on-temperance"
+   },
+   {
+    "title": "Optimism",
+    "slug": "optimism"
+   },
+   {
+    "title": "Order",
+    "slug": "order"
+   },
+   {
+    "title": "Patience",
+    "slug": "patience"
+   },
+   {
+    "title": "Patience in Adversity",
+    "slug": "patience-in-adversity"
+   },
+   {
+    "title": "Perseverance",
+    "slug": "perseverance"
+   },
+   {
+    "title": "Poverty and Detachment",
+    "slug": "poverty-and-detachment"
+   },
+   {
+    "title": "Purity of Soul",
+    "slug": "purity-of-soul"
+   },
+   {
+    "title": "Purity of the Heart",
+    "slug": "purity-of-the-heart"
+   },
+   {
+    "title": "Self-Love: The Enemy",
+    "slug": "self-love-the-enemy"
+   },
+   {
+    "title": "Self-denial",
+    "slug": "self-denial"
+   },
+   {
+    "title": "Sincerity, Love for Truth",
+    "slug": "sincerity-love-for-truth"
+   },
+   {
+    "title": "Temperance",
+    "slug": "temperance"
+   },
+   {
+    "title": "Temptation",
+    "slug": "temptation"
+   },
+   {
+    "title": "Tepidity",
+    "slug": "tepidity"
+   },
+   {
+    "title": "The Art of Prudence",
+    "slug": "the-art-of-prudence"
+   },
+   {
+    "title": "The Depths of Simplicity",
+    "slug": "the-depths-of-simplicity"
+   },
+   {
+    "title": "The Eucharist\u2013Faith and Hope",
+    "slug": "the-eucharistfaith-and-hope"
+   },
+   {
+    "title": "The Faith of Abraham",
+    "slug": "the-faith-of-abraham"
+   },
+   {
+    "title": "The Gift of Fortitude",
+    "slug": "the-gift-of-fortitude"
+   },
+   {
+    "title": "The Imagination and Interior Mortification",
+    "slug": "the-imagination-and-interior-mortification"
+   },
+   {
+    "title": "The Last Day of the Liturgical Year (Vigilance)",
+    "slug": "the-last-day-of-the-liturgical-year-vigilance"
+   },
+   {
+    "title": "The Obedience of Jesus",
+    "slug": "the-obedience-of-jesus"
+   },
+   {
+    "title": "The War With Temptation",
+    "slug": "the-war-with-temptation"
+   },
+   {
+    "title": "Thirsting for Justice",
+    "slug": "thirsting-for-justice"
+   },
+   {
+    "title": "True and False Freedom",
+    "slug": "true-and-false-freedom"
+   },
+   {
+    "title": "Vigilance and the Rosary",
+    "slug": "vigilance-and-the-rosary"
+   },
+   {
+    "title": "Walking on the Water\u2013\u2013Faith",
+    "slug": "walking-on-the-waterfaith"
+   },
+   {
+    "title": "Watchfulness",
+    "slug": "watchfulness"
+   },
+   {
+    "title": "With the Readiness of Love\u2014Vigilance",
+    "slug": "with-the-readiness-of-lovevigilance"
+   }
+  ]
+ },
+ {
+  "tag": "Family & Marriage",
+  "anchor": "family-marriage",
+  "meditations": [
+   {
+    "title": "Children\u2014A Gift of God",
+    "slug": "childrena-gift-of-god"
+   },
+   {
+    "title": "Conjugal Love",
+    "slug": "conjugal-love"
+   },
+   {
+    "title": "Defending the Family",
+    "slug": "defending-the-family"
+   },
+   {
+    "title": "Education In Social Virtues",
+    "slug": "education-in-social-virtues"
+   },
+   {
+    "title": "Egypt and the Holy Family",
+    "slug": "egypt-and-the-holy-family"
+   },
+   {
+    "title": "Father\u2019s Day",
+    "slug": "fathers-day"
+   },
+   {
+    "title": "Fidelity in Marriage",
+    "slug": "fidelity-in-marriage"
+   },
+   {
+    "title": "Forming Saints in the Domestic Church (Bethany)",
+    "slug": "forming-saints-in-the-domestic-church-bethany"
+   },
+   {
+    "title": "Forming Saints in the Domestic Church (Easter)",
+    "slug": "forming-saints-in-the-domestic-church-easter"
+   },
+   {
+    "title": "Forming Saints in the Domestic Church (The Cross)",
+    "slug": "forming-saints-in-the-domestic-church-the-cross"
+   },
+   {
+    "title": "Great Mothers",
+    "slug": "great-mothers"
+   },
+   {
+    "title": "Heart in the Family",
+    "slug": "heart-in-the-family"
+   },
+   {
+    "title": "Marriage and Indissolubility",
+    "slug": "marriage-and-indissolubility"
+   },
+   {
+    "title": "Marriage in Heaven",
+    "slug": "marriage-in-heaven"
+   },
+   {
+    "title": "Mother\u2019s Day",
+    "slug": "mothers-day"
+   },
+   {
+    "title": "St. Joseph, The Family Man",
+    "slug": "st-joseph-the-family-man"
+   },
+   {
+    "title": "The Feast of the Holy Family",
+    "slug": "the-feast-of-the-holy-family"
+   },
+   {
+    "title": "Zeal for Holiness Through Marriage",
+    "slug": "zeal-for-holiness-through-marriage"
+   },
+   {
+    "title": "\u2018Til Death Do Us Part",
+    "slug": "til-death-do-us-part"
+   }
+  ]
+ },
+ {
+  "tag": "Parables",
+  "anchor": "parables",
+  "meditations": [
+   {
+    "title": "House on the Rock",
+    "slug": "house-on-the-rock"
+   },
+   {
+    "title": "Salt That Has Lost Its Savor",
+    "slug": "salt-that-has-lost-its-savor"
+   },
+   {
+    "title": "Salt and Light",
+    "slug": "salt-and-light"
+   },
+   {
+    "title": "Sparrows",
+    "slug": "sparrows"
+   },
+   {
+    "title": "The Good Samaritan",
+    "slug": "the-good-samaritan"
+   },
+   {
+    "title": "The Grain of Wheat",
+    "slug": "the-grain-of-wheat"
+   },
+   {
+    "title": "The Grass of the Field",
+    "slug": "the-grass-of-the-field"
+   },
+   {
+    "title": "The Lost Sheep",
+    "slug": "the-lost-sheep"
+   },
+   {
+    "title": "The Narrow Gate",
+    "slug": "the-narrow-gate"
+   },
+   {
+    "title": "The Narrow Path",
+    "slug": "the-narrow-path"
+   },
+   {
+    "title": "The Parable of The Wedding Feast",
+    "slug": "the-parable-of-the-wedding-feast"
+   },
+   {
+    "title": "The Parable of the Laborers in the Vineyard",
+    "slug": "the-parable-of-the-laborers-in-the-vineyard"
+   },
+   {
+    "title": "The Parable of the Mustard Seed",
+    "slug": "the-parable-of-the-mustard-seed"
+   },
+   {
+    "title": "The Parable of the Rich Man and Lazarus",
+    "slug": "the-parable-of-the-rich-man-and-lazarus"
+   },
+   {
+    "title": "The Parable of the Rich Young Man",
+    "slug": "the-parable-of-the-rich-young-man"
+   },
+   {
+    "title": "The Parable of the Sower",
+    "slug": "the-parable-of-the-sower"
+   },
+   {
+    "title": "The Parable of the Talents",
+    "slug": "the-parable-of-the-talents"
+   },
+   {
+    "title": "The Parable of the Ten Virgins",
+    "slug": "the-parable-of-the-ten-virgins"
+   },
+   {
+    "title": "The Parable of the Treasure and the Pearl",
+    "slug": "the-parable-of-the-treasure-and-the-pearl"
+   },
+   {
+    "title": "The Parable of the Vinedressers",
+    "slug": "the-parable-of-the-vinedressers"
+   },
+   {
+    "title": "The Parable of the Weeds",
+    "slug": "the-parable-of-the-weeds"
+   },
+   {
+    "title": "The Pharisee and the Publican",
+    "slug": "the-pharisee-and-the-publican"
+   },
+   {
+    "title": "The Prodigal Son",
+    "slug": "the-prodigal-son"
+   },
+   {
+    "title": "The Prodigal Son (2025 Edition)",
+    "slug": "the-prodigal-son-2025-edition"
+   },
+   {
+    "title": "The Unmerciful Servant",
+    "slug": "the-unmerciful-servant"
+   },
+   {
+    "title": "Useless Servants",
+    "slug": "useless-servants"
+   }
+  ]
+ },
+ {
+  "tag": "Gospel Scenes & Miracles",
+  "anchor": "gospel-scenes-miracles",
+  "meditations": [
+   {
+    "title": "Bartimaeus",
+    "slug": "bartimaeus"
+   },
+   {
+    "title": "Healing Christ's Wounds",
+    "slug": "healing-christs-wounds"
+   },
+   {
+    "title": "Martha, Martha",
+    "slug": "martha-martha"
+   },
+   {
+    "title": "The Bent Over Woman",
+    "slug": "the-bent-over-woman"
+   },
+   {
+    "title": "The Blind Man",
+    "slug": "the-blind-man"
+   },
+   {
+    "title": "The Centurion and His Servant",
+    "slug": "the-centurion-and-his-servant"
+   },
+   {
+    "title": "The Cure of the Possessed Boy",
+    "slug": "the-cure-of-the-possessed-boy"
+   },
+   {
+    "title": "The Curing of the Man with an Unclean Spirit",
+    "slug": "the-curing-of-the-man-with-an-unclean-spirit"
+   },
+   {
+    "title": "The Curing of the Possessed Man (Gerasenes)",
+    "slug": "the-curing-of-the-possessed-man-gerasenes"
+   },
+   {
+    "title": "The Daughter of Jairus",
+    "slug": "the-daughter-of-jairus"
+   },
+   {
+    "title": "The First Disciples",
+    "slug": "the-first-disciples"
+   },
+   {
+    "title": "The Good Shepherd",
+    "slug": "the-good-shepherd"
+   },
+   {
+    "title": "The Good Shepherd (2nd Ed.)",
+    "slug": "the-good-shepherd-2nd-ed"
+   },
+   {
+    "title": "The Healing of the Man with the Withered Hand",
+    "slug": "the-healing-of-the-man-with-the-withered-hand"
+   },
+   {
+    "title": "The Healing of the Royal Official\u2019s Son",
+    "slug": "the-healing-of-the-royal-officials-son"
+   },
+   {
+    "title": "The Healing of the Ten Lepers",
+    "slug": "the-healing-of-the-ten-lepers"
+   },
+   {
+    "title": "The Miracle at Cana",
+    "slug": "the-miracle-at-cana"
+   },
+   {
+    "title": "The Miraculous Catch of Fish",
+    "slug": "the-miraculous-catch-of-fish"
+   },
+   {
+    "title": "The Multiplication of the Loaves and Fish",
+    "slug": "the-multiplication-of-the-loaves-and-fish"
+   },
+   {
+    "title": "The Paralytic and His Friends",
+    "slug": "the-paralytic-and-his-friends"
+   },
+   {
+    "title": "The Paralytic at Capharnaum (Confession)",
+    "slug": "the-paralytic-at-capharnaum-confession"
+   },
+   {
+    "title": "The Pool at Bethsaida",
+    "slug": "the-pool-at-bethsaida"
+   },
+   {
+    "title": "The Raising of Lazarus",
+    "slug": "the-raising-of-lazarus"
+   },
+   {
+    "title": "The Storm on the Lake",
+    "slug": "the-storm-on-the-lake"
+   },
+   {
+    "title": "The Syrophoenician Woman",
+    "slug": "the-syrophoenician-woman"
+   },
+   {
+    "title": "The Temple Tax",
+    "slug": "the-temple-tax"
+   },
+   {
+    "title": "The Transfiguration",
+    "slug": "the-transfiguration"
+   },
+   {
+    "title": "The Widow of Naim",
+    "slug": "the-widow-of-naim"
+   },
+   {
+    "title": "The Widow\u2019s Mite",
+    "slug": "the-widows-mite"
+   },
+   {
+    "title": "The Woman with the Issue of Blood",
+    "slug": "the-woman-with-the-issue-of-blood"
+   },
+   {
+    "title": "Walking on the Water\u2013\u2013Faith",
+    "slug": "walking-on-the-waterfaith"
+   }
+  ]
+ },
+ {
+  "tag": "Apostolate",
+  "anchor": "apostolate",
+  "meditations": [
+   {
+    "title": "Fire On Earth",
+    "slug": "fire-on-earth"
+   },
+   {
+    "title": "Fishers of Men",
+    "slug": "fishers-of-men"
+   },
+   {
+    "title": "Friendship and Confidence",
+    "slug": "friendship-and-confidence"
+   },
+   {
+    "title": "God\u2019s Bridge-Builder",
+    "slug": "gods-bridge-builder"
+   },
+   {
+    "title": "Helping To Do Good",
+    "slug": "helping-to-do-good"
+   },
+   {
+    "title": "I Came To Cast Fire On Earth",
+    "slug": "i-came-to-cast-fire-on-earth"
+   },
+   {
+    "title": "Infectious Faith",
+    "slug": "infectious-faith"
+   },
+   {
+    "title": "On Apostolate",
+    "slug": "on-apostolate"
+   },
+   {
+    "title": "Overcoming Human Respect",
+    "slug": "overcoming-human-respect"
+   },
+   {
+    "title": "Passionately Loving the World",
+    "slug": "passionately-loving-the-world"
+   },
+   {
+    "title": "Raise the World",
+    "slug": "raise-the-world"
+   },
+   {
+    "title": "Ripples in the Ocean",
+    "slug": "ripples-in-the-ocean"
+   },
+   {
+    "title": "Salt That Has Lost Its Savor",
+    "slug": "salt-that-has-lost-its-savor"
+   },
+   {
+    "title": "Salt and Light",
+    "slug": "salt-and-light"
+   },
+   {
+    "title": "The Apostolate",
+    "slug": "the-apostolate"
+   },
+   {
+    "title": "The Apostolate of Confession",
+    "slug": "the-apostolate-of-confession"
+   },
+   {
+    "title": "The Apostolate of the Home",
+    "slug": "the-apostolate-of-the-home"
+   },
+   {
+    "title": "The Harvest is Plentiful",
+    "slug": "the-harvest-is-plentiful"
+   },
+   {
+    "title": "The Light of the World",
+    "slug": "the-light-of-the-world"
+   },
+   {
+    "title": "Zeal for Holiness Through Marriage",
+    "slug": "zeal-for-holiness-through-marriage"
+   }
+  ]
+ },
+ {
+  "tag": "Work & Ordinary Life",
+  "anchor": "work-ordinary-life",
+  "meditations": [
+   {
+    "title": "Death and the Good Use of Time (2nd Ed.)",
+    "slug": "death-and-the-good-use-of-time-2nd-ed"
+   },
+   {
+    "title": "Little Duties",
+    "slug": "little-duties"
+   },
+   {
+    "title": "Little Things",
+    "slug": "little-things"
+   },
+   {
+    "title": "Making Up for Lost Time",
+    "slug": "making-up-for-lost-time"
+   },
+   {
+    "title": "On Work",
+    "slug": "on-work"
+   },
+   {
+    "title": "Professional Prestige",
+    "slug": "professional-prestige"
+   },
+   {
+    "title": "St. Joseph the Worker",
+    "slug": "st-joseph-the-worker"
+   },
+   {
+    "title": "St. Joseph\u2019s Holiness in Ordinary Life",
+    "slug": "st-josephs-holiness-in-ordinary-life"
+   },
+   {
+    "title": "Study",
+    "slug": "study"
+   },
+   {
+    "title": "The Artisan of Nazareth",
+    "slug": "the-artisan-of-nazareth"
+   },
+   {
+    "title": "The Dignity of Work",
+    "slug": "the-dignity-of-work"
+   },
+   {
+    "title": "The Good Use of Time",
+    "slug": "the-good-use-of-time"
+   },
+   {
+    "title": "The Holiness in Rest: A Sacred Pause",
+    "slug": "the-holiness-in-rest-a-sacred-pause"
+   },
+   {
+    "title": "The Sanctification of Calumnies",
+    "slug": "the-sanctification-of-calumnies"
+   },
+   {
+    "title": "The Sanctification of Later Years",
+    "slug": "the-sanctification-of-later-years"
+   },
+   {
+    "title": "The Sanctification of Low Moments",
+    "slug": "the-sanctification-of-low-moments"
+   },
+   {
+    "title": "The Son of the Carpenter",
+    "slug": "the-son-of-the-carpenter"
+   },
+   {
+    "title": "Today\u2019s Task",
+    "slug": "todays-task"
+   },
+   {
+    "title": "Unity of Life",
+    "slug": "unity-of-life"
+   }
+  ]
+ },
+ {
+  "tag": "Death & Eternal Life",
+  "anchor": "death-eternal-life",
+  "meditations": [
+   {
+    "title": "A Christian Outlook on Death",
+    "slug": "a-christian-outlook-on-death"
+   },
+   {
+    "title": "All Souls",
+    "slug": "all-souls"
+   },
+   {
+    "title": "Commemoration of All Souls (2026)",
+    "slug": "commemoration-of-all-souls-2026"
+   },
+   {
+    "title": "Death and the Good Use of Time (2nd Ed.)",
+    "slug": "death-and-the-good-use-of-time-2nd-ed"
+   },
+   {
+    "title": "Eternal Happiness",
+    "slug": "eternal-happiness"
+   },
+   {
+    "title": "Eternal Life",
+    "slug": "eternal-life"
+   },
+   {
+    "title": "Heaven and Vigilance",
+    "slug": "heaven-and-vigilance"
+   },
+   {
+    "title": "Hell, Purgatory, Heaven",
+    "slug": "hell-purgatory-heaven"
+   },
+   {
+    "title": "Lent: Christ\u2019s Death on the Cross",
+    "slug": "lent-christs-death-on-the-cross"
+   },
+   {
+    "title": "Looking Up to Heaven",
+    "slug": "looking-up-to-heaven"
+   },
+   {
+    "title": "Marriage in Heaven",
+    "slug": "marriage-in-heaven"
+   },
+   {
+    "title": "Pray for the Dead",
+    "slug": "pray-for-the-dead"
+   },
+   {
+    "title": "The Bread Our Heavenly Mother Gives Us",
+    "slug": "the-bread-our-heavenly-mother-gives-us"
+   },
+   {
+    "title": "The End of Life",
+    "slug": "the-end-of-life"
+   },
+   {
+    "title": "The Last Day of the Liturgical Year (Vigilance)",
+    "slug": "the-last-day-of-the-liturgical-year-vigilance"
+   },
+   {
+    "title": "The Last Day of the Year (Dec. 31)",
+    "slug": "the-last-day-of-the-year-dec-31"
+   }
+  ]
+ },
+ {
+  "tag": "Church & Priesthood",
+  "anchor": "church-priesthood",
+  "meditations": [
+   {
+    "title": "Forming Saints in the Domestic Church (Bethany)",
+    "slug": "forming-saints-in-the-domestic-church-bethany"
+   },
+   {
+    "title": "Forming Saints in the Domestic Church (Easter)",
+    "slug": "forming-saints-in-the-domestic-church-easter"
+   },
+   {
+    "title": "Forming Saints in the Domestic Church (The Cross)",
+    "slug": "forming-saints-in-the-domestic-church-the-cross"
+   },
+   {
+    "title": "Gratitude for Pope Benedict XVI",
+    "slug": "gratitude-for-pope-benedict-xvi"
+   },
+   {
+    "title": "Jesus Christ, The Eternal High Priest",
+    "slug": "jesus-christ-the-eternal-high-priest"
+   },
+   {
+    "title": "Love For Priests",
+    "slug": "love-for-priests"
+   },
+   {
+    "title": "Love for Peter",
+    "slug": "love-for-peter"
+   },
+   {
+    "title": "Love for the Church (St. Pius X)",
+    "slug": "love-for-the-church-st-pius-x"
+   },
+   {
+    "title": "Mother of the Church",
+    "slug": "mother-of-the-church"
+   },
+   {
+    "title": "Octave of Prayer for the Unity of Christians",
+    "slug": "octave-of-prayer-for-the-unity-of-christians"
+   },
+   {
+    "title": "Peter and Prayer",
+    "slug": "peter-and-prayer"
+   },
+   {
+    "title": "Preparing for the Jubilee Year 2025",
+    "slug": "preparing-for-the-jubilee-year-2025"
+   },
+   {
+    "title": "St. John Henry Newman on The Laity",
+    "slug": "st-john-henry-newman-on-the-laity"
+   },
+   {
+    "title": "St. Joseph in the Incarnation (Pope Francis)",
+    "slug": "st-joseph-in-the-incarnation-pope-francis"
+   },
+   {
+    "title": "St. Peter",
+    "slug": "st-peter"
+   },
+   {
+    "title": "St. Peter and St. Paul",
+    "slug": "st-peter-and-st-paul"
+   },
+   {
+    "title": "The Anniversary of Pope Francis\u2019s Election",
+    "slug": "the-anniversary-of-pope-franciss-election"
+   },
+   {
+    "title": "The Anniversary of the Ordination of the First Three Priests of the Prelature",
+    "slug": "the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature"
+   },
+   {
+    "title": "The Chair of St. Peter",
+    "slug": "the-chair-of-st-peter"
+   },
+   {
+    "title": "The Communion of Saints",
+    "slug": "the-communion-of-saints"
+   },
+   {
+    "title": "The Eternal High Priest",
+    "slug": "the-eternal-high-priest"
+   },
+   {
+    "title": "The First Martyrs of the Church of Rome",
+    "slug": "the-first-martyrs-of-the-church-of-rome"
+   },
+   {
+    "title": "The Priestly Society of the Holy Cross",
+    "slug": "the-priestly-society-of-the-holy-cross"
+   }
+  ]
+ },
+ {
+  "tag": "Vocation",
+  "anchor": "vocation",
+  "meditations": [
+   {
+    "title": "Discerning One's Vocation",
+    "slug": "discerning-ones-vocation"
+   },
+   {
+    "title": "Love for Our Vocation",
+    "slug": "love-for-our-vocation"
+   },
+   {
+    "title": "Spirit of Service",
+    "slug": "spirit-of-service"
+   },
+   {
+    "title": "The Vocation of Our Lady",
+    "slug": "the-vocation-of-our-lady"
+   },
+   {
+    "title": "To Serve",
+    "slug": "to-serve"
+   }
+  ]
+ }
+]

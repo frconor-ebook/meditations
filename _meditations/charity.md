@@ -2,6 +2,13 @@
 layout: homily
 title: "Charity"
 description: "A number of years ago in Dublin, on a radio talk show, the speechwriter of the Vice President of the United States was interviewed. He was talking about..."
+reading_time: 21
+tags: ["Virtues & Struggle"]
+prev_slug: chalice-possumus-we-can
+prev_title: "Chalice, Possumus, We Can"
+next_slug: charity-and-the-tongue
+next_title: "Charity and the Tongue"
+related: [{"slug": "charity-and-the-tongue", "title": "Charity and the Tongue"}, {"slug": "charity-versus-anger", "title": "Charity versus Anger"}, {"slug": "judgments-charity", "title": "Judgments (Charity)"}]
 ---
 
 By Fr. Conor Donnelly

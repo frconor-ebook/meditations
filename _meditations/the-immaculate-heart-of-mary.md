@@ -2,6 +2,13 @@
 layout: homily
 title: "The Immaculate Heart of Mary"
 description: "\"Simeon blessed them, and said to Mary his mother: 'Look, he is destined for the fall and for the rise of many in Israel, destined to be a sign that is..."
+reading_time: 21
+tags: ["Our Lady"]
+prev_slug: the-immaculate-conception-dec-8
+prev_title: "The Immaculate Conception (Dec. 8)"
+next_slug: the-immaculate-heart-of-mary-2026
+next_title: "The Immaculate Heart of Mary (2026)"
+related: [{"slug": "the-immaculate-heart-of-mary-2026", "title": "The Immaculate Heart of Mary (2026)"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}, {"slug": "at-the-school-of-mary", "title": "At the School of Mary"}]
 ---
 
 By Fr. Conor Donnelly

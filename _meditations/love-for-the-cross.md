@@ -2,6 +2,13 @@
 layout: homily
 title: "Love for the Cross"
 description: "We're told in the liturgy, and also in St. Paul, that \"we should glory in the cross of Our Lord Jesus Christ\" (cf. Gal. 6:14; Entrance Antiphon, Easter..."
+reading_time: 15
+tags: ["The Cross & Suffering"]
+prev_slug: love-for-the-church-st-pius-x
+prev_title: "Love for the Church (St. Pius X)"
+next_slug: loving-jesus-house
+next_title: "Loving Jesus\u2019 House"
+related: [{"slug": "cross-rejection", "title": "Cross Rejection"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}, {"slug": "joy-in-the-cross-lent", "title": "Joy in the Cross (Lent)"}]
 ---
 
 By Fr. Conor Donnelly

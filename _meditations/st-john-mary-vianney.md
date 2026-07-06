@@ -2,6 +2,13 @@
 layout: homily
 title: "St. John Mary Vianney"
 description: "August 4 is the Feast of the Cur\u00e9 of Ars, St. John Mary Vianney. Ars was the name of the small town in France of which he was the parish priest. He was..."
+reading_time: 20
+tags: ["Saints & Feast Days"]
+prev_slug: st-john-henry-newman-on-the-laity
+prev_title: "St. John Henry Newman on The Laity"
+next_slug: st-john-mary-vianney-2026
+next_title: "St. John Mary Vianney (2026)"
+related: [{"slug": "st-john-mary-vianney-2026", "title": "St. John Mary Vianney (2026)"}, {"slug": "dedication-of-the-basilica-of-st-john-lateran-2026", "title": "Dedication of the Basilica of St. John Lateran (2026)"}, {"slug": "st-john", "title": "St. John"}]
 ---
 
 By Fr. Conor Donnelly

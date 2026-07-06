@@ -2,6 +2,13 @@
 layout: homily
 title: "The Feast of the Holy Family"
 description: "\"They hurried away and they found Mary and Joseph, and the babe, lying in the manger. When they saw the child they repeated what they had been told about..."
+reading_time: 19
+tags: ["Family & Marriage"]
+prev_slug: the-father-in-the-work
+prev_title: "The Father in the Work"
+next_slug: the-feast-of-the-holy-innocents-2025
+next_title: "The Feast of the Holy Innocents, 2025"
+related: [{"slug": "egypt-and-the-holy-family", "title": "Egypt and the Holy Family"}, {"slug": "the-feast-of-the-holy-innocents-2025", "title": "The Feast of the Holy Innocents, 2025"}, {"slug": "defending-the-family", "title": "Defending the Family"}]
 ---
 
 By Fr. Conor Donnelly

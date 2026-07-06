@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Thomas"
 description: "\"Thomas, called the Twin, who was one of the twelve, was not with them when Jesus came. So the other disciples said to him, 'We have seen the Lord!' But..."
+reading_time: 20
+tags: ["Saints & Feast Days"]
+prev_slug: st-teresa-of-avila
+prev_title: "St. Teresa of Avila"
+next_slug: st-thomas-aquinas
+next_title: "St. Thomas Aquinas"
+related: [{"slug": "st-thomas-aquinas", "title": "St. Thomas Aquinas"}, {"slug": "st-thomas-more", "title": "St. Thomas More"}, {"slug": "st-thomas-more-and-st-john-fisher-2026", "title": "St. Thomas More and St. John Fisher (2026)"}]
 ---
 
 By Fr. Conor Donnelly

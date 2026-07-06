@@ -2,6 +2,13 @@
 layout: homily
 title: "The Parable of the Vinedressers"
 description: "\"He went on to speak to them in parables. 'A man planted a vineyard. He fenced it around, dug out a trough for the winepress, and built a tower. Then he..."
+reading_time: 15
+tags: ["Parables"]
+prev_slug: the-parable-of-the-treasure-and-the-pearl
+prev_title: "The Parable of the Treasure and the Pearl"
+next_slug: the-parable-of-the-weeds
+next_title: "The Parable of the Weeds"
+related: [{"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "the-parable-of-the-mustard-seed", "title": "The Parable of the Mustard Seed"}]
 ---
 
 By Fr. Conor Donnelly

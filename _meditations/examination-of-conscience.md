@@ -2,6 +2,13 @@
 layout: homily
 title: "Examination of Conscience"
 description: "We are told in the Communion Antiphon of today's Mass, \"'Behold, I am coming soon,' says the Lord, 'bringing my recompense to repay everyone for what he..."
+reading_time: 16
+tags: ["Prayer & Interior Life"]
+prev_slug: exalted
+prev_title: "Exalted"
+next_slug: faithfulness
+next_title: "Faithfulness"
+related: [{"slug": "conscience-the-light-of-the-soul", "title": "Conscience, The Light of the Soul"}, {"slug": "abandonment", "title": "Abandonment"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}]
 ---
 
 By Fr. Conor Donnelly

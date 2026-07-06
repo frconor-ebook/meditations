@@ -2,6 +2,13 @@
 layout: homily
 title: "Much Will Be Demanded: Responsibility"
 description: "We are told by St. Paul, \"For we must appear before the judgment seat of Christ, so that each one may receive good or evil, according to what he has done..."
+reading_time: 18
+tags: ["Virtues & Struggle"]
+prev_slug: mothers-day
+prev_title: "Mother\u2019s Day"
+next_slug: my-words-will-not-pass-away
+next_title: "My Words Will Not Pass Away"
+related: [{"slug": "afterwards-you-will-understand", "title": "Afterwards You Will Understand"}, {"slug": "by-their-fruits-you-will-know-them", "title": "By Their Fruits, You Will Know Them"}, {"slug": "my-words-will-not-pass-away", "title": "My Words Will Not Pass Away"}]
 ---
 
 By Fr. Conor Donnelly

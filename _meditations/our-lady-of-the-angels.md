@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Lady of the Angels"
 description: "We're told in the Gospel of St. John, \"I say to you, you shall see heaven opened, and the angels of God ascending and descending upon the Son of Man\"..."
+reading_time: 18
+tags: ["Our Lady"]
+prev_slug: our-lady-of-sorrows-2026
+prev_title: "Our Lady of Sorrows (2026)"
+next_slug: our-lady-of-the-rosary-2026
+next_title: "Our Lady of the Rosary (2026)"
+related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
 ---
 
 By Fr. Conor Donnelly

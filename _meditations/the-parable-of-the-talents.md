@@ -2,6 +2,13 @@
 layout: homily
 title: "The Parable of the Talents"
 description: "We're told in the Gospel of St. Matthew, \"It is like a man about to go abroad who summoned his servants and entrusted his property to them. To one he gave..."
+reading_time: 21
+tags: ["Parables"]
+prev_slug: the-parable-of-the-sower
+prev_title: "The Parable of the Sower"
+next_slug: the-parable-of-the-ten-virgins
+next_title: "The Parable of the Ten Virgins"
+related: [{"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "the-parable-of-the-mustard-seed", "title": "The Parable of the Mustard Seed"}]
 ---
 
 By Fr. Conor Donnelly

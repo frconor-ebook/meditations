@@ -2,6 +2,12 @@
 layout: homily
 title: "Aim High"
 description: "\"The Spirit of the Lord is upon me. He has sent me to bring good tidings to the poor, to proclaim liberty to the captives, release to the prisoners, and..."
+reading_time: 21
+prev_slug: against-all-hope
+prev_title: "Against All Hope"
+next_slug: all-saints-day
+next_title: "All Saints\u2019 Day"
+related: [{"slug": "jesus-christ-the-eternal-high-priest", "title": "Jesus Christ, The Eternal High Priest"}, {"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}]
 ---
 
 By Fr. Conor Donnelly

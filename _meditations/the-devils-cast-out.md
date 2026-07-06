@@ -2,6 +2,12 @@
 layout: homily
 title: "The Devils Cast Out"
 description: "There was a four-year-old little boy once who was asked to say the Grace Before Meals, before the family\\'s Christmas dinner. All the members of the..."
+reading_time: 17
+prev_slug: the-depths-of-simplicity
+prev_title: "The Depths of Simplicity"
+next_slug: the-dignity-of-work
+next_title: "The Dignity of Work"
+related: [{"slug": "i-came-to-cast-fire-on-earth", "title": "I Came To Cast Fire On Earth"}]
 ---
 
 By Fr. Conor Donnelly

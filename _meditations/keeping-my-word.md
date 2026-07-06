@@ -2,6 +2,11 @@
 layout: homily
 title: "Keeping My Word"
 description: "\"Let your 'Yes' be 'Yes' and let your 'No' be 'No'\" (Matt. 5:37). Our Lord praises those who keep their word. Our word of honor should be sufficient..."
+reading_time: 16
+prev_slug: judgments-charity
+prev_title: "Judgments (Charity)"
+next_slug: kindness
+next_title: "Kindness"
 ---
 
 By Fr. Conor Donnelly

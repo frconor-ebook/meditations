@@ -2,6 +2,13 @@
 layout: homily
 title: "It Is Right and Just"
 description: "\"Friend, I am doing you no wrong,\" we are told in St. Matthew. \"Did you not agree with me for a denarius? Take what belongs to you and go. I choose to..."
+reading_time: 21
+tags: ["Eucharist & the Mass"]
+prev_slug: invoking-our-savior
+prev_title: "Invoking Our Savior"
+next_slug: jesus-christ-the-eternal-high-priest
+next_title: "Jesus Christ, The Eternal High Priest"
+related: [{"slug": "making-a-more-just-world", "title": "Making A More Just World"}, {"slug": "corpus-christi-2026", "title": "Corpus Christi (2026)"}, {"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}]
 ---
 
 By Fr. Conor Donnelly

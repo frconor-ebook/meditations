@@ -2,6 +2,13 @@
 layout: homily
 title: "The Holy Name of Mary"
 description: "\"In the sixth month, the angel Gabriel was sent by God to a town in Galilee called Nazareth, to a virgin engaged to a man whose name was Joseph, of the..."
+reading_time: 19
+tags: ["Our Lady"]
+prev_slug: the-holy-name-of-jesus
+prev_title: "The Holy Name of Jesus"
+next_slug: the-holy-rosary
+next_title: "The Holy Rosary"
+related: [{"slug": "the-holy-name-of-jesus", "title": "The Holy Name of Jesus"}, {"slug": "at-the-school-of-mary", "title": "At the School of Mary"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}]
 ---
 
 By Fr. Conor Donnelly

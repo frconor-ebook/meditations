@@ -2,6 +2,13 @@
 layout: homily
 title: "To Serve"
 description: "We're told in St. Mark, \"But it shall not be so among you. But whoever would be great among you must be your servant, and whoever would be first among you..."
+reading_time: 19
+tags: ["Vocation"]
+prev_slug: thirsting-for-justice
+prev_title: "Thirsting for Justice"
+next_slug: todays-task
+next_title: "Today\u2019s Task"
+related: [{"slug": "discerning-ones-vocation", "title": "Discerning One's Vocation"}, {"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}, {"slug": "spirit-of-service", "title": "Spirit of Service"}]
 ---
 
 By Fr. Conor Donnelly

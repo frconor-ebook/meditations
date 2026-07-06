@@ -2,6 +2,13 @@
 layout: homily
 title: "Unlimited Forgiveness"
 description: "I do not say to you seven times, but seventy times seven. Our Lord encourages us to forgive always, promptly, and wholeheartedly. God pardons those who..."
+reading_time: 17
+tags: ["Confession & Mercy"]
+prev_slug: unity-of-life
+prev_title: "Unity of Life"
+next_slug: useless-servants
+next_title: "Useless Servants"
+related: [{"slug": "forgiveness", "title": "Forgiveness"}, {"slug": "a-merciful-messiah", "title": "A Merciful Messiah"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}]
 ---
 
 

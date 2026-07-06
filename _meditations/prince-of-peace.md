@@ -2,6 +2,13 @@
 layout: homily
 title: "Prince of Peace"
 description: "\"Glory to God in the highest, and peace on earth to men of good will\" (Luke 2:14). Peace is one of the great goods constantly implored from God in the Old..."
+reading_time: 15
+tags: ["Advent & Christmas"]
+prev_slug: presence-of-god
+prev_title: "Presence of God"
+next_slug: pro-active-love
+next_title: "Pro-Active Love"
+related: [{"slug": "the-shepherds-and-peace", "title": "The Shepherds and Peace"}, {"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "our-lady-of-peace", "title": "Our Lady of Peace"}]
 ---
 
 By Fr. Conor Donnelly

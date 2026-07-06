@@ -2,6 +2,13 @@
 layout: homily
 title: "Contrition"
 description: "\"And behold, a woman that was in the city, a sinner, when she knew that he sat at the Pharisee's house, brought an alabaster box of ointment. And standing..."
+reading_time: 18
+tags: ["Confession & Mercy"]
+prev_slug: contemplative-it-is-good-that-we-are-here
+prev_title: "Contemplative: It Is Good That We Are Here"
+next_slug: conversion-of-st-paul-2027-edition
+next_title: "Conversion of St. Paul (2027 Edition)"
+related: [{"slug": "a-merciful-messiah", "title": "A Merciful Messiah"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}]
 ---
 
 By Fr. Conor Donnelly

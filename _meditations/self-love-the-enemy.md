@@ -2,6 +2,13 @@
 layout: homily
 title: "Self-Love: The Enemy"
 description: "We're told in today's Gospel, \"A discussion arose among them, which of them was the greatest. But Jesus, knowing the reasoning of their heart, took a..."
+reading_time: 20
+tags: ["Virtues & Struggle"]
+prev_slug: seeing-christ-in-illness
+prev_title: "Seeing Christ in Illness"
+next_slug: self-denial
+next_title: "Self-denial"
+related: [{"slug": "love-for-chastity", "title": "Love for Chastity"}, {"slug": "self-denial", "title": "Self-denial"}, {"slug": "sincerity-love-for-truth", "title": "Sincerity, Love for Truth"}]
 ---
 
 By Fr. Conor Donnelly

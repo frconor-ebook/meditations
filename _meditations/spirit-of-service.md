@@ -2,6 +2,13 @@
 layout: homily
 title: "Spirit of Service"
 description: "\"Which of you, with a servant ploughing or minding sheep, would say to him when he returned from the fields, 'Come and have your meal at once'? Would he..."
+reading_time: 20
+tags: ["Vocation"]
+prev_slug: spirit-and-life
+prev_title: "Spirit and Life"
+next_slug: spiritual-childhood
+next_title: "Spiritual Childhood"
+related: [{"slug": "fruits-of-the-holy-spirit", "title": "Fruits of the Holy Spirit"}, {"slug": "spirit-and-life", "title": "Spirit and Life"}, {"slug": "the-curing-of-the-man-with-an-unclean-spirit", "title": "The Curing of the Man with an Unclean Spirit"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Humility of Instruments"
 description: "\"But when you are invited, go and recline in the last place, so that when he who invited you comes in, he may say to you, 'Friend, go up higher.' Then you..."
+reading_time: 24
+tags: ["Virtues & Struggle"]
+prev_slug: humility-lent
+prev_title: "Humility (Lent)"
+next_slug: humility-relying-on-god
+next_title: "Humility: Relying on God"
+related: [{"slug": "humility", "title": "Humility"}, {"slug": "humility-lent", "title": "Humility (Lent)"}, {"slug": "humility-relying-on-god", "title": "Humility: Relying on God"}]
 ---
 
 By Fr. Conor Donnelly

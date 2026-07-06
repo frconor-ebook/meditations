@@ -2,6 +2,13 @@
 layout: homily
 title: "The Last Day of the Liturgical Year (Vigilance)"
 description: "We're told in St. Luke, \"Watch yourselves, or your hearts will be coarsened by debauchery and drunkenness and the cares of life, and that day will come..."
+reading_time: 20
+tags: ["Virtues & Struggle", "Death & Eternal Life"]
+prev_slug: the-king-of-hearts
+prev_title: "The King of Hearts"
+next_slug: the-last-day-of-the-year-dec-31
+next_title: "The Last Day of the Year (Dec. 31)"
+related: [{"slug": "the-last-day-of-the-year-dec-31", "title": "The Last Day of the Year (Dec. 31)"}, {"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}, {"slug": "vigilance-and-the-rosary", "title": "Vigilance and the Rosary"}]
 ---
 
 By Fr. Conor Donnelly

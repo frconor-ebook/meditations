@@ -2,6 +2,13 @@
 layout: homily
 title: "The Prodigal Son"
 description: "We are told in the Gospel of St. Luke that \"a certain man had two sons, and the younger of them said to his father, 'Father, give me the share of the..."
+reading_time: 22
+tags: ["Confession & Mercy", "Parables"]
+prev_slug: the-priestly-society-of-the-holy-cross
+prev_title: "The Priestly Society of the Holy Cross"
+next_slug: the-prodigal-son-2025-edition
+next_title: "The Prodigal Son (2025 Edition)"
+related: [{"slug": "the-prodigal-son-2025-edition", "title": "The Prodigal Son (2025 Edition)"}, {"slug": "the-unmerciful-servant", "title": "The Unmerciful Servant"}, {"slug": "a-merciful-messiah", "title": "A Merciful Messiah"}]
 ---
 
 By Fr. Conor Donnelly

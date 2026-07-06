@@ -2,6 +2,13 @@
 layout: homily
 title: "The Unmerciful Servant"
 description: "\"Then Peter went up to him and said, 'Lord, how often must I forgive my brother if he wrongs me? As often as seven times?' Jesus answered, 'Not seven, I..."
+reading_time: 19
+tags: ["Confession & Mercy", "Parables"]
+prev_slug: the-truth-will-make-you-free
+prev_title: "The Truth Will Make You Free"
+next_slug: the-visitation-of-our-lady
+next_title: "The Visitation of Our Lady"
+related: [{"slug": "the-centurion-and-his-servant", "title": "The Centurion and His Servant"}, {"slug": "the-prodigal-son", "title": "The Prodigal Son"}, {"slug": "the-prodigal-son-2025-edition", "title": "The Prodigal Son (2025 Edition)"}]
 ---
 
 By Fr. Conor Donnelly

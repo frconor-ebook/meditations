@@ -2,6 +2,13 @@
 layout: homily
 title: "The Syrophoenician Woman"
 description: "\"He left that place and set out for the territory of Tyre. There he went into a house and did not want anyone to know that he was there. But he could not..."
+reading_time: 18
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: the-storm-on-the-lake
+prev_title: "The Storm on the Lake"
+next_slug: the-temple-tax
+next_title: "The Temple Tax"
+related: [{"slug": "the-bent-over-woman", "title": "The Bent Over Woman"}, {"slug": "the-woman-with-the-issue-of-blood", "title": "The Woman with the Issue of Blood"}, {"slug": "our-lady-woman-of-the-eucharist", "title": "Our Lady, Woman of the Eucharist"}]
 ---
 
 By Fr. Conor Donnelly

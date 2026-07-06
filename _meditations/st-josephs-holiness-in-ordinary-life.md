@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Joseph\u2019s Holiness in Ordinary Life"
 description: "\"'Is not this the carpenter, the son of Mary, brother of James and Joseph and Jude and Simon? And are not also his sisters here with us?' And they were..."
+reading_time: 19
+tags: ["St. Joseph", "Saints & Feast Days", "Work & Ordinary Life"]
+prev_slug: st-joseph-the-family-man
+prev_title: "St. Joseph, The Family Man"
+next_slug: st-justin
+next_title: "St. Justin"
+related: [{"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}, {"slug": "st-joseph-the-worker", "title": "St. Joseph the Worker"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
 ---
 
 By Fr. Conor Donnelly

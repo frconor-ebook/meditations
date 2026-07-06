@@ -2,6 +2,13 @@
 layout: homily
 title: "Forming Saints in the Domestic Church (Easter)"
 description: "\"Now on the first day of the week, Mary Magdalene came early to the tomb, while it was still dark, and she saw the stone taken away from the tomb. She ran..."
+reading_time: 15
+tags: ["Lent, Holy Week & Easter", "Family & Marriage", "Church & Priesthood"]
+prev_slug: forming-saints-in-the-domestic-church-bethany
+prev_title: "Forming Saints in the Domestic Church (Bethany)"
+next_slug: forming-saints-in-the-domestic-church-the-cross
+next_title: "Forming Saints in the Domestic Church (The Cross)"
+related: [{"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}, {"slug": "easter-faith", "title": "Easter Faith"}]
 ---
 
 By Fr. Conor Donnelly

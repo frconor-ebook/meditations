@@ -2,6 +2,13 @@
 layout: homily
 title: "The End of Life"
 description: "I was on duty one night in a big hospital in Dublin many years ago. I got called over to the private nursing home beside the hospital, which was normally..."
+reading_time: 22
+tags: ["Death & Eternal Life"]
+prev_slug: the-dignity-of-work
+prev_title: "The Dignity of Work"
+next_slug: the-epiphany
+next_title: "The Epiphany"
+related: [{"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}, {"slug": "life-of-faith", "title": "Life of Faith"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Temptation"
 description: "\"Then Jesus was led by the Spirit into the desert, to be tempted by the devil. And when he had fasted forty days and forty nights, afterwards he was..."
+reading_time: 22
+tags: ["Virtues & Struggle"]
+prev_slug: temperance
+prev_title: "Temperance"
+next_slug: tepidity
+next_title: "Tepidity"
+related: [{"slug": "the-war-with-temptation", "title": "The War With Temptation"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}]
 ---
 
 By Fr. Conor Donnelly

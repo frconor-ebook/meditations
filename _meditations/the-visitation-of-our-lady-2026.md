@@ -2,6 +2,13 @@
 layout: homily
 title: "The Visitation of Our Lady (2026)"
 description: "We are told in St. Luke that \"Mary arose and went with haste into the hill country to a city of Judah\" (Luke 1:39). Today's feast, established by Pope..."
+reading_time: 18
+tags: ["Our Lady"]
+prev_slug: the-visitation-of-our-lady
+prev_title: "The Visitation of Our Lady"
+next_slug: the-vocation-of-our-lady
+next_title: "The Vocation of Our Lady"
+related: [{"slug": "the-visitation-of-our-lady", "title": "The Visitation of Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
 ---
 
 

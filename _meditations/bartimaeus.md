@@ -2,6 +2,13 @@
 layout: homily
 title: "Bartimaeus"
 description: "They reached Jericho, and as he left Jericho with his disciples and a great crowd, Bartimaeus, that is the son of Timaeus, a blind beggar, was sitting at..."
+reading_time: 21
+tags: ["Gospel Scenes & Miracles"]
+prev_slug: aunt-carmen
+prev_title: "Aunt Carmen"
+next_slug: be-you-perfect
+next_title: "Be You Perfect"
+related: [{"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}, {"slug": "the-bent-over-woman", "title": "The Bent Over Woman"}]
 ---
 
 By Fr. Conor Donnelly

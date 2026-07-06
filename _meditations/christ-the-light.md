@@ -2,6 +2,12 @@
 layout: homily
 title: "Christ the Light"
 description: "We read in today's Gospel, \"No one who has lighted a lamp covers it with a vessel and puts it under a couch, but he puts it on the lampstand, that they..."
+reading_time: 22
+prev_slug: christ-the-king
+prev_title: "Christ the King"
+next_slug: christian-identity
+next_title: "Christian Identity"
+related: [{"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}, {"slug": "christ-the-king", "title": "Christ the King"}, {"slug": "conscience-the-light-of-the-soul", "title": "Conscience, The Light of the Soul"}]
 ---
 
 By Fr. Conor Donnelly

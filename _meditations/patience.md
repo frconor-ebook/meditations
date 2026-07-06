@@ -2,6 +2,13 @@
 layout: homily
 title: "Patience"
 description: "There was a man once who was due to go shopping with his wife, and they had arranged to meet in a certain place in a store. But the wife got delayed, and..."
+reading_time: 21
+tags: ["Virtues & Struggle"]
+prev_slug: passionately-loving-the-world
+prev_title: "Passionately Loving the World"
+next_slug: patience-in-adversity
+next_title: "Patience in Adversity"
+related: [{"slug": "patience-in-adversity", "title": "Patience in Adversity"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}]
 ---
 
 By Fr. Conor Donnelly

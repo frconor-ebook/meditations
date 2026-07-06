@@ -2,6 +2,12 @@
 layout: homily
 title: "Maturity and Participation in the Divine Nature"
 description: "There are questions that we can sometimes ask ourselves, like, \"Why do I react that way? Why am I like this? Can I change?\" Sometimes we may pose them..."
+reading_time: 14
+prev_slug: mary-mother-of-god-2nd-ed
+prev_title: "Mary, Mother of God (2nd Ed.)"
+next_slug: meekness
+next_title: "Meekness"
+related: [{"slug": "divine-filiation", "title": "Divine Filiation"}, {"slug": "divine-intimacies", "title": "Divine Intimacies"}, {"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}]
 ---
 
 By Fr. Conor Donnelly

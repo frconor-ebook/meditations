@@ -2,6 +2,13 @@
 layout: homily
 title: "Love for Peter"
 description: "\"When Jesus came into the portals of Caesarea Philippi, he asked his disciples, saying, 'Who do men say the Son of man is?' And they said, 'Some say John..."
+reading_time: 19
+tags: ["Church & Priesthood"]
+prev_slug: love-for-our-vocation
+prev_title: "Love for Our Vocation"
+next_slug: love-for-the-church-st-pius-x
+next_title: "Love for the Church (St. Pius X)"
+related: [{"slug": "love-for-priests", "title": "Love For Priests"}, {"slug": "love-for-the-church-st-pius-x", "title": "Love for the Church (St. Pius X)"}, {"slug": "peter-and-prayer", "title": "Peter and Prayer"}]
 ---
 
 By Fr. Conor Donnelly

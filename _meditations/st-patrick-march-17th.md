@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Patrick, March 17th"
 description: "\"Now it happened that he was standing one day by the lake of Gennesareth, with the crowd pressing round him listening to the Word of God, when he caught..."
+reading_time: 22
+tags: ["Saints & Feast Days"]
+prev_slug: st-nicholas-of-bari
+prev_title: "St. Nicholas of Bari"
+next_slug: st-peter
+next_title: "St. Peter"
+related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
 ---
 
 By Fr. Conor Donnelly

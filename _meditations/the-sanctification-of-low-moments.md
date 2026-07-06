@@ -2,6 +2,13 @@
 layout: homily
 title: "The Sanctification of Low Moments"
 description: "\"Jacob\\'s well was there and Jesus, tired by his journey, sat down by the well. It was about the sixth hour\" (John 4:6). On another occasion, we're told..."
+reading_time: 15
+tags: ["The Cross & Suffering", "Work & Ordinary Life"]
+prev_slug: the-sanctification-of-later-years
+prev_title: "The Sanctification of Later Years"
+next_slug: the-seat-of-honor
+next_title: "The Seat of Honor"
+related: [{"slug": "the-sanctification-of-calumnies", "title": "The Sanctification of Calumnies"}, {"slug": "the-sanctification-of-later-years", "title": "The Sanctification of Later Years"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}]
 ---
 
 By Fr. Conor Donnelly

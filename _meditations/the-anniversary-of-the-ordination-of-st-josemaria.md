@@ -2,6 +2,13 @@
 layout: homily
 title: "The Anniversary of the Ordination of St. Josemar\u00eda"
 description: "We're told in the Book of Isaiah, \"But you shall be called priests of the Lord. You shall be named ministers of our God. You shall enjoy the wealth of..."
+reading_time: 23
+tags: ["Saints & Feast Days", "Opus Dei"]
+prev_slug: the-anniversary-of-the-first-holy-communion-of-st-josemaria
+prev_title: "The Anniversary of the First Holy Communion of St. Josemar\u00eda"
+next_slug: the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature
+next_title: "The Anniversary of the Ordination of the First Three Priests of the Prelature"
+related: [{"slug": "the-anniversary-of-the-first-holy-communion-of-st-josemaria", "title": "The Anniversary of the First Holy Communion of St. Josemar\u00eda"}, {"slug": "the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature", "title": "The Anniversary of the Ordination of the First Three Priests of the Prelature"}, {"slug": "st-josemaria-escriva-feast-june-26th", "title": "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"}]
 ---
 
 By Fr. Conor Donnelly

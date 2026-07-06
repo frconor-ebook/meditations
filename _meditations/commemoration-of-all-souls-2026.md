@@ -2,6 +2,13 @@
 layout: homily
 title: "Commemoration of All Souls (2026)"
 description: "Today we dedicate our prayers in suffrage for the souls in Purgatory --- souls that are still being purified of the remains of sin. Our ties with deceased..."
+reading_time: 18
+tags: ["Death & Eternal Life"]
+prev_slug: come-lord-jesus
+prev_title: "Come, Lord Jesus"
+next_slug: conjugal-love
+next_title: "Conjugal Love"
+related: [{"slug": "all-souls", "title": "All Souls"}, {"slug": "souls-of-prayer", "title": "Souls of Prayer"}, {"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}]
 ---
 
 

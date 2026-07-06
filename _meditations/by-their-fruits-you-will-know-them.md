@@ -2,6 +2,12 @@
 layout: homily
 title: "By Their Fruits, You Will Know Them"
 description: "\"He who abides in me, and I in him, he it is that bears much fruit, for apart from me you can do nothing\" (John 15:5). God allows good fruit to come from..."
+reading_time: 17
+prev_slug: blessed-alvaro-del-portillo
+prev_title: "Blessed \u00c1lvaro del Portillo"
+next_slug: chalice-possumus-we-can
+next_title: "Chalice, Possumus, We Can"
+related: [{"slug": "afterwards-you-will-understand", "title": "Afterwards You Will Understand"}, {"slug": "fruits-of-the-holy-spirit", "title": "Fruits of the Holy Spirit"}, {"slug": "much-will-be-demanded-responsibility", "title": "Much Will Be Demanded: Responsibility"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "At the School of Mary"
 description: "Pope St. John Paul II says that if we want to \"rediscover in all its richness the profound relationship between the Church and the Eucharist, we cannot..."
+reading_time: 17
+tags: ["Our Lady"]
+prev_slug: at-st-josephs-side
+prev_title: "At St. Joseph\u2019s Side"
+next_slug: aunt-carmen
+next_title: "Aunt Carmen"
+related: [{"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}, {"slug": "knowing-god-through-mary", "title": "Knowing God Through Mary"}, {"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}]
 ---
 
 

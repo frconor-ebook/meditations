@@ -2,6 +2,13 @@
 layout: homily
 title: "The Eternal High Priest"
 description: "We\\'re told in the Old Testament, in the Psalms, \"You are a priest forever, after the order of Melchizedek\" (Ps. 110:4). The whole Church participates in..."
+reading_time: 17
+tags: ["Eucharist & the Mass", "Church & Priesthood"]
+prev_slug: the-epiphany-of-our-lord-2027-edition
+prev_title: "The Epiphany of Our Lord (2027 Edition)"
+next_slug: the-eucharist-and-love
+next_title: "The Eucharist and Love"
+related: [{"slug": "jesus-christ-the-eternal-high-priest", "title": "Jesus Christ, The Eternal High Priest"}, {"slug": "aim-high", "title": "Aim High"}, {"slug": "eternal-happiness", "title": "Eternal Happiness"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "The Bread Our Heavenly Mother Gives Us"
 description: "\"Blessed is the womb that bore you and the breasts that nourished you!\" And Our Lord replied, \"Blessed are they, rather, who hear the word of God and keep..."
+reading_time: 19
+tags: ["Eucharist & the Mass", "Death & Eternal Life"]
+prev_slug: the-blind-man
+prev_title: "The Blind Man"
+next_slug: the-bread-of-life
+next_title: "The Bread of Life"
+related: [{"slug": "the-bread-of-life", "title": "The Bread of Life"}, {"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}, {"slug": "mary-mother-of-god", "title": "Mary, Mother of God"}]
 ---
 
 By Fr. Conor Donnelly

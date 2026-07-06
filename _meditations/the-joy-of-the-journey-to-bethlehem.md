@@ -2,6 +2,13 @@
 layout: homily
 title: "The Joy of the Journey to Bethlehem"
 description: "\"These things I have spoken to you, so that my joy may be in you, and your joy may be fulfilled\" (John 15:11). We are coming again into a period of..."
+reading_time: 24
+tags: ["Advent & Christmas"]
+prev_slug: the-infinity-of-littleness
+prev_title: "The Infinity of Littleness"
+next_slug: the-king-of-hearts
+next_title: "The King of Hearts"
+related: [{"slug": "the-decree-of-caesar-augustus-and-the-journey-to-bethlehem", "title": "The Decree of Caesar Augustus and The Journey to Bethlehem"}, {"slug": "obedience-in-bethlehem", "title": "Obedience in Bethlehem"}, {"slug": "the-light-streaming-from-bethlehem", "title": "The Light Streaming from Bethlehem"}]
 ---
 
 By Fr. Conor Donnelly

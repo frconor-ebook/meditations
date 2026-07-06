@@ -2,6 +2,13 @@
 layout: homily
 title: "The Eucharist and Love"
 description: "The fundamental dynamism of Christian life, as we know, consists in the practice of faith, hope, and charity, with the Eucharist as the source and summit..."
+reading_time: 17
+tags: ["Eucharist & the Mass"]
+prev_slug: the-eternal-high-priest
+prev_title: "The Eternal High Priest"
+next_slug: the-eucharistfaith-and-hope
+next_title: "The Eucharist\u2013Faith and Hope"
+related: [{"slug": "holy-thursday-the-eucharist", "title": "Holy Thursday: The Eucharist"}, {"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing, Loving, and Living the Eucharist"}, {"slug": "our-lady-woman-of-the-eucharist", "title": "Our Lady, Woman of the Eucharist"}]
 ---
 
 By Fr. Conor Donnelly

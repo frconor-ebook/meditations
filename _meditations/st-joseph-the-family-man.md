@@ -2,6 +2,13 @@
 layout: homily
 title: "St. Joseph, The Family Man"
 description: "With the permission of Our Lord in the Blessed Sacrament, we continue with this period of prayer in front of Our Lord exposed in the Blessed Sacrament, in..."
+reading_time: 25
+tags: ["St. Joseph", "Saints & Feast Days", "Family & Marriage"]
+prev_slug: st-joseph-the-worker
+prev_title: "St. Joseph the Worker"
+next_slug: st-josephs-holiness-in-ordinary-life
+next_title: "St. Joseph\u2019s Holiness in Ordinary Life"
+related: [{"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}, {"slug": "self-emptying-and-st-joseph", "title": "Self-emptying and St. Joseph"}]
 ---
 
 By Fr. Conor Donnelly

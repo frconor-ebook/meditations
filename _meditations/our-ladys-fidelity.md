@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Lady\u2019s Fidelity"
 description: "\"Be it done unto me according to your word\" (Luke 1:38). When John Paul II went on his first international trip in 1979 to Mexico, he said, \"Among the..."
+reading_time: 16
+tags: ["Our Lady"]
+prev_slug: our-lady-woman-of-the-eucharist
+prev_title: "Our Lady, Woman of the Eucharist"
+next_slug: our-mother-in-may
+next_title: "Our Mother in May"
+related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
 ---
 
 By Fr. Conor Donnelly

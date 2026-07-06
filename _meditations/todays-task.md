@@ -2,6 +2,13 @@
 layout: homily
 title: "Today\u2019s Task"
 description: "Our Lord advises us in St. Matthew, \"Do not be anxious about tomorrow, for tomorrow will be anxious for itself. Let the day's own trouble be sufficient..."
+reading_time: 18
+tags: ["Work & Ordinary Life"]
+prev_slug: to-serve
+prev_title: "To Serve"
+next_slug: trinity-sunday
+next_title: "Trinity Sunday"
+related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "little-duties", "title": "Little Duties"}, {"slug": "little-things", "title": "Little Things"}]
 ---
 
 

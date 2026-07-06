@@ -2,6 +2,13 @@
 layout: homily
 title: "Magnanimity"
 description: "\"As he passed on from there, Jesus saw a man named Matthew, sitting at work at the tax collector's place. And he said to him, 'Follow me'\" (Matt. 9:9)..."
+reading_time: 22
+tags: ["Virtues & Struggle"]
+prev_slug: lukewarmness
+prev_title: "Lukewarmness"
+next_slug: making-a-more-just-world
+next_title: "Making A More Just World"
+related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
 ---
 
 By Fr. Conor Donnelly

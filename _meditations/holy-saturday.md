@@ -2,6 +2,13 @@
 layout: homily
 title: "Holy Saturday"
 description: "On Holy Saturday, the Church is silent. Christ has been taken down from the Cross. The Church is in mourning. There are no liturgical ceremonies today..."
+reading_time: 20
+tags: ["Lent, Holy Week & Easter"]
+prev_slug: holy-purity
+prev_title: "Holy Purity"
+next_slug: holy-thursday-the-eucharist
+next_title: "Holy Thursday: The Eucharist"
+related: [{"slug": "holy-thursday-the-eucharist", "title": "Holy Thursday: The Eucharist"}, {"slug": "egypt-and-the-holy-family", "title": "Egypt and the Holy Family"}, {"slug": "fruits-of-the-holy-spirit", "title": "Fruits of the Holy Spirit"}]
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,13 @@
 layout: homily
 title: "Our Lady of the Snows"
 description: "After the promulgation of the dogma of the divine maternity of Mary at the Council of Ephesus, Pope Sixtus III consecrated a basilica in Rome in honor of..."
+reading_time: 15
+tags: ["Our Lady"]
+prev_slug: our-lady-of-the-rosary-2026
+prev_title: "Our Lady of the Rosary (2026)"
+next_slug: our-lady-the-queen
+next_title: "Our Lady the Queen"
+related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
 ---
 
 By Fr. Conor Donnelly

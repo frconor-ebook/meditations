@@ -2,6 +2,13 @@
 layout: homily
 title: "Lukewarmness"
 description: "\"How blessed is anyone who rejects the advice of the wicked,\" we are told in the Psalms, \"and does not take a stand in the path that sinners tread, nor a..."
+reading_time: 25
+tags: ["Virtues & Struggle"]
+prev_slug: loyalty
+prev_title: "Loyalty"
+next_slug: magnanimity
+next_title: "Magnanimity"
+related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
 ---
 
 By Fr. Conor Donnelly

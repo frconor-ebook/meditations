@@ -2,6 +2,13 @@
 layout: homily
 title: "Solemnity of All Saints (2026)"
 description: "We can remember today in a special way that sanctity is accessible to everyone in their various jobs and situations, and that to help us reach this goal..."
+reading_time: 18
+tags: ["Saints & Feast Days"]
+prev_slug: sincerity-love-for-truth
+prev_title: "Sincerity, Love for Truth"
+next_slug: solemnity-of-the-assumption-2026
+next_title: "Solemnity of the Assumption (2026)"
+related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "the-solemnity-of-st-joseph-2026", "title": "The Solemnity of St. Joseph (2026)"}, {"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}]
 ---
 
 

@@ -2,6 +2,12 @@
 layout: homily
 title: "Good Anger and Bad Anger"
 description: "\"Now the older son was out in the fields, and, on his way back, as he drew near the house, he could hear music and dancing. Calling one of the servants..."
+reading_time: 21
+prev_slug: gods-bridge-builder
+prev_title: "God\u2019s Bridge-Builder"
+next_slug: good-friday-of-the-lords-passion
+next_title: "Good Friday of the Lord\u2019s Passion"
+related: [{"slug": "charity-versus-anger", "title": "Charity versus Anger"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}]
 ---
 
 By Fr. Conor Donnelly

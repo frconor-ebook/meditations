@@ -2,6 +2,13 @@
 layout: homily
 title: "The Birthday of the Prelate (Don Fernando)"
 description: "\"I am the Good Shepherd,\" we're told in St. John. \"The Good Shepherd lays down his life for his sheep\" (John 10:11). We can thank Our Lord for this image..."
+reading_time: 22
+tags: ["Opus Dei"]
+prev_slug: the-birthday-of-st-josemaria-escriva
+prev_title: "The Birthday of St. Josemar\u00eda Escriv\u00e1"
+next_slug: the-blind-man
+next_title: "The Blind Man"
+related: [{"slug": "the-anniversary-of-the-election-of-don-fernando-ocariz-as-the-prelate-of", "title": "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"}, {"slug": "the-birthday-of-st-josemaria-escriva", "title": "The Birthday of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "the-saints-day-of-the-prelate", "title": "The Saint\u2019s Day of the Prelate"}]
 ---
 
 By Fr. Conor Donnelly
