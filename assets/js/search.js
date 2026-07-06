@@ -11,44 +11,26 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   var MAX_RESULTS = 30;
-  var STOPWORDS = new Set(['a', 'an', 'and', 'as', 'at', 'be', 'by', 'for',
-    'in', 'is', 'it', 'of', 'on', 'or', 'that', 'the', 'this', 'to', 'was', 'with']);
-  var mini = null;
-  var indexPromise = null;
+  var pagefind = null;
+  var loadPromise = null;
 
-  function loadIndex() {
-    if (!indexPromise) {
-      indexPromise = fetch(baseurl + '/data/search_index.json')
-        .then(function(response) {
-          if (!response.ok) throw new Error('HTTP ' + response.status);
-          return response.json();
-        })
-        .then(function(docs) {
-          var ms = new MiniSearch({
-            idField: 'slug',
-            fields: ['title', 'excerpt'],
-            storeFields: ['title', 'slug', 'excerpt'],
-            processTerm: function(term) {
-              term = term.toLowerCase();
-              return STOPWORDS.has(term) ? null : term;
-            },
-            searchOptions: {
-              boost: { title: 3 },
-              prefix: true,
-              fuzzy: 0.15,
-              combineWith: 'AND'
-            }
-          });
-          ms.addAll(docs);
-          mini = ms;
+  // Pagefind indexes the full text of every meditation at build time and
+  // serves it in small chunks, so nothing heavy loads until someone searches
+  function loadPagefind() {
+    if (!loadPromise) {
+      loadPromise = import(baseurl + '/pagefind/pagefind.js').then(function(pf) {
+        return Promise.resolve(pf.options({ baseUrl: baseurl + '/' })).then(function() {
+          pf.init();
+          pagefind = pf;
         });
+      });
     }
-    return indexPromise;
+    return loadPromise;
   }
 
-  // Start fetching the index as soon as the user shows intent to search
+  // Start loading as soon as the user shows intent to search
   searchBox.addEventListener('focus', function() {
-    loadIndex().catch(function() {});
+    loadPagefind().catch(function() {});
   }, { once: true });
 
   var debounceTimer = null;
@@ -65,21 +47,35 @@ document.addEventListener('DOMContentLoaded', function() {
       return;
     }
 
-    if (!mini) {
-      showStatus('Loading search index…');
-      loadIndex().then(runSearch).catch(function(error) {
-        console.error('Error loading search index:', error);
-        showStatus('Error loading search index. Please try again later.');
+    if (!pagefind) {
+      showStatus('Loading search…');
+      loadPagefind().then(runSearch).catch(function(error) {
+        console.error('Error loading search:', error);
+        showStatus('Error loading search. Please try again later.');
       });
       return;
     }
 
-    var results = mini.search(query);
-    if (results.length === 0) {
-      // All-terms match failed; fall back to any-term so near misses still surface
-      results = mini.search(query, { combineWith: 'OR' });
-    }
-    displayResults(results, query);
+    // Multi-word queries: run an exact-phrase search alongside the broad
+    // word search and rank exact matches first — someone recalling a phrase
+    // from mid-meditation gets that meditation at the top
+    var wantsPhrase = query.indexOf(' ') !== -1 && query.indexOf('"') === -1;
+    Promise.all([
+      wantsPhrase ? pagefind.search('"' + query + '"') : Promise.resolve(null),
+      pagefind.search(query)
+    ]).then(function(res) {
+      if (searchBox.value.trim() !== query) return; // superseded by newer input
+      var exact = res[0] ? res[0].results : [];
+      var seen = {};
+      exact.forEach(function(r) { seen[r.id] = true; });
+      var broad = (res[1] ? res[1].results : []).filter(function(r) {
+        return !seen[r.id];
+      });
+      displayResults(exact.concat(broad), query);
+    }).catch(function(error) {
+      console.error('Search error:', error);
+      showStatus('Search failed. Please try again.');
+    });
   }
 
   function showStatus(message) {
@@ -95,106 +91,53 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   function displayResults(results, query) {
-    searchResults.innerHTML = '';
-
     if (results.length === 0) {
-      searchResults.appendChild(
-        makeStatus('No results for “' + query + '”.')
-      );
+      showStatus('No results for “' + query + '”. Search matches whole words — ' +
+        'check the spelling or try a different word.');
       return;
     }
 
-    searchResults.appendChild(
-      makeStatus(results.length + (results.length === 1 ? ' result' : ' results'))
-    );
+    // Fetch details for the results we will show
+    Promise.all(
+      results.slice(0, MAX_RESULTS).map(function(result) { return result.data(); })
+    ).then(function(pages) {
+      // The query may have changed while page data was loading
+      if (searchBox.value.trim() !== query) return;
 
-    var list = document.createElement('ul');
-    list.className = 'search-results-list';
-
-    results.slice(0, MAX_RESULTS).forEach(function(result) {
-      var item = document.createElement('li');
-
-      var link = document.createElement('a');
-      link.href = baseurl + '/homilies/' + result.slug + '/';
-      appendHighlighted(link, result.title, result.terms);
-      item.appendChild(link);
-
-      var snippetText = makeSnippet(result.excerpt, result.terms);
-      if (snippetText) {
-        var snippet = document.createElement('p');
-        snippet.className = 'search-snippet';
-        appendHighlighted(snippet, snippetText, result.terms);
-        item.appendChild(snippet);
-      }
-
-      list.appendChild(item);
-    });
-    searchResults.appendChild(list);
-
-    if (results.length > MAX_RESULTS) {
+      searchResults.innerHTML = '';
       searchResults.appendChild(
-        makeStatus('Showing the first ' + MAX_RESULTS + ' results.')
+        makeStatus(results.length + (results.length === 1 ? ' result' : ' results'))
       );
-    }
-  }
 
-  // Regex matching any of the matched terms as a word prefix
-  function termPattern(terms) {
-    var escaped = (terms || [])
-      .filter(function(term) { return term.length > 1; })
-      .map(function(term) {
-        return term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      var list = document.createElement('ul');
+      list.className = 'search-results-list';
+
+      pages.forEach(function(page) {
+        var item = document.createElement('li');
+
+        var link = document.createElement('a');
+        link.href = page.url;
+        link.textContent = (page.meta && page.meta.title) || page.url;
+        item.appendChild(link);
+
+        if (page.excerpt) {
+          var snippet = document.createElement('p');
+          snippet.className = 'search-snippet';
+          // Pagefind excerpts are escaped text from our own pages with
+          // <mark> tags around matched terms
+          snippet.innerHTML = page.excerpt;
+          item.appendChild(snippet);
+        }
+
+        list.appendChild(item);
       });
-    if (escaped.length === 0) return null;
-    return new RegExp('\\b(?:' + escaped.join('|') + ')\\w*', 'gi');
-  }
+      searchResults.appendChild(list);
 
-  // Append text to el with matched terms wrapped in <mark>
-  function appendHighlighted(el, text, terms) {
-    var pattern = termPattern(terms);
-    if (!pattern) {
-      el.appendChild(document.createTextNode(text));
-      return;
-    }
-    var lastIndex = 0;
-    var match;
-    while ((match = pattern.exec(text)) !== null) {
-      if (match.index > lastIndex) {
-        el.appendChild(document.createTextNode(text.slice(lastIndex, match.index)));
+      if (results.length > MAX_RESULTS) {
+        searchResults.appendChild(
+          makeStatus('Showing the first ' + MAX_RESULTS + ' results.')
+        );
       }
-      var mark = document.createElement('mark');
-      mark.textContent = match[0];
-      el.appendChild(mark);
-      lastIndex = match.index + match[0].length;
-    }
-    if (lastIndex < text.length) {
-      el.appendChild(document.createTextNode(text.slice(lastIndex)));
-    }
-  }
-
-  // A short window of the excerpt around the first matched term
-  function makeSnippet(excerpt, terms) {
-    if (!excerpt) return '';
-
-    var pattern = termPattern(terms);
-    var pos = 0;
-    if (pattern) {
-      var match = pattern.exec(excerpt);
-      if (match) pos = match.index;
-    }
-
-    var start = 0;
-    if (pos > 60) {
-      start = excerpt.lastIndexOf(' ', pos - 60);
-      if (start < 0) start = 0;
-    }
-    var end = Math.min(excerpt.length, pos + 180);
-    var endSpace = excerpt.indexOf(' ', end);
-    if (endSpace !== -1) end = endSpace;
-
-    var text = excerpt.slice(start, end).trim();
-    if (start > 0) text = '…' + text;
-    if (end < excerpt.length) text += '…';
-    return text;
+    });
   }
 });

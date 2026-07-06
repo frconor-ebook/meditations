@@ -213,7 +213,7 @@ check_dependencies() {
     log "INFO" "Checking dependencies..."
 
     # Check for required commands
-    for cmd in python3 find bundle git; do
+    for cmd in python3 find bundle git npx; do
         if ! command -v $cmd &> /dev/null; then
             log "ERROR" "Required command not found: $cmd"
             missing_deps=true
@@ -527,7 +527,11 @@ build_jekyll_site() {
     log "INFO" "Building Jekyll site..."
     bundle exec jekyll build || error_message "Jekyll build failed."
 
-    log "SUCCESS" "Jekyll site has been built."
+    # Index the built site for search (same version as CI)
+    log "INFO" "Indexing site for search (Pagefind)..."
+    npx -y pagefind@1.5.2 --site docs || error_message "Pagefind indexing failed."
+
+    log "SUCCESS" "Jekyll site has been built and indexed."
 }
 
 # Function to validate the build output before deploying
@@ -553,14 +557,12 @@ validate_site() {
         error_message "Validation failed: only $src_count meditation files (expected >= 500). Refusing to deploy."
     fi
 
-    # The search index must parse and match the collection
-    python3 -c "
-import json, sys
-idx = json.load(open('data/search_index.json'))
-expected = $src_count
-if len(idx) != expected:
-    sys.exit(f'search index has {len(idx)} entries but there are {expected} meditation files')
-" || error_message "Validation failed: search index is broken or out of sync."
+    # The Pagefind search index must cover the collection (one fragment/page)
+    local fragment_count
+    fragment_count=$(find docs/pagefind/fragment -type f 2>/dev/null | wc -l)
+    if [[ "$fragment_count" -lt "$src_count" ]]; then
+        error_message "Validation failed: search index has $fragment_count fragments for $src_count meditations."
+    fi
 
     # Build output sanity
     if [[ ! -s "docs/index.html" ]]; then

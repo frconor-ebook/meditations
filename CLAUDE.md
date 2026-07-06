@@ -45,9 +45,9 @@ The pipeline transforms source DocX files into a Jekyll website:
 3. **Standardize** (`preprocessing_scripts/standardize_filename.py`): Normalizes filenames (lowercase, removes diacritics, replaces spaces with hyphens)
 4. **Process** (`process_markdown.py`):
    - Converts Markdown files to Jekyll collection documents in `_meditations/` (full rebuild each run; filenames are slugs, so output is deterministic)
-   - Generates `data/meditations.json` (full index, local artifact, gitignored) and `data/search_index.json` (lightweight search index shipped to the site)
+   - Generates `data/meditations.json` (full index, local artifact, gitignored)
    - Extracts title from first heading, creates URL slugs
-5. **Build**: Jekyll builds to `docs/` locally (validation/preview only — `docs/` is gitignored)
+5. **Build**: Jekyll builds to `docs/` locally, then Pagefind indexes the built HTML for full-text search (validation/preview only — `docs/` is gitignored; CI repeats both for the deployed site)
 6. **Validate**: sanity gate (meditation count, search index, page count) — fails before anything is pushed
 7. **Deploy**: commits sources (`_meditations/`, `data/`) and pushes; the `.github/workflows/deploy.yml` GitHub Actions workflow then builds and deploys the site atomically via `actions/deploy-pages`
 
@@ -56,7 +56,7 @@ The pipeline transforms source DocX files into a Jekyll website:
 - `_meditations/`: Generated Jekyll collection documents (auto-generated, do not edit directly)
 - `_layouts/`: Jekyll layouts (`homily.html` for meditation posts, extends `default.html`)
 - `_includes/`: Shared components (header, footer, search, share-links)
-- `data/`: JSON index files for search functionality
+- `data/`: local JSON artifacts (`meditations.json`, gitignored); site search is Pagefind, generated into `docs/pagefind/` at build time
 - `docs/`: Jekyll build output (gitignored; GitHub Pages deploys from the Actions workflow, not from this directory)
 - `preprocessing_scripts/`: Python/shell scripts for content processing
 - `assets/`: CSS and JavaScript files

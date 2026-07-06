@@ -450,21 +450,12 @@ def convert_markdown_to_meditations(source_dir, output_dir, data_dir):
                 )
                 print(f"  New: {m['title']} [{status}]")
 
-    # Full index: local artifact only (gitignored), used by the URL-shortener
+    # Full index: local artifact only (gitignored), used by the URL-shortener.
+    # (Site search is Pagefind, indexed from the built HTML at deploy time —
+    # no search index is generated here anymore.)
     with open(meditations_json_path, "w") as f:
         json.dump(meditations, f, indent=2)
     print(f"Created: {meditations_json_path}")
-
-    # Lightweight search index (title, slug, excerpt only), shipped to visitors
-    search_index = [
-        {"title": m["title"], "slug": m["slug"], "excerpt": m["excerpt"]}
-        for m in meditations
-    ]
-    search_index_path = os.path.join(data_dir, "search_index.json")
-    with open(search_index_path, "w") as f:
-        # Minified: this file is shipped to every visitor who searches
-        json.dump(search_index, f, separators=(",", ":"))
-    print(f"Created: {search_index_path}")
 
     print(f"Processed {len(meditations)} meditations.")
 

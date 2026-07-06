@@ -58,6 +58,9 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      - name: Index search (Pagefind)
+        run: npx -y pagefind@1.5.2 --site docs
+
       - name: Validate build
         run: |
           set -e
@@ -65,12 +68,10 @@ jobs:
           pages=$(find docs/homilies -name index.html | wc -l)
           echo "homily pages: $pages"
           [ "$pages" -ge 500 ] || { echo "FAIL: only $pages homily pages (expected >= 500)"; exit 1; }
-          python3 -c "
-          import json
-          idx = json.load(open('docs/data/search_index.json'))
-          assert len(idx) >= 500, f'search index has only {len(idx)} entries'
-          print(f'search index entries: {len(idx)}')
-          "
+          test -s docs/pagefind/pagefind.js || { echo "FAIL: pagefind bundle missing"; exit 1; }
+          fragments=$(find docs/pagefind/fragment -type f | wc -l)
+          echo "search fragments: $fragments"
+          [ "$fragments" -ge "$pages" ] || { echo "FAIL: $fragments search fragments for $pages pages"; exit 1; }
           test -s docs/sitemap.xml || { echo "FAIL: sitemap.xml missing"; exit 1; }
 
       - uses: actions/upload-pages-artifact@v3

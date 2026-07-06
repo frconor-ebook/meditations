@@ -249,12 +249,9 @@ class TestConversion:
         assert our_lady["anchor"] == "our-lady"
         assert any(m["slug"] == "our-lady-of-fatima" for m in our_lady["meditations"])
 
-    def test_search_index_minified_with_clean_excerpts(self, site):
-        raw = open(site["data"] / "search_index.json").read()
-        assert "\n" not in raw.strip()
-        idx = json.load(open(site["data"] / "search_index.json"))
-        assert set(idx[0].keys()) == {"title", "slug", "excerpt"}
-        assert all(m["excerpt"].startswith("St. Paul teaches") for m in idx)
+    def test_excerpts_skip_boilerplate(self, site):
+        meds = json.load(open(site["data"] / "meditations.json"))
+        assert all(m["excerpt"].startswith("St. Paul teaches") for m in meds)
 
     def test_idempotent_rerun(self, site):
         before = (site["output"] / "humility.md").read_bytes()
@@ -271,8 +268,8 @@ class TestConversion:
             str(site["source"]), str(site["output"]), str(site["data"])
         )
         assert not (site["output"] / "our-lady-of-fatima.md").exists()
-        idx = json.load(open(site["data"] / "search_index.json"))
-        assert all(m["slug"] != "our-lady-of-fatima" for m in idx)
+        meds = json.load(open(site["data"] / "meditations.json"))
+        assert all(m["slug"] != "our-lady-of-fatima" for m in meds)
 
     def test_new_meditation_reported(self, site, capsys):
         write_corpus(str(site["source"]), {
@@ -300,5 +297,5 @@ class TestDuplicateSlugs:
         out = capsys.readouterr().out
         assert "duplicate slug 'humility'" in out
         assert "Proofread text." in (root / "_meditations" / "humility.md").read_text()
-        idx = json.load(open(root / "data" / "search_index.json"))
-        assert len(idx) == 1
+        meds = json.load(open(root / "data" / "meditations.json"))
+        assert len(meds) == 1

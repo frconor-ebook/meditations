@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<article>
+<article data-pagefind-body>
     <h1>{{ page.title }}</h1>
-    <div class="meditation-meta">
+    <div class="meditation-meta" data-pagefind-ignore>
         {% if page.reading_time %}
         <span class="reading-time" title="Estimated reading time">{{ page.reading_time }} min read</span>
         {% endif %}
