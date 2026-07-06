@@ -2,12 +2,12 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-vendor
+/vendor
 repomix-output.txt
 preprocessing_scripts/.env
 preprocessing_scripts/*/*.pyc
 .DS_Store
-vendor/
+/vendor/
 # Existing entries...
 preprocessing_scripts/conversion_logs/
 preprocessing_scripts/conversion_logs/*

@@ -21,6 +21,7 @@ plugins:
 # Include an exclude
 include:
   - "data/"
+  - ".nojekyll"  # copied into docs/ so GitHub Pages serves it raw (no second Jekyll pass)
 
 exclude:
   - "data/meditations.json"
