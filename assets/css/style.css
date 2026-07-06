@@ -1295,3 +1295,37 @@ footer p {
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
+
+/* Mobile adjustments for browsing components */
+@media screen and (max-width: 768px) {
+  /* Comfortable touch targets for the A-Z jump bar */
+  .az-nav a,
+  .az-nav .az-empty {
+    min-width: 38px;
+    padding: 9px 8px;
+    font-size: 1rem;
+  }
+
+  .topics-nav a {
+    padding: 8px 14px;
+  }
+
+  .tag-chip {
+    padding: 6px 12px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  /* Stack prev/next cards instead of squeezing them side by side */
+  .meditation-nav {
+    flex-direction: column;
+  }
+
+  .meditation-nav a {
+    max-width: 100%;
+  }
+
+  .meditation-nav .nav-next {
+    margin-left: 0;
+  }
+}
