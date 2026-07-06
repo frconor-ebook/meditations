@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Learning to Ask"
+description: "\"He has filled the hungry with good things, and the rich he has sent away empty\" (Luke 1:53). We should pray frequently about our divine filiation. Our..."
 ---
 
 By Fr. Conor Donnelly

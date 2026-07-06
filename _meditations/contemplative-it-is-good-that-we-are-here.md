@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Contemplative: It Is Good That We Are Here"
+description: "\"Lord, it is good that we are here,\" said St. Peter on the occasion of the Transfiguration (Matt. 17:4). Many important events in Our Lord's life take..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Faith of Abraham"
+description: "\"Yahweh said to Abraham: 'Leave your country, your kindred, and your father's house for a country which I will show you'\" (Gen. 12:1). God places a very..."
 ---
 
 By Fr. Conor Donnelly

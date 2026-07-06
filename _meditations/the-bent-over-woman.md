@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Bent Over Woman"
+description: "\"And there before him was a woman who for eighteen years had been possessed by a spirit that crippled her; she was bent double and quite unable to stand..."
 ---
 
 By Fr. Conor Donnelly

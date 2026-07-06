@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "On Creation"
+description: "\"In the beginning, God created the heavens and the earth. The earth was without form and void, and darkness was upon the face of the deep; and the spirit..."
 ---
 
 By Fr. Conor Donnelly

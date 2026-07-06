@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Egypt and the Holy Family"
+description: "\"And when they had departed, behold, the angel of the Lord appeared to Joseph in a dream and said, 'Rise, take the child and his mother, and flee to..."
 ---
 
 By Fr. Conor Donnelly

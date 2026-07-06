@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Communion of Saints"
+description: "We are told in St. Paul, \"As with the human body which is a unity although it has many parts---all the parts of the body, though many, still making up one..."
 ---
 
 By Fr. Conor Donnelly

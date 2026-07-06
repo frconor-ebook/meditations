@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Salt That Has Lost Its Savor"
+description: "\"Salt without savor is no longer good for anything, except to be thrown out and trodden underfoot by men\" (Matt. 5:13). Our Lord has told His disciples..."
 ---
 
 By Fr. Conor Donnelly

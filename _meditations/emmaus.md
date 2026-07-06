@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Emmaus"
+description: "\"Now that very same day, two of them were on their way to a village called Emmaus, seven miles from Jerusalem, and they were talking together about all..."
 ---
 
 By Fr. Conor Donnelly

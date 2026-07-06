@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Parable of the Sower"
+description: "There was a story of a farmer who used to grow very good maize, and the maize that he grew was the best in the whole area. Every year at the local fair he..."
 ---
 
 By Fr. Conor Donnelly

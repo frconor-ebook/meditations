@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "God Has Captured Me With His Love"
+description: "\"My dear friends, let us love one another, since love is from God. Everyone who loves is a child of God and knows God. Whoever fails to love does not know..."
 ---
 
 By Fr. Conor Donnelly

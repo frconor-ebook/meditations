@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Mary, Mother of God (2nd Ed.)"
+description: "\"Son, behold your mother\" (John 19:27), Our Lord said on the Cross. Many times, we've contemplated Our Lady with the Child in her arms. And Christian..."
 ---
 
 By Fr. Conor Donnelly

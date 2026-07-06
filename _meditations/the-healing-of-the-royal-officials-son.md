@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "The Healing of the Royal Official’s Son"
+title: "The Healing of the Royal Official\u2019s Son"
+description: "\"He went again to Cana in Galilee, where he had changed the water into wine. And there was a royal official whose son was ill at Capernaum. Hearing that..."
 ---
 
 By Fr. Conor Donnelly

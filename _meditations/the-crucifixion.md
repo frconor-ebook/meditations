@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Crucifixion"
+description: "\"Pilate then had Jesus taken away and scourged. After this, the soldiers twisted some thorns into a crown, put it on his head, and dressed him in a purple..."
 ---
 
 By Fr. Conor Donnelly

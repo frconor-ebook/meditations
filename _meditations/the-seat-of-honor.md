@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Seat of Honor"
+description: "Every day provides a wonderful opportunity to grow in our love for Our Lady. Many Christians all over the world have the custom of honoring Our Lady on..."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The One Who Gives Us Jesus"
+description: "\"Do not labor for the food which perishes, but for that which endures to eternal life\" (John 6:27). Who is the one who prepares the Blessed Eucharist for..."
 ---
 
 By Fr. Conor Donnelly

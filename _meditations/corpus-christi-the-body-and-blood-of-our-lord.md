@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Corpus Christi (The Body and Blood of Our Lord)"
+description: "\"Stay with us, Lord, for it is almost evening.\" \"This was the invitation of the two disciples on their way to Emmaus on the evening of Easter Sunday..."
 ---
 
 By Fr. Conor Donnelly

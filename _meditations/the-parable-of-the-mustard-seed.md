@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Parable of the Mustard Seed"
+description: "\"He put before them another parable: 'The kingdom of heaven is like a mustard seed which a man took and sowed in his field. It is the smallest of all the..."
 ---
 
 

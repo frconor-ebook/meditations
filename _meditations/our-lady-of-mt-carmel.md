@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady of Mt. Carmel"
+description: "Today we celebrate the Feast of Our Lady of Mount Carmel. It's also the birthday and the feast day of Aunt Carmen, the sister of St. Josemar\u00eda, to whom we..."
 ---
 
 By Fr. Conor Donnelly

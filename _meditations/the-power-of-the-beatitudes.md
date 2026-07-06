@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Power of the Beatitudes"
+description: "\"Blessed are the poor in spirit, for theirs is the kingdom of heaven\" (Matt. 5:3). Pope Francis ceaselessly exhorted Christians to live the Beatitudes as..."
 ---
 
 By Fr. Conor Donnelly

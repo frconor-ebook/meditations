@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Teresa of Avila"
+description: "Saint Teresa of Avila was born in Spain on March 28, 1515, and joined the Carmelite order at the age of 18. In response to the extraordinary graces she..."
 ---
 
 

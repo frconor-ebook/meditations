@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Judgments (Charity)"
+description: "\"Do not judge, and you will not be judged; because the judgments you give are the judgments you will get, and the standard you use will be the standard..."
 ---
 
 By Fr. Conor Donnelly

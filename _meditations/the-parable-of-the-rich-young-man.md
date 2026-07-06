@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Parable of the Rich Young Man"
+description: "\"And now a man came to him and asked, 'Master, what good deed must I do to possess eternal life?' Jesus said to him, 'Why do you ask me about what is..."
 ---
 
 By Fr. Conor Donnelly

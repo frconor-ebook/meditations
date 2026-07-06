@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "Walking on the Water––Faith"
+title: "Walking on the Water\u2013\u2013Faith"
+description: "\"Immediately afterwards, he made his disciples get into the boat and cross the sea ahead of him, while he dismissed the crowd. When he had dismissed the..."
 ---
 
 *By Fr. Conor Donnelly*

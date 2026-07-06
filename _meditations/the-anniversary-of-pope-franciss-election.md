@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "The Anniversary of Pope Francis’s Election"
+title: "The Anniversary of Pope Francis\u2019s Election"
+description: "\"Jesus said to them, 'But who do you say that I am?' Simon Peter answered and said, 'You are the Christ, the Son of the living God.' Jesus, answering..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Joy of the Journey to Bethlehem"
+description: "\"These things I have spoken to you, so that my joy may be in you, and your joy may be fulfilled\" (John 15:11). We are coming again into a period of..."
 ---
 
 By Fr. Conor Donnelly

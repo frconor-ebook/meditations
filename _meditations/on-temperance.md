@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "On Temperance"
+description: "At Cana of Galilee, Our Lady said, \"They have no wine\" (John 2:3). She did not say, 'I have no wine' or, 'My glass is empty,' but \"they have no wine.\" The..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Luke (2026)"
+description: "St. Luke was a doctor who converted to the faith in the year 40, and later accompanied St. Paul in his second apostolic journey. He was also at the side..."
 ---
 
 

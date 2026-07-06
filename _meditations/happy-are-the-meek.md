@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Happy Are the Meek"
+description: "We are told in the Psalms, \"One thing have I asked of the Lord, that I will seek after, that I may dwell in the house of the Lord all the days of my life..."
 ---
 
 By Fr. Conor Donnelly

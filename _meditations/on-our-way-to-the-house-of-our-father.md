@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "On Our Way to The House of Our Father"
+description: "We're told in the Book of Revelation, \"Then he showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb..."
 ---
 
 

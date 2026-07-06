@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Interior Peace"
+description: "We\\'re told in the Letter of St. Peter, \"But according to his promise we wait for new heavens and a new earth in which righteousness dwells. Therefore..."
 ---
 
 By Fr. Conor Donnelly

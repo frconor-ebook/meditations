@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Resurrection"
+description: "\"Now on the first day of the week, Mary Magdalene came early to the tomb, while it was still dark, and she saw the stone taken away from the tomb\" (John..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Fidelity in Marriage"
+description: "A lawyer in Sydney, Australia tells a story of how one day an elderly couple came to see him. He was 86 and she was 83. The lawyer asked them, \"What can I..."
 ---
 
 By Fr. Conor Donnelly

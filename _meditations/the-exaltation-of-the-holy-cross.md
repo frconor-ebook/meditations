@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Exaltation of the Holy Cross"
+description: "\"But they shouted, 'Away with him, away with him, crucify him.' Pilate said, 'Shall I crucify your king?' The chief priests answered, 'We have no king..."
 ---
 
 By Fr. Conor Donnelly

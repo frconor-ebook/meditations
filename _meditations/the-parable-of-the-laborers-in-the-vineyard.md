@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Parable of the Laborers in the Vineyard"
+description: "\"Now the kingdom of heaven is like a landowner going out at daybreak to hire workers for his vineyard. He made an agreement with the workers for one..."
 ---
 
 By Fr. Conor Donnelly

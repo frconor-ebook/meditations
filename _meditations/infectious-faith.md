@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Infectious Faith"
+description: "There's an old Native American legend that says that one day there was a big fire in the forest. All the animals fled in terror in all directions, because..."
 ---
 
 By Fr. Conor Donnelly

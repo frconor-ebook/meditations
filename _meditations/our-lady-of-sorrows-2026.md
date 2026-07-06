@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady of Sorrows (2026)"
+description: "Today's feast follows immediately upon the Triumph of the Cross. The Church reminds us of the special union that Our Lady shared in the sacrifice of her..."
 ---
 
 

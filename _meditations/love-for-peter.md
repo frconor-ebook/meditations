@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Love for Peter"
+description: "\"When Jesus came into the portals of Caesarea Philippi, he asked his disciples, saying, 'Who do men say the Son of man is?' And they said, 'Some say John..."
 ---
 
 By Fr. Conor Donnelly

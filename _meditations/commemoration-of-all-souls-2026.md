@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Commemoration of All Souls (2026)"
+description: "Today we dedicate our prayers in suffrage for the souls in Purgatory --- souls that are still being purified of the remains of sin. Our ties with deceased..."
 ---
 
 

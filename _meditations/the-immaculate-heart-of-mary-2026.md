@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Immaculate Heart of Mary (2026)"
+description: "We are told in Scripture that Our Lady kept all these things, pondering them in her heart. After the consecration of the world to the most sweet and..."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Defending the Family"
+description: "\"After leaving there,\" we\\'re told in the Gospel of St. Mark, \"he came into the territory of Judea and Transjordania. And again crowds gathered round him..."
 ---
 
 By Fr. Conor Donnelly

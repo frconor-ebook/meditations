@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Making Good Decisions or The Virtue of Prudence"
+description: "\"The Lord replied, 'Who then is the wise and prudent steward whom the master will place over his household to give them their allowance of food at the..."
 ---
 
 By Fr. Conor Donnelly

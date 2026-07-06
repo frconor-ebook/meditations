@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Epiphany"
+description: "\"Now when Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the east came to Jerusalem saying, \\'Where is he who..."
 ---
 
 By Fr. Conor Donnelly

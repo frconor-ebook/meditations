@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Pro-Active Love"
+description: "\"But I say to you: Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you\" (Luke 6:27-28). In some..."
 ---
 
 By Fr. Conor Donnelly

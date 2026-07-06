@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Real Presence"
+description: "\"He who eats my flesh and drinks my blood abides in me, and I in him\" (John 6:56). The Real Presence of Our Lord in the Sacred Host is a Divine Mystery..."
 ---
 
 By Fr. Conor Donnelly

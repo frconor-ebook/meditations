@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "You Are Nothing"
+description: "\"He was by nature God. He did not consider being equal to God a thing to be clung to, but emptied himself, taking the nature of a slave, and being made..."
 ---
 
 By Fr. Conor Donnelly

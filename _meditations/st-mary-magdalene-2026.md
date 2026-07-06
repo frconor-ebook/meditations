@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Mary Magdalene (2026)"
+description: "Mary was originally from Magdala, a small city of Galilee on the northwest shore of Lake Tiberias. She was one of a group of women who followed Jesus and..."
 ---
 
 

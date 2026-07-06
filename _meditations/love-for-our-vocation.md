@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Love for Our Vocation"
+description: "\"Again, the kingdom of heaven is like a merchant in search of fine pearls. When finding one pearl of great value, he went and sold all that he had and..."
 ---
 
 By Fr. Conor Donnelly

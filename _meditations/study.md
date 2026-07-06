@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Study"
+description: "A number of years ago in Ireland there was an abortion referendum. A professor of mine was quite involved, and I went to see him. He told me that in the..."
 ---
 
 By Fr. Conor Donnelly

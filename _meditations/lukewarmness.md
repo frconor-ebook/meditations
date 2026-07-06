@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Lukewarmness"
+description: "\"How blessed is anyone who rejects the advice of the wicked,\" we are told in the Psalms, \"and does not take a stand in the path that sinners tread, nor a..."
 ---
 
 By Fr. Conor Donnelly

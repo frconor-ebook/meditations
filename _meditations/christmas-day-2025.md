@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Christmas Day, 2025"
+description: "\"In those days a decree went out from Caesar Augustus that the whole world should be enrolled\" (Luke 2:1). We can now see clearly that the decree of the..."
 ---
 
 By Fr. Conor Donnelly

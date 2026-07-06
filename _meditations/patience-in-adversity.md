@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Patience in Adversity"
+description: "\"But before all this happens, you will be seized and persecuted; you will be handed over to the synagogues and to imprisonment, and brought before kings..."
 ---
 
 By Fr. Conor Donnelly

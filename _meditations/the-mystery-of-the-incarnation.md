@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Mystery of the Incarnation"
+description: "There was a French farmer once who was a bit of an atheist, although his family were Catholic. On Christmas night, his wife and children were going out to..."
 ---
 
 By Fr. Conor Donnelly

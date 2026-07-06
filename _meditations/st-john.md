@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. John"
+description: "Today is the Feast of St. John, one of the Patrons of Youth. We find in his letters, the first letter of St. John, Chapter 1, \"This is the declaration..."
 ---
 
 By Fr. Conor Donnelly

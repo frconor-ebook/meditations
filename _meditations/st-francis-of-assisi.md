@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Francis of Assisi"
+description: "\"Blessed are the poor in spirit\" (Matt. 5:3), Our Lord said on one occasion, and also on many other occasions, with His words and with His deeds. Today is..."
 ---
 
 By Fr. Conor Donnelly

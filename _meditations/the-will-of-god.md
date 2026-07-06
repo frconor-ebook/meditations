@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Will of God"
+description: "\"Now it came to pass, as he was saying these things, that a certain woman from the crowd lifted up her voice and said to him, 'Blessed is the woman that..."
 ---
 
 By Fr. Conor Donnelly

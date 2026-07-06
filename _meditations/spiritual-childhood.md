@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Spiritual Childhood"
+description: "St. Mark tells us, \"They were bringing children to him, that he might touch them, and the disciples rebuked them.\" That's where He says, \"'Truly, I say to..."
 ---
 
 By Fr. Conor Donnelly

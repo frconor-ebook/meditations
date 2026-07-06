@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "Children—A Gift of God"
+title: "Children\u2014A Gift of God"
+description: "This meditation is about children, a gift of God. There's a phrase in Scripture that says, in Latin, Si scires donum Dei--\"If you knew the gift of God\"..."
 ---
 
 By Fr. Conor Donnelly

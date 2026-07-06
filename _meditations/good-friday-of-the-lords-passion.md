@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "Good Friday of the Lord’s Passion"
+title: "Good Friday of the Lord\u2019s Passion"
+description: "\"Pilate then had Jesus taken away and scourged; and after this, the soldiers twisted some thorns into a crown and put it on his head and dressed him in a..."
 ---
 
 By Fr. Conor Donnelly

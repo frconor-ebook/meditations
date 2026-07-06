@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Deeper Desire"
+description: "\"Blessed are those who hunger and thirst for justice, for they shall be satisfied\" (Matt. 5:6). One of the most authentic expressions of a thirst for..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Christ the King"
+description: "\"When the Son of man comes in his glory, escorted by all the angels, then he will take his seat on his throne of glory. All nations will be assembled..."
 ---
 
 By Fr. Conor Donnelly

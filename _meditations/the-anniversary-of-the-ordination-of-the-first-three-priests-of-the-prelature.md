@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Anniversary of the Ordination of the First Three Priests of the Prelature"
+description: "\"Now, therefore,\" we're told in the Book of Exodus, \"if you obey my voice and keep my covenant, you shall be my treasured possession out of all the..."
 ---
 
 By Fr. Conor Donnelly

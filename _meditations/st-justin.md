@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Justin"
+description: "St. Justin was born in the region of Samaria at the beginning of the second century. Like some other thinkers of his day, he opened a school of philosophy..."
 ---
 
 

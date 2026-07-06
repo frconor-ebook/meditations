@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "Mary of Bethany’s Authentic Love"
+title: "Mary of Bethany\u2019s Authentic Love"
+description: "\"Jesus, therefore, six days before the Pasch, came to Bethany, where Lazarus had been dead and Jesus raised to life. They made him a supper there, and..."
 ---
 
 By Fr. Conor Donnelly

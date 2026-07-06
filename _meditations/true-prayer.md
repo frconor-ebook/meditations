@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "True Prayer"
+description: "We're told in St. Luke that we \"ought always to pray and not lose heart\" (Luke 18:1). In the Book of Sirach, it says, \"The prayer of the humble pierces..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "The Birthday of St. Josemaría Escrivá"
+title: "The Birthday of St. Josemar\u00eda Escriv\u00e1"
+description: "We are told in the Book of Genesis, \"Such was the story of heaven and earth as they were created. At the time when Yahweh God made earth and heaven, there..."
 ---
 
 By Fr. Conor Donnelly

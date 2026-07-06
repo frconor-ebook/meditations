@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Correspondence to Grace"
+description: "\"For it is like a man going abroad, who called his servants and handed over his goods to them. And to one he gave five talents, to another two, and to..."
 ---
 
 By Fr. Conor Donnelly

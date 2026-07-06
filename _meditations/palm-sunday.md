@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Palm Sunday"
+description: "\"When they were near Jerusalem and had come to Bethphage on the Mount of Olives, then Jesus sent two disciples, saying to them, 'Go to the village facing..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Aunt Carmen"
+description: "We\\'re told in the Book of Proverbs, \"The truly capable woman---who can find her? She is far beyond the price of pearls. Her husband\\'s heart has..."
 ---
 
 By Fr. Conor Donnelly

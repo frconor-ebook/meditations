@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Forming Saints in the Domestic Church (Easter)"
+description: "\"Now on the first day of the week, Mary Magdalene came early to the tomb, while it was still dark, and she saw the stone taken away from the tomb. She ran..."
 ---
 
 By Fr. Conor Donnelly

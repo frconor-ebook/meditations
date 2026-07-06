@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Baptism of Jesus"
+description: "\"And when Jesus was baptized, he went up immediately from the water, and behold, the heavens were opened and he saw the Spirit of God descending like a..."
 ---
 
 By Fr. Conor Donnelly

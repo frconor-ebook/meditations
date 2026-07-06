@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Easter Joy"
+description: "\"Rejoice and be glad, O Virgin Mary, alleluia! For the Lord has truly risen\" (Prayer, Regina Coeli). Easter joy is an important part of our Christian..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Gratitude for Pope Benedict XVI"
+description: "We\\'re told in the Book of Isaiah, \"How beautiful on the mountains are the feet of those who bring good news\" (Isa. 52:7). It\\'s interesting to read the..."
 ---
 
 By Fr. Conor Donnelly

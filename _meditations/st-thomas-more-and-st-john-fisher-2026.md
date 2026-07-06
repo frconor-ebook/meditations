@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Thomas More and St. John Fisher (2026)"
+description: "John Fisher was ordained a priest in 1491. He held several teaching posts at the University of Cambridge, and at the same time was responsible for the..."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "God of Consolation"
+description: "We're told in St. Paul's Second Letter to the Corinthians, \"Blessed be the God and Father of Our Lord Jesus Christ, the Father of mercies and God of all..."
 ---
 
 By Fr. Conor Donnelly

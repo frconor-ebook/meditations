@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Light Streaming from Bethlehem"
+description: "\"This man came for a witness, to give testimony of the light, that all men might believe through him. He was not the light but was to give testimony of..."
 ---
 
 By Fr. Conor Donnelly

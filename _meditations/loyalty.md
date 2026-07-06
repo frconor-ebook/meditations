@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Loyalty"
+description: "\"It came to pass, as they were on their journey, that a man said to him, 'I will follow you wherever you go.' And Jesus said to him, 'The foxes have dens..."
 ---
 
 By Fr. Conor Donnelly

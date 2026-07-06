@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Cheerfulness"
+description: "There was a missionary in China many years ago who was trying to evangelize the daughter of a prominent lawyer. The lawyer was not very happy, and so he..."
 ---
 
 By Fr. Conor Donnelly

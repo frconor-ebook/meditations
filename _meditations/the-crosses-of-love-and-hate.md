@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Crosses of Love and Hate"
+description: "It is my good fortune to belong to a Church which is hated. Truly indeed it is loved by those who know its Divine character; but it is also hated by..."
 ---
 
 

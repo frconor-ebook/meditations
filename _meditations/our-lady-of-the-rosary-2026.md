@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady of the Rosary (2026)"
+description: "This feast day was instituted by Pope Pius V in thanksgiving for Our Lady's assistance in the Christian victory over the Turks at Lepanto on October 7..."
 ---
 
 

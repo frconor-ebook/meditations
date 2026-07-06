@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Monica"
+description: "\"Soon afterward he went into a city called Naim, and his disciples and a great crowd went with him. As he drew near to the gate of the city, behold, a man..."
 ---
 
 By Fr. Conor Donnelly

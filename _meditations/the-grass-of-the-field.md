@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Grass of the Field"
+description: "\"Now if that is how God clothes the wildflowers growing in the field, which are there today and thrown into the furnace tomorrow, will he not much more..."
 ---
 
 By Fr. Conor Donnelly

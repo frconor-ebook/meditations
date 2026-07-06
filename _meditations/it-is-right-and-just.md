@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "It Is Right and Just"
+description: "\"Friend, I am doing you no wrong,\" we are told in St. Matthew. \"Did you not agree with me for a denarius? Take what belongs to you and go. I choose to..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Sacred Heart of Jesus (2026)"
+description: "Devotion to the Sacred Heart already existed in the Middle Ages as a private devotion. It appears as a liturgical feast in 1675, following the apparitions..."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Devils Cast Out"
+description: "There was a four-year-old little boy once who was asked to say the Grace Before Meals, before the family\\'s Christmas dinner. All the members of the..."
 ---
 
 By Fr. Conor Donnelly

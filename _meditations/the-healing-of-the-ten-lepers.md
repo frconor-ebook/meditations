@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Healing of the Ten Lepers"
+description: "\"Now it happened that on the way to Jerusalem, Jesus was traveling in the borderlands of Samaria and Galilee. As he entered one of the villages, ten men..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Francis Xavier"
+description: "Today is the Feast of St. Francis Xavier. \"Go you, therefore, teach all nations\" (Matt. 28:19). St. Francis Xavier was born in the castle of Xavier in..."
 ---
 
 By Fr. Conor Donnelly

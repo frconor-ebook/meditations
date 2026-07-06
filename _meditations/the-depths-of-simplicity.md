@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Depths of Simplicity"
+description: "The world has one supreme test for character, and that is the possession of a virtue in a high and eminent degree. Many generals, for example, in our..."
 ---
 
 

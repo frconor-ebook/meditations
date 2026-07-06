@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Gift of Knowledge"
+description: "\"Because I have spoken these things, sorrow has filled your heart. But I speak the truth to you: it is expedient for you that I depart, for if I do not..."
 ---
 
 By Fr. Conor Donnelly

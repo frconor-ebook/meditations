@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Last Day of the Liturgical Year (Vigilance)"
+description: "We're told in St. Luke, \"Watch yourselves, or your hearts will be coarsened by debauchery and drunkenness and the cares of life, and that day will come..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Useless Servants"
+description: "\"We are useless servants. We have only done what was our duty\" (Luke 17:10), we're told in Scripture. And in another place, we're told, \"Blessed are those..."
 ---
 
 By Fr. Conor Donnelly

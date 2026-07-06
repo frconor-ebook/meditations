@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. John Henry Newman on The Laity"
+description: "St. Paul says to the Ephesians, \"For our wrestling is not against flesh and blood, but against principalities and powers, against the rulers of the world..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady the Queen"
+description: "The Entrance Antiphon of today's Mass for the Feast of Our Lady the Queen says, \"The Queen stands at your right hand, arrayed in cloth of gold\" (Ps..."
 ---
 
 By Fr. Conor Donnelly

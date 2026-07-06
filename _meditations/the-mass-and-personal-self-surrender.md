@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Mass and Personal Self-Surrender"
+description: "We\\'re told in St. John, \"For God so loved the world that he gave his only begotten Son, that whosoever believes in him should not perish, but have..."
 ---
 
 By Fr. Conor Donnelly

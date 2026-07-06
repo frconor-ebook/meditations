@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Divine Mercy Sunday"
+description: "\"According to the promise he made to our ancestors of his mercy to Abraham and to his descendants forever. His mercy is from generation to generation\"..."
 ---
 
 

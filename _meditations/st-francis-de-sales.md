@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Francis de Sales"
+description: "Born in Savoy in France in 1567, St. Francis de Sales fought Calvinism with apostolic zeal. He was the Bishop of Geneva, and with St. Frances de Chantal..."
 ---
 
 

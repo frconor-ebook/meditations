@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Hearts on Fire"
+description: "\"Did not our hearts burn within us when he explained to us the Scriptures?\" (Luke 24:32), we're told in the Gospel of St. Luke. And in St. Paul's Letter..."
 ---
 
 By Fr. Conor Donnelly

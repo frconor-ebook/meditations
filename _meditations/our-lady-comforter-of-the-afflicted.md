@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady, Comforter of the Afflicted"
+description: "\"As soon as the sound of your greeting reached my ears, the babe in my womb leapt for joy\" (Luke 1:44), so said St. Elizabeth when Our Lady visited her..."
 ---
 
 By Fr. Conor Donnelly

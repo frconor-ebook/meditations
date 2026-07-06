@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Helping To Do Good"
+description: "\"When he returned to Capernaum, some time later word went around that he was in the house; and so many people collected that there was no room left, even..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Preparing to Receive Jesus"
+description: "\"When he went into Capharnaum, a centurion came up and pleaded with him. 'Sir,' he said, 'my servant is lying at home paralyzed and in great pain.' Jesus..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Washing of the Feet"
+description: "\"Before the Feast of the Passover, Jesus, knowing that the hour had come for him to pass out of this world to the Father, having loved his own who were in..."
 ---
 
 By Fr. Conor Donnelly

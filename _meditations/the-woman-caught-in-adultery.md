@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Woman Caught in Adultery"
+description: "\"And Jesus went out to the Mount of Olives. At daybreak he appeared in the Temple again; and as all the people came to him, he sat down and began to teach..."
 ---
 
 By Fr. Conor Donnelly

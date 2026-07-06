@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Creative Courage of St. Joseph"
+description: "We're told in the Book of Genesis, \"But when all Egypt too began to feel the famine and the people appealed to Pharaoh for food, Pharaoh told the..."
 ---
 
 By Fr. Conor Donnelly

@@ -2,6 +2,9 @@ title: Fr. Conor Donnelly Meditations
 description: A collection of meditations by Fr. Conor Donnelly
 baseurl: "/meditations"  # The subpath of your site (important for GitHub Pages)
 url: "https://frconor-ebook.github.io" # Your site's URL
+lang: en
+author: Fr. Conor Donnelly
+logo: /assets/images/apple-touch-icon.png  # used by jekyll-seo-tag JSON-LD
 permalink: /homilies/:title/
 markdown: kramdown
 
@@ -17,6 +20,8 @@ source: .
 destination: ./docs
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Include an exclude
 include:
@@ -48,3 +53,8 @@ defaults:
       path: "data" # Apply these settings to files in _data
     values:
       sitemap: false  # Exclude data files from sitemap (optional but recommended)
+  - scope:
+      path: ""
+      type: "meditations"
+    values:
+      image: /assets/images/apple-touch-icon.png  # og:image for shared links

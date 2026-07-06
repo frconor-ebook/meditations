@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Trinity Sunday"
+description: "A number of years ago in Asia, I asked a six-year-old fellow how many persons there were in the Blessed Trinity. Very confidently he said, \"Four.\" I was..."
 ---
 
 By Fr. Conor Donnelly

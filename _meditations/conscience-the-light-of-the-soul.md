@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Conscience, The Light of the Soul"
+description: "We\\'re told in St. Luke, \"Your eye is the lamp of your body\\...therefore, be careful lest the light in you be darkness\" (Luke 11:34-35). \"He who follows..."
 ---
 
 By Fr. Conor Donnelly

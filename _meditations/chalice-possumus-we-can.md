@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Chalice, Possumus, We Can"
+description: "\"Then the mother of Zebedee\\'s sons came with her sons to make a request of him, and bowed low, and he said to her, 'What is it you want?' She said to..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "To Serve"
+description: "We're told in St. Mark, \"But it shall not be so among you. But whoever would be great among you must be your servant, and whoever would be first among you..."
 ---
 
 By Fr. Conor Donnelly

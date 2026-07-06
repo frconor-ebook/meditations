@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Martha, Martha"
+description: "\"In the course of their journey he came to a village, and a woman named Martha welcomed him into her house. She had a sister called Mary, who sat down at..."
 ---
 
 By Fr. Conor Donnelly

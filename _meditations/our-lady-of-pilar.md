@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady of Pilar"
+description: "We are told in the Magnificat, all generations shall call me blessed, for the Almighty has done great things for me (Luke 1:48-49). Christians everywhere..."
 ---
 
 By Fr. Conor Donnelly

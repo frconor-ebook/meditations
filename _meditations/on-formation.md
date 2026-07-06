@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "On Formation"
+description: "There was once a man who brought his four-year-old son to the national park. And in the national park, the kid saw an elephant. He got this idea of..."
 ---
 
 

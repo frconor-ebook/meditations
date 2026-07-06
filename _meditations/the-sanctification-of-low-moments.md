@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Sanctification of Low Moments"
+description: "\"Jacob\\'s well was there and Jesus, tired by his journey, sat down by the well. It was about the sixth hour\" (John 4:6). On another occasion, we're told..."
 ---
 
 By Fr. Conor Donnelly

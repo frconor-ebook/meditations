@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Jesus Christ, The Eternal High Priest"
+description: "\"You are a priest forever after the order of Melchizedek\" (Ps. 110:4), we are told in the Entrance Antiphon. The whole Church participates in the mission..."
 ---
 
 

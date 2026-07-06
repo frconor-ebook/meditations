@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Faithfulness"
+description: "We're told in the Book of Genesis that the Lord said to Abraham, \"Abraham, bear yourself blameless in my presence. ... You shall maintain my Covenant..."
 ---
 
 By Fr. Conor Donnelly

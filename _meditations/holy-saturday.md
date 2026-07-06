@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Holy Saturday"
+description: "On Holy Saturday, the Church is silent. Christ has been taken down from the Cross. The Church is in mourning. There are no liturgical ceremonies today..."
 ---
 
 By Fr. Conor Donnelly

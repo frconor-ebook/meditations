@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady, Mother of Mercy"
+description: "We are told in the Gospel of St. Mark: \"I have compassion on this crowd, because they have been with me now three days, and have nothing to eat; if I send..."
 ---
 
 By Fr. Conor Donnelly

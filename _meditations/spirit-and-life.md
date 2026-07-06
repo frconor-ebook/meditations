@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Spirit and Life"
+description: "\"Now his mother and brethren came to him, and they could not get to him because of the crowd. And it was told him, 'Your mother and your brethren are..."
 ---
 
 By Fr. Conor Donnelly

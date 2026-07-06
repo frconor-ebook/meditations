@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Immaculate Conception (Dec. 8)"
+description: "Today is the Feast of the Immaculate Conception of Our Lady, one of the greatest feast days of Our Lady in the whole of the liturgical year. It's a day..."
 ---
 
 By Fr. Conor Donnelly

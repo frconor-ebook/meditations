@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Fraternal Correction"
+description: "\"And the Lord\\'s servant,\" says St. Paul, \"must not be quarrelsome but kindly to everyone, an apt teacher, forbearing, correcting his opponents with..."
 ---
 
 By Fr. Conor Donnelly

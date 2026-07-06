@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady Help of Christians"
+description: "\"How have I deserved to be visited by the Mother of my Lord?\" (Luke 1:43). One of the first people to proclaim Our Lady as a helper, somebody who was..."
 ---
 
 By Fr. Conor Donnelly

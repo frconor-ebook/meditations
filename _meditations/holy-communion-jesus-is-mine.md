@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Holy Communion: Jesus Is Mine"
+description: "\"He who eats my flesh and drinks my blood abides in me and I in him\" (John 6:56). In Holy Communion Jesus gives Himself to each one of us. We could say..."
 ---
 
 By Fr. Conor Donnelly

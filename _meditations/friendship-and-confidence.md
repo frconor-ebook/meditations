@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Friendship and Confidence"
+description: "\"Then he said to his servants, 'The marriage feast indeed is ready, but those who were invited were not worthy. Go therefore to the crossroads and invite..."
 ---
 
 By Fr. Conor Donnelly

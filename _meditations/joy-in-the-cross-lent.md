@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Joy in the Cross (Lent)"
+description: "\"After Jesus had taken the wine, he said, 'It is fulfilled,' and bowing his head he gave up his spirit\" (John 19:30). Chesterton likes to say that one of..."
 ---
 
 By Fr. Conor Donnelly

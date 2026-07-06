@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Much Will Be Demanded: Responsibility"
+description: "We are told by St. Paul, \"For we must appear before the judgment seat of Christ, so that each one may receive good or evil, according to what he has done..."
 ---
 
 By Fr. Conor Donnelly

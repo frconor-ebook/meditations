@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Your One and Only Father"
+description: "\"I am the good shepherd. The good shepherd lays down his life for his sheep\" (John 10:11-18). And in another place, St. Paul says, \"My little children..."
 ---
 
 By Fr. Conor Donnelly

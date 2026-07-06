@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "Loving Jesus’ House"
+title: "Loving Jesus\u2019 House"
+description: "\"'This is why I told you that no one could come to me except by the gift of the Father.' After this, many of his disciples went away and accompanied him..."
 ---
 
 By Fr. Conor Donnelly

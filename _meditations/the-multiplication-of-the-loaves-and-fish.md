@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Multiplication of the Loaves and Fish"
+description: "We're told in the Gospel of today: \"Jesus went across the Sea of Galilee. And a large crowd followed him because they saw the signs he was performing on..."
 ---
 
 By Fr. Conor Donnelly

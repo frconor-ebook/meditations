@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Catherine of Siena (2026)"
+description: "Born in Siena in 1347, Catherine Benincasa, as a young girl, joined the Dominican Third Order and was outstanding for her spirit of prayer and penance..."
 ---
 
 

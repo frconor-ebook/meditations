@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Spiritual Receptivity"
+description: "\"The most fundamental question of Christian life is this: How should we receive the grace of the Holy Spirit? How can we keep ourselves ever open to his..."
 ---
 
 By Fr. Conor Donnelly

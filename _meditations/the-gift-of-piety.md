@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Gift of Piety"
+description: "\"Unless you become like little children, you cannot enter the kingdom of heaven\" (Matt. 18:3). The gift of piety, one of the seven gifts of the Holy..."
 ---
 
 By Fr. Conor Donnelly

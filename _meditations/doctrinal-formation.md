@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Doctrinal Formation"
+description: "\"And he entered Capernaum, and immediately on the Sabbath he went into the synagogue and began to teach them. And they were astonished at his teaching..."
 ---
 
 By Fr. Conor Donnelly

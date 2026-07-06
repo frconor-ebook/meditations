@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Unmerciful Servant"
+description: "\"Then Peter went up to him and said, 'Lord, how often must I forgive my brother if he wrongs me? As often as seven times?' Jesus answered, 'Not seven, I..."
 ---
 
 By Fr. Conor Donnelly

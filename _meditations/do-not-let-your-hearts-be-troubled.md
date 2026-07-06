@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Do Not Let Your Hearts Be Troubled"
+description: "\"Do not let your hearts be troubled; believe in God, believe also in me,\" we're told in St. John (John 14:1). \"The peace that must inhabit our hearts..."
 ---
 
 By Fr. Conor Donnelly

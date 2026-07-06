@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "Blessed Guadalupe Ortiz de Landázuri"
+title: "Blessed Guadalupe Ortiz de Land\u00e1zuri"
+description: "\"Thus, he chose us in Christ before the foundation of the world, before the world was made to be holy and faultless before him in love\" (Eph. 1:4). Today..."
 ---
 
 By Fr. Conor Donnelly

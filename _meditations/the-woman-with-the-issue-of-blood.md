@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Woman with the Issue of Blood"
+description: "In the Gospel of today, we are told, \"Suddenly, from behind, there came a woman who had been suffering from a hemorrhage for twelve years. She touched the..."
 ---
 
 By Fr. Conor Donnelly

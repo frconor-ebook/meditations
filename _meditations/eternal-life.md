@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Eternal Life"
+description: "As the Church chants her Alleluias and the dead things rise to life, in token of the Resurrection of Our Lord and Savior there is one great thought to be..."
 ---
 
 

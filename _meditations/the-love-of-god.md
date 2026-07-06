@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Love of God"
+description: "\"Now his older son was in the field, and when he came and drew close to the house, he heard music and dancing. And he called one of the servants and asked..."
 ---
 
 By Fr. Conor Donnelly

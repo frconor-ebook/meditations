@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "God’s Bridge-Builder"
+title: "God\u2019s Bridge-Builder"
+description: "If the modern mind were to be asked what thing in the world it would like most to discover, it might probably answer: the missing link. Every now and then..."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Sanctification of Later Years"
+description: "We're told in the Psalms, \"You show me the path of life. In your presence there is fullness of life\"( Ps 16:11). It's natural that as the years pass, we..."
 ---
 
 By Fr. Conor Donnelly

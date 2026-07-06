@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Beauty of the Manger"
+description: "\"And in that region, there were shepherds out in the field, keeping watch over their flock by night. And an angel of the Lord appeared to them, and the..."
 ---
 
 By Fr. Conor Donnelly

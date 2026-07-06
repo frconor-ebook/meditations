@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Benedict"
+description: "Benedict was born in Nursia, Italy about the year 480. After receiving an excellent education in Rome, he returned to Subiaco to live the life of a monk..."
 ---
 
 

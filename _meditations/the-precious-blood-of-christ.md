@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Precious Blood of Christ"
+description: "We're told in the Letter to the Hebrews: \"But now Christ has come, as the high priest of all the blessings which were to come. He has passed through the..."
 ---
 
 By Fr. Conor Donnelly

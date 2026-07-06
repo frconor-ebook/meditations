@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Launch Out Into The Deep"
+description: "\"Now it happened that he was standing one day by the Lake of Gennesareth, with the crowd pressing round him listening to the word of God, when he caught..."
 ---
 
 By Fr. Conor Donnelly

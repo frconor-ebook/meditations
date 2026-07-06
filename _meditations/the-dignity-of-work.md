@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Dignity of Work"
+description: "After God had created the earth, and enriched it with all manner of good things, He \"took the man and put him in the Garden of Eden, to till and keep it,\"..."
 ---
 
 By Fr. Conor Donnelly

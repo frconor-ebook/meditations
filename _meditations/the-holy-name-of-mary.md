@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Holy Name of Mary"
+description: "\"In the sixth month, the angel Gabriel was sent by God to a town in Galilee called Nazareth, to a virgin engaged to a man whose name was Joseph, of the..."
 ---
 
 By Fr. Conor Donnelly

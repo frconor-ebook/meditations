@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "True and False Freedom"
+description: "If there's one thing that we all desire, it's freedom. And yet this concept and its concrete manifestations are objects of a great deal of..."
 ---
 
 

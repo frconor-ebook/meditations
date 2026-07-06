@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Decree of Caesar Augustus and The Journey to Bethlehem"
+description: "This decree of Caesar Augustus changed the whole course of human history. We could imagine how perhaps Joseph was downtown one day and he heard a town..."
 ---
 
 By Fr. Conor Donnelly

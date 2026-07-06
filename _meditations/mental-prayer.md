@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Mental Prayer"
+description: "There was a mother once who used to go to Mass each day, and she decided to bring her five-year-old daughter with her. The daughter was there all..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Teresa Benedicta of the Cross (Edith Stein)"
+description: "We are told in the letters of St. Peter: \"Let not theirs be the outward adornment of braiding the hair, or of wearing gold, or of putting on robes; but..."
 ---
 
 By Fr. Conor Donnelly

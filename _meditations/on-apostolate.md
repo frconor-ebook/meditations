@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "On Apostolate"
+description: "There was a man in Australia once who learned about how to take the apostolic aspect of his Christian vocation a little more seriously. He saw that God..."
 ---
 
 By Fr. Conor Donnelly

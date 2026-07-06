@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Good Samaritan"
+description: "Jesus replied, \"A man was once on his way down from Jerusalem to Jericho and fell into the hands of brigands. He took all he had, beat him, and then made..."
 ---
 
 By Fr. Conor Donnelly

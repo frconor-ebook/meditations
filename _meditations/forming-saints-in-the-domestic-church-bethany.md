@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Forming Saints in the Domestic Church (Bethany)"
+description: "\"Jesus, therefore, six days before the Passover, came to Bethany, where Lazarus, whom Jesus had raised to life, had died. And they made him a supper..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Gift of Understanding"
+description: "\"But when the Advocate has come, whom I will send you from the Father, the Spirit of truth who proceeds from the Father, he will bear witness concerning..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Adoration of the Kings"
+description: "\"And all at once the star which they had seen in the East was there going before them, till at last it stood still over the place where the Child was\"..."
 ---
 
 By Fr. Conor Donnelly

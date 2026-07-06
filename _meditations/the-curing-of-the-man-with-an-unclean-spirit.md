@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Curing of the Man with an Unclean Spirit"
+description: "\"He went down to Capernaum, a town in Galilee, and taught them on the Sabbath. And his teaching made a deep impression on them because his word carried..."
 ---
 
 By Fr. Conor Donnelly

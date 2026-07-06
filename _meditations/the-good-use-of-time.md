@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Good Use of Time"
+description: "In Dublin many years ago there was a man who was a very prominent actuary, very prestigious, and he began to attend recollections of Opus Dei. Little by..."
 ---
 
 By Fr. Conor Donnelly

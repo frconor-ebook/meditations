@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Naturalness and Simplicity"
+description: "The Messiah came into the Temple in His Mother's arms. No one would have paid much attention to the young couple who were taking a little Child to present..."
 ---
 
 By Fr. Conor Donnelly

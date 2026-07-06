@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Corpus Christi (2026)"
+description: "Today's Solemnity goes back to the thirteenth century. It was first established in the Diocese of Li\u00e9ge in Belgium by Pope Urban IV. He had been the..."
 ---
 
 

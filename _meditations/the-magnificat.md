@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Magnificat"
+description: "\"And Mary said, 'My soul magnifies the Lord, and my spirit rejoices in God my Savior'\" (Luke 1:46-47). A lady in Asia once told me: When I read those..."
 ---
 
 By Fr. Conor Donnelly

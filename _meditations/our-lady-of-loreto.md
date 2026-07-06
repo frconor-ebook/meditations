@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady of Loreto"
+description: "The Holy House of Nazareth, where Our Lady was born, is still preserved in Loreto. In this sandstone and brick home that has been the site of many..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "In Expectation of Our Lord"
+description: "\"He came unto his own, and his own received him not\" (John 1:11). We\\'re invited in this period of Advent to keep watch for the coming of the Messiah. In..."
 ---
 
 By Fr. Conor Donnelly

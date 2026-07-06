@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Vocation of Our Lady"
+description: "\"When Christ came into the world, he said...'Lo, I have come to do your will, O God'\" (Heb. 10:5,7). The Annunciation and the Incarnation of the Son of..."
 ---
 
 

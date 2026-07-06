@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Luke"
+description: "\"After this the Lord appointed seventy-two others and sent them out ahead of him in pairs, to all the towns and places he himself would be visiting. And..."
 ---
 
 By Fr. Conor Donnelly

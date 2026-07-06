@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "Today’s Task"
+title: "Today\u2019s Task"
+description: "Our Lord advises us in St. Matthew, \"Do not be anxious about tomorrow, for tomorrow will be anxious for itself. Let the day's own trouble be sufficient..."
 ---
 
 

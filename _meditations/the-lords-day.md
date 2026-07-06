@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "The Lord’s Day"
+title: "The Lord\u2019s Day"
+description: "Three of the Evangelists say that \"the Son of Man is Lord of the Sabbath\" (Matt. 12:8, Mark 2:28, Luke 6:5). St. Justin said, \"On Sundays there is an..."
 ---
 
 By Fr. Conor Donnelly

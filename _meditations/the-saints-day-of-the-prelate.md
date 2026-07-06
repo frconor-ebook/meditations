@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "The Saint’s Day of the Prelate"
+title: "The Saint\u2019s Day of the Prelate"
+description: "\"I am the vine, you are the branches. Whoever remains in me, with me in him, bears fruit in plenty; for cut off from me you can do nothing\" (John 15:5)..."
 ---
 
 By Fr. Conor Donnelly

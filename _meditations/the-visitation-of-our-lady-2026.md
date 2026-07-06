@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Visitation of Our Lady (2026)"
+description: "We are told in St. Luke that \"Mary arose and went with haste into the hill country to a city of Judah\" (Luke 1:39). Today's feast, established by Pope..."
 ---
 
 

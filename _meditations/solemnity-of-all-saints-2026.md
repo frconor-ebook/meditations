@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Solemnity of All Saints (2026)"
+description: "We can remember today in a special way that sanctity is accessible to everyone in their various jobs and situations, and that to help us reach this goal..."
 ---
 
 

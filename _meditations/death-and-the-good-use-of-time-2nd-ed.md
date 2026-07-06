@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Death and the Good Use of Time (2nd Ed.)"
+description: "There was an elderly lady once in Singapore who used to go with her husband every day to the happy hour for a few drinks. Whenever she did, she would put..."
 ---
 
 By Fr. Conor Donnelly

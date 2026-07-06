@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Gift of Fear of the Lord"
+description: "We\\'re told in the Psalms, \"The fear of the Lord is the beginning of wisdom\" (Ps. 110:10). These words from the Bible tell us that fearing the Lord and..."
 ---
 
 By Fr. Conor Donnelly

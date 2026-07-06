@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Charity"
+description: "A number of years ago in Dublin, on a radio talk show, the speechwriter of the Vice President of the United States was interviewed. He was talking about..."
 ---
 
 By Fr. Conor Donnelly

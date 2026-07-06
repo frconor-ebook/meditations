@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Knowing God Through Mary"
+description: "There's a magnificent promise in the book of Isaiah where it says, \"The wolf shall dwell with the lamb, and the leopard shall lie down with the kid. They..."
 ---
 
 

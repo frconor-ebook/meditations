@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Zeal for Holiness Through Marriage"
+description: "There was a meeting of priests in Singapore one time, and we were talking about vocation. One religious missionary priest from Belgium stood up and said..."
 ---
 
 By Fr. Conor Donnelly

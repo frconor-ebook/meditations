@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Mary Magdalene"
+description: "\"One of the Pharisees invited him to a meal. When he arrived at the Pharisee's house and took his place at the table, suddenly a woman came in, who had a..."
 ---
 
 

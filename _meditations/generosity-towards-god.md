@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Generosity Towards God"
+description: "\"Well done, good and faithful servant. You have been faithful over a little; I will set you over much. Enter into the joy of your master\" (Matt..."
 ---
 
 By Fr. Conor Donnelly

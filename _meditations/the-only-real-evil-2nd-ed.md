@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Only Real Evil (2nd Ed.)"
+description: "Venerable Fulton Sheen points out that \"Our Lord spent thirty years of His life obeying, three years teaching, and three hours redeeming. But how did He..."
 ---
 
 By Fr. Conor Donnelly

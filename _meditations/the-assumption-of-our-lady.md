@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Assumption of Our Lady"
+description: "\"Now a great sign appeared in heaven: a woman, robed with the sun, standing on the moon, and on her head a crown of twelve stars\" (Rev. 12:1). Today is..."
 ---
 
 By Fr. Conor Donnelly

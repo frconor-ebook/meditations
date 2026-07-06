@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Prayer of Petition"
+description: "\"Ask, and it will be given to you; search, and you will find; knock, and the door will be opened to you. Everyone who asks receives; everyone who seeks..."
 ---
 
 By Fr. Conor Donnelly

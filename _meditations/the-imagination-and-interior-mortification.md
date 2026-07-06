@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Imagination and Interior Mortification"
+description: "\"Unless a man is born again of water and the Holy Spirit, he cannot enter the kingdom of Heaven\" (John 3:3,5). In the Gospel, Our Lord has an intimate..."
 ---
 
 By Fr. Conor Donnelly

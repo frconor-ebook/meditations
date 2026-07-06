@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Charity and the Tongue"
+description: "\"Only a few of you, my brothers,\" we are told in St. James, \"should be teachers, bearing in mind that we shall receive a stricter judgment. For we all..."
 ---
 
 By Fr. Conor Donnelly

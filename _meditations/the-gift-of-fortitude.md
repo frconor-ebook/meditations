@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Gift of Fortitude"
+description: "There is a story told about the conclave that elected Pope St. John Paul II, that when the votes were mounting for him in the conclave, the older Polish..."
 ---
 
 By Fr. Conor Donnelly

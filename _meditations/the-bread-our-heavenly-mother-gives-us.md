@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Bread Our Heavenly Mother Gives Us"
+description: "\"Blessed is the womb that bore you and the breasts that nourished you!\" And Our Lord replied, \"Blessed are they, rather, who hear the word of God and keep..."
 ---
 
 By Fr. Conor Donnelly

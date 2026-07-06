@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "‘Til Death Do Us Part"
+title: "\u2018Til Death Do Us Part"
+description: "\"God made them male and female. 'For this reason, a man shall leave his father and mother and be joined to his wife, and the two shall become one.' So..."
 ---
 
 By Fr. Conor Donnelly

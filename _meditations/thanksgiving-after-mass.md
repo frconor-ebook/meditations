@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Thanksgiving After Mass"
+description: "\"Jesus answered them. ... 'For the bread of God is the bread which comes down from heaven and gives life to the world.' 'Sir,' they said, 'give us that..."
 ---
 
 By Fr. Conor Donnelly

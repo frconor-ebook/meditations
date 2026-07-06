@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Purification of Our Lady"
+description: "When the day came for them to be purified, in keeping with the Law of Moses, they took Him up to Jerusalem to present Him to the Lord. The Mosaic Law..."
 ---
 
 

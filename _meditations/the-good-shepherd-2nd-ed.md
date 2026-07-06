@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Good Shepherd (2nd Ed.)"
+description: "\"I am the good shepherd. The good shepherd lays down his life for his sheep. I know my own and my own know me, just as the Father knows me and I know the..."
 ---
 
 

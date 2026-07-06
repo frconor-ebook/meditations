@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Eternal Happiness"
+description: "Mother Angelica, the founder of EWTN, tells a story of how one time in her convent they needed to raise money. They decided to bake some peanuts and to..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Feast of the Archangels (2026)"
+description: "The liturgy for today celebrates the feast of the three archangels who have been venerated throughout the history of the Church. Michael, from the Hebrew..."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Guardian Angels (2026)"
+description: "Devotion to the guardian angels goes back to the beginnings of Christianity. Pope Clement X proclaimed this feast a universal celebration in the 17th..."
 ---
 
 

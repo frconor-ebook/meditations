@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. John Mary Vianney"
+description: "August 4 is the Feast of the Cur\u00e9 of Ars, St. John Mary Vianney. Ars was the name of the small town in France of which he was the parish priest. He was..."
 ---
 
 By Fr. Conor Donnelly

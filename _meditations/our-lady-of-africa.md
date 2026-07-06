@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady of Africa"
+description: "\"My soul magnifies the Lord, and my spirit rejoices in God, my Savior\" (Luke 1:46-47). Today is the feast of Our Lady of Africa. The story goes that the..."
 ---
 
 By Fr. Conor Donnelly

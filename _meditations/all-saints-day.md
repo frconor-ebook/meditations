@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "All Saints’ Day"
+title: "All Saints\u2019 Day"
+description: "\"My dear friends,\" we are told in St. John, \"we are already God's children, but what we shall be in the future has not yet been revealed. We are well..."
 ---
 
 By Fr. Conor Donnelly

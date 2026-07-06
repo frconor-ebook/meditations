@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Sacred Humanity of Jesus"
+description: "An elderly lady stood up at a service someplace in Tennessee---elderly, gray hair, heavy German accent. She started talking about how she had been a..."
 ---
 
 By Fr. Conor Donnelly

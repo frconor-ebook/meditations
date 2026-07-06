@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "A Christian Outlook on Death"
+description: "St. Paul says to the Thessalonians, \"For you yourselves know well that the day of the Lord will come like a thief in the night\" (1 Thess. 5:2). Our Lord..."
 ---
 
 By Fr. Conor Donnelly

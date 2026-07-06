@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Self-denial"
+description: "\"If any person would come after me,\" said Our Lord, \"let him deny himself and take up his cross daily and follow me\" (Luke 9:23). Our Lord places a very..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Where Is Your Heart?"
+description: "Our Lord advises us not to pile up treasures on earth because they don't last long. Being fragile and perishable, moth and rust consume and where thieves..."
 ---
 
 

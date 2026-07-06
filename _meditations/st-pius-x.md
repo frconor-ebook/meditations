@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Pius X"
+description: "\"But although we had previously experienced sufferings,\" said St. Paul to the Thessalonians, \"and shameful treatment at Philippi, as you know, we had..."
 ---
 
 By Fr. Conor Donnelly

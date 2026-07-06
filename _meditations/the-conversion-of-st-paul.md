@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Conversion of St. Paul"
+description: "\"Meanwhile, Saul was still breathing threats to slaughter the Lord\\'s disciples. He went to the high priest and asked for letters addressed to the..."
 ---
 
 By Fr. Conor Donnelly

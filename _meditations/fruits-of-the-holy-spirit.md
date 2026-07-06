@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Fruits of the Holy Spirit"
+description: "Our Lord says in St. Matthew, \"You will know them by their fruits. Are grapes gathered from thorns, or figs from thistles? Every sound tree bears good..."
 ---
 
 By Fr. Conor Donnelly

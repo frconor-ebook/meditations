@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Enlarging the Heart"
+description: "\"But when the Pharisees heard that he had silenced the Sadducees, they got together, and to put him to the test, one of them put a further question..."
 ---
 
 By Fr. Conor Donnelly

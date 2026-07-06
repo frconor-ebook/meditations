@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Nativity of Our Lady"
+description: "\"This is how Jesus Christ came to be born,\" we're told in St. Matthew's Gospel. \"His mother Mary was betrothed to Joseph, but before they came together..."
 ---
 
 By Fr. Conor Donnelly

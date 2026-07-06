@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Aim High"
+description: "\"The Spirit of the Lord is upon me. He has sent me to bring good tidings to the poor, to proclaim liberty to the captives, release to the prisoners, and..."
 ---
 
 By Fr. Conor Donnelly

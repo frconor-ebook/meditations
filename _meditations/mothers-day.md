@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "Mother’s Day"
+title: "Mother\u2019s Day"
+description: "We\\'re told in the Psalms: \\\"For you created my inmost being; you knit me together in my mother\\'s womb\" (Ps. 139:13). Mother\\'s Day honors the sacrifices..."
 ---
 
 By Fr. Conor Donnelly

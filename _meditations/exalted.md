@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Exalted"
+description: "\"Now the snake was the most subtle of all the wild animals that God had made. It asked the woman, 'Did God really say you were not to eat of any of the..."
 ---
 
 

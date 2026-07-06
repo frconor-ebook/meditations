@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Blessed Are the Peacemakers"
+description: "My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my..."
 ---
 
 By Fr. Conor Donnelly

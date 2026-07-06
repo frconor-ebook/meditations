@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Narrow Path"
+description: "We're told in St. Luke that on the way to Jerusalem, someone asked Our Lord: \"Lord, will those who are saved be few?\" (Luke 13:23). Our Lord did not give..."
 ---
 
 By Fr. Conor Donnelly

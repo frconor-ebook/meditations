@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Cross Rejection"
+description: "\"Jesus said to them, 'Have you never read in the Scriptures: The stone which the builders rejected has become the cornerstone; this is the Lord\\'s doing..."
 ---
 
 By Fr. Conor Donnelly

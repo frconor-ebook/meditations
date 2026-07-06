@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Patience"
+description: "There was a man once who was due to go shopping with his wife, and they had arranged to meet in a certain place in a store. But the wife got delayed, and..."
 ---
 
 By Fr. Conor Donnelly

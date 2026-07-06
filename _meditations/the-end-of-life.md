@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The End of Life"
+description: "I was on duty one night in a big hospital in Dublin many years ago. I got called over to the private nursing home beside the hospital, which was normally..."
 ---
 
 By Fr. Conor Donnelly

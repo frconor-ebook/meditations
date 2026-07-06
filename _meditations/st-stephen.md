@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Stephen"
+description: "\"Do not fear those who kill the body but cannot kill the soul\" (Matt. 10:28). The Entrance Antiphon of today's Mass says, \"The gates of heaven opened for..."
 ---
 
 By Fr. Conor Donnelly

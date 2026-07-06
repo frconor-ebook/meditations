@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Overcoming Human Respect"
+description: "When Jesus began His public life many of His neighbors and relatives took Him for a madman (Mark 3:21). On His first visit to Nazareth, His relatives deny..."
 ---
 
 

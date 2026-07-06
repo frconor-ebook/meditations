@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Wisdom of Solomon"
+description: "We're told in the First Book of Kings, \"Now, Yahweh my God, you have made your servant king in succession to David, my father. But I am a very young man..."
 ---
 
 By Fr. Conor Donnelly

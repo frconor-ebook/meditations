@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Annunciation"
+description: "\"In the sixth month, the angel Gabriel was sent by God to a town in Galilee called Nazareth, to a virgin betrothed to a man named Joseph of the house of..."
 ---
 
 By Fr. Conor Donnelly

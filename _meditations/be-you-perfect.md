@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Be You Perfect"
+description: "\"Be you perfect, therefore, as also your heavenly Father is perfect\" (Matt. 5:48). By virtue of Baptism, the Christian carries supernatural, sanctifying..."
 ---
 
 By Fr. Conor Donnelly

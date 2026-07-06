@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Mother of God and Our Mother"
+description: "Mary said, \"Behold the handmaid of the Lord, be it done to me according to your word\" (Luke 1:38). In this month of May, we look a little closer at Our..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Good Anger and Bad Anger"
+description: "\"Now the older son was out in the fields, and, on his way back, as he drew near the house, he could hear music and dancing. Calling one of the servants..."
 ---
 
 By Fr. Conor Donnelly

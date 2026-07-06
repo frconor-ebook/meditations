@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Passion of St. John the Baptist"
+description: "\"Now it was this same Herod who had sent to have John arrested, and had him chained up in prison because of Herodias, his brother Philip\\'s wife, whom he..."
 ---
 
 By Fr. Conor Donnelly

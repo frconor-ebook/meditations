@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The First Sunday of St. Joseph (2026)"
+description: "Devotion to St. Joseph has developed spontaneously from the heart of the Christian people. For many people the Holy Patriarch is an excellent model of..."
 ---
 
 

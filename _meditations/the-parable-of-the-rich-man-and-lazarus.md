@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Parable of the Rich Man and Lazarus"
+description: "\"There was a rich man who used to dress in purple and fine linen and feast magnificently every day. And at his gate there used to lie a poor man called..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Order"
+description: "\"Seek first the Kingdom of God and his glory\" (Matt. 6:33). Our Lord in Scripture talks about priorities---putting things first. God created the universe..."
 ---
 
 By Fr. Conor Donnelly

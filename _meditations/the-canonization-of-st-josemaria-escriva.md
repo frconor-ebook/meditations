@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "The Canonization of St. Josemaría Escrivá"
+title: "The Canonization of St. Josemar\u00eda Escriv\u00e1"
+description: "\"All who are guided by the Spirit of God,\" says St. Paul, \"are children of God. For what you received was not the spirit of slavery to bring you back into..."
 ---
 
 By Fr. Conor Donnelly

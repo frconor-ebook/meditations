@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Transfiguration"
+description: "\"And after six days, Jesus took Peter and James, and his brother John, and led them up a high mountain by themselves. And he was transfigured before them..."
 ---
 
 By Fr. Conor Donnelly

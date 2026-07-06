@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Preparing for Retreat"
+description: "St. Josemar\u00eda in The Way says: \"May you seek Christ, may you find Christ, may you love Christ\" (Josemar\u00eda Escriv\u00e1, The Way, 382). In a certain sense, you..."
 ---
 
 By Fr. Conor Donnelly

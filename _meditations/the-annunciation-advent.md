@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Annunciation (Advent)"
+description: "\"But when the time had fully come, God sent forth his Son, born of woman\" (Gal. 4:4). \"And she was to say, Be it done unto me according to your Word\"..."
 ---
 
 By Fr. Conor Donnelly

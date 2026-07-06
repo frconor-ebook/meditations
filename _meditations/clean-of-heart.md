@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Clean of Heart"
+description: "In the Psalms we're told, \"Create a clean heart in me, O God\" (Ps. 51:10). It\\'s like a cry coming from the whole of humanity. In the New Testament we're..."
 ---
 
 By Fr. Conor Donnelly

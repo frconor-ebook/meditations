@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Mary Mother of God (2027 Edition)"
+description: "The Octave of Christmas concludes with today\\'s feast of Mary, the Mother of God. Even though Our Lady was venerated as the Mother of God from the..."
 ---
 
 

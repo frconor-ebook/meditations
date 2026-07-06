@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Dedication of the Basilica of St. John Lateran (2026)"
+description: "The Basilica of St. John Lateran was one of the first churches built by Christians following the early persecutions. It was built in Rome under the..."
 ---
 
 

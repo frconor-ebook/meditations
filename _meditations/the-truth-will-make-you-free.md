@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Truth Will Make You Free"
+description: "\"The Jews gathered around him and said to him, 'How long will you keep us in suspense? If you are the Christ, tell us plainly'\" (John 10:24). The enemies..."
 ---
 
 By Fr. Conor Donnelly

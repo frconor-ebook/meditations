@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Grain of Wheat"
+description: "There was a pencil maker once who spoke to the pencil that he was making and told this pencil, \"There are five things you need to know before I send you..."
 ---
 
 By Fr. Conor Donnelly

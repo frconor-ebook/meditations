@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Archangels"
+description: "\"Behold, we bring you tidings of great joy, which shall be to all the people\" (Luke 2:10). The Feast of the Archangels can lead us to think of these words..."
 ---
 
 By Fr. Conor Donnelly

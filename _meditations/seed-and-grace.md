@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Seed and Grace"
+description: "\"He also said, 'This is what the kingdom of God is like. A man scatters seed on the land. Night and day, while he sleeps, when he is awake, the seed is..."
 ---
 
 By Fr. Conor Donnelly

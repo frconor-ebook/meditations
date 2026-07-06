@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Contrition"
+description: "\"And behold, a woman that was in the city, a sinner, when she knew that he sat at the Pharisee's house, brought an alabaster box of ointment. And standing..."
 ---
 
 By Fr. Conor Donnelly

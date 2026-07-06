@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Fishers of Men"
+description: "\"And passing along by the Sea of Galilee, he saw Simon and his brother Andrew casting their nets into the sea, for they were fishermen\" (Mark 1:16). The..."
 ---
 
 By Fr. Conor Donnelly

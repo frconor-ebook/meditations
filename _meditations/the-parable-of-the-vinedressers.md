@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Parable of the Vinedressers"
+description: "\"He went on to speak to them in parables. 'A man planted a vineyard. He fenced it around, dug out a trough for the winepress, and built a tower. Then he..."
 ---
 
 By Fr. Conor Donnelly

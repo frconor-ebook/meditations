@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Presentation of Our Lady"
+description: "\"He was still speaking to the crowds when suddenly his mother and his brothers were standing outside. And they were anxious to have a word with him. But..."
 ---
 
 By Fr. Conor Donnelly

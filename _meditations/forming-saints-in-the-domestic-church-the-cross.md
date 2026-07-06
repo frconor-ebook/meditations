@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Forming Saints in the Domestic Church (The Cross)"
+description: "\\\"And when they came to the place called the Skull, they crucified him there, and the robbers, one on his right hand and the other on his left. And Jesus..."
 ---
 
 By Fr. Conor Donnelly

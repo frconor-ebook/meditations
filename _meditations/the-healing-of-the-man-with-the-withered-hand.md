@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Healing of the Man with the Withered Hand"
+description: "We\\'re told in St. Mark, \"Another time Jesus went into the synagogue, and there was a man present whose hand was withered. And they were watching him to..."
 ---
 
 By Fr. Conor Donnelly

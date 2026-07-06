@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Charity versus Anger"
+description: "\"Now the elder son was out in the fields, and on his way back he drew near the house. He could hear music and dancing. In calling one of the servants, he..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Imagination: The Madwoman"
+description: "\"At once he made the disciples get into the boat and go on ahead to the other side while he sent the crowds away. After sending the crowds away he went up..."
 ---
 
 (*Proofread*)

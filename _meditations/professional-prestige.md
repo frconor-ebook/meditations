@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Professional Prestige"
+description: "We're told in the Book of Proverbs: \"Show me a man who does a good job, and I will show you a man who is better than most and worthy of the company of..."
 ---
 
 By Fr. Conor Donnelly

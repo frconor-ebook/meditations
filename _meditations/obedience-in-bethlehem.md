@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Obedience in Bethlehem"
+description: "\"Now when the angels had gone from them into heaven, the shepherds said to one another, 'Let us go over to Bethlehem and see this event which the Lord has..."
 ---
 
 By Fr. Conor Donnelly

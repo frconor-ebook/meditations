@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Barnabas (2026)"
+description: "A native of Cyprus, Barnabas was one of the first believers in Jerusalem. It was he who presented St. Paul to the apostles after his conversion and..."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Daily Mass"
+description: "\"And he took bread, and when he had given thanks, he broke it and gave it to them, saying, 'This is my body, given for you. Do this in remembrance of me.'..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Humility: Relying on God"
+description: "\"The whole world spoke the same language, with the same vocabulary. Now, as people moved eastwards, they found a valley in the land of Shinar where they..."
 ---
 
 By Fr. Conor Donnelly

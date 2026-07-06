@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Conjugal Love"
+description: "We are told in St. Mark, \"This is why a man leaves his father and mother, and the two become one flesh. They are no longer two, therefore, but one flesh\"..."
 ---
 
 By Fr. Conor Donnelly

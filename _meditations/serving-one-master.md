@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Serving One Master"
+description: "We're told in St. Luke, \"No servant can serve two masters; for either he will hate the one and love the other, or he will be devoted to the one and..."
 ---
 
 By Fr. Conor Donnelly

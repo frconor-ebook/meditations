@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Daughter of Jairus"
+description: "In the Letter of St. Paul to Timothy, he says, \"Jesus himself is our only hope\" (cf. 1 Tim. 1:1). But Our Lady is our teacher of hope. Christ is the..."
 ---
 
 By Fr. Conor Donnelly

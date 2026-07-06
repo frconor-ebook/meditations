@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Preparing for the Jubilee Year 2025"
+description: "St. Paul says to the Romans, \"Hope does not disappoint\" (Rom. 5:5). This particular phrase is a phrase that Pope Francis has wanted to choose to help us..."
 ---
 
 By Fr. Conor Donnelly

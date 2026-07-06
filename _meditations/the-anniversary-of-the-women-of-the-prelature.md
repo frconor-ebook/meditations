@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Anniversary of the Women of the Prelature"
+description: "My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my..."
 ---
 
 By Fr. Conor Donnelly

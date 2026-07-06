@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Kindness"
+description: "\"And the King will answer, 'In truth, I tell you, insofar as you did this to one of the least of these brothers of mine, you did it to me'\" (Matt. 25:40)..."
 ---
 
 By Fr. Conor Donnelly

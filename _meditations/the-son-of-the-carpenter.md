@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Son of the Carpenter"
+description: "\"Leaving that district, he went to his hometown, and his disciples accompanied him. With the coming of the Sabbath, he began teaching in the synagogue..."
 ---
 
 By Fr. Conor Donnelly

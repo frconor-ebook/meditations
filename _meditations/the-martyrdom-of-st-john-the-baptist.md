@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Martyrdom of St. John the Baptist"
+description: "St. John the Baptist is the only saint who is honored by the church on both the occasion of his birth and of his death. Christ's precursor teaches every..."
 ---
 
 

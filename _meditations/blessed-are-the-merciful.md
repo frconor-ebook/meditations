@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Blessed Are The Merciful"
+description: "\"Be merciful, therefore, even as your Father is merciful\" (Luke 6:36). Our Lord in the Gospel talks a lot about mercy. Our God is the God of mercy. Pope..."
 ---
 
 By Fr. Conor Donnelly

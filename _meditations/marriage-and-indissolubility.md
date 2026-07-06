@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Marriage and Indissolubility"
+description: "\"Some Pharisees approached Jesus, and to put him to the test, they said, 'Is it against the Law for a man to divorce his wife on any pretext whatever?' He..."
 ---
 
 By Fr. Conor Donnelly

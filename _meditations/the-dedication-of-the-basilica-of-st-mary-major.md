@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Dedication of the Basilica of St. Mary Major"
+description: "\"It happened that as he was speaking, a woman in the crowd raised her voice and said, 'Blessed is the womb that bore you and the breast that fed you.' But..."
 ---
 
 By Fr. Conor Donnelly

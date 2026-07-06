@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Sts. Timothy and Titus"
+description: "Timothy was born in Lystra in Asia Minor, of a Jewish mother and a Gentile father. During St. Paul's first trip to that city, Timothy was converted to the..."
 ---
 
 

@@ -106,6 +106,16 @@ def make_excerpt(content_lines, max_words=400):
     return excerpt
 
 
+def make_description(excerpt, max_chars=155):
+    """Meta description: excerpt truncated to ~max_chars on a word boundary."""
+    if len(excerpt) <= max_chars:
+        return excerpt
+    cut = excerpt.rfind(" ", 0, max_chars)
+    if cut == -1:
+        cut = max_chars
+    return excerpt[:cut].rstrip(".,;:") + "..."
+
+
 def convert_markdown_to_meditations(source_dir, output_dir, data_dir):
     """
     Converts all source markdown files to Jekyll collection documents in
@@ -163,15 +173,21 @@ def convert_markdown_to_meditations(source_dir, output_dir, data_dir):
             meditations = [m for m in meditations if m["slug"] != slug]
         slug_sources[slug] = filename
 
-        front_matter = f"""---
-layout: homily
-title: "{title}"
----
-"""
-
         # Get content lines (after the title) and clean up
         content_lines = lines[title_line_index + 1 :]
         content_lines = remove_duplicate_title_lines(content_lines, title)
+
+        excerpt = make_excerpt(content_lines)
+
+        # json.dumps produces valid YAML double-quoted strings, so titles or
+        # descriptions containing quotes cannot break the front matter
+        front_matter = (
+            "---\n"
+            "layout: homily\n"
+            f"title: {json.dumps(title)}\n"
+            f"description: {json.dumps(make_description(excerpt))}\n"
+            "---\n"
+        )
 
         with open(os.path.join(output_dir, f"{slug}.md"), "w") as f:
             f.write(front_matter)
@@ -192,7 +208,7 @@ title: "{title}"
                 "title": title,
                 "slug": slug,
                 "content": full_content,
-                "excerpt": make_excerpt(content_lines),
+                "excerpt": excerpt,
             }
         )
 

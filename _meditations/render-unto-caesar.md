@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Render Unto Caesar"
+description: "\"Next they sent to him some Pharisees and some Herodians to catch him out in what he said. They came and said to him, 'Master, we know that you are an..."
 ---
 
 By Fr. Conor Donnelly

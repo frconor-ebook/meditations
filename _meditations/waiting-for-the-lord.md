@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Waiting for The Lord"
+description: "We're told in St. Luke, \"Let your loins be girt about you and your lamps burning. You yourselves be like men waiting for their master's return from the..."
 ---
 
 By Fr. Conor Donnelly

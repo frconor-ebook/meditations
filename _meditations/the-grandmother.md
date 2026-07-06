@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Grandmother"
+description: "\"As I have done to you, so do you also to others\" (John 13:15). A few days ago, on the Friday of the fifth week of Lent, we had the feast day of the..."
 ---
 
 By Fr. Conor Donnelly

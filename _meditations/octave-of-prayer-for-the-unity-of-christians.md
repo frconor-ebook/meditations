@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Octave of Prayer for the Unity of Christians"
+description: "\"With one heart all these join constantly in prayer, together with some women, including Mary the Mother of Jesus, and with his brothers\" (Acts 1:14). We..."
 ---
 
 By Fr. Conor Donnelly

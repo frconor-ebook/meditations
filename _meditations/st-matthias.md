@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Matthias"
+description: "We're told in the Acts of the Apostles: \"Having nominated two candidates, Joseph, known as Barsabbas, whose surname was Justus, and Matthias, they prayed..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Rejection"
+description: "We are told in today's Gospel, \"Now it happened that as the time drew near for him to be taken up, he resolutely turned his face towards Jerusalem and..."
 ---
 
 By Fr. Conor Donnelly

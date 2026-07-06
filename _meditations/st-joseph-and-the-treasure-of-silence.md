@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Joseph and The Treasure of Silence"
+description: "We\\'re told in the Book of Wisdom, \"For while gentle silence enveloped all things, and night in its swift course was now half gone, your all-powerful Word..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "The Anniversary of the First Holy Communion of St. Josemaría"
+title: "The Anniversary of the First Holy Communion of St. Josemar\u00eda"
+description: "We read in the Gospel, \"The Jews quarreled among themselves, saying, 'How can this man give us his flesh to eat?' Jesus said to them, 'Amen, Amen, I say..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Personal Prayer"
+description: "\"'How can you sleep?' he asked. 'Rise up and pray, so that you may not enter into temptation'\" (Luke 22:46). There are many passages in the Gospel..."
 ---
 
 By Fr. Conor Donnelly

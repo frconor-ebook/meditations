@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Understanding"
+description: "\"But I say to you that hear: Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you\" (Luke 6:27-28)..."
 ---
 
 By Fr. Conor Donnelly

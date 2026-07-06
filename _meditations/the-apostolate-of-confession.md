@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Apostolate of Confession"
+description: "One of the prayers of the Liturgy of Advent says, \"Arouse our hearts, Lord, to make the way ready for your Son. In spite of all our sins, let your..."
 ---
 
 By Fr. Conor Donnelly

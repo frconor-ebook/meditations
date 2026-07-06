@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Feast of the Holy Family"
+description: "\"They hurried away and they found Mary and Joseph, and the babe, lying in the manger. When they saw the child they repeated what they had been told about..."
 ---
 
 By Fr. Conor Donnelly

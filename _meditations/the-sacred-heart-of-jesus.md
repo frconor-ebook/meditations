@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Sacred Heart of Jesus"
+description: "\"When they came to Jesus, they saw that he was already dead, and so instead of breaking his legs, one of the soldiers pierced his side with a lance; and..."
 ---
 
 By Fr. Conor Donnelly

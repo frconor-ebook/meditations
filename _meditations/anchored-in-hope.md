@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Anchored in Hope"
+description: "St. Paul says to the Romans, \"Be joyful in hope, persevere in hardship, keep praying regularly\" (Rom. 12:12). One of the sections of the document of Pope..."
 ---
 
 By Fr. Conor Donnelly

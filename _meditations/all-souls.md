@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "All Souls"
+description: "\"For everything, there is a season,\" we\\'re told in the Book of Ecclesiastes, \"and a time for every matter under heaven; a time to be born and a time to..."
 ---
 
 By Fr. Conor Donnelly

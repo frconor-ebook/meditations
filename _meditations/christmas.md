@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Christmas"
+description: "\"Now there were shepherds in that region living in the fields and keeping the night watch over their flock. The angel of the Lord appeared to them, and..."
 ---
 
 By Fr. Conor Donnelly

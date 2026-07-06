@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "From Tabor to Calvary"
+description: "\"Then Peter addressed Jesus, saying, 'Lord, it is good for us to be here'\" (Matt. 17:4). In this recollection, we look at different aspects of the..."
 ---
 
 By Fr. Conor Donnelly

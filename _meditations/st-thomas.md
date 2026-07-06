@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Thomas"
+description: "\"Thomas, called the Twin, who was one of the twelve, was not with them when Jesus came. So the other disciples said to him, 'We have seen the Lord!' But..."
 ---
 
 By Fr. Conor Donnelly

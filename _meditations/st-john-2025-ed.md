@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. John (2025 Ed.)"
+description: "St. John the Apostle was a native of Bethsaida, a Galilean town on the northern shore of the Sea of Tiberias. His parents were Zebedee and Salome, and his..."
 ---
 
 By Fr. Conor Donnelly

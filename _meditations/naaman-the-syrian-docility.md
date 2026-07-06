@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Naaman the Syrian (Docility)"
+description: "\"Naaman, army commander of the king of Aram, was a man who enjoyed his master\\'s respect and favor, since through him Yahweh had granted victory over the..."
 ---
 
 By Fr. Conor Donnelly

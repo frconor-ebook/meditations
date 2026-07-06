@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Visitation of Our Lady"
+description: "\"Mary set out at that time and went as quickly as she could into the hill country to a town in Judah. She went into Zachariah\\'s house and greeted..."
 ---
 
 By Fr. Conor Donnelly

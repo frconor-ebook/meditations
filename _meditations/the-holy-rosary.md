@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Holy Rosary"
+description: "\"With one heart all these joined constantly in prayer, together with some women, including Mary the Mother of Jesus, and with his brothers\" (Acts 1:14)..."
 ---
 
 By Fr. Conor Donnelly

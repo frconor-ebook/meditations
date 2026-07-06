@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Poverty and Detachment"
+description: "A number of years ago, there was a new Archbishop appointed in Singapore, and he decided to change all the parish priests. So about twenty-eight out of..."
 ---
 
 By Fr. Conor Donnelly

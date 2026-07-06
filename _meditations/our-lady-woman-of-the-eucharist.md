@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady, Woman of the Eucharist"
+description: "\"Do this in remembrance of me\" (Luke 22:19). \"If we want to rediscover, in all its richness, the profound relationship between the Church and the..."
 ---
 
 By Fr. Conor Donnelly

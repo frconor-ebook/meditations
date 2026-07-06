@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Easter Faith"
+description: "\"When it was late that same day, in the first of the week, though the doors where the disciples gathered had been closed for fear of the Jews, Jesus came..."
 ---
 
 By Fr. Conor Donnelly

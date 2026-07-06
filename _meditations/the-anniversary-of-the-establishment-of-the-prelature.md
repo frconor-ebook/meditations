@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Anniversary of the Establishment of the Prelature"
+description: "\"Blessed be God the Father of Our Lord Jesus Christ,\" says St. Paul to the Ephesians, \"who has blessed us with all spiritual blessings of heaven in..."
 ---
 
 By Fr. Conor Donnelly

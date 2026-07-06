@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Christian Virtues"
+description: "Our Lord tells us frequently in Scripture, \"I have given you an example, that you should do as I have done\" (John 13:15). There are many places where Our..."
 ---
 
 By Fr. Conor Donnelly

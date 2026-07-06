@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Patrick, March 17th"
+description: "\"Now it happened that he was standing one day by the lake of Gennesareth, with the crowd pressing round him listening to the Word of God, when he caught..."
 ---
 
 By Fr. Conor Donnelly

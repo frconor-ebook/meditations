@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Joseph the Worker"
+description: "In the Entrance Antiphon of today\\'s Mass, we\\'re told from the Psalms, \"By the labor of your hands you shall eat\" (Ps.128:2). Today is the Feast of St..."
 ---
 
 By Fr. Conor Donnelly

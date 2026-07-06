@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Sincerity, Love for Truth"
+description: "We are told in the Gospel of today, \"Behold, a true Israelite, in whom there is no guile\" (John 1:47). It's not often that Our Lord compliments any of the..."
 ---
 
 By Fr. Conor Donnelly

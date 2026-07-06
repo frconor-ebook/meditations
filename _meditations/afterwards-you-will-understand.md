@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Afterwards You Will Understand"
+description: "\"He came to Simon Peter, who said to him, 'Lord, are you going to wash my feet?' Jesus answered, 'At the moment, you do not know what I am doing, but..."
 ---
 
 

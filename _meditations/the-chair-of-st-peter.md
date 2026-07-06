@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Chair of St. Peter"
+description: "This feast celebrates the fact that St. Peter established his See in Rome. Christians were known to have celebrated this feast before the fourth century..."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Piety"
+description: "\"Now as they went on their way, Jesus entered a village. And a woman named Martha received him into her house. And she had a sister called Mary, who sat..."
 ---
 
 By Fr. Conor Donnelly

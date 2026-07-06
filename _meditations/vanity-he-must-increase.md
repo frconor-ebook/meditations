@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Vanity (He Must Increase)"
+description: "\"Vanity of vanities, all is vanity\" (Eccles. 1:2). The Church places before us once or twice a year this phrase from the Book of Ecclesiastes as though..."
 ---
 
 By Fr. Conor Donnelly

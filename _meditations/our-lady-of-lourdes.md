@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady of Lourdes"
+description: "We\\'re told in the story of Cana of Galilee that \"the Mother of Jesus was there\" (John 2:1). Today is the feast of Our Lady of Lourdes. John Paul II..."
 ---
 
 By Fr. Conor Donnelly

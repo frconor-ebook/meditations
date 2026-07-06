@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Holy Innocents"
+description: "\"After they had left, suddenly the angel of the Lord appeared to Joseph in a dream and said, 'Get up, take the child and his mother with you, and escape..."
 ---
 
 By Fr. Conor Donnelly

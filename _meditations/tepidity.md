@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Tepidity"
+description: "\"God is love\" (1 John 4:8,16), an ever-new flame of love that does not diminish over time, leaving behind only a smoldering wick. Rather, His love burns..."
 ---
 
 

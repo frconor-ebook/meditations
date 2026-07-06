@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Examination of Conscience"
+description: "We are told in the Communion Antiphon of today's Mass, \"'Behold, I am coming soon,' says the Lord, 'bringing my recompense to repay everyone for what he..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady of Sorrows"
+description: "\"Near the cross of Jesus stood his mother and his mother's sister, Mary the wife of Cleophas, and Mary of Magdala\" (John 19:25). Today is the Feast of Our..."
 ---
 
 By Fr. Conor Donnelly

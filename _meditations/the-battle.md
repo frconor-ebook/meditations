@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Battle"
+description: "We\\'re told in St. John, \"Amen, amen, I say to you, unless the grain of wheat falls into the ground and dies, it remains alone. But if it dies, it brings..."
 ---
 
 

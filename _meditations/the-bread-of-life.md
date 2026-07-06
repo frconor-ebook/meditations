@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Bread of Life"
+description: "\"And when the hour had come, he reclined at table, and the twelve apostles with him. He said to them, 'I have longed and longed to eat this Passover with..."
 ---
 
 By Fr. Conor Donnelly

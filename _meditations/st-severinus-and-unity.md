@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Severinus and Unity"
+description: "\"I am the vine; you are the branches\" (John 15:5). Today, we celebrate the feast of St. Severinus. Our Father wanted us to have a meditation on unity..."
 ---
 
 By Fr. Conor Donnelly

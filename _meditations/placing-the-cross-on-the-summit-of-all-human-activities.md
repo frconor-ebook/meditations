@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Placing the Cross on the Summit of All Human Activities"
+description: "Nos autem gloriari in cruce Dominum nostri Jesu Christi. \"We are called to glory in the Cross of Christ,\" the liturgy tells us (Entrance Antiphon, Holy..."
 ---
 
 By Fr. Conor Donnelly

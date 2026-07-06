@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Prodigal Son"
+description: "We are told in the Gospel of St. Luke that \"a certain man had two sons, and the younger of them said to his father, 'Father, give me the share of the..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Infinity of Littleness"
+description: "It is a psychological fact that it is only by being little that we ever discover anything big. This law raised to the spiritual level tells us how we can..."
 ---
 
 

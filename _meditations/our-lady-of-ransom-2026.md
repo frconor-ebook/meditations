@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady of Ransom (2026)"
+description: "There's a pious tradition that holds that one night Our Lady appeared to King James I of Aragon, to St. Raymond of Pe\u00f1afort, and St. Peter Nolasco, to ask..."
 ---
 
 

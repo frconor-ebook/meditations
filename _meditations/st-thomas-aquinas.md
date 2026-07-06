@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Thomas Aquinas"
+description: "St. Thomas Aquinas was born in 1224. He died in 1274 at the age of 50. He was educated at the Abbey of Monte Cassino, just south of Rome, and at the..."
 ---
 
 

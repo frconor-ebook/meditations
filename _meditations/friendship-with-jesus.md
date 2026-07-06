@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Friendship with Jesus"
+description: "\"At daybreak he appeared in the temple again, and as all the people came to him, he sat down and began to teach them\" (John 8:2). There are many occasions..."
 ---
 
 By Fr. Conor Donnelly

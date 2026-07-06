@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Perseverance"
+description: "I read a book once about the Battle of Monte Cassino. Monte Cassino is a monastery just south of Rome, where St. Benedict is buried together with his..."
 ---
 
 By Fr. Conor Donnelly

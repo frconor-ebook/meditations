@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Souls of Prayer"
+description: "We are told in today\\'s Gospel, \"It came to pass, as he was praying in private, that his disciples also were with him. And he asked them, saying, 'Who do..."
 ---
 
 By Fr. Conor Donnelly

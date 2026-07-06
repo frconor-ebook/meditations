@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Thirsting for Justice"
+description: "\"Blessed are those who hunger and thirst for justice, for they shall be satisfied\" (Matt. 5:6). Occasionally in Scripture, Our Lord talks about justice..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Simon and St. Jude"
+description: "\"In these days he went out into the hills to pray; and all night he continued in prayer to God. And when it was day, he called his disciples, and chose..."
 ---
 
 By Fr. Conor Donnelly

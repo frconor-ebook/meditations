@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Beginning Again"
+description: "\"Now when it was late that same day, the first of the week, and the doors were shut, where the disciples were gathered together, for fear of the Jews..."
 ---
 
 By Fr. Conor Donnelly

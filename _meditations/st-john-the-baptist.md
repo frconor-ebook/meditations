@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. John the Baptist"
+description: "The Prophet Isaiah says, \"Behold, people of Zion, the Lord will come to save the nations. The Lord in his glory will make his voice heard and fill your..."
 ---
 
 By Fr. Conor Donnelly

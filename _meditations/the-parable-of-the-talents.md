@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Parable of the Talents"
+description: "We're told in the Gospel of St. Matthew, \"It is like a man about to go abroad who summoned his servants and entrusted his property to them. To one he gave..."
 ---
 
 By Fr. Conor Donnelly

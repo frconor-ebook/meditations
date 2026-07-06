@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Joseph in the Incarnation (Pope Francis)"
+description: "\"And Joseph too went up from Galilee, from the town of Nazareth, to Judea, to the city of David that is called Bethlehem, because he was of the house and..."
 ---
 
 By Fr. Conor Donnelly

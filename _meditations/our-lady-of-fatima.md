@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady of Fatima"
+description: "\"When Jesus was speaking, a woman from the crowd called out and said to him, 'Blessed is the womb that carried you and the breasts that nourished you.'..."
 ---
 
 By Fr. Conor Donnelly

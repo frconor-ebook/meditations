@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Self-Love: The Enemy"
+description: "We're told in today's Gospel, \"A discussion arose among them, which of them was the greatest. But Jesus, knowing the reasoning of their heart, took a..."
 ---
 
 By Fr. Conor Donnelly

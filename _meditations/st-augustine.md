@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Augustine"
+description: "Augustine was born in Thagaste, North Africa, in 354. After a tumultuous youth, he converted at the age of 33 and was baptized in Milan by Saint Ambrose..."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Peter and St. Paul"
+description: "\"When they had eaten, Jesus said to Simon Peter, 'Simon, son of John, do you love me more than these others do?' He answered, 'Yes, Lord, you know that I..."
 ---
 
 By Fr. Conor Donnelly

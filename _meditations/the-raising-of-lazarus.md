@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Raising of Lazarus"
+description: "\"There was a man named Lazarus of Bethany, the village of Mary and her sister. Martha, and he was ill. It was the same Mary, the sister of the sick man..."
 ---
 
 By Fr. Conor Donnelly

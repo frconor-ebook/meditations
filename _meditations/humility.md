@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Humility"
+description: "On one occasion, Don \u00c1lvaro was passing through a living room in Villa Tevere on the fourth floor. It was early afternoon, after the get-together had..."
 ---
 
 By Fr. Conor Donnelly

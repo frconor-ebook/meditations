@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Sts. Cyril and Methodius"
+description: "The feast of Saints Cyril and Methodius is a feast celebrating the co-patrons and evangelizers of Europe. Cyril and Methodius were the youngest and the..."
 ---
 
 By Fr. Conor Donnelly

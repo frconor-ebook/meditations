@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Way, the Truth, and the Life"
+description: "There's a certain tendency in modern culture to frown upon those who believe that Our Lord is different from other religious leaders and reformers. It can..."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Listening"
+description: "In a moment of darkness, the prophet Isaiah lifts up his voice to comfort the Chosen People who live in exile. He announces the happy return to their..."
 ---
 
 By Fr. Conor Donnelly

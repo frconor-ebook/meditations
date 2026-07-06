@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "The Eucharist–Faith and Hope"
+title: "The Eucharist\u2013Faith and Hope"
+description: "The Eucharist is not just a sacrament to be celebrated. It also must be the focus of our lives and the source of internal renewal. In his apostolic letter..."
 ---
 
 By Fr. Conor Donnelly

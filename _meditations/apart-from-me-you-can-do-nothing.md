@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Apart From Me You Can Do Nothing"
+description: "We're told in Scripture, \"I can do all things in him who comforts me\" (Phil. 4:13). Our Lord tells us in various ways how apart from Him we cannot do..."
 ---
 
 By Fr. Conor Donnelly

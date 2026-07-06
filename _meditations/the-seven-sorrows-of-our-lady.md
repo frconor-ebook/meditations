@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Seven Sorrows of Our Lady"
+description: "40 days had passed since the angels sang their glorious to the white chalked hills of Bethlehem. It was now the 2nd of February. According to Jewish law..."
 ---
 
 

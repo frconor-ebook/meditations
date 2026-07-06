@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Birth of St. John the Baptist"
+description: "\"Now the time came for Elizabeth to be delivered, and she gave birth to a son. And her neighbors and kinsfolk heard that the Lord had shown great mercy to..."
 ---
 
 By Fr. Conor Donnelly

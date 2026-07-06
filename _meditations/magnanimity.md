@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Magnanimity"
+description: "\"As he passed on from there, Jesus saw a man named Matthew, sitting at work at the tax collector's place. And he said to him, 'Follow me'\" (Matt. 9:9)..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "At the School of Mary"
+description: "Pope St. John Paul II says that if we want to \"rediscover in all its richness the profound relationship between the Church and the Eucharist, we cannot..."
 ---
 
 

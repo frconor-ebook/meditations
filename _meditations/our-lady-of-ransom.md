@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady of Ransom"
+description: "\"And Mary said, 'My soul proclaims the greatness of the Lord, and my spirit rejoices in God my Savior, because he has looked upon the humility of his..."
 ---
 
 By Fr. Conor Donnelly

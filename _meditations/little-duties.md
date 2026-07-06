@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Little Duties"
+description: "\"Naaman, army commander to the king of Aram, was a man who enjoyed his master\\'s respect and favor, since through him Yahweh had granted victory to the..."
 ---
 
 By Fr. Conor Donnelly

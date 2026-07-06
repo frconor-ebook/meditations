@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Waiting for Jesus"
+description: "We are told in St. Luke, \\\"Through the tender mercy of our God, when the day shall dawn upon us from on high to give light to those who sit in darkness..."
 ---
 
 By Fr. Conor Donnelly

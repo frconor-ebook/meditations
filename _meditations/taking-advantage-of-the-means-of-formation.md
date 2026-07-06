@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Taking Advantage of the Means of Formation"
+description: "\"Now as they went on their way, they entered a village, and a woman named Martha received him into her house. She had a sister called Mary, who sat at the..."
 ---
 
 By Fr. Conor Donnelly

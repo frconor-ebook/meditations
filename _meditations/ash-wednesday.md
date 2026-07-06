@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Ash Wednesday"
+description: "We are told in the Book of Genesis, \"The Lord God formed man from the dust of the earth, and he breathed into his nostrils the breath of life, and man..."
 ---
 
 By Fr. Conor Donnelly

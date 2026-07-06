@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Sanctification of Calumnies"
+description: "\"Happy are those who are persecuted for justice\" (Matt. 5:10). We're told in St. Peter: \"If you are reproached for the name of Christ, you are blessed..."
 ---
 
 By Fr. Conor Donnelly

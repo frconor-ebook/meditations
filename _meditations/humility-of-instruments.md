@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Humility of Instruments"
+description: "\"But when you are invited, go and recline in the last place, so that when he who invited you comes in, he may say to you, 'Friend, go up higher.' Then you..."
 ---
 
 By Fr. Conor Donnelly

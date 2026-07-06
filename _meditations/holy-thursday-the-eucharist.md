@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Holy Thursday: The Eucharist"
+description: "\"And when the hour had come, he reclined at table, and the twelve apostles with him. Then he said to them, 'I have longed and longed to eat this Passover..."
 ---
 
 By Fr. Conor Donnelly

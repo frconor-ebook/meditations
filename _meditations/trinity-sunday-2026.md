@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Trinity Sunday (2026)"
+description: "Today the Church celebrates the feast of the Blessed Trinity. It's the ineffable mystery of God's intimate life. It's the central truth of our faith and..."
 ---
 
 

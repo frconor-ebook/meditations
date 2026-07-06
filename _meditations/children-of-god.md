@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Children of God"
+description: "In the Gospel of St. John, we're told that, \"But to all who received him, who believed in his name, he gave power to become children of God, who were..."
 ---
 
 By Fr. Conor Donnelly

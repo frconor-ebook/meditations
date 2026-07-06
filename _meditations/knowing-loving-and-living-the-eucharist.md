@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Knowing, Loving, and Living the Eucharist"
+description: "\"Looking up, Jesus saw the crowds approaching and said to Philip, 'Where can we buy some bread for these people to eat?' He said this only to put Philip..."
 ---
 
 By Fr. Conor Donnelly

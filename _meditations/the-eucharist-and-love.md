@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Eucharist and Love"
+description: "The fundamental dynamism of Christian life, as we know, consists in the practice of faith, hope, and charity, with the Eucharist as the source and summit..."
 ---
 
 By Fr. Conor Donnelly

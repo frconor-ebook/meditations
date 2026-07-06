@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Eternal High Priest"
+description: "We\\'re told in the Old Testament, in the Psalms, \"You are a priest forever, after the order of Melchizedek\" (Ps. 110:4). The whole Church participates in..."
 ---
 
 By Fr. Conor Donnelly

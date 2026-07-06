@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Shepherds and Wise Men"
+description: "Any mind which thinks about religion at all, asks itself such questions as these. Why do so few souls ever find Christ? Why do the passing fads of the day..."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Artisan of Nazareth"
+description: "In the past, man talked less about living his life, and more about saving his soul. But in our age the emphasis has shifted from the religious and the..."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Unity of Life"
+description: "A politician was once heard speaking to a reporter and saying that he was willing to do anything to help rebuild his war-torn country in the aftermath of..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Self-emptying and St. Joseph"
+description: "\"...something to be grasped, but emptied himself, taking the form of a slave, becoming as human beings are; and being in every way like a human being, he..."
 ---
 
 By Fr. Conor Donnelly

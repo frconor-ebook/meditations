@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "On Hope"
+description: "A number of years ago in Asia, a lady came to me. She was working in a bank. She was involved in trading, derivatives, investments, that type of thing. A..."
 ---
 
 By Fr. Conor Donnelly

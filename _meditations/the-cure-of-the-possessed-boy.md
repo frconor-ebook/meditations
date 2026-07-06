@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Cure of the Possessed Boy"
+description: "\"As they were rejoining the disciples, they saw a large crowd around them, and some scribes arguing with them. At once when they saw him, the whole crowd..."
 ---
 
 By Fr. Conor Donnelly

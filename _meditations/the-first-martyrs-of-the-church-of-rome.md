@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The First Martyrs of the Church of Rome"
+description: "After Jerusalem and Antioch, Rome was the most important early Christian nucleus. Many Christians came from the Jewish colony existing in Rome. The..."
 ---
 
 

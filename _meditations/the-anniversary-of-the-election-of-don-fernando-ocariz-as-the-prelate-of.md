@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "The Anniversary of the Election of Don Fernando Ocáriz as the Prelate of"
+title: "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"
+description: "\"I am the Good Shepherd. I know my own and my own know me, just as the Father knows me and I know the Father; and I lay down my life for my sheep\" (John..."
 ---
 
 By Fr. Conor Donnelly

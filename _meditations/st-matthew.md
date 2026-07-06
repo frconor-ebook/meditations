@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Matthew"
+description: "\"As Jesus was walking on from there, he saw a man named Matthew sitting at the tax office. He said to him, 'Follow me.' And he got up and followed him\"..."
 ---
 
 By Fr. Conor Donnelly

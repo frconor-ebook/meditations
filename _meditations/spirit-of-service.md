@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Spirit of Service"
+description: "\"Which of you, with a servant ploughing or minding sheep, would say to him when he returned from the fields, 'Come and have your meal at once'? Would he..."
 ---
 
 By Fr. Conor Donnelly

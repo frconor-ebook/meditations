@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Life of Childhood"
+description: "\"Jesus spoke and said, 'I praise you, Father, Lord of heaven and earth, because you have hidden these things from the wise and prudent and revealed them..."
 ---
 
 By Fr. Conor Donnelly

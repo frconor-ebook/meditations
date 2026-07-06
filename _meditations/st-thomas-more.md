@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Thomas More"
+description: "\"To you, my friends, I say,\" we're told in St. Luke, \"do not be afraid of those who kill the body, and after that can do no more. I will tell you whom to..."
 ---
 
 By Fr. Conor Donnelly

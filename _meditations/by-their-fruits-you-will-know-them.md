@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "By Their Fruits, You Will Know Them"
+description: "\"He who abides in me, and I in him, he it is that bears much fruit, for apart from me you can do nothing\" (John 15:5). God allows good fruit to come from..."
 ---
 
 By Fr. Conor Donnelly

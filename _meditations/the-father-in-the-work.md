@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Father in the Work"
+description: "\"I am the vine; you are the branches. Whoever remains in me, with me in him, bears fruit in plenty. For cut off from me, you can do nothing\" (John 15:5)..."
 ---
 
 By Fr. Conor Donnelly

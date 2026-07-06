@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Mortification"
+description: "We read in today\\'s Gospel: \"But I say to you, my friends, do not be afraid of those who kill the body and after that have nothing more that they can do..."
 ---
 
 By Fr. Conor Donnelly

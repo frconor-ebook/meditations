@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Looking Up to Heaven"
+description: "We\\'re told in the Gospel of St. Luke that when Jesus was teaching in the synagogue on the Sabbath, there was a woman who had had a spirit of infirmity..."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "The Anniversary of the Ordination of St. Josemaría"
+title: "The Anniversary of the Ordination of St. Josemar\u00eda"
+description: "We're told in the Book of Isaiah, \"But you shall be called priests of the Lord. You shall be named ministers of our God. You shall enjoy the wealth of..."
 ---
 
 By Fr. Conor Donnelly

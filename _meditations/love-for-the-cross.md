@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Love for the Cross"
+description: "We're told in the liturgy, and also in St. Paul, that \"we should glory in the cross of Our Lord Jesus Christ\" (cf. Gal. 6:14; Entrance Antiphon, Easter..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Gabriel"
+description: "God chose Saint Gabriel to announce to Our Lady the mystery of the incarnation of the Son of God. Among all the angels, says Saint Bernard, only Gabriel..."
 ---
 
 

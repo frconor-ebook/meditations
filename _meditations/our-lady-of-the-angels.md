@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady of the Angels"
+description: "We're told in the Gospel of St. John, \"I say to you, you shall see heaven opened, and the angels of God ascending and descending upon the Son of Man\"..."
 ---
 
 By Fr. Conor Donnelly

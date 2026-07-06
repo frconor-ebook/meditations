@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Baptism of Our Lord (2026)"
+description: "We're told in St. Matthew: \"When Jesus was baptized, he went up immediately from the water, and behold, the heavens were opened and he saw the Spirit of..."
 ---
 
 By Fr. Conor Donnelly

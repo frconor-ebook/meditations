@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Increase My Faith"
+description: "He answered, \"Because you have so little faith. In truth I tell you, if your faith is the size of a mustard seed you will say to this mountain, 'Move from..."
 ---
 
 By Fr. Conor Donnelly

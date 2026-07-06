@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "On Work"
+description: "There was a seminarian once in Singapore who was about to be ordained and he wanted to order some vestments. He checked out some places in the States but..."
 ---
 
 By Fr. Conor Donnelly

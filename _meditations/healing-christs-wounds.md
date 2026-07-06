@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Healing Christ's Wounds"
+description: "St. Paul says, \"But God, who is rich in mercy, because of the great love he had for us, even when we were dead in our transgressions, brought us to life..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "A Cup of Cold Water"
+description: "\"If anyone can give so much as a cup of cold water to one of these little ones, because he is a disciple, then I tell you solemnly, he will most certainly..."
 ---
 
 By Fr. Conor Donnelly

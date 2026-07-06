@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Christian Identity"
+description: "\"Blessed be the God and Father of Our Lord Jesus Christ who has blessed us in Christ with every spiritual blessing in the heavenly places, even as he..."
 ---
 
 By Fr. Conor Donnelly

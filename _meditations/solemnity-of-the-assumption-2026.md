@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Solemnity of the Assumption (2026)"
+description: "The entrance antiphon of the Vigil Mass for the Solemnity of the Assumption says: \"All honour to you, Mary. Today you were raised above the choirs of..."
 ---
 
 

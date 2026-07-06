@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Finding Jesus"
+description: "We are told in St. Luke that His parents were wont to go every year to Jerusalem at the feast of the Passover. When He was twelve years old, they went up..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Apostolate of the Home"
+description: "\"In the countryside close by there were shepherds out in the fields keeping \\[guard\\] over their sheep during the watches of the night. An angel of the..."
 ---
 
 By Fr. Conor Donnelly

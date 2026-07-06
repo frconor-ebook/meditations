@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Infinite Love of God"
+description: "We're told in Psalm 86, \"There is none like you, Lord. So great you are, so marvelous are your doings; you who alone are God\" (Ps. 86:8,10). And in St..."
 ---
 
 By Fr. Conor Donnelly

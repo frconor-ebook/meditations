@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Fifth Sunday of St. Joseph (2026)"
+description: "Having at last found a place for themselves in Bethlehem, the Holy Family received the unexpected homage of the Magi with their precious gifts for the..."
 ---
 
 

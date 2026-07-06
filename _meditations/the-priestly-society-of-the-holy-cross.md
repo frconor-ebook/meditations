@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Priestly Society of the Holy Cross"
+description: "\"Like living stones, let yourself be built into a spiritual house, to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus..."
 ---
 
 By Fr. Conor Donnelly

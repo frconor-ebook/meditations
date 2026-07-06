@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "With the Readiness of Love—Vigilance"
+title: "With the Readiness of Love\u2014Vigilance"
+description: "We're told in St. Luke, \"Let your loins be girded, and your lamps burning, and be like men who are waiting for their master to come home from the marriage..."
 ---
 
 By Fr. Conor Donnelly

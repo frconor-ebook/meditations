@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Crises: Be Not Afraid"
+description: "On one occasion, Our Lord said to the disciples, \"Take courage, it is I. Do not be afraid\" (Matt. 14:27). And to Peter, after rescuing him, He said, \"Man..."
 ---
 
 By Fr. Conor Donnelly

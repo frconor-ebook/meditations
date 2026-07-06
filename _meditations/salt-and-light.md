@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Salt and Light"
+description: "\"You are the salt of the earth. ... You are the light of the world,\" we\\'re told in St. Matthew (Matt. 5:13,14). St. Paul says to the Philippians, \"so..."
 ---
 
 By Fr. Conor Donnelly

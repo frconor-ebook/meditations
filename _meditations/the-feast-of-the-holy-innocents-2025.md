@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Feast of the Holy Innocents, 2025"
+description: "\"Herod, when he saw that he had been tricked by the wise men, was in a furious rage, and he sent and killed all the male children in Bethlehem and in all..."
 ---
 
 By Fr. Conor Donnelly

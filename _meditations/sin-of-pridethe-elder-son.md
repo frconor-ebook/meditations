@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "Sin of Pride—The Elder Son"
+title: "Sin of Pride\u2014The Elder Son"
+description: "\"Now the serpent was more subtle than any other wild creature that the Lord God had made. He said to the woman, 'Did God say, You shall not eat of any..."
 ---
 
 By Fr. Conor Donnelly

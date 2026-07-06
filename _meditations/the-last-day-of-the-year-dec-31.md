@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Last Day of the Year (Dec. 31)"
+description: "In the First Reading of today\\'s Mass, the last reading for this year, from the First Letter of St. John, it says, \"Children, this is the final hour\" (1..."
 ---
 
 By Fr. Conor Donnelly

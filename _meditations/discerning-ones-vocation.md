@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Discerning One's Vocation"
+description: "\"When Yahweh called, 'Samuel! Samuel!' he answered, 'Here I am,' and, running to Eli, he said, 'Here I am, as you called me.' Eli said, 'I did not call..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "All You Peoples, Bless the Lord"
+description: "In the Book of Daniel, we are told the Canticle of the Three Young Men, also known as the Trium puerorum. For many centuries, the Church used that hymn as..."
 ---
 
 

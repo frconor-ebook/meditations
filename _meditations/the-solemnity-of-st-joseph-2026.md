@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Solemnity of St. Joseph (2026)"
+description: "The season of Lent is interrupted by the Solemnity of St. Joseph, the husband of Mary. With the exception of Our Lady, there is no greater saint in heaven..."
 ---
 
 

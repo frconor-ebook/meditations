@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Come, Lord Jesus"
+description: "St. Paul says to the Thessalonians: \"But you, brothers, do not live in the dark, that the day should take you unawares like a thief. No, you are children..."
 ---
 
 By Fr. Conor Donnelly

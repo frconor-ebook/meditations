@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Vigilance and the Rosary"
+description: "We are told in today's Gospel, \"Let your loins be girt about, and your lamps burning, and you yourselves like men waiting for their master's return from..."
 ---
 
 By Fr. Conor Donnelly

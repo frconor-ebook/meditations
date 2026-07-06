@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Purity of the Heart"
+description: "We're told in the Book of Isaiah, \"Shower, O heavens, from above, and let the skies rain down righteousness; let the earth open, that salvation may spring..."
 ---
 
 By Fr. Conor Donnelly

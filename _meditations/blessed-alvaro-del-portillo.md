@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "Blessed Álvaro del Portillo"
+title: "Blessed \u00c1lvaro del Portillo"
+description: "\"I am the good shepherd,\" said Our Lord. \"The good shepherd lays down his life for his sheep\" (John 10:11). Today is the feast of Blessed \u00c1lvaro del..."
 ---
 
 By Fr. Conor Donnelly

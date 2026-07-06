@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Against All Hope"
+description: "\"Who in hope believed against hope, to the end that he might become the father of many nations, according to that which had been spoken, 'So shall your..."
 ---
 
 By Fr. Conor Donnelly

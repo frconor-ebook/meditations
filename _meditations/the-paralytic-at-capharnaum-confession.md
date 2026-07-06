@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Paralytic at Capharnaum (Confession)"
+description: "\"After some days he again entered Capharnaum and it was reported that he was at home. And many gathered together so that there was no longer room, not..."
 ---
 
 By Fr. Conor Donnelly

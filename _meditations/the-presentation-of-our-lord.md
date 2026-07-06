@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Presentation of Our Lord"
+description: "\"And when the day came for them to be purified in keeping with the Law of Moses, they took him up to Jerusalem to present him to the Lord...\" (Luke 2:22)..."
 ---
 
 By Fr. Conor Donnelly

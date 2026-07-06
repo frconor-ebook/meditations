@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Father God"
+description: "\"But when you fast,\" we're told in St. Matthew, \"put scent on your head and wash your face, so that no one will know that you are fasting, except your..."
 ---
 
 By Fr. Conor Donnelly

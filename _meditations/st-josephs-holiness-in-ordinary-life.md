@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "St. Joseph’s Holiness in Ordinary Life"
+title: "St. Joseph\u2019s Holiness in Ordinary Life"
+description: "\"'Is not this the carpenter, the son of Mary, brother of James and Joseph and Jude and Simon? And are not also his sisters here with us?' And they were..."
 ---
 
 By Fr. Conor Donnelly

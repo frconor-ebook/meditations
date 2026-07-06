@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Exaltation of the Holy Cross (2026)"
+description: "Devotion to the Holy Cross dates back to the earliest days of Christianity. Its feast itself has been celebrated since the 4th century, the day the Church..."
 ---
 
 

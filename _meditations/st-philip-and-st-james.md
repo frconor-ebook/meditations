@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Philip and St. James"
+description: "\"Jesus said, 'I am the way and the truth and the life. No one can come to the Father except through me. If you know me, you will know my Father too. From..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Syrophoenician Woman"
+description: "\"He left that place and set out for the territory of Tyre. There he went into a house and did not want anyone to know that he was there. But he could not..."
 ---
 
 By Fr. Conor Donnelly

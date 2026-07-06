@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "On Grace, Supernatural Life, and Confession"
+description: "There was a five-year-old kid who was being prepared for First Holy Communion, and the teacher was explaining how in all the sacraments we receive grace..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Miracle at Cana"
+description: "\"On the third day there was a wedding at Cana in Galilee. The Mother of Jesus was there, and Jesus and his disciples had also been invited\" (John 2:1-2)..."
 ---
 
 By Fr. Conor Donnelly

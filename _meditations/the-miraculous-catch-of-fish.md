@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Miraculous Catch of Fish"
+description: "\"After these things, Jesus manifested himself again at the Sea of Tiberias. He manifested himself in this way. They were together, Simon Peter and Thomas..."
 ---
 
 By Fr. Conor Donnelly

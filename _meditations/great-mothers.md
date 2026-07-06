@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Great Mothers"
+description: "There was a lady from a small village in the Mogilev region of the Russian Empire, in what is now Belarus. Her name was Bryna. In her youth, she was..."
 ---
 
 

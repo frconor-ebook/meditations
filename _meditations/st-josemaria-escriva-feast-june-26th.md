@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "St. Josemaría Escrivá (Feast, June 26th)"
+title: "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"
+description: "A lady told me recently how she felt she had received a treasure from St. Josemar\u00eda: everything related to the plan of life that is so special in her own..."
 ---
 
 By Fr. Conor Donnelly

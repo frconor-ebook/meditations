@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "Our Lady’s Fidelity"
+title: "Our Lady\u2019s Fidelity"
+description: "\"Be it done unto me according to your word\" (Luke 1:38). When John Paul II went on his first international trip in 1979 to Mexico, he said, \"Among the..."
 ---
 
 By Fr. Conor Donnelly

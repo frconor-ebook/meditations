@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Art of Prudence"
+description: "The Lord replied, \"Who then is the wise and prudent steward whom the master will place over his household to give them at the proper time their allowance..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "At St. Joseph’s Side"
+title: "At St. Joseph\u2019s Side"
+description: "\"And Jacob was the father of Joseph, the husband of Mary, of whom Jesus was born, who is called Christ\" (Matt. 1:16). Among the Jews, as among other..."
 ---
 
 By Fr. Conor Donnelly

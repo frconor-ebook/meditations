@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Making Up for Lost Time"
+description: "St. Paul says to the Ephesians: \"Look carefully then how you walk, not as unwise men but as wise, making the most of the time\" (Eph. 5:15-16). And in his..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Dominic"
+description: "St. Dominic was born in Caleruega about the year 1170. He fought the Albigensian heresy with his preaching and exemplary life. He founded the Dominicans..."
 ---
 
 

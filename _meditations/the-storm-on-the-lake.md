@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Storm on the Lake"
+description: "\"Then he got into the boat followed by his disciples. Suddenly a storm broke over the lake, so violent that the boat was being swamped by the waves. But..."
 ---
 
 By Fr. Conor Donnelly

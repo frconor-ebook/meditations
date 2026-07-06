@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Blind Man"
+description: "\"They came to Bethsaida, and some people brought to him a blind man, whom they begged him to touch. He took the blind man by the hand and led him outside..."
 ---
 
 By Fr. Conor Donnelly

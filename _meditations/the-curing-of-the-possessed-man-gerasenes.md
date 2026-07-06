@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Curing of the Possessed Man (Gerasenes)"
+description: "\"They reached the territory of the Gerasenes on the other side of the lake, and when he disembarked, a man with an unclean spirit at once came out from..."
 ---
 
 By Fr. Conor Donnelly

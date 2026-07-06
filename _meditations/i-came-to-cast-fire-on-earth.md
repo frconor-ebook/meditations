@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "I Came To Cast Fire On Earth"
+description: "We're told in St. Luke, \"I came to cast fire upon the earth, and would that it were already enkindled\" (Luke 12:49). We can see the divine zeal of Christ..."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Prodigal Son (2025 Edition)"
+description: "We are told in the Psalms, \"Have mercy on me, God, in your kindness. In your compassion blot out my offense. O wash me more and more from my guilt and..."
 ---
 
 By Fr. Conor Donnelly

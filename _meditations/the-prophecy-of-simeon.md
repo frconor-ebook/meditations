@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Prophecy of Simeon"
+description: "\"Lord, now you can let your servant go in peace, according to your word; for my eyes have seen your salvation which you have prepared in the presence of..."
 ---
 
 By Fr. Conor Donnelly

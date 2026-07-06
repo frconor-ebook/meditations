@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Friend of Sinners"
+description: "We are told in St. Luke, \"This man receives sinners and eats with them\" (Luke 15:2). Also in St. Luke, Our Lord said to Zacchaeus, \"Make haste and come..."
 ---
 
 By Fr. Conor Donnelly

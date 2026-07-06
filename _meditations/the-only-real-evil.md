@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Only Real Evil"
+description: "We are told in the First Reading of today that \"the serpent was more subtle than any other wild creature that the Lord God had made\" (Gen. 3:1). Genesis..."
 ---
 
 By Fr. Conor Donnelly

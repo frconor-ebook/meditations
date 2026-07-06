@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. John Henry Newman on Friendship"
+description: "\"Be you perfect, as your heavenly Father is perfect\" (Matt. 5:48), Our Lord tells us in the Gospel. As a keen student of the writers of antiquity, St..."
 ---
 
 By Fr. Conor Donnelly

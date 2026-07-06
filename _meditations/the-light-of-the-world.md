@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Light of the World"
+description: "There are three great roles played by the Eternal Galilean, each of which is a revelation of His Divine Character: He is a Prophet or Teacher, a King or..."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Good Thief"
+description: "\"Now they were also leading out two others, criminals, to be executed with him. When they reached a place called The Skull, there they crucified him, and..."
 ---
 
 By Fr. Conor Donnelly

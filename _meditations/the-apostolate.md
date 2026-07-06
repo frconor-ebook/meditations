@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Apostolate"
+description: "\"In passing along by the Sea of Galilee, he saw Simon and his brother Andrew casting their nets into the sea, for they were fishermen. And Jesus said to..."
 ---
 
 By Fr. Conor Donnelly

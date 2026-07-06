@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Fourth Sunday of St. Joseph (2026)"
+description: "Our Lord will always enlighten those who seek Him with a clean heart. To think about the life of St. Joseph is to discover a life full of joys and..."
 ---
 
 

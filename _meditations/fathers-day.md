@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "Father’s Day"
+title: "Father\u2019s Day"
+description: "\"And rising up he came to his father. And when he was yet a great way off, his father saw him and was moved with compassion, and running to him, fell upon..."
 ---
 
 By Fr. Conor Donnelly

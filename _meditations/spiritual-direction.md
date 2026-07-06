@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Spiritual Direction"
+description: "I heard a story once of a professional man, advanced in years, who had a problem in his company---something to do with management---and he had consulted..."
 ---
 
 By Fr. Conor Donnelly

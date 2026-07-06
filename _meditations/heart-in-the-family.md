@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Heart in the Family"
+description: "\"He went down with them and came to Nazareth and lived under their authority. His mother treasured up all these things in her heart. And Jesus increased..."
 ---
 
 By Fr. Conor Donnelly

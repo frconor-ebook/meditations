@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Obedience of Jesus"
+description: "We're told in St. John, \"My meat is to do the will of him who sent me; and to accomplish the task he gave me\" (John 4:34). After the meeting in the..."
 ---
 
 By Fr. Conor Donnelly

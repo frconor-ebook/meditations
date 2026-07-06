@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The King of Hearts"
+description: "Every man is passionately fond of liberty. But there's one thing he craves even more. And without which existence and even liberty is painful. And that is..."
 ---
 
 

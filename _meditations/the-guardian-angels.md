@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Guardian Angels"
+description: "We're told in the Book of Exodus, \"Look, I am sending an angel to precede you, to guard you as you go and bring you to the place that I have prepared..."
 ---
 
 By Fr. Conor Donnelly

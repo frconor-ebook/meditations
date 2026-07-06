@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Mass"
+description: "Fulton Sheen tells a story about a concentration camp in Germany during the Second World War called Dachau. There were 5,000 priests in Dachau. Whenever a..."
 ---
 
 By Fr. Conor Donnelly

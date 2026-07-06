@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Pray for the Dead"
+description: "We\\'re told in the Psalms, \"My soul thirsts for God, for the living God. When shall I come and behold the face of God?\" (Ps. 42:2). During the month of..."
 ---
 
 By Fr. Conor Donnelly

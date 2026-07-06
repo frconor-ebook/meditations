@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Conversion of St. Paul (2027 Edition)"
+description: "The feast of the conversion of St. Paul marks the end of the octave of Christian unity. The grace of God changed St. Paul from being a persecutor of..."
 ---
 
 

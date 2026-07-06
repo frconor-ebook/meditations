@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Holiness in Rest: A Sacred Pause"
+description: "\"The apostles rejoined Jesus and told him all that they had done and taught. And he said to them, 'Come away to some lonely place all by yourselves and..."
 ---
 
 By Fr. Conor Donnelly

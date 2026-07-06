@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "House on the Rock"
+description: "\"It is not anyone who says to me, 'Lord, Lord,' who will enter the kingdom of heaven, but the person who does the will of my Father in heaven. When that..."
 ---
 
 By Fr. Conor Donnelly

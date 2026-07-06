@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Prince of Peace"
+description: "\"Glory to God in the highest, and peace on earth to men of good will\" (Luke 2:14). Peace is one of the great goods constantly implored from God in the Old..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Optimism"
+description: "\"Then the mother of Zebedee's sons came with her sons to make a request of him and bowed low. And he said to her, 'What is it that you want?' She said to..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Joseph, The Family Man"
+description: "With the permission of Our Lord in the Blessed Sacrament, we continue with this period of prayer in front of Our Lord exposed in the Blessed Sacrament, in..."
 ---
 
 By Fr. Conor Donnelly

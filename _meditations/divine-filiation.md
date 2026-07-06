@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Divine Filiation"
+description: "A number of years ago, I was giving a retreat in the south of Spain, just after being ordained, to a group of men. There was an 80-year-old man who came..."
 ---
 
 By Fr. Conor Donnelly

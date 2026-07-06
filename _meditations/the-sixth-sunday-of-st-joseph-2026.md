@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Sixth Sunday of St. Joseph (2026)"
+description: "The liturgy tells us, \"Most blessed among men was Joseph, in being attended at the hour of his death by the Lord himself and by his Mother. ... Having..."
 ---
 
 

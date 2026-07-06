@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The War With Temptation"
+description: "The great characteristic of our age is not its love for religion, but its love for talking about religion. Even those who would smite God from the heavens..."
 ---
 
 

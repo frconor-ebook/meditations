@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Plan of Life"
+description: "There was a man once who was walking along by the sea, and he found that his foot tripped against a bit of a pouch or something. He picked it up and he..."
 ---
 
 By Fr. Conor Donnelly

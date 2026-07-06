@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. John Paul II"
+description: "\"In all truth, I tell you, when you were young,\" we're told in St. John, \"you put on your own belt and walked where you liked. But when you grow old, you..."
 ---
 
 By Fr. Conor Donnelly

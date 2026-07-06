@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Growing in Faith"
+description: "The prophet Habakkuk complains to Our Lord about the apparent triumph of evil over good. He laments the mistreatment of the chosen people by invaders who..."
 ---
 
 

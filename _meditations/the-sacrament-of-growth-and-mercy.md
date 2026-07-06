@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Sacrament of Growth and Mercy"
+description: "\"And behold, a woman that was in the city, a sinner, when she knew that he sat at meal in the Pharisee\\'s house, brought an alabaster flask of ointment..."
 ---
 
 By Fr. Conor Donnelly

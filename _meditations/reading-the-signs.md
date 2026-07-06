@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Reading the Signs"
+description: "It is said in St. Luke, \"Are you the one who is to come, or shall we look for another?\" (Luke 7:19). Our Lord makes Himself known to us by giving..."
 ---
 
 By Fr. Conor Donnelly

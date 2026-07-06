@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Beatitudes"
+description: "\"Seeing the crowds, he went up onto the mountains. And when he was seated, his disciples came to him. Then he began to speak. This is what he taught them..."
 ---
 
 By Fr. Conor Donnelly

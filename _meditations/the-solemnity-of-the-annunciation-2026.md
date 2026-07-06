@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Solemnity of the Annunciation (2026)"
+description: "On today's feast, the Church celebrates the mystery of the Incarnation and, at the same time, the vocation of Our Lady. It was her faithful response to..."
 ---
 
 

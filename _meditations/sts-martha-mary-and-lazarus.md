@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Sts. Martha, Mary, and Lazarus"
+description: "\"Lord, if you had been here, my brother would not have died\" (John 11:21). To stress the family spirit of the home in Bethany, where Our Lord loved to be..."
 ---
 
 By Fr. Conor Donnelly

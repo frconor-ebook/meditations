@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The First Commandment"
+description: "\"One of the scribes who had listened to them debating, appreciated that Jesus had given a good answer, and put a further question to him, 'Which is the..."
 ---
 
 

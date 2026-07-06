@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Nicholas of Bari"
+description: "Today is the Feast of St. Nicholas of Bari. He was the Bishop of Myra in the fourth century, died there, and is buried in that Cathedral. His parents died..."
 ---
 
 By Fr. Conor Donnelly

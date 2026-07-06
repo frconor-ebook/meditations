@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Generosity"
+description: "There was a kid in Manila one time who used to sell cigarettes at a street corner. He was very young, and he didn\\'t know how to manage his money. There..."
 ---
 
 By Fr. Conor Donnelly

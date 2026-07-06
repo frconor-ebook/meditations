@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Andrew"
+description: "\"As he was walking along by the Lake of Galilee, he saw Simon and Simon\\'s brother Andrew casting a net in the lake, for they were fishermen. And Jesus..."
 ---
 
 By Fr. Conor Donnelly

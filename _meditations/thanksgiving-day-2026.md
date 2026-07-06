@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Thanksgiving Day (2026)"
+description: "Today the Church invites the faithful to give thanks for the many blessings God our Father has bestowed on us. We also ask Our Lord to grant us generously..."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Mark"
+description: "\"And he said to them, 'Go out into the whole world, proclaim the Gospel to all creation. Whoever believes and is baptized will be saved; whoever does not..."
 ---
 
 By Fr. Conor Donnelly

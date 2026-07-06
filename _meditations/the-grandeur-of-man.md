@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Grandeur of Man"
+description: "\"The grandeur and misery of man are both central to the thought and enduring message of Blaise Pascal, born four centuries ago in 1623 in Clermont in..."
 ---
 
 

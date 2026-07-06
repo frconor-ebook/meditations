@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Centurion and His Servant"
+description: "\"When he went into Capernaum, a centurion came up and pleaded with him. 'Sir,' he said, 'my servant is lying at home paralyzed and in great pain.' Jesus..."
 ---
 
 By Fr. Conor Donnelly

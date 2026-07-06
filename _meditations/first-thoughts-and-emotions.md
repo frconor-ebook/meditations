@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "First Thoughts and Emotions"
+description: "\"To them that love God, all things work together unto good,\" says St. Paul (Rom. 8:28). There\\'s one particular type of temptation \"that raises its head..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Gift of Counsel"
+description: "\"These things I have spoken to you are yet dwelling with you, but the Advocate, the Counselor, the Holy Spirit, whom your Father will send in my name, he..."
 ---
 
 By Fr. Conor Donnelly

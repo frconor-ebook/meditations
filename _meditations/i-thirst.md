@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "I Thirst"
+description: "\"Later, knowing that everything had now been finished, and so that Scripture would be fulfilled, Jesus said, 'I am thirsty'\" (John 19:28). Christ is \"the..."
 ---
 
 By Fr. Conor Donnelly

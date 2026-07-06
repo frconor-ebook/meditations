@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Knowing When to Speak"
+description: "We're told in St. Mark, \"Jesus was silent and made no answer\" (Mark 14:61). For thirty years, Jesus had lived a life of silence. Mary and Joseph were the..."
 ---
 
 

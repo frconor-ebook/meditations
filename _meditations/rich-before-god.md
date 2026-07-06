@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Rich Before God"
+description: "\"A man in the crowd said to him: 'Master, tell my brother to give me a share of our inheritance.' He said to him, 'My friend, who appointed me your judge..."
 ---
 
 By Fr. Conor Donnelly

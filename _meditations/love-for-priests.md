@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Love For Priests"
+description: "\"He chose us in him before the foundation of the world, that we should be holy and blameless before him\" (Eph. 1:4). St. Paul says this to the Ephesians..."
 ---
 
 By Fr. Conor Donnelly

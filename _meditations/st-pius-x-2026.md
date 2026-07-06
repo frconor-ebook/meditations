@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Pius X (2026)"
+description: "Saint Pius the Tenth was born in 1835 in the small town of Riese in northern Italy. As a child, he experienced the privations of a large and poor family..."
 ---
 
 

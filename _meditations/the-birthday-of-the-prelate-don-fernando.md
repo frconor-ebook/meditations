@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Birthday of the Prelate (Don Fernando)"
+description: "\"I am the Good Shepherd,\" we're told in St. John. \"The Good Shepherd lays down his life for his sheep\" (John 10:11). We can thank Our Lord for this image..."
 ---
 
 By Fr. Conor Donnelly

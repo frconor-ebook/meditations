@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Mother of Fair Love"
+description: "In the Book of Ecclesiasticus we are told: \"I am the mother of fair love, and of fear, and of knowledge, and of holy hope. In me is all grace of the way..."
 ---
 
 By Fr. Conor Donnelly

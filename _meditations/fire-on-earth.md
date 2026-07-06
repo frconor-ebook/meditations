@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Fire On Earth"
+description: "We're told in St. Luke, \"I have come to bring fire to the earth, and how I wish it were blazing already! There is a baptism I must still receive, and what..."
 ---
 
 By Fr. Conor Donnelly

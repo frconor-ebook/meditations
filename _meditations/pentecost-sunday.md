@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Pentecost Sunday"
+description: "There was a Dutch missionary priest in Singapore who used to say that he liked to call Pentecost the Feast of the 'Ahh!' of the Apostles. When a teacher..."
 ---
 
 (*Proofread*)

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Mother in May"
+description: "\"So they hurried away, and they found Mary and Joseph, and the babe lying in the manger. When they saw the child, they repeated what had been told about..."
 ---
 
 By Fr. Conor Donnelly

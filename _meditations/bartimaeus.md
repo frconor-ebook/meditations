@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Bartimaeus"
+description: "They reached Jericho, and as he left Jericho with his disciples and a great crowd, Bartimaeus, that is the son of Timaeus, a blind beggar, was sitting at..."
 ---
 
 By Fr. Conor Donnelly

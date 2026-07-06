@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Barnabas"
+description: "We\\'re told in St. Matthew, \"As you go, proclaim that the kingdom of heaven is close at hand. Cure the sick, raise the dead, cleanse those suffering from..."
 ---
 
 By Fr. Conor Donnelly

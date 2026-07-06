@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Grandfather"
+description: "Today is the feast of Our Lady of the Miraculous Medal. It is also the anniversary of the death of the Grandfather, who had great devotion to Our Lady of..."
 ---
 
 By Fr. Conor Donnelly

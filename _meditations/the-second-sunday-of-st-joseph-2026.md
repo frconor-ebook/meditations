@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Second Sunday of St. Joseph (2026)"
+description: "On this second Sunday dedicated to St. Joseph, we can contemplate the virtues which he practiced in his ordinary life of work. While describing the..."
 ---
 
 

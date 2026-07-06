@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Widow of Naim"
+description: "\"It happened that soon afterwards Jesus went to a town called Naim, accompanied by his disciples and a great number of people. Now when he was near the..."
 ---
 
 By Fr. Conor Donnelly

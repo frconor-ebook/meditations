@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Parable of The Wedding Feast"
+description: "\"Jesus began to speak to them in parables once again: 'The kingdom of heaven may be compared to a king who gave a feast for his son\\'s wedding. He sent..."
 ---
 
 By Fr. Conor Donnelly

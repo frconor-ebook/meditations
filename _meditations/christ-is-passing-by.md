@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Christ Is Passing By"
+description: "God passes alongside the lives of men giving His light and joy. In the Book of the Prophet Jeremiah, we're told the Lord rejoices at the salvation of the..."
 ---
 
 

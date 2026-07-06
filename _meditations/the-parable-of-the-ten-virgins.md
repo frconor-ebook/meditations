@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Parable of the Ten Virgins"
+description: "\"Then the kingdom of heaven will be like this. Ten wedding attendants took their lamps and went to meet the bridegroom. Five of them were foolish, and..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady of Guadalupe"
+description: "\"Go therefore and make disciples of all nations\" (Matt. 28:19). Our Lady appeared to Juan Diego on Tepeyac Hill near Mexico City on the 9^th^ of December..."
 ---
 
 By Fr. Conor Donnelly

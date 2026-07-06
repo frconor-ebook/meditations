@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady the Queen (2026)"
+description: "Pius XII instituted this feast day in 1954 in response to the unanimous traditional belief in the Mother of the King of Kings and Lord of Lords as Queen..."
 ---
 
 

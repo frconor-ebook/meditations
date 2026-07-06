@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Speck In My Brother's Eye"
+description: "We're told in St. Matthew, \"Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye? How can you say to..."
 ---
 
 By Fr. Conor Donnelly

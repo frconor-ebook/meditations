@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Peter and Prayer"
+description: "\"And he came out and went, according to his custom, to the Mount of Olives, and the disciples also followed him. But when he was at the place, he said to..."
 ---
 
 By Fr. Conor Donnelly

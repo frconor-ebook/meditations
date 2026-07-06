@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Shepherds and Peace"
+description: "\"And suddenly there was with the angel a multitude of the heavenly host praising God and saying, \"Glory to God in the highest, and on earth peace among..."
 ---
 
 By Fr. Conor Donnelly

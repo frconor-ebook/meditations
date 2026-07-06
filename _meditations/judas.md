@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Judas"
+description: "\"When Jesus had said these things, he was troubled in spirit, and he testified and said, 'Amen, Amen, I say to you, one of you shall betray me'\" (John..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "In the Heart of Joseph and Mary"
+description: "This meditation is about Mary and Joseph in the Heart of Jesus, basically focusing on marriage and the family. We\\'re asked to think about divine love and..."
 ---
 
 By Fr. Conor Donnelly

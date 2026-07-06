@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Ripples in the Ocean"
+description: "In 1938, Hilde Back was sixteen years old and running out of time. She was a Jewish girl in Germany as Adolf Hitler's persecution of Jews intensified. The..."
 ---
 
 

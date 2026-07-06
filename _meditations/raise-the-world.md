@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Raise the World"
+description: "\"In the beginning, God created the heavens and the earth. The earth was without form, and void; and darkness was upon the face of the deep, and the Spirit..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "The Widow’s Mite"
+title: "The Widow\u2019s Mite"
+description: "Fr. Conor Donnelly (Proofread) In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are..."
 ---
 
 Fr. Conor Donnelly

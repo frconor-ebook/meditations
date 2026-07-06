@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Generosity in Correspondence"
+description: "\"Whoever gives to one of these little ones but a cup of cold water to drink because he is a disciple, amen, I say to you, he shall not lose his reward\"..."
 ---
 
 

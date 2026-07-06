@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Life of Faith"
+description: "Two fish were swimming one day when they saw a piece of meat dangling before them. The younger fish darted towards it with an open mouth, but the older..."
 ---
 
 By Fr. Conor Donnelly

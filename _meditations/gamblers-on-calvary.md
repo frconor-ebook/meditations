@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Gamblers On Calvary"
+description: "The most tragic words ever written of Our Lord are those which St. John puts down at the beginning of his Gospel, when he says: \"He came unto his own, and..."
 ---
 
 

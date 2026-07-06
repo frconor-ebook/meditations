@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Rectitude of Intention"
+description: "We're told in the Gospel of St. Matthew, \"Be careful not to parade your uprightness in public to attract attention; otherwise you will lose all reward..."
 ---
 
 By Fr. Conor Donnelly

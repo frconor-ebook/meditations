@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Lost Sheep"
+description: "\"Suppose a man has a hundred sheep and one of them strays; will he not leave the ninety-nine on the hillside and go in search of the stray? In truth I..."
 ---
 
 

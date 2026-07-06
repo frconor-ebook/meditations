@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady of Peace"
+description: "We are told in the Gospel today, \"Every kingdom divided against itself...cannot stand\" (Matt. 12:25). It's a statement of unity. Today is also the Feast..."
 ---
 
 By Fr. Conor Donnelly

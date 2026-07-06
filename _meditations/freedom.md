@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Freedom"
+description: "I heard a story once about how, in every major city of the world, the airport is about half an hour from the center of the city. To get to the..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Invoking Our Savior"
+description: "\"Truly, truly, I say to you,\" we're told in St. John, \"if you ask anything of the Father, he will give it to you in my name\" (John 16:23). Our Lord..."
 ---
 
 By Fr. Conor Donnelly

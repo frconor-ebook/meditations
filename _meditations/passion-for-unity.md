@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Passion for Unity"
+description: "\"I am the vine,\" Our Lord said, \"you are the branches. He that abides in me and I in him, he bears much fruit. Without me, you can do nothing\" (John..."
 ---
 
 By Fr. Conor Donnelly

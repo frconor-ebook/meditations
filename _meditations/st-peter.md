@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Peter"
+description: "The Apostles Peter and Paul are considered by the faithful as the first pillars, not only of the Holy Roman See, but also of the universal Church of the..."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "All the Glory to God"
+description: "In the Gospel of St. Matthew, we're told, \"Be careful not to parade your uprightness in public to attract attention; otherwise you will lose all reward..."
 ---
 
 By Fr. Conor Donnelly

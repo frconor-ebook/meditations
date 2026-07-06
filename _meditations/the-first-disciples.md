@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The First Disciples"
+description: "\"The next day, as John stood there again with two of his disciples, Jesus went past. John looked towards him and said, 'Look, there is the Lamb of God.'..."
 ---
 
 By Fr. Conor Donnelly

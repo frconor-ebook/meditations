@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Ascension"
+description: "\"As he said this he was lifted up while they looked on, and a cloud took him out of their sight. They were still staring into the sky as he went, when..."
 ---
 
 By Fr. Conor Donnelly

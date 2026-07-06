@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://frconor-ebook.github.io/meditations/sitemap.xml

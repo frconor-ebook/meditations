@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Midterm of the Year of St. Joseph"
+description: "\"After they had departed, behold, an angel of the Lord appeared in sleep to Joseph, saying, 'Arise and take the child and his mother and fly into Egypt..."
 ---
 
 By Fr. Conor Donnelly

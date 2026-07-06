@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Third Sunday of St. Joseph (2026)"
+description: "It's customary for saints to be outstanding and to become well known for some particular virtue or aspect of their struggle which makes them conspicuous..."
 ---
 
 

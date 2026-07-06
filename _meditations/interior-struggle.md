@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Interior Struggle"
+description: "A number of years ago, after the Pope's visit, somebody said to me, \"I have touched the Pope, and now I am ready to go to heaven.\" Well, we know that..."
 ---
 
 By Fr. Conor Donnelly

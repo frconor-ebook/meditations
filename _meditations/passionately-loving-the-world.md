@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Passionately Loving the World"
+description: "\"And God saw all things, and he saw that they were good\" (Gen. 1:31). Our faith gives us a very positive outlook on creation and the world. This..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Narrow Gate"
+description: "\"And Jesus went through the cities and towns, teaching and making his journey to Jerusalem. And a certain man said to him, 'Lord, are there few that are..."
 ---
 
 By Fr. Conor Donnelly

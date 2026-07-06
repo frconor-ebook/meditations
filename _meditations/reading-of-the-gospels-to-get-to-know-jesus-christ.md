@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Reading of the Gospels to get to know Jesus Christ"
+description: "A lady remarked to me once how we Catholics have more exposure to Scripture than any other Christian denomination. She was referring to the fact that if..."
 ---
 
 

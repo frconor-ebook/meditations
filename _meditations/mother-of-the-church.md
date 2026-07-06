@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Mother of the Church"
+description: "\"With one heart,\" we are told in the Acts of the Apostles, \"all these joined constantly in prayer, together with some women, including Mary, the mother of..."
 ---
 
 By Fr. Conor Donnelly

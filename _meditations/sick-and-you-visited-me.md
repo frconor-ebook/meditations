@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Sick and You Visited Me"
+description: "\"I was sick, and you visited me,\" said Our Lord in St. Matthew (Matt. 25:36). The Church has always recommended that the faithful engage in corporal works..."
 ---
 
 By Fr. Conor Donnelly

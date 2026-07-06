@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Meekness"
+description: "\"Now his elder son was in the field, and as he came and drew near to the house, he heard music and dancing. And he called one of the servants and asked..."
 ---
 
 By Fr. Conor Donnelly

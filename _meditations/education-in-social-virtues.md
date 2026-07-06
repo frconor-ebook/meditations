@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Education In Social Virtues"
+description: "We're told in the Book of Sirach, \"Whoever spoils their child will bind up their wounds and will suffer heartache at every cry. An unspoken horse turns..."
 ---
 
 By Fr. Conor Donnelly

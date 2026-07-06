@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Divine Intimacies"
+description: "At times some people feel that Divine Love is very far away, and the love of creatures is very close and real. Yet this is not the truth; it is the love..."
 ---
 
 By Fr. Conor Donnelly

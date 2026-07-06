@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Sins, Our Confession"
+description: "In the Book of Isaiah, we're told, \"Prepare the way of the Lord in the wilderness, make straight in the desert a highway for our God. Every valley shall..."
 ---
 
 By Fr. Conor Donnelly

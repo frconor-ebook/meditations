@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Immaculate Heart of Mary"
+description: "\"Simeon blessed them, and said to Mary his mother: 'Look, he is destined for the fall and for the rise of many in Israel, destined to be a sign that is..."
 ---
 
 By Fr. Conor Donnelly

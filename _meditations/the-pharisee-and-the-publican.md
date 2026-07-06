@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Pharisee and the Publican"
+description: "Jesus spoke the following parable to some people who prided themselves on being upright and despised everyone else. \"Two men went up to the temple to..."
 ---
 
 By Fr. Conor Donnelly

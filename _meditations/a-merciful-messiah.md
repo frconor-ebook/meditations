@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "A Merciful Messiah"
+description: "\"Jesus called his disciples to him and said, 'I feel sorry for all these people.' Large crowds came to him, bringing the lame, the crippled, the blind..."
 ---
 
 By Fr. Conor Donnelly

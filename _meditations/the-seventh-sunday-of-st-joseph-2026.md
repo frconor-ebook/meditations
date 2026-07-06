@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Seventh Sunday of St. Joseph (2026)"
+description: "The Church has taught on any number of occasions that the saints in heaven offer to God, for the benefit of the faithful, the merits which they won while..."
 ---
 
 

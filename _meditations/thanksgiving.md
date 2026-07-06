@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Thanksgiving"
+description: "We are told in the Entrance Antiphon of the Mass of Thanksgiving, \"Sing psalms and hymns and inspired songs among yourselves, singing and chanting to the..."
 ---
 
 By Fr. Conor Donnelly

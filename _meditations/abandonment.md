@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Abandonment"
+description: "We are told in the Gospel, \"Can you not buy two sparrows for a penny? Yet not one falls to the ground without your Father knowing\" (Matt. 10:29). Our Lord..."
 ---
 
 By Fr. Conor Donnelly

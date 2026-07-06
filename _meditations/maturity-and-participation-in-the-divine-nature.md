@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Maturity and Participation in the Divine Nature"
+description: "There are questions that we can sometimes ask ourselves, like, \"Why do I react that way? Why am I like this? Can I change?\" Sometimes we may pose them..."
 ---
 
 By Fr. Conor Donnelly

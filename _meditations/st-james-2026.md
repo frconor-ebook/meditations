@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. James (2026)"
+description: "Saint James was from Bethsaida. He was the son of Zebedee and the brother of John. He is one of the three disciples to witness the Transfiguration and the..."
 ---
 
 

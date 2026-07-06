@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Little Things"
+description: "On many occasions in Our Lord\\'s life, He talked about little things. \"When they had eaten enough, he said to the disciples, 'Pick up the pieces left..."
 ---
 
 By Fr. Conor Donnelly

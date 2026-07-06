@@ -1,6 +1,7 @@
 ---
 layout: homily
-title: "Lent: Christ’s Death on the Cross"
+title: "Lent: Christ\u2019s Death on the Cross"
+description: "\"From the sixth hour, there was darkness over all the land until the ninth hour. And about the ninth hour, Jesus cried out in a loud voice, 'Eli, Eli..."
 ---
 
 By Fr. Conor Donnelly

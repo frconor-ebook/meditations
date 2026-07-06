@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Joseph and the Setbacks of Life"
+description: "\"And after they were departed, behold, an angel of the Lord appeared in sleep to Joseph, saying, 'Arise, and take the child and his mother, and fly into..."
 ---
 
 By Fr. Conor Donnelly

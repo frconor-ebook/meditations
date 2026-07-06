@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Baptism of the Lord (2027 Edition)"
+description: "The feast of the baptism of Our Lord falls on the Sunday following the solemnity of the Epiphany. This feast brings to mind the mystery of Christ's person..."
 ---
 
 

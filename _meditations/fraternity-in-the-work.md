@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Fraternity in the Work"
+description: "We\\'re told in St. John, \"I give you a new commandment: Love one another. You must love one another just as I have loved you\" (John 13:34). This is a..."
 ---
 
 By Fr. Conor Donnelly

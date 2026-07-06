@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Marriage in Heaven"
+description: "\"Then some Sadducees, who deny that there is a resurrection, came to him, and they put this question to him. 'Master, Moses prescribed for us that if a..."
 ---
 
 By Fr. Conor Donnelly

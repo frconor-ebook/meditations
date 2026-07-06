@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Parable of the Weeds"
+description: "\"He put another parable before them, 'The kingdom of heaven may be compared to a man who sowed good seed in his field. While everybody was asleep his..."
 ---
 
 By Fr. Conor Donnelly

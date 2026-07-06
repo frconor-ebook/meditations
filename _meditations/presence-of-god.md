@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Presence of God"
+description: "\"The child whispered once, 'God, speak to me.'\\ And a meadowlark sang. The child did not hear. The child yelled, 'God, speak to me!\\ And the thunder..."
 ---
 
 By Fr. Conor Donnelly

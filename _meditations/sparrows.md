@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Sparrows"
+description: "We are told in the Gospel of St. Matthew, \"Can you not buy two sparrows for a penny? And yet not one falls to the ground without your Father knowing. Why..."
 ---
 
 By Fr. Conor Donnelly

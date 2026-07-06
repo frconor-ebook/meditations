@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Watchfulness"
+description: "St. Paul, speaking to the Thessalonians, says, \"But you, brothers do not live in the dark, that the Day should take you unawares like a thief. No, you are..."
 ---
 
 By Fr. Conor Donnelly

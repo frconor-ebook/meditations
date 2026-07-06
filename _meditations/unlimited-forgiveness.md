@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Unlimited Forgiveness"
+description: "I do not say to you seven times, but seventy times seven. Our Lord encourages us to forgive always, promptly, and wholeheartedly. God pardons those who..."
 ---
 
 

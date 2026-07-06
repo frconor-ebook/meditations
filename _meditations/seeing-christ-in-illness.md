@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Seeing Christ in Illness"
+description: "\"Now when the sun was setting, all those who had any that were sick with various diseases brought them to him, and he laid his hands on every one of them..."
 ---
 
 By Fr. Conor Donnelly

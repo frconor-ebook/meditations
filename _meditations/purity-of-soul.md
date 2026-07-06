@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Purity of Soul"
+description: "\"You have heard that it was said, 'You shall not commit adultery.' But I say to you that everyone who looks at a woman lustfully has already committed..."
 ---
 
 By Fr. Conor Donnelly

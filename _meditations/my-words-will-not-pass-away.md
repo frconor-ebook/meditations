@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "My Words Will Not Pass Away"
+description: "\"Heaven and earth will pass away, but my words will not pass away\" (Luke 21:33), we're told by Our Lord in St. Luke. What Jesus has said in His preaching..."
 ---
 
 

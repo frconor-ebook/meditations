@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Holy Name of Jesus"
+description: "\"And for this God raised him high and gave him the name which is above all names, so that all beings in the heavens, on earth, and in the underworld..."
 ---
 
 By Fr. Conor Donnelly

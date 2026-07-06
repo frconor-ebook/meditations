@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Paralytic and His Friends"
+description: "\"Now he was teaching one day, and among the audience there were Pharisees and doctors of the Law who had come from every village in Galilee, from Judea..."
 ---
 
 By Fr. Conor Donnelly

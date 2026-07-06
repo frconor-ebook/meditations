@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. John Mary Vianney (2026)"
+description: "St. John Mary Vianney was born near Lyon in 1786. He overcame many difficulties prior to receiving ordination and was later entrusted with the parish in..."
 ---
 
 

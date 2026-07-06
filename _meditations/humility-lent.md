@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Humility (Lent)"
+description: "\"He who is greatest among you shall be your servant. And whoever exalts himself shall be humbled, and whoever humbles himself shall be exalted\" (Matt..."
 ---
 
 By Fr. Conor Donnelly

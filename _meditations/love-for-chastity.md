@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Love for Chastity"
+description: "St. Paul says to the Corinthians, \"You will never, ever be tempted beyond your strength\" (cf. 1 Cor. 10:13). The Sadducees came before Jesus and tried to..."
 ---
 
 By Fr. Conor Donnelly

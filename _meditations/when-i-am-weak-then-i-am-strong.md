@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "When I Am Weak, Then I Am Strong"
+description: "One of the themes that Scripture proposes for our consideration is the paradox of strength in weakness. It is found especially in the writings of St..."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Our Lady of the Snows"
+description: "After the promulgation of the dogma of the divine maternity of Mary at the Council of Ephesus, Pope Sixtus III consecrated a basilica in Rome in honor of..."
 ---
 
 By Fr. Conor Donnelly

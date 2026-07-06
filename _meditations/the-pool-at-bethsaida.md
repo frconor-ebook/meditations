@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Pool at Bethsaida"
+description: "\"After this there was a Jewish festival, and Jesus went up to Jerusalem. Now in Jerusalem next to the Sheep Gate, there is a pool called Bethesda in..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Temple Tax"
+description: "\"When they reached Capharnaum, the collectors of the half-shekel came to Peter and said, 'Does your master not pay the half-shekel?' 'Yes,' he replied..."
 ---
 
 By Fr. Conor Donnelly

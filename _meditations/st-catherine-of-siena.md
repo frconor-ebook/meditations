@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "St. Catherine of Siena"
+description: "We\\'re told in the First Letter of St. John, \"This is what we have heard from him and declare to you: God is light and there is no darkness in him at all..."
 ---
 
 By Fr. Conor Donnelly

@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "The Epiphany of Our Lord (2027 Edition)"
+description: "Epiphany means manifestation. In today's solemnity, the Church commemorates the first manifestation of the Son of God made man to the pagan world, which..."
 ---
 
 

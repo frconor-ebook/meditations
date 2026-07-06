@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Obedience"
+description: "Our Lord tells us in St. John, \"My food is to do the will of him who sent me and to accomplish his work\" (John 4:34). Obedience is the submission of our..."
 ---
 
 By Fr. Conor Donnelly

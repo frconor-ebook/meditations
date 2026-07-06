@@ -1,6 +1,7 @@
 ---
 layout: homily
 title: "Holy Purity"
+description: "If you go to the end of a runway some time and watch the planes taking off, it can be a very impressive sight. You might wonder how all that metal gets up..."
 ---
 
 By Fr. Conor Donnelly
