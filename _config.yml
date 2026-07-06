@@ -5,6 +5,13 @@ url: "https://frconor-ebook.github.io" # Your site's URL
 permalink: /homilies/:title/
 markdown: kramdown
 
+# Meditations live in _meditations/ as a collection: filenames are slugs
+# (no dates), so regeneration is idempotent and URLs never change
+collections:
+  meditations:
+    output: true
+    permalink: /homilies/:name/
+
 # Build settings
 source: .
 destination: ./docs
@@ -23,7 +30,6 @@ exclude:
   - "create_project.sh"
   - "transcript_proofread_markdown_small/"
   - "transcript_proofread_markdown/"
-  - "_posts/2025-02-03-welcome-to-jekyll.markdown"
   - "README.md"
   - "IMPROVEMENTS.md"
   - "process_markdown.py"
@@ -41,4 +47,3 @@ defaults:
       path: "data" # Apply these settings to files in _data
     values:
       sitemap: false  # Exclude data files from sitemap (optional but recommended)
-future: true

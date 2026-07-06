@@ -44,15 +44,15 @@ The pipeline transforms source DocX files into a Jekyll website:
 2. **Convert** (`preprocessing_scripts/convert_all_to_md_with_progress_parallel.sh`): Converts DocX to Markdown using pandoc
 3. **Standardize** (`preprocessing_scripts/standardize_filename.py`): Normalizes filenames (lowercase, removes diacritics, replaces spaces with hyphens)
 4. **Process** (`process_markdown.py`):
-   - Converts Markdown files to Jekyll posts in `_posts/`
-   - Generates `data/meditations.json` (full index) and `data/search_index.json` (lightweight search)
+   - Converts Markdown files to Jekyll collection documents in `_meditations/` (full rebuild each run; filenames are slugs, so output is deterministic)
+   - Generates `data/meditations.json` (full index, local artifact, gitignored) and `data/search_index.json` (lightweight search index shipped to the site)
    - Extracts title from first heading, creates URL slugs
 5. **Build**: Jekyll builds to `docs/` directory
 6. **Deploy**: Git commit and push to GitHub
 
 ### Directory Structure
 
-- `_posts/`: Generated Jekyll posts (auto-generated, do not edit directly)
+- `_meditations/`: Generated Jekyll collection documents (auto-generated, do not edit directly)
 - `_layouts/`: Jekyll layouts (`homily.html` for meditation posts, extends `default.html`)
 - `_includes/`: Shared components (header, footer, search, share-links)
 - `data/`: JSON index files for search functionality
