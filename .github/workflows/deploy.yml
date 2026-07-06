@@ -31,11 +31,22 @@ jobs:
           ruby-version: '3.3'
           bundler-cache: true
 
+      - name: Ensure Pages uses workflow deploys
+        # configure-pages only creates a missing Pages config; it will not
+        # convert an existing branch-based one. The workflow token has
+        # pages:write, which the update endpoint accepts, so flip it here.
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          current=$(gh api "repos/${{ github.repository }}/pages" --jq .build_type)
+          echo "Pages build_type: $current"
+          if [ "$current" != "workflow" ]; then
+            gh api -X PUT "repos/${{ github.repository }}/pages" -f build_type=workflow
+            echo "Switched Pages build_type to workflow"
+          fi
+
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
-        with:
-          # Switches the Pages source to "GitHub Actions" on first run
-          enablement: true
 
       - name: Build site
         run: bundle exec jekyll build
