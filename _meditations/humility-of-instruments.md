@@ -68,7 +68,7 @@ Humility has a purpose. He's molding us all the time. Everything has its influen
 
 We see the Holy Spirit in the things that we hear, that we listen, that we see. It opens up a whole new outlook on life for us---humility to be docile, able to be molded.
 
-The opposite of this would be if the modeling clay was very dry and could not be molded---arid, stiff, and difficult to mold in any way. Even if it's very stiff and you try and mold it, it might break.
+The opposite of this would be if the modeling clay was very dry and could not be molded---arid, stiff, difficult to mold in any way. Even if it's very stiff and you try and mold it, it might break.
 
 Humility allows us to change, to grow in different directions, to change our way of doing things, change our way of thinking. To be that other person that God wants us to be.
 
@@ -110,7 +110,7 @@ People don't talk behind our backs or don't whisper, murmur about us, about all 
 
 That's a wonderful thing. That means we can have great peace and confidence in family life. If I do something wrong, I'll be told.
 
-If I start to swing out of the chandelier, somebody will tell me, 'Look, we shouldn't swing out of the chandelier because we might break the lights, or the roof might come in or something.'
+If I start to swing out of the chandelier, somebody will tell me, 'Look, it's better we don't swing out of the chandelier because we might break the lights, or the roof might come in or something.'
 
 We relax and we have fun, and the sky's the limit because we know if there's something wrong, I will be told.
 
@@ -128,7 +128,7 @@ The same thing about laying a table, or baking a cake, or doing laundry***---***
 
 We should try and make the glory of God the motive for our actions. Our Lord said, "Learn from me, for I am meek and humble of heart" (Matt. 11:29).
 
-He places this virtue as one of the virtues that we should imitate in a special way.
+He places this virtue as one of the virtues that we have to imitate in Him in a special way.
 
 Fulton Sheen likes to say that when there's a play in a theater, when the curtain goes down at the end of the play, it doesn't really matter who played the part of the queen and who played the part of the servant (Fulton J. Sheen, *The Cries of Jesus from the Cross*).
 
@@ -172,7 +172,7 @@ We're told how "the instrument is always in the hands of the artist." A very bea
 
 The painter keeps the paintbrush in His hands and so, the paintbrush is always in His hands.
 
-We have to be paintbrushes, and let the Divine Painter do His work. This masterstroke here, this masterstroke there.
+We have to be paintbrushes and let the Divine Painter do His work. This masterstroke here, this masterstroke there.
 
 If the paintbrush says, 'No, I don't like that color, I don't like that purple, let's do a magenta. Or a pink or something.' Or 'Let's not paint this thing this way, let's paint it that way.'
 
@@ -184,7 +184,7 @@ God wants to use each one of us to produce that masterpiece, but a lot of that d
 
 In His birth, Our Lord surrounds Himself with humility. The humility of Our Lady. The humility of St. Joseph. The humility of the shepherds, of the Magi. Everything in Bethlehem speaks to us about humility. Very powerful (Luke 2:8-20, Matt. 1:18--2:12).
 
-As we grow in life, we have to give more importance to this virtue, because as we come to know more things, we can find I can work a lot of things out for myself. We can see great importance being given to reason.
+As we grow in life, we have to give more importance to this virtue, because as we come to know more things, we can find, 'I can work a lot of things out for myself.' We can see great importance being given to reason.
 
 But all the time this virtue leads us to subject our reason to the reason of God, to His authority, so that we don't get a swollen head.
 
@@ -229,7 +229,7 @@ We will have to rely completely on Him, and that means that we become aware of o
 
 There's a point in *The Way* that says, "When you hear your success being applauded, let there also sound in your ears the laughter you provoked with your failures" (J. Escrivá, *The Way*, Point 589).
 
-When we get the temptation to think 'what a clever person I am,' or 'what a great job I've done,' or all sorts of other things, just remember all the times in our life when we were the laughingstock, when the joke was on us, when we turned out to be silly or did a crazy thing.
+When we get the temptation to think 'what a clever person I am,' or 'what a great job I've done,' or all sorts of other things, just remember all the times in our life when we were the laughingstock, when the joke was on us, when we turned out to be really silly or did a crazy thing.
 
 It brings us back to earth; helps us to keep our feet on the ground.
 
@@ -249,9 +249,9 @@ That's the way that the great things of God happen.
 
 We have to seek our pathway there, hiding away and disappearing, serving in quietness and silence, like Our Lady, like St. Joseph, like Bethlehem, fully aware of our nothingness.
 
-You see, if you go and get a garbage can or a dustbin and you paint it a nice color, maybe white with pink spots, and you put a nice bow around it and really dress it up in a very special way, and then you bring somebody to it and wonder if they can guess what it is, 'Well,' they'll say, 'you don't fool me.'
+You see, if you go and get a garbage can or a dustbin and you paint it a nice color, maybe white with pink spots, and you put a nice bow around it and really dress it up in a very special way, and then you bring somebody to it and wonder if they can guess what it is.
 
-'You can paint it any color you like, you can put all sorts of beautiful bows around it, but it's very difficult to disguise a garbage can or a dustbin. I can immediately recognize it as a dustbin.'
+'Well,' they'll say, 'you don't fool me. You can paint it any color you like, you can put all sorts of beautiful bows around it, but it's very difficult to disguise a garbage can or a dustbin. I can immediately recognize it as a dustbin.'
 
 That's what each one of us is. Our Lord wants us to recognize that so that we grow in this virtue.
 
@@ -267,15 +267,13 @@ We have to struggle to be better, to be the best we can be, in the particular ta
 
 If we can break the record for the marathon, the first lady in the world to break the record of the marathon, then we should be trying to do it, or to win some London marathon or something.
 
-Or to bake the best cake that's ever been baked in the world, or to polish the best products that are floored, or some other talent that God has given to us, or to speak Russian or Japanese, whatever it may be.
+Or to bake the best cake that's ever been baked in the world, or to polish the best products on the floor, or some other talent that God has given to us, or to speak Russian or Japanese, whatever it may be.
 
-We want to try and acquire that talent as best we can. That's humility.
-
-But realizing that God has given me the grace to do all these things, and therefore I give Him all the glory.
+We want to try and acquire that talent as best we can. That's humility---but realizing that God has given me the grace to do all these things, and therefore I give Him all the glory.
 
 Our Father's statue is now on the walls of St. Peter's. Very interesting little detail. And yet our Father was all the time during his life emphasizing humility, and growing in that virtue, realizing he was nothing.
 
-And now he's carved in stone, on the walls of St. Peter's. It's the way to go.
+And now he's carved in stone, on the walls of St. Peter's. It's the way to go (Romana Bulletin, *A Statue of St. Josemaría at St. Peter's Basilica*).
 
 "He who exalts himself shall be humbled, and he who humbles himself shall be exalted" (Matt. 23:12).
 
@@ -291,13 +289,13 @@ In the course of our life, Our Lord will lead us into a deeper understanding of 
 
 Humility means we learn to accept the will of God as it comes, that there's something good behind this thing. God's providence is working itself out.
 
-We can be cheerful, happy, peaceful, and serene because we know that God is fulfilling things. This is His will.
+We can be cheerful, happy, peaceful, serene because we know that God is fulfilling things. This is His will.
 
 Sometimes we have to be humble enough to accept the will of God when it costs, when there's a cross, maybe humbly accepting the indications that may be given to us.
 
 We thought perhaps that I did a good job on this occasion, but maybe our supervisors come along and say, 'No, this could have been much better if you do it this way' or 'Please do it again.'
 
-Sometimes things don't work out the first time, and they don't work out the second time, Often, they work out the third time. Sometimes we have to be ready to do the job again, to do a better job, to improve what we've done, to have the humility to try again, because often things turn out much better the second or third time.
+Sometimes things don't work out the first time, and they don't work out the second time. Often, they work out the third time. Sometimes we have to be ready to do the job again, to do a better job, to improve what we've done, to have the humility to try again, because often things turn out much better the second or third time.
 
 We can ask Our Lady, that she might help us to grow in this virtue. She who listens very carefully to the voice of the Holy Spirit: go here, go there, go to Bethlehem, go to Egypt, stay there, come back.
 
