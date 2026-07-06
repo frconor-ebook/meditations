@@ -205,10 +205,10 @@ title: "{title}"
                     ]
                 )
 
-            # Get full content
-            full_content = "".join(
-                [line.rstrip("\r\n") for line in content_lines]
-            ).strip()
+            # Get full content (join lines with spaces, collapse whitespace)
+            full_content = " ".join(
+                "\n".join(line.rstrip("\r\n") for line in content_lines).split()
+            )
 
             # Create excerpt (first 200 words of content)
             words = full_content.split()

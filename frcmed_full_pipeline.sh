@@ -626,9 +626,10 @@ deploy_to_github() {
         return 1
     fi
 
-    # Add all files to git
+    # Add only pipeline-generated content to git (never 'git add .' —
+    # avoids sweeping in stray files like credentials or local edits)
     log "INFO" "Adding files to git..."
-    git add . || error_message "Git add failed."
+    git add _posts data docs || error_message "Git add failed."
 
     # Commit changes
     # Use custom message if provided, otherwise use default
@@ -650,9 +651,10 @@ deploy_to_github() {
         fi
     }
 
-    # Force push to GitHub (safe for auto-generated content where local is always the source of truth)
+    # Force-with-lease: overwrites remote only if it hasn't moved since our
+    # last fetch, so a commit pushed from elsewhere is never silently lost
     log "INFO" "Pushing to GitHub..."
-    git push --force origin main || error_message "Git push failed."
+    git push --force-with-lease origin main || error_message "Git push failed."
 
     log "SUCCESS" "Site has been deployed to GitHub Pages."
 }

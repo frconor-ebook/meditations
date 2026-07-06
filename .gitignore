@@ -18,3 +18,6 @@ conversion_logs/
 # File manifest for incremental processing
 .file_manifest.json
 __pycache__/
+# Full-content index is a local artifact only (12 MB, not used by the site)
+data/meditations.json
+docs/data/meditations.json
