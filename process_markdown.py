@@ -67,6 +67,41 @@ def remove_duplicate_title_lines(lines, title):
     return filtered_lines
 
 
+def make_excerpt(content_lines, max_words=400):
+    """
+    Build the search/display excerpt for a meditation.
+
+    Skips the standard opening boilerplate every meditation shares (byline,
+    proofread marker, italic opening prayers) so excerpts start at the real
+    content, strips emphasis markers for clean snippets, and truncates.
+    """
+    def is_boilerplate(paragraph):
+        if paragraph.lower().startswith("by fr"):
+            return True
+        if paragraph.strip("*() ").lower() == "proofread":
+            return True
+        # Fully-italicized paragraph at the head = opening prayer
+        if paragraph.startswith("*") and paragraph.endswith("*"):
+            return True
+        return False
+
+    paragraphs = [line.strip() for line in content_lines if line.strip()]
+    body = []
+    skipping = True
+    for paragraph in paragraphs:
+        if skipping and is_boilerplate(paragraph):
+            continue
+        skipping = False
+        body.append(paragraph)
+
+    text = re.sub(r"[*_]+", "", " ".join(body))
+    words = text.split()
+    excerpt = " ".join(words[:max_words])
+    if len(words) > max_words:
+        excerpt += "..."
+    return excerpt
+
+
 def remove_proofread_markers(lines):
     """
     Kept for compatibility - now returns lines unchanged.
@@ -142,8 +177,8 @@ def convert_markdown_to_posts(source_dir, posts_dir, data_dir, force=False):
     meditations = []
     processed_slugs = set()
 
-    # Process changed/new files
-    for filename in files_to_process:
+    # Process changed/new files (sorted so duplicate-slug handling is deterministic)
+    for filename in sorted(files_to_process):
         if filename.endswith(".md"):
             filepath = os.path.join(source_dir, filename)
             print(f"Processing: {filename}")
@@ -210,12 +245,14 @@ title: "{title}"
                 "\n".join(line.rstrip("\r\n") for line in content_lines).split()
             )
 
-            # Create excerpt (first 200 words of content)
-            words = full_content.split()
-            if len(words) > 200:
-                excerpt = " ".join(words[:200]) + "..."
-            else:
-                excerpt = full_content
+            excerpt = make_excerpt(content_lines)
+
+            if slug in processed_slugs:
+                # Two source files produce the same slug (e.g. a stray copy in
+                # Dropbox). The post file was just overwritten above, so keep
+                # this entry and drop the earlier one to match.
+                print(f"WARNING: duplicate slug '{slug}' from {filename}; keeping this version.")
+                meditations = [m for m in meditations if m["slug"] != slug]
 
             meditations.append(
                 {
@@ -274,7 +311,8 @@ title: "{title}"
     search_index_path = os.path.join(data_dir, "search_index.json")
     try:
         with open(search_index_path, "w") as f:
-            json.dump(search_index, f, indent=2)
+            # Minified: this file is shipped to every visitor who searches
+            json.dump(search_index, f, separators=(",", ":"))
             print(f"Successfully created: {search_index_path}")
 
             # Report file sizes for comparison
