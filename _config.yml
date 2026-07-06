@@ -30,6 +30,7 @@ include:
 
 exclude:
   - "data/meditations.json"
+  - "tests"
   - "Gemfile"
   - "Gemfile.lock"
   - "vendor"

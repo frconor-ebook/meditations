@@ -48,6 +48,11 @@ jobs:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
+      - name: Run processor tests
+        run: |
+          pip install --quiet pytest pyyaml
+          python3 -m pytest tests/ -q
+
       - name: Build site
         run: bundle exec jekyll build
         env:
