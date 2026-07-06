@@ -138,6 +138,14 @@ on a good build and aborts on a sabotaged one.
 
 ### Done along the way (not in the original 10)
 
+- **True full-text search via Pagefind** (`aa0e0ad7`) — supersedes the MiniSearch half of
+  #5: search now covers the entire text of every meditation (the MiniSearch index stopped
+  at 400 words). Pagefind indexes the built HTML in CI, scoped to meditation articles via
+  `data-pagefind-body`; multi-word queries rank exact-phrase matches first. Lighter too:
+  small on-demand chunks instead of a 460 KB index download. Trade-off accepted: no fuzzy
+  typo matching (the no-results message hints to check spelling). Verified in headless
+  Chromium against production: a phrase from word 700 of a meditation is the top result.
+
 - **Favicon set** (`73a6e10a`) — `favicon.ico` + PNGs + apple-touch-icon derived from
   `logo-circ.png`, linked from `default.html`.
 - **Search deploy fix** (`fc506457`) — a bare `vendor/` gitignore pattern silently dropped
