@@ -605,10 +605,12 @@ deploy_to_github() {
         return 1
     fi
 
-    # Add only pipeline-generated content to git (never 'git add .' —
-    # avoids sweeping in stray files like credentials or local edits)
+    # Add only source content to git (never 'git add .' — avoids sweeping in
+    # stray files like credentials or local edits). The built site (docs/) is
+    # gitignored: pushing sources triggers the GitHub Actions workflow, which
+    # builds and deploys the site atomically.
     log "INFO" "Adding files to git..."
-    git add _meditations data docs || error_message "Git add failed."
+    git add _meditations data || error_message "Git add failed."
 
     # Commit changes
     # Use custom message if provided, otherwise use default

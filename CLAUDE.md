@@ -47,8 +47,9 @@ The pipeline transforms source DocX files into a Jekyll website:
    - Converts Markdown files to Jekyll collection documents in `_meditations/` (full rebuild each run; filenames are slugs, so output is deterministic)
    - Generates `data/meditations.json` (full index, local artifact, gitignored) and `data/search_index.json` (lightweight search index shipped to the site)
    - Extracts title from first heading, creates URL slugs
-5. **Build**: Jekyll builds to `docs/` directory
-6. **Deploy**: Git commit and push to GitHub
+5. **Build**: Jekyll builds to `docs/` locally (validation/preview only — `docs/` is gitignored)
+6. **Validate**: sanity gate (meditation count, search index, page count) — fails before anything is pushed
+7. **Deploy**: commits sources (`_meditations/`, `data/`) and pushes; the `.github/workflows/deploy.yml` GitHub Actions workflow then builds and deploys the site atomically via `actions/deploy-pages`
 
 ### Directory Structure
 
@@ -56,7 +57,7 @@ The pipeline transforms source DocX files into a Jekyll website:
 - `_layouts/`: Jekyll layouts (`homily.html` for meditation posts, extends `default.html`)
 - `_includes/`: Shared components (header, footer, search, share-links)
 - `data/`: JSON index files for search functionality
-- `docs/`: Jekyll build output (GitHub Pages serves from here)
+- `docs/`: Jekyll build output (gitignored; GitHub Pages deploys from the Actions workflow, not from this directory)
 - `preprocessing_scripts/`: Python/shell scripts for content processing
 - `assets/`: CSS and JavaScript files
 
