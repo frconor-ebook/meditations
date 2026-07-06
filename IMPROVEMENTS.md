@@ -4,8 +4,8 @@ Findings from a code review of `frcmed_full_pipeline.sh`, `process_markdown.py`,
 `download_from_dropbox.py`, the Jekyll layouts/JS, and the git history.
 Originally reviewed 2026-07-06; **status updated 2026-07-06** after implementation.
 
-**Progress: 9 of 10 done.** Only #9 (browsing UX) remains, plus two operator
-tasks noted at the bottom.
+**Progress: 10 of 10 done.** All items implemented; one operator task remains
+(Dropbox duplicate cleanup, noted at the bottom).
 
 | # | Item | Status |
 |---|------|--------|
@@ -17,7 +17,7 @@ tasks noted at the bottom.
 | 6 | GitHub Actions deploy, stop committing `docs/` | ✅ Done |
 | 7 | Safer deploy (`git add` paths, `--force-with-lease`) | ✅ Done |
 | 8 | SEO: seo-tag, sitemap, descriptions | ✅ Done |
-| 9 | Corpus organization: tags, A–Z nav, related | ⬜ **Remaining** |
+| 9 | Corpus organization: tags, A–Z nav, related | ✅ Done |
 | 10 | Fail loudly: exit codes, validation gate | ✅ Done |
 
 ---
@@ -107,18 +107,19 @@ cleaned excerpt) and the badge icon as `og:image`, so shared links show real pre
 can't break the YAML. Site verified in Google Search Console and sitemap submitted
 (verification file `googleabc8ea00a67800ef.html` must stay in the repo).
 
-## ⬜ 9. Organize the corpus: tags, A–Z jump nav, per-meditation navigation — **REMAINING**
+## ✅ 9. Organize the corpus: tags, A–Z jump nav, per-meditation navigation
 
-The homepage is still a single alphabetical list of 560 titles, and a meditation page is a
-dead end (`_layouts/homily.html` is just title + content — no prev/next, no related items,
-no reading time). The content has obvious natural facets: liturgical season, feast days,
-saints, virtues, parables.
+**Was:** the homepage was a single alphabetical list of 560 titles, and a meditation page
+was a dead end — no prev/next, no related items, no reading time.
 
-**Plan:** add a `tags:` field during processing (a keyword→tag mapping on titles gets most
-of the way), render tag pages, add an A–Z jump bar on the index, and give `homily.html`
-prev/next links, estimated reading time, and 3–5 shared-tag "related meditations." Turns a
-lookup table into something browsable. This is the last item and the biggest remaining
-user-facing win.
+**Done** (`41ce46da`): curated title-pattern rules in `process_markdown.py` assign ~20
+topics (Our Lady, saints & feast days, liturgical seasons, parables, gospel scenes,
+virtues, Opus Dei, ...) — 460 of 560 meditations tagged. A generated `/topics/` page
+(from `_data/topics.json`) lists every topic with a jump nav; the homepage gained an A–Z
+jump bar with letter-grouped headings; each meditation page now shows reading time, topic
+chips, three related meditations (scored by shared-tag rarity plus shared title words),
+and prev/next links that follow the homepage order. Everything is computed in the
+processor at build time — no Liquid lookups across the collection.
 
 ## ✅ 10. Fail loudly: exit codes, validation gate
 
