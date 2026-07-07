@@ -11,14 +11,6 @@ next_title: "Personal Prayer"
 related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
 ---
 
-By Fr. Conor Donnelly
-
-(*Proofread*)
-
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
-
-*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
-
 I read a book once about the Battle of Monte Cassino. Monte Cassino is a monastery just south of Rome, where St. Benedict is buried together with his sister, St. Scholastica.
 
 The German army occupied that abbey on a hill outside of Rome, a prominent hill overlooking the approach road to Rome from the south.
@@ -37,7 +29,7 @@ He discovered these two and he ordered them back to the front lines. These tired
 
 Eventually, the Germans were pushed back off that promontory. They withdrew to the north of Italy. Rome was spared. It was one of the most decisive battles of the Second World War.
 
-It was won with tired soldiers. St. Josemaría often liked to say that battles are won with tired soldiers.
+It was won with tired soldiers. St. Josemaría often liked to say that battles are won with tired soldiers (*cf*. Josemaría Escrivá, *Furrow*, Point 151).
 
 We find a lot of emphasis in Scripture on the virtue of perseverance.
 
@@ -67,7 +59,7 @@ Our Christian vocation in the middle of the world demands that same spirit in ou
 
 We keep on looking forward towards the goal, not slackening in doing good.
 
-"And then speaking to all, he said, 'If anyone wants to be a follower of mine, let him renounce himself and take up his cross every day and follow me'" (Luke 9:23).
+"And then speaking to all, he said, 'If anyone wants to be a follower of mine, let him renounce himself and take up his cross every day and follow me'" (*cf*. Luke 9:23).
 
 Our Lord doesn't tell us to take up our cross once or twice in our life, but every day, all the time, not holding back, keeping going, no matter what the situation may be.
 
@@ -77,7 +69,7 @@ We can ask Our Lord for that grace to hang in there, to begin again in living th
 
 "But you belong to Christ," says St. Paul to the Corinthians, "and Christ belongs to God" (1 Cor. 3:23).
 
-St. Josemaría liked to say, "To begin is easy, to persevere is sanctity" (Josemaría Escrivá, *The Way*, Point 983).
+St. Josemaría liked to say, "To begin is easy, to persevere is sanctity" (J. Escrivá, *The Way*, Point 983).
 
 It's a grace, a gift from God. We pray for it. Perseverance is the fruit of faith, of hope, and of charity. That perseverance in the tasks that God's given us to do makes many things possible.
 
@@ -85,7 +77,7 @@ God wants to convert society---to produce a civilization of love, a culture of l
 
 St. Josemaría liked to refer to our vocation as a "commitment of love" (J. Escrivá, *Christ Is* *Passing By*, Point 74).
 
-He loved that word: commitment. 'Show me a person who is committed, and I will tell you what sort of person they are. Show me what they are committed and how they are committed, and even more, I will tell you what sort of person they are.'
+He loved that word: commitment. 'Show me a person who is committed, and I will tell you what sort of person they are. Show me to what they are committed and how they are committed, and even more, I will tell you what sort of person they are.'
 
 We're called to lead lives of commitment, to show other people by our example what commitment means.
 
@@ -99,11 +91,9 @@ She was concerned, and so she got up early. Her love moved her to action, moved 
 
 She moved through the village early in the morning, not worried about what people were going to think or what people were going to say if perhaps they were glaring out from behind their curtains. Her mind was on Christ.
 
-She needed to be with Him. Then she came.
+She needed to be with Him. "Then she came...and she saw that the stone was moved away from the tomb, and she came running to Simon Peter, the other disciple. ... They went to the tomb, and they ran together. But running faster than Peter, the other disciple reached the tomb first. He bent down and saw the linen cloths lying on the ground, but did not go in.
 
-"She saw that the stone was moved away from the tomb, and she came running to Simon Peter, the other disciple. They went to the tomb, and they ran together. But running faster than Peter, the other disciple reached the tomb first. He bent down and saw the linen cloths lying on the ground, but did not go in.
-
-"Simon Peter, following him, also came up, went into the tomb, and saw the linen cloths lying on the ground. And then they went in and believed" (John 20:1-8).
+"Simon Peter, following him, also came up, went into the tomb, and saw the linen cloths lying on the ground. And then they went in and believed" (*cf*. John 20:1-8).
 
 "The disciples went back home. But Mary was standing outside near the tomb, weeping" (John 20:11).
 
@@ -139,11 +129,11 @@ We find great joy in our vocation. Sometimes the star may disappear for a while,
 
 We trust in God. We won't be disappointed. We know that He has a gold medal prepared for us that does not corrode---a gold medal that will last forever.
 
-There is merit in the struggle that we make to win that medal. If God allows struggle, cross, contradictions, and doubts, it's because He wants us to get that merit.
+There is merit in the struggle that we make to win that medal. If God allows struggle, cross, contradictions, doubts, it's because He wants us to get that merit.
 
 He always remains faithful to us. We might not remain faithful, but He remains faithful to us.
 
-We have to try and make sure that our vocation is founded on rock, that "the winds may blow and the rains may come," but because our vocation is founded on rock, it does not sink. The rock is not just of doctrine, but of family life, of apostolate, of Our Lady.
+We have to try and make sure that our vocation is founded on rock, that "the winds may blow and the rains may come" (Matt. 7:25) but because our vocation is founded on rock, it does not sink. The rock is not just of doctrine, but of family life, of apostolate, of Our Lady.
 
 Our Lord also wants our free response. St. Josemaría loved freedom (Pilar Urbano, *The Man of Villa Tevere*, Chapter 5; J. Escrivá, *Christ Is Passing By*, Chapter 2, Freedom: a gift from God, etc.).
 
@@ -151,7 +141,7 @@ While God wants us and calls us, He also leaves a certain initiative up to us. W
 
 St. Thomas Aquinas was asked what was one of the most important aspects of achieving sanctity, and he said: To want it, to really want it.
 
-As our Father says in *The Way*, we have to ask Our Lord that we might "want it like a miser wants his gold...like a sensualist wants his pleasure," that we might want that holiness more than anything else in the world (J. Escrivá, *The Way*, Point 316).
+As our Father says in *The Way*, we have to ask Our Lord that we might "want it like a miser wants his gold...like a...sensualist wants his pleasure," that we might want that holiness more than anything else in the world (J. Escrivá, *The Way*, Point 316).
 
 We know that the achievement of that goal may cost us some sacrifice, effort. Often perseverance needs sacrifice.
 
@@ -159,13 +149,13 @@ In the 1980s, I was going out to say Mass one Sunday morning in Manila, and I di
 
 I got blocked. I had to wait there for ten minutes. I was late for the Mass, but I got a bird's eye view of all these runners in the marathon.
 
-I found you could roughly divide them into three different groups: those that were running very well, those that were not running so well, and those that had looks of agony on their faces, and looked like they should have stopped running in marathons about twenty years previous!
+I found you could roughly divide them into three different groups: those that were running very well, those that were not running so well, and those that had looks of agony on their faces and looked like they should have stopped running in marathons about twenty years previous!
 
 Those that were not looking so well---they had a pain in their side. Maybe they had entered the race as a bit of a joke, done no training. They didn't last very long. They had to drop out.
 
 Those that had done some training---they were able to keep going, but they had looks of agony on their faces. But somehow, they managed to struggle on.
 
-Then there were the champions, those who had really prepared for the race. They had gone over the course before. They knew where to turn left, and where to turn right. They knew where the hills were.
+Then there were the champions, those who had really prepared for the race. They had gone over the course before. They knew where to turn left and where to turn right. They knew where the hills were.
 
 They knew for what they had to reserve their wind and their energy. They were running in the middle of the road very smoothly. These were the ones that were going to coast home and win the race.
 
@@ -189,7 +179,7 @@ Many of the great saints in the history of the Church talk about the dark night 
 
 There might be very few compensations, but yet we try to persevere and be faithful to the calling.
 
-Mother Teresa was asked once if she really thought she would be successful in combating poverty in India. She responded, "Oh, I'm not called to be successful. I'm just called to be faithful."
+Mother Teresa was asked once if she really thought she would be successful in combating poverty in India. She responded, "Oh, I'm not called to be successful. I'm just called to be faithful" (Art Beals with Larry Libby, *Beyond Hunger: Biblical Mandate for Social Responsibility--Foreword* by Mark O. Hatfield).
 
 There's a lot of wisdom in that. We're not necessarily called to be successful in all our endeavors, in all our apostolic efforts, in all the seeds that we sow---but we are called to be faithful, to sow the seeds, to launch out into the deep, to do the things that God has asked us to do, in season and out of season, to carry the cross.
 
@@ -229,13 +219,13 @@ The Catholic history of England is very impressive and inspiring: tremendous per
 
 The Jesuits couldn't start the school they wanted to in England. Catholic education was forbidden. They had to start this school in France, and it moved from France to Belgium and various places for 150 years.
 
-Then the laws in England lessened a little bit and they were able to get back to England. They inherited some big estate, and they moved back near Liverpool. This school had been there for 500 years. This couple brought back a little booklet about the history of the school.
+Then the laws in England lessened a little bit and they were able to get back to England. They inherited some big estate, and they moved back near Liverpool. This school had been there for 500 years.
 
-It was twenty pages, a very small little booklet really, summarizing the 500 years of one of the oldest schools in Europe.
+This couple brought back a little booklet about the history of the school. It was twenty pages, a very small little booklet really, summarizing the 500 years of one of the oldest schools in Europe.
 
 On the back page, there was a list of their most illustrious alumni. The first fifteen were saints and the first twelve were martyrs.
 
-Over that 500-year period, that school had provided many Cardinal Archbishops of Westminster and had educated the children of the major Catholic families of the United Kingdom.
+Over that 500-year period, that school had provided many Cardinal Archbishops of Westminster \[Cathedral\] and had educated the children of the major Catholic families of the United Kingdom.
 
 They had given a tremendous service over 500 years, but hidden in that story, in the bricks of that school---hidden in those 20 pages were the lives of many faithful and persevering individuals who helped that school to be what it was and what it lived to be through 500 years of difficult times, and persecutions, and uphill struggles---and produced a great fruitfulness.
 
@@ -324,9 +314,5 @@ To persevere is to persist in love through Him, with Him, in Him. Indeed, we can
 Our Lady at the foot of the Cross gives us a great example of perseverance, though a sword was piercing her heart (*cf*. Luke 2:35).
 
 She said then, as she said at the moment of the Annunciation, "Behold, the handmaid of the Lord. Be it done unto me according to your word" (*cf*. Luke 1:38).
-
-*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
-
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *SMF*

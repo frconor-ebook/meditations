@@ -47,7 +47,7 @@ I don't know how my part is going to influence other people, or maybe some great
 
 This is what the Catholic Church is for.
 
-There was an article in the newspaper yesterday that a religious order in New York was closing down an order of nuns.
+There was an article in the newspaper yesterday that a religious order in New York was closing down an order of nuns (May 2023).
 
 They felt after one hundred fifty years they had fulfilled their role. It was founded by St. Elizabeth Ann Seton, one of the first great saints of the United States of America. Now the nuns were few and they were elderly; they felt that it was time to call it a day.
 
@@ -97,7 +97,7 @@ In the Gospel of St. John, we find a whole list of things and benefits that come
 
 He walks in the light (1 John 15:7). He has eternal life (John 5:24). He is never thirsty (John 4:14). Even if he dies, he will live (John 11:25). He will see the glory of God (John 11:40).
 
-He is already resurrected. He will do works like Christ did, and even still greater ones (cf. John 14:12), and is victorious over the world; this is the great victory, our faith (cf. 1 John 5:4).
+He is already resurrected. He will do works like Christ did, and even still greater ones (*cf*. John 14:12), and is victorious over the world; this is the great victory, our faith (*cf*. 1 John 5:4).
 
 At the end of the Gospel of John, he says, "Now Jesus did many other signs in the presence of his disciples, which are not written in this book, but these are written so that you may come to believe that Jesus is the Messiah, the Son of God, and that through believing, you may have life in his name" (John 20:30-31).
 
@@ -113,7 +113,7 @@ It is an act of obedience, because to believe is to accept the truth that surpas
 
 It means submitting my intelligence to the light of God, letting myself be led by Him. It means making Him the Lord of my life.
 
-In the Letter to the Hebrews, it is said about Abraham, "By faith, Abraham obeyed when he was called to set out for a place that he was to receive as an inheritance. He set out not knowing where he was going" (Heb. 11:8).
+In the *Letter to the Hebrews*, it is said about Abraham, "By faith, Abraham obeyed when he was called to set out for a place that he was to receive as an inheritance. He set out not knowing where he was going" (Heb. 11:8).
 
 Faith can be a beautiful adventure. We don't always know where it will lead us.
 
@@ -133,7 +133,7 @@ This faith can be expressed differently during different times by different cult
 
 St. Paul says to the Ephesians, "Just as you were called to the one hope of your calling: one Lord, one faith, one baptism; one God and Father of all, who is above all, and through all, and in all" (Eph. 4:4-6).
 
-So, growing in faith, getting to the fullness of faith little by little, according to the expression in the Letter to the Hebrews, is then a double movement.
+So, growing in faith, getting to the fullness of faith little by little, according to the expression in the *Letter to the Hebrews*, is then a double movement.
 
 One part is an act of belonging to God that's more or less personal, free, deep, and living; and the other part, a better understanding of the content and richness of our faith.
 
@@ -215,7 +215,7 @@ St. John of the Cross speaks of "the faith with which we love God without unders
 
 Pope Benedict has said, "Faith without charity bears no fruit, while charity without faith would be a sentiment constantly at the mercy of doubt. Faith and charity each require the other in such a way that each allows the other to set out along its respective path" (Benedict XVI, Apostolic Letter, *Porta fidei*, Point 14, October 11, 2011).
 
-John Paul II liked to call Our Lady the Woman of Faith and liked to say that she was a woman of faith that is put into practice (John Paul II, *Prayer to Our Lady of Lourdes*, August 15, 2004).
+John Paul II liked to call Our Lady the Woman of Faith and liked to say that she was a woman of faith that is put into practice (John Paul II, *Homily*, October 6, 1979; *Prayer to Our Lady of Lourdes*, August 15, 2004).
 
 We could ask Our Lady that we might, like the hummingbird, have a greater and more effective faith, so that we can stir many people around us to be aware of the great things we have received, to do our part to spread faith in this world and to future generations.
 
