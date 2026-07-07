@@ -11,6 +11,14 @@ next_title: "Personal Prayer"
 related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
 ---
 
+By Fr. Conor Donnelly
+
+(*Proofread*)
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
 I read a book once about the Battle of Monte Cassino. Monte Cassino is a monastery just south of Rome, where St. Benedict is buried together with his sister, St. Scholastica.
 
 The German army occupied that abbey on a hill outside of Rome, a prominent hill overlooking the approach road to Rome from the south.
@@ -314,5 +322,9 @@ To persevere is to persist in love through Him, with Him, in Him. Indeed, we can
 Our Lady at the foot of the Cross gives us a great example of perseverance, though a sword was piercing her heart (*cf*. Luke 2:35).
 
 She said then, as she said at the moment of the Annunciation, "Behold, the handmaid of the Lord. Be it done unto me according to your word" (*cf*. Luke 1:38).
+
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *SMF*
