@@ -1329,3 +1329,91 @@ footer p {
     margin-left: 0;
   }
 }
+
+/* ===================================
+   Connect Page (Cards & Embed)
+   =================================== */
+.connect-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 16px;
+  margin: 24px 0 32px;
+}
+
+.connect-card {
+  background: var(--bg-cream);
+  border: 1px solid rgba(125, 125, 125, 0.18);
+  border-radius: 8px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: var(--shadow-sm);
+}
+
+.connect-card h2 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 1.15rem;
+  margin: 0 0 10px;
+}
+
+.connect-card h2 svg {
+  color: var(--primary-accent);
+  flex-shrink: 0;
+}
+
+.connect-card p {
+  flex: 1;
+  margin: 0 0 16px;
+}
+
+.connect-btn-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+article a.connect-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  align-self: flex-start;
+  background: var(--primary-dark);
+  color: var(--text-light);
+  font-family: 'Lato', Arial, sans-serif;
+  font-size: 0.95rem;
+  font-weight: 700;
+  padding: 9px 16px;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.connect-btn-group a.connect-btn {
+  align-self: auto;
+}
+
+article a.connect-btn:hover {
+  background: var(--primary-accent);
+  color: var(--primary-dark);
+}
+
+/* No animated underline on card buttons */
+article a.connect-btn::after {
+  display: none;
+}
+
+.connect-embed iframe {
+  display: block;
+  width: 100%;
+  border: 0;
+  border-radius: 12px;
+}
+
+@media screen and (max-width: 480px) {
+  article a.connect-btn {
+    align-self: stretch;
+    justify-content: center;
+  }
+}
