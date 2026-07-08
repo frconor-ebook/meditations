@@ -1,8 +1,31 @@
-<div class="search-container">
-    <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <circle cx="11" cy="11" r="8"></circle>
-        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-    </svg>
-    <input type="text" id="search-box" placeholder="Search meditations...">
+<div class="search-row">
+    <div class="search-container">
+        <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input type="text" id="search-box" placeholder="Search meditations...">
+    </div>
+    <button id="random-meditation" class="random-btn" type="button" title="Open a random meditation">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <polyline points="16 3 21 3 21 8"></polyline>
+            <line x1="4" y1="20" x2="21" y2="3"></line>
+            <polyline points="21 16 21 21 16 21"></polyline>
+            <line x1="15" y1="15" x2="21" y2="21"></line>
+            <line x1="4" y1="4" x2="9" y2="9"></line>
+        </svg>
+        Random
+    </button>
 </div>
 <div id="search-results"></div>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var btn = document.getElementById('random-meditation');
+    if (!btn) return;
+    btn.addEventListener('click', function() {
+        var links = document.querySelectorAll('.meditation-list a');
+        if (!links.length) return;
+        window.location.href = links[Math.floor(Math.random() * links.length)].href;
+    });
+});
+</script>

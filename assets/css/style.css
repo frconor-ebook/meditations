@@ -1503,3 +1503,33 @@ article a.connect-btn::after {
   max-width: 680px;
   margin: 4px 0 14px;
 }
+
+/* Random meditation button (homepage, next to search) */
+.search-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.random-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--primary-dark);
+  color: var(--text-light);
+  border: none;
+  border-radius: 4px;
+  padding: 9px 16px;
+  margin: 10px 0;
+  font-family: 'Lato', Arial, sans-serif;
+  font-size: 0.95rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.random-btn:hover {
+  background: var(--primary-accent);
+  color: var(--primary-dark);
+}
