@@ -19,6 +19,14 @@ Through the WhatsApp Channel, you'll also receive:
 - Daily quotes for inspiration
 - Thematic visuals to deepen your reflection
 
+## 🎧 Audio Meditations
+
+Listen to the meditations on your favorite podcast platform:
+
+[Listen on Spotify →](https://open.spotify.com/show/0cMxJXlWg6QJD7t8LAYM7v)
+
+[Listen on Apple Podcasts →](https://podcasts.apple.com/us/podcast/fr-conor-donnelly-meditations/id1643273205)
+
 ## 📖 eBook
 
 [Download the eBook →](https://tinyurl.com/frcmed-ebook-v1-1)
