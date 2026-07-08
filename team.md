@@ -139,8 +139,8 @@ The Fr. Conor Donnelly Meditations project is made possible by the dedicated eff
 
 <p class="team-note"><em>Listed alphabetically by first name.</em></p>
 
-## Join the Team
+## Spotted a Typo?
 
-Spotted a typo in a meditation, or would you like to help proofread new transcripts? We would love to hear from you.
+Despite our team's best efforts, the occasional error can slip through. If you spot a typo or mistake in any meditation, we would be grateful to hear about it.
 
-<a class="connect-btn" href="mailto:frconor.ebook@gmail.com?subject=Proofreading%20Team">Volunteer with us</a>
+<a class="connect-btn" href="mailto:frconor.ebook@gmail.com?subject=Typo%20Report">Report a typo</a>
