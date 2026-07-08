@@ -1156,6 +1156,8 @@ footer p {
 .az-nav a {
   background: var(--bg-white);
   box-shadow: var(--shadow-sm);
+  /* Override the header's `nav a` color, which is white in light mode */
+  color: var(--link-color);
 }
 
 .az-nav a:hover {
@@ -1197,6 +1199,8 @@ footer p {
   box-shadow: var(--shadow-sm);
   font-family: 'Lato', sans-serif;
   font-size: 0.9rem;
+  /* Override the header's `nav a` color, which is white in light mode */
+  color: var(--link-color);
 }
 
 .topics-nav a:hover {
