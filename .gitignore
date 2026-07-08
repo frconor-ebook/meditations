@@ -21,6 +21,11 @@ __pycache__/
 # Full-content index is a local artifact only (12 MB, not used by the site)
 data/meditations.json
 docs/data/meditations.json
+# Legacy MiniSearch index (replaced by Pagefind; local artifact only)
+data/search_index.json
+
+# Python virtualenv — local tooling, never commit
+.venv/
 
 # Build output — built and deployed by GitHub Actions, kept locally for preview/validation only
 /docs/
