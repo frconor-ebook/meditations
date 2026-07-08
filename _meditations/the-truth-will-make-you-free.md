@@ -7,7 +7,7 @@ prev_slug: the-transfiguration
 prev_title: "The Transfiguration"
 next_slug: the-unmerciful-servant
 next_title: "The Unmerciful Servant"
-related: [{"slug": "afterwards-you-will-understand", "title": "Afterwards You Will Understand"}, {"slug": "by-their-fruits-you-will-know-them", "title": "By Their Fruits, You Will Know Them"}, {"slug": "much-will-be-demanded-responsibility", "title": "Much Will Be Demanded: Responsibility"}]
+related: [{"slug": "afterwards-you-will-understand", "title": "Afterwards You Will Understand"}, {"slug": "behold-i-make-all-things-new", "title": "Behold I Make All Things New"}, {"slug": "by-their-fruits-you-will-know-them", "title": "By Their Fruits, You Will Know Them"}]
 ---
 
 By Fr. Conor Donnelly

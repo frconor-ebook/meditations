@@ -6,8 +6,8 @@ reading_time: 19
 tags: ["Prayer & Interior Life"]
 prev_slug: thanksgiving-after-mass
 prev_title: "Thanksgiving After Mass"
-next_slug: the-adoration-of-the-kings
-next_title: "The Adoration of the Kings"
+next_slug: that-they-may-have-life
+next_title: "That They May Have Life"
 related: [{"slug": "thanksgiving", "title": "Thanksgiving"}, {"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}, {"slug": "abandonment", "title": "Abandonment"}]
 ---
 

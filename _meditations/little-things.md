@@ -8,7 +8,7 @@ prev_slug: little-duties
 prev_title: "Little Duties"
 next_slug: looking-up-to-heaven
 next_title: "Looking Up to Heaven"
-related: [{"slug": "little-duties", "title": "Little Duties"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "making-up-for-lost-time", "title": "Making Up for Lost Time"}]
+related: [{"slug": "little-duties", "title": "Little Duties"}, {"slug": "behold-i-make-all-things-new", "title": "Behold I Make All Things New"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}]
 ---
 
 By Fr. Conor Donnelly

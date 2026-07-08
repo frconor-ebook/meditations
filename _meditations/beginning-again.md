@@ -5,8 +5,8 @@ description: "\"Now when it was late that same day, the first of the week, and t
 reading_time: 17
 prev_slug: begin-again-fight-the-fight
 prev_title: "Begin Again, Fight the Fight"
-next_slug: blessed-are-the-merciful
-next_title: "Blessed Are The Merciful"
+next_slug: behold-i-make-all-things-new
+next_title: "Behold I Make All Things New"
 related: [{"slug": "begin-again-fight-the-fight", "title": "Begin Again, Fight the Fight"}]
 ---
 
