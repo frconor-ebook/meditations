@@ -1491,3 +1491,11 @@ article a.connect-btn::after {
   color: var(--text-muted);
   font-size: 0.9rem;
 }
+
+/* Homepage hero tagline */
+.hero-tagline {
+  font-size: 1.05rem;
+  color: var(--text-muted);
+  max-width: 680px;
+  margin: 4px 0 14px;
+}
