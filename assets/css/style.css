@@ -1417,3 +1417,10 @@ article a.connect-btn::after {
     justify-content: center;
   }
 }
+
+.connect-embed-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 16px;
+  margin-bottom: 32px;
+}

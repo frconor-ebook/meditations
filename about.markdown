@@ -49,8 +49,13 @@ Receive Fr. Conor Donnelly's daily meditations wherever you are — on your phon
 
 ## Listen Now
 
-<div class="connect-embed">
-  <iframe src="https://open.spotify.com/embed/show/0cMxJXlWg6QJD7t8LAYM7v?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" title="Fr. Conor Donnelly Meditations on Spotify"></iframe>
+<div class="connect-embed-grid">
+  <div class="connect-embed">
+    <iframe src="https://open.spotify.com/embed/show/0cMxJXlWg6QJD7t8LAYM7v?utm_source=generator" width="100%" height="450" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" title="Fr. Conor Donnelly Meditations on Spotify"></iframe>
+  </div>
+  <div class="connect-embed">
+    <iframe src="https://embed.podcasts.apple.com/us/podcast/fr-conor-donnelly-meditations/id1643273205" width="100%" height="450" frameborder="0" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-agent" loading="lazy" title="Fr. Conor Donnelly Meditations on Apple Podcasts"></iframe>
+  </div>
 </div>
 
 ## About Fr. Conor Donnelly
