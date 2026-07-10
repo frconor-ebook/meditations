@@ -1,8 +1,8 @@
 ---
 layout: homily
-title: "Our Lady of Mt. Carmel"
+title: "Our Lady of Mt. Carmel (July 16th)"
 description: "Today we celebrate the Feast of Our Lady of Mount Carmel. It's also the birthday and the feast day of Aunt Carmen, the sister of St. Josemar\u00eda, to whom we..."
-reading_time: 17
+reading_time: 18
 tags: ["Our Lady"]
 prev_slug: our-lady-of-lourdes
 prev_title: "Our Lady of Lourdes"
@@ -33,13 +33,13 @@ In 1950, Pope Pius XII said this devotion "has brought down a copious stream of 
 
 For centuries, Christians have sought refuge in this special protection of Our Lady.
 
-We're told in *The Way*: \"Wear on your breast the holy scapular of Mount Carmel. There are many excellent Marian devotions, but few are so deep-rooted among the faithful and so richly blessed by the popes. Besides, how motherly this sabbatine privilege is!" (Josemaría Escrivá, *The Way*, Point 500).
+We're told in *The Way*: "Wear on your breast the holy scapular of Mount Carmel. There are many excellent Marian devotions, but few are so deep-rooted among the faithful and so richly blessed by the popes. Besides, how motherly this sabbatine privilege is!" (Josemaría Escrivá, *The Way*, Point 500).
 
 Our Lady promised the grace to repent during the final moments of life to those who live and die wearing the scapular or the scapular medal (*cf*. Innocent IV, Bull, *Ex parte dilectorum*, January 13, 1252).
 
 Among the other graces and indulgences, the *sabbatine privilege* consists in our release from Purgatory on the Saturday following our death. These words are taken from the Bull issued by Pope John XXII (*cf*. John XXII, Bull, *Sacratissimo uti culmine*, March 3, 1322).
 
-"By her maternal charity, Mary cares for the brethren of her Son who still journey on earth surrounded by dangers and difficulties until such time as they are led into the eternal happiness of their true homeland." These were words taken from the *Lumen gentium*of the Second Vatican Council (Vatican II, *Lumen gentium*, Point 62, November 21, 1964*).*
+"By her maternal charity, Mary cares for the brethren of her Son, who still journey on earth surrounded by dangers and difficulties, until such time as they are led into the eternal happiness of their true homeland." These were words taken from the *Lumen gentium*of the Second Vatican Council (Vatican II, *Lumen gentium*, Point 62, November 21, 1964*).*
 
 We're encouraged to approach Our Lady many times each day so that she can help and protect us.
 
@@ -51,13 +51,13 @@ Our Lady manifested herself to St. Simon as the Mother of Divine Grace and also 
 
 A great custom has been generated down through the centuries of venerating Our Lady of Mount Carmel through devotion to the scapular.
 
-A spiritual writer wrote, "She, the Mother of God and our mother, offers us the following pledge in reward for our commitment to her: 'Throughout life I protect; at the hour of death I lend assistance; and after death, I save'" (Cardinal Isidro Gomá y Tomás, *The Blessed Virgin Mary*).
+A spiritual writer wrote, "She, the Mother of God and Our Mother, offers us the following pledge in reward for our commitment to her: 'Throughout life I protect; at the hour of death I lend assistance; and after death, I save'" (Cardinal Isidro Gomá y Tomás, *The Blessed Virgin Mary*).
 
 We are accustomed to addressing Our Lady as "our sweetness and our hope" every time that we say the *Hail Holy Queen*.
 
 The scapular devotion is a manifestation of our confidence in the maternal help of Our Lady. She takes us by the hand and leads us along a sure path every day of our lives.
 
-St. Teresa of Ávila said she helps us to overcome every difficulty and temptation and will never abandon us "since it is her practice to favor those who long to be protected by her" (Teresa of Ávila, *The History of* *Her Foundations*).
+St. Teresa of Ávila said she helps us to overcome every difficulty and temptation and will never abandon us "since it is her practice to favor those who long to be protected by her" (Teresa of Ávila, *Foundations*).
 
 Some day the hour of our definitive encounter with God will arrive, and then in a special way, we will need her protection and her help.
 
@@ -71,11 +71,11 @@ Our Lady and St. Joseph will lead us to a very beautiful, peaceful, and happy de
 
 All through our lives, we have prayed in the *Hail Mary* to "pray for us, now and at the hour of our death." Our Lady will never forget our request.
 
-Pope St. John Paul, when he visited Santiago in Spain, said, "May Our Lady of Mount Carmel be with you always. May she be the Star that guides you and never disappears from your horizon. May she lead you now, throughout your life, and at its completion, may she lead you to a safe haven\" (John Paul II, *Address*, November 9, 1982).
+Pope St. John Paul, when he visited Santiago in Spain, said, "May Our Lady of Mount Carmel be with you always. May she be the Star that guides you and never disappears from your horizon. May she lead you now, throughout your life, and at its completion, may she lead you to a safe haven" (John Paul II, *Address*, November 9, 1982).
 
 Hand in hand with Our Lady, we will reach her Son's presence. If we need further purification, she will hasten the moment when we are completely purified so that we can enter the eternal vision of God.
 
-St. Vincent Ferrer frequently preached that Our Lady \"serves the souls in Purgatory well because she secures them with relief" (Vincent Ferrer, *Sermon on the Nativity*).
+St. Vincent Ferrer frequently preached that Our Lady "serves the souls in Purgatory well because she secures them with relief" (Vincent Ferrer, *Sermon on the Nativity*).
 
 In the Middle Ages, Our Lady of Mount Carmel used to be shown surrounded by souls engulfed in the flames of Purgatory, in order to depict her special intercession for those undergoing the purification they need.
 
@@ -101,7 +101,7 @@ This is the wedding garment that we will one day present for our final espousal 
 
 The scapular of Mount Carmel can help us to love Our Mother in heaven more. It is a special reminder for us that we are dedicated to her and that in whatever moment of trouble, in the midst of temptation, we can count on her help.
 
-The Opening Prayer of today's feast day says: \"Remember, Blessed Virgin Mother of God...to speak well on our behalf before the Lord\" (*Graduale Romanum*).
+The Opening Prayer of today's feast day says: "Remember, Blessed Virgin Mother of God...to speak well on our behalf before the Lord" (*Graduale Romanum*).
 
 We can think to add: especially on the days when we have not been as faithful as God expects His children to be.
 
@@ -163,7 +163,7 @@ It is very good spirit that today we ask her for things. We entrust things to he
 
 She was full of hard work. She used her time well. When she went shopping, she shopped for bargains.
 
-She went to the sales, taught the early people of the Work how to shop very carefully, get good values, spend little, and get great value---full of common sense, feet on the ground.
+She went to the sales, taught the early people of the Work how to shop very carefully, get good values, spend little and get great value---full of common sense, feet on the ground.
 
 At the same time, she knew how to put that little touch of class and elegance into the decor of the centers so that they would truly be, and also look like, family homes, having things that any normal family would try and have, but then also taking care of them and making them last.
 
@@ -171,7 +171,7 @@ All over the world, the fruit of her work is to be seen. She gives us great exam
 
 She lived a great personal sobriety, did not spend money on herself but was very generous with others. She took care of her appearance. She was elegant, attractive, had a lot of human tone.
 
-Earlier in her life, she had many suitors, many people who were seeking after her. But one day, she told her brother: \"I am going to cut off this relationship because if it continues it will become serious, and I don't want to leave you alone."
+Earlier in her life, she had many suitors, many people who were seeking after her. But one day, she told her brother: "I am going to cut off this relationship because if it continues it will become serious, and I don't want to leave you alone."
 
 That was the extent to which she lived so that the Prelature could live.
 
@@ -179,13 +179,11 @@ Anything her brother asked her for, she gave---and so it is logical that we woul
 
 We can trust family matters to her. We could try and imitate her availability, her priestly soul, and her sacrifice. Nothing was too much.
 
-At the same time, she was discreet. She was in the background. St. Josemaría used to say that the Catering departments shouldn't be seen or heard.
+At the same time, she was discreet. She was in the background.
 
-They performed this great service in all of our centers silently, quietly, effectively, giving a great example to the world, like a great catechesis. Aunt Carmen taught everybody how to do this.
+St. Josemaría used to say that the Catering departments shouldn't be seen or heard. They performed this great service in all of our centers silently, quietly, effectively, giving a great example to the world, like a great catechesis. Aunt Carmen taught everybody how to do this.
 
-She also gave an example of how to die in Opus Dei, silently. She had no fear of death.
-
-We know that she continues to look after this, her family, from heaven, constantly looking after us.
+She also gave an example of how to die in Opus Dei, silently. She had no fear of death. We know that she continues to look after this, her family, from heaven, constantly looking after us.
 
 She is buried in the crypt of Our Lady of Peace in Rome, beside her brother. She predeceased him. She died in the 1950s (June 20, 1957).
 
@@ -197,7 +195,7 @@ St. Josemaría wrote in 1965 that this work of domestic service is a work not of
 
 "The work of the home, by its very nature, is particularly soaked in this distinctive desire of the followers of Christ who came to serve. We could think," he says, "of the attentiveness of Our Lady, the most exalted creature that has ever been in the whole of human history. She spent her life, day after day, in those domestic tasks."
 
-St. Josemaría liked to emphasize on many occasions how Our Lady was humanly descended from the house of David and because she was the Mother of God, was the Queen of heaven and earth.
+St. Josemaría liked to emphasize on many occasions how Our Lady was humanly descended from the house of David, and because she was the Mother of God, was the Queen of heaven and earth (*cf*. J. Escrivá, *Friends of God*, Point 288; *The Forge*, Point 273).
 
 She dedicated herself to those domestic tasks, the same tasks that each one of us does in a regular way.
 
@@ -211,7 +209,7 @@ John Paul II said that domestic work "constitutes a daily struggle that requires
 
 We could ask Aunt Carmen that she might teach us to take care of our home, where we live, so that we could truly make it a corner of the house of Nazareth, with our charity and our attentiveness to others, our forgetfulness of self, our commitment.
 
-And also, our seeing the value of the family so that, more and more, we build up the family and everything related to the family, in society; the sacredness of the home---mindful of the fact that it was in the home of Nazareth that Christ wanted to grow in the company of Joseph and Mary for thirty long years---emphasizing to us the value of the home so that we could put love into our home, and care and attention, so that the best moments of our life would always be at home and with our family, building up this treasure that God has placed in our hands.
+And also, our seeing the value of the family so that, more and more, we build up the family and everything related to the family, in society; the sacredness of the home---mindful of the fact that it was in the home of Nazareth that Christ wanted to grow in the company of Joseph and Mary for thirty long years (Luke 2:51-52)---emphasizing to us the value of the home so that we could put love into our home, and care and attention, so that the best moments of our life would always be at home and with our family, building up this treasure that God has placed in our hands.
 
 Seeing that that will be one of the first things that God will ask us to account for---how we have been living that spirit of service in our home and trying to live as a great human person, so that our children grow up knowing what a great human person is, a person of virtue; so that our children grow up imbibing the beauty of the home; so that they may want to transmit those family values to future generations.
 

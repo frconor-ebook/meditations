@@ -4,8 +4,8 @@ title: "Our Lady of Peace"
 description: "We are told in the Gospel today, \"Every kingdom divided against itself...cannot stand\" (Matt. 12:25). It's a statement of unity. Today is also the Feast..."
 reading_time: 22
 tags: ["Our Lady"]
-prev_slug: our-lady-of-mt-carmel
-prev_title: "Our Lady of Mt. Carmel"
+prev_slug: our-lady-of-mt-carmel-july-16th
+prev_title: "Our Lady of Mt. Carmel (July 16th)"
 next_slug: our-lady-of-pilar
 next_title: "Our Lady of Pilar"
 related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]

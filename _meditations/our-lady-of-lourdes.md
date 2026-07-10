@@ -6,8 +6,8 @@ reading_time: 24
 tags: ["Our Lady"]
 prev_slug: our-lady-of-loreto
 prev_title: "Our Lady of Loreto"
-next_slug: our-lady-of-mt-carmel
-next_title: "Our Lady of Mt. Carmel"
+next_slug: our-lady-of-mt-carmel-july-16th
+next_title: "Our Lady of Mt. Carmel (July 16th)"
 related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
 ---
 
