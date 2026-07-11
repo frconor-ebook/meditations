@@ -22,7 +22,7 @@ Three of the Evangelists say that "the Son of Man is Lord of the Sabbath" (Matt.
 
 St. Justin said, "On Sundays there is an assembly of all who live in towns or in the country. This is the first day, on which God transformed darkness and matter and made the world; the day on which Jesus Christ our Savior rose from the dead" (St. Justin, *First Apology*).
 
-The Jewish Sabbath gave way to the Christian Sunday from the very beginnings of the Church, and from then on, every Sunday we celebrate the Lord's Resurrection.
+The Jewish Sabbath gave way to the Christian Sunday from the very beginning of the Church, and from then on, every Sunday we celebrate the Lord's Resurrection.
 
 Saturday was the day dedicated to Yahweh in the Old Testament. God Himself instituted it (Gen. 2:3) and commanded the Israelites to abstain from certain tasks on that day in order to honor Him properly (Ex. 20:8-11; Deut. 5:12-15). It was also the day in which the family got together to celebrate the end of the captivity in Egypt.
 
@@ -38,11 +38,11 @@ Sacred Scripture everywhere presents a lofty and noble idea of the Sabbath. In t
 
 The importance of this command is also deduced from its repetition in Scripture. Sometimes the prophets point out as a cause of God's punishment the fact that people have not kept the Sabbath.
 
-The Sabbath rest was strictly a religious event, which is why it always culminated in the afternoon sacrifice, we're told in the Book of Numbers (*cf*. Num. 28:9-10).
+The Sabbath rest was strictly a religious event, which is why it always culminated in the offering of a sacrifice, we're told in the Book of Numbers (*cf*. Num. 28:9-10).
 
 The feast days of Israel, and particularly the Sabbath, were a sign of the Divine Covenant and the people's way of expressing their joy at being God's property and the object of His choice and of His love. That's why every feast day was linked to a salvation event.
 
-Yet these feast days contained only the promise of a reality which still had to take place. With the Resurrection of Our Lord, the Sabbath gives way to the reality which it had foreshadowed, the Christian celebration.
+Yet these feast days contained only the promise of a reality which still had to take place. With the Resurrection of Our Lord the Sabbath gives way to the reality which it had foreshadowed, the Christian celebration.
 
 Our Lord Himself in St. Matthew speaks of the Kingdom of God as a great banquet offered by a king on the occasion of the wedding of his son (*cf*. Matt. 22:2-13), through whom we are invited to share in the messianic benefits (*cf*. Isa. 25:6-8).
 
@@ -60,7 +60,7 @@ That means we have to try and give that Mass great importance. If we see that th
 
 Or if we're traveling, not to say, 'Well, I'll catch Mass somewhere when I arrive,' but rather, 'I'll get Mass first before I start my travels.'
 
-Or if we're traveling to distant places, nowadays with Google you could find out the times of Mass before you even start your journey, so that you find out where the churches are near the hotel that you might be staying in.
+Or if we're traveling to distant places, nowadays with Google you could find out the times of Masses before you even start your journey, so that you find out where the churches are near the hotel that you might be staying in.
 
 We take all the necessary precautions to make sure that we fulfill that precept. God wants us to give that example in our Christian family: Sunday Mass is not negotiable. It comes first before everything.
 
@@ -114,7 +114,7 @@ It is good for children to grow up knowing these aspects of Catholic culture and
 
 Pope Pius XII said we must try, through example and apostolate, "to make Sunday into the Lord's day, a day of adoration and glorification of God, of the Holy Sacrifice, of prayer, of rest, of recollection, of cheerful meetings in the family" (Pius XII, *Address*, September 7, 1947).
 
-In Psalm 66 it says, "Let the earth cry out to God with joy! Praise the glory of his name; proclaim his glorious praise" (Ps. 66:1-2).
+In Psalm \[66\] it says, "Let the earth cry out to God with joy! Praise the glory of his name; proclaim his glorious praise" (Ps. 66:1-2).
 
 The precept of sanctifying holy days responds to the need to give public worship to God. We can't be satisfied with merely private worship.
 
@@ -148,15 +148,15 @@ But there's no festivity without celebration. A holiday does not consist simply 
 
 Neither can there be a Christian feast day without the faithful coming together to give thanks, to praise the Lord, and to remember His deeds.
 
-And so, it would be very un-Christian to plan to spend a weekend or a 'holiday' of obligation in such a way as to make impossible, or very difficult, one's dealings with God.
+And so it would be very un-Christian to plan to spend a weekend or a 'holiday' of obligation in such a way as to make impossible or very difficult one's dealings with God.
 
 Parents, with their example, have to try and create that atmosphere in the family, putting first things first.
 
-The Lord's Day can be a day of rest. But rest is not only an opportunity to recuperate energies. It's also the sign and the anticipation of the definitive rest, of that celebration which is heaven.
+The Lord's Day can be a day of rest. But rest is not only an opportunity to recuperate energies. It's also the sign and the anticipation of the definitive rest of that celebration which is heaven.
 
 That's why the Church wishes to celebrate her feast days by including in them a rest from work. All Catholics, like anyone else, have a right to that rest, a right which the State should guarantee and protect.
 
-The rest of these holy days should not be interpreted as simply doing nothing, a mere passing of the time, but rather, a positive involvement in something which enriches the personality in different ways.
+The rest of these holy days should not be interpreted as simply doing nothing, a mere passing of the time, but rather, \[as\] a positive involvement in something which enriches the personality in different ways.
 
 We may need to learn how to rest, which can often mean engaging ourselves in a different activity, change of environment, change of circumstances, meeting people, trying to have some apostolic purpose.
 
@@ -166,7 +166,7 @@ If we know how to limit the use of television on feast days, for example, we wil
 
 We can create time for other things. We plan things or schedule things---things which we may not be able to do on other days, but when opportunities come from the time of less pressured exchange, we can use them well.
 
-John Paul II has a wonderful apostolic letter called *Dies Domini*, the "Day of the Lord." It's on the Internet. He talks a lot about rest and the sanctification of rest.
+John Paul II has a wonderful apostolic letter called *Dies Domini*, the "Day of the Lord"---it's on the Internet---where he talks a lot about rest and the sanctification of rest.
 
 We can see if we can spend more time with our family during those days, look after the education of our children a little more, develop social relationships and friendships, make a visit or two to people in need, or to those who are alone or sick.
 
@@ -176,7 +176,7 @@ In general terms, one must know how to have, St. Josemaría says, "one's whole d
 
 "We live poverty by filling the hours of the day usefully, doing everything as well as we can, and living little details of order, punctuality, and good humor" (Josemaría Escrivá, *Conversations*, Point 111).
 
-"The Lord's Day---as Sunday was called from apostolic times---has always been accorded special attention in the history of the Church because of its close connection with the very core of the Christian mystery. In...the weekly reckoning of time, Sunday recalls the day of Christ's Resurrection (John Paul II, Apostolic Letter, *Dies Domini* ff., May 31, 1998).
+"The Lord's Day---as Sunday was called from apostolic times---has always been accorded special attention in the history of the Church because of its close connection with the very core of the Christian mystery. In...the weekly reckoning of time, Sunday recalls the day of Christ's Resurrection" (John Paul II, Apostolic Letter, *Dies Domini* ff., May 31, 1998).
 
 "It is Easter which returns week by week, celebrating Christ's victory over sin and death, the fulfilment in him of the first creation, and the dawn of 'the new creation' (*cf*. 2 Cor. 5:17).
 
@@ -192,11 +192,11 @@ In general terms, one must know how to have, St. Josemaría says, "one's whole d
 
 "The Resurrection of Jesus is the fundamental event upon which Christian faith rests (*cf*. 1 Cor. 15:14). It is an astonishing reality, fully grasped in the light of faith, yet historically attested to by those who were privileged to see the Risen Lord.
 
-"It is a wondrous event which is not only absolutely unique in human history, but which lies at the very heart of the mystery of time. 'All time belongs to Christ and all the ages,' as the liturgy recalls (Liturgy, *Easter Vigil*).
+"It is a wondrous event which is not only absolutely unique in human history, but which lies *at the very heart of the mystery of time*. 'All time belongs to Christ and all the ages,' as the liturgy recalls (Liturgy, *Easter Vigil*).
 
 "And so, in commemorating the day of Christ's Resurrection, not just once a year, but every Sunday, the Church seeks to indicate to every generation the true fulcrum of history, to which the mystery of the world's origin and its final destiny leads.
 
-"It is right, therefore, to claim, in the words of a fourth-century homily, that 'the Lord's Day' is 'the lord of days.'
+"It is right, therefore, to claim, in the words of a fourth century homily, that 'the Lord's Day' is 'the lord of days.'
 
 "Those who have received the grace of faith in the Risen Lord cannot fail to grasp the significance of this day of the week with the same deep emotion which led St. Jerome to say: 'Sunday is the day of the Resurrection, it is the day of Christians, it is our day.'
 
