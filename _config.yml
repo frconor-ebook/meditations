@@ -8,6 +8,10 @@ logo: /assets/images/apple-touch-icon.png  # used by jekyll-seo-tag JSON-LD
 permalink: /homilies/:title/
 markdown: kramdown
 
+# Use the large landscape Twitter/X card for our 1200x630 og:image
+twitter:
+  card: summary_large_image
+
 # Meditations live in _meditations/ as a collection: filenames are slugs
 # (no dates), so regeneration is idempotent and URLs never change
 collections:
@@ -45,6 +49,13 @@ exclude:
 
 # ADD THIS SECTION
 defaults:
+  # Global fallback: default og:image for every document (incl. homepage).
+  # jekyll-seo-tag does not treat a top-level `image:` key as a site-wide
+  # default, so we set it via defaults instead.
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/og-image.png  # og:image for shared links
   - scope:
       path: ""
       type: "pages"
@@ -54,8 +65,3 @@ defaults:
       path: "data" # Apply these settings to files in _data
     values:
       sitemap: false  # Exclude data files from sitemap (optional but recommended)
-  - scope:
-      path: ""
-      type: "meditations"
-    values:
-      image: /assets/images/apple-touch-icon.png  # og:image for shared links

@@ -4,15 +4,15 @@ permalink: /manifest.webmanifest
 ---
 {
   "id": "{{ site.baseurl }}/",
-  "name": "Fr. Conor Donnelly Meditations",
-  "short_name": "Fr. Conor",
+  "name": "Fr. Conor Meditation Transcripts",
+  "short_name": "Transcripts",
   "description": "{{ site.description }}",
   "lang": "en",
   "start_url": "{{ site.baseurl }}/",
   "scope": "{{ site.baseurl }}/",
   "display": "standalone",
-  "background_color": "#9B2017",
-  "theme_color": "#9B2017",
+  "background_color": "#010F32",
+  "theme_color": "#010F32",
   "icons": [
     {
       "src": "{{ site.baseurl }}/assets/images/icon-192.png",
