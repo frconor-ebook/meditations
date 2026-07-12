@@ -1,0 +1,36 @@
+---
+layout: none
+permalink: /manifest.webmanifest
+---
+{
+  "id": "{{ site.baseurl }}/",
+  "name": "Fr. Conor Donnelly Meditations",
+  "short_name": "Fr. Conor",
+  "description": "{{ site.description }}",
+  "lang": "en",
+  "start_url": "{{ site.baseurl }}/",
+  "scope": "{{ site.baseurl }}/",
+  "display": "standalone",
+  "background_color": "#9B2017",
+  "theme_color": "#9B2017",
+  "icons": [
+    {
+      "src": "{{ site.baseurl }}/assets/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "{{ site.baseurl }}/assets/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "{{ site.baseurl }}/assets/images/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -20,6 +20,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {% seo %}
 
+    <!-- PWA: manifest + theme color + service worker -->
+    <link rel="manifest" href="{{ site.baseurl }}/manifest.webmanifest">
+    <meta name="theme-color" content="#9B2017">
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function() {
+                navigator.serviceWorker.register('{{ site.baseurl }}/sw.js');
+            });
+        }
+    </script>
+
     <!-- Favicons (derived from assets/images/logo-circ.png) -->
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/images/favicon-16x16.png">

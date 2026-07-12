@@ -1,0 +1,48 @@
+---
+layout: none
+permalink: /offline/
+sitemap: false
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Offline — Fr. Conor Donnelly Meditations</title>
+    <!-- Self-contained on purpose: must render with nothing else cached -->
+    <style>
+        body {
+            font-family: Georgia, 'Times New Roman', serif;
+            background: #9B2017;
+            color: #f5e9d7;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+            text-align: center;
+            padding: 2rem;
+        }
+        .card { max-width: 26rem; }
+        h1 { font-size: 1.6rem; margin-bottom: 0.5rem; }
+        p { line-height: 1.6; }
+        a {
+            display: inline-block;
+            margin-top: 1.5rem;
+            color: #9B2017;
+            background: #f5e9d7;
+            text-decoration: none;
+            padding: 0.6rem 1.4rem;
+            border-radius: 2rem;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>You're offline</h1>
+        <p>This meditation isn't saved for offline reading yet. Meditations you've read before are available without a connection.</p>
+        <a href="{{ site.baseurl }}/">Try the homepage</a>
+    </div>
+</body>
+</html>
