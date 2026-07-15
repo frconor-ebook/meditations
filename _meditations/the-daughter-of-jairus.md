@@ -8,7 +8,7 @@ prev_slug: the-curing-of-the-possessed-man-gerasenes
 prev_title: "The Curing of the Possessed Man (Gerasenes)"
 next_slug: the-decree-of-caesar-augustus-and-the-journey-to-bethlehem
 next_title: "The Decree of Caesar Augustus and The Journey to Bethlehem"
-related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
+related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
 ---
 
 By Fr. Conor Donnelly

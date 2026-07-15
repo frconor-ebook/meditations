@@ -8,7 +8,7 @@ prev_slug: the-crucifixion
 prev_title: "The Crucifixion"
 next_slug: the-curing-of-the-man-with-an-unclean-spirit
 next_title: "The Curing of the Man with an Unclean Spirit"
-related: [{"slug": "the-curing-of-the-possessed-man-gerasenes", "title": "The Curing of the Possessed Man (Gerasenes)"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}]
+related: [{"slug": "the-curing-of-the-possessed-man-gerasenes", "title": "The Curing of the Possessed Man (Gerasenes)"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
 ---
 
 By Fr. Conor Donnelly

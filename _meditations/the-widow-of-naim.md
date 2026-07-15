@@ -8,7 +8,7 @@ prev_slug: the-way-the-truth-and-the-life
 prev_title: "The Way, the Truth, and the Life"
 next_slug: the-widows-mite
 next_title: "The Widow\u2019s Mite"
-related: [{"slug": "the-widows-mite", "title": "The Widow\u2019s Mite"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}]
+related: [{"slug": "the-widows-mite", "title": "The Widow\u2019s Mite"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
 ---
 
 By Fr. Conor Donnelly

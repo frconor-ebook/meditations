@@ -5,7 +5,7 @@ description: "\"He went down with them and came to Nazareth and lived under thei
 reading_time: 18
 tags: ["Family & Marriage"]
 prev_slug: healing-christs-wounds
-prev_title: "Healing Christ's Wounds"
+prev_title: "Healing Christ\u2019s Wounds"
 next_slug: hearts-on-fire
 next_title: "Hearts on Fire"
 related: [{"slug": "defending-the-family", "title": "Defending the Family"}, {"slug": "egypt-and-the-holy-family", "title": "Egypt and the Holy Family"}, {"slug": "st-joseph-the-family-man", "title": "St. Joseph, The Family Man"}]

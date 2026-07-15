@@ -8,7 +8,7 @@ prev_slug: the-canonization-of-st-josemaria-escriva
 prev_title: "The Canonization of St. Josemar\u00eda Escriv\u00e1"
 next_slug: the-chair-of-st-peter
 next_title: "The Chair of St. Peter"
-related: [{"slug": "the-unmerciful-servant", "title": "The Unmerciful Servant"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}]
+related: [{"slug": "the-unmerciful-servant", "title": "The Unmerciful Servant"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
 ---
 
 By Fr. Conor Donnelly

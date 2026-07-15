@@ -8,7 +8,7 @@ prev_slug: the-pharisee-and-the-publican
 prev_title: "The Pharisee and the Publican"
 next_slug: the-power-of-the-beatitudes
 next_title: "The Power of the Beatitudes"
-related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
+related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
 ---
 
 By Fr. Conor Donnelly

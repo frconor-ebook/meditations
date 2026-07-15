@@ -7,7 +7,7 @@ tags: ["Virtues & Struggle"]
 prev_slug: guarding-our-sight
 prev_title: "Guarding Our Sight"
 next_slug: healing-christs-wounds
-next_title: "Healing Christ's Wounds"
+next_title: "Healing Christ\u2019s Wounds"
 related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
 ---
 

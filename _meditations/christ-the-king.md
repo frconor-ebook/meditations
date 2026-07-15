@@ -7,7 +7,7 @@ prev_slug: christ-is-passing-by
 prev_title: "Christ Is Passing By"
 next_slug: christ-the-light
 next_title: "Christ the Light"
-related: [{"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}, {"slug": "christ-the-light", "title": "Christ the Light"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}]
+related: [{"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}, {"slug": "christ-the-light", "title": "Christ the Light"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
 ---
 
 By Fr. Conor Donnelly

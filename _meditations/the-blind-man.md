@@ -8,7 +8,7 @@ prev_slug: the-birthday-of-the-prelate-don-fernando
 prev_title: "The Birthday of the Prelate (Don Fernando)"
 next_slug: the-bread-our-heavenly-mother-gives-us
 next_title: "The Bread Our Heavenly Mother Gives Us"
-related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
+related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
 ---
 
 By Fr. Conor Donnelly

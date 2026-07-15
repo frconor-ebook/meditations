@@ -8,7 +8,7 @@ prev_slug: the-speck-in-my-brothers-eye
 prev_title: "The Speck In My Brother's Eye"
 next_slug: the-syrophoenician-woman
 next_title: "The Syrophoenician Woman"
-related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
+related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
 ---
 
 By Fr. Conor Donnelly

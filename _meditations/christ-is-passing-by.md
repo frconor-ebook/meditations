@@ -7,7 +7,7 @@ prev_slug: childrena-gift-of-god
 prev_title: "Children\u2014A Gift of God"
 next_slug: christ-the-king
 next_title: "Christ the King"
-related: [{"slug": "christ-the-king", "title": "Christ the King"}, {"slug": "christ-the-light", "title": "Christ the Light"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}]
+related: [{"slug": "christ-the-king", "title": "Christ the King"}, {"slug": "christ-the-light", "title": "Christ the Light"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
 ---
 
 

@@ -8,7 +8,7 @@ prev_slug: the-mass-and-personal-self-surrender
 prev_title: "The Mass and Personal Self-Surrender"
 next_slug: the-miraculous-catch-of-fish
 next_title: "The Miraculous Catch of Fish"
-related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
+related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
 ---
 
 By Fr. Conor Donnelly

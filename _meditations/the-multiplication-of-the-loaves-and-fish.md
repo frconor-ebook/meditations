@@ -8,7 +8,7 @@ prev_slug: the-mother-of-fair-love
 prev_title: "The Mother of Fair Love"
 next_slug: the-mystery-of-the-incarnation
 next_title: "The Mystery of the Incarnation"
-related: [{"slug": "the-miraculous-catch-of-fish", "title": "The Miraculous Catch of Fish"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}]
+related: [{"slug": "the-miraculous-catch-of-fish", "title": "The Miraculous Catch of Fish"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
 ---
 
 By Fr. Conor Donnelly

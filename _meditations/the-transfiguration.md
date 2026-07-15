@@ -8,7 +8,7 @@ prev_slug: the-third-sunday-of-st-joseph-2026
 prev_title: "The Third Sunday of St. Joseph (2026)"
 next_slug: the-truth-will-make-you-free
 next_title: "The Truth Will Make You Free"
-related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
+related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
 ---
 
 By Fr. Conor Donnelly

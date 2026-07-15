@@ -8,7 +8,7 @@ prev_slug: the-widow-of-naim
 prev_title: "The Widow of Naim"
 next_slug: the-will-of-god
 next_title: "The Will of God"
-related: [{"slug": "the-widow-of-naim", "title": "The Widow of Naim"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}]
+related: [{"slug": "the-widow-of-naim", "title": "The Widow of Naim"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
 ---
 
 Fr. Conor Donnelly

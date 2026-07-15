@@ -8,7 +8,7 @@ prev_slug: the-harvest-is-plentiful
 prev_title: "The Harvest is Plentiful"
 next_slug: the-healing-of-the-royal-officials-son
 next_title: "The Healing of the Royal Official\u2019s Son"
-related: [{"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}, {"slug": "the-healing-of-the-royal-officials-son", "title": "The Healing of the Royal Official\u2019s Son"}, {"slug": "the-healing-of-the-ten-lepers", "title": "The Healing of the Ten Lepers"}]
+related: [{"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "the-healing-of-the-royal-officials-son", "title": "The Healing of the Royal Official\u2019s Son"}, {"slug": "the-healing-of-the-ten-lepers", "title": "The Healing of the Ten Lepers"}]
 ---
 
 By Fr. Conor Donnelly

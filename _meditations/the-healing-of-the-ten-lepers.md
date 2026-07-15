@@ -8,7 +8,7 @@ prev_slug: the-healing-of-the-royal-officials-son
 prev_title: "The Healing of the Royal Official\u2019s Son"
 next_slug: the-holiness-in-rest-a-sacred-pause
 next_title: "The Holiness in Rest: A Sacred Pause"
-related: [{"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}, {"slug": "the-healing-of-the-man-with-the-withered-hand", "title": "The Healing of the Man with the Withered Hand"}, {"slug": "the-healing-of-the-royal-officials-son", "title": "The Healing of the Royal Official\u2019s Son"}]
+related: [{"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "the-healing-of-the-man-with-the-withered-hand", "title": "The Healing of the Man with the Withered Hand"}, {"slug": "the-healing-of-the-royal-officials-son", "title": "The Healing of the Royal Official\u2019s Son"}]
 ---
 
 By Fr. Conor Donnelly

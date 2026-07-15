@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Healing Christ's Wounds"
+title: "Healing Christ\u2019s Wounds"
 description: "St. Paul says, \"But God, who is rich in mercy, because of the great love he had for us, even when we were dead in our transgressions, brought us to life..."
 reading_time: 17
 tags: ["Gospel Scenes & Miracles"]
@@ -45,7 +45,7 @@ We don't know Christ's heart. But the heart of Christ makes the word "love" mean
 
 Sacrificial love: a willingness to be on the cross. That's a summary of the whole of our faith: the love of God from man unto death.
 
-Christ could have said, 'Your sins are forgiven you.' It could have all been over. But if He had not died, we could not have experienced the depth of His love.
+Christ could have said, "Your sins are forgiven you" (Matt. 9:2; Luke 7:48). It could have all been over. But if He had not died, we could not have experienced the depth of His love.
 
 We often see the exquisite example of the love, affection, and mercy of Jesus with everyone: sinners, the sick, the needy, children.
 
@@ -53,7 +53,7 @@ God's mercy is infinite. It's greater than His justice. God is the Father of mer
 
 The Encyclical of John Paul II, *Dives in Misericordia*, was one of his first Encyclicals. The Father, *Rich in Mercy.* He "sees in secret" (Matt. 6:4,6,18) and He wishes to reveal the mystery of His love.
 
-Modern man is very much in need of that mercy. One of the principal themes of Our Lord's preaching was His mercy in fresh aspects all the time: the good shepherd (John 10:11-16), the lost coin (Luke 15:8-10). St. Luke's Gospel is the gospel of mercy.
+Modern man is very much in need of that mercy. One of the principal themes of Our Lord's preaching was His mercy in fresh aspects all the time: the good shepherd (Matt. 18:12-14), the lost coin (Luke 15:8-10). St. Luke's Gospel is the gospel of mercy.
 
 Christ reveals the content of the mercy of God and He wants our lives to be guided by mercy and love. "The merciful shall obtain mercy" (Matt. 5:7). Christ is a model of mercy towards others.
 
@@ -65,15 +65,15 @@ Justice ends up meaning salvation won by God and His mercy. It excludes hatred t
 
 Fulton Sheen says, "Virtuous innocence never claims immunity from the guilt of others. That is why an innocent woman was found at the foot of the Cross. The truest sympathy is found in those who, with the strength of love, come out of the sunshine into the gloom and dimness of others, to touch wounds tenderly, as though their own nerves throbbed with pain" (Fulton J. Sheen, *Guide to Contentment*).
 
-In St. Luke, we're told that God is like a shepherd who leaves the ninety-nine to go in search of the one that is lost (*cf*. Luke 15:1-7). God is like a woman who searches the entire house to find the coin she lost (*cf*. Luke 15:8-10).
+In St. Luke, we're told that God is like a shepherd who leaves the ninety-nine to go in search of the one that is lost (*cf*. Luke 15:3-7). God is like a woman who searches the entire house to find the coin she lost (*cf*. Luke 15:8-10).
 
 He's like a father who comes out of the house to welcome back his prodigal son, and who comes out of the house a second time to entice the elder son to come in and join the party (*cf*. Luke 15:20,28).
 
 Today God has thrown a party during which we can receive God's infinite mercy. Our role is to go to the party to receive God's mercy, the eternal wedding feast.
 
-No human sin can erase the mercy of God or prevent Him from unleashing all His triumphant power if we just call upon Him.
+In the Encyclical *Veritatis splendor*, John Paul says, "No human sin can erase the mercy of God or prevent him from unleashing all his triumphant power if we just call upon him.
 
-In the Encyclical *Veritatis splendor*, John Paul says, "Indeed, sin itself makes even more radiant the love of the Father, who, in order to ransom a slave sacrificed his Son: his mercy towards us is Redemption" (John Paul II, Encyclical *Veritatis splendor*, Point 118, August 6, 1993). Without sin, there is no mercy.
+"Indeed, sin itself makes even more radiant the love of the Father, who, in order to ransom a slave sacrificed his Son: his mercy towards us is Redemption" (John Paul II, Encyclical *Veritatis splendor*, Point 118, August 6, 1993). Without sin, there is no mercy.
 
 St. Thomas Aquinas says, "It is proper to God to exercise mercy, and he manifests his omnipotence, particularly in this way" (Thomas Aquinas, *Summa Theologiae*, II-II, Question 30).
 
@@ -95,7 +95,7 @@ There's a healing value in the wounds of Christ. Those who suffer have to heal t
 
 "The Good Samaritan is he who goes out of his way to aid an injured man. He signifies Christ who encounters man in need of salvation and cares for his wounds and suffering with 'the oil of consolation and the wine of hope' (*Roman Missal*, Preface). He is the physician of souls and bodies, 'the faithful witness' (Rev. 3:14) of the divine salvific presence in the world. How to make this message concrete today? How to translate it into a readiness to accompany a suffering person in the terminal stages of life in this world, and to offer this assistance in a way that respects and promotes the intrinsic human dignity of persons who are ill, their vocation to holiness, and thus the highest worth of their existence?" (*ibid*.).
 
-"Each of us has been robbed of our original holiness by original sin. Our own selfishness and our sins and the sins of others have deeply wounded our souls. We lay on the side of life's path in need of a Savior. We have been broken and bruised and wounded; the Lord kneels down and lifts us up with His healing touch" (John Bartunek, *The Better Part*).
+"Each of us has been robbed of our original holiness by original sin. Our own selfishness and our sins and the sins of others have deeply wounded our souls. We lay on the side of life's path in need of a Savior. We have been broken and bruised and wounded; the Lord kneels down and lifts us up with his healing touch" (John Bartunek, *The Better Part*).
 
 "Christ is the Good Samaritan, the merciful Lord who heals and restores us with the balm of his sacraments, who pays for our salvation with the boundless riches of his grace, poured out generously on Calvary's cross and entrusted to the innkeeper of the Church, who watches over our convalescence until he comes again. He is the Lord, yes, but the truly noble Lord, who cares enough to come meet us in our need and carry us safely to his Father's inn" (*ibid*.).
 
@@ -123,15 +123,15 @@ We have to be careful with arguments. Sometimes it's trifling matters or sharp r
 
 Following Our Lord and being close to His wounds means finding, even in areas of tiny contradictions, the way to holiness.
 
-"Mercy...has the interior form of love." It's "able to reach down to every prodigal child, to every human misery, and to every form of moral misery, which is sin. When this happens, the person...who is the object of mercy does not feel humiliated, but rather found again and 'restored to value'" (John Paul II, *Dives in misericordia*, Point 6).
+"Mercy...has the interior form of love." It's "able to reach down to every prodigal child, to every human misery, and...to every form of moral misery, \[which is\] sin. When this happens, the person who is the object of mercy does not feel humiliated, but rather found again and 'restored to value'" (John Paul II, *Dives in misericordia*, Point 6).
 
 Lord, may we learn all these lessons from your wounds, to see the special value of mercy and forgiveness.
 
-In Point 2 of that Encyclical, *Dives in misericordia*, John Paul II says Christ is "the incarnation of mercy. ... In Christ and through Christ, God also becomes especially visible in His mercy...there is emphasized that attribute of the divinity which the Old Testament, using various concepts and terms, already defined as 'mercy.'
+In Point 2 of that Encyclical, *Dives in misericordia*, John Paul II says Christ is "the incarnation of mercy. ... In Christ and through Christ, God also becomes especially visible in his mercy...there is emphasized that attribute of the divinity which the Old Testament, using various concepts and terms, already defined as 'mercy.'
 
-"Christ confers on the whole of the Old Testament tradition about God's mercy a definitive meaning. Not only does He speak of it and explain it using comparisons and parables, but above all, He Himself makes it incarnate and personifies it. He Himself, in a certain sense, is mercy. To the person who sees it in Him---and finds it in Him---God becomes 'visible' in a particular way as the Father who is 'rich in mercy'" (Eph. 2:4).
+"Christ confers on the whole of the Old Testament tradition about God's mercy a definitive meaning. Not only does he speak of it and explain it using comparisons and parables, but above all, he himself makes it incarnate and personifies it. He himself, in a certain sense, is mercy. To the person who sees it in him---and finds it in him---God becomes 'visible' in a particular way as the Father who is 'rich in mercy'" (Eph. 2:4).
 
-Pope Francis says, "We need constantly to contemplate the mystery of mercy. It is a wellspring of joy, serenity, and peace. Our salvation depends on it" (Pope Francis,of Indiction, *Misericordiae vultus*, Point 2).
+Pope Francis says, "We need constantly to contemplate the mystery of mercy. It is a wellspring of joy, serenity, and peace. Our salvation depends on it" (Pope Francis, Bull of Indiction, *Misericordiae vultus*, Point 2).
 
 "In the parables devoted to mercy, Jesus reveals the nature of God as that of a Father who never gives up until he has forgiven the wrong and overcome rejection with compassion and mercy" (*ibid*., Point 9).
 
@@ -143,13 +143,13 @@ The Church "has an endless desire to show mercy" (Pope Francis, Apostolic Exhort
 
 In our tradition of health care and education, the Church has stretched out her hand to all corners of society, to every last person, to try and show that mercy.
 
-"All of her pastoral activity should be caught up in the tenderness she makes present to believers" (Pope Francis, *Misericordiae vultus*, Point 10).
+"All of her pastoral activity," he says, "should be caught up in the tenderness she makes present to believers" (Pope Francis, *Misericordiae vultus*, Point 10).
 
 I was impressed in the hospital where I used to work, founded and run by nuns for over 150 years, there were certain policies.
 
 One of those policies was that nobody ever died alone. When a patient was dying, a nurse would be assigned to sit with that patient, even if that meant hours, so the person who was dying would feel that hand of charity and of love and of mercy, expressed in a human way.
 
-Pope Francis says, "The Church is commissioned to announce the mercy of God, the beating heart of the Gospel, which in its way must penetrate the heart and mind of every person" (*ibid*., Point 12).
+Pope Francis says, "The Church is commissioned to announce the mercy of God, the beating heart of the Gospel, which in its own way must penetrate the heart and mind of every person" (*ibid*., Point 12).
 
 We have to give importance to corporal works of mercy within the family, educating children in that sense of giving to others, of concern for others, of reaching out to others with what we have. Sometimes it might only be our time, or our affection, or our attention.
 
@@ -163,7 +163,7 @@ He went up and He touched the stretcher (Luke 7:15). That desire to give mercy l
 
 This is the first thing that Our Lady does after the Annunciation. She went "into the hill country" (Luke 1:39).
 
-St. John of Chrysostom says, "He who assists the needy makes God his debtor."
+St. John Chrysostom says, "He who assists the needy makes God his debtor" (quoted by St. Alphonsus Liguori, *The Glories of Mary;* Prov. 19:17).
 
 "Mercy is another word for love," says St. John Paul (*cf*. *Dives in Misericordia*, Point 7).
 
@@ -187,9 +187,7 @@ With the wounds of Christ come many great lessons. That's why we have to enter i
 
 "Waiting for someone to repent before we forgive is to surrender our future to the person who wronged us. Forgiving is not a way to avoid pain but to heal pain. Forgiving is the only way to be fair to ourselves" (Lewis B. Smedes, *Forgive and Forget).*
 
-We can turn to Our Lady, "Mother of Mercy" (John Paul II, *Veritatis splendor*, Points 118,120).
-
-Hail Holy Queen, Mother of Mercy, hail our life, our sweetness, and our hope.
+We can turn to Our Lady, the "Mother of Mercy" (John Paul II, *Veritatis splendor*, Points 118,120). "Hail Holy Queen, Mother of Mercy, hail our life, our sweetness, and our hope" (attrib. to Hermann of Reichenau, St. Bernard of Clairvaux, *Prayer*).
 
 Our Lady, says St. John Paul, "has the deepest knowledge of the mystery of God's mercy" (John Paul II, *Dives in misericordia*, Point 9).
 

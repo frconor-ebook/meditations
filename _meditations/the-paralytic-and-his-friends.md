@@ -8,7 +8,7 @@ prev_slug: the-parable-of-the-weeds
 prev_title: "The Parable of the Weeds"
 next_slug: the-paralytic-at-capharnaum-confession
 next_title: "The Paralytic at Capharnaum (Confession)"
-related: [{"slug": "the-paralytic-at-capharnaum-confession", "title": "The Paralytic at Capharnaum (Confession)"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ's Wounds"}]
+related: [{"slug": "the-paralytic-at-capharnaum-confession", "title": "The Paralytic at Capharnaum (Confession)"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
 ---
 
 By Fr. Conor Donnelly
