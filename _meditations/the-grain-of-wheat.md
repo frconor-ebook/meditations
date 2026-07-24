@@ -2,7 +2,7 @@
 layout: homily
 title: "The Grain of Wheat"
 description: "There was a pencil maker once who spoke to the pencil that he was making and told this pencil, \"There are five things you need to know before I send you..."
-reading_time: 21
+reading_time: 22
 tags: ["Parables"]
 prev_slug: the-good-use-of-time
 prev_title: "The Good Use of Time"
@@ -33,7 +33,7 @@ There was a pencil maker once who spoke to the pencil that he was making and tol
 
 "You must always leave a clear, legible mark, no matter how difficult the situation may be. Whether you're writing in a classroom, whether you're writing on the top of a mountain, whether you're writing on the moon, whether you're writing when it's raining, or in any particular place, you've got to try and leave your mark, and leave a legible mark."
 
-If we replace the pencil with ourselves, we are the pencil, God speaking to us. He might say to us, "You'll be able to do many great things, but only if you allow yourself to be held in God's hand."
+If we replace the pencil with ourselves---we are the pencil, God speaking to us. He might say to us, "You'll be able to do many great things, but only if you allow yourself to be held in God's hand."
 
 Faith, abandonment, trust, allowing God to work in us and through us, being a good instrument in His hands, asking Him in prayer, "Lord, what do you want me to do? What do you want me to be? What's your will for me?"---and allow other human beings to access you for the many gifts you possess.
 
@@ -51,7 +51,7 @@ What am I here for? I am here to be better, to improve, to be a better professio
 
 You will be able to correct mistakes you might make or grow through them, and learn from the things you do wrong, admitting them and realizing them with humility. 'I made a mess up there. I should have done that better. I read that situation wrongly. I shouldn't have said those things or done those things.'
 
-The most important part of you will always be what's on the inside: your soul, your heart; to try and shape our hearts to be more Christ-like.
+The most important part of you will always be what's on the inside: our soul, our heart; to try and shape our hearts to be more Christ-like.
 
 Control the rough elements that may bring us down a little bit: our imagination, things that go through our mind.
 
@@ -97,7 +97,7 @@ Our Lord has called us to win the Gold, and, like an Olympic athlete, He wants u
 
 There was a story on the BBC recently. They were interviewing a famous US athlete who did very well in the long jump. He jumped farther than any other person in human history. It was a very interesting story, and he was telling how he did his training, et cetera, et cetera.
 
-Halfway through the story, they say, "Actually, this man is blind."
+Halfway through the story, they say, "Actually, this man is blind" (BBC, *Lex Gillette: Record-breaking blind long jumper*, July 19, 2021).
 
 You're sort of woken up out of your stupor. This guy can jump farther than everybody else in the world, but being blind.
 
@@ -241,19 +241,15 @@ Our Lord wants us to give others the best that we have, and in that way, to walk
 
 Sometimes it may be difficult to give ourselves, to be that grain of wheat---in moments of humiliation, or when we're asked to give when I don't feel like giving, because I'm tired, or I've done this job many times, or I don't like being told what to do, or I don't like being told that I didn't do it well and I could do it better. I don't like to be demanded from.
 
-Those are interesting moments to give ourselves a little more. Generous with our self-surrender. To labor and not to seek for any reward.
+Those are interesting moments to give ourselves a little more. Generous with our self-surrender. "To labor and not to seek for any reward" (St. Ignatius of Loyola, *Prayer for Generosity*).
 
 In a family, in an organization, in any place where there is generosity and self-giving, very often there is peace and joy, serenity, because people are inspired by other people who give themselves. They are moved to give themselves also. To forget about themselves.
 
-That creates a greater charity around. Peace, joy, a wonderful working atmosphere. Everybody is doing what they can.
-
-Everybody is bringing their grain of sand.
-
-Everybody is willing to be that grain of wheat that falls into the ground and dies, forgetting about themselves.
+That creates a greater charity around. Peace, joy, a wonderful working atmosphere. Everybody is doing what they can. Everybody is bringing their grain of sand. Everybody is willing to be that grain of wheat that falls into the ground and dies, forgetting about themselves.
 
 Happiness in this world is found through giving and self-giving, and creating an atmosphere around the place where everybody wants to give. Generosity expands the soul.
 
-We can see in the Scriptures why God loves generous souls who give everything. That's why He promises such a great reward. If you fall into the ground and die, you'll bring forth much fruit.
+We can see in the Scriptures why God loves generous souls who give everything. That's why He promises such a great reward. If you fall into the ground and die, you'll bring forth much fruit (*cf*. John 12:24).
 
 Many joys in our life may come from the fruits that God allows us to bring. We can try to be generous in giving others the benefit of the doubt, suspending our criticisms and our judgments.
 

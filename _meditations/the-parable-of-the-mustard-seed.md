@@ -30,9 +30,7 @@ In heaven, we will have been purified by our spiritual growth here on earth, and
 
 There will be no sinful obstacles to our love of God in heaven, and we cannot begin to imagine what that will be like.
 
-These parables form a beautiful reminder of God's promises for us.
-
-If times seem hard for God's Church here on earth, we can refuse to be daunted by the world and by persecution. "There is no servant greater than the master" (John 13:16).
+These parables form a beautiful reminder of God's promises for us. If times seem hard for God's Church here on earth, we can refuse to be daunted by the world and by persecution. "There is no servant greater than the master" (John 13:16).
 
 "If the world has hated us, it has hated Jesus first" (*cf*. John 15:18).
 
@@ -126,7 +124,7 @@ He invites us to launch out into the deep: to become a professional seed-sower i
 
 "The kingdom of God is God's effective but mysterious action in the universe and in all the chaos of human events. He overcomes the resistance of evil with patience, not with arrogance \[and\] outcry.
 
-"For this reason, Our Lord compares the kingdom \[of God\] to a mustard seed, the smallest of all the seeds, but destined to become a leafy tree (*cf*. Matt. 13:31-32)" (John Paul II, *General Audience*, Point 2, December 6, 2000).
+"For \[this\] reason Our Lord compares the kingdom \[of God\] to a mustard seed, the smallest of all the seeds, but destined to become a leafy tree (*cf*. Matt. 13:31-32)" (John Paul II, *General Audience*, Point 2, December 6, 2000).
 
 We don't know how God is going to use the things we do, the example we give in our family, the words we say, our example of holiness, our virtue, our example of the centrality of the sacraments, of the centrality of Christ in our life.
 
@@ -158,11 +156,11 @@ In Africa today, you see lived out this commitment to mission. Things that happe
 
 It's easier to see the things that other Christian countries may have forgotten about or taken for granted or complained about. It's all on the upper gradient here at the moment.
 
-The Church commits itself to our mission in the world.
+The Church commits herself to our mission in the world.
 
 The Second Vatican Council has called our attention to this: the role of the ordinary layperson. We've all become missionaries in our family, in our professional life, in our social life.
 
-We are "waiting to be able to cross the threshold of the Kingdom, whose seed and beginning is the Church," says *Lumen gentium*, "when it comes to the world in its fullness" (John Paul II, *ibid.*).
+We are "waiting to be able to cross the threshold of the Kingdom, whose seed and beginning is the Church," says *Lumen gentium* (*cf*. Vatican II, *Lumen gentium*, Point 5, November 21, 1964), when it comes to the world in its fullness" (John Paul II, *ibid.*).
 
 We can say, "Come, O Creator Spirit,\
 Visit the souls of those who belong to you;\
@@ -183,7 +181,7 @@ He also said, "What can we say what the kingdom is like? What parable can we fin
 
 Using many parables like these, He spoke the Word to them as far as they were capable of understanding it.
 
-We can think of the mustard seed in our own personal apostolate, in that friendship that we try to foster with people around us: the time we spend with them, every minute, every second, like a seed; the conversations we have with them; efforts that we make that might seem to be fruitless; like the farmer who scatters the seeds but not knowing where that seed is going to land or how it's going to be fruitful.
+We can think of the mustard seed in our own personal apostolate, in that friendship that we try to foster with people around us: the time we spend with them, every minute, every second, like a seed; the conversations we have with them; efforts that we make that might seem to be fruitless, like the farmer who scatters the seeds but not knowing where that seed is going to land or how it's going to be fruitful.
 
 We begin with small things. But we "launch out into the deep" (Luke 5:4), as Pope St. John Paul has encouraged us in that document *At the Coming of the New Millennium*. We do so with faith and with daring.
 

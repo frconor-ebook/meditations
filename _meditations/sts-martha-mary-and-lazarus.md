@@ -99,25 +99,25 @@ We can admire Martha's faith and try to imitate her in having a trusting relatio
 
 We can see that the delay that Our Lord had back in Jerusalem was on purpose. He knew what He was going to do. He was going to work a great miracle, but He wanted to create the right environment in which that would be made.
 
-We're told in *The Forge*, "Have you seen the affection and confidence with which Christ's friends treat him? In a completely natural way, the sisters of Lazarus 'blame' Jesus for being away. They almost say to Him, 'We told you! If only you'd been here!'
+We're told in *The Forge*, "Have you seen the affection and confidence with which Christ's friends treat him? In a completely natural way, the sisters of Lazarus 'blame' Jesus for being away. They almost say to him, 'We told you! If only you'd been here!'
 
 "Speak to him with calm confidence: 'Teach us to treat you with the loving friendliness of Martha, Mary, and Lazarus as the first Twelve treated you, even though at first they followed you perhaps for not very supernatural reasons'" (J. Escrivá, *The Forge*, Point 495).
 
 Some time later, around the time of the Passover, St. John says that Our Lord visited Bethany again.
 
-He says, "Six days before the Passover, Jesus went to Bethany, where Lazarus lived, whom Jesus had raised from the dead. They made him a supper; Martha served, and Lazarus was one of those at table with him" (John 12:1-2).
+He says, "Six days before the Passover, Jesus went to Bethany, where Lazarus lived, whom Jesus raised from the dead. They made him a supper; Martha served, and Lazarus was one of those at table with him" (John 12:1-2).
 
 "They made him a supper." Our Lord had certain human needs. He enjoyed their company. He celebrated. He lived with them in joyful moments.
 
 There's a story told about St. Teresa of Ávila who had a great love for pheasant. One day they got a present of a pheasant, and it was cooked, and they were eating the pheasant.
 
-St. Teresa of Ávila was obviously enjoying the pheasant, but another younger nun in the convent was a bit surprised that St. Teresa of Ávila was enjoying this piece of meat so much, and expressed some concern about fasting and penance and abstinence and a few other things. She seemed a bit surprised that St. Teresa was enjoying herself.
+St. Teresa of Ávila was obviously enjoying the pheasant, but another younger nun in the convent was a bit surprised that St. Teresa of Ávila was enjoying this piece of meat so much, and \[she\] expressed some concern about fasting and penance and abstinence and a few other things. She seemed a bit surprised that St. Teresa was enjoying herself.
 
 St. Teresa of Ávila is said to have told this younger nun, "When I fast, I fast, and when I pheasant, I pheasant." There's a lesson there for all of us.
 
 Our Lord enjoyed His supper. And Martha served. She must have served with a grateful love. Our Lord has told us, "Whatever you do to one of these, the least of my brethren, you did it to me" (Matt. 25:40).
 
-In all our acts of service, we try to see Christ. Martha had the privilege of actually serving Christ Himself. The Messiah was in her house. God was in need of her services. She was able to wait on Him.
+In all our acts of service, we try to see Christ. Martha had the privilege of actually serving Christ Himself. The Messiah was in her house; God was in need of her services. She was able to wait on Him.
 
 She must have realized this was something very special. God became man in order to identify with our human needs, so that we might learn to love Him through His Most Sacred Humanity, and also to become His intimate friends.
 
@@ -133,11 +133,9 @@ As far as faith is concerned---it became easier to believe, since God Himself wa
 
 As far as hope---by the great proof of His salvific will that this act of revelation represents;
 
-As far as charity---since "greater love than this no man has, that he lay down his life for his friends" (John 15:13).
+As far as charity---since "greater love than this no man has, that he lay down his life for his friends" (John 15:13);
 
-And as far as actual deeds of love---since God Himself was going to be our model.
-
-By taking on human flesh, God shows the tremendous value of every human creature; through His humility, He cures our pride.
+And as far as actual deeds of love---since God Himself was going to be our model. By taking on human flesh, God shows the tremendous value of every human creature; through His humility, He cures our pride.
 
 Through the Sacred Humanity of Jesus, the love of God assumed human form for us. This act gently opens to us the way up an inclined plane that leads us to union with God Our Father.
 
@@ -171,7 +169,7 @@ Mary put aside everything still left to do and gave all her attention to the Mas
 
 There may be moments when in our busy day, with many things to do, we also have to put things aside; stop what we're doing.
 
-I came across the definition of idleness by Ronald Knox recently, where he says that idleness is not lying on our bed listening to music. Idleness is giving priority to what we want to do, to our tasks, as opposed to what should be done or what we should be doing.
+I came across the definition of idleness by Ronald Knox recently, where he says that idleness "is not lying on our bed" listening to music. Idleness is "giving priority...to what we want to do," to our tasks, as opposed to what should be done or what we should be doing (*cf*. Ronald Knox, *The Priestly Life*).
 
 Hence the need for a to-do list, perhaps numbered, so we see very clearly what is the next most important thing that we should be doing. Among those things can be the care of our spiritual life.
 
@@ -215,11 +213,11 @@ In our ordinary life, we need to keep in mind that certain matters that may seem
 
 These means are worth little if family life suffers. If a father or mother earns more money but neglects the children, what good can come from that?
 
-The Opening Prayer to this Mass says, "Grant, we pray, Almighty God, that the example of your Saints may spur us on to a better life, so that we, who celebrate the memory of Saints Martha, Mary, and Lazarus, may also imitate without ceasing their deeds."
+The *Opening Prayer* to this Mass says, "Grant, we pray, Almighty God, that the example of your Saints may spur us on to a better life, so that we, who celebrate the memory of Saints Martha, Mary, and Lazarus, may also imitate without ceasing their deeds."
 
 Help us to create Bethany in our homes, true Christian homes, where there is warmth and affection and truth and justice, and all the wonderful things that God wants to bless us with.
 
-At the Prayer Over the Gifts, it says, "As we proclaim your wonders in your saints, O Lord, we humbly implore your majesty, that as their homage of love was pleasing to you, so, too, our dutiful service may find favor in your sight."
+At the *Prayer Over the Gifts*, it says, "As we proclaim your wonders in your saints, O Lord, we humbly implore your majesty, that as their homage of love was pleasing to you, so, too, our dutiful service may find favor in your sight."
 
 Our dutiful service when we plug in the kettle, when we put bread in the toaster, when we lay the table, when we do the washing up, when we clear away the table after a meal, all the basic ordinary things that are part and parcel of family life---changing sheets on beds, doing our laundry, hanging it out to dry.
 

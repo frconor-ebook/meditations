@@ -11,12 +11,13 @@ next_title: "The Washing of the Feet"
 related: [{"slug": "temptation", "title": "Temptation"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}]
 ---
 
-
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and Lord, my guardian angel, intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and Lord, my guardian angel, intercede for me.*
 
 The great characteristic of our age is not its love for religion, but its love for talking about religion. Even those who would smite God from the heavens make a religion out of this irreligion and a faith out of their doubt.
 
@@ -90,4 +91,4 @@ Our Lord does know what it is to be tempted away from divinity and the primacy o
 
 *EW*\
 \
-From *The Eternal Galilean*, Chapter IV, Fulton J. Sheen (1934)
+From *The Eternal Galilean*, Chapter IV, Fulton J. Sheen (1934)

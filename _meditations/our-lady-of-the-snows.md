@@ -15,7 +15,9 @@ By Fr. Conor Donnelly
 
 *(Proofread)*
 
-*In the name of the Father, and of the Son, and of the Holy Spirit, amen. My Lord and my God, I firmly believe that you are here. That you see me. That you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My Immaculate Mother, St. Joseph, my father and lord, my guardian angel, intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 After the promulgation of the dogma of the divine maternity of Mary at the Council of Ephesus, Pope Sixtus III consecrated a basilica in Rome in honor of the Blessed Virgin. Which was later called St. Mary Major. It's the oldest church in the world dedicated to Our Lady. Today's feast is also known as Our Lady of Snows. Due to the ancient legend about a Roman who asked the Blessed Virgin's guidance on how best to spend his fortune.
 

@@ -14,9 +14,11 @@ related: [{"slug": "our-lady-the-queen", "title": "Our Lady the Queen"}, {"slug"
 
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here. That you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins. And grace to make this time of prayer fruitful. My immaculate mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 Pius XII instituted this feast day in 1954 in response to the unanimous traditional belief in the Mother of the King of Kings and Lord of Lords as Queen. She's our mother in the order of grace. All grace has come to us through her intercession. Her coronation as Queen of all creation is intimately connected to her Assumption into Heaven. We contemplate this wonderful scene in the fifth glorious mystery of the Rosary. The Mother of Christ is glorified as Queen of the Universe.
 

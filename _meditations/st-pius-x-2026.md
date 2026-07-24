@@ -14,9 +14,11 @@ related: [{"slug": "love-for-the-church-st-pius-x", "title": "Love for the Churc
 
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My immaculate mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 Saint Pius the Tenth was born in 1835 in the small town of Riese in northern Italy. As a child, he experienced the privations of a large and poor family of ten children. His father was the mayor of the community. He excelled in continuous service to the Church, firstly as a parish priest, then as Archbishop of Venice, and finally as the Roman Pontiff.
 
