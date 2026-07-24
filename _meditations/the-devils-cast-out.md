@@ -5,8 +5,8 @@ description: "There was a four-year-old little boy once who was asked to say the
 reading_time: 17
 prev_slug: the-depths-of-simplicity
 prev_title: "The Depths of Simplicity"
-next_slug: the-dignity-of-work
-next_title: "The Dignity of Work"
+next_slug: the-dignity-of-man
+next_title: "The Dignity of Man"
 related: [{"slug": "i-came-to-cast-fire-on-earth", "title": "I Came To Cast Fire On Earth"}]
 ---
 
