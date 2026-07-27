@@ -7,7 +7,7 @@ prev_slug: beginning-again
 prev_title: "Beginning Again"
 next_slug: blessed-are-the-merciful
 next_title: "Blessed Are The Merciful"
-related: [{"slug": "little-things", "title": "Little Things"}, {"slug": "the-truth-will-make-you-free", "title": "The Truth Will Make You Free"}]
+related: [{"slug": "little-things", "title": "Little Things"}, {"slug": "the-last-things", "title": "The Last Things"}, {"slug": "the-truth-will-make-you-free", "title": "The Truth Will Make You Free"}]
 ---
 
 
