@@ -7,7 +7,7 @@ prev_slug: christmas-day-2025
 prev_title: "Christmas Day, 2025"
 next_slug: come-lord-jesus
 next_title: "Come, Lord Jesus"
-related: [{"slug": "enlarging-the-heart", "title": "Enlarging the Heart"}, {"slug": "heart-in-the-family", "title": "Heart in the Family"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}]
+related: [{"slug": "the-clean-of-heart", "title": "The Clean of Heart"}, {"slug": "enlarging-the-heart", "title": "Enlarging the Heart"}, {"slug": "heart-in-the-family", "title": "Heart in the Family"}]
 ---
 
 By Fr. Conor Donnelly

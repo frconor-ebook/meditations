@@ -6,9 +6,9 @@ reading_time: 21
 tags: ["Prayer & Interior Life", "Church & Priesthood"]
 prev_slug: personal-prayer
 prev_title: "Personal Prayer"
-next_slug: piety
-next_title: "Piety"
-related: [{"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}, {"slug": "love-for-peter", "title": "Love for Peter"}, {"slug": "st-peter", "title": "St. Peter"}]
+next_slug: peters-denials
+next_title: "Peter\u2019s Denials"
+related: [{"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}, {"slug": "love-for-peter", "title": "Love for Peter"}, {"slug": "peters-denials", "title": "Peter\u2019s Denials"}]
 ---
 
 By Fr. Conor Donnelly

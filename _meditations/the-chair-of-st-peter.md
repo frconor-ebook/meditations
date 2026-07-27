@@ -6,8 +6,8 @@ reading_time: 19
 tags: ["Saints & Feast Days", "Church & Priesthood"]
 prev_slug: the-centurion-and-his-servant
 prev_title: "The Centurion and His Servant"
-next_slug: the-communion-of-saints
-next_title: "The Communion of Saints"
+next_slug: the-clean-of-heart
+next_title: "The Clean of Heart"
 related: [{"slug": "st-peter", "title": "St. Peter"}, {"slug": "st-peter-and-st-paul", "title": "St. Peter and St. Paul"}, {"slug": "love-for-peter", "title": "Love for Peter"}]
 ---
 
