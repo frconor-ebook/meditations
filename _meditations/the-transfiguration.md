@@ -23,7 +23,7 @@ By Fr. Conor Donnelly
 
 Today is the Feast of the Transfiguration of Our Lord. It's a feast day that has been celebrated for a long time in both the Eastern and Western Churches. During the 15th century it was extended to the universal Church by Pope Calixtus III.
 
-There are two times in the liturgical year when we remember the Transfiguration in a special way: on the Second Sunday of Lent, to affirm the divinity of Christ before we commemorate His Passion; and the second, \[today\], as we recall the exaltation of Christ in anticipation of His eternal glory.
+There are two times in the liturgical year when we remember the Transfiguration in a special way: on the Second Sunday of Lent, to affirm the divinity of Christ before we commemorate His Passion; and the second, today, as we recall the exaltation of Christ in anticipation of His eternal glory.
 
 This revelation prefigured the splendor of heaven where we will see God face to face.
 
@@ -43,7 +43,7 @@ Our life is a roadway to heaven, but one that passes by way of the cross and thr
 
 Until our final moments, we will always have to swim against the current.
 
-This is what the Christian life is all about: fortitude, daring, courage. Which is stronger: the reed that is bent by the wind, or the reed that stands up against the wind?
+This is what the Christian life is all about: fortitude, daring, courage. Which is stronger: the reed that is bent by the wind, or the reed that stands up against the wind? (*cf*. Aesop, *The Oak and the Reed*).
 
 "Any dead thing can float downstream" (*cf*. G. K. Chesterton, *The Everlasting Man*). Christ has called us to swim against the current.
 
@@ -55,15 +55,15 @@ We can also get infected by that as well. Paul VI says, "Haven't we frequently f
 
 A Christ without the Cross would be a caricature of Jesus---a sweet Jesus, a nice Jesus, but a Jesus who has no moral message for young people.
 
-St. Paul VI said, "If we were to attempt to remove the cross from our lives, we would be creating illusions for ourselves and weakening the Faith, since we would have transformed Sacred Tradition into a soft and complacent style of life" (*ibid*.).
+St. Paul VI said, "If we were to attempt to remove the cross from our lives, we would be creating illusions for ourselves and weakening the faith, since we would have transformed Sacred Tradition into a soft and complacent style of life" (*ibid*.).
 
 Our Lord invites us to "enter by the narrow gate" (Matt. 7:13), and this is not the narrow path that Our Lord has pointed out.
 
 The disciples were profoundly shaken by the experience of witnessing the Passion. For this reason, Our Lord leads three of them, the ones who were to accompany Him in His agony in Gethsemane, to the summit of Mount Tabor, so they can in part contemplate His glory. There He reveals Himself in a glimpse.
 
-"In the sovereign glory," says St. Leo the Great, "he wanted to show these three, reflecting spiritual reality in a way compatible with human nature.
+"In the sovereign glory," says St. Leo, "he wanted to show these three, reflecting spiritual reality in a way compatible with human nature.
 
-"Given the limitations of mortal flesh," he says, "it is impossible for them to see the ineffable vision of God in all his majesty. That awesome sight is reserved in eternity for the clean of heart, those righteous souls who have merited eternal life" (Leo the Great, Sermon 51, *Homily on the Transfiguration*).
+"Given the limitations of mortal flesh," he says, "it is impossible for them to see the ineffable vision of God in all his majesty. That awesome sight is reserved in eternity for the clean of heart, those righteous souls who have merited eternal life" (Leo the Great, *Homily on the Transfiguration*).
 
 "Blessed are the clean of heart, for they shall see God" (Matt. 5:8). This is the reward that awaits us, if we make an effort to be faithful each day. Each day we can foster in our hearts that glorious hope of heaven.
 
@@ -141,7 +141,7 @@ What will heaven be like where, if we are faithful, we will see the glorified Ch
 
 In *The Forge,* St. Josemaría says, "My God, when will I love you for yourself alone? Although when we think about it, Lord, to desire everlasting reward is to desire you, for you give yourself as our reward" (J. Escrivá, *The Forge*, Point 1030).
 
-It's good to talk to your children about heaven. Let them dream about heaven, understand what it is, and know the goal of our earthly journey.
+It's good to talk to your children about heaven. Let them dream about heaven, understand what it is, know the goal of our earthly journey.
 
 Also, so that when the day comes that God calls you, hopefully, they know where you've gone, and that someday they will be there also.
 
@@ -153,7 +153,7 @@ How often has God spoken to us in the intimacy of our hearts? Or we've heard som
 
 The mystery that we celebrate today is a prefiguring of Christ's glory to come, and of the glory that we are invited to one day share with Him.
 
-St. Paul says: "The Spirit himself gives testimony to our spirit, that we are sons of God. But if we are sons, we are heirs also; heirs indeed of God, and joint heirs with Christ, provided, however, we suffer with him, that we also may be glorified with him" (Rom. 8:16-17).
+St. Paul says: "The Spirit himself gives testimony to our spirit, that we are sons of God. But if we are sons," he says, "we are heirs also; heirs indeed of God, and joint heirs with Christ, provided, however, we suffer with him, that we also may be glorified with him" (Rom. 8:16-17).
 
 And he adds: "For I consider that the sufferings of this present time are not worth comparing to the glory that is to be revealed in us" (Rom. 8:18).
 
@@ -161,7 +161,7 @@ We know when the Holy Spirit speaks to us.
 
 A lady told me once how, in spiritual direction in the previous week, she heard some words that struck her in a special way. She said that I had said that "the ego must go." I hadn't remembered saying any such thing.
 
-And she said, "The following day, after Mass, over breakfast with some friends, some non-Catholics joined us, and eventually after a bit of chit-chat, people left to go to work. And I was left with one particular Buddhist lady. And at a certain moment in our conversation, this friend told me, 'You know, the ego must go.'"
+And she said, "The following day, after Mass, over breakfast with some friends, some non-Catholics joined us, and eventually after a bit of chit-chat, people left to go to work. And I was left with one particular Buddhist lady. And at a certain moment in our conversation, she, whispering, told me, 'You know, the ego must go.'"
 
 This lady said, "I always know the Holy Spirit speaks through spiritual direction. But when I got the same message from this Buddhist lady within twenty-four hours, I really felt the Holy Spirit was working overtime."
 
