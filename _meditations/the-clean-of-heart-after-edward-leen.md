@@ -10,12 +10,13 @@ next_title: "The Communion of Saints"
 related: [{"slug": "st-thomas-aquinas-after-edward-leen", "title": "St Thomas Aquinas (After Edward Leen)"}, {"slug": "clean-of-heart", "title": "Clean of Heart"}, {"slug": "enlarging-the-heart", "title": "Enlarging the Heart"}]
 ---
 
-
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that You are here, that You see me, that You hear me. I adore You with profound reverence. I ask Your pardon for my sins, and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 There is no experience so bitter for the generous and the high-minded as that of being misunderstood. There is nothing which is so wounding to the sensitive heart as having the purest, noblest, most unselfish efforts towards good, not only not appreciated, but even misjudged and regarded with suspicion by those in whose interests these efforts have been expended.
 
