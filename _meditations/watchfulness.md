@@ -1,7 +1,7 @@
 ---
 layout: homily
 title: "Watchfulness"
-description: "St. Paul, speaking to the Thessalonians, says, \"But you, brothers do not live in the dark, that the Day should take you unawares like a thief. No, you are..."
+description: "St. Paul, speaking to the Thessalonians, says, \"But you, brothers, do not live in the dark, that the Day should take you unawares like a thief. No, you..."
 reading_time: 14
 tags: ["Virtues & Struggle"]
 prev_slug: walking-on-the-waterfaith
@@ -19,11 +19,11 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-St. Paul, speaking to the Thessalonians, says, "But you, brothers do not live in the dark, that the Day should take you unawares like a thief. No, you are all children of light and children of the day: we do not belong to the night or to darkness, so we should not go on sleeping, as everyone else does, but stay wide awake and sober" (1 Thess. 5:4-6).
+St. Paul, speaking to the Thessalonians, says, "But you, brothers, do not live in the dark, that the Day should take you unawares like a thief. No, you are all children of light and children of the day: we do not belong to the night or to darkness, so we should not go on sleeping, as everyone else does, but stay wide awake and sober" (1 Thess. 5:4-6).
 
 The words of St. Paul are like an invitation for us to "be watchful" (1 Cor. 16:13, 1 Pet. 5:8). To be watchful is to love.
 
-In one of the Entrance Antiphons of these days, it says, "Behold, the Lord will come in all his splendor, to give his people peace and bring them eternal life."
+In one of the *Entrance Antiphons* of these days, it says, "Behold, the Lord will come in all his splendor, to give his people peace and bring them eternal life."
 
 Our Lord is coming to visit us, to bring us peace, and to give us the eternal life promised from of old. He wants to find us like the good servant who does not fall asleep during his master's absence (Mark 13:35) but rather, when the master returns is found at his post, devoted to his duty.
 
@@ -45,13 +45,13 @@ Keeping watch is above all a matter of loving: keeping watch in our interior lif
 
 At the same time, we may have difficulties in keeping our love awake because there's selfishness, there's a lack of mortification or temperance that always threaten to extinguish the flame that Our Lord lights time and again in our hearts.
 
-When we see the world around us being intemperate, it's a reminder to us to practice this virtue in all things. Temperance, which means control, often requires a little bit less of what we like, a little more of what we don't like, so we keep ourselves in good shape.
+When we see the world around us being intemperate, it's a reminder to us to practice this virtue in all things. Temperance, which means control, often means a little bit less of what we like, a little more of what we don't like, so we keep ourselves in good shape.
 
 We need constantly to revive that flame, to shake ourselves out of any repetitive routine, to struggle. In the Old Testament we're told, "The life of man on earth is a battle" (Job 7:1). It's a struggle.
 
 St. Paul compares this watchfulness to the well-armed soldier on guard duty: "Be vigilant, stay firm in the faith, be brave and strong" (1 Cor 16:13). He doesn't allow himself to be taken by surprise.
 
-The first Christians repeated frequently and lovingly the aspiration, "Come, Lord Jesus." The Responsorial Psalm of these days repeats those words for us.
+The first Christians repeated frequently and lovingly the aspiration, "Come, Lord Jesus" (Rev. 22:20). The *Responsorial Psalm* of these days repeats those words for us.
 
 Through practicing their faith in this way, those faithful members of the Church found the interior strength and optimism that they needed if they were to fulfill their family and social duties. At the same time, they detached themselves interiorly from earthly goods, with the mastery that comes from the hope of eternal life.
 
@@ -75,9 +75,11 @@ We will also stay awake to the things of God by living a spirit of mortification
 
 We strengthen our vigilance by doing a careful examination of conscience so that we do not fall into the situation described by God.
 
-St. Augustine, in one of his sermons, says, "For while you give yourself up to evil, you come to consider yourself good because you do not take the trouble to look at yourself. You reproach others and you do not take stock of yourself. You accuse others and you do not examine yourself.
+St. Augustine, in one of his sermons, says, "For while you give yourself up to evil, you come to consider yourself good because you do not take the trouble to look at yourself.
 
-"You place them before your very eyes and you place yourself behind your back. So when the time comes for me to reckon with you, I should do the opposite; I will turn you around and confront you with yourself. Then you will see yourself and you will weep" (St. Augustine, *Sermon 17*).
+"You reproach others and you do not take stock of yourself. You accuse others and you do not examine yourself. You place them before your very eyes and you place yourself behind your back.
+
+"So when the time comes for me to reckon with you, I should do the opposite; I will turn you around and confront you with yourself. Then you will see yourself and you will weep" (St. Augustine, *Sermon 17*).
 
 We can ask Our Lord that our vigilance might be in the little things that fill up our day. We are told in *The Way:* "That supernatural mode of conduct is a truly military tactic. You carry on the war---the daily struggles of your interior life---far from the main walls of your fortress. And the enemy meets you there: in your small mortifications, your customary prayer, your methodical work; your plan of life: and only with difficulty will he come close to the easily-scaled battlements of your castle. And if he does come, he comes exhausted" (Josemaría Escrivá, *The Way*, Point 307).
 
@@ -89,7 +91,7 @@ In our meditation, we also find the means to struggle against the 'old person,' 
 
 Maybe the Holy Spirit will give us greater lights during this period of Advent and of penance, to see ourselves as we are before God with all our miseries and with all our nothingness.
 
-To achieve this necessary interior purification we need to practice constant mortification of our memory, of our imagination.
+To achieve this necessary interior purification, we need to practice constant mortification of our memory, of our imagination.
 
 If we do this, we'll be able to eliminate from our understanding those troublesome things that prevent us from carrying out the will of God to the full.
 
@@ -99,7 +101,7 @@ Lord, help me to see the places where I'm negligent. It may not be that we commi
 
 Those things that we say in the "I Confess" every day in the Mass; the things that we fail to do, our omissions, because God is hoping for more from each one of us. If we try to clean out those things from our mind, then our mind will no longer have anything in them that does not belong to Our God.
 
-In *The Way*, we're told, "That joke, that witty remark held on the tip of your tongue; the cheerful smile for those who annoy you; that silence when you're unjustly accused; your friendly conversation with people whom you find boring and tactless; the daily effort to overlook one irritating detail or another in the persons who live with you\...this, with perseverance is indeed solid interior mortification" (J. Escrivá, *The Way*, Point 173).
+In *The Way*, we're told, "That joke, that witty remark held on the tip of your tongue; the cheerful smile for those who annoy you; that silence when you're unjustly accused; your friendly conversation with people whom you find boring and tactless; the daily effort to overlook one irritating detail or another in the persons who live with you\...this, with perseverance, is indeed solid interior mortification" (J. Escrivá, *The Way*, Point 173).
 
 May Our Lord help us to see this. We do need that solid interior mortification. And that purification of the soul through interior mortification is not something merely negative.
 
@@ -119,9 +121,9 @@ We're told in *The Way*, "Get rid of those useless thoughts which, at best, are 
 
 While we try to read things that are useful, we also have to try and think things that are useful. Don't waste your time thinking about useless things. Be very focused, effective, use your time well. We have to react quickly in those situations and return serenely to our ordinary task.
 
-Interior purification does not end with just emptying the understanding of useless thoughts. It goes much further. Mortification of our talents and abilities opens up to us the way to contemplative life, in whatever circumstances God has wanted to place us. He wants us to know how to be contemplative there, like Our Lady pondering all these things carefully in our hearts (*cf*. Luke 2:19).
+Interior purification does not end with just emptying the understanding of useless thoughts. It goes much further. Mortification of our talents and abilities opens up to us the way to contemplative life, in whatever circumstances God has wanted to place us. He wants us to know how to be contemplative there, like Our Lady pondering all these things carefully in her heart (*cf*. Luke 2:19).
 
-With that interior silence towards everything that goes against God's wishes and is improper to His children, a soul finds itself well-disposed for a continuous and intimate dialogue with Jesus Christ.
+With that interior silence towards everything that goes against God's wishes and is improper to His children, a soul finds itself well disposed for a continuous and intimate dialogue with Jesus Christ.
 
 Lord, help us to see everything in our life, in our mind, in our imagination that might go against your wishes. Help us to listen to the whisperings of the Holy Spirit as He points things out to us.
 

@@ -7,7 +7,7 @@ prev_slug: the-chair-of-st-peter
 prev_title: "The Chair of St. Peter"
 next_slug: the-communion-of-saints
 next_title: "The Communion of Saints"
-related: [{"slug": "clean-of-heart", "title": "Clean of Heart"}, {"slug": "enlarging-the-heart", "title": "Enlarging the Heart"}, {"slug": "heart-in-the-family", "title": "Heart in the Family"}]
+related: [{"slug": "st-thomas-aquinas-after-edward-leen", "title": "St Thomas Aquinas (After Edward Leen)"}, {"slug": "clean-of-heart", "title": "Clean of Heart"}, {"slug": "enlarging-the-heart", "title": "Enlarging the Heart"}]
 ---
 
 

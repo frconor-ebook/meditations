@@ -5,8 +5,8 @@ description: "\"The most fundamental question of Christian life is this: How sho
 reading_time: 16
 prev_slug: spiritual-direction
 prev_title: "Spiritual Direction"
-next_slug: st-andrew
-next_title: "St. Andrew"
+next_slug: st-thomas-aquinas-after-edward-leen
+next_title: "St Thomas Aquinas (After Edward Leen)"
 related: [{"slug": "spiritual-childhood", "title": "Spiritual Childhood"}, {"slug": "spiritual-direction", "title": "Spiritual Direction"}]
 ---
 

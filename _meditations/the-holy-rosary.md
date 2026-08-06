@@ -6,8 +6,8 @@ reading_time: 21
 tags: ["Our Lady"]
 prev_slug: the-holy-name-of-mary
 prev_title: "The Holy Name of Mary"
-next_slug: the-imagination-and-interior-mortification
-next_title: "The Imagination and Interior Mortification"
+next_slug: the-house-of-god
+next_title: "The House of God"
 related: [{"slug": "our-lady-of-the-rosary-2026", "title": "Our Lady of the Rosary (2026)"}, {"slug": "the-holy-name-of-mary", "title": "The Holy Name of Mary"}, {"slug": "vigilance-and-the-rosary", "title": "Vigilance and the Rosary"}]
 ---
 

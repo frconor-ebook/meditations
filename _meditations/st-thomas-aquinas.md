@@ -8,7 +8,7 @@ prev_slug: st-thomas
 prev_title: "St. Thomas"
 next_slug: st-thomas-more
 next_title: "St. Thomas More"
-related: [{"slug": "st-thomas", "title": "St. Thomas"}, {"slug": "st-thomas-more", "title": "St. Thomas More"}, {"slug": "st-thomas-more-and-st-john-fisher-2026", "title": "St. Thomas More and St. John Fisher (2026)"}]
+related: [{"slug": "st-thomas-aquinas-after-edward-leen", "title": "St Thomas Aquinas (After Edward Leen)"}, {"slug": "st-thomas", "title": "St. Thomas"}, {"slug": "st-thomas-more", "title": "St. Thomas More"}]
 ---
 
 
