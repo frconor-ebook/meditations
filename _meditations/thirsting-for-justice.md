@@ -25,7 +25,7 @@ Occasionally in Scripture, Our Lord talks about justice. It's one of the cardina
 
 The virtue of religion is part of the virtue of justice. We give God His due.
 
-"Every day we interact with people in different capacities and relationships. In order to ensure that those interactions go smoothly, human beings have developed rights and obligations that each individual and community needs to recognize. The virtue of justice guides men in their quest to respect those boundaries and responsibilities" (Brett and Kate McKay, *The Virtuous Life: Justice*, *ff*., April 20, 2008).
+"Every day we interact with people in different capacities and relationships. In order to ensure that those interactions go smoothly, human beings have developed rights and obligations that each individual and community needs to recognize. The virtue of justice guides men in their quest to respect those boundaries and responsibilities" (Brett and Kate McKay, *The Virtuous Life: Justice*, *ff*. April 20, 2008).
 
 St. Thomas Aquinas defined justice as "the constant and perpetual will to render to everyone his due, to give to each person that to which they have a right" (*cf*. Thomas Aquinas, *Summa Theologiae*, Part II, II, Question 58).
 
@@ -39,7 +39,7 @@ You don't ride your donkey across the tennis court, or you don't drive your car 
 
 Injustice occurs when somebody denies an individual or a group things that are due to them.
 
-To be a just person, one needs to develop knowledge of the rights and responsibilities that govern our work, our study, our family, our assignments, our country. Much of this knowledge is developed simply by interacting with others, and also begins at a very early age.
+To be a just person, one needs to develop knowledge of the rights and responsibilities that govern our work, our study, our family, our assignments, our country. Much of this knowledge is developed simply by interacting with others and also begins at a very early age.
 
 Children have to learn justice at an early age. If you make a mess, you clean up your mess. If you break or damage something, you try and repair the damage. If you injure somebody, you've got to say you're sorry and you try to restore the damage in whatever way you can.
 
@@ -61,13 +61,13 @@ We do justice to the State by obeying just laws. We do justice to any organizati
 
 One time, somebody came to Our Lord and said, "Bid my brother divide the inheritance to me" (Luke 12:13).
 
-Now, Our Lord didn't allow himself to be drawn on this particular issue. He limited Himself to giving general criteria. He said, "Beware of all covetousness" (Luke 12:15).
+Now, Our Lord didn't allow Himself to be drawn on this particular issue. He limited Himself to giving general criteria. He said, "Beware of all covetousness" (Luke 12:15).
 
 Often, God gives general criteria about right and wrong and leaves it to men, to governments, to parents, to school authorities to bring those general criteria and apply them to concrete situations.
 
 That's why there are laws in society or laws in a family. Different laws are needed in different situations.
 
-Dr. Martin Luther King liked to say, "Justice denied anywhere diminishes justice everywhere."
+Dr. Martin Luther King liked to say, "Justice denied anywhere diminishes justice everywhere" (*cf*. Martin Luther King, *Letter from Birmingham* Jail, April 16, 1963).
 
 As followers of Christ, we have to try and have a concern for justice.
 
@@ -111,7 +111,7 @@ Instead of complaining about the evils in society, we have to try and do somethi
 
 Justice in our communications. If we're insincere with other people, we deny that other person the right to truth. If we gossip about another person, we blacken the name of that person, without allowing them the chance to defend themselves.
 
-Aristotle says, "All virtue is summed up in dealing justly."
+Aristotle says, "All virtue is summed up in dealing justly" (Aristotle, *Nicomachean Ethics*, Book V).
 
 If the conductor on the bus or the *matatu* forgets to ask us for our fare, then we try and offer it to him.
 
@@ -123,7 +123,7 @@ A Christian employer will make sure the workers have enough time off. They won't
 
 He'll be trying to improve standards all the time, without having any double standards. In that way, the whole workplace may become a place of formation. He won't get their employees to work overtime without pay, or to cheat them from benefits that they've earned.
 
-In turn, just employees won't cheat their employer by not working when they're paid to work. They'll be punctual, conscientious. They'll work at improving their competence. They'll meet deadlines, they'll be proactive, they'll have a service orientation. They'll use company money, and time, and resources responsibly and account for it.
+In turn, just employees won't cheat their employer by not working when they're paid to work. They'll be punctual, conscientious. They'll work at improving their competence. They'll meet deadlines, they'll be proactive, they'll have a service orientation. They'll use company money and time and resources responsibly and account for it.
 
 Justice in the public arena also becomes very important. If there are corrupt politicians, it may be because of the apathy of voters who don't voice an outcry as the ship of democracy slowly sinks.
 
@@ -133,7 +133,7 @@ If we can, we're called to try and be involved in public life. And even if we ca
 
 Often you can hear people talking a lot about social justice, but there can be very little justice for the unborn.
 
-Standing on American soil one time, John Paul II had the audacity to say that there is no true democracy when there is no democracy for the unborn (*cf*. John Paul II, Encyclical, *Evangelium vitae*, Point 101, March 25, 1995). He called out the most powerful country in the world that prides itself on being democratic.
+Standing on American soil one time, John Paul II had the audacity to say that there is no true democracy when there is no democracy for the unborn (*cf*. John Paul II, Encyclical, *Evangelium vitae*, Point 101, March 25, 1995; *cf*. Apostolic Journey to the United States and Canada, *Address*, Point 3, September 19, 1987). He called out the most powerful country in the world that prides itself on being democratic.
 
 We need to get involved in campaigns to help the problems of the homeless or the elderly, or to go door to door sometimes spreading a message, put out a sign someplace, or form activist groups, distribute leaflets at school.
 
@@ -241,11 +241,11 @@ We care for the environment. We don't throw banana skins out the car window or t
 
 There was a story of a lady once who told her little girl not to throw paper on the floor. And then the mother took up the piece of paper and threw it out the window.
 
-We think about the environment. We care for the place that we live in. We try to be part of the solution. We don't add to the problem. And very often a good example in this area can be very helpful.
+We think about the environment. We care for the place that we live in. We try to be part of the solution. We don't add to the problem. And very often, good example in this area can be very helpful.
 
 The virtue of solidarity is part of the virtue of justice. It's "not a feeling of vague compassion or shallow distress at the misfortunes of so many people, both near and far. On the contrary," we are told, "solidarity is a firm and persevering determination to commit oneself to the common good" (John Paul II, Encyclical, *Sollicitudo rei socialis*, Point 38, December 30, 1987).
 
-The common good means the well-being of each individual in society. It doesn't matter who they are, where they came from, what the color of their skin is, what the accents that they speak with, or a whole pile of other incidental factors.
+The common good means the well-being of each individual in society. It doesn't matter who they are, where they came from, what the color of their skin is, what the accents are that they speak with, or a whole pile of other incidental factors.
 
 They are a human person. Therefore, I have to care for their well-being, to care for the good of all, and each individual, because we are responsible for all.
 
@@ -263,13 +263,13 @@ Be very careful of wasting food, or time, or money. Teach children from an early
 
 The few shillings that we might throw away on some unnecessary thing could be of great value to some other person.
 
-Pope St. John Paul says also: "But to man is due also his good name, respect, consideration, the reputation he has deserved. The more we know a person, the more their personality, their character, their intellect, and their heart are revealed to us. And the more we realize---and we must realize!---with what criterion to 'measure him' and what it means to be just towards that person" (*ibid*.).
+Pope St. John Paul says also: "But to man is due also his good name, respect, consideration, the reputation he has deserved. The more we know a person," he says, "the more their personality, their character, their intellect, and their heart are revealed to us. And the more we realize---and we must realize!---with what criterion to 'measure him' and what it means to be just towards that person" (*ibid*.).
 
 Justice with the elderly means we are a bit more patient with them. We see what they need. Are they taken care of? Do they feel lonely? Do they need a phone call? Can we let them go in front of us in certain ways?
 
 We could ask God for the grace to see how we could foster the social doctrine of the Church everywhere.
 
-In one of his encyclicals, John Paul said, "To teach and spread her social doctrine pertains to the Church's evangelizing mission and is an essential part of the Christian message, since this doctrine points out the direct consequences of that message in the life of society and situates daily work and struggles for justice in the context of bearing witness to Christ the Savior" (John Paul II, Encyclical, *Centesimus Annus*, Point 5, May 1, 1991).
+In one of his Encyclicals, John Paul said, "To teach and to spread her social doctrine pertains to the Church's evangelizing mission and is an essential part of the Christian message, since this doctrine points out the direct consequences of that message in the life of society and situates daily work and struggles for justice in the context of bearing witness to Christ the Savior" (John Paul II, Encyclical, *Centesimus Annus*, Point 5, May 1, 1991).
 
 I heard a doctor in Asia once saying that we can be very proud of our Church, because our Church is the number one healthcare worker in the world. It's a very beautiful thing to hear.
 
@@ -277,9 +277,9 @@ Somebody is working in the name of the Catholic Church in every major city in th
 
 There's somebody working there in the name of the Catholic Church, the number one healthcare worker in the world, and often one of the greatest educators.
 
-John Paul also says in *Centesimus annus:* "The first and fundamental structure for 'human ecology' is the family, in which man receives his first formative ideas about truth and goodness, and learns what it means to love and to be loved, and thus, what it actually means to be a person.
+John Paul also says in *Centesimus annus:* "The first and fundamental structure for 'human ecology' is the family, in which man receives his first formative ideas about truth and goodness, and learns what it means to love and to be loved, and thus what it actually means to be a person.
 
-"Here," he says, "we mean the family founded on marriage, in which the mutual gift of self by husband and wife creates an environment in which the children can be born and develop their potentialities, become aware of their dignity, and prepare to face their unique and individual destiny" (*ibid*., Point 39). They learn how to be citizens.
+"Here," he says, "we mean the *family founded on marriage*, in which the mutual gift of self by husband and wife creates an environment in which the children can be born and develop their potentialities, become aware of their dignity, and prepare to face their unique and individual destiny" (*ibid*., Point 39). They learn how to be citizens.
 
 There is a social dimension to capital. People who have capital have to try and see how they can improve the lot of people around them with the capital that they have.
 
@@ -287,9 +287,7 @@ As we grow in our abilities and perhaps in our wealth, it's a constant idea we h
 
 Our Lady, when she heard that she was to be the Mother of God and that Elizabeth had conceived, immediately thought about her cousin.
 
-And she didn't just think about her. She went into the hill country to visit her. She didn't just spend a few hours there or a few days; she spent three months (Luke 1:39,56).
-
-It was a serious contribution. Her first thought was to help Elizabeth in her need.
+And she didn't just think about her. She went into the hill country to visit her. She didn't just spend a few hours there or a few days; she spent three months (Luke 1:39,56). It was a serious contribution. Her first thought was to help Elizabeth in her need.
 
 We could ask Our Lady, who personifies all the virtues, that she might teach us to live this virtue of justice with a greater refinement, and to teach people around us to do the same thing all through their lives.
 
