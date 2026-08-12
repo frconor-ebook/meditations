@@ -79,23 +79,21 @@ God pardons those who pardon others. We are all the time in need of the pardon o
 
 We are invited by Him to show that same pardon to others. The mercy that we show to others is the same mercy that will be shown to us.
 
-\[Ecclesiasticus\] says, "He who exacts vengeance will experience the vengeance of the Lord, who keeps strict account of sin. Forgive your neighbor for the hurt he does you, and when you pray your sins will be forgiven. If a man nurses anger against another, can he then demand compassion from the Lord?" (Ecclus. 28:1-3).
+\[Ecclesiasticus\] says, "He who exacts vengeance will experience the vengeance of the Lord, who keeps strict account of sin. Forgive your neighbor for the hurt he does you, and when you pray your sins will be forgiven. If a man nurses anger against another, can he then demand compassion from the Lord?" (Eccles. 28:1-3).
 
 Our Lord has perfected this command by extending it to every person and every offense. There is no offense that is unforgivable.
 
 Through His death on the Cross, Christ has made all men brothers in a new creation. Everybody is part of that.
 
-But good old St. Peter wondered if this teaching was going a bit too far. His is a rather calculating mentality. Surely there should be some limit to our forgiveness.
+But good old St. Peter wondered if this teaching was going a bit too far. His is a rather calculating mentality.
 
-If this person really hurts me, if they have done some injustice, if they really deserve something or other for what they have done, shouldn't we deliver that something or other?
+Surely there should be some limit to our forgiveness? If this person really hurts me, if they have done some injustice, if they really deserve something or other for what they have done, shouldn't we deliver that something or other?
 
 Our Lord bids him to hold his tongue, change his heart, change his mind, his orientation, his attitude.
 
 It's not a question of mathematical calculation, when we keep a scorecard of past wrongs, up to here and no further. 'I take this amount, but I won't take any more than that.'
 
-Christ wants us to learn how to overcome evil through the power of His infinite love.
-
-He wants us to put that into practice in the ordinary things of every day. He tells us this is the only way that we will attract the infinite mercy of God.
+Christ wants us to learn how to overcome evil through the power of His infinite love. He wants us to put that into practice in the ordinary things of every day. He tells us this is the only way that we will attract the infinite mercy of God.
 
 To forgive from our heart requires true faith, deep faith. Due to the intensity of their faith, holy souls and saints who have lived their lives in imitation of Christ often did not see the need to forgive.
 
@@ -105,7 +103,7 @@ We can look at our life and our heart, our conscience, to see if we are holding 
 
 Has my pardon been speedy, sincere, wholehearted, unreserved?
 
-"If somebody annoys us fifty thousand times, that's how often we have to forgive them. Our patience has to get ahead of our bad feelings. We have to wear out our feelings before they provoke more harm" (John of Ávila, *Sermon 25*).
+"If somebody annoys us fifty thousand times, that's how often we have to forgive them. Our patience has to get ahead of our bad feelings. We have to wear out our feelings before they provoke more harm" (*cf*. John of Ávila, *Sermon 25*).
 
 Lent is a very good time for us to look and see: How am I forgiving others? Lord, help me to imitate your paternal mercy.
 
@@ -131,7 +129,7 @@ She lived in Belfast during the troubled times, and one day her younger brother 
 
 Her father who was there stopped her in her tracks and said, "Don't you go out and do anything, because if you go and do something, there will be another family in this town who is in the same situation as we are in now."
 
-The words from the merciful heart of a normal father of a family stopped her in her tracks. In that crucial moment in their family life, that father had known how to summon up words of forgiveness, mercy, patience, of kindness, and those words got engraved in her heart.
+The words from the merciful heart of a normal father of a family stopped her in her tracks. In that crucial moment in their family life, that father had known how to summon up words of forgiveness, of mercy, of patience, of kindness, and those words got engraved in her heart.
 
 That father didn't know that his daughter was going to grow up and become a professor of law, and then become the president of the country and go on state tours of other countries; that she would bring out this anecdote in one of her speeches.
 
@@ -169,7 +167,7 @@ At the Tenth Station of the Cross, Our Lord is stripped of His garments. He stan
 
 "Far be it from us," we are told in *Friends of God*, "therefore, to remember who has offended us or the humiliations we have endured---no matter how unjust, uncivil, or unmannered they may have been---because it would not be right for a son of God to be preparing and keeping some kind of dossier from which to read off a list of grievances" (J. Escrivá, *Friends of God*, Point 309).
 
-We don't keep a list of grievances. Although my neighbor may not improve, although repeatedly they might commit the same offense or do something that offends me, Our Lord wants us to avoid all bitterness.
+We don't keep a list of grievances. Although my neighbor may not improve, although over and over again they might commit the same offense or do something that offends me, Our Lord wants us to avoid all bitterness.
 
 Keep love in our hearts, because the only thing that has any value in the eyes of God is love. He teaches us to love with all our hearts. Lord, keep my heart pure and clean from all enmity.
 
@@ -193,11 +191,11 @@ Help us to let those things pass onto the bridge, to keep our *presence of God*.
 
 Lord, are there any reactions that I have to the little irritations of each day? I have to find a way to holiness there.
 
-"If your neighbor does wrong to you, you have to forgive him," says Our Lord (*cf*. Mark 11:25). "Charity is patient. Charity is kind" (1 Cor. 13:4).
+"If your neighbor does wrong to you, you have to forgive him," says Our Lord (*cf*. Luke 17:4). "Charity is patient. Charity is kind" (1 Cor. 13:4).
 
 In forgiving and forgetting, it is we who have the most to gain. Our life becomes more joyful and more serene, and trifles don't upset us.
 
-We're told in the *Furrow,* *"*It is true that life, which by its nature is already rather narrow and uncertain, sometimes becomes difficult. ---But that will help you to become more supernatural and to see the hand of God \[in everything\]. Then you will be more human and understanding with those around you" (J. Escrivá, *Furrow*, Point 762).
+We're told in the *Furrow,* *"*It is true that life, which by its nature is already rather narrow and uncertain, sometimes becomes difficult. But that will help you to become more supernatural and to see the hand of God in everything. Then you will be more human and understanding with those around you" (J. Escrivá, *Furrow*, Point 762).
 
 There is probably nothing that attracts people more to the apostolate than that they see that loving heart that is there inside us: our words, our gestures, the atmosphere we carry with us.
 
