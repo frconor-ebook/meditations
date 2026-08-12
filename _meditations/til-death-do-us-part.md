@@ -17,7 +17,7 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"God made them male and female. 'For this reason, a man shall leave his father and mother and be joined to his wife, and the two shall become one.' So they are no longer two, but one. What therefore God has joined together, let not man put asunder" (Mark 10:6-9).
+"God made them male and female. 'For this reason, a man shall leave his father and mother and be joined to his wife, and the two shall become one.' So they are no longer two, but one. What therefore God has joined together, let not man put asunder" (Matt. 19:4-6; Mark 10:2-9).
 
 Our Lord was teaching in Judea on the banks of the Jordan to a great multitude (Mark 10:1). They were listening closely to every word. Reports of what Our Lord was saying reached some of the Pharisees, who wanted to test Him.
 
@@ -25,35 +25,35 @@ They asked Our Lord to pass judgment on the Mosaic law. "Is it lawful for a man 
 
 Moses had permitted divorce because of the hardness of the heart of the Chosen People. The condition of woman at this time was ignominious. She could be put aside by her husband for virtually any reason. Moses required that the husband give the wife a certificate of repudiation, ('a bill of divorce'), so that she might be free to marry again.
 
-The prophets spoke out against divorce when they came to the Promised Land, as we are told in the Book of Malachi (cf. Mal. 2:13-16).
+The prophets spoke out against divorce when they came to the Promised Land, as we are told in the Book of Malachi (*cf*. Mal. 2:13-16).
 
 Our Lord takes this opportunity to affirm the indissolubility of marriage, as God originally intended at Creation.
 
 He quotes the words of Genesis: "'God made them male and female.' 'For this reason, a man shall leave his father and mother and be joined to his wife, and the two shall become one.' They are no longer two but one. What therefore God has joined together, let not man put asunder" (Gen. 2:18-24).
 
-Our Lord declares that the unity and indissolubility of marriage have been established from the beginning. This teaching was so surprising to the disciples that once they had left the crowd, they asked Our Lord to explain it to them again.
+Our Lord declares that the unity and indissolubility of marriage have been established "from the beginning." This teaching was so surprising to the disciples that once they had left the crowd, they asked Our Lord to explain it to them again.
 
-Our Lord said, \"Whoever divorces his wife and marries another commits adultery against her; and if she divorces her husband and marries another, she commits adultery" (Mark 10:11-12).
+Our Lord said, "Whoever divorces his wife and marries another commits adultery against her; and if she divorces her husband and marries another, she commits adultery" (Mark 10:11-12).
 
 It would be hard to express the matter more clearly. His words were of an unmistakable clarity. We could wonder how it's possible that there are Christians who call into doubt this teaching on marriage and continue to consider themselves followers of Christ.
 
 "It is a fundamental duty of the Church to reaffirm strongly the doctrine of the indissolubility of marriage" (John Paul II, Apostolic Exhortation, *Familiaris consortio*, Point 20, November 22, 1981).
 
-It\'s worth considering sometimes Pope Clement VII at the time of Henry VIII, who wanted his marriage dissolved and to proclaim himself head of the Church of England. The Pope refused. If the Pope had given in, the world might have been more Catholic today in a certain sense, but it would have lost one of its great jewels: the truth about the institution of marriage and its indissolubility.
+It's worth considering sometimes Pope Clement VII at the time of Henry VIII, who wanted his marriage dissolved and to proclaim himself head of the Church of England. The Pope refused. If the Pope had given in, the world might have been more Catholic today in a certain sense, but it would have lost one of its great jewels: the truth about the institution of marriage and its indissolubility.
 
 We have a debt of gratitude to that particular Pope on that particular point, for handing down the doctrine of Christ to us in all of its integrity.
 
-\[Pope John Paul II\] says, \"To all those who in our times consider it too difficult, or impossible, to be bound to one person for the whole of life, or to those who are caught up in a culture that rejects the indissolubility of marriage or openly mocks the commitment of spouses to fidelity, it is necessary to reconfirm the good news of the definitive nature of that conjugal love that has in Christ the foundation and strength (cf. Eph. 5:25).
+\[Pope John Paul II\] says, "To all those who in our times consider it too difficult, or impossible, to be bound to one person for the whole of life, or to those who are caught up in a culture that rejects the indissolubility of marriage or openly mocks the commitment of spouses to fidelity, it is necessary to reconfirm the good news of the definitive nature of that conjugal love that has in Christ the foundation and strength (*cf*. Eph. 5:25).
 
-"Being rooted in the personal and total self-giving of the couple, and being required by the good of the children, the indissolubility of marriage finds its ultimate truth in the plan that God has manifested in his revelation" (*Ibid*.).
+"Being rooted in the personal and total self-giving of the couple, and being required by the good of the children, the indissolubility of marriage finds its ultimate truth in the plan that God has manifested in his revelation" (*ibid*.).
 
 The dignity and stability of marriage is of the greatest importance for the future of families, of children, and of society itself. The moral health of peoples is closely tied to the condition of matrimony.
 
-\"When matrimony is corrupted,\" a spiritual writer says, \"then society itself is sick, perhaps gravely ill" (cf. Frank Sheed, *Society and Sanity*).
+"When matrimony is corrupted," a spiritual writer says, "then society itself is sick, perhaps gravely ill" (*cf*. Frank Sheed, *Society and Sanity*).
 
-This is why we need to pray for and take care of families. Scandal can be converted into an opportunity to give good doctrine, to "overcome evil with an abundance of good" (cf. Rom. 12:21).
+This is why we need to pray for and take care of families. Scandal can be converted into an opportunity to give good doctrine, to "overcome evil with an abundance of good" (*cf*. Rom. 12:21).
 
-St. Josemaría says, \"In national life, there are two things which are really essential: the laws concerning marriage and the laws to do with education. In these areas, God\'s children have to stand firm and fight with toughness and fairness, for the sake of all mankind" (Josemaría Escrivá, *The Forge*, Point 104).
+St. Josemaría says, "In national life, there are two things which are really essential: the laws concerning marriage and the laws to do with education. In these areas, God's children have to stand firm and fight with toughness and fairness, for the sake of all mankind" (Josemaría Escrivá, *The Forge*, Point 104).
 
 When Our Lord elevated matrimony to the dignity of a sacrament, He was doing something completely unprecedented.
 
@@ -71,7 +71,7 @@ Those who marry begin a new life in the company of the Lord. God Himself has cal
 
 St. Josemaría says, "For a Christian marriage is not just a social institution, much less a remedy for human weakness. It is a real supernatural calling. 'A great sacrament,' says St. Paul, 'in Christ and in the Church' (Eph. 5:32). \... It is a permanent contract that sanctifies in cooperation with Jesus Christ.
 
-"He fills the souls of husband and wife and invites them to follow him. He transforms their whole married life into an occasion for God\'s presence on earth" (J. Escrivá, *Christ Is Passing By*, Point 23).
+"He fills the souls of husband and wife and invites them to follow him. He transforms their whole married life into an occasion for God's presence on earth" (J. Escrivá, *Christ Is Passing By*, Point 23).
 
 Pope John Paul I spoke of the greatness of matrimony to a group of newlyweds.
 
@@ -81,7 +81,7 @@ One philosopher or author at that time, Henri Lacordaire, said: "He is so gifted
 
 But no, he met a nice girl and they got married. Lacordaire was disappointed and said, "Poor Ozanam! He too has fallen into the trap!"
 
-Two years later, Lacordaire came to Rome and was received by the Pope. And the Pope said, "I\'ve always heard that Jesus established seven sacraments. Now you come along and change everything. You tell me that he established six sacraments and a trap!"
+Two years later, Lacordaire came to Rome and was received by the Pope. And the Pope said, "I've always heard that Jesus established seven sacraments. Now you come along and change everything. You tell me that he established six sacraments and a trap!"
 
 "No," the Pope said, "marriage is not a trap---it is a great sacrament!" (John Paul I, *Address*, September 13, 1978).
 
@@ -93,7 +93,7 @@ God often calls the children of generous parents to lead lives of virginity or c
 
 God took great care to prepare the family which would receive His Son: Joseph, of the house and lineage of David (Luke 2:4), would serve as the earthly father on equal terms with Mary, the virginal Mother. Our Lord wanted to show in His own family a shining model of formation, protection, and love.
 
-The documents of the Church talk about the family as the "primary vital cell of society" (Vatican II, *Apostolicam actositatem*, Point 11, November 18, 1965), and, in a certain manner, of the Church itself (cf. John Paul II, Apostolic Exhortation, *Familiaris consortio*, Point 3, 42, November 22, 1981).
+The documents of the Church talk about the family as the "primary vital cell of society" (Vatican II, *Apostolicam actositatem*, Point 11, November 18, 1965), and, in a certain manner, of the Church itself (*cf*. John Paul II, Apostolic Exhortation, *Familiaris consortio*, Point 3, 42, November 22, 1981).
 
 The family has a sacred status which deserves the veneration and attention of all its members, of civil society itself, and of the entire Church.
 
@@ -107,7 +107,7 @@ It is in the midst of family life that each person finds his or her own vocation
 
 St. Paul wrote to the Christians of Galatia with all the tenderness of a father and a mother. He knew of the difficulties they were experiencing in their new-found faith.
 
-St. Paul suffered at his inability to look after these believers who lived so far away. "My little children," he said, "with whom I am again in travail until Christ is formed in you!" (Gal. 4:19). He compares them to the child in a mother\'s womb. The apostle felt a paternal responsibility for his children in need.
+St. Paul suffered at his inability to look after these believers who lived so far away. "My little children," he said, "with whom I am again in travail until Christ is formed in you!" (Gal. 4:19). He compares them to the child in a mother's womb. The apostle felt a paternal responsibility for his children in need.
 
 The Church teaches us that people who foster our faith through preaching and Baptism should also be seen as parents. We participate in the spiritual paternity of the many Christians whom we have helped to find Christ.
 
@@ -115,7 +115,7 @@ Sometimes, that formation entails suffering and fatigue. This paternity increase
 
 The Church teaches us that the family is that first school of virtues, a domestic Church. The role of parents in forming their children, humanly and spiritually, cannot be replaced (*Catechism of the Catholic Church*, Point 2223).
 
-It\'s good for parents to bring this to their prayer in a regular way: How can I foster more formation in my children? How can I teach them by word and example how to practice different virtues or communicate the truths--- the beautiful truths of marriage and a family---with my life, and sometimes with my silence?
+It's good for parents to bring this to their prayer in a regular way: How can I foster more formation in my children? How can I teach them by word and example how to practice different virtues or communicate the truths--- the beautiful truths of marriage and a family---with my life, and sometimes with my silence?
 
 God manifests His fatherhood to Christians, says St. Thomas Aquinas, "like a teacher who instructs not only his disciples but whoever is capable of understanding him" (Thomas Aquinas, *Summa Theologiae*, Part I, Question 103).
 
@@ -123,11 +123,11 @@ This spiritual paternity is an important part of the earthly reward which God gr
 
 St. Josemaría says, "He is generous. He returns a hundredfold; and this is true even of children. Many deprive themselves of children for the sake of his glory, and they have thousands of children of their spirit---children, as we are children of Our Father in heaven" (J. Escrivá, *The Way,* Point 779).
 
-Every effort that mothers or fathers make to form their children, God repays them a hundredfold later on.
+Every effort that mothers or fathers make to form their children---God repays them a hundredfold later on.
 
-An American educationalist likes to tell parents that "No" is also a loving word. Children need to hear those loving words of denial from time to time. Even if they react, they know there is truth there, there is love there (cf. James B. Stenson, *Coming Down the Home Stretch*).
+An American educationalist likes to tell parents that "No" is also a loving word. Children need to hear those loving words of denial from time to time. Even if they react, they know there is truth there, there is love there (*cf*. James B. Stenson, *Coming Down the Home Stretch*).
 
-And when they are told "No," they also learn from that how to say No to themselves sometimes. They know it\'s for their good.
+And when they are told "No," they also learn from that how to say No to themselves sometimes. They know it's for their own good.
 
 Our Lady exercises her maternity over Christians and over all mankind (Vatican II, *Lumen gentium*, Point 61, November 21, 1964).
 
@@ -135,11 +135,11 @@ Our Lady will teach us how to have a magnanimous soul, large enough for the many
 
 Our roles may change. We may have different things to contribute at different stages of our life, all founded on prayer.
 
-St. John Paul II says, "Let us remember, furthermore, that merciful love also means the cordial tenderness and sensitivity so eloquently spoken of in the parable of the prodigal son (cf. Luke 15:11-32), and also in the parables of the lost sheep and the lost coin (cf. Luke 15:1-10).
+St. \[John Paul II\] says, "Let us remember, furthermore, that merciful love also means the cordial tenderness and sensitivity so eloquently spoken of in the parable of the prodigal son (*cf*. Luke 15:11-32), and also in the parables of the lost sheep and the lost coin (*cf*. Luke 15:1-10).
 
 "Consequently, merciful love is supremely indispensable between those who are closest to one another: between husbands and wives, between parents and children, between friends; and it is indispensable in education and in pastoral work" (John Paul II, Encyclical, *Dives in misericordia*, Point 14, November 30, 1980).
 
-St. Ambrose has written, \"According to the flesh, there is only one Mother of Christ; according to the faith, Christ is the fruit of all of us" (St. Ambrose, *Commentary on St. Luke's Gospel*).
+St. Ambrose has written, "According to the flesh, there is only one Mother of Christ; according to the faith, Christ is the fruit of all of us" (St. Ambrose, *Commentary on St. Luke's Gospel*).
 
 St. Josemaría says, "If we become identified with Mary and imitate her virtues, we will be able to bring Christ to life, through grace, in the souls of many who will in turn become identified with him through the action of the Holy Spirit.
 
@@ -155,9 +155,9 @@ The sentiments of St. Paul can be very relevant to the mission of parenting that
 
 The Second Vatican Council says that \[pastors\] should "take care of the faithful whom they have begotten by Baptism and their teaching" (Vatican II, *Lumen gentium*, Point 28 November 21, 1964).
 
-Our love for those that we have brought closer to Christ is not a mere superficial affection. It\'s the same love that Our Lord has for us.
+Our love for those that we have brought closer to Christ is not a mere superficial affection. It's the same love that Our Lord has for us.
 
-One writer says, "What does the child\'s love for others generate in him? The same desire of that of the Son: their sanctification and salvation" (Bonaventure Perquin, *Abba, Father*).
+One writer says, "What does the child's love for others generate in him? The same desire of that of the Son: their sanctification and salvation" (Bonaventure Perquin, *Abba, Father*).
 
 That love will make us more concerned for others, for our children, our extended family, our cousins---more concerned for them in their pursuit of sanctity.
 

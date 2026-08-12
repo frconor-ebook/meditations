@@ -6,9 +6,9 @@ reading_time: 17
 tags: ["Our Lady"]
 prev_slug: the-solemnity-of-st-joseph-2026
 prev_title: "The Solemnity of St. Joseph (2026)"
-next_slug: the-son-of-the-carpenter
-next_title: "The Son of the Carpenter"
-related: [{"slug": "solemnity-of-the-assumption-2026", "title": "Solemnity of the Assumption (2026)"}, {"slug": "the-annunciation", "title": "The Annunciation"}, {"slug": "the-annunciation-advent", "title": "The Annunciation (Advent)"}]
+next_slug: the-solemnity-of-the-assumption
+next_title: "The Solemnity of the Assumption"
+related: [{"slug": "the-annunciation", "title": "The Annunciation"}, {"slug": "the-annunciation-advent", "title": "The Annunciation (Advent)"}, {"slug": "the-solemnity-of-the-assumption", "title": "The Solemnity of the Assumption"}]
 ---
 
 

@@ -128,10 +128,6 @@
     "slug": "our-mother-in-may"
    },
    {
-    "title": "Solemnity of the Assumption (2026)",
-    "slug": "solemnity-of-the-assumption-2026"
-   },
-   {
     "title": "The Annunciation",
     "slug": "the-annunciation"
    },
@@ -190,6 +186,10 @@
    {
     "title": "The Solemnity of the Annunciation (2026)",
     "slug": "the-solemnity-of-the-annunciation-2026"
+   },
+   {
+    "title": "The Solemnity of the Assumption",
+    "slug": "the-solemnity-of-the-assumption"
    },
    {
     "title": "The Visitation of Our Lady",

@@ -6,8 +6,8 @@ reading_time: 18
 tags: ["Saints & Feast Days"]
 prev_slug: sincerity-love-for-truth
 prev_title: "Sincerity, Love for Truth"
-next_slug: solemnity-of-the-assumption-2026
-next_title: "Solemnity of the Assumption (2026)"
+next_slug: souls-of-prayer
+next_title: "Souls of Prayer"
 related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "the-solemnity-of-st-joseph-2026", "title": "The Solemnity of St. Joseph (2026)"}, {"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}]
 ---
 
