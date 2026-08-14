@@ -75,7 +75,7 @@ It can take an effort to get those things out, to get out all the garbage. Every
 
 We go there each week, maybe keeping a record day to day so that we know what to talk about. Because that person is a friend and confidant and also very supernatural, we know that we can tell that person all the most terrible things that might pass through our mind and imagination.
 
-St. Josemaría used to say we are all potential Hitlers. We're all "capable of the most terrible things" (Josemaría Escrivá, *cf*. *Christ Is Passing By*, Point 15).
+St. Josemaría used to say we are all potential Hitlers. We're all "capable of the most terrible things" (*cf*. Josemaría Escrivá, *Christ Is Passing By*, Point 15).
 
 We can say those things to that person confidently and with humility, and that person will understand us, will encourage us, and will listen to us with affection. They won't call the police.
 
@@ -101,13 +101,13 @@ The prodigal son went where he ought to have gone and found a peace that he coul
 
 Judas should have gone back to Jesus, who would have sheltered him and comforted him in spite of his sin.
 
-That's what Peter did. "He went out, and wept bitterly" but he went back to Jesus. We're told that when he heard the cock crow, "the Lord turned and looked upon Peter" (Luke 22:61-62). He sought him out with His most loving glance.
+That's what Peter did. "He went out and wept bitterly" but he went back to Jesus. We're told that when he heard the cock crow, "the Lord turned and looked upon Peter" (Luke 22:61-62). He sought him out with His most loving glance.
 
 But Judas went where he should not have gone: he went to those who were incapable of understanding and were unable to give that unfortunate person what he most needed. They said to him, "What is that to us? See to it yourself" (Matt. 27:4).
 
 If we ask the Holy Spirit, He will lead us to the right person: a person who is striving for holiness, a person who transmits the teaching of the Catholic Church, who speaks with faith, who's available.
 
-The gift of counsel is particularly needed by those whose mission it is to guide and direct other people. St. Thomas says that "every good piece of advice regarding man's salvation comes from the Holy Spirit" (Thomas Aquinas, *Commentary*).
+The gift of counsel is particularly needed by those whose mission it is to guide and direct other people. St. Thomas says that "every good piece of advice regarding man's salvation comes from the Holy Spirit" (Thomas Aquinas, *Commentary on the Lord's Prayer*).
 
 In spiritual direction, the advice we receive sometimes might be a word. It might be a virtue. It might be a phrase. It might be the smallest suggestion you could imagine.
 
@@ -121,7 +121,7 @@ Write down those words. Bring them to your prayer. Think about them. In the cour
 
 A man came to see me once from another country. He had missed his promotion. He was very low. I encouraged him to go and read a chapter on pessimism in *The Forge* by St. Josemaría, which is probably the chapter that I have recommended most to professional people in the last forty years.
 
-He went away and came back the following week and said, "I read through that chapter and there was one phrase there (*The Forge*, Point 231) where St. Josemaría quotes Our Lord saying to the paralytic, 'Take courage, my son'" (Matt. 9:2).
+He went away and came back the following week and said, "I read through that chapter and there was one phrase there (J. Escrivá, *The Forge*, Point 231) where St. Josemaría quotes Our Lord saying to the paralytic, 'Take courage, my son'" (Matt. 9:2).
 
 He said, "I've been repeating those words every moment of every hour of every day for the past seven days. Those words have kept me going this week."
 
@@ -147,9 +147,9 @@ If we hear something some time that we don't particularly like, it may be all th
 
 The Holy Spirit helps us to be docile to His inspirations, because often the greatest obstacle to the gift of counsel taking root in our souls is attachment to our own judgment---'I know. I know what I need. I know what is right for my family. I know the sort of thing that I should be doing'---not knowing how to give way, lack of humility, hastiness in acting, not knowing how to listen. To listen is very important in our life.
 
-We facilitate this gift if we become accustomed to bring to our prayer any important decision we have to make. In *The Way*, St. Josemaría says, "Never make a decision without first stopping to consider the matter in the presence of God" (J. Escrivá, *The Way,* Point 266).
+We facilitate this gift if we become accustomed to bring to our prayer any important decision we have to make. In *The Way*, Point 266, St. Josemaría says, "Never make a decision without first stopping to consider the matter in the presence of God" (J. Escrivá, *The Way,* Point 266).
 
-Point 177 says, "Don't waste the opportunity of yielding your own judgment."
+Point 177 says, "Don't waste the opportunity of yielding your own judgment" (*ibid*., Point 177).
 
 We don't go in spiritual direction to tell our spiritual director what we want to hear, or what he or she should tell us. If we're completely sincere when we ask for advice or when seeking guidance in some moral matter, then we come out with the right answers.
 
@@ -209,15 +209,13 @@ In matters that have to do with the soul, you have to identify in prayer the per
 
 We need to have a supernatural attitude in spiritual direction if we're to avoid looking around for the sort of advice that fits in with our own whims, advice that would drown out, with its apparent authority, the voice of our soul.
 
-Especially to be avoided is the tendency to keep changing advisors until we find the most "benevolent one" (J. Escrivá,*Conversations*, Point 93).
+Especially to be avoided is the tendency to keep changing advisors until we find the most "benevolent one" (J. Escrivá, *Conversations*, Point 93).
 
 This is a temptation that can occur especially in more sensitive areas: whenever sacrifice is called for, in things that perhaps we're not prepared to change, in the attempt to adapt God's Will to our own will: possibly, on discovering a vocation that calls for a greater degree of self-giving; or having to abandon an undesirable friendship; or, in the case of married people, being ready to have many children.
 
 We can have recourse to Our Lady and ask her to help us to be constant in the work of our soul's direction, and to be sincere, opening our hearts completely, and docile, like "clay in the hands of the potter," as we're told in the Book of Jeremiah (Jer. 18:1-6).
 
 Our Holy Mother Mary will always show us the safe path that leads to her Son.
-
-*MML*
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 

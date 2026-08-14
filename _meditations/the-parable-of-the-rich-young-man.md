@@ -45,7 +45,7 @@ Then Our Lord outlines very specifically some of the commandments. The young man
 
 Then he asked the key question, "What more do I need to do?" He comes back to Our Lord, looking, probing, hoping, searching, seeing that there's something else that he needs to do.
 
-Our Lord places before him the astonishing challenge---the astonishing challenge that He places before all the young people today: "If you will be perfect, go, sell what you have and give to the poor, and you will have treasure in heaven; then come follow me" (Matt. 19:21).
+Our Lord places before him the astonishing challenge---the astonishing challenge that He places before all young people today: "If you will be perfect, go, sell what you have and give to the poor, and you will have treasure in heaven; then come follow me" (Matt. 19:21).
 
 The question that the young fellow asks is the question that so many young people have asked themselves on recognizing that something is missing in their lives.
 
@@ -59,7 +59,7 @@ But the young man was not generous; he chose to keep his riches. That's why this
 
 Here is a young person with so much potential, so many years in front of him, so many great things he could accomplish. Possibly Our Lord was thinking that this fellow could be an apostle.
 
-But he chose to keep his riches so that he could go on enjoying those things for a period of years. He lost his opportunity to have Jesus, whom he would have had forever. The rich young man did not expect this answer from the Master.
+But he chose to keep his riches so that he could go on enjoying those things for a period of years. But he lost his opportunity to have Jesus, whom he would have had forever. The rich young man did not expect this answer from the Master.
 
 There's a story about a rich man who knew he was about to die. He'd worked hard all his life, but he had rarely thought about eternal life and Christ's kingdom.
 
@@ -67,11 +67,11 @@ He heard a priest saying recently in a meditation that people generally don't th
 
 He accepted the fact that he was about to die, but he didn't like the idea of leaving behind him all his hard-earned wealth. He converted all his assets into gold bars. He put them in a big bag on his bed and he lay down on top of it to die. And soon afterwards, he breathed his last.
 
-When he woke up, he was at the gate of heaven, bag in hand. St. Peter met him. With a concerned look on his face, he said, "I see you actually managed to get here with something from Earth, but unfortunately, you can't bring in that bag."
+When he woke up, he was at the gate of heaven, bag in hand. St. Peter met him. With a concerned look on his face, he said, "I see you actually managed to get here with something from earth, but unfortunately, you can't bring in that bag."
 
 "Oh, please, sir," said the man, "I must have it. It means everything to me."
 
-"Sorry, my friend," said St. Peter, "if you want to keep that bag, then I'm afraid you'll have to go to, you know, to the other place. You don't want to go there, believe me."
+"Sorry, my friend," said St. Peter, "if you want to keep that bag, then I'm afraid you'll have to go to, you know, the other place. You don't want to go there, believe me."
 
 "Well, I won't part with this bag."
 
@@ -157,7 +157,7 @@ There are many messages that we can learn, lessons from this rich young man, and
 
 "What have you," says St. Paul, "that you have not received?" (1 Cor. 4:7). We can be grateful to God for everything.
 
-In *Friends of God*, St. Josemaría says, "The young man refused to take the hint. The Gospel goes on to say: 'he went away sad.' ... He lost his happiness because he refused to hand over his freedom to God" (Josemaría Escrivá, *Friends of God*, Point 24).
+In *Friends of God*, St. Josemaría says, "The young man refused to take the hint, and the Gospel goes on to say: 'he went away sad.' ... He lost his happiness because he refused to hand over his freedom to God" (Josemaría Escrivá, *Friends of God*, Point 24).
 
 If he wasn't ready to use his freedom to follow Christ, our true destiny, then for what use was his freedom anyway?
 
@@ -179,7 +179,7 @@ At other times, He looks for little things like the fulfillment of a duty, fidel
 
 It can happen that the Lord will cross our path so as to invite us to follow Him more closely, without leaving our place in the world but with an unconditional surrender of the heart.
 
-St. Josemaría in *The Forge* says, "We have to learn how to give ourselves, to burn before God like the light placed on a lampstand to give light to those who are in darkness; like the votive lamps that burn by the altar, giving off light till their last drop of oil is consumed***"*** (J. Escrivá, *The Forge*, Point 44).
+St. Josemaría in *The Forge* says, "We have to learn how to give ourselves, to burn before God like the light placed on a lampstand to give light to those who \[walk\] in darkness; like the votive lamps that burn by the altar, giving off light till their last drop of oil is consumed***"*** (J. Escrivá, *The Forge*, Point 44).
 
 That's what Our Lord asks of each one of us in the place and state to which He has called us, in the particular and specific vocation that we have received from Him, in this family, in this job, in this marriage.
 
@@ -201,13 +201,13 @@ St. Basil says, "The vendor does not become sad that he has to barter the goods 
 
 The rich young man preferred to keep his dust, his wealth, instead of choosing the imperishable gift offered by Christ.
 
-"Like a moth in clothing or a maggot in wood," the Book of Proverbs says, "sorrow gnaws at the human heart" (Prov. 25:20) and predisposes one to evil. We have to try and react right away if at any time sadness comes to our soul.
+"Like a moth in clothing or a maggot in wood," the Book of Proverbs says, "sorrow gnaws at the human heart" (Prov. 25:20), and predisposes one to evil. We have to try and react right away if at any time sadness comes to our soul.
 
 In the Book of Sirach it says, "Delight your soul and comfort your heart, and remove sorrow far from you, for sorrow has destroyed many, and there is no profit in it" (Sir. 30:23). From this state nothing can be expected but unfortunate consequences.
 
 Because our lives are focused on Christ, it is logical that they would be filled with joy. This is the only true joy in the world, a joy without limit, a joy without end. It is compatible with suffering, with illness, with failure...
 
-Another writer says, "Christian joy excludes and combats sadness in a definitive way. Envy, discouragement, depression are all incompatible with it. One of the fruits of Christian joy is the suppression of these pains, which are so perilous to the spiritual life" (J. M. Perrin, *The Gospel of Joy*).
+Another writer says, "Christian joy excludes and combats sadness in a definitive way. Envy, discouragement, depression are all incompatible with it. One of the fruits of Christian joy is the suppression of these pains, which are so perilous to the spiritual life" (Joseph Marie Perrin, *The Gospel of Joy*).
 
 There's a lot we can learn from this particular passage. A sorrowful soul is at the mercy of many temptations. How many sins have had their origin in sadness?
 
@@ -219,7 +219,7 @@ If at any time we should feel the pull of sadness, we should examine the cause w
 
 We're told in *The Way*, "There you have light, to help you discover the reasons for your sadness" (J. Escrivá, *The Way*, Point 666).
 
-We can ask Our Lady, Cause of Our Joy: Mary, may you win for us the grace to follow Christ ever more closely. Obtain for us the grace that we may never turn our backs on Him, not even in the little things of everyday life.
+We can ask Our Lady, Cause of our joy: Mary, may you win for us the grace to follow Christ ever more closely. Obtain for us the grace that we may never turn our backs on Him, not even in the little things of everyday life.
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
