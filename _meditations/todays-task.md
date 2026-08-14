@@ -6,8 +6,8 @@ reading_time: 18
 tags: ["Work & Ordinary Life"]
 prev_slug: to-serve
 prev_title: "To Serve"
-next_slug: trinity-sunday
-next_title: "Trinity Sunday"
+next_slug: touching-god-in-prayer
+next_title: "Touching God in Prayer"
 related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "little-duties", "title": "Little Duties"}, {"slug": "little-things", "title": "Little Things"}]
 ---
 

@@ -8,7 +8,7 @@ prev_slug: naaman-the-syrian-docility
 prev_title: "Naaman the Syrian (Docility)"
 next_slug: obedience
 next_title: "Obedience"
-related: [{"slug": "the-depths-of-simplicity", "title": "The Depths of Simplicity"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}]
+related: [{"slug": "simplicity-after-edward-leen", "title": "Simplicity (after Edward Leen)"}, {"slug": "the-depths-of-simplicity", "title": "The Depths of Simplicity"}, {"slug": "against-all-hope", "title": "Against All Hope"}]
 ---
 
 By Fr. Conor Donnelly
