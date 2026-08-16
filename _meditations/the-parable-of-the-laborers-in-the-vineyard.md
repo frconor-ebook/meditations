@@ -19,9 +19,11 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"Now the kingdom of heaven is like a landowner going out at daybreak to hire workers for his vineyard. He made an agreement with the workers for one denarius a day and sent them to his vineyard. Going out at about the third hour, he saw others standing idle in the marketplace and said to them, 'You go to my vineyard too and I will give you a fair wage.'
+"Now the kingdom of heaven is like a landowner going out at daybreak to hire workers for his vineyard. He made an agreement with the workers for one denarius a day and sent them to his vineyard.
 
-"They went, and at about the sixth hour and again at the ninth hour, he went out and did the same. Then at about the eleventh hour he went out and found more men standing around, and he said to them, 'Why have you been standing here idle all day?'
+"Going out at about the third hour, he saw others standing idle in the marketplace and said to them, 'You go to my vineyard too and I will give you a fair wage.'
+
+"So they went. And at about the sixth hour and again at the ninth hour, he went out and did the same. Then at about the eleventh hour he went out and found more men standing around, and he said to them, 'Why have you been standing here idle all day?'
 
 "'Because no one has hired us,' they answered him" (Matt. 20:1-7).
 
@@ -81,13 +83,11 @@ The Lord goes out to hire laborers for his vineyard at different hours and in di
 
 God calls each single one of us in accordance with his personal circumstances, with his virtues and his defects alike.
 
-Countless numbers of people have died without the knowledge of Christ because no one brought them the news. Are we too going to be paralyzed, unable to talk about God?
+Countless numbers of people have died without the knowledge of Christ because no one brought them the news. Are we too going to be paralyzed, unable to \[talk\] about God?
 
 In *Friends of God*, St. Josemaría says, "You might tell me, 'Why should I make an effort?' It is not I who answer you, but St. Paul: 'Christ's love is urging us' (2 Cor. 5:14). A whole lifetime would be little, if it was spent expanding the frontiers of your charity" (Josemaría Escrivá, *Friends of God*, Point 43).
 
-The first Christians knew very well that the apostolate knows no boundaries of persons, places, or situations. Apostolate often began in their own families.
-
-"They persuaded their servants and their children, if they had any, to become Christians because of their mutual love. Once they became Christians they called each other 'brothers' without distinction" (Aristides, quoted by D. Ramos, *The Testimony of the Early Christians*).
+The first Christians knew very well that the apostolate knows no boundaries of persons, places, or situations. Apostolate often began in their own families. "They persuaded their servants and their children, if they had any, to become Christians because of their mutual love. Once they became Christians they called each other 'brothers' without distinction" (Aristides, quoted by D. Ramos, *The Testimony of the Early Christians*).
 
 Many were the families, we're told in a book about the daily life of early Christians, that received the faith from their slaves, from the youngest of the servants and children to the oldest. Perhaps they were followed by their neighbors, their clients, their customers, their social acquaintances.
 
@@ -129,7 +129,7 @@ While serving as apostles in the middle of the world, we find more than enough c
 
 We're trying to love Christ and to serve Him ever more faithfully as we seek new laborers to work for Him. The Lord will never forget that service.
 
-We should keep in mind that the denarius itself is stamped "with the image of the King" (St. Jerome, *Commentary on the Gospel of St. Mark*).
+St. Jerome says we should keep in mind that the denarius itself is stamped "with the image of the King" (St. Jerome, *Commentary on the Gospel of St. Mark*).
 
 God gives up His own life for us. And at the end of time, He will give us glory without end. St. Paul said, "Each shall receive the wages according to his labor" (1 Cor. 3:8).
 
@@ -191,7 +191,7 @@ These things leave their mark. The formation of young people is of immense impor
 
 "Be convinced," Blessed Álvaro says, "of the importance of exercising your personal freedom, which brings with it a corresponding personal responsibility: to get involved in national and international bodies which can be a platform for promoting Christian values regarding the family, education, the defense of human life, and many other issues which have to be approached in accordance with the Church's teaching."
 
-Again, very dynamic words. In the presence of Our Lord, we could ask ourselves, What national and international bodies do I belong to?
+Again, very dynamic words. In the presence of Our Lord, we could ask ourselves: What national and international bodies do I belong to?
 
 Or is there some new national or international body that I could start ... that I use my acumen, my education, my experience, my professional formation in some way, to channel that towards good, towards serving the Church.
 
@@ -235,7 +235,7 @@ We have all the Christian formation and education that we have, and maybe we hav
 
 We have to try and use our responsibility as ordinary citizens to make that contribution to do good, to influence, obey just laws; and all of this, in the fulfillment of our duties.
 
-We have to try and look a lot to young people---people who may feel inspired by the immense panorama of placing Christ at the center of all human activities, to give of their best, spurred on by the holy desire of achieving more for love of God; people who are moved to hopefully give their life completely.
+We have to try and look a lot to young people---people who may feel inspired by the immense panorama of "placing Christ at the center of all human activities" (J. Escrivá, *Christ Is Passing By*, Points 105, 156), to give of their best, spurred on by the holy desire of achieving more for love of God; people who are moved to hopefully give their life completely.
 
 All of us have to look for vocations for the universal Church, pray for them, encourage them, form them. We have to try and help all of them to find that pathway that God is opening up for them.
 
@@ -243,7 +243,7 @@ Bear in mind that those who are most in need are the ones who have received ten 
 
 We can turn to Our Lady, who is our refuge and our strength.
 
-In the *Way of the Cross* of St. Josemaría, he says, "Hold your peace. Be calm. ... God has very few friends on earth. Don't yearn to leave this world. Don't shy away from the burden of the days, even though at times we might find them very long."
+In the *Way of the Cross* of St. Josemaría, he says, "Hold your peace. Be calm. ... God has very few friends on earth. Don't yearn to leave this world. Don't shy away from the burden of the days, even though at times we might find them very long" (J. Escrivá, *Way of the Cross*, Thirteenth Station).
 
 If ever in the working and the vineyard of the Lord we get a bit tired---it's long, there's rejection, there are difficulties---we can always turn to Our Lady, our refuge and our strength, when we know it will help us to always begin again with the same conviction as at the start.
 
