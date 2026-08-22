@@ -23,9 +23,9 @@ By Fr. Conor Donnelly
 
 Jesus took what in modern parlance might be called an opinion poll, about who men say the Son of man is, and He got all sorts of answers. Some say this, some say that, some say something else.
 
-But then He presses Peter specifically, "But who do you say that I am?" Peter makes this great act of faith. It\'s the high point of Peter\'s life.
+But then He presses Peter specifically, "But who do you say that I am?" Peter makes this great act of faith. It's the high point of Peter's life.
 
-From here down in, it\'s going to be pretty much downhill all the way, until his great conversion, when he goes out and weeps bitterly after his betrayal.
+From here down in, it's going to be pretty much downhill all the way, until his great conversion, when he goes out and weeps bitterly after his betrayal.
 
 "Jesus answered and said to him, 'Blessed are you, Simon Bar-Jonah, because flesh and blood has not revealed it to you, but my Father who is in heaven."
 
@@ -35,7 +35,7 @@ Then He says to him, "'And I say to you: You are Peter, and upon this rock, I wi
 
 Those are very important words in the Catholic faith: the words that institute the primacy of Peter. "You are Peter."
 
-Following St. Peter, there were to come many Peters. When Cardinal Ratzinger was elected Pope, many people talked about him as the successor of John Paul II. But he liked to clarify the point that 'I\'m not just the successor of John Paul II, I\'m the successor of Peter.'
+Following St. Peter, there were to come many Peters. When Cardinal Ratzinger was elected Pope, many people talked about him as the successor of John Paul II. But he liked to clarify the point that 'I'm not just the successor of John Paul II, I'm the successor of Peter.'
 
 With that, he was transmitting a message to the whole of the Church for a long time about our faith in Peter.
 
@@ -53,7 +53,7 @@ In the 1960s, when there was a lot of confusion in the Church, our Father liked 
 
 You sort of get the idea that from St. Catherine of Siena, our Father got this profound light and grace from God about the importance of unity to Peter.
 
-St. Catherine of Siena is on record as saying that even if the Pope were to be the devil incarnate, we should still be very united to him, because he\'s the channel. Those are very strong words (Johannes Jörgensen, *Saint Catherine of Siena*).
+St. Catherine of Siena is on record as saying that even if the Pope were to be the devil incarnate, we should still be very united to him, because he's the channel. Those are very strong words (Johannes Jörgensen, *Saint Catherine of Siena*).
 
 I remember a get-together many years ago in 1980. It was after a period of great dissent in the Church about *Humanae Vitae*.
 
@@ -65,27 +65,27 @@ You have to qualify those words: Peter is never wrong, but we might think that P
 
 The problem with that is that even if we were to think that Peter was wrong on this particular issue, probably the Pope has a 99.9 percent chance of being right on every other issue.
 
-But if we separate ourselves from the Pope, maybe we\'re the ones that stand a 99.9 percent chance of not being right.
+But if we separate ourselves from the Pope, maybe we're the ones that stand a 99.9 percent chance of not being right.
 
-To move away from the Pope is a very imprudent thing to do. We\'re not here to criticize the Pope. We shouldn\'t entertain any criticisms about the Pope or allow anybody else in our company to do so.
+To move away from the Pope is a very imprudent thing to do. We're not here to criticize the Pope. We shouldn't entertain any criticisms about the Pope or allow anybody else in our company to do so.
 
 Use the opportunity to speak well of the Pope, to pray for the Holy Father---which is what he continually asks us to do, and what the Father himself continually asks him to do---and perhaps use those moments to highlight to people all the great things that the Holy Father has done.
 
-A few weeks ago, the Holy Father talked a lot about the spiritual emptiness of the world (Pope Francis, Apostolic Exhortation, *Querida Amazonia*, Point 108, February 2, 2020; *Angelus*, June 19, 2016). Very profound words. The Holy Father says an awful lot of very good and beautiful things. He\'s talked a million times about holiness.
+A few weeks ago \[in 2020\], the Holy Father talked a lot about the spiritual emptiness of the world (Pope Francis, Apostolic Exhortation, *Querida Amazonia*, Point 108, February 2, 2020; *Angelus*, June 19, 2016). Very profound words. The Holy Father says an awful lot of very good and beautiful things. He's talked a million times about holiness.
 
-But the media doesn\'t pay any attention or record those words, because it\'s not part of the agenda of the media. They latch on to a few simple words, often twist them, misunderstand them, and spread them all over the world, and give all sorts of impressions.
+But the media doesn't pay any attention or record those words, because it's not part of the agenda of the media. They latch on to a few simple words, often twist them, misunderstand them, and spread them all over the world, and give all sorts of impressions.
 
-We shouldn\'t be surprised by this. The Catholic Church and the Pope have always been attacked throughout history. Misconstrued.
+We shouldn't be surprised by this. The Catholic Church and the Pope have always been attacked throughout history. Misconstrued.
 
 But we know that our salvation comes through Peter. "'Upon this rock, I will build my church, and the gates of hell shall not prevail against it. I will give you the keys of the kingdom of heaven'" (Matt. 16:18-19). Peter has the power of the keys.
 
-Almost every year, the Holy Father spends some time in a confessional in St. Peter\'s. It\'s got a little bit of publicity, but not very much. Yet it\'s a very powerful thing.
+Almost every year, the Holy Father spends some time in a confessional in St. Peter's. It's got a little bit of publicity, but not very much. Yet it's a very powerful thing.
 
 On occasion, the Pope has allowed himself to be photographed confessing his own sins. It sends a great message around the world.
 
 "'And whatever you shall bind upon earth, it shall be bound also in heaven, and whatever you shall loose upon earth, it shall be loosed in heaven.' Then he commanded his disciples that they should tell no one that he was Jesus the Christ" (Matt. 16:19-20). The Messianic secret.
 
-We can try and grow in our love for the Holy Father, and use all opportunities that come our way to unite other people to him, because that\'s the pathway to holiness.
+We can try and grow in our love for the Holy Father, and use all opportunities that come our way to unite other people to him, because that's the pathway to holiness.
 
 "When therefore they had dined, Jesus said to Simon Peter, 'Simon, son of John, do you love me more than these?' He said to him, 'Yes, Lord, you know that I love you.' He said to him, 'Feed my lambs.'
 
@@ -113,15 +113,15 @@ Before being elected Pope, he went to visit the tomb of our Father in Rome and s
 
 He also tried to attend some of the activities of the Priestly Society in Buenos Aires. But on that particular day that he took the bus and arrived at the venue, it had been cancelled. Still, he made the effort to go there.
 
-In the message after the election of the current Father, the Father said we have to be grateful to him "for confirming me as the successor of St. Josemaría, Blessed Álvaro, and Don Javier at the head of Opus Dei, and for appointing me as Opus Dei\'s Prelate on the very same day as my election."
+In the message after the election of the current Father, the Father said we have to be grateful to him "for confirming me as the successor of St. Josemaría, Blessed Álvaro, and Don Javier at the head of Opus Dei, and for appointing me as Opus Dei's Prelate on the very same day as my election" (Fernando Ocáriz, *Letter from the Prelate*, Point 2, February 14, 2017).
 
 All these are little details that may pass unnoticed a little bit, but which are little details of the affection of the Holy Father towards our supernatural family.
 
-"We are also very grateful for his decision," said the Father, "in the exercise of his Petrine ministry, to beatify Don Álvaro."
+"We are also very grateful for his decision," said the Father, "in the exercise of his Petrine ministry, to beatify Don Álvaro" (*ibid*.).
 
 Don Javier, in one of his letters in 2007, said, "Let us pray a lot for the Pope, both for him and his intentions. The burden that lies on his shoulders is a very heavy one. Divine providence counts on our prayers and sacrifices to give him strength and make his words effective\...
 
-"Let us examine in God\'s presence how our union with the Pope is going: a unity of prayers, of affections, of resolutions. Do we pray a lot, every day, for the intentions of the Holy Father?"
+"Let us examine in God's presence how our union with the Pope is going: a unity of prayers, of affections, of resolutions. Do we pray a lot, every day, for the intentions of the Holy Father?"
 
 We could add, as our Father did, 'whoever he may be.'
 
@@ -129,37 +129,37 @@ We could add, as our Father did, 'whoever he may be.'
 
 We have a filial duty to try and raise our love for the Holy Father onto a very supernatural plane, and use all sorts of occasions that come our way to clarify things, to make known different aspects of the teaching of the Holy Father.
 
-In one of his \[Apostolic Exhortations\], *Evangelii gaudium--The Joy of the Gospel*, he talks about the Church\'s mission.
+In one of his \[Apostolic Exhortations\], *Evangelii gaudium--The Joy of the Gospel*, he talks about the Church's mission.
 
-He said on the Church\'s missionary transformation, he speaks of his dream of "a missionary impulse capable of transforming everything, so that the Church\'s customs and structures\...can be suitably channeled for the evangelization of today\'s world, rather than for her self-preservation."
+He said on the Church's missionary transformation, he speaks of his dream of "a missionary impulse capable of transforming everything, so that the Church's customs and structures\...can be suitably channeled for the evangelization of today's world, rather than for her self-preservation" (Pope Francis, Apostolic Exhortation, *Evangelii gaudium*, Point 27, November 24, 2013).
 
-"Missionary outreach," he says, "is paradigmatic for all the Church\'s activity" and it is "the entire People of God which evangelizes," called by their baptism to be "missionary disciples."
+"Missionary outreach," he says, "is paradigmatic for all the Church's activity" and it is "the entire People of God which evangelizes," called by their baptism to be "missionary disciples" (*ibid*., Points 15, 17,24).
 
 These are words very much in keeping with the teaching of the Second Vatican Council.
 
-"We should be troubled," he said, "in conscience, that so many of our brothers and sisters live without the strength, light, and consolation that come from knowing Jesus Christ, and without a faith community for support."
+"We should be troubled," he said, "in conscience, that so many of our brothers and sisters live without the strength, light, and consolation that come from knowing Jesus Christ, and without a faith community for support" (*ibid*., Point 49).
 
 The Holy Father reveals the focus of his own life by mentioning the personal name Jesus 125 times in *Evangelii gaudium--The Joy of the Gospel*.
 
-He speaks of the Church "as a Mother with an open heart," constantly in need of communicating better, becoming "weak with the weak\...everything for everyone" (1 Cor. 9:22).
+He speaks of the Church "as a Mother with an open heart" (*ibid*., Part V.), constantly in need of communicating better, becoming "weak with the weak\...everything for everyone" (*ibid*., Point 45 quoting 1 Cor. 9:22).
 
 Occasionally Pope Francis has emphasized that the hour of the laity has arrived. Down through history, the Popes have given us an awful lot to be proud of in our Church.
 
-I heard a lady speaker once saying we can be very proud of our Church. We don\'t hear that said too frequently.
+I heard a lady speaker once saying we can be very proud of our Church. We don't hear that said too frequently.
 
 We can also be very proud of our Pope. Every Pope has done so many things.
 
 I often think of that journey the Holy Father made when he was 80-plus to Myanmar. What world leader goes to Myanmar---it may be less than 1 percent Catholic. He went there to draw attention to the plight of our Muslim brothers, the Rohingya Muslims.
 
-It was a very eloquent gesture, flying halfway around the world. He\'s made many other eloquent gestures: (visiting) Lampedusa to look after the boat people, the migrants, one of the themes of his pontificate. No other world leader does such things.
+It was a very eloquent gesture, flying halfway around the world. He's made many other eloquent gestures: \[visiting\] Lampedusa to look after the boat people, the migrants, one of the themes of his pontificate. No other world leader does such things.
 
 A year or so ago, the Holy Father went to Dublin in Ireland to be present at the World Day of Families. One journalist in the newspaper happened to remark that something like 1,300 journalists had come to cover the trip of the Pope.
 
 The journalist mentioned in the next paragraph how last year when President Trump came, 700 journalists came. The journalist unwittingly was sort of mentioning that the Holy Father had doubled the number of people following him than the President of the United States.
 
-Unwittingly, the journalist was saying that the Pope is the leader of the world---and not just the spiritual leader, but the leader in many other ways, the moral leader. It\'s another reason why we can be very proud of our Pope.
+Unwittingly, the journalist was saying that the Pope is the leader of the world---and not just the spiritual leader, but the leader in many other ways, the moral leader. It's another reason why we can be very proud of our Pope.
 
-*TIME* magazine, who elected him the Person of the Year in the first year of his papacy, said, "What makes this Pope so important is the speed with which he\'s captured the imaginations of millions who had given up on hoping for the Church at all. ... Francis has elevated the healing mission of the Church---the Church as servant and comforter of hurting people in an often harsh world."
+*TIME* Magazine, who elected him the Person of the Year in the first year of his papacy, said, "What makes this Pope so important is the speed with which he's captured the imaginations of millions who had given up on hoping for the Church at all. ... Francis has elevated the healing mission of the Church---the Church as servant and comforter of hurting people in an often harsh world" (*TIME* Magazine, December 11, 2013).
 
 Nobody can argue with all the great things that the Holy Father has done in this particular way.
 
@@ -171,27 +171,29 @@ No other person got anything like the reception that he got. It was a bit of an 
 
 St. Ambrose says the Communion bread "is not a prize for the perfect but a powerful medicine and nourishment for the weak" (*cf*. St. Ambrose, *De Sacramentis*, as quoted in the Apostolic Exhortation *The Joy of the Gospel* by Pope Francis, November 24, 2013).
 
-"Communion," he says, "is not a private prayer or a beautiful spiritual exercise" but a means of transformation, one\'s taking on "the heart of Christ\...peaceable, forgiving, reconciling, and solidarity with all" (Pope Francis, *Angelus*, August 16, 2015).
+"Communion," he says, "is not a private prayer or a beautiful spiritual exercise" but a means of transformation, one's taking on "the heart of Christ\...peaceable, forgiving, reconciling, and solidarity with all" (Pope Francis, *Angelus*, August 16, 2015).
 
 On the primacy of charity, Pope Francis has said, "The Lord has redeemed all of us, all of us\...even the atheists. Everyone! We are created children in the likeness of God\...and we all have a duty to do good" (Pope Francis, *Homily*, May 22, 2013).
 
-He points to the Last Judgment seen in the Gospel of Matthew as proof of how God judges. "What we do for the poor, the hungry, the indigent, the outcast, those who suffer and are alone. ... Whatever we do for them, Jesus regards as done to Himself."
+He points to the Last Judgment seen in the Gospel of Matthew as proof of how God judges. "What we do for the poor, the hungry, the indigent, the outcast, those who suffer and are alone. ... Whatever we do for them, Jesus regards as done to himself."
 
 He points to the Beatitudes as showing what gives deep happiness. "What Catholics should strive to live up to every day is being poor in spirit and meek and humble of heart, merciful and peacemakers, hungering and thirsting for righteousness" (*cf*. Pope Francis, *General Audience*, August 6, 2014).
 
-Francis chose for his motto, "By having mercy and by selecting" which refers to Our Lord\'s selection for the apostleship of Matthew the tax collector, considered unclean by Jewish law.
+Pope Francis chose for his motto, "By having mercy and by selecting" which refers to Our Lord's selection for the apostleship of Matthew the tax collector, considered unclean by Jewish law.
 
-He mentions God\'s mercy thirty-two times in *The Joy of the Gospel*. He says, "God never tires of forgiving us; we are the ones who tire of seeking mercy."
+He mentions God's mercy thirty-two times in *The Joy of the Gospel*. He says, "God never tires of forgiving us; we are the ones who tire of seeking mercy" (Point 3).
 
-In 2016, the Pope declared a year-long celebration of God\'s mercy. He describes mercy as fundamental to the pastoral sense, which he enjoins on all those who would exercise ministry in the Church. He writes that "in becoming flesh, God\'s Son summoned us to the revolution of tenderness" mentioning tenderness eleven times in *The Joy of the Gospel*.
+In 2016, the Pope declared a year-long celebration of God's mercy. He describes mercy as fundamental to the pastoral sense, which he enjoins on all those who would exercise ministry in the Church.
 
-All these details of his teaching, of his pontificate, can lead us to a greater unity with the Holy Father.
+He writes that "in becoming flesh, God's Son summoned us to the revolution of tenderness" (Point 88), mentioning tenderness eleven times in *The Joy of the Gospel*.
+
+All these details of his teaching, of his Pontificate, can lead us to a greater unity with the Holy Father.
 
 St. Josemaría liked to use the phrase, "All with Peter to Jesus through Mary" (J. Escrivá, *Christ Is Passing By*, Point 139).
 
 The Pope is, for the Church, Peter, who announces Christ to the world, proclaiming the joy of the Gospel. We all have to be united in that prayer, "All with Peter to Jesus through Mary."
 
-We can be grateful to the Holy Father for that Jubilee Year of Mercy, "for his example of piety and austerity, for the apostolic stimulus that he\'s given to the whole world, and for his closeness to people, especially the most needy" (Fernando Ocáriz, *Letter from the Prelate*, February 14, 2017).
+We can be grateful to the Holy Father for that Jubilee Year of Mercy, "for his example of piety and austerity, for the apostolic stimulus that he's given to the whole world, and for his closeness to people, especially the most needy" (Fernando Ocáriz, *Letter from the Prelate*, Point 2, February 14, 2017).
 
 There are many things for which we have to be very grateful.
 
@@ -199,21 +201,21 @@ The present Father has said, "I wrote to you earlier that I felt somewhat embarr
 
 We have to be very clear that Pope Francis is a gift of God to the Church---very personal, leading with his actions, with a very universal message, a message that has at its heart the social teaching of the Church, capable of revolutionizing the world.
 
-The Pope is very much out in front. We can be very proud of him and what he\'s doing. He was prepared by providence.
+The Pope is very much out in front. We can be very proud of him and what he's doing. He was prepared by Providence.
 
-The Church has very much to help humanity in the formation of the culture of the 21st century. The Holy Father is helping us to be very Christocentric.
+The Church has very much to help humanity in the formation of the culture of the twenty-first century. The Holy Father is helping us to be very Christocentric.
 
-In *The Forge*, we\'re told, "You must love, venerate, pray, and mortify yourself for the Pope, and do so with greater affection each day, for he is the foundation stone of the Church and, throughout the centuries, right to the end of time, he carries out among men that task of sanctifying and governing which Jesus entrusted to Peter" (J. Escrivá, *The Forge,* Point 134).
+In *The Forge*, we're told, "You must love, venerate, pray, and mortify yourself for the Pope, and do so with greater affection each day, for he is the foundation stone of the Church and, throughout the centuries, right to the end of time, he carries out among men that task of sanctifying and governing which Jesus entrusted to Peter" (J. Escrivá, *The Forge,* Point 134).
 
 Love and devotion to the Pope is a very key element of our faith that we have to try and pass on to our children.
 
 As we prepare for Christmas and follow the Holy Family along their journey to Bethlehem, we could make a special point of saying a special Hail Mary in front of the crib for the Holy Father this Christmas.
 
-In *The Forg*e also, we\'re told, "Your deepest love, your greatest esteem, your most heartfelt veneration, your most complete obedience, and your warmest affection have also to be shown towards the Vicar of Christ on earth, towards the Pope.
+In *The Forg*e also, we're told, "Your deepest love, your greatest esteem, your most heartfelt veneration, your most complete obedience, and your warmest affection have also to be shown towards the Vicar of Christ on earth, towards the Pope.
 
 "We Catholics," he said, "should consider that after God and the Most Holy Virgin, Our Mother, the Holy Father comes next in the hierarchy of love and authority" (J. Escrivá, *The Forg*e, Point 135).
 
-In many ways we have this message brought home to us, a very key part of the spirit of Opus Dei, that unity to Peter, that prayer for Peter, that love for Peter, because it\'s through him that the Holy Spirit speaks, now and always.
+In many ways we have this message brought home to us, a very key part of the spirit of Opus Dei, that unity to Peter, that prayer for Peter, that love for Peter, because it's through him that the Holy Spirit speaks, now and always.
 
 He says also in *The Forge*, "May the daily consideration of the heavy burden which weighs upon the Pope and the bishops move you to venerate and love them with real affection, and to help them with your prayers" (J. Escrivá, *The Forge*, Point 136).
 
