@@ -39,7 +39,7 @@ I heard of a weekend for travel agents that was organized in a certain country. 
 
 Shortly after take-off, somebody took the microphone and started saying, "We're going to have a wonderful weekend, it's going to be fantastic, let's all have a great time." He was painting a picture that sounded a little bit dangerous and a bit suggestive.
 
-When he finished, another travel agent went to take the microphone and added a few more words, He said, "Well, yes, let's all have a great time, let's do everything that we're meant to be doing, but let's also remember that less than an hour ago we left our wives and our children back at the airport. Let's make sure that we don't do anything this weekend that might disappoint them."
+When he finished, another travel agent went to take the microphone and added a few more words. He said, "Well, yes, let's all have a great time, let's do everything that we're meant to be doing, but let's also remember that less than an hour ago we left our wives and our children back at the airport. Let's make sure that we don't do anything this weekend that might disappoint them."
 
 With those few words, he changed the whole tone of the weekend and of the previous speaker. This is living our unity of life in all situations.
 
@@ -47,7 +47,7 @@ With those few words, he changed the whole tone of the weekend and of the previo
 
 We try to take our faith and put it into practice, to live it. It's not just a question of knowing virtue, but of putting the virtue into practice.
 
-Our Lord says in the Gospel of St. Mark: "How rightly Isaiah prophesied about you hypocrites in the passage of scripture: This people honors me only with lip service, while their hearts are far from me" (Mark 7:6).
+Our Lord says in the Gospel of St. Mark: "How rightly Isaiah prophesied about you hypocrites in the passage of Scripture: This people honors me only with lip service, while their hearts are far from me" (Mark 7:6).
 
 One thing that Our Lord had no time for was a lack of unity of life. That's why He lambasted the Pharisees with every strong word He could muster.
 
@@ -71,7 +71,7 @@ We might find ourselves working a lot for the food that perishes. But our faith 
 
 Pope St. John Paul II liked to say that in Christ, we find the meaning and the purpose of our life (*cf*. Pope John Paul II, *Homily*, World Youth Day, August 14, 1993). We don't find it anywhere else.
 
-What does it matter if we lose everything in this world in order to gain life everlasting? (cf. Matt. 16:26). That's the message of the saints and of the martyrs.
+What does it matter if we lose everything in this world in order to gain life everlasting? (*cf*. Matt. 16:26). That's the message of the saints and of the martyrs.
 
 The one thing that the Church is asking for in this period of history, which all the recent popes have talked about, is saints for this particular time: people who are heroic in living their faith and practicing the virtues.
 
@@ -155,7 +155,7 @@ Have I been laughed at or derided or insulted? How many times has my neck been c
 
 We are told in Deuteronomy*,* "Listen, Israel: Yahweh Our God is the one, the only Yahweh. You must love Yahweh your God with all your heart, and with all your soul, and with all your strength. Let the words I enjoin on you today stay in your heart.
 
-"You shall tell them to your children, and keep on telling them, when you are sitting at home, when you are out and about, when you are lying down, and when you are standing up; you must fasten them on your hand as a sign and on your forehead as a headband; you must write them on the doorposts of your house and on your gates (Deut. 6:4-9).
+"You shall tell them to your children, and keep on telling them, when you are sitting at home, when you are out and about, when you are lying down, and when you are standing up; you must fasten them on your hand as a sign and on your forehead as a headband; you must write them on the doorposts of your house and on your gates" (Deut. 6:4-9).
 
 It's interesting to see how the Old Testament and the New are very strong in this particular area. We may find ourselves in all sorts of ordinary situations, but Our Lord wants us to stick our necks out a little bit.
 
@@ -201,7 +201,7 @@ There is a unity between the ascetic and the apostolic part of their lives. Our 
 
 Our Lord simplifies everything and says that everything must blend into contemplation. Our apostolate, our prayer, and our work blend into a unity that's called contemplation. It's a unity between the human and the supernatural.
 
-Christ was perfect God and perfect man, so we don't have compartmentalized sections of our life, different hats that we put on here and there.
+Christ was perfect God and perfect man (*cf*. *Catechism of the Catholic Church*, Point 467), so we don't have compartmentalized sections of our life, different hats that we put on here and there.
 
 We're open to life in our marriage because we live for faith and generosity. We let God be God in our marriage; put our faith into practice in concrete ways.
 

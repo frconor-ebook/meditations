@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "Sin of Pride\u2014The Elder Son"
+title: "Sin of Pride (The Elder Son)"
 description: "\"Now the serpent was more subtle than any other wild creature that the Lord God had made. He said to the woman, 'Did God say, You shall not eat of any..."
 reading_time: 20
 prev_slug: simplicity-after-edward-leen
@@ -49,7 +49,7 @@ The devil absolutizes the command and makes it sound ridiculous, when in fact, t
 
 "The woman said to the serpent, 'We may eat of the fruit of the trees of the garden, but God said, You shall not eat of the fruit of the tree which is in the midst of the garden, neither shall you touch it, lest you die'" (Gen. 3:2-3). Eve clarifies the commandment that they've been given.
 
-But the serpent said to the woman, 'You will not die." Now, he contradicts what God had said. And finally, the third blow: "'For God knows that when you eat of it, your eyes will be opened and you will be like God, knowing good and evil'" (Gen. 3:4-5).
+But the serpent said to the woman, "You will not die." Now, he contradicts what God had said. And finally, the third blow: "For God knows that when you eat of it, your eyes will be opened and you will be like God, knowing good and evil" (Gen. 3:4-5).
 
 God knows. Now the devil portrays God as a deceitful God. He doesn't want your eyes to be opened. He wants to keep you in your blindness.
 
@@ -103,7 +103,7 @@ It helps us to see the evil nature of sin---that sin is the only real evil. We h
 
 That means also keeping ourselves distant from anything that might lead us into sin. An *occasion of sin* is any external circumstance that might lead us into sin. These are very basic and clear ideas, yet very powerful ones.
 
-A Dutch missionary priest in Singapore told me how one of the most moving moments of his priestly life happened when he was asked to go and see an elderly Dutch lady who was in the hospital, who had been diagnosed with cancer. She'd been away from the sacraments for many years.
+A Dutch missionary priest in Singapore told me once how one of the most moving moments of his priestly life happened when he was asked to go and see an elderly Dutch lady who was in the hospital, who had been diagnosed with cancer. She'd been away from the sacraments for many years.
 
 He went to see her and he spoke to her in Dutch, and they chatted for a while. Then he said, "The moment came when I had to ask her the \$64,000 question, which was, 'Would you like me to hear your Confession?'"
 
@@ -135,11 +135,11 @@ When she finished, he said to her, "Is that everything?"
 
 She said, "Yes." And he said, "Are you sure?" And she said, "Yes."
 
-He said, "Well, what about yesterday when you flew across the Atlantic and you landed in Rome, and you lay down to take a nap, and you slept the sleep of the just and you woke up at three o'clock in the afternoon, and you missed Mass?"
+He said, "Well, what about yesterday when you flew across the Atlantic and you landed in Rome, and you lay down to take a nap, and you slept the sleep of the just and you woke up at three o'clock, and you missed Mass?"
 
 He said, "I know you didn't commit a mortal sin because you didn't mean to miss Mass, but your negligence hurt Our Lord."
 
-The saints functioned in the realm of negligence. It wasn't a matter of whether it was mortal or venial, but "your negligence hurt Our Lord."
+The saints functioned in the realm of negligence. It wasn't a matter of whether it was mortal or venial. "Your negligence hurt Our Lord."
 
 Committing a sin is not breaking the law. When we break the law, often we're not sorry. We can be delighted, especially if we're not caught.
 
@@ -173,9 +173,9 @@ He doesn't really love his father. He's working on his father's farm, but he's l
 
 The mercy of his father irritates him. The joy of his brother gives him a bitter taste. He should have been able to be happy because his brother has come back.
 
-We find he's very much in need of reconciliation. The reconciliation that his younger brother has found---he doesn't find.
+We find he's very much in need of reconciliation. The reconciliation that his younger brother has found---he doesn't find. We're not told eventually that he comes into dinner.
 
-We're not told eventually that he comes into dinner. He's full of bitter zeal. He fulfills his duty but there's no love there. He seems to say, 'I'm doing so much work, whereas others are not working.' He's mean-spirited.
+He's full of bitter zeal. He fulfills his duty but there's no love there. He seems to say, 'I'm doing so much work, whereas others are not working.' He's mean-spirited.
 
 "He retorted to his father, 'All these years I've slaved for you. I never once disobeyed any order of yours. Yet you never offered me so much as a kid for me to celebrate with my friends'" (Luke 15:29).
 
@@ -213,13 +213,13 @@ His father speaks gently to him, man to man. He calls him to conversion, but in 
 
 We're not told that he responds or gets the message.
 
-We should watch out for our self-love when we have vain thoughts---or, 'all the glory to me!'---or when we don't accept the will of God.
+We should watch out for our self-love when we have vain thoughts---or 'all the glory to me!'---or when we don't accept the will of God.
 
 It's difficult to say things to this older brother. He seems to know everything already. His viewpoint---he has it all figured out. He's full of self-exaltation. He sees only the sins of others and refuses to see his own imperfections.
 
 If we love with a heart full of pride, our love becomes conditional. We will show love only if others behave according to our will. With pride we see ourselves as God, judging others according to our will.
 
-Pride does not allow us to love with the love necessary to win others to God's love. This fellow is living in the house of love and mercy. The father is such a good father.
+Pride does not allow us to love with the love necessary to win others to God's love. This fellow is living in the house of love and mercy. He has such a good father.
 
 We were told earlier that, "The father saw the younger son coming while he was still a long way off" (Luke 15:20).
 
@@ -231,9 +231,9 @@ The sinful, younger son is the one to imitate. The older son is detestable, but 
 
 We're told in *Christ Is Passing By*, "Pride is the greatest enemy of your married life" (Josemaría Escrivá, *Christ Is Passing By*, Point 26). Powerful phrase.
 
-The devil uses pride. He tries to influence everything, even the truth. The word 'diabolic' comes from *diaballein* or 'to tear apart.' The devil is the source of all disunity.
+The devil uses pride. He tries to influence everything, even the truth. The word 'diabolic' comes from the Greek word *diaballein* or 'to tear apart.' The devil is the source of all disunity.
 
-Fulton Sheen says there are two clear signs of the devil in the world: one is violence, and the other is nudity. Plenty of both around.
+Fulton Sheen says there are two clear signs of the devil in the world: one is violence, and the other is nudity (*cf*. Fulton Sheen, Video, "Bishop Sheen on the Diabolical"). Plenty of both around.
 
 For those older in the spiritual life, the devil can often attack through the appearance of good---charity versus responsibility---but all temptations are overcome with prayer and humility, serving and passing unnoticed, surrendering our own opinion.
 
@@ -245,9 +245,9 @@ This person told me once, "I realized that all the little things that irritate a
 
 Small things, maybe things that irritate us, often can be the things that really make us lose our peace. We have to watch out for vanity, for temper, for complaining, for not accepting the will of God, being overly sensitive.
 
-Pride is a flower that grows in the devil's garden. C. S. Lewis says, "A prideful person is always looking down on things and people; and of course, as long as you're looking down, you can't see what is above you."
+Pride is a flower that grows in the devil's garden. C. S. Lewis says, "A prideful person is always looking down on things and people; and of course, as long as you're looking down, you can't see what is above you" (C. S. Lewis, *Mere Christianity*).
 
-St. Thomas Aquinas says we can only find happiness in God, because He is the Author of happiness.
+St. Thomas Aquinas says we can only find happiness in God, because He is the Author of happiness (*cf*. Thomas Aquinas, *Summa Theologiae*, I-II, Question 2, quoting Augustine, *The City of God*, Book XIX).
 
 Our Lady said in the Magnificat, "He has looked upon the lowliness of his handmaid" (Luke 1:48). She gives us the key to conquering our pride, to growing in humility.
 

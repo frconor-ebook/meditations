@@ -6,8 +6,8 @@ reading_time: 14
 tags: ["Virtues & Struggle"]
 prev_slug: simeon-and-anna
 prev_title: "Simeon and Anna"
-next_slug: sin-of-pridethe-elder-son
-next_title: "Sin of Pride\u2014The Elder Son"
+next_slug: sin-of-pride-the-elder-son
+next_title: "Sin of Pride (The Elder Son)"
 related: [{"slug": "st-thomas-aquinas-after-edward-leen", "title": "St Thomas Aquinas (After Edward Leen)"}, {"slug": "the-clean-of-heart-after-edward-leen", "title": "The Clean of Heart (after Edward Leen)"}, {"slug": "naturalness-and-simplicity", "title": "Naturalness and Simplicity"}]
 ---
 
