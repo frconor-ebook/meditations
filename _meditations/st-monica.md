@@ -45,7 +45,7 @@ Every one of her prayers before then had been answered, but God was saying, "Not
 
 He summarizes this lesson later while writing about leaving home. He said he left in secret so that his mother wouldn't go with him. She didn't want him to go for fear of the pagan influences that he might encounter.
 
-Reflecting on that incident, he wrote, "One night I stole away without her. She remained praying and weeping. And what was she praying for, O my God, with all those tears, but that you should not allow me to sail! But you saw deeper and granted the essential part of her prayer. You did not do what it was at that moment she was asking, that you might one day do the thing for which she was always asking."
+Reflecting on that incident, he wrote, "That night I stole away without her. She remained praying and weeping. And what was she praying for, O my God, with all those tears, but that you should not allow me to sail! But you saw deeper and granted the essential part of her prayer. You did not do what it was at that moment she was asking, that you might one day do the thing for which she was always asking."
 
 St. Monica teaches us to have great faith, trust, and abandonment in prayer. She teaches us how to accept the will of God in the various ways that it comes to us. She teaches us to have a great optimism.
 
@@ -59,7 +59,7 @@ Her daily fidelity to God and to prayer also won her the conversion of her husba
 
 She's a great example of Christian motherhood today, an example for all mothers to pray for their children, to offer up the daily habits or contradictions or crosses or ups and downs of family life, or the daily fulfillment of their ordinary duties, for the spiritual well-being of their children.
 
-About her, St. Augustine said, "She looks after everyone as if she truly were the mother of all. She also serves everyone, as if she were the daughter of all" (St. Augustine, *Confessions*, IX, 9, 22).
+About her, St. Augustine said, "She looks after everyone as if she truly were the mother of all. She also serves everyone, as if she were the daughter of all" (Augustine, *Confessions*, IX, 9, 22).
 
 St. Monica constantly kept the conversion of her son in mind. She wept a lot. She begged God insistently, and never stopped asking good and wise people to speak to her son and to try to convince him to abandon his errors.
 
@@ -67,7 +67,7 @@ One day St. Ambrose, the Bishop of Milan, whom she had already visited several t
 
 He said, "Go away from me now. As you live, it is impossible that the son of such tears should perish" (*ibid*., III, 12, 21).
 
-The example of St. Monica remained engraved on the soul of St. Augustine, so that years later, perhaps recalling his mother, he exhorted people: "Do everything in your power to obtain the salvation of those in your family" (St. Augustine, *Sermon 94*).
+The example of St. Monica remained engraved on the soul of St. Augustine, so that years later, perhaps recalling his mother, he exhorted people: "Do everything in your power to obtain the salvation of those in your family" (Augustine, *Sermon 94*).
 
 Mothers and fathers have to continually remind themselves that their job is to get the souls of their children to heaven.
 
@@ -79,7 +79,7 @@ For the last fifty years, the Church has been echoing in different ways that the
 
 It's very good for parents to think and pray and discuss long and hard about how to lift up the formative atmosphere of their home.
 
-It's very pleasing to Our Lord to see a Christian family as a truly domestic Church. This is the phrase the Second Vatican Council liked to use to talk about the family. The domestic Church nourishes the souls.
+It's very pleasing to Our Lord to see the Christian family as a a truly domestic Church. This is the phrase the Second Vatican Council liked to use to talk about the family. The domestic Church nourishes the souls.
 
 "It's a place of prayer and of the \[transmission\] of faith, of learning through the example of parents and the older ones, and of solid Christian attitudes preserved through life as a most sacred legacy" (John Paul II, *Address*, 10 March 1989).
 
@@ -103,7 +103,7 @@ It may be that the prayer that you say for your child today will produce its fru
 
 All prayer for the family is very pleasing to Our Lord, particularly when accompanied by our diligent efforts to lead an exemplary life. We have to back up our piety with virtue, with deeds. Children have to see that we're serious.
 
-Of his mother, St. Augustine said, "She strove to win him to you, speaking to him about you through her conduct, by which you made her beautiful, an object of reverent love and a source of admiration to her husband" (St. Augustine, *Confessions*, IX, 9, 19).
+Of his mother, St. Augustine said, "She strove to win him to you, speaking to him about you through her conduct, by which you made her beautiful, an object of reverent love and a source of admiration to her husband" (Augustine, *Confessions*, IX, 9, 19).
 
 If we want to lead those around us to God, our example and joy need to come first.
 
@@ -147,7 +147,7 @@ Our Lord may come to knock on the hearts of your children when they're young or 
 
 I heard of a son in the family who had gone a bit wayward. The other children in the family were still on the straight and narrow, and the father was complaining to his wife about the son who was simply turning out the opposite of what they had wanted. The reply of the holy wife was, 'Give him plenty of space.'
 
-St. Josemaría was a great believer in respecting the freedom of your children. You demand responsibility but you also give them plenty of space. And in the meantime, you double your prayer.
+St. Josemaría was a great believer in respecting the freedom of your children (Josemaría Escrivá, *Christ Is Passing By*, Point 27). You demand responsibility but you also give them plenty of space. And in the meantime, you double your prayer.
 
 St. John Paul says, "There are many mothers all over the world today in the same situation as St. Monica. Nobody can thank them enough for what they have done through prayer and sacrifice for the Church and the Kingdom of God. May God reward them for it.
 
@@ -159,7 +159,7 @@ But it's interesting to see how our Church gives a great lead here. Mothers can 
 
 If the prayer of St. Monica as a mother was so pleasing to God, how much more will that of the entire family praying for the same ends be?
 
-St. Josemaría encouraged to always give your children plenty of freedom, but encourage family prayer, even if it's just three Hail Mary's before going to bed or at some other moment, and the grace before meals.
+St. Josemaría encouraged to always give your children plenty of freedom, but encourage family prayer, even if it's just three *Hail Mary*'s before going to bed or at some other moment, and the grace before meals.
 
 "Family prayer," says St. John Paul, "has its own characteristics. It is done in common, husband and wife together, parents and children united. ... The words of the Lord promising his presence among us can be applied to the members of the Christian family in a special way: 'I say to you, further, if two of you shall agree on earth about anything at all for which they ask, it shall be done for them by my Father in heaven. For where two or three are gathered together for my sake, there am I in the midst of them'" (Matt. 18:19-20, John Paul II, Apostolic Exhortation, *Familiaris consortio*, Point 59, November 22, 1981).
 
