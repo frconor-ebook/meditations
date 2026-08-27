@@ -6,9 +6,9 @@ reading_time: 16
 tags: ["Parables"]
 prev_slug: the-passion-of-st-john-the-baptist
 prev_title: "The Passion of St. John the Baptist"
-next_slug: the-pool-at-bethsaida
-next_title: "The Pool at Bethsaida"
-related: [{"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}, {"slug": "salt-and-light", "title": "Salt and Light"}]
+next_slug: the-pharisee-and-the-publican-2027
+next_title: "The Pharisee and the Publican (2027)"
+related: [{"slug": "the-pharisee-and-the-publican-2027", "title": "The Pharisee and the Publican (2027)"}, {"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}]
 ---
 
 By Fr. Conor Donnelly

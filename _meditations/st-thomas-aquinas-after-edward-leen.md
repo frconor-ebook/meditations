@@ -7,7 +7,7 @@ prev_slug: spiritual-receptivity
 prev_title: "Spiritual Receptivity"
 next_slug: st-andrew
 next_title: "St. Andrew"
-related: [{"slug": "simplicity-after-edward-leen", "title": "Simplicity (after Edward Leen)"}, {"slug": "the-clean-of-heart-after-edward-leen", "title": "The Clean of Heart (after Edward Leen)"}, {"slug": "st-thomas-aquinas", "title": "St. Thomas Aquinas"}]
+related: [{"slug": "simplicity-after-edward-leen", "title": "Simplicity (after Edward Leen)"}, {"slug": "st-teresa-of-avila-after-edward-leen", "title": "St. Teresa of \u00c1vila (after Edward Leen)"}, {"slug": "the-clean-of-heart-after-edward-leen", "title": "The Clean of Heart (after Edward Leen)"}]
 ---
 
 

@@ -4,8 +4,8 @@ title: "The Pool at Bethsaida"
 description: "\"After this there was a Jewish festival, and Jesus went up to Jerusalem. Now in Jerusalem next to the Sheep Gate, there is a pool called Bethesda in..."
 reading_time: 19
 tags: ["Gospel Scenes & Miracles"]
-prev_slug: the-pharisee-and-the-publican
-prev_title: "The Pharisee and the Publican"
+prev_slug: the-pharisee-and-the-publican-2027
+prev_title: "The Pharisee and the Publican (2027)"
 next_slug: the-power-of-the-beatitudes
 next_title: "The Power of the Beatitudes"
 related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]

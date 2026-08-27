@@ -7,7 +7,7 @@ prev_slug: the-chair-of-st-peter
 prev_title: "The Chair of St. Peter"
 next_slug: the-communion-of-saints
 next_title: "The Communion of Saints"
-related: [{"slug": "simplicity-after-edward-leen", "title": "Simplicity (after Edward Leen)"}, {"slug": "st-thomas-aquinas-after-edward-leen", "title": "St Thomas Aquinas (After Edward Leen)"}, {"slug": "clean-of-heart", "title": "Clean of Heart"}]
+related: [{"slug": "simplicity-after-edward-leen", "title": "Simplicity (after Edward Leen)"}, {"slug": "st-thomas-aquinas-after-edward-leen", "title": "St Thomas Aquinas (After Edward Leen)"}, {"slug": "st-teresa-of-avila-after-edward-leen", "title": "St. Teresa of \u00c1vila (after Edward Leen)"}]
 ---
 
 By Fr. Conor Donnelly

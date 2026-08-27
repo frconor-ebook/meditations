@@ -6,8 +6,8 @@ reading_time: 19
 tags: ["Saints & Feast Days"]
 prev_slug: st-thomas-more
 prev_title: "St. Thomas More"
-next_slug: sts-cyril-and-methodius
-next_title: "Sts. Cyril and Methodius"
+next_slug: st-therese-of-lisieux
+next_title: "St. Th\u00e9r\u00e8se of Lisieux"
 related: [{"slug": "st-thomas-more", "title": "St. Thomas More"}, {"slug": "dedication-of-the-basilica-of-st-john-lateran-2026", "title": "Dedication of the Basilica of St. John Lateran (2026)"}, {"slug": "st-john", "title": "St. John"}]
 ---
 

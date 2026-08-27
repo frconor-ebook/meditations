@@ -6,8 +6,8 @@ reading_time: 18
 tags: ["Work & Ordinary Life"]
 prev_slug: making-good-decisions-or-the-virtue-of-prudence
 prev_title: "Making Good Decisions or The Virtue of Prudence"
-next_slug: marriage-and-indissolubility
-next_title: "Marriage and Indissolubility"
+next_slug: making-the-most-of-the-gifts-we-have-been-given
+next_title: "Making the Most of the Gifts We Have Been Given"
 related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "the-good-use-of-time", "title": "The Good Use of Time"}, {"slug": "making-a-more-just-world", "title": "Making A More Just World"}]
 ---
 

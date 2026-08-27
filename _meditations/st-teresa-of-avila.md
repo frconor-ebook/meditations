@@ -6,9 +6,9 @@ reading_time: 16
 tags: ["Saints & Feast Days"]
 prev_slug: st-teresa-benedicta-of-the-cross-edith-stein
 prev_title: "St. Teresa Benedicta of the Cross (Edith Stein)"
-next_slug: st-thomas
-next_title: "St. Thomas"
-related: [{"slug": "st-teresa-benedicta-of-the-cross-edith-stein", "title": "St. Teresa Benedicta of the Cross (Edith Stein)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+next_slug: st-teresa-of-avila-after-edward-leen
+next_title: "St. Teresa of \u00c1vila (after Edward Leen)"
+related: [{"slug": "st-teresa-benedicta-of-the-cross-edith-stein", "title": "St. Teresa Benedicta of the Cross (Edith Stein)"}, {"slug": "st-teresa-of-avila-after-edward-leen", "title": "St. Teresa of \u00c1vila (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
 ---
 
 

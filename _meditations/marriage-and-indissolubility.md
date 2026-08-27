@@ -4,8 +4,8 @@ title: "Marriage and Indissolubility"
 description: "\"Some Pharisees approached Jesus, and to put him to the test, they said, 'Is it against the Law for a man to divorce his wife on any pretext whatever?' He..."
 reading_time: 18
 tags: ["Family & Marriage"]
-prev_slug: making-up-for-lost-time
-prev_title: "Making Up for Lost Time"
+prev_slug: making-the-most-of-the-gifts-we-have-been-given
+prev_title: "Making the Most of the Gifts We Have Been Given"
 next_slug: marriage-in-heaven
 next_title: "Marriage in Heaven"
 related: [{"slug": "fidelity-in-marriage", "title": "Fidelity in Marriage"}, {"slug": "marriage-in-heaven", "title": "Marriage in Heaven"}, {"slug": "zeal-for-holiness-through-marriage", "title": "Zeal for Holiness Through Marriage"}]

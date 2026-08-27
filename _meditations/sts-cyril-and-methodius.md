@@ -4,8 +4,8 @@ title: "Sts. Cyril and Methodius"
 description: "The feast of Saints Cyril and Methodius is a feast celebrating the co-patrons and evangelizers of Europe. Cyril and Methodius were the youngest and the..."
 reading_time: 18
 tags: ["Saints & Feast Days"]
-prev_slug: st-thomas-more-and-st-john-fisher-2026
-prev_title: "St. Thomas More and St. John Fisher (2026)"
+prev_slug: st-therese-of-lisieux
+prev_title: "St. Th\u00e9r\u00e8se of Lisieux"
 next_slug: sts-martha-mary-and-lazarus
 next_title: "Sts. Martha, Mary, and Lazarus"
 related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
