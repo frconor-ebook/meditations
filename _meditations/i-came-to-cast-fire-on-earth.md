@@ -4,8 +4,8 @@ title: "I Came To Cast Fire On Earth"
 description: "We're told in St. Luke, \"I came to cast fire upon the earth, and would that it were already enkindled\" (Luke 12:49). We can see the divine zeal of Christ..."
 reading_time: 18
 tags: ["Apostolate"]
-prev_slug: humility-relying-on-god
-prev_title: "Humility: Relying on God"
+prev_slug: i-am-come-that-they-may-have-life
+prev_title: "I Am Come That They May Have Life"
 next_slug: i-thirst
 next_title: "I Thirst"
 related: [{"slug": "fire-on-earth", "title": "Fire On Earth"}, {"slug": "hearts-on-fire", "title": "Hearts on Fire"}, {"slug": "the-devils-cast-out", "title": "The Devils Cast Out"}]

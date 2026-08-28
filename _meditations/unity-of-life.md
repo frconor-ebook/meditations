@@ -8,7 +8,7 @@ prev_slug: understanding
 prev_title: "Understanding"
 next_slug: unlimited-forgiveness
 next_title: "Unlimited Forgiveness"
-related: [{"slug": "st-josephs-holiness-in-ordinary-life", "title": "St. Joseph\u2019s Holiness in Ordinary Life"}, {"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}]
+related: [{"slug": "st-josephs-holiness-in-ordinary-life", "title": "St. Joseph\u2019s Holiness in Ordinary Life"}, {"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "i-am-come-that-they-may-have-life", "title": "I Am Come That They May Have Life"}]
 ---
 
 By Fr. Conor Donnelly

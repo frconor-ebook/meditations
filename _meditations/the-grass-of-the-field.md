@@ -6,8 +6,8 @@ reading_time: 19
 tags: ["Parables"]
 prev_slug: the-grandmother
 prev_title: "The Grandmother"
-next_slug: the-guardian-angels
-next_title: "The Guardian Angels"
+next_slug: the-great-saint-of-avila
+next_title: "The Great Saint of Avila"
 related: [{"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}, {"slug": "salt-and-light", "title": "Salt and Light"}]
 ---
 

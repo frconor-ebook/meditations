@@ -8,7 +8,7 @@ prev_slug: gratitude-for-pope-benedict-xvi
 prev_title: "Gratitude for Pope Benedict XVI"
 next_slug: growing-in-faith
 next_title: "Growing in Faith"
-related: [{"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "conjugal-love", "title": "Conjugal Love"}, {"slug": "defending-the-family", "title": "Defending the Family"}]
+related: [{"slug": "the-great-saint-of-avila", "title": "The Great Saint of Avila"}, {"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "conjugal-love", "title": "Conjugal Love"}]
 ---
 
 

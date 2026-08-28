@@ -7,7 +7,7 @@ prev_slug: sparrows
 prev_title: "Sparrows"
 next_slug: spirit-of-service
 next_title: "Spirit of Service"
-related: [{"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "fruits-of-the-holy-spirit", "title": "Fruits of the Holy Spirit"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}]
+related: [{"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "fruits-of-the-holy-spirit", "title": "Fruits of the Holy Spirit"}, {"slug": "i-am-come-that-they-may-have-life", "title": "I Am Come That They May Have Life"}]
 ---
 
 By Fr. Conor Donnelly

@@ -7,7 +7,7 @@ prev_slug: thanksgiving-day-2026
 prev_title: "Thanksgiving Day (2026)"
 next_slug: the-adoration-of-the-kings
 next_title: "The Adoration of the Kings"
-related: [{"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}]
+related: [{"slug": "i-am-come-that-they-may-have-life", "title": "I Am Come That They May Have Life"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "eternal-life", "title": "Eternal Life"}]
 ---
 
 
