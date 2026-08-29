@@ -5,9 +5,9 @@ description: "\"When the Son of man comes in his glory, escorted by all the ange
 reading_time: 18
 prev_slug: christ-is-passing-by
 prev_title: "Christ Is Passing By"
-next_slug: christ-the-light
-next_title: "Christ the Light"
-related: [{"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}, {"slug": "christ-the-light", "title": "Christ the Light"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
+next_slug: christ-the-king-2026
+next_title: "Christ the King (2026)"
+related: [{"slug": "christ-the-king-2026", "title": "Christ the King (2026)"}, {"slug": "christ-the-king-2027", "title": "Christ the King (2027)"}, {"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}]
 ---
 
 By Fr. Conor Donnelly

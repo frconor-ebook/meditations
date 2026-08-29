@@ -7,7 +7,7 @@ prev_slug: the-joy-of-the-journey-to-bethlehem
 prev_title: "The Joy of the Journey to Bethlehem"
 next_slug: the-last-day-of-the-liturgical-year-vigilance
 next_title: "The Last Day of the Liturgical Year (Vigilance)"
-related: [{"slug": "christ-the-king", "title": "Christ the King"}, {"slug": "do-not-let-your-hearts-be-troubled", "title": "Do Not Let Your Hearts Be Troubled"}, {"slug": "hearts-on-fire", "title": "Hearts on Fire"}]
+related: [{"slug": "christ-the-king", "title": "Christ the King"}, {"slug": "christ-the-king-2026", "title": "Christ the King (2026)"}, {"slug": "christ-the-king-2027", "title": "Christ the King (2027)"}]
 ---
 
 
