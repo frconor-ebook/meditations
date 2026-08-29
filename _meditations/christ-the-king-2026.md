@@ -3,6 +3,7 @@ layout: homily
 title: "Christ the King (2026)"
 description: "In the book of the Apocalypse, we are told the lamb that was slain is worthy to receive power and divinity and wisdom and strength and honor. To him that..."
 reading_time: 15
+tags: ["Saints & Feast Days"]
 prev_slug: christ-the-king
 prev_title: "Christ the King"
 next_slug: christ-the-king-2027

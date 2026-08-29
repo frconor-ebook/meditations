@@ -3,6 +3,7 @@ layout: homily
 title: "Christ the King"
 description: "\"When the Son of man comes in his glory, escorted by all the angels, then he will take his seat on his throne of glory. All nations will be assembled..."
 reading_time: 18
+tags: ["Saints & Feast Days"]
 prev_slug: christ-is-passing-by
 prev_title: "Christ Is Passing By"
 next_slug: christ-the-king-2026

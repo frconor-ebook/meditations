@@ -3,6 +3,7 @@ layout: homily
 title: "Christ the King (2027)"
 description: "Day by day, ordinary men, both those who profess loyalty to God and those who do not, are made to feel the dreadful effects of the social disorganization..."
 reading_time: 19
+tags: ["Saints & Feast Days"]
 prev_slug: christ-the-king-2026
 prev_title: "Christ the King (2026)"
 next_slug: christ-the-light
