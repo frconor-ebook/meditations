@@ -133,6 +133,7 @@ TAG_RULES = [
     ("Saints & Feast Days", [
         r"\bst\.", r"\bsts\.", r"all saints", r"archangel", r"guardian angel",
         r"martyr", r"blessed guadalupe", r"blessed [aá]lvaro", r"newman",
+        r"christ the king",
     ], []),
     ("Opus Dei", [
         r"josemar[ií]a", r"escriv[aá]", r"prelate", r"prelature",
