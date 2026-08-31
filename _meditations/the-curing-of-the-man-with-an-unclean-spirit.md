@@ -47,7 +47,9 @@ He teaches people the divine mysteries and the nature of human relationships, an
 
 He explains His doctrine simply and vigorously because He speaks of what He has seen. "In all truth, I tell you," we're told in St. John, "we speak only about what we know and witness only to what we have seen and yet you people reject our evidence" (John 3:11).
 
-Our Lord doesn't give long-winded explanations. One spiritual writer says, "He demonstrates nothing. He doesn't try to justify himself. He doesn't argue. He teaches. His authority imposes itself because the wisdom that emanates from him is irresistible. When you come to value this wisdom, when your heart is pure enough to appreciate it, you know that there cannot be any other.
+Our Lord doesn't give long-winded explanations. One spiritual writer says, "He demonstrates nothing. He doesn't try to justify himself. He doesn't argue. He teaches.
+
+"His authority imposes itself because the wisdom that emanates from him is irresistible. When you come to value this wisdom, when your heart is pure enough to appreciate it, you know that there cannot be any other.
 
 "You see that this is the absolute; that before him everything is but dust; you see that He is Life. Just as when the sun rises the stars disappear, the same happens with all the wisdom and all the opinions of men. 'Lord, to whom shall we go? You have the words of eternal life'" (Jean Leclercq, *Thirty Meditations on the Christian Life*).
 
@@ -65,13 +67,13 @@ The Venerable Bede tells us that the scribes also taught the people what was wri
 
 Christ's words were full of life; they penetrated to the bottom of men's hearts.
 
-And we all have that experience. We notice some words of the Gospel, maybe, jump about the page; hit us in the face. Or one day, one particular word or phrase means more to us. Or over time, with grace, we rediscover the unfathomable riches that are there in the Scriptures.
+And we all have that experience. We notice some words of the Gospel, maybe, jump about the page, hit us in the face. Or one day, one particular word or phrase means more to us. Or over time, with grace, we rediscover the unfathomable riches that are there in the Scriptures.
 
 When John the Baptist pointed out Jesus as He passed by, two of his disciples followed Him and spent the day in His company. St. John, the one who gives us the great dialogues of Jesus, is silent on this occasion. He only tells us that they met Him "about the tenth hour" (John 1:39), about four in the afternoon.
 
 When, many years later, he wrote his Gospel, he wanted to leave us forever the precise unforgettable moment of his first encounter with Our Lord.
 
-What did Our Lord say to them? We only know the result from the words of Andrew, the other disciple who followed Jesus: "We have found the Messiah" (John 1:41). That afternoon God entered into the deepest recesses of their hearts.
+What did Our Lord say to them? We only know the result from the words of Andrew, the other disciple who followed Jesus: "We have found the Messiah!" (John 1:41). That afternoon God entered into the deepest recesses of their hearts.
 
 We are told in the Book of Isaiah, "Yet just as from the heavens the rain and snow come down and do not return there till they have watered the earth, making it fertile and fruitful, giving seed to him who sows and bread to him who eats, so shall my word be that goes forth from my mouth. It shall not return to me void but shall do my will, achieving the end for which I sent it" (Isa. 55:10-11).
 
@@ -81,7 +83,7 @@ We are told in St. John, "Some wanted to arrest him, but no one laid hands on hi
 
 We can look again at those words that Our Lord has left us, that can open new horizons for us. "If you remain faithful to my word," we're told, "you will truly be my disciples. And you will know the truth, and the truth will set you free" (John 8:31-32).
 
-In the Word, it is God Himself who comes to us and transforms us. "The word of God is living," says St. Paul, efficacious and "sharper than any two-edged sword. It penetrates to the very division of the soul and spirit, the joints and marrow, and able to discern reflections and thoughts of the heart" (Heb. 4:12).
+In the Word, it is God Himself who comes to us and transforms us. "The word of God is living," says St. Paul, "efficacious and sharper than any two-edged sword. It penetrates to the very division of the soul and spirit, the joints and marrow, and able to discern reflections and thoughts of the heart" (*cf*. Heb. 4:12).
 
 "The word will be for you," says St. Peter, "as a lamp that shines in a dark place until the dawn comes and the morning star rises in your hearts" (2 Pet. 1:19).
 
@@ -133,9 +135,9 @@ On other occasions we may find ourselves saying something to Him, just like thos
 
 "Lord, that I may see" (Matt. 10:51), give light to my soul, set me on fire; or the words of the publican who didn't consider himself worthy to stand before his God: "God, be merciful to me, a sinner" (Luke 18:13); or the words of St. Peter: "Lord, you know everything, you know that I love you" (John 21:17).
 
-All these words or phrases can take on new meaning for us, and we can confide to Our Lord the sentiments of love and purification that fill our heart.
+All these words or phrases can take on new meaning for us, and we can confide to Our Lord the sentiments of love and purification that can fill our heart.
 
-At other times we can contemplate His Holy Humanity, and seeing Him, perfect Man, we can be moved to love Him more, to want to be more faithful to Him.
+At other times we can contemplate His Holy Humanity, and on seeing Him, perfect Man, we can be moved to love Him more, to want to be more faithful to Him.
 
 We can contemplate Him at work in Nazareth, helping St. Joseph, or later on looking after His Mother, or tired out, perhaps, from many hours of preaching or from the strain of a long journey.
 
@@ -145,7 +147,7 @@ In the *Furrow*, St. Josemaría says, "'Stay with us, it is towards evening...' 
 
 In a document of the Second Vatican Council called *Dei verbum*, it says, "It is common knowledge that among all the Scriptures, even those of the New Testament, the Gospels have a special preeminence, and rightly so, for they are the principal witness for the life and teaching of the incarnate Word, our Savior" (Pope Paul VI, Dogmatic Constitution on Divine Revelation, *Dei verbum*, Point 18, November 18, 1965).
 
-We find beautiful things there. \[St. Augustine\] once remarked, "In the pages of Aristotle and Socrates, Plato and Cicero, I have read many wonderful things. But nowhere have I read: 'Come to me, all you who labor and are heavy burdened.'"
+We find beautiful things there. Someone once remarked, "In the pages of Aristotle and Socrates, Plato and Cicero, I have read many wonderful things. But nowhere have I read: 'Come to me, all you who labor and are heavy burdened.'"
 
 The fact is that Our Lord's words have a height and depth that other words lack, whether they be of philosophers, politicians, or poets.
 

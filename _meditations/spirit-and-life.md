@@ -56,9 +56,9 @@ Isaiah speaks of the fruitfulness of the Word of God. Those words that are plant
 
 For those words that perhaps we transmit to other people in a private conversation, in a talk, in an odd moment with one of your children---we have to embed those words in good soil that over time will yield their abundant fruit, because each one of those words is destined to bring me to "the end for which I sent it" (*cf*. Isa. 55:11).
 
-The Catechism says, "All sacred Scripture is a single book and this book is Christ" (*cf*. *Catechism of the Catholic Church*, Point 134).
+The Catechism says, "All Sacred Scripture is a single book and this book is Christ" (*cf*. *Catechism of the Catholic Church*, Point 134).
 
-To nourish oneself with Scripture is to nourish oneself with Christ: St. Jerome said, "Ignorance of the Scriptures is ignorance of Christ*"* (Pope Benedict XVI, *General Audience* on St. Jerome, November 14, 2007).
+To nourish oneself with Scripture is to nourish oneself with Christ. St. Jerome said, "Ignorance of the Scriptures is ignorance of Christ*"* (Pope Benedict XVI, *General Audience* on St. Jerome, November 14, 2007).
 
 It's a very good habit that every day we will open our Gospel, read a few words, and try and make those words more personal.
 
@@ -88,9 +88,9 @@ Somebody once wrote, "I heard some beautiful things in the writings of Aristotle
 
 A few times of the year, we have the feast days of the evangelists: St. Matthew, St. Mark, St. Luke, and St. John. It can be good to think on those days of the treasure that the evangelists have left us.
 
-Their writings are a great legacy that have lasted down through the centuries and given rise to great things, have inspired many hearts, solved many problems.
+Their writings are a great legacy that have lasted down through the centuries and given rise to great things, have inspired many hearts, resolved many problems.
 
-We have a great debt of gratitude to those evangelists who lived out their vocation in a very faithful way. In spite of their miseries and their shortcomings, God used them to bring forth fruit that will last, to transmit His words so that they could give spirit and life to so many people. We are called to walk in their footsteps.
+We have a great debt of gratitude to those evangelists who lived out their vocation in a very faithful way. In spite of their miseries and their shortcomings, God used them to bring forth fruit that will last, to transmit His words so that they could give Spirit and life to so many people. We are called to walk in their footsteps.
 
 In St. Matthew, we hear**,** "Whoever hears my words and puts them into practice is like a wise man who built his house on rock" (Matt. 7:24).
 
@@ -162,7 +162,7 @@ He covered the page, thought about it for some time, and came up with a very lon
 
 When he uncovered the page, he found Our Lord just saying, whatever it was, in thirteen or sixteen words: "Render unto Caesar the things that are Caesar's, and to God the things that are God's" (Matt. 22:17-21). Again, he thought: 'Wow! So clever.'
 
-So impressed was he with the clever words of Jesus that eventually, he converted. Later he joined Opus Dei and later, he was ordained a priest. He is now the second Chinese priest of Opus Dei in Hong Kong. The words of Our Lord are truly spirit and life.
+So impressed was he with the clever words of Jesus that eventually, he converted. Later he joined Opus Dei and later, he was ordained a priest. He is now the second Chinese priest of Opus Dei in Hong Kong. The words of Our Lord are truly Spirit and Life.
 
 The prophet Ezekiel, when commanded by the Lord to read the scroll of the book, said, "it was in my mouth, as sweet as honey" (Ezek. 3:3).
 
@@ -198,7 +198,7 @@ St. Ephraim says: "Who is able to understand, Lord, all the richness of even one
 
 "He has hidden in his word all treasures, so that each of us may find a richness in what he or she contemplates" (St. Ephraim, *Commentary on the Diatessaron*). There are treasures there waiting for us to discover them.
 
-Archbishop Bruno Forte says, "If you understand that the Bible is the 'letter of God,' which speaks to your heart, then you will approach it with the trepidation and the desire with which one who is in love reads the words of the Beloved.
+\[Archbishop Bruno Forte\] said, "If you understand that the Bible is the 'letter of God,' which speaks to your heart, then you will approach it with the trepidation and the desire with which one who is in love reads the words of the Beloved.
 
 "Whoever wants to live from Jesus," he says, "must listen incessantly to the Sacred Scriptures, no one excepted. It is in them that the countenance of the Beloved is revealed, in this today which is passing and in the day of love without end."
 
@@ -216,7 +216,7 @@ We can turn to Our Lady and ask her help in our apostolate of spreading the know
 
 "He who hears my word is my mother, sister, and brother" (Luke 8:21). We are told that Our Lady ***"***pondered these words carefully in her heart" (Luke 2:19).
 
-Archbishop Forte says, "Mary is an icon of fruitful listening to the Word. She teaches us to welcome it, to care for it, and to meditate on it without ceasing. 'Mary, for her part, treasured all these things, meditating on them in her heart' (Luke 2:19).
+\[Archbishop Forte\] says, "Mary is an icon of fruitful listening to the Word. She teaches us to welcome it, to care for it, and to meditate on it without ceasing. 'Mary, for her part, treasured all these things, meditating on them in her heart' (Luke 2:19).
 
 ***"***As a perfect image of the Church, Mary allows herself to be formed by the Word of God: 'Let it be done to me according to your word' (Luke 1:38). And listening, she makes a gift of love: the Virgin of the Annunciation goes to Elizabeth to help her in her need.
 
