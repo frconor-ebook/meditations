@@ -31,7 +31,7 @@ We don't need to doubt the goodness of the master towards the servants who've do
 
 So what does this parable mean? Despite its apparent severity, like all of Our Lord's parables, it's a narrative of love and of freedom.
 
-It invites us not to think of ourselves as indispensable, which in the end is a very liberating thought. Considering ourselves indispensable can give rise to worries from which Our Lord wants to deliver us.
+It invites us not to think of ourselves as indispensable, which, in the end, is a very liberating thought. Considering ourselves indispensable can give rise to worries from which Our Lord wants to deliver us.
 
 But above all, Our Lord is telling us that the work we do for Him or for others doesn't give us a right to anything---some particular consideration or award. Doing good earns us recognition, but not a reward. We are useless servants.
 
@@ -41,7 +41,7 @@ One who lacks this perspective is at risk of having a life of unhappiness and di
 
 We will never be satisfied with the balance, since some psychological wounds resulting from our comparisons---our jealousy, our self-love---won't allow it.
 
-If we say to ourselves, 'I've only done my duty, I'm a useless servant, the good I've done is a pure gift of God who allowed me to do it and I have nothing that comes from myself,' then we will feel free and always satisfied.
+If we say to ourselves, 'I've only done my duty, I'm a useless servant, the good I've done is a pure gift \[of\] God who allowed me to do it and I have nothing that comes from myself,' then we will feel free and always satisfied.
 
 If, as the Lord says, "My right hand does not know what my left hand is doing" (Matt. 6:3), this will lead to great peace. If I don't fret over comparing what I give and what I receive, if I have no rights arising from what I've given, I will always be happy.
 
@@ -67,7 +67,7 @@ And so, Scripture invites us to always recognize and to accept our limitations a
 
 We're told, "Oh, how I would like to be able to make you understand what I feel!" St. Thérèse of Lisieux used to say (Thérèse of Lisieux, *General Correspondence, Volume Two*).
 
-There's a beautiful expression from her, of how being satisfied with littleness and grounded in total confidence in God attracts divine grace, which can transform us and lead us to the summits of love that we would otherwise be incapable of attaining by our own strength.
+There's a beautiful expression from her of how being satisfied with littleness and grounded in total confidence in God attracts divine grace, which can transform us and lead us to the summits of love that we would otherwise be incapable of attaining by our own strength.
 
 This type of radical poverty of spirit, understood and accepted, is the font for an outpouring of the Holy Spirit.
 
@@ -95,7 +95,7 @@ We're told, "Now a discussion arose between John's disciples and a Jew over puri
 
 "John answered, 'No one can receive anything except what is given to him from heaven. You yourselves bear me witness, that I said, "I am not the Christ, but I have been sent before him." He who has the bride is the bridegroom; the friend of the bridegroom, who stands and hears him, rejoices greatly at the bridegroom's voice; therefore, this joy of mine is now full. He must increase, but I must decrease'" (John 3:25-30).
 
-Mercy and forgiveness towards others are essential aspects of poverty of spirit. Renouncing resentment and the desire for vengeance while forgiving debts requires a large supply of these virtues.
+Mercy and forgiveness towards others are essential aspects of poverty of \[heart\]. Renouncing resentment and the desire for vengeance while forgiving debts requires a large supply of these virtues.
 
 Practicing poverty of spirit towards our neighbor also means not having to have the last word all the time, setting aside the prideful insistence that 'I am always right.'
 
@@ -161,7 +161,7 @@ Sometimes we have to choose to do good and avoid evil, and we must do what we ca
 
 Another way of accepting poverty of spirit and being those useless servants is to consent to the present moment. St. Josemaría liked to say, "*Hodie, nunc*! Here and now!" (Josemaría Escrivá, *The Forge*, Point 163).
 
-Accepting the will of God in this particular moment: "If it's your will, Lord, then it's my will also" (J. Escrivá, *cf*. *The Way*, Point 762)---without trying to return to the past or plan the future. We possess only the present.
+Accepting the will of God in this particular moment: "If it's your will, Lord, then it's my will also" (*cf*. J. Escrivá, *The Way*, Point 762)---without trying to return to the past or plan the future. We possess only the present.
 
 We should accept the past and trust the future to divine providence. Forget the way already travelled and set out afresh each day.
 
@@ -179,7 +179,7 @@ But we shouldn't base our security on them or to consider them as some sort of b
 
 St. John Eudes said, "Do not rely on the power or influence of friends, on your own money, on your intellect, knowledge, or strength, on your good desires and resolutions, or on human means, or on any created thing, but on God's mercy alone.
 
-"You may, of course, use all these things and take advantage of every aid that you can marshal on your side to conquer vice, to practice virtue, to direct and conclude all the business that God has placed in your hands, and acquit yourself of the obligations of your state in life. But you must renounce all dependence or confidence you may have in these things, to rely on Our Lord's goodness alone" (John Eudes, *The Life and Kingdom of Jesus in Christian Souls*).
+"You may, of course, use all these things and take advantage of every aid that you can marshal on your side to conquer vice, to practice virtue, to direct and conclude all the business that God has placed in your hands, and acquit yourself of the obligations of your state in life. But you must renounce all dependence or confidence you may have in these things, to rely \[upon\] Our Lord's goodness alone" (John Eudes, *The Life and Kingdom of Jesus in Christian Souls*).
 
 The theological virtues of faith, hope, and charity can assist us in this whole process. They are the heart of the Christian life. They create in us all of God's riches.
 

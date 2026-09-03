@@ -45,7 +45,7 @@ The *Catechism of the Catholic Church* says that the Mass "makes Calvary present
 
 When we are present at Mass, we get transported back to the foot of the Cross. The Mass is like a time machine.
 
-Whether we are physically present at Mass, or whether we follow Mass online these days, the Mass doesn't lose its meaning for us.
+Whether we are physically present at Mass, or whether we follow Mass online these days \[of the pandemic\], the Mass doesn't lose its meaning for us.
 
 Sometimes people say, "I don't get too much out of the Mass." But the Mass is not like a supermarket. We don't go there to get things out of it.
 
@@ -59,7 +59,7 @@ A lady asked me once, "Father, when I turn on my computer, can that be redemptiv
 
 The answer is Yes. That little pressing of a button, when united to the Sacrifice of Christ, acquires a redemptive value, an infinite value.
 
-In and through the Mass, everything takes on meaning. That's one of the reasons why the Church has said in her documents that the Mass is "the source and summit of the whole Christian life" (*Lumen gentium*, Point 11; *Catechism*, Point 1324).
+In and through the Mass, everything takes on meaning. That's one of the reasons why the Church has said in her documents that the Mass is "the source and summit of the whole Christian life" (Vatican II, *Lumen gentium*, Point 11, November 21, 1964; *Catechism*, Point 1324).
 
 The summit is that to which everything is directed. If you're going to climb Mount Kenya or Kilimanjaro, your every little bit of preparation and every step is directed towards the summit.
 
@@ -91,11 +91,11 @@ That's why it's very good to follow with your eyes the words of the Mass that th
 
 Or suddenly you come to understand the value of that word or that sentence. Its meaning comes to be a little bit more special to you.
 
-A priest told me once in Ireland how he was going to say Mass for some nuns. He asked the Sister in charge: "Sister, would you like me to say a few words during the Mass?" And she answered, saying: "Father, surely the Mass has words enough of its own?"
+A priest told me once in Ireland how he was going to say Mass for some nuns. He asked the Sister in charge: "Sister, would you like me to say a few words during the Mass?"
 
-In other words, No. "But," he said, "I was very impressed with the way that she said it."
+And she answered, saying: "Father, surely the Mass has words enough of its own?" In other words, No.
 
-Here was somebody who had learned to savor the Word in the Mass, to savor the beauty and the richness of the liturgy.
+"But," he said, "I was very impressed with the way that she said it." Here was somebody who had learned to savor the Word in the Mass, to savor the beauty and the richness of the liturgy.
 
 Possibly there are few legacies of greater value that you can leave your children than your regular attendance at Mass. It shows them what you really believe in. It shows them how your family hangs together, how you solve your problems. It helps us have faith in the eternal wedding feast which we are preparing for.
 
@@ -161,7 +161,7 @@ Sometimes great treasures that we are very close to---we can get a bit accustome
 
 A lady in another country told me once how she grew up without any religion. Then she tried Buddhism, Hinduism, Taoism, and different isms. Then she discovered Christianity, and her first encounter was Evangelical Christianity.
 
-Then she discovered Catholicism, and eventually, she converted to Catholicism.
+Then she discovered Catholicism and eventually, she converted to Catholicism.
 
 One day she told me, "Father, I think I'm becoming more and more Catholic because I find I don't like long homilies anymore. A 45-minute sermon on a Sunday was fine before, because that's all that there was.
 

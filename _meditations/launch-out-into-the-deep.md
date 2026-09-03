@@ -43,7 +43,7 @@ And that's what's going to make the difference---that supernatural consideration
 
 One of the main messages in this annual course, we were told, was precisely that: supernatural outlook. The work that we're involved in is supernatural. Our approach has to be supernatural. Our reactions have to be supernatural. Faith, trust, hope.
 
-"The secret of progress," said one spiritual writer, "and of every victory, is, in fact, to know how to begin again, and to learn from a failure and to try once more" (George Chevrot, *Simon Peter*).
+"The secret of progress," said one spiritual writer, "and of every victory, is, in fact, to know how to begin again, and to learn from a failure and to try once more" (Georges Chevrot, *Simon Peter*).
 
 Possibly, through all the apparent failures, Our Lord may be telling us that we have to try, for more supernatural reasons, to function out of obedience, for Him and for Him only. "At your word..."
 
@@ -59,15 +59,13 @@ And so, we find a certain power there, reasons for going on, cast the nets here,
 
 We never know what souls Our Lord is going to bring us in contact with. So this virtue---listening to the Word---is very essential to follow Our Lord closely.
 
-When Peter went out into the lake with Our Lord in the boat, he very quickly discovered that his nets were filling, so much so that they were in danger of breaking. So they had to call their friends. There was fish for everybody.
+When Peter put out into the lake with Our Lord in the boat, he very quickly discovered that his nets were filling, so much so that they were in danger of breaking. So they had to call their friends. There was fish for everybody; obedience is always rewarded bountifully.
 
-Obedience is always rewarded bountifully. This passage of the Gospel can be full of lessons for us.
+This passage of the Gospel can be full of lessons for us. In Christ's absence, everything can be in vain. If people try to promote apostolic work without counting on God, but counting on their own experience and human factors, they end up in great darkness.
 
-In Christ's absence, everything can be in vain. If people try to promote apostolic work without counting on God, but counting on their own experience and human factors, they end up in great darkness.
+But when we're working for God, we leave it to Him. If we try to insist on doing things our way, doing our own will, guided only by our own judgment, then, we may end up with a lot of fruitlessness (*cf*. J. Escrivá, *The Forge*, Point 574).
 
-But when we're working for God, we leave it to Him. If we try to insist on doing things our way, doing our own will, guided only by our own judgment, then, we may end up with a lot of fruitlessness.
-
-We are told in *The Forge*, "My child, if you don't give up your own judgment, if you are proud, if you devote yourself to 'your' apostolate, you will work all night---and your whole life will be one long night---and at the end of it all the dawn will find you with your nets empty" (J. Escrivá, *The Forge*, Point 574).
+We are told in *The Forge*, "My child, if you don't give up your own judgment, if you are proud, if you devote yourself to 'your' apostolate, you will work all night---and your whole life will be one long night---and at the end of it all the dawn will find you with your nets empty" (*ibid*.).
 
 Peter showed a certain humility by listening to somebody who wasn't a fisherman and so could be supposed to know nothing about the work in which he, Simon, had acquired so much experience, so much knowledge. 'I know. I know from experience. I know everything about my job.'
 
@@ -79,7 +77,7 @@ He gives this very trusting response. These were the final touches of his initia
 
 Above and beyond any considerations of convenience or efficiency, the principal reason why obedience is so essential for the disciple of Christ is that it forms part of the mystery of redemption.
 
-The Second Vatican Council says, "Christ...revealed to us his mystery; by his obedience he brought about our redemption" (Vatican II, *Lumen gentium*, Point 3).
+The Second Vatican Council says, "Christ...revealed to us his mystery; by his obedience he brought about our redemption" (Vatican II, *Lumen gentium*, Point 3, November 21, 1964).
 
 By eliciting that act of obedience from Peter, that total confidence, He prepared very much the ground for his future vocation.
 
@@ -95,7 +93,7 @@ If we stay with Christ, He always fills our nets. In His presence, even what app
 
 I have just finished reading the history of the Diocese of Okuru. Very inspiring. You see all sorts of different people, with all sorts of different initiatives, in big places and small places, sometimes places that seem rather insignificant.
 
-But when you put the whole thing together---it's a wonderful story of evangelization, of development, of God working in all sorts of ways, building the future, changing the world, all the things we dream about---all done through this little person here and that little person there, living a certain spirit, but corporately, turning the soil.
+But when you put the whole thing together, it's a wonderful story of evangelization, of development, of God working in all sorts of ways, building the future, changing the world, all the things we dream about---all done through this little person here and that little person there, living a certain spirit, but corporately, turning the soil.
 
 That's very much what we're involved in. The day-to-day realities and the humdrum things might seem to be superfluous or not fruitful, but yet, when you put it all together, something great is taking place.
 
@@ -155,11 +153,11 @@ We're told in *The Way*, "Among those around you---apostolic soul---you are the 
 
 We never know the depth and breadth of the circles that God wants us to create, from being that stone dropped into the lake. New circles every time, a new period of our life.
 
-And, as many of the saints were told, let us not try to restrict God, as Peter didn't. "If you're one of those who launch out into the deep, set the course straight and firm. \... If you give yourself to God the way the saints did, let no one and nothing occupy your attention and slow you down: you belong to God.
+And, as many of the saints were told, let us not try to restrict God, as Peter didn't. "If you're one of those who launch out into the deep, set the course straight and firm. \... If you give yourself to God the way the saints did, let no one and nothing occupy your attention and slow you down: you belong to \[God\].
 
 "If you give yourself, give yourself for eternity. Let neither the rolling waves nor the treacherous undercurrent shake the concrete solidity of your foundations. God depends on you. He leans on you.
 
-"Put all your energy into it and row against the current...*'Duc in altum*.' Launch out into the deep waters with the daring of all those around you who love Christ, and with the example of them" (Jesús Urteaga, *Man the Saint*).
+"Put all your energy into it and row against the current...\'*Duc in altum*.' Launch out into the deep waters with the daring of all those around you who love Christ, and with the example of them" (Jesús Urteaga, *Man the Saint*).
 
 One of the words that was striking among the meditations in the annual course was that people in the world don't think about eternal life, which is so true. Nobody goes around thinking about eternal life. They have so many things to think about in this life.
 
@@ -185,7 +183,7 @@ We don't know how God is using or casting our nets in these particular moments, 
 
 Each opportunity, each situation is an opportunity to cast those nets. 'I am here for a purpose. God has got into my boat. He has placed me in this situation. He has placed these people around me. There is something here that I have to transmit.'
 
-"Do the sowing then. I assure you, in the name of the Lord of the harvest, that there will be a good crop. But make a generous sowing... \[And thus,\] the whole world!" (*ibid*.).
+"Do the sowing then. I assure you, in the name of the Lord of the harvest, that there will be a good crop. But make a generous sowing... \[And thus,\] the whole world!" (J. Escrivá*, ibid*.).
 
 He continues, "That very same spirit is to be lived, even better if possible, when one works in a place where there are already a good number of faithful of the Prelature. The Work of St. Raphael or St. Gabriel, in a center, in a corporate undertaking, and so forth, is none other than the total of the personal apostolate of each of those involved in them, multiplied by God's grace."
 

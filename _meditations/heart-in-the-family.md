@@ -103,9 +103,7 @@ The family is the basic and most important unit of society, the one God looks up
 
 And it's perhaps the part of society that is most insidiously and ruthlessly being attacked from all sides: taxes are levied that ignore the social importance and the value of the family; certain ideological and politically motivated trends in education militate against the proper formation of children; materialism and hedonism distort the vision of parents and teachers, and promote, for demographic and social reasons, a campaign against life itself, striking in this way at the very heart of the family; a false sense of freedom and independence is inculcated in young people; and advanced social programs leave mothers with insufficient time to look after their children.
 
-It's a very good thing to watch and be careful of the textbooks that your children are using, the ideas that are there behind them, sometimes subtle ideas.
-
-Check everything. Ask questions in the school where your children go. Remember that "the teacher is the curriculum."
+It's a very good thing to watch and be careful of the textbooks that your children are using, the ideas that are there behind them, sometimes subtle ideas. Check everything. Ask questions in the school where your children go. Remember that "the teacher is the curriculum."
 
 Many have lost sight of the fact that parents have the right to educate their own children and, in the face of excessive state intervention, have ended up renouncing an elementary right which by its very nature cannot be given up.
 
@@ -155,13 +153,13 @@ If we have our heart in our home, in our family, then we devote the necessary ti
 
 I heard of a man once in another country who came in contact with some of the formative activities of Opus Dei for married men. He was a fairly prominent, professional, prestigious person. He had eight children.
 
-He always thought that the most important thing in his life was his work but, from the formation he received, he came to learn that the most important thing in his life was his family.
+He always thought that the most important thing in his life was his work but from the formation he received, he came to learn that the most important thing in his life was his family.
 
 He began to have a very professional approach to his family. He approached it with the same seriousness with which he approached his professional work.
 
 He installed a filing cabinet in his home. He opened a file on each one of his children. He had a weekly planning session with his wife, setting quarterly goals, monthly goals, yearly goals.
 
-And he had a reporting session each week with each one of his children, where he would sit down for five, ten, fifteen minutes, and listen to them talk about their lives, their school, their sport, their interests.
+And he had a reporting session each week with each one of his children, where he would sit down for five, ten, fifteen minutes, and listen to them talking about their lives, their school, their sport, their interests.
 
 And the whole of his life changed.
 
@@ -191,9 +189,9 @@ It's not enough to have a generally benevolent but invisible affection. Affectio
 
 Far from being a waste of time, we ask ourselves the question: 'For what and for whom do I live?' It's very important. 'What interests fill my heart?'
 
-When we see that attacks on the family have multiplied, the best way of defending it is by means of true human affection, taking into account with open eyes our defects and those of others, and making God present in an agreeable way in the home.
+When we see that attacks on the family have multiplied, the best way of defending it is by means of true human affection, taking into account with open eyes our own defects and those of others, and making God present in an agreeable way in the home.
 
-We can do this by saying grace at mealtimes, by joining in with the smallest children for their night prayers, by reading a few verses of the Gospel with the older ones, or saying a short prayer for the dead, for the Pope's and the family's intentions.
+We can do this by saying grace at mealtimes, by joining in with the smallest children for their night prayers, by reading a few verses of the Gospel with the older ones, or saying a short prayer for the dead, for the Pope's and for the family's intentions.
 
 I asked an eight-year-old kid once in school, did he say his night prayers. And he said, "Yes, always." I was a bit surprised. Always? Who always says their night prayers?
 
