@@ -69,9 +69,9 @@ And so when we try to glance at images of Our Lady and say sweet and loving thin
 
 But we can remember that she's all beauty, all fair. There's a phrase in Latin that says *tota pulchra*, all beauty.
 
-St. Bernard says, "Mary's sanctity and beauty were so superlative that it was fitting that God would be her Son and she His Mother" (*cf*. St. Bernard, *Sermon 4 on the Assumption of* *the Blessed Virgin Mary).*
+St. Bernard says, "Mary's sanctity and beauty were so superlative that it was fitting that God would be her Son and she His Mother" (*cf*. Bernard, *Sermon 4 on the Assumption of* *the Blessed Virgin Mary).*
 
-St. Bonaventure says, "God could have made a greater world, but he could not have made a mother more perfect than the Mother of God" (St. Bonaventure, *The Mirror of the Blessed Virgin Mary*---*Speculum Beatae Mariae Virginis*).
+St. Bonaventure says, "God could have made a greater world, but he could not have made a mother more perfect than the Mother of God" (Bonaventure, *The Mirror of the Blessed Virgin Mary*---*Speculum Beatae Mariae Virginis*).
 
 And St. Alphonsus says she was the most beautiful soul ever created (Alphonsus Liguori, *The Glories of Mary*).
 
@@ -115,11 +115,11 @@ There's a story about Our Lord at the time of the general judgment putting St. P
 
 And then Our Lord goes away, and He comes back some time later, and He finds that heaven is full of people. He says to St. Peter, "I thought I told you to keep the gates tightly closed and be very selective about who you allowed into heaven."
 
-St. Peter answered, saying, "Yes, Lord, that's what I did, but every time I closed the gates, Your Mother keeps opening the windows."
+St. Peter answered, saying, "Yes, Lord, that's what I did, but every time I closed the gates, your Mother keeps opening the windows."
 
 And so Our Mother is our hope. God the Father must have rejoiced infinitely when a human creature full of grace was born, destined to become the Mother of the eternal Son. It's a day of great significance in the whole history of humanity.
 
-The woman was free from original sin and most chaste. Although God granted Joachim and Anne special joy as a participation in the grace poured out on their daughter now born into the world like all others, what would they have felt if they had had an inkling of her vocation?
+The woman was free from original sin and most chaste. \[Although\] God granted Joachim and Anne special joy as a participation in the grace poured out on their daughter now born into the world like all others, what would they have felt if they had had an inkling of her vocation?
 
 Looking at all the great feasts of Our Lady, we get an inkling of her greatness, what her life meant. The Church celebrates her patronage under different titles, to give us different optical angles on the Mother of God.
 
@@ -129,7 +129,7 @@ The Christian vocation that we received at baptism, you could say, is renewed ev
 
 As with God, time no longer has any significance for Our Lady. She has reached the fullness of age, the eternal youth born of participation in the constantly fresh vigor of the divine nature.
 
-St. Augustine teaches: "The Almighty is younger than all" (St. Augustine, *Homily on Genesis*), precisely because He is unchangeable. The greater the personal union with God, the deeper such a habitual disposition can be.
+St. Augustine teaches: "The Almighty is younger than all" (Augustine, *Homily on Genesis*), precisely because He is unchangeable. The greater the personal union with God, the deeper such a habitual disposition can be.
 
 As the creature most closely united to Christ, Mary is certainly the youngest of all.
 
@@ -169,7 +169,7 @@ Judging from appearances, she hardly differed at all from others in that small t
 
 Our Lady was intelligent. She placed her mind at the service of the mysteries she gradually grew to understand more deeply. She kept all these things carefully in her heart, in her mind, pondered all these things (*cf*. Luke 2:19,51).
 
-But there were times when she didn't understand. When they find Jesus in the temple and he says, "Did you not know I must be about my Father's business?" we're told, "They did not understand the words that were spoken to them (Luke 2:49). But they accept them.
+But there were times when she didn't understand. When they find Jesus in the temple and he says, "Did you not know I must be about my Father's business?" we're told. "They did not understand the words that were spoken to them" (Luke 2:49). But they accepted them.
 
 There may be times when we don't understand the mysteries of our life, or the mysteries of the cross, or the mysteries in the lives of our children. But with Our Lady, we can learn to accept those things in silence, to go back to the ordinary.
 
@@ -199,12 +199,16 @@ These can be occasions we frequently renew for increasing sanctifying grace in o
 
 Days like today are an occasion for us to go a little closer to her.
 
-"You should not be surprised," we're told in *The Forge*, "to feel in your life that weight dragging you down which St. Paul spoke of: 'I see in my members another law at war with the law of my mind' (Rom. 7:23). ---Remember then that you belong to Christ and have recourse to the Mother of God, who is also your Mother. They will not abandon you" (Josemaría Escrivá, *The Forge*, Point 124).
+"You should not be surprised," we're told in *The Forge*, "to feel in your life that weight dragging you down which St. Paul spoke of: 'I see in my members another law at war with the law of my mind' (Rom. 7:23).
+
+"---Remember then that you belong to Christ and have recourse to the Mother of God, who is also your Mother. They will not abandon you" (Josemaría Escrivá, *The Forge*, Point 124).
 
 And also in *The Forge* (Point 157), we're told, "Mother, do not leave me! Let me seek your Son, let me find your Son, let me love your Son---with my whole being! ---Remember me, my Lady, remember me."
 
 So today is a day to shower Our Lady with the little details of affection that move our hearts, which all the saints have showed us how to do.
 
-*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My immaculate mother, St. Joseph, my father and lord, my guardian angel, intercede for me.*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *EW*
