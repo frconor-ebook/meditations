@@ -6,9 +6,9 @@ reading_time: 20
 tags: ["Prayer & Interior Life"]
 prev_slug: meekness
 prev_title: "Meekness"
-next_slug: midterm-of-the-year-of-st-joseph
-next_title: "Midterm of the Year of St. Joseph"
-related: [{"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}, {"slug": "personal-prayer", "title": "Personal Prayer"}, {"slug": "peter-and-prayer", "title": "Peter and Prayer"}]
+next_slug: mental-prayer-after-edward-leen
+next_title: "Mental Prayer (after Edward Leen)"
+related: [{"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}, {"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}, {"slug": "personal-prayer", "title": "Personal Prayer"}]
 ---
 
 By Fr. Conor Donnelly

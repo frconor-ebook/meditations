@@ -8,7 +8,7 @@ prev_slug: st-luke
 prev_title: "St. Luke"
 next_slug: st-mark
 next_title: "St. Mark"
-related: [{"slug": "st-luke", "title": "St. Luke"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "st-luke", "title": "St. Luke"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
 ---
 
 

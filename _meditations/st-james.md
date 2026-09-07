@@ -8,7 +8,7 @@ prev_slug: st-gabriel
 prev_title: "St. Gabriel"
 next_slug: st-james-2026
 next_title: "St. James (2026)"
-related: [{"slug": "st-james-2026", "title": "St. James (2026)"}, {"slug": "st-philip-and-st-james", "title": "St. Philip and St. James"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
+related: [{"slug": "st-james-2026", "title": "St. James (2026)"}, {"slug": "st-philip-and-st-james", "title": "St. Philip and St. James"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}]
 ---
 
 By Fr. Conor Donnelly

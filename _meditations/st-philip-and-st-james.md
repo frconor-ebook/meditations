@@ -8,7 +8,7 @@ prev_slug: st-peter-and-st-paul
 prev_title: "St. Peter and St. Paul"
 next_slug: st-pius-x
 next_title: "St. Pius X"
-related: [{"slug": "st-james", "title": "St. James"}, {"slug": "st-james-2026", "title": "St. James (2026)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
+related: [{"slug": "st-james", "title": "St. James"}, {"slug": "st-james-2026", "title": "St. James (2026)"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}]
 ---
 
 By Fr. Conor Donnelly

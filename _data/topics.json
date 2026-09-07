@@ -296,6 +296,10 @@
   "anchor": "saints-feast-days",
   "meditations": [
    {
+    "title": "All Saints (after Edward Leen)",
+    "slug": "all-saints-after-edward-leen"
+   },
+   {
     "title": "All Saints\u2019 Day",
     "slug": "all-saints-day"
    },
@@ -1306,6 +1310,10 @@
    {
     "title": "Mental Prayer",
     "slug": "mental-prayer"
+   },
+   {
+    "title": "Mental Prayer (after Edward Leen)",
+    "slug": "mental-prayer-after-edward-leen"
    },
    {
     "title": "Octave of Prayer for the Unity of Christians",

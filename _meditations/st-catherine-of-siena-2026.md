@@ -8,7 +8,7 @@ prev_slug: st-catherine-of-siena
 prev_title: "St. Catherine of Siena"
 next_slug: st-dominic
 next_title: "St. Dominic"
-related: [{"slug": "st-catherine-of-siena", "title": "St. Catherine of Siena"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "st-catherine-of-siena", "title": "St. Catherine of Siena"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
 ---
 
 

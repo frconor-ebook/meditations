@@ -8,7 +8,7 @@ prev_slug: todays-task
 prev_title: "Today\u2019s Task"
 next_slug: trinity-sunday
 next_title: "Trinity Sunday"
-related: [{"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}, {"slug": "personal-prayer", "title": "Personal Prayer"}]
+related: [{"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}, {"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}]
 ---
 
 

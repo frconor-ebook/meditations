@@ -8,7 +8,7 @@ prev_slug: st-mary-magdalene-2026
 prev_title: "St. Mary Magdalene (2026)"
 next_slug: st-matthias
 next_title: "St. Matthias"
-related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
+related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
 ---
 
 By Fr. Conor Donnelly

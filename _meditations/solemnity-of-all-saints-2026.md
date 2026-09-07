@@ -8,7 +8,7 @@ prev_slug: sincerity-love-for-truth
 prev_title: "Sincerity, Love for Truth"
 next_slug: souls-of-prayer
 next_title: "Souls of Prayer"
-related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "the-solemnity-of-st-joseph-2026", "title": "The Solemnity of St. Joseph (2026)"}, {"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}]
+related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "the-solemnity-of-st-joseph-2026", "title": "The Solemnity of St. Joseph (2026)"}]
 ---
 
 

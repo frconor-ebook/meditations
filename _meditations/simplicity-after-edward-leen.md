@@ -8,7 +8,7 @@ prev_slug: simeon-and-anna
 prev_title: "Simeon and Anna"
 next_slug: sin-of-pride-the-elder-son
 next_title: "Sin of Pride (The Elder Son)"
-related: [{"slug": "st-thomas-aquinas-after-edward-leen", "title": "St Thomas Aquinas (After Edward Leen)"}, {"slug": "st-teresa-of-avila-after-edward-leen", "title": "St. Teresa of \u00c1vila (after Edward Leen)"}, {"slug": "the-clean-of-heart-after-edward-leen", "title": "The Clean of Heart (after Edward Leen)"}]
+related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "intimacy-with-god-after-edward-leen", "title": "Intimacy with God (after Edward Leen)"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}]
 ---
 
 

@@ -6,8 +6,8 @@ reading_time: 20
 tags: ["Prayer & Interior Life", "Virtues & Struggle"]
 prev_slug: interior-peace
 prev_title: "Interior Peace"
-next_slug: invoking-our-savior
-next_title: "Invoking Our Savior"
+next_slug: intimacy-with-god-after-edward-leen
+next_title: "Intimacy with God (after Edward Leen)"
 related: [{"slug": "the-imagination-and-interior-mortification", "title": "The Imagination and Interior Mortification"}, {"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "abandonment", "title": "Abandonment"}]
 ---
 

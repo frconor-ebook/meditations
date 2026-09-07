@@ -8,7 +8,7 @@ prev_slug: obedience-in-bethlehem
 prev_title: "Obedience in Bethlehem"
 next_slug: on-apostolate
 next_title: "On Apostolate"
-related: [{"slug": "peter-and-prayer", "title": "Peter and Prayer"}, {"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "personal-prayer", "title": "Personal Prayer"}]
+related: [{"slug": "peter-and-prayer", "title": "Peter and Prayer"}, {"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}]
 ---
 
 By Fr. Conor Donnelly

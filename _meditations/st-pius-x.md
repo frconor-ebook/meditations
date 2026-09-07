@@ -8,7 +8,7 @@ prev_slug: st-philip-and-st-james
 prev_title: "St. Philip and St. James"
 next_slug: st-pius-x-2026
 next_title: "St. Pius X (2026)"
-related: [{"slug": "love-for-the-church-st-pius-x", "title": "Love for the Church (St. Pius X)"}, {"slug": "st-pius-x-2026", "title": "St. Pius X (2026)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
+related: [{"slug": "love-for-the-church-st-pius-x", "title": "Love for the Church (St. Pius X)"}, {"slug": "st-pius-x-2026", "title": "St. Pius X (2026)"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}]
 ---
 
 By Fr. Conor Donnelly

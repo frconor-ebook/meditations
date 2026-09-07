@@ -8,7 +8,7 @@ prev_slug: st-therese-of-lisieux
 prev_title: "St. Th\u00e9r\u00e8se of Lisieux"
 next_slug: sts-martha-mary-and-lazarus
 next_title: "Sts. Martha, Mary, and Lazarus"
-related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
+related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
 ---
 
 By Fr. Conor Donnelly

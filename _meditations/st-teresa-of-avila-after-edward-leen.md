@@ -8,7 +8,7 @@ prev_slug: st-teresa-of-avila
 prev_title: "St. Teresa of Avila"
 next_slug: st-thomas
 next_title: "St. Thomas"
-related: [{"slug": "simplicity-after-edward-leen", "title": "Simplicity (after Edward Leen)"}, {"slug": "st-thomas-aquinas-after-edward-leen", "title": "St Thomas Aquinas (After Edward Leen)"}, {"slug": "the-clean-of-heart-after-edward-leen", "title": "The Clean of Heart (after Edward Leen)"}]
+related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "intimacy-with-god-after-edward-leen", "title": "Intimacy with God (after Edward Leen)"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}]
 ---
 
 

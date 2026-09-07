@@ -8,7 +8,7 @@ prev_slug: the-apostolate-of-the-home
 prev_title: "The Apostolate of the Home"
 next_slug: the-art-of-prudence
 next_title: "The Art of Prudence"
-related: [{"slug": "feast-of-the-archangels-2026", "title": "Feast of the Archangels (2026)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "feast-of-the-archangels-2026", "title": "Feast of the Archangels (2026)"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
 ---
 
 By Fr. Conor Donnelly

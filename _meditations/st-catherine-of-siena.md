@@ -8,7 +8,7 @@ prev_slug: st-benedict
 prev_title: "St. Benedict"
 next_slug: st-catherine-of-siena-2026
 next_title: "St. Catherine of Siena (2026)"
-related: [{"slug": "st-catherine-of-siena-2026", "title": "St. Catherine of Siena (2026)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "st-catherine-of-siena-2026", "title": "St. Catherine of Siena (2026)"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: st-augustine
 prev_title: "St. Augustine"
 next_slug: st-barnabas-2026
 next_title: "St. Barnabas (2026)"
-related: [{"slug": "st-barnabas-2026", "title": "St. Barnabas (2026)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "st-barnabas-2026", "title": "St. Barnabas (2026)"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
 ---
 
 By Fr. Conor Donnelly

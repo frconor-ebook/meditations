@@ -8,7 +8,7 @@ prev_slug: growing-in-faith
 prev_title: "Growing in Faith"
 next_slug: guarding-our-sight
 next_title: "Guarding Our Sight"
-related: [{"slug": "the-guardian-angels", "title": "The Guardian Angels"}, {"slug": "our-lady-of-the-angels", "title": "Our Lady of the Angels"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
+related: [{"slug": "the-guardian-angels", "title": "The Guardian Angels"}, {"slug": "our-lady-of-the-angels", "title": "Our Lady of the Angels"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}]
 ---
 
 

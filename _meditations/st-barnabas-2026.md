@@ -8,7 +8,7 @@ prev_slug: st-barnabas
 prev_title: "St. Barnabas"
 next_slug: st-bartholomew
 next_title: "St. Bartholomew"
-related: [{"slug": "st-barnabas", "title": "St. Barnabas"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "st-barnabas", "title": "St. Barnabas"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
 ---
 
 

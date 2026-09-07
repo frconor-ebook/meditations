@@ -5,8 +5,8 @@ description: "\"The Spirit of the Lord is upon me. He has sent me to bring good 
 reading_time: 21
 prev_slug: against-all-hope
 prev_title: "Against All Hope"
-next_slug: all-saints-day
-next_title: "All Saints\u2019 Day"
+next_slug: all-saints-after-edward-leen
+next_title: "All Saints (after Edward Leen)"
 related: [{"slug": "jesus-christ-the-eternal-high-priest", "title": "Jesus Christ, The Eternal High Priest"}, {"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}]
 ---
 
