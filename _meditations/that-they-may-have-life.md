@@ -1,13 +1,13 @@
 ---
 layout: homily
-title: "I Am Come That They May Have Life"
+title: "That They May Have Life"
 description: "\"I am come that they may have life and have it more abundantly\" (John 10:10). Our Lord came on earth, not to extort, but to bestow. Earthly rulers demand..."
 reading_time: 22
-prev_slug: humility-relying-on-god
-prev_title: "Humility: Relying on God"
-next_slug: i-came-to-cast-fire-on-earth
-next_title: "I Came To Cast Fire On Earth"
-related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "eternal-life", "title": "Eternal Life"}]
+prev_slug: thanksgiving-day-2026
+prev_title: "Thanksgiving Day (2026)"
+next_slug: the-adoration-of-the-kings
+next_title: "The Adoration of the Kings"
+related: [{"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}]
 ---
 
 By Fr. Conor Donnelly
@@ -122,11 +122,11 @@ Jesus said, "My Father works until now, and I work" (John 5:17). God is unceasin
 
 His mind and His will are always in their fullest exercise. The contemplation of the All-Reality which is God fully occupies and extends Divine Intelligence.
 
-God exercises His life, as we do, in the activity of the mind and will. His mind is given to the intuition of all being, of all perfection, of the sum total of all that he is. This is no other than Himself.
+God exercises His life, as we do, in the activity of the mind and will. His mind is given to the intuition of all being, of all perfection, of the sum total of all that He is. This is no other than Himself.
 
 God is subsistent beauty, absolute loveliness, infinite attractiveness. He is drawn powerfully by the magnet of this entrancing Beauty, sufficiently powerful to win to Itself all the affective energy of the Godhead.
 
-The beauty of God captivates God, and all the immense energy of His Being is poured into the enjoyment of it. God's life is one of infinite perfection because His mind embraces in its vision all with which the intellect can occupy itself, and His will adheres,without shadow of wavering or mutability, to the Absolute Good.
+The beauty of God captivates God, and all the immense energy of His Being is poured into the enjoyment of it. God's life is one of infinite perfection because His mind embraces in its vision all with which the intellect can occupy itself, and His will adheres, without shadow of wavering or mutability, to the Absolute Good.
 
 There is a striving which is attended with a measure of peace, and there is a striving which is nothing but the urge of unsatisfied cravings.
 
@@ -224,7 +224,7 @@ Abandon self as the motive-force of your doings. Allow the Holy Spirit to be the
 
 In this way you will progress, not in human life merely, but in a life that is divine. The growth in age will be marked by a growth in wisdom and in grace.
 
-In this way, in spite of the trials and sufferings and heart-crushing disappointments which are the inevitable lot of men, you will, even in the experience of the cross, be little by little initiated into that happiness, the perfection of which awaits you in the BeatificVision.
+In this way, in spite of the trials and sufferings and heart-crushing disappointments which are the inevitable lot of men, you will, even in the experience of the cross, be little by little initiated into that happiness, the perfection of which awaits you in the Beatific Vision.
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 

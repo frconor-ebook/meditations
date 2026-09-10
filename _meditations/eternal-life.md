@@ -8,7 +8,7 @@ prev_slug: eternal-happiness
 prev_title: "Eternal Happiness"
 next_slug: even-the-hairs-of-your-head
 next_title: "Even The Hairs of Your Head"
-related: [{"slug": "eternal-happiness", "title": "Eternal Happiness"}, {"slug": "the-end-of-life", "title": "The End of Life"}, {"slug": "i-am-come-that-they-may-have-life", "title": "I Am Come That They May Have Life"}]
+related: [{"slug": "eternal-happiness", "title": "Eternal Happiness"}, {"slug": "the-end-of-life", "title": "The End of Life"}, {"slug": "jesus-christ-the-eternal-high-priest", "title": "Jesus Christ, The Eternal High Priest"}]
 ---
 
 

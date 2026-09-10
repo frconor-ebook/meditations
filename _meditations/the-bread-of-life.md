@@ -8,7 +8,7 @@ prev_slug: the-bread-our-heavenly-mother-gives-us
 prev_title: "The Bread Our Heavenly Mother Gives Us"
 next_slug: the-canonization-of-st-josemaria-escriva
 next_title: "The Canonization of St. Josemar\u00eda Escriv\u00e1"
-related: [{"slug": "the-bread-our-heavenly-mother-gives-us", "title": "The Bread Our Heavenly Mother Gives Us"}, {"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "i-am-come-that-they-may-have-life", "title": "I Am Come That They May Have Life"}]
+related: [{"slug": "the-bread-our-heavenly-mother-gives-us", "title": "The Bread Our Heavenly Mother Gives Us"}, {"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}]
 ---
 
 By Fr. Conor Donnelly

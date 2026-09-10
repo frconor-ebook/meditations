@@ -7,7 +7,7 @@ prev_slug: the-washing-of-the-feet
 prev_title: "The Washing of the Feet"
 next_slug: the-widow-of-naim
 next_title: "The Widow of Naim"
-related: [{"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "i-am-come-that-they-may-have-life", "title": "I Am Come That They May Have Life"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}]
+related: [{"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}, {"slug": "life-of-faith", "title": "Life of Faith"}]
 ---
 
 

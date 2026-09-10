@@ -6,8 +6,8 @@ reading_time: 17
 tags: ["Virtues & Struggle"]
 prev_slug: humility-of-instruments
 prev_title: "Humility of Instruments"
-next_slug: i-am-come-that-they-may-have-life
-next_title: "I Am Come That They May Have Life"
+next_slug: i-came-to-cast-fire-on-earth
+next_title: "I Came To Cast Fire On Earth"
 related: [{"slug": "humility", "title": "Humility"}, {"slug": "humility-lent", "title": "Humility (Lent)"}, {"slug": "humility-of-instruments", "title": "Humility of Instruments"}]
 ---
 
