@@ -7,7 +7,7 @@ prev_slug: humility-relying-on-god
 prev_title: "Humility: Relying on God"
 next_slug: i-came-to-cast-fire-on-earth
 next_title: "I Came To Cast Fire On Earth"
-related: [{"slug": "that-they-may-have-life", "title": "That They May Have Life"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}]
+related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "eternal-life", "title": "Eternal Life"}]
 ---
 
 

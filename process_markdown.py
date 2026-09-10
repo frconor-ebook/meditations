@@ -116,6 +116,32 @@ def make_description(excerpt, max_chars=155):
     return excerpt[:cut].rstrip(".,;:") + "..."
 
 
+def load_blocked_slugs(data_dir):
+    """Load temporary publication holds without silently unblocking anything."""
+    path = os.path.join(data_dir, "blocked_meditations.json")
+    if not os.path.exists(path):
+        return set()
+
+    with open(path) as f:
+        config = json.load(f)
+
+    if isinstance(config, dict):
+        slugs = config.get("slugs", [])
+    elif isinstance(config, list):
+        slugs = config
+    else:
+        raise ValueError(f"Blocked meditation list must be a JSON object or array: {path}")
+
+    if not isinstance(slugs, list) or any(not isinstance(slug, str) for slug in slugs):
+        raise ValueError(f"Blocked meditation slugs must be a list of strings: {path}")
+
+    blocked = {slug.strip() for slug in slugs if slug.strip()}
+    invalid = [slug for slug in blocked if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", slug)]
+    if invalid:
+        raise ValueError(f"Invalid blocked meditation slug(s) in {path}: {', '.join(sorted(invalid))}")
+    return blocked
+
+
 # Topic tags assigned by matching regex patterns against the lowercased
 # title: (tag, [include patterns], [exclude patterns]). A meditation gets a
 # tag when any include pattern matches and no exclude pattern does. Curated
@@ -271,8 +297,13 @@ def convert_markdown_to_meditations(source_dir, output_dir, data_dir):
         shutil.rmtree(output_dir)
     os.makedirs(output_dir)
 
+    blocked_slugs = load_blocked_slugs(data_dir)
+    if blocked_slugs:
+        print(f"Publication holds: {', '.join(sorted(blocked_slugs))}")
+
     meditations = []
     slug_sources = {}
+    seen_slugs = set()
 
     for filename in sorted(os.listdir(source_dir)):
         if not filename.endswith(".md"):
@@ -303,6 +334,11 @@ def convert_markdown_to_meditations(source_dir, output_dir, data_dir):
             )
             continue
 
+        seen_slugs.add(slug)
+        if slug in blocked_slugs:
+            print(f"Skipping publication hold: {filename} ({slug})")
+            continue
+
         if slug in slug_sources:
             # Two source files produce the same slug (e.g. a stray copy in
             # Dropbox). Keep the later one (sorted order) so the choice is
@@ -331,6 +367,13 @@ def convert_markdown_to_meditations(source_dir, output_dir, data_dir):
                 "excerpt": make_excerpt(content_lines),
                 "content_lines": content_lines,
             }
+        )
+
+    unknown_blocked = blocked_slugs - seen_slugs
+    if unknown_blocked:
+        print(
+            "WARNING: publication hold did not match a source slug: "
+            + ", ".join(sorted(unknown_blocked))
         )
 
     # Sort by title — matches the homepage's Liquid `sort: "title"` order,

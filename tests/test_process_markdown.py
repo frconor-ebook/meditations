@@ -271,6 +271,24 @@ class TestConversion:
         meds = json.load(open(site["data"] / "meditations.json"))
         assert all(m["slug"] != "our-lady-of-fatima" for m in meds)
 
+    def test_publication_hold_omits_source_from_all_indexes(self, site):
+        (site["data"] / "blocked_meditations.json").write_text(
+            json.dumps({"slugs": ["humility"]})
+        )
+        convert_markdown_to_meditations(
+            str(site["source"]), str(site["output"]), str(site["data"])
+        )
+
+        assert not (site["output"] / "humility.md").exists()
+        meds = json.load(open(site["data"] / "meditations.json"))
+        assert all(m["slug"] != "humility" for m in meds)
+        topics = json.load(open(site["root"] / "_data" / "topics.json"))
+        assert all(
+            item["slug"] != "humility"
+            for topic in topics
+            for item in topic["meditations"]
+        )
+
     def test_new_meditation_reported(self, site, capsys):
         write_corpus(str(site["source"]), {
             "aim-high.md": meditation_source("Aim High", "New content."),
