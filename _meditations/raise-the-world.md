@@ -25,7 +25,7 @@ In the First Reading today, we read the story of Genesis. The first part of Chap
 
 "In the beginning, God created the heavens and the earth." Now we know where the heavens and the earth have come from. We know the origin of all creation.
 
-God made all these things out of nothing. He created them---that's what Creation means---to bring into life from absolutely nothing.
+God made all these things out of nothing. He created them. That's what Creation means: to bring into life from absolutely nothing.
 
 We know that the world had a beginning. There was a beginning. There is a God. And we have an idea of what He did.
 
@@ -43,7 +43,7 @@ There are four ideas it's good to have clear. If anybody ever says they believe 
 
 But when you think about it, can the world have evolved? It's not very rational to think that the world evolved from nothing. There was nothing and then there was the world.
 
-Where did that first particle come from? What was the force that made that evolution happen? To believe in the evolution of the world is not rational.
+Where did that first particle come from? What was the force that made that evolution happen? To believe in the evolution of the world is not really rational.
 
 Also, it contradicts what we're told in the first line of Genesis, that "in the beginning, God created the heavens and the earth."
 
@@ -109,7 +109,7 @@ In discovering that something divine, we discover something beautiful---the sing
 
 All this helps us to lift up our souls, and to want to order every aspect of our being and our life a little bit more to God.
 
-A lady told me once, a busy professional career person in another country, how one day, she was sitting in the garden, and she began to look at a rose. She'd seen a rose a million times in her life, but from this moment she was contemplating that rose more deeply.
+A lady told me once, a busy professional career person in another country, how one day, she was sitting in the garden, and she began to look at a rose. She'd seen a rose a million times in her life, but from this moment she was contemplating that rose in a deeper way.
 
 She said, "The thought came to me that Man has been able to put men on the moon. But no man has made a rose like that." When she spoke, you could see that God was speaking to her through the rose.
 
@@ -133,7 +133,7 @@ It's a great apostolate: the apostate of apostolates. Order leads to beauty. Bea
 
 "And God said, 'Let there be light,' and there was light" (Gen. 1:3). We may not think of light too frequently. We could take light for granted every day of our life.
 
-Yet those periods of rest, of less troubled interchange, as John Paul II liked to call it in a wonderful document he produced on "The Day of the Lord"---all about rest. The sacredness of rest, he talks about (John Paul II, *Dies Domini*, May 31, 1998).
+Yet those periods of rest, of less troubled interchange, as John Paul II liked to call it in a wonderful document he produced on "The Day of the Lord"---all about rest. The sacredness of rest, he talks about (John Paul II, Apostolic Letter, *Dies Domini*, Points 16, 65, May 31, 1998).
 
 In those moments, we come to think a little deeper about the daily realities that we encounter. Like light. When did we ever stop to think about the light? And yet where would we be without light? Natural light and also artificial light.
 
@@ -159,7 +159,9 @@ No matter how evil they might seem, or how evil the world might seem, we know th
 
 For that, partly we have the sacraments, which bring a great spiritual order, bring out the goodness in the person, tries to drown out the evil.
 
-Pope Francis has recently mentioned, talked about, the spiritual emptiness of the world. What are we going to do about the spiritual emptiness of the world? We can try and fill it with a great spiritual fullness instead of worrying or lamenting or being sorrowful about all the bad things that are in the world.
+Pope Francis has recently mentioned, talked about, the spiritual emptiness of the world (Francis, Apostolic Exhortation, *Querida Amazonia*, Point 108, February 2, 2020; *Angelus*, June 19, 2016).
+
+What are we going to do about the spiritual emptiness of the world? We can try and fill it with a great spiritual fullness instead of worrying or lamenting or being sorrowful about all the bad things that are in the world.
 
 Let's see what we can do about filling that spiritual emptiness with truth, with goodness, with beauty, with love, with order, with formation, with good ideas.
 
@@ -217,7 +219,7 @@ We can fill our lives with acts of thanksgiving. Thanksgiving to God for the bea
 
 Sometimes we might hear people saying, 'I wish I was never born.' We have every reason to thank God that He has wanted to make use of us in this whole process of creation so that we would participate in creation, and through the work that He has given us to do, with our talents, with our abilities, so that we see a great role and vocation in all of this.
 
-"And God said, 'Let there be lights in the firmament of the heavens to separate the day from the night, and let them be for signs and seasons, and for days and years" (Gen. 1:14).
+"And God said, 'Let there be lights in the firmament of the heavens to separate the day from the night, and let them be for signs and seasons, and for days and years'" (Gen. 1:14).
 
 One time I remember in Rome looking out a window. I was sick at the time and there was an elderly priest, Don José Louis Pastor, who was sort of the doctor looking after me.
 
@@ -253,7 +255,7 @@ I remember when I saw that I was rather impressed. I had never thought about it 
 
 A regal idea that comes from St. Josemaría. I've never really thought about it before.
 
-But then I went to live in Manila. In the Philippines, one of the very popular sports is cockfighting. Downtown Manila is full of cocks. When you wake up in the morning, you hear a million cocks crowing. Suddenly, that idea comes back to you with greater clarity.
+But then I went to live in Manila, and in the Philippines, one of the very popular sports is cockfighting. Downtown Manila is full of cocks. When you wake up in the morning, you hear a million cocks crowing. Suddenly, that idea comes back to you with greater clarity.
 
 We can ask Our Lady that we also might raise our thoughts and prayers in mind and heart to God each morning as we participate in the great story of Genesis, by giving glory to God like the whole of creation.
 
