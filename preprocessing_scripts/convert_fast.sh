@@ -25,6 +25,15 @@ raw_title=$(echo -n "$raw_title" | tr -d '\r')
 # Trim whitespace from beginning and end
 title=$(echo -n "$raw_title" | awk '{$1=$1};1')
 
+# Some Word documents begin with a placeholder period before the real title.
+# Use the first meaningful plain-text line as the title in that case.
+if [[ "$title" == "." || "$title" == "*" || "$title" == "*.*" ]]; then
+    fallback_title=$(printf '%s\n' "$metadata" | awk 'NF && $0 != "." && $0 != "*" && $0 != "*.*" { print; exit }')
+    if [ -n "$fallback_title" ]; then
+        title=$(echo -n "$fallback_title" | awk '{$1=$1};1')
+    fi
+fi
+
 # Special handling for titles ending with "t" - check if the filename contains the full title
 if [[ "$title" == *[^t] ]]; then
     # Not ending with 't', so we're probably fine
@@ -52,6 +61,9 @@ fi
 
 # Convert body to markdown without YAML front matter
 body=$(pandoc "$input_docx" --to=markdown --wrap=none 2>/dev/null)
+
+# Drop the matching placeholder emitted by the same Word-document artifact.
+body=$(printf '%s\n' "$body" | sed '/^\*\.\*$/d')
 
 # Verify that the Pandoc conversion was successful
 if [ -z "$body" ]; then
