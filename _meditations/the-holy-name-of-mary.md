@@ -13,7 +13,7 @@ related: [{"slug": "the-holy-name-of-jesus", "title": "The Holy Name of Jesus"},
 
 By Fr. Conor Donnelly
 
-(*Proofread)*
+(*Proofread*)
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
@@ -111,7 +111,7 @@ We venerate her name. We don't make too much fuss out of certain words in our fa
 
 The Church says the veneration we give to Our Lady is on a secondary plane. It's called *Hyperdulia*. And the veneration we give to the saints is called *Dulia*.
 
-Even if there are 10,000 people at a procession in Lourdes, or in Subukia, or any place, all of that veneration that's given to Mary never reaches the level of adoration that we give to God.
+Even if there are 10,000 people at a procession in Lourdes, or in Subukia, or in any place, all of that veneration that's given to Mary never reaches the level of adoration that we give to God.
 
 It's a mediatory petition; it passes through her hands. She helps us to make our petitions reach God the Father, God the Son, and God the Holy Spirit.
 
@@ -119,7 +119,7 @@ It makes a lot of sense if we try to have that name frequently on our lips, with
 
 In some versions of the *Morning Offering*, the name Mary appears: "O Jesus, through the most pure heart of Mary\..." So, from the very first moments of the day, her name is on our lips.
 
-In moments of difficulty, anxiety, or temptation, we can fly to her protection with the *Memorare*. If we pray the Rosary frequently, we say that name of Mary very frequently.
+In moments of difficulty, or anxiety, or temptation, we can fly to her protection with the *Memorare*. If we pray the Rosary frequently, we say that name of Mary very frequently.
 
 It's the prayer she most likes to hear. Every time that Our Lady has appeared in the last 200 years, she's always asked people to say her Rosary.
 
@@ -135,7 +135,7 @@ The *Catechism of the Catholic Church* has a lot to say about the name, every na
 
 When we're baptized or when we're born, we're given a name; we're not given a number. The name is very personal, very specific. It's not something anonymous.
 
-The *Catechism* says, "Respect for \[His\] name is an expression of the respect owed to the mystery of \[God himself\] and to the whole sacred reality it evokes" (*Catechism of the Catholic Church*, Point 2144).
+The *Catechism* says, "Respect for \[his\] name is an expression of the respect owed to the mystery of \[God himself\] and to the whole sacred reality it evokes" (*Catechism of the Catholic Church*, Point 2144).
 
 We praise Our Lady, we praise everything around her, the saints, the angels, Christ Himself.
 
@@ -175,19 +175,17 @@ The name *Mary*, being the name of the Blessed Mother, deserves special respect 
 
 Firstly, *Mary* is a name of honor, since the faithful praise Mary as the Mother of the Divine Savior.
 
-She is rightfully called "Mother of God," for Jesus, true God, second Person of the Blessed Trinity, entered this world becoming also true man through Mary, who was conceived by the power of the Holy Spirit.
+She is rightfully called "Mother of God," for Jesus, true God, second Person of the Blessed Trinity, entered this world becoming also true Man through Mary, who was conceived by the power of the Holy Spirit.
 
 Second, *Mary* is a most holy name, because the very mention of her name reminds us she's full of grace. She has found favor with God and is blessed among all women. She's the most beautiful woman that was ever created.
 
-Third, *Mary* is a maternal name, because she's Our Mother, whom Our Lord gave to us as He was dying on the cross. "Son, behold your Mother" (John 19:26-27). Look at your Mother, and never stop looking at her.
+Third, *Mary* is a maternal name, because she's Our Mother, whom Our Lord gave to us as He was dying on the Cross. "Son, behold your Mother" (John 19:26-27). Look at your Mother, and never stop looking at her.
 
 Finally, *Mary* is the name of the Mother who responds to all our needs, protects us from evil, and prays for us sinners "now and at the hour of our death." She's the Refuge of sinners, the Comforter of the afflicted, the Comforter of migrants and refugees.
 
-Many cathedrals around the world are consecrated to God in her name. There's hardly a church on the planet without an altar dedicated to her.
+Many cathedrals around the world are consecrated to God in her name. There's hardly a church on the planet without an altar dedicated to her. There's hardly a country or region without at least one special image devoted to her, through whom all sorts of benefits are received.
 
-There's hardly a country or region without at least one special image devoted to her, through whom all sorts of benefits are received. She's the patron of many wonderful things in the Church.
-
-Every small child from the earliest moments learns how to say a *Hail Mary*. There's hardly a sinner, however hardened, who doesn't possess some spark of confidence in her.
+She's the patron of many wonderful things in the Church. Every small child from the earliest moments learns how to say a *Hail Mary*. There's hardly a sinner, however hardened, who doesn't possess some spark of confidence in her.
 
 The very devils in hell, while fearing her, show her respect because she can "crush the head of the serpent" (Gen. 3:15).
 
@@ -223,7 +221,7 @@ If God chose each one of us, much more must we say that He chose Mary.
 
 We are told in *The Forge*, "That friend was saying to himself, 'Apart from other reasons, there are two good reasons why I should make reparation to my Immaculate Mother every Saturday and on the eve of her feasts.
 
-"'The second is that on Sundays and on the feasts of Our Lady, which are often local feasts, instead of dedicating such days to prayer, so many people spend them offending our Jesus with public sins and scandalous crimes. You have only to look around you and see.
+"'The second is that on Sundays and on the feasts of Our Lady, which are often local feasts, instead of dedicating such days to prayer, so many people spend them offending Our Jesus with public sins and scandalous crimes. You have only to look around you and see.
 
 "'The first reason is that, perhaps due to the devil's influence, those of us who want to be good children are not taking proper care in the way we live these days dedicated to Our Lord and to his Mother.'
 
