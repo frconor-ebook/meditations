@@ -4,8 +4,8 @@ title: "Waiting for Jesus"
 description: "We are told in St. Luke, \\\"Through the tender mercy of our God, when the day shall dawn upon us from on high to give light to those who sit in darkness..."
 reading_time: 17
 tags: ["Advent & Christmas"]
-prev_slug: vigilance-and-the-rosary
-prev_title: "Vigilance and the Rosary"
+prev_slug: vocal-prayer
+prev_title: "Vocal Prayer"
 next_slug: waiting-for-the-lord
 next_title: "Waiting for The Lord"
 related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "waiting-for-the-lord", "title": "Waiting for The Lord"}, {"slug": "finding-jesus", "title": "Finding Jesus"}]

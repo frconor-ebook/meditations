@@ -6,8 +6,8 @@ reading_time: 17
 tags: ["Prayer & Interior Life"]
 prev_slug: todays-task
 prev_title: "Today\u2019s Task"
-next_slug: trinity-sunday
-next_title: "Trinity Sunday"
+next_slug: transformation-through-prayer
+next_title: "Transformation Through Prayer"
 related: [{"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}, {"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}]
 ---
 

@@ -6,8 +6,8 @@ reading_time: 23
 tags: ["Our Lady", "Virtues & Struggle"]
 prev_slug: vanity-he-must-increase
 prev_title: "Vanity (He Must Increase)"
-next_slug: waiting-for-jesus
-next_title: "Waiting for Jesus"
+next_slug: vocal-prayer
+next_title: "Vocal Prayer"
 related: [{"slug": "our-lady-of-the-rosary-2026", "title": "Our Lady of the Rosary (2026)"}, {"slug": "the-holy-rosary", "title": "The Holy Rosary"}, {"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}]
 ---
 
