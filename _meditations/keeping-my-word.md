@@ -23,7 +23,7 @@ Our Lord praises those who keep their word. Our word of honor should be sufficie
 
 In Our Lord's time, the practice of oath-taking had fallen into disrepute due to the frequency and lack of seriousness with which oaths were taken.
 
-Our Lord opposed that custom, and with the formula, "But I say to you..." which He frequently used to show the divine origin of what He was saying, He forbade calling on God to witness, not only to a lie but also to those matters where a person's word ought to have been enough.
+Our Lord opposed that custom, and with the formula, "But I say to you..." which He frequently used to show the divine origin of what He was saying, He forbade calling on God to witness not only to a lie but also to those matters where a person's word ought to have been enough.
 
 Our Lord gives great importance to honesty, to integrity. "Behold, an Israelite, in whom there is no guile," He said about Nathaniel, later called Bartholomew (John 1:47).
 
@@ -59,7 +59,7 @@ That's one of the reasons why we have to have a hatred for every lie. Try and ma
 
 We ought to be able to say, with Christ, that we have come into the world "to bear witness to the truth" (John 18:37) at a time when many use lies and deceit to achieve promotion or a greater degree of material well-being, to avoid commitment or sacrifice, or simply through cowardice and lack of human virtue.
 
-Our Lord taught us that love for the truth is a necessary quality for being His follower. Such love brings peace, because "the truth will make you free" (John 8:32).
+Our Lord taught us that love for the truth is a necessary quality for being His follower. Such love brings peace because "the truth will make you free" (John 8:32).
 
 We need to be exemplary in this matter, being ready to live our lives, build up our material wealth, and do our job with a great love for the truth.
 
@@ -105,7 +105,7 @@ Sometimes we might hear of an idea that is in vogue: that virtues and commitment
 
 A Christian who is loyal will not cave in when upright moral behavior imposes or seems to impose serious difficulties.
 
-We have the great example of St. Thomas More that the Church has given to us. "This is not the stuff of which martyrs were made," he said, very aware of his own limitations.
+We have the great example of St. Thomas More that the Church has given to us. "This is not the stuff of which martyrs were made," he said, very aware of his own limitations (Robert Bolt, Play, *A Man for All Seasons*).
 
 We can ask God for an upright conscience. One who gives in may desire in theory to practice a particular virtue, may wish not to sin, but in practice considers that when the temptation is great or the difficulties serious, he is more or less justified in giving in.
 
@@ -187,7 +187,7 @@ One spiritual writer says, "Let us remember that often it is our own fault if we
 
 We can try and imitate Our Lord in His love for the truth. We should try and shun all types of falsehood or anything that has the odor of hypocrisy.
 
-St. Josemaría in the *Furrow* says, "You were reading in that dictionary the synonyms for insincere: 'two-faced, surreptitious, evasive, disingenuous, sly.' ---As you closed the book, you asked the Lord that nobody should ever be able to apply those adjectives to you, and you resolved to improve much more in this supernatural and human virtue of sincerity" (Josemaría Escrivá, *Furro*w, Point 337).
+St. Josemaría in the *Furrow* says, "You were reading in that dictionary the synonyms for insincere: 'two-faced, surreptitious, evasive, disingenuous, sly.' ---As you closed the book, you asked the Lord that nobody would ever be able to apply those adjectives to you, and you resolved to improve much more in this supernatural and human virtue of sincerity" (Josemaría Escrivá, *Furro*w, Point 337).
 
 We can ask Our Lady, who "pondered all these things carefully in her heart" (Luke 2:19,51), that she too might help us to ponder the importance of our love for the truth, and to put that into practice daily.
 
