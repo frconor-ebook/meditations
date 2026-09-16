@@ -41,9 +41,7 @@ By means of the consecration received in Holy Orders, the priest becomes an inst
 
 We're told in the Letter to the Hebrews, "He's a man chosen from among men and appointed to act on behalf of men in relation to God, to offer gifts and sacrifices for sins."
 
-St. Josemaría asks, "What is the priest's identity? That of Christ," he says.
-
-"Each one of us Christians can and should be not just any other Christs, but Christ himself: *ipse Christus*! But in the priest this happens in a direct way, by virtue of the sacrament" (Josemaría Escrivá, *In Love with the Church*, Point 38).
+St. Josemaría asks, "What is the priest's identity? That of Christ," he says. "Each one of us Christians can and should be not just any other Christs, but Christ himself: *ipse Christus*! But in the priest this happens in a direct way, by virtue of the sacrament" (Josemaría Escrivá, *In Love with the Church*, Point 38).
 
 Our Lord, who is present among us in many ways, is also particularly in the person of the priest. Every priest is a great gift of God to the world. He is Jesus, who goes about "doing good" (Acts 10:38); he cures illnesses, he brings peace and joy to men's minds.
 
@@ -53,11 +51,11 @@ St. Josemaría adds that he offers Our Lord "his voice, his hands, his whole bei
 
 At Mass, the priest renews in the person of Christ the redemptive Sacrifice of Calvary itself. He makes Christ's Redemption present and effective within history.
 
-Pope St. John Paul, in talking to the clergy of Brazil, reminded them that Our Lord "identifies himself with us in such a way in carrying out the powers he conferred upon us, that it is as if our personality disappears before his, since it is he himself who acts through us. ... 'It is Christ who...changes the substance of bread and wine into his Body and Blood...' at Mass (J. Escrivá, *In Love with the Church*, Point 39). And it is Jesus himself who, in the sacrament of Penance, utters the authoritative and fatherly words: 'Your sins are forgiven' (Matt. 9:2).
+Pope St. John Paul, in talking to the clergy of Brazil, reminded them that Our Lord "identifies himself with us in such a way in carrying out the powers he conferred upon us, that it is as if our personality disappears before his, since it is he himself who acts through us" (John Paul II, *Homily*, July 2, 1980).
 
-"It is he who speaks when the priest, carrying out his ministry in the name and in the spirit of the Church, announces the Word of God.
+"It is Christ who...changes the substance of bread and wine into his Body and Blood" at Mass (J. Escrivá, *In Love with the Church*, Point 39).
 
-"It is Christ himself who cares for the sick, for children and sinners, when he enfolds them with the love and pastoral care of the sacred ministries" (John Paul II, *Homily*, July 2, 1980).
+And "it is Jesus himself who, in the sacrament of Penance, utters the authoritative and fatherly words: 'Your sins are forgiven'(Matt. 9:2). It is he who speaks when the priest, carrying out his ministry in the name and in the spirit of the Church, announces the Word of God. It is Christ himself who cares for the sick, for children and sinners, when he enfolds them with the love and pastoral care of the sacred ministries" (John Paul II, *ibid*.).
 
 A priest is of more value to mankind than the entire material universe. It's incumbent upon us to pray constantly for the holiness of priests, helping them and sustaining them with our prayer and our affection. We have to see Christ Himself in them.
 
@@ -75,7 +73,7 @@ One spiritual writer says, "He is a priest always and at every moment, whether h
 
 "Just as a Christian cannot leave aside the fact that he is a new man, that Baptism has given him a particular character, and act 'as if' he were just a man purely and simply, neither can the priest leave aside his priestly character and behave 'as if' he were not a priest.
 
-"Whatever he does, whatever attitude he adopts, whether he likes it or not, it will always be the action or the attitude of a priest, because he is a priest always and at all times down to the very depths of his being, whatever he may do or whatever he may think" (Federico Suarez, *About Being a Priest*).
+"Whatever he does, whatever attitude he adopts, whether he likes it or not, it will always be the action or the attitude of a priest, because he is a priest always and at all times down to the very depths of his being, whatever he may do or whatever he may think"(Federico Suarez, *About Being a Priest*).
 
 The priest is a messenger from God to the world, sent to announce to mankind its salvation, and is constituted, as St. Paul says, "a steward" or dispenser "of the mysteries of God" (*cf*. 1 Cor. 4:1).
 
@@ -85,7 +83,7 @@ To the priest has been confided the most divine of divine works, the salvation o
 
 St. Josemaría says, "It warms my heart to think of the quiet human and supernatural dignity of those brothers of mine, scattered throughout the world. It is only right that they should now feel themselves surrounded by the friendship, help, and affection of many Christians.
 
-"And when the moment comes for them to enter God's presence, Jesus will go out to meet them. He will glorify forever those who have acted on earth in his Person and in his name. He will shower them with that grace of which they have been ministers" (J. Escrivá, *In Love with the Church*, Point 50).
+"And when the moment comes for them to enter God's presence, Jesus will go out to meet them. He will glorify forever those who have acted on earth in his Person and in his name. He will shower them with that grace of which they have been ministers\" (J. Escrivá, *In Love with the Church*, Point 50).
 
 We could meditate in the presence of God on how well we pray for priests, how we treat them, how grateful we ought to be to them for having responded positively to Our Lord's call, and how we help them to persevere and to be saints.
 
@@ -121,9 +119,9 @@ All this can be another reason for us to help them with our good example and our
 
 To help us grow in love and veneration for priests, we can meditate on these words which St. Catherine of Siena places on Our Lord's lips.
 
-She said, "I do not want the respect which should be given to priests to be in any way diminished, for the reverence which is shown them is not referred to them, but to me, by virtue of the blood which I have given them to administer.
+She said, "I do not want the respect which should be given to priests to be in any way diminished, for the reverence which is shown them is not referred to them, but to me, by virtue of the Blood which I have given them to administer.
 
-"Were it not for this, you should render them the same reverence as lay people and no more. ... You must not offend them; by offending them, you offend me and not them. Therefore, I forbid it and I've laid it down that you will not touch my Christs" (Catherine of Siena, *Dialogue*, as quoted in J. Escrivá, *In Love with the Church*, Point 38).
+"Were it not for this, you should render them the same reverence as lay people and no more. ... You must not offend them; by offending them, you offend me and not them. Therefore, I forbid it and I've laid it down that you will not touch my Christs"(Catherine of Siena, *Dialogue*, as quoted in J. Escrivá, *In Love with the Church*, Point 38).
 
 The Curé of Ars, St. John Mary Vianney, used to say, "What a great thing it is to be a priest. If I were to understand this fully, I think I would die" (Bernard Nodet*, Jean-Marie Vianney, Curé d'Ars: His Thoughts, His Heart*). St. John Paul II repeated those words, more or less verbatim.
 
@@ -157,7 +155,7 @@ God has placed the priest close to the lives of the men and women, so that he ma
 
 "God may call him to found a family, to collaborate in the transmission of human life, and thereby increase the number of faithful on earth and ultimately, the ranks of the elect in heaven. The priest is present to bless his noble love and marriage.
 
-"When the person is finally at the portals of eternity, he feels the need of fortitude and divine aid before appearing before the divine Judge. The priest anoints the failing members of the sick or dying Christian with the holy oils, and comforts him.
+"When the person is finally at the portals of eternity, he feels the need of fortitude and divine aid before appearing before the divine Judge. The priest anoints the failing members of the sick or dying Christian with the holy oils and comforts him.
 
 "The priest therefore accompanies the Christian throughout the pilgrimage of this life to the gates of heaven. He accompanies the body to its resting place in the grave with rites and prayers of immortal hope. Even beyond the threshold of eternity, he aids the soul with Christian suffrages \[prayers and offerings\] if there be need of further purification and alleviation.
 
@@ -173,7 +171,7 @@ We unite ourselves to the prayers of priests and intentions which will habituall
 
 St. Ambrose says, "Since no one is as truly our neighbor as the person who has healed our wounds, may we love the priests seeing Our Lord in each one of them. Let us love the priests as we love our neighbor" (St. Ambrose, *Treatise on St. Luke's Gospel*).
 
-We can ask Our Lady, who had her great priestly soul manifested at the cross where she allowed her soul to be pierced by a spiritual sword, allowed her heart to be broken, that she might teach us all to grow in the priestly virtues and help all priests to do likewise.
+We can ask Our Lady, who had her great priestly soul manifested at the Cross where she allowed her soul to be pierced by a spiritual sword, allowed her heart to be broken, that she might teach us all to grow in the priestly virtues and help all priests to do likewise.
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
