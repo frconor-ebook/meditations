@@ -21,7 +21,7 @@ By Fr. Conor Donnelly
 
 "As Jesus was walking on from there, he saw a man named Matthew sitting at the tax office. He said to him, 'Follow me.' And he got up and followed him" (Matt. 9:9).
 
-\[September 21\] is the feast of St. Matthew the Apostle.
+Today \[Sept. 21\] is the feast of St. Matthew the Apostle.
 
 He was born in Capernaum. He was working as a tax collector when Our Lord called him. He called him in his ordinary place of work. This is very relevant for each one of us.
 
@@ -71,7 +71,7 @@ We get the impression that a tax collector seems to have enjoyed a certain socia
 
 Then Our Lord invites him to become a disciple of His. Matthew's response is quick and generous.
 
-'Lord, help my response to you and everything that you ask of me---to be quick and to be generous.'
+'Lord, help my response to you, and everything that you ask of me, to be quick and to be generous.'
 
 Our Lord likes us to be quick, on the ball, reactive, ready to do things, dynamic, and also generous.
 
@@ -115,7 +115,7 @@ When the horse with the bell returns to the shelter of the barn each evening, oc
 
 Like the owner of these horses, God doesn't throw us away just because we're not perfect, or because we have challenges or problems, or we're full of miseries.
 
-He watches over us like a good loving Father. He even brings other people into our lives to help us when we are in need.
+He watches over us like a good, loving Father. He even brings other people into our lives to help us when we are in need.
 
 He wants us to listen to those little insinuations of the Holy Spirit or the little bell ringings in our ear---the word that He speaks to us deep in our soul and in our heart, possibly in moments of prayer like this, or maybe in moments when somebody at work says something to us, or something we read in spiritual reading, or something we suddenly see one day, when an idea becomes clearer.
 
@@ -131,7 +131,7 @@ The most logical thing to do was to tell all his friends, to bring them in conta
 
 Also, the most logical reaction that we may have in seeing that God is asking something of us, or to realize the treasure that we have found, is also to want to bring Christ to the lives of many other people, so that they can respond, and respond quickly, to be open to the plans of God and to be faithful to the end.
 
-If a person says "No" to God when He is asking, maybe with the idea of saying "Yes" at some time later, a time perceived to be more suitable, it might happen that the other occasion never shows up.
+If a person says "No" to God when He is asking, maybe with the idea of saying "Yes" at some time later at a time perceived to be more suitable, it might happen that the other occasion never shows up.
 
 It is now that God is calling us. There is a certain urgency of that call. The Lord may not knock a second time at the door of our heart.
 
@@ -215,7 +215,7 @@ Matthew accepts that enterprise and that command, that assignment, takes it very
 
 That's why very often in his Gospel he refers to the Old Testament. "This happened to fulfil what was spoken by the Prophet Isaiah" (Matt. 8:17). All the time he's helping these converted Jews to realize that Christ is the fulfilment of the Old Testament promises.
 
-Together with Our Lady, he received the gift of the Holy Spirit on Pentecost. While writing his Gospel he must have relished all those memories, all the times that he spent with Jesus, that close contact.
+Together with Our Lady, he received the gift of the Holy Spirit on Pentecost. While writing his Gospel he must have relished all those memories, all the times he spent with Jesus, that close contact.
 
 He must have been more and more grateful for that calling, that his life at the side of Christ has been so worthwhile.
 
@@ -239,9 +239,7 @@ Pope St. Paul VI in his Encyclical *Ecclesiam suam* says, "The dialogue concerni
 
 Our Lord doesn't want us to remain indifferent to anybody. The greater a person's need, the more should be our own apostolic effort to use the human and the supernatural means to help spread the vision of faith.
 
-Every feast of an apostle invites us to look again at our apostolate, our list of souls, the people God is bringing us in contact with, people who may be on the periphery of our lives, but who somehow are there for an apostolic purpose.
-
-'Lord, help me to look at the quality of my social dealings.'
+Every feast of an apostle invites us to look again at our apostolate, our list of souls, the people God is bringing us in contact with, people who may be on the periphery of our lives, but who somehow are there for an apostolic purpose. 'Lord, help me to look at the quality of my social dealings.'
 
 "You are right," says St. Josemaría in *The Way*. "'The peak'---you wrote me---'dominates the country for miles around, and yet there is not a single plain to be seen: just one mountain after another. At times the landscape seems to level out, but then the mist rises and reveals another range that has been hidden.'
 
