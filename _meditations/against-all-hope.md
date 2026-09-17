@@ -17,7 +17,7 @@ By Fr. Conor Donnelly
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 "Who in hope believed against hope, to the end that he might become the father of many nations, according to that which had been spoken, 'So shall your seed be'" (Rom. 4:18; Gen. 15:5).
 
@@ -79,7 +79,7 @@ The driver, the husband, and the two children were drowned, but the mother manag
 
 At the funeral of her husband and two children, her family gone in a second, she stood up to speak, heartbroken. She said, "Cherish your family. Your family can be here today and gone tomorrow."
 
-She also said, "If God has left me, it's because He has a purpose for my existence."
+She also said, "If God has left me, it's because he has a purpose for my existence."
 
 There was a woman at a very difficult moment of her life, possibly the most difficult, who had learned how to see that moment with a supernatural perspective, to have hope in God for the future when nothing seemed to make any sense.
 
@@ -91,7 +91,7 @@ The car lurched forward and hit a three- or four-year old little girl who was th
 
 Of course, both mothers were heartbroken. But the mother of the dead child was able to forgive the other mother, who was equally distraught. They had to look forward to the rest of their lives with hope, with peace.
 
-This virtue is not based on our own worthiness, on our own personal situation in life, or on the absence of difficulties, but on God's will---on His will that we should reach the goal---a will which is always accompanied by all the grace and help that we can need in any possible circumstances.
+"This virtue is not based on our own worthiness, on our own personal situation in life, or on the absence of difficulties, but on God's will---on his will that we should reach the goal---a will which is always accompanied by all the grace and help that we can need in any possible circumstances."
 
 If God allows situations to happen that lead us to put all our hope and trust in Him, because nothing seems to have worked out, nothing seems to be according to reason, it's because He wants us to put all our hope in Him, to try and see that there's some great apostolic purpose in all of those experiences.
 
@@ -125,7 +125,7 @@ It can help us to foster a greater detachment from our health and earthly goods,
 
 God tells each one of us that He "prefers mercy to sacrifice" (Matt. 9:13; Hos. 6:6), and if at some moment He allows pain and suffering to overwhelm us, it's because it is good for us. There's a far more lofty reason that we at times do not understand.
 
-Fulton Sheen says if God allows hearts to be broken, it's because He wants to enter into them a little more, wants to make them more Christ-like, to form them, to fashion them after His own heart (*cf*. *Through the Year with Fulton Sheen*).
+Fulton Sheen says if God allows hearts to be broken, it's because He wants to enter into them a little more, wants to make them more Christ-like, to form them, to fashion them after His own heart (*cf*. Fulton Sheen, *Through the Year with Fulton Sheen*).
 
 Those heartbreaks are for our own benefit, for that of our family, our friends, the benefit of the whole Church.
 
@@ -157,7 +157,7 @@ We should frequently practice the virtue of hope in all that concerns the state 
 
 We might tend to see sanctity as something very distant from us; perhaps just an illusion.
 
-We need to have in mind at those moments the teaching of St. John of the Cross, who says that the soul "who has the hope of heaven achieves all that is hoped for" (St. John of the Cross, *Poems,* VI).
+We need to have in mind at those moments the teaching of St. John of the Cross, who says that the soul "who has the hope of heaven achieves all that is hoped for" (John of the Cross, *Poems,* VI).
 
 This virtue can be a great driving force in our life. It's the virtue of people who keep looking up. They don't look down, particularly in difficult moments. They see the supernatural aspect of everything.
 
