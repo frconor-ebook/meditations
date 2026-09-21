@@ -28,7 +28,7 @@ We're told in St. John, "In him was life, and that life was the light of men. Th
 
 There is a contrast between light and darkness. Truth comes with the light; error comes with darkness. Sin leads to darkness.
 
-Everything good and true and beautiful is associated with the light, the divine word Incarnate, a light of truth, of love, of beauty, that Our Lord has lit up in the world.
+Everything good and true and beautiful is associated with the light, the Divine Word Incarnate, a light of truth, of love, of beauty, that Our Lord has lit up in the world.
 
 He wants us to help, to burn brightly, and to shine into the hearts and souls and minds of everybody on the planet.
 
@@ -78,9 +78,7 @@ There are different strengths of light. Some give off a lot of light, some may b
 
 Our Lord wants us to have our light burning brightly, our lamp, and on top of the lampstand. He doesn't put it under a couch, but he puts it on the lampstand, that they who enter may see the light.
 
-People are looking for that light and they might be far away, but light shines in the darkness and in the distance, brings a ray of hope into people's lives. Hope can be a source of power.
-
-Hope gives us power, gives all the people power, and all that comes from the light.
+People are looking for that light and they might be far away, but light shines in the darkness and in the distance, brings a ray of hope into people's lives. Hope can be a source of power. Hope gives us power, gives all the people power, and all that comes from the light.
 
 "This is the declaration," says St. John, "which we have heard from him and declare unto you: that God is light; in him there is no darkness" (1 John 1:5).
 
@@ -94,19 +92,19 @@ St. John says, "He that says he is in the light and hates his brother is in dark
 
 "When you have the light, believe in the light, that you may be children of light" (1 John 12:35).
 
-We are known and seen that we speak the truth, speak serious things. People around us should realize that there is something different in the things that we say, something different about the atmosphere around us: the fragrance of the truth, the true light that lights up the world.
+We are known and seen that we speak the truth, speak serious things. People around us should realize that there is something different in the things that we say, something different about the atmosphere around us: the fragrance of the truth, the true light that lights up the \[ \] in our life.
 
-Those that don't walk in the truth are somehow on the opposite. Christ gave in Judas that morsel of the last supper, and we are told that "he went out immediately. And it was night" (John 13:26-30).
+Those that don't walk in the truth are somehow on the opposite. Christ gave in Judas that morsel of the Last Supper, and we are told that "he went out immediately. And it was night" (John 13:26-30).
 
 Darkness fell over the whole of the world. The dark night of humanity. Sin had begun to do its work.
 
-That light is only restored with the resurrection, *Lumen Christi*, the candle of Easter, the Easter candle, the Paschal Vigil, symbolic of the light of Christ.
+That light is only restored with the Resurrection, *Lumen Christi*, the candle of Easter, the Easter candle, the Paschal Vigil, symbolic of the light of Christ.
 
 "I have come, a light in the world, so that whoever believes in me may not remain in darkness" (John 12:46).
 
 In Isaiah it says, "The people that walked in darkness have seen a great light; light has blazed forth (Isa. 9:2). On Christmas night we read these words of Isaiah.
 
-The Christ Child, divine love Incarnate, shines a light from Bethlehem. There is a light streaming from there, a light by which people can see that they can go to heaven.
+The Christ Child, Divine Love Incarnate, shines a light from Bethlehem. There is a light streaming from there, a light by which people can see that they can go to heaven.
 
 The world was in darkness until the coming of the light. "What has come into being in him was life," says St. John. "Life that was the light of men. Light shines in darkness and darkness could not overpower it" (John 1:4-5).
 
@@ -210,7 +208,7 @@ Pope Benedict says, "When there is no truth, there is no justice." Great things 
 
 We live in a modern culture where one of the common ideas is that we should abolish truth because as soon as we have truth, we impose it on others.
 
-In the States they talk about, "We don't want any moral absolutes. We don't want people telling us that certain things are always wrong because we don't want to be hedged in any way."
+In the States they talk about, 'We don't want any moral absolutes. We don't want people telling us that certain things are always wrong because we don't want to be hedged in any way.'
 
 But the truth is a pathway to the light. It shows us the way to live, it shows us the path to eternity, to the eternal wedding feast.
 
@@ -220,7 +218,7 @@ The Ten Commandments shed a great light on the world, a pathway to happiness.
 
 Misery comes from doing things that are wrong. Happiness comes from doing things that are right. The Ten Commandments show us the pathway to happiness.
 
-St. Josemaría liked to say, "The whole apostolate of Opus Dei can be summed up in one idea: to give doctrine." We try and clarify wrong ideas, we try and promote the truth, and give that light.
+St. Josemaría liked to say, "The whole apostolate \['a dominant passion'\] of Opus Dei can be summed up in one idea: to give doctrine" (*cf*. Josemaría, *Conversations*, Point 27). We try and clarify wrong ideas, we try and promote the truth, and give that light.
 
 A Roman educator, Quintilian, in the early centuries, says that clarity of expression lights up the beauty of the world.
 
