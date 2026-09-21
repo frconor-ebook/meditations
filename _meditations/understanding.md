@@ -5,8 +5,8 @@ description: "\"But I say to you that hear: Love your enemies, do good to those 
 reading_time: 17
 prev_slug: true-and-false-freedom
 prev_title: "True and False Freedom"
-next_slug: unity-of-life
-next_title: "Unity of Life"
+next_slug: unhappy-man-that-i-am
+next_title: "Unhappy Man That I Am"
 related: [{"slug": "the-gift-of-understanding", "title": "The Gift of Understanding"}]
 ---
 

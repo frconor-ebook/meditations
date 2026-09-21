@@ -6,7 +6,7 @@ reading_time: 18
 tags: ["Death & Eternal Life"]
 next_slug: a-cup-of-cold-water
 next_title: "A Cup of Cold Water"
-related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}, {"slug": "christian-identity", "title": "Christian Identity"}]
+related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}, {"slug": "this-body-of-death", "title": "This Body of Death"}]
 ---
 
 By Fr. Conor Donnelly

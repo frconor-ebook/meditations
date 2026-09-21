@@ -6,8 +6,8 @@ reading_time: 24
 tags: ["Virtues & Struggle"]
 prev_slug: the-woman-with-the-issue-of-blood
 prev_title: "The Woman with the Issue of Blood"
-next_slug: to-serve
-next_title: "To Serve"
+next_slug: this-body-of-death
+next_title: "This Body of Death"
 related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
 ---
 

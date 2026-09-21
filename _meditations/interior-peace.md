@@ -8,7 +8,7 @@ prev_slug: infectious-faith
 prev_title: "Infectious Faith"
 next_slug: interior-struggle
 next_title: "Interior Struggle"
-related: [{"slug": "interior-struggle", "title": "Interior Struggle"}, {"slug": "the-imagination-and-interior-mortification", "title": "The Imagination and Interior Mortification"}, {"slug": "our-lady-of-peace", "title": "Our Lady of Peace"}]
+related: [{"slug": "interior-struggle", "title": "Interior Struggle"}, {"slug": "the-battles-of-the-interior-life", "title": "The Battles of the Interior Life"}, {"slug": "the-imagination-and-interior-mortification", "title": "The Imagination and Interior Mortification"}]
 ---
 
 By Fr. Conor Donnelly

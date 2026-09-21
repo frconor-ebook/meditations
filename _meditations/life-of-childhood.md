@@ -8,7 +8,7 @@ prev_slug: lent-christs-death-on-the-cross
 prev_title: "Lent: Christ\u2019s Death on the Cross"
 next_slug: life-of-faith
 next_title: "Life of Faith"
-related: [{"slug": "plan-of-life", "title": "Plan of Life"}, {"slug": "spiritual-childhood", "title": "Spiritual Childhood"}, {"slug": "eternal-life", "title": "Eternal Life"}]
+related: [{"slug": "plan-of-life", "title": "Plan of Life"}, {"slug": "spiritual-childhood", "title": "Spiritual Childhood"}, {"slug": "the-battles-of-the-interior-life", "title": "The Battles of the Interior Life"}]
 ---
 
 By Fr. Conor Donnelly

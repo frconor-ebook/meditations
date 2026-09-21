@@ -8,7 +8,7 @@ prev_slug: placing-the-cross-on-the-summit-of-all-human-activities
 prev_title: "Placing the Cross on the Summit of All Human Activities"
 next_slug: poverty-and-detachment
 next_title: "Poverty and Detachment"
-related: [{"slug": "life-of-childhood", "title": "Life of Childhood"}, {"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "life-of-faith", "title": "Life of Faith"}]
+related: [{"slug": "life-of-childhood", "title": "Life of Childhood"}, {"slug": "the-battles-of-the-interior-life", "title": "The Battles of the Interior Life"}, {"slug": "eternal-life", "title": "Eternal Life"}]
 ---
 
 By Fr. Conor Donnelly

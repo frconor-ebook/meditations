@@ -8,7 +8,7 @@ prev_slug: friendship-with-jesus
 prev_title: "Friendship with Jesus"
 next_slug: fruits-of-the-holy-spirit
 next_title: "Fruits of the Holy Spirit"
-related: [{"slug": "gamblers-on-calvary", "title": "Gamblers On Calvary"}, {"slug": "apart-from-me-you-can-do-nothing", "title": "Apart From Me You Can Do Nothing"}, {"slug": "the-light-streaming-from-bethlehem", "title": "The Light Streaming from Bethlehem"}]
+related: [{"slug": "gamblers-on-calvary", "title": "Gamblers On Calvary"}, {"slug": "apart-from-me-you-can-do-nothing", "title": "Apart From Me You Can Do Nothing"}, {"slug": "jesus-therefore-wearied-from-his-journey", "title": "Jesus Therefore, Wearied from His Journey"}]
 ---
 
 By Fr. Conor Donnelly

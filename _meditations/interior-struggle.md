@@ -8,7 +8,7 @@ prev_slug: interior-peace
 prev_title: "Interior Peace"
 next_slug: intimacy-with-god-after-edward-leen
 next_title: "Intimacy with God (after Edward Leen)"
-related: [{"slug": "the-imagination-and-interior-mortification", "title": "The Imagination and Interior Mortification"}, {"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "abandonment", "title": "Abandonment"}]
+related: [{"slug": "the-imagination-and-interior-mortification", "title": "The Imagination and Interior Mortification"}, {"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "the-battles-of-the-interior-life", "title": "The Battles of the Interior Life"}]
 ---
 
 By Fr. Conor Donnelly

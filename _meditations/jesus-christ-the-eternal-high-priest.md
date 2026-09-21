@@ -6,8 +6,8 @@ reading_time: 18
 tags: ["Eucharist & the Mass", "Church & Priesthood"]
 prev_slug: it-is-right-and-just
 prev_title: "It Is Right and Just"
-next_slug: joy-in-the-cross-lent
-next_title: "Joy in the Cross (Lent)"
+next_slug: jesus-therefore-wearied-from-his-journey
+next_title: "Jesus Therefore, Wearied from His Journey"
 related: [{"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}, {"slug": "reading-of-the-gospels-to-get-to-know-jesus-christ", "title": "Reading of the Gospels to get to know Jesus Christ"}, {"slug": "holy-communion-jesus-is-mine", "title": "Holy Communion: Jesus Is Mine"}]
 ---
 

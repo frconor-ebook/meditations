@@ -5,8 +5,8 @@ description: "We\\'re told in St. John, \"Amen, amen, I say to you, unless the g
 reading_time: 17
 prev_slug: the-baptism-of-the-lord-2027-edition
 prev_title: "The Baptism of the Lord (2027 Edition)"
-next_slug: the-beatitudes
-next_title: "The Beatitudes"
+next_slug: the-battles-of-the-interior-life
+next_title: "The Battles of the Interior Life"
 ---
 
 

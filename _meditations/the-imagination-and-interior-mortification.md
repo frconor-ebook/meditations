@@ -8,7 +8,7 @@ prev_slug: the-house-of-god
 prev_title: "The House of God"
 next_slug: the-immaculate-conception-dec-8
 next_title: "The Immaculate Conception (Dec. 8)"
-related: [{"slug": "interior-struggle", "title": "Interior Struggle"}, {"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "mortification", "title": "Mortification"}]
+related: [{"slug": "interior-struggle", "title": "Interior Struggle"}, {"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "the-battles-of-the-interior-life", "title": "The Battles of the Interior Life"}]
 ---
 
 By Fr. Conor Donnelly
