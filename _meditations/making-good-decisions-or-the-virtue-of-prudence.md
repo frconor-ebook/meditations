@@ -33,7 +33,7 @@ Later on, Our Lord was to commend that servant for his prudence, using his talen
 
 There are many places in the Gospel where Our Lord uses the terms, "Be watchful", "Be wise as serpents and prudent as doves", "The Son of Man is coming at an hour you do not expect."
 
-The truly prudent person is always attentive to God's promptings. Through his vigilant listening, he receives in his soul the promise and reality of salvation.
+"The truly prudent person is always attentive to God's promptings. Through this vigilant listening, he receives in his soul the promise and reality of salvation" (Josemaría Escrivá, *Friends of God*, Point 87).
 
 The word 'prudence' comes from the Latin *prudentia*, contracted from *providentia*, which means seeing ahead, having foresight. Prudence can be defined as "the virtue that disposes our practical reason to discern our true good in every circumstance and to choose the right means to achieving it" (*Catechism of the Catholic Church*, Point 1806).
 
@@ -47,7 +47,7 @@ St. Thomas Aquinas says that "prudence is *recta ratio agibilium* (Thomas Aquina
 
 It's the virtue that has as its object to tell us what to do in each particular case.
 
-We're told in *Friends of Go*d: "'The wise heart will be reckoned prudent,' we read in the Book of Proverbs (Prov. 16:21). We would have a mistaken idea of prudence if we thought it faint-hearted or lacking in daring. Prudence expresses itself as a habit that inclines us to act well, by shedding light on the end and by helping us to seek the most suitable means of achieving it" (Josemaría Escrivá, *Friends of God*, Point 85).
+We're told in *Friends of Go*d: "'The wise heart will be reckoned prudent,' we read in the Book of Proverbs (Prov. 16:21). We would have a mistaken idea of prudence if we thought it faint-hearted or lacking in daring. Prudence expresses itself as a habit that inclines us to act well, by shedding light on the end and by helping us to seek the most suitable means of achieving it" (J. Escrivá, *Friends of God*, Point 85).
 
 "It is not to be confused with timidity or fear or duplicity or dissimulation." It has often been described as "the charioteer of the virtues; it guides the other virtues" (*Catechism*, *ibid*.)---makes us prudent in our humility; prudent in our order; prudent in our punctuality; prudent in our charity; prudent in our battle to live the virtues of purity and chastity.
 
@@ -77,9 +77,9 @@ Somebody else might have rushed in to give their two cents' worth on the particu
 
 If there's no prudence in our life, or very little, then our work may be full of goodwill, good intentions---but it might have little fruit.
 
-Prudence guards us against being impulsive. Being impulsive means not engaging our common sense because common sense is given by prudence. There's a saying in medicine that says, 'commonest things are commonest.' Commonest things are commonest.
+Prudence guards us against being impulsive. Being impulsive means not engaging our common sense because common sense is given by prudence. There's a saying in medicine that says, 'commonest things are commonest.'
 
-If somebody has a pain in their chest, you could think of a hundred things that might give rise to it, but the most usual or most common things are the most common things. Those are the things you've got to think about first. Or the same thing for pain in their abdomen, et cetera, et cetera.
+Commonest things are commonest. If somebody has a pain in their chest, you could think of a hundred things that might give rise to it, but the most usual or most common things are the most common things. Those are the things you've got to think about first. Or the same thing for pain in their abdomen, et cetera, et cetera.
 
 Prudence helps us to think about the consequences of our actions---not to rush rashly into certain situations, or saying certain things, or having certain opinions. We gain a lot in wisdom by growing in this virtue.
 
@@ -117,7 +117,7 @@ Occasionally it may be very prudent to keep silent in a situation. For a father,
 
 Often the person who keeps silent is the one who knows the truth, and that way, communicates the values, and often, communicates love.
 
-We're told in the Passion of Christ that when Christ was asked by Pilate a certain question, *Jesus autem tacebat--"*Christ kept silent" (Matt. 26:63).
+We're told in the Passion of Christ that when Christ was asked by Pilate a certain question, *Jesus autem tacebat--*"Christ kept silent" (Matt. 26:63).
 
 Euripides, a famous Greek philosopher, said: "Silence is wisdom's first reply."
 
