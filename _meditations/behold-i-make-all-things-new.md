@@ -129,4 +129,4 @@ As he, ardent with the love of God, went forth from his home and created on this
 
 *EW*\
 \
-From *The Voice of a Priest,* Edward Leen (1946).
+Based on *The Voice of a Priest,* "Part the First---Sermon Five," by Edward Leen, C.S.Sp. (Sheed & Ward, 1946).

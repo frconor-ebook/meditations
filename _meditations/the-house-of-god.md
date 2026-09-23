@@ -10,7 +10,6 @@ next_title: "The Imagination and Interior Mortification"
 related: [{"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "loving-jesus-house", "title": "Loving Jesus\u2019 House"}, {"slug": "on-our-way-to-the-house-of-our-father", "title": "On Our Way to The House of Our Father"}]
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)
@@ -145,4 +144,4 @@ May all benefactors to the church receive as their reward a favorable answer to 
 
 *EW*
 
-Based on *The Voice of a Priest,* "Sermon Four," by Edward Leen, C.S.Sp. (Sheed & Ward, 1946).
+Based on *The Voice of a Priest,* "Part the Second---Sermon Four," by Edward Leen, C.S.Sp. (Sheed & Ward, 1946).

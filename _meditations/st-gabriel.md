@@ -14,11 +14,11 @@ related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after E
 
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My immaculate mother, Saint Joseph, my father and Lord, my guardian angel, intercede for me.*
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 God chose Saint Gabriel to announce to Our Lady the mystery of the incarnation of the Son of God. Among all the angels, says Saint Bernard, only Gabriel was found worthy to declare God's plans to her and to accept her fiat, or 'be it done unto me' (Luke 1:38). The angel's greeting is so simple and charged with meaning. "Hail Mary, full of grace," has become the most familiar and long-standing prayer of the Christian people.
 

@@ -181,6 +181,6 @@ We must strive to make it our own and utilize it for the direction of personal a
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My immaculate mother, St. Joseph, my father and lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*EW*\
-\
-From *The Voice of a Priest*, "St. Thomas Aquinas," by Edward Leen, C.S.Sp. (Sheed & Ward, 1946)
+*EW*
+
+Based on *The Voice of a Priest*, "Part the Second---Sermon One," by Edward Leen, C.S.Sp. (Sheed & Ward, 1946).

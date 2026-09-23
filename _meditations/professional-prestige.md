@@ -25,7 +25,7 @@ One of the goals of our Christian life is to be somebody who does a good job.
 
 The question could be asked: "What is the lamp from which the light of Christ may shine forth into our environment?" The answer could be: it's our top-quality work and the professional prestige that comes with it.
 
-What good would the apostolate of a mother be if she did not conscientiously take care of her family? Or how can a student who doesn't study speak about human and supernatural virtues to his friends? How can a Catholic businessman who doesn't practice the Church's social doctrine talk about high ideals with his employees?
+What good would the apostolate of a mother be if she did not conscientiously take care of her family? Or how can a student who doesn't study speak about human and supernatural virtues with friends? How can a Catholic businessman who doesn't practice the Church's social doctrine talk about high ideals with his employees?
 
 If a Christian were to ignore the practice of human virtues, their life would be nothing but wishful thinking. Apparently pious but nonetheless sterile desires in the realm of personal sanctity have little positive influence on other people.
 
@@ -37,7 +37,7 @@ I heard of a lady a number of years ago who worked at the university for a numbe
 
 When they were planning her funeral, the head of that faculty asked if the faculty could take care of organizing her funeral, because "she was responsible for the unity in our faculty and our department."
 
-It was a very wonderful compliment. This lady had tried to be all things to all men. She'd been there for her colleagues. She was good at her job. Obviously also, she went the extra mile in helping people around her to be happy.
+It was a very wonderful compliment. This lady had tried to be obviously all things to all men. She'd been there for her colleagues. She was good at her job. Obviously also, she went the extra mile in helping people around her to be happy.
 
 You could say that she carried with her the fragrance of Christ.
 
@@ -45,7 +45,7 @@ Following Christ means that spiritual and religious principles should be actuali
 
 The sick person can give light if they bear their own infirmity with a supernatural sense.
 
-Our Lord wants the Catholic pharmacist to be knowledgeable and perfectly competent with the medicines that he or she sells. Equally, when it's necessary, Our Lord expects that that person will know how to give good human and supernatural advice.
+Our Lord wants the Catholic pharmacist to be knowledgeable and perfectly competent with the medicines that he or she sells, and equally, when it's necessary, Our Lord expects that that person will know how to give good human and supernatural advice.
 
 Similarly, the taxi driver should be thoroughly familiar with the streets of a big city. The bus driver should show his concern for his passengers by driving carefully.
 
@@ -95,13 +95,13 @@ Maybe we're not called to be that person, but we're called to be close to that p
 
 If we've been called to be a lay person in the middle of the world, then we're called to have an influence. A good question to ask ourselves is: What national and international organization do I belong to? Am I really "launching out into the deep" (Luke 5:4-5) to have an influence that God wants me to have?
 
-This brings a great sense of responsibility in our work. Our ability to respond to God is a sign of our human dignity. Only a free agent can choose to be responsible and choose to do what conforms to the will of God and their perfection.
+This brings a great sense of responsibility in our work. Our ability to respond to God is a sign of our human dignity. Only a free agent can choose to be responsible and choose to do what conforms to the will of God and their perfection (Thomas Aquinas, *Commentary on the Epistle to the Romans*).
 
 This means that in our professional work, we're never willing or ready to do anything wrong. Often, in standing up for what is right, we also gain our prestige.
 
 Each of us has to choose to act responsibly in daily work, to try and make sure that our work is ordered to the glory of God and to the service of society, to the fulfillment of our family obligations.
 
-A Christian with this sense of responsibility will endeavor to study as well as he possibly can, and then perform to the highest standards in their place of work and make the effort to keep abreast of new developments so that they know what's going on in their profession.
+A Christian with this sense of responsibility will endeavor to study as well as he possibly can and then perform to the highest standards in their place of work and make the effort to keep abreast of new developments so that they know what's going on in their profession.
 
 St. Josemaría liked to say that if you choose one specific area of your professional work and you read everything that's coming out in that area over a couple of years, you may become the national expert in that particular area.
 
@@ -123,7 +123,7 @@ The approach to studying as well as possible and performing to the highest of st
 
 That goal holds true for all kinds of professions: for the mother of a family, the office worker, businessman, tradesman, or the university professor.
 
-"Whenever your will may weaken a little bit in your ordinary work," we could be reminded of the words of St. Josemaría who said: "Study, work, is an essential part of my way. If I were discredited professionally as a consequence of my laziness, it would make my work as a Christian useless or impossible. To attract and to help others, I need the influence of my professional reputation, and that is what God wants'" (J. Escrivá, *Furrow*, Point 781).
+Whenever our will may weaken a little bit in our ordinary work, we could be reminded of the words of St. Josemaría who said: "Study, work, is an essential part of my way. If I were discredited professionally as a consequence of my laziness it would make my work as a Christian useless or impossible. To attract and to help others, we need the influence of our professional reputation, and that is what God wants" (*cf*. J. Escrivá, *Furrow*, Point 781).
 
 That doesn't mean that we have to be particularly intelligent. Often people don't particularly admire intelligent people because they might not be all that good at their work. They might be lazy or careless or take things for granted.
 
@@ -145,7 +145,7 @@ That was a great compliment. The way that that man worked spoke reams about his 
 
 As Our Lord's sign of respect for human work, He frequently used examples from the most varied occupations in His teaching.
 
-"It could be said that He looks with love upon human work and the different forms that it takes, seeing in each one of these forms a particular facet of man's likeness with God the Creator and the Father" (John Paul II, Encyclical, *Laborem exercens*, Point 26, September 14, 1981).
+"It could be said that he looks with love upon human work and the different forms that it takes, seeing in each one of these forms a particular facet of man's likeness with God, the Creator and the Father" (John Paul II, Encyclical, *Laborem exercens*, Point 26, September 14, 1981).
 
 If we are to have professional prestige, we must aim at mastering our occupation or craft or profession. That doesn't happen overnight. It doesn't happen with reading one textbook or getting good marks in one exam. It's the work of a lifetime.
 
@@ -159,9 +159,7 @@ Very often the student's report card can be a good indicator of their love of Go
 
 As a logical consequence of that commitment, the faithful Christian will be respected by his colleagues as a good worker or a good student.
 
-I remember a cardiothoracic surgeon, who has now gone to his reward, telling me that very often his colleagues gave him the difficult heart cases.
-
-That was a sign of his respect and his prestige. Among his colleagues, he was somebody who did a good job.
+I remember a cardiothoracic surgeon, who has now gone to his reward, telling me that very often his colleagues gave him the difficult heart cases. That was a sign of his respect and his prestige. Among his colleagues, he was somebody who did a good job.
 
 That sort of person, almost without realizing it, will show how the doctrine of Christ can become a reality in ordinary life.
 
@@ -193,7 +191,7 @@ But these are key moments to practice those virtues, to show our Christian princ
 
 St. Josemaría liked to say that "professional prestige is the 'bait' with which to catch fish" (J. Escrivá, *The Way*, Point 372), to give an apostolic orientation to everything that we do.
 
-We have to speak about God to our companions at work who share with us the same professional interests, weariness and difficulties, which facilitates communication, mutual help, and consequently, sincere friendship.
+We have to speak about God to our companions at work who share with us the same professional interests, weariness, and difficulties, which facilitates communication, mutual help, and consequently, sincere friendship.
 
 Knowing that somebody who is their equal is struggling for holiness, seeking God, can move them much more than a thousand speeches from other people.
 
@@ -207,13 +205,13 @@ Part of that professional prestige comes from doing things with human perfection
 
 Details in our work are important: doing things on time, starting on time, finishing on time, taking pride in our work, having rectitude of intention, going out of ourselves to produce a masterpiece.
 
-Martin Luther King said that: "If a man is called to be a street sweeper, he should sweep streets even as Michelangelo painted, as Beethoven composed music, as Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and earth will pause to say, 'Here lived a great street sweeper who did his job well'" (Martin Luther King, Speech, "What Is Your Life's Blueprint?" on October 26, 1967).
+Martin Luther King said that: "If a man is called to be a street sweeper, he should sweep streets even as Michelangelo painted, as Beethoven composed music, as Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and earth will pause to say, 'Here lived a great street sweeper who did his job well'" (Martin Luther King, *Speech*, "What Is Your Life's Blueprint?" on October 26, 1967).
 
 So many define professionalism as producing the best work, irrespective of how we're feeling. Doing things well doesn't depend on our mood, or the weather, or a whole series of other factors. We have to try and conquer our feelings to produce that masterpiece.
 
 It's good if we try to have ambition, to be somebody. No one can be good at everything, but we all can try to become the best at what we do.
 
-We can ask Our Lady that she might help us to grow in that aspect of our work, and for growing in our professional prestige so as to be more effective in the place where God has placed us, and to help our work to truly be that "hinge of our sanctification" (J. Escrivá, *Friends of God*, Point 61). that God has called it to be.
+We can ask Our Lady that she might help us to grow in that aspect of our work, for growing in our professional prestige so as to be more effective in the place where God has placed us, and to help our work to truly be that "hinge of our sanctification" (J. Escrivá, *Friends of God*, Point 61). that God has called it to be.
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 

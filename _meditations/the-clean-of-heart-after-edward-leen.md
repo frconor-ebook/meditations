@@ -170,4 +170,4 @@ Live it, and you will merit to have those words addressed to you which were firs
 
 *EW*
 
-Based on *The Voice of a Priest,* "Sermon Six," by Edward Leen, C.S.Sp. (Sheed & Ward, 1946).
+Based on The Voice of a Priest, "Part the First---Sermon Six," by Edward Leen, C.S.Sp. (Sheed & Ward, 1946).

@@ -11,7 +11,6 @@ next_title: "Sin of Pride (The Elder Son)"
 related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "intimacy-with-god-after-edward-leen", "title": "Intimacy with God (after Edward Leen)"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}]
 ---
 
-
 By Fr. Conor Donnelly
 
 (*Proofread*)
@@ -136,4 +135,4 @@ Humility is a human virtue, as it were: simplicity is in a sense a divine one. T
 
 *EW*
 
-Based on *The Voice of a Priest,* "Sermon Six," by Edward Leen, C.S.Sp. (Sheed & Ward, 1946).
+Based on *The Voice of a Priest,* "Part the Second---Sermon Six," by Edward Leen, C.S.Sp. (Sheed & Ward, 1946).

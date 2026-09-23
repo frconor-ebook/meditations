@@ -125,3 +125,5 @@ So, we could ask Our Lady that contemplating the life of St. Teresa, we may incr
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My immaculate Mother, Saint Joseph, my father and Lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *EW*
+
+Based on *The Voice of a Priest*, "Part the First---Sermon Two," by Edward Leen, C.S.Sp. (Sheed & Ward, 1946).

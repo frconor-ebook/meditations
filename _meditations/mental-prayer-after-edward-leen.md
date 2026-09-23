@@ -75,3 +75,5 @@ Saint Teresa, in her biography, has some words that can form a fitting conclusio
 *I thank You, my God, for the good resolutions, affections, and inspirations that You have communicated to me during this meditation. I ask Your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *EW*
+
+Based on *Progress Through Mental Prayer*, "Chapter IV," by Edward Leen, C.S.Sp. (Sheed & Ward, 1935).
