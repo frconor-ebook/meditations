@@ -336,10 +336,6 @@
     "slug": "dedication-of-the-basilica-of-st-john-lateran-2026"
    },
    {
-    "title": "Feast of the Archangels (2026)",
-    "slug": "feast-of-the-archangels-2026"
-   },
-   {
     "title": "Guardian Angels (2026)",
     "slug": "guardian-angels-2026"
    },
@@ -642,6 +638,10 @@
    {
     "title": "The Dedication of the Basilica of St. Mary Major",
     "slug": "the-dedication-of-the-basilica-of-st-mary-major"
+   },
+   {
+    "title": "The Feast of the Archangels (2026)",
+    "slug": "the-feast-of-the-archangels-2026"
    },
    {
     "title": "The Fifth Sunday of St. Joseph (2026)",

@@ -6,8 +6,8 @@ reading_time: 20
 tags: ["Opus Dei"]
 prev_slug: the-faith-of-abraham
 prev_title: "The Faith of Abraham"
-next_slug: the-feast-of-the-holy-family
-next_title: "The Feast of the Holy Family"
+next_slug: the-feast-of-the-archangels-2026
+next_title: "The Feast of the Archangels (2026)"
 related: [{"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}, {"slug": "fathers-day", "title": "Father\u2019s Day"}, {"slug": "on-our-way-to-the-house-of-our-father", "title": "On Our Way to The House of Our Father"}]
 ---
 

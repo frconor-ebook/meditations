@@ -6,8 +6,8 @@ reading_time: 23
 tags: ["Family & Marriage"]
 prev_slug: faithfulness
 prev_title: "Faithfulness"
-next_slug: feast-of-the-archangels-2026
-next_title: "Feast of the Archangels (2026)"
+next_slug: fidelity-in-marriage
+next_title: "Fidelity in Marriage"
 related: [{"slug": "on-our-way-to-the-house-of-our-father", "title": "On Our Way to The House of Our Father"}, {"slug": "our-father-god", "title": "Our Father God"}, {"slug": "the-father-in-the-work", "title": "The Father in the Work"}]
 ---
 
