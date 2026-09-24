@@ -35,7 +35,7 @@ The Scriptures, and also St. Josemaría, will invite us to take an account occas
 
 Occasionally we have to go back and look again, and begin again, and foster that generosity of the beginning, keep our fire burning.
 
-One time, St. Josemaría was in a get-together in---I think it was---Venezuela and he had not slept well the previous night. Some people had prepared a song for him, and so he sat down in a chair that was there, while they sang the song.
+One time, St. Josemaría was in a get-together in---I think it was---Venezuela and he had not slept well the previous night. Some people had prepared a song for him, and so he sat down in the chair that was there, while they sang the song.
 
 It was unusual for him to sit down in those get-togethers. He was always moving around.
 
@@ -53,11 +53,11 @@ Don Álvaro, with these words, is calling us to a new responsibility and a matur
 
 "And how many young people there are who are moved to have a new light and fire in their ideals, contemplating the spirit, which is always young and joyful, of those who have spent many years at the service of God in the Prelature."
 
-God wants to use our example, our fire, our apostolic vibration, our enthusiasm for the things of *always*, so that we keep the noble ideals of Our Lord that St. Josemaría has placed in our soul pretty much before us all the time.
+God wants to use our example, our fire, our apostolic vibration, our enthusiasm for the things of *always*, so that we have the noble ideals of Our Lord that St. Josemaría has placed in our soul pretty much before us all the time.
 
 And that new enthusiasm, that conviction, the faith that God is making use of everything, our daily Mass, to bring things forward, to sow seeds for our prayer, to bring those vocations that we dream about.
 
-"For this reason," he says, "men and women, young and less young, healthy and sick, married and single, lay and priests, all the faithful of the Prelature, have to constantly aspire to that specific holiness to which God has called us, each one along our pathway, and becoming more sure each time in that effort, without weakening it in any way.
+"For this reason," he says, "men and women, young and less young, healthy and sick, married and single, lay and priests, all the faithful of the Prelature, have to constantly aspire to that specific holiness to which God has called us, each one along our own pathway, and becoming more sure each time in that effort, without weakening it in any way.
 
 "Help each other to be Opus Dei, children of my soul, with your prayer, with your good example, and with your fraternal correction. All of us have to feel on our shoulders that sweet weight of the responsibility of the sanctity of the others."
 
@@ -89,7 +89,7 @@ John Paul II in his apostolic letter on the *Day of the Lord* says there is some
 
 Jesus allowed Himself to be tired out from His journey, and so He allowed Himself to sit down beside the well (John 4:6).
 
-But even in that state of tiredness, He was always open to souls, ready to do a little bit more, ready to be demanded from or to use that situation or that experience that came about to reach out to the soul that was there.
+But even in that state of tiredness, He was always open to souls, ready to do a little bit more, ready to be demanded from or to use that situation or that experience that came about to reach out to that soul that was there.
 
 "I want to direct myself," Don Álvaro says, "in a special way to those daughters and sons of mine who have jobs of government or formation entrusted to them, and to my priest sons who cooperate in the spiritual direction of the other faithful of the Prelature, very united to the directors.
 
@@ -221,9 +221,9 @@ There are three specific people in the Gospel who are lukewarm. There is the old
 
 And there is the rich young man. "'Go, sell all that you have. Give to the poor, and you will have treasure in heaven. Then come, follow me.' ... He went away sad because he had great possessions" (*cf*. Matt. 19:21-22).
 
-There's a bit of the rich young man in each one of us. We all have great possessions. But we have to be careful that those things do not take a hold of us, or that we are like the older brother.
+There's a bit of the rich young man in each one of us. We all have great possessions. But we have to be careful that those things do not take a hold of us, or that we are like the older brother. We are working in Our Father's field all the time, but with sort of a bitter zeal.
 
-We are working in Our Father's field all the time, but with sort of a bitter zeal. Our heart is not really in the things of God. The older brother is full of self-righteousness. He is all tied up in his own things.
+Our heart is not really in the things of God. The older brother is full of self-righteousness. He is all tied up in his own things.
 
 'What about me? Nobody told me. Nobody gives me a goat to make merry with my friends.'
 
@@ -241,9 +241,7 @@ I read in a book recently how God permits temptation for us to realize our nothi
 
 But yet, those are opportunities---opportunities for us to show Our Lord that 'I want to be better. I want to improve. I really want holiness.'
 
-I heard someone say once that following a vocation is like jumping off a cliff. Humanly speaking, it doesn't make any sense.
-
-You jump off a cliff and you see the waves there below you, like in Kilifi some place, the waves crashing against the rocks. You see all the human things.
+I heard someone say once that following a vocation is like jumping off a cliff. Humanly speaking, it doesn't make any sense. You jump off a cliff and you see the waves there below you, like in Kilifi some place, the waves crashing against the rocks. You see all the human things.
 
 But when you jump off that cliff, Our Lady is there, six meters out from the edge of the cliff, and we jump into her arms.
 
@@ -269,7 +267,7 @@ There are so many others who, moved by grace, unite themselves to Opus Dei, the 
 
 Each one of us knows the little of which we are made. But that is not enough to be humble, because there is so much more: a long pathway to walk along before we reach that goal that Our Lord has placed for us, and which we want to reach.
 
-*Santos de verdad los estaremos en el cielo*. Truly, holy, we will be in Heaven if we remain faithful in the struggle here on Earth, even though we might seem to be ourselves always sinful; sinners who struggle to make a reality of what St. Josemaría mentioned about himself.
+*Santos de verdad los estaremos en el cielo*. Truly, holy, we will be in heaven if we remain faithful in the struggle here on Earth, even though we might seem to be ourselves always sinful; sinners who struggle to make a reality of what St. Josemaría mentioned about himself.
 
 We are sinners who love Jesus Christ.
 
@@ -277,7 +275,7 @@ We are always willing to go back with a new humility to start again: a refinemen
 
 "We are people," he says, "who are very conscious of the fact that we have passions and weaknesses---poor men and women who live disposed to two fundamental things because we love or we want to love very much Our Lord Jesus Christ, to recognize ourselves in a humble way our own miseries, and to struggle for love to overcome them with the grace of God.
 
-"Let us go through this struggle, very convinced, very focused to carry out ourselves or behave ourselves each day a little bit better, a little bit less bad or less evil, to go forward along the pathway of holiness."
+"Let us go through this struggle, very convinced, very focused to carry out ourselves or behave ourselves each day a little bit better, a little bit less bad or less evil, in order to go forward along the pathway of holiness."
 
 God allowed St. Josemaría to contemplate, with the universal expansion of Opus Dei, this immense quantity of children of his in the whole world, who transformed their lives with this shout of love of God.
 
