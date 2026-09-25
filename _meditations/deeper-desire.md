@@ -21,43 +21,39 @@ By Fr. Conor Donnelly
 
 One of the most authentic expressions of a thirst for justice is incessant prayer. We are reminded of this in the parable of the widow who, we're told, finally obtained justice by persisting in seeking it from a judge otherwise heedless of God and man.
 
-Our Lord concludes the parable encouraging us to "pray without ceasing" (*cf*. Luke 18:1, 1 Thess. 5:17).
+Our Lord concludes the parable encouraging us to "pray without ceasing" (*cf*. Luke 18:1).
 
 "Will not God vindicate his elect," we are told, "who cry to him day and night? Will he delay long over them? I tell you, he will vindicate them speedily. Nevertheless, when the Son of Man comes, will he find faith on earth?" (Luke 18:7-8).
 
-Asking God to do justice for us should not be understood as calling upon Him to punish those who harm us, but rather to speed up our personal conversion: 'Lord, it's not just for me who love you so little, when you deserve to be loved so much, or to love my neighbor so little when he is such in need of love.'
+Asking God to do justice for us should not be understood as calling upon Him to punish those who harm us but rather, to speed up our personal conversion: 'Lord, it's not just for me to love you so little, when you deserve to be loved so much, or to love my neighbor so little when he has such a need for love.'
 
 We can ask Our Lord: 'Do me justice! Convert me and transform my heart, filling it with love for you and others.'
 
-"The thirst for justice is," one writer says, "a thirst for conversion, for inner transformation. It is not so much personal perfection that we seek, but rather, a will to respond to God's desire" (*cf*. Jacques Philippe, *The Eight Doors of the Kingdom: Meditations on the Beatitudes*).
+"The thirst for justice is," one writer says, "a thirst for conversion, for inner transformation. It is not so much personal perfection that we seek but rather, a will to respond to God's desire" (*cf*. Jacques Philippe, *The Eight Doors of the Kingdom: Meditations on the Beatitudes*).
 
-An important expression of this thirst for conversion is the desire for truth, refusing all forms of illusion and self-deception, all lies to ourselves, all compromises, and "close enoughs" in our relationship with God and others.
+An important expression of this thirst for conversion is the desire for truth: refusing all forms of illusion and self-deception, all lies to ourselves, all compromises, and "close enoughs" in our relationship with God and others.
 
-We must place our lives in their entirety under the light of God and have the courage of truth.
-
-Shortly before her death, St. Thérèse of Lisieux said, "I have never sought anything but the truth" (Thérèse of Lisieux, *Last Conversations*).
+We must place our lives in their entirety under the light of God and have the courage of truth. Shortly before her death, St. Thérèse of Lisieux said, "I have never sought anything but the truth" (Thérèse of Lisieux, *Last Conversations*).
 
 It's clear from experience that people who make the most progress in the spiritual life are not necessarily, at the beginning, the most virtuous or most devout.
 
 They're those, rather, who most insist on being honest with themselves and take concrete steps to be truthful with God: prayer, reflection, serious reading of Scripture, spiritual direction, retreats, and so on.
 
-The problem is not so much with our wounds or our faults, but our failure to face up to them in the light of God.
+The problem is not so much with our wounds or our faults but our failure to face up to them in the light of God.
 
-To insist on the truth takes for granted the poorness of heart and humility of which the first Beatitude speaks. Humility extends a welcome to truth. It accepts being troubled by it when that's necessary. Pride is the opposite and is one of the principal causes of blindness.
+To insist on the truth takes for granted the poorness of heart and humility of which the first Beatitude speaks. Humility extends a welcome to truth and accepts being troubled by it when that's necessary. Pride is the opposite and is one of the principal causes of blindness.
 
-Welcoming the truth requires submitting oneself to something other than ourselves, something that surpasses us. But only truth "makes you free," as Our Lord says in the Gospel (John 8:32).
+Welcoming the truth requires submitting oneself to something other than ourselves, something that surpasses us. But only truth "makes you free," as Our Lord says in the Gospel (*cf*. John 8:32).
 
 The fourth Beatitude points to a question: What is my deepest desire?
 
 Hunger and thirst are images of desire for in what is most vital and essential. It's good to put this question to one's heart. What do I really hunger and thirst for? What desire is the principle of unity for my life?
 
-It's natural that one has several desires, and that this can be a source of interior division and the accomplishment of some of our desires can lead us to an impasse or to deceive ourselves.
+It's natural that one has several desires, and yet this can be a source of interior division and the accomplishment of some of our desires can lead us to an impasse or to deceive ourselves.
 
 St. Paul speaks of the need for a certain filtering or discernment, to distinguish those that come from the "flesh" from those that come from the "spirit" (Gal. 5:16-17).
 
-Among all our desires, one is dominant in that it gathers together and unifies all the others.
-
-We find in one of the Psalms a beautiful prayer that says, "Teach me your way, O Lord, that I may walk in your truth; unite my heart to fear your name" (Ps. 86:11).
+Among all our desires, one is dominant in that it gathers together and unifies all the others. We find in one of the Psalms a beautiful prayer that says, "Teach me your way, O Lord, that I may walk in your truth; unite my heart to fear your name" (Ps. 86:11).
 
 And in St. Matthew, Our Lord says, "He who does not gather with me scatters" (Matt. 12:30). In failing to direct their desire towards God, we can risk "scattering" ourselves.
 
@@ -65,11 +61,11 @@ Fortunate are those whose most profound desire is not confined to some human amb
 
 But how is that desire for holiness kept alive?
 
-One of the main reasons for the loss of desire can be a lack of faithfulness to prayer; \[whereas\] contact with God sustains and feeds this desire---contact kept up by reading, by sharing with other believers, and by acts of love and acceptance of suffering.
+One of the main reasons for the loss of desire can be a lack of faithfulness to prayer; whereas contact with God sustains and feeds this desire---contact kept up by reading, by sharing with other believers, and by acts of love and acceptance of suffering.
 
 Another explanation for the extinguishing of this desire is discouragement arising from the repeated experience of our misery and poverty that can sometimes drive a person to abandon the ambition of being holy.
 
-Here the remedy is humility, recognition of one's powerlessness, together with audacious hope and blind faith in the mercy and power of God.
+Here the remedy is humility, recognition of one's powerlessness together with audacious hope and blind faith in the mercy and power of God.
 
 The fundamental process of the spiritual life is a purification of desire in its object and its foundation: on the one hand, in order that the soul's desires be gathered together and unified with the desire for God, little by little putting aside any aspiration that is outside of the divine will; on the other hand, hoping against hope, as St. Paul said (*cf*. Rom. 4:18), so that this desire be based not on our human capabilities, but solely on the mercy of God.
 
@@ -85,7 +81,7 @@ It can be good to examine ourselves about this thirst and know how to change cou
 
 We need to also realize that there's a thirst more ardent than all human desire. And that's God's thirst, the thirst of Christ Himself. God thirsts to love us and give Himself to us.
 
-Jesus told the Samaritan woman, "Give me a drink" (John 4:7). Before He died, He said, "I thirst" (John 19:28).
+Jesus told the Samaritan woman, "Give me a drink" (John 4:7), and before He died, He said, "I thirst" (John 19:28).
 
 "God has no need of our works, but only of our love," St. Thérèse of Lisieux said (Thérèse of Lisieux, *Story of A Soul*). The thirst that Jesus expresses was the inspiration of the life of Mother Teresa.
 
@@ -105,13 +101,13 @@ Thérèse of Lisieux lived through this at the age of 14, just after her healing
 
 "He \[Jesus\] made me," she says, "a fisher of souls. I experienced a great desire to work for the conversion of sinners, a desire that I hadn't felt so intensely before. \... The cry of Jesus on the cross sounded continually in my heart: 'I thirst!'
 
-"These words," she said, "ignited within me an unknown and very living fire. I wanted to give my Beloved to drink, and I felt myself consumed with a thirst for souls. As yet, it was not the souls of priests that attracted me, but those of great sinners; I burned with the desire to snatch them from the eternal flames" (Thérèse of Lisieux, *Story of A Soul*).
+"These words," she said, "ignited within me an unknown and very living fire. I wanted to give my Beloved to drink, and I felt myself consumed with a thirst for souls. As yet it was not the souls of priests that attracted me, but those of great sinners; I burned with the desire to snatch them from the eternal flames" (Thérèse of Lisieux, *Story of A Soul*).
 
 And so, we could ask Our Lord to communicate His desires to us and come to satisfy them. Then we shall be full beyond all measuring.
 
 The more we go thirsting to drink at the fountain of the heart of God, the more we become fountains for others.
 
-Our Lord promises that in the Gospel of John: "On the last day of the feast, the great day, Our Lord stood up and proclaimed, 'If anyone thirst, let him come to me and drink. He who believes in me, as the Scripture has said, 'Out of his heart shall flow rivers of living water'" (John 7:37-38).
+Our Lord promises that in the Gospel of John: "On the last day of the feast, the great day, Our Lord stood up and proclaimed, 'If anyone thirst, let him come to me and drink. He who believes in me, as the Scripture has said, Out of his heart shall flow rivers of living water'" (John 7:37-38).
 
 In the same way, the more we hunger for Jesus, and for the Eucharist in particular, and the more we live for Him, the more we shall be able to become food for others.
 
@@ -121,15 +117,15 @@ The greatest injustice in all history is ultimately that God is not loved as muc
 
 There was a lady once who flew from the United States to Rome in the early sixties. She wanted to go to Confession to Padre Pio.
 
-She landed in Rome early on a Sunday morning. She was tired. She decided she'd take a rest in her hotel. She'd catch a late morning Mass. There were no evening Masses in those days. But when she lay down to rest, she slept the sleep of the just, and she woke up at three o'clock in the afternoon.
+She landed in Rome early on a Sunday morning. She was tired. She decided she'd take a rest in her hotel. She'd catch a late morning Mass. There were no evening Masses in those days.
 
-She realized she'd missed Mass. She also knew she hadn't committed a mortal sin because she didn't mean to miss Mass.
+But when she lay down to rest, she slept the sleep of the just, and she woke up at three o'clock in the afternoon. She realized she'd missed Mass. She also knew she hadn't committed a mortal sin because she didn't mean to miss Mass.
 
 But the following day she went to Confession to Padre Pio and confessed her sins. And then he said to her, 'Is there anything else?' And she said, 'No.' He said, 'Are you sure?' She said, 'Yes.'
 
 And he said, 'What about yesterday when you flew across the Atlantic and you landed in Rome, you went to your hotel, you were tired, you decided to take a rest, you lay down and you slept, and you slept the sleep of the just and you woke up at three o'clock and you missed Mass?' He could read souls.
 
-He said, 'I know you didn't commit a mortal sin, but your negligence hurt Our Lord."
+He said, 'I know you didn't commit a mortal sin, but your negligence hurt Our Lord.'
 
 Our lives may be full of negligences. We can ask Our Lord's pardon for all those negligences that we have may have made, where we haven't responded to His call.
 
@@ -165,7 +161,7 @@ The lawyer tried to remember all the points from the talk on charity that they h
 
 He asked them to go and think about it for a while, and come back some other time. They weren't very convinced, but the husband said, "We'll give it a go."
 
-The wife came back three years later to tell the lawyer: "I just came back to thank you because my husband has just passed away, but we just have just had three of the most wonderful years of our whole life."
+The wife came back three years later to tell the lawyer: "I just came back to thank you because my husband has just passed away, but we have just had three of the most wonderful years of our whole life."
 
 The moral of the story is that we're always beginning again in love.
 
@@ -181,9 +177,9 @@ He liked to say that the family is "a communion of Persons" (John Paul II, *Lett
 
 The more the family and marriage resemble the Blessed Trinity, the holier it is. "Children are the supreme gift of marriage," we're told in the *Catechism* (Point 1652). We know there's a grace for every situation.
 
-Paul VI, in an Encyclical called *Ecclesiam Suam*, says, "Indeed, the cultivation of Christian perfection must still sbe regarded as the richest source of the Church's spiritual strength. It is the means, so peculiarly its own, whereby the Church basks in the sunlight of Christ's Spirit.
+Paul VI, in an Encyclical called *Ecclesiam Suam*, says, "Indeed, the cultivation of Christian perfection must still be regarded as the richest source of the Church's spiritual strength. It is the means, so peculiarly its own, whereby the Church basks in the sunlight of Christ's Spirit.
 
-"It is the Church's natural and necessary way of expressing its religious and social activity. It is the Church's surest defense and the cause of its constant renewal of strength amid the difficulties of the secular world." (Paul VI, Encyclical, *Ecclesiam Suam*, Point 38, August 6, 1964).
+"It is the Church's natural and necessary way of expressing its religious and social activity. It is the Church's surest defense and the cause of its constant renewal of strength amid the difficulties of the secular world" (Paul VI, Encyclical, *Ecclesiam Suam*, Point 38, August 6, 1964).
 
 We could ask Our Lord for that grace to have deeper desires of personal holiness---deeper desires to cultivate Christian perfection in this marriage, in this family, in this job, with these health problems, with these financial constraints, with all the permutations and combinations of my present life, in this present moment.
 
@@ -209,7 +205,7 @@ Whether our life grows with depth in this way depends on us. It depends on our d
 
 We could examine our conscience and see: What do I really desire? Where is my heart?
 
-Scripture tells usc where our heart is, that's where our treasure is also and vice-versa (*cf*. Matt. 6:21).
+Scripture tells us where our heart is, that's where our treasure is also and vice-versa (*cf*. Matt. 6:21).
 
 Everyone wants to change the world, but few want to do so by changing themselves (*cf*. Leo Tolstoy, *Three Methods of Reform*).
 
@@ -229,7 +225,7 @@ That calling doesn't depend on how our interior life may be, or how our progress
 
 In *The Forge*, St. Josemaría says, "You saw it quite clearly: while so many people do not know God, he has looked to you. He wants you to form a \[part of the foundations, a firm\] stone...on which the life of the Church can rest.
 
-"Meditate upon this reality and you will draw many practical consequences for your ordinary behavior: the foundations made of blocks of stone---hidden and possibly rather dull---have to be solid, not fragile. They have to serve as a support for the building. ... If not, they are useless" (J. Escrivá, *The Forge*, Point 472).
+"Meditate upon this reality and you will draw many practical consequences for your ordinary behavior: the foundations made of blocks of stone---hidden and possibly rather dull---have to be solid, not fragile. They have to serve as a support for the building. ... If not, they are useless" (*cf*. J. Escrivá, *The Forge*, Point 472).
 
 We can thank God frequently for our vocation to holiness; realize that this is a great gift; have a sense of treasure, a sense of a great bargain, a sense of calling.
 
@@ -245,7 +241,7 @@ In *The Forge*, St. Josemaría says, "Committed! How I like that word! We childr
 
 There will always be difficulties, as we see in the life of Christ and all the saints. But if we have that determination to seek holiness, that inner toughness to live our vocation in spite of all the circumstances, then all the difficulties disappear.
 
-In *The Forge*, he says, "You know that you will never lack God's grace, because he has chosen you from all eternity. And if this is what he has done for you, he will grant you all the help you need to be faithful to him as his son, as his child. ---Go forward, therefore, with a sure step and try to respond at every moment to the promptings of God's grace" (*cf*. J. Escrivá, *The Forge*, Point 280).
+In *The Forge*, he says, "You know that you will never lack God's grace, because he has chosen you from all eternity. And if this is what he has done for you, he will grant you all the help you need to be faithful to him as his son. ---Go forward, therefore, with a sure step and try to respond at every moment to the promptings of God's grace" (*cf*. J. Escrivá, *The Forge*, Point 280).
 
 We can turn to Our Lady and ask her that she might give us those deeper desires of that great goal that God has set for our vocation, for our life.
 
@@ -257,4 +253,4 @@ Mary, may you always be beside us along the way.
 
 *JM*
 
-Editor's Note: Parts of this meditation were taken from *The Eight Doors of the Kingdom: Meditations on the Beatitudes* by Jacques Philippe (Scepter, 2018).
+Parts of this meditation were taken from *The Eight Doors of the Kingdom: Meditations on the Beatitudes* by Jacques Philippe (Scepter, 2018).

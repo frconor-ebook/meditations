@@ -8,7 +8,7 @@ prev_slug: trinity-sunday-2026
 prev_title: "Trinity Sunday (2026)"
 next_slug: true-and-false-freedom
 next_title: "True and False Freedom"
-related: [{"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}, {"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}]
+related: [{"slug": "growth-in-prayer", "title": "Growth in Prayer"}, {"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}]
 ---
 
 By Fr. Conor Donnelly

@@ -1,8 +1,8 @@
 ---
 layout: homily
 title: "The Parable of the Ten Virgins"
-description: "\"Then the kingdom of heaven will be like this. Ten wedding attendants took their lamps and went to meet the bridegroom. Five of them were foolish, and..."
-reading_time: 19
+description: "\"Then the kingdom of heaven will be like this: Ten wedding attendants took their lamps and went to meet the bridegroom. Five of them were foolish and five..."
+reading_time: 18
 tags: ["Parables"]
 prev_slug: the-parable-of-the-talents
 prev_title: "The Parable of the Talents"
@@ -11,212 +11,59 @@ next_title: "The Parable of the Treasure and the Pearl"
 related: [{"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "the-parable-of-the-mustard-seed", "title": "The Parable of the Mustard Seed"}]
 ---
 
+
 By Fr. Conor Donnelly
 
-(*Proofread*)
+*(Proofread)*
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My immaculate Mother, St. Joseph, my father and Lord, my guardian angel, intercede for me.*
 
-*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+"Then the kingdom of heaven will be like this: Ten wedding attendants took their lamps and went to meet the bridegroom. Five of them were foolish and five were wise. The foolish ones, though they took their lamps, took no oil with them, whereas the wise ones took flasks of oil as well as their lamps. The bridegroom was late, and they all grew drowsy and fell asleep. But at midnight there was a cry, 'Look, the bridegroom. Go out and meet him.' Then all those wedding attendants woke up and trimmed their lamps, and the foolish ones said to the wise ones, 'Give us some of your oil, our lamps are going out.' But they replied, 'There may not be enough for us and for you. You had better go to those who sell it and buy some for yourselves.' They had gone off to buy it when the bridegroom arrived. Those who were ready went in with him to the wedding hall, and the door was closed. The other attendants arrived later, 'Lord, Lord,' they said, 'open the door for us.' But he replied, 'In truth I tell you, I do not know you.' So stay awake because you do not know either the day or the hour" (Matt. 25:1--13).
 
-"Then the kingdom of heaven will be like this. Ten wedding attendants took their lamps and went to meet the bridegroom. Five of them were foolish, and five were wise. The foolish ones, though they took their lamps, took no oil with them, whereas the wise ones took flasks of oil as well as their lamps. The bridegroom was late, and they all grew drowsy and slept. But at midnight there was a cry, 'Look, the bridegroom! Go out to meet him'" (Matt. 25:1-6).
+In this gospel Our Lord makes reference to social customs with which his listeners were perfectly familiar. That's why Our Lord does not spend time on general explanations. Among the Jews it was common practice for women to be given in marriage at a very young age. It was then the custom to celebrate the betrothal. After this first stage of the marriage, the woman, who was quite often still an adolescent, would continue to reside with her parents for some further time. Then after some months had passed, the wedding ceremony itself would take place. It consisted of the solemn transfer of the betrothed from her parents' house to the residence of her spouse, to their new home, in order to initiate their life in common as husband and wife. The ceremony was frequently celebrated in the late afternoon. Such was the case of the wedding feast in Our Lord's parable.
 
-This parable is about taking oil in our lamps. The oil that is referred to here is not the black, tarry stuff that comes about on the ground, but rather, everything that\'s necessary in order to get us into the kingdom of God: divine grace, formation, good works, holiness.
+The transfer of the betrothed from her parents' home to her new abode always took on a specific character of solemnity and would be conducted in a festive mood that in small villages would spread and reach out to all of its inhabitants. One writer said an entourage would then be organized to accompany the betrothed during the transfer. This escort was usually composed of the bride's friends. The transfer itself would begin the moment the spouse arrived to fetch his beloved. Upon arrival at her new house, those who had just escorted the betrothed couple would join the other invited guests in the bridegroom's house, and the festivities of the wedding would immediately commence once the gates had been shut. This parable concerns a bridegroom who happens to arrive unexpectedly in the middle of the night. The question is whether the escorting bridal party is ready to receive him. The bridegroom is Christ. He will come again in some future time. The virgins represent mankind. Some are vigilant, while others have been careful or careless. One writer says the time of waiting is a symbol of our life on earth. The arrival of the bridegroom and the wedding celebration signify the inauguration of the state of eternal bliss in the company of Christ.
 
-At various stages of our life, Our Lord wants us to take oil on board. Every time we receive one of the sacraments, every time we attend some activity of formation---a retreat, a seminar, a talk, a class, spiritual direction, Confession, our spiritual reading, our rosary---each one of these norms of our spiritual life is an opportunity to take oil in our lamps.
+The parable brings to our mind that fateful moment when God calls each and every soul to himself. This is the moment of death. Following God's judgment, some souls enter fully into God's presence, while others find themselves excluded from the wedding feast forever. The Old Testament speaks to us about death. In the book of Ecclesiastes, it says, "If a tree falls to the south or to the north, in the place where the tree falls, there it will lie" (Eccles. 11:3). At the time of death, the state of the soul is fixed for all eternity. The ten virgins of the parable were entrusted with a serious responsibility. They were to await the coming of the bridegroom who was expected at any moment. Five of the virgins took their assignment seriously. They did everything possible to be on guard. The wise took flasks of oil with their lamps. The other five virgins were foolish. They took no oil with them. They became caught up in other concerns and neglected the primary duty of welcoming the bridegroom.
 
-At the same time, the parable speaks to us about how our time is short---the time that we have is an important part of the inheritance received from God. We\'re called to use the time available in order to love.
+We cannot forget that God is our ultimate end. Everything else is of secondary importance, whether it be success, fame, poverty, or wealth, health or sickness. These temporal concerns can be beneficial to us, but only if they help us to keep our lamps burning. We need to maintain a good supply of oil, of good works, especially works of charity. We can remember to keep our eyes fixed on the Lord and not become distracted by things of secondary importance. St. Josemaría had the habit of saying there are things we fail to remember, not because we have short memories, but because we are short of love. We have to be careful not to fall into carelessness and lukewarmness in our spiritual life. We can't allow ourselves to become attached to the things of this world to the detriment of the things of God. When we arrive in the presence of God, he will ask us two questions, said John Henry Cardinal Newman, if we are members of the church and if we have labored for the church. Everything else, he says, is of little value, whether being rich or poor, famous or unknown, highly thought of or disgraced, whether we have been sick or healthy, whether we have a good or bad name.
 
-Christ is love. The Catholic Church is love. Everything about our faith is love.
+We can examine the motivations for our conduct. Do we seek Our Lord in everything we do, or do we seek ourselves? If Christ were to call us to himself today, would he find us vigilant, our lives replete with good works? And we're told that at midnight there was a cry, "Behold the bridegroom, come out to meet him" (Matt. 25:6).
 
-When we look at this parable and see the importance given to making use of opportunities, we can also think of all of our omissions. When we say the "I confess..." every day in the Mass, we talk about our thoughts, words, deeds, and omissions.
+In the immediate aftermath of our death, we will encounter God in the particular judgment. At that time we will receive before our eyes all the good works and sins of our past life. How delighted we will be to review those many acts of faith we have made to Jesus Christ present in the Tabernacle. We will take comfort in the countless genuflections we have made with love in the many hours of work we have offered to God, in the smile and good cheer we have brought to our workplace, and the efforts we have made to bring our friend to the sacrament of confession. We will also contemplate with joy our participation in works of mercy, our prompt recourse to the sacrament of confession whenever we have sinned. And yet how much sorrow we will have at the sight of those occasions when we have offended God, those hours of work or study which we failed to sanctify, those lost opportunities for apostolate with our friends. What a shame to behold so little generosity and attention to God's grace. How grieved we will be by so much neglect.
 
-Possibly our greatest faults may be sins of omission: things we could have done but didn\'t do because of carelessness or laziness or thoughtlessness or whatever---all caused by a lack of love.
+It is Christ who will judge us. He is the one ordained by God to be judge of the living and the dead. As St. Paul reminded the first Christians at Corinth, "For we must all appear before the judgment seat of Christ, so that each one may receive good or evil according to what he has done in the body" (2 Cor. 5:10). If we are faithful in the little things of each day, then we will have no fear in coming before Christ. On the contrary, we will feel an immense peace and joy at the prospect of this encounter. St. Teresa of Avila provides a moving description of that moment. But it will be, she says, a great thing at the hour of death, when we are going we know not whither, to realize that we shall be judged by one whom we have loved above all things, and with a passion that makes us entirely forget ourselves. Once our debts have been paid, we shall be able to walk in safety. We shall not be going into a foreign land, but into our own country. For it belongs to him whom we have loved so truly and who himself loves us. As St. Thomas Aquinas says, right after death, the soul itself will find itself within the banquet hall or outside the bolted doors forever. He teaches that the soul is lifted up or brought down by its merits or the lack thereof.
 
-This parable can also lead us to give thanks to God for all the good things that He has given to us. "What have you," says St. Paul, "that you have not received?" (1 Cor. 4:7).
+Thus, we can meditate today on the condition of our soul. Are we making a sincere effort to rectify our intention, to sanctify our work? We can take to heart those words of the responsorial psalm, "O God, you are my God, I seek you. My soul thirsts for you. My flesh faints for you, as in a dry and weary land where no water is" (Ps. 63:1). My Lord, I am convinced that the things of this world have no meaning unless they lead me to you. There are things that we fail to remember, not because we have short memories, but because we are short of love. A person in love does not forget. As long as Our Lord is our highest priority, we will remain vigilant. We will not become distracted. We will heed the Lord's counsel at the conclusion of this parable, where he says, "Watch therefore, for you know neither the day nor the hour" (Matt. 25:13).
 
-Everything is a gift. And one of the gifts that God gives us is the gift of time, the gift of opportunities.
+To prepare ourselves for this encounter with the Lord, we need to acquire a profound understanding of ourselves. We are now living in a time of testing. St. Paul warns the Corinthians, "If we judged ourselves truly, we should not be judged" (1 Cor. 11:31). Let us not be taken by surprise by our past faults and failings. We need to make a daily examination of conscience so that we can identify our trouble spots and apply the necessary remedy. So to make sure that there are no surprises at the last moment.
 
-In *Friends of God*, we're told, "When I reflect on this, how well I understand St. Paul\'s exclamation when he writes to the Corinthians, *tempus breve est*--time is short" (Josemaría Escrivá, *Friends of God*, Point 39).
+One writer says, I often like to take this book in my own hands. This book that I'm in the process of writing, whether I like it or not, as long as I live. I like to take it up and open it and let my soul read it. And that's very easy and very useful to do at the time of prayer or of examining one's conscience. I like to think that every day of my life is a page of this book. And when I begin a day, often I have in front of me a blank sheet of paper. And sometimes I run quickly through the pages already written and allow the blank pages to pass through my fingers. The pages which are as yet unwritten, because the time hasn't come. And in a funny way, some pages always stay on my fingers. They are the days I don't know whether I'll get to write, because I don't know when the Lord will show me this book for the last time.
 
-I heard of a story of a young fellow in Argentina. He was trying to do a lot of apostolate with his classmates in university. It was a Marian year, as proclaimed by the Pope. He was trying to do something special for Our Lady every day. Each day he wrote in his diary some little aspiration to Our Lady.
+We do not know how much time is left to us to correct and improve the manuscript of our book. The examination of conscience helps us to ask pardon for our mistakes. This exercise also gives us the time to rectify our behavior. If we examine our conscience each night, we will be well prepared to make a good confession. It is through frequent consideration of the eternal truths of death and judgment that we prevent ourselves from being deceived by our pride and by the attractions of this world. The name of the game is examination of conscience. You will gain a great deal of knowledge of yourself and of your character and your life. You will teach yourself to love God and to pin down your desire to make good use of your days by making clear effective resolutions. St. Josemaría says, "Friend, take up the book of your life and turn its pages every day, so that you won't be surprised when it's read on the day of your particular judgment and won't be ashamed when it's published on the day of the universal judgment."
 
-Then one time he invited three of his classmates to go on a pilgrimage to a shrine of Our Lady. There\'s a famous shrine called Our Lady of Luján outside Buenos Aires. He borrowed a car from his father, and they went there on this pilgrimage.
+The Lord calls those unprepared virgins imprudent, foolish. There is no greater act of stupidity than to put at risk one's eternal happiness. We could ask Our Lady to help us to make good use of our time, every day, of every hour, of every period of time, ordinary little pieces of time that are given to us each day.
 
-But there was a bad accident along the way. Their car went under a truck. These four guys were killed.
+One person tells a story, saying imagine that you won the following prize in a contest. Each morning, your bank would deposit \$86,400 in your private account for your use. But this prize has certain rules. One is that everything that you didn't spend during each day would be taken away from you. You can't simply transfer money into some other account. You can only spend it. Each morning upon awakening, the bank will open your account and another \$86,400 will be deposited for that day. The bank can end the game without warning. At any time, it can say, "Game over." It can close your account and you won't receive a new one. What would you personally do? Well, you might buy anything and everything that you wanted, not only for yourself, but for all the people you love and care for, even for the people you don't know, because you couldn't possibly spend it all on yourself. You would try to spend every cent and use it all, because you knew it would be replenished in the morning.
 
-The spiritual director of that fellow was looking at his diary later to see if there was anything that needed to be attended to and found that he had written an aspiration to Our Lady every day of that Marian year.
+Well, you could say that this game is real. Each of us is already a winner of that prize. We just can't seem to see it. Each morning we awaken to receive 86,400 seconds as a gift of life. And when we go to sleep at night, any remaining time is not credited to us. What we haven't used up that day is lost forever. Yesterday is gone forever. Each morning the account is refilled, but the bank can dissolve your accounts at any time without warning. So what will we do with our 86,400 seconds? Those seconds are worth so much more than the same amount in dollars. We could think about this and remember to make good use of every second of our life. Because time races by so much quicker than we think. So we could try and make an effort and a resolution to use our time better.
 
-On those particular days, he had written that phrase from St. Paul: Maria, *tempus breve est*. Mary, "time is short" (1 Cor. 7:29). He didn\'t know how short his time was.
+Jesus speaks of small increments of time. "This day you will be with me in Paradise" (Luke 23:43). "My hour has not yet come" (John 2:4). I saw a sign on a clock here in Nairobi one time, saying, "Time is free, but it's priceless." We could ask Our Lord for the grace to savor that realization that time is priceless, as a treasure, a gift of God, a talent. And God calls each one of us to be like those prudent and wise virgins, who made good use of their time. And that means we should have a plan for every day, a plan for our spiritual life, a plan for our professional life, a plan for our home life. What is planned for gets done. What is written down gets done. It doesn't stay in the realm of our imagination.
 
-St. Josemaría continues, "How short indeed is the time of our passing through this world! For the true Christian, these words ring deep down in his heart as a reproach to his lack of generosity and as a constant invitation to be loyal.
+And time is for glory, it's for grace, it's for eternity. It's an instrument in our hands, we're doing something with it. To gather the oil. And in the story, ultimately, the oil is everything that's necessary in order to enter the kingdom of heaven. It's an instrument that we have been given in order to do something with it. Being given to us in order to work, to serve, to develop ourselves, to give glory to God. It's an instrument. We don't go looking for time for its own sake. We don't go around telling everybody, "I have time, I have time, I have time." Nobody says, "I have a pen, I have a pen, I have a pen." What you do with that instrument is what's important. Just like we look for a pen in order to write with it.
 
-"Brief indeed is our time for loving, for giving, for making atonement. It would be very wrong, therefore, for us to waste it, or to cast this treasure irresponsibly overboard. We mustn\'t squander this period of the world\'s history which God has entrusted to each one of us" (*Ibid*.).
+And it's an instrument on loan. God will ask us to account for those 86,400 seconds day by day. It has been given to us very specifically. It has to be used for the purpose for which it was given. And the fact that it has been given, well, also is a sign that it's not ours. We can't play around with it. We can't add a single second to an hour. We can't shorten it or lengthen it. It's one of the gifts that God has given, and we have very little playroom. God gives his time, and at the end, he asks for it back. We're told in Scripture, "But about that day and the hour no one knows, neither the angels in heaven, nor the Son, but only the Father" (Matt. 24:36). And everyone has a limited amount of time. A packet of a number of years, some of 20, some 40, 60, 80, 100. Some babies just get a few hours of light, but each gets their time.
 
-That last line of that quotation has very haunting words: "We mustn\'t squander this period of the world\'s history which God has entrusted to each one of us."
+St. Josemaría liked to speak about the sanctification of the moment, each second, each moment in our existence, very ordinary moments as we function throughout each day and each night. Our sanctity is tied up in the sanctification of those moments. We sanctify them by living in the presence of God, by having a heart-to-heart relationship with Jesus or with Our Lady or our guardian angel, or by practicing some virtue. Our life is made up of many sanctified moments. An act of thanksgiving is an act of a moment.
 
-This particular period is our period. This is the period that God wants us to influence, to make a splash, to leave a legacy. Therefore, we can\'t "cast this treasure" of time and opportunity "irresponsibly overboard."
+And in Scripture, we see that when people discover what the will of God is, they go quickly with a sense of urgency to fulfill that will. We're told that Our Lady went with haste into the hill country. The shepherds went with haste to Bethlehem. So Lord, give us that sense of urgency so that we can work every day with that spirit. Help us to use the time for the specific reason that you've given it to us, to work, to develop ourselves, to give God glory.
 
-One of the greatest omissions we could have is to waste time, to waste opportunities. We have to try and struggle to use our time well.
+Time is something sacred. It belongs to God. We have to use it for that for which God has given it to us. For that reason, we also have to respect other people's time through punctuality, through order. Whenever we're late for some appointment, even by a few minutes, it's very good manners to message that person ahead and let them know we're going to be a little bit late. It's a very good gesture of charity. It sends a message that I appreciate your time. I respect it. I value time.
 
-In *The Way*, St. Josemaría says, "Turn your back on the tempter when he whispers in your ear: 'Why make life difficult for yourself?'" (J. Escrivá, *The Way,* Point 6).
+From the contemplation of all of these things that the parable has spoken to us about, taking oil in our lamps, we can turn to Our Lady, Mother of Mercy, our life, our sweetness, and our hope. She will help us to make good use of our time, to take all that oil that we need to take on every opportunity, to purify our life so that it may bear abundant fruit.
 
-Elsewhere in *The Way,* we\'re told, "Get rid of that \'small-town\' outlook. Enlarge your heart till it becomes universal, \'catholic.' Don\'t flutter about like a hen, when you can soar to the heights of an eagle." (J. Escrivá, *The Way,* Point 7).
+We can also ask our guardian angel. He always accompanies us as our principal witness. He will be there for us also at the particular and general judgment. And hopefully, as some writers say, he will remember the kind deeds that we have performed for Our Lord throughout our life, which we may have long forgotten. And as St. Josemaría says, "Furthermore, when you feel lost before the terrible accusations of the enemy, your angel will present those intimations of your heart, which perhaps you yourself might have forgotten, those proofs of love which you might have had for God the Father, God the Son, God the Holy Spirit. That is why you must never forget your guardian angel, and that prince of heaven shall not abandon you now, or at that decisive moment."
 
-St. Josemaría liked to inflame the hearts of young people with great ideals: to make them think and make them dream of great things.
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My immaculate Mother, St. Joseph, my father and Lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-He says also in *The Way,* Point 13, "Get rid of those useless thoughts which, at best, are but a waste of time."
-
-The Church reminds us that we are pilgrims. We\'re journeying forward. She herself is a pilgrim. We stand before God as "a wayfarer among the persecutions of the world and also with the consolations from God" (Second Vatican Council, *Lumen gentium*, Point 8).
-
-Our life\'s path can be a path of tribulation, but also of God\'s consolation. We have a life in time now which we are living, but another life outside of time to which we are making our way.
-
-It\'s for that for which we have to take oil in our lamps, thinking of the future, adding an eternal echo to every moment of our existence.
-
-The time at our disposal is an important part of the inheritance that God has given to us. Time represents the separation between the present and that moment when we will stand before God, with our hands empty or our hands full.
-
-Only now in this life can we obtain merit for the next. Every single day of ours is a period given to us by God, I\'m told, with 86,500 seconds, and they\'re ticking.
-
-All those seconds are given to us so that we may fill it with love of Him, with love for those around us, with work well done, with putting the virtues into practice; in a word, fill it with a life full of good works pleasing to God\'s eyes.
-
-In St. Matthew, we\'re told, "Do not store up for yourselves treasures on earth, where moth and woodworm destroy them and thieves can break in and steal. But store up for yourselves treasures in heaven, where neither moth nor woodworm destroys them and thieves cannot break in and steal. For wherever your treasure is, there your heart will be also" (Matt. 6:19-21).
-
-A number of years ago, I was called to the bedside of a man who was dying of cancer at age 51. I was on duty as a doctor in a hospital that night.
-
-He had asked his relatives to leave the room, and when they left the room, he took hold of my wrist with one hand, a hand that was already cold and clammy. Death had already begun to creep into his body.
-
-With a look of terror in his eyes, he said, "Doctor, don\'t let me die." He was going to die a few hours later. There he was at the moment of his death in such terror.
-
-He was well-to-do. He was in the best hospital in the country. But at the moment of his death, he realized that all his treasures were in this world.
-
-This brought back to you in a very clear way the relevance of that phrase we\'ve just quoted, to store up for yourselves treasures in heaven.
-
-Every day, every hour of our life is an opportunity to store up those treasures. Now is the time to amass the treasure that never perishes, to take oil in our lamps in every single possible way that we can.
-
-For each one of us, "Now is the acceptable time;" says St. Paul, "now is the day of salvation" (2 Cor. 6:2).
-
-Once it is past, there will be no other time. The time that each one of us has at our disposal is short, but long enough to tell God that we love Him, and we want to accomplish the work that He has given us.
-
-St. Paul says, "Look carefully then how you walk---not as unwise men but as wise, making the most of time" (Eph. 5:15-16). "For soon night comes when no one can work" (John 9:4).
-
-St. Paul considers the brevity of our stay on earth and the insignificance of things in themselves: "for the form of this world," he said, "is passing away" (1 Cor. 7:31). This life is just a shadow of the life that awaits us in heaven: the eternal wedding feast.
-
-It doesn\'t matter if we only perceive a small part of this. In our prayer today we could thank Our Lord for all the gifts we\'ve received.
-
-"We can ask Him for new strength to serve him and to endeavor never to be ungrateful, for that is the condition on which the Lord bestows his jewels" (St. Teresa of Ávila, *Life*).
-
-If we realize the gift, *si scires donum dei*\... (John 4:10). So 'acts of thanksgiving' is also a very good norm of *always*.
-
-"If we do not make good use of the treasures that he\'s given to us, and of the high estate to which he brings us, then God may take those treasures away. We might become poorer than before. He might give those jewels to someone else who can display them to greater advantage.
-
-"We are aware of our own miseries, our own wretchedness, how we can be attracted by earthly things and forget the things of the next world" (*Ibid*.).
-
-We can ask Our Lord for forgiveness for so many failures and omissions to correspond to grace, for all those occasions when Our Lord may have been at our side and we made no effort to see Him, and so let Him pass by.
-
-We can also thank Our Lord for the innumerable times when He has shown great mercy to us and given us all sorts of graces that we weren\'t aware of.
-
-We could tell Him: Lord, I want to resolve to love you and to struggle to acquire the virtues. To get rid of my defects. To use the time available for me to do that.
-
-Our Lord wants us to be vigilant. "Walk while you have the light" (John 12:35).
-
-The *Catechism of the Catholic Churc*h says, "To God, all moments are present in their immediacy. When therefore he establishes his eternal plan of 'predestination,' he includes in it each person\'s free response to grace" (*Catechism*, Point 600).
-
-"He has made everything suitable for its time. He has put a sense of past and future into their minds if they cannot find out what God has done from the very beginning to the end" (Eccles. 3:11).
-
-Our Lord gives us time to respond to His grace. Every minute that passes is a grace that has flowed. Time is like a flowing divine treasure. We see it coming, it comes, and then it\'s gone, never to come again.
-
-We should try and make use of that treasure while we have it, respond to that grace by doing in each moment what we\'re supposed to be doing so that we\'re never "idle in the marketplace" saying that "no man has hired us" (Matt. 20:6-7).
-
-The shortness of life is a continual call to squeeze from it all that we can: to have a list of things we\'re supposed to do every day, a "to-do" list with priorities so that we\'re always hitting the most important thing; and we always try and keep God before our eyes, and put the spiritual things first.
-
-We could ask ourselves in our prayer, Is Our Lord pleased with the way I\'ve handled the past? Have I spent my time well or have I wasted opportunities? Have I let go of the Cross because of my tendency to complain at the first sign of opposition?
-
-We have to try and see each new increment of time as a new call to holiness in our ordinary life and all the time, we are much nearer to the definitive moment of our meeting with God at death.
-
-We are told, "Let us not grow weary in our well-doing, for in due season we shall reap, if we do not lose heart. Then, as we have opportunity, let us do good to all men" (Gal. 6:9-10).
-
-We thank Our Lord for all the good things we have received. Let us also make acts of contrition for all our omissions, the times when we lacked charity, when maybe, we were too easy-going in our work, when we got a bit used to spiritual mediocrity, or maybe, gave little in the way of alms.
-
-Maybe we\'ve been prey to selfishness and vanity. We haven't mortified ourselves at meals. We've ignored the graces given to us by the Holy Spirit.
-
-Or we've been intemperate or ill-humored or stubborn in character. Or we've more or less deliberately allowed ourselves to be distracted in our practices of piety.
-
-We have all sorts of reasons for asking God\'s forgiveness. We look at each one of our days---we see we have reasons to ask for forgiveness on a daily basis, for the offense we may have caused with our words or with our actions. We can\'t escape from this fact even for a day.
-
-And yet, in the human and supernatural realms, our reasons for thanksgiving are incomparably greater.
-
-We can\'t count the inspirations of the Holy Spirit in our soul, all the graces we\'ve received in the sacraments of Penance and Holy Communion, all the times our guardian angel has protected us, the merit we\'ve gained through the offering of our work and hardships for others, and the times when other people also have helped us. There are great things there for which we have to thank.
-
-When Our Lord speaks of time, He speaks about small increments of time. "Today this Scripture has been fulfilled in your hearing" (Luke 4:21). Christ doesn\'t speak of Vision 2030 or Millennium Goals.
-
-He talks about today: "This hour you will be with me in paradise" (Luke 23:43). "Woman, my hour has not yet come" (John 2:4). All the time Our Lord is talking about small periods.
-
-He invites us to make very good use, to take the oil in our lamps, to see that time is a treasure, a gift of God, a talent. It\'s for glory, it\'s for grace, it\'s for eternity.
-
-We are to sanctify time, we need to sanctify each moment, with norms of *always* like acts of thanksgiving, acts of atonement, and acts of faith.
-
-Time is an instrument in our hands. We\'re doing something with it. It\'s given in order to work, to give glory to God, to develop ourselves, to serve.
-
-We don\'t go around saying, 'I have time, I have time, I have time.' It\'s like saying, 'I have a Biro, I have a Biro, I have a Biro.'
-
-What are you going to do with that Biro? Are you going to sign a check or a contract or give your autograph? That\'s what makes it important.
-
-We are not lords of time, but just administrators. It\'s a divine treasure that doesn\'t belong to us.
-
-Idling in the marketplace is a very dangerous place to be, as a punishment for the lazy servant who hid his master\'s talent (Matt. 25:18). We have to try and struggle against the inertia, a feeling of not feeling like doing things.
-
-We have to try and push ourselves to do things today and now. Fulfill my duty. No procrastination. Be demanding of ourselves in this area because our time belongs to God.
-
-Because of that, we try and use it well. It can be good to get advice on how we use our time. Should I do this? Should I do that? Maybe some things are a waste of time.
-
-And all the time we have is limited. Some people get over 100 years; some 80, 60, 40. Some babies just get a few minutes or a few hours. But everybody gets their time.
-
-That\'s a gift. St. Josemaría calls it the treasure of time. Some people say time is money, time is my business. He said, "Time is a treasure" (J. Escrivá, *Friends of God*, Chapter 3).
-
-Blessed Álvaro speaks about the sanctification of the moment. Our life is made up of many sanctified moments. In taking oil in our lamps and encouraging us to do so, Our Lord is stimulating our initiative, our responsibility to have a sense of urgency.
-
-When Our Lady heard what the will of God was for her, she went "with haste into the hill country" (Luke 1:39). She didn\'t dilly-dally.
-
-When we see what God\'s will for us is, we also have to go quickly to fulfill that will. We\'re also told that the shepherds went "with haste" to Bethlehem (Luke 2:16).
-
-God has given us our time for a very specific reason, to acquire certain talents, to conquer certain defects, to work.
-
-The Book of Ecclesiastes says God has appointed time for every matter, for every work: "a time to be born and a time to die, a time to plant and a time to reap what has been planted" (Eccles. 3:1-2).
-
-A time also to rest. A time to spend with our family and be a time to stop running around the place doing things and focus on what is most important.
-
-The first point in *The Way* says, "Don\'t let your life be barren. Be useful. Make yourself felt. Shine forth with the torch of your faith and your love. With your apostolic life, wipe out the trail of filth and slime left by the corrupt sowers of hatred. And set aflame all the ways of the earth with the fire of Christ that you bear in your heart" (J. Escrivá, *The Way*, Point 1).
-
-The words of St. Josemaría are very dynamic. They encourage us to plan our time very well. If you look at management textbooks, you\'ll find that a lot of them talk about the management of time. Very often, the management of self has a lot to do with the management of time.
-
-We\'re told in the *Furrow* (Point 82), "There are many who feel unhappy, just because they have too much of everything. ---Christians, if they really behave as God\'s children, will suffer discomfort, heat, tiredness, and cold. ... But they will never lack joy, because that---all that!---is ordained or permitted by Him who is the source of true happiness."
-
-Naturalness has nothing to do with rusticity, or being shabby, or doing things poorly, or being bad-mannered. Some people are determined to reduce the service of God to working in a world of miserable and lousy poverty.
-
-Such work is and will always be admirable. But if we stop there, apart from abandoning the vast majority of souls, what should we do when we\'ve brought them out of their need? Ignore them?
-
-St. Josemaría opens up horizons for us, thinking of the future, forming people, and education. "Have you noticed," he said, "that mortified souls, because of their simplicity, have a greater enjoyment of good things, even in this world?" (J. Escrivá, *Furrow*, Point 982).
-
-He says in *Furrow,* Point 813, "I give you thanks, my Jesus, for your decision to become perfect Man, with a Heart which loved and is most lovable; which loved unto death and suffered; which was filled with joy and sorrow; which delighted in things of men and showed us the way to Heaven; which subjected itself heroically to duty and acted with mercy; which watched over the poor and the rich and cared for sinners and the just...---I give you thanks, my Jesus. Give us hearts to measure up to yours!"
-
-There was a visitor to a certain country once who was touring the country and came across a farmer who was cutting a hedge. He observed him for some time, and then he realized that there was a much faster way to get the job done.
-
-So in his generosity and innocence, he went to the local farmer who was cutting the hedge and said, 'Look, I think if you do this a different way, you\'d get this job done in half the time.'
-
-And the farmer replied, 'Well, what good would that be to me? I don\'t have double the work to be doing!'
-
-You could say that that wasn\'t a very efficient approach to the use of time. We can always find new things to do, new ways to help, new ways to serve, new ways to be effective.
-
-Our Lady "went up into the hill country with haste" (Luke 1:39). She\'ll help us to take oil in our lamps at every single opportunity. She\'ll help us to see that time is limited.
-
-There\'s a moment that\'s going to come when the door is shut. "Those who were ready went in with him to the wedding hall and the door was closed." It\'s very final.
-
-"The other attendants arrived, saying, 'Lord, Lord, open the door to us.' But he replied, 'In truth, I tell you, I do not know you.' So, stay awake because you know neither the day nor the hour" (Matt. 25:10-13).
-
-We could ask Our Lady to help us to take oil in our lamps, to use every opportunity to thank God for all the great things He\'s given to us so that we can be ready with our lamp burning brightly when the bridegroom comes.
-
-*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
-
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
-
-*MVF*
+*EW*

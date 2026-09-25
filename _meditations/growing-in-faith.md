@@ -6,8 +6,8 @@ reading_time: 16
 tags: ["Virtues & Struggle"]
 prev_slug: great-mothers
 prev_title: "Great Mothers"
-next_slug: guardian-angels-2026
-next_title: "Guardian Angels (2026)"
+next_slug: growth-in-prayer
+next_title: "Growth in Prayer"
 related: [{"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}, {"slug": "infectious-faith", "title": "Infectious Faith"}]
 ---
 

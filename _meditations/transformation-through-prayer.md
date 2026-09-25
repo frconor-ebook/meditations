@@ -8,15 +8,17 @@ prev_slug: touching-god-in-prayer
 prev_title: "Touching God in Prayer"
 next_slug: trinity-sunday
 next_title: "Trinity Sunday"
-related: [{"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}, {"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}]
+related: [{"slug": "growth-in-prayer", "title": "Growth in Prayer"}, {"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}]
 ---
 
 
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My immaculate Mother, St. Joseph, my father and Lord, my guardian angel, intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 In St. Paul we are told, "Let this mind be in you, which was also in Christ Jesus" (Phil. 2:5).
 

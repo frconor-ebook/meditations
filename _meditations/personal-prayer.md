@@ -8,7 +8,7 @@ prev_slug: perseverance
 prev_title: "Perseverance"
 next_slug: peter-and-prayer
 next_title: "Peter and Prayer"
-related: [{"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}, {"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}]
+related: [{"slug": "growth-in-prayer", "title": "Growth in Prayer"}, {"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: pray-for-the-dead
 prev_title: "Pray for the Dead"
 next_slug: preparing-for-retreat
 next_title: "Preparing for Retreat"
-related: [{"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}, {"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}]
+related: [{"slug": "growth-in-prayer", "title": "Growth in Prayer"}, {"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}]
 ---
 
 By Fr. Conor Donnelly

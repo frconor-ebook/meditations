@@ -8,7 +8,7 @@ prev_slug: meekness
 prev_title: "Meekness"
 next_slug: mental-prayer-after-edward-leen
 next_title: "Mental Prayer (after Edward Leen)"
-related: [{"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}, {"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}, {"slug": "personal-prayer", "title": "Personal Prayer"}]
+related: [{"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}, {"slug": "growth-in-prayer", "title": "Growth in Prayer"}, {"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}]
 ---
 
 By Fr. Conor Donnelly

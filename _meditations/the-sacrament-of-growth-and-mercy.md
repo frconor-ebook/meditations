@@ -8,7 +8,7 @@ prev_slug: the-resurrection
 prev_title: "The Resurrection"
 next_slug: the-sacred-heart-of-jesus
 next_title: "The Sacred Heart of Jesus"
-related: [{"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}, {"slug": "our-lady-mother-of-mercy", "title": "Our Lady, Mother of Mercy"}, {"slug": "a-merciful-messiah", "title": "A Merciful Messiah"}]
+related: [{"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}, {"slug": "our-lady-mother-of-mercy", "title": "Our Lady, Mother of Mercy"}, {"slug": "growth-in-prayer", "title": "Growth in Prayer"}]
 ---
 
 By Fr. Conor Donnelly
