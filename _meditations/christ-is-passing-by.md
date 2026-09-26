@@ -37,11 +37,11 @@ There may be times in our life when we experience more hardship than usual. Ther
 
 These are all moments when we need to turn to Jesus, who is always by our side. We need to have a humble and sincere faith, like the sick and the suffering people of the Gospels.
 
-Then we will cry out to the Master, "'Lord, put not your trust in me. But I put my trust in you.' Then, as we sense in our hearts the love, the compassion, the tenderness of Christ's gaze upon us, for he never abandons us, we come to understand the full meaning of those words of St. Paul: *virtus in infirmitate perficitur*--strength is made perfect in weakness (2 Cor. 12:9).
+Then we will cry out to the Master, "'Lord, put not your trust in me. But I put my trust in you.' Then, as we sense in our hearts the love, the compassion, the tenderness of Christ's gaze upon us, for he never abandons us, we come to understand the full meaning of the words of St. Paul: *virtus in infirmitate perficitur*--strength is made perfect in weakness (2 Cor. 12:9).
 
 "If we have faith in Our Lord, in spite of our failings---or, rather, with our failings---we \[shall\] be faithful to Our Father, God. His divine power will shine forth in us, sustaining us in our weakness" (*ibid*., Point 194). It can be a great comfort to know that Christ is near us.
 
-In St. Mark we read the story of where Jesus cures the blind beggar Bartimaeus (Mark 10:46-52). The Master is leaving Jericho on His way to Jerusalem. That's where Bartimaeus makes his immortal appeal: "When he heard that it was Jesus of Nazareth, he began to shout and to say, 'Son of David have pity on me.'"
+In St. Mark we read the story of where Jesus cures the blind beggar Bartimaeus (Mark 10:46-52). The Master is leaving Jericho on His way to Jerusalem. That's where Bartimaeus makes his immortal appeal: "When he heard that it was Jesus of Nazareth, he began to shout and to say, 'Son of David, have pity on me.'"
 
 This man, who lived in complete darkness, had a tremendous desire for light, for clarity, for a cure. He sensed that this was his moment. How long he had been waiting for this opportunity. The Master had come within range of his voice.
 
@@ -75,13 +75,13 @@ St. Josemaría says similar stories. He said, "I did not know what it was that G
 
 St. Josemaría says, "Your faith, your faith in the light Our Lord is giving you, must be most operative and full of sacrifice. Don't fool yourself. Don't think you're going to find new ways. The faith he demands of us is as I have said. We must keep step with him, working generously and at the same time uprooting and getting rid of everything that gets in the way" (*cf*. *ibid*., Point 193).
 
-In the Psalms, we read: "The Lord has done great things for us; we are filled with joy. When the Lord delivered Zion from bondage, it seemed like a dream. Then was our mouth filled with laughter, on our lips there were songs. Deliver us, O Lord, from our bondage as streams in dry land. Those who are sowing in tears will sing when they reap" (Ps. 126:1--5).
+In the Psalms, we read: "The Lord has done great things for us; we are filled with joy. When the Lord delivered Zion from bondage, it seemed like a dream. Then was our mouth filled with laughter, on our lips there were songs. Deliver us, O Lord, from our bondage as streams in dry land. Those who are sowing in tears will sing when they reap" (Ps. 126:1-5).
 
 This Psalm of jubilation records the good fortune of the Israelites who were allowed by Cyrus to return to the land of their fathers. The Chosen People were full of hope at the prospect of rebuilding the Temple and the Holy City.
 
 This Psalm was later chanted on pilgrimages to Jerusalem, particularly on the occasion of important Jewish feasts. That's why the Psalm has been called the *Pilgrimage Canticle*.
 
-To the south of Palestine, there is a desert called the Negev desert. During the rainy season, that area would be converted into an oasis. As the captives from Babylon returned to Israel they asked the Lord to renew the earth, to establish a new period of blessings. Their tears were converted into the seeds of conversion and repentance for their past sins, which had brought down divine punishment.
+To the south of Palestine there is a desert called the Negev desert. During the rainy season, that area would be converted into an oasis. As the captives from Babylon returned to Israel they asked the Lord to renew the earth, to establish a new period of blessings. Their tears were converted into the seeds of conversion and repentance for their past sins, which had brought down divine punishment.
 
 The farmer who becomes wearied by sowing the field will one day return to reap the grain of his labors. "So too," says one author, "the Chosen People sowed tears of reparation, the harvest from which they came to reap with joy and exaltation" (*cf*. David de las Heras, *Ascetical and Theological Commentary on the Psalms*).
 
@@ -93,7 +93,7 @@ Our suffering, our blindness, can serve as a means for an encounter with Jesus. 
 
 In *The Forge*, we're told, "In those days, the Gospel tells us, the Lord was passing by; and they, the sick, called to him and sought him out. Now, too, Christ is passing by, in your Christian life. If you help him, many will come to know him, will call \[to\] him, will ask him for help, and their eyes will be opened to the marvelous light of grace" (J. Escrivá, *The Forge*, Point 665).
 
-"Lord, help me to see what it is you want of me. *Domine ut videam"* (Mark 10:52).
+"Lord, help me to see what it is you want of me. *Domina, ut videam"* (Mark 10:52).
 
 Immediately after the multiplication of the loaves and the fishes, Our Lord took leave of the crowds and ordered the disciples to set out in their boats (Matt. 14:22-36).
 
@@ -113,7 +113,7 @@ But in the case of one Pope some time ago, they got a rather modernistic painter
 
 Christ always presents Himself in this manner in the life of a Christian, giving encouragement and serenity. "Take courage."
 
-Peter takes courage; led on by his love, and moved by his desire to be close to the Master, he makes an unexpected request: "Lord, if it is you, bid me come to you over the water" (Matt. 14:28). Love's daring has no limits, and so, Our Lord yields easily to the request. He said, "Come."
+Peter takes courage; led on by his love and moved by his desire to be close to the Master, he makes an unexpected request: "Lord, if it is you, bid me come to you over the water" (Matt. 14:28). Love's daring has no limits, and so, Our Lord yields easily to the request. He said, "Come."
 
 Peter got out of the boat and began to walk on the water towards Jesus. These were stirring moments for all of them. Peter gave up the safety of the boat at the word of Our Lord. He didn't remain clinging to the side of the vessel, but he went towards Jesus, who was now only a few yards away.
 
@@ -131,7 +131,7 @@ He paid attention to the obstacles and his faith diminished. The miracle was lin
 
 At times, God asks for things which seem apparently impossible, but which become a reality when we act with faith, with our sight fixed on the Lord.
 
-On one occasion, St. Josemaría, speaking to a daughter of his who was going to another country where there would be difficulties inseparable from the beginning of the apostolic work, said to her, "When I ask something of you, my daughter, don't tell me that it is impossible, because I know that already. Since I began the Work, Our Lord has asked me to do many impossible things, and then they have become a reality" (Peter Berglar, *Opus Dei---Life and Work of the Founder*).
+On one occasion, St. Josemaría, speaking to a daughter of his who was going to another country where there would be difficulties inseparable from the beginning of the apostolic work, said to her, "When I ask something of you, my daughter, don't tell me that it is impossible, because I know that already. Since I began the Work, Our Lord has asked me to do many impossible things...and then they have become a reality" (Peter Berglar, *Opus Dei---Life and Work of the Founder*).
 
 They've kept on happening. So it was with the apostolic work in many countries, and vocations came, and with them people who were willing to help out in that work with great generosity and detachment.
 
@@ -143,7 +143,7 @@ In his commentary on the Gospel, St. John Chrysostom points out that Jesus taugh
 
 That's why as soon as Peter began to fear and doubt, he also began to sink. When faith diminishes, difficulties seem greater.
 
-"Living faith depends on my ability to respond to God, who calls me and wants to treat me as a friend, as one who is the great witness of my life. If I respond to him and love him, and if he is someone familiar in my life, if I live close to him, I am safeguarding my faith, because my faith is founded on God.
+One writer says, "Living faith depends on my ability to respond to God, who calls me and wants to treat me as a friend, as one who is the great witness of my life. If I respond to him and love him, and if he is someone familiar in my life, if I live close to him, I am safeguarding my faith, because my faith is founded on God.
 
 "On the other hand, if I keep my distance from God, if I forget him, if I keep him outside my life and am submerged in merely human and material things, if I let myself be carried away by what is immediately in front of me and God fades from my soul, then how will I have a living faith? If I don't speak with Christ, what is there left of my faith?
 
@@ -155,7 +155,7 @@ All the tempests put together, those within the soul and those arising from outs
 
 Our faith should never falter even when the difficulties are enormous, even though they seem to crush us under their weight.
 
-We're told in *The Way*, "What does it matter if the whole world with all its power is against you? You...go forward. Repeat the words of the psalm: 'The Lord is my light and my salvation. Whom shall I fear? Though my enemies surround me, my heart shall not waver'" (Ps. 27:1,3). *Si consistant adversum me castra, non timebit cor meum* (J. Escrivá, *The Way*, Point 480).
+We're told in *The Way*, "What does it matter if the whole world with all its power is against you? You...go forward. Repeat the words of the psalm: 'The Lord is my light and my salvation. Whom shall I fear? Though my enemies surround me, my heart shall not waver' (Ps. 27:1,3). *Si consistant adversum me castra, non timebit cor meum"* (J. Escrivá, *The Way*, Point 480).
 
 We're told that Peter got out of the boat and walked on the water to come to Jesus. But seeing the wind was strong, he was afraid, and as he began to sink he cried out, "Lord, save me!"
 
