@@ -6,9 +6,9 @@ reading_time: 19
 tags: ["Saints & Feast Days"]
 prev_slug: the-great-saint-of-avila
 prev_title: "The Great Saint of Avila"
-next_slug: the-harvest-is-plentiful
-next_title: "The Harvest is Plentiful"
-related: [{"slug": "guardian-angels-2026", "title": "Guardian Angels (2026)"}, {"slug": "our-lady-of-the-angels", "title": "Our Lady of the Angels"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}]
+next_slug: the-guardian-angels-2026
+next_title: "The Guardian Angels (2026)"
+related: [{"slug": "the-guardian-angels-2026", "title": "The Guardian Angels (2026)"}, {"slug": "our-lady-of-the-angels", "title": "Our Lady of the Angels"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}]
 ---
 
 By Fr. Conor Donnelly

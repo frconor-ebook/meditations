@@ -3,8 +3,8 @@ layout: homily
 title: "Guarding Our Sight"
 description: "\"They came to Bethsaida, and some people brought to him a blind man whom they begged him to touch. He took the blind man by the hand and led him outside..."
 reading_time: 17
-prev_slug: guardian-angels-2026
-prev_title: "Guardian Angels (2026)"
+prev_slug: growth-in-prayer
+prev_title: "Growth in Prayer"
 next_slug: happy-are-the-meek
 next_title: "Happy Are the Meek"
 ---

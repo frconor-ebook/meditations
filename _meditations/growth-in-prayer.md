@@ -6,8 +6,8 @@ reading_time: 19
 tags: ["Prayer & Interior Life"]
 prev_slug: growing-in-faith
 prev_title: "Growing in Faith"
-next_slug: guardian-angels-2026
-next_title: "Guardian Angels (2026)"
+next_slug: guarding-our-sight
+next_title: "Guarding Our Sight"
 related: [{"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}, {"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}]
 ---
 

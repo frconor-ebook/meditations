@@ -4,8 +4,8 @@ title: "The Harvest is Plentiful"
 description: "\"After this the Lord appointed seventy-two others and sent them out ahead of him in pairs, to all the towns and places he himself would be visiting. And..."
 reading_time: 19
 tags: ["Apostolate"]
-prev_slug: the-guardian-angels
-prev_title: "The Guardian Angels"
+prev_slug: the-guardian-angels-2026
+prev_title: "The Guardian Angels (2026)"
 next_slug: the-healing-of-the-man-with-the-withered-hand
 next_title: "The Healing of the Man with the Withered Hand"
 related: [{"slug": "fire-on-earth", "title": "Fire On Earth"}, {"slug": "fishers-of-men", "title": "Fishers of Men"}, {"slug": "friendship-and-confidence", "title": "Friendship and Confidence"}]
