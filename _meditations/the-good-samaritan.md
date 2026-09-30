@@ -27,7 +27,7 @@ Last week (July 2020), the Holy Father came out with a new document called *The 
 
 Like all Church documents, it's full of very beautiful doctrine, it's extremely well written, beautiful English. It's a very good thing as these documents appear to try to read them, to keep up to date with what the Church is saying, also to review basic aspects of doctrine, and to spread them around as much as possible.
 
-We have an awful lot to be proud of. Scott Hahn, when he converted to Catholicism and read some of the Church documents, said some of the greatest treasures of the Catholic Church are hidden in Church documents that were never read by Catholics (*cf*. Scott Hahn, The Splendor of the Catholic Church, *Answering Common Objections*, 2001).
+We have an awful lot to be proud of. Scott Hahn, when he converted to Catholicism and read some of the Church documents, said some of the greatest treasures of the Catholic Church are hidden in Church documents that were never read by Catholics (*cf*. Scott Hahn, The Splendor of the Catholic Church, *Answering Common Objections*).
 
 The Holy Father places this whole document in the context of the Good Samaritan. And as often happens in Scripture, there's a contrast.
 
@@ -81,7 +81,7 @@ The Good Samaritan, in some ways, is giving us "a self-portrait of Christ. It re
 
 "Christ's lesson is simple. 'Love God with all your heart and love your neighbor as yourself'" (Mark 12:30-31) and you will live.
 
-"It\'s within everyone\'s reach to live out this simple lesson, even within reach of a Samaritan, who, according to local customs of the time, was not supposed to have anything to do with Jews" (John Bartunek, *The Better Part: A Christ-Centered Resource for Personal Prayer*).
+"It's within everyone's reach to live out this simple lesson, even within reach of a Samaritan, who, according to local customs of the time, was not supposed to have anything to do with Jews" (John Bartunek, *The Better Part: A Christ-Centered Resource for Personal Prayer*).
 
 But the Samaritan breaks social custom, breaks those barriers, goes out of his way. A little bit like Our Lord saying we have to go that extra mile. We have to keep very clear in our mind the importance of the human person.
 
@@ -89,7 +89,7 @@ In some ways, this story summarizes the entire gospel, the entire meaning of lif
 
 At the very start of the parable, Our Lord is asked, "And who is my neighbor?" (Luke 10:29).
 
-Our Lord obliges then with the explanation and the story of the Good Samaritan, "the explanation that's also given by the words and examples of thousands of saints, by the teaching of the Church in every age, by the nudges to our own conscience...to make Christ's standards our own. The complicated shadows of self-absorption have become too comfortable, the simple bright light of Christ's truth hurts our eyes" (John Bartunek*, ibid*.).
+Our Lord obliges them with the explanation and the story of the Good Samaritan, "the explanation that's also given by the words and examples of thousands of saints, by the teaching of the Church in every age, by the nudges to our own conscience...to make Christ's standards our own. The complicated shadows of self-absorption have become too comfortable, the simple bright light of Christ's truth hurts our eyes" (J. Bartunek*, ibid*.).
 
 We have a choice of being a bit like the priest or the Levite or the Samaritan---the priest or the Levite who perhaps, with all their education and formation, failed the test in the crucial moment.
 
@@ -111,13 +111,13 @@ Christ, the friend who is the good Samaritan, is telling us that this is what fr
 
 We can ask Our Lord that from the meditation on this parable that we might learn how to be better friends of our friends.
 
-And ultimately, that's what Christ did for us. Just look at the crucifix to prove what kind of friend He is. And if we value His friendship and want to be His friend, we'll take seriously the words that He says to us: "Go and do the same" (Luke 10:37). Do what I have done for you. That's the important thing.
+And ultimately, that's what Christ did for us. Just look at the crucifix to prove what kind of friend He was. And if we value His friendship and want to be His friend, we'll take seriously the words that He says to us: "Go and do the same" (Luke 10:37). Do what I have done for you. That's the important thing.
 
-"The Samaritan goes out of his way to help the injured man. This signifies Christ, who encounters man in need of salvation and cares for his wounds and suffering. He cares for them with the 'oil of consolation and the wine of hope' (*Roman Missal*, Italian edition, Common Preface VIII). He's the physician of our soul and bodies, 'the faithful witness' (Rev. 3:14) of the divine, salvific presence in the world" (Pope Francis and the Congregation for the Doctrine of the Faith, Letter, *Samaritanus Bonus*, Introduction, July 14, 2020).
+"The Samaritan goes out of his way to help the injured man. This signifies Christ, who encounters man in need of salvation and cares for his wounds and suffering. He cares for them with the 'oil of consolation and the wine of hope' (*Roman Missal*, Common Preface VIII). He's the physician of our soul and bodies, 'the faithful witness' (Rev. 3:14) of the divine, salvific presence in the world" (Pope Francis and the Congregation for the Doctrine of the Faith, Letter, *Samaritanus Bonus*, Introduction, July 14, 2020).
 
 We're invited to "accompany the suffering persons, especially in the terminal stages of life," Pope Francis says, "to offer this assistance in a way that respects and promotes the intrinsic dignity of persons" (*ibid*.).
 
-The whole of the social teaching of the Church has that word "dignity" in the very centre of it. The whole of the missionary thrust of the Church, bringing education and health care to millions all over the world down through the centuries---all driven by the words "dignity of the human person." Intrinsic dignity.
+The whole of the social teaching of the Church has that word "dignity" in the very center of it. The whole of the missionary thrust of the Church, bringing education and health care to millions all over the world down through the centuries---all driven by the words "dignity of the human person." Intrinsic dignity.
 
 The Church witnesses to the sacredness of human life in all ways. We can be very proud of our Church because our Church has stood firm on this principle, this belief, this truth of the sacredness of every human life, pre-born or elderly, in all situations, physically disabled, mentally disabled, visually impaired.
 
@@ -133,7 +133,7 @@ Everybody has their dignity and their value. We're called to be the Good Samarit
 
 We're called to practice a human charity, but also a supernatural charity: to invest prayer in other people, invest mortification in other people. Sacrifice. Virtue. Our Mass. Our *heroic minute* in getting out of bed quickly in the morning, and other sacrifices that the day may ask of us: changes of plans, pieces of bad news.
 
-There's a line of the First Eucharistic Prayer that says, "May your angel take this sacrifice to your altar in heaven."
+There's a line of the *First Eucharistic Prayer* that says, "May your angel take this sacrifice to your altar in heaven."
 
 Every time that we have some little reversal of fortune in the day or some little thing that God may ask of us, we could say that phrase: "May your angel take this sacrifice to your altar in heaven" so that we live out this generosity of supernatural charity. We bring people's spiritual lives forward with our prayer.
 
@@ -145,7 +145,7 @@ The Holy Father says, "This affirmation expresses a moral truth of universal sco
 
 He says "the Samaritan's heart that sees" helps him to go deeper. "He was moved with compassion." It's possibly the key phrase of the whole parable: "He was moved with compassion" (Luke 10:33).
 
-The word compassion comes from Latin, *compatior*, "to suffer with." If we suffer with people, we take their place, we walk in their shoes. We do unto others as we would like done unto ourselves.
+The word compassion comes from Latin *compatior*, "to suffer with." If we suffer with people, we take their place, we walk in their shoes. We do unto others as we would like done unto ourselves.
 
 God wants us to have a compassionate heart. A merciful heart. "Be merciful, as your heavenly Father is merciful" (Luke 6:36). That's a pretty tall order.
 
