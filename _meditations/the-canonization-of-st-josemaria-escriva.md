@@ -65,9 +65,9 @@ So, she asked St. Josemaría, not yet a saint, for that favor that her husband m
 
 And she got a favor. Eventually, her husband agreed to come to Rome, to go to St. Peter's to attend some of the ceremony.
 
-But after about half an hour of the ceremony, he turned to his wife and said, "Look, I've done everything that you asked me to do. I've come here to Rome. I've come to St. Peter's. I've come to the ceremony, and now I've had enough. I'm going back to the hotel at Via della Conciliazione to have a beer." So he left his wife there.
+But after about half an hour of the ceremony, he turned to his wife and said, "Look, I've done everything that you asked me to do. I've come here to Rome. I've come to St. Peter's. I've come to the ceremony, and now I've had enough. I'm going back to the hotel at Via della Conciliazione to have a beer."
 
-Halfway through the ceremony, he went back to have his beer. He was a very well-to-do architect. He had done very well in his life, but he had no time for religion.
+So he left his wife there. Halfway through the ceremony, he went back to have his beer. He was a very well-to-do architect. He had done very well in his life, but he had no time for religion.
 
 He was sitting outside his hotel, sipping his beer, and he was watching the people as they came out from the ceremony, all very happy.
 
@@ -165,9 +165,9 @@ But then his mother began to get a bit nervous. He was in his room. He was silen
 
 She went to the door, knocked hard on the door, and said, "Open the door. What are you doing?"
 
-Eventually, he opened the door and she said to him, "What are you doing in here with the door locked?" He said, "I was praying the prayer card to St. Josemaría Escrivá."
+Eventually, he opened the door and she said to him, "What are you doing in here with the door locked?" He said, "I was praying the Prayer Card to St. Josemaría Escrivá."
 
-Now the mother was a bit aghast. He was praying the prayer card. Oh, my goodness! Now this changes the situation.
+Now the mother was a bit aghast. He was praying the Prayer Card. Oh, my goodness! Now this changes the situation.
 
 She decided that she had to have a powwow with her husband and discuss this thing again. Ever since he was very small, they had tried to bring him up to be a soul of prayer, to have recourse to prayer in difficult moments, to have faith in God, to grow in his soul, to be a spiritual person.
 
