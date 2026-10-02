@@ -30,11 +30,11 @@ Mary sat at the Lord's feet, and in some ways is a model of piety. This meditati
 
 "Piety also roots us in our past and helps us to give proper reverence to those who have gone before us.
 
-"It's like the glue that holds us together. ... Without its precious effects, we fall apart into factions, our families dissolve, and the "weave" of our culture gives way to tear and dry rot (Msgr. Charles Pope, Blog, "What is Piety? And How Does a Lack of Piety Spell Doom for Us?", March 18, 2012).
+"It's like the glue that holds us together. ... Without its precious effects, we fall apart into factions, our families dissolve, and the "weave" of our culture gives way to tear and dry rot (Charles Pope, *Blog*, "What is Piety? And How Does a Lack of Piety Spell Doom for Us?", March 18, 2012).
 
-"Piety is the just recognition of all we owe our elders. ... The basis of piety is the sober realization that we owe our existence and our substance to powers beyond ourselves. ...We are social, communal beings. We are not islands; we are part of the mainland" (Donald Demarco, "Piety" in *Lay Witness*, September 2001.
+"Piety is the just recognition of all we owe our elders. ... The basis of piety is the sober realization that we owe our existence and our substance to powers beyond ourselves. ...We are social, communal beings. We are not islands; we are part of the mainland" (Donald Demarco, "Piety" in *Lay Witness*, September 2001).
 
-This gift of the Holy Spirit, which comes to us in the sacraments, is "not identified with having compassion for someone or having pity for one's neighbor; but it indicates our belonging to God and our profound bond with Him, a bond that gives meaning to the whole of our life and which keeps us firm, in communion with Him, also in the most difficult and trying moments. ...
+This gift of the Holy Spirit, which comes to us in the sacraments, is "not identified with having compassion for someone or having pity for one's neighbor; but it indicates our belonging to God and our profound bond with him, a bond that gives meaning to the whole of our life and which keeps us firm, in communion with him, also in the most difficult and trying moments. ...
 
 "It is our friendship with God, given us by Jesus, a friendship that changes our lives and fills us with enthusiasm and joy" (Pope Francis, *General Audience*, June 4, 2014).
 
@@ -70,7 +70,7 @@ St. Josemaría liked to strongly exclaim, "Only animals do not pray."
 
 Pope St. John Paul II teaches that "prayer is...the acknowledgment of our limits and dependence: we come from God, we exist in God, and to God we will return" (John Paul II, *Address to Young People*, March 14, 1979).
 
-"Hence, we cannot but abandon ourselves to him, Our Creator and Lord, with full and complete confidence. ... Prayer is above all an act of the intellect, a sense of humility and gratitude, an attitude of trust and abandonment in him who has given his life for the love of us" (*ibid*.).
+"Hence, we cannot but abandon ourselves to him, Our Creator and Lord, with full and complete confidence. \... Prayer is above all an act of the intellect, a sense of humility and gratitude, an attitude of trust and abandonment in him who has given his life for the love of us" (*ibid*.).
 
 "Silence and contemplation have a purpose: they serve, in the distractions of daily life, to preserve permanent union with God" (Pope Benedict XVI, *Homily*, October 6, 2006).
 
@@ -96,9 +96,7 @@ In our piety, we know the reason for our actions. We avoid anything unusual or o
 
 Man is an intellectual being. He can only love what he knows. The better he knows, the more he can love. To love God, we need to know Him as much as possible.
 
-To get the most out of the means of formation, the right disposition is piety. "You need interior life and doctrinal formations," said St. Josemaría in *The Forge*. "Be demanding of yourself!
-
-"As a Christian man or woman, you have to be the salt of the earth and the light of the world, for you are obliged to give good example with holy shamelessness.
+To get the most out of the means of formation, the right disposition is piety. "You need interior life and doctrinal formations," said St. Josemaría in *The Forge*. "Be demanding of yourself! As a Christian man or woman, you have to be the salt of the earth and the light of the world, for you are obliged to give good example with holy shamelessness.
 
 "The charity of Christ should compel you. Feeling and knowing yourself to be another Christ from the moment you told him that you would follow him, you must not separate yourself from your equals---your relatives, friends, and colleagues---any more than you would separate salt from the food it is seasoning.
 
@@ -116,13 +114,13 @@ Pope St. John Paul II talks about modern man. He says, "The temptation towards t
 
 "And he ceases to pursue the good. Seeing himself as the final arbiter of both truth and error, he imagines these to be equally elusive and thus deceives himself. In this way, the spiritual dimension of reality fades from his experience. And as a result, his ability to discern what is mystery as well."
 
-St. Josemaría talked a lot about piety as the remedy. He said, "the remedy of remedies is piety. Train yourself, my child, to live in God's presence with fixed points of struggle. You are supposed to travel along close behind Him throughout the day."
+St. Josemaría talked a lot about piety as the remedy. He said, "The remedy of remedies is piety. Train yourself, my child, to live in God's presence with fixed points of struggle. You are supposed to travel along close behind Him throughout the day."
 
-One should be able to ask him at any moment: And what about you? How many acts of love have you made today? How many acts of reparation? How many aspirations to Our Lady?
+One should be able to ask Him at any moment: And what about you? How many acts of love have you made today? How many acts of reparation? How many aspirations to Our Lady?
 
 We have to pray more. This is the conclusion we must come to. Perhaps we're still praying too little, and God is expecting a more intense prayer from us for His Church.
 
-A more intense prayer means to have a stronger spiritual life. This requires a continual reform of one's heart. A permanent conversion. Think about this and draw your conclusions.
+A more intense prayer means to have a stronger spiritual life. This requires a continual reform of one's heart. A permanent conversion. Think about this and draw your own conclusions.
 
 "Our first contribution to fraternity," said Don Javier, "is piety. When you pray, work, or rest in the various moments of your day, strive to pray, work, and rest close to Our Lord, accompanying your brothers and sisters throughout the whole world, especially those who live and work in places where the Church faces more difficulties.
 
@@ -150,7 +148,9 @@ Liturgical piety leads us to a love for the liturgy. St. Josemaría taught us to
 
 "Love Our Lord very much," he said in *The Forge*. "Maintain and foster in your soul a sense of urgency to love him better. Love God precisely now when perhaps a good many of those who hold him in their hands do not love him, but rather ill-treat and neglect him. Be sure to take good care of the Lord for me, in the Holy Mass and throughout the whole day (J. Escrivá, *The Forge*, Point 438).
 
-He encouraged us to have a contemplative spirit. Place all our heart and mind in the spiritual things. To pray calmly and with attention. To say many aspirations. To take care of our genuflections, the *Sign of the Cross.* Take care of our moments of silence. To sometimes read the prayers that we may know by heart. To take care of our *Thanksgiving after Mass*, no matter where we are.
+He encouraged us to have a contemplative spirit. Place all our heart and mind in the spiritual things. To pray calmly and with attention. To say many aspirations. To take care of our genuflections, the *Sign of the Cross.*
+
+Take care of our moments of silence. To sometimes read the prayers that we may know by heart. To take care of our *Thanksgiving after Mass*, no matter where we are.
 
 He also taught us to take material care of the liturgical items: the Missals, the linens, the vestments, the sacred vessels---to make sure they're all clean, dignified, and in good condition.
 
@@ -194,13 +194,13 @@ We learn to live our piety with naturalness. The family, said St. John Paul II, 
 
 Through our Marian piety that St. Josemaría has taught us to have, we find that Our Lady is always in our midst. She is the *omnipotentia supplicante*. We can ask her for all things.
 
-*Adeamus cum fiducia ad thronum gratiae ut misericordiam consequamur--"*We go to the throne of grace with faith in order to obtain mercy" (Heb. 4:16).
+*Adeamus cum fiducia ad thronum gratiae ut misericordiam consequamur--*"We go to the throne of grace with faith in order to obtain mercy" (Heb. 4:16).
 
-"Blessed are you among women" (Luke 1:42). We can have recourse to her with the confidence of children. Jesus gave her to us as a mother.
+"Blessed are you among women" (Luke 1:42). We can have recourse to her with the confidence of children. Jesus gave her to us as a Mother.
 
 It corresponds to us to talk to her as her child; receive her in our home. It's a gift and a task. We can always try to get personal with Our Lady who is always smiling at us.
 
-Our Lord said to her, "Behold your child" (John 19:26). She sees us with human eyes and with a human heart.
+Our Lord said to her, "Behold your child" (*cf*. John 19:26). She sees us with human eyes and with a human heart.
 
 The *Angelus* is her favorite story. She's "our sweetness and our hope" (*Prayer*, Hail, Holy Queen).
 

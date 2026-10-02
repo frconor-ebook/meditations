@@ -41,7 +41,7 @@ Father George Rutler, an American priest and convert himself, was a Newman exper
 
 Included in that investigation could be the role of Karol Wojtyla, later John Paul II, who had a great appreciation for both St. John Newman and also for St. Josemaría, and who as a young bishop participated in that very Council.
 
-Newman is quoted four times in the Catechism of the Catholic Church, and once in *Veritatis Splendor*, the Splendor of Truth, one of the great encyclicals of John Paul II. This tends to highlight the current high regard in which Newman is held, not only by John Paul II, but also by the whole Church.
+Newman is quoted four times in *the Catechism of the Catholic Church*, and once in *Veritatis Splendor*, the Splendor of Truth, one of the great encyclicals of John Paul II. This tends to highlight the current high regard in which Newman is held, not only by John Paul II, but also by the whole Church.
 
 The importance of Newman's thought and life for today's world is underlined when we see how clearly Newman, in his prophetic role, foresaw the showdown between the forces of God and the fallen world, between Catholicism and atheism. In one of his writings, he says:
 
@@ -107,7 +107,9 @@ He battled very much against the clericalism of his time. He was a real enemy of
 
 Clericalism has been defined by Russell Shaw, a famous writer in the States. He says, "Clericalism assumes that clerics not only are but are also meant to be the active, dominant elite in the Church, and laymen the passive, subservient mass. As a result, the laity are discouraged from taking seriously their responsibility for the Church's mission, and evangelization is neglected. So are efforts to influence the structures of secular society on behalf of the values of the gospel---the evangelization of culture as it is called. ...
 
-"Clericalism deepens the confusion about lay and clerical identity ... perhaps as the most serious of all, clericalism tends to discourage laymen from cultivating a spirituality that arises above a rather low level of fervor and intensity. As the clerical mentality sees it, the serious pursuit of sanctity is the business of priests and religious. Minimalistic religious practice and legalistic morality are all that are asked of laymen and all many ask of themselves. ...' (Russell Shaw, *To Hunt, to Shoot, to Entertain---Clericalism and the Catholic Laity*, 1993).
+"Clericalism deepens the confusion about lay and clerical identity ... perhaps as the most serious of all, clericalism tends to discourage laymen from cultivating a spirituality that arises above a rather low level of fervor and intensity. As the clerical mentality sees it, the serious pursuit of sanctity is the business of priests and religious.
+
+"Minimalistic religious practice and legalistic morality are all that are asked of laymen \[and all many ask of themselves...\] (Russell Shaw, *To Hunt, to Shoot, to Entertain---Clericalism and the Catholic Laity*, 1993).
 
 If you're familiar with the writings of St. Josemaría, you'll recognize very similar traits there. Newman had a deep knowledge of and love for the early Church Fathers. He liked to look back very much to the early Christians
 
@@ -115,13 +117,17 @@ St. Josemaría also had great devotion to the early Christians, both for the mar
 
 These people spoke very loudly to Newman and to Escrivá. These very people were responsible, with the help of God's grace, for the gradual but sure spread of the Church throughout the Roman Empire during the course of the first three centuries up to the year 313, the Edict of Milan.
 
-Newman had read all the Church Fathers, all in their original Greek and Latin, and found many treasures there. He could well be figured as the precursor of the going back to the Church Fathers as sources for theological investigation. This has been a characteristic of some of the giants of the 20th century, the great thinkers De Lubac, Van Balthasar, Congar. Many people have tread that same path.
+Newman had read all the Church Fathers, all in their original Greek and Latin, and found many treasures there. He could well be figured as the precursor of the going back to the Church Fathers as sources for theological investigation. This has been a characteristic of some of the giants of the twentieth century, the great thinkers De Lubac, Van Balthasar, Congar. Many people have tread that same path.
 
-He says: "It \[the Church\] has been upheld in the world not as a system, not by books, not by argument, nor by temporal power, but by the personal influence of such men as we have seen, who are at once teachers and patterns of it. ... But after all, say they are few, such Christians; and what follows? They are enough to carry on God's noiseless work. ... These communicate their light to a number of lesser luminaries, by whom, in its turn, it is distributed. ... A few endowed men will rescue the world for centuries to come" (John Henry Newman, *University Sermons*).
+He says: "It \[the Church\] has been upheld in the world not as a system, not by books, not by argument, nor by temporal power, but by the personal influence of such men as we have seen, who are at once teachers and patterns of it. ...
+
+"But after all, say they are few, such Christians; and what follows? They are enough to carry on God's noiseless work. ... These communicate their light to a number of lesser luminaries, by whom, in its turn, it is distributed. ... A few endowed men will rescue the world for centuries to come" (John Henry Newman, *University Sermons*).
 
 In the 1990s, John Paul II in the document called *Christifideles Laici*, The Lay Members of Christ's Faithful People wrote things that were very similar.
 
-He says, "The eyes of faith behold a wonderful scene: that of a countless number of lay people, both women and men, busy at work in their daily life and activity, oftentimes far from view and quite unacclaimed by the world, unknown to the world's great personages but nonetheless looked upon in love by the Father, untiring laborers who work in the Lord's vineyard. Confident and steadfast through the power of God's grace, these are the humble yet great builders of the Kingdom of God in history" (John Paul II, Apostolic Exhortation, *Christifideles Laici*, Point 17, December 30, 1988).
+He says, "The eyes of faith behold a wonderful scene: that of a countless number of lay people, both women and men, busy at work in their daily life and activity, oftentimes far from view and quite unacclaimed by the world, unknown to the world's great personages but nonetheless looked upon in love by the Father, untiring laborers who work in the Lord's vineyard.
+
+"Confident and steadfast through the power of God's grace, these are the humble yet great builders of the Kingdom of God in history" (John Paul II, Apostolic Exhortation, *Christifideles Laici*, Point 17, December 30, 1988).
 
 Many things written by Newman sound very familiar to us now, but they sounded very strange in the ears of Catholics of the Victorian era, many of whom were illiterate Irish immigrants with only a small number of descendants of Englishmen who remained faithful to the Church through the long centuries of Catholic persecution.
 
@@ -129,19 +135,19 @@ The story of the English persecution of the Catholic Church and the English mart
 
 At the time of Newman, the Church had just recently regained its hierarchical status. There was a lot of controversy. The number of educated Catholic laymen in either a theological or secular sense was sparse.
 
-You can see how the Cardinal's ideal of the educated layman was very relevant. He saw him as an unreservedly loyal person, unreservedly loyal to the Magisterium of the Church.
+You can see how the Cardinal's ideal of the educated layman was very relevant. He saw him as a person who was unreservedly loyal---unreservedly loyal to the Magisterium of the Church.
 
 He insisted, above all, that the educated laymen "keep in mind that you have souls to be judged and to be saved."
 
 Would that we could whisper those words into the ears of every surgeon, every obstetrician, every lawyer, every businessman, every policeman\...
 
-Only in this way could a "unity of life" be found, so that the Catholic layman could make his influence on greater surroundings. Personal holiness was always at the heart of what some people have called the Newmanian project: the glory of God and salvation of souls.
+Only in this way could a *unity of life* be found, so that the Catholic layman could make his influence on greater surroundings. Personal holiness was always at the heart of what some people have called the Newmanian project: the glory of God and salvation of souls.
 
 "Devotion is not a sort of finish given to the sciences, nor is science a sort of feather in the cap, if I may so express myself, an ornament and set-off to devotion. I want the intellectual layman to be religious and the devout ecclesiastic to be intellectual" (John Henry Newman, *Other Sermons*).
 
 "For Newman, the road to holiness was above all a work of grace. At the same time, he was no quietist. He encouraged laypeople through his preaching and spiritual direction to pursue holiness through the ordinary: their family and professional circumstances united to a life of devotion" (C. John McCloskey III, *op. cit*.)
 
-Although it cannot be said that he had a well-developed theology of work, he certainly did not see it as an obstacle to sanctity or unduly encourage laymen to flee the world, as though the world was something wrong or was incompatible with holiness.
+It cannot be said that he had a well-developed theology of work, but he never saw work as an obstacle to sanctity. He never encouraged laymen to flee the world, as though the world was something wrong or was incompatible with holiness.
 
 If we wish to be perfect, we need do nothing more than perform the ordinary duties well. The short road to perfection is there in those ordinary things. A short road, but not necessarily an easy road.
 
