@@ -23,7 +23,7 @@ By Fr. Conor Donnelly
 
 Our Christian vocation leads us to try to identify our will with that of God. And God shows us His will in different ways---through the good shepherds that He's placed around us, people with the grace of state; or maybe in our prayer; or in our spiritual reading. He speaks to us in different ways.
 
-We're also told about how a person's life can be built on many different kinds of foundations: on rock, on clay, on smoke, on air. Only the Christian, we're told in the Book of Isaiah, has a firm foundation which securely supports him: "The Lord God is an everlasting rock" (Isa. 26:4).
+We're also told about how a person's life can be built on many different kinds of foundations: on rock, on clay, on smoke, on air. Only the Christian, we're told in the Book of Isaiah, has a firm foundation which securely supports him: "The Lord is an everlasting rock" (Isa. 26:4).
 
 In St. Matthew's Gospel, we're told about two houses (Matt. 7:24-27). In one of them, perhaps the builder wanted to economize on material for the foundations. Or possibly he was in a hurry to finish it. He did not take as much care as he should have. Our Lord calls such a builder "a fool."
 
@@ -97,7 +97,7 @@ To obey as Our Lord obeyed, it's necessary to have an ardent desire to fulfill t
 
 A soul dominated by pride gives no space for the spirit of obedience. Only a soul possessed of the virtue of humility can joyfully accept the criteria that may not jive with his own criteria, especially those coming from God, to which we must conform our actions and our attitudes.
 
-A person who's not humble will openly refuse to obey some commands, while appearing to accept others, though without really, in the latter instance, making room for them in his heart. He will submit them to critical debate and impose restrictions accordingly. In that way, he will lose sight altogether of the supernatural meaning of obedience.
+The person who's not humble will openly refuse to obey some commands, while appearing to accept others, though without really, in the latter instance, making room for them in his heart. He will submit them to critical debate and impose restrictions accordingly. In that way, he will lose sight altogether of the supernatural meaning of obedience.
 
 In *Christ Is Passing By*, we're told we need to "be forewarned...for we will always tend to be self-centered, and this temptation can occur in many ways. God wants us to show our faith when we obey, for he doesn't express his will with drums and trumpets." He wants us to discern His will in the simple things that may come to us.
 
@@ -119,9 +119,9 @@ Then it is time to redouble our prayers and fix our eyes more steadily on Jesus 
 
 Come to me, all you who have broken hearts. Enter into my wounds. Enter into my heart to find your consolation, your joy, your peace, in unity with my Sacred Heart.
 
-This is especially true when events can make life unusually hard and misfortunes come: personal illness, material setback or disaster, the sufferings of those who are dear to us. It's a moment to unite our prayer to that of Our Lord.
+This is especially true when events can make life unusually hard and misfortunes come: personal illness, material setback or disaster, the sufferings of those who are dear to us.
 
-"Not what I want, Lord, but what you want" (Mark 14:36). "Not my will, but yours be done" (Luke 22:42). If this is your will, then it's my will also.
+It's a moment to unite our prayer to that of Our Lord. "Not what I want, Lord, but what you want" (Mark 14:36). "Not my will, but yours be done" (Luke 22:42). If this is your will, then it's my will also.
 
 That humble acceptance of God's will is perhaps what Our Lord is asking for us in that particular moment.
 
@@ -139,13 +139,13 @@ All of us could utter those similar words if we see a hurricane coming. But yet 
 
 It may be that God has chosen us to give that type of witness in our marriage, in our family, in our workplace, in our profession, in our society.
 
-Throughout life there will often be times when we will necessarily have to act in complete conformity with the will of God Our Father. It is precisely then that in our personal prayer that we would say within ourselves, as we are told in *The Way* (Point 762): "Is it what you want, Lord?\...Then it's what I want too!" And then there will come peace and tranquility to our soul and to our surroundings.
+Throughout life there will often be times when we will necessarily have to act in complete conformity with the will of God Our Father. It is precisely then that in our personal prayer that we would say within ourselves, as we are told in *The Way* (Point 762): "Is it what you want, Lord? \... Then it's what I want too!" And then there will come peace and tranquility to our soul and to our surroundings.
 
 Faith will make us see a higher wisdom behind the screen of each occurrence. Often behind what we see as human tragedies---volcanoes, airplane crashes, tsunamis---there can be great spiritual messages.
 
 God may be teaching us about the fleeting nature of this life, how everything is passing. He may be giving us great spiritual lessons that will last a lifetime for ourselves and for everybody around us.
 
-As Álvaro del Portillo liked to say, "God knows better. We men have little understanding of how his fatherly and gentle care leads us towards him" (Álvaro del Portillo, *Preface* to *Friends of God*).
+Blessed Álvaro del Portillo liked to say, "God knows better. We men have little understanding of how his fatherly and gentle care leads us towards him" (Álvaro del Portillo, *Preface* to *Friends of God*).
 
 Christ will relieve us of all our burdens, and they will be made holy. He will truly give us that rest that we desire in His broken heart.
 

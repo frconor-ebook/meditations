@@ -1,7 +1,7 @@
 ---
 layout: homily
 title: "Defending the Family"
-description: "\"After leaving there,\" we\\'re told in the Gospel of St. Mark, \"he came into the territory of Judea and Transjordania. And again crowds gathered round him..."
+description: "\"After leaving there,\" we're told in the Gospel of St. Mark, \"he came into the territory of Judea and Transjordania. And again crowds gathered round him..."
 reading_time: 18
 tags: ["Family & Marriage"]
 prev_slug: deeper-desire
@@ -19,9 +19,9 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"After leaving there," we\'re told in the Gospel of St. Mark, "he came into the territory of Judea and Transjordania. And again crowds gathered round him, and again he taught them, as his custom was. Some Pharisees approached him and asked, 'Is it lawful for a man to divorce his wife?' They were putting him to the test" (Mark 10:1-2).
+"After leaving there," we're told in the Gospel of St. Mark, "he came into the territory of Judea and Transjordania. And again crowds gathered round him, and again he taught them, as his custom was. Some Pharisees approached him and asked, 'Is it lawful for a man to divorce his wife? They were putting him to the test" (Mark 10:1-2).
 
-Our Lord returns the dignity of marriage to its original purity. He\'s speaking to a multitude of people who have come from all the villages round about. These are people who are simple but who received the word of God with enthusiasm.
+Our Lord returns the dignity of marriage to its original purity. He's speaking to a multitude of people who have come from all the villages round about. These are people who are simple but who received the word of God with enthusiasm.
 
 But among them are some Pharisees with twisted intentions who attempt to challenge Christ by confronting Him with the Law of Moses. They put the query to Him whether it is lawful for a husband to divorce his wife.
 
@@ -37,11 +37,11 @@ The law prescribed a document, the certificate of divorce, by which the wife who
 
 Christ returned the dignity of marriage to its original purity, just as God instituted it at the beginning of Creation.
 
-We\'re told in Genesis that God made them male and female (Gen. 1:27). "For this reason, a man may leave his father and mother and be joined to his wife, and the two shall become one. So they now are no longer two, but one. What therefore God has joined together, let no man put asunder" (*cf*. Mark 10:6-9).
+We're told in Genesis that God made them male and female (Gen. 1:27). "For this reason, a man may leave his father and mother and be joined to his wife, and the two shall become one. So they now are no longer two, but one. What therefore God has joined together, let no man put asunder" (*cf*. Mark 10:6-9).
 
-His teaching struck His listeners as being extraordinarily demanding; so much so that according to St. Matthew, they told Him, "If such is the case of a man with his wife, it is not expedient to marry" (Matt. 19:10).
+This teaching struck His listeners as being extraordinarily demanding; so much so that according to St. Matthew, they told Him, "If such is the case of a man with his wife, it is not expedient to marry" (Matt. 19:10).
 
-The conversation must have continued later because when the day was over, they again asked Him about it.
+The conversation must have continued later because when the day was over they again asked Him about it.
 
 But Our Lord declared once and for all, "Whoever divorces his wife and marries another commits adultery against her; and if she divorces her husband and marries another, she commits adultery" (Mark 10:10-12).
 
@@ -51,41 +51,41 @@ St. John of Chrysostom, commenting on this teaching, uses a clear and simple for
 
 The Magisterium of the Church, which is the guardian and interpreter of the natural and divine Law, has constantly taught that matrimony was instituted by God as a perpetual and unbreakable bond.
 
-In 1930, Pope Pius XI issued a very famous encyclical called *Casti connubii--"*Of Chaste Marriage," in which he says, "It was protected, confirmed, and elevated not by human laws, but by the very author of nature, God himself, and by the restorer of that nature, Christ Our Lord. This law, therefore, cannot be subject to the variable choice of men, not even by the contrary judgment of the spouses themselves."
+In 1930, Pope Pius XI issued a very famous encyclical called *Casti connubii---*"Of Chaste Marriage," in which he says, "It was protected, confirmed, and elevated not by human laws, but by the very author of nature, God himself, and by the restorer of that nature, Christ Our Lord. This law, therefore, cannot be subject to the variable choice of men, not even by the contrary judgment of the spouses themselves."
 
-Matrimony is not simply a private contract. It cannot be broken by either party, or by agreement of both parties of the pact. No human reason, no matter how strong it might seem, is able to justify divorce, because that\'s contrary to divine and natural law.
+Matrimony is not simply a private contract. It cannot be broken by either party, or by agreement of both parties of the pact. No human reason, no matter how strong it might seem, is able to justify divorce, because that's contrary to divine and natural law.
 
-Pope St. John Paul has exhorted Christian spouses that they might be faithful in living Christ\'s teaching on the family, even though they may live in countries where the norms of Christian life do not receive due consideration or are actually violently attacked (*cf*. John Paul II, *Homily of the Mass for Christian Families*, November 2, 1982).
+Pope St. John Paul has exhorted Christian spouses that they might be faithful in living Christ's teaching on the family, even though they may live in countries where the norms of Christian life do not receive due consideration or are actually violently attacked (*cf*. John Paul II, *Homily of the Mass for Christian Families*, November 2, 1982).
 
 We should frequently pray for the stability of the family, starting with our own. We always have to strive to be instruments of unity in bringing this about through our genuine service to others, our continuous cheerfulness, and an effective apostolate which brings those around us closer to God.
 
 We could try to pray each day for the person in our family who needs it most. We can ask ourselves if we show more attention to the weakest member, or to the one who feels that he or she is most at risk. Do we affectionately care for the one who is not well?
 
-We have to do a great apostolate of education on the nature of marriage. When Our Lord explained the meaning of marriage, He wasn\'t swayed by the fact that the attitude existing among the Jewish people at that time was totally contrary to His teachings.
+We have to do a great apostolate of education on the nature of marriage. When Our Lord explained the meaning of marriage, He wasn't swayed by the fact that the attitude existing among the Jewish people at that time was totally contrary to His teachings.
 
 Welcome to the world in which we live. We have ample opportunity to proclaim the doctrine of marriage and to reflect it in our own lifestyle, but also to teach it, possibly to children of a very young age, so that they grow up knowing these things.
 
-A Christian can\'t afford to be deflected in this matter by the difficulties or even by the derision present in our social environment when we are called to uphold the values and the holiness of marriage. To defend the indissolubility of marriage is to do an immense good to everybody, to the whole of society.
+The Christian can't afford to be deflected in this matter by the difficulties or even by the derision present in our social environment when we are called to uphold the values and the holiness of marriage. To defend the indissolubility of marriage is to do an immense good to everybody, to the whole of society.
 
 Our Lord went against the current of those times with His teaching concerning the institution of marriage. We have to be ready to meet different currents and tides that may come and go, to clarify ideas.
 
-He returned marriage to its original dignity, and also raised it to the supernatural order, by establishing it as one of the seven sacraments which serves to sanctify spouses and family life.
+He returned marriage to its original dignity, and also raised it to the supernatural order by establishing it as one of the seven sacraments which serves to sanctify spouses and family life.
 
 I heard a lady in a class once say that Christ could have made getting up in the morning into a sacrament. He could have made anything into a sacrament, but He chose to make that natural union between a man and a woman---to make it into something holy, something that can be sanctified.
 
-If in our own times, the worth and essential properties of marriage are under attack, or even ridiculed by bitter satire in many quarters, it\'s our duty to defend this sacrament, as Our Lord did, and to rebuild the social foundation so that the family, united and solid, becomes again the backbone of society as it is meant to be.
+If in our own times, the worth and essential properties of marriage are under attack, or even ridiculed by bitter satire in many quarters, it's our duty to defend this sacrament, as Our Lord did, and to rebuild the social foundation so that the family, united and solid, becomes again the backbone of society as it is meant to be.
 
 I was giving a class once to maybe thirty or forty men, and I was talking about the power of the media in undermining our values.
 
-One grandfather stood up and said, "Father, I don\'t quite agree with you, because I find that I taught my children all these things, about being alert to the values coming across in the media, and I went to a lot of trouble to do so, but now my children are married, and I find that they\'re telling those same things to their children."
+One grandfather stood up and said, "Father, I don't quite agree with you, because I find that I taught my children all these things, about being alert to the values coming across in the media, and I went to a lot of trouble to do so, but now my children are married, and I find that they're telling those same things to their children."
 
 He said, "We may see the media as very powerful, but we are more powerful. When we transmit these values to our children, they realize the truth of these values and the truth behind them, and then they transmit these values to their children."
 
-So, "The family must be the object of our serious attention and support. We have to try and see how we can have a hand in public life in influencing policies and customs. There\'s a role here for educators, writers, teachers, politicians, legislators. We must keep in mind that a great part of the social and even personal problems that people may have can have its roots in the failure or the collapse of family life" (Spanish Episcopal Conference, *cf*. Pastoral Instruction, *Catholics in Public Life*, 1986).
+So, "The family must be the object of our serious attention and support. We have to try and see how we can have a hand in public life in influencing policies and customs. There's a role here for educators, writers, teachers, politicians, legislators. We must keep in mind that a great part of the social and even personal problems that people may have can have its roots in the failure or the collapse of family life" (*cf*. Spanish Episcopal Conference, *cf*. Pastoral Instruction, *Catholics in Public Life*, 1986).
 
-If we\'re to fight against juvenile delinquency or against all sorts of other errors or abuses, we \[also\] have to be aware of the social discreditation of the institution of the family.
+If we're to fight against juvenile delinquency or against all sorts of other errors or abuses, we \[also\] have to be aware of the social discreditation of the institution of the family.
 
-Pope St. John Paul in his magisterial document, *Familiaris consortio* in the early 1980 said, "The good of the family in all its aspects has to be one of the fundamental concerns of the Christian\'s activity in public life" (*cf*. John Paul II, Apostolic Exhortation, *Familiaris consortio,* Point 45, November 22, 1981).
+Pope St. John Paul in his magisterial document, *Familiaris consortio* in the early 1980 said, "The good of the family in all its aspects has to be one of the fundamental concerns of the Christian's activity in public life" (*cf*. John Paul II, Apostolic Exhortation, *Familiaris consortio,* Point 45, November 22, 1981).
 
 Ideally, all politicians should be talking about the importance of the family and defending the family.
 
@@ -93,9 +93,9 @@ Ideally, all politicians should be talking about the importance of the family an
 
 "\[Families\] themselves must be the first to take steps to see that the laws and institutions of the State do not offend but support and positively defend the rights and duties of the family" (John Paul II, *ibid*., Point 44).
 
-Whenever there\'s a big election coming up, local or general, in any country, it\'s really good for Christians to make their opinions and their beliefs known to their local representatives, or to show them that this issue is important, and how you\'re going to vote on it is important on whether or not you\'re going to get my vote.
+Whenever there's a big election coming up, local or general, in any country, it's very good for Christians to make their opinions and their beliefs known to their local representatives, or to show them that this issue is important, and how you're going to vote on it is important on whether or not you're going to get my vote.
 
-That\'s one of the ways that we influence public life. If each person takes their Christian responsibility seriously and well, then family politics will be promoted in the political arena.
+That's one of the ways that we influence public life. If each person takes their Christian responsibility seriously and well, then family politics will be promoted in the political arena.
 
 The example and joy of Christian spouses have to pave the way for the apostolate they must do with their children and with all the families with whom they come in contact through their friendship, or social relations, or in their joint tasks in the education of their children.
 
@@ -103,7 +103,7 @@ All of us have to think: How can I promote the family in society? What are the m
 
 The cheerfulness, in the middle of the normal difficulties commonly experienced by families, can be \[from\] a serious attempt to live a holy life and to correspond with the graces of the matrimonial vocation.
 
-Then the children will grow to follow their own vocations, to go on to do great good to society, in a way that pleases God, using, themselves, all the means available to maintain the atmosphere of a Christian family, an atmosphere in which everyone lives the human and supernatural virtues---cheerfulness, cordiality, sobriety, industriousness, mutual respect, et cetera.
+Then the children will grow to follow their own vocations, to go on to do great good to society in a way that pleases God, using, themselves, all the means available to maintain the atmosphere of a Christian family, an atmosphere in which everyone lives the human and supernatural virtues---cheerfulness, cordiality, sobriety, industriousness, mutual respect, et cetera.
 
 Human love is raised to the supernatural order; is made deeper and richer because in the Christian sacrament, divine love irradiates human love, transforming what is good and making it holy.
 
@@ -111,7 +111,7 @@ God is the one who unites with a holy bond and sanctifies man and wife in matrim
 
 Precisely because God unites a man and a woman with divine links, what were two bodies and two hearts are now one flesh, one sole body, and one with the same heart, resembling the union of Christ with His Church (*cf*. Eph. 5:22).
 
-Matrimony is not just a social institution, nor is it only a juridical state, civil and canonical. It\'s also a new life which is sacrificing and overflowing with love; it sanctifies the spouses and makes holy all those who form part of the family.
+Matrimony is not just a social institution, nor is it only a juridical state, civil and canonical. It's also a new life which is sacrificing and overflowing with love; it sanctifies the spouses and makes holy all those who form part of the family.
 
 We could stop during our prayer, talk to Our Lord, and examine the different aspects of our daily conduct.
 
@@ -123,7 +123,7 @@ Any father should be prepared to perform any menial tasks that the household hel
 
 Our weekends and vacations can be an opportunity to make good use of time to avoid laziness and time-wasting pastimes.
 
-It\'s a good call to be serene in the face of difficulties, modestly simple in our manner of celebrating feast days or other celebrations, and sensible in an entirely Christian way while sanctifying holidays, or preparing family excursions, or planning vacations.
+It's a good call to be serene in the face of difficulties, modestly simple in our manner of celebrating feast days or other celebrations, and sensible in an entirely Christian way while sanctifying holidays, or preparing family excursions, or planning vacations.
 
 There can be a lot of respect for the freedom and opinions of others, along with the appropriate and opportune advice.
 
@@ -135,7 +135,7 @@ If parents care for each other with a human and supernatural love, they will be 
 
 Christian ideals and noble human desires will be maintained if the home atmosphere is cheerful and the practice of the natural virtues is given an important place.
 
-Then the family will become a privileged place in which is carried out the "constant renewal of the Church" (John Paul II, *Address*, November 21, 1978).
+Then the family will become a privileged place in which is carried out the "constant renewal of the Church," says Pope St. John Paul (John Paul II, *Address*, November 21, 1978).
 
 All the things that John Paul II has said about the family---family as a seedbed of vocations, the future of the Church passes through the family, as well as the new evangelization of the world---are all quite mind-boggling.
 
@@ -145,15 +145,15 @@ The Second Vatican Council has said, "Parents by word and example are the first 
 
 We can imagine how the Holy Family would have devoutly recited traditional prayers which were said in every Jewish home. In that house, everything that referred particularly to God had a new meaning and content. So those prayers would have been said with a great spirit of recollection.
 
-Our Lord would have repeated the verses of Sacred Scripture which all Jewish children had to learn (*cf*. Ps. 55:18; Dan. 6:11; Ps. 119). He would often recite those prayers learned from His parents\' lips.
+Our Lord would have repeated the verses of Sacred Scripture which all Jewish children had to learn (*cf*. Ps. 55:18; Dan. 6:11; Ps. 119). He would often recite those prayers learned from His parents' lips.
 
-Pope St. Paul VI, and later quoted by Pope St. John Paul II in one of his Apostolic Exhortations, *Familiaris consortio*, said, "Do you teach your children the Christian prayers? Do you prepare them, in conjunction with the priests, for the sacraments that they receive when they are young: Confession, Communion, and Confirmation?
+Pope St. Paul VI, and later quoted by Pope St. John Paul II in one of his documents, the Apostolic Exhortation *Familiaris consortio*, said, "Do you teach your children the Christian prayers? Do you prepare them, in conjunction with the priests, for the sacraments that they receive when they are young: Confession, Communion, and Confirmation?
 
 "Do you encourage them when they are sick, to think of Christ suffering, to invoke the aid of the Blessed Virgin and the saints? Do you say the family Rosary together?\...
 
-"Do you pray with your children, and with the whole domestic community, at least sometimes?
+"Do you pray with your children, with the whole domestic community, at least sometimes?
 
-"Your example of honesty in thought and action, joined to some common prayer, is a lesson for life, an act of worship of singular value. In this way you bring peace to your homes. Remember, it is in this way that you build up the Church" (John Paul II, Apostolic Exhortation, *Familiaris consortio*, Point 60, November 22, 1981 quoting Paul VI, *General Audience,* August 11, 1976).
+"Your example of honesty in thought and action, joined to some common prayer, is a lesson for life and an act of worship of singular value. In this way you bring peace to your homes. Remember, it is in this way that you build up the Church" (John Paul II, Apostolic Exhortation, *Familiaris consortio*, Point 60, November 22, 1981 quoting Paul VI, *General Audience,* August 11, 1976).
 
 St. Josemaría liked to say that if Christian homes imitate that home formed by the Holy Family in Nazareth, they will be "bright and cheerful homes" (*cf*. Josemaría Escrivá, *Christ Is Passing By*, Points 22, 78) because each member of the family will struggle, first of all, to get to know God, and, with a spirit of sacrifice, will endeavor to make life more pleasant for those around them.
 
@@ -163,7 +163,7 @@ The family is also a school of virtues. "Husbands and wives," says St. Josemarí
 
 "They will forget about the unimportant little frictions that selfishness can magnify out of all proportion. They will do lovingly all the small acts of service that make up their daily life together.
 
-"The aim is to sanctify family life, while creating at the same time a true family atmosphere. Many Christian virtues are necessary in order to sanctify each day of one\'s life. Firstly, the theological virtues, and then all the others: prudence, loyalty, sincerity, humility, industriousness, cheerfulness" (J. Escrivá, *Christ Is Passing By*, Point 23).
+"The aim is to sanctify family life, while creating at the same time a true family atmosphere. Many Christian virtues are necessary in order to sanctify each day of one's life. Firstly, the theological virtues, and then all the others: prudence, loyalty, sincerity, humility, industriousness, cheerfulness" (J. Escrivá, *Christ Is Passing By*, Point 23).
 
 We find that the Holy Family is an example for all families. That community of love and faith has to manifest itself in all circumstances, as the Church does, as a living witness to Christ.
 
@@ -171,9 +171,9 @@ United to Christ, a family is a member of His Mystical Body and has been called 
 
 "The Christian family," said *Lumen gentium,* "proclaims aloud the present \[virtues\] of the kingdom of God and the hope of the life to come" (*ibid*., Point 35).
 
-The faithfulness of the spouses to their matrimonial vocation will lead them, among other things, to pray for vocations for their children so that they may dedicate themselves fully to God\'s service with a spirit of self-denial.
+The faithfulness of the spouses to their matrimonial vocation will lead them, among other things, to pray for vocations for their children so that they may dedicate themselves fully to God's service with a spirit of self-denial.
 
-In the Holy Family, every Christian home finds its most perfect exemplar; in it, the Christian family can discover what it should do and how it should behave so as to bring about the sanctification and full development of each one of its members.
+In the Holy Family, every Christian home finds its most perfect exemplar; in it the Christian family can discover what it should do and how it should behave so as to bring about the sanctification and full development of each one of its members.
 
 Pope St. Paul VI said, "Nazareth is the school where we begin to understand the life of Jesus; it is the school where we begin to get to know his Gospel.
 
