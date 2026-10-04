@@ -29,7 +29,7 @@ I heard somebody say once that the goal of the University of Navarre is to place
 
 Our Lord invites us to be close to the Cross, to know the wisdom of the Cross, to be friends of the Cross and to thank Our Lord for the crosses that He sends us, because we know that each one of those crosses are blessings.
 
-"Simeon blessed them and said to Mary his mother, 'Look, he is destined for the fall and for the rise of many in Israel, destined to be a sign that is opposed---and a sword will pierce your soul too---so that the secret thoughts of many \[hearts\] may be laid bare" (Luke 2:34-35).
+"Simeon blessed them and said to Mary his Mother, 'Look, he is destined for the fall and for the rise of many in Israel, destined to be a sign that is opposed---and a sword will pierce your soul too---so that the secret thoughts of many \[hearts\] may be laid bare" (Luke 2:34-35).
 
 Our Lady's heart was also pierced with a sword. Simeon was the first to speak to her about the cross.
 
@@ -51,7 +51,7 @@ Our Father was very focused on the cross. This was something special that God ha
 
 In *The Man of Villa Tevere* we are told, "Looked at from every angle, Msgr. Escrivá's life was sealed with the sign of the cross. He understood that it had to be like that on February 14, 1943, in a house in Jorge Manrique Street.
 
-"He was celebrating Mass in the auditorium his daughters had there, when he *saw* with utter clarity the badge or seal of the work---'seal, because the Work has no coat of arms,' as he said later.
+"He was celebrating Mass in the auditorium his daughters had there, when he *saw* with utter clarity the badge or seal of the work---seal, because the Work has no coat of arms,' as he said later.
 
 "It was 'the cross in the very center of the world.' As he saw it, the cross was always a sign of contradiction, scandal to some, madness to others; a paradox in a world that had come to identify good with pleasure and evil with pain" (Pilar Urbano, *The Man of Villa Tevere*).
 
@@ -81,9 +81,9 @@ He came back a third week and said, "You know, I think my wife is beginning to n
 
 Sometimes the little crosses of each day can be quite exasperating, difficult, can cost a lot. But often they are in the small things that Our Lord has permitted---those little things all the time.
 
-We can try to say an *aspiration* when those things come along---things that we might not understand, that we might see as a true contradiction. But if we know this is somehow *Digitus Dei*, "the Finger of God" is here.
+We can try to say an *aspiration* when those things come along---things that we might not understand, that we might see as a true contradiction. But we know this is somehow *Digitus Dei*, "the Finger of God" is here.
 
-Fulton Sheen liked to say there is "\[enduring\] freshness \[of\] the wounds of Christ" (Fulton Sheen, *FultonSheen.TV Podcast*). It's deep in those wounds that we get the strength to carry whatever crosses it is that God may want for us.
+Fulton Sheen liked to say there is "\[enduring\] freshness \[of\] the wounds of Christ" (Fulton Sheen, *Fulton Sheen TV Podcast*). It's deep in those wounds that we get the strength to carry whatever crosses it is that God may want for us.
 
 And the cross is a sign of conversion; all conversion takes place on and from the cross.
 
@@ -113,7 +113,7 @@ Our Father was there and he went out and sat on the steps with them to chat with
 
 Our Father, which was a custom he had often, said to him: "Certainly, my son, because you've just taught me a wonderful lesson. You've reminded me of all the times in my life when I haven't accepted with a smile, like the big smile you have on your face from ear to ear, the little crosses of each day that God wanted to send me."
 
-When our Father finished speaking to them, he went inside to the Commission and he called all the members of the Commission together into the living room and said, "Listen, this young fellow outside has just taught me a wonderful lesson." And he began to share it with them.
+When our Father finished speaking to them, he went inside to the Commission and he called all the members of the Commission together into the living room and told them, "This young fellow outside has just taught me a wonderful lesson." And he began to share it with them.
 
 "These are the unmistakable signs of the true Cross of Christ," our Father says in *The Forge*. "Serenity, a deep feeling of peace, a love which is ready for any sacrifice, a great effectiveness which wells from Christ's own wounded side. And always---and evidently---\[joy: a joy\] which comes from knowing that those who truly give themselves are beside the Cross, and therefore beside Our Lord" (J. Escrivá, *The Forge*, Point 772).
 
@@ -133,7 +133,7 @@ There was a retreat I was giving one time, December 22, 1982, and in the confere
 
 She was very worried, and we told them to pray. An hour later the police came to say there'd been a car accident and the vice-director of the Catering had been killed, and another sister numerary had broken her leg.
 
-I knew that family. They had a brother in the work, my age more or less, and the mother in that family was a widow, the father had died young, leaving four children. The mother had brought up these four children, the second eldest had joined the Work.
+I knew that family. They had a brother in the Work, my age more or less, and the mother in that family was a widow, the father had died young, leaving four children. The mother had brought up these four children, the second eldest had joined the Work.
 
 The mother did not understand the vocation too much but did not stand in his way. She was a holy woman. And then she got in contact a bit with the Work herself, and then her only daughter joined the Work as a numerary.
 
@@ -155,7 +155,7 @@ She said, "My daughter might not have been faithful to her vocation. And that wo
 
 Here was this woman at the height of her Calvary, and God had given her the grace to see this with a supernatural outlook, and to learn how to thank God for the crosses that He had sent her in her life.
 
-Those days and weeks, she floored many people with her supernatural considerations, when they came to console with her. She gave them a great example of how to be supernatural in that moment---full of strength beside the cross.
+Those days and weeks, she floored many people with her supernatural considerations when they came to console with her. She gave them a great example of how to be supernatural in that moment---full of strength beside the cross.
 
 The formation that we give people and the example that we give people in the means of formation and in our lifestyle will hopefully help them to have the strength to carry the crosses that God may permit in their life---to turn what might otherwise be sadness into joy. *Tristitia vestra convertita in gaudium* (*cf*. Jer. 31:13, John 16:20).
 
@@ -163,7 +163,7 @@ We change the outlook of many people in the world by the focus that we give them
 
 We could say to Our Lord: Help me to be more demanding on myself and less demanding on others. Help me to bear with joy for love of Christ: the discomfort, the scarcity of means---all the consequences of the real poverty that I'm called to live. The extra demands.
 
-*Siempre más*. That I might be generous with the cross.
+*Siempre más*, so that I might be generous with the cross.
 
 In the letter of January 1993, Don Álvaro said, "Now that so many people want to hear only about physical well-being and not about sacrifice, about roses and not about thorns, we must pay special attention to a warning written by our Father in an early document.
 
@@ -183,7 +183,9 @@ But maybe it's some contradiction that comes along that's not going to go away. 
 
 Yet we have the formation and the grace to be able to handle that particular thing, to carry on. Not to see it as a major thing, but just a basic matter of ordinary administration.
 
-There was a supernumerary who came to Singapore once who had gone to the States for something and done his seminar for supernumeraries there in San Francisco. He was telling me about the numerary in charge of the seminar who was Art Crowell, now deceased, who I think was a dentist, and who it seems at a later stage of his life had Parkinson's disease. It's a thing where you have a lot of rigidity in your limbs.
+There was a supernumerary who came to Singapore once who had gone to the States for something and done his seminar for supernumeraries there in San Francisco.
+
+He was telling me about the numerary in charge of the seminar who was Art Crowell, now deceased, who I think was a dentist, and who it seems at a later stage of his life had Parkinson's disease. It's a thing where you have a lot of rigidity in your limbs.
 
 He was one of the people looking after the seminar, and this guy asked him how he was, and he says, "I'm very well, thank you. It's going well. I got this new drug, and my limbs are much freer now. My joints are much freer than they were."
 
@@ -201,7 +203,7 @@ We look for the cross of each day. We thank God for the cross that comes.
 
 Sometimes with our corporal means of mortification, we'll be imposed the cross on ourselves. We should have a great love for those means, great fidelity to those means, embrace those means.
 
-There are many little miseries and contradictions and limitations that are to be conquered in and through those means, that remind us that we're here to carry the cross. It's the prayer of the senses.
+There are many little miseries and contradictions and limitations that are to be conquered, in and through those means, that remind us that we're here to carry the cross. It's the prayer of the senses.
 
 And to carry it generously. We show Our Lord with those means that we're serious.
 
@@ -221,15 +223,15 @@ Lord, help me to see, help me to understand, and to impose that cross a little b
 
 In a few words, he teaches with his own example what the attitude of a son or daughter of God should be with regard to the goods of this earth. "The world has been crucified to me and I to the world" (Gal. 6:14).
 
-We embrace the cross, thank God for it. We know we're on the right track. We use it, harness it, show Our Lord: I'm really serious about that particular intention: that soul that has to find their vocation, that other virtue that I want to acquire, the vice that I want to conquer, and that other soul that I want to bring forward in some particular way.
+We embrace the cross, thank God for it. We know we're on the right track. We use it, harness it, show Our Lord: I'm really serious about that particular intention---that soul that has to find their vocation, that other virtue that I want to acquire, the vice that I want to conquer, and that other soul that I want to bring forward in some particular way.
 
 In Vázquez de Prada, we're told, "At first sight the oratory \[on Jenner Street\] seemed to have a motif of crosses: the crucifix on the altar; the wooden cross on the wall; the crosses at the base and intersections of each of the candlesticks; the crosses on the frieze; and the fourteen crosses of the Stations of the Cross.
 
 "Years later, in one of his circular letters, St. Josemaría mentioned this. He said, 'In the oratory (a small room, lacking even benches, despite being the best room in the house), we had put up the Stations of the Cross. And I told my sons: How valiant we are! We've put up all these crosses. Are you ready to carry all of them?'" (Andrés Vázquez de Prada, *The Founder of Opus Dei, Volume II*).
 
-We find Our Lady beside the cross: strong, faithful, joyful, full of fortitude. We can ask Our Lady that we might come to love the cross that she did.
+We find Our Lady beside the Cross: strong, faithful, joyful, full of fortitude. We can ask Our Lady that we might come to love the Cross as she did.
 
-It's a great instrument that God has given us, and that we might entertain that desire to "place Christ at the top of all human activities" (J. Escrivá*, Friends of God*, Point 58).
+It's a great instrument that God has given us, and that we might entertain that desire to "place Christ at the top of all...human activities" (J. Escrivá*, Friends of God*, Point 58).
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
