@@ -12,9 +12,11 @@ next_title: "I Came To Cast Fire On Earth"
 
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My immaculate Mother, St. Joseph, my father and Lord, my guardian angel, intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 When the soul has conquered its sensuality, when it has succeeded in maintaining the heart free for God, when it has kept itself faithful to its resolve to find God at all costs, and has arrived at the renouncement of all affections that are not in God and for God, and thus has attained the detachment towards which the Lord has been directing it, it reaches the next stage in the interior life, a stage that has characteristics which distinguish it sharply from the other two.
 

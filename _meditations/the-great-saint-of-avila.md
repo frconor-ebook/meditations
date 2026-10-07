@@ -7,7 +7,7 @@ prev_slug: the-grass-of-the-field
 prev_title: "The Grass of the Field"
 next_slug: the-guardian-angels
 next_title: "The Guardian Angels"
-related: [{"slug": "great-mothers", "title": "Great Mothers"}, {"slug": "st-teresa-of-avila", "title": "St. Teresa of Avila"}, {"slug": "the-saints-day-of-the-prelate", "title": "The Saint\u2019s Day of the Prelate"}]
+related: [{"slug": "great-mothers", "title": "Great Mothers"}, {"slug": "the-saints-day-of-the-prelate", "title": "The Saint\u2019s Day of the Prelate"}]
 ---
 
 

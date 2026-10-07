@@ -5,7 +5,7 @@ description: "We're told in the Book of Wisdom, \"Think of the Lord in goodness,
 reading_time: 18
 tags: ["Saints & Feast Days"]
 prev_slug: st-teresa-of-avila
-prev_title: "St. Teresa of Avila"
+prev_title: "St. Teresa of \u00c1vila"
 next_slug: st-thomas
 next_title: "St. Thomas"
 related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "intimacy-with-god-after-edward-leen", "title": "Intimacy with God (after Edward Leen)"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}]
