@@ -40,9 +40,9 @@ When it comes to charity, Christ places the bar very high, because "God is love"
 
 There are no absolutes in relation to the theological virtues. You can't have too much charity, or too much faith, or too much hope.
 
-Our Christian vocation is a call to always grow in this virtue, and putting it into practice. To a large extent, the whole of our vocation is putting into practice the virtue of love, day by day, hour by hour, challenge by challenge.
+Our Christian vocation is a call to be always growing in this virtue, and putting it into practice. To a large extent, the whole of our vocation is putting into practice the virtue of love, day by day, hour by hour, challenge by challenge.
 
-"If you love those who love you, what credit is that to you?" (Luke 6:32). It's easy to love those who love us, to greet those who greet us, to be nice to the people who were nice to us.
+"If you love those who love you, what credit is that to you?" (Luke 6:32). It's easy to love those who love us, to greet those who greet us, to be nice to the people who are nice to us.
 
 But Our Lord invites us to go the extra mile, to go out of ourselves, to break out of our shell, to go further, to forget about our feelings.
 
@@ -60,19 +60,19 @@ Christ tells us that love is sacrifice.
 
 If you want to know who loves me in this world, you'll ask yourself the question, "Who has sacrificed themselves for me?" Probably our mothers are the ones who have sacrificed themselves most, and maybe many others also.
 
-And if you want to know who do I love in this world, ask yourself, "For whom am I willing to sacrifice myself?"
+And if you want to know, who do I love in this world, ask yourself, "For whom am I willing to sacrifice myself?"
 
 If somebody asked you to give a kidney to somebody who lives in the room beside you, you might be willing to do so. Or a cousin, a neighbor, a schoolmate, or a classmate.
 
 We might be willing to do all sorts of things for many people.
 
-But if we were told, Look, there's the most corrupt person in society, are you willing to give them a kidney?
+But if we were told, 'Look, there's the most corrupt person in society, are you willing to give them a kidney?'
 
-You might say, I'll think about it.
+You might say, 'I'll think about it.'
 
 How about a prisoner serving a life sentence for murder in a maximum-security prison?
 
-You might say, No, I think I'll pass on that one. Perhaps that guy is not really worth my kidney. Maybe he can get somebody else's kidney. I don't think he can get my one.
+You might say, 'No, I think I'll pass on that one. Perhaps that guy is not really worth my kidney. Maybe he can get somebody else's kidney. I don't think he can get my one.'
 
 But you see, Christ died for that person also. Christ died for all. He gave Himself for all, and in doing so, He gave us a model for our charity.
 
@@ -116,7 +116,7 @@ He wants to fill us full of His love, so that our love can be shown not just in 
 
 "If you lend to those from whom you hope to receive, what credit is that to you? Even sinners lend to sinners to receive as much again. But love your enemies" (Luke 6:34-35).
 
-Our Lord comes to emphasize this point. Very often in His teaching, He says, "You have heard to those of old, but I say to you..." (Matt. 5:21, 27, 33, 38)
+Our Lord comes to emphasize this point. Very often in His teaching, He says, "You have heard to those of old, but I say to you..." (Matt. 5:21, 27, 33, 38).
 
 Our Lord makes it very clear. Now the game plan has changed: "But I say to you..." 'I now change the old law or the old teaching.'
 
@@ -132,13 +132,13 @@ We don't keep a scorecard of what I've given to other people. Let our guardian a
 
 The joy of the giver is in the joy of giving. The greatest joys in life come from that.
 
-Whenever John Paul II talks about love, he talks about giving. Love means giving; laying down our life for our friends.
+Whenever John Paul II talks about love, he talks about giving. Love means giving, laying down our life for our friends.
 
 "God so loved the world that he gave his only begotten Son" (John 3:16). Love is measured by what we give.
 
 "...and your reward will be great and you will be children of the Most High" (Luke 6:35). This is what has value in God's eyes: our charity.
 
-If we're to grow in that virtue, we have to try and decrease our self-love all the time, conquering that old person that's there inside us that's full of egoism, selfishness, out for blood.
+If we're to grow in that virtue, we have to try and decrease our self-love all the time, conquering that old person that's there inside us that's full of egoism, selfishness, out for my blood.
 
 St. Josemaría likes to say, "To complicate your life for Jesus Christ---that's the vocation of a Christian."
 
@@ -146,7 +146,7 @@ Complicate our life---suffer a little bit ourselves so that others can be happy.
 
 "You will be children of the Most High, for he is kind to the ungrateful and the selfish" (Luke 6:35).
 
-So we don't wait to be thanked, and we don't look for thanks. We do and disappear. Serve Great charity is shown through this. Serve other people.
+So we don't wait to be thanked, and we don't look for thanks. We do and disappear. Serve. Great charity is shown through this. Serve other people.
 
 "Christ came not to be served, but to serve" (Mark 10:45). He showed His love and the extent of His love through the service that He gave.
 
@@ -160,7 +160,7 @@ At the end of this, He said, "What I have done to you, do you also to others" (J
 
 Whenever I do the Holy Thursday ceremonies, I always think how incongruous it is: all over the world, in churches and basilicas, the bishop, the priest, and the pope stop to wash the feet.
 
-One time I was giving a retreat in Malaysia in a hotel someplace for Easter. I used to do it for a number of years. We used to have the washing of the feet, precisely.
+One time I was giving a retreat in Malaysia in a hotel some place for Easter. I used to do it for a number of years. We used to have the washing of the feet, precisely.
 
 I asked for volunteers---there were about twelve or fifteen people in the retreat---if anybody wanted to volunteer to have their feet washed.
 
@@ -198,7 +198,7 @@ It's this person that God has placed beside me that He wants me to love, as if h
 
 If we find people difficult to love on a natural plane, we just lift it up onto the supernatural. We see Christ in people.
 
-This person is worth all the blood of Christ. Even if this person was the only person in the whole world, Christ would still have died for them. This person has great value in God's eyes. The blood of Christ is flowing through their veins.
+This person is worth all the blood of Christ. Even if this person were the only person in the whole world, Christ would still have died for them. This person has great value in God's eyes. The blood of Christ is flowing through their veins.
 
 Those supernatural considerations can lead us to love people a little more, be more generous in our love, to go out of our way with little details, with small things that make people happy.
 
@@ -250,11 +250,11 @@ We may find that the devil is very active. The last thing he wants us to do is t
 
 But Christ invites us to go out of our way to think and do different things.
 
-A priest went to visit a family once and there was a little girl there who had many dolls. He asked the little girl, Which of the dolls do you like most?
+A priest went to visit a family once and there was a little girl there who had many dolls. He asked the little girl, 'Which of the dolls do you like most?'
 
-The little girl picked up the ugliest, awful-looking, shaggy doll that was there. The priest was a bit surprised and asked her, Why do you like that doll?
+The little girl picked up the ugliest, awful-looking, shaggy doll that was there. The priest was a bit surprised and asked her, 'Why do you like that doll?'
 
-Well, because all the people who come here and ask me that question---they all love all the other dolls. But this doll is unloved.
+'Well, because all the people who come here and ask me that question---they all love all the other dolls. But this doll is unloved.'
 
 The priest learned to reach out to the unloved.
 
@@ -311,12 +311,6 @@ When she was, whatever age she was, she had no plans of getting pregnant or goin
 But she forgot all about herself. She lived for her Son.
 
 Mary, may you help us imitate your example so that we can truly put this virtue of charity into practice.
-
-*JSD*
-
-"But I say to you: Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you" (Luke 6:27-28).
-
-In some ways, this is like the central point of the whole teaching of Our Lord. He came to teach us about love.
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 

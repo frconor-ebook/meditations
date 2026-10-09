@@ -13,7 +13,7 @@ related: [{"slug": "our-lady-of-the-rosary-2026", "title": "Our Lady of the Rosa
 
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
@@ -23,7 +23,7 @@ We are told in today's Gospel, "Let your loins be girt about, and your lamps bur
 
 It's interesting how in the Gospel, Our Lord on many occasions encourages us to be very vigilant---vigilant about what our life is all about, about what God wants from us in our lives, about what we're supposed to be doing; encouraging us to be focused on the ball, not slow, playing the game.
 
-Up to the particular moment, what is the will of God for me at this particular time? In my life, what's His plan for me? Because God can call us to Him at any moment. Someday He will. He wants us to be ready.
+Up to the particular moment, what is the will of God for me at this particular time? In my life, what's His plan for me? Because God can call us to Him at any moment. Someday He will. And so, He wants us to be ready.
 
 He doesn't want us to be wandering around with our head in the clouds. He doesn't want us to be people who are full of nonsense, who don't know where they're going, or what they're doing, or who are wasting their time.
 
@@ -33,7 +33,7 @@ Is it the best that I can do? Have I double-checked all the details? Am I sure t
 
 We're not just wandering around the place. "Let your loins be girt about, and your lamps burning."
 
-That means oil in the lamps---thinking about the lamps, having foresight, making sure that the lamp has enough oil to last through the night and through the days, and you yourselves, like people waiting for their master's return from the wedding.
+That means oil in the lamps---thinking about the lamps, having foresight, making sure that the lamp has enough oil to last through the night and through the days, and you yourselves, like people waiting for their master's return from the wedding (Matt. 25:1-13).
 
 There's a lot of talk about weddings in the Gospel. John Paul II said we're all called to "the eternal wedding feast" (Pope John Paul II, Apostolic Exhortation, *Evangelii gaudium*, November 24, 2013). God wants to marry us. Marriage in this world is a preparation for marriage in the next.
 
@@ -43,9 +43,7 @@ There may be many things that humanly we are alert about. If we go out into the 
 
 There are a lot of situations in life where we are sort of naturally alert. But that's not just the sort of alertness that Our Lord is talking about here.
 
-He wants us to be alert in relation to our souls, to our eternal destiny, so that each day of our life can have that echo of eternity.
-
-'I'm preparing for the coming of the master from the wedding. The bridegroom is coming. I want to have everything prepared.'
+He wants us to be alert in relation to our souls, to our eternal destiny, so that each day of our life can have that echo of eternity.'I'm preparing for the coming of the master from the wedding. The bridegroom is coming. I want to have everything prepared.'
 
 "Blessed are those servants whom the master on his return shall find watching" (Luke 12:37). All the verbs that are used are verbs that foster our vigilance. He doesn't want us sleeping.
 
@@ -55,7 +53,7 @@ He might not come when they're expecting him. He might come a little later. They
 
 But if they have that disposition, if they're taking good care of their soul, their plan of life, their apostolate, the Christian life that God wants them to lead---blessed are those servants.
 
-We can ask Our Lord in our prayer, How can I take better care of my spiritual life? What is it that you're asking of me at this particular moment?
+We can ask Our Lord in our prayer: How can I take better care of my spiritual life? What is it that you're asking of me at this particular moment?
 
 What are the messages that I'm getting, for where you have led me to this particular center, to the formation that I'm exposed to, to the ideas that are circulating in my head and that I'm thinking of, and the people you've brought me in contact with?
 
@@ -77,7 +75,7 @@ Full of joy, he ran to his mother and said, "Mommy, I found the *Hail Mary* in t
 
 On another occasion, he found that beautiful salutation of St. Elizabeth to Our Lady in the canticle called *Magnificat*, in which Mary foretold that "generations would call her blessed" (Luke 2:46-48).
 
-He decided not to say anything to his mother about this, but he started to say the *Hail Mary* again as before, and he felt a great pleasure in addressing those charming words to the Mother of Jesus, Our Savior.
+He decided not to say anything to his mother about this, but he started to say the *Hail Mary* again as before, and he felt a great pleasure in addressing those charming words to the Mother of Jesus Our Savior.
 
 When he was fourteen, he heard a discussion about Our Lady among members of his family. Everyone said that Mary was a common woman like any other woman. He was listening carefully to all their erroneous reasoning.
 
@@ -93,7 +91,7 @@ Some time later, his married sister who had rebuked him in various ways, said, "
 
 Her anger and her temper were as furious as those of St. Paul before his conversion. However, she was going to change her ways, just as St. Paul did on the road to Damascus (Acts 9:1-9).
 
-One of her sons fell dangerously ill, and the doctors gave up hope of his recovery. Her brother then approached her and spoke to her affectionately, saying, "My sister, you naturally wish to have your child cured. Very well, then, just do what I ask you to do. Follow me, that is, pray one *Hail Mary*, and promise God that if your son recovers his health, you would seriously study the Catholic doctrine, and should you come to the conclusion that Catholicism is the only true religion, you would embrace it, no matter what the sacrifices might be."
+One of her sons fell dangerously ill, and the doctors gave up hope of his recovery. Her brother then approached her and spoke to her affectionately, saying, "My sister, you naturally wish to have your child cured. Very well, then, just do what I ask you to do. Follow me, let us pray one *Hail Mary*, and promise God that if your son recovers his health, you would seriously study the Catholic doctrine, and should you come to the conclusion that Catholicism is the only true religion, you would embrace it, no matter what the sacrifices might be."
 
 His sister was a bit reluctant in the beginning, but she wanted her son's recovery. So she accepted her brother's proposal, and she recited the *Hail Mary* with him. The next day, the son was completely cured.
 
@@ -107,9 +105,9 @@ The power of one *Hail Mary*, and through that *Hail Mary*, maybe Our Lady wants
 
 The feast of the Holy Rosary was established in 1573 by Pope Pius V, in thanking God for the victory of the Turks over at Lepanto. The Rosary started earlier in the 1200s. It goes back an awful long way; promoted by St. Dominic.
 
-In the last twenty years, Pope St. John Paul II added the mysteries of light. In the Rosary we contemplate various mysteries or events of Our Lord's life. We are led into a deeper understanding of them.
+In the last twenty years, Pope St. John Paul II added the Mysteries of Light. In the Rosary we contemplate various mysteries or events of Our Lord's life. We are led into a deeper understanding of them.
 
-The *Catechism* says that the Rosary is "a compendium of the Gospel" (*Compendium of the Catechism of the Catholic Church*, Point 198; John Paul II, Apostolic Letter, *Rosarium Virginis Mariae*, Points 1,19, October 16, 2002; Apostolic Exhortation, *Marialis cultus*, Point 42 by Pope Paul VI quoting Pius XII, Letter to the Archbishop of Manila, 1946).
+The *Catechism* says that the Rosary is "a compendium of the Gospel" (*Compendium of the Catechism of the Catholic Church*, Point 198; *Catechism of the Catholic Church*, Point 971; John Paul II, Apostolic Letter, *Rosarium Virginis Mariae*, Point 19, October 16, 2002; Apostolic Exhortation, *Marialis cultus*, Point 42 by Pope Paul VI quoting Pius XII, *Letter to the Archbishop of Manila*, 1946).
 
 Just by contemplating the mysteries of the Rosary one by one, we are led through all the main mysteries of Our Lord's life and all the events of the Gospel.
 
@@ -159,7 +157,7 @@ Our Lady shows us the way, helps us like little children, takes us by the hand--
 
 My sister was telling me in a letter last week---she was with her grandson, age three---and he wanted to have a treasure hunt, in a place where there was no treasure.
 
-She went with him to have a treasure hunt, and she managed to hide a Snickers bar behind a tree someplace, and he discovered the treasure. "Ah, this is the treasure."
+She went with him to have a treasure hunt, and she managed to hide a bar of Snickers behind a tree someplace, and he discovered the treasure. "Ah, this is the treasure."
 
 Then he said, "Now we should keep looking because we might find more treasure." She couldn't keep up with that pace!
 
@@ -167,7 +165,7 @@ Little children look for treasures, and they're happy when they find treasures. 
 
 Our Lady can take us by the hand and help us to savor the treasures of each day, the beauties of each moment, the beauties of nature that are around us---help us to discover the wonderful realities that are perhaps within reach every day.
 
-"Holy Mary," we're told in the *Furrow*, "is the Queen of peace, and thus the Church invokes her. So when your soul or your family are troubled, or things go wrong at work, in society, or between nations, cry out to her without ceasing. Call to her by this title: 'Queen of Peace, pray for us.' Have you at least tried it when you have lost your calm?\... ---You'll be surprised at its immediate effect" (J. Escrivá, *Furrow*, Point 874).
+"Holy Mary," we're told in the *Furrow*, "is the Queen of peace, and thus the Church invokes her. So when your soul or your family are troubled, or things go wrong at work, in society, or between nations, cry out to her without ceasing. Call to her by this title: 'Queen of Peace, pray for us.' Have you at least tried it when you have lost your calm?\... ---You will be surprised at its immediate effect" (J. Escrivá, *Furrow*, Point 874).
 
 There may be many moments when we become a little bit more troubled, a little bit agitated in our work, because of the number of things to do, or some machine won't work, or we're extra demands, or we're called out in the middle of our work to do something else and we have to fill the holes later, or come back later, or work a bit longer.
 
@@ -183,7 +181,7 @@ We remind her of her vocation---one of the most wonderful moments in her whole l
 
 Every *Hail Mary* is like a compliment to Our Lady, a little present that we give her. As soon as we get up in the morning or we go to bed at night, we try to say some particular prayers to Our Lady.
 
-We fill those moments, when perhaps our mind could be far away, with a conversation with the Mother of God.
+We fill those moments, when perhaps our mind could be far away, with a conversation \[with\] the Mother of God.
 
 "If we say those prayers," he says, "with a spirit of faith and love," Our Lady all the more will take us by the hand and show us things and help us to see the things that she wants us to see" (*cf*. J. Escrivá, *Furrow*, Point 691).
 
@@ -193,7 +191,7 @@ We'll see that people in our class, or people that God brings us in contact with
 
 Pope St. John Paul has said that the Rosary is a prayer that is "simple yet profound." It goes very deep. It penetrates the mysteries of Our Lord and Our Lady.
 
-He says, "It blends easily into the spiritual journey of the Christian life" (John Paul II, Apostolic Letter, *Rosarium Virginis Mariae*, Point 1, October 16, 2002).
+He says, "It blends easily into the spiritual journey of the Christian life" (John Paul II, *Rosarium Virginis Mariae*, Point 1).
 
 Every little journey that we have to make each day can be a spiritual journey, a journey full of Rosaries---going up the stairs, or going to school, or coming home.
 
@@ -215,13 +213,13 @@ When the Angel gave her the message that she was to be the mother of God, Mary r
 
 It wasn't a moment of pride and vanity. She didn't go and look in the mirror and say, 'Mother of God---what will that mean? I wonder whether I'll like it or not.'
 
-She didn't take the words of the angel in a very calm and nonchalant sort of way. She was taken up with what God was saying to her through the angel.
+She didn't take the words of the angel in a very calm and nonchalant sort of way. She was totally taken up with what God was saying to her through the angel.
 
 "Behold, the handmaid of the Lord" (Luke 1:38). "Here I am because you have called me" (1 Sam. 3:4-6,8). Help me to respond.
 
 He says, "Through the Rosary, the faithful receive abundant grace, as though from the very hands of the Mother of the Redeemer" (John Paul II, *ibid*.).
 
-Our Lady is there, just waiting to give us so many graces when we ask Our Father, like a mother who wants to give her child something very special, but wants the child to ask for it, to really want it, to show with deeds that it's serious.
+Our Lady is there, just waiting to give us so many graces when we ask Our Father, like a mother who wants to give her child something very special, but wants the child to ask for it, to really want it, to show with deeds that he's serious.
 
 Very often in our spiritual life, Our Lord wants us to show that disposition with deeds, not just sweet words. Anyone can say sweet words.
 
@@ -231,13 +229,13 @@ We learn all these things at "the school of Mary." We watch Our Lady in Nazareth
 
 She was practising virtue in all moments, always with a smile, uplifting the people around her.
 
-"To recite the Rosary," he says, "is nothing other than to contemplate with Mary the face of Christ." (*ibid*.).
+"To recite the Rosary," he says, "is nothing other than to contemplate with Mary the face of Christ" (*ibid*.).
 
 Mary has such a unity with her Son, unity with God. There was a great peace in her soul. She must have radiated that peace and beauty.
 
 This is the treasure that God has placed in our hands in this particular month of the Rosary. It's a good time to be a little bit more attentive to our Rosary. It's "a path of contemplation" John Paul II, *ibid*., Point 35, 38).
 
-Pope St. John Paul says, "It's a genuine 'training in holiness.' What is needed is 'a Christian life distinguished above all in the art of prayer'" (John Paul II, Apostolic Letter *Novo millenio ineunte*, January 6, 2001, quoted in *Rosarium Virginis Mariae*).
+Pope St. John Paul says, "It's a genuine 'training in holiness.' What is needed is 'a Christian life distinguished above all in the art of prayer'" (*cf*. John Paul II, Apostolic Letter *Novo millenio ineunte*, Points 31, 32, January 6, 2001, quoted in *Rosarium Virginis Mariae*, Point 5).
 
 If we're souls of prayer, then everything will get solved. God will let us see His plans for us for the future.
 
@@ -247,7 +245,7 @@ We'll be growing in and working at that "training in holiness." We may be traine
 
 Our Lady is training us, Christ is training us---training in holiness to be an effective apostle, to have an impact on the world.
 
-"Christian communities," he said, "should become genuine schools of prayer" John Paul II, Apostolic Letter, *Rosarium Virginis Mariae).*
+"Christian communities," he said, "should become genuine 'schools' of prayer" (John Paul II, *Rosarium Virginis Mariae*, Point 33*).*
 
 We try to live as a family. Our own blood families are the same thing.
 
