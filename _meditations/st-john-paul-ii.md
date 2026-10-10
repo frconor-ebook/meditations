@@ -59,7 +59,7 @@ And he said, "Now, around the year 2000, we have Pope John Paul the Great."
 
 Three US presidents came to his funeral. One of the Monsignors who organized his funeral was asked, "Was there any particular thing that struck him most about those very special days?"
 
-He said, "Yes, at one moment, I had to accompany three US presidents, two Bushes, and a Clinton, to kneel at the coffin of John Paul II. And I was kneeling right behind them."
+He said, "Yes, at one moment, I had to accompany three US presidents, two Bushes and a Clinton, to kneel at the coffin of John Paul II. And I was kneeling right behind them."
 
 And he said, "You know, I always knew that John Paul II was a very special person. But when I saw three US presidents kneeling at his coffin, it sort of brings it home to you in other ways."
 
@@ -161,11 +161,11 @@ The Pope sat up in bed and said, "That's the way I see things also."
 
 One year later, when he went to make that pilgrimage to Our Lady of Fatima to thank her for saving his life, he brought with him the bullet that had pierced his abdomen.
 
-Now that bullet has been embedded in the crown of Our Lady of Fatima as a memento for all time of how Our Lady of Fatima had saved the life of the Pope.
+And now that bullet has been embedded in the crown of Our Lady of Fatima as a memento for all time of how Our Lady of Fatima had saved the life of the Pope.
 
 Some people said that a 60-year-old man who's penetrated with a few bullets won't live very long. But after this event, we had one of the longest pontificates in the whole of human history: 104 trips, amazing things.
 
-Our Lady truly took care of her son. He was the Marian Pope with a Marian pontificate, a *Totus Tuus*. What God asked of him, he accepted. He placed His gifts at the disposal of each new mission.
+Our Lady truly took care of her son. He was the Marian Pope with a Marian pontificate, *Totus Tuus*. What God asked of him, he accepted. He placed His gifts at the disposal of each new mission.
 
 As a powerfully athletic younger man, he worked tirelessly in the service of others.
 
@@ -179,7 +179,7 @@ He gave us great documents on the family: *Familiaris consortio; Evangelium vita
 
 Because of the great messages and gifts that the Catholic Church has to give the whole of society, we have an awful lot to be proud of.
 
-And so there's so much that we can learn from this late great Pope: the courage to accept what God has in store for us; the tenacity to preach the gospel in season and out of season, wherever we find ourselves; the capacity for keeping our minds and hearts on what is essential; the challenge to be, as he says in *Evangelium vitae*, "unconditionally pro-life."
+And so there's so much that we can learn from this late great Pope: the courage to accept what God has in store for us; the tenacity to preach the Gospel in season and out of season, wherever we find ourselves; the capacity for keeping our minds and hearts on what is essential; the challenge to be, as he says in *Evangelium vitae*, "unconditionally pro-life."
 
 Above all, we can be inspired by his remarkable reliance on prayer. He was a man of contemplation as much as action. He knew when to withdraw, when to be silent, to offer everything over to Christ.
 
@@ -203,9 +203,7 @@ This Monsignor was sort of saying that the Pope had a sixth sense for the Blesse
 
 His secretary, later Cardinal Stanislaw Dziwisz, said that the secret of his person was the depth of his spiritual life. He always prayed and he learned the value of prayer as a boy and this aspect deepened afterward.
 
-The Argentinian Pope Francis said, "He knew well that the first task of a bishop is to pray. He knew it, and he did it."
-
-He said he was "a model of a bishop that prays"---the first task (Pope Francis, *Homily,* May 18, 2020).
+The Argentinian Pope Francis said, "He knew well that the first task of a bishop is to pray. He knew it, and he did it." He said he was "a model of a bishop that prays"---the first task (Pope Francis, *Homily,* May 18, 2020).
 
 John Paul told the story of how when he was a kid his mother had passed away. Then his brother at the age of \[26\] passed away when Pope John Paul was 11.
 
