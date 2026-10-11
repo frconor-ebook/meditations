@@ -8,7 +8,7 @@ prev_slug: st-joachim-and-st-anne
 prev_title: "St. Joachim and St. Anne"
 next_slug: st-john-2025-ed
 next_title: "St. John (2025 Ed.)"
-related: [{"slug": "dedication-of-the-basilica-of-st-john-lateran-2026", "title": "Dedication of the Basilica of St. John Lateran (2026)"}, {"slug": "st-john-2025-ed", "title": "St. John (2025 Ed.)"}, {"slug": "st-john-henry-newman-on-friendship", "title": "St. John Henry Newman on Friendship"}]
+related: [{"slug": "st-john-2025-ed", "title": "St. John (2025 Ed.)"}, {"slug": "st-john-henry-newman-on-friendship", "title": "St. John Henry Newman on Friendship"}, {"slug": "st-john-henry-newman-on-the-laity", "title": "St. John Henry Newman on The Laity"}]
 ---
 
 By Fr. Conor Donnelly

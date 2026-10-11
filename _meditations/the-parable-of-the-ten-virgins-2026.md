@@ -1,7 +1,7 @@
 ---
 layout: homily
 title: "The Parable of the Ten Virgins (2026)"
-description: "\"Then the kingdom of heaven will be like this: Ten wedding attendants took their lamps and went to meet the bridegroom. Five of them were foolish and five..."
+description: "My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my..."
 reading_time: 18
 tags: ["Parables"]
 prev_slug: the-parable-of-the-ten-virgins
@@ -14,10 +14,12 @@ related: [{"slug": "the-parable-of-the-ten-virgins", "title": "The Parable of th
 
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My immaculate Mother, St. Joseph, my father and Lord, my guardian angel, intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*\
+\
 "Then the kingdom of heaven will be like this: Ten wedding attendants took their lamps and went to meet the bridegroom. Five of them were foolish and five were wise. The foolish ones, though they took their lamps, took no oil with them, whereas the wise ones took flasks of oil as well as their lamps. The bridegroom was late, and they all grew drowsy and fell asleep. But at midnight there was a cry, 'Look, the bridegroom. Go out and meet him.' Then all those wedding attendants woke up and trimmed their lamps, and the foolish ones said to the wise ones, 'Give us some of your oil, our lamps are going out.' But they replied, 'There may not be enough for us and for you. You had better go to those who sell it and buy some for yourselves.' They had gone off to buy it when the bridegroom arrived. Those who were ready went in with him to the wedding hall, and the door was closed. The other attendants arrived later, 'Lord, Lord,' they said, 'open the door for us.' But he replied, 'In truth I tell you, I do not know you.' So stay awake because you do not know either the day or the hour" (Matt. 25:1--13).
 
 In this gospel Our Lord makes reference to social customs with which his listeners were perfectly familiar. That's why Our Lord does not spend time on general explanations. Among the Jews it was common practice for women to be given in marriage at a very young age. It was then the custom to celebrate the betrothal. After this first stage of the marriage, the woman, who was quite often still an adolescent, would continue to reside with her parents for some further time. Then after some months had passed, the wedding ceremony itself would take place. It consisted of the solemn transfer of the betrothed from her parents' house to the residence of her spouse, to their new home, in order to initiate their life in common as husband and wife. The ceremony was frequently celebrated in the late afternoon. Such was the case of the wedding feast in Our Lord's parable.

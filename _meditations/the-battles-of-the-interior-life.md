@@ -11,12 +11,13 @@ next_title: "The Beatitudes"
 related: [{"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "interior-struggle", "title": "Interior Struggle"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}]
 ---
 
-
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My immaculate Mother, St. Joseph, my father and Lord, my guardian angel, intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 We are told in St. Luke, "Thou shalt adore the Lord thy God, and him only shalt thou serve" (Luke 4:8).
 

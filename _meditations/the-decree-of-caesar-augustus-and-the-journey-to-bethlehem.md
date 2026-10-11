@@ -6,8 +6,8 @@ reading_time: 17
 tags: ["Advent & Christmas"]
 prev_slug: the-daughter-of-jairus
 prev_title: "The Daughter of Jairus"
-next_slug: the-dedication-of-the-basilica-of-st-mary-major
-next_title: "The Dedication of the Basilica of St. Mary Major"
+next_slug: the-dedication-of-the-basilica-of-st-john-lateran-2026
+next_title: "The Dedication of the Basilica of St. John Lateran (2026)"
 related: [{"slug": "the-joy-of-the-journey-to-bethlehem", "title": "The Joy of the Journey to Bethlehem"}, {"slug": "obedience-in-bethlehem", "title": "Obedience in Bethlehem"}, {"slug": "the-light-streaming-from-bethlehem", "title": "The Light Streaming from Bethlehem"}]
 ---
 

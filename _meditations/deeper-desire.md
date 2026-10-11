@@ -3,8 +3,8 @@ layout: homily
 title: "Deeper Desire"
 description: "\"Blessed are those who hunger and thirst for justice, for they shall be satisfied\" (Matt. 5:6). One of the most authentic expressions of a thirst for..."
 reading_time: 20
-prev_slug: dedication-of-the-basilica-of-st-john-lateran-2026
-prev_title: "Dedication of the Basilica of St. John Lateran (2026)"
+prev_slug: death-and-the-good-use-of-time-2nd-ed
+prev_title: "Death and the Good Use of Time (2nd Ed.)"
 next_slug: defending-the-family
 next_title: "Defending the Family"
 ---

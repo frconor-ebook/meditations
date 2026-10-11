@@ -8,7 +8,7 @@ prev_slug: st-john
 prev_title: "St. John"
 next_slug: st-john-henry-newman-on-friendship
 next_title: "St. John Henry Newman on Friendship"
-related: [{"slug": "dedication-of-the-basilica-of-st-john-lateran-2026", "title": "Dedication of the Basilica of St. John Lateran (2026)"}, {"slug": "st-john", "title": "St. John"}, {"slug": "st-john-henry-newman-on-friendship", "title": "St. John Henry Newman on Friendship"}]
+related: [{"slug": "st-john", "title": "St. John"}, {"slug": "st-john-henry-newman-on-friendship", "title": "St. John Henry Newman on Friendship"}, {"slug": "st-john-henry-newman-on-the-laity", "title": "St. John Henry Newman on The Laity"}]
 ---
 
 By Fr. Conor Donnelly

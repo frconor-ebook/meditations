@@ -6,8 +6,8 @@ reading_time: 21
 tags: ["Work & Ordinary Life", "Death & Eternal Life"]
 prev_slug: daily-mass
 prev_title: "Daily Mass"
-next_slug: dedication-of-the-basilica-of-st-john-lateran-2026
-next_title: "Dedication of the Basilica of St. John Lateran (2026)"
+next_slug: deeper-desire
+next_title: "Deeper Desire"
 related: [{"slug": "the-good-use-of-time", "title": "The Good Use of Time"}, {"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}]
 ---
 

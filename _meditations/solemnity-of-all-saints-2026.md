@@ -14,9 +14,11 @@ related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after E
 
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My Immaculate Mother, St. Joseph, my father and Lord, my guardian angel, intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 We can remember today in a special way that sanctity is accessible to everyone in their various jobs and situations, and that to help us reach this goal, we ought to put into practice the dogma of the communion of saints. The Church invites us to raise our hearts and minds to the immense multitude of men and women from all walks of life who followed Christ here on earth and are already enjoying his presence in heaven. This feast has been celebrated since the 8th century.
 
@@ -110,6 +112,8 @@ Of course, the vocation to holiness can be dangerous. You could find yourself on
 
 We can turn to Our Lady, Queen of all the saints, and ask her on this special day that we might increase our personal desires for holiness, and that she might help us to correspond to that vocation on a daily basis all through our life.
 
-*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, St. Joseph, my father and Lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *EW*

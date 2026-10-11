@@ -11,12 +11,13 @@ next_title: "Conjugal Love"
 related: [{"slug": "all-souls", "title": "All Souls"}, {"slug": "souls-of-prayer", "title": "Souls of Prayer"}, {"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}]
 ---
 
-
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, St. Joseph, my father and Lord, my guardian angel, intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 Today we dedicate our prayers in suffrage for the souls in Purgatory --- souls that are still being purified of the remains of sin. Our ties with deceased relatives and friends don't end with their death.
 
@@ -130,6 +131,8 @@ In *The Way*, the first point of *The Way*, we're told, "Don't let your life be 
 
 We can turn to Our Lady, refuge of sinners, and ask her for the grace to help us to act accordingly. Mary, may we be filled with the holy determination to convert our life into a time of true penance in reparation for all our unworthy thoughts and words and deeds. Help us to give you more glory and your Son more glory in everything we do.
 
-*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, St. Joseph, my father and Lord, my guardian angel, intercede for me. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+*I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
 *EW*

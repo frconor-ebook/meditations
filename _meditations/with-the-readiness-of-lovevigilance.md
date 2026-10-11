@@ -21,7 +21,7 @@ By Fr. Conor Donnelly
 
 We're told in St. Luke, "Let your loins be girded, and your lamps burning, and be like men who are waiting for their master to come home from the marriage feast, so they may open to him at once when he comes and knocks" (Luke 12:35-36).
 
-The phrase "to gird one's loins" is a metaphor derived from the customs of the Hebrews and from the people of the Middle East in general. A person would hitch his long voluminous garment up before setting on a journey, to travel more smoothly on the dusty roads.
+The phrase "to gird one's loins" is a metaphor derived from the customs of the Hebrews and from the people of the Middle East in general. A person would hitch his long, voluminous garment up before setting on a journey, to travel more smoothly on the dusty roads.
 
 In the Book of Exodus, we can read how God instructed the Israelites in the rite of the Passover sacrifice. "In this manner," it says, "you shall eat: your loins girded, your sandals on your feet, and your staff in your hand" (Ex. 12:11). The Israelites were to dress in readiness for their desert-passage to the Promised Land.
 
@@ -57,7 +57,7 @@ St. Bernard comments: "This attitude of watchfulness applies to us as well, beca
 
 We have to be prepared to fight every day, often in little things, because of the many obstacles that can separate us from God.
 
-Our determination to be vigilant can become practical in the faithful fulfillment of our norms of piety. Those encounters with Our Lord will fill us with strength and peace. We need to be on the look-out for any weakening of our resolve as a result of fluctuations of mood or mere transient feelings.
+Our determination to be vigilant can become practical in the faithful fulfillment of our norms of piety. Those encounters with Our Lord fill us with strength and peace. We need to be on the look-out for any weakening of our resolve as a result of fluctuations of mood or mere transient feelings.
 
 Our struggle needs also to be centered on the practice of charity towards others, on the formation of our character, on the effort to be more cordial, to live a constant spirit of service, to be cheerful. We may need to put more effort into doing a better job at work, into being punctual, into keeping up our human, professional, and spiritual formation.
 
@@ -77,9 +77,7 @@ In *Christ Is Passing By*, St. Josemaría says, "We must convince ourselves that
 
 "The greatest danger for a Christian is to underestimate the importance of fighting skirmishes. The refusal to fight the little battles can, little by little, leave him soft, weak, and indifferent, insensitive to the accents of God's voice" (Josemaría Escrivá, *Christ Is Passing By*, Point 77).
 
-We need to be alert to the threat of lukewarmness. We are told in Scripture that God is very pleased at the sight of a soul that is attentive to His coming, day in and day out.
-
-Our Lord says, "Blessed are those servants whom the master finds awake when he comes; truly, I say to you, he will gird himself and have them sit at table, and he will come and serve them" (Luke 12:37).
+We need to be alert to the threat of lukewarmness. We are told in Scripture that God is very pleased at the sight of a soul that is attentive to His coming, day in and day out. Our Lord says, "Blessed are those servants whom the master finds awake when he comes; truly, I say to you, he will gird himself and have them sit at table, and he will come and serve them" (Luke 12:37).
 
 God is ready to do wonderful things for us. It's worthwhile to be vigilant. Our souls should be filled with hope, listening for the footsteps of the Lord.
 
@@ -95,7 +93,7 @@ When the soul is steeped in lukewarmness, it lives without concrete goals in the
 
 The heart experiences a feeling of emptiness concerning the things of God, concerning God Himself. The lukewarm person tries to fill that void with worldly things, but his striving is in vain. His dealings with God become cold and lifeless.
 
-Before the onset of lukewarmness, there's always been a history of small infidelities, which bit by bit contribute to the soul's sense of alienation.
+Before the onset of lukewarmness, there has always been a history of small infidelities, which bit by bit contribute to the soul's sense of alienation.
 
 "Let your loins be girded and your lamps burning\...." We need to have a keen ear for the footsteps of the Lord. This is a daily challenge and concerns specific points of concrete struggle.
 
@@ -109,7 +107,7 @@ We will have the joy of seeing new souls enter heaven. We'll be able to see the 
 
 At the time of the Last Judgment, we will possess our resurrected and glorified body. Accidental glory can increase up to the time of the Last Judgment.
 
-In order to enjoy all these things, it's necessary for us to be vigilant. We need to foster the virtue of hope, so that it will strengthen us in moments of difficulty. So much is at stake.
+In order to enjoy all these things, it's necessary for us to be vigilant. We need to foster the virtue of hope so that it will strengthen us in moments of difficulty. So much is at stake.
 
 We have to be vigilant in our struggle to be detached from the things of earth; also to realize that we are capable of getting attached to anything. Any little thing can become for us the most important thing in the world. We can all lose our vision, our sense of proportion, our sense of direction.
 
@@ -127,7 +125,7 @@ The disciples had a natural curiosity about when and where this would take place
 
 Our Lord teaches us that everyone will be drawn to the Son of God at the end of time, just as the eagles converge on their prey. The same can be said about each individual person's moment of death.
 
-St. Paul sent words of warning to the first Christians of Thessalonica, "For you yourselves know well that the day of the Lord will come like a thief in the night" (1 Thess. 5:2). It is one more call to vigilance. We can't be blind to our final moment on earth, the day of the Lord, when we will meet God face to face.
+St. Paul sent words of warning to the first Christians of Thessalonica: "For you yourselves know well that the day of the Lord will come like a thief in the night" (1 Thess. 5:2). It is one more call to vigilance. We can't be blind to our final moment on earth, "the day of the Lord," when we will meet God face to face.
 
 St. Augustine says that the Lord has kept the circumstances of His coming hidden so that we can be always on the alert (St. Augustine, *Commentary on Psalm 120*).
 
@@ -143,7 +141,7 @@ Our Lord invites us to store up treasures in heaven and to be vigilant on a dail
 
 Instead of looking upon death as the key to the fullness of joy, the tendency is to see it as the end of the road, a check-out counter on for what is for them a kind of terrestrial shopping spree.
 
-These people have lost sight of the fact that every man is in possession of an eternal soul. And so, death is nothing more than a change of lodging, as St. Josemaría liked to call it (*cf*. *ibid*., Point 744). The liturgy often reminds us that life is changed, not taken away.
+These people have lost sight of the fact that every man is in possession of an eternal soul. And so, death is nothing more than a "change of lodging," as St. Josemaría liked to call it (*cf*. *ibid*., Point 744). The liturgy often reminds us that life is changed, not taken away.
 
 And so, Christians believe that death represents the end of an earthly pilgrimage. Believers prepare for death on a daily basis. It's through the sanctification of ordinary realities that we will win heaven as an eternal reward.
 
@@ -157,7 +155,9 @@ No one has more watchfully prepared for the coming of Christ than His Mother Mar
 
 St. Bernard says, "My Lord, how good you are to those who seek you! (*cf*. Lam. 3:25). Imagine how good you will be to those who find you!" (St. Bernard, *Sermons on the Canticles*).
 
-We have found Our Lord. We can make a resolution never to lose Him. And if we stay close to Our Lady and take care of our Marian piety on a daily basis, we know that Our Lady will always be there beside us all the time, and will lead us to that safe haven for which we are destined.
+We have found Our Lord. We can make a resolution never to lose Him.
+
+And if we stay close to Our Lady and take care of our Marian piety on a daily basis, we know that Our Lady will always be there beside us all the time, and will lead us to that safe haven for which we are destined.
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 

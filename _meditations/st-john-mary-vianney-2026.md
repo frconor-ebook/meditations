@@ -8,7 +8,7 @@ prev_slug: st-john-mary-vianney
 prev_title: "St. John Mary Vianney"
 next_slug: st-john-paul-ii
 next_title: "St. John Paul II"
-related: [{"slug": "st-john-mary-vianney", "title": "St. John Mary Vianney"}, {"slug": "dedication-of-the-basilica-of-st-john-lateran-2026", "title": "Dedication of the Basilica of St. John Lateran (2026)"}, {"slug": "st-john", "title": "St. John"}]
+related: [{"slug": "st-john-mary-vianney", "title": "St. John Mary Vianney"}, {"slug": "st-john", "title": "St. John"}, {"slug": "st-john-2025-ed", "title": "St. John (2025 Ed.)"}]
 ---
 
 

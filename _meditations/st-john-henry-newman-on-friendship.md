@@ -8,7 +8,7 @@ prev_slug: st-john-2025-ed
 prev_title: "St. John (2025 Ed.)"
 next_slug: st-john-henry-newman-on-the-laity
 next_title: "St. John Henry Newman on The Laity"
-related: [{"slug": "st-john-henry-newman-on-the-laity", "title": "St. John Henry Newman on The Laity"}, {"slug": "dedication-of-the-basilica-of-st-john-lateran-2026", "title": "Dedication of the Basilica of St. John Lateran (2026)"}, {"slug": "st-john", "title": "St. John"}]
+related: [{"slug": "st-john-henry-newman-on-the-laity", "title": "St. John Henry Newman on The Laity"}, {"slug": "st-john", "title": "St. John"}, {"slug": "st-john-2025-ed", "title": "St. John (2025 Ed.)"}]
 ---
 
 By Fr. Conor Donnelly

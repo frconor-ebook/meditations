@@ -37,11 +37,11 @@ Our Lord characterizes His presence among us by "preaching the gospel of the kin
 
 This is why "the throng wondered when they saw the dumb speaking, the maimed whole, the lame walking, and the blind seeing; and they glorified the God of Israel" (Matt. 15:31).
 
-John Paul II says, "In his messianic activity in the midst of Israel, Christ drew increasingly closer to the world of human suffering. In the Acts of the Apostles, we're told, 'He went about doing good' (Acts 10:38), and his actions concerned primarily those who were suffering and seeking help" (John Paul II, Apostolic Letter*, Salvifici doloris*, Point 16, February 11, 1984).
+John Paul II says, "In his messianic activity in the midst of Israel, Christ drew increasingly closer to the world of human suffering. In the *Acts of the Apostles*, we're told, 'He went about doing good' (Acts 10:38), and his actions concerned primarily those who were suffering and seeking help" (John Paul II, Apostolic Letter*, Salvifici doloris*, Point 16, February 11, 1984).
 
-In his Apostolic Letter*, Salvifici doloris* (The Salvific Value of Pain), John Paul II said, "He healed the sick, consoled the afflicted, fed the hungry, freed people from deafness, from blindness, from leprosy, from the devil, and from various physical disabilities; three times he restored the dead to life.
+In his \[Apostolic Letter\] *Salvifici doloris* (The Salvific Value of Pain), John Paul II said, "He healed the sick, consoled the afflicted, fed the hungry, freed people from deafness, from blindness, from leprosy, from the devil, and from various physical disabilities; three times he restored the dead to life.
 
-"He was sensitive to every human suffering, whether of the body or of the soul. And at the same time he taught, and at the heart of his teaching, there are the eight beatitudes which are addressed to people tried by various sufferings in this temporal life."
+"He was sensitive to every human suffering, whether of the body or of the soul. And at the same time he taught, and at the heart of his teaching, there are the eight beatitudes which are addressed to people tried by various sufferings in their temporal life."
 
 We, who want to be faithful followers of Christ, must learn from Him how to treat the sick and how to love them. We have to approach them with great respect, affection, and mercy.
 
@@ -59,7 +59,7 @@ Fulton Sheen tells a story of a lady at the turn of the 20th century in Paris wh
 
 She felt that God had given her this husband; it was to bring him to the faith. She tried to engage him intellectually, to teach him aspects of the faith, but she got nowhere.
 
-After a number of years of marriage, she developed a very severe illness and she had to be in an iron lung for several years. It could be TB of the spine or something.
+After a number of years of marriage, she developed a very severe illness and she had to be in an iron lung for a number of years. It could be TB of the spine or something.
 
 One day she said to her husband, "After I die, you will convert and become a Catholic."
 
@@ -79,7 +79,7 @@ But he had this great desire to go to Lourdes, and so he went to Lourdes. Standi
 
 So great was the grace of his conversion that the thought of going back to Paris and resigning from the editorials of the communist newspaper and the chairmanship of the Communist Party didn't cost him a thought.
 
-Three months later he entered a Dominican seminary. Fulton Sheen says, "I can testify to the veracity of this story because in 1925 I did my retreat given by that Dominican priest, Fr. Félix Leseur (Fulton J. Sheen, Audio, *Marriage Problems*).
+Three months later he entered a Dominican seminary. Fulton Sheen says, "I can testify to the veracity of this story because in 1925 I did my retreat given by that Dominican priest, Fr. Félix Leseur" (Fulton J. Sheen, Audio, *Marriage Problems*).
 
 The story is on the Internet. He said, "It's not often in the course of your life that you attend a retreat where the preacher frequently says, 'As my wife Elizabeth used to say...'"
 
@@ -87,9 +87,9 @@ Our Lord gives us periods of suffering for those times to be apostolic. It can b
 
 Physical suffering, which very frequently accompanies man's life on earth, can be a means that God uses to purify our faults and imperfections, and to exercise and strengthen our virtues.
 
-It can be a unique opportunity to unite ourselves to the sufferings of Christ, who, although He was innocent, bore within Himself the punishment merited by our sins. Particularly in times of illness, we have to be close to Christ.
+It can be a unique opportunity to unite ourselves to the sufferings of Christ, who, although He was innocent, bore within Himself the punishment merited by our sins.
 
-If you ever have a child who is suffering in some way, try and tell them to offer it up. They may not come to fully appreciate those words, but they can learn an awful lot from them. In time, that can give them great consolation.
+Particularly in times of illness, we have to be close to Christ. If you ever have a child who is suffering in some way, try and tell them to offer it up. They may not come to fully appreciate those words, but they can learn an awful lot from them. In time, that can give them great consolation.
 
 In one book an author says, "'Tell me, my friend,' the beloved asked, 'will you be patient if I redouble your sufferings?' 'Yes,' replied the friend, 'as long as you redouble my capacity to love'*"* (Ramón Lull, *Book of the Friend and the Beloved*).
 
@@ -107,13 +107,13 @@ We have to ask God for help to bear our illness gracefully, whatever it may be, 
 
 In these times sometimes all the more we have to try and forget ourselves, leave ourselves a little more in the hands of God.
 
-St. Josemaría says, "The devil, who is always on the lookout, can attack from any angle. When people are ill his tactics consist in stirring up a kind of psychosis in them so as to draw them away from God and fill the atmosphere with bitterness, or destroy that treasure of merits earned (on behalf of souls everywhere) by pain, that is, when it is borne with supernatural optimism, when it is loved!
+St. Josemaría says, "The devil, who is always on the lookout, can attack from any angle. When people are ill his tactics consist in stirring up a kind of psychosis in them so as to draw them away from God and fill the atmosphere with bitterness, or destroy that treasure of merits earned (on behalf of souls everywhere) by pain---that is, when it is borne with supernatural optimism, when it is loved!
 
 "Therefore, if God wills that we are struck down by some affliction, take it as a sign that he considers us mature enough to be associated even more closely with his redeeming Cross (*ibid*.).
 
 St. Paul tells us that the person who suffers united to Our Lord 'completes' with his suffering what is lacking in the sufferings of Christ (*cf*. Col. 1:24).
 
-Fulton Sheen tells a story of how he was with Pope St. Paul VI in 1968 just after he issued the encyclical *Humanae vitae*, one of the greatest Encyclicals of the 20th century, which is all about conjugal love. Beautiful, short encyclical.
+Fulton Sheen tells a story of how he was with Pope St. Paul VI in 1968 just after he issued the encyclical *Humanae vitae*, one of the greatest Encyclicals of the twentieth century, which is all about conjugal love. Beautiful, short encyclical.
 
 But it's better known for the fact that it banned contraception. Pope Paul VI was getting a lot of flak in the international press because of this.
 
@@ -129,9 +129,7 @@ Pope John Paul said, "The sufferings of Christ created the good of the world's r
 
 "But at the same time, in the mystery of the Church as his Body, Christ has in a sense opened his own redemptive suffering to all human suffering" (John Paul II, *loc. cit.*).
 
-With Christ, sickness and illness have gained their full meaning. One of the prayers in the Divine Office says:
-
-"Grant, Lord, that your faithful may become partakers in your Passion through their sufferings in this life, so that the fruits of your Salvation may be made manifest in them" (Divine Office, *Vespers*, Friday of the Fourth Week in Lent).
+With Christ, sickness and illness have gained their full meaning. One of the prayers in the Divine Office says: "Grant, Lord, that your faithful may become partakers in your Passion through their sufferings in this life, so that the fruits of your Salvation may be made manifest in them" (Divine Office, *Vespers*, Friday of the Fourth Week in Lent).
 
 Among the errands entrusted to the apostles was the task of preaching to and healing the sick. It stands out in particular.
 
@@ -139,7 +137,7 @@ We're told in St. Luke, "He called the twelve together and he gave them power an
 
 The mission entrusted to the disciples after the Resurrection contains this promise: "And these signs," said St. Mark, "will accompany those who believe...they will lay their hands on the sick, and they will recover" (Mark 16:17-18).
 
-The disciples carried out this task, following the Master's example. The Acts of the Apostles and the Letters of the New Testament describe and lead us to meditate on the way the first Christians watched over the sick.
+The disciples carried out this task, following the Master's example. The *Acts of the Apostles* and the *Letters* of the New Testament describe and lead us to meditate on the way the first Christians watched over the sick.
 
 The Sacrament of the Anointing of the Sick, instituted by Our Lord and proclaimed by the apostle James in his Letter (James 5:14-15), makes particularly present Our Lord's concern for all those who suffer a serious illness.
 
@@ -175,21 +173,21 @@ We could ask Our Lady, Our Mother Mary, who is always very close to us.
 
 We could ask Our Lady. She might help us to have a special sensitivity for those who are sick, so that we might go out of our way to find Christ in them.
 
-St. Paul says, "In my flesh I complete what is lacking in Christ's afflictions for the sake of his body, that is, the Church." St. John Paul II, in his Apostolic Letter *Salvifici doloris* (The Salvific Value of Pain) says, "These words are to be found at the end of the long road that winds through the suffering which forms part of the history of man and which is illuminated by the Word of God.
+St. Paul says, "In my flesh I complete what is lacking in Christ's afflictions for the sake of his body, that is, the Church" (Col. 1:24).
 
-"These words," he says, "have, as it were, the value of a final discovery, which is accompanied by joy. So, St. Paul says: 'Now I rejoice in my sufferings for your sake' (Col. 1:24).
+St. John Paul II, in his Apostolic Letter *Salvifici doloris* (The Salvific Value of Pain) says, "These words \[seem\] to be found at the end of the long road that winds through the suffering which forms part of the history of man and which is illuminated by the Word of God.
 
-"The joy comes from the discovery of the meaning of suffering, and this discovery, even if it is most personally shared in by Paul of Tarsus who wrote these words, is at the same time valid for others.
+"These words," he says, "have, as it were, the value of a final discovery, which is accompanied by joy. St. Paul \[writes\]: 'Now I rejoice in my sufferings for your sake' (*ibid.*). The joy comes from the discovery of the meaning of suffering, and this discovery, even if it is most personally shared in by Paul of Tarsus who wrote these words, is at the same time valid for others.
 
 "The apostle shares his own discovery and rejoices in it because of all those whom it can help---just as it helped him---to understand the salvific meaning of suffering."
 
-"It is a universal theme," he says, "that accompanies man at every point on earth. In a certain sense, it co-exists with him in the world, and thus demands to be constantly reconsidered.
+"It is a universal theme," he says, "that accompanies man at every point on earth: in a certain sense it co-exists with him in the world, and thus demands to be constantly reconsidered.
 
 "Even though Paul, in the Letter to the Romans, wrote that 'the whole creation has been groaning in travail together until now' (Rom. 8:22), even though man knows and is close to the sufferings of the animal world, nevertheless what we express by the word 'suffering' seems to be particularly essential to the nature of man.
 
 "It is as deep as man himself, precisely because it manifests in its own way that depth which is proper to man, and in its own way surpasses it.
 
-"Suffering seems to belong to man's transcendence: it is one of those points in which man is in a certain sense 'destined' to go beyond himself and he is called to this in a mysterious way.
+"Suffering seems to belong to man's transcendence: it is one of those points in which man is in a certain sense 'destined' to go beyond himself, and he is called to this in a mysterious way. ...
 
 "It can be said," said St. John Paul, "that man in a special fashion becomes the way for the Church when suffering enters his life.
 
@@ -197,13 +195,13 @@ St. Paul says, "In my flesh I complete what is lacking in Christ's afflictions f
 
 "Assuming then that throughout his earthly life man walks in one manner or another on the long path of suffering, it is precisely on this path that the Church at all times...should meet man.
 
-"Born of the mystery of Redemption in the Cross of Christ, the Church has to try to meet man in a special way on the path of his suffering. In this meeting, man 'becomes the way for the Church', and this way is one of the most important ones.
+"Born of the mystery of Redemption in the Cross of Christ, the Church has to try to meet man in a special way on the path of his suffering. In this meeting, man 'becomes the way for the Church,' and this way is one of the most important ones. ...
 
 "Human suffering," he says, "evokes compassion; it evokes respect, and in its own way, it intimidates. For in suffering is contained the greatness of a specific mystery.
 
 "This special respect for every form of human suffering must be set at the beginning of what will be expressed here later by the deepest need of the heart, and also, by the deep imperative of faith.
 
-"About the theme of suffering these two reasons seem to draw particularly close to each other and to become one: the need of the heart commands us to overcome fear, and the imperative of faith---formulated, for example, in the words of St. Paul quoted at the beginning---provides the content, in the name of which and by virtue of which we dare to touch what appears in every man so intangible: for man, in his suffering, remains an intangible mystery" (John Paul II, Apostolic Letter*, Salvifici doloris*, Points 1-4, February 11, 1984).
+"About the theme of suffering these two reasons seem to draw particularly close to each other and to become one: the need of the heart commands us to overcome fear, and the imperative of faith---formulated, for example, in the words of St. Paul quoted at the beginning---provides the content, in the name of which and by virtue of which we dare to touch what appears in every man so intangible: for man, in his suffering, remains an intangible mystery" (John Paul II, Apostolic Letter*, Salvifici doloris*, Points 1-4).
 
 We could ask Our Lady, Health of the sick, Comfort of the afflicted, that she might help us to go deeper into this great mystery, this intangible mystery, where she can lead each one of us to find her Son, Jesus Christ---and there, to find the joy of which St. Paul speaks.
 

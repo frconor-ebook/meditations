@@ -1,22 +1,23 @@
 ---
 layout: homily
-title: "Dedication of the Basilica of St. John Lateran (2026)"
+title: "The Dedication of the Basilica of St. John Lateran (2026)"
 description: "The Basilica of St. John Lateran was one of the first churches built by Christians following the early persecutions. It was built in Rome under the..."
 reading_time: 16
 tags: ["Saints & Feast Days"]
-prev_slug: death-and-the-good-use-of-time-2nd-ed
-prev_title: "Death and the Good Use of Time (2nd Ed.)"
-next_slug: deeper-desire
-next_title: "Deeper Desire"
+prev_slug: the-decree-of-caesar-augustus-and-the-journey-to-bethlehem
+prev_title: "The Decree of Caesar Augustus and The Journey to Bethlehem"
+next_slug: the-dedication-of-the-basilica-of-st-mary-major
+next_title: "The Dedication of the Basilica of St. Mary Major"
 related: [{"slug": "the-dedication-of-the-basilica-of-st-mary-major", "title": "The Dedication of the Basilica of St. Mary Major"}, {"slug": "st-john", "title": "St. John"}, {"slug": "st-john-2025-ed", "title": "St. John (2025 Ed.)"}]
 ---
 
-
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My immaculate mother, St. Joseph, my father and Lord, my guardian angel, intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 The Basilica of St. John Lateran was one of the first churches built by Christians following the early persecutions. It was built in Rome under the Emperor Constantine and is the first Western church to have the invocation of the Savior. It was consecrated by Pope Sylvester on this day in the year 324.
 
