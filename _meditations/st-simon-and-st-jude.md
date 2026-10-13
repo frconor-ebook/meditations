@@ -89,9 +89,9 @@ They had no concern to have their personal talents stand out, particularly their
 
 Despite modest human abilities for the mission Christ entrusted to them, the apostles became the glory of God in the world.
 
-We too can rejoice in carrying out God's will, by quietly fulfilling the work and the mission the Lord has entrusted to us in our life, no matter how modest our tasks may seem.
+We too can rejoice in carrying out God's Will, by quietly fulfilling the work and the mission the Lord has entrusted to us in our life, no matter how modest our tasks may seem.
 
-St. Josemaría says in *The Forge*, "I advise you not to look for praise, even when you deserve it. It is better to pass unnoticed, and to let the most beautiful and noble aspects of our actions, of our lives, remain hidden. What a great thing it is to become little! *Deo omnis gloria!--*All the glory to God!" (J. Escrivá, *The Forge*, Point 1051).
+St. Josemaría says in *The Forge*, "I advise you not to look for praise, even when you deserve it. It is better to pass unnoticed, and to let the most beautiful and noble aspects of our actions, of our lives, remain hidden. What a great thing it is to become little! *Deo omnis gloria*!--All the glory to God!" (J. Escrivá, *The Forge*, Point 1051).
 
 In the *Furrow*, he says, "Then we will be efficacious, since when one works wholly and exclusively for the glory of God, one does everything with naturalness, like someone who is in a hurry and will not be delayed by 'making a great show of things.' In this way, one does not lose the unique and incomparable company of the Lord" (J. Escrivá, *Furrow*, Point 555).
 
@@ -151,13 +151,13 @@ The doctrine of the Twelve is the foundation of the Christian faith. It's not th
 
 St. Luke also confirms that all the events he relates are "from the ones who from the beginning were eyewitnesses and ministers of the Word" (Luke 1:2). We also know that the first Christian community "all persevered in the teaching of the apostles" (Acts 2:42).
 
-The voice of the apostles is the clear light of Our Lord's teachings. It will resound throughout time until the end of the world. Their heart and lips overflow with veneration and respect for the words of Jesus and His person.
+The voice of the apostles is the clear light of Our Lord's teachings. It will resound throughout time until the end of the world. Their heart and lips overflow with veneration and respect for the words of Jesus and His Person.
 
 Their love leads Peter and John to exclaim in the face of the Sanhedrin's threats: "We cannot but speak of what we have seen and heard" (Acts 4:20).
 
 St. Athanasius says the faith has come down to us over the generations by means of the Magisterium of the Church through the continual assistance of the Holy Spirit.
 
-Growth in our understanding of these truths continues even today. In a sense, we can compare our ever-deepening penetration of these truths with the development of a seed into a great tree. The Church, however, is always the channel through which we receive the teaching of Christ and a participation in his grace (*cf*. St. Athanasius, *Letter to Serapion*).
+Growth in our understanding of these truths continues even today. In a sense, we can compare our ever-deepening penetration of these truths with the development of a seed into a great tree. The Church, however, is always the channel through which we receive the teaching of Christ and a participation in His grace (*cf*. St. Athanasius, *Letter to Serapion*).
 
 We need to make this doctrine known through catechism and also through personal apostolate.
 
@@ -165,11 +165,11 @@ Many centuries separate us from the two apostles that we celebrate today in a sp
 
 "The Lord's light has not lessened. The first Twelve passed the light on to their disciples, as these did to theirs, and so on for centuries until the deposit of faith reached our own day. This light of faith has passed through many generations.
 
-"For us, for the flock that draws near for nourishing sustenance now, God has provided teachers, pastors, and priests. Through them, He works the marvel of our salvation and takes care of us with divine affection. From him, all the stars of the sky derive their splendor just as all the seas sing to him and all the heavens praise him" (Otto Hophan, *op. cit*.)
+"For us, for the flock that draws near for nourishing sustenance now, God has provided teachers, pastors, and priests. Through them, He works the marvel of our salvation and takes care of us with divine affection. From him, all the stars of the sky derive their splendor just as all the seas sing to him and all the heavens praise him" (O. Hophan, *op. cit*.)
 
 Like the other apostles, Simon and Jude have the good fortune to learn from the lips of the Master the doctrine that they would later teach. They shared their joys and sorrows with Him.
 
-The two learned many things in the intimacy of their conversation with the Lord. He said, "What you hear whispered, preach it on the housetops" (Matt. 10:27).
+The two learned many things in the intimacy of their conversation with the Lord: "What you hear whispered," He said, "preach it on the housetops" (Matt. 10:27).
 
 Surely, they must have absorbed every detail of each miracle. Every tear and smile of the Lord would be important since they would later on be witnesses to Him in the world. The Twelve considered intimate union with the Master essential for being an apostle.
 
@@ -185,7 +185,7 @@ They trusted Our Lord as they would trust a father and a friend. They knew Him f
 
 One writer says, "When his profound eyes rested on them and his voice resounded in their ears, they would feel inundated by light and moved by joy. They would blush when he reprimanded them. When he needed to correct them, their faces, worn by years and toil, would fall downward, like those of little children caught in wrongdoing.
 
-"Time and again, towards the end of his earthly life, they were in awe when he would speak to them of his coming Passion. They remained close to him since they wanted to learn his doctrine, but above all because they loved him" (Otto Hophan, *op. cit*.).
+"Time and again, towards the end of his earthly life, they were in awe when he would speak to them of his coming Passion. They remained close to him since they wanted to learn his doctrine, but above all because they loved him" (O. Hophan, *op. cit*.).
 
 On this feast of the apostles Simon and Jude, we can ask them to help us to know and love Our Lord more each day, and to follow Him as the center of our lives.
 
