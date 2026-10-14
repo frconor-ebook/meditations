@@ -1,7 +1,7 @@
 ---
 layout: homily
 title: "Sick and You Visited Me"
-description: "\"I was sick, and you visited me,\" said Our Lord in St. Matthew (Matt. 25:36). The Church has always recommended that the faithful engage in corporal works..."
+description: "\"I was sick and you visited me,\" said Our Lord in St. Matthew (Matt. 25:36). The Church has always recommended that the faithful engage in corporal works..."
 reading_time: 13
 tags: ["The Cross & Suffering"]
 prev_slug: shepherds-and-wise-men
@@ -19,7 +19,7 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-"I was sick, and you visited me," said Our Lord in St. Matthew (Matt. 25:36). The Church has always recommended that the faithful engage in corporal works of mercy, particularly that of visiting the sick.
+"I was sick and you visited me," said Our Lord in St. Matthew (Matt. 25:36). The Church has always recommended that the faithful engage in corporal works of mercy, particularly that of visiting the sick.
 
 It is to be hoped that our interest and charity may partially alleviate another person's suffering. We might even be able to encourage the sick person to sanctify their condition.
 
@@ -33,7 +33,7 @@ If you watch out for hospitals with a Catholic ethos, hopefully, you'll see this
 
 The level of satisfaction with people in all these countries with hospitals with a Catholic ethos tends to be much higher than in government-owned hospitals.
 
-In many places, you could say the same thing, and often it's because of that particular point. Each person is tried to be treated with the greatest dignity possible. When one is sick, one experiences "the closeness of brothers and friends."
+In many places, you could say the same thing, and often it's because of that particular point. Each person is tried to be treated with the greatest dignity possible. When one is sick, one experiences "the closeness of brothers and friends" (*ibid*.).
 
 The Evangelists make frequent reference to Christ's love and mercy for people who are in pain. The Gospels are full of miraculous cures.
 
@@ -53,7 +53,7 @@ We could try to take a closer look at the attention we give to those who suffer 
 
 In *The Way*, Point 419, St. Josemaría says, "Children. The Sick. ---As you write these words, don't you feel tempted to write them with capitals? The reason is that in little children and the sick, a soul in love sees Him."
 
-Mercy is one of the fruits of charity. In a certain sense, mercy is "a certain compassion for the misery of one's neighbor," says St. Augustine, "born in one's heart, and by which, if we can, we try to help him" (St. Augustine, *The City of God*).
+Mercy is one of the fruits of charity. In a certain sense, mercy is "a certain compassion for the misery of one's neighbor," says St. Augustine, "born in one's heart, and by which, if we can, we try to help him" (Augustine, *The City of God*).
 
 We try to do in those circumstances what Christ would do. So the very essence of mercy is to pour oneself out, to expend oneself for the one who suffers pain or need, and to take on another's pain or need as one's own, in order to remedy them as best one can.
 
@@ -73,27 +73,29 @@ We can do an awful lot of good by being merciful to those who are suffering. A l
 
 Our Lord enlarges our heart and makes us understand those words He once said: "It is more blessed to give than to receive" (Acts 20:35). Our Lord is generous beyond our wildest dreams.
 
-It can be very formative to bring young children to visit sick children, bring them in contact with suffering in that way, and hopefully open their eyes to see the blessings that God has given to them with their health, with their eyesight, with their hearing, with their limbs, with all those things that daily, they take for granted.
+It can be very formative to bring young children to visit sick children, bring them in contact with suffering in that way, and hopefully open their eyes to see the blessings that God has given to them with their health, with their eyesight, with their hearing, with their limbs, with all those things that on a daily basis they take for granted.
 
-St. Augustine says that mercy is "the showpiece of the soul" (St. Augustine, *Catena Aurea*) since it makes it appear good and beautiful.
+St. Augustine says that mercy is "the showpiece of the soul" (Augustine, *Catena Aurea*) since it makes it appear good and beautiful.
 
 It "covers a multitude of sins," says St. Peter (*cf*. 1 Pet. 4:8). "He who begins to suffer over the miseries of others," says St. Augustine, "begins to abandon sin."
 
 For this reason, when we go to visit the sick, it's good to bring along a friend. This should be a natural part of our apostolate.
 
-The soul that partakes of another's sufferings is rewarded with a richer understanding of the love of God. St. Augustine says by loving one's neighbor, we purify the sight of our eyes in such a way as to be able to see God (St. Augustine, *Commentary on St. John's Gospel*).
+The soul that partakes of another's sufferings is rewarded with a richer understanding of the love of God. St. Augustine says by loving one's neighbor, we purify the sight of our eyes in such a way as to be able to see God (Augustine, *Commentary on St. John's Gospel*).
 
 Our vision is sharpened in the perception of divine goods. Egoism hardens the heart, while the exercise of charity enables us to rejoice in God. And so, charity is a foretaste of eternal life (1 John 3:14).
 
-St. Thomas says, "Eternal life may be understood as an uninterrupted act of charity" (*cf*. St. Thomas Aquinas, *Summa Theologiae*, I, Question 114).
+St. Thomas says, "Eternal life may be understood as an uninterrupted act of charity" (*cf*. Thomas Aquinas, *Summa Theologiae*, I, Q114).
 
 What better reward could Our Lord give to us than the gift of Himself? What better prize than for Christ to increase our ability to love others?
 
-In *The Way of the Cross*, St. Josemaría says, "No matter how much we love, we will never love enough. The human heart is endowed with an enormous coefficient of expansion. When it loves, it opens out in a crescendo of affection that overcomes all barriers. If you love Our Lord, there will not be a single creature that does not find a place in your heart" (Josemaría Escrivá, *The Way of the Cross*, Eighth Station).
+In *The Way of the Cross*, St. Josemaría says, "No matter how much \[you may\] love, \[you\] will never love enough. The human heart is endowed with an enormous coefficient of expansion. When it loves, it opens out in a crescendo of affection that overcomes all barriers. If you love Our Lord, there will not be a single creature that does not find a place in your heart" (Josemaría Escrivá, *The Way of the Cross*, Eighth Station).
 
 In our modern world, we can't help but notice that there is a growing number of people who require the assistance of Christians: the elderly, the sick, the depressed, the homeless.
 
-"There are many people," says one spiritual writer, "who suffer in their own homes the difficulties of sickness or the disgrace of poverty. But there may be fewer of these people than there once were. Today we have many nursing homes and residences for old people. There are many organizations and programs dedicated to people in need.
+"There are many people," says one spiritual writer, "who suffer in their own homes the difficulties of sickness or the disgrace of poverty, though there may be fewer of these people than there once were.
+
+"Today we have many nursing homes and residences for old people. There are many organizations and programs dedicated to people in need.
 
 "Yet despite the best of intentions, these institutions often harbor multitudes of lonely individuals who live in great spiritual want. Deprived of the affection of friends and relatives, these sorry people may find themselves completely abandoned" (Jose Orlandis, *The Eight Beatitudes*).
 
@@ -101,11 +103,11 @@ When we provide companionship to those who suffer in this way, we bring upon our
 
 The Liturgy prays: "Bring it about, that we might know how to discover you in all of our brothers and sisters, above all, in those who are poor and in those who are suffering" (Liturgy of the Hours, *Morning Prayer*).
 
-Throughout Scripture there is an urgency on God's part to see that men also have stirrings of sympathy and deep-seated feelings of mercy, that they too have this "compassion for another's misery which moves us to remedy it, if at all possible," says St. Augustine (St. Augustine, *The City of God*).
+Throughout Scripture there is an urgency on God's part to see that men also have stirrings of sympathy and deep-seated feelings of mercy, that they too have this "compassion for another's misery which moves us to remedy it, if at all possible," says St. Augustine (Augustine, *The City of God*).
 
-Our Lord promises us happiness if we have a merciful heart towards others, and gives assurance that we will obtain mercy from God in the same measure as we ourselves show it to our fellow men.
+Our Lord promises us happiness if we have a merciful heart towards others, and gives us the assurance that we will obtain mercy from God in the same measure as we ourselves show it to our fellow men.
 
-The scope for mercy is as great as the extent of the human suffering that needs to be remedied. And, since mankind is subject to misery and calamity in the physical, intellectual, and moral order, the possible works of mercy are innumerable---as many as men have needs---though traditionally, by way of example, fourteen 'works of mercy' have been cited, since in them this virtue is capable of being exercised in a special way.
+The scope for mercy is as great as the extent of the human suffering that needs to be remedied. And since mankind is subject to misery and calamity in the physical, intellectual, and moral order, the possible works of mercy are innumerable---as many as men have needs---though traditionally, by way of example, fourteen 'works of mercy' have been cited, since in them this virtue is capable of being exercised in a special way.
 
 Our attitude of compassion and mercy must, in the first place, be shown towards those who are near us---our family, our friends, our close associates---to those whom God has placed at our side, and then to those beyond who are most in need.
 
@@ -133,7 +135,7 @@ In this way, we will obtain mercy ourselves, and perhaps also merit it for other
 
 We can call down divine mercy on ourselves who are so much in need of it. We can ask for it to be extended to our generation through Mary, Mother of mercy, our life, our sweetness, and our hope.
 
-Close by the side of those who suffer, we'll always find Our Lady, Comforter of the Afflicted. She will make our hearts more sensitive to the needs of others. Then we will never ignore sick people or keep our distance from anyone who is suffering in body or soul.
+Close by the side of those who suffer we will always find Our Lady, Comforter of the Afflicted. She will make our hearts more sensitive to the needs of others. Then we will never ignore sick people or keep our distance from anyone who is suffering in body or soul.
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 

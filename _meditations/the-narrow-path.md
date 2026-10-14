@@ -27,25 +27,25 @@ On other occasions, Our Lord had said, "If any man would come after me, let him 
 
 Life is a road that ends in God. It's a short road. It's important that when we reach our journey's end, the door be opened and that we may enter.
 
-*Gaudium et spes* of the Second Vatican Council says, "We press onwards on our journey towards the consummation of history. ... The Lord himself said: 'Behold, I'm coming soon, bringing my recompense, to repay each one for what he has done'" (Rev. 22:12).
+*Gaudium et spes* of the Second Vatican Council says, "We press onwards on our journey towards the consummation of history. ... The Lord himself said: 'Behold, I'm coming soon, bringing my recompense, to repay each one for what he has done' (Rev. 22:12)" (*Gaudium et spes*, Point 45).
 
 There are two roads, two attitudes to life.
 
-One is to look for the most comfortable and agreeable way, to pamper the body and avoid sacrifice and penance. The other is to seek the will of God, even though it takes an effort to guard the senses and to keep the body in check.
+One is to look for the most comfortable and agreeable way, to pamper the body and avoid sacrifice and penance; the other is to seek the will of God even though it takes an effort to guard the senses and to keep the body in check.
 
 It is either to live like pilgrims who, since they are only passing through, have what they strictly need and do not attach much importance to material things, or to be chained down by comfort-seeking, by pleasure, and by material goods, which are seen as ends in themselves and not simply as means.
 
 One of these two pathways leads to heaven, the other "to destruction, and those who go that way are many" (Matt. 7:13).
 
-We have to ask ourselves frequently, which of these paths am I following? Where is it that I'm heading? Are we pressing on---straight for heaven, in spite of our defects and weaknesses? Are we following the narrow road? Do we practice temperance and mortification constantly, offering up small but nonetheless real sacrifices?
+We have to ask ourselves frequently: Which of these paths am I following? Where is it that I'm heading? Are we pressing on---straight for heaven, in spite of our defects and weaknesses? Are we following the narrow road? Do we practice temperance and mortification constantly, offering up small but nonetheless real sacrifices?
 
-St. Josemaría used to recommend having some little sacrifice in every meal, some small thing that we offer up.
+St. Josemaría used to recommend having some little sacrifice in every meal, some small thing that we offer up (*cf*. Josemaría Escrivá, *The Way*, Point 681).
 
 What is really the underlying objective of all that we do? Do we want something in theory and in principle?
 
 One writer has said, "To want something in theory and principle does not, however, mean much. We learn more by looking at actual facts. A student bent on becoming a lawyer probably wouldn't enroll in the Faculty of Languages. ... Were he to enroll in that Faculty, he would be showing by the very fact of his choosing it that the attainment of his professional ambitions will depend on the study of linguistics rather than the law, in spite of what he may say to the contrary.
 
-"This is because when we want something, we have to choose the requisite means to obtain it. ... If a soldier were to say that he wished to go to his unit's headquarters, but quite deliberately took the road leading to the enemy lines, he would really be wanting to go where he professedly did not want to go" (Federico Suarez, *The Narrow Gate*).
+"This is because when we want something, we have to choose the requisite means to obtain it. ... If a soldier were to say that he wished to go to his unit's headquarters, but quite deliberately took the road leading to the enemy lines, he would really be wanting to go where he professedly did not want to go" (*cf*. Federico Suarez, *The Narrow Gate*).
 
 And if the reason offered is that he has chosen that road because it's more convenient, then what he actually wants is the road itself. He doesn't care in the least where it leads him.
 
@@ -57,13 +57,13 @@ We show a preference for the broad road, the least uncomfortable way through lif
 
 The path Our Lord points out to us is a joyful one. Yet at the same time it's the path of the cross and sacrifice, of temperance and mortification. "If any man would come after me, let him deny himself, and take up his cross daily, and follow me" (Luke 9:23). "Unless a grain of wheat falls into the ground and dies, it remains alone; but if it dies, it brings forth much fruit" (John 12:24).
 
-We need to practice the virtue of temperance in this life if we want to enter into the next life. The virtue of temperance is one of the cardinal virtues---hinge virtues---by which we control ourselves, our appetites, and our passions. Many other virtues are part of this virtue: purity, modesty, chastity.
+We need to practice the virtue of temperance in this life if we want to enter into the next life. The virtue of temperance is one of the cardinal virtues---hinge virtues---by which we control ourselves, our appetites, our passions. Many other virtues are part of this virtue: purity, modesty, chastity.
 
 We Christians have to live in a spirit of detachment in our attitude to the things we possess and use. We precisely need to control our desire to have things. We shouldn't be unduly concerned about material things. We shouldn't seek to acquire or hold on to things that are superfluous to our needs.
 
 It's a very good practice to go through your house occasionally, your own personal drawers and cabinets, and get rid of things that you haven't used for some time. I know someone who lives by a rule of life that says, 'If I can't think of a reason to use this particular thing in the next five minutes, then probably I won't think of a reason to use it in the next twelve months, so I'd better get rid of it.'
 
-Where necessary, a sign of our rectitude of intention will be the way we live mortification in this area. We can't be like those people who, the Second Vatican Council says, "seem to be dominated by economics; almost all of their personal and social lives are permeated by a kind of economic mentality" (Vatican II, *Gaudium et spes*, Point 63).
+Where necessary, a sign of our rectitude of intention will be the way we live mortification in this area. We can't be like those people who, the Second Vatican Council says, "seem to be dominated by economics; almost all of their personal and social lives are permeated by a kind of economic mentality" (*cf*. Vatican II, *Gaudium et spes*, Point 63, December 7, 1965).
 
 Their objective is the possession of material goods, thinking that with them they can fulfill their longing for happiness. They have a frenzied urge to obtain them, and forget all too easily that our life has to be a road that leads to God. It's nothing more than that---a road leading to God.
 
@@ -75,7 +75,7 @@ Along the broad road of ease, comfort, and avoidance of mortification, the grace
 
 Sobriety, however, makes it easier for us to approach God. St. Peter of Alcantara says, "With a pampered and satiated body, the soul is not free to fly high" (Peter of Alcantara, *Treatise on Prayer and Meditation*).
 
-We must press on towards God, and our only concern need be that we are on the right road. Are we really on the good road, that of sacrifice and penance, joy and dedication to the service of others? We can ask ourselves, do we make a serious effort to overcome the desires for ease and comfort that may constantly allure us?
+We must press on towards God, and our only concern need be that we are on the right road. Are we really on the good road, that of sacrifice and penance, joy and dedication to the service of others? We can ask ourselves: do we make a serious effort to overcome the desires for ease and comfort that may constantly allure us?
 
 Temperance is a very effective apostolic weapon when dealing with an all too frequently materialistic environment. It's one of the most attractive characteristics of Christian life. Often, it's one of the ways that other people see the authenticity of our dedication and of our living of our Christian life.
 
@@ -83,13 +83,13 @@ Wherever we are, we must make the effort to give the good example the practice o
 
 A temperate life is a life of mortification and joy. We will often find opportunities to practice mortification in the little things that allow our reason to control our bodies and enable the soul to understand the things related to God.
 
-Interior mortification guides our imagination and memory by keeping away useless or harmful thoughts and memories. It's also practiced in the control of the tongue, by means of which we steer clear of useless and frivolous conversations, gossip, for example.
+Interior mortification guides our imagination and memory by keeping away useless or harmful thoughts and memories. It's also practiced in the control of the tongue, by means of which we steer clear of useless and frivolous conversations---gossip, for example.
 
 To follow along the narrow path of temperance, we must also practice mortification of the external senses---sight, hearing, taste. In *The Way*, Point 196, St. Josemaría says, "One has to give the body a little less than its due. Otherwise, it turns traitor."
 
 That can be a very useful little rule of thumb: to give our body a little less than it demands. We allow ourselves a little less than we would like in comfort, in indulging our whims.
 
-There are frequent opportunities for mortification in ordinary, everyday life, he continues, "in hard, constant, orderly work, knowing that the spirit of sacrifice is best lived in finishing off the work we have started; in punctuality, filling the day with heroic minutes; in taking care of the things we have or use; in showing our zeal for service by our fulfilling to the last detail the smallest obligations; in the specific points of charity by which we make the path to sanctity attractive for others; at times a smile can be the best sign of a spirit of penance\..." (Josemaría Escrivá, *Letter*, March 24, 1930).
+There are frequent opportunities for mortification in ordinary, everyday life, he continues, "in hard, constant, orderly work, knowing that the spirit of sacrifice is best lived in finishing off the work we have started; in punctuality, filling the day with heroic minutes; in taking care of the things we have or use; in showing our zeal for service by our fulfilling to the last detail the smallest obligations; in the specific points of charity by which we make the path to sanctity attractive for others; at times a smile can be the best sign of a spirit of penance\..." (J. Escrivá, *Letter*, March 24, 1930).
 
 The narrow path passes through all the activities of a Christian, from our attitude to home comforts to the way we use the material and implements we work with or the way we relax.
 
@@ -103,7 +103,7 @@ The cross can be carried in different ways. There's the cross carried furiously 
 
 It's the cross of those in this world who seek comfort and material well-being, who will put up with neither suffering nor setbacks, for they have no wish to understand the supernatural meaning of pain. It's a cross which does not redeem, the cross that was carried by one of the thieves on Calvary.
 
-On the road to Calvary, there's also a second cross, carried this time with recognition, perhaps even with some dignity, with an acceptance of the situation simply because there's no alternative to it.
+On the road to Calvary there's also a second cross, carried this time with recognition, perhaps even with some dignity, with an acceptance of the situation simply because there's no alternative to it.
 
 This is the one carried by the other thief, the good thief. Little by little he realizes that close by him is the sovereign figure of Christ, who will radically change the final moments of his life on earth, and for eternity; he will be the one converted into the good thief.
 
@@ -119,7 +119,9 @@ Simon of Cyrene got to know Jesus through the Cross. Our Lord would reward him f
 
 We instinctively, as well as with reason, feel that Simon of Cyrene would later be a faithful disciple, held in esteem by the first Christian community in Jerusalem.
 
-We are told in *The Way of the Cross*, "And it all started...with the Cross. 'I went to those who were not looking for me; I was found by those who sought me not' (Isa. 65:1). At times, the Cross appears without our looking for it: it is Christ who is seeking us out. And if by chance, before this unexpected Cross, which, perhaps, is therefore more difficult to understand, your heart were to show repugnance\...don't give it consolations. And, filled with a noble compassion, when it asks for them, say to it slowly, as one speaking in confidence: 'Heart: heart on the Cross! Heart on the Cross!'" (J. Escrivá, *ibid*.).
+We are told in *The Way of the Cross*, "And it all started...with the Cross. 'I went to those who were not looking for me; I was found by those who sought me not' (Isa. 65:1). At times the Cross appears without our looking for it: it is Christ who is seeking us out.
+
+"And if by chance, before this unexpected Cross, which, perhaps, is therefore more difficult to understand, your heart were to show repugnance\...don't give it consolations. And, filled with a noble compassion, when it asks for them, say to it slowly, as one speaking in confidence: 'Heart: heart on the Cross! Heart on the Cross!'" (J. Escrivá, *ibid*.).
 
 We can ask ourselves in our prayer today how we have borne our difficulties and sorrows. It's an occasion, too, to examine the question of whether these have brought us closer to Christ, if we are co-redeeming with Him, if we're making use of these contradictions to atone for our faults.
 
