@@ -5,9 +5,9 @@ description: "\"Now as they went on their way, they entered a village, and a wom
 reading_time: 18
 prev_slug: study
 prev_title: "Study"
-next_slug: temperance
-next_title: "Temperance"
-related: [{"slug": "doctrinal-formation", "title": "Doctrinal Formation"}, {"slug": "on-formation", "title": "On Formation"}]
+next_slug: taking-the-bread
+next_title: "Taking the Bread"
+related: [{"slug": "doctrinal-formation", "title": "Doctrinal Formation"}, {"slug": "on-formation", "title": "On Formation"}, {"slug": "taking-the-bread", "title": "Taking the Bread"}]
 ---
 
 By Fr. Conor Donnelly

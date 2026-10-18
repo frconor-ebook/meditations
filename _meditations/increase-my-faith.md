@@ -6,8 +6,8 @@ reading_time: 19
 tags: ["Virtues & Struggle"]
 prev_slug: in-the-heart-of-joseph-and-mary
 prev_title: "In the Heart of Joseph and Mary"
-next_slug: infectious-faith
-next_title: "Infectious Faith"
+next_slug: inestimable-gift
+next_title: "Inestimable Gift"
 related: [{"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "growing-in-faith", "title": "Growing in Faith"}, {"slug": "infectious-faith", "title": "Infectious Faith"}]
 ---
 

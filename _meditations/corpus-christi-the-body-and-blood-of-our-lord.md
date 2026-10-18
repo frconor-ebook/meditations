@@ -8,7 +8,7 @@ prev_slug: corpus-christi-2026
 prev_title: "Corpus Christi (2026)"
 next_slug: correspondence-to-grace
 next_title: "Correspondence to Grace"
-related: [{"slug": "corpus-christi-2026", "title": "Corpus Christi (2026)"}, {"slug": "the-precious-blood-of-christ", "title": "The Precious Blood of Christ"}, {"slug": "all-you-peoples-bless-the-lord", "title": "All You Peoples, Bless the Lord"}]
+related: [{"slug": "corpus-christi-2026", "title": "Corpus Christi (2026)"}, {"slug": "feast-of-corpus-christi", "title": "Feast of Corpus Christi"}, {"slug": "the-precious-blood-of-christ", "title": "The Precious Blood of Christ"}]
 ---
 
 By Fr. Conor Donnelly
