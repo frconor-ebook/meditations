@@ -8,7 +8,7 @@ prev_slug: invoking-our-savior
 prev_title: "Invoking Our Savior"
 next_slug: jesus-christ-the-eternal-high-priest
 next_title: "Jesus Christ, The Eternal High Priest"
-related: [{"slug": "making-a-more-just-world", "title": "Making A More Just World"}, {"slug": "corpus-christi-2026", "title": "Corpus Christi (2026)"}, {"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}]
+related: [{"slug": "making-a-more-just-world", "title": "Making A More Just World"}, {"slug": "corpus-christi-2026", "title": "Corpus Christi (2026)"}, {"slug": "corpus-christi-2027", "title": "Corpus Christi (2027)"}]
 ---
 
 By Fr. Conor Donnelly

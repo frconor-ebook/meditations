@@ -4,11 +4,11 @@ title: "Corpus Christi (The Body and Blood of Our Lord)"
 description: "\"Stay with us, Lord, for it is almost evening.\" \"This was the invitation of the two disciples on their way to Emmaus on the evening of Easter Sunday..."
 reading_time: 19
 tags: ["Eucharist & the Mass"]
-prev_slug: corpus-christi-2026
-prev_title: "Corpus Christi (2026)"
+prev_slug: corpus-christi-2027
+prev_title: "Corpus Christi (2027)"
 next_slug: correspondence-to-grace
 next_title: "Correspondence to Grace"
-related: [{"slug": "corpus-christi-2026", "title": "Corpus Christi (2026)"}, {"slug": "feast-of-corpus-christi", "title": "Feast of Corpus Christi"}, {"slug": "the-precious-blood-of-christ", "title": "The Precious Blood of Christ"}]
+related: [{"slug": "corpus-christi-2026", "title": "Corpus Christi (2026)"}, {"slug": "corpus-christi-2027", "title": "Corpus Christi (2027)"}, {"slug": "the-precious-blood-of-christ", "title": "The Precious Blood of Christ"}]
 ---
 
 By Fr. Conor Donnelly

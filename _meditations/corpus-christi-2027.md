@@ -1,14 +1,14 @@
 ---
 layout: homily
-title: "Feast of Corpus Christi"
+title: "Corpus Christi (2027)"
 description: "\"I have longed and longed to eat this Passover with you before I suffer\" (Luke 22:15). In the mass we express our faith in the real presence of Christ..."
 reading_time: 13
 tags: ["Eucharist & the Mass"]
-prev_slug: fathers-day
-prev_title: "Father\u2019s Day"
-next_slug: fidelity-in-marriage
-next_title: "Fidelity in Marriage"
-related: [{"slug": "corpus-christi-2026", "title": "Corpus Christi (2026)"}, {"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}, {"slug": "st-josemaria-escriva-feast-june-26th", "title": "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"}]
+prev_slug: corpus-christi-2026
+prev_title: "Corpus Christi (2026)"
+next_slug: corpus-christi-the-body-and-blood-of-our-lord
+next_title: "Corpus Christi (The Body and Blood of Our Lord)"
+related: [{"slug": "corpus-christi-2026", "title": "Corpus Christi (2026)"}, {"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}, {"slug": "daily-mass", "title": "Daily Mass"}]
 ---
 
 
