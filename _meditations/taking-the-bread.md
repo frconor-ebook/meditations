@@ -1,7 +1,7 @@
 ---
 layout: homily
 title: "Taking the Bread"
-description: "In his very first encyclical, Redemptor Hominis, John Paul II said: \"The Church lives by the Eucharist, by the fullness of this sacrament, the stupendous..."
+description: "In his very first encyclical, Redemptor Hominis, John Paul II said: \"The Church lives by the Eucharist, by the fullness of this Sacrament, the stupendous..."
 reading_time: 16
 prev_slug: taking-advantage-of-the-means-of-formation
 prev_title: "Taking Advantage of the Means of Formation"
@@ -19,19 +19,19 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-In his very first encyclical, *Redemptor Hominis*, John Paul II said: "The Church lives by the Eucharist, by the fullness of this sacrament, the stupendous content and meaning of which have often been expressed in the Church's Magisterium from the distant times down to our own days.
+In his very first encyclical, *Redemptor Hominis*, John Paul II said: "The Church lives by the Eucharist, by the fullness of this Sacrament, the stupendous content and meaning of which have often been expressed in the Church's Magisterium from the distant times down to our own days.
 
-"However, we can say with certainty that, although this teaching sustained by the acuteness of theologians, by men of deep faith and prayer, and by ascetics and mystics in complete fidelity to the Eucharistic mystery, it still reaches no more than the threshold, since, it is incapable of grasping and translating into words what the Eucharist is in all its fullness, what is expressed by it, and what is actuated by it. Indeed the Eucharist is the ineffable Sacrament" (John Paul II, Encyclical, *Redemptor Hominis*, Point 20, March 4, 1979.
+"However, we can say with certainty that, although this teaching sustained by the acuteness of theologians, by men of deep faith and prayer, and by ascetics and mystics in complete fidelity to the Eucharistic mystery, it still reaches no more than the threshold, since it is incapable of grasping and translating into words what the Eucharist is in all its fullness, what is expressed by it, and what is actuated by it. Indeed the Eucharist is the ineffable Sacrament" (John Paul II, Encyclical, *Redemptor Hominis*, Point 20, March 4, 1979.
 
 In his 1980 letter, *Dominicae Cenae*--"The Lord's Supper"--John Paul comments on the relationship between the Eucharist and the priest.
 
-"The Eucharist," he says, "is the principal and central *raison d'être* of the sacrament of the priesthood. ... Through our ordination...we are united in a singular and exceptional way to the Eucharist" (John Paul II, *Letter*, *Dominicae Cenae*, Point 2, February 24, 1980).
+"The Eucharist," he says, "is the principal and central *raison d'être* of the Sacrament of the priesthood. ... Through our ordination...we are united in a singular and exceptional way to the Eucharist" (John Paul II, *Letter*, *Dominicae Cenae*, Point 2, February 24, 1980).
 
-He then describes how the Eucharistic devotion of the priest influences the laity. "In a certain way," he says, "we derive from it and exist for it. We are also, and in a special way, responsible for it."
+He then describes how the Eucharistic devotion of the priest influences the laity. "In a certain way," he says, "we derive from it and exist for it. We are also, \[and in a special\] way, responsible for it."
 
 "Our Eucharistic worship," he says, "both in the celebration of Mass and in our devotion to the Blessed Sacrament, is like a life-giving current that links our ministerial or hierarchical priesthood to the common priesthood of the faithful, and presents it in its vertical dimension with its central value" (*ibid*.).
 
-"The worship of the Eucharist," he says, "is directed toward God the Father in the Holy Spirit through Jesus Christ...andpermeates the celebration of the Eucharistic Liturgy. But," he adds, "it must fill our churches also outside the timetable of Masses" (*ibid*., Point 3).
+"The worship of the Eucharist," he says, "is directed toward God the Father in the Holy Spirit through Jesus Christ...and permeates the celebration of the Eucharistic Liturgy. But," he adds, "it must fill our churches also outside the timetable of Masses" (*ibid*., Point 3).
 
 The Holy Father's statement that Eucharistic piety should fill our churches during the day shows his love and appreciation of the Real Presence.
 
@@ -43,7 +43,7 @@ John Paul II carried the monstrance every year in that Corpus Christi procession
 
 To the surprise of many, tens of thousands of people of Rome came out each year to express their faith in the Real Presence of Christ in the Eucharist.
 
-When John Paul II speaks to priests about worship of the Blessed Sacrament, he refers to personal prayer before the tabernacle, hours of adoration, periods of exposition, the Forty Hours' devotion, Benediction of the Blessed Sacrament, and Corpus Christi processions. He makes special mention to the feast of Corpus Christi, which had a particular significance for him during his years as Archbishop of Kraków.
+When John Paul II speaks to priests about worship of the Blessed Sacrament, he refers to personal prayer before the tabernacle, hours of adoration, periods of exposition, the Forty Hours' devotion, Benediction of the Blessed Sacrament, and Corpus Christi processions. He gives special mention to the feast of Corpus Christi, which had a particular significance for him during his years as Archbishop of Kraków.
 
 In order to get permission to hold the procession he had to fight many battles with the communist regime there. And yet he persevered successfully, as he considered it an exercise of basic human rights that people would be able to express their religious convictions publicly.
 
@@ -95,11 +95,11 @@ He reminds priests to prepare well for the celebration of Mass, using the words 
 
 Priests, he said, should take particular care of the way they handle the Body and Blood of the Lord, the way they distribute Holy Communion, and the way they perform the purifications.
 
-The priest's hands, by *Ordination*, become the direct instruments of Christ. Thus they have the primary responsibility for the sacred species.
+The priest's hands, by Ordination, become the direct instruments of Christ. Thus they have the primary responsibility for the sacred species.
 
 He encourages priests to be faithful to the liturgical indications about saying Mass, about the use of approved liturgical texts, vestments, and so forth.
 
-While the practice of receiving Holy Communion in the hand has been approved by the Holy See, the Holy Father draws attention to instances "of a deplorable lack of respect towards the Eucharistic species" that have been reported, cases which he says "are imputable not only to the individuals concerned, but also to the pastors of the Church for lack of necessary vigilance regarding the formation of people in relation to the Eucharist" (*cf*. *op.* *cit*., Point 11).
+While the practice of receiving Holy Communion in the hand has been approved by the Holy See, the Holy Father draws attention to instances "of a deplorable lack of respect towards the Eucharistic species" that have been reported, cases which he says "are imputable not only to the individuals concerned, but also to the pastors of the Church who have lacked the necessary vigilance regarding the formation of people in relation to the Eucharist" (*cf*. *op.* *cit*., Point 11).
 
 "As I bring these considerations to an end," he said in one of his documents, "I would like to ask forgiveness---in my own name, and in the name of all of you, venerable and dear brothers in the episcopate---for everything which, for whatever reason, through whatever human weakness, impatience, or negligence, and also through the at times partial, one sided, and erroneous application of the directives of the Second Vatican Council, may have caused scandal and disturbance concerning the interpretation of the doctrine and the veneration due to this great Sacrament.
 
@@ -121,15 +121,17 @@ The Curé of Ars himself tells a story: "When I first came to Ars there was a ma
 
 St. John Mary Vianney says that we will find great joy and happiness in spending some time before the Blessed Sacrament to adore Christ and "to keep company with so great a friend."
 
-Jesus waits for us continually in the tabernacle, the living heart of churches and oratories. There he is exposed to the capricious love of men and women, their capacity to forget, their indifference, and also their contempt and profanation.
+Jesus waits for us continually in the tabernacle, the living heart of churches and oratories. There He is exposed to the capricious love of men and women, their capacity to forget, their indifference, and also their contempt and profanation.
 
-Before this self-surrender of the Son of God, pained because of the brusqueness of our dealings with Him and because of our indifference on so many occasions, we should repent of our sins, confess our belief in His humanity and divinity, and say with the Good Thief: 'Remember me when you come into your kingdom' (Luke 23:42). Like the Good Thief, we ask for pardon of our sins and infidelities and for the sins of all humanity, especially the offenses against Our Lord in the Eucharist.
+Before this self-surrender of the Son of God, pained because of the brusqueness of our dealings with Him and because of our indifference on so many occasions, we should repent of our sins, confess our belief in His humanity and divinity, and say with the Good Thief: "Remember me when you come into your kingdom" (Luke 23:42). Like the Good Thief, we ask for pardon of our sins and infidelities and for the sins of all humanity, especially the offenses against Our Lord in the Eucharist.
 
-Jesus is hidden there, waiting for us to come to \[visit\] Him, and to make our requests. "He wishes to see us near him, to tell us that he loves us, and wishes to load us with good things" (J. Vianney, *ibid*.).
+Jesus is hidden there, waiting for us to come to Him, and to make our requests. "He wishes to see us near him, to tell us that he loves us, and wishes to load us with good things" (J. Vianney, *ibid*.).
 
 He remains in the Eucharist to console us and to offer us the rest that comes from His most lovable company.
 
-John Paul II says, "The Eucharist is a priceless treasure: by not only celebrating it but also by praying before it outside of Mass we are enabled to make contact with the very wellspring of grace. A Christian community desirous of contemplating the face of Christ...cannot fail...to develop this aspect of Eucharistic worship, which prolongs and increases the fruits of our Communion in the Body and Blood of the Lord" (John Paul II, *Ecclesia de Eucharistia*, Point 25, April 17, 2003).
+John Paul II says, "The Eucharist is a priceless treasure: by not only celebrating it but also by praying before it outside of Mass we are enabled to make contact with the very wellspring of grace.
+
+"A Christian community desirous of contemplating the face of Christ...cannot fail...to develop this aspect of Eucharistic worship, which prolongs and increases the fruits of our communion in the Body and Blood of the Lord" (John Paul II, *Ecclesia de Eucharistia*, Point 25, April 17, 2003).
 
 The saints are those who had an exceptional ability to penetrate the mystery of the Eucharist. St. Teresa Benedicta of the Cross, otherwise known as Edith Stein, wrote in one of her letters: "The Lord is present in the tabernacle in his Divinity and in hisHumanity. He is not there for himself, but for us: for it is his joy to be with us.
 
@@ -145,9 +147,9 @@ St. Paul VI says, "Anyone, therefore, who bestows a singular devotion on the Euc
 
 "Nothing on this earth holds more delight," he says, "nothing is more effective for covering the road to sanctity" (Paul VI, *Mysterium Fidei*, Point 67).
 
-And Pope Benedict, addressing pilgrims of a World Youth Day in Madrid, said, "Dear young people..., let us raise our minds and hearts to Jesus Christ, the Lord of our lives and of the future. May he pour out his Spirit upon us and upon the whole Church, that we may be a beacon of freedom, reconciliation, and peace for the whole world" (Benedict XVI, *Homily*, August 20, 2011).
+Pope Benedict, addressing pilgrims of a World Youth Day in Madrid, said, "Dear young people..., let us raise our minds and hearts to Jesus Christ, the Lord of our lives and of the future. May he pour out his Spirit upon us and upon the whole Church, that we may be a beacon of freedom, reconciliation, and peace for the whole world" (Benedict XVI, *Homily*, August 20, 2011).
 
-John Paul II, in one of his writings, likes to imagine what the Communion of Our Lady must have been when she received Holy Communion from the hands of St. John.
+John Paul II, in one of his writings, likes to imagine what the Communions of Our Lady must have been when she received Holy Communion from the hands of St. John.
 
 Mary, may our Communions be something similar, as we seek to be very aware of who we are receiving and cherish those moments in a very special way.
 
@@ -157,4 +159,4 @@ Mary, may our Communions be something similar, as we seek to be very aware of wh
 
 *EW*
 
-Based on *The Most Holy Eucharist: Our Passover and Our Living Bread*, "The Teachings of John Paul II on the Eucharist" by Fr. Thomas J. McGovern (Sophia Institute Press, 2013).
+Based on *The Most Holy Eucharist: Our Passover and Our Living Bread*, "The Teachings of John Paul II on the Eucharist" and "Adoration of the Eucharist" by Fr. Thomas J. McGovern (Sophia Institute Press, 2013).
