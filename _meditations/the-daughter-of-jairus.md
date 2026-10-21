@@ -6,8 +6,8 @@ reading_time: 16
 tags: ["Gospel Scenes & Miracles"]
 prev_slug: the-curing-of-the-possessed-man-gerasenes
 prev_title: "The Curing of the Possessed Man (Gerasenes)"
-next_slug: the-decree-of-caesar-augustus-and-the-journey-to-bethlehem
-next_title: "The Decree of Caesar Augustus and The Journey to Bethlehem"
+next_slug: the-day-of-joy
+next_title: "The Day of Joy"
 related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
 ---
 

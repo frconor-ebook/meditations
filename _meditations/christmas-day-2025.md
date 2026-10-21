@@ -6,8 +6,8 @@ reading_time: 20
 tags: ["Advent & Christmas"]
 prev_slug: christmas
 prev_title: "Christmas"
-next_slug: clean-of-heart
-next_title: "Clean of Heart"
+next_slug: christs-eternal-priesthood
+next_title: "Christ\u2019s Eternal Priesthood"
 related: [{"slug": "christmas", "title": "Christmas"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}]
 ---
 

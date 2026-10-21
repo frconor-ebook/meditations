@@ -6,8 +6,8 @@ reading_time: 15
 tags: ["Confession & Mercy"]
 prev_slug: a-cup-of-cold-water
 prev_title: "A Cup of Cold Water"
-next_slug: abandonment
-next_title: "Abandonment"
+next_slug: a-mystery-to-be-lived
+next_title: "A Mystery to Be Lived"
 related: [{"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "contrition", "title": "Contrition"}, {"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}]
 ---
 

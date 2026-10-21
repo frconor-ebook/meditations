@@ -8,7 +8,7 @@ prev_slug: poverty-and-detachment
 prev_title: "Poverty and Detachment"
 next_slug: prayer-of-petition
 next_title: "Prayer of Petition"
-related: [{"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "all-souls", "title": "All Souls"}, {"slug": "commemoration-of-all-souls-2026", "title": "Commemoration of All Souls (2026)"}]
+related: [{"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "all-souls", "title": "All Souls"}, {"slug": "christs-eternal-priesthood", "title": "Christ\u2019s Eternal Priesthood"}]
 ---
 
 By Fr. Conor Donnelly

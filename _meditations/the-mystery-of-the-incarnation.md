@@ -8,7 +8,7 @@ prev_slug: the-multiplication-of-the-loaves-and-fish
 prev_title: "The Multiplication of the Loaves and Fish"
 next_slug: the-narrow-gate
 next_title: "The Narrow Gate"
-related: [{"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}, {"slug": "christmas", "title": "Christmas"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}]
+related: [{"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}, {"slug": "a-mystery-to-be-lived", "title": "A Mystery to Be Lived"}, {"slug": "christmas", "title": "Christmas"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: learning-to-ask
 prev_title: "Learning to Ask"
 next_slug: life-of-childhood
 next_title: "Life of Childhood"
-related: [{"slug": "joy-in-the-cross-lent", "title": "Joy in the Cross (Lent)"}, {"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}]
+related: [{"slug": "joy-in-the-cross-lent", "title": "Joy in the Cross (Lent)"}, {"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "christs-eternal-priesthood", "title": "Christ\u2019s Eternal Priesthood"}]
 ---
 
 By Fr. Conor Donnelly
