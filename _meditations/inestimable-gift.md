@@ -7,7 +7,7 @@ prev_slug: increase-my-faith
 prev_title: "Increase My Faith"
 next_slug: infectious-faith
 next_title: "Infectious Faith"
-related: [{"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}, {"slug": "the-gift-of-fear-of-the-lord", "title": "The Gift of Fear of the Lord"}]
+related: [{"slug": "appreciating-the-gift", "title": "Appreciating the Gift"}, {"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "rediscover-the-gift", "title": "Rediscover the Gift"}]
 ---
 
 

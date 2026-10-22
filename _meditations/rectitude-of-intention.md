@@ -5,8 +5,8 @@ description: "We're told in the Gospel of St. Matthew, \"Be careful not to parad
 reading_time: 24
 prev_slug: reading-the-signs
 prev_title: "Reading the Signs"
-next_slug: rejection
-next_title: "Rejection"
+next_slug: rediscover-the-gift
+next_title: "Rediscover the Gift"
 ---
 
 By Fr. Conor Donnelly

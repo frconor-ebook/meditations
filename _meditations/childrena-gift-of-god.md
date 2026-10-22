@@ -8,7 +8,7 @@ prev_slug: children-of-god
 prev_title: "Children of God"
 next_slug: christ-is-passing-by
 next_title: "Christ Is Passing By"
-related: [{"slug": "children-of-god", "title": "Children of God"}, {"slug": "inestimable-gift", "title": "Inestimable Gift"}, {"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}]
+related: [{"slug": "appreciating-the-gift", "title": "Appreciating the Gift"}, {"slug": "children-of-god", "title": "Children of God"}, {"slug": "inestimable-gift", "title": "Inestimable Gift"}]
 ---
 
 By Fr. Conor Donnelly

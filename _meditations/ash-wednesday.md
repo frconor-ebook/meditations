@@ -4,8 +4,8 @@ title: "Ash Wednesday"
 description: "We are told in the Book of Genesis, \"The Lord God formed man from the dust of the earth, and he breathed into his nostrils the breath of life, and man..."
 reading_time: 22
 tags: ["Lent, Holy Week & Easter"]
-prev_slug: apart-from-me-you-can-do-nothing
-prev_title: "Apart From Me You Can Do Nothing"
+prev_slug: appreciating-the-gift
+prev_title: "Appreciating the Gift"
 next_slug: at-st-josephs-side
 next_title: "At St. Joseph\u2019s Side"
 related: [{"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "easter-joy", "title": "Easter Joy"}, {"slug": "easter-sunday", "title": "Easter Sunday"}]
