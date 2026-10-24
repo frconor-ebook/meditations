@@ -268,23 +268,29 @@ def unzip_and_cleanup(zip_file_path, extract_to):
         # Create extraction directory if it doesn't exist
         os.makedirs(extract_to, exist_ok=True)
 
-        # Get list of existing files/folders for cleanup
-        existing_items = []
-        if os.path.exists(extract_to):
-            existing_items = [
-                os.path.join(extract_to, item) for item in os.listdir(extract_to)
-            ]
-
         print(f"Unzipping {zip_file_path} to {extract_to}...")
         with zipfile.ZipFile(zip_file_path, "r") as zip_ref:
             # Get list of all files in the zip
-            file_count = len(zip_ref.namelist())
-            print(f"Archive contains {file_count} files/folders")
+            names = zip_ref.namelist()
+            print(f"Archive contains {len(names)} files/folders")
 
             # Extract all files, overwriting existing ones
             zip_ref.extractall(path=extract_to)
 
         print("Unzipping completed successfully")
+
+        # Remove local files deleted in Dropbox. Only touch the top-level
+        # folder(s) the zip contains — extract_to is a shared parent dir.
+        zip_files = {os.path.normpath(n) for n in names if not n.endswith("/")}
+        top_dirs = {n.split("/", 1)[0] for n in names if "/" in n}
+        for top in top_dirs:
+            for root, _, files in os.walk(os.path.join(extract_to, top)):
+                for f in files:
+                    local = os.path.join(root, f)
+                    rel = os.path.normpath(os.path.relpath(local, extract_to))
+                    if rel not in zip_files:
+                        print(f"Removing file deleted in Dropbox: {rel}")
+                        os.remove(local)
 
         # Clean up __MACOSX folder
         macosx_folder = os.path.join(extract_to, "__MACOSX")
