@@ -8,7 +8,7 @@ prev_slug: all-saints-after-edward-leen
 prev_title: "All Saints (after Edward Leen)"
 next_slug: all-souls
 next_title: "All Souls"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "solemnity-of-all-saints-2026", "title": "Solemnity of All Saints (2026)"}, {"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}]
+related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "the-solemnity-of-all-saints-2026", "title": "The Solemnity of All Saints (2026)"}, {"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}]
 ---
 
 By Fr. Conor Donnelly

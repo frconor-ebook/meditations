@@ -4,8 +4,8 @@ title: "Souls of Prayer"
 description: "We are told in today's Gospel, \"It came to pass, as he was praying in private, that his disciples also were with him. And he asked them, saying, 'Who do..."
 reading_time: 20
 tags: ["Prayer & Interior Life"]
-prev_slug: solemnity-of-all-saints-2026
-prev_title: "Solemnity of All Saints (2026)"
+prev_slug: sincerity-love-for-truth
+prev_title: "Sincerity, Love for Truth"
 next_slug: sparrows
 next_title: "Sparrows"
 related: [{"slug": "growth-in-prayer", "title": "Growth in Prayer"}, {"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}]

@@ -6,8 +6,8 @@ reading_time: 20
 tags: ["Virtues & Struggle"]
 prev_slug: sin-of-pride-the-elder-son
 prev_title: "Sin of Pride (The Elder Son)"
-next_slug: solemnity-of-all-saints-2026
-next_title: "Solemnity of All Saints (2026)"
+next_slug: souls-of-prayer
+next_title: "Souls of Prayer"
 related: [{"slug": "love-for-chastity", "title": "Love for Chastity"}, {"slug": "self-love-the-enemy", "title": "Self-Love: The Enemy"}, {"slug": "with-the-readiness-of-lovevigilance", "title": "With the Readiness of Love\u2014Vigilance"}]
 ---
 

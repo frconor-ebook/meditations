@@ -344,10 +344,6 @@
     "slug": "self-emptying-and-st-joseph"
    },
    {
-    "title": "Solemnity of All Saints (2026)",
-    "slug": "solemnity-of-all-saints-2026"
-   },
-   {
     "title": "St. Andrew",
     "slug": "st-andrew"
    },
@@ -684,6 +680,10 @@
     "slug": "the-sixth-sunday-of-st-joseph-2026"
    },
    {
+    "title": "The Solemnity of All Saints (2026)",
+    "slug": "the-solemnity-of-all-saints-2026"
+   },
+   {
     "title": "The Solemnity of St. Joseph (2026)",
     "slug": "the-solemnity-of-st-joseph-2026"
    },
@@ -846,6 +846,10 @@
    {
     "title": "The Holy Innocents",
     "slug": "the-holy-innocents"
+   },
+   {
+    "title": "The Incarnation and the Eucharist",
+    "slug": "the-incarnation-and-the-eucharist"
    },
    {
     "title": "The Joy of the Journey to Bethlehem",
@@ -1174,6 +1178,10 @@
    {
     "title": "The Eucharist\u2013Faith and Hope",
     "slug": "the-eucharistfaith-and-hope"
+   },
+   {
+    "title": "The Incarnation and the Eucharist",
+    "slug": "the-incarnation-and-the-eucharist"
    },
    {
     "title": "The Mass",

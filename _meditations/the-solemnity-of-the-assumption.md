@@ -8,7 +8,7 @@ prev_slug: the-solemnity-of-the-annunciation-2026
 prev_title: "The Solemnity of the Annunciation (2026)"
 next_slug: the-son-of-the-carpenter
 next_title: "The Son of the Carpenter"
-related: [{"slug": "the-assumption-of-our-lady", "title": "The Assumption of Our Lady"}, {"slug": "the-solemnity-of-the-annunciation-2026", "title": "The Solemnity of the Annunciation (2026)"}, {"slug": "solemnity-of-all-saints-2026", "title": "Solemnity of All Saints (2026)"}]
+related: [{"slug": "the-assumption-of-our-lady", "title": "The Assumption of Our Lady"}, {"slug": "the-solemnity-of-the-annunciation-2026", "title": "The Solemnity of the Annunciation (2026)"}, {"slug": "the-solemnity-of-all-saints-2026", "title": "The Solemnity of All Saints (2026)"}]
 ---
 
 
