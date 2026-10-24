@@ -7,7 +7,7 @@ prev_slug: the-one-who-gives-us-jesus
 prev_title: "The One Who Gives Us Jesus"
 next_slug: the-only-real-evil-2nd-ed
 next_title: "The Only Real Evil (2nd Ed.)"
-related: [{"slug": "the-only-real-evil-2nd-ed", "title": "The Only Real Evil (2nd Ed.)"}, {"slug": "the-real-presence", "title": "The Real Presence"}, {"slug": "your-one-and-only-father", "title": "Your One and Only Father"}]
+related: [{"slug": "the-only-real-evil-2nd-ed", "title": "The Only Real Evil (2nd Ed.)"}, {"slug": "the-real-presence", "title": "The Real Presence"}, {"slug": "the-real-presence-after-thomas-mcgovern", "title": "The Real Presence (after Thomas McGovern)"}]
 ---
 
 By Fr. Conor Donnelly

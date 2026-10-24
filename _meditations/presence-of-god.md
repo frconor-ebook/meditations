@@ -8,7 +8,7 @@ prev_slug: preparing-to-receive-jesus
 prev_title: "Preparing to Receive Jesus"
 next_slug: prince-of-peace
 next_title: "Prince of Peace"
-related: [{"slug": "the-real-presence", "title": "The Real Presence"}, {"slug": "abandonment", "title": "Abandonment"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}]
+related: [{"slug": "the-real-presence", "title": "The Real Presence"}, {"slug": "the-real-presence-after-thomas-mcgovern", "title": "The Real Presence (after Thomas McGovern)"}, {"slug": "abandonment", "title": "Abandonment"}]
 ---
 
 By Fr. Conor Donnelly

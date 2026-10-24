@@ -7,7 +7,7 @@ prev_slug: the-only-real-evil
 prev_title: "The Only Real Evil"
 next_slug: the-parable-of-the-wedding-feast
 next_title: "The Parable of The Wedding Feast"
-related: [{"slug": "the-only-real-evil", "title": "The Only Real Evil"}, {"slug": "the-real-presence", "title": "The Real Presence"}, {"slug": "your-one-and-only-father", "title": "Your One and Only Father"}]
+related: [{"slug": "the-only-real-evil", "title": "The Only Real Evil"}, {"slug": "the-real-presence", "title": "The Real Presence"}, {"slug": "the-real-presence-after-thomas-mcgovern", "title": "The Real Presence (after Thomas McGovern)"}]
 ---
 
 By Fr. Conor Donnelly

@@ -6,9 +6,9 @@ reading_time: 16
 tags: ["Eucharist & the Mass"]
 prev_slug: the-raising-of-lazarus
 prev_title: "The Raising of Lazarus"
-next_slug: the-resurrection
-next_title: "The Resurrection"
-related: [{"slug": "presence-of-god", "title": "Presence of God"}, {"slug": "the-only-real-evil", "title": "The Only Real Evil"}, {"slug": "the-only-real-evil-2nd-ed", "title": "The Only Real Evil (2nd Ed.)"}]
+next_slug: the-real-presence-after-thomas-mcgovern
+next_title: "The Real Presence (after Thomas McGovern)"
+related: [{"slug": "the-real-presence-after-thomas-mcgovern", "title": "The Real Presence (after Thomas McGovern)"}, {"slug": "presence-of-god", "title": "Presence of God"}, {"slug": "the-only-real-evil", "title": "The Only Real Evil"}]
 ---
 
 
