@@ -8,7 +8,7 @@ prev_slug: all-saints-day
 prev_title: "All Saints\u2019 Day"
 next_slug: all-you-peoples-bless-the-lord
 next_title: "All You Peoples, Bless the Lord"
-related: [{"slug": "commemoration-of-all-souls-2026", "title": "Commemoration of All Souls (2026)"}, {"slug": "souls-of-prayer", "title": "Souls of Prayer"}, {"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}]
+related: [{"slug": "the-commemoration-of-all-souls-2026", "title": "The Commemoration of All Souls (2026)"}, {"slug": "souls-of-prayer", "title": "Souls of Prayer"}, {"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}]
 ---
 
 By Fr. Conor Donnelly

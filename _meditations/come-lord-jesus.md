@@ -6,8 +6,8 @@ reading_time: 17
 tags: ["Advent & Christmas"]
 prev_slug: clean-of-heart
 prev_title: "Clean of Heart"
-next_slug: commemoration-of-all-souls-2026
-next_title: "Commemoration of All Souls (2026)"
+next_slug: conjugal-love
+next_title: "Conjugal Love"
 related: [{"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}, {"slug": "the-epiphany-of-our-lord-2027-edition", "title": "The Epiphany of Our Lord (2027 Edition)"}, {"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}]
 ---
 

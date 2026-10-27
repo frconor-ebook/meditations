@@ -5,8 +5,8 @@ description: "There is no experience so bitter for the generous and the high-min
 reading_time: 18
 prev_slug: the-chair-of-st-peter
 prev_title: "The Chair of St. Peter"
-next_slug: the-communion-of-saints
-next_title: "The Communion of Saints"
+next_slug: the-commemoration-of-all-souls-2026
+next_title: "The Commemoration of All Souls (2026)"
 related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "intimacy-with-god-after-edward-leen", "title": "Intimacy with God (after Edward Leen)"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}]
 ---
 

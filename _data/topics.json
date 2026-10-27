@@ -2234,10 +2234,6 @@
     "slug": "christs-eternal-priesthood"
    },
    {
-    "title": "Commemoration of All Souls (2026)",
-    "slug": "commemoration-of-all-souls-2026"
-   },
-   {
     "title": "Death and the Good Use of Time (2nd Ed.)",
     "slug": "death-and-the-good-use-of-time-2nd-ed"
    },
@@ -2276,6 +2272,10 @@
    {
     "title": "The Bread Our Heavenly Mother Gives Us",
     "slug": "the-bread-our-heavenly-mother-gives-us"
+   },
+   {
+    "title": "The Commemoration of All Souls (2026)",
+    "slug": "the-commemoration-of-all-souls-2026"
    },
    {
     "title": "The End of Life",
