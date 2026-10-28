@@ -6,8 +6,8 @@ reading_time: 18
 tags: ["Death & Eternal Life", "Church & Priesthood"]
 prev_slug: christmas-day-2025
 prev_title: "Christmas Day, 2025"
-next_slug: clean-of-heart
-next_title: "Clean of Heart"
+next_slug: churches-and-the-mass
+next_title: "Churches and the Mass"
 related: [{"slug": "jesus-christ-the-eternal-high-priest", "title": "Jesus Christ, The Eternal High Priest"}, {"slug": "eternal-happiness", "title": "Eternal Happiness"}, {"slug": "eternal-life", "title": "Eternal Life"}]
 ---
 

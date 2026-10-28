@@ -8,7 +8,7 @@ prev_slug: holy-saturday
 prev_title: "Holy Saturday"
 next_slug: house-on-the-rock
 next_title: "House on the Rock"
-related: [{"slug": "holy-communion-jesus-is-mine", "title": "Holy Communion: Jesus Is Mine"}, {"slug": "holy-saturday", "title": "Holy Saturday"}, {"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing, Loving, and Living the Eucharist"}]
+related: [{"slug": "holy-saturday", "title": "Holy Saturday"}, {"slug": "holy-communion-jesus-is-mine", "title": "Holy Communion: Jesus Is Mine"}, {"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing, Loving, and Living the Eucharist"}]
 ---
 
 By Fr. Conor Donnelly

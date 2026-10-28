@@ -4,8 +4,8 @@ title: "Loyalty"
 description: "\"It came to pass, as they were on their journey, that a man said to him, 'I will follow you wherever you go.' And Jesus said to him, 'The foxes have dens..."
 reading_time: 20
 tags: ["Virtues & Struggle"]
-prev_slug: loving-jesus-house
-prev_title: "Loving Jesus\u2019 House"
+prev_slug: loving-the-liturgy
+prev_title: "Loving the Liturgy"
 next_slug: lukewarmness
 next_title: "Lukewarmness"
 related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]

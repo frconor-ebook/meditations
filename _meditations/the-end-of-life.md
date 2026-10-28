@@ -8,7 +8,7 @@ prev_slug: the-dignity-of-work
 prev_title: "The Dignity of Work"
 next_slug: the-epiphany
 next_title: "The Epiphany"
-related: [{"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}, {"slug": "life-of-faith", "title": "Life of Faith"}]
+related: [{"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: cross-rejection
 prev_title: "Cross Rejection"
 next_slug: death-and-the-good-use-of-time-2nd-ed
 next_title: "Death and the Good Use of Time (2nd Ed.)"
-related: [{"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}, {"slug": "the-mass", "title": "The Mass"}, {"slug": "the-mass-and-personal-self-surrender", "title": "The Mass and Personal Self-Surrender"}]
+related: [{"slug": "churches-and-the-mass", "title": "Churches and the Mass"}, {"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}, {"slug": "the-mass", "title": "The Mass"}]
 ---
 
 By Fr. Conor Donnelly

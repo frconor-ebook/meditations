@@ -8,7 +8,7 @@ prev_slug: enlarging-the-heart
 prev_title: "Enlarging the Heart"
 next_slug: eternal-life
 next_title: "Eternal Life"
-related: [{"slug": "christs-eternal-priesthood", "title": "Christ\u2019s Eternal Priesthood"}, {"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "jesus-christ-the-eternal-high-priest", "title": "Jesus Christ, The Eternal High Priest"}]
+related: [{"slug": "christs-eternal-priesthood", "title": "Christ\u2019s Eternal Priesthood"}, {"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}]
 ---
 
 By Fr. Conor Donnelly

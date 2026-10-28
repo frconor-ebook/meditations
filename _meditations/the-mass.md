@@ -8,7 +8,7 @@ prev_slug: the-martyrdom-of-st-john-the-baptist
 prev_title: "The Martyrdom of St. John the Baptist"
 next_slug: the-mass-and-personal-self-surrender
 next_title: "The Mass and Personal Self-Surrender"
-related: [{"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}, {"slug": "the-mass-and-personal-self-surrender", "title": "The Mass and Personal Self-Surrender"}]
+related: [{"slug": "churches-and-the-mass", "title": "Churches and the Mass"}, {"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}]
 ---
 
 By Fr. Conor Donnelly

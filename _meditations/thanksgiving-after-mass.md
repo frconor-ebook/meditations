@@ -8,7 +8,7 @@ prev_slug: thanksgiving
 prev_title: "Thanksgiving"
 next_slug: thanksgiving-day-2026
 next_title: "Thanksgiving Day (2026)"
-related: [{"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "the-mass", "title": "The Mass"}, {"slug": "the-mass-and-personal-self-surrender", "title": "The Mass and Personal Self-Surrender"}]
+related: [{"slug": "churches-and-the-mass", "title": "Churches and the Mass"}, {"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "the-mass", "title": "The Mass"}]
 ---
 
 By Fr. Conor Donnelly

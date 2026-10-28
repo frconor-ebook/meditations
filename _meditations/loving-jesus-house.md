@@ -5,8 +5,8 @@ description: "\"'This is why I told you that no one could come to me except by t
 reading_time: 15
 prev_slug: love-for-the-cross
 prev_title: "Love for the Cross"
-next_slug: loyalty
-next_title: "Loyalty"
+next_slug: loving-the-liturgy
+next_title: "Loving the Liturgy"
 related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "finding-jesus", "title": "Finding Jesus"}, {"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}]
 ---
 

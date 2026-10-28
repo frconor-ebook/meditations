@@ -8,7 +8,7 @@ prev_slug: the-mass
 prev_title: "The Mass"
 next_slug: the-miracle-at-cana
 next_title: "The Miracle at Cana"
-related: [{"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}, {"slug": "the-mass", "title": "The Mass"}]
+related: [{"slug": "churches-and-the-mass", "title": "Churches and the Mass"}, {"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}]
 ---
 
 By Fr. Conor Donnelly

@@ -4,8 +4,8 @@ title: "The Seven Sorrows of Our Lady"
 description: "Forty days had passed since the angels sang their Glorias to the white chalked hills of Bethlehem. It was now the second day of February. According to..."
 reading_time: 17
 tags: ["Our Lady"]
-prev_slug: the-second-sunday-of-st-joseph-2026
-prev_title: "The Second Sunday of St. Joseph (2026)"
+prev_slug: the-seed-of-eternal-life
+prev_title: "The Seed of Eternal Life"
 next_slug: the-seventh-sunday-of-st-joseph-2026
 next_title: "The Seventh Sunday of St. Joseph (2026)"
 related: [{"slug": "our-lady-of-sorrows", "title": "Our Lady of Sorrows"}, {"slug": "our-lady-of-sorrows-2026", "title": "Our Lady of Sorrows (2026)"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}]

@@ -8,7 +8,7 @@ prev_slug: corpus-christi-2026
 prev_title: "Corpus Christi (2026)"
 next_slug: corpus-christi-the-body-and-blood-of-our-lord
 next_title: "Corpus Christi (The Body and Blood of Our Lord)"
-related: [{"slug": "corpus-christi-2026", "title": "Corpus Christi (2026)"}, {"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}, {"slug": "daily-mass", "title": "Daily Mass"}]
+related: [{"slug": "corpus-christi-2026", "title": "Corpus Christi (2026)"}, {"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}, {"slug": "churches-and-the-mass", "title": "Churches and the Mass"}]
 ---
 
 

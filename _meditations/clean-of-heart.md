@@ -3,8 +3,8 @@ layout: homily
 title: "Clean of Heart"
 description: "In the Psalms we're told, \"Create a clean heart in me, O God\" (Ps. 51:10). It\\'s like a cry coming from the whole of humanity. In the New Testament we're..."
 reading_time: 22
-prev_slug: christs-eternal-priesthood
-prev_title: "Christ\u2019s Eternal Priesthood"
+prev_slug: churches-and-the-mass
+prev_title: "Churches and the Mass"
 next_slug: come-lord-jesus
 next_title: "Come, Lord Jesus"
 related: [{"slug": "the-clean-of-heart-after-edward-leen", "title": "The Clean of Heart (after Edward Leen)"}, {"slug": "enlarging-the-heart", "title": "Enlarging the Heart"}, {"slug": "heart-in-the-family", "title": "Heart in the Family"}]

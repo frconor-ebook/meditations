@@ -8,7 +8,7 @@ prev_slug: marriage-and-indissolubility
 prev_title: "Marriage and Indissolubility"
 next_slug: martha-martha
 next_title: "Martha, Martha"
-related: [{"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}, {"slug": "hell-purgatory-heaven", "title": "Hell, Purgatory, Heaven"}, {"slug": "looking-up-to-heaven", "title": "Looking Up to Heaven"}]
+related: [{"slug": "fidelity-in-marriage", "title": "Fidelity in Marriage"}, {"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}, {"slug": "hell-purgatory-heaven", "title": "Hell, Purgatory, Heaven"}]
 ---
 
 By Fr. Conor Donnelly

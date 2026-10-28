@@ -1112,6 +1112,10 @@
   "anchor": "eucharist-the-mass",
   "meditations": [
    {
+    "title": "Churches and the Mass",
+    "slug": "churches-and-the-mass"
+   },
+   {
     "title": "Corpus Christi (2026)",
     "slug": "corpus-christi-2026"
    },
@@ -2288,6 +2292,10 @@
    {
     "title": "The Last Day of the Year (Dec. 31)",
     "slug": "the-last-day-of-the-year-dec-31"
+   },
+   {
+    "title": "The Seed of Eternal Life",
+    "slug": "the-seed-of-eternal-life"
    },
    {
     "title": "This Body of Death",

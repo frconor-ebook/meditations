@@ -8,7 +8,7 @@ prev_slug: conversion-of-st-paul-2027-edition
 prev_title: "Conversion of St. Paul (2027 Edition)"
 next_slug: corpus-christi-2027
 next_title: "Corpus Christi (2027)"
-related: [{"slug": "corpus-christi-2027", "title": "Corpus Christi (2027)"}, {"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}, {"slug": "daily-mass", "title": "Daily Mass"}]
+related: [{"slug": "corpus-christi-2027", "title": "Corpus Christi (2027)"}, {"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}, {"slug": "churches-and-the-mass", "title": "Churches and the Mass"}]
 ---
 
 
