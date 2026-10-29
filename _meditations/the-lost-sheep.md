@@ -26,7 +26,7 @@ God loves us always, even when we stray. In this parable we read about the Divin
 
 Our Lord asks, "Will not the shepherd leave the other ninety-nine in the fields and go to look for the lost sheep?" One might think that He could say to Himself, 'Well, I still have ninety-nine and those ninety-nine are more important than just the one.'
 
-But we're told that he goes after the one. And St. Luke says, "When he finds it, he places it on his shoulders with joy" to return it to the flock (Luke 15:5).
+But we're told that He goes after the one. And St. Luke says, "When he finds it, he places it on his shoulders with joy" to return it to the flock (Luke 15:5).
 
 Of all the images that the Church has promoted down through the centuries, perhaps the one that it most promotes is that of Christ carrying that sheep, that lost lamb or lost flock.
 
@@ -98,7 +98,7 @@ Do we look with gratitude upon those to whom the Church has entrusted, as our pa
 
 He has often looked upon us with predilection. St. Paul says, "Jesus loved me and gave himself up for me" (Gal. 2:20). This is the great truth that consoles us. He showed His love by giving His life.
 
-He loves each of us as if each one was the sole object of His affections. Even if we are the only person in the whole world, Christ would still have died for us. He would have shed all of His blood for us. We should meditate often on this truth: that God loves us.
+He loves each of us as if each one were the sole object of His affections. Even if we are the only person in the whole world, Christ would still have died for us. He would have shed all of His blood for us. We should meditate often on this truth: that God loves us.
 
 There was a little boy once who was asked to give some of his blood for his baby sister who needed a blood transfusion.
 
@@ -174,13 +174,13 @@ When we begin again, each day and every day, our heart can be filled with joy---
 
 The Sacred Heart of Jesus "overflows with joy whenever a lost soul has been recovered." We're told that "everyone has to join in the celebration---all the angels and the saints in heaven, as well as the just on earth, for this wonderful development" (Georges Chevrot*, The Gospel in the Open Air*).
 
-"Rejoice with me," Our Lord invites us (Luke 15:6). There's also a special joy whenever we bring a friend or relative back to the sacrament of pardon. Our Lord awaits His brothers and sisters with open arms.
+"Rejoice with me," Our Lord invites us (Luke 15:6). There's also a special joy whenever we bring a friend or relative back to the sacrament of Pardon. Our Lord awaits His brothers and sisters with open arms.
 
 The Church sings in an ancient hymn: "Lord, you have worn yourself out looking for me: O that your labors will not have been in vain" (Hymn, *Dies irae*).
 
 Jesus comes out to look for us, comes in search of us. He took upon Himself all the evil of the world and yet He seeks us out. He knows better than anyone the foul nature of sin; nevertheless, He's not angry.
 
-"The Just One presents to us the moving image of Divine Mercy. ... To the Samaritan woman, she who had six husbands, He says simply, 'Give me to drink' (John 4:7). Christ knows what the soul can become---it can be a reflection of God Himself.
+"The Just One presents to us the moving image of Divine Mercy. ... To the Samaritan woman, she who had six husbands, he says simply, 'Give me to drink' (John 4:7). Christ knows what the soul can become---it can be a reflection of God himself.
 
 "What possibilities there are! God wants only good things for the soul" (Federico Sopeña, *Confession*).
 
@@ -204,7 +204,7 @@ The Lord teaches us about the immense value of a single soul. He is ready to do 
 
 We have to try and share the Lord's concern that no one stray from the flock. If anyone has wandered away from the Lord's fold, we have to pray that he or she will return as soon as possible.
 
-We can ask Our Lady, Refuge of Sinners, to take care of all the lost sheep.
+We can ask Our Lady, *Refuge of sinners*, to take care of all the lost sheep.
 
 *I thank you, my God, for the good resolutions, affections, and inspirations that you have communicated to me during this meditation. I ask your help to put them into practice. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 

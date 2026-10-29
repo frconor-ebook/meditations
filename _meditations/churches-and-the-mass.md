@@ -11,12 +11,13 @@ next_title: "Clean of Heart"
 related: [{"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}, {"slug": "the-mass", "title": "The Mass"}]
 ---
 
-
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that You are here, that You see me, that You hear me. I adore You with profound reverence. I ask Your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 In churches of East and West, we find the great masterpieces of art, in painting, sculpture, and stained glass, reflecting the eschatological vision of the liturgy. With the secularization caused by post-Enlightenment thinking, the culture lost its anchorage in the eternal truths, and this loss of reference is clearly reflected not only in secular art, but in many of the churches that are built today. Minimalist spaces, banal exteriors, and disfigured religious art reflect a jarring discontinuity with the accumulated artistic wisdom of the past. Because Christianity is a historical religion, as such, it must identify itself with the past to bring Christ into the present.
 

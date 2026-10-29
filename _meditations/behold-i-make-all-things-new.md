@@ -10,12 +10,13 @@ next_title: "Blessed Are The Merciful"
 related: [{"slug": "little-things", "title": "Little Things"}, {"slug": "the-last-things", "title": "The Last Things"}, {"slug": "the-truth-will-make-you-free", "title": "The Truth Will Make You Free"}]
 ---
 
-
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins, and grace to make this time of prayer fruitful. My immaculate Mother, Saint Joseph, my father and Lord, my guardian angel, intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 If we are to see clearly and understand without error the meaning of our earthly experiences, if we are to succeed in unifying our whole life and giving more than transient significance and worth to our actions, we must put ourselves at the point of view of Almighty God and see our human life through his eyes. The significance of life and every act that makes up life is determined by the career which God traces for the human soul that issues from his creative hands.
 

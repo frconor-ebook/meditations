@@ -5,8 +5,8 @@ description: "\"I am the good shepherd. The good shepherd lays down his life for
 reading_time: 17
 prev_slug: you-are-nothing
 prev_title: "You Are Nothing"
-next_slug: zeal-for-holiness-through-marriage
-next_title: "Zeal for Holiness Through Marriage"
+next_slug: zacchaeus
+next_title: "Zacchaeus"
 related: [{"slug": "do-not-let-your-hearts-be-troubled", "title": "Do Not Let Your Hearts Be Troubled"}, {"slug": "even-the-hairs-of-your-head", "title": "Even The Hairs of Your Head"}, {"slug": "fathers-day", "title": "Father\u2019s Day"}]
 ---
 

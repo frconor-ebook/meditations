@@ -13,9 +13,11 @@ related: [{"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing,
 
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that You are here, that You see me, that You hear me. I adore You with profound reverence. I ask Your pardon for my sins, and the grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 The identification of the priest with Christ finds its supreme expression in the celebration of the eucharistic sacrifice. When he takes the bread in his hands and says, "This is my body," the priest challenges himself to the deepest possible involvement in the redemptive sacrifice of Christ, while ensuring the historical continuity of the incarnate Word among men and women today.
 
