@@ -12,9 +12,11 @@ next_title: "Zeal for Holiness Through Marriage"
 
 By Fr. Conor Donnelly
 
-*(Proofread)*
+(*Proofread*)
 
-*In the name of the Father, and of the Son, and of the Holy Spirit. Amen. My Lord and my God, I firmly believe that You are here, that You see me, that You hear me. I adore You with profound reverence. I ask Your pardon for my sins and the grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
+*In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+*My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
 "He entered Jericho and was going through the town and suddenly, a man whose name was Zacchaeus made his appearance. He was one of the senior tax collectors and a wealthy man. He kept trying to see who Jesus was, but he was too short and could not see him for the crowd. So he ran ahead and climbed a sycamore tree to catch a glimpse of Jesus who was to pass that way" (Luke 19:1--4).
 
