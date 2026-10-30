@@ -33,13 +33,11 @@ The disciples had a natural curiosity about when and where this would happen. "W
 
 Our Lord teaches us that everyone will be drawn to the Son of God at the end of time just as eagles converge on their prey.
 
-The same can be said about each person's moment of death.
-
-St. Paul warns those Christians of Thessalonica that He will come 'like a thief in the night." It is one more call to vigilance.
+The same can be said about each person's moment of death. And so, St. Paul warns those Christians of Thessalonica that He will come "like a thief in the night." It is one more call to vigilance.
 
 We cannot be blind to our final moment on earth, the day of the Lord, when we will meet God face to face. St. Augustine has written that the Lord keeps the circumstances of His coming hidden so that we might always be on the alert (*cf*. St. Augustine, *Commentary on Psalm 120*).
 
-In modern culture, in certain environments, it's not easy to speak about death and dying. In a materialistic culture, death is taboo because it suggests the end of everything.
+In modern culture, in certain environments it's not easy to speak about death and dying. In a materialistic culture, death is taboo because it suggests the end of everything.
 
 It's easy for people to forget the spiritual nature of man, that every person has a soul and that soul is immortal. It has an eternal destiny. It's one of the most important truths of our faith, with enormous consequences.
 
@@ -51,7 +49,7 @@ Pagan culture would have us live as though death were a distant mirage, somethin
 
 Regrettably, many who consider themselves good Christians can be unduly influenced by such a seductive approach to life. They're led astray because they fail to come to terms with the real meaning of death.
 
-Rather than see death as a friend, or even as a sister, as St. Josemaría says in *The Way,* Points 735 and 739, they view it as an enormous catastrophe, as something that will undermine all their worldly hopes and accomplishments.
+Rather than see death as a friend, or even as a sister, as St. Josemaría Escrivá says in *The Way,* Points 735 and 739, they view it as an enormous catastrophe, as something that will undermine all their worldly hopes and accomplishments.
 
 I remember accompanying an elderly lady in another country once, at the moment of her death.
 
@@ -63,13 +61,11 @@ These misguided people have lost sight of the fact that every person is in posse
 
 The liturgy often reminds us of that truth. In the *Preface for the Dead*, it says, "Life is changed, not taken away."
 
-Life changes. It's not something we're deprived of.
-
-Christians believe that death represents the end of an earthly pilgrimage. Believers prepare for death on a daily basis.
+Life changes. It's not something we're deprived of. Christians believe that death represents the end of an earthly pilgrimage. Believers prepare for death on a daily basis.
 
 It's through the sanctification of ordinary realities that we will win heaven as an eternal reward and the Christian who behaves accordingly will not be alarmed by death's arrival.
 
-That person will have been patiently readying themselves for this definitive encounter with the Lord. In the words of St. Cyprian, "Death is a stepping up into eternity after we have run in this earthly race" (St. Cyprian, *Treatise on Mortality*).
+That person will have been patiently readying themselves for this definitive encounter with the Lord. In the words of St. Cyprian, "Death is a stepping up into eternity after we have run in this earthly race" (Cyprian, *Treatise on Mortality*).
 
 In the *Furrow,* Point 891, St. Josemaría says: "If at any time you feel uneasy at the thought of our sister death, because you see yourself to be such a poor creature, take heart. Heaven awaits us and consider: what will it be like when all the infinite beauty and greatness, and happiness and love of God will be poured into the poor vessel of clay that the human being is, to satisfy it eternally with the freshness of an ever new joy?"
 
@@ -85,7 +81,7 @@ Since that time, our passage to the house of the Father, our final resting place
 
 St. Paul says Jesus Christ "abolished death and brought life" (2 Tim. 1:10). He removed the essential evil from death and gave it a new meaning, making death into a stepping stone to Life.
 
-His victory is shared by all who believe in Him and who participate in His Life. Our Lord has told us, "I am the resurrection and the life. He who believes in me, though he die, yet shall he live. And whoever lives and believes in me shall never die" (John 11: 25-26). Our Lord's words can fill us with hope, a hope that does not disappoint.
+His victory is shared by all who believe in Him and who participate in His Life. Our Lord has told us: "I am the resurrection and the life. He who believes in me, though he die, yet shall he live. And whoever lives and believes in me shall never die" (John 11: 25-26). Our Lord's words can fill us with hope, a "hope that does not disappoint" (Rom. 5:5).
 
 Death is the enemy of the natural life of man. Christ has converted it into our friend and sister. Though the human person suffers defeat at the hands of this foe, he or she can in the end be triumphant thanks to Christ's immortal sacrifice.
 
@@ -97,13 +93,13 @@ The Psalmist says in his prayer to God: "Those who hate the righteous will be co
 
 From her earliest days, the Church has celebrated the anniversaries of the death by martyrdom of her saints. The Church likes to say that these are the *dies natalis*, the birthdays to that new Life which entails joy without end.
 
-St. John tells us in the Book of Revelation, "I heard a voice from heaven saying: 'Write this: Blessed are the dead who die in the Lord henceforth.' 'Blessed indeed,' says the Spirit, 'that they may rest from their labors, for their deeds follow them." (Rev. 14:13).
+St. John tells us in the Book of Revelation: "I heard a voice from heaven saying: 'Write this: Blessed are the dead who die in the Lord henceforth.' 'Blessed indeed,' says the Spirit, 'that they may rest from their labors, for their deeds follow them!'" (Rev. 14:13).
 
 We know that we will be rewarded for even the smallest service that we have done for the Lord. We're told in St. Matthew that "whoever gives\...even a cup of cold water, because he is a disciple of the Lord, shall not go without His reward" (Matt. 10:42).
 
 We have the joy of looking forward to every little thing being rewarded that we have done for other people in this world.
 
-*Gaudium et Spes* of the Second Vatican Council has said: "For after we have obeyed the Lord, and in His Spirit nurtured on earth the value of human dignity, brotherhood, and freedom, and indeed all the good fruits of our nature and enterprise, we will find them again, but freed of stain,...transfigured, when Christ hands over to the Father: 'a kingdom eternal and universal\...'" (Vatican II, *Gaudium et Spes,* Point 39).
+*Gaudium et spes* of the Second Vatican Council has said: "For after we have obeyed the Lord, and in his Spirit nurtured on earth the value of human dignity, brotherhood, and freedom, and indeed all the good fruits of our nature and enterprise, we will find them again, but freed of stain,...transfigured, when Christ hands over to the Father: 'a kingdom eternal and universal\...'" (Vatican II, *Gaudium et spes,* Point 39, December 7, 1965).
 
 All the things of the world will perish and be forgotten, but their good "deeds will follow them."
 
@@ -117,15 +113,15 @@ Occasionally in your family, go through the cabinets of your children or their r
 
 It's not that the one who has accumulated the most toys wins. Rather, the more we have gotten rid of things and passed them on to others will we be ready for the kingdom of heaven.
 
-Death also teaches us to make good use of every day, to have goals, to have a plan for our spiritual life and, also for our professional and material life. Things I need to do today, with priorities, to do number one and then number two.
+Death also teaches us to make good use of every day, to have goals, to have a plan for our spiritual life, and also for our professional and material life. Things I need to do today, with priorities, to do number one and then number two.
 
-Ancient writers used to use the phrase *Carpe diem* *(*Horace*, Odes 1,11,17).* Horace, an early Latin writer, used this phrase 'Seize the day' to encourage people to make the most of the present moment.
+Ancient writers used to use the phrase *Carpe diem* *(*Horace*, Odes 1,11,17).* Horace, an early Latin writer, used this phrase '\[Seize\] the day' to encourage people to make the most of the present moment.
 
 Look around you and see if people on your mode of transport or people that you meet every day are making the most out of every moment. If they have an article or a book they're reading in spare moments, in the little pieces of time---one writer used to call them the butts of time---the little pieces of time throughout the day when maybe nothing is happening, to have something to be reading, something to be doing, catching up on other little projects or little things to be done here and there. Using our time well.
 
-These words of Horace were a pagan maxim, but we can impart a Christian meaning to it by living each day with joy as if it were our whole life. We can ask ourselves: What is the will of God for me today?
+These words of Horace were a pagan maxim, but we can impart a Christian meaning to it by living each day with joy as if it were our whole life.
 
-From the things that happened from hour to hour---ups and downs, reversals of fortune, pieces of good news, pieces of bad news---we can decipher what exactly it is that God wants me to do today and try to follow His will with a lot of peace and serenity.
+We can ask ourselves: What is the will of God for me today? From the things that happened from hour to hour---ups and downs, reversals of fortune, pieces of good news, pieces of bad news---we can decipher what exactly it is that God wants me to do today and try to follow His will with a lot of peace and serenity.
 
 It's a chance that will never be repeated. Time is like a flowing divine treasure: it comes, it's here, and then it goes, never to return.
 
@@ -159,7 +155,7 @@ We should want to have a long life so that we can give God abundant service. St.
 
 It's a good thing to ask Our Lord for a long life so that we can serve more, so that hopefully we go before Our Lord with our arms full. It's so right for us to love life since this is a gift from God.
 
-I heard of a person once who was involved in fundraising for a center for young people where they would get a lot of formation, growth in holiness, and learn many other skills, and develop their personality, and develop many other virtues.
+I heard of a person once who was involved in fundraising for a center for young people where they would get a lot of formation, growth in holiness, learn many other skills, develop their personality, and develop many other virtues.
 
 To try and get his friends to contribute to the growth of this youth center, a center for young people, he said, 'Look, if you buy a brick in this place, that brick will always be there. Long after you die, that brick will still be there. It would be like an investment for the future. That brick helping that center to form young people will give great glory to God over time and all that glory will be to your benefit at the end of time, at the last judgment.'
 
