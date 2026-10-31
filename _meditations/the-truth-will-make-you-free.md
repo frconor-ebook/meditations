@@ -5,8 +5,8 @@ description: "\"The Jews gathered around him and said to him, 'How long will you
 reading_time: 19
 prev_slug: the-transfiguration
 prev_title: "The Transfiguration"
-next_slug: the-unmerciful-servant
-next_title: "The Unmerciful Servant"
+next_slug: the-universal-call-to-contemplation
+next_title: "The Universal Call to Contemplation"
 related: [{"slug": "afterwards-you-will-understand", "title": "Afterwards You Will Understand"}, {"slug": "behold-i-make-all-things-new", "title": "Behold I Make All Things New"}, {"slug": "by-their-fruits-you-will-know-them", "title": "By Their Fruits, You Will Know Them"}]
 ---
 
