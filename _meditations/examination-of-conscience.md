@@ -8,7 +8,7 @@ prev_slug: exalted
 prev_title: "Exalted"
 next_slug: faithfulness
 next_title: "Faithfulness"
-related: [{"slug": "conscience-the-light-of-the-soul", "title": "Conscience, The Light of the Soul"}, {"slug": "abandonment", "title": "Abandonment"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}]
+related: [{"slug": "conscience-the-light-of-the-soul", "title": "Conscience, The Light of the Soul"}, {"slug": "abandonment", "title": "Abandonment"}, {"slug": "contemplative-soul", "title": "Contemplative Soul"}]
 ---
 
 By Fr. Conor Donnelly

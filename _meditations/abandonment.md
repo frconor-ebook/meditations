@@ -8,7 +8,7 @@ prev_slug: a-mystery-to-be-lived
 prev_title: "A Mystery to Be Lived"
 next_slug: afterwards-you-will-understand
 next_title: "Afterwards You Will Understand"
-related: [{"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "divine-filiation", "title": "Divine Filiation"}, {"slug": "divine-intimacies", "title": "Divine Intimacies"}]
+related: [{"slug": "contemplative-soul", "title": "Contemplative Soul"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "divine-filiation", "title": "Divine Filiation"}]
 ---
 
 By Fr. Conor Donnelly

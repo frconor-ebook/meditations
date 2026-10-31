@@ -8,7 +8,7 @@ prev_slug: launch-out-into-the-deep
 prev_title: "Launch Out Into The Deep"
 next_slug: lent-christs-death-on-the-cross
 next_title: "Lent: Christ\u2019s Death on the Cross"
-related: [{"slug": "abandonment", "title": "Abandonment"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "divine-filiation", "title": "Divine Filiation"}]
+related: [{"slug": "abandonment", "title": "Abandonment"}, {"slug": "contemplative-soul", "title": "Contemplative Soul"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}]
 ---
 
 By Fr. Conor Donnelly

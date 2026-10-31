@@ -8,7 +8,7 @@ prev_slug: life-of-faith
 prev_title: "Life of Faith"
 next_slug: little-duties
 next_title: "Little Duties"
-related: [{"slug": "abandonment", "title": "Abandonment"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "divine-filiation", "title": "Divine Filiation"}]
+related: [{"slug": "abandonment", "title": "Abandonment"}, {"slug": "contemplative-soul", "title": "Contemplative Soul"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}]
 ---
 
 By Fr. Conor Donnelly
