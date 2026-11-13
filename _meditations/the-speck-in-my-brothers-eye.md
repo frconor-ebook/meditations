@@ -1,6 +1,6 @@
 ---
 layout: homily
-title: "The Speck In My Brother's Eye"
+title: "The Speck In My Brother\u2019s Eye"
 description: "We're told in St. Matthew, \"Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye? How can you say to..."
 reading_time: 16
 prev_slug: the-son-of-the-carpenter
@@ -17,13 +17,13 @@ By Fr. Conor Donnelly
 
 *My Lord and my God, I firmly believe that you are here, that you see me, that you hear me. I adore you with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful. My Immaculate Mother, Saint Joseph, my father and lord, my guardian angel, intercede for me.*
 
-We're told in St. Matthew, **"**Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye? How can you say to your brother, 'Let me take the speck out of your eye,' when there is the log in your own eye?' You hypocrite, first take the log out of your own eye, and then you will see clearly to take the speck out of your brother's eye" (Matt. 7:3-5).
+We're told in St. Matthew, **"**Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye? How can you say to your brother, 'Let me take the speck out of your eye,' when there is the log in your own eye? You hypocrite, first take the log out of your own eye, and then you will see clearly to take the speck out of your brother's eye" (Matt. 7:3-5).
 
 Pride leads us to exaggerate our neighbor's faults and to underestimate and excuse our own. We should try and avoid negative judgments on others. Negative and often unjust judgments on others---avoiding them is a sign of humility.
 
 The slightest faults of others can be exaggerated by our personal pride, whereas our own, perhaps much greater, defects are minimized and explained away. Sometimes pride tends to see in others what are really our own imperfections and errors.
 
-St. Augustine gives this wise piece of advice: "Strive to acquire the virtues you think your brothers lack, and then you will no longer see their defects, because you yourselves will not have them" (St. Augustine, *Commentary on Psalm 30*).
+St. Augustine gives this wise piece of advice: "Strive to acquire the virtues you think your brothers lack, and then you will no longer see their defects, because you yourselves will not have them" (Augustine, *Commentary on Psalm 30*).
 
 Humility, on the other hand, has a positive influence through a series of virtues which favor a good human and Christian atmosphere in social life. Only the humble man is in a position to forgive, to understand, and help, because he alone realizes that he has received everything from God.
 
@@ -37,15 +37,15 @@ Let us learn from Our Lord, who, St. Francis de Sales says, "could not entirely 
 
 If we make the effort to discover our neighbor's good points, we shall see that the deficiencies in his character, the defects in his behavior, are as nothing in comparison with his virtues. This positive, just attitude towards those with whom we are constantly in contact will bring us closer to God. We shall grow in interior mortification, charity, and humility.
 
-St. Teresa of Ávila says, "Let us strive always to look at the virtues and good deeds we see in others, and cover their defects with the thought of our own great sins. This is a manner of acting that, although we cannot do so with perfection right away, gradually gains for us a great virtue---that of considering all other men as being better than ourselves. In such a way, with the help of God, one begins to acquire this virtue" (St. Teresa, *Life*).
+St. Teresa of Ávila says, "Let us strive always to look at the virtues and good deeds we see in others, and cover their defects with the thought of our own great sins. This is a manner of acting that, although we cannot do so with perfection right away, gradually gains for us a great virtue---that of considering all other men as being better than ourselves. In such a way, with the help of God, one begins to acquire this virtue" (Teresa, *Life*).
 
 We have to adopt a positive attitude towards the shortcomings of others, even when they are external sins like gossiping or working badly.
 
-In the first place, we must pray for them, atone for them to God, and be patient and strong. We must love and esteem them more, because love and esteem is what they need. We must be loyal and help them with fraternal correction.
+In the first place we must pray for them, atone for them to God, and be patient and strong. We must love and esteem them more, because love and esteem is what they need. We must be loyal and help them with fraternal correction.
 
 This also means accepting people as they are, with their defects. Our Lord did not discuss the apostles or look down on them because of their defects, which are evident and clearly reflected in the Gospels. At the beginning of their dedication to God, they are at times moved by envy, or anger, and are even ambitious for prominence among themselves.
 
-At such times, the Master corrects them tactfully and is patient with them and continues loving them. He teaches those of His followers who are to hand on His doctrine something that is essential in family life, in a working environment, in personal relationships, and indeed in the whole of the Church, which is to live charity in deeds.
+At such times the Master corrects them tactfully and is patient with them and continues loving them. He teaches those of His followers who are to hand on His doctrine something that is essential in family life, in a working environment, in personal relationships, and indeed in the whole of the Church, which is to live charity in deeds.
 
 I know a man who was giving a talk once to a major factory. Plenty of workers were there listening to this talk, and there happened to be a big boss visiting from Switzerland who was doing a tour of the plant. He sat in for a few minutes on this talk, which happened to be about charity.
 
@@ -61,7 +61,7 @@ Because charity is an ordered virtue, Our Lord asks us to esteem, first of all, 
 
 This charity will have its own particular characteristics according to the bonds which unite us. But we must always have an open, welcoming attitude, and have the desire to help everyone.
 
-It's not a question of practicing this virtue with ideal persons, but with those who actually live and work with us, with those we meet in the street at rush hour, when the traffic is at its worst and public transport, overcrowded.
+It's not a question of practicing this virtue with ideal persons, but with those who actually live and work with us, with those we meet in the street at rush hour, when the traffic is at its worst and public transport overcrowded.
 
 Perhaps at home or at the office, we will come across people who are irritable or even in a bad temper, those who are unwell or tired, those who are selfish and envious. It's a question of getting along with these real, specific individuals, of being considerate with them and helping them.
 
@@ -111,7 +111,7 @@ Sometimes we might feel hurt for no objective reason, but only because our self-
 
 If perhaps we have been seriously offended, we must necessarily remember our own serious transgressions against Our Lord.
 
-St. Cyprian comments, "Christ does not accept the offering of those who foster division. He sends them away from the altar to make peace and reconciliation. God wants to be given prayers of peace. His greatest objective is our peace, social harmony, and the unity of the faithful in the Father, the Son, and the Holy Spirit" (St. Cyprian, *Treatise on the 'Our Father'*).
+St. Cyprian comments, "Christ does not accept the offering of those who foster division. He sends them away from the altar to make peace and reconciliation. God wants to be given prayers of peace. His greatest objective is our peace, social harmony, and the unity of the faithful in the Father, the Son, and the Holy Spirit" (Cyprian, *Treatise on the 'Our Father'*).
 
 We could examine our reaction when people 'rub us the wrong way.' To follow Christ in ordinary life is to find in this very area a royal road to serenity.
 
@@ -121,7 +121,7 @@ If there comes a time when we have to forgive someone as the result of a serious
 
 We will thus savor the true love of God. Our heart will be enriched and expanded in its capacity to love.
 
-We can't forget that "nothing makes us more like unto God than to be ever ready to pardon others" (St. John Chrysostom, *Homilies on St. Matthew's Gospel*). Our generosity towards others will win for us the divine pardon.
+We can't forget that "nothing makes us more like unto God than to be ever ready to pardon others" (John Chrysostom, *Homilies on St. Matthew's Gospel*). Our generosity towards others will win for us the divine pardon.
 
 In Scripture, we are told of an event that took place among St. Paul's missionary companions. They had sailed from Paphos and arrived in Perga in Pamphylia; but there John left them and returned to Jerusalem. We are told this in the Acts of the Apostles (Acts 13:13).
 
@@ -141,7 +141,7 @@ Paul was not of a mind to take someone with him who had already let him down onc
 
 The arguments and the differences of viewpoints must have been substantial to cause such a separation.
 
-St. Jerome says, "Paul was the more strict and Barnabas the more lenient in maintaining their views. Nevertheless, this argument showed up clearly human frailty" (St. Jerome, *Dialogue against the Pelagians*).
+St. Jerome says, "Paul was the more strict and Barnabas the more lenient in maintaining their views. Nevertheless, this argument showed up clearly human frailty" (Jerome, *Dialogue against the Pelagians*).
 
 Despite everything, Paul being a man of immense heart, and a fervent apostle who sacrificed himself to the utmost for his brethren, did not make a definitive judgment on John Mark. On the contrary, years later we find Mark described as one of the apostle's closest partners (Philem 24) and a deep source of consolation for him.
 

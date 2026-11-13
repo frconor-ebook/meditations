@@ -7,7 +7,7 @@ tags: ["Work & Ordinary Life"]
 prev_slug: the-solemnity-of-the-assumption
 prev_title: "The Solemnity of the Assumption"
 next_slug: the-speck-in-my-brothers-eye
-next_title: "The Speck In My Brother's Eye"
+next_title: "The Speck In My Brother\u2019s Eye"
 related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "little-duties", "title": "Little Duties"}, {"slug": "little-things", "title": "Little Things"}]
 ---
 

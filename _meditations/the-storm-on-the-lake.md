@@ -5,7 +5,7 @@ description: "\"Then he got into the boat followed by his disciples. Suddenly a 
 reading_time: 19
 tags: ["Gospel Scenes & Miracles"]
 prev_slug: the-speck-in-my-brothers-eye
-prev_title: "The Speck In My Brother's Eye"
+prev_title: "The Speck In My Brother\u2019s Eye"
 next_slug: the-syrophoenician-woman
 next_title: "The Syrophoenician Woman"
 related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]

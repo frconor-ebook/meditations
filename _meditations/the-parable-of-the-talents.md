@@ -89,9 +89,9 @@ We've also received many material goods in order to carry out all the good works
 
 God wants us to perform the corporal and spiritual acts of mercy with great generosity, to store up for ourselves treasures in heaven.
 
-On another incomparably higher and more exalted level, we have the supernatural gifts: the life of grace---the gifts of faith, of hope, of charity---the very life of God Himself inside us that makes us members of the Church, sharers in the communion of the saints, and a special calling from God to lead a life of closer union with Him.
+On another incomparably higher and more exalted level, we have the supernatural gifts: the life of grace---the gifts of faith, of hope, of charity---the very life of God Himself inside us that makes us members of the Church, sharers in the Communion of the Saints, and a special calling from God to lead a life of closer union with Him.
 
-We have the gift of the Sacraments, particularly the priceless gift of the Blessed Eucharist, Our God with us.
+We have the gift of the sacraments, particularly the priceless gift of the Blessed Eucharist, Our God with us.
 
 We have Our Lady, the Mother of God and Our Mother too.
 
@@ -101,7 +101,7 @@ And we have a Guardian Angel to protect us.
 
 Every day of our lives, we can thank God for these great talents that He's given to us.
 
-Our life and the gifts that go with it have been given to us as an inheritance, which we have to invest wisely.
+Our life and the gifts that go with it have been given to us as an inheritance which we have to invest wisely.
 
 Sometimes we might look around and see people who win the lottery or have an awful lot of money or a lot of material things---things that God has not given to us.
 
@@ -163,7 +163,7 @@ In relation to what was really important, his life was a useless existence. Poss
 
 This could remind us a little of the parable of the prudent and the imprudent virgins (Matt. 25:1-13).
 
-The prudent ones took oil in their lamps. They used well the opportunities for formation: this talk, that retreat, this circle, this Confession, this spiritual reading.
+The prudent ones took oil in their lamps. They used well the opportunities for formation: this talk, that retreat, this Circle, this Confession, this spiritual reading.
 
 The imprudent ones didn't take oil in their lamps. Maybe they dedicated themselves to having a good time, to enjoying the pleasures of this world. They didn't think of the future.
 
@@ -181,7 +181,7 @@ There will come a final whistle, the end of the game, when the time for earning 
 
 To bury the talent that God has given to us is to bury the capacity to love that He's given to us, the capacity to make people happy---something we can all do. Instead of making people happy, we leave them sad and unhappy.
 
-To bury the talent is to have material things and not to use them properly, to think that they're mine, whereas God wants us to use them for a while and possibly to pass them on to other people; to be generous in passing on material things to those who really need them; to appreciate the gift.
+To bury the talent is to have material things and not to use them properly, to think that 'they're mine,' whereas God wants us to use them for a while and possibly to pass them on to other people; to be generous in passing on material things to those who really need them; to appreciate the gift.
 
 To bury the talent is to be able to bring other people to God, but not to take advantage of the opportunities through fear, or shyness, or pride, or disorder, or lack of initiative, or lack of fortitude, or lack of care and love, or not using the circumstance of sharing the same work or job with them.
 
@@ -209,7 +209,7 @@ For a wage-earner, for a housewife, to make use of one's talents means to do one
 
 God will ask us to account in a special way for those who may have been placed under our care: souls that have been entrusted to us.
 
-St. Augustine says that the person who has been placed over other people and doesn't care for them is like a scarecrow, a straw guardian, who doesn't even manage to scare away the birds who come and devour the grapes (*cf*. St. Augustine, *Miscellanea Augustianensis*).
+St. Augustine says that the person who has been placed over other people and doesn't care for them is like a scarecrow, a straw guardian, who doesn't even manage to scare away the birds who come and devour the grapes (*cf*. Augustine, *Miscellanea Augustianensis*).
 
 We could examine the quality of our study or our work, and ask Our Lord for the readiness to react decisively, if necessary, with the help of grace.
 
