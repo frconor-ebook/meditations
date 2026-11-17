@@ -63,13 +63,13 @@ So he lifted up the family onto this Trinitarian level. Our goal is somehow to i
 
 He said marriage is a life-giving communion of persons (Pope John Paul II, *General Audience*, Nov. 14, 1979). The Blessed Trinity is a life-giving communion of persons. The love of the Father for the Son gives rise to the Holy Spirit.
 
-The *Catechism of the Catholic Church* says that children are the supreme gift of marriage (*CCC*, Point 1652). It's an enormously positive statement. And because God chose us, He gives us the grace for that choice.
+The *Catechism of the Catholic Church* says that children are the supreme gift of marriage (*Catechism*, Point 1652). It's an enormously positive statement. And because God chose us, He gives us the grace for that choosing.
 
 Like the apostles, we have not been chosen because of what we are, but because of what we have to become. Peter was not chosen because of what he was, but because of what he had to become, in spite of his miseries and his failures.
 
 He did the same thing as Judas. He betrayed Our Lord. "Woman, I do not know him" (Luke 22:57). Then we're told in Scripture, "The Lord turned and looked upon Peter" (Luke 22:61).
 
-It's a very poignant moment. He seeks him out with His loving glance in his lowest moment. "And Peter goes out and weeps bitterly" (Luke 22:62). It's from this moment that he goes forward to become a great saint and a great apostle.
+It's a very poignant moment. He seeks him out with His loving glance in His lowest moment. "And Peter goes out and weeps bitterly" (Luke 22:62). It's from this moment that he goes forward to become a great saint and a great apostle.
 
 That's God's will for each one of us: to be a great saint and a great apostle in our marriage, with everything that comes with it, ready to accept whatever comes.
 
@@ -97,7 +97,7 @@ They said, "We want to get a divorce."
 
 So the lawyer quickly tried to remember all the points about the talk or the meditation on charity from his last retreat. He tried to give them an impromptu talk on the meaning of charity.
 
-Charity is patient. Charity is kind. It's letting the water flow under the bridge. It's knowing how to forgive. It's not making a mountain out of molehills. It's moving on. It's loving other people with their defects.
+"Charity is patient, charity is kind" (1 Cor. 13:4). It's letting the water flow under the bridge. It's knowing how to forgive. It's not making a mountain out of molehills. It's moving on. It's loving other people with their defects.
 
 He went through as many points as he could remember about the virtue of charity and asked them to go away and think about it for a while.
 
@@ -127,13 +127,13 @@ Part of holiness is keeping our first love in first place---knowing the importan
 
 That means we have to take care of love because if we're not careful, the devil can rob us of it.
 
-Love is expressed in details. St. Josemaría liked to say that married couples, after many years of marriage, have to keep their love young and fresh, like it was before they got married.
+Love is expressed in details. St. Josemaría liked to say that married couples, after many years of marriage, have to keep their love young and fresh, like it was before they got married (*cf*. J. Escrivá, *Conversations*, Point 91).
 
 So we have to know how to sweep our spouse off their feet from time to time with little details, with surprises, with small things. People need affection. They need to be told that they're loved, that they're beautiful, that they're appreciated.
 
 St. Thomas Aquinas was asked, "In the quest for holiness, what's the most important thing?" He answered: "To desire it, to want it with all our heart and soul."
 
-We could ask Our Lord in our prayer today, Do I want that goal of my marriage vocation more than anything else in the world? Do I take care of it? Where am I now in that zeal for holiness? Am I looking after things? Am I taking care of things? What's the theme of their marriage vocation at the moment?
+We could ask Our Lord in our prayer today: Do I want that goal of my marriage vocation more than anything else in the world? Do I take care of it? Where am I now in that zeal for holiness? Am I looking after things? Am I taking care of things? What's the theme of their marriage vocation at the moment?
 
 If you were to sing a song, what would that song be? There was a song in the 1960s that said, "Where have all the flowers gone\...long time passing?"
 
@@ -161,7 +161,7 @@ They had a vocation of silence, so they didn't talk unless you talked to them, a
 
 But he noticed over in the corner of the field near the garden there was a very holy, elderly monk who was working away very silently on his own. This man had a great aura of holiness about him.
 
-One day, he went over to this elderly monk and said to him, "When I grow up I want to be like you."
+One day, he went over to this elderly monk and said to him, "When I grow up, I want to be like you."
 
 This holy, saintly, elderly man said, "No, don't be like me because I have hatred in my heart."
 
@@ -177,7 +177,7 @@ We have to try and engrave in our hearts that we're called to holiness.
 
 God wants me in particular to be a saint. He has created me and elevated me to the order of grace. He has redeemed me, given me many graces, and given me all the formation that I have because He loves me a lot.
 
-Whether our life grows with depth in this way also depends on us. God doesn't go against our freedom. He created us out of love. He wants us to correspond with love.
+Whether our life grows with depth in this way, to an extent, also depends on us. God doesn't go against our freedom. He created us out of love. He wants us to correspond with love.
 
 "Everyone wants to change the world, but few want to do it by changing themselves" (*cf*. Leo Tolstoy, *Pamphlets*).
 
@@ -203,7 +203,9 @@ Our vocation to holiness is a constant in our life. It's not a state of mind. It
 
 No matter where I am or what situation I'm in, it's here. God wants me to be holy in and through this situation.
 
-"You saw it quite clearly:" said St. Josemaría in *The Forge*, "while so many people do not know God, he has looked to you. He wants you to form a part of the foundations, a firm stone upon which the life of the Church can rest. Meditate upon this reality and you will draw many practical consequences for your ordinary behavior: the foundations, made of blocks of stone, hidden and possibly rather dull, have to be solid, not fragile. They have to serve as support for the building. If not, they're useless" (J. Escrivá, *The Forge*, Point 472).
+"You saw it quite clearly:" said St. Josemaría in *The Forge*, "while so many people do not know God, he has looked to you. He wants you to form a part of the foundations, a firm stone upon which the life of the Church can rest.
+
+"Meditate upon this reality and you will draw many practical consequences for your ordinary behavior: the foundations, made of blocks of stone, hidden and possibly rather dull, have to be solid, not fragile. They have to serve as support for the building. If not, they're useless" (J. Escrivá, *The Forge*, Point 472).
 
 Your zeal for holiness may depend on the zeal for the holiness of each one of your children in their married life. Every hour is an opportunity to give them an example, to lead by example.
 
@@ -217,7 +219,7 @@ I nearly fell off the chair. Such wisdom. We learn an awful lot from other peopl
 
 Sometimes we look for happiness in the easy things. Very often our happiness is in the problems, in the challenges, in the changes of plans, in the difficulties, in solving those things that crop up on a daily basis.
 
-We find our happiness on the cross. St. Josemaría liked to say that joy and happiness in this world have their roots in the form of a cross (J. Escrivá, *Christ Is Passing By*, Point 43) and God is the one who makes us holy.
+We find our happiness on the cross. St. Josemaría liked to say that joy and happiness in this world have their roots in the form of a cross (*cf*. J. Escrivá, *Christ Is Passing By*, Point 43) and God is the one who makes us holy.
 
 "Committed!" says St. Josemaría in *The Forge*. "How I love that word! We children of God freely put ourselves under an obligation to live a life of dedication to God, striving that he may have complete and absolute sovereignty over our lives" (J. Escrivá, *The Forge*, Point 855).
 
@@ -231,7 +233,7 @@ The wife said, "Because that's the way that you talk to me."
 
 There may be great things we have to learn: great truths, personal truths from knowing how to listen; good communication.
 
-If the devil can place a barrier between us and our spouse, through communication, it's not a great battle.
+If the devil can place a barrier between us and our spouse through communication, it's not a great battle.
 
 A couple told me many years ago how every month they take a time out---half an hour, an hour---and they sit down.
 
@@ -241,15 +243,15 @@ They write all those things down and then they swap papers. So they communicate 
 
 You need to work on communication in your marriage. When the devil can't attack frontally, he attacks obliquely through misunderstandings, miscommunications, neglect of details.
 
-You have to learn how to be a good communicator, and in particular, to communicate charity. "Charity is patient. Charity is kind" (1 Cor. 13:4). You have to try and work at being easy to live with.
+You have to learn how to be a good communicator, and in particular, to communicate charity. "Charity is patient, charity is kind" (1 Cor. 13:4). You have to try and work at being easy to live with. We can all be difficult to live with.
 
-We can all be difficult to live with. Sometimes we can think we are the most lovable creature on this planet. If ever you have a thought like that, ask your mother or your father, "Mum, was I ever unlovable?"
+Sometimes we can think we are the most lovable creature on this planet. If ever you have a thought like that, ask your mother or your father, "Mum, was I ever unlovable?"
 
 And they'll say, "Sit down for an hour and we'll tell you about it."
 
 We have all been the most unlovable creatures that you could possibly imagine. But God has called us to try and work at being lovable creatures, and that we have to try and show love to other people.
 
-The mother is the queen of the home. We always have to try and treat our spouse as that queen, so that other people see that. They see it in our words, they see it in our actions.
+The mother is the queen of the home. We always have to try and treat our spouse as that queen, so that other people see that. They see it in our words; they see it in our actions.
 
 Family values mean family priorities. Family comes first. Our marriage comes first. There may be times when we have to be home: special dates, birthdays, anniversaries, Sundays, Christmas.
 
@@ -259,7 +261,7 @@ A spirit of service is a very important thing in the home. No job should be bene
 
 In this way, we prepare our children to be good husbands and good wives. Prepare them for their marriage by giving that example.
 
-We can ask St. Joseph, spouse of Our Lady, that we might imitate his example in a daily way, through our silence, through our service, through our faithfulness; through our acceptance of the will of God like he did, being in the background, forgetting ourselves, being a pillar; trusting; the humble faith; being manly, being available, being full of fortitude.
+We can ask St. Joseph, spouse of Our Lady, that we might imitate his example in a daily way---through our silence, through our service, through our faithfulness; through our acceptance of the will of God like he did, being in the background, forgetting ourselves, being a pillar; trusting; the humble faith; being manly, being available, being full of fortitude.
 
 We can ask Our Lady that she might cultivate that desire for greater holiness in our marriage so that we can truly prepare for that eternal feast that God has wanted for us.
 

@@ -29,7 +29,7 @@ Then he took hold of my wrist, and his hand was already cold and clammy. Death h
 
 He looked at me with a look of terror in his eyes. He said, "Doctor, don't let me die."
 
-It was one of the most awful things I've been confronted with---to see a man at the hour of his death in such terror.
+It was one of the most awful things I've been confronted with in my life---to see a man at the hour of his death in such terror.
 
 This man was well-to-do. He was in the best hospital in the country. He had had a good life. But here he was at the hour of his death, realizing that all his treasures were in this world.
 
@@ -47,17 +47,15 @@ The important thing is to try and live well---to live each day as if it was goin
 
 He has warned us that He will come like a thief in the night (Matt. 24:43). It's a warning to be prepared.
 
-There are many warnings that Our Lord gives in the course of His preaching that really are summed up in those words. "Be prepared" (Matt. 24:44). "Have your lamp burning brightly" (Luke 12:35). "Make sure your soul is ready" (*cf*. Matt. 26:41). "Use all the talents that he's given to you" (Matt. 25:21,23).
+There are many warnings that Our Lord gives in the course of His preaching that really are summed up in those words: "Be prepared" (Matt. 24:44). "Have your lamp burning brightly" (Luke 12:35). "Make sure your soul is ready" (*cf*. Matt. 26:41). "Use all the talents that he's given to you" (Matt. 25:21,23).
 
 Use the time now that you have to make sure of your reward, because eternity is going to be a long time. God has given us a period of time. Some people get 20, 30, 40, 60, 80 years. Some babies just get a few hours.
 
 But everybody gets their time, and everybody gets their talents with which to "go and trade until I come" (Luke 19:13). Our Lord in the Parable of the Talents invites us to be very wise.
 
-Take oil in our lamps (Matt. 25:4), be prudent to foresee things. Five were prudent and five were imprudent (Matt. 25:2).
+Take oil in our lamps (Matt. 25:4), be prudent to foresee things. "Five were prudent and five were imprudent" (Matt. 25:2).
 
-There was a priest ordained with me from another non-English speaking country whose English was not perfect and used to sometimes talk about 'the stupid virgins.'
-
-Scripture is a little more refined. It calls them imprudent. But really, they were stupid.
+There was a priest ordained with me from another non-English speaking country whose English was not perfect and used to sometimes talk about 'the stupid virgins.' Scripture is a little more refined. It calls them imprudent. But really, they were stupid.
 
 We have the chance of being either with the five prudent or with the five imprudent.
 
@@ -67,7 +65,7 @@ The imprudent virgins didn't take oil in their lamps because maybe, they were to
 
 But they couldn't see past the end of their nose, whereas the wise ones took oil in their lamps.
 
-Then the bridegroom was "a long time in coming" (Matt. 25:5). That phrase, a long time in coming, could be an image for the course of our lives---the decades that maybe God wants us to live on this planet. But of course, we're only passing through.
+Then the bridegroom was "a long time in coming" (Matt. 25:5). That phrase, "a long time in coming," could be an image for the course of our lives---the decades that maybe God wants us to live on this planet. But of course, we're only passing through.
 
 With the passage of years and decades, it's easy for us to become drowsy and sleep. That's why we need to get to a yearly retreat. We need to hear a monthly recollection.
 
@@ -95,7 +93,7 @@ He said, 'I learned the lessons of life young.'
 
 I thought, 'That must have been a painful experience, but what a great lesson to learn the lessons of life young, to learn about what is really important.'
 
-Some people go through life, and they never really learn what is really important.
+Some people go through life and they never really learn what is really important.
 
 I remember talking to a man in another country once who had worked in a well-known multinational corporation for many decades, and then retired at 55 and said, 'This organization was a godless organization.'
 
@@ -105,7 +103,7 @@ That man went into quite a deep depression for a couple of years, but then he di
 
 He spent the rest of his life taking care of his soul, and that opened up new horizons for him. It helped him understand what life was all about, and approached his death in a very good way.
 
-Another man at 50 once in a retreat told me, 'I'm the managing director of my organization; I've come to own the company. I'm on this board and that other board. I've earned all the money in life that I could possibly want to earn. I'm bored at 50; I have nothing else to do.'
+Another man at 50 once in a retreat told me, 'I'm the managing director of my organization; I've come to own the company. I'm on this board and that other board. I've earned all the money in life that I could possibly want to earn. And I'm bored at 50; I have nothing else to do.'
 
 That man managed to have a bit of a conversion to discover the spiritual realities, and to spend the rest of his life less on the material and professional things, and a bit more on the spiritual.
 
@@ -127,15 +125,13 @@ Our Lord says, "Walk while you have the light, lest darkness overtakes you" (Joh
 
 "Use your time well" (Eph. 5:16) to grow as a Christian: to be holy, to practice the virtues, to be an excellent father or an excellent mother, because those opportunities won't always be with you, and on this, you will be judged.
 
-"He who walks in the darkness does not know where he goes. While you have the light, believe in the light, that you may become children of light" (John 12:35-36).
-
-Our Lord wants us to spread our light in many ways all over the place.
+"He who walks in the darkness does not know where he goes. While you have the light, believe in the light, that you may become children of light" (John 12:35-36). Our Lord wants us to spread our light in many ways all over the place.
 
 What is death? Death is the separation of the soul from the body" (*Catechism of the Catholic Church*, Point 1016).
 
 It's not the end. It's not a punishment. It's not a catastrophe.
 
-A Christian approach to death can be something very cheerful, happy. We can look forward to our death. It's a stepping stone to eternal happiness, as long as we have prepared for that eternal happiness.
+A Christian approach to death can be something very cheerful, happy. We can look forward to our death. It's a steppingstone to eternal happiness, as long as we have prepared for that eternal happiness.
 
 With the teaching of Christ, we don't need to fear our death. Fear should be something far away from us.
 
@@ -147,7 +143,7 @@ God must be very happy with that type of death. We can try to use this opportuni
 
 Sometimes we hear of sudden deaths. Every time you hear of a sudden death, it's like a little reminder to you. That could be you the next time. There but for the grace of God go I.
 
-Or sometimes we hear of what the world might call a major disaster---an air crash, an earthquake, the collapse of a building, the World Trade Center in 2002 or 2001, whenever it was, twenty years ago.
+Or sometimes we hear of what the world might call a major disaster---an air crash, an earthquake, the collapse of a building, the World Trade Center in 2001, twenty years ago.
 
 We see these things as great tragedies. But often there are great spiritual lessons behind these realities. We see the fleeting nature of this life.
 
@@ -173,7 +169,7 @@ We know that after death there will be a judgment. There's a particular judgment
 
 Then at the end of time, there's the general judgment---a beautiful thing---when every single detail of our life will be taken into account, and the fruits that have come from all the good things that we've done (*Catechism*, Points 1038-1041).
 
-If you've spent time trying to lead a good life, growing in your formation, trying to instill values in your children that maybe get passed on to your grandchildren---the whole train is set in motion in your family because of the values and principles that you've tried to live by. And that produces an enormous fruit possibly decades after your death.
+If you've spent time trying to lead a good life, growing in your formation, trying to instill values in your children that maybe, get passed on to your grandchildren---the whole train is set in motion in your family because of the values and principles that you've tried to live by. And that produces an enormous fruit possibly decades after your death.
 
 At the general judgment that will accrue very much to you, to your benefit. It's like money in the bank, because the judgments that come, particularly the general judgment, is like when we have to pay our income tax.
 
@@ -211,7 +207,7 @@ St. Josemaría says that "time is a treasure" (Josemaría Escrivá, *Friends of 
 
 Time is for eternity. It's for God. It's for grace. It's an instrument that He's placed in our hands to do something with it.
 
-St. Josemaría says, "Youth gives it all it's got. Use your youth, the time that God has given to you, your energy, your abilities."
+St. Josemaría says, "Youth gives it all it's got" (*cf*. J. Escrivá, *The Way*, Point 30). Use your youth, the time that God has given to you, your energy, your abilities.
 
 "Don't wait to be old," he says, "to be holy" (*cf*. J. Escrivá, *The Forge*, Point 113).
 
@@ -255,7 +251,7 @@ If you're going to be late for an appointment, it's very good to send a message.
 
 Even if we're two minutes late, say, 'I'm sorry, I got delayed, I got stuck in traffic. I will be five minutes late, or two minutes late'---whatever it is.
 
-That statement, in itself, transmits the message that 'I respect your time. I respect your dignity because you can use your time well, this time that I've given to you, that possibly I might otherwise have caused you to waste.'
+That statement, in itself, transmits the message that 'I respect your time. I respect your dignity because you can use your time well, this time that I've given to you that possibly I might otherwise have caused you to waste.'
 
 It's a great detail of charity, of justice---a very good sign about somebody who knows the value of time and has the courtesy to inform other people when they're going to be late.
 
