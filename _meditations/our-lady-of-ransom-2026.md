@@ -8,7 +8,7 @@ prev_slug: our-lady-of-ransom
 prev_title: "Our Lady of Ransom"
 next_slug: our-lady-of-sorrows
 next_title: "Our Lady of Sorrows"
-related: [{"slug": "our-lady-of-ransom", "title": "Our Lady of Ransom"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
+related: [{"slug": "our-lady-of-ransom", "title": "Our Lady of Ransom"}, {"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}]
 ---
 
 By Fr. Conor Donnelly

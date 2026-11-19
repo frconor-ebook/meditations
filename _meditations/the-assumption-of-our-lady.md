@@ -8,7 +8,7 @@ prev_slug: the-ascension
 prev_title: "The Ascension"
 next_slug: the-baptism-of-jesus
 next_title: "The Baptism of Jesus"
-related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
+related: [{"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
 ---
 
 By Fr. Conor Donnelly

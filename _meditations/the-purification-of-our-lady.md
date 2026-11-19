@@ -8,7 +8,7 @@ prev_slug: the-prophecy-of-simeon
 prev_title: "The Prophecy of Simeon"
 next_slug: the-raising-of-lazarus
 next_title: "The Raising of Lazarus"
-related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
+related: [{"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
 ---
 
 

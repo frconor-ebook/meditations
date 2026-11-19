@@ -8,7 +8,7 @@ prev_slug: the-visitation-of-our-lady-2026
 prev_title: "The Visitation of Our Lady (2026)"
 next_slug: the-war-with-temptation
 next_title: "The War With Temptation"
-related: [{"slug": "discerning-ones-vocation", "title": "Discerning One's Vocation"}, {"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}]
+related: [{"slug": "discerning-ones-vocation", "title": "Discerning One's Vocation"}, {"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}, {"slug": "our-lady", "title": "Our Lady"}]
 ---
 
 

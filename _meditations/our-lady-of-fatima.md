@@ -8,7 +8,7 @@ prev_slug: our-lady-of-africa
 prev_title: "Our Lady of Africa"
 next_slug: our-lady-of-guadalupe
 next_title: "Our Lady of Guadalupe"
-related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-guadalupe", "title": "Our Lady of Guadalupe"}]
+related: [{"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
 ---
 
 By Fr. Conor Donnelly

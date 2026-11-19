@@ -8,7 +8,7 @@ prev_slug: our-lady-of-sorrows
 prev_title: "Our Lady of Sorrows"
 next_slug: our-lady-of-the-angels
 next_title: "Our Lady of the Angels"
-related: [{"slug": "our-lady-of-sorrows", "title": "Our Lady of Sorrows"}, {"slug": "the-seven-sorrows-of-our-lady", "title": "The Seven Sorrows of Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}]
+related: [{"slug": "our-lady-of-sorrows", "title": "Our Lady of Sorrows"}, {"slug": "the-seven-sorrows-of-our-lady", "title": "The Seven Sorrows of Our Lady"}, {"slug": "our-lady", "title": "Our Lady"}]
 ---
 
 By Fr. Conor Donnelly

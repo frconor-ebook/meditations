@@ -8,7 +8,7 @@ prev_slug: the-visitation-of-our-lady
 prev_title: "The Visitation of Our Lady"
 next_slug: the-vocation-of-our-lady
 next_title: "The Vocation of Our Lady"
-related: [{"slug": "the-visitation-of-our-lady", "title": "The Visitation of Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
+related: [{"slug": "the-visitation-of-our-lady", "title": "The Visitation of Our Lady"}, {"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}]
 ---
 
 

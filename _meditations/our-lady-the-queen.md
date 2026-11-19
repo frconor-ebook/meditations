@@ -8,7 +8,7 @@ prev_slug: our-lady-of-the-snows
 prev_title: "Our Lady of the Snows"
 next_slug: our-lady-the-queen-2026
 next_title: "Our Lady the Queen (2026)"
-related: [{"slug": "our-lady-the-queen-2026", "title": "Our Lady the Queen (2026)"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
+related: [{"slug": "our-lady-the-queen-2026", "title": "Our Lady the Queen (2026)"}, {"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}]
 ---
 
 By Fr. Conor Donnelly

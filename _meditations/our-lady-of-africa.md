@@ -8,7 +8,7 @@ prev_slug: our-lady-help-of-christians
 prev_title: "Our Lady Help of Christians"
 next_slug: our-lady-of-fatima
 next_title: "Our Lady of Fatima"
-related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}, {"slug": "our-lady-of-guadalupe", "title": "Our Lady of Guadalupe"}]
+related: [{"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
 ---
 
 By Fr. Conor Donnelly

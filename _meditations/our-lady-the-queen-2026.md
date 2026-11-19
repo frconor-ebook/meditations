@@ -8,7 +8,7 @@ prev_slug: our-lady-the-queen
 prev_title: "Our Lady the Queen"
 next_slug: our-lady-comforter-of-the-afflicted
 next_title: "Our Lady, Comforter of the Afflicted"
-related: [{"slug": "our-lady-the-queen", "title": "Our Lady the Queen"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
+related: [{"slug": "our-lady-the-queen", "title": "Our Lady the Queen"}, {"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}]
 ---
 
 

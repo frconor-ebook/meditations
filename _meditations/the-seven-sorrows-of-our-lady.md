@@ -8,7 +8,7 @@ prev_slug: the-seed-of-eternal-life
 prev_title: "The Seed of Eternal Life"
 next_slug: the-seventh-sunday-of-st-joseph-2026
 next_title: "The Seventh Sunday of St. Joseph (2026)"
-related: [{"slug": "our-lady-of-sorrows", "title": "Our Lady of Sorrows"}, {"slug": "our-lady-of-sorrows-2026", "title": "Our Lady of Sorrows (2026)"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}]
+related: [{"slug": "our-lady-of-sorrows", "title": "Our Lady of Sorrows"}, {"slug": "our-lady-of-sorrows-2026", "title": "Our Lady of Sorrows (2026)"}, {"slug": "our-lady", "title": "Our Lady"}]
 ---
 
 By Fr. Conor Donnelly

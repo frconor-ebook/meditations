@@ -6,8 +6,8 @@ reading_time: 16
 tags: ["Prayer & Interior Life"]
 prev_slug: order
 prev_title: "Order"
-next_slug: our-lady-help-of-christians
-next_title: "Our Lady Help of Christians"
+next_slug: our-lady
+next_title: "Our Lady"
 related: [{"slug": "fathers-day", "title": "Father\u2019s Day"}, {"slug": "on-our-way-to-the-house-of-our-father", "title": "On Our Way to The House of Our Father"}, {"slug": "the-father-in-the-work", "title": "The Father in the Work"}]
 ---
 
