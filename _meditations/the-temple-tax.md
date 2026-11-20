@@ -8,7 +8,7 @@ prev_slug: the-syrophoenician-woman
 prev_title: "The Syrophoenician Woman"
 next_slug: the-third-sunday-of-st-joseph-2026
 next_title: "The Third Sunday of St. Joseph (2026)"
-related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
+related: [{"slug": "payment-of-the-temple-tax", "title": "Payment of the Temple Tax"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
 ---
 
 By Fr. Conor Donnelly

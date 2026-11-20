@@ -6,8 +6,8 @@ reading_time: 17
 tags: ["The Cross & Suffering", "Virtues & Struggle"]
 prev_slug: patience
 prev_title: "Patience"
-next_slug: pentecost-sunday
-next_title: "Pentecost Sunday"
+next_slug: payment-of-the-temple-tax
+next_title: "Payment of the Temple Tax"
 related: [{"slug": "patience", "title": "Patience"}, {"slug": "crises-be-not-afraid", "title": "Crises: Be Not Afraid"}, {"slug": "cross-rejection", "title": "Cross Rejection"}]
 ---
 

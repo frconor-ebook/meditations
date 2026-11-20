@@ -8,7 +8,7 @@ prev_slug: aunt-carmen
 prev_title: "Aunt Carmen"
 next_slug: be-you-perfect
 next_title: "Be You Perfect"
-related: [{"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}, {"slug": "the-bent-over-woman", "title": "The Bent Over Woman"}]
+related: [{"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}, {"slug": "payment-of-the-temple-tax", "title": "Payment of the Temple Tax"}]
 ---
 
 By Fr. Conor Donnelly
