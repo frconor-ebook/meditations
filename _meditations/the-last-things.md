@@ -38,11 +38,11 @@ The Church gives us beautiful words to prepare us for death, and to understand t
 
 It's for that that we have been created. The immortality of the soul has been created to give God glory forever and forever and forever.
 
-And the Church encourages us then to live upright lives, so as to be in the hands of God. We know that in that situation, taking care of our soul, living in the state of grace, letting the Holy Spirit work through us, trying to struggle for holiness---"no torment can touch us; to the unenlightened, they appear to die."
+The Church encourages us then to live upright lives, so as to be in the hands of God. We know that in that situation, taking care of our soul, living in the state of grace, letting the Holy Spirit work through us, trying to struggle for holiness---"no torment can touch us...to the unenlightened, they appear to die."
 
 Someone has remarked that death is an uncomfortable reality for a materialistic world. To a culture and a world that tells us that all our treasure should be in this world, in material things, death is an uncomfortable reality.
 
-These are the unenlightened. "They appear to die. Their departure was regarded as disaster. They're leaving us like annihilation."
+These are the unenlightened. "They appear to die. Their departure was regarded as disaster; their leaving us like annihilation."
 
 A beautiful thing is a beautiful death. I've seen many people die very beautiful, very holy deaths: thoroughly prepared, looking forward to the next world, thanking God for all the beautiful things they experienced in this world. I've seen people with enormous peace.
 
@@ -64,17 +64,19 @@ Every day he says, "I want to die, I want to die." But the Holy Spirit keeps say
 
 We brought him to The Mater Hospital a few months ago, and he refused to eat and he refused to take his medicine.
 
-I asked him, "What do you want, will you not eat and why will you not take your medicine?" "It's the only weapon I have to get out of this place."
+I asked him, "What do you want, will you not eat and why will you not take your medicine?"
 
-And then the head nurse came to me and said, "He keeps saying he wants to die, he wants to die. But everyone in this hospital wants to live."
+"It's the only weapon I have to get out of this place."
 
-They're wondering if there's something wrong. It's a very positive thing when people come to the end of their life and they want to die, and they look forward to that bright "promise of immortality."
+And then the head nurse came to me and said, "He keeps saying he wants to die, he wants to die. But everyone in this hospital wants to live." They're wondering if there's something wrong.
+
+It's a very positive thing when people come to the end of their life and they want to die, and they look forward to that bright "promise of immortality."
 
 We have an awful lot to look forward to and Our Lord wants us to infect many other people with that great promise, those beautiful things.
 
-One time I was called to the bedside of a dying man, and in the prayer book that I had, there was a *Commendation of the Dying*. I was reading it, and I was reading it all the way around the bed, all very somber and sad.
+One time I was called to the bedside of a dying man, and in the prayer book that I had, there was a *Commendation of the Dying*. I was reading it, and as I was reading it all the relatives were around the bed, all very somber and sad.
 
-As I was reading this *Commendation of the Dying*, I was thinking: this is full of beautiful ideas: abandonment, hope, joy, peace. I was thinking, 'I hope somebody reads this to me when I'm dying.'
+As I was reading this *Commendation of the Dying*, I was thinking: this is full of beautiful ideas: abandonment, hope, joy, peace. I was thinking, 'Wow, I hope somebody reads this to me when I'm dying.'
 
 It's a very good thing to look at so that we don't hear it for the first time when somebody is reading it to us. But our Christian faith gives us beautiful things at that moment of our life.
 
@@ -84,7 +86,7 @@ The Book of Wisdom continues, "Slight was their correction, great will their ble
 
 We have great things to look forward to. "Great things will our blessings be."
 
-And we're also told, and St. Josemaría liked to mention it in one of his writings: "Our guardian angel...will remember, has taken note of, all the little, good. kind acts" that we may have done in our life, all the things that maybe we forgot about years ago (*cf*. Josemaría Escrivá, *Furrow*, Point 693).
+And we're also told, and St. Josemaría liked to mention it in one of his writings: "Our guardian angel...will remember, has taken note of, all the little, good, kind acts" that we may have done in our life, all the things that maybe we forgot about years ago (*cf*. Josemaría Escrivá, *Furrow*, Point 693).
 
 Our guardian angels remember them, small little things. And he will remember them on the last day when we go before the judgment.
 
@@ -96,13 +98,13 @@ The great encouragement to use every opportunity we have to store up those treas
 
 We can't quite grasp what eternity means, because we have been born in time. But occasionally we get little glimpses, an optical angle of eternity.
 
-Josemaría in one of his writings says every day, for us we should have an "echo of eternity" (J. Escrivá, *The Forge*, Point 917), a certain sense that I'm building the future, those "treasures in heaven," that has to last forever.
+St. Josemaría in one of his writings says every day, for us we should have an "echo of eternity" (J. Escrivá, *The Forge*, Point 917), a certain sense that I'm building the future, those "treasures in heaven," that has to last forever.
 
 And the more I give, the more I will get, not just a personal, selfish point of view, but as an encouragement to use our time to build that treasure for the future, and also to help us to bring many peoples with us.
 
 "Those who trust in him will understand the truth, those who are faithful will live with him in love; for grace and mercy await his holy ones, and he intervenes on behalf of his chosen" (Wisd. 3:9; 4:15).
 
-"Grace and mercy await His holy ones." Our Lord is waiting to say to us, "Well done, good and faithful servant. Because you have been faithful in little things, come and share the joy of your Lord" (*cf*. Matt. 25:21).
+"Grace and mercy await his holy ones." Our Lord is waiting to say to us, "Well done, good and faithful servant. Because you have been faithful in little things, come and share the joy of your Lord" (*cf*. Matt. 25:21).
 
 The Church doesn't want us to worry about our death, or think too much about our death, or that we're getting older. She just wants us to look to the wonderful things that come later.
 
@@ -128,7 +130,7 @@ She said, "What I really want is a drink." They went to the bar and they got a d
 
 While they were sitting down over the drink in the bar, he said to her, "Look, why don't you marry me? And you keep the baby, and then we'll set up a business and we'll carry on. We'll see how we go." That's what they did. She kept the baby.
 
-This priest said, "You know, when I was visiting this man, his children came to see him. And there were three or four children. I was very interested in the eldest, but I tried not to take too much notice of her to see what she was like. But they were all very united, beautiful family."
+This priest said, "You know, when I was visiting this man, his children came to see him. And there were three or four children. I was very interested in the eldest, but I tried not to take too much notice of her to see what she was like. But they were all very united, a beautiful family."
 
 And he was saying, "You know, the cancer disappeared later on." He said, "God didn't forget that thing."
 
@@ -140,7 +142,7 @@ The Book of Wisdom continues, "The upright, though he die before his time, will 
 
 Sometimes people die before their time, or what we think is before their time. But everybody gets their time.
 
-Time is a gift of God. A gift to do something with it. But don't just say, "I have time, I have time, I have time." It's like a flyer or a pencil. Nobody goes around saying, "I have a pencil, I have a pencil, I have a pencil."
+Time is a gift of God. A gift to do something with it. We don't just say, "I have time, I have time, I have time." It's like a flyer or a pencil. Nobody goes around saying, "I have a pencil, I have a pencil, I have a pencil."
 
 You tell them, "What can you do with your pencil or your pen? Will you write a check? Will you sign a contract? Will you give your autograph?" That's what's important, what you're going to do with it.
 
@@ -156,13 +158,13 @@ He called out to people for some help, but maybe they were far away, or they wer
 
 A thought came to him, "St. Josemaría always taught us to try and make good use of our time." He was thinking, "Now how, at six in the morning, can I make good use of my time lying here on the floor in my room, pinned down by a bed?"
 
-And he thought, "I could get my Rosary set for the day. Something productive in this unusual situation."
+And he thought, "I could get my Rosary said for the day. Something productive in this unusual situation."
 
 He began to say his Rosary, and halfway through the first mystery, the thought occurred to him, "Maybe this is the moment of my death. Maybe in three months' time, people will realize I am missing. And they'll come to look for me and they'll find my bones here in my bedroom."
 
 These were the thoughts that were going through his mind. All the things that people would say or discover.
 
-The next thought was, "Oh, my goodness, they'll say I was killed by a bed. First person in human history to be killed by a bed. Maybe they'll put this on my tombstone: killed by a bed. I might even make the Guinness Book of Records, no?---the first person to be killed by a bed."
+The next thought was, "Oh, my goodness, they'll say I was killed by a bed. First person in human history to be killed by a bed. Maybe they'll put this on my tombstone: killed by a bed. I might even make the Guinness Book of Records, no?---the first person in human history to be killed by a bed."
 
 Of course, the moral of the story is that it doesn't really matter how we die. All the silly, stupid things that could happen. All the diseases, the accidents.
 
@@ -248,7 +250,7 @@ And here he was confirming all these truths that we are given. We really do go b
 
 The Church reminds us of this reality. We can't put our heart and our treasure into the things of this world.
 
-Pope Francis has spoken quite a bit recently about the spiritual emptiness of the world, the world that is so much immersed in material things (*cf*. Pope Francis, Apostolic Exhortation, *Querida Amazonia*, Point 108, February 2, 2020; *Angelus*, June 19, 2016).
+Pope Francis has spoken quite a bit recently about the spiritual emptiness of the world, the world that is so much immersed in material things (*cf*. Pope Francis, Apostolic Exhortation, *Querida Amazonia*, Point 108, February 2, 2020).
 
 "...death is a passage into a life that man has prepared here below and that God continues without end" (Robert Cardinal Sarah, Foreword to Nicolas Diat, *A Time to Die*).
 

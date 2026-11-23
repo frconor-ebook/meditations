@@ -1,13 +1,13 @@
 ---
 layout: homily
-title: "Self-denial"
+title: "Self-Denial"
 description: "\"If any person would come after me,\" said Our Lord, \"let him deny himself and take up his cross daily and follow me\" (Luke 9:23). Our Lord places a very..."
 reading_time: 22
 tags: ["Virtues & Struggle"]
-prev_slug: self-love-the-enemy
-prev_title: "Self-Love: The Enemy"
-next_slug: self-emptying-and-st-joseph
-next_title: "Self-emptying and St. Joseph"
+prev_slug: seeing-christ-in-illness
+prev_title: "Seeing Christ in Illness"
+next_slug: self-love-the-enemy
+next_title: "Self-Love: The Enemy"
 related: [{"slug": "self-love-the-enemy", "title": "Self-Love: The Enemy"}, {"slug": "self-emptying-and-st-joseph", "title": "Self-emptying and St. Joseph"}, {"slug": "the-mass-and-personal-self-surrender", "title": "The Mass and Personal Self-Surrender"}]
 ---
 
@@ -43,9 +43,7 @@ A Standard Four little girl in Primary School told me once, "Father, I hate carr
 
 So I had to say, "You see, that has to do with something that's in the Gospel where Our Lord says, 'Unless you deny yourself and take up your carrots, you cannot be my disciple.'"
 
-Every day we have our carrots---little things that come along that we weren't expecting, possibly that come from the hands of others. But yet all those things are divine invitations.
-
-That one special thing that we find a bit difficult. That virtue that we find a bit more difficult to practice. That piece of work that we find a bit more tedious, that requires a bit more effort.
+Every day we have our carrots---little things that come along that we weren't expecting, possibly that come from the hands of others. But yet all those things are divine invitations: That one special thing that we find a bit difficult. That virtue that we find a bit more difficult to practice. That piece of work that we find a bit more tedious, that requires a bit more effort.
 
 But the effort to practice the simple virtues of each day---order, putting things in their place, finishing things well, being on time for everything that we have to do---when we look at things in this way, we find that every ordinary day presents a myriad of opportunities to offer Our Lord the martyrdom of little things.
 
@@ -111,7 +109,7 @@ Lent is a time of great spiritual bonanza, a time of grace for us to grow, to im
 
 Often the supernatural fruitfulness of our apostolate and effectiveness is tied up in those little acts of self-denial, of showing Our Lord through our deeds that we want this soul to go forward, we want this soul to improve, or we want this person we're speaking to to understand on a deep level the things we're communicating to them.
 
-And with our vocation, lying smack in the middle of the world, in the ordinary duties of every day, that's where Our Lord wants us to live out this life of self-denial: in our work, when we're tired, when we're stressed, when we feel like everything is going wrong or that we're getting nowhere, or things we're studying are not going into our mind, we can't get the ideas from the paper into our head---we persevere in those hours of work, hours of study, and begin again, keep looking for the solution to make our periods of study or work more effective.
+And with our vocation, lying smack in the middle of the world, in the ordinary duties of every day---that's where Our Lord wants us to live out this life of self-denial: in our work, when we're tired, when we're stressed, when we feel like everything is going wrong or that we're getting nowhere, or things we're studying are not going into our mind, we can't get the ideas from the paper into our head---we persevere in those hours of work, hours of study, and begin again, keep looking for the solution to make our periods of study or work more effective.
 
 How can I concentrate a bit more? How can I work with greater intensity? Or to get this job that I have to do get done in the shortest possible time?
 
@@ -129,11 +127,13 @@ Or in the street, when we're walking around the place, we're living our *presenc
 
 The field of small mortifications is a huge area and people will notice, and they'll say, "Here is a person who tries to live the life of Jesus Christ."
 
-We're told in *The Way of the Cross*, "At times the Cross appears without our looking for it" (J. Escrivá, *The Way of the Cross*, Fifth Station).
+We're told in *The Way of the Cross*, "At times the Cross appears without our looking for it" (J. Escrivá, *The Way of the Cross*,Fifth Station).
 
-Changes of plans, things that go wrong, we drop or break something, or our plans change, we were going to go somewhere for an excursion or something and now, it's raining or it's not a suitable day or something else has happened. The Cross is very good at appearing when we're not looking for it.
+Changes of plans, things that go wrong, we drop or break something, or our plans change, we were going to go somewhere for an excursion or something and now, it's raining or it's not a suitable day or something else has happened.
 
-Murphy's Law: whatever can go wrong will go wrong. We're not put off by those things. We're ready, we're flexible, we know how to hop on the other foot, to play the game as it comes, not to drop the ball, to laugh at situations, to laugh at life, to be on top of life.
+The cross is very good at appearing when we're not looking for it. Murphy's Law: whatever can go wrong will go wrong.
+
+We're not put off by those things. We're ready, we're flexible, we know how to hop on the other foot, to play the game as it comes, not to drop the ball, to laugh at situations, to laugh at life, to be on top of life.
 
 Self-denial makes us conquerors. We live on top of every situation, because we're not giving in to our own despondency, or discouragement, or despair, or anger, or all kinds of other things.
 
@@ -153,7 +153,7 @@ Pray for the Holy Father, pray for the Church, pray for our apostolate. It leads
 
 But our spirit of hard work reserves those moments for certain periods of the day. Maybe this isn't the moment to take it easy or to sit down, take a breather, or something of that nature. Maybe God wants me to finish this job now.
 
-There are moments in the day that are moments for rest, and night is a time for rest. But we try not to give our body the rest that it seeks; otherwise we wouldn't do anything. St. Josemaría in *The Way* says, "...give the body a little less than it deserves" (J. Escrivá, *The Way*, Point 196).
+There are moments in the day which are moments for rest, and night is a time for rest. But we try not to give our body the rest that it seeks; otherwise, we wouldn't do anything. St. Josemaría in *The Way* says, "...give the body a little less than it deserves" (J. Escrivá, *The Way*, Point 196).
 
 It's a good rule of life. A little less food, a little less drink, a little less sleep, a little less comfort. "Give the body a little less than it deserves." And we may find that our body clamors for all sorts of compensations and consolations.
 
@@ -193,7 +193,7 @@ If we find that our small mortifications have got a little bit out of harmony or
 
 Morning, noon, and night, thinking about others, praying about the others. We become the happiest people in the world. That's the way we live the life of Christ.
 
-We've heard the term, *living unity of life. Unity of life* is the harmonious combination of all the aspects of our life into one single thing: professional, family, social, spiritual. We blend all these things into a unity. Demands more piety.
+We've heard the term, *living unity of life. Unity of life* is the harmonious combination of all the aspects of our life into one single thing: professional, family, social, spiritual. We blend all these things into a unity. It demands more piety.
 
 But ultimately that's mortification. Living our spirit at this moment, living our vocation. What does my Christian vocation demand of me in this particular hour, in this particular moment? What should I be doing? What does God want of me? And then I try and live that.
 
@@ -229,13 +229,11 @@ As we go through our day, there may be all sorts of obstacles or attractive temp
 
 But we know, 'I have to finish this thing first. I have to be more focused on this particular thing. I can't allow myself to dilly-dally at this particular time. It's not the right moment. I've got to fulfill my duty, not to give in to my whims and caprices.'
 
-If we don't follow that advice of Our Lord, if we don't take up our cross daily and follow Him in all the little things, then the opposite is that we live a life of whim and caprice.
-
-We're at the mercy of our own feelings, of every little cowbell that comes along, that attracts us in some way. We get totally distracted from the important thing.
+If we don't follow that advice of Our Lord, if we don't take up our cross daily and follow Him in all the little things, then the opposite is that we live a life of whim and caprice. We're at the mercy of our own feelings, of every little cowbell that comes along, that attracts us in some way. We get totally distracted from the important thing.
 
 Lord, help me to master all those tendencies that may be there. A lovely word: "self-mastery, self-control."
 
-The *Catechism of the Catholic Church* talks about the ascetical struggle. All down through Church history, that word has been very clear in the vocabulary of the saints.
+The *Catechism of the Catholic Church* talks about the ascetical struggle (*cf*. *Catechism*, Points 2015, 2733, 2755). All down through Church history, that word has been very clear in the vocabulary of the saints.
 
 The struggle against the self, the struggle. There's a phrase in the Old Testament that says, "The life of man on earth is a struggle" (Job 7:1).
 
