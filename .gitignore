@@ -21,11 +21,8 @@ __pycache__/
 # Full-content index is a local artifact only (12 MB, not used by the site)
 data/meditations.json
 docs/data/meditations.json
-# Raw embedding vectors & story-miner full dumps stay local; only compact
-# artifacts (semantic_related.json, TOP_30_FILM_STORIES.md) are committed.
+# Raw embedding vectors stay local; only compact semantic_related.json is committed.
 data/embeddings_cache.json
-data/film_stories_cache.json
-data/film_candidates.json
 # Legacy MiniSearch index (replaced by Pagefind; local artifact only)
 data/search_index.json
 
@@ -34,6 +31,3 @@ data/search_index.json
 
 # Build output — built and deployed by GitHub Actions, kept locally for preview/validation only
 /docs/
-
-# Short-film production workspaces (heavy MP3/PNG/MP4 media)
-/films/
