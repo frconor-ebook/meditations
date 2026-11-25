@@ -34,3 +34,6 @@ data/search_index.json
 
 # Build output — built and deployed by GitHub Actions, kept locally for preview/validation only
 /docs/
+
+# Short-film production workspaces (heavy MP3/PNG/MP4 media)
+/films/
