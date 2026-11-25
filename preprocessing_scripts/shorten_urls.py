@@ -14,8 +14,8 @@ from google.genai import types
 from openpyxl import Workbook
 from openpyxl.styles import Font
 
-# Rate limiting: Gemini API has a quota of 10 requests per minute
-GEMINI_RATE_LIMIT_DELAY = 7  # seconds between requests
+# Rate limiting: Tier 1 Gemini API supports high RPM; override via env if needed
+GEMINI_RATE_LIMIT_DELAY = float(os.getenv("GEMINI_RATE_LIMIT_DELAY", "0.25"))
 
 
 class AliasCollisionError(Exception):
@@ -85,11 +85,14 @@ def shorten_with_gemini(text: str, api_key: str, max_length: int = 15) -> str:
         The shortened text, or None if an error occurs.
     """
     client = genai.Client(api_key=api_key)
+    backoff = 2.0
+    max_retries = 4
 
-    try:
-        response = client.models.generate_content(
-            model="gemini-2.5-flash",
-            contents=f"""Create a very short URL slug (max {max_length} chars) for this Catholic meditation title:
+    for attempt in range(1, max_retries + 1):
+        try:
+            response = client.models.generate_content(
+                model="gemini-2.5-flash",
+                contents=f"""Create a very short URL slug (max {max_length} chars) for this Catholic meditation title:
 
 "{text}"
 
@@ -100,28 +103,32 @@ Abbreviation rules:
 - Lowercase, no spaces/special chars
 
 Output ONLY the slug, nothing else.""",
-            config=types.GenerateContentConfig(
-                system_instruction="You create ultra-short URL slugs. Be aggressive with abbreviation. Output only the slug.",
-                temperature=1.0,
-                max_output_tokens=1024,
-            ),
-        )
+                config=types.GenerateContentConfig(
+                    system_instruction="You create ultra-short URL slugs. Be aggressive with abbreviation. Output only the slug.",
+                    temperature=1.0,
+                    max_output_tokens=1024,
+                ),
+            )
 
-        shortened_text = response.text.strip()
+            shortened_text = response.text.strip()
 
-        # Remove special characters and convert to lowercase
-        shortened_text = re.sub(r"[^a-z\s]", "", shortened_text.lower())
+            # Remove special characters and convert to lowercase
+            shortened_text = re.sub(r"[^a-z\s]", "", shortened_text.lower())
 
-        # Rate limiting delay to avoid hitting Gemini API quota
-        time.sleep(GEMINI_RATE_LIMIT_DELAY)
+            if GEMINI_RATE_LIMIT_DELAY > 0:
+                time.sleep(GEMINI_RATE_LIMIT_DELAY)
 
-        return shortened_text
+            return shortened_text
 
-    except Exception as e:
-        print(f"Error shortening with Gemini: {e}")
-        # Still apply delay on error to avoid rapid retries
-        time.sleep(GEMINI_RATE_LIMIT_DELAY)
-        return None
+        except Exception as e:
+            err_str = str(e)
+            if attempt < max_retries and ("429" in err_str or "RESOURCE_EXHAUSTED" in err_str):
+                print(f"Rate limited on attempt {attempt}/{max_retries}; sleeping {backoff:.1f}s...")
+                time.sleep(backoff)
+                backoff = min(backoff * 2.0, 30.0)
+                continue
+            print(f"Error shortening with Gemini: {e}")
+            return None
 
 
 def extract_numbers_from_title(title: str) -> str:
