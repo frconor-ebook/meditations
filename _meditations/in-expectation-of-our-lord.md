@@ -8,7 +8,7 @@ prev_slug: imagination-the-madwoman
 prev_title: "Imagination: The Madwoman"
 next_slug: in-the-heart-of-joseph-and-mary
 next_title: "In the Heart of Joseph and Mary"
-related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "the-epiphany-of-our-lord-2027-edition", "title": "The Epiphany of Our Lord (2027 Edition)"}, {"slug": "waiting-for-the-lord", "title": "Waiting for The Lord"}]
+related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "the-annunciation-advent", "title": "The Annunciation (Advent)"}, {"slug": "the-apostolate-of-confession", "title": "The Apostolate of Confession"}, {"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}, {"slug": "christmas", "title": "Christmas"}]
 ---
 
 By Fr. Conor Donnelly

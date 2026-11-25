@@ -8,7 +8,7 @@ prev_slug: our-lady-of-ransom
 prev_title: "Our Lady of Ransom"
 next_slug: our-lady-of-sorrows
 next_title: "Our Lady of Sorrows"
-related: [{"slug": "our-lady-of-ransom", "title": "Our Lady of Ransom"}, {"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}]
+related: [{"slug": "our-lady-of-ransom", "title": "Our Lady of Ransom"}, {"slug": "our-lady-of-sorrows-2026", "title": "Our Lady of Sorrows (2026)"}, {"slug": "our-lady-mother-of-mercy", "title": "Our Lady, Mother of Mercy"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}]
 ---
 
 By Fr. Conor Donnelly

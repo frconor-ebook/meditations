@@ -8,7 +8,7 @@ prev_slug: the-creative-courage-of-st-joseph
 prev_title: "The Creative Courage of St. Joseph"
 next_slug: the-crucifixion
 next_title: "The Crucifixion"
-related: [{"slug": "love-for-the-cross", "title": "Love for the Cross"}, {"slug": "conjugal-love", "title": "Conjugal Love"}, {"slug": "god-has-captured-me-with-his-love", "title": "God Has Captured Me With His Love"}]
+related: [{"slug": "the-way-the-truth-and-the-life", "title": "The Way, the Truth, and the Life"}, {"slug": "the-light-of-the-world", "title": "The Light of the World"}, {"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "gamblers-on-calvary", "title": "Gamblers On Calvary"}, {"slug": "divine-intimacies", "title": "Divine Intimacies"}]
 ---
 
 

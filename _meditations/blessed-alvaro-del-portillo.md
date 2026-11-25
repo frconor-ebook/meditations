@@ -8,7 +8,7 @@ prev_slug: blessed-guadalupe-ortiz-de-landazuri
 prev_title: "Blessed Guadalupe Ortiz de Land\u00e1zuri"
 next_slug: by-their-fruits-you-will-know-them
 next_title: "By Their Fruits, You Will Know Them"
-related: [{"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "blessed-are-the-peacemakers", "title": "Blessed Are the Peacemakers"}]
+related: [{"slug": "humility", "title": "Humility"}, {"slug": "the-father-in-the-work", "title": "The Father in the Work"}, {"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}, {"slug": "st-josemaria-escriva-feast-june-26th", "title": "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"}, {"slug": "little-things", "title": "Little Things"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: st-francis-xavier
 prev_title: "St. Francis Xavier"
 next_slug: st-francis-of-assisi
 next_title: "St. Francis of Assisi"
-related: [{"slug": "st-francis-xavier", "title": "St. Francis Xavier"}, {"slug": "st-francis-of-assisi", "title": "St. Francis of Assisi"}, {"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}]
+related: [{"slug": "the-paralytic-and-his-friends", "title": "The Paralytic and His Friends"}, {"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}, {"slug": "education-in-social-virtues", "title": "Education In Social Virtues"}, {"slug": "the-good-samaritan", "title": "The Good Samaritan"}, {"slug": "st-barnabas-2026", "title": "St. Barnabas (2026)"}]
 ---
 
 

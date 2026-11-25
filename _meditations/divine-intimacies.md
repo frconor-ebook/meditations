@@ -8,7 +8,7 @@ prev_slug: divine-filiation
 prev_title: "Divine Filiation"
 next_slug: divine-mercy-sunday
 next_title: "Divine Mercy Sunday"
-related: [{"slug": "divine-filiation", "title": "Divine Filiation"}, {"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}, {"slug": "maturity-and-participation-in-the-divine-nature", "title": "Maturity and Participation in the Divine Nature"}]
+related: [{"slug": "jesus-therefore-wearied-from-his-journey", "title": "Jesus Therefore, Wearied from His Journey"}, {"slug": "the-way-the-truth-and-the-life", "title": "The Way, the Truth, and the Life"}, {"slug": "the-depths-of-simplicity", "title": "The Depths of Simplicity"}, {"slug": "the-light-of-the-world", "title": "The Light of the World"}, {"slug": "the-infinity-of-littleness", "title": "The Infinity of Littleness"}]
 ---
 
 By Fr. Conor Donnelly

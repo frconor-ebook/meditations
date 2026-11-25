@@ -7,7 +7,7 @@ prev_slug: raise-the-world
 prev_title: "Raise the World"
 next_slug: reading-the-signs
 next_title: "Reading the Signs"
-related: [{"slug": "jesus-christ-the-eternal-high-priest", "title": "Jesus Christ, The Eternal High Priest"}, {"slug": "by-their-fruits-you-will-know-them", "title": "By Their Fruits, You Will Know Them"}, {"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}]
+related: [{"slug": "my-words-will-not-pass-away", "title": "My Words Will Not Pass Away"}, {"slug": "spirit-and-life", "title": "Spirit and Life"}, {"slug": "the-curing-of-the-man-with-an-unclean-spirit", "title": "The Curing of the Man with an Unclean Spirit"}, {"slug": "study", "title": "Study"}, {"slug": "the-good-samaritan", "title": "The Good Samaritan"}]
 ---
 
 

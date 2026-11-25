@@ -8,7 +8,7 @@ prev_slug: perseverance
 prev_title: "Perseverance"
 next_slug: peter-and-prayer
 next_title: "Peter and Prayer"
-related: [{"slug": "growth-in-prayer", "title": "Growth in Prayer"}, {"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}]
+related: [{"slug": "our-father-god", "title": "Our Father God"}, {"slug": "true-prayer", "title": "True Prayer"}, {"slug": "self-denial", "title": "Self-Denial"}, {"slug": "love-for-the-cross", "title": "Love for the Cross"}, {"slug": "judas", "title": "Judas"}]
 ---
 
 By Fr. Conor Donnelly

@@ -7,6 +7,7 @@ prev_slug: all-you-peoples-bless-the-lord
 prev_title: "All You Peoples, Bless the Lord"
 next_slug: anchored-in-hope
 next_title: "Anchored in Hope"
+related: [{"slug": "rectitude-of-intention", "title": "Rectitude of Intention"}, {"slug": "contemplative-soul", "title": "Contemplative Soul"}, {"slug": "spirit-of-service", "title": "Spirit of Service"}, {"slug": "self-love-the-enemy", "title": "Self-Love: The Enemy"}, {"slug": "vanity-he-must-increase", "title": "Vanity (He Must Increase)"}]
 ---
 
 By Fr. Conor Donnelly

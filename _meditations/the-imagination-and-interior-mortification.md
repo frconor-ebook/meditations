@@ -8,7 +8,7 @@ prev_slug: the-house-of-god
 prev_title: "The House of God"
 next_slug: the-immaculate-conception-dec-8
 next_title: "The Immaculate Conception (Dec. 8)"
-related: [{"slug": "interior-struggle", "title": "Interior Struggle"}, {"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "the-battles-of-the-interior-life", "title": "The Battles of the Interior Life"}]
+related: [{"slug": "watchfulness", "title": "Watchfulness"}, {"slug": "the-narrow-path", "title": "The Narrow Path"}, {"slug": "on-our-way-to-the-house-of-our-father", "title": "On Our Way to The House of Our Father"}, {"slug": "waiting-for-the-lord", "title": "Waiting for The Lord"}, {"slug": "purity-of-the-heart", "title": "Purity of the Heart"}]
 ---
 
 By Fr. Conor Donnelly

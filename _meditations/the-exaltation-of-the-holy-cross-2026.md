@@ -8,7 +8,7 @@ prev_slug: the-exaltation-of-the-holy-cross
 prev_title: "The Exaltation of the Holy Cross"
 next_slug: the-faith-of-abraham
 next_title: "The Faith of Abraham"
-related: [{"slug": "the-exaltation-of-the-holy-cross", "title": "The Exaltation of the Holy Cross"}, {"slug": "the-priestly-society-of-the-holy-cross", "title": "The Priestly Society of the Holy Cross"}, {"slug": "cross-rejection", "title": "Cross Rejection"}]
+related: [{"slug": "the-exaltation-of-the-holy-cross", "title": "The Exaltation of the Holy Cross"}, {"slug": "placing-the-cross-on-the-summit-of-all-human-activities", "title": "Placing the Cross on the Summit of All Human Activities"}, {"slug": "our-lady-of-sorrows-2026", "title": "Our Lady of Sorrows (2026)"}, {"slug": "love-for-the-cross", "title": "Love for the Cross"}, {"slug": "the-narrow-path", "title": "The Narrow Path"}]
 ---
 
 

@@ -8,7 +8,7 @@ prev_slug: pentecost-sunday
 prev_title: "Pentecost Sunday"
 next_slug: personal-prayer
 next_title: "Personal Prayer"
-related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
+related: [{"slug": "optimism", "title": "Optimism"}, {"slug": "fidelity-in-marriage", "title": "Fidelity in Marriage"}, {"slug": "on-hope", "title": "On Hope"}, {"slug": "correspondence-to-grace", "title": "Correspondence to Grace"}, {"slug": "magnanimity", "title": "Magnanimity"}]
 ---
 
 By Fr. Conor Donnelly

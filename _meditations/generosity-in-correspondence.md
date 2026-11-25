@@ -8,7 +8,7 @@ prev_slug: generosity-towards-god
 prev_title: "Generosity Towards God"
 next_slug: god-has-captured-me-with-his-love
 next_title: "God Has Captured Me With His Love"
-related: [{"slug": "generosity", "title": "Generosity"}, {"slug": "generosity-towards-god", "title": "Generosity Towards God"}, {"slug": "correspondence-to-grace", "title": "Correspondence to Grace"}]
+related: [{"slug": "correspondence-to-grace", "title": "Correspondence to Grace"}, {"slug": "the-love-of-god", "title": "The Love of God"}, {"slug": "magnanimity", "title": "Magnanimity"}, {"slug": "perseverance", "title": "Perseverance"}, {"slug": "launch-out-into-the-deep", "title": "Launch Out Into The Deep"}]
 ---
 
 

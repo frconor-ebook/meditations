@@ -8,7 +8,7 @@ prev_slug: christmas-day-2025
 prev_title: "Christmas Day, 2025"
 next_slug: churches-and-the-mass
 next_title: "Churches and the Mass"
-related: [{"slug": "jesus-christ-the-eternal-high-priest", "title": "Jesus Christ, The Eternal High Priest"}, {"slug": "eternal-happiness", "title": "Eternal Happiness"}, {"slug": "eternal-life", "title": "Eternal Life"}]
+related: [{"slug": "inestimable-gift", "title": "Inestimable Gift"}, {"slug": "the-incarnation-and-the-eucharist", "title": "The Incarnation and the Eucharist"}, {"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}, {"slug": "appreciating-the-gift", "title": "Appreciating the Gift"}, {"slug": "love-for-priests", "title": "Love For Priests"}]
 ---
 
 

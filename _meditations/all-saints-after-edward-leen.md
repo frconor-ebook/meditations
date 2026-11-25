@@ -8,7 +8,7 @@ prev_slug: aim-high
 prev_title: "Aim High"
 next_slug: all-saints-day
 next_title: "All Saints\u2019 Day"
-related: [{"slug": "st-teresa-of-avila-after-edward-leen", "title": "St. Teresa of \u00c1vila (after Edward Leen)"}, {"slug": "intimacy-with-god-after-edward-leen", "title": "Intimacy with God (after Edward Leen)"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}]
+related: [{"slug": "all-souls", "title": "All Souls"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}, {"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}, {"slug": "first-thoughts-and-emotions", "title": "First Thoughts and Emotions"}]
 ---
 
 

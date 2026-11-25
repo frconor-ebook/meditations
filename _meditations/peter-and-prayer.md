@@ -8,7 +8,7 @@ prev_slug: personal-prayer
 prev_title: "Personal Prayer"
 next_slug: peters-denials
 next_title: "Peter\u2019s Denials"
-related: [{"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}, {"slug": "love-for-peter", "title": "Love for Peter"}, {"slug": "peters-denials", "title": "Peter\u2019s Denials"}]
+related: [{"slug": "good-friday-of-the-lords-passion", "title": "Good Friday of the Lord\u2019s Passion"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}, {"slug": "st-joseph-the-family-man", "title": "St. Joseph, The Family Man"}, {"slug": "the-anniversary-of-pope-franciss-election", "title": "The Anniversary of Pope Francis\u2019s Election"}, {"slug": "cross-rejection", "title": "Cross Rejection"}]
 ---
 
 By Fr. Conor Donnelly

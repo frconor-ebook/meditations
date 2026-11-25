@@ -8,7 +8,7 @@ prev_slug: the-miraculous-catch-of-fish
 prev_title: "The Miraculous Catch of Fish"
 next_slug: the-multiplication-of-the-loaves-and-fish
 next_title: "The Multiplication of the Loaves and Fish"
-related: [{"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}, {"slug": "mary-mother-of-god", "title": "Mary, Mother of God"}, {"slug": "mary-mother-of-god-2nd-ed", "title": "Mary, Mother of God (2nd Ed.)"}]
+related: [{"slug": "enlarging-the-heart", "title": "Enlarging the Heart"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}, {"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}, {"slug": "fathers-day", "title": "Father\u2019s Day"}, {"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}]
 ---
 
 By Fr. Conor Donnelly

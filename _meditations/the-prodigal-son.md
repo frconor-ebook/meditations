@@ -8,7 +8,7 @@ prev_slug: the-priestly-society-of-the-holy-cross
 prev_title: "The Priestly Society of the Holy Cross"
 next_slug: the-prodigal-son-2025-edition
 next_title: "The Prodigal Son (2025 Edition)"
-related: [{"slug": "the-prodigal-son-2025-edition", "title": "The Prodigal Son (2025 Edition)"}, {"slug": "the-unmerciful-servant", "title": "The Unmerciful Servant"}, {"slug": "a-merciful-messiah", "title": "A Merciful Messiah"}]
+related: [{"slug": "mary-of-bethanys-authentic-love", "title": "Mary of Bethany\u2019s Authentic Love"}, {"slug": "aim-high", "title": "Aim High"}, {"slug": "fathers-day", "title": "Father\u2019s Day"}, {"slug": "abandonment", "title": "Abandonment"}, {"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}]
 ---
 
 By Fr. Conor Donnelly

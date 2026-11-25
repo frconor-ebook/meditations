@@ -8,7 +8,7 @@ prev_slug: st-john-henry-newman-on-the-laity
 prev_title: "St. John Henry Newman on The Laity"
 next_slug: st-john-mary-vianney-2026
 next_title: "St. John Mary Vianney (2026)"
-related: [{"slug": "st-john-mary-vianney-2026", "title": "St. John Mary Vianney (2026)"}, {"slug": "st-john", "title": "St. John"}, {"slug": "st-john-2025-ed", "title": "St. John (2025 Ed.)"}]
+related: [{"slug": "love-for-priests", "title": "Love For Priests"}, {"slug": "st-john-mary-vianney-2026", "title": "St. John Mary Vianney (2026)"}, {"slug": "the-one-who-gives-us-jesus", "title": "The One Who Gives Us Jesus"}, {"slug": "st-pius-x", "title": "St. Pius X"}, {"slug": "unity-of-life", "title": "Unity of Life"}]
 ---
 
 By Fr. Conor Donnelly

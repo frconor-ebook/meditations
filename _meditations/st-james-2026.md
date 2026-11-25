@@ -8,7 +8,7 @@ prev_slug: st-james
 prev_title: "St. James"
 next_slug: st-joachim-and-st-anne
 next_title: "St. Joachim and St. Anne"
-related: [{"slug": "st-james", "title": "St. James"}, {"slug": "st-philip-and-st-james", "title": "St. Philip and St. James"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}]
+related: [{"slug": "st-james", "title": "St. James"}, {"slug": "st-barnabas-2026", "title": "St. Barnabas (2026)"}, {"slug": "corpus-christi-2026", "title": "Corpus Christi (2026)"}, {"slug": "i-came-to-cast-fire-on-earth", "title": "I Came To Cast Fire On Earth"}, {"slug": "the-harvest-is-plentiful", "title": "The Harvest is Plentiful"}]
 ---
 
 

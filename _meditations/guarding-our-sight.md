@@ -7,6 +7,7 @@ prev_slug: growth-in-prayer
 prev_title: "Growth in Prayer"
 next_slug: happy-are-the-meek
 next_title: "Happy Are the Meek"
+related: [{"slug": "the-blind-man", "title": "The Blind Man"}, {"slug": "holy-purity", "title": "Holy Purity"}, {"slug": "walking-on-the-waterfaith", "title": "Walking on the Water\u2013\u2013Faith"}, {"slug": "the-truth-will-make-you-free", "title": "The Truth Will Make You Free"}, {"slug": "the-storm-on-the-lake", "title": "The Storm on the Lake"}]
 ---
 
 

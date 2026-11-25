@@ -7,7 +7,7 @@ prev_slug: the-fifth-sunday-of-st-joseph-2026
 prev_title: "The Fifth Sunday of St. Joseph (2026)"
 next_slug: the-first-disciples
 next_title: "The First Disciples"
-related: [{"slug": "first-thoughts-and-emotions", "title": "First Thoughts and Emotions"}, {"slug": "the-anniversary-of-the-first-holy-communion-of-st-josemaria", "title": "The Anniversary of the First Holy Communion of St. Josemar\u00eda"}, {"slug": "the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature", "title": "The Anniversary of the Ordination of the First Three Priests of the Prelature"}]
+related: [{"slug": "the-infinite-love-of-god", "title": "The Infinite Love of God"}, {"slug": "tepidity", "title": "Tepidity"}, {"slug": "the-lords-day", "title": "The Lord\u2019s Day"}, {"slug": "where-is-your-heart", "title": "Where Is Your Heart?"}, {"slug": "the-love-of-god", "title": "The Love of God"}]
 ---
 
 

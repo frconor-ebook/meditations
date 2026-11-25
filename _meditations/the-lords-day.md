@@ -7,7 +7,7 @@ prev_slug: the-light-of-the-world
 prev_title: "The Light of the World"
 next_slug: the-lost-sheep
 next_title: "The Lost Sheep"
-related: [{"slug": "all-you-peoples-bless-the-lord", "title": "All You Peoples, Bless the Lord"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}]
+related: [{"slug": "the-holiness-in-rest-a-sacred-pause", "title": "The Holiness in Rest: A Sacred Pause"}, {"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "the-first-commandment", "title": "The First Commandment"}, {"slug": "the-day-of-joy", "title": "The Day of Joy"}, {"slug": "love-for-priests", "title": "Love For Priests"}]
 ---
 
 By Fr. Conor Donnelly

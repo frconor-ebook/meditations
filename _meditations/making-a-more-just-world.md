@@ -7,7 +7,7 @@ prev_slug: magnanimity
 prev_title: "Magnanimity"
 next_slug: making-good-decisions-or-the-virtue-of-prudence
 next_title: "Making Good Decisions or The Virtue of Prudence"
-related: [{"slug": "it-is-right-and-just", "title": "It Is Right and Just"}, {"slug": "making-good-decisions-or-the-virtue-of-prudence", "title": "Making Good Decisions or The Virtue of Prudence"}, {"slug": "making-up-for-lost-time", "title": "Making Up for Lost Time"}]
+related: [{"slug": "thirsting-for-justice", "title": "Thirsting for Justice"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}, {"slug": "it-is-right-and-just", "title": "It Is Right and Just"}, {"slug": "to-serve", "title": "To Serve"}, {"slug": "education-in-social-virtues", "title": "Education In Social Virtues"}]
 ---
 
 By Fr. Conor Donnelly

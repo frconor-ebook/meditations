@@ -8,7 +8,7 @@ prev_slug: love-for-chastity
 prev_title: "Love for Chastity"
 next_slug: love-for-peter
 next_title: "Love for Peter"
-related: [{"slug": "discerning-ones-vocation", "title": "Discerning One's Vocation"}, {"slug": "the-vocation-of-our-lady", "title": "The Vocation of Our Lady"}, {"slug": "conjugal-love", "title": "Conjugal Love"}]
+related: [{"slug": "on-work", "title": "On Work"}, {"slug": "st-josemaria-escriva-feast-june-26th", "title": "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"}, {"slug": "humility", "title": "Humility"}, {"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}, {"slug": "generosity", "title": "Generosity"}]
 ---
 
 By Fr. Conor Donnelly

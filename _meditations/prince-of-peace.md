@@ -8,7 +8,7 @@ prev_slug: presence-of-god
 prev_title: "Presence of God"
 next_slug: pro-active-love
 next_title: "Pro-Active Love"
-related: [{"slug": "the-shepherds-and-peace", "title": "The Shepherds and Peace"}, {"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "our-lady-of-peace", "title": "Our Lady of Peace"}]
+related: [{"slug": "the-shepherds-and-peace", "title": "The Shepherds and Peace"}, {"slug": "reading-the-signs", "title": "Reading the Signs"}, {"slug": "examination-of-conscience", "title": "Examination of Conscience"}, {"slug": "preparing-to-receive-jesus", "title": "Preparing to Receive Jesus"}, {"slug": "st-john-the-baptist", "title": "St. John the Baptist"}]
 ---
 
 By Fr. Conor Donnelly

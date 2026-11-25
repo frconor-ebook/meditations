@@ -8,7 +8,7 @@ prev_slug: st-john
 prev_title: "St. John"
 next_slug: st-john-henry-newman-on-friendship
 next_title: "St. John Henry Newman on Friendship"
-related: [{"slug": "st-john", "title": "St. John"}, {"slug": "st-john-henry-newman-on-friendship", "title": "St. John Henry Newman on Friendship"}, {"slug": "st-john-henry-newman-on-the-laity", "title": "St. John Henry Newman on The Laity"}]
+related: [{"slug": "st-john", "title": "St. John"}, {"slug": "st-john-the-baptist", "title": "St. John the Baptist"}, {"slug": "discerning-ones-vocation", "title": "Discerning One's Vocation"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}, {"slug": "god-has-captured-me-with-his-love", "title": "God Has Captured Me With His Love"}]
 ---
 
 By Fr. Conor Donnelly

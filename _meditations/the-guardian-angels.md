@@ -8,7 +8,7 @@ prev_slug: the-great-saint-of-avila
 prev_title: "The Great Saint of Avila"
 next_slug: the-guardian-angels-2026
 next_title: "The Guardian Angels (2026)"
-related: [{"slug": "the-guardian-angels-2026", "title": "The Guardian Angels (2026)"}, {"slug": "our-lady-of-the-angels", "title": "Our Lady of the Angels"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}]
+related: [{"slug": "the-guardian-angels-2026", "title": "The Guardian Angels (2026)"}, {"slug": "our-lady-of-the-angels", "title": "Our Lady of the Angels"}, {"slug": "the-feast-of-the-archangels-2026", "title": "The Feast of the Archangels (2026)"}, {"slug": "souls-of-prayer", "title": "Souls of Prayer"}, {"slug": "the-last-day-of-the-liturgical-year-vigilance", "title": "The Last Day of the Liturgical Year (Vigilance)"}]
 ---
 
 By Fr. Conor Donnelly

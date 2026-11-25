@@ -8,7 +8,7 @@ prev_slug: children-of-god
 prev_title: "Children of God"
 next_slug: christ-is-passing-by
 next_title: "Christ Is Passing By"
-related: [{"slug": "appreciating-the-gift", "title": "Appreciating the Gift"}, {"slug": "children-of-god", "title": "Children of God"}, {"slug": "inestimable-gift", "title": "Inestimable Gift"}]
+related: [{"slug": "heart-in-the-family", "title": "Heart in the Family"}, {"slug": "zeal-for-holiness-through-marriage", "title": "Zeal for Holiness Through Marriage"}, {"slug": "education-in-social-virtues", "title": "Education In Social Virtues"}, {"slug": "children-of-god", "title": "Children of God"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: learning-to-ask
 prev_title: "Learning to Ask"
 next_slug: life-of-childhood
 next_title: "Life of Childhood"
-related: [{"slug": "joy-in-the-cross-lent", "title": "Joy in the Cross (Lent)"}, {"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "christs-eternal-priesthood", "title": "Christ\u2019s Eternal Priesthood"}]
+related: [{"slug": "good-friday-of-the-lords-passion", "title": "Good Friday of the Lord\u2019s Passion"}, {"slug": "joy-in-the-cross-lent", "title": "Joy in the Cross (Lent)"}, {"slug": "chalice-possumus-we-can", "title": "Chalice, Possumus, We Can"}, {"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}, {"slug": "forgiveness", "title": "Forgiveness"}]
 ---
 
 By Fr. Conor Donnelly

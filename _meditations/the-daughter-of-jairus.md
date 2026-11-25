@@ -8,7 +8,7 @@ prev_slug: the-curing-of-the-possessed-man-gerasenes
 prev_title: "The Curing of the Possessed Man (Gerasenes)"
 next_slug: the-day-of-joy
 next_title: "The Day of Joy"
-related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
+related: [{"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}, {"slug": "christmas", "title": "Christmas"}, {"slug": "the-holy-innocents", "title": "The Holy Innocents"}, {"slug": "the-syrophoenician-woman", "title": "The Syrophoenician Woman"}, {"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}]
 ---
 
 By Fr. Conor Donnelly

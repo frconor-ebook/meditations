@@ -8,7 +8,7 @@ prev_slug: gamblers-on-calvary
 prev_title: "Gamblers On Calvary"
 next_slug: generosity-towards-god
 next_title: "Generosity Towards God"
-related: [{"slug": "generosity-towards-god", "title": "Generosity Towards God"}, {"slug": "generosity-in-correspondence", "title": "Generosity in Correspondence"}, {"slug": "against-all-hope", "title": "Against All Hope"}]
+related: [{"slug": "the-widows-mite", "title": "The Widow\u2019s Mite"}, {"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}, {"slug": "st-josemaria-escriva-feast-june-26th", "title": "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"}, {"slug": "enlarging-the-heart", "title": "Enlarging the Heart"}, {"slug": "the-parable-of-the-ten-virgins", "title": "The Parable of the Ten Virgins"}]
 ---
 
 By Fr. Conor Donnelly

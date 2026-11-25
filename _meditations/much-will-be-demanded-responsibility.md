@@ -8,7 +8,7 @@ prev_slug: mothers-day
 prev_title: "Mother\u2019s Day"
 next_slug: my-words-will-not-pass-away
 next_title: "My Words Will Not Pass Away"
-related: [{"slug": "afterwards-you-will-understand", "title": "Afterwards You Will Understand"}, {"slug": "by-their-fruits-you-will-know-them", "title": "By Their Fruits, You Will Know Them"}, {"slug": "my-words-will-not-pass-away", "title": "My Words Will Not Pass Away"}]
+related: [{"slug": "helping-to-do-good", "title": "Helping To Do Good"}, {"slug": "the-dignity-of-work", "title": "The Dignity of Work"}, {"slug": "the-temple-tax", "title": "The Temple Tax"}, {"slug": "on-work", "title": "On Work"}, {"slug": "generosity", "title": "Generosity"}]
 ---
 
 By Fr. Conor Donnelly

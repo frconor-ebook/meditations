@@ -8,7 +8,7 @@ prev_slug: the-eternal-high-priest
 prev_title: "The Eternal High Priest"
 next_slug: the-eucharistfaith-and-hope
 next_title: "The Eucharist\u2013Faith and Hope"
-related: [{"slug": "holy-thursday-the-eucharist", "title": "Holy Thursday: The Eucharist"}, {"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing, Loving, and Living the Eucharist"}, {"slug": "our-lady-woman-of-the-eucharist", "title": "Our Lady, Woman of the Eucharist"}]
+related: [{"slug": "taking-the-bread", "title": "Taking the Bread"}, {"slug": "the-eucharistfaith-and-hope", "title": "The Eucharist\u2013Faith and Hope"}, {"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing, Loving, and Living the Eucharist"}, {"slug": "the-incarnation-and-the-eucharist", "title": "The Incarnation and the Eucharist"}, {"slug": "appreciating-the-gift", "title": "Appreciating the Gift"}]
 ---
 
 By Fr. Conor Donnelly

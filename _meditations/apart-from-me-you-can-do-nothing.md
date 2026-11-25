@@ -7,7 +7,7 @@ prev_slug: anchored-in-hope
 prev_title: "Anchored in Hope"
 next_slug: appreciating-the-gift
 next_title: "Appreciating the Gift"
-related: [{"slug": "from-tabor-to-calvary", "title": "From Tabor to Calvary"}, {"slug": "jesus-therefore-wearied-from-his-journey", "title": "Jesus Therefore, Wearied from His Journey"}, {"slug": "the-light-streaming-from-bethlehem", "title": "The Light Streaming from Bethlehem"}]
+related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "even-the-hairs-of-your-head", "title": "Even The Hairs of Your Head"}, {"slug": "the-storm-on-the-lake", "title": "The Storm on the Lake"}, {"slug": "walking-on-the-waterfaith", "title": "Walking on the Water\u2013\u2013Faith"}, {"slug": "our-father-god", "title": "Our Father God"}]
 ---
 
 By Fr. Conor Donnelly

@@ -7,6 +7,7 @@ prev_slug: god-has-captured-me-with-his-love
 prev_title: "God Has Captured Me With His Love"
 next_slug: gods-bridge-builder
 next_title: "God\u2019s Bridge-Builder"
+related: [{"slug": "the-feast-of-the-holy-innocents-2025", "title": "The Feast of the Holy Innocents, 2025"}, {"slug": "our-lady-of-sorrows", "title": "Our Lady of Sorrows"}, {"slug": "our-lady-comforter-of-the-afflicted", "title": "Our Lady, Comforter of the Afflicted"}, {"slug": "on-hope", "title": "On Hope"}, {"slug": "contrition", "title": "Contrition"}]
 ---
 
 By Fr. Conor Donnelly

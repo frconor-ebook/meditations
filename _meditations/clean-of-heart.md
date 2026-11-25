@@ -7,7 +7,7 @@ prev_slug: churches-and-the-mass
 prev_title: "Churches and the Mass"
 next_slug: come-lord-jesus
 next_title: "Come, Lord Jesus"
-related: [{"slug": "the-clean-of-heart-after-edward-leen", "title": "The Clean of Heart (after Edward Leen)"}, {"slug": "enlarging-the-heart", "title": "Enlarging the Heart"}, {"slug": "heart-in-the-family", "title": "Heart in the Family"}]
+related: [{"slug": "purity-of-soul", "title": "Purity of Soul"}, {"slug": "holy-purity", "title": "Holy Purity"}, {"slug": "marriage-and-indissolubility", "title": "Marriage and Indissolubility"}, {"slug": "love-for-chastity", "title": "Love for Chastity"}, {"slug": "temperance", "title": "Temperance"}]
 ---
 
 By Fr. Conor Donnelly

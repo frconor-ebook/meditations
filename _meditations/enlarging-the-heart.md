@@ -7,7 +7,7 @@ prev_slug: emmaus
 prev_title: "Emmaus"
 next_slug: eternal-happiness
 next_title: "Eternal Happiness"
-related: [{"slug": "clean-of-heart", "title": "Clean of Heart"}, {"slug": "heart-in-the-family", "title": "Heart in the Family"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}]
+related: [{"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}, {"slug": "gratitude-for-pope-benedict-xvi", "title": "Gratitude for Pope Benedict XVI"}, {"slug": "st-joseph-the-family-man", "title": "St. Joseph, The Family Man"}, {"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}, {"slug": "generosity", "title": "Generosity"}]
 ---
 
 By Fr. Conor Donnelly

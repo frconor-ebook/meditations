@@ -8,7 +8,7 @@ prev_slug: st-joseph-the-worker
 prev_title: "St. Joseph the Worker"
 next_slug: st-josephs-holiness-in-ordinary-life
 next_title: "St. Joseph\u2019s Holiness in Ordinary Life"
-related: [{"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}, {"slug": "self-emptying-and-st-joseph", "title": "Self-emptying and St. Joseph"}]
+related: [{"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}, {"slug": "st-josephs-holiness-in-ordinary-life", "title": "St. Joseph\u2019s Holiness in Ordinary Life"}, {"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}, {"slug": "the-creative-courage-of-st-joseph", "title": "The Creative Courage of St. Joseph"}, {"slug": "self-emptying-and-st-joseph", "title": "Self-emptying and St. Joseph"}]
 ---
 
 By Fr. Conor Donnelly

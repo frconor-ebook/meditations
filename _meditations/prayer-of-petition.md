@@ -8,7 +8,7 @@ prev_slug: pray-for-the-dead
 prev_title: "Pray for the Dead"
 next_slug: preparing-for-retreat
 next_title: "Preparing for Retreat"
-related: [{"slug": "growth-in-prayer", "title": "Growth in Prayer"}, {"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}]
+related: [{"slug": "learning-to-ask", "title": "Learning to Ask"}, {"slug": "our-father-god", "title": "Our Father God"}, {"slug": "personal-prayer", "title": "Personal Prayer"}, {"slug": "the-storm-on-the-lake", "title": "The Storm on the Lake"}, {"slug": "souls-of-prayer", "title": "Souls of Prayer"}]
 ---
 
 By Fr. Conor Donnelly

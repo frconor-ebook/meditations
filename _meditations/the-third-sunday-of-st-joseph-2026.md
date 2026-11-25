@@ -8,7 +8,7 @@ prev_slug: the-temple-tax
 prev_title: "The Temple Tax"
 next_slug: the-transfiguration
 next_title: "The Transfiguration"
-related: [{"slug": "the-fifth-sunday-of-st-joseph-2026", "title": "The Fifth Sunday of St. Joseph (2026)"}, {"slug": "the-first-sunday-of-st-joseph-2026", "title": "The First Sunday of St. Joseph (2026)"}, {"slug": "the-fourth-sunday-of-st-joseph-2026", "title": "The Fourth Sunday of St. Joseph (2026)"}]
+related: [{"slug": "the-first-sunday-of-st-joseph-2026", "title": "The First Sunday of St. Joseph (2026)"}, {"slug": "the-second-sunday-of-st-joseph-2026", "title": "The Second Sunday of St. Joseph (2026)"}, {"slug": "the-fourth-sunday-of-st-joseph-2026", "title": "The Fourth Sunday of St. Joseph (2026)"}, {"slug": "the-seventh-sunday-of-st-joseph-2026", "title": "The Seventh Sunday of St. Joseph (2026)"}, {"slug": "the-solemnity-of-st-joseph-2026", "title": "The Solemnity of St. Joseph (2026)"}]
 ---
 
 

@@ -8,7 +8,7 @@ prev_slug: st-patrick-march-17th
 prev_title: "St. Patrick, March 17th"
 next_slug: st-peter-and-st-paul
 next_title: "St. Peter and St. Paul"
-related: [{"slug": "st-peter-and-st-paul", "title": "St. Peter and St. Paul"}, {"slug": "the-chair-of-st-peter", "title": "The Chair of St. Peter"}, {"slug": "love-for-peter", "title": "Love for Peter"}]
+related: [{"slug": "st-peter-and-st-paul", "title": "St. Peter and St. Paul"}, {"slug": "the-first-martyrs-of-the-church-of-rome", "title": "The First Martyrs of the Church of Rome"}, {"slug": "love-for-peter", "title": "Love for Peter"}, {"slug": "i-came-to-cast-fire-on-earth", "title": "I Came To Cast Fire On Earth"}, {"slug": "st-thomas-more-and-st-john-fisher-2026", "title": "St. Thomas More and St. John Fisher (2026)"}]
 ---
 
 

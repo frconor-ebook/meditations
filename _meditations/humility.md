@@ -8,7 +8,7 @@ prev_slug: house-on-the-rock
 prev_title: "House on the Rock"
 next_slug: humility-lent
 next_title: "Humility (Lent)"
-related: [{"slug": "humility-lent", "title": "Humility (Lent)"}, {"slug": "humility-of-instruments", "title": "Humility of Instruments"}, {"slug": "humility-relying-on-god", "title": "Humility: Relying on God"}]
+related: [{"slug": "passion-for-unity", "title": "Passion for Unity"}, {"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}, {"slug": "blessed-alvaro-del-portillo", "title": "Blessed \u00c1lvaro del Portillo"}, {"slug": "the-father-in-the-work", "title": "The Father in the Work"}, {"slug": "little-things", "title": "Little Things"}]
 ---
 
 By Fr. Conor Donnelly

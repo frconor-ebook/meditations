@@ -8,7 +8,7 @@ prev_slug: at-the-school-of-mary
 prev_title: "At the School of Mary"
 next_slug: bartimaeus
 next_title: "Bartimaeus"
-related: [{"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}, {"slug": "blessed-alvaro-del-portillo", "title": "Blessed \u00c1lvaro del Portillo"}, {"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}]
+related: [{"slug": "the-grandmother", "title": "The Grandmother"}, {"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}, {"slug": "humility", "title": "Humility"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}, {"slug": "our-lady-of-mt-carmel-july-16th", "title": "Our Lady of Mt. Carmel (July 16th)"}]
 ---
 
 By Fr. Conor Donnelly

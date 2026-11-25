@@ -7,7 +7,7 @@ prev_slug: gods-bridge-builder
 prev_title: "God\u2019s Bridge-Builder"
 next_slug: good-friday-of-the-lords-passion
 next_title: "Good Friday of the Lord\u2019s Passion"
-related: [{"slug": "charity-versus-anger", "title": "Charity versus Anger"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}]
+related: [{"slug": "meekness", "title": "Meekness"}, {"slug": "charity-versus-anger", "title": "Charity versus Anger"}, {"slug": "sin-of-pride-the-elder-son", "title": "Sin of Pride (The Elder Son)"}, {"slug": "understanding", "title": "Understanding"}, {"slug": "pro-active-love", "title": "Pro-Active Love"}]
 ---
 
 By Fr. Conor Donnelly

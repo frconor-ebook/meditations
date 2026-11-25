@@ -8,7 +8,7 @@ prev_slug: judas
 prev_title: "Judas"
 next_slug: keeping-my-word
 next_title: "Keeping My Word"
-related: [{"slug": "charity", "title": "Charity"}, {"slug": "charity-and-the-tongue", "title": "Charity and the Tongue"}, {"slug": "charity-versus-anger", "title": "Charity versus Anger"}]
+related: [{"slug": "charity", "title": "Charity"}, {"slug": "the-speck-in-my-brothers-eye", "title": "The Speck In My Brother\u2019s Eye"}, {"slug": "pro-active-love", "title": "Pro-Active Love"}, {"slug": "self-denial", "title": "Self-Denial"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}]
 ---
 
 By Fr. Conor Donnelly

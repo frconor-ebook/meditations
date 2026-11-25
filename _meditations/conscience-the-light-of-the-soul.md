@@ -7,7 +7,7 @@ prev_slug: conjugal-love
 prev_title: "Conjugal Love"
 next_slug: contemplative-soul
 next_title: "Contemplative Soul"
-related: [{"slug": "christ-the-light", "title": "Christ the Light"}, {"slug": "contemplative-soul", "title": "Contemplative Soul"}, {"slug": "examination-of-conscience", "title": "Examination of Conscience"}]
+related: [{"slug": "freedom", "title": "Freedom"}, {"slug": "helping-to-do-good", "title": "Helping To Do Good"}, {"slug": "st-thomas-more", "title": "St. Thomas More"}, {"slug": "clean-of-heart", "title": "Clean of Heart"}, {"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}]
 ---
 
 By Fr. Conor Donnelly

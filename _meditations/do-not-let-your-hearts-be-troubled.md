@@ -7,7 +7,7 @@ prev_slug: do-not-be-afraid
 prev_title: "Do Not Be Afraid"
 next_slug: doctrinal-formation
 next_title: "Doctrinal Formation"
-related: [{"slug": "even-the-hairs-of-your-head", "title": "Even The Hairs of Your Head"}, {"slug": "hearts-on-fire", "title": "Hearts on Fire"}, {"slug": "the-king-of-hearts", "title": "The King of Hearts"}]
+related: [{"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "blessed-are-the-peacemakers", "title": "Blessed Are the Peacemakers"}, {"slug": "prince-of-peace", "title": "Prince of Peace"}, {"slug": "beginning-again", "title": "Beginning Again"}, {"slug": "be-you-perfect", "title": "Be You Perfect"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: the-first-sunday-of-st-joseph-2026
 prev_title: "The First Sunday of St. Joseph (2026)"
 next_slug: the-friend-of-sinners
 next_title: "The Friend of Sinners"
-related: [{"slug": "the-fifth-sunday-of-st-joseph-2026", "title": "The Fifth Sunday of St. Joseph (2026)"}, {"slug": "the-first-sunday-of-st-joseph-2026", "title": "The First Sunday of St. Joseph (2026)"}, {"slug": "the-second-sunday-of-st-joseph-2026", "title": "The Second Sunday of St. Joseph (2026)"}]
+related: [{"slug": "the-second-sunday-of-st-joseph-2026", "title": "The Second Sunday of St. Joseph (2026)"}, {"slug": "the-son-of-the-carpenter", "title": "The Son of the Carpenter"}, {"slug": "the-first-sunday-of-st-joseph-2026", "title": "The First Sunday of St. Joseph (2026)"}, {"slug": "the-third-sunday-of-st-joseph-2026", "title": "The Third Sunday of St. Joseph (2026)"}, {"slug": "egypt-and-the-holy-family", "title": "Egypt and the Holy Family"}]
 ---
 
 

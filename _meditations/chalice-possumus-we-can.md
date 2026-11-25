@@ -7,6 +7,7 @@ prev_slug: by-their-fruits-you-will-know-them
 prev_title: "By Their Fruits, You Will Know Them"
 next_slug: charity
 next_title: "Charity"
+related: [{"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}, {"slug": "the-mass-and-personal-self-surrender", "title": "The Mass and Personal Self-Surrender"}, {"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}, {"slug": "mortification", "title": "Mortification"}, {"slug": "peter-and-prayer", "title": "Peter and Prayer"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: placing-the-cross-on-the-summit-of-all-human-activities
 prev_title: "Placing the Cross on the Summit of All Human Activities"
 next_slug: poverty-and-detachment
 next_title: "Poverty and Detachment"
-related: [{"slug": "life-of-childhood", "title": "Life of Childhood"}, {"slug": "the-battles-of-the-interior-life", "title": "The Battles of the Interior Life"}, {"slug": "eternal-life", "title": "Eternal Life"}]
+related: [{"slug": "the-parable-of-the-talents", "title": "The Parable of the Talents"}, {"slug": "the-dignity-of-man", "title": "The Dignity of Man"}, {"slug": "the-feast-of-the-holy-family", "title": "The Feast of the Holy Family"}, {"slug": "preparing-for-retreat", "title": "Preparing for Retreat"}, {"slug": "our-lady-of-peace", "title": "Our Lady of Peace"}]
 ---
 
 By Fr. Conor Donnelly

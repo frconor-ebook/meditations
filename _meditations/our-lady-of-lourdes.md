@@ -8,7 +8,7 @@ prev_slug: our-lady-of-loreto
 prev_title: "Our Lady of Loreto"
 next_slug: our-lady-of-mt-carmel-july-16th
 next_title: "Our Lady of Mt. Carmel (July 16th)"
-related: [{"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
+related: [{"slug": "the-first-disciples", "title": "The First Disciples"}, {"slug": "abandonment", "title": "Abandonment"}, {"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}, {"slug": "the-beatitudes", "title": "The Beatitudes"}]
 ---
 
 By Fr. Conor Donnelly

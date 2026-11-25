@@ -7,6 +7,7 @@ prev_slug: self-emptying-and-st-joseph
 prev_title: "Self-emptying and St. Joseph"
 next_slug: shepherds-and-wise-men
 next_title: "Shepherds and Wise Men"
+related: [{"slug": "generosity-towards-god", "title": "Generosity Towards God"}, {"slug": "spirit-of-service", "title": "Spirit of Service"}, {"slug": "pro-active-love", "title": "Pro-Active Love"}, {"slug": "waiting-for-the-lord", "title": "Waiting for The Lord"}, {"slug": "rectitude-of-intention", "title": "Rectitude of Intention"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: the-mass
 prev_title: "The Mass"
 next_slug: the-miracle-at-cana
 next_title: "The Miracle at Cana"
-related: [{"slug": "churches-and-the-mass", "title": "Churches and the Mass"}, {"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}]
+related: [{"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}, {"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "chalice-possumus-we-can", "title": "Chalice, Possumus, We Can"}, {"slug": "holy-thursday-the-eucharist", "title": "Holy Thursday: The Eucharist"}, {"slug": "our-lady-woman-of-the-eucharist", "title": "Our Lady, Woman of the Eucharist"}]
 ---
 
 By Fr. Conor Donnelly

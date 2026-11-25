@@ -8,7 +8,7 @@ prev_slug: our-sins-our-confession
 prev_title: "Our Sins, Our Confession"
 next_slug: palm-sunday
 next_title: "Palm Sunday"
-related: [{"slug": "placing-the-cross-on-the-summit-of-all-human-activities", "title": "Placing the Cross on the Summit of All Human Activities"}, {"slug": "fire-on-earth", "title": "Fire On Earth"}, {"slug": "fishers-of-men", "title": "Fishers of Men"}]
+related: [{"slug": "i-came-to-cast-fire-on-earth", "title": "I Came To Cast Fire On Earth"}, {"slug": "fire-on-earth", "title": "Fire On Earth"}, {"slug": "st-justin", "title": "St. Justin"}, {"slug": "unity-of-life", "title": "Unity of Life"}, {"slug": "professional-prestige", "title": "Professional Prestige"}]
 ---
 
 

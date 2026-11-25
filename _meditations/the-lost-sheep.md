@@ -8,7 +8,7 @@ prev_slug: the-lords-day
 prev_title: "The Lord\u2019s Day"
 next_slug: the-love-of-god
 next_title: "The Love of God"
-related: [{"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}, {"slug": "making-up-for-lost-time", "title": "Making Up for Lost Time"}, {"slug": "house-on-the-rock", "title": "House on the Rock"}]
+related: [{"slug": "the-good-shepherd", "title": "The Good Shepherd"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "the-raising-of-lazarus", "title": "The Raising of Lazarus"}, {"slug": "ash-wednesday", "title": "Ash Wednesday"}, {"slug": "contrition", "title": "Contrition"}]
 ---
 
 

@@ -8,7 +8,7 @@ prev_slug: helping-to-do-good
 prev_title: "Helping To Do Good"
 next_slug: holy-purity
 next_title: "Holy Purity"
-related: [{"slug": "the-anniversary-of-the-first-holy-communion-of-st-josemaria", "title": "The Anniversary of the First Holy Communion of St. Josemar\u00eda"}, {"slug": "the-holy-name-of-jesus", "title": "The Holy Name of Jesus"}, {"slug": "holy-thursday-the-eucharist", "title": "Holy Thursday: The Eucharist"}]
+related: [{"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing, Loving, and Living the Eucharist"}, {"slug": "the-bread-of-life", "title": "The Bread of Life"}, {"slug": "the-real-presence", "title": "The Real Presence"}, {"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}]
 ---
 
 By Fr. Conor Donnelly

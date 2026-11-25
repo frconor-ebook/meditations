@@ -8,7 +8,7 @@ prev_slug: the-clean-of-heart-after-edward-leen
 prev_title: "The Clean of Heart (after Edward Leen)"
 next_slug: the-communion-of-saints
 next_title: "The Communion of Saints"
-related: [{"slug": "all-souls", "title": "All Souls"}, {"slug": "souls-of-prayer", "title": "Souls of Prayer"}, {"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}]
+related: [{"slug": "the-end-of-life", "title": "The End of Life"}, {"slug": "the-solemnity-of-all-saints-2026", "title": "The Solemnity of All Saints (2026)"}, {"slug": "the-parable-of-the-ten-virgins-2026", "title": "The Parable of the Ten Virgins (2026)"}, {"slug": "the-last-things", "title": "The Last Things"}, {"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}]
 ---
 
 By Fr. Conor Donnelly

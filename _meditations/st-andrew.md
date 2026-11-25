@@ -8,7 +8,7 @@ prev_slug: st-thomas-aquinas-after-edward-leen
 prev_title: "St Thomas Aquinas (After Edward Leen)"
 next_slug: st-augustine
 next_title: "St. Augustine"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "the-apostolate", "title": "The Apostolate"}, {"slug": "st-john", "title": "St. John"}, {"slug": "generosity", "title": "Generosity"}, {"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}, {"slug": "the-apostolate-of-confession", "title": "The Apostolate of Confession"}]
 ---
 
 By Fr. Conor Donnelly

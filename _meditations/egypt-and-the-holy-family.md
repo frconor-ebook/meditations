@@ -8,7 +8,7 @@ prev_slug: education-in-social-virtues
 prev_title: "Education In Social Virtues"
 next_slug: emmaus
 next_title: "Emmaus"
-related: [{"slug": "the-feast-of-the-holy-family", "title": "The Feast of the Holy Family"}, {"slug": "defending-the-family", "title": "Defending the Family"}, {"slug": "heart-in-the-family", "title": "Heart in the Family"}]
+related: [{"slug": "the-son-of-the-carpenter", "title": "The Son of the Carpenter"}, {"slug": "st-joseph-the-family-man", "title": "St. Joseph, The Family Man"}, {"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}, {"slug": "the-creative-courage-of-st-joseph", "title": "The Creative Courage of St. Joseph"}, {"slug": "the-fourth-sunday-of-st-joseph-2026", "title": "The Fourth Sunday of St. Joseph (2026)"}]
 ---
 
 By Fr. Conor Donnelly

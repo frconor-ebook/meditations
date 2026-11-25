@@ -8,7 +8,7 @@ prev_slug: the-passion-of-st-john-the-baptist
 prev_title: "The Passion of St. John the Baptist"
 next_slug: the-pharisee-and-the-publican-2027
 next_title: "The Pharisee and the Publican (2027)"
-related: [{"slug": "the-pharisee-and-the-publican-2027", "title": "The Pharisee and the Publican (2027)"}, {"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}]
+related: [{"slug": "true-prayer", "title": "True Prayer"}, {"slug": "the-pharisee-and-the-publican-2027", "title": "The Pharisee and the Publican (2027)"}, {"slug": "zacchaeus", "title": "Zacchaeus"}, {"slug": "learning-to-ask", "title": "Learning to Ask"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}]
 ---
 
 By Fr. Conor Donnelly

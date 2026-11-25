@@ -8,7 +8,7 @@ prev_slug: the-seed-of-eternal-life
 prev_title: "The Seed of Eternal Life"
 next_slug: the-seventh-sunday-of-st-joseph-2026
 next_title: "The Seventh Sunday of St. Joseph (2026)"
-related: [{"slug": "our-lady-of-sorrows", "title": "Our Lady of Sorrows"}, {"slug": "our-lady-of-sorrows-2026", "title": "Our Lady of Sorrows (2026)"}, {"slug": "our-lady", "title": "Our Lady"}]
+related: [{"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}, {"slug": "simeon-and-anna", "title": "Simeon and Anna"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "the-depths-of-simplicity", "title": "The Depths of Simplicity"}, {"slug": "the-holy-innocents", "title": "The Holy Innocents"}]
 ---
 
 By Fr. Conor Donnelly

@@ -7,6 +7,7 @@ prev_slug: on-apostolate
 prev_title: "On Apostolate"
 next_slug: on-formation
 next_title: "On Formation"
+related: [{"slug": "the-only-real-evil", "title": "The Only Real Evil"}, {"slug": "marriage-and-indissolubility", "title": "Marriage and Indissolubility"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}, {"slug": "conscience-the-light-of-the-soul", "title": "Conscience, The Light of the Soul"}, {"slug": "the-mass-and-personal-self-surrender", "title": "The Mass and Personal Self-Surrender"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: st-mark
 prev_title: "St. Mark"
 next_slug: st-mary-magdalene-2026
 next_title: "St. Mary Magdalene (2026)"
-related: [{"slug": "st-mary-magdalene-2026", "title": "St. Mary Magdalene (2026)"}, {"slug": "st-john-mary-vianney", "title": "St. John Mary Vianney"}, {"slug": "st-john-mary-vianney-2026", "title": "St. John Mary Vianney (2026)"}]
+related: [{"slug": "contrition", "title": "Contrition"}, {"slug": "st-mary-magdalene-2026", "title": "St. Mary Magdalene (2026)"}, {"slug": "the-resurrection", "title": "The Resurrection"}, {"slug": "easter-sunday", "title": "Easter Sunday"}, {"slug": "perseverance", "title": "Perseverance"}]
 ---
 
 

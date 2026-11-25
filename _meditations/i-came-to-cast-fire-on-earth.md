@@ -8,7 +8,7 @@ prev_slug: i-am-the-vine
 prev_title: "I Am the Vine"
 next_slug: i-thirst
 next_title: "I Thirst"
-related: [{"slug": "fire-on-earth", "title": "Fire On Earth"}, {"slug": "hearts-on-fire", "title": "Hearts on Fire"}, {"slug": "the-devils-cast-out", "title": "The Devils Cast Out"}]
+related: [{"slug": "fire-on-earth", "title": "Fire On Earth"}, {"slug": "love-for-priests", "title": "Love For Priests"}, {"slug": "overcoming-human-respect", "title": "Overcoming Human Respect"}, {"slug": "by-their-fruits-you-will-know-them", "title": "By Their Fruits, You Will Know Them"}, {"slug": "knowing-god-through-mary", "title": "Knowing God Through Mary"}]
 ---
 
 

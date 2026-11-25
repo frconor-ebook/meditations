@@ -8,7 +8,7 @@ prev_slug: the-gift-of-understanding
 prev_title: "The Gift of Understanding"
 next_slug: the-good-samaritan
 next_title: "The Good Samaritan"
-related: [{"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}, {"slug": "the-gift-of-fear-of-the-lord", "title": "The Gift of Fear of the Lord"}, {"slug": "the-gift-of-fortitude", "title": "The Gift of Fortitude"}]
+related: [{"slug": "the-wisdom-of-solomon", "title": "The Wisdom of Solomon"}, {"slug": "the-gift-of-understanding", "title": "The Gift of Understanding"}, {"slug": "the-gift-of-knowledge", "title": "The Gift of Knowledge"}, {"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}, {"slug": "the-gift-of-fear-of-the-lord", "title": "The Gift of Fear of the Lord"}]
 ---
 
 By Fr. Conor Donnelly

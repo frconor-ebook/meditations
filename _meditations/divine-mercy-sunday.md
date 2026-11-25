@@ -8,7 +8,7 @@ prev_slug: divine-intimacies
 prev_title: "Divine Intimacies"
 next_slug: do-not-be-afraid
 next_title: "Do Not Be Afraid"
-related: [{"slug": "our-lady-mother-of-mercy", "title": "Our Lady, Mother of Mercy"}, {"slug": "the-sacrament-of-growth-and-mercy", "title": "The Sacrament of Growth and Mercy"}, {"slug": "divine-filiation", "title": "Divine Filiation"}]
+related: [{"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "the-lost-sheep", "title": "The Lost Sheep"}, {"slug": "our-lady-mother-of-mercy", "title": "Our Lady, Mother of Mercy"}, {"slug": "the-unmerciful-servant", "title": "The Unmerciful Servant"}]
 ---
 
 

@@ -8,7 +8,7 @@ prev_slug: the-ascension
 prev_title: "The Ascension"
 next_slug: the-baptism-of-jesus
 next_title: "The Baptism of Jesus"
-related: [{"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
+related: [{"slug": "the-solemnity-of-the-assumption", "title": "The Solemnity of the Assumption"}, {"slug": "the-nativity-of-our-lady", "title": "The Nativity of Our Lady"}, {"slug": "our-lady-the-queen", "title": "Our Lady the Queen"}, {"slug": "the-dedication-of-the-basilica-of-st-mary-major", "title": "The Dedication of the Basilica of St. Mary Major"}, {"slug": "the-ascension", "title": "The Ascension"}]
 ---
 
 By Fr. Conor Donnelly

@@ -7,7 +7,7 @@ prev_slug: the-presentation-of-our-lady
 prev_title: "The Presentation of Our Lady"
 next_slug: the-priestly-society-of-the-holy-cross
 next_title: "The Priestly Society of the Holy Cross"
-related: [{"slug": "all-you-peoples-bless-the-lord", "title": "All You Peoples, Bless the Lord"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}]
+related: [{"slug": "the-beatitudes", "title": "The Beatitudes"}, {"slug": "the-prophecy-of-simeon", "title": "The Prophecy of Simeon"}, {"slug": "preparing-for-retreat", "title": "Preparing for Retreat"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}, {"slug": "the-apostolate-of-the-home", "title": "The Apostolate of the Home"}]
 ---
 
 By Fr. Conor Donnelly

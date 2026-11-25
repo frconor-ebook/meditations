@@ -8,7 +8,7 @@ prev_slug: the-infinity-of-littleness
 prev_title: "The Infinity of Littleness"
 next_slug: the-king-of-hearts
 next_title: "The King of Hearts"
-related: [{"slug": "the-decree-of-caesar-augustus-and-the-journey-to-bethlehem", "title": "The Decree of Caesar Augustus and The Journey to Bethlehem"}, {"slug": "obedience-in-bethlehem", "title": "Obedience in Bethlehem"}, {"slug": "the-light-streaming-from-bethlehem", "title": "The Light Streaming from Bethlehem"}]
+related: [{"slug": "the-magnificat", "title": "The Magnificat"}, {"slug": "the-apostolate-of-the-home", "title": "The Apostolate of the Home"}, {"slug": "christ-the-light", "title": "Christ the Light"}, {"slug": "easter-joy", "title": "Easter Joy"}, {"slug": "cheerfulness", "title": "Cheerfulness"}]
 ---
 
 By Fr. Conor Donnelly

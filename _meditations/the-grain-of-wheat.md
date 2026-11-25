@@ -8,7 +8,7 @@ prev_slug: the-good-use-of-time
 prev_title: "The Good Use of Time"
 next_slug: the-grandeur-of-man
 next_title: "The Grandeur of Man"
-related: [{"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}, {"slug": "salt-and-light", "title": "Salt and Light"}]
+related: [{"slug": "the-parable-of-the-weeds", "title": "The Parable of the Weeds"}, {"slug": "generosity-in-correspondence", "title": "Generosity in Correspondence"}, {"slug": "perseverance", "title": "Perseverance"}, {"slug": "obedience", "title": "Obedience"}, {"slug": "the-parable-of-the-sower", "title": "The Parable of the Sower"}]
 ---
 
 By Fr. Conor Donnelly

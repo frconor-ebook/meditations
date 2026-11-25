@@ -8,7 +8,7 @@ prev_slug: thanksgiving-day-2026
 prev_title: "Thanksgiving Day (2026)"
 next_slug: the-anniversary-of-pope-franciss-election
 next_title: "The Anniversary of Pope Francis\u2019s Election"
-related: [{"slug": "christmas", "title": "Christmas"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}]
+related: [{"slug": "the-epiphany-of-our-lord-2027-edition", "title": "The Epiphany of Our Lord (2027 Edition)"}, {"slug": "the-epiphany", "title": "The Epiphany"}, {"slug": "the-holy-name-of-jesus", "title": "The Holy Name of Jesus"}, {"slug": "finding-jesus", "title": "Finding Jesus"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}]
 ---
 
 By Fr. Conor Donnelly

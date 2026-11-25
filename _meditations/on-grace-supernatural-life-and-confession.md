@@ -8,7 +8,7 @@ prev_slug: on-formation
 prev_title: "On Formation"
 next_slug: on-hope
 next_title: "On Hope"
-related: [{"slug": "our-sins-our-confession", "title": "Our Sins, Our Confession"}, {"slug": "the-apostolate-of-confession", "title": "The Apostolate of Confession"}, {"slug": "the-paralytic-at-capharnaum-confession", "title": "The Paralytic at Capharnaum (Confession)"}]
+related: [{"slug": "the-only-real-evil-2nd-ed", "title": "The Only Real Evil (2nd Ed.)"}, {"slug": "the-prodigal-son", "title": "The Prodigal Son"}, {"slug": "the-sacrament-of-growth-and-mercy", "title": "The Sacrament of Growth and Mercy"}, {"slug": "conscience-the-light-of-the-soul", "title": "Conscience, The Light of the Soul"}, {"slug": "the-only-real-evil", "title": "The Only Real Evil"}]
 ---
 
 By Fr. Conor Donnelly

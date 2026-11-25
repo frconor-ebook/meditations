@@ -8,7 +8,7 @@ prev_slug: st-nicholas-of-bari
 prev_title: "St. Nicholas of Bari"
 next_slug: st-peter
 next_title: "St. Peter"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "the-anniversary-of-pope-franciss-election", "title": "The Anniversary of Pope Francis\u2019s Election"}, {"slug": "our-ladys-fidelity", "title": "Our Lady\u2019s Fidelity"}, {"slug": "the-apostolate", "title": "The Apostolate"}, {"slug": "the-creative-courage-of-st-joseph", "title": "The Creative Courage of St. Joseph"}, {"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}]
 ---
 
 By Fr. Conor Donnelly

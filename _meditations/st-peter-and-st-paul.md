@@ -8,7 +8,7 @@ prev_slug: st-peter
 prev_title: "St. Peter"
 next_slug: st-philip-and-st-james
 next_title: "St. Philip and St. James"
-related: [{"slug": "st-peter", "title": "St. Peter"}, {"slug": "the-chair-of-st-peter", "title": "The Chair of St. Peter"}, {"slug": "love-for-peter", "title": "Love for Peter"}]
+related: [{"slug": "love-for-peter", "title": "Love for Peter"}, {"slug": "st-peter", "title": "St. Peter"}, {"slug": "the-good-shepherd", "title": "The Good Shepherd"}, {"slug": "st-pius-x", "title": "St. Pius X"}, {"slug": "fire-on-earth", "title": "Fire On Earth"}]
 ---
 
 By Fr. Conor Donnelly

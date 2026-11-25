@@ -8,7 +8,7 @@ prev_slug: sts-cyril-and-methodius
 prev_title: "Sts. Cyril and Methodius"
 next_slug: sts-timothy-and-titus
 next_title: "Sts. Timothy and Titus"
-related: [{"slug": "st-john-mary-vianney", "title": "St. John Mary Vianney"}, {"slug": "st-john-mary-vianney-2026", "title": "St. John Mary Vianney (2026)"}, {"slug": "st-mary-magdalene", "title": "St. Mary Magdalene"}]
+related: [{"slug": "martha-martha", "title": "Martha, Martha"}, {"slug": "st-mary-magdalene-2026", "title": "St. Mary Magdalene (2026)"}, {"slug": "the-raising-of-lazarus", "title": "The Raising of Lazarus"}, {"slug": "the-good-samaritan", "title": "The Good Samaritan"}, {"slug": "st-francis-de-sales", "title": "St. Francis de Sales"}]
 ---
 
 By Fr. Conor Donnelly

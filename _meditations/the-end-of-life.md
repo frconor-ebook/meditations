@@ -8,7 +8,7 @@ prev_slug: the-dignity-of-work
 prev_title: "The Dignity of Work"
 next_slug: the-epiphany
 next_title: "The Epiphany"
-related: [{"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}]
+related: [{"slug": "the-good-use-of-time", "title": "The Good Use of Time"}, {"slug": "the-last-things", "title": "The Last Things"}, {"slug": "the-commemoration-of-all-souls-2026", "title": "The Commemoration of All Souls (2026)"}, {"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "the-parable-of-the-ten-virgins-2026", "title": "The Parable of the Ten Virgins (2026)"}]
 ---
 
 By Fr. Conor Donnelly

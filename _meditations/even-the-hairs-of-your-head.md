@@ -7,7 +7,7 @@ prev_slug: eternal-life
 prev_title: "Eternal Life"
 next_slug: exalted
 next_title: "Exalted"
-related: [{"slug": "do-not-let-your-hearts-be-troubled", "title": "Do Not Let Your Hearts Be Troubled"}, {"slug": "where-is-your-heart", "title": "Where Is Your Heart?"}, {"slug": "your-one-and-only-father", "title": "Your One and Only Father"}]
+related: [{"slug": "apart-from-me-you-can-do-nothing", "title": "Apart From Me You Can Do Nothing"}, {"slug": "the-centurion-and-his-servant", "title": "The Centurion and His Servant"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "walking-on-the-waterfaith", "title": "Walking on the Water\u2013\u2013Faith"}, {"slug": "life-of-faith", "title": "Life of Faith"}]
 ---
 
 By Fr. Conor Donnelly

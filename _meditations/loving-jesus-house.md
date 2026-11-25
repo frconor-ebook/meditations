@@ -7,7 +7,7 @@ prev_slug: love-for-the-cross
 prev_title: "Love for the Cross"
 next_slug: loving-the-liturgy
 next_title: "Loving the Liturgy"
-related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "finding-jesus", "title": "Finding Jesus"}, {"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}]
+related: [{"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "the-one-who-gives-us-jesus", "title": "The One Who Gives Us Jesus"}, {"slug": "the-real-presence", "title": "The Real Presence"}, {"slug": "love-for-priests", "title": "Love For Priests"}, {"slug": "the-mass", "title": "The Mass"}]
 ---
 
 By Fr. Conor Donnelly

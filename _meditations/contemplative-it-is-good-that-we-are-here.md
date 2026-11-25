@@ -8,7 +8,7 @@ prev_slug: contemplative-soul
 prev_title: "Contemplative Soul"
 next_slug: contrition
 next_title: "Contrition"
-related: [{"slug": "contemplative-soul", "title": "Contemplative Soul"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "good-anger-and-bad-anger", "title": "Good Anger and Bad Anger"}]
+related: [{"slug": "the-universal-call-to-contemplation", "title": "The Universal Call to Contemplation"}, {"slug": "from-tabor-to-calvary", "title": "From Tabor to Calvary"}, {"slug": "contemplative-soul", "title": "Contemplative Soul"}, {"slug": "knowing-when-to-speak", "title": "Knowing When to Speak"}, {"slug": "the-infinite-love-of-god", "title": "The Infinite Love of God"}]
 ---
 
 By Fr. Conor Donnelly

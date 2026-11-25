@@ -8,7 +8,7 @@ prev_slug: st-joseph-in-the-incarnation-pope-francis
 prev_title: "St. Joseph in the Incarnation (Pope Francis)"
 next_slug: st-joseph-the-family-man
 next_title: "St. Joseph, The Family Man"
-related: [{"slug": "st-josephs-holiness-in-ordinary-life", "title": "St. Joseph\u2019s Holiness in Ordinary Life"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}]
+related: [{"slug": "the-dignity-of-work", "title": "The Dignity of Work"}, {"slug": "on-work", "title": "On Work"}, {"slug": "st-joseph-the-family-man", "title": "St. Joseph, The Family Man"}, {"slug": "the-creative-courage-of-st-joseph", "title": "The Creative Courage of St. Joseph"}, {"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}]
 ---
 
 By Fr. Conor Donnelly

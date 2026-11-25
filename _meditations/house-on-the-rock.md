@@ -8,7 +8,7 @@ prev_slug: holy-thursday-the-eucharist
 prev_title: "Holy Thursday: The Eucharist"
 next_slug: humility
 next_title: "Humility"
-related: [{"slug": "loving-jesus-house", "title": "Loving Jesus\u2019 House"}, {"slug": "on-our-way-to-the-house-of-our-father", "title": "On Our Way to The House of Our Father"}, {"slug": "the-house-of-god", "title": "The House of God"}]
+related: [{"slug": "obedience", "title": "Obedience"}, {"slug": "the-storm-on-the-lake", "title": "The Storm on the Lake"}, {"slug": "spiritual-direction", "title": "Spiritual Direction"}, {"slug": "love-for-the-cross", "title": "Love for the Cross"}, {"slug": "against-all-hope", "title": "Against All Hope"}]
 ---
 
 By Fr. Conor Donnelly

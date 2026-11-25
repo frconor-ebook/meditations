@@ -7,6 +7,7 @@ prev_slug: even-the-hairs-of-your-head
 prev_title: "Even The Hairs of Your Head"
 next_slug: examination-of-conscience
 next_title: "Examination of Conscience"
+related: [{"slug": "the-seat-of-honor", "title": "The Seat of Honor"}, {"slug": "sin-of-pride-the-elder-son", "title": "Sin of Pride (The Elder Son)"}, {"slug": "the-pharisee-and-the-publican", "title": "The Pharisee and the Publican"}, {"slug": "useless-servants", "title": "Useless Servants"}, {"slug": "to-serve", "title": "To Serve"}]
 ---
 
 

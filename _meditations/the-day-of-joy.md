@@ -7,6 +7,7 @@ prev_slug: the-daughter-of-jairus
 prev_title: "The Daughter of Jairus"
 next_slug: the-decree-of-caesar-augustus-and-the-journey-to-bethlehem
 next_title: "The Decree of Caesar Augustus and The Journey to Bethlehem"
+related: [{"slug": "appreciating-the-gift", "title": "Appreciating the Gift"}, {"slug": "a-mystery-to-be-lived", "title": "A Mystery to Be Lived"}, {"slug": "rediscover-the-gift", "title": "Rediscover the Gift"}, {"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}, {"slug": "the-incarnation-and-the-eucharist", "title": "The Incarnation and the Eucharist"}]
 ---
 
 

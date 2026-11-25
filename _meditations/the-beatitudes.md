@@ -7,7 +7,7 @@ prev_slug: the-battles-of-the-interior-life
 prev_title: "The Battles of the Interior Life"
 next_slug: the-beauty-of-the-manger
 next_title: "The Beauty of the Manger"
-related: [{"slug": "the-power-of-the-beatitudes", "title": "The Power of the Beatitudes"}]
+related: [{"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}, {"slug": "preparing-for-retreat", "title": "Preparing for Retreat"}, {"slug": "the-faith-of-abraham", "title": "The Faith of Abraham"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}, {"slug": "thirsting-for-justice", "title": "Thirsting for Justice"}]
 ---
 
 By Fr. Conor Donnelly

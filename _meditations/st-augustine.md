@@ -8,7 +8,7 @@ prev_slug: st-andrew
 prev_title: "St. Andrew"
 next_slug: st-barnabas
 next_title: "St. Barnabas"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "st-monica", "title": "St. Monica"}, {"slug": "the-parable-of-the-mustard-seed", "title": "The Parable of the Mustard Seed"}, {"slug": "seed-and-grace", "title": "Seed and Grace"}, {"slug": "the-parable-of-the-weeds", "title": "The Parable of the Weeds"}, {"slug": "learning-to-ask", "title": "Learning to Ask"}]
 ---
 
 

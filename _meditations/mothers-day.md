@@ -8,7 +8,7 @@ prev_slug: mother-of-the-church
 prev_title: "Mother of the Church"
 next_slug: much-will-be-demanded-responsibility
 next_title: "Much Will Be Demanded: Responsibility"
-related: [{"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}, {"slug": "mary-mother-of-god", "title": "Mary, Mother of God"}, {"slug": "mary-mother-of-god-2nd-ed", "title": "Mary, Mother of God (2nd Ed.)"}]
+related: [{"slug": "mother-of-the-church", "title": "Mother of the Church"}, {"slug": "mary-mother-of-god", "title": "Mary, Mother of God"}, {"slug": "our-mother-in-may", "title": "Our Mother in May"}, {"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}, {"slug": "fathers-day", "title": "Father\u2019s Day"}]
 ---
 
 By Fr. Conor Donnelly

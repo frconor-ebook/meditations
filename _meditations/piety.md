@@ -7,7 +7,7 @@ prev_slug: peters-denials
 prev_title: "Peter\u2019s Denials"
 next_slug: placing-the-cross-on-the-summit-of-all-human-activities
 next_title: "Placing the Cross on the Summit of All Human Activities"
-related: [{"slug": "the-gift-of-piety", "title": "The Gift of Piety"}]
+related: [{"slug": "taking-advantage-of-the-means-of-formation", "title": "Taking Advantage of the Means of Formation"}, {"slug": "the-gift-of-piety", "title": "The Gift of Piety"}, {"slug": "humility-relying-on-god", "title": "Humility: Relying on God"}, {"slug": "education-in-social-virtues", "title": "Education In Social Virtues"}, {"slug": "render-unto-caesar", "title": "Render Unto Caesar"}]
 ---
 
 By Fr. Conor Donnelly

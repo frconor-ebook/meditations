@@ -8,7 +8,7 @@ prev_slug: the-art-of-prudence
 prev_title: "The Art of Prudence"
 next_slug: the-ascension
 next_title: "The Ascension"
-related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "little-duties", "title": "Little Duties"}, {"slug": "little-things", "title": "Little Things"}]
+related: [{"slug": "the-way-the-truth-and-the-life", "title": "The Way, the Truth, and the Life"}, {"slug": "the-light-of-the-world", "title": "The Light of the World"}, {"slug": "the-war-with-temptation", "title": "The War With Temptation"}, {"slug": "the-depths-of-simplicity", "title": "The Depths of Simplicity"}, {"slug": "the-infinity-of-littleness", "title": "The Infinity of Littleness"}]
 ---
 
 

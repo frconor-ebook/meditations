@@ -7,7 +7,7 @@ prev_slug: interior-struggle
 prev_title: "Interior Struggle"
 next_slug: invoking-our-savior
 next_title: "Invoking Our Savior"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}, {"slug": "simplicity-after-edward-leen", "title": "Simplicity (after Edward Leen)"}]
+related: [{"slug": "transformation-through-prayer", "title": "Transformation Through Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}, {"slug": "growth-in-prayer", "title": "Growth in Prayer"}, {"slug": "vocal-prayer", "title": "Vocal Prayer"}, {"slug": "st-teresa-of-avila-after-edward-leen", "title": "St. Teresa of \u00c1vila (after Edward Leen)"}]
 ---
 
 

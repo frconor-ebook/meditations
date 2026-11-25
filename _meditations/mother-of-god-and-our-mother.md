@@ -8,7 +8,7 @@ prev_slug: mortification
 prev_title: "Mortification"
 next_slug: mother-of-the-church
 next_title: "Mother of the Church"
-related: [{"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}, {"slug": "mary-mother-of-god", "title": "Mary, Mother of God"}, {"slug": "mary-mother-of-god-2nd-ed", "title": "Mary, Mother of God (2nd Ed.)"}]
+related: [{"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}, {"slug": "our-lady-comforter-of-the-afflicted", "title": "Our Lady, Comforter of the Afflicted"}, {"slug": "st-john-paul-ii", "title": "St. John Paul II"}, {"slug": "our-mother-in-may", "title": "Our Mother in May"}, {"slug": "the-immaculate-heart-of-mary", "title": "The Immaculate Heart of Mary"}]
 ---
 
 By Fr. Conor Donnelly

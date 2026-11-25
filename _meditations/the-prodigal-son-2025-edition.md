@@ -8,7 +8,7 @@ prev_slug: the-prodigal-son
 prev_title: "The Prodigal Son"
 next_slug: the-prophecy-of-simeon
 next_title: "The Prophecy of Simeon"
-related: [{"slug": "the-prodigal-son", "title": "The Prodigal Son"}, {"slug": "conversion-of-st-paul-2027-edition", "title": "Conversion of St. Paul (2027 Edition)"}, {"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}]
+related: [{"slug": "the-lost-sheep", "title": "The Lost Sheep"}, {"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}, {"slug": "conversion-of-st-paul-2027-edition", "title": "Conversion of St. Paul (2027 Edition)"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "contrition", "title": "Contrition"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: mary-of-bethanys-authentic-love
 prev_title: "Mary of Bethany\u2019s Authentic Love"
 next_slug: mary-mother-of-god-2nd-ed
 next_title: "Mary, Mother of God (2nd Ed.)"
-related: [{"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}, {"slug": "mary-mother-of-god-2nd-ed", "title": "Mary, Mother of God (2nd Ed.)"}, {"slug": "at-the-school-of-mary", "title": "At the School of Mary"}]
+related: [{"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}, {"slug": "the-mystery-of-the-incarnation", "title": "The Mystery of the Incarnation"}, {"slug": "mothers-day", "title": "Mother\u2019s Day"}, {"slug": "our-ladys-fidelity", "title": "Our Lady\u2019s Fidelity"}, {"slug": "the-annunciation-advent", "title": "The Annunciation (Advent)"}]
 ---
 
 By Fr. Conor Donnelly

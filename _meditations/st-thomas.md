@@ -8,7 +8,7 @@ prev_slug: st-teresa-of-avila-after-edward-leen
 prev_title: "St. Teresa of \u00c1vila (after Edward Leen)"
 next_slug: st-thomas-aquinas
 next_title: "St. Thomas Aquinas"
-related: [{"slug": "st-thomas-aquinas", "title": "St. Thomas Aquinas"}, {"slug": "st-thomas-more", "title": "St. Thomas More"}, {"slug": "st-thomas-more-and-st-john-fisher-2026", "title": "St. Thomas More and St. John Fisher (2026)"}]
+related: [{"slug": "the-centurion-and-his-servant", "title": "The Centurion and His Servant"}, {"slug": "walking-on-the-waterfaith", "title": "Walking on the Water\u2013\u2013Faith"}, {"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "the-woman-with-the-issue-of-blood", "title": "The Woman with the Issue of Blood"}, {"slug": "apart-from-me-you-can-do-nothing", "title": "Apart From Me You Can Do Nothing"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: st-francis-of-assisi
 prev_title: "St. Francis of Assisi"
 next_slug: st-james
 next_title: "St. James"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "the-archangels", "title": "The Archangels"}, {"slug": "the-feast-of-the-archangels-2026", "title": "The Feast of the Archangels (2026)"}, {"slug": "our-lady-of-the-angels", "title": "Our Lady of the Angels"}, {"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "obedience", "title": "Obedience"}]
 ---
 
 

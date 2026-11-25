@@ -7,7 +7,7 @@ prev_slug: the-last-day-of-the-year-dec-31
 prev_title: "The Last Day of the Year (Dec. 31)"
 next_slug: the-light-streaming-from-bethlehem
 next_title: "The Light Streaming from Bethlehem"
-related: [{"slug": "behold-i-make-all-things-new", "title": "Behold I Make All Things New"}, {"slug": "little-things", "title": "Little Things"}, {"slug": "the-last-day-of-the-liturgical-year-vigilance", "title": "The Last Day of the Liturgical Year (Vigilance)"}]
+related: [{"slug": "the-end-of-life", "title": "The End of Life"}, {"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "the-commemoration-of-all-souls-2026", "title": "The Commemoration of All Souls (2026)"}, {"slug": "the-last-day-of-the-liturgical-year-vigilance", "title": "The Last Day of the Liturgical Year (Vigilance)"}, {"slug": "the-parable-of-the-ten-virgins-2026", "title": "The Parable of the Ten Virgins (2026)"}]
 ---
 
 By Fr. Conor Donnelly

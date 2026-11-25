@@ -8,7 +8,7 @@ prev_slug: corpus-christi-2027
 prev_title: "Corpus Christi (2027)"
 next_slug: correspondence-to-grace
 next_title: "Correspondence to Grace"
-related: [{"slug": "corpus-christi-2026", "title": "Corpus Christi (2026)"}, {"slug": "corpus-christi-2027", "title": "Corpus Christi (2027)"}, {"slug": "the-precious-blood-of-christ", "title": "The Precious Blood of Christ"}]
+related: [{"slug": "our-lady-woman-of-the-eucharist", "title": "Our Lady, Woman of the Eucharist"}, {"slug": "holy-thursday-the-eucharist", "title": "Holy Thursday: The Eucharist"}, {"slug": "the-mass-and-personal-self-surrender", "title": "The Mass and Personal Self-Surrender"}, {"slug": "trinity-sunday", "title": "Trinity Sunday"}, {"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}]
 ---
 
 By Fr. Conor Donnelly

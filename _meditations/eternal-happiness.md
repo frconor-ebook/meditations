@@ -8,7 +8,7 @@ prev_slug: enlarging-the-heart
 prev_title: "Enlarging the Heart"
 next_slug: eternal-life
 next_title: "Eternal Life"
-related: [{"slug": "christs-eternal-priesthood", "title": "Christ\u2019s Eternal Priesthood"}, {"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}]
+related: [{"slug": "hell-purgatory-heaven", "title": "Hell, Purgatory, Heaven"}, {"slug": "all-souls", "title": "All Souls"}, {"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "clean-of-heart", "title": "Clean of Heart"}, {"slug": "the-holy-innocents", "title": "The Holy Innocents"}]
 ---
 
 By Fr. Conor Donnelly

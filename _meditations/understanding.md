@@ -7,7 +7,7 @@ prev_slug: true-and-false-freedom
 prev_title: "True and False Freedom"
 next_slug: unhappy-man-that-i-am
 next_title: "Unhappy Man That I Am"
-related: [{"slug": "the-gift-of-understanding", "title": "The Gift of Understanding"}]
+related: [{"slug": "charity", "title": "Charity"}, {"slug": "the-unmerciful-servant", "title": "The Unmerciful Servant"}, {"slug": "judgments-charity", "title": "Judgments (Charity)"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "pro-active-love", "title": "Pro-Active Love"}]
 ---
 
 By Fr. Conor Donnelly

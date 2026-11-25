@@ -7,7 +7,7 @@ prev_slug: begin-again-fight-the-fight
 prev_title: "Begin Again, Fight the Fight"
 next_slug: behold-i-make-all-things-new
 next_title: "Behold I Make All Things New"
-related: [{"slug": "begin-again-fight-the-fight", "title": "Begin Again, Fight the Fight"}]
+related: [{"slug": "preparing-for-retreat", "title": "Preparing for Retreat"}, {"slug": "contrition", "title": "Contrition"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}, {"slug": "the-storm-on-the-lake", "title": "The Storm on the Lake"}, {"slug": "apart-from-me-you-can-do-nothing", "title": "Apart From Me You Can Do Nothing"}]
 ---
 
 By Fr. Conor Donnelly

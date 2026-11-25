@@ -8,7 +8,7 @@ prev_slug: the-wisdom-of-solomon
 prev_title: "The Wisdom of Solomon"
 next_slug: the-woman-with-the-issue-of-blood
 next_title: "The Woman with the Issue of Blood"
-related: [{"slug": "our-lady-woman-of-the-eucharist", "title": "Our Lady, Woman of the Eucharist"}, {"slug": "the-bent-over-woman", "title": "The Bent Over Woman"}, {"slug": "the-syrophoenician-woman", "title": "The Syrophoenician Woman"}]
+related: [{"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "the-sacrament-of-growth-and-mercy", "title": "The Sacrament of Growth and Mercy"}, {"slug": "the-unmerciful-servant", "title": "The Unmerciful Servant"}, {"slug": "our-sins-our-confession", "title": "Our Sins, Our Confession"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
 ---
 
 By Fr. Conor Donnelly

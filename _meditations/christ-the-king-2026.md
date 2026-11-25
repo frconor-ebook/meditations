@@ -8,7 +8,7 @@ prev_slug: christ-the-king
 prev_title: "Christ the King"
 next_slug: christ-the-king-2027
 next_title: "Christ the King (2027)"
-related: [{"slug": "christ-the-king", "title": "Christ the King"}, {"slug": "christ-the-king-2027", "title": "Christ the King (2027)"}, {"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}]
+related: [{"slug": "christ-the-king-2027", "title": "Christ the King (2027)"}, {"slug": "the-king-of-hearts", "title": "The King of Hearts"}, {"slug": "gamblers-on-calvary", "title": "Gamblers On Calvary"}, {"slug": "jesus-therefore-wearied-from-his-journey", "title": "Jesus Therefore, Wearied from His Journey"}, {"slug": "the-clean-of-heart-after-edward-leen", "title": "The Clean of Heart (after Edward Leen)"}]
 ---
 
 

@@ -7,7 +7,7 @@ prev_slug: the-sacred-heart-of-jesus-2026
 prev_title: "The Sacred Heart of Jesus (2026)"
 next_slug: the-saints-day-of-the-prelate
 next_title: "The Saint\u2019s Day of the Prelate"
-related: [{"slug": "the-sacred-heart-of-jesus", "title": "The Sacred Heart of Jesus"}, {"slug": "the-sacred-heart-of-jesus-2026", "title": "The Sacred Heart of Jesus (2026)"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}]
+related: [{"slug": "st-joseph-the-family-man", "title": "St. Joseph, The Family Man"}, {"slug": "peter-and-prayer", "title": "Peter and Prayer"}, {"slug": "the-mystery-of-the-incarnation", "title": "The Mystery of the Incarnation"}, {"slug": "the-annunciation", "title": "The Annunciation"}, {"slug": "good-friday-of-the-lords-passion", "title": "Good Friday of the Lord\u2019s Passion"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: the-archangels
 prev_title: "The Archangels"
 next_slug: the-artisan-of-nazareth
 next_title: "The Artisan of Nazareth"
-related: [{"slug": "making-good-decisions-or-the-virtue-of-prudence", "title": "Making Good Decisions or The Virtue of Prudence"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}]
+related: [{"slug": "making-good-decisions-or-the-virtue-of-prudence", "title": "Making Good Decisions or The Virtue of Prudence"}, {"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}, {"slug": "humility", "title": "Humility"}, {"slug": "the-father-in-the-work", "title": "The Father in the Work"}, {"slug": "st-josephs-holiness-in-ordinary-life", "title": "St. Joseph\u2019s Holiness in Ordinary Life"}]
 ---
 
 By Fr. Conor Donnelly

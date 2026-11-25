@@ -8,7 +8,7 @@ prev_slug: st-luke-2026
 prev_title: "St. Luke (2026)"
 next_slug: st-mary-magdalene
 next_title: "St. Mary Magdalene"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "the-speck-in-my-brothers-eye", "title": "The Speck In My Brother\u2019s Eye"}, {"slug": "the-curing-of-the-possessed-man-gerasenes", "title": "The Curing of the Possessed Man (Gerasenes)"}, {"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}, {"slug": "st-barnabas-2026", "title": "St. Barnabas (2026)"}, {"slug": "judas", "title": "Judas"}]
 ---
 
 By Fr. Conor Donnelly

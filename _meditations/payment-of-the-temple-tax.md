@@ -8,7 +8,7 @@ prev_slug: patience-in-adversity
 prev_title: "Patience in Adversity"
 next_slug: pentecost-sunday
 next_title: "Pentecost Sunday"
-related: [{"slug": "the-temple-tax", "title": "The Temple Tax"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
+related: [{"slug": "the-temple-tax", "title": "The Temple Tax"}, {"slug": "render-unto-caesar", "title": "Render Unto Caesar"}, {"slug": "professional-prestige", "title": "Professional Prestige"}, {"slug": "education-in-social-virtues", "title": "Education In Social Virtues"}, {"slug": "obedience", "title": "Obedience"}]
 ---
 
 

@@ -489,6 +489,17 @@ process_markdown() {
         error_message "Processing script not found: process_markdown.py"
     fi
 
+    # Update incremental semantic embeddings if helper + API key are available
+    # (non-fatal: process_markdown.py falls back to existing cache + heuristic)
+    if [[ -f "./build_semantic_related.py" ]]; then
+        log "INFO" "Updating semantic related meditations (incremental)..."
+        if python3 build_semantic_related.py; then
+            log "SUCCESS" "Semantic related meditations updated."
+        else
+            log "WARNING" "Semantic embedding update skipped/failed; continuing with existing data/semantic_related.json."
+        fi
+    fi
+
     # Build command with optional --force flag
     local process_cmd="python3 process_markdown.py"
     if [[ "$FORCE_MODE" = true ]]; then

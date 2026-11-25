@@ -7,6 +7,7 @@ prev_slug: the-sanctification-of-low-moments
 prev_title: "The Sanctification of Low Moments"
 next_slug: the-second-sunday-of-st-joseph-2026
 next_title: "The Second Sunday of St. Joseph (2026)"
+related: [{"slug": "humility-of-instruments", "title": "Humility of Instruments"}, {"slug": "spirit-of-service", "title": "Spirit of Service"}, {"slug": "humility-relying-on-god", "title": "Humility: Relying on God"}, {"slug": "to-serve", "title": "To Serve"}, {"slug": "exalted", "title": "Exalted"}]
 ---
 
 

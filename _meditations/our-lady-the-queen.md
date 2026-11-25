@@ -8,7 +8,7 @@ prev_slug: our-lady-of-the-snows
 prev_title: "Our Lady of the Snows"
 next_slug: our-lady-the-queen-2026
 next_title: "Our Lady the Queen (2026)"
-related: [{"slug": "our-lady-the-queen-2026", "title": "Our Lady the Queen (2026)"}, {"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}]
+related: [{"slug": "our-lady-of-the-angels", "title": "Our Lady of the Angels"}, {"slug": "our-lady-of-peace", "title": "Our Lady of Peace"}, {"slug": "the-holy-name-of-mary", "title": "The Holy Name of Mary"}, {"slug": "our-lady-comforter-of-the-afflicted", "title": "Our Lady, Comforter of the Afflicted"}, {"slug": "our-lady", "title": "Our Lady"}]
 ---
 
 By Fr. Conor Donnelly

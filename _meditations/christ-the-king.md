@@ -8,7 +8,7 @@ prev_slug: christ-is-passing-by
 prev_title: "Christ Is Passing By"
 next_slug: christ-the-king-2026
 next_title: "Christ the King (2026)"
-related: [{"slug": "christ-the-king-2026", "title": "Christ the King (2026)"}, {"slug": "christ-the-king-2027", "title": "Christ the King (2027)"}, {"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}]
+related: [{"slug": "good-friday-of-the-lords-passion", "title": "Good Friday of the Lord\u2019s Passion"}, {"slug": "all-souls", "title": "All Souls"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}, {"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-last-day-of-the-year-dec-31", "title": "The Last Day of the Year (Dec. 31)"}]
 ---
 
 By Fr. Conor Donnelly

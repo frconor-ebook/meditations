@@ -8,7 +8,7 @@ prev_slug: maturity-and-participation-in-the-divine-nature
 prev_title: "Maturity and Participation in the Divine Nature"
 next_slug: mental-prayer
 next_title: "Mental Prayer"
-related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
+related: [{"slug": "good-anger-and-bad-anger", "title": "Good Anger and Bad Anger"}, {"slug": "happy-are-the-meek", "title": "Happy Are the Meek"}, {"slug": "charity-versus-anger", "title": "Charity versus Anger"}, {"slug": "prince-of-peace", "title": "Prince of Peace"}, {"slug": "the-storm-on-the-lake", "title": "The Storm on the Lake"}]
 ---
 
 By Fr. Conor Donnelly

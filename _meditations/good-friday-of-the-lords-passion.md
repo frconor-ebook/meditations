@@ -8,7 +8,7 @@ prev_slug: good-anger-and-bad-anger
 prev_title: "Good Anger and Bad Anger"
 next_slug: gratitude-for-pope-benedict-xvi
 next_title: "Gratitude for Pope Benedict XVI"
-related: [{"slug": "the-good-thief", "title": "The Good Thief"}, {"slug": "the-passion-of-st-john-the-baptist", "title": "The Passion of St. John the Baptist"}, {"slug": "all-you-peoples-bless-the-lord", "title": "All You Peoples, Bless the Lord"}]
+related: [{"slug": "the-crucifixion", "title": "The Crucifixion"}, {"slug": "peter-and-prayer", "title": "Peter and Prayer"}, {"slug": "the-good-thief", "title": "The Good Thief"}, {"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}]
 ---
 
 By Fr. Conor Donnelly

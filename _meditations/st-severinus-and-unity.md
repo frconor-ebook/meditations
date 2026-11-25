@@ -8,7 +8,7 @@ prev_slug: st-pius-x-2026
 prev_title: "St. Pius X (2026)"
 next_slug: st-simon-and-st-jude
 next_title: "St. Simon and St. Jude"
-related: [{"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}, {"slug": "passion-for-unity", "title": "Passion for Unity"}, {"slug": "unity-of-life", "title": "Unity of Life"}]
+related: [{"slug": "passion-for-unity", "title": "Passion for Unity"}, {"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}, {"slug": "the-birthday-of-the-prelate-don-fernando", "title": "The Birthday of the Prelate (Don Fernando)"}, {"slug": "our-lady-of-peace", "title": "Our Lady of Peace"}, {"slug": "the-feast-of-the-holy-family", "title": "The Feast of the Holy Family"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: thanksgiving-after-mass
 prev_title: "Thanksgiving After Mass"
 next_slug: the-adoration-of-the-kings
 next_title: "The Adoration of the Kings"
-related: [{"slug": "thanksgiving", "title": "Thanksgiving"}, {"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}, {"slug": "abandonment", "title": "Abandonment"}]
+related: [{"slug": "thanksgiving", "title": "Thanksgiving"}, {"slug": "the-healing-of-the-ten-lepers", "title": "The Healing of the Ten Lepers"}, {"slug": "the-solemnity-of-all-saints-2026", "title": "The Solemnity of All Saints (2026)"}, {"slug": "prayer-of-petition", "title": "Prayer of Petition"}, {"slug": "piety", "title": "Piety"}]
 ---
 
 

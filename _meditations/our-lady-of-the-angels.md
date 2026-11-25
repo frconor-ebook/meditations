@@ -8,7 +8,7 @@ prev_slug: our-lady-of-sorrows-2026
 prev_title: "Our Lady of Sorrows (2026)"
 next_slug: our-lady-of-the-rosary-2026
 next_title: "Our Lady of the Rosary (2026)"
-related: [{"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
+related: [{"slug": "our-lady-the-queen", "title": "Our Lady the Queen"}, {"slug": "the-archangels", "title": "The Archangels"}, {"slug": "the-transfiguration", "title": "The Transfiguration"}, {"slug": "st-gabriel", "title": "St. Gabriel"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}]
 ---
 
 By Fr. Conor Donnelly

@@ -7,6 +7,7 @@ prev_slug: judgments-charity
 prev_title: "Judgments (Charity)"
 next_slug: kindness
 next_title: "Kindness"
+related: [{"slug": "the-truth-will-make-you-free", "title": "The Truth Will Make You Free"}, {"slug": "education-in-social-virtues", "title": "Education In Social Virtues"}, {"slug": "fidelity-in-marriage", "title": "Fidelity in Marriage"}, {"slug": "unity-of-life", "title": "Unity of Life"}, {"slug": "guarding-our-sight", "title": "Guarding Our Sight"}]
 ---
 
 By Fr. Conor Donnelly

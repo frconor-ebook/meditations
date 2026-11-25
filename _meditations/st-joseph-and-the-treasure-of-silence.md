@@ -8,7 +8,7 @@ prev_slug: st-josemaria-escriva-feast-june-26th
 prev_title: "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"
 next_slug: st-joseph-and-the-setbacks-of-life
 next_title: "St. Joseph and the Setbacks of Life"
-related: [{"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}, {"slug": "self-emptying-and-st-joseph", "title": "Self-emptying and St. Joseph"}]
+related: [{"slug": "the-mystery-of-the-incarnation", "title": "The Mystery of the Incarnation"}, {"slug": "the-decree-of-caesar-augustus-and-the-journey-to-bethlehem", "title": "The Decree of Caesar Augustus and The Journey to Bethlehem"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}, {"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}, {"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}]
 ---
 
 By Fr. Conor Donnelly

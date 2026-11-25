@@ -8,7 +8,7 @@ prev_slug: the-light-streaming-from-bethlehem
 prev_title: "The Light Streaming from Bethlehem"
 next_slug: the-lords-day
 next_title: "The Lord\u2019s Day"
-related: [{"slug": "passionately-loving-the-world", "title": "Passionately Loving the World"}, {"slug": "raise-the-world", "title": "Raise the World"}, {"slug": "salt-and-light", "title": "Salt and Light"}]
+related: [{"slug": "the-way-the-truth-and-the-life", "title": "The Way, the Truth, and the Life"}, {"slug": "the-depths-of-simplicity", "title": "The Depths of Simplicity"}, {"slug": "the-artisan-of-nazareth", "title": "The Artisan of Nazareth"}, {"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "gods-bridge-builder", "title": "God\u2019s Bridge-Builder"}]
 ---
 
 

@@ -8,7 +8,7 @@ prev_slug: mental-prayer-after-edward-leen
 prev_title: "Mental Prayer (after Edward Leen)"
 next_slug: mortification
 next_title: "Mortification"
-related: [{"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "self-emptying-and-st-joseph", "title": "Self-emptying and St. Joseph"}, {"slug": "st-joseph-and-the-treasure-of-silence", "title": "St. Joseph and The Treasure of Silence"}]
+related: [{"slug": "the-creative-courage-of-st-joseph", "title": "The Creative Courage of St. Joseph"}, {"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}, {"slug": "st-josephs-holiness-in-ordinary-life", "title": "St. Joseph\u2019s Holiness in Ordinary Life"}, {"slug": "self-emptying-and-st-joseph", "title": "Self-emptying and St. Joseph"}, {"slug": "st-joseph-the-family-man", "title": "St. Joseph, The Family Man"}]
 ---
 
 By Fr. Conor Donnelly

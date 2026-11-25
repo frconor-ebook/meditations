@@ -7,7 +7,7 @@ prev_slug: the-sacred-heart-of-jesus
 prev_title: "The Sacred Heart of Jesus"
 next_slug: the-sacred-humanity-of-jesus
 next_title: "The Sacred Humanity of Jesus"
-related: [{"slug": "the-sacred-heart-of-jesus", "title": "The Sacred Heart of Jesus"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}, {"slug": "clean-of-heart", "title": "Clean of Heart"}]
+related: [{"slug": "the-immaculate-heart-of-mary-2026", "title": "The Immaculate Heart of Mary (2026)"}, {"slug": "the-sacred-heart-of-jesus", "title": "The Sacred Heart of Jesus"}, {"slug": "the-immaculate-heart-of-mary", "title": "The Immaculate Heart of Mary"}, {"slug": "st-barnabas-2026", "title": "St. Barnabas (2026)"}, {"slug": "the-visitation-of-our-lady-2026", "title": "The Visitation of Our Lady (2026)"}]
 ---
 
 

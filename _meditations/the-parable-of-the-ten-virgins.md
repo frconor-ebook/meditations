@@ -8,7 +8,7 @@ prev_slug: the-parable-of-the-talents
 prev_title: "The Parable of the Talents"
 next_slug: the-parable-of-the-ten-virgins-2026
 next_title: "The Parable of the Ten Virgins (2026)"
-related: [{"slug": "the-parable-of-the-ten-virgins-2026", "title": "The Parable of the Ten Virgins (2026)"}, {"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}]
+related: [{"slug": "the-last-day-of-the-year-dec-31", "title": "The Last Day of the Year (Dec. 31)"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "generosity", "title": "Generosity"}, {"slug": "patience", "title": "Patience"}, {"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}]
 ---
 
 By Fr. Conor Donnelly

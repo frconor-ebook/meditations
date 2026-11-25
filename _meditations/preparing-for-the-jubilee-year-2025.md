@@ -8,7 +8,7 @@ prev_slug: preparing-for-retreat
 prev_title: "Preparing for Retreat"
 next_slug: preparing-to-receive-jesus
 next_title: "Preparing to Receive Jesus"
-related: [{"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}, {"slug": "preparing-for-retreat", "title": "Preparing for Retreat"}, {"slug": "preparing-to-receive-jesus", "title": "Preparing to Receive Jesus"}]
+related: [{"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}, {"slug": "the-mystery-of-the-incarnation", "title": "The Mystery of the Incarnation"}, {"slug": "mother-of-the-church", "title": "Mother of the Church"}, {"slug": "all-souls", "title": "All Souls"}]
 ---
 
 By Fr. Conor Donnelly

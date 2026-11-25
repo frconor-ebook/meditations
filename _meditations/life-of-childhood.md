@@ -8,7 +8,7 @@ prev_slug: lent-christs-death-on-the-cross
 prev_title: "Lent: Christ\u2019s Death on the Cross"
 next_slug: life-of-faith
 next_title: "Life of Faith"
-related: [{"slug": "plan-of-life", "title": "Plan of Life"}, {"slug": "spiritual-childhood", "title": "Spiritual Childhood"}, {"slug": "the-battles-of-the-interior-life", "title": "The Battles of the Interior Life"}]
+related: [{"slug": "divine-filiation", "title": "Divine Filiation"}, {"slug": "children-of-god", "title": "Children of God"}, {"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "our-father-god", "title": "Our Father God"}]
 ---
 
 By Fr. Conor Donnelly

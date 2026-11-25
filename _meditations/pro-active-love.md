@@ -7,7 +7,7 @@ prev_slug: prince-of-peace
 prev_title: "Prince of Peace"
 next_slug: professional-prestige
 next_title: "Professional Prestige"
-related: [{"slug": "conjugal-love", "title": "Conjugal Love"}, {"slug": "god-has-captured-me-with-his-love", "title": "God Has Captured Me With His Love"}, {"slug": "love-for-priests", "title": "Love For Priests"}]
+related: [{"slug": "charity", "title": "Charity"}, {"slug": "judgments-charity", "title": "Judgments (Charity)"}, {"slug": "self-denial", "title": "Self-Denial"}, {"slug": "the-good-samaritan", "title": "The Good Samaritan"}, {"slug": "lukewarmness", "title": "Lukewarmness"}]
 ---
 
 By Fr. Conor Donnelly

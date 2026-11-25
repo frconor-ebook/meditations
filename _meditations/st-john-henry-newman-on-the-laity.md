@@ -8,7 +8,7 @@ prev_slug: st-john-henry-newman-on-friendship
 prev_title: "St. John Henry Newman on Friendship"
 next_slug: st-john-mary-vianney
 next_title: "St. John Mary Vianney"
-related: [{"slug": "st-john-henry-newman-on-friendship", "title": "St. John Henry Newman on Friendship"}, {"slug": "st-john", "title": "St. John"}, {"slug": "st-john-2025-ed", "title": "St. John (2025 Ed.)"}]
+related: [{"slug": "st-john-henry-newman-on-friendship", "title": "St. John Henry Newman on Friendship"}, {"slug": "st-john-paul-ii", "title": "St. John Paul II"}, {"slug": "hearts-on-fire", "title": "Hearts on Fire"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "education-in-social-virtues", "title": "Education In Social Virtues"}]
 ---
 
 By Fr. Conor Donnelly

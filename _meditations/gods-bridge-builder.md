@@ -8,7 +8,7 @@ prev_slug: god-of-consolation
 prev_title: "God of Consolation"
 next_slug: good-anger-and-bad-anger
 next_title: "Good Anger and Bad Anger"
-related: [{"slug": "fire-on-earth", "title": "Fire On Earth"}, {"slug": "fishers-of-men", "title": "Fishers of Men"}, {"slug": "friendship-and-confidence", "title": "Friendship and Confidence"}]
+related: [{"slug": "the-way-the-truth-and-the-life", "title": "The Way, the Truth, and the Life"}, {"slug": "gamblers-on-calvary", "title": "Gamblers On Calvary"}, {"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "the-light-of-the-world", "title": "The Light of the World"}, {"slug": "jesus-therefore-wearied-from-his-journey", "title": "Jesus Therefore, Wearied from His Journey"}]
 ---
 
 

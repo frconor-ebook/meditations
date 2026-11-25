@@ -8,7 +8,7 @@ prev_slug: our-lady-of-sorrows
 prev_title: "Our Lady of Sorrows"
 next_slug: our-lady-of-the-angels
 next_title: "Our Lady of the Angels"
-related: [{"slug": "our-lady-of-sorrows", "title": "Our Lady of Sorrows"}, {"slug": "the-seven-sorrows-of-our-lady", "title": "The Seven Sorrows of Our Lady"}, {"slug": "our-lady", "title": "Our Lady"}]
+related: [{"slug": "our-lady-of-sorrows", "title": "Our Lady of Sorrows"}, {"slug": "seeing-christ-in-illness", "title": "Seeing Christ in Illness"}, {"slug": "the-exaltation-of-the-holy-cross-2026", "title": "The Exaltation of the Holy Cross (2026)"}, {"slug": "our-lady-of-ransom-2026", "title": "Our Lady of Ransom (2026)"}, {"slug": "the-exaltation-of-the-holy-cross", "title": "The Exaltation of the Holy Cross"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: the-anniversary-of-the-establishment-of-the-prelature
 prev_title: "The Anniversary of the Establishment of the Prelature"
 next_slug: the-anniversary-of-the-ordination-of-st-josemaria
 next_title: "The Anniversary of the Ordination of St. Josemar\u00eda"
-related: [{"slug": "the-anniversary-of-the-ordination-of-st-josemaria", "title": "The Anniversary of the Ordination of St. Josemar\u00eda"}, {"slug": "the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature", "title": "The Anniversary of the Ordination of the First Three Priests of the Prelature"}, {"slug": "holy-communion-jesus-is-mine", "title": "Holy Communion: Jesus Is Mine"}]
+related: [{"slug": "the-anniversary-of-the-ordination-of-st-josemaria", "title": "The Anniversary of the Ordination of St. Josemar\u00eda"}, {"slug": "the-bread-of-life", "title": "The Bread of Life"}, {"slug": "the-multiplication-of-the-loaves-and-fish", "title": "The Multiplication of the Loaves and Fish"}, {"slug": "holy-thursday-the-eucharist", "title": "Holy Thursday: The Eucharist"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}]
 ---
 
 By Fr. Conor Donnelly

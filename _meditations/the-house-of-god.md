@@ -7,7 +7,7 @@ prev_slug: the-holy-rosary
 prev_title: "The Holy Rosary"
 next_slug: the-imagination-and-interior-mortification
 next_title: "The Imagination and Interior Mortification"
-related: [{"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "loving-jesus-house", "title": "Loving Jesus\u2019 House"}, {"slug": "on-our-way-to-the-house-of-our-father", "title": "On Our Way to The House of Our Father"}]
+related: [{"slug": "behold-i-make-all-things-new", "title": "Behold I Make All Things New"}, {"slug": "churches-and-the-mass", "title": "Churches and the Mass"}, {"slug": "jesus-therefore-wearied-from-his-journey", "title": "Jesus Therefore, Wearied from His Journey"}, {"slug": "this-body-of-death", "title": "This Body of Death"}, {"slug": "the-battle", "title": "The Battle"}]
 ---
 
 By Fr. Conor Donnelly

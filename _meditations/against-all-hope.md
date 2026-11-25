@@ -8,7 +8,7 @@ prev_slug: afterwards-you-will-understand
 prev_title: "Afterwards You Will Understand"
 next_slug: aim-high
 next_title: "Aim High"
-related: [{"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "on-hope", "title": "On Hope"}, {"slug": "the-eucharistfaith-and-hope", "title": "The Eucharist\u2013Faith and Hope"}]
+related: [{"slug": "on-hope", "title": "On Hope"}, {"slug": "apart-from-me-you-can-do-nothing", "title": "Apart From Me You Can Do Nothing"}, {"slug": "waiting-for-the-lord", "title": "Waiting for The Lord"}, {"slug": "the-storm-on-the-lake", "title": "The Storm on the Lake"}, {"slug": "even-the-hairs-of-your-head", "title": "Even The Hairs of Your Head"}]
 ---
 
 By Fr. Conor Donnelly

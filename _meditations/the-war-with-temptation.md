@@ -8,7 +8,7 @@ prev_slug: the-vocation-of-our-lady
 prev_title: "The Vocation of Our Lady"
 next_slug: the-washing-of-the-feet
 next_title: "The Washing of the Feet"
-related: [{"slug": "temptation", "title": "Temptation"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}]
+related: [{"slug": "the-depths-of-simplicity", "title": "The Depths of Simplicity"}, {"slug": "the-artisan-of-nazareth", "title": "The Artisan of Nazareth"}, {"slug": "the-light-of-the-world", "title": "The Light of the World"}, {"slug": "gamblers-on-calvary", "title": "Gamblers On Calvary"}, {"slug": "behold-i-make-all-things-new", "title": "Behold I Make All Things New"}]
 ---
 
 By Fr. Conor Donnelly

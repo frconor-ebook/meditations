@@ -7,7 +7,7 @@ prev_slug: salt-and-light
 prev_title: "Salt and Light"
 next_slug: seeing-christ-in-illness
 next_title: "Seeing Christ in Illness"
-related: [{"slug": "correspondence-to-grace", "title": "Correspondence to Grace"}, {"slug": "on-grace-supernatural-life-and-confession", "title": "On Grace, Supernatural Life, and Confession"}, {"slug": "the-parable-of-the-mustard-seed", "title": "The Parable of the Mustard Seed"}]
+related: [{"slug": "the-parable-of-the-mustard-seed", "title": "The Parable of the Mustard Seed"}, {"slug": "the-parable-of-the-sower", "title": "The Parable of the Sower"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}, {"slug": "the-parable-of-the-weeds", "title": "The Parable of the Weeds"}, {"slug": "correspondence-to-grace", "title": "Correspondence to Grace"}]
 ---
 
 By Fr. Conor Donnelly

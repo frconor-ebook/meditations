@@ -8,7 +8,7 @@ prev_slug: vanity-he-must-increase
 prev_title: "Vanity (He Must Increase)"
 next_slug: vocal-prayer
 next_title: "Vocal Prayer"
-related: [{"slug": "our-lady-of-the-rosary-2026", "title": "Our Lady of the Rosary (2026)"}, {"slug": "the-holy-rosary", "title": "The Holy Rosary"}, {"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}]
+related: [{"slug": "the-holy-rosary", "title": "The Holy Rosary"}, {"slug": "waiting-for-the-lord", "title": "Waiting for The Lord"}, {"slug": "the-parable-of-the-ten-virgins-2026", "title": "The Parable of the Ten Virgins (2026)"}, {"slug": "with-the-readiness-of-lovevigilance", "title": "With the Readiness of Love\u2014Vigilance"}, {"slug": "christ-the-light", "title": "Christ the Light"}]
 ---
 
 By Fr. Conor Donnelly

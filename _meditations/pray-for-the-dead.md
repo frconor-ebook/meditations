@@ -8,7 +8,7 @@ prev_slug: poverty-and-detachment
 prev_title: "Poverty and Detachment"
 next_slug: prayer-of-petition
 next_title: "Prayer of Petition"
-related: [{"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "all-souls", "title": "All Souls"}, {"slug": "christs-eternal-priesthood", "title": "Christ\u2019s Eternal Priesthood"}]
+related: [{"slug": "the-commemoration-of-all-souls-2026", "title": "The Commemoration of All Souls (2026)"}, {"slug": "all-souls", "title": "All Souls"}, {"slug": "the-last-day-of-the-liturgical-year-vigilance", "title": "The Last Day of the Liturgical Year (Vigilance)"}, {"slug": "on-our-way-to-the-house-of-our-father", "title": "On Our Way to The House of Our Father"}, {"slug": "the-last-things", "title": "The Last Things"}]
 ---
 
 By Fr. Conor Donnelly

@@ -7,7 +7,7 @@ prev_slug: the-assumption-of-our-lady
 prev_title: "The Assumption of Our Lady"
 next_slug: the-baptism-of-our-lord-2026
 next_title: "The Baptism of Our Lord (2026)"
-related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "finding-jesus", "title": "Finding Jesus"}, {"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}]
+related: [{"slug": "the-passion-of-st-john-the-baptist", "title": "The Passion of St. John the Baptist"}, {"slug": "the-epiphany", "title": "The Epiphany"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}, {"slug": "gratitude-for-pope-benedict-xvi", "title": "Gratitude for Pope Benedict XVI"}, {"slug": "st-john", "title": "St. John"}]
 ---
 
 By Fr. Conor Donnelly

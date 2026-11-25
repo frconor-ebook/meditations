@@ -8,7 +8,7 @@ prev_slug: the-epiphany
 prev_title: "The Epiphany"
 next_slug: the-eternal-high-priest
 next_title: "The Eternal High Priest"
-related: [{"slug": "the-baptism-of-the-lord-2027-edition", "title": "The Baptism of the Lord (2027 Edition)"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}]
+related: [{"slug": "the-adoration-of-the-kings", "title": "The Adoration of the Kings"}, {"slug": "the-baptism-of-the-lord-2027-edition", "title": "The Baptism of the Lord (2027 Edition)"}, {"slug": "the-epiphany", "title": "The Epiphany"}, {"slug": "conversion-of-st-paul-2027-edition", "title": "Conversion of St. Paul (2027 Edition)"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}]
 ---
 
 

@@ -7,6 +7,7 @@ prev_slug: reading-the-signs
 prev_title: "Reading the Signs"
 next_slug: rediscover-the-gift
 next_title: "Rediscover the Gift"
+related: [{"slug": "all-the-glory-to-god", "title": "All the Glory to God"}, {"slug": "spirit-of-service", "title": "Spirit of Service"}, {"slug": "the-bent-over-woman", "title": "The Bent Over Woman"}, {"slug": "to-serve", "title": "To Serve"}, {"slug": "the-good-use-of-time", "title": "The Good Use of Time"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: aunt-carmen
 prev_title: "Aunt Carmen"
 next_slug: be-you-perfect
 next_title: "Be You Perfect"
-related: [{"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}, {"slug": "payment-of-the-temple-tax", "title": "Payment of the Temple Tax"}]
+related: [{"slug": "the-grass-of-the-field", "title": "The Grass of the Field"}, {"slug": "the-apostolate", "title": "The Apostolate"}, {"slug": "the-healing-of-the-man-with-the-withered-hand", "title": "The Healing of the Man with the Withered Hand"}, {"slug": "friendship-and-confidence", "title": "Friendship and Confidence"}, {"slug": "st-luke", "title": "St. Luke"}]
 ---
 
 By Fr. Conor Donnelly

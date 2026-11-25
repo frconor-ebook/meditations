@@ -8,7 +8,7 @@ prev_slug: the-parable-of-the-ten-virgins-2026
 prev_title: "The Parable of the Ten Virgins (2026)"
 next_slug: the-parable-of-the-vinedressers
 next_title: "The Parable of the Vinedressers"
-related: [{"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "the-parable-of-the-mustard-seed", "title": "The Parable of the Mustard Seed"}]
+related: [{"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}, {"slug": "the-parable-of-the-talents", "title": "The Parable of the Talents"}, {"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}, {"slug": "the-parable-of-the-sower", "title": "The Parable of the Sower"}, {"slug": "rich-before-god", "title": "Rich Before God"}]
 ---
 
 By Fr. Conor Donnelly

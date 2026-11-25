@@ -8,7 +8,7 @@ prev_slug: the-narrow-gate
 prev_title: "The Narrow Gate"
 next_slug: the-nativity-of-our-lady
 next_title: "The Nativity of Our Lady"
-related: [{"slug": "the-narrow-gate", "title": "The Narrow Gate"}, {"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}]
+related: [{"slug": "the-narrow-gate", "title": "The Narrow Gate"}, {"slug": "on-our-way-to-the-house-of-our-father", "title": "On Our Way to The House of Our Father"}, {"slug": "love-for-the-cross", "title": "Love for the Cross"}, {"slug": "waiting-for-the-lord", "title": "Waiting for The Lord"}, {"slug": "looking-up-to-heaven", "title": "Looking Up to Heaven"}]
 ---
 
 By Fr. Conor Donnelly

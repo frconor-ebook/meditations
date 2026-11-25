@@ -8,7 +8,7 @@ prev_slug: our-lady-of-africa
 prev_title: "Our Lady of Africa"
 next_slug: our-lady-of-guadalupe
 next_title: "Our Lady of Guadalupe"
-related: [{"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
+related: [{"slug": "mother-of-god-and-our-mother", "title": "Mother of God and Our Mother"}, {"slug": "st-john-paul-ii", "title": "St. John Paul II"}, {"slug": "knowing-god-through-mary", "title": "Knowing God Through Mary"}, {"slug": "our-mother-in-may", "title": "Our Mother in May"}, {"slug": "our-lady-mother-of-mercy", "title": "Our Lady, Mother of Mercy"}]
 ---
 
 By Fr. Conor Donnelly

@@ -7,7 +7,7 @@ prev_slug: render-unto-caesar
 prev_title: "Render Unto Caesar"
 next_slug: ripples-in-the-ocean
 next_title: "Ripples in the Ocean"
-related: [{"slug": "the-parable-of-the-rich-man-and-lazarus", "title": "The Parable of the Rich Man and Lazarus"}, {"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}]
+related: [{"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}, {"slug": "where-is-your-heart", "title": "Where Is Your Heart?"}, {"slug": "the-parable-of-the-rich-man-and-lazarus", "title": "The Parable of the Rich Man and Lazarus"}, {"slug": "the-end-of-life", "title": "The End of Life"}, {"slug": "st-nicholas-of-bari", "title": "St. Nicholas of Bari"}]
 ---
 
 By Fr. Conor Donnelly

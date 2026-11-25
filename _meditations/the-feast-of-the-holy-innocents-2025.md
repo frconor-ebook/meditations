@@ -8,7 +8,7 @@ prev_slug: the-feast-of-the-holy-family
 prev_title: "The Feast of the Holy Family"
 next_slug: the-fifth-sunday-of-st-joseph-2026
 next_title: "The Fifth Sunday of St. Joseph (2026)"
-related: [{"slug": "the-holy-innocents", "title": "The Holy Innocents"}, {"slug": "the-feast-of-the-holy-family", "title": "The Feast of the Holy Family"}, {"slug": "egypt-and-the-holy-family", "title": "Egypt and the Holy Family"}]
+related: [{"slug": "the-holy-innocents", "title": "The Holy Innocents"}, {"slug": "purity-of-the-heart", "title": "Purity of the Heart"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}, {"slug": "the-prophecy-of-simeon", "title": "The Prophecy of Simeon"}, {"slug": "st-stephen", "title": "St. Stephen"}]
 ---
 
 By Fr. Conor Donnelly

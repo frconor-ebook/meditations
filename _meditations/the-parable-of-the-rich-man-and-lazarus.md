@@ -8,7 +8,7 @@ prev_slug: the-parable-of-the-mustard-seed
 prev_title: "The Parable of the Mustard Seed"
 next_slug: the-parable-of-the-rich-young-man
 next_title: "The Parable of the Rich Young Man"
-related: [{"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}, {"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}]
+related: [{"slug": "ripples-in-the-ocean", "title": "Ripples in the Ocean"}, {"slug": "rich-before-god", "title": "Rich Before God"}, {"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}, {"slug": "generosity-in-correspondence", "title": "Generosity in Correspondence"}, {"slug": "the-beatitudes", "title": "The Beatitudes"}]
 ---
 
 By Fr. Conor Donnelly

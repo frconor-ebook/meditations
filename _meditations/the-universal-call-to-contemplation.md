@@ -8,7 +8,7 @@ prev_slug: the-truth-will-make-you-free
 prev_title: "The Truth Will Make You Free"
 next_slug: the-unmerciful-servant
 next_title: "The Unmerciful Servant"
-related: [{"slug": "abandonment", "title": "Abandonment"}, {"slug": "contemplative-soul", "title": "Contemplative Soul"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}]
+related: [{"slug": "contemplative-soul", "title": "Contemplative Soul"}, {"slug": "love-for-the-cross", "title": "Love for the Cross"}, {"slug": "guarding-our-sight", "title": "Guarding Our Sight"}, {"slug": "our-father-god", "title": "Our Father God"}, {"slug": "presence-of-god", "title": "Presence of God"}]
 ---
 
 

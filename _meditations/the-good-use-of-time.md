@@ -8,7 +8,7 @@ prev_slug: the-good-thief
 prev_title: "The Good Thief"
 next_slug: the-grain-of-wheat
 next_title: "The Grain of Wheat"
-related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "making-up-for-lost-time", "title": "Making Up for Lost Time"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}]
+related: [{"slug": "the-end-of-life", "title": "The End of Life"}, {"slug": "making-up-for-lost-time", "title": "Making Up for Lost Time"}, {"slug": "the-parable-of-the-talents", "title": "The Parable of the Talents"}, {"slug": "study", "title": "Study"}, {"slug": "the-parable-of-the-ten-virgins", "title": "The Parable of the Ten Virgins"}]
 ---
 
 By Fr. Conor Donnelly

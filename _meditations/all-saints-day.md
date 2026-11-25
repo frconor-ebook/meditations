@@ -8,7 +8,7 @@ prev_slug: all-saints-after-edward-leen
 prev_title: "All Saints (after Edward Leen)"
 next_slug: all-souls
 next_title: "All Souls"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "the-solemnity-of-all-saints-2026", "title": "The Solemnity of All Saints (2026)"}, {"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}]
+related: [{"slug": "the-solemnity-of-all-saints-2026", "title": "The Solemnity of All Saints (2026)"}, {"slug": "the-commemoration-of-all-souls-2026", "title": "The Commemoration of All Souls (2026)"}, {"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "the-last-day-of-the-liturgical-year-vigilance", "title": "The Last Day of the Liturgical Year (Vigilance)"}, {"slug": "with-the-readiness-of-lovevigilance", "title": "With the Readiness of Love\u2014Vigilance"}]
 ---
 
 By Fr. Conor Donnelly

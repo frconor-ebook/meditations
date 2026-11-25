@@ -8,7 +8,7 @@ prev_slug: the-first-disciples
 prev_title: "The First Disciples"
 next_slug: the-first-sunday-of-st-joseph-2026
 next_title: "The First Sunday of St. Joseph (2026)"
-related: [{"slug": "love-for-the-church-st-pius-x", "title": "Love for the Church (St. Pius X)"}, {"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}]
+related: [{"slug": "st-justin", "title": "St. Justin"}, {"slug": "st-barnabas-2026", "title": "St. Barnabas (2026)"}, {"slug": "understanding", "title": "Understanding"}, {"slug": "perseverance", "title": "Perseverance"}, {"slug": "payment-of-the-temple-tax", "title": "Payment of the Temple Tax"}]
 ---
 
 

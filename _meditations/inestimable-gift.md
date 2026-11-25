@@ -7,7 +7,7 @@ prev_slug: increase-my-faith
 prev_title: "Increase My Faith"
 next_slug: infectious-faith
 next_title: "Infectious Faith"
-related: [{"slug": "appreciating-the-gift", "title": "Appreciating the Gift"}, {"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "rediscover-the-gift", "title": "Rediscover the Gift"}]
+related: [{"slug": "rediscover-the-gift", "title": "Rediscover the Gift"}, {"slug": "the-incarnation-and-the-eucharist", "title": "The Incarnation and the Eucharist"}, {"slug": "appreciating-the-gift", "title": "Appreciating the Gift"}, {"slug": "a-mystery-to-be-lived", "title": "A Mystery to Be Lived"}, {"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}]
 ---
 
 

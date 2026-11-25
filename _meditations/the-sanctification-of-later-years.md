@@ -8,7 +8,7 @@ prev_slug: the-sanctification-of-calumnies
 prev_title: "The Sanctification of Calumnies"
 next_slug: the-sanctification-of-low-moments
 next_title: "The Sanctification of Low Moments"
-related: [{"slug": "the-sanctification-of-calumnies", "title": "The Sanctification of Calumnies"}, {"slug": "the-sanctification-of-low-moments", "title": "The Sanctification of Low Moments"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}]
+related: [{"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "gratitude-for-pope-benedict-xvi", "title": "Gratitude for Pope Benedict XVI"}, {"slug": "the-communion-of-saints", "title": "The Communion of Saints"}, {"slug": "simeon-and-anna", "title": "Simeon and Anna"}]
 ---
 
 By Fr. Conor Donnelly

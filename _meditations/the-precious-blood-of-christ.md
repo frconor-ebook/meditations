@@ -8,7 +8,7 @@ prev_slug: the-power-of-the-beatitudes
 prev_title: "The Power of the Beatitudes"
 next_slug: the-presentation-of-our-lady
 next_title: "The Presentation of Our Lady"
-related: [{"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}, {"slug": "jesus-christ-the-eternal-high-priest", "title": "Jesus Christ, The Eternal High Priest"}, {"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}]
+related: [{"slug": "love-for-the-cross", "title": "Love for the Cross"}, {"slug": "the-sacred-heart-of-jesus", "title": "The Sacred Heart of Jesus"}, {"slug": "fire-on-earth", "title": "Fire On Earth"}, {"slug": "the-lost-sheep", "title": "The Lost Sheep"}, {"slug": "love-for-priests", "title": "Love For Priests"}]
 ---
 
 By Fr. Conor Donnelly

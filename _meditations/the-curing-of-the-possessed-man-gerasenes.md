@@ -8,7 +8,7 @@ prev_slug: the-curing-of-the-man-with-an-unclean-spirit
 prev_title: "The Curing of the Man with an Unclean Spirit"
 next_slug: the-daughter-of-jairus
 next_title: "The Daughter of Jairus"
-related: [{"slug": "the-cure-of-the-possessed-boy", "title": "The Cure of the Possessed Boy"}, {"slug": "the-curing-of-the-man-with-an-unclean-spirit", "title": "The Curing of the Man with an Unclean Spirit"}, {"slug": "bartimaeus", "title": "Bartimaeus"}]
+related: [{"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}, {"slug": "judas", "title": "Judas"}, {"slug": "temptation", "title": "Temptation"}, {"slug": "ash-wednesday", "title": "Ash Wednesday"}, {"slug": "poverty-and-detachment", "title": "Poverty and Detachment"}]
 ---
 
 By Fr. Conor Donnelly

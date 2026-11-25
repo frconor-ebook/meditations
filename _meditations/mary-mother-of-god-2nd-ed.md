@@ -8,7 +8,7 @@ prev_slug: mary-mother-of-god
 prev_title: "Mary, Mother of God"
 next_slug: maturity-and-participation-in-the-divine-nature
 next_title: "Maturity and Participation in the Divine Nature"
-related: [{"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}, {"slug": "mary-mother-of-god", "title": "Mary, Mother of God"}, {"slug": "at-the-school-of-mary", "title": "At the School of Mary"}]
+related: [{"slug": "mary-mother-of-god", "title": "Mary, Mother of God"}, {"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}, {"slug": "the-nativity-of-our-lady", "title": "The Nativity of Our Lady"}, {"slug": "the-miracle-at-cana", "title": "The Miracle at Cana"}, {"slug": "the-bread-our-heavenly-mother-gives-us", "title": "The Bread Our Heavenly Mother Gives Us"}]
 ---
 
 By Fr. Conor Donnelly

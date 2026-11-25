@@ -7,7 +7,7 @@ prev_slug: rectitude-of-intention
 prev_title: "Rectitude of Intention"
 next_slug: rejection
 next_title: "Rejection"
-related: [{"slug": "appreciating-the-gift", "title": "Appreciating the Gift"}, {"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "inestimable-gift", "title": "Inestimable Gift"}]
+related: [{"slug": "inestimable-gift", "title": "Inestimable Gift"}, {"slug": "a-mystery-to-be-lived", "title": "A Mystery to Be Lived"}, {"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}, {"slug": "appreciating-the-gift", "title": "Appreciating the Gift"}, {"slug": "the-day-of-joy", "title": "The Day of Joy"}]
 ---
 
 

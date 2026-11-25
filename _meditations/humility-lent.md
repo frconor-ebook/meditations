@@ -8,7 +8,7 @@ prev_slug: humility
 prev_title: "Humility"
 next_slug: humility-of-instruments
 next_title: "Humility of Instruments"
-related: [{"slug": "joy-in-the-cross-lent", "title": "Joy in the Cross (Lent)"}, {"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}, {"slug": "humility", "title": "Humility"}]
+related: [{"slug": "self-emptying-and-st-joseph", "title": "Self-emptying and St. Joseph"}, {"slug": "you-are-nothing", "title": "You Are Nothing"}, {"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}, {"slug": "humility", "title": "Humility"}, {"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}]
 ---
 
 By Fr. Conor Donnelly

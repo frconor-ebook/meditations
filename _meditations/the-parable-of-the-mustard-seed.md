@@ -8,7 +8,7 @@ prev_slug: the-parable-of-the-laborers-in-the-vineyard
 prev_title: "The Parable of the Laborers in the Vineyard"
 next_slug: the-parable-of-the-rich-man-and-lazarus
 next_title: "The Parable of the Rich Man and Lazarus"
-related: [{"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "the-parable-of-the-rich-man-and-lazarus", "title": "The Parable of the Rich Man and Lazarus"}]
+related: [{"slug": "seed-and-grace", "title": "Seed and Grace"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}, {"slug": "the-beatitudes", "title": "The Beatitudes"}, {"slug": "the-parable-of-the-rich-man-and-lazarus", "title": "The Parable of the Rich Man and Lazarus"}, {"slug": "crises-be-not-afraid", "title": "Crises: Be Not Afraid"}]
 ---
 
 

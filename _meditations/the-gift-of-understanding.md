@@ -8,7 +8,7 @@ prev_slug: the-gift-of-piety
 prev_title: "The Gift of Piety"
 next_slug: the-gift-of-wisdom
 next_title: "The Gift of Wisdom"
-related: [{"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}, {"slug": "the-gift-of-fear-of-the-lord", "title": "The Gift of Fear of the Lord"}, {"slug": "the-gift-of-fortitude", "title": "The Gift of Fortitude"}]
+related: [{"slug": "the-gift-of-knowledge", "title": "The Gift of Knowledge"}, {"slug": "the-gift-of-piety", "title": "The Gift of Piety"}, {"slug": "the-gift-of-fear-of-the-lord", "title": "The Gift of Fear of the Lord"}, {"slug": "the-gift-of-wisdom", "title": "The Gift of Wisdom"}, {"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}]
 ---
 
 By Fr. Conor Donnelly

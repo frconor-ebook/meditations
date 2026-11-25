@@ -7,7 +7,7 @@ prev_slug: love-for-peter
 prev_title: "Love for Peter"
 next_slug: love-for-the-church-st-pius-x
 next_title: "Love for the Church (St. Pius X)"
-related: [{"slug": "conjugal-love", "title": "Conjugal Love"}, {"slug": "god-has-captured-me-with-his-love", "title": "God Has Captured Me With His Love"}, {"slug": "love-for-priests", "title": "Love For Priests"}]
+related: [{"slug": "love-for-priests", "title": "Love For Priests"}, {"slug": "the-house-of-god", "title": "The House of God"}, {"slug": "this-body-of-death", "title": "This Body of Death"}, {"slug": "the-great-saint-of-avila", "title": "The Great Saint of Avila"}, {"slug": "the-chair-of-st-peter", "title": "The Chair of St. Peter"}]
 ---
 
 

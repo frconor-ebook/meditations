@@ -8,7 +8,7 @@ prev_slug: the-father-in-the-work
 prev_title: "The Father in the Work"
 next_slug: the-feast-of-the-holy-family
 next_title: "The Feast of the Holy Family"
-related: [{"slug": "st-josemaria-escriva-feast-june-26th", "title": "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"}, {"slug": "the-archangels", "title": "The Archangels"}, {"slug": "the-feast-of-the-holy-family", "title": "The Feast of the Holy Family"}]
+related: [{"slug": "the-archangels", "title": "The Archangels"}, {"slug": "st-gabriel", "title": "St. Gabriel"}, {"slug": "the-solemnity-of-all-saints-2026", "title": "The Solemnity of All Saints (2026)"}, {"slug": "the-guardian-angels-2026", "title": "The Guardian Angels (2026)"}, {"slug": "our-lady-of-the-angels", "title": "Our Lady of the Angels"}]
 ---
 
 

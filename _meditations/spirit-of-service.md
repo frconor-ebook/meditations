@@ -8,7 +8,7 @@ prev_slug: spirit-and-life
 prev_title: "Spirit and Life"
 next_slug: spiritual-childhood
 next_title: "Spiritual Childhood"
-related: [{"slug": "fruits-of-the-holy-spirit", "title": "Fruits of the Holy Spirit"}, {"slug": "spirit-and-life", "title": "Spirit and Life"}, {"slug": "the-curing-of-the-man-with-an-unclean-spirit", "title": "The Curing of the Man with an Unclean Spirit"}]
+related: [{"slug": "to-serve", "title": "To Serve"}, {"slug": "the-washing-of-the-feet", "title": "The Washing of the Feet"}, {"slug": "rectitude-of-intention", "title": "Rectitude of Intention"}, {"slug": "humility-of-instruments", "title": "Humility of Instruments"}, {"slug": "humility-relying-on-god", "title": "Humility: Relying on God"}]
 ---
 
 By Fr. Conor Donnelly

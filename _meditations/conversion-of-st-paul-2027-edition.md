@@ -8,7 +8,7 @@ prev_slug: contrition
 prev_title: "Contrition"
 next_slug: corpus-christi-2026
 next_title: "Corpus Christi (2026)"
-related: [{"slug": "the-conversion-of-st-paul", "title": "The Conversion of St. Paul"}, {"slug": "st-john-paul-ii", "title": "St. John Paul II"}, {"slug": "st-peter-and-st-paul", "title": "St. Peter and St. Paul"}]
+related: [{"slug": "the-conversion-of-st-paul", "title": "The Conversion of St. Paul"}, {"slug": "the-epiphany-of-our-lord-2027-edition", "title": "The Epiphany of Our Lord (2027 Edition)"}, {"slug": "st-barnabas-2026", "title": "St. Barnabas (2026)"}, {"slug": "the-baptism-of-the-lord-2027-edition", "title": "The Baptism of the Lord (2027 Edition)"}, {"slug": "sts-timothy-and-titus", "title": "Sts. Timothy and Titus"}]
 ---
 
 

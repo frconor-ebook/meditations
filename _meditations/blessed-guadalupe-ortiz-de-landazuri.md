@@ -8,7 +8,7 @@ prev_slug: blessed-are-the-peacemakers
 prev_title: "Blessed Are the Peacemakers"
 next_slug: blessed-alvaro-del-portillo
 next_title: "Blessed \u00c1lvaro del Portillo"
-related: [{"slug": "blessed-alvaro-del-portillo", "title": "Blessed \u00c1lvaro del Portillo"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "blessed-are-the-peacemakers", "title": "Blessed Are the Peacemakers"}]
+related: [{"slug": "the-first-disciples", "title": "The First Disciples"}, {"slug": "st-josemaria-escriva-feast-june-26th", "title": "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"}, {"slug": "friendship-and-confidence", "title": "Friendship and Confidence"}, {"slug": "the-father-in-the-work", "title": "The Father in the Work"}, {"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}]
 ---
 
 By Fr. Conor Donnelly

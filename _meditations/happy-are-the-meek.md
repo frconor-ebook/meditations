@@ -8,7 +8,7 @@ prev_slug: guarding-our-sight
 prev_title: "Guarding Our Sight"
 next_slug: healing-christs-wounds
 next_title: "Healing Christ\u2019s Wounds"
-related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
+related: [{"slug": "meekness", "title": "Meekness"}, {"slug": "the-power-of-the-beatitudes", "title": "The Power of the Beatitudes"}, {"slug": "blessed-are-the-peacemakers", "title": "Blessed Are the Peacemakers"}, {"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "deeper-desire", "title": "Deeper Desire"}]
 ---
 
 By Fr. Conor Donnelly

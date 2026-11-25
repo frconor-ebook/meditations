@@ -7,7 +7,7 @@ prev_slug: on-creation
 prev_title: "On Creation"
 next_slug: on-grace-supernatural-life-and-confession
 next_title: "On Grace, Supernatural Life, and Confession"
-related: [{"slug": "doctrinal-formation", "title": "Doctrinal Formation"}, {"slug": "taking-advantage-of-the-means-of-formation", "title": "Taking Advantage of the Means of Formation"}]
+related: [{"slug": "study", "title": "Study"}, {"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "doctrinal-formation", "title": "Doctrinal Formation"}, {"slug": "education-in-social-virtues", "title": "Education In Social Virtues"}, {"slug": "the-good-use-of-time", "title": "The Good Use of Time"}]
 ---
 
 

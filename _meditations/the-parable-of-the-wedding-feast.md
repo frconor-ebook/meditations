@@ -8,7 +8,7 @@ prev_slug: the-only-real-evil-2nd-ed
 prev_title: "The Only Real Evil (2nd Ed.)"
 next_slug: the-parable-of-the-laborers-in-the-vineyard
 next_title: "The Parable of the Laborers in the Vineyard"
-related: [{"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "the-parable-of-the-mustard-seed", "title": "The Parable of the Mustard Seed"}, {"slug": "the-parable-of-the-rich-man-and-lazarus", "title": "The Parable of the Rich Man and Lazarus"}]
+related: [{"slug": "the-mass-and-personal-self-surrender", "title": "The Mass and Personal Self-Surrender"}, {"slug": "marriage-and-indissolubility", "title": "Marriage and Indissolubility"}, {"slug": "our-ladys-fidelity", "title": "Our Lady\u2019s Fidelity"}, {"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}, {"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}]
 ---
 
 By Fr. Conor Donnelly

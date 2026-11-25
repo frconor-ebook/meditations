@@ -8,7 +8,7 @@ prev_slug: easter-joy
 prev_title: "Easter Joy"
 next_slug: education-in-social-virtues
 next_title: "Education In Social Virtues"
-related: [{"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "easter-joy", "title": "Easter Joy"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}]
+related: [{"slug": "the-resurrection", "title": "The Resurrection"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}, {"slug": "cheerfulness", "title": "Cheerfulness"}, {"slug": "the-raising-of-lazarus", "title": "The Raising of Lazarus"}, {"slug": "judas", "title": "Judas"}]
 ---
 
 By Fr. Conor Donnelly

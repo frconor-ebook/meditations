@@ -8,7 +8,7 @@ prev_slug: ash-wednesday
 prev_title: "Ash Wednesday"
 next_slug: at-the-school-of-mary
 next_title: "At the School of Mary"
-related: [{"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}, {"slug": "self-emptying-and-st-joseph", "title": "Self-emptying and St. Joseph"}, {"slug": "st-joseph-and-the-treasure-of-silence", "title": "St. Joseph and The Treasure of Silence"}]
+related: [{"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}, {"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}, {"slug": "the-second-sunday-of-st-joseph-2026", "title": "The Second Sunday of St. Joseph (2026)"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}, {"slug": "our-lady-of-loreto", "title": "Our Lady of Loreto"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: purity-of-the-heart
 prev_title: "Purity of the Heart"
 next_slug: reading-of-the-gospels-to-get-to-know-jesus-christ
 next_title: "Reading of the Gospels to get to know Jesus Christ"
-related: [{"slug": "passionately-loving-the-world", "title": "Passionately Loving the World"}, {"slug": "the-light-of-the-world", "title": "The Light of the World"}, {"slug": "making-a-more-just-world", "title": "Making A More Just World"}]
+related: [{"slug": "on-hope", "title": "On Hope"}, {"slug": "the-dignity-of-man", "title": "The Dignity of Man"}, {"slug": "the-anniversary-of-the-women-of-the-prelature", "title": "The Anniversary of the Women of the Prelature"}, {"slug": "on-formation", "title": "On Formation"}, {"slug": "reading-of-the-gospels-to-get-to-know-jesus-christ", "title": "Reading of the Gospels to get to know Jesus Christ"}]
 ---
 
 By Fr. Conor Donnelly

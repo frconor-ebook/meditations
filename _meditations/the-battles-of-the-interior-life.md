@@ -8,7 +8,7 @@ prev_slug: the-battle
 prev_title: "The Battle"
 next_slug: the-beatitudes
 next_title: "The Beatitudes"
-related: [{"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "interior-struggle", "title": "Interior Struggle"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}]
+related: [{"slug": "growth-in-prayer", "title": "Growth in Prayer"}, {"slug": "i-am-the-vine", "title": "I Am the Vine"}, {"slug": "transformation-through-prayer", "title": "Transformation Through Prayer"}, {"slug": "vocal-prayer", "title": "Vocal Prayer"}, {"slug": "the-battle", "title": "The Battle"}]
 ---
 
 By Fr. Conor Donnelly

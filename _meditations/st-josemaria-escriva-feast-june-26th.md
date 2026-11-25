@@ -8,7 +8,7 @@ prev_slug: st-john-the-baptist
 prev_title: "St. John the Baptist"
 next_slug: st-joseph-and-the-treasure-of-silence
 next_title: "St. Joseph and The Treasure of Silence"
-related: [{"slug": "the-birthday-of-st-josemaria-escriva", "title": "The Birthday of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "the-anniversary-of-the-first-holy-communion-of-st-josemaria", "title": "The Anniversary of the First Holy Communion of St. Josemar\u00eda"}]
+related: [{"slug": "fathers-day", "title": "Father\u2019s Day"}, {"slug": "divine-filiation", "title": "Divine Filiation"}, {"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}, {"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}, {"slug": "generosity", "title": "Generosity"}]
 ---
 
 By Fr. Conor Donnelly

@@ -7,7 +7,7 @@ prev_slug: christ-the-king-2027
 prev_title: "Christ the King (2027)"
 next_slug: christian-identity
 next_title: "Christian Identity"
-related: [{"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}, {"slug": "christ-the-king", "title": "Christ the King"}, {"slug": "christ-the-king-2026", "title": "Christ the King (2026)"}]
+related: [{"slug": "passionately-loving-the-world", "title": "Passionately Loving the World"}, {"slug": "the-light-streaming-from-bethlehem", "title": "The Light Streaming from Bethlehem"}, {"slug": "salt-and-light", "title": "Salt and Light"}, {"slug": "the-paralytic-at-capharnaum-confession", "title": "The Paralytic at Capharnaum (Confession)"}, {"slug": "the-joy-of-the-journey-to-bethlehem", "title": "The Joy of the Journey to Bethlehem"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: the-guardian-angels-2026
 prev_title: "The Guardian Angels (2026)"
 next_slug: the-healing-of-the-man-with-the-withered-hand
 next_title: "The Healing of the Man with the Withered Hand"
-related: [{"slug": "fire-on-earth", "title": "Fire On Earth"}, {"slug": "fishers-of-men", "title": "Fishers of Men"}, {"slug": "friendship-and-confidence", "title": "Friendship and Confidence"}]
+related: [{"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "the-parable-of-the-sower", "title": "The Parable of the Sower"}, {"slug": "the-parable-of-the-weeds", "title": "The Parable of the Weeds"}, {"slug": "hearts-on-fire", "title": "Hearts on Fire"}, {"slug": "the-paralytic-and-his-friends", "title": "The Paralytic and His Friends"}]
 ---
 
 By Fr. Conor Donnelly

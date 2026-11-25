@@ -8,7 +8,7 @@ prev_slug: temptation
 prev_title: "Temptation"
 next_slug: thanksgiving
 next_title: "Thanksgiving"
-related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
+related: [{"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}, {"slug": "lukewarmness", "title": "Lukewarmness"}, {"slug": "the-eucharist-and-love", "title": "The Eucharist and Love"}, {"slug": "a-cup-of-cold-water", "title": "A Cup of Cold Water"}, {"slug": "deeper-desire", "title": "Deeper Desire"}]
 ---
 
 

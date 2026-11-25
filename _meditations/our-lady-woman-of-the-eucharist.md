@@ -8,7 +8,7 @@ prev_slug: our-lady-mother-of-mercy
 prev_title: "Our Lady, Mother of Mercy"
 next_slug: our-ladys-fidelity
 next_title: "Our Lady\u2019s Fidelity"
-related: [{"slug": "holy-thursday-the-eucharist", "title": "Holy Thursday: The Eucharist"}, {"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing, Loving, and Living the Eucharist"}, {"slug": "the-eucharist-and-love", "title": "The Eucharist and Love"}]
+related: [{"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}, {"slug": "holy-thursday-the-eucharist", "title": "Holy Thursday: The Eucharist"}, {"slug": "our-ladys-fidelity", "title": "Our Lady\u2019s Fidelity"}, {"slug": "the-mass-and-personal-self-surrender", "title": "The Mass and Personal Self-Surrender"}, {"slug": "the-mystery-of-the-incarnation", "title": "The Mystery of the Incarnation"}]
 ---
 
 By Fr. Conor Donnelly

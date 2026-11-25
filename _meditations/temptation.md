@@ -8,7 +8,7 @@ prev_slug: temperance
 prev_title: "Temperance"
 next_slug: tepidity
 next_title: "Tepidity"
-related: [{"slug": "the-war-with-temptation", "title": "The War With Temptation"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}]
+related: [{"slug": "sin-of-pride-the-elder-son", "title": "Sin of Pride (The Elder Son)"}, {"slug": "holy-purity", "title": "Holy Purity"}, {"slug": "ash-wednesday", "title": "Ash Wednesday"}, {"slug": "the-curing-of-the-possessed-man-gerasenes", "title": "The Curing of the Possessed Man (Gerasenes)"}, {"slug": "self-denial", "title": "Self-Denial"}]
 ---
 
 By Fr. Conor Donnelly

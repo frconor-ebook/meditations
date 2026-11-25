@@ -7,7 +7,7 @@ prev_slug: the-baptism-of-our-lord-2026
 prev_title: "The Baptism of Our Lord (2026)"
 next_slug: the-battle
 next_title: "The Battle"
-related: [{"slug": "the-baptism-of-our-lord-2026", "title": "The Baptism of Our Lord (2026)"}, {"slug": "the-epiphany-of-our-lord-2027-edition", "title": "The Epiphany of Our Lord (2027 Edition)"}, {"slug": "all-you-peoples-bless-the-lord", "title": "All You Peoples, Bless the Lord"}]
+related: [{"slug": "the-baptism-of-our-lord-2026", "title": "The Baptism of Our Lord (2026)"}, {"slug": "the-epiphany-of-our-lord-2027-edition", "title": "The Epiphany of Our Lord (2027 Edition)"}, {"slug": "the-baptism-of-jesus", "title": "The Baptism of Jesus"}, {"slug": "conversion-of-st-paul-2027-edition", "title": "Conversion of St. Paul (2027 Edition)"}, {"slug": "children-of-god", "title": "Children of God"}]
 ---
 
 

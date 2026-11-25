@@ -8,7 +8,7 @@ prev_slug: knowing-when-to-speak
 prev_title: "Knowing When to Speak"
 next_slug: launch-out-into-the-deep
 next_title: "Launch Out Into The Deep"
-related: [{"slug": "holy-thursday-the-eucharist", "title": "Holy Thursday: The Eucharist"}, {"slug": "our-lady-woman-of-the-eucharist", "title": "Our Lady, Woman of the Eucharist"}, {"slug": "the-eucharist-and-love", "title": "The Eucharist and Love"}]
+related: [{"slug": "the-bread-of-life", "title": "The Bread of Life"}, {"slug": "the-eucharist-and-love", "title": "The Eucharist and Love"}, {"slug": "the-real-presence", "title": "The Real Presence"}, {"slug": "the-multiplication-of-the-loaves-and-fish", "title": "The Multiplication of the Loaves and Fish"}, {"slug": "taking-the-bread", "title": "Taking the Bread"}]
 ---
 
 By Fr. Conor Donnelly

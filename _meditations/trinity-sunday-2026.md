@@ -7,7 +7,7 @@ prev_slug: trinity-sunday
 prev_title: "Trinity Sunday"
 next_slug: true-prayer
 next_title: "True Prayer"
-related: [{"slug": "trinity-sunday", "title": "Trinity Sunday"}, {"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}, {"slug": "easter-sunday", "title": "Easter Sunday"}]
+related: [{"slug": "children-of-god", "title": "Children of God"}, {"slug": "trinity-sunday", "title": "Trinity Sunday"}, {"slug": "the-baptism-of-our-lord-2026", "title": "The Baptism of Our Lord (2026)"}, {"slug": "pentecost-sunday", "title": "Pentecost Sunday"}, {"slug": "learning-to-ask", "title": "Learning to Ask"}]
 ---
 
 

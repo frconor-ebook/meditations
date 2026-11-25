@@ -8,7 +8,7 @@ prev_slug: spirit-of-service
 prev_title: "Spirit of Service"
 next_slug: spiritual-direction
 next_title: "Spiritual Direction"
-related: [{"slug": "life-of-childhood", "title": "Life of Childhood"}, {"slug": "spiritual-direction", "title": "Spiritual Direction"}, {"slug": "spiritual-receptivity", "title": "Spiritual Receptivity"}]
+related: [{"slug": "do-not-be-afraid", "title": "Do Not Be Afraid"}, {"slug": "children-of-god", "title": "Children of God"}, {"slug": "prince-of-peace", "title": "Prince of Peace"}, {"slug": "learning-to-ask", "title": "Learning to Ask"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}]
 ---
 
 By Fr. Conor Donnelly

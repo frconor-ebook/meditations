@@ -8,7 +8,7 @@ prev_slug: peter-and-prayer
 prev_title: "Peter and Prayer"
 next_slug: piety
 next_title: "Piety"
-related: [{"slug": "love-for-peter", "title": "Love for Peter"}, {"slug": "peter-and-prayer", "title": "Peter and Prayer"}, {"slug": "st-peter", "title": "St. Peter"}]
+related: [{"slug": "contrition", "title": "Contrition"}, {"slug": "peter-and-prayer", "title": "Peter and Prayer"}, {"slug": "self-denial", "title": "Self-Denial"}, {"slug": "st-peter", "title": "St. Peter"}, {"slug": "the-unmerciful-servant", "title": "The Unmerciful Servant"}]
 ---
 
 

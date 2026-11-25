@@ -8,7 +8,7 @@ prev_slug: the-parable-of-the-wedding-feast
 prev_title: "The Parable of The Wedding Feast"
 next_slug: the-parable-of-the-mustard-seed
 next_title: "The Parable of the Mustard Seed"
-related: [{"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-parable-of-the-mustard-seed", "title": "The Parable of the Mustard Seed"}, {"slug": "the-parable-of-the-rich-man-and-lazarus", "title": "The Parable of the Rich Man and Lazarus"}]
+related: [{"slug": "the-parable-of-the-weeds", "title": "The Parable of the Weeds"}, {"slug": "the-harvest-is-plentiful", "title": "The Harvest is Plentiful"}, {"slug": "the-good-use-of-time", "title": "The Good Use of Time"}, {"slug": "on-apostolate", "title": "On Apostolate"}, {"slug": "the-healing-of-the-ten-lepers", "title": "The Healing of the Ten Lepers"}]
 ---
 
 By Fr. Conor Donnelly

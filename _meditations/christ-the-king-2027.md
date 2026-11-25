@@ -8,7 +8,7 @@ prev_slug: christ-the-king-2026
 prev_title: "Christ the King (2026)"
 next_slug: christ-the-light
 next_title: "Christ the Light"
-related: [{"slug": "christ-the-king", "title": "Christ the King"}, {"slug": "christ-the-king-2026", "title": "Christ the King (2026)"}, {"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}]
+related: [{"slug": "christ-the-king-2026", "title": "Christ the King (2026)"}, {"slug": "the-king-of-hearts", "title": "The King of Hearts"}, {"slug": "the-sacred-heart-of-jesus-2026", "title": "The Sacred Heart of Jesus (2026)"}, {"slug": "love-for-the-bishop", "title": "Love for the Bishop"}, {"slug": "by-their-fruits-you-will-know-them", "title": "By Their Fruits, You Will Know Them"}]
 ---
 
 

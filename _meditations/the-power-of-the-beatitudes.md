@@ -7,7 +7,7 @@ prev_slug: the-pool-at-bethsaida
 prev_title: "The Pool at Bethsaida"
 next_slug: the-precious-blood-of-christ
 next_title: "The Precious Blood of Christ"
-related: [{"slug": "the-beatitudes", "title": "The Beatitudes"}]
+related: [{"slug": "happy-are-the-meek", "title": "Happy Are the Meek"}, {"slug": "god-of-consolation", "title": "God of Consolation"}, {"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "deeper-desire", "title": "Deeper Desire"}, {"slug": "the-sanctification-of-calumnies", "title": "The Sanctification of Calumnies"}]
 ---
 
 By Fr. Conor Donnelly

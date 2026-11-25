@@ -7,7 +7,7 @@ prev_slug: the-baptism-of-jesus
 prev_title: "The Baptism of Jesus"
 next_slug: the-baptism-of-the-lord-2027-edition
 next_title: "The Baptism of the Lord (2027 Edition)"
-related: [{"slug": "the-baptism-of-the-lord-2027-edition", "title": "The Baptism of the Lord (2027 Edition)"}, {"slug": "all-you-peoples-bless-the-lord", "title": "All You Peoples, Bless the Lord"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}]
+related: [{"slug": "the-baptism-of-the-lord-2027-edition", "title": "The Baptism of the Lord (2027 Edition)"}, {"slug": "st-francis-de-sales", "title": "St. Francis de Sales"}, {"slug": "the-baptism-of-jesus", "title": "The Baptism of Jesus"}, {"slug": "learning-to-ask", "title": "Learning to Ask"}, {"slug": "st-barnabas-2026", "title": "St. Barnabas (2026)"}]
 ---
 
 By Fr. Conor Donnelly

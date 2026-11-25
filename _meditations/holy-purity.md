@@ -8,7 +8,7 @@ prev_slug: holy-communion-jesus-is-mine
 prev_title: "Holy Communion: Jesus Is Mine"
 next_slug: holy-saturday
 next_title: "Holy Saturday"
-related: [{"slug": "purity-of-soul", "title": "Purity of Soul"}, {"slug": "purity-of-the-heart", "title": "Purity of the Heart"}, {"slug": "egypt-and-the-holy-family", "title": "Egypt and the Holy Family"}]
+related: [{"slug": "clean-of-heart", "title": "Clean of Heart"}, {"slug": "purity-of-the-heart", "title": "Purity of the Heart"}, {"slug": "guarding-our-sight", "title": "Guarding Our Sight"}, {"slug": "sin-of-pride-the-elder-son", "title": "Sin of Pride (The Elder Son)"}, {"slug": "obedience", "title": "Obedience"}]
 ---
 
 By Fr. Conor Donnelly

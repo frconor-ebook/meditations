@@ -8,7 +8,7 @@ prev_slug: growing-in-faith
 prev_title: "Growing in Faith"
 next_slug: guarding-our-sight
 next_title: "Guarding Our Sight"
-related: [{"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}, {"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}]
+related: [{"slug": "transformation-through-prayer", "title": "Transformation Through Prayer"}, {"slug": "i-am-the-vine", "title": "I Am the Vine"}, {"slug": "intimacy-with-god-after-edward-leen", "title": "Intimacy with God (after Edward Leen)"}, {"slug": "the-battles-of-the-interior-life", "title": "The Battles of the Interior Life"}, {"slug": "vocal-prayer", "title": "Vocal Prayer"}]
 ---
 
 

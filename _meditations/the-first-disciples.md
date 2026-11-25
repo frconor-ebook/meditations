@@ -8,7 +8,7 @@ prev_slug: the-first-commandment
 prev_title: "The First Commandment"
 next_slug: the-first-martyrs-of-the-church-of-rome
 next_title: "The First Martyrs of the Church of Rome"
-related: [{"slug": "first-thoughts-and-emotions", "title": "First Thoughts and Emotions"}, {"slug": "the-anniversary-of-the-first-holy-communion-of-st-josemaria", "title": "The Anniversary of the First Holy Communion of St. Josemar\u00eda"}, {"slug": "the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature", "title": "The Anniversary of the Ordination of the First Three Priests of the Prelature"}]
+related: [{"slug": "the-apostolate", "title": "The Apostolate"}, {"slug": "self-emptying-and-st-joseph", "title": "Self-emptying and St. Joseph"}, {"slug": "st-josephs-holiness-in-ordinary-life", "title": "St. Joseph\u2019s Holiness in Ordinary Life"}, {"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}, {"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}]
 ---
 
 By Fr. Conor Donnelly

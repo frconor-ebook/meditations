@@ -7,6 +7,7 @@ prev_slug: the-grain-of-wheat
 prev_title: "The Grain of Wheat"
 next_slug: the-grandfather
 next_title: "The Grandfather"
+related: [{"slug": "the-eucharist-and-love", "title": "The Eucharist and Love"}, {"slug": "when-i-am-weak-then-i-am-strong", "title": "When I Am Weak, Then I Am Strong"}, {"slug": "the-power-of-the-beatitudes", "title": "The Power of the Beatitudes"}, {"slug": "the-eucharistfaith-and-hope", "title": "The Eucharist\u2013Faith and Hope"}, {"slug": "exalted", "title": "Exalted"}]
 ---
 
 

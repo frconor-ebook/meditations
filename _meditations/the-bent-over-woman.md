@@ -8,7 +8,7 @@ prev_slug: the-beauty-of-the-manger
 prev_title: "The Beauty of the Manger"
 next_slug: the-birth-of-st-john-the-baptist
 next_title: "The Birth of St. John the Baptist"
-related: [{"slug": "the-syrophoenician-woman", "title": "The Syrophoenician Woman"}, {"slug": "the-woman-with-the-issue-of-blood", "title": "The Woman with the Issue of Blood"}, {"slug": "our-lady-woman-of-the-eucharist", "title": "Our Lady, Woman of the Eucharist"}]
+related: [{"slug": "looking-up-to-heaven", "title": "Looking Up to Heaven"}, {"slug": "rectitude-of-intention", "title": "Rectitude of Intention"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "the-healing-of-the-ten-lepers", "title": "The Healing of the Ten Lepers"}, {"slug": "sincerity-love-for-truth", "title": "Sincerity, Love for Truth"}]
 ---
 
 By Fr. Conor Donnelly

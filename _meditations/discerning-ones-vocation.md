@@ -8,7 +8,7 @@ prev_slug: defending-the-family
 prev_title: "Defending the Family"
 next_slug: divine-filiation
 next_title: "Divine Filiation"
-related: [{"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}, {"slug": "the-vocation-of-our-lady", "title": "The Vocation of Our Lady"}, {"slug": "spirit-of-service", "title": "Spirit of Service"}]
+related: [{"slug": "st-joseph-the-family-man", "title": "St. Joseph, The Family Man"}, {"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}, {"slug": "the-annunciation", "title": "The Annunciation"}, {"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}, {"slug": "the-creative-courage-of-st-joseph", "title": "The Creative Courage of St. Joseph"}]
 ---
 
 By Fr. Conor Donnelly

@@ -7,7 +7,7 @@ prev_slug: the-holy-innocents
 prev_title: "The Holy Innocents"
 next_slug: the-holy-name-of-mary
 next_title: "The Holy Name of Mary"
-related: [{"slug": "holy-communion-jesus-is-mine", "title": "Holy Communion: Jesus Is Mine"}, {"slug": "the-holy-name-of-mary", "title": "The Holy Name of Mary"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}]
+related: [{"slug": "the-adoration-of-the-kings", "title": "The Adoration of the Kings"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}, {"slug": "the-miracle-at-cana", "title": "The Miracle at Cana"}, {"slug": "the-curing-of-the-man-with-an-unclean-spirit", "title": "The Curing of the Man with an Unclean Spirit"}, {"slug": "the-holy-name-of-mary", "title": "The Holy Name of Mary"}]
 ---
 
 By Fr. Conor Donnelly

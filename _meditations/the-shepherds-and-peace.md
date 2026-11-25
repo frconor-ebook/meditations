@@ -8,7 +8,7 @@ prev_slug: the-seventh-sunday-of-st-joseph-2026
 prev_title: "The Seventh Sunday of St. Joseph (2026)"
 next_slug: the-sixth-sunday-of-st-joseph-2026
 next_title: "The Sixth Sunday of St. Joseph (2026)"
-related: [{"slug": "prince-of-peace", "title": "Prince of Peace"}, {"slug": "shepherds-and-wise-men", "title": "Shepherds and Wise Men"}, {"slug": "interior-peace", "title": "Interior Peace"}]
+related: [{"slug": "christmas", "title": "Christmas"}, {"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}, {"slug": "obedience-in-bethlehem", "title": "Obedience in Bethlehem"}, {"slug": "the-holy-innocents", "title": "The Holy Innocents"}, {"slug": "prince-of-peace", "title": "Prince of Peace"}]
 ---
 
 By Fr. Conor Donnelly

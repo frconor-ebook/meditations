@@ -8,7 +8,7 @@ prev_slug: the-parable-of-the-weeds
 prev_title: "The Parable of the Weeds"
 next_slug: the-paralytic-at-capharnaum-confession
 next_title: "The Paralytic at Capharnaum (Confession)"
-related: [{"slug": "the-paralytic-at-capharnaum-confession", "title": "The Paralytic at Capharnaum (Confession)"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
+related: [{"slug": "the-paralytic-at-capharnaum-confession", "title": "The Paralytic at Capharnaum (Confession)"}, {"slug": "st-francis-de-sales", "title": "St. Francis de Sales"}, {"slug": "on-apostolate", "title": "On Apostolate"}, {"slug": "the-good-samaritan", "title": "The Good Samaritan"}, {"slug": "launch-out-into-the-deep", "title": "Launch Out Into The Deep"}]
 ---
 
 By Fr. Conor Donnelly

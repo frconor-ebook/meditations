@@ -8,7 +8,7 @@ prev_slug: freedom
 prev_title: "Freedom"
 next_slug: friendship-with-jesus
 next_title: "Friendship with Jesus"
-related: [{"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}, {"slug": "st-john-henry-newman-on-friendship", "title": "St. John Henry Newman on Friendship"}, {"slug": "fire-on-earth", "title": "Fire On Earth"}]
+related: [{"slug": "the-apostolate", "title": "The Apostolate"}, {"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}, {"slug": "on-temperance", "title": "On Temperance"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}, {"slug": "humility", "title": "Humility"}]
 ---
 
 By Fr. Conor Donnelly

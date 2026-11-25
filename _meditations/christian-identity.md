@@ -7,7 +7,7 @@ prev_slug: christ-the-light
 prev_title: "Christ the Light"
 next_slug: christian-virtues
 next_title: "Christian Virtues"
-related: [{"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "christian-virtues", "title": "Christian Virtues"}]
+related: [{"slug": "on-formation", "title": "On Formation"}, {"slug": "on-hope", "title": "On Hope"}, {"slug": "education-in-social-virtues", "title": "Education In Social Virtues"}, {"slug": "rectitude-of-intention", "title": "Rectitude of Intention"}, {"slug": "learning-to-ask", "title": "Learning to Ask"}]
 ---
 
 By Fr. Conor Donnelly

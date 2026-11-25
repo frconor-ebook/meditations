@@ -8,7 +8,7 @@ prev_slug: making-the-most-of-the-gifts-we-have-been-given
 prev_title: "Making the Most of the Gifts We Have Been Given"
 next_slug: marriage-in-heaven
 next_title: "Marriage in Heaven"
-related: [{"slug": "fidelity-in-marriage", "title": "Fidelity in Marriage"}, {"slug": "marriage-in-heaven", "title": "Marriage in Heaven"}, {"slug": "zeal-for-holiness-through-marriage", "title": "Zeal for Holiness Through Marriage"}]
+related: [{"slug": "love-for-chastity", "title": "Love for Chastity"}, {"slug": "clean-of-heart", "title": "Clean of Heart"}, {"slug": "purity-of-soul", "title": "Purity of Soul"}, {"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "fathers-day", "title": "Father\u2019s Day"}]
 ---
 
 By Fr. Conor Donnelly

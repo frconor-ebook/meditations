@@ -8,7 +8,7 @@ prev_slug: the-grandeur-of-man
 prev_title: "The Grandeur of Man"
 next_slug: the-grandmother
 next_title: "The Grandmother"
-related: [{"slug": "aunt-carmen", "title": "Aunt Carmen"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}, {"slug": "blessed-alvaro-del-portillo", "title": "Blessed \u00c1lvaro del Portillo"}]
+related: [{"slug": "the-feast-of-the-holy-family", "title": "The Feast of the Holy Family"}, {"slug": "passionately-loving-the-world", "title": "Passionately Loving the World"}, {"slug": "the-birthday-of-the-prelate-don-fernando", "title": "The Birthday of the Prelate (Don Fernando)"}, {"slug": "the-magnificat", "title": "The Magnificat"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: charity
 prev_title: "Charity"
 next_slug: charity-versus-anger
 next_title: "Charity versus Anger"
-related: [{"slug": "charity", "title": "Charity"}, {"slug": "charity-versus-anger", "title": "Charity versus Anger"}, {"slug": "judgments-charity", "title": "Judgments (Charity)"}]
+related: [{"slug": "forgiveness", "title": "Forgiveness"}, {"slug": "cross-rejection", "title": "Cross Rejection"}, {"slug": "peter-and-prayer", "title": "Peter and Prayer"}, {"slug": "mortification", "title": "Mortification"}, {"slug": "clean-of-heart", "title": "Clean of Heart"}]
 ---
 
 By Fr. Conor Donnelly

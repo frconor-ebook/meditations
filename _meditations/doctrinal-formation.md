@@ -7,7 +7,7 @@ prev_slug: do-not-let-your-hearts-be-troubled
 prev_title: "Do Not Let Your Hearts Be Troubled"
 next_slug: easter-faith
 next_title: "Easter Faith"
-related: [{"slug": "on-formation", "title": "On Formation"}, {"slug": "taking-advantage-of-the-means-of-formation", "title": "Taking Advantage of the Means of Formation"}]
+related: [{"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}, {"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}, {"slug": "the-apostolate", "title": "The Apostolate"}, {"slug": "humility-lent", "title": "Humility (Lent)"}, {"slug": "aim-high", "title": "Aim High"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: my-words-will-not-pass-away
 prev_title: "My Words Will Not Pass Away"
 next_slug: naturalness-and-simplicity
 next_title: "Naturalness and Simplicity"
-related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
+related: [{"slug": "little-duties", "title": "Little Duties"}, {"slug": "the-healing-of-the-man-with-the-withered-hand", "title": "The Healing of the Man with the Withered Hand"}, {"slug": "listening", "title": "Listening"}, {"slug": "the-syrophoenician-woman", "title": "The Syrophoenician Woman"}, {"slug": "the-cure-of-the-possessed-boy", "title": "The Cure of the Possessed Boy"}]
 ---
 
 By Fr. Conor Donnelly

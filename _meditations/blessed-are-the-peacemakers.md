@@ -7,7 +7,7 @@ prev_slug: blessed-are-the-merciful
 prev_title: "Blessed Are The Merciful"
 next_slug: blessed-guadalupe-ortiz-de-landazuri
 next_title: "Blessed Guadalupe Ortiz de Land\u00e1zuri"
-related: [{"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}, {"slug": "blessed-alvaro-del-portillo", "title": "Blessed \u00c1lvaro del Portillo"}]
+related: [{"slug": "prince-of-peace", "title": "Prince of Peace"}, {"slug": "do-not-let-your-hearts-be-troubled", "title": "Do Not Let Your Hearts Be Troubled"}, {"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "the-holiness-in-rest-a-sacred-pause", "title": "The Holiness in Rest: A Sacred Pause"}, {"slug": "happy-are-the-meek", "title": "Happy Are the Meek"}]
 ---
 
 By Fr. Conor Donnelly

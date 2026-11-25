@@ -8,7 +8,7 @@ prev_slug: sincerity-love-for-truth
 prev_title: "Sincerity, Love for Truth"
 next_slug: sparrows
 next_title: "Sparrows"
-related: [{"slug": "growth-in-prayer", "title": "Growth in Prayer"}, {"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}]
+related: [{"slug": "the-archangels", "title": "The Archangels"}, {"slug": "lukewarmness", "title": "Lukewarmness"}, {"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}, {"slug": "personal-prayer", "title": "Personal Prayer"}]
 ---
 
 By Fr. Conor Donnelly

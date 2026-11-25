@@ -8,7 +8,7 @@ prev_slug: sick-and-you-visited-me
 prev_title: "Sick and You Visited Me"
 next_slug: simplicity-after-edward-leen
 next_title: "Simplicity (after Edward Leen)"
-related: [{"slug": "the-prophecy-of-simeon", "title": "The Prophecy of Simeon"}, {"slug": "christmas", "title": "Christmas"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}]
+related: [{"slug": "the-holy-innocents", "title": "The Holy Innocents"}, {"slug": "the-annunciation-advent", "title": "The Annunciation (Advent)"}, {"slug": "our-ladys-fidelity", "title": "Our Lady\u2019s Fidelity"}, {"slug": "christmas", "title": "Christmas"}, {"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}]
 ---
 
 By Fr. Conor Donnelly

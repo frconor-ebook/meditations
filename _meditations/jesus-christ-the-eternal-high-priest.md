@@ -8,7 +8,7 @@ prev_slug: it-is-right-and-just
 prev_title: "It Is Right and Just"
 next_slug: jesus-therefore-wearied-from-his-journey
 next_title: "Jesus Therefore, Wearied from His Journey"
-related: [{"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}, {"slug": "christs-eternal-priesthood", "title": "Christ\u2019s Eternal Priesthood"}, {"slug": "reading-of-the-gospels-to-get-to-know-jesus-christ", "title": "Reading of the Gospels to get to know Jesus Christ"}]
+related: [{"slug": "the-one-who-gives-us-jesus", "title": "The One Who Gives Us Jesus"}, {"slug": "love-for-priests", "title": "Love For Priests"}, {"slug": "christs-eternal-priesthood", "title": "Christ\u2019s Eternal Priesthood"}, {"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}]
 ---
 
 

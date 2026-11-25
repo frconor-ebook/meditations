@@ -8,7 +8,7 @@ prev_slug: to-serve
 prev_title: "To Serve"
 next_slug: touching-god-in-prayer
 next_title: "Touching God in Prayer"
-related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "little-duties", "title": "Little Duties"}, {"slug": "little-things", "title": "Little Things"}]
+related: [{"slug": "a-cup-of-cold-water", "title": "A Cup of Cold Water"}, {"slug": "generosity-towards-god", "title": "Generosity Towards God"}, {"slug": "the-multiplication-of-the-loaves-and-fish", "title": "The Multiplication of the Loaves and Fish"}, {"slug": "generosity-in-correspondence", "title": "Generosity in Correspondence"}, {"slug": "the-infinite-love-of-god", "title": "The Infinite Love of God"}]
 ---
 
 

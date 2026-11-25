@@ -8,7 +8,7 @@ prev_slug: egypt-and-the-holy-family
 prev_title: "Egypt and the Holy Family"
 next_slug: enlarging-the-heart
 next_title: "Enlarging the Heart"
-related: [{"slug": "ash-wednesday", "title": "Ash Wednesday"}, {"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "easter-joy", "title": "Easter Joy"}]
+related: [{"slug": "the-multiplication-of-the-loaves-and-fish", "title": "The Multiplication of the Loaves and Fish"}, {"slug": "the-bread-of-life", "title": "The Bread of Life"}, {"slug": "the-ascension", "title": "The Ascension"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "on-hope", "title": "On Hope"}]
 ---
 
 By Fr. Conor Donnelly

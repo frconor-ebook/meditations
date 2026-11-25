@@ -8,7 +8,7 @@ prev_slug: in-the-heart-of-joseph-and-mary
 prev_title: "In the Heart of Joseph and Mary"
 next_slug: inestimable-gift
 next_title: "Inestimable Gift"
-related: [{"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "growing-in-faith", "title": "Growing in Faith"}, {"slug": "infectious-faith", "title": "Infectious Faith"}]
+related: [{"slug": "the-faith-of-abraham", "title": "The Faith of Abraham"}, {"slug": "life-of-faith", "title": "Life of Faith"}, {"slug": "optimism", "title": "Optimism"}, {"slug": "the-healing-of-the-royal-officials-son", "title": "The Healing of the Royal Official\u2019s Son"}, {"slug": "the-woman-with-the-issue-of-blood", "title": "The Woman with the Issue of Blood"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: the-epiphany-of-our-lord-2027-edition
 prev_title: "The Epiphany of Our Lord (2027 Edition)"
 next_slug: the-eucharist-and-love
 next_title: "The Eucharist and Love"
-related: [{"slug": "jesus-christ-the-eternal-high-priest", "title": "Jesus Christ, The Eternal High Priest"}, {"slug": "christs-eternal-priesthood", "title": "Christ\u2019s Eternal Priesthood"}, {"slug": "aim-high", "title": "Aim High"}]
+related: [{"slug": "the-mass-and-personal-self-surrender", "title": "The Mass and Personal Self-Surrender"}, {"slug": "chalice-possumus-we-can", "title": "Chalice, Possumus, We Can"}, {"slug": "our-ladys-fidelity", "title": "Our Lady\u2019s Fidelity"}, {"slug": "simeon-and-anna", "title": "Simeon and Anna"}, {"slug": "the-syrophoenician-woman", "title": "The Syrophoenician Woman"}]
 ---
 
 By Fr. Conor Donnelly

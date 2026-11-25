@@ -8,7 +8,7 @@ prev_slug: sts-timothy-and-titus
 prev_title: "Sts. Timothy and Titus"
 next_slug: taking-advantage-of-the-means-of-formation
 next_title: "Taking Advantage of the Means of Formation"
-related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "little-duties", "title": "Little Duties"}, {"slug": "little-things", "title": "Little Things"}]
+related: [{"slug": "on-formation", "title": "On Formation"}, {"slug": "on-apostolate", "title": "On Apostolate"}, {"slug": "the-good-use-of-time", "title": "The Good Use of Time"}, {"slug": "professional-prestige", "title": "Professional Prestige"}, {"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}]
 ---
 
 By Fr. Conor Donnelly

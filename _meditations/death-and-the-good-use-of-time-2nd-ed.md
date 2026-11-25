@@ -8,7 +8,7 @@ prev_slug: daily-mass
 prev_title: "Daily Mass"
 next_slug: deeper-desire
 next_title: "Deeper Desire"
-related: [{"slug": "the-good-use-of-time", "title": "The Good Use of Time"}, {"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}]
+related: [{"slug": "the-parable-of-the-ten-virgins", "title": "The Parable of the Ten Virgins"}, {"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "the-last-day-of-the-year-dec-31", "title": "The Last Day of the Year (Dec. 31)"}, {"slug": "the-end-of-life", "title": "The End of Life"}, {"slug": "the-sanctification-of-later-years", "title": "The Sanctification of Later Years"}]
 ---
 
 By Fr. Conor Donnelly

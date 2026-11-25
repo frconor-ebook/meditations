@@ -8,7 +8,7 @@ prev_slug: true-prayer
 prev_title: "True Prayer"
 next_slug: understanding
 next_title: "Understanding"
-related: [{"slug": "freedom", "title": "Freedom"}, {"slug": "true-prayer", "title": "True Prayer"}, {"slug": "against-all-hope", "title": "Against All Hope"}]
+related: [{"slug": "spiritual-receptivity", "title": "Spiritual Receptivity"}, {"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "freedom", "title": "Freedom"}, {"slug": "st-therese-of-lisieux", "title": "St. Th\u00e9r\u00e8se of Lisieux"}, {"slug": "when-i-am-weak-then-i-am-strong", "title": "When I Am Weak, Then I Am Strong"}]
 ---
 
 

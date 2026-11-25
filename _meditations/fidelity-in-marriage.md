@@ -8,7 +8,7 @@ prev_slug: fathers-day
 prev_title: "Father\u2019s Day"
 next_slug: finding-jesus
 next_title: "Finding Jesus"
-related: [{"slug": "marriage-and-indissolubility", "title": "Marriage and Indissolubility"}, {"slug": "marriage-in-heaven", "title": "Marriage in Heaven"}, {"slug": "zeal-for-holiness-through-marriage", "title": "Zeal for Holiness Through Marriage"}]
+related: [{"slug": "zeal-for-holiness-through-marriage", "title": "Zeal for Holiness Through Marriage"}, {"slug": "perseverance", "title": "Perseverance"}, {"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "education-in-social-virtues", "title": "Education In Social Virtues"}, {"slug": "til-death-do-us-part", "title": "\u2018Til Death Do Us Part"}]
 ---
 
 By Fr. Conor Donnelly

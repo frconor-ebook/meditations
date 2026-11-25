@@ -8,7 +8,7 @@ prev_slug: life-of-childhood
 prev_title: "Life of Childhood"
 next_slug: listening
 next_title: "Listening"
-related: [{"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "growing-in-faith", "title": "Growing in Faith"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}]
+related: [{"slug": "the-faith-of-abraham", "title": "The Faith of Abraham"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}, {"slug": "on-hope", "title": "On Hope"}, {"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}, {"slug": "even-the-hairs-of-your-head", "title": "Even The Hairs of Your Head"}]
 ---
 
 By Fr. Conor Donnelly

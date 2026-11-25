@@ -8,7 +8,7 @@ prev_slug: unlimited-forgiveness
 prev_title: "Unlimited Forgiveness"
 next_slug: vanity-he-must-increase
 next_title: "Vanity (He Must Increase)"
-related: [{"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}, {"slug": "salt-and-light", "title": "Salt and Light"}]
+related: [{"slug": "spirit-of-service", "title": "Spirit of Service"}, {"slug": "to-serve", "title": "To Serve"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}, {"slug": "happy-are-the-meek", "title": "Happy Are the Meek"}, {"slug": "the-seat-of-honor", "title": "The Seat of Honor"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: st-pius-x
 prev_title: "St. Pius X"
 next_slug: st-severinus-and-unity
 next_title: "St. Severinus and Unity"
-related: [{"slug": "love-for-the-church-st-pius-x", "title": "Love for the Church (St. Pius X)"}, {"slug": "st-pius-x", "title": "St. Pius X"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}]
+related: [{"slug": "love-for-the-church-st-pius-x", "title": "Love for the Church (St. Pius X)"}, {"slug": "st-pius-x", "title": "St. Pius X"}, {"slug": "st-john-mary-vianney-2026", "title": "St. John Mary Vianney (2026)"}, {"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}, {"slug": "daily-mass", "title": "Daily Mass"}]
 ---
 
 

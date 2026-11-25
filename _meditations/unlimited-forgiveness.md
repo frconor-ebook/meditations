@@ -8,7 +8,7 @@ prev_slug: unity-of-life
 prev_title: "Unity of Life"
 next_slug: useless-servants
 next_title: "Useless Servants"
-related: [{"slug": "forgiveness", "title": "Forgiveness"}, {"slug": "a-merciful-messiah", "title": "A Merciful Messiah"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}]
+related: [{"slug": "the-unmerciful-servant", "title": "The Unmerciful Servant"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "forgiveness", "title": "Forgiveness"}, {"slug": "the-sacrament-of-growth-and-mercy", "title": "The Sacrament of Growth and Mercy"}]
 ---
 
 

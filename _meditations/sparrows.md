@@ -8,7 +8,7 @@ prev_slug: souls-of-prayer
 prev_title: "Souls of Prayer"
 next_slug: spirit-and-life
 next_title: "Spirit and Life"
-related: [{"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}, {"slug": "salt-and-light", "title": "Salt and Light"}]
+related: [{"slug": "understanding", "title": "Understanding"}, {"slug": "children-of-god", "title": "Children of God"}, {"slug": "the-paralytic-and-his-friends", "title": "The Paralytic and His Friends"}, {"slug": "obedience", "title": "Obedience"}, {"slug": "the-grain-of-wheat", "title": "The Grain of Wheat"}]
 ---
 
 By Fr. Conor Donnelly

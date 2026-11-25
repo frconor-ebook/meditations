@@ -8,7 +8,7 @@ prev_slug: our-lady-of-pilar
 prev_title: "Our Lady of Pilar"
 next_slug: our-lady-of-ransom-2026
 next_title: "Our Lady of Ransom (2026)"
-related: [{"slug": "our-lady-of-ransom-2026", "title": "Our Lady of Ransom (2026)"}, {"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}]
+related: [{"slug": "our-lady-of-ransom-2026", "title": "Our Lady of Ransom (2026)"}, {"slug": "our-lady-mother-of-mercy", "title": "Our Lady, Mother of Mercy"}, {"slug": "the-nativity-of-our-lady", "title": "The Nativity of Our Lady"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "the-unmerciful-servant", "title": "The Unmerciful Servant"}]
 ---
 
 By Fr. Conor Donnelly

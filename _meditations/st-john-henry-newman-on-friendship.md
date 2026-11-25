@@ -8,7 +8,7 @@ prev_slug: st-john-2025-ed
 prev_title: "St. John (2025 Ed.)"
 next_slug: st-john-henry-newman-on-the-laity
 next_title: "St. John Henry Newman on The Laity"
-related: [{"slug": "st-john-henry-newman-on-the-laity", "title": "St. John Henry Newman on The Laity"}, {"slug": "st-john", "title": "St. John"}, {"slug": "st-john-2025-ed", "title": "St. John (2025 Ed.)"}]
+related: [{"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}, {"slug": "st-john-henry-newman-on-the-laity", "title": "St. John Henry Newman on The Laity"}, {"slug": "gratitude-for-pope-benedict-xvi", "title": "Gratitude for Pope Benedict XVI"}, {"slug": "st-john", "title": "St. John"}, {"slug": "the-passion-of-st-john-the-baptist", "title": "The Passion of St. John the Baptist"}]
 ---
 
 By Fr. Conor Donnelly

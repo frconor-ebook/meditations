@@ -8,7 +8,7 @@ prev_slug: the-holiness-in-rest-a-sacred-pause
 prev_title: "The Holiness in Rest: A Sacred Pause"
 next_slug: the-holy-name-of-jesus
 next_title: "The Holy Name of Jesus"
-related: [{"slug": "the-feast-of-the-holy-innocents-2025", "title": "The Feast of the Holy Innocents, 2025"}, {"slug": "egypt-and-the-holy-family", "title": "Egypt and the Holy Family"}, {"slug": "fruits-of-the-holy-spirit", "title": "Fruits of the Holy Spirit"}]
+related: [{"slug": "simeon-and-anna", "title": "Simeon and Anna"}, {"slug": "christmas", "title": "Christmas"}, {"slug": "the-shepherds-and-peace", "title": "The Shepherds and Peace"}, {"slug": "the-light-streaming-from-bethlehem", "title": "The Light Streaming from Bethlehem"}, {"slug": "the-last-day-of-the-year-dec-31", "title": "The Last Day of the Year (Dec. 31)"}]
 ---
 
 By Fr. Conor Donnelly

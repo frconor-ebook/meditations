@@ -7,6 +7,7 @@ prev_slug: death-and-the-good-use-of-time-2nd-ed
 prev_title: "Death and the Good Use of Time (2nd Ed.)"
 next_slug: defending-the-family
 next_title: "Defending the Family"
+related: [{"slug": "thirsting-for-justice", "title": "Thirsting for Justice"}, {"slug": "contrition", "title": "Contrition"}, {"slug": "zeal-for-holiness-through-marriage", "title": "Zeal for Holiness Through Marriage"}, {"slug": "the-love-of-god", "title": "The Love of God"}, {"slug": "the-sanctification-of-calumnies", "title": "The Sanctification of Calumnies"}]
 ---
 
 By Fr. Conor Donnelly

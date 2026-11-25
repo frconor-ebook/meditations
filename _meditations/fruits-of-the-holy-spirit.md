@@ -8,7 +8,7 @@ prev_slug: from-tabor-to-calvary
 prev_title: "From Tabor to Calvary"
 next_slug: gamblers-on-calvary
 next_title: "Gamblers On Calvary"
-related: [{"slug": "by-their-fruits-you-will-know-them", "title": "By Their Fruits, You Will Know Them"}, {"slug": "egypt-and-the-holy-family", "title": "Egypt and the Holy Family"}, {"slug": "holy-communion-jesus-is-mine", "title": "Holy Communion: Jesus Is Mine"}]
+related: [{"slug": "seed-and-grace", "title": "Seed and Grace"}, {"slug": "the-beatitudes", "title": "The Beatitudes"}, {"slug": "thirsting-for-justice", "title": "Thirsting for Justice"}, {"slug": "piety", "title": "Piety"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}]
 ---
 
 By Fr. Conor Donnelly

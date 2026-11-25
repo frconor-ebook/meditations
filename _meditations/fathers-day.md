@@ -8,7 +8,7 @@ prev_slug: faithfulness
 prev_title: "Faithfulness"
 next_slug: fidelity-in-marriage
 next_title: "Fidelity in Marriage"
-related: [{"slug": "on-our-way-to-the-house-of-our-father", "title": "On Our Way to The House of Our Father"}, {"slug": "our-father-god", "title": "Our Father God"}, {"slug": "the-father-in-the-work", "title": "The Father in the Work"}]
+related: [{"slug": "divine-filiation", "title": "Divine Filiation"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}, {"slug": "st-josemaria-escriva-feast-june-26th", "title": "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"}, {"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}, {"slug": "humility", "title": "Humility"}]
 ---
 
 By Fr. Conor Donnelly

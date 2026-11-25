@@ -8,7 +8,7 @@ prev_slug: seeing-christ-in-illness
 prev_title: "Seeing Christ in Illness"
 next_slug: self-love-the-enemy
 next_title: "Self-Love: The Enemy"
-related: [{"slug": "self-love-the-enemy", "title": "Self-Love: The Enemy"}, {"slug": "self-emptying-and-st-joseph", "title": "Self-emptying and St. Joseph"}, {"slug": "the-mass-and-personal-self-surrender", "title": "The Mass and Personal Self-Surrender"}]
+related: [{"slug": "love-for-the-cross", "title": "Love for the Cross"}, {"slug": "ash-wednesday", "title": "Ash Wednesday"}, {"slug": "mortification", "title": "Mortification"}, {"slug": "personal-prayer", "title": "Personal Prayer"}, {"slug": "obedience", "title": "Obedience"}]
 ---
 
 By Fr. Conor Donnelly

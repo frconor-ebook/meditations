@@ -7,7 +7,7 @@ prev_slug: the-incarnation-and-the-eucharist
 prev_title: "The Incarnation and the Eucharist"
 next_slug: the-infinity-of-littleness
 next_title: "The Infinity of Littleness"
-related: [{"slug": "conjugal-love", "title": "Conjugal Love"}, {"slug": "god-has-captured-me-with-his-love", "title": "God Has Captured Me With His Love"}, {"slug": "love-for-priests", "title": "Love For Priests"}]
+related: [{"slug": "the-love-of-god", "title": "The Love of God"}, {"slug": "your-one-and-only-father", "title": "Your One and Only Father"}, {"slug": "the-lost-sheep", "title": "The Lost Sheep"}, {"slug": "love-for-priests", "title": "Love For Priests"}, {"slug": "my-words-will-not-pass-away", "title": "My Words Will Not Pass Away"}]
 ---
 
 By Fr. Conor Donnelly

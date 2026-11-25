@@ -8,7 +8,7 @@ prev_slug: our-lady-of-peace
 prev_title: "Our Lady of Peace"
 next_slug: our-lady-of-ransom
 next_title: "Our Lady of Ransom"
-related: [{"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
+related: [{"slug": "the-syrophoenician-woman", "title": "The Syrophoenician Woman"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-ladys-fidelity", "title": "Our Lady\u2019s Fidelity"}, {"slug": "simeon-and-anna", "title": "Simeon and Anna"}, {"slug": "the-conversion-of-st-paul", "title": "The Conversion of St. Paul"}]
 ---
 
 By Fr. Conor Donnelly

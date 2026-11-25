@@ -8,7 +8,7 @@ prev_slug: healing-christs-wounds
 prev_title: "Healing Christ\u2019s Wounds"
 next_slug: hearts-on-fire
 next_title: "Hearts on Fire"
-related: [{"slug": "defending-the-family", "title": "Defending the Family"}, {"slug": "egypt-and-the-holy-family", "title": "Egypt and the Holy Family"}, {"slug": "st-joseph-the-family-man", "title": "St. Joseph, The Family Man"}]
+related: [{"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "the-feast-of-the-holy-family", "title": "The Feast of the Holy Family"}, {"slug": "zeal-for-holiness-through-marriage", "title": "Zeal for Holiness Through Marriage"}, {"slug": "st-monica", "title": "St. Monica"}, {"slug": "on-apostolate", "title": "On Apostolate"}]
 ---
 
 By Fr. Conor Donnelly

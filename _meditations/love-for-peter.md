@@ -8,7 +8,7 @@ prev_slug: love-for-our-vocation
 prev_title: "Love for Our Vocation"
 next_slug: love-for-the-bishop
 next_title: "Love for the Bishop"
-related: [{"slug": "love-for-priests", "title": "Love For Priests"}, {"slug": "love-for-the-church-st-pius-x", "title": "Love for the Church (St. Pius X)"}, {"slug": "peter-and-prayer", "title": "Peter and Prayer"}]
+related: [{"slug": "the-anniversary-of-pope-franciss-election", "title": "The Anniversary of Pope Francis\u2019s Election"}, {"slug": "st-peter-and-st-paul", "title": "St. Peter and St. Paul"}, {"slug": "god-has-captured-me-with-his-love", "title": "God Has Captured Me With His Love"}, {"slug": "st-john-paul-ii", "title": "St. John Paul II"}, {"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}]
 ---
 
 By Fr. Conor Donnelly

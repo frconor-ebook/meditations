@@ -8,7 +8,7 @@ prev_slug: the-seven-sorrows-of-our-lady
 prev_title: "The Seven Sorrows of Our Lady"
 next_slug: the-shepherds-and-peace
 next_title: "The Shepherds and Peace"
-related: [{"slug": "the-fifth-sunday-of-st-joseph-2026", "title": "The Fifth Sunday of St. Joseph (2026)"}, {"slug": "the-first-sunday-of-st-joseph-2026", "title": "The First Sunday of St. Joseph (2026)"}, {"slug": "the-fourth-sunday-of-st-joseph-2026", "title": "The Fourth Sunday of St. Joseph (2026)"}]
+related: [{"slug": "the-sixth-sunday-of-st-joseph-2026", "title": "The Sixth Sunday of St. Joseph (2026)"}, {"slug": "the-first-sunday-of-st-joseph-2026", "title": "The First Sunday of St. Joseph (2026)"}, {"slug": "the-third-sunday-of-st-joseph-2026", "title": "The Third Sunday of St. Joseph (2026)"}, {"slug": "the-solemnity-of-st-joseph-2026", "title": "The Solemnity of St. Joseph (2026)"}, {"slug": "the-second-sunday-of-st-joseph-2026", "title": "The Second Sunday of St. Joseph (2026)"}]
 ---
 
 

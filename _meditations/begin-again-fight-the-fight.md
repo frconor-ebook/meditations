@@ -7,7 +7,7 @@ prev_slug: be-you-perfect
 prev_title: "Be You Perfect"
 next_slug: beginning-again
 next_title: "Beginning Again"
-related: [{"slug": "beginning-again", "title": "Beginning Again"}]
+related: [{"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}, {"slug": "the-gift-of-fortitude", "title": "The Gift of Fortitude"}, {"slug": "st-joseph-the-family-man", "title": "St. Joseph, The Family Man"}, {"slug": "on-grace-supernatural-life-and-confession", "title": "On Grace, Supernatural Life, and Confession"}]
 ---
 
 

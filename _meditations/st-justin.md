@@ -8,7 +8,7 @@ prev_slug: st-josephs-holiness-in-ordinary-life
 prev_title: "St. Joseph\u2019s Holiness in Ordinary Life"
 next_slug: st-luke
 next_title: "St. Luke"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "the-first-martyrs-of-the-church-of-rome", "title": "The First Martyrs of the Church of Rome"}, {"slug": "overcoming-human-respect", "title": "Overcoming Human Respect"}, {"slug": "st-barnabas-2026", "title": "St. Barnabas (2026)"}, {"slug": "st-benedict", "title": "St. Benedict"}, {"slug": "payment-of-the-temple-tax", "title": "Payment of the Temple Tax"}]
 ---
 
 

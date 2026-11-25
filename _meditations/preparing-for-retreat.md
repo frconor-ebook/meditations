@@ -8,7 +8,7 @@ prev_slug: prayer-of-petition
 prev_title: "Prayer of Petition"
 next_slug: preparing-for-the-jubilee-year-2025
 next_title: "Preparing for the Jubilee Year 2025"
-related: [{"slug": "preparing-for-the-jubilee-year-2025", "title": "Preparing for the Jubilee Year 2025"}, {"slug": "preparing-to-receive-jesus", "title": "Preparing to Receive Jesus"}, {"slug": "abandonment", "title": "Abandonment"}]
+related: [{"slug": "increase-my-faith", "title": "Increase My Faith"}, {"slug": "the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature", "title": "The Anniversary of the Ordination of the First Three Priests of the Prelature"}, {"slug": "the-faith-of-abraham", "title": "The Faith of Abraham"}, {"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}, {"slug": "the-beatitudes", "title": "The Beatitudes"}]
 ---
 
 By Fr. Conor Donnelly

@@ -7,7 +7,7 @@ prev_slug: rejection
 prev_title: "Rejection"
 next_slug: rich-before-god
 next_title: "Rich Before God"
-related: [{"slug": "the-decree-of-caesar-augustus-and-the-journey-to-bethlehem", "title": "The Decree of Caesar Augustus and The Journey to Bethlehem"}]
+related: [{"slug": "payment-of-the-temple-tax", "title": "Payment of the Temple Tax"}, {"slug": "thirsting-for-justice", "title": "Thirsting for Justice"}, {"slug": "piety", "title": "Piety"}, {"slug": "st-francis-of-assisi", "title": "St. Francis of Assisi"}, {"slug": "the-parable-of-the-talents", "title": "The Parable of the Talents"}]
 ---
 
 By Fr. Conor Donnelly

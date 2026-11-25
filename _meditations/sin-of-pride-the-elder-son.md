@@ -7,6 +7,7 @@ prev_slug: simplicity-after-edward-leen
 prev_title: "Simplicity (after Edward Leen)"
 next_slug: sincerity-love-for-truth
 next_title: "Sincerity, Love for Truth"
+related: [{"slug": "holy-purity", "title": "Holy Purity"}, {"slug": "temptation", "title": "Temptation"}, {"slug": "humility-relying-on-god", "title": "Humility: Relying on God"}, {"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}, {"slug": "our-lady", "title": "Our Lady"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: forming-saints-in-the-domestic-church-the-cross
 prev_title: "Forming Saints in the Domestic Church (The Cross)"
 next_slug: fraternity-in-the-work
 next_title: "Fraternity in the Work"
-related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
+related: [{"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}, {"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}, {"slug": "the-father-in-the-work", "title": "The Father in the Work"}, {"slug": "humility", "title": "Humility"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
 ---
 
 By Fr. Conor Donnelly

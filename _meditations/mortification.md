@@ -8,7 +8,7 @@ prev_slug: midterm-of-the-year-of-st-joseph
 prev_title: "Midterm of the Year of St. Joseph"
 next_slug: mother-of-god-and-our-mother
 next_title: "Mother of God and Our Mother"
-related: [{"slug": "the-imagination-and-interior-mortification", "title": "The Imagination and Interior Mortification"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}]
+related: [{"slug": "self-denial", "title": "Self-Denial"}, {"slug": "temperance", "title": "Temperance"}, {"slug": "cross-rejection", "title": "Cross Rejection"}, {"slug": "generosity", "title": "Generosity"}, {"slug": "on-temperance", "title": "On Temperance"}]
 ---
 
 By Fr. Conor Donnelly

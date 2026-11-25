@@ -7,7 +7,7 @@ prev_slug: you-are-nothing
 prev_title: "You Are Nothing"
 next_slug: zacchaeus
 next_title: "Zacchaeus"
-related: [{"slug": "do-not-let-your-hearts-be-troubled", "title": "Do Not Let Your Hearts Be Troubled"}, {"slug": "even-the-hairs-of-your-head", "title": "Even The Hairs of Your Head"}, {"slug": "fathers-day", "title": "Father\u2019s Day"}]
+related: [{"slug": "do-not-be-afraid", "title": "Do Not Be Afraid"}, {"slug": "our-father-god", "title": "Our Father God"}, {"slug": "children-of-god", "title": "Children of God"}, {"slug": "learning-to-ask", "title": "Learning to Ask"}, {"slug": "the-infinite-love-of-god", "title": "The Infinite Love of God"}]
 ---
 
 By Fr. Conor Donnelly

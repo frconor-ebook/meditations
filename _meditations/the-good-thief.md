@@ -8,7 +8,7 @@ prev_slug: the-good-shepherd-2nd-ed
 prev_title: "The Good Shepherd (2nd Ed.)"
 next_slug: the-good-use-of-time
 next_title: "The Good Use of Time"
-related: [{"slug": "good-friday-of-the-lords-passion", "title": "Good Friday of the Lord\u2019s Passion"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}]
+related: [{"slug": "good-friday-of-the-lords-passion", "title": "Good Friday of the Lord\u2019s Passion"}, {"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}, {"slug": "christ-the-king", "title": "Christ the King"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}, {"slug": "the-crucifixion", "title": "The Crucifixion"}]
 ---
 
 By Fr. Conor Donnelly

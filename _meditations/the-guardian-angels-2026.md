@@ -8,7 +8,7 @@ prev_slug: the-guardian-angels
 prev_title: "The Guardian Angels"
 next_slug: the-harvest-is-plentiful
 next_title: "The Harvest is Plentiful"
-related: [{"slug": "the-guardian-angels", "title": "The Guardian Angels"}, {"slug": "our-lady-of-the-angels", "title": "Our Lady of the Angels"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}]
+related: [{"slug": "the-guardian-angels", "title": "The Guardian Angels"}, {"slug": "the-feast-of-the-archangels-2026", "title": "The Feast of the Archangels (2026)"}, {"slug": "our-lady-of-the-angels", "title": "Our Lady of the Angels"}, {"slug": "st-luke-2026", "title": "St. Luke (2026)"}, {"slug": "the-baptism-of-our-lord-2026", "title": "The Baptism of Our Lord (2026)"}]
 ---
 
 By Fr. Conor Donnelly

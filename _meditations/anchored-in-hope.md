@@ -8,7 +8,7 @@ prev_slug: all-the-glory-to-god
 prev_title: "All the Glory to God"
 next_slug: apart-from-me-you-can-do-nothing
 next_title: "Apart From Me You Can Do Nothing"
-related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "on-hope", "title": "On Hope"}, {"slug": "the-eucharistfaith-and-hope", "title": "The Eucharist\u2013Faith and Hope"}]
+related: [{"slug": "preparing-for-the-jubilee-year-2025", "title": "Preparing for the Jubilee Year 2025"}, {"slug": "the-passion-of-st-john-the-baptist", "title": "The Passion of St. John the Baptist"}, {"slug": "the-sanctification-of-later-years", "title": "The Sanctification of Later Years"}, {"slug": "enlarging-the-heart", "title": "Enlarging the Heart"}, {"slug": "gratitude-for-pope-benedict-xvi", "title": "Gratitude for Pope Benedict XVI"}]
 ---
 
 By Fr. Conor Donnelly

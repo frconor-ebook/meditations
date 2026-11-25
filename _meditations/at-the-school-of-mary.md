@@ -8,7 +8,7 @@ prev_slug: at-st-josephs-side
 prev_title: "At St. Joseph\u2019s Side"
 next_slug: aunt-carmen
 next_title: "Aunt Carmen"
-related: [{"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}, {"slug": "knowing-god-through-mary", "title": "Knowing God Through Mary"}, {"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}]
+related: [{"slug": "our-lady-woman-of-the-eucharist", "title": "Our Lady, Woman of the Eucharist"}, {"slug": "taking-the-bread", "title": "Taking the Bread"}, {"slug": "rediscover-the-gift", "title": "Rediscover the Gift"}, {"slug": "the-bread-our-heavenly-mother-gives-us", "title": "The Bread Our Heavenly Mother Gives Us"}, {"slug": "the-eucharistfaith-and-hope", "title": "The Eucharist\u2013Faith and Hope"}]
 ---
 
 

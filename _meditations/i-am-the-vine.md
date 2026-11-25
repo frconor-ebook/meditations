@@ -7,6 +7,7 @@ prev_slug: humility-relying-on-god
 prev_title: "Humility: Relying on God"
 next_slug: i-came-to-cast-fire-on-earth
 next_title: "I Came To Cast Fire On Earth"
+related: [{"slug": "growth-in-prayer", "title": "Growth in Prayer"}, {"slug": "transformation-through-prayer", "title": "Transformation Through Prayer"}, {"slug": "the-battles-of-the-interior-life", "title": "The Battles of the Interior Life"}, {"slug": "vocal-prayer", "title": "Vocal Prayer"}, {"slug": "this-body-of-death", "title": "This Body of Death"}]
 ---
 
 

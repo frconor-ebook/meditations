@@ -8,7 +8,7 @@ prev_slug: the-immaculate-conception-dec-8
 prev_title: "The Immaculate Conception (Dec. 8)"
 next_slug: the-immaculate-heart-of-mary-2026
 next_title: "The Immaculate Heart of Mary (2026)"
-related: [{"slug": "the-immaculate-heart-of-mary-2026", "title": "The Immaculate Heart of Mary (2026)"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}, {"slug": "at-the-school-of-mary", "title": "At the School of Mary"}]
+related: [{"slug": "the-immaculate-heart-of-mary-2026", "title": "The Immaculate Heart of Mary (2026)"}, {"slug": "the-sacred-heart-of-jesus", "title": "The Sacred Heart of Jesus"}, {"slug": "the-sacred-heart-of-jesus-2026", "title": "The Sacred Heart of Jesus (2026)"}, {"slug": "our-lady-of-sorrows", "title": "Our Lady of Sorrows"}, {"slug": "the-priestly-society-of-the-holy-cross", "title": "The Priestly Society of the Holy Cross"}]
 ---
 
 By Fr. Conor Donnelly

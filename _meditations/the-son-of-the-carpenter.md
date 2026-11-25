@@ -8,7 +8,7 @@ prev_slug: the-solemnity-of-the-assumption
 prev_title: "The Solemnity of the Assumption"
 next_slug: the-speck-in-my-brothers-eye
 next_title: "The Speck In My Brother\u2019s Eye"
-related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "little-duties", "title": "Little Duties"}, {"slug": "little-things", "title": "Little Things"}]
+related: [{"slug": "egypt-and-the-holy-family", "title": "Egypt and the Holy Family"}, {"slug": "professional-prestige", "title": "Professional Prestige"}, {"slug": "the-dignity-of-work", "title": "The Dignity of Work"}, {"slug": "the-fourth-sunday-of-st-joseph-2026", "title": "The Fourth Sunday of St. Joseph (2026)"}, {"slug": "st-joseph-the-worker", "title": "St. Joseph the Worker"}]
 ---
 
 By Fr. Conor Donnelly

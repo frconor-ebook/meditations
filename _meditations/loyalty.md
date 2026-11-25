@@ -8,7 +8,7 @@ prev_slug: loving-the-liturgy
 prev_title: "Loving the Liturgy"
 next_slug: lukewarmness
 next_title: "Lukewarmness"
-related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
+related: [{"slug": "perseverance", "title": "Perseverance"}, {"slug": "education-in-social-virtues", "title": "Education In Social Virtues"}, {"slug": "fidelity-in-marriage", "title": "Fidelity in Marriage"}, {"slug": "generosity-in-correspondence", "title": "Generosity in Correspondence"}, {"slug": "launch-out-into-the-deep", "title": "Launch Out Into The Deep"}]
 ---
 
 By Fr. Conor Donnelly

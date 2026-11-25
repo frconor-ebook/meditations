@@ -8,7 +8,7 @@ prev_slug: the-woman-caught-in-adultery
 prev_title: "The Woman Caught in Adultery"
 next_slug: thirsting-for-justice
 next_title: "Thirsting for Justice"
-related: [{"slug": "the-bent-over-woman", "title": "The Bent Over Woman"}, {"slug": "the-syrophoenician-woman", "title": "The Syrophoenician Woman"}, {"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}]
+related: [{"slug": "increase-my-faith", "title": "Increase My Faith"}, {"slug": "the-centurion-and-his-servant", "title": "The Centurion and His Servant"}, {"slug": "st-thomas", "title": "St. Thomas"}, {"slug": "launch-out-into-the-deep", "title": "Launch Out Into The Deep"}, {"slug": "apart-from-me-you-can-do-nothing", "title": "Apart From Me You Can Do Nothing"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: holy-saturday
 prev_title: "Holy Saturday"
 next_slug: house-on-the-rock
 next_title: "House on the Rock"
-related: [{"slug": "holy-saturday", "title": "Holy Saturday"}, {"slug": "holy-communion-jesus-is-mine", "title": "Holy Communion: Jesus Is Mine"}, {"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing, Loving, and Living the Eucharist"}]
+related: [{"slug": "the-bread-of-life", "title": "The Bread of Life"}, {"slug": "our-lady-woman-of-the-eucharist", "title": "Our Lady, Woman of the Eucharist"}, {"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}, {"slug": "the-mass-and-personal-self-surrender", "title": "The Mass and Personal Self-Surrender"}, {"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}]
 ---
 
 By Fr. Conor Donnelly

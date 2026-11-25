@@ -7,7 +7,7 @@ prev_slug: abandonment
 prev_title: "Abandonment"
 next_slug: against-all-hope
 next_title: "Against All Hope"
-related: [{"slug": "by-their-fruits-you-will-know-them", "title": "By Their Fruits, You Will Know Them"}, {"slug": "much-will-be-demanded-responsibility", "title": "Much Will Be Demanded: Responsibility"}, {"slug": "my-words-will-not-pass-away", "title": "My Words Will Not Pass Away"}]
+related: [{"slug": "the-washing-of-the-feet", "title": "The Washing of the Feet"}, {"slug": "apart-from-me-you-can-do-nothing", "title": "Apart From Me You Can Do Nothing"}, {"slug": "judas", "title": "Judas"}, {"slug": "understanding", "title": "Understanding"}, {"slug": "against-all-hope", "title": "Against All Hope"}]
 ---
 
 

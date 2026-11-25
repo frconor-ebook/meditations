@@ -8,7 +8,7 @@ prev_slug: st-thomas-aquinas
 prev_title: "St. Thomas Aquinas"
 next_slug: st-thomas-more-and-st-john-fisher-2026
 next_title: "St. Thomas More and St. John Fisher (2026)"
-related: [{"slug": "st-thomas-more-and-st-john-fisher-2026", "title": "St. Thomas More and St. John Fisher (2026)"}, {"slug": "st-thomas", "title": "St. Thomas"}, {"slug": "st-thomas-aquinas", "title": "St. Thomas Aquinas"}]
+related: [{"slug": "conscience-the-light-of-the-soul", "title": "Conscience, The Light of the Soul"}, {"slug": "st-josemaria-escriva-feast-june-26th", "title": "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"}, {"slug": "on-work", "title": "On Work"}, {"slug": "helping-to-do-good", "title": "Helping To Do Good"}, {"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}]
 ---
 
 By Fr. Conor Donnelly

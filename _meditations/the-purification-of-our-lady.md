@@ -8,7 +8,7 @@ prev_slug: the-prophecy-of-simeon
 prev_title: "The Prophecy of Simeon"
 next_slug: the-raising-of-lazarus
 next_title: "The Raising of Lazarus"
-related: [{"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
+related: [{"slug": "the-prophecy-of-simeon", "title": "The Prophecy of Simeon"}, {"slug": "naturalness-and-simplicity", "title": "Naturalness and Simplicity"}, {"slug": "our-lady-comforter-of-the-afflicted", "title": "Our Lady, Comforter of the Afflicted"}, {"slug": "the-lost-sheep", "title": "The Lost Sheep"}, {"slug": "guarding-our-sight", "title": "Guarding Our Sight"}]
 ---
 
 

@@ -7,6 +7,7 @@ prev_slug: the-son-of-the-carpenter
 prev_title: "The Son of the Carpenter"
 next_slug: the-storm-on-the-lake
 next_title: "The Storm on the Lake"
+related: [{"slug": "judgments-charity", "title": "Judgments (Charity)"}, {"slug": "charity", "title": "Charity"}, {"slug": "understanding", "title": "Understanding"}, {"slug": "the-unmerciful-servant", "title": "The Unmerciful Servant"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
 ---
 
 By Fr. Conor Donnelly

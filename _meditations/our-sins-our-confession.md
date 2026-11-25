@@ -8,7 +8,7 @@ prev_slug: our-mother-in-may
 prev_title: "Our Mother in May"
 next_slug: overcoming-human-respect
 next_title: "Overcoming Human Respect"
-related: [{"slug": "on-grace-supernatural-life-and-confession", "title": "On Grace, Supernatural Life, and Confession"}, {"slug": "the-apostolate-of-confession", "title": "The Apostolate of Confession"}, {"slug": "the-paralytic-at-capharnaum-confession", "title": "The Paralytic at Capharnaum (Confession)"}]
+related: [{"slug": "the-apostolate-of-confession", "title": "The Apostolate of Confession"}, {"slug": "examination-of-conscience", "title": "Examination of Conscience"}, {"slug": "preparing-to-receive-jesus", "title": "Preparing to Receive Jesus"}, {"slug": "the-woman-caught-in-adultery", "title": "The Woman Caught in Adultery"}, {"slug": "a-merciful-messiah", "title": "A Merciful Messiah"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: forming-saints-in-the-domestic-church-easter
 prev_title: "Forming Saints in the Domestic Church (Easter)"
 next_slug: fraternal-correction
 next_title: "Fraternal Correction"
-related: [{"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}, {"slug": "the-priestly-society-of-the-holy-cross", "title": "The Priestly Society of the Holy Cross"}]
+related: [{"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}, {"slug": "good-friday-of-the-lords-passion", "title": "Good Friday of the Lord\u2019s Passion"}, {"slug": "st-joseph-the-family-man", "title": "St. Joseph, The Family Man"}, {"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}]
 ---
 
 By Fr. Conor Donnelly

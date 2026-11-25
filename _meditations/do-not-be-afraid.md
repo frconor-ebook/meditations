@@ -7,7 +7,7 @@ prev_slug: divine-mercy-sunday
 prev_title: "Divine Mercy Sunday"
 next_slug: do-not-let-your-hearts-be-troubled
 next_title: "Do Not Let Your Hearts Be Troubled"
-related: [{"slug": "crises-be-not-afraid", "title": "Crises: Be Not Afraid"}]
+related: [{"slug": "your-one-and-only-father", "title": "Your One and Only Father"}, {"slug": "spiritual-childhood", "title": "Spiritual Childhood"}, {"slug": "crises-be-not-afraid", "title": "Crises: Be Not Afraid"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}, {"slug": "prince-of-peace", "title": "Prince of Peace"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: the-woman-with-the-issue-of-blood
 prev_title: "The Woman with the Issue of Blood"
 next_slug: this-body-of-death
 next_title: "This Body of Death"
-related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
+related: [{"slug": "render-unto-caesar", "title": "Render Unto Caesar"}, {"slug": "the-beatitudes", "title": "The Beatitudes"}, {"slug": "making-a-more-just-world", "title": "Making A More Just World"}, {"slug": "piety", "title": "Piety"}, {"slug": "fire-on-earth", "title": "Fire On Earth"}]
 ---
 
 By Fr. Conor Donnelly

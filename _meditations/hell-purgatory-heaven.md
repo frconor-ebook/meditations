@@ -8,7 +8,7 @@ prev_slug: heaven-and-vigilance
 prev_title: "Heaven and Vigilance"
 next_slug: helping-to-do-good
 next_title: "Helping To Do Good"
-related: [{"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}, {"slug": "looking-up-to-heaven", "title": "Looking Up to Heaven"}, {"slug": "marriage-in-heaven", "title": "Marriage in Heaven"}]
+related: [{"slug": "eternal-happiness", "title": "Eternal Happiness"}, {"slug": "clean-of-heart", "title": "Clean of Heart"}, {"slug": "temperance", "title": "Temperance"}, {"slug": "friendship-and-confidence", "title": "Friendship and Confidence"}, {"slug": "on-temperance", "title": "On Temperance"}]
 ---
 
 By Fr. Conor Donnelly

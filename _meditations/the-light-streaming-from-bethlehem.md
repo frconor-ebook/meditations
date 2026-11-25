@@ -8,7 +8,7 @@ prev_slug: the-last-things
 prev_title: "The Last Things"
 next_slug: the-light-of-the-world
 next_title: "The Light of the World"
-related: [{"slug": "obedience-in-bethlehem", "title": "Obedience in Bethlehem"}, {"slug": "the-decree-of-caesar-augustus-and-the-journey-to-bethlehem", "title": "The Decree of Caesar Augustus and The Journey to Bethlehem"}, {"slug": "the-joy-of-the-journey-to-bethlehem", "title": "The Joy of the Journey to Bethlehem"}]
+related: [{"slug": "christmas", "title": "Christmas"}, {"slug": "the-holy-innocents", "title": "The Holy Innocents"}, {"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}, {"slug": "the-mystery-of-the-incarnation", "title": "The Mystery of the Incarnation"}, {"slug": "christ-the-light", "title": "Christ the Light"}]
 ---
 
 By Fr. Conor Donnelly

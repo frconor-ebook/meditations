@@ -8,7 +8,7 @@ prev_slug: st-dominic
 prev_title: "St. Dominic"
 next_slug: st-francis-de-sales
 next_title: "St. Francis de Sales"
-related: [{"slug": "st-francis-de-sales", "title": "St. Francis de Sales"}, {"slug": "st-francis-of-assisi", "title": "St. Francis of Assisi"}, {"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}]
+related: [{"slug": "st-andrew", "title": "St. Andrew"}, {"slug": "st-john", "title": "St. John"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}, {"slug": "christmas", "title": "Christmas"}, {"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}]
 ---
 
 By Fr. Conor Donnelly

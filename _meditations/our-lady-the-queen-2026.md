@@ -8,7 +8,7 @@ prev_slug: our-lady-the-queen
 prev_title: "Our Lady the Queen"
 next_slug: our-lady-comforter-of-the-afflicted
 next_title: "Our Lady, Comforter of the Afflicted"
-related: [{"slug": "our-lady-the-queen", "title": "Our Lady the Queen"}, {"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}]
+related: [{"slug": "our-lady-the-queen", "title": "Our Lady the Queen"}, {"slug": "the-assumption-of-our-lady", "title": "The Assumption of Our Lady"}, {"slug": "the-solemnity-of-the-assumption", "title": "The Solemnity of the Assumption"}, {"slug": "the-visitation-of-our-lady-2026", "title": "The Visitation of Our Lady (2026)"}, {"slug": "our-lady-of-sorrows-2026", "title": "Our Lady of Sorrows (2026)"}]
 ---
 
 

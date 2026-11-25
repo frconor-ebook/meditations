@@ -7,7 +7,7 @@ prev_slug: all-souls
 prev_title: "All Souls"
 next_slug: all-the-glory-to-god
 next_title: "All the Glory to God"
-related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}, {"slug": "good-friday-of-the-lords-passion", "title": "Good Friday of the Lord\u2019s Passion"}]
+related: [{"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}, {"slug": "the-healing-of-the-ten-lepers", "title": "The Healing of the Ten Lepers"}, {"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}, {"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}, {"slug": "the-infinite-love-of-god", "title": "The Infinite Love of God"}]
 ---
 
 

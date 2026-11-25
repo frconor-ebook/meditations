@@ -8,7 +8,7 @@ prev_slug: easter-faith
 prev_title: "Easter Faith"
 next_slug: easter-sunday
 next_title: "Easter Sunday"
-related: [{"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "easter-sunday", "title": "Easter Sunday"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}]
+related: [{"slug": "the-joy-of-the-journey-to-bethlehem", "title": "The Joy of the Journey to Bethlehem"}, {"slug": "cheerfulness", "title": "Cheerfulness"}, {"slug": "easter-sunday", "title": "Easter Sunday"}, {"slug": "the-resurrection", "title": "The Resurrection"}, {"slug": "the-will-of-god", "title": "The Will of God"}]
 ---
 
 By Fr. Conor Donnelly

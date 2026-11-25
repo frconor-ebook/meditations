@@ -8,7 +8,7 @@ prev_slug: the-visitation-of-our-lady
 prev_title: "The Visitation of Our Lady"
 next_slug: the-vocation-of-our-lady
 next_title: "The Vocation of Our Lady"
-related: [{"slug": "the-visitation-of-our-lady", "title": "The Visitation of Our Lady"}, {"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}]
+related: [{"slug": "the-immaculate-heart-of-mary-2026", "title": "The Immaculate Heart of Mary (2026)"}, {"slug": "the-visitation-of-our-lady", "title": "The Visitation of Our Lady"}, {"slug": "the-sacred-heart-of-jesus-2026", "title": "The Sacred Heart of Jesus (2026)"}, {"slug": "knowing-god-through-mary", "title": "Knowing God Through Mary"}, {"slug": "mother-of-god-and-our-mother", "title": "Mother of God and Our Mother"}]
 ---
 
 

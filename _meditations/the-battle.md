@@ -7,6 +7,7 @@ prev_slug: the-baptism-of-the-lord-2027-edition
 prev_title: "The Baptism of the Lord (2027 Edition)"
 next_slug: the-battles-of-the-interior-life
 next_title: "The Battles of the Interior Life"
+related: [{"slug": "this-body-of-death", "title": "This Body of Death"}, {"slug": "the-clean-of-heart-after-edward-leen", "title": "The Clean of Heart (after Edward Leen)"}, {"slug": "behold-i-make-all-things-new", "title": "Behold I Make All Things New"}, {"slug": "st-teresa-of-avila-after-edward-leen", "title": "St. Teresa of \u00c1vila (after Edward Leen)"}, {"slug": "transformation-through-prayer", "title": "Transformation Through Prayer"}]
 ---
 
 

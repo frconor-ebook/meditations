@@ -8,7 +8,7 @@ prev_slug: the-solemnity-of-st-joseph-2026
 prev_title: "The Solemnity of St. Joseph (2026)"
 next_slug: the-solemnity-of-the-assumption
 next_title: "The Solemnity of the Assumption"
-related: [{"slug": "the-annunciation", "title": "The Annunciation"}, {"slug": "the-annunciation-advent", "title": "The Annunciation (Advent)"}, {"slug": "the-solemnity-of-the-assumption", "title": "The Solemnity of the Assumption"}]
+related: [{"slug": "the-vocation-of-our-lady", "title": "The Vocation of Our Lady"}, {"slug": "the-annunciation", "title": "The Annunciation"}, {"slug": "the-first-sunday-of-st-joseph-2026", "title": "The First Sunday of St. Joseph (2026)"}, {"slug": "the-second-sunday-of-st-joseph-2026", "title": "The Second Sunday of St. Joseph (2026)"}, {"slug": "the-visitation-of-our-lady-2026", "title": "The Visitation of Our Lady (2026)"}]
 ---
 
 

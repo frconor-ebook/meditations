@@ -8,7 +8,7 @@ prev_slug: st-john-mary-vianney-2026
 prev_title: "St. John Mary Vianney (2026)"
 next_slug: st-john-the-baptist
 next_title: "St. John the Baptist"
-related: [{"slug": "conversion-of-st-paul-2027-edition", "title": "Conversion of St. Paul (2027 Edition)"}, {"slug": "st-john", "title": "St. John"}, {"slug": "st-john-2025-ed", "title": "St. John (2025 Ed.)"}]
+related: [{"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}, {"slug": "mother-of-god-and-our-mother", "title": "Mother of God and Our Mother"}, {"slug": "love-for-peter", "title": "Love for Peter"}, {"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "st-john-henry-newman-on-the-laity", "title": "St. John Henry Newman on The Laity"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: doctrinal-formation
 prev_title: "Doctrinal Formation"
 next_slug: easter-joy
 next_title: "Easter Joy"
-related: [{"slug": "easter-joy", "title": "Easter Joy"}, {"slug": "easter-sunday", "title": "Easter Sunday"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}]
+related: [{"slug": "divine-filiation", "title": "Divine Filiation"}, {"slug": "the-grass-of-the-field", "title": "The Grass of the Field"}, {"slug": "cross-rejection", "title": "Cross Rejection"}, {"slug": "humility", "title": "Humility"}, {"slug": "our-mother-in-may", "title": "Our Mother in May"}]
 ---
 
 By Fr. Conor Donnelly

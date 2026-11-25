@@ -8,7 +8,7 @@ prev_slug: the-paralytic-at-capharnaum-confession
 prev_title: "The Paralytic at Capharnaum (Confession)"
 next_slug: the-pharisee-and-the-publican
 next_title: "The Pharisee and the Publican"
-related: [{"slug": "st-john-the-baptist", "title": "St. John the Baptist"}, {"slug": "the-birth-of-st-john-the-baptist", "title": "The Birth of St. John the Baptist"}, {"slug": "the-martyrdom-of-st-john-the-baptist", "title": "The Martyrdom of St. John the Baptist"}]
+related: [{"slug": "mortification", "title": "Mortification"}, {"slug": "the-baptism-of-jesus", "title": "The Baptism of Jesus"}, {"slug": "enlarging-the-heart", "title": "Enlarging the Heart"}, {"slug": "gratitude-for-pope-benedict-xvi", "title": "Gratitude for Pope Benedict XVI"}, {"slug": "the-father-in-the-work", "title": "The Father in the Work"}]
 ---
 
 By Fr. Conor Donnelly

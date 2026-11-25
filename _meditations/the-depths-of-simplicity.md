@@ -8,7 +8,7 @@ prev_slug: the-dedication-of-the-basilica-of-st-mary-major
 prev_title: "The Dedication of the Basilica of St. Mary Major"
 next_slug: the-devils-cast-out
 next_title: "The Devils Cast Out"
-related: [{"slug": "naturalness-and-simplicity", "title": "Naturalness and Simplicity"}, {"slug": "simplicity-after-edward-leen", "title": "Simplicity (after Edward Leen)"}, {"slug": "against-all-hope", "title": "Against All Hope"}]
+related: [{"slug": "simplicity-after-edward-leen", "title": "Simplicity (after Edward Leen)"}, {"slug": "the-war-with-temptation", "title": "The War With Temptation"}, {"slug": "the-light-of-the-world", "title": "The Light of the World"}, {"slug": "the-way-the-truth-and-the-life", "title": "The Way, the Truth, and the Life"}, {"slug": "the-clean-of-heart-after-edward-leen", "title": "The Clean of Heart (after Edward Leen)"}]
 ---
 
 

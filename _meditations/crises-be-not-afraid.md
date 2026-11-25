@@ -8,7 +8,7 @@ prev_slug: correspondence-to-grace
 prev_title: "Correspondence to Grace"
 next_slug: cross-rejection
 next_title: "Cross Rejection"
-related: [{"slug": "do-not-be-afraid", "title": "Do Not Be Afraid"}, {"slug": "cross-rejection", "title": "Cross Rejection"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}]
+related: [{"slug": "do-not-be-afraid", "title": "Do Not Be Afraid"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}, {"slug": "the-healing-of-the-royal-officials-son", "title": "The Healing of the Royal Official\u2019s Son"}, {"slug": "the-storm-on-the-lake", "title": "The Storm on the Lake"}, {"slug": "walking-on-the-waterfaith", "title": "Walking on the Water\u2013\u2013Faith"}]
 ---
 
 By Fr. Conor Donnelly

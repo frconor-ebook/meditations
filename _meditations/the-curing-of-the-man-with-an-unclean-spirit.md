@@ -8,7 +8,7 @@ prev_slug: the-cure-of-the-possessed-boy
 prev_title: "The Cure of the Possessed Boy"
 next_slug: the-curing-of-the-possessed-man-gerasenes
 next_title: "The Curing of the Possessed Man (Gerasenes)"
-related: [{"slug": "the-curing-of-the-possessed-man-gerasenes", "title": "The Curing of the Possessed Man (Gerasenes)"}, {"slug": "fruits-of-the-holy-spirit", "title": "Fruits of the Holy Spirit"}, {"slug": "spirit-and-life", "title": "Spirit and Life"}]
+related: [{"slug": "reading-of-the-gospels-to-get-to-know-jesus-christ", "title": "Reading of the Gospels to get to know Jesus Christ"}, {"slug": "my-words-will-not-pass-away", "title": "My Words Will Not Pass Away"}, {"slug": "spirit-and-life", "title": "Spirit and Life"}, {"slug": "the-curing-of-the-possessed-man-gerasenes", "title": "The Curing of the Possessed Man (Gerasenes)"}, {"slug": "finding-jesus", "title": "Finding Jesus"}]
 ---
 
 By Fr. Conor Donnelly

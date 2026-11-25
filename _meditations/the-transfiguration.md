@@ -8,7 +8,7 @@ prev_slug: the-third-sunday-of-st-joseph-2026
 prev_title: "The Third Sunday of St. Joseph (2026)"
 next_slug: the-truth-will-make-you-free
 next_title: "The Truth Will Make You Free"
-related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
+related: [{"slug": "from-tabor-to-calvary", "title": "From Tabor to Calvary"}, {"slug": "walking-on-the-waterfaith", "title": "Walking on the Water\u2013\u2013Faith"}, {"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}, {"slug": "love-for-the-cross", "title": "Love for the Cross"}, {"slug": "our-lady-of-the-angels", "title": "Our Lady of the Angels"}]
 ---
 
 By Fr. Conor Donnelly

@@ -7,7 +7,7 @@ prev_slug: preparing-for-the-jubilee-year-2025
 prev_title: "Preparing for the Jubilee Year 2025"
 next_slug: presence-of-god
 next_title: "Presence of God"
-related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "finding-jesus", "title": "Finding Jesus"}, {"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}]
+related: [{"slug": "examination-of-conscience", "title": "Examination of Conscience"}, {"slug": "purity-of-the-heart", "title": "Purity of the Heart"}, {"slug": "st-john-the-baptist", "title": "St. John the Baptist"}, {"slug": "st-nicholas-of-bari", "title": "St. Nicholas of Bari"}, {"slug": "reading-the-signs", "title": "Reading the Signs"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: come-lord-jesus
 prev_title: "Come, Lord Jesus"
 next_slug: conscience-the-light-of-the-soul
 next_title: "Conscience, The Light of the Soul"
-related: [{"slug": "god-has-captured-me-with-his-love", "title": "God Has Captured Me With His Love"}, {"slug": "love-for-priests", "title": "Love For Priests"}, {"slug": "love-for-chastity", "title": "Love for Chastity"}]
+related: [{"slug": "fidelity-in-marriage", "title": "Fidelity in Marriage"}, {"slug": "zeal-for-holiness-through-marriage", "title": "Zeal for Holiness Through Marriage"}, {"slug": "the-truth-will-make-you-free", "title": "The Truth Will Make You Free"}, {"slug": "holy-purity", "title": "Holy Purity"}, {"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: the-exaltation-of-the-holy-cross-2026
 prev_title: "The Exaltation of the Holy Cross (2026)"
 next_slug: the-father-in-the-work
 next_title: "The Father in the Work"
-related: [{"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "growing-in-faith", "title": "Growing in Faith"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}]
+related: [{"slug": "life-of-faith", "title": "Life of Faith"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}, {"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}, {"slug": "preparing-for-retreat", "title": "Preparing for Retreat"}, {"slug": "the-beatitudes", "title": "The Beatitudes"}]
 ---
 
 By Fr. Conor Donnelly

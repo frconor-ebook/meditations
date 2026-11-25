@@ -8,7 +8,7 @@ prev_slug: our-lady-of-mt-carmel-july-16th
 prev_title: "Our Lady of Mt. Carmel (July 16th)"
 next_slug: our-lady-of-pilar
 next_title: "Our Lady of Pilar"
-related: [{"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
+related: [{"slug": "st-severinus-and-unity", "title": "St. Severinus and Unity"}, {"slug": "the-beatitudes", "title": "The Beatitudes"}, {"slug": "the-feast-of-the-holy-family", "title": "The Feast of the Holy Family"}, {"slug": "optimism", "title": "Optimism"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}]
 ---
 
 By Fr. Conor Donnelly

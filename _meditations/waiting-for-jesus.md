@@ -8,7 +8,7 @@ prev_slug: vocal-prayer
 prev_title: "Vocal Prayer"
 next_slug: waiting-for-the-lord
 next_title: "Waiting for The Lord"
-related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "waiting-for-the-lord", "title": "Waiting for The Lord"}, {"slug": "finding-jesus", "title": "Finding Jesus"}]
+related: [{"slug": "christmas", "title": "Christmas"}, {"slug": "the-shepherds-and-peace", "title": "The Shepherds and Peace"}, {"slug": "the-decree-of-caesar-augustus-and-the-journey-to-bethlehem", "title": "The Decree of Caesar Augustus and The Journey to Bethlehem"}, {"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}, {"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}]
 ---
 
 By Fr. Conor Donnelly

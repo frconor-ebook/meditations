@@ -8,7 +8,7 @@ prev_slug: the-martyrdom-of-st-john-the-baptist
 prev_title: "The Martyrdom of St. John the Baptist"
 next_slug: the-mass-and-personal-self-surrender
 next_title: "The Mass and Personal Self-Surrender"
-related: [{"slug": "churches-and-the-mass", "title": "Churches and the Mass"}, {"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}]
+related: [{"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature", "title": "The Anniversary of the Ordination of the First Three Priests of the Prelature"}, {"slug": "the-anniversary-of-the-ordination-of-st-josemaria", "title": "The Anniversary of the Ordination of St. Josemar\u00eda"}, {"slug": "perseverance", "title": "Perseverance"}, {"slug": "fire-on-earth", "title": "Fire On Earth"}]
 ---
 
 By Fr. Conor Donnelly

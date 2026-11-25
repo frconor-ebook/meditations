@@ -8,7 +8,7 @@ prev_slug: our-father-god
 prev_title: "Our Father God"
 next_slug: our-lady-help-of-christians
 next_title: "Our Lady Help of Christians"
-related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
+related: [{"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "the-holy-rosary", "title": "The Holy Rosary"}, {"slug": "mother-of-god-and-our-mother", "title": "Mother of God and Our Mother"}, {"slug": "sin-of-pride-the-elder-son", "title": "Sin of Pride (The Elder Son)"}, {"slug": "our-lady-comforter-of-the-afflicted", "title": "Our Lady, Comforter of the Afflicted"}]
 ---
 
 

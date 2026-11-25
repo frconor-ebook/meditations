@@ -8,7 +8,7 @@ prev_slug: christian-virtues
 prev_title: "Christian Virtues"
 next_slug: christmas-day-2025
 next_title: "Christmas Day, 2025"
-related: [{"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}]
+related: [{"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}, {"slug": "the-shepherds-and-peace", "title": "The Shepherds and Peace"}, {"slug": "the-decree-of-caesar-augustus-and-the-journey-to-bethlehem", "title": "The Decree of Caesar Augustus and The Journey to Bethlehem"}, {"slug": "the-light-streaming-from-bethlehem", "title": "The Light Streaming from Bethlehem"}, {"slug": "the-epiphany", "title": "The Epiphany"}]
 ---
 
 By Fr. Conor Donnelly

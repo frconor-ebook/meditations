@@ -8,7 +8,7 @@ prev_slug: shepherds-and-wise-men
 prev_title: "Shepherds and Wise Men"
 next_slug: simeon-and-anna
 next_title: "Simeon and Anna"
-related: [{"slug": "crises-be-not-afraid", "title": "Crises: Be Not Afraid"}, {"slug": "cross-rejection", "title": "Cross Rejection"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}]
+related: [{"slug": "seeing-christ-in-illness", "title": "Seeing Christ in Illness"}, {"slug": "our-lady-mother-of-mercy", "title": "Our Lady, Mother of Mercy"}, {"slug": "a-merciful-messiah", "title": "A Merciful Messiah"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
 ---
 
 By Fr. Conor Donnelly

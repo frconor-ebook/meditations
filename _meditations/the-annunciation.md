@@ -8,7 +8,7 @@ prev_slug: the-anniversary-of-the-women-of-the-prelature
 prev_title: "The Anniversary of the Women of the Prelature"
 next_slug: the-annunciation-advent
 next_title: "The Annunciation (Advent)"
-related: [{"slug": "the-annunciation-advent", "title": "The Annunciation (Advent)"}, {"slug": "the-solemnity-of-the-annunciation-2026", "title": "The Solemnity of the Annunciation (2026)"}, {"slug": "at-the-school-of-mary", "title": "At the School of Mary"}]
+related: [{"slug": "the-annunciation-advent", "title": "The Annunciation (Advent)"}, {"slug": "the-visitation-of-our-lady", "title": "The Visitation of Our Lady"}, {"slug": "our-ladys-fidelity", "title": "Our Lady\u2019s Fidelity"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}, {"slug": "discerning-ones-vocation", "title": "Discerning One's Vocation"}]
 ---
 
 By Fr. Conor Donnelly

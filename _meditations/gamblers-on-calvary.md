@@ -8,7 +8,7 @@ prev_slug: fruits-of-the-holy-spirit
 prev_title: "Fruits of the Holy Spirit"
 next_slug: generosity
 next_title: "Generosity"
-related: [{"slug": "from-tabor-to-calvary", "title": "From Tabor to Calvary"}, {"slug": "joy-in-the-cross-lent", "title": "Joy in the Cross (Lent)"}, {"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}]
+related: [{"slug": "gods-bridge-builder", "title": "God\u2019s Bridge-Builder"}, {"slug": "the-way-the-truth-and-the-life", "title": "The Way, the Truth, and the Life"}, {"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "the-light-of-the-world", "title": "The Light of the World"}, {"slug": "the-artisan-of-nazareth", "title": "The Artisan of Nazareth"}]
 ---
 
 

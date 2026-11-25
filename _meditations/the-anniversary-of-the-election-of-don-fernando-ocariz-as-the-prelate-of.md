@@ -8,7 +8,7 @@ prev_slug: the-anniversary-of-pope-franciss-election
 prev_title: "The Anniversary of Pope Francis\u2019s Election"
 next_slug: the-anniversary-of-the-establishment-of-the-prelature
 next_title: "The Anniversary of the Establishment of the Prelature"
-related: [{"slug": "the-birthday-of-the-prelate-don-fernando", "title": "The Birthday of the Prelate (Don Fernando)"}, {"slug": "the-anniversary-of-pope-franciss-election", "title": "The Anniversary of Pope Francis\u2019s Election"}, {"slug": "the-anniversary-of-the-establishment-of-the-prelature", "title": "The Anniversary of the Establishment of the Prelature"}]
+related: [{"slug": "the-saints-day-of-the-prelate", "title": "The Saint\u2019s Day of the Prelate"}, {"slug": "the-birthday-of-the-prelate-don-fernando", "title": "The Birthday of the Prelate (Don Fernando)"}, {"slug": "the-anniversary-of-the-women-of-the-prelature", "title": "The Anniversary of the Women of the Prelature"}, {"slug": "the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature", "title": "The Anniversary of the Ordination of the First Three Priests of the Prelature"}, {"slug": "the-anniversary-of-the-establishment-of-the-prelature", "title": "The Anniversary of the Establishment of the Prelature"}]
 ---
 
 By Fr. Conor Donnelly

@@ -7,7 +7,7 @@ prev_slug: the-will-of-god
 prev_title: "The Will of God"
 next_slug: the-woman-caught-in-adultery
 next_title: "The Woman Caught in Adultery"
-related: [{"slug": "the-gift-of-wisdom", "title": "The Gift of Wisdom"}]
+related: [{"slug": "the-gift-of-wisdom", "title": "The Gift of Wisdom"}, {"slug": "spiritual-direction", "title": "Spiritual Direction"}, {"slug": "making-good-decisions-or-the-virtue-of-prudence", "title": "Making Good Decisions or The Virtue of Prudence"}, {"slug": "the-gift-of-knowledge", "title": "The Gift of Knowledge"}, {"slug": "the-obedience-of-jesus", "title": "The Obedience of Jesus"}]
 ---
 
 By Fr. Conor Donnelly

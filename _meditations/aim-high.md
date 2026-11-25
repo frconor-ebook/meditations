@@ -7,7 +7,7 @@ prev_slug: against-all-hope
 prev_title: "Against All Hope"
 next_slug: all-saints-after-edward-leen
 next_title: "All Saints (after Edward Leen)"
-related: [{"slug": "jesus-christ-the-eternal-high-priest", "title": "Jesus Christ, The Eternal High Priest"}, {"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}]
+related: [{"slug": "abandonment", "title": "Abandonment"}, {"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}, {"slug": "the-prodigal-son", "title": "The Prodigal Son"}, {"slug": "the-healing-of-the-man-with-the-withered-hand", "title": "The Healing of the Man with the Withered Hand"}, {"slug": "the-creative-courage-of-st-joseph", "title": "The Creative Courage of St. Joseph"}]
 ---
 
 By Fr. Conor Donnelly

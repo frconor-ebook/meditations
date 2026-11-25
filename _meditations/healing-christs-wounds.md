@@ -8,7 +8,7 @@ prev_slug: happy-are-the-meek
 prev_title: "Happy Are the Meek"
 next_slug: heart-in-the-family
 next_title: "Heart in the Family"
-related: [{"slug": "the-healing-of-the-man-with-the-withered-hand", "title": "The Healing of the Man with the Withered Hand"}, {"slug": "the-healing-of-the-royal-officials-son", "title": "The Healing of the Royal Official\u2019s Son"}, {"slug": "the-healing-of-the-ten-lepers", "title": "The Healing of the Ten Lepers"}]
+related: [{"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "the-unmerciful-servant", "title": "The Unmerciful Servant"}, {"slug": "our-lady-mother-of-mercy", "title": "Our Lady, Mother of Mercy"}, {"slug": "understanding", "title": "Understanding"}, {"slug": "the-good-samaritan", "title": "The Good Samaritan"}]
 ---
 
 By Fr. Conor Donnelly

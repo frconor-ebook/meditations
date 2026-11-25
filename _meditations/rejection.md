@@ -7,7 +7,7 @@ prev_slug: rediscover-the-gift
 prev_title: "Rediscover the Gift"
 next_slug: render-unto-caesar
 next_title: "Render Unto Caesar"
-related: [{"slug": "cross-rejection", "title": "Cross Rejection"}]
+related: [{"slug": "self-love-the-enemy", "title": "Self-Love: The Enemy"}, {"slug": "the-parable-of-the-rich-man-and-lazarus", "title": "The Parable of the Rich Man and Lazarus"}, {"slug": "the-love-of-god", "title": "The Love of God"}, {"slug": "vigilance-and-the-rosary", "title": "Vigilance and the Rosary"}, {"slug": "fruits-of-the-holy-spirit", "title": "Fruits of the Holy Spirit"}]
 ---
 
 By Fr. Conor Donnelly

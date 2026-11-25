@@ -7,7 +7,7 @@ prev_slug: reading-of-the-gospels-to-get-to-know-jesus-christ
 prev_title: "Reading of the Gospels to get to know Jesus Christ"
 next_slug: rectitude-of-intention
 next_title: "Rectitude of Intention"
-related: [{"slug": "reading-of-the-gospels-to-get-to-know-jesus-christ", "title": "Reading of the Gospels to get to know Jesus Christ"}]
+related: [{"slug": "examination-of-conscience", "title": "Examination of Conscience"}, {"slug": "st-john-the-baptist", "title": "St. John the Baptist"}, {"slug": "waiting-for-the-lord", "title": "Waiting for The Lord"}, {"slug": "prince-of-peace", "title": "Prince of Peace"}, {"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}]
 ---
 
 By Fr. Conor Donnelly

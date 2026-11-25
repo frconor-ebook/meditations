@@ -8,7 +8,7 @@ prev_slug: the-real-presence-after-thomas-mcgovern
 prev_title: "The Real Presence (after Thomas McGovern)"
 next_slug: the-sacrament-of-growth-and-mercy
 next_title: "The Sacrament of Growth and Mercy"
-related: [{"slug": "ash-wednesday", "title": "Ash Wednesday"}, {"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "easter-joy", "title": "Easter Joy"}]
+related: [{"slug": "easter-sunday", "title": "Easter Sunday"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}, {"slug": "cheerfulness", "title": "Cheerfulness"}, {"slug": "the-raising-of-lazarus", "title": "The Raising of Lazarus"}, {"slug": "judas", "title": "Judas"}]
 ---
 
 By Fr. Conor Donnelly

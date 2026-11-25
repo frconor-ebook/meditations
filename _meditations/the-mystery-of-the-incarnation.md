@@ -8,7 +8,7 @@ prev_slug: the-multiplication-of-the-loaves-and-fish
 prev_title: "The Multiplication of the Loaves and Fish"
 next_slug: the-narrow-gate
 next_title: "The Narrow Gate"
-related: [{"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}, {"slug": "the-incarnation-and-the-eucharist", "title": "The Incarnation and the Eucharist"}, {"slug": "a-mystery-to-be-lived", "title": "A Mystery to Be Lived"}]
+related: [{"slug": "the-annunciation-advent", "title": "The Annunciation (Advent)"}, {"slug": "mary-mother-of-god", "title": "Mary, Mother of God"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}, {"slug": "the-light-streaming-from-bethlehem", "title": "The Light Streaming from Bethlehem"}, {"slug": "christmas", "title": "Christmas"}]
 ---
 
 By Fr. Conor Donnelly

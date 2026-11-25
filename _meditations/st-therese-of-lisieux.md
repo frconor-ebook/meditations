@@ -8,7 +8,7 @@ prev_slug: st-thomas-more-and-st-john-fisher-2026
 prev_title: "St. Thomas More and St. John Fisher (2026)"
 next_slug: sts-cyril-and-methodius
 next_title: "Sts. Cyril and Methodius"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "spiritual-receptivity", "title": "Spiritual Receptivity"}, {"slug": "the-eucharist-and-love", "title": "The Eucharist and Love"}, {"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "the-eucharistfaith-and-hope", "title": "The Eucharist\u2013Faith and Hope"}, {"slug": "touching-god-in-prayer", "title": "Touching God in Prayer"}]
 ---
 
 

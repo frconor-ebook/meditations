@@ -8,7 +8,7 @@ prev_slug: the-dedication-of-the-basilica-of-st-john-lateran-2026
 prev_title: "The Dedication of the Basilica of St. John Lateran (2026)"
 next_slug: the-depths-of-simplicity
 next_title: "The Depths of Simplicity"
-related: [{"slug": "the-dedication-of-the-basilica-of-st-john-lateran-2026", "title": "The Dedication of the Basilica of St. John Lateran (2026)"}, {"slug": "st-john-mary-vianney", "title": "St. John Mary Vianney"}, {"slug": "st-john-mary-vianney-2026", "title": "St. John Mary Vianney (2026)"}]
+related: [{"slug": "our-lady-of-the-snows", "title": "Our Lady of the Snows"}, {"slug": "mother-of-god-and-our-mother", "title": "Mother of God and Our Mother"}, {"slug": "our-lady-mother-of-mercy", "title": "Our Lady, Mother of Mercy"}, {"slug": "the-nativity-of-our-lady", "title": "The Nativity of Our Lady"}, {"slug": "the-assumption-of-our-lady", "title": "The Assumption of Our Lady"}]
 ---
 
 By Fr. Conor Donnelly

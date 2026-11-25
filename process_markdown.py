@@ -142,6 +142,38 @@ def load_blocked_slugs(data_dir):
     return blocked
 
 
+def load_semantic_related(data_dir):
+    """Load precomputed semantic neighbors from data/semantic_related.json if present.
+
+    Returns a dict mapping slug -> list of neighbor slugs (best first). Missing
+    file returns {} so offline runs and tests fall back cleanly to the tag/title
+    heuristic without requiring numpy or API dependencies.
+    """
+    path = os.path.join(data_dir, "semantic_related.json")
+    if not os.path.exists(path):
+        return {}
+
+    with open(path) as f:
+        payload = json.load(f)
+
+    raw_map = payload.get("related", payload) if isinstance(payload, dict) else {}
+    if not isinstance(raw_map, dict):
+        raise ValueError(f"Semantic related map must be a JSON object: {path}")
+
+    neighbors = {}
+    for slug, items in raw_map.items():
+        if not isinstance(items, list):
+            continue
+        parsed = []
+        for item in items:
+            if isinstance(item, dict) and isinstance(item.get("slug"), str):
+                parsed.append(item["slug"])
+            elif isinstance(item, str):
+                parsed.append(item)
+        neighbors[slug] = parsed
+    return neighbors
+
+
 # Topic tags assigned by matching regex patterns against the lowercased
 # title: (tag, [include patterns], [exclude patterns]). A meditation gets a
 # tag when any include pattern matches and no exclude pattern does. Curated
@@ -398,25 +430,58 @@ def convert_markdown_to_meditations(source_dir, output_dir, data_dir):
             if len(w) > 3 and w not in stop
         }
 
+    RELATED_COUNT = 5
+    semantic_related = load_semantic_related(data_dir)
+    by_slug = {m["slug"]: m for m in meditations}
+    semantic_hits = 0
+    fallback_hits = 0
+
     for m in meditations:
-        own_tags = set(m["tags"])
-        own_words = title_words(m["title"])
-        scored = []
-        for other in meditations:
-            if other is m:
-                continue
-            shared_tags = own_tags & set(other["tags"])
-            shared_words = own_words & title_words(other["title"])
-            if shared_tags or shared_words:
-                # Rare shared tags count more than broad ones; shared title
-                # words (e.g. both about "humility") outrank tag-only matches
-                weight = sum(1.0 / tag_counts[t] for t in shared_tags)
-                weight += 0.5 * len(shared_words)
-                scored.append((-weight, other["title"], other))
-        scored.sort(key=lambda x: (x[0], x[1]))
-        m["related"] = [
-            {"slug": o["slug"], "title": o["title"]} for _, _, o in scored[:3]
-        ]
+        chosen = []
+        chosen_slugs = {m["slug"]}
+
+        # Prefer precomputed semantic neighbors (filtering out deleted or held slugs)
+        for neighbor_slug in semantic_related.get(m["slug"], ()):
+            if neighbor_slug in by_slug and neighbor_slug not in chosen_slugs:
+                chosen.append(
+                    {"slug": neighbor_slug, "title": by_slug[neighbor_slug]["title"]}
+                )
+                chosen_slugs.add(neighbor_slug)
+                if len(chosen) >= RELATED_COUNT:
+                    break
+
+        if chosen:
+            semantic_hits += 1
+        else:
+            fallback_hits += 1
+
+        # Backfill any missing slots with the tag-rarity + shared-title heuristic
+        if len(chosen) < RELATED_COUNT:
+            own_tags = set(m["tags"])
+            own_words = title_words(m["title"])
+            scored = []
+            for other in meditations:
+                if other["slug"] in chosen_slugs:
+                    continue
+                shared_tags = own_tags & set(other["tags"])
+                shared_words = own_words & title_words(other["title"])
+                if shared_tags or shared_words:
+                    # Rare shared tags count more than broad ones; shared title
+                    # words (e.g. both about "humility") outrank tag-only matches
+                    weight = sum(1.0 / tag_counts[t] for t in shared_tags)
+                    weight += 0.5 * len(shared_words)
+                    scored.append((-weight, other["title"], other))
+            scored.sort(key=lambda x: (x[0], x[1]))
+            for _, _, o in scored[: RELATED_COUNT - len(chosen)]:
+                chosen.append({"slug": o["slug"], "title": o["title"]})
+
+        m["related"] = chosen
+
+    if semantic_related:
+        print(
+            f"Related: {semantic_hits}/{len(meditations)} meditations using "
+            f"semantic neighbors ({fallback_hits} heuristic fallback)."
+        )
 
     # Write the collection documents
     for i, m in enumerate(meditations):

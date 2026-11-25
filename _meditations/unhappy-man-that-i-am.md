@@ -7,7 +7,7 @@ prev_slug: understanding
 prev_title: "Understanding"
 next_slug: unity-of-life
 next_title: "Unity of Life"
-related: [{"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}]
+related: [{"slug": "this-body-of-death", "title": "This Body of Death"}, {"slug": "transformation-through-prayer", "title": "Transformation Through Prayer"}, {"slug": "the-clean-of-heart-after-edward-leen", "title": "The Clean of Heart (after Edward Leen)"}, {"slug": "growth-in-prayer", "title": "Growth in Prayer"}, {"slug": "i-am-the-vine", "title": "I Am the Vine"}]
 ---
 
 

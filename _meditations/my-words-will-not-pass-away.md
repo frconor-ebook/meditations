@@ -7,7 +7,7 @@ prev_slug: much-will-be-demanded-responsibility
 prev_title: "Much Will Be Demanded: Responsibility"
 next_slug: naaman-the-syrian-docility
 next_title: "Naaman the Syrian (Docility)"
-related: [{"slug": "afterwards-you-will-understand", "title": "Afterwards You Will Understand"}, {"slug": "by-their-fruits-you-will-know-them", "title": "By Their Fruits, You Will Know Them"}, {"slug": "much-will-be-demanded-responsibility", "title": "Much Will Be Demanded: Responsibility"}]
+related: [{"slug": "reading-of-the-gospels-to-get-to-know-jesus-christ", "title": "Reading of the Gospels to get to know Jesus Christ"}, {"slug": "spirit-and-life", "title": "Spirit and Life"}, {"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}, {"slug": "finding-jesus", "title": "Finding Jesus"}, {"slug": "the-curing-of-the-man-with-an-unclean-spirit", "title": "The Curing of the Man with an Unclean Spirit"}]
 ---
 
 

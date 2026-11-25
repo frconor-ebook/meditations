@@ -8,7 +8,7 @@ prev_slug: walking-on-the-waterfaith
 prev_title: "Walking on the Water\u2013\u2013Faith"
 next_slug: when-i-am-weak-then-i-am-strong
 next_title: "When I Am Weak, Then I Am Strong"
-related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
+related: [{"slug": "the-imagination-and-interior-mortification", "title": "The Imagination and Interior Mortification"}, {"slug": "waiting-for-the-lord", "title": "Waiting for The Lord"}, {"slug": "purity-of-the-heart", "title": "Purity of the Heart"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "examination-of-conscience", "title": "Examination of Conscience"}]
 ---
 
 By Fr. Conor Donnelly

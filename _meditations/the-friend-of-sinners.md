@@ -8,7 +8,7 @@ prev_slug: the-fourth-sunday-of-st-joseph-2026
 prev_title: "The Fourth Sunday of St. Joseph (2026)"
 next_slug: the-gift-of-counsel
 next_title: "The Gift of Counsel"
-related: [{"slug": "a-merciful-messiah", "title": "A Merciful Messiah"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "contrition", "title": "Contrition"}]
+related: [{"slug": "zacchaeus", "title": "Zacchaeus"}, {"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}, {"slug": "the-unmerciful-servant", "title": "The Unmerciful Servant"}, {"slug": "the-speck-in-my-brothers-eye", "title": "The Speck In My Brother\u2019s Eye"}, {"slug": "the-paralytic-and-his-friends", "title": "The Paralytic and His Friends"}]
 ---
 
 By Fr. Conor Donnelly

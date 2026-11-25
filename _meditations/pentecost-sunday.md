@@ -8,7 +8,7 @@ prev_slug: payment-of-the-temple-tax
 prev_title: "Payment of the Temple Tax"
 next_slug: perseverance
 next_title: "Perseverance"
-related: [{"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}, {"slug": "easter-sunday", "title": "Easter Sunday"}, {"slug": "palm-sunday", "title": "Palm Sunday"}]
+related: [{"slug": "the-gift-of-knowledge", "title": "The Gift of Knowledge"}, {"slug": "beginning-again", "title": "Beginning Again"}, {"slug": "the-ascension", "title": "The Ascension"}, {"slug": "on-formation", "title": "On Formation"}, {"slug": "the-miraculous-catch-of-fish", "title": "The Miraculous Catch of Fish"}]
 ---
 
 (*Proofread*)

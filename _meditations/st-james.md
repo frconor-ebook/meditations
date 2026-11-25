@@ -8,7 +8,7 @@ prev_slug: st-gabriel
 prev_title: "St. Gabriel"
 next_slug: st-james-2026
 next_title: "St. James (2026)"
-related: [{"slug": "st-james-2026", "title": "St. James (2026)"}, {"slug": "st-philip-and-st-james", "title": "St. Philip and St. James"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}]
+related: [{"slug": "the-parable-of-the-weeds", "title": "The Parable of the Weeds"}, {"slug": "st-james-2026", "title": "St. James (2026)"}, {"slug": "optimism", "title": "Optimism"}, {"slug": "the-good-samaritan", "title": "The Good Samaritan"}, {"slug": "st-matthew", "title": "St. Matthew"}]
 ---
 
 By Fr. Conor Donnelly

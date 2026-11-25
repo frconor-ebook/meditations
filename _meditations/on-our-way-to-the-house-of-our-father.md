@@ -7,7 +7,7 @@ prev_slug: on-hope
 prev_title: "On Hope"
 next_slug: on-temperance
 next_title: "On Temperance"
-related: [{"slug": "fathers-day", "title": "Father\u2019s Day"}, {"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "loving-jesus-house", "title": "Loving Jesus\u2019 House"}]
+related: [{"slug": "the-last-day-of-the-liturgical-year-vigilance", "title": "The Last Day of the Liturgical Year (Vigilance)"}, {"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}, {"slug": "looking-up-to-heaven", "title": "Looking Up to Heaven"}, {"slug": "with-the-readiness-of-lovevigilance", "title": "With the Readiness of Love\u2014Vigilance"}, {"slug": "the-narrow-path", "title": "The Narrow Path"}]
 ---
 
 

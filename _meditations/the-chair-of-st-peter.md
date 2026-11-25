@@ -8,7 +8,7 @@ prev_slug: the-centurion-and-his-servant
 prev_title: "The Centurion and His Servant"
 next_slug: the-clean-of-heart-after-edward-leen
 next_title: "The Clean of Heart (after Edward Leen)"
-related: [{"slug": "st-peter", "title": "St. Peter"}, {"slug": "st-peter-and-st-paul", "title": "St. Peter and St. Paul"}, {"slug": "love-for-peter", "title": "Love for Peter"}]
+related: [{"slug": "the-good-shepherd", "title": "The Good Shepherd"}, {"slug": "the-lost-sheep", "title": "The Lost Sheep"}, {"slug": "st-peter-and-st-paul", "title": "St. Peter and St. Paul"}, {"slug": "the-good-shepherd-2nd-ed", "title": "The Good Shepherd (2nd Ed.)"}, {"slug": "the-anniversary-of-pope-franciss-election", "title": "The Anniversary of Pope Francis\u2019s Election"}]
 ---
 
 

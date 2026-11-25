@@ -8,7 +8,7 @@ prev_slug: the-paralytic-and-his-friends
 prev_title: "The Paralytic and His Friends"
 next_slug: the-passion-of-st-john-the-baptist
 next_title: "The Passion of St. John the Baptist"
-related: [{"slug": "on-grace-supernatural-life-and-confession", "title": "On Grace, Supernatural Life, and Confession"}, {"slug": "our-sins-our-confession", "title": "Our Sins, Our Confession"}, {"slug": "the-apostolate-of-confession", "title": "The Apostolate of Confession"}]
+related: [{"slug": "the-paralytic-and-his-friends", "title": "The Paralytic and His Friends"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}, {"slug": "christ-the-light", "title": "Christ the Light"}, {"slug": "passionately-loving-the-world", "title": "Passionately Loving the World"}, {"slug": "the-beatitudes", "title": "The Beatitudes"}]
 ---
 
 By Fr. Conor Donnelly

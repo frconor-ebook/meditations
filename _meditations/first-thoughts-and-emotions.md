@@ -7,7 +7,7 @@ prev_slug: fire-on-earth
 prev_title: "Fire On Earth"
 next_slug: fishers-of-men
 next_title: "Fishers of Men"
-related: [{"slug": "the-anniversary-of-the-first-holy-communion-of-st-josemaria", "title": "The Anniversary of the First Holy Communion of St. Josemar\u00eda"}, {"slug": "the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature", "title": "The Anniversary of the Ordination of the First Three Priests of the Prelature"}, {"slug": "the-first-commandment", "title": "The First Commandment"}]
+related: [{"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}, {"slug": "purity-of-soul", "title": "Purity of Soul"}, {"slug": "conscience-the-light-of-the-soul", "title": "Conscience, The Light of the Soul"}, {"slug": "chalice-possumus-we-can", "title": "Chalice, Possumus, We Can"}, {"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}]
 ---
 
 By Fr. Conor Donnelly

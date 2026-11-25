@@ -8,7 +8,7 @@ prev_slug: on-our-way-to-the-house-of-our-father
 prev_title: "On Our Way to The House of Our Father"
 next_slug: on-work
 next_title: "On Work"
-related: [{"slug": "temperance", "title": "Temperance"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}]
+related: [{"slug": "temperance", "title": "Temperance"}, {"slug": "friendship-and-confidence", "title": "Friendship and Confidence"}, {"slug": "charity-versus-anger", "title": "Charity versus Anger"}, {"slug": "mortification", "title": "Mortification"}, {"slug": "humility", "title": "Humility"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: passionately-loving-the-world
 prev_title: "Passionately Loving the World"
 next_slug: patience-in-adversity
 next_title: "Patience in Adversity"
-related: [{"slug": "patience-in-adversity", "title": "Patience in Adversity"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}]
+related: [{"slug": "patience-in-adversity", "title": "Patience in Adversity"}, {"slug": "forgiveness", "title": "Forgiveness"}, {"slug": "generosity", "title": "Generosity"}, {"slug": "charity-versus-anger", "title": "Charity versus Anger"}, {"slug": "mortification", "title": "Mortification"}]
 ---
 
 By Fr. Conor Donnelly

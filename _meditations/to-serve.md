@@ -8,7 +8,7 @@ prev_slug: this-body-of-death
 prev_title: "This Body of Death"
 next_slug: todays-task
 next_title: "Today\u2019s Task"
-related: [{"slug": "discerning-ones-vocation", "title": "Discerning One's Vocation"}, {"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}, {"slug": "spirit-of-service", "title": "Spirit of Service"}]
+related: [{"slug": "spirit-of-service", "title": "Spirit of Service"}, {"slug": "the-washing-of-the-feet", "title": "The Washing of the Feet"}, {"slug": "making-the-most-of-the-gifts-we-have-been-given", "title": "Making the Most of the Gifts We Have Been Given"}, {"slug": "rectitude-of-intention", "title": "Rectitude of Intention"}, {"slug": "all-the-glory-to-god", "title": "All the Glory to God"}]
 ---
 
 By Fr. Conor Donnelly

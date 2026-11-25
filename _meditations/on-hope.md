@@ -8,7 +8,7 @@ prev_slug: on-grace-supernatural-life-and-confession
 prev_title: "On Grace, Supernatural Life, and Confession"
 next_slug: on-our-way-to-the-house-of-our-father
 next_title: "On Our Way to The House of Our Father"
-related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "the-eucharistfaith-and-hope", "title": "The Eucharist\u2013Faith and Hope"}]
+related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "perseverance", "title": "Perseverance"}, {"slug": "the-faith-of-abraham", "title": "The Faith of Abraham"}, {"slug": "life-of-faith", "title": "Life of Faith"}, {"slug": "apart-from-me-you-can-do-nothing", "title": "Apart From Me You Can Do Nothing"}]
 ---
 
 By Fr. Conor Donnelly

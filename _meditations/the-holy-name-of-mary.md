@@ -8,7 +8,7 @@ prev_slug: the-holy-name-of-jesus
 prev_title: "The Holy Name of Jesus"
 next_slug: the-holy-rosary
 next_title: "The Holy Rosary"
-related: [{"slug": "the-holy-name-of-jesus", "title": "The Holy Name of Jesus"}, {"slug": "at-the-school-of-mary", "title": "At the School of Mary"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}]
+related: [{"slug": "the-nativity-of-our-lady", "title": "The Nativity of Our Lady"}, {"slug": "our-lady-the-queen", "title": "Our Lady the Queen"}, {"slug": "vigilance-and-the-rosary", "title": "Vigilance and the Rosary"}, {"slug": "piety", "title": "Piety"}, {"slug": "the-good-shepherd", "title": "The Good Shepherd"}]
 ---
 
 By Fr. Conor Donnelly

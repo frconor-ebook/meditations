@@ -8,7 +8,7 @@ prev_slug: the-conversion-of-st-paul
 prev_title: "The Conversion of St. Paul"
 next_slug: the-crosses-of-love-and-hate
 next_title: "The Crosses of Love and Hate"
-related: [{"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}, {"slug": "self-emptying-and-st-joseph", "title": "Self-emptying and St. Joseph"}]
+related: [{"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}, {"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}, {"slug": "st-joseph-the-family-man", "title": "St. Joseph, The Family Man"}, {"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}, {"slug": "st-josephs-holiness-in-ordinary-life", "title": "St. Joseph\u2019s Holiness in Ordinary Life"}]
 ---
 
 By Fr. Conor Donnelly

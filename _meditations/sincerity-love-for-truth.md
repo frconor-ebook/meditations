@@ -8,7 +8,7 @@ prev_slug: sin-of-pride-the-elder-son
 prev_title: "Sin of Pride (The Elder Son)"
 next_slug: souls-of-prayer
 next_title: "Souls of Prayer"
-related: [{"slug": "love-for-chastity", "title": "Love for Chastity"}, {"slug": "self-love-the-enemy", "title": "Self-Love: The Enemy"}, {"slug": "with-the-readiness-of-lovevigilance", "title": "With the Readiness of Love\u2014Vigilance"}]
+related: [{"slug": "st-bartholomew", "title": "St. Bartholomew"}, {"slug": "the-devils-cast-out", "title": "The Devils Cast Out"}, {"slug": "the-truth-will-make-you-free", "title": "The Truth Will Make You Free"}, {"slug": "the-bent-over-woman", "title": "The Bent Over Woman"}, {"slug": "rectitude-of-intention", "title": "Rectitude of Intention"}]
 ---
 
 By Fr. Conor Donnelly

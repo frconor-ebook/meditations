@@ -8,7 +8,7 @@ prev_slug: the-birthday-of-the-prelate-don-fernando
 prev_title: "The Birthday of the Prelate (Don Fernando)"
 next_slug: the-bread-our-heavenly-mother-gives-us
 next_title: "The Bread Our Heavenly Mother Gives Us"
-related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
+related: [{"slug": "guarding-our-sight", "title": "Guarding Our Sight"}, {"slug": "holy-purity", "title": "Holy Purity"}, {"slug": "walking-on-the-waterfaith", "title": "Walking on the Water\u2013\u2013Faith"}, {"slug": "the-storm-on-the-lake", "title": "The Storm on the Lake"}, {"slug": "purity-of-the-heart", "title": "Purity of the Heart"}]
 ---
 
 By Fr. Conor Donnelly

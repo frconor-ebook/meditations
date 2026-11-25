@@ -8,7 +8,7 @@ prev_slug: the-sanctification-of-later-years
 prev_title: "The Sanctification of Later Years"
 next_slug: the-seat-of-honor
 next_title: "The Seat of Honor"
-related: [{"slug": "the-sanctification-of-calumnies", "title": "The Sanctification of Calumnies"}, {"slug": "the-sanctification-of-later-years", "title": "The Sanctification of Later Years"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}]
+related: [{"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}, {"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}, {"slug": "st-joseph-the-family-man", "title": "St. Joseph, The Family Man"}, {"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}, {"slug": "the-epiphany", "title": "The Epiphany"}]
 ---
 
 By Fr. Conor Donnelly

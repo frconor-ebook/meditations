@@ -8,7 +8,7 @@ prev_slug: good-friday-of-the-lords-passion
 prev_title: "Good Friday of the Lord\u2019s Passion"
 next_slug: great-mothers
 next_title: "Great Mothers"
-related: [{"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}, {"slug": "the-anniversary-of-pope-franciss-election", "title": "The Anniversary of Pope Francis\u2019s Election"}, {"slug": "st-benedict", "title": "St. Benedict"}]
+related: [{"slug": "the-anniversary-of-pope-franciss-election", "title": "The Anniversary of Pope Francis\u2019s Election"}, {"slug": "enlarging-the-heart", "title": "Enlarging the Heart"}, {"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}, {"slug": "cross-rejection", "title": "Cross Rejection"}, {"slug": "christmas", "title": "Christmas"}]
 ---
 
 By Fr. Conor Donnelly

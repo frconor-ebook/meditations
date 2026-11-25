@@ -8,7 +8,7 @@ prev_slug: the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-p
 prev_title: "The Anniversary of the Ordination of the First Three Priests of the Prelature"
 next_slug: the-annunciation
 next_title: "The Annunciation"
-related: [{"slug": "the-anniversary-of-the-establishment-of-the-prelature", "title": "The Anniversary of the Establishment of the Prelature"}, {"slug": "the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature", "title": "The Anniversary of the Ordination of the First Three Priests of the Prelature"}, {"slug": "the-anniversary-of-the-election-of-don-fernando-ocariz-as-the-prelate-of", "title": "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"}]
+related: [{"slug": "the-priestly-society-of-the-holy-cross", "title": "The Priestly Society of the Holy Cross"}, {"slug": "the-anniversary-of-the-election-of-don-fernando-ocariz-as-the-prelate-of", "title": "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"}, {"slug": "the-anniversary-of-the-establishment-of-the-prelature", "title": "The Anniversary of the Establishment of the Prelature"}, {"slug": "the-birthday-of-st-josemaria-escriva", "title": "The Birthday of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "raise-the-world", "title": "Raise the World"}]
 ---
 
 By Fr. Conor Donnelly

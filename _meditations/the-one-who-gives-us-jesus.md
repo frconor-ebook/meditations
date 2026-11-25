@@ -7,7 +7,7 @@ prev_slug: the-obedience-of-jesus
 prev_title: "The Obedience of Jesus"
 next_slug: the-only-real-evil
 next_title: "The Only Real Evil"
-related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "finding-jesus", "title": "Finding Jesus"}, {"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}]
+related: [{"slug": "love-for-priests", "title": "Love For Priests"}, {"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "christs-eternal-priesthood", "title": "Christ\u2019s Eternal Priesthood"}, {"slug": "the-priestly-society-of-the-holy-cross", "title": "The Priestly Society of the Holy Cross"}, {"slug": "st-john-mary-vianney-2026", "title": "St. John Mary Vianney (2026)"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: little-duties
 prev_title: "Little Duties"
 next_slug: looking-up-to-heaven
 next_title: "Looking Up to Heaven"
-related: [{"slug": "little-duties", "title": "Little Duties"}, {"slug": "behold-i-make-all-things-new", "title": "Behold I Make All Things New"}, {"slug": "the-last-things", "title": "The Last Things"}]
+related: [{"slug": "little-duties", "title": "Little Duties"}, {"slug": "humility", "title": "Humility"}, {"slug": "on-work", "title": "On Work"}, {"slug": "obedience-in-bethlehem", "title": "Obedience in Bethlehem"}, {"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}]
 ---
 
 By Fr. Conor Donnelly

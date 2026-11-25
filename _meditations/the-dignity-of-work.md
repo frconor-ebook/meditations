@@ -8,7 +8,7 @@ prev_slug: the-dignity-of-man
 prev_title: "The Dignity of Man"
 next_slug: the-end-of-life
 next_title: "The End of Life"
-related: [{"slug": "on-work", "title": "On Work"}, {"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}, {"slug": "the-dignity-of-man", "title": "The Dignity of Man"}]
+related: [{"slug": "on-work", "title": "On Work"}, {"slug": "st-joseph-the-worker", "title": "St. Joseph the Worker"}, {"slug": "helping-to-do-good", "title": "Helping To Do Good"}, {"slug": "much-will-be-demanded-responsibility", "title": "Much Will Be Demanded: Responsibility"}, {"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}]
 ---
 
 By Fr. Conor Donnelly

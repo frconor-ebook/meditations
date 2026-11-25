@@ -8,7 +8,7 @@ prev_slug: i-came-to-cast-fire-on-earth
 prev_title: "I Came To Cast Fire On Earth"
 next_slug: imagination-the-madwoman
 next_title: "Imagination: The Madwoman"
-related: [{"slug": "ash-wednesday", "title": "Ash Wednesday"}, {"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "easter-joy", "title": "Easter Joy"}]
+related: [{"slug": "the-crucifixion", "title": "The Crucifixion"}, {"slug": "love-for-the-cross", "title": "Love for the Cross"}, {"slug": "contrition", "title": "Contrition"}, {"slug": "deeper-desire", "title": "Deeper Desire"}, {"slug": "good-friday-of-the-lords-passion", "title": "Good Friday of the Lord\u2019s Passion"}]
 ---
 
 By Fr. Conor Donnelly

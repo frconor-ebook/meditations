@@ -7,7 +7,7 @@ prev_slug: mary-mother-of-god-2nd-ed
 prev_title: "Mary, Mother of God (2nd Ed.)"
 next_slug: meekness
 next_title: "Meekness"
-related: [{"slug": "divine-filiation", "title": "Divine Filiation"}, {"slug": "divine-intimacies", "title": "Divine Intimacies"}, {"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}]
+related: [{"slug": "humility", "title": "Humility"}, {"slug": "much-will-be-demanded-responsibility", "title": "Much Will Be Demanded: Responsibility"}, {"slug": "temperance", "title": "Temperance"}, {"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}, {"slug": "the-dignity-of-work", "title": "The Dignity of Work"}]
 ---
 
 By Fr. Conor Donnelly

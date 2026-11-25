@@ -8,7 +8,7 @@ prev_slug: st-monica
 prev_title: "St. Monica"
 next_slug: st-patrick-march-17th
 next_title: "St. Patrick, March 17th"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "poverty-and-detachment", "title": "Poverty and Detachment"}, {"slug": "purity-of-the-heart", "title": "Purity of the Heart"}, {"slug": "preparing-to-receive-jesus", "title": "Preparing to Receive Jesus"}, {"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}, {"slug": "st-john-the-baptist", "title": "St. John the Baptist"}]
 ---
 
 By Fr. Conor Donnelly

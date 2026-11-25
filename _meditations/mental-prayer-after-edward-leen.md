@@ -8,7 +8,7 @@ prev_slug: mental-prayer
 prev_title: "Mental Prayer"
 next_slug: midterm-of-the-year-of-st-joseph
 next_title: "Midterm of the Year of St. Joseph"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "intimacy-with-god-after-edward-leen", "title": "Intimacy with God (after Edward Leen)"}, {"slug": "simplicity-after-edward-leen", "title": "Simplicity (after Edward Leen)"}]
+related: [{"slug": "intimacy-with-god-after-edward-leen", "title": "Intimacy with God (after Edward Leen)"}, {"slug": "transformation-through-prayer", "title": "Transformation Through Prayer"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "vocal-prayer", "title": "Vocal Prayer"}]
 ---
 
 

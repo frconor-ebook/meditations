@@ -8,7 +8,7 @@ prev_slug: the-crosses-of-love-and-hate
 prev_title: "The Crosses of Love and Hate"
 next_slug: the-cure-of-the-possessed-boy
 next_title: "The Cure of the Possessed Boy"
-related: [{"slug": "from-tabor-to-calvary", "title": "From Tabor to Calvary"}, {"slug": "gamblers-on-calvary", "title": "Gamblers On Calvary"}, {"slug": "joy-in-the-cross-lent", "title": "Joy in the Cross (Lent)"}]
+related: [{"slug": "good-friday-of-the-lords-passion", "title": "Good Friday of the Lord\u2019s Passion"}, {"slug": "love-for-the-cross", "title": "Love for the Cross"}, {"slug": "judas", "title": "Judas"}, {"slug": "contrition", "title": "Contrition"}, {"slug": "the-exaltation-of-the-holy-cross", "title": "The Exaltation of the Holy Cross"}]
 ---
 
 By Fr. Conor Donnelly

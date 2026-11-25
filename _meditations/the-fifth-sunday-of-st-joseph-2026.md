@@ -8,7 +8,7 @@ prev_slug: the-feast-of-the-holy-innocents-2025
 prev_title: "The Feast of the Holy Innocents, 2025"
 next_slug: the-first-commandment
 next_title: "The First Commandment"
-related: [{"slug": "the-first-sunday-of-st-joseph-2026", "title": "The First Sunday of St. Joseph (2026)"}, {"slug": "the-fourth-sunday-of-st-joseph-2026", "title": "The Fourth Sunday of St. Joseph (2026)"}, {"slug": "the-second-sunday-of-st-joseph-2026", "title": "The Second Sunday of St. Joseph (2026)"}]
+related: [{"slug": "the-second-sunday-of-st-joseph-2026", "title": "The Second Sunday of St. Joseph (2026)"}, {"slug": "the-third-sunday-of-st-joseph-2026", "title": "The Third Sunday of St. Joseph (2026)"}, {"slug": "the-first-sunday-of-st-joseph-2026", "title": "The First Sunday of St. Joseph (2026)"}, {"slug": "the-fourth-sunday-of-st-joseph-2026", "title": "The Fourth Sunday of St. Joseph (2026)"}, {"slug": "the-sixth-sunday-of-st-joseph-2026", "title": "The Sixth Sunday of St. Joseph (2026)"}]
 ---
 
 

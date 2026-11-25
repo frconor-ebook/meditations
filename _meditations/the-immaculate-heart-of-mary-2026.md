@@ -8,7 +8,7 @@ prev_slug: the-immaculate-heart-of-mary
 prev_title: "The Immaculate Heart of Mary"
 next_slug: the-incarnation-and-the-eucharist
 next_title: "The Incarnation and the Eucharist"
-related: [{"slug": "the-immaculate-heart-of-mary", "title": "The Immaculate Heart of Mary"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}, {"slug": "at-the-school-of-mary", "title": "At the School of Mary"}]
+related: [{"slug": "the-sacred-heart-of-jesus-2026", "title": "The Sacred Heart of Jesus (2026)"}, {"slug": "the-immaculate-heart-of-mary", "title": "The Immaculate Heart of Mary"}, {"slug": "the-visitation-of-our-lady-2026", "title": "The Visitation of Our Lady (2026)"}, {"slug": "st-barnabas-2026", "title": "St. Barnabas (2026)"}, {"slug": "the-sacred-heart-of-jesus", "title": "The Sacred Heart of Jesus"}]
 ---
 
 

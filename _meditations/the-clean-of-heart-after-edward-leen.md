@@ -7,7 +7,7 @@ prev_slug: the-chair-of-st-peter
 prev_title: "The Chair of St. Peter"
 next_slug: the-commemoration-of-all-souls-2026
 next_title: "The Commemoration of All Souls (2026)"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "intimacy-with-god-after-edward-leen", "title": "Intimacy with God (after Edward Leen)"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}]
+related: [{"slug": "this-body-of-death", "title": "This Body of Death"}, {"slug": "the-battle", "title": "The Battle"}, {"slug": "behold-i-make-all-things-new", "title": "Behold I Make All Things New"}, {"slug": "jesus-therefore-wearied-from-his-journey", "title": "Jesus Therefore, Wearied from His Journey"}, {"slug": "the-depths-of-simplicity", "title": "The Depths of Simplicity"}]
 ---
 
 By Fr. Conor Donnelly

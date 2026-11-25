@@ -8,7 +8,7 @@ prev_slug: christian-identity
 prev_title: "Christian Identity"
 next_slug: christmas
 next_title: "Christmas"
-related: [{"slug": "education-in-social-virtues", "title": "Education In Social Virtues"}, {"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "christian-identity", "title": "Christian Identity"}]
+related: [{"slug": "be-you-perfect", "title": "Be You Perfect"}, {"slug": "education-in-social-virtues", "title": "Education In Social Virtues"}, {"slug": "the-obedience-of-jesus", "title": "The Obedience of Jesus"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}, {"slug": "do-not-let-your-hearts-be-troubled", "title": "Do Not Let Your Hearts Be Troubled"}]
 ---
 
 By Fr. Conor Donnelly

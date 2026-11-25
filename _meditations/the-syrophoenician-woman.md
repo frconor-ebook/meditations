@@ -8,7 +8,7 @@ prev_slug: the-storm-on-the-lake
 prev_title: "The Storm on the Lake"
 next_slug: the-temple-tax
 next_title: "The Temple Tax"
-related: [{"slug": "the-bent-over-woman", "title": "The Bent Over Woman"}, {"slug": "the-woman-with-the-issue-of-blood", "title": "The Woman with the Issue of Blood"}, {"slug": "our-lady-woman-of-the-eucharist", "title": "Our Lady, Woman of the Eucharist"}]
+related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "invoking-our-savior", "title": "Invoking Our Savior"}, {"slug": "the-cure-of-the-possessed-boy", "title": "The Cure of the Possessed Boy"}, {"slug": "helping-to-do-good", "title": "Helping To Do Good"}, {"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}]
 ---
 
 By Fr. Conor Donnelly

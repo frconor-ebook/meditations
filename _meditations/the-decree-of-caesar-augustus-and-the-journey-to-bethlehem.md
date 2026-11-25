@@ -8,7 +8,7 @@ prev_slug: the-day-of-joy
 prev_title: "The Day of Joy"
 next_slug: the-dedication-of-the-basilica-of-st-john-lateran-2026
 next_title: "The Dedication of the Basilica of St. John Lateran (2026)"
-related: [{"slug": "the-joy-of-the-journey-to-bethlehem", "title": "The Joy of the Journey to Bethlehem"}, {"slug": "obedience-in-bethlehem", "title": "Obedience in Bethlehem"}, {"slug": "the-light-streaming-from-bethlehem", "title": "The Light Streaming from Bethlehem"}]
+related: [{"slug": "christmas", "title": "Christmas"}, {"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}, {"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}, {"slug": "the-annunciation-advent", "title": "The Annunciation (Advent)"}, {"slug": "the-epiphany", "title": "The Epiphany"}]
 ---
 
 By Fr. Conor Donnelly

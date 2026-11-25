@@ -8,7 +8,7 @@ prev_slug: the-healing-of-the-man-with-the-withered-hand
 prev_title: "The Healing of the Man with the Withered Hand"
 next_slug: the-healing-of-the-ten-lepers
 next_title: "The Healing of the Ten Lepers"
-related: [{"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "the-healing-of-the-man-with-the-withered-hand", "title": "The Healing of the Man with the Withered Hand"}, {"slug": "the-healing-of-the-ten-lepers", "title": "The Healing of the Ten Lepers"}]
+related: [{"slug": "increase-my-faith", "title": "Increase My Faith"}, {"slug": "crises-be-not-afraid", "title": "Crises: Be Not Afraid"}, {"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}, {"slug": "the-centurion-and-his-servant", "title": "The Centurion and His Servant"}, {"slug": "walking-on-the-waterfaith", "title": "Walking on the Water\u2013\u2013Faith"}]
 ---
 
 By Fr. Conor Donnelly

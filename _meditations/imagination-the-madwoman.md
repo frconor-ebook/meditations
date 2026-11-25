@@ -7,7 +7,7 @@ prev_slug: i-thirst
 prev_title: "I Thirst"
 next_slug: in-expectation-of-our-lord
 next_title: "In Expectation of Our Lord"
-related: [{"slug": "the-imagination-and-interior-mortification", "title": "The Imagination and Interior Mortification"}]
+related: [{"slug": "mortification", "title": "Mortification"}, {"slug": "order", "title": "Order"}, {"slug": "maturity-and-participation-in-the-divine-nature", "title": "Maturity and Participation in the Divine Nature"}, {"slug": "the-devils-cast-out", "title": "The Devils Cast Out"}, {"slug": "walking-on-the-waterfaith", "title": "Walking on the Water\u2013\u2013Faith"}]
 ---
 
 (*Proofread*)

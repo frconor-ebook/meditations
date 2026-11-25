@@ -8,7 +8,7 @@ prev_slug: naturalness-and-simplicity
 prev_title: "Naturalness and Simplicity"
 next_slug: obedience-in-bethlehem
 next_title: "Obedience in Bethlehem"
-related: [{"slug": "obedience-in-bethlehem", "title": "Obedience in Bethlehem"}, {"slug": "the-obedience-of-jesus", "title": "The Obedience of Jesus"}, {"slug": "against-all-hope", "title": "Against All Hope"}]
+related: [{"slug": "obedience-in-bethlehem", "title": "Obedience in Bethlehem"}, {"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "education-in-social-virtues", "title": "Education In Social Virtues"}, {"slug": "the-obedience-of-jesus", "title": "The Obedience of Jesus"}, {"slug": "self-denial", "title": "Self-Denial"}]
 ---
 
 By Fr. Conor Donnelly

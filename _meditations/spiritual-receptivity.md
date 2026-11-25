@@ -7,7 +7,7 @@ prev_slug: spiritual-direction
 prev_title: "Spiritual Direction"
 next_slug: st-thomas-aquinas-after-edward-leen
 next_title: "St Thomas Aquinas (After Edward Leen)"
-related: [{"slug": "spiritual-childhood", "title": "Spiritual Childhood"}, {"slug": "spiritual-direction", "title": "Spiritual Direction"}]
+related: [{"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "when-i-am-weak-then-i-am-strong", "title": "When I Am Weak, Then I Am Strong"}, {"slug": "true-and-false-freedom", "title": "True and False Freedom"}, {"slug": "st-therese-of-lisieux", "title": "St. Th\u00e9r\u00e8se of Lisieux"}, {"slug": "the-eucharistfaith-and-hope", "title": "The Eucharist\u2013Faith and Hope"}]
 ---
 
 By Fr. Conor Donnelly

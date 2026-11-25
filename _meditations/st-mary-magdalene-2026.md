@@ -8,7 +8,7 @@ prev_slug: st-mary-magdalene
 prev_title: "St. Mary Magdalene"
 next_slug: st-matthew
 next_title: "St. Matthew"
-related: [{"slug": "st-mary-magdalene", "title": "St. Mary Magdalene"}, {"slug": "st-john-mary-vianney", "title": "St. John Mary Vianney"}, {"slug": "st-john-mary-vianney-2026", "title": "St. John Mary Vianney (2026)"}]
+related: [{"slug": "st-mary-magdalene", "title": "St. Mary Magdalene"}, {"slug": "sts-martha-mary-and-lazarus", "title": "Sts. Martha, Mary, and Lazarus"}, {"slug": "st-barnabas-2026", "title": "St. Barnabas (2026)"}, {"slug": "st-thomas-more-and-st-john-fisher-2026", "title": "St. Thomas More and St. John Fisher (2026)"}, {"slug": "the-sacred-heart-of-jesus-2026", "title": "The Sacred Heart of Jesus (2026)"}]
 ---
 
 

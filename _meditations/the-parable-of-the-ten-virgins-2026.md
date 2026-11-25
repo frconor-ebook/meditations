@@ -8,7 +8,7 @@ prev_slug: the-parable-of-the-ten-virgins
 prev_title: "The Parable of the Ten Virgins"
 next_slug: the-parable-of-the-treasure-and-the-pearl
 next_title: "The Parable of the Treasure and the Pearl"
-related: [{"slug": "the-parable-of-the-ten-virgins", "title": "The Parable of the Ten Virgins"}, {"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}]
+related: [{"slug": "the-commemoration-of-all-souls-2026", "title": "The Commemoration of All Souls (2026)"}, {"slug": "the-end-of-life", "title": "The End of Life"}, {"slug": "the-parable-of-the-talents", "title": "The Parable of the Talents"}, {"slug": "the-parable-of-the-ten-virgins", "title": "The Parable of the Ten Virgins"}, {"slug": "with-the-readiness-of-lovevigilance", "title": "With the Readiness of Love\u2014Vigilance"}]
 ---
 
 

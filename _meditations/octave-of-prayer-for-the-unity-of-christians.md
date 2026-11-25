@@ -8,7 +8,7 @@ prev_slug: obedience-in-bethlehem
 prev_title: "Obedience in Bethlehem"
 next_slug: on-apostolate
 next_title: "On Apostolate"
-related: [{"slug": "peter-and-prayer", "title": "Peter and Prayer"}, {"slug": "growth-in-prayer", "title": "Growth in Prayer"}, {"slug": "mental-prayer", "title": "Mental Prayer"}]
+related: [{"slug": "st-severinus-and-unity", "title": "St. Severinus and Unity"}, {"slug": "our-lady-of-peace", "title": "Our Lady of Peace"}, {"slug": "love-for-peter", "title": "Love for Peter"}, {"slug": "the-birthday-of-the-prelate-don-fernando", "title": "The Birthday of the Prelate (Don Fernando)"}, {"slug": "christ-the-light", "title": "Christ the Light"}]
 ---
 
 By Fr. Conor Donnelly

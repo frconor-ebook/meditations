@@ -8,7 +8,7 @@ prev_slug: marriage-and-indissolubility
 prev_title: "Marriage and Indissolubility"
 next_slug: martha-martha
 next_title: "Martha, Martha"
-related: [{"slug": "fidelity-in-marriage", "title": "Fidelity in Marriage"}, {"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}, {"slug": "hell-purgatory-heaven", "title": "Hell, Purgatory, Heaven"}]
+related: [{"slug": "on-our-way-to-the-house-of-our-father", "title": "On Our Way to The House of Our Father"}, {"slug": "the-last-day-of-the-liturgical-year-vigilance", "title": "The Last Day of the Liturgical Year (Vigilance)"}, {"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}, {"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "the-last-things", "title": "The Last Things"}]
 ---
 
 By Fr. Conor Donnelly

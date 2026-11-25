@@ -8,7 +8,7 @@ prev_slug: charity-and-the-tongue
 prev_title: "Charity and the Tongue"
 next_slug: cheerfulness
 next_title: "Cheerfulness"
-related: [{"slug": "charity", "title": "Charity"}, {"slug": "charity-and-the-tongue", "title": "Charity and the Tongue"}, {"slug": "judgments-charity", "title": "Judgments (Charity)"}]
+related: [{"slug": "temperance", "title": "Temperance"}, {"slug": "patience-in-adversity", "title": "Patience in Adversity"}, {"slug": "on-temperance", "title": "On Temperance"}, {"slug": "patience", "title": "Patience"}, {"slug": "the-prodigal-son", "title": "The Prodigal Son"}]
 ---
 
 By Fr. Conor Donnelly

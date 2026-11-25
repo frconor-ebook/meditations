@@ -8,7 +8,7 @@ prev_slug: the-syrophoenician-woman
 prev_title: "The Syrophoenician Woman"
 next_slug: the-third-sunday-of-st-joseph-2026
 next_title: "The Third Sunday of St. Joseph (2026)"
-related: [{"slug": "payment-of-the-temple-tax", "title": "Payment of the Temple Tax"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
+related: [{"slug": "payment-of-the-temple-tax", "title": "Payment of the Temple Tax"}, {"slug": "helping-to-do-good", "title": "Helping To Do Good"}, {"slug": "much-will-be-demanded-responsibility", "title": "Much Will Be Demanded: Responsibility"}, {"slug": "the-dignity-of-work", "title": "The Dignity of Work"}, {"slug": "the-syrophoenician-woman", "title": "The Syrophoenician Woman"}]
 ---
 
 By Fr. Conor Donnelly

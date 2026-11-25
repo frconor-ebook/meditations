@@ -8,7 +8,7 @@ prev_slug: waiting-for-the-lord
 prev_title: "Waiting for The Lord"
 next_slug: watchfulness
 next_title: "Watchfulness"
-related: [{"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "growing-in-faith", "title": "Growing in Faith"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}]
+related: [{"slug": "the-storm-on-the-lake", "title": "The Storm on the Lake"}, {"slug": "the-centurion-and-his-servant", "title": "The Centurion and His Servant"}, {"slug": "apart-from-me-you-can-do-nothing", "title": "Apart From Me You Can Do Nothing"}, {"slug": "our-father-god", "title": "Our Father God"}, {"slug": "even-the-hairs-of-your-head", "title": "Even The Hairs of Your Head"}]
 ---
 
 *By Fr. Conor Donnelly*

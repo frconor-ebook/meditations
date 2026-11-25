@@ -8,7 +8,7 @@ prev_slug: love-for-the-bishop
 prev_title: "Love for the Bishop"
 next_slug: love-for-the-cross
 next_title: "Love for the Cross"
-related: [{"slug": "the-first-martyrs-of-the-church-of-rome", "title": "The First Martyrs of the Church of Rome"}, {"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}]
+related: [{"slug": "st-pius-x", "title": "St. Pius X"}, {"slug": "st-pius-x-2026", "title": "St. Pius X (2026)"}, {"slug": "love-for-peter", "title": "Love for Peter"}, {"slug": "love-for-priests", "title": "Love For Priests"}, {"slug": "the-love-of-god", "title": "The Love of God"}]
 ---
 
 By Fr. Conor Donnelly

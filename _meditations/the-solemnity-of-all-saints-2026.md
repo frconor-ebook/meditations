@@ -8,7 +8,7 @@ prev_slug: the-sixth-sunday-of-st-joseph-2026
 prev_title: "The Sixth Sunday of St. Joseph (2026)"
 next_slug: the-solemnity-of-st-joseph-2026
 next_title: "The Solemnity of St. Joseph (2026)"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "the-solemnity-of-st-joseph-2026", "title": "The Solemnity of St. Joseph (2026)"}]
+related: [{"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "the-commemoration-of-all-souls-2026", "title": "The Commemoration of All Souls (2026)"}, {"slug": "the-last-day-of-the-liturgical-year-vigilance", "title": "The Last Day of the Liturgical Year (Vigilance)"}, {"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}, {"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}]
 ---
 
 

@@ -7,6 +7,7 @@ prev_slug: the-infinite-love-of-god
 prev_title: "The Infinite Love of God"
 next_slug: the-joy-of-the-journey-to-bethlehem
 next_title: "The Joy of the Journey to Bethlehem"
+related: [{"slug": "the-artisan-of-nazareth", "title": "The Artisan of Nazareth"}, {"slug": "the-light-of-the-world", "title": "The Light of the World"}, {"slug": "the-way-the-truth-and-the-life", "title": "The Way, the Truth, and the Life"}, {"slug": "the-depths-of-simplicity", "title": "The Depths of Simplicity"}, {"slug": "divine-intimacies", "title": "Divine Intimacies"}]
 ---
 
 

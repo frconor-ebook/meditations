@@ -7,7 +7,7 @@ prev_slug: generosity-in-correspondence
 prev_title: "Generosity in Correspondence"
 next_slug: god-of-consolation
 next_title: "God of Consolation"
-related: [{"slug": "conjugal-love", "title": "Conjugal Love"}, {"slug": "love-for-priests", "title": "Love For Priests"}, {"slug": "love-for-chastity", "title": "Love for Chastity"}]
+related: [{"slug": "charity", "title": "Charity"}, {"slug": "passionately-loving-the-world", "title": "Passionately Loving the World"}, {"slug": "the-love-of-god", "title": "The Love of God"}, {"slug": "pro-active-love", "title": "Pro-Active Love"}, {"slug": "the-birthday-of-the-prelate-don-fernando", "title": "The Birthday of the Prelate (Don Fernando)"}]
 ---
 
 By Fr. Conor Donnelly

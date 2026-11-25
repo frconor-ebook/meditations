@@ -8,7 +8,7 @@ prev_slug: exalted
 prev_title: "Exalted"
 next_slug: faithfulness
 next_title: "Faithfulness"
-related: [{"slug": "conscience-the-light-of-the-soul", "title": "Conscience, The Light of the Soul"}, {"slug": "abandonment", "title": "Abandonment"}, {"slug": "contemplative-soul", "title": "Contemplative Soul"}]
+related: [{"slug": "reading-the-signs", "title": "Reading the Signs"}, {"slug": "purity-of-the-heart", "title": "Purity of the Heart"}, {"slug": "preparing-to-receive-jesus", "title": "Preparing to Receive Jesus"}, {"slug": "st-john-the-baptist", "title": "St. John the Baptist"}, {"slug": "waiting-for-the-lord", "title": "Waiting for The Lord"}]
 ---
 
 By Fr. Conor Donnelly

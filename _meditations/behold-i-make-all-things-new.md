@@ -7,7 +7,7 @@ prev_slug: beginning-again
 prev_title: "Beginning Again"
 next_slug: blessed-are-the-merciful
 next_title: "Blessed Are The Merciful"
-related: [{"slug": "little-things", "title": "Little Things"}, {"slug": "the-last-things", "title": "The Last Things"}, {"slug": "the-truth-will-make-you-free", "title": "The Truth Will Make You Free"}]
+related: [{"slug": "the-battle", "title": "The Battle"}, {"slug": "the-clean-of-heart-after-edward-leen", "title": "The Clean of Heart (after Edward Leen)"}, {"slug": "this-body-of-death", "title": "This Body of Death"}, {"slug": "the-house-of-god", "title": "The House of God"}, {"slug": "jesus-therefore-wearied-from-his-journey", "title": "Jesus Therefore, Wearied from His Journey"}]
 ---
 
 By Fr. Conor Donnelly

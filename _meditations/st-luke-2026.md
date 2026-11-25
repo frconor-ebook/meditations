@@ -8,7 +8,7 @@ prev_slug: st-luke
 prev_title: "St. Luke"
 next_slug: st-mark
 next_title: "St. Mark"
-related: [{"slug": "st-luke", "title": "St. Luke"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
+related: [{"slug": "st-luke", "title": "St. Luke"}, {"slug": "our-lady-of-ransom-2026", "title": "Our Lady of Ransom (2026)"}, {"slug": "our-lady-of-the-rosary-2026", "title": "Our Lady of the Rosary (2026)"}, {"slug": "my-words-will-not-pass-away", "title": "My Words Will Not Pass Away"}, {"slug": "the-guardian-angels-2026", "title": "The Guardian Angels (2026)"}]
 ---
 
 By Fr. Conor Donnelly

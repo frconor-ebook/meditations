@@ -8,7 +8,7 @@ prev_slug: our-lady
 prev_title: "Our Lady"
 next_slug: our-lady-of-africa
 next_title: "Our Lady of Africa"
-related: [{"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
+related: [{"slug": "the-syrophoenician-woman", "title": "The Syrophoenician Woman"}, {"slug": "mother-of-the-church", "title": "Mother of the Church"}, {"slug": "our-ladys-fidelity", "title": "Our Lady\u2019s Fidelity"}, {"slug": "our-mother-in-may", "title": "Our Mother in May"}, {"slug": "the-visitation-of-our-lady", "title": "The Visitation of Our Lady"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: preparing-to-receive-jesus
 prev_title: "Preparing to Receive Jesus"
 next_slug: prince-of-peace
 next_title: "Prince of Peace"
-related: [{"slug": "the-real-presence", "title": "The Real Presence"}, {"slug": "the-real-presence-after-thomas-mcgovern", "title": "The Real Presence (after Thomas McGovern)"}, {"slug": "abandonment", "title": "Abandonment"}]
+related: [{"slug": "our-father-god", "title": "Our Father God"}, {"slug": "the-universal-call-to-contemplation", "title": "The Universal Call to Contemplation"}, {"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "waiting-for-the-lord", "title": "Waiting for The Lord"}, {"slug": "children-of-god", "title": "Children of God"}]
 ---
 
 By Fr. Conor Donnelly

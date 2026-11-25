@@ -8,7 +8,7 @@ prev_slug: the-commemoration-of-all-souls-2026
 prev_title: "The Commemoration of All Souls (2026)"
 next_slug: the-conversion-of-st-paul
 next_title: "The Conversion of St. Paul"
-related: [{"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}]
+related: [{"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}, {"slug": "passion-for-unity", "title": "Passion for Unity"}, {"slug": "friendship-and-confidence", "title": "Friendship and Confidence"}, {"slug": "humility", "title": "Humility"}, {"slug": "the-apostolate", "title": "The Apostolate"}]
 ---
 
 By Fr. Conor Donnelly

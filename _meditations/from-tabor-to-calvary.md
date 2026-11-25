@@ -8,7 +8,7 @@ prev_slug: friendship-with-jesus
 prev_title: "Friendship with Jesus"
 next_slug: fruits-of-the-holy-spirit
 next_title: "Fruits of the Holy Spirit"
-related: [{"slug": "gamblers-on-calvary", "title": "Gamblers On Calvary"}, {"slug": "apart-from-me-you-can-do-nothing", "title": "Apart From Me You Can Do Nothing"}, {"slug": "jesus-therefore-wearied-from-his-journey", "title": "Jesus Therefore, Wearied from His Journey"}]
+related: [{"slug": "placing-the-cross-on-the-summit-of-all-human-activities", "title": "Placing the Cross on the Summit of All Human Activities"}, {"slug": "the-transfiguration", "title": "The Transfiguration"}, {"slug": "cheerfulness", "title": "Cheerfulness"}, {"slug": "love-for-the-cross", "title": "Love for the Cross"}, {"slug": "on-hope", "title": "On Hope"}]
 ---
 
 By Fr. Conor Donnelly

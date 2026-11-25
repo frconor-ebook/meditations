@@ -8,7 +8,7 @@ prev_slug: the-real-presence
 prev_title: "The Real Presence"
 next_slug: the-resurrection
 next_title: "The Resurrection"
-related: [{"slug": "the-real-presence", "title": "The Real Presence"}, {"slug": "st-thomas-aquinas-after-edward-leen", "title": "St Thomas Aquinas (After Edward Leen)"}, {"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}]
+related: [{"slug": "the-incarnation-and-the-eucharist", "title": "The Incarnation and the Eucharist"}, {"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}, {"slug": "appreciating-the-gift", "title": "Appreciating the Gift"}, {"slug": "a-mystery-to-be-lived", "title": "A Mystery to Be Lived"}, {"slug": "inestimable-gift", "title": "Inestimable Gift"}]
 ---
 
 

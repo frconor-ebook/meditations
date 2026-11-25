@@ -8,7 +8,7 @@ prev_slug: salt-that-has-lost-its-savor
 prev_title: "Salt That Has Lost Its Savor"
 next_slug: seed-and-grace
 next_title: "Seed and Grace"
-related: [{"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}, {"slug": "the-light-of-the-world", "title": "The Light of the World"}, {"slug": "christ-the-light", "title": "Christ the Light"}]
+related: [{"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}, {"slug": "christ-the-light", "title": "Christ the Light"}, {"slug": "unity-of-life", "title": "Unity of Life"}, {"slug": "conscience-the-light-of-the-soul", "title": "Conscience, The Light of the Soul"}, {"slug": "enlarging-the-heart", "title": "Enlarging the Heart"}]
 ---
 
 By Fr. Conor Donnelly

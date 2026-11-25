@@ -8,7 +8,7 @@ prev_slug: st-therese-of-lisieux
 prev_title: "St. Th\u00e9r\u00e8se of Lisieux"
 next_slug: sts-martha-mary-and-lazarus
 next_title: "Sts. Martha, Mary, and Lazarus"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "st-benedict", "title": "St. Benedict"}, {"slug": "sts-timothy-and-titus", "title": "Sts. Timothy and Titus"}, {"slug": "i-came-to-cast-fire-on-earth", "title": "I Came To Cast Fire On Earth"}, {"slug": "christian-identity", "title": "Christian Identity"}, {"slug": "fire-on-earth", "title": "Fire On Earth"}]
 ---
 
 By Fr. Conor Donnelly

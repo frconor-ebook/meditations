@@ -8,7 +8,7 @@ prev_slug: trinity-sunday-2026
 prev_title: "Trinity Sunday (2026)"
 next_slug: true-and-false-freedom
 next_title: "True and False Freedom"
-related: [{"slug": "growth-in-prayer", "title": "Growth in Prayer"}, {"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}]
+related: [{"slug": "the-pharisee-and-the-publican", "title": "The Pharisee and the Publican"}, {"slug": "personal-prayer", "title": "Personal Prayer"}, {"slug": "learning-to-ask", "title": "Learning to Ask"}, {"slug": "the-pharisee-and-the-publican-2027", "title": "The Pharisee and the Publican (2027)"}, {"slug": "souls-of-prayer", "title": "Souls of Prayer"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: the-narrow-path
 prev_title: "The Narrow Path"
 next_slug: the-obedience-of-jesus
 next_title: "The Obedience of Jesus"
-related: [{"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
+related: [{"slug": "the-holy-name-of-mary", "title": "The Holy Name of Mary"}, {"slug": "st-monica", "title": "St. Monica"}, {"slug": "the-immaculate-conception-dec-8", "title": "The Immaculate Conception (Dec. 8)"}, {"slug": "our-lady-of-ransom", "title": "Our Lady of Ransom"}, {"slug": "the-love-of-god", "title": "The Love of God"}]
 ---
 
 By Fr. Conor Donnelly

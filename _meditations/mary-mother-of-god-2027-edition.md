@@ -8,7 +8,7 @@ prev_slug: martha-martha
 prev_title: "Martha, Martha"
 next_slug: mary-of-bethanys-authentic-love
 next_title: "Mary of Bethany\u2019s Authentic Love"
-related: [{"slug": "mary-mother-of-god", "title": "Mary, Mother of God"}, {"slug": "mary-mother-of-god-2nd-ed", "title": "Mary, Mother of God (2nd Ed.)"}, {"slug": "at-the-school-of-mary", "title": "At the School of Mary"}]
+related: [{"slug": "mary-mother-of-god", "title": "Mary, Mother of God"}, {"slug": "mother-of-the-church", "title": "Mother of the Church"}, {"slug": "simeon-and-anna", "title": "Simeon and Anna"}, {"slug": "the-last-day-of-the-year-dec-31", "title": "The Last Day of the Year (Dec. 31)"}, {"slug": "the-annunciation-advent", "title": "The Annunciation (Advent)"}]
 ---
 
 

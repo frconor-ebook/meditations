@@ -8,7 +8,7 @@ prev_slug: waiting-for-jesus
 prev_title: "Waiting for Jesus"
 next_slug: walking-on-the-waterfaith
 next_title: "Walking on the Water\u2013\u2013Faith"
-related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}, {"slug": "the-epiphany-of-our-lord-2027-edition", "title": "The Epiphany of Our Lord (2027 Edition)"}]
+related: [{"slug": "with-the-readiness-of-lovevigilance", "title": "With the Readiness of Love\u2014Vigilance"}, {"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}, {"slug": "the-last-day-of-the-liturgical-year-vigilance", "title": "The Last Day of the Liturgical Year (Vigilance)"}, {"slug": "the-end-of-life", "title": "The End of Life"}, {"slug": "against-all-hope", "title": "Against All Hope"}]
 ---
 
 By Fr. Conor Donnelly

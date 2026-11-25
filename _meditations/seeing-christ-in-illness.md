@@ -8,7 +8,7 @@ prev_slug: seed-and-grace
 prev_title: "Seed and Grace"
 next_slug: self-denial
 next_title: "Self-Denial"
-related: [{"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}, {"slug": "christ-is-passing-by", "title": "Christ Is Passing By"}, {"slug": "christ-the-king", "title": "Christ the King"}]
+related: [{"slug": "sick-and-you-visited-me", "title": "Sick and You Visited Me"}, {"slug": "our-lady-of-sorrows-2026", "title": "Our Lady of Sorrows (2026)"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "the-exaltation-of-the-holy-cross", "title": "The Exaltation of the Holy Cross"}]
 ---
 
 By Fr. Conor Donnelly

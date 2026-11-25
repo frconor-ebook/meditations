@@ -8,7 +8,7 @@ prev_slug: our-lady-woman-of-the-eucharist
 prev_title: "Our Lady, Woman of the Eucharist"
 next_slug: our-mother-in-may
 next_title: "Our Mother in May"
-related: [{"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
+related: [{"slug": "faithfulness", "title": "Faithfulness"}, {"slug": "the-annunciation-advent", "title": "The Annunciation (Advent)"}, {"slug": "simeon-and-anna", "title": "Simeon and Anna"}, {"slug": "the-annunciation", "title": "The Annunciation"}, {"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}]
 ---
 
 By Fr. Conor Donnelly

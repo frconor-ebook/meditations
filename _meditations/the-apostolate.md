@@ -8,7 +8,7 @@ prev_slug: the-annunciation-advent
 prev_title: "The Annunciation (Advent)"
 next_slug: the-apostolate-of-confession
 next_title: "The Apostolate of Confession"
-related: [{"slug": "on-apostolate", "title": "On Apostolate"}, {"slug": "the-apostolate-of-confession", "title": "The Apostolate of Confession"}, {"slug": "the-apostolate-of-the-home", "title": "The Apostolate of the Home"}]
+related: [{"slug": "the-first-disciples", "title": "The First Disciples"}, {"slug": "st-john", "title": "St. John"}, {"slug": "friendship-and-confidence", "title": "Friendship and Confidence"}, {"slug": "fishers-of-men", "title": "Fishers of Men"}, {"slug": "the-creative-courage-of-st-joseph", "title": "The Creative Courage of St. Joseph"}]
 ---
 
 By Fr. Conor Donnelly

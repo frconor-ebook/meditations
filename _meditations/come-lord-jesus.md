@@ -8,7 +8,7 @@ prev_slug: clean-of-heart
 prev_title: "Clean of Heart"
 next_slug: conjugal-love
 next_title: "Conjugal Love"
-related: [{"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}, {"slug": "the-epiphany-of-our-lord-2027-edition", "title": "The Epiphany of Our Lord (2027 Edition)"}, {"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}]
+related: [{"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}, {"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}, {"slug": "christmas", "title": "Christmas"}, {"slug": "the-apostolate-of-confession", "title": "The Apostolate of Confession"}, {"slug": "watchfulness", "title": "Watchfulness"}]
 ---
 
 By Fr. Conor Donnelly

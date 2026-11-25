@@ -7,7 +7,7 @@ prev_slug: study
 prev_title: "Study"
 next_slug: taking-the-bread
 next_title: "Taking the Bread"
-related: [{"slug": "doctrinal-formation", "title": "Doctrinal Formation"}, {"slug": "on-formation", "title": "On Formation"}, {"slug": "taking-the-bread", "title": "Taking the Bread"}]
+related: [{"slug": "piety", "title": "Piety"}, {"slug": "study", "title": "Study"}, {"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}, {"slug": "pro-active-love", "title": "Pro-Active Love"}]
 ---
 
 By Fr. Conor Donnelly

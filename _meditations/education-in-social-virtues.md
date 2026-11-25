@@ -8,7 +8,7 @@ prev_slug: easter-sunday
 prev_title: "Easter Sunday"
 next_slug: egypt-and-the-holy-family
 next_title: "Egypt and the Holy Family"
-related: [{"slug": "christian-virtues", "title": "Christian Virtues"}, {"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "conjugal-love", "title": "Conjugal Love"}]
+related: [{"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "obedience", "title": "Obedience"}, {"slug": "the-healing-of-the-ten-lepers", "title": "The Healing of the Ten Lepers"}, {"slug": "piety", "title": "Piety"}, {"slug": "defending-the-family", "title": "Defending the Family"}]
 ---
 
 By Fr. Conor Donnelly

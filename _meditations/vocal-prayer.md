@@ -8,7 +8,7 @@ prev_slug: vigilance-and-the-rosary
 prev_title: "Vigilance and the Rosary"
 next_slug: waiting-for-jesus
 next_title: "Waiting for Jesus"
-related: [{"slug": "growth-in-prayer", "title": "Growth in Prayer"}, {"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}]
+related: [{"slug": "transformation-through-prayer", "title": "Transformation Through Prayer"}, {"slug": "growth-in-prayer", "title": "Growth in Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}, {"slug": "i-am-the-vine", "title": "I Am the Vine"}, {"slug": "this-body-of-death", "title": "This Body of Death"}]
 ---
 
 

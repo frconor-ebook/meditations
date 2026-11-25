@@ -8,7 +8,7 @@ prev_slug: on-work
 prev_title: "On Work"
 next_slug: order
 next_title: "Order"
-related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
+related: [{"slug": "increase-my-faith", "title": "Increase My Faith"}, {"slug": "perseverance", "title": "Perseverance"}, {"slug": "preparing-for-retreat", "title": "Preparing for Retreat"}, {"slug": "correspondence-to-grace", "title": "Correspondence to Grace"}, {"slug": "magnanimity", "title": "Magnanimity"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: deeper-desire
 prev_title: "Deeper Desire"
 next_slug: discerning-ones-vocation
 next_title: "Discerning One's Vocation"
-related: [{"slug": "egypt-and-the-holy-family", "title": "Egypt and the Holy Family"}, {"slug": "heart-in-the-family", "title": "Heart in the Family"}, {"slug": "st-joseph-the-family-man", "title": "St. Joseph, The Family Man"}]
+related: [{"slug": "til-death-do-us-part", "title": "\u2018Til Death Do Us Part"}, {"slug": "education-in-social-virtues", "title": "Education In Social Virtues"}, {"slug": "fidelity-in-marriage", "title": "Fidelity in Marriage"}, {"slug": "marriage-and-indissolubility", "title": "Marriage and Indissolubility"}, {"slug": "heart-in-the-family", "title": "Heart in the Family"}]
 ---
 
 By Fr. Conor Donnelly

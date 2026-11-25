@@ -8,7 +8,7 @@ prev_slug: st-stephen
 prev_title: "St. Stephen"
 next_slug: st-teresa-of-avila
 next_title: "St. Teresa of \u00c1vila"
-related: [{"slug": "cross-rejection", "title": "Cross Rejection"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}, {"slug": "joy-in-the-cross-lent", "title": "Joy in the Cross (Lent)"}]
+related: [{"slug": "the-passion-of-st-john-the-baptist", "title": "The Passion of St. John the Baptist"}, {"slug": "conscience-the-light-of-the-soul", "title": "Conscience, The Light of the Soul"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}, {"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}]
 ---
 
 By Fr. Conor Donnelly

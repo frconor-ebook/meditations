@@ -7,7 +7,7 @@ prev_slug: a-christian-outlook-on-death
 prev_title: "A Christian Outlook on Death"
 next_slug: a-merciful-messiah
 next_title: "A Merciful Messiah"
-related: [{"slug": "walking-on-the-waterfaith", "title": "Walking on the Water\u2013\u2013Faith"}]
+related: [{"slug": "generosity-in-correspondence", "title": "Generosity in Correspondence"}, {"slug": "spirit-of-service", "title": "Spirit of Service"}, {"slug": "understanding", "title": "Understanding"}, {"slug": "true-prayer", "title": "True Prayer"}, {"slug": "todays-task", "title": "Today\u2019s Task"}]
 ---
 
 By Fr. Conor Donnelly

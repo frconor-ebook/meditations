@@ -8,7 +8,7 @@ prev_slug: zacchaeus
 prev_title: "Zacchaeus"
 next_slug: til-death-do-us-part
 next_title: "\u2018Til Death Do Us Part"
-related: [{"slug": "fidelity-in-marriage", "title": "Fidelity in Marriage"}, {"slug": "marriage-and-indissolubility", "title": "Marriage and Indissolubility"}, {"slug": "marriage-in-heaven", "title": "Marriage in Heaven"}]
+related: [{"slug": "fidelity-in-marriage", "title": "Fidelity in Marriage"}, {"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "charity", "title": "Charity"}, {"slug": "heart-in-the-family", "title": "Heart in the Family"}, {"slug": "love-for-the-cross", "title": "Love for the Cross"}]
 ---
 
 By Fr. Conor Donnelly

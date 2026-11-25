@@ -8,7 +8,7 @@ prev_slug: the-saints-day-of-the-prelate
 prev_title: "The Saint\u2019s Day of the Prelate"
 next_slug: the-sanctification-of-later-years
 next_title: "The Sanctification of Later Years"
-related: [{"slug": "the-sanctification-of-later-years", "title": "The Sanctification of Later Years"}, {"slug": "the-sanctification-of-low-moments", "title": "The Sanctification of Low Moments"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}]
+related: [{"slug": "deeper-desire", "title": "Deeper Desire"}, {"slug": "the-martyrdom-of-st-john-the-baptist", "title": "The Martyrdom of St. John the Baptist"}, {"slug": "st-stephen", "title": "St. Stephen"}, {"slug": "the-harvest-is-plentiful", "title": "The Harvest is Plentiful"}, {"slug": "the-parable-of-the-weeds", "title": "The Parable of the Weeds"}]
 ---
 
 By Fr. Conor Donnelly

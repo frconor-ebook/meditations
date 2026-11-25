@@ -8,7 +8,7 @@ prev_slug: the-artisan-of-nazareth
 prev_title: "The Artisan of Nazareth"
 next_slug: the-assumption-of-our-lady
 next_title: "The Assumption of Our Lady"
-related: [{"slug": "ash-wednesday", "title": "Ash Wednesday"}, {"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "easter-joy", "title": "Easter Joy"}]
+related: [{"slug": "st-matthias", "title": "St. Matthias"}, {"slug": "emmaus", "title": "Emmaus"}, {"slug": "the-multiplication-of-the-loaves-and-fish", "title": "The Multiplication of the Loaves and Fish"}, {"slug": "the-miraculous-catch-of-fish", "title": "The Miraculous Catch of Fish"}, {"slug": "on-hope", "title": "On Hope"}]
 ---
 
 By Fr. Conor Donnelly

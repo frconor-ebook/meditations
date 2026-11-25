@@ -8,7 +8,7 @@ prev_slug: the-nativity-of-our-lady
 prev_title: "The Nativity of Our Lady"
 next_slug: the-one-who-gives-us-jesus
 next_title: "The One Who Gives Us Jesus"
-related: [{"slug": "obedience", "title": "Obedience"}, {"slug": "obedience-in-bethlehem", "title": "Obedience in Bethlehem"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}]
+related: [{"slug": "finding-jesus", "title": "Finding Jesus"}, {"slug": "obedience", "title": "Obedience"}, {"slug": "learning-to-ask", "title": "Learning to Ask"}, {"slug": "education-in-social-virtues", "title": "Education In Social Virtues"}, {"slug": "knowing-god-through-mary", "title": "Knowing God Through Mary"}]
 ---
 
 By Fr. Conor Donnelly

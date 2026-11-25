@@ -7,7 +7,7 @@ prev_slug: the-lost-sheep
 prev_title: "The Lost Sheep"
 next_slug: the-magnificat
 next_title: "The Magnificat"
-related: [{"slug": "conjugal-love", "title": "Conjugal Love"}, {"slug": "god-has-captured-me-with-his-love", "title": "God Has Captured Me With His Love"}, {"slug": "love-for-priests", "title": "Love For Priests"}]
+related: [{"slug": "self-love-the-enemy", "title": "Self-Love: The Enemy"}, {"slug": "god-has-captured-me-with-his-love", "title": "God Has Captured Me With His Love"}, {"slug": "generosity-in-correspondence", "title": "Generosity in Correspondence"}, {"slug": "the-infinite-love-of-god", "title": "The Infinite Love of God"}, {"slug": "the-mass", "title": "The Mass"}]
 ---
 
 By Fr. Conor Donnelly

@@ -7,6 +7,7 @@ prev_slug: intimacy-with-god-after-edward-leen
 prev_title: "Intimacy with God (after Edward Leen)"
 next_slug: it-is-right-and-just
 next_title: "It Is Right and Just"
+related: [{"slug": "the-syrophoenician-woman", "title": "The Syrophoenician Woman"}, {"slug": "our-ladys-fidelity", "title": "Our Lady\u2019s Fidelity"}, {"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}, {"slug": "the-cure-of-the-possessed-boy", "title": "The Cure of the Possessed Boy"}]
 ---
 
 By Fr. Conor Donnelly

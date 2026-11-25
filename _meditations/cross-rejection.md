@@ -8,7 +8,7 @@ prev_slug: crises-be-not-afraid
 prev_title: "Crises: Be Not Afraid"
 next_slug: daily-mass
 next_title: "Daily Mass"
-related: [{"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}, {"slug": "joy-in-the-cross-lent", "title": "Joy in the Cross (Lent)"}, {"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}]
+related: [{"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}, {"slug": "gratitude-for-pope-benedict-xvi", "title": "Gratitude for Pope Benedict XVI"}, {"slug": "joy-in-the-cross-lent", "title": "Joy in the Cross (Lent)"}, {"slug": "peter-and-prayer", "title": "Peter and Prayer"}, {"slug": "charity-and-the-tongue", "title": "Charity and the Tongue"}]
 ---
 
 By Fr. Conor Donnelly

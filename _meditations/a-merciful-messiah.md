@@ -8,7 +8,7 @@ prev_slug: a-cup-of-cold-water
 prev_title: "A Cup of Cold Water"
 next_slug: a-mystery-to-be-lived
 next_title: "A Mystery to Be Lived"
-related: [{"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "contrition", "title": "Contrition"}, {"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}]
+related: [{"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "our-lady-mother-of-mercy", "title": "Our Lady, Mother of Mercy"}, {"slug": "sick-and-you-visited-me", "title": "Sick and You Visited Me"}, {"slug": "zacchaeus", "title": "Zacchaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
 ---
 
 By Fr. Conor Donnelly

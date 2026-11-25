@@ -7,7 +7,7 @@ prev_slug: fidelity-in-marriage
 prev_title: "Fidelity in Marriage"
 next_slug: fire-on-earth
 next_title: "Fire On Earth"
-related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}, {"slug": "holy-communion-jesus-is-mine", "title": "Holy Communion: Jesus Is Mine"}]
+related: [{"slug": "the-obedience-of-jesus", "title": "The Obedience of Jesus"}, {"slug": "learning-to-ask", "title": "Learning to Ask"}, {"slug": "naturalness-and-simplicity", "title": "Naturalness and Simplicity"}, {"slug": "reading-the-signs", "title": "Reading the Signs"}, {"slug": "my-words-will-not-pass-away", "title": "My Words Will Not Pass Away"}]
 ---
 
 By Fr. Conor Donnelly

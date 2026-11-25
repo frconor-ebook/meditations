@@ -8,7 +8,7 @@ prev_slug: the-mass-and-personal-self-surrender
 prev_title: "The Mass and Personal Self-Surrender"
 next_slug: the-miraculous-catch-of-fish
 next_title: "The Miraculous Catch of Fish"
-related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
+related: [{"slug": "our-lady-comforter-of-the-afflicted", "title": "Our Lady, Comforter of the Afflicted"}, {"slug": "a-cup-of-cold-water", "title": "A Cup of Cold Water"}, {"slug": "the-nativity-of-our-lady", "title": "The Nativity of Our Lady"}, {"slug": "learning-to-ask", "title": "Learning to Ask"}, {"slug": "reading-of-the-gospels-to-get-to-know-jesus-christ", "title": "Reading of the Gospels to get to know Jesus Christ"}]
 ---
 
 By Fr. Conor Donnelly

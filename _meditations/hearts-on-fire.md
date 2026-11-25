@@ -7,7 +7,7 @@ prev_slug: heart-in-the-family
 prev_title: "Heart in the Family"
 next_slug: heaven-and-vigilance
 next_title: "Heaven and Vigilance"
-related: [{"slug": "do-not-let-your-hearts-be-troubled", "title": "Do Not Let Your Hearts Be Troubled"}, {"slug": "fire-on-earth", "title": "Fire On Earth"}, {"slug": "i-came-to-cast-fire-on-earth", "title": "I Came To Cast Fire On Earth"}]
+related: [{"slug": "the-paralytic-and-his-friends", "title": "The Paralytic and His Friends"}, {"slug": "st-francis-de-sales", "title": "St. Francis de Sales"}, {"slug": "fire-on-earth", "title": "Fire On Earth"}, {"slug": "the-harvest-is-plentiful", "title": "The Harvest is Plentiful"}, {"slug": "christian-identity", "title": "Christian Identity"}]
 ---
 
 By Fr. Conor Donnelly

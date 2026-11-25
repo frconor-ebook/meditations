@@ -8,7 +8,7 @@ prev_slug: st-simon-and-st-jude
 prev_title: "St. Simon and St. Jude"
 next_slug: st-teresa-benedicta-of-the-cross-edith-stein
 next_title: "St. Teresa Benedicta of the Cross (Edith Stein)"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "the-feast-of-the-holy-innocents-2025", "title": "The Feast of the Holy Innocents, 2025"}, {"slug": "on-hope", "title": "On Hope"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "the-martyrdom-of-st-john-the-baptist", "title": "The Martyrdom of St. John the Baptist"}, {"slug": "the-end-of-life", "title": "The End of Life"}]
 ---
 
 By Fr. Conor Donnelly

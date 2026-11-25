@@ -7,7 +7,7 @@ prev_slug: useless-servants
 prev_title: "Useless Servants"
 next_slug: vigilance-and-the-rosary
 next_title: "Vigilance and the Rosary"
-related: [{"slug": "increase-my-faith", "title": "Increase My Faith"}]
+related: [{"slug": "humility-relying-on-god", "title": "Humility: Relying on God"}, {"slug": "self-denial", "title": "Self-Denial"}, {"slug": "self-love-the-enemy", "title": "Self-Love: The Enemy"}, {"slug": "rectitude-of-intention", "title": "Rectitude of Intention"}, {"slug": "study", "title": "Study"}]
 ---
 
 By Fr. Conor Donnelly

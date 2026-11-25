@@ -8,7 +8,7 @@ prev_slug: the-gift-of-fear-of-the-lord
 prev_title: "The Gift of Fear of the Lord"
 next_slug: the-gift-of-knowledge
 next_title: "The Gift of Knowledge"
-related: [{"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}, {"slug": "the-gift-of-fear-of-the-lord", "title": "The Gift of Fear of the Lord"}, {"slug": "the-gift-of-knowledge", "title": "The Gift of Knowledge"}]
+related: [{"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}, {"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}, {"slug": "the-gift-of-piety", "title": "The Gift of Piety"}, {"slug": "patience", "title": "Patience"}, {"slug": "temperance", "title": "Temperance"}]
 ---
 
 By Fr. Conor Donnelly

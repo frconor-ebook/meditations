@@ -8,7 +8,7 @@ prev_slug: inestimable-gift
 prev_title: "Inestimable Gift"
 next_slug: interior-peace
 next_title: "Interior Peace"
-related: [{"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "growing-in-faith", "title": "Growing in Faith"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}]
+related: [{"slug": "even-the-hairs-of-your-head", "title": "Even The Hairs of Your Head"}, {"slug": "life-of-faith", "title": "Life of Faith"}, {"slug": "touching-god-in-prayer", "title": "Touching God in Prayer"}, {"slug": "st-thomas", "title": "St. Thomas"}, {"slug": "the-immaculate-heart-of-mary", "title": "The Immaculate Heart of Mary"}]
 ---
 
 By Fr. Conor Donnelly

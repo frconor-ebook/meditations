@@ -8,7 +8,7 @@ prev_slug: the-purification-of-our-lady
 prev_title: "The Purification of Our Lady"
 next_slug: the-real-presence
 next_title: "The Real Presence"
-related: [{"slug": "sts-martha-mary-and-lazarus", "title": "Sts. Martha, Mary, and Lazarus"}, {"slug": "the-parable-of-the-rich-man-and-lazarus", "title": "The Parable of the Rich Man and Lazarus"}, {"slug": "bartimaeus", "title": "Bartimaeus"}]
+related: [{"slug": "the-lost-sheep", "title": "The Lost Sheep"}, {"slug": "judas", "title": "Judas"}, {"slug": "the-resurrection", "title": "The Resurrection"}, {"slug": "palm-sunday", "title": "Palm Sunday"}, {"slug": "personal-prayer", "title": "Personal Prayer"}]
 ---
 
 By Fr. Conor Donnelly

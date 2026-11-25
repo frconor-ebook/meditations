@@ -8,7 +8,7 @@ prev_slug: the-gift-of-knowledge
 prev_title: "The Gift of Knowledge"
 next_slug: the-gift-of-understanding
 next_title: "The Gift of Understanding"
-related: [{"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}, {"slug": "the-gift-of-fear-of-the-lord", "title": "The Gift of Fear of the Lord"}, {"slug": "the-gift-of-fortitude", "title": "The Gift of Fortitude"}]
+related: [{"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}, {"slug": "the-gift-of-knowledge", "title": "The Gift of Knowledge"}, {"slug": "the-gift-of-understanding", "title": "The Gift of Understanding"}, {"slug": "piety", "title": "Piety"}, {"slug": "abandonment", "title": "Abandonment"}]
 ---
 
 By Fr. Conor Donnelly

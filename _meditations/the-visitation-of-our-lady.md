@@ -8,7 +8,7 @@ prev_slug: the-unmerciful-servant
 prev_title: "The Unmerciful Servant"
 next_slug: the-visitation-of-our-lady-2026
 next_title: "The Visitation of Our Lady (2026)"
-related: [{"slug": "the-visitation-of-our-lady-2026", "title": "The Visitation of Our Lady (2026)"}, {"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}]
+related: [{"slug": "mother-of-the-church", "title": "Mother of the Church"}, {"slug": "the-annunciation", "title": "The Annunciation"}, {"slug": "you-are-nothing", "title": "You Are Nothing"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-ladys-fidelity", "title": "Our Lady\u2019s Fidelity"}]
 ---
 
 By Fr. Conor Donnelly

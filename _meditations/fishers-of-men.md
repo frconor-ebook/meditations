@@ -8,7 +8,7 @@ prev_slug: first-thoughts-and-emotions
 prev_title: "First Thoughts and Emotions"
 next_slug: forgiveness
 next_title: "Forgiveness"
-related: [{"slug": "fire-on-earth", "title": "Fire On Earth"}, {"slug": "friendship-and-confidence", "title": "Friendship and Confidence"}, {"slug": "gods-bridge-builder", "title": "God\u2019s Bridge-Builder"}]
+related: [{"slug": "the-apostolate", "title": "The Apostolate"}, {"slug": "on-apostolate", "title": "On Apostolate"}, {"slug": "the-miraculous-catch-of-fish", "title": "The Miraculous Catch of Fish"}, {"slug": "launch-out-into-the-deep", "title": "Launch Out Into The Deep"}, {"slug": "fire-on-earth", "title": "Fire On Earth"}]
 ---
 
 By Fr. Conor Donnelly

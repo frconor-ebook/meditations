@@ -8,7 +8,7 @@ prev_slug: passion-for-unity
 prev_title: "Passion for Unity"
 next_slug: patience
 next_title: "Patience"
-related: [{"slug": "raise-the-world", "title": "Raise the World"}, {"slug": "the-light-of-the-world", "title": "The Light of the World"}, {"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing, Loving, and Living the Eucharist"}]
+related: [{"slug": "the-feast-of-the-holy-family", "title": "The Feast of the Holy Family"}, {"slug": "christ-the-light", "title": "Christ the Light"}, {"slug": "correspondence-to-grace", "title": "Correspondence to Grace"}, {"slug": "god-has-captured-me-with-his-love", "title": "God Has Captured Me With His Love"}, {"slug": "the-birthday-of-the-prelate-don-fernando", "title": "The Birthday of the Prelate (Don Fernando)"}]
 ---
 
 By Fr. Conor Donnelly

@@ -7,6 +7,7 @@ prev_slug: your-one-and-only-father
 prev_title: "Your One and Only Father"
 next_slug: zeal-for-holiness-through-marriage
 next_title: "Zeal for Holiness Through Marriage"
+related: [{"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}, {"slug": "the-unmerciful-servant", "title": "The Unmerciful Servant"}, {"slug": "the-friend-of-sinners", "title": "The Friend of Sinners"}, {"slug": "our-lady-mother-of-mercy", "title": "Our Lady, Mother of Mercy"}]
 ---
 
 

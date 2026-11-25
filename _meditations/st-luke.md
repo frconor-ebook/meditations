@@ -8,7 +8,7 @@ prev_slug: st-justin
 prev_title: "St. Justin"
 next_slug: st-luke-2026
 next_title: "St. Luke (2026)"
-related: [{"slug": "st-luke-2026", "title": "St. Luke (2026)"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
+related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}, {"slug": "the-apostolate", "title": "The Apostolate"}, {"slug": "the-first-disciples", "title": "The First Disciples"}, {"slug": "friendship-and-confidence", "title": "Friendship and Confidence"}]
 ---
 
 By Fr. Conor Donnelly

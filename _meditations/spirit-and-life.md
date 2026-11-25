@@ -7,7 +7,7 @@ prev_slug: sparrows
 prev_title: "Sparrows"
 next_slug: spirit-of-service
 next_title: "Spirit of Service"
-related: [{"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "fruits-of-the-holy-spirit", "title": "Fruits of the Holy Spirit"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}]
+related: [{"slug": "reading-of-the-gospels-to-get-to-know-jesus-christ", "title": "Reading of the Gospels to get to know Jesus Christ"}, {"slug": "my-words-will-not-pass-away", "title": "My Words Will Not Pass Away"}, {"slug": "the-curing-of-the-man-with-an-unclean-spirit", "title": "The Curing of the Man with an Unclean Spirit"}, {"slug": "christ-the-light", "title": "Christ the Light"}, {"slug": "the-good-shepherd", "title": "The Good Shepherd"}]
 ---
 
 By Fr. Conor Donnelly

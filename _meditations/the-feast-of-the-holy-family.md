@@ -8,7 +8,7 @@ prev_slug: the-feast-of-the-archangels-2026
 prev_title: "The Feast of the Archangels (2026)"
 next_slug: the-feast-of-the-holy-innocents-2025
 next_title: "The Feast of the Holy Innocents, 2025"
-related: [{"slug": "egypt-and-the-holy-family", "title": "Egypt and the Holy Family"}, {"slug": "the-feast-of-the-holy-innocents-2025", "title": "The Feast of the Holy Innocents, 2025"}, {"slug": "defending-the-family", "title": "Defending the Family"}]
+related: [{"slug": "the-magnificat", "title": "The Magnificat"}, {"slug": "the-apostolate-of-the-home", "title": "The Apostolate of the Home"}, {"slug": "passionately-loving-the-world", "title": "Passionately Loving the World"}, {"slug": "the-grandfather", "title": "The Grandfather"}, {"slug": "heart-in-the-family", "title": "Heart in the Family"}]
 ---
 
 By Fr. Conor Donnelly

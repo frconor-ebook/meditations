@@ -8,7 +8,7 @@ prev_slug: st-francis-de-sales
 prev_title: "St. Francis de Sales"
 next_slug: st-gabriel
 next_title: "St. Gabriel"
-related: [{"slug": "st-francis-xavier", "title": "St. Francis Xavier"}, {"slug": "st-francis-de-sales", "title": "St. Francis de Sales"}, {"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}]
+related: [{"slug": "poverty-and-detachment", "title": "Poverty and Detachment"}, {"slug": "humility-relying-on-god", "title": "Humility: Relying on God"}, {"slug": "fire-on-earth", "title": "Fire On Earth"}, {"slug": "render-unto-caesar", "title": "Render Unto Caesar"}, {"slug": "the-parable-of-the-talents", "title": "The Parable of the Talents"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: the-anniversary-of-the-ordination-of-st-josemaria
 prev_title: "The Anniversary of the Ordination of St. Josemar\u00eda"
 next_slug: the-anniversary-of-the-women-of-the-prelature
 next_title: "The Anniversary of the Women of the Prelature"
-related: [{"slug": "the-anniversary-of-the-establishment-of-the-prelature", "title": "The Anniversary of the Establishment of the Prelature"}, {"slug": "the-anniversary-of-the-first-holy-communion-of-st-josemaria", "title": "The Anniversary of the First Holy Communion of St. Josemar\u00eda"}, {"slug": "the-anniversary-of-the-ordination-of-st-josemaria", "title": "The Anniversary of the Ordination of St. Josemar\u00eda"}]
+related: [{"slug": "the-anniversary-of-the-ordination-of-st-josemaria", "title": "The Anniversary of the Ordination of St. Josemar\u00eda"}, {"slug": "the-priestly-society-of-the-holy-cross", "title": "The Priestly Society of the Holy Cross"}, {"slug": "the-birthday-of-the-prelate-don-fernando", "title": "The Birthday of the Prelate (Don Fernando)"}, {"slug": "the-mass", "title": "The Mass"}, {"slug": "preparing-for-retreat", "title": "Preparing for Retreat"}]
 ---
 
 By Fr. Conor Donnelly

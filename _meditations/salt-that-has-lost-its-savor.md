@@ -8,7 +8,7 @@ prev_slug: ripples-in-the-ocean
 prev_title: "Ripples in the Ocean"
 next_slug: salt-and-light
 next_title: "Salt and Light"
-related: [{"slug": "salt-and-light", "title": "Salt and Light"}, {"slug": "the-lost-sheep", "title": "The Lost Sheep"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}]
+related: [{"slug": "salt-and-light", "title": "Salt and Light"}, {"slug": "tepidity", "title": "Tepidity"}, {"slug": "true-prayer", "title": "True Prayer"}, {"slug": "spirit-of-service", "title": "Spirit of Service"}, {"slug": "lukewarmness", "title": "Lukewarmness"}]
 ---
 
 By Fr. Conor Donnelly

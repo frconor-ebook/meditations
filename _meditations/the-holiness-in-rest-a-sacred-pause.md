@@ -8,7 +8,7 @@ prev_slug: the-healing-of-the-ten-lepers
 prev_title: "The Healing of the Ten Lepers"
 next_slug: the-holy-innocents
 next_title: "The Holy Innocents"
-related: [{"slug": "st-josephs-holiness-in-ordinary-life", "title": "St. Joseph\u2019s Holiness in Ordinary Life"}, {"slug": "the-sacred-heart-of-jesus", "title": "The Sacred Heart of Jesus"}, {"slug": "the-sacred-heart-of-jesus-2026", "title": "The Sacred Heart of Jesus (2026)"}]
+related: [{"slug": "the-lords-day", "title": "The Lord\u2019s Day"}, {"slug": "martha-martha", "title": "Martha, Martha"}, {"slug": "seeing-christ-in-illness", "title": "Seeing Christ in Illness"}, {"slug": "sts-martha-mary-and-lazarus", "title": "Sts. Martha, Mary, and Lazarus"}, {"slug": "to-serve", "title": "To Serve"}]
 ---
 
 By Fr. Conor Donnelly

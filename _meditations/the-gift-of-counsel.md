@@ -8,7 +8,7 @@ prev_slug: the-friend-of-sinners
 prev_title: "The Friend of Sinners"
 next_slug: the-gift-of-fear-of-the-lord
 next_title: "The Gift of Fear of the Lord"
-related: [{"slug": "the-gift-of-fear-of-the-lord", "title": "The Gift of Fear of the Lord"}, {"slug": "the-gift-of-fortitude", "title": "The Gift of Fortitude"}, {"slug": "the-gift-of-knowledge", "title": "The Gift of Knowledge"}]
+related: [{"slug": "the-gift-of-piety", "title": "The Gift of Piety"}, {"slug": "the-gift-of-knowledge", "title": "The Gift of Knowledge"}, {"slug": "spiritual-direction", "title": "Spiritual Direction"}, {"slug": "abandonment", "title": "Abandonment"}, {"slug": "the-gift-of-fortitude", "title": "The Gift of Fortitude"}]
 ---
 
 By Fr. Conor Donnelly

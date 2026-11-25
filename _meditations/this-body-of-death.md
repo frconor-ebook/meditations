@@ -8,7 +8,7 @@ prev_slug: thirsting-for-justice
 prev_title: "Thirsting for Justice"
 next_slug: to-serve
 next_title: "To Serve"
-related: [{"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}]
+related: [{"slug": "unhappy-man-that-i-am", "title": "Unhappy Man That I Am"}, {"slug": "the-battle", "title": "The Battle"}, {"slug": "the-clean-of-heart-after-edward-leen", "title": "The Clean of Heart (after Edward Leen)"}, {"slug": "behold-i-make-all-things-new", "title": "Behold I Make All Things New"}, {"slug": "vocal-prayer", "title": "Vocal Prayer"}]
 ---
 
 

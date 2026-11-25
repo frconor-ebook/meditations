@@ -8,7 +8,7 @@ prev_slug: little-things
 prev_title: "Little Things"
 next_slug: love-for-priests
 next_title: "Love For Priests"
-related: [{"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}, {"slug": "hell-purgatory-heaven", "title": "Hell, Purgatory, Heaven"}, {"slug": "marriage-in-heaven", "title": "Marriage in Heaven"}]
+related: [{"slug": "the-bent-over-woman", "title": "The Bent Over Woman"}, {"slug": "on-our-way-to-the-house-of-our-father", "title": "On Our Way to The House of Our Father"}, {"slug": "the-narrow-path", "title": "The Narrow Path"}, {"slug": "zacchaeus", "title": "Zacchaeus"}, {"slug": "with-the-readiness-of-lovevigilance", "title": "With the Readiness of Love\u2014Vigilance"}]
 ---
 
 

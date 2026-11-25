@@ -8,7 +8,7 @@ prev_slug: taking-the-bread
 prev_title: "Taking the Bread"
 next_slug: temptation
 next_title: "Temptation"
-related: [{"slug": "on-temperance", "title": "On Temperance"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}]
+related: [{"slug": "on-temperance", "title": "On Temperance"}, {"slug": "charity-versus-anger", "title": "Charity versus Anger"}, {"slug": "clean-of-heart", "title": "Clean of Heart"}, {"slug": "friendship-and-confidence", "title": "Friendship and Confidence"}, {"slug": "mortification", "title": "Mortification"}]
 ---
 
 By Fr. Conor Donnelly

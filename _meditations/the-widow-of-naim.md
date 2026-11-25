@@ -8,7 +8,7 @@ prev_slug: the-way-the-truth-and-the-life
 prev_title: "The Way, the Truth, and the Life"
 next_slug: the-widows-mite
 next_title: "The Widow\u2019s Mite"
-related: [{"slug": "the-widows-mite", "title": "The Widow\u2019s Mite"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
+related: [{"slug": "the-prodigal-son", "title": "The Prodigal Son"}, {"slug": "forgiveness", "title": "Forgiveness"}, {"slug": "the-sacrament-of-growth-and-mercy", "title": "The Sacrament of Growth and Mercy"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}]
 ---
 
 By Fr. Conor Donnelly

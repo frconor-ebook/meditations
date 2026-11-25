@@ -8,7 +8,7 @@ prev_slug: forgiveness
 prev_title: "Forgiveness"
 next_slug: forming-saints-in-the-domestic-church-easter
 next_title: "Forming Saints in the Domestic Church (Easter)"
-related: [{"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}, {"slug": "love-for-the-church-st-pius-x", "title": "Love for the Church (St. Pius X)"}]
+related: [{"slug": "the-faith-of-abraham", "title": "The Faith of Abraham"}, {"slug": "the-beatitudes", "title": "The Beatitudes"}, {"slug": "preparing-for-retreat", "title": "Preparing for Retreat"}, {"slug": "the-apostolate-of-the-home", "title": "The Apostolate of the Home"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}]
 ---
 
 By Fr. Conor Donnelly

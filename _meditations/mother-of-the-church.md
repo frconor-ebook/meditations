@@ -8,7 +8,7 @@ prev_slug: mother-of-god-and-our-mother
 prev_title: "Mother of God and Our Mother"
 next_slug: mothers-day
 next_title: "Mother\u2019s Day"
-related: [{"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}]
+related: [{"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "the-visitation-of-our-lady", "title": "The Visitation of Our Lady"}, {"slug": "mothers-day", "title": "Mother\u2019s Day"}, {"slug": "our-mother-in-may", "title": "Our Mother in May"}, {"slug": "the-anniversary-of-pope-franciss-election", "title": "The Anniversary of Pope Francis\u2019s Election"}]
 ---
 
 By Fr. Conor Donnelly

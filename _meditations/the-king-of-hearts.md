@@ -7,7 +7,7 @@ prev_slug: the-joy-of-the-journey-to-bethlehem
 prev_title: "The Joy of the Journey to Bethlehem"
 next_slug: the-last-day-of-the-liturgical-year-vigilance
 next_title: "The Last Day of the Liturgical Year (Vigilance)"
-related: [{"slug": "christ-the-king", "title": "Christ the King"}, {"slug": "christ-the-king-2026", "title": "Christ the King (2026)"}, {"slug": "christ-the-king-2027", "title": "Christ the King (2027)"}]
+related: [{"slug": "christ-the-king-2026", "title": "Christ the King (2026)"}, {"slug": "the-way-the-truth-and-the-life", "title": "The Way, the Truth, and the Life"}, {"slug": "gamblers-on-calvary", "title": "Gamblers On Calvary"}, {"slug": "the-clean-of-heart-after-edward-leen", "title": "The Clean of Heart (after Edward Leen)"}, {"slug": "the-light-of-the-world", "title": "The Light of the World"}]
 ---
 
 

@@ -8,7 +8,7 @@ prev_slug: st-catherine-of-siena-2026
 prev_title: "St. Catherine of Siena (2026)"
 next_slug: st-francis-xavier
 next_title: "St. Francis Xavier"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "rich-before-god", "title": "Rich Before God"}, {"slug": "where-is-your-heart", "title": "Where Is Your Heart?"}, {"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}, {"slug": "st-augustine", "title": "St. Augustine"}, {"slug": "vigilance-and-the-rosary", "title": "Vigilance and the Rosary"}]
 ---
 
 

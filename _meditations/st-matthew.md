@@ -8,7 +8,7 @@ prev_slug: st-mary-magdalene-2026
 prev_title: "St. Mary Magdalene (2026)"
 next_slug: st-matthias
 next_title: "St. Matthias"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "st-james", "title": "St. James"}, {"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}, {"slug": "st-matthias", "title": "St. Matthias"}, {"slug": "the-healing-of-the-ten-lepers", "title": "The Healing of the Ten Lepers"}]
 ---
 
 By Fr. Conor Donnelly

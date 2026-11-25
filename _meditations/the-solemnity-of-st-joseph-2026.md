@@ -8,7 +8,7 @@ prev_slug: the-solemnity-of-all-saints-2026
 prev_title: "The Solemnity of All Saints (2026)"
 next_slug: the-solemnity-of-the-annunciation-2026
 next_title: "The Solemnity of the Annunciation (2026)"
-related: [{"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}, {"slug": "self-emptying-and-st-joseph", "title": "Self-emptying and St. Joseph"}]
+related: [{"slug": "the-second-sunday-of-st-joseph-2026", "title": "The Second Sunday of St. Joseph (2026)"}, {"slug": "the-first-sunday-of-st-joseph-2026", "title": "The First Sunday of St. Joseph (2026)"}, {"slug": "the-seventh-sunday-of-st-joseph-2026", "title": "The Seventh Sunday of St. Joseph (2026)"}, {"slug": "the-third-sunday-of-st-joseph-2026", "title": "The Third Sunday of St. Joseph (2026)"}, {"slug": "the-sixth-sunday-of-st-joseph-2026", "title": "The Sixth Sunday of St. Joseph (2026)"}]
 ---
 
 

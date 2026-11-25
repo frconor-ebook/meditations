@@ -8,7 +8,7 @@ prev_slug: st-joachim-and-st-anne
 prev_title: "St. Joachim and St. Anne"
 next_slug: st-john-2025-ed
 next_title: "St. John (2025 Ed.)"
-related: [{"slug": "st-john-2025-ed", "title": "St. John (2025 Ed.)"}, {"slug": "st-john-henry-newman-on-friendship", "title": "St. John Henry Newman on Friendship"}, {"slug": "st-john-henry-newman-on-the-laity", "title": "St. John Henry Newman on The Laity"}]
+related: [{"slug": "the-apostolate", "title": "The Apostolate"}, {"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}, {"slug": "christmas", "title": "Christmas"}, {"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}, {"slug": "st-andrew", "title": "St. Andrew"}]
 ---
 
 By Fr. Conor Donnelly

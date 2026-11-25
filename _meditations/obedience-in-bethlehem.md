@@ -8,7 +8,7 @@ prev_slug: obedience
 prev_title: "Obedience"
 next_slug: octave-of-prayer-for-the-unity-of-christians
 next_title: "Octave of Prayer for the Unity of Christians"
-related: [{"slug": "the-decree-of-caesar-augustus-and-the-journey-to-bethlehem", "title": "The Decree of Caesar Augustus and The Journey to Bethlehem"}, {"slug": "the-joy-of-the-journey-to-bethlehem", "title": "The Joy of the Journey to Bethlehem"}, {"slug": "the-light-streaming-from-bethlehem", "title": "The Light Streaming from Bethlehem"}]
+related: [{"slug": "christmas", "title": "Christmas"}, {"slug": "little-things", "title": "Little Things"}, {"slug": "humility", "title": "Humility"}, {"slug": "the-shepherds-and-peace", "title": "The Shepherds and Peace"}, {"slug": "obedience", "title": "Obedience"}]
 ---
 
 By Fr. Conor Donnelly

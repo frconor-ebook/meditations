@@ -8,7 +8,7 @@ prev_slug: appreciating-the-gift
 prev_title: "Appreciating the Gift"
 next_slug: at-st-josephs-side
 next_title: "At St. Joseph\u2019s Side"
-related: [{"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "easter-joy", "title": "Easter Joy"}, {"slug": "easter-sunday", "title": "Easter Sunday"}]
+related: [{"slug": "self-denial", "title": "Self-Denial"}, {"slug": "the-lost-sheep", "title": "The Lost Sheep"}, {"slug": "love-for-the-cross", "title": "Love for the Cross"}, {"slug": "contrition", "title": "Contrition"}, {"slug": "holy-purity", "title": "Holy Purity"}]
 ---
 
 By Fr. Conor Donnelly

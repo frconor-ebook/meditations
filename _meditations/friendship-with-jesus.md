@@ -7,7 +7,7 @@ prev_slug: friendship-and-confidence
 prev_title: "Friendship and Confidence"
 next_slug: from-tabor-to-calvary
 next_title: "From Tabor to Calvary"
-related: [{"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "finding-jesus", "title": "Finding Jesus"}, {"slug": "friendship-and-confidence", "title": "Friendship and Confidence"}]
+related: [{"slug": "friendship-and-confidence", "title": "Friendship and Confidence"}, {"slug": "st-john", "title": "St. John"}, {"slug": "enlarging-the-heart", "title": "Enlarging the Heart"}, {"slug": "the-father-in-the-work", "title": "The Father in the Work"}, {"slug": "st-john-henry-newman-on-friendship", "title": "St. John Henry Newman on Friendship"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: st-matthias
 prev_title: "St. Matthias"
 next_slug: st-nicholas-of-bari
 next_title: "St. Nicholas of Bari"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "unity-of-life", "title": "Unity of Life"}, {"slug": "heart-in-the-family", "title": "Heart in the Family"}, {"slug": "st-joachim-and-st-anne", "title": "St. Joachim and St. Anne"}, {"slug": "the-nativity-of-our-lady", "title": "The Nativity of Our Lady"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: touching-god-in-prayer
 prev_title: "Touching God in Prayer"
 next_slug: trinity-sunday
 next_title: "Trinity Sunday"
-related: [{"slug": "growth-in-prayer", "title": "Growth in Prayer"}, {"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}]
+related: [{"slug": "growth-in-prayer", "title": "Growth in Prayer"}, {"slug": "intimacy-with-god-after-edward-leen", "title": "Intimacy with God (after Edward Leen)"}, {"slug": "vocal-prayer", "title": "Vocal Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}, {"slug": "i-am-the-vine", "title": "I Am the Vine"}]
 ---
 
 

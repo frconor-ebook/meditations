@@ -8,7 +8,7 @@ prev_slug: the-miracle-at-cana
 prev_title: "The Miracle at Cana"
 next_slug: the-mother-of-fair-love
 next_title: "The Mother of Fair Love"
-related: [{"slug": "the-multiplication-of-the-loaves-and-fish", "title": "The Multiplication of the Loaves and Fish"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
+related: [{"slug": "on-apostolate", "title": "On Apostolate"}, {"slug": "launch-out-into-the-deep", "title": "Launch Out Into The Deep"}, {"slug": "fishers-of-men", "title": "Fishers of Men"}, {"slug": "the-multiplication-of-the-loaves-and-fish", "title": "The Multiplication of the Loaves and Fish"}, {"slug": "st-matthias", "title": "St. Matthias"}]
 ---
 
 By Fr. Conor Donnelly

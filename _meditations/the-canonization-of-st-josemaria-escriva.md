@@ -8,7 +8,7 @@ prev_slug: the-bread-of-life
 prev_title: "The Bread of Life"
 next_slug: the-centurion-and-his-servant
 next_title: "The Centurion and His Servant"
-related: [{"slug": "st-josemaria-escriva-feast-june-26th", "title": "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"}, {"slug": "the-birthday-of-st-josemaria-escriva", "title": "The Birthday of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "the-anniversary-of-the-first-holy-communion-of-st-josemaria", "title": "The Anniversary of the First Holy Communion of St. Josemar\u00eda"}]
+related: [{"slug": "life-of-childhood", "title": "Life of Childhood"}, {"slug": "lukewarmness", "title": "Lukewarmness"}, {"slug": "on-apostolate", "title": "On Apostolate"}, {"slug": "souls-of-prayer", "title": "Souls of Prayer"}, {"slug": "the-anniversary-of-the-establishment-of-the-prelature", "title": "The Anniversary of the Establishment of the Prelature"}]
 ---
 
 By Fr. Conor Donnelly

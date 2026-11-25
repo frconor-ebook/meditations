@@ -8,7 +8,7 @@ prev_slug: fraternal-correction
 prev_title: "Fraternal Correction"
 next_slug: freedom
 next_title: "Freedom"
-related: [{"slug": "the-father-in-the-work", "title": "The Father in the Work"}, {"slug": "on-work", "title": "On Work"}, {"slug": "the-dignity-of-work", "title": "The Dignity of Work"}]
+related: [{"slug": "humility", "title": "Humility"}, {"slug": "aunt-carmen", "title": "Aunt Carmen"}, {"slug": "the-father-in-the-work", "title": "The Father in the Work"}, {"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}, {"slug": "passion-for-unity", "title": "Passion for Unity"}]
 ---
 
 By Fr. Conor Donnelly

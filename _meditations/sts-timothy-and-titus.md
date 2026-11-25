@@ -8,7 +8,7 @@ prev_slug: sts-martha-mary-and-lazarus
 prev_title: "Sts. Martha, Mary, and Lazarus"
 next_slug: study
 next_title: "Study"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "study", "title": "Study"}, {"slug": "the-truth-will-make-you-free", "title": "The Truth Will Make You Free"}, {"slug": "st-thomas-aquinas", "title": "St. Thomas Aquinas"}, {"slug": "on-formation", "title": "On Formation"}, {"slug": "unity-of-life", "title": "Unity of Life"}]
 ---
 
 

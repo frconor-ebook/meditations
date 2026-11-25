@@ -8,7 +8,7 @@ prev_slug: st-peter-and-st-paul
 prev_title: "St. Peter and St. Paul"
 next_slug: st-pius-x
 next_title: "St. Pius X"
-related: [{"slug": "st-james", "title": "St. James"}, {"slug": "st-james-2026", "title": "St. James (2026)"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}]
+related: [{"slug": "the-conversion-of-st-paul", "title": "The Conversion of St. Paul"}, {"slug": "st-andrew", "title": "St. Andrew"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "st-joseph-the-worker", "title": "St. Joseph the Worker"}, {"slug": "easter-faith", "title": "Easter Faith"}]
 ---
 
 By Fr. Conor Donnelly

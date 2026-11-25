@@ -8,7 +8,7 @@ prev_slug: the-pharisee-and-the-publican
 prev_title: "The Pharisee and the Publican"
 next_slug: the-pool-at-bethsaida
 next_title: "The Pool at Bethsaida"
-related: [{"slug": "the-pharisee-and-the-publican", "title": "The Pharisee and the Publican"}, {"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}]
+related: [{"slug": "the-pharisee-and-the-publican", "title": "The Pharisee and the Publican"}, {"slug": "true-prayer", "title": "True Prayer"}, {"slug": "zacchaeus", "title": "Zacchaeus"}, {"slug": "personal-prayer", "title": "Personal Prayer"}, {"slug": "our-father-god", "title": "Our Father God"}]
 ---
 
 

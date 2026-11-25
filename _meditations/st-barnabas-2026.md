@@ -8,7 +8,7 @@ prev_slug: st-barnabas
 prev_title: "St. Barnabas"
 next_slug: st-bartholomew
 next_title: "St. Bartholomew"
-related: [{"slug": "st-barnabas", "title": "St. Barnabas"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
+related: [{"slug": "st-barnabas", "title": "St. Barnabas"}, {"slug": "the-sacred-heart-of-jesus-2026", "title": "The Sacred Heart of Jesus (2026)"}, {"slug": "the-immaculate-heart-of-mary-2026", "title": "The Immaculate Heart of Mary (2026)"}, {"slug": "st-mary-magdalene-2026", "title": "St. Mary Magdalene (2026)"}, {"slug": "the-first-martyrs-of-the-church-of-rome", "title": "The First Martyrs of the Church of Rome"}]
 ---
 
 

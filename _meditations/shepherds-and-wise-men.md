@@ -8,7 +8,7 @@ prev_slug: serving-one-master
 prev_title: "Serving One Master"
 next_slug: sick-and-you-visited-me
 next_title: "Sick and You Visited Me"
-related: [{"slug": "the-shepherds-and-peace", "title": "The Shepherds and Peace"}, {"slug": "christmas", "title": "Christmas"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}]
+related: [{"slug": "the-infinity-of-littleness", "title": "The Infinity of Littleness"}, {"slug": "the-epiphany-of-our-lord-2027-edition", "title": "The Epiphany of Our Lord (2027 Edition)"}, {"slug": "the-depths-of-simplicity", "title": "The Depths of Simplicity"}, {"slug": "love-for-the-bishop", "title": "Love for the Bishop"}, {"slug": "purity-of-the-heart", "title": "Purity of the Heart"}]
 ---
 
 

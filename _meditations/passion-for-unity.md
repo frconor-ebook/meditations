@@ -7,7 +7,7 @@ prev_slug: palm-sunday
 prev_title: "Palm Sunday"
 next_slug: passionately-loving-the-world
 next_title: "Passionately Loving the World"
-related: [{"slug": "good-friday-of-the-lords-passion", "title": "Good Friday of the Lord\u2019s Passion"}, {"slug": "octave-of-prayer-for-the-unity-of-christians", "title": "Octave of Prayer for the Unity of Christians"}, {"slug": "st-severinus-and-unity", "title": "St. Severinus and Unity"}]
+related: [{"slug": "the-father-in-the-work", "title": "The Father in the Work"}, {"slug": "humility", "title": "Humility"}, {"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}, {"slug": "the-communion-of-saints", "title": "The Communion of Saints"}, {"slug": "st-severinus-and-unity", "title": "St. Severinus and Unity"}]
 ---
 
 By Fr. Conor Donnelly

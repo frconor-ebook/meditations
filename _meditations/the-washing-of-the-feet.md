@@ -8,7 +8,7 @@ prev_slug: the-war-with-temptation
 prev_title: "The War With Temptation"
 next_slug: the-way-the-truth-and-the-life
 next_title: "The Way, the Truth, and the Life"
-related: [{"slug": "ash-wednesday", "title": "Ash Wednesday"}, {"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "easter-joy", "title": "Easter Joy"}]
+related: [{"slug": "to-serve", "title": "To Serve"}, {"slug": "spirit-of-service", "title": "Spirit of Service"}, {"slug": "judas", "title": "Judas"}, {"slug": "afterwards-you-will-understand", "title": "Afterwards You Will Understand"}, {"slug": "rectitude-of-intention", "title": "Rectitude of Intention"}]
 ---
 
 By Fr. Conor Donnelly

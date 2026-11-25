@@ -8,7 +8,7 @@ prev_slug: our-lady-of-guadalupe
 prev_title: "Our Lady of Guadalupe"
 next_slug: our-lady-of-lourdes
 next_title: "Our Lady of Lourdes"
-related: [{"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
+related: [{"slug": "the-feast-of-the-holy-family", "title": "The Feast of the Holy Family"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "heart-in-the-family", "title": "Heart in the Family"}, {"slug": "naturalness-and-simplicity", "title": "Naturalness and Simplicity"}, {"slug": "preparing-to-receive-jesus", "title": "Preparing to Receive Jesus"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: the-universal-call-to-contemplation
 prev_title: "The Universal Call to Contemplation"
 next_slug: the-visitation-of-our-lady
 next_title: "The Visitation of Our Lady"
-related: [{"slug": "the-centurion-and-his-servant", "title": "The Centurion and His Servant"}, {"slug": "the-prodigal-son", "title": "The Prodigal Son"}, {"slug": "the-prodigal-son-2025-edition", "title": "The Prodigal Son (2025 Edition)"}]
+related: [{"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "forgiveness", "title": "Forgiveness"}, {"slug": "unlimited-forgiveness", "title": "Unlimited Forgiveness"}, {"slug": "understanding", "title": "Understanding"}]
 ---
 
 By Fr. Conor Donnelly

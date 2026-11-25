@@ -8,7 +8,7 @@ prev_slug: our-lady-the-queen-2026
 prev_title: "Our Lady the Queen (2026)"
 next_slug: our-lady-mother-of-mercy
 next_title: "Our Lady, Mother of Mercy"
-related: [{"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
+related: [{"slug": "our-lady-mother-of-mercy", "title": "Our Lady, Mother of Mercy"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "mother-of-god-and-our-mother", "title": "Mother of God and Our Mother"}, {"slug": "knowing-god-through-mary", "title": "Knowing God Through Mary"}, {"slug": "sick-and-you-visited-me", "title": "Sick and You Visited Me"}]
 ---
 
 By Fr. Conor Donnelly

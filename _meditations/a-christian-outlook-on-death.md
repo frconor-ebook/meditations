@@ -6,7 +6,7 @@ reading_time: 18
 tags: ["Death & Eternal Life"]
 next_slug: a-cup-of-cold-water
 next_title: "A Cup of Cold Water"
-related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}, {"slug": "this-body-of-death", "title": "This Body of Death"}]
+related: [{"slug": "the-end-of-life", "title": "The End of Life"}, {"slug": "the-last-things", "title": "The Last Things"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "the-commemoration-of-all-souls-2026", "title": "The Commemoration of All Souls (2026)"}, {"slug": "the-last-day-of-the-liturgical-year-vigilance", "title": "The Last Day of the Liturgical Year (Vigilance)"}]
 ---
 
 By Fr. Conor Donnelly

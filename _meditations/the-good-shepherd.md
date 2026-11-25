@@ -8,7 +8,7 @@ prev_slug: the-good-samaritan
 prev_title: "The Good Samaritan"
 next_slug: the-good-shepherd-2nd-ed
 next_title: "The Good Shepherd (2nd Ed.)"
-related: [{"slug": "the-good-shepherd-2nd-ed", "title": "The Good Shepherd (2nd Ed.)"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}]
+related: [{"slug": "the-good-shepherd-2nd-ed", "title": "The Good Shepherd (2nd Ed.)"}, {"slug": "the-lost-sheep", "title": "The Lost Sheep"}, {"slug": "spiritual-direction", "title": "Spiritual Direction"}, {"slug": "st-peter-and-st-paul", "title": "St. Peter and St. Paul"}, {"slug": "fire-on-earth", "title": "Fire On Earth"}]
 ---
 
 By Fr. Conor Donnelly

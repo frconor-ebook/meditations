@@ -8,7 +8,7 @@ prev_slug: in-expectation-of-our-lord
 prev_title: "In Expectation of Our Lord"
 next_slug: increase-my-faith
 next_title: "Increase My Faith"
-related: [{"slug": "the-immaculate-heart-of-mary", "title": "The Immaculate Heart of Mary"}, {"slug": "the-immaculate-heart-of-mary-2026", "title": "The Immaculate Heart of Mary (2026)"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "fathers-day", "title": "Father\u2019s Day"}, {"slug": "st-josephs-holiness-in-ordinary-life", "title": "St. Joseph\u2019s Holiness in Ordinary Life"}, {"slug": "enlarging-the-heart", "title": "Enlarging the Heart"}, {"slug": "humility", "title": "Humility"}, {"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}]
 ---
 
 By Fr. Conor Donnelly

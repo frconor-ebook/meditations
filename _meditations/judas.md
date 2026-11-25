@@ -8,7 +8,7 @@ prev_slug: joy-in-the-cross-lent
 prev_title: "Joy in the Cross (Lent)"
 next_slug: judgments-charity
 next_title: "Judgments (Charity)"
-related: [{"slug": "ash-wednesday", "title": "Ash Wednesday"}, {"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "easter-joy", "title": "Easter Joy"}]
+related: [{"slug": "the-washing-of-the-feet", "title": "The Washing of the Feet"}, {"slug": "personal-prayer", "title": "Personal Prayer"}, {"slug": "the-raising-of-lazarus", "title": "The Raising of Lazarus"}, {"slug": "the-crucifixion", "title": "The Crucifixion"}, {"slug": "palm-sunday", "title": "Palm Sunday"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: the-last-day-of-the-liturgical-year-vigilance
 prev_title: "The Last Day of the Liturgical Year (Vigilance)"
 next_slug: the-last-things
 next_title: "The Last Things"
-related: [{"slug": "the-last-day-of-the-liturgical-year-vigilance", "title": "The Last Day of the Liturgical Year (Vigilance)"}, {"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}, {"slug": "preparing-for-the-jubilee-year-2025", "title": "Preparing for the Jubilee Year 2025"}]
+related: [{"slug": "making-up-for-lost-time", "title": "Making Up for Lost Time"}, {"slug": "the-parable-of-the-ten-virgins", "title": "The Parable of the Ten Virgins"}, {"slug": "christmas", "title": "Christmas"}, {"slug": "the-holy-innocents", "title": "The Holy Innocents"}, {"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}]
 ---
 
 By Fr. Conor Donnelly

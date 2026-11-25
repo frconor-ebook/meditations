@@ -8,7 +8,7 @@ prev_slug: the-gift-of-fortitude
 prev_title: "The Gift of Fortitude"
 next_slug: the-gift-of-piety
 next_title: "The Gift of Piety"
-related: [{"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}, {"slug": "the-gift-of-fear-of-the-lord", "title": "The Gift of Fear of the Lord"}, {"slug": "the-gift-of-fortitude", "title": "The Gift of Fortitude"}]
+related: [{"slug": "the-gift-of-piety", "title": "The Gift of Piety"}, {"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}, {"slug": "the-gift-of-understanding", "title": "The Gift of Understanding"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}, {"slug": "doctrinal-formation", "title": "Doctrinal Formation"}]
 ---
 
 By Fr. Conor Donnelly

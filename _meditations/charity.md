@@ -8,7 +8,7 @@ prev_slug: chalice-possumus-we-can
 prev_title: "Chalice, Possumus, We Can"
 next_slug: charity-and-the-tongue
 next_title: "Charity and the Tongue"
-related: [{"slug": "charity-and-the-tongue", "title": "Charity and the Tongue"}, {"slug": "charity-versus-anger", "title": "Charity versus Anger"}, {"slug": "judgments-charity", "title": "Judgments (Charity)"}]
+related: [{"slug": "pro-active-love", "title": "Pro-Active Love"}, {"slug": "judgments-charity", "title": "Judgments (Charity)"}, {"slug": "understanding", "title": "Understanding"}, {"slug": "god-has-captured-me-with-his-love", "title": "God Has Captured Me With His Love"}, {"slug": "the-good-samaritan", "title": "The Good Samaritan"}]
 ---
 
 By Fr. Conor Donnelly

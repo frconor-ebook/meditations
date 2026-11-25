@@ -7,6 +7,7 @@ prev_slug: bartimaeus
 prev_title: "Bartimaeus"
 next_slug: begin-again-fight-the-fight
 next_title: "Begin Again, Fight the Fight"
+related: [{"slug": "the-end-of-life", "title": "The End of Life"}, {"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}, {"slug": "purity-of-the-heart", "title": "Purity of the Heart"}, {"slug": "rectitude-of-intention", "title": "Rectitude of Intention"}, {"slug": "the-son-of-the-carpenter", "title": "The Son of the Carpenter"}]
 ---
 
 By Fr. Conor Donnelly

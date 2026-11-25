@@ -8,7 +8,7 @@ prev_slug: overcoming-human-respect
 prev_title: "Overcoming Human Respect"
 next_slug: passion-for-unity
 next_title: "Passion for Unity"
-related: [{"slug": "easter-sunday", "title": "Easter Sunday"}, {"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}, {"slug": "pentecost-sunday", "title": "Pentecost Sunday"}]
+related: [{"slug": "judas", "title": "Judas"}, {"slug": "the-raising-of-lazarus", "title": "The Raising of Lazarus"}, {"slug": "the-resurrection", "title": "The Resurrection"}, {"slug": "easter-sunday", "title": "Easter Sunday"}, {"slug": "the-washing-of-the-feet", "title": "The Washing of the Feet"}]
 ---
 
 By Fr. Conor Donnelly

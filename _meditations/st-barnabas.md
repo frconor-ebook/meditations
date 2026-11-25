@@ -8,7 +8,7 @@ prev_slug: st-augustine
 prev_title: "St. Augustine"
 next_slug: st-barnabas-2026
 next_title: "St. Barnabas (2026)"
-related: [{"slug": "st-barnabas-2026", "title": "St. Barnabas (2026)"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
+related: [{"slug": "generosity", "title": "Generosity"}, {"slug": "st-barnabas-2026", "title": "St. Barnabas (2026)"}, {"slug": "the-conversion-of-st-paul", "title": "The Conversion of St. Paul"}, {"slug": "st-josemaria-escriva-feast-june-26th", "title": "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"}, {"slug": "the-passion-of-st-john-the-baptist", "title": "The Passion of St. John the Baptist"}]
 ---
 
 By Fr. Conor Donnelly

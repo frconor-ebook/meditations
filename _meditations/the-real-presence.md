@@ -8,7 +8,7 @@ prev_slug: the-raising-of-lazarus
 prev_title: "The Raising of Lazarus"
 next_slug: the-real-presence-after-thomas-mcgovern
 next_title: "The Real Presence (after Thomas McGovern)"
-related: [{"slug": "the-real-presence-after-thomas-mcgovern", "title": "The Real Presence (after Thomas McGovern)"}, {"slug": "presence-of-god", "title": "Presence of God"}, {"slug": "the-only-real-evil", "title": "The Only Real Evil"}]
+related: [{"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing, Loving, and Living the Eucharist"}, {"slug": "the-bread-of-life", "title": "The Bread of Life"}, {"slug": "knowing-when-to-speak", "title": "Knowing When to Speak"}, {"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "loving-jesus-house", "title": "Loving Jesus\u2019 House"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: infectious-faith
 prev_title: "Infectious Faith"
 next_slug: interior-struggle
 next_title: "Interior Struggle"
-related: [{"slug": "interior-struggle", "title": "Interior Struggle"}, {"slug": "the-battles-of-the-interior-life", "title": "The Battles of the Interior Life"}, {"slug": "the-imagination-and-interior-mortification", "title": "The Imagination and Interior Mortification"}]
+related: [{"slug": "spiritual-receptivity", "title": "Spiritual Receptivity"}, {"slug": "the-eucharistfaith-and-hope", "title": "The Eucharist\u2013Faith and Hope"}, {"slug": "do-not-let-your-hearts-be-troubled", "title": "Do Not Let Your Hearts Be Troubled"}, {"slug": "when-i-am-weak-then-i-am-strong", "title": "When I Am Weak, Then I Am Strong"}, {"slug": "blessed-are-the-peacemakers", "title": "Blessed Are the Peacemakers"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: finding-jesus
 prev_title: "Finding Jesus"
 next_slug: first-thoughts-and-emotions
 next_title: "First Thoughts and Emotions"
-related: [{"slug": "i-came-to-cast-fire-on-earth", "title": "I Came To Cast Fire On Earth"}, {"slug": "hearts-on-fire", "title": "Hearts on Fire"}, {"slug": "fishers-of-men", "title": "Fishers of Men"}]
+related: [{"slug": "i-came-to-cast-fire-on-earth", "title": "I Came To Cast Fire On Earth"}, {"slug": "the-anniversary-of-the-ordination-of-st-josemaria", "title": "The Anniversary of the Ordination of St. Josemar\u00eda"}, {"slug": "humility-relying-on-god", "title": "Humility: Relying on God"}, {"slug": "lukewarmness", "title": "Lukewarmness"}, {"slug": "the-parable-of-the-talents", "title": "The Parable of the Talents"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: the-parable-of-the-rich-man-and-lazarus
 prev_title: "The Parable of the Rich Man and Lazarus"
 next_slug: the-parable-of-the-sower
 next_title: "The Parable of the Sower"
-related: [{"slug": "the-parable-of-the-rich-man-and-lazarus", "title": "The Parable of the Rich Man and Lazarus"}, {"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}]
+related: [{"slug": "poverty-and-detachment", "title": "Poverty and Detachment"}, {"slug": "rich-before-god", "title": "Rich Before God"}, {"slug": "the-parable-of-the-treasure-and-the-pearl", "title": "The Parable of the Treasure and the Pearl"}, {"slug": "cheerfulness", "title": "Cheerfulness"}, {"slug": "the-parable-of-the-talents", "title": "The Parable of the Talents"}]
 ---
 
 By Fr. Conor Donnelly

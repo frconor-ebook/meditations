@@ -7,7 +7,7 @@ prev_slug: the-washing-of-the-feet
 prev_title: "The Washing of the Feet"
 next_slug: the-widow-of-naim
 next_title: "The Widow of Naim"
-related: [{"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}, {"slug": "life-of-faith", "title": "Life of Faith"}]
+related: [{"slug": "the-light-of-the-world", "title": "The Light of the World"}, {"slug": "gods-bridge-builder", "title": "God\u2019s Bridge-Builder"}, {"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "the-artisan-of-nazareth", "title": "The Artisan of Nazareth"}, {"slug": "the-depths-of-simplicity", "title": "The Depths of Simplicity"}]
 ---
 
 

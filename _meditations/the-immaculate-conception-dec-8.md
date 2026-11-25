@@ -8,7 +8,7 @@ prev_slug: the-imagination-and-interior-mortification
 prev_title: "The Imagination and Interior Mortification"
 next_slug: the-immaculate-heart-of-mary
 next_title: "The Immaculate Heart of Mary"
-related: [{"slug": "the-immaculate-heart-of-mary", "title": "The Immaculate Heart of Mary"}, {"slug": "the-immaculate-heart-of-mary-2026", "title": "The Immaculate Heart of Mary (2026)"}, {"slug": "at-the-school-of-mary", "title": "At the School of Mary"}]
+related: [{"slug": "purity-of-the-heart", "title": "Purity of the Heart"}, {"slug": "the-magnificat", "title": "The Magnificat"}, {"slug": "preparing-to-receive-jesus", "title": "Preparing to Receive Jesus"}, {"slug": "prince-of-peace", "title": "Prince of Peace"}, {"slug": "the-prophecy-of-simeon", "title": "The Prophecy of Simeon"}]
 ---
 
 By Fr. Conor Donnelly

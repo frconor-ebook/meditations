@@ -8,7 +8,7 @@ prev_slug: the-sacred-humanity-of-jesus
 prev_title: "The Sacred Humanity of Jesus"
 next_slug: the-sanctification-of-calumnies
 next_title: "The Sanctification of Calumnies"
-related: [{"slug": "the-anniversary-of-the-election-of-don-fernando-ocariz-as-the-prelate-of", "title": "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"}, {"slug": "the-birthday-of-the-prelate-don-fernando", "title": "The Birthday of the Prelate (Don Fernando)"}, {"slug": "the-great-saint-of-avila", "title": "The Great Saint of Avila"}]
+related: [{"slug": "the-father-in-the-work", "title": "The Father in the Work"}, {"slug": "the-birthday-of-the-prelate-don-fernando", "title": "The Birthday of the Prelate (Don Fernando)"}, {"slug": "the-anniversary-of-the-election-of-don-fernando-ocariz-as-the-prelate-of", "title": "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"}, {"slug": "the-anniversary-of-the-establishment-of-the-prelature", "title": "The Anniversary of the Establishment of the Prelature"}, {"slug": "the-birthday-of-st-josemaria-escriva", "title": "The Birthday of St. Josemar\u00eda Escriv\u00e1"}]
 ---
 
 By Fr. Conor Donnelly

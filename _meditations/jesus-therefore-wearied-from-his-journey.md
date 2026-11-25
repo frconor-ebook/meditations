@@ -7,7 +7,7 @@ prev_slug: jesus-christ-the-eternal-high-priest
 prev_title: "Jesus Christ, The Eternal High Priest"
 next_slug: joy-in-the-cross-lent
 next_title: "Joy in the Cross (Lent)"
-related: [{"slug": "apart-from-me-you-can-do-nothing", "title": "Apart From Me You Can Do Nothing"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "finding-jesus", "title": "Finding Jesus"}]
+related: [{"slug": "the-clean-of-heart-after-edward-leen", "title": "The Clean of Heart (after Edward Leen)"}, {"slug": "this-body-of-death", "title": "This Body of Death"}, {"slug": "divine-intimacies", "title": "Divine Intimacies"}, {"slug": "transformation-through-prayer", "title": "Transformation Through Prayer"}, {"slug": "the-battle", "title": "The Battle"}]
 ---
 
 

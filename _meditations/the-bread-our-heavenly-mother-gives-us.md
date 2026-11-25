@@ -8,7 +8,7 @@ prev_slug: the-blind-man
 prev_title: "The Blind Man"
 next_slug: the-bread-of-life
 next_title: "The Bread of Life"
-related: [{"slug": "the-bread-of-life", "title": "The Bread of Life"}, {"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}, {"slug": "mary-mother-of-god", "title": "Mary, Mother of God"}]
+related: [{"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing, Loving, and Living the Eucharist"}, {"slug": "taking-the-bread", "title": "Taking the Bread"}, {"slug": "the-eucharist-and-love", "title": "The Eucharist and Love"}, {"slug": "the-one-who-gives-us-jesus", "title": "The One Who Gives Us Jesus"}, {"slug": "daily-mass", "title": "Daily Mass"}]
 ---
 
 By Fr. Conor Donnelly

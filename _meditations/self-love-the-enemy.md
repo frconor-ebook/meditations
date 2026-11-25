@@ -8,7 +8,7 @@ prev_slug: self-denial
 prev_title: "Self-Denial"
 next_slug: self-emptying-and-st-joseph
 next_title: "Self-emptying and St. Joseph"
-related: [{"slug": "love-for-chastity", "title": "Love for Chastity"}, {"slug": "self-denial", "title": "Self-Denial"}, {"slug": "sincerity-love-for-truth", "title": "Sincerity, Love for Truth"}]
+related: [{"slug": "the-love-of-god", "title": "The Love of God"}, {"slug": "rectitude-of-intention", "title": "Rectitude of Intention"}, {"slug": "vanity-he-must-increase", "title": "Vanity (He Must Increase)"}, {"slug": "humility-relying-on-god", "title": "Humility: Relying on God"}, {"slug": "rejection", "title": "Rejection"}]
 ---
 
 By Fr. Conor Donnelly

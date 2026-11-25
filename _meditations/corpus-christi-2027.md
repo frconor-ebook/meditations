@@ -8,7 +8,7 @@ prev_slug: corpus-christi-2026
 prev_title: "Corpus Christi (2026)"
 next_slug: corpus-christi-the-body-and-blood-of-our-lord
 next_title: "Corpus Christi (The Body and Blood of Our Lord)"
-related: [{"slug": "corpus-christi-2026", "title": "Corpus Christi (2026)"}, {"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}, {"slug": "churches-and-the-mass", "title": "Churches and the Mass"}]
+related: [{"slug": "the-real-presence-after-thomas-mcgovern", "title": "The Real Presence (after Thomas McGovern)"}, {"slug": "appreciating-the-gift", "title": "Appreciating the Gift"}, {"slug": "inestimable-gift", "title": "Inestimable Gift"}, {"slug": "the-incarnation-and-the-eucharist", "title": "The Incarnation and the Eucharist"}, {"slug": "a-mystery-to-be-lived", "title": "A Mystery to Be Lived"}]
 ---
 
 

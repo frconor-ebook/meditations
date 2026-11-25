@@ -8,7 +8,7 @@ prev_slug: behold-i-make-all-things-new
 prev_title: "Behold I Make All Things New"
 next_slug: blessed-are-the-peacemakers
 next_title: "Blessed Are the Peacemakers"
-related: [{"slug": "a-merciful-messiah", "title": "A Merciful Messiah"}, {"slug": "blessed-are-the-peacemakers", "title": "Blessed Are the Peacemakers"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}]
+related: [{"slug": "the-unmerciful-servant", "title": "The Unmerciful Servant"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}, {"slug": "our-lady-mother-of-mercy", "title": "Our Lady, Mother of Mercy"}, {"slug": "the-lost-sheep", "title": "The Lost Sheep"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: our-lady-of-ransom-2026
 prev_title: "Our Lady of Ransom (2026)"
 next_slug: our-lady-of-sorrows-2026
 next_title: "Our Lady of Sorrows (2026)"
-related: [{"slug": "our-lady-of-sorrows-2026", "title": "Our Lady of Sorrows (2026)"}, {"slug": "the-seven-sorrows-of-our-lady", "title": "The Seven Sorrows of Our Lady"}, {"slug": "our-lady", "title": "Our Lady"}]
+related: [{"slug": "the-exaltation-of-the-holy-cross", "title": "The Exaltation of the Holy Cross"}, {"slug": "the-immaculate-heart-of-mary", "title": "The Immaculate Heart of Mary"}, {"slug": "our-lady-of-sorrows-2026", "title": "Our Lady of Sorrows (2026)"}, {"slug": "god-of-consolation", "title": "God of Consolation"}, {"slug": "the-sacred-heart-of-jesus", "title": "The Sacred Heart of Jesus"}]
 ---
 
 By Fr. Conor Donnelly

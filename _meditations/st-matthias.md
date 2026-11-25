@@ -8,7 +8,7 @@ prev_slug: st-matthew
 prev_title: "St. Matthew"
 next_slug: st-monica
 next_title: "St. Monica"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "the-miraculous-catch-of-fish", "title": "The Miraculous Catch of Fish"}, {"slug": "on-apostolate", "title": "On Apostolate"}, {"slug": "the-ascension", "title": "The Ascension"}, {"slug": "st-philip-and-st-james", "title": "St. Philip and St. James"}, {"slug": "st-james", "title": "St. James"}]
 ---
 
 By Fr. Conor Donnelly

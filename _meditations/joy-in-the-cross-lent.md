@@ -8,7 +8,7 @@ prev_slug: jesus-therefore-wearied-from-his-journey
 prev_title: "Jesus Therefore, Wearied from His Journey"
 next_slug: judas
 next_title: "Judas"
-related: [{"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}, {"slug": "cross-rejection", "title": "Cross Rejection"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}]
+related: [{"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}, {"slug": "cross-rejection", "title": "Cross Rejection"}, {"slug": "good-friday-of-the-lords-passion", "title": "Good Friday of the Lord\u2019s Passion"}, {"slug": "chalice-possumus-we-can", "title": "Chalice, Possumus, We Can"}, {"slug": "forgiveness", "title": "Forgiveness"}]
 ---
 
 By Fr. Conor Donnelly

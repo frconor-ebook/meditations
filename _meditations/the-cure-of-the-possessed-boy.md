@@ -8,7 +8,7 @@ prev_slug: the-crucifixion
 prev_title: "The Crucifixion"
 next_slug: the-curing-of-the-man-with-an-unclean-spirit
 next_title: "The Curing of the Man with an Unclean Spirit"
-related: [{"slug": "the-curing-of-the-possessed-man-gerasenes", "title": "The Curing of the Possessed Man (Gerasenes)"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
+related: [{"slug": "the-grass-of-the-field", "title": "The Grass of the Field"}, {"slug": "the-syrophoenician-woman", "title": "The Syrophoenician Woman"}, {"slug": "naaman-the-syrian-docility", "title": "Naaman the Syrian (Docility)"}, {"slug": "helping-to-do-good", "title": "Helping To Do Good"}, {"slug": "invoking-our-savior", "title": "Invoking Our Savior"}]
 ---
 
 By Fr. Conor Donnelly

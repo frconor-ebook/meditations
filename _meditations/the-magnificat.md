@@ -8,7 +8,7 @@ prev_slug: the-love-of-god
 prev_title: "The Love of God"
 next_slug: the-martyrdom-of-st-john-the-baptist
 next_title: "The Martyrdom of St. John the Baptist"
-related: [{"slug": "at-the-school-of-mary", "title": "At the School of Mary"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}, {"slug": "knowing-god-through-mary", "title": "Knowing God Through Mary"}]
+related: [{"slug": "the-feast-of-the-holy-family", "title": "The Feast of the Holy Family"}, {"slug": "humility-relying-on-god", "title": "Humility: Relying on God"}, {"slug": "humility-of-instruments", "title": "Humility of Instruments"}, {"slug": "passionately-loving-the-world", "title": "Passionately Loving the World"}, {"slug": "the-joy-of-the-journey-to-bethlehem", "title": "The Joy of the Journey to Bethlehem"}]
 ---
 
 By Fr. Conor Donnelly

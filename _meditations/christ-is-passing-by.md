@@ -7,7 +7,7 @@ prev_slug: childrena-gift-of-god
 prev_title: "Children\u2014A Gift of God"
 next_slug: christ-the-king
 next_title: "Christ the King"
-related: [{"slug": "christ-the-king", "title": "Christ the King"}, {"slug": "christ-the-king-2026", "title": "Christ the King (2026)"}, {"slug": "christ-the-king-2027", "title": "Christ the King (2027)"}]
+related: [{"slug": "walking-on-the-waterfaith", "title": "Walking on the Water\u2013\u2013Faith"}, {"slug": "my-words-will-not-pass-away", "title": "My Words Will Not Pass Away"}, {"slug": "the-friend-of-sinners", "title": "The Friend of Sinners"}, {"slug": "the-healing-of-the-royal-officials-son", "title": "The Healing of the Royal Official\u2019s Son"}, {"slug": "the-centurion-and-his-servant", "title": "The Centurion and His Servant"}]
 ---
 
 

@@ -8,7 +8,7 @@ prev_slug: humility-of-instruments
 prev_title: "Humility of Instruments"
 next_slug: i-am-the-vine
 next_title: "I Am the Vine"
-related: [{"slug": "humility", "title": "Humility"}, {"slug": "humility-lent", "title": "Humility (Lent)"}, {"slug": "humility-of-instruments", "title": "Humility of Instruments"}]
+related: [{"slug": "humility-of-instruments", "title": "Humility of Instruments"}, {"slug": "the-magnificat", "title": "The Magnificat"}, {"slug": "you-are-nothing", "title": "You Are Nothing"}, {"slug": "fire-on-earth", "title": "Fire On Earth"}, {"slug": "vanity-he-must-increase", "title": "Vanity (He Must Increase)"}]
 ---
 
 By Fr. Conor Donnelly

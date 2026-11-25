@@ -8,7 +8,7 @@ prev_slug: st-severinus-and-unity
 prev_title: "St. Severinus and Unity"
 next_slug: st-stephen
 next_title: "St. Stephen"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "st-john-paul-ii", "title": "St. John Paul II"}, {"slug": "love-for-priests", "title": "Love For Priests"}, {"slug": "the-solemnity-of-all-saints-2026", "title": "The Solemnity of All Saints (2026)"}, {"slug": "martha-martha", "title": "Martha, Martha"}, {"slug": "understanding", "title": "Understanding"}]
 ---
 
 By Fr. Conor Donnelly

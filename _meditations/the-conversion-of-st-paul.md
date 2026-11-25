@@ -8,7 +8,7 @@ prev_slug: the-communion-of-saints
 prev_title: "The Communion of Saints"
 next_slug: the-creative-courage-of-st-joseph
 next_title: "The Creative Courage of St. Joseph"
-related: [{"slug": "conversion-of-st-paul-2027-edition", "title": "Conversion of St. Paul (2027 Edition)"}, {"slug": "st-john-paul-ii", "title": "St. John Paul II"}, {"slug": "st-peter-and-st-paul", "title": "St. Peter and St. Paul"}]
+related: [{"slug": "st-philip-and-st-james", "title": "St. Philip and St. James"}, {"slug": "the-grass-of-the-field", "title": "The Grass of the Field"}, {"slug": "the-syrophoenician-woman", "title": "The Syrophoenician Woman"}, {"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "invoking-our-savior", "title": "Invoking Our Savior"}]
 ---
 
 By Fr. Conor Donnelly

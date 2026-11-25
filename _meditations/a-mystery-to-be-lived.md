@@ -7,7 +7,7 @@ prev_slug: a-merciful-messiah
 prev_title: "A Merciful Messiah"
 next_slug: abandonment
 next_title: "Abandonment"
-related: [{"slug": "the-mystery-of-the-incarnation", "title": "The Mystery of the Incarnation"}]
+related: [{"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}, {"slug": "rediscover-the-gift", "title": "Rediscover the Gift"}, {"slug": "the-day-of-joy", "title": "The Day of Joy"}, {"slug": "appreciating-the-gift", "title": "Appreciating the Gift"}, {"slug": "inestimable-gift", "title": "Inestimable Gift"}]
 ---
 
 

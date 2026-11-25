@@ -8,7 +8,7 @@ prev_slug: great-mothers
 prev_title: "Great Mothers"
 next_slug: growth-in-prayer
 next_title: "Growth in Prayer"
-related: [{"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}, {"slug": "infectious-faith", "title": "Infectious Faith"}]
+related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "waiting-for-the-lord", "title": "Waiting for The Lord"}, {"slug": "even-the-hairs-of-your-head", "title": "Even The Hairs of Your Head"}, {"slug": "the-storm-on-the-lake", "title": "The Storm on the Lake"}, {"slug": "walking-on-the-waterfaith", "title": "Walking on the Water\u2013\u2013Faith"}]
 ---
 
 

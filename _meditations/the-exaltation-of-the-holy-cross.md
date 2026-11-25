@@ -8,7 +8,7 @@ prev_slug: the-eucharistfaith-and-hope
 prev_title: "The Eucharist\u2013Faith and Hope"
 next_slug: the-exaltation-of-the-holy-cross-2026
 next_title: "The Exaltation of the Holy Cross (2026)"
-related: [{"slug": "the-exaltation-of-the-holy-cross-2026", "title": "The Exaltation of the Holy Cross (2026)"}, {"slug": "the-priestly-society-of-the-holy-cross", "title": "The Priestly Society of the Holy Cross"}, {"slug": "cross-rejection", "title": "Cross Rejection"}]
+related: [{"slug": "the-exaltation-of-the-holy-cross-2026", "title": "The Exaltation of the Holy Cross (2026)"}, {"slug": "love-for-the-cross", "title": "Love for the Cross"}, {"slug": "our-lady-of-sorrows", "title": "Our Lady of Sorrows"}, {"slug": "the-crucifixion", "title": "The Crucifixion"}, {"slug": "placing-the-cross-on-the-summit-of-all-human-activities", "title": "Placing the Cross on the Summit of All Human Activities"}]
 ---
 
 By Fr. Conor Donnelly

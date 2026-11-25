@@ -8,7 +8,7 @@ prev_slug: examination-of-conscience
 prev_title: "Examination of Conscience"
 next_slug: fathers-day
 next_title: "Father\u2019s Day"
-related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
+related: [{"slug": "our-ladys-fidelity", "title": "Our Lady\u2019s Fidelity"}, {"slug": "simeon-and-anna", "title": "Simeon and Anna"}, {"slug": "love-for-chastity", "title": "Love for Chastity"}, {"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}, {"slug": "purity-of-soul", "title": "Purity of Soul"}]
 ---
 
 By Fr. Conor Donnelly

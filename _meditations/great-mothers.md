@@ -8,7 +8,7 @@ prev_slug: gratitude-for-pope-benedict-xvi
 prev_title: "Gratitude for Pope Benedict XVI"
 next_slug: growing-in-faith
 next_title: "Growing in Faith"
-related: [{"slug": "the-great-saint-of-avila", "title": "The Great Saint of Avila"}, {"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "conjugal-love", "title": "Conjugal Love"}]
+related: [{"slug": "the-end-of-life", "title": "The End of Life"}, {"slug": "rich-before-god", "title": "Rich Before God"}, {"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}, {"slug": "the-good-use-of-time", "title": "The Good Use of Time"}, {"slug": "where-is-your-heart", "title": "Where Is Your Heart?"}]
 ---
 
 

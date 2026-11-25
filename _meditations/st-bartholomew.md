@@ -8,7 +8,7 @@ prev_slug: st-barnabas-2026
 prev_title: "St. Barnabas (2026)"
 next_slug: st-benedict
 next_title: "St. Benedict"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "sincerity-love-for-truth", "title": "Sincerity, Love for Truth"}, {"slug": "the-truth-will-make-you-free", "title": "The Truth Will Make You Free"}, {"slug": "st-monica", "title": "St. Monica"}, {"slug": "walking-on-the-waterfaith", "title": "Walking on the Water\u2013\u2013Faith"}, {"slug": "unity-of-life", "title": "Unity of Life"}]
 ---
 
 By Fr. Conor Donnelly

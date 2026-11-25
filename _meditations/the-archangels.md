@@ -8,7 +8,7 @@ prev_slug: the-apostolate-of-the-home
 prev_title: "The Apostolate of the Home"
 next_slug: the-art-of-prudence
 next_title: "The Art of Prudence"
-related: [{"slug": "the-feast-of-the-archangels-2026", "title": "The Feast of the Archangels (2026)"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
+related: [{"slug": "st-gabriel", "title": "St. Gabriel"}, {"slug": "on-apostolate", "title": "On Apostolate"}, {"slug": "souls-of-prayer", "title": "Souls of Prayer"}, {"slug": "lukewarmness", "title": "Lukewarmness"}, {"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}]
 ---
 
 By Fr. Conor Donnelly

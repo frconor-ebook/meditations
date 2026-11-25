@@ -8,7 +8,7 @@ prev_slug: the-second-sunday-of-st-joseph-2026
 prev_title: "The Second Sunday of St. Joseph (2026)"
 next_slug: the-seven-sorrows-of-our-lady
 next_title: "The Seven Sorrows of Our Lady"
-related: [{"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "christs-eternal-priesthood", "title": "Christ\u2019s Eternal Priesthood"}, {"slug": "eternal-happiness", "title": "Eternal Happiness"}]
+related: [{"slug": "a-mystery-to-be-lived", "title": "A Mystery to Be Lived"}, {"slug": "the-incarnation-and-the-eucharist", "title": "The Incarnation and the Eucharist"}, {"slug": "appreciating-the-gift", "title": "Appreciating the Gift"}, {"slug": "rediscover-the-gift", "title": "Rediscover the Gift"}, {"slug": "the-real-presence-after-thomas-mcgovern", "title": "The Real Presence (after Thomas McGovern)"}]
 ---
 
 

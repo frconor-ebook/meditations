@@ -8,7 +8,7 @@ prev_slug: a-mystery-to-be-lived
 prev_title: "A Mystery to Be Lived"
 next_slug: afterwards-you-will-understand
 next_title: "Afterwards You Will Understand"
-related: [{"slug": "contemplative-soul", "title": "Contemplative Soul"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "divine-filiation", "title": "Divine Filiation"}]
+related: [{"slug": "divine-filiation", "title": "Divine Filiation"}, {"slug": "aim-high", "title": "Aim High"}, {"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}, {"slug": "the-apostolate", "title": "The Apostolate"}, {"slug": "the-healing-of-the-man-with-the-withered-hand", "title": "The Healing of the Man with the Withered Hand"}]
 ---
 
 By Fr. Conor Donnelly

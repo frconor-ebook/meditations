@@ -8,7 +8,7 @@ prev_slug: the-birthday-of-st-josemaria-escriva
 prev_title: "The Birthday of St. Josemar\u00eda Escriv\u00e1"
 next_slug: the-blind-man
 next_title: "The Blind Man"
-related: [{"slug": "the-anniversary-of-the-election-of-don-fernando-ocariz-as-the-prelate-of", "title": "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"}, {"slug": "the-birthday-of-st-josemaria-escriva", "title": "The Birthday of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "the-saints-day-of-the-prelate", "title": "The Saint\u2019s Day of the Prelate"}]
+related: [{"slug": "the-saints-day-of-the-prelate", "title": "The Saint\u2019s Day of the Prelate"}, {"slug": "the-anniversary-of-the-election-of-don-fernando-ocariz-as-the-prelate-of", "title": "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"}, {"slug": "the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature", "title": "The Anniversary of the Ordination of the First Three Priests of the Prelature"}, {"slug": "the-father-in-the-work", "title": "The Father in the Work"}, {"slug": "st-severinus-and-unity", "title": "St. Severinus and Unity"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: the-parable-of-the-treasure-and-the-pearl
 prev_title: "The Parable of the Treasure and the Pearl"
 next_slug: the-parable-of-the-weeds
 next_title: "The Parable of the Weeds"
-related: [{"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "the-parable-of-the-mustard-seed", "title": "The Parable of the Mustard Seed"}]
+related: [{"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "overcoming-human-respect", "title": "Overcoming Human Respect"}, {"slug": "my-words-will-not-pass-away", "title": "My Words Will Not Pass Away"}, {"slug": "vigilance-and-the-rosary", "title": "Vigilance and the Rosary"}, {"slug": "unity-of-life", "title": "Unity of Life"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: the-presentation-of-our-lord
 prev_title: "The Presentation of Our Lord"
 next_slug: the-prodigal-son
 next_title: "The Prodigal Son"
-related: [{"slug": "the-exaltation-of-the-holy-cross", "title": "The Exaltation of the Holy Cross"}, {"slug": "the-exaltation-of-the-holy-cross-2026", "title": "The Exaltation of the Holy Cross (2026)"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}]
+related: [{"slug": "the-anniversary-of-the-ordination-of-st-josemaria", "title": "The Anniversary of the Ordination of St. Josemar\u00eda"}, {"slug": "the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature", "title": "The Anniversary of the Ordination of the First Three Priests of the Prelature"}, {"slug": "love-for-priests", "title": "Love For Priests"}, {"slug": "the-anniversary-of-the-women-of-the-prelature", "title": "The Anniversary of the Women of the Prelature"}, {"slug": "the-immaculate-heart-of-mary", "title": "The Immaculate Heart of Mary"}]
 ---
 
 By Fr. Conor Donnelly

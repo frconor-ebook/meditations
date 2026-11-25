@@ -7,7 +7,7 @@ prev_slug: cheerfulness
 prev_title: "Cheerfulness"
 next_slug: childrena-gift-of-god
 next_title: "Children\u2014A Gift of God"
-related: [{"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}]
+related: [{"slug": "learning-to-ask", "title": "Learning to Ask"}, {"slug": "our-father-god", "title": "Our Father God"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}, {"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "divine-filiation", "title": "Divine Filiation"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: listening
 prev_title: "Listening"
 next_slug: little-things
 next_title: "Little Things"
-related: [{"slug": "little-things", "title": "Little Things"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "making-up-for-lost-time", "title": "Making Up for Lost Time"}]
+related: [{"slug": "little-things", "title": "Little Things"}, {"slug": "the-healing-of-the-man-with-the-withered-hand", "title": "The Healing of the Man with the Withered Hand"}, {"slug": "humility", "title": "Humility"}, {"slug": "on-work", "title": "On Work"}, {"slug": "naaman-the-syrian-docility", "title": "Naaman the Syrian (Docility)"}]
 ---
 
 By Fr. Conor Donnelly

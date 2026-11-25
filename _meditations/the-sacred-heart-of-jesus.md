@@ -7,7 +7,7 @@ prev_slug: the-sacrament-of-growth-and-mercy
 prev_title: "The Sacrament of Growth and Mercy"
 next_slug: the-sacred-heart-of-jesus-2026
 next_title: "The Sacred Heart of Jesus (2026)"
-related: [{"slug": "the-sacred-heart-of-jesus-2026", "title": "The Sacred Heart of Jesus (2026)"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}, {"slug": "clean-of-heart", "title": "Clean of Heart"}]
+related: [{"slug": "the-sacred-heart-of-jesus-2026", "title": "The Sacred Heart of Jesus (2026)"}, {"slug": "the-precious-blood-of-christ", "title": "The Precious Blood of Christ"}, {"slug": "the-immaculate-heart-of-mary", "title": "The Immaculate Heart of Mary"}, {"slug": "trinity-sunday", "title": "Trinity Sunday"}, {"slug": "love-for-the-cross", "title": "Love for the Cross"}]
 ---
 
 By Fr. Conor Donnelly

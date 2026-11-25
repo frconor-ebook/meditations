@@ -7,7 +7,7 @@ prev_slug: the-devils-cast-out
 prev_title: "The Devils Cast Out"
 next_slug: the-dignity-of-work
 next_title: "The Dignity of Work"
-related: [{"slug": "the-dignity-of-work", "title": "The Dignity of Work"}]
+related: [{"slug": "plan-of-life", "title": "Plan of Life"}, {"slug": "raise-the-world", "title": "Raise the World"}, {"slug": "the-beatitudes", "title": "The Beatitudes"}, {"slug": "the-parable-of-the-talents", "title": "The Parable of the Talents"}, {"slug": "our-lady-of-peace", "title": "Our Lady of Peace"}]
 ---
 
 By Fr. Conor Donnelly

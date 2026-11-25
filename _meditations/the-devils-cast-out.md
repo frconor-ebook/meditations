@@ -7,7 +7,7 @@ prev_slug: the-depths-of-simplicity
 prev_title: "The Depths of Simplicity"
 next_slug: the-dignity-of-man
 next_title: "The Dignity of Man"
-related: [{"slug": "i-came-to-cast-fire-on-earth", "title": "I Came To Cast Fire On Earth"}]
+related: [{"slug": "the-cure-of-the-possessed-boy", "title": "The Cure of the Possessed Boy"}, {"slug": "charity-and-the-tongue", "title": "Charity and the Tongue"}, {"slug": "the-only-real-evil", "title": "The Only Real Evil"}, {"slug": "sincerity-love-for-truth", "title": "Sincerity, Love for Truth"}, {"slug": "naaman-the-syrian-docility", "title": "Naaman the Syrian (Docility)"}]
 ---
 
 By Fr. Conor Donnelly

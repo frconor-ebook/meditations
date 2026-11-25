@@ -8,7 +8,7 @@ prev_slug: discerning-ones-vocation
 prev_title: "Discerning One's Vocation"
 next_slug: divine-intimacies
 next_title: "Divine Intimacies"
-related: [{"slug": "divine-intimacies", "title": "Divine Intimacies"}, {"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}, {"slug": "maturity-and-participation-in-the-divine-nature", "title": "Maturity and Participation in the Divine Nature"}]
+related: [{"slug": "fathers-day", "title": "Father\u2019s Day"}, {"slug": "st-josemaria-escriva-feast-june-26th", "title": "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}, {"slug": "trinity-sunday", "title": "Trinity Sunday"}, {"slug": "humility", "title": "Humility"}]
 ---
 
 By Fr. Conor Donnelly

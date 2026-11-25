@@ -8,7 +8,7 @@ prev_slug: our-ladys-fidelity
 prev_title: "Our Lady\u2019s Fidelity"
 next_slug: our-sins-our-confession
 next_title: "Our Sins, Our Confession"
-related: [{"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}, {"slug": "mary-mother-of-god", "title": "Mary, Mother of God"}, {"slug": "mary-mother-of-god-2nd-ed", "title": "Mary, Mother of God (2nd Ed.)"}]
+related: [{"slug": "mother-of-the-church", "title": "Mother of the Church"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "divine-filiation", "title": "Divine Filiation"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}, {"slug": "humility", "title": "Humility"}]
 ---
 
 By Fr. Conor Donnelly

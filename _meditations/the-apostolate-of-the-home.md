@@ -8,7 +8,7 @@ prev_slug: the-apostolate-of-confession
 prev_title: "The Apostolate of Confession"
 next_slug: the-archangels
 next_title: "The Archangels"
-related: [{"slug": "on-apostolate", "title": "On Apostolate"}, {"slug": "the-apostolate", "title": "The Apostolate"}, {"slug": "the-apostolate-of-confession", "title": "The Apostolate of Confession"}]
+related: [{"slug": "the-feast-of-the-holy-family", "title": "The Feast of the Holy Family"}, {"slug": "passionately-loving-the-world", "title": "Passionately Loving the World"}, {"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}, {"slug": "the-joy-of-the-journey-to-bethlehem", "title": "The Joy of the Journey to Bethlehem"}, {"slug": "the-magnificat", "title": "The Magnificat"}]
 ---
 
 By Fr. Conor Donnelly

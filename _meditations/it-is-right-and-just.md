@@ -8,7 +8,7 @@ prev_slug: invoking-our-savior
 prev_title: "Invoking Our Savior"
 next_slug: jesus-christ-the-eternal-high-priest
 next_title: "Jesus Christ, The Eternal High Priest"
-related: [{"slug": "making-a-more-just-world", "title": "Making A More Just World"}, {"slug": "churches-and-the-mass", "title": "Churches and the Mass"}, {"slug": "corpus-christi-2026", "title": "Corpus Christi (2026)"}]
+related: [{"slug": "enlarging-the-heart", "title": "Enlarging the Heart"}, {"slug": "gratitude-for-pope-benedict-xvi", "title": "Gratitude for Pope Benedict XVI"}, {"slug": "helping-to-do-good", "title": "Helping To Do Good"}, {"slug": "on-work", "title": "On Work"}, {"slug": "the-dignity-of-work", "title": "The Dignity of Work"}]
 ---
 
 By Fr. Conor Donnelly

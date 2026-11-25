@@ -8,7 +8,7 @@ prev_slug: tepidity
 prev_title: "Tepidity"
 next_slug: thanksgiving-after-mass
 next_title: "Thanksgiving After Mass"
-related: [{"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}, {"slug": "thanksgiving-day-2026", "title": "Thanksgiving Day (2026)"}, {"slug": "abandonment", "title": "Abandonment"}]
+related: [{"slug": "thanksgiving-day-2026", "title": "Thanksgiving Day (2026)"}, {"slug": "the-healing-of-the-ten-lepers", "title": "The Healing of the Ten Lepers"}, {"slug": "souls-of-prayer", "title": "Souls of Prayer"}, {"slug": "pro-active-love", "title": "Pro-Active Love"}, {"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}]
 ---
 
 By Fr. Conor Donnelly

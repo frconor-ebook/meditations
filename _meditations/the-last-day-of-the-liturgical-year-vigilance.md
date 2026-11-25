@@ -8,7 +8,7 @@ prev_slug: the-king-of-hearts
 prev_title: "The King of Hearts"
 next_slug: the-last-day-of-the-year-dec-31
 next_title: "The Last Day of the Year (Dec. 31)"
-related: [{"slug": "the-last-day-of-the-year-dec-31", "title": "The Last Day of the Year (Dec. 31)"}, {"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}, {"slug": "vigilance-and-the-rosary", "title": "Vigilance and the Rosary"}]
+related: [{"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}, {"slug": "with-the-readiness-of-lovevigilance", "title": "With the Readiness of Love\u2014Vigilance"}, {"slug": "on-our-way-to-the-house-of-our-father", "title": "On Our Way to The House of Our Father"}, {"slug": "waiting-for-the-lord", "title": "Waiting for The Lord"}, {"slug": "the-last-things", "title": "The Last Things"}]
 ---
 
 By Fr. Conor Donnelly

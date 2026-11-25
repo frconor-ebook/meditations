@@ -8,7 +8,7 @@ prev_slug: life-of-faith
 prev_title: "Life of Faith"
 next_slug: little-duties
 next_title: "Little Duties"
-related: [{"slug": "abandonment", "title": "Abandonment"}, {"slug": "contemplative-soul", "title": "Contemplative Soul"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}]
+related: [{"slug": "naaman-the-syrian-docility", "title": "Naaman the Syrian (Docility)"}, {"slug": "charity-and-the-tongue", "title": "Charity and the Tongue"}, {"slug": "helping-to-do-good", "title": "Helping To Do Good"}, {"slug": "the-syrophoenician-woman", "title": "The Syrophoenician Woman"}, {"slug": "enlarging-the-heart", "title": "Enlarging the Heart"}]
 ---
 
 By Fr. Conor Donnelly

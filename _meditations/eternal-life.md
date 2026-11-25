@@ -8,7 +8,7 @@ prev_slug: eternal-happiness
 prev_title: "Eternal Happiness"
 next_slug: even-the-hairs-of-your-head
 next_title: "Even The Hairs of Your Head"
-related: [{"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}, {"slug": "christs-eternal-priesthood", "title": "Christ\u2019s Eternal Priesthood"}, {"slug": "eternal-happiness", "title": "Eternal Happiness"}]
+related: [{"slug": "the-way-the-truth-and-the-life", "title": "The Way, the Truth, and the Life"}, {"slug": "gods-bridge-builder", "title": "God\u2019s Bridge-Builder"}, {"slug": "the-light-of-the-world", "title": "The Light of the World"}, {"slug": "gamblers-on-calvary", "title": "Gamblers On Calvary"}, {"slug": "the-crosses-of-love-and-hate", "title": "The Crosses of Love and Hate"}]
 ---
 
 

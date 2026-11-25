@@ -7,7 +7,7 @@ prev_slug: apart-from-me-you-can-do-nothing
 prev_title: "Apart From Me You Can Do Nothing"
 next_slug: ash-wednesday
 next_title: "Ash Wednesday"
-related: [{"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "inestimable-gift", "title": "Inestimable Gift"}, {"slug": "rediscover-the-gift", "title": "Rediscover the Gift"}]
+related: [{"slug": "the-incarnation-and-the-eucharist", "title": "The Incarnation and the Eucharist"}, {"slug": "inestimable-gift", "title": "Inestimable Gift"}, {"slug": "the-day-of-joy", "title": "The Day of Joy"}, {"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}, {"slug": "a-mystery-to-be-lived", "title": "A Mystery to Be Lived"}]
 ---
 
 

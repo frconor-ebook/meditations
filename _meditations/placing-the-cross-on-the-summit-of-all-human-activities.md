@@ -8,7 +8,7 @@ prev_slug: piety
 prev_title: "Piety"
 next_slug: plan-of-life
 next_title: "Plan of Life"
-related: [{"slug": "cross-rejection", "title": "Cross Rejection"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}, {"slug": "joy-in-the-cross-lent", "title": "Joy in the Cross (Lent)"}]
+related: [{"slug": "from-tabor-to-calvary", "title": "From Tabor to Calvary"}, {"slug": "love-for-the-cross", "title": "Love for the Cross"}, {"slug": "the-exaltation-of-the-holy-cross", "title": "The Exaltation of the Holy Cross"}, {"slug": "self-denial", "title": "Self-Denial"}, {"slug": "the-exaltation-of-the-holy-cross-2026", "title": "The Exaltation of the Holy Cross (2026)"}]
 ---
 
 By Fr. Conor Donnelly

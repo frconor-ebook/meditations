@@ -8,7 +8,7 @@ prev_slug: optimism
 prev_title: "Optimism"
 next_slug: our-father-god
 next_title: "Our Father God"
-related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
+related: [{"slug": "on-work", "title": "On Work"}, {"slug": "humility", "title": "Humility"}, {"slug": "the-art-of-prudence", "title": "The Art of Prudence"}, {"slug": "in-the-heart-of-joseph-and-mary", "title": "In the Heart of Joseph and Mary"}, {"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}]
 ---
 
 By Fr. Conor Donnelly

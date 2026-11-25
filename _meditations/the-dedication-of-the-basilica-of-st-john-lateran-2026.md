@@ -8,7 +8,7 @@ prev_slug: the-decree-of-caesar-augustus-and-the-journey-to-bethlehem
 prev_title: "The Decree of Caesar Augustus and The Journey to Bethlehem"
 next_slug: the-dedication-of-the-basilica-of-st-mary-major
 next_title: "The Dedication of the Basilica of St. Mary Major"
-related: [{"slug": "the-dedication-of-the-basilica-of-st-mary-major", "title": "The Dedication of the Basilica of St. Mary Major"}, {"slug": "st-john", "title": "St. John"}, {"slug": "st-john-2025-ed", "title": "St. John (2025 Ed.)"}]
+related: [{"slug": "st-john-paul-ii", "title": "St. John Paul II"}, {"slug": "the-solemnity-of-all-saints-2026", "title": "The Solemnity of All Saints (2026)"}, {"slug": "the-presentation-of-our-lady", "title": "The Presentation of Our Lady"}, {"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "the-exaltation-of-the-holy-cross-2026", "title": "The Exaltation of the Holy Cross (2026)"}]
 ---
 
 By Fr. Conor Donnelly

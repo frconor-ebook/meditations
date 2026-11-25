@@ -8,7 +8,7 @@ prev_slug: patience
 prev_title: "Patience"
 next_slug: payment-of-the-temple-tax
 next_title: "Payment of the Temple Tax"
-related: [{"slug": "patience", "title": "Patience"}, {"slug": "crises-be-not-afraid", "title": "Crises: Be Not Afraid"}, {"slug": "cross-rejection", "title": "Cross Rejection"}]
+related: [{"slug": "patience", "title": "Patience"}, {"slug": "charity-versus-anger", "title": "Charity versus Anger"}, {"slug": "forgiveness", "title": "Forgiveness"}, {"slug": "generosity", "title": "Generosity"}, {"slug": "the-syrophoenician-woman", "title": "The Syrophoenician Woman"}]
 ---
 
 By Fr. Conor Donnelly

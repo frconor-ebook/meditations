@@ -8,7 +8,7 @@ prev_slug: looking-up-to-heaven
 prev_title: "Looking Up to Heaven"
 next_slug: love-for-chastity
 next_title: "Love for Chastity"
-related: [{"slug": "love-for-peter", "title": "Love for Peter"}, {"slug": "love-for-the-church-st-pius-x", "title": "Love for the Church (St. Pius X)"}, {"slug": "the-anniversary-of-the-ordination-of-the-first-three-priests-of-the-prelature", "title": "The Anniversary of the Ordination of the First Three Priests of the Prelature"}]
+related: [{"slug": "the-one-who-gives-us-jesus", "title": "The One Who Gives Us Jesus"}, {"slug": "the-priestly-society-of-the-holy-cross", "title": "The Priestly Society of the Holy Cross"}, {"slug": "the-anniversary-of-the-ordination-of-st-josemaria", "title": "The Anniversary of the Ordination of St. Josemar\u00eda"}, {"slug": "christs-eternal-priesthood", "title": "Christ\u2019s Eternal Priesthood"}, {"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}]
 ---
 
 By Fr. Conor Donnelly

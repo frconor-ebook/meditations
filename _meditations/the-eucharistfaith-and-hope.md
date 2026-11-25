@@ -8,7 +8,7 @@ prev_slug: the-eucharist-and-love
 prev_title: "The Eucharist and Love"
 next_slug: the-exaltation-of-the-holy-cross
 next_title: "The Exaltation of the Holy Cross"
-related: [{"slug": "holy-thursday-the-eucharist", "title": "Holy Thursday: The Eucharist"}, {"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing, Loving, and Living the Eucharist"}, {"slug": "our-lady-woman-of-the-eucharist", "title": "Our Lady, Woman of the Eucharist"}]
+related: [{"slug": "the-eucharist-and-love", "title": "The Eucharist and Love"}, {"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "taking-the-bread", "title": "Taking the Bread"}, {"slug": "when-i-am-weak-then-i-am-strong", "title": "When I Am Weak, Then I Am Strong"}, {"slug": "rediscover-the-gift", "title": "Rediscover the Gift"}]
 ---
 
 By Fr. Conor Donnelly

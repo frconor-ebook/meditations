@@ -7,6 +7,7 @@ prev_slug: knowing-loving-and-living-the-eucharist
 prev_title: "Knowing, Loving, and Living the Eucharist"
 next_slug: learning-to-ask
 next_title: "Learning to Ask"
+related: [{"slug": "the-miraculous-catch-of-fish", "title": "The Miraculous Catch of Fish"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}, {"slug": "fishers-of-men", "title": "Fishers of Men"}, {"slug": "the-paralytic-and-his-friends", "title": "The Paralytic and His Friends"}, {"slug": "generosity-in-correspondence", "title": "Generosity in Correspondence"}]
 ---
 
 By Fr. Conor Donnelly

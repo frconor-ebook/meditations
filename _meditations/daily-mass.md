@@ -8,7 +8,7 @@ prev_slug: cross-rejection
 prev_title: "Cross Rejection"
 next_slug: death-and-the-good-use-of-time-2nd-ed
 next_title: "Death and the Good Use of Time (2nd Ed.)"
-related: [{"slug": "churches-and-the-mass", "title": "Churches and the Mass"}, {"slug": "thanksgiving-after-mass", "title": "Thanksgiving After Mass"}, {"slug": "the-mass", "title": "The Mass"}]
+related: [{"slug": "the-mass", "title": "The Mass"}, {"slug": "love-for-priests", "title": "Love For Priests"}, {"slug": "the-one-who-gives-us-jesus", "title": "The One Who Gives Us Jesus"}, {"slug": "the-lords-day", "title": "The Lord\u2019s Day"}, {"slug": "the-bread-of-life", "title": "The Bread of Life"}]
 ---
 
 By Fr. Conor Donnelly

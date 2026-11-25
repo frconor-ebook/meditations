@@ -8,7 +8,7 @@ prev_slug: loyalty
 prev_title: "Loyalty"
 next_slug: magnanimity
 next_title: "Magnanimity"
-related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
+related: [{"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "souls-of-prayer", "title": "Souls of Prayer"}, {"slug": "the-archangels", "title": "The Archangels"}, {"slug": "perseverance", "title": "Perseverance"}, {"slug": "fire-on-earth", "title": "Fire On Earth"}]
 ---
 
 By Fr. Conor Donnelly

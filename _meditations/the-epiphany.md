@@ -8,7 +8,7 @@ prev_slug: the-end-of-life
 prev_title: "The End of Life"
 next_slug: the-epiphany-of-our-lord-2027-edition
 next_title: "The Epiphany of Our Lord (2027 Edition)"
-related: [{"slug": "the-epiphany-of-our-lord-2027-edition", "title": "The Epiphany of Our Lord (2027 Edition)"}, {"slug": "christmas", "title": "Christmas"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}]
+related: [{"slug": "christmas", "title": "Christmas"}, {"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}, {"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}, {"slug": "the-decree-of-caesar-augustus-and-the-journey-to-bethlehem", "title": "The Decree of Caesar Augustus and The Journey to Bethlehem"}, {"slug": "the-shepherds-and-peace", "title": "The Shepherds and Peace"}]
 ---
 
 By Fr. Conor Donnelly

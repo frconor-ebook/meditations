@@ -8,7 +8,7 @@ prev_slug: the-birth-of-st-john-the-baptist
 prev_title: "The Birth of St. John the Baptist"
 next_slug: the-birthday-of-the-prelate-don-fernando
 next_title: "The Birthday of the Prelate (Don Fernando)"
-related: [{"slug": "st-josemaria-escriva-feast-june-26th", "title": "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"}, {"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "the-anniversary-of-the-first-holy-communion-of-st-josemaria", "title": "The Anniversary of the First Holy Communion of St. Josemar\u00eda"}]
+related: [{"slug": "the-birthday-of-the-prelate-don-fernando", "title": "The Birthday of the Prelate (Don Fernando)"}, {"slug": "the-anniversary-of-the-election-of-don-fernando-ocariz-as-the-prelate-of", "title": "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"}, {"slug": "the-saints-day-of-the-prelate", "title": "The Saint\u2019s Day of the Prelate"}, {"slug": "the-anniversary-of-the-establishment-of-the-prelature", "title": "The Anniversary of the Establishment of the Prelature"}, {"slug": "the-anniversary-of-the-women-of-the-prelature", "title": "The Anniversary of the Women of the Prelature"}]
 ---
 
 By Fr. Conor Donnelly

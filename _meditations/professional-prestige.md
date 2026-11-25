@@ -8,7 +8,7 @@ prev_slug: pro-active-love
 prev_title: "Pro-Active Love"
 next_slug: purity-of-soul
 next_title: "Purity of Soul"
-related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "little-duties", "title": "Little Duties"}, {"slug": "little-things", "title": "Little Things"}]
+related: [{"slug": "the-son-of-the-carpenter", "title": "The Son of the Carpenter"}, {"slug": "on-work", "title": "On Work"}, {"slug": "the-dignity-of-work", "title": "The Dignity of Work"}, {"slug": "study", "title": "Study"}, {"slug": "on-apostolate", "title": "On Apostolate"}]
 ---
 
 By Fr. Conor Donnelly

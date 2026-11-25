@@ -8,7 +8,7 @@ prev_slug: the-speck-in-my-brothers-eye
 prev_title: "The Speck In My Brother\u2019s Eye"
 next_slug: the-syrophoenician-woman
 next_title: "The Syrophoenician Woman"
-related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
+related: [{"slug": "walking-on-the-waterfaith", "title": "Walking on the Water\u2013\u2013Faith"}, {"slug": "our-father-god", "title": "Our Father God"}, {"slug": "apart-from-me-you-can-do-nothing", "title": "Apart From Me You Can Do Nothing"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "house-on-the-rock", "title": "House on the Rock"}]
 ---
 
 By Fr. Conor Donnelly

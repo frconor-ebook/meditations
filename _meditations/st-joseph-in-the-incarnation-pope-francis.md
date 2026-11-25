@@ -8,7 +8,7 @@ prev_slug: st-joseph-and-the-setbacks-of-life
 prev_title: "St. Joseph and the Setbacks of Life"
 next_slug: st-joseph-the-worker
 next_title: "St. Joseph the Worker"
-related: [{"slug": "the-anniversary-of-pope-franciss-election", "title": "The Anniversary of Pope Francis\u2019s Election"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}, {"slug": "midterm-of-the-year-of-st-joseph", "title": "Midterm of the Year of St. Joseph"}]
+related: [{"slug": "st-joseph-the-family-man", "title": "St. Joseph, The Family Man"}, {"slug": "the-creative-courage-of-st-joseph", "title": "The Creative Courage of St. Joseph"}, {"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}, {"slug": "st-joseph-and-the-setbacks-of-life", "title": "St. Joseph and the Setbacks of Life"}, {"slug": "st-josephs-holiness-in-ordinary-life", "title": "St. Joseph\u2019s Holiness in Ordinary Life"}]
 ---
 
 By Fr. Conor Donnelly

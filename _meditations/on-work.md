@@ -8,7 +8,7 @@ prev_slug: on-temperance
 prev_title: "On Temperance"
 next_slug: optimism
 next_title: "Optimism"
-related: [{"slug": "the-dignity-of-work", "title": "The Dignity of Work"}, {"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}, {"slug": "the-father-in-the-work", "title": "The Father in the Work"}]
+related: [{"slug": "the-dignity-of-work", "title": "The Dignity of Work"}, {"slug": "st-joseph-the-worker", "title": "St. Joseph the Worker"}, {"slug": "love-for-our-vocation", "title": "Love for Our Vocation"}, {"slug": "humility", "title": "Humility"}, {"slug": "little-duties", "title": "Little Duties"}]
 ---
 
 By Fr. Conor Donnelly

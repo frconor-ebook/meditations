@@ -7,7 +7,7 @@ prev_slug: mary-mother-of-god-2027-edition
 prev_title: "Mary Mother of God (2027 Edition)"
 next_slug: mary-mother-of-god
 next_title: "Mary, Mother of God"
-related: [{"slug": "at-the-school-of-mary", "title": "At the School of Mary"}, {"slug": "conjugal-love", "title": "Conjugal Love"}, {"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}]
+related: [{"slug": "the-prodigal-son", "title": "The Prodigal Son"}, {"slug": "good-friday-of-the-lords-passion", "title": "Good Friday of the Lord\u2019s Passion"}, {"slug": "abandonment", "title": "Abandonment"}, {"slug": "the-mass-and-personal-self-surrender", "title": "The Mass and Personal Self-Surrender"}, {"slug": "charity-and-the-tongue", "title": "Charity and the Tongue"}]
 ---
 
 By Fr. Conor Donnelly

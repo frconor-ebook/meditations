@@ -8,7 +8,7 @@ prev_slug: making-good-decisions-or-the-virtue-of-prudence
 prev_title: "Making Good Decisions or The Virtue of Prudence"
 next_slug: making-the-most-of-the-gifts-we-have-been-given
 next_title: "Making the Most of the Gifts We Have Been Given"
-related: [{"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "the-good-use-of-time", "title": "The Good Use of Time"}, {"slug": "making-a-more-just-world", "title": "Making A More Just World"}]
+related: [{"slug": "the-last-day-of-the-year-dec-31", "title": "The Last Day of the Year (Dec. 31)"}, {"slug": "the-good-use-of-time", "title": "The Good Use of Time"}, {"slug": "the-feast-of-the-holy-family", "title": "The Feast of the Holy Family"}, {"slug": "the-parable-of-the-talents", "title": "The Parable of the Talents"}, {"slug": "the-end-of-life", "title": "The End of Life"}]
 ---
 
 By Fr. Conor Donnelly

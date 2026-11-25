@@ -8,7 +8,7 @@ prev_slug: st-james-2026
 prev_title: "St. James (2026)"
 next_slug: st-john
 next_title: "St. John"
-related: [{"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
+related: [{"slug": "st-monica", "title": "St. Monica"}, {"slug": "st-pius-x", "title": "St. Pius X"}, {"slug": "the-grain-of-wheat", "title": "The Grain of Wheat"}, {"slug": "piety", "title": "Piety"}, {"slug": "the-good-samaritan", "title": "The Good Samaritan"}]
 ---
 
 

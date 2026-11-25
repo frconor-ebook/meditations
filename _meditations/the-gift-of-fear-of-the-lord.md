@@ -8,7 +8,7 @@ prev_slug: the-gift-of-counsel
 prev_title: "The Gift of Counsel"
 next_slug: the-gift-of-fortitude
 next_title: "The Gift of Fortitude"
-related: [{"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}, {"slug": "the-gift-of-fortitude", "title": "The Gift of Fortitude"}, {"slug": "the-gift-of-knowledge", "title": "The Gift of Knowledge"}]
+related: [{"slug": "the-gift-of-understanding", "title": "The Gift of Understanding"}, {"slug": "the-gift-of-piety", "title": "The Gift of Piety"}, {"slug": "conscience-the-light-of-the-soul", "title": "Conscience, The Light of the Soul"}, {"slug": "first-thoughts-and-emotions", "title": "First Thoughts and Emotions"}, {"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}]
 ---
 
 By Fr. Conor Donnelly

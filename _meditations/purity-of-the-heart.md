@@ -8,7 +8,7 @@ prev_slug: purity-of-soul
 prev_title: "Purity of Soul"
 next_slug: raise-the-world
 next_title: "Raise the World"
-related: [{"slug": "holy-purity", "title": "Holy Purity"}, {"slug": "purity-of-soul", "title": "Purity of Soul"}, {"slug": "clean-of-heart", "title": "Clean of Heart"}]
+related: [{"slug": "holy-purity", "title": "Holy Purity"}, {"slug": "examination-of-conscience", "title": "Examination of Conscience"}, {"slug": "preparing-to-receive-jesus", "title": "Preparing to Receive Jesus"}, {"slug": "st-nicholas-of-bari", "title": "St. Nicholas of Bari"}, {"slug": "st-john-the-baptist", "title": "St. John the Baptist"}]
 ---
 
 By Fr. Conor Donnelly

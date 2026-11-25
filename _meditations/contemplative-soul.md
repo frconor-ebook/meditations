@@ -8,7 +8,7 @@ prev_slug: conscience-the-light-of-the-soul
 prev_title: "Conscience, The Light of the Soul"
 next_slug: contemplative-it-is-good-that-we-are-here
 next_title: "Contemplative: It Is Good That We Are Here"
-related: [{"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "conscience-the-light-of-the-soul", "title": "Conscience, The Light of the Soul"}, {"slug": "purity-of-soul", "title": "Purity of Soul"}]
+related: [{"slug": "the-universal-call-to-contemplation", "title": "The Universal Call to Contemplation"}, {"slug": "rectitude-of-intention", "title": "Rectitude of Intention"}, {"slug": "all-the-glory-to-god", "title": "All the Glory to God"}, {"slug": "martha-martha", "title": "Martha, Martha"}, {"slug": "taking-advantage-of-the-means-of-formation", "title": "Taking Advantage of the Means of Formation"}]
 ---
 
 

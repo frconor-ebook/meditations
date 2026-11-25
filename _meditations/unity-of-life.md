@@ -8,7 +8,7 @@ prev_slug: unhappy-man-that-i-am
 prev_title: "Unhappy Man That I Am"
 next_slug: unlimited-forgiveness
 next_title: "Unlimited Forgiveness"
-related: [{"slug": "st-josephs-holiness-in-ordinary-life", "title": "St. Joseph\u2019s Holiness in Ordinary Life"}, {"slug": "eternal-life", "title": "Eternal Life"}, {"slug": "life-of-childhood", "title": "Life of Childhood"}]
+related: [{"slug": "the-truth-will-make-you-free", "title": "The Truth Will Make You Free"}, {"slug": "zeal-for-holiness-through-marriage", "title": "Zeal for Holiness Through Marriage"}, {"slug": "st-monica", "title": "St. Monica"}, {"slug": "salt-and-light", "title": "Salt and Light"}, {"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}]
 ---
 
 By Fr. Conor Donnelly

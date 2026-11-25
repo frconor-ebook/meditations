@@ -8,7 +8,7 @@ prev_slug: the-gift-of-wisdom
 prev_title: "The Gift of Wisdom"
 next_slug: the-good-shepherd
 next_title: "The Good Shepherd"
-related: [{"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "good-anger-and-bad-anger", "title": "Good Anger and Bad Anger"}]
+related: [{"slug": "the-end-of-life", "title": "The End of Life"}, {"slug": "charity", "title": "Charity"}, {"slug": "the-parable-of-the-weeds", "title": "The Parable of the Weeds"}, {"slug": "the-paralytic-and-his-friends", "title": "The Paralytic and His Friends"}, {"slug": "pro-active-love", "title": "Pro-Active Love"}]
 ---
 
 By Fr. Conor Donnelly

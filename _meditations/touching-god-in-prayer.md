@@ -8,7 +8,7 @@ prev_slug: todays-task
 prev_title: "Today\u2019s Task"
 next_slug: transformation-through-prayer
 next_title: "Transformation Through Prayer"
-related: [{"slug": "growth-in-prayer", "title": "Growth in Prayer"}, {"slug": "mental-prayer", "title": "Mental Prayer"}, {"slug": "mental-prayer-after-edward-leen", "title": "Mental Prayer (after Edward Leen)"}]
+related: [{"slug": "knowing-god-through-mary", "title": "Knowing God Through Mary"}, {"slug": "inestimable-gift", "title": "Inestimable Gift"}, {"slug": "a-mystery-to-be-lived", "title": "A Mystery to Be Lived"}, {"slug": "appreciating-the-gift", "title": "Appreciating the Gift"}, {"slug": "even-the-hairs-of-your-head", "title": "Even The Hairs of Your Head"}]
 ---
 
 

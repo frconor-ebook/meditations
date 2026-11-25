@@ -7,7 +7,7 @@ prev_slug: the-transfiguration
 prev_title: "The Transfiguration"
 next_slug: the-universal-call-to-contemplation
 next_title: "The Universal Call to Contemplation"
-related: [{"slug": "afterwards-you-will-understand", "title": "Afterwards You Will Understand"}, {"slug": "behold-i-make-all-things-new", "title": "Behold I Make All Things New"}, {"slug": "by-their-fruits-you-will-know-them", "title": "By Their Fruits, You Will Know Them"}]
+related: [{"slug": "keeping-my-word", "title": "Keeping My Word"}, {"slug": "unity-of-life", "title": "Unity of Life"}, {"slug": "obedience", "title": "Obedience"}, {"slug": "study", "title": "Study"}, {"slug": "the-devils-cast-out", "title": "The Devils Cast Out"}]
 ---
 
 By Fr. Conor Donnelly

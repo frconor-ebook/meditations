@@ -8,7 +8,7 @@ prev_slug: our-lady-comforter-of-the-afflicted
 prev_title: "Our Lady, Comforter of the Afflicted"
 next_slug: our-lady-woman-of-the-eucharist
 next_title: "Our Lady, Woman of the Eucharist"
-related: [{"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}, {"slug": "the-sacrament-of-growth-and-mercy", "title": "The Sacrament of Growth and Mercy"}, {"slug": "mary-mother-of-god-2027-edition", "title": "Mary Mother of God (2027 Edition)"}]
+related: [{"slug": "our-lady-comforter-of-the-afflicted", "title": "Our Lady, Comforter of the Afflicted"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "a-merciful-messiah", "title": "A Merciful Messiah"}, {"slug": "zacchaeus", "title": "Zacchaeus"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: the-mystery-of-the-incarnation
 prev_title: "The Mystery of the Incarnation"
 next_slug: the-narrow-path
 next_title: "The Narrow Path"
-related: [{"slug": "the-narrow-path", "title": "The Narrow Path"}, {"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "salt-that-has-lost-its-savor", "title": "Salt That Has Lost Its Savor"}]
+related: [{"slug": "the-narrow-path", "title": "The Narrow Path"}, {"slug": "interior-struggle", "title": "Interior Struggle"}, {"slug": "the-pool-at-bethsaida", "title": "The Pool at Bethsaida"}, {"slug": "the-bent-over-woman", "title": "The Bent Over Woman"}, {"slug": "perseverance", "title": "Perseverance"}]
 ---
 
 By Fr. Conor Donnelly

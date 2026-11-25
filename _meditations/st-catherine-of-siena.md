@@ -8,7 +8,7 @@ prev_slug: st-benedict
 prev_title: "St. Benedict"
 next_slug: st-catherine-of-siena-2026
 next_title: "St. Catherine of Siena (2026)"
-related: [{"slug": "st-catherine-of-siena-2026", "title": "St. Catherine of Siena (2026)"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
+related: [{"slug": "charity-and-the-tongue", "title": "Charity and the Tongue"}, {"slug": "humility", "title": "Humility"}, {"slug": "on-work", "title": "On Work"}, {"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}, {"slug": "st-thomas-more", "title": "St. Thomas More"}]
 ---
 
 By Fr. Conor Donnelly

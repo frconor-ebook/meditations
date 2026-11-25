@@ -8,7 +8,7 @@ prev_slug: our-lady-of-the-rosary-2026
 prev_title: "Our Lady of the Rosary (2026)"
 next_slug: our-lady-the-queen
 next_title: "Our Lady the Queen"
-related: [{"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
+related: [{"slug": "the-dedication-of-the-basilica-of-st-mary-major", "title": "The Dedication of the Basilica of St. Mary Major"}, {"slug": "the-assumption-of-our-lady", "title": "The Assumption of Our Lady"}, {"slug": "the-nativity-of-our-lady", "title": "The Nativity of Our Lady"}, {"slug": "our-lady-mother-of-mercy", "title": "Our Lady, Mother of Mercy"}, {"slug": "mother-of-god-and-our-mother", "title": "Mother of God and Our Mother"}]
 ---
 
 

@@ -8,7 +8,7 @@ prev_slug: the-holy-name-of-mary
 prev_title: "The Holy Name of Mary"
 next_slug: the-house-of-god
 next_title: "The House of God"
-related: [{"slug": "our-lady-of-the-rosary-2026", "title": "Our Lady of the Rosary (2026)"}, {"slug": "the-holy-name-of-mary", "title": "The Holy Name of Mary"}, {"slug": "vigilance-and-the-rosary", "title": "Vigilance and the Rosary"}]
+related: [{"slug": "vigilance-and-the-rosary", "title": "Vigilance and the Rosary"}, {"slug": "our-lady", "title": "Our Lady"}, {"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "our-lady-of-the-rosary-2026", "title": "Our Lady of the Rosary (2026)"}, {"slug": "unity-of-life", "title": "Unity of Life"}]
 ---
 
 By Fr. Conor Donnelly

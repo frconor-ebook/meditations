@@ -8,7 +8,7 @@ prev_slug: st-teresa-benedicta-of-the-cross-edith-stein
 prev_title: "St. Teresa Benedicta of the Cross (Edith Stein)"
 next_slug: st-teresa-of-avila-after-edward-leen
 next_title: "St. Teresa of \u00c1vila (after Edward Leen)"
-related: [{"slug": "st-teresa-of-avila-after-edward-leen", "title": "St. Teresa of \u00c1vila (after Edward Leen)"}, {"slug": "st-teresa-benedicta-of-the-cross-edith-stein", "title": "St. Teresa Benedicta of the Cross (Edith Stein)"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}]
+related: [{"slug": "true-prayer", "title": "True Prayer"}, {"slug": "st-teresa-of-avila-after-edward-leen", "title": "St. Teresa of \u00c1vila (after Edward Leen)"}, {"slug": "the-great-saint-of-avila", "title": "The Great Saint of Avila"}, {"slug": "the-pharisee-and-the-publican", "title": "The Pharisee and the Publican"}, {"slug": "personal-prayer", "title": "Personal Prayer"}]
 ---
 
 

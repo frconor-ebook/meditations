@@ -8,7 +8,7 @@ prev_slug: our-lady-of-the-angels
 prev_title: "Our Lady of the Angels"
 next_slug: our-lady-of-the-snows
 next_title: "Our Lady of the Snows"
-related: [{"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
+related: [{"slug": "vigilance-and-the-rosary", "title": "Vigilance and the Rosary"}, {"slug": "the-holy-rosary", "title": "The Holy Rosary"}, {"slug": "st-luke-2026", "title": "St. Luke (2026)"}, {"slug": "our-lady-comforter-of-the-afflicted", "title": "Our Lady, Comforter of the Afflicted"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
 ---
 
 

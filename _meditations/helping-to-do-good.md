@@ -8,7 +8,7 @@ prev_slug: hell-purgatory-heaven
 prev_title: "Hell, Purgatory, Heaven"
 next_slug: holy-communion-jesus-is-mine
 next_title: "Holy Communion: Jesus Is Mine"
-related: [{"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "good-anger-and-bad-anger", "title": "Good Anger and Bad Anger"}]
+related: [{"slug": "much-will-be-demanded-responsibility", "title": "Much Will Be Demanded: Responsibility"}, {"slug": "the-healing-of-the-man-with-the-withered-hand", "title": "The Healing of the Man with the Withered Hand"}, {"slug": "forgiveness", "title": "Forgiveness"}, {"slug": "the-apostolate-of-confession", "title": "The Apostolate of Confession"}, {"slug": "conscience-the-light-of-the-soul", "title": "Conscience, The Light of the Soul"}]
 ---
 
 By Fr. Conor Donnelly

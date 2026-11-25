@@ -8,7 +8,7 @@ prev_slug: the-adoration-of-the-kings
 prev_title: "The Adoration of the Kings"
 next_slug: the-anniversary-of-the-election-of-don-fernando-ocariz-as-the-prelate-of
 next_title: "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"
-related: [{"slug": "st-joseph-in-the-incarnation-pope-francis", "title": "St. Joseph in the Incarnation (Pope Francis)"}, {"slug": "the-anniversary-of-the-election-of-don-fernando-ocariz-as-the-prelate-of", "title": "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"}, {"slug": "gratitude-for-pope-benedict-xvi", "title": "Gratitude for Pope Benedict XVI"}]
+related: [{"slug": "gratitude-for-pope-benedict-xvi", "title": "Gratitude for Pope Benedict XVI"}, {"slug": "mother-of-the-church", "title": "Mother of the Church"}, {"slug": "st-joseph-the-family-man", "title": "St. Joseph, The Family Man"}, {"slug": "st-josephs-holiness-in-ordinary-life", "title": "St. Joseph\u2019s Holiness in Ordinary Life"}, {"slug": "enlarging-the-heart", "title": "Enlarging the Heart"}]
 ---
 
 By Fr. Conor Donnelly

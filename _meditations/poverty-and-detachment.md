@@ -8,7 +8,7 @@ prev_slug: plan-of-life
 prev_title: "Plan of Life"
 next_slug: pray-for-the-dead
 next_title: "Pray for the Dead"
-related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
+related: [{"slug": "st-nicholas-of-bari", "title": "St. Nicholas of Bari"}, {"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}, {"slug": "st-francis-of-assisi", "title": "St. Francis of Assisi"}, {"slug": "purity-of-the-heart", "title": "Purity of the Heart"}, {"slug": "cheerfulness", "title": "Cheerfulness"}]
 ---
 
 By Fr. Conor Donnelly

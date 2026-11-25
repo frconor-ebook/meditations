@@ -8,7 +8,7 @@ prev_slug: marriage-in-heaven
 prev_title: "Marriage in Heaven"
 next_slug: mary-mother-of-god-2027-edition
 next_title: "Mary Mother of God (2027 Edition)"
-related: [{"slug": "sts-martha-mary-and-lazarus", "title": "Sts. Martha, Mary, and Lazarus"}, {"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}]
+related: [{"slug": "sts-martha-mary-and-lazarus", "title": "Sts. Martha, Mary, and Lazarus"}, {"slug": "true-prayer", "title": "True Prayer"}, {"slug": "contemplative-soul", "title": "Contemplative Soul"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "rectitude-of-intention", "title": "Rectitude of Intention"}]
 ---
 
 By Fr. Conor Donnelly

@@ -7,7 +7,7 @@ prev_slug: watchfulness
 prev_title: "Watchfulness"
 next_slug: where-is-your-heart
 next_title: "Where Is Your Heart?"
-related: [{"slug": "knowing-when-to-speak", "title": "Knowing When to Speak"}]
+related: [{"slug": "spiritual-receptivity", "title": "Spiritual Receptivity"}, {"slug": "the-eucharistfaith-and-hope", "title": "The Eucharist\u2013Faith and Hope"}, {"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "the-eucharist-and-love", "title": "The Eucharist and Love"}, {"slug": "st-therese-of-lisieux", "title": "St. Th\u00e9r\u00e8se of Lisieux"}]
 ---
 
 

@@ -8,7 +8,7 @@ prev_slug: the-annunciation
 prev_title: "The Annunciation"
 next_slug: the-apostolate
 next_title: "The Apostolate"
-related: [{"slug": "the-annunciation", "title": "The Annunciation"}, {"slug": "the-solemnity-of-the-annunciation-2026", "title": "The Solemnity of the Annunciation (2026)"}, {"slug": "christmas", "title": "Christmas"}]
+related: [{"slug": "our-ladys-fidelity", "title": "Our Lady\u2019s Fidelity"}, {"slug": "the-annunciation", "title": "The Annunciation"}, {"slug": "the-mystery-of-the-incarnation", "title": "The Mystery of the Incarnation"}, {"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}, {"slug": "simeon-and-anna", "title": "Simeon and Anna"}]
 ---
 
 By Fr. Conor Donnelly

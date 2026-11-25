@@ -317,3 +317,85 @@ class TestDuplicateSlugs:
         assert "Proofread text." in (root / "_meditations" / "humility.md").read_text()
         meds = json.load(open(root / "data" / "meditations.json"))
         assert len(meds) == 1
+
+
+class TestSemanticRelated:
+    def test_uses_semantic_neighbors_when_present(self, site):
+        (site["data"] / "semantic_related.json").write_text(
+            json.dumps({
+                "model": "models/gemini-embedding-2",
+                "related": {
+                    "humility": [
+                        {"slug": "our-lady-of-fatima", "score": 0.91},
+                        {"slug": "the-say-so", "score": 0.85},
+                    ],
+                },
+            })
+        )
+        convert_markdown_to_meditations(
+            str(site["source"]), str(site["output"]), str(site["data"])
+        )
+        fm, _ = read_front_matter(site["output"] / "humility.md")
+        slugs = [r["slug"] for r in fm["related"]]
+        # Semantic neighbors come first, then heuristic backfills without duplicates
+        assert slugs[:2] == ["our-lady-of-fatima", "the-say-so"]
+        assert "humility-lent" in slugs
+        assert len(slugs) == len(set(slugs))
+
+    def test_filters_blocked_and_missing_semantic_slugs(self, site):
+        (site["data"] / "blocked_meditations.json").write_text(
+            json.dumps({"slugs": ["our-lady-of-fatima"]})
+        )
+        (site["data"] / "semantic_related.json").write_text(
+            json.dumps({
+                "related": {
+                    "humility": [
+                        {"slug": "our-lady-of-fatima", "score": 0.95},
+                        {"slug": "deleted-meditation", "score": 0.92},
+                        {"slug": "humility", "score": 1.0},
+                        {"slug": "the-say-so", "score": 0.88},
+                    ],
+                },
+            })
+        )
+        convert_markdown_to_meditations(
+            str(site["source"]), str(site["output"]), str(site["data"])
+        )
+        fm, _ = read_front_matter(site["output"] / "humility.md")
+        slugs = [r["slug"] for r in fm["related"]]
+        assert "our-lady-of-fatima" not in slugs
+        assert "deleted-meditation" not in slugs
+        assert "humility" not in slugs
+        assert slugs[0] == "the-say-so"
+
+    def test_caps_semantic_related_at_five(self, tmp_path):
+        source = tmp_path / "source"
+        root = tmp_path / "site"
+        body = "Prayerful reflection on charity and service. " * 40
+        files = {
+            f"med-{i}.md": meditation_source(f"Meditation {i}", body)
+            for i in range(8)
+        }
+        write_corpus(str(source), files)
+        (root / "data").mkdir(parents=True)
+        (root / "data" / "semantic_related.json").write_text(
+            json.dumps({
+                "related": {
+                    "meditation-0": [
+                        {"slug": f"meditation-{i}", "score": 0.9 - i * 0.01}
+                        for i in range(1, 8)
+                    ]
+                }
+            })
+        )
+        convert_markdown_to_meditations(
+            str(source), str(root / "_meditations"), str(root / "data")
+        )
+        fm, _ = read_front_matter(root / "_meditations" / "meditation-0.md")
+        assert [r["slug"] for r in fm["related"]] == [
+            "meditation-1",
+            "meditation-2",
+            "meditation-3",
+            "meditation-4",
+            "meditation-5",
+        ]

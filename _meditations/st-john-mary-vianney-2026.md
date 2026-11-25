@@ -8,7 +8,7 @@ prev_slug: st-john-mary-vianney
 prev_title: "St. John Mary Vianney"
 next_slug: st-john-paul-ii
 next_title: "St. John Paul II"
-related: [{"slug": "st-john-mary-vianney", "title": "St. John Mary Vianney"}, {"slug": "st-john", "title": "St. John"}, {"slug": "st-john-2025-ed", "title": "St. John (2025 Ed.)"}]
+related: [{"slug": "love-for-priests", "title": "Love For Priests"}, {"slug": "st-john-mary-vianney", "title": "St. John Mary Vianney"}, {"slug": "the-one-who-gives-us-jesus", "title": "The One Who Gives Us Jesus"}, {"slug": "st-pius-x-2026", "title": "St. Pius X (2026)"}, {"slug": "the-multiplication-of-the-loaves-and-fish", "title": "The Multiplication of the Loaves and Fish"}]
 ---
 
 

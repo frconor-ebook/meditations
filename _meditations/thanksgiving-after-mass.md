@@ -8,7 +8,7 @@ prev_slug: thanksgiving
 prev_title: "Thanksgiving"
 next_slug: thanksgiving-day-2026
 next_title: "Thanksgiving Day (2026)"
-related: [{"slug": "churches-and-the-mass", "title": "Churches and the Mass"}, {"slug": "daily-mass", "title": "Daily Mass"}, {"slug": "the-mass", "title": "The Mass"}]
+related: [{"slug": "holy-thursday-the-eucharist", "title": "Holy Thursday: The Eucharist"}, {"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-mass-and-personal-self-surrender", "title": "The Mass and Personal Self-Surrender"}, {"slug": "the-eternal-high-priest", "title": "The Eternal High Priest"}, {"slug": "our-lady-woman-of-the-eucharist", "title": "Our Lady, Woman of the Eucharist"}]
 ---
 
 By Fr. Conor Donnelly

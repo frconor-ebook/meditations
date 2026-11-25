@@ -7,7 +7,7 @@ prev_slug: blessed-alvaro-del-portillo
 prev_title: "Blessed \u00c1lvaro del Portillo"
 next_slug: chalice-possumus-we-can
 next_title: "Chalice, Possumus, We Can"
-related: [{"slug": "afterwards-you-will-understand", "title": "Afterwards You Will Understand"}, {"slug": "fruits-of-the-holy-spirit", "title": "Fruits of the Holy Spirit"}, {"slug": "much-will-be-demanded-responsibility", "title": "Much Will Be Demanded: Responsibility"}]
+related: [{"slug": "i-came-to-cast-fire-on-earth", "title": "I Came To Cast Fire On Earth"}, {"slug": "serving-one-master", "title": "Serving One Master"}, {"slug": "waiting-for-the-lord", "title": "Waiting for The Lord"}, {"slug": "the-truth-will-make-you-free", "title": "The Truth Will Make You Free"}, {"slug": "examination-of-conscience", "title": "Examination of Conscience"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: launch-out-into-the-deep
 prev_title: "Launch Out Into The Deep"
 next_slug: lent-christs-death-on-the-cross
 next_title: "Lent: Christ\u2019s Death on the Cross"
-related: [{"slug": "abandonment", "title": "Abandonment"}, {"slug": "contemplative-soul", "title": "Contemplative Soul"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}]
+related: [{"slug": "children-of-god", "title": "Children of God"}, {"slug": "our-father-god", "title": "Our Father God"}, {"slug": "prayer-of-petition", "title": "Prayer of Petition"}, {"slug": "true-prayer", "title": "True Prayer"}, {"slug": "your-one-and-only-father", "title": "Your One and Only Father"}]
 ---
 
 By Fr. Conor Donnelly

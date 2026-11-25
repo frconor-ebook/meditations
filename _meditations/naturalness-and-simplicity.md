@@ -8,7 +8,7 @@ prev_slug: naaman-the-syrian-docility
 prev_title: "Naaman the Syrian (Docility)"
 next_slug: obedience
 next_title: "Obedience"
-related: [{"slug": "simplicity-after-edward-leen", "title": "Simplicity (after Edward Leen)"}, {"slug": "the-depths-of-simplicity", "title": "The Depths of Simplicity"}, {"slug": "against-all-hope", "title": "Against All Hope"}]
+related: [{"slug": "finding-jesus", "title": "Finding Jesus"}, {"slug": "the-purification-of-our-lady", "title": "The Purification of Our Lady"}, {"slug": "the-son-of-the-carpenter", "title": "The Son of the Carpenter"}, {"slug": "heart-in-the-family", "title": "Heart in the Family"}, {"slug": "our-lady-of-loreto", "title": "Our Lady of Loreto"}]
 ---
 
 By Fr. Conor Donnelly

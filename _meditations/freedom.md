@@ -8,7 +8,7 @@ prev_slug: fraternity-in-the-work
 prev_title: "Fraternity in the Work"
 next_slug: friendship-and-confidence
 next_title: "Friendship and Confidence"
-related: [{"slug": "true-and-false-freedom", "title": "True and False Freedom"}, {"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}]
+related: [{"slug": "conscience-the-light-of-the-soul", "title": "Conscience, The Light of the Soul"}, {"slug": "clean-of-heart", "title": "Clean of Heart"}, {"slug": "helping-to-do-good", "title": "Helping To Do Good"}, {"slug": "obedience-in-bethlehem", "title": "Obedience in Bethlehem"}, {"slug": "you-are-nothing", "title": "You Are Nothing"}]
 ---
 
 By Fr. Conor Donnelly

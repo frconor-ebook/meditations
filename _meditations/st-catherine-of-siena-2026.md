@@ -8,7 +8,7 @@ prev_slug: st-catherine-of-siena
 prev_title: "St. Catherine of Siena"
 next_slug: st-dominic
 next_title: "St. Dominic"
-related: [{"slug": "st-catherine-of-siena", "title": "St. Catherine of Siena"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
+related: [{"slug": "st-catherine-of-siena", "title": "St. Catherine of Siena"}, {"slug": "love-for-peter", "title": "Love for Peter"}, {"slug": "thirsting-for-justice", "title": "Thirsting for Justice"}, {"slug": "st-pius-x", "title": "St. Pius X"}, {"slug": "st-thomas-aquinas", "title": "St. Thomas Aquinas"}]
 ---
 
 

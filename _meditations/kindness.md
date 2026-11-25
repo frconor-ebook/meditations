@@ -8,7 +8,7 @@ prev_slug: keeping-my-word
 prev_title: "Keeping My Word"
 next_slug: knowing-god-through-mary
 next_title: "Knowing God Through Mary"
-related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
+related: [{"slug": "charity-versus-anger", "title": "Charity versus Anger"}, {"slug": "temperance", "title": "Temperance"}, {"slug": "humility-lent", "title": "Humility (Lent)"}, {"slug": "friendship-and-confidence", "title": "Friendship and Confidence"}, {"slug": "forgiveness", "title": "Forgiveness"}]
 ---
 
 By Fr. Conor Donnelly

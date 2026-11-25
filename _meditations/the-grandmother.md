@@ -8,7 +8,7 @@ prev_slug: the-grandfather
 prev_title: "The Grandfather"
 next_slug: the-grass-of-the-field
 next_title: "The Grass of the Field"
-related: [{"slug": "aunt-carmen", "title": "Aunt Carmen"}, {"slug": "blessed-guadalupe-ortiz-de-landazuri", "title": "Blessed Guadalupe Ortiz de Land\u00e1zuri"}, {"slug": "blessed-alvaro-del-portillo", "title": "Blessed \u00c1lvaro del Portillo"}]
+related: [{"slug": "aunt-carmen", "title": "Aunt Carmen"}, {"slug": "humility", "title": "Humility"}, {"slug": "fraternity-in-the-work", "title": "Fraternity in the Work"}, {"slug": "little-duties", "title": "Little Duties"}, {"slug": "our-mother-in-may", "title": "Our Mother in May"}]
 ---
 
 By Fr. Conor Donnelly

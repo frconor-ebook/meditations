@@ -7,7 +7,7 @@ prev_slug: knowing-god-through-mary
 prev_title: "Knowing God Through Mary"
 next_slug: knowing-loving-and-living-the-eucharist
 next_title: "Knowing, Loving, and Living the Eucharist"
-related: [{"slug": "knowing-god-through-mary", "title": "Knowing God Through Mary"}, {"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing, Loving, and Living the Eucharist"}, {"slug": "when-i-am-weak-then-i-am-strong", "title": "When I Am Weak, Then I Am Strong"}]
+related: [{"slug": "the-real-presence", "title": "The Real Presence"}, {"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing, Loving, and Living the Eucharist"}, {"slug": "the-bread-of-life", "title": "The Bread of Life"}, {"slug": "overcoming-human-respect", "title": "Overcoming Human Respect"}, {"slug": "finding-jesus", "title": "Finding Jesus"}]
 ---
 
 

@@ -8,7 +8,7 @@ prev_slug: the-prodigal-son-2025-edition
 prev_title: "The Prodigal Son (2025 Edition)"
 next_slug: the-purification-of-our-lady
 next_title: "The Purification of Our Lady"
-related: [{"slug": "simeon-and-anna", "title": "Simeon and Anna"}, {"slug": "christmas", "title": "Christmas"}, {"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}]
+related: [{"slug": "the-purification-of-our-lady", "title": "The Purification of Our Lady"}, {"slug": "the-feast-of-the-holy-innocents-2025", "title": "The Feast of the Holy Innocents, 2025"}, {"slug": "simeon-and-anna", "title": "Simeon and Anna"}, {"slug": "the-immaculate-conception-dec-8", "title": "The Immaculate Conception (Dec. 8)"}, {"slug": "finding-jesus", "title": "Finding Jesus"}]
 ---
 
 By Fr. Conor Donnelly

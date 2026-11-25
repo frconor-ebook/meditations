@@ -8,7 +8,7 @@ prev_slug: christmas
 prev_title: "Christmas"
 next_slug: christs-eternal-priesthood
 next_title: "Christ\u2019s Eternal Priesthood"
-related: [{"slug": "christmas", "title": "Christmas"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}]
+related: [{"slug": "christ-the-light", "title": "Christ the Light"}, {"slug": "do-not-be-afraid", "title": "Do Not Be Afraid"}, {"slug": "the-magnificat", "title": "The Magnificat"}, {"slug": "the-feast-of-the-holy-innocents-2025", "title": "The Feast of the Holy Innocents, 2025"}, {"slug": "at-st-josephs-side", "title": "At St. Joseph\u2019s Side"}]
 ---
 
 By Fr. Conor Donnelly

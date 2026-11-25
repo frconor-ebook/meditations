@@ -8,7 +8,7 @@ prev_slug: spiritual-childhood
 prev_title: "Spiritual Childhood"
 next_slug: spiritual-receptivity
 next_title: "Spiritual Receptivity"
-related: [{"slug": "spiritual-childhood", "title": "Spiritual Childhood"}, {"slug": "spiritual-receptivity", "title": "Spiritual Receptivity"}, {"slug": "abandonment", "title": "Abandonment"}]
+related: [{"slug": "the-gift-of-counsel", "title": "The Gift of Counsel"}, {"slug": "the-good-shepherd", "title": "The Good Shepherd"}, {"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}, {"slug": "obedience", "title": "Obedience"}, {"slug": "our-father-god", "title": "Our Father God"}]
 ---
 
 By Fr. Conor Donnelly

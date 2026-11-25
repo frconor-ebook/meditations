@@ -7,7 +7,7 @@ prev_slug: the-only-real-evil
 prev_title: "The Only Real Evil"
 next_slug: the-parable-of-the-wedding-feast
 next_title: "The Parable of The Wedding Feast"
-related: [{"slug": "the-only-real-evil", "title": "The Only Real Evil"}, {"slug": "the-real-presence", "title": "The Real Presence"}, {"slug": "the-real-presence-after-thomas-mcgovern", "title": "The Real Presence (after Thomas McGovern)"}]
+related: [{"slug": "on-grace-supernatural-life-and-confession", "title": "On Grace, Supernatural Life, and Confession"}, {"slug": "the-only-real-evil", "title": "The Only Real Evil"}, {"slug": "the-gift-of-fear-of-the-lord", "title": "The Gift of Fear of the Lord"}, {"slug": "on-creation", "title": "On Creation"}, {"slug": "first-thoughts-and-emotions", "title": "First Thoughts and Emotions"}]
 ---
 
 By Fr. Conor Donnelly

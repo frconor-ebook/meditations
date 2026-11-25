@@ -8,7 +8,7 @@ prev_slug: st-thomas-more
 prev_title: "St. Thomas More"
 next_slug: st-therese-of-lisieux
 next_title: "St. Th\u00e9r\u00e8se of Lisieux"
-related: [{"slug": "st-thomas-more", "title": "St. Thomas More"}, {"slug": "st-john", "title": "St. John"}, {"slug": "st-john-2025-ed", "title": "St. John (2025 Ed.)"}]
+related: [{"slug": "st-mary-magdalene-2026", "title": "St. Mary Magdalene (2026)"}, {"slug": "the-solemnity-of-all-saints-2026", "title": "The Solemnity of All Saints (2026)"}, {"slug": "st-barnabas-2026", "title": "St. Barnabas (2026)"}, {"slug": "the-first-martyrs-of-the-church-of-rome", "title": "The First Martyrs of the Church of Rome"}, {"slug": "the-immaculate-heart-of-mary-2026", "title": "The Immaculate Heart of Mary (2026)"}]
 ---
 
 

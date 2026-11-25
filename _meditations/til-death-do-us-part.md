@@ -6,7 +6,7 @@ reading_time: 15
 tags: ["Family & Marriage"]
 prev_slug: zeal-for-holiness-through-marriage
 prev_title: "Zeal for Holiness Through Marriage"
-related: [{"slug": "a-christian-outlook-on-death", "title": "A Christian Outlook on Death"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}, {"slug": "lent-christs-death-on-the-cross", "title": "Lent: Christ\u2019s Death on the Cross"}]
+related: [{"slug": "defending-the-family", "title": "Defending the Family"}, {"slug": "fidelity-in-marriage", "title": "Fidelity in Marriage"}, {"slug": "marriage-and-indissolubility", "title": "Marriage and Indissolubility"}, {"slug": "education-in-social-virtues", "title": "Education In Social Virtues"}, {"slug": "childrena-gift-of-god", "title": "Children\u2014A Gift of God"}]
 ---
 
 By Fr. Conor Donnelly

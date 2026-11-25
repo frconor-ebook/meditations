@@ -8,7 +8,7 @@ prev_slug: st-john-paul-ii
 prev_title: "St. John Paul II"
 next_slug: st-josemaria-escriva-feast-june-26th
 next_title: "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"
-related: [{"slug": "the-birth-of-st-john-the-baptist", "title": "The Birth of St. John the Baptist"}, {"slug": "the-martyrdom-of-st-john-the-baptist", "title": "The Martyrdom of St. John the Baptist"}, {"slug": "the-passion-of-st-john-the-baptist", "title": "The Passion of St. John the Baptist"}]
+related: [{"slug": "reading-the-signs", "title": "Reading the Signs"}, {"slug": "the-birth-of-st-john-the-baptist", "title": "The Birth of St. John the Baptist"}, {"slug": "preparing-to-receive-jesus", "title": "Preparing to Receive Jesus"}, {"slug": "purity-of-the-heart", "title": "Purity of the Heart"}, {"slug": "examination-of-conscience", "title": "Examination of Conscience"}]
 ---
 
 By Fr. Conor Donnelly

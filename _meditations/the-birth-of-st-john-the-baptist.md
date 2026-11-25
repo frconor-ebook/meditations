@@ -8,7 +8,7 @@ prev_slug: the-bent-over-woman
 prev_title: "The Bent Over Woman"
 next_slug: the-birthday-of-st-josemaria-escriva
 next_title: "The Birthday of St. Josemar\u00eda Escriv\u00e1"
-related: [{"slug": "st-john-the-baptist", "title": "St. John the Baptist"}, {"slug": "the-martyrdom-of-st-john-the-baptist", "title": "The Martyrdom of St. John the Baptist"}, {"slug": "the-passion-of-st-john-the-baptist", "title": "The Passion of St. John the Baptist"}]
+related: [{"slug": "st-john-the-baptist", "title": "St. John the Baptist"}, {"slug": "the-martyrdom-of-st-john-the-baptist", "title": "The Martyrdom of St. John the Baptist"}, {"slug": "the-passion-of-st-john-the-baptist", "title": "The Passion of St. John the Baptist"}, {"slug": "st-barnabas-2026", "title": "St. Barnabas (2026)"}, {"slug": "the-first-martyrs-of-the-church-of-rome", "title": "The First Martyrs of the Church of Rome"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: conversion-of-st-paul-2027-edition
 prev_title: "Conversion of St. Paul (2027 Edition)"
 next_slug: corpus-christi-2027
 next_title: "Corpus Christi (2027)"
-related: [{"slug": "corpus-christi-2027", "title": "Corpus Christi (2027)"}, {"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}, {"slug": "churches-and-the-mass", "title": "Churches and the Mass"}]
+related: [{"slug": "the-sacred-heart-of-jesus-2026", "title": "The Sacred Heart of Jesus (2026)"}, {"slug": "knowing-loving-and-living-the-eucharist", "title": "Knowing, Loving, and Living the Eucharist"}, {"slug": "corpus-christi-2027", "title": "Corpus Christi (2027)"}, {"slug": "i-came-to-cast-fire-on-earth", "title": "I Came To Cast Fire On Earth"}, {"slug": "st-john-mary-vianney-2026", "title": "St. John Mary Vianney (2026)"}]
 ---
 
 

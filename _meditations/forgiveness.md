@@ -8,7 +8,7 @@ prev_slug: fishers-of-men
 prev_title: "Fishers of Men"
 next_slug: forming-saints-in-the-domestic-church-bethany
 next_title: "Forming Saints in the Domestic Church (Bethany)"
-related: [{"slug": "unlimited-forgiveness", "title": "Unlimited Forgiveness"}, {"slug": "a-merciful-messiah", "title": "A Merciful Messiah"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}]
+related: [{"slug": "the-unmerciful-servant", "title": "The Unmerciful Servant"}, {"slug": "patience", "title": "Patience"}, {"slug": "helping-to-do-good", "title": "Helping To Do Good"}, {"slug": "charity-and-the-tongue", "title": "Charity and the Tongue"}, {"slug": "generosity", "title": "Generosity"}]
 ---
 
 By Fr. Conor Donnelly

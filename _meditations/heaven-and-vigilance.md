@@ -8,7 +8,7 @@ prev_slug: hearts-on-fire
 prev_title: "Hearts on Fire"
 next_slug: hell-purgatory-heaven
 next_title: "Hell, Purgatory, Heaven"
-related: [{"slug": "the-last-day-of-the-liturgical-year-vigilance", "title": "The Last Day of the Liturgical Year (Vigilance)"}, {"slug": "hell-purgatory-heaven", "title": "Hell, Purgatory, Heaven"}, {"slug": "looking-up-to-heaven", "title": "Looking Up to Heaven"}]
+related: [{"slug": "the-last-day-of-the-liturgical-year-vigilance", "title": "The Last Day of the Liturgical Year (Vigilance)"}, {"slug": "with-the-readiness-of-lovevigilance", "title": "With the Readiness of Love\u2014Vigilance"}, {"slug": "waiting-for-the-lord", "title": "Waiting for The Lord"}, {"slug": "on-our-way-to-the-house-of-our-father", "title": "On Our Way to The House of Our Father"}, {"slug": "the-commemoration-of-all-souls-2026", "title": "The Commemoration of All Souls (2026)"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: contemplative-it-is-good-that-we-are-here
 prev_title: "Contemplative: It Is Good That We Are Here"
 next_slug: conversion-of-st-paul-2027-edition
 next_title: "Conversion of St. Paul (2027 Edition)"
-related: [{"slug": "a-merciful-messiah", "title": "A Merciful Messiah"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}, {"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}]
+related: [{"slug": "st-mary-magdalene", "title": "St. Mary Magdalene"}, {"slug": "the-crucifixion", "title": "The Crucifixion"}, {"slug": "love-for-the-cross", "title": "Love for the Cross"}, {"slug": "ash-wednesday", "title": "Ash Wednesday"}, {"slug": "blessed-are-the-merciful", "title": "Blessed Are The Merciful"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: holy-purity
 prev_title: "Holy Purity"
 next_slug: holy-thursday-the-eucharist
 next_title: "Holy Thursday: The Eucharist"
-related: [{"slug": "holy-thursday-the-eucharist", "title": "Holy Thursday: The Eucharist"}, {"slug": "egypt-and-the-holy-family", "title": "Egypt and the Holy Family"}, {"slug": "fruits-of-the-holy-spirit", "title": "Fruits of the Holy Spirit"}]
+related: [{"slug": "the-crucifixion", "title": "The Crucifixion"}, {"slug": "judas", "title": "Judas"}, {"slug": "the-priestly-society-of-the-holy-cross", "title": "The Priestly Society of the Holy Cross"}, {"slug": "the-bread-of-life", "title": "The Bread of Life"}, {"slug": "forming-saints-in-the-domestic-church-easter", "title": "Forming Saints in the Domestic Church (Easter)"}]
 ---
 
 By Fr. Conor Donnelly

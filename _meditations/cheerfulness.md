@@ -8,7 +8,7 @@ prev_slug: charity-versus-anger
 prev_title: "Charity versus Anger"
 next_slug: children-of-god
 next_title: "Children of God"
-related: [{"slug": "against-all-hope", "title": "Against All Hope"}, {"slug": "anchored-in-hope", "title": "Anchored in Hope"}, {"slug": "charity", "title": "Charity"}]
+related: [{"slug": "love-for-the-cross", "title": "Love for the Cross"}, {"slug": "the-resurrection", "title": "The Resurrection"}, {"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}, {"slug": "pro-active-love", "title": "Pro-Active Love"}, {"slug": "charity", "title": "Charity"}]
 ---
 
 By Fr. Conor Donnelly

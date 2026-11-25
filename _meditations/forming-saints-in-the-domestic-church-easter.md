@@ -8,7 +8,7 @@ prev_slug: forming-saints-in-the-domestic-church-bethany
 prev_title: "Forming Saints in the Domestic Church (Bethany)"
 next_slug: forming-saints-in-the-domestic-church-the-cross
 next_title: "Forming Saints in the Domestic Church (The Cross)"
-related: [{"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}, {"slug": "forming-saints-in-the-domestic-church-the-cross", "title": "Forming Saints in the Domestic Church (The Cross)"}, {"slug": "easter-faith", "title": "Easter Faith"}]
+related: [{"slug": "easter-sunday", "title": "Easter Sunday"}, {"slug": "the-resurrection", "title": "The Resurrection"}, {"slug": "forming-saints-in-the-domestic-church-bethany", "title": "Forming Saints in the Domestic Church (Bethany)"}, {"slug": "beginning-again", "title": "Beginning Again"}, {"slug": "the-bread-of-life", "title": "The Bread of Life"}]
 ---
 
 By Fr. Conor Donnelly

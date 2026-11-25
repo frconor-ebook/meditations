@@ -8,7 +8,7 @@ prev_slug: the-precious-blood-of-christ
 prev_title: "The Precious Blood of Christ"
 next_slug: the-presentation-of-our-lord
 next_title: "The Presentation of Our Lord"
-related: [{"slug": "our-lady", "title": "Our Lady"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "our-lady-of-africa", "title": "Our Lady of Africa"}]
+related: [{"slug": "the-nativity-of-our-lady", "title": "The Nativity of Our Lady"}, {"slug": "the-immaculate-conception-dec-8", "title": "The Immaculate Conception (Dec. 8)"}, {"slug": "spirit-of-service", "title": "Spirit of Service"}, {"slug": "the-vocation-of-our-lady", "title": "The Vocation of Our Lady"}, {"slug": "the-miracle-at-cana", "title": "The Miracle at Cana"}]
 ---
 
 By Fr. Conor Donnelly

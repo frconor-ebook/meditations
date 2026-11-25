@@ -8,7 +8,7 @@ prev_slug: the-parable-of-the-vinedressers
 prev_title: "The Parable of the Vinedressers"
 next_slug: the-paralytic-and-his-friends
 next_title: "The Paralytic and His Friends"
-related: [{"slug": "the-parable-of-the-wedding-feast", "title": "The Parable of The Wedding Feast"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "the-parable-of-the-mustard-seed", "title": "The Parable of the Mustard Seed"}]
+related: [{"slug": "the-parable-of-the-sower", "title": "The Parable of the Sower"}, {"slug": "the-good-samaritan", "title": "The Good Samaritan"}, {"slug": "the-parable-of-the-laborers-in-the-vineyard", "title": "The Parable of the Laborers in the Vineyard"}, {"slug": "seed-and-grace", "title": "Seed and Grace"}, {"slug": "st-james", "title": "St. James"}]
 ---
 
 By Fr. Conor Donnelly

@@ -7,7 +7,7 @@ prev_slug: the-widows-mite
 prev_title: "The Widow\u2019s Mite"
 next_slug: the-wisdom-of-solomon
 next_title: "The Wisdom of Solomon"
-related: [{"slug": "afterwards-you-will-understand", "title": "Afterwards You Will Understand"}, {"slug": "by-their-fruits-you-will-know-them", "title": "By Their Fruits, You Will Know Them"}, {"slug": "much-will-be-demanded-responsibility", "title": "Much Will Be Demanded: Responsibility"}]
+related: [{"slug": "easter-joy", "title": "Easter Joy"}, {"slug": "increase-my-faith", "title": "Increase My Faith"}, {"slug": "preparing-for-retreat", "title": "Preparing for Retreat"}, {"slug": "house-on-the-rock", "title": "House on the Rock"}, {"slug": "optimism", "title": "Optimism"}]
 ---
 
 By Fr. Conor Donnelly

@@ -8,7 +8,7 @@ prev_slug: st-thomas
 prev_title: "St. Thomas"
 next_slug: st-thomas-more
 next_title: "St. Thomas More"
-related: [{"slug": "st-thomas-aquinas-after-edward-leen", "title": "St Thomas Aquinas (After Edward Leen)"}, {"slug": "st-thomas", "title": "St. Thomas"}, {"slug": "st-thomas-more", "title": "St. Thomas More"}]
+related: [{"slug": "sts-timothy-and-titus", "title": "Sts. Timothy and Titus"}, {"slug": "st-thomas", "title": "St. Thomas"}, {"slug": "study", "title": "Study"}, {"slug": "on-formation", "title": "On Formation"}, {"slug": "reading-of-the-gospels-to-get-to-know-jesus-christ", "title": "Reading of the Gospels to get to know Jesus Christ"}]
 ---
 
 

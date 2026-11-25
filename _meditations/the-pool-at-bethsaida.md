@@ -8,7 +8,7 @@ prev_slug: the-pharisee-and-the-publican-2027
 prev_title: "The Pharisee and the Publican (2027)"
 next_slug: the-power-of-the-beatitudes
 next_title: "The Power of the Beatitudes"
-related: [{"slug": "bartimaeus", "title": "Bartimaeus"}, {"slug": "healing-christs-wounds", "title": "Healing Christ\u2019s Wounds"}, {"slug": "martha-martha", "title": "Martha, Martha"}]
+related: [{"slug": "interior-struggle", "title": "Interior Struggle"}, {"slug": "the-narrow-gate", "title": "The Narrow Gate"}, {"slug": "perseverance", "title": "Perseverance"}, {"slug": "the-bent-over-woman", "title": "The Bent Over Woman"}, {"slug": "the-parable-of-the-weeds", "title": "The Parable of the Weeds"}]
 ---
 
 By Fr. Conor Donnelly

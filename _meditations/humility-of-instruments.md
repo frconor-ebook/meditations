@@ -8,7 +8,7 @@ prev_slug: humility-lent
 prev_title: "Humility (Lent)"
 next_slug: humility-relying-on-god
 next_title: "Humility: Relying on God"
-related: [{"slug": "humility", "title": "Humility"}, {"slug": "humility-lent", "title": "Humility (Lent)"}, {"slug": "humility-relying-on-god", "title": "Humility: Relying on God"}]
+related: [{"slug": "humility-relying-on-god", "title": "Humility: Relying on God"}, {"slug": "the-magnificat", "title": "The Magnificat"}, {"slug": "spirit-of-service", "title": "Spirit of Service"}, {"slug": "rectitude-of-intention", "title": "Rectitude of Intention"}, {"slug": "passionately-loving-the-world", "title": "Passionately Loving the World"}]
 ---
 
 By Fr. Conor Donnelly

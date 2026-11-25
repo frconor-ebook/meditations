@@ -8,7 +8,7 @@ prev_slug: st-bartholomew
 prev_title: "St. Bartholomew"
 next_slug: st-catherine-of-siena
 next_title: "St. Catherine of Siena"
-related: [{"slug": "gratitude-for-pope-benedict-xvi", "title": "Gratitude for Pope Benedict XVI"}, {"slug": "all-saints-after-edward-leen", "title": "All Saints (after Edward Leen)"}, {"slug": "all-saints-day", "title": "All Saints\u2019 Day"}]
+related: [{"slug": "sts-cyril-and-methodius", "title": "Sts. Cyril and Methodius"}, {"slug": "the-first-martyrs-of-the-church-of-rome", "title": "The First Martyrs of the Church of Rome"}, {"slug": "christian-identity", "title": "Christian Identity"}, {"slug": "fire-on-earth", "title": "Fire On Earth"}, {"slug": "st-justin", "title": "St. Justin"}]
 ---
 
 

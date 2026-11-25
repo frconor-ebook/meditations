@@ -8,7 +8,7 @@ prev_slug: generosity
 prev_title: "Generosity"
 next_slug: generosity-in-correspondence
 next_title: "Generosity in Correspondence"
-related: [{"slug": "generosity", "title": "Generosity"}, {"slug": "generosity-in-correspondence", "title": "Generosity in Correspondence"}, {"slug": "against-all-hope", "title": "Against All Hope"}]
+related: [{"slug": "the-parable-of-the-talents", "title": "The Parable of the Talents"}, {"slug": "serving-one-master", "title": "Serving One Master"}, {"slug": "with-the-readiness-of-lovevigilance", "title": "With the Readiness of Love\u2014Vigilance"}, {"slug": "generosity-in-correspondence", "title": "Generosity in Correspondence"}, {"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}]
 ---
 
 By Fr. Conor Donnelly

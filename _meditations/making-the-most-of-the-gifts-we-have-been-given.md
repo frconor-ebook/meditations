@@ -7,7 +7,7 @@ prev_slug: making-up-for-lost-time
 prev_title: "Making Up for Lost Time"
 next_slug: marriage-and-indissolubility
 next_title: "Marriage and Indissolubility"
-related: [{"slug": "making-a-more-just-world", "title": "Making A More Just World"}, {"slug": "making-good-decisions-or-the-virtue-of-prudence", "title": "Making Good Decisions or The Virtue of Prudence"}, {"slug": "making-up-for-lost-time", "title": "Making Up for Lost Time"}]
+related: [{"slug": "to-serve", "title": "To Serve"}, {"slug": "the-parable-of-the-talents", "title": "The Parable of the Talents"}, {"slug": "spirit-of-service", "title": "Spirit of Service"}, {"slug": "generosity-towards-god", "title": "Generosity Towards God"}, {"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}]
 ---
 
 

@@ -8,7 +8,7 @@ prev_slug: where-is-your-heart
 prev_title: "Where Is Your Heart?"
 next_slug: you-are-nothing
 next_title: "You Are Nothing"
-related: [{"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}, {"slug": "love-for-chastity", "title": "Love for Chastity"}, {"slug": "self-love-the-enemy", "title": "Self-Love: The Enemy"}]
+related: [{"slug": "waiting-for-the-lord", "title": "Waiting for The Lord"}, {"slug": "heaven-and-vigilance", "title": "Heaven and Vigilance"}, {"slug": "the-last-day-of-the-liturgical-year-vigilance", "title": "The Last Day of the Liturgical Year (Vigilance)"}, {"slug": "on-our-way-to-the-house-of-our-father", "title": "On Our Way to The House of Our Father"}, {"slug": "the-parable-of-the-ten-virgins-2026", "title": "The Parable of the Ten Virgins (2026)"}]
 ---
 
 By Fr. Conor Donnelly

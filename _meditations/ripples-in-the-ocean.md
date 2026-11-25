@@ -8,7 +8,7 @@ prev_slug: rich-before-god
 prev_title: "Rich Before God"
 next_slug: salt-that-has-lost-its-savor
 next_title: "Salt That Has Lost Its Savor"
-related: [{"slug": "fire-on-earth", "title": "Fire On Earth"}, {"slug": "fishers-of-men", "title": "Fishers of Men"}, {"slug": "friendship-and-confidence", "title": "Friendship and Confidence"}]
+related: [{"slug": "the-parable-of-the-rich-man-and-lazarus", "title": "The Parable of the Rich Man and Lazarus"}, {"slug": "sparrows", "title": "Sparrows"}, {"slug": "the-parable-of-the-rich-young-man", "title": "The Parable of the Rich Young Man"}, {"slug": "rich-before-god", "title": "Rich Before God"}, {"slug": "generosity-in-correspondence", "title": "Generosity in Correspondence"}]
 ---
 
 

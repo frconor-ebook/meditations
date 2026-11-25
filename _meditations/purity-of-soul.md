@@ -8,7 +8,7 @@ prev_slug: professional-prestige
 prev_title: "Professional Prestige"
 next_slug: purity-of-the-heart
 next_title: "Purity of the Heart"
-related: [{"slug": "holy-purity", "title": "Holy Purity"}, {"slug": "purity-of-the-heart", "title": "Purity of the Heart"}, {"slug": "conscience-the-light-of-the-soul", "title": "Conscience, The Light of the Soul"}]
+related: [{"slug": "clean-of-heart", "title": "Clean of Heart"}, {"slug": "love-for-chastity", "title": "Love for Chastity"}, {"slug": "marriage-and-indissolubility", "title": "Marriage and Indissolubility"}, {"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}, {"slug": "first-thoughts-and-emotions", "title": "First Thoughts and Emotions"}]
 ---
 
 By Fr. Conor Donnelly

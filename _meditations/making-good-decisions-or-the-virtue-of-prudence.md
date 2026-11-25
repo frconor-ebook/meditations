@@ -8,7 +8,7 @@ prev_slug: making-a-more-just-world
 prev_title: "Making A More Just World"
 next_slug: making-up-for-lost-time
 next_title: "Making Up for Lost Time"
-related: [{"slug": "the-art-of-prudence", "title": "The Art of Prudence"}, {"slug": "contemplative-it-is-good-that-we-are-here", "title": "Contemplative: It Is Good That We Are Here"}, {"slug": "death-and-the-good-use-of-time-2nd-ed", "title": "Death and the Good Use of Time (2nd Ed.)"}]
+related: [{"slug": "the-art-of-prudence", "title": "The Art of Prudence"}, {"slug": "the-end-of-life", "title": "The End of Life"}, {"slug": "obedience", "title": "Obedience"}, {"slug": "the-good-use-of-time", "title": "The Good Use of Time"}, {"slug": "spiritual-direction", "title": "Spiritual Direction"}]
 ---
 
 By Fr. Conor Donnelly

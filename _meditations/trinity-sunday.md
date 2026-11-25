@@ -7,7 +7,7 @@ prev_slug: transformation-through-prayer
 prev_title: "Transformation Through Prayer"
 next_slug: trinity-sunday-2026
 next_title: "Trinity Sunday (2026)"
-related: [{"slug": "trinity-sunday-2026", "title": "Trinity Sunday (2026)"}, {"slug": "divine-mercy-sunday", "title": "Divine Mercy Sunday"}, {"slug": "easter-sunday", "title": "Easter Sunday"}]
+related: [{"slug": "divine-filiation", "title": "Divine Filiation"}, {"slug": "corpus-christi-the-body-and-blood-of-our-lord", "title": "Corpus Christi (The Body and Blood of Our Lord)"}, {"slug": "fathers-day", "title": "Father\u2019s Day"}, {"slug": "st-josemaria-escriva-feast-june-26th", "title": "St. Josemar\u00eda Escriv\u00e1 (Feast, June 26th)"}, {"slug": "the-mass-and-personal-self-surrender", "title": "The Mass and Personal Self-Surrender"}]
 ---
 
 By Fr. Conor Donnelly
