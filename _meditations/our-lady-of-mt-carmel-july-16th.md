@@ -8,7 +8,7 @@ prev_slug: our-lady-of-lourdes
 prev_title: "Our Lady of Lourdes"
 next_slug: our-lady-of-peace
 next_title: "Our Lady of Peace"
-related: [{"slug": "aunt-carmen", "title": "Aunt Carmen"}, {"slug": "taking-advantage-of-the-means-of-formation", "title": "Taking Advantage of the Means of Formation"}, {"slug": "spirit-of-service", "title": "Spirit of Service"}, {"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "the-mass", "title": "The Mass"}]
+related: [{"slug": "aunt-carmen", "title": "Aunt Carmen"}, {"slug": "the-grandfather", "title": "The Grandfather"}, {"slug": "taking-advantage-of-the-means-of-formation", "title": "Taking Advantage of the Means of Formation"}, {"slug": "spirit-of-service", "title": "Spirit of Service"}, {"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}]
 ---
 
 By Fr. Conor Donnelly

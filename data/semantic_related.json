@@ -7609,16 +7609,16 @@
         "score": 0.8944
       },
       {
+        "slug": "the-grandfather",
+        "score": 0.8923
+      },
+      {
         "slug": "the-magnificat",
         "score": 0.8922
       },
       {
         "slug": "childrena-gift-of-god",
         "score": 0.8915
-      },
-      {
-        "slug": "taking-advantage-of-the-means-of-formation",
-        "score": 0.8898
       }
     ],
     "our-lady-of-lourdes": [
@@ -7661,6 +7661,10 @@
         "score": 0.9224
       },
       {
+        "slug": "the-grandfather",
+        "score": 0.8917
+      },
+      {
         "slug": "taking-advantage-of-the-means-of-formation",
         "score": 0.8911
       },
@@ -7675,10 +7679,6 @@
       {
         "slug": "the-mass",
         "score": 0.89
-      },
-      {
-        "slug": "the-grandfather",
-        "score": 0.8893
       },
       {
         "slug": "generosity-in-correspondence",
@@ -8327,12 +8327,12 @@
         "score": 0.9186
       },
       {
-        "slug": "the-magnificat",
-        "score": 0.9178
+        "slug": "the-grandfather",
+        "score": 0.9182
       },
       {
-        "slug": "the-grandfather",
-        "score": 0.9156
+        "slug": "the-magnificat",
+        "score": 0.9178
       }
     ],
     "patience": [
@@ -13491,16 +13491,16 @@
         "score": 0.9054
       },
       {
+        "slug": "the-grandfather",
+        "score": 0.8998
+      },
+      {
         "slug": "the-paralytic-and-his-friends",
         "score": 0.8963
       },
       {
         "slug": "the-canonization-of-st-josemaria-escriva",
         "score": 0.8956
-      },
-      {
-        "slug": "the-grandfather",
-        "score": 0.8951
       }
     ],
     "the-birthday-of-the-prelate-don-fernando": [
@@ -14771,12 +14771,12 @@
         "score": 0.9251
       },
       {
-        "slug": "passionately-loving-the-world",
-        "score": 0.9224
+        "slug": "the-grandfather",
+        "score": 0.9244
       },
       {
-        "slug": "the-grandfather",
-        "score": 0.9218
+        "slug": "passionately-loving-the-world",
+        "score": 0.9224
       },
       {
         "slug": "heart-in-the-family",
@@ -15546,35 +15546,35 @@
     "the-grandfather": [
       {
         "slug": "the-feast-of-the-holy-family",
-        "score": 0.9218
+        "score": 0.9244
       },
       {
         "slug": "passionately-loving-the-world",
-        "score": 0.9156
+        "score": 0.9182
       },
       {
         "slug": "the-birthday-of-the-prelate-don-fernando",
-        "score": 0.9111
+        "score": 0.912
       },
       {
         "slug": "the-magnificat",
-        "score": 0.9065
+        "score": 0.9095
       },
       {
         "slug": "life-of-childhood",
-        "score": 0.9037
+        "score": 0.905
       },
       {
         "slug": "the-apostolate-of-the-home",
-        "score": 0.9006
-      },
-      {
-        "slug": "in-the-heart-of-joseph-and-mary",
-        "score": 0.896
+        "score": 0.9037
       },
       {
         "slug": "the-birthday-of-st-josemaria-escriva",
-        "score": 0.8951
+        "score": 0.8998
+      },
+      {
+        "slug": "the-anniversary-of-the-establishment-of-the-prelature",
+        "score": 0.8998
       }
     ],
     "the-grandmother": [
@@ -16695,8 +16695,8 @@
         "score": 0.9108
       },
       {
-        "slug": "st-john-the-baptist",
-        "score": 0.9092
+        "slug": "the-grandfather",
+        "score": 0.9095
       }
     ],
     "the-martyrdom-of-st-john-the-baptist": [
