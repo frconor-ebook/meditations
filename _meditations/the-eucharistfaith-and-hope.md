@@ -8,7 +8,7 @@ prev_slug: the-eucharist-and-love
 prev_title: "The Eucharist and Love"
 next_slug: the-exaltation-of-the-holy-cross
 next_title: "The Exaltation of the Holy Cross"
-related: [{"slug": "the-eucharist-and-love", "title": "The Eucharist and Love"}, {"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "taking-the-bread", "title": "Taking the Bread"}, {"slug": "when-i-am-weak-then-i-am-strong", "title": "When I Am Weak, Then I Am Strong"}, {"slug": "rediscover-the-gift", "title": "Rediscover the Gift"}]
+related: [{"slug": "the-eucharist-and-love", "title": "The Eucharist and Love"}, {"slug": "interior-peace", "title": "Interior Peace"}, {"slug": "taking-the-bread", "title": "Taking the Bread"}, {"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}, {"slug": "when-i-am-weak-then-i-am-strong", "title": "When I Am Weak, Then I Am Strong"}]
 ---
 
 By Fr. Conor Donnelly

@@ -7,7 +7,7 @@ prev_slug: loving-jesus-house
 prev_title: "Loving Jesus\u2019 House"
 next_slug: loyalty
 next_title: "Loyalty"
-related: [{"slug": "a-mystery-to-be-lived", "title": "A Mystery to Be Lived"}, {"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}, {"slug": "churches-and-the-mass", "title": "Churches and the Mass"}, {"slug": "the-day-of-joy", "title": "The Day of Joy"}, {"slug": "the-incarnation-and-the-eucharist", "title": "The Incarnation and the Eucharist"}]
+related: [{"slug": "a-mystery-to-be-lived", "title": "A Mystery to Be Lived"}, {"slug": "churches-and-the-mass", "title": "Churches and the Mass"}, {"slug": "the-day-of-joy", "title": "The Day of Joy"}, {"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}, {"slug": "the-incarnation-and-the-eucharist", "title": "The Incarnation and the Eucharist"}]
 ---
 
 

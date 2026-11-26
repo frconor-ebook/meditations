@@ -8,7 +8,7 @@ prev_slug: the-immaculate-heart-of-mary-2026
 prev_title: "The Immaculate Heart of Mary (2026)"
 next_slug: the-infinite-love-of-god
 next_title: "The Infinite Love of God"
-related: [{"slug": "appreciating-the-gift", "title": "Appreciating the Gift"}, {"slug": "inestimable-gift", "title": "Inestimable Gift"}, {"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}, {"slug": "the-real-presence-after-thomas-mcgovern", "title": "The Real Presence (after Thomas McGovern)"}, {"slug": "a-mystery-to-be-lived", "title": "A Mystery to Be Lived"}]
+related: [{"slug": "appreciating-the-gift", "title": "Appreciating the Gift"}, {"slug": "inestimable-gift", "title": "Inestimable Gift"}, {"slug": "the-real-presence-after-thomas-mcgovern", "title": "The Real Presence (after Thomas McGovern)"}, {"slug": "a-mystery-to-be-lived", "title": "A Mystery to Be Lived"}, {"slug": "rediscover-the-gift", "title": "Rediscover the Gift"}]
 ---
 
 

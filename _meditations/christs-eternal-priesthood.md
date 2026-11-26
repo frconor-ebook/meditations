@@ -8,7 +8,7 @@ prev_slug: christmas-day-2025
 prev_title: "Christmas Day, 2025"
 next_slug: churches-and-the-mass
 next_title: "Churches and the Mass"
-related: [{"slug": "inestimable-gift", "title": "Inestimable Gift"}, {"slug": "the-incarnation-and-the-eucharist", "title": "The Incarnation and the Eucharist"}, {"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}, {"slug": "appreciating-the-gift", "title": "Appreciating the Gift"}, {"slug": "love-for-priests", "title": "Love For Priests"}]
+related: [{"slug": "inestimable-gift", "title": "Inestimable Gift"}, {"slug": "the-incarnation-and-the-eucharist", "title": "The Incarnation and the Eucharist"}, {"slug": "appreciating-the-gift", "title": "Appreciating the Gift"}, {"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}, {"slug": "love-for-priests", "title": "Love For Priests"}]
 ---
 
 

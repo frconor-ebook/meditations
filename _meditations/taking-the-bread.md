@@ -7,7 +7,7 @@ prev_slug: taking-advantage-of-the-means-of-formation
 prev_title: "Taking Advantage of the Means of Formation"
 next_slug: temperance
 next_title: "Temperance"
-related: [{"slug": "inestimable-gift", "title": "Inestimable Gift"}, {"slug": "rediscover-the-gift", "title": "Rediscover the Gift"}, {"slug": "the-eucharist-and-love", "title": "The Eucharist and Love"}, {"slug": "a-mystery-to-be-lived", "title": "A Mystery to Be Lived"}, {"slug": "the-incarnation-and-the-eucharist", "title": "The Incarnation and the Eucharist"}]
+related: [{"slug": "inestimable-gift", "title": "Inestimable Gift"}, {"slug": "rediscover-the-gift", "title": "Rediscover the Gift"}, {"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}, {"slug": "the-eucharist-and-love", "title": "The Eucharist and Love"}, {"slug": "a-mystery-to-be-lived", "title": "A Mystery to Be Lived"}]
 ---
 
 

@@ -109,10 +109,6 @@
     ],
     "a-mystery-to-be-lived": [
       {
-        "slug": "the-seed-of-eternal-life",
-        "score": 0.9658
-      },
-      {
         "slug": "rediscover-the-gift",
         "score": 0.952
       },
@@ -123,6 +119,10 @@
       {
         "slug": "appreciating-the-gift",
         "score": 0.9464
+      },
+      {
+        "slug": "the-seed-of-eternal-life",
+        "score": 0.9444
       },
       {
         "slug": "inestimable-gift",
@@ -529,10 +529,6 @@
         "score": 0.9495
       },
       {
-        "slug": "the-seed-of-eternal-life",
-        "score": 0.9484
-      },
-      {
         "slug": "a-mystery-to-be-lived",
         "score": 0.9464
       },
@@ -543,6 +539,10 @@
       {
         "slug": "the-real-presence-after-thomas-mcgovern",
         "score": 0.9365
+      },
+      {
+        "slug": "the-seed-of-eternal-life",
+        "score": 0.9263
       },
       {
         "slug": "christs-eternal-priesthood",
@@ -639,16 +639,16 @@
         "score": 0.8596
       },
       {
+        "slug": "the-seed-of-eternal-life",
+        "score": 0.8557
+      },
+      {
         "slug": "the-bread-of-life",
         "score": 0.8552
       },
       {
         "slug": "knowing-loving-and-living-the-eucharist",
         "score": 0.8549
-      },
-      {
-        "slug": "the-eucharist-and-love",
-        "score": 0.8546
       }
     ],
     "aunt-carmen": [
@@ -1579,12 +1579,12 @@
         "score": 0.9291
       },
       {
-        "slug": "the-seed-of-eternal-life",
-        "score": 0.9222
-      },
-      {
         "slug": "appreciating-the-gift",
         "score": 0.9221
+      },
+      {
+        "slug": "the-seed-of-eternal-life",
+        "score": 0.9212
       },
       {
         "slug": "love-for-priests",
@@ -1609,6 +1609,10 @@
         "score": 0.9264
       },
       {
+        "slug": "the-seed-of-eternal-life",
+        "score": 0.9115
+      },
+      {
         "slug": "a-mystery-to-be-lived",
         "score": 0.9109
       },
@@ -1619,10 +1623,6 @@
       {
         "slug": "the-real-presence-after-thomas-mcgovern",
         "score": 0.9018
-      },
-      {
-        "slug": "the-seed-of-eternal-life",
-        "score": 0.9003
       },
       {
         "slug": "taking-the-bread",
@@ -4783,16 +4783,16 @@
         "score": 0.942
       },
       {
-        "slug": "the-seed-of-eternal-life",
-        "score": 0.9356
-      },
-      {
         "slug": "christs-eternal-priesthood",
         "score": 0.9323
       },
       {
         "slug": "taking-the-bread",
         "score": 0.929
+      },
+      {
+        "slug": "the-seed-of-eternal-life",
+        "score": 0.9255
       },
       {
         "slug": "the-real-presence-after-thomas-mcgovern",
@@ -5927,16 +5927,16 @@
         "score": 0.9353
       },
       {
-        "slug": "the-seed-of-eternal-life",
-        "score": 0.9331
-      },
-      {
         "slug": "churches-and-the-mass",
         "score": 0.9264
       },
       {
         "slug": "the-day-of-joy",
         "score": 0.9197
+      },
+      {
+        "slug": "the-seed-of-eternal-life",
+        "score": 0.9184
       },
       {
         "slug": "the-incarnation-and-the-eucharist",
@@ -9263,10 +9263,6 @@
         "score": 0.952
       },
       {
-        "slug": "the-seed-of-eternal-life",
-        "score": 0.9439
-      },
-      {
         "slug": "appreciating-the-gift",
         "score": 0.9433
       },
@@ -9277,6 +9273,10 @@
       {
         "slug": "the-incarnation-and-the-eucharist",
         "score": 0.932
+      },
+      {
+        "slug": "the-seed-of-eternal-life",
+        "score": 0.9244
       },
       {
         "slug": "taking-the-bread",
@@ -10133,7 +10133,7 @@
         "score": 0.8736
       },
       {
-        "slug": "the-seed-of-eternal-life",
+        "slug": "a-mystery-to-be-lived",
         "score": 0.8706
       }
     ],
@@ -12323,6 +12323,10 @@
         "score": 0.9243
       },
       {
+        "slug": "the-seed-of-eternal-life",
+        "score": 0.9205
+      },
+      {
         "slug": "the-eucharist-and-love",
         "score": 0.9176
       },
@@ -12337,10 +12341,6 @@
       {
         "slug": "appreciating-the-gift",
         "score": 0.9077
-      },
-      {
-        "slug": "the-seed-of-eternal-life",
-        "score": 0.9051
       },
       {
         "slug": "the-real-presence-after-thomas-mcgovern",
@@ -14129,10 +14129,6 @@
         "score": 0.9349
       },
       {
-        "slug": "the-seed-of-eternal-life",
-        "score": 0.9326
-      },
-      {
         "slug": "the-incarnation-and-the-eucharist",
         "score": 0.9241
       },
@@ -14147,6 +14143,10 @@
       {
         "slug": "loving-the-liturgy",
         "score": 0.9197
+      },
+      {
+        "slug": "christs-eternal-priesthood",
+        "score": 0.9089
       }
     ],
     "the-decree-of-caesar-augustus-and-the-journey-to-bethlehem": [
@@ -14533,6 +14533,10 @@
         "score": 0.9174
       },
       {
+        "slug": "the-seed-of-eternal-life",
+        "score": 0.9151
+      },
+      {
         "slug": "knowing-loving-and-living-the-eucharist",
         "score": 0.9067
       },
@@ -14551,10 +14555,6 @@
       {
         "slug": "inestimable-gift",
         "score": 0.8952
-      },
-      {
-        "slug": "the-real-presence-after-thomas-mcgovern",
-        "score": 0.8933
       }
     ],
     "the-eucharistfaith-and-hope": [
@@ -14571,6 +14571,10 @@
         "score": 0.8988
       },
       {
+        "slug": "the-seed-of-eternal-life",
+        "score": 0.8942
+      },
+      {
         "slug": "when-i-am-weak-then-i-am-strong",
         "score": 0.8941
       },
@@ -14585,10 +14589,6 @@
       {
         "slug": "touching-god-in-prayer",
         "score": 0.8847
-      },
-      {
-        "slug": "spiritual-receptivity",
-        "score": 0.8838
       }
     ],
     "the-exaltation-of-the-holy-cross": [
@@ -16233,10 +16233,6 @@
         "score": 0.9507
       },
       {
-        "slug": "the-seed-of-eternal-life",
-        "score": 0.9484
-      },
-      {
         "slug": "the-real-presence-after-thomas-mcgovern",
         "score": 0.9473
       },
@@ -16247,6 +16243,10 @@
       {
         "slug": "rediscover-the-gift",
         "score": 0.932
+      },
+      {
+        "slug": "the-seed-of-eternal-life",
+        "score": 0.9305
       },
       {
         "slug": "christs-eternal-priesthood",
@@ -18201,16 +18201,16 @@
         "score": 0.9473
       },
       {
-        "slug": "the-seed-of-eternal-life",
-        "score": 0.9383
-      },
-      {
         "slug": "appreciating-the-gift",
         "score": 0.9365
       },
       {
         "slug": "a-mystery-to-be-lived",
         "score": 0.9358
+      },
+      {
+        "slug": "the-seed-of-eternal-life",
+        "score": 0.925
       },
       {
         "slug": "inestimable-gift",
@@ -18606,35 +18606,35 @@
     "the-seed-of-eternal-life": [
       {
         "slug": "a-mystery-to-be-lived",
-        "score": 0.9658
+        "score": 0.9444
       },
       {
         "slug": "the-incarnation-and-the-eucharist",
-        "score": 0.9484
+        "score": 0.9305
       },
       {
         "slug": "appreciating-the-gift",
-        "score": 0.9484
-      },
-      {
-        "slug": "rediscover-the-gift",
-        "score": 0.9439
-      },
-      {
-        "slug": "the-real-presence-after-thomas-mcgovern",
-        "score": 0.9383
+        "score": 0.9263
       },
       {
         "slug": "inestimable-gift",
-        "score": 0.9356
+        "score": 0.9255
       },
       {
-        "slug": "loving-the-liturgy",
-        "score": 0.9331
+        "slug": "the-real-presence-after-thomas-mcgovern",
+        "score": 0.925
       },
       {
-        "slug": "the-day-of-joy",
-        "score": 0.9326
+        "slug": "rediscover-the-gift",
+        "score": 0.9244
+      },
+      {
+        "slug": "christs-eternal-priesthood",
+        "score": 0.9212
+      },
+      {
+        "slug": "taking-the-bread",
+        "score": 0.9205
       }
     ],
     "the-seven-sorrows-of-our-lady": [

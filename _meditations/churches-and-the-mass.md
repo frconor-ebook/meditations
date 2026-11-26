@@ -8,7 +8,7 @@ prev_slug: christs-eternal-priesthood
 prev_title: "Christ\u2019s Eternal Priesthood"
 next_slug: clean-of-heart
 next_title: "Clean of Heart"
-related: [{"slug": "loving-the-liturgy", "title": "Loving the Liturgy"}, {"slug": "a-mystery-to-be-lived", "title": "A Mystery to Be Lived"}, {"slug": "inestimable-gift", "title": "Inestimable Gift"}, {"slug": "the-real-presence-after-thomas-mcgovern", "title": "The Real Presence (after Thomas McGovern)"}, {"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}]
+related: [{"slug": "loving-the-liturgy", "title": "Loving the Liturgy"}, {"slug": "the-seed-of-eternal-life", "title": "The Seed of Eternal Life"}, {"slug": "a-mystery-to-be-lived", "title": "A Mystery to Be Lived"}, {"slug": "inestimable-gift", "title": "Inestimable Gift"}, {"slug": "the-real-presence-after-thomas-mcgovern", "title": "The Real Presence (after Thomas McGovern)"}]
 ---
 
 By Fr. Conor Donnelly
