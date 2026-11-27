@@ -8,7 +8,7 @@ prev_slug: our-lady-of-fatima
 prev_title: "Our Lady of Fatima"
 next_slug: our-lady-of-loreto
 next_title: "Our Lady of Loreto"
-related: [{"slug": "finding-jesus", "title": "Finding Jesus"}, {"slug": "the-immaculate-conception-dec-8", "title": "The Immaculate Conception (Dec. 8)"}, {"slug": "the-joy-of-the-journey-to-bethlehem", "title": "The Joy of the Journey to Bethlehem"}, {"slug": "the-vocation-of-our-lady", "title": "The Vocation of Our Lady"}, {"slug": "prince-of-peace", "title": "Prince of Peace"}]
+related: [{"slug": "finding-jesus", "title": "Finding Jesus"}, {"slug": "the-immaculate-conception-dec-8", "title": "The Immaculate Conception (Dec. 8)"}, {"slug": "the-joy-of-the-journey-to-bethlehem", "title": "The Joy of the Journey to Bethlehem"}, {"slug": "the-vocation-of-our-lady", "title": "The Vocation of Our Lady"}, {"slug": "st-andrew", "title": "St. Andrew"}]
 ---
 
 By Fr. Conor Donnelly

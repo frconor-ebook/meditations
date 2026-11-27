@@ -8,7 +8,7 @@ prev_slug: kindness
 prev_title: "Kindness"
 next_slug: knowing-when-to-speak
 next_title: "Knowing When to Speak"
-related: [{"slug": "the-vocation-of-our-lady", "title": "The Vocation of Our Lady"}, {"slug": "our-lady-comforter-of-the-afflicted", "title": "Our Lady, Comforter of the Afflicted"}, {"slug": "our-father-god", "title": "Our Father God"}, {"slug": "the-universal-call-to-contemplation", "title": "The Universal Call to Contemplation"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}]
+related: [{"slug": "the-vocation-of-our-lady", "title": "The Vocation of Our Lady"}, {"slug": "our-lady-comforter-of-the-afflicted", "title": "Our Lady, Comforter of the Afflicted"}, {"slug": "our-father-god", "title": "Our Father God"}, {"slug": "our-lady-of-fatima", "title": "Our Lady of Fatima"}, {"slug": "mother-of-god-and-our-mother", "title": "Mother of God and Our Mother"}]
 ---
 
 

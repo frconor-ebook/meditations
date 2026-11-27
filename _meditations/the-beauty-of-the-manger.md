@@ -8,7 +8,7 @@ prev_slug: the-beatitudes
 prev_title: "The Beatitudes"
 next_slug: the-bent-over-woman
 next_title: "The Bent Over Woman"
-related: [{"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}, {"slug": "the-joy-of-the-journey-to-bethlehem", "title": "The Joy of the Journey to Bethlehem"}, {"slug": "watchfulness", "title": "Watchfulness"}, {"slug": "the-apostolate-of-the-home", "title": "The Apostolate of the Home"}, {"slug": "the-immaculate-conception-dec-8", "title": "The Immaculate Conception (Dec. 8)"}]
+related: [{"slug": "christmas-day-2025", "title": "Christmas Day, 2025"}, {"slug": "watchfulness", "title": "Watchfulness"}, {"slug": "the-joy-of-the-journey-to-bethlehem", "title": "The Joy of the Journey to Bethlehem"}, {"slug": "the-apostolate-of-the-home", "title": "The Apostolate of the Home"}, {"slug": "the-immaculate-conception-dec-8", "title": "The Immaculate Conception (Dec. 8)"}]
 ---
 
 By Fr. Conor Donnelly

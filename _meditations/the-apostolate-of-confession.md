@@ -8,7 +8,7 @@ prev_slug: the-apostolate
 prev_title: "The Apostolate"
 next_slug: the-apostolate-of-the-home
 next_title: "The Apostolate of the Home"
-related: [{"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}, {"slug": "helping-to-do-good", "title": "Helping To Do Good"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "the-shepherds-and-peace", "title": "The Shepherds and Peace"}, {"slug": "st-andrew", "title": "St. Andrew"}]
+related: [{"slug": "in-expectation-of-our-lord", "title": "In Expectation of Our Lord"}, {"slug": "helping-to-do-good", "title": "Helping To Do Good"}, {"slug": "come-lord-jesus", "title": "Come, Lord Jesus"}, {"slug": "the-shepherds-and-peace", "title": "The Shepherds and Peace"}, {"slug": "forgiveness", "title": "Forgiveness"}]
 ---
 
 By Fr. Conor Donnelly

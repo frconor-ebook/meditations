@@ -8,7 +8,7 @@ prev_slug: st-joachim-and-st-anne
 prev_title: "St. Joachim and St. Anne"
 next_slug: st-john-2025-ed
 next_title: "St. John (2025 Ed.)"
-related: [{"slug": "the-apostolate", "title": "The Apostolate"}, {"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}, {"slug": "christmas", "title": "Christmas"}, {"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}, {"slug": "st-andrew", "title": "St. Andrew"}]
+related: [{"slug": "the-apostolate", "title": "The Apostolate"}, {"slug": "friendship-with-jesus", "title": "Friendship with Jesus"}, {"slug": "christmas", "title": "Christmas"}, {"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}, {"slug": "gratitude-for-pope-benedict-xvi", "title": "Gratitude for Pope Benedict XVI"}]
 ---
 
 By Fr. Conor Donnelly

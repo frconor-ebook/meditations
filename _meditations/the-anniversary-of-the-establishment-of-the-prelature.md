@@ -8,7 +8,7 @@ prev_slug: the-anniversary-of-the-election-of-don-fernando-ocariz-as-the-prelate
 prev_title: "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"
 next_slug: the-anniversary-of-the-first-holy-communion-of-st-josemaria
 next_title: "The Anniversary of the First Holy Communion of St. Josemar\u00eda"
-related: [{"slug": "the-saints-day-of-the-prelate", "title": "The Saint\u2019s Day of the Prelate"}, {"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "the-anniversary-of-the-election-of-don-fernando-ocariz-as-the-prelate-of", "title": "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"}, {"slug": "the-birthday-of-st-josemaria-escriva", "title": "The Birthday of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "the-anniversary-of-the-women-of-the-prelature", "title": "The Anniversary of the Women of the Prelature"}]
+related: [{"slug": "the-saints-day-of-the-prelate", "title": "The Saint\u2019s Day of the Prelate"}, {"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "the-anniversary-of-the-election-of-don-fernando-ocariz-as-the-prelate-of", "title": "The Anniversary of the Election of Don Fernando Oc\u00e1riz as the Prelate of"}, {"slug": "the-birthday-of-st-josemaria-escriva", "title": "The Birthday of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "the-birthday-of-the-prelate-don-fernando", "title": "The Birthday of the Prelate (Don Fernando)"}]
 ---
 
 By Fr. Conor Donnelly
@@ -41,7 +41,7 @@ But then our Father said it's as though on the 2nd of October 1928, God played H
 
 This gets expressed in the Second Vatican Council, and also in all the statutes and spirit of the Prelature of Opus Dei. As we look to the coming centuries, where we are now in the vanguard of this battle---the evangelization of society, of culture, a new evangelization---on which so many great things depend.
 
-When the Father, in his latest letter, is preparing us for the 100th anniversary of the founding of the Work, 1928 to 2028, only eight years away \[now only three years away\], he's inviting us to dream. A dream like our Father did in the early years of the Work. A dream about overcoming all the obstacles like our Father did.
+When the Father, in his latest letter, is preparing us for the 100th anniversary of the founding of the Work, 1928 to 2028, only eight years away \[now only two years away\], he's inviting us to dream. A dream like our Father did in the early years of the Work. A dream about overcoming all the obstacles like our Father did.
 
 "*Inter medium montium pertransibunt aquae*---the waters will pass through the...mountains!" (Josemaría Escrivá, *The Way,* Point 12; *The Forge*, Point 283; Ps. 104:10). All difficulties will be overcome.
 
@@ -71,7 +71,7 @@ We are aware of the acts of the devil to stop that going through. There were man
 
 Our Father also talked about the reality of providential injustices that he had to experience. It's a useful little adjective. We might experience injustice in some way or another in our work, in our marriage, in our family. Our Father helps us to put that adjective "providential" before it.
 
-After his ordination, shortly before he left Zaragoza, there was a providential injustice that led him to Madrid. It was in Madrid that God wanted Opus Dei to be born. God used that injustice to change the path in the course of his life, because He had greater plans.
+After his ordination, shortly afterwards, he had to leave Zaragoza, there was a providential injustice that led him to Madrid. It was in Madrid that God wanted Opus Dei to be born. God used that injustice to change the path in the course of his life, because He had greater plans.
 
 From 1951 onwards, our Father had greater recourse to Our Lady with the aspiration, "*Cor Mariae Dulcissimum, iter para tutum*: Most Sweet Heart of Mary, make the way safe!" (*ibid*., Point 178).
 
@@ -83,9 +83,11 @@ When Don Álvaro came to Manila in 1987, I was talking to him at one stage and t
 
 You could really sense that this business of leading a lifetime of thanksgiving was not just a nebulous idea. It was something he was putting into practice in a very concrete way. He invited us to sing a sort of a permanent *Te Deum*, praising God and thanking Him for this wonderful thing.
 
-It's now our grace to, little by little, come and try to understand those words---the meaning and the significance of the establishment of the Prelature---and to make new resolutions of fidelity, so that in the Work, as our Father taught us, we always live in the times of our Father.
+It's now our grace to, little by little, come to understand those words---the meaning and the significance of the establishment of the Prelature---and to make new resolutions of fidelity, so that in the Work, as our Father taught us, we always live in the times of our Father.
 
-We've heard the anecdote of how one time somebody mentioned to Don Álvaro: "That's how things were done in the times of our Father." Don Álvaro immediately said, "Please don't use that phrase, 'in the times of our Father,' as though it's something past that we can forget about."
+We've heard the anecdote of how one time somebody mentioned to Don Álvaro: "That's how things were done in the times of our Father."
+
+Don Álvaro immediately said, "Please don't use that phrase, 'in the times of our Father,' as though it's something past that we can forget about."
 
 He said, "We will always be living in the times of our Father." Those times have to always be relevant to us; have something to say to us.
 
@@ -109,9 +111,11 @@ It's a whole new reality for the Church, and hence, it's very important for us t
 
 Our Father liked to say, and Don Álvaro, that God has done everything. We owe it to Him. We've just been useless instruments. And so, a new humility.
 
-This feast day can lead us to be a little bit more united to the Father, to take his recent letter and go through it, syllable by syllable. All the letters that come to us from the Father have a profound importance for our spiritual life and our formation, and we need to go back and read them again and again.
+This feast day can lead us to be a little bit more united to the Father, to take his recent Letter and go through it, syllable by syllable. All the letters that come to us from the Father have a profound importance for our spiritual life and our formation, and we need to go back and read them again and again.
 
-Also, the early letters of our Father, of Don Álvaro, of Don Javier---they all have something to say to us. Retreat by retreat, annual course by annual course, we can't read these letters too much! Or if you live close to a center, try and make it your regular spiritual reading, so that we spend ourselves to be the good children that our Father wanted us to be, with what he says, "a minimum of juridical mentality," so that little children before a great gift, they stand in awe and amazement of the wonderful things that God has given to them, and know how to raise their heart and soul in thanksgiving, to make resolutions to give everything.
+Also, the early Letters of our Father, of Don Álvaro, of Don Javier---they all have something to say to us. Retreat by retreat, annual course by annual course, we can't read these Letters too much!
+
+Or if you live close to a center, try and make it your regular spiritual reading, so that we spend ourselves to be the good children that our Father wanted us to be, with what he says, "a minimum of juridical mentality," so that little children before a great gift, they stand in awe and amazement of the wonderful things that God has given to them, and know how to raise their heart and soul in thanksgiving, to make resolutions to give everything.
 
 Our Mass these days can be a Mass of special thanksgiving as we ask God for the grace to grow in all of these areas. Our Father says in *The Forge*: "My Lord, you always come to meet our real needs" (J. Escrivá, *The Forge*, Point 221).
 
@@ -121,7 +125,7 @@ An awful lot of the points of *The Forge* and the *Furrow* were inscribed in the
 
 One time in Rome, Don Álvaro told us near the end of that juridical pathway that he was with Pope John Paul II, who had mentally approved the canonical structure which was the exact structure, letter for letter, that our Father had left written. Our Father left three juridical solutions. If the first one wasn't approved, then we promote the second one. If not the second one, then we promote the third.
 
-But the one that Pope John Paul II approved was the first one, and all the difficulties and contradictions around that time led John Paul II, the vicar of Christ on earth, now canonized, to study personally, word for word, everything that our Father had left written - it wasn't some third secretary down the corridor!
+But the one that Pope John Paul II approved was the first one, and all the difficulties and contradictions around that time led John Paul II, the vicar of Christ on earth, now canonized, to study personally, word for word, everything that our Father had left written. It wasn't some third secretary down the corridor!
 
 Don Álvaro liked to point out that all the contradictions had led to that great grace. When Pope John Paul finished reading everything that our Father had left written, he banged the table, he said, with his big fist and said, "This has to go through."
 
@@ -131,7 +135,7 @@ See the confidence with which the Holy Father dealt with Don Álvaro. And Don Á
 
 Then he explained to us: "I told him that, because we want the juridical solution to come whenever God wants, not when we want." It was another very supernatural lesson that Don Álvaro taught us, in wanting the will of God in everything.
 
-You see, Don Álvaro could have said to the Holy Father, "Holy Father, you know I have 75,000 children all over the world who are offering their Mass every day for the last number of years and decades, and offering their lives, and their mortifications, and their prayer and work, and so many other things for this intention. Our Father died without it being fulfilled. So if you wouldn't mind, here's a pen. Could you go and sign those papers right now?"
+You see, Don Álvaro could have said to the Holy Father, 'Holy Father, you know I have 75,000 children all over the world who are offering their Mass every day for the last number of years and decades, and offering their lives, and their mortifications, and their prayer and work, and so many other things for this intention. Our Father died without it being fulfilled. So if you wouldn't mind, here's a pen. Could you go and sign those papers right now?'
 
 But Don Álvaro didn't say that. He said, "Holy Father, we want it whenever you want."
 
@@ -139,9 +143,9 @@ We can learn from all these great lessons that our Father and Don Álvaro teach 
 
 In *The Forge*, our Father also says, "Thank you, Lord, because---as well as allowing us to be tempted---you also give us the strength and beauty of your grace so that we can win through! Thank you, Lord, for the temptations you allow us to have so that we may be humble!" (J. Escrivá, *The Forge*, Point 313).
 
-Just after the granting of the special intention. Don Álvaro wrote a long letter, the November 1982 letter, which is a very good letter to go and read some time. He talks all about thanksgiving for this great event.
+Just after the granting of the special intention, Don Álvaro wrote a long Letter, the November 1982 Letter, which is a very good letter to go and read some time. He talks all about thanksgiving for this great event.
 
-At one point in that letter, in number 56, he says: "My children, we've been looking at the many reasons we have to be grateful and to persevere in continuous thanksgiving. As we did so, we will have seen all this ceaseless divine activity in our Father's soul and in the Work is expressed and summed up in a work of sanctification."
+At one point in that Letter, in Point 56, he says: "My children, we've been looking at the many reasons we have to be grateful and to persevere in continuous thanksgiving. As we did so, we will have seen all this ceaseless divine activity in our Father's soul and in the Work is expressed and summed up in a work of sanctification."
 
 "Ceaseless divine activity." God is present in His work with each one of us, bringing about Opus Dei, bringing it forward in every nook and corner and cranny of society. God has arranged all these things to teach us to be His intimate friends and to sanctify us. All these things.
 
@@ -173,7 +177,7 @@ Just like the Holy Spirit was active in the soul of our Father, so He'll be acti
 
 We're about to accompany the Holy Family very closely along their journey to Bethlehem, a very good time for us to turn more frequently to them so that they might lead us to the Trinity. And also, that we learn from them how to listen a little better to the inspirations of the Holy Spirit deep in our soul; that we know He's there always.
 
-After the granting of the special intention, Don Álvaro said that famous aspiration of our Father---*Cor Mariae Dulcissimum, iter para tutum*! Prepare a safe way!---now we can change that slightly and say, *Cor Mariae Dulcissimum, iter para et serva* tutum! Most Sweet Heart of Mary, keep the way safe!
+After the granting of the special intention, Don Álvaro said that famous aspiration of our Father---*Cor Mariae Dulcissimum, iter para tutum*! Prepare a safe way! He said, "Now we can change that slightly and say, *Cor Mariae Dulcissimum, iter para et serva*tutum! Most Sweet Heart of Mary, keep the way safe!"
 
 It has a great application in our life, to keep the pathway of our vocations, of our apostolate, of our marriage, of our family, of our work, of all the plans that God has for our life. And so, with reason, united to the Father, as we look to the 2nd of October 1928 with the help of this letter, we can say with great fervor to Our Lady today, *Cor Mariae Dulcissimum, iter para et serva tutum*!
 

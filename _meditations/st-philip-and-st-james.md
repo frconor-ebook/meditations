@@ -8,7 +8,7 @@ prev_slug: st-peter-and-st-paul
 prev_title: "St. Peter and St. Paul"
 next_slug: st-pius-x
 next_title: "St. Pius X"
-related: [{"slug": "the-conversion-of-st-paul", "title": "The Conversion of St. Paul"}, {"slug": "st-andrew", "title": "St. Andrew"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "st-joseph-the-worker", "title": "St. Joseph the Worker"}, {"slug": "easter-faith", "title": "Easter Faith"}]
+related: [{"slug": "the-conversion-of-st-paul", "title": "The Conversion of St. Paul"}, {"slug": "our-lady-help-of-christians", "title": "Our Lady Help of Christians"}, {"slug": "st-joseph-the-worker", "title": "St. Joseph the Worker"}, {"slug": "easter-faith", "title": "Easter Faith"}, {"slug": "our-ladys-fidelity", "title": "Our Lady\u2019s Fidelity"}]
 ---
 
 By Fr. Conor Donnelly

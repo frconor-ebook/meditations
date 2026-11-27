@@ -8,7 +8,7 @@ prev_slug: octave-of-prayer-for-the-unity-of-christians
 prev_title: "Octave of Prayer for the Unity of Christians"
 next_slug: on-creation
 next_title: "On Creation"
-related: [{"slug": "the-miraculous-catch-of-fish", "title": "The Miraculous Catch of Fish"}, {"slug": "fishers-of-men", "title": "Fishers of Men"}, {"slug": "the-archangels", "title": "The Archangels"}, {"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}, {"slug": "study", "title": "Study"}]
+related: [{"slug": "the-miraculous-catch-of-fish", "title": "The Miraculous Catch of Fish"}, {"slug": "fishers-of-men", "title": "Fishers of Men"}, {"slug": "the-archangels", "title": "The Archangels"}, {"slug": "st-andrew", "title": "St. Andrew"}, {"slug": "the-canonization-of-st-josemaria-escriva", "title": "The Canonization of St. Josemar\u00eda Escriv\u00e1"}]
 ---
 
 By Fr. Conor Donnelly

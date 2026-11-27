@@ -8,7 +8,7 @@ prev_slug: st-dominic
 prev_title: "St. Dominic"
 next_slug: st-francis-de-sales
 next_title: "St. Francis de Sales"
-related: [{"slug": "st-andrew", "title": "St. Andrew"}, {"slug": "st-john", "title": "St. John"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}, {"slug": "christmas", "title": "Christmas"}, {"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}]
+related: [{"slug": "st-john", "title": "St. John"}, {"slug": "the-sacred-humanity-of-jesus", "title": "The Sacred Humanity of Jesus"}, {"slug": "christmas", "title": "Christmas"}, {"slug": "waiting-for-jesus", "title": "Waiting for Jesus"}, {"slug": "the-passion-of-st-john-the-baptist", "title": "The Passion of St. John the Baptist"}]
 ---
 
 By Fr. Conor Donnelly
